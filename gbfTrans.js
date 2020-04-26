@@ -1,6 +1,6 @@
-const questCsv = 'data/quest.csv';
-const nameCsv = 'data/name.csv';
-const archiveCsv = 'data/archive.csv';
+const questCsv = '/data/quest.csv';
+const nameCsv = '/data/name.csv';
+const archiveCsv = '/data/archive.csv';
 
 // Observer Configuration
 var generalConfig = {
@@ -40,7 +40,7 @@ const request = async pathname => {
       let timer = setTimeout(() => {
         rej(`불러오기${pathname}시간초과`);
       }, 30 * 1000);
-      fetch(`${origin}${pathname}`).then(res => {
+      fetch(`${generalConfig.origin}${pathname}`).then(res => {
         clearTimeout(timer);
         const type = res.headers.get('content-type');
 
