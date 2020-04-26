@@ -120,9 +120,7 @@ async function GetTranslatedImageURL(stext, csvFile) {
        return true;
      }
   });
-  if(translatedText.includes("undefined"))
-    return "";
-  if(!translatedText.includes("png"))
+  if(!transImg.includes("png"))
     return "";
   if(transImg.length > 0){
     PrintLog("Send URL:"+transImg);
@@ -269,7 +267,6 @@ async function ReplaceImages() {
   }
   PrintLog("Image Check");
   var images = document.getElementsByTagName("img");
-  PrintLog(images);
   walkDownTreeSrc(images,GetTranslatedImage, imageCsv);
 }
 const main = async () => {
