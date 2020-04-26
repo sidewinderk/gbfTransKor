@@ -158,7 +158,8 @@ async function GetTranslatedImage(node, csv){
   PrintLog("Send URL:"+imageInput);
   translatedText = await GetTranslatedImageURL(imageInput, csv);
   if(translatedText.length > 0){ // When it founds the translated text
-    node.setAttribute("src",translatedText);
+    if(!translatedText.includes("undefined"))
+      node.setAttribute("src",translatedText);
     // node.currentSrc = translatedText;
     PrintLog("Take URL:"+translatedText);
   }
