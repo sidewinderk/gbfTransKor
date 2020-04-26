@@ -120,6 +120,10 @@ async function GetTranslatedImageURL(stext, csvFile) {
        return true;
      }
   });
+  if(translatedText.includes("undefined"))
+    return "";
+  if(!translatedText.includes("png"))
+    return "";
   if(transImg.length > 0){
     PrintLog("Send URL:"+transImg);
     return transImg;
@@ -158,8 +162,7 @@ async function GetTranslatedImage(node, csv){
   PrintLog("Send URL:"+imageInput);
   translatedText = await GetTranslatedImageURL(imageInput, csv);
   if(translatedText.length > 0){ // When it founds the translated text
-    if(!translatedText.includes("undefined"))
-      node.setAttribute("src",translatedText);
+    node.setAttribute("src",translatedText);
     // node.currentSrc = translatedText;
     PrintLog("Take URL:"+translatedText);
   }
