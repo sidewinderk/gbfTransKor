@@ -1,6 +1,7 @@
 const questCsv = '/data/quest.csv';
 const nameCsv = '/data/name.csv';
 const archiveCsv = '/data/archive.csv';
+const imageCsv = '/data/image.csv';
 
 // Observer Configuration
 var generalConfig = {
@@ -26,6 +27,16 @@ function walkDownTree(node, command, variable = null) {
     node.childNodes.forEach(childNode => {
       walkDownTree(childNode, command, variable);
     });
+  }
+}
+function walkDownTreeSrc(node, command, variable = null) {
+  if(node.currentSrc){
+    PrintLog(node.currentSrc);
+    command(node, variable);
+  }
+  if(node.length > 0){
+    for(var i = 0;i < node.length; i++)
+      walkDownTreeSrc(node[i], command, variable);
   }
 }
 
@@ -98,6 +109,26 @@ async function translate(stext, csvFile) {
     return "";
   }
 }
+async function GetTranslatedImageURL(stext, csvFile) {
+  var transImg = "";
+  let csv = await request(csvFile);
+  const list = parseCsv(csv);
+   list.some(function(item){
+     if((String(stext).includes(String(item.orig))) && String(stext).includes("assets")){
+       PrintLog("GET URL:"+String(item.kr));
+       transImg = generalConfig.origin+"/images/"+String(item.kr);
+       return true;
+     }
+  });
+  if(transImg.length > 0){
+    PrintLog("Send URL:"+transImg);
+    return transImg;
+  }
+  else{
+    return "";
+  }
+}
+
 var translatedText = "";
 async function GetTranslatedText(node, csv){
   var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
@@ -119,6 +150,17 @@ async function GetTranslatedText(node, csv){
     }
     node.innerHTML = translatedText;
     PrintLog("Take:"+translatedText);
+  }
+}
+async function GetTranslatedImage(node, csv){
+  var imageInput = node.currentSrc;
+
+  PrintLog("Send URL:"+imageInput);
+  translatedText = await GetTranslatedImageURL(imageInput, csv);
+  if(translatedText.length > 0){ // When it founds the translated text
+    node.setAttribute("src",translatedText);
+    // node.currentSrc = translatedText;
+    PrintLog("Take URL:"+translatedText);
   }
 }
 
@@ -151,6 +193,12 @@ var archiveObserver = new MutationObserver(function(mutations) {
   archiveObserver.disconnect();
   ReplaceArchive();
   ObserverArchive();
+});
+var ImageObserver = new MutationObserver(function(mutations) {
+  // PrintLog(mutations);
+  ImageObserver.disconnect();
+  ReplaceImages();
+  ObserverImage();
 });
 
 // Queue for each observers
@@ -185,6 +233,17 @@ async function ObserverArchive() {
   }
   archiveObserver.observe(oText, config);
 }
+async function ObserverImage() {
+  // var oText = document.querySelector(".prt-scroll-title");
+  var oText = document.getElementById('loading');
+  if(!oText) {
+      //The node we need does not exist yet.
+      //Wait 500ms and try again
+      window.setTimeout(ObserverArchive,generalConfig.refreshRate);
+      return;
+  }
+  ImageObserver.observe(oText, config);
+}
 async function ReplaceArchive() {
   var header = document.getElementsByClassName('prt-head-current')[0];
   if(!header.innerHTML) {
@@ -196,9 +255,22 @@ async function ReplaceArchive() {
   var allElements = document.getElementById('wrapper');
   walkDownTree(allElements,GetTranslatedText, archiveCsv);
 }
+async function ReplaceImages() {
+  var header = document.getElementsByClassName('prt-head-current')[0];
+  if(!header.innerHTML) {
+    //The node we need does not exist yet.
+    //Wait 500ms and try again
+    window.setTimeout(ReplaceImages,300);
+    return;
+  }
+  PrintLog("Image Check");
+  var images = document.getElementsByTagName("img");
+  PrintLog(images);
+  walkDownTreeSrc(images,GetTranslatedImage, imageCsv);
+}
 const main = async () => {
   try {
-    await Promise.all([ObserveNameText(),ObserveSceneText(),ObserverArchive()]);
+    await Promise.all([ObserverImage(),ObserveNameText(),ObserveSceneText(),ObserverArchive()]);
   } catch (e) {
     PrintLog(e);
   }
