@@ -30,13 +30,23 @@ function walkDownTree(node, command, variable = null) {
   }
 }
 function walkDownTreeSrc(node, command, variable = null) {
-  if(node.currentSrc){
-    PrintLog(node.currentSrc);
+  if((!node.length)
+  && (!node.className.includes("item"))  // it's too much.
+  && (node.currentSrc)){
     command(node, variable);
   }
   if(node.length > 0){
     for(var i = 0;i < node.length; i++)
       walkDownTreeSrc(node[i], command, variable);
+  }
+}
+function walkDownTreeStyle(node, command, variable = null) {
+  if(!node.length){
+    command(node, variable);
+  }
+  if(node.length > 0){
+    for(var i = 0;i < node.length; i++)
+    walkDownTreeStyle(node[i], command, variable);
   }
 }
 
@@ -130,6 +140,27 @@ async function GetTranslatedImageURL(stext, csvFile) {
     return "";
   }
 }
+async function GetTranslatedImageStyle(stext, csvFile) {
+  var transImg = "";
+  let csv = await request(csvFile);
+  const list = parseCsv(csv);
+   list.some(function(item){
+     if((String(stext).includes(String(item.orig))) && String(stext).includes("assets")){
+       PrintLog("GET URL:"+String(item.kr));
+       transImg = "url('"+generalConfig.origin+"/images/"+String(item.kr)+"')";
+       return true;
+     }
+  });
+  if(!transImg.includes("png"))
+    return "";
+  if(transImg.length > 0){
+    PrintLog("Send URL:"+transImg);
+    return transImg;
+  }
+  else{
+    return "";
+  }
+}
 
 var translatedText = "";
 async function GetTranslatedText(node, csv){
@@ -161,8 +192,17 @@ async function GetTranslatedImage(node, csv){
   translatedText = await GetTranslatedImageURL(imageInput, csv);
   if(translatedText.length > 0){ // When it founds the translated text
     node.setAttribute("src",translatedText);
-    // node.currentSrc = translatedText;
     PrintLog("Take URL:"+translatedText);
+  }
+}
+async function GetTranslatedImageDIV(node, csv){
+  var imageStyle = window.getComputedStyle(node).backgroundImage;
+
+  PrintLog("Send DIV:"+imageStyle);
+  translatedText = await GetTranslatedImageStyle(imageStyle, csv);
+  if(translatedText.length > 0){ // When it founds the translated text
+    node.style.backgroundImage = translatedText;
+    PrintLog("Take DIV:"+translatedText);
   }
 }
 
@@ -268,6 +308,8 @@ async function ReplaceImages() {
   PrintLog("Image Check");
   var images = document.getElementsByTagName("img");
   walkDownTreeSrc(images,GetTranslatedImage, imageCsv);
+  var imagesDIV = document.querySelectorAll('[class^="prt"]');
+  walkDownTreeStyle(imagesDIV,GetTranslatedImageDIV, imageCsv);
 }
 const main = async () => {
   try {
