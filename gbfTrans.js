@@ -208,7 +208,11 @@ async function GetTranslatedImage(node, csv){
 }
 async function GetTranslatedImageDIV(node, csv){
   var imageStyle = window.getComputedStyle(node).backgroundImage;
-
+  if((imageStyle == "none")
+  ||(imageStyle.includes("list_item"))
+  ||(imageStyle.includes("evolution_star"))
+  )
+    return;
   PrintLog("Send DIV:"+imageStyle);
   translatedText = await GetTranslatedImageStyle(imageStyle, csv);
   if(translatedText.length > 0){ // When it founds the translated text
