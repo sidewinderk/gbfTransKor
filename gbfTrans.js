@@ -164,7 +164,14 @@ async function GetTranslatedImageStyle(stext, csvFile) {
 
 var translatedText = "";
 async function GetTranslatedText(node, csv){
+  //Filter node
+  if((node.className.includes("txt-message"))
+  || (node.className.includes("txt-character-name"))
+  )
+    return;
+
   var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+  
   // Filter for avoiding unnecessary computing
   if ( (textInput.includes("div"))
   || (textInput.includes("img class"))
@@ -176,7 +183,6 @@ async function GetTranslatedText(node, csv){
   || (isNaN(textInput.replace("/","")) == false) // number / number
   )
     return;
-  
   // If the text contains any number, save the number and replace it to "*"
   var number = textInput.replace(/[^0-9]/g,"");
   if(number.length > 0){ 
@@ -213,6 +219,7 @@ async function GetTranslatedImageDIV(node, csv){
   ||(imageStyle.includes("evolution_star"))
   )
     return;
+
   PrintLog("Send DIV:"+imageStyle);
   translatedText = await GetTranslatedImageStyle(imageStyle, csv);
   if(translatedText.length > 0){ // When it founds the translated text
@@ -238,9 +245,12 @@ var nameObserver = new MutationObserver(function(mutations) {
   mutations.some(function(mutation){
     // PrintLog(mutation);
     if(mutation.target.className.includes("txt-character-name")){  
+      var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+      if(tempName != "<span>&nbsp;</span>"){
         nameObserver.disconnect();
         GetTranslatedText(mutation.target, nameCsv);
         ObserveNameText();
+      }
     }
   });
 });
