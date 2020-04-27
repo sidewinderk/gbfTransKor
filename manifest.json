@@ -16,6 +16,7 @@
     "options_page": "options.html",
     "permissions": [
       "storage",
+      "unlimitedStorage", 
       "activeTab",
       "tabs",
       "webNavigation"
@@ -37,3 +38,4 @@
         "images/*.png"
     ]
 }
+
