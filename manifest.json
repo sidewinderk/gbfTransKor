@@ -4,10 +4,6 @@
     "name": "GBF-Kor-Trans",
     "description": "Simple Chrome Extension for translating GBF page to Korean",
     "version": "0.1.0",
-    "background": {
-      "persistent": false,
-      "scripts": ["background.js"]
-    },
     "browser_action": {
       "default_popup": "popup.html",
       "default_icon": {
@@ -22,7 +18,6 @@
       "storage",
       "activeTab",
       "tabs",
-      "<all_urls>",
       "webNavigation"
     ],
     "icons": {
@@ -33,11 +28,12 @@
     },
     "content_scripts": [
       {
-        "matches": ["<all_urls>"],
+        "matches": ["http://game.granbluefantasy.jp/","http://gbf.game.mbga.jp/"],
         "js": ["content.js"]
       }
     ],
     "web_accessible_resources": [
-        "data/*.csv"
+        "data/*.csv",
+        "images/*.png"
     ]
 }
