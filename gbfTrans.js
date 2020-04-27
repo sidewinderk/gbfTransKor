@@ -165,6 +165,17 @@ async function GetTranslatedImageStyle(stext, csvFile) {
 var translatedText = "";
 async function GetTranslatedText(node, csv){
   var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+  // Filter for avoiding unnecessary computing
+  if ( (textInput.includes("div"))
+  || (textInput.includes("img class"))
+  || (textInput.includes("img src"))
+  || (textInput.includes("figure class"))
+  || (textInput.includes("li class"))
+  || (textInput.includes("a class"))
+  || (isNaN(textInput) == false) // Only number
+  || (isNaN(textInput.replace("/","")) == false) // number / number
+  )
+    return;
   
   // If the text contains any number, save the number and replace it to "*"
   var number = textInput.replace(/[^0-9]/g,"");
