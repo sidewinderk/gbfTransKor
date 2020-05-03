@@ -1,6 +1,6 @@
-const questCsv = '/data/quest_heavytest.csv';
-const nameCsv = '/data/name_heavytest.csv';
-const archiveCsv = '/data/archive_heavytest.csv';
+const questCsv = '/data/quest_heavytext.csv';
+const nameCsv = '/data/name_heavytext.csv';
+const archiveCsv = '/data/archive_heavytext.csv';
 const imageCsv = '/data/image.csv';
 
 // Observer Configuration
