@@ -14,28 +14,40 @@ var generalConfig = {
 }
 
 // Coversation with popup window
+
+function InitList(){
+  chrome.storage.local.get(['oTEXT','nTEXT','mTEXT'], function (result) {
+    if(result.oTEXT)
+      storyText = result.oTEXT;
+    if(result.nTEXT)
+      cNames = result.nTEXT;
+    if(result.mTEXT)
+      miscs = result.mTEXT;
+});
+}
+
 chrome.runtime.onMessage.addListener(
   function(request, sender, sendResponse) {
     if (request.data == "update"){
-      chrome.storage.sync.set({oTEXT: storyText, nTEXT: cNames, mTEXT: miscs});
+      chrome.storage.local.set({oTEXT: storyText, nTEXT: cNames, mTEXT: miscs});
     }
     if (request.data == "clearText"){
       storyText = [];
-      chrome.storage.sync.set({oTEXT: storyText});
+      chrome.storage.local.set({oTEXT: storyText});
     }
     if (request.data == "clearName"){
       cNames = [];
-      chrome.storage.sync.set({nTEXT: cNames});
+      chrome.storage.local.set({nTEXT: cNames});
     }
     if (request.data == "clearMisc"){
       miscs = [];
-      chrome.storage.sync.set({mTEXT: miscs});
+      chrome.storage.local.set({mTEXT: miscs});
     }
     if (request.data == "refresh"){
       PrintLog(storyText);
       PrintLog(cNames);
       PrintLog(miscs);
-      chrome.storage.sync.set({oTEXT: storyText, nTEXT: cNames, mTEXT: miscs});
+      chrome.storage.local.set({oTEXT: storyText, nTEXT: cNames, mTEXT: miscs});
     }
   }
 );
@@ -49,7 +61,7 @@ var config = {
 
 // Common modules
 function PrintLog(text){
-  chrome.storage.sync.get(['verboseMode'], function (result) {
+  chrome.storage.local.get(['verboseMode'], function (result) {
     if(result.verboseMode)
       console.log(text);
   });
@@ -81,6 +93,15 @@ function walkDownTreeStyle(node, command, variable = null) {
   if(node.length > 0){
     for(var i = 0;i < node.length; i++)
     walkDownTreeStyle(node[i], command, variable);
+  }
+}
+function PushCSV(text, array){
+  if(!array.includes(text)){
+    if(array.includes(","))
+      array.push("'"+text+"'");
+    else
+      array.push(text);
+    chrome.storage.local.set({oTEXT: storyText, nTEXT: cNames, mTEXT: miscs});
   }
 }
 
@@ -122,7 +143,7 @@ Array.isArray||(Array.isArray=function(e){return "[object Array]"===Object.proto
    try {
      return papaparse_min.parse(str.replace(/^\ufeff/, ''), {
        header: true,
-       delimiter: "|"
+       delimiter: ","
      }).data;
    } catch (err) {
      PrintLog(err);
@@ -199,13 +220,14 @@ async function GetTranslatedImageStyle(stext, csvFile) {
 
 var translatedText = "";
 async function GetTranslatedText(node, csv){
+  var passOrNot = true;
   //Filter node
   if((node.className.includes("txt-message"))
   || (node.className.includes("txt-character-name"))
   )
-    return;
+    passOrNot = false;
 
-  var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+  var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
   
   // Filter for avoiding unnecessary computing
   if ( (textInput.includes("div"))
@@ -217,31 +239,44 @@ async function GetTranslatedText(node, csv){
   || (isNaN(textInput) == false) // Only number
   || (isNaN(textInput.replace("/","")) == false) // number / number
   )
-    return;
-  // If the text contains any number, save the number and replace it to "*"
-  var number = textInput.replace(/[^0-9]/g,"");
-  if(number.length > 0){ 
-    textInput = textInput.replace(/[0-9]/g,"*");
-  }
-  chrome.storage.sync.get(['extractMode'], function (result) {
-    if(result.extractMode){
-      if(!miscs.includes(textInput))
-        miscs.push(textInput);
-    }
-  });
-  PrintLog("Send:"+textInput);
-  translatedText = await translate(textInput, csv);
-  if(translatedText.length > 0){ // When it founds the translated text
-    if(number.length > 0){
-      // If it contains number("*"), recover it from the saved number
-      for (var i = 0; i < number.length; i++) {
-        translatedText = translatedText.slice(0,translatedText.indexOf("*")) +  number[i] + translatedText.slice(translatedText.indexOf("*")+1);
-      }
-    }
-    node.innerHTML = translatedText;
-    PrintLog("Take:"+translatedText);
-  }
+    passOrNot = false;
   
+  // Add exception's exception.
+  if ((node.className.includes("name"))
+  || (node.className.includes("message"))
+  || (node.className.includes("comment"))
+  || (node.className.includes("effect"))
+  || (node.className.includes("time"))
+  || (node.className.includes("txt-withdraw-trialbatle"))
+  || (node.className.includes("prt-popup-header"))
+  )
+    passOrNot = true;
+  if(passOrNot){
+    // If the text contains any number, save the number and replace it to "*"
+    var number = textInput.replace(/[^0-9]/g,"");
+    if(number.length > 0){ 
+      textInput = textInput.replace(/[0-9]/g,"*");
+    }
+    chrome.storage.local.get(['extractMode'], function (result) {
+      if(result.extractMode){
+        PushCSV(textInput,miscs);
+        // if(!miscs.includes(textInput))
+        // miscs.push(textInput);
+      }
+    });
+    PrintLog("Send:"+textInput);
+    translatedText = await translate(textInput, csv);
+    if(translatedText.length > 0){ // When it founds the translated text
+      if(number.length > 0){
+        // If it contains number("*"), recover it from the saved number
+        for (var i = 0; i < number.length; i++) {
+          translatedText = translatedText.slice(0,translatedText.indexOf("*")) +  number[i] + translatedText.slice(translatedText.indexOf("*")+1);
+        }
+      }
+      node.innerHTML = translatedText;
+      PrintLog("Take:"+translatedText);
+    }
+  }
 }
 async function GetTranslatedImage(node, csv){
   var imageInput = node.currentSrc;
@@ -273,13 +308,14 @@ var sceneObserver = new MutationObserver(function(mutations) {
   mutations.some(function(mutation){
     // PrintLog(mutation);
     if(mutation.target.className.includes("txt-message")){
-        var textmessage = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
-        chrome.storage.sync.get(['extractMode','translateMode'], function (result) {
+        var textmessage = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
+        chrome.storage.local.get(['extractMode','translateMode'], function (result) {
             if(result.extractMode){
                 PrintLog(textmessage);
                 // sendText(textmessage, 0);
-                if(!storyText.includes(textmessage))
-                  storyText.push(textmessage);
+                PushCSV(textmessage,storyText);
+                // if(!storyText.includes(textmessage))
+                  // storyText.push(textmessage);
             }
             if(result.translateMode){
               sceneObserver.disconnect();
@@ -296,12 +332,13 @@ var nameObserver = new MutationObserver(function(mutations) {
   mutations.some(function(mutation){
     // PrintLog(mutation);
     if(mutation.target.className.includes("txt-character-name")){
-      chrome.storage.sync.get(['extractMode','translateMode'], function (result) {
-        var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+      chrome.storage.local.get(['extractMode','translateMode'], function (result) {
+        var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
         if(tempName != "<span>&nbsp;</span>"){
           if(result.extractMode){
-            if(!cNames.includes(tempName))
-              cNames.push(tempName);
+            PushCSV(tempName,cNames);
+            // if(!cNames.includes(tempName))
+              // cNames.push(tempName);
           }
           if(result.translateMode){
             nameObserver.disconnect();
@@ -336,7 +373,11 @@ async function ObserveSceneText() {
         window.setTimeout(ObserveSceneText,generalConfig.refreshRate);
         return;
     }
-    sceneObserver.observe(oText,config);
+    if((document.URL.includes("archive"))
+    || (document.URL.includes("scene"))
+    || (document.URL.includes("story"))
+    )
+      sceneObserver.observe(oText,config);
 }
 async function ObserveNameText() {
   var oTextName = document.getElementsByClassName('txt-character-name')[0];
@@ -346,7 +387,11 @@ async function ObserveNameText() {
       window.setTimeout(ObserveNameText,generalConfig.refreshRate);
       return;
   }
-  nameObserver.observe(oTextName,config);
+  if((document.URL.includes("archive"))
+    || (document.URL.includes("scene"))
+    || (document.URL.includes("story"))
+    )
+    nameObserver.observe(oTextName,config);
 }
 async function ObserverArchive() {
   // var oText = document.querySelector(".prt-scroll-title");
@@ -395,6 +440,7 @@ async function ReplaceImages() {
   walkDownTreeStyle(imagesDIV,GetTranslatedImageDIV, imageCsv);
 }
 const main = async () => {
+  InitList();
   try {
     await Promise.all([ObserverImage(),ObserveNameText(),ObserveSceneText(),ObserverArchive()]); //
   } catch (e) {

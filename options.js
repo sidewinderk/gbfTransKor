@@ -4,7 +4,7 @@ function save_options() {
   var translateModeCurrent = document.getElementById('isTranslateMode').checked;
   var verboseModeCurrent = document.getElementById('isVerbose').checked;
   
-  chrome.storage.sync.set({
+  chrome.storage.local.set({
     extractMode: extractModeCurrent,
     translateMode: translateModeCurrent,
     verboseMode: verboseModeCurrent
@@ -22,7 +22,7 @@ function save_options() {
 // stored in chrome.storage.
 function restore_options() {
   // Use default value extractMode = true.
-  chrome.storage.sync.get(['extractMode','translateMode','verboseMode'], function(items) {
+  chrome.storage.local.get(['extractMode','translateMode','verboseMode'], function(items) {
     document.getElementById('isExtractMode').checked = items.extractMode;
     document.getElementById('isTranslateMode').checked = items.translateMode;
     document.getElementById('isVerbose').checked = items.verboseMode;

@@ -2,25 +2,35 @@
 <head>
     <style>
         BODY {width: 480px; min-height: 320px;}
+        textarea{
+        /* Source: Aakash Chakravarthy https://jsfiddle.net/vaakash/5TF5h/ */
+            background: url(http://i.imgur.com/2cOaJ.png);
+        background-attachment: local;
+        background-repeat: no-repeat;
+        padding-left: 35px;
+        padding-top: 10px;
+            border-color:#ccc;
+        width:90%;
+        }
     </style>
     <script src="popup.js"></script>
 </head>
 <body>
 <button id="getText">Get text</button> <button id="copyText">Copy text</button> <button id="cacheClearText">Clear cache</button><br>
-<textarea id="outputcheck" rows="6" style="width:100%;">
-    Will be displayed here.
+<textarea id="outputcheck" rows="6">
+Will be displayed here.
 </textarea>
 <br>
 <button id="getName">Get name</button> <button id="copyName">Copy text</button> <button id="cacheClearName">Clear cache</button><br>
-<textarea id="namecheck" rows="4" style="width:100%;">
-    Will be displayed here.
+<textarea id="namecheck" rows="4">
+Will be displayed here.
 </textarea>
 <br>
 <button id="getMisc">Get Misc.</button> <button id="copyMisc">Copy text</button> <button id="cacheClearMisc">Clear cache</button><br>
-<textarea id="otherscheck" rows="6" style="width:100%;">
-    Will be displayed here.
+<textarea id="otherscheck" rows="6">
+Will be displayed here.
 </textarea>
 <br>
-<button id="update">Update</button> <button id="go-to-options">Option Page</button>
+<button id="update">Manual Refresh</button> <button id="go-to-options">Option Page</button>
 </body>
 </html>

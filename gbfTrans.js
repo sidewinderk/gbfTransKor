@@ -88,7 +88,7 @@ Array.isArray||(Array.isArray=function(e){return "[object Array]"===Object.proto
    try {
      return papaparse_min.parse(str.replace(/^\ufeff/, ''), {
        header: true,
-       delimiter: "|"
+       delimiter: ","
      }).data;
    } catch (err) {
      PrintLog(err);
@@ -164,13 +164,14 @@ async function GetTranslatedImageStyle(stext, csvFile) {
 
 var translatedText = "";
 async function GetTranslatedText(node, csv){
+  var passOrNot = true;
   //Filter node
   if((node.className.includes("txt-message"))
   || (node.className.includes("txt-character-name"))
   )
-    return;
+    passOrNot = false;
 
-  var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+  var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
   
   // Filter for avoiding unnecessary computing
   if ( (textInput.includes("div"))
@@ -182,24 +183,36 @@ async function GetTranslatedText(node, csv){
   || (isNaN(textInput) == false) // Only number
   || (isNaN(textInput.replace("/","")) == false) // number / number
   )
-    return;
-  // If the text contains any number, save the number and replace it to "*"
-  var number = textInput.replace(/[^0-9]/g,"");
-  if(number.length > 0){ 
-    textInput = textInput.replace(/[0-9]/g,"*");
-  }
-
-  PrintLog("Send:"+textInput);
-  translatedText = await translate(textInput, csv);
-  if(translatedText.length > 0){ // When it founds the translated text
-    if(number.length > 0){
-      // If it contains number("*"), recover it from the saved number
-      for (var i = 0; i < number.length; i++) {
-        translatedText = translatedText.slice(0,translatedText.indexOf("*")) +  number[i] + translatedText.slice(translatedText.indexOf("*")+1);
-      }
+    passOrNot = false;
+  
+  // Add exception's exception.
+  if ((node.className.includes("name"))
+  || (node.className.includes("message"))
+  || (node.className.includes("comment"))
+  || (node.className.includes("effect"))
+  || (node.className.includes("time"))
+  || (node.className.includes("txt-withdraw-trialbatle"))
+  || (node.className.includes("prt-popup-header"))
+  )
+    passOrNot = true;
+  if(passOrNot){
+    // If the text contains any number, save the number and replace it to "*"
+    var number = textInput.replace(/[^0-9]/g,"");
+    if(number.length > 0){ 
+      textInput = textInput.replace(/[0-9]/g,"*");
     }
-    node.innerHTML = translatedText;
-    PrintLog("Take:"+translatedText);
+    PrintLog("Send:"+textInput);
+    translatedText = await translate(textInput, csv);
+    if(translatedText.length > 0){ // When it founds the translated text
+      if(number.length > 0){
+        // If it contains number("*"), recover it from the saved number
+        for (var i = 0; i < number.length; i++) {
+          translatedText = translatedText.slice(0,translatedText.indexOf("*")) +  number[i] + translatedText.slice(translatedText.indexOf("*")+1);
+        }
+      }
+      node.innerHTML = translatedText;
+      PrintLog("Take:"+translatedText);
+    }
   }
 }
 async function GetTranslatedImage(node, csv){
@@ -245,7 +258,7 @@ var nameObserver = new MutationObserver(function(mutations) {
   mutations.some(function(mutation){
     // PrintLog(mutation);
     if(mutation.target.className.includes("txt-character-name")){  
-      var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+      var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();;
       if(tempName != "<span>&nbsp;</span>"){
         nameObserver.disconnect();
         GetTranslatedText(mutation.target, nameCsv);
@@ -277,7 +290,11 @@ async function ObserveSceneText() {
         window.setTimeout(ObserveSceneText,generalConfig.refreshRate);
         return;
     }
-    sceneObserver.observe(oText,config);
+    if((document.URL.includes("archive"))
+    || (document.URL.includes("scene"))
+    || (document.URL.includes("story"))
+    )
+      sceneObserver.observe(oText,config);
 }
 async function ObserveNameText() {
   var oTextName = document.getElementsByClassName('txt-character-name')[0];
@@ -287,7 +304,11 @@ async function ObserveNameText() {
       window.setTimeout(ObserveNameText,generalConfig.refreshRate);
       return;
   }
-  nameObserver.observe(oTextName,config);
+  if((document.URL.includes("archive"))
+    || (document.URL.includes("scene"))
+    || (document.URL.includes("story"))
+    )
+    nameObserver.observe(oTextName,config);
 }
 async function ObserverArchive() {
   // var oText = document.querySelector(".prt-scroll-title");

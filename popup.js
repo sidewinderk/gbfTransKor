@@ -38,10 +38,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   getTextBtn.onclick = function(element) {
-    chrome.storage.sync.get('oTEXT', function (result) {
-        var outputtext = "jp|kr\n"
+    chrome.storage.local.get(['oTEXT'], function (result) {
+        var outputtext = "jp,kr\n"
         result.oTEXT.forEach(function(element){
-            outputtext = outputtext + element + "|\n"
+            outputtext = outputtext + element + ",\n"
         });
         textout.value = outputtext;
     });
@@ -59,10 +59,10 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   getNameBtn.onclick = function(element) {
-    chrome.storage.sync.get('nTEXT', function (result) {
-        var outputtext = "jp|kr\n"
+    chrome.storage.local.get(['nTEXT'], function (result) {
+        var outputtext = "jp,kr\n"
         result.nTEXT.forEach(function(element){
-            outputtext = outputtext + element + "|\n"
+            outputtext = outputtext + element + ",\n"
         });
         nameout.value = outputtext;
     });
@@ -80,10 +80,10 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   getMiscBtn.onclick = function(element) {
-    chrome.storage.sync.get('mTEXT', function (result) {
-        var outputtext = "jp|kr\n"
+    chrome.storage.local.get(['mTEXT'], function (result) {
+        var outputtext = "jp,kr\n"
         result.mTEXT.forEach(function(element){
-            outputtext = outputtext + element + "|\n"
+            outputtext = outputtext + element + ",\n"
         });
         othersout.value = outputtext;
     });

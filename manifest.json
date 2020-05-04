@@ -3,7 +3,7 @@
 
     "name": "GBF-Kor-Trans",
     "description": "Simple Chrome Extension for translating GBF page to Korean",
-    "version": "0.1.0",
+    "version": "0.5.0",
     "browser_action": {
       "default_popup": "popup.html",
       "default_icon": {
@@ -29,7 +29,7 @@
     },
     "content_scripts": [
       {
-        "matches": ["http://game.granbluefantasy.jp/","http://gbf.game.mbga.jp/"],
+        "matches": ["http://game.granbluefantasy.jp/*","http://gbf.game.mbga.jp/*"],
         "js": ["content.js"]
       }
     ],
@@ -38,4 +38,3 @@
         "images/*.png"
     ]
 }
-
