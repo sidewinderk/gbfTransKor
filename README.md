@@ -30,17 +30,17 @@
  7. 텍스트 창 위의 Copy text로 내용을 복사 할 수 있음.
  * (용어 설명) text: 인게임 시나리오 name: 인게임 시나리오에서 표시되는 이름 misc. 그 외의 인 게임 내 모든 텍스트
  
-위의 방법으로 얻는 텍스트는 csv 파일 처럼 |(파이프)로 구분되어져있음. 좌측은 원어|우측은 한국어(번역)
+위의 방법으로 얻는 텍스트는 csv 파일로 처럼 ,(쉼표)로 구분되어져있음. 좌측은 원어,우측은 한국어(번역)
 
 ~~~
-jp|kr
-サンプルテキスト|
-所持数<span class="txt-possessed-summon">	*** / ***</span>|
+jp,kr
+サンプルテキスト,
+所持数<span class="txt-possessed-summon">	*** / ***</span>,
 ~~~
-간단히, 좌측의 내용에 대한 번역을 우측에 적으면 됨. 이 때 좌측의 빈칸(탭)이나 태그 등은 그대로 유지되어야하므로 좌측을 복사해서 우측에 붙여넣고, 원어만 한국어로 번역하는 방식으로 진행하는 것을 추천.
+간단히, 좌측의 내용에 대한 번역을 우측에 적으면 됨. 
 ~~~
-jp|kr
-サンプルテキスト|샘플 텍스트
-所持数<span class="txt-possessed-summon">	*** / ***</span>|소지수<span class="txt-possessed-summon">	*** / ***</span>
+jp,kr
+サンプルテキスト,샘플 텍스트
+所持数<span class="txt-possessed-summon">	*** / ***</span>,소지수<span class="txt-possessed-summon">	*** / ***</span>
 ~~~
 완료하면 위와 같은 형태가 됨.
