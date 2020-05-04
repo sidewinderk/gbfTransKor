@@ -88,7 +88,7 @@ Array.isArray||(Array.isArray=function(e){return "[object Array]"===Object.proto
    try {
      return papaparse_min.parse(str.replace(/^\ufeff/, ''), {
        header: true,
-       delimiter: "|"
+       delimiter: ","
      }).data;
    } catch (err) {
      PrintLog(err);
@@ -170,7 +170,7 @@ async function GetTranslatedText(node, csv){
   )
     return;
 
-  var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+  var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();;
   
   // Filter for avoiding unnecessary computing
   if ( (textInput.includes("div"))
@@ -245,7 +245,7 @@ var nameObserver = new MutationObserver(function(mutations) {
   mutations.some(function(mutation){
     // PrintLog(mutation);
     if(mutation.target.className.includes("txt-character-name")){  
-      var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"");
+      var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();;
       if(tempName != "<span>&nbsp;</span>"){
         nameObserver.disconnect();
         GetTranslatedText(mutation.target, nameCsv);
