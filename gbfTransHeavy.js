@@ -1,7 +1,7 @@
 const questCsv = '/data/quest_heavytext.csv';
 const nameCsv = '/data/name_heavytext.csv';
 const archiveCsv = '/data/archive_heavytext.csv';
-const imageCsv = '/data/image.csv';
+const imageCsv = '/data/image_heavytext.csv';
 
 // Observer Configuration
 var generalConfig = {
