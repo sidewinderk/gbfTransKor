@@ -87,13 +87,26 @@ function walkDownTreeSrc(node, command, variable = null) {
   }
 }
 function walkDownTreeStyle(node, command, variable = null) {
+  if(!node.childElementCount){
+    command(node, variable);
+  }
   if(!node.length){
     command(node, variable);
   }
-  if(node.length > 0){
-    for(var i = 0;i < node.length; i++)
-    walkDownTreeStyle(node[i], command, variable);
+  if(!node.className){ // in case of list of nodes
+    if(node.length){
+      if(node.length > 0){
+        for(var i = 0;i < node.length; i++)
+          walkDownTreeStyle(node[i], command, variable);
+      }
+    }
   }
+  else{
+    if(node.hasChildNodes()){
+      for(var i = 0;i < node.childElementCount; i++)
+        walkDownTreeStyle(node.children[i], command, variable);
+    }
+  } 
 }
 function PushCSV(text, array){
   if(!array.includes(text)){
@@ -289,17 +302,19 @@ async function GetTranslatedImage(node, csv){
   }
 }
 async function GetTranslatedImageDIV(node, csv){
-  var imageStyle = window.getComputedStyle(node).backgroundImage;
-  if((imageStyle == "none")
-  ||(imageStyle.includes("list_item"))
-  ||(imageStyle.includes("evolution_star"))
-  )
-    return;
-  PrintLog("Send DIV:"+imageStyle);
-  translatedText = await GetTranslatedImageStyle(imageStyle, csv);
-  if(translatedText.length > 0){ // When it founds the translated text
-    node.style.backgroundImage = translatedText;
-    PrintLog("Take DIV:"+translatedText);
+  if(node.className){
+    var imageStyle = window.getComputedStyle(node).backgroundImage;
+    if((imageStyle == "none")
+    ||(imageStyle.includes("list_item"))
+    ||(imageStyle.includes("evolution_star"))
+    )
+      return;
+    PrintLog("Send DIV:"+imageStyle+" Class: "+node.className);
+    translatedText = await GetTranslatedImageStyle(imageStyle, csv);
+    if(translatedText.length > 0){ // When it founds the translated text
+      node.style.backgroundImage = translatedText;
+      PrintLog("Take DIV:"+translatedText+" Class: "+node.className);
+    }
   }
 }
 
