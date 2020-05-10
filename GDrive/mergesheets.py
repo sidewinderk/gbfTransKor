@@ -5,19 +5,21 @@ def FindListCSV(path = "./", name = ""):
         for ifile in filenames:
             #print(f"{dirpath}{ifile}")
             if("csv" in ifile):
-                fList.append(f"{dirpath}{ifile}")
+                if(name in ifile):
+                    fList.append(f"{dirpath}{ifile}")
     return fList
 
 def merge(source="archive", inputpath = "./", outputpath = "./"):
     outputname = outputpath
-    if(inputpath[1] is not "/"):
+    if(inputpath[1] != "/"):
         outputname += "/"
     outputname += source
     if(outputpath is inputpath):
         outputname += "_merged" # if it is in a same folder, prevent overwriting
     outputname += ".csv"
-    print(outputname)
+    # print(outputname)
     fullCSVlist = FindListCSV(inputpath,source)
+    # print(fullCSVlist)
     fout=open(outputname,"w")
     
     firstCount = 1
@@ -37,4 +39,4 @@ def merge(source="archive", inputpath = "./", outputpath = "./"):
     fout.close()
 
 if(__name__ == '__main__'):
-    merge()
+    merge('archive','./cache/','./')
