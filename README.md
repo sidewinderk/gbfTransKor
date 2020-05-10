@@ -1,5 +1,8 @@
 # gbfTransKor
 
+번역 데이터 업데이트용 시트(공개): https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing
+
+
 ## 사용법 (일반 사용자)
 
 ### 크롬확장으로 실행하기
@@ -44,3 +47,5 @@ jp,kr
 所持数<span class="txt-possessed-summon">	*** / ***</span>,소지수<span class="txt-possessed-summon">	*** / ***</span>
 ~~~
 완료하면 위와 같은 형태가 됨.
+
+작업량이 많은 경우 csv로 엑셀등에서 작업하고, 구글 스프레드 시트 메뉴중, 파일-> 가져오기 -> 업로드-> csv파일선택 -> 가져오기 위치에서 새 시트 삽입 선택 -> 데이터가져오기 클릭하여 새 시트로 가져온 뒤, 시트명을 규칙에 맞게 변경.
