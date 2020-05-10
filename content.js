@@ -490,10 +490,10 @@ async function ObserverArchive() {
       window.setTimeout(ObserverArchive,generalConfig.refreshRate);
       return;
   }
-  if(document.URL.includes("raid"))
-    archiveObserver_short.observe(oText, config);
-  // else // Do we need this?
-  //   archiveObserver.observe(oText, config);
+  if(document.URL.includes("raid")) // Do we need this?
+    return;
+  else 
+    archiveObserver.observe(oText, config);
 }
 async function ObserverPop() {
   // var oText = document.querySelector(".prt-scroll-title");
@@ -569,6 +569,7 @@ async function ObserverImageDIV() {
       return;
   }
   ImageObserverDIV.observe(allElements, config);
+  ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
 async function ReplaceArchive() {
   var header = document.getElementsByClassName('prt-head-current')[0];

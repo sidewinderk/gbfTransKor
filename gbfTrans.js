@@ -491,6 +491,7 @@ async function ObserverImageDIV() {
       return;
   }
   ImageObserverDIV.observe(allElements, config);
+  ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
 async function ReplaceArchive() {
   var header = document.getElementsByClassName('prt-head-current')[0];
