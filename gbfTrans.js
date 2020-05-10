@@ -505,7 +505,7 @@ async function ReplaceArchive() {
 }
 const main = async () => {
   try {
-    await Promise.all([ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle()]]);
+    await Promise.all([ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle()]);
   } catch (e) {
     PrintLog(e);
   }
