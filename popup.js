@@ -15,16 +15,19 @@ document.addEventListener('DOMContentLoaded', function() {
   let getTextBtn = document.getElementById('getText');
   let copyTextBtn = document.getElementById('copyText');
   let clearTextBtn = document.getElementById('cacheClearText');
+  let downTextBtn = document.getElementById('downText');
   let textout = document.getElementById("outputcheck");
 
   let getNameBtn = document.getElementById('getName');
   let copyNameBtn = document.getElementById('copyName');
   let clearNameBtn = document.getElementById('cacheClearName');
+  let downNameBtn = document.getElementById('downName');
   let nameout = document.getElementById("namecheck");
 
   let getMiscBtn = document.getElementById('getMisc');
   let copyMiscBtn = document.getElementById('copyMisc');
   let clearMiscBtn = document.getElementById('cacheClearMisc');
+  let downMiscBtn = document.getElementById('downMisc');
   let othersout = document.getElementById("otherscheck");
 
   let updateBtn = document.getElementById('update');
@@ -51,6 +54,19 @@ document.addEventListener('DOMContentLoaded', function() {
     textout.setSelectionRange(0, 1e8);
     document.execCommand("copy");
   }
+  downTextBtn.onclick = function(element) {
+    var result = confirm("Download story text csv file?");
+    if(result){
+      var a = document.createElement('a');
+      with (a) {
+        href='data:text/csv;charset=urf-8,'+encodeURIComponent(textout.value);
+        download='storyText.csv';
+      }
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);   
+    }
+  }
   clearTextBtn.onclick = function(element) {
     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
       chrome.tabs.sendMessage(tabs[0].id, {data: "clearText", text: ""});
@@ -72,6 +88,19 @@ document.addEventListener('DOMContentLoaded', function() {
     nameout.setSelectionRange(0, 99999);
     document.execCommand("copy");
   }
+  downNameBtn.onclick = function(element) {
+    var result = confirm("Download name text csv file?");
+    if(result){
+      var a = document.createElement('a');
+      with (a) {
+        href='data:text/csv;charset=urf-8,'+encodeURIComponent(nameout.value);
+        download='nameText.csv';
+      }
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);   
+    }
+  }
   clearNameBtn.onclick = function(element) {
     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
       chrome.tabs.sendMessage(tabs[0].id, {data: "clearName", text: ""});
@@ -92,6 +121,19 @@ document.addEventListener('DOMContentLoaded', function() {
     othersout.select();
     othersout.setSelectionRange(0, 99999);
     document.execCommand("copy");
+  }
+  downMiscBtn.onclick = function(element) {
+    var result = confirm("Download misc. text csv file?");
+    if(result){
+      var a = document.createElement('a');
+      with (a) {
+          href='data:text/csv;charset=urf-8,'+encodeURIComponent(othersout.value);
+          download='miscText.csv';
+      }
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);   
+    }
   }
   clearMiscBtn.onclick = function(element) {
     chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
