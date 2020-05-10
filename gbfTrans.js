@@ -3,7 +3,7 @@ const nameCsv = '/data/name.csv';
 const archiveCsv = '/data/archive.csv';
 const imageCsv = '/data/image.csv';
 
-var isVerboseMode = false;
+var isVerboseMode = true;
 
 // Observer Configuration
 var generalConfig = {
@@ -505,7 +505,7 @@ async function ReplaceArchive() {
 }
 const main = async () => {
   try {
-    await Promise.all([ObserverImage(),ObserveNameText(),ObserveSceneText(),ObserverArchive()]);
+    await Promise.all([ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle()]]);
   } catch (e) {
     PrintLog(e);
   }
