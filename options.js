@@ -32,7 +32,7 @@ function restore_options() {
   });
 }
 document.getElementById("useLocalDB").onclick = function(element) {
-  document.getElementById('origintext').value = "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck";
+  document.getElementById('origintext').value = "chrome-extension://"+chrome.runtime.id;
   save_options();
 }
 document.getElementById("useOnlineDB").onclick = function(element) {

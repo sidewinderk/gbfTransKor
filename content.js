@@ -1,8 +1,8 @@
 var generalConfig = {
   refreshRate: 300,
-  origin: "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck"
+  origin: "chrome-extension://"+chrome.runtime.id
   // online DB: 'https://sidewinderk.github.io/gbfTransKor'
-  // local DB: 'chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck'
+  // local DB: 'chrome-extension://ID'
 }
 
 var storyText = [];
