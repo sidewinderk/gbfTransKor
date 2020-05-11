@@ -10,6 +10,23 @@ var generalConfig = {
     origin: 'https://sidewinderk.github.io/gbfTransKor',
     refreshRate: 300
 }
+function Init(){
+  // Use custom font
+  var styles = `
+    @font-face {
+  font-family: 'Youth';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+  unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
+  }
+  `
+  var styleSheet = document.createElement("style")
+  styleSheet.type = "text/css"
+  styleSheet.innerText = styles
+  document.head.appendChild(styleSheet)
+  document.body.style.fontFamily = 'Youth';
+}
 
 var config = {
   attributes: true,
@@ -506,6 +523,7 @@ async function ReplaceArchive() {
 }
 const main = async () => {
   try {
+    Init();
     await Promise.all([ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle()]);
   } catch (e) {
     PrintLog(e);

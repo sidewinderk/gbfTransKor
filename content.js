@@ -29,9 +29,21 @@ function InitList(){
     else
       generalConfig.origin = "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck"
   });
-  document.head.innerHTML += `<link type="text/css" rel="stylesheet" href='https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700'`;
-  document.body.style.fontFamily = 'Nanum Gothic';
-  document.body.style.fontWeight = 550;
+  // Use custom font
+  var styles = `
+    @font-face {
+  font-family: 'Youth';
+  font-style: normal;
+  font-weight: 400;
+  src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+  unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
+  }
+  `
+  var styleSheet = document.createElement("style")
+  styleSheet.type = "text/css"
+  styleSheet.innerText = styles
+  document.head.appendChild(styleSheet)
+  document.body.style.fontFamily = 'Youth';
 }
 InitList();
 var questCsv = generalConfig.origin+'/data/quest.csv';
