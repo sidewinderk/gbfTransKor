@@ -29,6 +29,9 @@ function InitList(){
     else
       generalConfig.origin = "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck"
   });
+  document.head.innerHTML += `<link type="text/css" rel="stylesheet" href='https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700'`;
+  document.body.style.fontFamily = 'Nanum Gothic';
+  document.body.style.fontWeight = 550;
 }
 InitList();
 var questCsv = generalConfig.origin+'/data/quest.csv';
