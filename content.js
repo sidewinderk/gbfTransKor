@@ -32,13 +32,23 @@ function InitList(){
   // Use custom font
   var styles = `
     @font-face {
-  font-family: 'Youth';
-  font-style: normal;
-  font-weight: 400;
-  src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
-  unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
-  }
+      font-family: 'Youth';
+      src: local(Arial Unicode MS);
+    }
+    @font-face {
+      font-family: 'Youth';
+      font-style: normal;
+      font-weight: 400;
+      src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+      unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
+    }
   `
+  // @font-face { // temporally disabled.
+  //   font-family: 'Youth';
+  //   src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff')
+  //   //unicode-range: U+3040-309F, U+30A0-30FF, U+30A0-30FF, U+31F0-31FF, U+31F0-31FF, U+4E00–9FFF;
+  //   //Hiragana, Katakana, Chinese characters
+  // }
   var styleSheet = document.createElement("style")
   styleSheet.type = "text/css"
   styleSheet.innerText = styles
