@@ -10,7 +10,7 @@
  1. 이 repository 를 zip으로 다운받기 (우측 상단 Clone or download, 녹색버튼 에서 Download ZIP)
  2. 적당한 곳에서 압축 풀기
  3. **크롬 브라우저** 메뉴에서 `More Tools -> Extensions` (chrome://extensions/ 로 바로가도 됨)
- 4. `Load unpacked`를 클릭하고 압축을 푼 폴더를 선택
+ 4. 우측 상단의 관리자모드(Developer mode)를 켠 뒤 `Load unpacked`를 클릭하고 압축을 푼 폴더를 선택
 
 #### 크롬확장 메뉴 설명
 설치 이후 우측 상단 크롬확장 리스트에 번역헬퍼가 추가된 것을 확인할 수 있음. 
