@@ -1,23 +1,19 @@
-const questCsv = chrome.runtime.getURL('data/quest.csv');
-const nameCsv = chrome.runtime.getURL('data/name.csv');
-const archiveCsv = chrome.runtime.getURL('data/archive.csv');
-const imageCsv = chrome.runtime.getURL('data/image.csv');
+var generalConfig = {
+  refreshRate: 300,
+  origin: "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck"
+  // online DB: 'https://sidewinderk.github.io/gbfTransKor'
+  // local DB: 'chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck'
+}
 
 var storyText = [];
 var cNames = [];
 var miscs = [];
 var isVerboseMode = false;
 
-// Observer Configuration
-var generalConfig = {
-  refreshRate: 300,
-  origin: "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck"
-}
-
 // Coversation with popup window
 
 function InitList(){
-  chrome.storage.local.get(['oTEXT','nTEXT','mTEXT','verboseMode'], function (result) {
+  chrome.storage.local.get(['oTEXT','nTEXT','mTEXT','verboseMode','origin'], function (result) {
     if(result.oTEXT)
       storyText = result.oTEXT;
     if(result.nTEXT)
@@ -26,8 +22,19 @@ function InitList(){
       miscs = result.mTEXT;
     // Default mode.
     isVerboseMode = result.verboseMode
-});
+    if(result.origin){
+      // PrintLog("oring: "+result.origin);
+      generalConfig.origin = result.origin;
+    }
+    else
+      generalConfig.origin = "chrome-extension://faohjkgnfhlhjmbgkgoebgiomnbcglck"
+  });
 }
+InitList();
+var questCsv = generalConfig.origin+'/data/quest.csv';
+var nameCsv = generalConfig.origin+'/data/name.csv';
+var archiveCsv = generalConfig.origin+'/data/archive.csv';
+var imageCsv = generalConfig.origin+'/data/image.csv';
 
 chrome.runtime.onMessage.addListener(
   function(request, sender, sendResponse) {
@@ -219,7 +226,7 @@ async function GetTranslatedImageURL(stext, csvFile) {
    list.some(function(item){
      if((String(stext).includes(String(item.orig))) && String(stext).includes("assets")){
        PrintLog("GET URL:"+String(item.kr));
-       transImg = generalConfig.origin+"/images/"+String(item.kr);
+       transImg = origin+"/images/"+String(item.kr);
        return true;
      }
   });
@@ -241,6 +248,7 @@ async function GetTranslatedImageStyle(stext, csvFile) {
      if((String(stext).includes(String(item.orig))) && String(stext).includes("assets")){
        PrintLog("GET URL:"+String(item.kr));
        transImg = "url('"+generalConfig.origin+"/images/"+String(item.kr)+"')";
+       PrintLog("Check URL: "+transImg);
        return true;
      }
   });
@@ -584,6 +592,7 @@ async function ReplaceArchive() {
 }
 const main = async () => {
   InitList();
+  PrintLog("ORIGIN: "+generalConfig.origin);
   try {
     await Promise.all([ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle()]); //
   } catch (e) {
