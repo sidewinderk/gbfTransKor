@@ -78,6 +78,7 @@ jp,kr
 人物,인물
 スキン,스킨
 武器種,무기종
+"<option data-id=""*"">全部</option>		<option data-id=""*"">剣</option>		<option data-id=""*"">短剣</option>		<option data-id=""*"">槍</option>		<option data-id=""*"">斧</option>		<option data-id=""*"">杖</option>		<option data-id=""*"" selected="""">銃</option>		<option data-id=""*"">格闘</option>		<option data-id=""*"">弓</option>		<option data-id=""*"">楽器</option>		<option data-id=""**"">刀</option>","<option data-id=""*"">전부</option>                <option data-id=""*"">검</option>                <option data-id=""*"">단검</option>                <option data-id=""*"">창</option>                <option data-id=""*"">도끼</option>                <option data-id=""*"">지팡이</option>                <option data-id=""*"" selected="""">총</option>                <option data-id=""*"">격투</option>                <option data-id=""*"">활</option>                <option data-id=""*"">악기</option>                <option data-id=""**"">도</option>"
 全部,전부
 剣,검
 短剣,단검
@@ -90,6 +91,7 @@ jp,kr
 楽器,악기
 刀,도
 属性,속성
+"<option data-id=""*"" selected="""">全部</option>		<option data-id=""*"">火</option>		<option data-id=""*"">水</option>		<option data-id=""*"">土</option>		<option data-id=""*"">風</option>		<option data-id=""*"">光</option>		<option data-id=""*"">闇</option>","<option data-id=""*"" selected="""">전부</option>                <option data-id=""*"">화</option>                <option data-id=""*"">수</option>                <option data-id=""*"">토</option>                <option data-id=""*"">풍</option>                <option data-id=""*"">광</option>                <option data-id=""*"">암</option>"
 火,화
 水,수
 土,토
@@ -111,7 +113,7 @@ jp,kr
 最近入手,최근입수
 絞り込み,정렬하기
 マルチバトル,멀티배틀
-イベント,이벤트,,,,,,"<option data-id=""*"">火</option>",,,,,,,"<option data-id=""*"">水</option>",,,,,,,"<option data-id=""*"">土</option>",,,,,,,"<option data-id=""*"">風</option>",,,,,,,"<option data-id=""*"">光</option>",,,,,,,"<option data-id=""*"">闇</option>,"
+イベント,이벤트,,,,,,,,,,,,,"<option data-id=""*"">水</option>",,,,,,,"<option data-id=""*"">土</option>",,,,,,,"<option data-id=""*"">風</option>",,,,,,,"<option data-id=""*"">光</option>",,,,,,,"<option data-id=""*"">闇</option>,"
 ID入力,ID입력
 バトル一覧,배틀일람
 
