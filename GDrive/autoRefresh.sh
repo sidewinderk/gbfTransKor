@@ -3,6 +3,7 @@
 
 while [ 1 ]
 do
+rm cache/*
 python autoRefresher.py
 now=$(date +"%D %T")
 git add ../data/*
