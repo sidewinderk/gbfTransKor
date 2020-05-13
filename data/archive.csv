@@ -61,21 +61,42 @@ jp,kr
 [蒼空の先導者],[창공의 선도자]
 ラカム,라캄
 操舵士に憧れて,조타사에 동경하여
+操舵士の共鳴,조타사의 공명
 
 デモリッシュピアース,데몰리쉬 피어스
 火属性ダメージ(特大)/味方全体の火属性攻撃UP/ダブルアタック確率UP,화속성데미지(특대)/아군전체의 화속성공격UP/더블어택확률UP
 スピットファイア,스핏 파이어
-敵に火属性ダメージ/防御DOWN(累積)/スピットファイアLvが1上昇(最大5),적에게 화속성데미지/방어DOWN(중첩)/스핏파이어Lv이 1상승(최대5)
+"<div class=""prt-text-small"">敵に火属性ダメージ/防御DOWN(累積)/スピットファイアLvが*上昇(最大*)</div>","<div class=""prt-text-small"">적에게 화속성데미지/방어DOWN(중첩)/스핏파이어Lv이 *상승(최대*)</div>"
 デュレーションII,듀레이션II
-"自分に敵のモードゲージ減少量UP効果<span class=""text-blue""><br>◆敵がオーバードライブ時にモードゲージを減少させ戦慄効果</span>","자신에게 적의 모드게이지 감소량UP효과<span class=""text-blue""><br>◆적이 오버드라이브일때 모드게이지를 감소시키고 전율효과</span>"
+"<div class=""prt-text-small"">自分に敵のモードゲージ減少量UP効果　<span class=""text-blue"">◆敵がオーバードライブ時にモードゲージを減少させ戦慄効果</span></div>","<div class=""prt-text-small"">자신에게 적의 모드게이지 감소량UP효과　<span class=""text-blue"">◆적이 오버드라이브일때 모드게이지를 감소시키고 전율효과</span></div>"
 ダブルタップ,더블탭
 効果中必ず連続攻撃/自分にダブルタップ効果,효과중 반드시 연속공격/자신에게 더블탭효과
 導きの銃,인도의총
-火属性キャラ単体が即座に奥義発動可能/蒼導銃効果,단일 화속성캐릭터가 즉시 오의발동가능/푸른인도의총효과
+火属性キャラ単体が即座に奥義発動可能/蒼導銃効果,단일 화속성 캐릭터가 즉시 오의발동가능/푸른인도의총효과
 スライトオブハンド,슬라이트오브핸드
 戦慄状態の敵に対して火属性追撃効果,전율상태의 적에게 화속성 추격효과
 バニッシュセーヴ,배니쉬 세이브
 スピットファイアLvに応じて攻撃UP/チェインバースト性能UP/奥義性能UP,스핏파이어의 Lv에따라 공격UP/체인버스트성능UP/오의성능UP
+
+
+!실바
+[奮励の儁秀],[분려의 준수]
+シルヴァ,실바
+
+その鐘の音は高らかに,그 종소리는 드높게
+君の隣に,너의 곁에
+
+ヒューネラルブリット,퓨너럴 불릿
+水属性ダメージ(特大),수속성데미지(특대)
+イーグルアイ,이글아이
+"<div class=""prt-text-small"">自分の奥義ダメージUP/奥義ダメージ上限UP/チェインバーストダメージUP/防御DOWN</div>","<div class=""prt-text-small"">자신의 오의데미지UP/오의데미지상한UP/체인버스트데미지UP/방어DOWN</div>"
+タクティシャン,택티션
+自分のクリティカル確率UP,자신의 크리티컬확률UP
+デッドスペシメン,데드 스페시멘
+自分が即座に奥義発動可能,자신이 즉시 오의가능
+ホープスナイプ,홉 스나이프
+"<div class=""prt-text-small"">自分とサブメンバーの一人を*ターンの間入れ替える<br><span class=""text-blue"">◆入れ替わったあと援護射撃を行う</span></div>","<div class=""prt-text-small"">자신과 서브멤버 한명을 *턴간 교체한다<br><span class=""text-blue"">◆교체후에 지원사격을 행함</span></div>"
+静かな威圧,고요한 위압
 !기본UI
 バトルなどの動作が重い時は、設定変更により改善される場合があります。,배틀 등의 동작이 무거울 때에는 설정변경을 통해 개선되는 경우가 있습니다.
 "<div class=""txt-no-multi"">												<p>参加できるイベントマルチバトルはありません。</p>				<ul>					<li>・イベントマルチバトルは、イベントクエストを進めていくと発生します。</li>					<li>・参加条件を満たしていない場合、この一覧には表示されません。</li>				</ul>				<div class=""btn-usual-text"" data-href=""quest"">クエストへ</div>						</div><div class=""prt-assist-raid-setting""></div>","<div class=""txt-no-multi"">												<p>참가가능한 이벤트 멀티배틀이 없습니다.</p>					<ul>					<li>・이벤트 멀티배틀은 이벤트 퀘스트를 진행하가면서 발생합니다.</li>					<li>・참가조건을 만족하지 못했을 경우、이 일람에는 표시되지 않습니다.</li>				</ul>				<div class=""btn-usual-text"" data-href=""quest"">퀘스트로</div>						</div><div class=""prt-assist-raid-setting""></div>"
@@ -144,9 +165,9 @@ ID入力,ID입력
 所持数,소지수
 "所持数<span class=""txt-possessed-summon"">	*** / ***</span>","소지수<span class=""txt-possessed-summon"">	*** / ***</span>"
 "所持数<span class=""txt-possessed-weapon"">	*** / ***</span>","소지수<span class=""txt-possessed-weapon"">	*** / ***</span>"
-"キャラ数<span class=""txt-possessed-npc"">	***</span>","캐릭터수<span class=""txt-possessed-npc"">	***</span>"
-
-
+"キャラ数<span class=""txt-possessed-npc"">        ***</span>","캐릭터수<span class=""txt-possessed-npc"">        ***</span>"
+"キャラ数<span class=""txt-possessed-npc"">        **</span>","캐릭터수<span class=""txt-possessed-npc"">        **</span>"
+"キャラ数<span class=""txt-possessed-npc"">        *</span>","캐릭터수<span class=""txt-possessed-npc"">        *</span>"
 
 
 
@@ -176,7 +197,7 @@ ID入力,ID입력
 "<div class=""txt-zenith-description"">									あと**LB取得でClassUP									<div class=""prt-zp-gauge"">										<div class=""prt-zp-gauge-inner"" style=""width: *%""></div>									</div>								</div>														<div class=""prt-zenith-button"">								<div class=""btn-zenith"">能力強化</div>							</div>","<div class=""txt-zenith-description"">									앞으로**LB취득으로ClassUP									<div class=""prt-zp-gauge"">										<div class=""prt-zp-gauge-inner"" style=""width: *%""></div>									</div>								</div>														<div class=""prt-zenith-button"">								<div class=""btn-zenith"">능력강화</div>							</div>"
 マイページに戻る,마이페이지로 돌아간다
 習得クエストへ,습득퀘스트로
-
+習得 Lv **,습득 Lv **
 
 
 !각종 명칭들
