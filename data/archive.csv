@@ -77,7 +77,7 @@ jp,kr
 召喚石,소환석
 人物,인물
 スキン,스킨
-武器種,무기종
+武器種,무기종류
 "<option data-id=""*"">全部</option>		<option data-id=""*"">剣</option>		<option data-id=""*"">短剣</option>		<option data-id=""*"">槍</option>		<option data-id=""*"">斧</option>		<option data-id=""*"">杖</option>		<option data-id=""*"" selected="""">銃</option>		<option data-id=""*"">格闘</option>		<option data-id=""*"">弓</option>		<option data-id=""*"">楽器</option>		<option data-id=""**"">刀</option>","<option data-id=""*"">전부</option>                <option data-id=""*"">검</option>                <option data-id=""*"">단검</option>                <option data-id=""*"">창</option>                <option data-id=""*"">도끼</option>                <option data-id=""*"">지팡이</option>                <option data-id=""*"" selected="""">총</option>                <option data-id=""*"">격투</option>                <option data-id=""*"">활</option>                <option data-id=""*"">악기</option>                <option data-id=""**"">도</option>"
 全部,전부
 剣,검
