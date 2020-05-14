@@ -15,7 +15,7 @@ function Init(){
   var styles = `
     @font-face {
       font-family: 'Youth';
-      src: local(Arial Unicode MS); // for Japanese font
+      src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff'); // GBF default font
     }
     @font-face {
       font-family: 'Youth';
@@ -25,12 +25,6 @@ function Init(){
       unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
     }
   `
-  // @font-face { // temporally disabled.
-  //   font-family: 'Youth';
-  //   src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff')
-  //   //unicode-range: U+3040-309F, U+30A0-30FF, U+30A0-30FF, U+31F0-31FF, U+31F0-31FF, U+4E00–9FFF;
-  //   //Hiragana, Katakana, Chinese characters
-  // }
   var styleSheet = document.createElement("style")
   styleSheet.type = "text/css"
   styleSheet.innerText = styles
@@ -57,6 +51,18 @@ function walkDownTree(node, command, variable = null) {
   if(node.innerHTML)
     command(node, variable);
   if(!node.className){ // in case of list of nodes
+    if(node.id){
+      if(node.length){
+        if(node.length > 0){
+          for(var i = 0;i < node.length; i++)
+          walkDownTree(node[i], command, variable);
+        }
+      }
+      if(node.hasChildNodes()){
+        for(var i = 0;i < node.childElementCount; i++)
+        walkDownTree(node.children[i], command, variable);
+      }
+    }
     if(node.length){
       if(node.length > 0){
         for(var i = 0;i < node.length; i++)
@@ -80,6 +86,18 @@ function walkDownTreeSrc(node, command, variable = null) {
     }
   }
   if(!node.className){ // in case of list of nodes
+    if(node.id){
+      if(node.length){
+        if(node.length > 0){
+          for(var i = 0;i < node.length; i++)
+          walkDownTreeSrc(node[i], command, variable);
+        }
+      }
+      if(node.hasChildNodes()){
+        for(var i = 0;i < node.childElementCount; i++)
+        walkDownTreeSrc(node.children[i], command, variable);
+      }
+    }
     if(node.length){
       if(node.length > 0){
         for(var i = 0;i < node.length; i++)
@@ -102,6 +120,18 @@ function walkDownTreeStyle(node, command, variable = null) {
     command(node, variable);
   }
   if(!node.className){ // in case of list of nodes
+    if(node.id){
+      if(node.length){
+        if(node.length > 0){
+          for(var i = 0;i < node.length; i++)
+          walkDownTreeStyle(node[i], command, variable);
+        }
+      }
+      if(node.hasChildNodes()){
+        for(var i = 0;i < node.childElementCount; i++)
+        walkDownTreeStyle(node.children[i], command, variable);
+      }
+    }
     if(node.length){
       if(node.length > 0){
         for(var i = 0;i < node.length; i++)
@@ -172,10 +202,12 @@ async function translate(stext, csvFile) {
   let csv = await request(csvFile);
   const list = parseCsv(csv);
    list.some(function(item){
-     if(String(stext) == String(item.jp)){
-       PrintLog("GET:"+String(item.kr));
-       transText = String(item.kr);
-       return true;
+     if(item.kr){
+      if(String(stext) == String(item.jp)){
+        PrintLog("GET:"+String(item.kr));
+        transText = String(item.kr);
+        return true;
+      }
      }
   });
   if(transText.length > 0){
@@ -233,16 +265,10 @@ var translatedText = "";
 async function GetTranslatedText(node, csv){
   if(node){
     var passOrNot = true;
-    //Filter node
-    if((node.className.includes("txt-message"))
-    || (node.className.includes("txt-character-name"))
-    )
-      passOrNot = false;
-
     var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     
     // Filter for avoiding unnecessary computing
-    if ( (textInput.includes("div"))
+    if ( (textInput.includes("<div "))
     || (textInput.includes("img class"))
     || (textInput.includes("img src"))
     || (textInput.includes("figure class"))
@@ -362,7 +388,10 @@ var archiveObserver = new MutationObserver(function(mutations) {
   archiveObserver.disconnect();
   // ReplaceArchive();
   mutations.forEach((mutation) => { // This method is very active and *slow*
-    walkDownTree(mutation.target,GetTranslatedText, archiveCsv);
+    if((!mutation.target.className.includes("txt-message"))
+    &&(!mutation.target.className.includes("txt-character-name"))
+    )
+      walkDownTree(mutation.target,GetTranslatedText, archiveCsv);
   });
   ObserverArchive();
 });
@@ -403,133 +432,133 @@ var BattleObserver = new MutationObserver(function(mutations) {
 
 // Queue for each observers
 async function ObserveSceneText() {
-    var oText = document.getElementsByClassName('prt-message-area')[0];
-    if(!oText) {
-        //The node we need does not exist yet.
-        //Wait 500ms and try again
-        window.setTimeout(ObserveSceneText,generalConfig.refreshRate);
-        return;
-    }
-    if((document.URL.includes("archive"))
-    || (document.URL.includes("scene"))
-    || (document.URL.includes("story"))
-    )
-      sceneObserver.observe(oText,config);
-}
-async function ObserveNameText() {
-  var oTextName = document.getElementsByClassName('txt-character-name')[0];
-  if(!oTextName) {
+  var oText = document.getElementsByClassName('prt-message-area')[0];
+  if(!oText) {
       //The node we need does not exist yet.
       //Wait 500ms and try again
-      window.setTimeout(ObserveNameText,generalConfig.refreshRate);
+      window.setTimeout(ObserveSceneText,generalConfig.refreshRate);
       return;
   }
   if((document.URL.includes("archive"))
-    || (document.URL.includes("scene"))
-    || (document.URL.includes("story"))
-    )
-    nameObserver.observe(oTextName,config);
+  || (document.URL.includes("scene"))
+  || (document.URL.includes("story"))
+  )
+    sceneObserver.observe(oText,config);
 }
-async function ObserverArchive() {
-  // var oText = document.getElementById('loading');
-  var oText = document.getElementById('wrapper');
-  if(!oText) {
-      //The node we need does not exist yet.
-      //Wait 500ms and try again
-      window.setTimeout(ObserverArchive,generalConfig.refreshRate);
-      return;
-  }
-  if(document.URL.includes("raid")) // Do we need this?
-    return;
-  else 
-    archiveObserver.observe(oText, config);
-}
-async function ObserverPop() {
-  // var oText = document.querySelector(".prt-scroll-title");
-  var oText = document.getElementById('loading');
-  if(!oText) {
-      //The node we need does not exist yet.
-      //Wait 500ms and try again
-      window.setTimeout(ObserverPop,generalConfig.refreshRate);
-      return;
-  }
-  var popDIV = document.getElementById('pop');
-  if(popDIV){
-    PopObserver.observe(popDIV, config);
-  }
-  var popDIV2 = document.querySelectorAll('[class^="pop-usual"]');
-  if(popDIV2){
-   popDIV2.forEach((pop) => { 
-    PopObserver.observe(pop, config_simple);
-   });
-  }
-}
-async function ObserverBattle() {
-  // var oText = document.querySelector(".prt-scroll-title");
-  var oText =  document.querySelectorAll('[class^="prt-command-chara"]')[0];
-  if(!oText) {
-      //The node we need does not exist yet.
-      //Wait 500ms and try again
-      window.setTimeout(ObserverBattle,generalConfig.refreshRate);
-      return;
-  }
-  if((document.URL.includes("raid"))
-    // || (document.URL.includes("scene"))
-    // || (document.URL.includes("story"))
-    ){
-    var battleInfo1 = document.querySelectorAll('[class^="prt-command-chara"]');
-    if(battleInfo1){
-      battleInfo1.forEach((bInfo) => { 
-        BattleObserver.observe(bInfo, config_simple);
-    });
-    }
-    var battleInfo2 = document.querySelectorAll('[class^="pop-condition"]');
-    if(battleInfo2){
-      battleInfo2.forEach((bInfo) => { 
-        BattleObserver.observe(bInfo, config_simple);
-    });
-    }
-    var battleInfo3 = document.querySelectorAll('[class^="prt-cutin"]');
-    if(battleInfo3){
-      battleInfo3.forEach((bInfo) => { 
-        BattleObserver.observe(bInfo, config_simple);
-    });
-    }  
-  }
-}
-async function ObserverImage() {
-  var allElements = document.querySelectorAll('[class^="contents"]')[0];
-  // var allElements = document.getElementById('wrapper');
-  if(!allElements) {
-      //The node we need does not exist yet.
-      //Wait 500ms and try again
-      window.setTimeout(ObserverImage,generalConfig.refreshRate);
-      return;
-  }
-  ImageObserver.observe(allElements, config);
-}
-async function ObserverImageDIV() {
-  var allElements = document.querySelectorAll('[class^="contents"]')[0];
-  // var allElements = document.getElementById('wrapper');
-  if(!allElements) {
-      //The node we need does not exist yet.
-      //Wait 500ms and try again
-      window.setTimeout(ObserverImageDIV,generalConfig.refreshRate);
-      return;
-  }
-  ImageObserverDIV.observe(allElements, config);
-  ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
-}
-async function ReplaceArchive() {
-  var header = document.getElementsByClassName('prt-head-current')[0];
-  if(!header.innerHTML) {
+async function ObserveNameText() {
+var oTextName = document.getElementsByClassName('txt-character-name')[0];
+if(!oTextName) {
     //The node we need does not exist yet.
     //Wait 500ms and try again
-    window.setTimeout(ReplaceArchive,300);
+    window.setTimeout(ObserveNameText,generalConfig.refreshRate);
     return;
+}
+if((document.URL.includes("archive"))
+  || (document.URL.includes("scene"))
+  || (document.URL.includes("story"))
+  )
+  nameObserver.observe(oTextName,config);
+}
+async function ObserverArchive() {
+// var oText = document.getElementById('loading');
+var oText = document.getElementById('wrapper');
+if(!oText) {
+    //The node we need does not exist yet.
+    //Wait 500ms and try again
+    window.setTimeout(ObserverArchive,generalConfig.refreshRate);
+    return;
+}
+if(document.URL.includes("raid")) // Do we need this?
+  return;
+else 
+  archiveObserver.observe(oText, config);
+}
+async function ObserverPop() {
+// var oText = document.querySelector(".prt-scroll-title");
+var oText = document.getElementById('loading');
+if(!oText) {
+    //The node we need does not exist yet.
+    //Wait 500ms and try again
+    window.setTimeout(ObserverPop,generalConfig.refreshRate);
+    return;
+}
+var popDIV = document.getElementById('pop');
+if(popDIV){
+  PopObserver.observe(popDIV, config);
+}
+var popDIV2 = document.querySelectorAll('[class^="pop-usual"]');
+if(popDIV2){
+ popDIV2.forEach((pop) => { 
+  PopObserver.observe(pop, config_simple);
+ });
+}
+}
+async function ObserverBattle() {
+// var oText = document.querySelector(".prt-scroll-title");
+var oText =  document.querySelectorAll('[class^="prt-command-chara"]')[0];
+if(!oText) {
+    //The node we need does not exist yet.
+    //Wait 500ms and try again
+    window.setTimeout(ObserverBattle,generalConfig.refreshRate);
+    return;
+}
+if((document.URL.includes("raid"))
+  // || (document.URL.includes("scene"))
+  // || (document.URL.includes("story"))
+  ){
+  var battleInfo1 = document.querySelectorAll('[class^="prt-command-chara"]');
+  if(battleInfo1){
+    battleInfo1.forEach((bInfo) => { 
+      BattleObserver.observe(bInfo, config_simple);
+  });
   }
-  var allElements = document.getElementById('wrapper');
-  walkDownTree(allElements,GetTranslatedText, archiveCsv);
+  var battleInfo2 = document.querySelectorAll('[class^="pop-condition"]');
+  if(battleInfo2){
+    battleInfo2.forEach((bInfo) => { 
+      BattleObserver.observe(bInfo, config_simple);
+  });
+  }
+  var battleInfo3 = document.querySelectorAll('[class^="prt-cutin"]');
+  if(battleInfo3){
+    battleInfo3.forEach((bInfo) => { 
+      BattleObserver.observe(bInfo, config_simple);
+  });
+  }  
+}
+}
+async function ObserverImage() {
+var allElements = document.querySelectorAll('[class^="contents"]')[0];
+// var allElements = document.getElementById('wrapper');
+if(!allElements) {
+    //The node we need does not exist yet.
+    //Wait 500ms and try again
+    window.setTimeout(ObserverImage,generalConfig.refreshRate);
+    return;
+}
+ImageObserver.observe(allElements, config);
+}
+async function ObserverImageDIV() {
+var allElements = document.querySelectorAll('[class^="contents"]')[0];
+// var allElements = document.getElementById('wrapper');
+if(!allElements) {
+    //The node we need does not exist yet.
+    //Wait 500ms and try again
+    window.setTimeout(ObserverImageDIV,generalConfig.refreshRate);
+    return;
+}
+ImageObserverDIV.observe(allElements, config);
+ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
+}
+async function ReplaceArchive() {
+var header = document.getElementsByClassName('prt-head-current')[0];
+if(!header.innerHTML) {
+  //The node we need does not exist yet.
+  //Wait 500ms and try again
+  window.setTimeout(ReplaceArchive,300);
+  return;
+}
+var allElements = document.getElementById('wrapper');
+walkDownTree(allElements,GetTranslatedText, archiveCsv);
 }
 const main = async () => {
   try {

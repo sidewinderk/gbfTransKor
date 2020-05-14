@@ -4,6 +4,7 @@ var generalConfig = {
   // online DB: 'https://sidewinderk.github.io/gbfTransKor'
   // local DB: 'chrome-extension://ID'
 }
+var ObserverList = [];
 
 var storyText = [];
 var cNames = [];
@@ -33,7 +34,7 @@ function InitList(){
   var styles = `
     @font-face {
       font-family: 'Youth';
-      src: local(Arial Unicode MS);
+      src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');
     }
     @font-face {
       font-family: 'Youth';
@@ -43,12 +44,6 @@ function InitList(){
       unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
     }
   `
-  // @font-face { // temporally disabled.
-  //   font-family: 'Youth';
-  //   src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff')
-  //   //unicode-range: U+3040-309F, U+30A0-30FF, U+30A0-30FF, U+31F0-31FF, U+31F0-31FF, U+4E00–9FFF;
-  //   //Hiragana, Katakana, Chinese characters
-  // }
   var styleSheet = document.createElement("style")
   styleSheet.type = "text/css"
   styleSheet.innerText = styles
@@ -106,6 +101,18 @@ function walkDownTree(node, command, variable = null) {
   if(node.innerHTML)
     command(node, variable);
   if(!node.className){ // in case of list of nodes
+    if(node.id){
+      if(node.length){
+        if(node.length > 0){
+          for(var i = 0;i < node.length; i++)
+          walkDownTree(node[i], command, variable);
+        }
+      }
+      if(node.hasChildNodes()){
+        for(var i = 0;i < node.childElementCount; i++)
+        walkDownTree(node.children[i], command, variable);
+      }
+    }
     if(node.length){
       if(node.length > 0){
         for(var i = 0;i < node.length; i++)
@@ -129,6 +136,18 @@ function walkDownTreeSrc(node, command, variable = null) {
     }
   }
   if(!node.className){ // in case of list of nodes
+    if(node.id){
+      if(node.length){
+        if(node.length > 0){
+          for(var i = 0;i < node.length; i++)
+          walkDownTreeSrc(node[i], command, variable);
+        }
+      }
+      if(node.hasChildNodes()){
+        for(var i = 0;i < node.childElementCount; i++)
+        walkDownTreeSrc(node.children[i], command, variable);
+      }
+    }
     if(node.length){
       if(node.length > 0){
         for(var i = 0;i < node.length; i++)
@@ -151,6 +170,18 @@ function walkDownTreeStyle(node, command, variable = null) {
     command(node, variable);
   }
   if(!node.className){ // in case of list of nodes
+    if(node.id){
+      if(node.length){
+        if(node.length > 0){
+          for(var i = 0;i < node.length; i++)
+          walkDownTreeStyle(node[i], command, variable);
+        }
+      }
+      if(node.hasChildNodes()){
+        for(var i = 0;i < node.childElementCount; i++)
+        walkDownTreeStyle(node.children[i], command, variable);
+      }
+    }
     if(node.length){
       if(node.length > 0){
         for(var i = 0;i < node.length; i++)
@@ -230,10 +261,12 @@ async function translate(stext, csvFile) {
   let csv = await request(csvFile);
   const list = parseCsv(csv);
    list.some(function(item){
-     if(String(stext) == String(item.jp)){
-       PrintLog("GET:"+String(item.kr));
-       transText = String(item.kr);
-       return true;
+     if(item.kr){
+      if(String(stext) == String(item.jp)){
+        PrintLog("GET:"+String(item.kr));
+        transText = String(item.kr);
+        return true;
+      }
      }
   });
   if(transText.length > 0){
@@ -293,16 +326,10 @@ var translatedText = "";
 async function GetTranslatedText(node, csv){
   if(node){
     var passOrNot = true;
-    //Filter node
-    if((node.className.includes("txt-message"))
-    || (node.className.includes("txt-character-name"))
-    )
-      passOrNot = false;
-
     var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     
     // Filter for avoiding unnecessary computing
-    if ( (textInput.includes("div"))
+    if ( (textInput.includes("<div "))
     || (textInput.includes("img class"))
     || (textInput.includes("img src"))
     || (textInput.includes("figure class"))
@@ -331,12 +358,10 @@ async function GetTranslatedText(node, csv){
       }
       chrome.storage.local.get(['extractMode'], function (result) {
         if(result.extractMode){
-          PushCSV(textInput,miscs);
-          // if(!miscs.includes(textInput))
-          // miscs.push(textInput);
+            PushCSV(textInput,miscs);
         }
       });
-      PrintLog("Send:"+textInput);
+      PrintLog("Send:"+textInput+" class name: "+node.className);
       translatedText = await translate(textInput, csv);
       if(translatedText.length > 0){ // When it founds the translated text
         if(number.length > 0){
@@ -354,6 +379,7 @@ async function GetTranslatedText(node, csv){
 async function GetTranslatedImage(node, csv){
   if(node.className){
     var imageInput = node.currentSrc;
+    var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     if(!imageInput)
       return;
     if((!imageInput.includes("png"))
@@ -361,6 +387,13 @@ async function GetTranslatedImage(node, csv){
       ||(imageInput.includes("/raid/"))
       ||(imageInput.includes("/number/"))
       )
+      return;
+    if ((textInput.includes("img class"))
+    || (textInput.includes("img src"))
+    || (textInput.includes("figure class"))
+    || (textInput.includes("li class"))
+    || (textInput.includes("a class"))
+    )
       return;
     PrintLog("Send URL:"+imageInput);
     translatedText = await GetTranslatedImageURL(imageInput, csv);
@@ -373,12 +406,20 @@ async function GetTranslatedImage(node, csv){
 async function GetTranslatedImageDIV(node, csv){
   if(node.className){
     var imageStyle = window.getComputedStyle(node).backgroundImage;
+    var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     if(!imageStyle)
       return;
     if((!imageStyle.includes("png"))
     ||(imageStyle.includes("/ui/"))
     ||(imageStyle.includes("/raid/"))
     ||(imageStyle.includes("/number/"))
+    )
+      return;
+    if ((textInput.includes("img class"))
+    || (textInput.includes("img src"))
+    || (textInput.includes("figure class"))
+    || (textInput.includes("li class"))
+    || (textInput.includes("a class"))
     )
       return;
     PrintLog("Send DIV:"+imageStyle+" Class: "+node.className);
@@ -446,7 +487,10 @@ var archiveObserver = new MutationObserver(function(mutations) {
   archiveObserver.disconnect();
   // ReplaceArchive();
   mutations.forEach((mutation) => { // This method is very active and *slow*
-    walkDownTree(mutation.target,GetTranslatedText, archiveCsv);
+    if((!mutation.target.className.includes("txt-message"))
+    &&(!mutation.target.className.includes("txt-character-name"))
+    )
+      walkDownTree(mutation.target,GetTranslatedText, archiveCsv);
   });
   ObserverArchive();
 });
@@ -479,8 +523,8 @@ var BattleObserver = new MutationObserver(function(mutations) {
   BattleObserver.disconnect();
   mutations.forEach((mutation) => {
     walkDownTree(mutation.target,GetTranslatedText, archiveCsv);
-    walkDownTreeSrc(mutation.target,GetTranslatedImage, imageCsv);
-    walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageCsv);
+    // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageCsv);
+    // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageCsv);
   });
   ObserverBattle();
 });
@@ -619,7 +663,7 @@ const main = async () => {
   InitList();
   PrintLog("ORIGIN: "+generalConfig.origin);
   try {
-    await Promise.all([ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle()]); //
+    await Promise.all(ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle(),ObserverArchive()); //
   } catch (e) {
     PrintLog(e);
   }
