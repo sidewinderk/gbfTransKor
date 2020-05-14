@@ -341,8 +341,203 @@ jp,kr
 イベント,이벤트,,,,,,,,,,,,,"<option data-id=""*"">水</option>",,,,,,,"<option data-id=""*"">土</option>",,,,,,,"<option data-id=""*"">風</option>",,,,,,,"<option data-id=""*"">光</option>",,,,,,,"<option data-id=""*"">闇</option>,"
 ID入力,ID입력
 バトル一覧,배틀일람
+"第<span id=""txt-number-value"">****</span>話<br>更新!","제<span id=""txt-number-value"">****</span>화<br>갱신!"
+重要,중요
+下記の騎空団サポート効果が終了しました。<br />	<br />	<ul>		</ul>,이하의 기동단 서포트효과가 종료되었습니다.<br />	<br />	<ul>		</ul>
+下記のよろず屋サポート効果が終了しました。<br>	<br>	<ul>		</ul>,이하의 잡화상 서포트효과가 종료되었습니다.<br>	<br>	<ul>		</ul>
+"<% if(isLastChecked) { %><a href=""javascript:void(*);"" class=""btn-help-close"">閉じる</a><% } else { %><a href=""javascript:void(*);"" class=""btn-help-next btn-silent-se"">次へ</a><% } %>","<% if(isLastChecked) { %><a href=""javascript:void(*);"" class=""btn-help-close"">닫기</a><% } else { %><a href=""javascript:void(*);"" class=""btn-help-next btn-silent-se"">다음으로</a><% } %>"
+*分 *秒,*분 *초
+*分 **秒,*분 **초
+**分 *秒,**분 *초
+**分 **秒,**분 **초
+絞り込み,간추리기
+読み込み中,로딩중
+リサイクル状況,리사이클상황
+精錬完了まで,정련완료까지
+"ルピ <span class=""txt-reward-plus"">+*</span>","루피 <span class=""txt-reward-plus"">+*</span>"
+"ルピ <span class=""txt-reward-plus"">+**</span>","루피 <span class=""txt-reward-plus"">+**</span>"
+"ルピ <span class=""txt-reward-plus"">+***</span>","루피 <span class=""txt-reward-plus"">+***</span>"
+"ルピ <span class=""txt-reward-plus"">+****</span>","루피 <span class=""txt-reward-plus"">+****</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+*</span>","軌跡の雫 <span class=""txt-reward-plus"">+*</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+**</span>","軌跡の雫 <span class=""txt-reward-plus"">+**</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+***</span>","軌跡の雫 <span class=""txt-reward-plus"">+***</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+****</span>","軌跡の雫 <span class=""txt-reward-plus"">+****</span>"
+前回のAP消費量 *（うち繰り越し *）,지난 AP소비량 *（중 이월치 *）
+前回のAP消費量 **（うち繰り越し *）,지난 AP소비량 **（중 이월치 *）
+前回のAP消費量 ***（うち繰り越し *）,지난 AP소비량 ***（중 이월치 *）
+前回のAP消費量 ****（うち繰り越し *）,지난 AP소비량 ****（중 이월치 *）
+前回のAP消費量 *****（うち繰り越し *）,지난 AP소비량 *****（중 이월치 *）
+前回のAP消費量 **（うち繰り越し **）,지난 AP소비량 **（중 이월치 **）
+前回のAP消費量 ***（うち繰り越し **）,지난 AP소비량 ***（중 이월치 **）
+前回のAP消費量 ****（うち繰り越し **）,지난 AP소비량 ****（중 이월치 **）
+前回のAP消費量 *****（うち繰り越し **）,지난 AP소비량 *****（중 이월치 **）
+前回のAP消費量 ***（うち繰り越し ***）,지난 AP소비량 ***（중 이월치 ***）
+前回のAP消費量 ****（うち繰り越し ***）,지난 AP소비량 ****（중 이월치 ***）
+前回のAP消費量 *****（うち繰り越し ***）,지난 AP소비량 *****（중 이월치 ***）
+前回のAP消費量 ****（うち繰り越し ****）,지난 AP소비량 ****（중 이월치 ****）
+前回のAP消費量 *****（うち繰り越し ****）,지난 AP소비량 *****（중 이월치 ****）
+前回のAP消費量 *****（うち繰り越し *****）,지난 AP소비량 *****（중 이월치 *****）
+騎空団サポート,기공단서포트
+注意事項,주의사항
 
 
+
+
+
+
+
+!편성
+おまかせ編成,자동편성
+武器おまかせ装備,무기 자동장비
+召喚石おまかせ装備,소환석 자동장비
+編成セットのシンボルマーク変更,편성세트 심볼마크 변경
+ジョブチェンジへ,직업 체인지로
+おまかせ編成確認,자동편성확인
+・重視する項目と属性を選択してください,・중시하는 항목과 속성을 선택해주세요.
+編成する,편성하기
+このパーティで実行しているクエスト、または<br>参戦しているマルチバトルがあります。<br><br>クエスト、またはマルチバトルが終了するまで<br>このパーティは編集できません。,이 파티로 실행하고있는 퀘스트、혹은<br>참가하고 있는 멀티배틀이 있습니다.<br><br>퀘스트、혹은 멀티배틀이 종료될 때 까지<br>이 파티는 편성할 수 없습니다.
+パーティ切り替え,파티 변경
+クエストTOPへ,퀘스트 TOP으로
+編成,편성
+ジョブ詳細,직업 상세
+編成<br>切り替え,편성<br>바꾸기
+
+!탑페이지
+AD（外部リンクへジャンプします）,AD（외부링크로 점프합니다.）
+ゲーム初期設定,게임초기설정
+※ゲーム演出の詳細設定は、いつでも変更できます,※게임연출의 상세한 설정은 언제든지 변경가능합니다.
+対応機種,대응기종
+"■動作環境<br>iPhone *以降の端末 iOS*.*以上<br>Safari/SkyLeap<br><span class=""txt-ios-hide"">Android *.*以上搭載の端末<br>標準ブラウザ/Chrome/SkyLeap<br></span><br>※iOS*.*未満では、音声が再生されない場合がございます。<br><span class=""txt-ios-hide"">※Android*.*.xでは、音声が再生されない場合がございます。<br></span>※動作する端末は順次拡大対応を進めております。<br>※動作環境であっても一部端末で動作しない場合がございます。<br>※iOS*.x以下<span class=""txt-ios-hide"">、Android *.*以下</span>は非対応となります。<br><br>■推奨環境<br>iPhone *s以降の端末 iOS*.*以上<br>Safari/SkyLeap<br><span class=""txt-ios-hide"">Android*.*以上搭載の端末<br>Chrome/SkyLeap</span>","■동작환경<br>iPhone *이후의 단말 iOS*.*이상<br>Safari/SkyLeap<br><span class=""txt-ios-hide"">Android *.*이상 탑재 단말<br>표준 브라우저/Chrome/SkyLeap<br></span><br>※iOS*.*미만에서는 음성이 재생되지 않는 경우가 있습니다.<br><span class=""txt-ios-hide"">※Android*.*.x에서는 음성이 재생되지 않는 경우가 있습니다.<br></span>※동작하는 단말은 순차적으로 늘려가고있습니다.<br>※동작환경이라도 일부 단말에서 동작하지 않는 경우가 있습니다.<br>※iOS*.x이하<span class=""txt-ios-hide"">、Android *.*이하</span>는 대응하지 않습니다.<br><br>■추천환경<br>iPhone *s이후의 단말 iOS*.*이상<br>Safari/SkyLeap<br><span class=""txt-ios-hide"">Android*.*이상 탑재 단말<br>Chrome/SkyLeap</span>"
+違反行為に対する措置について,위반행위에 대한 조치에 대해
+一部コンテンツに関して、<br>iOS版アプリではご利用できません。<br>,일부 콘텐츠에 대해<br>iOS판 어플에서는 이용할 수 없습니다.<br>
+トップページ,탑 페이지
+新着情報,최신정보
+
+!선물함
+期限なし,기한없음
+期限あり,기한있음
+受取履歴,수취내역
+未受取のプレゼント,미수취 선물
+一括受取,한번에 받기
+プレゼントがありません,선물이 없습니다
+プレゼント整頓設定,선물 정돈설정
+召喚石を売却,소환석을 매각
+武器を売却,무기를 매각
+召喚石を倉庫に移動,소환석을 창고로 이동
+武器を倉庫に移動,무기를 창고로 이동
+プレゼントリスト,선물 리스트
+*個,*개
+**個,**개
+***個,***개
+****個,****개
+*****個,*****개
+"<option value=""*"">全部</option>								<option value=""*_*"">									ノーマル							</option>								<option value=""*_*"">									レア							</option>								<option value=""*_*"">									Sレア							</option>								<option value=""*_*"">									SSレア							</option>","<option value=""*"">전부</option>								<option value=""*_*"">									노멀							</option>								<option value=""*_*"">									레어							</option>								<option value=""*_*"">									S레어							</option>								<option value=""*_*"">									SS레어							</option>"
+노멀
+레어
+S레어
+SS레어
+
+!페이트에피소드
+フェイトエピソードがあります！,페이트에피소드가 있습니다!
+たまには寄り道もイイかもなぁ。<br>			意外な発見があるんじゃねーか？<br>,가끔 샛길로 가보는 것도 좋지?<br>			의외의 발견이 있을지도 모르잖아?<br>
+全て,모두
+"<option value=""*"" selected="""">全て</option>			<option value=""*"">レア</option>			<option value=""*"">Sレア</option>			<option value=""*"">SSレア</option>			<option value=""*"">その他</option>","<option value=""*"" selected="""">모두</option>			<option value=""*"">레어</option>			<option value=""*"">S레어</option>			<option value=""*"">SS레어</option>			<option value=""*"">그외</option>"
+その他,그외
+進行度 */*,진행도 */*
+
+!프로필
+挨拶,인사
+ステータス,스테이터스
+Next ********Rankポイント,Next ********Rank포인트
+Next *******Rankポイント,Next *******Rank포인트
+Next ******Rankポイント,Next ******Rank포인트
+Next *****Rankポイント,Next *****Rank포인트
+Next ****Rankポイント,Next ****Rank포인트
+Next ***Rankポイント,Next ***Rank포인트
+Next **Rankポイント,Next **Rank포인트
+Next *Rankポイント,Next *Rank포인트
+フレンド,프랜드
+***/***人,***/***인
+**/**人,**/**인
+*/*人,*/*인
+仲間キャラ,동료캐릭터
+***人,***인
+所持武器,소유무기
+所持召喚石,소유소환석
+騎空団,기공단
+所属人数,소속인수
+：***人,：***인
+：**人,：**인
+：*人,：*인
+騎空団Rank,기공단Rank
+サポーター専用召喚石,서포터전용 소환석
+推しキャラ,최애캐릭터
+属性強化,속성강화
+アチーブメント,업적
+属性強化スキル,속성강화스킬
+属性強化ヘルプ,속성강화헬프
+強化する,강화한다
+"データ取得中<span id=""anima""></span>","데이터 취득중<span id=""anima""></span>"
+プロフィール,프로필
+フリー,프리
+火属性固定召喚石,화속성고정소환석
+水属性固定召喚石,수속성고정소환석
+土属性固定召喚石,토속성고정소환석
+風属性固定召喚石,풍속성고정소환석
+光属性固定召喚石,광속성고정소환석
+闇属性固定召喚石,암속성고정소환석
+フリー固定召喚石,프리 고정소환석
+
+!아이템
+アイテム,아이템
+空図の欠片,공도(空図)의 파편
+大事なもの,중요한 것
+ショップへ,직업으로
+アイテム一覧,아이템일람
+
+!상점
+いらっしゃ～い！　旅支度はシェロちゃんにお任せ～！,어서오세요!　여행지원은 셰로에게 맡겨주세요～！
+"<span class=""txt-stone-num""></span>個","<span class=""txt-stone-num""></span>개"
+"<span class=""txt-stone-num"">****</span>個","<span class=""txt-stone-num"">****</span>개"
+"<span class=""txt-stone-num"">***</span>個","<span class=""txt-stone-num"">***</span>개"
+"<span class=""txt-stone-num"">**</span>個","<span class=""txt-stone-num"">**</span>개"
+"<span class=""txt-stone-num"">*</span>個","<span class=""txt-stone-num"">*</span>개"
+
+!창고
+倉庫管理も<br>シェロちゃんにお任せ〜！,창고관리도<br>셰로에게 맡겨주세요〜！
+武器倉庫,무기창고
+武器倉庫*,무기창고*
+召喚石倉庫,소환석창고
+召喚石倉庫*,소환석창고*
+倉庫TOP,창고TOP
+
+!프랜드
+申請中,신청중
+未承認,미승인
+チャット,채팅
+フレンド検索,프랜드검색
+フレンド一覧,프랜드일람
+最終ログイン: **時間前,최종로그인: **시간전
+最終ログイン: *時間前,최종로그인: *시간전
+挨拶する,인사하기
+最終ログイン: *時間以内,최종로그인: *시간이내
+最終ログイン: *時間前
+フレンド数 **/** 人,프랜드수 **/** 인
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!루리아노트
 図鑑,도감
 所持数,소지수
 "所持数<span class=""txt-possessed-summon"">	*** / ***</span>","소지수<span class=""txt-possessed-summon"">	*** / ***</span>"
@@ -350,13 +545,13 @@ ID入力,ID입력
 "キャラ数<span class=""txt-possessed-npc"">        ***</span>","캐릭터수<span class=""txt-possessed-npc"">        ***</span>"
 "キャラ数<span class=""txt-possessed-npc"">        **</span>","캐릭터수<span class=""txt-possessed-npc"">        **</span>"
 "キャラ数<span class=""txt-possessed-npc"">        *</span>","캐릭터수<span class=""txt-possessed-npc"">        *</span>"
-
-
-
-
 図鑑 キャラ一覧に戻る,도감 캐릭터일람으로 돌아가기
 ルリアノートTOPに戻る,루리아노트TOP으로 돌아가기
-注意事項,주의사항
+
+!캐릭터 상세
+
+
+!캐릭터 상세
 サポートアビリティ,서포트어빌리티
 能力強化,능력강화
 エピソード,에피소드
