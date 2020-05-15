@@ -31,9 +31,7 @@ Use Extraction mode 와 Set Verbose output 의 체크를 해제 하고, Translat
 
 ## 기여방법 (번역자용)
 
-https://youtu.be/g2pUGXt628E
-
-원문 추출 방법 유튜브 링크
+원문 추출 방법 유튜브 링크: https://youtu.be/g2pUGXt628E
 
  1. 먼저 크롬확장을 설치해야함. (위의 설치방법 참조)
  2. 설치 이후, 크롬 우상단의 확장 목록에서 메뉴를 열 수 있음.
@@ -59,6 +57,8 @@ jp,kr
 所持数<span class="txt-possessed-summon">	*** / ***</span>,소지수<span class="txt-possessed-summon">	*** / ***</span>
 ~~~
 완료하면 위와 같은 형태가 됨.
+
+번역 과정 및 DB 업데이트 과정 유트브 영상 링크: https://youtu.be/Wxxb0DTpwug
 
 작업하면서 변경된 텍스트를 바로 확인하고싶다면, 옵션에서 Use Local DB 를 클릭한뒤, 크롬확장의 압축이 풀려있는 디렉토리에서 data 폴더에 있는 각 db 파일에 번역이 완료된 텍스트를 아래에 붙여넣고 저장한뒤 웹페이지를 새로고침하면 바로 확인할 수 있음.
 
