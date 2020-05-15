@@ -44,8 +44,7 @@ var config_simple = {
 
 // Common modules
 function PrintLog(text){
-  if(isVerboseMode)
-    console.log(text);
+  console.log(text);
 }
 function walkDownTree(node, command, variable = null) {
   if(node.innerHTML)
