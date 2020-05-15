@@ -667,7 +667,7 @@ const main = async () => {
   InitList();
   PrintLog("ORIGIN: "+generalConfig.origin);
   try {
-    await Promise.all(ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle(),ObserverArchive(),ObserverImage()); //
+    await Promise.all(ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle(),ObserverArchive()); //
   } catch (e) {
     PrintLog(e);
   }

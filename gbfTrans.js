@@ -231,7 +231,7 @@ async function GetTranslatedImageURL(stext, csvFile) {
        return true;
      }
   });
-  if(!transImg.includes("png"))
+  if((!transImg.includes("png")) && !transImg.includes("jpg"))
     return "";
   if(transImg.length > 0){
     PrintLog("Send URL:"+transImg);
@@ -251,6 +251,7 @@ async function GetTranslatedImageStyle(stext, csvFile) {
      if((String(stext).includes(String(item.orig))) && String(stext).includes("assets")){
        PrintLog("GET URL:"+String(item.kr));
        transImg = "url('"+generalConfig.origin+"/images/"+String(item.kr)+"')";
+       PrintLog("Check URL: "+transImg);
        return true;
      }
   });
@@ -317,13 +318,21 @@ async function GetTranslatedText(node, csv){
 async function GetTranslatedImage(node, csv){
   if(node.className){
     var imageInput = node.currentSrc;
+    var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     if(!imageInput)
       return;
-    if((!imageInput.includes("png"))
+    if(((!imageInput.includes("png")) && (!imageInput.includes("jpg")))
       ||(imageInput.includes("/ui/"))
       ||(imageInput.includes("/raid/"))
       ||(imageInput.includes("/number/"))
       )
+      return;
+    if ((textInput.includes("img class"))
+    // || (textInput.includes("img src"))
+    || (textInput.includes("figure class"))
+    || (textInput.includes("li class"))
+    || (textInput.includes("a class"))
+    )
       return;
     PrintLog("Send URL:"+imageInput);
     translatedText = await GetTranslatedImageURL(imageInput, csv);
@@ -336,12 +345,20 @@ async function GetTranslatedImage(node, csv){
 async function GetTranslatedImageDIV(node, csv){
   if(node.className){
     var imageStyle = window.getComputedStyle(node).backgroundImage;
+    var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     if(!imageStyle)
       return;
     if((!imageStyle.includes("png"))
     ||(imageStyle.includes("/ui/"))
     ||(imageStyle.includes("/raid/"))
     ||(imageStyle.includes("/number/"))
+    )
+      return;
+    if ((textInput.includes("img class"))
+    || (textInput.includes("img src"))
+    || (textInput.includes("figure class"))
+    || (textInput.includes("li class"))
+    || (textInput.includes("a class"))
     )
       return;
     PrintLog("Send DIV:"+imageStyle+" Class: "+node.className);
