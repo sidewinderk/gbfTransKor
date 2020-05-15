@@ -219,6 +219,8 @@ async function translate(stext, csvFile) {
   }
 }
 async function GetTranslatedImageURL(stext, csvFile) {
+  if(stext.includes(generalConfig.origin))
+    return "";
   var transImg = "";
   let csv = await request(csvFile);
   const list = parseCsv(csv);
@@ -240,6 +242,8 @@ async function GetTranslatedImageURL(stext, csvFile) {
   }
 }
 async function GetTranslatedImageStyle(stext, csvFile) {
+  if(stext.includes(generalConfig.origin))
+    return "";
   var transImg = "";
   let csv = await request(csvFile);
   const list = parseCsv(csv);

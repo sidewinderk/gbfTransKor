@@ -278,17 +278,19 @@ async function translate(stext, csvFile) {
   }
 }
 async function GetTranslatedImageURL(stext, csvFile) {
+  if(stext.includes(generalConfig.origin))
+    return "";
   var transImg = "";
   let csv = await request(csvFile);
   const list = parseCsv(csv);
    list.some(function(item){
      if((String(stext).includes(String(item.orig))) && String(stext).includes("assets")){
        PrintLog("GET URL:"+String(item.kr));
-       transImg = origin+"/images/"+String(item.kr);
+       transImg = generalConfig.origin+"/images/"+String(item.kr);
        return true;
      }
   });
-  if(!transImg.includes("png"))
+  if((!transImg.includes("png")) && !transImg.includes("jpg"))
     return "";
   if(transImg.length > 0){
     PrintLog("Send URL:"+transImg);
@@ -299,6 +301,8 @@ async function GetTranslatedImageURL(stext, csvFile) {
   }
 }
 async function GetTranslatedImageStyle(stext, csvFile) {
+  if(stext.includes(generalConfig.origin))
+    return "";
   var transImg = "";
   let csv = await request(csvFile);
   const list = parseCsv(csv);
@@ -382,14 +386,14 @@ async function GetTranslatedImage(node, csv){
     var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm,"").trim();
     if(!imageInput)
       return;
-    if((!imageInput.includes("png"))
+    if(((!imageInput.includes("png")) && (!imageInput.includes("jpg")))
       ||(imageInput.includes("/ui/"))
       ||(imageInput.includes("/raid/"))
       ||(imageInput.includes("/number/"))
       )
       return;
     if ((textInput.includes("img class"))
-    || (textInput.includes("img src"))
+    // || (textInput.includes("img src"))
     || (textInput.includes("figure class"))
     || (textInput.includes("li class"))
     || (textInput.includes("a class"))
@@ -398,8 +402,8 @@ async function GetTranslatedImage(node, csv){
     PrintLog("Send URL:"+imageInput);
     translatedText = await GetTranslatedImageURL(imageInput, csv);
     if(translatedText.length > 0){ // When it founds the translated text
+      PrintLog("Take translated URL:"+translatedText);
       node.setAttribute("src",translatedText);
-      PrintLog("Take URL:"+translatedText);
     }
   }
 }
@@ -663,7 +667,7 @@ const main = async () => {
   InitList();
   PrintLog("ORIGIN: "+generalConfig.origin);
   try {
-    await Promise.all(ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle(),ObserverArchive()); //
+    await Promise.all(ObserverImage()); //ObserverImageDIV(),ObserverImage(), ObserveNameText(), ObserveSceneText(),ObserverArchive(), ObserverPop(), ObserverBattle(),ObserverArchive()
   } catch (e) {
     PrintLog(e);
   }
