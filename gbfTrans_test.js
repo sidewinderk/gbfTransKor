@@ -643,10 +643,12 @@ function GetTranslatedImageURL(stext, jsonFile) {
     var transImg = "";
     PrintLog("Input IMG SRC: " + stext);
     jsonFile.some(function(item) {
-        if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
-            PrintLog("GET URL:" + String(item.kr));
-            transImg = generalConfig.origin + "/images/" + String(item.kr);
-            return true;
+        if (item.orig) {
+            if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
+                PrintLog("GET URL:" + String(item.kr));
+                transImg = generalConfig.origin + "/images/" + String(item.kr);
+                return true;
+            }
         }
     });
     if ((!transImg.includes("png")) && (!transImg.includes("jpg")))
@@ -664,11 +666,13 @@ function GetTranslatedImageStyle(stext, jsonFile) {
         return "";
     var transImg = "";
     jsonFile.some(function(item) {
-        if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
-            PrintLog("GET URL:" + String(item.kr));
-            transImg = "url('" + generalConfig.origin + "/images/" + String(item.kr) + "')";
-            PrintLog("Check URL: " + transImg);
-            return true;
+        if (item.orig) {
+            if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
+                PrintLog("GET URL:" + String(item.kr));
+                transImg = "url('" + generalConfig.origin + "/images/" + String(item.kr) + "')";
+                PrintLog("Check URL: " + transImg);
+                return true;
+            }
         }
     });
     if ((!transImg.includes("png")) && (!transImg.includes("jpg")))
