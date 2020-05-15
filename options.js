@@ -4,12 +4,16 @@ function save_options() {
   var translateModeCurrent = document.getElementById('isTranslateMode').checked;
   var verboseModeCurrent = document.getElementById('isVerbose').checked;
   var OriginCurrent = document.getElementById('origintext').value;
+  var ImageSwap = document.getElementById('doImageSwap').checked;
+  var BattleTrans = document.getElementById('doBattleTranslation').checked;
   
   chrome.storage.local.set({
     extractMode: extractModeCurrent,
     translateMode: translateModeCurrent,
     verboseMode: verboseModeCurrent,
-    origin: OriginCurrent
+    origin: OriginCurrent,
+    imageswap: ImageSwap,
+    battleobserver: BattleTrans
   }, function() {
     // Update status to let user know options were saved.
     var status = document.getElementById('status');
@@ -24,11 +28,13 @@ function save_options() {
 // stored in chrome.storage.
 function restore_options() {
   // Use default value extractMode = true.
-  chrome.storage.local.get(['extractMode','translateMode','verboseMode','origin'], function(items) {
+  chrome.storage.local.get(['extractMode','translateMode','verboseMode','origin', 'imageswap', 'battleobserver'], function(items) {
     document.getElementById('isExtractMode').checked = items.extractMode;
     document.getElementById('isTranslateMode').checked = items.translateMode;
     document.getElementById('isVerbose').checked = items.verboseMode;
     document.getElementById('origintext').value = items.origin;
+    document.getElementById('doImageSwap').checked = items.imageswap;
+    document.getElementById('doBattleTranslation').checked = items.battleobserver;
   });
 }
 document.getElementById("useLocalDB").onclick = function(element) {
