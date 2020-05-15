@@ -13,14 +13,20 @@
  4. 우측 상단의 관리자모드(Developer mode)를 켠 뒤 `Load unpacked`를 클릭하고 압축을 푼 폴더를 선택
 
 #### 크롬확장 메뉴 설명
-설치 이후 우측 상단 크롬확장 리스트에 번역헬퍼가 추가된 것을 확인할 수 있음. 
+설치 이후 우측 상단 크롬확장 리스트에 번역헬퍼가 추가된 것을 확인할 수 있음.
+
 클릭하여 번역에 기여할 수 있는 툴을 볼 수 있지만, 일반 사용시에는 옵션을 클릭하여 옵션 페이지로 이동.
+
 Use Extraction mode 와 Set Verbose output 의 체크를 해제 하고, Translate the text 에만 체크를 해둠.
+
 그리고 아래의 Use Online DB 클릭 한 뒤 Save 버튼을 누르면 일반 사용자는 바로 사용할 수 있음.
 
 ### 자바스크립트로 바로 실행하기
 아래 라인의 자바스크립트를 원하는 브라우저에서 실행.
+
 이 경우, 모바일에서도 실행가능 (alook 브라우저 등의 유저 스크립트를 불러올 수 있는 브라우저를 활용)
+
+아이폰 alook 브라우저에서 설정하는 과정 유튜브링크: https://youtu.be/nRDuj0a0y1Q
 ~~~
 (function() {
   const script = document.createElement('script');
