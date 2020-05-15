@@ -30,6 +30,11 @@ Use Extraction mode 와 Set Verbose output 의 체크를 해제 하고, Translat
 ~~~
 
 ## 기여방법 (번역자용)
+
+https://youtu.be/g2pUGXt628E
+
+원문 추출 방법 유튜브 링크
+
  1. 먼저 크롬확장을 설치해야함. (위의 설치방법 참조)
  2. 설치 이후, 크롬 우상단의 확장 목록에서 메뉴를 열 수 있음.
  3. 이 크롬확장 메뉴에서 `Option Page`를 클릭하여 옵션 페이지로 이동
