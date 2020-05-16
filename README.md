@@ -2,6 +2,8 @@
 
 마스터 버전 다운로드: https://github.com/sidewinderk/gbfTransKor/archive/master.zip
 
+Tamper Monkey 용 스크립트 링크: https://greasyfork.org/ko/scripts/403436-%EA%B7%B8%EB%B8%94%EB%B9%A4-%ED%95%9C%EA%B8%80-%ED%8C%A8%EC%B9%98-%EB%A7%81%ED%81%AC
+
 번역 데이터 업데이트용 시트(공개): https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing
 
 
