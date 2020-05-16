@@ -62,7 +62,8 @@ function PrintLog(text) {
 }
 
 function walkDownTree(node, command, variable = null) {
-    if (node.innerHTML)
+    if ((node.innerHTML) ||
+        (node.className.includes("btn-")))
         command(node, variable);
     if (!node.className) { // in case of list of nodes
         if (node.id) {
@@ -681,6 +682,7 @@ async function InitList() {
 function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = "";
+    PrintLog("traslate taken: " + String(stext));
     jsonFile.some(function(item) {
         if (item.kr) {
             if (String(stext) == String(item.jp)) {
@@ -694,6 +696,7 @@ function translate(stext, jsonFile) {
         PrintLog("Send:" + transText);
         return transText;
     } else {
+        PrintLog("no translation");
         return "";
     }
 }
@@ -704,10 +707,12 @@ function GetTranslatedImageURL(stext, jsonFile) {
     var transImg = "";
     PrintLog("Input IMG SRC: " + stext);
     jsonFile.some(function(item) {
-        if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
-            PrintLog("GET URL:" + String(item.kr));
-            transImg = generalConfig.origin + "/images/" + String(item.kr);
-            return true;
+        if (item.orig) {
+            if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
+                PrintLog("GET URL:" + String(item.kr));
+                transImg = generalConfig.origin + "/images/" + String(item.kr);
+                return true;
+            }
         }
     });
     if ((!transImg.includes("png")) && !transImg.includes("jpg"))
@@ -725,11 +730,13 @@ function GetTranslatedImageStyle(stext, jsonFile) {
         return "";
     var transImg = "";
     jsonFile.some(function(item) {
-        if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
-            PrintLog("GET URL:" + String(item.kr));
-            transImg = "url('" + generalConfig.origin + "/images/" + String(item.kr) + "')";
-            PrintLog("Check URL: " + transImg);
-            return true;
+        if (item.orig) {
+            if ((String(stext).includes(String(item.orig))) && String(stext).includes("assets")) {
+                PrintLog("GET URL:" + String(item.kr));
+                transImg = "url('" + generalConfig.origin + "/images/" + String(item.kr) + "')";
+                PrintLog("Check URL: " + transImg);
+                return true;
+            }
         }
     });
     if (!transImg.includes("png"))
@@ -749,9 +756,11 @@ function GetTranslatedText(node, csv) {
     if (node) {
         var passOrNot = true;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        if (node.className.includes("btn-"))
+            textInput = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
         if (kCheck.test(textInput))
             return;
-
+        PrintLog("GetTranslatedText - className: " + node.className + ", text: " + textInput);
         // Filter for avoiding unnecessary computing
         if ((textInput.includes("<div ")) ||
             (textInput.includes("img class")) ||
@@ -788,6 +797,7 @@ function GetTranslatedText(node, csv) {
             });
             PrintLog("Send:" + textInput + " class name: " + node.className);
             translatedText = translate(textInput, csv);
+            PrintLog("traslated text: " + translatedText);
             if (translatedText.length > 0) { // When it founds the translated text
                 if (number.length > 0) {
                     // If it contains number("*"), recover it from the saved number
@@ -795,8 +805,17 @@ function GetTranslatedText(node, csv) {
                         translatedText = translatedText.slice(0, translatedText.indexOf("*")) + number[i] + translatedText.slice(translatedText.indexOf("*") + 1);
                     }
                 }
-                node.innerHTML = translatedText;
                 PrintLog("Take:" + translatedText);
+                if (node.className.includes("btn-")) {
+                    if (!node.className.includes("-translated")) {
+                        var style = document.createElement("style");
+                        style.type = "text/css";
+                        style.innerText = "." + node.className + '::after{ content: "' + translatedText + '" !important; }';
+                        document.head.appendChild(style);
+                        node.className += " " + node.className + "-translated";
+                    }
+                } else
+                    node.innerHTML = translatedText;
             }
         }
     }
@@ -872,6 +891,8 @@ var sceneObserver = new MutationObserver(function(mutations) {
             var textmessage = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
             chrome.storage.local.get(['extractMode', 'translateMode'], function(result) {
                 if (result.extractMode) {
+                    if (kCheck.test(textmessage))
+                        return;
                     PrintLog(textmessage);
                     PushCSV(textmessage, storyText);
                 }
@@ -893,6 +914,8 @@ var nameObserver = new MutationObserver(function(mutations) {
             chrome.storage.local.get(['extractMode', 'translateMode'], function(result) {
                 var tempName = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
                 if (tempName != "<span>&nbsp;</span>") {
+                    if (kCheck.test(tempName))
+                        return;
                     if (result.extractMode) {
                         PushCSV(tempName, cNames);
                         // if(!cNames.includes(tempName))

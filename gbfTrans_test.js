@@ -31,7 +31,8 @@ function PrintLog(text) {
 }
 
 function walkDownTree(node, command, variable = null) {
-    if (node.innerHTML)
+    if ((node.innerHTML) ||
+        (node.className.includes("btn-")))
         command(node, variable);
     if (!node.className) { // in case of list of nodes
         if (node.id) {
@@ -692,6 +693,8 @@ function GetTranslatedText(node, csv) {
     if (node) {
         var passOrNot = true;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        if (node.className.includes("btn-"))
+            textInput = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
         if (kCheck.test(textInput))
             return;
 
@@ -733,8 +736,17 @@ function GetTranslatedText(node, csv) {
                         translatedText = translatedText.slice(0, translatedText.indexOf("*")) + number[i] + translatedText.slice(translatedText.indexOf("*") + 1);
                     }
                 }
-                node.innerHTML = translatedText;
                 PrintLog("Take:" + translatedText);
+                if (node.className.includes("btn-")) {
+                    if (!node.className.includes("-translated")) {
+                        var style = document.createElement("style");
+                        style.type = "text/css";
+                        style.innerText = "." + node.className + '::after{ content: "' + translatedText + '" !important; }';
+                        document.head.appendChild(style);
+                        node.className += " " + node.className + "-translated";
+                    }
+                } else
+                    node.innerHTML = translatedText;
             }
         }
     }
