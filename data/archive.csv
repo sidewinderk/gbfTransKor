@@ -1498,7 +1498,7 @@ Aqours スカイハイ！で入手できる交換素材。集めることで様�
 灼滅・破天道,작멸・파천도
 敵全体に*倍火属性ダメージ/日暈効果,적 전체에 *배 화속성 데미지/햇무리 효과
 瞬撃・印可掌,순격・인가장
-"<div class=""prt-text-small"">カウンター効果(回避・被ダメージ/4回)/即座に奥義発動可能　<span class=""text-blue"">◆古今無双流のレベルが最大まで上昇</span></div>","<div class=""prt-text-small"">카운터 효과(회피・피격시/4회)/즉시 오의 발동 가능　<span class=""text-blue"">◆고금무쌍류의 레벨이 최대치까지 상승</span></div>"
+"<div class=""prt-text-small"">カウンター効果(回避・被ダメージ/*回)/即座に奥義発動可能　<span class=""text-blue"">◆古今無双流のレベルが最大まで上昇</span></div>","<div class=""prt-text-small"">카운터 효과(회피・피격시/*회)/즉시 오의 발동 가능　<span class=""text-blue"">◆고금무쌍류의 레벨이 최대치까지 상승</span></div>"
 真・無明白天,진・무명백천
 "<div class=""prt-text-small"">味方全体の火属性攻撃UP/ダブルアタック確率UP　<span class=""text-blue"">◆効果中ターン終了時に古今無双流のレベルが*上昇</span></div>","<div class=""prt-text-small"">아군 전체의 화속성 공격UP/더블어택 확률UP　<span class=""text-blue"">◆효과 중 턴 종료시 고금무쌍류 레벨이 *상승</span></div>"
 古今無双流,고금무쌍류
@@ -1669,7 +1669,7 @@ Aqours スカイハイ！で入手できる交換素材。集めることで様�
 緩やかな滅びの中で
 "<div class=""prt-text-small"">ターン終了時に瀕死状態の味方がいる時、滅尽状態に変化しHPと弱体効果を全回復　<span class=""text-blue"">◆滅尽状態中、攻撃性能大幅UP/敵対心UP/弱体効果無効/アビリティ使用不可</span></div>"
 無我の衝動
-"<div class=""prt-text-small"">滅尽状態中3ターン毎に自分のステータスに応じた行動をする/奥義ゲージ***%時、奥義を温存していても発動する</div>"
+"<div class=""prt-text-small"">滅尽状態中*ターン毎に自分のステータスに応じた行動をする/奥義ゲージ***%時、奥義を温存していても発動する</div>"
 
 
 "!베아트릭스(SSR,수영복)"
@@ -3071,7 +3071,7 @@ G線上のシンデレラ＋
 不可侵海域＋,불가침 성역+
 "<div class=""prt-text-small"">自分の弱体効果を全て回復/不可侵海域を展開　<span class=""text-blue""> ◆毎ターン刃鏡を消費/ターン終了時に刃鏡*で解除(最大*ターン)</span></div>","<div class=""prt-text-small"">자신의 약체 효과를 모두 회복/불가침 신역을 전개 <span class=""text-blue""> ◆매 턴 인경을 소비/턴 종료 시 인경 *개로 해제(최대 *턴)</span></div>"
 ヒルデブランド＋,힐데브랜드+
-"<div class=""prt-text-small"">敵全体に土属性ダメージ/味方全体の防御UP(累積/永続)/刃鏡を１つ展開</div>","<div class=""prt-text-small"">적 전체에게 토속성 데미지/아군 전체의 방어UP(누적/영구)/안경을 1개 전개</div>"
+"<div class=""prt-text-small"">敵全体に土属性ダメージ/味方全体の防御UP(累積/永続)/刃鏡を*つ展開</div>","<div class=""prt-text-small"">적 전체에게 토속성 데미지/아군 전체의 방어UP(누적/영구)/안경을 *개 전개</div>"
 ニーベルン・ザント,니벨룽 잔트
 "<div class=""prt-text-small"">敵全体の水属性攻撃DOWN/最大CT増加<span class=""text-blue""><br>◆刃鏡を*つ消費して命中率DOWN効果追加</span></div>","<div class=""prt-text-small"">적 전체의 수속성 공격DOWN/최대 CT증가<span class=""text-blue""><br>◆인경을 *개 소비하여 명중률 DOWN효과 추가</span></div>"
 刃鏡燦然,인경찬연
@@ -3215,7 +3215,7 @@ HPが**%以下の時自分の回復性能UP
 サドンアタック＋
 土属性キャラ単体にアームド効果/高揚効果
 オートイグニッション
-"<div class=""prt-text-small"">発動時に自分の奥義ゲージを***%にする/弱体効果を*つ回復 <span class=""text-blue"">◆効果時間中ターン終了時に奥義ゲージを100%にする</span></div>"
+"<div class=""prt-text-small"">発動時に自分の奥義ゲージを***%にする/弱体効果を*つ回復 <span class=""text-blue"">◆効果時間中ターン終了時に奥義ゲージを***%にする</span></div>"
 ツングースカ・バタフライ
 敵の攻撃行動のターゲットになった場合チェインバースト性能UP(累積)
 ヘッドショット
@@ -3403,11 +3403,9 @@ HPが**%以下の時自分の回復性能UP
 ワイルドカード
 武器スキルの得意武器/タイプ/種族の発動条件を全て満たす
 刑死者の逆位置,사형수의 역위치
-サブメンバー時,서브멤버일때
 装備している武器が全て異なる時、土属性キャラの攻撃UP/防御UP/ダメージ上限UP,장비하고있는 무기가 전부 다를경우 토속성 캐릭터의 공격UP/방어UP/데미지상한UP
 愚者の正位置,어리석은자의 정위치
-"<dt class=""prt-sp-support-title main"">バトル登場時</dt><dd class=""prt-sp-support-desc"">スペードランク、ハートランク、ダイヤランク、クラブランクがランダムで上昇　<span class=""text-blue"">◆再発動不可</span></dd>","<dt class=""prt-sp-support-title main"">배틀등장시</dt><dd class=""prt-sp-support-desc"">스페이드랭크,하트랭크,다이아랭크,클럽랭크가 랜덤으로 상승　<span class=""text-blue"">◆재발동불가</span></dd>"
-
+"スペードランク、ハートランク、ダイヤランク、クラブランクがランダムで上昇　<span class=""text-blue"">◆再発動不可</span>","스페이드랭크/하트랭크/다이아랭크/클럽랭크가 랜덤으로 상승　<span class=""text-blue"">◆재발동불가</span>"
 
 
 "!칼리오스트로(SSR,토속통상)"
@@ -4240,6 +4238,8 @@ LINEに投稿する,LINE에 투고하기
 習得クエストへ,습득퀘스트로
 習得 Lv **,습득 Lv **
 リミットボーナスアビリティ,리미티드보너스 어빌리티
+サブメンバー時,서브멤버일때
+バトル登場時,배틀등장시
 
 !이벤트
 ふたたび始まる空の旅,다시 시작되는 하늘 여행
