@@ -5,7 +5,7 @@
 
 import contextlib, csv, os
 from apiclient.discovery import build  # pip3 install google-api-python-client
-skipsheets = ['README']
+skipsheets = ['archive','quest','name','image']
 savepath = "./cache/"
 
 SHEET = '1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0'
@@ -27,9 +27,13 @@ def itersheets(id):
     params = {'spreadsheetId': id, 'ranges': sheets, 'majorDimension': 'ROWS'}
     result = service.spreadsheets().values().batchGet(**params).execute()
     for name, vr in zip(sheets, result['valueRanges']):
-        if(name in skipsheets):
-            continue
-        yield (title, name), vr['values']
+        for item in skipsheets:
+           if item not in name:
+               continue
+           yield (title, name), vr['values']
+#        if(name not in skipsheets):
+#            continue
+#        yield (title, name), vr['values']
 
 def write_csv(fd, rows, encoding='UTF-8', dialect='excel'):
     csvfile = csv.writer(fd, dialect=dialect)
