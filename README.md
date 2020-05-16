@@ -1,5 +1,7 @@
 # gbfTransKor
 
+마스터 버전 다운로드: https://github.com/sidewinderk/gbfTransKor/archive/master.zip
+
 번역 데이터 업데이트용 시트(공개): https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing
 
 
