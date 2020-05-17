@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   getTextBtn.onclick = function(element) {
     chrome.storage.local.get(['oTEXT'], function (result) {
-        var outputtext = "jp,kr\n"
+        var outputtext = "index,url,jp,kr\n"
         result.oTEXT.forEach(function(element){
             outputtext = outputtext + element + ",\n"
         });

@@ -11,6 +11,7 @@ var doBattleTrans = false;
 var ObserverList = [];
 
 var storyText = [];
+var storyText_index = 0;
 var cNames = [];
 var miscs = [];
 var questJson;
@@ -26,6 +27,7 @@ chrome.runtime.onMessage.addListener(
         }
         if (request.data == "clearText") {
             storyText = [];
+			storyText_index = 0;
             chrome.storage.local.set({ oTEXT: storyText });
         }
         if (request.data == "clearName") {
@@ -171,6 +173,20 @@ function PushCSV(text, array) {
         chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
     }
 }
+
+function PushCSV_StoryText(text, array, url) {
+	var item=String(storyText_index++) + ',' + url + ',';
+	
+    if (!array.includes(text)) {
+        if (array.includes(","))
+            array.push(item + "'" + text + "'");
+        else
+            array.push(item + text);
+		
+        chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+    }
+}
+
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
 
 // Imported modules
@@ -701,6 +717,48 @@ function translate(stext, jsonFile) {
     }
 }
 
+function translate_StoryText(stext, jsonFile) {
+	//check if Log Exists.
+    var node = document.getElementsByClassName('prt-log-display')[0].children;
+	
+	if(typeof node == 'undefined')
+		return "";
+	
+	// Translation part for story text
+    var transText = "";
+	
+	
+    PrintLog("traslate taken: " + String(stext));
+	
+    jsonFile.some(function(item) {
+		if(item.kr == '\t' ||
+		   item.kr == ' ')
+			return false;
+		
+		if(item.kr) {
+			if(item.url == document.URL) {
+				if(item.index == (node.length - 1) ) {
+					transText=item.kr;	
+					console.log(item);
+					console.log("node.length - 1 : " + (node.length - 1));
+					console.log("item.index : " + item.index);
+					
+					return true;
+				}
+			}
+		}
+    });
+    if (transText.length > 0) {
+        PrintLog("Send:" + transText);
+		console.log("Send:" + transText);
+        return transText;
+    } else {
+        PrintLog("no translation");
+		console.log("no translation");
+        return "";
+    }
+}
+
 function GetTranslatedImageURL(stext, jsonFile) {
     if (stext.includes(generalConfig.origin))
         return "";
@@ -752,7 +810,7 @@ function GetTranslatedImageStyle(stext, jsonFile) {
 
 var translatedText = "";
 
-function GetTranslatedText(node, csv) {
+function GetTranslatedText(node, csv, isStoryText=false) {
     if (node) {
         var passOrNot = true;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
@@ -796,7 +854,11 @@ function GetTranslatedText(node, csv) {
                 }
             });
             PrintLog("Send:" + textInput + " class name: " + node.className);
-            translatedText = translate(textInput, csv);
+			
+			translatedText =isStoryText ? translate_StoryText(textInput,csv) :translate(textInput,csv) ;
+            if(translatedText == "") 
+				transtextInput = textInput;
+			
             PrintLog("traslated text: " + translatedText);
             if (translatedText.length > 0) { // When it founds the translated text
                 if (number.length > 0) {
@@ -814,8 +876,11 @@ function GetTranslatedText(node, csv) {
                         document.head.appendChild(style);
                         node.className += " " + node.className + "-translated";
                     }
-                } else
+                } else { 
                     node.innerHTML = translatedText;
+					if ( typeof document.getElementsByClassName('txt-message')[0] != 'undefined' )
+						document.getElementsByClassName('txt-message')[0].innerHTML = translatedText;
+				}
             }
         }
     }
@@ -887,18 +952,21 @@ function GetTranslatedImageDIV(node, csv) {
 var sceneObserver = new MutationObserver(function(mutations) {
     mutations.some(function(mutation) {
         // PrintLog(mutation);
-        if (mutation.target.className.includes("txt-message")) {
-            var textmessage = mutation.target.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        if (mutation.target.className.includes("prt-log-display")) {
+			if(typeof mutation.target.children[0] == 'undefined')
+				return true;
+			
+            var textmessage = mutation.target.children[0].children[1].innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
             chrome.storage.local.get(['extractMode', 'translateMode'], function(result) {
                 if (result.extractMode) {
                     if (kCheck.test(textmessage))
                         return;
                     PrintLog(textmessage);
-                    PushCSV(textmessage, storyText);
+                    PushCSV_StoryText(textmessage, storyText, document.URL);
                 }
                 if (result.translateMode) {
                     sceneObserver.disconnect();
-                    GetTranslatedText(mutation.target, questJson);
+                    GetTranslatedText(mutation.target.children[0].children[1], questJson, true);
                     ObserveSceneText();
                 }
             });
@@ -989,7 +1057,7 @@ var BattleObserver = new MutationObserver(function(mutations) {
 
 // Queue for each observers
 async function ObserveSceneText() {
-    var oText = document.getElementsByClassName('prt-message-area')[0];
+    var oText = document.getElementsByClassName('prt-log-display')[0];
     if (!oText) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
@@ -998,9 +1066,12 @@ async function ObserveSceneText() {
     }
     if ((document.URL.includes("archive")) ||
         (document.URL.includes("scene")) ||
-        (document.URL.includes("story"))
-    )
-        sceneObserver.observe(oText, config);
+        (document.URL.includes("story")) ||
+		(document.URL.includes("tutorial"))
+    ){
+		sceneObserver.observe(oText, config);
+	}
+        
 }
 async function ObserveNameText() {
     var oTextName = document.getElementsByClassName('txt-character-name')[0];
