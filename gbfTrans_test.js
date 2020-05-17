@@ -981,7 +981,7 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo3 = document.querySelectorAll('[class^="prt-cutin"]');
+        var battleInfo3 = document.querySelectorAll('[class^="txt-cutin"]');
         if (battleInfo3) {
             battleInfo3.forEach((bInfo) => {
                 BattleObserver.observe(bInfo, config_simple);
@@ -1007,6 +1007,7 @@ async function ObserverImage() {
     if (document.URL.includes("raid"))
         return;
     ImageObserver.observe(allElements, config);
+    ImageObserver.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
 async function ObserverImageDIV() {
     var allElements = document.querySelectorAll('[class^="contents"]')[0];
