@@ -2563,9 +2563,9 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 シュラ,슈라
 
 蒼華嵐刃＋,창화람인＋
-"水属性ダメージ(極大)/自分に蒼華効果　<span class=""text-blue"">◆奥義ゲージの代わりに武成を消費して発動</span>","水属性ダメージ(極大)/自分に蒼華効果　<span class=""text-blue"">◆奥義ゲージの代わりに武成を消費して発動</span>"
-戦術策：典宝＋
-"<div class=""prt-text-small"">味方全体の攻撃UP/水属性攻撃力UP<br><span class=""text-blue"">◆奥義ゲージが***％以上の時、このアビリティが「戦術策：舜典」に変化</span></div>"
+"水属性ダメージ(極大)/自分に蒼華効果　<span class=""text-blue"">◆奥義ゲージの代わりに武成を消費して発動</span>","수속성 데미지 (극대)/자신에게 창화 효과　<span class=""text-blue"">◆오의 게이지 대신 무성을 소비하여 발동</span>"
+戦術策：典宝＋,전술책：전보＋
+"<div class=""prt-text-small"">味方全体の攻撃UP/水属性攻撃力UP<br><span class=""text-blue"">◆奥義ゲージが***％以上の時、このアビリティが「戦術策：舜典」に変化</span></div>","<div class=""prt-text-small"">아군 전체의 공격 UP/수속성 공격력 UP<br><span class=""text-blue"">◆오의 게이지가 ***％ 이상일 때、이 어빌리티가 「전술책：순전」に変化</span></div>"
 蒼麗の構え＋
 自分に武成を付与
 零舞槍
@@ -7328,7 +7328,9 @@ LINEに投稿する,LINE에 투고하기
 "<div class=""txt-recast"">																					使用間隔: **ターン																													</div>									<div class=""txt-recast start-recast"">																			</div>","<div class=""txt-recast"">																					사용간격: **턴																													</div>									<div class=""txt-recast start-recast"">																			</div>"
 使用間隔: *ターン,사용간격: *턴
 使用間隔: **ターン,사용간격: **턴
+"エピソード解放率<span class=""txt-progress-rate"">*</span>%","에피소드 해방률<span class=""txt-progress-rate"">*</span>%"
 "エピソード解放率<span class=""txt-progress-rate"">**</span>%","에피소드 해방률<span class=""txt-progress-rate"">**</span>%"
+"エピソード解放率<span class=""txt-progress-rate"">***</span>%","에피소드 해방률<span class=""txt-progress-rate"">***</span>%"
 発生条件 Lv **,발생조건 Lv **
 発生条件 Lv ***,발생조건 Lv ***
 "<div class=""txt-zenith-description"">									あと**LB取得でClassUP									<div class=""prt-zp-gauge"">										<div class=""prt-zp-gauge-inner"" style=""width: *%""></div>									</div>								</div>														<div class=""prt-zenith-button"">								<div class=""btn-zenith"">能力強化</div>							</div>","<div class=""txt-zenith-description"">									앞으로**LB취득으로ClassUP									<div class=""prt-zp-gauge"">										<div class=""prt-zp-gauge-inner"" style=""width: *%""></div>									</div>								</div>														<div class=""prt-zenith-button"">								<div class=""btn-zenith"">능력강화</div>							</div>"
