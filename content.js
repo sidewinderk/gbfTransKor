@@ -1081,6 +1081,12 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
+        var battleInfo4 = document.querySelectorAll('[class^="pop-usual"]');
+        if (battleInfo4) {
+            battleInfo4.forEach((bInfo) => {
+                BattleObserver.observe(bInfo, config_simple);
+            });
+        }
     }
 }
 async function ObserverImage() {
