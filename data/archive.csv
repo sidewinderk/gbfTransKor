@@ -294,9 +294,9 @@ Dエンジェル・オリヴィエの真の力の結晶,D엔젤 올리비에의 
 かすかにゆらめく、白い炎,희미하게 일렁이는 하얀 불꽃
 黒き魂,검은 영혼
 かすかにゆらめく、黒い炎,희미하게 일렁이는 검은 불꽃
-調停の明星,조정의 명성
+調停の明星,조정의 샛별
 神々しい光を纏う白い小石,거룩한 빛을 감싼 작고 하얀돌
-蒼の羽根,푸른 깃털
+蒼の羽根,푸른 날개깃
 調停の翼から舞い落ちた蒼色の羽根,조정의 날개에서 떨어진 푸른색 깃털
 万象の蒼角,만상의 창각
 調停の翼が誇る蒼の輝きをたたえる角,조정의 날개가 자랑하는 푸른 빛을 내뿜는 뿔
@@ -463,13 +463,13 @@ Dエンジェル・オリヴィエの真の力の結晶,D엔젤 올리비에의 
 風の羽根,바람의 깃털
 ラファエルの翼から抜け落ちた巨大な羽根,라파엘의 날개에서 빠진 거댜한 깃털
 火の光輪,불의 광륜
-火属性の力が凝縮して形成された光輪,불속성의 힘이 응축되어 형성된 광륜
+火属性の力が凝縮して形成された光輪,불 속성의 힘이 응축되어 형성된 광륜
 水の光輪,물의 광륜
-水属性の力が凝縮して形成された光輪,물속성의 힘이 응축되어 형성된 광륜
+水属性の力が凝縮して形成された光輪,물 속성의 힘이 응축되어 형성된 광륜
 土の光輪,땅의 광륜
-土属性の力が凝縮して形成された光輪,땅속성의 힘이 응축되어 형성된 광륜
+土属性の力が凝縮して形成された光輪,땅 속성의 힘이 응축되어 형성된 광륜
 風の光輪,바람의 광륜
-風属性の力が凝縮して形成された光輪
+風属性の力が凝縮して形成された光輪,바람 속성의 힘이 응축되어 형성된 광륜
 
 
 !상한해방템
@@ -525,25 +525,25 @@ Dエンジェル・オリヴィエの真の力の結晶,D엔젤 올리비에의 
 深淵の巻,심연의 두루마리
 深淵の力を封印した巻物,심연의 힘을 봉인한 두루마리
 ファイア・ジーン,파이어 진
-命の深くに刻まれた火炎の記憶
+命の深くに刻まれた火炎の記憶,생명 속에 새겨진 화염의 기억
 アクア・ジーン,아쿠아 진
-命の深くに刻まれた水流の記憶
+命の深くに刻まれた水流の記憶,생명 속에 새겨진 수류의 기억
 アース・ジーン,어스 진
-命の深くに刻まれた大地の記憶
+命の深くに刻まれた大地の記憶,생명 속에 새겨진 대지의 기억
 ウィンド・ジーン,윈드 진
-命の深くに刻まれた疾風の記憶
+命の深くに刻まれた疾風の記憶,생명 속에 새겨진 질풍의 기억
 ホーリー・ジーン,홀리 진
-命の深くに刻まれた聖光の記憶
+命の深くに刻まれた聖光の記憶,생명 속에 새겨진 성광의 기억
 ダーク・ジーン,다크 진
-命の深くに刻まれた暗黒の記憶
+命の深くに刻まれた暗黒の記憶,생명 속에 새겨진 암흑의 기억
 星晶の破片,성정의 파편
-星晶石のごく小さな破片
+星晶石のごく小さな破片,아주 작은 성정석의 파편
 星晶の欠片,성정의 단편
-星晶の力を秘めた欠片
+星晶の力を秘めた欠片,성정의 힘이 담긴 조각
 星晶塊,성정 덩어리
-大きな星晶石の塊
+大きな星晶石の塊,커다란 성정석 덩어리
 虹星晶,홍성정
-虹色に美しく輝く星晶石
+虹色に美しく輝く星晶石,무지개 빛으로 아름답게 빛나는 성정석
 赤竜鱗,적룡의 비늘
 火竜ヴレッザレクの鱗
 青竜鱗,청룡의 비늘
@@ -2987,19 +2987,6 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 闇属性キャラのHPが**%UP,암속성 캐릭터의 HP **%UP
 闇属性キャラのHPが*%UP,암속성 캐릭터의 HP *%UP
 
-スキル「機炎方陣」の効果が***%UP,스킬 「기염방진(機炎方陣)」의 효과 ***%UP
-スキル「機炎方陣」の効果が**%UP,스킬 「기염방진(機炎方陣)」의 효과 **%UP
-スキル「海神方陣」の効果が***%UP,스킬 「해신방진(海神方陣)」의 효과 ***%UP
-スキル「海神方陣」の効果が**%UP,스킬 「해신방진(海神方陣)」의 효과 **%UP
-スキル「創樹方陣」の効果が***%UP,스킬 「창수방진(創樹方陣)」의 효과 ***%UP
-スキル「創樹方陣」の効果が**%UP,스킬 「창수방진(創樹方陣)」의 효과 **%UP
-スキル「嵐竜方陣」の効果が***%UP,스킬 「난룡방진(嵐竜方陣)」의 효과 ***%UP
-スキル「嵐竜方陣」の効果が**%UP,스킬 「난룡방진(嵐竜方陣)」의 효과 **%UP
-スキル「騎解方陣」の効果が***%UP,스킬 「기해방진(騎解方陣)」의 효과 ***%UP
-スキル「騎解方陣」の効果が**%UP,스킬 「기해방진(騎解方陣)」의 효과 **%UP
-スキル「黒霧方陣」の効果が***%UP,스킬 「흑무방진(黒霧方陣)」의 효과 ***%UP
-スキル「黒霧方陣」の効果が**%UP,스킬 「흑무방진(黒霧方陣)」의 효과 **%UP
-
 
 火属性攻撃力が**%UP/火属性キャラのHPが**%UP/防御力**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP/방어력 **%UP
 水属性攻撃力が**%UP/水属性キャラのHPが**%UP/防御力**%UP,수속성 공격력 **%UP/수속성 캐릭터의 HP **%UP/방어력 **%UP
@@ -3015,43 +3002,67 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 
 !마그나
 
+コロッサス・マグナ,콜로서스・마그나
 "<span class=""txt-summon-level"">Lv ***</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv ***</span> 콜로서스・마그나"
 "<span class=""txt-summon-level"">Lv **</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv **</span> 콜로서스・마그나"
 "<span class=""txt-summon-level"">Lv *</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv *</span> 콜로서스・마그나"
-"<span class=txt-summon-level"">Lv ***</span> リヴァイアサン・マグナ","<span class=txt-summon-level"">Lv ***</span> 리바이어선・마그나"
-"<span class=txt-summon-level"">Lv **</span> リヴァイアサン・マグナ","<span class=txt-summon-level"">Lv **</span> 리바이어선・마그나"
-"<span class=txt-summon-level"">Lv *</span> リヴァイアサン・マグナ","<span class=txt-summon-level"">Lv *</span> 리바이어선・마그나"
-"<span class=txt-summon-level"">Lv ***</span> ユグドラシル・マグナ","<span class=txt-summon-level"">Lv ***</span> 유그드라실・마그나"
-"<span class=txt-summon-level"">Lv **</span> ユグドラシル・マグナ","<span class=txt-summon-level"">Lv **</span> 유그드라실・마그나"
-"<span class=txt-summon-level"">Lv *</span> ユグドラシル・マグナ","<span class=txt-summon-level"">Lv *</span> 유그드라실・마그나"
-"<span class=txt-summon-level"">Lv ***</span> ティアマト・マグナ","<span class=txt-summon-level"">Lv ***</span> 티아마트・마그나"
-"<span class=txt-summon-level"">Lv **</span> ティアマト・マグナ","<span class=txt-summon-level"">Lv **</span> 티아마트・마그나"
-"<span class=txt-summon-level"">Lv *</span> ティアマト・マグナ","<span class=txt-summon-level"">Lv *</span> 티아마트・마그나"
-"<span class=txt-summon-level"">Lv ***</span> シュヴァリエ・マグナ","<span class=txt-summon-level"">Lv ***</span> 슈발리에・마그나"
-"<span class=txt-summon-level"">Lv **</span> シュヴァリエ・マグナ","<span class=txt-summon-level"">Lv **</span> 슈발리에・마그나"
-"<span class=txt-summon-level"">Lv *</span> シュヴァリエ・マグナ","<span class=txt-summon-level"">Lv *</span> 슈발리에・마그나"
-"<span class=txt-summon-level"">Lv ***</span> セレスト・マグナ","<span class=txt-summon-level"">Lv ***</span> 세레스트・마그나"
-"<span class=txt-summon-level"">Lv **</span> セレスト・マグナ","<span class=txt-summon-level"">Lv **</span> 세레스트・마그나"
-"<span class=txt-summon-level"">Lv *</span> セレスト・マグナ","<span class=txt-summon-level"">Lv *</span> 세레스트・마그나"
+スキル「機炎方陣」の効果が***%UP,스킬 「기염방진(機炎方陣)」의 효과 ***%UP
+スキル「機炎方陣」の効果が**%UP,스킬 「기염방진(機炎方陣)」의 효과 **%UP
+リヴァイアサン・マグナ,리바이어선・마그나
+"<span class=""txt-summon-level"">Lv ***</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv ***</span> 리바이어선・마그나"
+"<span class=""txt-summon-level"">Lv **</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv **</span> 리바이어선・마그나"
+"<span class=""txt-summon-level"">Lv *</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv *</span> 리바이어선・마그나"
+スキル「海神方陣」の効果が***%UP,스킬 「해신방진(海神方陣)」의 효과 ***%UP
+スキル「海神方陣」の効果が**%UP,스킬 「해신방진(海神方陣)」의 효과 **%UP
+ユグドラシル・マグナ,유그드라실・마그나
+"<span class=""txt-summon-level"">Lv ***</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv ***</span> 유그드라실・마그나"
+"<span class=""txt-summon-level"">Lv **</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv **</span> 유그드라실・마그나"
+"<span class=""txt-summon-level"">Lv *</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv *</span> 유그드라실・마그나"
+スキル「創樹方陣」の効果が***%UP,스킬 「창수방진(創樹方陣)」의 효과 ***%UP
+スキル「創樹方陣」の効果が**%UP,스킬 「창수방진(創樹方陣)」의 효과 **%UP
+ティアマト・マグナ,티아마트・마그나
+"<span class=""txt-summon-level"">Lv ***</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv ***</span> 티아마트・마그나"
+"<span class=""txt-summon-level"">Lv **</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv **</span> 티아마트・마그나"
+"<span class=""txt-summon-level"">Lv *</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv *</span> 티아마트・마그나"
+スキル「嵐竜方陣」の効果が***%UP,스킬 「난룡방진(嵐竜方陣)」의 효과 ***%UP
+スキル「嵐竜方陣」の効果が**%UP,스킬 「난룡방진(嵐竜方陣)」의 효과 **%UP
+シュヴァリエ・マグナ,슈발리에・마그나
+"<span class=""txt-summon-level"">Lv ***</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv ***</span> 슈발리에・마그나"
+"<span class=""txt-summon-level"">Lv **</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv **</span> 슈발리에・마그나"
+"<span class=""txt-summon-level"">Lv *</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv *</span> 슈발리에・마그나"
+スキル「騎解方陣」の効果が***%UP,스킬 「기해방진(騎解方陣)」의 효과 ***%UP
+スキル「騎解方陣」の効果が**%UP,스킬 「기해방진(騎解方陣)」의 효과 **%UP
+セレスト・マグナ,세레스트・마그나
+"<span class=""txt-summon-level"">Lv ***</span> セレスト・マグナ","<span class=""txt-summon-level"">Lv ***</span> 세레스트・마그나"
+"<span class=""txt-summon-level"">Lv **</span> セレスト・マグナ","<span class=""txt-summon-level"">Lv **</span> 세레스트・마그나"
+"<span class=""txt-summon-level"">Lv *</span> セレスト・マグナ","<span class=""txt-summon-level"">Lv *</span> 세레스트・마그나"
+スキル「黒霧方陣」の効果が***%UP,스킬 「흑무방진(黒霧方陣)」의 효과 ***%UP
+スキル「黒霧方陣」の効果が**%UP,스킬 「흑무방진(黒霧方陣)」의 효과 **%UP
 
 !140짜리
 
-"<span class=txt-summon-level"">Lv ***</span> シヴァ","<span class=txt-summon-level"">Lv ***</span> 시바"
-"<span class=txt-summon-level"">Lv **</span> シヴァ","<span class=txt-summon-level"">Lv **</span> 시바"
-"<span class=txt-summon-level"">Lv *</span> シヴァ","<span class=txt-summon-level"">Lv *</span> 시바"
-"<span class=txt-summon-level"">Lv ***</span> エウロペ","<span class=txt-summon-level"">Lv ***</span> 에우로페"
-"<span class=txt-summon-level"">Lv **</span> エウロペ","<span class=txt-summon-level"">Lv **</span> 에우로페"
-"<span class=txt-summon-level"">Lv *</span> エウロペ","<span class=txt-summon-level"">Lv *</span> 에우로페"
-"<span class=txt-summon-level"">Lv ***</span> ゴッドガード・ブローディア","<span class=txt-summon-level"">Lv ***</span> 갓가드・브로디아"
-"<span class=txt-summon-level"">Lv **</span> ゴッドガード・ブローディア","<span class=txt-summon-level"">Lv **</span> 갓가드・브로디아"
-"<span class=txt-summon-level"">Lv *</span> ゴッドガード・ブローディア","<span class=txt-summon-level"">Lv *</span> 갓가드・브로디아"
-"<span class=txt-summon-level"">Lv ***</span> グリームニル","<span class=txt-summon-level"">Lv ***</span> 그림니르"
-"<span class=txt-summon-level"">Lv **</span> グリームニル","<span class=txt-summon-level"">Lv **</span> 그림니르"
-"<span class=txt-summon-level"">Lv *</span> グリームニル","<span class=txt-summon-level"">Lv *</span> 그림니르"
+シヴァ,시바
+"<span class=""txt-summon-level"">Lv ***</span> シヴァ","<span class=""txt-summon-level"">Lv ***</span> 시바"
+"<span class=""txt-summon-level"">Lv **</span> シヴァ","<span class=""txt-summon-level"">Lv **</span> 시바"
+"<span class=""txt-summon-level"">Lv *</span> シヴァ","<span class=""txt-summon-level"">Lv *</span> 시바"
+エウロペ,에우로페
+"<span class=""txt-summon-level"">Lv ***</span> エウロペ","<span class=""txt-summon-level"">Lv ***</span> 에우로페"
+"<span class=""txt-summon-level"">Lv **</span> エウロペ","<span class=""txt-summon-level"">Lv **</span> 에우로페"
+"<span class=""txt-summon-level"">Lv *</span> エウロペ","<span class=""txt-summon-level"">Lv *</span> 에우로페"
+ゴッドガード・ブローディア,갓가드・브로디아
+"<span class=""txt-summon-level"">Lv ***</span> ゴッドガード・ブローディア","<span class=""txt-summon-level"">Lv ***</span> 갓가드・브로디아"
+"<span class=""txt-summon-level"">Lv **</span> ゴッドガード・ブローディア","<span class=""txt-summon-level"">Lv **</span> 갓가드・브로디아"
+"<span class=""txt-summon-level"">Lv *</span> ゴッドガード・ブローディア","<span class=""txt-summon-level"">Lv *</span> 갓가드・브로디아"
+グリームニル,그림니르
+"<span class=""txt-summon-level"">Lv ***</span> グリームニル","<span class=""txt-summon-level"">Lv ***</span> 그림니르"
+"<span class=""txt-summon-level"">Lv **</span> グリームニル","<span class=""txt-summon-level"">Lv **</span> 그림니르"
+"<span class=""txt-summon-level"">Lv *</span> グリームニル","<span class=""txt-summon-level"">Lv *</span> 그림니르"
 
+ルシフェル,루시펠
 "<span class=""txt-summon-level"">Lv ***</span> ルシフェル","<span class=""txt-summon-level"">Lv ***</span> 루시펠"
 "<span class=""txt-summon-level"">Lv **</span> ルシフェル","<span class=""txt-summon-level"">Lv **</span> 루시펠"
 "<span class=""txt-summon-level"">Lv *</span> ルシフェル","<span class=""txt-summon-level"">Lv *</span> 루시펠"
+バハムート,바하무트
 "<span class=""txt-summon-level"">Lv ***</span> バハムート","<span class=""txt-summon-level"">Lv ***</span> 바하무트"
 "<span class=""txt-summon-level"">Lv **</span> バハムート","<span class=""txt-summon-level"">Lv **</span> 바하무트"
 "<span class=""txt-summon-level"">Lv *</span> バハムート","<span class=""txt-summon-level"">Lv *</span> 바하무트"
@@ -3136,49 +3147,52 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv *</span> ツクヨミ","<span class=""txt-summon-level"">Lv *</span> 츠쿠요미"
 
 !장군석
+[オプティマスシリーズ],[옵티머스 시리즈]
 
 アグニス,아그니스
 "<span class=""txt-summon-level"">Lv ***</span> アグニス","<span class=""txt-summon-level"">Lv ***</span> 아그니스"
 "<span class=""txt-summon-level"">Lv **</span> アグニス","<span class=""txt-summon-level"">Lv **</span> 아그니스"
 "<span class=""txt-summon-level"">Lv *</span> アグニス","<span class=""txt-summon-level"">Lv *</span> 아그니스"
-スキル「火」「業火」「紅蓮」の効果が***%UP,스킬 「화(火)」「업화(業火)」「홍련(紅蓮)」의 효과 ***%UP
-スキル「火」「業火」「紅蓮」の効果が**%UP,스킬 「화(火)」「업화(業火)」「홍련(紅蓮)」의 효과 **%UP
+スキル「火」「業火」「紅蓮」の効果が***%UP,스킬 「불(火)」「업화(業火)」「홍련(紅蓮)」의 효과 ***%UP
+スキル「火」「業火」「紅蓮」の効果が**%UP,스킬 「불(火)」「업화(業火)」「홍련(紅蓮)」의 효과 **%UP
 ヴァルナ,바루나
 "<span class=""txt-summon-level"">Lv ***</span> ヴァルナ","<span class=""txt-summon-level"">Lv ***</span> 바루나"
 "<span class=""txt-summon-level"">Lv **</span> ヴァルナ","<span class=""txt-summon-level"">Lv **</span> 바루나"
 "<span class=""txt-summon-level"">Lv *</span> ヴァルナ","<span class=""txt-summon-level"">Lv *</span> 바루나"
-スキル「水」「渦潮」「霧氷」の効果が***%UP,스킬 「수(水)」「과조(渦潮)」「무빙(霧氷)」의 효과 ***%UP
-スキル「水」「渦潮」「霧氷」の効果が**%UP,스킬 「수(水)」「과조(渦潮)」「무빙(霧氷)」의 효과 **%UP
+スキル「水」「渦潮」「霧氷」の効果が***%UP,스킬 「물(水)」「과조(渦潮)」「무빙(霧氷)」의 효과 ***%UP
+スキル「水」「渦潮」「霧氷」の効果が**%UP,스킬 「물(水)」「과조(渦潮)」「무빙(霧氷)」의 효과 **%UP
 ティターン,티탄
 "<span class=""txt-summon-level"">Lv ***</span> ティターン","<span class=""txt-summon-level"">Lv ***</span> 티탄"
 "<span class=""txt-summon-level"">Lv **</span> ティターン","<span class=""txt-summon-level"">Lv **</span> 티탄"
 "<span class=""txt-summon-level"">Lv *</span> ティターン","<span class=""txt-summon-level"">Lv *</span> 티탄"
-スキル「土」「大地」「地裂」の効果が***%UP,스킬 「토(土)」「대지(大地)」「지열(地裂)」의 효과 ***%UP
-スキル「土」「大地」「地裂」の効果が**%UP,스킬 「토(土)」「대지(大地)」「지열(地裂)」의 효과 **%UP
+スキル「土」「大地」「地裂」の効果が***%UP,스킬 「땅(土)」「대지(大地)」「지열(地裂)」의 효과 ***%UP
+スキル「土」「大地」「地裂」の効果が**%UP,스킬 「땅(土)」「대지(大地)」「지열(地裂)」의 효과 **%UP
 ゼピュロス,제퓨로스
 "<span class=""txt-summon-level"">Lv ***</span> ゼピュロス","<span class=""txt-summon-level"">Lv ***</span> 제퓨로스"
 "<span class=""txt-summon-level"">Lv **</span> ゼピュロス","<span class=""txt-summon-level"">Lv **</span> 제퓨로스"
 "<span class=""txt-summon-level"">Lv *</span> ゼピュロス","<span class=""txt-summon-level"">Lv *</span> 제퓨로스"
-スキル「風」「竜巻」「乱気」の効果が***%UP,스킬 「풍(風)」「용권(竜巻)」「난기(乱気)」의 효과 ***%UP
-スキル「風」「竜巻」「乱気」の効果が**%UP,스킬 「풍(風)」「용권(竜巻)」「난기(乱気)」의 효과 **%UP
+スキル「風」「竜巻」「乱気」の効果が***%UP,스킬 「바람(風)」「용권(竜巻)」「난기(乱気)」의 효과 ***%UP
+スキル「風」「竜巻」「乱気」の効果が**%UP,스킬 「바람(風)」「용권(竜巻)」「난기(乱気)」의 효과 **%UP
 ゼウス,제우스
 "<span class=""txt-summon-level"">Lv ***</span> ゼウス","<span class=""txt-summon-level"">Lv ***</span> 제우스"
 "<span class=""txt-summon-level"">Lv **</span> ゼウス","<span class=""txt-summon-level"">Lv **</span> 제우스"
 "<span class=""txt-summon-level"">Lv *</span> ゼウス","<span class=""txt-summon-level"">Lv *</span> 제우스"
-スキル「光」「雷電」「天光」の効果が***%UP,스킬 「광(光)」「뇌전(雷電)」「천광(天光)」의 효과 ***%UP
-スキル「光」「雷電」「天光」の効果が**%UP,스킬 「광(光)」「뇌전(雷電)」「천광(天光)」의 효과 **%UP
+スキル「光」「雷電」「天光」の効果が***%UP,스킬 「빛(光)」「뇌전(雷電)」「천광(天光)」의 효과 ***%UP
+スキル「光」「雷電」「天光」の効果が**%UP,스킬 「빛(光)」「뇌전(雷電)」「천광(天光)」의 효과 **%UP
 ハデス,하데스
 "<span class=""txt-summon-level"">Lv ***</span> ハデス","<span class=""txt-summon-level"">Lv ***</span> 하데스"
 "<span class=""txt-summon-level"">Lv **</span> ハデス","<span class=""txt-summon-level"">Lv **</span> 하데스"
 "<span class=""txt-summon-level"">Lv *</span> ハデス","<span class=""txt-summon-level"">Lv *</span> 하데스"
-スキル「闇」「憎悪」「奈落」の効果が***%UP,스킬 「암(闇)」「증오(憎悪)」「나락(奈落)」의 효과 ***%UP
-スキル「闇」「憎悪」「奈落」の効果が**%UP,스킬 「암(闇)」「증오(憎悪)」「나락(奈落)」의 효과 **%UP
+スキル「闇」「憎悪」「奈落」の効果が***%UP,스킬 「어둠(闇)」「증오(憎悪)」「나락(奈落)」의 효과 ***%UP
+スキル「闇」「憎悪」「奈落」の効果が**%UP,스킬 「어둠(闇)」「증오(憎悪)」「나락(奈落)」의 효과 **%UP
 
 !속성공격력50UP
 
+アテナ,아테나
 "<span class=""txt-summon-level"">Lv ***</span> アテナ","<span class=""txt-summon-level"">Lv ***</span> 아테나"
 "<span class=""txt-summon-level"">Lv **</span> アテナ","<span class=""txt-summon-level"">Lv **</span> 아테나"
 "<span class=""txt-summon-level"">Lv *</span> アテナ","<span class=""txt-summon-level"">Lv *</span> 아테나"
+マキュラ・マリウス,마큐라・마리우스
 "<span class=""txt-summon-level"">Lv ***</span> マキュラ・マリウス","<span class=""txt-summon-level"">Lv ***</span> 마큐라・마리우스"
 "<span class=""txt-summon-level"">Lv **</span> マキュラ・マリウス","<span class=""txt-summon-level"">Lv **</span> 마큐라・마리우스"
 "<span class=""txt-summon-level"">Lv *</span> マキュラ・マリウス","<span class=""txt-summon-level"">Lv *</span> 마큐라・마리우스"
@@ -3186,12 +3200,15 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ローズクイーン","<span class=""txt-summon-level"">Lv ***</span> 로즈퀸"
 "<span class=""txt-summon-level"">Lv **</span> ローズクイーン","<span class=""txt-summon-level"">Lv **</span> 로즈퀸"
 "<span class=""txt-summon-level"">Lv *</span> ローズクイーン","<span class=""txt-summon-level"">Lv *</span> 로즈퀸"
+メドゥーサ,메두사
 "<span class=""txt-summon-level"">Lv ***</span> メドゥーサ","<span class=""txt-summon-level"">Lv ***</span> 메두사"
 "<span class=""txt-summon-level"">Lv **</span> メドゥーサ","<span class=""txt-summon-level"">Lv **</span> 메두사"
 "<span class=""txt-summon-level"">Lv *</span> メドゥーサ","<span class=""txt-summon-level"">Lv *</span> 메두사"
+アポロン,아폴론
 "<span class=""txt-summon-level"">Lv ***</span> アポロン","<span class=""txt-summon-level"">Lv ***</span> 아폴론"
 "<span class=""txt-summon-level"">Lv **</span> アポロン","<span class=""txt-summon-level"">Lv **</span> 아폴론"
 "<span class=""txt-summon-level"">Lv *</span> アポロン","<span class=""txt-summon-level"">Lv *</span> 아폴론"
+オーディン,오딘
 "<span class=""txt-summon-level"">Lv ***</span> オーディン","<span class=""txt-summon-level"">Lv ***</span> 오딘"
 "<span class=""txt-summon-level"">Lv **</span> オーディン","<span class=""txt-summon-level"">Lv **</span> 오딘"
 "<span class=""txt-summon-level"">Lv *</span> オーディン","<span class=""txt-summon-level"">Lv *</span> 오딘"
@@ -3314,9 +3331,9 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 
 !듀나미스
 
-"<span class=txt-summon-level"">Lv ***</span> カグヤ","<span class=txt-summon-level"">Lv ***</span> 카구야"
-"<span class=txt-summon-level"">Lv **</span> カグヤ","<span class=txt-summon-level"">Lv **</span> 카구야"
-"<span class=txt-summon-level"">Lv *</span> カグヤ","<span class=txt-summon-level"">Lv *</span> 카구야"
+"<span class=""txt-summon-level"">Lv ***</span> カグヤ","<span class=""txt-summon-level"">Lv ***</span> 카구야"
+"<span class=""txt-summon-level"">Lv **</span> カグヤ","<span class=""txt-summon-level"">Lv **</span> 카구야"
+"<span class=""txt-summon-level"">Lv *</span> カグヤ","<span class=""txt-summon-level"">Lv *</span> 카구야"
 パーティ全体に自動復活効果(*回)/バトルメンバーのHPが少ないほどダブルアタック確率UP/アイテムドロップ率が**%UP,파티원 모두에게 자동부활효과(*회)/배틀 멤버의 HP가 적을수록 더블 어택 확률 UP/아이템 드랍률 **%UP
 パーティ全体に自動復活効果(*回)/連続攻撃確率UP/アイテムドロップ率と獲得経験値が**%UP,파티원 모두에게 자동부활효과(*회)/연속공격확률UP/아이템 드랍률과 경험치 획득량 **%UP
 
@@ -3346,9 +3363,9 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv **</span> フレイ","<span class=""txt-summon-level"">Lv **</span> 프레이"
 "<span class=""txt-summon-level"">Lv *</span> フレイ","<span class=""txt-summon-level"">Lv *</span> 프레이"
 トール,토르
-"<span class=txt-summon-level"">Lv ***</span> トール","<span class=txt-summon-level"">Lv ***</span> 토르"
-"<span class=txt-summon-level"">Lv **</span> トール","<span class=txt-summon-level"">Lv **</span> 토르"
-"<span class=txt-summon-level"">Lv *</span> トール","<span class=txt-summon-level"">Lv *</span> 토르"
+"<span class=""txt-summon-level"">Lv ***</span> トール","<span class=""txt-summon-level"">Lv ***</span> 토르"
+"<span class=""txt-summon-level"">Lv **</span> トール","<span class=""txt-summon-level"">Lv **</span> 토르"
+"<span class=""txt-summon-level"">Lv *</span> トール","<span class=""txt-summon-level"">Lv *</span> 토르"
 """光属性キャラの攻撃力が**%UP/光属性攻撃で弱点を突いた時、稀に大ダメージのクリティカルが発生""","""광속성 캐릭터의 공격력 **%UP/광속성 공격으로 약점을 찌를 경우, 드물게 큰 대미지의 크리티컬 발생"""
 テュポーン,티폰
 "<span class=""txt-summon-level"">Lv ***</span> テュポーン","<span class=""txt-summon-level"">Lv ***</span> 티폰"
@@ -3385,9 +3402,9 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 弱点攻撃でクリティカル確率UP,약점공격 시 크리티컬 확률 UP
 
 C.C.,C.C.
-"<span class=txt-summon-level"">Lv ***</span> C.C.","<span class=txt-summon-level"">Lv ***</span> C.C."
-"<span class=txt-summon-level"">Lv **</span> C.C.","<span class=txt-summon-level"">Lv **</span> C.C."
-"<span class=txt-summon-level"">Lv *</span> C.C.","<span class=txt-summon-level"">Lv *</span> C.C."
+"<span class=""txt-summon-level"">Lv ***</span> C.C.","<span class=""txt-summon-level"">Lv ***</span> C.C."
+"<span class=""txt-summon-level"">Lv **</span> C.C.","<span class=""txt-summon-level"">Lv **</span> C.C."
+"<span class=""txt-summon-level"">Lv *</span> C.C.","<span class=""txt-summon-level"">Lv *</span> C.C."
 パーティ全体に自動復活効果(*回)/全属性キャラのHPと攻撃力が**%UP,파티원 모두에게 자동부활효과(*회)/전속성 캐릭터의 HP와 공격력 **%UP
 
 好きな召喚石を選んでくれ！<br>加護効果でバトルが楽になるぜ！,좋아하는 소환석을 선택해봐! <br> 가호 효과로 배틀이 편해질 거야!
@@ -3917,77 +3934,77 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 
 
 "!제타(SSR,화속통상)"
-[真紅の穿光]
+[真紅の穿光],[진홍의 천광]
 ゼタ,제타
 
-シリウスロア
-"<div class=""prt-text-small"">火属性ダメージ(特大)/自分のクリティカル確率UP　<span class=""text-blue"">◆アルベス・フェルマーレ状態の敵に対して奥義性能UP</span></div>"
-アルベスの槍＋＋
-"<div class=""prt-text-small"">敵に火属性ダメージ/アルベス・フェルマーレを付与/次の攻撃で必ずトリプルアタック</div>"
-ラプソディー＋
-"<div class=""prt-text-small"">自分の攻撃大幅UP(アルベス・フェルマーレ状態の敵のみ/*回)　<span class=""text-blue"">◆対象がブレイク時に攻撃UP</span></div>"
-サウザンドフレイム
-敵全体に火属性ダメージ/強化効果を*つ無効化
-レイン・オブ・フューリー
-敵の現HPに応じた無属性ダメージ/スロウ効果
-アルベスの契約者
-クリティカル発動時にダメージ上限UP/トリプルアタック発動時に火属性追撃効果
-穿光のパトス
-"<div class=""prt-text-small"">アビリティダメージで追い撃ちが消費されない/ラプソディーを使用したターンに同じダメージアビリティを連続*回まで使用可能</div>"
+シリウスロア,시리우스 로어
+"<div class=""prt-text-small"">火属性ダメージ(特大)/自分のクリティカル確率UP　<span class=""text-blue"">◆アルベス・フェルマーレ状態の敵に対して奥義性能UP</span></div>","<div class=""prt-text-small"">화속성 데미지 (특대)/자신의 크리티컬 확률 UP　<span class=""text-blue"">◆알베스・페르마레 상태의 적에게 오의 성능 UP</span></div>"
+アルベスの槍＋＋,알베스의 창＋＋
+"<div class=""prt-text-small"">敵に火属性ダメージ/アルベス・フェルマーレを付与/次の攻撃で必ずトリプルアタック</div>","<div class=""prt-text-small"">적에서 화속성 데미지/알베스・페르마레를 부여/다음 공격이 반드시 트리플 어택</div>"
+ラプソディー＋,랩소디＋
+"<div class=""prt-text-small"">自分の攻撃大幅UP(アルベス・フェルマーレ状態の敵のみ/*回)　<span class=""text-blue"">◆対象がブレイク時に攻撃UP</span></div>","<div class=""prt-text-small"">자신의 공격 대폭 UP(알베스・페르마레 상태의 적에게만/*회)　<span class=""text-blue"">◆대상이 브레이크 시 공격 UP</span></div>"
+サウザンドフレイム,사우전드 플레임
+敵全体に火属性ダメージ/強化効果を*つ無効化,적 전체에 화속성 데미지/강화 효과를 *개 무효화
+レイン・オブ・フューリー,레인・오브・퓨리
+敵の現HPに応じた無属性ダメージ/スロウ効果,적의 현재 HP에 따른 무속성 데미지/슬로우 효과
+アルベスの契約者,알베스의 계약자
+クリティカル発動時にダメージ上限UP/トリプルアタック発動時に火属性追撃効果,크리티컬 발동 시 데미지 상한 UP/트리플 어택 발동 시 화속성 추격 효과
+穿光のパトス,천광의 파토스
+"<div class=""prt-text-small"">アビリティダメージで追い撃ちが消費されない/ラプソディーを使用したターンに同じダメージアビリティを連続*回まで使用可能</div>","<div class=""prt-text-small"">어빌리티 데미지로 추격이 소비되지 않음/랩소디를 사용한 턴에 같은 데미지 어빌리티를 연속 *회까지 사용 가능</div>"
 
 
 "!지크프리드(SSR,화속통상)"
-[退魔の黒き竜]
+[退魔の黒き竜],[퇴마의 검은 용]
 ジークフリート,지크프리드
 
-ゲヴァルト・ファング＋
-火属性ダメージ(特大)/フェアドレーゲンが発動/自分のHP回復
-フェアドレーゲン＋
-敵に火属性ダメージ/火属性防御DOWN(累積)
-ル・ミラージ＋
-味方全体に風属性ダメージカット(**%)
-ザルヴァートル
-火属性キャラ全体の弱体耐性UP/被ダメージを軽減/吸収効果
-返り血の代償
-毎ターンダメージを受けるが攻防UP/必ず連続攻撃/奥義性能UP
-救国の忠騎士
-得意武器が「剣」の火属性キャラのアビリティダメージ性能UP
+ゲヴァルト・ファング＋,게봐르트・팽＋
+火属性ダメージ(特大)/フェアドレーゲンが発動/自分のHP回復,화속성 데미지 (특대)/페어 드레겐이 발동/자신의 HP 회복
+フェアドレーゲン＋,페어 드레겐＋
+敵に火属性ダメージ/火属性防御DOWN(累積),적에게 화속성 데미지/화속성 방어 DOWN(누적)
+ル・ミラージ＋,루・미라지＋
+味方全体に風属性ダメージカット(**%),아군 전체에 풍속성 데미지 컷 (**%)
+ザルヴァートル,자루봐토루
+火属性キャラ全体の弱体耐性UP/被ダメージを軽減/吸収効果,화속성 캐릭터 전체의 약체 내성 UP/피데미지를 경감/흡수 효과
+返り血の代償,튀어나온 피의 대가
+毎ターンダメージを受けるが攻防UP/必ず連続攻撃/奥義性能UP,매턴 데미지를 받지만 공방 UP/반드시 연속 공격/오의 성능 UP
+救国の忠騎士,구국의 충기사
+得意武器が「剣」の火属性キャラのアビリティダメージ性能UP,특기 무기가 「검」인 화속성 캐릭터의 어빌리티 성능 UP
 
 
 !츠바사(SSR)
-[マナリアの特攻総長]
+[マナリアの特攻総長],[마나리아의 특공총장]
 ツバサ,츠바사
 
-烈弩緋威斗・紅羅狩＋
-火属性ダメージ(特大)/味方全体の火属性攻撃UP
-"タイマンの""瞬間""＋"
-敵に火属性ダメージ/恐怖効果
-喧嘩の時間＋
-"<div class=""prt-text-small"">敵のCTを*つ増加させて味方全体の奥義ゲージUP(**%)/奥義性能UP(*回)</div>"
-特攻
-"味方全体の連続攻撃確率UP<br><span class=""text-blue"">◆奥義ゲージを**%消費</span>"
-烈弩宇威愚の疾風り
-"<div class=""prt-text-small"">強化アビリティ使用時にシフトアップ(最大*速)　<span class=""text-blue"">◆ギアの回転数に応じて回避率/奥義ゲージ上昇量UP</span></div>"
-"オレ達は""親友(マブ)"""
-恐怖状態の敵に対して味方全体に火属性追撃効果
+烈弩緋威斗・紅羅狩＋,열노비외두・홍라수＋
+火属性ダメージ(特大)/味方全体の火属性攻撃UP,화속성 데미지 (특대)/아군 전체의 화속성 공격 UP
+"タイマンの""瞬間""＋","타이만의 ""순간""＋"
+敵に火属性ダメージ/恐怖効果,적에게 화속성 데미지/공포 효과
+喧嘩の時間＋,싸움의 시간＋
+"<div class=""prt-text-small"">敵のCTを*つ増加させて味方全体の奥義ゲージUP(**%)/奥義性能UP(*回)</div>","<div class=""prt-text-small"">적의 CT를 *개 증가 시키고 아군 전체의 오의 게이지 UP (**%)/오의 성능 UP(*회)</div>"
+特攻,특공
+"味方全体の連続攻撃確率UP<br><span class=""text-blue"">◆奥義ゲージを**%消費</span>","아군 전체의 연속 공격 확률 UP<br><span class=""text-blue"">◆오의 게이지를 **% 소비</span>"
+烈弩宇威愚の疾風り,열노우외우의 질풍
+"<div class=""prt-text-small"">強化アビリティ使用時にシフトアップ(最大*速)　<span class=""text-blue"">◆ギアの回転数に応じて回避率/奥義ゲージ上昇量UP</span></div>","<div class=""prt-text-small"">강화 어빌리티 사용 시 시프트업 (최대 *속)　<span class=""text-blue"">◆기어의 회전 수에 따라 회피율/오의 게이지 상승량 UP</span></div>"
+"オレ達は""親友(マブ)""","우리들은 ""친우(절친)"""
+恐怖状態の敵に対して味方全体に火属性追撃効果,공포 상태의 적에게 아군 전체가 화속성 추격 효과
 
 
 "!카렌(SSR,기어스콜라보)"
-[紅の夜叉]
+[紅の夜叉],[붉은 야차]
 紅月カレン,코우즈키 카렌
 
-輻射波動機構＋
-"<span class=""prt-text-small"">火属性ダメージ(特大)/自分の防御DOWN/輻射波動Lvリセット　<span class=""text-blue"">◆輻射波動Lvに応じて奥義性能UP</span></span>"
-43mmグレネードランチャー＋
-敵に火属性ダメージ/最大CT増加
-チャフスモーク＋
-敵全体に暗闇効果/連続攻撃確率DOWN
-紅の闘志
-自分の火属性攻撃力UP/クリティカル確率UP/輻射波動Lv上昇
-人型自在戦闘装甲騎
-最大HPと防御力が高いが、奥義ゲージが溜まりにくい
-黒の騎士団 零番隊隊長
-"<div class=""prt-text-small"">毎ターン輻射波動Lv上昇(最大Lv*)　<span class=""text-blue"">◆輻射波動Lvに応じて与ダメージ上昇/火属性追撃効果</span></div>"
+輻射波動機構＋,복사파동기구＋
+"<span class=""prt-text-small"">火属性ダメージ(特大)/自分の防御DOWN/輻射波動Lvリセット　<span class=""text-blue"">◆輻射波動Lvに応じて奥義性能UP</span></span>","<span class=""prt-text-small"">화속성 데미지 (특대)/자신의 방어 DOWN/복사파동 Lv 리셋　<span class=""text-blue"">◆복사파동 Lv에 따라 오의 성능 UP</span></span>"
+43mmグレネードランチャー＋,43mm 그레네이드 런처＋
+敵に火属性ダメージ/最大CT増加,적에게 화속성 데미지/최대 CT 증가
+チャフスモーク＋,채프 스모크＋
+敵全体に暗闇効果/連続攻撃確率DOWN,적 전체에 암흑 효과/연속 공격 확률 DOWN
+紅の闘志,붉은 투지
+自分の火属性攻撃力UP/クリティカル確率UP/輻射波動Lv上昇,자신의 화속성 공격력 UP/크리티컬 확률 UP/복사파동 Lv 상승
+人型自在戦闘装甲騎,인간형자재전투장갑기
+最大HPと防御力が高いが、奥義ゲージが溜まりにくい,"최대 HP와 방어력이 높지만, 오의 게이지가 모이기 어려움"
+黒の騎士団 零番隊隊長,흑의 기사단 0번대 대장
+"<div class=""prt-text-small"">毎ターン輻射波動Lv上昇(最大Lv*)　<span class=""text-blue"">◆輻射波動Lvに応じて与ダメージ上昇/火属性追撃効果</span></div>","<div class=""prt-text-small"">매턴 복사파동 Lv 상승 (최대 Lv *)　<span class=""text-blue"">◆복사파동 Lv에 따라 데미지 상승/화속성 추격 효과</span></div>"
 
 
 "!클라리스(SSR,화속통상)"
@@ -7626,6 +7643,36 @@ HPが**%以下の時、通常攻撃時の与ダメージに応じて回復
 オーバードライブ状態の敵に対してクリティカル確率UP
 1MORE
 光属性の敵にエイハを使用時、即時再使用可能となる(同一ターン中*回のみ)
+
+"!카타리나(SSR,"
+[エルステ帝国軍中尉],[에르스테 제국군 중위]
+カタリナ,카타리나
+
+蒼き少女の自由が為に、帝国の女士官は脱走して騎士となった。かつて兵器だった少女は世界を知り、笑顔を取り戻す。たとえ裏切り者の誹りを受けようと、騎士の意志は揺るがない──,푸른소녀의 자유를 위해 、제국의  여사관은 탈주하여  기사가 되었다. 한 때  병기였던 소녀는 세계를 알게되고、웃음을 되찾는다. 비록 배신자라는 치욕을 들어도、기사의 의지는 흔들리지 않는다──
+蒼き少女に、自由を……,푸른소녀는、자유를……
+カタリナさん、語りなさい,카타리나씨、말하세요.
+
+インベル・ネイル,인벨・네일
+インベル・ネイル＋,인벨・네일＋
+闇属性ダメージ(特大),암속성 데미지(특대)
+
+エンチャントランズ,인챈트 랜즈
+エンチャントランズ＋,인챈트 랜즈＋
+敵に闇属性ダメージ/次の攻撃で必ずトリプルアタック,적에게 암속성 데미지/다음 공격이 반드시 트리플어택
+リカバー,리커버
+リカバー＋,리커버＋
+味方全体に再生効果/弱体効果を*つ回復,아군전체에 재생효과/약체효과를 *개 회복
+ライトウォール・ディヴァイド,라이트월・디바이드
+味方全体の全属性ダメージカット(**%),아군전체의 전 속성 데미지 컷(**%)
+エルステ帝国軍中尉,에르스테 제국 중위
+防御UP,방어UP
+
+
+
+
+
+
+
 
 
 "!칼리오스트로(SSR,암속통상)"
