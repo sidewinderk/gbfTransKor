@@ -3002,6 +3002,8 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 光属性攻撃力が**%UP/光属性キャラのHPが**%UP,광속성 공격력 **%UP/광속성 캐릭터의 HP **%UP
 闇属性攻撃力が***%UP/闇属性キャラのHPが**%UP,암속성 공격력 ***%UP/암속성 캐릭터의 HP **%UP
 闇属性攻撃力が**%UP/闇属性キャラのHPが**%UP,암속성 공격력 **%UP/암속성 캐릭터의 HP **%UP
+全属性攻撃力が***%UP闇属性キャラのHPが**%UP,전 속성 공격력 ***%UP/전 속성 캐릭터의 HP **%UP
+全属性攻撃力が***%UP闇属性キャラのHPが**%UP,전 속성 공격력 **%UP/전 속성 캐릭터의 HP **%UP
 
 火属性攻撃力が**%UP/火属性キャラのHPが**%UP/防御力**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP/방어력 **%UP
 水属性攻撃力が**%UP/水属性キャラのHPが**%UP/防御力**%UP,수속성 공격력 **%UP/수속성 캐릭터의 HP **%UP/방어력 **%UP
@@ -3010,6 +3012,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 光属性攻撃力が**%UP/光属性キャラのHPが**%UP/防御力**%UP,광속성 공격력 **%UP/광속성 캐릭터의 HP **%UP/방어력 **%UP
 闇属性攻撃力が**%UP/闇属性キャラのHPが**%UP/防御力**%UP,암속성 공격력 **%UP/암속성 캐릭터의 HP **%UP/방어력 **%UP
 
+弱体耐性が**%UP,약화내성 **%UP
 
 "<span class=""txt-summon-level"">Lv ***</span> プロトバハムート","<span class=""txt-summon-level"">Lv ***</span> 프로토 바하무트"
 "<span class=""txt-summon-level"">Lv **</span> プロトバハムート","<span class=""txt-summon-level"">Lv **</span> 프로토 바하무트"
@@ -3138,6 +3141,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> テスカトリポカ","<span class=""txt-summon-level"">Lv ***</span> 테스카틀리포카"
 "<span class=""txt-summon-level"">Lv **</span> テスカトリポカ","<span class=""txt-summon-level"">Lv **</span> 테스카틀리포카"
 "<span class=""txt-summon-level"">Lv *</span> テスカトリポカ","<span class=""txt-summon-level"">Lv *</span> 테스카틀리포카"
+バトルメンバーの種族数に応じて土属性攻撃力がUP(最大***％),배틀 멤버의 종족이 다양할수록 수속성 공격력UP(최대 ***％)
 シャインホーク･ガルラ,샤인 호크 가루라
 "<span class=""txt-summon-level"">Lv ***</span> シャインホーク･ガルラ","<span class=""txt-summon-level"">Lv ***</span> 샤인 호크 가루라"
 "<span class=""txt-summon-level"">Lv **</span> シャインホーク･ガルラ","<span class=""txt-summon-level"">Lv **</span> 샤인 호크 가루라"
@@ -3267,6 +3271,8 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> オケアノス","<span class=""txt-summon-level"">Lv ***</span> 오케아노스"
 "<span class=""txt-summon-level"">Lv **</span> オケアノス","<span class=""txt-summon-level"">Lv **</span> 오케아노스"
 "<span class=""txt-summon-level"">Lv *</span> オケアノス","<span class=""txt-summon-level"">Lv *</span> 오케아노스"
+敵全体に水属性ダメージ(特大)/確率で復活,적 전체에게 수속성 대미지(특대)/일정 확률로 부활
+水と光属性攻撃力が**%UP,"수, 광속성의 공격력 **%UP"
 バアル,바알
 "<span class=""txt-summon-level"">Lv ***</span> バアル","<span class=""txt-summon-level"">Lv ***</span> 바알"
 "<span class=""txt-summon-level"">Lv **</span> バアル","<span class=""txt-summon-level"">Lv **</span> 바알"
@@ -3375,6 +3381,7 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 "<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv ***</span> 디 오더 그랑데"
 "<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv **</span> 디 오더 그랑데"
 "<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv *</span> 디 오더 그랑데"
+バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP,배틀 멤버의 속성이 *종류 이상이면 공격력***%UP
 バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP/防御力**%UP,배틀 멤버의 속성이 *종류 이상이면 공격력***%UP/방어력**%UP
 
 
@@ -3384,29 +3391,35 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 "<span class=""txt-summon-level"">Lv ***</span> サテュロス","<span class=""txt-summon-level"">Lv ***</span> 사튀로스"
 "<span class=""txt-summon-level"">Lv **</span> サテュロス","<span class=""txt-summon-level"">Lv **</span> 사튀로스"
 "<span class=""txt-summon-level"">Lv *</span> サテュロス","<span class=""txt-summon-level"">Lv *</span> 사튀로스"
+火属性キャラの攻撃力が**%UP/再生効果,화속성 캐릭터의 공격력 **%UP/재생효과
 ネプチューン,넵튠
 "<span class=""txt-summon-level"">Lv ***</span> ネプチューン","<span class=""txt-summon-level"">Lv ***</span> 넵튠"
 "<span class=""txt-summon-level"">Lv **</span> ネプチューン","<span class=""txt-summon-level"">Lv **</span> 넵튠"
 "<span class=""txt-summon-level"">Lv *</span> ネプチューン","<span class=""txt-summon-level"">Lv *</span> 넵튠"
+水属性キャラの攻撃力が**%UP/再生効果,수속성 캐릭터의 공격력 **%UP/재생효과
 キュベレー,퀴벨레
 "<span class=""txt-summon-level"">Lv ***</span> キュベレー","<span class=""txt-summon-level"">Lv ***</span> 퀴벨레"
 "<span class=""txt-summon-level"">Lv **</span> キュベレー","<span class=""txt-summon-level"">Lv **</span> 퀴벨레"
 "<span class=""txt-summon-level"">Lv *</span> キュベレー","<span class=""txt-summon-level"">Lv *</span> 퀴벨레"
+土属性キャラの攻撃力が**%UP/再生効果,토속성 캐릭터의 공격력 **%UP/재생효과
+
 フレイ,프레이
 "<span class=""txt-summon-level"">Lv ***</span> フレイ","<span class=""txt-summon-level"">Lv ***</span> 프레이"
 "<span class=""txt-summon-level"">Lv **</span> フレイ","<span class=""txt-summon-level"">Lv **</span> 프레이"
 "<span class=""txt-summon-level"">Lv *</span> フレイ","<span class=""txt-summon-level"">Lv *</span> 프레이"
+風属性キャラの風属性攻撃力が**%UP/再生効果,풍속성 캐릭터의 공격력 **%UP/재생효과
 トール,토르
 "<span class=""txt-summon-level"">Lv ***</span> トール","<span class=""txt-summon-level"">Lv ***</span> 토르"
 "<span class=""txt-summon-level"">Lv **</span> トール","<span class=""txt-summon-level"">Lv **</span> 토르"
 "<span class=""txt-summon-level"">Lv *</span> トール","<span class=""txt-summon-level"">Lv *</span> 토르"
+敵全体に光属性ダメージ(特大)/敵全体のステータス大幅DOWN　◆再召喚不可,적 전체에게 광속성 대미지(특대)/적 전체의 스테이터스 대폭DOWN ◆재소환불가
 
-光属性キャラの攻撃力が**%UP/光属性攻撃で弱点を突いた時、稀に大ダメージのクリティカルが発生 ,"광속성 캐릭터의 공격력 **%UP/광속성 공격으로 약점을 찌를 경우, 드물게 큰 대미지의 크리티컬 발생"
+光属性キャラの攻撃力が**%UP/光属性攻撃で弱点を突いた時、稀に大ダメージのクリティカルが発生,"광속성 캐릭터의 공격력 **%UP/광속성 공격으로 약점을 찌를 경우, 드물게 큰 대미지의 크리티컬 발생"
 テュポーン,티폰
 "<span class=""txt-summon-level"">Lv ***</span> テュポーン","<span class=""txt-summon-level"">Lv ***</span> 티폰"
 "<span class=""txt-summon-level"">Lv **</span> テュポーン","<span class=""txt-summon-level"">Lv **</span> 티폰"
 "<span class=""txt-summon-level"">Lv *</span> テュポーン","<span class=""txt-summon-level"">Lv *</span> 티폰"
-
+闇属性キャラの攻撃力が**%UP/再生効果,암속성 캐릭터의 공격력 **%UP/재생효과
 
 !
 
@@ -3441,6 +3454,29 @@ C.C.,C.C.
 "<span class=""txt-summon-level"">Lv **</span> C.C.","<span class=""txt-summon-level"">Lv **</span> C.C."
 "<span class=""txt-summon-level"">Lv *</span> C.C.","<span class=""txt-summon-level"">Lv *</span> C.C."
 パーティ全体に自動復活効果(*回)/全属性キャラのHPと攻撃力が**%UP,파티원 모두에게 자동부활효과(*회)/전속성 캐릭터의 HP와 공격력 **%UP
+
+ノビヨ,노비요
+"<span class=""txt-summon-level"">Lv ***</span> ノビヨ","<span class=""txt-summon-level"">Lv ***</span> 노비요"
+"<span class=""txt-summon-level"">Lv **</span> ノビヨ","<span class=""txt-summon-level"">Lv **</span> 노비요"
+"<span class=""txt-summon-level"">Lv *</span> ノビヨ","<span class=""txt-summon-level"">Lv *</span> 노비요"
+全属性キャラのHPと攻撃力が**％UP/アイテムドロップ率と獲得経験値が**％UP,전 속성 캐릭터의 HP와 공격력 **%UP/아이템 드랍률과 획득 경험치량 **％UP
+
+神撃の竜,신격의 용
+"<span class=""txt-summon-level"">Lv ***</span> 神撃の竜","<span class=""txt-summon-level"">Lv ***</span> 신격의 용"
+"<span class=""txt-summon-level"">Lv **</span> 神撃の竜","<span class=""txt-summon-level"">Lv **</span> 신격의 용"
+"<span class=""txt-summon-level"">Lv *</span> 神撃の竜","<span class=""txt-summon-level"">Lv *</span> 신격의 용"
+
+
+
+
+
+
+
+
+
+
+
+
 
 好きな召喚石を選んでくれ！<br>加護効果でバトルが楽になるぜ！,좋아하는 소환석을 선택해봐! <br> 가호 효과로 배틀이 편해질 거야!
 サポーター召喚石選択,서포터 소환석 선택
@@ -6947,7 +6983,7 @@ START:DASH!!
 イベントTOPへ,이벤트 TOP으로
 ストーリーへ,스토리로
 エピソード一覧,에피소드 일람
-一覧ページへ,일람페이지로
+一覧ページへ,일람 페이지로
 クエスト選択へ,퀘스트 선택으로
 戻る,돌아간다
 マイページ,마이페이지
@@ -7157,7 +7193,7 @@ SS레어
 
 
 !페이트에피소드
-フェイトエピソードがあります！,페이트에피소드가 있습니다!
+フェイトエピソードがあります！,페이트 에피소드가 있습니다!
 たまには寄り道もイイかもなぁ。<br>			意外な発見があるんじゃねーか？<br>,가끔 샛길로 가보는 건 어때?<br>                        의외의 발견이 있을지도 모르잖아?<br>
 全て,모두
 "<option value=""*"" selected="""">全て</option>			<option value=""*"">レア</option>			<option value=""*"">Sレア</option>			<option value=""*"">SSレア</option>			<option value=""*"">その他</option>","<option value=""*"" selected="""">모두</option>			<option value=""*"">레어</option>			<option value=""*"">S레어</option>			<option value=""*"">SS레어</option>			<option value=""*"">그외</option>"
