@@ -1309,10 +1309,10 @@ Aqours スカイハイ！で入手できる交換素材。集めることで様�
 触れると火傷しそうなほどの熱量を持つ金属製の輪
 サンライトクォーツ
 太陽の如く眩い光を放つ水晶
-コロゥのアニマ
-コロゥの力の結晶
-コロゥのマグナアニマ
-コロゥの真の力の結晶
+コロゥのアニマ,코로우의 아니마
+コロゥの力の結晶,코로우의 힘의 결정
+コロゥのマグナアニマ,코로우의 마그나 아니마
+コロゥの真の力の結晶,코로우의 진정한 힘의 결정
 妃光の水晶
 妃光の間を照らす輝きを封じた水晶
 劫火の鉄扇
@@ -3129,6 +3129,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> スノウホワイト","<span class=""txt-summon-level"">Lv ***</span> 스노우 화이트"
 "<span class=""txt-summon-level"">Lv **</span> スノウホワイト","<span class=""txt-summon-level"">Lv **</span> 스노우 화이트"
 "<span class=""txt-summon-level"">Lv *</span> スノウホワイト","<span class=""txt-summon-level"">Lv *</span> 스노우 화이트"
+バトルメンバーの種族数に応じて水属性攻撃力がUP(最大***％),배틀 멤버의 종족이 다양할수록 수속성 공격력UP(최대 ***％)
 アンクシャ,안크샤
 "<span class=""txt-summon-level"">Lv ***</span> アンクシャ","<span class=""txt-summon-level"">Lv ***</span> 안크샤"
 "<span class=""txt-summon-level"">Lv **</span> アンクシャ","<span class=""txt-summon-level"">Lv **</span> 안크샤"
@@ -3298,36 +3299,46 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 
 !기타
 
-"<span class=""txt-summon-level"">Lv ***</span> フラム＝グラス","<span class=""txt-summon-level"">Lv ***</span> 프람=그라스"
+フ ラム＝グラス,프람=그라스
+"<span class=""txt-summon-level"">Lv ***</span>フ ラム＝グラス","<span class=""txt-summon-level"">Lv ***</span> 프람=그라스"
 "<span class=""txt-summon-level"">Lv **</span> フラム＝グラス","<span class=""txt-summon-level"">Lv **</span> 프람=그라스"
 "<span class=""txt-summon-level"">Lv *</span> フラム＝グラス","<span class=""txt-summon-level"">Lv *</span> 프람=그라스"
+グラニ,그라니
 "<span class=""txt-summon-level"">Lv ***</span> グラニ","<span class=""txt-summon-level"">Lv ***</span> 그라니"
 "<span class=""txt-summon-level"">Lv **</span> グラニ","<span class=""txt-summon-level"">Lv **</span> 그라니"
 "<span class=""txt-summon-level"">Lv *</span> グラニ","<span class=""txt-summon-level"">Lv *</span> 그라니"
+ガルーダ,가루다
 "<span class=""txt-summon-level"">Lv ***</span> ガルーダ","<span class=""txt-summon-level"">Lv ***</span> 가루다"
 "<span class=""txt-summon-level"">Lv **</span> ガルーダ","<span class=""txt-summon-level"">Lv **</span> 가루다"
 "<span class=""txt-summon-level"">Lv *</span> ガルーダ","<span class=""txt-summon-level"">Lv *</span> 가루다"
+Dエンジェル・オリヴィエ,다크엔젤・올리비에
 "<span class=""txt-summon-level"">Lv ***</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv ***</span> 다크엔젤・올리비에"
 "<span class=""txt-summon-level"">Lv **</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv **</span> 다크엔젤・올리비에"
 "<span class=""txt-summon-level"">Lv *</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv *</span> 다크엔젤・올리비에"
 
 !종말신기소환석
 
+スルト,수르트
 "<span class=""txt-summon-level"">Lv ***</span> スルト","<span class=""txt-summon-level"">Lv ***</span> 수르트"
 "<span class=""txt-summon-level"">Lv **</span> スルト","<span class=""txt-summon-level"">Lv **</span> 수르트"
 "<span class=""txt-summon-level"">Lv *</span> スルト","<span class=""txt-summon-level"">Lv *</span> 수르트"
+竜吉公主,용길공주
 "<span class=""txt-summon-level"">Lv ***</span> 竜吉公主","<span class=""txt-summon-level"">Lv ***</span> 용길공주"
 "<span class=""txt-summon-level"">Lv **</span> 竜吉公主","<span class=""txt-summon-level"">Lv **</span> 용길공주"
 "<span class=""txt-summon-level"">Lv *</span> 竜吉公主","<span class=""txt-summon-level"">Lv *</span> 용길공주"
+ドグー,토우
 "<span class=""txt-summon-level"">Lv ***</span> ドグー","<span class=""txt-summon-level"">Lv ***</span> 토우"
 "<span class=""txt-summon-level"">Lv **</span> ドグー","<span class=""txt-summon-level"">Lv **</span> 토우"
 "<span class=""txt-summon-level"">Lv *</span> ドグー","<span class=""txt-summon-level"">Lv *</span> 토우"
+エッリル,엣릴
 "<span class=""txt-summon-level"">Lv ***</span> エッリル","<span class=""txt-summon-level"">Lv ***</span> 엣릴"
 "<span class=""txt-summon-level"">Lv **</span> エッリル","<span class=""txt-summon-level"">Lv **</span> 엣릴"
 "<span class=""txt-summon-level"">Lv *</span> エッリル","<span class=""txt-summon-level"">Lv *</span> 엣릴"
+ヘイムダル,헤임달
 "<span class=""txt-summon-level"">Lv ***</span> ヘイムダル","<span class=""txt-summon-level"">Lv ***</span> 헤임달"
 "<span class=""txt-summon-level"">Lv **</span> ヘイムダル","<span class=""txt-summon-level"">Lv **</span> 헤임달"
 "<span class=""txt-summon-level"">Lv *</span> ヘイムダル","<span class=""txt-summon-level"">Lv *</span> 헤임달"
+ナイアルラトホテップ,니알라토텝
 "<span class=""txt-summon-level"">Lv ***</span> ナイアルラトホテップ","<span class=""txt-summon-level"">Lv ***</span> 니알라토텝"
 "<span class=""txt-summon-level"">Lv **</span> ナイアルラトホテップ","<span class=""txt-summon-level"">Lv **</span> 니알라토텝"
 "<span class=""txt-summon-level"">Lv *</span> ナイアルラトホテップ","<span class=""txt-summon-level"">Lv *</span> 니알라토텝"
@@ -6953,7 +6964,7 @@ START:DASH!!
 獲得する,획득한다
 仲間にする,동료가 된다
 投票する,투표한다
-
+移動する,이동한다
 
 
 !기본공통UI
@@ -7050,7 +7061,7 @@ ID入力,ID입력
 イベント・キャンペーン,이벤트 캠페인
 お知らせ・アップデート,공지・업데이트
 不具合一覧,버그일람
-
+アビリティ効果,어빌리티 효과
 
 
 
@@ -7334,9 +7345,9 @@ LINEに投稿する,LINE에 투고하기
 効果時間: *ターン/**秒,효과시간: *턴/**초
 使用可能: **ターン後,사용가능: **턴 후
 使用可能: *ターン後,사용가능: *턴 후
-
-
-
+効果時間: *秒,효과시간: *초
+効果時間: **秒,효과시간: **초
+効果時間: ***秒,효과시간: ***초
 
 !트라이얼 배틀
 トライアルバトル,트라이얼 배틀
@@ -7380,6 +7391,34 @@ AUTOボタン設定,AUTO 버튼 설정
 経過時間,경과 시간
 召喚石使用回数,소환석 사용회수
 エリクシール使用回数,에릭실 사용회수
+
+
+!공역지도
+ファータ・グランデ空域,파타그랑데공역
+ザンクティンゼル,장크틴젤
+ポート・ブリーズ群島,포트・브리즈 군도
+バルツ公国,발츠 공국
+霧に包まれた島,안개에 둘러쌓인 섬
+ガロンゾ島,가론조 섬
+アマルティア島,아말티아 섬
+アウギュステ列島,아우규스테 열도
+ルーマシー群島,루마시 군도
+城砦都市アルビオン,성채도시 알비온
+旧王都メフォラシュ,구왕도 메포라슈
+帝都アガスティア,제도 아가스티아
+白風の境,백풍의 언덕
+ダイダロイトベルト,다이달로스 벨트
+ナル・グランデ空域,나루그랑데공역
+メルクマール島,메르크마 섬
+グロース島,그로스 섬
+クルーガー島,쿠르가 섬
+ベスティエ島,베스티에 섬
+ライヒェ島,라이헤 섬
+シュテルケ島,슈틸케 섬
+境界の世界,경계의 세계
+アウライ・グランデ大空域,아루라이・그랑데대공역
+新島ユートピア,신도 유토피아
+
 
 !이벤트
 ふたたび始まる空の旅,다시 시작되는 하늘 여행
@@ -7733,11 +7772,14 @@ BA☆KU☆RE☆TSU,포☆옥☆바☆알
 グリーティング・ドーマウス,그리팅・도 마우스
 グリーティング・ドーマウス＋,그리팅・도 마우스＋
 "<div class=""prt-text-small"">敵に*回闇属性ダメージ/ドーちゃんをけしかける　<span class=""text-blue"">◆敵が特殊技を使用時にトラップが起動し敵全体に無属性ダメージ/捕獲効果</span></div>","<div class=""prt-text-small"">적에게 *회 암속성 데미지/도 쨩을 설치한다　<span class=""text-blue"">◆적이 특수행동 시 트랩이 발동해 적 전체에 무속성 데미지/마비효과</span></div>"
+敵が特殊技を使用した時にトラップが起動し、敵全体に無属性ダメージと捕獲効果が発生する状態(消去不可),적이 특수기를 사용했을 때 트랩이 발동되어、적전체에 무속성 데미지와 포획효과가 발생하는 효과(소거불가)
 エンチャンテッド・ドリーム,인챈티드・드림
 エンチャンテッド・ドリーム＋,인챈티드・드림＋
 さぁ、夢とキラキラのゆ～とぴあへ！,"자, 꿈과 반짝반짝의 유토피아로！"
+敵の攻撃力が上昇し、攻撃開始時に味方全体のテンションが上昇する状態,적 전체의 공격력이 상승하고、공격개시시에 아군 전체의 텐션이 상승하는 효과
 一子之夢,일자지몽
 "<div class=""prt-text-small"">闇属性キャラの奥義ゲージ上昇量UP/奥義性能UP/回避率UP　<span class=""text-blue"">◆*回被ダメージで解除</span></div>","<div class=""prt-text-small"">암속성 캐릭터의 오의게이지 상승량 UP/오의성능 UP/회피율 UP　<span class=""text-blue"">◆*회 피데미지 시 해제</span></div>"
+奥義ゲージ上昇量、奥義性能、回避率が上昇した状態(消去不可/*回被ダメージで解除),오의게이지 상승량、오의성능、회피확률이 상승한 상태(소거불가/*회 피데미지로 해제)
 鼠神宮の主,서신궁의 주인
 "<div class=""prt-text-small"">フィールド効果「ゆ～とぴあ」発生時に自分が必ずトリプルアタック/敵対心UP/回避率UP/奥義発動時に味方全体にテンション効果</div>","<div class=""prt-text-small"">필드 효과「유토피아」발생시 자신이 반드시 트리플어택/적개심 UP/회피율 UP/오의 발동시 아군 전체에 텐션 효과</div>"
 ビート・ザ・マウス,비트・더・마우스
