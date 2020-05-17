@@ -2987,6 +2987,41 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 闇属性キャラのHPが**%UP,암속성 캐릭터의 HP **%UP
 闇属性キャラのHPが*%UP,암속성 캐릭터의 HP *%UP
 
+火属性攻撃力が***%UP,화속성 공격력 ***%UP
+火属性攻撃力が**%UP,화속성 공격력 **%UP
+火属性攻撃力が*%UP,화속성 공격력 *%UP
+水属性攻撃力が***%UP,수속성 공격력 ***%UP
+水属性攻撃力が**%UP,수속성 공격력 **%UP
+水属性攻撃力が*%UP,수속성 공격력 *%UP
+土属性攻撃力が***%UP,토속성 공격력 ***%UP
+土属性攻撃力が**%UP,토속성 공격력 **%UP
+土属性攻撃力が*%UP,토속성 공격력 *%UP
+風属性攻撃力が***%UP,풍속성 공격력 ***%UP
+風属性攻撃力が**%UP,풍속성 공격력 **%UP
+風属性攻撃力が*%UP,풍속성 공격력 *%UP
+光属性攻撃力が***%UP,광속성 공격력 ***%UP
+光属性攻撃力が**%UP,광속성 공격력 **%UP
+光属性攻撃力が*%UP,광속성 공격력 *%UP
+闇属性攻撃力が***%UP,암속성 공격력 ***%UP
+闇属性攻撃力が**%UP,암속성 공격력 **%UP
+闇属性攻撃力が*%UP,암속성 공격력 *%UP
+
+火属性攻撃力が***%UP/火属性キャラのHPが**%UP,화속성 공격력 ***%UP/화속성 캐릭터의 HP **%UP
+火属性攻撃力が**%UP/火属性キャラのHPが**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP
+水属性攻撃力が***%UP/水属性キャラのHPが**%UP,수속성 공격력 ***%UP/수속성 캐릭터의 HP **%UP
+水属性攻撃力が**%UP/水属性キャラのHPが**%UP,수속성 공격력 **%UP/수속성 캐릭터의 HP **%UP
+土属性攻撃力が***%UP/土属性キャラのHPが**%UP,토속성 공격력 ***%UP/토속성 캐릭터의 HP **%UP
+土属性攻撃力が**%UP/土属性キャラのHPが**%UP,토속성 공격력 **%UP/토속성 캐릭터의 HP **%UP
+風属性攻撃力が***%UP/風属性キャラのHPが**%UP,풍속성 공격력 ***%UP/풍속성 캐릭터의 HP **%UP
+風属性攻撃力が**%UP/風属性キャラのHPが**%UP,풍속성 공격력 **%UP/풍속성 캐릭터의 HP **%UP
+光属性攻撃力が***%UP/光属性キャラのHPが**%UP,광속성 공격력 ***%UP/광속성 캐릭터의 HP **%UP
+光属性攻撃力が**%UP/光属性キャラのHPが**%UP,광속성 공격력 **%UP/광속성 캐릭터의 HP **%UP
+闇属性攻撃力が***%UP/闇属性キャラのHPが**%UP,암속성 공격력 ***%UP/암속성 캐릭터의 HP **%UP
+闇属性攻撃力が**%UP/闇属性キャラのHPが**%UP,암속성 공격력 **%UP/암속성 캐릭터의 HP **%UP
+
+
+
+
 
 火属性攻撃力が**%UP/火属性キャラのHPが**%UP/防御力**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP/방어력 **%UP
 水属性攻撃力が**%UP/水属性キャラのHPが**%UP/防御力**%UP,수속성 공격력 **%UP/수속성 캐릭터의 HP **%UP/방어력 **%UP
@@ -2996,415 +3031,415 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 闇属性攻撃力が**%UP/闇属性キャラのHPが**%UP/防御力**%UP,암속성 공격력 **%UP/암속성 캐릭터의 HP **%UP/방어력 **%UP
 
 
-"<span class=""txt-summon-level"">Lv ***</span> プロトバハムート","<span class=""txt-summon-level"">Lv ***</span> 프로토 바하무트"
-"<span class=""txt-summon-level"">Lv **</span> プロトバハムート","<span class=""txt-summon-level"">Lv **</span> 프로토 바하무트"
-"<span class=""txt-summon-level"">Lv *</span> プロトバハムート","<span class=""txt-summon-level"">Lv *</span> 프로토 바하무트"
+"""<span class=""txt-summon-level"">Lv ***</span> プロトバハムート""","""<span class=""txt-summon-level"">Lv ***</span> 프로토 바하무트"""
+"""<span class=""txt-summon-level"">Lv **</span> プロトバハムート""","""<span class=""txt-summon-level"">Lv **</span> 프로토 바하무트"""
+"""<span class=""txt-summon-level"">Lv *</span> プロトバハムート""","""<span class=""txt-summon-level"">Lv *</span> 프로토 바하무트"""
 
 !마그나
 
 コロッサス・マグナ,콜로서스・마그나
-"<span class=""txt-summon-level"">Lv ***</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv ***</span> 콜로서스・마그나"
-"<span class=""txt-summon-level"">Lv **</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv **</span> 콜로서스・마그나"
-"<span class=""txt-summon-level"">Lv *</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv *</span> 콜로서스・마그나"
+"""<span class=""txt-summon-level"">Lv ***</span> コロッサス・マグナ""","""<span class=""txt-summon-level"">Lv ***</span> 콜로서스・마그나"""
+"""<span class=""txt-summon-level"">Lv **</span> コロッサス・マグナ""","""<span class=""txt-summon-level"">Lv **</span> 콜로서스・마그나"""
+"""<span class=""txt-summon-level"">Lv *</span> コロッサス・マグナ""","""<span class=""txt-summon-level"">Lv *</span> 콜로서스・마그나"""
 スキル「機炎方陣」の効果が***%UP,스킬 「기염방진(機炎方陣)」의 효과 ***%UP
 スキル「機炎方陣」の効果が**%UP,스킬 「기염방진(機炎方陣)」의 효과 **%UP
 リヴァイアサン・マグナ,리바이어선・마그나
-"<span class=""txt-summon-level"">Lv ***</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv ***</span> 리바이어선・마그나"
-"<span class=""txt-summon-level"">Lv **</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv **</span> 리바이어선・마그나"
-"<span class=""txt-summon-level"">Lv *</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv *</span> 리바이어선・마그나"
+"""<span class=""txt-summon-level"">Lv ***</span> リヴァイアサン・マグナ""","""<span class=""txt-summon-level"">Lv ***</span> 리바이어선・마그나"""
+"""<span class=""txt-summon-level"">Lv **</span> リヴァイアサン・マグナ""","""<span class=""txt-summon-level"">Lv **</span> 리바이어선・마그나"""
+"""<span class=""txt-summon-level"">Lv *</span> リヴァイアサン・マグナ""","""<span class=""txt-summon-level"">Lv *</span> 리바이어선・마그나"""
 スキル「海神方陣」の効果が***%UP,스킬 「해신방진(海神方陣)」의 효과 ***%UP
 スキル「海神方陣」の効果が**%UP,스킬 「해신방진(海神方陣)」의 효과 **%UP
 ユグドラシル・マグナ,유그드라실・마그나
-"<span class=""txt-summon-level"">Lv ***</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv ***</span> 유그드라실・마그나"
-"<span class=""txt-summon-level"">Lv **</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv **</span> 유그드라실・마그나"
-"<span class=""txt-summon-level"">Lv *</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv *</span> 유그드라실・마그나"
+"""<span class=""txt-summon-level"">Lv ***</span> ユグドラシル・マグナ""","""<span class=""txt-summon-level"">Lv ***</span> 유그드라실・마그나"""
+"""<span class=""txt-summon-level"">Lv **</span> ユグドラシル・マグナ""","""<span class=""txt-summon-level"">Lv **</span> 유그드라실・마그나"""
+"""<span class=""txt-summon-level"">Lv *</span> ユグドラシル・マグナ""","""<span class=""txt-summon-level"">Lv *</span> 유그드라실・마그나"""
 スキル「創樹方陣」の効果が***%UP,스킬 「창수방진(創樹方陣)」의 효과 ***%UP
 スキル「創樹方陣」の効果が**%UP,스킬 「창수방진(創樹方陣)」의 효과 **%UP
 ティアマト・マグナ,티아마트・마그나
-"<span class=""txt-summon-level"">Lv ***</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv ***</span> 티아마트・마그나"
-"<span class=""txt-summon-level"">Lv **</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv **</span> 티아마트・마그나"
-"<span class=""txt-summon-level"">Lv *</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv *</span> 티아마트・마그나"
+"""<span class=""txt-summon-level"">Lv ***</span> ティアマト・マグナ""","""<span class=""txt-summon-level"">Lv ***</span> 티아마트・마그나"""
+"""<span class=""txt-summon-level"">Lv **</span> ティアマト・マグナ""","""<span class=""txt-summon-level"">Lv **</span> 티아마트・마그나"""
+"""<span class=""txt-summon-level"">Lv *</span> ティアマト・マグナ""","""<span class=""txt-summon-level"">Lv *</span> 티아마트・마그나"""
 スキル「嵐竜方陣」の効果が***%UP,스킬 「난룡방진(嵐竜方陣)」의 효과 ***%UP
 スキル「嵐竜方陣」の効果が**%UP,스킬 「난룡방진(嵐竜方陣)」의 효과 **%UP
 シュヴァリエ・マグナ,슈발리에・마그나
-"<span class=""txt-summon-level"">Lv ***</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv ***</span> 슈발리에・마그나"
-"<span class=""txt-summon-level"">Lv **</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv **</span> 슈발리에・마그나"
-"<span class=""txt-summon-level"">Lv *</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv *</span> 슈발리에・마그나"
+"""<span class=""txt-summon-level"">Lv ***</span> シュヴァリエ・マグナ""","""<span class=""txt-summon-level"">Lv ***</span> 슈발리에・마그나"""
+"""<span class=""txt-summon-level"">Lv **</span> シュヴァリエ・マグナ""","""<span class=""txt-summon-level"">Lv **</span> 슈발리에・마그나"""
+"""<span class=""txt-summon-level"">Lv *</span> シュヴァリエ・マグナ""","""<span class=""txt-summon-level"">Lv *</span> 슈발리에・마그나"""
 スキル「騎解方陣」の効果が***%UP,스킬 「기해방진(騎解方陣)」의 효과 ***%UP
 スキル「騎解方陣」の効果が**%UP,스킬 「기해방진(騎解方陣)」의 효과 **%UP
 セレスト・マグナ,세레스트・마그나
-"<span class=""txt-summon-level"">Lv ***</span> セレスト・マグナ","<span class=""txt-summon-level"">Lv ***</span> 세레스트・마그나"
-"<span class=""txt-summon-level"">Lv **</span> セレスト・マグナ","<span class=""txt-summon-level"">Lv **</span> 세레스트・마그나"
-"<span class=""txt-summon-level"">Lv *</span> セレスト・マグナ","<span class=""txt-summon-level"">Lv *</span> 세레스트・마그나"
+"""<span class=""txt-summon-level"">Lv ***</span> セレスト・マグナ""","""<span class=""txt-summon-level"">Lv ***</span> 세레스트・마그나"""
+"""<span class=""txt-summon-level"">Lv **</span> セレスト・マグナ""","""<span class=""txt-summon-level"">Lv **</span> 세레스트・마그나"""
+"""<span class=""txt-summon-level"">Lv *</span> セレスト・マグナ""","""<span class=""txt-summon-level"">Lv *</span> 세레스트・마그나"""
 スキル「黒霧方陣」の効果が***%UP,스킬 「흑무방진(黒霧方陣)」의 효과 ***%UP
 スキル「黒霧方陣」の効果が**%UP,스킬 「흑무방진(黒霧方陣)」의 효과 **%UP
 
 !140짜리
 
 シヴァ,시바
-"<span class=""txt-summon-level"">Lv ***</span> シヴァ","<span class=""txt-summon-level"">Lv ***</span> 시바"
-"<span class=""txt-summon-level"">Lv **</span> シヴァ","<span class=""txt-summon-level"">Lv **</span> 시바"
-"<span class=""txt-summon-level"">Lv *</span> シヴァ","<span class=""txt-summon-level"">Lv *</span> 시바"
+"""<span class=""txt-summon-level"">Lv ***</span> シヴァ""","""<span class=""txt-summon-level"">Lv ***</span> 시바"""
+"""<span class=""txt-summon-level"">Lv **</span> シヴァ""","""<span class=""txt-summon-level"">Lv **</span> 시바"""
+"""<span class=""txt-summon-level"">Lv *</span> シヴァ""","""<span class=""txt-summon-level"">Lv *</span> 시바"""
 エウロペ,에우로페
-"<span class=""txt-summon-level"">Lv ***</span> エウロペ","<span class=""txt-summon-level"">Lv ***</span> 에우로페"
-"<span class=""txt-summon-level"">Lv **</span> エウロペ","<span class=""txt-summon-level"">Lv **</span> 에우로페"
-"<span class=""txt-summon-level"">Lv *</span> エウロペ","<span class=""txt-summon-level"">Lv *</span> 에우로페"
+"""<span class=""txt-summon-level"">Lv ***</span> エウロペ""","""<span class=""txt-summon-level"">Lv ***</span> 에우로페"""
+"""<span class=""txt-summon-level"">Lv **</span> エウロペ""","""<span class=""txt-summon-level"">Lv **</span> 에우로페"""
+"""<span class=""txt-summon-level"">Lv *</span> エウロペ""","""<span class=""txt-summon-level"">Lv *</span> 에우로페"""
 ゴッドガード・ブローディア,갓가드・브로디아
-"<span class=""txt-summon-level"">Lv ***</span> ゴッドガード・ブローディア","<span class=""txt-summon-level"">Lv ***</span> 갓가드・브로디아"
-"<span class=""txt-summon-level"">Lv **</span> ゴッドガード・ブローディア","<span class=""txt-summon-level"">Lv **</span> 갓가드・브로디아"
-"<span class=""txt-summon-level"">Lv *</span> ゴッドガード・ブローディア","<span class=""txt-summon-level"">Lv *</span> 갓가드・브로디아"
+"""<span class=""txt-summon-level"">Lv ***</span> ゴッドガード・ブローディア""","""<span class=""txt-summon-level"">Lv ***</span> 갓가드・브로디아"""
+"""<span class=""txt-summon-level"">Lv **</span> ゴッドガード・ブローディア""","""<span class=""txt-summon-level"">Lv **</span> 갓가드・브로디아"""
+"""<span class=""txt-summon-level"">Lv *</span> ゴッドガード・ブローディア""","""<span class=""txt-summon-level"">Lv *</span> 갓가드・브로디아"""
 グリームニル,그림니르
-"<span class=""txt-summon-level"">Lv ***</span> グリームニル","<span class=""txt-summon-level"">Lv ***</span> 그림니르"
-"<span class=""txt-summon-level"">Lv **</span> グリームニル","<span class=""txt-summon-level"">Lv **</span> 그림니르"
-"<span class=""txt-summon-level"">Lv *</span> グリームニル","<span class=""txt-summon-level"">Lv *</span> 그림니르"
+"""<span class=""txt-summon-level"">Lv ***</span> グリームニル""","""<span class=""txt-summon-level"">Lv ***</span> 그림니르"""
+"""<span class=""txt-summon-level"">Lv **</span> グリームニル""","""<span class=""txt-summon-level"">Lv **</span> 그림니르"""
+"""<span class=""txt-summon-level"">Lv *</span> グリームニル""","""<span class=""txt-summon-level"">Lv *</span> 그림니르"""
 
 ルシフェル,루시펠
-"<span class=""txt-summon-level"">Lv ***</span> ルシフェル","<span class=""txt-summon-level"">Lv ***</span> 루시펠"
-"<span class=""txt-summon-level"">Lv **</span> ルシフェル","<span class=""txt-summon-level"">Lv **</span> 루시펠"
-"<span class=""txt-summon-level"">Lv *</span> ルシフェル","<span class=""txt-summon-level"">Lv *</span> 루시펠"
+"""<span class=""txt-summon-level"">Lv ***</span> ルシフェル""","""<span class=""txt-summon-level"">Lv ***</span> 루시펠"""
+"""<span class=""txt-summon-level"">Lv **</span> ルシフェル""","""<span class=""txt-summon-level"">Lv **</span> 루시펠"""
+"""<span class=""txt-summon-level"">Lv *</span> ルシフェル""","""<span class=""txt-summon-level"">Lv *</span> 루시펠"""
 バハムート,바하무트
-"<span class=""txt-summon-level"">Lv ***</span> バハムート","<span class=""txt-summon-level"">Lv ***</span> 바하무트"
-"<span class=""txt-summon-level"">Lv **</span> バハムート","<span class=""txt-summon-level"">Lv **</span> 바하무트"
-"<span class=""txt-summon-level"">Lv *</span> バハムート","<span class=""txt-summon-level"">Lv *</span> 바하무트"
+"""<span class=""txt-summon-level"">Lv ***</span> バハムート""","""<span class=""txt-summon-level"">Lv ***</span> 바하무트"""
+"""<span class=""txt-summon-level"">Lv **</span> バハムート""","""<span class=""txt-summon-level"">Lv **</span> 바하무트"""
+"""<span class=""txt-summon-level"">Lv *</span> バハムート""","""<span class=""txt-summon-level"">Lv *</span> 바하무트"""
 
 !140짜리리메이크
 
 白純の霊蝶 シルフ,백순의 영접 실프
-"<span class=""txt-summon-level"">Lv ***</span> 白純の霊蝶 シルフ","<span class=""txt-summon-level"">Lv ***</span> 백순의 영접 실프"
-"<span class=""txt-summon-level"">Lv **</span> 白純の霊蝶 シルフ","<span class=""txt-summon-level"">Lv **</span> 백순의 영접 실프"
-"<span class=""txt-summon-level"">Lv *</span> 白純の霊蝶 シルフ","<span class=""txt-summon-level"">Lv *</span> 백순의 영접 실프"
+"""<span class=""txt-summon-level"">Lv ***</span> 白純の霊蝶 シルフ""","""<span class=""txt-summon-level"">Lv ***</span> 백순의 영접 실프"""
+"""<span class=""txt-summon-level"">Lv **</span> 白純の霊蝶 シルフ""","""<span class=""txt-summon-level"">Lv **</span> 백순의 영접 실프"""
+"""<span class=""txt-summon-level"">Lv *</span> 白純の霊蝶 シルフ""","""<span class=""txt-summon-level"">Lv *</span> 백순의 영접 실프"""
 気高き水神 ポセイドン,고상한 수신 포세이돈
-"<span class=""txt-summon-level"">Lv ***</span> 気高き水神 ポセイドン","<span class=""txt-summon-level"">Lv ***</span> 고상한 수신 포세이돈"
-"<span class=""txt-summon-level"">Lv **</span> 気高き水神 ポセイドン","<span class=""txt-summon-level"">Lv **</span> 고상한 수신 포세이돈"
-"<span class=""txt-summon-level"">Lv *</span> 気高き水神 ポセイドン","<span class=""txt-summon-level"">Lv *</span> 고상한 수신 포세이돈"
+"""<span class=""txt-summon-level"">Lv ***</span> 気高き水神 ポセイドン""","""<span class=""txt-summon-level"">Lv ***</span> 고상한 수신 포세이돈"""
+"""<span class=""txt-summon-level"">Lv **</span> 気高き水神 ポセイドン""","""<span class=""txt-summon-level"">Lv **</span> 고상한 수신 포세이돈"""
+"""<span class=""txt-summon-level"">Lv *</span> 気高き水神 ポセイドン""","""<span class=""txt-summon-level"">Lv *</span> 고상한 수신 포세이돈"""
 破格の戦鬼 マルドゥーク,파격의 전귀 마르두크
-"<span class=""txt-summon-level"">Lv ***</span> 破格の戦鬼 マルドゥーク","<span class=""txt-summon-level"">Lv ***</span> 파격의 전귀 마르두크"
-"<span class=""txt-summon-level"">Lv **</span> 破格の戦鬼 マルドゥーク","<span class=""txt-summon-level"">Lv **</span> 파격의 전귀 마르두크"
-"<span class=""txt-summon-level"">Lv *</span> 破格の戦鬼 マルドゥーク","<span class=""txt-summon-level"">Lv *</span> 파격의 전귀 마르두크"
+"""<span class=""txt-summon-level"">Lv ***</span> 破格の戦鬼 マルドゥーク""","""<span class=""txt-summon-level"">Lv ***</span> 파격의 전귀 마르두크"""
+"""<span class=""txt-summon-level"">Lv **</span> 破格の戦鬼 マルドゥーク""","""<span class=""txt-summon-level"">Lv **</span> 파격의 전귀 마르두크"""
+"""<span class=""txt-summon-level"">Lv *</span> 破格の戦鬼 マルドゥーク""","""<span class=""txt-summon-level"">Lv *</span> 파격의 전귀 마르두크"""
 愛と戦いの神 アナト,사랑과 전쟁의 신 아나트
-"<span class=""txt-summon-level"">Lv ***</span> 愛と戦いの神 アナト","<span class=""txt-summon-level"">Lv ***</span> 사랑과 전쟁의 신 아나트"
-"<span class=""txt-summon-level"">Lv **</span> 愛と戦いの神 アナト","<span class=""txt-summon-level"">Lv **</span> 사랑과 전쟁의 신 아나트"
-"<span class=""txt-summon-level"">Lv *</span> 愛と戦いの神 アナト","<span class=""txt-summon-level"">Lv *</span> 사랑과 전쟁의 신 아나트"
+"""<span class=""txt-summon-level"">Lv ***</span> 愛と戦いの神 アナト""","""<span class=""txt-summon-level"">Lv ***</span> 사랑과 전쟁의 신 아나트"""
+"""<span class=""txt-summon-level"">Lv **</span> 愛と戦いの神 アナト""","""<span class=""txt-summon-level"">Lv **</span> 사랑과 전쟁의 신 아나트"""
+"""<span class=""txt-summon-level"">Lv *</span> 愛と戦いの神 アナト""","""<span class=""txt-summon-level"">Lv *</span> 사랑과 전쟁의 신 아나트"""
 三知一鎧の賢者 マギ,삼지일개의 현자 마기
-"<span class=""txt-summon-level"">Lv ***</span> 三知一鎧の賢者 マギ","<span class=""txt-summon-level"">Lv ***</span> 삼지일개의 현자 마기"
-"<span class=""txt-summon-level"">Lv **</span> 三知一鎧の賢者 マギ","<span class=""txt-summon-level"">Lv **</span> 삼지일개의 현자 마기"
-"<span class=""txt-summon-level"">Lv *</span> 三知一鎧の賢者 マギ","<span class=""txt-summon-level"">Lv *</span> 삼지일개의 현자 마기"
+"""<span class=""txt-summon-level"">Lv ***</span> 三知一鎧の賢者 マギ""","""<span class=""txt-summon-level"">Lv ***</span> 삼지일개의 현자 마기"""
+"""<span class=""txt-summon-level"">Lv **</span> 三知一鎧の賢者 マギ""","""<span class=""txt-summon-level"">Lv **</span> 삼지일개의 현자 마기"""
+"""<span class=""txt-summon-level"">Lv *</span> 三知一鎧の賢者 マギ""","""<span class=""txt-summon-level"">Lv *</span> 삼지일개의 현자 마기"""
 冥界の三魔犬 ケルベロス,명계의 삼마견 켈베로스
-"<span class=""txt-summon-level"">Lv ***</span> 冥界の三魔犬 ケルベロス","<span class=""txt-summon-level"">Lv ***</span> 명계의 삼마견 켈베로스"
-"<span class=""txt-summon-level"">Lv **</span> 冥界の三魔犬 ケルベロス","<span class=""txt-summon-level"">Lv **</span> 명계의 삼마견 켈베로스"
-"<span class=""txt-summon-level"">Lv *</span> 冥界の三魔犬 ケルベロス","<span class=""txt-summon-level"">Lv *</span> 명계의 삼마견 켈베로스"
+"""<span class=""txt-summon-level"">Lv ***</span> 冥界の三魔犬 ケルベロス""","""<span class=""txt-summon-level"">Lv ***</span> 명계의 삼마견 켈베로스"""
+"""<span class=""txt-summon-level"">Lv **</span> 冥界の三魔犬 ケルベロス""","""<span class=""txt-summon-level"">Lv **</span> 명계의 삼마견 켈베로스"""
+"""<span class=""txt-summon-level"">Lv *</span> 冥界の三魔犬 ケルベロス""","""<span class=""txt-summon-level"">Lv *</span> 명계의 삼마견 켈베로스"""
 
 !조건부공격력UP
 
 セスランス,세스란스
-"<span class=""txt-summon-level"">Lv ***</span> セスランス","<span class=""txt-summon-level"">Lv ***</span> 세스란스"
-"<span class=""txt-summon-level"">Lv **</span> セスランス","<span class=""txt-summon-level"">Lv **</span> 세스란스"
-"<span class=""txt-summon-level"">Lv *</span> セスランス","<span class=""txt-summon-level"">Lv *</span> 세스란스"
+"""<span class=""txt-summon-level"">Lv ***</span> セスランス""","""<span class=""txt-summon-level"">Lv ***</span> 세스란스"""
+"""<span class=""txt-summon-level"">Lv **</span> セスランス""","""<span class=""txt-summon-level"">Lv **</span> 세스란스"""
+"""<span class=""txt-summon-level"">Lv *</span> セスランス""","""<span class=""txt-summon-level"">Lv *</span> 세스란스"""
 ザオシェン,쟈오센
-"<span class=""txt-summon-level"">Lv ***</span> ザオシェン","<span class=""txt-summon-level"">Lv ***</span> 쟈오센"
-"<span class=""txt-summon-level"">Lv **</span> ザオシェン","<span class=""txt-summon-level"">Lv **</span> 쟈오센"
-"<span class=""txt-summon-level"">Lv *</span> ザオシェン","<span class=""txt-summon-level"">Lv *</span> 쟈오센"
+"""<span class=""txt-summon-level"">Lv ***</span> ザオシェン""","""<span class=""txt-summon-level"">Lv ***</span> 쟈오센"""
+"""<span class=""txt-summon-level"">Lv **</span> ザオシェン""","""<span class=""txt-summon-level"">Lv **</span> 쟈오센"""
+"""<span class=""txt-summon-level"">Lv *</span> ザオシェン""","""<span class=""txt-summon-level"">Lv *</span> 쟈오센"""
 カツウォヌス,카츠오누스
-"<span class=""txt-summon-level"">Lv ***</span> カツウォヌス","<span class=""txt-summon-level"">Lv ***</span> 카츠오누스"
-"<span class=""txt-summon-level"">Lv **</span> カツウォヌス","<span class=""txt-summon-level"">Lv **</span> 카츠오누스"
-"<span class=""txt-summon-level"">Lv *</span> カツウォヌス","<span class=""txt-summon-level"">Lv *</span> 카츠오누스"
+"""<span class=""txt-summon-level"">Lv ***</span> カツウォヌス""","""<span class=""txt-summon-level"">Lv ***</span> 카츠오누스"""
+"""<span class=""txt-summon-level"">Lv **</span> カツウォヌス""","""<span class=""txt-summon-level"">Lv **</span> 카츠오누스"""
+"""<span class=""txt-summon-level"">Lv *</span> カツウォヌス""","""<span class=""txt-summon-level"">Lv *</span> 카츠오누스"""
 装備している水属性召喚石の数が多いほど水属性攻撃力がUP(最大***％)/水属性キャラの防御が**%UP ★初回召喚時は全効果が発動,장착하고 있는 수속성 소환석의 수가 많을 수록 수속성 공격력UP(최대 ***%)/수속성 캐릭터의 방어력 **%UP ★처음 소환 시 모든 소환효과가 발동
 スノウホワイト,스노우 화이트
-"<span class=""txt-summon-level"">Lv ***</span> スノウホワイト","<span class=""txt-summon-level"">Lv ***</span> 스노우 화이트"
-"<span class=""txt-summon-level"">Lv **</span> スノウホワイト","<span class=""txt-summon-level"">Lv **</span> 스노우 화이트"
-"<span class=""txt-summon-level"">Lv *</span> スノウホワイト","<span class=""txt-summon-level"">Lv *</span> 스노우 화이트"
+"""<span class=""txt-summon-level"">Lv ***</span> スノウホワイト""","""<span class=""txt-summon-level"">Lv ***</span> 스노우 화이트"""
+"""<span class=""txt-summon-level"">Lv **</span> スノウホワイト""","""<span class=""txt-summon-level"">Lv **</span> 스노우 화이트"""
+"""<span class=""txt-summon-level"">Lv *</span> スノウホワイト""","""<span class=""txt-summon-level"">Lv *</span> 스노우 화이트"""
 アンクシャ,안크샤
-"<span class=""txt-summon-level"">Lv ***</span> アンクシャ","<span class=""txt-summon-level"">Lv ***</span> 안크샤"
-"<span class=""txt-summon-level"">Lv **</span> アンクシャ","<span class=""txt-summon-level"">Lv **</span> 안크샤"
-"<span class=""txt-summon-level"">Lv *</span> アンクシャ","<span class=""txt-summon-level"">Lv *</span> 안크샤"
+"""<span class=""txt-summon-level"">Lv ***</span> アンクシャ""","""<span class=""txt-summon-level"">Lv ***</span> 안크샤"""
+"""<span class=""txt-summon-level"">Lv **</span> アンクシャ""","""<span class=""txt-summon-level"">Lv **</span> 안크샤"""
+"""<span class=""txt-summon-level"">Lv *</span> アンクシャ""","""<span class=""txt-summon-level"">Lv *</span> 안크샤"""
 テスカトリポカ,테스카틀리포카
-"<span class=""txt-summon-level"">Lv ***</span> テスカトリポカ","<span class=""txt-summon-level"">Lv ***</span> 테스카틀리포카"
-"<span class=""txt-summon-level"">Lv **</span> テスカトリポカ","<span class=""txt-summon-level"">Lv **</span> 테스카틀리포카"
-"<span class=""txt-summon-level"">Lv *</span> テスカトリポカ","<span class=""txt-summon-level"">Lv *</span> 테스카틀리포카"
+"""<span class=""txt-summon-level"">Lv ***</span> テスカトリポカ""","""<span class=""txt-summon-level"">Lv ***</span> 테스카틀리포카"""
+"""<span class=""txt-summon-level"">Lv **</span> テスカトリポカ""","""<span class=""txt-summon-level"">Lv **</span> 테스카틀리포카"""
+"""<span class=""txt-summon-level"">Lv *</span> テスカトリポカ""","""<span class=""txt-summon-level"">Lv *</span> 테스카틀리포카"""
 シャインホーク･ガルラ,샤인 호크 가루라
-"<span class=""txt-summon-level"">Lv ***</span> シャインホーク･ガルラ","<span class=""txt-summon-level"">Lv ***</span> 샤인 호크 가루라"
-"<span class=""txt-summon-level"">Lv **</span> シャインホーク･ガルラ","<span class=""txt-summon-level"">Lv **</span> 샤인 호크 가루라"
-"<span class=""txt-summon-level"">Lv *</span> シャインホーク･ガルラ","<span class=""txt-summon-level"">Lv *</span> 샤인 호크 가루라"
+"""<span class=""txt-summon-level"">Lv ***</span> シャインホーク･ガルラ""","""<span class=""txt-summon-level"">Lv ***</span> 샤인 호크 가루라"""
+"""<span class=""txt-summon-level"">Lv **</span> シャインホーク･ガルラ""","""<span class=""txt-summon-level"">Lv **</span> 샤인 호크 가루라"""
+"""<span class=""txt-summon-level"">Lv *</span> シャインホーク･ガルラ""","""<span class=""txt-summon-level"">Lv *</span> 샤인 호크 가루라"""
 セト,세트
-"<span class=""txt-summon-level"">Lv ***</span> セト","<span class=""txt-summon-level"">Lv ***</span> 세트"
-"<span class=""txt-summon-level"">Lv **</span> セト","<span class=""txt-summon-level"">Lv **</span> 세트"
-"<span class=""txt-summon-level"">Lv *</span> セト","<span class=""txt-summon-level"">Lv *</span> 세트"
+"""<span class=""txt-summon-level"">Lv ***</span> セト""","""<span class=""txt-summon-level"">Lv ***</span> 세트"""
+"""<span class=""txt-summon-level"">Lv **</span> セト""","""<span class=""txt-summon-level"">Lv **</span> 세트"""
+"""<span class=""txt-summon-level"">Lv *</span> セト""","""<span class=""txt-summon-level"">Lv *</span> 세트"""
 アドラメレク,아드라멜렉
-"<span class=""txt-summon-level"">Lv ***</span> アドラメレク","<span class=""txt-summon-level"">Lv ***</span> 아드라멜렉"
-"<span class=""txt-summon-level"">Lv **</span> アドラメレク","<span class=""txt-summon-level"">Lv **</span> 아드라멜렉"
-"<span class=""txt-summon-level"">Lv *</span> アドラメレク","<span class=""txt-summon-level"">Lv *</span> 아드라멜렉"
+"""<span class=""txt-summon-level"">Lv ***</span> アドラメレク""","""<span class=""txt-summon-level"">Lv ***</span> 아드라멜렉"""
+"""<span class=""txt-summon-level"">Lv **</span> アドラメレク""","""<span class=""txt-summon-level"">Lv **</span> 아드라멜렉"""
+"""<span class=""txt-summon-level"">Lv *</span> アドラメレク""","""<span class=""txt-summon-level"">Lv *</span> 아드라멜렉"""
 アフロディーテ,아프로디테
-"<span class=""txt-summon-level"">Lv ***</span> アフロディーテ","<span class=""txt-summon-level"">Lv ***</span> 아프로디테"
-"<span class=""txt-summon-level"">Lv **</span> アフロディーテ","<span class=""txt-summon-level"">Lv **</span> 아프로디테"
-"<span class=""txt-summon-level"">Lv *</span> アフロディーテ","<span class=""txt-summon-level"">Lv *</span> 아프로디테"
+"""<span class=""txt-summon-level"">Lv ***</span> アフロディーテ""","""<span class=""txt-summon-level"">Lv ***</span> 아프로디테"""
+"""<span class=""txt-summon-level"">Lv **</span> アフロディーテ""","""<span class=""txt-summon-level"">Lv **</span> 아프로디테"""
+"""<span class=""txt-summon-level"">Lv *</span> アフロディーテ""","""<span class=""txt-summon-level"">Lv *</span> 아프로디테"""
 ナハト,나하트
-"<span class=""txt-summon-level"">Lv ***</span> ナハト","<span class=""txt-summon-level"">Lv ***</span> 나하트"
-"<span class=""txt-summon-level"">Lv **</span> ナハト","<span class=""txt-summon-level"">Lv **</span> 나하트"
-"<span class=""txt-summon-level"">Lv *</span> ナハト","<span class=""txt-summon-level"">Lv *</span> 나하트"
+"""<span class=""txt-summon-level"">Lv ***</span> ナハト""","""<span class=""txt-summon-level"">Lv ***</span> 나하트"""
+"""<span class=""txt-summon-level"">Lv **</span> ナハト""","""<span class=""txt-summon-level"">Lv **</span> 나하트"""
+"""<span class=""txt-summon-level"">Lv *</span> ナハト""","""<span class=""txt-summon-level"">Lv *</span> 나하트"""
 ツクヨミ,츠쿠요미
-"<span class=""txt-summon-level"">Lv ***</span> ツクヨミ","<span class=""txt-summon-level"">Lv ***</span> 츠쿠요미"
-"<span class=""txt-summon-level"">Lv **</span> ツクヨミ","<span class=""txt-summon-level"">Lv **</span> 츠쿠요미"
-"<span class=""txt-summon-level"">Lv *</span> ツクヨミ","<span class=""txt-summon-level"">Lv *</span> 츠쿠요미"
+"""<span class=""txt-summon-level"">Lv ***</span> ツクヨミ""","""<span class=""txt-summon-level"">Lv ***</span> 츠쿠요미"""
+"""<span class=""txt-summon-level"">Lv **</span> ツクヨミ""","""<span class=""txt-summon-level"">Lv **</span> 츠쿠요미"""
+"""<span class=""txt-summon-level"">Lv *</span> ツクヨミ""","""<span class=""txt-summon-level"">Lv *</span> 츠쿠요미"""
 
 !장군석
 [オプティマスシリーズ],[옵티머스 시리즈]
 
 アグニス,아그니스
-"<span class=""txt-summon-level"">Lv ***</span> アグニス","<span class=""txt-summon-level"">Lv ***</span> 아그니스"
-"<span class=""txt-summon-level"">Lv **</span> アグニス","<span class=""txt-summon-level"">Lv **</span> 아그니스"
-"<span class=""txt-summon-level"">Lv *</span> アグニス","<span class=""txt-summon-level"">Lv *</span> 아그니스"
+"""<span class=""txt-summon-level"">Lv ***</span> アグニス""","""<span class=""txt-summon-level"">Lv ***</span> 아그니스"""
+"""<span class=""txt-summon-level"">Lv **</span> アグニス""","""<span class=""txt-summon-level"">Lv **</span> 아그니스"""
+"""<span class=""txt-summon-level"">Lv *</span> アグニス""","""<span class=""txt-summon-level"">Lv *</span> 아그니스"""
 スキル「火」「業火」「紅蓮」の効果が***%UP,스킬 「불(火)」「업화(業火)」「홍련(紅蓮)」의 효과 ***%UP
 スキル「火」「業火」「紅蓮」の効果が**%UP,스킬 「불(火)」「업화(業火)」「홍련(紅蓮)」의 효과 **%UP
 ヴァルナ,바루나
-"<span class=""txt-summon-level"">Lv ***</span> ヴァルナ","<span class=""txt-summon-level"">Lv ***</span> 바루나"
-"<span class=""txt-summon-level"">Lv **</span> ヴァルナ","<span class=""txt-summon-level"">Lv **</span> 바루나"
-"<span class=""txt-summon-level"">Lv *</span> ヴァルナ","<span class=""txt-summon-level"">Lv *</span> 바루나"
+"""<span class=""txt-summon-level"">Lv ***</span> ヴァルナ""","""<span class=""txt-summon-level"">Lv ***</span> 바루나"""
+"""<span class=""txt-summon-level"">Lv **</span> ヴァルナ""","""<span class=""txt-summon-level"">Lv **</span> 바루나"""
+"""<span class=""txt-summon-level"">Lv *</span> ヴァルナ""","""<span class=""txt-summon-level"">Lv *</span> 바루나"""
 スキル「水」「渦潮」「霧氷」の効果が***%UP,스킬 「물(水)」「과조(渦潮)」「무빙(霧氷)」의 효과 ***%UP
 スキル「水」「渦潮」「霧氷」の効果が**%UP,스킬 「물(水)」「과조(渦潮)」「무빙(霧氷)」의 효과 **%UP
 ティターン,티탄
-"<span class=""txt-summon-level"">Lv ***</span> ティターン","<span class=""txt-summon-level"">Lv ***</span> 티탄"
-"<span class=""txt-summon-level"">Lv **</span> ティターン","<span class=""txt-summon-level"">Lv **</span> 티탄"
-"<span class=""txt-summon-level"">Lv *</span> ティターン","<span class=""txt-summon-level"">Lv *</span> 티탄"
+"""<span class=""txt-summon-level"">Lv ***</span> ティターン""","""<span class=""txt-summon-level"">Lv ***</span> 티탄"""
+"""<span class=""txt-summon-level"">Lv **</span> ティターン""","""<span class=""txt-summon-level"">Lv **</span> 티탄"""
+"""<span class=""txt-summon-level"">Lv *</span> ティターン""","""<span class=""txt-summon-level"">Lv *</span> 티탄"""
 スキル「土」「大地」「地裂」の効果が***%UP,스킬 「땅(土)」「대지(大地)」「지열(地裂)」의 효과 ***%UP
 スキル「土」「大地」「地裂」の効果が**%UP,스킬 「땅(土)」「대지(大地)」「지열(地裂)」의 효과 **%UP
 ゼピュロス,제퓨로스
-"<span class=""txt-summon-level"">Lv ***</span> ゼピュロス","<span class=""txt-summon-level"">Lv ***</span> 제퓨로스"
-"<span class=""txt-summon-level"">Lv **</span> ゼピュロス","<span class=""txt-summon-level"">Lv **</span> 제퓨로스"
-"<span class=""txt-summon-level"">Lv *</span> ゼピュロス","<span class=""txt-summon-level"">Lv *</span> 제퓨로스"
+"""<span class=""txt-summon-level"">Lv ***</span> ゼピュロス""","""<span class=""txt-summon-level"">Lv ***</span> 제퓨로스"""
+"""<span class=""txt-summon-level"">Lv **</span> ゼピュロス""","""<span class=""txt-summon-level"">Lv **</span> 제퓨로스"""
+"""<span class=""txt-summon-level"">Lv *</span> ゼピュロス""","""<span class=""txt-summon-level"">Lv *</span> 제퓨로스"""
 スキル「風」「竜巻」「乱気」の効果が***%UP,스킬 「바람(風)」「용권(竜巻)」「난기(乱気)」의 효과 ***%UP
 スキル「風」「竜巻」「乱気」の効果が**%UP,스킬 「바람(風)」「용권(竜巻)」「난기(乱気)」의 효과 **%UP
 ゼウス,제우스
-"<span class=""txt-summon-level"">Lv ***</span> ゼウス","<span class=""txt-summon-level"">Lv ***</span> 제우스"
-"<span class=""txt-summon-level"">Lv **</span> ゼウス","<span class=""txt-summon-level"">Lv **</span> 제우스"
-"<span class=""txt-summon-level"">Lv *</span> ゼウス","<span class=""txt-summon-level"">Lv *</span> 제우스"
+"""<span class=""txt-summon-level"">Lv ***</span> ゼウス""","""<span class=""txt-summon-level"">Lv ***</span> 제우스"""
+"""<span class=""txt-summon-level"">Lv **</span> ゼウス""","""<span class=""txt-summon-level"">Lv **</span> 제우스"""
+"""<span class=""txt-summon-level"">Lv *</span> ゼウス""","""<span class=""txt-summon-level"">Lv *</span> 제우스"""
 スキル「光」「雷電」「天光」の効果が***%UP,스킬 「빛(光)」「뇌전(雷電)」「천광(天光)」의 효과 ***%UP
 スキル「光」「雷電」「天光」の効果が**%UP,스킬 「빛(光)」「뇌전(雷電)」「천광(天光)」의 효과 **%UP
 ハデス,하데스
-"<span class=""txt-summon-level"">Lv ***</span> ハデス","<span class=""txt-summon-level"">Lv ***</span> 하데스"
-"<span class=""txt-summon-level"">Lv **</span> ハデス","<span class=""txt-summon-level"">Lv **</span> 하데스"
-"<span class=""txt-summon-level"">Lv *</span> ハデス","<span class=""txt-summon-level"">Lv *</span> 하데스"
+"""<span class=""txt-summon-level"">Lv ***</span> ハデス""","""<span class=""txt-summon-level"">Lv ***</span> 하데스"""
+"""<span class=""txt-summon-level"">Lv **</span> ハデス""","""<span class=""txt-summon-level"">Lv **</span> 하데스"""
+"""<span class=""txt-summon-level"">Lv *</span> ハデス""","""<span class=""txt-summon-level"">Lv *</span> 하데스"""
 スキル「闇」「憎悪」「奈落」の効果が***%UP,스킬 「어둠(闇)」「증오(憎悪)」「나락(奈落)」의 효과 ***%UP
 スキル「闇」「憎悪」「奈落」の効果が**%UP,스킬 「어둠(闇)」「증오(憎悪)」「나락(奈落)」의 효과 **%UP
 
 !속성공격력50UP
 
 アテナ,아테나
-"<span class=""txt-summon-level"">Lv ***</span> アテナ","<span class=""txt-summon-level"">Lv ***</span> 아테나"
-"<span class=""txt-summon-level"">Lv **</span> アテナ","<span class=""txt-summon-level"">Lv **</span> 아테나"
-"<span class=""txt-summon-level"">Lv *</span> アテナ","<span class=""txt-summon-level"">Lv *</span> 아테나"
+"""<span class=""txt-summon-level"">Lv ***</span> アテナ""","""<span class=""txt-summon-level"">Lv ***</span> 아테나"""
+"""<span class=""txt-summon-level"">Lv **</span> アテナ""","""<span class=""txt-summon-level"">Lv **</span> 아테나"""
+"""<span class=""txt-summon-level"">Lv *</span> アテナ""","""<span class=""txt-summon-level"">Lv *</span> 아테나"""
 マキュラ・マリウス,마큐라・마리우스
-"<span class=""txt-summon-level"">Lv ***</span> マキュラ・マリウス","<span class=""txt-summon-level"">Lv ***</span> 마큐라・마리우스"
-"<span class=""txt-summon-level"">Lv **</span> マキュラ・マリウス","<span class=""txt-summon-level"">Lv **</span> 마큐라・마리우스"
-"<span class=""txt-summon-level"">Lv *</span> マキュラ・マリウス","<span class=""txt-summon-level"">Lv *</span> 마큐라・마리우스"
+"""<span class=""txt-summon-level"">Lv ***</span> マキュラ・マリウス""","""<span class=""txt-summon-level"">Lv ***</span> 마큐라・마리우스"""
+"""<span class=""txt-summon-level"">Lv **</span> マキュラ・マリウス""","""<span class=""txt-summon-level"">Lv **</span> 마큐라・마리우스"""
+"""<span class=""txt-summon-level"">Lv *</span> マキュラ・マリウス""","""<span class=""txt-summon-level"">Lv *</span> 마큐라・마리우스"""
 ローズクイーン,로즈퀸
-"<span class=""txt-summon-level"">Lv ***</span> ローズクイーン","<span class=""txt-summon-level"">Lv ***</span> 로즈퀸"
-"<span class=""txt-summon-level"">Lv **</span> ローズクイーン","<span class=""txt-summon-level"">Lv **</span> 로즈퀸"
-"<span class=""txt-summon-level"">Lv *</span> ローズクイーン","<span class=""txt-summon-level"">Lv *</span> 로즈퀸"
+"""<span class=""txt-summon-level"">Lv ***</span> ローズクイーン""","""<span class=""txt-summon-level"">Lv ***</span> 로즈퀸"""
+"""<span class=""txt-summon-level"">Lv **</span> ローズクイーン""","""<span class=""txt-summon-level"">Lv **</span> 로즈퀸"""
+"""<span class=""txt-summon-level"">Lv *</span> ローズクイーン""","""<span class=""txt-summon-level"">Lv *</span> 로즈퀸"""
 メドゥーサ,메두사
-"<span class=""txt-summon-level"">Lv ***</span> メドゥーサ","<span class=""txt-summon-level"">Lv ***</span> 메두사"
-"<span class=""txt-summon-level"">Lv **</span> メドゥーサ","<span class=""txt-summon-level"">Lv **</span> 메두사"
-"<span class=""txt-summon-level"">Lv *</span> メドゥーサ","<span class=""txt-summon-level"">Lv *</span> 메두사"
+"""<span class=""txt-summon-level"">Lv ***</span> メドゥーサ""","""<span class=""txt-summon-level"">Lv ***</span> 메두사"""
+"""<span class=""txt-summon-level"">Lv **</span> メドゥーサ""","""<span class=""txt-summon-level"">Lv **</span> 메두사"""
+"""<span class=""txt-summon-level"">Lv *</span> メドゥーサ""","""<span class=""txt-summon-level"">Lv *</span> 메두사"""
 アポロン,아폴론
-"<span class=""txt-summon-level"">Lv ***</span> アポロン","<span class=""txt-summon-level"">Lv ***</span> 아폴론"
-"<span class=""txt-summon-level"">Lv **</span> アポロン","<span class=""txt-summon-level"">Lv **</span> 아폴론"
-"<span class=""txt-summon-level"">Lv *</span> アポロン","<span class=""txt-summon-level"">Lv *</span> 아폴론"
+"""<span class=""txt-summon-level"">Lv ***</span> アポロン""","""<span class=""txt-summon-level"">Lv ***</span> 아폴론"""
+"""<span class=""txt-summon-level"">Lv **</span> アポロン""","""<span class=""txt-summon-level"">Lv **</span> 아폴론"""
+"""<span class=""txt-summon-level"">Lv *</span> アポロン""","""<span class=""txt-summon-level"">Lv *</span> 아폴론"""
 オーディン,오딘
-"<span class=""txt-summon-level"">Lv ***</span> オーディン","<span class=""txt-summon-level"">Lv ***</span> 오딘"
-"<span class=""txt-summon-level"">Lv **</span> オーディン","<span class=""txt-summon-level"">Lv **</span> 오딘"
-"<span class=""txt-summon-level"">Lv *</span> オーディン","<span class=""txt-summon-level"">Lv *</span> 오딘"
+"""<span class=""txt-summon-level"">Lv ***</span> オーディン""","""<span class=""txt-summon-level"">Lv ***</span> 오딘"""
+"""<span class=""txt-summon-level"">Lv **</span> オーディン""","""<span class=""txt-summon-level"">Lv **</span> 오딘"""
+"""<span class=""txt-summon-level"">Lv *</span> オーディン""","""<span class=""txt-summon-level"">Lv *</span> 오딘"""
 
 !천사
 
 ハールート・マールート,하루트・마루트
-"<span class=""txt-summon-level"">Lv ***</span> ハールート・マールート","<span class=""txt-summon-level"">Lv ***</span> 하루트・마루트"
-"<span class=""txt-summon-level"">Lv **</span> ハールート・マールート","<span class=""txt-summon-level"">Lv **</span> 하루트・마루트"
-"<span class=""txt-summon-level"">Lv *</span> ハールート・マールート","<span class=""txt-summon-level"">Lv *</span> 하루트・마루트"
-"<span class=""txt-summon-level"">Lv ***</span> ミカエル","<span class=""txt-summon-level"">Lv ***</span> 미카엘"
-"<span class=""txt-summon-level"">Lv **</span> ミカエル","<span class=""txt-summon-level"">Lv **</span> 미카엘"
-"<span class=""txt-summon-level"">Lv *</span> ミカエル","<span class=""txt-summon-level"">Lv *</span> 미카엘"
-"<span class=""txt-summon-level"">Lv ***</span> ガブリエル","<span class=""txt-summon-level"">Lv ***</span> 가브리엘"
-"<span class=""txt-summon-level"">Lv **</span> ガブリエル","<span class=""txt-summon-level"">Lv **</span> 가브리엘"
-"<span class=""txt-summon-level"">Lv *</span> ガブリエル","<span class=""txt-summon-level"">Lv *</span> 가브리엘"
-"<span class=""txt-summon-level"">Lv ***</span> ウリエル","<span class=""txt-summon-level"">Lv ***</span> 우리엘"
-"<span class=""txt-summon-level"">Lv **</span> ウリエル","<span class=""txt-summon-level"">Lv **</span> 우리엘"
-"<span class=""txt-summon-level"">Lv *</span> ウリエル","<span class=""txt-summon-level"">Lv *</span> 우리엘"
-"<span class=""txt-summon-level"">Lv ***</span> ラファエル","<span class=""txt-summon-level"">Lv ***</span> 라파엘"
-"<span class=""txt-summon-level"">Lv **</span> ラファエル","<span class=""txt-summon-level"">Lv **</span> 라파엘"
-"<span class=""txt-summon-level"">Lv *</span> ラファエル","<span class=""txt-summon-level"">Lv *</span> 라파엘"
-"<span class=""txt-summon-level"">Lv ***</span> メタトロン","<span class=""txt-summon-level"">Lv ***</span> 메타트론"
-"<span class=""txt-summon-level"">Lv **</span> メタトロン","<span class=""txt-summon-level"">Lv **</span> 메타트론"
-"<span class=""txt-summon-level"">Lv *</span> メタトロン","<span class=""txt-summon-level"">Lv *</span> 메타트론"
-"<span class=""txt-summon-level"">Lv ***</span> サリエル","<span class=""txt-summon-level"">Lv ***</span> 사리엘"
-"<span class=""txt-summon-level"">Lv **</span> サリエル","<span class=""txt-summon-level"">Lv **</span> 사리엘"
-"<span class=""txt-summon-level"">Lv *</span> サリエル","<span class=""txt-summon-level"">Lv *</span> 사리엘"
+"""<span class=""txt-summon-level"">Lv ***</span> ハールート・マールート""","""<span class=""txt-summon-level"">Lv ***</span> 하루트・마루트"""
+"""<span class=""txt-summon-level"">Lv **</span> ハールート・マールート""","""<span class=""txt-summon-level"">Lv **</span> 하루트・마루트"""
+"""<span class=""txt-summon-level"">Lv *</span> ハールート・マールート""","""<span class=""txt-summon-level"">Lv *</span> 하루트・마루트"""
+"""<span class=""txt-summon-level"">Lv ***</span> ミカエル""","""<span class=""txt-summon-level"">Lv ***</span> 미카엘"""
+"""<span class=""txt-summon-level"">Lv **</span> ミカエル""","""<span class=""txt-summon-level"">Lv **</span> 미카엘"""
+"""<span class=""txt-summon-level"">Lv *</span> ミカエル""","""<span class=""txt-summon-level"">Lv *</span> 미카엘"""
+"""<span class=""txt-summon-level"">Lv ***</span> ガブリエル""","""<span class=""txt-summon-level"">Lv ***</span> 가브리엘"""
+"""<span class=""txt-summon-level"">Lv **</span> ガブリエル""","""<span class=""txt-summon-level"">Lv **</span> 가브리엘"""
+"""<span class=""txt-summon-level"">Lv *</span> ガブリエル""","""<span class=""txt-summon-level"">Lv *</span> 가브리엘"""
+"""<span class=""txt-summon-level"">Lv ***</span> ウリエル""","""<span class=""txt-summon-level"">Lv ***</span> 우리엘"""
+"""<span class=""txt-summon-level"">Lv **</span> ウリエル""","""<span class=""txt-summon-level"">Lv **</span> 우리엘"""
+"""<span class=""txt-summon-level"">Lv *</span> ウリエル""","""<span class=""txt-summon-level"">Lv *</span> 우리엘"""
+"""<span class=""txt-summon-level"">Lv ***</span> ラファエル""","""<span class=""txt-summon-level"">Lv ***</span> 라파엘"""
+"""<span class=""txt-summon-level"">Lv **</span> ラファエル""","""<span class=""txt-summon-level"">Lv **</span> 라파엘"""
+"""<span class=""txt-summon-level"">Lv *</span> ラファエル""","""<span class=""txt-summon-level"">Lv *</span> 라파엘"""
+"""<span class=""txt-summon-level"">Lv ***</span> メタトロン""","""<span class=""txt-summon-level"">Lv ***</span> 메타트론"""
+"""<span class=""txt-summon-level"">Lv **</span> メタトロン""","""<span class=""txt-summon-level"">Lv **</span> 메타트론"""
+"""<span class=""txt-summon-level"">Lv *</span> メタトロン""","""<span class=""txt-summon-level"">Lv *</span> 메타트론"""
+"""<span class=""txt-summon-level"">Lv ***</span> サリエル""","""<span class=""txt-summon-level"">Lv ***</span> 사리엘"""
+"""<span class=""txt-summon-level"">Lv **</span> サリエル""","""<span class=""txt-summon-level"">Lv **</span> 사리엘"""
+"""<span class=""txt-summon-level"">Lv *</span> サリエル""","""<span class=""txt-summon-level"">Lv *</span> 사리엘"""
 
 !2속성공격력60UP
 
 オケアノス,오케아노스
-"<span class=""txt-summon-level"">Lv ***</span> オケアノス","<span class=""txt-summon-level"">Lv ***</span> 오케아노스"
-"<span class=""txt-summon-level"">Lv **</span> オケアノス","<span class=""txt-summon-level"">Lv **</span> 오케아노스"
-"<span class=""txt-summon-level"">Lv *</span> オケアノス","<span class=""txt-summon-level"">Lv *</span> 오케아노스"
+"""<span class=""txt-summon-level"">Lv ***</span> オケアノス""","""<span class=""txt-summon-level"">Lv ***</span> 오케아노스"""
+"""<span class=""txt-summon-level"">Lv **</span> オケアノス""","""<span class=""txt-summon-level"">Lv **</span> 오케아노스"""
+"""<span class=""txt-summon-level"">Lv *</span> オケアノス""","""<span class=""txt-summon-level"">Lv *</span> 오케아노스"""
 バアル,바알
-"<span class=""txt-summon-level"">Lv ***</span> バアル","<span class=""txt-summon-level"">Lv ***</span> 바알"
-"<span class=""txt-summon-level"">Lv **</span> バアル","<span class=""txt-summon-level"">Lv **</span> 바알"
-"<span class=""txt-summon-level"">Lv *</span> バアル","<span class=""txt-summon-level"">Lv *</span> 바알"
+"""<span class=""txt-summon-level"">Lv ***</span> バアル""","""<span class=""txt-summon-level"">Lv ***</span> 바알"""
+"""<span class=""txt-summon-level"">Lv **</span> バアル""","""<span class=""txt-summon-level"">Lv **</span> 바알"""
+"""<span class=""txt-summon-level"">Lv *</span> バアル""","""<span class=""txt-summon-level"">Lv *</span> 바알"""
 ナタク,나타쿠
-"<span class=""txt-summon-level"">Lv ***</span> ナタク","<span class=""txt-summon-level"">Lv ***</span> 나타쿠"
-"<span class=""txt-summon-level"">Lv **</span> ナタク","<span class=""txt-summon-level"">Lv **</span> 나타쿠"
-"<span class=""txt-summon-level"">Lv *</span> ナタク","<span class=""txt-summon-level"">Lv *</span> 나타쿠"
+"""<span class=""txt-summon-level"">Lv ***</span> ナタク""","""<span class=""txt-summon-level"">Lv ***</span> 나타쿠"""
+"""<span class=""txt-summon-level"">Lv **</span> ナタク""","""<span class=""txt-summon-level"">Lv **</span> 나타쿠"""
+"""<span class=""txt-summon-level"">Lv *</span> ナタク""","""<span class=""txt-summon-level"">Lv *</span> 나타쿠"""
 ケツァルカトル,케찰코아틀
-"<span class=""txt-summon-level"">Lv ***</span> ケツァルカトル","<span class=""txt-summon-level"">Lv ***</span> 케찰코아틀"
-"<span class=""txt-summon-level"">Lv **</span> ケツァルカトル","<span class=""txt-summon-level"">Lv **</span> 케찰코아틀"
-"<span class=""txt-summon-level"">Lv *</span> ケツァルカトル","<span class=""txt-summon-level"">Lv *</span> 케찰코아틀"
+"""<span class=""txt-summon-level"">Lv ***</span> ケツァルカトル""","""<span class=""txt-summon-level"">Lv ***</span> 케찰코아틀"""
+"""<span class=""txt-summon-level"">Lv **</span> ケツァルカトル""","""<span class=""txt-summon-level"">Lv **</span> 케찰코아틀"""
+"""<span class=""txt-summon-level"">Lv *</span> ケツァルカトル""","""<span class=""txt-summon-level"">Lv *</span> 케찰코아틀"""
 セイレーン,세이렌
-"<span class=""txt-summon-level"">Lv ***</span> セイレーン","<span class=""txt-summon-level"">Lv ***</span> 세이렌"
-"<span class=""txt-summon-level"">Lv **</span> セイレーン","<span class=""txt-summon-level"">Lv **</span> 세이렌"
-"<span class=""txt-summon-level"">Lv *</span> セイレーン","<span class=""txt-summon-level"">Lv *</span> 세이렌"
+"""<span class=""txt-summon-level"">Lv ***</span> セイレーン""","""<span class=""txt-summon-level"">Lv ***</span> 세이렌"""
+"""<span class=""txt-summon-level"">Lv **</span> セイレーン""","""<span class=""txt-summon-level"">Lv **</span> 세이렌"""
+"""<span class=""txt-summon-level"">Lv *</span> セイレーン""","""<span class=""txt-summon-level"">Lv *</span> 세이렌"""
 雷霆公,뇌정공
-"<span class=""txt-summon-level"">Lv ***</span> 雷霆公","<span class=""txt-summon-level"">Lv ***</span> 뇌정공"
-"<span class=""txt-summon-level"">Lv **</span> 雷霆公","<span class=""txt-summon-level"">Lv **</span> 뇌정공"
-"<span class=""txt-summon-level"">Lv *</span> 雷霆公","<span class=""txt-summon-level"">Lv *</span> 뇌정공"
+"""<span class=""txt-summon-level"">Lv ***</span> 雷霆公""","""<span class=""txt-summon-level"">Lv ***</span> 뇌정공"""
+"""<span class=""txt-summon-level"">Lv **</span> 雷霆公""","""<span class=""txt-summon-level"">Lv **</span> 뇌정공"""
+"""<span class=""txt-summon-level"">Lv *</span> 雷霆公""","""<span class=""txt-summon-level"">Lv *</span> 뇌정공"""
 サタン,사탄
-"<span class=""txt-summon-level"">Lv ***</span> サタン","<span class=""txt-summon-level"">Lv ***</span> 사탄"
-"<span class=""txt-summon-level"">Lv **</span> サタン","<span class=""txt-summon-level"">Lv **</span> 사탄"
-"<span class=""txt-summon-level"">Lv *</span> サタン","<span class=""txt-summon-level"">Lv *</span> 사탄"
+"""<span class=""txt-summon-level"">Lv ***</span> サタン""","""<span class=""txt-summon-level"">Lv ***</span> 사탄"""
+"""<span class=""txt-summon-level"">Lv **</span> サタン""","""<span class=""txt-summon-level"">Lv **</span> 사탄"""
+"""<span class=""txt-summon-level"">Lv *</span> サタン""","""<span class=""txt-summon-level"">Lv *</span> 사탄"""
 リッチ,리치
-"<span class=""txt-summon-level"">Lv ***</span> リッチ","<span class=""txt-summon-level"">Lv ***</span> 리치"
-"<span class=""txt-summon-level"">Lv **</span> リッチ","<span class=""txt-summon-level"">Lv **</span> 리치"
-"<span class=""txt-summon-level"">Lv *</span> リッチ","<span class=""txt-summon-level"">Lv *</span> 리치"
+"""<span class=""txt-summon-level"">Lv ***</span> リッチ""","""<span class=""txt-summon-level"">Lv ***</span> 리치"""
+"""<span class=""txt-summon-level"">Lv **</span> リッチ""","""<span class=""txt-summon-level"">Lv **</span> 리치"""
+"""<span class=""txt-summon-level"">Lv *</span> リッチ""","""<span class=""txt-summon-level"">Lv *</span> 리치"""
 
 
 !기타
 
-"<span class=""txt-summon-level"">Lv ***</span> フラム＝グラス","<span class=""txt-summon-level"">Lv ***</span> 프람=그라스"
-"<span class=""txt-summon-level"">Lv **</span> フラム＝グラス","<span class=""txt-summon-level"">Lv **</span> 프람=그라스"
-"<span class=""txt-summon-level"">Lv *</span> フラム＝グラス","<span class=""txt-summon-level"">Lv *</span> 프람=그라스"
-"<span class=""txt-summon-level"">Lv ***</span> グラニ","<span class=""txt-summon-level"">Lv ***</span> 그라니"
-"<span class=""txt-summon-level"">Lv **</span> グラニ","<span class=""txt-summon-level"">Lv **</span> 그라니"
-"<span class=""txt-summon-level"">Lv *</span> グラニ","<span class=""txt-summon-level"">Lv *</span> 그라니"
-"<span class=""txt-summon-level"">Lv ***</span> ガルーダ","<span class=""txt-summon-level"">Lv ***</span> 가루다"
-"<span class=""txt-summon-level"">Lv **</span> ガルーダ","<span class=""txt-summon-level"">Lv **</span> 가루다"
-"<span class=""txt-summon-level"">Lv *</span> ガルーダ","<span class=""txt-summon-level"">Lv *</span> 가루다"
-"<span class=""txt-summon-level"">Lv ***</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv ***</span> 다크엔젤・올리비에"
-"<span class=""txt-summon-level"">Lv **</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv **</span> 다크엔젤・올리비에"
-"<span class=""txt-summon-level"">Lv *</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv *</span> 다크엔젤・올리비에"
+"""<span class=""txt-summon-level"">Lv ***</span> フラム＝グラス""","""<span class=""txt-summon-level"">Lv ***</span> 프람=그라스"""
+"""<span class=""txt-summon-level"">Lv **</span> フラム＝グラス""","""<span class=""txt-summon-level"">Lv **</span> 프람=그라스"""
+"""<span class=""txt-summon-level"">Lv *</span> フラム＝グラス""","""<span class=""txt-summon-level"">Lv *</span> 프람=그라스"""
+"""<span class=""txt-summon-level"">Lv ***</span> グラニ""","""<span class=""txt-summon-level"">Lv ***</span> 그라니"""
+"""<span class=""txt-summon-level"">Lv **</span> グラニ""","""<span class=""txt-summon-level"">Lv **</span> 그라니"""
+"""<span class=""txt-summon-level"">Lv *</span> グラニ""","""<span class=""txt-summon-level"">Lv *</span> 그라니"""
+"""<span class=""txt-summon-level"">Lv ***</span> ガルーダ""","""<span class=""txt-summon-level"">Lv ***</span> 가루다"""
+"""<span class=""txt-summon-level"">Lv **</span> ガルーダ""","""<span class=""txt-summon-level"">Lv **</span> 가루다"""
+"""<span class=""txt-summon-level"">Lv *</span> ガルーダ""","""<span class=""txt-summon-level"">Lv *</span> 가루다"""
+"""<span class=""txt-summon-level"">Lv ***</span> Dエンジェル・オリヴィエ""","""<span class=""txt-summon-level"">Lv ***</span> 다크엔젤・올리비에"""
+"""<span class=""txt-summon-level"">Lv **</span> Dエンジェル・オリヴィエ""","""<span class=""txt-summon-level"">Lv **</span> 다크엔젤・올리비에"""
+"""<span class=""txt-summon-level"">Lv *</span> Dエンジェル・オリヴィエ""","""<span class=""txt-summon-level"">Lv *</span> 다크엔젤・올리비에"""
 
 !종말신기소환석
 
-"<span class=""txt-summon-level"">Lv ***</span> スルト","<span class=""txt-summon-level"">Lv ***</span> 수르트"
-"<span class=""txt-summon-level"">Lv **</span> スルト","<span class=""txt-summon-level"">Lv **</span> 수르트"
-"<span class=""txt-summon-level"">Lv *</span> スルト","<span class=""txt-summon-level"">Lv *</span> 수르트"
-"<span class=""txt-summon-level"">Lv ***</span> 竜吉公主","<span class=""txt-summon-level"">Lv ***</span> 용길공주"
-"<span class=""txt-summon-level"">Lv **</span> 竜吉公主","<span class=""txt-summon-level"">Lv **</span> 용길공주"
-"<span class=""txt-summon-level"">Lv *</span> 竜吉公主","<span class=""txt-summon-level"">Lv *</span> 용길공주"
-"<span class=""txt-summon-level"">Lv ***</span> ドグー","<span class=""txt-summon-level"">Lv ***</span> 토우"
-"<span class=""txt-summon-level"">Lv **</span> ドグー","<span class=""txt-summon-level"">Lv **</span> 토우"
-"<span class=""txt-summon-level"">Lv *</span> ドグー","<span class=""txt-summon-level"">Lv *</span> 토우"
-"<span class=""txt-summon-level"">Lv ***</span> エッリル","<span class=""txt-summon-level"">Lv ***</span> 엣릴"
-"<span class=""txt-summon-level"">Lv **</span> エッリル","<span class=""txt-summon-level"">Lv **</span> 엣릴"
-"<span class=""txt-summon-level"">Lv *</span> エッリル","<span class=""txt-summon-level"">Lv *</span> 엣릴"
-"<span class=""txt-summon-level"">Lv ***</span> ヘイムダル","<span class=""txt-summon-level"">Lv ***</span> 헤임달"
-"<span class=""txt-summon-level"">Lv **</span> ヘイムダル","<span class=""txt-summon-level"">Lv **</span> 헤임달"
-"<span class=""txt-summon-level"">Lv *</span> ヘイムダル","<span class=""txt-summon-level"">Lv *</span> 헤임달"
-"<span class=""txt-summon-level"">Lv ***</span> ナイアルラトホテップ","<span class=""txt-summon-level"">Lv ***</span> 니알라토텝"
-"<span class=""txt-summon-level"">Lv **</span> ナイアルラトホテップ","<span class=""txt-summon-level"">Lv **</span> 니알라토텝"
-"<span class=""txt-summon-level"">Lv *</span> ナイアルラトホテップ","<span class=""txt-summon-level"">Lv *</span> 니알라토텝"
+"""<span class=""txt-summon-level"">Lv ***</span> スルト""","""<span class=""txt-summon-level"">Lv ***</span> 수르트"""
+"""<span class=""txt-summon-level"">Lv **</span> スルト""","""<span class=""txt-summon-level"">Lv **</span> 수르트"""
+"""<span class=""txt-summon-level"">Lv *</span> スルト""","""<span class=""txt-summon-level"">Lv *</span> 수르트"""
+"""<span class=""txt-summon-level"">Lv ***</span> 竜吉公主""","""<span class=""txt-summon-level"">Lv ***</span> 용길공주"""
+"""<span class=""txt-summon-level"">Lv **</span> 竜吉公主""","""<span class=""txt-summon-level"">Lv **</span> 용길공주"""
+"""<span class=""txt-summon-level"">Lv *</span> 竜吉公主""","""<span class=""txt-summon-level"">Lv *</span> 용길공주"""
+"""<span class=""txt-summon-level"">Lv ***</span> ドグー""","""<span class=""txt-summon-level"">Lv ***</span> 토우"""
+"""<span class=""txt-summon-level"">Lv **</span> ドグー""","""<span class=""txt-summon-level"">Lv **</span> 토우"""
+"""<span class=""txt-summon-level"">Lv *</span> ドグー""","""<span class=""txt-summon-level"">Lv *</span> 토우"""
+"""<span class=""txt-summon-level"">Lv ***</span> エッリル""","""<span class=""txt-summon-level"">Lv ***</span> 엣릴"""
+"""<span class=""txt-summon-level"">Lv **</span> エッリル""","""<span class=""txt-summon-level"">Lv **</span> 엣릴"""
+"""<span class=""txt-summon-level"">Lv *</span> エッリル""","""<span class=""txt-summon-level"">Lv *</span> 엣릴"""
+"""<span class=""txt-summon-level"">Lv ***</span> ヘイムダル""","""<span class=""txt-summon-level"">Lv ***</span> 헤임달"""
+"""<span class=""txt-summon-level"">Lv **</span> ヘイムダル""","""<span class=""txt-summon-level"">Lv **</span> 헤임달"""
+"""<span class=""txt-summon-level"">Lv *</span> ヘイムダル""","""<span class=""txt-summon-level"">Lv *</span> 헤임달"""
+"""<span class=""txt-summon-level"">Lv ***</span> ナイアルラトホテップ""","""<span class=""txt-summon-level"">Lv ***</span> 니알라토텝"""
+"""<span class=""txt-summon-level"">Lv **</span> ナイアルラトホテップ""","""<span class=""txt-summon-level"">Lv **</span> 니알라토텝"""
+"""<span class=""txt-summon-level"">Lv *</span> ナイアルラトホテップ""","""<span class=""txt-summon-level"">Lv *</span> 니알라토텝"""
 
 !수영복
 
 サテュロス,사튀로스
-"<span class=""txt-summon-level"">Lv ***</span> サテュロス","<span class=""txt-summon-level"">Lv ***</span> 사튀로스"
-"<span class=""txt-summon-level"">Lv **</span> サテュロス","<span class=""txt-summon-level"">Lv **</span> 사튀로스"
-"<span class=""txt-summon-level"">Lv *</span> サテュロス","<span class=""txt-summon-level"">Lv *</span> 사튀로스"
+"""<span class=""txt-summon-level"">Lv ***</span> サテュロス""","""<span class=""txt-summon-level"">Lv ***</span> 사튀로스"""
+"""<span class=""txt-summon-level"">Lv **</span> サテュロス""","""<span class=""txt-summon-level"">Lv **</span> 사튀로스"""
+"""<span class=""txt-summon-level"">Lv *</span> サテュロス""","""<span class=""txt-summon-level"">Lv *</span> 사튀로스"""
 マキュラ･マリウス,마큐라・마리우스
-"<span class=""txt-summon-level"">Lv ***</span> マキュラ･マリウス","<span class=""txt-summon-level"">Lv ***</span> 마큐라・마리우스"
-"<span class=""txt-summon-level"">Lv **</span> マキュラ･マリウス","<span class=""txt-summon-level"">Lv **</span> 마큐라・마리우스"
-"<span class=""txt-summon-level"">Lv *</span> マキュラ･マリウス","<span class=""txt-summon-level"">Lv *</span> 마큐라・마리우스"
+"""<span class=""txt-summon-level"">Lv ***</span> マキュラ･マリウス""","""<span class=""txt-summon-level"">Lv ***</span> 마큐라・마리우스"""
+"""<span class=""txt-summon-level"">Lv **</span> マキュラ･マリウス""","""<span class=""txt-summon-level"">Lv **</span> 마큐라・마리우스"""
+"""<span class=""txt-summon-level"">Lv *</span> マキュラ･マリウス""","""<span class=""txt-summon-level"">Lv *</span> 마큐라・마리우스"""
 ユグドラシル,유그드라실
-"<span class=""txt-summon-level"">Lv ***</span> ユグドラシル","<span class=""txt-summon-level"">Lv ***</span> 유그드라실"
-"<span class=""txt-summon-level"">Lv **</span> ユグドラシル","<span class=""txt-summon-level"">Lv **</span> 유그드라실"
-"<span class=""txt-summon-level"">Lv *</span> ユグドラシル","<span class=""txt-summon-level"">Lv *</span> 유그드라실"
+"""<span class=""txt-summon-level"">Lv ***</span> ユグドラシル""","""<span class=""txt-summon-level"">Lv ***</span> 유그드라실"""
+"""<span class=""txt-summon-level"">Lv **</span> ユグドラシル""","""<span class=""txt-summon-level"">Lv **</span> 유그드라실"""
+"""<span class=""txt-summon-level"">Lv *</span> ユグドラシル""","""<span class=""txt-summon-level"">Lv *</span> 유그드라실"""
 ローズクイーン,로즈퀸
-"<span class=""txt-summon-level"">Lv ***</span> ローズクイーン","<span class=""txt-summon-level"">Lv ***</span> 로즈퀸"
-"<span class=""txt-summon-level"">Lv **</span> ローズクイーン","<span class=""txt-summon-level"">Lv **</span> 로즈퀸"
-"<span class=""txt-summon-level"">Lv *</span> ローズクイーン","<span class=""txt-summon-level"">Lv *</span> 로즈퀸"
+"""<span class=""txt-summon-level"">Lv ***</span> ローズクイーン""","""<span class=""txt-summon-level"">Lv ***</span> 로즈퀸"""
+"""<span class=""txt-summon-level"">Lv **</span> ローズクイーン""","""<span class=""txt-summon-level"">Lv **</span> 로즈퀸"""
+"""<span class=""txt-summon-level"">Lv *</span> ローズクイーン""","""<span class=""txt-summon-level"">Lv *</span> 로즈퀸"""
 
 !듀나미스
 
-"<span class=""txt-summon-level"">Lv ***</span> カグヤ","<span class=""txt-summon-level"">Lv ***</span> 카구야"
-"<span class=""txt-summon-level"">Lv **</span> カグヤ","<span class=""txt-summon-level"">Lv **</span> 카구야"
-"<span class=""txt-summon-level"">Lv *</span> カグヤ","<span class=""txt-summon-level"">Lv *</span> 카구야"
+"""<span class=""txt-summon-level"">Lv ***</span> カグヤ""","""<span class=""txt-summon-level"">Lv ***</span> 카구야"""
+"""<span class=""txt-summon-level"">Lv **</span> カグヤ""","""<span class=""txt-summon-level"">Lv **</span> 카구야"""
+"""<span class=""txt-summon-level"">Lv *</span> カグヤ""","""<span class=""txt-summon-level"">Lv *</span> 카구야"""
 パーティ全体に自動復活効果(*回)/バトルメンバーのHPが少ないほどダブルアタック確率UP/アイテムドロップ率が**%UP,파티원 모두에게 자동부활효과(*회)/배틀 멤버의 HP가 적을수록 더블 어택 확률 UP/아이템 드랍률 **%UP
 パーティ全体に自動復活効果(*回)/連続攻撃確率UP/アイテムドロップ率と獲得経験値が**%UP,파티원 모두에게 자동부활효과(*회)/연속공격확률UP/아이템 드랍률과 경험치 획득량 **%UP
 
 ジ・オーダー・グランデ,디 오더 그랑데
-"<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv ***</span> 디 오더 그랑데"
-"<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv **</span> 디 오더 그랑데"
-"<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv *</span> 디 오더 그랑데"
+"""<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ""","""<span class=""txt-summon-level"">Lv ***</span> 디 오더 그랑데"""
+"""<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ""","""<span class=""txt-summon-level"">Lv **</span> 디 오더 그랑데"""
+"""<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ""","""<span class=""txt-summon-level"">Lv *</span> 디 오더 그랑데"""
 バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP/防御力**%UP,베틀멤버의 속성이 *종류 이상이면 공격력***%UP/방어력**%UP
 
 
 !캐릭터공격력30
 
 サテュロス,사튀로스
-"<span class=""txt-summon-level"">Lv ***</span> サテュロス","<span class=""txt-summon-level"">Lv ***</span> 사튀로스"
-"<span class=""txt-summon-level"">Lv **</span> サテュロス","<span class=""txt-summon-level"">Lv **</span> 사튀로스"
-"<span class=""txt-summon-level"">Lv *</span> サテュロス","<span class=""txt-summon-level"">Lv *</span> 사튀로스"
+"""<span class=""txt-summon-level"">Lv ***</span> サテュロス""","""<span class=""txt-summon-level"">Lv ***</span> 사튀로스"""
+"""<span class=""txt-summon-level"">Lv **</span> サテュロス""","""<span class=""txt-summon-level"">Lv **</span> 사튀로스"""
+"""<span class=""txt-summon-level"">Lv *</span> サテュロス""","""<span class=""txt-summon-level"">Lv *</span> 사튀로스"""
 ネプチューン,넵튠
-"<span class=""txt-summon-level"">Lv ***</span> ネプチューン","<span class=""txt-summon-level"">Lv ***</span> 넵튠"
-"<span class=""txt-summon-level"">Lv **</span> ネプチューン","<span class=""txt-summon-level"">Lv **</span> 넵튠"
-"<span class=""txt-summon-level"">Lv *</span> ネプチューン","<span class=""txt-summon-level"">Lv *</span> 넵튠"
+"""<span class=""txt-summon-level"">Lv ***</span> ネプチューン""","""<span class=""txt-summon-level"">Lv ***</span> 넵튠"""
+"""<span class=""txt-summon-level"">Lv **</span> ネプチューン""","""<span class=""txt-summon-level"">Lv **</span> 넵튠"""
+"""<span class=""txt-summon-level"">Lv *</span> ネプチューン""","""<span class=""txt-summon-level"">Lv *</span> 넵튠"""
 キュベレー,퀴벨레
-"<span class=""txt-summon-level"">Lv ***</span> キュベレー","<span class=""txt-summon-level"">Lv ***</span> 퀴벨레"
-"<span class=""txt-summon-level"">Lv **</span> キュベレー","<span class=""txt-summon-level"">Lv **</span> 퀴벨레"
-"<span class=""txt-summon-level"">Lv *</span> キュベレー","<span class=""txt-summon-level"">Lv *</span> 퀴벨레"
+"""<span class=""txt-summon-level"">Lv ***</span> キュベレー""","""<span class=""txt-summon-level"">Lv ***</span> 퀴벨레"""
+"""<span class=""txt-summon-level"">Lv **</span> キュベレー""","""<span class=""txt-summon-level"">Lv **</span> 퀴벨레"""
+"""<span class=""txt-summon-level"">Lv *</span> キュベレー""","""<span class=""txt-summon-level"">Lv *</span> 퀴벨레"""
 フレイ,프레이
-"<span class=""txt-summon-level"">Lv ***</span> フレイ","<span class=""txt-summon-level"">Lv ***</span> 프레이"
-"<span class=""txt-summon-level"">Lv **</span> フレイ","<span class=""txt-summon-level"">Lv **</span> 프레이"
-"<span class=""txt-summon-level"">Lv *</span> フレイ","<span class=""txt-summon-level"">Lv *</span> 프레이"
+"""<span class=""txt-summon-level"">Lv ***</span> フレイ""","""<span class=""txt-summon-level"">Lv ***</span> 프레이"""
+"""<span class=""txt-summon-level"">Lv **</span> フレイ""","""<span class=""txt-summon-level"">Lv **</span> 프레이"""
+"""<span class=""txt-summon-level"">Lv *</span> フレイ""","""<span class=""txt-summon-level"">Lv *</span> 프레이"""
 トール,토르
-"<span class=""txt-summon-level"">Lv ***</span> トール","<span class=""txt-summon-level"">Lv ***</span> 토르"
-"<span class=""txt-summon-level"">Lv **</span> トール","<span class=""txt-summon-level"">Lv **</span> 토르"
-"<span class=""txt-summon-level"">Lv *</span> トール","<span class=""txt-summon-level"">Lv *</span> 토르"
+"""<span class=""txt-summon-level"">Lv ***</span> トール""","""<span class=""txt-summon-level"">Lv ***</span> 토르"""
+"""<span class=""txt-summon-level"">Lv **</span> トール""","""<span class=""txt-summon-level"">Lv **</span> 토르"""
+"""<span class=""txt-summon-level"">Lv *</span> トール""","""<span class=""txt-summon-level"">Lv *</span> 토르"""
 """光属性キャラの攻撃力が**%UP/光属性攻撃で弱点を突いた時、稀に大ダメージのクリティカルが発生""","""광속성 캐릭터의 공격력 **%UP/광속성 공격으로 약점을 찌를 경우, 드물게 큰 대미지의 크리티컬 발생"""
 テュポーン,티폰
-"<span class=""txt-summon-level"">Lv ***</span> テュポーン","<span class=""txt-summon-level"">Lv ***</span> 티폰"
-"<span class=""txt-summon-level"">Lv **</span> テュポーン","<span class=""txt-summon-level"">Lv **</span> 티폰"
-"<span class=""txt-summon-level"">Lv *</span> テュポーン","<span class=""txt-summon-level"">Lv *</span> 티폰"
+"""<span class=""txt-summon-level"">Lv ***</span> テュポーン""","""<span class=""txt-summon-level"">Lv ***</span> 티폰"""
+"""<span class=""txt-summon-level"">Lv **</span> テュポーン""","""<span class=""txt-summon-level"">Lv **</span> 티폰"""
+"""<span class=""txt-summon-level"">Lv *</span> テュポーン""","""<span class=""txt-summon-level"">Lv *</span> 티폰"""
 
 
 !
 
 黄龍,황룡
-"<span class=""txt-summon-level"">Lv ***</span> 黄龍","<span class=""txt-summon-level"">Lv ***</span> 황룡"
-"<span class=""txt-summon-level"">Lv **</span> 黄龍","<span class=""txt-summon-level"">Lv **</span> 황룡"
-"<span class=""txt-summon-level"">Lv *</span> 黄龍","<span class=""txt-summon-level"">Lv *</span> 황룡"
+"""<span class=""txt-summon-level"">Lv ***</span> 黄龍""","""<span class=""txt-summon-level"">Lv ***</span> 황룡"""
+"""<span class=""txt-summon-level"">Lv **</span> 黄龍""","""<span class=""txt-summon-level"">Lv **</span> 황룡"""
+"""<span class=""txt-summon-level"">Lv *</span> 黄龍""","""<span class=""txt-summon-level"">Lv *</span> 황룡"""
 全属性攻撃力**%UP/バトル開始時にパーティの奥義ゲージ**%UP/奥義ダメージ**%UP,전 속성 공격력 **%UP/배틀 시작 시 파티의 오의 게이지 **%UP/오의 대미지 **%UP
 
 黒麒麟,흑기린
-"<span class=""txt-summon-level"">Lv ***</span> 黒麒麟","<span class=""txt-summon-level"">Lv ***</span> 흑기린"
-"<span class=""txt-summon-level"">Lv **</span> 黒麒麟","<span class=""txt-summon-level"">Lv **</span> 흑기린"
-"<span class=""txt-summon-level"">Lv *</span> 黒麒麟","<span class=""txt-summon-level"">Lv *</span> 흑기린"
+"""<span class=""txt-summon-level"">Lv ***</span> 黒麒麟""","""<span class=""txt-summon-level"">Lv ***</span> 흑기린"""
+"""<span class=""txt-summon-level"">Lv **</span> 黒麒麟""","""<span class=""txt-summon-level"">Lv **</span> 흑기린"""
+"""<span class=""txt-summon-level"">Lv *</span> 黒麒麟""","""<span class=""txt-summon-level"">Lv *</span> 흑기린"""
 全属性攻撃力**%UP/アビリティダメージ**%UP/アビリティダメージ上限**%UP,전 속성 공격력**%UP/어빌리티 대미지 **%UP/어빌리티 대미지 상한 **%UP
 
 !이벤트
 
 [覚醒魔王]神崎蘭子,[각성마왕]칸자키 란코
-"<span class=""txt-summon-level"">Lv ***</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv ***</span> [각성마왕]칸자키 란코"
-"<span class=""txt-summon-level"">Lv **</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv **</span> [각성마왕]칸자키 란코"
-"<span class=""txt-summon-level"">Lv *</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv *</span> [각성마왕]칸자키 란코"
+"""<span class=""txt-summon-level"">Lv ***</span> [覚醒魔王]神崎蘭子""","""<span class=""txt-summon-level"">Lv ***</span> [각성마왕]칸자키 란코"""
+"""<span class=""txt-summon-level"">Lv **</span> [覚醒魔王]神崎蘭子""","""<span class=""txt-summon-level"">Lv **</span> [각성마왕]칸자키 란코"""
+"""<span class=""txt-summon-level"">Lv *</span> [覚醒魔王]神崎蘭子""","""<span class=""txt-summon-level"">Lv *</span> [각성마왕]칸자키 란코"""
 スキル「アンノウン」シリーズの効果が**%UP,스킬 「언노운」스리즈의 효과 **%UP
 
 ブリュンヒルデ,브륜힐데
-"<span class=""txt-summon-level"">Lv ***</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv ***</span> 브륜힐데"
-"<span class=""txt-summon-level"">Lv **</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv **</span> 브륜힐데"
-"<span class=""txt-summon-level"">Lv *</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv *</span> 브륜힐데"
+"""<span class=""txt-summon-level"">Lv ***</span> ブリュンヒルデ""","""<span class=""txt-summon-level"">Lv ***</span> 브륜힐데"""
+"""<span class=""txt-summon-level"">Lv **</span> ブリュンヒルデ""","""<span class=""txt-summon-level"">Lv **</span> 브륜힐데"""
+"""<span class=""txt-summon-level"">Lv *</span> ブリュンヒルデ""","""<span class=""txt-summon-level"">Lv *</span> 브륜힐데"""
 弱点攻撃でクリティカル確率UP,약점공격 시 크리티컬 확률 UP
 
 C.C.,C.C.
-"<span class=""txt-summon-level"">Lv ***</span> C.C.","<span class=""txt-summon-level"">Lv ***</span> C.C."
-"<span class=""txt-summon-level"">Lv **</span> C.C.","<span class=""txt-summon-level"">Lv **</span> C.C."
-"<span class=""txt-summon-level"">Lv *</span> C.C.","<span class=""txt-summon-level"">Lv *</span> C.C."
+"""<span class=""txt-summon-level"">Lv ***</span> C.C.""","""<span class=""txt-summon-level"">Lv ***</span> C.C."""
+"""<span class=""txt-summon-level"">Lv **</span> C.C.""","""<span class=""txt-summon-level"">Lv **</span> C.C."""
+"""<span class=""txt-summon-level"">Lv *</span> C.C.""","""<span class=""txt-summon-level"">Lv *</span> C.C."""
 パーティ全体に自動復活効果(*回)/全属性キャラのHPと攻撃力が**%UP,파티원 모두에게 자동부활효과(*회)/전속성 캐릭터의 HP와 공격력 **%UP
 
 好きな召喚石を選んでくれ！<br>加護効果でバトルが楽になるぜ！,좋아하는 소환석을 선택해봐! <br> 가호 효과로 배틀이 편해질 거야!
@@ -4094,6 +4129,46 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 風属性の敵に対して与ダメージUP
 王者の風格
 強化効果「火属性攻撃UP」の効果UP
+
+
+"!프라우(SSR,십현자)"
+[鮮烈なる力]
+フラウ
+過ぎた力、過ぎた輝き──向けられる薄暗い感情と友との別れに付け入る悪魔の囁きが、彼女の運命を反転させた。けれどやがて呪縛から逃れたその眩き力は、旅路を照らして仲間を導くだろう。
+
+戦いへのいざない
+明かされた野望
+赤い石に笑む
+光に消える面影
+そして反転する
+悪魔の爪
+巡りくる光
+
+パワーコンフラグレーション
+パワーコンフラグレーション＋
+火属性ダメージ(特大)/赤熱効果
+ストレンジアトラクター
+ストレンジアトラクター＋
+敵に火属性ダメージ/弱体効果を*ターン延長
+クリムゾンナイトメア
+クリムゾンナイトメア＋
+"敵に火属性ダメージ/悪夢への誘いを付与<br><span class=""text-blue"">◆剛毅果断時に紅い悪夢を付与/強化効果を*つ無効化</span>"
+インドミナス
+敵に火属性ダメージ/自分の攻防UP(累積)/味方全体のHP回復/弱体効果を*つ回復
+
+孤影悄然
+経過ターンに応じて自分のアビリティダメージ上限UP/赤熱状態の敵に対して火属性追撃効果
+悪魔の逆位置
+火属性キャラが敵に与える弱体効果を*ターン延長
+力の正位置
+"自分に剛毅果断効果(ダメージアビリティが*回発動)　<span class=""text-blue"">◆再発動不可</span>"
+◆再発動不可
+
+
+
+
+
+
 
 
 "!헤르에스(SSR,화속통상)"
@@ -5656,6 +5731,28 @@ MVS＋
 効果中必ずトリプルアタック
 無敵のドリル
 "トリプルアタック発動時に破砕効果(累積/最大*回)　<span class=""text-blue"">◆破砕効果のレベルに応じて奥義性能UP</span>"
+
+
+"!헤르에스(SSR,통상풍속)"
+[葬礼の旧姫]
+ヘルエス
+善き真龍に守られし島は、悪しき真龍の手によって大きく深い傷を負った。脅威こそ去れど残された辛苦に沈む故郷にて、かつての姫君は今再び民達に道を示した。全ては、皆で明日へと進むために。
+想郷の旧姫
+それでも彼らは明日へ向かう
+
+アデド・ドゥアルーカ＋
+"風属性ダメージ(特大)/自分の風属性攻撃UP　<span class=""text-blue"">◆風属性攻撃UP効果付与時、奥義性能UP</span>"
+ミラージュレイド＋
+敵に*～*倍風属性ダメージ/自分に幻影効果(*回)
+レコニング・デイ＋
+"効果中必ずトリプルアタック/風属性追撃効果 <span class=""text-blue"">◆被ダメージで解除</span>"
+◆被ダメージで解除
+ロイヤルリタニー
+味方全体の攻撃大幅UP(敵オーバードライブ時のみ/*回)/敵のモードゲージ減少量UP効果(大)
+真龍との絆
+風属性攻撃UPが付与されている時、自分の攻撃UP/回避率UP
+王女の号令
+味方全体がオーバードライブ時の敵に対して攻撃UP/ブレイク時の敵に対して連続攻撃確率UP
 "!노아(SSR,리미티드)"
 [空艇の導き手]
 ノア
@@ -7644,7 +7741,7 @@ HPが**%以下の時、通常攻撃時の与ダメージに応じて回復
 1MORE
 光属性の敵にエイハを使用時、即時再使用可能となる(同一ターン中*回のみ)
 
-"!카타리나(SSR,"
+"!카타리나(SSR,특전)"
 [エルステ帝国軍中尉],[에르스테 제국군 중위]
 カタリナ,카타리나
 
