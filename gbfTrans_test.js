@@ -693,8 +693,10 @@ function GetTranslatedText(node, csv) {
     if (node) {
         var passOrNot = true;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
-        if (node.className.includes("btn-"))
+        if ((node.className.includes("btn-")) &&
+            (!node.className.includes("btn-tabs"))) {
             textInput = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
+        }
         if (kCheck.test(textInput))
             return;
 
@@ -737,7 +739,8 @@ function GetTranslatedText(node, csv) {
                     }
                 }
                 PrintLog("Take:" + translatedText);
-                if (node.className.includes("btn-")) {
+                if ((node.className.includes("btn-")) &&
+                    (!node.className.includes("btn-tabs"))) {
                     if (!node.className.includes("-translated")) {
                         var style = document.createElement("style");
                         style.type = "text/css";
