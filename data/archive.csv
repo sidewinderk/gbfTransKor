@@ -114,7 +114,7 @@ Sレア以上確定ガチャチケット	,S레어 이상 확정 뽑기 티켓
 ラクリモサ,라크리모사
 一切光が届かない深い闇でのみ生息が確認されている希少な花,전혀 빛이 닿지 않는 깊은 어둠속에서만 서식이 확인되고 있는 희귀한 꽃
 黄金小麦,황금밀
-金色に輝くガロンゾ産の小麦、ビールにすると絶品の物ができると言われている,"금빛으로 빛나는 가론조 산(産) 밀, 맥주로 만들면 훌륭한 물건이 나온다고 여겨진다."
+金色に輝くガロンゾ産の小麦、ビールにすると絶品の物ができると言われている,"금빛으로 빛나는 가론조 산(産) 밀, 맥주로 만들면 훌륭한 맛을 낸다고한다."
 鉄鉱石,철광석
 騎空艇の材料にも使われる固い石,기공정의 재료로도 쓰이는 단단한 돌
 ブロヴンフラクト,브로븐프락트
@@ -142,7 +142,7 @@ Sレア以上確定ガチャチケット	,S레어 이상 확정 뽑기 티켓
 クガンノハナ,쿠간노하나
 空高くの岩石地に群生する美しい花,높은 하늘의 암석지에 군생하는 아름다운 꽃
 大縁の種,대연의 씨앗
-芽を出すとき、どこかで強い絆が<br>生まれると言われる珍しい花の種,"싹이 틀 때, 어딘가에서 강한 인연이<br>태어난다고 여겨지는 드문 꽃의 씨앗"
+芽を出すとき、どこかで強い絆が<br>生まれると言われる珍しい花の種,"싹이 틀 때, 어딘가에서 강한 인연이<br>태어난다고 여겨지는 희귀한 꽃의 씨앗"
 万年雪,만년설
 ノース・ヴァストに一年中降り続ける大粒の雪。,노스 바스트에 일년 내내 내리는 굵은 눈
 冷氷の葉,냉빙의 잎
@@ -2477,15 +2477,15 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 レーヴェバイン・ヤクト＋＋,레베바인・야크트＋＋
 水属性ダメージ(特大)/攻撃DOWN(累積)/火属性攻撃DOWN/次のヒロイックビートが*回発動,수속성 데미지 (특대)/공격 DOWN(누적)/화속성 공격 DOWN/다음 히로익 비트가 *회 발동
 ヒロイックビート＋＋,히로익 비트＋＋
-敵に水属性ダメージ/自分のHPと弱体効果を回復
-ワン・フォー・オール
-"<div class=""prt-text-small"">自分に逆境効果/防御UP/かばう効果(全体)/ガッツ効果　<span class=""text-blue"">◆自分のHPを最大値の**%消費</span></div>"
-ソウルイラプション
-"<div class=""prt-text-small"">自分のHPと弱体効果を全回復/ステータス大幅UP　<span class=""text-blue"">◆瀕死の場合のみ使用可/奥義ゲージを全て消費</span></div>"
-膝はつかねぇ！
-逆境効果が付与されている時連続攻撃確率UP
-臥竜鳳雛
-"敵が特殊技を使用時にヒロイックビートが発動/自分の強化効果を*ターン延長　<span class=""text-blue"">◆効果時間*ターンの強化効果は除く</span>"
+敵に水属性ダメージ/自分のHPと弱体効果を回復,적에게 수속성 데미지/자신의 HP와 약체 효과 회복
+ワン・フォー・オール,원・포・올
+"<div class=""prt-text-small"">自分に逆境効果/防御UP/かばう効果(全体)/ガッツ効果　<span class=""text-blue"">◆自分のHPを最大値の**%消費</span></div>","<div class=""prt-text-small"">자신에게 역경 효과/방어 UP/감싸기 효과 (전체)/근성 효과　<span class=""text-blue"">◆자신의 HP를 최대치의 **% 소비</span></div>"
+ソウルイラプション,소울 이럽션
+"<div class=""prt-text-small"">自分のHPと弱体効果を全回復/ステータス大幅UP　<span class=""text-blue"">◆瀕死の場合のみ使用可/奥義ゲージを全て消費</span></div>","<div class=""prt-text-small"">자신의 HP와 약체 효과를 모두 회복/스테이터스 대복 UP　<span class=""text-blue"">◆빈사일 경우에만 사용 가능/오의 게이지를 모두 소비</span></div>"
+膝はつかねぇ！,무릎 꿇지 않아!
+逆境効果が付与されている時連続攻撃確率UP,역경 효과가 부여되어 있을 때 연속 공격 확률 UP
+臥竜鳳雛,와룡봉추
+"敵が特殊技を使用時にヒロイックビートが発動/自分の強化効果を*ターン延長　<span class=""text-blue"">◆効果時間*ターンの強化効果は除く</span>","적이 특수 기술을 사용했을 때 히로익 비트가 발동/자신의 강화 효과를 *턴 연장　<span class=""text-blue"">◆효과 시간 *턴의 강화효과 제외</span>"
 
 
 "!산달폰(SSR,수영복)"
@@ -2990,25 +2990,6 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 闇属性キャラのHPが**%UP,암속성 캐릭터의 HP **%UP
 闇属性キャラのHPが*%UP,암속성 캐릭터의 HP *%UP
 
-火属性攻撃力が***%UP,화속성 공격력 ***%UP
-火属性攻撃力が**%UP,화속성 공격력 **%UP
-火属性攻撃力が*%UP,화속성 공격력 *%UP
-水属性攻撃力が***%UP,수속성 공격력 ***%UP
-水属性攻撃力が**%UP,수속성 공격력 **%UP
-水属性攻撃力が*%UP,수속성 공격력 *%UP
-土属性攻撃力が***%UP,토속성 공격력 ***%UP
-土属性攻撃力が**%UP,토속성 공격력 **%UP
-土属性攻撃力が*%UP,토속성 공격력 *%UP
-風属性攻撃力が***%UP,풍속성 공격력 ***%UP
-風属性攻撃力が**%UP,풍속성 공격력 **%UP
-風属性攻撃力が*%UP,풍속성 공격력 *%UP
-光属性攻撃力が***%UP,광속성 공격력 ***%UP
-光属性攻撃力が**%UP,광속성 공격력 **%UP
-光属性攻撃力が*%UP,광속성 공격력 *%UP
-闇属性攻撃力が***%UP,암속성 공격력 ***%UP
-闇属性攻撃力が**%UP,암속성 공격력 **%UP
-闇属性攻撃力が*%UP,암속성 공격력 *%UP
-
 火属性攻撃力が***%UP/火属性キャラのHPが**%UP,화속성 공격력 ***%UP/화속성 캐릭터의 HP **%UP
 火属性攻撃力が**%UP/火属性キャラのHPが**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP
 水属性攻撃力が***%UP/水属性キャラのHPが**%UP,수속성 공격력 ***%UP/수속성 캐릭터의 HP **%UP
@@ -3142,6 +3123,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> カツウォヌス","<span class=""txt-summon-level"">Lv ***</span> 카츠오누스"
 "<span class=""txt-summon-level"">Lv **</span> カツウォヌス","<span class=""txt-summon-level"">Lv **</span> 카츠오누스"
 "<span class=""txt-summon-level"">Lv *</span> カツウォヌス","<span class=""txt-summon-level"">Lv *</span> 카츠오누스"
+装備している水属性召喚石の数が多いほど水属性攻撃力がUP(最大***％),장착하고 있는 수속성 소환석의 수가 많을 수록 수속성 공격력UP(최대 ***%)
 装備している水属性召喚石の数が多いほど水属性攻撃力がUP(最大***％)/水属性キャラの防御が**%UP ★初回召喚時は全効果が発動,장착하고 있는 수속성 소환석의 수가 많을 수록 수속성 공격력UP(최대 ***%)/수속성 캐릭터의 방어력 **%UP ★처음 소환 시 모든 소환효과가 발동
 スノウホワイト,스노우 화이트
 "<span class=""txt-summon-level"">Lv ***</span> スノウホワイト","<span class=""txt-summon-level"">Lv ***</span> 스노우 화이트"
@@ -3253,21 +3235,27 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ハールート・マールート","<span class=""txt-summon-level"">Lv ***</span> 하루트・마루트"
 "<span class=""txt-summon-level"">Lv **</span> ハールート・マールート","<span class=""txt-summon-level"">Lv **</span> 하루트・마루트"
 "<span class=""txt-summon-level"">Lv *</span> ハールート・マールート","<span class=""txt-summon-level"">Lv *</span> 하루트・마루트"
+ミカエル,미카엘
 "<span class=""txt-summon-level"">Lv ***</span> ミカエル","<span class=""txt-summon-level"">Lv ***</span> 미카엘"
 "<span class=""txt-summon-level"">Lv **</span> ミカエル","<span class=""txt-summon-level"">Lv **</span> 미카엘"
 "<span class=""txt-summon-level"">Lv *</span> ミカエル","<span class=""txt-summon-level"">Lv *</span> 미카엘"
+ガブリエル,가브리엘
 "<span class=""txt-summon-level"">Lv ***</span> ガブリエル","<span class=""txt-summon-level"">Lv ***</span> 가브리엘"
 "<span class=""txt-summon-level"">Lv **</span> ガブリエル","<span class=""txt-summon-level"">Lv **</span> 가브리엘"
 "<span class=""txt-summon-level"">Lv *</span> ガブリエル","<span class=""txt-summon-level"">Lv *</span> 가브리엘"
+ウリエル,우리엘
 "<span class=""txt-summon-level"">Lv ***</span> ウリエル","<span class=""txt-summon-level"">Lv ***</span> 우리엘"
 "<span class=""txt-summon-level"">Lv **</span> ウリエル","<span class=""txt-summon-level"">Lv **</span> 우리엘"
 "<span class=""txt-summon-level"">Lv *</span> ウリエル","<span class=""txt-summon-level"">Lv *</span> 우리엘"
+ラファエル,라파엘
 "<span class=""txt-summon-level"">Lv ***</span> ラファエル","<span class=""txt-summon-level"">Lv ***</span> 라파엘"
 "<span class=""txt-summon-level"">Lv **</span> ラファエル","<span class=""txt-summon-level"">Lv **</span> 라파엘"
 "<span class=""txt-summon-level"">Lv *</span> ラファエル","<span class=""txt-summon-level"">Lv *</span> 라파엘"
+メタトロン,메타트론
 "<span class=""txt-summon-level"">Lv ***</span> メタトロン","<span class=""txt-summon-level"">Lv ***</span> 메타트론"
 "<span class=""txt-summon-level"">Lv **</span> メタトロン","<span class=""txt-summon-level"">Lv **</span> 메타트론"
 "<span class=""txt-summon-level"">Lv *</span> メタトロン","<span class=""txt-summon-level"">Lv *</span> 메타트론"
+サリエル,사리엘
 "<span class=""txt-summon-level"">Lv ***</span> サリエル","<span class=""txt-summon-level"">Lv ***</span> 사리엘"
 "<span class=""txt-summon-level"">Lv **</span> サリエル","<span class=""txt-summon-level"">Lv **</span> 사리엘"
 "<span class=""txt-summon-level"">Lv *</span> サリエル","<span class=""txt-summon-level"">Lv *</span> 사리엘"
@@ -3365,6 +3353,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 
 !듀나미스
 
+カグヤ,카구야
 "<span class=""txt-summon-level"">Lv ***</span> カグヤ","<span class=""txt-summon-level"">Lv ***</span> 카구야"
 "<span class=""txt-summon-level"">Lv **</span> カグヤ","<span class=""txt-summon-level"">Lv **</span> 카구야"
 "<span class=""txt-summon-level"">Lv *</span> カグヤ","<span class=""txt-summon-level"">Lv *</span> 카구야"
@@ -4086,7 +4075,7 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 二炎の連鎖,쌍염의 연쇄
 二炎の連鎖＋,쌍염의 연쇄＋
 "<div class=""prt-text-small"">敵に火属性ダメージ/暗闇効果/灼熱効果<br><span class=""text-blue"">◆暗闇状態の敵に最大CT増加/灼熱状態の敵に命中率DOWN</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지/암흑 효과/작열 효과<br><span class=""text-blue"">◆암흑 상태의 적에게 최대 CT 증가/작열 상태의 적에게 명중률 DOWN</span></div>"
-虹花の日輪・改,무지개꽃의 일륜・개
+虹花の日輪・改,무지개꽃의 일륜・改
 "<div class=""prt-text-small"">敵に火属性ダメージ/自分が即座に奥義発動可能/他のアビリティが即時使用可能になる</div>","<div class=""prt-text-small"">적에게 화속성 데미지/자신이 즉시 오의 발동 가능/다른 어빌리티 즉시 사용 가능</div>"
 母の愛した花,어머니가 사랑한 꽃
 暗闇状態かつ灼熱状態の敵に対して奥義性能UP,암흑 상태이며 작열 상태인 적에 대한 오의 성능 UP
@@ -4191,10 +4180,10 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 "<div class=""txt-no-multi"">												<p>参加できるイベントマルチバトルはありません。</p>				<ul>					<li>・イベントマルチバトルは、イベントクエストを進めていくと発生します。</li>					<li>・参加条件を満たしていない場合、この一覧には表示されません。</li>				</ul>				<div class=""btn-usual-text"" data-href=""quest"">クエストへ</div>						</div><div class=""prt-assist-raid-setting""></div>","<div class=""txt-no-multi"">												<p>참가가능한 이벤트 멀티배틀이 없습니다.</p>					<ul>					<li>・이벤트 멀티배틀은 이벤트 퀘스트를 진행하가면서 발생합니다.</li>					<li>・참가조건을 만족하지 못했을 경우、이 일람에는 표시되지 않습니다.</li>				</ul>				<div class=""btn-usual-text"" data-href=""quest"">퀘스트로</div>						</div><div class=""prt-assist-raid-setting""></div>"
 
 !루리아노트
-旅の記録をつけてるんですよ～<br>フフッ,여행했던 기록을 적어두고 있어요~<br>헤헷
+旅の記録をつけてるんですよ～<br>フフッ,여행했던 기록을 적어두고 있어요～<br>헤헷
 私のノート！見たいですか？,제 노트! 보실래요?
 カタリナに頼まれて武器のことも<br>記録してるんです。結構おもしろいです！,카타리나에게 부탁받아서 무기에 대해서도 기록해두고있어요、꽤 재밌어요!
-いろんなことがありましたね！<br>これからはどんな事が起きるかな～,여러가지 일이 있었죠!<br>앞으로는 무슨 일이 있을까~
+いろんなことがありましたね！<br>これからはどんな事が起きるかな～,여러가지 일이 있었죠!<br>앞으로는 무슨 일이 있을까～
 !무기스킬 이름
 紅蓮の攻刃,홍련의 공인
 紅蓮の攻刃II,홍련의 공인II
@@ -7124,7 +7113,23 @@ Sレア コトン・ブルー,Sレア 코돈・브루ー
 バトル終了時間,배틀 종료 시간
 与えたダメージ,입힌 데미지
 <li>・トライアルキャラは、トライアルバトルでのみ使用できるキャラクターです。</li>			<li>・トライアルキャラのステータスには、既に存在しているキャラクターや、今後登場予定のキャラクターのステータスが適用されます。</li>			<li>・トライアルキャラに適用されているステータスはアップデート等によって変化します。適用されているステータスは、「トライアルキャラ」のタブからご確認ください。</li>			<li>・適用されるステータスは最大Lv時のものとなります。最終上限解放によるステータスの変化は適用されません。</li>			<li>・今後登場予定のキャラクターのステータスは、トライアルキャラに適用された内容と異なる場合があります。</li>			<li>・トライアルキャラを強化、または上限解放することはできません。</li>			<li>・トライアルバトルでは、バトル開始時にトライアルキャラに適用されていたステータスがバトル終了まで適用されます。</li>			<li>・トライアルキャラは、図鑑およびリストに登録されず、仲間キャラ数に含まれません。また、推しキャラに設定することはできません。</li>			<li>・トライアルキャラの実行したアビリティを、他のアビリティ等で模倣することはできません。</li>,<li>・트라이얼 캐릭터는、트라이얼 배틀에서만 사용가능한 캐릭터입니다.</li>			<li>・트라이얼 캐릭터의 스테이터스는、이미 존재하는 캐릭터나、이후 실장 예정인 캐릭터의 스테이터스가 적용됩니다.</li>			<li>・트라이얼 캐릭터에게 적용되어있는 스테이터스는 업데이트 등에 의해 변화합니다. 적용 되어있는 스테이터스는、「트라이얼 캐릭터」의 탭에서 확인해주세요.</li>			<li>・적용된 스테이터스는 최대Lv시의 것입다. 최종상한해방에 의한 스테이터스는 적용되지 않습니다.</li>			<li>・이후 등장 예정 캐릭터의 스테이터스는、트라이얼 캐릭터에게 적용된 내용과 다를 수 있습니다.</li>			<li>・트라이얼 캐릭터는 강화、또는 상한해방 할 수 없습니다.</li>			<li>・트라이얼 배틀에서는、배틀개시시에 트라이얼 캐릭터에 적용되어있던 스테이터스가 종료까지 적용됩니다.</li>			<li>・트라이얼 캐릭터는、도감 혹은 리스트에 등록되지 않고、동료캐릭터 수에 포함되지 않습니다. 또、최애캐릭터에 설정할 수 없습니다.</li>			<li>・트라이얼 캐릭터가 실행한 어빌리티를、다른 캐릭터등으로 모방할 수 없습니다.</li>
-
+<li>本バトルには、倒すことが出来ない敵が出現する場合があります。</li>		<li>バトルを終了する場合は、MENUから「撤退」を実行してください。</li>		<li>本バトルでは、アイテム・経験値・ルピを入手することはできません。</li>,<li>이 배틀에서는、쓰러뜨릴 수 없는 적이 등장하는 경우가 있습니다.</li>		<li>배틀을 종료하려면、MENU에서 「철퇴」를 실행해주세요.</li>		<li>이 배틀에서는、아이템・경험치・루피를 입수할 수 없습니다.</li>
+バトルメニュー,배틀 메뉴
+パーティ編成,파티 편성
+バトル設定,배틀설정
+AUTOボタン設定,AUTO 버튼 설정
+"<input id=""battle-auto-normal"" name=""battle_auto_type"" type=""radio"" value=""*"">				<label for=""battle-auto-normal"" class=""btn-usual-setting"">通常</label>","<input id=""battle-auto-normal"" name=""battle_auto_type"" type=""radio"" value=""*"">				<label for=""battle-auto-normal"" class=""btn-usual-setting"">통상</label>"
+"<input id=""battle-auto-full"" name=""battle_auto_type"" type=""radio"" value=""*"" checked="""">				<label for=""battle-auto-full"" class=""btn-usual-setting"">フル</label>","<input id=""battle-auto-full"" name=""battle_auto_type"" type=""radio"" value=""*"" checked="""">				<label for=""battle-auto-full"" class=""btn-usual-setting"">풀오토</label>"
+現在のクエストにのみ適用されます,현재 퀘스트에서만 적용됩니다
+撤退確認,철퇴확인
+バトルを撤退し、<br>トライアルバトルページへ戻ります。,배틀에서 철퇴하고、<br>트라이얼 배틀 페이지로 돌아갑니다.
+撤退する,철퇴한다
+バトル結果,배틀결과
+バトル終了,배틀종료
+経過ターン,경과 턴
+経過時間,경과 시간
+召喚石使用回数,소환석 사용회수
+エリクシール使用回数,에릭실 사용회수
 
 !이벤트
 ふたたび始まる空の旅,다시 시작되는 하늘 여행
@@ -7132,11 +7137,11 @@ Sレア コトン・ブルー,Sレア 코돈・브루ー
 イベントストーリーをクリアすることで<br>イベント限定エクストラクエストが出現します。,이벤트 스토리를 클리어하면<br>이벤트 한정 엑스트라 퀘스트가 출현합니다.
 「ふたたび始まる空の旅」へ,「다시 시작되는 하늘 여행」으로
 "!나루메아(SSR,암속통상)"
-[揺らぎの斬姫],[흔들리는 참희]
+[揺らぎの斬姫],[동요하는 참희]
 ナルメア,나루메아
 
-胡蝶刃改・源氏舞,호접인 개・겐지무
-闇属性ダメージ(特大)/胡蝶刃による攻撃UPを強化/自分の闇属性攻撃力UP,암속성 데미지(특대)/호접인이 의한 공격UP 강화/자신의 암속성 공격력UP
+胡蝶刃改・源氏舞,호접인改・겐지의 춤
+闇属性ダメージ(特大)/胡蝶刃による攻撃UPを強化/自分の闇属性攻撃力UP,암속성 데미지(특대)/호접인에 의한 공격UP 강화/자신의 암속성 공격력UP
 胡蝶刃,호접인
 胡蝶刃＋,호접인＋
 "<div class=""prt-text-small"">構えを変更/自分に弱点属性追撃効果<br><span class=""text-blue"">◆構えを変更するたび攻撃UP/防御DOWN/*ターンの間アビリティ使用不可</span></div>","<div class=""prt-text-small"">태세를 변경/자신에게 약점속성 추격 효과<br><span class=""text-blue"">◆태세를 변경할 때마다 공격UP/방어DOWN/*턴 동안 어빌리티 사용 불가</span></div>"
@@ -7150,7 +7155,7 @@ Sレア コトン・ブルー,Sレア 코돈・브루ー
 自分の奥義性能UP(*回)/高揚効果/胡蝶双舞効果,자신의 오의성능UP(*回)/고양 효과/호접쌍무 효과
 質実剛健,질실강건
 ドラフ族の攻撃力UP,드라프 종족 공격력UP
-鍔迫合,각박합,검도에서 서로의 칼 밑을 맞대고 서있는 자세 한글로 뭐라하는지 알면 수정좀
+鍔迫合,각박합,검도에서 서로의 칼 밑을 맞대고 서있는 자세 한글로 뭐라하는지 알면 수정좀,,,,,힘겨루기 나 격렬한 승부 정도면 되지않을까 싶음
 鍔迫合＋,각박합＋
 稀にダメージを反射/一度だけ戦闘不能にならずにHP*で耐える,가끔 데미지를 반사/한번만 전투불능이 되지 않고 HP*로 견딘다
 
