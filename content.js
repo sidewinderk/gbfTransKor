@@ -828,8 +828,10 @@ function GetTranslatedText(node, csv) {
         var passOrNot = true;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
         var translatedText = "";
-        if (node.className.includes('btn-'))
-            textInput = window.getComputedStyle(node, ':after').content.replace(/['"]+/g, '');
+        if ((node.className.includes("btn-")) &&
+            (!node.className.includes("btn-tabs"))) {
+            textInput = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
+        }
         if (kCheck.test(textInput)) return;
         PrintLog('GetTranslatedText - className: ' + node.className + ', text: ' + textInput);
         // Filter for avoiding unnecessary computing
