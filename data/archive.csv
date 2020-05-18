@@ -3014,28 +3014,38 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 
 弱体耐性が**%UP,약화내성 **%UP
 
-"<span class=""txt-summon-level"">Lv ***</span> プロトバハムート","<span class=""txt-summon-level"">Lv ***</span> 프로토 바하무트"
-"<span class=""txt-summon-level"">Lv **</span> プロトバハムート","<span class=""txt-summon-level"">Lv **</span> 프로토 바하무트"
-"<span class=""txt-summon-level"">Lv *</span> プロトバハムート","<span class=""txt-summon-level"">Lv *</span> 프로토 바하무트"
+
+
+!SSR
 
 !마그나
+[マグナシリーズ],[마그나 스리즈]
 
 コロッサス・マグナ,콜로서스・마그나
 "<span class=""txt-summon-level"">Lv ***</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv ***</span> 콜로서스・마그나"
 "<span class=""txt-summon-level"">Lv **</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv **</span> 콜로서스・마그나"
 "<span class=""txt-summon-level"">Lv *</span> コロッサス・マグナ","<span class=""txt-summon-level"">Lv *</span> 콜로서스・마그나"
+プロミネンス・リアクター,프라머넌스・리액터
+敵全体に火属性ダメージ(特大)/防御DOWN(中),적 전체에게 화속성 대미지(특대)/방어DOWN(중)
+コロッサス・マグナの加護,콜로서스・마그나의 가호
 スキル「機炎方陣」の効果が***%UP,스킬 「기염방진(機炎方陣)」의 효과 ***%UP
 スキル「機炎方陣」の効果が**%UP,스킬 「기염방진(機炎方陣)」의 효과 **%UP
 リヴァイアサン・マグナ,리바이어선・마그나
 "<span class=""txt-summon-level"">Lv ***</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv ***</span> 리바이어선・마그나"
 "<span class=""txt-summon-level"">Lv **</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv **</span> 리바이어선・마그나"
 "<span class=""txt-summon-level"">Lv *</span> リヴァイアサン・マグナ","<span class=""txt-summon-level"">Lv *</span> 리바이어선・마그나"
+潰崩のタイダルフォール,궤붕의 타이달 폴
+敵全体に水属性ダメージ(特大)/防御DOWN(中),적 전체에게 수속성 대미지(특대)/방어DOWN(중)
+リヴァイアサン・マグナの加護,리바이어선・마그나의 가호
 スキル「海神方陣」の効果が***%UP,스킬 「해신방진(海神方陣)」의 효과 ***%UP
 スキル「海神方陣」の効果が**%UP,스킬 「해신방진(海神方陣)」의 효과 **%UP
 ユグドラシル・マグナ,유그드라실・마그나
 "<span class=""txt-summon-level"">Lv ***</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv ***</span> 유그드라실・마그나"
 "<span class=""txt-summon-level"">Lv **</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv **</span> 유그드라실・마그나"
 "<span class=""txt-summon-level"">Lv *</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv *</span> 유그드라실・마그나"
+創世のルミノックス
+敵全体に土属性ダメージ(特大)/回復効果UP/回復上限UP,적 전체에게 토속성 대미지(특대)/회복효과UP/회복상한UP
+ユグドラシル・マグナの加護,유그드라실・마그나의 가호
 スキル「創樹方陣」の効果が***%UP,스킬 「창수방진(創樹方陣)」의 효과 ***%UP
 スキル「創樹方陣」の効果が**%UP,스킬 「창수방진(創樹方陣)」의 효과 **%UP
 ティアマト・マグナ,티아마트・마그나
@@ -3462,6 +3472,8 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 
 !이벤트
 
+!신데렐라
+
 [覚醒魔王]神崎蘭子,[각성마왕] 칸자키 란코
 "<span class=""txt-summon-level"">Lv ***</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv ***</span> [각성마왕]칸자키 란코"
 "<span class=""txt-summon-level"">Lv **</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv **</span> [각성마왕]칸자키 란코"
@@ -3473,6 +3485,8 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 "<span class=""txt-summon-level"">Lv **</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv **</span> 브륜힐데"
 "<span class=""txt-summon-level"">Lv *</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv *</span> 브륜힐데"
 弱点攻撃でクリティカル確率UP,약점공격 시 크리티컬 확률 UP
+
+!코드기어스
 
 C.C.,C.C.
 "<span class=""txt-summon-level"">Lv ***</span> C.C.","<span class=""txt-summon-level"">Lv ***</span> C.C."
@@ -3491,12 +3505,33 @@ C.C.,C.C.
 "<span class=""txt-summon-level"">Lv **</span> 神撃の竜","<span class=""txt-summon-level"">Lv **</span> 신격의 용"
 "<span class=""txt-summon-level"">Lv *</span> 神撃の竜","<span class=""txt-summon-level"">Lv *</span> 신격의 용"
 
+!시나리오
+
+シルフ,실프
+"<span class=""txt-summon-level"">Lv ***</span> シルフ","<span class=""txt-summon-level"">Lv ***</span> 실프"
+"<span class=""txt-summon-level"">Lv **</span> シルフ","<span class=""txt-summon-level"">Lv **</span> 실프"
+"<span class=""txt-summon-level"">Lv *</span> シルフ","<span class=""txt-summon-level"">Lv *</span> 실프"
+火属性キャラの攻撃力/回復性能**%UP,화속성 캐릭터의 공격력/회복능력**%UP
+
+!SR
+
+火竜ヴレッザレク,화룡 브레자레크
+"<span class=""txt-summon-level"">Lv ***</span> 火竜ヴレッザレク","<span class=""txt-summon-level"">Lv ***</span> 화룡 블레자레크"
+"<span class=""txt-summon-level"">Lv **</span> 火竜ヴレッザレク","<span class=""txt-summon-level"">Lv **</span> 화룡 블레자레크"
+"<span class=""txt-summon-level"">Lv *</span> 火竜ヴレッザレク","<span class=""txt-summon-level"">Lv *</span> 화룡 블레자레크"
 
 
 
 
 
 
+
+
+
+プロトバハムート,프로토 바하무트
+"<span class=""txt-summon-level"">Lv ***</span> プロトバハムート","<span class=""txt-summon-level"">Lv ***</span> 프로토 바하무트"
+"<span class=""txt-summon-level"">Lv **</span> プロトバハムート","<span class=""txt-summon-level"">Lv **</span> 프로토 바하무트"
+"<span class=""txt-summon-level"">Lv *</span> プロトバハムート","<span class=""txt-summon-level"">Lv *</span> 프로토 바하무트"
 
 
 
@@ -3509,6 +3544,7 @@ C.C.,C.C.
 サポーター選択,서포터 선택
 総所持数,총 소지 수
 倉庫,창고
+売却価格,판매가격
 !파이터 계열
 ウェポンバースト,웨폰 버스트
 レイジ레이,레이지
@@ -3763,7 +3799,7 @@ C.C.,C.C.
 ガンダゴウザ,간다고우자
 
 怒髪驚天正拳突き,노발경천정권지르기
-"<span class=""prt-text-small"">火属性ダメージ(特大)/自分のクリティカル確率UP/ガード効果　<span class=""text-blue"">◆古今無双流効果を消去</span></span>","<span class=""prt-text-small"">화속성데미지(특대)/자신의 크리티컬 확률UP/가드 효과　<span class=""text-blue"">◆고금무쌍류 효과를 소거</span></span>"
+"<span class=""prt-text-small"">火属性ダメージ(特大)/自分のクリティカル確率UP/ガード効果　<span class=""text-blue"">◆古今無双流効果を消去</span></span>","<span class=""prt-text-small"">화속성 데미지(특대)/자신의 크리티컬 확률UP/가드 효과　<span class=""text-blue"">◆고금무쌍류 효과를 제거</span></span>"
 灼滅・破天道,작멸・파천도
 敵全体に*倍火属性ダメージ/日暈効果,적 전체에 *배 화속성 데미지/햇무리 효과
 瞬撃・印可掌,순격・인가장
@@ -3785,7 +3821,7 @@ C.C.,C.C.
 火属性ダメージ(特大)/対象がドラグフォース状態時に性能UP,화속성 데미지(특대)/대상이 드라그포스 상태일 때 성능UP
 マナ・ドラグアグニ,마나・드라그아그니
 マナ・ドラグアグニ＋,마나・드라그아그니＋
-敵に火属性ダメージ/ドラグフォースを付与,전에게 화속성 데미지/드라그포스를 부여
+敵に火属性ダメージ/ドラグフォースを付与,적에게 화속성 데미지/드라그포스를 부여
 バーストブレイク,버스트 브레이크
 バーストブレイク＋,버스트 브레이크＋
 "<div class=""prt-text-small"">敵に火属性ダメージ/強化効果を*つ無効化<br><span class=""text-blue"">◆ドラグフォース状態の敵に対してダメージ上限UP</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지/강화효과를 *개 무효화<br><span class=""text-blue"">◆드라그포스 상태인 적에게 데미지 상한UP</span></div>"
@@ -3836,33 +3872,33 @@ C.C.,C.C.
 "!라캄(SSR,리미티드)"
 [蒼空の先導者],[창공의 선도자]
 ラカム,라캄
-操舵士に憧れて,조타사에 동경하여
+操舵士に憧れて,조타사를 동경하기에
 操舵士の共鳴,조타사의 공명
 
 デモリッシュピアース,데몰리쉬 피어스
-火属性ダメージ(特大)/味方全体の火属性攻撃UP/ダブルアタック確率UP,화속성데미지(특대)/아군전체의 화속성공격UP/더블어택확률UP
+火属性ダメージ(特大)/味方全体の火属性攻撃UP/ダブルアタック確率UP,화속성 데미지(특대)/아군전체의 화속성 공격UP/더블어택 확률UP
 ナバルストライク,[暁旦の烈鬼]
-火属性ダメージ(特大)/味方全体の火属性攻撃UP/ダブルアタック確率UP/クリティカル確率UP,화속성데미지(특대)/아군전체의 화속성공격UP/더블어택확률UP/크리티컬확률UP
+火属性ダメージ(特大)/味方全体の火属性攻撃UP/ダブルアタック確率UP/クリティカル確率UP,화속성 데미지(특대)/아군전체의 화속성 공격UP/더블어택 확률UP/크리티컬 확률UP
 スピットファイア,스핏 파이어
 スピットファイア＋,스핏 파이어＋
-"<div class=""prt-text-small"">敵に火属性ダメージ/防御DOWN(累積)/スピットファイアLvが*上昇(最大*)</div>","<div class=""prt-text-small"">적에게 화속성데미지/방어DOWN(중첩)/스핏파이어Lv이 *상승(최대*)</div>"
+"<div class=""prt-text-small"">敵に火属性ダメージ/防御DOWN(累積)/スピットファイアLvが*上昇(最大*)</div>","<div class=""prt-text-small"">적에게 화속성 데미지/방어 DOWN(중첩)/스핏파이어Lv이 *상승(최대*)</div>"
 デュレーションII,듀레이션II
 デュレーションII＋,듀레이션II＋
-"<div class=""prt-text-small"">自分に敵のモードゲージ減少量UP効果　<span class=""text-blue"">◆敵がオーバードライブ時にモードゲージを減少させ戦慄効果</span></div>","<div class=""prt-text-small"">자신에게 적의 모드게이지 감소량UP효과　<span class=""text-blue"">◆적이 오버드라이브일때 모드게이지를 감소시키고 전율효과</span></div>"
+"<div class=""prt-text-small"">自分に敵のモードゲージ減少量UP効果　<span class=""text-blue"">◆敵がオーバードライブ時にモードゲージを減少させ戦慄効果</span></div>","<div class=""prt-text-small"">자신에게 적의 모드게이지 감소량 UP효과　<span class=""text-blue"">◆적이 오버드라이브일때 모드게이지를 감소시키고 전율효과</span></div>"
 デュレーションII＋＋,듀레이션II＋＋
-"<div class=""prt-text-small"">敵の強化効果を*つ無効化/味方全体にモードゲージ減少量UP効果　<span class=""text-blue"">◆敵がオーバードライブ時にモードゲージを減少させ戦慄効果</span></div>","<div class=""prt-text-small"">적의 강화효과를 *개 무효화/아군전체의 모드게이지감소량UP효과　<span class=""text-blue"">◆적이 오버드라이브일때 모드게이지를 감소시키고 전율효과</span></div>"
+"<div class=""prt-text-small"">敵の強化効果を*つ無効化/味方全体にモードゲージ減少量UP効果　<span class=""text-blue"">◆敵がオーバードライブ時にモードゲージを減少させ戦慄効果</span></div>","<div class=""prt-text-small"">적의 강화효과를 *개 무효화/아군전체의 모드게이지 감소량UP효과　<span class=""text-blue"">◆적이 오버드라이브일때 모드게이지를 감소시키고 전율효과</span></div>"
 ダブルタップ,더블탭
-効果中必ず連続攻撃/自分にダブルタップ効果,효과중 반드시 연속공격/자신에게 더블탭효과
+効果中必ず連続攻撃/自分にダブルタップ効果,효과중 반드시 연속공격/자신에게 더블탭 효과
 ダブルタップ＋,더블탭＋
-"<div class=""prt-text-small"">効果中必ず連続攻撃/自分にダブルタップ効果/ターン経過なしで通常攻撃を実行</div>","<div class=""prt-text-small"">효과중 반드시 연속공격/자신에게 더블탭효과/턴 경과없이 통상공격을 시행</div>"
+"<div class=""prt-text-small"">効果中必ず連続攻撃/自分にダブルタップ効果/ターン経過なしで通常攻撃を実行</div>","<div class=""prt-text-small"">효과중 반드시 연속공격/자신에게 더블탭 효과/턴 경과없이 통상공격을 시행</div>"
 導きの銃,인도의총
-火属性キャラ単体が即座に奥義発動可能/蒼導銃効果,단일 화속성 캐릭터가 즉시 오의발동가능/푸른인도의총효과
-スライトオブハンド,슬라이트오브핸드
+火属性キャラ単体が即座に奥義発動可能/蒼導銃効果,단일 화속성 캐릭터가 즉시 오의 발동가능/푸른인도의총 효과
+スライトオブハンド,슬라이트 오브 핸드
 戦慄状態の敵に対して火属性追撃効果,전율상태의 적에게 화속성 추격효과
-スライトオブハンド＋,슬라이트오브핸드＋
-"<div class=""prt-text-small"">戦慄状態の敵に対して火属性追撃効果/戦慄状態の敵がいる場合チェインバースト発生時に敵全体に火属性ダメージ/弱体耐性DOWN(累積)</div>","<div class=""prt-text-small"">전율상태의 적에게 화속성 추격효과/전율상태의 적이 있을경우 체인버스트 발생시에 적 전체에 화속성데미지/약체내성DOWN(중첩)</div>"
+スライトオブハンド＋,슬라이트 오브 핸드＋
+"<div class=""prt-text-small"">戦慄状態の敵に対して火属性追撃効果/戦慄状態の敵がいる場合チェインバースト発生時に敵全体に火属性ダメージ/弱体耐性DOWN(累積)</div>","<div class=""prt-text-small"">전율상태의 적에게 화속성 추격효과/전율상태의 적이 있을경우 체인버스트 발생시에 적 전체에 화속성 데미지/약체내성 DOWN(중첩)</div>"
 バニッシュセーヴ,배니쉬 세이브
-スピットファイアLvに応じて攻撃UP/チェインバースト性能UP/奥義性能UP,스핏파이어의 Lv에따라 공격UP/체인버스트성능UP/오의성능UP
+スピットファイアLvに応じて攻撃UP/チェインバースト性能UP/奥義性能UP,스핏파이어의 Lv에따라 공격UP/체인버스트 성능UP/오의성능UP
 
 
 !란슬롯&베인(SSR)
@@ -3870,8 +3906,8 @@ C.C.,C.C.
 白竜の双騎士 ランスロット＆ヴェイン,백룡의 쌍기사 란슬롯＆베인
 
 ツヴァイ・フリューゲル＋,츠바이・흐류겔＋
-火属性ダメージ(特大)/ヴァイスドラッヘを発動,화속석 데미지(특대)/바이스드랏헤를 발동
-ヴァイスドラッヘ＋,바이스드랏헤＋
+火属性ダメージ(特大)/ヴァイスドラッヘを発動,화속석 데미지(특대)/바이스 드랏헤를 발동
+ヴァイスドラッヘ＋,바이스 드랏헤＋
 "<div class=""prt-text-small"">敵に*回火属性ダメージ/攻防DOWN(累積)/自分のアビリティ性能UP(累積)/敵対心UP(累積)</div>","<div class=""prt-text-small"">적에게 *회 화속성 데미지/공방 DOWN(누적)/자신의 어빌리티 성능 UP(누적)/적대심 UP(누적)</div>"
 ハイス・トゥルブレンツ＋,하이스・투르블렌츠＋
 敵全体に火属性ダメージ/自分にカウンター効果(回避/*回),적 전체에 화속성 데미지/자신에게 카운터 효과(회피/*회)
@@ -3935,14 +3971,14 @@ C.C.,C.C.
 味方全体にランダムな強化効果(永続/消去不可)/奥義ゲージUP(**%),아군 전체에게 무작위 강화 효과(영구/삭제불가)/오의 게이지 UP(**%)
 天衣の体躯,천의의 체구
 自分のHPを回復(最大*****),자신의 HP를 회복 (최대 *****)
-緩やかな滅びの中で,완만한 멸망 중에
-"<div class=""prt-text-small"">ターン終了時に瀕死状態の味方がいる時、滅尽状態に変化しHPと弱体効果を全回復　<span class=""text-blue"">◆滅尽状態中、攻撃性能大幅UP/敵対心UP/弱体効果無効/アビリティ使用不可</span></div>","<div class=""prt-text-small"">턴 종료 시에 빈사 상태의 아군이 있을 때、멸진 상태로 변화하고 HP와 약화 효과를 모두 회복　<span class=""text-blue"">◆멸진 상태 중、공격 성능 대폭 UP/적대심 UP/약화 효과 무효/어빌리티 사용 불가</span></div>"
+緩やかな滅びの中で,안온한 멸망 속에서
+"<div class=""prt-text-small"">ターン終了時に瀕死状態の味方がいる時、滅尽状態に変化しHPと弱体効果を全回復　<span class=""text-blue"">◆滅尽状態中、攻撃性能大幅UP/敵対心UP/弱体効果無効/アビリティ使用不可</span></div>","<div class=""prt-text-small"">턴 종료시에 빈사 상태의 아군이 있을 때、멸진 상태로 변화하고 HP와 약화 효과를 모두 회복　<span class=""text-blue"">◆멸진 상태 중、공격 성능 대폭 UP/적대심 UP/약화 효과 무효/어빌리티 사용 불가</span></div>"
 無我の衝動,무아의 충동
 "<div class=""prt-text-small"">滅尽状態中*ターン毎に自分のステータスに応じた行動をする/奥義ゲージ***%時、奥義を温存していても発動する</div>","<div class=""prt-text-small"">멸진 상태 중 *턴 마다 자신의 상태에 맞는 행동을 한다/오의 게이지 ***% 시、오의를 보존하고 있어도 발동</div>"
 
 
 "!베아트릭스(SSR,수영복)"
-[寒空に震える群青],[한천에 떠는 군청]
+[寒空に震える群青],[겨울에 떠는 군청]
 ベアトリクス,베아트릭스
 
 イモータル・アソールト＋,이모탈・아솔트＋
