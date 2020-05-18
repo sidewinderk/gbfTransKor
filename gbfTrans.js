@@ -3,16 +3,15 @@ var generalConfig = {
     origin: 'https://sidewinderk.github.io/gbfTransKor',
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
 }
-var isVerboseMode = true;
+var isVerboseMode = false;
 var doImageSwap = true;
 var doBattleTrans = true;
-
-var ObserverList = [];
 
 var questJson;
 var nameJson;
 var archiveJson;
 var imageJson;
+var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
 
 var config = {
     attributes: true,
@@ -608,7 +607,7 @@ async function InitList() {
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
 
     // Main Observers
-    ObserverList = [ObserveNameText(), ObserveSceneText(), ObserverArchive(), ObserverPop()];
+    ObserverList = [ObserveSceneText(), ObserverArchive(), ObserverPop()];
     if (doImageSwap)
         ObserverList.push(ObserverImageDIV(), ObserverImage());
     if (doBattleTrans)
@@ -621,6 +620,7 @@ async function InitList() {
 function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = "";
+    PrintLog("traslate taken: " + String(stext));
     jsonFile.some(function(item) {
         if (item.kr) {
             if (String(stext) == String(item.jp)) {
@@ -634,7 +634,46 @@ function translate(stext, jsonFile) {
         PrintLog("Send:" + transText);
         return transText;
     } else {
+        PrintLog("no translation");
         return "";
+    }
+}
+
+function translate_StoryText(stext, jsonFile) {
+    var node = document.getElementsByClassName('prt-log-display')[0].children;
+    //check if Log Exists.
+    if (typeof node == 'undefined') return '';
+    var sceneCodeCurrent = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
+    // Translation part for story text
+    var transText = '';
+
+    PrintLog('translate_StoryText taken: ' + String(stext));
+
+    jsonFile.some(function(item) {
+        if (item.kr == '\t' || item.kr == ' ') return false;
+
+        if (item.kr) {
+            var codes = item.sceneCode.replace('[', '').replace(']', '').split(',');
+            codes.some(function(codeCheck) {
+                if (sceneCodeCurrent == codeCheck) {
+                    if (item.index == node.length - 1) {
+                        transText = item.kr;
+                        PrintLog(item);
+                        PrintLog('node.length - 1 : ' + (node.length - 1));
+                        PrintLog('item.index : ' + item.index);
+
+                        return true;
+                    }
+                }
+            });
+        }
+    });
+    if (transText.length > 0) {
+        PrintLog('Send:' + transText);
+        return transText;
+    } else {
+        PrintLog('no translation');
+        return '';
     }
 }
 
@@ -652,7 +691,7 @@ function GetTranslatedImageURL(stext, jsonFile) {
             }
         }
     });
-    if ((!transImg.includes("png")) && (!transImg.includes("jpg")))
+    if ((!transImg.includes("png")) && !transImg.includes("jpg"))
         return "";
     if (transImg.length > 0) {
         PrintLog("Send URL:" + transImg);
@@ -676,7 +715,7 @@ function GetTranslatedImageStyle(stext, jsonFile) {
             }
         }
     });
-    if ((!transImg.includes("png")) && (!transImg.includes("jpg")))
+    if (!transImg.includes("png"))
         return "";
     if (transImg.length > 0) {
         PrintLog("Send URL:" + transImg);
@@ -686,68 +725,95 @@ function GetTranslatedImageStyle(stext, jsonFile) {
     }
 }
 
-
-var translatedText = "";
-
 function GetTranslatedText(node, csv) {
     if (node) {
         var passOrNot = true;
-        var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
-        if (node.className.includes("btn-"))
-            textInput = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
-        if (kCheck.test(textInput))
-            return;
-
+        var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
+        var translatedText = "";
+        var computedStyleCheck = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
+        if ((computedStyleCheck) && (computedStyleCheck != 'none'))
+            textInput = computedStyleCheck;
+        if (kCheck.test(textInput)) return;
+        PrintLog('GetTranslatedText - className: ' + node.className + ', text: ' + textInput);
         // Filter for avoiding unnecessary computing
-        if ((textInput.includes("<div ")) ||
-            (textInput.includes("img class")) ||
-            (textInput.includes("img src")) ||
-            (textInput.includes("figure class")) ||
-            (textInput.includes("li class")) ||
-            (textInput.includes("a class")) ||
-            (isNaN(textInput) == false) // Only number
-            ||
-            (isNaN(textInput.replace("/", "")) == false) // number / number
+        if (
+            textInput.includes('<div ') ||
+            textInput.includes('img class') ||
+            textInput.includes('img src') ||
+            textInput.includes('figure class') ||
+            textInput.includes('li class') ||
+            textInput.includes('a class') ||
+            isNaN(textInput) == false || // Only number
+            isNaN(textInput.replace('/', '')) == false // number / number
         )
             passOrNot = false;
 
         // Add exception's exception.
-        if ((node.className.includes("name")) ||
-            (node.className.includes("message")) ||
-            (node.className.includes("comment")) ||
-            (node.className.includes("effect")) ||
-            (node.className.includes("time")) ||
-            (node.className.includes("txt-withdraw-trialbatle")) ||
-            (node.className.includes("prt-popup-header"))
+        if (
+            node.className.includes('name') ||
+            node.className.includes('message') ||
+            node.className.includes('comment') ||
+            node.className.includes('effect') ||
+            node.className.includes('time') ||
+            node.className.includes('txt-withdraw-trialbatle') ||
+            node.className.includes('prt-popup-header')
         )
             passOrNot = true;
         if (passOrNot) {
             // If the text contains any number, save the number and replace it to "*"
-            var number = textInput.replace(/[^0-9]/g, "");
+            var number = textInput.replace(/[^0-9]/g, '');
             if (number.length > 0) {
-                textInput = textInput.replace(/[0-9]/g, "*");
+                textInput = textInput.replace(/[0-9]/g, '*');
             }
-            PrintLog("Send:" + textInput + " class name: " + node.className);
+            PrintLog('Send:' + textInput + ' class name: ' + node.className);
+
             translatedText = translate(textInput, csv);
-            if (translatedText.length > 0) { // When it founds the translated text
+
+            PrintLog('traslated text: ' + translatedText);
+            if (translatedText.length > 0) {
+                // When it founds the translated text
                 if (number.length > 0) {
                     // If it contains number("*"), recover it from the saved number
                     for (var i = 0; i < number.length; i++) {
-                        translatedText = translatedText.slice(0, translatedText.indexOf("*")) + number[i] + translatedText.slice(translatedText.indexOf("*") + 1);
+                        translatedText =
+                            translatedText.slice(0, translatedText.indexOf('*')) +
+                            number[i] +
+                            translatedText.slice(translatedText.indexOf('*') + 1);
                     }
                 }
-                PrintLog("Take:" + translatedText);
-                if (node.className.includes("btn-")) {
-                    if (!node.className.includes("-translated")) {
-                        var style = document.createElement("style");
-                        style.type = "text/css";
-                        style.innerText = "." + node.className + '::after{ content: "' + translatedText + '" !important; }';
+                PrintLog('Take:' + translatedText);
+                if ((computedStyleCheck) && (computedStyleCheck != 'none')) {
+                    if (!node.className.includes('-translated')) {
+                        var style = document.createElement('style');
+                        style.type = 'text/css';
+                        style.innerText =
+                            `.${node.className}::after{ content: \\"${translatedText}\\" !important; }`;
                         document.head.appendChild(style);
-                        node.className += " " + node.className + "-translated";
+                        node.className += ' ' + node.className + '-translated';
                     }
-                } else
+                } else {
                     node.innerHTML = translatedText;
+                }
             }
+        }
+    }
+}
+
+function GetTranslatedStoryText(node, csv) {
+    if (node) {
+        var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
+        var textContents = document.getElementsByClassName('txt-message')[0];
+        PrintLog('GetTranslatedStoryText - className: ' + node.className + ', text: ' + textInput);
+        translatedText = translate_StoryText(textInput, csv);
+        PrintLog('GetTranslatedStoryText - traslated text: ' + translatedText);
+        if (translatedText.length > 0) {
+            node.innerHTML = translatedText;
+            if (typeof textContents != 'undefined') {
+                if (textContents.innerHTML == "")
+                    translatedText = "";
+                textContents.innerHTML = translatedText;
+            }
+
         }
     }
 }
@@ -756,6 +822,7 @@ function GetTranslatedImage(node, csv) {
     if (node.className) {
         var imageInput = node.currentSrc;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        var translatedText = "";
         PrintLog("className: " + node.className);
         if (!imageInput)
             return;
@@ -786,8 +853,13 @@ function GetTranslatedImage(node, csv) {
 
 function GetTranslatedImageDIV(node, csv) {
     if (node.className) {
+        var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        if (node.className.includes("ico-mini-")) {
+            imageStyle = window.getComputedStyle(node, ":after").backgroundImage;
+        }
+        var translatedText = "";
         if (!imageStyle)
             return;
         if (textInput.includes(generalConfig.origin))
@@ -797,18 +869,36 @@ function GetTranslatedImageDIV(node, csv) {
             (imageStyle.includes("/raid/")) ||
             (imageStyle.includes("/number/"))
         )
-            return;
+            passOrNot = false;
         if ((textInput.includes("img class")) ||
             (textInput.includes("img src")) ||
             (textInput.includes("figure class")) ||
             (textInput.includes("li class")) ||
             (textInput.includes("a class"))
         )
+            passOrNot = false;
+        if ((imageStyle.includes("chara_type")) ||
+            (imageStyle.includes("race")) ||
+            (imageStyle.includes("weapon")) ||
+            (imageStyle.includes("type-"))
+        )
+            passOrNot = true;
+        if (!passOrNot)
             return;
         PrintLog("Send DIV:" + imageStyle + " Class: " + node.className);
         translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) { // When it founds the translated text
-            node.style.backgroundImage = translatedText;
+            if (node.className.includes("ico-mini-")) {
+                if (!node.className.includes('-translated')) {
+                    var style = document.createElement('style');
+                    style.type = 'text/css';
+                    style.innerText =
+                        `.${node.className}::after{ background-image: ${translatedText}!important; }`;
+                    document.head.appendChild(style);
+                    node.className += ' ' + node.className + '-translated';
+                }
+            } else
+                node.style.backgroundImage = translatedText;
             PrintLog("Take DIV:" + translatedText + " Class: " + node.className);
         }
     }
@@ -818,22 +908,22 @@ function GetTranslatedImageDIV(node, csv) {
 var sceneObserver = new MutationObserver(function(mutations) {
     mutations.some(function(mutation) {
         // PrintLog(mutation);
-        if (mutation.target.className.includes("txt-message")) {
+        if (!mutation.target.className)
+            return;
+        if (mutation.target.className.includes('prt-log-display')) {
+            if (typeof mutation.target.children[0] == 'undefined')
+                return true;
+            var nameNode = document.getElementsByClassName('txt-character-name')[0];
             sceneObserver.disconnect();
-            GetTranslatedText(mutation.target, questJson);
+            if (nameNode) {
+                if (nameNode.innerText != "") {
+                    GetTranslatedText(mutation.target.children[0].children[0], nameJson);
+                    GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
+                }
+            }
+            GetTranslatedStoryText(mutation.target.children[0].children[1], questJson);
             ObserveSceneText();
             return true;
-        }
-    });
-});
-
-var nameObserver = new MutationObserver(function(mutations) {
-    mutations.some(function(mutation) {
-        // PrintLog(mutation);
-        if (mutation.target.className.includes("txt-character-name")) {
-            nameObserver.disconnect();
-            GetTranslatedText(mutation.target, nameJson);
-            ObserveNameText();
         }
     });
 });
@@ -892,7 +982,7 @@ var BattleObserver = new MutationObserver(function(mutations) {
 
 // Queue for each observers
 async function ObserveSceneText() {
-    var oText = document.getElementsByClassName('prt-message-area')[0];
+    var oText = document.getElementsByClassName('prt-log-display')[0];
     if (!oText) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
@@ -901,23 +991,11 @@ async function ObserveSceneText() {
     }
     if ((document.URL.includes("archive")) ||
         (document.URL.includes("scene")) ||
-        (document.URL.includes("story"))
-    )
+        (document.URL.includes("story")) ||
+        (document.URL.includes("tutorial"))
+    ) {
         sceneObserver.observe(oText, config);
-}
-async function ObserveNameText() {
-    var oTextName = document.getElementsByClassName('txt-character-name')[0];
-    if (!oTextName) {
-        //The node we need does not exist yet.
-        //Wait 500ms and try again
-        window.setTimeout(ObserveNameText, generalConfig.refreshRate);
-        return;
     }
-    if ((document.URL.includes("archive")) ||
-        (document.URL.includes("scene")) ||
-        (document.URL.includes("story"))
-    )
-        nameObserver.observe(oTextName, config);
 }
 async function ObserverArchive() {
     // var oText = document.getElementById('loading');
@@ -978,7 +1056,7 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo3 = document.querySelectorAll('[class^="prt-cutin"]');
+        var battleInfo3 = document.querySelectorAll('[class^="txt-cutin"]');
         if (battleInfo3) {
             battleInfo3.forEach((bInfo) => {
                 BattleObserver.observe(bInfo, config_simple);
@@ -1004,6 +1082,7 @@ async function ObserverImage() {
     if (document.URL.includes("raid"))
         return;
     ImageObserver.observe(allElements, config);
+    ImageObserver.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
 async function ObserverImageDIV() {
     var allElements = document.querySelectorAll('[class^="contents"]')[0];
