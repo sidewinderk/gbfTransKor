@@ -859,8 +859,13 @@ function GetTranslatedImage(node, csv) {
 
 function GetTranslatedImageDIV(node, csv) {
     if (node.className) {
+        var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        if (node.className.includes("ico-mini-")) {
+            imageStyle = window.getComputedStyle(node, ":after").backgroundImage;
+        }
+        var translatedText = "";
         if (!imageStyle)
             return;
         if (textInput.includes(generalConfig.origin))
@@ -870,18 +875,36 @@ function GetTranslatedImageDIV(node, csv) {
             (imageStyle.includes("/raid/")) ||
             (imageStyle.includes("/number/"))
         )
-            return;
+            passOrNot = false;
         if ((textInput.includes("img class")) ||
             (textInput.includes("img src")) ||
             (textInput.includes("figure class")) ||
             (textInput.includes("li class")) ||
             (textInput.includes("a class"))
         )
+            passOrNot = false;
+        if ((imageStyle.includes("chara_type")) ||
+            (imageStyle.includes("race")) ||
+            (imageStyle.includes("weapon")) ||
+            (imageStyle.includes("type-"))
+        )
+            passOrNot = true;
+        if (!passOrNot)
             return;
         PrintLog("Send DIV:" + imageStyle + " Class: " + node.className);
         translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) { // When it founds the translated text
-            node.style.backgroundImage = translatedText;
+            if (node.className.includes("ico-mini-")) {
+                if (!node.className.includes('-translated')) {
+                    var style = document.createElement('style');
+                    style.type = 'text/css';
+                    style.innerText =
+                        `.${node.className}::after{ background-image: ${translatedText}!important; }`;
+                    document.head.appendChild(style);
+                    node.className += ' ' + node.className + '-translated';
+                }
+            } else
+                node.style.backgroundImage = translatedText;
             PrintLog("Take DIV:" + translatedText + " Class: " + node.className);
         }
     }
@@ -891,6 +914,8 @@ function GetTranslatedImageDIV(node, csv) {
 var sceneObserver = new MutationObserver(function(mutations) {
     mutations.some(function(mutation) {
         // PrintLog(mutation);
+        if (!mutation.target.className)
+            return;
         if (mutation.target.className.includes('prt-log-display')) {
             if (typeof mutation.target.children[0] == 'undefined')
                 return true;
