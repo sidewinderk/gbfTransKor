@@ -784,7 +784,8 @@ function GetTranslatedText(node, csv) {
                     }
                 }
                 PrintLog('Take:' + translatedText);
-                if (node.className.includes('btn-')) {
+                if ((node.className.includes("btn-")) &&
+                    (!node.className.includes("btn-tabs"))) {
                     if (!node.className.includes('-translated')) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
