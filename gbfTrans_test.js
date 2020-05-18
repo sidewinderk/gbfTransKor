@@ -731,10 +731,9 @@ function GetTranslatedText(node, csv) {
         var passOrNot = true;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
         var translatedText = "";
-        if ((node.className.includes("btn-")) &&
-            (!node.className.includes("btn-tabs"))) {
-            textInput = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
-        }
+        var computedStyleCheck = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
+        if (computedStyleCheck != 'none')
+            textInput = computedStyleCheck;
         if (kCheck.test(textInput)) return;
         PrintLog('GetTranslatedText - className: ' + node.className + ', text: ' + textInput);
         // Filter for avoiding unnecessary computing
@@ -784,8 +783,7 @@ function GetTranslatedText(node, csv) {
                     }
                 }
                 PrintLog('Take:' + translatedText);
-                if ((node.className.includes("btn-")) &&
-                    (!node.className.includes("btn-tabs"))) {
+                if (computedStyleCheck != 'none') {
                     if (!node.className.includes('-translated')) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
@@ -829,6 +827,7 @@ function GetTranslatedImage(node, csv) {
     if (node.className) {
         var imageInput = node.currentSrc;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
+        var translatedText = "";
         PrintLog("className: " + node.className);
         if (!imageInput)
             return;
