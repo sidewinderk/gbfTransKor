@@ -7,7 +7,6 @@ var isVerboseMode = true;
 var doImageSwap = true;
 var doBattleTrans = true;
 
-var storyText_index = 0;
 var questJson;
 var nameJson;
 var archiveJson;
@@ -732,7 +731,7 @@ function GetTranslatedText(node, csv) {
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
         var translatedText = "";
         var computedStyleCheck = window.getComputedStyle(node, ":after").content.replace(/['"]+/g, '');
-        if (computedStyleCheck != 'none')
+        if ((computedStyleCheck) && (computedStyleCheck != 'none'))
             textInput = computedStyleCheck;
         if (kCheck.test(textInput)) return;
         PrintLog('GetTranslatedText - className: ' + node.className + ', text: ' + textInput);
@@ -783,16 +782,12 @@ function GetTranslatedText(node, csv) {
                     }
                 }
                 PrintLog('Take:' + translatedText);
-                if (computedStyleCheck != 'none') {
+                if ((computedStyleCheck) && (computedStyleCheck != 'none')) {
                     if (!node.className.includes('-translated')) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         style.innerText =
-                            '.' +
-                            node.className +
-                            '::after{ content: "' +
-                            translatedText +
-                            '" !important; }';
+                            `.${node.className}::after{ content: \\"${translatedText}\\" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
