@@ -2946,7 +2946,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 ホワイトヴェール中は攻防UP/クリティカル確率UP/必ず連続攻撃,화이트 벨 중일 때 공격·방어UP/반드시 연속 공격
 雲水行脚,운수행각
 活性効果/奥義発動時にレコグニションによる強化効果を*ターン延長,활성효과/오의 발동 시 레커그니션의 강화 효과를 *턴 연장
-"!소환석 관련 번역 안되던 버그 해결했음. 원인은 글자 좌우측 끝에 쌍따옴표를 붙인 채로 가져와서 그런건데, csv파일 원본을 보면 ""이렇게""글자가 쌓여있어도 그걸 액셀이나 구글시트에서 가져와서 보면 없거든, 그러니 csv 상태에서 바로 복붙하면안됨."
+"!소환석 관련 번역 안되던 버그 해결했음. 원인은 글자 좌우측 끝에 쌍따옴표를 붙인 채로 가져와서 그런건데, csv파일 원본을 보면 ""이렇게""글자가 쌓여있어도 그걸 액셀이나 구글시트에서 가져와서 보면 없거든, 그러니 csv 상태에서 바로 복붙하면안됨.",!기본 틀 메모로 적음 필요하면 수정
 !안특이한 가호 효과
 
 火属性攻撃力が***%UP,화속성 공격력 ***%UP
@@ -3003,7 +3003,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 闇属性攻撃力が***%UP/闇属性キャラのHPが**%UP,암속성 공격력 ***%UP/암속성 캐릭터의 HP **%UP
 闇属性攻撃力が**%UP/闇属性キャラのHPが**%UP,암속성 공격력 **%UP/암속성 캐릭터의 HP **%UP
 全属性攻撃力が***%UP闇属性キャラのHPが**%UP,전 속성 공격력 ***%UP/전 속성 캐릭터의 HP **%UP
-全属性攻撃力が***%UP闇属性キャラのHPが**%UP,전 속성 공격력 **%UP/전 속성 캐릭터의 HP **%UP
+全属性攻撃力が**%UP闇属性キャラのHPが**%UP,전 속성 공격력 **%UP/전 속성 캐릭터의 HP **%UP
 
 火属性攻撃力が**%UP/火属性キャラのHPが**%UP/防御力**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP/방어력 **%UP
 水属性攻撃力が**%UP/水属性キャラのHPが**%UP/防御力**%UP,수속성 공격력 **%UP/수속성 캐릭터의 HP **%UP/방어력 **%UP
@@ -3040,7 +3040,7 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 リヴァイアサン・マグナの加護,리바이어선・마그나의 가호
 スキル「海神方陣」の効果が***%UP,스킬 「해신방진(海神方陣)」의 효과 ***%UP
 スキル「海神方陣」の効果が**%UP,스킬 「해신방진(海神方陣)」의 효과 **%UP
-
+覚醒せし大海の化身は咆哮を轟かせる。荒れ狂う海波が全てを砕き、安寧の祈りすらも光無き海底へと沈む。,覚醒せし大海の化身は咆哮を轟かせる。荒れ狂う海波が全てを砕き、安寧の祈りすらも光無き海底へと沈む。
 ユグドラシル・マグナ,유그드라실・마그나
 "<span class=""txt-summon-level"">Lv ***</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv ***</span> 유그드라실・마그나"
 "<span class=""txt-summon-level"">Lv **</span> ユグドラシル・マグナ","<span class=""txt-summon-level"">Lv **</span> 유그드라실・마그나"
@@ -3055,8 +3055,12 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv ***</span> 티아마트・마그나"
 "<span class=""txt-summon-level"">Lv **</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv **</span> 티아마트・마그나"
 "<span class=""txt-summon-level"">Lv *</span> ティアマト・マグナ","<span class=""txt-summon-level"">Lv *</span> 티아마트・마그나"
+トルネードディザスター,토네이도 디재스터
+敵全体に風属性ダメージ(特大)/攻撃DOWN(中),적 전체에게 풍속성 대미지(특대)/공격DOWN(중)
+ティアマト・マグナの加護,티아마트・마그나의 가호
 スキル「嵐竜方陣」の効果が***%UP,스킬 「람룡방진(嵐竜方陣)」의 효과 ***%UP
 スキル「嵐竜方陣」の効果が**%UP,스킬 「람룡방진(嵐竜方陣)」의 효과 **%UP
+風の暴竜は荒れ狂う嵐となって全空に君臨する。覚醒せし竜の慟哭は空を裂き、不可避の厄災は幾千もの島々を飲み込む。,風の暴竜は荒れ狂う嵐となって全空に君臨する。覚醒せし竜の慟哭は空を裂き、不可避の厄災は幾千もの島々を飲み込む。
 シュヴァリエ・マグナ,슈발리에・마그나
 "<span class=""txt-summon-level"">Lv ***</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv ***</span> 슈발리에・마그나"
 "<span class=""txt-summon-level"">Lv **</span> シュヴァリエ・マグナ","<span class=""txt-summon-level"">Lv **</span> 슈발리에・마그나"
@@ -3089,6 +3093,9 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv **</span> グリームニル","<span class=""txt-summon-level"">Lv **</span> 그림니르"
 "<span class=""txt-summon-level"">Lv *</span> グリームニル","<span class=""txt-summon-level"">Lv *</span> 그림니르"
 
+!프로비던스
+[プロヴィデンスシリーズ],[프로비던스 스리즈]
+
 ルシフェル,루시펠
 "<span class=""txt-summon-level"">Lv ***</span> ルシフェル","<span class=""txt-summon-level"">Lv ***</span> 루시펠"
 "<span class=""txt-summon-level"">Lv **</span> ルシフェル","<span class=""txt-summon-level"">Lv **</span> 루시펠"
@@ -3097,6 +3104,11 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> バハムート","<span class=""txt-summon-level"">Lv ***</span> 바하무트"
 "<span class=""txt-summon-level"">Lv **</span> バハムート","<span class=""txt-summon-level"">Lv **</span> 바하무트"
 "<span class=""txt-summon-level"">Lv *</span> バハムート","<span class=""txt-summon-level"">Lv *</span> 바하무트"
+ベリアル,베리알
+"<span class=""txt-summon-level"">Lv ***</span> ベリアル","<span class=""txt-summon-level"">Lv ***</span> 베리알"
+"<span class=""txt-summon-level"">Lv **</span> ベリアル","<span class=""txt-summon-level"">Lv **</span> 베리알"
+"<span class=""txt-summon-level"">Lv *</span> ベリアル","<span class=""txt-summon-level"">Lv *</span> 베리알"
+闇属性攻撃力が***%UP/闇属性キャラの最大HPを上限*****に固定,암속성 공격력 ***%UP/암속성 캐릭터의 최대HP 상한을 *****으로 고정
 
 !140짜리리메이크
 
@@ -3238,6 +3250,10 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ハデス","<span class=""txt-summon-level"">Lv ***</span> 하데스"
 "<span class=""txt-summon-level"">Lv **</span> ハデス","<span class=""txt-summon-level"">Lv **</span> 하데스"
 "<span class=""txt-summon-level"">Lv *</span> ハデス","<span class=""txt-summon-level"">Lv *</span> 하데스"
+ハデス･ディヴィジョン,하데스･디비젼
+"<span class=""txt-summon-level"">Lv ***</span> ハデス･ディヴィジョン","<span class=""txt-summon-level"">Lv ***</span> 하데스･디비젼"
+"<span class=""txt-summon-level"">Lv **</span> ハデス･ディヴィジョン","<span class=""txt-summon-level"">Lv **</span> 하데스･디비젼"
+"<span class=""txt-summon-level"">Lv *</span> ハデス･ディヴィジョン","<span class=""txt-summon-level"">Lv *</span> 하데스･디비젼"
 スキル「闇」「憎悪」「奈落」の効果が***%UP,스킬 「어둠(闇)」「증오(憎悪)」「나락(奈落)」의 효과 ***%UP
 スキル「闇」「憎悪」「奈落」の効果が**%UP,스킬 「어둠(闇)」「증오(憎悪)」「나락(奈落)」의 효과 **%UP
 
@@ -3259,6 +3275,11 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> メドゥーサ","<span class=""txt-summon-level"">Lv ***</span> 메두사"
 "<span class=""txt-summon-level"">Lv **</span> メドゥーサ","<span class=""txt-summon-level"">Lv **</span> 메두사"
 "<span class=""txt-summon-level"">Lv *</span> メドゥーサ","<span class=""txt-summon-level"">Lv *</span> 메두사"
+ゴリラ,고릴라
+"<span class=""txt-summon-level"">Lv ***</span> ゴリラ","<span class=""txt-summon-level"">Lv ***</span> 고릴라"
+"<span class=""txt-summon-level"">Lv **</span> ゴリラ","<span class=""txt-summon-level"">Lv **</span> 고릴라"
+"<span class=""txt-summon-level"">Lv *</span> ゴリラ","<span class=""txt-summon-level"">Lv *</span> 고릴라"
+土属性攻撃力が***%UP/バトル開始時に味方全体にバナナ効果,토속성 공격력 ***%UP/베틀 시작할 때 아군 전체에게 바나나 효과
 アポロン,아폴론
 "<span class=""txt-summon-level"">Lv ***</span> アポロン","<span class=""txt-summon-level"">Lv ***</span> 아폴론"
 "<span class=""txt-summon-level"">Lv **</span> アポロン","<span class=""txt-summon-level"">Lv **</span> 아폴론"
@@ -3416,9 +3437,9 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 パーティ全体に自動復活効果(*回)/連続攻撃確率UP/アイテムドロップ率と獲得経験値が**%UP,파티원 모두에게 자동부활효과(*회)/연속공격확률UP/아이템 드랍률과 경험치 획득량 **%UP
 
 ジ・オーダー・グランデ,디・오더・그랑데
-"<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv ***</span> 디 오더 그랑데"
-"<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv **</span> 디 오더 그랑데"
-"<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv *</span> 디 오더 그랑데"
+"<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv ***</span> 디・오더・그랑데"
+"<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv **</span> 디・오더・그랑데"
+"<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv *</span> 디・오더・그랑데"
 バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP,배틀 멤버의 속성이 *종류 이상이면 공격력***%UP
 バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP/防御力**%UP,배틀 멤버의 속성이 *종류 이상이면 공격력***%UP/방어력**%UP
 
@@ -3518,7 +3539,7 @@ C.C.,C.C.
 
 !SR
 
-火竜ヴレッザレク,화룡 브레자레크
+火竜ヴレッザレク,화룡 블레자레크
 "<span class=""txt-summon-level"">Lv ***</span> 火竜ヴレッザレク","<span class=""txt-summon-level"">Lv ***</span> 화룡 블레자레크"
 "<span class=""txt-summon-level"">Lv **</span> 火竜ヴレッザレク","<span class=""txt-summon-level"">Lv **</span> 화룡 블레자레크"
 "<span class=""txt-summon-level"">Lv *</span> 火竜ヴレッザレク","<span class=""txt-summon-level"">Lv *</span> 화룡 블레자레크"
@@ -4008,12 +4029,12 @@ C.C.,C.C.
 火属性ダメージ(特大)/味方全体に火属性追撃効果,화속성 데미지 (특대)/아군 전체에 화속성 추격 효과
 壱之舞・霜月＋,첫번째 춤・상월＋
 自分にかばう効果,자신에게 감싸기 효과
-陸之舞・雲龍＋,로쿠노마이・운류＋
+陸之舞・雲龍＋,뭍가의 춤・운룡＋
 味方全体の全属性ダメージカット(**%),아군 전체에 전 속성 데미지 컷(**%)
-終之舞・時詠改,슈우노마이・토키요미아라타메
+終之舞・時詠改,마무리 춤・토키요미아라타메
 "<div class=""prt-text-small"">徐々に火属性キャラの連続攻撃確率UP　<span class=""text-blue"">◆演舞中通常攻撃をしない/再使用で演舞を終了し連続攻撃確率UPの効果が一定時間続く</span></div>","<div class=""prt-text-small"">서서히 화속성 캐릭터의 연속 공격 확률 UP　<span class=""text-blue"">◆연무 중 통상 공격을 하지 않음 /재사용으로 연무를 종료하고 연속 공격 확률 UP의 효과가 일정 시간 지속</span></div>"
 大いなる九尾の炎,거대한 구미호의 불꽃
-被ダメージ時の奥義ゲージ上昇量UP,피데미지 시의 오의 게이지 상승량 UP
+被ダメージ時の奥義ゲージ上昇量UP,"공격 받았을 때, 오의 게이지 상승량 UP"
 大切な人へ捧げる舞,소중한 사람에게 바치는 춤
 演舞中高揚効果/防御大幅UP/敵対心UP/カウンター(被ダメージ/*回),연무 중 고양 효과/방어 대폭 UP/적대심 UP/카운터(피데미지/*회)
 
@@ -4027,7 +4048,7 @@ C.C.,C.C.
 レックレスレイド＋,렉클리스 레이드＋
 "<div class=""prt-text-small"">敵に火属性ダメージ/灼熱効果<br><span class=""text-blue"">力圧の刃：自分の攻撃大幅UP(*回)<br>技錬の刃：敵にスロウ効果</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지/작열 효과<br><span class=""text-blue"">역압의 날：자신의 공격 대폭 UP(*회)<br>기련의 날：적에게 슬로우 효과</span></div>"
 スウォード・スイッチ＋,소드・스위치＋
-技錬の刃に切り替える,기련의 검로 전환
+技錬の刃に切り替える,기련의 검으로 전환
 ロード・アゲイン,로드・어게인
 "自分の攻撃UP/連続攻撃確率UP/回避率UP　<span class=""text-blue"">◆奥義ゲージを**％消費</span>","자신의 공격 UP/연속 공격 확률 UP/회피율 UP　<span class=""text-blue"">◆오의 게이지를 **％ 소비</span>"
 力圧の刃,역압의 검
