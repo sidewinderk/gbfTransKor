@@ -870,6 +870,609 @@ index,sceneCode,jp,kr
 111,[scene_evt200515_cp0_q2_s10],"<span class=""scene-font-katari"">この後、街が綺麗になってから</span><br><span class=""scene-font-katari"">楓の歓迎会が開かれることになるのだが</span><br><span class=""scene-font-katari"">それは少し先の話──</span>"
 112,[scene_evt200515_cp0_q2_s10],"<span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　　　　　　──To Be Continued...</span>"
 
+!이벤트 4-1
+0,[scene_evt200515_cp4_q1_s10],よーし、仕上げは済んだ！<br>これで修繕は終わりだ！
+1,[scene_evt200515_cp4_q1_s10],遂に終わったんですね！<br>お疲れ様でした！
+2,[scene_evt200515_cp4_q1_s10],"はい。<br>おつ<span class=""scene-font-spword"">“カレー”</span>さまでした♪"
+3,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-katari"">ぴにゃの書を巡る騒動が起きてから</span><br><span class=""scene-font-katari"">暫く経ったとある日──</span>"
+4,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-katari"">被害を受けた街は</span><br><span class=""scene-font-katari"">Side.Wたちの頑張りもあり、</span><br><span class=""scene-font-katari"">すっかり綺麗になっていた。</span>"
+5,[scene_evt200515_cp4_q1_s10],カエデもペンキを塗ったり、<br>細かいところ直したりしてくれて<br>すっげぇ頼りになったぜ！
+6,[scene_evt200515_cp4_q1_s10],本当ですか？<br>お役に立てたのなら光栄です♪
+7,[scene_evt200515_cp4_q1_s10],作業、お疲れ様でした！<br>お菓子の差し入れを持ってきたので<br>皆さんで食べてください！
+8,[scene_evt200515_cp4_q1_s10],ぴにゃあっ！
+9,[scene_evt200515_cp4_q1_s10],ありがとうっ！<br>エミリンのところのお菓子美味しいから<br>すっごく嬉しいよ！
+10,[scene_evt200515_cp4_q1_s10],修繕も無事に終わったし、<br>そろそろお預けになってた歓迎会、<br>したいね。
+11,[scene_evt200515_cp4_q1_s10],そう言うと思って、<br>食堂のおっちゃんに<br>話を通しておきましたよ！
+12,[scene_evt200515_cp4_q1_s10],偶然にも私が紹介しようとしていた店が<br>彼の知り合いの経営する店だったので、<br>色々と手配をお願いしたんだ。
+13,[scene_evt200515_cp4_q1_s10],それはラッキーでしたね！<br>じゃあ、今夜は……
+14,[scene_evt200515_cp4_q1_s10],復興祝いも兼ねて、<br>楓さんの歓迎会だね。
+15,[scene_evt200515_cp4_q1_s10],すみません。<br>皆さんにお礼がしたいっていう人が<br>思いの外沢山集まってしまって。
+16,[scene_evt200515_cp4_q1_s10],皆さんのお席は半個室の場所を<br>用意してもらってるんで、<br>ゆっくりはできると思うんですけど。
+17,[scene_evt200515_cp4_q1_s10],大丈夫ですよ。<br>ひと通りお食事が済んだら、<br>皆さんのお席にもご挨拶に伺いますね。
+18,[scene_evt200515_cp4_q1_s10],それじゃあ、<br>夜は盛り上がっていこうぜ！
+19,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-spword"">“はぁ～い”</span>！<br><span class=""scene-font-spword"">“ハイ”</span>テンションでいきましょう♪"
+20,[scene_evt200515_cp4_q1_s10],ごくごく……
+21,[scene_evt200515_cp4_q1_s10],はぁー！<br>異世界のお酒も<br>とっても美味しいです♪
+22,[scene_evt200515_cp4_q1_s10],今日はカエデちゃんが主役にゃ！<br>ガンガン飲むにゃ！
+23,[scene_evt200515_cp4_q1_s10],ふたりとも、楽しむのはいいけど、<br>あんまり飲みすぎて<br>羽目を外しすぎないようにね？
+24,[scene_evt200515_cp4_q1_s10],はぁい♪<br>気をつけますっ！
+25,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-katari"">夜になり、</span><br><span class=""scene-font-katari"">楓の歓迎会が遂に開始する。</span>"
+26,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-katari"">酒好きな楓が歓迎会を楽しめるよう、</span><br><span class=""scene-font-katari"">艇内に残っていた団員も</span><br><span class=""scene-font-katari"">食堂に駆けつけていた。</span>"
+27,[scene_evt200515_cp4_q1_s10],酒以外にもこの食堂は<br>様々な飲み物を取り揃えている。<br>無論、私のお勧めはミルクだがな。
+28,[scene_evt200515_cp4_q1_s10],ふふっ、これだけ沢山あると<br>目移りしちゃいますね♪<br>どれにしようかな～？
+29,[scene_evt200515_cp4_q1_s10],皆さん、こちらに<br>いらっしゃいましたか～！<br>先日の騒動でも大活躍だったそうで～
+30,[scene_evt200515_cp4_q1_s10],あっ、<br>よろず屋さんもこの島に来てたんだ。
+31,[scene_evt200515_cp4_q1_s10],ここには魅力的な名産品が<br>沢山ありますから、商売の取引を<br>させていただいてるんですよ～
+32,[scene_evt200515_cp4_q1_s10],"皆さんのお陰で島の<span class=""scene-font-spword"">“損害”</span>も抑えられて、<br>シェロちゃんも<span class=""scene-font-spword"">“存外”</span>大助かりでした～<br>うぷぷぷぷ～"
+33,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-kokoro"">（あっ、ダジャレ♪）</span>"
+34,[scene_evt200515_cp4_q1_s10],"<span class=""scene-font-katari"">シェロカルテは</span><br><span class=""scene-font-katari"">ゆっくり楽しむように言って、</span><br><span class=""scene-font-katari"">その場を後にする。</span>"
+35,[scene_evt200515_cp4_q1_s10],そろそろ場も温まってきたし、<br>なんか歓迎会っぽいことしない？
+36,[scene_evt200515_cp4_q1_s10],歓迎会っぽいことって<br>なんでしょうか？
+37,[scene_evt200515_cp4_q1_s10],ほらほら、ゲームとか自己紹介とか<br>学校の打ち上げでやらない？<br>まぁ自己紹介は要らないと思うけど……
+38,[scene_evt200515_cp4_q1_s10],ゲームなら、私みんなで楽しめる<br>いいゲームを知っていますよ。
+39,[scene_evt200515_cp4_q1_s10],うわぁ、どんなゲームなんですか？<br>教えてくださいっ！
+40,[scene_evt200515_cp4_q1_s10],そのゲームとは……
+41,[scene_evt200515_cp4_q1_s10],ずばり、王様ゲームです♪
+
+!이벤트 4-2
+
+0,[scene_evt200515_cp4_q2_s10],王様ゲーム……っ！！
+1,[scene_evt200515_cp4_q2_s10],"<span class=""scene-font-katari"">楓の発言を聞き、</span><br><span class=""scene-font-katari"">思わず立ち上がる凛。</span>"
+2,[scene_evt200515_cp4_q2_s10],うわぁっ！？<br>凛ちゃん、急にどうしたんですか？
+3,[scene_evt200515_cp4_q2_s10],いや、その……<br>王様ゲームは前に楓さんと<br>やったことがあって……
+4,[scene_evt200515_cp4_q2_s10],さてはその時が楽しすぎて<br>思わず立ち上がってしまったんだね？
+5,[scene_evt200515_cp4_q2_s10],しぶりんの意外な一面、はっけ～ん☆
+6,[scene_evt200515_cp4_q2_s10],違う、その逆！<br>……大変だったの。<br>楓さん、大暴走で……
+7,[scene_evt200515_cp4_q2_s10],王様ゲーム……<br>聞いたことのない響きにゃ。<br>カエデちゃん、どんなゲームなの？
+8,[scene_evt200515_cp4_q2_s10],それはですね……
+9,[scene_evt200515_cp4_q2_s10],"<span class=""scene-font-katari"">楓は王様ゲームのルールを</span><br><span class=""scene-font-katari"">簡単に説明する。</span>"
+10,[scene_evt200515_cp4_q2_s10],ふむふむ、くじで王様を決めて、<br>王様がみんなに命令をするゲーム……<br>ということは……？
+11,[scene_evt200515_cp4_q2_s10],王様だ～れにゃ？<br>王様だ～れだ？<br>王様だ、れ……？
+12,[scene_evt200515_cp4_q2_s10],はいはーいっ！<br>あたしが王様引いたにゃ！
+13,[scene_evt200515_cp4_q2_s10],ラムレッダね。<br>では王様、命令をどうぞ！
+14,[scene_evt200515_cp4_q2_s10],王様が命じる。<br>とにかく全員楽しく飲むにゃ！
+15,[scene_evt200515_cp4_q2_s10],かんぱーい！<br>ごくごく……
+16,[scene_evt200515_cp4_q2_s10],ぷっはぁー！　最高ー！<br>ぷっはぁー！　最高ね！
+17,[scene_evt200515_cp4_q2_s10],ごめん……<br>虹、見えそう……っぷ……
+18,[scene_evt200515_cp4_q2_s10],レム代は無理しないで。<br>さぁ、次のターンにいくから<br>みんな、くじを引いて！
+19,[scene_evt200515_cp4_q2_s10],引いたよー<br>せーのっ！
+20,[scene_evt200515_cp4_q2_s10],王様だ～れにゃ？<br>王様だ～れだ？<br>王様だ……めだっ……？
+21,[scene_evt200515_cp4_q2_s10],あっ、ぼくだー！<br>それじゃあみんなに命令す──
+22,[scene_evt200515_cp4_q2_s10],"<span class=""scene-font-4"">こらー！！</span><br>ぼくのくじを取ったの誰だー！"
+23,[scene_evt200515_cp4_q2_s10],我よ。
+24,[scene_evt200515_cp4_q2_s10],"<span class=""scene-font-katari"">いつの間にか現れた５人目の手には</span><br><span class=""scene-font-katari"">「王様」と書かれたくじが</span><br><span class=""scene-font-katari"">握られている。</span>"
+25,[scene_evt200515_cp4_q2_s10],羅無……！<br>あんたは眠ってたはずじゃあ！
+26,[scene_evt200515_cp4_q2_s10],うぬらが酒を求むるその心が<br>我を酩酊の深淵から目覚めさせたのだ。
+27,[scene_evt200515_cp4_q2_s10],クックックッ……<br>うぬらには感謝しておる。
+28,[scene_evt200515_cp4_q2_s10],"<span class=""scene-font-4"">フハハハハハッ！</span><br>では、ゲームを再開しよう！<br>王たる我がうぬらに命じる──"
+29,[scene_evt200515_cp4_q2_s10],あ、あわわわわ……！！<br>大変にゃ～！！
+
+!이벤트 4-3
+0,[scene_evt200515_cp4_q3_s10],なっ……！　<br>あたしたちに何をさせるつもりにゃ！
+1,[scene_evt200515_cp4_q3_s10],我の野望は皆が欲望のままに<br>酒を飲み明かせる世界を創ること。
+2,[scene_evt200515_cp4_q3_s10],うぬらは我が野望のための<br>忠実なる僕となってもらう。<br>さぁ……我が創る新世界の礎となれ！
+3,[scene_evt200515_cp4_q3_s10],"<span class=""scene-font-4"">ひぇぇえええ～～！！</span><br>魔王にゃ！　魔王が現れたにゃ～～！<br>これじゃあ魔王様ゲームにゃ～～！！"
+4,[scene_evt200515_cp4_q3_s10],あの、ラムレッダさん、<br>何を言ってるんですか？
+5,[scene_evt200515_cp4_q3_s10],ぐぅ……そんな恐ろしい世界のために<br>誰が協力なんか……！
+6,[scene_evt200515_cp4_q3_s10],いや……実現したら、それはそれで<br>案外優しい世界かもしれないにゃ……？
+7,[scene_evt200515_cp4_q3_s10],やれやれ……<br>どんな妄想してるんだよ？
+8,[scene_evt200515_cp4_q3_s10],お酒は節度を守って楽しむのが<br>レディの嗜みよ？
+9,[scene_evt200515_cp4_q3_s10],はい、お水。<br>少しペースを下げたほうがいいわ。
+10,[scene_evt200515_cp4_q3_s10],ごくごく……ありがと、にゃ……<br>はぁはぁ……あたし以外のあたしには<br>お引き取り願うにゃ……
+11,[scene_evt200515_cp4_q3_s10],"<span class=""scene-font-kokoro"">（ロゼッタさん、</span><br><span class=""scene-font-kokoro"">酔った人の面倒見るのに慣れてる感じ。</span><br><span class=""scene-font-kokoro"">すごく安心できるな……）</span>"
+12,[scene_evt200515_cp4_q3_s10],私利私欲のまま世界征服を始める<br>魔王、ですか……
+13,[scene_evt200515_cp4_q3_s10],確かに、もし王様ゲームで<br>王様を引いた人が魔王だったら、<br>大変なことになってしまいますね。
+14,[scene_evt200515_cp4_q3_s10],王様ゲームするくらい仲いい人が<br>魔王なんて有り得ないし、そもそも<br>王様ゲームにそんな強制力ないって。
+15,[scene_evt200515_cp4_q3_s10],本当にそうでしょうか？<br>誰が何を考えてるかなんて、<br>わからないじゃないですか。
+16,[scene_evt200515_cp4_q3_s10],楓さん？<br>それはどういう意味ですか？
+17,[scene_evt200515_cp4_q3_s10],ふふふ……<br>それは、ね……
+
+!이벤트 4-4
+
+0,[scene_evt200515_cp4_q4_s10],そんな、楓さんが……！
+1,[scene_evt200515_cp4_q4_s10],嘘です、こんなことって……<br>私、認められません！
+2,[scene_evt200515_cp4_q4_s10],ふふふ……<br>まさかこんなに早く計画を<br>進められるなんて、ね……
+3,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">ショックを隠せない様子の</span><br><span class=""scene-font-katari"">卯月とルリアの前で、</span><br><span class=""scene-font-katari"">楓は怪しい笑みを浮かべる。</span>"
+4,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">卯月、凛、ルリアの３人は</span><br><span class=""scene-font-katari"">楓と一緒に王様ゲームを楽しんでいた。</span>"
+5,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">ところが楓が王様を引き当てた瞬間、</span><br><span class=""scene-font-katari"">楓の態度が豹変したのだった。</span>"
+6,[scene_evt200515_cp4_q4_s10],自己紹介が遅れたわね。<br>私はこの世界を創り変えるために<br>異世界より送られた魔王……
+7,[scene_evt200515_cp4_q4_s10],か弱い歌姫に扮し、<br>貴方たちという最大の障害を<br>退ける機会をずっと窺っていたの。
+8,[scene_evt200515_cp4_q4_s10],カエデさんが魔王のはずありません！<br>だってカエデさんは私たちの仲間で……
+9,[scene_evt200515_cp4_q4_s10],きっと楓さんは術に操られてるんだ。<br>だったら私たちで術を解こう！
+10,[scene_evt200515_cp4_q4_s10],ふふふ、本当に無垢な人たち……<br>どうしても信じたいというなら、<br>魔王らしく希望を打ち砕いてあげます。
+11,[scene_evt200515_cp4_q4_s10],"……<span class=""scene-font-spword"">“素敵”</span>な<span class=""scene-font-spword"">“ステッキ”</span>。"
+12,[scene_evt200515_cp4_q4_s10],"……いい<span class=""scene-font-spword"">“センス”</span>の<span class=""scene-font-spword"">“扇子”</span>。"
+13,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">楓が呟くように呼び掛けると、</span><br><span class=""scene-font-katari"">ふたつの武器が従者のように</span><br><span class=""scene-font-katari"">楓の前に集う。</span>"
+14,[scene_evt200515_cp4_q4_s10],いつものダジャレ……
+15,[scene_evt200515_cp4_q4_s10],いまこそ私の正体を……！
+16,[scene_evt200515_cp4_q4_s10],私はダジャレ界より降臨した<br>ダジャレ魔王・楓！
+17,[scene_evt200515_cp4_q4_s10],私の目的はみんなが思いのままに<br>ダジャレを言える世界を創ること……
+18,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-spword"">“楓”</span>が世界を<span class=""scene-font-spword"">“変え”</span>たる<span class=""scene-font-spword"">“で”</span>♪"
+19,[scene_evt200515_cp4_q4_s10],…………
+20,[scene_evt200515_cp4_q4_s10],別に、いまの世界でも<br>ダジャレを言っちゃいけない<br>ルールなんてないんだけど……
+21,[scene_evt200515_cp4_q4_s10],自己紹介はこのくらいにして、<br>本題に入りましょうか～♪
+22,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">楓は引き当てた「王様」のくじを</span><br><span class=""scene-font-katari"">ひらつかせながら、</span><br><span class=""scene-font-katari"">卯月たちの顔をじっくりと見比べる。</span>"
+23,[scene_evt200515_cp4_q4_s10],では、１番と２番の方。
+24,[scene_evt200515_cp4_q4_s10],私、１番です……
+25,[scene_evt200515_cp4_q4_s10],２番です……
+26,[scene_evt200515_cp4_q4_s10],ふふふ。<br>ふたりとも、前に出てきて。
+27,[scene_evt200515_cp4_q4_s10],…………
+28,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">王様の命令に逆らえず、</span><br><span class=""scene-font-katari"">卯月とルリアは楓の前に立つ。</span>"
+29,[scene_evt200515_cp4_q4_s10],王様が命じます。<br>ふたりでダジャレ対決をしなさい！
+30,[scene_evt200515_cp4_q4_s10],えぇっ！？<br>ダジャレ対決ですか？
+31,[scene_evt200515_cp4_q4_s10],ルールは簡単。<br>ダジャレを思いつくだけ言って、<br>ひとつでも多く言えた方が勝ちです。
+32,[scene_evt200515_cp4_q4_s10],負けた方は強制連行します。<br>真剣勝負ですから♪
+33,[scene_evt200515_cp4_q4_s10],強制連行って、そんなのっ！
+34,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-gray"">──ッ！！</span>"
+35,[scene_evt200515_cp4_q4_s10],なによ、こいつ……！
+36,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">理不尽な対決をやめさせようと</span><br><span class=""scene-font-katari"">足を進めた凛を楓の武器が阻む。</span>"
+37,[scene_evt200515_cp4_q4_s10],凛ちゃん、勝負の邪魔は<br>めっ！　ですよ。
+38,[scene_evt200515_cp4_q4_s10],では、ダジャレ対決スタートです！
+39,[scene_evt200515_cp4_q4_s10],うぅ……<br>ダジャレなんて急に言われても……
+40,[scene_evt200515_cp4_q4_s10],思いつかないですよね……
+41,[scene_evt200515_cp4_q4_s10],……きゃあっ！
+42,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-gray"">──ッッッ！！</span>"
+43,[scene_evt200515_cp4_q4_s10],はわわっ！<br>し、真剣に考えてますよ！
+44,[scene_evt200515_cp4_q4_s10],うぅぅ～～<br>ダジャレ……楓さん……カエデ……<br>葉っぱ……
+45,[scene_evt200515_cp4_q4_s10],あっ！
+46,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-spword"">“葉っぱ”</span>が、<span class=""scene-font-spword"">“はっぱ”</span>64枚落ちてます！"
+47,[scene_evt200515_cp4_q4_s10],卯月ちゃん、１ポイントゲット～♪
+48,[scene_evt200515_cp4_q4_s10],お歌を歌おう……<br>艇で艇酔い……<br>カエルの子はカエル……
+49,[scene_evt200515_cp4_q4_s10],残念、ルリアちゃん。<br>いっぱい言ってくれたけど、<br>それはダジャレではないですね……
+50,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-gray"">──っ！！</span>"
+51,[scene_evt200515_cp4_q4_s10],あら、もうそんなに経ちましたか？<br>ふたりとも、残り時間は10秒です。<br>10、９、８、７……
+52,[scene_evt200515_cp4_q4_s10],そんなっ！
+53,[scene_evt200515_cp4_q4_s10],うぅ～、ダジャレ思いつきません～……
+54,[scene_evt200515_cp4_q4_s10],頑張ってください、ルリアちゃん！
+55,[scene_evt200515_cp4_q4_s10],３、２、１……
+56,[scene_evt200515_cp4_q4_s10],タイムアップです！<br>この対決、１対０で卯月ちゃんの勝ち！
+57,[scene_evt200515_cp4_q4_s10],負けたルリアちゃんは、<br>残念ながら連行です……くすん。
+58,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">勝敗が決まった瞬間、</span><br><span class=""scene-font-katari"">扇子がルリアの体をすくい上げた。</span>"
+59,[scene_evt200515_cp4_q4_s10],はぅわっ！？<br>ウヅキさん、わ、私……！
+60,[scene_evt200515_cp4_q4_s10],安心してください、ルリアちゃん！<br>私も一緒に連行されます！<br>ルリアちゃんをひとりにさせません！
+61,[scene_evt200515_cp4_q4_s10],えっ！<br>卯月、何を……！
+62,[scene_evt200515_cp4_q4_s10],だって私がダジャレを言わなければ<br>ルリアちゃんは助かったはずなんです。<br>そんなの不公平です！
+63,[scene_evt200515_cp4_q4_s10],待って、卯月。<br>連行しようとしてるのは楓さんだよ。<br>卯月のせいじゃない！
+64,[scene_evt200515_cp4_q4_s10],一度にふたりも連行できるなんて<br>ラッキーだわ♪
+65,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-4"">きゃぁぁあっ！！</span>"
+66,[scene_evt200515_cp4_q4_s10],ふふふ、<br>ふたりきりになってしまいましたね、<br>凛ちゃん。
+67,[scene_evt200515_cp4_q4_s10],…………
+68,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-kokoro"">（私がなんとかしなきゃ！</span><br><span class=""scene-font-kokoro"">こんな馬鹿げた陰謀、</span><br><span class=""scene-font-kokoro"">絶対に私が食い止めてみせる！）</span>"
+69,[scene_evt200515_cp4_q4_s10],"<span class=""scene-font-katari"">凛は蒼い剣を構え、</span><br><span class=""scene-font-katari"">不敵に笑うダジャレ魔王・楓に</span><br><span class=""scene-font-katari"">鋭い目を向ける。</span>"
+
+!이벤트 5-1
+
+0,[scene_evt200515_cp5_q1_s10],……なんてことが、<br>あるかもしれないじゃない。
+1,[scene_evt200515_cp5_q1_s10],いや、ないって。<br>大体、なんで楓さんが魔王なの？
+2,[scene_evt200515_cp5_q1_s10],私が魔王じゃダメですか？
+3,[scene_evt200515_cp5_q1_s10],ダメっていうか、<br>そもそも楓さんは魔王じゃないし……
+4,[scene_evt200515_cp5_q1_s10],いいじゃんいいじゃん！<br>楓さんが魔王なんて意外性バツグンだし<br>なんかカッコいいよ！
+5,[scene_evt200515_cp5_q1_s10],はい！<br>楓さんが魔王の目的を語ってる時、<br>私もゾクゾクしちゃいました！
+6,[scene_evt200515_cp5_q1_s10],私もカエデさんが魔王役、<br>とってもいいと思います！
+7,[scene_evt200515_cp5_q1_s10],みんな結構乗り気だね……<br>確かに楓さんは迫力あってすごかったし<br>所詮は妄想だし、まぁいいか……
+8,[scene_evt200515_cp5_q1_s10],"ふふっ、<br>楓が<span class=""scene-font-spword"">“魔王”</span>役……<br><span class=""scene-font-spword"">“まぁ、オー”</span>ケーですよね♪"
+9,[scene_evt200515_cp5_q1_s10],でも私たちなんで<br>連行されたんでしょう？
+10,[scene_evt200515_cp5_q1_s10],言われてみれば<br>何の説明もなかったよね。<br>悪役っぽさはあったけど。
+11,[scene_evt200515_cp5_q1_s10],それはほら、<br>ダジャレルームに入れられて<br>ダジャレの特訓をするためじゃない？
+12,[scene_evt200515_cp5_q1_s10],「ダジャレ王国の臣民たる諸君には<br>ダジャレマスターになってもらう！」<br>……みたいな！
+13,[scene_evt200515_cp5_q1_s10],いいアイディアですね！<br>ダジャレ王国の住人なら、<br>ダジャレで会話くらいできないとっ！
+14,[scene_evt200515_cp5_q1_s10],そんな王国があったら私、<br>生きていける自信がありません……
+15,[scene_evt200515_cp5_q1_s10],ほとんどの人はそうだと思うよ。<br>私も無理……
+16,[scene_evt200515_cp5_q1_s10],世界征服を目論む魔王の登場……<br>となると魔王を討ち倒す勇者が現れ、<br>立ち向かうというのが定石か。
+17,[scene_evt200515_cp5_q1_s10],あら、ラグナちゃんも<br>楽しくなってきたみたいね。
+18,[scene_evt200515_cp5_q1_s10],各地の伝承も好きで<br>よく嗜んでるからな。
+19,[scene_evt200515_cp5_q1_s10],魔王とそれを倒す勇者の戦い……
+20,[scene_evt200515_cp5_q1_s10],うんうん、らしくなってきたじゃん！
+21,[scene_evt200515_cp5_q1_s10],ウヅキちゃんやリンちゃんたちは<br>魔王討伐のため旅をしていた勇者たち、<br>っていうところね。
+22,[scene_evt200515_cp5_q1_s10],ところが真の魔王は、<br>旅を共にする仲間の中に紛れていた……
+23,[scene_evt200515_cp5_q1_s10],さっきのは、<br>それが明らかになったシーンかしら。
+24,[scene_evt200515_cp5_q1_s10],あんな滅茶苦茶な妄想から<br>それっぽい設定を考えるって、<br>すげぇな……
+25,[scene_evt200515_cp5_q1_s10],はいはーい！<br>未央ちゃん、勇者のひとりとして<br>この物語に参加したいでーす☆
+26,[scene_evt200515_cp5_q1_s10],わぁ！　未央ちゃんも<br>仲間になってくれるんですね！
+27,[scene_evt200515_cp5_q1_s10],当然っ！　ニュージェネレーションズの<br>リーダーとして、捕まったメンバーを<br>見捨てるわけにはいかんのです！
+28,[scene_evt200515_cp5_q1_s10],面白い。<br>私も勇者として参加しよう。
+29,[scene_evt200515_cp5_q1_s10],私も参加するにゃ！<br>ロゼッタさんはどうする？
+30,[scene_evt200515_cp5_q1_s10],魔王がふたりもいるわけには<br>いかないでしょうし……<br>アタシも勇者に肩入れさせてもらうわ。
+31,[scene_evt200515_cp5_q1_s10],そういうことなら<br>オイラたちも勇者やろうぜ、<br>Side.W！
+32,[scene_evt200515_cp5_q1_s10],勇者がこんなに沢山いるなんて、<br>魔王・楓、頑張らないといけませんね♪
+33,[scene_evt200515_cp5_q1_s10],"<span class=""scene-font-katari"">こうしてダジャレ王国を創るという</span><br><span class=""scene-font-katari"">野望を掲げたダジャレ魔王・楓と</span><br><span class=""scene-font-katari"">勇者たちの壮大な物語が幕を開けた。</span>"
+
+!이벤트 5-2
+
+0,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ……<br><span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ……<br>……ふえぇーん。"
+1,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-gray"">──ッッッ！！</span>"
+2,[scene_evt200515_cp5_q2_s10],"わかりましたぁ～<br><span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>……<br><span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>……"
+3,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">楓の後ろに現れた独房の中で、</span><br><span class=""scene-font-katari"">卯月とルリアが悲痛な表情を浮かべて</span><br><span class=""scene-font-katari"">ダジャレを繰り返している。</span>"
+4,[scene_evt200515_cp5_q2_s10],ひどい訓練……<br>早くふたりを助けてあげないと！
+5,[scene_evt200515_cp5_q2_s10],助ける？<br>貴方にできるのかしら、勇者様？
+6,[scene_evt200515_cp5_q2_s10],ダジャレ魔王・楓よ！<br>仲間だと思ってたあなたが魔王だと知り<br>私は悲しみに打ちひしがれている！
+7,[scene_evt200515_cp5_q2_s10],しかーしっ！<br>勇者たるもの涙を呑んで前進するのみ！<br>いざ、尋常にっ！
+8,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">未央は星の飛び出す銃を構え、</span><br><span class=""scene-font-katari"">卯月たちを拘束している牢の鍵を</span><br><span class=""scene-font-katari"">壊そうと引き金を引く。</span>"
+9,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“銃”</span>では不<span class=""scene-font-spword"">“十”</span>分ね。"
+10,[scene_evt200515_cp5_q2_s10],なっ！<br>銃弾が届かない！？
+11,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">楓がダジャレを口にした瞬間、</span><br><span class=""scene-font-katari"">透明な壁のような物が現れ、</span><br><span class=""scene-font-katari"">未央の銃弾を弾いた。</span>"
+12,[scene_evt200515_cp5_q2_s10],"これは<span class=""scene-font-spword"">ダジャレフィールド</span>って言うの。<br>私がダジャレを言う度に強度を増して、<br>私のことを守ってくれる……"
+13,[scene_evt200515_cp5_q2_s10],逆にこのフィールドは<br>貴方たちがダジャレを言う度に<br>脆くなっていくわ。
+14,[scene_evt200515_cp5_q2_s10],なので、私を倒したかったら、<br>ダジャレを沢山言わないといけません。
+15,[scene_evt200515_cp5_q2_s10],マジかよ……！<br>こいつはやべぇぞ！
+16,[scene_evt200515_cp5_q2_s10],楓さん相手にダジャレの数で<br>勝てるわけがない！<br>他に作戦を立てないと……！
+17,[scene_evt200515_cp5_q2_s10],迷ってる時間はありませんよ？<br>もうダジャレ対決は始まっています。
+18,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-gray"">──……</span>"
+19,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">楓が指差した先には、</span><br><span class=""scene-font-katari"">制限時間を知らせる時計を掲げた</span><br><span class=""scene-font-katari"">扇子が浮いている。</span>"
+20,[scene_evt200515_cp5_q2_s10],こうなったら思いつく限り<br>ダジャレを言うしかないわね。<br>人数的にはアタシたちの方が有利だわ。
+21,[scene_evt200515_cp5_q2_s10],ダジャレ、ダジャレ……<br>……うーん、よし！
+22,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“未央”</span>ちゃんの攻撃を受けて<span class=""scene-font-spword"">“みお”</span>！"
+23,[scene_evt200515_cp5_q2_s10],ダジャレフィールドにヒビが入った！<br>この調子で行けば……！
+24,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“みおう（妙）”</span>な真似は許しませんよ♪"
+25,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">瞬殺っ！</span>"
+26,[scene_evt200515_cp5_q2_s10],んにゃー！<br>あたしもダジャレを言うにゃ！
+27,[scene_evt200515_cp5_q2_s10],"そこにお<span class=""scene-font-spword"">“酒”</span>がある限り、<br>飲むのは<span class=""scene-font-spword"">“避け”</span>られないにゃ！"
+28,[scene_evt200515_cp5_q2_s10],"おつまみの<span class=""scene-font-spword"">“鮭”</span>とばも<br><span class=""scene-font-spword"">“避け”</span>られませんよね♪"
+29,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">んにゃあ！？</span>"
+30,[scene_evt200515_cp5_q2_s10],つ、強い……
+31,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">いくらダジャレを言おうとも、</span><br><span class=""scene-font-katari"">楓は余裕の笑顔でダジャレを返し、</span><br><span class=""scene-font-katari"">結界を修復してしまう。</span>"
+32,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-gray"">──っ！！</span>"
+33,[scene_evt200515_cp5_q2_s10],制限時間になってしまいました。<br>この勝負、３対２で楓の勝ちです♪
+34,[scene_evt200515_cp5_q2_s10],"ではペナルティを与えます。<br>最初は<span class=""scene-font-spword"">“未央”</span>ちゃん、き<span class=""scene-font-spword"">“みお（を）”</span><br>連行します♪"
+35,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">うぇぇっ！？　私ぃ！？</span>"
+36,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">うわぁぁーっ！！</span>"
+37,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">未央っ！</span>"
+38,[scene_evt200515_cp5_q2_s10],ひぇぇ～～っ、<br>しぶりん、後は頼んだぁ～！
+39,[scene_evt200515_cp5_q2_s10],くっ……わかった。<br>未央、頑張って耐えてよ！
+40,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">もう……なんなのこれ！</span>"
+41,[scene_evt200515_cp5_q2_s10],では２回戦を始めます。<br>次は勝てるといいですね♪
+42,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">対決開始を告げるように、</span><br><span class=""scene-font-katari"">楓はパンと手を叩く。</span>"
+43,[scene_evt200515_cp5_q2_s10],このルールには落とし穴がある。<br>ダジャレの数を競い、負けた側は<br>人数を削られる。
+44,[scene_evt200515_cp5_q2_s10],つまり対決を続ければ続けるほど<br>私たちは不利になる。<br>ここは短期決戦で決めるべきだ。
+45,[scene_evt200515_cp5_q2_s10],でもどうするってんだ？<br>短期決戦で決めるったって<br>方法が……
+46,[scene_evt200515_cp5_q2_s10],持論だが、己が有利なルールを強いる<br>卑怯な魔王相手には<br>ズルをしてもいいと思うんだ。
+47,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">ラグナは『ウォーマーの記憶』を構え、</span><br><span class=""scene-font-katari"">楓を真っ直ぐ見据える。</span>"
+48,[scene_evt200515_cp5_q2_s10],ルールを破ってはいけませんよ、<br>ラグナちゃん。
+49,[scene_evt200515_cp5_q2_s10],ルールには従うさ。<br>だがダジャレを言いながら戦う記憶は<br>相棒から引き出させてもらう！
+50,[scene_evt200515_cp5_q2_s10],頑張れー！<br>いまはラグナちゃんの力が頼りにゃ！
+51,[scene_evt200515_cp5_q2_s10],…………
+52,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">し、しまった……！</span>"
+53,[scene_evt200515_cp5_q2_s10],ダジャレを言いながら戦った記憶は<br>『コイツ』にもない……！
+54,[scene_evt200515_cp5_q2_s10],ズコーーー……
+55,[scene_evt200515_cp5_q2_s10],考えてみりゃあ、ねぇよな、普通……
+56,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-gray"">──っ！！</span>"
+57,[scene_evt200515_cp5_q2_s10],残念、制限時間までに<br>ひとつもダジャレを言えませんでした。<br>また楓の勝ちですっ。
+58,[scene_evt200515_cp5_q2_s10],なっ！　待てよ！<br>０対０なら引き分けだろ！？
+59,[scene_evt200515_cp5_q2_s10],残念ですが、<br>未央ちゃんを連行する時に言ったのを<br>加えて１対０ですよ。
+60,[scene_evt200515_cp5_q2_s10],"さぁ<span class=""scene-font-spword"">“ラグナ”</span>ちゃん、<br><span class=""scene-font-spword"">“楽な”</span>気持ちでおいでなさい♪"
+61,[scene_evt200515_cp5_q2_s10],すまない、皆！<br>私の代わりに世界のことを頼む！
+62,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">ラグナちゃーん！！</span>"
+63,[scene_evt200515_cp5_q2_s10],では３回戦に行きますよ。
+64,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">その後もSide.Wたちは</span><br><span class=""scene-font-katari"">楓とのダジャレ対決を続ける。</span><br><span class=""scene-font-katari"">しかし……</span>"
+65,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“ビィ”</span>くんの翼はル<span class=""scene-font-spword"">“ビー”</span>色ですね♪"
+66,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">ふぎゃあーっ！？</span>"
+67,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“ラムレッダ”</span>ちゃん、<br><span class=""scene-font-spword"">“ラム”</span>酒は<span class=""scene-font-spword"">“レッド”</span>のグラスが<br>いいかしら？"
+68,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">Side.Wきゅーん！</span>"
+69,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-katari"">楓の猛襲は止まらず、</span><br><span class=""scene-font-katari"">遂に、Side.W、凛、ロゼッタの</span><br><span class=""scene-font-katari"">３人だけになってしまった。</span>"
+70,[scene_evt200515_cp5_q2_s10],…………
+71,[scene_evt200515_cp5_q2_s10],えっと、何回戦目でしたっけ？<br>とにかく、<br>次のダジャレ対決を始めましょう♪
+72,[scene_evt200515_cp5_q2_s10],リンちゃん、ここは撤退すべきだわ。<br>あまりにも戦力に差がありすぎる……
+73,[scene_evt200515_cp5_q2_s10],でも、ここで引いたら<br>捕まったみんなが……！
+74,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ！<br><span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ！"
+75,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>！<br><span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>！"
+76,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“隣国”</span>の<span class=""scene-font-spword"">“リンゴ”</span>！<br><span class=""scene-font-spword"">“隣国”</span>の<span class=""scene-font-spword"">“リンゴ”</span>！"
+77,[scene_evt200515_cp5_q2_s10],手遅れになってみんなが<br>ダジャレしか言えなくなったとしたら、<br>私、絶対に嫌っ！
+78,[scene_evt200515_cp5_q2_s10],洗脳される前にかたをつけなきゃ……！
+79,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-spword"">“洗脳”</span>はいけま<span class=""scene-font-spword"">“せんのう”</span>～"
+80,[scene_evt200515_cp5_q2_s10],"<span class=""scene-font-4"">っ……！</span>"
+
+!이벤트 5-3
+
+0,[scene_evt200515_cp5_q3_s10],え？　よろず屋さん？
+1,[scene_evt200515_cp5_q3_s10],"<span class=""scene-font-katari"">妄想で盛り上がっていた一同の視線は</span><br><span class=""scene-font-katari"">料理の盛られた大皿を持った</span><br><span class=""scene-font-katari"">シェロカルテに集中していた。</span>"
+2,[scene_evt200515_cp5_q3_s10],うぷぷぷぷ～<br>楽しそうなダジャレが<br>聞こえてきたので、つい～
+3,[scene_evt200515_cp5_q3_s10],こちらのお料理、店主さんからです～<br>熱いうちに召し上がってくださいね～
+4,[scene_evt200515_cp5_q3_s10],ありがとうございます。<br>いただきますね。
+5,[scene_evt200515_cp5_q3_s10],盛り上がっているところ、<br>お邪魔してすみませんでした～<br>ではでは、私はこれで～
+6,[scene_evt200515_cp5_q3_s10],"<span class=""scene-font-4"">ちょーっと待ったぁーーっ！</span>"
+7,[scene_evt200515_cp5_q3_s10],"<span class=""scene-font-katari"">去ろうとするシェロカルテを</span><br><span class=""scene-font-katari"">未央は大きな声で呼び止める。</span>"
+8,[scene_evt200515_cp5_q3_s10],よろず屋さん、<br>もう少しここでダジャレを<br>言っていきませんか？
+9,[scene_evt200515_cp5_q3_s10],え？　ダジャレをですか～？
+10,[scene_evt200515_cp5_q3_s10],楓さんとダジャレ対決してるんだけど、<br>ぜんっぜん勝てる気がしなくて……<br>いられる時間だけでいいからさ！
+11,[scene_evt200515_cp5_q3_s10],確かによろず屋さんなら、<br>楓さんに対抗できるかも……！
+12,[scene_evt200515_cp5_q3_s10],私からもお願いします。<br>いま世界の危機なんです！
+13,[scene_evt200515_cp5_q3_s10],えーっと、<br>事情はよくわかりませんが～……
+14,[scene_evt200515_cp5_q3_s10],そういうことでしたら、<br>よろず屋シェロちゃん、精いっぱい<br>頑張らせてもらいますよ～！
+15,[scene_evt200515_cp5_q3_s10],やった……！<br>救世主が来た！
+16,[scene_evt200515_cp5_q3_s10],ふふっ、<br>お手柔らかにお願いしますね。
+17,[scene_evt200515_cp5_q3_s10],こちらこそ～
+18,[scene_evt200515_cp5_q3_s10],"<span class=""scene-font-katari"">ダジャレ好きのシェロカルテを</span><br><span class=""scene-font-katari"">戦力に迎えたSide.Wたち。</span><br><span class=""scene-font-katari"">果たして勝負の行方やいかに──？</span>"
+
+!이벤트 5-4
+
+0,[scene_evt200515_cp5_q4_s20],うふふふふ～
+1,[scene_evt200515_cp5_q4_s20],…………
+2,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-katari"">どこからともなく現れ、</span><br><span class=""scene-font-katari"">奇襲をかけた謎の人物の登場に、</span><br><span class=""scene-font-katari"">ダジャレ魔王・楓は表情を険しくする。</span>"
+3,[scene_evt200515_cp5_q4_s20],あなたはまさか……！
+4,[scene_evt200515_cp5_q4_s20],愛くるしい外見と巧みな話術、<br>そして類い稀なダジャレ力を秘めし<br>伝説のダジャレ家、シェロカルテ……！
+5,[scene_evt200515_cp5_q4_s20],ダジャレ力って、<br>そんな魔力みたいに……
+6,[scene_evt200515_cp5_q4_s20],助けてください、<br>伝説のダジャレ家さん！<br>私たち、捕まってるんです！
+7,[scene_evt200515_cp5_q4_s20],うふふふ～<br>伝説と呼べるほどではありませんが、<br>ダジャレには自信がありますよ～
+8,[scene_evt200515_cp5_q4_s20],貴方の存在は知っていました。<br>ですが、こうして直に<br>お会いできるなんて……
+9,[scene_evt200515_cp5_q4_s20],あなたの目的は、<br>皆が思いのままにダジャレを言える<br>世界を創ること、でしたか～？
+10,[scene_evt200515_cp5_q4_s20],それはそれで、<br>とても魅力的な世界ですね～<br>シェロちゃんも是非見てみたいです～！
+11,[scene_evt200515_cp5_q4_s20],えっ、<br>まさかの楓さん側につく流れ……！？
+12,[scene_evt200515_cp5_q4_s20],ダメダメ！<br>世界の危機なんだから、<br>よろず屋さん戦って～！
+13,[scene_evt200515_cp5_q4_s20],うふふふ～<br>冗談ですよ～
+14,[scene_evt200515_cp5_q4_s20],伝説のダジャレ家・シェロカルテさん。<br>ダジャレ魔王として、貴方とは<br>一度戦ってみたいと思っていました。
+15,[scene_evt200515_cp5_q4_s20],"こちら<span class=""scene-font-spword"">“こそ”</span>～<br><span class=""scene-font-spword"">“こそ”</span>こそせずに戦いますよ～"
+16,[scene_evt200515_cp5_q4_s20],さすがね。<br>流れるように攻撃を始めたわ。
+17,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-spword"">“先手”</span>を取られちゃいました……<br>これではいけま<span class=""scene-font-spword"">“せんて”</span>、<br>叱られちゃいますね。"
+18,[scene_evt200515_cp5_q4_s20],"も<span class=""scene-font-spword"">“しか”</span>して、<br><span class=""scene-font-spword"">“叱”</span>られるのが怖いんですか～？<br><span class=""scene-font-spword"">“しっか”</span>り者のカエデさんでも～？"
+19,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-spword"">“怖”</span>いものなんてありません。<br>私は全てを<span class=""scene-font-spword"">“壊”</span>し、世界の改変を<br><span class=""scene-font-spword"">“声”</span>高に訴える魔王なんですから！"
+20,[scene_evt200515_cp5_q4_s20],すごい……<br>ダジャレを言いながら、<br>普通に会話してる……
+21,[scene_evt200515_cp5_q4_s20],見惚れている場合じゃないわ。<br>シェロちゃんがカエデちゃんを<br>抑えている間に押し込むわよ。
+22,[scene_evt200515_cp5_q4_s20],"そうだね……<br><span class=""scene-font-4"">……覚悟は、決めた！</span>"
+23,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-spword"">“サファイア”</span>のごとく輝け！<br><span class=""scene-font-spword"">“さぁ、ファイヤー”</span>！"
+24,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-spword"">“茨”</span>の奥には<span class=""scene-font-spword"">“いい薔薇”</span>があるのよ！"
+25,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-4"">くっ……！</span>"
+26,[scene_evt200515_cp5_q4_s20],結界に大きなヒビが入ったわ。<br>Side.Wさん、いまなら……！
+27,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-katari"">Side.Wは強く頷き、</span><br><span class=""scene-font-katari"">剣を構えて走り出す。</span>"
+28,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-4"">きゃあっ！</span>"
+29,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-gray"">──ッッッ！？</span>"
+30,[scene_evt200515_cp5_q4_s20],いまだ！<br>ここから脱出するぜ！
+31,[scene_evt200515_cp5_q4_s20],私に任せろ！<br>せいっ！
+32,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-katari"">Side.Wが結界を壊したのに</span><br><span class=""scene-font-katari"">合わせてラグナが監視のステッキを倒し</span><br><span class=""scene-font-katari"">囚われたメンバーが外に出てくる。</span>"
+33,[scene_evt200515_cp5_q4_s20],凛ちゃん……！
+34,[scene_evt200515_cp5_q4_s20],卯月、未央、みんな！<br>よかった、無事で……
+35,[scene_evt200515_cp5_q4_s20],うふふふ～<br>どうやら皆さん、<br>助かったみたいですね～
+36,[scene_evt200515_cp5_q4_s20],ではでは～<br>私は商談がありますので、<br>この辺りで失礼します～
+37,[scene_evt200515_cp5_q4_s20],ありがとー<br>伝説のダジャレ家さーんっ！<br>すっごく助かったー！
+38,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-katari"">シェロカルテはひらひらと手を振り、</span><br><span class=""scene-font-katari"">どこかへと歩き去る。</span>"
+39,[scene_evt200515_cp5_q4_s20],まさか、こんなことが……
+40,[scene_evt200515_cp5_q4_s20],観念するのね、カエデちゃん。<br>あなたの野望はもう打ち砕かれたの。
+41,[scene_evt200515_cp5_q4_s20],"いいえ、まだです……<br><span class=""scene-font-4"">私はまだ諦めてなどいません！</span>"
+42,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-katari"">ロゼッタに詰め寄られた楓は</span><br><span class=""scene-font-katari"">顔を上げ、毅然とした態度で言う。</span>"
+43,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-4"">素敵なステッキ、</span><br><span class=""scene-font-4"">いいセンスの扇子……！</span>"
+44,[scene_evt200515_cp5_q4_s20],"<span class=""scene-font-gray"">──ッ！</span>"
+45,[scene_evt200515_cp5_q4_s20],貴方たちに私の力を託します。<br>この者たちを打ち倒すのです！
+46,[scene_evt200515_cp5_q4_s20],楓さんから武器たちに<br>すごい力が送られているみたいです！
+47,[scene_evt200515_cp5_q4_s20],あいつらをけしかけるってわけだね。<br>やってやろうじゃん！
+48,[scene_evt200515_cp5_q4_s20],どんな敵だろうと負けないっ！<br>世界の平和は私たちが守る……っ！
+0,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-4"">えーーいっ！</span><br><span class=""scene-font-4"">はぁーーっ！</span><br><span class=""scene-font-4"">それーーっ！</span>"
+1,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-gray"">──……</span>"
+2,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-4"">きゃあっ！</span>"
+3,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-katari"">Side.Wたちがステッキと扇子を</span><br><span class=""scene-font-katari"">打ち倒すと、彼らを従えていた楓も</span><br><span class=""scene-font-katari"">力尽きたように膝をついた。</span>"
+4,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-spword"">“はぁ、痛い”</span>……<br>魔王・楓、<span class=""scene-font-spword"">“敗退”</span>です……ぱたり。"
+5,[scene_evt200515_cp5_q4_s30],うぅ～……<br>手強かったですけど、<br>なんとか倒せましたね。
+6,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-4"">お疲れ～っ！</span><br>それじゃあ最後の締め、いっくよ～！"
+7,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-katari"">未央はマイクを持つように拳を握り、</span><br><span class=""scene-font-katari"">ナレーターのような調子で</span><br><span class=""scene-font-katari"">締めくくった。</span>"
+8,[scene_evt200515_cp5_q4_s30],こうしてダジャレ魔王・楓の野望は<br>勇者たちの手によって砕かれ、<br>世界の平和は守られたのであった。
+9,[scene_evt200515_cp5_q4_s30],めでたし、めでたし……
+10,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-4"">ちょっと待つにゃーーっ！</span>"
+11,[scene_evt200515_cp5_q4_s30],"<span class=""scene-font-4"">うえぇっ！？</span>"
+
+!이벤트 6-1
+
+0,[scene_evt200515_cp6_q1_s10],"<span class=""scene-font-4"">ちょっと待つにゃーーっ！</span>"
+1,[scene_evt200515_cp6_q1_s10],"<span class=""scene-font-katari"">勇者たちがダジャレ魔王・楓を倒し、</span><br><span class=""scene-font-katari"">物語が締めくくられたかと思った瞬間、</span><br><span class=""scene-font-katari"">突然ラムレッダが声を上げた。</span>"
+2,[scene_evt200515_cp6_q1_s10],ラムレッダさん、どうかしましたか？
+3,[scene_evt200515_cp6_q1_s10],カエデちゃんがひとり負けにゃ。<br>これじゃあハッピーエンドとは<br>言えないにゃ！
+4,[scene_evt200515_cp6_q1_s10],でも、世界の平和のためには<br>魔王は倒さなきゃいけないし、<br>こういう展開しかないと思う。
+5,[scene_evt200515_cp6_q1_s10],魔王役をやりたいと<br>言ったのは私ですし、<br>私はこのラストに満足してますよ。
+6,[scene_evt200515_cp6_q1_s10],"<span class=""scene-font-4"">ダメにゃ！</span><br>勝利の喜びは皆で分かち合うもの！<br>カエデちゃんが可哀想にゃ！"
+7,[scene_evt200515_cp6_q1_s10],あたしは知ってるにゃ……<br>みんなが飲みの席で恋人自慢してる時、<br>黙ってるしかない女は惨めにゃ……
+8,[scene_evt200515_cp6_q1_s10],ラムレッダちゃん、飲みすぎだわ。<br>そんな話をされても<br>みんな困っちゃうでしょう？
+9,[scene_evt200515_cp6_q1_s10],言われてみれば、<br>確かにひとりだけ負けるっていうのは<br>可哀想な気がしますね……
+10,[scene_evt200515_cp6_q1_s10],それに、よく考えたら<br>年上の楓さんをやっつけるって<br>ちょっと気まずいかも……
+11,[scene_evt200515_cp6_q1_s10],でも魔王を倒す意外に<br>世界が平和になる方法なんてあるの？
+12,[scene_evt200515_cp6_q1_s10],ダジャレを封印して皆さんの仲間に<br>なるくらいなら、ダジャレを言いながら<br>倒されたいですね……
+13,[scene_evt200515_cp6_q1_s10],あ、もちろん、<br>ダジャレ魔王・楓としては、ですよ♪
+14,[scene_evt200515_cp6_q1_s10],カエデちゃんもハッピーになれる<br>展開は考えてある！<br>カエデちゃん、耳を貸すにゃ！
+15,[scene_evt200515_cp6_q1_s10],"<span class=""scene-font-katari"">ラムレッダは自分の考えた筋書きを</span><br><span class=""scene-font-katari"">楓に耳打ちする。</span>"
+16,[scene_evt200515_cp6_q1_s10],なるほど。<br>それなら私もみんなも<br>ハッピーになれそうですね！
+17,[scene_evt200515_cp6_q1_s10],細かいところはあたしに任せるにゃ！<br>さっきのシーンからスタートにゃ！
+18,[scene_evt200515_cp6_q1_s10],"<span class=""scene-font-katari"">こうして真のハッピーエンドを目指して</span><br><span class=""scene-font-katari"">物語は再開する。</span>"
+
+!이벤트 6-2
+
+0,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">えーーいっ！</span><br><span class=""scene-font-4"">はぁーーっ！</span><br><span class=""scene-font-4"">それーーっ！</span>"
+1,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">──……</span>"
+2,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">きゃあっ！</span>"
+3,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">Side.Wたちは膝をつく楓に迫り、</span><br><span class=""scene-font-katari"">それぞれの得物を向ける。</span>"
+4,[scene_evt200515_cp6_q2_s10],ダジャレ魔王・楓よ、<br>勝負はここに決した！<br>さぁ、観念するのだ！
+5,[scene_evt200515_cp6_q2_s10],くぅ……うぅ……！
+6,[scene_evt200515_cp6_q2_s10],えっ、楓さん？
+7,[scene_evt200515_cp6_q2_s10],頭が、痛い……<br>うぅぅっ……！
+8,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">Side.Wたちの前で</span><br><span class=""scene-font-katari"">楓は頭を抱えて倒れ込み、</span><br><span class=""scene-font-katari"">苦しそうに呻く。</span>"
+9,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">っ！</span><br><span class=""scene-font-gray"">まさかカエデにかけた術が</span><br><span class=""scene-font-gray"">解けたのか！？</span>"
+10,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">なんということだ！</span><br><span class=""scene-font-gray"">これでは我らの作戦が……！</span>"
+11,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">えぇっ！？</span><br>あなたたちって喋れたんですか！？"
+12,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">非常事態だ。</span><br><span class=""scene-font-gray"">急いで術をかけ直すぞ！</span>"
+13,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">突然言葉を発したステッキと扇子が</span><br><span class=""scene-font-katari"">楓の頭上に集い、</span><br><span class=""scene-font-katari"">怪しげな詠唱を始める。</span>"
+14,[scene_evt200515_cp6_q2_s10],うぅ……ああっ……！
+15,[scene_evt200515_cp6_q2_s10],なんだぁ？<br>どうなってんだよ、これ！
+16,[scene_evt200515_cp6_q2_s10],カエデちゃんは仲間かもしれないにゃ！<br>いますぐあいつらの術を止めるにゃ！
+17,[scene_evt200515_cp6_q2_s10],聞いたことがあるにゃ。<br>シェロさんと並び立つもうひとりの<br>伝説のダジャレ家……その名はカエデ！
+18,[scene_evt200515_cp6_q2_s10],私たちが前にしてるのは<br>その伝説のダジャレ家かもしれない！<br>だから助けるにゃ！
+19,[scene_evt200515_cp6_q2_s10],もうひとりの伝説のダジャレ家って、<br>またすげぇ設定ぶっこんできたな……
+20,[scene_evt200515_cp6_q2_s10],私も聞いたことあるよ！<br>王宮に仕えてたそのダジャレ家が<br>ある日行方不明になったって！
+21,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">えぇっ！？</span><br><span class=""scene-font-4"">そうなんですか？</span>"
+22,[scene_evt200515_cp6_q2_s10],宮廷魔導師・楓……風の魔法に長け、<br>類い稀なダジャレ力で敵の隙を誘い、<br>王国に栄光をもたらせし者……
+23,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">って、王様が言ってた！</span><br><span class=""scene-font-4"">間違いない！</span>"
+24,[scene_evt200515_cp6_q2_s10],宮廷魔導師……<br>だから楓さん、あんなに魔力が強くて<br>色んな魔法が使えたんですねっ！
+25,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-kokoro"">（ふたりとも、</span><br><span class=""scene-font-kokoro"">即興で合わせてる……さすがだな。</span><br><span class=""scene-font-kokoro"">私も負けてられないっ！）</span>"
+26,[scene_evt200515_cp6_q2_s10],それってつまり、<br>ほんとの黒幕はステッキと扇子<br>かもしれないってこと？
+27,[scene_evt200515_cp6_q2_s10],まだはっきりとは<br>言いきれないけれど……<br>その可能性は高そうね。
+28,[scene_evt200515_cp6_q2_s10],真相を知るためにも、<br>カエデちゃんは助けるべきだわ……
+29,[scene_evt200515_cp6_q2_s10],だから少しの間、<br>あなたは黙っていて頂戴……！
+30,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">ぐっ、なんだこの茨はっ！？</span><br><span class=""scene-font-gray"">う……動けない……</span>"
+31,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4 scene-font-gray"">いま助ける！</span>"
+32,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">させないにゃ！</span><br><span class=""scene-font-4"">こいつを食らえ！</span>"
+33,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4 scene-font-gray"">なっ！</span><br><span class=""scene-font-gray"">ワインが体にかかって……！</span>"
+34,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">ステッキはロゼッタの茨に絡め取られ、</span><br><span class=""scene-font-katari"">扇子はラムレッダのワインに汚され、</span><br><span class=""scene-font-katari"">行動不能に陥る。</span>"
+35,[scene_evt200515_cp6_q2_s10],いまのうちに楓さんを……！
+36,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">ああぁぁーっ！</span>"
+37,[scene_evt200515_cp6_q2_s10],くっ、術は発動済みか。<br>ならば……！
+38,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">ラグナは咄嗟に楓を突き飛ばし、</span><br><span class=""scene-font-katari"">魔力の光の中に自らの身を投じた。</span>"
+39,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4"">っ！　ラグナちゃん……！！</span><br>……ラグナちゃんが、ああ……！"
+40,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">チッ、仲間をやられたショックで</span><br><span class=""scene-font-gray"">完全に術を破りやがった……！</span>"
+41,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">こうなったらドラフの方を</span><br><span class=""scene-font-gray"">我らが魔王に仕立て上げる他ない！</span>"
+42,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">ステッキと扇子は気合で</span><br><span class=""scene-font-katari"">行動不能状態から脱すると、</span><br><span class=""scene-font-katari"">ラグナの方へ移動する。</span>"
+43,[scene_evt200515_cp6_q2_s10],フッ、残念だったな。
+44,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-gray"">術が効いていない、だと……！？</span><br><span class=""scene-font-gray"">何故だ！？</span>"
+45,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">ラグナはステッキと扇子を</span><br><span class=""scene-font-katari"">牽制するように、</span><br><span class=""scene-font-katari"">『ウォーマーの記憶』を構える。</span>"
+46,[scene_evt200515_cp6_q2_s10],術をかけられた状態で戦うのは<br>『コイツ』が経験済みだ。<br>だから私にも術は効かん。それに……
+47,[scene_evt200515_cp6_q2_s10],私をダジャレ魔王にするなど言語道断！<br>なにしろ私は今日この場において<br>まだ一度もダジャレを言ってない！
+48,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-4 scene-font-gray"">なっ……！！</span>"
+49,[scene_evt200515_cp6_q2_s10],あれ？　そうでしたっけ？
+50,[scene_evt200515_cp6_q2_s10],そういや、言ってねぇな。
+51,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-kokoro"">（単に言うタイミングを</span><br><span class=""scene-font-kokoro"">逃がしてただけなんだがな……）</span>"
+52,[scene_evt200515_cp6_q2_s10],はぁ……はぁ……<br>ラグナちゃんが、無事で、よかった……
+53,[scene_evt200515_cp6_q2_s10],楓さんっ！
+54,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">安堵し、膝をつく楓のもとに</span><br><span class=""scene-font-katari"">未央が駆け寄る。</span>"
+55,[scene_evt200515_cp6_q2_s10],さっきまでの禍々しい感じが<br>なくなってる……
+56,[scene_evt200515_cp6_q2_s10],やはりあなたは、<br>かの有名なダジャレ家の<br>楓さんなのですかっ！？
+57,[scene_evt200515_cp6_q2_s10],そうです。<br>私は伝説のダジャレ家・高垣楓……
+58,[scene_evt200515_cp6_q2_s10],そして王の命により、<br>世界を脅かす悪しき力を滅すべく<br>旅をしていた宮廷魔導師です。
+59,[scene_evt200515_cp6_q2_s10],…………
+60,[scene_evt200515_cp6_q2_s10],全て思い出しました……<br>私がどうしてダジャレ魔王に<br>なってしまったのか……
+61,[scene_evt200515_cp6_q2_s10],"<span class=""scene-font-katari"">楓は深呼吸し、</span><br><span class=""scene-font-katari"">自分の身に何が起きたのか</span><br><span class=""scene-font-katari"">静かに語り始めた。</span>"
+
+
+!이벤트 6-3
+
+0,[scene_evt200515_cp6_q3_s10],ここが、王の言っていた古城……
+1,[scene_evt200515_cp6_q3_s10],すぅ……はぁ……<br>大丈夫、私ならきっと<br>使命を果たせるわ。
+2,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">辺境の古城に禍々しい力が集まり、</span><br><span class=""scene-font-katari"">ダジャレに溢れた世界を創るべく</span><br><span class=""scene-font-katari"">不穏な動きを見せている──</span>"
+3,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">その噂の調査と悪しき陰謀を</span><br><span class=""scene-font-katari"">阻止するべく、</span><br><span class=""scene-font-katari"">楓は古城の前に立っていた。</span>"
+4,[scene_evt200515_cp6_q3_s10],これが報告にあった結界、<br>ダジャレフィールド……<br>……っ！
+5,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-spword"">“宮廷魔導師”</span>・楓、<br><span class=""scene-font-spword"">“きゅって窓を閉”</span>めました。"
+6,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-spword"">“湖上”</span>に立つ<span class=""scene-font-spword"">“古城”</span>でする<br><span class=""scene-font-spword"">“コショコショ”</span>話……"
+7,[scene_evt200515_cp6_q3_s10],ふふっ♪
+8,[scene_evt200515_cp6_q3_s10],ダジャレを言わなければ<br>決して壊れることのない結界でも、<br>私にかかればこんなもの。
+9,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">楓は渾身のダジャレを言い、</span><br><span class=""scene-font-katari"">得意げに古城に入っていった。</span>"
+10,[scene_evt200515_cp6_q3_s10],それにしても、<br>案外簡単に入れてしまったわね。<br>まだダジャレは考えてきたのに……
+11,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">古城の中でうごめく</span><br><span class=""scene-font-katari"">魔力の発生源を探しながら、</span><br><span class=""scene-font-katari"">楓は寂れた廊下を進む。</span>"
+12,[scene_evt200515_cp6_q3_s10],古城に住み着いた何かはダジャレに<br>溢れた世界を創ろうとしている……<br>王様はそう言ってたけど……
+13,[scene_evt200515_cp6_q3_s10],ダジャレを好きなだけ言える世界<br>っていうのも、ちょっと楽しそう……
+14,[scene_evt200515_cp6_q3_s10],はっ！　ダメよ、楓！<br>そんなこと考えたりしちゃ！
+15,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">ダジャレフィールドを壊すために、</span><br><span class=""scene-font-katari"">久々に好きなだけダジャレが言えた楓は</span><br><span class=""scene-font-katari"">自分の心がチクッと痛むのに気づく。</span>"
+16,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">その痛みから目を背けるように、</span><br><span class=""scene-font-katari"">楓は杖を握りしめ、</span><br><span class=""scene-font-katari"">魔力の強い方へと足を進める。</span>"
+17,[scene_evt200515_cp6_q3_s10],力はこの部屋からする……
+18,[scene_evt200515_cp6_q3_s10],っ！　あれは……！
+19,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">魔力の流れを辿り玉座の間に着いた楓は</span><br><span class=""scene-font-katari"">玉座に輝く禍々しい光の球を見つける。</span>"
+20,[scene_evt200515_cp6_q3_s10],あれがきっと世界を脅かす力の源ね。<br>帰って王様に報告しなくちゃ……！
+21,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">ほう、ここまでひとりで</span><br><span class=""scene-font-gray"">やってくるとは、</span><br><span class=""scene-font-gray"">貴様相当なダジャレ力を秘めているな？</span>"
+22,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">彼女こそ我らが長い間待ち望んでいた</span><br><span class=""scene-font-gray"">魔王の器を持つ者。</span><br><span class=""scene-font-gray"">遂に、遂にこの日が訪れたのだ！</span>"
+23,[scene_evt200515_cp6_q3_s10],えっ？　魔王……？
+24,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-katari"">玉座の光から現れた</span><br><span class=""scene-font-katari"">ふたつの武器に迫られ、</span><br><span class=""scene-font-katari"">楓は身構える。</span>"
+25,[scene_evt200515_cp6_q3_s10],世界を脅かそうとしてるのは<br>貴方たちですね。<br>一体何が目的なのですか？
+26,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">この世界は腐っている。</span><br><span class=""scene-font-gray"">ダジャレを言えば人は困惑し、</span><br><span class=""scene-font-gray"">オヤジギャグとさえ呼んで蔑む始末。</span>"
+27,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">だから我らは世界の摂理を</span><br><span class=""scene-font-gray"">変えようとしているのだ。</span><br><span class=""scene-font-gray"">誰もが好きにダジャレを言えるように。</span>"
+28,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">しかし我らは所詮武器だ。</span><br><span class=""scene-font-gray"">使い手がいなければダジャレも言えず、</span><br><span class=""scene-font-gray"">真の力を発揮することすら叶わない。</span>"
+29,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">そこでダジャレフィールドを展開し、</span><br><span class=""scene-font-gray"">優れたダジャレ力を秘めた者を</span><br><span class=""scene-font-gray"">城に誘き出そうとした、というわけだ。</span>"
+30,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">そして遂に魔王の器を持つ者が現れた。</span><br><span class=""scene-font-gray"">単身でダジャレフィールドを破り続け</span><br><span class=""scene-font-gray"">玉座まで辿り着いた者、そう、貴様だ。</span>"
+31,[scene_evt200515_cp6_q3_s10],残念ながら私は王様の命令で<br>貴方たちの調査に来ただけです。<br>魔王になりに来たのではありません。
+32,[scene_evt200515_cp6_q3_s10],私は帰らせていただきます。<br>……王様が待ってますから。
+33,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">貴様、いつまで自分の本音から</span><br><span class=""scene-font-gray"">目を背け続けるつもりだ？</span>"
+34,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">誰かの目を気にすることなく、</span><br><span class=""scene-font-gray"">言いたいのだろう？</span><br><span class=""scene-font-gray"">大好きなダジャレを思いのままに。</span>"
+35,[scene_evt200515_cp6_q3_s10],そんな、ことは……
+36,[scene_evt200515_cp6_q3_s10],私が生まれ持ったこのダジャレ力は、<br>王国の繁栄のためだけに使う……<br>小さい頃にそう決めたんです。
+37,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">あくまで否定するか。</span><br><span class=""scene-font-gray"">ならば……！</span>"
+38,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-4"">っ！？</span><br><span class=""scene-font-4"">ああっ！！</span>"
+39,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">さぁ、解き放て！</span><br><span class=""scene-font-gray"">その胸に秘めしダジャレの奔流を！</span>"
+40,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">欲望のままに唱えなさい。</span><br><span class=""scene-font-gray"">汝の望む至高のダジャレを……！</span>"
+41,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-kokoro"">（何かが頭の中に流れ込んでくる……</span><br><span class=""scene-font-kokoro"">ダメ……我慢できない！）</span>"
+42,[scene_evt200515_cp6_q3_s10],"あ……<br>貴方、<span class=""scene-font-spword"">“素敵”</span>な<span class=""scene-font-spword"">“ステッキ”</span>ですね。"
+43,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-spword"">“扇子”</span>の貴方は、<br>とってもいい<span class=""scene-font-spword"">“センス”</span>してます！"
+44,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-kokoro"">（た……楽しい♪）</span>"
+45,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-gray"">よくぞ言った……</span><br><span class=""scene-font-gray"">貴様をダジャレ魔王と認める。</span><br><span class=""scene-font-gray"">我らとともに世界を変えよう！</span>"
+46,[scene_evt200515_cp6_q3_s10],"<span class=""scene-font-4"">きゃぁぁぁーーっ！！</span>"
+
+!이벤트 6-4
+
+0,[scene_evt200515_cp6_q4_s20],それから、気がついたら私は<br>ダジャレ魔王・楓として<br>世界を脅かす存在になっていました。
+1,[scene_evt200515_cp6_q4_s20],…………
+2,[scene_evt200515_cp6_q4_s20],全ては私の心の弱さが招いたこと。<br>ダジャレの誘惑に負けた私のせいです。
+3,[scene_evt200515_cp6_q4_s20],術にかけられていたとはいえ、<br>皆さんにひどいことをしてしまって、<br>ごめんなさいっ。
+4,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-katari"">楓は深々と頭を下げて謝罪する。</span>"
+5,[scene_evt200515_cp6_q4_s20],楓さん、生まれ持った強い<br>ダジャレ力のせいで、<br>苦労してきたんですね……
+6,[scene_evt200515_cp6_q4_s20],これからは好きなだけダジャレを<br>言っていいですからね！<br>私も頑張ってダジャレで返しますから！
+7,[scene_evt200515_cp6_q4_s20],卯月、その方向には<br>頑張らなくていいから……
+8,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">逃がさん……</span><br><span class=""scene-font-gray"">カエデのダジャレ力は我らのもの！</span>"
+9,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">なんとしても我が手中に収める。</span><br><span class=""scene-font-gray"">もう一度ダジャレの誘惑に沈むがいい！</span>"
+10,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4"">ぐはっ！</span>"
+11,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-katari"">ステッキと扇子の放つ光に、</span><br><span class=""scene-font-katari"">彼らを牽制していたラグナたちは</span><br><span class=""scene-font-katari"">吹き飛ばされてしまう。</span>"
+12,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4"">同じ手にはかかりません！</span>"
+13,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-katari"">楓はステッキにカードを、</span><br><span class=""scene-font-katari"">扇子に突風を放ち、</span><br><span class=""scene-font-katari"">両者の進行を食い止める。</span>"
+14,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">くっ……！</span><br><span class=""scene-font-gray"">宮廷魔導師の名は</span><br><span class=""scene-font-gray"">伊達ではないようだな。</span>"
+15,[scene_evt200515_cp6_q4_s20],……そうでした。<br>貴方たちに言いたいことが<br>あったんです。
+16,[scene_evt200515_cp6_q4_s20],ダジャレに溢れた世界を創る……<br>その目的は百歩譲って認めます。<br>でもね……
+17,[scene_evt200515_cp6_q4_s20],普通に考えて、<br>ダジャレで世界征服なんて<br>できるわけがないじゃない！
+18,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4"">えぇっ！？</span>"
+19,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4 scene-font-gray"">なにぃ～っ！？</span>"
+20,[scene_evt200515_cp6_q4_s20],それ楓さんが否定しちゃうの……？
+21,[scene_evt200515_cp6_q4_s20],貴方たちの陰謀は最初から<br>潰える運命だったんです！<br>悪あがきはもうやめて！
+22,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">し、しかし……！</span><br><span class=""scene-font-gray"">貴様もダジャレが好きで好きで</span><br><span class=""scene-font-gray"">仕方がないはずだ！</span>"
+23,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">皆が思いのままにダジャレを言える</span><br><span class=""scene-font-gray"">世界になれば貴様はもうダジャレを</span><br><span class=""scene-font-gray"">我慢する必要はなくなる！</span>"
+24,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">何故我らと目的を違えるのだ！？</span>"
+25,[scene_evt200515_cp6_q4_s20],そうね……<br>確かにとても楽しかったわ……
+26,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-spword"">“楓”</span>が世界を<span class=""scene-font-spword"">“変え”</span>たる<span class=""scene-font-spword"">“で”</span>♪"
+27,[scene_evt200515_cp6_q4_s20],ダジャレ魔王として、<br>好きなだけダジャレが言えて……
+28,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-spword"">“ビィ”</span>くんの翼はル<span class=""scene-font-spword"">“ビー”</span>色ですね♪"
+29,[scene_evt200515_cp6_q4_s20],あんなダジャレも、<br>こんなダジャレも披露できて……
+30,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-spword"">“先手”</span>を取られちゃいました……<br>これではいけま<span class=""scene-font-spword"">“せんて”</span>、<br>叱られちゃいますね。"
+31,[scene_evt200515_cp6_q4_s20],最後には、<br>夢のダジャレ対決まで実現できて……
+32,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">だったら我らとともに夢を叶えよう！</span><br><span class=""scene-font-gray"">そうすればもっと楽しい</span><br><span class=""scene-font-gray"">ダジャレライフを送れるはずだ！</span>"
+33,[scene_evt200515_cp6_q4_s20],でも……でも……！
+34,[scene_evt200515_cp6_q4_s20],"世界にはダジャレを言う自由があれば<br>言わない自由もある……<br><span class=""scene-font-4"">私はその自由を守りたいっ！</span>"
+35,[scene_evt200515_cp6_q4_s20],だから、貴方たちという<br>世界の脅威は倒します！<br>みんなの自由を守るために……！
+36,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">ぐぅ……っ！！</span>"
+37,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4"">うぅぅ……</span><br><span class=""scene-font-4"">がえ゛でざぁぁーーんっ！！</span>"
+38,[scene_evt200515_cp6_q4_s20],私だぢのだめに、ぞんな辛い選択を<br>じでぐれるなんで……<br>ひっく……うっく……
+39,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4"">えぇっ！？</span><br>これって感動するシーンなの！？"
+40,[scene_evt200515_cp6_q4_s20],楓さん……ひっく……<br>私は、楓さんのその決意を<br>尊重するよ……！
+41,[scene_evt200515_cp6_q4_s20],うぅぅ……私も……<br>一緒に戦いますから……<br>……自由を、守りましょう！
+42,[scene_evt200515_cp6_q4_s20],う、うーん……
+43,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-4"">もう！</span><br>こうなったらツッコミなしだ！<br>私も戦う！"
+44,[scene_evt200515_cp6_q4_s20],ありがとう、みんな。
+45,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">ぐっ……</span><br><span class=""scene-font-gray"">こんなところで我らの野望を</span><br><span class=""scene-font-gray"">潰されてたまるか！</span>"
+46,[scene_evt200515_cp6_q4_s20],──っ！！
+47,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-katari"">ステッキと扇子が力を解放すると、</span><br><span class=""scene-font-katari"">その背後に楓によく似た影が現れる。</span>"
+48,[scene_evt200515_cp6_q4_s20],えっ？<br>楓さんがもうひとり……？
+49,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">カエデが我らの力を使う時、</span><br><span class=""scene-font-gray"">我らも同時にカエデの力を</span><br><span class=""scene-font-gray"">取り込んでいたのだ。</span>"
+50,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">我らのような存在は</span><br><span class=""scene-font-gray"">使い手がいなければ真価は発揮できん。</span>"
+51,[scene_evt200515_cp6_q4_s20],"<span class=""scene-font-gray"">しかしカエデの力を取り込んだことで、</span><br><span class=""scene-font-gray"">使い手がいなくとも真の力を</span><br><span class=""scene-font-gray"">解き放つことができるというわけだ。</span>"
+52,[scene_evt200515_cp6_q4_s20],そ、そんな……
+53,[scene_evt200515_cp6_q4_s20],貴方たちに力を与えてしまったのは<br>私の落ち度です……
+54,[scene_evt200515_cp6_q4_s20],だからこそ貴方たちを<br>この手で食い止めます。<br>決着をつけましょう！
+
+!엔딩
+
+0,[scene_k93tyq4nic_cp0_q3_s10],すぅ……すぅ……
+1,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-4"">お疲れ様でしたーっ！</span>"
+2,[scene_k93tyq4nic_cp0_q3_s10],今日の撮影も盛り沢山でしたね！<br>いっぱい動き回ったから、<br>へとへとになりましたぁ～……
+3,[scene_k93tyq4nic_cp0_q3_s10],卯月が練習頑張ってた殺陣のシーン、<br>一発で決まってたよね。<br>キレがあって思わず見惚れちゃった。
+4,[scene_k93tyq4nic_cp0_q3_s10],しぶりんも剣でスパッって<br>敵をなぎ払ってくシーン、<br>カッコよかったよ～
+5,[scene_k93tyq4nic_cp0_q3_s10],未央ちゃんだって奇襲かけるところ<br>とっても難しいのに、<br>完璧ですごかったです！
+6,[scene_k93tyq4nic_cp0_q3_s10],あれ？<br>楓さん、寝てる……？
+7,[scene_k93tyq4nic_cp0_q3_s10],すぅ……すぅ……<br>……決着を、つけ…………
+8,[scene_k93tyq4nic_cp0_q3_s10],ほんとですね……<br>待ちくたびれて<br>寝ちゃったんでしょうか？
+9,[scene_k93tyq4nic_cp0_q3_s10],かえ姉さま～、起きて～！<br>こんなところで寝たら<br>風邪引いちゃうよ～！
+10,[scene_k93tyq4nic_cp0_q3_s10],う、ん……
+11,[scene_k93tyq4nic_cp0_q3_s10],あら？<br>卯月ちゃんに凛ちゃんに未央ちゃん……
+12,[scene_k93tyq4nic_cp0_q3_s10],戦いはどうなったんですか？<br>素敵なステッキたちの陰謀は<br>阻止できたのかしら？
+13,[scene_k93tyq4nic_cp0_q3_s10],へっ？<br>素敵なステッキ……？
+14,[scene_k93tyq4nic_cp0_q3_s10],夢見てたみたいだね。<br>ぐっすり眠ってたし。
+15,[scene_k93tyq4nic_cp0_q3_s10],夢……？<br>そういえば私、撮影が終わって<br>卯月ちゃんたちを待ってて……
+16,[scene_k93tyq4nic_cp0_q3_s10],お待たせしてすみません！<br>私たちも撮影が終わったので、<br>すぐに着替えて出る準備しますね！
+17,[scene_k93tyq4nic_cp0_q3_s10],急いで済ませるから、<br>もう少しだけ待ってて！
+18,[scene_k93tyq4nic_cp0_q3_s10],ふふっ、焦らなくても大丈夫ですよ。<br>お店の予約時間までには<br>まだ時間がありますから。
+19,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-katari"">卯月たちは着替えるため、</span><br><span class=""scene-font-katari"">カーテンの中に入っていく。</span>"
+20,[scene_k93tyq4nic_cp0_q3_s10],ふわぁ～……
+21,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-kokoro"">（それにしても、ずいぶんと</span><br><span class=""scene-font-kokoro"">長い夢を見ていたみたい……）</span>"
+22,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-spword"">“楓”</span>が世界を<span class=""scene-font-spword"">“変え”</span>たる<span class=""scene-font-spword"">“で”</span>！"
+23,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-kokoro"">（ふふっ、</span><br><span class=""scene-font-kokoro"">とっても楽しい夢だったわ～♪）</span>"
+24,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-katari"">独り言を呟き、</span><br><span class=""scene-font-katari"">楓はにっこりと笑顔を咲かせる。</span>"
+25,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-katari"">長く壮大な夢で得た不思議な経験は、</span><br><span class=""scene-font-katari"">今後の楓のアイドル活動にも大いに</span><br><span class=""scene-font-katari"">役立っていくの……かもしれない。</span>"
+26,[scene_k93tyq4nic_cp0_q3_s10],"<span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　　　　　　　　　　　　──The END</span>"
+
 !스토리? 페이트? 이벤트? 등등..
 
 
