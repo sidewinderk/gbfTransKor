@@ -3513,15 +3513,15 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 敵全体に光属性ダメージ(特大)/暗闇効果,적 전체에게 광속성 대미지(특대)/암흑효과
 コロゥの加護,코로의 가호
 天球の運行を司る日輪の女帝が下す裁きに一切の慈悲はなく、高き御座より全てを浄化する。されどその輝きは正しく生きる者達を温かく見守り、暗雲を退ける希望となる。,天球の運行を司る日輪の女帝が下す裁きに一切の慈悲はなく、高き御座より全てを浄化する。されどその輝きは正しく生きる者達を温かく見守り、暗雲を退ける希望となる。
-
-
-
-
-
-
-
-
-
+ディアボロス,디아볼로스
+"<span class=""txt-summon-level"">Lv ***</span> ディアボロス","<span class=""txt-summon-level"">Lv ***</span> 디아볼로스"
+"<span class=""txt-summon-level"">Lv **</span> ディアボロス","<span class=""txt-summon-level"">Lv **</span> 디아볼로스"
+"<span class=""txt-summon-level"">Lv *</span> ディアボロス","<span class=""txt-summon-level"">Lv *</span> 디아볼로스"
+暗獄のイデア,암옥의 이데아
+敵全体に闇属性ダメージ(特大)/攻防DOWN(小),적 전체에에게 암속성 대미지(특대)/공격・방어DOWN(소)
+ディアボロスの加護,디아볼로스의 가호
+闇属性キャラ攻撃**%UP/HP**%UP,암속성 캐릭터의 공격력 **%UP/HP **%UP
+幾億の厭悪を孕みし悪鬼は、紅蓮に燃ゆる憎悪を翻し、皮肉な微笑を拵える。振り翳す掌は蒼穹を深き闇で塗り潰し、絶望の開闢と希望の終焉を告げる。,幾億の厭悪を孕みし悪鬼は、紅蓮に燃ゆる憎悪を翻し、皮肉な微笑を拵える。振り翳す掌は蒼穹を深き闇で塗り潰し、絶望の開闢と希望の終焉を告げる。
 
 
 !에픽
@@ -3693,9 +3693,17 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv **</span> ガルーダ","<span class=""txt-summon-level"">Lv **</span> 함사"
 "<span class=""txt-summon-level"">Lv *</span> ガルーダ","<span class=""txt-summon-level"">Lv *</span> 함사"
 ウイング・オブ・ライト,윙 오브 라이트
-敵全体に風属性ダメージ(特大)/攻防大幅DOWN(*ターン)/強化効果を*つ無効化,"적 전체에게 풍속성 대미지(특대)/공격, 방어 대폭DOWN(* 턴)/강화효과 *개 무효화"
+敵全体に風属性ダメージ(特大)/攻防大幅DOWN(*ターン)/強化効果を*つ無効化,적 전체에게 풍속성 대미지(특대)/공격・방어 대폭DOWN(* 턴)/강화효과 *개 무효화
 ハンサの加護,함사의 가호
 人の心を鏡のように映し出す聖鳥。その姿が輝いて見えたのなら、あなたの心根も清らかなのだろう。もし愚鈍に見えたのなら、己を省みる機会を作った方が良いのかもしれない。,人の心を鏡のように映し出す聖鳥。その姿が輝いて見えたのなら、あなたの心根も清らかなのだろう。もし愚鈍に見えたのなら、己を省みる機会を作った方が良いのかもしれない。
+アナト,아나트
+"<span class=""txt-summon-level"">Lv ***</span> アナト","<span class=""txt-summon-level"">Lv ***</span> 아나트"
+"<span class=""txt-summon-level"">Lv **</span> アナト","<span class=""txt-summon-level"">Lv **</span> 아나트"
+"<span class=""txt-summon-level"">Lv *</span> アナト","<span class=""txt-summon-level"">Lv *</span> 아나트"
+ソード・オブ・フューリー,소드 오브 퓨리
+敵全体に風属性ダメージ(特大)/味方全体の攻撃UP(大),적 전체에게 풍속성 대미지(특대)/아군 전체의 공격UP(대)
+アナトの加護,아나트의 가호
+
 Dエンジェル・オリヴィエ,다크엔젤・올리비에
 "<span class=""txt-summon-level"">Lv ***</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv ***</span> 다크엔젤・올리비에"
 "<span class=""txt-summon-level"">Lv **</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv **</span> 다크엔젤・올리비에"
@@ -3712,17 +3720,31 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 
 !신데렐라
 
-[覚醒魔王]神崎蘭子,[각성마왕] 칸자키 란코
-"<span class=""txt-summon-level"">Lv ***</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv ***</span> [각성마왕]칸자키 란코"
-"<span class=""txt-summon-level"">Lv **</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv **</span> [각성마왕]칸자키 란코"
-"<span class=""txt-summon-level"">Lv *</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv *</span> [각성마왕]칸자키 란코"
-スキル「アンノウン」シリーズの効果が**%UP,스킬 「언노운」스리즈의 효과 **%UP
+諸星きらり,모로보시 키라리
+"<span class=""txt-summon-level"">Lv ***</span> 諸星きらり","<span class=""txt-summon-level"">Lv ***</span> 모로보시 키라리"
+"<span class=""txt-summon-level"">Lv **</span> 諸星きらり","<span class=""txt-summon-level"">Lv **</span> 모로보시 키라리"
+"<span class=""txt-summon-level"">Lv *</span> 諸星きらり","<span class=""txt-summon-level"">Lv *</span> 모로보시 키라리"
+きらりんドロップ☆,키라링 드롭☆
+敵全体に土属性ダメージ(特大)/敵味方に追加ダメージ,"적 전체에게 토속성 대미지(특대)/적, 아군에게 추가 대미지"
+きらりんぱわー☆,키라링 파워☆
+全属性キャラのHPが**%UP,전 속성 캐릭터의 HP **%UP
+偶然にも星の力を得た少女は、更なる高みを目指し大きく成長する。全てを圧倒するその力は後に「きらりんぱわー☆」として後世へと語り継がれていく。,偶然にも星の力を得た少女は、更なる高みを目指し大きく成長する。全てを圧倒するその力は後に「きらりんぱわー☆」として後世へと語り継がれていく。
 
 ブリュンヒルデ,브륜힐데
 "<span class=""txt-summon-level"">Lv ***</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv ***</span> 브륜힐데"
 "<span class=""txt-summon-level"">Lv **</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv **</span> 브륜힐데"
 "<span class=""txt-summon-level"">Lv *</span> ブリュンヒルデ","<span class=""txt-summon-level"">Lv *</span> 브륜힐데"
 弱点攻撃でクリティカル確率UP,약점공격 시 크리티컬 확률 UP
+
+[覚醒魔王]神崎蘭子,[각성마왕] 칸자키 란코
+"<span class=""txt-summon-level"">Lv ***</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv ***</span> [각성마왕]칸자키 란코"
+"<span class=""txt-summon-level"">Lv **</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv **</span> [각성마왕]칸자키 란코"
+"<span class=""txt-summon-level"">Lv *</span> [覚醒魔王]神崎蘭子","<span class=""txt-summon-level"">Lv *</span> [각성마왕]칸자키 란코"
+スキル「アンノウン」シリーズの効果が**%UP,스킬 「언노운」스리즈의 효과 **%UP
+
+
+
+
 
 !코드기어스
 
