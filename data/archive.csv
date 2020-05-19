@@ -3405,7 +3405,6 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ミカエル","<span class=""txt-summon-level"">Lv ***</span> 미카엘"
 "<span class=""txt-summon-level"">Lv **</span> ミカエル","<span class=""txt-summon-level"">Lv **</span> 미카엘"
 "<span class=""txt-summon-level"">Lv *</span> ミカエル","<span class=""txt-summon-level"">Lv *</span> 미카엘"
-"<div class=""prt-text-small"">敵全体に現HPに応じた無属性ダメージ/強化効果を*つ無効化/スロウ効果</div>","<div class=""prt-text-small"">전 전체에게 현재 HP에 따른 무속성 피해/강화 효과를 *개 무효화/슬로우 효과</div>"
 敵全体に現HPに応じた無属性ダメージ/強化効果を*つ無効化/スロウ効果,전 전체에게 현재 HP에 따른 무속성 피해/강화 효과를 *개 무효화/슬로우 효과
 火属性キャラのダメージ上限*%UP,화속성 캐릭터의 대미지 상한 *%UP
 火属性キャラのダメージ上限**%UP,화속성 캐릭터의 대미지 상한 *%UP
@@ -3417,6 +3416,11 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ウリエル","<span class=""txt-summon-level"">Lv ***</span> 우리엘"
 "<span class=""txt-summon-level"">Lv **</span> ウリエル","<span class=""txt-summon-level"">Lv **</span> 우리엘"
 "<span class=""txt-summon-level"">Lv *</span> ウリエル","<span class=""txt-summon-level"">Lv *</span> 우리엘"
+光炎,광염
+敵全体に土属性ダメージ(特大)/土属性キャラの攻防UP(特大)/味方全体の奥義ゲージUP(**%),적 전체에게 토속성 대미지(특대)/토속성 캐릭터 방어UP(특대)/아군 전체의 오의 게이지UP(**%)
+ウリエルの加護,우리엘의 가호
+土属性キャラのダメージ上限*%UP,토속성 캐릭터의 대미지 상한*%UP
+大地の如く揺るがぬ正義は、世界の均衡を目に見えぬ元素から支える。静穏なる観測者は危機に際して顕現し、父母たる大地の猛威を体現する。,大地の如く揺るがぬ正義は、世界の均衡を目に見えぬ元素から支える。静穏なる観測者は危機に際して顕現し、父母たる大地の猛威を体現する。
 ラファエル,라파엘
 "<span class=""txt-summon-level"">Lv ***</span> ラファエル","<span class=""txt-summon-level"">Lv ***</span> 라파엘"
 "<span class=""txt-summon-level"">Lv **</span> ラファエル","<span class=""txt-summon-level"">Lv **</span> 라파엘"
@@ -3468,6 +3472,56 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv *</span> リッチ","<span class=""txt-summon-level"">Lv *</span> 리치"
 
 !토멸전
+
+イフリート,이프리트
+"<span class=""txt-summon-level"">Lv ***</span> イフリート","<span class=""txt-summon-level"">Lv ***</span> 이프리트"
+"<span class=""txt-summon-level"">Lv **</span> イフリート","<span class=""txt-summon-level"">Lv **</span> 이프리트"
+"<span class=""txt-summon-level"">Lv *</span> イフリート","<span class=""txt-summon-level"">Lv *</span> 이프리트"
+インフェルノ,인페르노
+敵全体に火属性ダメージ(特大)/味方全体の攻撃UP(中),적 전체에게 화속성 대미지(특대)/아군 전체의 공격UP(중)
+イフリートの加護,이프리트의 가호
+紅蓮の魔炎を纏いし灼熱の獣は、この世界の全てを灰にする。焦土と化した大地に、獣の咆哮だけが響き渡る。,紅蓮の魔炎を纏いし灼熱の獣は、この世界の全てを灰にする。焦土と化した大地に、獣の咆哮だけが響き渡る。
+コキュートス,코퀴토스
+"<span class=""txt-summon-level"">Lv ***</span> コキュートス","<span class=""txt-summon-level"">Lv ***</span> 코퀴토스"
+"<span class=""txt-summon-level"">Lv **</span> コキュートス","<span class=""txt-summon-level"">Lv **</span> 코퀴토스"
+"<span class=""txt-summon-level"">Lv *</span> コキュートス","<span class=""txt-summon-level"">Lv *</span> 코퀴토스"
+第四円・ジュデッカ,제 4원・주데카
+敵全体に水属性ダメージ(特大)/味方全体の攻撃UP(中),적 전체에게 화속성 대미지(특대)/아군 전체의 공격UP(중)
+コキュートスの加護,코퀴토스의 가호
+氷獄を統べる獣は絶対零度の輝きを放つ。青白きその身は近づく全てから等しく命の炎を奪い、安らかな深淵へと引きずり込む。,氷獄を統べる獣は絶対零度の輝きを放つ。青白きその身は近づく全てから等しく命の炎を奪い、安らかな深淵へと引きずり込む。
+ウォフマナフ,보후 마나흐
+"<span class=""txt-summon-level"">Lv ***</span> ウォフマナフ","<span class=""txt-summon-level"">Lv ***</span> 보후 마나흐"
+"<span class=""txt-summon-level"">Lv **</span> ウォフマナフ","<span class=""txt-summon-level"">Lv **</span> 보후 마나흐"
+"<span class=""txt-summon-level"">Lv *</span> ウォフマナフ","<span class=""txt-summon-level"">Lv *</span> 보후 마나흐"
+不滅の聖性,불멸의 성성
+敵全体に土属性ダメージ(特大)/暗闇効果,적 전체에게 화속성 대미지(특대)/암흑효과
+ウォフマナフの加護,보후 마나흐의 가호
+善なる憂いは憐れむべき者達の前に顕現する。正しき善悪を教え、理想世界へと人々を導くため、厳格なる裁きが下される。,善なる憂いは憐れむべき者達の前に顕現する。正しき善悪を教え、理想世界へと人々を導くため、厳格なる裁きが下される。
+サジタリウス,사지타리우스
+"<span class=""txt-summon-level"">Lv ***</span> ウォフマナフ","<span class=""txt-summon-level"">Lv ***</span> 사지타리우스"
+"<span class=""txt-summon-level"">Lv **</span> ウォフマナフ","<span class=""txt-summon-level"">Lv **</span> 사지타리우스"
+"<span class=""txt-summon-level"">Lv *</span> ウォフマナフ","<span class=""txt-summon-level"">Lv *</span> 사지타리우스"
+アストロホライズン,아스트로 호라이즌
+敵全体に風属性ダメージ(特大)/味方全体の防御UP(中),적 전체에게 풍속성 대미지(특대)/아군 전체의 방어UP(중)
+サジタリウスの加護,사지타리우스의 가호
+黒の天蓋に鋼鉄の蹄を鳴らし、叡智の象徴たる弓に嘆きを番える。その一矢は衝動を導き、荒廃の世を作り出す。,黒の天蓋に鋼鉄の蹄を鳴らし、叡智の象徴たる弓に嘆きを番える。その一矢は衝動を導き、荒廃の世を作り出す。
+コロゥ,코로
+"<span class=""txt-summon-level"">Lv ***</span> ウォフマナフ","<span class=""txt-summon-level"">Lv ***</span> 사지타리우스"
+"<span class=""txt-summon-level"">Lv **</span> ウォフマナフ","<span class=""txt-summon-level"">Lv **</span> 사지타리우스"
+"<span class=""txt-summon-level"">Lv *</span> ウォフマナフ","<span class=""txt-summon-level"">Lv *</span> 사지타리우스"
+アルヴェン,알벤
+敵全体に光属性ダメージ(特大)/暗闇効果,적 전체에게 광속성 대미지(특대)/암흑효과
+コロゥの加護,코로의 가호
+天球の運行を司る日輪の女帝が下す裁きに一切の慈悲はなく、高き御座より全てを浄化する。されどその輝きは正しく生きる者達を温かく見守り、暗雲を退ける希望となる。,天球の運行を司る日輪の女帝が下す裁きに一切の慈悲はなく、高き御座より全てを浄化する。されどその輝きは正しく生きる者達を温かく見守り、暗雲を退ける希望となる。
+
+
+
+
+
+
+
+
+
 
 
 !에픽
@@ -3638,6 +3692,10 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 "<span class=""txt-summon-level"">Lv ***</span> ガルーダ","<span class=""txt-summon-level"">Lv ***</span> 함사"
 "<span class=""txt-summon-level"">Lv **</span> ガルーダ","<span class=""txt-summon-level"">Lv **</span> 함사"
 "<span class=""txt-summon-level"">Lv *</span> ガルーダ","<span class=""txt-summon-level"">Lv *</span> 함사"
+ウイング・オブ・ライト,윙 오브 라이트
+敵全体に風属性ダメージ(特大)/攻防大幅DOWN(*ターン)/強化効果を*つ無効化,"적 전체에게 풍속성 대미지(특대)/공격, 방어 대폭DOWN(* 턴)/강화효과 *개 무효화"
+ハンサの加護,함사의 가호
+人の心を鏡のように映し出す聖鳥。その姿が輝いて見えたのなら、あなたの心根も清らかなのだろう。もし愚鈍に見えたのなら、己を省みる機会を作った方が良いのかもしれない。,人の心を鏡のように映し出す聖鳥。その姿が輝いて見えたのなら、あなたの心根も清らかなのだろう。もし愚鈍に見えたのなら、己を省みる機会を作った方が良いのかもしれない。
 Dエンジェル・オリヴィエ,다크엔젤・올리비에
 "<span class=""txt-summon-level"">Lv ***</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv ***</span> 다크엔젤・올리비에"
 "<span class=""txt-summon-level"">Lv **</span> Dエンジェル・オリヴィエ","<span class=""txt-summon-level"">Lv **</span> 다크엔젤・올리비에"
@@ -3724,6 +3782,8 @@ C.C.,C.C.
 サポーター選択,서포터 선택
 召喚,소환
 加護,가호
+メイン装備時,メイン装備時
+サブ装備時,サブ装備時
 総所持数,총 소지 수
 倉庫,창고
 売却価格,판매가격
