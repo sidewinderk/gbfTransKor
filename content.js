@@ -856,8 +856,7 @@ function GetTranslatedText(node, csv) {
             node.className.includes('time') ||
             node.className.includes('txt-withdraw-trialbatle') ||
             node.className.includes('prt-popup-header') ||
-            node.className.includes('prt-attribute-bonus') ||
-            node.className.includes('btn-select-baloon')
+            node.className.includes('prt-attribute-bonus')
         )
             passOrNot = true;
         if (passOrNot) {
@@ -890,7 +889,7 @@ function GetTranslatedText(node, csv) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         style.innerText =
-                            `.${node.classList[0]}::after{ content: \\"${translatedText}\\" !important; }`;
+                            `.${node.classList[0]}::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }

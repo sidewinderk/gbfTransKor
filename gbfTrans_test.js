@@ -789,7 +789,7 @@ function GetTranslatedText(node, csv) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         style.innerText =
-                            `.${node.classList[0]}::after{ content: \\"${translatedText}\\" !important; }`;
+                            `.${node.classList[0]}::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
