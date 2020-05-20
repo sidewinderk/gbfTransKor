@@ -583,18 +583,18 @@ const parseCsv = str => {
 async function InitList() {
     // Use custom font
     var styles = `
-    @font-face {
-      font-family: 'Youth';
-      src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');
-    }
-    @font-face {
-      font-family: 'Youth';
-      font-style: normal;
-      font-weight: 400;
-      src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
-      unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
-    }
-  `
+      @font-face {
+        font-family: 'Youth';
+        src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');
+      }
+      @font-face {
+        font-family: 'Youth';
+        font-style: normal;
+        font-weight: 400;
+        src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+        unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
+      }
+    `
     var styleSheet = document.createElement("style")
     styleSheet.type = "text/css"
     styleSheet.innerText = styles
@@ -756,7 +756,9 @@ function GetTranslatedText(node, csv) {
             node.className.includes('effect') ||
             node.className.includes('time') ||
             node.className.includes('txt-withdraw-trialbatle') ||
-            node.className.includes('prt-popup-header')
+            node.className.includes('prt-popup-header') ||
+            node.className.includes('prt-attribute-bonus') ||
+            node.className.includes('btn-select-baloon')
         )
             passOrNot = true;
         if (passOrNot) {
@@ -787,7 +789,7 @@ function GetTranslatedText(node, csv) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         style.innerText =
-                            `.${node.className}::after{ content: \\"${translatedText}\\" !important; }`;
+                            `.${node.classList[0]}::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
@@ -856,7 +858,8 @@ function GetTranslatedImageDIV(node, csv) {
         var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
-        if (node.className.includes("ico-mini-")) {
+        if (node.className.includes("ico-mini-") ||
+            node.className.includes("btn-image-")) {
             imageStyle = window.getComputedStyle(node, ":after").backgroundImage;
         }
         var translatedText = "";
@@ -880,7 +883,10 @@ function GetTranslatedImageDIV(node, csv) {
         if ((imageStyle.includes("chara_type")) ||
             (imageStyle.includes("race")) ||
             (imageStyle.includes("weapon")) ||
-            (imageStyle.includes("type-"))
+            (imageStyle.includes("type-")) ||
+            (node.className.includes("btn-switch-")) ||
+            (node.className.includes("btn-image-check")) ||
+            (node.className.includes("btn-reset-"))
         )
             passOrNot = true;
         if (!passOrNot)
@@ -888,12 +894,13 @@ function GetTranslatedImageDIV(node, csv) {
         PrintLog("Send DIV:" + imageStyle + " Class: " + node.className);
         translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) { // When it founds the translated text
-            if (node.className.includes("ico-mini-")) {
+            if (node.className.includes("ico-mini-") ||
+                node.className.includes("btn-image-")) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
                     style.innerText =
-                        `.${node.className}::after{ background-image: ${translatedText}!important; }`;
+                        `.${node.classList[0]}::after{ background-image: ${translatedText}!important; }`;
                     document.head.appendChild(style);
                     node.className += ' ' + node.className + '-translated';
                 }
