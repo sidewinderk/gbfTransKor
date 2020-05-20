@@ -854,7 +854,9 @@ function GetTranslatedText(node, csv) {
             node.className.includes('effect') ||
             node.className.includes('time') ||
             node.className.includes('txt-withdraw-trialbatle') ||
-            node.className.includes('prt-popup-header')
+            node.className.includes('prt-popup-header') ||
+            node.className.includes('prt-attribute-bonus') ||
+            node.className.includes('btn-select-baloon')
         )
             passOrNot = true;
         if (passOrNot) {
@@ -1020,14 +1022,16 @@ var sceneObserver = new MutationObserver(function(mutations) {
             var textmessage = mutation.target.children[0].children[1].innerHTML
                 .replace(/(\r\n|\n|\r)/gm, '')
                 .trim();
-
+            var LogLength = mutation.target.children.length;
             var nameNode = document.getElementsByClassName('txt-character-name')[0];
 
             if (exMode) {
-                var sceneCode = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
-                PrintLog('storyText_index:' + storyText_index);
-                PushCSV_StoryText(textmessage, storyText, sceneCode);
-                PushCSV(textName, cNames);
+                if (storyText_index < LogLength) {
+                    var sceneCode = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
+                    PrintLog('storyText_index:' + storyText_index);
+                    PushCSV_StoryText(textmessage, storyText, sceneCode);
+                    PushCSV(textName, cNames);
+                }
             }
             if (transMode) {
                 sceneObserver.disconnect();
