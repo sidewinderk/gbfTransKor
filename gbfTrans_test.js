@@ -756,7 +756,9 @@ function GetTranslatedText(node, csv) {
             node.className.includes('effect') ||
             node.className.includes('time') ||
             node.className.includes('txt-withdraw-trialbatle') ||
-            node.className.includes('prt-popup-header')
+            node.className.includes('prt-popup-header') ||
+            node.className.includes('prt-attribute-bonus') ||
+            node.className.includes('btn-select-baloon')
         )
             passOrNot = true;
         if (passOrNot) {
