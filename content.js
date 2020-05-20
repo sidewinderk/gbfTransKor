@@ -800,6 +800,7 @@ function GetTranslatedImageURL(stext, jsonFile) {
 }
 
 function GetTranslatedImageStyle(stext, jsonFile) {
+    PrintLog("GetTranslatedImageStyle: " + stext);
     if (stext.includes(generalConfig.origin))
         return "";
     var transImg = "";
@@ -889,7 +890,7 @@ function GetTranslatedText(node, csv) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         style.innerText =
-                            `.${node.className}::after{ content: \\"${translatedText}\\" !important; }`;
+                            `.${node.classList[0]}::after{ content: \\"${translatedText}\\" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
@@ -958,7 +959,8 @@ function GetTranslatedImageDIV(node, csv) {
         var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, "").trim();
-        if (node.className.includes("ico-mini-")) {
+        if (node.className.includes("ico-mini-") ||
+            node.className.includes("btn-image-")) {
             imageStyle = window.getComputedStyle(node, ":after").backgroundImage;
         }
         var translatedText = "";
@@ -982,7 +984,10 @@ function GetTranslatedImageDIV(node, csv) {
         if ((imageStyle.includes("chara_type")) ||
             (imageStyle.includes("race")) ||
             (imageStyle.includes("weapon")) ||
-            (imageStyle.includes("type-"))
+            (imageStyle.includes("type-")) ||
+            (node.className.includes("btn-switch-")) ||
+            (node.className.includes("btn-image-check")) ||
+            (node.className.includes("btn-reset-"))
         )
             passOrNot = true;
         if (!passOrNot)
@@ -990,12 +995,13 @@ function GetTranslatedImageDIV(node, csv) {
         PrintLog("Send DIV:" + imageStyle + " Class: " + node.className);
         translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) { // When it founds the translated text
-            if (node.className.includes("ico-mini-")) {
+            if (node.className.includes("ico-mini-") ||
+                node.className.includes("btn-image-")) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
                     style.innerText =
-                        `.${node.className}::after{ background-image: ${translatedText}!important; }`;
+                        `.${node.classList[0]}::after{ background-image: ${translatedText}!important; }`;
                     document.head.appendChild(style);
                     node.className += ' ' + node.className + '-translated';
                 }
