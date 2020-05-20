@@ -194,91 +194,91 @@ index,sceneCode,jp,kr
 
 
 !이벤트 1-3
-0,[scene_evt200515_cp1_q3_s10],すごい、ぴにゃ！<br>もうこんなにできたの？<br>本当に器用でお利口さんね！
-1,[scene_evt200515_cp1_q3_s10],ぴにゃっ！　ぴにゃっ！
-2,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">私の家はお菓子屋さんをやってて、</span><br><span class=""scene-font-gray"">最近はぴにゃにもお菓子作りを</span><br><span class=""scene-font-gray"">手伝ってもらってたんです。</span>"
-3,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">あ、ぴにゃって言うのはこの子のこと。</span><br><span class=""scene-font-gray"">ぴにゃぴにゃって言うから、</span><br><span class=""scene-font-gray"">ぴにゃって呼んでるんです。</span>"
-4,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ぴにゃはとても働き者で、</span><br><span class=""scene-font-gray"">手先も器用で、私も家族も</span><br><span class=""scene-font-gray"">大切な仲間だと思ってて……</span>"
-5,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">でも、ある時……</span>"
-6,[scene_evt200515_cp1_q3_s10],ぴ、にゃ……
-7,[scene_evt200515_cp1_q3_s10],ぴにゃ？<br>どうかしたの？
-8,[scene_evt200515_cp1_q3_s10],…………
-9,[scene_evt200515_cp1_q3_s10],ぴにゃ？
-10,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">急に元気がなくなって、</span><br><span class=""scene-font-gray"">体調が悪いのかなと思ったんですけど、</span><br><span class=""scene-font-gray"">熱とかはないみたいで……</span>"
-11,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">その頃からぴにゃはひとりで</span><br><span class=""scene-font-gray"">ふらりと出掛けるようになったんです。</span><br><span class=""scene-font-gray"">気になって追いかけてみたら……</span>"
-12,[scene_evt200515_cp1_q3_s10],ぴにゃの家とは違う方面……<br>こんな暗い森にひとりで<br>何してるんだろう？
-13,[scene_evt200515_cp1_q3_s10],ぴぃ……ぴにゃあ…………
-14,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">森の奥には誰も知らない祭壇があって、</span><br><span class=""scene-font-gray"">ぴにゃは祭壇にもたれかかるようにして</span><br><span class=""scene-font-gray"">泣いてました。</span>"
-15,[scene_evt200515_cp1_q3_s10],ぴにゃあぁぁ……<br>ぴにゃあぁぁ……ぴぃ……
-16,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア……</span>"
-17,[scene_evt200515_cp1_q3_s10],ぴにゃっ！？
-18,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">そしたら急に祭壇から変な声が</span><br><span class=""scene-font-gray"">聞こえてきました。</span><br><span class=""scene-font-gray"">声はぴにゃに話しかけてるみたいで……</span>"
-19,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア……？</span>"
-20,[scene_evt200515_cp1_q3_s10],ぴ、ぴにゃあ？
-21,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャアア……？</span><br><span class=""scene-font-gray"">ピニャアア！！</span>"
-22,[scene_evt200515_cp1_q3_s10],ぴにゃっ！！
-23,[scene_evt200515_cp1_q3_s10],ぴにゃあ……ぴにゃあ……
-24,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">言葉はわからなかったけど、</span><br><span class=""scene-font-gray"">ぴにゃは何かの選択を</span><br><span class=""scene-font-gray"">迫られてるみたいでした。</span>"
-25,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア？</span>"
-26,[scene_evt200515_cp1_q3_s10],ぴっ！　ぴにゃあ……
-27,[scene_evt200515_cp1_q3_s10],…………
-28,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-4"">ぴにゃあッ！！　ぴにゃあッ！！</span>"
-29,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア……ッ！！</span>"
-30,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ぴにゃが何かを叫んだ瞬間、</span><br><span class=""scene-font-gray"">突然祭壇が開いて、</span><br><span class=""scene-font-gray"">中から１冊の本が出てきました。</span>"
-31,[scene_evt200515_cp1_q3_s10],ぴ、にゃ……
-32,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-4"">ぴにゃあっ！？</span>"
-33,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">驚きました。</span><br><span class=""scene-font-gray"">ぴにゃが表紙をめくった瞬間、本から</span><br><span class=""scene-font-gray"">ぴにゃに似た子が沢山出てきたから。</span>"
-34,[scene_evt200515_cp1_q3_s10],──……
-35,[scene_evt200515_cp1_q3_s10],ぴぃにゃあ……ぴぃにゃあ……
-36,[scene_evt200515_cp1_q3_s10],ぴにゃあっ！？
-37,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-4"">ぴにゃ！</span>"
-38,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">その子たちがいなくなったと思ったら、</span><br><span class=""scene-font-gray"">祭壇から黒い煙が噴き出して</span><br><span class=""scene-font-gray"">ぴにゃを包み込んだんです。</span>"
-39,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">心配になって、</span><br><span class=""scene-font-gray"">私が思わず駆け寄ってみたら……</span>"
-40,[scene_evt200515_cp1_q3_s10],いない……！<br>どうして？
-41,[scene_evt200515_cp1_q3_s10],ぴにゃ、どこにいるの？<br>お願い、返事をして！　ぴにゃ！
+0,[scene_evt200515_cp1_q3_s10],すごい、ぴにゃ！<br>もうこんなにできたの？<br>本当に器用でお利口さんね！,굉장해、삐냐！<br>벌써 이만큼이나 할 수 있는거야？<br>정말로 재주가 좋고 똑똑하구나！
+1,[scene_evt200515_cp1_q3_s10],ぴにゃっ！　ぴにゃっ！,삐냣！　삐냣！
+2,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">私の家はお菓子屋さんをやってて、</span><br><span class=""scene-font-gray"">最近はぴにゃにもお菓子作りを</span><br><span class=""scene-font-gray"">手伝ってもらってたんです。</span>","<span class=""scene-font-gray"">우리집은 과자점을 하고 있는데、</span><br><span class=""scene-font-gray"">최근에는 피냐도 과자만들기를</span><br><span class=""scene-font-gray"">도와줬어요.</span>"
+3,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">あ、ぴにゃって言うのはこの子のこと。</span><br><span class=""scene-font-gray"">ぴにゃぴにゃって言うから、</span><br><span class=""scene-font-gray"">ぴにゃって呼んでるんです。</span>","<span class=""scene-font-gray"">아、삐냐라는 건 이 아이.</span><br><span class=""scene-font-gray"">삐냐삐냐하고 말하니까、</span><br><span class=""scene-font-gray"">삐냐라고 부르고있어요.</span>"
+4,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ぴにゃはとても働き者で、</span><br><span class=""scene-font-gray"">手先も器用で、私も家族も</span><br><span class=""scene-font-gray"">大切な仲間だと思ってて……</span>","<span class=""scene-font-gray"">삐냐는 정말로 부지런하고、</span><br><span class=""scene-font-gray"">일을 잘해서、저도 가족도</span><br><span class=""scene-font-gray"">소중한 동료라고 생각했어요……</span>"
+5,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">でも、ある時……</span>","<span class=""scene-font-gray"">그런데、어느 날……</span>"
+6,[scene_evt200515_cp1_q3_s10],ぴ、にゃ……,삐、냐……
+7,[scene_evt200515_cp1_q3_s10],ぴにゃ？<br>どうかしたの？,삐냐？<br>무슨일이야？
+8,[scene_evt200515_cp1_q3_s10],…………,…………
+9,[scene_evt200515_cp1_q3_s10],ぴにゃ？,삐냐?
+10,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">急に元気がなくなって、</span><br><span class=""scene-font-gray"">体調が悪いのかなと思ったんですけど、</span><br><span class=""scene-font-gray"">熱とかはないみたいで……</span>","<span class=""scene-font-gray"">갑자기 기운이 없어져서、</span><br><span class=""scene-font-gray"">몸상태가 나쁜걸까 하고 생각했는데、</span><br><span class=""scene-font-gray"">열 같은 건 없는 것 같았는데……</span>"
+11,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">その頃からぴにゃはひとりで</span><br><span class=""scene-font-gray"">ふらりと出掛けるようになったんです。</span><br><span class=""scene-font-gray"">気になって追いかけてみたら……</span>","<span class=""scene-font-gray"">그때부터 삐냐는 혼자서</span><br><span class=""scene-font-gray"">훌쩍 외출하고는 했어요.</span><br><span class=""scene-font-gray"">신경이 쓰여서 따라가봤더니……</span>"
+12,[scene_evt200515_cp1_q3_s10],ぴにゃの家とは違う方面……<br>こんな暗い森にひとりで<br>何してるんだろう？,삐냐의 집이랑은 다른 방향……<br>이렇게 어두운 숲에 혼자서<br>뭐하고있는걸까？
+13,[scene_evt200515_cp1_q3_s10],ぴぃ……ぴにゃあ…………,삐이……삐냐아…………
+14,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">森の奥には誰も知らない祭壇があって、</span><br><span class=""scene-font-gray"">ぴにゃは祭壇にもたれかかるようにして</span><br><span class=""scene-font-gray"">泣いてました。</span>","<span class=""scene-font-gray"">숲 안쪽에는 아무도 모르는 제단이 있었고、</span><br><span class=""scene-font-gray"">삐냐는 제단에 기대서</span><br><span class=""scene-font-gray"">울고 있었어요.</span>"
+15,[scene_evt200515_cp1_q3_s10],ぴにゃあぁぁ……<br>ぴにゃあぁぁ……ぴぃ……,삐냐아아아……<br>삐냐아아아……삐……
+16,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア……</span>","<span class=""scene-font-gray"">삐냐……</span>"
+17,[scene_evt200515_cp1_q3_s10],ぴにゃっ！？,삐냣！？
+18,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">そしたら急に祭壇から変な声が</span><br><span class=""scene-font-gray"">聞こえてきました。</span><br><span class=""scene-font-gray"">声はぴにゃに話しかけてるみたいで……</span>","<span class=""scene-font-gray"">그랬더니 갑자기 제단으로부터 이상한 목소리가</span><br><span class=""scene-font-gray"">들려왔어요.</span><br><span class=""scene-font-gray"">목소리는 삐냐에게 말거는 것 같았는데……</span>"
+19,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア……？</span>","<span class=""scene-font-gray"">삐냐아……？</span>"
+20,[scene_evt200515_cp1_q3_s10],ぴ、ぴにゃあ？,삐、삐냐아？
+21,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャアア……？</span><br><span class=""scene-font-gray"">ピニャアア！！</span>","<span class=""scene-font-gray"">삐냐아아……？</span><br><span class=""scene-font-gray"">삐냐아아！！</span>"
+22,[scene_evt200515_cp1_q3_s10],ぴにゃっ！！,삐냣！！
+23,[scene_evt200515_cp1_q3_s10],ぴにゃあ……ぴにゃあ……,삐냐아……삐냐아……
+24,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">言葉はわからなかったけど、</span><br><span class=""scene-font-gray"">ぴにゃは何かの選択を</span><br><span class=""scene-font-gray"">迫られてるみたいでした。</span>","<span class=""scene-font-gray"">뭐라고 말하는지는 몰랐어도、</span><br><span class=""scene-font-gray"">삐냐는 뭔가 선택을</span><br><span class=""scene-font-gray"">강요당하고 있는것 같았어요.</span>"
+25,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア？</span>","<span class=""scene-font-gray"">삐냐아？</span>"
+26,[scene_evt200515_cp1_q3_s10],ぴっ！　ぴにゃあ……,삣！　삐냐아……
+27,[scene_evt200515_cp1_q3_s10],…………,…………
+28,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-4"">ぴにゃあッ！！　ぴにゃあッ！！</span>","<span class=""scene-font-4"">삐냐앗！！　삐냐앗！！</span>"
+29,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ピニャア……ッ！！</span>","<span class=""scene-font-gray"">삐냐아……앗！！</span>"
+30,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">ぴにゃが何かを叫んだ瞬間、</span><br><span class=""scene-font-gray"">突然祭壇が開いて、</span><br><span class=""scene-font-gray"">中から１冊の本が出てきました。</span>","<span class=""scene-font-gray"">삐냐가 무언가 외친 순간、</span><br><span class=""scene-font-gray"">갑자기 제단이 열려서、</span><br><span class=""scene-font-gray"">안에서부터 1권의 책이 나왔어요.</span>"
+31,[scene_evt200515_cp1_q3_s10],ぴ、にゃ……,삐、냐……
+32,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-4"">ぴにゃあっ！？</span>","<span class=""scene-font-4"">삐냐아앗！？</span>"
+33,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">驚きました。</span><br><span class=""scene-font-gray"">ぴにゃが表紙をめくった瞬間、本から</span><br><span class=""scene-font-gray"">ぴにゃに似た子が沢山出てきたから。</span>","<span class=""scene-font-gray"">놀랐어요.</span><br><span class=""scene-font-gray"">삐냐가 표지를 넘긴 순간、책에서</span><br><span class=""scene-font-gray"">삐냐와 닮은 아이들이 잔뜩 튀어나왔거든요.</span>"
+34,[scene_evt200515_cp1_q3_s10],──……,──……
+35,[scene_evt200515_cp1_q3_s10],ぴぃにゃあ……ぴぃにゃあ……,삐이냐아……삐이냐아……
+36,[scene_evt200515_cp1_q3_s10],ぴにゃあっ！？,삐냐아앗！？
+37,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-4"">ぴにゃ！</span>","<span class=""scene-font-4"">삐냐！</span>"
+38,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">その子たちがいなくなったと思ったら、</span><br><span class=""scene-font-gray"">祭壇から黒い煙が噴き出して</span><br><span class=""scene-font-gray"">ぴにゃを包み込んだんです。</span>","<span class=""scene-font-gray"">그 아이들이 갑자기 없어지더니、</span><br><span class=""scene-font-gray"">제단에서 검은 연기가 나와서</span><br><span class=""scene-font-gray"">삐냐를 삼켰어요.。</span>"
+39,[scene_evt200515_cp1_q3_s10],"<span class=""scene-font-gray"">心配になって、</span><br><span class=""scene-font-gray"">私が思わず駆け寄ってみたら……</span>","<span class=""scene-font-gray"">걱정이 되서、</span><br><span class=""scene-font-gray"">제가 무심결에 뛰쳐나갔더니……</span>"
+40,[scene_evt200515_cp1_q3_s10],いない……！<br>どうして？,없어……！<br>어떻게된거지？
+41,[scene_evt200515_cp1_q3_s10],ぴにゃ、どこにいるの？<br>お願い、返事をして！　ぴにゃ！,삐냐、어디에 있는거야？<br>부탁이야、대답해줘！　삐냐！
 
 
 !이벤트 1-4
-0,[scene_evt200515_cp1_q4_s10],それからあちこち探したのに<br>ぴにゃはどこにもいなくて、<br>途方に暮れてたんです。
-1,[scene_evt200515_cp1_q4_s10],そんな時にカエデさんが<br>ぴにゃが持ってた本を抱えてるのに<br>気づいて声をかけたんです。
-2,[scene_evt200515_cp1_q4_s10],なるほど……<br>ぴにゃ、ちゃん？　が見つからないって<br>心配ですね……
-3,[scene_evt200515_cp1_q4_s10],かえ姉さま、その本を拾った時に<br>そのぴにゃって子は見なかった？
-4,[scene_evt200515_cp1_q4_s10],えっと、未央ちゃんたちが<br>追い払ってくれた黒い子ならいたけど、<br>緑の子は見なかったですね……
-5,[scene_evt200515_cp1_q4_s10],そうですか……<br>うぅ、手掛かりなし……
-6,[scene_evt200515_cp1_q4_s10],ぴにゃのことも気になるけど、<br>本から出てきた子はどうなったの？<br>どこかに行っちゃったんでしょ？
-7,[scene_evt200515_cp1_q4_s10],あ、そうだった。<br>実はそっちも困ってるんです。
-8,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">エミリーは島の色んな場所に</span><br><span class=""scene-font-katari"">本から出てきた謎の生物が現れ、</span><br><span class=""scene-font-katari"">人間たちを襲っていると話す。</span>"
-9,[scene_evt200515_cp1_q4_s10],いまは傭兵の人たちのお陰で街の中は<br>安全だけど、あの数が一斉に<br>押し寄せて来たら街はきっと……
-10,[scene_evt200515_cp1_q4_s10],緑の奴らは知恵もあって手強かったし、<br>そいつらも放っておいたら<br>危ねぇかもしれねぇな。
-11,[scene_evt200515_cp1_q4_s10],その子たちが本から出てきたって<br>いうなら、本を調べたら何か<br>わかるんじゃない？
-12,[scene_evt200515_cp1_q4_s10],さっすがしぶりん、あったまいいー！<br>ねぇねぇ、その本ちょっと<br>見せてもらってもいいですか？
-13,[scene_evt200515_cp1_q4_s10],ええ、どうぞ。
-14,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">楓が差し出した本には</span><br><span class=""scene-font-katari"">「ぴにゃの書」と書かれていた。</span>"
-15,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">中は魔物図鑑のようになっており、</span><br><span class=""scene-font-katari"">絵の一部が切り取られたように</span><br><span class=""scene-font-katari"">すっかりなくなってしまっている。</span>"
-16,[scene_evt200515_cp1_q4_s10],もしかして、本から飛び出したのって<br>絵の一部なんでしょうか？
-17,[scene_evt200515_cp1_q4_s10],可能性はあるんじゃないかな。<br>本から絵が飛び出すなんて、<br>それこそ魔法の世界って感じがする。
-18,[scene_evt200515_cp1_q4_s10],本から飛び出したんだったら、<br>本の中に戻せないのかな？<br>そしたら騒ぎも収まりそうじゃん？
-19,[scene_evt200515_cp1_q4_s10],そうかもしれませんっ！<br>でも、どうしたら本の中に<br>戻せるんでしょう？
-20,[scene_evt200515_cp1_q4_s10],それはさすがにわからないけど……<br>まぁきっと何とかなるよ、うん！
-21,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">Side.Wたちは飛び出した生物を</span><br><span class=""scene-font-katari"">元に戻すヒントを探そうと、</span><br><span class=""scene-font-katari"">更に本を調べる。</span>"
-22,[scene_evt200515_cp1_q4_s10],本から出てきた子のことも<br>気になりますけど、やっぱり<br>ぴにゃちゃんのことも心配です……
-23,[scene_evt200515_cp1_q4_s10],本から出てきた子たちは<br>ウヅキさんたちにお任せして、<br>私たちはぴにゃちゃんを捜しませんか？
-24,[scene_evt200515_cp1_q4_s10],そうだな。ウヅキたちなら<br>魔物くらいへっちゃらだろうし、<br>別行動でも問題ないと思うぜ！
-25,[scene_evt200515_cp1_q4_s10],ありがとうございます！<br>ふぅ……いい人たちに出会えて<br>よかったぁ～！
-26,[scene_evt200515_cp1_q4_s10],あ、そうだ。<br>本から出てきた子たちの目撃情報なら<br>少し知ってるので、教えますね！
-27,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">エミリーは島の簡単な地図を描き、</span><br><span class=""scene-font-katari"">どこで何が現れたかを</span><br><span class=""scene-font-katari"">卯月たちに説明する。</span>"
-28,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-kokoro"">（みんな、困ってる人に</span><br><span class=""scene-font-kokoro"">すぐに手を差し伸べていて、偉い……）</span>"
-29,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-kokoro"">（自分のことでいっぱいいっぱいに</span><br><span class=""scene-font-kokoro"">なっていたけど、じっとしていても</span><br><span class=""scene-font-kokoro"">帰る方法がわかるわけじゃないし……）</span>"
-30,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-kokoro"">（私も、お手伝い、</span><br><span class=""scene-font-kokoro"">してみようかしら……？）</span>"
-31,[scene_evt200515_cp1_q4_s10],あの、Side.Wさん……<br>その……少しいいですか？
-32,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">楓は自分にも何かできることはないかと</span><br><span class=""scene-font-katari"">Side.Wたちに尋ねる。</span>"
-33,[scene_evt200515_cp1_q4_s10],人数が多い方が助かるけどよ、<br>姉ちゃんはもう大丈夫なのか？<br>無理しねぇで休んでていいんだぜ？
-34,[scene_evt200515_cp1_q4_s10],この世界のこともよくわからないですし<br>却ってご迷惑をおかけするかも<br>しれませんが……
-35,[scene_evt200515_cp1_q4_s10],何か自分にできることを<br>見つけたいんです。<br>……卯月ちゃんたちみたいに。
-36,[scene_evt200515_cp1_q4_s10],だったら私たちと一緒に行きましょう！<br>Side.Wと一緒なら<br>魔物が出ても危なくないですし。
-37,[scene_evt200515_cp1_q4_s10],色々慣れないのは仕方ねぇし、<br>なんかあったらすぐに言うんだぜ。
-38,[scene_evt200515_cp1_q4_s10],ありがとうございます。<br>よろしくお願いします。
-39,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">こうしてSide.Wたちは</span><br><span class=""scene-font-katari"">謎の生物を巡る奇妙な事件に</span><br><span class=""scene-font-katari"">巻き込まれていくのだった。</span>"
+0,[scene_evt200515_cp1_q4_s10],それからあちこち探したのに<br>ぴにゃはどこにもいなくて、<br>途方に暮れてたんです。,그때부터 여기저기 찾아보았는데도<br>삐냐는 어디에도 없어서、<br>망연자실하고 있었어요.
+1,[scene_evt200515_cp1_q4_s10],そんな時にカエデさんが<br>ぴにゃが持ってた本を抱えてるのに<br>気づいて声をかけたんです。,그러던 중에 카에데씨가<br>삐냐가 가지고 있던 책을 안고 있던 걸<br>깨달았던거에요.
+2,[scene_evt200515_cp1_q4_s10],なるほど……<br>ぴにゃ、ちゃん？　が見つからないって<br>心配ですね……,그랬구나……<br>삐냐?가 보이지 않아서<br>걱정이네요……
+3,[scene_evt200515_cp1_q4_s10],かえ姉さま、その本を拾った時に<br>そのぴにゃって子は見なかった？,카에언니、그 책을 주웠을 때<br>그 삐냐라는 아이는 못 봤어？
+4,[scene_evt200515_cp1_q4_s10],えっと、未央ちゃんたちが<br>追い払ってくれた黒い子ならいたけど、<br>緑の子は見なかったですね……,음、미오가<br>쫓아 내준 검은 아이들은 있었지만、<br>녹색 아이는 없었어……
+5,[scene_evt200515_cp1_q4_s10],そうですか……<br>うぅ、手掛かりなし……,그랬었나요……<br>으、단서가 없어……
+6,[scene_evt200515_cp1_q4_s10],ぴにゃのことも気になるけど、<br>本から出てきた子はどうなったの？<br>どこかに行っちゃったんでしょ？,삐냐도 걱정되지만、<br>책에서 나왔던 아이들은 어땠어？<br>어딘가로 가버렸잖아？
+7,[scene_evt200515_cp1_q4_s10],あ、そうだった。<br>実はそっちも困ってるんです。,아、그랬어요.<br>사실은 그것도 곤란해하고있어요.
+8,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">エミリーは島の色んな場所に</span><br><span class=""scene-font-katari"">本から出てきた謎の生物が現れ、</span><br><span class=""scene-font-katari"">人間たちを襲っていると話す。</span>","<span class=""scene-font-katari"">에밀리는 섬 여기저기에서</span><br><span class=""scene-font-katari"">책에서 나온 수수께끼의 생물이 나타나、</span><br><span class=""scene-font-katari"">인간들을 위협하고 있다고 말했다.</span>"
+9,[scene_evt200515_cp1_q4_s10],いまは傭兵の人たちのお陰で街の中は<br>安全だけど、あの数が一斉に<br>押し寄せて来たら街はきっと……,지금은 용병들 덕분에 마을 안은<br>안전하지만、그 수가 한번에<br>밀려온다면 마을은 분명……
+10,[scene_evt200515_cp1_q4_s10],緑の奴らは知恵もあって手強かったし、<br>そいつらも放っておいたら<br>危ねぇかもしれねぇな。,녹색 녀석들도 지혜도 있고 만만찮았는데、<br>그녀석들도 내버려두면<br>위험할지도 모르겠네.
+11,[scene_evt200515_cp1_q4_s10],その子たちが本から出てきたって<br>いうなら、本を調べたら何か<br>わかるんじゃない？,그 아이들이 책에서 나왔다고<br>했으니、책을 조사해보면 뭔가<br>알 수 있는 것 아닐까?
+12,[scene_evt200515_cp1_q4_s10],さっすがしぶりん、あったまいいー！<br>ねぇねぇ、その本ちょっと<br>見せてもらってもいいですか？,역시 시부린、머리 좋아ー！<br>있잖아、그 책 조금<br>보여주지 않을래？
+13,[scene_evt200515_cp1_q4_s10],ええ、どうぞ。,응、자 여기。
+14,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">楓が差し出した本には</span><br><span class=""scene-font-katari"">「ぴにゃの書」と書かれていた。</span>","<span class=""scene-font-katari"">카에데가 내민 책에는</span><br><span class=""scene-font-katari"">「삐냐의 책」이라고 적혀있었다.</span>"
+15,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">中は魔物図鑑のようになっており、</span><br><span class=""scene-font-katari"">絵の一部が切り取られたように</span><br><span class=""scene-font-katari"">すっかりなくなってしまっている。</span>","<span class=""scene-font-katari"">안에는 마물도감처럼 되어있어、</span><br><span class=""scene-font-katari"">그림 일부가 찢겨진 것 처럼</span><br><span class=""scene-font-katari"">몽땅 없어져있었다.</span>"
+16,[scene_evt200515_cp1_q4_s10],もしかして、本から飛び出したのって<br>絵の一部なんでしょうか？,혹시、책에서 튀어나온 게<br>그림의 일부일까？
+17,[scene_evt200515_cp1_q4_s10],可能性はあるんじゃないかな。<br>本から絵が飛び出すなんて、<br>それこそ魔法の世界って感じがする。,가능성은 있지 않을까?<br>책에서 그림이 튀어나온다니、<br>그거야말로 마법의 세계 라는 느낌이 들어.
+18,[scene_evt200515_cp1_q4_s10],本から飛び出したんだったら、<br>本の中に戻せないのかな？<br>そしたら騒ぎも収まりそうじゃん？,책에서 튀어나온 거라면、<br>책으로 돌려보낼 수 있지 않을까？<br>그러면 이 소란도 수습되지 않을까？
+19,[scene_evt200515_cp1_q4_s10],そうかもしれませんっ！<br>でも、どうしたら本の中に<br>戻せるんでしょう？,그럴지도 모르겠네！<br>그치만、어떻게 해야 책으로<br>돌려보낼 수 있을까？
+20,[scene_evt200515_cp1_q4_s10],それはさすがにわからないけど……<br>まぁきっと何とかなるよ、うん！,그건 역시 모르겠지만……<br>뭐 분명 어떻게든될꺼야、응！
+21,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">[グラン]たちは飛び出した生物を</span><br><span class=""scene-font-katari"">元に戻すヒントを探そうと、</span><br><span class=""scene-font-katari"">更に本を調べる。</span>","<span class=""scene-font-katari"">[グラン]은 튀어나온 생물을</span><br><span class=""scene-font-katari"">원래대로 되돌릴 힌트를 찾기위해、</span><br><span class=""scene-font-katari"">다시 책을 살펴보았다.</span>"
+22,[scene_evt200515_cp1_q4_s10],本から出てきた子のことも<br>気になりますけど、やっぱり<br>ぴにゃちゃんのことも心配です……,책에서부터 튀어나온 아이들도<br>신경쓰이지만、역시<br>삐냐도 걱정이에요……
+23,[scene_evt200515_cp1_q4_s10],本から出てきた子たちは<br>ウヅキさんたちにお任せして、<br>私たちはぴにゃちゃんを捜しませんか？,책에서 나온 아이들은<br>우즈키네에게 맡겨두고、<br>우리들은 삐냐를 찾아보지 않을래요？
+24,[scene_evt200515_cp1_q4_s10],そうだな。ウヅキたちなら<br>魔物くらいへっちゃらだろうし、<br>別行動でも問題ないと思うぜ！,그래. 우즈키네라면<br>마물 정도는 별 문제되지않으니、<br>따로 움직여도 문제없을거야！
+25,[scene_evt200515_cp1_q4_s10],ありがとうございます！<br>ふぅ……いい人たちに出会えて<br>よかったぁ～！,고맙습니다！<br>후우……좋은 사람들을 만나서<br>다행이야～！
+26,[scene_evt200515_cp1_q4_s10],あ、そうだ。<br>本から出てきた子たちの目撃情報なら<br>少し知ってるので、教えますね！,아、그래.<br>책에서 나온 아이들의 목격정보는<br>조금 알고있으니까、알려드릴게요！
+27,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">エミリーは島の簡単な地図を描き、</span><br><span class=""scene-font-katari"">どこで何が現れたかを</span><br><span class=""scene-font-katari"">卯月たちに説明する。</span>","<span class=""scene-font-katari"">에밀리는 섬의 간략한 지도를 그려、</span><br><span class=""scene-font-katari"">어디서 뭐가 나타났는지를</span><br><span class=""scene-font-katari"">우즈키네에게 설명했다.</span>"
+28,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-kokoro"">（みんな、困ってる人に</span><br><span class=""scene-font-kokoro"">すぐに手を差し伸べていて、偉い……）</span>","<span class=""scene-font-kokoro"">（모두、곤란해 하는 사람에게</span><br><span class=""scene-font-kokoro"">바로 도움을 주고있어、대단해……）</span>"
+29,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-kokoro"">（自分のことでいっぱいいっぱいに</span><br><span class=""scene-font-kokoro"">なっていたけど、じっとしていても</span><br><span class=""scene-font-kokoro"">帰る方法がわかるわけじゃないし……）</span>","<span class=""scene-font-kokoro"">（앞으로 어떻게 해야할지 걱정이었는데、</span><br><span class=""scene-font-kokoro"">가만히 있어도 돌아갈 방법을</span><br><span class=""scene-font-kokoro"">알 수 있는 것도 아니니……）</span>"
+30,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-kokoro"">（私も、お手伝い、</span><br><span class=""scene-font-kokoro"">してみようかしら……？）</span>","<span class=""scene-font-kokoro"">（나도、도움、</span><br><span class=""scene-font-kokoro"">줘볼까……？）</span>"
+31,[scene_evt200515_cp1_q4_s10],あの、[グラン]さん……<br>その……少しいいですか？,저기、[グラン]씨……<br>그……잠깐 괜찮을까요？
+32,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">楓は自分にも何かできることはないかと</span><br><span class=""scene-font-katari"">[グラン]たちに尋ねる。</span>","<span class=""scene-font-katari"">카에데는 자신에게도 뭔가 할 수 있는게 없을지</span><br><span class=""scene-font-katari"">[グラン]에게 물어보았다.</span>"
+33,[scene_evt200515_cp1_q4_s10],人数が多い方が助かるけどよ、<br>姉ちゃんはもう大丈夫なのか？<br>無理しねぇで休んでていいんだぜ？,사람은 많을 수록 도움이 되지만서두、<br>누님은 이제 괜찮은거야？<br>무리하지말고 쉬어도 괜찮다구？
+34,[scene_evt200515_cp1_q4_s10],この世界のこともよくわからないですし<br>却ってご迷惑をおかけするかも<br>しれませんが……,이 세계에 대한 것도 잘 모르고<br>되려 폐가 될지도 <br>모르겠지만……
+35,[scene_evt200515_cp1_q4_s10],何か自分にできることを<br>見つけたいんです。<br>……卯月ちゃんたちみたいに。,무언가 제가 할 수 있는 것을<br>찾고 싶어요.<br>……우즈키네 처럼.
+36,[scene_evt200515_cp1_q4_s10],だったら私たちと一緒に行きましょう！<br>[グラン]と一緒なら<br>魔物が出ても危なくないですし。,그럼 우리랑 같이 가요！<br>[グラン]랑 함께라면<br>마물이 나와도 위험하지않고.
+37,[scene_evt200515_cp1_q4_s10],色々慣れないのは仕方ねぇし、<br>なんかあったらすぐに言うんだぜ。,이것저것 익숙하지 않은 건 어쩔 수 없으니、<br>뭔가 있으면 바로 말해달라구.
+38,[scene_evt200515_cp1_q4_s10],ありがとうございます。<br>よろしくお願いします。,고맙습니다.<br>잘부탁드려요.
+39,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">こうして[グラン]たちは</span><br><span class=""scene-font-katari"">謎の生物を巡る奇妙な事件に</span><br><span class=""scene-font-katari"">巻き込まれていくのだった。</span>","<span class=""scene-font-katari"">이렇게 해서[グラン]과 모두는</span><br><span class=""scene-font-katari"">수수께끼의 생물을 둘러싼 기묘한 사건에</span><br><span class=""scene-font-katari"">말려 들어간 것이었다.</span>"
 
 !이벤트 2-1
 0,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">島の各地に出没した謎の生物たちを</span><br><span class=""scene-font-katari"">本に戻すため、Side.Wたちは</span><br><span class=""scene-font-katari"">手分けして行動を開始する。</span>"
