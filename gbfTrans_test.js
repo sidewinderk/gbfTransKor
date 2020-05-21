@@ -590,8 +590,8 @@ async function InitList() {
     @font-face {
       font-family: 'NanumSquareB';
       font-style: normal;
-      font-weight: 400;
-      src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff'); // Nanum Squre
+      font-weight: 600;
+      src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquare.woff') format('woff'); // Nanum Squre
       unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
     }
   `
