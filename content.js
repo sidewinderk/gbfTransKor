@@ -680,22 +680,24 @@ async function InitList() {
     // Use custom font
     var styles = `
     @font-face {
-      font-family: 'Youth';
+      font-family: 'NanumSquareB';
       src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');
     }
     @font-face {
-      font-family: 'Youth';
+      font-family: 'NanumSquareB';
       font-style: normal;
       font-weight: 400;
-      src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+      src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff'); // Nanum Squre
       unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
     }
   `
+        //src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff'); // Nanum Squre
+        //src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
     var styleSheet = document.createElement("style")
     styleSheet.type = "text/css"
     styleSheet.innerText = styles
     document.head.appendChild(styleSheet)
-    document.body.style.fontFamily = 'Youth';
+    document.body.style.fontFamily = 'NanumSquareB';
 
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
