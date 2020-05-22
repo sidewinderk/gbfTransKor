@@ -40,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 
-<<<<<<< HEAD
     getTextBtn.onclick = function(element) {
         chrome.storage.local.get(['oTEXT'], function(result) {
             var outputtext = "index,sceneCode,orig,kr\n"
@@ -71,13 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
     clearTextBtn.onclick = function(element) {
         chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
             chrome.tabs.sendMessage(tabs[0].id, { data: "clearText", text: "" });
-=======
-  getTextBtn.onclick = function(element) {
-    chrome.storage.local.get(['oTEXT'], function (result) {
-        var outputtext = "index,url,jp,kr\n"
-        result.oTEXT.forEach(function(element){
-            outputtext = outputtext + element + ",\n"
->>>>>>> 3ca20782963c26ff1e5935a0d6c2cff2c61ee250
+
         });
         textout.value = "";
     }
