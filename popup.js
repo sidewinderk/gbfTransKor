@@ -42,9 +42,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     getTextBtn.onclick = function(element) {
         chrome.storage.local.get(['oTEXT'], function(result) {
-            var outputtext = "index,url,jp,kr\n"
+            var outputtext = "index,sceneCode,orig,kr\n"
             result.oTEXT.forEach(function(json) {
-                outputtext = outputtext + json.index + ",[" + json.sceneCode + "]," + json.orig + ",\n"
+                outputtext = outputtext + json.index + "," + json.sceneCode + "," + json.orig + ",\n"
             });
             textout.value = outputtext;
         });

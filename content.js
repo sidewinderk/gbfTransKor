@@ -14,6 +14,9 @@ var ObserverList = [];
 
 var storyText = [];
 var storyText_index = 0;
+var storyText_sceneIndex = 1;
+var oldSceneCode='';
+
 var cNames = [];
 var miscs = [];
 var questJson;
@@ -30,6 +33,8 @@ chrome.runtime.onMessage.addListener(
         if (request.data == "clearText") {
             storyText = [];
             storyText_index = 0;
+			storyText_sceneIndex = 1;
+			oldSceneCode='';
             chrome.storage.local.set({ oTEXT: storyText });
         }
         if (request.data == "clearName") {
@@ -155,7 +160,7 @@ function walkDownTreeStyle(node, command, variable = null) {
         if (node.length) {
             if (node.length > 0) {
                 for (var i = 0; i < node.length; i++)
-                    walkDownTreeStyle(node[i], command, variable);
+                    walkDownTreeStyle(node[i], command, variable);_sceneIndex
             }
         }
     } else {
@@ -178,7 +183,7 @@ function PushCSV(text, array) {
     }
 }
 
-function PushCSV_StoryText(text, array, scene) {
+function PushCSV_StoryText(text, array, sceneCodes) {
     if (kCheck.test(text))
         return;
     PrintLog("input " + text);
@@ -190,16 +195,20 @@ function PushCSV_StoryText(text, array, scene) {
         }
     });
     if (!isIntempDB) {
-        PrintLog("Accepted " + scene + " " + storyText_index + " " + text);
+        PrintLog("Accepted " + sceneCodes + " " + storyText_index + " " + text);
         var tempJson = new Object();
         tempJson.index = storyText_index++;
-        tempJson.sceneCode = [scene];
+		//원래는  tempJson.sceneCode = [sceneCodes] 였는데, 해보니까 대괄호로 묶어도 대괄호안에 쉼표들어가면
+		//쉼표를 예외처리 안해줌..ㅠ 그래서 그냥 대괄호대신에 쌍따음표로 처리함.
+		sceneCodes = '"' + sceneCodes + "," + storyText_sceneIndex+ '"';
+        tempJson.sceneCode = sceneCodes;
         tempJson.orig = text;
 
         if (text.includes(',')) {
             tempJson.orig = '"' + text + '"';
         } else
             tempJson.orig = text;
+		
         array.push(tempJson)
         chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
     }
@@ -704,13 +713,13 @@ async function InitList() {
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
 
-    storyText_index = 0;
     // Main Observers
     ObserverList = [ObserveSceneText(), ObserverArchive(), ObserverPop()];
     if (doImageSwap)
         ObserverList.push(ObserverImageDIV(), ObserverImage());
     if (doBattleTrans)
         ObserverList.push(ObserverBattle());
+	
 }
 
 
@@ -742,29 +751,38 @@ function translate_StoryText(stext, jsonFile) {
     var node = document.getElementsByClassName('prt-log-display')[0].children;
     //check if Log Exists.
     if (typeof node == 'undefined') return '';
-    var sceneCodeCurrent = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
+    //var sceneCodeCurrent = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
+	var sceneCodeCurrent = SceneCodeFromURL(document.URL);
+	
     // Translation part for story text
     var transText = '';
 
     PrintLog('translate_StoryText taken: ' + String(stext));
 
     jsonFile.some(function(item) {
-        if (item.kr == '\t' || item.kr == ' ') return false;
+		
+        if (item.kr == '\t' || item.kr == ' ') {
+			return false;
+		}
+
 
         if (item.kr) {
-            var codes = item.sceneCode.replace('[', '').replace(']', '').split(',');
-            codes.some(function(codeCheck) {
-                if (sceneCodeCurrent == codeCheck) {
-                    if (item.index == node.length - 1) {
-                        transText = item.kr;
-                        PrintLog(item);
+            var codes = item.sceneCode.replace('"', '').split(',');
+			
+			//codes[0] 에는 sceneCode 값, codes[1] 에는 sceneIndex 값이 들어있음. 두 개 한꺼번에 체크하겠음.
+			//codes[1]은 문자열, storyText_sceneIndex는 숫자. 
+			//=== 연산자로 비교했을때 값은 똑같아도 타입에서 불일치하므로 == 연산자 사용. 
+			if( ( sceneCodeCurrent === codes[0] ) && 
+			   	( storyText_sceneIndex == codes[1] ) ) {
+					if( item.index == node.length - 1 ){
+						transText=item.kr;
+						PrintLog(item);
                         PrintLog('node.length - 1 : ' + (node.length - 1));
                         PrintLog('item.index : ' + item.index);
 
                         return true;
-                    }
-                }
-            });
+					}	
+			}
         }
     });
     if (transText.length > 0) {
@@ -1013,16 +1031,45 @@ function GetTranslatedImageDIV(node, csv) {
     }
 }
 
+function SceneCodeFromURL(url){
+	var scenecode='';
+	
+	if(document.URL.includes('play_view_event')){
+		
+	}
+	else if(document.URL.includes('play_view')){
+		scenecode = document.URL.slice( document.URL.indexOf('play_view') , -1).split('/');	
+		var cp=scenecode[2];
+		var ep=scenecode[4];
+		
+		scenecode = 'scene_cp' + cp + '_q' + ep;
+		
+	}
+	else if(document.URL.includes('scene_evt')){
+		scenecode = document.URL.slice( document.URL.indexOf('scene_evt') , -1).split('/')[0];	
+		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
+	}
+	else if(document.URL.includes('scene_cp')){
+		scenecode = document.URL.slice( document.URL.indexOf('scene_cp') , -1).split('/')[0];
+		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
+		
+	}
+	
+	return scenecode;
+}
+
 // Observers
 var sceneObserver = new MutationObserver(function(mutations) {
     mutations.some(function(mutation) {
         // PrintLog(mutation);
         if (!mutation.target.className)
-            return;
+			return;
+		
+            
         if (mutation.target.className.includes('prt-log-display')) {
             if (typeof mutation.target.children[0] == 'undefined')
-                return true;
-
+				return true;
+			
             var textName = mutation.target.children[0].children[0].innerHTML
                 .replace(/(\r\n|\n|\r)/gm, '')
                 .trim();
@@ -1031,13 +1078,31 @@ var sceneObserver = new MutationObserver(function(mutations) {
                 .trim();
             var LogLength = mutation.target.children.length;
             var nameNode = document.getElementsByClassName('txt-character-name')[0];
-
+			
+			/*
+				스토리를 처음 시작하면 prt-log-display 자식 갯수가 1 이여야하고, storyText 변수의 length는 0이여야한다.
+				그러나, prt-log-display의 자식 갯수가 1인데 storyText 변수에 2개 이상의 내용이 들어가있다면 
+				다음 scene 페이지로 넘어가서 나타난 현상이므로 다음 scene을 진행하고있다고 판단하고 storyText_sceneIndex 를 1 증가.
+				현재 에피소드에 대하여 다음 scene 페이지로 넘어갔다는 것을 판단할땐 현재 URL에 대해 갱신한 sceneCode와 저번 URL에서의 scenecode를 비교.
+			*/
+			var newSceneCode=SceneCodeFromURL(document.URL);
+			
+			if(LogLength === 1){
+				if(storyText_index > 1){
+					if(newSceneCode === oldSceneCode){
+						storyText_index = 0;
+						storyText_sceneIndex++;
+					}
+				}
+			}
+			
             if (exMode) {
                 if (storyText_index < LogLength) {
-                    var sceneCode = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
-                    PrintLog('storyText_index:' + storyText_index);
-                    PushCSV_StoryText(textmessage, storyText, sceneCode);
+					PrintLog('storyText_index:' + storyText_index);
+                    PushCSV_StoryText(textmessage, storyText, newSceneCode);
                     PushCSV(textName, cNames);
+					
+					oldSceneCode = newSceneCode;
                 }
             }
             if (transMode) {
@@ -1142,6 +1207,11 @@ async function ObserverArchive() {
         return;
     else
         archiveObserver.observe(oText, config);
+	
+	if(document.getElementById('ready').style.display === 'block'){
+		ObserverPop();
+		ObserveSceneText();
+	}
 }
 async function ObserverPop() {
     // var oText = document.querySelector(".prt-scroll-title");
