@@ -1891,10 +1891,11 @@ async function ObserverArchive() {
 		window.setTimeout(ObserverArchive, generalConfig.refreshRate);
 		return;
 	}
+	/*
 	if (
 		document.URL.includes('raid') // Do we need this?
 	)
-		return;
+		return;*/
 	else archiveObserver.observe(oText, config);
 
 	//journal 페이지에서 스토리 재생할 때 다음 scene으로 넘어가면,
