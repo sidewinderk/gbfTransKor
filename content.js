@@ -17,8 +17,6 @@ var storyText_index = 0;
 var storyText_sceneIndex = 1;
 var oldSceneCode = '';
 
-var evtSceneCodeObj = [];
-
 var cNames = [];
 var miscs = [];
 var questJson;
@@ -1326,12 +1324,7 @@ async function InitList() {
 	imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
 
 	// Main Observers
-	ObserverList = [
-		ObserveSceneText(),
-		ObserverArchive(),
-		ObserverPop(),
-		ObserverEventChapterList()
-	];
+	ObserverList = [ObserveSceneText(), ObserverArchive(), ObserverPop()];
 	if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
 	if (doBattleTrans) ObserverList.push(ObserverBattle());
 }
@@ -1381,17 +1374,32 @@ function translate_StoryText(stext, jsonFile) {
 				.split('"')
 				.join('')
 				.split(',');
-			if (
-				(sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2]) &&
-				storyText_sceneIndex == codes[1]
-			) {
-				if (item.index == node.length - 1) {
-					transText = item.kr;
-					PrintLog(item);
-					PrintLog('node.length - 1 : ' + (node.length - 1));
-					PrintLog('item.index : ' + item.index);
+			
+			if (codes.length >= 3) {
+				if (
+					(sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2]) &&
+					storyText_sceneIndex == codes[1]
+				) {
+					if (item.index == node.length - 1) {
+						transText = item.kr;
+						PrintLog(item);
+						PrintLog('node.length - 1 : ' + (node.length - 1));
+						PrintLog('item.index : ' + item.index);
 
-					return true;
+						return true;
+					}
+				}
+			} else {
+				if (sceneCodeCurrent == codes[0] && 
+					storyText_sceneIndex == codes[1]) {
+					if (item.index == node.length - 1) {
+						transText = item.kr;
+						PrintLog(item);
+						PrintLog('node.length - 1 : ' + (node.length - 1));
+						PrintLog('item.index : ' + item.index);
+
+						return true;
+					}
 				}
 			}
 		}
@@ -1544,18 +1552,6 @@ function GetTranslatedStoryText(node, csv) {
 	}
 }
 
-/*
-//계정 생성하고 처음 시작하는 사람들은 텍스트 오토 스킵기능이 꺼져있어서 텍스트들이 순서대로 나옴.
-				//텍스트가 전부 출력됐을때 번역을 시도하는 기능을 추가해봄.
-				if(typeof document.getElementsByClassName('ico-cursor-talk')[0] != 'undefined'){
-					console.log('first');
-					if( document.getElementsByClassName('ico-cursor-talk')[0].style.display == 'block'){
-						console.log('gogogo');
-								
-					}
-				}
-*/
-
 function GetTranslatedImage(node, csv) {
 	if (node.className) {
 		var imageInput = node.currentSrc;
@@ -1652,38 +1648,30 @@ function SceneCodeFromURL(url) {
 		scenecode = document.URL.slice(document.URL.indexOf('scene_evt')).split('/')[0];
 		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
 	} else if (document.URL.includes('play_view_event')) {
-		if (evtSceneCodeObj.length == 0) {
-			if (scenecode == '') {
-				scenecode = 'NO VALUE';
+			scenecode = document.URL.slice( document.URL.indexOf('play_view_event')).split('/');
+			scenecode=scenecode[2] + scenecode[4];
 
-				var node = document.getElementsByClassName('btn-play-log-voice')[0];
-				if (typeof node != 'undefined') {
-					scenecode = node.attributes[1].value.split('/')[1];
-					if (scenecode.includes('evt_')) {
-						//seasonal 이벤트일 경우, url형식은 evt_로 시작.
-						scenecode = scenecode.slice(
-							0,
-							scenecode.indexOf(scenecode.match(/(_s[0-9]+)/g))
-						);
-					} else {
-						scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-					}
-
-					storyText.some(function(item) {
-						if (item.sceneCode.replace('"', '').split(',')[0] == 'NO VALUE')
-							item.sceneCode = '"' + scenecode + ',' + storyText_sceneIndex + '"';
-					});
+			var node = document.getElementsByClassName('btn-play-log-voice')[0];
+			if (typeof node != 'undefined') {
+				var scenecodeFromVoiceData = node.attributes[1].value.split('/')[1];
+				if (scenecodeFromVoiceData.includes('evt_')) {
+					//seasonal 이벤트일 경우, url형식은 evt_로 시작.
+					scenecodeFromVoiceData = scenecodeFromVoiceData.slice(
+						0,
+						scenecodeFromVoiceData.indexOf(scenecodeFromVoiceData.match(/(_s[0-9]+)/g))
+					);
+				} else {
+					scenecodeFromVoiceData = scenecode.slice(0, scenecodeFromVoiceData.indexOf('_s'));
 				}
+
+				storyText.some(function(item) {
+					if ( item.sceneCode.replace('"', '').split(',')[0].includes('evt') == false )
+						item.sceneCode = '"' + scenecodeFromVoiceData + ',' + storyText_sceneIndex + ',' + scenecode;
+				});
+				
+				scenecode = scenecodeFromVoiceData;
 			}
-		} else {
-			var id = document.URL.slice(document.URL.indexOf('play_view_event')).split('/')[2];
-			evtSceneCodeObj.some(function(item) {
-				if (item.id == id) {
-					scenecode = item.sceneCode;
-					return true;
-				}
-			});
-		}
+		
 	} else if (document.URL.includes('play_view')) {
 		scenecode = document.URL.slice(document.URL.indexOf('play_view')).split('/');
 		var cp = scenecode[2];
@@ -1829,35 +1817,35 @@ var BattleObserver = new MutationObserver(function(mutations) {
 
 // Queue for each observers
 async function ObserveSceneText() {
-	var node=document.getElementById('scene_fast_text_mode');
-	
-	if(!node){
+	var node = document.getElementById('scene_fast_text_mode');
+
+	if (!node) {
 		window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 		return;
 	}
-	
+
 	var fastTextMode = node.attributes[1].value;
-	
-	if( fastTextMode == 'on'){
+
+	if (fastTextMode == 'on') {
 		var logText = document.getElementsByClassName('prt-log-display')[0];
-		
+
 		if (!logText) {
 			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 			return;
 		}
-		
+
 		if (
 			document.URL.includes('archive') ||
 			document.URL.includes('scene') ||
 			document.URL.includes('story') ||
 			document.URL.includes('tutorial')
-			) 
-			{
-				sceneObserver.observe(logText, config);	
-			}
-	}else{//fast text mode가 꺼져있으면 밑의 알고리즘 수행.
-		var iconCursorText=document.getElementsByClassName('ico-cursor-talk')[0];
-	
+		) {
+			sceneObserver.observe(logText, config);
+		}
+	} else {
+		//fast text mode가 꺼져있으면 밑의 알고리즘 수행.
+		var iconCursorText = document.getElementsByClassName('ico-cursor-talk')[0];
+
 		//var oText = document.getElementsByClassName('prt-log-display')[0];
 		if (!iconCursorText) {
 			//The node we need does not exist yet.
@@ -1865,112 +1853,32 @@ async function ObserveSceneText() {
 			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 			return;
 		}
-	
-		if(iconCursorText.style.display == 'block'){
-			var logText=document.getElementsByClassName('prt-log-display')[0];
 
-			if(!logText){
+		if (iconCursorText.style.display == 'block') {
+			var logText = document.getElementsByClassName('prt-log-display')[0];
+
+			if (!logText) {
 				window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 				return;
 			}
 
 			if (
-			document.URL.includes('archive') ||
-			document.URL.includes('scene') ||
-			document.URL.includes('story') ||
-			document.URL.includes('tutorial')
+				document.URL.includes('archive') ||
+				document.URL.includes('scene') ||
+				document.URL.includes('story') ||
+				document.URL.includes('tutorial')
 			) {
-				sceneObserver.observe(logText, config);	
+				sceneObserver.observe(logText, config);
 
-				setTimeout(function(){
-					document.getElementsByClassName('txt-message')[0].innerHTML = 													document.getElementsByClassName('txt-log-message')[0].innerHTML;
-				},generalConfig.refreshRate);
+				setTimeout(function() {
+					document.getElementsByClassName(
+						'txt-message'
+					)[0].innerHTML = document.getElementsByClassName(
+						'txt-log-message'
+					)[0].innerHTML;
+				}, generalConfig.refreshRate);
 			}
 		}
-	}
-}
-
-var chapterListObserver = new MutationObserver(function(mutations) {
-	mutations.some(function(mutation) {
-		var node = mutation.target.parentElement;
-		if (!node.className) return true;
-
-		if (node.className.includes('prt-chapter-list')) {
-			if (typeof node.children[0] == 'undefined') return true;
-			evtSceneCodeObj = [];
-			var cp = 0;
-			var q = 1;
-			var baseSceneCode = '';
-
-			var evtChapterList = Array.from(node.children);
-
-			evtChapterList.some(function(item) {
-				if (item.attributes[2].value.includes('evt')) {
-					var tmpNode = item.attributes[2].value.slice(
-						0,
-						item.attributes[2].value.indexOf('_q')
-					);
-					var tmpCp = tmpNode.split('_')[2].match(/\d/g) - item.attributes[1].value;
-
-					if (item.attributes[1].value == 0) {
-						baseSceneCode = tmpNode.slice(0, tmpNode.indexOf('_cp'));
-						cp = item.attributes[1].value;
-					} else if (tmpCp == 0) {
-						baseSceneCode = tmpNode.slice(0, tmpNode.indexOf('_cp'));
-					} else {
-						baseSceneCode = '';
-					}
-					return true;
-				}
-			});
-
-			if (baseSceneCode == '') {
-				return true;
-			}
-
-			evtChapterList.some(function(item) {
-				var tempJson = new Object();
-				tempJson.id = item.attributes[2].value;
-
-				if (tempJson.id.includes('evt')) {
-					tempJson.sceneCode = tempJson.id.slice(0, tempJson.id.indexOf('_s'));
-				} else {
-					var titleName = item.getElementsByClassName('txt-chapter-title')[0].innerHTML;
-					if (titleName.includes('Ending')) {
-						q++;
-						tempJson.sceneCode = baseSceneCode + '_cp0_q' + q;
-					} else {
-						var cpNum = titleName.match(/\d/g);
-						if (cpNum == null) {
-							cp++;
-							tempJson.sceneCode = baseSceneCode + '_cp' + cp;
-						} else if (cpNum.length >= 2) {
-							//챕터 숫자가 소수점이면 cp는 증가하지않고 q만 증가한다.
-							q++;
-							tempJson.sceneCode = baseSceneCode + '_cp0_q' + q;
-						} else {
-							cp++;
-							tempJson.sceneCode = baseSceneCode + '_cp' + cp;
-						}
-					}
-				}
-
-				evtSceneCodeObj.push(tempJson);
-			});
-		}
-	});
-	ObserverEventChapterList();
-});
-async function ObserverEventChapterList() {
-	var oText = document.getElementsByClassName('prt-chapter-list')[0];
-	if (!oText) {
-		//The node we need does not exist yet.
-		//Wait 500ms and try again
-		window.setTimeout(ObserverEventChapterList, generalConfig.refreshRate);
-		return;
-	}
-	if (document.URL.includes('#archive/story/event')) {
-		chapterListObserver.observe(oText, config);
 	}
 }
 
@@ -1994,7 +1902,6 @@ async function ObserverArchive() {
 	if (document.getElementById('loading').style.display == 'block') {
 		ObserverPop();
 		ObserveSceneText();
-		ObserverEventChapterList();
 	}
 }
 
