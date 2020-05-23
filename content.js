@@ -1372,8 +1372,6 @@ function translate_StoryText(stext, jsonFile) {
 
 		if (item.kr) {
 			var codes=item.sceneCode.split('"').join('').split(',');
-			console.log('cur:',sceneCodeCurrent);
-			console.log(codes[0],codes[2]);
 			if ( (sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2])
 					&& storyText_sceneIndex == codes[1]) {
 				if (item.index == node.length - 1) {
