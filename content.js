@@ -1833,7 +1833,6 @@ async function ObserveSceneText() {
 			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 			return;
 		}
-
 		if (
 			document.URL.includes('archive') ||
 			document.URL.includes('scene') ||
@@ -1846,10 +1845,7 @@ async function ObserveSceneText() {
 		//fast text mode가 꺼져있으면 밑의 알고리즘 수행.
 		var iconCursorText = document.getElementsByClassName('ico-cursor-talk')[0];
 
-		//var oText = document.getElementsByClassName('prt-log-display')[0];
 		if (!iconCursorText) {
-			//The node we need does not exist yet.
-			//Wait 500ms and try again
 			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 			return;
 		}
@@ -1871,13 +1867,24 @@ async function ObserveSceneText() {
 				sceneObserver.observe(logText, config);
 
 				setTimeout(function() {
+					if(document.getElementsByClassName(
+						'txt-message'
+					)[0].innerHTML == ''){
+						return;
+					}
+					
 					document.getElementsByClassName(
 						'txt-message'
 					)[0].innerHTML = document.getElementsByClassName(
 						'txt-log-message'
-					)[0].innerHTML;
+					)[0].innerHTML;	
+					console.log('hello');
+					
 				}, generalConfig.refreshRate);
 			}
+		}else{
+			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
+			return;
 		}
 	}
 }
