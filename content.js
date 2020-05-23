@@ -1267,6 +1267,7 @@ const parseCsv = str => {
 ///
 
 async function InitList() {
+	
 	chrome.storage.local.get(
 		[
 			'oTEXT',
@@ -1986,7 +1987,7 @@ async function ObserverImage() {
 		window.setTimeout(ObserverImage, generalConfig.refreshRate);
 		return;
 	}
-	if (document.URL.includes('raid')) return;
+	/*if (document.URL.includes('raid')) return;*/
 	ImageObserver.observe(allElements, config);
 	ImageObserver.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
@@ -1999,7 +2000,7 @@ async function ObserverImageDIV() {
 		window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
 		return;
 	}
-	if (document.URL.includes('raid')) return;
+	/*if (document.URL.includes('raid')) return;*/
 	ImageObserverDIV.observe(allElements, config);
 	ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
