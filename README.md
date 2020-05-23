@@ -4,6 +4,8 @@
 
 다운로드 : https://github.com/ajh1000/gbfTransKor/archive/master.zip
 
+내 프로그램 개발이 완료되면 원본 개발자님 프로그램에 합쳐짐.
+
 ## 사용법 (일반 사용자)
 
 ### 메인 스토리 번역하는 법
