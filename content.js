@@ -1372,8 +1372,10 @@ function translate_StoryText(stext, jsonFile) {
 
 		if (item.kr) {
 			var codes=item.sceneCode.split('"').join('').split(',');
-
-			if (sceneCodeCurrent === codes[0] && storyText_sceneIndex == codes[1]) {
+			console.log('cur:',sceneCodeCurrent);
+			console.log(codes[0],codes[2]);
+			if ( (sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2])
+					&& storyText_sceneIndex == codes[1]) {
 				if (item.index == node.length - 1) {
 					transText = item.kr;
 					PrintLog(item);
@@ -1733,7 +1735,6 @@ var sceneObserver = new MutationObserver(function(mutations) {
 							document.getElementsByClassName('txt-character-name')[0].children[0],
 							nameJson
 						);
-						console.log(nameJson);
 					}
 				}
 				GetTranslatedStoryText(mutation.target.children[0].children[1], questJson);
