@@ -36,6 +36,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 		storyText_index = 0;
 		storyText_sceneIndex = 1;
 		oldSceneCode = '';
+		translatedTextCurrent = '';
 		chrome.storage.local.set({ oTEXT: storyText });
 	}
 	if (request.data == 'clearName') {
@@ -1325,7 +1326,12 @@ async function InitList() {
 	imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
 
 	// Main Observers
-	ObserverList = [ObserveSceneText(), ObserverArchive(), ObserverPop(), ObserverEventChapterList()];
+	ObserverList = [
+		ObserveSceneText(),
+		ObserverArchive(),
+		ObserverPop(),
+		ObserverEventChapterList()
+	];
 	if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
 	if (doBattleTrans) ObserverList.push(ObserverBattle());
 }
@@ -1371,9 +1377,14 @@ function translate_StoryText(stext, jsonFile) {
 		}
 
 		if (item.kr) {
-			var codes=item.sceneCode.split('"').join('').split(',');
-			if ( (sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2])
-					&& storyText_sceneIndex == codes[1]) {
+			var codes = item.sceneCode
+				.split('"')
+				.join('')
+				.split(',');
+			if (
+				(sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2]) &&
+				storyText_sceneIndex == codes[1]
+			) {
 				if (item.index == node.length - 1) {
 					transText = item.kr;
 					PrintLog(item);
@@ -1521,7 +1532,7 @@ function GetTranslatedStoryText(node, csv) {
 		var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
 		var textContents = document.getElementsByClassName('txt-message')[0];
 		PrintLog('GetTranslatedStoryText - className: ' + node.className + ', text: ' + textInput);
-		translatedText = translate_StoryText(textInput, csv);
+		var translatedText = translate_StoryText(textInput, csv);
 		PrintLog('GetTranslatedStoryText - traslated text: ' + translatedText);
 		if (translatedText.length > 0) {
 			node.innerHTML = translatedText;
@@ -1532,6 +1543,18 @@ function GetTranslatedStoryText(node, csv) {
 		}
 	}
 }
+
+/*
+//계정 생성하고 처음 시작하는 사람들은 텍스트 오토 스킵기능이 꺼져있어서 텍스트들이 순서대로 나옴.
+				//텍스트가 전부 출력됐을때 번역을 시도하는 기능을 추가해봄.
+				if(typeof document.getElementsByClassName('ico-cursor-talk')[0] != 'undefined'){
+					console.log('first');
+					if( document.getElementsByClassName('ico-cursor-talk')[0].style.display == 'block'){
+						console.log('gogogo');
+								
+					}
+				}
+*/
 
 function GetTranslatedImage(node, csv) {
 	if (node.className) {
@@ -1624,55 +1647,59 @@ function GetTranslatedImageDIV(node, csv) {
 
 function SceneCodeFromURL(url) {
 	var scenecode = '';
-	
+
 	if (document.URL.includes('scene_evt')) {
 		scenecode = document.URL.slice(document.URL.indexOf('scene_evt')).split('/')[0];
 		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-	}else if (document.URL.includes('play_view_event')) {
-		if(evtSceneCodeObj.length == 0){
-			if(scenecode == ''){
+	} else if (document.URL.includes('play_view_event')) {
+		if (evtSceneCodeObj.length == 0) {
+			if (scenecode == '') {
 				scenecode = 'NO VALUE';
 
-				var node=document.getElementsByClassName('btn-play-log-voice')[0];
-				if(typeof node != 'undefined'){
+				var node = document.getElementsByClassName('btn-play-log-voice')[0];
+				if (typeof node != 'undefined') {
 					scenecode = node.attributes[1].value.split('/')[1];
-					if(scenecode.includes('evt_')){//seasonal 이벤트일 경우, url형식은 evt_로 시작.
-						scenecode = scenecode.slice(0, scenecode.indexOf( scenecode.match(/(_s[0-9]+)/g)));	
-					}else{
-						scenecode = scenecode.slice(0, scenecode.indexOf( '_s' ));	
+					if (scenecode.includes('evt_')) {
+						//seasonal 이벤트일 경우, url형식은 evt_로 시작.
+						scenecode = scenecode.slice(
+							0,
+							scenecode.indexOf(scenecode.match(/(_s[0-9]+)/g))
+						);
+					} else {
+						scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
 					}
-					
 
-					storyText.some(function(item){
-						if(item.sceneCode.replace('"','').split(',')[0] == 'NO VALUE')
+					storyText.some(function(item) {
+						if (item.sceneCode.replace('"', '').split(',')[0] == 'NO VALUE')
 							item.sceneCode = '"' + scenecode + ',' + storyText_sceneIndex + '"';
 					});
 				}
 			}
-		}else{
+		} else {
 			var id = document.URL.slice(document.URL.indexOf('play_view_event')).split('/')[2];
-			evtSceneCodeObj.some(function(item){
-				if( item.id == id ){
+			evtSceneCodeObj.some(function(item) {
+				if (item.id == id) {
 					scenecode = item.sceneCode;
 					return true;
 				}
 			});
 		}
-		
-	}else if (document.URL.includes('play_view')) {
+	} else if (document.URL.includes('play_view')) {
 		scenecode = document.URL.slice(document.URL.indexOf('play_view')).split('/');
 		var cp = scenecode[2];
 		var ep = scenecode[4];
 
 		scenecode = 'scene_cp' + cp + '_q' + ep;
-	}else if (document.URL.includes('scene_cp')) {
+	} else if (document.URL.includes('scene_cp')) {
 		scenecode = document.URL.slice(document.URL.indexOf('scene_cp')).split('/')[0];
 		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-	}else if(document.URL.includes('scene_')){
+	} else if (document.URL.includes('scene_')) {
 		scenecode = document.URL.slice(document.URL.indexOf('scene_')).split('/')[0];
 		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
+	} else if (document.URL.includes('/#tutorial/')) {
+		scenecode = 'scene_cp0_q1';
 	}
-	
+
 	return scenecode;
 }
 
@@ -1707,11 +1734,10 @@ var sceneObserver = new MutationObserver(function(mutations) {
 					if (newSceneCode === oldSceneCode) {
 						storyText_index = 0;
 						storyText_sceneIndex++;
-					}else{
+					} else {
 						storyText_index = 0;
 						storyText_sceneIndex = 1;
 					}
-					
 				}
 			}
 
@@ -1803,27 +1829,70 @@ var BattleObserver = new MutationObserver(function(mutations) {
 
 // Queue for each observers
 async function ObserveSceneText() {
-	var oText = document.getElementsByClassName('prt-log-display')[0];
-	if (!oText) {
-		//The node we need does not exist yet.
-		//Wait 500ms and try again
+	var node=document.getElementById('scene_fast_text_mode');
+	
+	if(!node){
 		window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
 		return;
 	}
-	if (
-		document.URL.includes('archive') ||
-		document.URL.includes('scene') ||
-		document.URL.includes('story') ||
-		document.URL.includes('tutorial')
-	) {
-		sceneObserver.observe(oText, config);
+	
+	var fastTextMode = node.attributes[1].value;
+	
+	if( fastTextMode == 'on'){
+		var logText = document.getElementsByClassName('prt-log-display')[0];
+		
+		if (!logText) {
+			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
+			return;
+		}
+		
+		if (
+			document.URL.includes('archive') ||
+			document.URL.includes('scene') ||
+			document.URL.includes('story') ||
+			document.URL.includes('tutorial')
+			) 
+			{
+				sceneObserver.observe(logText, config);	
+			}
+	}else{//fast text mode가 꺼져있으면 밑의 알고리즘 수행.
+		var iconCursorText=document.getElementsByClassName('ico-cursor-talk')[0];
+	
+		//var oText = document.getElementsByClassName('prt-log-display')[0];
+		if (!iconCursorText) {
+			//The node we need does not exist yet.
+			//Wait 500ms and try again
+			window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
+			return;
+		}
+	
+		if(iconCursorText.style.display == 'block'){
+			var logText=document.getElementsByClassName('prt-log-display')[0];
+
+			if(!logText){
+				window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
+				return;
+			}
+
+			if (
+			document.URL.includes('archive') ||
+			document.URL.includes('scene') ||
+			document.URL.includes('story') ||
+			document.URL.includes('tutorial')
+			) {
+				sceneObserver.observe(logText, config);	
+
+				setTimeout(function(){
+					document.getElementsByClassName('txt-message')[0].innerHTML = 													document.getElementsByClassName('txt-log-message')[0].innerHTML;
+				},generalConfig.refreshRate);
+			}
+		}
 	}
 }
 
-
 var chapterListObserver = new MutationObserver(function(mutations) {
 	mutations.some(function(mutation) {
-		var node=mutation.target.parentElement;
+		var node = mutation.target.parentElement;
 		if (!node.className) return true;
 
 		if (node.className.includes('prt-chapter-list')) {
@@ -1831,62 +1900,59 @@ var chapterListObserver = new MutationObserver(function(mutations) {
 			evtSceneCodeObj = [];
 			var cp = 0;
 			var q = 1;
-			var baseSceneCode='';
-			
+			var baseSceneCode = '';
+
 			var evtChapterList = Array.from(node.children);
-			
-			evtChapterList.some(function(item){
-				if(item.attributes[2].value.includes('evt')){
-					var tmpNode = item.attributes[2].value.slice(0, item.attributes[2].value.indexOf('_q'));
-					var tmpCp = tmpNode.split('_')[2].match(/\d/g)-item.attributes[1].value;
-					
-					if(item.attributes[1].value == 0){
-						baseSceneCode = tmpNode.slice(0,tmpNode.indexOf('_cp'));
-						cp=item.attributes[1].value;
-					}
-					else if ( tmpCp == 0 ){
-						baseSceneCode = tmpNode.slice(0,tmpNode.indexOf('_cp'));
-					}
-					else{
-						baseSceneCode='';
+
+			evtChapterList.some(function(item) {
+				if (item.attributes[2].value.includes('evt')) {
+					var tmpNode = item.attributes[2].value.slice(
+						0,
+						item.attributes[2].value.indexOf('_q')
+					);
+					var tmpCp = tmpNode.split('_')[2].match(/\d/g) - item.attributes[1].value;
+
+					if (item.attributes[1].value == 0) {
+						baseSceneCode = tmpNode.slice(0, tmpNode.indexOf('_cp'));
+						cp = item.attributes[1].value;
+					} else if (tmpCp == 0) {
+						baseSceneCode = tmpNode.slice(0, tmpNode.indexOf('_cp'));
+					} else {
+						baseSceneCode = '';
 					}
 					return true;
 				}
 			});
-			
-			if ( baseSceneCode == '' ){
+
+			if (baseSceneCode == '') {
 				return true;
 			}
-			
-			
+
 			evtChapterList.some(function(item) {
 				var tempJson = new Object();
 				tempJson.id = item.attributes[2].value;
 
 				if (tempJson.id.includes('evt')) {
-					tempJson.sceneCode = tempJson.id.slice(0,tempJson.id.indexOf('_s'));
+					tempJson.sceneCode = tempJson.id.slice(0, tempJson.id.indexOf('_s'));
 				} else {
-					var titleName=item.getElementsByClassName('txt-chapter-title')[0].innerHTML;
-					if(titleName.includes('Ending')){
+					var titleName = item.getElementsByClassName('txt-chapter-title')[0].innerHTML;
+					if (titleName.includes('Ending')) {
 						q++;
 						tempJson.sceneCode = baseSceneCode + '_cp0_q' + q;
-					}
-					else{
+					} else {
 						var cpNum = titleName.match(/\d/g);
-						if(cpNum == null){
+						if (cpNum == null) {
 							cp++;
 							tempJson.sceneCode = baseSceneCode + '_cp' + cp;
-						}
-						else if (cpNum.length >= 2) {
+						} else if (cpNum.length >= 2) {
 							//챕터 숫자가 소수점이면 cp는 증가하지않고 q만 증가한다.
 							q++;
 							tempJson.sceneCode = baseSceneCode + '_cp0_q' + q;
 						} else {
 							cp++;
 							tempJson.sceneCode = baseSceneCode + '_cp' + cp;
-						}	
+						}
 					}
-					
 				}
 
 				evtSceneCodeObj.push(tempJson);
@@ -1895,7 +1961,7 @@ var chapterListObserver = new MutationObserver(function(mutations) {
 	});
 	ObserverEventChapterList();
 });
-async function ObserverEventChapterList(){
+async function ObserverEventChapterList() {
 	var oText = document.getElementsByClassName('prt-chapter-list')[0];
 	if (!oText) {
 		//The node we need does not exist yet.
@@ -1903,7 +1969,7 @@ async function ObserverEventChapterList(){
 		window.setTimeout(ObserverEventChapterList, generalConfig.refreshRate);
 		return;
 	}
-	if ( document.URL.includes('#archive/story/event') ){
+	if (document.URL.includes('#archive/story/event')) {
 		chapterListObserver.observe(oText, config);
 	}
 }
@@ -1931,6 +1997,7 @@ async function ObserverArchive() {
 		ObserverEventChapterList();
 	}
 }
+
 async function ObserverPop() {
 	// var oText = document.querySelector(".prt-scroll-title");
 	var oText = document.getElementById('loading');
