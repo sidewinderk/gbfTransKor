@@ -1934,7 +1934,7 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
@@ -1949,7 +1949,7 @@ async function ObserverPop() {
         window.setTimeout(ObserverPop, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverPop, generalConfig.refreshRate);
         return;
     }
@@ -1973,7 +1973,7 @@ async function ObserverBattle() {
         window.setTimeout(ObserverBattle, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         // In battle window, try to use 'white list' to get 
 
         var battleInfo1 = document.querySelectorAll('[class^="prt-command-chara"]');
@@ -2015,7 +2015,7 @@ async function ObserverImage() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
@@ -2031,7 +2031,7 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
