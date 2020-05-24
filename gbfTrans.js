@@ -583,23 +583,25 @@ const parseCsv = str => {
 async function InitList() {
     // Use custom font
     var styles = `
-      @font-face {
-        font-family: 'Youth';
-        src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');
-      }
-      @font-face {
-        font-family: 'Youth';
-        font-style: normal;
-        font-weight: 400;
-        src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
-        unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
-      }
-    `
+    @font-face {
+      font-family: 'NanumSquareB';
+      src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');
+    }
+    @font-face {
+      font-family: 'NanumSquareB';
+      font-style: normal;
+      font-weight: 600;
+      src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquare.woff') format('woff'); // Nanum Squre
+      unicode-range: U+AC00-D7AF; // Korean unicode range. Youth font doesn't have Chinese characters
+    }
+  `
+        //src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff'); // Nanum Squre
+        //src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
     var styleSheet = document.createElement("style")
     styleSheet.type = "text/css"
     styleSheet.innerText = styles
     document.head.appendChild(styleSheet)
-    document.body.style.fontFamily = 'Youth';
+    document.body.style.fontFamily = 'NanumSquareB';
 
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
@@ -1013,10 +1015,13 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes("raid")) // Do we need this?
+    if (
+        document.URL.includes('raid') // Do we need this?
+    ) {
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
-    else
-        archiveObserver.observe(oText, config);
+    }
+    archiveObserver.observe(oText, config);
 }
 async function ObserverPop() {
     // var oText = document.querySelector(".prt-scroll-title");
@@ -1086,8 +1091,12 @@ async function ObserverImage() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes("raid"))
+    if (
+        document.URL.includes('raid') // Do we need this?
+    ) {
+        window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
+    }
     ImageObserver.observe(allElements, config);
     ImageObserver.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
@@ -1100,8 +1109,12 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes("raid"))
+    if (
+        document.URL.includes('raid') // Do we need this?
+    ) {
+        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
+    }
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
