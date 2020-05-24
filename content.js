@@ -1266,7 +1266,7 @@ const parseCsv = str => {
 
 ///
 
-async function InitList() {
+async function InitList() {	
 	
 	chrome.storage.local.get(
 		[
