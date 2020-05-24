@@ -1,11 +1,3 @@
-//chrome.runtime.onMessage.addListener(
-//  function(request, sender, sendResponse) {
-//    if( request.message === "log" ) {
-//     document.outText = ;
-//    }
-//  }
-//);
-
 document.addEventListener('DOMContentLoaded', function() {
     (function() {
         chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
@@ -77,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     getNameBtn.onclick = function(element) {
         chrome.storage.local.get(['nTEXT'], function(result) {
-            var outputtext = "jp,kr\n"
+            var outputtext = "orig,kr\n"
             result.nTEXT.forEach(function(element) {
                 outputtext = outputtext + element + ",\n"
             });
@@ -111,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     getMiscBtn.onclick = function(element) {
         chrome.storage.local.get(['mTEXT'], function(result) {
-            var outputtext = "jp,kr\n"
+            var outputtext = "orig,kr\n"
             result.mTEXT.forEach(function(element) {
                 outputtext = outputtext + element + ",\n"
             });
