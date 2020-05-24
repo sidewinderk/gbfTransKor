@@ -1303,7 +1303,6 @@ async function InitList() {
         generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
     if (chromeOptions.userFont)
         generalConfig.defaultFont = chromeOptions.userFont;
-    console.log(`second ${generalConfig.defaultFont}`);
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
     @font-face {font-family: 'CustomFont';font-style: normal;src: ${generalConfig.defaultFont};unicode-range: U+AC00-D7AF;}`;
