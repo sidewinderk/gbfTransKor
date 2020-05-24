@@ -280,11 +280,11 @@ index,sceneCode,jp,kr
 38,[scene_evt200515_cp1_q4_s10],ありがとうございます。<br>よろしくお願いします。,고맙습니다.<br>잘부탁드려요.
 39,[scene_evt200515_cp1_q4_s10],"<span class=""scene-font-katari"">こうして[グラン]たちは</span><br><span class=""scene-font-katari"">謎の生物を巡る奇妙な事件に</span><br><span class=""scene-font-katari"">巻き込まれていくのだった。</span>","<span class=""scene-font-katari"">이렇게 해서[グラン]과 모두는</span><br><span class=""scene-font-katari"">수수께끼의 생물을 둘러싼 기묘한 사건에</span><br><span class=""scene-font-katari"">말려 들어간 것이었다.</span>"
 
-!이벤트 2-1,,,"<span class=""scene-font-katari"">선 내에 남아있던 단원도 몇몇</span><br><span class=""scene-font-katari"">Side.W일행에 협력하고 있고</span>"
+!이벤트 2-1,,,폰으로 못해먹겠노....
 0,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">島の各地に出没した謎の生物たちを</span><br><span class=""scene-font-katari"">本に戻すため、Side.Wたちは</span><br><span class=""scene-font-katari"">手分けして行動を開始する。</span>","<span class=""scene-font-katari"">섬 각지에 출몰한 수수께끼의 생물을</span><br><span class=""scene-font-katari"">책으로 돌려보내기 위해 Side.W일행은</span><br><span class=""scene-font-katari"">각자 행동을 시작한다.</span>"
-1,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">艇内に残っていた団員も何人か</span><br><span class=""scene-font-katari"">Side.Wたちに協力しており──</span>"
-2,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">卯月は以前部屋の片づけを</span><br><span class=""scene-font-katari"">手伝った時に仲良くなった</span><br><span class=""scene-font-katari"">ラグナと行動をともにしていた。</span>"
-3,[scene_evt200515_cp2_q1_s10],ふむふむ、なるほど……<br>その可能性は高そうだな。
+1,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">艇内に残っていた団員も何人か</span><br><span class=""scene-font-katari"">Side.Wたちに協力しており──</span>","<span class=""scene-font-katari"">선 내에 남아있던 단원도 몇몇</span><br><span class=""scene-font-katari"">Side.W을 도와주고 있고</span>"
+2,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">卯月は以前部屋の片づけを</span><br><span class=""scene-font-katari"">手伝った時に仲良くなった</span><br><span class=""scene-font-katari"">ラグナと行動をともにしていた。</span>","<span class=""scene-font-katari"">우즈키는 저번에 방정리를</span><br><span class=""scene-font-katari"">도와줬을 때 친해진</span><br><span class=""scene-font-katari"">라그나와 함께 행동하고 있다.</span>"
+3,[scene_evt200515_cp2_q1_s10],"흠흠, 과연......<br>그럴 가능성은 높아보이는군."
 4,[scene_evt200515_cp2_q1_s10],"<span class=""scene-font-katari"">一方の手にぴにゃの書を、</span><br><span class=""scene-font-katari"">もう一方の手に槍を持ちながら、</span><br><span class=""scene-font-katari"">ラグナは独り言のように呟く。</span>"
 5,[scene_evt200515_cp2_q1_s10],あの、ラグナさん……<br>変なこと聞くようですけど、<br>誰かとお話ししてるんですか？
 6,[scene_evt200515_cp2_q1_s10],ああ、驚かせてしまったならすまない。<br>私が話していたのは『コイツ』だ。
