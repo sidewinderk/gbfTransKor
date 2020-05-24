@@ -1015,10 +1015,13 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes("raid")) // Do we need this?
+    if (
+        document.URL.includes('raid') // Do we need this?
+    ) {
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
-    else
-        archiveObserver.observe(oText, config);
+    }
+    archiveObserver.observe(oText, config);
 }
 async function ObserverPop() {
     // var oText = document.querySelector(".prt-scroll-title");
@@ -1088,8 +1091,12 @@ async function ObserverImage() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes("raid"))
+    if (
+        document.URL.includes('raid') // Do we need this?
+    ) {
+        window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
+    }
     ImageObserver.observe(allElements, config);
     ImageObserver.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
@@ -1102,8 +1109,12 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes("raid"))
+    if (
+        document.URL.includes('raid') // Do we need this?
+    ) {
+        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
+    }
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
