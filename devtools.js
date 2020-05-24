@@ -1,10 +1,11 @@
-var sceneCode;
-var sceneObj;
+var sceneCode={};
+var sceneObj={};
 
 var GetSceneValue=function(req){
 	req.getContent(function(item){
 		var obj = JSON.parse(item);
-		if( obj.scene_list.length == 1){
+		
+		if( Object.keys(obj).length == 1){
 			sceneCode = obj.scene_list;
 		}else{
 			sceneObj = obj.scene_list;
@@ -23,11 +24,13 @@ var requestListener = function(req){
 		});
 	}	
 	
-	if(typeof sceneCode != 'undefined'  && typeof sceneObj != 'undefined'){
+	
+	if( Object.keys(sceneCode).length != 0 &&
+	  		Object.keys(sceneObj).length != 0){
 		console.log('sceneCode:',sceneCode);
 		console.log('sceneObj:',sceneObj);
-			chrome.devtools.network.onRequestFinished.removeListener(requestListener);
-	}	
+		//chrome.devtools.network.onRequestFinished.removeListener(requestListener);
+	}
 };
 
 
