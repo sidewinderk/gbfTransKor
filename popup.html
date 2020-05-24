@@ -1,36 +1,171 @@
 <!DOCTYPE html>
+
 <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <style>
-        BODY {width: 480px; min-height: 320px;}
-        textarea{
-        /* Source: Aakash Chakravarthy https://jsfiddle.net/vaakash/5TF5h/ */
+        BODY {
+            width: 480px;
+            font-family: 'NanumSquare';
+        }
+        
+        textarea {
+            /* Source: Aakash Chakravarthy https://jsfiddle.net/vaakash/5TF5h/ */
             background: url(http://i.imgur.com/2cOaJ.png);
-        background-attachment: local;
-        background-repeat: no-repeat;
-        padding-left: 35px;
-        padding-top: 10px;
-            border-color:#ccc;
-        width:90%;
+            background-attachment: local;
+            background-repeat: no-repeat;
+            padding-left: 35px;
+            padding-top: 10px;
+            border-color: #ccc;
+            width: 90%;
+        }
+        
+        .btntext {
+            font-family: 'NanumSquare';
+            font-size: large;
+            font-weight: 600;
+            vertical-align: -5px;
+        }
+        
+        .disclaimer {
+            font-family: 'NanumSquare';
+            font-weight: 800;
+            color: #FF5733;
+        }
+        /* The switch - the box around the slider */
+        
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 40px;
+            height: 24px;
+        }
+        /* Hide default HTML checkbox */
+        
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        /* The slider */
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 2px;
+            bottom: 2px;
+            background-color: white;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+        
+        input:checked+.slider {
+            background-color: #FF5733;
+        }
+        
+        input:focus+.slider {
+            box-shadow: 0 0 1px #FF5733;
+        }
+        
+        input:checked+.slider:before {
+            -webkit-transform: translateX(16px);
+            -ms-transform: translateX(16px);
+            transform: translateX(16px);
+        }
+        /* Rounded sliders */
+        
+        .slider.round {
+            border-radius: 24px;
+        }
+        
+        .slider.round:before {
+            border-radius: 50%;
+        }
+        
+        .myButton {
+            box-shadow: inset 0px 1px 0px 0px #f5978e;
+            background: linear-gradient(to bottom, #FF5733 5%, #c62d1f 100%);
+            background-color: #FF5733;
+            border-radius: 3px;
+            border: 1px solid #d02718;
+            display: inline-block;
+            cursor: pointer;
+            color: #ffffff;
+            font-family: Arial;
+            font-size: 15px;
+            font-weight: bold;
+            padding: 2px 24px;
+            text-decoration: none;
+            text-shadow: 0px 1px 0px #810e05;
+        }
+        
+        .myButton:hover {
+            background: linear-gradient(to bottom, #c62d1f 5%, #FF5733 100%);
+            background-color: #c62d1f;
+        }
+        
+        .myButton:active {
+            position: relative;
+            top: 1px;
         }
     </style>
     <script src="popup.js"></script>
 </head>
+
 <body>
-<button id="getText">Get text</button> <button id="copyText">Copy text</button> <button id="downText">Download csvFile</button> <button id="cacheClearText">Clear cache</button><br>
-<textarea id="outputcheck" rows="6">
-Will be displayed here.
-</textarea>
-<br>
-<button id="getName">Get name</button> <button id="copyName">Copy text</button> <button id="downName">Download csvFile</button>  <button id="cacheClearName">Clear cache</button><br>
-<textarea id="namecheck" rows="4">
-Will be displayed here.
-</textarea>
-<br>
-<button id="getMisc">Get Misc.</button> <button id="copyMisc">Copy text</button> <button id="downMisc">Download csvFile</button>  <button id="cacheClearMisc">Clear cache</button><br>
-<textarea id="otherscheck" rows="6">
-Will be displayed here.
-</textarea>
-<br>
-<button id="update">Manual Refresh</button> <button id="go-to-options">Option Page</button>
+    <H2 style="font-family: 'NanumSquare';">그랑블루 판타지 한국어 번역 툴</H2> <br>
+    <label class="switch">
+        <input id="translateModeChecker" type="checkbox">
+        <span class="slider round"></span>
+      </label> <span class="btntext">번역 켜기   </span>
+    <label class="switch">
+        <input id="extractModeChecker" type="checkbox">
+        <span class="slider round"></span>
+      </label> <span class="btntext">추출 모드</span>
+    <br>
+    <hr>
+    <TABLE width="100%" height="100%" border="0" cellspacing="0">
+        <TR>
+            <TD>
+                <i class="material-icons" style="font-size:36px;color: #FF5733;">warning</i>
+            </TD>
+            <TD>
+                <span class="disclaimer">이 번역 툴이 운영국의 '외부툴 사용에 따른 밴' 정책에 대해 안전하다고 보장해줄 수 없음.</span><br>
+                <span class="disclaimer">각자 판단 하에 사용할 것.</span>
+            </TD>
+        </TR>
+
+    </TABLE>
+    <br>
+    <div id='extractModeWindow' style="display:none">
+        <button id="getText">불러오기</button> <button id="copyText">Copy text</button> <button id="downText">Download csvFile</button> <button id="cacheClearText">Clear cache</button><br>
+        <textarea id="outputcheck" rows="6">여기에 텍스트가 표시됩니다.</textarea>
+        <br>
+        <button id="getName">불러오기</button> <button id="copyName">Copy text</button> <button id="downName">Download csvFile</button> <button id="cacheClearName">Clear cache</button><br>
+        <textarea id="namecheck" rows="4">여기에 텍스트가 표시됩니다.</textarea>
+        <br>
+        <button id="getMisc">불러오기</button> <button id="copyMisc">Copy text</button> <button id="downMisc">Download csvFile</button> <button id="cacheClearMisc">Clear cache</button><br>
+        <textarea id="otherscheck" rows="6">여기에 텍스트가 표시됩니다.</textarea>
+        <br> <button id="update">모든 캐시 지우기</button>
+    </div>
+    <br>
+    <button class="myButton" id="go-to-options">상세 설정</button>
+
 </body>
+
 </html>
