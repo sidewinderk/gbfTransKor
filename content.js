@@ -1465,7 +1465,8 @@ function GetTranslatedText(node, csv) {
             textInput.includes('li class') ||
             textInput.includes('a class') ||
             isNaN(textInput) == false || // Only number
-            isNaN(textInput.replace('/', '')) == false // number / number
+            isNaN(textInput.replace('/', '')) == false || // number / number
+            node.className.includes('txt-atk')
         )
             passOrNot = false;
 
