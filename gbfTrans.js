@@ -1465,7 +1465,8 @@ function GetTranslatedText(node, csv) {
             textInput.includes('li class') ||
             textInput.includes('a class') ||
             isNaN(textInput) == false || // Only number
-            isNaN(textInput.replace('/', '')) == false // number / number
+            isNaN(textInput.replace('/', '')) == false || // number / number
+            node.className.includes('txt-atk')
         )
             passOrNot = false;
 
@@ -1525,8 +1526,8 @@ function GetTranslatedText(node, csv) {
                     if (!node.className.includes('-translated')) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
-                        style.innerText = `.${node
-							.classList[0]}::after{ content: "${translatedText}" !important; }`;
+                        var classNames = node.className.replace(' ', '.');
+                        style.innerText = `.${classNames}::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
@@ -1621,7 +1622,8 @@ function GetTranslatedImageDIV(node, csv) {
             imageStyle.includes('type-') ||
             node.className.includes('btn-switch-') ||
             node.className.includes('btn-image-check') ||
-            node.className.includes('btn-reset-')
+            node.className.includes('btn-reset-') ||
+            node.className.includes('btn-link')
         )
             passOrNot = true;
         if (!passOrNot) return;
@@ -1634,8 +1636,8 @@ function GetTranslatedImageDIV(node, csv) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
-                    style.innerText = `.${node
-						.classList[0]}::after{ background-image: ${translatedText}!important; }`;
+                    var classNames = node.className.replace(' ', '.');
+                    style.innerText = `.${classNames}::after{ background-image: ${translatedText}!important; }`;
                     document.head.appendChild(style);
                     node.className += ' ' + node.className + '-translated';
                 }
