@@ -24,7 +24,31 @@ document.addEventListener('DOMContentLoaded', function() {
 
     let updateBtn = document.getElementById('update');
 
+	let getScenesBtn = document.getElementById('getScenes');
+	let ScenesOut = document.getElementById('Scenes');
+	let clearScenes= document.getElementById('clearScenes');
 
+	getScenesBtn.onclick=function(element){
+		chrome.storage.local.get(['Scenes'], function(result) {
+			var text=result.Scenes[0]+'\n';
+			
+			result.Scenes[1].forEach(function(item){
+				for(key in item){
+					text = text+key+':'+item[key]+'\n';
+				}
+			});
+            ScenesOut.value = text;
+        });
+	}
+	
+	clearScenes.onclick=function(element){
+		
+		chrome.tabs.query({ active: true, currentWindow: true ,title : 'Granblue Fantasy'}, function(tabs) {
+			chrome.tabs.sendMessage(tabs[0].id, { data: "clearScenes", text: "" });
+		});
+		ScenesOut.value = "";
+	}
+	
     updateBtn.onclick = function(element) {
         chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
             chrome.tabs.sendMessage(tabs[0].id, { data: "refresh", text: "" });

@@ -39,5 +39,7 @@
         "images/*.jpg",
 		"data/*.json"
     ],
-	"devtools_page": "devtools.html"
+	"devtools_page": "devtools.html",
+	
+  "background":{"scripts":["background.js"],"persistent":false}
 }

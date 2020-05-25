@@ -20,6 +20,9 @@ var storyText_index = 0;
 var storyText_sceneIndex = 1;
 var oldSceneCode = '';
 
+var ScenesText = {};
+var ScenesCodes = {};
+
 var cNames = [];
 var miscs = [];
 var questJson = false;
@@ -29,6 +32,16 @@ var imageJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
 // Coversation with popup window
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
+	if(request.data == 'clearScenes'){
+		ScenesText = {};		
+		ScenesCodes = {};
+		chrome.storage.local.set({ Scenes : [ScenesCodes,ScenesText] });
+	}
+	if(request.data == 'scenes'){
+		ScenesCodes=request.scenes[0];
+		ScenesText=request.scenes[1];
+		chrome.storage.local.set({Scenes : [ScenesCodes,ScenesText]});
+	}
     if (request.data == 'update') {
         chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
     }
