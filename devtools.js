@@ -1,5 +1,5 @@
 var sceneCode = '';
-var sceneObj = {};
+var sceneObj = [];
 
 var port = chrome.extension.connect({
 	name: 'Sample Communication' //Given a Name
@@ -11,7 +11,7 @@ port.onMessage.addListener(function(msg) {
 });
 
 var requestListener = function(req) {
-	if (req.request.url.includes('scene_')) {
+	if (req.request.url.includes('scene_') && !req.request.url.includes('scene_list') ) {
 		req.response.headers.some(function(item) {
 			if (item.value == 'application/json') {
 				sceneCode = req.request.url.slice(req.request.url.indexOf('scene_'));
@@ -33,17 +33,12 @@ var requestListener = function(req) {
 			}
 		});
 	}
-
-	if (Object.keys(sceneObj).length != 0) {
-		if (Object.keys(sceneCode).length == 0) {
-			sceneCode;
+	if (typeof sceneCode != 'undefined' && typeof sceneObj != 'undefined') {
+		if (sceneCode != '' && sceneObj.length > 0) {
+			console.log(sceneCode);
+			console.log(sceneObj);
+			port.postMessage({ data: 'scenes', scenes: [sceneCode, sceneObj] });
 		}
-	}
-
-	if (Object.keys(sceneCode).length != 0 && Object.keys(sceneObj).length != 0) {
-		console.log(sceneCode);
-		console.log(sceneObj);
-		port.postMessage({ data: 'scenes', scenes: [sceneCode, sceneObj] });
 	}
 };
 
