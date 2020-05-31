@@ -1,125 +1,187 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",synopsis,,元気のない楓を心配し、WaWaたちは酒好きの楓のために歓迎会を開くことを決める。卯月たちは酒が飲めない年齢のため、店の手配や参加メンバーへの呼びかけはラグナが受け持つことになる。そこへ楓がエミリーという少女を連れて戻ってくる。エミリーはWaWaたちがかつて起きた緑色の生物を巡る騒動での恩人だと知ると、困ったことが起きていると話し始めるのだった。,1
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,すみません……<br>楓さんに安心して<br>もらいたかったんですけど……,2
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,凛,別に怒ってどこかに行ったわけじゃ<br>ないと思うよ。ただ、ひとりに<br>なりたかったんじゃないかな。,3
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,未央,でもさぁ、やっぱり心配だよ。<br>ひとりで悩んでると、こう……<br>頭がぐちゃぐちゃになってくるじゃん？,4
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ルリア,うーん……<br>なんとかして<br>元気づけてあげたいですね……,5
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ビィ,オイラは落ち込んだ時、<br>リンゴを食うと元気出てくるぜ。,6
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ビィ,あの姉ちゃんも好きなことをすりゃあ、<br>ちょっとは元気になるんじゃねぇか？,7
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,なるほどっ！<br>私も落ち込んだ時、誰かに電話して<br>聞いてもらうと元気が湧いてきます！,8
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,未央,私の場合はショッピングかな！<br>キラキラしたお店に入ると<br>ワクワクする！,9
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,凛,好きなものか……<br>うん、悪くないんじゃないかな。,10
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,凛,楓さんと言えばやっぱりお酒、かな？<br>こっちの世界でも<br>用意できるだろうし。,11
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,未央,うんうん！<br>時々、艇でも宴会開いたりしてさぁ、<br>結構どんちゃん騒ぎになるよね！,12
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",sel1_txt,,<span class='scene-font-katari'>歓迎会を開くのはどう？</span>,13
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,楓さんの歓迎会ですか？<br>いいですね、楽しそうです！,14
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,凛,私も賛成だよ。大ごとになっても<br>楓さんにはプレッシャーだろうし、<br>人数は絞った方がいいと思うけど。,15
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,未央,よぉーし！<br>じゃあ歓迎会を開くってことで！<br>けってーい☆,16
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,未央,歓迎会には誰呼ぶ？<br>私たちがジュースで楓さんひとりだけ<br>お酒ってのはさすがに微妙だよね？,17
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,そうですね。<br>お酒好きな団員さんって<br>誰がいましたっけ……？,18
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,おや？<br>こんなところで集まって<br>何を話してるんだ？,19
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,？？？,おや？<br>こんなところで集まって<br>何を話してるんだ？,20
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,あっ、ラグナさん！<br>その荷物って<br>もしかしてお土産物ですか？,21
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,ふふっ、そうなんだ。<br>この街にも面白い物が沢山売っていて、<br>ついあれもこれもと買ってしまった。,22
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>ラグナ。</span><br><span class='scene-font-katari'>相棒の大きな槍を携え、</span><br><span class='scene-font-katari'>とある国に仕える兵士である。</span>,23
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>各地の文化や土産話に目がない彼女は</span><br><span class='scene-font-katari'>まだ見ぬ島を旅して回るために、</span><br><span class='scene-font-katari'>WaWaの艇に乗り込んでいた。</span>,24
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,それでお前たちは何を話してたんだ？<br>歓迎会と聞こえたような気がするが、<br>店探しなら力になるぞ。,25
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,ちょうど街で評判の店の情報を<br>集めてきたところだからな。,26
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,未央,ほんと！？<br>ラグねえ、さっすが頼りになるぅ～！,27
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>未央たちは歓迎会の趣旨や</span><br><span class='scene-font-katari'>困っていることを</span><br><span class='scene-font-katari'>ラグナに話して聞かせる。</span>,28
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,なるほど。<br>大体の状況は把握した。,29
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,生憎と私は酒が一滴も飲めないので<br>いつもミルクだが、酒場で一緒に<br>飲み交わした団員なら何人かいる。,30
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ラグナ,一緒に酒を飲み、<br>場を盛り上げてくれそうなメンバーに<br>声をかけてみるよ。,31
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,ありがとうございます！<br>とても助かります。<br>楓さんも、喜んでくれるかも！,32
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,楓,あの、ちょっといいですか？,33
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,楓さん！<br>もう戻ってきたんですね。<br>おかえりなさい！,34
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,卯月,って、隣にいる人は？,35
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,エミリー,初めまして、<br>私はエミリーって言います。,36
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,楓,実は困っていることがあるみたい<br>なんですけど……<br>お話だけでも聞いてもらえませんか？,37
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ルリア,もちろんです。<br>私たちは騎空士ですから、<br>なんでもお話ししてください！,38
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,エミリー,赤いドラゴンと蒼い髪の女の子……<br>騎空士……,39
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,エミリー,もしかして皆さんは、<br>この前の緑の子たちとの騒動で<br>街を救ってくれた人たちですか！？,40
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ビィ,緑のって、あのぴにゃぴにゃ言う<br>ヘンテコな奴らのことか？,41
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ルリア,それなら私たちのことだと思います。<br>実はこの間……,42
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>それは少し前のこと──</span>,43
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>WaWaたちがいまいる街は</span><br><span class='scene-font-katari'>森に住む緑色の生物たちの</span><br><span class='scene-font-katari'>襲撃に悩まされていた。</span>,44
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>負傷したWaWaたちの代わりに</span><br><span class='scene-font-katari'>街に来た杏ときらりは緑色の生物たちの</span><br><span class='scene-font-katari'>様子がおかしいことに気づく。</span>,45
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,杏,……そういうこと？<br>この騒動、<br>黒幕は傭兵さん達なのかっ？,46
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,きらり,そういえば、<br>みんなはあんなに疲れてたのに<br>傭兵さん達は、元気だったような……？,47
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,傭兵,おい貴様、それ以上は……！<br>クソッ！　ならば……<br>やれ！　貴様ら！,48
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,緑色の生物,ぴ……！？,49
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>その後傭兵たちは回復した</span><br><span class='scene-font-katari'>WaWaたちに追いつめられ、</span><br><span class='scene-font-katari'>騎空艇での逃走を図る。しかし……</span>,50
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,傭兵たち,<span class='scene-font-4'>ぎゃああああっ！？</span>,51
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,きらり,わーおっと！,52
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,きらり,うぇへへ☆<br>みんな、捕まえたにぃ☆,53
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,杏,ふぅー……これで一件落着かな。<br>最後まで、面倒なヤツら！,54
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>巨大化したきらりが</span><br><span class='scene-font-katari'>傭兵たちを騎空艇ごと捕まえ、</span><br><span class='scene-font-katari'>事件は収束したのだった。</span>,55
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ルリア,──ってことがありましたから。,56
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,エミリー,やっぱり……！<br>あの時は本当に<br>ありがとうございました！,57
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,エミリー,あれから私たちはあの緑の子たちに<br>色々な仕事をお願いするようになって、<br>一緒に仲良く暮らしてるんです。,58
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ビィ,マジかよ……<br>思い切ったことするなぁ。,59
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,ルリア,素敵じゃないですか！<br>みんなが仲良くするのはいいことです！,60
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,エミリー,でも、いま困ったことになってて……,61
-Japaness,"scene_evt200515_cp1_q2_s10,7548121",detail,,<span class='scene-font-katari'>エミリーは街で起きている問題を</span><br><span class='scene-font-katari'>ゆっくりと話し始めるのだった。</span>,62
-English,"scene_evt200515_cp1_q2_s10,7548121",synopsis,,"Just as the crew decides to hold a welcome party for Kaede to cheer her up, she returns with a girl named Emily in tow. Emily remembers the crew as the town's saviors from an earlier incident revolving around the green creatures and pleads for help with something that's gone awry.",1
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,It's my fault... I was only trying to help Kaede-san feel more at ease...,2
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Rin,"Well, it's not like she ran off in anger. Maybe she just wanted to be alone for a bit.",3
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Mio,"Either way, I'm still worried. After all, bottling up your stress can really take its toll on you.",4
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Lyria,Hrm... There must be something we can do to cheer her up...,5
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Vyrn,"Anytime I've got a case of the blues, chomping down on an apple makes me feel like a million rupies.",6
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Vyrn,So I'm sure everything will be right as rain if you can get her to do her favorite thing.,7
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,"That's a good point! Whenever I'm feeling down, calling a friend for a chat makes me feel so much better!",8
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Mio,Shopping does the trick for me! Checking out fancy new shops is always such an adrenaline rush!,9
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Rin,"Doing what you like, huh? Sounds about right.",10
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Rin,"When it comes to Kaede-san, she loves her alcohol. We can probably get some in this world too.",11
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Mio,Definitely! There's plenty of drinks whenever we have one of those crazy parties on the Grandcypher!,12
-English,"scene_evt200515_cp1_q2_s10,7548121",sel1_txt,,Let's hold a welcoming party for her.,13
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,Great idea. It'll be so much fun!,14
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Rin,Agreed. Except I suggest we keep it a closed party. Having too many people there would put more pressure on Kaede-san.,15
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Mio,All righty then. The welcome party is on. Woo-hoo!,16
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Mio,"So who should we invite? Since we'll all be drinking juice except Kaede-san, it'd be nice for her to have some drinking companions.",17
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,"You're right. Hm, who in the crew would be a good fit...",18
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,Hm? What's everyone gathered here for?,19
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,???,Hm? What's everyone gathered here for?,20
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,"Ah, Laguna-san! Is that another souvenir in your hand?",21
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,"Haha, that's right. They have so many neat little trinkets in town that I just couldn't help myself.",22
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,Laguna is a spear-wielding soldier who once served a small nation.,23
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,"Fascinated with the culture and tradition of foreign lands, she joined the crew to explore more of the world.",24
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,"So what are you guys doing? You mentioned something about a welcome party? If it's a suitable venue you need, I'd love to help out.",25
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,I just happened to be going around town asking for info about the local shops.,26
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Mio,"Nice work, Lagu-nee! It's great to have someone to count on!",27
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,Mio and company discuss their concerns about party preparations with Laguna.,28
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,"Okay, I get the gist of it.",29
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,"Unfortunately I don't drink alcohol myself. I'm all about milk, but I've been to the pub with some crewmates who are heavy drinkers.",30
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Laguna,I'll try inviting them. I'm sure they wouldn't mind livening up the party.,31
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,Thanks! That'd be a big help. I'm sure Kaede-san would appreciate it too!,32
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Kaede,"Hey, do you guys have a minute?",33
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,"Kaede-san, welcome back!",34
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Uzuki,Hm? Who's that next to you?,35
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Emily,Hello there. My name is Emily.,36
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Kaede,There's something that's been troubling her. Would you be willing to hear her out?,37
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Lyria,"Of course. As skyfarers, we're always ready to help anyone in need!",38
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Emily,A red dragon and a blue-haired girl... Skyfarers...,39
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Emily,You must be the ones who saved the town during the disaster with those little green things!,40
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Vyrn,Little green things? You mean those weird piña dudes?,41
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Lyria,"Yes, it was probably us you heard about. Actually...",42
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,It wasn't too long ago when...,43
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,This very same town was plagued by constant attacks from the green creatures of the forest.,44
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,"In lieu of the injured WaWa and company, Anzu and Kirari noticed something amiss about the creatures.",45
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Anzu,Wait a second... You mean to say you agents are behind all this trouble?,46
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Kirari,"Yeah, now that you mention it, it seems weird that the agents still seemed fine even though our friends were so exhausted.",47
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Agent,"Not another word out of you! Damn it!<br>All right, take 'em out, you guys!",48
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Green Creature,Pi?,49
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,"The crew later managed to rout the agents, cutting off their attempted escape by airship.",50
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Agents,Arrrgh!,51
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Kirari,Whoopsie!,52
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Kirari,Ehehe... Now I've got all of you!,53
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Anzu,Phew... I guess that's that. These guys were annoying to the bitter end!,54
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,It was Kirari-turned-giant who ultimately saved the day by catching both the agents and their airship.,55
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Lyria,And that's how the situation ended.,56
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Emily,I knew it was you! Thank you for saving our town!,57
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Emily,"Ever since then, we've come to coexist with the green creatures and even rely on them for certain jobs.",58
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Vyrn,Yeah? Talk about a one-eighty...,59
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Lyria,That's great! It's always nice when everyone gets along with each other!,60
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,Emily,But things are going awry again...,61
-English,"scene_evt200515_cp1_q2_s10,7548121",detail,,Emily proceeds to describe the trouble that has befallen the town.,62
+!프롤로그,,,,,
+,,,,,
+Japaness,scene_evt200515_cp0_q1_s10,synopsis,,ある日、映画の撮影を終えた楓は食事の約束をしている卯月たちが戻ってくるのを楽屋で待っていた。楓は自分宛に届いていた缶飲料をお酒とは気づかないまま飲み、疲れと酔いから眠ってしまう。気がつくと楓は見知らぬ森におり、落ちていた本を拾ったことで持ち主と思われる黒い翼の生物に襲いかかられる。そこへ卯月たちが現れて楓を守り、楓にここが異世界だと伝えるのだった。,줄거리 번역 필요.
+Japaness,scene_evt200515_cp0_q1_s10,detail,？？？,今日はお疲れ様でした。<br>明日の撮影もよろしくお願いします。,오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,…………,…………
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楽屋に入り、ホッと溜め息をつく</span><br><span class='scene-font-katari'>ボブヘアの女性。</span>,"<span class=""scene-font-katari"">분장실에 들어가、휴우 하고 한숨을 짓는</span><br><span class=""scene-font-katari"">보브 헤어의 여성.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>彼女はアイドル・高垣楓。</span><br><span class='scene-font-katari'>今日は映画の撮影のため、</span><br><span class='scene-font-katari'>都内のスタジオを訪れていた。</span>,"<span class=""scene-font-katari"">그녀는 아이돌・타카가키 카에데.</span><br><span class=""scene-font-katari"">오늘은 영화촬영을 위해、</span><br><span class=""scene-font-katari"">도내의 스튜디오에 방문했다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（今日の撮影は</span><span class='scene-font-spword'>“ハード”</span><span class='scene-font-kokoro'>だったわ。</span><br><span class='scene-font-kokoro'>だから</span><span class='scene-font-spword'>“ハート”</span><span class='scene-font-kokoro'>もクタクタ……ふふっ）</span>,"<span class=""scene-font-kokoro"">（오늘 촬영은</span><span class=""scene-font-spword"">“하드”</span><span class=""scene-font-kokoro"">했었네.</span><br><span class=""scene-font-kokoro"">그러니까</span><span class=""scene-font-spword"">“하트”</span><span class=""scene-font-kokoro"">도 녹초……후훗）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（卯月ちゃんたちの撮影も</span><br><span class='scene-font-kokoro'>もうすぐ終わるって話だったから、</span><br><span class='scene-font-kokoro'>少し楽屋で待たせてもらおうかしら）</span>,"<span class=""scene-font-kokoro"">（우즈키네의 촬영도</span><br><span class=""scene-font-kokoro"">이제 곧 끝난다고 했으니까、</span><br><span class=""scene-font-kokoro"">조금 분장실에서 기다려볼까?）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は今日の撮影後に共演者である</span><br><span class='scene-font-katari'>卯月、凛、未央の３人と</span><br><span class='scene-font-katari'>夕食に行く約束をしていた。</span>,"<span class=""scene-font-katari"">카에데는 오늘 촬영 후에 조연인</span><br><span class=""scene-font-katari"">우즈키、린、미오 3명과 함께 </span><br><span class=""scene-font-katari"">저녁 식사를 할 약속을 하고 있었다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>撮影スケジュールの都合で楓だけ</span><br><span class='scene-font-katari'>早く今日の分を撮り終えたため、</span><br><span class='scene-font-katari'>先に楽屋に戻ってきたのだった。</span>,"<span class=""scene-font-katari"">촬영 스케쥴 상、 카에데만</span><br><span class=""scene-font-katari"">먼저 오늘 분의 촬영을 끝냈기 때문에、</span><br><span class=""scene-font-katari"">먼저 분장실로 돌아와 있었다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（プロデューサーはまた</span><br><span class='scene-font-kokoro'>打ち合わせだって言っていたし</span><br><span class='scene-font-kokoro'>夕食会には間に合うといいけど……）</span>,"<span class=""scene-font-kokoro"">（프로듀서는 또</span><br><span class=""scene-font-kokoro"">회의가 있다고 했었지</span><br><span class=""scene-font-kokoro"">저녁 식사 전에 끝나면 좋겠는데……）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,あら？,응？
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は机の隅に自分宛の小包が</span><br><span class='scene-font-katari'>置いてあることに気づく。</span>,"<span class=""scene-font-katari"">카에데는 책상 구석에 자신에게 온 소포가</span><br><span class=""scene-font-katari"">있다는 것을 깨달았다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（差出人は先月CMに</span><br><span class='scene-font-kokoro'>出させていただいたジュースの</span><br><span class='scene-font-kokoro'>メーカーさんの……）</span>,"<span class=""scene-font-kokoro"">（보낸 사람은 지난 달 CM을</span><br><span class=""scene-font-kokoro"">촬영 했던 쥬스</span><br><span class=""scene-font-kokoro"">메이커의……）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（そういえば今回の映画の</span><br><span class='scene-font-kokoro'>スポンサーにも入っていたような。</span><br><span class='scene-font-kokoro'>それで差し入れをくださったのね）</span>,"<span class=""scene-font-kokoro"">（그러고보니 이번 영화 </span><br><span class=""scene-font-kokoro"">스폰서에도 있었던 것 같아.</span><br><span class=""scene-font-kokoro"">그래서 격려 선물을 준 거구나.）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓が包みを開けると、</span><br><span class='scene-font-katari'>紙箱の中に缶飲料が</span><br><span class='scene-font-katari'>びっしりと詰まっていた。</span>,"<span class=""scene-font-katari"">카에데가 소포를 열어보니、</span><br><span class=""scene-font-katari"">종이 상자 안에 캔음료가</span><br><span class=""scene-font-katari"">빽빽하게 차 있었다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（缶のパッケージが前と違うけど、</span><br><span class='scene-font-kokoro'>リニューアルしたのかしら？</span><br><span class='scene-font-kokoro'>ふふっ、家のカーテンと同じ色……♪）</span>,"<span class=""scene-font-kokoro"">（캔 패키지가 예전과 다른데、</span><br><span class=""scene-font-kokoro"">리뉴얼 한 걸까?</span><br><span class=""scene-font-kokoro"">후훗、집의 커튼이랑 같은 색……♪）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（これ、とっても美味しかったから</span><br><span class='scene-font-kokoro'>卯月ちゃんたちやプロデューサーにも</span><br><span class='scene-font-kokoro'>お裾分けしようかしら）</span>,"<span class=""scene-font-kokoro"">（이거、정말로 맛있었었지</span><br><span class=""scene-font-kokoro"">우즈키나 프로듀서에게도</span><br><span class=""scene-font-kokoro"">나눠줄까?）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は均等に渡せる数を計算するため</span><br><span class='scene-font-katari'>缶の個数を確認する。</span>,"<span class=""scene-font-katari"">카에데는 균등하게 나눠줄 수를 세기 위해</span><br><span class=""scene-font-katari"">캔의 개수를 확인한다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（ひとり２本はありそう。</span><br><span class='scene-font-kokoro'>それなら私の分の１本はお先に……）</span>,"<span class=""scene-font-kokoro"">（한명당 2개는 줄 수 있겠네.</span><br><span class=""scene-font-kokoro"">그러면 내 몫인 하나를 먼저……）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,ごくごく……,꿀꺽꿀꺽……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,はぁっ！<br>前飲んだのとは違うフレーバーだわ！<br>とっても美味しい……,하아！<br>전에 마셨던 것과는 다른 향이었네！<br>정말로 맛있어……
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>撮影直後で喉が渇いていたこともあり、</span><br><span class='scene-font-katari'>楓はあっという間に</span><br><span class='scene-font-katari'>缶の中身を飲み干す。</span>,"<span class=""scene-font-katari"">촬영 직후에 목이 말랐던 것도 있어、</span><br><span class=""scene-font-katari"">카에데는 눈 깜짝할 사이에</span><br><span class=""scene-font-katari"">캔의 내용물을 다 마셔버렸다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,ふふっ、これは<br>なんていう味のジュースかしら？<br>まるでカクテルみたいに色々な味が……,후훗、이건<br>무슨 맛의 쥬스일까?<br>마치 칵테일 같은 다양한 맛이……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,って、よく見たら本当にお酒……？,응?、잘 보니 정말로 술……？
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>ジュースのパッケージを</span><br><span class='scene-font-katari'>改めてよく見ると、</span><br><span class='scene-font-katari'>そこには「お酒」の文字があった。</span>,"<span class=""scene-font-katari"">쥬스의 패키지를</span><br><span class=""scene-font-katari"">다시 자세히 살펴보니、</span><br><span class=""scene-font-katari"">거기엔 「술」이라는 글자가 적혀져있었다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（前に出させていただいたのは</span><br><span class='scene-font-kokoro'>ジュースのCMだったのに、</span><br><span class='scene-font-kokoro'>どうしてお酒が届いたのかしら？）</span>,"<span class=""scene-font-kokoro"">（전에 촬영했던 것은</span><br><span class=""scene-font-kokoro"">쥬스의 CM이었는데、</span><br><span class=""scene-font-kokoro"">어째서 술을 받은걸까？）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（ひょっとして、スポンサーさんが</span><br><span class='scene-font-kokoro'>私がお酒好きなのを知って、</span><br><span class='scene-font-kokoro'>わざわざカクテルを贈ってくれたの？）</span>,"<span class=""scene-font-kokoro"">（혹시、스폰서씨가</span><br><span class=""scene-font-kokoro"">내가 애주가라는 것을 알고、</span><br><span class=""scene-font-kokoro"">일부러 칵테일을 보내준거야？）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（嬉しい……</span><br><span class='scene-font-kokoro'>あとでスポンサーさんに</span><br><span class='scene-font-kokoro'>お礼を言わなくちゃ）</span>,"<span class=""scene-font-kokoro"">（기뻐……</span><br><span class=""scene-font-kokoro"">나중에 스폰서씨에게</span><br><span class=""scene-font-kokoro"">꼭 고맙다고 해야지）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（卯月ちゃんたちにはお預けだけど、</span><br><span class='scene-font-kokoro'>その分プロデューサーには</span><br><span class='scene-font-kokoro'>沢山お裾分けしてあげましょうね♪）</span>,"<span class=""scene-font-kokoro"">（우즈키네한테는 못주겠지만、</span><br><span class=""scene-font-kokoro"">그만큼 프로듀서에게는</span><br><span class=""scene-font-kokoro"">잔뜩 나눠줘야겠네♪）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は空にした缶を</span><br><span class='scene-font-katari'>机に貼りつけられたゴミ袋に捨てる。</span>,"<span class=""scene-font-katari"">카에데는 빈 캔을</span><br><span class=""scene-font-katari"">책상에 붙어있는 쓰레기봉투에 버렸다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,ふわぁ……,후아……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（もう酔いが回ってきたみたい。</span><br><span class='scene-font-kokoro'>そんなに度数は高くなかったはずだけど</span><br><span class='scene-font-kokoro'>思っていたより疲れていたんだわ）</span>,"<span class=""scene-font-kokoro"">（벌써 취기가 오는 것 같아.</span><br><span class=""scene-font-kokoro"">그렇게 도수는 높지 않았던 것 같은데</span><br><span class=""scene-font-kokoro"">생각보다 지쳤었나보네）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>眠気を催した楓はパイプ椅子に座ると、</span><br><span class='scene-font-katari'>机に突っ伏してしまう。</span>,"<span class=""scene-font-katari"">잠기운이 온 카에데는 파이프 의자에 앉아서、</span><br><span class=""scene-font-katari"">책상 푹 엎드려 버렸다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（なんだかいい気持ち……</span><br><span class='scene-font-kokoro'>卯月ちゃんたちが戻ってくるまで、</span><br><span class='scene-font-kokoro'>ほんの少し、だけ……）</span>,"<span class=""scene-font-kokoro"">（왠지 좋은 기분……</span><br><span class=""scene-font-kokoro"">우즈키네가 돌아올 때 까지、</span><br><span class=""scene-font-kokoro"">아주 잠깐、만……）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,すぅ……すぅ……,스……스……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,う……ん…………<br>…………鳥の、声？,으……응…………<br>…………새、소리？
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（あれ……？</span><br><span class='scene-font-kokoro'>……どうして私、森にいるの？）</span>,"<span class=""scene-font-kokoro"">（어라……？</span><br><span class=""scene-font-kokoro"">……어째서 나、숲에 있는거야？）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（しかも私が着ているのって</span><br><span class='scene-font-kokoro'>撮影用の衣装よね？　さっき着替えて</span><br><span class='scene-font-kokoro'>衣装さんに返したはずなのに……）</span>,"<span class=""scene-font-kokoro"">（게다가 내가 입고있는 옷 이거</span><br><span class=""scene-font-kokoro"">촬영용 의상이지?　조금전에 갈아입고</span><br><span class=""scene-font-kokoro"">의상담당씨에게 돌려줬을텐데……）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,あら？,어머?
+Japaness,scene_evt200515_cp0_q1_s10,detail,？？？,ピーニャッ、ピーニャッ……,삐-냣、삐-냣……
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>奇妙な声のする方を見てみると、</span><br><span class='scene-font-katari'>黒い翼を生やした謎の生物が</span><br><span class='scene-font-katari'>何かを呟きながら本をめくっていた。</span>,"<span class=""scene-font-katari"">기묘한 소리가 나는 쪽을 바라보니、</span><br><span class=""scene-font-katari"">검은색 날개가 난 수수께끼의 생물이</span><br><span class=""scene-font-katari"">무언가를 중얼거리며 책을 넘기고 있었다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（着ぐるみかしら？</span><br><span class='scene-font-kokoro'>あの丸っとしたフォルム、</span><br><span class='scene-font-kokoro'>どこかで見たことがあるような……）</span>,"<span class=""scene-font-kokoro"">（인형옷일까?</span><br><span class=""scene-font-kokoro"">저 동그란 구조、</span><br><span class=""scene-font-kokoro"">어디에선가 본 적이 있는 것 같은……）</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピーニャッ、ピーニャッ……<br><span class='scene-font-4'>……ピニャッ！</span>,"삐-냣、삐-냣……<br><span class=""scene-font-4"">……삐냣！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャニャピニャ、ピーニャピニャッ！<br>ピニャニャピニャ、ピーニャピニャッ！,삐냐냐삐냐、삐-냐삐냣！<br>삐냐냐삐냐、삐-냐삐냣！
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャアッ！</span>,"<span class=""scene-font-4"">삐냐앗！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャアッ！</span>,"<span class=""scene-font-4"">삐냐앗！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,えっ？,응？
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>黒い翼の生物が何かを唱えると、</span><br><span class='scene-font-katari'>持っていた本から次々と</span><br><span class='scene-font-katari'>新たな黒い翼の生物が飛び出してくる。</span>,"<span class=""scene-font-katari"">검은 날개가 난 생물이 무언가 외치니、</span><br><span class=""scene-font-katari"">가지고있던 책으로부터 차례차례로</span><br><span class=""scene-font-katari"">새로운 검은 날개의 생물이 튀어나온다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,<span class='scene-font-2'>黒い翼の生物たち</span>,ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,まぁ……,어머……
+Japaness,scene_evt200515_cp0_q1_s10,detail,<span class='scene-font-2'>黒い翼の生物たち</span>,ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,…………,…………
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,えっと……<br>これはどういう状況なのかしら？<br>びっくり手品ショー？,음……<br>이건 어떤 상황인걸까？<br>깜짝 마술쇼？
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピ……ピィィ……,삐……삐이이……
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ビニャァァアアアーーー！！！</span>,"<span class=""scene-font-4"">삐냐아아아아아아ーーー！！！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>おしくらまんじゅう状態にあった</span><br><span class='scene-font-katari'>黒い翼の生物が同じ姿の仲間たちを</span><br><span class='scene-font-katari'>一気に押し返す。</span>,"<span class=""scene-font-katari"">동그랗게 뭉쳐있던</span><br><span class=""scene-font-katari"">검은 날개의 생물이 같은 모습의 동료들을</span><br><span class=""scene-font-katari"">한번에 되밀쳤다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>その拍子に持っていた本が</span><br><span class='scene-font-katari'>手から飛び出し、楓の前に落ちた。</span>,"<span class=""scene-font-katari"">그 박자에 가지고 있던 책이</span><br><span class=""scene-font-katari"">손으로 부터 떨어져나가、카에데 앞에 떨어졌다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,この本、マジック道具かしら？,이 책、마술도구인걸까?
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,こんなに小さな本から<br>あんなに沢山出てくるなんて、<br>一体どんな仕掛けなんでしょう？,이렇게 작은 책에서<br> 저렇게 많이 나오다니、<br>대체 어떤 장치지?
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャッ？　ピニャッ？,삐냣？　삐냣？
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャアーーー！！</span>,"<span class=""scene-font-4"">삐냐아ーーー！！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,え？,응？
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>黒い翼の生物が楓の方を指差し、</span><br><span class='scene-font-katari'>激怒したように地団太を踏み、</span><br><span class='scene-font-katari'>声を荒げる。</span>,"<span class=""scene-font-katari"">검은 날개의 생물이 카에데 쪽을 가리키며、</span><br><span class=""scene-font-katari"">격노한 것 처럼 발을 동동 구르며、</span><br><span class=""scene-font-katari"">언성을 높였다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャァア……<br><span class='scene-font-4'>ピニャァァアアアーー！！</span>,"삐냐아아……<br><span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,きゃっ……！,꺗……！
+Japaness,scene_evt200515_cp0_q1_s10,detail,？？？,<span class='scene-font-4'>危なーい！</span>,"<span class=""scene-font-4"">위험해！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャッ！？</span>,"<span class=""scene-font-4"">삐냣！？</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,未央,大丈夫？,괜찮아？
+Japaness,scene_evt200515_cp0_q1_s10,detail,未央,って、かえ姉さま！？<br>楓さんがどうして！？,엣、카에언니！？<br>카에데씨가 어째서！？
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,未央ちゃん……？<br>それに卯月ちゃんと凛ちゃんも。,미오……？<br>거기에 우즈키와 린도.
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャァァアアアーー！！</span>,"<span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,凛,向こうはやる気みたい。<br>卯月、未央、さっさと片づけよう。,저쪽은 한바탕 해 볼 생각인 것 같아.<br>우즈키、미오、빨리 정리해버리자.
+Japaness,scene_evt200515_cp0_q1_s10,detail,卯月,わかりました！<br><span class='scene-font-4'>えーいっ！</span>,"알겠어！<br><span class=""scene-font-4"">에-잇！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>颯爽と現れた卯月、凛、未央は</span><br><span class='scene-font-katari'>息の合った連係プレーで次々と</span><br><span class='scene-font-katari'>黒い翼の生物たちを追い払っていく。</span>,"<span class=""scene-font-katari"">씩씩하게 등장한 우즈키、린、미오는</span><br><span class=""scene-font-katari"">합이 맞은 연계 플레이로 차례차례</span><br><span class=""scene-font-katari"">검은 날개의 생물들을 쓰려뜨려간다.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャア……<br><span class='scene-font-4'>ニャピッピィーー！！</span>,"삐냐아……<br><span class=""scene-font-4"">냐삣삐이ーー！！</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,未央,ふぅ……<br>数は多かったけど、<br>大した敵じゃなくてよかったぁ！,후우……<br>수는 많았지만、<br>대단한 적은 아니어서 다행이었어！
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,卯月ちゃんたちも衣装を着てる……<br>ということは、ここは撮影現場なのね？,우즈키네도 의상을 입고있어……<br>라는 건、여기는 촬영현장인거네？
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,撮影の邪魔をしてごめんなさい。<br>すぐに楽屋へ戻るわ。,촬영에 방해를 해서 미안.<br>바로 분장실로 돌아갈게.
+Japaness,scene_evt200515_cp0_q1_s10,detail,未央,えっ、撮影……？<br>楓さん、何の話？,응、촬영……？<br>카에데씨、무슨 이야기？
+Japaness,scene_evt200515_cp0_q1_s10,detail,ビィ,おーい！　大丈夫か？,어-이！　괜찮아？
+Japaness,scene_evt200515_cp0_q1_s10,detail,ビィ,って、誰だ、この姉ちゃん？,응?、누구야、그 누님은？
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,まぁ、よくできたぬいぐるみ！<br>上手にお喋りできるのね！,어머、잘 만들어진 인형！<br>능숙하게 말할 수 있네！
+Japaness,scene_evt200515_cp0_q1_s10,detail,ビィ,んなっ！<br>オイラはぬいぐるみじゃねぇ！<br>ドラゴンだぞ！,뭐라구！<br>이몸은 인형이 아냐！<br>드래곤이라구！
+Japaness,scene_evt200515_cp0_q1_s10,detail,凛,撮影……楽屋……<br>ぬいぐるみと勘違い……<br>これって……,촬영……분장실……<br>인형으로 착각……<br>이건……
+Japaness,scene_evt200515_cp0_q1_s10,detail,未央,私たちがこの世界に来た直後と<br>同じこと言ってるよね？<br>楓さん、いまこっちに来たのかな？,우리들이 이 세계에 왔던 직후와<br>같은 이야기들을 하고 있지？<br>카에데씨、지금 이쪽으로 온걸까？
+Japaness,scene_evt200515_cp0_q1_s10,detail,卯月,そうかもしれません。<br>私たちのこと、勘違いしてるのかも……,그럴지도 몰라.<br>우리들에 대해、오해하고 있을지도……
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,あの、３人とも、<br>なんの話をしてるのかしら？<br>撮影中、なんですよね……？,저기、세명 모두、<br>무슨 이야기 하고 있는걸까？<br>촬영중、이지……？
+Japaness,scene_evt200515_cp0_q1_s10,detail,凛,……言うしかないか。,……말할 수 밖에 없나.
+Japaness,scene_evt200515_cp0_q1_s10,detail,凛,楓さん、落ち着いて聞いてください。<br>ここは私たちが元いた場所とは別の、<br>異世界なんです。,카에데씨、침착하고 들어주세요.<br>여기는 우리들이 원래 있던 장소와는 다른、<br>이세계입니다.。
+Japaness,scene_evt200515_cp0_q1_s10,detail,楓,異世界……？<br>……え？,이세계……？<br>……응？
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>突如空の世界に</span><br><span class='scene-font-katari'>迷い込んで来てしまった楓。</span>,"<span class=""scene-font-katari"">돌연 하늘의 세계에</span><br><span class=""scene-font-katari"">헤메어 들어오게 된 카에데.</span>"
+Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>果たして異世界の地で</span><br><span class='scene-font-katari'>彼女を待ち受けているものとは──？</span>,"<span class=""scene-font-katari"">과연 이세계의 땅에서</span><br><span class=""scene-font-katari"">그녀를 기다리고 있던 것은──？</span>"
+English,scene_evt200515_cp0_q1_s10,synopsis,,"While waiting to meet up with other idols in the dressing room, Kaede falls asleep from a cocktail-like drink and the exhaustion she was already feeling. Kaede awakens in a forest, where she is almost attacked by a black-winged creature after picking up a book lying on the ground. Uzuki, Rin, and Mio save her and explain that they're in an alternate world.",줄거리 번역 필요.
+English,scene_evt200515_cp0_q1_s10,detail,???,"Nice work, everyone. We'll continue shooting tomorrow.",오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
+English,scene_evt200515_cp0_q1_s10,detail,???,...,…………
+English,scene_evt200515_cp0_q1_s10,detail,,A bob-haired woman takes a deep breath and enters the dressing room.,"<span class=""scene-font-katari"">분장실에 들어가、휴우 하고 한숨을 짓는</span><br><span class=""scene-font-katari"">보브 헤어의 여성.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,She is the idol Kaede Takagaki. She's come to a production studio in the city to film a movie scene.,"<span class=""scene-font-katari"">그녀는 아이돌・타카가키 카에데.</span><br><span class=""scene-font-katari"">오늘은 영화촬영을 위해、</span><br><span class=""scene-font-katari"">도내의 스튜디오에 방문했다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(A difficult shoot like today's can be rather dis<span class='scene-font-italic'>heart</span>ening. But I'm confident I have the <span class='scene-font-italic'>heart</span> to power through it all. Hehe.),"<span class=""scene-font-kokoro"">（오늘 촬영은</span><span class=""scene-font-spword"">“하드”</span><span class=""scene-font-kokoro"">했었네.</span><br><span class=""scene-font-kokoro"">그러니까</span><span class=""scene-font-spword"">“하트”</span><span class=""scene-font-kokoro"">도 녹초……후훗）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Uzuki-chan and the others should be done with their part soon. I guess I'll wait for them in the dressing room.),"<span class=""scene-font-kokoro"">（우즈키네의 촬영도</span><br><span class=""scene-font-kokoro"">이제 곧 끝난다고 했으니까、</span><br><span class=""scene-font-kokoro"">조금 분장실에서 기다려볼까?）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,"Kaede has plans to go for dinner with Uzuki, Rin, and Mio.","<span class=""scene-font-katari"">카에데는 오늘 촬영 후에 조연인</span><br><span class=""scene-font-katari"">우즈키、린、미오 3명과 함께 </span><br><span class=""scene-font-katari"">저녁 식사를 할 약속을 하고 있었다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,"Due to minor scheduling changes, Kaede finished her part early for the day and now waits for the others.","<span class=""scene-font-katari"">촬영 스케쥴 상、 카에데만</span><br><span class=""scene-font-katari"">먼저 오늘 분의 촬영을 끝냈기 때문에、</span><br><span class=""scene-font-katari"">먼저 분장실로 돌아와 있었다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,The producer mentioned having more meetings to attend. I just hope he'll be free to join us for dinner later.,"<span class=""scene-font-kokoro"">（프로듀서는 또</span><br><span class=""scene-font-kokoro"">회의가 있다고 했었지</span><br><span class=""scene-font-kokoro"">저녁 식사 전에 끝나면 좋겠는데……）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Huh?,응？
+English,scene_evt200515_cp0_q1_s10,detail,,Kaede notices a small box addressed to her placed on a corner of the desk.,"<span class=""scene-font-katari"">카에데는 책상 구석에 자신에게 온 소포가</span><br><span class=""scene-font-katari"">있다는 것을 깨달았다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(This is from the juice manufacturer that had me star in their commercial last month...),"<span class=""scene-font-kokoro"">（보낸 사람은 지난 달 CM을</span><br><span class=""scene-font-kokoro"">촬영 했던 쥬스</span><br><span class=""scene-font-kokoro"">메이커의……）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Oh, that's right. They're a sponsor for this movie too. That explains what the gift is for.)","<span class=""scene-font-kokoro"">（그러고보니 이번 영화 </span><br><span class=""scene-font-kokoro"">스폰서에도 있었던 것 같아.</span><br><span class=""scene-font-kokoro"">그래서 격려 선물을 준 거구나.）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,Kaede opens the box to find cans of juice neatly packed within.,"<span class=""scene-font-katari"">카에데가 소포를 열어보니、</span><br><span class=""scene-font-katari"">종이 상자 안에 캔음료가</span><br><span class=""scene-font-katari"">빽빽하게 차 있었다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(They must've updated the packaging; it looks different from last time. Haha, these are the same colors on my curtains at home.)","<span class=""scene-font-kokoro"">（캔 패키지가 예전과 다른데、</span><br><span class=""scene-font-kokoro"">리뉴얼 한 걸까?</span><br><span class=""scene-font-kokoro"">후훗、집의 커튼이랑 같은 색……♪）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(I remember it being pretty good. Maybe I should share some with the others.),"<span class=""scene-font-kokoro"">（이거、정말로 맛있었었지</span><br><span class=""scene-font-kokoro"">우즈키나 프로듀서에게도</span><br><span class=""scene-font-kokoro"">나눠줄까?）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,Kaede counts her juice cans to determine how many to give to her friends.,"<span class=""scene-font-katari"">카에데는 균등하게 나눠줄 수를 세기 위해</span><br><span class=""scene-font-katari"">캔의 개수를 확인한다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Two for each. And I'll take one for myself now.),"<span class=""scene-font-kokoro"">（한명당 2개는 줄 수 있겠네.</span><br><span class=""scene-font-kokoro"">그러면 내 몫인 하나를 먼저……）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Glug...,꿀꺽꿀꺽……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Phew! It's a different flavor from the one I had last time! Not bad at all...,하아！<br>전에 마셨던 것과는 다른 향이었네！<br>정말로 맛있어……
+English,scene_evt200515_cp0_q1_s10,detail,,"Feeling thirsty from a hard day of work, Kaede downs the entire can in one go.","<span class=""scene-font-katari"">촬영 직후에 목이 말랐던 것도 있어、</span><br><span class=""scene-font-katari"">카에데는 눈 깜짝할 사이에</span><br><span class=""scene-font-katari"">캔의 내용물을 다 마셔버렸다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,I wonder what they put in here. It kind of tastes like a cocktail...,후훗、이건<br>무슨 맛의 쥬스일까?<br>마치 칵테일 같은 다양한 맛이……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Oh wait, there's alcohol in here...",응?、잘 보니 정말로 술……？
+English,scene_evt200515_cp0_q1_s10,detail,,"A closer look at the packaging reveals the words contains alcohol.""""","<span class=""scene-font-katari"">쥬스의 패키지를</span><br><span class=""scene-font-katari"">다시 자세히 살펴보니、</span><br><span class=""scene-font-katari"">거기엔 「술」이라는 글자가 적혀져있었다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Why would they send me booze when it was a juice commercial that I did?),"<span class=""scene-font-kokoro"">（전에 촬영했던 것은</span><br><span class=""scene-font-kokoro"">쥬스의 CM이었는데、</span><br><span class=""scene-font-kokoro"">어째서 술을 받은걸까？）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Could it be that they knew my preferences and chose this cocktail intentionally?),"<span class=""scene-font-kokoro"">（혹시、스폰서씨가</span><br><span class=""scene-font-kokoro"">내가 애주가라는 것을 알고、</span><br><span class=""scene-font-kokoro"">일부러 칵테일을 보내준거야？）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Aren't I lucky... I'll have to thank them personally later.),"<span class=""scene-font-kokoro"">（기뻐……</span><br><span class=""scene-font-kokoro"">나중에 스폰서씨에게</span><br><span class=""scene-font-kokoro"">꼭 고맙다고 해야지）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Welp, I can't very well give these to the girls. The producer's going to be pleased to have so many.)","<span class=""scene-font-kokoro"">（우즈키네한테는 못주겠지만、</span><br><span class=""scene-font-kokoro"">그만큼 프로듀서에게는</span><br><span class=""scene-font-kokoro"">잔뜩 나눠줘야겠네♪）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,Kaede chucks the can into the trash bag taped to the desk.,"<span class=""scene-font-katari"">카에데는 빈 캔을</span><br><span class=""scene-font-katari"">책상에 붙어있는 쓰레기봉투에 버렸다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Yawn...,후아……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Am I starting to feel the effects already? That's strange, considering the alcohol content's not supposed to be that high. Maybe I'm more tired than I thought.)","<span class=""scene-font-kokoro"">（벌써 취기가 오는 것 같아.</span><br><span class=""scene-font-kokoro"">그렇게 도수는 높지 않았던 것 같은데</span><br><span class=""scene-font-kokoro"">생각보다 지쳤었나보네）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,"Taking a seat on the folding chair, Kaede sprawls out on the desk.","<span class=""scene-font-katari"">잠기운이 온 카에데는 파이프 의자에 앉아서、</span><br><span class=""scene-font-katari"">책상 푹 엎드려 버렸다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(This is so comfy... Wouldn't hurt to take a short nap until they get back...),"<span class=""scene-font-kokoro"">（왠지 좋은 기분……</span><br><span class=""scene-font-kokoro"">우즈키네가 돌아올 때 까지、</span><br><span class=""scene-font-kokoro"">아주 잠깐、만……）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Zzz...,스……스……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Mng... Are those... birds I'm hearing?,으……응…………<br>…………새、소리？
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(What the... What am I doing in a forest?),"<span class=""scene-font-kokoro"">（어라……？</span><br><span class=""scene-font-kokoro"">……어째서 나、숲에 있는거야？）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,(And how am I still in the outfit I wear on set? I definitely remember changing out of it and returning it earlier...),"<span class=""scene-font-kokoro"">（게다가 내가 입고있는 옷 이거</span><br><span class=""scene-font-kokoro"">촬영용 의상이지?　조금전에 갈아입고</span><br><span class=""scene-font-kokoro"">의상담당씨에게 돌려줬을텐데……）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Huh?,어머?
+English,scene_evt200515_cp0_q1_s10,detail,???,"Piña, piña...",삐-냣、삐-냣……
+English,scene_evt200515_cp0_q1_s10,detail,,Kaede turns toward the peculiar voice only to find a black-winged creature flipping through a book while muttering something.,"<span class=""scene-font-katari"">기묘한 소리가 나는 쪽을 바라보니、</span><br><span class=""scene-font-katari"">검은색 날개가 난 수수께끼의 생물이</span><br><span class=""scene-font-katari"">무언가를 중얼거리며 책을 넘기고 있었다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Must be a costume. Either way, I feel like I've seen that shape somewhere before...)","<span class=""scene-font-kokoro"">（인형옷일까?</span><br><span class=""scene-font-kokoro"">저 동그란 구조、</span><br><span class=""scene-font-kokoro"">어디에선가 본 적이 있는 것 같은……）</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piiña, piiña... Piña!","삐-냣、삐-냣……<br><span class=""scene-font-4"">……삐냣！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piñañapiña, piiñapiña!<br>Piñañapiña, piiñapiña!",삐냐냐삐냐、삐-냐삐냣！<br>삐냐냐삐냐、삐-냐삐냣！
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa!,"<span class=""scene-font-4"">삐냐앗！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa!,"<span class=""scene-font-4"">삐냐앗！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Wha?,응？
+English,scene_evt200515_cp0_q1_s10,detail,,"As what seems like an incantation continues, other similar creatures come flying out of the book.","<span class=""scene-font-katari"">검은 날개가 난 생물이 무언가 외치니、</span><br><span class=""scene-font-katari"">가지고있던 책으로부터 차례차례로</span><br><span class=""scene-font-katari"">새로운 검은 날개의 생물이 튀어나온다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piñapiña piña piña, piñapiña. Piñapiña, piñapiñapiña...",삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Oh my...,어머……
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piñapiña piña piña, piñapiña. Piñapiña, piñapiñapiña...",삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,...,…………
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Um, did I just walk into some sort of magic show?",음……<br>이건 어떤 상황인걸까？<br>깜짝 마술쇼？
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Pi... Pii...,삐……삐이이……
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaaaaa!,"<span class=""scene-font-4"">삐냐아아아아아아ーーー！！！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,"Sandwiched by its fellow winged brethren, the first creature pushes back at the others to make room for itself.","<span class=""scene-font-katari"">동그랗게 뭉쳐있던</span><br><span class=""scene-font-katari"">검은 날개의 생물이 같은 모습의 동료들을</span><br><span class=""scene-font-katari"">한번에 되밀쳤다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,"The momentum sends the book sailing out of its hands, landing before Kaede.","<span class=""scene-font-katari"">그 박자에 가지고 있던 책이</span><br><span class=""scene-font-katari"">손으로 부터 떨어져나가、카에데 앞에 떨어졌다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,This must be some sort of magical tome.,이 책、마술도구인걸까?
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,I can't think of any other explanation for how all those creatures could come out of this tiny book.,이렇게 작은 책에서<br> 저렇게 많이 나오다니、<br>대체 어떤 장치지?
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piña? Piña?,삐냣？　삐냣？
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa!,"<span class=""scene-font-4"">삐냐아ーーー！！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,What?,응？
+English,scene_evt200515_cp0_q1_s10,detail,,"Pointing to Kaede, one of them stomps the ground in a fit of rage and takes on a harsher tone.","<span class=""scene-font-katari"">검은 날개의 생물이 카에데 쪽을 가리키며、</span><br><span class=""scene-font-katari"">격노한 것 처럼 발을 동동 구르며、</span><br><span class=""scene-font-katari"">언성을 높였다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa... Piñaaaa!,"삐냐아아……<br><span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Ergh!,꺗……！
+English,scene_evt200515_cp0_q1_s10,detail,???,Watch out!,"<span class=""scene-font-4"">위험해！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piña?,"<span class=""scene-font-4"">삐냣！？</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Mio,Are you okay?,괜찮아？
+English,scene_evt200515_cp0_q1_s10,detail,Mio,Wha... It's Kae-neesama! What are you doing here?,엣、카에언니！？<br>카에데씨가 어째서！？
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Mio-chan? Uzuki-chan and Rin-chan too.,미오……？<br>거기에 우즈키와 린도.
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaaaa!,"<span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Rin,"Looks like they're up for a fight. Uzuki, Mio, let's do this.",저쪽은 한바탕 해 볼 생각인 것 같아.<br>우즈키、미오、빨리 정리해버리자.
+English,scene_evt200515_cp0_q1_s10,detail,Uzuki,I'm ready to go! Hyaah!,"알겠어！<br><span class=""scene-font-4"">에-잇！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,"Uzuki, Rin, and Mio bash the creatures away in tandem, their movements trained.","<span class=""scene-font-katari"">씩씩하게 등장한 우즈키、린、미오는</span><br><span class=""scene-font-katari"">합이 맞은 연계 플레이로 차례차례</span><br><span class=""scene-font-katari"">검은 날개의 생물들을 쓰려뜨려간다.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa... Piñapipiii!,"삐냐아……<br><span class=""scene-font-4"">냐삣삐이ーー！！</span>"
+English,scene_evt200515_cp0_q1_s10,detail,Mio,"Whew... They might be swarming us, but they're not too tough thankfully!",후우……<br>수는 많았지만、<br>대단한 적은 아니어서 다행이었어！
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Hey, you're all in uniform too... That must mean you're still filming.",우즈키네도 의상을 입고있어……<br>라는 건、여기는 촬영현장인거네？
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Sorry for getting in the way. I'll get back to the dressing room now.,촬영에 방해를 해서 미안.<br>바로 분장실로 돌아갈게.
+English,scene_evt200515_cp0_q1_s10,detail,Mio,"Er... You've lost us, Kaede-san.",응、촬영……？<br>카에데씨、무슨 이야기？
+English,scene_evt200515_cp0_q1_s10,detail,Vyrn,Hey! Everyone all right?,어-이！　괜찮아？
+English,scene_evt200515_cp0_q1_s10,detail,Vyrn,"Oh, who's this lady?",응?、누구야、그 누님은？
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"My goodness, what an adorable plushie! It even talks!",어머、잘 만들어진 인형！<br>능숙하게 말할 수 있네！
+English,scene_evt200515_cp0_q1_s10,detail,Vyrn,"Gah, I ain't no plushie! I'm a dragon in the flesh!",뭐라구！<br>이몸은 인형이 아냐！<br>드래곤이라구！
+English,scene_evt200515_cp0_q1_s10,detail,Rin,Filming... Dressing room... Mistaking Vyrn for a plushie... It all rings a bell...,촬영……분장실……<br>인형으로 착각……<br>이건……
+English,scene_evt200515_cp0_q1_s10,detail,Mio,Sounds like us when we first came to this world. Could Kaede-san have arrived just now?,우리들이 이 세계에 왔던 직후와<br>같은 이야기들을 하고 있지？<br>카에데씨、지금 이쪽으로 온걸까？
+English,scene_evt200515_cp0_q1_s10,detail,Uzuki,It's possible. That would explain the misunderstanding.,그럴지도 몰라.<br>우리들에 대해、오해하고 있을지도……
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Um, what are you three talking about? Shouldn't you be focusing on the scene?",저기、세명 모두、<br>무슨 이야기 하고 있는걸까？<br>촬영중、이지……？
+English,scene_evt200515_cp0_q1_s10,detail,Rin,We'll have to tell her...,……말할 수 밖에 없나.
+English,scene_evt200515_cp0_q1_s10,detail,Rin,"Kaede-san, please stay calm and listen. You've come to a different world, separate from the one we called home.",카에데씨、침착하고 들어주세요.<br>여기는 우리들이 원래 있던 장소와는 다른、<br>이세계입니다.。
+English,scene_evt200515_cp0_q1_s10,detail,Kaede,Different world? What?,이세계……？<br>……응？
+English,scene_evt200515_cp0_q1_s10,detail,,As the latest wanderer into the Sky Realm...,"<span class=""scene-font-katari"">돌연 하늘의 세계에</span><br><span class=""scene-font-katari"">헤메어 들어오게 된 카에데.</span>"
+English,scene_evt200515_cp0_q1_s10,detail,,Only time will tell what fate awaits Kaede in this strange new world.,"<span class=""scene-font-katari"">과연 이세계의 땅에서</span><br><span class=""scene-font-katari"">그녀를 기다리고 있던 것은──？</span>"
