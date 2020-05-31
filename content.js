@@ -21,7 +21,7 @@ var storyText_sceneIndex = 1;
 var oldSceneCode = '';
 
 var sceneFullInfo = [];
-
+//https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
 var cNames = [];
 var miscs = [];
 var questJson = false;
@@ -34,48 +34,18 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 	if (request.data == 'clearScenes') {
 		sceneFullInfo = [];
 		chrome.storage.local.set({ sceneFullInfo: sceneFullInfo });
+		window.location.reload();
 	}
 	if (request.data == 'scenes') {
-		if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
-
-		var skip = false;
-		var sceneCode = request.scenes[0];
-		
-		sceneFullInfo.some(function(scene){
-			var code1 = scene.sceneCode.split('"').join('').split(',')[0];
-			if( code1 == sceneCode){
-				skip = true;
-				return true;
-			}
-		});
-		if(skip) return;
-		
-		var sceneText = request.scenes[1];
-		var sceneJson = {};
-		
-		if (document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) {
-			var anotherSceneCode='';
-			if (document.URL.includes('play_view/')) {
-				anotherSceneCode = document.URL.slice(document.URL.indexOf('play_view/'));
-			}else if( document.URL.includes('play_view_event/')){
-				anotherSceneCode = document.URL.slice(document.URL.indexOf('play_view_event/'));
-			}
-			
-			anotherSceneCode = anotherSceneCode.split('/');
-			anotherSceneCode = anotherSceneCode[2] + anotherSceneCode[4];
-			var sceneNowNum = document.getElementsByClassName('now')[0].className;
-			sceneNowNum = sceneNowNum[sceneNowNum.length - 1];
-			sceneCode = '"' + sceneCode + ',' + anotherSceneCode + sceneNowNum + '"';
-		}
-		
-		sceneJson.sceneCode = sceneCode;
-		sceneJson.sceneText = sceneText;
-		sceneFullInfo.push(sceneJson);
-		console.log(sceneFullInfo.length);
-		chrome.storage.local.set({ sceneFullInfo: sceneFullInfo });
+		PushCSV_StoryText(request);
 	}
 	if (request.data == 'update') {
-		chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs , sceneFullInfo : sceneFullInfo});
+		chrome.storage.local.set({
+			oTEXT: storyText,
+			nTEXT: cNames,
+			mTEXT: miscs,
+			sceneFullInfo: sceneFullInfo
+		});
 	}
 	if (request.data == 'clearText') {
 		storyText = [];
@@ -224,33 +194,72 @@ function PushCSV(text, array) {
 	}
 }
 
-function PushCSV_StoryText(text, array, sceneCodes) {
-	if (kCheck.test(text)) return;
-	PrintLog(`input ${text}`);
-	var isIntempDB = false;
-	array.some(function(item) {
-		if (item.orig == text) {
-			isInDB = true;
-			return true;
+function PushCSV_StoryText(request) {
+	if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
+
+	var skip = false;
+	var sceneCode = request.scenes[0];
+	var sceneLanguage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
+
+	sceneFullInfo.some(function(scene) {
+		var sceneCodeReserved = scene.SceneCode
+			.split('"')
+			.join('')
+			.split(',')[0];
+		if (sceneCodeReserved == sceneCode) {
+			if (sceneLanguage == scene.Language) {
+				skip = true;
+				return true;
+			}
 		}
 	});
-	if (!isIntempDB) {
-		PrintLog(`Accepted ${sceneCodes} ${storyText_index} ${text}`);
-		var tempJson = new Object();
-		tempJson.index = storyText_index++;
-		//원래는  tempJson.sceneCode = [sceneCodes] 였는데, 해보니까 대괄호로 묶어도 대괄호안에 쉼표들어가면
-		//쉼표를 예외처리 안해줌..ㅠ 그래서 그냥 대괄호대신에 쌍따음표로 처리함.
-		sceneCodes = '"' + sceneCodes + ',' + storyText_sceneIndex + '"';
-		tempJson.sceneCode = sceneCodes;
-		tempJson.orig = text;
+	if (skip) return;
 
-		if (text.includes(',')) {
-			tempJson.orig = '"' + text + '"';
-		} else tempJson.orig = text;
-
-		array.push(tempJson);
-		chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+	if (document.URL.includes('play_view')) {
+		var anotherSceneCode = SceneCodeFromURL();
+		if (anotherSceneCode != '') sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
 	}
+
+	var sceneText = request.scenes[1];
+
+	sceneText.forEach(function(item) {
+		if (item.synopsis != '') {
+			var sceneJson = {};
+			sceneJson.Language = sceneLanguage;
+			sceneJson.SceneCode = sceneCode;
+			sceneJson.Type = 'synopsis';
+			sceneJson.Name = '';
+			item.synopsis = item.synopsis.split('\n').join('');
+			sceneJson.Origin = '"' + item.synopsis + '"';
+			sceneFullInfo.push(sceneJson);
+		}
+		if (item.detail != '') {
+			var sceneJson = {};
+			sceneJson.Language = sceneLanguage;
+			sceneJson.SceneCode = sceneCode;
+			sceneJson.Type = 'detail';
+			sceneJson.Name = item.charcter1_name != 'null' ? item.charcter1_name : '';
+			item.detail = item.detail.split('\n').join('');
+			sceneJson.Origin = '"' + item.detail + '"';
+			sceneFullInfo.push(sceneJson);
+		}
+
+		for (key in item) {
+			if (key.match(/sel[\d+]_txt/) != null) {
+				if (item[key] != '') {
+					var sceneJson = {};
+					sceneJson.Language = sceneLanguage;
+					sceneJson.SceneCode = sceneCode;
+					sceneJson.Type = key;
+					sceneJson.Name = '';
+					sceneJson.Origin = item[key];
+					sceneFullInfo.push(sceneJson);
+				}
+			}
+		}
+	});
+
+	chrome.storage.local.set({ sceneFullInfo: sceneFullInfo });
 }
 
 // Imported modules
@@ -1377,7 +1386,12 @@ async function InitList() {
 
 	// Main Observers
 	if (ObserverList.length < 1) {
-		ObserverList = [ObserveSceneText(), ObserverArchive(), ObserverPop()];
+		ObserverList = [
+			ObserveSceneText(),
+			ObserverArchive(),
+			ObserverPop(),
+			ObserverStorySelectTexts()
+		];
 		if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
 		if (doBattleTrans) ObserverList.push(ObserverBattle());
 	}
@@ -1410,8 +1424,6 @@ function translate_StoryText(stext, jsonFile) {
 	var node = document.getElementsByClassName('prt-log-display')[0].children;
 	//check if Log Exists.
 	if (typeof node == 'undefined') return '';
-	//var sceneCodeCurrent = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
-	var sceneCodeCurrent = SceneCodeFromURL(document.URL);
 
 	// Translation part for story text
 	var transText = '';
@@ -1419,33 +1431,33 @@ function translate_StoryText(stext, jsonFile) {
 	PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
 	jsonFile.some(function(item) {
-		if (item.kr == '\t' || item.kr == ' ') {
+		if (item.Korean == '\t' || item.Korean == ' ') {
 			return false;
 		}
 
-		if (item.kr) {
-			var codes = item.sceneCode
+		if (item.Korean) {
+			var curSceneCode = SceneCodeFromURL();
+			var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
+			var codes = item.SceneCode
 				.split('"')
 				.join('')
 				.split(',');
-			if (
-				(sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2]) &&
-				storyText_sceneIndex == codes[1]
-			) {
-				if (item.index == node.length - 1) {
-					transText = item.kr;
-					PrintLog(item);
-					PrintLog(`node.length - 1 : ${node.length - 1}`);
-					PrintLog(`item.index : ${item.index}`);
-					if (userName && transText.includes(generalConfig.deafultTransName)) {
-						transText = transText.replace(generalConfig.deafultTransName, userName);
+			codes.some(function(code) {
+				if (code == curSceneCode) {
+					if (curLanugage == item.Language) {
+						console.log(stext);
+						stext = stext.split('\n').join('');
+						stext = stext.split('"').join("'");
+						if (stext == item.Origin) {
+							transText = item.Korean;
+							return true;
+						}
 					}
-
-					return true;
 				}
-			}
+			});
 		}
 	});
+
 	if (transText.length > 0) {
 		PrintLog(`Send:${transText}`);
 		return transText;
@@ -1601,7 +1613,14 @@ function GetTranslatedStoryText(node, csv) {
 		PrintLog(`GetTranslatedStoryText - traslated text: ${translatedText}`);
 		if (translatedText.length > 0) {
 			node.innerHTML = translatedText;
+			if (node.className.includes('prt-pop-synopsis')) return;
+
 			if (typeof textContents != 'undefined') {
+				if (node.className.includes('txt-sel')) {
+					console.log(textContents.innerHTML);
+					textContents.innerHTML = translate_StoryText(textContents.innerHTML, csv);
+					return;
+				}
 				if (textContents.innerHTML == '') translatedText = '';
 				textContents.innerHTML = translatedText;
 			}
@@ -1699,58 +1718,26 @@ function GetTranslatedImageDIV(node, csv) {
 }
 
 function SceneCodeFromURL(url) {
-
 	var scenecode = '';
-	/*
-	if (document.URL.includes('scene_evt')) {
-		scenecode = document.URL.slice(document.URL.indexOf('scene_evt')).split('/')[0];
-		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-	} else if (document.URL.includes('play_view_event')) {
-		if (evtSceneCodeObj.length == 0) {
-			if (scenecode == '') {
-				scenecode = 'NO VALUE';
 
-				var node = document.getElementsByClassName('btn-play-log-voice')[0];
-				if (typeof node != 'undefined') {
-					scenecode = node.attributes[1].value.split('/')[1];
-					if (scenecode.includes('evt_')) {
-						//seasonal 이벤트일 경우, url형식은 evt_로 시작.
-						scenecode = scenecode.slice(
-							0,
-							scenecode.indexOf(scenecode.match(/(_s[0-9]+)/g))
-						);
-					} else {
-						scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-					}
-
-					storyText.some(function(item) {
-						if (item.sceneCode.replace('"', '').split(',')[0] == 'NO VALUE')
-							item.sceneCode = '"' + scenecode + ',' + storyText_sceneIndex + '"';
-					});
-				}
-			}
-		} else {
-			var id = document.URL.slice(document.URL.indexOf('play_view_event')).split('/')[2];
-			evtSceneCodeObj.some(function(item) {
-				if (item.id == id) {
-					scenecode = item.sceneCode;
-					return true;
-				}
-			});
+	if (document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) {
+		if (document.URL.includes('play_view/')) {
+			scenecode = document.URL.slice(document.URL.indexOf('play_view/'));
+		} else if (document.URL.includes('play_view_event/')) {
+			scenecode = document.URL.slice(document.URL.indexOf('play_view_event/'));
 		}
-	} else if (document.URL.includes('play_view')) {
-		scenecode = document.URL.slice(document.URL.indexOf('play_view')).split('/');
-		var cp = scenecode[2];
-		var ep = scenecode[4];
 
-		scenecode = 'scene_cp' + cp + '_q' + ep;
-	} else if (document.URL.includes('scene_cp')) {
-		scenecode = document.URL.slice(document.URL.indexOf('scene_cp')).split('/')[0];
-		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
+		if (scenecode.includes('scene_')) return '';
+
+		scenecode = scenecode.split('/');
+		scenecode = scenecode[2] + scenecode[4];
+		var sceneNowNum = document.getElementsByClassName('now')[0].className;
+		sceneNowNum = sceneNowNum[sceneNowNum.length - 1];
+		scenecode = scenecode + sceneNowNum;
 	} else if (document.URL.includes('scene_')) {
-		scenecode = document.URL.slice(document.URL.indexOf('scene_')).split('/')[0];
-		scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-	}*/
+		scenecode = document.URL.slice(document.URL.indexOf('scene_'));
+		scenecode = scenecode.split('/')[0];
+	}
 
 	return scenecode;
 }
@@ -1758,7 +1745,6 @@ function SceneCodeFromURL(url) {
 // Observers
 var sceneObserver = new MutationObserver(function(mutations) {
 	mutations.some(function(mutation) {
-		// PrintLog(mutation);
 		if (!mutation.target.className) return;
 
 		if (mutation.target.className.includes('prt-log-display')) {
@@ -1770,7 +1756,6 @@ var sceneObserver = new MutationObserver(function(mutations) {
 			var textmessage = mutation.target.children[0].children[1].innerHTML
 				.replace(/(\r\n|\n|\r)/gm, '')
 				.trim();
-			var LogLength = mutation.target.children.length;
 			var nameNode = document.getElementsByClassName('txt-character-name')[0];
 
 			// Remove User's Name
@@ -1784,25 +1769,6 @@ var sceneObserver = new MutationObserver(function(mutations) {
 			}
 
 			/*
-            	스토리를 처음 시작하면 prt-log-display 자식 갯수가 1 이여야하고, storyText 변수의 length는 0이여야한다.
-            	그러나, prt-log-display의 자식 갯수가 1인데 storyText 변수에 2개 이상의 내용이 들어가있다면 
-            	다음 scene 페이지로 넘어가서 나타난 현상이므로 다음 scene을 진행하고있다고 판단하고 storyText_sceneIndex 를 1 증가.
-            	현재 에피소드에 대하여 다음 scene 페이지로 넘어갔다는 것을 판단할땐 현재 URL에 대해 갱신한 sceneCode와 저번 URL에서의 scenecode를 비교.
-            */
-			var newSceneCode = SceneCodeFromURL(document.URL);
-
-			if (LogLength === 1) {
-				if (storyText_index > 1) {
-					if (newSceneCode === oldSceneCode) {
-						storyText_index = 0;
-						storyText_sceneIndex++;
-					} else {
-						storyText_index = 0;
-						storyText_sceneIndex = 1;
-					}
-				}
-			}
-
 			if (exMode) {
 				if (storyText_index < LogLength) {
 					PrintLog(`storyText_index:${storyText_index}`);
@@ -1811,7 +1777,7 @@ var sceneObserver = new MutationObserver(function(mutations) {
 
 					oldSceneCode = newSceneCode;
 				}
-			}
+			}*/
 			if (transMode) {
 				sceneObserver.disconnect();
 				if (nameNode) {
@@ -1861,7 +1827,16 @@ var ImageObserverDIV = new MutationObserver(function(mutations) {
 var PopObserver = new MutationObserver(function(mutations) {
 	PopObserver.disconnect();
 	mutations.forEach(mutation => {
+		if (mutation.target.className.includes('pop-synopsis pop-show')) {
+			console.log(mutation.target);
+			GetTranslatedStoryText(
+				document.getElementsByClassName('prt-pop-synopsis')[0],
+				questJson
+			);
+		}
+
 		walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+
 		if (doImageSwap) {
 			walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
 			walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
@@ -1911,31 +1886,76 @@ async function ObserverArchive() {
 		window.setTimeout(ObserverArchive, generalConfig.refreshRate);
 		return;
 	}
+	if (
+		document.URL.includes('archive') ||
+		document.URL.includes('scene') ||
+		document.URL.includes('story') ||
+		document.URL.includes('tutorial')
+	) {
+		ObserverPop();
+		archiveObserver.observe(oText, config);
+		ObserveSceneText();
+		ObserverStorySelectTexts();
+	}
 	archiveObserver.observe(oText, config);
+}
+
+var storySelectTextsObserver = new MutationObserver(function(mutations) {
+	mutations.some(function(mutation) {
+		if (!mutation.target.className) return;
+		if (mutation.target.className.includes('prt-sel-inner')) {
+			var node = mutation.target;
+
+			for (var i = 0; i < node.children.length; ++i) {
+				GetTranslatedStoryText(node.children[i], questJson);
+			}
+		}
+	});
+	ObserverStorySelectTexts();
+});
+
+async function ObserverStorySelectTexts() {
+	var oText = document.getElementsByClassName('prt-sel-inner')[0];
+	if (!oText) {
+		//The node we need does not exist yet.
+		//Wait 500ms and try again
+		window.setTimeout(ObserverStorySelectTexts, generalConfig.refreshRate);
+		return;
+	}
+
+	if (
+		document.URL.includes('archive') ||
+		document.URL.includes('scene') ||
+		document.URL.includes('story') ||
+		document.URL.includes('tutorial')
+	) {
+		storySelectTextsObserver.observe(oText, config);
+	}
 }
 async function ObserverPop() {
 	// var oText = document.querySelector(".prt-scroll-title");
 	var oText = document.getElementById('loading');
-	if (!oText) {
-		//The node we need does not exist yet.
-		//Wait 500ms and try again
-		window.setTimeout(ObserverPop, generalConfig.refreshRate);
-		return;
-	}
-	if (document.URL.includes('raid')) {
-		window.setTimeout(ObserverPop, generalConfig.refreshRate);
-		return;
-	}
-	var popDIV = document.getElementById('pop');
-	if (popDIV) {
-		PopObserver.observe(popDIV, config);
-	}
-	var popDIV2 = document.querySelectorAll('[class^="pop-usual"]');
-	if (popDIV2) {
-		popDIV2.forEach(pop => {
-			PopObserver.observe(pop, config_simple);
-		});
-	}
+    if (!oText) {
+        //The node we need does not exist yet.
+        //Wait 500ms and try again
+        window.setTimeout(ObserverPop, generalConfig.refreshRate);
+        return;
+    }
+    if (document.URL.includes('#raid')) {
+        window.setTimeout(ObserverPop, generalConfig.refreshRate);
+        return;
+    }
+    var popDIV = document.getElementById('pop');
+    if (popDIV) {
+        PopObserver.observe(popDIV, config);
+    }
+    var popDIV2 = document.querySelectorAll('[class^="pop-usual"]');
+    if (popDIV2) {
+        popDIV2.forEach(pop => {
+            PopObserver.observe(pop, config_simple);
+        });
+    }
+    
 }
 async function ObserverBattle() {
 	// var oText = document.querySelector(".prt-scroll-title");
