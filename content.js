@@ -40,18 +40,10 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 	}
 	if (request.data == 'update') {
 		chrome.storage.local.set({
-			oTEXT: storyText,
+			sceneFullInfo: sceneFullInfo,
 			nTEXT: cNames,
-			mTEXT: miscs,
-			sceneFullInfo: sceneFullInfo
+			mTEXT: miscs
 		});
-	}
-	if (request.data == 'clearText') {
-		storyText = [];
-		storyText_index = 0;
-		storyText_sceneIndex = 1;
-		oldSceneCode = '';
-		chrome.storage.local.set({ oTEXT: storyText });
 	}
 	if (request.data == 'clearName') {
 		cNames = [];
@@ -62,10 +54,10 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 		chrome.storage.local.set({ mTEXT: miscs });
 	}
 	if (request.data == 'refresh') {
-		PrintLog(storyText);
+		PrintLog(sceneFullInfo);
 		PrintLog(cNames);
 		PrintLog(miscs);
-		chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+		chrome.storage.local.set({ sceneFullInfo: sceneFullInfo, nTEXT: cNames, mTEXT: miscs });
 	}
 });
 
@@ -189,7 +181,7 @@ function PushCSV(text, array) {
 	if (!array.includes(text)) {
 		if (array.includes(',')) array.push("'" + text + "'");
 		else array.push(text);
-		chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+		chrome.storage.local.set({  nTEXT: cNames, mTEXT: miscs });
 	}
 }
 
@@ -1333,7 +1325,7 @@ function readChromeOption(key) {
 }
 async function InitList() {
     var chromeOptions = await readChromeOption([
-        'oTEXT',
+		'sceneFullInfo',
         'nTEXT',
         'mTEXT',
         'verboseMode',
@@ -1345,8 +1337,8 @@ async function InitList() {
         'userFont',
         'userFontName'
     ]);
-    if (chromeOptions.oTEXT)
-        storyText = chromeOptions.oTEXT;
+    if (chromeOptions.sceneFullInfo)
+        sceneFullInfo = chromeOptions.sceneFullInfo;
     if (chromeOptions.nTEXT)
         cNames = chromeOptions.nTEXT;
     if (chromeOptions.mTEXT)
@@ -1443,7 +1435,6 @@ function translate_StoryText(stext, jsonFile) {
 			codes.some(function(code) {
 				if (code == curSceneCode) {
 					if (curLanugage == item.Language) {
-						console.log(stext);
 						stext = stext.split('\n').join('');
 						stext = stext.split('"').join("'");
 						if (stext == item.Origin) {
@@ -1617,7 +1608,6 @@ function GetTranslatedStoryText(node, csv) {
 
 			if (typeof textContents != 'undefined') {
 				if (node.className.includes('txt-sel')) {
-					console.log(textContents.innerHTML);
 					textContents.innerHTML = translate_StoryText(textContents.innerHTML, csv);
 					return;
 				}
@@ -1831,7 +1821,6 @@ var PopObserver = new MutationObserver(function(mutations) {
 	PopObserver.disconnect();
 	mutations.forEach(mutation => {
 		if (mutation.target.className.includes('pop-synopsis pop-show')) {
-			console.log(mutation.target);
 			GetTranslatedStoryText(
 				document.getElementsByClassName('prt-pop-synopsis')[0],
 				questJson
@@ -1934,7 +1923,6 @@ async function ObserverStorySelectTexts() {
 	) {
 		storySelectTextsObserver.observe(oText, config);
 	}
->>>>>>> dev
 }
 async function ObserverPop() {
 	// var oText = document.querySelector(".prt-scroll-title");
