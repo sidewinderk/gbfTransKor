@@ -4,6 +4,15 @@ document.addEventListener('DOMContentLoaded', function() {
             chrome.tabs.sendMessage(tabs[0].id, { data: "update", text: "" });
         });
     })()
+
+    // Restore options
+    chrome.storage.local.get(['extractMode', 'translateMode'], function(items) {
+        document.getElementById('translateModeChecker').checked = items.translateMode;
+        document.getElementById('extractModeChecker').checked = items.extractMode;
+        if (items.extractMode)
+            document.getElementById('extractModeWindow').style.display = 'block';
+    });
+
     let getTextBtn = document.getElementById('getText');
     let copyTextBtn = document.getElementById('copyText');
     let clearTextBtn = document.getElementById('cacheClearText');
@@ -29,6 +38,9 @@ document.addEventListener('DOMContentLoaded', function() {
         chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
             chrome.tabs.sendMessage(tabs[0].id, { data: "refresh", text: "" });
         });
+        textout.value = "";
+        nameout.value = "";
+        othersout.value = "";
     }
 
 
@@ -140,6 +152,27 @@ document.addEventListener('DOMContentLoaded', function() {
             chrome.runtime.openOptionsPage();
         } else {
             window.open(chrome.runtime.getURL('options.html'));
+        }
+    }
+
+    // Translate mode
+    document.getElementById('translateModeChecker').onclick = function() {
+        var transModeCurrent = document.getElementById('translateModeChecker').checked;
+        chrome.storage.local.set({
+            translateMode: transModeCurrent
+        }, function() {});
+    }
+
+    // DIV
+    document.getElementById('extractModeChecker').onclick = function() {
+        var extractModeCurrent = document.getElementById('extractModeChecker').checked;
+        chrome.storage.local.set({
+            extractMode: extractModeCurrent
+        }, function() {});
+        if (document.getElementById('extractModeChecker').checked) {
+            document.getElementById('extractModeWindow').style.display = 'block';
+        } else {
+            document.getElementById('extractModeWindow').style.display = 'none';
         }
     }
 });
