@@ -88,6 +88,74 @@ document.addEventListener('DOMContentLoaded', function() {
 		});
 	};
 
+	getNameBtn.onclick = function(element) {
+        chrome.storage.local.get(['nTEXT'], function(result) {
+            var outputtext = "orig,kr\n"
+            result.nTEXT.forEach(function(element) {
+                outputtext = outputtext + element + ",\n"
+            });
+            nameout.value = outputtext;
+        });
+    }
+    copyNameBtn.onclick = function(element) {
+        nameout.select();
+        nameout.setSelectionRange(0, 99999);
+        document.execCommand("copy");
+    }
+    downNameBtn.onclick = function(element) {
+        var result = confirm("Download name text csv file?");
+        if (result) {
+            var a = document.createElement('a');
+            with(a) {
+                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(nameout.value);
+                download = 'nameText.csv';
+            }
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+    }
+    clearNameBtn.onclick = function(element) {
+        chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+            chrome.tabs.sendMessage(tabs[0].id, { data: "clearName", text: "" });
+        });
+        nameout.value = "";
+    }
+
+    getMiscBtn.onclick = function(element) {
+        chrome.storage.local.get(['mTEXT'], function(result) {
+            var outputtext = "orig,kr\n"
+            result.mTEXT.forEach(function(element) {
+                outputtext = outputtext + element + ",\n"
+            });
+            othersout.value = outputtext;
+        });
+    }
+    copyMiscBtn.onclick = function(element) {
+        othersout.select();
+        othersout.setSelectionRange(0, 99999);
+        document.execCommand("copy");
+    }
+    downMiscBtn.onclick = function(element) {
+        var result = confirm("Download misc. text csv file?");
+        if (result) {
+            var a = document.createElement('a');
+            with(a) {
+                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(othersout.value);
+                download = 'miscText.csv';
+            }
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+    }
+    clearMiscBtn.onclick = function(element) {
+        chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+            chrome.tabs.sendMessage(tabs[0].id, { data: "clearMisc", text: "" });
+        });
+        othersout.value = "";
+    }
+	
 	document.getElementById('go-to-options').onclick = function(element) {
 		if (chrome.runtime.openOptionsPage) {
 			chrome.runtime.openOptionsPage();
@@ -122,4 +190,6 @@ document.addEventListener('DOMContentLoaded', function() {
 			document.getElementById('extractModeWindow').style.display = 'none';
 		}
 	};
+	
+
 });

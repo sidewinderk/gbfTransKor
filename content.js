@@ -179,6 +179,7 @@ function walkDownTreeStyle(node, command, variable = null) {
 function PushCSV(text, array) {
 	if (kCheck.test(text)) return;
 	if (!array.includes(text)) {
+		if(text.match(/&nbsp;/g)){ PrintLog('NOPE'); return;}
 		if (array.includes(',')) array.push("'" + text + "'");
 		else array.push(text);
 		chrome.storage.local.set({  nTEXT: cNames, mTEXT: miscs });
@@ -221,6 +222,8 @@ function PushCSV_StoryText(request) {
 			sceneJson.Type = 'synopsis';
 			sceneJson.Name = '';
 			item.synopsis = item.synopsis.split('\n').join('');
+			item.synopsis = item.synopsis.split('"').join("'");
+			item.synopsis = item.synopsis.split('&nbsp;').join(' ');
 			sceneJson.Origin = '"' + item.synopsis + '"';
 			sceneFullInfo.push(sceneJson);
 		}
@@ -231,6 +234,8 @@ function PushCSV_StoryText(request) {
 			sceneJson.Type = 'detail';
 			sceneJson.Name = item.charcter1_name != 'null' ? item.charcter1_name : '';
 			item.detail = item.detail.split('\n').join('');
+			item.detail = item.detail.split('"').join("'");
+			item.detail = item.detail.split('&nbsp;').join(' ');
 			sceneJson.Origin = '"' + item.detail + '"';
 			sceneFullInfo.push(sceneJson);
 		}
@@ -1419,7 +1424,7 @@ function translate_StoryText(stext, jsonFile) {
 	var transText = '';
 
 	PrintLog(`translate_StoryText taken: ${String(stext)}`);
-
+	
 	jsonFile.some(function(item) {
 		if (item.Korean == '\t' || item.Korean == ' ') {
 			return false;
@@ -1437,6 +1442,13 @@ function translate_StoryText(stext, jsonFile) {
 					if (curLanugage == item.Language) {
 						stext = stext.split('\n').join('');
 						stext = stext.split('"').join("'");
+						/*
+						stext = stext.replace(/\s+/g, " "); 이렇게하니까 &nbsp;에서 & 빼고 다 사라짐.
+						원래 &까지 다 사라지고 " "으로 대체되야하는데 왜이렇지? 모르겠다.
+						*/
+						stext = stext.replace(/&nbsp;/g, ' ');
+						item.Origin = item.Origin.replace(/\s+/g, " ");
+						
 						if (stext == item.Origin) {
 							transText = item.Korean;
 							return true;
@@ -1713,21 +1725,21 @@ function GetTranslatedImageDIV(node, csv) {
 function SceneCodeFromURL(url) {
 	var scenecode = '';
 
-	if (document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) {
+	if ( (document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) &&
+	   			!document.URL.includes('scene_')) {
 		if (document.URL.includes('play_view/')) {
 			scenecode = document.URL.slice(document.URL.indexOf('play_view/'));
 		} else if (document.URL.includes('play_view_event/')) {
 			scenecode = document.URL.slice(document.URL.indexOf('play_view_event/'));
 		}
 
-		if (scenecode.includes('scene_')) return '';
-
 		scenecode = scenecode.split('/');
 		scenecode = scenecode[2] + scenecode[4];
 		var sceneNowNum = document.getElementsByClassName('now')[0].className;
 		sceneNowNum = sceneNowNum[sceneNowNum.length - 1];
 		scenecode = scenecode + sceneNowNum;
-	} else if (document.URL.includes('scene_')) {
+	} 
+	if (document.URL.includes('scene_')) {
 		scenecode = document.URL.slice(document.URL.indexOf('scene_'));
 		scenecode = scenecode.split('/')[0];
 	}
@@ -1761,16 +1773,10 @@ var sceneObserver = new MutationObserver(function(mutations) {
 				textmessage = textmessage.replace(userName, generalConfig.deafultName);
 			}
 
-			/*
+			
 			if (exMode) {
-				if (storyText_index < LogLength) {
-					PrintLog(`storyText_index:${storyText_index}`);
-					PushCSV_StoryText(textmessage, storyText, newSceneCode);
-					PushCSV(textName, cNames);
-
-					oldSceneCode = newSceneCode;
-				}
-			}*/
+				PushCSV(textName, cNames);
+			}
 			if (transMode) {
 				sceneObserver.disconnect();
 				if (nameNode) {
