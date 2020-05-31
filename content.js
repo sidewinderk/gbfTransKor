@@ -4,13 +4,15 @@ var generalConfig = {
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
     // local DB: 'chrome-extension://ID'
     deafultName: "[グラン]", // Default original user name
-    deafultTransName: "[그랑]" // Default translated user name
+    deafultTransName: "[그랑]", // Default translated user name
+    defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquare.woff') format('woff');",
+    defaultFontName: "NanumSquare"
 };
 var isVerboseMode = false;
 var doImageSwap = false;
 var doBattleTrans = false;
-var transMode = true;
-var exMode = true;
+var transMode = false;
+var exMode = false;
 var initialize = false;
 var ObserverList = [];
 var userName = "";
@@ -48,9 +50,12 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
         chrome.storage.local.set({ mTEXT: miscs });
     }
     if (request.data == 'refresh') {
-        PrintLog(storyText);
-        PrintLog(cNames);
-        PrintLog(miscs);
+        storyText = [];
+        cNames = [];
+        miscs = [];
+        storyText_index = 0;
+        storyText_sceneIndex = 1;
+        oldSceneCode = '';
         chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
     }
 });
@@ -1254,37 +1259,50 @@ const parseCsv = str => {
 };
 
 ///
-
-async function InitList() {
-    chrome.storage.local.get(
-        [
-            'oTEXT',
-            'nTEXT',
-            'mTEXT',
-            'verboseMode',
-            'origin',
-            'imageswap',
-            'battleobserver',
-            'extractMode',
-            'translateMode'
-        ],
-        function(result) {
-            if (result.oTEXT) storyText = result.oTEXT;
-            if (result.nTEXT) cNames = result.nTEXT;
-            if (result.mTEXT) miscs = result.mTEXT;
-            // Default mode.
-            isVerboseMode = result.verboseMode;
-            if (result.imageswap) doImageSwap = true;
-            if (result.battleobserver) doBattleTrans = true;
-            transMode = result.translateMode;
-            exMode = result.extractMode;
-            if (result.origin) {
-                // PrintLog("oring: "+result.origin);
-                generalConfig.origin = result.origin;
-            } else generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
+function readChromeOption(key) {
+    return new Promise((resolve, reject) => {
+        if (key != null) {
+            chrome.storage.local.get(key, function(obj) {
+                resolve(obj);
+            });
+        } else {
+            reject(null);
         }
-    );
+    });
+}
+async function InitList() {
+    var chromeOptions = await readChromeOption([
+        'oTEXT',
+        'nTEXT',
+        'mTEXT',
+        'verboseMode',
+        'origin',
+        'imageswap',
+        'battleobserver',
+        'extractMode',
+        'translateMode',
+        'userFont',
+        'userFontName'
+    ]);
+    if (chromeOptions.oTEXT)
+        storyText = chromeOptions.oTEXT;
+    if (chromeOptions.nTEXT)
+        cNames = chromeOptions.nTEXT;
+    if (chromeOptions.mTEXT)
+        miscs = chromeOptions.mTEXT;
+    doImageSwap = chromeOptions.imageswap;
+    doBattleTrans = chromeOptions.battleobserver;
+    isVerboseMode = chromeOptions.verboseMode;
+    transMode = chromeOptions.translateMode;
+    exMode = chromeOptions.extractMode;
+    if (chromeOptions.origin) {
+        generalConfig.origin = chromeOptions.origin;
+    } else
+        generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
+    if (chromeOptions.userFont)
+        generalConfig.defaultFont = chromeOptions.userFont;
     // Use custom font
+<<<<<<< HEAD
     var styles = `
     @font-face {
       font-family: 'NanumSquareB';
@@ -1300,13 +1318,17 @@ async function InitList() {
   `;
     //src: url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff'); // Nanum Squre
     //src: url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+=======
+    var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
+    @font-face {font-family: 'CustomFont';font-style: normal;src: ${generalConfig.defaultFont};unicode-range: U+AC00-D7AF;}`;
+>>>>>>> upstream/master
     if (!initialize) {
         PrintLog("Initialized");
         var styleSheet = document.createElement('style');
         styleSheet.type = 'text/css';
         styleSheet.innerText = styles;
         document.head.appendChild(styleSheet);
-        document.body.style.fontFamily = 'NanumSquareB';
+        document.body.style.fontFamily = `CustomFont`;
         initialize = true;
     }
 
@@ -1459,7 +1481,8 @@ function GetTranslatedText(node, csv) {
             textInput.includes('li class') ||
             textInput.includes('a class') ||
             isNaN(textInput) == false || // Only number
-            isNaN(textInput.replace('/', '')) == false // number / number
+            isNaN(textInput.replace('/', '')) == false || // number / number
+            node.className.includes('txt-atk')
         )
             passOrNot = false;
 
@@ -1495,8 +1518,8 @@ function GetTranslatedText(node, csv) {
             }
             if (exMode) PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
-
-            translatedText = translate(textInput, csv);
+            if (transMode)
+                translatedText = translate(textInput, csv);
             if ((userName) &&
                 translatedText.includes(generalConfig.deafultTransName)) {
                 translatedText = translatedText.replace(generalConfig.deafultTransName, userName);
@@ -1519,8 +1542,8 @@ function GetTranslatedText(node, csv) {
                     if (!node.className.includes('-translated')) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
-                        style.innerText = `.${node
-							.classList[0]}::after{ content: "${translatedText}" !important; }`;
+                        var classNames = node.className.replace(' ', '.');
+                        style.innerText = `.${classNames}::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
@@ -1573,7 +1596,8 @@ function GetTranslatedImage(node, csv) {
         )
             return;
         PrintLog(`Send Image URL:${imageInput}`);
-        translatedText = GetTranslatedImageURL(imageInput, csv);
+        if (transMode)
+            translatedText = GetTranslatedImageURL(imageInput, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
             PrintLog(`Take translated URL:${translatedText}`);
@@ -1614,20 +1638,22 @@ function GetTranslatedImageDIV(node, csv) {
             imageStyle.includes('type-') ||
             node.className.includes('btn-switch-') ||
             node.className.includes('btn-image-check') ||
-            node.className.includes('btn-reset-')
+            node.className.includes('btn-reset-') ||
+            node.className.includes('btn-link')
         )
             passOrNot = true;
         if (!passOrNot) return;
         PrintLog(`Send DIV:${imageStyle} Class: ${node.className}`);
-        translatedText = GetTranslatedImageStyle(imageStyle, csv);
+        if (transMode)
+            translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
             if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
-                    style.innerText = `.${node
-						.classList[0]}::after{ background-image: ${translatedText}!important; }`;
+                    var classNames = node.className.replace(' ', '.');
+                    style.innerText = `.${classNames}::after{ background-image: ${translatedText}!important; }`;
                     document.head.appendChild(style);
                     node.className += ' ' + node.className + '-translated';
                 }
@@ -1842,7 +1868,7 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
@@ -1857,7 +1883,7 @@ async function ObserverPop() {
         window.setTimeout(ObserverPop, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverPop, generalConfig.refreshRate);
         return;
     }
@@ -1881,7 +1907,7 @@ async function ObserverBattle() {
         window.setTimeout(ObserverBattle, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         // In battle window, try to use 'white list' to get 
 
         var battleInfo1 = document.querySelectorAll('[class^="prt-command-chara"]');
@@ -1923,7 +1949,7 @@ async function ObserverImage() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
@@ -1939,7 +1965,7 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }

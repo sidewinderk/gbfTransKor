@@ -1,50 +1,155 @@
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <style>
-        button {
-          height: 30px;
-          width: 30px;
-          outline: none;
-          margin: 10px;
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
+    <style>
+        BODY {
+            font-family: 'NanumSquare';
+            font-size: 13px;
         }
-      </style>
-    </head>
-    <body>
-      <b>Main functions</b>
-      <br>
-      <label>
-        <input type="checkbox" id="isExtractMode">
-        Use Extraction mode
-      </label>
-      <label>
-        <input type="checkbox" id="isTranslateMode">
-        Translate the text
-      </label>
-      <label>
-        <input type="checkbox" id="isVerbose">
-        Set Verbose output(for development)
-      </label>
-      <br><br>
-      <b>Configuration for translations</b>
-      <br>
-      <label>
+        
+        .btntext {
+            font-family: 'NanumSquare';
+            font-size: normal;
+            font-weight: 700;
+            vertical-align: -3px;
+        }
+        /* The switch - the box around the slider */
+        
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 40px;
+            height: 24px;
+        }
+        /* Hide default HTML checkbox */
+        
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        /* The slider */
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 2px;
+            bottom: 2px;
+            background-color: white;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+        
+        input:checked+.slider {
+            background-color: #FF5733;
+        }
+        
+        input:focus+.slider {
+            box-shadow: 0 0 1px #FF5733;
+        }
+        
+        input:checked+.slider:before {
+            -webkit-transform: translateX(16px);
+            -ms-transform: translateX(16px);
+            transform: translateX(16px);
+        }
+        /* Rounded sliders */
+        
+        .slider.round {
+            border-radius: 24px;
+        }
+        
+        .slider.round:before {
+            border-radius: 50%;
+        }
+        
+        button {
+            height: 30px;
+            width: 30px;
+            outline: none;
+            margin: 10px;
+        }
+        
+        .myButton {
+            box-shadow: inset 0px 1px 0px 0px #f5978e;
+            background: linear-gradient(to bottom, #FF5733 5%, #c62d1f 100%);
+            background-color: #FF5733;
+            border-radius: 3px;
+            border: 1px solid #d02718;
+            display: inline-block;
+            cursor: pointer;
+            color: #ffffff;
+            font-family: Arial;
+            font-size: 15px;
+            font-weight: bold;
+            padding: 2px 24px;
+            text-decoration: none;
+            text-shadow: 0px 1px 0px #810e05;
+        }
+        
+        .myButton:hover {
+            background: linear-gradient(to bottom, #c62d1f 5%, #FF5733 100%);
+            background-color: #c62d1f;
+        }
+        
+        .myButton:active {
+            position: relative;
+            top: 1px;
+        }
+    </style>
+</head>
+
+<body>
+    <H1 style="font-family: 'NanumSquare';">상세 설정</H1>
+    <div id="status" style="display: none; color:#FF5733;">저장되었습니다</div>
+    <H2 style="font-family: 'NanumSquare';">번역 관련 추가 설정</H2>
+    <label class="switch">
         <input type="checkbox" id="doImageSwap">
-        Set Swapping Images
-      </label>
-      <label>
+        <span class="slider round"></span>
+      </label><span class="btntext"> 이미지 번역</span><br>
+    <label class="switch">
         <input type="checkbox" id="doBattleTranslation">
-        Set Battle text trainslation
-      </label>
-      <br><br>
-      <b>Configuration for DB</b>
-      <br>
-      DB path: <input type="text" id="origintext" value="https://sidewinderk.github.io/gbfTransKor" size="50"> <button id="useLocalDB" style="height: 20px;width:100px">Use Local DB</button><button id="useOnlineDB" style="height: 20px;width:120px">Use Online DB</button> <br>
-      local DB path can be used for the development mode.
-      <div id="status"></div>
-      <button id="save" style="width:100px">Save</button>
-      <br><br>
-      Link to GitHub: <a href="https://github.com/sidewinderk/gbfTransKor">https://github.com/sidewinderk/gbfTransKor</a>
-    </body>
-    <script src="options.js"></script>
-  </html>
+        <span class="slider round"></span>
+      </label><span class="btntext"> 전투 화면에서도 번역</span>
+    <br>
+    <hr>
+    <H2 style="font-family: 'NanumSquare';">개발자용 옵션</H2>
+    <label class="switch">
+        <input type="checkbox" id="isVerbose">
+        <span class="slider round"></span>
+      </label> <span class="btntext"> Set Verbose output(코드내 PrintLog 함수 활성화)</span><br>
+    <br>
+    <hr>
+    <H2 style="font-family: 'NanumSquare';">번역 데이터베이스 설정</H2>
+    데이터베이스 경로: <input type="text" id="origintext" value="https://sidewinderk.github.io/gbfTransKor" size="50" style="font-family: 'NanumSquare';"><br>
+    <button class="myButton" id="useLocalDB" style="height: 24px;width:140px">로컬 DB</button> <button class="myButton" id="useOnlineDB" style="height: 24px;width:140px">온라인 DB</button> <br> 로컬 데이터베이스는 초벌 번역 확인 및 개발 QA 과정에서 사용.
+    <hr>
+    <H2 style="font-family: 'NanumSquare';">한국어 폰트 설정</H2>
+    웹폰트 주소: <input type="text" id="fontaddr" value="url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff');" size="50" style="font-family: 'NanumSquare';">
+    <br><button class="myButton" id="nanumFont" style="height: 24px;width:140px">나눔스퀘어</button> <button class="myButton" id="youthFont" style="height: 24px;width:140px">청소년체</button> <button class="myButton" id="customFont" style="height: 24px;width:140px">유저폰트</button>
+    <br>유저폰트 예시(NanumSquare의 경우):
+    <br>주소에는 url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff'); 를 입력하고 '유저폰트' 버튼 클릭
+
+    <br><br> GitHub 링크: <a href="https://github.com/sidewinderk/gbfTransKor">https://github.com/sidewinderk/gbfTransKor</a>
+    <br> 번역시트(온라인 DB) 링크: <a href="https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing</a>
+</body>
+<script src="options.js"></script>
+
+</html>
