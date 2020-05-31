@@ -1,26 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
 	(function() {
-		chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
-			chrome.tabs.query(
-				{
-					title: 'Granblue Fantasy'
-				},
-				function(tabs) {
-					if (tabs.length == 0) {
-						chrome.tabs.query(
-							{
-								title: 'グランブルーファンタジー'
-							},
-							function(tabs) {
-								chrome.tabs.sendMessage(tabs[0].id, { data: 'update', text: '' });
-							}
-						);
-					} else {
-						chrome.tabs.sendMessage(tabs[0].id, { data: 'update', text: '' });
-					}
-				}
-			);
-		});
+		chrome.tabs.query(
+			{
+                "active": true, 
+                "lastFocusedWindow": true
+
+			},
+			function(tabs) {
+				
+					chrome.tabs.sendMessage(tabs[0].id, { data: 'update', text: '' });
+				
+			}
+		);
+		
 	})();
 	
 	let getTextBtn = document.getElementById('getText');
@@ -46,22 +38,38 @@ document.addEventListener('DOMContentLoaded', function() {
 	let getScenesBtn = document.getElementById('getScenes');
 	let ScenesOut = document.getElementById('Scenes');
 	let clearScenes = document.getElementById('clearScenes');
+	let downScenes=document.getElementById('downScenes');
 
+	downScenes.onclick=function(element){
+		var result = confirm('Download story text csv file?');
+		if (result) {
+			var a = document.createElement('a');
+			with (a) {
+				href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(ScenesOut.value);
+				download = 'storyText.csv';
+			}
+			document.body.appendChild(a);
+			a.click();
+			document.body.removeChild(a);
+		}	
+	}
+	
 	getScenesBtn.onclick = function(element) {
 		chrome.storage.local.get(['sceneFullInfo'], function(result) {
 			if (typeof result.sceneFullInfo == 'undefined') return;
-			console.log(result.sceneFullInfo);
-			var text = '';
+			//console.log(result.sceneFullInfo);
+			var text = 'Language,SceneCode,Type,Name,Origin,Korean\n';
 
 			result.sceneFullInfo.forEach(function(scene) {
-				text = text + scene.sceneCode + '\n';
-				scene.sceneText.forEach(function(obj) {
-					for (key in obj) {
-						text = text + key + ' : ' + obj[key] + '\n';
-					}
-				});
+				console.log(scene);
+				text = text + scene.Language + ',';
+				text = text + scene.SceneCode + ',';
+				text = text + scene.Type + ',';
+				text = text + scene.Name + ',';
+				text = text + scene.Origin + ',\n' ;
 			});
-
+			
+			
 			ScenesOut.value = text;
 		});
 	};
@@ -69,22 +77,16 @@ document.addEventListener('DOMContentLoaded', function() {
 	clearScenes.onclick = function(element) {
 		chrome.tabs.query(
 			{
-				title: 'Granblue Fantasy'
+				
+                "active": true, 
+                "lastFocusedWindow": true
+
 			},
 			function(tabs) {
-				if (tabs.length == 0) {
-					chrome.tabs.query(
-						{
-							title: 'グランブルーファンタジー'
-						},
-						function(tabs) {
-							chrome.tabs.sendMessage(tabs[0].id, { data: 'clearScenes', text: '' });
-						}
-					);
-				} else {
-					chrome.tabs.sendMessage(tabs[0].id, { data: 'clearScenes', text: '' });
+				
+				chrome.tabs.sendMessage(tabs[0].id, { data: 'clearScenes', text: '' });
 				}
-			}
+			
 		);
 		ScenesOut.value = '';
 	};
