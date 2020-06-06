@@ -1,187 +1,1484 @@
-Language,SceneCode,Type,Name,Origin,Korean
-!프롤로그,,,,,
-,,,,,
-Japaness,scene_evt200515_cp0_q1_s10,synopsis,,ある日、映画の撮影を終えた楓は食事の約束をしている卯月たちが戻ってくるのを楽屋で待っていた。楓は自分宛に届いていた缶飲料をお酒とは気づかないまま飲み、疲れと酔いから眠ってしまう。気がつくと楓は見知らぬ森におり、落ちていた本を拾ったことで持ち主と思われる黒い翼の生物に襲いかかられる。そこへ卯月たちが現れて楓を守り、楓にここが異世界だと伝えるのだった。,줄거리 번역 필요.
-Japaness,scene_evt200515_cp0_q1_s10,detail,？？？,今日はお疲れ様でした。<br>明日の撮影もよろしくお願いします。,오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,…………,…………
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楽屋に入り、ホッと溜め息をつく</span><br><span class='scene-font-katari'>ボブヘアの女性。</span>,"<span class=""scene-font-katari"">분장실에 들어가、휴우 하고 한숨을 짓는</span><br><span class=""scene-font-katari"">보브 헤어의 여성.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>彼女はアイドル・高垣楓。</span><br><span class='scene-font-katari'>今日は映画の撮影のため、</span><br><span class='scene-font-katari'>都内のスタジオを訪れていた。</span>,"<span class=""scene-font-katari"">그녀는 아이돌・타카가키 카에데.</span><br><span class=""scene-font-katari"">오늘은 영화촬영을 위해、</span><br><span class=""scene-font-katari"">도내의 스튜디오에 방문했다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（今日の撮影は</span><span class='scene-font-spword'>“ハード”</span><span class='scene-font-kokoro'>だったわ。</span><br><span class='scene-font-kokoro'>だから</span><span class='scene-font-spword'>“ハート”</span><span class='scene-font-kokoro'>もクタクタ……ふふっ）</span>,"<span class=""scene-font-kokoro"">（오늘 촬영은</span><span class=""scene-font-spword"">“하드”</span><span class=""scene-font-kokoro"">했었네.</span><br><span class=""scene-font-kokoro"">그러니까</span><span class=""scene-font-spword"">“하트”</span><span class=""scene-font-kokoro"">도 녹초……후훗）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（卯月ちゃんたちの撮影も</span><br><span class='scene-font-kokoro'>もうすぐ終わるって話だったから、</span><br><span class='scene-font-kokoro'>少し楽屋で待たせてもらおうかしら）</span>,"<span class=""scene-font-kokoro"">（우즈키네의 촬영도</span><br><span class=""scene-font-kokoro"">이제 곧 끝난다고 했으니까、</span><br><span class=""scene-font-kokoro"">조금 분장실에서 기다려볼까?）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は今日の撮影後に共演者である</span><br><span class='scene-font-katari'>卯月、凛、未央の３人と</span><br><span class='scene-font-katari'>夕食に行く約束をしていた。</span>,"<span class=""scene-font-katari"">카에데는 오늘 촬영 후에 조연인</span><br><span class=""scene-font-katari"">우즈키、린、미오 3명과 함께 </span><br><span class=""scene-font-katari"">저녁 식사를 할 약속을 하고 있었다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>撮影スケジュールの都合で楓だけ</span><br><span class='scene-font-katari'>早く今日の分を撮り終えたため、</span><br><span class='scene-font-katari'>先に楽屋に戻ってきたのだった。</span>,"<span class=""scene-font-katari"">촬영 스케쥴 상、 카에데만</span><br><span class=""scene-font-katari"">먼저 오늘 분의 촬영을 끝냈기 때문에、</span><br><span class=""scene-font-katari"">먼저 분장실로 돌아와 있었다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（プロデューサーはまた</span><br><span class='scene-font-kokoro'>打ち合わせだって言っていたし</span><br><span class='scene-font-kokoro'>夕食会には間に合うといいけど……）</span>,"<span class=""scene-font-kokoro"">（프로듀서는 또</span><br><span class=""scene-font-kokoro"">회의가 있다고 했었지</span><br><span class=""scene-font-kokoro"">저녁 식사 전에 끝나면 좋겠는데……）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,あら？,응？
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は机の隅に自分宛の小包が</span><br><span class='scene-font-katari'>置いてあることに気づく。</span>,"<span class=""scene-font-katari"">카에데는 책상 구석에 자신에게 온 소포가</span><br><span class=""scene-font-katari"">있다는 것을 깨달았다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（差出人は先月CMに</span><br><span class='scene-font-kokoro'>出させていただいたジュースの</span><br><span class='scene-font-kokoro'>メーカーさんの……）</span>,"<span class=""scene-font-kokoro"">（보낸 사람은 지난 달 CM을</span><br><span class=""scene-font-kokoro"">촬영 했던 쥬스</span><br><span class=""scene-font-kokoro"">메이커의……）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（そういえば今回の映画の</span><br><span class='scene-font-kokoro'>スポンサーにも入っていたような。</span><br><span class='scene-font-kokoro'>それで差し入れをくださったのね）</span>,"<span class=""scene-font-kokoro"">（그러고보니 이번 영화 </span><br><span class=""scene-font-kokoro"">스폰서에도 있었던 것 같아.</span><br><span class=""scene-font-kokoro"">그래서 격려 선물을 준 거구나.）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓が包みを開けると、</span><br><span class='scene-font-katari'>紙箱の中に缶飲料が</span><br><span class='scene-font-katari'>びっしりと詰まっていた。</span>,"<span class=""scene-font-katari"">카에데가 소포를 열어보니、</span><br><span class=""scene-font-katari"">종이 상자 안에 캔음료가</span><br><span class=""scene-font-katari"">빽빽하게 차 있었다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（缶のパッケージが前と違うけど、</span><br><span class='scene-font-kokoro'>リニューアルしたのかしら？</span><br><span class='scene-font-kokoro'>ふふっ、家のカーテンと同じ色……♪）</span>,"<span class=""scene-font-kokoro"">（캔 패키지가 예전과 다른데、</span><br><span class=""scene-font-kokoro"">리뉴얼 한 걸까?</span><br><span class=""scene-font-kokoro"">후훗、집의 커튼이랑 같은 색……♪）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（これ、とっても美味しかったから</span><br><span class='scene-font-kokoro'>卯月ちゃんたちやプロデューサーにも</span><br><span class='scene-font-kokoro'>お裾分けしようかしら）</span>,"<span class=""scene-font-kokoro"">（이거、정말로 맛있었었지</span><br><span class=""scene-font-kokoro"">우즈키나 프로듀서에게도</span><br><span class=""scene-font-kokoro"">나눠줄까?）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は均等に渡せる数を計算するため</span><br><span class='scene-font-katari'>缶の個数を確認する。</span>,"<span class=""scene-font-katari"">카에데는 균등하게 나눠줄 수를 세기 위해</span><br><span class=""scene-font-katari"">캔의 개수를 확인한다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（ひとり２本はありそう。</span><br><span class='scene-font-kokoro'>それなら私の分の１本はお先に……）</span>,"<span class=""scene-font-kokoro"">（한명당 2개는 줄 수 있겠네.</span><br><span class=""scene-font-kokoro"">그러면 내 몫인 하나를 먼저……）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,ごくごく……,꿀꺽꿀꺽……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,はぁっ！<br>前飲んだのとは違うフレーバーだわ！<br>とっても美味しい……,하아！<br>전에 마셨던 것과는 다른 향이었네！<br>정말로 맛있어……
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>撮影直後で喉が渇いていたこともあり、</span><br><span class='scene-font-katari'>楓はあっという間に</span><br><span class='scene-font-katari'>缶の中身を飲み干す。</span>,"<span class=""scene-font-katari"">촬영 직후에 목이 말랐던 것도 있어、</span><br><span class=""scene-font-katari"">카에데는 눈 깜짝할 사이에</span><br><span class=""scene-font-katari"">캔의 내용물을 다 마셔버렸다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,ふふっ、これは<br>なんていう味のジュースかしら？<br>まるでカクテルみたいに色々な味が……,후훗、이건<br>무슨 맛의 쥬스일까?<br>마치 칵테일 같은 다양한 맛이……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,って、よく見たら本当にお酒……？,응?、잘 보니 정말로 술……？
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>ジュースのパッケージを</span><br><span class='scene-font-katari'>改めてよく見ると、</span><br><span class='scene-font-katari'>そこには「お酒」の文字があった。</span>,"<span class=""scene-font-katari"">쥬스의 패키지를</span><br><span class=""scene-font-katari"">다시 자세히 살펴보니、</span><br><span class=""scene-font-katari"">거기엔 「술」이라는 글자가 적혀져있었다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（前に出させていただいたのは</span><br><span class='scene-font-kokoro'>ジュースのCMだったのに、</span><br><span class='scene-font-kokoro'>どうしてお酒が届いたのかしら？）</span>,"<span class=""scene-font-kokoro"">（전에 촬영했던 것은</span><br><span class=""scene-font-kokoro"">쥬스의 CM이었는데、</span><br><span class=""scene-font-kokoro"">어째서 술을 받은걸까？）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（ひょっとして、スポンサーさんが</span><br><span class='scene-font-kokoro'>私がお酒好きなのを知って、</span><br><span class='scene-font-kokoro'>わざわざカクテルを贈ってくれたの？）</span>,"<span class=""scene-font-kokoro"">（혹시、스폰서씨가</span><br><span class=""scene-font-kokoro"">내가 애주가라는 것을 알고、</span><br><span class=""scene-font-kokoro"">일부러 칵테일을 보내준거야？）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（嬉しい……</span><br><span class='scene-font-kokoro'>あとでスポンサーさんに</span><br><span class='scene-font-kokoro'>お礼を言わなくちゃ）</span>,"<span class=""scene-font-kokoro"">（기뻐……</span><br><span class=""scene-font-kokoro"">나중에 스폰서씨에게</span><br><span class=""scene-font-kokoro"">꼭 고맙다고 해야지）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（卯月ちゃんたちにはお預けだけど、</span><br><span class='scene-font-kokoro'>その分プロデューサーには</span><br><span class='scene-font-kokoro'>沢山お裾分けしてあげましょうね♪）</span>,"<span class=""scene-font-kokoro"">（우즈키네한테는 못주겠지만、</span><br><span class=""scene-font-kokoro"">그만큼 프로듀서에게는</span><br><span class=""scene-font-kokoro"">잔뜩 나눠줘야겠네♪）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>楓は空にした缶を</span><br><span class='scene-font-katari'>机に貼りつけられたゴミ袋に捨てる。</span>,"<span class=""scene-font-katari"">카에데는 빈 캔을</span><br><span class=""scene-font-katari"">책상에 붙어있는 쓰레기봉투에 버렸다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,ふわぁ……,후아……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（もう酔いが回ってきたみたい。</span><br><span class='scene-font-kokoro'>そんなに度数は高くなかったはずだけど</span><br><span class='scene-font-kokoro'>思っていたより疲れていたんだわ）</span>,"<span class=""scene-font-kokoro"">（벌써 취기가 오는 것 같아.</span><br><span class=""scene-font-kokoro"">그렇게 도수는 높지 않았던 것 같은데</span><br><span class=""scene-font-kokoro"">생각보다 지쳤었나보네）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>眠気を催した楓はパイプ椅子に座ると、</span><br><span class='scene-font-katari'>机に突っ伏してしまう。</span>,"<span class=""scene-font-katari"">잠기운이 온 카에데는 파이프 의자에 앉아서、</span><br><span class=""scene-font-katari"">책상 푹 엎드려 버렸다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（なんだかいい気持ち……</span><br><span class='scene-font-kokoro'>卯月ちゃんたちが戻ってくるまで、</span><br><span class='scene-font-kokoro'>ほんの少し、だけ……）</span>,"<span class=""scene-font-kokoro"">（왠지 좋은 기분……</span><br><span class=""scene-font-kokoro"">우즈키네가 돌아올 때 까지、</span><br><span class=""scene-font-kokoro"">아주 잠깐、만……）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,すぅ……すぅ……,스……스……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,う……ん…………<br>…………鳥の、声？,으……응…………<br>…………새、소리？
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（あれ……？</span><br><span class='scene-font-kokoro'>……どうして私、森にいるの？）</span>,"<span class=""scene-font-kokoro"">（어라……？</span><br><span class=""scene-font-kokoro"">……어째서 나、숲에 있는거야？）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（しかも私が着ているのって</span><br><span class='scene-font-kokoro'>撮影用の衣装よね？　さっき着替えて</span><br><span class='scene-font-kokoro'>衣装さんに返したはずなのに……）</span>,"<span class=""scene-font-kokoro"">（게다가 내가 입고있는 옷 이거</span><br><span class=""scene-font-kokoro"">촬영용 의상이지?　조금전에 갈아입고</span><br><span class=""scene-font-kokoro"">의상담당씨에게 돌려줬을텐데……）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,あら？,어머?
-Japaness,scene_evt200515_cp0_q1_s10,detail,？？？,ピーニャッ、ピーニャッ……,삐-냣、삐-냣……
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>奇妙な声のする方を見てみると、</span><br><span class='scene-font-katari'>黒い翼を生やした謎の生物が</span><br><span class='scene-font-katari'>何かを呟きながら本をめくっていた。</span>,"<span class=""scene-font-katari"">기묘한 소리가 나는 쪽을 바라보니、</span><br><span class=""scene-font-katari"">검은색 날개가 난 수수께끼의 생물이</span><br><span class=""scene-font-katari"">무언가를 중얼거리며 책을 넘기고 있었다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,<span class='scene-font-kokoro'>（着ぐるみかしら？</span><br><span class='scene-font-kokoro'>あの丸っとしたフォルム、</span><br><span class='scene-font-kokoro'>どこかで見たことがあるような……）</span>,"<span class=""scene-font-kokoro"">（인형옷일까?</span><br><span class=""scene-font-kokoro"">저 동그란 구조、</span><br><span class=""scene-font-kokoro"">어디에선가 본 적이 있는 것 같은……）</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピーニャッ、ピーニャッ……<br><span class='scene-font-4'>……ピニャッ！</span>,"삐-냣、삐-냣……<br><span class=""scene-font-4"">……삐냣！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャニャピニャ、ピーニャピニャッ！<br>ピニャニャピニャ、ピーニャピニャッ！,삐냐냐삐냐、삐-냐삐냣！<br>삐냐냐삐냐、삐-냐삐냣！
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャアッ！</span>,"<span class=""scene-font-4"">삐냐앗！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャアッ！</span>,"<span class=""scene-font-4"">삐냐앗！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,えっ？,응？
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>黒い翼の生物が何かを唱えると、</span><br><span class='scene-font-katari'>持っていた本から次々と</span><br><span class='scene-font-katari'>新たな黒い翼の生物が飛び出してくる。</span>,"<span class=""scene-font-katari"">검은 날개가 난 생물이 무언가 외치니、</span><br><span class=""scene-font-katari"">가지고있던 책으로부터 차례차례로</span><br><span class=""scene-font-katari"">새로운 검은 날개의 생물이 튀어나온다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,<span class='scene-font-2'>黒い翼の生物たち</span>,ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,まぁ……,어머……
-Japaness,scene_evt200515_cp0_q1_s10,detail,<span class='scene-font-2'>黒い翼の生物たち</span>,ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,…………,…………
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,えっと……<br>これはどういう状況なのかしら？<br>びっくり手品ショー？,음……<br>이건 어떤 상황인걸까？<br>깜짝 마술쇼？
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピ……ピィィ……,삐……삐이이……
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ビニャァァアアアーーー！！！</span>,"<span class=""scene-font-4"">삐냐아아아아아아ーーー！！！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>おしくらまんじゅう状態にあった</span><br><span class='scene-font-katari'>黒い翼の生物が同じ姿の仲間たちを</span><br><span class='scene-font-katari'>一気に押し返す。</span>,"<span class=""scene-font-katari"">동그랗게 뭉쳐있던</span><br><span class=""scene-font-katari"">검은 날개의 생물이 같은 모습의 동료들을</span><br><span class=""scene-font-katari"">한번에 되밀쳤다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>その拍子に持っていた本が</span><br><span class='scene-font-katari'>手から飛び出し、楓の前に落ちた。</span>,"<span class=""scene-font-katari"">그 박자에 가지고 있던 책이</span><br><span class=""scene-font-katari"">손으로 부터 떨어져나가、카에데 앞에 떨어졌다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,この本、マジック道具かしら？,이 책、마술도구인걸까?
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,こんなに小さな本から<br>あんなに沢山出てくるなんて、<br>一体どんな仕掛けなんでしょう？,이렇게 작은 책에서<br> 저렇게 많이 나오다니、<br>대체 어떤 장치지?
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャッ？　ピニャッ？,삐냣？　삐냣？
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャアーーー！！</span>,"<span class=""scene-font-4"">삐냐아ーーー！！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,え？,응？
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>黒い翼の生物が楓の方を指差し、</span><br><span class='scene-font-katari'>激怒したように地団太を踏み、</span><br><span class='scene-font-katari'>声を荒げる。</span>,"<span class=""scene-font-katari"">검은 날개의 생물이 카에데 쪽을 가리키며、</span><br><span class=""scene-font-katari"">격노한 것 처럼 발을 동동 구르며、</span><br><span class=""scene-font-katari"">언성을 높였다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャァア……<br><span class='scene-font-4'>ピニャァァアアアーー！！</span>,"삐냐아아……<br><span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,きゃっ……！,꺗……！
-Japaness,scene_evt200515_cp0_q1_s10,detail,？？？,<span class='scene-font-4'>危なーい！</span>,"<span class=""scene-font-4"">위험해！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャッ！？</span>,"<span class=""scene-font-4"">삐냣！？</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,未央,大丈夫？,괜찮아？
-Japaness,scene_evt200515_cp0_q1_s10,detail,未央,って、かえ姉さま！？<br>楓さんがどうして！？,엣、카에언니！？<br>카에데씨가 어째서！？
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,未央ちゃん……？<br>それに卯月ちゃんと凛ちゃんも。,미오……？<br>거기에 우즈키와 린도.
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,<span class='scene-font-4'>ピニャァァアアアーー！！</span>,"<span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,凛,向こうはやる気みたい。<br>卯月、未央、さっさと片づけよう。,저쪽은 한바탕 해 볼 생각인 것 같아.<br>우즈키、미오、빨리 정리해버리자.
-Japaness,scene_evt200515_cp0_q1_s10,detail,卯月,わかりました！<br><span class='scene-font-4'>えーいっ！</span>,"알겠어！<br><span class=""scene-font-4"">에-잇！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>颯爽と現れた卯月、凛、未央は</span><br><span class='scene-font-katari'>息の合った連係プレーで次々と</span><br><span class='scene-font-katari'>黒い翼の生物たちを追い払っていく。</span>,"<span class=""scene-font-katari"">씩씩하게 등장한 우즈키、린、미오는</span><br><span class=""scene-font-katari"">합이 맞은 연계 플레이로 차례차례</span><br><span class=""scene-font-katari"">검은 날개의 생물들을 쓰려뜨려간다.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,黒い翼の生物,ピニャア……<br><span class='scene-font-4'>ニャピッピィーー！！</span>,"삐냐아……<br><span class=""scene-font-4"">냐삣삐이ーー！！</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,未央,ふぅ……<br>数は多かったけど、<br>大した敵じゃなくてよかったぁ！,후우……<br>수는 많았지만、<br>대단한 적은 아니어서 다행이었어！
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,卯月ちゃんたちも衣装を着てる……<br>ということは、ここは撮影現場なのね？,우즈키네도 의상을 입고있어……<br>라는 건、여기는 촬영현장인거네？
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,撮影の邪魔をしてごめんなさい。<br>すぐに楽屋へ戻るわ。,촬영에 방해를 해서 미안.<br>바로 분장실로 돌아갈게.
-Japaness,scene_evt200515_cp0_q1_s10,detail,未央,えっ、撮影……？<br>楓さん、何の話？,응、촬영……？<br>카에데씨、무슨 이야기？
-Japaness,scene_evt200515_cp0_q1_s10,detail,ビィ,おーい！　大丈夫か？,어-이！　괜찮아？
-Japaness,scene_evt200515_cp0_q1_s10,detail,ビィ,って、誰だ、この姉ちゃん？,응?、누구야、그 누님은？
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,まぁ、よくできたぬいぐるみ！<br>上手にお喋りできるのね！,어머、잘 만들어진 인형！<br>능숙하게 말할 수 있네！
-Japaness,scene_evt200515_cp0_q1_s10,detail,ビィ,んなっ！<br>オイラはぬいぐるみじゃねぇ！<br>ドラゴンだぞ！,뭐라구！<br>이몸은 인형이 아냐！<br>드래곤이라구！
-Japaness,scene_evt200515_cp0_q1_s10,detail,凛,撮影……楽屋……<br>ぬいぐるみと勘違い……<br>これって……,촬영……분장실……<br>인형으로 착각……<br>이건……
-Japaness,scene_evt200515_cp0_q1_s10,detail,未央,私たちがこの世界に来た直後と<br>同じこと言ってるよね？<br>楓さん、いまこっちに来たのかな？,우리들이 이 세계에 왔던 직후와<br>같은 이야기들을 하고 있지？<br>카에데씨、지금 이쪽으로 온걸까？
-Japaness,scene_evt200515_cp0_q1_s10,detail,卯月,そうかもしれません。<br>私たちのこと、勘違いしてるのかも……,그럴지도 몰라.<br>우리들에 대해、오해하고 있을지도……
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,あの、３人とも、<br>なんの話をしてるのかしら？<br>撮影中、なんですよね……？,저기、세명 모두、<br>무슨 이야기 하고 있는걸까？<br>촬영중、이지……？
-Japaness,scene_evt200515_cp0_q1_s10,detail,凛,……言うしかないか。,……말할 수 밖에 없나.
-Japaness,scene_evt200515_cp0_q1_s10,detail,凛,楓さん、落ち着いて聞いてください。<br>ここは私たちが元いた場所とは別の、<br>異世界なんです。,카에데씨、침착하고 들어주세요.<br>여기는 우리들이 원래 있던 장소와는 다른、<br>이세계입니다.。
-Japaness,scene_evt200515_cp0_q1_s10,detail,楓,異世界……？<br>……え？,이세계……？<br>……응？
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>突如空の世界に</span><br><span class='scene-font-katari'>迷い込んで来てしまった楓。</span>,"<span class=""scene-font-katari"">돌연 하늘의 세계에</span><br><span class=""scene-font-katari"">헤메어 들어오게 된 카에데.</span>"
-Japaness,scene_evt200515_cp0_q1_s10,detail,,<span class='scene-font-katari'>果たして異世界の地で</span><br><span class='scene-font-katari'>彼女を待ち受けているものとは──？</span>,"<span class=""scene-font-katari"">과연 이세계의 땅에서</span><br><span class=""scene-font-katari"">그녀를 기다리고 있던 것은──？</span>"
-English,scene_evt200515_cp0_q1_s10,synopsis,,"While waiting to meet up with other idols in the dressing room, Kaede falls asleep from a cocktail-like drink and the exhaustion she was already feeling. Kaede awakens in a forest, where she is almost attacked by a black-winged creature after picking up a book lying on the ground. Uzuki, Rin, and Mio save her and explain that they're in an alternate world.",줄거리 번역 필요.
-English,scene_evt200515_cp0_q1_s10,detail,???,"Nice work, everyone. We'll continue shooting tomorrow.",오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
-English,scene_evt200515_cp0_q1_s10,detail,???,...,…………
-English,scene_evt200515_cp0_q1_s10,detail,,A bob-haired woman takes a deep breath and enters the dressing room.,"<span class=""scene-font-katari"">분장실에 들어가、휴우 하고 한숨을 짓는</span><br><span class=""scene-font-katari"">보브 헤어의 여성.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,She is the idol Kaede Takagaki. She's come to a production studio in the city to film a movie scene.,"<span class=""scene-font-katari"">그녀는 아이돌・타카가키 카에데.</span><br><span class=""scene-font-katari"">오늘은 영화촬영을 위해、</span><br><span class=""scene-font-katari"">도내의 스튜디오에 방문했다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(A difficult shoot like today's can be rather dis<span class='scene-font-italic'>heart</span>ening. But I'm confident I have the <span class='scene-font-italic'>heart</span> to power through it all. Hehe.),"<span class=""scene-font-kokoro"">（오늘 촬영은</span><span class=""scene-font-spword"">“하드”</span><span class=""scene-font-kokoro"">했었네.</span><br><span class=""scene-font-kokoro"">그러니까</span><span class=""scene-font-spword"">“하트”</span><span class=""scene-font-kokoro"">도 녹초……후훗）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Uzuki-chan and the others should be done with their part soon. I guess I'll wait for them in the dressing room.),"<span class=""scene-font-kokoro"">（우즈키네의 촬영도</span><br><span class=""scene-font-kokoro"">이제 곧 끝난다고 했으니까、</span><br><span class=""scene-font-kokoro"">조금 분장실에서 기다려볼까?）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,"Kaede has plans to go for dinner with Uzuki, Rin, and Mio.","<span class=""scene-font-katari"">카에데는 오늘 촬영 후에 조연인</span><br><span class=""scene-font-katari"">우즈키、린、미오 3명과 함께 </span><br><span class=""scene-font-katari"">저녁 식사를 할 약속을 하고 있었다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,"Due to minor scheduling changes, Kaede finished her part early for the day and now waits for the others.","<span class=""scene-font-katari"">촬영 스케쥴 상、 카에데만</span><br><span class=""scene-font-katari"">먼저 오늘 분의 촬영을 끝냈기 때문에、</span><br><span class=""scene-font-katari"">먼저 분장실로 돌아와 있었다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,The producer mentioned having more meetings to attend. I just hope he'll be free to join us for dinner later.,"<span class=""scene-font-kokoro"">（프로듀서는 또</span><br><span class=""scene-font-kokoro"">회의가 있다고 했었지</span><br><span class=""scene-font-kokoro"">저녁 식사 전에 끝나면 좋겠는데……）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Huh?,응？
-English,scene_evt200515_cp0_q1_s10,detail,,Kaede notices a small box addressed to her placed on a corner of the desk.,"<span class=""scene-font-katari"">카에데는 책상 구석에 자신에게 온 소포가</span><br><span class=""scene-font-katari"">있다는 것을 깨달았다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(This is from the juice manufacturer that had me star in their commercial last month...),"<span class=""scene-font-kokoro"">（보낸 사람은 지난 달 CM을</span><br><span class=""scene-font-kokoro"">촬영 했던 쥬스</span><br><span class=""scene-font-kokoro"">메이커의……）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Oh, that's right. They're a sponsor for this movie too. That explains what the gift is for.)","<span class=""scene-font-kokoro"">（그러고보니 이번 영화 </span><br><span class=""scene-font-kokoro"">스폰서에도 있었던 것 같아.</span><br><span class=""scene-font-kokoro"">그래서 격려 선물을 준 거구나.）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,Kaede opens the box to find cans of juice neatly packed within.,"<span class=""scene-font-katari"">카에데가 소포를 열어보니、</span><br><span class=""scene-font-katari"">종이 상자 안에 캔음료가</span><br><span class=""scene-font-katari"">빽빽하게 차 있었다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(They must've updated the packaging; it looks different from last time. Haha, these are the same colors on my curtains at home.)","<span class=""scene-font-kokoro"">（캔 패키지가 예전과 다른데、</span><br><span class=""scene-font-kokoro"">리뉴얼 한 걸까?</span><br><span class=""scene-font-kokoro"">후훗、집의 커튼이랑 같은 색……♪）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(I remember it being pretty good. Maybe I should share some with the others.),"<span class=""scene-font-kokoro"">（이거、정말로 맛있었었지</span><br><span class=""scene-font-kokoro"">우즈키나 프로듀서에게도</span><br><span class=""scene-font-kokoro"">나눠줄까?）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,Kaede counts her juice cans to determine how many to give to her friends.,"<span class=""scene-font-katari"">카에데는 균등하게 나눠줄 수를 세기 위해</span><br><span class=""scene-font-katari"">캔의 개수를 확인한다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Two for each. And I'll take one for myself now.),"<span class=""scene-font-kokoro"">（한명당 2개는 줄 수 있겠네.</span><br><span class=""scene-font-kokoro"">그러면 내 몫인 하나를 먼저……）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Glug...,꿀꺽꿀꺽……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Phew! It's a different flavor from the one I had last time! Not bad at all...,하아！<br>전에 마셨던 것과는 다른 향이었네！<br>정말로 맛있어……
-English,scene_evt200515_cp0_q1_s10,detail,,"Feeling thirsty from a hard day of work, Kaede downs the entire can in one go.","<span class=""scene-font-katari"">촬영 직후에 목이 말랐던 것도 있어、</span><br><span class=""scene-font-katari"">카에데는 눈 깜짝할 사이에</span><br><span class=""scene-font-katari"">캔의 내용물을 다 마셔버렸다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,I wonder what they put in here. It kind of tastes like a cocktail...,후훗、이건<br>무슨 맛의 쥬스일까?<br>마치 칵테일 같은 다양한 맛이……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Oh wait, there's alcohol in here...",응?、잘 보니 정말로 술……？
-English,scene_evt200515_cp0_q1_s10,detail,,"A closer look at the packaging reveals the words contains alcohol.""""","<span class=""scene-font-katari"">쥬스의 패키지를</span><br><span class=""scene-font-katari"">다시 자세히 살펴보니、</span><br><span class=""scene-font-katari"">거기엔 「술」이라는 글자가 적혀져있었다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Why would they send me booze when it was a juice commercial that I did?),"<span class=""scene-font-kokoro"">（전에 촬영했던 것은</span><br><span class=""scene-font-kokoro"">쥬스의 CM이었는데、</span><br><span class=""scene-font-kokoro"">어째서 술을 받은걸까？）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Could it be that they knew my preferences and chose this cocktail intentionally?),"<span class=""scene-font-kokoro"">（혹시、스폰서씨가</span><br><span class=""scene-font-kokoro"">내가 애주가라는 것을 알고、</span><br><span class=""scene-font-kokoro"">일부러 칵테일을 보내준거야？）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(Aren't I lucky... I'll have to thank them personally later.),"<span class=""scene-font-kokoro"">（기뻐……</span><br><span class=""scene-font-kokoro"">나중에 스폰서씨에게</span><br><span class=""scene-font-kokoro"">꼭 고맙다고 해야지）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Welp, I can't very well give these to the girls. The producer's going to be pleased to have so many.)","<span class=""scene-font-kokoro"">（우즈키네한테는 못주겠지만、</span><br><span class=""scene-font-kokoro"">그만큼 프로듀서에게는</span><br><span class=""scene-font-kokoro"">잔뜩 나눠줘야겠네♪）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,Kaede chucks the can into the trash bag taped to the desk.,"<span class=""scene-font-katari"">카에데는 빈 캔을</span><br><span class=""scene-font-katari"">책상에 붙어있는 쓰레기봉투에 버렸다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Yawn...,후아……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Am I starting to feel the effects already? That's strange, considering the alcohol content's not supposed to be that high. Maybe I'm more tired than I thought.)","<span class=""scene-font-kokoro"">（벌써 취기가 오는 것 같아.</span><br><span class=""scene-font-kokoro"">그렇게 도수는 높지 않았던 것 같은데</span><br><span class=""scene-font-kokoro"">생각보다 지쳤었나보네）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,"Taking a seat on the folding chair, Kaede sprawls out on the desk.","<span class=""scene-font-katari"">잠기운이 온 카에데는 파이프 의자에 앉아서、</span><br><span class=""scene-font-katari"">책상 푹 엎드려 버렸다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(This is so comfy... Wouldn't hurt to take a short nap until they get back...),"<span class=""scene-font-kokoro"">（왠지 좋은 기분……</span><br><span class=""scene-font-kokoro"">우즈키네가 돌아올 때 까지、</span><br><span class=""scene-font-kokoro"">아주 잠깐、만……）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Zzz...,스……스……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Mng... Are those... birds I'm hearing?,으……응…………<br>…………새、소리？
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(What the... What am I doing in a forest?),"<span class=""scene-font-kokoro"">（어라……？</span><br><span class=""scene-font-kokoro"">……어째서 나、숲에 있는거야？）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,(And how am I still in the outfit I wear on set? I definitely remember changing out of it and returning it earlier...),"<span class=""scene-font-kokoro"">（게다가 내가 입고있는 옷 이거</span><br><span class=""scene-font-kokoro"">촬영용 의상이지?　조금전에 갈아입고</span><br><span class=""scene-font-kokoro"">의상담당씨에게 돌려줬을텐데……）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Huh?,어머?
-English,scene_evt200515_cp0_q1_s10,detail,???,"Piña, piña...",삐-냣、삐-냣……
-English,scene_evt200515_cp0_q1_s10,detail,,Kaede turns toward the peculiar voice only to find a black-winged creature flipping through a book while muttering something.,"<span class=""scene-font-katari"">기묘한 소리가 나는 쪽을 바라보니、</span><br><span class=""scene-font-katari"">검은색 날개가 난 수수께끼의 생물이</span><br><span class=""scene-font-katari"">무언가를 중얼거리며 책을 넘기고 있었다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"(Must be a costume. Either way, I feel like I've seen that shape somewhere before...)","<span class=""scene-font-kokoro"">（인형옷일까?</span><br><span class=""scene-font-kokoro"">저 동그란 구조、</span><br><span class=""scene-font-kokoro"">어디에선가 본 적이 있는 것 같은……）</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piiña, piiña... Piña!","삐-냣、삐-냣……<br><span class=""scene-font-4"">……삐냣！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piñañapiña, piiñapiña!<br>Piñañapiña, piiñapiña!",삐냐냐삐냐、삐-냐삐냣！<br>삐냐냐삐냐、삐-냐삐냣！
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa!,"<span class=""scene-font-4"">삐냐앗！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa!,"<span class=""scene-font-4"">삐냐앗！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Wha?,응？
-English,scene_evt200515_cp0_q1_s10,detail,,"As what seems like an incantation continues, other similar creatures come flying out of the book.","<span class=""scene-font-katari"">검은 날개가 난 생물이 무언가 외치니、</span><br><span class=""scene-font-katari"">가지고있던 책으로부터 차례차례로</span><br><span class=""scene-font-katari"">새로운 검은 날개의 생물이 튀어나온다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piñapiña piña piña, piñapiña. Piñapiña, piñapiñapiña...",삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Oh my...,어머……
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,"Piñapiña piña piña, piñapiña. Piñapiña, piñapiñapiña...",삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,...,…………
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Um, did I just walk into some sort of magic show?",음……<br>이건 어떤 상황인걸까？<br>깜짝 마술쇼？
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Pi... Pii...,삐……삐이이……
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaaaaa!,"<span class=""scene-font-4"">삐냐아아아아아아ーーー！！！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,"Sandwiched by its fellow winged brethren, the first creature pushes back at the others to make room for itself.","<span class=""scene-font-katari"">동그랗게 뭉쳐있던</span><br><span class=""scene-font-katari"">검은 날개의 생물이 같은 모습의 동료들을</span><br><span class=""scene-font-katari"">한번에 되밀쳤다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,"The momentum sends the book sailing out of its hands, landing before Kaede.","<span class=""scene-font-katari"">그 박자에 가지고 있던 책이</span><br><span class=""scene-font-katari"">손으로 부터 떨어져나가、카에데 앞에 떨어졌다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,This must be some sort of magical tome.,이 책、마술도구인걸까?
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,I can't think of any other explanation for how all those creatures could come out of this tiny book.,이렇게 작은 책에서<br> 저렇게 많이 나오다니、<br>대체 어떤 장치지?
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piña? Piña?,삐냣？　삐냣？
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa!,"<span class=""scene-font-4"">삐냐아ーーー！！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,What?,응？
-English,scene_evt200515_cp0_q1_s10,detail,,"Pointing to Kaede, one of them stomps the ground in a fit of rage and takes on a harsher tone.","<span class=""scene-font-katari"">검은 날개의 생물이 카에데 쪽을 가리키며、</span><br><span class=""scene-font-katari"">격노한 것 처럼 발을 동동 구르며、</span><br><span class=""scene-font-katari"">언성을 높였다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa... Piñaaaa!,"삐냐아아……<br><span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Ergh!,꺗……！
-English,scene_evt200515_cp0_q1_s10,detail,???,Watch out!,"<span class=""scene-font-4"">위험해！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piña?,"<span class=""scene-font-4"">삐냣！？</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Mio,Are you okay?,괜찮아？
-English,scene_evt200515_cp0_q1_s10,detail,Mio,Wha... It's Kae-neesama! What are you doing here?,엣、카에언니！？<br>카에데씨가 어째서！？
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Mio-chan? Uzuki-chan and Rin-chan too.,미오……？<br>거기에 우즈키와 린도.
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaaaa!,"<span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Rin,"Looks like they're up for a fight. Uzuki, Mio, let's do this.",저쪽은 한바탕 해 볼 생각인 것 같아.<br>우즈키、미오、빨리 정리해버리자.
-English,scene_evt200515_cp0_q1_s10,detail,Uzuki,I'm ready to go! Hyaah!,"알겠어！<br><span class=""scene-font-4"">에-잇！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,"Uzuki, Rin, and Mio bash the creatures away in tandem, their movements trained.","<span class=""scene-font-katari"">씩씩하게 등장한 우즈키、린、미오는</span><br><span class=""scene-font-katari"">합이 맞은 연계 플레이로 차례차례</span><br><span class=""scene-font-katari"">검은 날개의 생물들을 쓰려뜨려간다.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Black-Wings,Piñaa... Piñapipiii!,"삐냐아……<br><span class=""scene-font-4"">냐삣삐이ーー！！</span>"
-English,scene_evt200515_cp0_q1_s10,detail,Mio,"Whew... They might be swarming us, but they're not too tough thankfully!",후우……<br>수는 많았지만、<br>대단한 적은 아니어서 다행이었어！
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Hey, you're all in uniform too... That must mean you're still filming.",우즈키네도 의상을 입고있어……<br>라는 건、여기는 촬영현장인거네？
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Sorry for getting in the way. I'll get back to the dressing room now.,촬영에 방해를 해서 미안.<br>바로 분장실로 돌아갈게.
-English,scene_evt200515_cp0_q1_s10,detail,Mio,"Er... You've lost us, Kaede-san.",응、촬영……？<br>카에데씨、무슨 이야기？
-English,scene_evt200515_cp0_q1_s10,detail,Vyrn,Hey! Everyone all right?,어-이！　괜찮아？
-English,scene_evt200515_cp0_q1_s10,detail,Vyrn,"Oh, who's this lady?",응?、누구야、그 누님은？
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"My goodness, what an adorable plushie! It even talks!",어머、잘 만들어진 인형！<br>능숙하게 말할 수 있네！
-English,scene_evt200515_cp0_q1_s10,detail,Vyrn,"Gah, I ain't no plushie! I'm a dragon in the flesh!",뭐라구！<br>이몸은 인형이 아냐！<br>드래곤이라구！
-English,scene_evt200515_cp0_q1_s10,detail,Rin,Filming... Dressing room... Mistaking Vyrn for a plushie... It all rings a bell...,촬영……분장실……<br>인형으로 착각……<br>이건……
-English,scene_evt200515_cp0_q1_s10,detail,Mio,Sounds like us when we first came to this world. Could Kaede-san have arrived just now?,우리들이 이 세계에 왔던 직후와<br>같은 이야기들을 하고 있지？<br>카에데씨、지금 이쪽으로 온걸까？
-English,scene_evt200515_cp0_q1_s10,detail,Uzuki,It's possible. That would explain the misunderstanding.,그럴지도 몰라.<br>우리들에 대해、오해하고 있을지도……
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,"Um, what are you three talking about? Shouldn't you be focusing on the scene?",저기、세명 모두、<br>무슨 이야기 하고 있는걸까？<br>촬영중、이지……？
-English,scene_evt200515_cp0_q1_s10,detail,Rin,We'll have to tell her...,……말할 수 밖에 없나.
-English,scene_evt200515_cp0_q1_s10,detail,Rin,"Kaede-san, please stay calm and listen. You've come to a different world, separate from the one we called home.",카에데씨、침착하고 들어주세요.<br>여기는 우리들이 원래 있던 장소와는 다른、<br>이세계입니다.。
-English,scene_evt200515_cp0_q1_s10,detail,Kaede,Different world? What?,이세계……？<br>……응？
-English,scene_evt200515_cp0_q1_s10,detail,,As the latest wanderer into the Sky Realm...,"<span class=""scene-font-katari"">돌연 하늘의 세계에</span><br><span class=""scene-font-katari"">헤메어 들어오게 된 카에데.</span>"
-English,scene_evt200515_cp0_q1_s10,detail,,Only time will tell what fate awaits Kaede in this strange new world.,"<span class=""scene-font-katari"">과연 이세계의 땅에서</span><br><span class=""scene-font-katari"">그녀를 기다리고 있던 것은──？</span>"
+index,sceneCode,orig,kr
+!프롤로그
+0,"scene_evt200515_cp0_q1,1",今日はお疲れ様でした。<br>明日の撮影もよろしくお願いします。,오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
+1,"scene_evt200515_cp0_q1,1",…………,…………
+2,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楽屋に入り、ホッと溜め息をつく</span><br><span class=""scene-font-katari"">ボブヘアの女性。</span>","<span class=""scene-font-katari"">분장실에 들어가、휴우 하고 한숨을 짓는</span><br><span class=""scene-font-katari"">보브 헤어의 여성.</span>"
+3,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">彼女はアイドル・高垣楓。</span><br><span class=""scene-font-katari"">今日は映画の撮影のため、</span><br><span class=""scene-font-katari"">都内のスタジオを訪れていた。</span>","<span class=""scene-font-katari"">그녀는 아이돌・타카가키 카에데.</span><br><span class=""scene-font-katari"">오늘은 영화촬영을 위해、</span><br><span class=""scene-font-katari"">도내의 스튜디오에 방문했다.</span>"
+4,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（今日の撮影は</span><span class=""scene-font-spword"">“ハード”</span><span class=""scene-font-kokoro"">だったわ。</span><br><span class=""scene-font-kokoro"">だから</span><span class=""scene-font-spword"">“ハート”</span><span class=""scene-font-kokoro"">もクタクタ……ふふっ）</span>","<span class=""scene-font-kokoro"">（오늘 촬영은</span><span class=""scene-font-spword"">“하드”</span><span class=""scene-font-kokoro"">했었네.</span><br><span class=""scene-font-kokoro"">그러니까</span><span class=""scene-font-spword"">“하트”</span><span class=""scene-font-kokoro"">도 녹초……후훗）</span>"
+5,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（卯月ちゃんたちの撮影も</span><br><span class=""scene-font-kokoro"">もうすぐ終わるって話だったから、</span><br><span class=""scene-font-kokoro"">少し楽屋で待たせてもらおうかしら）</span>","<span class=""scene-font-kokoro"">（우즈키네의 촬영도</span><br><span class=""scene-font-kokoro"">이제 곧 끝난다고 했으니까、</span><br><span class=""scene-font-kokoro"">조금 분장실에서 기다려볼까?）</span>"
+6,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は今日の撮影後に共演者である</span><br><span class=""scene-font-katari"">卯月、凛、未央の３人と</span><br><span class=""scene-font-katari"">夕食に行く約束をしていた。</span>","<span class=""scene-font-katari"">카에데는 오늘 촬영 후에 조연인</span><br><span class=""scene-font-katari"">우즈키、린、미오 3명과 함께 </span><br><span class=""scene-font-katari"">저녁 식사를 할 약속을 하고 있었다.</span>"
+7,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">撮影スケジュールの都合で楓だけ</span><br><span class=""scene-font-katari"">早く今日の分を撮り終えたため、</span><br><span class=""scene-font-katari"">先に楽屋に戻ってきたのだった。</span>","<span class=""scene-font-katari"">촬영 스케쥴 상、 카에데만</span><br><span class=""scene-font-katari"">먼저 오늘 분의 촬영을 끝냈기 때문에、</span><br><span class=""scene-font-katari"">먼저 분장실로 돌아와 있었다.</span>"
+8,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（プロデューサーはまた</span><br><span class=""scene-font-kokoro"">打ち合わせだって言っていたし</span><br><span class=""scene-font-kokoro"">夕食会には間に合うといいけど……）</span>","<span class=""scene-font-kokoro"">（프로듀서는 또</span><br><span class=""scene-font-kokoro"">회의가 있다고 했었지</span><br><span class=""scene-font-kokoro"">저녁 식사 전에 끝나면 좋겠는데……）</span>"
+9,"scene_evt200515_cp0_q1,1",あら？,응？
+10,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は机の隅に自分宛の小包が</span><br><span class=""scene-font-katari"">置いてあることに気づく。</span>","<span class=""scene-font-katari"">카에데는 책상 구석에 자신에게 온 소포가</span><br><span class=""scene-font-katari"">있다는 것을 깨달았다.</span>"
+11,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（差出人は先月CMに</span><br><span class=""scene-font-kokoro"">出させていただいたジュースの</span><br><span class=""scene-font-kokoro"">メーカーさんの……）</span>","<span class=""scene-font-kokoro"">（보낸 사람은 지난 달 CM을</span><br><span class=""scene-font-kokoro"">촬영 했던 쥬스</span><br><span class=""scene-font-kokoro"">메이커의……）</span>"
+12,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（そういえば今回の映画の</span><br><span class=""scene-font-kokoro"">スポンサーにも入っていたような。</span><br><span class=""scene-font-kokoro"">それで差し入れをくださったのね）</span>","<span class=""scene-font-kokoro"">（그러고보니 이번 영화 </span><br><span class=""scene-font-kokoro"">스폰서에도 있었던 것 같아.</span><br><span class=""scene-font-kokoro"">그래서 격려 선물을 준 거구나.）</span>"
+13,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓が包みを開けると、</span><br><span class=""scene-font-katari"">紙箱の中に缶飲料が</span><br><span class=""scene-font-katari"">びっしりと詰まっていた。</span>","<span class=""scene-font-katari"">카에데가 소포를 열어보니、</span><br><span class=""scene-font-katari"">종이 상자 안에 캔음료가</span><br><span class=""scene-font-katari"">빽빽하게 차 있었다.</span>"
+14,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（缶のパッケージが前と違うけど、</span><br><span class=""scene-font-kokoro"">リニューアルしたのかしら？</span><br><span class=""scene-font-kokoro"">ふふっ、家のカーテンと同じ色……♪）</span>","<span class=""scene-font-kokoro"">（캔 패키지가 예전과 다른데、</span><br><span class=""scene-font-kokoro"">리뉴얼 한 걸까?</span><br><span class=""scene-font-kokoro"">후훗、집의 커튼이랑 같은 색……♪）</span>"
+15,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（これ、とっても美味しかったから</span><br><span class=""scene-font-kokoro"">卯月ちゃんたちやプロデューサーにも</span><br><span class=""scene-font-kokoro"">お裾分けしようかしら）</span>","<span class=""scene-font-kokoro"">（이거、정말로 맛있었었지</span><br><span class=""scene-font-kokoro"">우즈키나 프로듀서에게도</span><br><span class=""scene-font-kokoro"">나눠줄까?）</span>"
+16,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は均等に渡せる数を計算するため</span><br><span class=""scene-font-katari"">缶の個数を確認する。</span>","<span class=""scene-font-katari"">카에데는 균등하게 나눠줄 수를 세기 위해</span><br><span class=""scene-font-katari"">캔의 개수를 확인한다.</span>"
+17,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（ひとり２本はありそう。</span><br><span class=""scene-font-kokoro"">それなら私の分の１本はお先に……）</span>","<span class=""scene-font-kokoro"">（한명당 2개는 줄 수 있겠네.</span><br><span class=""scene-font-kokoro"">그러면 내 몫인 하나를 먼저……）</span>"
+18,"scene_evt200515_cp0_q1,1",ごくごく……,꿀꺽꿀꺽……
+19,"scene_evt200515_cp0_q1,1",はぁっ！<br>前飲んだのとは違うフレーバーだわ！<br>とっても美味しい……,하아！<br>전에 마셨던 것과는 다른 향이었네！<br>정말로 맛있어……
+20,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">撮影直後で喉が渇いていたこともあり、</span><br><span class=""scene-font-katari"">楓はあっという間に</span><br><span class=""scene-font-katari"">缶の中身を飲み干す。</span>","<span class=""scene-font-katari"">촬영 직후에 목이 말랐던 것도 있어、</span><br><span class=""scene-font-katari"">카에데는 눈 깜짝할 사이에</span><br><span class=""scene-font-katari"">캔의 내용물을 다 마셔버렸다.</span>"
+21,"scene_evt200515_cp0_q1,1",ふふっ、これは<br>なんていう味のジュースかしら？<br>まるでカクテルみたいに色々な味が……,후훗、이건<br>무슨 맛의 쥬스일까?<br>마치 칵테일 같은 다양한 맛이……
+22,"scene_evt200515_cp0_q1,1",って、よく見たら本当にお酒……？,응?、잘 보니 정말로 술……？
+23,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">ジュースのパッケージを</span><br><span class=""scene-font-katari"">改めてよく見ると、</span><br><span class=""scene-font-katari"">そこには「お酒」の文字があった。</span>","<span class=""scene-font-katari"">쥬스의 패키지를</span><br><span class=""scene-font-katari"">다시 자세히 살펴보니、</span><br><span class=""scene-font-katari"">거기엔 「술」이라는 글자가 적혀져있었다.</span>"
+24,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（前に出させていただいたのは</span><br><span class=""scene-font-kokoro"">ジュースのCMだったのに、</span><br><span class=""scene-font-kokoro"">どうしてお酒が届いたのかしら？）</span>","<span class=""scene-font-kokoro"">（전에 촬영했던 것은</span><br><span class=""scene-font-kokoro"">쥬스의 CM이었는데、</span><br><span class=""scene-font-kokoro"">어째서 술을 받은걸까？）</span>"
+25,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（ひょっとして、スポンサーさんが</span><br><span class=""scene-font-kokoro"">私がお酒好きなのを知って、</span><br><span class=""scene-font-kokoro"">わざわざカクテルを贈ってくれたの？）</span>","<span class=""scene-font-kokoro"">（혹시、스폰서씨가</span><br><span class=""scene-font-kokoro"">내가 애주가라는 것을 알고、</span><br><span class=""scene-font-kokoro"">일부러 칵테일을 보내준거야？）</span>"
+26,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（嬉しい……</span><br><span class=""scene-font-kokoro"">あとでスポンサーさんに</span><br><span class=""scene-font-kokoro"">お礼を言わなくちゃ）</span>","<span class=""scene-font-kokoro"">（기뻐……</span><br><span class=""scene-font-kokoro"">나중에 스폰서씨에게</span><br><span class=""scene-font-kokoro"">꼭 고맙다고 해야지）</span>"
+27,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（卯月ちゃんたちにはお預けだけど、</span><br><span class=""scene-font-kokoro"">その分プロデューサーには</span><br><span class=""scene-font-kokoro"">沢山お裾分けしてあげましょうね♪）</span>","<span class=""scene-font-kokoro"">（우즈키네한테는 못주겠지만、</span><br><span class=""scene-font-kokoro"">그만큼 프로듀서에게는</span><br><span class=""scene-font-kokoro"">잔뜩 나눠줘야겠네♪）</span>"
+28,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は空にした缶を</span><br><span class=""scene-font-katari"">机に貼りつけられたゴミ袋に捨てる。</span>","<span class=""scene-font-katari"">카에데는 빈 캔을</span><br><span class=""scene-font-katari"">책상에 붙어있는 쓰레기봉투에 버렸다.</span>"
+29,"scene_evt200515_cp0_q1,1",ふわぁ……,후아……
+30,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（もう酔いが回ってきたみたい。</span><br><span class=""scene-font-kokoro"">そんなに度数は高くなかったはずだけど</span><br><span class=""scene-font-kokoro"">思っていたより疲れていたんだわ）</span>","<span class=""scene-font-kokoro"">（벌써 취기가 오는 것 같아.</span><br><span class=""scene-font-kokoro"">그렇게 도수는 높지 않았던 것 같은데</span><br><span class=""scene-font-kokoro"">생각보다 지쳤었나보네）</span>"
+31,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">眠気を催した楓はパイプ椅子に座ると、</span><br><span class=""scene-font-katari"">机に突っ伏してしまう。</span>","<span class=""scene-font-katari"">잠기운이 온 카에데는 파이프 의자에 앉아서、</span><br><span class=""scene-font-katari"">책상 푹 엎드려 버렸다.</span>"
+32,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（なんだかいい気持ち……</span><br><span class=""scene-font-kokoro"">卯月ちゃんたちが戻ってくるまで、</span><br><span class=""scene-font-kokoro"">ほんの少し、だけ……）</span>","<span class=""scene-font-kokoro"">（왠지 좋은 기분……</span><br><span class=""scene-font-kokoro"">우즈키네가 돌아올 때 까지、</span><br><span class=""scene-font-kokoro"">아주 잠깐、만……）</span>"
+33,"scene_evt200515_cp0_q1,1",すぅ……すぅ……,스……스……
+34,"scene_evt200515_cp0_q1,1",う……ん…………<br>…………鳥の、声？,으……응…………<br>…………새、소리？
+35,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（あれ……？</span><br><span class=""scene-font-kokoro"">……どうして私、森にいるの？）</span>","<span class=""scene-font-kokoro"">（어라……？</span><br><span class=""scene-font-kokoro"">……어째서 나、숲에 있는거야？）</span>"
+36,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（しかも私が着ているのって</span><br><span class=""scene-font-kokoro"">撮影用の衣装よね？　さっき着替えて</span><br><span class=""scene-font-kokoro"">衣装さんに返したはずなのに……）</span>","<span class=""scene-font-kokoro"">（게다가 내가 입고있는 옷 이거</span><br><span class=""scene-font-kokoro"">촬영용 의상이지?　조금전에 갈아입고</span><br><span class=""scene-font-kokoro"">의상담당씨에게 돌려줬을텐데……）</span>"
+37,"scene_evt200515_cp0_q1,1",あら？,어머?
+38,"scene_evt200515_cp0_q1,1",ピーニャッ、ピーニャッ……,삐-냣、삐-냣……
+39,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">奇妙な声のする方を見てみると、</span><br><span class=""scene-font-katari"">黒い翼を生やした謎の生物が</span><br><span class=""scene-font-katari"">何かを呟きながら本をめくっていた。</span>","<span class=""scene-font-katari"">기묘한 소리가 나는 쪽을 바라보니、</span><br><span class=""scene-font-katari"">검은색 날개가 난 수수께끼의 생물이</span><br><span class=""scene-font-katari"">무언가를 중얼거리며 책을 넘기고 있었다.</span>"
+40,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（着ぐるみかしら？</span><br><span class=""scene-font-kokoro"">あの丸っとしたフォルム、</span><br><span class=""scene-font-kokoro"">どこかで見たことがあるような……）</span>","<span class=""scene-font-kokoro"">（인형옷일까?</span><br><span class=""scene-font-kokoro"">저 동그란 구조、</span><br><span class=""scene-font-kokoro"">어디에선가 본 적이 있는 것 같은……）</span>"
+41,"scene_evt200515_cp0_q1,1","ピーニャッ、ピーニャッ……<br><span class=""scene-font-4"">……ピニャッ！</span>","삐-냣、삐-냣……<br><span class=""scene-font-4"">……삐냣！</span>"
+42,"scene_evt200515_cp0_q1,1",ピニャニャピニャ、ピーニャピニャッ！<br>ピニャニャピニャ、ピーニャピニャッ！,삐냐냐삐냐、삐-냐삐냣！<br>삐냐냐삐냐、삐-냐삐냣！
+43,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャアッ！</span>","<span class=""scene-font-4"">삐냐앗！</span>"
+44,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャアッ！</span>","<span class=""scene-font-4"">삐냐앗！</span>"
+45,"scene_evt200515_cp0_q1,1",えっ？,응？
+46,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">黒い翼の生物が何かを唱えると、</span><br><span class=""scene-font-katari"">持っていた本から次々と</span><br><span class=""scene-font-katari"">新たな黒い翼の生物が飛び出してくる。</span>","<span class=""scene-font-katari"">검은 날개가 난 생물이 무언가 외치니、</span><br><span class=""scene-font-katari"">가지고있던 책으로부터 차례차례로</span><br><span class=""scene-font-katari"">새로운 검은 날개의 생물이 튀어나온다.</span>"
+47,"scene_evt200515_cp0_q1,1",ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+48,"scene_evt200515_cp0_q1,1",まぁ……,어머……
+49,"scene_evt200515_cp0_q1,1",ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+50,"scene_evt200515_cp0_q1,1",…………,…………
+51,"scene_evt200515_cp0_q1,1",えっと……<br>これはどういう状況なのかしら？<br>びっくり手品ショー？,음……<br>이건 어떤 상황인걸까？<br>깜짝 마술쇼？
+52,"scene_evt200515_cp0_q1,1",ピ……ピィィ……,삐……삐이이……
+53,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ビニャァァアアアーーー！！！</span>","<span class=""scene-font-4"">삐냐아아아아아아ーーー！！！</span>"
+54,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">おしくらまんじゅう状態にあった</span><br><span class=""scene-font-katari"">黒い翼の生物が同じ姿の仲間たちを</span><br><span class=""scene-font-katari"">一気に押し返す。</span>","<span class=""scene-font-katari"">동그랗게 뭉쳐있던</span><br><span class=""scene-font-katari"">검은 날개의 생물이 같은 모습의 동료들을</span><br><span class=""scene-font-katari"">한번에 되밀쳤다.</span>"
+55,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">その拍子に持っていた本が</span><br><span class=""scene-font-katari"">手から飛び出し、楓の前に落ちた。</span>","<span class=""scene-font-katari"">그 박자에 가지고 있던 책이</span><br><span class=""scene-font-katari"">손으로 부터 떨어져나가、카에데 앞에 떨어졌다.</span>"
+56,"scene_evt200515_cp0_q1,1",この本、マジック道具かしら？,이 책、마술도구인걸까?
+57,"scene_evt200515_cp0_q1,1",こんなに小さな本から<br>あんなに沢山出てくるなんて、<br>一体どんな仕掛けなんでしょう？,이렇게 작은 책에서<br> 저렇게 많이 나오다니、<br>대체 어떤 장치지?
+58,"scene_evt200515_cp0_q1,1",ピニャッ？　ピニャッ？,삐냣？　삐냣？
+59,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャアーーー！！</span>","<span class=""scene-font-4"">삐냐아ーーー！！</span>"
+60,"scene_evt200515_cp0_q1,1",え？,응？
+61,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">黒い翼の生物が楓の方を指差し、</span><br><span class=""scene-font-katari"">激怒したように地団太を踏み、</span><br><span class=""scene-font-katari"">声を荒げる。</span>","<span class=""scene-font-katari"">검은 날개의 생물이 카에데 쪽을 가리키며、</span><br><span class=""scene-font-katari"">격노한 것 처럼 발을 동동 구르며、</span><br><span class=""scene-font-katari"">언성을 높였다.</span>"
+62,"scene_evt200515_cp0_q1,1","ピニャァア……<br><span class=""scene-font-4"">ピニャァァアアアーー！！</span>","삐냐아아……<br><span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+63,"scene_evt200515_cp0_q1,1",きゃっ……！,꺗……！
+64,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">危なーい！</span>","<span class=""scene-font-4"">위험해！</span>"
+65,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャッ！？</span>","<span class=""scene-font-4"">삐냣！？</span>"
+66,"scene_evt200515_cp0_q1,1",大丈夫？,괜찮아？
+67,"scene_evt200515_cp0_q1,1",って、かえ姉さま！？<br>楓さんがどうして！？,엣、카에언니！？<br>카에데씨가 어째서！？
+68,"scene_evt200515_cp0_q1,1",未央ちゃん……？<br>それに卯月ちゃんと凛ちゃんも。,미오……？<br>거기에 우즈키와 린도.
+69,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャァァアアアーー！！</span>","<span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+70,"scene_evt200515_cp0_q1,1",向こうはやる気みたい。<br>卯月、未央、さっさと片づけよう。,저쪽은 한바탕 해 볼 생각인 것 같아.<br>우즈키、미오、빨리 정리해버리자.
+71,"scene_evt200515_cp0_q1,1","わかりました！<br><span class=""scene-font-4"">えーいっ！</span>","알겠어！<br><span class=""scene-font-4"">에-잇！</span>"
+72,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">颯爽と現れた卯月、凛、未央は</span><br><span class=""scene-font-katari"">息の合った連係プレーで次々と</span><br><span class=""scene-font-katari"">黒い翼の生物たちを追い払っていく。</span>","<span class=""scene-font-katari"">씩씩하게 등장한 우즈키、린、미오는</span><br><span class=""scene-font-katari"">합이 맞은 연계 플레이로 차례차례</span><br><span class=""scene-font-katari"">검은 날개의 생물들을 쓰려뜨려간다.</span>"
+73,"scene_evt200515_cp0_q1,1","ピニャア……<br><span class=""scene-font-4"">ニャピッピィーー！！</span>","삐냐아……<br><span class=""scene-font-4"">냐삣삐이ーー！！</span>"
+74,"scene_evt200515_cp0_q1,1",ふぅ……<br>数は多かったけど、<br>大した敵じゃなくてよかったぁ！,후우……<br>수는 많았지만、<br>대단한 적은 아니어서 다행이었어！
+75,"scene_evt200515_cp0_q1,1",卯月ちゃんたちも衣装を着てる……<br>ということは、ここは撮影現場なのね？,우즈키네도 의상을 입고있어……<br>라는 건、여기는 촬영현장인거네？
+76,"scene_evt200515_cp0_q1,1",撮影の邪魔をしてごめんなさい。<br>すぐに楽屋へ戻るわ。,촬영에 방해를 해서 미안.<br>바로 분장실로 돌아갈게.
+77,"scene_evt200515_cp0_q1,1",えっ、撮影……？<br>楓さん、何の話？,응、촬영……？<br>카에데씨、무슨 이야기？
+78,"scene_evt200515_cp0_q1,1",おーい！　大丈夫か？,어-이！　괜찮아？
+79,"scene_evt200515_cp0_q1,1",って、誰だ、この姉ちゃん？,응?、누구야、그 누님은？
+80,"scene_evt200515_cp0_q1,1",まぁ、よくできたぬいぐるみ！<br>上手にお喋りできるのね！,어머、잘 만들어진 인형！<br>능숙하게 말할 수 있네！
+81,"scene_evt200515_cp0_q1,1",んなっ！<br>オイラはぬいぐるみじゃねぇ！<br>ドラゴンだぞ！,뭐라구！<br>이몸은 인형이 아냐！<br>드래곤이라구！
+82,"scene_evt200515_cp0_q1,1",撮影……楽屋……<br>ぬいぐるみと勘違い……<br>これって……,촬영……분장실……<br>인형으로 착각……<br>이건……
+83,"scene_evt200515_cp0_q1,1",私たちがこの世界に来た直後と<br>同じこと言ってるよね？<br>楓さん、いまこっちに来たのかな？,우리들이 이 세계에 왔던 직후와<br>같은 이야기들을 하고 있지？<br>카에데씨、지금 이쪽으로 온걸까？
+84,"scene_evt200515_cp0_q1,1",そうかもしれません。<br>私たちのこと、勘違いしてるのかも……,그럴지도 몰라.<br>우리들에 대해、오해하고 있을지도……
+85,"scene_evt200515_cp0_q1,1",あの、３人とも、<br>なんの話をしてるのかしら？<br>撮影中、なんですよね……？,저기、세명 모두、<br>무슨 이야기 하고 있는걸까？<br>촬영중、이지……？
+86,"scene_evt200515_cp0_q1,1",……言うしかないか。,……말할 수 밖에 없나.
+87,"scene_evt200515_cp0_q1,1",楓さん、落ち着いて聞いてください。<br>ここは私たちが元いた場所とは別の、<br>異世界なんです。,카에데씨、침착하고 들어주세요.<br>여기는 우리들이 원래 있던 장소와는 다른、<br>이세계입니다.。
+88,"scene_evt200515_cp0_q1,1",異世界……？<br>……え？,이세계……？<br>……응？
+89,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">突如空の世界に</span><br><span class=""scene-font-katari"">迷い込んで来てしまった楓。</span>","<span class=""scene-font-katari"">돌연 하늘의 세계에</span><br><span class=""scene-font-katari"">헤메어 들어오게 된 카에데.</span>"
+90,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">果たして異世界の地で</span><br><span class=""scene-font-katari"">彼女を待ち受けているものとは──？</span>","<span class=""scene-font-katari"">과연 이세계의 땅에서</span><br><span class=""scene-font-katari"">그녀를 기다리고 있던 것은──？</span>"
+
+
+!이벤트 1-1
+0,"scene_evt200515_cp1_q1,1",異世界……ここが……,여기가……이세계……
+1,"scene_evt200515_cp1_q1,1","<span class=""scene-font-katari"">卯月たちから自分が別の世界に</span><br><span class=""scene-font-katari"">迷い込んでしまったことを聞かされ、</span><br><span class=""scene-font-katari"">楓は戸惑いを隠せずにいた。</span>","<span class=""scene-font-katari"">우즈키네로부터 자신이 다른 세계에</span><br><span class=""scene-font-katari"">와버렸다는 것을 듣고、</span><br><span class=""scene-font-katari"">카에데는 당황스러움을 감추지 못하고 있었다.</span>"
+2,"scene_evt200515_cp1_q1,1",急に別の世界に来て<br>びっくりしてますよね……,갑자기 다른 세계에 와서 <br>감짝 놀랐지요……
+3,"scene_evt200515_cp1_q1,1",ひとまず、私たちの艇を家だと思って、<br>ゆっくりしてくださいね。,일단、우리 배를 집이라고 생각하고、<br>편안히 쉬어주세요.
+4,"scene_evt200515_cp1_q1,1",ええ……ありがとうございます。<br>きっと、そうさせてもらいます。,응……고맙습니다.<br>꼭、말씀대로 할게요.
+5,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">[グラン]さんにルリアちゃん、</span><br><span class=""scene-font-kokoro"">だったかしら……？</span><br><span class=""scene-font-kokoro"">確かにみんないい人そう……）</span>","<span class=""scene-font-kokoro"">[그랑]씨와 루리아、</span><br><span class=""scene-font-kokoro"">였었지……？</span><br><span class=""scene-font-kokoro"">확실히 모두 좋은 사람인 것 같아……）</span>"
+6,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（でも異世界ってことは</span><br><span class=""scene-font-kokoro"">プロデューサーやちひろさんも</span><br><span class=""scene-font-kokoro"">いないのよね？　私、どうしたら……）</span>","<span class=""scene-font-kokoro"">（그래도 이세계라는 말은</span><br><span class=""scene-font-kokoro"">프로듀서나 치히로씨도</span><br><span class=""scene-font-kokoro"">없는거지?？　나、어떻게해야……）</span>"
+7,"scene_evt200515_cp1_q1,1",楓さん、元気がないですね……<br>急に異世界に来たら不安なのは<br>当たり前ですけど……,카에데씨、기운이 없어 보여……<br>갑자기 이세계로 오게되면 불안해지는게<br>당연하겠지만……
+8,"scene_evt200515_cp1_q1,1",そういえば前に川島さんから<br>楓さんは結構人見知りするって<br>聞いたよ。,그러고보니 전에 카와시마씨로부터 <br>카에데씨는 제법 낯을 가린다고<br>들었어.
+9,"scene_evt200515_cp1_q1,1",だったら余計に辛いだろうね。<br>この世界じゃあ知り合いは<br>私たちだけなんだから。,그럼 더 괴롭겠지.<br>이 세계에는 아는 사람은<br>우리들뿐이니까.
+10,"scene_evt200515_cp1_q1,1",あ、あの……！<br>私、ちょっと声をかけてきます！,그、그럼……！<br>내가、잠깐 말 걸어볼게！
+11,"scene_evt200515_cp1_q1,1",うえぇ？　しまむー！？,어엇？　시마무ー！？
+12,"scene_evt200515_cp1_q1,1",楓さん！<br>大丈夫ですか？,카에데씨！<br>괜찮으세요？
+13,"scene_evt200515_cp1_q1,1",え？<br>大丈夫って……？,응？<br>괜찮냐니……？
+14,"scene_evt200515_cp1_q1,1",えっと、その……,으음、그러니까……
+15,"scene_evt200515_cp1_q1,1",私もたまにママのことが<br>恋しくなったりするので、<br>楓さんも何かあったら言ってください！,저희도 가끔 엄마가<br>그리워지기도해요、<br>카에데씨도 무슨 일이 있으면 말해주세요！
+16,"scene_evt200515_cp1_q1,1",うわぁ、直球……<br>逆にあそこまでストレートに<br>聞けちゃうのはしまむーらしい！,우왓、직구……<br>반대로 저렇게까지 스트레이트로<br>이야기해버리는건 시마무답지만！
+17,"scene_evt200515_cp1_q1,1",……ありがとうございます、<br>卯月ちゃん。<br>何かあったら、すぐに言いますね。,……고마워、<br>우즈키。<br>무슨 일이 있으면、바로 이야기할게.
+18,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（やっぱり、みんなに心配を</span><br><span class=""scene-font-kokoro"">かけてしまっているみたい……）</span>","<span class=""scene-font-kokoro"">（역시、모두에게 걱정을</span><br><span class=""scene-font-kokoro"">끼치게 하고있는 것 같아……）</span>"
+19,"scene_evt200515_cp1_q1,1",卯月ちゃん、この世界って<br>街の中なら安全なのかしら？,우즈키、이 세계는<br>마을 안은 안전할까？
+20,"scene_evt200515_cp1_q1,1",はい。<br>森はよく魔物が出ますけど、<br>街の中ならそういうことも少ないです。,네.<br>숲은 마물이 잘 나타나지만、<br>마을 안에는 그런일이 잘 없어요.
+21,"scene_evt200515_cp1_q1,1",それなら、少し近くを<br>散歩してきてもいいかしら？<br>その……どんな世界なのか見たいから。,그러면、잠깐 주변에<br>산책을 하고와도 괜찮을까？<br>그……어떤 세계인지 보고 싶어서。
+22,"scene_evt200515_cp1_q1,1",あ……はい、わかりました！<br[グラン]さんたちにも<br>伝えておきますね。,아……네、알겠습니다！<br[グラン]씨에게도<br>전해둘게요.
+23,"scene_evt200515_cp1_q1,1","<span class=""scene-font-katari"">楓は柔らかく微笑むと、</span><br><span class=""scene-font-katari"">街外れの方へ歩き出した。</span>","<span class=""scene-font-katari"">카에데는 부드럽게 미소지으며、</span><br><span class=""scene-font-katari"">마을에서 떨어진 쪽으로 걸어나갔다.</span>"
+24,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（街並みも空気の匂いも、</span><br><span class=""scene-font-kokoro"">私が元いた場所とは全然違う……）</span>","<span class=""scene-font-kokoro"">（마을의 모습도 공기의 공기의 냄새도、</span><br><span class=""scene-font-kokoro"">내가 원래 있던 장소와는 전혀 달라……）</span>"
+25,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（人も角が生えていたり</span><br><span class=""scene-font-kokoro"">動物みたいな耳の人がいたりするし、</span><br><span class=""scene-font-kokoro"">それに何より……）</span>","<span class=""scene-font-kokoro"">（뿔이 난 사람도 있고</span><br><span class=""scene-font-kokoro"">동물 같은 귀을 가진 사람도 있고、</span><br><span class=""scene-font-kokoro"">무엇보다……）</span>"
+26,"scene_evt200515_cp1_q1,1",ぴにゃあ、ぴにゃぴにゃあ！,삐냐아、삐냐삐냐아！
+27,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（さっきから何度も見かけるあれも、</span><br><span class=""scene-font-kokoro"">着ぐるみじゃなくて</span><br><span class=""scene-font-kokoro"">そういう生き物なのよね？）</span>","<span class=""scene-font-kokoro"">（조금 전부터 계속 보이는 저것도、</span><br><span class=""scene-font-kokoro"">인형 탈이 아니라</span><br><span class=""scene-font-kokoro"">그런 생물인거겠지？）</span>"
+28,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（本当に遠くに来てしまったんだわ……</span><br><span class=""scene-font-kokoro"">撮影もクランクアップがまだなのに、</span><br><span class=""scene-font-kokoro"">帰れなかったらどうしましょう……？）</span>","<span class=""scene-font-kokoro"">（정말로 먼 곳으로 와버렸어……</span><br><span class=""scene-font-kokoro"">촬영도 크랭크업이 아직 덜 됐는데、</span><br><span class=""scene-font-kokoro"">돌아갈 수 없으면 어떻게 하지……？）</span>"
+29,"scene_evt200515_cp1_q1,1",あっ、その本！,앗、그 책！
+30,"scene_evt200515_cp1_q1,1",え？<br>ああ、これのこと……ですか？,응？<br>아、이 책……말인가요？
+31,"scene_evt200515_cp1_q1,1","<span class=""scene-font-kokoro"">（さっき森で拾った本、</span><br><span class=""scene-font-kokoro"">ずっと持ったままだったの</span><br><span class=""scene-font-kokoro"">忘れていたわ）</span>","<span class=""scene-font-kokoro"">（아까 숲에서 주은 책、</span><br><span class=""scene-font-kokoro"">계속 들고 있던 걸</span><br><span class=""scene-font-kokoro"">잊어버리고 있었네）</span>"
+32,"scene_evt200515_cp1_q1,1","<span class=""scene-font-katari"">突然声をかけてきた少女は</span><br><span class=""scene-font-katari"">はっとした様子で駆け寄り、</span><br><span class=""scene-font-katari"">楓の持っている本をじっくり調べた。</span>","<span class=""scene-font-katari"">갑자기 말을 걸어온 소녀는</span><br><span class=""scene-font-katari"">깜짝 놀란 모습으로 달려와、</span><br><span class=""scene-font-katari"">카에데가 가지고 있는 책을 지긋히 살펴봤다.</span>"
+33,"scene_evt200515_cp1_q1,1",やっぱり、ぴにゃが持ってた本だ……,역시、삐냐가 가지고있던 책이야……
+34,"scene_evt200515_cp1_q1,1",これ、どこで拾ったんですか？<br>詳しく聞かせてください！,이거、어디서 주으셨나요？<br>자세히 알려주세요！
+35,"scene_evt200515_cp1_q1,1",え、ええ……わかりました。,으、응……알겠습니다。
+36,"scene_evt200515_cp1_q1,1","<span class=""scene-font-katari"">緊張で早鐘を打つ胸を抑えながら、</span><br><span class=""scene-font-katari"">楓は本を拾った経緯を話して聞かせる。</span>","<span class=""scene-font-katari"">긴장하여 두근거리는 가슴을 진정시키며、</span><br><span class=""scene-font-katari"">카에데는 책을 주은 경위에 대해 이야기해주었다.</span>"
+
+!이벤트 1-2
+0,"scene_evt200515_cp1_q2,1",すみません……<br>楓さんに安心して<br>もらいたかったんですけど……,미안……<br>카에데씨를 안심시켜드릴<br>생각이었는데……
+1,"scene_evt200515_cp1_q2,1",別に怒ってどこかに行ったわけじゃ<br>ないと思うよ。ただ、ひとりに<br>なりたかったんじゃないかな。,별로 화가나서 자리를 뜬 게<br>아니라고 생각해. 그냥、혼자 있고<br>싶었던게 아닐까.
+2,"scene_evt200515_cp1_q2,1",でもさぁ、やっぱり心配だよ。<br>ひとりで悩んでると、こう……<br>頭がぐちゃぐちゃになってくるじゃん？,그치만、역시 걱정돼.<br>혼자서 고민하면、이렇게……<br>머리가 엉망진창이 되잖아?
+3,"scene_evt200515_cp1_q2,1",うーん……<br>なんとかして<br>元気づけてあげたいですね……,으음……<br>어떻게든<br>기운나게 해드리고 싶어요……
+4,"scene_evt200515_cp1_q2,1",オイラは落ち込んだ時、<br>リンゴを食うと元気出てくるぜ。,이몸은 우울할 때、<br>사과를 먹으면 기운이 난다구.
+5,"scene_evt200515_cp1_q2,1",あの姉ちゃんも好きなことをすりゃあ、<br>ちょっとは元気になるんじゃねぇか？,그 누님도 좋아할만한 것을 하면、<br>조금 기운이 나지 않을까？
+6,"scene_evt200515_cp1_q2,1",なるほどっ！<br>私も落ち込んだ時、誰かに電話して<br>聞いてもらうと元気が湧いてきます！,그렇구나！<br>저도 우울 할 때는、누군가에게 전화를 해서<br>이런저런 이야기를 하면 기운이나요！
+7,"scene_evt200515_cp1_q2,1",私の場合はショッピングかな！<br>キラキラしたお店に入ると<br>ワクワクする！,내 경우엔 쇼핑이야！<br>반짝반짝하는 가게에 들어가면<br>두근두근해！
+8,"scene_evt200515_cp1_q2,1",好きなものか……<br>うん、悪くないんじゃないかな。,좋아하는 것……<br>응、나쁘지 않은 것 같아.
+9,"scene_evt200515_cp1_q2,1",楓さんと言えばやっぱりお酒、かな？<br>こっちの世界でも<br>用意できるだろうし。,카에데씨라고 역시 술、일까？<br>이쪽 세계에서도<br>준비할 수 있고.
+10,"scene_evt200515_cp1_q2,1",うんうん！<br>時々、艇でも宴会開いたりしてさぁ、<br>結構どんちゃん騒ぎになるよね！,응응！<br>가끔 배에서도 연회가 열리거나 했지、<br>제법 떠들썩하게 놀기도 하고！
+11,"scene_evt200515_cp1_q2,1",楓さんの歓迎会ですか？<br>いいですね、楽しそうです！,카에데씨 환영회를 여는건가요？<br>좋네요、재밌을 것 같아요！
+12,"scene_evt200515_cp1_q2,1",私も賛成だよ。大ごとになっても<br>楓さんにはプレッシャーだろうし、<br>人数は絞った方がいいと思うけど。,나도 찬성이야. 너무 일이 커지면<br>카에데씨한테 부담이 될테니까、<br>모이는 사람 수는 좀 조절하는게 좋을 것 같지만.
+13,"scene_evt200515_cp1_q2,1",よぉーし！<br>じゃあ歓迎会を開くってことで！<br>けってーい☆,좋-아！<br>그럼 환영회를 여는 것으로！<br>결-정☆
+14,"scene_evt200515_cp1_q2,1",歓迎会には誰呼ぶ？<br>私たちがジュースで楓さんひとりだけ<br>お酒ってのはさすがに微妙だよね？,환영회에는 누구를 부르지？<br>우리들은 쥬스만 마시고 카에데씨 혼자서 <br>술을 마시는 건 역시 좀 미묘하지？
+15,"scene_evt200515_cp1_q2,1",そうですね。<br>お酒好きな団員さんって<br>誰がいましたっけ……？,그렇네.<br>술을 좋아하는 단원은<br>누가 있었더라……？
+16,"scene_evt200515_cp1_q2,1",おや？<br>こんなところで集まって<br>何を話してるんだ？,어라？<br>이런 곳에 모여서<br>무슨 이야기 중이야？
+17,"scene_evt200515_cp1_q2,1",あっ、ラグナさん！<br>その荷物って<br>もしかしてお土産物ですか？,앗、라그나씨！<br>그 짐、<br>혹시 토산품 선물인가요？
+18,"scene_evt200515_cp1_q2,1",ふふっ、そうなんだ。<br>この街にも面白い物が沢山売っていて、<br>ついあれもこれもと買ってしまった。,후훗、그래.<br>이 마을에도 재밌는 것들을 잔뜩 팔고 있지만、<br>나도 모르게 이것저것 사버렸어.
+19,"scene_evt200515_cp1_q2,1",それでお前たちは何を話してたんだ？<br>歓迎会と聞こえたような気がするが、<br>店探しなら力になるぞ。,그런데 너희들을 무슨 이야기 중이었던거야？<br>환영회라고 들렸던 것 같은데、<br>장소를 찾는거면 도와줄게.
+20,"scene_evt200515_cp1_q2,1",ちょうど街で評判の店の情報を<br>集めてきたところだからな。,마침 마을에서 평가가 좋은 가게에 대한 정보를<br>모아온 직후니까말야.
+21,"scene_evt200515_cp1_q2,1",ほんと！？<br>ラグねえ、さっすが頼りになるぅ～！,진짜！？<br>라그언니、역시 믿음직해～！
+22,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">未央たちは歓迎会の趣旨や</span><br><span class=""scene-font-katari"">困っていることを</span><br><span class=""scene-font-katari"">ラグナに話して聞かせる。</span>","<span class=""scene-font-katari"">미오와 모두는 환영회의 취지나</span><br><span class=""scene-font-katari"">고민 중인 것들을</span><br><span class=""scene-font-katari"">라그나에게 이야기하고 들려주었다.。</span>"
+23,"scene_evt200515_cp1_q2,1",なるほど。<br>大体の状況は把握した。,그렇군.<br>대략적인 상황은 파악했어.
+24,"scene_evt200515_cp1_q2,1",生憎と私は酒が一滴も飲めないので<br>いつもミルクだが、酒場で一緒に<br>飲み交わした団員なら何人かいる。,아쉽게도 나는 술을 한방울도 마시지 않아서<br>언제나 우유지만、술자리에서 함께<br>마시고 지냈던 단원이라면 몇 명 있어.
+25,"scene_evt200515_cp1_q2,1",一緒に酒を飲み、<br>場を盛り上げてくれそうなメンバーに<br>声をかけてみるよ。,같이 술을 마시고、<br>분위기를 띄워줄 것 같은 멤버에게<br>한번 물어볼게.
+26,"scene_evt200515_cp1_q2,1",ありがとうございます！<br>とても助かります。<br>楓さんも、喜んでくれるかも！,고맙습니다！<br>정말 도움될거에요.<br>카에데씨도、기뻐하실거 같아요！
+27,"scene_evt200515_cp1_q2,1",あの、ちょっといいですか？,저기、잠깐 괜찮을까？
+28,"scene_evt200515_cp1_q2,1",楓さん！<br>もう戻ってきたんですね。<br>おかえりなさい！,카에데씨！<br>벌써 돌아와계셨군요.<br>어서오세요！
+29,"scene_evt200515_cp1_q2,1",って、隣にいる人は？,는、옆에 있는 분은？
+30,"scene_evt200515_cp1_q2,1",初めまして、<br>私はエミリーって言います。,처음뵙겠습니다、<br>저는 에밀리라고 합니다.
+31,"scene_evt200515_cp1_q2,1",実は困っていることがあるみたい<br>なんですけど……<br>お話だけでも聞いてもらえませんか？,곤란한 일이 있는 것 같아서<br>모셔왔는데……<br>이야기만이라도 들어보지 않을래요?
+32,"scene_evt200515_cp1_q2,1",もちろんです。<br>私たちは騎空士ですから、<br>なんでもお話ししてください！,물론이죠.<br>우리들은 기공사니까요、<br>뭐든지 이야기해주세요!
+33,"scene_evt200515_cp1_q2,1",赤いドラゴンと蒼い髪の女の子……<br>騎空士……,붉은 드래곤과 푸른 여자아이……<br>기공사……
+34,"scene_evt200515_cp1_q2,1",もしかして皆さんは、<br>この前の緑の子たちとの騒動で<br>街を救ってくれた人たちですか！？,혹시 여러분들은、<br>이전에 녹색 아이들의 소동을<br>해결해주셨던 분들인가요！？
+35,"scene_evt200515_cp1_q2,1",緑のって、あのぴにゃぴにゃ言う<br>ヘンテコな奴らのことか？,녹색 아이들이라니、그 삐냐삐냐하는<br>요상한 놈들 말이야？
+36,"scene_evt200515_cp1_q2,1",それなら私たちのことだと思います。<br>実はこの間……,그거라면 저희들일거에요.<br>사실은 전에……
+37,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">それは少し前のこと──</span>","<span class=""scene-font-katari"">그것은 이전에 있었던 이야기──</span>"
+38,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">[グラン]たちがいまいる街は</span><br><span class=""scene-font-katari"">森に住む緑色の生物たちの</span><br><span class=""scene-font-katari"">襲撃に悩まされていた。</span>","<span class=""scene-font-katari"">지금 [グラン]의 기공단이 있는 마을은</span><br><span class=""scene-font-katari"">숲에서 사는 녹색 생물들의</span><br><span class=""scene-font-katari"">습격에 시달렸었다.</span>"
+39,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">負傷し[グラン]たちの代わりに</span><br><span class=""scene-font-katari"">街に来た杏ときらりは緑色の生物たちの</span><br><span class=""scene-font-katari"">様子がおかしいことに気づく。</span>","<span class=""scene-font-katari"">부상당한 [グラン]을 대신해서</span><br><span class=""scene-font-katari"">마을에 왔던 안즈와 키라리는 녹색 생물들의</span><br><span class=""scene-font-katari"">행동이 이상하다는 것을 깨달았다.</span>"
+40,"scene_evt200515_cp1_q2,1",……そういうこと？<br>この騒動、<br>黒幕は傭兵さん達なのかっ？,……알았다.<br>이 소동、<br>흑막은 용병들이었던거네？
+41,"scene_evt200515_cp1_q2,1",そういえば、<br>みんなはあんなに疲れてたのに<br>傭兵さん達は、元気だったような……？,그러고보니、<br>모두가 그렇게 지쳤었는데<br>용병들은、건강했던것 같은……？
+42,"scene_evt200515_cp1_q2,1",おい貴様、それ以上は……！<br>クソッ！　ならば……<br>やれ！　貴様ら！,어이 네놈、그 이상 말하면……！<br>젠장！　어쩔수없지……<br>해치워라！　얘들아！
+43,"scene_evt200515_cp1_q2,1",ぴ……！？,삐……！？
+44,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">その後傭兵たちは回復した</span><br><span class=""scene-font-katari"">[グラン]たちに追いつめられ、</span><br><span class=""scene-font-katari"">騎空艇での逃走を図る。しかし……</span>","<span class=""scene-font-katari"">그 이후 용병들은 회복한</span><br><span class=""scene-font-katari"">[グラン]에게 쫓겨、</span><br><span class=""scene-font-katari"">기공선으로 도주를 계획한다. 하지만……</span>"
+45,"scene_evt200515_cp1_q2,1","<span class=""scene-font-4"">ぎゃああああっ！？</span>","<span class=""scene-font-4"">으아아아악！？</span>"
+46,"scene_evt200515_cp1_q2,1",わーおっと！,에-잇！
+47,"scene_evt200515_cp1_q2,1",うぇへへ☆<br>みんな、捕まえたにぃ☆,우헤헤☆<br>모두、잡았엉☆
+48,"scene_evt200515_cp1_q2,1",ふぅー……これで一件落着かな。<br>最後まで、面倒なヤツら！,후우ー……이걸로 일단 해결인가.<br>마지막까지、귀찮은 녀석들！
+49,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">巨大化したきらりが</span><br><span class=""scene-font-katari"">傭兵たちを騎空艇ごと捕まえ、</span><br><span class=""scene-font-katari"">事件は収束したのだった。</span>","<span class=""scene-font-katari"">거대화한 키라리가</span><br><span class=""scene-font-katari"">용병들을 기공선채로 잡아、</span><br><span class=""scene-font-katari"">사건은 정리된 것이었다.</span>"
+50,"scene_evt200515_cp1_q2,1",──ってことがありましたから。,──라는  일이 있었으니까.
+51,"scene_evt200515_cp1_q2,1",やっぱり……！<br>あの時は本当に<br>ありがとうございました！,역시……！<br>그 때는 정말로<br>고마웠어요！
+52,"scene_evt200515_cp1_q2,1",あれから私たちはあの緑の子たちに<br>色々な仕事をお願いするようになって、<br>一緒に仲良く暮らしてるんです。,그때부터 우리들은 그 녹색 아이들에게<br>여러가지 일들을 부탁하게 되면서、<br>같이 사이좋게 지내게됐어요.
+53,"scene_evt200515_cp1_q2,1",マジかよ……<br>思い切ったことするなぁ。,진짜냐고……<br>대담하네.
+54,"scene_evt200515_cp1_q2,1",素敵じゃないですか！<br>みんなが仲良くするのはいいことです！,굉장해요！<br>사이좋게 지내는게 제일이에요！
+55,"scene_evt200515_cp1_q2,1",でも、いま困ったことになってて……,그런데、지금 조금 일이 복잡하게 되서……
+56,"scene_evt200515_cp1_q2,1","<span class=""scene-font-katari"">エミリーは街で起きている問題を</span><br><span class=""scene-font-katari"">ゆっくりと話し始めるのだった。</span>","<span class=""scene-font-katari"">에밀리는 마을에서 일어난 문제를</span><br><span class=""scene-font-katari"">차근차근 말하기 시작했다.</span>"
+
+
+
+!이벤트 1-3
+0,"scene_evt200515_cp1_q3,1",すごい、ぴにゃ！<br>もうこんなにできたの？<br>本当に器用でお利口さんね！,굉장해、삐냐！<br>벌써 이만큼이나 할 수 있는거야？<br>정말로 재주가 좋고 똑똑하구나！
+1,"scene_evt200515_cp1_q3,1",ぴにゃっ！　ぴにゃっ！,삐냣！　삐냣！
+2,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">私の家はお菓子屋さんをやってて、</span><br><span class=""scene-font-gray"">最近はぴにゃにもお菓子作りを</span><br><span class=""scene-font-gray"">手伝ってもらってたんです。</span>","<span class=""scene-font-gray"">우리집은 과자점을 하고 있는데、</span><br><span class=""scene-font-gray"">최근에는 피냐도 과자만들기를</span><br><span class=""scene-font-gray"">도와줬어요.</span>"
+3,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">あ、ぴにゃって言うのはこの子のこと。</span><br><span class=""scene-font-gray"">ぴにゃぴにゃって言うから、</span><br><span class=""scene-font-gray"">ぴにゃって呼んでるんです。</span>","<span class=""scene-font-gray"">아、삐냐라는 건 이 아이.</span><br><span class=""scene-font-gray"">삐냐삐냐하고 말하니까、</span><br><span class=""scene-font-gray"">삐냐라고 부르고있어요.</span>"
+4,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ぴにゃはとても働き者で、</span><br><span class=""scene-font-gray"">手先も器用で、私も家族も</span><br><span class=""scene-font-gray"">大切な仲間だと思ってて……</span>","<span class=""scene-font-gray"">삐냐는 정말로 부지런하고、</span><br><span class=""scene-font-gray"">일을 잘해서、저도 가족도</span><br><span class=""scene-font-gray"">소중한 동료라고 생각했어요……</span>"
+5,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">でも、ある時……</span>","<span class=""scene-font-gray"">그런데、어느 날……</span>"
+6,"scene_evt200515_cp1_q3,1",ぴ、にゃ……,삐、냐……
+7,"scene_evt200515_cp1_q3,1",ぴにゃ？<br>どうかしたの？,삐냐？<br>무슨일이야？
+8,"scene_evt200515_cp1_q3,1",…………,…………
+9,"scene_evt200515_cp1_q3,1",ぴにゃ？,삐냐?
+10,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">急に元気がなくなって、</span><br><span class=""scene-font-gray"">体調が悪いのかなと思ったんですけど、</span><br><span class=""scene-font-gray"">熱とかはないみたいで……</span>","<span class=""scene-font-gray"">갑자기 기운이 없어져서、</span><br><span class=""scene-font-gray"">몸상태가 나쁜걸까 하고 생각했는데、</span><br><span class=""scene-font-gray"">열 같은 건 없는 것 같았는데……</span>"
+11,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">その頃からぴにゃはひとりで</span><br><span class=""scene-font-gray"">ふらりと出掛けるようになったんです。</span><br><span class=""scene-font-gray"">気になって追いかけてみたら……</span>","<span class=""scene-font-gray"">그때부터 삐냐는 혼자서</span><br><span class=""scene-font-gray"">훌쩍 외출하고는 했어요.</span><br><span class=""scene-font-gray"">신경이 쓰여서 따라가봤더니……</span>"
+12,"scene_evt200515_cp1_q3,1",ぴにゃの家とは違う方面……<br>こんな暗い森にひとりで<br>何してるんだろう？,삐냐의 집이랑은 다른 방향……<br>이렇게 어두운 숲에 혼자서<br>뭐하고있는걸까？
+13,"scene_evt200515_cp1_q3,1",ぴぃ……ぴにゃあ…………,삐이……삐냐아…………
+14,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">森の奥には誰も知らない祭壇があって、</span><br><span class=""scene-font-gray"">ぴにゃは祭壇にもたれかかるようにして</span><br><span class=""scene-font-gray"">泣いてました。</span>","<span class=""scene-font-gray"">숲 안쪽에는 아무도 모르는 제단이 있었고、</span><br><span class=""scene-font-gray"">삐냐는 제단에 기대서</span><br><span class=""scene-font-gray"">울고 있었어요.</span>"
+15,"scene_evt200515_cp1_q3,1",ぴにゃあぁぁ……<br>ぴにゃあぁぁ……ぴぃ……,삐냐아아아……<br>삐냐아아아……삐……
+16,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ピニャア……</span>","<span class=""scene-font-gray"">삐냐……</span>"
+17,"scene_evt200515_cp1_q3,1",ぴにゃっ！？,삐냣！？
+18,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">そしたら急に祭壇から変な声が</span><br><span class=""scene-font-gray"">聞こえてきました。</span><br><span class=""scene-font-gray"">声はぴにゃに話しかけてるみたいで……</span>","<span class=""scene-font-gray"">그랬더니 갑자기 제단으로부터 이상한 목소리가</span><br><span class=""scene-font-gray"">들려왔어요.</span><br><span class=""scene-font-gray"">목소리는 삐냐에게 말거는 것 같았는데……</span>"
+19,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ピニャア……？</span>","<span class=""scene-font-gray"">삐냐아……？</span>"
+20,"scene_evt200515_cp1_q3,1",ぴ、ぴにゃあ？,삐、삐냐아？
+21,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ピニャアア……？</span><br><span class=""scene-font-gray"">ピニャアア！！</span>","<span class=""scene-font-gray"">삐냐아아……？</span><br><span class=""scene-font-gray"">삐냐아아！！</span>"
+22,"scene_evt200515_cp1_q3,1",ぴにゃっ！！,삐냣！！
+23,"scene_evt200515_cp1_q3,1",ぴにゃあ……ぴにゃあ……,삐냐아……삐냐아……
+24,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">言葉はわからなかったけど、</span><br><span class=""scene-font-gray"">ぴにゃは何かの選択を</span><br><span class=""scene-font-gray"">迫られてるみたいでした。</span>","<span class=""scene-font-gray"">뭐라고 말하는지는 몰랐어도、</span><br><span class=""scene-font-gray"">삐냐는 뭔가 선택을</span><br><span class=""scene-font-gray"">강요당하고 있는것 같았어요.</span>"
+25,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ピニャア？</span>","<span class=""scene-font-gray"">삐냐아？</span>"
+26,"scene_evt200515_cp1_q3,1",ぴっ！　ぴにゃあ……,삣！　삐냐아……
+27,"scene_evt200515_cp1_q3,1",…………,…………
+28,"scene_evt200515_cp1_q3,1","<span class=""scene-font-4"">ぴにゃあッ！！　ぴにゃあッ！！</span>","<span class=""scene-font-4"">삐냐앗！！　삐냐앗！！</span>"
+29,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ピニャア……ッ！！</span>","<span class=""scene-font-gray"">삐냐아……앗！！</span>"
+30,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">ぴにゃが何かを叫んだ瞬間、</span><br><span class=""scene-font-gray"">突然祭壇が開いて、</span><br><span class=""scene-font-gray"">中から１冊の本が出てきました。</span>","<span class=""scene-font-gray"">삐냐가 무언가 외친 순간、</span><br><span class=""scene-font-gray"">갑자기 제단이 열려서、</span><br><span class=""scene-font-gray"">안에서부터 1권의 책이 나왔어요.</span>"
+31,"scene_evt200515_cp1_q3,1",ぴ、にゃ……,삐、냐……
+32,"scene_evt200515_cp1_q3,1","<span class=""scene-font-4"">ぴにゃあっ！？</span>","<span class=""scene-font-4"">삐냐아앗！？</span>"
+33,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">驚きました。</span><br><span class=""scene-font-gray"">ぴにゃが表紙をめくった瞬間、本から</span><br><span class=""scene-font-gray"">ぴにゃに似た子が沢山出てきたから。</span>","<span class=""scene-font-gray"">놀랐어요.</span><br><span class=""scene-font-gray"">삐냐가 표지를 넘긴 순간、책에서</span><br><span class=""scene-font-gray"">삐냐와 닮은 아이들이 잔뜩 튀어나왔거든요.</span>"
+34,"scene_evt200515_cp1_q3,1",──……,──……
+35,"scene_evt200515_cp1_q3,1",ぴぃにゃあ……ぴぃにゃあ……,삐이냐아……삐이냐아……
+36,"scene_evt200515_cp1_q3,1",ぴにゃあっ！？,삐냐아앗！？
+37,"scene_evt200515_cp1_q3,1","<span class=""scene-font-4"">ぴにゃ！</span>","<span class=""scene-font-4"">삐냐！</span>"
+38,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">その子たちがいなくなったと思ったら、</span><br><span class=""scene-font-gray"">祭壇から黒い煙が噴き出して</span><br><span class=""scene-font-gray"">ぴにゃを包み込んだんです。</span>","<span class=""scene-font-gray"">그 아이들이 갑자기 없어지더니、</span><br><span class=""scene-font-gray"">제단에서 검은 연기가 나와서</span><br><span class=""scene-font-gray"">삐냐를 삼켰어요.。</span>"
+39,"scene_evt200515_cp1_q3,1","<span class=""scene-font-gray"">心配になって、</span><br><span class=""scene-font-gray"">私が思わず駆け寄ってみたら……</span>","<span class=""scene-font-gray"">걱정이 되서、</span><br><span class=""scene-font-gray"">제가 무심결에 뛰쳐나갔더니……</span>"
+40,"scene_evt200515_cp1_q3,1",いない……！<br>どうして？,없어……！<br>어떻게된거지？
+41,"scene_evt200515_cp1_q3,1",ぴにゃ、どこにいるの？<br>お願い、返事をして！　ぴにゃ！,삐냐、어디에 있는거야？<br>부탁이야、대답해줘！　삐냐！
+
+
+!이벤트 1-4
+0,"scene_evt200515_cp1_q4,1",それからあちこち探したのに<br>ぴにゃはどこにもいなくて、<br>途方に暮れてたんです。,그때부터 여기저기 찾아보았는데도<br>삐냐는 어디에도 없어서、<br>망연자실하고 있었어요.
+1,"scene_evt200515_cp1_q4,1",そんな時にカエデさんが<br>ぴにゃが持ってた本を抱えてるのに<br>気づいて声をかけたんです。,그러던 중에 카에데씨가<br>삐냐가 가지고 있던 책을 안고 있던 걸<br>깨달았던거에요.
+2,"scene_evt200515_cp1_q4,1",なるほど……<br>ぴにゃ、ちゃん？　が見つからないって<br>心配ですね……,그랬구나……<br>삐냐?가 보이지 않아서<br>걱정이네요……
+3,"scene_evt200515_cp1_q4,1",かえ姉さま、その本を拾った時に<br>そのぴにゃって子は見なかった？,카에언니、그 책을 주웠을 때<br>그 삐냐라는 아이는 못 봤어？
+4,"scene_evt200515_cp1_q4,1",えっと、未央ちゃんたちが<br>追い払ってくれた黒い子ならいたけど、<br>緑の子は見なかったですね……,음、미오가<br>쫓아 내준 검은 아이들은 있었지만、<br>녹색 아이는 없었어……
+5,"scene_evt200515_cp1_q4,1",そうですか……<br>うぅ、手掛かりなし……,그랬었나요……<br>으、단서가 없어……
+6,"scene_evt200515_cp1_q4,1",ぴにゃのことも気になるけど、<br>本から出てきた子はどうなったの？<br>どこかに行っちゃったんでしょ？,삐냐도 걱정되지만、<br>책에서 나왔던 아이들은 어땠어？<br>어딘가로 가버렸잖아？
+7,"scene_evt200515_cp1_q4,1",あ、そうだった。<br>実はそっちも困ってるんです。,아、그랬어요.<br>사실은 그것도 곤란해하고있어요.
+8,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">エミリーは島の色んな場所に</span><br><span class=""scene-font-katari"">本から出てきた謎の生物が現れ、</span><br><span class=""scene-font-katari"">人間たちを襲っていると話す。</span>","<span class=""scene-font-katari"">에밀리는 섬 여기저기에서</span><br><span class=""scene-font-katari"">책에서 나온 수수께끼의 생물이 나타나、</span><br><span class=""scene-font-katari"">인간들을 위협하고 있다고 말했다.</span>"
+9,"scene_evt200515_cp1_q4,1",いまは傭兵の人たちのお陰で街の中は<br>安全だけど、あの数が一斉に<br>押し寄せて来たら街はきっと……,지금은 용병들 덕분에 마을 안은<br>안전하지만、그 수가 한번에<br>밀려온다면 마을은 분명……
+10,"scene_evt200515_cp1_q4,1",緑の奴らは知恵もあって手強かったし、<br>そいつらも放っておいたら<br>危ねぇかもしれねぇな。,녹색 녀석들도 지혜도 있고 만만찮았는데、<br>그녀석들도 내버려두면<br>위험할지도 모르겠네.
+11,"scene_evt200515_cp1_q4,1",その子たちが本から出てきたって<br>いうなら、本を調べたら何か<br>わかるんじゃない？,그 아이들이 책에서 나왔다고<br>했으니、책을 조사해보면 뭔가<br>알 수 있는 것 아닐까?
+12,"scene_evt200515_cp1_q4,1",さっすがしぶりん、あったまいいー！<br>ねぇねぇ、その本ちょっと<br>見せてもらってもいいですか？,역시 시부린、머리 좋아ー！<br>있잖아、그 책 조금<br>보여주지 않을래？
+13,"scene_evt200515_cp1_q4,1",ええ、どうぞ。,응、자 여기。
+14,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">楓が差し出した本には</span><br><span class=""scene-font-katari"">「ぴにゃの書」と書かれていた。</span>","<span class=""scene-font-katari"">카에데가 내민 책에는</span><br><span class=""scene-font-katari"">「삐냐의 책」이라고 적혀있었다.</span>"
+15,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">中は魔物図鑑のようになっており、</span><br><span class=""scene-font-katari"">絵の一部が切り取られたように</span><br><span class=""scene-font-katari"">すっかりなくなってしまっている。</span>","<span class=""scene-font-katari"">안에는 마물도감처럼 되어있어、</span><br><span class=""scene-font-katari"">그림 일부가 찢겨진 것 처럼</span><br><span class=""scene-font-katari"">몽땅 없어져있었다.</span>"
+16,"scene_evt200515_cp1_q4,1",もしかして、本から飛び出したのって<br>絵の一部なんでしょうか？,혹시、책에서 튀어나온 게<br>그림의 일부일까？
+17,"scene_evt200515_cp1_q4,1",可能性はあるんじゃないかな。<br>本から絵が飛び出すなんて、<br>それこそ魔法の世界って感じがする。,가능성은 있지 않을까?<br>책에서 그림이 튀어나온다니、<br>그거야말로 마법의 세계 라는 느낌이 들어.
+18,"scene_evt200515_cp1_q4,1",本から飛び出したんだったら、<br>本の中に戻せないのかな？<br>そしたら騒ぎも収まりそうじゃん？,책에서 튀어나온 거라면、<br>책으로 돌려보낼 수 있지 않을까？<br>그러면 이 소란도 수습되지 않을까？
+19,"scene_evt200515_cp1_q4,1",そうかもしれませんっ！<br>でも、どうしたら本の中に<br>戻せるんでしょう？,그럴지도 모르겠네！<br>그치만、어떻게 해야 책으로<br>돌려보낼 수 있을까？
+20,"scene_evt200515_cp1_q4,1",それはさすがにわからないけど……<br>まぁきっと何とかなるよ、うん！,그건 역시 모르겠지만……<br>뭐 분명 어떻게든될꺼야、응！
+21,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">[グラン]たちは飛び出した生物を</span><br><span class=""scene-font-katari"">元に戻すヒントを探そうと、</span><br><span class=""scene-font-katari"">更に本を調べる。</span>","<span class=""scene-font-katari"">[グラン]은 튀어나온 생물을</span><br><span class=""scene-font-katari"">원래대로 되돌릴 힌트를 찾기위해、</span><br><span class=""scene-font-katari"">다시 책을 살펴보았다.</span>"
+22,"scene_evt200515_cp1_q4,1",本から出てきた子のことも<br>気になりますけど、やっぱり<br>ぴにゃちゃんのことも心配です……,책에서부터 튀어나온 아이들도<br>신경쓰이지만、역시<br>삐냐도 걱정이에요……
+23,"scene_evt200515_cp1_q4,1",本から出てきた子たちは<br>ウヅキさんたちにお任せして、<br>私たちはぴにゃちゃんを捜しませんか？,책에서 나온 아이들은<br>우즈키네에게 맡겨두고、<br>우리들은 삐냐를 찾아보지 않을래요？
+24,"scene_evt200515_cp1_q4,1",そうだな。ウヅキたちなら<br>魔物くらいへっちゃらだろうし、<br>別行動でも問題ないと思うぜ！,그래. 우즈키네라면<br>마물 정도는 별 문제되지않으니、<br>따로 움직여도 문제없을거야！
+25,"scene_evt200515_cp1_q4,1",ありがとうございます！<br>ふぅ……いい人たちに出会えて<br>よかったぁ～！,고맙습니다！<br>후우……좋은 사람들을 만나서<br>다행이야～！
+26,"scene_evt200515_cp1_q4,1",あ、そうだ。<br>本から出てきた子たちの目撃情報なら<br>少し知ってるので、教えますね！,아、그래.<br>책에서 나온 아이들의 목격정보는<br>조금 알고있으니까、알려드릴게요！
+27,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">エミリーは島の簡単な地図を描き、</span><br><span class=""scene-font-katari"">どこで何が現れたかを</span><br><span class=""scene-font-katari"">卯月たちに説明する。</span>","<span class=""scene-font-katari"">에밀리는 섬의 간략한 지도를 그려、</span><br><span class=""scene-font-katari"">어디서 뭐가 나타났는지를</span><br><span class=""scene-font-katari"">우즈키네에게 설명했다.</span>"
+28,"scene_evt200515_cp1_q4,1","<span class=""scene-font-kokoro"">（みんな、困ってる人に</span><br><span class=""scene-font-kokoro"">すぐに手を差し伸べていて、偉い……）</span>","<span class=""scene-font-kokoro"">（모두、곤란해 하는 사람에게</span><br><span class=""scene-font-kokoro"">바로 도움을 주고있어、대단해……）</span>"
+29,"scene_evt200515_cp1_q4,1","<span class=""scene-font-kokoro"">（自分のことでいっぱいいっぱいに</span><br><span class=""scene-font-kokoro"">なっていたけど、じっとしていても</span><br><span class=""scene-font-kokoro"">帰る方法がわかるわけじゃないし……）</span>","<span class=""scene-font-kokoro"">（앞으로 어떻게 해야할지 걱정이었는데、</span><br><span class=""scene-font-kokoro"">가만히 있어도 돌아갈 방법을</span><br><span class=""scene-font-kokoro"">알 수 있는 것도 아니니……）</span>"
+30,"scene_evt200515_cp1_q4,1","<span class=""scene-font-kokoro"">（私も、お手伝い、</span><br><span class=""scene-font-kokoro"">してみようかしら……？）</span>","<span class=""scene-font-kokoro"">（나도、도움、</span><br><span class=""scene-font-kokoro"">줘볼까……？）</span>"
+31,"scene_evt200515_cp1_q4,1",あの、[グラン]さん……<br>その……少しいいですか？,저기、[グラン]씨……<br>그……잠깐 괜찮을까요？
+32,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">楓は自分にも何かできることはないかと</span><br><span class=""scene-font-katari"">[グラン]たちに尋ねる。</span>","<span class=""scene-font-katari"">카에데는 자신에게도 뭔가 할 수 있는게 없을지</span><br><span class=""scene-font-katari"">[グラン]에게 물어보았다.</span>"
+33,"scene_evt200515_cp1_q4,1",人数が多い方が助かるけどよ、<br>姉ちゃんはもう大丈夫なのか？<br>無理しねぇで休んでていいんだぜ？,사람은 많을 수록 도움이 되지만서두、<br>누님은 이제 괜찮은거야？<br>무리하지말고 쉬어도 괜찮다구？
+34,"scene_evt200515_cp1_q4,1",この世界のこともよくわからないですし<br>却ってご迷惑をおかけするかも<br>しれませんが……,이 세계에 대한 것도 잘 모르고<br>되려 폐가 될지도 <br>모르겠지만……
+35,"scene_evt200515_cp1_q4,1",何か自分にできることを<br>見つけたいんです。<br>……卯月ちゃんたちみたいに。,무언가 제가 할 수 있는 것을<br>찾고 싶어요.<br>……우즈키네 처럼.
+36,"scene_evt200515_cp1_q4,1",だったら私たちと一緒に行きましょう！<br>[グラン]と一緒なら<br>魔物が出ても危なくないですし。,그럼 우리랑 같이 가요！<br>[グラン]랑 함께라면<br>마물이 나와도 위험하지않고.
+37,"scene_evt200515_cp1_q4,1",色々慣れないのは仕方ねぇし、<br>なんかあったらすぐに言うんだぜ。,이것저것 익숙하지 않은 건 어쩔 수 없으니、<br>뭔가 있으면 바로 말해달라구.
+38,"scene_evt200515_cp1_q4,1",ありがとうございます。<br>よろしくお願いします。,고맙습니다.<br>잘부탁드려요.
+39,"scene_evt200515_cp1_q4,1","<span class=""scene-font-katari"">こうして[グラン]たちは</span><br><span class=""scene-font-katari"">謎の生物を巡る奇妙な事件に</span><br><span class=""scene-font-katari"">巻き込まれていくのだった。</span>","<span class=""scene-font-katari"">이렇게 해서[グラン]과 모두는</span><br><span class=""scene-font-katari"">수수께끼의 생물을 둘러싼 기묘한 사건에</span><br><span class=""scene-font-katari"">말려 들어간 것이었다.</span>"
+
+!이벤트 2-1
+0,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">島の各地に出没した謎の生物たちを</span><br><span class=""scene-font-katari"">本に戻すため、Side.Wたちは</span><br><span class=""scene-font-katari"">手分けして行動を開始する。</span>"
+1,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">艇内に残っていた団員も何人か</span><br><span class=""scene-font-katari"">Side.Wたちに協力しており──</span>"
+2,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">卯月は以前部屋の片づけを</span><br><span class=""scene-font-katari"">手伝った時に仲良くなった</span><br><span class=""scene-font-katari"">ラグナと行動をともにしていた。</span>"
+3,"scene_evt200515_cp2_q1,1",ふむふむ、なるほど……<br>その可能性は高そうだな。
+4,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">一方の手にぴにゃの書を、</span><br><span class=""scene-font-katari"">もう一方の手に槍を持ちながら、</span><br><span class=""scene-font-katari"">ラグナは独り言のように呟く。</span>"
+5,"scene_evt200515_cp2_q1,1",あの、ラグナさん……<br>変なこと聞くようですけど、<br>誰かとお話ししてるんですか？
+6,"scene_evt200515_cp2_q1,1",ああ、驚かせてしまったならすまない。<br>私が話していたのは『コイツ』だ。
+7,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">ラグナはそう言って持っていた槍を</span><br><span class=""scene-font-katari"">卯月に見せる。</span>"
+8,"scene_evt200515_cp2_q1,1",『ウォーマーの記憶』という宝具だ。<br>数千年前から存在し、<br>幾億の争いの記憶を蓄えている。
+9,"scene_evt200515_cp2_q1,1",数千年前から存在してるんですか！？<br>それに争いの記憶を蓄えてるって……？
+10,"scene_evt200515_cp2_q1,1",簡単な話さ。<br>『コイツ』は数千年の間に経験した<br>戦いの全てを覚えてるんだ。
+11,"scene_evt200515_cp2_q1,1",更にその記憶は使用者にも共有され、<br>使用者は記憶を自分の物にして<br>戦うことができる。
+12,"scene_evt200515_cp2_q1,1",わかりやすく言えば、<br>『コイツ』がいれば人が考えうる<br>戦術の全てを容易く回避できるのさ。
+13,"scene_evt200515_cp2_q1,1",へぇ～！<br>すごい武器なんですね！
+14,"scene_evt200515_cp2_q1,1",だから正々堂々と戦う時は<br>私は『コイツ』を使わない。<br>ズルをしてるも同然だからな。
+15,"scene_evt200515_cp2_q1,1",それで『コイツ』なら何か<br>知ってるんじゃないかと思って、<br>ぴにゃの書について尋ねていたんだ。
+16,"scene_evt200515_cp2_q1,1",それで……何かわかったんですか？
+17,"scene_evt200515_cp2_q1,1",ああ、この本がどういう類いの物か<br>粗方見当はつけられたよ。
+18,"scene_evt200515_cp2_q1,1",聞きたいです！<br>……ちゃんと理解できるかは<br>自信ないですけど。
+19,"scene_evt200515_cp2_q1,1",この手の書物は何かを封印することが<br>目的で作られることが多いらしい。
+20,"scene_evt200515_cp2_q1,1",凶暴な魔物、禁忌の術、記憶……<br>要するに野放しにしては危険な<br>強大な力だ。
+21,"scene_evt200515_cp2_q1,1",そして『コイツ』によると、<br>この本にはいま現在<br>強力な魔力が秘められてるらしい。
+22,"scene_evt200515_cp2_q1,1",喩えるなら星晶獣か、<br>或いはそれと同等の力だ。
+23,"scene_evt200515_cp2_q1,1",うぅ……恐ろしいです。
+24,"scene_evt200515_cp2_q1,1",幸い、その強大な力自体は<br>まだ封印された状態で本に残っている。
+25,"scene_evt200515_cp2_q1,1",本の使用者が力を<br>引き出しきれなかったんだろう。<br>だから私が持っているうちは安全だ。
+26,"scene_evt200515_cp2_q1,1",と……見えてきたな。
+27,"scene_evt200515_cp2_q1,1","カタカタカタカタ……<br><span class=""scene-font-kokoro"">（ぴにゃ……）</span>"
+28,"scene_evt200515_cp2_q1,1","カタカタ……<br><span class=""scene-font-kokoro"">（ぴにゃ……）</span>"
+29,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">エミリーの目撃情報を頼りに</span><br><span class=""scene-font-katari"">洞窟に来た卯月たちは</span><br><span class=""scene-font-katari"">骨の生物の集団に遭遇する。</span>"
+30,"scene_evt200515_cp2_q1,1",ほんとに骨だけで動いてるんですね……<br>お化けみたいです……
+31,"scene_evt200515_cp2_q1,1","カタッ……！<br><span class=""scene-font-kokoro"">（ぴにゃっ！）</span>"
+32,"scene_evt200515_cp2_q1,1","<span class=""scene-font-4"">カタカタカタカタ……！！</span><br><span class=""scene-font-kokoro scene-font-4"">（ぴーにゃぁああ！！）</span>"
+33,"scene_evt200515_cp2_q1,1","<span class=""scene-font-4"">うわぁぁーっ！</span><br>急に飛び掛かってきましたよ！"
+34,"scene_evt200515_cp2_q1,1",通りかかる人間に見境なく襲い掛かる。<br>話に聞いてた通りだな……
+35,"scene_evt200515_cp2_q1,1","カ、カタカタ……！！？<br><span class=""scene-font-kokoro"">（ぴ、ぴにゃっ！！？）</span>"
+36,"scene_evt200515_cp2_q1,1",持論だが、老若男女問わず<br>見境なく人を襲う外道には<br>ズルをしてもいいと思うんだ。
+37,"scene_evt200515_cp2_q1,1",本気で行かせてもらうぞ……！
+38,"scene_evt200515_cp2_q1,1","カカタカタタタタカタカタ……！？<br><span class=""scene-font-kokoro"">（ぴぴぴにゃぴにゃにゃぴぃぃい！？）</span>"
+39,"scene_evt200515_cp2_q1,1","カタカタ……<br><span class=""scene-font-kokoro"">（ぴにゃあ……）</span>"
+40,"scene_evt200515_cp2_q1,1",やはりこの手のアンデッドは<br>核を砕かなければ<br>倒しても復活するか。
+41,"scene_evt200515_cp2_q1,1","<span class=""scene-font-kokoro"">（あれ……？</span><br><span class=""scene-font-kokoro"">見境なく人を襲うって聞いてたから、</span><br><span class=""scene-font-kokoro"">もっと乱暴なのを想像してたのに……）</span>"
+42,"scene_evt200515_cp2_q1,1","<span class=""scene-font-kokoro"">（ラグナさんが攻撃を始めてから</span><br><span class=""scene-font-kokoro"">あの子たち、逃げてばかり……）</span>"
+43,"scene_evt200515_cp2_q1,1","<span class=""scene-font-kokoro"">（もしかして、</span><br><span class=""scene-font-kokoro"">襲ってきたのには</span><br><span class=""scene-font-kokoro"">理由があるんじゃ……！）</span>"
+44,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">卯月が必死で考えている間にも</span><br><span class=""scene-font-katari"">ラグナは洞窟の壁に</span><br><span class=""scene-font-katari"">骨の生物たちを追いつめる。</span>"
+45,"scene_evt200515_cp2_q1,1","<span class=""scene-font-4"">カタカタカタ……！！？</span><br><span class=""scene-font-kokoro scene-font-4"">（ぴぃぃにゃぁああ！！？）</span>"
+46,"scene_evt200515_cp2_q1,1",核の場所は頭か、或いは胸か……<br>ひとつひとつ砕いて確かめてみるか？
+47,"scene_evt200515_cp2_q1,1",待ってください、ラグナさん！<br>この子たち、きっと何か事情があって<br>人を襲ってたのかもしれません！
+48,"scene_evt200515_cp2_q1,1",なので、私がこの子たちから<br>話を聞いてみます！<br>終わるまで待ってくれませんか！
+49,"scene_evt200515_cp2_q1,1",こいつらと話せるのか！？<br>カタカタしか言ってないのに？
+50,"scene_evt200515_cp2_q1,1",話せると思います。<br>……多分、ですけど。
+51,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">卯月は骨の生物たちの前に立ち、</span><br><span class=""scene-font-katari"">安心させるように笑顔で語りかける。</span>"
+52,"scene_evt200515_cp2_q1,1","ぴにゃぴにゃ。<br>ぴにゃ、ぴにゃぴぴにゃ！<br><span class=""scene-font-kokoro"">（みなさん、落ち着いてください！）</span>"
+53,"scene_evt200515_cp2_q1,1","カタ……ッ！！<br><span class=""scene-font-kokoro"">（ぴにゃっ！！）</span>"
+54,"scene_evt200515_cp2_q1,1","<span class=""scene-font-kokoro"">（よかった。</span><br><span class=""scene-font-kokoro"">私の言葉、伝わってるみたい！）</span>"
+55,"scene_evt200515_cp2_q1,1","ぴにゃにゃ、<br>ぴにゃぴにゃ、ぴーにゃぴにゃ？<br><span class=""scene-font-kokoro"">（一体、何があったんですか？）</span>"
+56,"scene_evt200515_cp2_q1,1","カタ、カタカタカタカタ……<br><span class=""scene-font-kokoro"">（ぴにゃ、ぴにゃぴにゃぴにゃぴ……）</span>"
+57,"scene_evt200515_cp2_q1,1","ぴ、ぴにゃぴにゃぴにゃぴ！？<br><span class=""scene-font-kokoro"">（そんな事情があったんですか！？）</span>"
+58,"scene_evt200515_cp2_q1,1","カタカタ、カタカタカタ……<br><span class=""scene-font-kokoro"">（ぴにゃにゃ、ぴにゃにゃぴにゃ……）</span>"
+59,"scene_evt200515_cp2_q1,1","ぴぃ、ぴにゃぴっぴ……<br><span class=""scene-font-kokoro"">（ああ、なるほど……）</span>"
+60,"scene_evt200515_cp2_q1,1",驚いたな。<br>本当に会話できてるみたいだ。
+61,"scene_evt200515_cp2_q1,1",それでウヅキ、<br>何かわかりそうか？
+62,"scene_evt200515_cp2_q1,1",その……ラグナさん、<br>もしかして、いまミルクを<br>持ってたりしますか？
+63,"scene_evt200515_cp2_q1,1",ミルクか？<br>ああ、それなら先程街で買った<br>土産物の中にある。
+64,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">ラグナはそう言うと荷物を開け、</span><br><span class=""scene-font-katari"">持ち帰り用のミルクを取り出す。</span>"
+65,"scene_evt200515_cp2_q1,1","カカ、カタカタ……！！<br><span class=""scene-font-kokoro"">（ぴ、ぴにゃぴ！！）</span>"
+66,"scene_evt200515_cp2_q1,1",なっ！<br>ミルクに反応してるのか？
+67,"scene_evt200515_cp2_q1,1",それが、この子たちはずっと<br>カルシウム不足に<br>悩んでいたみたいで……
+68,"scene_evt200515_cp2_q1,1",骨を強くするためにミルクが欲しいって<br>ラグナさんにおねだりしていただけ<br>みたいなんです……
+69,"scene_evt200515_cp2_q1,1","カタカタ、カタ……！！<br><span class=""scene-font-kokoro"">（ぴにゃぴ、ぴにゃあ！！）</span>"
+70,"scene_evt200515_cp2_q1,1",そんなことで悩んでたのか……<br>ううむ、なるほど……
+71,"scene_evt200515_cp2_q1,1",ここを通った商人を襲ったのも<br>牧場から運んでいたミルク欲しさ<br>だったのかもしれないな……
+72,"scene_evt200515_cp2_q1,1",それでラグナさん、<br>お願いがあるんですけど……
+73,"scene_evt200515_cp2_q1,1",そのミルクをこの子たちに<br>分けてもらうことってできませんか？<br>満足したら襲わなくなると思うのでっ！
+74,"scene_evt200515_cp2_q1,1",しかし、魔物の類いであることには<br>変わりないだろう。<br>本当にそれで人を襲わなくなるのか？
+75,"scene_evt200515_cp2_q1,1",やってみないとわかりませんけど、<br>できることなら喧嘩はしたくないです。<br>お代は払うので、お願いしますっ！
+76,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">卯月は頼み込むように</span><br><span class=""scene-font-katari"">深々と頭を下げた。</span>"
+77,"scene_evt200515_cp2_q1,1",顔を上げてくれ、ウヅキ。<br>私は何もウヅキの主張を<br>突っぱねたかったわけじゃない。
+78,"scene_evt200515_cp2_q1,1",ただ心配だっただけだ。<br>私たちがこいつらを見逃したせいで<br>誰かにケガをされたら申し訳ない。
+79,"scene_evt200515_cp2_q1,1",この子たちは誤解されてただけで、<br>ほんとはそんなに凶暴じゃないんです。
+80,"scene_evt200515_cp2_q1,1",もし悪いことをしようとしたら、<br>その時はしょうがないですけど……<br>できれば仲良くしたいですからっ！
+81,"scene_evt200515_cp2_q1,1",そうだな。<br>私もミルク好き仲間の中に<br>悪い奴がいるとは思いたくない。
+82,"scene_evt200515_cp2_q1,1",わかった、<br>ウヅキの提案に賭けてみるよ。<br>それと代金のことは気にしないでくれ。
+83,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">ラグナは卯月を</span><br><span class=""scene-font-katari"">安心させるように言うと、</span><br><span class=""scene-font-katari"">骨の生物たちにミルクを差し出す。</span>"
+84,"scene_evt200515_cp2_q1,1","カタカタカタ……！<br><span class=""scene-font-kokoro"">（ぴにゃぴにゃ～！）</span>"
+85,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">骨の生物たちは嬉しそうに跳ねると、</span><br><span class=""scene-font-katari"">ラグナからミルクを受け取る。</span>"
+86,"scene_evt200515_cp2_q1,1",うふふっ♪<br>みなさん、すごく喜んでます！
+87,"scene_evt200515_cp2_q1,1",ああ。<br>この様子ならウヅキの言う通り<br>和解の道はあるかもしれないな。
+88,"scene_evt200515_cp2_q1,1",ミルクはまだ残っている。<br>ウヅキもミルクが好きだろう？<br>仲直りの印に私たちも乾杯しよう。
+89,"scene_evt200515_cp2_q1,1",ありがとうございます！<br>いただきますっ！
+90,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">洞窟内で卯月たちと骨の生物たちは</span><br><span class=""scene-font-katari"">ミルクで乾杯し、</span><br><span class=""scene-font-katari"">その味わいに舌鼓を打つ。</span>"
+91,"scene_evt200515_cp2_q1,1",ふぅ～、ご馳走さまでした。<br>このミルク、今度は紅茶に入れて<br>飲んでみたいなっ！
+92,"scene_evt200515_cp2_q1,1","カタカタ……<br><span class=""scene-font-kokoro"">（ぴにゃあ～♪）</span>"
+93,"scene_evt200515_cp2_q1,1",どうやらこいつらも満足して<br>落ち着いたようだ。<br>問題はどうやって本に戻すかだが……
+94,"scene_evt200515_cp2_q1,1","カタカタ……！<br><span class=""scene-font-kokoro"">（ぴにゃあっ！）</span>"
+95,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">ミルクを飲み終えた骨の生物たちは</span><br><span class=""scene-font-katari"">ラグナの前に群がっていく。</span>"
+96,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">そしてラグナの持っている本に</span><br><span class=""scene-font-katari"">そっと触れると、</span><br><span class=""scene-font-katari"">光となって吸い込まれていくのだった。</span>"
+97,"scene_evt200515_cp2_q1,1",えっ？<br>消えちゃった……？
+98,"scene_evt200515_cp2_q1,1",先程まで空だった絵が復活している。<br>どうやら本に戻ったようだ。
+99,"scene_evt200515_cp2_q1,1",ほんとだぁ！<br>ラグナさん、やりましたね！<br>ぶいっ！
+100,"scene_evt200515_cp2_q1,1",ああ、ぶいっ、だ！
+101,"scene_evt200515_cp2_q1,1","<span class=""scene-font-katari"">卯月とラグナは２本の指を立てながら、</span><br><span class=""scene-font-katari"">満面の笑みを浮かべる。</span>"
+
+
+
+
+
+!이벤트 2-2
+0,"scene_evt200515_cp2_q2,1",くつろいでたところ、<br>呼び出してごめんね。<br>ロザミアが来てくれて助かるよ。
+1,"scene_evt200515_cp2_q2,1","<span class=""scene-font-kokoro"">（構わないわ。</span><br><span class=""scene-font-kokoro"">街の混乱は見過ごせないし）</span><br>くだらない騒ぎに巻き込まれたものね。"
+2,"scene_evt200515_cp2_q2,1","あ、うん……そうだね。<br><span class=""scene-font-kokoro"">（また本音と建前が逆になってる……）</span>"
+3,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛とロザミアは交わす言葉こそ</span><br><span class=""scene-font-katari"">少ないものの、どこか気が合うらしく</span><br><span class=""scene-font-katari"">ともに依頼をこなすことも多かった。</span>"
+4,"scene_evt200515_cp2_q2,1",その妙な魔物が出るのは<br>この辺という話だったわね。
+5,"scene_evt200515_cp2_q2,1",そのはずだけど……<br>……あっ。
+6,"scene_evt200515_cp2_q2,1",びにゃあ……
+7,"scene_evt200515_cp2_q2,1",鼻と頭に合わせて３つの角がある。<br>うん、間違いない。
+8,"scene_evt200515_cp2_q2,1","<span class=""scene-font-kokoro"">（噂通り、不思議な姿……）</span><br>ぶっさいく……"
+9,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">びにゃぁあああッッ！！！</span>"
+10,"scene_evt200515_cp2_q2,1",やる気のようね。<br>初撃は私が。追撃を頼むわ。
+11,"scene_evt200515_cp2_q2,1",わかった！
+12,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛たちを見つけるなり、</span><br><span class=""scene-font-katari"">３本角の生物はふたり目掛けて</span><br><span class=""scene-font-katari"">突進してくる。</span>"
+13,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">遅いっ！</span><br><span class=""scene-font-4"">はぁぁあああッッッ！！</span>"
+14,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">ロザミアは攻撃をひらりとかわし、</span><br><span class=""scene-font-katari"">魔力を込めた呪符で反撃する。</span>"
+15,"scene_evt200515_cp2_q2,1","蒼の剣を受けよ！<br><span class=""scene-font-4"">アイオライト・ブルー！</span>"
+16,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">畳み掛けるように凛は</span><br><span class=""scene-font-katari"">蒼い光をまとった剣で攻撃する。</span>"
+17,"scene_evt200515_cp2_q2,1",これだけ一気に叩けば……
+18,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">びにゃぁあああッッ！！！</span>"
+19,"scene_evt200515_cp2_q2,1",効いていない……！？
+20,"scene_evt200515_cp2_q2,1",なら、もう一度！<br>きっとそのうち、<br>弱点が見えてくるはずだから！
+21,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">これまで幾多の魔物を</span><br><span class=""scene-font-katari"">撃退してきた凛の剣と、</span><br><span class=""scene-font-katari"">数多の兵を屠ってきたロザミアの呪符。</span>"
+22,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">ふたりの強力な攻撃を</span><br><span class=""scene-font-katari"">真正面から受けても、</span><br><span class=""scene-font-katari"">３本角の生物の勢いは一向に衰えない。</span>"
+23,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">びにゃあッッ！！</span>"
+24,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">びにゃぁぁあああッッッ！！</span>"
+25,"scene_evt200515_cp2_q2,1",ち……元気いっぱいじゃない……！<br>これは再生、結界、耐性……？<br>面倒な魔物ね……！
+26,"scene_evt200515_cp2_q2,1",っ！！
+27,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">全く勢いの衰えない</span><br><span class=""scene-font-katari"">３本角の生物の攻撃をかわし、</span><br><span class=""scene-font-katari"">ロザミアは大量の呪符を放つ。</span>"
+28,"scene_evt200515_cp2_q2,1","<span class=""scene-font-kokoro"">（気のせいかな？</span><br><span class=""scene-font-kokoro"">あの生き物、さっきからロザミアばかり</span><br><span class=""scene-font-kokoro"">狙ってるような……）</span>"
+29,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">ふっ……！</span><br><span class=""scene-font-4"">はぁぁあああッッ！！！</span>"
+30,"scene_evt200515_cp2_q2,1","<span class=""scene-font-4"">びにゃぁぁあああッッ！！！</span>"
+31,"scene_evt200515_cp2_q2,1","<span class=""scene-font-kokoro"">（ほら、また。</span><br><span class=""scene-font-kokoro"">最初に攻撃してきたから？</span><br><span class=""scene-font-kokoro"">でも私だってその後攻撃したのに……）</span>"
+32,"scene_evt200515_cp2_q2,1",出し惜しみはヤメね……<br>術式解放……！<br>受けなさいッッッ！
+33,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">ロザミアは体にまとっていた</span><br><span class=""scene-font-katari"">全ての呪符を解き放ち、</span><br><span class=""scene-font-katari"">強力な攻撃を見舞う。</span>"
+34,"scene_evt200515_cp2_q2,1",……これなら！
+35,"scene_evt200515_cp2_q2,1",びにゃあ～～♪♪♪
+36,"scene_evt200515_cp2_q2,1",えっ？
+37,"scene_evt200515_cp2_q2,1",びにゃあ♪　びにゃびにゃ～～♪
+38,"scene_evt200515_cp2_q2,1",……あれは、喜んでいるの？<br>襲ってきたかと思えば、<br>どうして……？
+39,"scene_evt200515_cp2_q2,1",わからない……<br>手帳、なんか書いてあったっけ？
+40,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛はぴにゃの書の内容を転写した</span><br><span class=""scene-font-katari"">手帳を開き、眉をひそめる。</span>"
+41,"scene_evt200515_cp2_q2,1",いや、そんなことって……<br>でもそうとしか思えないし……
+42,"scene_evt200515_cp2_q2,1",リン、どうかしたの？
+43,"scene_evt200515_cp2_q2,1",その、この３本角の子って<br>「３度の飯より金が好き」<br>らしいんだけど……
+44,"scene_evt200515_cp2_q2,1",ロザミアが使ってた呪符を<br>お金と勘違いして喜んでるんじゃ<br>ないかなって思って……
+45,"scene_evt200515_cp2_q2,1",……こんな紙切れ、<br>お金に見間違えるわけないでしょう。
+46,"scene_evt200515_cp2_q2,1",あぁ……そっか。<br>私たちの世界には紙のお金もあるんだ。
+47,"scene_evt200515_cp2_q2,1",色や模様は違うけど、<br>大量に宙を舞ってるのを見れば<br>お金に見えなくもない……と思う。
+48,"scene_evt200515_cp2_q2,1","<span class=""scene-font-kokoro"">（呪符を紙幣と間違えるってことは、</span><br><span class=""scene-font-kokoro"">この本も元々は別の世界にあったって</span><br><span class=""scene-font-kokoro"">可能性があるのかな？）</span>"
+49,"scene_evt200515_cp2_q2,1",びにゃあ♪　びにゃびにゃ～～♪
+50,"scene_evt200515_cp2_q2,1","<span class=""scene-font-kokoro"">（呪符をお金と間違えるなんて</span><br><span class=""scene-font-kokoro"">驚きだわ）</span><br>信じられないバカね。"
+51,"scene_evt200515_cp2_q2,1",また本音と建前が逆……<br>でもそうだね、私も驚いてるよ。
+52,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛は辺りに散った使用済みの呪符を</span><br><span class=""scene-font-katari"">拾い集める。</span>"
+53,"scene_evt200515_cp2_q2,1",これ、もらってもいいかな？
+54,"scene_evt200515_cp2_q2,1",呪符……？　魔力の抜けた、<br>ゴミ同然の出がらしよ？<br>何に使う気？
+55,"scene_evt200515_cp2_q2,1",これで森の中に誘導できないかなって。<br>悔しいけど討伐は難しそうだし、<br>せめて人がいない場所に移動させたい。
+56,"scene_evt200515_cp2_q2,1",びにゃあ♪
+57,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛の集めた呪符に目を輝かせ、</span><br><span class=""scene-font-katari"">３本角の生物が凛に駆け寄る。</span>"
+58,"scene_evt200515_cp2_q2,1",あっ……
+59,"scene_evt200515_cp2_q2,1",びにゃあ♪
+60,"scene_evt200515_cp2_q2,1",しっぽ振ってる……<br>おすわり！　……なんて。<br>ハナコじゃないんだから、簡単には……
+61,"scene_evt200515_cp2_q2,1",え？<br>ほんとにした……
+62,"scene_evt200515_cp2_q2,1",それじゃあ……<br>……取って来い！
+63,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛は呪符を紐で束ねると、</span><br><span class=""scene-font-katari"">フリスビーのように遠くへ投げる。</span>"
+64,"scene_evt200515_cp2_q2,1",びにゃあ♪
+65,"scene_evt200515_cp2_q2,1",なにこの子、犬みたい……<br>……ふふっ。
+66,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">思わず角の生えた頭をなでる凛。</span><br><span class=""scene-font-katari"">３本角の生物は嬉しそうに</span><br><span class=""scene-font-katari"">しっぽを振っている。</span>"
+67,"scene_evt200515_cp2_q2,1",……あれを手懐けたの？<br>とんだことをするのね……
+68,"scene_evt200515_cp2_q2,1",でもよかった。<br>この調子なら暴れずに<br>森まで移動させられそう。
+69,"scene_evt200515_cp2_q2,1",凛ちゃーん、聞いてください！<br>さっき骨の子にミルクをあげたら、<br>みんなぴにゃの書に戻ったんです！
+70,"scene_evt200515_cp2_q2,1",あ、卯月にラグナさん……<br>ぴにゃの書に戻ったってほんと？<br>どうやって戻したの？
+71,"scene_evt200515_cp2_q2,1",それが、詳しいことは<br>わからないんだが……
+72,"scene_evt200515_cp2_q2,1",びにゃあ！
+73,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">ぴにゃの書を見つけるなり、</span><br><span class=""scene-font-katari"">本を持つラグナの方へすり寄る</span><br><span class=""scene-font-katari"">３本角の生物。すると……</span>"
+74,"scene_evt200515_cp2_q2,1",消えた……？<br>本の中に戻ったの？
+75,"scene_evt200515_cp2_q2,1",そのようだ。<br>絵が復活している。
+76,"scene_evt200515_cp2_q2,1",さっきもこんな感じで。<br>まるで自分からぴにゃの書に<br>戻っていったみたいに……
+77,"scene_evt200515_cp2_q2,1",もしかしたら、満足すると<br>自分から本の中に戻ってくれるのかも。
+78,"scene_evt200515_cp2_q2,1",さっきの子はお金の代わりに<br>呪符をもらって、<br>嬉しそうにしてたから。
+79,"scene_evt200515_cp2_q2,1",そうかもしれないな。<br>ではミオのいる公園にも行ってみよう。
+80,"scene_evt200515_cp2_q2,1","<span class=""scene-font-katari"">凛たちは静かになった草原を後にする。</span>"
+
+!이벤트 2-3
+0,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">PINYAAAーー！！</span>"
+1,"scene_evt200515_cp2_q3,1",たはは……<br>いきなり２点取られた……
+2,"scene_evt200515_cp2_q3,1",はぁ……はぁ……<br>でもまだ時間はあります。<br>ここから逆転しましょう！
+3,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">その頃、公園では</span><br><span class=""scene-font-katari"">未央とジェシカが青縞の生物たちと</span><br><span class=""scene-font-katari"">サッカーの試合をしていた。</span>"
+4,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">未央たちが公園に入った瞬間、</span><br><span class=""scene-font-katari"">青縞の生物たちはふたりを</span><br><span class=""scene-font-katari"">コートの中に無理矢理引っ張り込んだ。</span>"
+5,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">問答無用で挑まれた勝負に仕方なく</span><br><span class=""scene-font-katari"">応じたはいいものの、ふたりは圧倒的に</span><br><span class=""scene-font-katari"">不利な状況に苦戦を強いられていた。</span>"
+6,"scene_evt200515_cp2_q3,1",向こうが５匹で<br>こっちがふたりってのも<br>きついけど……
+7,"scene_evt200515_cp2_q3,1",ピーニャ！　ピーニャ！
+8,"scene_evt200515_cp2_q3,1",ギャラリーにいる黒いのの声援が<br>地味にこたえるなぁ……<br>完全にアウェー戦って感じだよ……
+9,"scene_evt200515_cp2_q3,1",でもこの試合に勝たないと、<br>ここにいる子たちはきっと公園から<br>出ていってくれません。
+10,"scene_evt200515_cp2_q3,1",公園が占拠されるなんて困るもんね。<br>街の人たちのためにも<br>絶対に勝たなきゃっ！
+11,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">どの団員とも分け隔てなく接する</span><br><span class=""scene-font-katari"">未央だったが、ジェシカとは弟がいる</span><br><span class=""scene-font-katari"">同士で話が合い、特に仲がよかった。</span>"
+12,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">ピーニャッ！！</span>"
+13,"scene_evt200515_cp2_q3,1",だぁ～、また点とられたぁーっ！<br>やっぱキーパー不在はきっついよぉ……
+14,"scene_evt200515_cp2_q3,1",えっと、その……<br>キーパーというのは……？
+15,"scene_evt200515_cp2_q3,1",ゴール前でボールを守る人だよ。<br>向こうのチームで言うと、あの子。
+16,"scene_evt200515_cp2_q3,1",PINYA……
+17,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">未央はゴールの前に立つ</span><br><span class=""scene-font-katari"">青縞の生物を見ながら言う。</span>"
+18,"scene_evt200515_cp2_q3,1",そういえばあの子は、<br>手でボールを持っても<br>怒られていなかったような……
+19,"scene_evt200515_cp2_q3,1",キーパーは他の選手と違って<br>ハンドは取られないんだ。<br>ゴール前のエリア限定でだけどね。
+20,"scene_evt200515_cp2_q3,1",キーパー……<br>ゴールを守る人で、<br>手を使ってもいい人……
+21,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">ピニャアッ！！</span>"
+22,"scene_evt200515_cp2_q3,1",あ、はいはいっ！<br>すぐ準備するね。
+23,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">ふたりはセンターサークルに入り、</span><br><span class=""scene-font-katari"">ボールを蹴って試合を再開する。</span>"
+24,"scene_evt200515_cp2_q3,1","<span class=""scene-font-kokoro"">（ジェシーはサッカー初めてなんだから</span><br><span class=""scene-font-kokoro"">私がなんとかしないと……</span><br><span class=""scene-font-kokoro"">次こそ！）</span>"
+25,"scene_evt200515_cp2_q3,1",くぅ、またボール取られた！<br>ジェシー止め……
+26,"scene_evt200515_cp2_q3,1",って、ジェシー？<br>どこに行ったの？
+27,"scene_evt200515_cp2_q3,1",そこっ！！
+28,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">鋭い声の直後に響く鈍い金属音。</span><br><span class=""scene-font-katari"">するとボールが相手陣地の方へ飛び、</span><br><span class=""scene-font-katari"">そのままコートの外に転がっていった。</span>"
+29,"scene_evt200515_cp2_q3,1",わぁ……<br>思ったよりもよく飛びますね。<br>銃と相性がいいんでしょうか？
+30,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">肩に提げた大きな銃を構えながら、</span><br><span class=""scene-font-katari"">ジェシカは得意げに微笑む。</span>"
+31,"scene_evt200515_cp2_q3,1",いつの間にかキーパーの位置に<br>移動してるっ！？<br>っていうか銃でボール弾いたの！？
+32,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">ピニャア！！　ピニャピ……</span>"
+33,"scene_evt200515_cp2_q3,1",PINYA、PINYAPINYA。
+34,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">ポケットから何かを取り出そうとする</span><br><span class=""scene-font-katari"">黒い翼の生物の手を止め、</span><br><span class=""scene-font-katari"">青縞の生物は諭すように首を振る。</span>"
+35,"scene_evt200515_cp2_q3,1",ピ、ピニャピ……
+36,"scene_evt200515_cp2_q3,1",もしかして、<br>レッドカード出すのを止めてくれた？<br>あの青いの敵ながらいいやつじゃん！
+37,"scene_evt200515_cp2_q3,1",ミオさん、私キーパーなら<br>お役に立てるかもしれません！<br>ここにいてもいいですか？
+38,"scene_evt200515_cp2_q3,1",うん！　ゴールを守ってくれるなら、<br>私も攻撃に集中できるよ！<br>そっちはジェシーに任せた！
+39,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">青縞の生物たちはセンターサークルに</span><br><span class=""scene-font-katari"">ボールを置き、味方にパスを出す。</span>"
+40,"scene_evt200515_cp2_q3,1",PINYAAA～～！
+41,"scene_evt200515_cp2_q3,1",ボールが来ましたね！<br>……それ！
+42,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">青縞の生物の放ったシュートを</span><br><span class=""scene-font-katari"">豪快に銃で打ち返すジェシカ。</span><br><span class=""scene-font-katari"">そのボールを未央が胸トラップする。</span>"
+43,"scene_evt200515_cp2_q3,1",一気に相手コート中央まで<br>飛ばしちゃうなんて！<br>ナイス、ジェシー！
+44,"scene_evt200515_cp2_q3,1",よーしっ、<br>ここから一気に攻めるっ……！
+45,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">未央は青縞の生物たちのディフェンスを</span><br><span class=""scene-font-katari"">器用にかわしながらドリブルし、</span><br><span class=""scene-font-katari"">ゴール前まで距離を詰める。</span>"
+46,"scene_evt200515_cp2_q3,1",PINYAッッ！！
+47,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">軌道は見えたっ！</span><br><span class=""scene-font-4"">行っけぇぇーーーっ！！</span>"
+48,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">ピーニャッ！！</span>"
+49,"scene_evt200515_cp2_q3,1",やったぁー！<br>１点ゲットォーっ！
+50,"scene_evt200515_cp2_q3,1",ナイスゴールです、ミオさん！<br>この調子で攻めていきましょう！
+51,"scene_evt200515_cp2_q3,1",うんっ！<br>なんかいい流れが来てるよっ！
+52,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">勢いづいた未央とジェシカは</span><br><span class=""scene-font-katari"">その後も得点を稼ぎ、</span><br><span class=""scene-font-katari"">遂に青縞の生物と同点まで迫る。</span>"
+53,"scene_evt200515_cp2_q3,1",残り時間もあと僅かです。<br>ミオさん、最後にガツンと<br>決めちゃいましょう！
+54,"scene_evt200515_cp2_q3,1",よぉーし……！
+55,"scene_evt200515_cp2_q3,1",無敵キーパーのジェシーと<br>ミラクルドリブラー未央ちゃんで、<br>奇跡の大逆転、見せちゃうぞぉ～！
+56,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">笛の合図を聞き、センターサークル内の</span><br><span class=""scene-font-katari"">青縞の生物たちがボールを蹴る。</span>"
+57,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">もらったぁっ！</span>"
+58,"scene_evt200515_cp2_q3,1",PINYA……！！
+59,"scene_evt200515_cp2_q3,1","<span class=""scene-font-kokoro"">（へへっ、一気にふたり抜き♪</span><br><span class=""scene-font-kokoro"">そして……）</span>"
+60,"scene_evt200515_cp2_q3,1",PINYA……！！
+61,"scene_evt200515_cp2_q3,1","<span class=""scene-font-kokoro"">（３人抜き！）</span>"
+62,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">PINYAAA！！</span>"
+63,"scene_evt200515_cp2_q3,1","<span class=""scene-font-kokoro"">（そしてキャプテン！</span><br><span class=""scene-font-kokoro"">こいつが最大の難所……！）</span>"
+64,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">それっ！</span>"
+65,"scene_evt200515_cp2_q3,1",PINYAッッ！！
+66,"scene_evt200515_cp2_q3,1",抜けた……！
+67,"scene_evt200515_cp2_q3,1","<span class=""scene-font-kokoro"">（もう少しで試合終了……</span><br><span class=""scene-font-kokoro"">お願い、間に合って！）</span>"
+68,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">PINYAAAッッッ！！</span>"
+69,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">輝け、ミツボシ！！</span><br><span class=""scene-font-4"">ミラクルシューーートォォッ！！</span>"
+70,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">PINYAッッ！！</span>"
+71,"scene_evt200515_cp2_q3,1",ピ……ピ……
+72,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">ピーーーニャッッッ！！！</span>"
+73,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">ゴールが決まったその時、</span><br><span class=""scene-font-katari"">試合終了を告げる</span><br><span class=""scene-font-katari"">笛の音が公園に響き渡る。</span>"
+74,"scene_evt200515_cp2_q3,1",うっそー！？<br>ほんとに逆転しちゃったぁ！
+75,"scene_evt200515_cp2_q3,1",やりましたね！<br>諦めずに頑張った甲斐がありました！
+76,"scene_evt200515_cp2_q3,1",PINYA、PINYAPINYA！！
+77,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">健闘を讃えるように、</span><br><span class=""scene-font-katari"">青縞の生物のキャプテンは</span><br><span class=""scene-font-katari"">未央に握手を求める。</span>"
+78,"scene_evt200515_cp2_q3,1",キミもなかなか手強かったよ☆<br>一緒に試合できてすごく楽しかった！
+79,"scene_evt200515_cp2_q3,1",PINYAッ！
+80,"scene_evt200515_cp2_q3,1",なんか、盛り上がってる……<br>サッカーの試合をしてたの？
+81,"scene_evt200515_cp2_q3,1",おっ、しぶりんにみんな！<br>来てくれたんだね！
+82,"scene_evt200515_cp2_q3,1",PINYA……！
+83,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">青縞の生物たちは凛の持つ</span><br><span class=""scene-font-katari"">ぴにゃの書の前に群がり、</span><br><span class=""scene-font-katari"">次々と本に触れた。</span>"
+84,"scene_evt200515_cp2_q3,1","<span class=""scene-font-4"">えぇっ！？</span><br><span class=""scene-font-4"">消えちゃった！？</span>"
+85,"scene_evt200515_cp2_q3,1",本の中に戻ったんだよ。<br>きっと未央たちとの試合が楽しくて、<br>満足したんだと思う。
+86,"scene_evt200515_cp2_q3,1",あいつらって満足したら<br>本の中に戻ってくの？<br>でも、勝負には負けたのに……？
+87,"scene_evt200515_cp2_q3,1",負けても、いい試合ができて<br>嬉しかったんだと思います。<br>そういうことってありませんか？
+88,"scene_evt200515_cp2_q3,1",なるほど～<br>スポーツマンシップっていうやつか！<br>あいつやっぱいいやつだったんだね！
+89,"scene_evt200515_cp2_q3,1",ピニャッ、ピニャッ、<br>ピニャッ、ピニャッ……
+90,"scene_evt200515_cp2_q3,1",あれ？<br>あっちの方に黒いのが<br>いるみたいですけど……
+91,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">卯月が指差した方に目を向けると、</span><br><span class=""scene-font-katari"">黒い翼の生物たちがこぞって</span><br><span class=""scene-font-katari"">公園から出ていくのが見えた。</span>"
+92,"scene_evt200515_cp2_q3,1",あれって街に向かってる？<br>急いで追いかけないと……！
+93,"scene_evt200515_cp2_q3,1","<span class=""scene-font-katari"">嫌な予感がし、</span><br><span class=""scene-font-katari"">未央たちは黒い後ろ姿を追って</span><br><span class=""scene-font-katari"">公園を後にする。</span>"
+
+
+
+
+
+!이벤트 2-4
+0,"scene_evt200515_cp2_q4,1",はぁ……<br>やっぱり、ここには何もないみたい……
+1,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">卯月たちが本から飛び出した生物を</span><br><span class=""scene-font-katari"">集めに行っている頃──</span>"
+2,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">Side.Wたちと楓は</span><br><span class=""scene-font-katari"">エミリーと一緒にぴにゃが消えた</span><br><span class=""scene-font-katari"">祭壇の周辺を調べに来ていた。</span>"
+3,"scene_evt200515_cp2_q4,1",祭壇も特に怪しい力は感じませんね。<br>中も空っぽになってます。
+4,"scene_evt200515_cp2_q4,1",本当にどこ行っちゃったんだろ……<br>ぴにゃ……
+5,"scene_evt200515_cp2_q4,1",悩んでるの知ってたのに……<br>私、なんでこんなにダメなんだろ……<br>うぅ……
+6,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">うつむくエミリーの頬に</span><br><span class=""scene-font-katari"">一筋の涙が伝う。</span>"
+7,"scene_evt200515_cp2_q4,1",あ……
+8,"scene_evt200515_cp2_q4,1",すみません。<br>こんなの、困りますよね。<br>うぅ、早く引っ込め引っ込め！
+9,"scene_evt200515_cp2_q4,1",…………
+10,"scene_evt200515_cp2_q4,1",ダメなんてことはないと思います。<br>だってエミリーちゃん、<br>とっても一生懸命だから。
+11,"scene_evt200515_cp2_q4,1",誰かがいなくなって、<br>人並みに心配することはあっても……
+12,"scene_evt200515_cp2_q4,1",１日中あちこち捜し回って、<br>涙が出るくらいいっぱいいっぱいに<br>なるのは、とても想いが強い証……
+13,"scene_evt200515_cp2_q4,1",だからそんな風に自分を<br>悪く言わないでください。<br>ぴにゃちゃんも悲しむと思うから……
+14,"scene_evt200515_cp2_q4,1",カエデさんは優しい人ですね。
+15,"scene_evt200515_cp2_q4,1",……そういう風に思ってくれる<br>貴女だって、優しい人ですよ。
+16,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">少し考える間があってから、</span><br><span class=""scene-font-katari"">楓はゆっくりと問いかける。</span>"
+17,"scene_evt200515_cp2_q4,1",エミリーちゃん、ぴにゃちゃんって<br>どんな子だったんですか？<br>お話を聞いてみたいです。
+18,"scene_evt200515_cp2_q4,1",えっと……ぴにゃは、一生懸命で、<br>働き者で、あんまり強くないくせに<br>私たちのことを守ろうとしてくれて……
+19,"scene_evt200515_cp2_q4,1",この前なんか街に迷い込んできた<br>魔物から私を守ろうとして<br>ケガしちゃったんです。
+20,"scene_evt200515_cp2_q4,1",言葉は通じないけど、<br>私たちを大切に想ってくれてるのは<br>伝わってきて……
+21,"scene_evt200515_cp2_q4,1",人とそうじゃない子でも<br>心は通わせられるんだって思って、<br>嬉しかったんです。なのに私は……
+22,"scene_evt200515_cp2_q4,1",他には、どんなことをしたんですか？<br>どこかに出掛けたとか、そんな話は？
+23,"scene_evt200515_cp2_q4,1",そうですね……<br>街外れの丘に出掛けました。<br>夕陽を見せたかったみたいで……
+24,"scene_evt200515_cp2_q4,1",あと森で摘んだ花のブーケをくれたり、<br>同じ花でティアラを編んでくれたり、<br>指輪にしてくれた、なんてことも……
+25,"scene_evt200515_cp2_q4,1",ブーケにティアラに指輪って、<br>なんか結婚式みたいだな……
+26,"scene_evt200515_cp2_q4,1",なるほど、そうだったんですね……
+27,"scene_evt200515_cp2_q4,1",それだけ大切に想ってくれた子なら、<br>いなくなってしまったのには<br>深いわけがあるんだと思います。
+28,"scene_evt200515_cp2_q4,1",きっと、ぴにゃちゃんも<br>本当はエミリーちゃんに会いたいはず。<br>早く見つけ出さないと、ですね。
+29,"scene_evt200515_cp2_q4,1",はい……！
+30,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">包み込むような笑みを浮かべ、</span><br><span class=""scene-font-katari"">楓はエミリーに頷きを返す。</span>"
+31,"scene_evt200515_cp2_q4,1",すげぇな。<br>知らない世界に来たばっかで、<br>姉ちゃんだって不安なはずなのによ……
+32,"scene_evt200515_cp2_q4,1",きっと元の世界でも、<br>色んな人がカエデさんの優しさに<br>勇気づけられてたんでしょうね。<br>
+33,"scene_evt200515_cp2_q4,1",…………
+34,"scene_evt200515_cp2_q4,1",っ！　何かいる？
+35,"scene_evt200515_cp2_q4,1",……ッ！！
+36,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">エミリーが声を上げると、</span><br><span class=""scene-font-katari"">木の陰に潜む何かは</span><br><span class=""scene-font-katari"">一目散に逃げ出した。</span>"
+37,"scene_evt200515_cp2_q4,1",私たちのことを<br>ずっと見てたんでしょうか？
+38,"scene_evt200515_cp2_q4,1",怪しいな……<br>追いかけてみようぜ！
+39,"scene_evt200515_cp2_q4,1","<span class=""scene-font-katari"">Side.Wたちは小さな影を追って</span><br><span class=""scene-font-katari"">森を駆けていくのだった。</span>"
+
+!이벤트 3-1
+0,"scene_evt200515_cp3_q1,1",,クソッ！<br>こっちに寄ってくるな！
+1,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">ピィニャアァァ！！</span>"
+2,"scene_evt200515_cp3_q1,1",,おいおい……<br>どうなってんだ、こりゃ……
+3,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-katari"">小さな影を追いかけて街に戻ると、</span><br><span class=""scene-font-katari"">街には黒い翼の生物が群がっていた。</span>"
+4,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">ピニャアッ！！</span>"
+5,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">ピニャアッ！！</span>"
+6,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-katari"">黒い翼の生物たちは建物を壊して回り、</span><br><span class=""scene-font-katari"">街の住人にも襲い掛かっている。</span>"
+7,"scene_evt200515_cp3_q1,1",,うぅ……みんな、<br>追いかけてた子と姿がそっくりで、<br>あの子も見失っちゃいました……
+8,"scene_evt200515_cp3_q1,1",,うわぁっ！？<br>こんなに沢山……！
+9,"scene_evt200515_cp3_q1,1",,ウヅキさん、それに皆さんも！<br>本から出てきた子たちは<br>見つかりましたか？
+10,"scene_evt200515_cp3_q1,1",,うん、見つかったし、<br>無事に本に戻せたよ。<br>それよりこの街の騒ぎ……
+11,"scene_evt200515_cp3_q1,1",,公園にいたよりもずっと増えてる！<br>早く街の人たちを助けないと！
+12,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">ピニャアッッ！！</span>"
+13,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">うわぁっ！</span>"
+14,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">危ないっ！！</span>"
+15,"scene_evt200515_cp3_q1,1",,ぐっ……！
+16,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-4"">オスカーっ！！</span>"
+17,"scene_evt200515_cp3_q1,1",,"<span class=""scene-font-katari"">黒い翼の生物の攻撃を受けた</span><br><span class=""scene-font-katari"">青年のもとへ、</span><br><span class=""scene-font-katari"">エミリーはたまらず駆け出す。</span>"
+18,"scene_evt200515_cp3_q1,1",,飛び出したら危ないですよ、<br>エミリーさん！
+19,"scene_evt200515_cp3_q1,1",,卯月、未央！<br>急いで黒いのを追い払おう！<br>エミリーがケガする前に！
+20,"scene_evt200515_cp3_q1,1",,わかりました！<br>いきますっ！
+
+!이벤트 3-2
+0,"scene_evt200515_cp3_q2,1",ピ……ニャア……
+1,"scene_evt200515_cp3_q2,1",倒した子に本をかざしたら<br>本の中に戻ってったよ。<br>無理矢理戻してる感はあるけど……
+2,"scene_evt200515_cp3_q2,1",オスカー！　大丈夫！？
+3,"scene_evt200515_cp3_q2,1",エミリー！<br>俺は大丈夫、かすり傷だよ。
+4,"scene_evt200515_cp3_q2,1",よかった……<br>オスカーの身に何かあったら、私……
+5,"scene_evt200515_cp3_q2,1",それよりエミリー、君だよ。<br>ここは危険だ。<br>魔物は俺たちに任せて隠れているんだ。
+6,"scene_evt200515_cp3_q2,1",そんな！<br>オスカーが戦うなら、<br>私だって……！
+7,"scene_evt200515_cp3_q2,1",ピ……ピ……
+8,"scene_evt200515_cp3_q2,1","<span class=""scene-font-4"">ピィニャァァアアーー！！！</span>"
+9,"scene_evt200515_cp3_q2,1",あら？<br>あの子、急にどうして……？
+10,"scene_evt200515_cp3_q2,1","<span class=""scene-font-4"">ピニャアッッ！！！</span>"
+11,"scene_evt200515_cp3_q2,1",わぁっ！<br>いつの間にこんなに沢山……！
+12,"scene_evt200515_cp3_q2,1",こいつらは野蛮な魔物同然だ。<br>私たちが相手してきたのと違い、<br>和解の道はない。
+13,"scene_evt200515_cp3_q2,1",幼稚だが、よく見れば陣形らしきものを<br>取ってるのがわかる。<br>指揮を執ってるボスがいるんだろう。
+14,"scene_evt200515_cp3_q2,1",……全部、<br>同じぶさいく顔にしか見えない。<br>どう探す気？
+15,"scene_evt200515_cp3_q2,1",ボスが見つかるまで、<br>手当たり次第倒すしかない。<br>……それっ！
+16,"scene_evt200515_cp3_q2,1",ピニャ……
+17,"scene_evt200515_cp3_q2,1",これ以上被害を<br>出すわけにはいきませんし、<br>多少の強硬手段は仕方ありませんね……
+18,"scene_evt200515_cp3_q2,1",ピニャ……
+19,"scene_evt200515_cp3_q2,1",私たちも戦いましょう！
+20,"scene_evt200515_cp3_q2,1",うんっ！
+21,"scene_evt200515_cp3_q2,1",ジェシーと射撃の練習した<br>成果を見せる時！<br>それーーっ！！
+22,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">Side.Wたちは街に蔓延る</span><br><span class=""scene-font-katari"">黒い翼の生物たちと戦い、</span><br><span class=""scene-font-katari"">本に戻していく。</span>"
+23,"scene_evt200515_cp3_q2,1",ボスっぽいのが見つかったら<br>すぐに教えてくれ！<br>ぴにゃの書を持っていくぜ！
+24,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">ビィは効率よく黒い翼の生物たちを</span><br><span class=""scene-font-katari"">本に戻せるように、本を抱えて飛び回り</span><br><span class=""scene-font-katari"">ボス捜しを手伝う。</span>"
+25,"scene_evt200515_cp3_q2,1",ピニャァァアアーーッッ！！！<br>ピニャピニャァアアーーッッ！！！
+26,"scene_evt200515_cp3_q2,1",あいつ！<br>あいつの号令で<br>動いてるみたいだぜ！
+27,"scene_evt200515_cp3_q2,1",はい！<br>見失っちゃう前に、<br>Side.W、お願いします！
+28,"scene_evt200515_cp3_q2,1",すぐに本に戻せるように、<br>オイラもSide.Wについて行くぜ！
+29,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">Side.Wはビィに頷きを返し、</span><br><span class=""scene-font-katari"">剣を構えて駆け出す。</span>"
+30,"scene_evt200515_cp3_q2,1","<span class=""scene-font-4"">ピニャッ！？</span>"
+31,"scene_evt200515_cp3_q2,1","<span class=""scene-font-4"">ピニャア～～～ッ！？</span>"
+32,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">Side.Wの剣に打ち上げられ、</span><br><span class=""scene-font-katari"">黒い翼の生物のボスは群れの外に</span><br><span class=""scene-font-katari"">転がる。</span>"
+33,"scene_evt200515_cp3_q2,1",でかしたぜ、Side.W！
+34,"scene_evt200515_cp3_q2,1",それじゃあ、本に戻りやがれッ！
+35,"scene_evt200515_cp3_q2,1","<span class=""scene-font-4"">ピニャッ！！</span>"
+36,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">ビィは持っていたぴにゃの書を</span><br><span class=""scene-font-katari"">黒い翼の生物のボスに押しつける。</span>"
+37,"scene_evt200515_cp3_q2,1",ピニャ……？
+38,"scene_evt200515_cp3_q2,1",あれ？　なんで消えねぇんだ？
+39,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">ビィは何度もぴにゃの書を</span><br><span class=""scene-font-katari"">黒い翼の生物のボスの体に押しつけるが</span><br><span class=""scene-font-katari"">一向に消える気配がない。</span>"
+40,"scene_evt200515_cp3_q2,1","<span class=""scene-font-kokoro"">（あの子ってさっきエミリーちゃんを</span><br><span class=""scene-font-kokoro"">見て急に叫び出した子よね……？</span><br><span class=""scene-font-kokoro"">他の子と何か違ってるのかしら？）</span>"
+41,"scene_evt200515_cp3_q2,1",ピィニャァァアア……
+42,"scene_evt200515_cp3_q2,1",ふぎゃっ！？
+43,"scene_evt200515_cp3_q2,1","<span class=""scene-font-4"">しまった！</span><br>本が……！"
+44,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">黒い翼の生物のボスは</span><br><span class=""scene-font-katari"">ビィから奪ったぴにゃの書を掲げ、</span><br><span class=""scene-font-katari"">勝ち誇ったように嗤う。</span>"
+45,"scene_evt200515_cp3_q2,1",ピニャニャピニャ、ピーニャピニャッ！<br>ピニャニャピニャ、ピーニャピニャッ！
+46,"scene_evt200515_cp3_q2,1",ピニャアッ！
+47,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">そして呪文のようなものを唱えると、</span><br><span class=""scene-font-katari"">本に戻した黒い翼の生物たちが</span><br><span class=""scene-font-katari"">光となって飛び出してくるのだった。</span>"
+48,"scene_evt200515_cp3_q2,1",うそ……<br>振り出しに戻っちゃったよ……
+49,"scene_evt200515_cp3_q2,1",…………
+50,"scene_evt200515_cp3_q2,1","<span class=""scene-font-katari"">再び現れた黒い翼の生物たちの</span><br><span class=""scene-font-katari"">群れを前に、Side.Wたちは</span><br><span class=""scene-font-katari"">思わず顔をしかめる。</span>"
+
+!이벤트 3-3
+0,"scene_evt200515_cp3_q3,1",ピニャア！！　ピニャアッ！！
+1,"scene_evt200515_cp3_q3,1",すまねぇ……<br>オイラのせいで本を奪われちまった……
+2,"scene_evt200515_cp3_q3,1",ビィさんのせいじゃありませんよ。<br>でも、どうして本に触っても<br>消えなかったんでしょう？
+3,"scene_evt200515_cp3_q3,1",理由はわからないけど、<br>ボスっていうだけあって<br>何か特別な力でも持ってるとか。
+4,"scene_evt200515_cp3_q3,1",あいつは本から思いのままに<br>仲間を召喚できるみたいだ。<br>一連の騒動の犯人と見ていいだろう。
+5,"scene_evt200515_cp3_q3,1",仲間を召喚……<br>本を開いて……
+6,"scene_evt200515_cp3_q3,1",何か心当たりがあるのか？
+7,"scene_evt200515_cp3_q3,1",あ、ううん……<br>多分私の勘違いだと思うから……
+8,"scene_evt200515_cp3_q3,1",そういや、さっき突き飛ばされた時に<br>こいつが飛んできたんだけどよ……
+9,"scene_evt200515_cp3_q3,1","<span class=""scene-font-katari"">ビィが手を開くと、</span><br><span class=""scene-font-katari"">そこには可愛らしくラッピングされた</span><br><span class=""scene-font-katari"">クッキーが入っていた。</span>"
+10,"scene_evt200515_cp3_q3,1",このお菓子って、<br>うちの店の商品じゃないか！<br>リボンに店のマークが入ってる。
+11,"scene_evt200515_cp3_q3,1",やっぱり……あの子、ぴにゃなのよ！<br>だからさっき本を押しつけられても<br>消えなかったんだ！
+12,"scene_evt200515_cp3_q3,1","<span class=""scene-font-katari"">エミリーはハッとした様子で</span><br><span class=""scene-font-katari"">群れの奥に控えるボスに向かって</span><br><span class=""scene-font-katari"">呼びかける。</span>"
+13,"scene_evt200515_cp3_q3,1","<span class=""scene-font-4"">ぴにゃ！</span><br>あなた、ぴにゃなんでしょ！？"
+14,"scene_evt200515_cp3_q3,1",ピッ……！
+15,"scene_evt200515_cp3_q3,1",ねぇ、お願い！<br>怖いことするのはもうやめて！
+16,"scene_evt200515_cp3_q3,1",あなたは優しい子じゃない！<br>こんなことをするような子じゃ<br>ないでしょ！
+17,"scene_evt200515_cp3_q3,1",ピ……ピニャ……
+18,"scene_evt200515_cp3_q3,1",ピニャア！！
+19,"scene_evt200515_cp3_q3,1","<span class=""scene-font-4"">危ないっ！</span>"
+20,"scene_evt200515_cp3_q3,1","<span class=""scene-font-katari"">飛び掛かってきた</span><br><span class=""scene-font-katari"">黒い翼の生物たちから守ろうと、</span><br><span class=""scene-font-katari"">オスカーはエミリーを抱き寄せる。</span>"
+21,"scene_evt200515_cp3_q3,1","<span class=""scene-font-4"">ピィニャァァアアーーッッ！！！</span>"
+22,"scene_evt200515_cp3_q3,1",あっ……<br>また……
+23,"scene_evt200515_cp3_q3,1","ピーニャッ、ピーニャッ……<br><span class=""scene-font-4"">……ピニャッ！</span>"
+24,"scene_evt200515_cp3_q3,1","<span class=""scene-font-katari"">逆上した黒い翼の生物のボスは、</span><br><span class=""scene-font-katari"">奥の手だと言わんばかりに</span><br><span class=""scene-font-katari"">ぴにゃの書を開き、唱える。</span>"
+25,"scene_evt200515_cp3_q3,1",ピニャニャピニャ、ピーニャピニャッ！<br>ピニャニャピニャ、ピーニャピニャッ！
+26,"scene_evt200515_cp3_q3,1",ぴ……にゃ……
+27,"scene_evt200515_cp3_q3,1",あれは、一体……？
+
+!이벤트 3-4
+0,"scene_evt200515_cp3_q4,1",,ぴ……にゃ……？
+1,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-katari"">ボスによって召喚されたのは、</span><br><span class=""scene-font-katari"">純白の翼を広げ、神々しい光をまとった</span><br><span class=""scene-font-katari"">新たな生物だった。</span>"
+2,"scene_evt200515_cp3_q4,1",,くっ……<br>まずいことになった！
+3,"scene_evt200515_cp3_q4,1",,まずいって何がですか？
+4,"scene_evt200515_cp3_q4,1",,先程、ぴにゃの書には使用者が<br>引き出せずにいた大きな力が<br>封印されてると話しただろう。
+5,"scene_evt200515_cp3_q4,1",,状況を見る限り、<br>あの白いのがその大きな力の正体だ。<br>『コイツ』も強く反応している。
+6,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-bold scene-font-blue"">「国ひとつ程度ならすぐ潰せる」</span>……<br>ラグナさんの推測は<br>合ってるみたいだね。"
+7,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-katari"">ぴにゃの書の内容を書き写した</span><br><span class=""scene-font-katari"">手帳を広げながら、凛は頷く。</span>"
+8,"scene_evt200515_cp3_q4,1",,国ひとつならすぐ潰せるって、<br>星晶獣と変わんねぇじゃねーか！
+9,"scene_evt200515_cp3_q4,1",,ぴ……にゃ……？
+10,"scene_evt200515_cp3_q4,1",,ピニャニャピニャッ！！<br>ピーピニャッピィッッ！！！
+11,"scene_evt200515_cp3_q4,1",,ぴ……にゃ……？
+12,"scene_evt200515_cp3_q4,1",,しまむー！<br>あの黒いのと白いの、<br>何を話してるの～！？
+13,"scene_evt200515_cp3_q4,1",,えっと……人間は悪者だとか、<br>滅ぼすべきだとか、言ってます……
+14,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-4"">そんなっ！</span><br>ぴにゃ、どうして……！"
+15,"scene_evt200515_cp3_q4,1",,…………
+16,"scene_evt200515_cp3_q4,1",,"<font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">…………</font></font>"
+17,"scene_evt200515_cp3_q4,1",,"<font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">…………</font></font>"
+18,"scene_evt200515_cp3_q4,1",,えっと……ぴにゃは、一生懸命で、<br>働き者で、あんまり強くないくせに<br>私たちのことを守ろうとしてくれて……
+19,"scene_evt200515_cp3_q4,1",,言葉は通じないけど、<br>私たちを大切に想ってくれてるのは<br>伝わってきて……
+20,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-kokoro"">（エミリーちゃんの言う通り、</span><br><span class=""scene-font-kokoro"">ぴにゃちゃんが人間を滅ぼそうなんて</span><br><span class=""scene-font-kokoro"">考えるとは思えない……）</span>"
+21,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-kokoro"">（でもオスカーさんがエミリーちゃんに</span><br><span class=""scene-font-kokoro"">何かする度、あの子はとても怒ってる。</span><br><span class=""scene-font-kokoro"">まるで嫉妬しているみたいに……）</span>"
+22,"scene_evt200515_cp3_q4,1",,ぴにゃ、ねぇ、ぴにゃ！<br>お願いだから考え直して！<br>ぴにゃ！
+23,"scene_evt200515_cp3_q4,1",,前に出たら危ないって！<br>エミリー！
+24,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-4"">ピーニャッ！</span><br><span class=""scene-font-4"">ピニャピッピィィッッ！！</span>"
+25,"scene_evt200515_cp3_q4,1",,ぴ……にゃ……ぴ、にゃ……
+26,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-katari"">白い翼の生物は</span><br><span class=""scene-font-katari"">風に舞う羽のように浮き上がり、</span><br><span class=""scene-font-katari"">Side.Wたちをじっと見据える。</span>"
+27,"scene_evt200515_cp3_q4,1",,ぴ……にゃ……ぴ、にゃ……
+28,"scene_evt200515_cp3_q4,1",,同胞を苦しめるあなたたちのことを<br>私は許しません、<br>って言ってます……
+29,"scene_evt200515_cp3_q4,1",,"<span class=""scene-font-4"">ぴ、にゃ……ぴにゃあっ！</span>"
+30,"scene_evt200515_cp3_q4,1",,人間たちを滅ぼしますって<br>言ってます！
+31,"scene_evt200515_cp3_q4,1",,冗談じゃないっ！<br>このままやられるのなんて、<br>絶対に嫌っ！
+32,"scene_evt200515_cp3_q4,1",,うん！　人間の底力、<br>私たちが見せてあげるっ！
+33,"scene_evt200515_cp3_q4,1",,オイラたちも迎え撃つぞ、<br>Side.W！
+
+!이벤트 3-5
+0,"scene_evt200515_cp0_q2,1",ぴ……にゃ……！
+1,"scene_evt200515_cp0_q2,1",はぁ……はぁ……<br>なんとか押し返せたみたいですね……
+2,"scene_evt200515_cp0_q2,1","<span class=""scene-font-4"">ピニャァアッ！！</span><br><span class=""scene-font-4"">ピニャァアアッッ！！</span>"
+3,"scene_evt200515_cp0_q2,1",勝敗はついた。<br>諦めなさい。
+4,"scene_evt200515_cp0_q2,1",ぴ……にゃ……
+5,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">Side.Wたちの猛攻を受けた</span><br><span class=""scene-font-katari"">白い翼の生物は何かを悟った様子で</span><br><span class=""scene-font-katari"">しっとりと呟く。</span>"
+6,"scene_evt200515_cp0_q2,1",ぴっ……にゃっ……！
+7,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">白い翼の生物は空へ舞い上がり、</span><br><span class=""scene-font-katari"">黄金の杖に力を込め始める。</span>"
+8,"scene_evt200515_cp0_q2,1",杖に光が集まってる……！？<br>何をするつもり？
+9,"scene_evt200515_cp0_q2,1",国ひとつを潰す力……<br>あの光こそがそうだと<br>『コイツ』が警告している！
+10,"scene_evt200515_cp0_q2,1",だったら早く止めなきゃっ！
+11,"scene_evt200515_cp0_q2,1",えいっ！
+12,"scene_evt200515_cp0_q2,1",不思議な力のせいで銃弾が届きません。<br>もう本人にやめてもらうしか方法は……
+13,"scene_evt200515_cp0_q2,1",やめてよ……<br>ぴにゃ……！
+14,"scene_evt200515_cp0_q2,1",…………
+15,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">止める方法が思いつかないまま、</span><br><span class=""scene-font-katari"">白い翼の生物の杖には</span><br><span class=""scene-font-katari"">更に光が集まっていく。</span>"
+16,"scene_evt200515_cp0_q2,1",…………
+17,"scene_evt200515_cp0_q2,1","<font style=""vertical-align: inherit;""><font style=""vertical-align: inherit;"">…………</font></font>"
+18,"scene_evt200515_cp0_q2,1",楓さん……？
+19,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">緊迫した状況を打開するように、</span><br><span class=""scene-font-katari"">楓はSide.Wたちの前に進み出る。</span>"
+20,"scene_evt200515_cp0_q2,1",あの、私、気づいたことが……<br>……その、騒ぎを起こした理由が、<br>わかった気がして……
+21,"scene_evt200515_cp0_q2,1","<span class=""scene-font-4"">ピニャアッッ！！</span><br><span class=""scene-font-4"">ピニャピニャァアッッ！！</span>"
+22,"scene_evt200515_cp0_q2,1",っ……！！
+23,"scene_evt200515_cp0_q2,1",カエデさん！<br>危ないですから戻ってください！
+24,"scene_evt200515_cp0_q2,1","<span class=""scene-font-kokoro"">（怖い……</span><br><span class=""scene-font-kokoro"">足が、震えてる……）</span>"
+25,"scene_evt200515_cp0_q2,1","<span class=""scene-font-kokoro"">（伝えたいことがあるのに……</span><br><span class=""scene-font-kokoro"">でも、どうしても、勇気が……）</span>"
+26,"scene_evt200515_cp0_q2,1",え……？<br>杖が、光ってる……？
+27,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">突然、楓の杖が輝き出し、</span><br><span class=""scene-font-katari"">強い風が吹き始める。</span><br><span class=""scene-font-katari"">それは楓の背中を押すかのようで──</span>"
+28,"scene_evt200515_cp0_q2,1","<span class=""scene-font-kokoro"">（勇気が湧いてくる……</span><br><span class=""scene-font-kokoro"">私、いまならきっと……！）</span>"
+29,"scene_evt200515_cp0_q2,1",……っ！
+30,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">楓は大きく息を吸い込み歌い始めた。</span>"
+31,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">灯された勇気の焔を絶やさないように、</span><br><span class=""scene-font-katari"">全ての想いを届けたい……</span><br><span class=""scene-font-katari"">そう思った時、この歌が頭に浮かんだ。</span>"
+32,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">だから楓は言葉ではなく歌を選んだ。</span><br><span class=""scene-font-katari"">違う言葉を話す相手ならなおさら、</span><br><span class=""scene-font-katari"">歌の方が伝わりやすいと思った。</span>"
+33,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">それは切ない恋の気持ちを綴った歌。</span><br><span class=""scene-font-katari"">楓にとっても大切な歌であり、</span><br><span class=""scene-font-katari"">いまの彼女の想いを物語るものだった。</span>"
+34,"scene_evt200515_cp0_q2,1",──っ！
+35,"scene_evt200515_cp0_q2,1",…………
+36,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">楓の声はどんどん大きくなる。</span><br><span class=""scene-font-katari"">共鳴するように風も強く吹き荒れ、</span><br><span class=""scene-font-katari"">木々がコーラス隊のように騒ぎ出す。</span>"
+37,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">まるで歌そのものが魔法のようだった。</span><br><span class=""scene-font-katari"">その旋律は島に息づく全ての生命に</span><br><span class=""scene-font-katari"">語りかけるように広がっていく。</span>"
+38,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">神秘の歌声が奏でる荘厳な響きに、</span><br><span class=""scene-font-katari"">誰もが体の動かし方を忘れてしまった</span><br><span class=""scene-font-katari"">かのように聴き惚れていた。</span>"
+39,"scene_evt200515_cp0_q2,1",…………
+40,"scene_evt200515_cp0_q2,1",…………
+41,"scene_evt200515_cp0_q2,1",ピ……
+42,"scene_evt200515_cp0_q2,1","<span class=""scene-font-4"">ピニャァァアアアーーーー！！！</span>"
+43,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">楓の歌が終わると、ぴにゃと思われる</span><br><span class=""scene-font-katari"">黒い翼の生物が大粒の涙を流し、</span><br><span class=""scene-font-katari"">声を上げて泣き始めた。</span>"
+44,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">街に満ちた悪意が浄化されるように、</span><br><span class=""scene-font-katari"">黒い翼の生物の集団は一斉に</span><br><span class=""scene-font-katari"">本の中に戻っていくのだった。</span>"
+45,"scene_evt200515_cp0_q2,1",ぴにゃ……ぴにゃあ……
+46,"scene_evt200515_cp0_q2,1",ぴにゃ……<br>……元の姿に戻ったのね。
+47,"scene_evt200515_cp0_q2,1",すっげぇな！<br>姉ちゃんの歌には<br>悪い心を浄化する力でもあるのか？
+48,"scene_evt200515_cp0_q2,1",ええと……<br>私の歌にそんな力があるかは<br>わかりません。でも……
+49,"scene_evt200515_cp0_q2,1",ぴにゃちゃんが私の歌に<br>涙を流してくれた理由なら、<br>なんとなくわかります。
+50,"scene_evt200515_cp0_q2,1",多分、ぴにゃちゃんは<br>エミリーちゃんが好きだったんです。<br>……恋していたんです。
+51,"scene_evt200515_cp0_q2,1",ぴにゃが、私に……？
+52,"scene_evt200515_cp0_q2,1",はい。でもエミリーちゃんには<br>オスカーさんという恋人が<br>いることがわかって……
+53,"scene_evt200515_cp0_q2,1",すごくショックだったんだと思います。<br>だってふたりが話す度に<br>ぴにゃちゃんは怒っていたから……
+54,"scene_evt200515_cp0_q2,1",そういうことだったの……？<br>卯月、本人に聞いてみてくれる？
+55,"scene_evt200515_cp0_q2,1",わかりました！
+56,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">卯月が楓の話した内容を伝えてみると、</span><br><span class=""scene-font-katari"">ぴにゃはその通りだと認めた。</span>"
+57,"scene_evt200515_cp0_q2,1",失恋してたってわけかぁ……<br>そりゃあ辛いだろうけど、だからって<br>人間を滅ぼすことはないじゃん。
+58,"scene_evt200515_cp0_q2,1",それは本の魔力で悲しい気持ちが<br>暴走してたからみたいで、<br>やりすぎたって反省してるみたいです。
+59,"scene_evt200515_cp0_q2,1",ぴにゃあ……
+60,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">ぴにゃは申し訳なさそうに</span><br><span class=""scene-font-katari"">頭を垂れた。</span>"
+61,"scene_evt200515_cp0_q2,1",種族の違いを気にする気持ちが<br>人間への憎しみになってしまった……<br>そういうことだったんですね。
+62,"scene_evt200515_cp0_q2,1",って、ちょっと待って！<br>私とオスカーは恋人じゃないです！
+63,"scene_evt200515_cp0_q2,1","<span class=""scene-font-4"">えっ！</span><br><span class=""scene-font-4"">えぇっ！？</span>"
+64,"scene_evt200515_cp0_q2,1",でも普通の友達には見えないよ？<br>普通に抱き合っちゃうくらい仲いいし。
+65,"scene_evt200515_cp0_q2,1",友達でもなくて……<br>私とオスカーは、兄妹なんです。
+66,"scene_evt200515_cp0_q2,1",実は俺たち３人兄妹で。<br>エミリーは俺と兄さんを呼び分けるため<br>俺たちを名前で呼んでるんです。
+67,"scene_evt200515_cp0_q2,1",だからか、よく恋人に間違えられて……
+68,"scene_evt200515_cp0_q2,1",それが騒動の原因だったなら、<br>本当にすみません……！
+69,"scene_evt200515_cp0_q2,1",そうだったんですね。<br>すみません、<br>私もてっきり恋人同士かと……
+70,"scene_evt200515_cp0_q2,1",ぴにゃ？
+71,"scene_evt200515_cp0_q2,1",そうだ、ぴにゃちゃんにも<br>教えてあげないと……！<br>ぴにゃ、ぴにゃぴにゃぴ……
+72,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">卯月はエミリーから明かされた真実を</span><br><span class=""scene-font-katari"">ぴにゃに話して聞かせる。</span>"
+73,"scene_evt200515_cp0_q2,1",ぴ、ぴにゃあ……！！？
+74,"scene_evt200515_cp0_q2,1",ごめんね、ぴにゃ。<br>オスカーのこと、<br>ちゃんと紹介してなかったね。
+75,"scene_evt200515_cp0_q2,1",オスカーは私のお兄ちゃん。<br>ずっと別の島でお菓子作りの修行してて<br>いまは帰省中だったの。
+76,"scene_evt200515_cp0_q2,1",初めまして。<br>エミリーからいい子だって聞いてたから<br>ずっと会ってみたかったんだ。
+77,"scene_evt200515_cp0_q2,1",ぴ、ぴにゃあ……
+78,"scene_evt200515_cp0_q2,1",それと、私が好きって話だけど……
+79,"scene_evt200515_cp0_q2,1",そんな風に想ってくれて嬉しいよ！<br>だって私もぴにゃが大好きだもん！
+80,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">エミリーは満面の笑みで</span><br><span class=""scene-font-katari"">ぴにゃのことを強く抱きしめる。</span>"
+81,"scene_evt200515_cp0_q2,1","<span class=""scene-font-4"">ぴぃにゃぁぁああ！！？</span>"
+82,"scene_evt200515_cp0_q2,1",誤解が解けてよかったね。<br>エミリーもいい笑顔してる。
+83,"scene_evt200515_cp0_q2,1",ふふっ、<br>種族を超えた恋なんて素敵ですね！
+84,"scene_evt200515_cp0_q2,1",でも大変じゃない？<br>言葉も住んでる場所も全然違うのに……
+85,"scene_evt200515_cp0_q2,1",それは本人たち次第なんじゃないかな？<br>私たちだって本から飛び出した子を<br>元に戻す時、心を通わせられたでしょ。
+86,"scene_evt200515_cp0_q2,1",大切な仲間だと思ってる相手なら、<br>もっと心の距離は近いだろうしね。
+87,"scene_evt200515_cp0_q2,1",言われてみれば！<br>私もサッカーしてるうちに青いのと<br>すっかり仲良くなっちゃったし！
+88,"scene_evt200515_cp0_q2,1",あ、でも、もし難しい話をしたい時は<br>私もお手伝いしますので、<br>いつでも言ってくださいね！
+89,"scene_evt200515_cp0_q2,1",はい！<br>頼りにしてます！
+90,"scene_evt200515_cp0_q2,1",ぴ……にゃ……
+91,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">皆の笑顔を見て、</span><br><span class=""scene-font-katari"">白い翼の生物は納得した表情で</span><br><span class=""scene-font-katari"">光を収め、消えていった。</span>"
+92,"scene_evt200515_cp0_q2,1",人間を滅ぼす必要はないって、<br>本の中に戻っていったみてぇだな。<br>これで一件落着だぜ！
+93,"scene_evt200515_cp0_q2,1",あの、皆さん、今日は<br>助けてくれてありがとうございました！
+94,"scene_evt200515_cp0_q2,1",よかったらお礼させてください！<br>今夜の宿の手配とか、<br>できる限りおもてなししますから！
+95,"scene_evt200515_cp0_q2,1",俺も、馴染みの店があるんで<br>せめて食事だけでも<br>ご馳走させてください！
+96,"scene_evt200515_cp0_q2,1",ここは甘えさせてもらおうぜ！<br>ちょうどカエデの歓迎会をやろうって<br>話してたしな！
+97,"scene_evt200515_cp0_q2,1",私の……？
+98,"scene_evt200515_cp0_q2,1",うん。いきなり異世界に来て、<br>色々不安かなって思って……
+99,"scene_evt200515_cp0_q2,1",でも来たばっかりの時より<br>元気になってる気がする。<br>もしかして、人見知り解消してる？
+100,"scene_evt200515_cp0_q2,1",まだドキドキはしてますけど、<br>さっき思いっきり歌ったお陰か、<br>少し気持ちが落ち着いたみたい。
+101,"scene_evt200515_cp0_q2,1",まぁでも、歓迎会はやるだろ？<br>カエデはオイラたちの<br>仲間なんだしよ！
+102,"scene_evt200515_cp0_q2,1",それは嬉しく思います。<br>でも……
+103,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">楓は騒ぎのせいで壊れてしまった</span><br><span class=""scene-font-katari"">街並みを見て、肩を竦める。</span>"
+104,"scene_evt200515_cp0_q2,1",街が大変な時に私のために歓迎会を<br>開いてもらうのは気が引けるので……
+105,"scene_evt200515_cp0_q2,1",歓迎会は色々と修繕が済んだ後に<br>思いっきりやる、<br>というのはいかがでしょうか？
+106,"scene_evt200515_cp0_q2,1",うん。<br>楓さんがそうしたいなら。
+107,"scene_evt200515_cp0_q2,1",片づけを手伝ってもらえるんですか！？<br>うわぁ、助かりますっ！
+108,"scene_evt200515_cp0_q2,1",ふふ……<br>こんな風にみんながみんなを想って<br>笑顔になって……
+109,"scene_evt200515_cp0_q2,1","<span class=""scene-font-spword"">“異世界”</span>は、<span class=""scene-font-spword"">“いい世界”</span>、ですね♪"
+110,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">ぴにゃの書を巡る事件は</span><br><span class=""scene-font-katari"">こうして無事に終わりを迎えた。</span>"
+111,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">この後、街が綺麗になってから</span><br><span class=""scene-font-katari"">楓の歓迎会が開かれることになるのだが</span><br><span class=""scene-font-katari"">それは少し先の話──</span>"
+112,"scene_evt200515_cp0_q2,1","<span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　　　　　　──To Be Continued...</span>"
+
+!이벤트 4-1
+0,"scene_evt200515_cp4_q1,1",よーし、仕上げは済んだ！<br>これで修繕は終わりだ！
+1,"scene_evt200515_cp4_q1,1",遂に終わったんですね！<br>お疲れ様でした！
+2,"scene_evt200515_cp4_q1,1","はい。<br>おつ<span class=""scene-font-spword"">“カレー”</span>さまでした♪"
+3,"scene_evt200515_cp4_q1,1","<span class=""scene-font-katari"">ぴにゃの書を巡る騒動が起きてから</span><br><span class=""scene-font-katari"">暫く経ったとある日──</span>"
+4,"scene_evt200515_cp4_q1,1","<span class=""scene-font-katari"">被害を受けた街は</span><br><span class=""scene-font-katari"">Side.Wたちの頑張りもあり、</span><br><span class=""scene-font-katari"">すっかり綺麗になっていた。</span>"
+5,"scene_evt200515_cp4_q1,1",カエデもペンキを塗ったり、<br>細かいところ直したりしてくれて<br>すっげぇ頼りになったぜ！
+6,"scene_evt200515_cp4_q1,1",本当ですか？<br>お役に立てたのなら光栄です♪
+7,"scene_evt200515_cp4_q1,1",作業、お疲れ様でした！<br>お菓子の差し入れを持ってきたので<br>皆さんで食べてください！
+8,"scene_evt200515_cp4_q1,1",ぴにゃあっ！
+9,"scene_evt200515_cp4_q1,1",ありがとうっ！<br>エミリンのところのお菓子美味しいから<br>すっごく嬉しいよ！
+10,"scene_evt200515_cp4_q1,1",修繕も無事に終わったし、<br>そろそろお預けになってた歓迎会、<br>したいね。
+11,"scene_evt200515_cp4_q1,1",そう言うと思って、<br>食堂のおっちゃんに<br>話を通しておきましたよ！
+12,"scene_evt200515_cp4_q1,1",偶然にも私が紹介しようとしていた店が<br>彼の知り合いの経営する店だったので、<br>色々と手配をお願いしたんだ。
+13,"scene_evt200515_cp4_q1,1",それはラッキーでしたね！<br>じゃあ、今夜は……
+14,"scene_evt200515_cp4_q1,1",復興祝いも兼ねて、<br>楓さんの歓迎会だね。
+15,"scene_evt200515_cp4_q1,1",すみません。<br>皆さんにお礼がしたいっていう人が<br>思いの外沢山集まってしまって。
+16,"scene_evt200515_cp4_q1,1",皆さんのお席は半個室の場所を<br>用意してもらってるんで、<br>ゆっくりはできると思うんですけど。
+17,"scene_evt200515_cp4_q1,1",大丈夫ですよ。<br>ひと通りお食事が済んだら、<br>皆さんのお席にもご挨拶に伺いますね。
+18,"scene_evt200515_cp4_q1,1",それじゃあ、<br>夜は盛り上がっていこうぜ！
+19,"scene_evt200515_cp4_q1,1","<span class=""scene-font-spword"">“はぁ～い”</span>！<br><span class=""scene-font-spword"">“ハイ”</span>テンションでいきましょう♪"
+20,"scene_evt200515_cp4_q1,1",ごくごく……
+21,"scene_evt200515_cp4_q1,1",はぁー！<br>異世界のお酒も<br>とっても美味しいです♪
+22,"scene_evt200515_cp4_q1,1",今日はカエデちゃんが主役にゃ！<br>ガンガン飲むにゃ！
+23,"scene_evt200515_cp4_q1,1",ふたりとも、楽しむのはいいけど、<br>あんまり飲みすぎて<br>羽目を外しすぎないようにね？
+24,"scene_evt200515_cp4_q1,1",はぁい♪<br>気をつけますっ！
+25,"scene_evt200515_cp4_q1,1","<span class=""scene-font-katari"">夜になり、</span><br><span class=""scene-font-katari"">楓の歓迎会が遂に開始する。</span>"
+26,"scene_evt200515_cp4_q1,1","<span class=""scene-font-katari"">酒好きな楓が歓迎会を楽しめるよう、</span><br><span class=""scene-font-katari"">艇内に残っていた団員も</span><br><span class=""scene-font-katari"">食堂に駆けつけていた。</span>"
+27,"scene_evt200515_cp4_q1,1",酒以外にもこの食堂は<br>様々な飲み物を取り揃えている。<br>無論、私のお勧めはミルクだがな。
+28,"scene_evt200515_cp4_q1,1",ふふっ、これだけ沢山あると<br>目移りしちゃいますね♪<br>どれにしようかな～？
+29,"scene_evt200515_cp4_q1,1",皆さん、こちらに<br>いらっしゃいましたか～！<br>先日の騒動でも大活躍だったそうで～
+30,"scene_evt200515_cp4_q1,1",あっ、<br>よろず屋さんもこの島に来てたんだ。
+31,"scene_evt200515_cp4_q1,1",ここには魅力的な名産品が<br>沢山ありますから、商売の取引を<br>させていただいてるんですよ～
+32,"scene_evt200515_cp4_q1,1","皆さんのお陰で島の<span class=""scene-font-spword"">“損害”</span>も抑えられて、<br>シェロちゃんも<span class=""scene-font-spword"">“存外”</span>大助かりでした～<br>うぷぷぷぷ～"
+33,"scene_evt200515_cp4_q1,1","<span class=""scene-font-kokoro"">（あっ、ダジャレ♪）</span>"
+34,"scene_evt200515_cp4_q1,1","<span class=""scene-font-katari"">シェロカルテは</span><br><span class=""scene-font-katari"">ゆっくり楽しむように言って、</span><br><span class=""scene-font-katari"">その場を後にする。</span>"
+35,"scene_evt200515_cp4_q1,1",そろそろ場も温まってきたし、<br>なんか歓迎会っぽいことしない？
+36,"scene_evt200515_cp4_q1,1",歓迎会っぽいことって<br>なんでしょうか？
+37,"scene_evt200515_cp4_q1,1",ほらほら、ゲームとか自己紹介とか<br>学校の打ち上げでやらない？<br>まぁ自己紹介は要らないと思うけど……
+38,"scene_evt200515_cp4_q1,1",ゲームなら、私みんなで楽しめる<br>いいゲームを知っていますよ。
+39,"scene_evt200515_cp4_q1,1",うわぁ、どんなゲームなんですか？<br>教えてくださいっ！
+40,"scene_evt200515_cp4_q1,1",そのゲームとは……
+41,"scene_evt200515_cp4_q1,1",ずばり、王様ゲームです♪
+
+!이벤트 4-2
+
+0,"scene_evt200515_cp4_q2,1",王様ゲーム……っ！！
+1,"scene_evt200515_cp4_q2,1","<span class=""scene-font-katari"">楓の発言を聞き、</span><br><span class=""scene-font-katari"">思わず立ち上がる凛。</span>"
+2,"scene_evt200515_cp4_q2,1",うわぁっ！？<br>凛ちゃん、急にどうしたんですか？
+3,"scene_evt200515_cp4_q2,1",いや、その……<br>王様ゲームは前に楓さんと<br>やったことがあって……
+4,"scene_evt200515_cp4_q2,1",さてはその時が楽しすぎて<br>思わず立ち上がってしまったんだね？
+5,"scene_evt200515_cp4_q2,1",しぶりんの意外な一面、はっけ～ん☆
+6,"scene_evt200515_cp4_q2,1",違う、その逆！<br>……大変だったの。<br>楓さん、大暴走で……
+7,"scene_evt200515_cp4_q2,1",王様ゲーム……<br>聞いたことのない響きにゃ。<br>カエデちゃん、どんなゲームなの？
+8,"scene_evt200515_cp4_q2,1",それはですね……
+9,"scene_evt200515_cp4_q2,1","<span class=""scene-font-katari"">楓は王様ゲームのルールを</span><br><span class=""scene-font-katari"">簡単に説明する。</span>"
+10,"scene_evt200515_cp4_q2,1",ふむふむ、くじで王様を決めて、<br>王様がみんなに命令をするゲーム……<br>ということは……？
+11,"scene_evt200515_cp4_q2,1",王様だ～れにゃ？<br>王様だ～れだ？<br>王様だ、れ……？
+12,"scene_evt200515_cp4_q2,1",はいはーいっ！<br>あたしが王様引いたにゃ！
+13,"scene_evt200515_cp4_q2,1",ラムレッダね。<br>では王様、命令をどうぞ！
+14,"scene_evt200515_cp4_q2,1",王様が命じる。<br>とにかく全員楽しく飲むにゃ！
+15,"scene_evt200515_cp4_q2,1",かんぱーい！<br>ごくごく……
+16,"scene_evt200515_cp4_q2,1",ぷっはぁー！　最高ー！<br>ぷっはぁー！　最高ね！
+17,"scene_evt200515_cp4_q2,1",ごめん……<br>虹、見えそう……っぷ……
+18,"scene_evt200515_cp4_q2,1",レム代は無理しないで。<br>さぁ、次のターンにいくから<br>みんな、くじを引いて！
+19,"scene_evt200515_cp4_q2,1",引いたよー<br>せーのっ！
+20,"scene_evt200515_cp4_q2,1",王様だ～れにゃ？<br>王様だ～れだ？<br>王様だ……めだっ……？
+21,"scene_evt200515_cp4_q2,1",あっ、ぼくだー！<br>それじゃあみんなに命令す──
+22,"scene_evt200515_cp4_q2,1","<span class=""scene-font-4"">こらー！！</span><br>ぼくのくじを取ったの誰だー！"
+23,"scene_evt200515_cp4_q2,1",我よ。
+24,"scene_evt200515_cp4_q2,1","<span class=""scene-font-katari"">いつの間にか現れた５人目の手には</span><br><span class=""scene-font-katari"">「王様」と書かれたくじが</span><br><span class=""scene-font-katari"">握られている。</span>"
+25,"scene_evt200515_cp4_q2,1",羅無……！<br>あんたは眠ってたはずじゃあ！
+26,"scene_evt200515_cp4_q2,1",うぬらが酒を求むるその心が<br>我を酩酊の深淵から目覚めさせたのだ。
+27,"scene_evt200515_cp4_q2,1",クックックッ……<br>うぬらには感謝しておる。
+28,"scene_evt200515_cp4_q2,1","<span class=""scene-font-4"">フハハハハハッ！</span><br>では、ゲームを再開しよう！<br>王たる我がうぬらに命じる──"
+29,"scene_evt200515_cp4_q2,1",あ、あわわわわ……！！<br>大変にゃ～！！
+
+!이벤트 4-3
+0,"scene_evt200515_cp4_q3,1",なっ……！　<br>あたしたちに何をさせるつもりにゃ！
+1,"scene_evt200515_cp4_q3,1",我の野望は皆が欲望のままに<br>酒を飲み明かせる世界を創ること。
+2,"scene_evt200515_cp4_q3,1",うぬらは我が野望のための<br>忠実なる僕となってもらう。<br>さぁ……我が創る新世界の礎となれ！
+3,"scene_evt200515_cp4_q3,1","<span class=""scene-font-4"">ひぇぇえええ～～！！</span><br>魔王にゃ！　魔王が現れたにゃ～～！<br>これじゃあ魔王様ゲームにゃ～～！！"
+4,"scene_evt200515_cp4_q3,1",あの、ラムレッダさん、<br>何を言ってるんですか？
+5,"scene_evt200515_cp4_q3,1",ぐぅ……そんな恐ろしい世界のために<br>誰が協力なんか……！
+6,"scene_evt200515_cp4_q3,1",いや……実現したら、それはそれで<br>案外優しい世界かもしれないにゃ……？
+7,"scene_evt200515_cp4_q3,1",やれやれ……<br>どんな妄想してるんだよ？
+8,"scene_evt200515_cp4_q3,1",お酒は節度を守って楽しむのが<br>レディの嗜みよ？
+9,"scene_evt200515_cp4_q3,1",はい、お水。<br>少しペースを下げたほうがいいわ。
+10,"scene_evt200515_cp4_q3,1",ごくごく……ありがと、にゃ……<br>はぁはぁ……あたし以外のあたしには<br>お引き取り願うにゃ……
+11,"scene_evt200515_cp4_q3,1","<span class=""scene-font-kokoro"">（ロゼッタさん、</span><br><span class=""scene-font-kokoro"">酔った人の面倒見るのに慣れてる感じ。</span><br><span class=""scene-font-kokoro"">すごく安心できるな……）</span>"
+12,"scene_evt200515_cp4_q3,1",私利私欲のまま世界征服を始める<br>魔王、ですか……
+13,"scene_evt200515_cp4_q3,1",確かに、もし王様ゲームで<br>王様を引いた人が魔王だったら、<br>大変なことになってしまいますね。
+14,"scene_evt200515_cp4_q3,1",王様ゲームするくらい仲いい人が<br>魔王なんて有り得ないし、そもそも<br>王様ゲームにそんな強制力ないって。
+15,"scene_evt200515_cp4_q3,1",本当にそうでしょうか？<br>誰が何を考えてるかなんて、<br>わからないじゃないですか。
+16,"scene_evt200515_cp4_q3,1",楓さん？<br>それはどういう意味ですか？
+17,"scene_evt200515_cp4_q3,1",ふふふ……<br>それは、ね……
+
+!이벤트 4-4
+
+0,"scene_evt200515_cp4_q4,1",そんな、楓さんが……！
+1,"scene_evt200515_cp4_q4,1",嘘です、こんなことって……<br>私、認められません！
+2,"scene_evt200515_cp4_q4,1",ふふふ……<br>まさかこんなに早く計画を<br>進められるなんて、ね……
+3,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">ショックを隠せない様子の</span><br><span class=""scene-font-katari"">卯月とルリアの前で、</span><br><span class=""scene-font-katari"">楓は怪しい笑みを浮かべる。</span>"
+4,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">卯月、凛、ルリアの３人は</span><br><span class=""scene-font-katari"">楓と一緒に王様ゲームを楽しんでいた。</span>"
+5,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">ところが楓が王様を引き当てた瞬間、</span><br><span class=""scene-font-katari"">楓の態度が豹変したのだった。</span>"
+6,"scene_evt200515_cp4_q4,1",自己紹介が遅れたわね。<br>私はこの世界を創り変えるために<br>異世界より送られた魔王……
+7,"scene_evt200515_cp4_q4,1",か弱い歌姫に扮し、<br>貴方たちという最大の障害を<br>退ける機会をずっと窺っていたの。
+8,"scene_evt200515_cp4_q4,1",カエデさんが魔王のはずありません！<br>だってカエデさんは私たちの仲間で……
+9,"scene_evt200515_cp4_q4,1",きっと楓さんは術に操られてるんだ。<br>だったら私たちで術を解こう！
+10,"scene_evt200515_cp4_q4,1",ふふふ、本当に無垢な人たち……<br>どうしても信じたいというなら、<br>魔王らしく希望を打ち砕いてあげます。
+11,"scene_evt200515_cp4_q4,1","……<span class=""scene-font-spword"">“素敵”</span>な<span class=""scene-font-spword"">“ステッキ”</span>。"
+12,"scene_evt200515_cp4_q4,1","……いい<span class=""scene-font-spword"">“センス”</span>の<span class=""scene-font-spword"">“扇子”</span>。"
+13,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">楓が呟くように呼び掛けると、</span><br><span class=""scene-font-katari"">ふたつの武器が従者のように</span><br><span class=""scene-font-katari"">楓の前に集う。</span>"
+14,"scene_evt200515_cp4_q4,1",いつものダジャレ……
+15,"scene_evt200515_cp4_q4,1",いまこそ私の正体を……！
+16,"scene_evt200515_cp4_q4,1",私はダジャレ界より降臨した<br>ダジャレ魔王・楓！
+17,"scene_evt200515_cp4_q4,1",私の目的はみんなが思いのままに<br>ダジャレを言える世界を創ること……
+18,"scene_evt200515_cp4_q4,1","<span class=""scene-font-spword"">“楓”</span>が世界を<span class=""scene-font-spword"">“変え”</span>たる<span class=""scene-font-spword"">“で”</span>♪"
+19,"scene_evt200515_cp4_q4,1",…………
+20,"scene_evt200515_cp4_q4,1",別に、いまの世界でも<br>ダジャレを言っちゃいけない<br>ルールなんてないんだけど……
+21,"scene_evt200515_cp4_q4,1",自己紹介はこのくらいにして、<br>本題に入りましょうか～♪
+22,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">楓は引き当てた「王様」のくじを</span><br><span class=""scene-font-katari"">ひらつかせながら、</span><br><span class=""scene-font-katari"">卯月たちの顔をじっくりと見比べる。</span>"
+23,"scene_evt200515_cp4_q4,1",では、１番と２番の方。
+24,"scene_evt200515_cp4_q4,1",私、１番です……
+25,"scene_evt200515_cp4_q4,1",２番です……
+26,"scene_evt200515_cp4_q4,1",ふふふ。<br>ふたりとも、前に出てきて。
+27,"scene_evt200515_cp4_q4,1",…………
+28,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">王様の命令に逆らえず、</span><br><span class=""scene-font-katari"">卯月とルリアは楓の前に立つ。</span>"
+29,"scene_evt200515_cp4_q4,1",王様が命じます。<br>ふたりでダジャレ対決をしなさい！
+30,"scene_evt200515_cp4_q4,1",えぇっ！？<br>ダジャレ対決ですか？
+31,"scene_evt200515_cp4_q4,1",ルールは簡単。<br>ダジャレを思いつくだけ言って、<br>ひとつでも多く言えた方が勝ちです。
+32,"scene_evt200515_cp4_q4,1",負けた方は強制連行します。<br>真剣勝負ですから♪
+33,"scene_evt200515_cp4_q4,1",強制連行って、そんなのっ！
+34,"scene_evt200515_cp4_q4,1","<span class=""scene-font-gray"">──ッ！！</span>"
+35,"scene_evt200515_cp4_q4,1",なによ、こいつ……！
+36,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">理不尽な対決をやめさせようと</span><br><span class=""scene-font-katari"">足を進めた凛を楓の武器が阻む。</span>"
+37,"scene_evt200515_cp4_q4,1",凛ちゃん、勝負の邪魔は<br>めっ！　ですよ。
+38,"scene_evt200515_cp4_q4,1",では、ダジャレ対決スタートです！
+39,"scene_evt200515_cp4_q4,1",うぅ……<br>ダジャレなんて急に言われても……
+40,"scene_evt200515_cp4_q4,1",思いつかないですよね……
+41,"scene_evt200515_cp4_q4,1",……きゃあっ！
+42,"scene_evt200515_cp4_q4,1","<span class=""scene-font-gray"">──ッッッ！！</span>"
+43,"scene_evt200515_cp4_q4,1",はわわっ！<br>し、真剣に考えてますよ！
+44,"scene_evt200515_cp4_q4,1",うぅぅ～～<br>ダジャレ……楓さん……カエデ……<br>葉っぱ……
+45,"scene_evt200515_cp4_q4,1",あっ！
+46,"scene_evt200515_cp4_q4,1","<span class=""scene-font-spword"">“葉っぱ”</span>が、<span class=""scene-font-spword"">“はっぱ”</span>64枚落ちてます！"
+47,"scene_evt200515_cp4_q4,1",卯月ちゃん、１ポイントゲット～♪
+48,"scene_evt200515_cp4_q4,1",お歌を歌おう……<br>艇で艇酔い……<br>カエルの子はカエル……
+49,"scene_evt200515_cp4_q4,1",残念、ルリアちゃん。<br>いっぱい言ってくれたけど、<br>それはダジャレではないですね……
+50,"scene_evt200515_cp4_q4,1","<span class=""scene-font-gray"">──っ！！</span>"
+51,"scene_evt200515_cp4_q4,1",あら、もうそんなに経ちましたか？<br>ふたりとも、残り時間は10秒です。<br>10、９、８、７……
+52,"scene_evt200515_cp4_q4,1",そんなっ！
+53,"scene_evt200515_cp4_q4,1",うぅ～、ダジャレ思いつきません～……
+54,"scene_evt200515_cp4_q4,1",頑張ってください、ルリアちゃん！
+55,"scene_evt200515_cp4_q4,1",３、２、１……
+56,"scene_evt200515_cp4_q4,1",タイムアップです！<br>この対決、１対０で卯月ちゃんの勝ち！
+57,"scene_evt200515_cp4_q4,1",負けたルリアちゃんは、<br>残念ながら連行です……くすん。
+58,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">勝敗が決まった瞬間、</span><br><span class=""scene-font-katari"">扇子がルリアの体をすくい上げた。</span>"
+59,"scene_evt200515_cp4_q4,1",はぅわっ！？<br>ウヅキさん、わ、私……！
+60,"scene_evt200515_cp4_q4,1",安心してください、ルリアちゃん！<br>私も一緒に連行されます！<br>ルリアちゃんをひとりにさせません！
+61,"scene_evt200515_cp4_q4,1",えっ！<br>卯月、何を……！
+62,"scene_evt200515_cp4_q4,1",だって私がダジャレを言わなければ<br>ルリアちゃんは助かったはずなんです。<br>そんなの不公平です！
+63,"scene_evt200515_cp4_q4,1",待って、卯月。<br>連行しようとしてるのは楓さんだよ。<br>卯月のせいじゃない！
+64,"scene_evt200515_cp4_q4,1",一度にふたりも連行できるなんて<br>ラッキーだわ♪
+65,"scene_evt200515_cp4_q4,1","<span class=""scene-font-4"">きゃぁぁあっ！！</span>"
+66,"scene_evt200515_cp4_q4,1",ふふふ、<br>ふたりきりになってしまいましたね、<br>凛ちゃん。
+67,"scene_evt200515_cp4_q4,1",…………
+68,"scene_evt200515_cp4_q4,1","<span class=""scene-font-kokoro"">（私がなんとかしなきゃ！</span><br><span class=""scene-font-kokoro"">こんな馬鹿げた陰謀、</span><br><span class=""scene-font-kokoro"">絶対に私が食い止めてみせる！）</span>"
+69,"scene_evt200515_cp4_q4,1","<span class=""scene-font-katari"">凛は蒼い剣を構え、</span><br><span class=""scene-font-katari"">不敵に笑うダジャレ魔王・楓に</span><br><span class=""scene-font-katari"">鋭い目を向ける。</span>"
+
+!이벤트 5-1
+
+0,"scene_evt200515_cp5_q1,1",……なんてことが、<br>あるかもしれないじゃない。
+1,"scene_evt200515_cp5_q1,1",いや、ないって。<br>大体、なんで楓さんが魔王なの？
+2,"scene_evt200515_cp5_q1,1",私が魔王じゃダメですか？
+3,"scene_evt200515_cp5_q1,1",ダメっていうか、<br>そもそも楓さんは魔王じゃないし……
+4,"scene_evt200515_cp5_q1,1",いいじゃんいいじゃん！<br>楓さんが魔王なんて意外性バツグンだし<br>なんかカッコいいよ！
+5,"scene_evt200515_cp5_q1,1",はい！<br>楓さんが魔王の目的を語ってる時、<br>私もゾクゾクしちゃいました！
+6,"scene_evt200515_cp5_q1,1",私もカエデさんが魔王役、<br>とってもいいと思います！
+7,"scene_evt200515_cp5_q1,1",みんな結構乗り気だね……<br>確かに楓さんは迫力あってすごかったし<br>所詮は妄想だし、まぁいいか……
+8,"scene_evt200515_cp5_q1,1","ふふっ、<br>楓が<span class=""scene-font-spword"">“魔王”</span>役……<br><span class=""scene-font-spword"">“まぁ、オー”</span>ケーですよね♪"
+9,"scene_evt200515_cp5_q1,1",でも私たちなんで<br>連行されたんでしょう？
+10,"scene_evt200515_cp5_q1,1",言われてみれば<br>何の説明もなかったよね。<br>悪役っぽさはあったけど。
+11,"scene_evt200515_cp5_q1,1",それはほら、<br>ダジャレルームに入れられて<br>ダジャレの特訓をするためじゃない？
+12,"scene_evt200515_cp5_q1,1",「ダジャレ王国の臣民たる諸君には<br>ダジャレマスターになってもらう！」<br>……みたいな！
+13,"scene_evt200515_cp5_q1,1",いいアイディアですね！<br>ダジャレ王国の住人なら、<br>ダジャレで会話くらいできないとっ！
+14,"scene_evt200515_cp5_q1,1",そんな王国があったら私、<br>生きていける自信がありません……
+15,"scene_evt200515_cp5_q1,1",ほとんどの人はそうだと思うよ。<br>私も無理……
+16,"scene_evt200515_cp5_q1,1",世界征服を目論む魔王の登場……<br>となると魔王を討ち倒す勇者が現れ、<br>立ち向かうというのが定石か。
+17,"scene_evt200515_cp5_q1,1",あら、ラグナちゃんも<br>楽しくなってきたみたいね。
+18,"scene_evt200515_cp5_q1,1",各地の伝承も好きで<br>よく嗜んでるからな。
+19,"scene_evt200515_cp5_q1,1",魔王とそれを倒す勇者の戦い……
+20,"scene_evt200515_cp5_q1,1",うんうん、らしくなってきたじゃん！
+21,"scene_evt200515_cp5_q1,1",ウヅキちゃんやリンちゃんたちは<br>魔王討伐のため旅をしていた勇者たち、<br>っていうところね。
+22,"scene_evt200515_cp5_q1,1",ところが真の魔王は、<br>旅を共にする仲間の中に紛れていた……
+23,"scene_evt200515_cp5_q1,1",さっきのは、<br>それが明らかになったシーンかしら。
+24,"scene_evt200515_cp5_q1,1",あんな滅茶苦茶な妄想から<br>それっぽい設定を考えるって、<br>すげぇな……
+25,"scene_evt200515_cp5_q1,1",はいはーい！<br>未央ちゃん、勇者のひとりとして<br>この物語に参加したいでーす☆
+26,"scene_evt200515_cp5_q1,1",わぁ！　未央ちゃんも<br>仲間になってくれるんですね！
+27,"scene_evt200515_cp5_q1,1",当然っ！　ニュージェネレーションズの<br>リーダーとして、捕まったメンバーを<br>見捨てるわけにはいかんのです！
+28,"scene_evt200515_cp5_q1,1",面白い。<br>私も勇者として参加しよう。
+29,"scene_evt200515_cp5_q1,1",私も参加するにゃ！<br>ロゼッタさんはどうする？
+30,"scene_evt200515_cp5_q1,1",魔王がふたりもいるわけには<br>いかないでしょうし……<br>アタシも勇者に肩入れさせてもらうわ。
+31,"scene_evt200515_cp5_q1,1",そういうことなら<br>オイラたちも勇者やろうぜ、<br>Side.W！
+32,"scene_evt200515_cp5_q1,1",勇者がこんなに沢山いるなんて、<br>魔王・楓、頑張らないといけませんね♪
+33,"scene_evt200515_cp5_q1,1","<span class=""scene-font-katari"">こうしてダジャレ王国を創るという</span><br><span class=""scene-font-katari"">野望を掲げたダジャレ魔王・楓と</span><br><span class=""scene-font-katari"">勇者たちの壮大な物語が幕を開けた。</span>"
+
+!이벤트 5-2
+
+0,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ……<br><span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ……<br>……ふえぇーん。"
+1,"scene_evt200515_cp5_q2,1","<span class=""scene-font-gray"">──ッッッ！！</span>"
+2,"scene_evt200515_cp5_q2,1","わかりましたぁ～<br><span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>……<br><span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>……"
+3,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">楓の後ろに現れた独房の中で、</span><br><span class=""scene-font-katari"">卯月とルリアが悲痛な表情を浮かべて</span><br><span class=""scene-font-katari"">ダジャレを繰り返している。</span>"
+4,"scene_evt200515_cp5_q2,1",ひどい訓練……<br>早くふたりを助けてあげないと！
+5,"scene_evt200515_cp5_q2,1",助ける？<br>貴方にできるのかしら、勇者様？
+6,"scene_evt200515_cp5_q2,1",ダジャレ魔王・楓よ！<br>仲間だと思ってたあなたが魔王だと知り<br>私は悲しみに打ちひしがれている！
+7,"scene_evt200515_cp5_q2,1",しかーしっ！<br>勇者たるもの涙を呑んで前進するのみ！<br>いざ、尋常にっ！
+8,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">未央は星の飛び出す銃を構え、</span><br><span class=""scene-font-katari"">卯月たちを拘束している牢の鍵を</span><br><span class=""scene-font-katari"">壊そうと引き金を引く。</span>"
+9,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“銃”</span>では不<span class=""scene-font-spword"">“十”</span>分ね。"
+10,"scene_evt200515_cp5_q2,1",なっ！<br>銃弾が届かない！？
+11,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">楓がダジャレを口にした瞬間、</span><br><span class=""scene-font-katari"">透明な壁のような物が現れ、</span><br><span class=""scene-font-katari"">未央の銃弾を弾いた。</span>"
+12,"scene_evt200515_cp5_q2,1","これは<span class=""scene-font-spword"">ダジャレフィールド</span>って言うの。<br>私がダジャレを言う度に強度を増して、<br>私のことを守ってくれる……"
+13,"scene_evt200515_cp5_q2,1",逆にこのフィールドは<br>貴方たちがダジャレを言う度に<br>脆くなっていくわ。
+14,"scene_evt200515_cp5_q2,1",なので、私を倒したかったら、<br>ダジャレを沢山言わないといけません。
+15,"scene_evt200515_cp5_q2,1",マジかよ……！<br>こいつはやべぇぞ！
+16,"scene_evt200515_cp5_q2,1",楓さん相手にダジャレの数で<br>勝てるわけがない！<br>他に作戦を立てないと……！
+17,"scene_evt200515_cp5_q2,1",迷ってる時間はありませんよ？<br>もうダジャレ対決は始まっています。
+18,"scene_evt200515_cp5_q2,1","<span class=""scene-font-gray"">──……</span>"
+19,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">楓が指差した先には、</span><br><span class=""scene-font-katari"">制限時間を知らせる時計を掲げた</span><br><span class=""scene-font-katari"">扇子が浮いている。</span>"
+20,"scene_evt200515_cp5_q2,1",こうなったら思いつく限り<br>ダジャレを言うしかないわね。<br>人数的にはアタシたちの方が有利だわ。
+21,"scene_evt200515_cp5_q2,1",ダジャレ、ダジャレ……<br>……うーん、よし！
+22,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“未央”</span>ちゃんの攻撃を受けて<span class=""scene-font-spword"">“みお”</span>！"
+23,"scene_evt200515_cp5_q2,1",ダジャレフィールドにヒビが入った！<br>この調子で行けば……！
+24,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“みおう（妙）”</span>な真似は許しませんよ♪"
+25,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">瞬殺っ！</span>"
+26,"scene_evt200515_cp5_q2,1",んにゃー！<br>あたしもダジャレを言うにゃ！
+27,"scene_evt200515_cp5_q2,1","そこにお<span class=""scene-font-spword"">“酒”</span>がある限り、<br>飲むのは<span class=""scene-font-spword"">“避け”</span>られないにゃ！"
+28,"scene_evt200515_cp5_q2,1","おつまみの<span class=""scene-font-spword"">“鮭”</span>とばも<br><span class=""scene-font-spword"">“避け”</span>られませんよね♪"
+29,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">んにゃあ！？</span>"
+30,"scene_evt200515_cp5_q2,1",つ、強い……
+31,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">いくらダジャレを言おうとも、</span><br><span class=""scene-font-katari"">楓は余裕の笑顔でダジャレを返し、</span><br><span class=""scene-font-katari"">結界を修復してしまう。</span>"
+32,"scene_evt200515_cp5_q2,1","<span class=""scene-font-gray"">──っ！！</span>"
+33,"scene_evt200515_cp5_q2,1",制限時間になってしまいました。<br>この勝負、３対２で楓の勝ちです♪
+34,"scene_evt200515_cp5_q2,1","ではペナルティを与えます。<br>最初は<span class=""scene-font-spword"">“未央”</span>ちゃん、き<span class=""scene-font-spword"">“みお（を）”</span><br>連行します♪"
+35,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">うぇぇっ！？　私ぃ！？</span>"
+36,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">うわぁぁーっ！！</span>"
+37,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">未央っ！</span>"
+38,"scene_evt200515_cp5_q2,1",ひぇぇ～～っ、<br>しぶりん、後は頼んだぁ～！
+39,"scene_evt200515_cp5_q2,1",くっ……わかった。<br>未央、頑張って耐えてよ！
+40,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">もう……なんなのこれ！</span>"
+41,"scene_evt200515_cp5_q2,1",では２回戦を始めます。<br>次は勝てるといいですね♪
+42,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">対決開始を告げるように、</span><br><span class=""scene-font-katari"">楓はパンと手を叩く。</span>"
+43,"scene_evt200515_cp5_q2,1",このルールには落とし穴がある。<br>ダジャレの数を競い、負けた側は<br>人数を削られる。
+44,"scene_evt200515_cp5_q2,1",つまり対決を続ければ続けるほど<br>私たちは不利になる。<br>ここは短期決戦で決めるべきだ。
+45,"scene_evt200515_cp5_q2,1",でもどうするってんだ？<br>短期決戦で決めるったって<br>方法が……
+46,"scene_evt200515_cp5_q2,1",持論だが、己が有利なルールを強いる<br>卑怯な魔王相手には<br>ズルをしてもいいと思うんだ。
+47,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">ラグナは『ウォーマーの記憶』を構え、</span><br><span class=""scene-font-katari"">楓を真っ直ぐ見据える。</span>"
+48,"scene_evt200515_cp5_q2,1",ルールを破ってはいけませんよ、<br>ラグナちゃん。
+49,"scene_evt200515_cp5_q2,1",ルールには従うさ。<br>だがダジャレを言いながら戦う記憶は<br>相棒から引き出させてもらう！
+50,"scene_evt200515_cp5_q2,1",頑張れー！<br>いまはラグナちゃんの力が頼りにゃ！
+51,"scene_evt200515_cp5_q2,1",…………
+52,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">し、しまった……！</span>"
+53,"scene_evt200515_cp5_q2,1",ダジャレを言いながら戦った記憶は<br>『コイツ』にもない……！
+54,"scene_evt200515_cp5_q2,1",ズコーーー……
+55,"scene_evt200515_cp5_q2,1",考えてみりゃあ、ねぇよな、普通……
+56,"scene_evt200515_cp5_q2,1","<span class=""scene-font-gray"">──っ！！</span>"
+57,"scene_evt200515_cp5_q2,1",残念、制限時間までに<br>ひとつもダジャレを言えませんでした。<br>また楓の勝ちですっ。
+58,"scene_evt200515_cp5_q2,1",なっ！　待てよ！<br>０対０なら引き分けだろ！？
+59,"scene_evt200515_cp5_q2,1",残念ですが、<br>未央ちゃんを連行する時に言ったのを<br>加えて１対０ですよ。
+60,"scene_evt200515_cp5_q2,1","さぁ<span class=""scene-font-spword"">“ラグナ”</span>ちゃん、<br><span class=""scene-font-spword"">“楽な”</span>気持ちでおいでなさい♪"
+61,"scene_evt200515_cp5_q2,1",すまない、皆！<br>私の代わりに世界のことを頼む！
+62,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">ラグナちゃーん！！</span>"
+63,"scene_evt200515_cp5_q2,1",では３回戦に行きますよ。
+64,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">その後もSide.Wたちは</span><br><span class=""scene-font-katari"">楓とのダジャレ対決を続ける。</span><br><span class=""scene-font-katari"">しかし……</span>"
+65,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“ビィ”</span>くんの翼はル<span class=""scene-font-spword"">“ビー”</span>色ですね♪"
+66,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">ふぎゃあーっ！？</span>"
+67,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“ラムレッダ”</span>ちゃん、<br><span class=""scene-font-spword"">“ラム”</span>酒は<span class=""scene-font-spword"">“レッド”</span>のグラスが<br>いいかしら？"
+68,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">Side.Wきゅーん！</span>"
+69,"scene_evt200515_cp5_q2,1","<span class=""scene-font-katari"">楓の猛襲は止まらず、</span><br><span class=""scene-font-katari"">遂に、Side.W、凛、ロゼッタの</span><br><span class=""scene-font-katari"">３人だけになってしまった。</span>"
+70,"scene_evt200515_cp5_q2,1",…………
+71,"scene_evt200515_cp5_q2,1",えっと、何回戦目でしたっけ？<br>とにかく、<br>次のダジャレ対決を始めましょう♪
+72,"scene_evt200515_cp5_q2,1",リンちゃん、ここは撤退すべきだわ。<br>あまりにも戦力に差がありすぎる……
+73,"scene_evt200515_cp5_q2,1",でも、ここで引いたら<br>捕まったみんなが……！
+74,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ！<br><span class=""scene-font-spword"">“布団”</span>が<span class=""scene-font-spword"">“吹っ飛ん”</span>だ！"
+75,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>！<br><span class=""scene-font-spword"">“おかし”</span>な味の<span class=""scene-font-spword"">“お菓子”</span>！"
+76,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“隣国”</span>の<span class=""scene-font-spword"">“リンゴ”</span>！<br><span class=""scene-font-spword"">“隣国”</span>の<span class=""scene-font-spword"">“リンゴ”</span>！"
+77,"scene_evt200515_cp5_q2,1",手遅れになってみんなが<br>ダジャレしか言えなくなったとしたら、<br>私、絶対に嫌っ！
+78,"scene_evt200515_cp5_q2,1",洗脳される前にかたをつけなきゃ……！
+79,"scene_evt200515_cp5_q2,1","<span class=""scene-font-spword"">“洗脳”</span>はいけま<span class=""scene-font-spword"">“せんのう”</span>～"
+80,"scene_evt200515_cp5_q2,1","<span class=""scene-font-4"">っ……！</span>"
+
+!이벤트 5-3
+
+0,"scene_evt200515_cp5_q3,1",え？　よろず屋さん？
+1,"scene_evt200515_cp5_q3,1","<span class=""scene-font-katari"">妄想で盛り上がっていた一同の視線は</span><br><span class=""scene-font-katari"">料理の盛られた大皿を持った</span><br><span class=""scene-font-katari"">シェロカルテに集中していた。</span>"
+2,"scene_evt200515_cp5_q3,1",うぷぷぷぷ～<br>楽しそうなダジャレが<br>聞こえてきたので、つい～
+3,"scene_evt200515_cp5_q3,1",こちらのお料理、店主さんからです～<br>熱いうちに召し上がってくださいね～
+4,"scene_evt200515_cp5_q3,1",ありがとうございます。<br>いただきますね。
+5,"scene_evt200515_cp5_q3,1",盛り上がっているところ、<br>お邪魔してすみませんでした～<br>ではでは、私はこれで～
+6,"scene_evt200515_cp5_q3,1","<span class=""scene-font-4"">ちょーっと待ったぁーーっ！</span>"
+7,"scene_evt200515_cp5_q3,1","<span class=""scene-font-katari"">去ろうとするシェロカルテを</span><br><span class=""scene-font-katari"">未央は大きな声で呼び止める。</span>"
+8,"scene_evt200515_cp5_q3,1",よろず屋さん、<br>もう少しここでダジャレを<br>言っていきませんか？
+9,"scene_evt200515_cp5_q3,1",え？　ダジャレをですか～？
+10,"scene_evt200515_cp5_q3,1",楓さんとダジャレ対決してるんだけど、<br>ぜんっぜん勝てる気がしなくて……<br>いられる時間だけでいいからさ！
+11,"scene_evt200515_cp5_q3,1",確かによろず屋さんなら、<br>楓さんに対抗できるかも……！
+12,"scene_evt200515_cp5_q3,1",私からもお願いします。<br>いま世界の危機なんです！
+13,"scene_evt200515_cp5_q3,1",えーっと、<br>事情はよくわかりませんが～……
+14,"scene_evt200515_cp5_q3,1",そういうことでしたら、<br>よろず屋シェロちゃん、精いっぱい<br>頑張らせてもらいますよ～！
+15,"scene_evt200515_cp5_q3,1",やった……！<br>救世主が来た！
+16,"scene_evt200515_cp5_q3,1",ふふっ、<br>お手柔らかにお願いしますね。
+17,"scene_evt200515_cp5_q3,1",こちらこそ～
+18,"scene_evt200515_cp5_q3,1","<span class=""scene-font-katari"">ダジャレ好きのシェロカルテを</span><br><span class=""scene-font-katari"">戦力に迎えたSide.Wたち。</span><br><span class=""scene-font-katari"">果たして勝負の行方やいかに──？</span>"
+
+!이벤트 5-4
+
+0,"scene_evt200515_cp5_q4,1",,うふふふふ～
+1,"scene_evt200515_cp5_q4,1",,…………
+2,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-katari"">どこからともなく現れ、</span><br><span class=""scene-font-katari"">奇襲をかけた謎の人物の登場に、</span><br><span class=""scene-font-katari"">ダジャレ魔王・楓は表情を険しくする。</span>"
+3,"scene_evt200515_cp5_q4,1",,あなたはまさか……！
+4,"scene_evt200515_cp5_q4,1",,愛くるしい外見と巧みな話術、<br>そして類い稀なダジャレ力を秘めし<br>伝説のダジャレ家、シェロカルテ……！
+5,"scene_evt200515_cp5_q4,1",,ダジャレ力って、<br>そんな魔力みたいに……
+6,"scene_evt200515_cp5_q4,1",,助けてください、<br>伝説のダジャレ家さん！<br>私たち、捕まってるんです！
+7,"scene_evt200515_cp5_q4,1",,うふふふ～<br>伝説と呼べるほどではありませんが、<br>ダジャレには自信がありますよ～
+8,"scene_evt200515_cp5_q4,1",,貴方の存在は知っていました。<br>ですが、こうして直に<br>お会いできるなんて……
+9,"scene_evt200515_cp5_q4,1",,あなたの目的は、<br>皆が思いのままにダジャレを言える<br>世界を創ること、でしたか～？
+10,"scene_evt200515_cp5_q4,1",,それはそれで、<br>とても魅力的な世界ですね～<br>シェロちゃんも是非見てみたいです～！
+11,"scene_evt200515_cp5_q4,1",,えっ、<br>まさかの楓さん側につく流れ……！？
+12,"scene_evt200515_cp5_q4,1",,ダメダメ！<br>世界の危機なんだから、<br>よろず屋さん戦って～！
+13,"scene_evt200515_cp5_q4,1",,うふふふ～<br>冗談ですよ～
+14,"scene_evt200515_cp5_q4,1",,伝説のダジャレ家・シェロカルテさん。<br>ダジャレ魔王として、貴方とは<br>一度戦ってみたいと思っていました。
+15,"scene_evt200515_cp5_q4,1",,"こちら<span class=""scene-font-spword"">“こそ”</span>～<br><span class=""scene-font-spword"">“こそ”</span>こそせずに戦いますよ～"
+16,"scene_evt200515_cp5_q4,1",,さすがね。<br>流れるように攻撃を始めたわ。
+17,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-spword"">“先手”</span>を取られちゃいました……<br>これではいけま<span class=""scene-font-spword"">“せんて”</span>、<br>叱られちゃいますね。"
+18,"scene_evt200515_cp5_q4,1",,"も<span class=""scene-font-spword"">“しか”</span>して、<br><span class=""scene-font-spword"">“叱”</span>られるのが怖いんですか～？<br><span class=""scene-font-spword"">“しっか”</span>り者のカエデさんでも～？"
+19,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-spword"">“怖”</span>いものなんてありません。<br>私は全てを<span class=""scene-font-spword"">“壊”</span>し、世界の改変を<br><span class=""scene-font-spword"">“声”</span>高に訴える魔王なんですから！"
+20,"scene_evt200515_cp5_q4,1",,すごい……<br>ダジャレを言いながら、<br>普通に会話してる……
+21,"scene_evt200515_cp5_q4,1",,見惚れている場合じゃないわ。<br>シェロちゃんがカエデちゃんを<br>抑えている間に押し込むわよ。
+22,"scene_evt200515_cp5_q4,1",,"そうだね……<br><span class=""scene-font-4"">……覚悟は、決めた！</span>"
+23,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-spword"">“サファイア”</span>のごとく輝け！<br><span class=""scene-font-spword"">“さぁ、ファイヤー”</span>！"
+24,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-spword"">“茨”</span>の奥には<span class=""scene-font-spword"">“いい薔薇”</span>があるのよ！"
+25,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-4"">くっ……！</span>"
+26,"scene_evt200515_cp5_q4,1",,結界に大きなヒビが入ったわ。<br>Side.Wさん、いまなら……！
+27,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-katari"">Side.Wは強く頷き、</span><br><span class=""scene-font-katari"">剣を構えて走り出す。</span>"
+28,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-4"">きゃあっ！</span>"
+29,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-gray"">──ッッッ！？</span>"
+30,"scene_evt200515_cp5_q4,1",,いまだ！<br>ここから脱出するぜ！
+31,"scene_evt200515_cp5_q4,1",,私に任せろ！<br>せいっ！
+32,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-katari"">Side.Wが結界を壊したのに</span><br><span class=""scene-font-katari"">合わせてラグナが監視のステッキを倒し</span><br><span class=""scene-font-katari"">囚われたメンバーが外に出てくる。</span>"
+33,"scene_evt200515_cp5_q4,1",,凛ちゃん……！
+34,"scene_evt200515_cp5_q4,1",,卯月、未央、みんな！<br>よかった、無事で……
+35,"scene_evt200515_cp5_q4,1",,うふふふ～<br>どうやら皆さん、<br>助かったみたいですね～
+36,"scene_evt200515_cp5_q4,1",,ではでは～<br>私は商談がありますので、<br>この辺りで失礼します～
+37,"scene_evt200515_cp5_q4,1",,ありがとー<br>伝説のダジャレ家さーんっ！<br>すっごく助かったー！
+38,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-katari"">シェロカルテはひらひらと手を振り、</span><br><span class=""scene-font-katari"">どこかへと歩き去る。</span>"
+39,"scene_evt200515_cp5_q4,1",,まさか、こんなことが……
+40,"scene_evt200515_cp5_q4,1",,観念するのね、カエデちゃん。<br>あなたの野望はもう打ち砕かれたの。
+41,"scene_evt200515_cp5_q4,1",,"いいえ、まだです……<br><span class=""scene-font-4"">私はまだ諦めてなどいません！</span>"
+42,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-katari"">ロゼッタに詰め寄られた楓は</span><br><span class=""scene-font-katari"">顔を上げ、毅然とした態度で言う。</span>"
+43,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-4"">素敵なステッキ、</span><br><span class=""scene-font-4"">いいセンスの扇子……！</span>"
+44,"scene_evt200515_cp5_q4,1",,"<span class=""scene-font-gray"">──ッ！</span>"
+45,"scene_evt200515_cp5_q4,1",,貴方たちに私の力を託します。<br>この者たちを打ち倒すのです！
+46,"scene_evt200515_cp5_q4,1",,楓さんから武器たちに<br>すごい力が送られているみたいです！
+47,"scene_evt200515_cp5_q4,1",,あいつらをけしかけるってわけだね。<br>やってやろうじゃん！
+48,"scene_evt200515_cp5_q4,1",,どんな敵だろうと負けないっ！<br>世界の平和は私たちが守る……っ！
+0,"scene_evt200515_cp5_q4,2","<span class=""scene-font-4"">えーーいっ！</span><br><span class=""scene-font-4"">はぁーーっ！</span><br><span class=""scene-font-4"">それーーっ！</span>"
+1,"scene_evt200515_cp5_q4,2","<span class=""scene-font-gray"">──……</span>"
+2,"scene_evt200515_cp5_q4,2","<span class=""scene-font-4"">きゃあっ！</span>"
+3,"scene_evt200515_cp5_q4,2","<span class=""scene-font-katari"">Side.Wたちがステッキと扇子を</span><br><span class=""scene-font-katari"">打ち倒すと、彼らを従えていた楓も</span><br><span class=""scene-font-katari"">力尽きたように膝をついた。</span>"
+4,"scene_evt200515_cp5_q4,2","<span class=""scene-font-spword"">“はぁ、痛い”</span>……<br>魔王・楓、<span class=""scene-font-spword"">“敗退”</span>です……ぱたり。"
+5,"scene_evt200515_cp5_q4,2",うぅ～……<br>手強かったですけど、<br>なんとか倒せましたね。
+6,"scene_evt200515_cp5_q4,2","<span class=""scene-font-4"">お疲れ～っ！</span><br>それじゃあ最後の締め、いっくよ～！"
+7,"scene_evt200515_cp5_q4,2","<span class=""scene-font-katari"">未央はマイクを持つように拳を握り、</span><br><span class=""scene-font-katari"">ナレーターのような調子で</span><br><span class=""scene-font-katari"">締めくくった。</span>"
+8,"scene_evt200515_cp5_q4,2",こうしてダジャレ魔王・楓の野望は<br>勇者たちの手によって砕かれ、<br>世界の平和は守られたのであった。
+9,"scene_evt200515_cp5_q4,2",めでたし、めでたし……
+10,"scene_evt200515_cp5_q4,2","<span class=""scene-font-4"">ちょっと待つにゃーーっ！</span>"
+11,"scene_evt200515_cp5_q4,2","<span class=""scene-font-4"">うえぇっ！？</span>"
+
+!이벤트 6-1
+
+0,"scene_evt200515_cp6_q1,1","<span class=""scene-font-4"">ちょっと待つにゃーーっ！</span>"
+1,"scene_evt200515_cp6_q1,1","<span class=""scene-font-katari"">勇者たちがダジャレ魔王・楓を倒し、</span><br><span class=""scene-font-katari"">物語が締めくくられたかと思った瞬間、</span><br><span class=""scene-font-katari"">突然ラムレッダが声を上げた。</span>"
+2,"scene_evt200515_cp6_q1,1",ラムレッダさん、どうかしましたか？
+3,"scene_evt200515_cp6_q1,1",カエデちゃんがひとり負けにゃ。<br>これじゃあハッピーエンドとは<br>言えないにゃ！
+4,"scene_evt200515_cp6_q1,1",でも、世界の平和のためには<br>魔王は倒さなきゃいけないし、<br>こういう展開しかないと思う。
+5,"scene_evt200515_cp6_q1,1",魔王役をやりたいと<br>言ったのは私ですし、<br>私はこのラストに満足してますよ。
+6,"scene_evt200515_cp6_q1,1","<span class=""scene-font-4"">ダメにゃ！</span><br>勝利の喜びは皆で分かち合うもの！<br>カエデちゃんが可哀想にゃ！"
+7,"scene_evt200515_cp6_q1,1",あたしは知ってるにゃ……<br>みんなが飲みの席で恋人自慢してる時、<br>黙ってるしかない女は惨めにゃ……
+8,"scene_evt200515_cp6_q1,1",ラムレッダちゃん、飲みすぎだわ。<br>そんな話をされても<br>みんな困っちゃうでしょう？
+9,"scene_evt200515_cp6_q1,1",言われてみれば、<br>確かにひとりだけ負けるっていうのは<br>可哀想な気がしますね……
+10,"scene_evt200515_cp6_q1,1",それに、よく考えたら<br>年上の楓さんをやっつけるって<br>ちょっと気まずいかも……
+11,"scene_evt200515_cp6_q1,1",でも魔王を倒す意外に<br>世界が平和になる方法なんてあるの？
+12,"scene_evt200515_cp6_q1,1",ダジャレを封印して皆さんの仲間に<br>なるくらいなら、ダジャレを言いながら<br>倒されたいですね……
+13,"scene_evt200515_cp6_q1,1",あ、もちろん、<br>ダジャレ魔王・楓としては、ですよ♪
+14,"scene_evt200515_cp6_q1,1",カエデちゃんもハッピーになれる<br>展開は考えてある！<br>カエデちゃん、耳を貸すにゃ！
+15,"scene_evt200515_cp6_q1,1","<span class=""scene-font-katari"">ラムレッダは自分の考えた筋書きを</span><br><span class=""scene-font-katari"">楓に耳打ちする。</span>"
+16,"scene_evt200515_cp6_q1,1",なるほど。<br>それなら私もみんなも<br>ハッピーになれそうですね！
+17,"scene_evt200515_cp6_q1,1",細かいところはあたしに任せるにゃ！<br>さっきのシーンからスタートにゃ！
+18,"scene_evt200515_cp6_q1,1","<span class=""scene-font-katari"">こうして真のハッピーエンドを目指して</span><br><span class=""scene-font-katari"">物語は再開する。</span>"
+
+!이벤트 6-2
+
+0,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">えーーいっ！</span><br><span class=""scene-font-4"">はぁーーっ！</span><br><span class=""scene-font-4"">それーーっ！</span>"
+1,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">──……</span>"
+2,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">きゃあっ！</span>"
+3,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">Side.Wたちは膝をつく楓に迫り、</span><br><span class=""scene-font-katari"">それぞれの得物を向ける。</span>"
+4,"scene_evt200515_cp6_q2,1",ダジャレ魔王・楓よ、<br>勝負はここに決した！<br>さぁ、観念するのだ！
+5,"scene_evt200515_cp6_q2,1",くぅ……うぅ……！
+6,"scene_evt200515_cp6_q2,1",えっ、楓さん？
+7,"scene_evt200515_cp6_q2,1",頭が、痛い……<br>うぅぅっ……！
+8,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">Side.Wたちの前で</span><br><span class=""scene-font-katari"">楓は頭を抱えて倒れ込み、</span><br><span class=""scene-font-katari"">苦しそうに呻く。</span>"
+9,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">っ！</span><br><span class=""scene-font-gray"">まさかカエデにかけた術が</span><br><span class=""scene-font-gray"">解けたのか！？</span>"
+10,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">なんということだ！</span><br><span class=""scene-font-gray"">これでは我らの作戦が……！</span>"
+11,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">えぇっ！？</span><br>あなたたちって喋れたんですか！？"
+12,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">非常事態だ。</span><br><span class=""scene-font-gray"">急いで術をかけ直すぞ！</span>"
+13,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">突然言葉を発したステッキと扇子が</span><br><span class=""scene-font-katari"">楓の頭上に集い、</span><br><span class=""scene-font-katari"">怪しげな詠唱を始める。</span>"
+14,"scene_evt200515_cp6_q2,1",うぅ……ああっ……！
+15,"scene_evt200515_cp6_q2,1",なんだぁ？<br>どうなってんだよ、これ！
+16,"scene_evt200515_cp6_q2,1",カエデちゃんは仲間かもしれないにゃ！<br>いますぐあいつらの術を止めるにゃ！
+17,"scene_evt200515_cp6_q2,1",聞いたことがあるにゃ。<br>シェロさんと並び立つもうひとりの<br>伝説のダジャレ家……その名はカエデ！
+18,"scene_evt200515_cp6_q2,1",私たちが前にしてるのは<br>その伝説のダジャレ家かもしれない！<br>だから助けるにゃ！
+19,"scene_evt200515_cp6_q2,1",もうひとりの伝説のダジャレ家って、<br>またすげぇ設定ぶっこんできたな……
+20,"scene_evt200515_cp6_q2,1",私も聞いたことあるよ！<br>王宮に仕えてたそのダジャレ家が<br>ある日行方不明になったって！
+21,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">えぇっ！？</span><br><span class=""scene-font-4"">そうなんですか？</span>"
+22,"scene_evt200515_cp6_q2,1",宮廷魔導師・楓……風の魔法に長け、<br>類い稀なダジャレ力で敵の隙を誘い、<br>王国に栄光をもたらせし者……
+23,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">って、王様が言ってた！</span><br><span class=""scene-font-4"">間違いない！</span>"
+24,"scene_evt200515_cp6_q2,1",宮廷魔導師……<br>だから楓さん、あんなに魔力が強くて<br>色んな魔法が使えたんですねっ！
+25,"scene_evt200515_cp6_q2,1","<span class=""scene-font-kokoro"">（ふたりとも、</span><br><span class=""scene-font-kokoro"">即興で合わせてる……さすがだな。</span><br><span class=""scene-font-kokoro"">私も負けてられないっ！）</span>"
+26,"scene_evt200515_cp6_q2,1",それってつまり、<br>ほんとの黒幕はステッキと扇子<br>かもしれないってこと？
+27,"scene_evt200515_cp6_q2,1",まだはっきりとは<br>言いきれないけれど……<br>その可能性は高そうね。
+28,"scene_evt200515_cp6_q2,1",真相を知るためにも、<br>カエデちゃんは助けるべきだわ……
+29,"scene_evt200515_cp6_q2,1",だから少しの間、<br>あなたは黙っていて頂戴……！
+30,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">ぐっ、なんだこの茨はっ！？</span><br><span class=""scene-font-gray"">う……動けない……</span>"
+31,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4 scene-font-gray"">いま助ける！</span>"
+32,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">させないにゃ！</span><br><span class=""scene-font-4"">こいつを食らえ！</span>"
+33,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4 scene-font-gray"">なっ！</span><br><span class=""scene-font-gray"">ワインが体にかかって……！</span>"
+34,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">ステッキはロゼッタの茨に絡め取られ、</span><br><span class=""scene-font-katari"">扇子はラムレッダのワインに汚され、</span><br><span class=""scene-font-katari"">行動不能に陥る。</span>"
+35,"scene_evt200515_cp6_q2,1",いまのうちに楓さんを……！
+36,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">ああぁぁーっ！</span>"
+37,"scene_evt200515_cp6_q2,1",くっ、術は発動済みか。<br>ならば……！
+38,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">ラグナは咄嗟に楓を突き飛ばし、</span><br><span class=""scene-font-katari"">魔力の光の中に自らの身を投じた。</span>"
+39,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4"">っ！　ラグナちゃん……！！</span><br>……ラグナちゃんが、ああ……！"
+40,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">チッ、仲間をやられたショックで</span><br><span class=""scene-font-gray"">完全に術を破りやがった……！</span>"
+41,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">こうなったらドラフの方を</span><br><span class=""scene-font-gray"">我らが魔王に仕立て上げる他ない！</span>"
+42,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">ステッキと扇子は気合で</span><br><span class=""scene-font-katari"">行動不能状態から脱すると、</span><br><span class=""scene-font-katari"">ラグナの方へ移動する。</span>"
+43,"scene_evt200515_cp6_q2,1",フッ、残念だったな。
+44,"scene_evt200515_cp6_q2,1","<span class=""scene-font-gray"">術が効いていない、だと……！？</span><br><span class=""scene-font-gray"">何故だ！？</span>"
+45,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">ラグナはステッキと扇子を</span><br><span class=""scene-font-katari"">牽制するように、</span><br><span class=""scene-font-katari"">『ウォーマーの記憶』を構える。</span>"
+46,"scene_evt200515_cp6_q2,1",術をかけられた状態で戦うのは<br>『コイツ』が経験済みだ。<br>だから私にも術は効かん。それに……
+47,"scene_evt200515_cp6_q2,1",私をダジャレ魔王にするなど言語道断！<br>なにしろ私は今日この場において<br>まだ一度もダジャレを言ってない！
+48,"scene_evt200515_cp6_q2,1","<span class=""scene-font-4 scene-font-gray"">なっ……！！</span>"
+49,"scene_evt200515_cp6_q2,1",あれ？　そうでしたっけ？
+50,"scene_evt200515_cp6_q2,1",そういや、言ってねぇな。
+51,"scene_evt200515_cp6_q2,1","<span class=""scene-font-kokoro"">（単に言うタイミングを</span><br><span class=""scene-font-kokoro"">逃がしてただけなんだがな……）</span>"
+52,"scene_evt200515_cp6_q2,1",はぁ……はぁ……<br>ラグナちゃんが、無事で、よかった……
+53,"scene_evt200515_cp6_q2,1",楓さんっ！
+54,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">安堵し、膝をつく楓のもとに</span><br><span class=""scene-font-katari"">未央が駆け寄る。</span>"
+55,"scene_evt200515_cp6_q2,1",さっきまでの禍々しい感じが<br>なくなってる……
+56,"scene_evt200515_cp6_q2,1",やはりあなたは、<br>かの有名なダジャレ家の<br>楓さんなのですかっ！？
+57,"scene_evt200515_cp6_q2,1",そうです。<br>私は伝説のダジャレ家・高垣楓……
+58,"scene_evt200515_cp6_q2,1",そして王の命により、<br>世界を脅かす悪しき力を滅すべく<br>旅をしていた宮廷魔導師です。
+59,"scene_evt200515_cp6_q2,1",…………
+60,"scene_evt200515_cp6_q2,1",全て思い出しました……<br>私がどうしてダジャレ魔王に<br>なってしまったのか……
+61,"scene_evt200515_cp6_q2,1","<span class=""scene-font-katari"">楓は深呼吸し、</span><br><span class=""scene-font-katari"">自分の身に何が起きたのか</span><br><span class=""scene-font-katari"">静かに語り始めた。</span>"
+
+
+!이벤트 6-3
+
+0,"scene_evt200515_cp6_q3,1",ここが、王の言っていた古城……
+1,"scene_evt200515_cp6_q3,1",すぅ……はぁ……<br>大丈夫、私ならきっと<br>使命を果たせるわ。
+2,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">辺境の古城に禍々しい力が集まり、</span><br><span class=""scene-font-katari"">ダジャレに溢れた世界を創るべく</span><br><span class=""scene-font-katari"">不穏な動きを見せている──</span>"
+3,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">その噂の調査と悪しき陰謀を</span><br><span class=""scene-font-katari"">阻止するべく、</span><br><span class=""scene-font-katari"">楓は古城の前に立っていた。</span>"
+4,"scene_evt200515_cp6_q3,1",これが報告にあった結界、<br>ダジャレフィールド……<br>……っ！
+5,"scene_evt200515_cp6_q3,1","<span class=""scene-font-spword"">“宮廷魔導師”</span>・楓、<br><span class=""scene-font-spword"">“きゅって窓を閉”</span>めました。"
+6,"scene_evt200515_cp6_q3,1","<span class=""scene-font-spword"">“湖上”</span>に立つ<span class=""scene-font-spword"">“古城”</span>でする<br><span class=""scene-font-spword"">“コショコショ”</span>話……"
+7,"scene_evt200515_cp6_q3,1",ふふっ♪
+8,"scene_evt200515_cp6_q3,1",ダジャレを言わなければ<br>決して壊れることのない結界でも、<br>私にかかればこんなもの。
+9,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">楓は渾身のダジャレを言い、</span><br><span class=""scene-font-katari"">得意げに古城に入っていった。</span>"
+10,"scene_evt200515_cp6_q3,1",それにしても、<br>案外簡単に入れてしまったわね。<br>まだダジャレは考えてきたのに……
+11,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">古城の中でうごめく</span><br><span class=""scene-font-katari"">魔力の発生源を探しながら、</span><br><span class=""scene-font-katari"">楓は寂れた廊下を進む。</span>"
+12,"scene_evt200515_cp6_q3,1",古城に住み着いた何かはダジャレに<br>溢れた世界を創ろうとしている……<br>王様はそう言ってたけど……
+13,"scene_evt200515_cp6_q3,1",ダジャレを好きなだけ言える世界<br>っていうのも、ちょっと楽しそう……
+14,"scene_evt200515_cp6_q3,1",はっ！　ダメよ、楓！<br>そんなこと考えたりしちゃ！
+15,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">ダジャレフィールドを壊すために、</span><br><span class=""scene-font-katari"">久々に好きなだけダジャレが言えた楓は</span><br><span class=""scene-font-katari"">自分の心がチクッと痛むのに気づく。</span>"
+16,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">その痛みから目を背けるように、</span><br><span class=""scene-font-katari"">楓は杖を握りしめ、</span><br><span class=""scene-font-katari"">魔力の強い方へと足を進める。</span>"
+17,"scene_evt200515_cp6_q3,1",力はこの部屋からする……
+18,"scene_evt200515_cp6_q3,1",っ！　あれは……！
+19,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">魔力の流れを辿り玉座の間に着いた楓は</span><br><span class=""scene-font-katari"">玉座に輝く禍々しい光の球を見つける。</span>"
+20,"scene_evt200515_cp6_q3,1",あれがきっと世界を脅かす力の源ね。<br>帰って王様に報告しなくちゃ……！
+21,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">ほう、ここまでひとりで</span><br><span class=""scene-font-gray"">やってくるとは、</span><br><span class=""scene-font-gray"">貴様相当なダジャレ力を秘めているな？</span>"
+22,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">彼女こそ我らが長い間待ち望んでいた</span><br><span class=""scene-font-gray"">魔王の器を持つ者。</span><br><span class=""scene-font-gray"">遂に、遂にこの日が訪れたのだ！</span>"
+23,"scene_evt200515_cp6_q3,1",えっ？　魔王……？
+24,"scene_evt200515_cp6_q3,1","<span class=""scene-font-katari"">玉座の光から現れた</span><br><span class=""scene-font-katari"">ふたつの武器に迫られ、</span><br><span class=""scene-font-katari"">楓は身構える。</span>"
+25,"scene_evt200515_cp6_q3,1",世界を脅かそうとしてるのは<br>貴方たちですね。<br>一体何が目的なのですか？
+26,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">この世界は腐っている。</span><br><span class=""scene-font-gray"">ダジャレを言えば人は困惑し、</span><br><span class=""scene-font-gray"">オヤジギャグとさえ呼んで蔑む始末。</span>"
+27,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">だから我らは世界の摂理を</span><br><span class=""scene-font-gray"">変えようとしているのだ。</span><br><span class=""scene-font-gray"">誰もが好きにダジャレを言えるように。</span>"
+28,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">しかし我らは所詮武器だ。</span><br><span class=""scene-font-gray"">使い手がいなければダジャレも言えず、</span><br><span class=""scene-font-gray"">真の力を発揮することすら叶わない。</span>"
+29,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">そこでダジャレフィールドを展開し、</span><br><span class=""scene-font-gray"">優れたダジャレ力を秘めた者を</span><br><span class=""scene-font-gray"">城に誘き出そうとした、というわけだ。</span>"
+30,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">そして遂に魔王の器を持つ者が現れた。</span><br><span class=""scene-font-gray"">単身でダジャレフィールドを破り続け</span><br><span class=""scene-font-gray"">玉座まで辿り着いた者、そう、貴様だ。</span>"
+31,"scene_evt200515_cp6_q3,1",残念ながら私は王様の命令で<br>貴方たちの調査に来ただけです。<br>魔王になりに来たのではありません。
+32,"scene_evt200515_cp6_q3,1",私は帰らせていただきます。<br>……王様が待ってますから。
+33,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">貴様、いつまで自分の本音から</span><br><span class=""scene-font-gray"">目を背け続けるつもりだ？</span>"
+34,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">誰かの目を気にすることなく、</span><br><span class=""scene-font-gray"">言いたいのだろう？</span><br><span class=""scene-font-gray"">大好きなダジャレを思いのままに。</span>"
+35,"scene_evt200515_cp6_q3,1",そんな、ことは……
+36,"scene_evt200515_cp6_q3,1",私が生まれ持ったこのダジャレ力は、<br>王国の繁栄のためだけに使う……<br>小さい頃にそう決めたんです。
+37,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">あくまで否定するか。</span><br><span class=""scene-font-gray"">ならば……！</span>"
+38,"scene_evt200515_cp6_q3,1","<span class=""scene-font-4"">っ！？</span><br><span class=""scene-font-4"">ああっ！！</span>"
+39,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">さぁ、解き放て！</span><br><span class=""scene-font-gray"">その胸に秘めしダジャレの奔流を！</span>"
+40,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">欲望のままに唱えなさい。</span><br><span class=""scene-font-gray"">汝の望む至高のダジャレを……！</span>"
+41,"scene_evt200515_cp6_q3,1","<span class=""scene-font-kokoro"">（何かが頭の中に流れ込んでくる……</span><br><span class=""scene-font-kokoro"">ダメ……我慢できない！）</span>"
+42,"scene_evt200515_cp6_q3,1","あ……<br>貴方、<span class=""scene-font-spword"">“素敵”</span>な<span class=""scene-font-spword"">“ステッキ”</span>ですね。"
+43,"scene_evt200515_cp6_q3,1","<span class=""scene-font-spword"">“扇子”</span>の貴方は、<br>とってもいい<span class=""scene-font-spword"">“センス”</span>してます！"
+44,"scene_evt200515_cp6_q3,1","<span class=""scene-font-kokoro"">（た……楽しい♪）</span>"
+45,"scene_evt200515_cp6_q3,1","<span class=""scene-font-gray"">よくぞ言った……</span><br><span class=""scene-font-gray"">貴様をダジャレ魔王と認める。</span><br><span class=""scene-font-gray"">我らとともに世界を変えよう！</span>"
+46,"scene_evt200515_cp6_q3,1","<span class=""scene-font-4"">きゃぁぁぁーーっ！！</span>"
+
+!이벤트 6-4
+
+0,"scene_evt200515_cp6_q4,1",,それから、気がついたら私は<br>ダジャレ魔王・楓として<br>世界を脅かす存在になっていました。
+1,"scene_evt200515_cp6_q4,1",,…………
+2,"scene_evt200515_cp6_q4,1",,全ては私の心の弱さが招いたこと。<br>ダジャレの誘惑に負けた私のせいです。
+3,"scene_evt200515_cp6_q4,1",,術にかけられていたとはいえ、<br>皆さんにひどいことをしてしまって、<br>ごめんなさいっ。
+4,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-katari"">楓は深々と頭を下げて謝罪する。</span>"
+5,"scene_evt200515_cp6_q4,1",,楓さん、生まれ持った強い<br>ダジャレ力のせいで、<br>苦労してきたんですね……
+6,"scene_evt200515_cp6_q4,1",,これからは好きなだけダジャレを<br>言っていいですからね！<br>私も頑張ってダジャレで返しますから！
+7,"scene_evt200515_cp6_q4,1",,卯月、その方向には<br>頑張らなくていいから……
+8,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">逃がさん……</span><br><span class=""scene-font-gray"">カエデのダジャレ力は我らのもの！</span>"
+9,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">なんとしても我が手中に収める。</span><br><span class=""scene-font-gray"">もう一度ダジャレの誘惑に沈むがいい！</span>"
+10,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4"">ぐはっ！</span>"
+11,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-katari"">ステッキと扇子の放つ光に、</span><br><span class=""scene-font-katari"">彼らを牽制していたラグナたちは</span><br><span class=""scene-font-katari"">吹き飛ばされてしまう。</span>"
+12,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4"">同じ手にはかかりません！</span>"
+13,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-katari"">楓はステッキにカードを、</span><br><span class=""scene-font-katari"">扇子に突風を放ち、</span><br><span class=""scene-font-katari"">両者の進行を食い止める。</span>"
+14,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">くっ……！</span><br><span class=""scene-font-gray"">宮廷魔導師の名は</span><br><span class=""scene-font-gray"">伊達ではないようだな。</span>"
+15,"scene_evt200515_cp6_q4,1",,……そうでした。<br>貴方たちに言いたいことが<br>あったんです。
+16,"scene_evt200515_cp6_q4,1",,ダジャレに溢れた世界を創る……<br>その目的は百歩譲って認めます。<br>でもね……
+17,"scene_evt200515_cp6_q4,1",,普通に考えて、<br>ダジャレで世界征服なんて<br>できるわけがないじゃない！
+18,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4"">えぇっ！？</span>"
+19,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4 scene-font-gray"">なにぃ～っ！？</span>"
+20,"scene_evt200515_cp6_q4,1",,それ楓さんが否定しちゃうの……？
+21,"scene_evt200515_cp6_q4,1",,貴方たちの陰謀は最初から<br>潰える運命だったんです！<br>悪あがきはもうやめて！
+22,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">し、しかし……！</span><br><span class=""scene-font-gray"">貴様もダジャレが好きで好きで</span><br><span class=""scene-font-gray"">仕方がないはずだ！</span>"
+23,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">皆が思いのままにダジャレを言える</span><br><span class=""scene-font-gray"">世界になれば貴様はもうダジャレを</span><br><span class=""scene-font-gray"">我慢する必要はなくなる！</span>"
+24,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">何故我らと目的を違えるのだ！？</span>"
+25,"scene_evt200515_cp6_q4,1",,そうね……<br>確かにとても楽しかったわ……
+26,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-spword"">“楓”</span>が世界を<span class=""scene-font-spword"">“変え”</span>たる<span class=""scene-font-spword"">“で”</span>♪"
+27,"scene_evt200515_cp6_q4,1",,ダジャレ魔王として、<br>好きなだけダジャレが言えて……
+28,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-spword"">“ビィ”</span>くんの翼はル<span class=""scene-font-spword"">“ビー”</span>色ですね♪"
+29,"scene_evt200515_cp6_q4,1",,あんなダジャレも、<br>こんなダジャレも披露できて……
+30,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-spword"">“先手”</span>を取られちゃいました……<br>これではいけま<span class=""scene-font-spword"">“せんて”</span>、<br>叱られちゃいますね。"
+31,"scene_evt200515_cp6_q4,1",,最後には、<br>夢のダジャレ対決まで実現できて……
+32,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">だったら我らとともに夢を叶えよう！</span><br><span class=""scene-font-gray"">そうすればもっと楽しい</span><br><span class=""scene-font-gray"">ダジャレライフを送れるはずだ！</span>"
+33,"scene_evt200515_cp6_q4,1",,でも……でも……！
+34,"scene_evt200515_cp6_q4,1",,"世界にはダジャレを言う自由があれば<br>言わない自由もある……<br><span class=""scene-font-4"">私はその自由を守りたいっ！</span>"
+35,"scene_evt200515_cp6_q4,1",,だから、貴方たちという<br>世界の脅威は倒します！<br>みんなの自由を守るために……！
+36,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">ぐぅ……っ！！</span>"
+37,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4"">うぅぅ……</span><br><span class=""scene-font-4"">がえ゛でざぁぁーーんっ！！</span>"
+38,"scene_evt200515_cp6_q4,1",,私だぢのだめに、ぞんな辛い選択を<br>じでぐれるなんで……<br>ひっく……うっく……
+39,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4"">えぇっ！？</span><br>これって感動するシーンなの！？"
+40,"scene_evt200515_cp6_q4,1",,楓さん……ひっく……<br>私は、楓さんのその決意を<br>尊重するよ……！
+41,"scene_evt200515_cp6_q4,1",,うぅぅ……私も……<br>一緒に戦いますから……<br>……自由を、守りましょう！
+42,"scene_evt200515_cp6_q4,1",,う、うーん……
+43,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-4"">もう！</span><br>こうなったらツッコミなしだ！<br>私も戦う！"
+44,"scene_evt200515_cp6_q4,1",,ありがとう、みんな。
+45,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">ぐっ……</span><br><span class=""scene-font-gray"">こんなところで我らの野望を</span><br><span class=""scene-font-gray"">潰されてたまるか！</span>"
+46,"scene_evt200515_cp6_q4,1",,──っ！！
+47,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-katari"">ステッキと扇子が力を解放すると、</span><br><span class=""scene-font-katari"">その背後に楓によく似た影が現れる。</span>"
+48,"scene_evt200515_cp6_q4,1",,えっ？<br>楓さんがもうひとり……？
+49,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">カエデが我らの力を使う時、</span><br><span class=""scene-font-gray"">我らも同時にカエデの力を</span><br><span class=""scene-font-gray"">取り込んでいたのだ。</span>"
+50,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">我らのような存在は</span><br><span class=""scene-font-gray"">使い手がいなければ真価は発揮できん。</span>"
+51,"scene_evt200515_cp6_q4,1",,"<span class=""scene-font-gray"">しかしカエデの力を取り込んだことで、</span><br><span class=""scene-font-gray"">使い手がいなくとも真の力を</span><br><span class=""scene-font-gray"">解き放つことができるというわけだ。</span>"
+52,"scene_evt200515_cp6_q4,1",,そ、そんな……
+53,"scene_evt200515_cp6_q4,1",,貴方たちに力を与えてしまったのは<br>私の落ち度です……
+54,"scene_evt200515_cp6_q4,1",,だからこそ貴方たちを<br>この手で食い止めます。<br>決着をつけましょう！
+
+!엔딩
+
+0,"scene_k93tyq4nic_cp0_q3,1",すぅ……すぅ……
+1,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-4"">お疲れ様でしたーっ！</span>"
+2,"scene_k93tyq4nic_cp0_q3,1",今日の撮影も盛り沢山でしたね！<br>いっぱい動き回ったから、<br>へとへとになりましたぁ～……
+3,"scene_k93tyq4nic_cp0_q3,1",卯月が練習頑張ってた殺陣のシーン、<br>一発で決まってたよね。<br>キレがあって思わず見惚れちゃった。
+4,"scene_k93tyq4nic_cp0_q3,1",しぶりんも剣でスパッって<br>敵をなぎ払ってくシーン、<br>カッコよかったよ～
+5,"scene_k93tyq4nic_cp0_q3,1",未央ちゃんだって奇襲かけるところ<br>とっても難しいのに、<br>完璧ですごかったです！
+6,"scene_k93tyq4nic_cp0_q3,1",あれ？<br>楓さん、寝てる……？
+7,"scene_k93tyq4nic_cp0_q3,1",すぅ……すぅ……<br>……決着を、つけ…………
+8,"scene_k93tyq4nic_cp0_q3,1",ほんとですね……<br>待ちくたびれて<br>寝ちゃったんでしょうか？
+9,"scene_k93tyq4nic_cp0_q3,1",かえ姉さま～、起きて～！<br>こんなところで寝たら<br>風邪引いちゃうよ～！
+10,"scene_k93tyq4nic_cp0_q3,1",う、ん……
+11,"scene_k93tyq4nic_cp0_q3,1",あら？<br>卯月ちゃんに凛ちゃんに未央ちゃん……
+12,"scene_k93tyq4nic_cp0_q3,1",戦いはどうなったんですか？<br>素敵なステッキたちの陰謀は<br>阻止できたのかしら？
+13,"scene_k93tyq4nic_cp0_q3,1",へっ？<br>素敵なステッキ……？
+14,"scene_k93tyq4nic_cp0_q3,1",夢見てたみたいだね。<br>ぐっすり眠ってたし。
+15,"scene_k93tyq4nic_cp0_q3,1",夢……？<br>そういえば私、撮影が終わって<br>卯月ちゃんたちを待ってて……
+16,"scene_k93tyq4nic_cp0_q3,1",お待たせしてすみません！<br>私たちも撮影が終わったので、<br>すぐに着替えて出る準備しますね！
+17,"scene_k93tyq4nic_cp0_q3,1",急いで済ませるから、<br>もう少しだけ待ってて！
+18,"scene_k93tyq4nic_cp0_q3,1",ふふっ、焦らなくても大丈夫ですよ。<br>お店の予約時間までには<br>まだ時間がありますから。
+19,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">卯月たちは着替えるため、</span><br><span class=""scene-font-katari"">カーテンの中に入っていく。</span>"
+20,"scene_k93tyq4nic_cp0_q3,1",ふわぁ～……
+21,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-kokoro"">（それにしても、ずいぶんと</span><br><span class=""scene-font-kokoro"">長い夢を見ていたみたい……）</span>"
+22,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-spword"">“楓”</span>が世界を<span class=""scene-font-spword"">“変え”</span>たる<span class=""scene-font-spword"">“で”</span>！"
+23,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-kokoro"">（ふふっ、</span><br><span class=""scene-font-kokoro"">とっても楽しい夢だったわ～♪）</span>"
+24,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">独り言を呟き、</span><br><span class=""scene-font-katari"">楓はにっこりと笑顔を咲かせる。</span>"
+25,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">長く壮大な夢で得た不思議な経験は、</span><br><span class=""scene-font-katari"">今後の楓のアイドル活動にも大いに</span><br><span class=""scene-font-katari"">役立っていくの……かもしれない。</span>"
+26,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　　　　　　　　　　　　──The END</span>"
+
+!스토리? 페이트? 이벤트? 등등..
+
+
+0,"scene_cp1_q3,1",――こいつが……<br>街の奴が言ってた騎空艇か？,――이 녀석이……<br>마을 사람이 말했던 기공선인가？
+
+!스토리? 페이트? 이벤트? 등등..
+
+
+0,[scene_cp1_q3_s10],――こいつが……<br>街の奴が言ってた騎空艇か？,――이 녀석이……<br>마을 사람이 말했던 기공선인가？
