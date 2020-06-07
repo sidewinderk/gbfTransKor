@@ -7,6 +7,7 @@ var generalConfig = {
     deafultTransName: "[그랑]", // Default translated user name
     defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquare.woff') format('woff');",
     defaultFontName: "NanumSquare"
+
 };
 var isVerboseMode = false;
 var doImageSwap = true;
@@ -15,15 +16,11 @@ var transMode = true;
 var exMode = false;
 var initialize = false;
 var ObserverList = [];
-var userName = "";
+var userName = '';
 
-var storyText = [];
-var storyText_index = 0;
-var storyText_sceneIndex = 1;
-var oldSceneCode = '';
 
-var evtSceneCodeObj = [];
-
+var sceneFullInfo = [];
+//https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
 var cNames = [];
 var miscs = [];
 var questJson = false;
@@ -32,33 +29,45 @@ var archiveJson = false;
 var imageJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
 // Coversation with popup window
-// chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
-//     if (request.data == 'update') {
-//         chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+// chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+//     if (request.data == 'clearScenes') {
+//         sceneFullInfo = [];
+//         chrome.storage.local.set({
+//             sceneFullInfo: sceneFullInfo
+//         });
+//         window.location.reload();
 //     }
-//     if (request.data == 'clearText') {
-//         storyText = [];
-//         storyText_index = 0;
-//         storyText_sceneIndex = 1;
-//         oldSceneCode = '';
-//         chrome.storage.local.set({ oTEXT: storyText });
+//     if (request.data == 'scenes') {
+//         PushCSV_StoryText(request);
+//     }
+//     if (request.data == 'update') {
+//         chrome.storage.local.set({
+//             sceneFullInfo: sceneFullInfo,
+//             nTEXT: cNames,
+//             mTEXT: miscs
+//         });
 //     }
 //     if (request.data == 'clearName') {
 //         cNames = [];
-//         chrome.storage.local.set({ nTEXT: cNames });
+//         chrome.storage.local.set({
+//             nTEXT: cNames
+//         });
 //     }
 //     if (request.data == 'clearMisc') {
 //         miscs = [];
-//         chrome.storage.local.set({ mTEXT: miscs });
+//         chrome.storage.local.set({
+//             mTEXT: miscs
+//         });
 //     }
 //     if (request.data == 'refresh') {
-//         storyText = [];
-//         cNames = [];
-//         miscs = [];
-//         storyText_index = 0;
-//         storyText_sceneIndex = 1;
-//         oldSceneCode = '';
-//         chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+//         PrintLog(sceneFullInfo);
+//         PrintLog(cNames);
+//         PrintLog(miscs);
+//         chrome.storage.local.set({
+//             sceneFullInfo: sceneFullInfo,
+//             nTEXT: cNames,
+//             mTEXT: miscs
+//         });
 //     }
 // });
 
@@ -107,7 +116,8 @@ function walkDownTree(node, command, variable = null) {
 
 function walkDownTreeSrc(node, command, variable = null) {
     if (node.className) {
-        if (!node.length &&
+        if (
+            !node.length &&
             !node.className.includes('item') && // it's too much.
             node.currentSrc
         ) {
@@ -176,43 +186,128 @@ function walkDownTreeStyle(node, command, variable = null) {
     }
 }
 
+function walkDownObserver(node, obs, variable = null) {
+    if ((node.className) &&
+        (!node.length)) {
+        obs.observe(node, variable);
+    }
+    if (!node.className) {
+        // in case of list of nodes
+        if (node.id) {
+            if (node.length) {
+                if (node.length > 0) {
+                    for (var i = 0; i < node.length; i++)
+                        walkDownObserver(node[i], obs, variable);
+                }
+            }
+            if (node.hasChildNodes()) {
+                for (var i = 0; i < node.childElementCount; i++)
+                    walkDownObserver(node.children[i], obs, variable);
+            }
+        }
+        if (node.length) {
+            if (node.length > 0) {
+                for (var i = 0; i < node.length; i++) walkDownObserver(node[i], obs, variable);
+            }
+        }
+    } else {
+        if (node.hasChildNodes()) {
+            for (var i = 0; i < node.childElementCount; i++)
+                walkDownObserver(node.children[i], obs, variable);
+        }
+    }
+}
+
 function PushCSV(text, array) {
     if (kCheck.test(text)) return;
     if (!array.includes(text)) {
+        if (text.match(/&nbsp;/g)) {
+            PrintLog('NOPE');
+            return;
+        }
         if (array.includes(',')) array.push("'" + text + "'");
         else array.push(text);
-        // chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
+        // chrome.storage.local.set({
+        //     nTEXT: cNames,
+        //     mTEXT: miscs
+        // });
     }
 }
 
-function PushCSV_StoryText(text, array, sceneCodes) {
-    if (kCheck.test(text)) return;
-    PrintLog(`input ${text}`);
-    var isIntempDB = false;
-    array.some(function(item) {
-        if (item.orig == text) {
-            isInDB = true;
-            return true;
-        }
-    });
-    if (!isIntempDB) {
-        PrintLog(`Accepted ${sceneCodes} ${storyText_index} ${text}`);
-        var tempJson = new Object();
-        tempJson.index = storyText_index++;
-        //원래는  tempJson.sceneCode = [sceneCodes] 였는데, 해보니까 대괄호로 묶어도 대괄호안에 쉼표들어가면
-        //쉼표를 예외처리 안해줌..ㅠ 그래서 그냥 대괄호대신에 쌍따음표로 처리함.
-        sceneCodes = '"' + sceneCodes + ',' + storyText_sceneIndex + '"';
-        tempJson.sceneCode = sceneCodes;
-        tempJson.orig = text;
+// function PushCSV_StoryText(request) {
+//     if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
 
-        if (text.includes(',')) {
-            tempJson.orig = '"' + text + '"';
-        } else tempJson.orig = text;
+//     var skip = false;
+//     var sceneCode = request.scenes[0];
+//     var sceneLanguage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
 
-        array.push(tempJson);
-        // chrome.storage.local.set({ oTEXT: storyText, nTEXT: cNames, mTEXT: miscs });
-    }
-}
+//     sceneFullInfo.some(function (scene) {
+//         var sceneCodeReserved = scene.SceneCode
+//             .split('"')
+//             .join('')
+//             .split(',')[0];
+//         if (sceneCodeReserved == sceneCode) {
+//             if (sceneLanguage == scene.Language) {
+//                 skip = true;
+//                 return true;
+//             }
+//         }
+//     });
+//     if (skip) return;
+
+//     if (document.URL.includes('play_view')) {
+//         var anotherSceneCode = SceneCodeFromURL();
+//         if (anotherSceneCode != '')
+//             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
+//     }
+
+//     var sceneText = request.scenes[1];
+
+//     sceneText.forEach(function (item) {
+//         if (item.synopsis != '') {
+//             var sceneJson = {};
+//             sceneJson.Language = sceneLanguage;
+//             sceneJson.SceneCode = sceneCode;
+//             sceneJson.Type = 'synopsis';
+//             sceneJson.Name = '';
+//             item.synopsis = item.synopsis.split('\n').join('');
+//             item.synopsis = item.synopsis.split('"').join("'");
+//             item.synopsis = item.synopsis.split('&nbsp;').join(' ');
+//             sceneJson.Origin = '"' + item.synopsis + '"';
+//             sceneFullInfo.push(sceneJson);
+//         }
+//         if (item.detail != '') {
+//             var sceneJson = {};
+//             sceneJson.Language = sceneLanguage;
+//             sceneJson.SceneCode = sceneCode;
+//             sceneJson.Type = 'detail';
+//             sceneJson.Name = item.charcter1_name != 'null' ? item.charcter1_name : '';
+//             item.detail = item.detail.split('\n').join('');
+//             item.detail = item.detail.split('"').join("'");
+//             item.detail = item.detail.split('&nbsp;').join(' ');
+//             sceneJson.Origin = '"' + item.detail + '"';
+//             sceneFullInfo.push(sceneJson);
+//         }
+
+//         for (key in item) {
+//             if (key.match(/sel[\d+]_txt/) != null) {
+//                 if (item[key] != '') {
+//                     var sceneJson = {};
+//                     sceneJson.Language = sceneLanguage;
+//                     sceneJson.SceneCode = sceneCode;
+//                     sceneJson.Type = key;
+//                     sceneJson.Name = '';
+//                     sceneJson.Origin = item[key];
+//                     sceneFullInfo.push(sceneJson);
+//                 }
+//             }
+//         }
+//     });
+
+//     chrome.storage.local.set({
+//         sceneFullInfo: sceneFullInfo
+//     });
+// }
 
 // Imported modules
 var commonjsGlobal =
@@ -223,9 +318,11 @@ var commonjsGlobal =
     typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
 function createCommonjsModule(fn, module) {
-    return (module = { exports: {} }), fn(module, module.exports), module.exports;
+    return (module = {
+        exports: {}
+    }), fn(module, module.exports), module.exports;
 }
-var papaparse_min = createCommonjsModule(function(module, exports) {
+var papaparse_min = createCommonjsModule(function (module, exports) {
     /* @license
     Papa Parse
     v4.6.3
@@ -233,12 +330,12 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
     License: MIT
     */
     Array.isArray ||
-        (Array.isArray = function(e) {
+        (Array.isArray = function (e) {
             return '[object Array]' === Object.prototype.toString.call(e);
         }),
-        (function(e, t) {
+        (function (e, t) {
             module.exports = t();
-        })(commonjsGlobal, function() {
+        })(commonjsGlobal, function () {
             var s,
                 e,
                 f =
@@ -251,7 +348,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 h = {},
                 u = 0,
                 k = {
-                    parse: function(e, t) {
+                    parse: function (e, t) {
                         var r = (t = t || {}).dynamicTyping || !1;
                         z(r) && ((t.dynamicTypingFunction = r), (r = {}));
                         if (
@@ -259,7 +356,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 (t.transform = !!z(t.transform) && t.transform),
                                 t.worker && k.WORKERS_SUPPORTED)
                         ) {
-                            var i = (function() {
+                            var i = (function () {
                                 if (!k.WORKERS_SUPPORTED) return !1;
                                 if (!a && null === k.SCRIPT_PATH)
                                     throw new Error(
@@ -280,7 +377,11 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 (t.complete = z(t.complete)),
                                 (t.error = z(t.error)),
                                 delete t.worker,
-                                void i.postMessage({ input: e, config: t, workerId: i.id })
+                                void i.postMessage({
+                                    input: e,
+                                    config: t,
+                                    workerId: i.id
+                                })
                             );
                         }
                         var n = null;
@@ -293,17 +394,17 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                             (n = new p(t));
                         return n.stream(e);
                     },
-                    unparse: function(e, t) {
+                    unparse: function (e, t) {
                         var i = !1,
                             g = !0,
                             m = ',',
                             y = '\r\n',
                             n = '"',
                             r = !1;
-                        !(function() {
+                        !(function () {
                             if ('object' != typeof t) return;
                             'string' != typeof t.delimiter ||
-                                k.BAD_DELIMITERS.filter(function(e) {
+                                k.BAD_DELIMITERS.filter(function (e) {
                                     return -1 !== t.delimiter.indexOf(e);
                                 }).length ||
                                 (m = t.delimiter);
@@ -393,7 +494,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                             var r =
                                 ('boolean' == typeof i && i) ||
                                 (Array.isArray(i) && i[t]) ||
-                                (function(e, t) {
+                                (function (e, t) {
                                     for (var r = 0; r < t.length; r++)
                                         if (-1 < e.indexOf(t[r])) return !0;
                                     return !1;
@@ -425,12 +526,13 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                     f.jQuery)
             ) {
                 var d = f.jQuery;
-                d.fn.parse = function(o) {
+                d.fn.parse = function (o) {
                     var r = o.config || {},
                         h = [];
                     return (
-                        this.each(function(e) {
-                            if (!(
+                        this.each(function (e) {
+                            if (
+                                !(
                                     'INPUT' ===
                                     d(this)
                                     .prop('tagName')
@@ -472,7 +574,9 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                             (t = n.file),
                                             (r = n.inputElem),
                                             (i = s.reason),
-                                            void(z(o.error) && o.error({ name: e }, t, r, i))
+                                            void(z(o.error) && o.error({
+                                                name: e
+                                            }, t, r, i))
                                         );
                                     if ('skip' === s.action) return void u();
                                     'object' == typeof s.config &&
@@ -480,7 +584,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 } else if ('skip' === s) return void u();
                             }
                             var a = n.instanceConfig.complete;
-                            (n.instanceConfig.complete = function(e) {
+                            (n.instanceConfig.complete = function (e) {
                                 z(a) && a(e, n.file, n.inputElem), u();
                             }),
                             k.parse(n.file, n.instanceConfig);
@@ -504,14 +608,18 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 (this._start = 0),
                 (this._nextChunk = null),
                 (this.isFirstChunk = !0),
-                (this._completeResults = { data: [], errors: [], meta: {} }),
-                function(e) {
+                (this._completeResults = {
+                    data: [],
+                    errors: [],
+                    meta: {}
+                }),
+                function (e) {
                     var t = E(e);
                     (t.chunkSize = parseInt(t.chunkSize)),
                     e.step || e.chunk || (t.chunkSize = null);
                     (this._handle = new r(t)), ((this._handle.streamer = this)._config = t);
                 }.call(this, e),
-                    (this.parseChunk = function(e, t) {
+                    (this.parseChunk = function (e, t) {
                         if (this.isFirstChunk && z(this._config.beforeFirstChunk)) {
                             var r = this._config.beforeFirstChunk(e);
                             void 0 !== r && (e = r);
@@ -530,7 +638,11 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 this._finished ||
                                 (this._config.preview && this._rowCount >= this._config.preview);
                             if (o)
-                                f.postMessage({ results: n, workerId: k.WORKER_ID, finished: a });
+                                f.postMessage({
+                                    results: n,
+                                    workerId: k.WORKER_ID,
+                                    finished: a
+                                });
                             else if (z(this._config.chunk) && !t) {
                                 if (
                                     (this._config.chunk(n, this._handle),
@@ -560,12 +672,16 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                             );
                         }
                     }),
-                    (this._sendError = function(e) {
+                    (this._sendError = function (e) {
                         z(this._config.error) ?
                             this._config.error(e) :
                             o &&
                             this._config.error &&
-                            f.postMessage({ workerId: k.WORKER_ID, error: e, finished: !1 });
+                            f.postMessage({
+                                workerId: k.WORKER_ID,
+                                error: e,
+                                finished: !1
+                            });
                     });
             }
 
@@ -574,17 +690,16 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 (e = e || {}).chunkSize || (e.chunkSize = k.RemoteChunkSize),
                     l.call(this, e),
                     (this._nextChunk = n ?
-
-                        function() {
+                        function () {
                             this._readChunk(), this._chunkLoaded();
                         } :
-                        function() {
+                        function () {
                             this._readChunk();
                         }),
-                    (this.stream = function(e) {
+                    (this.stream = function (e) {
                         (this._input = e), this._nextChunk();
                     }),
-                    (this._readChunk = function() {
+                    (this._readChunk = function () {
                         if (this._finished) this._chunkLoaded();
                         else {
                             if (
@@ -615,20 +730,20 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 (this._start += this._config.chunkSize);
                         }
                     }),
-                    (this._chunkLoaded = function() {
+                    (this._chunkLoaded = function () {
                         4 === i.readyState &&
                             (i.status < 200 || 400 <= i.status ?
                                 this._chunkError() :
                                 ((this._finished = !this._config.chunkSize ||
                                         this._start >
-                                        (function(e) {
+                                        (function (e) {
                                             var t = e.getResponseHeader('Content-Range');
                                             if (null === t) return -1;
                                             return parseInt(t.substr(t.lastIndexOf('/') + 1));
                                         })(i)),
                                     this.parseChunk(i.responseText)));
                     }),
-                    (this._chunkError = function(e) {
+                    (this._chunkError = function (e) {
                         var t = i.statusText || e;
                         this._sendError(new Error(t));
                     });
@@ -638,7 +753,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 var i, n;
                 (e = e || {}).chunkSize || (e.chunkSize = k.LocalChunkSize), l.call(this, e);
                 var s = 'undefined' != typeof FileReader;
-                (this.stream = function(e) {
+                (this.stream = function (e) {
                     (this._input = e),
                     (n = e.slice || e.webkitSlice || e.mozSlice),
                     s
@@ -648,12 +763,12 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         (i = new FileReaderSync()),
                         this._nextChunk();
                 }),
-                (this._nextChunk = function() {
+                (this._nextChunk = function () {
                     this._finished ||
                         (this._config.preview && !(this._rowCount < this._config.preview)) ||
                         this._readChunk();
                 }),
-                (this._readChunk = function() {
+                (this._readChunk = function () {
                     var e = this._input;
                     if (this._config.chunkSize) {
                         var t = Math.min(
@@ -663,14 +778,18 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         e = n.call(e, this._start, t);
                     }
                     var r = i.readAsText(e, this._config.encoding);
-                    s || this._chunkLoaded({ target: { result: r } });
+                    s || this._chunkLoaded({
+                        target: {
+                            result: r
+                        }
+                    });
                 }),
-                (this._chunkLoaded = function(e) {
+                (this._chunkLoaded = function (e) {
                     (this._start += this._config.chunkSize),
                     (this._finished = !this._config.chunkSize || this._start >= this._input.size),
                     this.parseChunk(e.target.result);
                 }),
-                (this._chunkError = function() {
+                (this._chunkError = function () {
                     this._sendError(i.error);
                 });
             }
@@ -678,10 +797,10 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
             function _(e) {
                 var r;
                 l.call(this, (e = e || {})),
-                    (this.stream = function(e) {
+                    (this.stream = function (e) {
                         return (r = e), this._nextChunk();
                     }),
-                    (this._nextChunk = function() {
+                    (this._nextChunk = function () {
                         if (!this._finished) {
                             var e = this._config.chunkSize,
                                 t = e ? r.substr(0, e) : r;
@@ -699,25 +818,25 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 var t = [],
                     r = !0,
                     i = !1;
-                (this.pause = function() {
+                (this.pause = function () {
                     l.prototype.pause.apply(this, arguments), this._input.pause();
                 }),
-                (this.resume = function() {
+                (this.resume = function () {
                     l.prototype.resume.apply(this, arguments), this._input.resume();
                 }),
-                (this.stream = function(e) {
+                (this.stream = function (e) {
                     (this._input = e),
                     this._input.on('data', this._streamData),
                         this._input.on('end', this._streamEnd),
                         this._input.on('error', this._streamError);
                 }),
-                (this._checkIsFinished = function() {
+                (this._checkIsFinished = function () {
                     i && 1 === t.length && (this._finished = !0);
                 }),
-                (this._nextChunk = function() {
+                (this._nextChunk = function () {
                     this._checkIsFinished(), t.length ? this.parseChunk(t.shift()) : (r = !0);
                 }),
-                (this._streamData = w(function(e) {
+                (this._streamData = w(function (e) {
                     try {
                         t.push('string' == typeof e ? e : e.toString(this._config.encoding)),
                             r &&
@@ -726,13 +845,13 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         this._streamError(e);
                     }
                 }, this)),
-                (this._streamError = w(function(e) {
+                (this._streamError = w(function (e) {
                     this._streamCleanUp(), this._sendError(e);
                 }, this)),
-                (this._streamEnd = w(function() {
+                (this._streamEnd = w(function () {
                     this._streamCleanUp(), (i = !0), this._streamData('');
                 }, this)),
-                (this._streamCleanUp = w(function() {
+                (this._streamCleanUp = w(function () {
                     this._input.removeListener('data', this._streamData),
                         this._input.removeListener('end', this._streamEnd),
                         this._input.removeListener('error', this._streamError);
@@ -751,10 +870,14 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                     u = !1,
                     e = !1,
                     f = [],
-                    d = { data: [], errors: [], meta: {} };
+                    d = {
+                        data: [],
+                        errors: [],
+                        meta: {}
+                    };
                 if (z(g.step)) {
                     var l = g.step;
-                    g.step = function(e) {
+                    g.step = function (e) {
                         if (((d = e), p())) c();
                         else {
                             if ((c(), 0 === d.data.length)) return;
@@ -787,7 +910,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                             m(d.data[e]) && d.data.splice(e--, 1);
                     return (
                         p() &&
-                        (function() {
+                        (function () {
                             if (!d) return;
                             for (var e = 0; p() && e < d.data.length; e++)
                                 for (var t = 0; t < d.data[e].length; t++) {
@@ -796,7 +919,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 }
                             d.data.splice(0, 1);
                         })(),
-                        (function() {
+                        (function () {
                             if (!d || (!g.header && !g.dynamicTyping && !g.transform)) return d;
                             for (var e = 0; e < d.data.length; e++) {
                                 var t,
@@ -849,7 +972,8 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         (r = e),
                         g.dynamicTypingFunction &&
                         void 0 === g.dynamicTyping[r] &&
-                        (g.dynamicTyping[r] = g.dynamicTypingFunction(r)), !0 === (g.dynamicTyping[r] || g.dynamicTyping) ?
+                        (g.dynamicTyping[r] = g.dynamicTypingFunction(r)),
+                        !0 === (g.dynamicTyping[r] || g.dynamicTyping) ?
                         'true' === t ||
                         'TRUE' === t ||
                         ('false' !== t &&
@@ -863,13 +987,18 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 }
 
                 function y(e, t, r, i) {
-                    d.errors.push({ type: e, code: t, message: r, row: i });
+                    d.errors.push({
+                        type: e,
+                        code: t,
+                        message: r,
+                        row: i
+                    });
                 }
-                (this.parse = function(e, t, r) {
+                (this.parse = function (e, t, r) {
                     var i = g.quoteChar || '"';
                     if (
                         (g.newline ||
-                            (g.newline = (function(e, t) {
+                            (g.newline = (function (e, t) {
                                 e = e.substr(0, 1048576);
                                 var r = new RegExp(M(t) + '([^]*?)' + M(t), 'gm'),
                                     i = (e = e.replace(r, '')).split('\r'),
@@ -885,7 +1014,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         z(g.delimiter) &&
                         ((g.delimiter = g.delimiter(e)), (d.meta.delimiter = g.delimiter));
                     else {
-                        var n = (function(e, t, r, i) {
+                        var n = (function (e, t, r, i) {
                             for (
                                 var n,
                                     s,
@@ -918,7 +1047,10 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                                 0 < c.data.length && (d /= c.data.length - l),
                                     (void 0 === s || s < f) && 1.99 < d && ((s = f), (n = u));
                             }
-                            return { successful: !!(g.delimiter = n), bestDelimiter: n };
+                            return {
+                                successful: !!(g.delimiter = n),
+                                bestDelimiter: n
+                            };
                         })(e, g.newline, g.skipEmptyLines, g.comments);
                         n.successful ?
                             (g.delimiter = n.bestDelimiter) :
@@ -932,22 +1064,30 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         (o = new v(s)),
                         (d = o.parse(a, t, r)),
                         c(),
-                        u ? { meta: { paused: !0 } } : d || { meta: { paused: !1 } }
+                        u ? {
+                            meta: {
+                                paused: !0
+                            }
+                        } : d || {
+                            meta: {
+                                paused: !1
+                            }
+                        }
                     );
                 }),
-                (this.paused = function() {
+                (this.paused = function () {
                     return u;
                 }),
-                (this.pause = function() {
+                (this.pause = function () {
                     (u = !0), o.abort(), (a = a.substr(o.getCharIndex()));
                 }),
-                (this.resume = function() {
+                (this.resume = function () {
                     (u = !1), t.streamer.parseChunk(a, !0);
                 }),
-                (this.aborted = function() {
+                (this.aborted = function () {
                     return e;
                 }),
-                (this.abort = function() {
+                (this.abort = function () {
                     (e = !0),
                     o.abort(),
                         (d.meta.aborted = !0),
@@ -981,7 +1121,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                     '\n' !== x && '\r' !== x && '\r\n' !== x && (x = '\n');
                 var P = 0,
                     F = !1;
-                (this.parse = function(i, t, r) {
+                (this.parse = function (i, t, r) {
                     if ('string' != typeof i) throw 'Input must be a string';
                     var n = i.length,
                         e = O.length,
@@ -1121,10 +1261,10 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         I(C()), (h = []), (u = []);
                     }
                 }),
-                (this.abort = function() {
+                (this.abort = function () {
                     F = !0;
                 }),
-                (this.getCharIndex = function() {
+                (this.getCharIndex = function () {
                     return P;
                 });
             }
@@ -1136,9 +1276,15 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                 if (t.error) r.userError(t.error, t.file);
                 else if (t.results && t.results.data) {
                     var n = {
-                        abort: function() {
+                        abort: function () {
                             (i = !0),
-                            y(t.workerId, { data: [], errors: [], meta: { aborted: !0 } });
+                            y(t.workerId, {
+                                data: [],
+                                errors: [],
+                                meta: {
+                                    aborted: !0
+                                }
+                            });
                         },
                         pause: b,
                         resume: b
@@ -1147,12 +1293,13 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                         for (
                             var s = 0; s < t.results.data.length &&
                             (r.userStep({
-                                    data: [t.results.data[s]],
-                                    errors: t.results.errors,
-                                    meta: t.results.meta
-                                },
-                                n
-                            ), !i); s++
+                                        data: [t.results.data[s]],
+                                        errors: t.results.errors,
+                                        meta: t.results.meta
+                                    },
+                                    n
+                                ),
+                                !i); s++
                         );
                         delete t.results;
                     } else z(r.userChunk) && (r.userChunk(t.results, n, t.file), delete t.results);
@@ -1177,7 +1324,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
             }
 
             function w(e, t) {
-                return function() {
+                return function () {
                     e.apply(t, arguments);
                 };
             }
@@ -1187,7 +1334,7 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
             }
             return (
                 o ?
-                (f.onmessage = function(e) {
+                (f.onmessage = function (e) {
                     var t = e.data;
                     void 0 === k.WORKER_ID && t && (k.WORKER_ID = t.workerId);
                     if ('string' == typeof t.input)
@@ -1215,9 +1362,10 @@ var papaparse_min = createCommonjsModule(function(module, exports) {
                     document.body ?
                     document.addEventListener(
                         'DOMContentLoaded',
-                        function() {
+                        function () {
                             a = !0;
-                        }, !0
+                        },
+                        !0
                     ) :
                     (a = !0)),
                 ((c.prototype = Object.create(l.prototype)).constructor = c),
@@ -1264,7 +1412,7 @@ const parseCsv = str => {
 // function readChromeOption(key) {
 //     return new Promise((resolve, reject) => {
 //         if (key != null) {
-//             chrome.storage.local.get(key, function(obj) {
+//             chrome.storage.local.get(key, function (obj) {
 //                 resolve(obj);
 //             });
 //         } else {
@@ -1274,7 +1422,7 @@ const parseCsv = str => {
 // }
 async function InitList() {
     // var chromeOptions = await readChromeOption([
-    //     'oTEXT',
+    //     'sceneFullInfo',
     //     'nTEXT',
     //     'mTEXT',
     //     'verboseMode',
@@ -1286,8 +1434,8 @@ async function InitList() {
     //     'userFont',
     //     'userFontName'
     // ]);
-    // if (chromeOptions.oTEXT)
-    //     storyText = chromeOptions.oTEXT;
+    // if (chromeOptions.sceneFullInfo)
+    //     sceneFullInfo = chromeOptions.sceneFullInfo;
     // if (chromeOptions.nTEXT)
     //     cNames = chromeOptions.nTEXT;
     // if (chromeOptions.mTEXT)
@@ -1317,6 +1465,7 @@ async function InitList() {
     }
 
 
+
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
@@ -1324,12 +1473,15 @@ async function InitList() {
 
     // Main Observers
     if (ObserverList.length < 1) {
-        ObserverList = [ObserveSceneText(), ObserverArchive(), ObserverPop(), ObserverEventChapterList()];
+        ObserverList = [
+            ObserveSceneText(),
+            ObserverArchive(),
+            ObserverPop(),
+            ObserverStorySelectTexts()
+        ];
         if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
         if (doBattleTrans) ObserverList.push(ObserverBattle());
     }
-
-
 }
 
 // Observe the textbox
@@ -1337,12 +1489,14 @@ function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
     PrintLog(`traslate taken: ${String(stext)}`);
-    jsonFile.some(function(item) {
+    jsonFile.some(function (item) {
         if (item.kr) {
-            if (String(stext) == String(item.orig)) {
-                PrintLog(`GET:${String(item.kr)}`);
-                transText = String(item.kr);
-                return true;
+            if (stext.length == item.orig.length) {
+                if (String(stext) == String(item.orig)) {
+                    PrintLog(`GET:${String(item.kr)}`);
+                    transText = String(item.kr);
+                    return true;
+                }
             }
         }
     });
@@ -1359,38 +1513,46 @@ function translate_StoryText(stext, jsonFile) {
     var node = document.getElementsByClassName('prt-log-display')[0].children;
     //check if Log Exists.
     if (typeof node == 'undefined') return '';
-    //var sceneCodeCurrent = document.querySelectorAll("[class^='prt-scene-comment']")[0].style.cssText.split(',')[1].trim();
-    var sceneCodeCurrent = SceneCodeFromURL(document.URL);
 
     // Translation part for story text
     var transText = '';
 
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
-    jsonFile.some(function(item) {
-        if (item.kr == '\t' || item.kr == ' ') {
+    jsonFile.some(function (item) {
+        if (item.Korean == '\t' || item.Korean == ' ') {
             return false;
         }
 
-        if (item.kr) {
-            var codes = item.sceneCode.split('"').join('').split(',');
-            if ((sceneCodeCurrent == codes[0] || sceneCodeCurrent == codes[2]) &&
-                storyText_sceneIndex == codes[1]) {
-                if (item.index == node.length - 1) {
-                    transText = item.kr;
-                    PrintLog(item);
-                    PrintLog(`node.length - 1 : ${node.length - 1}`);
-                    PrintLog(`item.index : ${item.index}`);
-                    if ((userName) &&
-                        transText.includes(generalConfig.deafultTransName)) {
-                        transText = transText.replace(generalConfig.deafultTransName, userName);
-                    }
+        if (item.Korean) {
+            var curSceneCode = SceneCodeFromURL();
+            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
+            var codes = item.SceneCode
+                .split('"')
+                .join('')
+                .split(',');
+            codes.some(function (code) {
+                if (code == curSceneCode) {
+                    if (curLanugage == item.Language) {
+                        stext = stext.split('\n').join('');
+                        stext = stext.split('"').join("'");
+                        /*
+                        stext = stext.replace(/\s+/g, " "); 이렇게하니까 &nbsp;에서 & 빼고 다 사라짐.
+                        원래 &까지 다 사라지고 " "으로 대체되야하는데 왜이렇지? 모르겠다.
+                        */
+                        stext = stext.replace(/&nbsp;/g, ' ');
+                        item.Origin = item.Origin.replace(/\s+/g, " ");
 
-                    return true;
+                        if (stext == item.Origin) {
+                            transText = item.Korean;
+                            return true;
+                        }
+                    }
                 }
-            }
+            });
         }
     });
+
     if (transText.length > 0) {
         PrintLog(`Send:${transText}`);
         return transText;
@@ -1404,7 +1566,7 @@ function GetTranslatedImageURL(stext, jsonFile) {
     if (stext.includes(generalConfig.origin)) return '';
     var transImg = '';
     PrintLog(`Input IMG SRC: ${stext}`);
-    jsonFile.some(function(item) {
+    jsonFile.some(function (item) {
         if (item.orig) {
             if (String(stext).includes(String(item.orig)) && String(stext).includes('assets')) {
                 PrintLog(`GET URL:${String(item.kr)}`);
@@ -1426,7 +1588,7 @@ function GetTranslatedImageStyle(stext, jsonFile) {
     PrintLog(`GetTranslatedImageStyle: ${stext}`);
     if (stext.includes(generalConfig.origin)) return '';
     var transImg = '';
-    jsonFile.some(function(item) {
+    jsonFile.some(function (item) {
         if (item.orig) {
             if (String(stext).includes(String(item.orig)) && String(stext).includes('assets')) {
                 PrintLog(`GET URL:${String(item.kr)}`);
@@ -1548,7 +1710,13 @@ function GetTranslatedStoryText(node, csv) {
         PrintLog(`GetTranslatedStoryText - traslated text: ${translatedText}`);
         if (translatedText.length > 0) {
             node.innerHTML = translatedText;
+            if (node.className.includes('prt-pop-synopsis')) return;
+
             if (typeof textContents != 'undefined') {
+                if (node.className.includes('txt-sel')) {
+                    textContents.innerHTML = translate_StoryText(textContents.innerHTML, csv);
+                    return;
+                }
                 if (textContents.innerHTML == '') translatedText = '';
                 textContents.innerHTML = translatedText;
             }
@@ -1595,9 +1763,18 @@ function GetTranslatedImageDIV(node, csv) {
         var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
-        if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
-            imageStyle = window.getComputedStyle(node, ':after').backgroundImage;
-        }
+        var imageStyleCompute = window.getComputedStyle(node).backgroundImage;
+        var imageStyleComputeAfter = window.getComputedStyle(node, ':after').backgroundImage;
+        var UseCompute = (imageStyleCompute.includes('.png') || imageStyleCompute.includes('.jpg')) ?
+            true :
+            false;
+        var UseComputeAfter = (imageStyleComputeAfter.includes('.png') || imageStyleComputeAfter.includes('.jpg')) ?
+            true :
+            false;
+        if (UseCompute)
+            imageStyle = imageStyleCompute;
+        if (UseComputeAfter)
+            imageStyle = imageStyleComputeAfter;
         var translatedText = '';
         if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
@@ -1623,7 +1800,9 @@ function GetTranslatedImageDIV(node, csv) {
             node.className.includes('btn-switch-') ||
             node.className.includes('btn-image-check') ||
             node.className.includes('btn-reset-') ||
-            node.className.includes('btn-link')
+            node.className.includes('btn-link') ||
+            UseCompute ||
+            UseComputeAfter
         )
             passOrNot = true;
         if (!passOrNot) return;
@@ -1632,7 +1811,7 @@ function GetTranslatedImageDIV(node, csv) {
             translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
-            if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
+            if (UseComputeAfter) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
@@ -1645,65 +1824,37 @@ function GetTranslatedImageDIV(node, csv) {
             PrintLog(`Take DIV:${translatedText} Class: ${node.className}`);
         }
     }
+
 }
 
 function SceneCodeFromURL(url) {
     var scenecode = '';
 
-    if (document.URL.includes('scene_evt')) {
-        scenecode = document.URL.slice(document.URL.indexOf('scene_evt')).split('/')[0];
-        scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-    } else if (document.URL.includes('play_view_event')) {
-        if (evtSceneCodeObj.length == 0) {
-            if (scenecode == '') {
-                scenecode = 'NO VALUE';
-
-                var node = document.getElementsByClassName('btn-play-log-voice')[0];
-                if (typeof node != 'undefined') {
-                    scenecode = node.attributes[1].value.split('/')[1];
-                    if (scenecode.includes('evt_')) { //seasonal 이벤트일 경우, url형식은 evt_로 시작.
-                        scenecode = scenecode.slice(0, scenecode.indexOf(scenecode.match(/(_s[0-9]+)/g)));
-                    } else {
-                        scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-                    }
-
-                    storyText.some(function(item) {
-                        if (item.sceneCode.replace('"', '').split(',')[0] == 'NO VALUE')
-                            item.sceneCode = '"' + scenecode + ',' + storyText_sceneIndex + '"';
-                    });
-                }
-            }
-        } else {
-            var id = document.URL.slice(document.URL.indexOf('play_view_event')).split('/')[2];
-            evtSceneCodeObj.some(function(item) {
-                if (item.id == id) {
-                    scenecode = item.sceneCode;
-                    return true;
-                }
-            });
+    if ((document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) &&
+        !document.URL.includes('scene_')) {
+        if (document.URL.includes('play_view/')) {
+            scenecode = document.URL.slice(document.URL.indexOf('play_view/'));
+        } else if (document.URL.includes('play_view_event/')) {
+            scenecode = document.URL.slice(document.URL.indexOf('play_view_event/'));
         }
 
-    } else if (document.URL.includes('play_view')) {
-        scenecode = document.URL.slice(document.URL.indexOf('play_view')).split('/');
-        var cp = scenecode[2];
-        var ep = scenecode[4];
-
-        scenecode = 'scene_cp' + cp + '_q' + ep;
-    } else if (document.URL.includes('scene_cp')) {
-        scenecode = document.URL.slice(document.URL.indexOf('scene_cp')).split('/')[0];
-        scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
-    } else if (document.URL.includes('scene_')) {
-        scenecode = document.URL.slice(document.URL.indexOf('scene_')).split('/')[0];
-        scenecode = scenecode.slice(0, scenecode.indexOf('_s'));
+        scenecode = scenecode.split('/');
+        scenecode = scenecode[2] + scenecode[4];
+        var sceneNowNum = document.getElementsByClassName('now')[0].className;
+        sceneNowNum = sceneNowNum[sceneNowNum.length - 1];
+        scenecode = scenecode + sceneNowNum;
+    }
+    if (document.URL.includes('scene_')) {
+        scenecode = document.URL.slice(document.URL.indexOf('scene_'));
+        scenecode = scenecode.split('/')[0];
     }
 
     return scenecode;
 }
 
 // Observers
-var sceneObserver = new MutationObserver(function(mutations) {
-    mutations.some(function(mutation) {
-        // PrintLog(mutation);
+var sceneObserver = new MutationObserver(function (mutations) {
+    mutations.some(function (mutation) {
         if (!mutation.target.className) return;
 
         if (mutation.target.className.includes('prt-log-display')) {
@@ -1715,48 +1866,21 @@ var sceneObserver = new MutationObserver(function(mutations) {
             var textmessage = mutation.target.children[0].children[1].innerHTML
                 .replace(/(\r\n|\n|\r)/gm, '')
                 .trim();
-            var LogLength = mutation.target.children.length;
             var nameNode = document.getElementsByClassName('txt-character-name')[0];
 
             // Remove User's Name
-            if ((userName == "") &&
-                (document.getElementsByClassName('cnt-quest-scene')[0])) {
-                userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
+            if (userName == '' && document.getElementsByClassName('cnt-quest-scene')[0]) {
+                userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3]
+                    .value;
             }
-            if (userName != "") {
+            if (userName != '') {
                 textName = textName.replace(userName, generalConfig.deafultName);
                 textmessage = textmessage.replace(userName, generalConfig.deafultName);
             }
 
-            /*
-            	스토리를 처음 시작하면 prt-log-display 자식 갯수가 1 이여야하고, storyText 변수의 length는 0이여야한다.
-            	그러나, prt-log-display의 자식 갯수가 1인데 storyText 변수에 2개 이상의 내용이 들어가있다면 
-            	다음 scene 페이지로 넘어가서 나타난 현상이므로 다음 scene을 진행하고있다고 판단하고 storyText_sceneIndex 를 1 증가.
-            	현재 에피소드에 대하여 다음 scene 페이지로 넘어갔다는 것을 판단할땐 현재 URL에 대해 갱신한 sceneCode와 저번 URL에서의 scenecode를 비교.
-            */
-            var newSceneCode = SceneCodeFromURL(document.URL);
-
-            if (LogLength === 1) {
-                if (storyText_index > 1) {
-                    if (newSceneCode === oldSceneCode) {
-                        storyText_index = 0;
-                        storyText_sceneIndex++;
-                    } else {
-                        storyText_index = 0;
-                        storyText_sceneIndex = 1;
-                    }
-
-                }
-            }
 
             if (exMode) {
-                if (storyText_index < LogLength) {
-                    PrintLog(`storyText_index:${storyText_index}`);
-                    PushCSV_StoryText(textmessage, storyText, newSceneCode);
-                    PushCSV(textName, cNames);
-
-                    oldSceneCode = newSceneCode;
-                }
+                PushCSV(textName, cNames);
             }
             if (transMode) {
                 sceneObserver.disconnect();
@@ -1777,88 +1901,18 @@ var sceneObserver = new MutationObserver(function(mutations) {
     });
 });
 
-var chapterListObserver = new MutationObserver(function(mutations) {
-    mutations.some(function(mutation) {
-        var node = mutation.target.parentElement;
-        if (!node.className) return true;
-
-        if (node.className.includes('prt-chapter-list')) {
-            if (typeof node.children[0] == 'undefined') return true;
-            evtSceneCodeObj = [];
-            var cp = 0;
-            var q = 1;
-            var baseSceneCode = '';
-
-            var evtChapterList = Array.from(node.children);
-
-            evtChapterList.some(function(item) {
-                if (item.attributes[2].value.includes('evt')) {
-                    var tmpNode = item.attributes[2].value.slice(0, item.attributes[2].value.indexOf('_q'));
-                    var tmpCp = tmpNode.split('_')[2].match(/\d/g) - item.attributes[1].value;
-
-                    if (item.attributes[1].value == 0) {
-                        baseSceneCode = tmpNode.slice(0, tmpNode.indexOf('_cp'));
-                        cp = item.attributes[1].value;
-                    } else if (tmpCp == 0) {
-                        baseSceneCode = tmpNode.slice(0, tmpNode.indexOf('_cp'));
-                    } else {
-                        baseSceneCode = '';
-                    }
-                    return true;
-                }
-            });
-
-            if (baseSceneCode == '') {
-                return true;
-            }
-
-
-            evtChapterList.some(function(item) {
-                var tempJson = new Object();
-                tempJson.id = item.attributes[2].value;
-
-                if (tempJson.id.includes('evt')) {
-                    tempJson.sceneCode = tempJson.id.slice(0, tempJson.id.indexOf('_s'));
-                } else {
-                    var titleName = item.getElementsByClassName('txt-chapter-title')[0].innerHTML;
-                    if (titleName.includes('Ending')) {
-                        q++;
-                        tempJson.sceneCode = baseSceneCode + '_cp0_q' + q;
-                    } else {
-                        var cpNum = titleName.match(/\d/g);
-                        if (cpNum == null) {
-                            cp++;
-                            tempJson.sceneCode = baseSceneCode + '_cp' + cp;
-                        } else if (cpNum.length >= 2) {
-                            //챕터 숫자가 소수점이면 cp는 증가하지않고 q만 증가한다.
-                            q++;
-                            tempJson.sceneCode = baseSceneCode + '_cp0_q' + q;
-                        } else {
-                            cp++;
-                            tempJson.sceneCode = baseSceneCode + '_cp' + cp;
-                        }
-                    }
-
-                }
-
-                evtSceneCodeObj.push(tempJson);
-            });
-        }
-    });
-    ObserverEventChapterList();
-});
-
-var archiveObserver = new MutationObserver(function(mutations) {
+var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if (!mutation.target.className.includes('txt-message') &&
+        if (
+            !mutation.target.className.includes('txt-message') &&
             !mutation.target.className.includes('txt-character-name')
         )
             walkDownTree(mutation.target, GetTranslatedText, archiveJson);
     });
     ObserverArchive();
 });
-var ImageObserver = new MutationObserver(function(mutations) {
+var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserver.disconnect();
     mutations.forEach(mutation => {
@@ -1866,7 +1920,7 @@ var ImageObserver = new MutationObserver(function(mutations) {
     });
     ObserverImage();
 });
-var ImageObserverDIV = new MutationObserver(function(mutations) {
+var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
@@ -1874,10 +1928,18 @@ var ImageObserverDIV = new MutationObserver(function(mutations) {
     });
     ObserverImageDIV();
 });
-var PopObserver = new MutationObserver(function(mutations) {
+var PopObserver = new MutationObserver(function (mutations) {
     PopObserver.disconnect();
     mutations.forEach(mutation => {
+        if (mutation.target.className.includes('pop-synopsis pop-show')) {
+            GetTranslatedStoryText(
+                document.getElementsByClassName('prt-pop-synopsis')[0],
+                questJson
+            );
+        }
+
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+
         if (doImageSwap) {
             walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
             walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
@@ -1885,12 +1947,21 @@ var PopObserver = new MutationObserver(function(mutations) {
     });
     ObserverPop();
 });
-var BattleObserver = new MutationObserver(function(mutations) {
+var BattleObserver = new MutationObserver(function (mutations) {
     BattleObserver.disconnect();
     mutations.forEach(mutation => {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
-        // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
+        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+    });
+    ObserverBattle();
+});
+var BattleImageObserver = new MutationObserver(function (mutations) {
+    BattleImageObserver.disconnect();
+    mutations.forEach(mutation => {
+        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
+        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
@@ -1914,19 +1985,6 @@ async function ObserveSceneText() {
     }
 }
 
-async function ObserverEventChapterList() {
-    var oText = document.getElementsByClassName('prt-chapter-list')[0];
-    if (!oText) {
-        //The node we need does not exist yet.
-        //Wait 500ms and try again
-        window.setTimeout(ObserverEventChapterList, generalConfig.refreshRate);
-        return;
-    }
-    if (document.URL.includes('#archive/story/event')) {
-        chapterListObserver.observe(oText, config);
-    }
-}
-
 async function ObserverArchive() {
     // var oText = document.getElementById('loading');
     var oText = document.getElementById('wrapper');
@@ -1936,11 +1994,55 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('#raid')) {
+    if (document.URL.includes('raid')) {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
+    if (
+        document.URL.includes('archive') ||
+        document.URL.includes('scene') ||
+        document.URL.includes('story') ||
+        document.URL.includes('tutorial')
+    ) {
+        ObserverPop();
+        archiveObserver.observe(oText, config);
+        ObserveSceneText();
+        ObserverStorySelectTexts();
+    }
     archiveObserver.observe(oText, config);
+}
+
+var storySelectTextsObserver = new MutationObserver(function (mutations) {
+    mutations.some(function (mutation) {
+        if (!mutation.target.className) return;
+        if (mutation.target.className.includes('prt-sel-inner')) {
+            var node = mutation.target;
+
+            for (var i = 0; i < node.children.length; ++i) {
+                GetTranslatedStoryText(node.children[i], questJson);
+            }
+        }
+    });
+    ObserverStorySelectTexts();
+});
+
+async function ObserverStorySelectTexts() {
+    var oText = document.getElementsByClassName('prt-sel-inner')[0];
+    if (!oText) {
+        //The node we need does not exist yet.
+        //Wait 500ms and try again
+        window.setTimeout(ObserverStorySelectTexts, generalConfig.refreshRate);
+        return;
+    }
+
+    if (
+        document.URL.includes('archive') ||
+        document.URL.includes('scene') ||
+        document.URL.includes('story') ||
+        document.URL.includes('tutorial')
+    ) {
+        storySelectTextsObserver.observe(oText, config);
+    }
 }
 async function ObserverPop() {
     // var oText = document.querySelector(".prt-scroll-title");
@@ -1965,6 +2067,7 @@ async function ObserverPop() {
             PopObserver.observe(pop, config_simple);
         });
     }
+
 }
 async function ObserverBattle() {
     // var oText = document.querySelector(".prt-scroll-title");
@@ -2001,6 +2104,18 @@ async function ObserverBattle() {
             battleInfo4.forEach(bInfo => {
                 BattleObserver.observe(bInfo, config_simple);
             });
+        }
+        var battleInfo_btn = document.querySelectorAll('[class^="prt-sub-command"]');
+        if (battleInfo_btn) {
+            walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
+        }
+        var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
+        if (battleInfo_subbtn) {
+            walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
+        }
+        var battleInfo_contrib = document.querySelectorAll('[class^="prt-contribution"]');
+        if (battleInfo_contrib) {
+            walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
         }
         var popDIV = document.getElementById('pop');
         if (popDIV) {
@@ -2039,10 +2154,10 @@ async function ObserverImageDIV() {
     }
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
+
 }
 
-const main = async() => {
-
+const main = async () => {
     await InitList();
     PrintLog(`ORIGIN: ${generalConfig.origin}`);
     try {
