@@ -1419,7 +1419,7 @@ const parseCsv = str => {
 //             reject(null);
 //         }
 //     });
-}
+// }
 async function InitList() {
     // var chromeOptions = await readChromeOption([
     //     'sceneFullInfo',
