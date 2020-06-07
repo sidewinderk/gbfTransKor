@@ -39,6 +39,12 @@ arcarum/top/dungeon/pop/pop_dungeon_8,arcarum/top/dungeon/pop/pop_dungeon_8.png
 arcarum/top/dungeon/pop/pop_dungeon_9,arcarum/top/dungeon/pop/pop_dungeon_9.png
 
 
+!사상강림
+event/common/advent/parts-s8cccc2bb67,event/common/advent/parts-s8cccc2bb67.png
+event/common/advent/event_top,event/common/advent/event_top.png
+banner/events/advent/banner_event_start_1,banner/events/advent/banner_event_start_1.png
+
+
 
 !신데렐라 판타지
 banner/events/biography027/banner_event_start_1,banner/events/biography027/banner_event_start_1.png
