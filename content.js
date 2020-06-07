@@ -186,6 +186,38 @@ function walkDownTreeStyle(node, command, variable = null) {
     }
 }
 
+function walkDownObserver(node, obs, variable = null) {
+    if ((node.className) &&
+        (!node.length)) {
+        obs.observe(node, variable);
+    }
+    if (!node.className) {
+        // in case of list of nodes
+        if (node.id) {
+            if (node.length) {
+                if (node.length > 0) {
+                    for (var i = 0; i < node.length; i++)
+                        walkDownObserver(node[i], obs, variable);
+                }
+            }
+            if (node.hasChildNodes()) {
+                for (var i = 0; i < node.childElementCount; i++)
+                    walkDownObserver(node.children[i], obs, variable);
+            }
+        }
+        if (node.length) {
+            if (node.length > 0) {
+                for (var i = 0; i < node.length; i++) walkDownObserver(node[i], obs, variable);
+            }
+        }
+    } else {
+        if (node.hasChildNodes()) {
+            for (var i = 0; i < node.childElementCount; i++)
+                walkDownObserver(node.children[i], obs, variable);
+        }
+    }
+}
+
 function PushCSV(text, array) {
     if (kCheck.test(text)) return;
     if (!array.includes(text)) {
@@ -226,7 +258,7 @@ function PushCSV_StoryText(request) {
     if (document.URL.includes('play_view')) {
         var anotherSceneCode = SceneCodeFromURL();
         if (anotherSceneCode != '')
-    		sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';	
+            sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
     }
 
     var sceneText = request.scenes[1];
@@ -1459,10 +1491,12 @@ function translate(stext, jsonFile) {
     PrintLog(`traslate taken: ${String(stext)}`);
     jsonFile.some(function (item) {
         if (item.kr) {
-            if (String(stext) == String(item.orig)) {
-                PrintLog(`GET:${String(item.kr)}`);
-                transText = String(item.kr);
-                return true;
+            if (stext.length == item.orig.length) {
+                if (String(stext) == String(item.orig)) {
+                    PrintLog(`GET:${String(item.kr)}`);
+                    transText = String(item.kr);
+                    return true;
+                }
             }
         }
     });
@@ -1729,9 +1763,18 @@ function GetTranslatedImageDIV(node, csv) {
         var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
-        if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
-            imageStyle = window.getComputedStyle(node, ':after').backgroundImage;
-        }
+        var imageStyleCompute = window.getComputedStyle(node).backgroundImage;
+        var imageStyleComputeAfter = window.getComputedStyle(node, ':after').backgroundImage;
+        var UseCompute = (imageStyleCompute.includes('.png') || imageStyleCompute.includes('.jpg')) ?
+            true :
+            false;
+        var UseComputeAfter = (imageStyleComputeAfter.includes('.png') || imageStyleComputeAfter.includes('.jpg')) ?
+            true :
+            false;
+        if (UseCompute)
+            imageStyle = imageStyleCompute;
+        if (UseComputeAfter)
+            imageStyle = imageStyleComputeAfter;
         var translatedText = '';
         if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
@@ -1757,7 +1800,9 @@ function GetTranslatedImageDIV(node, csv) {
             node.className.includes('btn-switch-') ||
             node.className.includes('btn-image-check') ||
             node.className.includes('btn-reset-') ||
-            node.className.includes('btn-link')
+            node.className.includes('btn-link') ||
+            UseCompute ||
+            UseComputeAfter
         )
             passOrNot = true;
         if (!passOrNot) return;
@@ -1766,7 +1811,7 @@ function GetTranslatedImageDIV(node, csv) {
             translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
-            if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
+            if (UseComputeAfter) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
@@ -1907,7 +1952,16 @@ var BattleObserver = new MutationObserver(function (mutations) {
     mutations.forEach(mutation => {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
-        // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
+        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+    });
+    ObserverBattle();
+});
+var BattleImageObserver = new MutationObserver(function (mutations) {
+    BattleImageObserver.disconnect();
+    mutations.forEach(mutation => {
+        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
+        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
@@ -2050,6 +2104,18 @@ async function ObserverBattle() {
             battleInfo4.forEach(bInfo => {
                 BattleObserver.observe(bInfo, config_simple);
             });
+        }
+        var battleInfo_btn = document.querySelectorAll('[class^="prt-sub-command"]');
+        if (battleInfo_btn) {
+            walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
+        }
+        var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
+        if (battleInfo_subbtn) {
+            walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
+        }
+        var battleInfo_contrib = document.querySelectorAll('[class^="prt-contribution"]');
+        if (battleInfo_contrib) {
+            walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
         }
         var popDIV = document.getElementById('pop');
         if (popDIV) {
