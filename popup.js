@@ -102,6 +102,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 data: 'refresh',
                 text: ''
             });
+            ScenesOut.value = "";
+            nameout.value = "";
+            othersout.value = "";
         });
     };
 
