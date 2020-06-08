@@ -310,6 +310,11 @@ function PushCSV(text, array) {
 // }
 
 // Imported modules
+/* @license
+   biuuu/ShinyColors
+   https://github.com/biuuu/ShinyColors
+   License: MIT
+*/
 var commonjsGlobal =
     typeof globalThis !== 'undefined' ?
     globalThis :
@@ -1377,6 +1382,11 @@ var papaparse_min = createCommonjsModule(function (module, exports) {
         });
 });
 const request = async pathname => {
+    /* @license
+       biuuu/ShinyColors
+       https://github.com/biuuu/ShinyColors
+       License: MIT
+    */
     return new Promise((rev, rej) => {
         let timer = setTimeout(() => {
             rej(`불러오기${pathname}시간초과`);
@@ -1397,6 +1407,11 @@ const request = async pathname => {
     });
 };
 const parseCsv = str => {
+    /* @license
+       biuuu/ShinyColors
+       https://github.com/biuuu/ShinyColors
+       License: MIT
+    */
     try {
         return papaparse_min.parse(str.replace(/^\ufeff/, ''), {
             header: true,
@@ -2158,6 +2173,11 @@ async function ObserverImageDIV() {
 }
 
 const main = async () => {
+    /* @license
+       biuuu/ShinyColors
+       https://github.com/biuuu/ShinyColors
+       License: MIT
+    */
     await InitList();
     PrintLog(`ORIGIN: ${generalConfig.origin}`);
     try {
