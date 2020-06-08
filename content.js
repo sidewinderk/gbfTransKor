@@ -3,11 +3,14 @@ var generalConfig = {
     origin: 'chrome-extension://' + chrome.runtime.id,
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
     // local DB: 'chrome-extension://ID'
-    deafultName: "[グラン]", // Default original user name
-    deafultTransName: "[그랑]", // Default translated user name
-    defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquare.woff') format('woff');",
+    defaultNameMale_jp: "[グラン]", // Default original user name
+    defaultNameFemale_jp: "[ジータ]",
+    defaultNameMale_en: "[Gran]",
+    defaultNameFemale_en: "[Djeeta]",
+    defaultTransNameMale: "[그랑]", // Default translated user name
+    defaultTransNameFemale: "[지타]",
+    defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff');",
     defaultFontName: "NanumSquare"
-
 };
 var isVerboseMode = false;
 var doImageSwap = false;
@@ -192,7 +195,7 @@ function walkDownObserver(node, obs, variable = null) {
         obs.observe(node, variable);
     }
     if (!node.className) {
-        // in case of list of nodes
+        // in case of list of nodes	
         if (node.id) {
             if (node.length) {
                 if (node.length > 0) {
@@ -239,7 +242,7 @@ function PushCSV_StoryText(request) {
 
     var skip = false;
     var sceneCode = request.scenes[0];
-    var sceneLanguage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
+    var sceneLanguage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
 
     sceneFullInfo.some(function (scene) {
         var sceneCodeReserved = scene.SceneCode
@@ -261,6 +264,7 @@ function PushCSV_StoryText(request) {
             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
     }
 
+
     var sceneText = request.scenes[1];
 
     sceneText.forEach(function (item) {
@@ -270,9 +274,12 @@ function PushCSV_StoryText(request) {
             sceneJson.SceneCode = sceneCode;
             sceneJson.Type = 'synopsis';
             sceneJson.Name = '';
-            item.synopsis = item.synopsis.split('\n').join('');
+
+            item.synopsis = item.synopsis.replace(/(\r\n|\n|\r)/gm, '').trim();
             item.synopsis = item.synopsis.split('"').join("'");
-            item.synopsis = item.synopsis.split('&nbsp;').join(' ');
+            item.synopsis = item.synopsis.replace(/&nbsp;/g, ' ');
+            item.synopsis = item.synopsis.replace(/\s+/g, " ");
+
             sceneJson.Origin = '"' + item.synopsis + '"';
             sceneFullInfo.push(sceneJson);
         }
@@ -281,10 +288,15 @@ function PushCSV_StoryText(request) {
             sceneJson.Language = sceneLanguage;
             sceneJson.SceneCode = sceneCode;
             sceneJson.Type = 'detail';
-            sceneJson.Name = item.charcter1_name != 'null' ? item.charcter1_name : '';
-            item.detail = item.detail.split('\n').join('');
+            //item.charcter1_name 에는 플레이어 이름이 아니고, 화자의 이름이 들어있었음. 예를들어 루리아, 라캄, 카타리나...
+            //그러므로, userName 을 후처리 해주기 위한 작업은 이 함수 바깥에서 처리하기.
+            sceneJson.Name = (item.charcter1_name != 'null' && item.charcter1_name != null) ? item.charcter1_name : '';
+
+            item.detail = item.detail.replace(/(\r\n|\n|\r)/gm, '').trim();
             item.detail = item.detail.split('"').join("'");
-            item.detail = item.detail.split('&nbsp;').join(' ');
+            item.detail = item.detail.replace(/&nbsp;/g, ' ');
+            item.detail = item.detail.replace(/\s+/g, " ");
+
             sceneJson.Origin = '"' + item.detail + '"';
             sceneFullInfo.push(sceneJson);
         }
@@ -297,15 +309,58 @@ function PushCSV_StoryText(request) {
                     sceneJson.SceneCode = sceneCode;
                     sceneJson.Type = key;
                     sceneJson.Name = '';
+
+                    item[key] = item[key].replace(/(\r\n|\n|\r)/gm, '').trim();
+                    item[key] = item[key].split('"').join("'");
+                    item[key] = item[key].replace(/&nbsp;/g, ' ');
+                    item[key] = item[key].replace(/\s+/g, " ");
+
                     sceneJson.Origin = item[key];
                     sceneFullInfo.push(sceneJson);
                 }
             }
         }
+
+        if (item.charcter1_name != 'null' && item.charcter1_name != '') {
+            PushCSV(item.charcter1_name, cNames);
+        }
     });
+
+    //텍스트 안에 플레이어 이름이 포함된 경우, 전부 generalConfig.defaultNameMale_jp 으로 replace.
+    replaceUserName();
 
     chrome.storage.local.set({
         sceneFullInfo: sceneFullInfo
+    });
+}
+
+function replaceUserName() {
+    var node = document.getElementsByClassName('cnt-quest-scene')[0];
+
+    if (!node) {
+        window.setTimeout(replaceUserName, generalConfig.refreshRate);
+    }
+
+    var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+    var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+
+    if (userName == '')
+        userName = node.attributes[3].value;
+
+    sceneFullInfo.some(function (scene) {
+        if (scene.Origin != '') {
+            if (sex == 0) {
+                if (language == 'Japanese')
+                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameMale_jp);
+                else if (language == 'English')
+                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameMale_en);
+            } else if (sex == 1) {
+                if (language == 'Japanese')
+                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameFemale_jp);
+                else if (language == 'English')
+                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameFemale_en);
+            }
+        }
     });
 }
 
@@ -1517,6 +1572,8 @@ function translate_StoryText(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
 
+    var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
     jsonFile.some(function (item) {
@@ -1526,26 +1583,35 @@ function translate_StoryText(stext, jsonFile) {
 
         if (item.Korean) {
             var curSceneCode = SceneCodeFromURL();
-            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
-            var codes = item.SceneCode
-                .split('"')
-                .join('')
-                .split(',');
+            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+            var codes = item.SceneCode.split('"').join('').split(',');
             codes.some(function (code) {
                 if (code == curSceneCode) {
                     if (curLanugage == item.Language) {
-                        stext = stext.split('\n').join('');
+                        stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
                         stext = stext.split('"').join("'");
-                        /*
-                        stext = stext.replace(/\s+/g, " "); 이렇게하니까 &nbsp;에서 & 빼고 다 사라짐.
-                        원래 &까지 다 사라지고 " "으로 대체되야하는데 왜이렇지? 모르겠다.
-                        */
                         stext = stext.replace(/&nbsp;/g, ' ');
-                        item.Origin = item.Origin.replace(/\s+/g, " ");
+                        stext = stext.replace(/\s+/g, " ");
 
-                        if (stext == item.Origin) {
-                            transText = item.Korean;
-                            return true;
+                        if (sex == 0) {
+                            if (stext.includes(userName))
+                                if (curLanugage == 'Japanese')
+                                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+                                else if (curLanugage == 'English')
+                                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                        } else if (sex == 1) {
+                            if (stext.includes(userName))
+                                if (curLanugage == 'Japanese')
+                                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+                                else if (curLanugage == 'English')
+                                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                        }
+
+                        if (stext.length == item.Origin.length) {
+                            if (stext == item.Origin) {
+                                transText = item.Korean;
+                                return true;
+                            }
                         }
                     }
                 }
@@ -1645,6 +1711,12 @@ function GetTranslatedText(node, csv) {
         )
             passOrNot = true;
         if (passOrNot) {
+            var sexNode = document.getElementsByClassName('cnt-quest-scene')[0];
+            var sex = 0;
+            if (sexNode)
+                sex = sexNode.attributes[2].value;
+            var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+
             // If the text contains any number, save the number and replace it to "*"
             var number = textInput.replace(/[^0-9]/g, '');
             if (number.length > 0) {
@@ -1652,23 +1724,39 @@ function GetTranslatedText(node, csv) {
             }
             // Remove User's Name
             //  - Not working now (NEED TO FIX)
-            if ((userName == "") &&
-                (document.getElementsByClassName('cnt-quest-scene')[0])) {
+            if ((userName == "") && (document.getElementsByClassName('cnt-quest-scene')[0])) {
                 userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
             }
             if (userName != "") {
                 if (textInput.includes(userName)) {
-                    textInput = textInput.replace(userName, generalConfig.deafultName);
+                    if (sex == 0) {
+                        if (language == 'Japanese')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameMale_jp);
+                        else if (language == 'English')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameMale_en);
+
+                    } else if (sex == 1) {
+                        if (language == 'Japanese')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_jp);
+                        else if (language == 'English')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_en);
+                    }
                     PrintLog(`UserName Converted! - ${textInput}`);
                 }
             }
-            if (exMode) PushCSV(textInput, miscs);
+            if (exMode)
+                PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             if (transMode)
                 translatedText = translate(textInput, csv);
-            if ((userName) &&
-                translatedText.includes(generalConfig.deafultTransName)) {
-                translatedText = translatedText.replace(generalConfig.deafultTransName, userName);
+            if (userName) {
+                if (sex == 0) {
+                    if (translatedText.includes(generalConfig.defaultTransNameMale))
+                        translatedText = translatedText.split(generalConfig.defaultTransNameMale).join(userName);
+                } else if (sex == 1) {
+                    if (translatedText.includes(generalConfig.defaultTransNameFemale))
+                        translatedText = translatedText.split(generalConfig.defaultTransNameFemale).join(userName);
+                }
             }
 
             PrintLog('traslated text: ' + translatedText);
@@ -1677,10 +1765,7 @@ function GetTranslatedText(node, csv) {
                 if (number.length > 0) {
                     // If it contains number("*"), recover it from the saved number
                     for (var i = 0; i < number.length; i++) {
-                        translatedText =
-                            translatedText.slice(0, translatedText.indexOf('*')) +
-                            number[i] +
-                            translatedText.slice(translatedText.indexOf('*') + 1);
+                        translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
                     }
                 }
                 PrintLog(`Take:${translatedText}`);
@@ -1705,8 +1790,21 @@ function GetTranslatedStoryText(node, csv) {
     if (node) {
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
         var textContents = document.getElementsByClassName('txt-message')[0];
+        var translatedText = '';
+        var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+        var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
         translatedText = translate_StoryText(textInput, csv);
+        if (translatedText.length > 0) {
+            if (sex == 0) {
+                if (translatedText.includes(generalConfig.defaultTransNameMale))
+                    translatedText = translatedText.split(generalConfig.defaultTransNameMale).join(userName);
+            } else if (sex == 1) {
+                if (translatedText.includes(generalConfig.defaultTransNameFemale))
+                    translatedText = translatedText.split(generalConfig.defaultTransNameFemale).join(userName);
+            }
+        }
         PrintLog(`GetTranslatedStoryText - traslated text: ${translatedText}`);
         if (translatedText.length > 0) {
             node.innerHTML = translatedText;
@@ -1763,18 +1861,9 @@ function GetTranslatedImageDIV(node, csv) {
         var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
-        var imageStyleCompute = window.getComputedStyle(node).backgroundImage;
-        var imageStyleComputeAfter = window.getComputedStyle(node, ':after').backgroundImage;
-        var UseCompute = (imageStyleCompute.includes('.png') || imageStyleCompute.includes('.jpg')) ?
-            true :
-            false;
-        var UseComputeAfter = (imageStyleComputeAfter.includes('.png') || imageStyleComputeAfter.includes('.jpg')) ?
-            true :
-            false;
-        if (UseCompute)
-            imageStyle = imageStyleCompute;
-        if (UseComputeAfter)
-            imageStyle = imageStyleComputeAfter;
+        if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
+            imageStyle = window.getComputedStyle(node, ':after').backgroundImage;
+        }
         var translatedText = '';
         if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
@@ -1800,9 +1889,7 @@ function GetTranslatedImageDIV(node, csv) {
             node.className.includes('btn-switch-') ||
             node.className.includes('btn-image-check') ||
             node.className.includes('btn-reset-') ||
-            node.className.includes('btn-link') ||
-            UseCompute ||
-            UseComputeAfter
+            node.className.includes('btn-link')
         )
             passOrNot = true;
         if (!passOrNot) return;
@@ -1811,7 +1898,7 @@ function GetTranslatedImageDIV(node, csv) {
             translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
-            if (UseComputeAfter) {
+            if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
@@ -1830,8 +1917,7 @@ function GetTranslatedImageDIV(node, csv) {
 function SceneCodeFromURL(url) {
     var scenecode = '';
 
-    if ((document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) &&
-        !document.URL.includes('scene_')) {
+    if ((document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) && !document.URL.includes('scene_')) {
         if (document.URL.includes('play_view/')) {
             scenecode = document.URL.slice(document.URL.indexOf('play_view/'));
         } else if (document.URL.includes('play_view_event/')) {
@@ -1860,37 +1946,43 @@ var sceneObserver = new MutationObserver(function (mutations) {
         if (mutation.target.className.includes('prt-log-display')) {
             if (typeof mutation.target.children[0] == 'undefined') return true;
 
-            var textName = mutation.target.children[0].children[0].innerHTML
-                .replace(/(\r\n|\n|\r)/gm, '')
-                .trim();
-            var textmessage = mutation.target.children[0].children[1].innerHTML
-                .replace(/(\r\n|\n|\r)/gm, '')
-                .trim();
+            var textName = mutation.target.children[0].children[0].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
+            //textmessage 변수는 활용되는 곳이 이제 없는것으로 보여서 주석으로 감쌈.
+            //var textmessage = mutation.target.children[0].children[1].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
             var nameNode = document.getElementsByClassName('txt-character-name')[0];
 
             // Remove User's Name
             if (userName == '' && document.getElementsByClassName('cnt-quest-scene')[0]) {
-                userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3]
-                    .value;
+                userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
             }
             if (userName != '') {
-                textName = textName.replace(userName, generalConfig.deafultName);
-                textmessage = textmessage.replace(userName, generalConfig.deafultName);
+                var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+                var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+                if (sex == 0) {
+                    if (language == 'Japanese')
+                        textName = textName.split(userName).join(generalConfig.defaultNameMale_jp);
+                    else if (language == 'English')
+                        textName = textName.split(userName).join(generalConfig.defaultNameMale_en);
+
+                } else if (sex == 1) {
+                    if (language == 'Japanese')
+                        textName = textName.split(userName).join(generalConfig.defaultNameFemale_jp);
+                    else if (language == 'English')
+                        textName = textName.split(userName).join(generalConfig.defaultNameFemale_en);
+                }
             }
 
-
-            if (exMode) {
-                PushCSV(textName, cNames);
-            }
+            //misc 텍스트를 가져오는 경우 빼고 스토리 텍스트,스토리 이름은 F12를 누르고 새로고침하는 순간
+            //전부 추출되버리니 여기서의 exMode는 기능을 잃어버림.
+            //if (exMode) {
+            //    PushCSV(textName, cNames);
+            //}
             if (transMode) {
                 sceneObserver.disconnect();
                 if (nameNode) {
                     if (nameNode.innerText != '') {
                         GetTranslatedText(mutation.target.children[0].children[0], nameJson);
-                        GetTranslatedText(
-                            document.getElementsByClassName('txt-character-name')[0].children[0],
-                            nameJson
-                        );
+                        GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
                     }
                 }
                 GetTranslatedStoryText(mutation.target.children[0].children[1], questJson);
@@ -1953,14 +2045,16 @@ var BattleObserver = new MutationObserver(function (mutations) {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
+
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
     mutations.forEach(mutation => {
-        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
+        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);	
+        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);	
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
@@ -2154,7 +2248,6 @@ async function ObserverImageDIV() {
     }
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
-
 }
 
 const main = async () => {
