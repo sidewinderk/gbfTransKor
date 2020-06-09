@@ -81,7 +81,7 @@ var config = {
     characterData: true
 };
 var config_simple = {
-    attributes: true
+    attributes: true,
 };
 
 // Common modules
@@ -1696,6 +1696,8 @@ function GetTranslatedText(node, csv) {
         var computedStyleCheck = window
             .getComputedStyle(node, ':after')
             .content.replace(/['"]+/g, '');
+        if(node.className.includes('btn-evolution'))
+            console.log('hello');
         if (computedStyleCheck && computedStyleCheck != 'none') textInput = computedStyleCheck;
         if (kCheck.test(textInput)) return;
         PrintLog(`GetTranslatedText - className: ${node.className}, text: ${textInput}`);
@@ -1789,7 +1791,7 @@ function GetTranslatedText(node, csv) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         var classNames = node.className.replace(' ', '.');
-                        style.innerText = `.${classNames}::after{ content: "${translatedText}" !important; }`;
+                        style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
@@ -2082,6 +2084,9 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
         // walkDownTree(mutation.target, GetTranslatedText, archiveJson);	
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);	
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        
+        var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
+        walkDownTreeStyle(battleInfo_subbtn, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
@@ -2229,10 +2234,11 @@ async function ObserverBattle() {
         if (battleInfo_btn) {
             walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
+        /*
         var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
-        }
+        }*/
         var battleInfo_contrib = document.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
             walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
