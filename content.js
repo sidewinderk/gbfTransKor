@@ -1696,8 +1696,6 @@ function GetTranslatedText(node, csv) {
         var computedStyleCheck = window
             .getComputedStyle(node, ':after')
             .content.replace(/['"]+/g, '');
-        if(node.className.includes('btn-evolution'))
-            console.log('hello');
         if (computedStyleCheck && computedStyleCheck != 'none') textInput = computedStyleCheck;
         if (kCheck.test(textInput)) return;
         PrintLog(`GetTranslatedText - className: ${node.className}, text: ${textInput}`);
