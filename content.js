@@ -1876,9 +1876,18 @@ function GetTranslatedImageDIV(node, csv) {
         var passOrNot = true;
         var imageStyle = window.getComputedStyle(node).backgroundImage;
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
-        if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
-            imageStyle = window.getComputedStyle(node, ':after').backgroundImage;
-        }
+        var imageStyleCompute = window.getComputedStyle(node).backgroundImage;
+        var imageStyleComputeAfter = window.getComputedStyle(node, ':after').backgroundImage;
+        var UseCompute = (imageStyleCompute.includes('.png') || imageStyleCompute.includes('.jpg')) ?
+            true :
+            false;
+        var UseComputeAfter = (imageStyleComputeAfter.includes('.png') || imageStyleComputeAfter.includes('.jpg')) ?
+            true :
+            false;
+        if (UseCompute)
+            imageStyle = imageStyleCompute;
+        if (UseComputeAfter)
+            imageStyle = imageStyleComputeAfter;
         var translatedText = '';
         if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
@@ -1904,7 +1913,9 @@ function GetTranslatedImageDIV(node, csv) {
             node.className.includes('btn-switch-') ||
             node.className.includes('btn-image-check') ||
             node.className.includes('btn-reset-') ||
-            node.className.includes('btn-link')
+            node.className.includes('btn-link') ||
+            UseCompute ||
+            UseComputeAfter
         )
             passOrNot = true;
         if (!passOrNot) return;
@@ -1913,7 +1924,7 @@ function GetTranslatedImageDIV(node, csv) {
             translatedText = GetTranslatedImageStyle(imageStyle, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
-            if (node.className.includes('ico-mini-') || node.className.includes('btn-image-')) {
+            if (UseComputeAfter) {
                 if (!node.className.includes('-translated')) {
                     var style = document.createElement('style');
                     style.type = 'text/css';
