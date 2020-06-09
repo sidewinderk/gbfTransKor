@@ -1,13 +1,16 @@
 var generalConfig = {
     refreshRate: 300,
-    origin: 'https://sidewinderk.github.io/gbfTransKor',
+    origin: 'chrome-extension://' + chrome.runtime.id,
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
     // local DB: 'chrome-extension://ID'
-    deafultName: "[グラン]", // Default original user name
-    deafultTransName: "[그랑]", // Default translated user name
-    defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquare.woff') format('woff');",
+    defaultNameMale_jp: "[グラン]", // Default original user name
+    defaultNameFemale_jp: "[ジータ]",
+    defaultNameMale_en: "[Gran]",
+    defaultNameFemale_en: "[Djeeta]",
+    defaultTransNameMale: "[그랑]", // Default translated user name
+    defaultTransNameFemale: "[지타]",
+    defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff');",
     defaultFontName: "NanumSquare"
-
 };
 var isVerboseMode = true;
 var doImageSwap = true;
@@ -218,21 +221,22 @@ function walkDownObserver(node, obs, variable = null) {
     }
 }
 
-function PushCSV(text, array) {
-    if (kCheck.test(text)) return;
-    if (!array.includes(text)) {
-        if (text.match(/&nbsp;/g)) {
-            PrintLog('NOPE');
-            return;
-        }
-        if (array.includes(',')) array.push("'" + text + "'");
-        else array.push(text);
-        // chrome.storage.local.set({
-        //     nTEXT: cNames,
-        //     mTEXT: miscs
-        // });
-    }
-}
+//function PushCSV(text, array) {
+//    if (kCheck.test(text)) return;
+//    if (!array.includes(text)) {
+//        if (text.match(/&nbsp;/g)) {
+//            PrintLog('NOPE');
+//            return;
+//         }
+//         if (array.includes(',')) array.push("'" + text + "'");
+//         else 
+//             array.push(text);
+//         chrome.storage.local.set({
+//              nTEXT: cNames,
+//              mTEXT: miscs
+//          });
+//     }
+// }
 
 // function PushCSV_StoryText(request) {
 //     if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
@@ -1532,6 +1536,8 @@ function translate_StoryText(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
 
+    var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
     jsonFile.some(function (item) {
@@ -1541,26 +1547,35 @@ function translate_StoryText(stext, jsonFile) {
 
         if (item.Korean) {
             var curSceneCode = SceneCodeFromURL();
-            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
-            var codes = item.SceneCode
-                .split('"')
-                .join('')
-                .split(',');
+            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+            var codes = item.SceneCode.split('"').join('').split(',');
             codes.some(function (code) {
                 if (code == curSceneCode) {
                     if (curLanugage == item.Language) {
-                        stext = stext.split('\n').join('');
+                        stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
                         stext = stext.split('"').join("'");
-                        /*
-                        stext = stext.replace(/\s+/g, " "); 이렇게하니까 &nbsp;에서 & 빼고 다 사라짐.
-                        원래 &까지 다 사라지고 " "으로 대체되야하는데 왜이렇지? 모르겠다.
-                        */
                         stext = stext.replace(/&nbsp;/g, ' ');
-                        item.Origin = item.Origin.replace(/\s+/g, " ");
+                        stext = stext.replace(/\s+/g, " ");
 
-                        if (stext == item.Origin) {
-                            transText = item.Korean;
-                            return true;
+                        if (sex == 0) {
+                            if (stext.includes(userName))
+                                if (curLanugage == 'Japanese')
+                                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+                                else if (curLanugage == 'English')
+                                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                        } else if (sex == 1) {
+                            if (stext.includes(userName))
+                                if (curLanugage == 'Japanese')
+                                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+                                else if (curLanugage == 'English')
+                                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                        }
+
+                        if (stext.length == item.Origin.length) {
+                            if (stext == item.Origin) {
+                                transText = item.Korean;
+                                return true;
+                            }
                         }
                     }
                 }
@@ -1660,6 +1675,12 @@ function GetTranslatedText(node, csv) {
         )
             passOrNot = true;
         if (passOrNot) {
+            var sexNode = document.getElementsByClassName('cnt-quest-scene')[0];
+            var sex = 0;
+            if (sexNode)
+                sex = sexNode.attributes[2].value;
+            var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+
             // If the text contains any number, save the number and replace it to "*"
             var number = textInput.replace(/[^0-9]/g, '');
             if (number.length > 0) {
@@ -1667,23 +1688,39 @@ function GetTranslatedText(node, csv) {
             }
             // Remove User's Name
             //  - Not working now (NEED TO FIX)
-            if ((userName == "") &&
-                (document.getElementsByClassName('cnt-quest-scene')[0])) {
+            if ((userName == "") && (document.getElementsByClassName('cnt-quest-scene')[0])) {
                 userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
             }
             if (userName != "") {
                 if (textInput.includes(userName)) {
-                    textInput = textInput.replace(userName, generalConfig.deafultName);
+                    if (sex == 0) {
+                        if (language == 'Japanese')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameMale_jp);
+                        else if (language == 'English')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameMale_en);
+
+                    } else if (sex == 1) {
+                        if (language == 'Japanese')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_jp);
+                        else if (language == 'English')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_en);
+                    }
                     PrintLog(`UserName Converted! - ${textInput}`);
                 }
             }
-            if (exMode) PushCSV(textInput, miscs);
+            //if (exMode)
+            //    PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             if (transMode)
                 translatedText = translate(textInput, csv);
-            if ((userName) &&
-                translatedText.includes(generalConfig.deafultTransName)) {
-                translatedText = translatedText.replace(generalConfig.deafultTransName, userName);
+            if (userName) {
+                if (sex == 0) {
+                    if (translatedText.includes(generalConfig.defaultTransNameMale))
+                        translatedText = translatedText.split(generalConfig.defaultTransNameMale).join(userName);
+                } else if (sex == 1) {
+                    if (translatedText.includes(generalConfig.defaultTransNameFemale))
+                        translatedText = translatedText.split(generalConfig.defaultTransNameFemale).join(userName);
+                }
             }
 
             PrintLog('traslated text: ' + translatedText);
@@ -1692,10 +1729,7 @@ function GetTranslatedText(node, csv) {
                 if (number.length > 0) {
                     // If it contains number("*"), recover it from the saved number
                     for (var i = 0; i < number.length; i++) {
-                        translatedText =
-                            translatedText.slice(0, translatedText.indexOf('*')) +
-                            number[i] +
-                            translatedText.slice(translatedText.indexOf('*') + 1);
+                        translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
                     }
                 }
                 PrintLog(`Take:${translatedText}`);
@@ -1704,7 +1738,7 @@ function GetTranslatedText(node, csv) {
                         var style = document.createElement('style');
                         style.type = 'text/css';
                         var classNames = node.className.replace(' ', '.');
-                        style.innerText = `.${classNames}::after{ content: "${translatedText}" !important; }`;
+                        style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
                         document.head.appendChild(style);
                         node.className += ' ' + node.className + '-translated';
                     }
@@ -1720,8 +1754,21 @@ function GetTranslatedStoryText(node, csv) {
     if (node) {
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
         var textContents = document.getElementsByClassName('txt-message')[0];
+        var translatedText = '';
+        var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+        var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
         translatedText = translate_StoryText(textInput, csv);
+        if (translatedText.length > 0) {
+            if (sex == 0) {
+                if (translatedText.includes(generalConfig.defaultTransNameMale))
+                    translatedText = translatedText.split(generalConfig.defaultTransNameMale).join(userName);
+            } else if (sex == 1) {
+                if (translatedText.includes(generalConfig.defaultTransNameFemale))
+                    translatedText = translatedText.split(generalConfig.defaultTransNameFemale).join(userName);
+            }
+        }
         PrintLog(`GetTranslatedStoryText - traslated text: ${translatedText}`);
         if (translatedText.length > 0) {
             node.innerHTML = translatedText;
@@ -1875,37 +1922,43 @@ var sceneObserver = new MutationObserver(function (mutations) {
         if (mutation.target.className.includes('prt-log-display')) {
             if (typeof mutation.target.children[0] == 'undefined') return true;
 
-            var textName = mutation.target.children[0].children[0].innerHTML
-                .replace(/(\r\n|\n|\r)/gm, '')
-                .trim();
-            var textmessage = mutation.target.children[0].children[1].innerHTML
-                .replace(/(\r\n|\n|\r)/gm, '')
-                .trim();
+            var textName = mutation.target.children[0].children[0].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
+            //textmessage 변수는 활용되는 곳이 이제 없는것으로 보여서 주석으로 감쌈.
+            //var textmessage = mutation.target.children[0].children[1].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
             var nameNode = document.getElementsByClassName('txt-character-name')[0];
 
             // Remove User's Name
             if (userName == '' && document.getElementsByClassName('cnt-quest-scene')[0]) {
-                userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3]
-                    .value;
+                userName = document.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
             }
             if (userName != '') {
-                textName = textName.replace(userName, generalConfig.deafultName);
-                textmessage = textmessage.replace(userName, generalConfig.deafultName);
+                var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+                var language = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+                if (sex == 0) {
+                    if (language == 'Japanese')
+                        textName = textName.split(userName).join(generalConfig.defaultNameMale_jp);
+                    else if (language == 'English')
+                        textName = textName.split(userName).join(generalConfig.defaultNameMale_en);
+
+                } else if (sex == 1) {
+                    if (language == 'Japanese')
+                        textName = textName.split(userName).join(generalConfig.defaultNameFemale_jp);
+                    else if (language == 'English')
+                        textName = textName.split(userName).join(generalConfig.defaultNameFemale_en);
+                }
             }
 
-
-            if (exMode) {
-                PushCSV(textName, cNames);
-            }
+            //misc 텍스트를 가져오는 경우 빼고 스토리 텍스트,스토리 이름은 F12를 누르고 새로고침하는 순간
+            //전부 추출되버리니 여기서의 exMode는 기능을 잃어버림.
+            //if (exMode) {
+            //    PushCSV(textName, cNames);
+            //}
             if (transMode) {
                 sceneObserver.disconnect();
                 if (nameNode) {
                     if (nameNode.innerText != '') {
                         GetTranslatedText(mutation.target.children[0].children[0], nameJson);
-                        GetTranslatedText(
-                            document.getElementsByClassName('txt-character-name')[0].children[0],
-                            nameJson
-                        );
+                        GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
                     }
                 }
                 GetTranslatedStoryText(mutation.target.children[0].children[1], questJson);
@@ -1977,6 +2030,9 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
         // walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+
+        var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
+        walkDownTreeStyle(battleInfo_subbtn, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
@@ -2124,10 +2180,12 @@ async function ObserverBattle() {
         if (battleInfo_btn) {
             walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
+        /*
         var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
         }
+        */
         var battleInfo_contrib = document.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
             walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
