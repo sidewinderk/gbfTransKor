@@ -1,6 +1,6 @@
 var generalConfig = {
     refreshRate: 300,
-    origin: 'chrome-extension://' + chrome.runtime.id,
+    origin: 'https://sidewinderk.github.io/gbfTransKor',
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
     // local DB: 'chrome-extension://ID'
     defaultNameMale_jp: "[グラン]", // Default original user name
@@ -12,7 +12,7 @@ var generalConfig = {
     defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff');",
     defaultFontName: "NanumSquare"
 };
-var isVerboseMode = true;
+var isVerboseMode = false;
 var doImageSwap = true;
 var doBattleTrans = true;
 var transMode = true;
