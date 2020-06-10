@@ -224,11 +224,12 @@ function walkDownObserver(node, obs, variable = null) {
 function PushCSV(text, array) {
     if (kCheck.test(text)) return;
 
-    if (text.includes(',') || text.includes('、')) 
-        text = '"' + text + '"';
 
     if (!array.includes(text)) {
-        array.push(text);
+        if (text.includes(','))
+            array.push('"' + text + '"');
+        else
+            array.push(text);
 
         chrome.storage.local.set({
             nTEXT: cNames,
@@ -2082,7 +2083,7 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
         // walkDownTree(mutation.target, GetTranslatedText, archiveJson);	
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);	
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-        
+
         var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
         walkDownTreeStyle(battleInfo_subbtn, GetTranslatedImageDIV, imageJson);
     });
