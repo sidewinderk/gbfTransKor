@@ -223,13 +223,13 @@ function walkDownObserver(node, obs, variable = null) {
 
 function PushCSV(text, array) {
     if (kCheck.test(text)) return;
+
+    if (text.includes(',') || text.includes('、')) 
+        text = '"' + text + '"';
+
     if (!array.includes(text)) {
-        if (text.match(/&nbsp;/g)) {
-            PrintLog('NOPE');
-            return;
-        }
-        if (array.includes(',')) array.push("'" + text + "'");
-        else array.push(text);
+        array.push(text);
+
         chrome.storage.local.set({
             nTEXT: cNames,
             mTEXT: miscs
