@@ -15,7 +15,6 @@ port.onMessage.addListener(function (msg) {
 var requestListener = async function (req) {
 	chrome.storage.local.get(['extractMode'], function (items) {
 		if (items.extractMode) {
-			console.log(items.extractMode);
 			if (req.request.url.includes('scene_') && !req.request.url.includes('scene_list')) {
 				req.response.headers.some(function (item) {
 					if (item.value == 'application/json') {
