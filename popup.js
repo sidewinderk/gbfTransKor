@@ -12,14 +12,38 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         );
     })();
-
-    chrome.storage.local.get(['extractMode', 'translateMode'], function (items) {
+    chrome.storage.local.get(['sceneCodeFull', 'extractMode', 'translateMode'], function (items) {
         document.getElementById('translateModeChecker').checked = items.translateMode;
         document.getElementById('extractModeChecker').checked = items.extractMode;
         if (items.extractMode)
             document.getElementById('extractModeWindow').style.display = 'block';
     });
-
+    chrome.storage.local.get(['sceneCodeFull', 'sceneCodeStatus'], function (items) {
+        if (!items.sceneCodeFull) {
+            document.getElementById('scCodeSection').style.display = 'none';
+        } else {
+            document.getElementById('scCode').innerText = items.sceneCodeFull;
+            if (items.sceneCodeStatus == 0 | items.sceneCodeStatus) {
+                switch (items.sceneCodeStatus) {
+                    case 0:
+                        document.getElementById('scCodestatus').innerText = "원문 없음";
+                        document.getElementById('noOrig').style.display = "block";
+                        break;
+                    case 1:
+                        document.getElementById('scCodestatus').innerText = "원문 있음, 번역 없음";
+                        document.getElementById('noTrans').style.display = "block";
+                        break;
+                    case 2:
+                        document.getElementById('scCodestatus').innerText = "번역 있음";
+                        document.getElementById('okTrans').style.display = "block";
+                        break;
+                }
+                document.getElementById('Scenes').rows = 4;
+                document.getElementById('namecheck').rows = 3;
+                document.getElementById('otherscheck').rows = 4;
+            }
+        }
+    });
     let getNameBtn = document.getElementById('getName');
     let copyNameBtn = document.getElementById('copyName');
     let clearNameBtn = document.getElementById('cacheClearName');

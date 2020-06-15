@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <html>
+
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
@@ -10,7 +11,7 @@
             width: 480px;
             font-family: 'NanumSquare';
         }
-        
+
         textarea {
             /* Source: Aakash Chakravarthy https://jsfiddle.net/vaakash/5TF5h/ */
             background: url(http://i.imgur.com/2cOaJ.png);
@@ -21,36 +22,39 @@
             border-color: #ccc;
             width: 90%;
         }
-        
+
         .btntext {
             font-family: 'NanumSquare';
             font-size: large;
             font-weight: 600;
             vertical-align: -5px;
         }
-        
+
         .disclaimer {
             font-family: 'NanumSquare';
             font-weight: 800;
             color: #FF5733;
         }
+
         /* The switch - the box around the slider */
-        
+
         .switch {
             position: relative;
             display: inline-block;
             width: 40px;
             height: 24px;
         }
+
         /* Hide default HTML checkbox */
-        
+
         .switch input {
             opacity: 0;
             width: 0;
             height: 0;
         }
+
         /* The slider */
-        
+
         .slider {
             position: absolute;
             cursor: pointer;
@@ -62,7 +66,7 @@
             -webkit-transition: .4s;
             transition: .4s;
         }
-        
+
         .slider:before {
             position: absolute;
             content: "";
@@ -74,30 +78,31 @@
             -webkit-transition: .4s;
             transition: .4s;
         }
-        
+
         input:checked+.slider {
             background-color: #FF5733;
         }
-        
+
         input:focus+.slider {
             box-shadow: 0 0 1px #FF5733;
         }
-        
+
         input:checked+.slider:before {
             -webkit-transform: translateX(16px);
             -ms-transform: translateX(16px);
             transform: translateX(16px);
         }
+
         /* Rounded sliders */
-        
+
         .slider.round {
             border-radius: 24px;
         }
-        
+
         .slider.round:before {
             border-radius: 50%;
         }
-        
+
         .myButton {
             box-shadow: inset 0px 1px 0px 0px #f5978e;
             background: linear-gradient(to bottom, #FF5733 5%, #c62d1f 100%);
@@ -114,12 +119,12 @@
             text-decoration: none;
             text-shadow: 0px 1px 0px #810e05;
         }
-        
+
         .myButton:hover {
             background: linear-gradient(to bottom, #c62d1f 5%, #FF5733 100%);
             background-color: #c62d1f;
         }
-        
+
         .myButton:active {
             position: relative;
             top: 1px;
@@ -133,11 +138,11 @@
     <label class="switch">
         <input id="translateModeChecker" type="checkbox">
         <span class="slider round"></span>
-      </label> <span class="btntext">번역 켜기   </span>
+    </label> <span class="btntext">번역 켜기 </span>
     <label class="switch">
         <input id="extractModeChecker" type="checkbox">
         <span class="slider round"></span>
-      </label> <span class="btntext">추출 모드</span>
+    </label> <span class="btntext">추출 모드</span>
     <br>
     <hr>
     <TABLE width="100%" height="100%" border="0" cellspacing="0">
@@ -154,13 +159,37 @@
     </TABLE>
     <br>
     <div id='extractModeWindow' style="display:none">
-        <span class="btntext">스토리 텍스트</span><br><button id="getScenes">가져오기</button> <button id="copyScenes">복사</button> <button id="downScenes">csv파일로 다운로드</button> <button id="clearScenes">캐시 지우기</button><br>
+        <span class="btntext">스토리 텍스트</span><br>
+        <span id='scCodeSection'>
+            <TABLE width="100%" height="100%" border="0" cellspacing="0">
+                <TR>
+                    <TD>퀘스트 코드: <span id="scCode"></span>
+                    </TD>
+                    <TD>
+                        <span id='okTrans' style="display: none;"><i class="material-icons"
+                                style="font-size:20px;color: #00A308;">translate</i>
+                        </span>
+                        <span id='noTrans' style="display: none;"><i class="material-icons"
+                                style="font-size:20px;color: #FFB833;">warning</i></span>
+                        <span id='noOrig' style="display: none;"><i class="material-icons"
+                                style="font-size:20px;color: #FF5733;">error</i></span>
+                    </TD>
+                    <TD>
+                        <span id="scCodestatus"></span>
+                    </TD>
+                </TR>
+            </TABLE>
+        </span>
+        <button id="getScenes">가져오기</button> <button id="copyScenes">복사</button> <button id="downScenes">csv파일로
+            다운로드</button> <button id="clearScenes">캐시 지우기</button><br>
         <textarea id="Scenes" rows="6">여기에 텍스트가 표시됩니다.</textarea>
         <br>
-        <span class="btntext">스토리 이름</span><br><button id="getName">가져오기</button> <button id="copyName">복사</button> <button id="downName">csv파일로 다운로드</button> <button id="cacheClearName">캐시 지우기</button><br>
+        <span class="btntext">스토리 이름</span><br><button id="getName">가져오기</button> <button id="copyName">복사</button>
+        <button id="downName">csv파일로 다운로드</button> <button id="cacheClearName">캐시 지우기</button><br>
         <textarea id="namecheck" rows="4">여기에 텍스트가 표시됩니다.</textarea>
         <br>
-        <span class="btntext">전체 텍스트</span><br><button id="getMisc">가져오기</button> <button id="copyMisc">복사</button> <button id="downMisc">csv파일로 다운로드</button> <button id="cacheClearMisc">캐시 지우기</button><br>
+        <span class="btntext">전체 텍스트</span><br><button id="getMisc">가져오기</button> <button id="copyMisc">복사</button>
+        <button id="downMisc">csv파일로 다운로드</button> <button id="cacheClearMisc">캐시 지우기</button><br>
         <textarea id="otherscheck" rows="6">여기에 텍스트가 표시됩니다.</textarea>
         <br> <button id="update">모든 캐시 지우기</button>
     </div>
