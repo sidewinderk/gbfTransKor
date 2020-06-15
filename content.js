@@ -49,6 +49,12 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
             nTEXT: cNames,
             mTEXT: miscs
         });
+        if (!document.URL.includes('play_view')) {
+            chrome.storage.local.set({
+                sceneCodeFull: 0,
+                sceneCodeStatus: 0
+            });
+        }
     }
     if (request.data == 'clearName') {
         cNames = [];
@@ -245,6 +251,19 @@ function PushCSV_StoryText(request) {
     var sceneCode = request.scenes[0];
     var sceneLanguage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
 
+    if (document.URL.includes('play_view')) {
+        var anotherSceneCode = SceneCodeFromURL();
+        if (anotherSceneCode != '')
+            sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
+    }
+    // For pop-up status icon
+    var DBcheck = IsSceneCodeInDB(sceneCode);
+    chrome.storage.local.set({
+        sceneCodeFull: sceneCode,
+        sceneCodeStatus: DBcheck
+    });
+
+
     sceneFullInfo.some(function (scene) {
         var sceneCodeReserved = scene.SceneCode
             .split('"')
@@ -258,12 +277,6 @@ function PushCSV_StoryText(request) {
         }
     });
     if (skip) return;
-
-    if (document.URL.includes('play_view')) {
-        var anotherSceneCode = SceneCodeFromURL();
-        if (anotherSceneCode != '')
-            sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
-    }
 
 
     var sceneText = request.scenes[1];
@@ -1963,6 +1976,32 @@ function SceneCodeFromURL(url) {
     }
 
     return scenecode;
+}
+
+function IsSceneCodeInDB(sceneCodeInput) {
+    // it returns
+    //    - 0: no code in the DB
+    //    - 1: code found but no trans
+    //    - 2: code and trans found
+    sceneCodeInput = sceneCodeInput.replace(/['"]+/g, '')
+    checkResult = 0;
+    questJson.some(function (item) {
+        if (item.sceneCode) {
+            if (sceneCodeInput.length == item.sceneCode.length) {
+                if (String(sceneCodeInput) == String(item.sceneCode)) {
+                    if (item.kr) {
+                        if (item.kr.length > 0)
+                            checkResult = 2;
+                        return;
+                    } else {
+                        checkResult = 1;
+                        return
+                    }
+                }
+            }
+        }
+    });
+    return checkResult;
 }
 
 // Observers
