@@ -2065,7 +2065,7 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
