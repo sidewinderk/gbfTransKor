@@ -21,6 +21,7 @@ var initialize = false;
 var ObserverList = [];
 var userName = '';
 
+var reservedData = [];
 
 var sceneFullInfo = [];
 //https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
@@ -1604,6 +1605,24 @@ function translate_StoryText(stext, jsonFile) {
     var sex = document.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
 
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
+
+    var skip = false;
+    reservedData.some(function (item) {
+        let sc = SceneCodeFromURL();
+        if (item.SceneCode.includes(sc)) {
+            skip = true;
+            return true;
+        }
+    });
+
+    if (!skip) {
+        jsonFile.some(function (item) {
+            let sc = SceneCodeFromURL();
+            if (item.SceneCode.includes(sc)) {
+                
+            }
+        });
+    }
 
     jsonFile.some(function (item) {
         if (item.Korean == '\t' || item.Korean == ' ') {
