@@ -253,7 +253,7 @@ function PushCSV_StoryText(request) {
 
     if (document.URL.includes('play_view')) {
         var anotherSceneCode = SceneCodeFromURL();
-        if (anotherSceneCode != '')
+        if (anotherSceneCode != '' && anotherSceneCode != sceneCode)
             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
     }
     // For pop-up status icon
