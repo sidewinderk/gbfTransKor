@@ -5,12 +5,14 @@ function save_options() {
     var ImageSwap = document.getElementById('doImageSwap').checked;
     var BattleTrans = document.getElementById('doBattleTranslation').checked;
     var fontCurrent = document.getElementById('fontaddr').value;
+    var nonTransTextCurrent = document.getElementById('ignoreTranslatedText').checked;
     chrome.storage.local.set({
         verboseMode: verboseModeCurrent,
         origin: OriginCurrent,
         imageswap: ImageSwap,
         battleobserver: BattleTrans,
-        userFont: fontCurrent
+        userFont: fontCurrent,
+        nonTransText: nonTransTextCurrent
     }, function() {
         // Update status to let user know options were saved.
         var status = document.getElementById('status');
@@ -25,12 +27,13 @@ function save_options() {
 // stored in chrome.storage.
 function restore_options() {
     // Use default value extractMode = true.
-    chrome.storage.local.get(['verboseMode', 'origin', 'imageswap', 'battleobserver', 'userFont'], function(items) {
+    chrome.storage.local.get(['verboseMode', 'origin', 'imageswap', 'battleobserver', 'userFont', 'nonTransText'], function(items) {
         document.getElementById('isVerbose').checked = items.verboseMode;
         document.getElementById('origintext').value = items.origin;
         document.getElementById('doImageSwap').checked = items.imageswap;
         document.getElementById('doBattleTranslation').checked = items.battleobserver;
         document.getElementById('fontaddr').value = items.userFont;
+        document.getElementById('ignoreTranslatedText').checked = items.nonTransText;
     });
 }
 document.getElementById("useLocalDB").onclick = function(element) {

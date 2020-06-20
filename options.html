@@ -118,7 +118,6 @@
 
 <body>
     <H1 style="font-family: 'NanumSquare';">상세 설정</H1>
-    <div id="status" style="display: none; color:#FF5733;">저장되었습니다</div>
     <H2 style="font-family: 'NanumSquare';">번역 관련 추가 설정</H2>
     <label class="switch">
         <input type="checkbox" id="doImageSwap">
@@ -128,6 +127,13 @@
         <input type="checkbox" id="doBattleTranslation">
         <span class="slider round"></span>
       </label><span class="btntext"> 전투 화면에서도 번역</span>
+    <br>
+    <hr>
+    <H2 style="font-family: 'NanumSquare';">추출 옵션</H2>
+    <label class="switch">
+        <input type="checkbox" id="ignoreTranslatedText">
+        <span class="slider round"></span>
+      </label><span class="btntext"> 이미 번역된 원문 제거(팝업 메뉴가 느려질 수 있음)</span>
     <br>
     <hr>
     <H2 style="font-family: 'NanumSquare';">개발자용 옵션</H2>
@@ -149,6 +155,7 @@
 
     <br><br> GitHub 링크: <a href="https://github.com/sidewinderk/gbfTransKor">https://github.com/sidewinderk/gbfTransKor</a>
     <br> 번역시트(온라인 DB) 링크: <a href="https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0/edit?usp=sharing</a>
+    <br><br><div id="status" style="display: none; color:#FF5733;">저장되었습니다</div>
 </body>
 <script src="options.js"></script>
 
