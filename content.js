@@ -1619,7 +1619,7 @@ function translate_StoryText(stext, jsonFile) {
         jsonFile.some(function (item) {
             let sc = SceneCodeFromURL();
             if (item.SceneCode.includes(sc)) {
-                
+                reservedData.push(item);
             }
         });
     }
