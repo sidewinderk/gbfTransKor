@@ -32,6 +32,7 @@ var nameJson = false;
 var archiveJson = false;
 var imageJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
+var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
 // Coversation with popup window
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     if (request.data == 'clearScenes') {
@@ -234,18 +235,32 @@ function walkDownObserver(node, obs, variable = null) {
 function PushCSV(text, array) {
     if (kCheck.test(text)) return;
 
-
-    if (!array.includes(text)) {
+    if (CheckDuplicate(text,array)) {
         if (text.includes(','))
             array.push('"' + text + '"');
         else
             array.push(text);
-
-        chrome.storage.local.set({
-            nTEXT: cNames,
-            mTEXT: miscs
-        });
     }
+}
+function CheckDuplicate(text, array){
+    var result = true;
+    array.some(function (itemTemp) {
+        if(text.length == itemTemp.length){
+            if(text == itemTemp){
+                result = false;
+                return;
+            }
+        }
+        else if (text.includes(',')){
+            if(text.length + 2 == itemTemp.length){
+                if('"' + text + '"' == itemTemp){
+                    result = false;
+                    return;
+                }
+            }
+        }
+    });
+    return result;
 }
 
 function PushCSV_StoryText(request) {
@@ -1772,6 +1787,11 @@ function GetTranslatedText(node, csv) {
             if (number.length > 0) {
                 textInput = textInput.replace(/[0-9]/g, '*');
             }
+            // Filter for the number only with some special characters eg. 1,000,000
+            var specialtest = textInput.replace(kCheckSpecial, "").replace(/ /gi, "").trim();
+            if(specialtest.length < 1)
+                return;
+            
             // Remove User's Name
             //  - Not working now (NEED TO FIX)
             if ((userName == "") && (document.getElementsByClassName('cnt-quest-scene')[0])) {
@@ -2178,7 +2198,7 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
