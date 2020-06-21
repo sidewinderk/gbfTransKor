@@ -17,10 +17,14 @@ var doImageSwap = false;
 var doBattleTrans = false;
 var transMode = false;
 var exMode = false;
+var skipTranslatedText = false;
 var initialize = false;
 var ObserverList = [];
 var userName = '';
 
+var reservedData = [];
+var jpStartIndex = 0,
+    engStartIndex = 0;
 
 var sceneFullInfo = [];
 //https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
@@ -31,6 +35,7 @@ var nameJson = false;
 var archiveJson = false;
 var imageJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
+var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
 // Coversation with popup window
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     if (request.data == 'clearScenes') {
@@ -44,6 +49,8 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         PushCSV_StoryText(request);
     }
     if (request.data == 'update') {
+        if (skipTranslatedText)
+            RemoveTranslatedText();
         chrome.storage.local.set({
             sceneFullInfo: sceneFullInfo,
             nTEXT: cNames,
@@ -69,14 +76,15 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         });
     }
     if (request.data == 'refresh') {
-        PrintLog(sceneFullInfo);
-        PrintLog(cNames);
-        PrintLog(miscs);
+        sceneFullInfo = [];
+        cNames = [];
+        miscs = [];
         chrome.storage.local.set({
             sceneFullInfo: sceneFullInfo,
             nTEXT: cNames,
             mTEXT: miscs
         });
+        window.location.reload();
     }
 });
 
@@ -230,18 +238,32 @@ function walkDownObserver(node, obs, variable = null) {
 function PushCSV(text, array) {
     if (kCheck.test(text)) return;
 
-
-    if (!array.includes(text)) {
+    if (CheckDuplicate(text, array)) {
         if (text.includes(','))
             array.push('"' + text + '"');
         else
             array.push(text);
-
-        chrome.storage.local.set({
-            nTEXT: cNames,
-            mTEXT: miscs
-        });
     }
+}
+
+function CheckDuplicate(text, array) {
+    var result = true;
+    array.some(function (itemTemp) {
+        if (text.length == itemTemp.length) {
+            if (text == itemTemp) {
+                result = false;
+                return;
+            }
+        } else if (text.includes(',')) {
+            if (text.length + 2 == itemTemp.length) {
+                if ('"' + text + '"' == itemTemp) {
+                    result = false;
+                    return;
+                }
+            }
+        }
+    });
+    return result;
 }
 
 function PushCSV_StoryText(request) {
@@ -1516,7 +1538,8 @@ async function InitList() {
         'extractMode',
         'translateMode',
         'userFont',
-        'userFontName'
+        'userFontName',
+        'nonTransText'
     ]);
     if (chromeOptions.sceneFullInfo)
         sceneFullInfo = chromeOptions.sceneFullInfo;
@@ -1529,12 +1552,14 @@ async function InitList() {
     isVerboseMode = chromeOptions.verboseMode;
     transMode = chromeOptions.translateMode;
     exMode = chromeOptions.extractMode;
+    skipTranslatedText = chromeOptions.nonTransText;
     if (chromeOptions.origin) {
         generalConfig.origin = chromeOptions.origin;
     } else
         generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
     if (chromeOptions.userFont)
         generalConfig.defaultFont = chromeOptions.userFont;
+
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
     @font-face {font-family: 'CustomFont';font-style: normal;src: ${generalConfig.defaultFont};unicode-range: U+AC00-D7AF;}`;
@@ -1566,6 +1591,20 @@ async function InitList() {
         if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
         if (doBattleTrans) ObserverList.push(ObserverBattle());
     }
+}
+
+function RemoveTranslatedText() {
+    tempArray = [];
+    miscs.some(function (itemTemp) {
+        var pass = true;
+        archiveJson.some(function (item) {
+            if (itemTemp == item.orig)
+                pass = false;
+        });
+        if (pass)
+            tempArray.push(itemTemp);
+    });
+    miscs = tempArray;
 }
 
 // Observe the textbox
@@ -1605,48 +1644,81 @@ function translate_StoryText(stext, jsonFile) {
 
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
-    jsonFile.some(function (item) {
-        if (item.Korean == '\t' || item.Korean == ' ') {
-            return false;
-        }
-
-        if (item.Korean) {
-            var curSceneCode = SceneCodeFromURL();
-            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
-            var codes = item.SceneCode.split('"').join('').split(',');
-            codes.some(function (code) {
-                if (code == curSceneCode) {
-                    if (curLanugage == item.Language) {
-                        stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
-                        stext = stext.split('"').join("'");
-                        stext = stext.replace(/&nbsp;/g, ' ');
-                        stext = stext.replace(/\s+/g, " ");
-
-                        if (sex == 0) {
-                            if (stext.includes(userName))
-                                if (curLanugage == 'Japanese')
-                                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-                                else if (curLanugage == 'English')
-                                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
-                        } else if (sex == 1) {
-                            if (stext.includes(userName))
-                                if (curLanugage == 'Japanese')
-                                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
-                                else if (curLanugage == 'English')
-                                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
-                        }
-
-                        if (stext.length == item.Origin.length) {
-                            if (stext == item.Origin) {
-                                transText = item.Korean;
-                                return true;
-                            }
-                        }
-                    }
-                }
-            });
+    var skip = false;
+    reservedData.some(function (item) {
+        let sc = SceneCodeFromURL();
+        if (item.SceneCode.includes(sc)) {
+            skip = true;
+            return true;
         }
     });
+
+    if (!skip) {
+        jsonFile.some(function (item) {
+            let sc = SceneCodeFromURL();
+            if (item.SceneCode.includes(sc)) {
+                reservedData.push(item);
+            }
+        });
+        var tmpIndex = 0;
+        reservedData.some(function (item) {
+            if (item.Language == 'Japanese') {
+                jpStartIndex = tmpIndex;
+                return true;
+            }
+            tmpIndex++;
+        });
+
+        tmpIndex = 0;
+        reservedData.some(function (item) {
+            if (item.Language == 'English') {
+                engStartIndex = tmpIndex;
+                return true;
+            }
+            tmpIndex++;
+        });
+    }
+
+    var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+    stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
+    stext = stext.split('"').join("'");
+    stext = stext.replace(/&nbsp;/g, ' ');
+    stext = stext.replace(/\s+/g, " ");
+
+    if (sex == 0) {
+        if (stext.includes(userName))
+            if (curLanugage == 'Japanese')
+                stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+            else if (curLanugage == 'English')
+            stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+    } else if (sex == 1) {
+        if (stext.includes(userName))
+            if (curLanugage == 'Japanese')
+                stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+            else if (curLanugage == 'English')
+            stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+    }
+
+    for (var i = 0; i < reservedData.length; i++) {
+        if (stext.length == reservedData[i].Origin.length) {
+            if (stext == reservedData[i].Origin) {
+                if (reservedData[i].Korean) {
+                    transText = reservedData[i].Korean;
+                    break;
+                } else {
+                    var offset = 0;
+                    if (reservedData[i].Language == 'Japanese') {
+                        offset = i - jpStartIndex;
+                    } else if (reservedData[i].Language == 'English') {
+                        offset = i - engStartIndex;
+                    }
+
+                    transText = reservedData[offset].Korean;
+                    break;
+                }
+            }
+        }
+    }
 
     if (transText.length > 0) {
         PrintLog(`Send:${transText}`);
@@ -1751,6 +1823,11 @@ function GetTranslatedText(node, csv) {
             if (number.length > 0) {
                 textInput = textInput.replace(/[0-9]/g, '*');
             }
+            // Filter for the number only with some special characters eg. 1,000,000
+            var specialtest = textInput.replace(kCheckSpecial, "").replace(/ /gi, "").trim();
+            if (specialtest.length < 1)
+                return;
+
             // Remove User's Name
             //  - Not working now (NEED TO FIX)
             if ((userName == "") && (document.getElementsByClassName('cnt-quest-scene')[0])) {
@@ -2157,7 +2234,7 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (document.URL.includes('raid')) {
+    if (document.URL.includes('#raid')) {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
