@@ -15,6 +15,7 @@
     },
     "options_page": "options.html",
     "permissions": [
+        "activeTab",
         "storage",
         "webNavigation",
         "debugger"
