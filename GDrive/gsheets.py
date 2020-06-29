@@ -9,6 +9,13 @@ skipsheets = ['archive','quest','name','image']
 savepath = "./cache/"
 
 SHEET = '1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0'
+SHEETS = [
+	'1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0', # Main sheet
+	'1UxSdJN8_bDZokoQXjIieTyGtuCM9TIxfCyj99HOolOE', # Main stroy
+	'1XjrDTz8eUMWHVHD1C_Gym0jIdyNYVYATqW2qm9HvgfU', # Event story
+	'1x2T-fH_06kSKbyXecFEiTPqcmxR3KiIxQwmiXJV9D68', # Fate story
+	'1vvzihYl_A2JqsujzY3PeOweWTnc7CPd14IZ1lCIoW1s' # Other story
+]
 
 def get_credentials(scopes, secrets='credentials.json', storage='storage.json'):
      from oauth2client import file, client, tools
@@ -51,4 +58,6 @@ creds = get_credentials(['https://www.googleapis.com/auth/spreadsheets.readonly'
 service = build('sheets', version='v4', credentials=creds)
 
 if(__name__ == '__main__'):
-    export_csv(SHEET)
+    for sht in SHEETS:
+        export_csv(sht)
+    #export_csv(SHEET)
