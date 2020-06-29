@@ -1,4 +1,423 @@
-index,sceneCode,orig,kr
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[ジータ]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。
+Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>
+Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>
+Japanese,"scene_cp3_q1_s10,311",detail,スツルム,将軍閣下……申し訳ありません。
+Japanese,"scene_cp3_q1_s10,311",detail,ドランク,ごめんねぇ～<br>あいつら、意外と強くってさぁ～
+Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,誰か！<br>こいつらの首、<br>すぐにはねちゃってくんない！？
+Japanese,"scene_cp3_q1_s10,311",detail,帝国兵,将軍閣下……<br>彼らは黒騎士様の勅令で<br>動いておりますゆえ……
+Japanese,"scene_cp3_q1_s10,311",detail,帝国兵,我々の手では、<br>閣下のご命令と言えど、<br>どうにも罰することは……
+Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,じゃあ、お前でいいや。<br>あとでスッパリやられといてね。
+Japanese,"scene_cp3_q1_s10,311",detail,帝国兵,そんな……
+Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,まぁ、時間を稼いでくれたおかげで、<br>計画は順調だからね……<br>ご覧よ、ふたりとも……この暴風を。
+Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,この島……いや、この群島すべては、<br>じきに嵐の中に沈み、落ちていくんだ。<br>……暗い暗い空の底へとね。
+Japanese,"scene_cp3_q1_s20,312",synopsis,,<span>[ジータ]</span>一行は街に帰り着くが、この嵐では帝国を迎え撃つより先に近くの島へ避難すべきだと判断する。脱出艇の操縦には相当の腕前が必要とされる中、凄腕の操舵士と謳われたラカムへと期待が集まる。
+Japanese,"scene_cp3_q1_s20,312",detail,,<span class='scene-font-katari'>[ジータ]達が、</span><br><span class='scene-font-katari'>ようやく戻った街は、</span><br><span class='scene-font-katari'>かつてない風雨に襲われていた。</span>
+Japanese,"scene_cp3_q1_s20,312",detail,ラカム,なんなんだよこの雨……<br>いままでこんな嵐、<br>一度だってなかったぜ？
+Japanese,"scene_cp3_q1_s20,312",detail,シェロカルテ,変ですよね～<br>さっきまでは晴れてたんですけどね～
+Japanese,"scene_cp3_q1_s20,312",detail,カタリナ,この天候では、<br>帝国を迎え撃つなどという話を<br>している場合ではないな……
+Japanese,"scene_cp3_q1_s20,312",detail,ビィ,こんだけ酷い嵐なら、<br>帝国も動けねーだろ！<br>まずは避難することを考えねーと！
+Japanese,"scene_cp3_q1_s20,312",detail,シェロカルテ,そうですね～<br>避難用の騎空艇はありますから、<br>それに乗って近くの島へ……
+Japanese,"scene_cp3_q1_s20,312",detail,町人１,……おい、それ、<br>誰が操縦するんだ？
+Japanese,"scene_cp3_q1_s20,312",detail,町人２,え？ だ、誰か……<br>あたしは無理よ？<br>こんな嵐の中じゃ……
+Japanese,"scene_cp3_q1_s20,312",detail,ルリア,そういえば……<br>操舵士はみんな出払ってるって……
+Japanese,"scene_cp3_q1_s20,312",detail,シェロカルテ,そうですね～<br>特にもう、ここまで風が強いと、<br>並の操舵士じゃ、危ないです～
+Japanese,"scene_cp3_q1_s20,312",detail,シェロカルテ,それこそ、<br>トップクラスの……<br>凄腕の操舵士じゃないと～
+Japanese,"scene_cp3_q1_s20,312",detail,町人１,…………
+Japanese,"scene_cp3_q1_s20,312",detail,ルリア,…………
+Japanese,"scene_cp3_q1_s20,312",detail,ラカム,な、なんだよ……？
+Japanese,"scene_cp3_q1_s20,312",detail,町人３,おい！ 大変だ！<br>嵐に紛れて<br>魔物が街のすぐ近くまで来てるぞ！
+Japanese,"scene_cp3_q1_s20,312",detail,ラカム,言いたいことがあるのはわかるが……<br>まずはこっちが先だ！
+Japanese,"scene_cp3_q1_s20,312",detail,ラカム,[ジータ]！<br>ちゃっちゃと片付けるぞ！
+Japanese,"scene_cp3_q2_s10,321",synopsis,,ラカムは過去の墜落を街の皆に語り、脱出艇の舵を握ることを拒む。しかし、街の住人達はそれでもラカムの腕を信じ、その思いに応えるべくラカムは覚悟を決める。
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,――いいか？<br>確かに俺は[ジータ]と一緒に、<br>帝国と戦うとは言ったぜ？
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,でもな、騎空艇を操縦するかどうかは、<br>それとはまた別の問題で……
+Japanese,"scene_cp3_q2_s10,321",detail,カタリナ,しかし、この状況ではもう、<br>私達も街の人も、<br>頼れるのは君だけなんだ……
+Japanese,"scene_cp3_q2_s10,321",detail,シェロカルテ,そうですよ～<br>汚名返上のチャンスですよ～？
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,あのなぁ……<br>俺は……俺はもう、<br>空に捨てられてんだぞ？
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,だから、<br>グランサイファーだって墜落した……<br>お前らは……怖くねぇのかよ？
+Japanese,"scene_cp3_q2_s10,321",detail,ルリア,怖い……？
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,俺が操縦したら、<br>また艇が落ちるかもしれねぇ……<br>そうは考えねぇのか？
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,グランサイファーに乗ってたとき、<br>俺は奇跡的に助かった。<br>……大怪我はしたけどな。
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,けど今度は、<br>助からねぇかもしれねぇ……<br>それも、お前らを道連れにして……な。
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,それでもお前らは、<br>俺が操縦する艇に乗るのが<br>怖くないって……
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,<span class='scene-font-4'>痛ってぇ！？</span>
+Japanese,"scene_cp3_q2_s10,321",detail,町人,<span class='scene-font-4'>馬鹿かお前は！</span><br>まだそんなこと言うなら、<br>もう一発殴ってやろうか！？
+Japanese,"scene_cp3_q2_s10,321",detail,ルリア,ラカムさん……よく見てください。<br>私達の、街の人の顔を……
+Japanese,"scene_cp3_q2_s10,321",detail,ルリア,誰も不安そうな顔なんて<br>してないじゃないですか。
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,お前ら……
+Japanese,"scene_cp3_q2_s10,321",sel1_txt,,<span class='scene-font-katari'>脱出艇へ行こう</span>
+Japanese,"scene_cp3_q2_s10,321",sel2_txt,,<span class='scene-font-katari'>まだ不安？</span>
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,そうだな……<br>みんなが腹くくってんだ……<br>俺が女々しくっちゃ話にならねぇよな！
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,いや……<br>ありがとよ、[ジータ]……
+Japanese,"scene_cp3_q2_s10,321",detail,ラカム,俺だってなぁ……<br>てめぇらの期待に応えるくらいの<br>甲斐性はあらぁ！！
+Japanese,"scene_cp3_q2_s10,321",detail,ビィ,よっしゃ！<br>そんならすぐにみんなを連れて<br>脱出艇に向かおうぜ！
+Japanese,"scene_cp3_q2_s20,322",synopsis,,ラカムを加えた<span>[ジータ]</span>一行は、街の住人を連れて脱出艇へと向かう。その道中、ラカムはこの突然の嵐に疑問を持つ。
+Japanese,"scene_cp3_q2_s20,322",detail,ラカム,それにしても、変な嵐だな……
+Japanese,"scene_cp3_q2_s20,322",detail,カタリナ,変とは……？<br>ラカム、この嵐に何か<br>思うところがあるのか？
+Japanese,"scene_cp3_q2_s20,322",detail,ラカム,思うところも何も、<br>そもそもこの<span class='scene-font-place'>ポート・ブリーズ</span>で<br>嵐になること自体、珍しいんだよ。
+Japanese,"scene_cp3_q2_s20,322",detail,ビィ,そういや、なんか言ってたよな！<br>この島には、<br>風の守り神がいるんだっけか？
+Japanese,"scene_cp3_q2_s20,322",detail,ラカム,ああ、そうさ……<br>この島に吹く風は全て、<br>ティアマトっつー守り神様の息吹なんだ。
+Japanese,"scene_cp3_q2_s20,322",detail,カタリナ,守り神……おそらくは星晶獣か。<br>そのティアマトとやらに、<br>何かあったのかもしれないな。
+Japanese,"scene_cp3_q2_s20,322",detail,ラカム,何百年も前からの言い伝えだぜ？<br>ティアマトなんて<br>本当にいるかどうか……
+Japanese,"scene_cp3_q2_s20,322",detail,ルリア,います……いますよ、絶対に。<br>ティアマトは、この島に……<br>[ジータ]にも……わかりますか？
+Japanese,"scene_cp3_q2_s20,322",detail,ラカム,お、おい、嬢ちゃん？<br>どうしたんだよ、急に。
+Japanese,"scene_cp3_q2_s20,322",detail,ルリア,聞こえるんです……<br>それに感じる……<br>吹き荒ぶ風の、強大な星の力を……
+Japanese,"scene_cp3_q3_s10,331",synopsis,,街の住人を連れ、<span>[ジータ]</span>一行は嵐から逃れるための脱出艇がある洞窟へと急ぐ。しかし、洞窟には、まるでこの状況を先読みしていたかのように、フュリアス率いる帝国軍が待ち構えていた。
+Japanese,"scene_cp3_q3_s10,331",detail,,<span class='scene-font-katari'>徐々に強くなる嵐の中、</span><br><span class='scene-font-katari'>街の住人を連れた一同は、</span><br><span class='scene-font-katari'>脱出艇のある渓谷へと辿り着いた。</span>
+Japanese,"scene_cp3_q3_s10,331",detail,ビィ,こいつが脱出艇だな！
+Japanese,"scene_cp3_q3_s10,331",detail,ルリア,これなら、<br>街の人もみんな乗れそうですね！
+Japanese,"scene_cp3_q3_s10,331",detail,カタリナ,さぁ、ラカム、操舵室へ……
+Japanese,"scene_cp3_q3_s10,331",detail,ラカム,あ、ああ……
+Japanese,"scene_cp3_q3_s10,331",detail,ビィ,ん？ どうしたんだよ？<br>なんで乗らねーんだ？<br>ラカムが乗らないと始まらねーぜ？
+Japanese,"scene_cp3_q3_s10,331",detail,ラカム,い、いや……<br>それは、わかってんだけどよ……
+Japanese,"scene_cp3_q3_s10,331",detail,ラカム,その……<br>や、やっぱり俺……
+Japanese,"scene_cp3_q3_s10,331",detail,フュリアス,――ったくさぁ！<br>乗るなら乗るで、<br>ちゃっちゃとやれよな！
+Japanese,"scene_cp3_q3_s10,331",detail,ラカム,お前……確かに俺が撃ったはずだぜ？<br>なんでそんなにピンピンしてんだよ！？
+Japanese,"scene_cp3_q3_s10,331",detail,フュリアス,当たり前だろ？<br>高貴なボクが下賤なお前らの弾丸で<br>傷一つでも負うと思ってんの？
+Japanese,"scene_cp3_q3_s10,331",detail,ルリア,カタリナ……<br>あの人……なんだか変な感じがする。<br>怖いよ……
+Japanese,"scene_cp3_q3_s10,331",detail,カタリナ,大丈夫だ、ルリア。<br>何も心配することはない……
+Japanese,"scene_cp3_q3_s10,331",detail,町人,ひぃっ！？<br>へ、兵隊が……！！
+Japanese,"scene_cp3_q3_s10,331",detail,ビィ,とにかく街の人を守らねぇと！<br>[ジータ]！<br>帝国の連中を追っ払うぞ！
+Japanese,"scene_cp3_q3_s20,332",synopsis,,街人を帝国兵から守る<span>[ジータ]</span>一行だが、徐々にその数の差に圧倒され始める。そんな中、住人達の頼みであった脱出艇が突如爆発する。
+Japanese,"scene_cp3_q3_s20,332",detail,カタリナ,ある程度は退かせたが、<br>これではキリがないな……
+Japanese,"scene_cp3_q3_s20,332",detail,フュリアス,いいねぇ……<br>ねぇねぇねぇ、疲れた？ 限界？
+Japanese,"scene_cp3_q3_s20,332",detail,フュリアス,でもね……<br>メインディッシュは、<br>まだこれからなんだ。
+Japanese,"scene_cp3_q3_s20,332",detail,町人,こ、こんな奴ら付き合いきれねぇ！<br>脱出艇に乗って逃げようぜ！
+Japanese,"scene_cp3_q3_s20,332",detail,ルリア,<span class='scene-font-4'>……！？ 危ないっ！！</span>
+Japanese,"scene_cp3_q3_s20,332",detail,カタリナ,な、なんだ！？<br>脱出艇が爆発したのか！？
+Japanese,"scene_cp3_q3_s20,332",detail,ルリア,だ、大丈夫ですか！？
+Japanese,"scene_cp3_q3_s20,332",detail,町人,う、うう……いったい何が……？
+Japanese,"scene_cp3_q3_s20,332",detail,フュリアス,ぎゃはははははは！！<br>いいねぇ！ その顔、サイッコー！！<br>その信じらんないって顔！ くくく……
+Japanese,"scene_cp3_q3_s20,332",detail,フュリアス,そうだよ、爆破したんだよ！<br>てめぇらが頼みにしていた脱出艇をな！<br>木端微塵だ！ ぎゃははははは！！
+Japanese,"scene_cp3_q3_s20,332",detail,ラカム,てめぇ……！！<br>なんでこんなことを！？
+Japanese,"scene_cp3_q3_s20,332",detail,フュリアス,知りたい？ 知りたいよね？<br>そうだなぁ……<br>生き残ってたら教えてあげるよ。
+Japanese,"scene_cp3_q3_s20,332",detail,フュリアス,だから、まぁ、せいぜい頑張れば？
+Japanese,"scene_cp3_q3_s20,332",detail,カタリナ,外道が……！！<br>[ジータ]！ 止めてくれるなよ……
+Japanese,"scene_cp3_q3_s20,332",detail,カタリナ,奴の手の者など……<br>この私が叩き切ってくれる！！
+Japanese,"scene_cp3_q4_s10,341",synopsis,,フュリアスの手によって脱出艇が破壊され、街の住人と共に絶体絶命の状況へと追い込まれる<span>[ジータ]</span>一行。そんな中、嵐の原因は星晶獣ティアマトであることを知る。
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,――やるねぇ！<br>うんうん、やっぱり君達って、<br>見所があるなぁ。
+Japanese,"scene_cp3_q4_s10,341",detail,ラカム,黙れ！ 今度はてめぇの番だぞ！
+Japanese,"scene_cp3_q4_s10,341",detail,ラカム,嵐がこれ以上強くなる前に、<br>街のみんなをどこかに、<br>避難させねぇと……
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,ぎゃはははは！！<br>まぁだそんなこと言ってんのかよ！？
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,どこへ逃げようったって同じなんだよ！<br>どうせこの群島は、<br>全部丸ごと沈んじまうんだからなぁ！！
+Japanese,"scene_cp3_q4_s10,341",detail,カタリナ,貴様……どういうことだ！？
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,わかってんだろ？ 薄々さぁ！<br>ティアマトだよ、ティアマト！！<br>この島の守り神サマさ！
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,そいつにね……<br>ちょっと細工させてもらったんだ。<br>……大暴走を始めるようにさぁ！！
+Japanese,"scene_cp3_q4_s10,341",detail,ビィ,ティアマトを暴走させただと！？<br>この野郎、なんてことを……！
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,この嵐が何よりの証拠だ！<br>嵐は際限なく強くなるよ……<br>この群島を吹き飛ばすほどにな！！
+Japanese,"scene_cp3_q4_s10,341",detail,ラカム,てめぇ……<br>街どころか、この群島そのものを<br>滅ぼそうってのか！？
+Japanese,"scene_cp3_q4_s10,341",detail,ラカム,いったいどれだけの人が<br>犠牲になると思ってんだ！！
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,さぁ？ 知らないよ、そんなの。<br>ボクら帝国に支配されたくないほど、<br>アンタ達はこの群島が好きなんだろ？
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,だったら、<br>せいぜい心中でもしてろよ！！<br>空の底に落ちるこの群島とさぁ！！
+Japanese,"scene_cp3_q4_s10,341",detail,町人１,なんてことだ……
+Japanese,"scene_cp3_q4_s10,341",detail,町人２,そんな……私達もう助からないの？
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,そうそう……それとね？<br>この群島から逃げようとする騎空艇は、<br>みんなまとめて撃ち落とすから。
+Japanese,"scene_cp3_q4_s10,341",detail,フュリアス,わかるよね？ ね？<br>つまり、お前らにはもう、<br>逃げ場なんてどこにもねぇんだよ！！
+Japanese,"scene_cp3_q4_s10,341",detail,ラカム,<span class='scene-font-4'>ふざけんなよ！！</span><br>てめぇら、この街の住人を<br>何だと思ってやがる！？
+Japanese,"scene_cp3_q4_s10,341",detail,カタリナ,[ジータ]！<br>とりあえず、屋外のここは危険だ！<br>住人達を、一度街に戻そう！
+Japanese,"scene_cp3_q4_s10,341",detail,カタリナ,その間、魔物や帝国の兵士は、<br>こちらで相手をせねばな……いくぞ！
+Japanese,"scene_cp3_q4_s20,342",synopsis,,帝国兵をなんとか撒くが、<span>[ジータ]</span>一行には暗い雰囲気が漂い始める。しかし、ルリアは決して希望を捨てはしなかった。
+Japanese,"scene_cp3_q4_s20,342",detail,ルリア,もう帝国の人達は、<br>追ってきていないみたいです……
+Japanese,"scene_cp3_q4_s20,342",detail,ビィ,そりゃそうだろうぜ……<br>あとは放っておいても、<br>この島に居る奴はみんな……
+Japanese,"scene_cp3_q4_s20,342",detail,カタリナ,ビィくん、それ以上は言うな。<br>まだ私達は、<br>諦めるわけにはいかないのだからな……
+Japanese,"scene_cp3_q4_s20,342",detail,カタリナ,必ず何か、手はあるはずだ……<br>何か、必ず……
+Japanese,"scene_cp3_q4_s20,342",detail,ルリア,ティアマト……<br><span class='scene-font-place'>ポート・ブリーズ</span>の守り神であり、<br>風の……大星晶獣。
+Japanese,"scene_cp3_q4_s20,342",detail,ビィ,いまは悩んでる場合じゃねぇ……か。<br>早く先に進まねーとな！
+Japanese,"scene_cp3_q4_s30,343",synopsis,,嵐の原因が星晶獣であるからこそ、なんとかできるかもしれない、と告げるルリア。ルリアの決意に一筋の希望の光が差し込む。
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,ふぅ……<br>これで住人は皆、街に戻れたようだ。
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,しかし、<br>困った状況になったな……
+Japanese,"scene_cp3_q4_s30,343",detail,ラカム,俺のせいだ……<br>俺があのとき……<br>脱出艇に乗るのを、躊躇わなければ……
+Japanese,"scene_cp3_q4_s30,343",detail,ラカム,そうすりゃいまごろ、<br>みんなは、<br>隣の群島にでも避難できてたはずだ……
+Japanese,"scene_cp3_q4_s30,343",detail,ビィ,やめろラカム！<br>んなこと言ったって、しょうがねぇぜ！
+Japanese,"scene_cp3_q4_s30,343",detail,ラカム,みんな、俺に命を預ける覚悟を<br>してくれたってのに……<br>俺があいつらの想いを台無しに……
+Japanese,"scene_cp3_q4_s30,343",detail,ラカム,くそっ！<br>これで本当にお終いだってのか！？<br>何か方法はねぇのか！？
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,守り神とまで称される星晶獣相手では、<br>私達にいったい、何ができるか……
+Japanese,"scene_cp3_q4_s30,343",detail,ルリア,できます……まだ希望はあります。
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,ルリア……？
+Japanese,"scene_cp3_q4_s30,343",detail,ルリア,まだ私がいます……<br>ねぇ、カタリナ？ そうだよね？
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,そうか……！<br>……い、いや、しかし、<br>その力にはどんな影響があるか……
+Japanese,"scene_cp3_q4_s30,343",detail,ラカム,おい、どういうことだ……？
+Japanese,"scene_cp3_q4_s30,343",detail,ルリア,私が……<br>ずっと帝国に囚われていた理由です。
+Japanese,"scene_cp3_q4_s30,343",detail,ルリア,私には……星晶獣を従える力がある。
+Japanese,"scene_cp3_q4_s30,343",detail,ビィ,ちょ、ちょっと待てよ！<br>星晶獣は自分達の作り手である<br><span class='scene-font-spword'>星の民</span>にしか従わねぇんじゃねーのか？
+Japanese,"scene_cp3_q4_s30,343",detail,ラカム,ああ……それに、<span class='scene-font-spword'>星の民</span>はもう、<br>何百年も前の覇空戦争で姿を消して<br>子孫はいないって聞いてるぜ？
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,ルリアは、<span class='scene-font-spword'>星の民</span>の子孫ではないよ。<br>……おそらくな。
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,理由も原理もわからない……<br>しかし、ルリアには確かに、<br>そういう力がある。
+Japanese,"scene_cp3_q4_s30,343",detail,ビィ,あ！ なぁ、[ジータ]！<br><span class='scene-font-place'>ザンクティンゼル</span>で現れた星晶獣も、<br>もしかして……
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,その可能性はある……<br>しかし、これは謎の多い力なんだ。<br>結局、帝国も何も解明できなかった。
+Japanese,"scene_cp3_q4_s30,343",detail,カタリナ,そんな力を多用すれば、<br>ルリアにどんな影響があるか……
+Japanese,"scene_cp3_q4_s30,343",detail,ルリア,私は大丈夫。<br>だって、みんなが……<br>[ジータ]が居てくれるから……
+Japanese,"scene_cp3_q4_s30,343",detail,ルリア,行きましょう、ラカムさん。<br>風の大星晶獣……<br>ティアマトを止めるために……！！
+Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>ルリアの決意に、</span><br><span class='scene-font-katari'>一筋の希望の光が差し込む。</span>
+Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>その輝きを頼りに、</span><br><span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>ティアマトの元へと向かう。</span>
+!프롤로그
+0,"scene_evt200515_cp0_q1,1",今日はお疲れ様でした。<br>明日の撮影もよろしくお願いします。,오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
+1,"scene_evt200515_cp0_q1,1",…………,…………
+2,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楽屋に入り、ホッと溜め息をつく</span><br><span class=""scene-font-katari"">ボブヘアの女性。</span>","<span class=""scene-font-katari"">분장실에 들어가、휴우 하고 한숨을 짓는</span><br><span class=""scene-font-katari"">보브 헤어의 여성.</span>"
+3,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">彼女はアイドル・高垣楓。</span><br><span class=""scene-font-katari"">今日は映画の撮影のため、</span><br><span class=""scene-font-katari"">都内のスタジオを訪れていた。</span>","<span class=""scene-font-katari"">그녀는 아이돌・타카가키 카에데.</span><br><span class=""scene-font-katari"">오늘은 영화촬영을 위해、</span><br><span class=""scene-font-katari"">도내의 스튜디오에 방문했다.</span>"
+4,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（今日の撮影は</span><span class=""scene-font-spword"">“ハード”</span><span class=""scene-font-kokoro"">だったわ。</span><br><span class=""scene-font-kokoro"">だから</span><span class=""scene-font-spword"">“ハート”</span><span class=""scene-font-kokoro"">もクタクタ……ふふっ）</span>","<span class=""scene-font-kokoro"">（오늘 촬영은</span><span class=""scene-font-spword"">“하드”</span><span class=""scene-font-kokoro"">했었네.</span><br><span class=""scene-font-kokoro"">그러니까</span><span class=""scene-font-spword"">“하트”</span><span class=""scene-font-kokoro"">도 녹초……후훗）</span>"
+5,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（卯月ちゃんたちの撮影も</span><br><span class=""scene-font-kokoro"">もうすぐ終わるって話だったから、</span><br><span class=""scene-font-kokoro"">少し楽屋で待たせてもらおうかしら）</span>","<span class=""scene-font-kokoro"">（우즈키네의 촬영도</span><br><span class=""scene-font-kokoro"">이제 곧 끝난다고 했으니까、</span><br><span class=""scene-font-kokoro"">조금 분장실에서 기다려볼까?）</span>"
+6,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は今日の撮影後に共演者である</span><br><span class=""scene-font-katari"">卯月、凛、未央の３人と</span><br><span class=""scene-font-katari"">夕食に行く約束をしていた。</span>","<span class=""scene-font-katari"">카에데는 오늘 촬영 후에 조연인</span><br><span class=""scene-font-katari"">우즈키、린、미오 3명과 함께 </span><br><span class=""scene-font-katari"">저녁 식사를 할 약속을 하고 있었다.</span>"
+7,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">撮影スケジュールの都合で楓だけ</span><br><span class=""scene-font-katari"">早く今日の分を撮り終えたため、</span><br><span class=""scene-font-katari"">先に楽屋に戻ってきたのだった。</span>","<span class=""scene-font-katari"">촬영 스케쥴 상、 카에데만</span><br><span class=""scene-font-katari"">먼저 오늘 분의 촬영을 끝냈기 때문에、</span><br><span class=""scene-font-katari"">먼저 분장실로 돌아와 있었다.</span>"
+8,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（プロデューサーはまた</span><br><span class=""scene-font-kokoro"">打ち合わせだって言っていたし</span><br><span class=""scene-font-kokoro"">夕食会には間に合うといいけど……）</span>","<span class=""scene-font-kokoro"">（프로듀서는 또</span><br><span class=""scene-font-kokoro"">회의가 있다고 했었지</span><br><span class=""scene-font-kokoro"">저녁 식사 전에 끝나면 좋겠는데……）</span>"
+9,"scene_evt200515_cp0_q1,1",あら？,응？
+10,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は机の隅に自分宛の小包が</span><br><span class=""scene-font-katari"">置いてあることに気づく。</span>","<span class=""scene-font-katari"">카에데는 책상 구석에 자신에게 온 소포가</span><br><span class=""scene-font-katari"">있다는 것을 깨달았다.</span>"
+11,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（差出人は先月CMに</span><br><span class=""scene-font-kokoro"">出させていただいたジュースの</span><br><span class=""scene-font-kokoro"">メーカーさんの……）</span>","<span class=""scene-font-kokoro"">（보낸 사람은 지난 달 CM을</span><br><span class=""scene-font-kokoro"">촬영 했던 쥬스</span><br><span class=""scene-font-kokoro"">메이커의……）</span>"
+12,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（そういえば今回の映画の</span><br><span class=""scene-font-kokoro"">スポンサーにも入っていたような。</span><br><span class=""scene-font-kokoro"">それで差し入れをくださったのね）</span>","<span class=""scene-font-kokoro"">（그러고보니 이번 영화 </span><br><span class=""scene-font-kokoro"">스폰서에도 있었던 것 같아.</span><br><span class=""scene-font-kokoro"">그래서 격려 선물을 준 거구나.）</span>"
+13,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓が包みを開けると、</span><br><span class=""scene-font-katari"">紙箱の中に缶飲料が</span><br><span class=""scene-font-katari"">びっしりと詰まっていた。</span>","<span class=""scene-font-katari"">카에데가 소포를 열어보니、</span><br><span class=""scene-font-katari"">종이 상자 안에 캔음료가</span><br><span class=""scene-font-katari"">빽빽하게 차 있었다.</span>"
+14,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（缶のパッケージが前と違うけど、</span><br><span class=""scene-font-kokoro"">リニューアルしたのかしら？</span><br><span class=""scene-font-kokoro"">ふふっ、家のカーテンと同じ色……♪）</span>","<span class=""scene-font-kokoro"">（캔 패키지가 예전과 다른데、</span><br><span class=""scene-font-kokoro"">리뉴얼 한 걸까?</span><br><span class=""scene-font-kokoro"">후훗、집의 커튼이랑 같은 색……♪）</span>"
+15,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（これ、とっても美味しかったから</span><br><span class=""scene-font-kokoro"">卯月ちゃんたちやプロデューサーにも</span><br><span class=""scene-font-kokoro"">お裾分けしようかしら）</span>","<span class=""scene-font-kokoro"">（이거、정말로 맛있었었지</span><br><span class=""scene-font-kokoro"">우즈키나 프로듀서에게도</span><br><span class=""scene-font-kokoro"">나눠줄까?）</span>"
+16,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は均等に渡せる数を計算するため</span><br><span class=""scene-font-katari"">缶の個数を確認する。</span>","<span class=""scene-font-katari"">카에데는 균등하게 나눠줄 수를 세기 위해</span><br><span class=""scene-font-katari"">캔의 개수를 확인한다.</span>"
+17,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（ひとり２本はありそう。</span><br><span class=""scene-font-kokoro"">それなら私の分の１本はお先に……）</span>","<span class=""scene-font-kokoro"">（한명당 2개는 줄 수 있겠네.</span><br><span class=""scene-font-kokoro"">그러면 내 몫인 하나를 먼저……）</span>"
+18,"scene_evt200515_cp0_q1,1",ごくごく……,꿀꺽꿀꺽……
+19,"scene_evt200515_cp0_q1,1",はぁっ！<br>前飲んだのとは違うフレーバーだわ！<br>とっても美味しい……,하아！<br>전에 마셨던 것과는 다른 향이었네！<br>정말로 맛있어……
+20,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">撮影直後で喉が渇いていたこともあり、</span><br><span class=""scene-font-katari"">楓はあっという間に</span><br><span class=""scene-font-katari"">缶の中身を飲み干す。</span>","<span class=""scene-font-katari"">촬영 직후에 목이 말랐던 것도 있어、</span><br><span class=""scene-font-katari"">카에데는 눈 깜짝할 사이에</span><br><span class=""scene-font-katari"">캔의 내용물을 다 마셔버렸다.</span>"
+21,"scene_evt200515_cp0_q1,1",ふふっ、これは<br>なんていう味のジュースかしら？<br>まるでカクテルみたいに色々な味が……,후훗、이건<br>무슨 맛의 쥬스일까?<br>마치 칵테일 같은 다양한 맛이……
+22,"scene_evt200515_cp0_q1,1",って、よく見たら本当にお酒……？,응?、잘 보니 정말로 술……？
+23,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">ジュースのパッケージを</span><br><span class=""scene-font-katari"">改めてよく見ると、</span><br><span class=""scene-font-katari"">そこには「お酒」の文字があった。</span>","<span class=""scene-font-katari"">쥬스의 패키지를</span><br><span class=""scene-font-katari"">다시 자세히 살펴보니、</span><br><span class=""scene-font-katari"">거기엔 「술」이라는 글자가 적혀져있었다.</span>"
+24,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（前に出させていただいたのは</span><br><span class=""scene-font-kokoro"">ジュースのCMだったのに、</span><br><span class=""scene-font-kokoro"">どうしてお酒が届いたのかしら？）</span>","<span class=""scene-font-kokoro"">（전에 촬영했던 것은</span><br><span class=""scene-font-kokoro"">쥬스의 CM이었는데、</span><br><span class=""scene-font-kokoro"">어째서 술을 받은걸까？）</span>"
+25,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（ひょっとして、スポンサーさんが</span><br><span class=""scene-font-kokoro"">私がお酒好きなのを知って、</span><br><span class=""scene-font-kokoro"">わざわざカクテルを贈ってくれたの？）</span>","<span class=""scene-font-kokoro"">（혹시、스폰서씨가</span><br><span class=""scene-font-kokoro"">내가 애주가라는 것을 알고、</span><br><span class=""scene-font-kokoro"">일부러 칵테일을 보내준거야？）</span>"
+26,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（嬉しい……</span><br><span class=""scene-font-kokoro"">あとでスポンサーさんに</span><br><span class=""scene-font-kokoro"">お礼を言わなくちゃ）</span>","<span class=""scene-font-kokoro"">（기뻐……</span><br><span class=""scene-font-kokoro"">나중에 스폰서씨에게</span><br><span class=""scene-font-kokoro"">꼭 고맙다고 해야지）</span>"
+27,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（卯月ちゃんたちにはお預けだけど、</span><br><span class=""scene-font-kokoro"">その分プロデューサーには</span><br><span class=""scene-font-kokoro"">沢山お裾分けしてあげましょうね♪）</span>","<span class=""scene-font-kokoro"">（우즈키네한테는 못주겠지만、</span><br><span class=""scene-font-kokoro"">그만큼 프로듀서에게는</span><br><span class=""scene-font-kokoro"">잔뜩 나눠줘야겠네♪）</span>"
+28,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">楓は空にした缶を</span><br><span class=""scene-font-katari"">机に貼りつけられたゴミ袋に捨てる。</span>","<span class=""scene-font-katari"">카에데는 빈 캔을</span><br><span class=""scene-font-katari"">책상에 붙어있는 쓰레기봉투에 버렸다.</span>"
+29,"scene_evt200515_cp0_q1,1",ふわぁ……,후아……
+30,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（もう酔いが回ってきたみたい。</span><br><span class=""scene-font-kokoro"">そんなに度数は高くなかったはずだけど</span><br><span class=""scene-font-kokoro"">思っていたより疲れていたんだわ）</span>","<span class=""scene-font-kokoro"">（벌써 취기가 오는 것 같아.</span><br><span class=""scene-font-kokoro"">그렇게 도수는 높지 않았던 것 같은데</span><br><span class=""scene-font-kokoro"">생각보다 지쳤었나보네）</span>"
+31,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">眠気を催した楓はパイプ椅子に座ると、</span><br><span class=""scene-font-katari"">机に突っ伏してしまう。</span>","<span class=""scene-font-katari"">잠기운이 온 카에데는 파이프 의자에 앉아서、</span><br><span class=""scene-font-katari"">책상 푹 엎드려 버렸다.</span>"
+32,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（なんだかいい気持ち……</span><br><span class=""scene-font-kokoro"">卯月ちゃんたちが戻ってくるまで、</span><br><span class=""scene-font-kokoro"">ほんの少し、だけ……）</span>","<span class=""scene-font-kokoro"">（왠지 좋은 기분……</span><br><span class=""scene-font-kokoro"">우즈키네가 돌아올 때 까지、</span><br><span class=""scene-font-kokoro"">아주 잠깐、만……）</span>"
+33,"scene_evt200515_cp0_q1,1",すぅ……すぅ……,스……스……
+34,"scene_evt200515_cp0_q1,1",う……ん…………<br>…………鳥の、声？,으……응…………<br>…………새、소리？
+35,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（あれ……？</span><br><span class=""scene-font-kokoro"">……どうして私、森にいるの？）</span>","<span class=""scene-font-kokoro"">（어라……？</span><br><span class=""scene-font-kokoro"">……어째서 나、숲에 있는거야？）</span>"
+36,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（しかも私が着ているのって</span><br><span class=""scene-font-kokoro"">撮影用の衣装よね？　さっき着替えて</span><br><span class=""scene-font-kokoro"">衣装さんに返したはずなのに……）</span>","<span class=""scene-font-kokoro"">（게다가 내가 입고있는 옷 이거</span><br><span class=""scene-font-kokoro"">촬영용 의상이지?　조금전에 갈아입고</span><br><span class=""scene-font-kokoro"">의상담당씨에게 돌려줬을텐데……）</span>"
+37,"scene_evt200515_cp0_q1,1",あら？,어머?
+38,"scene_evt200515_cp0_q1,1",ピーニャッ、ピーニャッ……,삐-냣、삐-냣……
+39,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">奇妙な声のする方を見てみると、</span><br><span class=""scene-font-katari"">黒い翼を生やした謎の生物が</span><br><span class=""scene-font-katari"">何かを呟きながら本をめくっていた。</span>","<span class=""scene-font-katari"">기묘한 소리가 나는 쪽을 바라보니、</span><br><span class=""scene-font-katari"">검은색 날개가 난 수수께끼의 생물이</span><br><span class=""scene-font-katari"">무언가를 중얼거리며 책을 넘기고 있었다.</span>"
+40,"scene_evt200515_cp0_q1,1","<span class=""scene-font-kokoro"">（着ぐるみかしら？</span><br><span class=""scene-font-kokoro"">あの丸っとしたフォルム、</span><br><span class=""scene-font-kokoro"">どこかで見たことがあるような……）</span>","<span class=""scene-font-kokoro"">（인형옷일까?</span><br><span class=""scene-font-kokoro"">저 동그란 구조、</span><br><span class=""scene-font-kokoro"">어디에선가 본 적이 있는 것 같은……）</span>"
+41,"scene_evt200515_cp0_q1,1","ピーニャッ、ピーニャッ……<br><span class=""scene-font-4"">……ピニャッ！</span>","삐-냣、삐-냣……<br><span class=""scene-font-4"">……삐냣！</span>"
+42,"scene_evt200515_cp0_q1,1",ピニャニャピニャ、ピーニャピニャッ！<br>ピニャニャピニャ、ピーニャピニャッ！,삐냐냐삐냐、삐-냐삐냣！<br>삐냐냐삐냐、삐-냐삐냣！
+43,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャアッ！</span>","<span class=""scene-font-4"">삐냐앗！</span>"
+44,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャアッ！</span>","<span class=""scene-font-4"">삐냐앗！</span>"
+45,"scene_evt200515_cp0_q1,1",えっ？,응？
+46,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">黒い翼の生物が何かを唱えると、</span><br><span class=""scene-font-katari"">持っていた本から次々と</span><br><span class=""scene-font-katari"">新たな黒い翼の生物が飛び出してくる。</span>","<span class=""scene-font-katari"">검은 날개가 난 생물이 무언가 외치니、</span><br><span class=""scene-font-katari"">가지고있던 책으로부터 차례차례로</span><br><span class=""scene-font-katari"">새로운 검은 날개의 생물이 튀어나온다.</span>"
+47,"scene_evt200515_cp0_q1,1",ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+48,"scene_evt200515_cp0_q1,1",まぁ……,어머……
+49,"scene_evt200515_cp0_q1,1",ピニャピニャピニャピニャピニャピニャ<br>ピニャピニャピニャピニャピニャ……,삐냐삐냐삐냐삐냐삐냐삐냐<br>삐냐삐냐삐냐삐냐삐냐……
+50,"scene_evt200515_cp0_q1,1",…………,…………
+51,"scene_evt200515_cp0_q1,1",えっと……<br>これはどういう状況なのかしら？<br>びっくり手品ショー？,음……<br>이건 어떤 상황인걸까？<br>깜짝 마술쇼？
+52,"scene_evt200515_cp0_q1,1",ピ……ピィィ……,삐……삐이이……
+53,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ビニャァァアアアーーー！！！</span>","<span class=""scene-font-4"">삐냐아아아아아아ーーー！！！</span>"
+54,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">おしくらまんじゅう状態にあった</span><br><span class=""scene-font-katari"">黒い翼の生物が同じ姿の仲間たちを</span><br><span class=""scene-font-katari"">一気に押し返す。</span>","<span class=""scene-font-katari"">동그랗게 뭉쳐있던</span><br><span class=""scene-font-katari"">검은 날개의 생물이 같은 모습의 동료들을</span><br><span class=""scene-font-katari"">한번에 되밀쳤다.</span>"
+55,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">その拍子に持っていた本が</span><br><span class=""scene-font-katari"">手から飛び出し、楓の前に落ちた。</span>","<span class=""scene-font-katari"">그 박자에 가지고 있던 책이</span><br><span class=""scene-font-katari"">손으로 부터 떨어져나가、카에데 앞에 떨어졌다.</span>"
+56,"scene_evt200515_cp0_q1,1",この本、マジック道具かしら？,이 책、마술도구인걸까?
+57,"scene_evt200515_cp0_q1,1",こんなに小さな本から<br>あんなに沢山出てくるなんて、<br>一体どんな仕掛けなんでしょう？,이렇게 작은 책에서<br> 저렇게 많이 나오다니、<br>대체 어떤 장치지?
+58,"scene_evt200515_cp0_q1,1",ピニャッ？　ピニャッ？,삐냣？　삐냣？
+59,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャアーーー！！</span>","<span class=""scene-font-4"">삐냐아ーーー！！</span>"
+60,"scene_evt200515_cp0_q1,1",え？,응？
+61,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">黒い翼の生物が楓の方を指差し、</span><br><span class=""scene-font-katari"">激怒したように地団太を踏み、</span><br><span class=""scene-font-katari"">声を荒げる。</span>","<span class=""scene-font-katari"">검은 날개의 생물이 카에데 쪽을 가리키며、</span><br><span class=""scene-font-katari"">격노한 것 처럼 발을 동동 구르며、</span><br><span class=""scene-font-katari"">언성을 높였다.</span>"
+62,"scene_evt200515_cp0_q1,1","ピニャァア……<br><span class=""scene-font-4"">ピニャァァアアアーー！！</span>","삐냐아아……<br><span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+63,"scene_evt200515_cp0_q1,1",きゃっ……！,꺗……！
+64,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">危なーい！</span>","<span class=""scene-font-4"">위험해！</span>"
+65,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャッ！？</span>","<span class=""scene-font-4"">삐냣！？</span>"
+66,"scene_evt200515_cp0_q1,1",大丈夫？,괜찮아？
+67,"scene_evt200515_cp0_q1,1",って、かえ姉さま！？<br>楓さんがどうして！？,엣、카에언니！？<br>카에데씨가 어째서！？
+68,"scene_evt200515_cp0_q1,1",未央ちゃん……？<br>それに卯月ちゃんと凛ちゃんも。,미오……？<br>거기에 우즈키와 린도.
+69,"scene_evt200515_cp0_q1,1","<span class=""scene-font-4"">ピニャァァアアアーー！！</span>","<span class=""scene-font-4"">삐냐아아아아아ーー！！</span>"
+70,"scene_evt200515_cp0_q1,1",向こうはやる気みたい。<br>卯月、未央、さっさと片づけよう。,저쪽은 한바탕 해 볼 생각인 것 같아.<br>우즈키、미오、빨리 정리해버리자.
+71,"scene_evt200515_cp0_q1,1","わかりました！<br><span class=""scene-font-4"">えーいっ！</span>","알겠어！<br><span class=""scene-font-4"">에-잇！</span>"
+72,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">颯爽と現れた卯月、凛、未央は</span><br><span class=""scene-font-katari"">息の合った連係プレーで次々と</span><br><span class=""scene-font-katari"">黒い翼の生物たちを追い払っていく。</span>","<span class=""scene-font-katari"">씩씩하게 등장한 우즈키、린、미오는</span><br><span class=""scene-font-katari"">합이 맞은 연계 플레이로 차례차례</span><br><span class=""scene-font-katari"">검은 날개의 생물들을 쓰려뜨려간다.</span>"
+73,"scene_evt200515_cp0_q1,1","ピニャア……<br><span class=""scene-font-4"">ニャピッピィーー！！</span>","삐냐아……<br><span class=""scene-font-4"">냐삣삐이ーー！！</span>"
+74,"scene_evt200515_cp0_q1,1",ふぅ……<br>数は多かったけど、<br>大した敵じゃなくてよかったぁ！,후우……<br>수는 많았지만、<br>대단한 적은 아니어서 다행이었어！
+75,"scene_evt200515_cp0_q1,1",卯月ちゃんたちも衣装を着てる……<br>ということは、ここは撮影現場なのね？,우즈키네도 의상을 입고있어……<br>라는 건、여기는 촬영현장인거네？
+76,"scene_evt200515_cp0_q1,1",撮影の邪魔をしてごめんなさい。<br>すぐに楽屋へ戻るわ。,촬영에 방해를 해서 미안.<br>바로 분장실로 돌아갈게.
+77,"scene_evt200515_cp0_q1,1",えっ、撮影……？<br>楓さん、何の話？,응、촬영……？<br>카에데씨、무슨 이야기？
+78,"scene_evt200515_cp0_q1,1",おーい！　大丈夫か？,어-이！　괜찮아？
+79,"scene_evt200515_cp0_q1,1",って、誰だ、この姉ちゃん？,응?、누구야、그 누님은？
+80,"scene_evt200515_cp0_q1,1",まぁ、よくできたぬいぐるみ！<br>上手にお喋りできるのね！,어머、잘 만들어진 인형！<br>능숙하게 말할 수 있네！
+81,"scene_evt200515_cp0_q1,1",んなっ！<br>オイラはぬいぐるみじゃねぇ！<br>ドラゴンだぞ！,뭐라구！<br>이몸은 인형이 아냐！<br>드래곤이라구！
+82,"scene_evt200515_cp0_q1,1",撮影……楽屋……<br>ぬいぐるみと勘違い……<br>これって……,촬영……분장실……<br>인형으로 착각……<br>이건……
+83,"scene_evt200515_cp0_q1,1",私たちがこの世界に来た直後と<br>同じこと言ってるよね？<br>楓さん、いまこっちに来たのかな？,우리들이 이 세계에 왔던 직후와<br>같은 이야기들을 하고 있지？<br>카에데씨、지금 이쪽으로 온걸까？
+84,"scene_evt200515_cp0_q1,1",そうかもしれません。<br>私たちのこと、勘違いしてるのかも……,그럴지도 몰라.<br>우리들에 대해、오해하고 있을지도……
+85,"scene_evt200515_cp0_q1,1",あの、３人とも、<br>なんの話をしてるのかしら？<br>撮影中、なんですよね……？,저기、세명 모두、<br>무슨 이야기 하고 있는걸까？<br>촬영중、이지……？
+86,"scene_evt200515_cp0_q1,1",……言うしかないか。,……말할 수 밖에 없나.
+87,"scene_evt200515_cp0_q1,1",楓さん、落ち着いて聞いてください。<br>ここは私たちが元いた場所とは別の、<br>異世界なんです。,카에데씨、침착하고 들어주세요.<br>여기는 우리들이 원래 있던 장소와는 다른、<br>이세계입니다.。
+88,"scene_evt200515_cp0_q1,1",異世界……？<br>……え？,이세계……？<br>……응？
+89,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">突如空の世界に</span><br><span class=""scene-font-katari"">迷い込んで来てしまった楓。</span>","<span class=""scene-font-katari"">돌연 하늘의 세계에</span><br><span class=""scene-font-katari"">헤메어 들어오게 된 카에데.</span>"
+90,"scene_evt200515_cp0_q1,1","<span class=""scene-font-katari"">果たして異世界の地で</span><br><span class=""scene-font-katari"">彼女を待ち受けているものとは──？</span>","<span class=""scene-font-katari"">과연 이세계의 땅에서</span><br><span class=""scene-font-katari"">그녀를 기다리고 있던 것은──？</span>"
+Japanese,"scene_cp4_q1_s10,411",synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>[ジータ]</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。
+Japanese,"scene_cp4_q1_s10,411",detail,,<span class='scene-font-katari'>ルリアが感じるという、</span><br><span class='scene-font-katari'>星の力と星晶獣の息吹を頼りに、</span><br><span class='scene-font-katari'>[ジータ]は嵐の中を進む。</span>
+Japanese,"scene_cp4_q1_s10,411",detail,ルリア,近いです……どんどん強くなってる。
+Japanese,"scene_cp4_q1_s10,411",detail,ラカム,頼んだぜ、嬢ちゃん……<br>嬢ちゃんのことは、<br>俺が命をかけても守りぬくからよ！
+Japanese,"scene_cp4_q1_s10,411",detail,カタリナ,ふふっ、それは私の役目だぞ？
+Japanese,"scene_cp4_q1_s10,411",detail,ビィ,おいおい！<br>[ジータ]を忘れちゃ困るぜ！<br>意外に頼りになるんだからな！
+Japanese,"scene_cp4_q1_s10,411",sel1_txt,,<span class='scene-font-katari'>意外は余計だ</span>
+Japanese,"scene_cp4_q1_s10,411",sel2_txt,,<span class='scene-font-katari'>が、頑張ります……</span>
+Japanese,"scene_cp4_q1_s10,411",detail,ビィ,にゃはははっ！ 悪ぃ悪ぃ！<br>いまじゃすっかり、<br>頼れる戦士の顔つきだよな！
+Japanese,"scene_cp4_q1_s10,411",detail,ラカム,おいおい、そんなに縮こまるなよ。<br>[ジータ]は良い目をしてる……
+Japanese,"scene_cp4_q1_s10,411",detail,ラカム,[ジータ]はリーダーの素質があるぜ。<br>騎空団でも旗揚げすりゃ、<br>きっと頼れる団長になるさ。
+Japanese,"scene_cp4_q1_s10,411",detail,魔物,グオォォ！
+Japanese,"scene_cp4_q1_s10,411",detail,カタリナ,おっと、魔物のお出ましだな。<br>皆、気を引き締めていくぞ！
+Japanese,"scene_cp4_q1_s20,412",synopsis,,嵐の中を進む<span>[ジータ]</span>一行の前に、道を阻むように、再び帝国兵が立ちふさがる。
+Japanese,"scene_cp4_q1_s20,412",detail,ラカム,ちっ……<br>帝国の連中も<br>まだ俺達を邪魔するつもりみてぇだな。
+Japanese,"scene_cp4_q1_s20,412",detail,ビィ,魔物を倒したと思ったら、<br>今度は帝国の兵士か……！
+Japanese,"scene_cp4_q1_s20,412",detail,ビィ,しつこいというか……<br>仕事熱心というか……
+Japanese,"scene_cp4_q1_s20,412",detail,カタリナ,<span class='scene-font-place'>エルステ帝国</span>では、<br>上官の命令は絶対だからな。
+Japanese,"scene_cp4_q1_s20,412",detail,カタリナ,帝国の兵士よ……<br>私怨はないが、私達も退けないんだ。<br>手加減は期待するなよ……！
+Japanese,"scene_cp4_q2_s10,421",synopsis,,<span>[ジータ]</span>一行の前に再び姿を現すドランクとスツルム。ふたりは命を救われた礼として<span>[ジータ]</span>達だけなら嵐から逃がしてやると申し出るが、<span class='scene-font-place'>ポート・ブリーズ</span>を守る覚悟を固めたラカムはこれを拒否する。
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,<span class='scene-font-4'>――いやっほー！ おひさ～！</span>
+Japanese,"scene_cp4_q2_s10,421",detail,カタリナ,お前は……！<br>どうしてここに？<br>まさか、また私達を狙って……！？
+Japanese,"scene_cp4_q2_s10,421",detail,スツルム,違う……勘違いするな。
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,そうそう～<br>僕達さ、君らに命を救われてるじゃん？<br>だから、恩返しがしたくってさぁ～
+Japanese,"scene_cp4_q2_s10,421",detail,ルリア,そんな……あれはその、<br>恩を売るつもりじゃなくて、その……<br>ねぇ？ [ジータ]
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,ん～！ お嬢ちゃんは優しいねぇ！<br>優しい子には飴ちゃんを……
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,<span class='scene-font-4'>痛って！？</span><br>スツルム殿！ なんで刺すの！？
+Japanese,"scene_cp4_q2_s10,421",detail,スツルム,来い……今度はあたし達が、<br>お前らの命を助けてやる。
+Japanese,"scene_cp4_q2_s10,421",detail,ラカム,どういうことだ……？
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,いやね？<br>君達がやろうとしてることって、<br>どれだけ危ないかわかってる？
+Japanese,"scene_cp4_q2_s10,421",detail,カタリナ,危険性や、望みの薄さは<br>理解しているつもりだ……
+Japanese,"scene_cp4_q2_s10,421",detail,スツルム,理解できてない……<br>とても正気とは思えない。
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,そうそう、<br>そこで君達には恩があるからさ。
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,君達だけでも、<br>帝国の戦艦に密航させて、<br>逃がしてあげよっかな、って思ってね。
+Japanese,"scene_cp4_q2_s10,421",detail,ビィ,恩を返すって、そういうことか……
+Japanese,"scene_cp4_q2_s10,421",detail,ラカム,申し出はありがたいが……<br>もう俺らは逃げねぇよ、<br>なぁ？ [ジータ]もそうだろ？
+Japanese,"scene_cp4_q2_s10,421",detail,ラカム,守りたいものが増えちまったんだ。<br>グランサイファーだけじゃねぇ……<br>街の奴らも……この島も……
+Japanese,"scene_cp4_q2_s10,421",detail,ラカム,何一つ失いたくねぇ。<br>だから……俺はもう逃げやしねぇよ。
+Japanese,"scene_cp4_q2_s10,421",detail,カタリナ,同意だな……<br>非道が為されようとしているのに、<br>ただ見ているだけなど、性に合わない。
+Japanese,"scene_cp4_q2_s10,421",detail,ルリア,私達にはできることがあるんだから……<br>だから……頑張らなきゃ！
+Japanese,"scene_cp4_q2_s10,421",detail,スツルム,……馬鹿ばっかりだな。
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,とかなんとか言ってぇ～！<br>スツルム殿も嫌いじゃないでしょ？<br>こういう奴ら……
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,<span class='scene-font-4'>痛てッ！ 痛いって！</span>
+Japanese,"scene_cp4_q2_s10,421",detail,スツルム,だ、黙れ！<br>黙らないと、その口縫い合わせるぞ！
+Japanese,"scene_cp4_q2_s10,421",detail,カタリナ,ひとまずはそういうわけだ……<br>私達は先へ進むよ。
+Japanese,"scene_cp4_q2_s10,421",detail,スツルム,ふん……
+Japanese,"scene_cp4_q2_s10,421",detail,ドランク,うんうん、<br>それじゃ、僕達は逃げるけど、<br>頑張ってねぇ～！
+Japanese,"scene_cp4_q2_s10,421",detail,カタリナ,騒がしい連中だったな……
+Japanese,"scene_cp4_q2_s10,421",detail,ラカム,ああ、<br>ちょいと気が抜けちまったが、<br>ここからが本番だ……いくぞ！
+Japanese,"scene_cp4_q2_s20,422",synopsis,,星晶獣ティアマトの起こす嵐に、魔物達がより狂暴化していることにルリアが気づく。一層の用心をして、<span>[ジータ]</span>一行は先へ進む。
+Japanese,"scene_cp4_q2_s20,422",detail,ルリア,嵐のせいかな……<br>魔物さん達が、いつもより怖い……
+Japanese,"scene_cp4_q2_s20,422",detail,カタリナ,星晶獣の起こす嵐だ……<br>瘴流域に近い力を、<br>持っているのかもしれないな。
+Japanese,"scene_cp4_q2_s20,422",detail,ビィ,街に居る連中も危ねーかもしれないな！<br>急ごうぜ！
+Japanese,"scene_cp4_q2_s20,422",detail,ラカム,ああ、時間がねぇのは、百も承知だ。<br>魔物なんぞ、さっさとブッ飛ばすぞ！
+Japanese,"scene_cp4_q3_s10,431",synopsis,,最もティアマトの気配が強いという場所にたどり着く<span>[ジータ]</span>一行。しかし、そこに嵐の大星晶獣の姿はなく、待ち構えていたフュリアスによって、ティアマト暴走の原因を告げられる。
+Japanese,"scene_cp4_q3_s10,431",detail,ルリア,――ここ、ここが一番、<br>ティアマトの気配が強い……
+Japanese,"scene_cp4_q3_s10,431",detail,ラカム,ここって……<br>おいおい、マジかよ？
+Japanese,"scene_cp4_q3_s10,431",detail,,<span class='scene-font-katari'>ルリアの力を頼りに辿り着いたのは、</span><br><span class='scene-font-katari'>騎空艇グランサイファーの</span><br><span class='scene-font-katari'>鎮座する草原だった。</span>
+Japanese,"scene_cp4_q3_s10,431",detail,ビィ,んー、でもよぅ、<br>ここ、グランサイファー以外には、<br>なんにも……
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,あれれ～？<br>なんだい、君ら、<br>まさかティアマトを止めに来たの？
+Japanese,"scene_cp4_q3_s10,431",detail,ラカム,帝国の……！？<br>てめぇ、ここで何してやがる！？
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,なんだっていいだろ……<br>そんなことより、<br>君達はまだ抵抗するわけ？
+Japanese,"scene_cp4_q3_s10,431",detail,カタリナ,当たり前だ……<br>この状況を、<br>放っておけるわけがないだろう。
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,ふぅーん……<br>言っておくけどさぁ、<br>これは自業自得なんだよ？
+Japanese,"scene_cp4_q3_s10,431",detail,ビィ,自業自得だって！？<br>お前らがティアマトを、<br>暴走させたんじゃねーのかよ！
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,そうだね……それは間違いない。<br>ただ、ボクは引き金を引いただけだ。<br>弾はすでに込められてたんだよ。
+Japanese,"scene_cp4_q3_s10,431",detail,カタリナ,どういうことだ……<br>貴様、何が言いたい！？
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,ティアマトはすでに、<br>限界だったってことさ。
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,この群島の連中は、<br>昔っから豊かな風の恩恵を受けてきた。
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,けどね……<br>それは無償のものじゃなかったんだ。
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,その代償は支払われぬまま、<br>ティアマトの中に溜まっていった……<br>ずっと前から危うい状態だったんだ。
+Japanese,"scene_cp4_q3_s10,431",detail,ルリア,そこを……帝国が……
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,ま、そんなとこだね。<br>ボクはもうウチの戦艦で逃げるけど……
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,それでも、もしティアマトを<br>止めるって言うなら……
+Japanese,"scene_cp4_q3_s10,431",detail,フュリアス,<span class='scene-font-4'>ふぎゅッ！？</span>
+Japanese,"scene_cp4_q3_s10,431",detail,ラカム,長々とうるせぇんだよ、てめぇは。
+Japanese,"scene_cp4_q3_s10,431",detail,ラカム,どんな事情があろうと、<br>俺はもう決めたんだ……<br>この島を……街の連中を守るってな！！
+Japanese,"scene_cp4_q3_s10,431",detail,ラカム,後戻りはしねぇ！<br>邪魔をするってんなら、<br>片っ端から俺が撃ち抜いてやるぜ！
+Japanese,"scene_cp4_q3_s20,432",synopsis,,ティアマトの気配を探るが、なかなかその姿を見つけることができない。そんな中、ティアマトは地上ではなく空にいるのではないかとルリアが気づく。
+Japanese,"scene_cp4_q3_s20,432",detail,カタリナ,グランサイファーの周りの兵士は、<br>これで粗方片付いたか？
+Japanese,"scene_cp4_q3_s20,432",detail,ビィ,け、けどよぅ……<br>これだけ動き回っても、<br>やっぱりティアマトなんて居ないぜ？
+Japanese,"scene_cp4_q3_s20,432",detail,ルリア,あ、あの……その……<br>も、もしかしてなんですけど……
+Japanese,"scene_cp4_q3_s20,432",detail,ビィ,ん？ なんだよ、ルリア。
+Japanese,"scene_cp4_q3_s20,432",detail,ルリア,もしかしてティアマトは……<br>上に居るんじゃないでしょうか……
+Japanese,"scene_cp4_q3_s20,432",detail,ラカム,上……？<br>
+Japanese,"scene_cp4_q3_s20,432",detail,,――……
+Japanese,"scene_cp4_q3_s20,432",detail,ラカム,まさか、空か！？
+Japanese,"scene_cp4_q3_s20,432",detail,カタリナ,確かめよう……<br>そのためにはまず、<br>帝国の兵士どもを蹴散らすぞ！！
+Japanese,"scene_cp4_q4_s10,441",synopsis,,空高くに座するティアマトに万策尽きたかと思われたその時、ついにラカムは再び舵を握る。呼応する騎空艇グランサイファーは再びその翼に風を受け、<span>[ジータ]</span>一行をティアマトの元へと導く。
+Japanese,"scene_cp4_q4_s10,441",detail,ルリア,ううん……やっぱり、<br>お空に居ると思います、ティアマト。
+Japanese,"scene_cp4_q4_s10,441",detail,カタリナ,空か……まいったな……<br>まさかここで、手詰まりになるとは……
+Japanese,"scene_cp4_q4_s10,441",detail,ラカム,いいや……まだ手はあるぜ！<br>みんな！ グランサイファーに乗れ！
+Japanese,"scene_cp4_q4_s10,441",detail,ビィ,乗ってみたけど……<br>なぁ、ラカム、<br>こいつ、飛べるのか？
+Japanese,"scene_cp4_q4_s10,441",detail,ビィ,この艇ってラカムが前に……
+Japanese,"scene_cp4_q4_s10,441",detail,ラカム,ああ……<br>前に俺が、墜落させちまった艇だ……
+Japanese,"scene_cp4_q4_s10,441",detail,ラカム,だがな、<br>俺が空を怖がってただけで、<br>こいつはずっと待ち続けてたんだ。
+Japanese,"scene_cp4_q4_s10,441",detail,ラカム,それを感じる……いまならわかる。<br>こいつは飛べるぜ……どこだろうとな！
+Japanese,"scene_cp4_q4_s10,441",detail,,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-katari'>ラカムは力強く舵を手に取る。</span>
+Japanese,"scene_cp4_q4_s10,441",detail,ラカム,悪ぃ……待たせたな。<br>俺は戻って来たぜ……<br>だから導けよ……俺を、この空に！！
+Japanese,"scene_cp4_q4_s10,441",detail,カタリナ,う、動き出した……！？
+Japanese,"scene_cp4_q4_s10,441",detail,ルリア,やった！<br>ラカムさんの想いが通じたんですね！
+Japanese,"scene_cp4_q4_s10,441",detail,ビィ,だな！<br>これでティアマトのとこまで、<br>一直線だぜ！
+Japanese,"scene_cp4_q4_s10,441",detail,ラカム,さぁ、待ってろよ、ティアマト！！<br><span class='scene-font-place'>ポート・ブリーズ</span>住人の底力、<br>見せてやるぜ！！
+Japanese,"scene_cp4_q4_s20,442",synopsis,,ついに<span>[ジータ]</span>一行は大星晶獣ティアマトと相対する。自我を失うまでに暴走したティアマトに、ラカムと<span>[ジータ]</span>達は最後の勝負を挑む。
+Japanese,"scene_cp4_q4_s20,442",detail,ティアマト,ガ……グ……
+Japanese,"scene_cp4_q4_s20,442",detail,カタリナ,これが……ティアマト……
+Japanese,"scene_cp4_q4_s20,442",detail,ルリア,そんな……<br>自我もほとんど失ってる……<br>ここまで暴走が激しいなんて……
+Japanese,"scene_cp4_q4_s20,442",detail,ルリア,このままじゃ……<br>とても私の力じゃ、どうにも……
+Japanese,"scene_cp4_q4_s20,442",detail,ビィ,んなっ！？<br>じゃ、じゃあ、<br>オイラ達はどうすりゃ……
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,心配すんな……<br>嬢ちゃん、ティアマトがもう少し<br>大人しくなりゃいいのか？
+Japanese,"scene_cp4_q4_s20,442",detail,ルリア,うん……<br>そうすれば、きっと……
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,なら、ここからは、<br>俺達の領分だな……
+Japanese,"scene_cp4_q4_s20,442",detail,カタリナ,ラカム！ どうするつもりだ！？<br>危険だ！ ティアマトに近づくな！
+Japanese,"scene_cp4_q4_s20,442",detail,ルリア,待ってカタリナ！<br>お願い……<br>ここはラカムさんに任せてあげて……！
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,なぁ、ティアマトよ……<br>聞いたぜ？ お前が暴走した理由。
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,<span class='scene-font-place'>ポート・ブリーズ</span>が<br>風に恵まれたのは、<br>全部お前のおかげだったんだってな。
+Japanese,"scene_cp4_q4_s20,442",detail,ティアマト,風……ワタシ、ノ……
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,迷信か何かだと思ってたぜ……<br>悪ぃな……確かに俺達は、<br>お前に対する感謝が足りなかった。
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,けどな……そうは言っても、<br>俺が……俺達が抱えてるもんは、<br>そう簡単に捨てられやしねぇんだ。
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,守りてぇ……<br>守らなきゃいけねぇもんがある。<br>だから俺はもう退かねぇよ。
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,逃げねぇし、退かねぇ……<br>後ずさりもしねぇ……<br>お互い、譲れないんだろ？
+Japanese,"scene_cp4_q4_s20,442",detail,ティアマト,…………
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,だったら……<br>ぶつかろうぜ、全力でさ。
+Japanese,"scene_cp4_q4_s20,442",detail,ラカム,やろうぜ……正々堂々真剣勝負だ！<br>神だか星晶獣だか知らねぇが、<br>遠慮なんかすんじゃねぇぞ！！
+Japanese,"scene_cp4_q4_s20,442",detail,ティアマト,<span class='scene-font-4'>グガ……ガアアァァアァッ！！</span>
+Japanese,"scene_cp4_q4_s30,443",synopsis,,ティアマトを治めた<span>[ジータ]</span>一行は、群島から手を振るシェロを見つけ、よろず屋に届けられたという手紙を受け取る。その手紙の内容に、今度は<span class='scene-font-place'>バルツ公国</span>へと針路を取る。
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,はぁ……はぁ……<br>ったく……<br>なかなかやるじゃねぇか……
+Japanese,"scene_cp4_q4_s30,443",detail,ルリア,もう、大丈夫です……<br>溢れていたティアマトの力は、<br>私が吸収しました……
+Japanese,"scene_cp4_q4_s30,443",detail,ルリア,これでティアマトは、<br>自分を取り戻すはずです……
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,……ん？<br>ルリア、<br>その手に持っているものはなんだ？
+Japanese,"scene_cp4_q4_s30,443",detail,ルリア,え？ あれ？<br>いつの間に……<br>なんだろう、これ……
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,こいつぁ……<span class='scene-font-spword'>空図の欠片</span>じゃねぇか！
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,前に[ジータ]の親父さんに<br>見せてもらったのと同じだ……<br>間違いねぇぜ！
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,これが<span class='scene-font-spword'>空図の欠片</span>……<br>これがあれば、<br>帝国の魔の手からルリアを……！
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,おっ！ 空が晴れてきたな！
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>雲の切れ間から差し込む光は、</span><br><span class='scene-font-katari'>天からの祝福のように、</span><br><span class='scene-font-katari'>グランサイファーを照らした。</span>
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,ふぅ……<br>これで一段落かな。<br>お疲れ様、[ジータ]
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,さて……それで？<br>お前らはどこに行きたいんだ？
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,お？ なんだよ、急に。<br>このまま、<br>連れてってくれるってのか？
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,まぁな……<br>やっぱり空は良いなぁ、って思ってよ。
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,お前らと一緒なら、<br>もう二度と<br>空を捨てずに済む気がするんだ。
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,それに、<br>グランサイファーも[ジータ]を、<br>気に入っちまったみてぇだしな。
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,こうなりゃ、この俺が責任もって、<br>どこへだって連れてってやるよ！！<br>それこそ空の果てまででもな！
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>ラカムの言葉に沸いた[ジータ]達は</span><br><span class='scene-font-katari'>遥かな空へと針路を向ける。</span>
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>街の上空を通りがかったその時、</span><br><span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>地上で手を振る小さな影を見つけた。</span>
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,んん？<br>ありゃあ、よろず屋じゃねぇか？
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,シェロが……？<br>あれ？ あいつ手に何か持ってるぜ？
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,何か用があるのかもしれない……<br>一度降りて、話を聞いてみよう。
+Japanese,"scene_cp4_q4_s30,443",detail,シェロカルテ,――いや～<br>今回のことは本当に助かりました～
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,いや、私達も帝国の非道を、<br>見過ごすことはできなかったからな……
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,ところで、<br>先ほど手を振っていたのは、<br>何かあったのか？
+Japanese,"scene_cp4_q4_s30,443",detail,シェロカルテ,そうそう～<br>[ジータ]さん宛てに<br>手紙を預かってたんですよ～
+Japanese,"scene_cp4_q4_s30,443",detail,ルリア,お手紙？<br>[ジータ]の故郷からでしょうか……
+Japanese,"scene_cp4_q4_s30,443",detail,シェロカルテ,いえ～<br>なんだか怪しい二人組が、<br>直接置いて行ったんです～
+Japanese,"scene_cp4_q4_s30,443",detail,シェロカルテ,なんでも、<br>恩返しだとかって～
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,恩返しって……<br>それじゃ、<br>あいつらからの手紙か？
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,さぁなぁ……<br>とりあえず、開けてみようぜ！
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>その手紙の内容は、</span><br><span class='scene-font-katari'>これ以上ないほど簡潔だった。</span>
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,<span class='scene-font-gray'>『</span><span class='scene-font-place'>バルツ公国</span><span class='scene-font-gray'>へ行け』</span>か……<br>なんだこりゃ？
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,<span class='scene-font-place'>バルツ公国</span>か……<br>確か、この近くのドラフの島だな。<br>鉄鋼業で栄えていたはずだ。
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,恩返しってこたぁ、<br>手紙の内容は、オイラ達にとって、<br>プラスになるってことだよな？
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,ってことは、<br><span class='scene-font-place'>バルツ</span>に向かったほうがいいのか？
+Japanese,"scene_cp4_q4_s30,443",detail,カタリナ,わからないな……<br>彼らをそこまで、<br>信用していいものか……
+Japanese,"scene_cp4_q4_s30,443",detail,ルリア,あの人達のことはわからないけど……<br>でも、このお手紙、気になりませんか？
+Japanese,"scene_cp4_q4_s30,443",detail,ビィ,そりゃぁ、こう書かれちゃなぁ……<br>[ジータ]も気になるだろ？
+Japanese,"scene_cp4_q4_s30,443",detail,ラカム,なら決まりだな！<br>空の旅ってのは、<br>好奇心で針路を決めるもんだぜ！
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>手紙の言葉に、</span><br><span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと舵を切る。</span>
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>そこでは、</span><br><span class='scene-font-katari'>空と星にまつわる更なる事件が、</span><br><span class='scene-font-katari'>[ジータ]を待ち受けるのだった。</span>
+Japanese,"scene_cp4_q4_s30,443",detail,スツルム,――以上が……今回の顛末です。<br>手紙は指示どおりに、<br>よろず屋に託してまいりました。
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,ご苦労……<br>ドランク、それでフュリアスの容体は？
+Japanese,"scene_cp4_q4_s30,443",detail,ドランク,問題ないみたいですねぇ～<br>いやぁ、魔晶ってすごいなぁ～！
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,当然だ……<br>無論、代償は伴うがな……
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,全ては順調に進んでいる。<br>計画が動き出した以上……<br>あとは時間の問題だ。
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,必ず……必ず取り返してみせる。<br>もうしばらくの辛抱だ……<br>待っていてくれ、オルキス……
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,…………
 !프롤로그
 0,"scene_evt200515_cp0_q1,1",今日はお疲れ様でした。<br>明日の撮影もよろしくお願いします。,오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
 1,"scene_evt200515_cp0_q1,1",…………,…………
@@ -1472,3 +1891,1156 @@ index,sceneCode,orig,kr
 24,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">独り言を呟き、</span><br><span class=""scene-font-katari"">楓はにっこりと笑顔を咲かせる。</span>"
 25,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">長く壮大な夢で得た不思議な経験は、</span><br><span class=""scene-font-katari"">今後の楓のアイドル活動にも大いに</span><br><span class=""scene-font-katari"">役立っていくの……かもしれない。</span>"
 26,"scene_k93tyq4nic_cp0_q3,1","<span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　</span><br><span class=""scene-font-katari"">　　　　　　　　　　　　──The END</span>"
+Japanese,"scene_tutorial00,011",synopsis,,父親の残した手紙に導かれ、空の果てへと旅立とうとする少女。しかし、時を同じくして村には戦艦が現れ、謎の少女が助けを求めてくる。
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>――神に見捨てられたその世界には、</span><br><span class='scene-font-katari'>一つの竜の姿があった。</span>
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>破壊による創造を司る竜、バハムートは</span><br><span class='scene-font-katari'>己が使命に従い、残された世界を</span><br><span class='scene-font-katari'>より芳醇なものへと進化させた。</span>
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>しかしそこへ、侵略者が現れる。</span><br><span class='scene-font-katari'>空の果て、彼方の世界より現れた彼らは、</span><br><span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>と呼ばれた。</span>
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>は星の獣、星晶獣を使い、</span><br><span class='scene-font-katari'>瞬く間に世界を手中に収め、</span><br><span class='scene-font-katari'>空は長らく星のものとなった。</span>
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>しかし、空の民は学び、</span><br><span class='scene-font-katari'>やがて驕る星より世界を取り戻す。</span><br><span class='scene-font-katari'>後にその争いは覇空戦争と呼ばれた――</span>
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>ここは、未完の大地が雲海を漂う</span><br><span class='scene-font-katari'>神に見捨てられし「空の世界」。</span>
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>いま始まる</span><br><span class='scene-font-katari'>空と星を巡る新たな物語。</span><br><span class='scene-font-katari'>遥かなる旅路、その門出に祝福を――</span>
+Japanese,"scene_tutorial00,011",detail,ビィ,――なぁなぁ。<br>オマエ、本当に<br>村を出るつもりなのかぁ？
+Japanese,"scene_tutorial00,011",detail,ビィ,いくら親父さんの手紙にあったからって<br>空の果てなんて、<br>そんな場所、辿りつけるわけ……
+Japanese,"scene_tutorial00,011",sel1_txt,,<span class='scene-font-katari'>きっと辿りつける</span>
+Japanese,"scene_tutorial00,011",sel2_txt,,<span class='scene-font-katari'>ちゃんと計画がある</span>
+Japanese,"scene_tutorial00,011",detail,ビィ,ああ……<span class='scene-font-spword'>完全なる空図</span>か？<br>あの何百年も前に、<br><span class='scene-font-spword'>星の民</span>が記したっていう……
+Japanese,"scene_tutorial00,011",detail,ビィ,そりゃあ、それがあれば、どこだって<br>行けるかもしれねーけどよぉ。<br>あんなもの、おとぎ話だぜ？
+Japanese,"scene_tutorial00,011",detail,ビィ,ま、言い出したら聞かないしなぁ。<br>こんな村でひっそり暮らしてるよりかは<br>全然面白そうだけどさ！ へへ。
+Japanese,"scene_tutorial00,011",detail,ビィ,ん……？<br>ま、待てまてまて！<br>なんだよ、ありゃあ！？
+Japanese,"scene_tutorial00,011",detail,ビィ,ありゃあ……どっかの国の戦艦か！？<br>なんだってこんなド田舎に！
+Japanese,"scene_tutorial00,011",detail,ビィ,んなっ！？ な、なんだぁ！？<br>いまなんか爆発したぞ！
+Japanese,"scene_tutorial00,011",detail,,──……
+Japanese,"scene_tutorial00,011",sel1_txt,,<span class='scene-font-katari'>いま、何か光った……</span>
+Japanese,"scene_tutorial00,011",detail,ビィ,なんだって？<br>火ぃついた軍艦の部品かなんかか？
+Japanese,"scene_tutorial00,011",detail,ビィ,それ……<br>もし燃えたまんま<br>森に落ちたんだとしたら……
+Japanese,"scene_tutorial00,011",sel1_txt,,<span class='scene-font-katari'>確かめよう！</span>
+Japanese,"scene_tutorial00,011",detail,ビィ,軍艦から何か落ちたんなら、<br>たぶん、この辺に……
+Japanese,"scene_tutorial00,011",detail,？？？,<span class='scene-font-4'>きゃあ！</span>
+Japanese,"scene_tutorial00,011",detail,謎の少女,いたた……
+Japanese,"scene_tutorial00,011",detail,謎の少女,…………！
+Japanese,"scene_tutorial00,011",detail,ビィ,な、なんだこの嬢ちゃん。<br>見た事ない顔だな……
+Japanese,"scene_tutorial00,011",sel1_txt,,<span class='scene-font-katari'>大丈夫？ 怪我はない？</span>
+Japanese,"scene_tutorial00,011",detail,謎の少女,……あ、あの！<br>た、助けてください！
+Japanese,"scene_tutorial00,011",detail,ビィ,お、おいおい……<br>一体全体どうしたってんだ？
+Japanese,"scene_tutorial00,011",detail,男の声,そこの者、止まれ！<br>剣を足元に置いて両手をあげろ！
+Japanese,"scene_tutorial00,011",detail,謎の少女,っ！！
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>少女を追って現れたのは、</span><br><span class='scene-font-katari'>武力で他の国々を支配しようとする</span><br><span class='scene-font-katari'>悪しき「エルステ帝国」の兵士だった。</span>
+Japanese,"scene_tutorial00,011",detail,ビィ,な、なんだてめぇら！<br>やるってぇのか！？
+Japanese,"scene_tutorial00,011",detail,帝国兵,命が惜しいなら、大人しく、<br>その少女をこちらに引き渡すことだ。
+Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>明らかな敵意と殺意に対し、</span><br><span class='scene-font-katari'>怯える少女は拒絶の意思を見せる。</span>
+Japanese,"scene_tutorial00,011",detail,謎の少女,い……いや……！
+Japanese,"scene_tutorial00,011",detail,帝国兵,さぁ、その少女を解放するんだ。<br>手荒な真似はしたくない。
+Japanese,"scene_tutorial00,011",sel1_txt,,<span class='scene-font-katari'>助けを求められて放っておけない！</span>
+Japanese,"scene_tutorial00,011",sel2_txt,,<span class='scene-font-katari'>信用できない！</span>
+Japanese,"scene_tutorial00,011",detail,ビィ,そうだそうだ！<br>勝手なことばっか言いやがって！<br>この娘、すげー怯えてるぞ！
+Japanese,"scene_tutorial00,011",detail,帝国兵,チッ……面倒だ、力づくでいくぞ。<br>ガキが後で後悔するなよ！
+Japanese,"scene_tutorial00,011",detail,,――――！
+Japanese,"scene_tutorial01,021",synopsis,,謎の少女、ルリアを追って、ふたりの軍人が姿を現す。女騎士であるカタリナはルリアを守ろうとするが、ポンメルン大尉は少女もろともルリアに危害を加えようとする。
+Japanese,"scene_tutorial01,021",detail,帝国兵,ぐは……ッ！<br>ガキのくせに、コイツ……！
+Japanese,"scene_tutorial01,021",detail,,…………
+Japanese,"scene_tutorial01,021",detail,ビィ,どうだッ！<br>さっすがだぜぇ～！<br>惚れ惚れする剣の腕だなぁ！
+Japanese,"scene_tutorial01,021",detail,帝国兵,クソッ……<br>このままで済むと思うな……！
+Japanese,"scene_tutorial01,021",detail,ビィ,仲間か！？<br>注意しろぉ！
+Japanese,"scene_tutorial01,021",detail,女騎士,<span class='scene-font-4'>――ルリアッ！ 無事か！？</span>
+Japanese,"scene_tutorial01,021",detail,謎の少女,カタリナ！<br>私……私……
+Japanese,"scene_tutorial01,021",detail,女騎士,怪我はないようだな。<br>君達がルリアを守ってくれたのか？
+Japanese,"scene_tutorial01,021",detail,ビィ,守るっつーか、なぁ？<br>あの兵士達、オイラ達のことも、<br>狙ってくるもんだから……
+Japanese,"scene_tutorial01,021",detail,謎の少女,あのね、あのね！<br>あの人、私を助けてくれて……<br>すっごくカッコ良かったんだよ！
+Japanese,"scene_tutorial01,021",detail,女騎士,そうか……<br>とにかく、無事で良かった。
+Japanese,"scene_tutorial01,021",detail,ビィ,んと、それでよぅ……<br>アンタらは一体なんなんだ？
+Japanese,"scene_tutorial01,021",detail,ビィ,さっきのヤツらの<br>仲間ってワケじゃあ<br>なさそうだけどよ。
+Japanese,"scene_tutorial01,021",detail,カタリナ,失礼した。<br>私は、カタリナ・アリゼと言う。
+Japanese,"scene_tutorial01,021",detail,カタリナ,この子はルリア。<br>助けてくれて感謝する。<br>私からも礼を言わせてくれ。
+Japanese,"scene_tutorial01,021",detail,カタリナ,君も……<br>よかったら名前を教えてくれないか。
+Japanese,"scene_tutorial01,021",detail,ビィ,オイラはビィってんだ！<br>で、二人はどっから来たんだ？<br>あの兵士に追われてんのか？
+Japanese,"scene_tutorial01,021",detail,ルリア,ど、どこから？<br>ええと……
+Japanese,"scene_tutorial01,021",detail,カタリナ,…………<br>そうだ、追われている。
+Japanese,"scene_tutorial01,021",detail,カタリナ,なので、ここは危険だ。<br>またあの兵士達が来るだろう。<br>君達は早く――
+Japanese,"scene_tutorial01,021",detail,？？？,<span class='scene-font-4'>カタリナ中尉ィ！</span>
+Japanese,"scene_tutorial01,021",detail,？？？,なぁ～にをこんなところで<br>道草を食ってるんですかネェ？<br>中尉ともあろう者が単独行動ですカ？
+Japanese,"scene_tutorial01,021",detail,カタリナ,ポンメルン大尉……！<br>も、申し訳ありません。<br>ただちにルリアの保護を……
+Japanese,"scene_tutorial01,021",detail,ポンメルン,まったく白々しいですネェ！<br>少女を逃がしたのは貴女でしょうゥ？
+Japanese,"scene_tutorial01,021",detail,ポンメルン,偉大なるエルステ帝国に<br>楯突こうだなんて、いい度胸ですネェ！
+Japanese,"scene_tutorial01,021",detail,カタリナ,…………
+Japanese,"scene_tutorial01,021",detail,ポンメルン,機密の少女の観察役を賜っておきながら<br>この仕打ち！<br>宰相閣下がどれだけ失望なさるか……
+Japanese,"scene_tutorial01,021",detail,ポンメルン,貴女なら事の重大さを<br>理解しているハズですネェ！？
+Japanese,"scene_tutorial01,021",detail,ポンメルン,星晶獣を制御するために<br>その少女は必要不可欠ですからネェ！<br>……背任は重罪ですよォ？
+Japanese,"scene_tutorial01,021",detail,カタリナ,大尉……星晶獣を私達人間が、<br>それも軍事にその力を利用しようと<br>いうのは危険すぎるかと……
+Japanese,"scene_tutorial01,021",detail,カタリナ,星晶獣は<span class='scene-font-spword'>星の民</span>の遺産……<br>かつての大戦で空を焼いた<br>恐ろしい兵器です。
+Japanese,"scene_tutorial01,021",detail,カタリナ,その力や正体は<br>まだわからないことも多く、<br>人の手で制御するには――
+Japanese,"scene_tutorial01,021",detail,ポンメルン,話題をすり替えないでほしいですネェ！
+Japanese,"scene_tutorial01,021",detail,ポンメルン,まったく……これ以上くだらない事に<br>時間を費やしたくありませんネェ。<br>てっとり早くやるとしますかネェ……
+Japanese,"scene_tutorial01,021",detail,ポンメルン,クッククク……ここほどの辺境なら<br>村ごと消し去ってしまえば<br>足がつくことはありませんからネェ！
+Japanese,"scene_tutorial01,021",detail,ビィ,んだとぉ……！？
+Japanese,"scene_tutorial01,021",detail,ポンメルン,邪魔者は排除するのみィィ！<br>星晶獣を従える力は<br>帝国のものなのですからネェ！
+Japanese,"scene_tutorial01,021",detail,ポンメルン,<span class='scene-font-4'>ヒドラを出しなさいィィィ！</span>
+Japanese,"scene_tutorial01,021",detail,帝国兵,<span class='scene-font-4'>はっ！</span>
+Japanese,"scene_tutorial01,021",detail,カタリナ,ヒドラ……？<br>まさか！
+Japanese,"scene_tutorial01,021",detail,ポンメルン,そのまさかですよォ、中尉ィ！<br>貴女にもちゃあんと<br>責任をとってもらいますからネェ！
+Japanese,"scene_tutorial01,021",detail,帝国兵,ヒドラを使う！<br>散開して後方に陣を張れ！
+Japanese,"scene_tutorial01,021",detail,ヒドラ,<span class='scene-font-4'>グオオォォッ！！</span>
+Japanese,"scene_tutorial01,021",detail,ビィ,こんな化け物どこから……！？<br>あのヒゲのおっさんが<br>連れてきたってのかぁ！？
+Japanese,"scene_tutorial01,021",detail,ルリア,カタリナ……！
+Japanese,"scene_tutorial01,021",detail,カタリナ,本当に……<br>この島ごと焼き払うつもりか。
+Japanese,"scene_tutorial01,021",detail,カタリナ,そこまでしてルリアの力を<br>利用しようというのか！？ 帝国は！
+Japanese,"scene_tutorial01,021",detail,ポンメルン,だからそうだと言っているでしょう。<br>帝国が全空の支配者となるための<br>礎として必要なのですからネェ。
+Japanese,"scene_tutorial01,021",detail,ポンメルン,その研究の一環として、<br>この島にある<br>星晶の祠を探しにきたわけですが……
+Japanese,"scene_tutorial01,021",detail,ポンメルン,まさかそれに乗じて脱走を図るなど<br>出鼻をくじかれた気分ですよォ！
+Japanese,"scene_tutorial01,021",detail,ルリア,カタリナ……<br>ごめんなさい、私がわがままを<br>言ったせいでこんなことに……
+Japanese,"scene_tutorial01,021",detail,カタリナ,ルリア。<br>外の世界を見せると約束したんだ。<br>必ず約束は守ってみせるよ。
+Japanese,"scene_tutorial01,021",detail,ヒドラ,<span class='scene-font-4'>グルルルゥゥ！！</span>
+Japanese,"scene_tutorial01,021",detail,<span class='nickname'></span>,！！
+Japanese,"scene_tutorial01,021",detail,ビィ,オイオイ……<br>やるってのか、アイツと！？
+Japanese,"scene_tutorial01,021",sel1_txt,,<span class='scene-font-katari'>助けなきゃ！</span>
+Japanese,"scene_tutorial01,021",sel2_txt,,<span class='scene-font-katari'>やるしかない！</span>
+Japanese,"scene_tutorial01,021",detail,ポンメルン,フン……！<br>どいつもこいつも、現実ってものが<br>見えてないようですネェ……
+Japanese,"scene_tutorial01,021",detail,ポンメルン,<span class='scene-font-4'>ヒドラァァ！</span><br><span class='scene-font-4'>まずはそこのガキからだ！</span>
+Japanese,"scene_tutorial01,021",detail,ポンメルン,<span class='scene-font-4'>血祭りにあげて</span><br><span class='scene-font-4'>差し上げなさいィ！</span>
+Japanese,"scene_tutorial01,021",detail,ヒドラ,<span class='scene-font-4'>グルルオオォォ！！</span>
+Japanese,"scene_tutorial01,021",detail,<span class='nickname'></span>,<span class='scene-font-5'>！！</span>
+Japanese,"scene_tutorial01,021",detail,<span class='nickname'></span>,っ――……
+Japanese,"scene_tutorial01,021",detail,ビィ,なッ！？<br>おい！ <span class='nickname'></span>！<br>し、しっかりしろよ、おい！
+Japanese,"scene_tutorial01,021",detail,ポンメルン,ククククッ！<br>なんとあっけないィィ……！
+Japanese,"scene_tutorial01,021",detail,カタリナ,み、民間人、それも子供を……<br>ポンメルン！<br>貴様、どこまで腐った！？
+Japanese,"scene_tutorial01,021",detail,ビィ,なぁ、<span class='nickname'></span>！<br>う、嘘だろ？ 冗談だよな？<br>返事しろよ、なぁ！ おい！
+Japanese,"scene_tutorial01,021",detail,ルリア,……だい……じょうぶ、だから。
+Japanese,"scene_tutorial01,021",detail,ポンメルン,この光は……！？
+Japanese,"scene_tutorial01,021",detail,ビィ,村の祠の星晶が……反応してやがる。<br>この嬢ちゃん……！
+Japanese,"scene_tutorial01,021",detail,ポンメルン,ほう……！<br>これが例の祠だったわけですネェ……
+Japanese,"scene_tutorial01,021",detail,ポンメルン,し、しかし……<br>これはいったいィィ……！？
+Japanese,"scene_tutorial01,021",detail,ルリア,大丈夫……
+Japanese,"scene_tutorial01,021",detail,ルリア,<span class='nickname'></span>……<br>私の力……あなたに預けます……！
+Japanese,"scene_tutorial02,031",synopsis,,ポンメルン大尉の繰り出すヒドラによって致命傷を負った<span>[ジータ]</span>を、自らと同期させることで命を救ったことを明かすルリア。<span>[ジータ]</span>はルリアと文字通りの一心同体となる。
+Japanese,"scene_tutorial02,031",detail,ルリア,始原の竜……
+Japanese,"scene_tutorial02,031",detail,ルリア,闇の炎の子……
+Japanese,"scene_tutorial02,031",detail,ルリア,汝の名は――
+Japanese,"scene_tutorial02,031",detail,ルリア,――バハムート！！
+Japanese,"scene_tutorial02,031",detail,バハムート,<span class='scene-font-4'>オオオォォォ！！！</span>
+Japanese,"scene_tutorial02,031",detail,ヒドラ,クァ……ァァ……！
+Japanese,"scene_tutorial02,031",detail,ポンメルン,<span class='scene-font-4'>なァァッ！？</span><br>ば、馬鹿な！ ヒドラが一撃で<br>やられてしまっただとォォ！？
+Japanese,"scene_tutorial02,031",detail,ポンメルン,馬鹿な！ 馬鹿な馬鹿な馬鹿なァ！<br>そんな馬鹿な！ ですネェーーーッ！！
+Japanese,"scene_tutorial02,031",detail,Side.W,…………
+Japanese,"scene_tutorial02,031",detail,ビィ,お、おい！ 今だ！<br>[ジータ]！ ここを離れるぞ！！
+Japanese,"scene_tutorial02,031",detail,カタリナ,こっちだ！ [ジータ]！<br>意識はハッキリしているようだが、<br>早く傷の手当てをしないと……！！
+Japanese,"scene_tutorial02,031",detail,,<span class='scene-font-katari'>謎の少女ルリアの力により</span><br><span class='scene-font-katari'>星晶獣を召喚し、ヒドラを</span><br><span class='scene-font-katari'>打ち倒した[ジータ]。</span>
+Japanese,"scene_tutorial02,031",detail,,<span class='scene-font-katari'>帝国の男がうろたえている</span><br><span class='scene-font-katari'>隙を突き、カタリナの誘導で</span><br><span class='scene-font-katari'>森の外へと脱出したのだった。</span>
+Japanese,"scene_tutorial02,031",detail,ビィ,はぁ……はぁ……<br>さっきのヒゲのおっさんからは、<br>なんとか逃げ切ったか……？
+Japanese,"scene_tutorial02,031",detail,ビィ,さっきの……星晶獣、<br>バハムートって言ったか？<br>眠っていた星晶が、覚醒したってのか？
+Japanese,"scene_tutorial02,031",detail,ビィ,けど、星晶獣は、<br><span class='scene-font-spword'>星の民</span>にしか操れねぇはずだし……
+Japanese,"scene_tutorial02,031",detail,ビィ,そもそも星晶獣は、<br>何百年も前に覇空戦争で、<br>全滅したんじゃねーのかよ？
+Japanese,"scene_tutorial02,031",detail,カタリナ,ルリアの力だ。<br>この子は<span class='scene-font-spword'>星の民</span>にしか従わぬ<br>星晶獣を操ることができる。
+Japanese,"scene_tutorial02,031",detail,ルリア,…………
+Japanese,"scene_tutorial02,031",detail,カタリナ,そして……<br>“これ”もルリアの力なのだろうか……
+Japanese,"scene_tutorial02,031",detail,,<span class='scene-font-katari'>衣服から覗く[ジータ]の肌には、</span><br><span class='scene-font-katari'>ヒドラに引き裂かれたはずの傷は、</span><br><span class='scene-font-katari'>どこにも見当たらなくなっていた。</span>
+Japanese,"scene_tutorial02,031",detail,カタリナ,平気なのか……？<br>痛みは？ 身体に違和感はないか？
+Japanese,"scene_tutorial02,031",sel1_txt,,<span class='scene-font-katari'>そういえば平気みたい</span>
+Japanese,"scene_tutorial02,031",sel2_txt,,<span class='scene-font-katari'>特に違和感はない</span>
+Japanese,"scene_tutorial02,031",detail,ルリア,カタリナ……<br>[ジータ]は、命がけで、<br>私を助けてくれたよ……
+Japanese,"scene_tutorial02,031",detail,ルリア,けど、そのせいで酷い怪我を負って、<br>[ジータ]の命は輝きを失った……<br>だから、私自身の命をリンクさせたの。
+Japanese,"scene_tutorial02,031",detail,ルリア,今度は私が、<br>[ジータ]を助けるために……！！
+Japanese,"scene_tutorial02,031",detail,カタリナ,<span class='scene-font-4'>なッ！？</span>
+Japanese,"scene_tutorial02,031",detail,ルリア,そう、これから私と[ジータ]は<br>文字通りの一心同体。
+Japanese,"scene_tutorial02,031",detail,ルリア,私と[ジータ]は<br>ひとつの命を共有することになる……
+Japanese,"scene_tutorial02,031",detail,ルリア,ごめんなさい、[ジータ]……<br>不便なカラダになっちゃって……<br>でも、あの時はこうするしか……
+Japanese,"scene_tutorial02,031",sel1_txt,,<span class='scene-font-katari'>ありがとう</span>
+Japanese,"scene_tutorial02,031",detail,ルリア,…………っ
+Japanese,"scene_tutorial02,031",detail,ルリア,それと、さっきの召喚は<br>私だけの力じゃありません。
+Japanese,"scene_tutorial02,031",detail,ルリア,あの星晶獣――バハムートは<br>[ジータ]を守るように現れて、<br>むしろ力を貸してくれたというか……
+Japanese,"scene_tutorial02,031",detail,ビィ,たまげたなぁ……こりゃすげぇぜ！<br>オイラ、[ジータ]は<br>昔からやる奴だと思ってたぜ！
+Japanese,"scene_tutorial02,031",detail,帝国兵,<span class='scene-font-4'>おい、いたぞ！ こっちだ！</span>
+Japanese,"scene_tutorial02,031",detail,ビィ,ちっ……<br>増援に見つかっちまったみてぇだな……<br>やれるか？ [ジータ]！
+Japanese,"scene_tutorial02,031",detail,カタリナ,一度、死にかけているんだ、<br>無理はするものじゃない。<br>ここは私が……！
+Japanese,"scene_tutorial02,031",detail,ビィ,いいのか？ アンタ、一応<br>あの帝国の騎士なんだろ？
+Japanese,"scene_tutorial02,031",detail,カタリナ,聞いていたろう？<br>私が帝国を裏切って<br>ルリアを逃がしたんだ。
+Japanese,"scene_tutorial02,031",detail,カタリナ,話はあとだ！<br>さぁ、構えろ！ 敵が来るぞ！
+Japanese,"scene_tutorial03,041",synopsis,,<span class='scene-font-place'>ザンクティンゼル</span>に留まっていたのではいずれ追い詰められると判断し、<span>[ジータ]</span>一行は小型艇で島を後にする。謎多き少女ルリアと共に、<span>[ジータ]</span>の空の果てを目指す旅が始まった。
+Japanese,"scene_tutorial03,041",detail,カタリナ,くっ……<br>ここにいたのでは、<br>追い詰められるのは時間の問題か……
+Japanese,"scene_tutorial03,041",detail,カタリナ,やむをえん！<br>この島を出るぞ！<br>小型艇を用意してある！
+Japanese,"scene_tutorial03,041",detail,ビィ,成り行きとはいえ、オマエが夢見た<br>空の旅ってヤツに出発だな！<br>腹ァくくれよ！
+Japanese,"scene_tutorial03,041",sel1_txt,,<span class='scene-font-katari'>覚悟は出来てた</span>
+Japanese,"scene_tutorial03,041",sel2_txt,,<span class='scene-font-katari'>ビィこそ平気？</span>
+Japanese,"scene_tutorial03,041",detail,ビィ,へへっ！<br>相変わらず潔い奴だな！<br>そういうとこは親父さんそっくりだぜ！
+Japanese,"scene_tutorial03,041",detail,ビィ,へへんっ！<br>なめてもらっちゃ困るぜ！
+Japanese,"scene_tutorial03,041",detail,ビィ,オイラのほうこそ、<br>いつでも空に出る準備は<br>出来てたんだからな！
+Japanese,"scene_tutorial03,041",detail,ルリア,ふふっ……ねぇ、カタリナ。<br>あのふたりって、<br>本当に仲が良いんだね。
+Japanese,"scene_tutorial03,041",detail,カタリナ,ああ、そのようだ。<br>しかし……
+Japanese,"scene_tutorial03,041",detail,カタリナ,無邪気にはしゃぐビィくんを見ていると<br>なんとも穏やかな気持ちになるよ。
+Japanese,"scene_tutorial03,041",detail,ルリア,カタリナは前から好きだもんね。<br>小動物とか、もふもふしたものとか……
+Japanese,"scene_tutorial03,041",detail,カタリナ,ああ……って、<br>和んでいる場合ではなかったな！
+Japanese,"scene_tutorial03,041",detail,カタリナ,さあ、行こう。<br>艇はこっちだ！
+Japanese,"scene_tutorial03,041",sel1_txt,,<span class='scene-font-katari'>わかった！</span>
+Japanese,"scene_tutorial03,041",detail,ビィ,いよいよだな！<br>[ジータ]！
+Japanese,"scene_tutorial03,041",detail,ルリア,ふふっ、これから<br>よろしくお願いしますね。<br>[ジータ]。
+Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>[ジータ]達はカタリナが乗ってきた</span><br><span class='scene-font-katari'>帝国の小型艇に乗り込み</span><br><span class='scene-font-katari'>故郷、閉ざされた島を脱出した。</span>
+Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>無限とも思える金色の雲海を前に</span><br><span class='scene-font-katari'>一行の胸に不安はなく、不思議と</span><br><span class='scene-font-katari'>温かな希望に満ち溢れていた。</span>
+Japanese,"scene_tutorial03,041",detail,ビィ,空だ！<br>空を飛んでるぜぇ！ オイラ達！
+Japanese,"scene_tutorial03,041",detail,ビィ,なぁなぁ！<br>これからこの艇で、<br>オイラ達はどこに行くんだ？
+Japanese,"scene_tutorial03,041",detail,カタリナ,そうだな……<br>[ジータ]が目指しているというのは<br>空の果てでいいんだったな？
+Japanese,"scene_tutorial03,041",detail,カタリナ,空の果て……<span class='scene-font-spword'>星の島イスタルシア</span>か。<br><span class='scene-font-spword'>星の民</span>が住んでいるという伝説の島だ。<br>険しい旅になるかもしれないぞ。
+Japanese,"scene_tutorial03,041",detail,ビィ,わかってらぁ！<br>そんなの百も承知だぜ！<br>なっ！ [ジータ]！
+Japanese,"scene_tutorial03,041",detail,カタリナ,そうか……<br>であれば、まずは空域を分断している<br>瘴流域を越えなくてはなるまい。
+Japanese,"scene_tutorial03,041",detail,カタリナ,そしてそれは私の目的にも合致する。<br>このファータ・グランデ空域は、<br>エルステ帝国の勢力圏だからな。
+Japanese,"scene_tutorial03,041",detail,ルリア,こんなにお空が広いのに……<br>帝国は追ってくるのかな？
+Japanese,"scene_tutorial03,041",detail,カタリナ,きっと追ってくる……<br>だが心配することはない。<br>なにせ空は無限だからな！
+Japanese,"scene_tutorial03,041",detail,カタリナ,ファータ・グランデ空域の外に出れば、<br>帝国ももう追っては来れないはずだ。
+Japanese,"scene_tutorial03,041",detail,ビィ,なんであれ、<br>とにかく長い旅になりそーだな。
+Japanese,"scene_tutorial03,041",detail,カタリナ,ああ。我ながら見切り発車だが<br>空の果てを目指す旅か……<br>なんだかワクワクしてきたよ。
+Japanese,"scene_tutorial03,041",detail,カタリナ,とはいえ、まずは<br>旅の支度を整えようか。
+Japanese,"scene_tutorial03,041",detail,カタリナ,大きな街には、<br>騎空団の世話をしてくれる<br>よろず屋があるはずだ。
+Japanese,"scene_tutorial03,041",detail,カタリナ,ここからだと近いのは……<br><span class='scene-font-place'>ポート・ブリーズ</span>か、<span class='scene-font-place'>バルツ公国</span>なら、<br>きっとよろず屋があるだろう。
+Japanese,"scene_tutorial03,041",detail,ルリア,これから……<br>新しい世界へと旅立つんですね。
+Japanese,"scene_tutorial03,041",detail,ルリア,カタリナとビィさんと……<br>[ジータ]と……ううん<br>もしかしたら、もっとたくさんの人と。
+Japanese,"scene_tutorial03,041",detail,ビィ,新しい出会いもあるかもな！<br>何が待ち受けてるかなんて、<br>行ってみないとわかんねーけどよ！
+Japanese,"scene_tutorial03,041",detail,ビィ,だから……行こうぜ！<br>[ジータ]。<br>ここが空の彼方へ至る旅の始まりだ！！
+Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>不思議な少女と魂を共有した事により</span><br><span class='scene-font-katari'>特殊な力を得た[ジータ]は</span><br><span class='scene-font-katari'>故郷をあとにする。</span>
+Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>無限の果てに待つ父を想う</span><br><span class='scene-font-katari'>[ジータ]の髪を</span><br><span class='scene-font-katari'>一陣の蒼い風が優しく撫でた。</span>
+Japanese,"scene_cp2_q1_s10,211",synopsis,,ラカムに助けられ地下教会へと身をひそめる<span>[ジータ]</span>一行は、彼に仲間になってくれるよう掛け合うが断られてしまう。<span>[ジータ]</span>一行とラカムは帝国が攻めてくることを伝えるため、街へと急ぐ。
+Japanese,"scene_cp2_q1_s10,211",detail,,<span class='scene-font-katari'>一同はついに</span><br><span class='scene-font-katari'>凄腕の操舵士と謳われる男、</span><br><span class='scene-font-katari'>ラカムを見つける。</span>
+Japanese,"scene_cp2_q1_s10,211",detail,,<span class='scene-font-katari'>しかし、彼は</span><br><span class='scene-font-katari'>[ジータ]の誘いにただ一言、</span><br><span class='scene-font-katari'>空は捨てた、と答えるのだった。</span>
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,――そういうわけだ。<br>悪ぃが操舵士なら他をあたるんだな。
+Japanese,"scene_cp2_q1_s10,211",detail,カタリナ,い、いや、しかし……何故なんだ？
+Japanese,"scene_cp2_q1_s10,211",detail,カタリナ,街の者に聞いたが、<br>君は幼い頃から、<br>艇と空に親しんできたんだろう？
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,そ、そうだぜ！<br>それにアンタも言ってたじゃねぇか！<br>[ジータ]も聞いたよな？
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,騎空艇の操縦には、<br>特別な技術が必要なんだろ？<br>それを身に付けてるのに、なんで……
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ったく……<br>ギャアギャアとうるせぇのな……
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,いいか？<br>俺は、空が俺を捨てたから、<br>俺も空を捨てたんだ……そんだけの話さ。
+Japanese,"scene_cp2_q1_s10,211",detail,カタリナ,空が……？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ああ、てめぇらも見たろ？<br>あそこにあった騎空艇をよ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,あれは、昔からあそこにある<br>持ち主の居ない難破船だったんだ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,俺はそいつを幼い頃から、<br>こつこつと独学で修理し続けた……<br>また空に飛ばせてやろうってな。
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,修理してた？<br>でも、ありゃぁまるで<br>墜落して放置されたって感じだったぜ？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,そりゃそうだ。<br>あいつは俺を乗せて、<br>真っ逆さまに墜落したんだからな。
+Japanese,"scene_cp2_q1_s10,211",detail,ルリア,墜落……<br>じゃあ、貴方はそれで……？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ああ……<br>裏切られた思いでいっぱいだったよ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,修理には詳しい奴の手も借りた。<br>操縦の腕だって磨いてきた……<br>準備は全て整っていたはずだ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,それでもあいつは……<br>グランサイファーは墜ちたんだ。俺が<br>抱いていた想いも何もひっくるめてな。
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,それは、その……<br>天気が悪かったとか……<br>なぁ？ [ジータ]？
+Japanese,"scene_cp2_q1_s10,211",sel1_txt,,<span class='scene-font-katari'>ビィの言うとおりだ</span>
+Japanese,"scene_cp2_q1_s10,211",sel2_txt,,<span class='scene-font-katari'>腕が未熟だったんだ</span>
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,この<span class='scene-font-place'>ポート・ブリーズ</span>には、<br>年中いい風が吹いてるよ。<br>島の守り神サマのおかげでな。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,この島に限っちゃ、<br>風が悪くて墜落するってことは<br>ありえねぇんだ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ははっ！<br>お前ら俺を、凄腕の操舵士だ、って<br>紹介されたんじゃねぇのか？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,腕には自信があったさ……<br>空に裏切られるまではな……
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,さぁ、この話はお終いだ。<br>さっきの帝国の話を、<br>街の連中に知らせに行こうぜ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,知っちまった以上、<br>放っておくわけにもいかねぇからな。
+Japanese,"scene_cp2_q1_s20,212",synopsis,,街が見えてくるとラカムは、後は任せたと隠れ家に戻ろうとする。<span>[ジータ]</span>達が慌ててその行動の真意を問いただすと、ラカムは自らの大切なもののためにしか戦う気はないと告げ、その場を去ってしまう。
+Japanese,"scene_cp2_q1_s20,212",detail,ビィ,お！ ようやく街が見えてきたな！
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,ん？ そうか？<br>んじゃ、後は任せたぜ。<br>俺はこの辺で隠れ家に戻るからよ。
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,待て待てまて！<br>なぜ隠れ家に戻るんだ？<br>街の者と帝国を迎え撃たないのか？
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,事情を知っちまった以上、<br>それを伝えるための<br>手伝いくらいはするさ。
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,けどな……<br>俺が守るのはあくまで、<br>あの騎空艇……グランサイファーだけだ。
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,貴様……<br>人命より艇を優先するというのか……
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,俺は、俺の大切なもののためにしか<br>戦う気はねぇってだけさ。<br>帝国相手となりゃ、命がけだしな。
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,てめぇらも<br>お人好しはたいがいにしねぇと、<br>ロクでもないことで命を落とすぜ？
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,救える命が……<br>守れる者が目の前にいるというのに、<br>放ってなどおけるものか！！
+Japanese,"scene_cp2_q1_s20,212",detail,ルリア,カ、カタリナ、落ち着いて……
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,そうかい……<br>んじゃぁな、<br>せいぜい後悔だけはするんじゃねぇぞ。
+Japanese,"scene_cp2_q1_s20,212",detail,,<span class='scene-font-katari'>そう言い残すと、</span><br><span class='scene-font-katari'>ラカムは[ジータ]の前から、</span><br><span class='scene-font-katari'>姿を消した。</span>
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,後悔などするはずが……<br>できるはずがあるものか……<br>私には、もう……
+Japanese,"scene_cp2_q1_s20,212",detail,ビィ,とにかく急ごうぜ！<br>街が見えたとはいえ、<br>まだ魔物はうようよ居るんだからよ！
+Japanese,"scene_cp2_q2_s10,221",synopsis,,エルステ帝国の一軍が迫っているという危機を知らせるため、街へと急ぐ<span>[ジータ]</span>一行。その途中、道化師のごとき男と寡黙な剣士の二人組が<span>[ジータ]</span>達の行く手に現れる。
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,ふぅ……街までは、<br>もう一息といったところか。
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,うん！<br>早く街の人に、<br>帝国が攻めて来るって伝えなきゃ……
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,ハロゥ～♪<br>元気してるぅ？ 指名手配犯諸君！
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,無傷……まだ死んではいないな。
+Japanese,"scene_cp2_q2_s10,221",detail,ビィ,な、なんだこいつら……<br>帝国の手先か！？
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,ビンゴォ！<br>やー、賢いねぇトカゲちゃん。<br>後でりんごをあげよう！
+Japanese,"scene_cp2_q2_s10,221",detail,ビィ,くっ……い、いるかそんなもん！！<br>り、りんごなんて……じゅる。
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,ビィさん、よだれが……
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,はっはー！ 好きかい？ りんご！<br>それならとっておきが……
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,<span class='scene-font-4'>痛てッ！？</span>
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,ドランク……早く本題に入れ、<br>これ以上、無駄話をするなら……刺す。
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,オーケーオーケー！<br>わかってるてばぁ！ だからスツルム殿<br>剣先でぐりぐりするのは、やめ……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,<span class='scene-font-4'>あ痛ったぁ！</span>
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,あの……我々はいま急いでいるんだ。<br>用がないのなら、もういいか？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,いいわけない……ドランク！
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,はいはい……<br>さぁ、指名手配犯諸君、<br>実はね、君らにお願いがあるんだ。
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,お願い……ですか？<br>あの、私達にできることなら<br>いいんですけど……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,君は物分りが良いねぇ！<br>ご褒美にお菓子をあげ……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,<span class='scene-font-4'>痛って！？<span><br>い、いまホントに刺した！？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,ふん……<br>お前ら……このまま街に行くつもりだろ。<br>帝国が攻めてくるってことを伝えに。
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,その通りだが……それが？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,やめてほしい……<br>街の奴らに抵抗されると、面倒。
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,そんなお願いが聞けるとでも？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,聞けないのか……？
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,……怖いねぇ、女のにらみ合いって。<br>お嬢ちゃんはああなっちゃダメだよん？
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,は、はぁ……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,素直な返事だ！<br>君にはこの飴ちゃんを……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,<span class='scene-font-4'>痛てッ！？</span>
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,ドランク……行くぞ。
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,あ！ 待ってよ、スツルム殿！<br>置いていかないでよねぇ～！
+Japanese,"scene_cp2_q2_s10,221",detail,ビィ,な、なんだったんだ、あいつら……
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,帝国からの警告といったところか……<br>先を急ごう。<br>これまで以上に用心して、な。
+Japanese,"scene_cp2_q2_s20,222",synopsis,,大量に襲い来る魔物によって、<span>[ジータ]</span>一行は思うように前に進めずにいた。街の外の危険さを改めて知り、<span>[ジータ]</span>一行は必ず帝国を止めようと決意する。
+Japanese,"scene_cp2_q2_s20,222",detail,ビィ,くそー……<br>いくら街が見える距離でも、<br>こうも魔物が多くっちゃな……
+Japanese,"scene_cp2_q2_s20,222",detail,カタリナ,瘴流域によって魔物が狂暴化した<br>という記録は残っているが……
+Japanese,"scene_cp2_q2_s20,222",detail,カタリナ,近年になって、<br>魔物の数が増えている理由については、<br>帝国も原因は掴んでいなかったな。
+Japanese,"scene_cp2_q2_s20,222",detail,ビィ,街の外はもう、<br>危険地帯ってわけか……
+Japanese,"scene_cp2_q2_s20,222",detail,ルリア,この街の人達は、<br>私達がシェロさんのお店で困っていたら<br>親切にしてくれたよね……
+Japanese,"scene_cp2_q2_s20,222",detail,カタリナ,ああ……恩は返さねばな。<br>[ジータ]、必ず帝国を止めよう。<br>それこそが、私達のすべき恩返しだ。
+Japanese,"scene_cp2_q3_s10,231",synopsis,,街へと急ぐ<span>[ジータ]</span>一行の前に、再びドランクとスツルムの二人組が立ち塞がる。しかし、今度のふたりには大人しく引き下がる様子はなく、その手には人質となったラカムの姿があった。
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,ハロウ♪<br>僕がいない間も元気にして……
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,<span class='scene-font-4'>痛てッ！</span>
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,ちょっ、スツルム殿！？<br>いまなんで刺したの！？
+Japanese,"scene_cp2_q3_s10,231",detail,スツルム,イライラした……<br>お前の話し方はいつも癇に障る。
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,それほぼ八つ当たりだよねぇ！？
+Japanese,"scene_cp2_q3_s10,231",detail,ビィ,またお前らか！
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,何度来ようと、<br>貴君らのお願いを<br>聞き入れることはできないが……？
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,違うなぁ～！ 違うんだよねぇ～！<br>今度は、<br>お願いをしに来たわけじゃないよん！
+Japanese,"scene_cp2_q3_s10,231",detail,スツルム,交渉……こいつの命と。
+Japanese,"scene_cp2_q3_s10,231",detail,ラカム,くっ……
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,ラカム！？<br>貴様、なぜ……！？
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,こいつ、<br>こっそり街に<br>侵入しようとしてやがってさぁ！
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,馬鹿だよねぇ～<br>話を聞かれたのが分かってる以上、<br>街は監視してるに決まってんじゃん！
+Japanese,"scene_cp2_q3_s10,231",detail,ラカム,うるせぇ……
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,そういうわけでさ！<br>小型艇くらいならあげちゃうから、<br>さっさとこの島から出てってよ、ね？
+Japanese,"scene_cp2_q3_s10,231",detail,ルリア,[ジータ]……
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,[ジータ]、答えは……<br>わかってる、聞くまでもなかったな。
+Japanese,"scene_cp2_q3_s10,231",detail,ビィ,だよな！<br>こんな簡単な問題もねぇぜ！
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,同意だ……<br>ドランクとやら、<br>悪いがここは突破させてもらうぞ！
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,あっらぁ～？<br>そんじゃまぁ、このアホの命は……
+Japanese,"scene_cp2_q3_s10,231",detail,ルリア,助けます！！<br>街の人も、ラカムさんも……<br>誰一人犠牲にはしません！！
+Japanese,"scene_cp2_q3_s10,231",detail,ビィ,いくぜ！ [ジータ]！<br>帝国の兵隊なんて、<br>蹴散らしてやれ！
+Japanese,"scene_cp2_q3_s20,232",synopsis,,ラカムも街の住人も助けると大見得をきったものの、ラカムの姿を見失ってしまう。さらにはスツルムに隙を突かれてしまうが、そこに一筋の弾丸が走る。
+Japanese,"scene_cp2_q3_s20,232",detail,ビィ,くっ、まずいぜ……<br>ラカムの姿を見失った……！！
+Japanese,"scene_cp2_q3_s20,232",detail,スツルム,大丈夫……あいつはきちんと、<br>ウチの精鋭が捕まえてる。<br>そんなことより……
+Japanese,"scene_cp2_q3_s20,232",detail,ルリア,<span class='scene-font-5'>きゃっ！？</span>
+Japanese,"scene_cp2_q3_s20,232",detail,カタリナ,ルリアっ！？
+Japanese,"scene_cp2_q3_s20,232",detail,スツルム,油断したな……<br>まずはこのガキから……！！
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,精鋭が……なんだって？
+Japanese,"scene_cp2_q3_s20,232",detail,ビィ,ラカム！<br>お前、いつの間に！？
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,はん……<br>美人の姉ちゃんならまだしも、<br>むさい兵士にゃ俺は抑えらんねぇぜ！
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,嬢ちゃん、怪我はねぇか？
+Japanese,"scene_cp2_q3_s20,232",detail,ルリア,は、はい……ありがとうございます！
+Japanese,"scene_cp2_q3_s20,232",detail,スツルム,ちっ……<br>ひとり増えようが同じだ……<br>帝国を相手にして、勝てると思うな！
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,おい、[ジータ]！<br>ここが正念場だぞ！ 気合入れろよ！！
+Japanese,"scene_cp2_q4_s10,241",synopsis,,追い詰められる<span>[ジータ]</span>一行だったが、ラカムの助けによって窮地を脱する。<span>[ジータ]</span>達は、覚悟を決めたラカムと共に、ドランクとスツルムが引き連れる帝国兵に対抗する。
+Japanese,"scene_cp2_q4_s10,241",detail,ビィ,ラカム！ お前、よく無事だったな！
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,ったく……俺も街の奴も助けるって<br>大見得切ったなら、<br>ちゃんと助けに来いよな。
+Japanese,"scene_cp2_q4_s10,241",detail,カタリナ,ぐっ……面目ない。
+Japanese,"scene_cp2_q4_s10,241",detail,ルリア,でも、無事で本当に良かったです！<br>ねっ！ [ジータ]！
+Japanese,"scene_cp2_q4_s10,241",detail,カタリナ,しかし意外だ……<br>貴殿のことなら、捕縛を逃れたら、<br>私達を放って逃げるかと思ったが……
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,信用ねぇのな……<br>まぁ、確かにそれも考えたさ。
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,けどな……あんたが言ったんだろ？<br>目の前に守れる奴がいるのに、<br>放っておけるか、ってよ。
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,嬢ちゃんが危ないとこ見たら、<br>自然に身体が動いちまってたよ。
+Japanese,"scene_cp2_q4_s10,241",detail,カタリナ,ふふっ、そうか……<br>ともかく、助かった。<br>改めて礼を言わせて欲しい。
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,ばっ……やめろ！ 恥ずかしい！<br>そういうのは<br>全部終わってからにしようぜ！
+Japanese,"scene_cp2_q4_s10,241",detail,ビィ,だな！ 街まであとほんの少しだ！<br>もうひとふんばりだぜ！
+Japanese,"scene_cp2_q4_s20,242",synopsis,,完全に臨戦態勢となったラカムのおかげもあり、<span>[ジータ]</span>一行は多勢に無勢で一方的だった戦局を徐々にひっくり返しつつあった。
+Japanese,"scene_cp2_q4_s20,242",detail,ラカム,さぁ……帝国の兵士も、<br>数が減ってきたな！
+Japanese,"scene_cp2_q4_s20,242",detail,ビィ,ラカムの奴、結構やるじゃねぇか！
+Japanese,"scene_cp2_q4_s20,242",detail,カタリナ,ああ、<br>これは私もうかうかしていられないな！
+Japanese,"scene_cp2_q4_s20,242",detail,ルリア,ふふ……<br>みんなやる気になってますね！
+Japanese,"scene_cp2_q4_s20,242",detail,ラカム,街の入口もすぐそこだ！<br>[ジータ]！<br>このまま一気に突っ切るぞ！
+Japanese,"scene_cp2_q4_s30,243",synopsis,,ついにスツルムとドランクを追い詰める<span>[ジータ]</span>一行。その必死な命乞いに、<span>[ジータ]</span>達はスツルムとドランクをそのまま逃がすことを決める。
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,<span class='scene-font-4'>ひぃぃっ！ お助け～！</span>
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,ここまでか……
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,ね！<br>もう僕達戦うつもりはないからさ！<br>見逃してくれない？
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,帝国には雇われてるだけだから、<br>忠義を尽くす義理もないし、<br>ね？ 頼むよぉ～……
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,<span class='scene-font-4'>痛てッ！？</span>
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,醜態……これ以上無様をさらすなら、<br>せめてもの情けとして、<br>ここであたしが……！！
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,<span class='scene-font-4'>わあぁぁぁ！</span><br>スツルム殿、落ち着いて～！！
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,つーことだけど……どうする？
+Japanese,"scene_cp2_q4_s30,243",sel1_txt,,<span class='scene-font-katari'>仕方ないな……</span>
+Japanese,"scene_cp2_q4_s30,243",sel2_txt,,<span class='scene-font-katari'>信用できないけど……</span>
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,え？ ホント？ ホントにいいの？
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,くっ……<br>全ては命あってのものとはいえ……<br>敵に恩情を与えられるとは……
+Japanese,"scene_cp2_q4_s30,243",detail,ルリア,うん……<br>こんなにお願いしてるんだもんね……
+Japanese,"scene_cp2_q4_s30,243",detail,カタリナ,頭を垂れた者に剣を向けるというのは<br>騎士道にも反するしな。
+Japanese,"scene_cp2_q4_s30,243",detail,ビィ,金で雇われてただけみたいだし、<br>ここは見逃してやるとするか！
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,ありがとぉ～！<br>恩に着る！ 着まくるよぉ～！！
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,覚えてろ……<br>この屈辱は絶対に返してやるからな！
+Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>こうして</span><br><span class='scene-font-katari'>スツルムとドランクの二人組は、</span><br><span class='scene-font-katari'>[ジータ]達の前から去って行った。</span>
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,――それで？<br>お前らは本当に<br>街で帝国を迎え撃つつもりなのか？
+Japanese,"scene_cp2_q4_s30,243",detail,ビィ,もちろんだぜ！<br>帝国と敵対するってのは、<br>オイラ達にはいまさらだしな！
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,やれやれ……とんだお人好しだな。<br>とはいえ、<br>俺もそのお人好しに救われたわけだ……
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,こうなりゃ俺も腹くくるぜ……<br>[ジータ]の目も気に入ったしな。
+Japanese,"scene_cp2_q4_s30,243",detail,ルリア,それじゃ、ラカムさんも……？
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,ああ！<br>帝国なんぞに<br>この街を潰させてやるもんかよ！！
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,こうと決めた以上、<br>帝国の奴ら、返り討ちにしてやるぜ！！
+Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>[ジータ]の意志に呼応した</span><br><span class='scene-font-katari'>ラカムを仲間に迎え</span><br><span class='scene-font-katari'>[ジータ]は帝国との戦いに備える。</span>
+Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>しかし、</span><span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>の巨大な思惑は、</span><br><span class='scene-font-place'>ポート・ブリーズ群島</span><span class='scene-font-katari'>全体をも</span><br><span class='scene-font-katari'>飲みこもうとしていた。</span>
+Japanese,scene_fate_chr272_ep1,synopsis,,違法な喧嘩賭博に参戦し、日々、闘争本能を研ぎ澄ます喧嘩屋アイル。兄貴分のボーマンと勝利を祝っていると、憲兵による一斉検挙が始まる。そこでアイルは[ジータ]と対峙し、その存在に興味を持つが、ひとまず適当な騎空艇に身を潜める。しかし、それは偶然にも[ジータ]達の乗るグランサイファーであり、アイルはなりゆきで旅に同行することになるのだった。
+Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>犬、豚、猿。</span>,"<span class=""scene-font-kokoro"">개、돼지、원숭이.</span>"
+Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>ハッ……</span><br><span class='scene-font-kokoro'>なんでもいいか、呼び方なんて。</span>,"<span class=""scene-font-kokoro"">핫……</span><br><span class=""scene-font-kokoro"">뭐라해도 좋은가、부르는 방법 같은 건.</span>"
+Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>ようするにガキの頃のオレは、</span><br><span class='scene-font-kokoro'>飼い慣らされた畜生だったってことだ。</span>,"<span class=""scene-font-kokoro"">요컨대、어릴적 나는、</span><br><span class=""scene-font-kokoro"">잘 길들여진 짐승이었다는 거다.</span>"
+Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>ルールを守って、空気を読んで、</span><br><span class='scene-font-kokoro'>毎日笑顔で平和な日々が幸せだってね。</span>,"<span class=""scene-font-kokoro"">룰을 지키고、분위기를 파악하며、</span><br><span class=""scene-font-kokoro"">항상 웃는 평화로운 날들이 행복했었다더라구.</span>"
+Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>……でも、オレは気づいちまった。</span><br><span class='scene-font-kokoro'>そんな生ぬるい価値観をブッ壊す、</span><br><span class='scene-font-kokoro'>自分の知らない新しい世界ってヤツに。</span>,"<span class=""scene-font-kokoro"">……하지만、나는 알고말았다.</span><br><span class=""scene-font-kokoro"">그런 흐리멍텅한 가치관을 박살내는、</span><br><span class=""scene-font-kokoro"">내가 모르던 새로운 세상이란 녀석을.</span>"
+Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>オレの「新世界」……</span><br><span class='scene-font-kokoro'>噎せ返る程の闘争に満ちた、最高の──</span>,"<span class=""scene-font-kokoro"">내 「신세계」……</span><br><span class=""scene-font-kokoro"">숨이 막힐 정도로 투쟁으로 가득찬、최고의──</span>"
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>とある島の地下闘技場……</span><br><span class='scene-font-katari'>至る所に血と汗が飛び散り、</span><br><span class='scene-font-katari'>荒々しい歓声と罵声が交錯していた。</span>,"<span class=""scene-font-katari"">어떤 섬、지하격투장……</span><br><span class=""scene-font-katari"">도처에 피와 땀이 튀고、</span><br><span class=""scene-font-katari"">거친 함성과 욕지거리가 뒤얽혀있었다.</span>"
+Japanese,scene_fate_chr272_ep1,detail,観客１,頼むぜぇ、チャンピオン！<br>そのクソガキの脳ミソ飛び散らせろぉ！,부탁한다、챔피언!<br>그 애송이의 머리통을 깨부셔버려!
+Japanese,scene_fate_chr272_ep1,detail,闘技者,ブッ潰してやるぜ……<br>喧嘩屋の王者は、この俺様だ！,박살내주지……<br>싸움꾼의 왕은、바로 이 몸이다!
+Japanese,scene_fate_chr272_ep1,detail,観客２,死んでも勝てよ、どチビ！<br>全財産テメェに賭けてんだぞコラァ！？,"죽어도 이기라고、꼬맹이!<br>전재산을 너한테 걸었다고, 자식아!"
+Japanese,scene_fate_chr272_ep1,detail,アイル,……クズの大合唱だな。,……쓰레기들의 대합창이로군.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,ハッハッハ！<br>そりゃそうさ。<br>ここのトップを決める一戦だぜ？,핫핫하!<br>거야 그렇지.<br>이 곳의 톱을 정하는 싸움이라고?
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,だが、これこそ俺達の望んだ新世界……<br>何もかも捨てて辿り着いた居場所だろ？,그렇지만、이거야말로 우리들이 바라던 신세계……<br>모든것을 버리고 도달한 거처라고?
+Japanese,scene_fate_chr272_ep1,detail,アイル,ああ……<br>ここは生きてるって実感できる。,그래……<br>여기는 살아있다는 실감을 할 수 있어.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,フ……<br>イイ眼してるぜ、相棒？,후……<br>좋은 눈을 하고있다고、파트너?
+Japanese,scene_fate_chr272_ep1,detail,闘技者,さぁクソガキ、かかって来い！<br>おこちゃま用の棺桶は買ったか！？,자 망할 꼬맹아、덤벼라!<br>아이용 관은 준비해뒀나!?
+Japanese,scene_fate_chr272_ep1,detail,アイル,生憎、デカブツ用しか売ってなかった。<br>どの店も、アンタにピッタリだったよ。,아쉽게도、덩치용 관 밖에 팔지 않더라구.<br>어떤 가게를 가도 네놈한테는 딱 맞았다고.
+Japanese,scene_fate_chr272_ep1,detail,闘技者,フフフ、イカレたガキだぜ。<br>……だが死ね、コラァァァ！,후후후、미친 애송이로군.<br>……이제 그만 죽어라、자식아!
+Japanese,scene_fate_chr272_ep1,detail,アイル,アンタもイカレようぜ──！,너도 미쳐보자고──！
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>その日の夜。</span><br><span class='scene-font-katari'>試合を終えたアイルは、</span><br><span class='scene-font-katari'>自宅で勝利を祝っていた。</span>,"<span class=""scene-font-katari"">그날 밤.</span><br><span class=""scene-font-katari"">시합을 마친 아일은、</span><br><span class=""scene-font-katari"">자택에서 승리를 축하하고있었다.</span>"
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,ハッハッハ！<br>にしても、あのカウンターは痺れたぜ！<br>ヒヤヒヤさせんじゃねぇっての！,핫핫하!<br>그래도、그 카운터는 짜릿했다고!<br>조마조마하게 만들지 말라고!
+Japanese,scene_fate_chr272_ep1,detail,アイル,ヒヤヒヤ？<br>アンタ、ずっとニヤニヤしてたろ。,조마조마?<br>너、계속 히쭉히쭉하고 있었잖아.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,あ、バレてましたー？<br>でもよ、俺ぁわかってんだぜ。<br>お前わざと、危険な距離で戦ったろ。,아、들켰었나ー？<br>그래도말야、난 알고있었다고.<br>너 일부러、위험한 거리에서 싸웠잖아.
+Japanese,scene_fate_chr272_ep1,detail,アイル,……ただ勝っても意味がない。<br>ギリギリじゃないと湧かねえだろ。,……그냥 이겨서는 의미가 없어.<br>아슬아슬 하지 않으면 할맘이 들지 않는다고.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,生きてる実感、か。<br>マジで闘争本能の塊だよ、お前は。,살아있다는 실감、인가.<br>정말로 투쟁본능 그 자체라고、너는.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,だが、ついに王者かぁ～……<br>あんな幸せな家庭に育った甘ちゃんが、<br>まさか違法な喧嘩賭博のトップたぁな？,그렇지만、드디어 챔피언인가～……<br>그 행복한 가정에서 자란 응석받이가、<br>설마 위법한 싸움도박의 톱이라니?
+Japanese,scene_fate_chr272_ep1,detail,アイル,ああ……<br>今でも時々、夢に見る。,그래……<br>지금도 가끔、꿈 속에 봐.
+Japanese,scene_fate_chr272_ep1,detail,アイル,ガキのオレはアンタと出会わず、<br>今も生ぬるい日々を送ってる夢だ。,어린 내가 너와 만나지 않고、<br>지금도 흐리멍텅한 일상을 지내는 꿈을
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,だが、そうはならなかった。<br>優等生君は街のゴロツキとウマが合い、<br>自分自身の本性に気づいた！,그렇지만、그렇게 되지는 않았다.<br>범생이는 거리의 깡패와 의기투합해、<br>자기자신의 본성을 깨달았다!
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,で、俺達は求めたのさ！<br>本能を満たす、新しい世界ってヤツを！,그리고、우리들은 바랬던거야!<br>본능을 만족시키는、새로운 세계를!
+Japanese,scene_fate_chr272_ep1,detail,アイル,うるせえ、酔っ払い。<br>王者のオレより盛り上がるな。,시끄러、주정뱅이야.<br>챔피언인 나보다 흥분하지마라.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,なんだとぅ！<br>家出も喧嘩賭博も俺のアイディアだぞ？<br>拳闘の技術を教えてやったのも俺だぁ！,뭐라고오!<br>가출도 싸움도박도 내 아이디어라고?<br>권투기술을 가르쳐준 것도 나라고!
+Japanese,scene_fate_chr272_ep1,detail,アイル,はいはい、わかってるよ。<br>……アンタには感謝してる、一応。,네네、알고있습니다-<br>……너한테는 고마워하고있어、일단은.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,駄目だ、言い直せ！<br>もっと誠意と真心を込めて、さんハイ！,안된다、다시 말해라!<br>좀 더 경의와 진심을 담아서、자 어서!
+Japanese,scene_fate_chr272_ep1,detail,アイル,ちょ、調子に乗るな！<br>たまにはアンタが出場しろ。<br>……オレより強ぇクセに。,우、우쭐대지마!<br>가끔은 너도 싸우라고.<br>……나보다 강하면서.
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,めんど～い。<br>俺が出ても儲かんねぇし？<br>おチビのアイルだからオッズが旨いッ！,귀~찮아.<br>나는 나가봐야 얻을 것도 없고 말이지?<br>꼬맹이인 아일이니까 배당금이 높지!
+Japanese,scene_fate_chr272_ep1,detail,アイル,てめ、ブッ飛ばす……！,이 자식、날려버린다……！
+Japanese,scene_fate_chr272_ep1,detail,闘技者,お、おい、何してんだよ！？<br>憲兵隊の一斉検挙が始まったぞ！
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,……ほぉ、一斉検挙？<br>懲りないねぇ、憲兵さんも。
+Japanese,scene_fate_chr272_ep1,detail,アイル,だからなんだ？<br>そんな連中、また叩き潰せばいい。
+Japanese,scene_fate_chr272_ep1,detail,闘技者,馬鹿、あいつら本気だ！<br>他の島の憲兵隊も、騎空団も雇ってる！<br>今夜中に喧嘩賭博を潰す気だぞ！
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,騎空団、ね。<br>確かに街が騒がしいぜ。<br>多勢に無勢だが、どうするよ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,……決まってる。
+Japanese,scene_fate_chr272_ep1,detail,闘技者,おい、クソガキ！？<br>ま、まさか抵抗する気かよ……！
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>異様な熱気に包まれた夜の街。</span><br><span class='scene-font-katari'>憲兵隊と喧嘩屋達が衝突する中、</span><br><span class='scene-font-katari'>アイルも次々と憲兵を殴り倒していた。</span>
+Japanese,scene_fate_chr272_ep1,detail,憲兵１,……がはっ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……フン、湧かねえ連中だ。
+Japanese,scene_fate_chr272_ep1,detail,アイル,だが、なぜここまで押されてる？<br>数は多いが喧嘩屋の敵じゃないはず……
+Japanese,scene_fate_chr272_ep1,detail,闘技者,ははは、さすがだな！<br>お前がいりゃあ勝てる気がしてきたぜ！<br>ここは俺も一緒に──
+Japanese,scene_fate_chr272_ep1,detail,闘技者,……うごぉ！？
+Japanese,scene_fate_chr272_ep1,detail,ビィ,やったな、[ジータ]！<br>この調子で、どんどん捕まえようぜ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……っ！<br>デカブツが一撃だと……？
+Japanese,scene_fate_chr272_ep1,detail,ビィ,んん？<br>って、なんで子供がいるんだ？<br>おい、ここは危ないぞぉ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,…………
+Japanese,scene_fate_chr272_ep1,detail,ビィ,な、なんだぁ？<br>[ジータ]を睨んでるぜ？<br>……まさか、アイツも喧嘩屋なのか？
+Japanese,scene_fate_chr272_ep1,detail,アイル,ハ……<br>ハハハハハッ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,なるほど……<br>ガキに見えるが、アンタが主力か。
+Japanese,scene_fate_chr272_ep1,detail,アイル,いいね、クソほど湧いてきた……！
+Japanese,scene_fate_chr272_ep1,detail,ビィ,わ、笑ってるぞ……？<br>いったい何が嬉しいってんだ……？<br>気をつけろ、[ジータ]！
+Japanese,scene_fate_chr272_ep1,detail,憲兵隊長,──今だ、全員で畳み込め！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……っ！？
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>気を取られていたアイルは、</span><br><span class='scene-font-katari'>数名の憲兵に覆い被さられ、</span><br><span class='scene-font-katari'>その体重で地面に屈してしまう。</span>
+Japanese,scene_fate_chr272_ep1,detail,アイル,邪魔だ、ブタ共ッ……！
+Japanese,scene_fate_chr272_ep1,detail,憲兵隊長,ありがとう、団長さん！<br>お陰でコイツの隙を突けた！<br>次は、四番街の応援を頼む！
+Japanese,scene_fate_chr272_ep1,detail,ビィ,お、おう！<br>わかったぜぇ！
+Japanese,scene_fate_chr272_ep1,detail,憲兵隊長,ふぅ……<br>一番厄介なヤツを捕縛できたな。<br>我々の勝利は目前だ！
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,オイオイ……<br>こいつぁなんてザマだ。
+Japanese,scene_fate_chr272_ep1,detail,アイル,ボーマン……！
+Japanese,scene_fate_chr272_ep1,detail,憲兵隊長,なんだ……？<br>コ、コイツは一体……？
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,本来、人間は人間を一発で壊せる。<br>全力で殴れば女でも大男を倒せる。
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,だが、実際そうはいかねぇ。<br>どうしてだかわかるか、アイル？
+Japanese,scene_fate_chr272_ep1,detail,アイル,あぁ？<br>フザけてんのか、テメェ……
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,全力を出せねぇのさ。<br>心に染みついた常識、倫理、道徳……<br>ノイズが闘争本能の邪魔をする。
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,だが、その枷をハズしちまえば？
+Japanese,scene_fate_chr272_ep1,detail,憲兵２,……ぎゃあぁぁぁ！？
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,ご覧のとおり。<br>さっさと立てよ、アイル。<br>このクソ包囲を突破するぞ。
+Japanese,scene_fate_chr272_ep1,detail,アイル,……あぁ。
+Japanese,scene_fate_chr272_ep1,detail,憲兵隊長,ひぃ！？<br>バ、バケモノだッ……！
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>アイルは島を脱出するため、</span><br><span class='scene-font-katari'>停留中の騎空艇に忍び込み、</span><br><span class='scene-font-katari'>倉庫の奥で身を潜めることにした。</span>
+Japanese,scene_fate_chr272_ep1,detail,アイル,で、この艇……<br>どこに向かうか知ってるのか？
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,ハハハ、わかんねぇ！<br>でもよ、喧嘩賭博はブッ潰れた。<br>どのみち、ここにはもう居らんねぇよ。
+Japanese,scene_fate_chr272_ep1,detail,アイル,…………
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,おいおい、落ち込むなっての！<br>また最高の居場所を見つけようぜ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,……あの騎空士、何者だ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,オレにはわかる……<br>半端ない修羅場を踏んでやがった……
+Japanese,scene_fate_chr272_ep1,detail,ボーマン,ふぁ～あ……<br>なんだよオイ、じゃあ俺ぁ寝るぞ？<br>さすがに疲れちまったぜ。
+Japanese,scene_fate_chr272_ep1,detail,アイル,最高の獲物だ……<br>いつかまた、どこかで……
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>とある依頼を終えた一行。</span><br><span class='scene-font-katari'>次の島に向かって航行する中、</span><br><span class='scene-font-katari'>[ジータ]とビィは倉庫を訪れた。</span>
+Japanese,scene_fate_chr272_ep1,detail,ビィ,傷薬、傷薬……っと。<br>でもよぉ、昨日は大変だったな！<br>往生際の悪いヤツばっかりだったぜ。
+Japanese,scene_fate_chr272_ep1,detail,ビィ,まぁ憲兵隊も喜んで……ん？<br>なんだぁ、こんな所で誰か寝てるぞ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,すぅ……すぅ……
+Japanese,scene_fate_chr272_ep1,detail,ビィ,うわぁ！<br>き、昨日の喧嘩屋！？
+Japanese,scene_fate_chr272_ep1,detail,アイル,あ……？<br>き、昨日の獲物ッ！？
+Japanese,scene_fate_chr272_ep1,detail,アイル,アンタの艇かよ……<br>チッ、再会が早すぎて湧かねえ……
+Japanese,scene_fate_chr272_ep1,detail,ビィ,物騒なこと愚痴ってんじゃねぇ！<br>っていうか、なんでここにいるんだよ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,密航だ、世話になる。
+Japanese,scene_fate_chr272_ep1,detail,ビィ,世話なんてするか！<br>っていうか、忍び込んで堂々とするな！
+Japanese,scene_fate_chr272_ep1,detail,ルリア,あ、アイルさん！<br>おはようございます！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……あぁ？
+Japanese,scene_fate_chr272_ep1,detail,ビィ,ル、ルリア？<br>コイツのこと知ってんのか？
+Japanese,scene_fate_chr272_ep1,detail,ルリア,今朝、食堂で聞きました。<br>アイルさんは悪い人達に騙されて、<br>喧嘩の試合をさせられてたんです！
+Japanese,scene_fate_chr272_ep1,detail,ルリア,騎空士になるのが夢で、<br>故郷から出て来たのに……<br>とっても苦労してるんですよ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……はあ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,<span class='scene-font-1'>あぁ、ボーマンか……</span><br><span class='scene-font-1'>姿が見えないと思ったら……</span>
+Japanese,scene_fate_chr272_ep1,detail,ビィ,なるほどなぁ。<br>でも、悪いことはしちまったんだろ？<br>まだ子供だし、憲兵に渡さねぇと……
+Japanese,scene_fate_chr272_ep1,detail,アイル,やってみろ。<br>あと子供はやめろ、チビドラゴン。
+Japanese,scene_fate_chr272_ep1,detail,ビィ,オイラはドラゴンじゃねえ！<br>……こともねぇっていうか、えっ？
+Japanese,scene_fate_chr272_ep1,detail,アイル,ドラゴンだろ。<br>昔、図鑑で系統分類の特徴を見た。
+Japanese,scene_fate_chr272_ep1,detail,ビィ,へ、へへへ……<br>そっかぁ、そうだよなぁ！
+Japanese,scene_fate_chr272_ep1,detail,ビィ,よぉし、わかったぜぇ！<br>オイラ達の騎空団で更生してやるよ！<br>いいだろ、[ジータ]？
+Japanese,scene_fate_chr272_ep1,detail,アイル,なっ……！？
+Japanese,scene_fate_chr272_ep1,sel1_txt,,<span class='scene-font-katari'>そうだね。</span>
+Japanese,scene_fate_chr272_ep1,sel2_txt,,<span class='scene-font-katari'>信用できないけど……</span>
+Japanese,scene_fate_chr272_ep1,detail,アイル,なんなんだよ、アンタら……
+Japanese,scene_fate_chr272_ep1,detail,ビィ,そうかぁ？<br>だってオイラのこと、<br>ドラゴンって言ったんだぜ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,なんなんだよ、その理屈……
+Japanese,scene_fate_chr272_ep1,detail,ルリア,騎空士が夢なんですよね？<br>じゃあ、いっちょうにせきです！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……一石二鳥か？
+Japanese,scene_fate_chr272_ep1,detail,アイル,<span class='scene-font-1'>クソ、ボーマンめ……</span><br><span class='scene-font-1'>逆に面倒なことになってきたぞ……</span>
+Japanese,scene_fate_chr272_ep1,detail,ビィ,なぁなぁ、腹は減ってねぇか？<br>オイラが食堂に案内してやるぜ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,はぁ……<br>いい、オレは寝る。
+Japanese,scene_fate_chr272_ep1,detail,ビィ,へへへっ！<br>寝るなら空いてる個室に案内するぜ！
+Japanese,scene_fate_chr272_ep1,detail,アイル,……っ！<br>倉庫でいいっ……！
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>ごろんと転がるアイル。</span><br><span class='scene-font-katari'>奇妙な縁で一行の旅に加わったものの、</span><br><span class='scene-font-katari'>その心は開かぬまま不貞寝を決め込む。</span>
+Japanese,scene_fate_chr272_ep1,detail,,<span class='scene-font-katari'>その前途には一体、</span><br><span class='scene-font-katari'>何が待ち受けているのだろうか……</span>
+Japanese,scene_chr272_q1_s10,synopsis,,馴れ合いを嫌うアイルは、一行との和やかな生活に苛立ちを募らせていた。そこへボーマンから「グランサイファーを奪っちまおう」と悪辣な提案を受ける。さすがのアイルも躊躇っていると、ある女性が悪党と揉めている現場に遭遇する。その女性とはアイルの実の姉、ジェシカだった。家出して以来、数年ぶりに姉と再会したアイルは、ひとまず悪党を撃退する。
+Japanese,scene_chr272_q1_s10,detail,,<span class='scene-font-katari'>物資を補充するため、</span><br><span class='scene-font-katari'>とある島に降り立った一行。</span>
+Japanese,scene_chr272_q1_s10,detail,,<span class='scene-font-katari'>するとビィとルリアが、</span><br><span class='scene-font-katari'>旅に加わったばかりのアイルに、</span><br><span class='scene-font-katari'>アレコレ世話を焼こうとしていた。</span>
+Japanese,scene_chr272_q1_s10,detail,ビィ,なぁなぁ、アイル！<br>いつも無口だけどよ、<br>ちゃんと団員に挨拶したのか？
+Japanese,scene_chr272_q1_s10,detail,アイル,……これから。
+Japanese,scene_chr272_q1_s10,detail,ルリア,アイルさん、アイルさん！<br>ずっと倉庫で寝てますけど、<br>退屈なら娯楽室もありますよ？
+Japanese,scene_chr272_q1_s10,detail,アイル,……寝るのが趣味だ。
+Japanese,scene_chr272_q1_s10,detail,ビィ,そうだ！<br>ラカムの部屋にダーツがあるぜ！<br>ちょっとやってみろよ！
+Japanese,scene_chr272_q1_s10,detail,アイル,……いい。
+Japanese,scene_chr272_q1_s10,detail,ルリア,じゃあ、本はどうですか？<br>カタリナがいっぱい持ってますよ！
+Japanese,scene_chr272_q1_s10,detail,アイル,……いいから。
+Japanese,scene_chr272_q1_s10,detail,ビィ,う～ん、無愛想なヤツだぜ。<br>まだ空の生活に慣れてねぇのかな？
+Japanese,scene_chr272_q1_s10,detail,ルリア,旅を始めたばかりですし……<br>もっとお話して慣れてもらいましょう！
+Japanese,scene_chr272_q1_s10,detail,アイル,はぁ……
+Japanese,scene_chr272_q1_s10,detail,ボーマン,うぷぷぷぷ……<br>なんだよアイル、つれねぇな～？
+Japanese,scene_chr272_q1_s10,detail,アイル,てめ、ボーマン……！<br>冗談じゃねえぞ、オイ。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,一応歓迎されてんだぜ？<br>猫のひとつも被れよな。
+Japanese,scene_chr272_q1_s10,detail,アイル,……うるせえ、オレは艇を降りる。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,ちょ、おいおい！<br>上手いこと食い扶持を確保できたんだ。<br>もったいねぇことすんなっての。
+Japanese,scene_chr272_q1_s10,detail,アイル,生ぬるいんだよ。<br>……全部アンタのせいだぞ。
+Japanese,scene_chr272_q1_s10,detail,アイル,クソみてえな嘘吹いたせいで、<br>連中が世話を焼こうとしやがる。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,ハッハッハ！<br>お陰で憲兵を完璧に撒けたんだぜ？<br>もちっと辛抱しろ。
+Japanese,scene_chr272_q1_s10,detail,アイル,辛抱……？<br>この先の目論見でもあるのか？
+Japanese,scene_chr272_q1_s10,detail,ボーマン,フッフッフ……<br>俺ぁここ数日で空が気に入ってよ？<br>いっそマジで騎空士になりてぇな、と。
+Japanese,scene_chr272_q1_s10,detail,アイル,アンタともここでサヨナラか。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,ウソウソ、捨てないで！？<br>あ、ちょっと本当だけど。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,奪っちまおうぜ、グランサイファー！
+Japanese,scene_chr272_q1_s10,detail,アイル,あぁ……？
+Japanese,scene_chr272_q1_s10,detail,ボーマン,イイ艇だぜ、アレは。<br>空を突っ切って進むのも気分がイイ。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,どうよ？<br>あの甘ちゃん連中に、<br>世の中の厳しさってもんを教えようぜ。
+Japanese,scene_chr272_q1_s10,detail,アイル,本気で言ってんのか？<br>クズから奪うのはいいが、連中は……
+Japanese,scene_chr272_q1_s10,detail,ボーマン,アイル、言ったろ。<br>常識、倫理、道徳は捨てろ。<br>それが闘争本能を満たす近道さ。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,それによ……<br>お前、あの団長サンと戦いてぇんだろ？
+Japanese,scene_chr272_q1_s10,detail,アイル,……あぁ。
+Japanese,scene_chr272_q1_s10,detail,ボーマン,戦えるぜ、艇を奪えば。<br>嫌ってほど、生きてる実感を味わえる！
+Japanese,scene_chr272_q1_s10,detail,アイル,…………
+Japanese,scene_chr272_q1_s10,detail,ボーマン,決まりだな？
+Japanese,scene_chr272_q1_s10,detail,女性の声,──待ちなさい、貴方達！
+Japanese,scene_chr272_q1_s10,detail,アイル,…………？<br>待てボーマン、あれは……！？
+Japanese,scene_chr272_q1_s10,detail,ならず者,うるせぇんだよ！<br>店長がタダでいいって言ったんだぜ。<br>あんた、なんか関係あんのかよ？
+Japanese,scene_chr272_q1_s10,detail,ジェシカ,私はジェシカ、旅の者です。<br>確かに何も関係ありませんが……<br>恫喝を見過ごす訳にはいきません。
+Japanese,scene_chr272_q1_s10,detail,ならず者,あぁ、そうかい。<br>だったらどうだってんだよ、えぇ？
+Japanese,scene_chr272_q1_s10,detail,ジェシカ,ちゃんと代金を払って下さい。<br>でないと、私が許しませんよ。
+Japanese,scene_chr272_q1_s10,detail,ならず者,こいつぁ傑作だぜ！<br>どう許さないんだ、ジェシカちゃんよ！
+Japanese,scene_chr272_q1_s10,detail,ジェシカ,それは……
+Japanese,scene_chr272_q1_s10,detail,アイル,……姉さん？
+Japanese,scene_chr272_q1_s10,detail,ジェシカ,えっ……？
+Japanese,scene_chr272_q1_s10,detail,ジェシカ,アイル……？<br>貴方、本当にアイルなの……？
+Japanese,scene_chr272_q1_s10,detail,ジェシカ,ううん、私にはわかる！<br>あぁアイル、やっと会えた……！
+Japanese,scene_chr272_q1_s10,detail,アイル,姉さん、こんな所で何を──
+Japanese,scene_chr272_q1_s10,detail,ならず者,おいおい、お涙頂戴かぁ？<br>勝手に感動の再会してんじゃねぇぞ！
+Japanese,scene_chr272_q1_s10,detail,ならず者,ガキ、その馬鹿女を連れて失せろ。<br>今なら言いがかりも水に流してやる。
+Japanese,scene_chr272_q1_s10,detail,アイル,……賛成だ。<br>アンタみたいなクソは便所に流そう。
+Japanese,scene_chr272_q1_s10,detail,ならず者,……あ？<br>なるほどね、死にてぇんだなテメェ？
+Japanese,scene_chr272_q1_s10,detail,アイル,冗談だよ。<br>アンタ、クソ過ぎて便所が壊れちまう。
+Japanese,scene_chr272_q1_s10,detail,ならず者,……死ねコラァァァ！
+Japanese,scene_chr272_q2_s10,synopsis,,アイルの姉ジェシカは、星晶獣ネフティスに攫われたアイルを探し、ずっと旅をしていたと語る。しかし、アイルはボーマンに誘われて自ら家出したのであり、ジェシカの話とは大きな齟齬があった。全てはボーマンの仕業であると勘付いたアイルは、その背中を追いかける。
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,う……うぅ……<br>アイル、アイル……！
+Japanese,scene_chr272_q2_s10,detail,アイル,姉さん……
+Japanese,scene_chr272_q2_s10,detail,,<span class='scene-font-katari'>ならず者を退けた一行。</span><br><span class='scene-font-katari'>アイルはジェシカに抱き締められ、</span><br><span class='scene-font-katari'>険しい表情のまま佇んでいた。</span>
+Japanese,scene_chr272_q2_s10,detail,ビィ,そうか……<br>ジェシカの探してた弟って、<br>アイルのことだったんだな。
+Japanese,scene_chr272_q2_s10,detail,ビィ,でも、ちょっと待てよ？<br>それじゃあアイルはネフティスに……？
+Japanese,scene_chr272_q2_s10,detail,ビィ,良かったな、ジェシカ！<br>久々に会ったと思ったら、<br>アイルが弟だったなんてよ。
+Japanese,scene_chr272_q2_s10,detail,ビィ,あ、でも、なんかヘンだぞ？<br>ジェシカの弟って、確か……
+Japanese,scene_chr272_q2_s10,detail,,<span class='scene-font-katari'>旅の銃士、ジェシカ。</span><br><span class='scene-font-katari'>かつて星晶獣ネフティスを討伐した際、</span><br><span class='scene-font-katari'>一行と共に戦った女性である。</span>
+Japanese,scene_chr272_q2_s10,detail,,<span class='scene-font-katari'>ジェシカはネフティスに、</span><br><span class='scene-font-katari'>弟を攫われてしまったため、</span><br><span class='scene-font-katari'>何年も捜し続けていたのだが……</span>
+Japanese,scene_chr272_q2_s10,detail,,<span class='scene-font-katari'>結局ネフティスの住処に、</span><br><span class='scene-font-katari'>弟の姿は見えなかったため、</span><br><span class='scene-font-katari'>そのまま旅を続けていたのだった。</span>
+Japanese,scene_chr272_q2_s10,detail,ルリア,うぅ……<br>ふたりとも、本当に良かったです！
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,……怖かったでしょう？<br>でも、ネフティスは私達が倒したの……<br>だから、もう安心してね。
+Japanese,scene_chr272_q2_s10,detail,アイル,え……？<br>ネフ、ティス……？
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,それで、今までどうしていたの？<br>ネフティスから逃れた後どこにいたの？
+Japanese,scene_chr272_q2_s10,detail,アイル,ま、待てよ。<br>さっきから何を言ってるんだ？
+Japanese,scene_chr272_q2_s10,detail,アイル,置き手紙は見なかったのか？<br>ボーマンと旅に出るって書いたはずだ。
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,置き手紙？<br>ボーマン……？<br>でも、そんなのまるで家出……
+Japanese,scene_chr272_q2_s10,detail,アイル,ああ、捜索の手間が省けるだろ。<br>オレは自分の性に合った世界を──
+Japanese,scene_chr272_q2_s10,detail,アイル,……ッ！？
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,アイル……！<br>貴方、どうして……！？
+Japanese,scene_chr272_q2_s10,detail,アイル,だからっ！<br>賛成できないだろうけど、<br>納得できるように書いた！
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,手紙なんてなかった！<br>そんなことより、家出なんて……！
+Japanese,scene_chr272_q2_s10,detail,ビィ,ちょ、ちょっと待ったぁ！<br>なんだか話が食い違い過ぎてるぜ？
+Japanese,scene_chr272_q2_s10,detail,ルリア,えっと、アイルさんは……<br>一応家族のことを考えて、<br>置き手紙を残して行ったんですよね？
+Japanese,scene_chr272_q2_s10,detail,アイル,……ああ。
+Japanese,scene_chr272_q2_s10,detail,ジェシカ,でも、そんなのなかった……<br>それに私、街で噂を聞いたんです。<br>アイルがネフティスに攫われたと。
+Japanese,scene_chr272_q2_s10,detail,ビィ,どっちも事実だとすると……<br>じゃあ手紙はどこいったんだ？
+Japanese,scene_chr272_q2_s10,detail,ルリア,それにネフティスの噂……<br>どうしてそんな話が街に……？
+Japanese,scene_chr272_q2_s10,detail,アイル,まさか……
+Japanese,scene_chr272_q2_s10,detail,ボーマン,フ……
+Japanese,scene_chr272_q2_s10,detail,アイル,アンタの仕業か……！<br>待て、どこに逃げる気だ！？
+Japanese,scene_chr272_q2_s10,detail,ビィ,あ、おい、待てよ！？<br>追いかけようぜ、[ジータ]！
+Japanese,scene_chr272_q3_s10,synopsis,,ボーマンはアイルに黙って様々な悪知恵を働かせ、彼が闘争の道に踏み入れることを支援したと告白する。しかし、そのせいで姉が危険な旅をすることになった、と憤慨するアイル。するとボーマンは、自らの正体が「アイルのもうひとつの人格」であることを明かし、アイルの身体を乗っ取ると、一行に襲いかかる。
+Japanese,scene_chr272_q3_s10,detail,,<span class='scene-font-katari'>一行より先を走るアイル。</span><br><span class='scene-font-katari'>やがてボーマンに追いつき、</span><br><span class='scene-font-katari'>その胸倉を力一杯に掴んだ。</span>
+Japanese,scene_chr272_q3_s10,detail,アイル,はぁ……はぁ……<br>ボーマン、一体どういうつもりだ？
+Japanese,scene_chr272_q3_s10,detail,ボーマン,ハハハ、落ち着けっての。<br>悪気はねぇんだよ、悪気は！
+Japanese,scene_chr272_q3_s10,detail,アイル,茶化すな……<br>置き手紙はどうした？<br>どうやってネフティスの噂を流した？
+Japanese,scene_chr272_q3_s10,detail,ボーマン,お前が眠ってる間に破り捨てた。<br>情報操作も街のゴロツキに指示。<br>……だが、お前のためだぜ？
+Japanese,scene_chr272_q3_s10,detail,ボーマン,あんな手紙で納得するかよ。<br>あの幸せ一家は必死になって、<br>お前を捜索するに決まってる。
+Japanese,scene_chr272_q3_s10,detail,ボーマン,そこで、だ……<br>俺達の居場所とは真逆の方角に、<br>足を向けさせてやったって訳さ。
+Japanese,scene_chr272_q3_s10,detail,アイル,どうして俺に黙ってた？<br>そのせいで姉さんは旅を……<br>星晶獣とさえ戦うことになった！
+Japanese,scene_chr272_q3_s10,detail,ボーマン,ん～……<br>あの頃お前、まだ甘ちゃんだったろ？<br>家族を騙すなんて賛成しねぇもんよ。
+Japanese,scene_chr272_q3_s10,detail,ボーマン,なぁ、悪かったよ。<br>謝る、このとぉ～り！
+Japanese,scene_chr272_q3_s10,detail,アイル,謝って済むか、クソヤロウ……！
+Japanese,scene_chr272_q3_s10,detail,ボーマン,なんだよ、本気でキレてんの？<br>そんな姉ちゃん好きだったか？<br>……ハァ、まだまだ甘ちゃんだぜ。
+Japanese,scene_chr272_q3_s10,detail,ボーマン,ひとのせいにすんじゃねぇ。<br>家出も喧嘩も勧めたのは俺だが、<br>食いついてきたのはテメェだろ！？
+Japanese,scene_chr272_q3_s10,detail,アイル,……っ！
+Japanese,scene_chr272_q3_s10,detail,ジェシカ,……アイル！<br>一体どうしたっていうの！？
+Japanese,scene_chr272_q3_s10,detail,アイル,……向こうに行ってろ。<br>まだ話は終わってない。
+Japanese,scene_chr272_q3_s10,detail,ビィ,話……？<br>って、誰と話してるんだ？
+Japanese,scene_chr272_q3_s10,detail,アイル,ボーマンに決まってるだろ！<br>このクソヤロウと話をつける！
+Japanese,scene_chr272_q3_s10,detail,ルリア,ボーマン、さん？<br>この島のひとですか？<br>どこにも見当たりませんけど……
+Japanese,scene_chr272_q3_s10,detail,アイル,……あぁ？
+Japanese,scene_chr272_q3_s10,detail,ジェシカ,大丈夫、なの？<br>家出してる間に何があったの……？
+Japanese,scene_chr272_q3_s10,detail,ボーマン,ハハハ……<br>あ～あ、バレちゃったか。
+Japanese,scene_chr272_q3_s10,detail,アイル,姉さん、後ろ！
+Japanese,scene_chr272_q3_s10,detail,ジェシカ,え……！？<br>な、何もないけど……？
+Japanese,scene_chr272_q3_s10,detail,アイル,嘘、だろ……
+Japanese,scene_chr272_q3_s10,detail,アイル,どうなってるんだ……？<br>オレはイカレちまったのか？
+Japanese,scene_chr272_q3_s10,detail,ボーマン,イカレてたのさ、最初から。
+Japanese,scene_chr272_q3_s10,detail,ボーマン,俺の姿は、お前にしか見えねぇ。<br>俺の声は、お前にしか届かねぇ。<br>俺の存在は、お前しか知らねぇ。
+Japanese,scene_chr272_q3_s10,detail,ボーマン,残念だよ、アイル。<br>お前のことは気に入ってたんだぜ？
+Japanese,scene_chr272_q3_s10,detail,アイル,う……うぅ……<br>うあぁぁぁぁ……！？
+Japanese,scene_chr272_q3_s10,detail,ジェシカ,アイル！？<br>し、しっかりして！
+Japanese,scene_chr272_q3_s10,detail,アイル,あぁ……<br>大丈夫だぜ、「ジェシカ」。
+Japanese,scene_chr272_q3_s10,detail,ジェシカ,きゃあ！？
+Japanese,scene_chr272_q3_s10,detail,ビィ,お、おい！？<br>何してんだよ、アイル！<br>姉ちゃんを突き飛ばすなんて……！
+Japanese,scene_chr272_q3_s10,detail,アイル,悪ィ悪ィ。<br>俺ぁ手加減ってのが苦手でよ？
+Japanese,scene_chr272_q3_s10,detail,ルリア,……っ！？<br>違います、このひと……！<br>アイルさんじゃありません！
+Japanese,scene_chr272_q3_s10,detail,ビィ,な、なんだってぇ？<br>ど、どういうことだよ……！？
+Japanese,scene_chr272_q3_s10,detail,アイル,ハッハッハ！<br>ひっでぇなオイ、俺ぁアイルさ。
+Japanese,scene_chr272_q3_s10,detail,アイル,さぁて、団長サン。<br>体を慣らしてぇんだが、付き合えよ？
+Japanese,scene_chr272_q3_s10,detail,ジェシカ,来ます……！<br>ここは応戦するしか……<br>やりましょう、[ジータ]さん！
+Japanese,scene_chr272_q3_s20,synopsis,,天性の激しい闘争本能を持って生まれたアイルは、穏やかな家庭に人知れず不満を抱えていた。その鬱屈を募らせた結果、自らを闘争の世界に導く人格「ボーマン」を無意識に生み出してしまったのだった。全てを知ったアイルは、凶悪な人格を抱えていることに脅威を感じ、騎空団から離れる決意をするも、[ジータ]に引き留められ、束の間の安息に身を委ねるのだった。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,ハハハ……<br>やっぱやるなぁ、団長サンは。
+Japanese,scene_chr272_q3_s20,detail,アイル,ボーマン……！<br>アンタ一体なんなんだよ……！？
+Japanese,scene_chr272_q3_s20,detail,ボーマン,俺ぁ、お前自身さ。<br>お前が望んだ、もうひとりのアイル。
+Japanese,scene_chr272_q3_s20,detail,アイル,もうひとりの、オレ……？
+Japanese,scene_chr272_q3_s20,detail,ボーマン,お前には持って生まれた、<br>激しすぎる闘争本能があった。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,そいつぁ乱世なら英雄に、<br>治世なら大賊になれるって程のもんだ。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,だが運命のイタズラか……<br>お前は幸せな家庭に授かっちまった。<br>一生、闘争とは縁のねぇ平和な環境さ。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,もったいねぇだろ？<br>軍神の器を秘めてるってのに、<br>ぬるい人生を生きて死ぬなんてよ。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,お前も物心ついた頃には感じてた。<br>「ここは自分の居場所じゃない」と。<br>「ここではないどこかに行きたい」と。
+Japanese,scene_chr272_q3_s20,detail,アイル,そ、それは……
+Japanese,scene_chr272_q3_s20,detail,ボーマン,で、その鬱屈が俺を生んだ。<br>お前が、無意識の中で望んだんだ。<br>テメェでテメェの背中を押す役割を。
+Japanese,scene_chr272_q3_s20,detail,アイル,オレが望んだ……<br>オレひとりでは踏み出せないから……
+Japanese,scene_chr272_q3_s20,detail,ボーマン,そんなビビるこたねぇぞ。<br>歴史に名を残すような奴の心には、<br>大なり小なり俺みてぇな鬼がいる。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,……で、どうだい。<br>腹を割って話した仲だ。<br>また手を組んでもいいぜ、相棒？
+Japanese,scene_chr272_q3_s20,detail,アイル,……何を企んでる？
+Japanese,scene_chr272_q3_s20,detail,ボーマン,愉しかったんだよ、実際。<br>お前が徐々に本能を解き放って、<br>在るべき姿に成長する日々がさ！
+Japanese,scene_chr272_q3_s20,detail,ボーマン,新世界は俺が作ってやる。<br>超ワクワクするぜ、なぁ！
+Japanese,scene_chr272_q3_s20,detail,アイル,消えろ……
+Japanese,scene_chr272_q3_s20,detail,アイル,オレはオレだ……！<br>もうひとりのオレなんざ虫唾が走る！
+Japanese,scene_chr272_q3_s20,detail,ボーマン,ハッハッハ！<br>俺にまで闘争心を燃やすたぁ……<br>残念だが嬉しいぜ、アイル。
+Japanese,scene_chr272_q3_s20,detail,ボーマン,……次は殺す。
+Japanese,scene_chr272_q3_s20,detail,,<span class='scene-font-katari'>豹変したアイルを気絶させ、</span><br><span class='scene-font-katari'>グランサイファーに運んだ一行。</span><br><span class='scene-font-katari'>だが、雰囲気は重苦しいままで……</span>
+Japanese,scene_chr272_q3_s20,detail,ジェシカ,皆さん、ごめんなさい……<br>弟が迷惑をかけた上に、酷い嘘も……
+Japanese,scene_chr272_q3_s20,detail,ビィ,気にすんなって。<br>さっき医者の兄ちゃんも言ってたろ？<br>心の問題は複雑だってよ。
+Japanese,scene_chr272_q3_s20,detail,ルリア,そうですよ。<br>アイルさんもきっと苦しんでて……
+Japanese,scene_chr272_q3_s20,detail,ジェシカ,ですが……<br>私が気づいてやれていれば……
+Japanese,scene_chr272_q3_s20,detail,アイル,……姉さんの、せいじゃない。
+Japanese,scene_chr272_q3_s20,detail,ジェシカ,アイル！？<br>あぁ、もう起きないかと……！
+Japanese,scene_chr272_q3_s20,detail,アイル,誰のせいでもない……<br>オレは自分に振り回された阿呆だ……
+Japanese,scene_chr272_q3_s20,detail,ビィ,お、おいおい！<br>まだ起きるなよ、体が回復してねぇぞ！
+Japanese,scene_chr272_q3_s20,detail,アイル,まだ離陸してないよな？<br>……オレは艇を降りる。
+Japanese,scene_chr272_q3_s20,detail,ルリア,えっ……！？<br>ど、どうしてそんな……
+Japanese,scene_chr272_q3_s20,detail,アイル,ボーマンはオレを殺すと言った。<br>そうなったら、この体はまた……
+Japanese,scene_chr272_q3_s20,detail,ジェシカ,……わかった。<br>でも、私も一緒に行きます。<br>ふたりで解決の方法を探そう？
+Japanese,scene_chr272_q3_s20,detail,アイル,駄目だ！<br>オレも理解しきれてないが、<br>ハッキリわかることがある。
+Japanese,scene_chr272_q3_s20,detail,アイル,……オレのそばにいたら、死ぬぞ。
+Japanese,scene_chr272_q3_s20,sel1_txt,,<span class='scene-font-katari'>心配するな</span>
+Japanese,scene_chr272_q3_s20,sel2_txt,,<span class='scene-font-katari'>団員の面倒は見る</span>
+Japanese,scene_chr272_q3_s20,detail,アイル,……っ！<br>うるせえ、心配なんてするか。
+Japanese,scene_chr272_q3_s20,detail,アイル,……っ！<br>本当になんなんだよ、アンタ。
+Japanese,scene_chr272_q3_s20,detail,ビィ,にしし！<br>それにオイラはドラゴンだぜぇ！<br>大丈夫に決まってんだろ！
+Japanese,scene_chr272_q3_s20,detail,アイル,オレを警戒しろ……<br>当分の間は……だがそのうち……
+Japanese,scene_chr272_q3_s20,detail,アイル,かなら……ず……
+Japanese,scene_chr272_q3_s20,detail,ルリア,また眠っちゃいましたね……<br>ふたりぶんの心を抱えてるから……？
+Japanese,scene_chr272_q3_s20,detail,アイル,すぅ……すぅ……
+Japanese,scene_chr272_q3_s20,detail,,<span class='scene-font-katari'>アイルは唐突に眠り込み、</span><br><span class='scene-font-katari'>[ジータ]の膝に倒れ込んだ。</span>
+Japanese,scene_chr272_q3_s20,detail,,<span class='scene-font-katari'>その横顔はどこか安らいでおり、</span><br><span class='scene-font-katari'>ひとまず一行は胸を撫で下ろすが……</span><br><span class='scene-font-katari'>彼の試練は始まったばかりである。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,synopsis,,アイルは、アイルの闘争本能を解放しようとする自身のもうひとつの人格「ボーマン」からの誘惑に悩まされていた。ボーマンを否定し日々がむしゃらに鍛錬を続けるアイルだったが、解決策が分からない中で焦燥感だけが募る。そんなある日、アイルは鍛錬中に声をかけてきたジークフリートと手合わせをすることになるのだった。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-gray'>オレが目指していたはずの</span><br><span class='scene-font-gray'>「新世界」……</span><br><span class='scene-font-gray'>それはいつの間にか無様にヒビ割れた。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-gray'>真実だと思っていたものに</span><br><span class='scene-font-gray'>詰まっていたのは</span><br><span class='scene-font-gray'>ただの欺瞞でしかないと知った。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-gray'>今オレが立っているのは</span><br><span class='scene-font-gray'>ぐずぐずと沈んでいく泥の上。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-gray'>そんな自分を許せなくて振り回す拳は</span><br><span class='scene-font-gray'>誰にも届かず空を切り、その音は</span><br><span class='scene-font-gray'>むなしく耳に痛い。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,なぁ、アイルよぉ。<br>いつまでそうやって<br>拗ねてるつもりだ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,…………
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,おお怖い怖い。<br>そう睨むなって。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,煩い。<br>アンタと話すことなんて<br>何もない。消えろ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,ハッハッハ！<br>ったく、随分な物言いだな。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,アンタが言ったんじゃないか。<br>オレのことを殺すって。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,えぇ？<br>そんなこと言ったかぁ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,っ、バカにしてんのか！？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,ジョーダン、ジョーダン。<br>怒ンなって。<br>お前次第なんだからよ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,オレ次第？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,なぁ、アイルよぉ……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,お前だって<br>溜まってるだろ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,そろそろ、<br>暴れたくてたまらねぇよな？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,誰が……！
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,だから、クソ真面目に<br>トレーニングなんて<br>してるんだろ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,必死になっちまって……<br>涙ぐましいよなぁ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-4'>違うっ！</span><br>オレは……！
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,オリコウサンぶったやり方は<br>心底かったりぃけど、<br>とりあえず、まぁいいわ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,アイル……お前は、力のない、<br>今の自分が情けなくて<br>不甲斐なくて仕方ねぇんだろ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,なぁ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,だ、まれ……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,ダイジョーブだって！<br>俺とふたりなら、また前みてぇな<br>力を取り戻すなんて簡単だぜ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ボーマン,認めちまえよ、お前には俺が<br>必要なんだって。な？<br>また一緒に楽しくやろうぜ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-4'>やめろっ！！</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>はねのけた手に走る痛みを</span><br><span class='scene-font-katari'>２倍に感じる。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>その不気味な感触に、踏みしめた</span><br><span class='scene-font-katari'>足元の地面がじわじわと</span><br><span class='scene-font-katari'>溶けていくような気がした。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,……ぃ、おい！
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,アイルさん……？<br>アイルさん、大丈夫ですか？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,う、ん……？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>揺さぶられ、何度も名を呼ばれ、</span><br><span class='scene-font-katari'>アイルはゆっくりと覚醒する。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,おっ！<br>起きたか？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,何だ……今、何時……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,もうお昼ですよ、アイルさん。<br>大丈夫ですか？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,昼……？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,ちっとも起きてこねぇから<br>心配になって見に来たんだ。<br>そしたらすげぇうなされててよぉ……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,……そうか。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,あの、大丈夫ですか……？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,ああ……顔、洗ってくる。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,アイルさん……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>ふらりと部屋から出ていく</span><br><span class='scene-font-katari'>アイルを見送り、</span><br><span class='scene-font-katari'>[ジータ]達は顔を見合わせる。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,アイツ、大丈夫かぁ……？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,最近、すごく眠そうにしてることが<br>多いですよね……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,やっぱり、負担になってんだろぉなぁ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,「ボーマン」さん……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,誰のせいでもない……<br>オレは自分に振り回された阿呆だ……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,オレを警戒しろ……<br>当分の間は……だがそのうち……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,かなら……ず……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,また眠っちゃいましたね……<br>ふたりぶんの心を抱えてるから……？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,すぅ……すぅ……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,きっと、アイルさんは<br>戦ってるんだと思います。<br>何か力になれないでしょうか……？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,つってもなぁ……<br>オイラ達に何ができるかなんて<br>見当もつかねぇぜ。
+Japanese,scene_ult_chr272_ep1_q1_s20,sel1_txt,,<span class='scene-font-katari'>いつも通りに</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,sel2_txt,,<span class='scene-font-katari'>気晴らしに</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,……そうだな。<br>オイラ達は、いつも通りに<br>してるしかねぇのかもな。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,はい……<br>私、せめて暗い顔は<br>しないようにします！
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ルリア,そうですね。アイルさんが<br>少しでも楽しい気持ちになれること<br>考えましょう！
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ビィ,とにかく、こういうのは<br>焦っても仕方ねぇよな、きっと。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>明確な答えを見つけられない不安を</span><br><span class='scene-font-katari'>振り払うように、[ジータ]達は</span><br><span class='scene-font-katari'>小さく笑い合うのだった。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-4'>ふっ！</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-4'>はっ！</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,<span class='scene-font-4'>せいっ！！</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,…………はぁ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>グランサイファーの甲板で、</span><br><span class='scene-font-katari'>アイルはほぼ日課となっている</span><br><span class='scene-font-katari'>トレーニングを行っていた。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,こんなことで……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>空に向けて振っていた拳を</span><br><span class='scene-font-katari'>更に強く握りこむ。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>息が切れる程に自分を追い込んでみても</span><br><span class='scene-font-katari'>寒気にも似た焦燥は晴れそうにない。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,オレは、これ以上どうすれば……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,鍛練か？<br>精が出るな。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,ジークフリート、さん……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,もうあがるのか？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,いや、まだやろうかと<br>思ってるけど……
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,それなら、付き合おう。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,は？<br>アンタが？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,ああ。拳闘での手合せも<br>たまにはいい。<br>良ければ相手をしてくれ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,,<span class='scene-font-katari'>そう言ったジークフリートは</span><br><span class='scene-font-katari'>いつも携えている大剣を</span><br><span class='scene-font-katari'>おろそうとする。</span>
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,あ……いや、待ってくれ。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,ん？ どうした？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,久しぶりだからお前には<br>物足りないかもしれんが、それほど<br>鈍ってもいないつもりだぞ？
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,そうじゃなくて……<br>アンタが相手をしてくれるってのは<br>すごく有り難い、です。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,でも、それならいつもの<br>スタイルで……<br>剣は使ってください。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,アイル,そっちの方が、<br>オレとしても集中できる。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,そうか、なるほど。<br>わかった。
+Japanese,scene_ult_chr272_ep1_q1_s20,detail,ジークフリート,それでは、よろしく頼む。
+Japanese,scene_ult_chr272_ep1_q2_s20,synopsis,,ボーマンの影を恐れ手合わせに集中できないアイル。アイルは自分が何のために強くなるのか見出せずにいた。そんな中、[ジータ]達やジェシカは気晴らしの為にアイルを買い物に連れ出す。買い物する一行を待つ間、アイルは偶然地下闘技場の元喧嘩屋と再会する。元喧嘩屋はアイルを再び喧嘩賭博に誘い、アイルがそれを拒否すると襲いかかって来るのだった。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,っ、はぁ、はぁ……！
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,ふむ……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,アイル、お前はまだ<br>何か焦っているのか？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,いや、オレは……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,……すみません。<br>集中するとか言っておいて、<br>こんな体たらく……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,いや、責めているわけではない。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,はい……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>アイルは、額にういた汗を拳で拭う。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（背筋が冷える……すぐそこに、</span><br><span class='scene-font-kokoro'>アイツがいるような気がして……）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（手合せでも、</span><br><span class='scene-font-kokoro'>集中しすぎるとヤバイってことか）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（こんな調子じゃ、実戦なんて……）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,……考えることは悪いことではない。<br>悩むことも必要だ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,焦るな。<br>前にも言っただろう？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,そうだな……<br>強いて言えば「我慢」の差かもな。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,我慢？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,ああ。<br>その場において最善の準備が出来たら、<br>後は機会が訪れるまで待てばいい。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,もちろん、いつ訪れるかはわからない。<br>だが状況の変化に一喜一憂していては、<br>その一瞬を見逃してしまうこともある。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,だろう？<br>だから、我慢が大事なんだ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,機会が訪れるまでの、我慢……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジークフリート,それじゃあ、俺はもう行こう。<br>またな、アイル。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,あ……ありがとうございました。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>どこか上の空で</span><br><span class='scene-font-katari'>ジークフリートを見送り、</span><br><span class='scene-font-katari'>アイルは再び思惑に沈んでいく。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（焦るなと言われても、</span><br><span class='scene-font-kokoro'>オレはたぶんまだそんな段階じゃない）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（きっと、何も準備なんて</span><br><span class='scene-font-kokoro'>できていなくて、もがいて……）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,……いや、そもそも何の準備だ？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（実戦？ オレは、いつどこで、</span><br><span class='scene-font-kokoro'>誰と戦うつもりなんだ……？）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>何故強くなりたいのかわからない。</span><br><span class='scene-font-katari'>けれど、ただ弱い自分も許せない。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>ずっと物足りなかった</span><br><span class='scene-font-katari'>優しく、ぬるま湯のような家庭も、</span><br><span class='scene-font-katari'>ふわふわとした暖かい仲間との時間も。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>その中に身を置く自分を思い浮かべると</span><br><span class='scene-font-katari'>どうしようもない焦燥で手足の先が</span><br><span class='scene-font-katari'>じりじりと焼けるような気がした。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（でも、オレは強くなって、</span><br><span class='scene-font-kokoro'>何をするつもりなのか……）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,それがわからない。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>ぽつりとこぼした言葉は、</span><br><span class='scene-font-katari'>誰に届くこともなく</span><br><span class='scene-font-katari'>風にさらわれて行った。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジェシカ,ふふ、それは驚いちゃいますね。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ルリア,そうなんですよ！<br>ビィさんってば……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ビィ,ええっ！<br>オイラのせいなのかぁ！？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ビィ,なぁ、アイルはどう思う？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,…………
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジェシカ,……アイル、聞いてますか？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,……え？<br>ああ……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジェシカ,アイル……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>気晴らしになれば、とアイルを</span><br><span class='scene-font-katari'>連れて街へ買い物に出た</span><br><span class='scene-font-katari'>[ジータ]達。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>しかし、肝心のアイルの表情は晴れず、</span><br><span class='scene-font-katari'>どこか上の空だった。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ルリア,えっと……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ルリア,あっ、あのお店見てもいいですか？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>気を取り直すように声をあげたルリアに</span><br><span class='scene-font-katari'>[ジータ]はそっと頷き返す。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ルリア,ジェシカさん、行きましょう！
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジェシカ,あ、ルリアちゃん待って！<br>アイル、あなたも……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,オレはいい。<br>ここで待ってるから<br>姉さん達で行ってくれ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ビィ,アイル、眠いのか？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,いや、別に。<br>大丈夫だから。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジェシカ,そう……？<br>じゃあ待っていてね。<br>勝手にいなくならないでください。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,わかってるよ。<br>子供じゃないんだから……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ジェシカ,ふふ、そうでした。<br>じゃあ、ちょっと行ってくるね。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,はぁ……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>ひとりになったアイルは、</span><br><span class='scene-font-katari'>ジェシカ達が入って行った店が</span><br><span class='scene-font-katari'>見える位置に立って壁にもたれかかる。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>今、眠気がないのは事実だ。</span><br><span class='scene-font-katari'>けれど、身体の芯が冷えているようで</span><br><span class='scene-font-katari'>動くのも思考をするのも億劫だった。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,ボーマン,あーあ、ぬるくてあくびが出るなぁ。<br>退屈すぎてうんざりだって、<br>お前も思うだろ、アイル？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,っ……！
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-kokoro'>（日に日にアイツの存在が</span><br><span class='scene-font-kokoro'>デカくなる……このままじゃ駄目だ。</span><br><span class='scene-font-kokoro'>なんとかしないと……）</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,？？？,おい、アイル！<br>アイルじゃねぇか！
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,あぁ？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,？？？,こりゃあいい所で会ったぜ。<br>久しぶりだなぁ、アイル。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,お前……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>振り向いた先にあった顔には</span><br><span class='scene-font-katari'>うっすらと見覚えがあった。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,？？？,なんだなんだぁ？<br>反応薄いじゃねぇか。<br>ひょっとして覚えてねぇのか？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,？？？,地下闘技場で<br>散々顔合わせた仲じゃねぇか。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,……何か用かよ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,へへ、こんな表通りでするような<br>話じゃねぇからよ。<br>ちょっとツラ貸せや。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,お前も、あの一斉検挙を<br>すり抜けてたんだな。<br>流石ってとこか。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,…………
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,愛想のねぇところは相変わらずか。<br>とにかく、ここで会えるとは<br>ついてたぜ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,用があるならさっさとしろよ。<br>暇じゃないんだ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,そう焦るなって。<br>お前にとっても悪くねぇ話だからよ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>男は、アイルの隠そうともしない</span><br><span class='scene-font-katari'>不快な顔には全く構わず、</span><br><span class='scene-font-katari'>馴れ馴れしくその肩に腕をのせる。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,もう一度、その腕で<br>ひとやま当てるつもりはねぇか？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,……は？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,そろそろほとぼりも冷めた頃だからな。<br>また喧嘩賭博を始めようと思ってんだ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,まぁ、最初からあの地下闘技場程の<br>規模ってわけにはいかねぇだろうが……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,お前がいりゃあ、なかなか<br>面白ぇことができそうだ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,断る。他をあたれ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,そう言うなって。<br>お前、あんなに強かったのに<br>もったいねぇじゃねぇか。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,お前の場合、その見た目と強さが<br>釣り合ってねぇところが<br>またいいアクセントなんだよ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,絶対に喧嘩賭博はお前の天職だ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,……やめろ、離せ！
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,,<span class='scene-font-katari'>アイルは、乱暴に男の腕を振り払う。</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,<span class='scene-font-4'>おい！</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,そんな話には乗らねぇよ。<br>オレは、もう二度と喧嘩賭博に<br>関わるつもりはない。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,<span class='scene-font-4'>さっさと失せろ！</span>
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,はぁ！？<br>黙って聞いてりゃ、生意気<br>言ってくれるなぁこのクソガキがよぉ。
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,お前、今更お綺麗な世界で<br>暮らせるとでも思ってんのか？<br>あぁ？
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,アイル,っ……
+Japanese,scene_ult_chr272_ep1_q2_s20,detail,元喧嘩屋,とにかく、計画を話したからには<br>こっちもこのまま<br>引き下がるわけにはいかねぇんだよ！
+Japanese,scene_ult_chr272_ep1_q3_s10,synopsis,,闘争本能を抑えながら元喧嘩屋を退けるアイルだったが、元喧嘩屋の仲間達が集まってき更にアイルに襲いかかる。ボーマンに身体を乗っ取られることを恐れて反撃できないアイル。そこにジェシカとルリアが駆けつけるも、男達はアイルの制止を無視してジェシカに乱暴を働こうとする。その瞬間ついにアイルの理性が弾け飛び、闘争本能が解放されてしまうのだった。
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,っ……はぁ……
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（まだ……まだこの程度なら</span><br><span class='scene-font-kokoro'>抑えていられる……！）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,もういいだろ？<br>さっさと失せろ！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,……やっぱり強ぇなぁ、<br>アイルよぉ。<br>もったいないぜ。
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,……なぁ？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,っ！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,はい協力しますって言うまで<br>引き下がるつもりはねぇからな。<br>覚悟はいいか？ アイル。
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,クソっ！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>大勢の男達に囲まれたアイルは、</span><br><span class='scene-font-katari'>反撃しようと握った拳を</span><br><span class='scene-font-katari'>迷うように震わせた。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（この人数を相手にするのは……！）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,ぐ……！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>背筋を冷たい手でなぞられるような</span><br><span class='scene-font-katari'>悪寒に、アイルの膝から力が抜ける。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,おいおいどうしたぁ？<br>無抵抗でこのまま<br>殴られるつもりかよ！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（駄目だ、眠気が……）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>容赦のない殴打を受けながら</span><br><span class='scene-font-katari'>どこか他人事のような眠気を感じて、</span><br><span class='scene-font-katari'>アイルは地面にうずくまった。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,情けねぇ姿だなぁ、おい！<br>お前がこんなに腑抜けちまってるとは、<br>アテがはずれたもんだぜ！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,く、そ……
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（こんなにも無様な姿を</span><br><span class='scene-font-kokoro'>晒すことになるなんて……</span><br><span class='scene-font-kokoro'>でも……）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（またアイツに自由を与えるよりは</span><br><span class='scene-font-kokoro'>マシ……何より、眠くて、もう……）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>途切れそうになる思考で、</span><br><span class='scene-font-katari'>唇の端に滲んだ血の味に呻いた時──</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,──アイル！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,っ！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>飛び込んできた声に、</span><br><span class='scene-font-katari'>瞬時に頭の中のもやが晴れる。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,これはいったい……！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>改めて感じる痛みに顔を歪めながら</span><br><span class='scene-font-katari'>上げた視線の先、姉であるジェシカが</span><br><span class='scene-font-katari'>路地を覗き込んで驚愕していた。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ルリア,っ、アイルさん！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>更に、その後ろから</span><br><span class='scene-font-katari'>ルリアも顔を出す。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,っ、バカ……来るな！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,あなた達！<br>何をしているんですか！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,はぁ？<br>なんだなんだ？<br>アイルの知り合いかぁ？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,待て、おい！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,がっ！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>身を起こそうとしたアイルの背中に</span><br><span class='scene-font-katari'>男達の踵がめりこむ。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,お前はそこでねんねしてな。
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ルリア,アイルさんっ！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,<span class='scene-font-4'>やめなさいっ！</span><br>アイルを離して！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,まぁまぁお嬢ちゃん。<br>ふたりともかわいいねぇ。
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,触らないでください！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,アイル！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,おーっと！<br>おとなしくしといた方が<br>いいんじゃねぇかな？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ルリア,きゃっ……！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,やめろっ！<br>おい、[ジータ]はどうした！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ルリア,[ジータ]は、別の場所に……<br>私達、手分けして<br>アイルさんを探してて……
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,チッ……
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,おいおい、無視しねぇで<br>俺達も仲間に入れてくれよ、なぁ？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,アイルよぉ、こーんなかわい子ちゃんに<br>骨抜きにされて腑抜けたのか、お前？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,う、るせぇ……ふたりを離せ！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,そりゃあもう気持ちいい<br>ぬるま湯だったんだろうなぁ。<br>是非仲間に入れて欲しいもんだぜ！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,くそ、離せっ！！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（頭が、痛い……）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>煮えたぎるような怒りと焦り、</span><br><span class='scene-font-katari'>そして相反する眠気の間で揺さぶられ、</span><br><span class='scene-font-katari'>頭が割れるようだった。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-kokoro'>（駄目だ、このままじゃ……</span><br><span class='scene-font-kokoro'>オレは……っ！）</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>身動きの取れない中、</span><br><span class='scene-font-katari'>その均衡を破ったのは</span><br><span class='scene-font-katari'>ジェシカだった。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,どきなさい！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,あなた方がどこのどなたかは<br>知りませんが、こんな事をして、<br>許されると思うんですか！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,あーあー、うるせぇうるせぇ。<br>生意気な女は、<br>好みじゃねぇんだよなぁ。
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>男は、ジェシカの髪を乱暴に掴んで</span><br><span class='scene-font-katari'>力任せに引く。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,きゃあっ！！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,テメェ……！！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-4'>うおぉぉぉっ！！</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>視界は赤と白に明滅し、</span><br><span class='scene-font-katari'>そして思考まで塗りつぶした。</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,アイル,<span class='scene-font-4'>この……クソ豚野郎共がっ！！</span>
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,ぐ、ぎゃああっ！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ジェシカ,アイル！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,ルリア,アイルさんっ！？
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,元喧嘩屋,やめ……やめてくれえぇぇっ！！
+Japanese,scene_ult_chr272_ep1_q3_s10,detail,,<span class='scene-font-katari'>男達の悲鳴も、</span><br><span class='scene-font-katari'>ジェシカとルリアの困惑の声も、</span><br><span class='scene-font-katari'>もう、全てが遠かった。</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,synopsis,,元喧嘩屋達を倒し、艇に戻ってきた[ジータ]達。しかし、アイルの身体はボーマンに乗っ取られてしまっていた。アイルを演じながら、ボーマンは「お前の闘争心は本能だ、身を委ねればいいんだよ！」とアイルに言い放つ。ボーマンを止めようと殴りかかるアイルだったがボーマンには勝てず、ボーマンは「俺がうまくやってやる」とにやりと笑うのだった。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ビィ,いやぁ、そんなことに<br>なってたなんてな。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,,<span class='scene-font-katari'>無事に合流を果たした</span><br><span class='scene-font-katari'>[ジータ]達は、揃って</span><br><span class='scene-font-katari'>グランサイファーへと戻っていた。</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ビィ,ホント、危なかったなぁ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]も、離れて悪かった、</span><br><span class='scene-font-katari'>とルリアに謝る。</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ルリア,いいえ、[ジータ]が悪いんじゃ<br>ないです！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ルリア,それに……
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ルリア,アイルさんが助けてくれましたから！<br>相手はたくさんいたのに。<br>すごかったんですよ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ビィ,ははっ！<br>やっぱ強ぇんだな、アイル！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,あれくらい大したことねぇよ。<br>相手が弱すぎ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ルリア,怪我は大丈夫ですか？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,この程度ヘーキヘーキ！<br>むしろ今は絶好調だぜ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ビィ,最近、ずっと眠そうだったけど<br>それももういいのか？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,ああ、もう問題ねぇな。<br>スッキリしてるぜ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ルリア,良かったぁ……<br>心配してたんですよ。<br>ね、ジェシカさん。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ジェシカ,……はい、本当に。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,,<span class='scene-font-katari'>ジェシカは、何かを探るように</span><br><span class='scene-font-katari'>アイル──ボーマンの顔を</span><br><span class='scene-font-katari'>じっと見つめる。</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,…………
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ジェシカ,ねぇ、アイル……
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,ん？ どうしたよ、<br>「姉さん」？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ジェシカ,……ううん、なんでもない。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,ハッハッハ！<br>アイルよぉ、気分はどうだ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,っ、テメェ……！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,今のお前に睨まれたって<br>怖くもなんともねぇなぁ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,なんとも中途半端で<br>お粗末な展開じゃねぇか？<br>なぁ、アイル。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,中途半端……？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,何をとぼけてんだよ。<br>わかってんだろ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,お前さぁ、何がしたかったわけ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,何がって、オレは……
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,俺を拒絶して、<br>それでも力にすがって。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,そんで結局こうやって俺に飲まれてる。<br>その理由が、疎んでたはずのクソ<br>みてぇにぬるい絆を守るためって……
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,笑っちまうよな、本当に！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,…………
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,そういえば、なんか<br>面倒なこと考えてたっけ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,何のために力を使うか？<br>とかなんとか。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,それが、どうした。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,お前、本当に馬鹿だなぁ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,腹が減ることに、眠くなることに、<br>理由なんてあるか？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,それは……
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,同じなんだよ、アイル。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,お前の闘争心は、<br>力を、闘いを求める欲求は<br>本能だ！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,理由だとか下らねぇことを<br>気にしてねぇで、<br>身を委ねればいいんだよ！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,…………
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,まぁ安心しろって。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,めんどくせぇことは俺が全部<br>ブッ壊して、<br>わかりやすくしてやるからよ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,……駄目だ！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,あ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,何をするつもりか知らないが、<br>アンタの勝手にはさせねぇ！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,……アイルよぉ、<br>口でいくらわめいても<br>お前に俺が止められるわけねぇだろ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,クソっ……！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,いいねぇ、来いよ！<br>そういうのは好きだぜ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,<span class='scene-font-4'>黙れぇっ！！</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,,<span class='scene-font-katari'>アイルとボーマンは、</span><br><span class='scene-font-katari'>己の存在を刻み付けるように</span><br><span class='scene-font-katari'>激しく拳をぶつけ合う。</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,ほらほら、アイル！<br>もっとスピードあげられるだろ？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,っ、ふざけ……るなっ！！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,ハッハハハ！<br>ぬるいんだよ、アイルぅ！！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,ぐぁっ！？
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,,<span class='scene-font-katari'>空気が焦げるような猛攻の前に、</span><br><span class='scene-font-katari'>膝をついたのはアイルの方だった。</span>
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,……まぁ、俺が勝つよな。当然。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,アイル,クソ、が……！
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,ボーマン,大人しく見てろって。<br>俺がうまくやってやるからよ。
+Japanese,scene_ult_chr272_ep1_q4_s10,detail,,<span class='scene-font-katari'>にやりと笑うボーマンを</span><br><span class='scene-font-katari'>制止することは、</span><br><span class='scene-font-katari'>今のアイルにはできなかった。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,<span class='scene-font-place'>ザンクティンゼル</span>を発ち、風に導かれるまま新たな島へと流れ着いた<span>[ジータ]</span>一行。<span>[ジータ]</span>の乗ってきた騎空艇は不時着し、大破してしまうが、そこへ現れたひとりの男が<span>[ジータ]</span>へと助言を与える。
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を飛び立った一同は</span><br><span class='scene-font-katari'>旅の支度を整えるべく、</span><br><span class='scene-font-katari'>近隣の島へと向かっていた。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>しかし、カタリナの不慣れな操縦に、</span><br><span class='scene-font-katari'>騎空艇は悲鳴と黒煙を上げ、</span><br><span class='scene-font-katari'>急激にその高度を下げていく。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>緑の草原に柔らかな風が遊ぶこの地で</span><br><span class='scene-font-katari'>空の果てへと至る、</span><br><span class='scene-font-katari'>[ジータ]の物語が始まりを告げる。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,けほっ……<br>み、みんな無事か？<br>ルリアは……？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ルリア,平気だよ……けほっ。<br>[ジータ]は大丈夫ですか？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel1_txt,,<span class='scene-font-katari'>なんとか……</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel2_txt,,<span class='scene-font-katari'>立てそうにない……</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ルリア,よかったぁ……<br>すごい揺れだったから、<br>怪我してないか心配で……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,伊達に修行はしてないぜ！<br>だよなっ！ [ジータ]！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,なに言ってんだよ、[ジータ]！<br>これくらいで立てなくなるほど、<br>やわな奴じゃないだろ！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,しっかし……<br>何がどうなったんだ？<br>墜落したのか？ オイラ達。
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,面目ない……<br>騎空艇の操縦が、<br>まさかここまで難しいとは……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,――おいおいおい、なんだこりゃ？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>一同が乗ってきた艇を見やると、</span><br><span class='scene-font-katari'>その傍らには</span><br><span class='scene-font-katari'>見知らぬ男が立っていた。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,ったく、ひでぇことしやがるな……<br>動力部が爆発したのか……？<br>うわっ、竜骨も割れてやがる……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,これじゃもう、どう修理したって<br>こいつは二度と空には出られねぇぜ？<br>なぁ……アンタ達が乗って来たのか？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,そうだが……君は？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,なんだ……アンタ達騎空団なのか？<br>っても、人数を見る限り、<br>駆け出しってとこか……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,騎空団か……いいかもな！<br>オイラ達で騎空団を、<br>旗揚げしちまうってのも！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,なぁ、[ジータ]！<br>親父さんも<span class='scene-font-spword'>星の島</span>へ行く前は、<br>騎空団を率いてたって言ってたぜ！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,はっ……やめとけやめとけ。<br>騎空艇を飛ばすには、<br>特別な技術が必要なんだぞ？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,仮にも騎空団を名乗るってんなら、<br>操舵士のひとりでも仲間にしてから<br>名乗るこったな。
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>それだけ言い残すと、</span><br><span class='scene-font-katari'>謎の男は[ジータ]の前から</span><br><span class='scene-font-katari'>去って行った。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,操舵士か……<br>確かに、空の旅を続けるのなら<br>不可欠な人員だな……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,っていうか、<br>何だったんだ？ あいつ。<br>言うだけ言ってどっか行きやがって……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,さぁな。<br>ともかく、いまは街を目指そう。<br>そこで旅の支度を整えられるはずだ。
+Japanese,"scene_cp1_q1_s20,112",synopsis,,街に向かう道中、<span>[ジータ]</span>一行はカタリナの知識を借りて、自分達の置かれている状況や、今後の旅に必要なものを整理する。
+Japanese,"scene_cp1_q1_s20,112",detail,ビィ,街が見えてきたぜ！<br>結構デカい街だな！
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,風に流されてきたことを考えると、<br>ここは<span class='scene-font-place'>ポート・ブリーズ群島</span>の主島、<br>エインガナ島だろう。
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,この群島は交易が盛んなんだ。<br>街まで行けば、<br>手に入らないものはないだろうな。
+Japanese,"scene_cp1_q1_s20,112",detail,ルリア,ねぇねぇ、カタリナ<br>お空の旅って、なにが必要なのかな？
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,そうだな……<br>まず私達は、兎にも角にも、<br>瘴流域を突破しなければならない。
+Japanese,"scene_cp1_q1_s20,112",detail,ルリア,あ！ 知ってる！ それ！<br>えーっと……なんだか怖いものが、<br>ズバーンって空を区切ってるんだよね？
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,その通りだ。<br>瘴気の満ちる一帯、瘴流域が、<br>世界をいくつかの空域に分断している。
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,ここ<span class='scene-font-place'>ポート・ブリーズ群島</span>を含む空域は<br>ファータ・グランデ空域と呼ばれ……<br><span class='scene-font-place'>エルステ帝国</span>の勢力圏でもある。
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,私の講義をちゃんと聞いていたんだな。<br>偉いぞ、ルリア。
+Japanese,"scene_cp1_q1_s20,112",detail,ルリア,えへへ～！<br>ねぇねぇ、トカゲさん！<br>私、褒められちゃいました！
+Japanese,"scene_cp1_q1_s20,112",detail,ビィ,だからオイラは、<br>トカゲじゃねーっつの！
+Japanese,"scene_cp1_q1_s20,112",detail,ビィ,それで？<br>その瘴流域を突破するには、<br>いったい何が必要だってんだ？
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,大きく分けて、ふたつ。<br>移動手段と、<span class='scene-font-spword'>空図</span>だ。
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,移動手段とは主に騎空艇のことだな。<br>しかし、素人の操縦では<br>非常に危険だと身に染みてわかった……
+Japanese,"scene_cp1_q1_s20,112",detail,ビィ,あんな不時着してちゃぁ、<br>命がいくつあっても足りないもんな……
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,ああ、だから私達は<br>騎空艇の操縦を生業とする者……<br>操舵士を仲間にする必要がある。
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,そして、<br>その騎空艇で進むべき、<br>航路を記したもの……それが<span class='scene-font-spword'>空図</span>だ。
+Japanese,"scene_cp1_q1_s20,112",detail,ルリア,それがあれば、瘴流域を抜けられるの？
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,むしろ、<span class='scene-font-spword'>空図</span>無しで瘴流域に挑むのは<br>自殺行為に等しい。<br>……一握りの化物を除いて、な。
+Japanese,"scene_cp1_q1_s20,112",detail,ビィ,けどよぅ、<span class='scene-font-spword'>空図</span>はバラバラになってて、<br>各島の守護神みたいな<br>大星晶獣が持ってるんだろ？
+Japanese,"scene_cp1_q1_s20,112",detail,カタリナ,そう言われているな……<br>まぁ、要するに私達は、<br>前途多難極まりないわけだ……
+Japanese,"scene_cp1_q1_s20,112",detail,魔物,グオォォ！
+Japanese,"scene_cp1_q1_s20,112",detail,ビィ,っと、出やがったぜ！ 魔物だ！<br>長い道のりになるのは間違いねぇが、<br>まずは目の前の敵から片付けねぇとな！
+Japanese,"scene_cp1_q2_s10,121",synopsis,,街に着いた<span>[ジータ]</span>一行は操舵士を仲間にすべく、旅の世話をしてくれるよろず屋へと向かう。街の操舵士達は皆出払っているという中、名前の上がったとある男を訪ねるため、アンガド高原を目指す。
+Japanese,"scene_cp1_q2_s10,121",detail,,<span class='scene-font-katari'>[ジータ]一行は空を渡る手段を求め、</span><br><span class='scene-font-katari'>騎空団の旅支度を整えてくれるという</span><br><span class='scene-font-katari'>よろず屋に来ていた。</span>
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,いらっしゃ～い！<br>ご用件はなんですか～？
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,旅に必要な道具の手配から、<br>仕事の仲介、騎空士の斡旋まで、<br>よろず屋シェロちゃんにおまかせ～
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,旅の準備なら、<br>よろず屋によろ～ず！<br>うぷぷぷぷ……
+Japanese,"scene_cp1_q2_s10,121",detail,ルリア,こんなちっちゃい子なのに<br>お店を切り盛りしてるなんて……<br>偉いですね！
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,ちっちっち～<br>人を見かけで判断しちゃいけませんよ～
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,こう見えて、<br>海千山千百戦練磨の商人なんですから～<br>甘く見てると痛い目見ちゃいますよ～？
+Japanese,"scene_cp1_q2_s10,121",detail,カタリナ,ははは……頼もしいな。<br>ところで店主、私達は<br>空を渡る手段が欲しいのだが……
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,密航ですか～？<br>それならいまキャンペーンが……
+Japanese,"scene_cp1_q2_s10,121",detail,カタリナ,い、いや、違う！<br>私達は操舵士を<br>仲間にしたくてここに来たんだ。
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,操舵士さんですか～<br>うーん……残念ですけど、<br>出払ってる方がほとんどですね～
+Japanese,"scene_cp1_q2_s10,121",detail,シェロカルテ,忙しい時期なんで～<br>腕の良い操舵士は<br>どこでも引っ張りだこなんですよ～
+Japanese,"scene_cp1_q2_s10,121",detail,ルリア,そうなんですか……<br>どうしよう……
+Japanese,"scene_cp1_q2_s10,121",detail,町人１,なぁ、操舵士ってんなら、<br>あいつがいいんじゃねぇか？
+Japanese,"scene_cp1_q2_s10,121",detail,町人２,あいつって、ラカムのこと？<br>確かに腕もいいし、<br>暇そうにしてたけど……
+Japanese,"scene_cp1_q2_s10,121",detail,町人３,ああ、だってあいつはもう……
+Japanese,"scene_cp1_q2_s10,121",detail,町人１,気が変わってるかもしれないだろ！<br>なぁ、トカゲ、<br>お前もそう思うよな？
+Japanese,"scene_cp1_q2_s10,121",detail,ビィ,いや、オイラに聞かれても困るぜ……<br>っていうか、トカゲゆーな！ 噛むぞ！
+Japanese,"scene_cp1_q2_s10,121",detail,カタリナ,ははは、落ち着けビィくん。<br>怒っていても可愛いぞ？
+Japanese,"scene_cp1_q2_s10,121",detail,ビィ,ううう、うっせー！<br>それでその、<br>ラカムって奴はどこにいるんだよ？
+Japanese,"scene_cp1_q2_s10,121",detail,町人１,あいつはいつも、<br>街の外をひとりでぶらぶらしてるよ。
+Japanese,"scene_cp1_q2_s10,121",detail,町人１,アンガド高原にある騎空艇の近くだ。<br>すぐに見つかるとは思うが……<br>魔物も出る場所だ、用心しろよ。
+Japanese,"scene_cp1_q2_s10,121",detail,ルリア,行ってみましょう、[ジータ]<br>どんな人か、<br>まずは会ってみてからです！
+Japanese,"scene_cp1_q2_s20,122",synopsis,,アンガド高原にあるという騎空艇を目指して進む<span>[ジータ]</span>一行。しかし、カタリナは騎空艇が高原に置かれているという状況に疑問を持つ。
+Japanese,"scene_cp1_q2_s20,122",detail,ビィ,騎空艇……<br>なかなか見えてこねーな。
+Japanese,"scene_cp1_q2_s20,122",detail,カタリナ,この草原に騎空艇か……妙な話だな。
+Japanese,"scene_cp1_q2_s20,122",detail,ルリア,妙って？<br>だって、私達の乗ってきた騎空艇だって<br>いまは草原に置いてあると思うけど……
+Japanese,"scene_cp1_q2_s20,122",detail,カタリナ,くっ……そ、それは、<br>墜落し……させてしまったからな……
+Japanese,"scene_cp1_q2_s20,122",detail,カタリナ,騎空艇というのは<br>通常、島の外縁や高所の桟橋に<br>停泊するものなんだ。
+Japanese,"scene_cp1_q2_s20,122",detail,ビィ,なんだかんだと考えるより、<br>行ってみるのが一番に決まってらぁ！<br>どんどん先に進もうぜ！
+Japanese,"scene_cp1_q3_s10,131",synopsis,,ラカムという操舵士を仲間にすべく、高原の騎空艇を目指す<span>[ジータ]</span>一行。しかし、辿り着いたその場所に彼の姿はなく、<span>[ジータ]</span>達はエルステ帝国の一団を見つけ街に迫る危機を知る。
+Japanese,"scene_cp1_q3_s10,131",detail,ビィ,――こいつが……<br>街の奴が言ってた騎空艇か？
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,そのようだが……<br>これはまるで……
+Japanese,"scene_cp1_q3_s10,131",detail,ルリア,墜落してそのままって感じですね。
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,これがラカムとやらの、<br>愛機というわけではないのか……？<br>いったいなにが……
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,むっ！？<br>マズイな……[ジータ]、見えるか？<br><span class='scene-font-place'>エルステ帝国</span>の軍隊だ。
+Japanese,"scene_cp1_q3_s10,131",detail,ビィ,向こうはまだ<br>こっちに気づいてないみたいだぜ？<br>隠れようぜ！ まだ間に合う！
+Japanese,"scene_cp1_q3_s10,131",detail,？？？,あーあーあー、面倒くさいなぁー<br>ねぇ、これ本当にボク必要？
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵１,フュリアス将軍閣下……<br><span class='scene-font-place'>ポート・ブリーズ群島</span>は<br>以前から我々の支配を拒んでおり……
+Japanese,"scene_cp1_q3_s10,131",detail,フュリアス,知ってるよ！ 馬鹿にしてんの？<br>ちっ……あーもうイライラするなぁ。<br>誰かこいつ、お仕置き部屋連れてって。
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵１,ひっ！？<br>フュ、フュリアス将軍！<br>先ほどの非礼は謹んでお詫びし……
+Japanese,"scene_cp1_q3_s10,131",detail,フュリアス,黙れよ……<br>その首、この場ではねようか？<br>もういらないよね？ ね？
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵１,そ、そんな……
+Japanese,"scene_cp1_q3_s10,131",detail,フュリアス,それでー？<br><span class='scene-font-place'>エルステ帝国</span>に抵抗する馬鹿どもを<br>どうする計画なんだっけ？
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵２,はっ……<br>すでに兵を各所に配置し、<br>準備は整っております。
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵２,閣下の一声があれば、<br>すぐにでも街を<br>壊滅させてご覧に入れましょう。
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,<span class='scene-font-4'>――ふざけるなッ！！</span>
+Japanese,"scene_cp1_q3_s10,131",detail,フュリアス,あ？ 誰だい？ 君。
+Japanese,"scene_cp1_q3_s10,131",detail,ルリア,カ、カタリナ！<br>せっかく隠れてたのに……
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,先ほどから黙って聞いていれば<br><span class='scene-font-4'>……この外道が！！</span>
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,帝国の支配への抵抗を理由に、<br>街を滅ぼすなど、<br>許されるわけがないだろう！！
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵２,こ、こいつら、<br>機密の少女と、<br>それを持ち出した護衛の……！？
+Japanese,"scene_cp1_q3_s10,131",detail,ビィ,ああもう！<br>姐さんの気持ちはわからなくないけど、<br>ここは堪えてほしかったぜ！
+Japanese,"scene_cp1_q3_s10,131",detail,ビィ,逃げるぞ！<br>ルリア！ 姐さん！ [ジータ]！<br>ここで捕まるわけにはいかねぇぜ！
+Japanese,"scene_cp1_q3_s20,132",synopsis,,騎士としてあるべき姿を理解しつつも抑えきれないカタリナの正義感を垣間見つつ、<span>[ジータ]</span>一行は街の者に危機を伝える決意を新たにする。
+Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,――申し訳ない。
+Japanese,"scene_cp1_q3_s20,132",detail,ルリア,もういいよ、カタリナ。<br>あの人達に怒ってたのは、<br>カタリナだけじゃないもん。
+Japanese,"scene_cp1_q3_s20,132",detail,ルリア,むしろ、<br>カタリナが怒ってくれて<br>すっきりした……ね？ [ジータ]。
+Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,あのような非道を目の前にすると、<br>つい熱くなってしまうんだ……
+Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,騎士たるもの、<br>常に冷静であろうとは、<br>思っているのだが……
+Japanese,"scene_cp1_q3_s20,132",detail,ビィ,しかし、<br>とんでもねぇこと聞いちまったな……
+Japanese,"scene_cp1_q3_s20,132",detail,ルリア,ですね……<br>帝国が攻めてくるって、<br>何とかして街の人達に伝えないと……！
+Japanese,"scene_cp1_q3_s20,132",detail,ビィ,だな！<br>まずは追ってきてる帝国の兵士を<br>なんとかしねぇと！
+Japanese,"scene_cp1_q4_s10,141",synopsis,,エルステ帝国の一団と交戦する<span>[ジータ]</span>一行。数の利に押され、<span>[ジータ]</span>達は苦しい戦いを強いられる。しかし、帝国の将軍が高原の騎空艇を破壊しようとしたその時、空を裂く一撃が将軍を貫いた。
+Japanese,"scene_cp1_q4_s10,141",detail,カタリナ,むっ？ こ、ここは……
+Japanese,"scene_cp1_q4_s10,141",detail,ルリア,逃げ回ってるうちに、<br>もとの騎空艇のそばまで、<br>戻って来ちゃった……
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,あれ！？<br>なんだい、<br>戻ってきてくれたの？
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,嬉しいなぁ！<br>君達ってウチの国から、<br>指名手配を受けてるんだってね！
+Japanese,"scene_cp1_q4_s10,141",detail,？？？,将軍サマ、ご機嫌だねぇ～<br>いいねぇ～<br>こういう時の彼は嫌いじゃないなぁ～
+Japanese,"scene_cp1_q4_s10,141",detail,？？？,黙れ……立場をわきまえろ。
+Japanese,"scene_cp1_q4_s10,141",detail,ビィ,くそっ……しつこい連中だぜ！
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,ねぇねぇねぇ！<br>なんで戻ってきたの？
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,もしかしてさぁ、<br>あの艇で逃げようとか思ってた？<br>あたり？ ねぇねぇ！
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,ぎゃははははは！！<br>こんなボロ艇、飛べるわけねーだろ！
+Japanese,"scene_cp1_q4_s10,141",detail,カタリナ,やはりあの艇は<br>飛べる状態ではないのか……？
+Japanese,"scene_cp1_q4_s10,141",detail,カタリナ,上手く使えればと、<br>少しは思っていたが……
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,こんな！ こんなボロ艇がさぁ！<br>空を？ ぎゃははははは！！
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,あー、でも、いいや、<br>念には念を入れておこうか。<br>おい、誰でもいい、この艇ぶっ壊せ。
+Japanese,"scene_cp1_q4_s10,141",detail,ルリア,え？ そんな……<br>そんな大きな傷だって無いし、<br>修理すればきっと……
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,飛ばれちゃ困るんだよなぁ！！<br>おい！ 誰か早く……
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,<span class='scene-font-5'>ふぎゃっ！？</span>
+Japanese,"scene_cp1_q4_s10,141",detail,？？？,ったく、<br>ボロだとかなんだとか、<br>好き勝手言いやがって……
+Japanese,"scene_cp1_q4_s10,141",detail,？？？,おい、そこのチビ！<br>俺の艇になにしようとしやがる！！
+Japanese,"scene_cp1_q4_s10,141",detail,ビィ,おい、あいつ！<br>不時着したオイラ達に、<br>色々言って去ってった奴じゃねーか！？
+Japanese,"scene_cp1_q4_s10,141",detail,帝国兵２,なんだ貴様は！<br>貴様、こいつらの仲間か！？
+Japanese,"scene_cp1_q4_s10,141",detail,？？？,は？<br>いやいやいやいや、え？ なに？<br>どういうこと？
+Japanese,"scene_cp1_q4_s10,141",detail,帝国兵２,問答無用だ！ ひっ捕らえろ！
+Japanese,"scene_cp1_q4_s10,141",detail,カタリナ,マズイぞ！<br>あの男も追われている！
+Japanese,"scene_cp1_q4_s10,141",detail,ビィ,ってもオイラ達も逃げねーと！<br>今度こそ、<br>道に迷ってる余裕はねーぞ！
+Japanese,"scene_cp1_q4_s20,142",synopsis,,エルステ帝国の兵士達に追い詰められ、絶体絶命の危機に瀕したその時、<span>[ジータ]</span>達に助言を与えた謎の男が救いの手を差し伸べる。
+Japanese,"scene_cp1_q4_s20,142",detail,ルリア,どうしよう……追い詰められてる！
+Japanese,"scene_cp1_q4_s20,142",detail,カタリナ,万事休すといったところか……
+Japanese,"scene_cp1_q4_s20,142",detail,？？？,おい、てめぇら！ こっちだ！
+Japanese,"scene_cp1_q4_s20,142",detail,ビィ,あんたは！？
+Japanese,"scene_cp1_q4_s20,142",detail,？？？,こっちに俺の隠れ家がある！<br>案内するからついて来い！
+Japanese,"scene_cp1_q4_s20,142",detail,ビィ,だ、そうだぜ！<br>[ジータ]！<br>あいつを追おう！
+Japanese,"scene_cp1_q4_s20,142",detail,帝国兵２,<span class='scene-font-4'>逃がすものか！</span>
+Japanese,"scene_cp1_q4_s30,143",synopsis,,謎の男に助けられた<span>[ジータ]</span>一行は、男の隠れ家である地下教会で、この男こそが凄腕の操舵士と謳われるラカムであることを知る。
+Japanese,"scene_cp1_q4_s30,143",detail,？？？,ふぅ……<br>帝国はもう、<br>探すのを諦めたみたいだぜ。
+Japanese,"scene_cp1_q4_s30,143",detail,カタリナ,かたじけない……<br>いまといい、不時着したときといい……<br>助けられてばかりだな。
+Japanese,"scene_cp1_q4_s30,143",detail,ラカム,ったく……<br>俺はラカムってんだが、<br>アンタ達は何者なんだ？
+Japanese,"scene_cp1_q4_s30,143",detail,,<span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>自分達の置かれている状況を説明した。</span>
+Japanese,"scene_cp1_q4_s30,143",detail,ビィ,ま、そーいうわけで、<br>オイラ達には、<br>操舵士の仲間が必要なんだ！
+Japanese,"scene_cp1_q4_s30,143",detail,ラカム,へぇ……そりゃ大変なこって。
+Japanese,"scene_cp1_q4_s30,143",detail,カタリナ,まさか君が、<br>街で名を聞いたラカムだったとはな。<br>いや……これも何かの縁か。
+Japanese,"scene_cp1_q4_s30,143",detail,ルリア,あの……<br>急なお願いなのはわかってるんですけど<br>私達の……仲間になってくれませんか？
+Japanese,"scene_cp1_q4_s30,143",detail,ラカム,ああ……断る。
+Japanese,"scene_cp1_q4_s30,143",detail,ビィ,えっ！？<br>だって、不時着したときも、<br>あんなに親切に……
+Japanese,"scene_cp1_q4_s30,143",detail,ラカム,あれは、<br>艇が可哀想だったから言っただけだ。
+Japanese,"scene_cp1_q4_s30,143",detail,ラカム,それにな……俺は空を捨てたんだ。<br>もう二度と空は飛ばねぇ……<br>舵を握ることもねぇだろうよ。
+Japanese,"scene_cp1_q4_s30,143",detail,,<span class='scene-font-katari'>そう語るラカムの表情は硬く、</span><br><span class='scene-font-katari'>その拒否の裏側にある真意を、</span><br><span class='scene-font-katari'>決して見せようとはしていなかった。
+Japanese,"scene_cp1_q4_s30,143",detail,フュリアス,ぐ……が……
+Japanese,"scene_cp1_q4_s30,143",detail,？？？,あーらーらー<br>将軍サマ、大丈夫なのこれ？<br>当たり所悪いんじゃないの？ これ。
+Japanese,"scene_cp1_q4_s30,143",detail,？？？,心配いらない……<br>聞いてるだろ、こいつは大丈夫だ。<br>少し時間は必要みたいだけどな。
+Japanese,"scene_cp1_q4_s30,143",detail,？？？,そういやそうだっけ？<br>とはいえ、しばらく起きないなら、<br>僕達の出番かな？
+Japanese,"scene_cp1_q4_s30,143",detail,？？？,だろうな……
+Japanese,"scene_cp1_q4_s30,143",detail,？？？,そっかそっか、うんうん。<br>お金は貰っちゃってるし、<br>それ相応のお仕事はしないとねっ！
