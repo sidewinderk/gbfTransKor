@@ -1656,7 +1656,7 @@ function translate_StoryText(stext, jsonFile) {
     if (!skip) {
         jsonFile.some(function (item) {
             let sc = SceneCodeFromURL();
-            if (item.SceneCode.includes(sc)) {
+            if (String(item.SceneCode).includes(sc)) {
                 reservedData.push(item);
             }
         });
