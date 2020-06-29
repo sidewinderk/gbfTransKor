@@ -1,4 +1,588 @@
 Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",synopsis,,大食い大会本戦当日。午前の部に振り分けられたコルルとレオナは思いがけぬ予選通過で前日よりも自信をつけた様子。アーミラは優勝すればヘルヘイムの情報が手に入る可能性が高まると知って真剣に優勝を目指すと宣言する。前日から一転、賑やかな雰囲気から緊迫した空気に変わりつつ、コルル、アーミラ、レオナは[ジータ]達のエールを受けて本戦に臨むのだった。,테스트。테스트部に振り分けられたコルルとレオナは思いがけぬ予選通過で前日よりも自信をつけた様子。アーミラは優勝すればヘルヘイムの情報が手に入る可能性が高まると知って真剣に優勝を目指すと宣言する。前日から一転、賑やかな雰囲気から緊迫した空気に変わりつつ、コルル、アーミラ、レオナは[ジータ]達のエールを受けて本戦に臨むのだった。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>大食い大会２日目。</span><br><span class='scene-font-katari'>本戦当日。</span>,테스트。테스트部に振り分けられたコルルとレオナは思いがけぬ予選通過で前日よりも自信をつけた様子。アーミラは優勝すればヘルヘイムの情報が手に入る可能性が高まると知って真剣に優勝を目指すと宣言する。前日から一転、賑やかな雰囲気から緊迫した空気に変わりつつ、コルル、アーミラ、レオナは[ジータ]達のエールを受けて本戦に臨むのだった。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,コルル,今日も力の限り戦い申す！,테스트。테스트部に振り分けられたコルルとレオナは思いがけぬ予選通過で前日よりも自信をつけた様子。アーミラは優勝すればヘルヘイムの情報が手に入る可能性が高まると知って真剣に優勝を目指すと宣言する。前日から一転、賑やかな雰囲気から緊迫した空気に変わりつつ、コルル、アーミラ、レオナは[ジータ]達のエールを受けて本戦に臨むのだった。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,イオ,うんうん、その意気よ！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,私も、予選を通過したからには<br>精一杯頑張らないと。<br>負けちゃった人に申し訳ないし。,테스트。테스트部に振り分けられたコルルとレオナは思いがけぬ予選通過で前日よりも自信をつけた様子。アーミラは優勝すればヘルヘイムの情報が手に入る可能性が高まると知って真剣に優勝を目指すと宣言する。前日から一転、賑やかな雰囲気から緊迫した空気に変わりつつ、コルル、アーミラ、レオナは[ジータ]達のエールを受けて本戦に臨むのだった。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,気合い十分ですね、レオナさん！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>コルルとレオナは思いがけず</span><br><span class='scene-font-katari'>本戦出場を果たしたことで、</span><br><span class='scene-font-katari'>前日よりも自信が漲っていた。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,頑張れよ、ふたりとも！<br>皆で応援してっからな！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,本当はどっちも勝てよ<br>って言いてぇけど、<br>決勝に進めるのはひとりだからな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,コルル,つまり、わたしとレオナさんは……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,一応、敵っていうことになる……かな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>つい先刻、予選通過者は本戦の</span><br><span class='scene-font-katari'>午前の部と午後の部の組分けのため、</span><br><span class='scene-font-katari'>クジ引きを行っていた。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>その結果、コルルとレオナは</span><br><span class='scene-font-katari'>同じ午前の部に</span><br><span class='scene-font-katari'>振り分けられたのだった。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,予選は基準をクリアできれば<br>誰でも通過できたから、明確に<br>敵とも味方とも言えなかったけど……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,今回は、少なくとも片方は<br>負けることになる。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,コルル,そ、そうでごんすね……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,あっ、ご、ごめんね！<br>緊張させようとか、<br>そういうのじゃなくて……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,ビィ君が昨日言ったように、<br>恨みっこなしで<br>楽しく頑張ろうねっていう話。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,誰かが勝つってことは、<br>誰かが負けるってことだから。<br>勝負事だし、仕方ないよ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,コルル,わかり申した！<br>悔いの残らぬようお相手致す！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,うん、よろしくね。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,へへっ、こりゃ本戦も楽しみだな！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,あーん……がぶっ！！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,<span class='scene-font-4'>うわっ！？</span><br>って、アーミラ！<br>お前どこ行ってたんだよ！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,クジ引き終わったら勝手に<br>どっか消えちまって……ってか、<br>その手に持ってる食べ物はなんだよ！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,もぐもぐ……<br>歩いてたら、知らないやつらが<br>応援の気持ち？ をくれた。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>アーミラは持っていた串焼きの束を</span><br><span class='scene-font-katari'>見せびらかすように手を伸ばす。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,もぐもぐ……<br>これ食べて今日も頑張れって言ってた。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,ああ、なるほどな。<br>昨日アーミラがすげぇ活躍したから、<br>一気に顔が知られたってことか。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,ふふ。<br>応援の気持ち、美味しい……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,あはは……<br>アーミラさんらしいですね……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,でも、アーミラさん。<br>これから本戦が始まるのに、<br>そんなに食べて大丈夫なんですか？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,たしかアーミラさんも<br>午前の部でしたよね？<br>もう少しで始まっちゃいますよ？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,んぐっ……ごくん。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,お腹すいた……<br>早く始まってほしい。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,そ、そうですか……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,ルリア、こいつに<br>オイラ達の常識は通じねぇよ。<br>出会い方の時点でぶっ飛んでただろ？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,昨日の予選でも半端なく<br>食ってたワケだし、これくらい<br>おやつ感覚なんじゃねぇか？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,今も平気で食ってるし、<br>もしかするとアーミラの優勝も<br>あり得るかもな！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,うん。<br>いちばん食べて、賞品は私が食べる。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,とんだ番狂わせだって皆驚いてたし<br>一気に有名人になっちまいそうだぜ。<br>どこの島行っても声かけられたりな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,どこの島行っても……<br>評判、ヘルヘイムにも届く？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,え？ あー……かもしれねえな。<br>どこにあんだか知らねぇけど……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,<span class='scene-font-4'>お母さんにも届く！？</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>アーミラは興奮の余り</span><br><span class='scene-font-katari'>咄嗟にビィの身体を掴み、</span><br><span class='scene-font-katari'>前後に激しく揺らす。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,ちょ、おおおい落ち着けって……！<br>そうと決まったわけじゃねぇぞ！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,私がいちばん食べる。<br>そして賞品を食べて……<br>お母さんに、探してるって伝える……！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>アーミラはビィの身体から手を放し、</span><br><span class='scene-font-katari'>決意を固めるように拳を握り締める。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,アーミラさん、とても真剣です……！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,予選の時からすごかったけど……<br>さらに強敵になった感じだね。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,コルル,ま、負けられないでごんす……！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>僅かに緊迫感が流れる中、</span><br><span class='scene-font-katari'>遠くからレッドラックが</span><br><span class='scene-font-katari'>からかい交じりに声をかけてくる。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,おーおー、燃えてるな！<br>勝負ってのはそうじゃねぇと！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,おっさん、クジ引き終わったのか？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,おう、俺ぁ午後の部になった。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,そっか。<br>じゃあ皆とは別々だな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,そいつは残念だ。<br>午前の部も面白そうなんだがな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,レッドラックとは戦わない？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,おっさんは午後の部だって言ったろ？<br>戦うとしたら明日の決勝だな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,なんだ、俺と戦いたかったのか？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,うん。全員に勝たないと優勝できない。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>優勝候補を目の前に</span><br><span class='scene-font-katari'>堂々と勝利宣言をするアーミラに、</span><br><span class='scene-font-katari'>一行は目を丸くする。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,お前、おっさんがいるってのに<br>すげぇ肝据わってんな……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,ほう……<br>そいつはつまり、宣戦布告か？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,違う。<br>誰にも負けないと言っただけ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,…………
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,……？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,<span class='scene-font-4'>ふっ……だはははっ！</span><br>いい目してるじゃねぇか！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,うん。目はいい。<br>遠いところもよく見える。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,ははっ、そうじゃねぇさ。<br>勝負師の目をしてるって意味だ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,こいつぁ楽しくなってきたぜ。<br>こりゃ今日負けるわけにはいかねぇな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,なに言ってんだよ。<br>おっさんなら余裕だろ？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,可能性はゼロじゃねぇからな。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,ここ10年近く無敗を貫いちゃいるが、<br>俺は相手を見くびったことは<br>一度もねぇよ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,むしろすげぇ奴らが<br>集まってるからこそ、<br>俺は勝ちてぇって思うのさ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,それに、午後の部にはあの野郎もいる。<br>油断なんざできねぇよ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,あの野郎って、もしかして<br>暇潰しのマッシュとかいう──
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,マッシュ,<span class='scene-font-4'>だぁれが暇人じゃあッ！！</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,<span class='scene-font-4'>うっひゃあ！？</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,マッシュ,<span class='scene-font-spword scene-font-4'>“極潰し”</span><span class='scene-font-4'>、じゃ！</span><br>二度目はないど！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,マッシュ,のう、レッドラック！<br>おどれも午後の部じゃ聞いたけん、<br>頼むなら今のうちと思うがの。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,あん？<br>そりゃどういう意味だ？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,マッシュ,あのレッドラックが<br>決勝にも残れんゆうたら<br>ふうがわりぃじゃろうが。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,マッシュ,午前の部に変えてくれっちゅうて<br>頼み込むのも、手ぇじゃけぇの！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,はん、誰がそんな<br>恥ずかしい真似するかよ。<br>そのセリフ、そっくりそのまま返すぜ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,マッシュ,ほざくのう、レッドラック。<br>その言葉……忘れるんやないど。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>マッシュはレッドラックを</span><br><span class='scene-font-katari'>焚きつけるだけ焚きつけ、</span><br><span class='scene-font-katari'>意気揚々と去っていく。</span>
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,ったく、毎度毎度<br>飽きねぇ奴だな……
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,ふふっ。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,なんだ、ルリア？<br>何がおかしいんだ？
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ルリア,レッドラックさんとマッシュさん、<br>本当は仲良しさんなんだなと<br>思いまして。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,ビィ,喧嘩するほど仲がいいって言うしな。<br>さっきも、あのおっちゃんのこと<br>油断できねぇとか言ってたし。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,<span class='scene-font-4'>かっ！ 誰があんな奴！</span><br>仲良しなんてサブイボ出ちまうだろ！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,この話は終いだ！<br>ほら嬢ちゃん達、<br>早く会場行かねぇと始まっちまうぞ！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,コルル,行ってくるでごんす！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,アーミラ,私がいちばん食べる……！
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レオナ,私も、ふたりに負けないように<br>頑張らないと。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,レッドラック,決勝で待ってるからな。<br>全力で戦ってこい。
+Japanese,"scene_evt200628_cp3_q1_s10,7556311",detail,,<span class='scene-font-katari'>一行にエールを送られ、</span><br><span class='scene-font-katari'>コルル、アーミラ、レオナは</span><br><span class='scene-font-katari'>本戦に臨むのだった。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",synopsis,,本戦の料理は樹クラゲのゼリーアイスで、アーミラがスタートから１位を維持する。しかし冷たい物を一気に食べた参加者達は頭痛に襲われ、ペースが落ちていく。コルルも同じく頭痛に襲われるが、頭に力を込めると痛みが和ぐことに気が付き、ペースを取り戻して追い上げを見せる。アーミラも負けじと頭痛を堪えながら料理を平らげていき、デッドヒートを繰り広げるのだった。
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,<span class='scene-font-4'>さあ！</span><br>早くも２日目となりました今大会！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,予選から白熱した戦いが繰り広げられ、<br>会場の熱気も前日に増して<br>高まっているように見受けられます！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,さて、本戦では午前と午後の<br>ふたつの部に分けられて<br>行われるわけでありますが……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,この午前の部では、優勝候補の<br>レッドラック選手とマッシュ選手が<br>午後の部に分けられ不在のため……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,誰が決勝に駒を進めても<br>不思議ではない、大注目の<br>展開になることが予想されます！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,しかし！ その中でも注目株と言えば、<br>やはり予選でインパクトを残した<br>この選手でしょう！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,<span class='scene-font-4'>そう……アーミラ選手です！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,観客の男性１,<span class='scene-font-4'>アーミラ！</span><br><span class='scene-font-4'>一気に優勝しちまえー！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,観客の女性１,<span class='scene-font-4'>期待してるわよー！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,アーミラ,さっきご飯くれた、知らないやつら。<br>うん、私は負けない。
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,多くの声援が送られております！<br>やはり前日の影響は<br>非常に大きかったようです！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,イオ,むぅ……<br>アーミラも確かにすごいけど、<br>コルルだって負けてないんだから！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,イオ,<span class='scene-font-4'>コルルー！</span><br>あんたの意地、見せてやりなさーい！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,<span class='scene-font-4'>イオー！</span><br>応援、感謝致す！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,ルリア,レオナさんも応援してますからねー！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,レオナ,ありがとう！<br>ルリアちゃんの分も頑張るからー！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,会場の雰囲気も<br>だいぶ温まって参りました！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,それでは、そろそろ料理の紹介に<br>移りたいと思います！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,本日のメニューは……こちら！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,<span class='scene-font-4'>樹クラゲのゼリーアイス、</span><br><span class='scene-font-4'>でございます！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,ルリア,わぁ～！<br>とってもきれいで<br>美味しそうですね～！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,予選とは趣向を変え、本戦では<br>デザートを用意させていただきました！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,こちら、<span class='scene-font-place'>アウギュステ</span>の<br>鮮やかな海をイメージした、<br>見た目にも美しい料理でございます！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,食用の花で着色した青い樹クラゲは、<br>噛めば微かに染み出す塩味により<br>アイスクリームの甘みを引き立て……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,口いっぱいに優しい味が広がる、<br>目も舌も存分に楽しむことの出来る<br>一品でございます！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,ごくり……<br>珍妙な見た目であり申すが、<br>聞いているだけで食欲が……！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,参加者の皆様には<br>ゆっくりご堪能ください、と<br>申し上げたいところでありますが……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,本戦からは、制限時間内に<br>最も多く料理を食した方が<br>決勝進出となります！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,ここからは、まさにサバイバル！<br>弱肉強食！ <br>仁義なきフードファイトでございます！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,それでは、暑さでデザートが<br>溶けてしまわないよう、<br>速やかに始めさせていただきます！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,３人,…………！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,本戦午前の部……スタートです！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,いただくでごんす！<br>もぐ、もぐもぐ……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,……っ！？<br>口の中がひんやりと……！？
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,温かいシチューとは<br>真逆の感覚であり申すが、<br>こちらもと～っても美味でごんす～！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,レオナ,はぁぁぁ幸せ～<br>こういう暑い日には、<br>冷たいものが身に染みる……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,レオナ,あっ、いけない……！<br>まったりしてる場合じゃなかった……！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,アーミラ,もぐもぐ、ごくん……<br>甘い、美味しい……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,アーミラ,……ねえ、次がほしい。
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,おおっと！ さすがアーミラ選手！<br>早くも１杯目を完食！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,やはり最有力は<br>アーミラ選手なのかー！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,アーミラさん、手強いでごんす……！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,レオナ,わ、私も負けないよ……！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>コルルとレオナは</span><br><span class='scene-font-katari'>アーミラの勢いに負けまいと</span><br><span class='scene-font-katari'>デザートを次々空にしていく。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>しかし時間が経つにつれ、</span><br><span class='scene-font-katari'>満腹とは異なる理由で</span><br><span class='scene-font-katari'>参加者達のペースが落ちていく。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,レオナ,あいたたた……<br>頭が……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,キーンとするでごんす……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,アーミラ,<span class='scene-font-4'>～～～～～～っ！！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,<span class='scene-font-4'>あーっと！</span><br>やはりこの瞬間が訪れました！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,しかしこれも試練のひとつです！<br>胃袋の大きさのみが<br>大食いの真髄にあらず！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,いかにこの難局を乗り越えるのか！<br>それが勝敗を左右すると言えましょう！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,うぅ、この痛み……<br>ストーン・ブレイクに頭を<br>カチ割られた時のような……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,わたしの石頭を苦しめるとは……<br>恐ろしい食べ物でごんす……
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,しかし、わたしにも<br>プライドというものがあり申す！<br>わたしの石頭は、何度も屈しは致さん！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,<span class='scene-font-4'>ふんッ！！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>コルルは頭痛に打ち勝とうと、</span><br><span class='scene-font-katari'>息を止めて頭に力を込める。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>するとコルルの意思が通じたのか、</span><br><span class='scene-font-katari'>徐々に痛みが和らいでいく。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,……っ！？
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,レッドラック,<span class='scene-font-kokoro'>（ほう、やるな……</span><br><span class='scene-font-kokoro'>本人も理由は</span><br><span class='scene-font-kokoro'>わかっちゃいねぇだろうが）</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,これは、またとない好機でごんす！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>コルルは状況を見極めようと、</span><br><span class='scene-font-katari'>横目でアーミラの様子を窺う。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,アーミラ,くっ……頭が……痛い……！<br>魔法、呪い……？<br>ちがう、何……！？
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,<span class='scene-font-kokoro'>（アーミラさんとの差は</span><br><span class='scene-font-kokoro'>それほどあり申さん！</span><br><span class='scene-font-kokoro'>逆転は可能でごんす！）</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,コルル,<span class='scene-font-4'>ここから追い上げ申す！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>コルルは頭痛が再発するたび</span><br><span class='scene-font-katari'>頭に力を込めて痛みを緩和させ、</span><br><span class='scene-font-katari'>ペースアップを図る。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,<span class='scene-font-4'>おーっと！ コルル選手！</span><br>ここにきて凄まじい追い上げを<br>見せている！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,独走中のアーミラ選手を<br>今にも追い抜こうという勢い！<br>逆転はあるのかー！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,アーミラ,負け、ない……！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,,<span class='scene-font-katari'>アーミラはコルルの勢いに</span><br><span class='scene-font-katari'>危機感を覚え、頭痛を必死に我慢して</span><br><span class='scene-font-katari'>デザートを飲み込んでいく。</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,いや、アーミラ選手も負けじと応戦！<br>コルル選手を引き離そうとする！
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,<span class='scene-font-2'>コルル・アーミラ</span>,<span class='scene-font-4'>…………ッ！！</span>
+Japanese,"scene_evt200628_cp3_q2_s10,7556321",detail,司会者,<span class='scene-font-4'>果たして、勝利はどちらに！！</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",synopsis,,制限時間を迎え、午前の部はコルルとアーミラが同率１位で決勝に進出する。その後、[ジータ]達が飲み物を求めて出店を回っていると、優雅に涼むルシオを発見する。ビィはルシオの持っていたジュースを分けてほしいと頼むが、製造日が２年前だと知らされて諦める。一行が去った後、ルシオは持っていた飲み物をひと舐めし、「マズいですね」と静かにそれを焼却するのだった。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,<span class='scene-font-4'>そこまで！</span><br><span class='scene-font-4'>時間いっぱい、終了です！</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,うぷ……<br>もう食べられないでごんす……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,アーミラ,頭痛い……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>司会者の指示によって</span><br><span class='scene-font-katari'>係員が参加者のグラスの集計を始め、</span><br><span class='scene-font-katari'>観客達は固唾を呑んで行方を見守る。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>やがて集計結果が司会者に伝えられ、</span><br><span class='scene-font-katari'>司会者の声が再び会場に響き渡る。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,予選に引き続き、<br>熱き展開となりました本戦午前の部！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,この会場にいる誰もが、<br>結果を今か今かと<br>待ち望んでいることでしょう！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,それでは発表させていただきます！<br>本戦午前の部、勝者は……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,<span class='scene-font-4'>アーミラ選手ッ！！</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,アーミラ,アイスクリーム、強かった……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,そんな……<br>力及ばずで申すか……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,しかしこれも真剣勝負の結果……<br>無念でごんすが──
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,そして今回はもうひとり……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,<span class='scene-font-4'>コルル選手ですッ！！</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,ほえ……？
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,会場の皆様も驚かれたことでしょう！<br>私も結果を伝えられた時は<br>同じ心境でございました！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,両選手の食した量は同じ……<br>よって、両者ともに<br><span class='scene-font-4'>決勝進出であります！！</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,イオ,<span class='scene-font-4'>すごいすごい！</span><br>コルルったら、本当に勝っちゃった！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,アーミラもさすがだな！<br>期待通り勝っちまいやがった！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,わたし……決勝……？
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,司会者,それでは、午前の部は終了となります！<br>引き続き午後の部もお楽しみください！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>本戦午前の部を終えた</span><br><span class='scene-font-katari'>コルル、アーミラ、レオナを</span><br><span class='scene-font-katari'>一行は明るく出迎える。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,イオ,やったわね、コルル！<br>あたし感動しちゃった！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,いんやぁ～……<br>まだ実感が湧き申さぬが……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,コルル,わたしの精一杯を<br>出し尽くしたでごんす！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,アーミラ,甘くて美味しい、だけど強い……？<br>考えすぎて疲れた……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,あんだけ必死で食ってりゃな。<br>ま、とにかくお疲れさん！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,レオナ,ふたりともおめでとう。<br>私じゃもう全然勝負にならなかったよ。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルリア,レオナさんも、お疲れ様です！<br>本戦に進めただけでも<br>すごいことですよ！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,レオナ,ふふ、ありがとう、ルリアちゃん。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,レオナ,負けちゃったのは悔しいけど……<br>美味しいものもたくさん食べたし、<br>楽しかったかな。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,レッドラック,<span class='scene-font-4'>だっはっは！</span><br>勝った負けた関係なく、<br>全員いいツラしてやがる！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,レッドラック,いいもん見せてもらった！<br>俺も気合いを入れ直さねぇとな！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,次はおっさんの番だからな！<br>期待してるぜ！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,レッドラック,おう！ 任せとけ！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>その後、午後の部開始まで</span><br><span class='scene-font-katari'>自由時間にしようと決め、団員達と</span><br><span class='scene-font-katari'>一旦別れた[ジータ]。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>[ジータ]は応援で喉が渇いたという</span><br><span class='scene-font-katari'>ビィとルリアに付き添い、</span><br><span class='scene-font-katari'>飲み物を求めて出店を回っていた。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルリア,いっぱいありますね～！<br>何にしようか迷っちゃいます！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,そうだなぁ、じゃあオイラは……ん？
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,おや、皆さん。<br>今日も暑さが厳しいですね。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>ルシオは飲み物を片手に、</span><br><span class='scene-font-katari'>設置されたパラソルの下で</span><br><span class='scene-font-katari'>優雅に過ごしていた。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,お前、どこにいるかと思ったら<br>会場の外で涼んでやがったのかよ。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,どうせなら、皆と一緒に<br>応援に来りゃよかったのに。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,すみません。<br>是非とも応援に行きたかったのですが<br>急用が入りまして。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,私は見守る者ですので。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルリア,はあ……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,相変わらず<br>ワケのわかんねぇことばっかり<br>言ってやがるな、お前は。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,ところで、<br>お前が持ってるそのジュース<br>美味そうだな！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,喉がカラカラで<br>干物になっちまいそうでよ。<br>ひと口くれよ！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,申し訳ありません。<br>これを皆さんにお渡しするわけには。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,いいじゃねぇか、ちょっとくらい。<br>代わりにあとで買ってきた飲み物<br>分けてやるからさ。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,いけません。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,なんでだよ！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,このジュース、製造日が２年前です。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,うぇ！？<br>な、なんだよそりゃあ！
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,余剰在庫が<br>紛れていたのかもしれませんね。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ビィ,さすがにそりゃ無理だ……<br>オイラ達も早く飲み物<br>買いに行こうぜ。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>諦めるビィの後ろに続いて、</span><br><span class='scene-font-katari'>[ジータ]とルリアも</span><br><span class='scene-font-katari'>出店に足を向ける。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,すみません、ビィ様。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,…………
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>[ジータ]達が去った後</span><br><span class='scene-font-katari'>独り言のように謝罪を呟き、持っていた</span><br><span class='scene-font-katari'>飲み物をじっと見つめるルシオ。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,ふむ……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>それを指先につけてひと舐めし、</span><br><span class='scene-font-katari'>合点のいった様子で頷く。</span>
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,やはり。これは……
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,ルシオ,マズいですね。
+Japanese,"scene_evt200628_cp3_q3_s10,7556331",detail,,<span class='scene-font-katari'>ルシオは静かな笑みを崩さぬまま、</span><br><span class='scene-font-katari'>手の中の小瓶を跡形もなく焼却した。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",synopsis,,午前の部が終了後、本戦で敗退した男が、人けのない浜辺で食べずに隠し持っていたゼリーアイスを捨てていると、アイスの匂いに誘われた巨大樹クラゲが現れる。響く男の悲鳴に、休憩していた[ジータ]達が駆けつける。一行は食べ物を粗末にしたことが原因だと知って怒りを露わにするが、人命を優先して巨大樹クラゲを迎え撃つのだった。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>メインビーチから少し離れた、</span><br><span class='scene-font-katari'>岩礁に囲まれた浜辺。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>その人けのない場所で、</span><br><span class='scene-font-katari'>本戦午前の部で敗退した男のひとりが</span><br><span class='scene-font-katari'>周囲を警戒しながらうろついていた。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,くそっ、あのガキども……！<br>余計な真似してくれやがって……！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,俺が決勝に残れば、賭けた金<br>全取りだったってのに……！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,ツイてねぇぜ、ちくしょう……！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>仲間内で賭博をしていた男は、</span><br><span class='scene-font-katari'>悪態をつきながら</span><br><span class='scene-font-katari'>服に隠していたものを海に捨てる。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,やってらんねぇぜ！<br>こんな大会、さっさと終わっちまえ！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,？？？,────……
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,あん……？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,？？？,────！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,<span class='scene-font-4'>な、なななんだコイツ……！？</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>その頃[ジータ]達は、飲み物片手に</span><br><span class='scene-font-katari'>大会の来場者用に設けられた休憩所で</span><br><span class='scene-font-katari'>ひと息ついていた。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,ふぃ～！<br>生き返るぜ～！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ルリア,極楽です～
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,もぐもぐ、んぐ……
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>同じく休憩所では、</span><br><span class='scene-font-katari'>レッドラックが黙々と</span><br><span class='scene-font-katari'>野菜を食べている。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,おっさんもこの暑さで結構汗かいたろ？<br>ちょっとならオイラのやるぜ？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,気遣いはありがてぇが、<br>極力胃に負担をかけたくねぇんでな。<br>悪ぃが遠慮しとくぜ。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,ふーん、なるほどな。<br>でも野菜はいいのかよ？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,勝負はすでに始まってんのさ。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,どういうこった？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,そいつは秘密だ。<br>それを聞かせちまったら、明日の敵に<br>塩を送っちまうことになるからな。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>そう言ってレッドラックは一瞬、</span><br><span class='scene-font-katari'>コルルとアーミラをちらりと見る。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,<span class='scene-font-2'>コルル・アーミラ</span>,……？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,ま、興味があるなら教えてやるよ。<br>この大会が終わったら──
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,<span class='scene-font-2'>本戦参加者の男の声</span>,<span class='scene-font-4'>ひえええぇぇーーーーーっ！？</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,コルル,<span class='scene-font-4'>っ！？</span><br>な、何事でごんす！？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,アーミラ,<span class='scene-font-4'>あっち！ 岩場！</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,<span class='scene-font-4'>急ぐぞ！</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>一行は休憩所を飛び出し、</span><br><span class='scene-font-katari'>悲鳴の聞こえた場所へと急ぐ。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ルリア,いました！ あそこです！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>一行が現場に駆けつけると、</span><br><span class='scene-font-katari'>巨大な生物が悲鳴を上げる男を</span><br><span class='scene-font-katari'>襲おうとしているところだった。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,本戦参加者の男,<span class='scene-font-4'>た、助けてくれぇーーーっ！！</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,？？？,<span class='scene-font-4'>────！！</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,な、なんだ、あのデッケェのは！？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,あの見た目と形状からして、<br>おそらく樹クラゲだろうな。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,あいつが？<br>でもよろず屋は、地元のやつらでも<br>倒せるくらいの生物だって言ってたぜ？
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,ありゃどう見ても、<br>並の魔物よりよっぽど危険だぞ！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,奴らの親玉だな、あいつは。<br>仲間を人間様に大量に捕獲されちまって<br>怒り心頭ってところか。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,にしちゃあ、やけに興奮してるな……<br>あれは怒ってるってより、<br>何かにつられてるような……
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,コルル,……っ！<br>皆、あの男の足元を見るでごんす……！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,,<span class='scene-font-katari'>一行は一斉に男の足元を見ると、</span><br><span class='scene-font-katari'>そこには鮮やかに光る青いものが</span><br><span class='scene-font-katari'>散らばっていた。</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ルリア,あれって……<br>もしかして、本戦で用意された<br>デザートじゃないですか！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,そういうことか……<br>あの野郎、本番で<br>インチキしやがったな。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,本番中に料理を服にでも隠して、<br>こっそり捨てに来たってところか。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,コルル,なんと……！<br>せっかくのデザートを<br>無駄にするとは……！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,何より許しがたい蛮行だぜ！<br>あんな野郎、助ける義理なんざ<br>全く感じねぇが……
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,人死にが出て、大会が<br>中止になっても困るからな。
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,コルル,<span class='scene-font-4'>助太刀致す！</span>
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,ビィ,オイラ達も続こうぜ、[ジータ]！
+Japanese,"scene_evt200628_cp3_q4_s20,7556341",detail,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>
+English,"scene_evt200628_cp3_q1_s10,7556311",synopsis,,"The second day dawns, signaling the beginning of the elimination round. Kolulu, Amira, and Leona are put into the morning bracket. Having gained a little confidence after making it through the first round, Kolulu and Leona do their best not to be nervous. Amira grows more serious about winning after she learns that the fame from doing so might help her gain information about Helheim."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,Day two of the competition dawns. The round: elimination.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Kolulu,I shall eat to my limits today!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Io,Yeah! That's the spirit!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,It would be an insult not to after making it this far when others couldn't.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,"I can tell you're fired up too, Leona!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"With the success of the previous day still in mind, Kolulu and Leona exude new confidence."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"You guys got this, 'specially with us rooting for you!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,It's just too bad that only one of you can win and move on though...
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Kolulu,So me and Leona...
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,We'll have to directly compete with one another.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"Earlier in the morning, all contestants drew lots to determine who would compete in the morning bracket and in the afternoon bracket."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,Both Kolulu and Leona landed in the morning bracket.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,"The preliminary round was different because we only needed to eat a set amount, and any number of people could have passed."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,But this time all except one will lose.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Kolulu,Y-yeah...
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,"Oh, I'm so sorry! I didn't mean to make you feel nervous."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,Remember what Vyrn said yesterday? No hard feelings. Just focus on enjoying yourself and eat as much as you can.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,"After that, win or lose, we can be satisfied with the result."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Kolulu,"Understood. Eat and have no regrets, right?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,Exactly.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,Hehe! Now that's true sportsmanship!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,Mmmm... Chomp!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"Gah! The heck, Amira? Where've you been!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,You completely vanished after we drew lots... And are you <span class='scene-font-italic'>eating</span> right now?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,"Munch, chew... I went for a walk and some people gave me food as a show of support? Or something like that."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,Amira shows the shish kebab sticks in her hand.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,Munch... Told me to eat it and do my best today.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,Guess I shouldn't be surprised you got a fan or two after your performance yesterday.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,Hehe. Support is tasty.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,Ahaha... What a very Amira-like thing to say.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,But are you sure you should've eaten that? The next round is about to start soon.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,"Very soon, actually, since you're in the morning bracket too."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,Chew... Gulp.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,I'm still hungry. The next round needs to start sooner.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,O-oh.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"Lyria, just give it up. You can't use normal logic with someone who fell outta the sky, crash-landed on our ship, and got up like it was nothing..."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"Plus I'm pretty sure this much food is nothing to her, considerin' the way she swallowed everything yesterday."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,She might even end up being our winner today.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,"I will be. I'm going to eat the most, and then I'm going to eat the prize."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,Taking third place already catapulted her to some fame. Just imagine what would happen if she won. People would come up to her everywhere we go.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,Everywhere... Do you think people on Helheim will hear about me too?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,Uh... Maybe? It's possible at least.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,What about Mother?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"Amira grabs Vyrn's tiny body and shakes him back and forth, impatient and agitated."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"Whoa, calm down! I dunno, okay? Maybe, maybe not!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,"If I eat the most, and I eat the prize, Mother will find out I'm looking for her..."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"A determined look growing in her eyes, she lets go of Vyrn and clenches her fists."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,Amira looks like she really wants to win now.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,She was already formidable before. I'm almost afraid to see what she does next.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Kolulu,"W-well, I won't let her win without a fight!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"As the tension grows, Redluck hails them from a ways off, then makes his way over."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"Heyo, heyo, what's all this? Everyone's looking fired up!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"Heya, big guy. Didja finish drawing lots?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"Yeah, I'm going in the afternoon."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,Oh. You're gonna be the only one then.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,S'that so? Too bad. It would've been fun to join the morning chaos.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,I can't compete against you?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,He just said so. Most you can hope for is facing him tomorrow in the finals.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"What, did you want to eat against me?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,"Yeah. If I don't win against everyone, it won't count."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,The surrounding crew members grow wide-eyed at Amira's confidence in front of the competition's best eater.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"You got guts, saying that to the big guy."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Oh-ho? Should I take that as a direct challenge?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,No. I only mean that I won't lose to anyone.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,...
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,...?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Pfft... Hahaha! That's a good look in your eyes!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,Yeah. My eyes are good. I can see far away with them.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"Haha, that's not what I'm talking about. You've got the spunk of someone who ain't afraid to take risks."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Getting me all fired up too. I can't let myself lose either then.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"What, are you actually worried?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Victory's never a hundred percent guaranteed.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"I may be undefeated these past ten years, but I didn't get this far by underestimating others."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Gotta keep myself on my toes when there are other strong eaters around.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"That annoying buffoon's in the afternoon bracket too, so I definitely can't afford to let my guard down."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"By 'annoying buffoon,' are you referring to that Mash the Hasher guy?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Mash,"It's Smasher, not Hasher!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,Gyah!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Mash,"Smasher, got it?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Mash,"Anyway, Redluck, heard you got thrown into the later match. It's not too late to ask the event planners to change their minds."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,The event planners? What do they have to do with anything?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Mash,"You wanna make it to the finals no matter what, right? You might have to throw your pride to the side then."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Mash,"Do that, and beg the planners to change ya to the morning bracket!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,You sure you shouldn't be the one doing the begging? Or are you stupid enough to believe I'd ever do that?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Mash,"Big words, pal. I'll make you eat 'em. Just you watch."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"Mash spits his last words out, flares his nostrils, and stomps away."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Why is that guy always so full of himself?
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,Hehe.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"What's with the laughter, Lyria? Something funny?"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Lyria,I was just thinking that you and Mash get along really well.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Vyrn,"The closest of friends are the ones you aren't afraid to argue with, right? You even take him seriously as a rival!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,Now you're just assuming things! Gives me goose bumps just imagining being buddies with him.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"That's enough chitchat! Come on, you guys have to head over to the arena!"
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Kolulu,We'll see you later!
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Amira,I'm going to eat the most.
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Leona,"It'll be tough, but I'll do my best to keep up with these two."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,Redluck,"I'll be waiting for whoever wins, so make sure you don't let me down."
+English,"scene_evt200628_cp3_q1_s10,7556311",detail,,"With resolved nods, Kolulu, Amira, and Leona leave for the next step of the challenge."
+English,"scene_evt200628_cp3_q2_s10,7556321",synopsis,,"The second round involves eating lumber jellato, a mix of lumber jelly and ice cream. Amira rushes into a strong start, but as time goes on, brain freezes threaten her pace. Kolulu battles with the same pain and manages to overcome it by holding her breath and focusing. Using this strategy, Kolulu catches up to Amira, and the two enter into an intense battle as Amira forces her way through the brain freezes."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Are you reeeaaady for daaay two!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"I can feel the passion, the grit, and the zeal from yesterday flowing into today!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"As you all know, we've got a morning bracket and an afternoon bracket ahead of us."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"Our two powerhouses, Redluck and Mash, won't show up until the later match."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Which means this morning one is going to be a free for all! Who will win? Anything can happen!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"However, I've got my eye on at least one contestant... One who put on an incredible show yesterday!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"That's right, folks; I'm talking about Amira!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Male Spectator 1,Amira! You can win this!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Female Spectator 1,We believe in you!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Amira,"They're the ones who gave me food. Right, I won't lose."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Can you hear that cheering? She's got a fan base already!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Io,"Amira's great, but so is Kolulu!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Io,Kolulu! Show them you've got what it takes!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,"Thank you, Io! I shall do you proud!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Lyria,"Leona, you can do it too!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Leona,"Thank you! Lyria, I'll eat enough for you!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Now that's what I'm talking about! We love to hear the crowd go wild!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,But let's rein it in for a sec while we go over today's dish!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,If you'll turn your attention here...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Lumber jellato!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Lyria,"Oh gosh, it looks so pretty and tasty!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"A little bit of a change from sushi, but who doesn't like dessert?"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"It's even got a bit of Auguste in its design! Reminds you of our beautiful sea, right?"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,The chewy blue-dyed lumber jelly's got a bit of saltiness to it which will bring out the sweetness of the ice cream.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Making it a treat for both the tongue and eyes!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,"Gulp... It's a bit strange looking, but hearing it described like that is getting my appetite going."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,It's definitely a dessert worth savoring—too bad our contestants won't get that luxury.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Because this is going to be a timed battle! Whoever eats the most jellato in the allotted time will advance to the final round!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Survival of the fittest! Battle of the toughest! Who can gorge themselves to the max!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Better get started before the sun melts it all!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Contestants,...!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Ready... Eat!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,"Thanks for the food! Munch, chew..."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,...!<br>It's so cold!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,"Like eating stew, except the opposite temperature! This is delicious!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Leona,"Oh yeeees, this coolness is just the thing for a hot day."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Leona,"Wait, this isn't the time to chill out! I have to keep eating."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Amira,"Chomp, chew, gulp... Sweet. I like it."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Amira,Next one please.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Whoa! Amira's already finished her first serving!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Is she actually going to be this morning's uncontested champion?
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,What speed...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Leona,I-I can go just as fast!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,Kolulu and Leona gobble their glasses of jellato down in a furious rush to catch up to Amira.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,"However, every competitor's pace begins to slow as time passes."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Leona,Owowow... Brain... freeze...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,My head...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Amira,...!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,The inevitable has finally occurred!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"Being a competitive eater's not only about eating a lot, folks! You have to know how to deal with brain freezes too!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Whoever can push past the pain might just be our champion!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,Feels like... someone is stabbing my head with Stone Breaker...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,To think mere food could pierce the walls of my cranium...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,But my skull hasn't cracked yet! I won't be defeated!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,Haah!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,Kolulu holds her breath and squeezes her eyes shut.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,"Through sheer willpower, or perhaps a stroke of luck, the pain gradually ebbs away."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,...!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Redluck,"(Not bad, not bad. She probably doesn't know why that worked, but...)"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,"This is a prime opportunity, and I shan't waste it!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,A hurried glance to the side reveals that Kolulu alone escaped the headache.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Amira,Argh... Head hurts... Is this a magic curse? No... But what...
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,(I'm not that far behind Amira! I can still catch up!)
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu,My counterattack starts now!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,"Repeating the same technique from earlier, Kolulu chews at a consistent pace and steadily plows forward."
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,"Hooold up, folks! We thought this bracket was over with, but clearly Kolulu wants to prove us wrong!"
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,She's downing the jellato like nobody's business! Could this be... a comeback?
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Amira,I won't... lose!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,,Amira pushes past the head-splitting agony and desperately shovels more jellato into her mouth.
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,But Amira is still going! Can she keep her lead?
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Kolulu & Amira,...!
+English,"scene_evt200628_cp3_q2_s10,7556321",detail,Announcer,Who will come out on top?
+English,"scene_evt200628_cp3_q3_s10,7556331",synopsis,,"Time is called, and Kolulu and Amira tie for first place, meaning both of them will move on to the final round. Afterward, [Djeeta], Lyria, and Vyrn wander the stalls in search of drinks and run into Lucio. Vyrn spots juice in Lucio's hands and asks for a sip, but Lucio refuses, explaining that it expired two years earlier. The thirsty crew members bid Lucio farewell and continue their search. Lucio then takes a sip of the juice and remarks that the liquid is 'quite awful.'"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,And that's time!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,Burp... I can't eat any more...
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Amira,Head hurts...
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,Staff members go around tallying up empty glasses while the audience waits with bated breath.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,Soon the results are given to the announcer.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,"From the preliminaries to the first bracket of the elimination round... It's been quite a time, hasn't it?"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,"But thank you for your patience! The results are in, so let's get to it!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,I am delighted to announce the winner for the morning bracket is...
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,Amira!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Amira,That sure was tough.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,"So in the end, I didn't manage to catch up..."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,"Sometimes that's just how it goes, I suppose. But I have no regrets for—"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,And our second winner is...
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,Kolulu!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,Huh?
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,"Bet nobody saw that coming! I sure didn't, at least!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,"Both contestants managed to consume the exact same amount of lumber jellato, so both will move on to the finals!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Io,"Yes, I knew Kolulu could do it!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,Amira also did great! Proved she's got what it takes to eat her way to the top!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,I... won?
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Announcer,"That's it for now, folks. We'll be back with the afternoon bracket later!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,"Kolulu, Amira, and Leona meet back with the rest of the group after the morning's exciting conclusion."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Io,"Nice hustle, Kolulu! That last spurt was amazing to watch."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,Golly... I still can't believe I did it.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Kolulu,But I'm proud to say that I gave it my all!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Amira,"It was sweet and tasty, but so painful... Brain... no work... no more..."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,I'd be more surprised if it did after that. You're one tough cookie!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Leona,Congratulations to you both. I couldn't keep up at all.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lyria,"But Leona, you made it so far! I think you should be proud of what you managed to eat."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Leona,"Haha, thanks, Lyria."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Leona,"It's a little disheartening to lose, but I'm definitely glad I was able to eat all that mouthwatering food."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Redluck,"Gahaha! Win or lose, you youngsters stuffed your faces magnificently!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Redluck,"Got my stomach rumbling, to be honest. Now I can't wait to have my turn!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,"You won't have to wait long at least! Go kick some butt, big guy!"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Redluck,You know I will!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,A small intermission remains before the afternoon bracket starts. The crew decides to split up for the moment.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,"Thirsty from cheering, [Djeeta], Vyrn, and Lyria look for a stand to buy drinks."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lyria,There are so many options! I wonder which ones we should pick?
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,Good question. How about... Huh?
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,"Hello, everyone. It's quite hot, isn't it?"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,"Lucio, drink in hand, greets the group from beneath a parasol."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,So you were outside the arena this whole time.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,"Coulda joined us and showed some support for the others, you know?"
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,"My sincerest apologies. I truly wish I could have been there, but an urgent matter came up."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,And I cannot ignore my role as a protector.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lyria,Um...
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,I really don't get what you're goin' on about half the time.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,"Anyway, that juice you're holding looks pretty good."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,Mind if I have a sip? My throat's feelin' dry as a desert.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,"I am sorry, but this is not a substance I can allow you to partake of."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,"C'mon, don't be so stingy. I'll buy you something later."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,You cannot.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,Why?
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,This was made two years ago.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,Say what? How'd that happen!
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,It might have gotten mixed up with the rest of the store's inventory.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Vyrn,"Fine, guess we better go get our own drinks."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,"Vyrn floats away, [Djeeta] and Lyria following after."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,"I am truly sorry, Master Vyrn."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,...
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,Lucio stares pensively at the drink.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,Hmm.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,"He dips a finger inside and gives it a lick. After a moment of consideration, he nods to himself."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,"As I thought, this is..."
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,Lucio,Quite awful.
+English,"scene_evt200628_cp3_q3_s10,7556331",detail,,"Smile never leaving his face, he incinerates the bottle in his hand until not a trace of it is left."
+English,"scene_evt200628_cp3_q4_s20,7556341",synopsis,,"A competitor who was eliminated in the morning bracket angrily stomps around an empty inlet and discards the jellato he hid away and didn't eat. An enormous lumber jelly then emerges from the water and attacks the man. The crew, hearing distressed screams, comes running and sees the man cowering before the lumber jelly, the wasted food scattered near his feet. They decide to save the man, despite his cheating and wasting of food."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,A small inlet surrounded by a coral reef lies a short distance away from the main beach.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,Stalking along the inlet is a competitor who failed to proceed past the morning bracket. He keeps a careful eye on his surroundings as he paces.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,Damn brats getting in the way...
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,I was so close to making it to the final round! I would've won that bet with my buddies!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,What kinda crap luck is this!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,"While cursing himself for the ill-advised bet he made with his friends, the man removes an object from his pocket and chucks it into the sea."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,Screw this competition! Screw it all to hell!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,???,...
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,The heck?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,???,...!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,Wh-what is that thing!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,"Elsewhere, [Djeeta] and friends take a load off in the designated break area and chug their drinks."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,Phew! I feel alive again.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Lyria,That really hit the spot!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"Munch, munch, chew..."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,"Next to the three, Redluck focuses on consuming various vegetables."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,"Yo, big guy! You gotta be thirsty too in all this heat, right? Wanna have a sip?"
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"Appreciate the concern, but I've gotta watch what I put in my stomach."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,If you're sure. What's with the veggies then?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"Part of the competition, of course."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,Whaddya mean by that?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,Secret. One that I shouldn't share in front of tomorrow's opponents.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,He gives a pointed glance at Kolulu and Amira.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Kolulu & Amira,...?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"But if you're really that curious, I'll tell you tomorrow once the competition's over—"
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,Eeeeeek!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Kolulu,...!<br>What in the skies was that?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Amira,There! Close to the rocks!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,Let's go!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,The crew dashes out of the break area to investigate the scream.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Lyria,Over there! I see something!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,Lyria points toward what appears to be a man cowering before a gigantic sea creature.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Competitor,S-somebody help meee!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Treemendous Jelly,...!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,The heck is that jumbo-sized thing?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"A lumber jelly's my guess, based on the shape and color."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,You sure about that? Siero made it sound like these guys were a walk in the park to take down.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,But that thing looks more dangerous than a monster!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"I reckon that one's the alpha of a pack, and it's probably not happy about how many of its friends we snapped up to eat."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"Still, it seems more agitated than you'd expect... Almost like something drove it mad..."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Kolulu,Look near the man's feet!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,,"Upon closer inspection of the sandy area, the crew spots a familiar blue substance."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Lyria,Isn't that the dessert used in today's round?
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,The fact that it's not in his stomach means the guy cheated.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,Hid what he didn't eat in his clothes and came here to dump it.
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Kolulu,Unbelievable! To waste such precious food...
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"What he's done is unforgivable, and saving him's the last thing I want to do, but..."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"Competition'll be cancelled if someone gets hurt, and I can't have that happening."
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Redluck,"Hey, you! Don't just stand there, idiot! Move!"
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Kolulu,I shall provide backup!
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Vyrn,"Us too, [Djeeta]!"
+English,"scene_evt200628_cp3_q4_s20,7556341",detail,Treemendous Jelly,...!
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,<span class='scene-font-place'>ザンクティンゼル</span>を発ち、風に導かれるまま新たな島へと流れ着いた<span>[ジータ]</span>一行。<span>[ジータ]</span>の乗ってきた騎空艇は不時着し、大破してしまうが、そこへ現れたひとりの男が<span>[ジータ]</span>へと助言を与える。
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を飛び立った一同は</span><br><span class='scene-font-katari'>旅の支度を整えるべく、</span><br><span class='scene-font-katari'>近隣の島へと向かっていた。</span>
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>しかし、カタリナの不慣れな操縦に、</span><br><span class='scene-font-katari'>騎空艇は悲鳴と黒煙を上げ、</span><br><span class='scene-font-katari'>急激にその高度を下げていく。</span>
@@ -2218,6 +2802,420 @@ English,"scene_tutorial03,041",detail,Vyrn,We'll probably make plenty of new fri
 English,"scene_tutorial03,041",detail,Vyrn,"So let's get this adventure to the end of the sky started, [Djeeta]!"
 English,"scene_tutorial03,041",detail,,"[Djeeta]'s soul now one with Lyria's, the time has come to bid farewell to home."
 English,"scene_tutorial03,041",detail,,"As though sent by [Djeeta]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair."
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",synopsis,,ついに予選が開始される。予選の料理は「みや里」から派遣された職人が握る樹クラゲの軍艦巻きだった。団員達がスシに舌鼓を打つ一方、レッドラックとマッシュは桁違いの実力を見せ、本戦進出が決定してもスシを食べ続けて他の参加者達を圧倒する。会場には満腹を訴える呻き声と観客達の歓声が響き渡り、やがて制限時間が訪れるのだった。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>予選開始の時刻が迫り、</span><br><span class='scene-font-katari'>続々と集まる参加者達。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>刻一刻と会場の熱気は高まり、</span><br><span class='scene-font-katari'>観客達は大会の幕開けの瞬間を</span><br><span class='scene-font-katari'>目に焼き付けようとしていた。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,さあ！<br>ついにこの時がやって参りました！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,数多の猛者が、<br>たったひとつの栄冠を求めて<br>しのぎを削り合った熱いファイト！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,その中で生まれたドラマは数知れず！<br>今思い出しても、手に汗を握るような<br>興奮が蘇ることでしょう！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,そう！ その伝説の大会が！<br>本日復活いたします！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>司会者の開幕宣言により、</span><br><span class='scene-font-katari'>会場のボルテージは最高潮に達する。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,コルル,す、すごい熱気であり申す……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,アーミラ,私がいちばん食べて……<br>賞品の魚も食べる……！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レオナ,楽しもうって決めたけど、<br>やっぱり緊張するなぁ……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルリア,ふふっ、お祭りって感じで<br>ワクワクします！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,シャルロッテ,どのような料理が出てくるのか、<br>待ち遠しいでありますね。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルリア,あれ、シャルロッテさん！<br>いつの間に？
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,シャルロッテ,ふふふ……<br>駆け込みでエントリーしたであります！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルリア,そうだったんですね！<br>一緒に楽しみましょう、<br>シャルロッテさん！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,ふぅ……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,<span class='scene-font-4'>よぉし、やってやるぜッ！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>賑やかなルリア達とは対照的に、</span><br><span class='scene-font-katari'>精神統一をして気合いを入れ直す</span><br><span class='scene-font-katari'>レッドラック。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>他の参加者が優勝候補のレッドラックに</span><br><span class='scene-font-katari'>気後れする中、マッシュだけが</span><br><span class='scene-font-katari'>離れた場所から敵対心を向ける。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,マッシュ,ふん……<br>今日こそはおどれに勝っちゃるけぇ、<br>見とれよ！ レッドラック！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,さあ、本日の予選のメニューは<br>こちらでございます！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,樹クラゲの軍艦巻き、でございます！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,皆様、こちら初めて目にする<br>料理かと存じます。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,<span class='scene-font-4'>しかし！</span><br>スシと申し上げれば、ご存じの方も<br>いらっしゃるのではないでしょうか！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,おお！<br>なんか見覚えあると思ったら、<br>やっぱスシだったか！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,こちらは、トォノシ島の名物料理である<br>スシから着想を得た一品であります！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,定番のアルバコアやシャーモンの<br>代わりに樹クラゲの刺身を使用した、<br>一風変わった料理でありますが……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,その身はコリコリと弾力があり、<br>噛めば噛むほど旨味が湧き出し、<br>シャリのほのかな甘みと調和する……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,一度食べたら虜になる、<br>至極の一品となっております！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,なお、こちらのスシは<br>トォノシ島屈指の名店<span class='scene-font-spword'>「みや里」</span>から<br>派遣された職人が握っております！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,今回の<span class='scene-font-place'>アウギュステ</span>の現状を聞きつけ、<br>ぜひとも協力したいと、スポンサーに<br>名乗りを上げていただきました！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,なぁ、「みや里」だってよ！<br>セワスのじいちゃんが言ってた<br>知り合いってキュウタ達のことか！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,あいつら今も頑張ってんだな！<br>オイラ安心したぜ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,さて、ここで改めて<br>予選のルールをご説明いたします。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,参加者の皆様は、<br>こちらが設定した数量を上回れば<br>予選通過となります。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,合計、100貫が通過ラインとなります！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,<span class='scene-font-4'>100貫！？</span><br>予選でそのレベルかよ！？
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,では係員の皆様、<br>参加者の方々に料理の提供を<br>お願いいたします。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>司会者のひと言で、</span><br><span class='scene-font-katari'>控えていた係員が参加者の目の前に</span><br><span class='scene-font-katari'>スシを運んでいく。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,スシ下駄が空になったら<br>係の者をお呼びください。<br>順次新しいスシをお持ちいたします。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,100貫完食した方は手を挙げて報告を。<br>口の中が空かどうか確認し、<br>問題がなければ予選通過といたします。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,では、長らくお待たせいたしました！<br>これより、僭越ながら私が<br>開始の号令をかけさせていただきます！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>司会者の宣言に合わせて</span><br><span class='scene-font-katari'>会場は一瞬静まり返り、</span><br><span class='scene-font-katari'>その瞬間を待ちわびる。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,それでは……予選、スタートです！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>一気に湧き上がる歓声とともに、</span><br><span class='scene-font-katari'>参加者達は一斉に</span><br><span class='scene-font-katari'>目の前のスシに食らいつく。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,コルル,では……<br>いただくでごんす！<br>もぐ、もぐ……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,コルル,……っ！？<br>こ、これはなんとも<br>美味で申すな！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,コルル,これをどれだけ食してもよいとは！<br>贅沢の極みでごんす～！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,アーミラ,はむ！ あむあむっ！<br>もぐもぐもぐ……ごくん！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,アーミラ,美味しい……！<br><span class='scene-font-4'>もっと！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レオナ,あ、私もおかわりお願いしまーす。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>早くもスシ下駄を空にした</span><br><span class='scene-font-katari'>アーミラとレオナの目の前に、</span><br><span class='scene-font-katari'>新たにスシが運ばれてくる。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レオナ,う～ん、美味しい～！<br>これならいくらでも<br>食べられそう……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルリア,そうですね～！<br>シェロさんの言ってた通り、<br>食感がたまらないです！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,シャルロッテ,スシ……<br>初めて口にしたでありますが、<br>想像以上に美味しいであります！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,シャルロッテ,いつか定番のネタも<br>味わってみたいでありますね！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,ははっ！<br>皆、幸せそうに食ってんなぁ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルシオ,ああ……本当に素敵な料理です。<br>スシというものがこれほどとは。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,あっ、ルシオじゃねぇか！<br>あいつ参加してやがったのか！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルシオ,卓越の技の数々を用いながら、<br>あえて多くを語らず。<br>これが粋というものなのでしょうか。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルシオ,フフ。サンちゃんの珈琲とともに<br>頂きたいところですが、ここは<br>その技をしかと味わうとしましょう。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ルシオ,すみません、係の方。<br>熱いお茶を頂いても？
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,ビィ,あいつ、全く勝つ気ねぇな……<br>むしろ清々しいぜ……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,<span class='scene-font-2'>レッドラックの声</span>,<span class='scene-font-4'>うおおおおおおッ！！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>会場中に響き渡る大声に、</span><br><span class='scene-font-katari'>[ジータ]達を含めた観客の</span><br><span class='scene-font-katari'>視線が集中する。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,<span class='scene-font-4'>おらあッ！</span><br>どんどん持ってこいッ！！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,おおっと！ レッドラック選手！<br>すごい勢いだ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,多くの選手がようやく<br>１人前といったところ、<br>すでに５、６人前は平らげている！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,これはレッドラック選手の<br>独壇場か──
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,マッシュ,<span class='scene-font-4'>うっだらあッ！！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>司会者の声を遮るように</span><br><span class='scene-font-katari'>大声を張り上げたマッシュは、</span><br><span class='scene-font-katari'>スシをまとめて潰し、口に放り込む。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,いや！<br>マッシュ選手も並んでいる！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,<span class='scene-font-4'>っぷはあ！</span><br>うし！ 100貫、完食だッ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,マッシュ,<span class='scene-font-4'>こっちもじゃあッ！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,<span class='scene-font-4'>な、なななんと！</span><br>レッドラック選手とマッシュ選手、<br>ほぼ同時に完食！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,で、では失礼ながら<br>お口の中を確認いたします。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>司会者はレッドラックとマッシュの</span><br><span class='scene-font-katari'>口の中を覗き込み、力強く頷く。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,<span class='scene-font-4'>両選手、完食ッ！</span><br><span class='scene-font-4'>予選通過ですッ！！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,<span class='scene-font-4'>だっはっは！</span><br>余裕余裕！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,マッシュ,こがぁな量、<br>食ったうちに入らんわい！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,両選手、お疲れ様でした！<br>明日の本戦もこの調子で──
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,なあ、あと５人前追加でいいか？
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,えっ……？<br>すでに予選は通過していますが……？
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,ただの腹ごしらえだ。<br>料理が足りねぇってんなら<br>遠慮しとくけどよ。
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,い、いえ……！<br>料理は有り余っておりますので、<br>今すぐ用意いたします！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,マッシュ,<span class='scene-font-4'>おう！</span><br>ならワシは10人前じゃ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,マ、マッシュ選手も、ですか……？
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,<span class='scene-font-4'>ああん？</span><br>だったら俺はさらに10人前追加だ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,マッシュ,<span class='scene-font-4'>なんじゃと！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,レッドラック,<span class='scene-font-4'>文句あっか！</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,司会者,こ、これは予想だにしない場外戦！<br>他の選手は完全に置いてきぼりだ！
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,<span class='scene-font-1'>大会参加者の男性１</span>,ど、どんな胃袋してんだ……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,<span class='scene-font-1'>大会参加者の男性２</span>,あんな化け物連中、<br>勝てるわけねぇよ……
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>レッドラックとマッシュの</span><br><span class='scene-font-katari'>底無しの実力を見せつけられ、</span><br><span class='scene-font-katari'>周囲の参加者は戦意を喪失してしまう。</span>
+Japanese,"scene_evt200628_cp2_q1_s10,7556211",detail,,<span class='scene-font-katari'>参加者達の満腹を訴える呻き声と</span><br><span class='scene-font-katari'>観客達の歓声が響き渡る中、</span><br><span class='scene-font-katari'>やがて制限時間が訪れるのだった。</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",synopsis,,予選はアーミラが全体の３位で通過するという快挙を見せ、その他コルルとレオナが本戦に進出する。レッドラックとマッシュは同率１位で通過し、予選が終わっても火花を散らしていた。団の参加者達は予選の疲れを癒すためひと足先にグランサイファーに戻り、[ジータ]とビィはシェロカルテの手伝いに急ぐのだった。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,司会者,予選から想像を超える<br>ハイレベルな戦いが繰り広げられた、<br>今大会の幕開けとなりました……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,司会者,果たして、明日以降も<br>どのようなドラマが見られるのか、<br>いち観客として待ち遠しく思います。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,司会者,では、見事予選を通過した皆様、<br>明日の本戦開始まで<br>ごゆっくりお過ごしください。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,,<span class='scene-font-katari'>激闘の予選を終え、</span><br><span class='scene-font-katari'>大会に参加していた団員達は</span><br><span class='scene-font-katari'>[ジータ]達の元に戻ってくる。</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,よぉ、皆お疲れさん！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,コルル,や、やり申した！<br>予選通過でごんす！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,イオ,おめでとう、コルル！<br>カッコよかったわよ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,コルル,イオの声援のおかげでごんす！<br>わたしにはしかと聞こえており申した！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,レオナ,あはは、私も通過しちゃった……<br>あんまり食べたって感じ<br>しなかったんだけど。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,いやいや、結構な食べっぷりだったぜ。<br>この調子なら明日も<br>いい勝負出来るかもな！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,レオナ,そ、そうかな……うん。<br>やれるだけ頑張ってみるね。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,それにしても、予想外だったのは<br>アーミラだよな！<br>まさか全体の３位で通過なんてよ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,アーミラ,え……これで明日も食べれる？
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,お前、自分のことなのに<br>気付いてなかったのかよ……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,,<span class='scene-font-katari'>予選を通過したコルル、アーミラ、</span><br><span class='scene-font-katari'>レオナの後ろから、やや肩を落とした</span><br><span class='scene-font-katari'>ルリアとシャルロッテが歩いてくる。</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,あはは、負けちゃいました……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,シャルロッテ,残念であります……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,いやぁ惜しかったぜ、ふたりとも！<br>特にルリアは、もうちょい時間がありゃ<br>いけたと思うぜ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,頑張って通過したかったですけど、<br>精一杯の結果なので後悔はないです。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",sel1_txt,,<span class='scene-font-katari'>よく頑張った</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",sel2_txt,,<span class='scene-font-katari'>楽しそうで何より</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,ありがとうございます、[ジータ]！<br>そう言ってもらえるだけで<br>私、とっても嬉しいです！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,はい！ とても楽しかったです！<br>この大会に参加させてくれて<br>ありがとうございます！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,私は負けちゃいましたけど、<br>代わりに皆さんを応援しますからね！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,シャルロッテ,自分も予選通過は<br>叶わなかったでありますが……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,シャルロッテ,結果は結果として真摯に受け止め、<br>自分も応援に専念するであります！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,おう、それがいいぜ！<br>誰が勝っても恨みっこなしってことで<br>応援だ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,フフ。自らの敗北を悔やむより<br>友人の勝利を喜ぶとは美しき友情です。<br>私からも称賛を。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,,<span class='scene-font-katari'>ルシオは微笑みを浮かべながら、</span><br><span class='scene-font-katari'>一行の団結力に感銘を受けて</span><br><span class='scene-font-katari'>拍手を送る。</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,いや褒めてくれんのはありがてぇけど、<br>お前も負けたんだから<br>ちょっとは悔しいとか思わねぇのかよ？
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,いえ。そもそも私は<br>勝負の場におりませんでしたから。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,はぁ？<br>だってお前、呑気にスシ食って……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,この催しの見学をしていたところ、<br>参加者と間違われてしまったようです。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,誤解は解けたのですが、<br>是非にとのことでしたので<br>厚意に甘えて。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,料理のために供された命に<br>背を向けることも<br>できませんでしたから。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,だからゆっくり食ってたのかよ。<br>勝ち負け関係ねぇからって。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,その通りです。<br>あとでお代を渡しにいきますよ。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,はぁ……<br>相変わらずマイペースなやつだぜ……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルシオ,フフ。主役を差し置いて<br>目立つわけにもいきませんから。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,主役？ おっさんのことか？<br>そういやおっさんのほうは……
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,,<span class='scene-font-katari'>ビィが一瞥する先には、</span><br><span class='scene-font-katari'>レッドラックとマッシュが</span><br><span class='scene-font-katari'>互いに睨み合い、火花を散らしていた。</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,マッシュ,ワシとおどれが同率１位じゃと？<br><span class='scene-font-4'>気に食わんのう！</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,レッドラック,<span class='scene-font-4'>こっちのセリフだぜ！</span><br>とっくに予選通過してるってのに、<br>意地張って対抗しやがって！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,マッシュ,ワシは他の連中に<br>見せつけたったんじゃ！<br>優勝は譲らんど、ってのう！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,レッドラック,はっ、よく言うぜ！<br>チラチラチラチラ何度も<br>こっち見てやがったくせに！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,レッドラック,俺は準備運動のつもりで<br>食ってたってのによぉ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,マッシュ,<span class='scene-font-4'>このカバチタレがぁッ！</span><br>んならワシは準備運動の準備運動じゃ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,レッドラック,<span class='scene-font-4'>なんだそりゃ！</span><br>てめぇこそ屁理屈こねてんじゃねぇ！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,さっきからあんな感じだからよ。<br>邪魔するのもなんか悪ぃと思って。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,そ、そうですね……<br>私達だけでも先に艇に戻りましょうか。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,ああ、悪ぃなルリア。<br>オイラ達はこれからよろず屋の<br>手伝いがあるから、先行っててくれよ。
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,あっ、そうでしたね……！<br>私も手伝いましょうか？
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,平気平気！<br>ルリアはさっきの予選で疲れてるだろ？<br>気にせず休めって！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ルリア,そういうことでしたら……<br>じゃあ、お言葉に甘えて<br>今日はゆっくり休みますね！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,ビィ,おう！ またあとでな！
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,,<span class='scene-font-katari'>激闘の予選を終え、翌日に備えて</span><br><span class='scene-font-katari'>ひと足先に休もうと</span><br><span class='scene-font-katari'>グランサイファーに戻る大会参加者達。</span>
+Japanese,"scene_evt200628_cp2_q2_s10,7556221",detail,,<span class='scene-font-katari'>[ジータ]とビィは参加者達を</span><br><span class='scene-font-katari'>見送り、シェロカルテの手伝いに</span><br><span class='scene-font-katari'>急ぐのだった。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",synopsis,,大食い大会の予選から少し時間が過ぎた頃、マッシュが無人の浜辺で血眼になって落とし物を探していると、通りかかったルシオがマッシュに小瓶を渡す。マッシュはルシオに感謝しつつも、小瓶のことは誰にも打ち明けるなとルシオを脅し、最後は上機嫌に去っていく。ルシオは去っていくマッシュの背中を見送りながら、思案顔を浮かべるのだった。
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,クソッ、どこいったんじゃ……！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>大食い大会の予選が終わり、</span><br><span class='scene-font-katari'>少し時間が過ぎた頃……</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>参加者や観客がすでに</span><br><span class='scene-font-katari'>会場を後にした無人の浜辺で、</span><br><span class='scene-font-katari'>マッシュは落とし物を探していた。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,アレがのうなったら、ワシは……<br>ワシの夢はどうなるんじゃ……！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,優勝を逃したら、ワシを育ててくれた<br>あん人らに顔向けできん……！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,絶対に見つけちゃる……<br>さっさと出てこんかい！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>マッシュは砂浜に両膝をつき、</span><br><span class='scene-font-katari'>苛立ち交じりに指先で砂をかき分ける。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>血眼になってしばらく探していると、</span><br><span class='scene-font-katari'>近付いてくる砂を踏む音に気付き、</span><br><span class='scene-font-katari'>マッシュは慌てて顔を上げる。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,お探しのものはこれでしょうか？
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,おおっ！ それじゃそれじゃ！！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>ルシオが差し出した小瓶を、</span><br><span class='scene-font-katari'>マッシュは奪い取るような勢いで</span><br><span class='scene-font-katari'>素早く掴み取る。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,いやぁ、たいがたいのう！<br>ワシとしたことが、<br>うっかりしとったわい！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,よかった。誰かの想いが<br>宿っていたように思えて、<br>預かっていたのです。
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,がははっ！<br>兄ちゃん、気が回るのう！<br>勲章モンじゃ！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,お役に立てて何よりです。
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,…………
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>最初は明るく笑っていた</span><br><span class='scene-font-katari'>マッシュだったが、次第にその表情が</span><br><span class='scene-font-katari'>険しいものに変わっていく。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,のう、兄ちゃん。<br>恩人にこがぁなこと<br>言いとうないんじゃがのう……
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,このこと、誰にも<br>チンコロしよったらアカンど？<br>ええか？
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,チンコロするな、とは……<br>ああ、<span class='scene-font-spword'>「誰にも話すな」</span><br>ということですね。
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,わかりました。<br>私も無用なトラブルは好みませんので。
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,おう！ 物分かりええのう！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>ドスの利いた声から一転、</span><br><span class='scene-font-katari'>マッシュは上機嫌に笑い声を上げて</span><br><span class='scene-font-katari'>ルシオの肩を軽く叩く。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,マッシュ,ほんじゃあ、ワシは帰るわい！<br>これも何かの縁じゃ、<br>明日のワシの応援よろしゅうの！
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,ええ、それではまた……
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>マッシュは背中を向けたまま手を振り、</span><br><span class='scene-font-katari'>弾んだ足取りで去っていく。</span>
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,ルシオ,…………
+Japanese,"scene_evt200628_cp2_q3_s10,7556231",detail,,<span class='scene-font-katari'>ルシオは、遠ざかる</span><br><span class='scene-font-katari'>マッシュの背中を見送りながら</span><br><span class='scene-font-katari'>思案顔を浮かべるのだった。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",synopsis,,大会の喧騒も去った真夜中の浜辺で、[ジータ]とビィはグランサイファーに戻る途中、金属の摩擦音に似た謎の音を耳にするが、幻聴だと聞き流す。同時刻、樹クラゲの集団が同胞の復讐のため闇夜に紛れて上陸する。しかし謎の物体が樹クラゲを跳ね飛ばし、八つ裂きにして捕食してしまう。謎の物体は捕食を終えると、上空に飛び立って海の彼方に消えてしまうのだった。
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>大会の喧騒も去り、</span><br><span class='scene-font-katari'>潮騒が心地よく耳に染み入る</span><br><span class='scene-font-katari'>真夜中の浜辺。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>[ジータ]とビィは</span><br><span class='scene-font-katari'>シェロカルテの手伝いを終えて、</span><br><span class='scene-font-katari'>グランサイファーに戻るところだった。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,ふぃ～、結構働いたなぁ……<br>さすがにクタクタだぜ。
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",sel1_txt,,<span class='scene-font-katari'>疲れた……</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",sel2_txt,,<span class='scene-font-katari'>明日も頑張ろう</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,やっぱそうだよな。<br>今日はさっさとベッドに入って<br>ぐっすり眠ろうぜ！
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,おう、もちろんだぜ！<br>応援に手伝いに、明日も<br>大忙しだからな！
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,しっかし、さすがにこの時間だと<br>ほとんど人がいねぇな。<br>昼間の活気が嘘みてぇだぜ。
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,？？？,────ッ！
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,……ん？<br>今、きゅるきゅる回転してる音が<br>聞こえたような……
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,なんて、ケッタギアじゃあるまいし……<br>疲れてんだな、きっと。
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,ビィ,さぁて、早く帰るとすっか。<br>ルリアがオイラ達を待って<br>まだ起きてるかもしれねぇし。
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>[ジータ]とビィは金属の摩擦音に</span><br><span class='scene-font-katari'>似た音を幻聴だと聞き流し、</span><br><span class='scene-font-katari'>欠伸交じりに浜辺を去っていく。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,樹クラゲの集団,────……
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>暗闇に紛れるように、</span><br><span class='scene-font-katari'>真夜中の海から無人の浜辺に</span><br><span class='scene-font-katari'>次々と上陸する樹クラゲの集団。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>多くの同胞を奪われた復讐を</span><br><span class='scene-font-katari'>果たさんと、明かりの灯る民家に</span><br><span class='scene-font-katari'>奇襲をかけようと息を潜めていた。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>そのはずだったのだが……</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,？？？,────ッ！！
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,樹クラゲの集団,────……！
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>ホイール音が響き渡った直後、</span><br><span class='scene-font-katari'>謎の物体が樹クラゲの集団を</span><br><span class='scene-font-katari'>跳ね飛ばし、八つ裂きにする。</span>
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,？？？,────！
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,？？？,…………
+Japanese,"scene_evt200628_cp2_q4_s10,7556241",detail,,<span class='scene-font-katari'>謎の物体は樹クラゲを捕食し終えると、</span><br><span class='scene-font-katari'>上空に飛び立ち、そのまま</span><br><span class='scene-font-katari'>海の彼方へ消えてしまうのだった。</span>
+English,"scene_evt200628_cp2_q1_s10,7556211",synopsis,,"The food for the preliminary round is lumber jelly sushi prepared by chefs from Miyasato. While the participating crew members savor the food, Redluck and Mash steadily devour piece after piece, both of them continuing to eat even after finishing the hundred pieces needed to move on to the elimination round. Other competitors grow disheartened at the powerful display, while the crowd goes wild.",테스트.테스트.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,The stadium fills with people as the opening draws near.,테스트.테스트.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"Competitors and audience alike wait with barely contained excitement, an electric energy building in the air.",테스트.테스트.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,It's the moment you've aaaaall been waiting foooor!,테스트.테스트.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"The toughest, fiercest bottomless black holes all gathered in one place for glory and gains!",테스트.테스트.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"There's gonna be drama. There's gonna be sweat. There's gonna be adrenaline, and maybe even a few tears!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"That's right, folks. Today's the day we bring back the legendary eating competition!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,Cheers and hollers erupt the moment the announcer finishes speaking.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Kolulu,Wh-what an intense display...
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Amira,"If I eat the most, I can eat the prize!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Leona,"I know we said we're doing this for fun, but actually being here is a little nerve-racking..."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lyria,"Hehe, it's almost like being at a festival! I can't wait to start!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Charlotta,I am anxious to see what kind of food they've prepared.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lyria,"Oh, Charlotta! What are you doing here?"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Charlotta,"A good question... But of course, I am a last-minute challenger!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lyria,Yay! I'm so glad you could join us!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,Phew...
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,I'm ready to do this!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"In contrast to the lively members of the party, Redluck steels himself for the battle ahead."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,Surrounding competitors nervously glance his way. Only Mash stands confident and glowers at his opponent.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Mash,"Just watch... Yer not gonna take this from me, Redluck!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Today our contestants will be eating...
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Lumber jelly rolls!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"A brand-new cuisine, never before seen!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"Though I'm sure most of you are familiar with its telltale sushi shape, at least!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,"Sushi, huh? No wonder I feel like I've seen it before."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"Sushi, for those of you who don't know, is a famed food item from Tono Island."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"This lumber jelly version replaces its traditional albacore and salmun toppings. Blasphemous, I know, but hear me out first."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"Lumber jelly's rubbery. It's chewy. But the more you chew it, the more the flavors come out, and it pairs amazingly with the sweetness of the rice."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,One taste is enough to get you hooked!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"To top it all off, we've got chefs from Miyasato preparing the sushi today! Yes, that's right, folks. Tono Island's famed sushi restaurant sent over its finest!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,They graciously became a sponsor after hearing about the trouble on these shores!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,"Whoa, Miyasato? Sevastien must've been talking 'bout Kyuta and the others earlier!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,Glad to hear they're still at it!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Ahem. Next we've got some rules to go over for this first round.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Contestants hoping to progress past the preliminaries must eat a minimum predetermined amount.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,But who here can down one hundred pieces and push the limits of their bellies?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,<span class='scene-font-italic'>One hundred!</span> Ain't that kinda high for an intro round?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Will our staff serve the contestants their first meal? Please and thank you.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"Platters are brought forth immediately and set down, one in front of each eater."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"Once you've finished a platter, signal one of the staff members and they'll get you another."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"If you manage to finish all one hundred pieces, raise your hand, and I'll check your mouth and make sure you've swallowed every bite!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"That about wraps it up for explanations, I think. Without further ado, I think it's time for the fun to begin!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,The audience quiets as they wait for the announcer's signal.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Ready... Go!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,Cheering and the clamor of dining instantly drown out the announcer.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Kolulu,"Thank you for the meal! Munch, chew..."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Kolulu,This... is incredibly delicious!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Kolulu,I could eat a mountain of it! What a luxurious treat!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Amira,"Chomp! Gobble, munch! Bite, gnaw... Swallow!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Amira,Tasty! More!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Leona,"Oh, may I have another platter as well?"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"Though the sushi nearly vanishes in the blink of an eye, more is brought to Amira and Leona just as quickly."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Leona,"Mmmm, this is so good! I feel like I could eat a hundred platters!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lyria,Same here! Siero really wasn't kidding about how addictive the texture is!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Charlotta,So this is sushi... It's even more extravagantly scrumptious than I originally imagined!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Charlotta,I would love to one day try the standard version as well!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,Everyone's pretty happily stuffing their faces!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lucio,Spectacularly made. This 'sushi' has exceeded my expectations by leaps and bounds.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,Wha? Is that Lucio? He's competing too?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lucio,"Clearly various refined techniques were used, but not in excess. A tasteful balance, one could say."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lucio,"Hehe. It would be wonderful to have a cup of Sandy's coffee with this meal, but I shall instead focus on the chef's technique."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Lucio,Excuse me. May I have a cup of hot tea?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Vyrn,Er... Can we even call that competing? 'Cause it looks more like he's enjoyin' a meal out on the town.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,Haaaaaahhh!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,A sudden roar by a familiar voice grabs the audience's attention.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,"Come on! Platter me up, let's go!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,And there goes Redluck! He is <span class='scene-font-italic'>pumped!</span>
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"Most of the other competitors have barely finished their first platter, but he's already on his fifth or sixth!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Will Redluck cross the finish line unchallenged—
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Mash,Hrrraahhhh!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"Almost as if in defiance of the cheering, Mash smashes the sushi on his platter and scoops the mush into his mouth."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Wait! Mash has eaten just as much!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,"Burp! All right, that's one hundred pieces eaten!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Mash,Same here!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"Wh-wh-wh-what! Redluck and Mash, in a crazy turn of events, have finished at nearly the exact same time!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,But before we can give them a passing grade... Please excuse me while I perform the mandatory check!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"After a quick peek into their open mouths, the announcer gives an enthusiastic nod and two thumbs up."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"That's a wrap, folks! These two are moving on to the elimination round!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,Wahaha! Easy as pie!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Mash,You call that a challenge? Already burned off the calories I ate!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Good work today! I'm excited to see how you do tomorrow—
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,"Hey, do you mind if I have five more platters?"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,What? I'm afraid I don't understand. You've already passed this round.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,"Just trying to fill up. If there's not enough food to go around though, don't worry about it."
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"N-no, we have plenty! I'll ask them to prepare some at once!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Mash,Don't forget 'bout me! I'll take ten more platters!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,Y-you as well?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,"You will, eh? Slap on another ten platters for me then!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Mash,What're you playin' at!
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Redluck,You got a problem?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Announcer,"We've got another competition outside the competition, folks! These two are leaving all the other contestants in the dust!"
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Competitor 1,What kinda stuff are their stomachs made of?
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,Competitor 2,No way we can win against monsters like 'em...
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,Disheartening murmurs spread among the other challengers.
+English,"scene_evt200628_cp2_q1_s10,7556211",detail,,"Eventually the timer rings over defeated groans and encouraging shouts, and the first round draws to a close."
+English,"scene_evt200628_cp2_q2_s10,7556221",synopsis,,"Amira takes third place, much to the surprise of the arena, while Kolulu and Leona also manage to clear the hundred-piece hurdle and pass. Redluck and Mash tie for first, the animosity between them growing even after the prelims finish. Everyone returns to the Grandcypher to rest except [Djeeta] and Vyrn, who leave to assist Sierokarte."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Announcer,And that concludes the wilder-than-expected preliminary round...
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Announcer,"Makes you wonder what kind of drama tomorrow'll bring, but I guess we'll find out soon."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Announcer,"To all those who made it, good luck, and have a nice rest of your day!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,,[Djeeta] and Vyrn meet back up with their friends afterward.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"Heya, good job back there!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Kolulu,I truly did it! I passed the preliminaries!
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Io,"Congrats, Kolulu! You were awesome!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Kolulu,"I couldn't have done it without you, Io! I heard your encouragement, loud and clear!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Leona,"Ahaha, I passed as well... Can't say I feel like I ate that much though."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"In what world is ten platters of sushi not that much... But I guess if you've still got room for more, tomorrow should be easy!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Leona,Maybe? Maybe not. I'll give it my best shot at least.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"Well, Amira definitely won't have a problem. Sure blew me away to watch her take third place today!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Amira,Did I? Does that mean I can eat more tomorrow?
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,Did... you not realize?
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,,"While Kolulu, Amira, and Leona drink in their victory, Lyria and Charlotta drag their feet behind the rest of the group and hang their heads low."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,"Ahaha, we didn't make it..."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Charlotta,A real shame...
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,You guys came so close too—Lyria 'specially. Just a little more time and you woulda finished.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,"But I did my best, and that's what counts."
+English,"scene_evt200628_cp2_q2_s10,7556221",sel1_txt,,It was a good hustle.
+English,"scene_evt200628_cp2_q2_s10,7556221",sel2_txt,,"You had fun too, right?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,"Thank you, [Djeeta]! I feel a little better after hearing that from you."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,"Yeah, it was super fun! Thanks for letting me join."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,"Now that I'm out, I'll be sure to cheer everyone else on twice as hard!"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Charlotta,My own dreams of victory may not have come true...
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Charlotta,But I will accept my fate and put my heart into cheering as well!
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,I like that! Supporting each other and showin' there's no hard feelings or nothing.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,Hoping for another's victory despite your defeat is truly an admirable display of friendship.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,,Lucio gives an easygoing smile and claps in support of the crew's solidarity.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"Appreciate the compliment, but shouldn't you be at least a little upset that you lost too?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,Lost? I was never entered into the race in the first place.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,Huh? But you were eating sushi...
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,I was mistaken for a participant while studying the festivities.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,"Eventually I managed to clear up the misunderstanding, but at the time I decided the best course of action was to partake in their generosity."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,I could not in good conscience waste food that someone slaved over.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,So you took your time eatin' because winning or losing had nothing to do with you.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,Precisely. I promise I'll pay them properly later.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"Sigh... You're a real free-spirited guy, you know that?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lucio,"Hehe, it wouldn't be polite of me to steal the spotlight from the star, after all."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,The what? You talking about the big guy? Speaking of which...
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,,A quick glance around reveals Redluck engaged in a heated glaring contest with Mash.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Mash,Tying for first place with me? You tryna pick a fight?
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Redluck,"That's my line! You already passed, so what the heck was all that asking for extra at the end?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Mash,I had ta show everyone else that I mean business!
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Redluck,"Hah, you're really gonna try to pull that after sneaking glances my way the whole time?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Redluck,I was only eating to warm up for tomorrow!
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Mash,Now you're arguin' just to argue! Obviously I was eating as a warm-up for my warm-up!
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Redluck,"That doesn't even make sense! Who's actually arguing just to argue here, huh?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"They've been at each other's throats since we left, and I'm not sure we should get involved."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,Probably not... Should we head back to the ship first?
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"Ah, sorry, no can do. Me and [Djeeta] hafta help the Knickknack Shack soon."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,"Oh, I totally forgot! Can I pitch in too?"
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,"Nah, you just focus on restin' up. I'm sure you're tired after everything earlier."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Lyria,If you're sure... I'll do just that then!
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,Vyrn,Go for it! We'll catch ya later.
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,,"Ready to rest after all the excitement, Lyria and the other crew competitors return to the Grandcypher."
+English,"scene_evt200628_cp2_q2_s10,7556221",detail,,[Djeeta] and Vyrn send them off and head over to meet Sierokarte.
+English,"scene_evt200628_cp2_q3_s10,7556231",synopsis,,"A little while after the preliminary round finishes, Mash scrambles around the empty beach in search of something. Lucio passes by and hands over the small bottle which Mash has been searching for. Mash thanks him profusely, then warns him not to tell anyone about the bottle before cheerfully walking away. Lucio watches him leave, a pensive expression on his face."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,Damn it! Where'd it go!
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,"A little while after the preliminaries conclude, Mash rushes around alone."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,He searches through the sandy ground of the empty stadium with barely contained panic.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,I hafta find it... No matter what! Otherwise how am I gonna do this?
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"If I don't win, how am I ever gonna face 'em again?"
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,It's gotta be here somewhere! C'mon!
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,"He drops down and digs left and right, hoping to uncover the lost item."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,"Only when he hears approaching footsteps does he look up, eyes bloodshot."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,Were you looking for this?
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"Yeah! That's it, that's totally it!"
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,Mash frantically snatches the small bottle from Lucio's outstretched hand.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"Thank ya, seriously! Can't believe I dropped it."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,"I'm glad it found its way back to you. It seemed to be a very important, very treasured object."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"Wahaha! You got a good eye for details, pal! 'Fraid I ain't got much to repay ya with though."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,That's quite all right. I'm glad to have been of service.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,...
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,The chipper smile falls from Mash's face as his expression grows dour.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"Hey, pal. I know you did me a huge one, but listen..."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"This here's sensitive stuff, got it? You ain't allowed to peep 'bout it to anyone."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,"To peep... like a bird? Ah, you mean to speak about it."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,Understood. I'm not fond of stirring up a fuss myself.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"Great, glad we see eye to eye!"
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,"Just as quickly as his hackles were raised, Mash breaks out into a bright grin and claps Lucio on the shoulder."
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Mash,"I better get goin'! You'll root for me tomorrow, eh?"
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,Of course. Till next we meet.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,Mash gives a wave and makes his way off the beach.
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,Lucio,...
+English,"scene_evt200628_cp2_q3_s10,7556231",detail,,"Lucio watches him walk away, a pensive look crossing his features."
+English,"scene_evt200628_cp2_q4_s10,7556241",synopsis,,"Late at night on the quiet beach, [Djeeta] and Vyrn make their way back to the Grandcypher when they suddenly hear a mysterious metallic, grating noise. Deciding that they are tired and must be imagining the noise, they ignore it and move on. Afterward, a group of lumber jellies land on the beach and prepare to exact revenge on the people eating their brethren. Before they can move, however, a mysterious creature tears the lumber jellies apart, feeds on them, and disappears into the night."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,"The day's hustle and bustle fade into night, and a peaceful quiet washes over moonlit shores."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,It is close to midnight when [Djeeta] and Vyrn finally finish and return to the Grandcypher.
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,"Phew, Siero really put us through the wringer... I'm super beat."
+English,"scene_evt200628_cp2_q4_s10,7556241",sel1_txt,,Same...
+English,"scene_evt200628_cp2_q4_s10,7556241",sel2_txt,,Let's do our best tomorrow too.
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,"Been a day, huh? Can't wait to crawl into bed and catch some z's!"
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,Course we will! Our friends are countin' on us!
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,"Gotta say though, it sure is quiet this late. Like a totally different world from earlier."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,???,...!
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,"Huh? Did you hear that? Sounded like something whooshing around, rotatin'..."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,"There's no way there's a gearcycle around these parts, right? Must be more tired than I thought."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Vyrn,Better hurry back. I bet ya Lyria's stayed up past her bedtime trying to wait for us.
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,"[Djeeta] and Vyrn agree that they are imagining the metallic, grating noise and pick up the pace after exchanging yawns."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Lumber Jellies,...
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,"Under the cover of darkness, a smack of lumber jellies crawls onto the empty beach."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,"Revenge for their brethren-turned-sustenance is the goal, and their first targets are the dimly lit houses nearby."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,"However, the surprise attack does not go as planned."
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,???,...!
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,Lumber Jellies,...!
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,The sound of turning wheels is the only warning the lumber jellies have before they are torn limb from limb and splattered in the sand.
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,???,...!
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,???,...
+English,"scene_evt200628_cp2_q4_s10,7556241",detail,,"The hungry assailant completes its feeding, launches into the air, and flies out into the distant ocean horizon."
 Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[ジータ]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。
 Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>
 Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>
@@ -3099,6 +4097,250 @@ Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,シャルロッテ,あっ�
 Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,ビィ,オイラ達も行こうぜ、[ジータ]！<br>よろず屋に頼まれた時間まで、<br>まだ少し空いてるからよ！<br>
 Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>[ジータ]はビィに頷き返し、</span><br><span class='scene-font-katari'>セワスチアンとルシオに別れを告げる。</span>
 Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>シャルロッテは予選会場に、</span><br><span class='scene-font-katari'>[ジータ]とビィは観客席に</span><br><span class='scene-font-katari'>急ぐのだった。</span>
+
+English,"scene_evt200628_cp1_q1_s10,7556111",synopsis,,"[Djeeta] and company arrive in Auguste, ready for fun. With a bit of free time to spend, competition participants Redluck, Lyria, Kolulu, Amira, and Leona bask in the nice weather. Sierokarte comes to welcome them, then urges the group to head to the arena for the explanation of the rules."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,A few days have passed since Siero's invitation.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,[Djeeta] and crew arrive to see Auguste's beach bustling with activity. An area is sectioned off to host the competition.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Tourists crowd the other parts of the beach. The crew takes the opportunity to relax before the festivities begin.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,"Golly, the ocean is gargantuan!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,Right? It's teeming with aquatic life too.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Amazing... I've never seen anything like this before.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,The crew first encountered Kolulu passed out from hunger on the side of a road. They learned she survived day-to-day by fighting in an underground fight club.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"After discovering that her custodian was skimming her earnings, Kolulu left the fight club and joined the crew."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Io! Let's view the ocean from a closer vantage!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"Sure, sure. Just watch out for lumber jellies, okay? Apparently there are a few still hanging around."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Naturally!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"With a bright grin, Kolulu approaches the water and watches as gentle waves wash over her feet."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Oh! Oh golly! The water's so cool and refreshing!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"Haha, why don't you try going for a swim? I promise it'll feel even better then!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Very well. I shall dive right in!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"Wait, what? You can't just—"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,...!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,One taste of the salty water is enough to send Kolulu scrambling back up the beach.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Hack... Cough... Th-that was unexpected.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"I told you seawater's salty, didn't I? Unlike rivers and lakes."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,And creatures actually live in these strange conditions? The sea is truly fascinating!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Kolulu gazes with innocent wonder at the blue expanse before them.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"Beside her, another girl stares wide-eyed at the ocean for the first time."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,The ocean... is so big...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Monster,...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,"Ah... Hey, you. Do you know how to get to Helheim?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Monster,...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,Oh... Nobody ever knows. Thanks anyway.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Uh, Amira. Did nobody ever tell you not to talk to... er, strangers?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,No? Everybody's nice. They told me about the good food here. Too bad they don't know about Helheim though.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,One day Amira fell out of the clear blue sky and landed on the Grandcypher.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"She is looking for her mother, who is waiting in a place called Helheim."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"After learning that [Djeeta]'s father might know where Helheim is, she joined the crew on their journey through the sky."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,Look. There's a crab.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Crab,...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,Uh... And?
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,Munch!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,Whoa! You're gonna bite down on it just like that?
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,"Crunch, chew... It's hard... Tough to eat."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,That's 'cause you're supposed to cook it over a fire and shell it first. Sheesh...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,Ahaha... I'm surprised how relaxed you all are before the big competition.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,Completely the opposite of me at the moment.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"Leona is an adjutant in Idelva's army. Though she never officially married into the family, she is considered by all to be Cain's sister-in-law."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,The crew met her through Cain after he helped them in the Nalhegrande Skydom.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,What's there to be worried 'bout? It's not like we're seriously going for the win.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"We invited you to chow down, you know?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,"I do, but it almost feels rude to take the event lightly after seeing the serious competitors."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,Don't worry! Siero said that the most important thing is having a good time!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,"So don't be so nervous, okay? I'm excited to eat with you, Leona!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,"You're right. I should focus on the fun, shouldn't I? Let's enjoy ourselves, Lyria."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,Hahaha! Nobody said you can't have fun while going for the win!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,And the win is gonna be mine!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Heya, big guy! Guess there's no way you'd be missing out on this, huh?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,Do you even need to ask? This competition's got my name written all over it!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Redluck is both a Zeyen monk and a competitive eater chasing after fame.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"A monk unlike any other, he travels around winning competitions, prize money, and glory."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,Never thought I'd live to see the day they brought it back.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,"It's like a dream come true, and I don't intend on letting this chance pass me by!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Male Spectator,Look there! Isn't that Redluck?
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Curious passersby overhear the man's exclamation and look in Redluck's direction.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Little Spectator,"It really is! Good luck, Mister Redluck!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Female Spectator,We'll be rooting for you!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,"Thank you, thank you! I'll put on a good show!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,Everyone sure loves you!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Can't say I'm surprised. The competition enthusiasts must know everything about ya, huh?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,"Hahaha, maybe."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,They know me well enough to know I'm gonna win at least! Just you watch!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,"Hello, everyone! I see you all made it without a problem."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Heya, Siero! Wouldn't miss this for the world!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,I'm sorry I couldn't greet you earlier. I've been so busy with preparations.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,That's all right. We're thankful enough for the invitation alone!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,Thank <span class='scene-font-italic'>you</span> for participating. I'm eager to see how you do.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,"Speaking of which, it's almost time for the explanation of the rules. You should head over soon!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Gotcha! C'mon, [Djeeta]!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,[Djeeta] gathers the crew members and informs them that it's time to go.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"Following Sierokarte's directions, the group heads for the competition center."
+English,"scene_evt200628_cp1_q2_s10,7556121",synopsis,,"The competition will be split into three rounds over three days: first is a preliminary round, then an elimination round, and last is the final round. The winner will receive a set of Auguste's finest seafood specialties. Everyone except Redluck expresses excitement at the grand prize, and Vyrn and Lyria hypothesize that it's because Redluck uses the prize money from his competitions to feed starving children. As Redluck grows embarrassed, an unfamiliar voice barges into the conversation."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,"The crew arrives at the competition stage alongside a mass of other contestants. More and more people enter, and soon the area is filled."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Are all these people here to eat?
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,Holy moly... There's gotta be at least a thousand people.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"The more, the merrier! No fun if it's not a challenge!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Competitor 1,"Yo, look at that guy. He's gotta be Redluck."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Competitor 2,"The rumors were true then. Tch, no point competing now."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,???,Hmph.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,Ahem! If I could have your attention please.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,Thank you all for attending despite the sweltering weather.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,I hope everyone's as excited as I am for the revival of this legendary event! Can everyone make some noise!
+English,"scene_evt200628_cp1_q2_s10,7556121",sel1_txt,,Yeeeeah!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,Whoo! All right!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,Y-yeah!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Amira,I'm hungry.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Leona,Yes!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Yaaay!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"With that out of the way, let's go over the rules!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,"The stadium quiets down, and Sierokarte clears her throat one more time."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"There are three stages to this competition: a preliminary round, an elimination round, and a championship round. The rounds are split over the course of the next three days."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,The preliminary round requires contestants to eat a set minimum in order to advance to the elimination round.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,The elimination round is split into two brackets: one in the morning and one in the afternoon. The winner of each bracket moves on to the final round.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,Our champion is then decided by a one-on-one showdown. It's going to be a match for the ages!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"Of course, we can't forget the grand prize! Feast your eyes on what we've got prepped!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,She lifts the sheet off a nearby pedestal to reveal an enormous platter stacked high with seafood.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"A set of Auguste's finest—rich not only in flavor, but also in price! Only one can take home this rare luxury!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"But which one of you is it going to be? Good luck, everyone!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Wow! So that's the prize Siero mentioned!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,Gulp... A bundle of Auguste's ocean delights... It looks so good!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Amira,"If I eat the most, I can eat all that fish!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Leona,To be able to taste cuisine unknown to Nalhegrande... That sure would be nice.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,A competitive spirit grows in the crowd as the prize draws every eye to its glistening edibles.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,Only Redluck appears unimpressed. He purses his lips and frowns.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"A set prize, huh? I get that it's fancy or whatever, but I sure would've preferred rupies instead."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"It's pretty good advertising though, showcasin' Auguste's specialties. What's wrong with that?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Nothing, it's just... Money's got more uses."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,"He coughs and glances away. Lyria peers up at him, a look of recognition crossing her face."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Hehe! I think I know what you're saying.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,"If it was money, you could donate it to the orphanage, right?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"Oh yeah! You always send your prize money to them, don'tcha?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"Shoulda figured, what with that spiel about 'making the world a place where no one ever has to starve' or whatever."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,Stop! Stop right there! It's embarrassing when you're shouting it in front of a crowd!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Sheesh, you kids should know better than to mess with your elders..."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"Haha, couldn't resist! Sorry!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,A world where no one ever has to starve...
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"What's that? Did you say something, kiddo?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,"Oh, no, it's nothing!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Well, I'm not giving up the victory just 'cause there's no money."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"And I'm not letting you guys win either, no matter how much you want the food. Sorry, not sorry!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,"That's okay. I hope you do well, Redluck!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Whoa, whoa, I thought you wanted to win yourself. Why're you cheering me on?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,You should be telling me how you're gonna put up a fight and get some blood-pumping tension going.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"But I guess that's not your style, eh? Let's do this fair and square, and have a good time!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Of course! We're going to eat as much as we can!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,The crew members exchange smiles and laughter as they look forward to the coming days.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,But a new face interrupts the merrymaking.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,???,Ya really think you can win with that kinda half-hearted attitude?
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,His wild voice roars above the din and crashes down like a wave.
+English,"scene_evt200628_cp1_q3_s10,7556131",synopsis,,"The unexpected obtruder reveals himself to be Mash the Smasher, another pro competitive eater. He taunts Redluck, calling his pride as a competitive eater into question, and the two begin to trade harsh barbs. The others can only watch the exchange in uneasy silence."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,???,"Suppose a guy like you, who's used to winning, wouldn't bother paying attention to his opponents!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"Barging his way into their conversation, a burly man shouts at the crew and glares at Redluck."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,Who the heck is this guy? He tryna pick a fight?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Tch. Figured you'd show up.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,You know him?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,I wish I didn't. But yeah.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,That's Mash. Another competitive eater with his own following.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"Mash the Smasher is the name, and don't you forget it!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Lyria,Uh... huh...
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"You're goin' down this time, Redluck! Mark my words!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"Hah, that's the hundredth time I've heard that! Surprised you haven't given up yet!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Lyria,Oh no... You don't seem to get along very well.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,Sounds like you've got some history. Is he a rival or something?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"You kidding? Guy's a pest I can't shake off, that's all."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,S'that what you think of me?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"Mash marches up to Redluck and leans into his personal space, their faces nearly touching."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,Big words for a fellow goofing off with a buncha kids. Hah!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Yeah? I don't want to hear that from someone who ain't devoted to the profession.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,Like you're any better than I am!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,You think I'm not giving a hundred and ten percent when I compete? I'm committed to every bite!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"Oh, look at Mister High-and-Mighty! Just gonna assume I don't throw my soul into every bite too?"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,What'd you say to me?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,You heard me! Or are ya deaf?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,"O-okay, can we time out for a sec? You're kinda causing a scene..."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Sorry... Didn't mean to lose my cool.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,...
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"Mash, let me just say this."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"I may have conquered countless tournaments and contests, but..."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,I can't call myself a pro if I don't win this title! Victory here is everything to me!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"The same goes for me! There are people I've gotta make proud, and I ain't resting until I do!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"You, actually caring about others' opinions? Color me surprised."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,We've both got our own reasons to win then.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,So enough speaking with our mouths. Let's do what we do best... and see who can stomach more on the main stage!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,Now you're speaking my language! Hope you're ready to lose!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"As fast as he had arrived, Mash turns away and disappears into the crowd."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Psh. Bring it on.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"[Djeeta], I'm gonna go clear my head. Catch you later."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"Redluck leaves in the opposite direction, his face deadly serious."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,What... just happened?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,Vyrn's question meets silence as the others try to process what they just witnessed.
+English,"scene_evt200628_cp1_q4_s10,7556141",synopsis,,"[Djeeta] and Vyrn decide to withdraw from the competition to help Sierokarte. As they walk around, they run into Charlotta. She informs the two that she has entered the competition as Sevastien is one of the chefs preparing food for each round. Sevastien himself appears in Lucio-inspired attire alongside Lucio, and the group enjoys friendly conversation before it is time for the preliminary round to start."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Following Redluck and Mash's confrontation, [Djeeta] and Vyrn part with Lyria and the others to head to the beach."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,That sure threw me for a loop. Never seen the big guy so serious before.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Siero wasn't kidding when she mentioned how much people cared about this event, huh?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Almost makes me feel relieved to be stuck with this job instead.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"Why, if it isn't [Djeeta] and Vyrn!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,You appear to be discussing a weighty subject. Is something the matter?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,Charlotta serves as captain of the Lumiel Order of Holy Knights.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"She is searching for a way to rectify her short height, and met the crew during her travels."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Kinda, sorta. What about you? You look a bit antsy."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"Just moments ago, I entered myself into the eating competition!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"I shall approach this duel of sustenance without hesitation, even if you are my opponent, [Djeeta]!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Er... Sorry to burst your bubble, but me and [Djeeta] had to drop out."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,What? But why?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"The Knickknack Shack needs us on deck for the next few days, y'see."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"After the altercation between Redluck and Mash, Sierokarte approached the crew."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"She explained that the competition attracted far more people than expected, which left the staff shorthanded."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Vyrn and [Djeeta] decided to step down from the contest and offer their assistance, so that Lyria and the others could focus on their food."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Siero really needed the help, and we don't mind cheering from the sidelines, so we figured we could let the others have their fun."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,I see. A most noble sacrifice.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"I gotta say, I didn't think you'd be interested in joining the fun too. Since when did you care about serious eating?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"In all honesty, I didn't originally intend to compete."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"However, I could not resist once I discovered that Sevastien was selected to prepare the food!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"He's one of the chefs? Wow, everyone's gonna be in for a treat!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,To be recognized as one of the few who can utilize lumber jelly to its fullest potential...
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,Sevastien is truly skilled! I could not be prouder of his feats!
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Hohoho! I am flattered to hear such praise from you.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Heya, Sevastien! Grats on bein' hired to cook—"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Wait, what the heck!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Is something the matter? You appear simply gobsmacked.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,Sevastien is an elderly gentleman who serves Charlotta and upholds the same principles of justice.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Though he appears to be simply her butler, in truth he serves as the archpraetor of the Lumiel Order of Holy Knights."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,That's because I am! What's with that getup?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"I, too, long for relaxation and wish to join the revelry."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"It's quite suitable for the occasion, isn't it?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,There's a difference between taking a load off and completely changin' character!
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"So you say, but this is my true form. I apologize for keeping it hidden until now."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,The devoted servant you've always known is but a mask.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,I was an avid partygoer and troublemaker once upon a time.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"The beaches were my playgrounds, and I roamed without restraint."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"This sounds like one tall tale, but I can't tell if you're kidding or not..."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Hoho! Joking aside...
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"I am quite fond of these sunglasses, though I never would have picked them out myself."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,So then who did?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,That would be me.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Seriously?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,"It's to commemorate our blossoming friendship. What could be more heartfelt than a matching accessory, after all?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Seems to me like you're doing your own thing like always.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Wait, did you say friendship? You guys are friends? Since when?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,I heard that a single taste of the Lumiel Gourmand's food was enough to prolong one's life.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,"I wished to know the secret behind such masterful work, and so I approached Sevastien."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"That's one way to start a conversation, I guess... Did you learn anything in the end?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,Unfortunately not.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,It is not a secret that can be simply learned from another.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Rather, it is the natural result of experience and accumulating knowledge... The Lumiel Gourmand is nothing more, nothing less."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,Fascinating. Perhaps I will attempt a hundred years of study and see where the experience takes me.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Now that is an intriguing idea.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,Hehe.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Oh dear, I'm afraid we'll have to continue this another time. I must get to cooking."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Though I won't be directing the kitchen for the preliminaries, I still have a role to fulfill."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Who's in charge if you're not then?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,You are acquainted with them. But I shall leave the answer to your imagination until the main event.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Which should be starting soon, if I recall correctly."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"Oh, that's right! I should hurry over!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"We've got some time before we gotta meet up with Siero, right? Let's go take a look, [Djeeta]!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Charlotta, Vyrn, and [Djeeta] part with Sevastien and Lucio."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,Charlotta heads for the participants' area while Vyrn and [Djeeta] claim seats in the stands.
 Japanese,scene_evt200628_cp0_q1_s10,synopsis,,夏真っ盛りのある日、[ジータ]一行はシェロカルテから大食い大会の誘いを受ける。<span class='scene-font-place'>アウギュステ</span>では現在、樹クラゲという生物が大量発生して漁業に被害を与えており、退治した樹クラゲの処分に困っているという。そこでシェロカルテが大食い大会を企画し、参加者を募るため、縁のある一行に声をかけたのだ。一行は大会を盛り上げるため、大会への参加を申し出るのだった。
 Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>肌を焼くような強い陽射しが</span><br><span class='scene-font-katari'>降り注ぐ、夏真っ盛りのある日。</span>
 Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>挨拶がてら訪れたシェロカルテから</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の現状を知らされる。</span>
