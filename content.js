@@ -1647,7 +1647,7 @@ function translate_StoryText(stext, jsonFile) {
     var skip = false;
     reservedData.some(function (item) {
         let sc = SceneCodeFromURL();
-        if (item.SceneCode.includes(sc)) {
+        if (String(item.SceneCode).includes(sc)) {
             skip = true;
             return true;
         }
@@ -1700,6 +1700,8 @@ function translate_StoryText(stext, jsonFile) {
     }
 
     for (var i = 0; i < reservedData.length; i++) {
+        if (!reservedData[i].Origin)
+            continue;
         if (stext.length == reservedData[i].Origin.length) {
             if (stext == reservedData[i].Origin) {
                 if (reservedData[i].Korean) {
