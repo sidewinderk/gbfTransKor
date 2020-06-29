@@ -168,6 +168,176 @@ Japanese,"scene_cp1_q4_s30,143",detail,？？？,心配いらない……<br>聞
 Japanese,"scene_cp1_q4_s30,143",detail,？？？,そういやそうだっけ？<br>とはいえ、しばらく起きないなら、<br>僕達の出番かな？
 Japanese,"scene_cp1_q4_s30,143",detail,？？？,だろうな……
 Japanese,"scene_cp1_q4_s30,143",detail,？？？,そっかそっか、うんうん。<br>お金は貰っちゃってるし、<br>それ相応のお仕事はしないとねっ！
+
+English,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,[Djeeta] and the others crash-land on an island. A mysterious man appears and gives them a piece of advice.
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"Having departed Zinkenstill, [Djeeta] and the others head for a nearby island to prepare for the coming journey."
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,But Katalina's inexperienced piloting causes the airship to sputter and smoke before suddenly losing altitude.
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,It's here on the gusty green fields below where the sky-wide tale of [Djeeta] begins...
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Katalina,"Is everyone all right?<br>What about you, Lyria?"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Lyria,"I'm fine... Are you okay, [Djeeta]?"
+English,"scene_tutorial_scene_cp1_q1_s10,111",sel1_txt,,Just barely...
+English,"scene_tutorial_scene_cp1_q1_s10,111",sel2_txt,,I don't think I can stand!
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Lyria,That's a relief... The airship shook so much that I thought you might've been hurt.
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Vyrn,"We've done training tougher than that! Right, [Djeeta]?"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Vyrn,"What are you moaning about, [Djeeta]? You're not gonna let a knock like that keep you down!"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Vyrn,But what happened? Did we just drop out of the sky?
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Katalina,I'm sorry... I never imagined piloting an airship would be so difficult.
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"Whoa, whoa, whoa! What do we have here?"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"A stranger has suddenly appeared next to the airship, inspecting it carefully."
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"You've really done a job on her. I reckon you've blown the power unit... Look, the keel's cracked too!"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,Repairs aren't gonna get this thing flying again. So... is this your airship?
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Katalina,"Well, yes, but... who are you?"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"I get it. You're an airship crew, right? But by the looks of you, you can't have been around for long..."
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Vyrn,A crew? That's not a bad idea! How about we all form a crew?
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Vyrn,"Hey, [Djeeta]! Before your dad left for Estalucia, he led an airship crew, you know!"
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,Ha! You can forget that! It's clear you don't have an expert among you to pilot an airship.
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"If you plan on calling yourself a crew, you need at least one helmsman on board before anything gets started."
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,The mystery man turns and walks away without another word.
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Katalina,"A helmsman, eh? He's right. If we plan to continue this journey, we're surely going to need one."
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Vyrn,"Sure, sure. But what's with that guy? Saying his piece and leaving just like that..."
+English,"scene_tutorial_scene_cp1_q1_s10,111",detail,Katalina,"Who knows? In any case, we should find a town and prepare for the journey to come."
+English,"scene_cp1_q1_s20,112",synopsis,,"While on the way to town, Katalina explains to [Djeeta] and the others what they need for the journey ahead."
+English,"scene_cp1_q1_s20,112",detail,Vyrn,Hey! I can see a town! It's huge!
+English,"scene_cp1_q1_s20,112",detail,Katalina,"If my guess is correct, then we're on Eingana, the main island of the Port Breeze Archipelago."
+English,"scene_cp1_q1_s20,112",detail,Katalina,These islands do a fair bit of trade. A trip to town should get us everything we need.
+English,"scene_cp1_q1_s20,112",detail,Lyria,"And after that, Katalina, what'll we need to do next on our journey?"
+English,"scene_cp1_q1_s20,112",detail,Katalina,Good question. First we have to get through the Grim Basin.
+English,"scene_cp1_q1_s20,112",detail,Lyria,"Oh, I've heard of that! It's the scary thing that splits the sky into pieces, right?"
+English,"scene_cp1_q1_s20,112",detail,Katalina,Exactly. It's filled with a dangerous miasma and divides the sky into different skydoms.
+English,"scene_cp1_q1_s20,112",detail,Katalina,"Port Breeze is part of the Phantagrande Skydom, which is mostly under the control of the Erste Empire."
+English,"scene_cp1_q1_s20,112",detail,Katalina,"And it seems you've been paying attention to my geography lessons, Lyria. I'm proud of you."
+English,"scene_cp1_q1_s20,112",detail,Lyria,"Hee-hee! You hear that, Lizzie?"
+English,"scene_cp1_q1_s20,112",detail,Vyrn,How many times do I have to tell you? I ain't no lizard!
+English,"scene_cp1_q1_s20,112",detail,Vyrn,So? What do we need to get through this Grim Basin?
+English,"scene_cp1_q1_s20,112",detail,Katalina,"We need two things, broadly speaking: transport and a map."
+English,"scene_cp1_q1_s20,112",detail,Katalina,Our transport's got to be an airship. But we can't have an amateur at the helm. That I know for sure...
+English,"scene_cp1_q1_s20,112",detail,Vyrn,I saw my life flash before my eyes when we made that landing.
+English,"scene_cp1_q1_s20,112",detail,Katalina,We'll need a helmsman to join us... And they'll have to have some real know-how.
+English,"scene_cp1_q1_s20,112",detail,Katalina,We also need something that shows the route to take. And that's the sky map.
+English,"scene_cp1_q1_s20,112",detail,Lyria,So we can get through the basin with just those things?
+English,"scene_cp1_q1_s20,112",detail,Katalina,More like we couldn't come even close to it without them. And then there's the monsters...
+English,"scene_cp1_q1_s20,112",detail,Vyrn,"On top of that, the sky map is scattered across islands, right? With a great primal beast guarding each one?"
+English,"scene_cp1_q1_s20,112",detail,Katalina,That's what they say. I think we've got ourselves a hard road ahead...
+English,"scene_cp1_q1_s20,112",detail,Monster,Groaaar!
+English,"scene_cp1_q1_s20,112",detail,Vyrn,"Whoa! We've got a monster too!<br>There may be a hard road ahead, but first things first!"
+English,"scene_cp1_q2_s10,121",synopsis,,[Djeeta] and the others meet Sierokarte who runs the Knickknack Shack. They learn of the one remaining helmsman on the island and go out in search of him.
+English,"scene_cp1_q2_s10,121",detail,,[Djeeta] and the others stop by the Knickknack Shack to prepare for their journey across the sky.
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,Welcome! How can I help you this lovely day?
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,"Journeys, jobs, or skyfarers' hearts!<br>Leave it all to Sierokarte!"
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,Need some items to fill your pack?<br>Come on by the Knickknack Shack! Hee-hee...
+English,"scene_cp1_q2_s10,121",detail,Lyria,You run this place all by yourself? That's very impressive for someone your size!
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,"Now, now! Never judge a book by its cover!"
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,I'm an entrepreneur extraordinaire!<br>Underestimate me? I wouldn't dare!
+English,"scene_cp1_q2_s10,121",detail,Katalina,"You sound quite reliable! Anyway, shopkeep, we're trying to find a way across the sky..."
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,"Stowaways, eh? You're in luck since I've got a sale on people-sized luggage..."
+English,"scene_cp1_q2_s10,121",detail,Katalina,No! You've got us wrong! We're looking for a helmsman to join us.
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,"A helmsman, eh? Hm... I'm afraid most of them are out on other business."
+English,"scene_cp1_q2_s10,121",detail,Sierokarte,"It's the busy season, you know! Every helmsman worth their salt gets snatched right up!"
+English,"scene_cp1_q2_s10,121",detail,Lyria,Really? What do we do now?
+English,"scene_cp1_q2_s10,121",detail,Townsperson 1,They're looking for a helmsman. What about... you-know-who?
+English,"scene_cp1_q2_s10,121",detail,Townsperson 2,"You-know-who? You mean Rackam? I mean, he <span class='scene-font-italic'>is</span> good, and he's got some serious time on his hands..."
+English,"scene_cp1_q2_s10,121",detail,Townsperson 3,But I hear he's given up on airships.
+English,"scene_cp1_q2_s10,121",detail,Townsperson 1,"Well he might've changed his mind!<br>Isn't that right, lizard?"
+English,"scene_cp1_q2_s10,121",detail,Vyrn,"Well, I dunno abou—Wait! Quit calling me a lizard! You wanna get bit?"
+English,"scene_cp1_q2_s10,121",detail,Katalina,"Settle down, Vyrn! You only get cuter when you're mad."
+English,"scene_cp1_q2_s10,121",detail,Vyrn,"Oooh! Just cut it out!<br>Anyway, where can we find this Rackam guy?"
+English,"scene_cp1_q2_s10,121",detail,Townsperson 1,He's always on the outskirts of town doing who knows what.
+English,"scene_cp1_q2_s10,121",detail,Townsperson 1,Check near the airship in the Angads Highlands. Don't think you'll have trouble finding him... or monsters. So be careful!
+English,"scene_cp1_q2_s10,121",detail,Lyria,"It's worth a shot, [Djeeta]! We can figure out what kind of guy he is once we meet him!"
+English,"scene_cp1_q2_s20,122",synopsis,,[Djeeta] and the others set out in search of the airship on the Angads Highlands. But Katalina has her doubts as to whether they'll actually find one.
+English,"scene_cp1_q2_s20,122",detail,Vyrn,If there's an airship here... I'm not seeing it.
+English,"scene_cp1_q2_s20,122",detail,Katalina,An airship on the highlands... Sounds odd to me.
+English,"scene_cp1_q2_s20,122",detail,Lyria,Odd? I don't know... Our ship is on the highlands right now too.
+English,"scene_cp1_q2_s20,122",detail,Katalina,"Ah! Well, that's because it crashed. Or should I say... <span class='scene-font-italic'>I</span> crashed it."
+English,"scene_cp1_q2_s20,122",detail,Katalina,Airships normally anchor at the jutties on an island or the outskirts.
+English,"scene_cp1_q2_s20,122",detail,Vyrn,But are we gonna just stand here talkin' about it? Let's get moving!
+English,"scene_cp1_q3_s10,131",synopsis,,[Djeeta] and the others find an airship in the highlands as well as a group of imperial soldiers about to threaten the town.
+English,"scene_cp1_q3_s10,131",detail,Vyrn,So is this the airship the townspeople were talking about?
+English,"scene_cp1_q3_s10,131",detail,Katalina,"It seems that way, but..."
+English,"scene_cp1_q3_s10,131",detail,Lyria,It looks like it crashed here a while ago.
+English,"scene_cp1_q3_s10,131",detail,Katalina,Could this really be Rackam's airship? What happened to it?
+English,"scene_cp1_q3_s10,131",detail,Katalina,"Ah! We've got trouble... You see them too, right, [Djeeta]? They're soldiers of the Erste Empire."
+English,"scene_cp1_q3_s10,131",detail,Vyrn,They haven't spotted us yet. We need to hide! Now!
+English,"scene_cp1_q3_s10,131",detail,???,"Oooh, this is so aggravating! Do I really have to be here for this?"
+English,"scene_cp1_q3_s10,131",detail,Imperial Soldier 1,"General Furias, Port Breeze has a history of resisting the empire, you see..."
+English,"scene_cp1_q3_s10,131",detail,Furias,I know that! Are you some sort of wise guy? Tch... Now you've ruined my mood. Somebody take him to the torture chamber!
+English,"scene_cp1_q3_s10,131",detail,Imperial Soldier 1,Eek! General Furias! I apologize for my earlier insolence!
+English,"scene_cp1_q3_s10,131",detail,Furias,"Cease your yapping... Or maybe you could do without a head! You don't seem to use it much, now do you?"
+English,"scene_cp1_q3_s10,131",detail,Imperial Soldier 1,But... I...
+English,"scene_cp1_q3_s10,131",detail,Furias,So? How fares the plan to deal with those idiot conspirators?
+English,"scene_cp1_q3_s10,131",detail,Imperial Soldier 2,Sir! The troops are in place. Everything's ready to go.
+English,"scene_cp1_q3_s10,131",detail,Imperial Soldier 2,"Simply give the word, sir, and you'll be audience to the town's magnificent destruction."
+English,"scene_cp1_q3_s10,131",detail,Katalina,Not if I have a say!
+English,"scene_cp1_q3_s10,131",detail,Furias,Oh? And who are you?
+English,"scene_cp1_q3_s10,131",detail,Lyria,Katalina! We're supposed to be <span class='scene-font-italic'>hiding</span>!
+English,"scene_cp1_q3_s10,131",detail,Katalina,I've been listening to what you plan to do. And it's heinous!
+English,"scene_cp1_q3_s10,131",detail,Katalina,How dare you destroy a town for simply resisting the empire! I won't stand for it!
+English,"scene_cp1_q3_s10,131",detail,Imperial Soldier 2,Unbelievable. It's the girl we held captive and the guard who helped her escape...
+English,"scene_cp1_q3_s10,131",detail,Vyrn,"Oh, gimme a break! We get your point, Knightalina, but you couldn't wait till later to make it?"
+English,"scene_cp1_q3_s10,131",detail,Vyrn,"Time to run, guys! No way we're getting caught here!"
+English,"scene_cp1_q3_s20,132",synopsis,,[Djeeta] and the others must find a way to warn the townspeople of the impending danger.
+English,"scene_cp1_q3_s20,132",detail,Katalina,I sincerely apologize...
+English,"scene_cp1_q3_s20,132",detail,Lyria,"It's okay, Katalina. You're not the only one who's upset!"
+English,"scene_cp1_q3_s20,132",detail,Lyria,"Besides, it was neat how you stuck it to them like that! Right, [Djeeta]?"
+English,"scene_cp1_q3_s20,132",detail,Katalina,"Seeing such injustice just... riles me up, I guess."
+English,"scene_cp1_q3_s20,132",detail,Katalina,"I know a knight must always keep a level head, but in this case..."
+English,"scene_cp1_q3_s20,132",detail,Vyrn,"It's tough to keep it together when you hear something like that, huh?"
+English,"scene_cp1_q3_s20,132",detail,Lyria,You said it. And we've got to find a way to warn the townspeople too!
+English,"scene_cp1_q3_s20,132",detail,Vyrn,Yeah! But first we gotta do something about these imperial soldiers on our tails!
+English,"scene_cp1_q4_s10,141",synopsis,,"[Djeeta] and the others run into the soldiers again who've brought new friends. Furias attempts to destroy the grounded airship, but he's stopped by a mysterious man."
+English,"scene_cp1_q4_s10,141",detail,Katalina,Hm? Wait a second...
+English,"scene_cp1_q4_s10,141",detail,Lyria,"After all that running around, we're back where we started!"
+English,"scene_cp1_q4_s10,141",detail,Furias,"Oh? Well now, look who's back!"
+English,"scene_cp1_q4_s10,141",detail,Furias,"You've made me the happiest general in the world! You see, the empire's given orders to capture you!"
+English,"scene_cp1_q4_s10,141",detail,???,"My, my, I've never seen you in such high spirits, sir! Why, you almost manage to pass for likable!"
+English,"scene_cp1_q4_s10,141",detail,???,Shut it. And learn your place already.
+English,"scene_cp1_q4_s10,141",detail,Vyrn,Good grief! Now they've brought more of their buddies around!
+English,"scene_cp1_q4_s10,141",detail,Furias,So tell me! What brings you back?
+English,"scene_cp1_q4_s10,141",detail,Furias,"Let me guess! You were thinking of hopping on that airship and scuttling away, right? Did I guess it?"
+English,"scene_cp1_q4_s10,141",detail,Furias,Ha-ha-ha! This beat-up hunk of junk couldn't fly an inch!
+English,"scene_cp1_q4_s10,141",detail,Katalina,I had a feeling it wasn't fit to fly...
+English,"scene_cp1_q4_s10,141",detail,Katalina,But I was hoping there might be a way still.
+English,"scene_cp1_q4_s10,141",detail,Furias,You think it can fly? This scrap heap? Ha-ha-ha!
+English,"scene_cp1_q4_s10,141",detail,Furias,"Still, you can never be too careful...<br>So destroy the airship! Someone! Anyone!"
+English,"scene_cp1_q4_s10,141",detail,Lyria,But why? It's hardly damaged so if we just fix it up a little...
+English,"scene_cp1_q4_s10,141",detail,Furias,Why would I let you do a thing like that? Now hurry up and <span class='scene-font-italic'>destroy it</span> before I—
+English,"scene_cp1_q4_s10,141",detail,Furias,Ouch!
+English,"scene_cp1_q4_s10,141",detail,???,"Scrap heap, huh? Can't have you shooting your mouth off like that..."
+English,"scene_cp1_q4_s10,141",detail,???,"Hey, short stuff! What are you trying to do to my airship?"
+English,"scene_cp1_q4_s10,141",detail,Vyrn,Whoa! That's the weird guy we talked to after the crash!
+English,"scene_cp1_q4_s10,141",detail,Imperial Soldier 2,Who are you? One of their cohorts?
+English,"scene_cp1_q4_s10,141",detail,???,"What? Wait, wait, wait! A cohort? I think you've got me wrong here!"
+English,"scene_cp1_q4_s10,141",detail,Imperial Soldier 2,Too late! Arrest this man!
+English,"scene_cp1_q4_s10,141",detail,Katalina,This is bad! Now they're after him!
+English,"scene_cp1_q4_s10,141",detail,Vyrn,"But we've gotta run, guys! And not in a circle this time!"
+English,"scene_cp1_q4_s20,142",synopsis,,"Cornered by imperial soldiers, [Djeeta] and the others seem doomed until the mysterious man appears again to give them a hand."
+English,"scene_cp1_q4_s20,142",detail,Lyria,Oh no! They're closing in on us!
+English,"scene_cp1_q4_s20,142",detail,Katalina,This might be the end...
+English,"scene_cp1_q4_s20,142",detail,???,Hey! Over here!
+English,"scene_cp1_q4_s20,142",detail,Vyrn,It's you again!
+English,"scene_cp1_q4_s20,142",detail,???,I've got a hideout! And I'll take you there so follow me.
+English,"scene_cp1_q4_s20,142",detail,Vyrn,"C'mon, [Djeeta]! Let's follow him!"
+English,"scene_cp1_q4_s20,142",detail,Imperial Soldier 2,Cowards! You won't get away from us!
+English,"scene_cp1_q4_s30,143",synopsis,,"[Djeeta] and the others learn that the mysterious man is actually Rackam, but he refuses to be their helmsman."
+English,"scene_cp1_q4_s30,143",detail,???,Whew... Looks like they finally gave up on the search.
+English,"scene_cp1_q4_s30,143",detail,Katalina,"We're in your debt. After the crash and even up against soldiers, you've helped us countless times."
+English,"scene_cp1_q4_s30,143",detail,Rackam,You can say that again! The name's Rackam. How about you?
+English,"scene_cp1_q4_s30,143",detail,,[Djeeta] and the others introduce themselves and tell him how they came to be stranded.
+English,"scene_cp1_q4_s30,143",detail,Vyrn,And that's why we gotta find ourselves a helmsman!
+English,"scene_cp1_q4_s30,143",detail,Rackam,Wow... Sounds like you're in a pickle.
+English,"scene_cp1_q4_s30,143",detail,Katalina,And to think all along you were the helmsman we were looking for. This can't be mere coincidence.
+English,"scene_cp1_q4_s30,143",detail,Lyria,"I know this might seem a bit sudden to ask, but could you join us?"
+English,"scene_cp1_q4_s30,143",detail,Rackam,Nope. I'll pass.
+English,"scene_cp1_q4_s30,143",detail,Vyrn,Really? But you were so nice to us when we crashed...
+English,"scene_cp1_q4_s30,143",detail,Rackam,I just felt sorry for that poor airship.
+English,"scene_cp1_q4_s30,143",detail,Rackam,"Besides, I've given up on the sky. I'll never pilot an airship again..."
+English,"scene_cp1_q4_s30,143",detail,,Rackam's expression turns stiff as he struggles to conceal his true feelings on the matter.
+English,"scene_cp1_q4_s30,143",detail,Furias,Agh...
+English,"scene_cp1_q4_s30,143",detail,???,Oh my! Is our little general gonna be all right? Does he need his mommy to come kiss his boo-boos?
+English,"scene_cp1_q4_s30,143",detail,???,"No need to worry. He said he's fine, didn't he? All he needs is some time to rest."
+English,"scene_cp1_q4_s30,143",detail,???,"Well, I don't think he's getting up any time soon. Which means it's our time to shine!"
+English,"scene_cp1_q4_s30,143",detail,???,Guess so...
+English,"scene_cp1_q4_s30,143",detail,???,"Yes, indeed! We're getting paid, aren't we? That's as good a reason to work as any!"
 !프롤로그
 0,"scene_evt200515_cp0_q1,1",今日はお疲れ様でした。<br>明日の撮影もよろしくお願いします。,오늘은 수고하셨습니다.<br>내일 촬영도 잘 부탁드립니다.
 1,"scene_evt200515_cp0_q1,1",…………,…………
@@ -1844,6 +2014,210 @@ Japanese,"scene_tutorial03,041",detail,ビィ,新しい出会いもあるかも�
 Japanese,"scene_tutorial03,041",detail,ビィ,だから……行こうぜ！<br>[ジータ]。<br>ここが空の彼方へ至る旅の始まりだ！！
 Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>不思議な少女と魂を共有した事により</span><br><span class='scene-font-katari'>特殊な力を得た[ジータ]は</span><br><span class='scene-font-katari'>故郷をあとにする。</span>
 Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>無限の果てに待つ父を想う</span><br><span class='scene-font-katari'>[ジータ]の髪を</span><br><span class='scene-font-katari'>一陣の蒼い風が優しく撫でた。</span>
+
+English,"scene_tutorial00,011",synopsis,,"Inspired by their father's letter, a young dreamer seeks the end of the sky. But on preparing to depart, a warship appears in the village along with a mysterious girl seeking aid."
+English,"scene_tutorial00,011",detail,,"In a world abandoned by the gods, a lone dragon remained."
+English,"scene_tutorial00,011",detail,,"Bahamut, ruler of creation through destruction, sought to refine the realm the gods left behind into a richer, more bountiful place."
+English,"scene_tutorial00,011",detail,,But the arrival of invaders from beyond the sky—the Astrals—brought an end to his plans.
+English,"scene_tutorial00,011",detail,,The Astrals used creatures of terrible power known as primal beasts to bring the sky under their control. Long did the skies belong to the stars.
+English,"scene_tutorial00,011",detail,,But the skydwellers bided their time and learned from their foes. Eventually they fought to take back the skies in a conflict that would come to be known as the War.
+English,"scene_tutorial00,011",detail,,"And here we find the Sky Realm, now a world of fragmented lands floating in a sea of clouds."
+English,"scene_tutorial00,011",detail,,"A new tale is about to begin here, spanning the skies and the stars alike..."
+English,"scene_tutorial00,011",detail,Vyrn,"Say, are you serious about leavin' the village?"
+English,"scene_tutorial00,011",detail,Vyrn,"Sure, your dad wrote about the end of the sky in his letter, but getting there might as well be impossible..."
+English,"scene_tutorial00,011",sel1_txt,,I know we can reach it!
+English,"scene_tutorial00,011",sel2_txt,,I have a plan.
+English,"scene_tutorial00,011",detail,Vyrn,Oh! You mean with the Sky Map? The thingy the Astrals put together centuries ago?
+English,"scene_tutorial00,011",detail,Vyrn,"If we had something like that, we could go anywhere! But you know that map's just something out of a fairy tale..."
+English,"scene_tutorial00,011",detail,Vyrn,"Real or not, there's no stopping you once you've made up your mind. Beats hanging around this sleepy village anyway!"
+English,"scene_tutorial00,011",detail,Vyrn,Huh?<br>Whoa! Hang on a minute! What was that?
+English,"scene_tutorial00,011",detail,Vyrn,That's... a battleship! What's it doing here in the middle of nowhere?
+English,"scene_tutorial00,011",detail,Vyrn,No way! What's going on here? I just heard something explode!
+English,"scene_tutorial00,011",detail,???,...
+English,"scene_tutorial00,011",sel1_txt,,I just saw a flash over by the forest...
+English,"scene_tutorial00,011",detail,Vyrn,What do you think it was? A part of the ship?
+English,"scene_tutorial00,011",detail,Vyrn,Hoo boy... What if that sets the whole forest on fire?
+English,"scene_tutorial00,011",sel1_txt,,We'd better check it out!
+English,"scene_tutorial00,011",detail,Vyrn,Whatever fell from that battleship should be over... here.
+English,"scene_tutorial00,011",detail,???,Eek!
+English,"scene_tutorial00,011",detail,Mysterious Girl,Ouch...
+English,"scene_tutorial00,011",detail,Mysterious Girl,...!
+English,"scene_tutorial00,011",detail,Vyrn,Who's the girl? Never seen her around here before.
+English,"scene_tutorial00,011",sel1_txt,,"Are you okay? You're not hurt, are you?"
+English,"scene_tutorial00,011",detail,Mysterious Girl,P-please! S-save me!
+English,"scene_tutorial00,011",detail,Vyrn,H-hey... That's a big request to spring on someone!
+English,"scene_tutorial00,011",detail,Gruff Voice,You there! Halt!<br>Drop your sword! Hands in the air!
+English,"scene_tutorial00,011",detail,Mysterious Girl,Gasp!
+English,"scene_tutorial00,011",detail,,"Soldiers in pursuit of the girl show up. Their armor suggests they are with the villainous Erste Empire, which employs military might to force kingdoms throughout the skies to their knees."
+English,"scene_tutorial00,011",detail,Vyrn,Who are you guys? Are you trying to pick a fight?
+English,"scene_tutorial00,011",detail,Imperial Soldier,"If your life means anything to you, you'll cooperate and hand over that girl."
+English,"scene_tutorial00,011",detail,,The soldier's words are not the kind heard in peaceful lands.
+English,"scene_tutorial00,011",detail,Mysterious Girl,N-no!
+English,"scene_tutorial00,011",detail,Imperial Soldier,You heard me! Hand her over! You don't want to force my hand.
+English,"scene_tutorial00,011",sel1_txt,,She asked for our help!
+English,"scene_tutorial00,011",sel2_txt,,Like we can trust you!
+English,"scene_tutorial00,011",detail,Vyrn,That's right! We can't just do what you say when she's shakin' like a leaf over here!
+English,"scene_tutorial00,011",detail,Imperial Soldier,"So that's how we're gonna play it, huh? Don't say I didn't warn you!"
+English,"scene_tutorial00,011",detail,,...!
+English,"scene_tutorial01,021",synopsis,,"Two elite soldiers are pursuing the mysterious girl named Lyria. The knight Katalina tries to protect her, while Captain Pommern attempts to do harm to the girl and young dreamer alike."
+English,"scene_tutorial01,021",detail,Imperial Soldier,Argh! Why you little...
+English,"scene_tutorial01,021",detail,,...
+English,"scene_tutorial01,021",detail,Vyrn,"Betcha weren't expecting that, huh? You can only dream of matching my pal's sword skills!"
+English,"scene_tutorial01,021",detail,Imperial Soldier,Curses... This isn't over!
+English,"scene_tutorial01,021",detail,Vyrn,A friend of his? Stay sharp!
+English,"scene_tutorial01,021",detail,Knight,Lyria! Are you all right?
+English,"scene_tutorial01,021",detail,Mysterious Girl,Katalina! I... I...
+English,"scene_tutorial01,021",detail,Knight,Thank goodness she hasn't been injured. Have you two been protecting her?
+English,"scene_tutorial01,021",detail,Vyrn,"I guess you could say that! They were after us too, so we just did what came naturally."
+English,"scene_tutorial01,021",detail,Mysterious Girl,"You should have seen it, Katalina! This hero saved me! It was so... heroic!"
+English,"scene_tutorial01,021",detail,Knight,"Is that so? Well, I'm just glad you're safe."
+English,"scene_tutorial01,021",detail,Vyrn,"So, um... Who are you guys exactly?"
+English,"scene_tutorial01,021",detail,Vyrn,Doesn't seem like you're friends with those jerks from earlier.
+English,"scene_tutorial01,021",detail,Katalina,"Ah, yes, how rude of me. My name is Katalina Aryze."
+English,"scene_tutorial01,021",detail,Katalina,And this is Lyria. I can't thank you enough for saving her.
+English,"scene_tutorial01,021",detail,Katalina,"If you don't mind, could you tell me your name as well?"
+English,"scene_tutorial01,021",detail,Vyrn,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?
+English,"scene_tutorial01,021",detail,Lyria,"W-where? Well, uh..."
+English,"scene_tutorial01,021",detail,Katalina,That's right...<br>We... were being chased.
+English,"scene_tutorial01,021",detail,Katalina,"Which is why we need to get out of here before more of them show up, and—"
+English,"scene_tutorial01,021",detail,???,Lieutenant Katalina!
+English,"scene_tutorial01,021",detail,???,"I do say. Did I give the order for you to stop and smell the roses out here, Lieutenant?"
+English,"scene_tutorial01,021",detail,Katalina,"C-Captain Pommern! Terribly sorry, sir. I'll return Lyria to the ship immediatel—"
+English,"scene_tutorial01,021",detail,Pommern,"Enough of these lies! You're the one who spirited her away from the ship, are you not?"
+English,"scene_tutorial01,021",detail,Pommern,I do say! To defy the mighty Erste Empire requires profound bravery... and profound <span class='scene-font-italic'>stupidity</span>.
+English,"scene_tutorial01,021",detail,Katalina,...
+English,"scene_tutorial01,021",detail,Pommern,You knew the classified nature of the girl's existence when we placed her in your protection.
+English,"scene_tutorial01,021",detail,Pommern,"Which means you must surely be aware of the gravity of your actions, yes?"
+English,"scene_tutorial01,021",detail,Pommern,We need that girl to command the primals. To assist in her escape demands a grave punishment indeed!
+English,"scene_tutorial01,021",detail,Katalina,Captain... I simply thought it too dangerous for us to attempt using the power of the primal beasts.
+English,"scene_tutorial01,021",detail,Katalina,The primals are a legacy of the Astrals... Terrifying weapons that set the skies ablaze during the War.
+English,"scene_tutorial01,021",detail,Katalina,There's still much we don't know about them. To wield their power is—
+English,"scene_tutorial01,021",detail,Pommern,Don't change the subject!
+English,"scene_tutorial01,021",detail,Pommern,I do say... I've had quite enough of your insipid drivel. It's time to do what we came here for.
+English,"scene_tutorial01,021",detail,Pommern,Bweheheh... Who will weep for this pathetic backwater burg? No one! We shall destroy it!
+English,"scene_tutorial01,021",detail,Vyrn,Excuse me?
+English,"scene_tutorial01,021",detail,Pommern,"I'll rid this place of anyone who opposes us! For I do say, the power to control the primals belongs to the Empire!"
+English,"scene_tutorial01,021",detail,Pommern,Release the Hydra!
+English,"scene_tutorial01,021",detail,Imperial Soldier,Sir!
+English,"scene_tutorial01,021",detail,Katalina,The Hydra? It can't be!
+English,"scene_tutorial01,021",detail,Pommern,"It can, Lieutenant! And all so that you may take <span class='scene-font-italic'>proper</span> responsibility for your actions!"
+English,"scene_tutorial01,021",detail,Imperial Soldier,Use the Hydra! Spread out in formation to keep them from running!
+English,"scene_tutorial01,021",detail,Hydra,Groooar!
+English,"scene_tutorial01,021",detail,Vyrn,Where'd this crazy monster come from! Did that beard-twirlin' doofus bring it with him?
+English,"scene_tutorial01,021",detail,Lyria,Katalina!
+English,"scene_tutorial01,021",detail,Katalina,"You really intend to burn this island to the ground, don't you?"
+English,"scene_tutorial01,021",detail,Katalina,Is that how far the Empire's willing to go to use Lyria's power as their own?
+English,"scene_tutorial01,021",detail,Pommern,"I believe we've explained this before, Lieutenant. With her power as a foundation, the Empire will rule the skies."
+English,"scene_tutorial01,021",detail,Pommern,We came to this island to research its primal shrine...
+English,"scene_tutorial01,021",detail,Pommern,But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>
+English,"scene_tutorial01,021",detail,Lyria,"Katalina, I'm sorry... This is all because I asked you to take me outside..."
+English,"scene_tutorial01,021",detail,Katalina,"Lyria, I promised to show you the outside world. And no matter what happens, I'll stand by that promise."
+English,"scene_tutorial01,021",detail,Hydra,Grrr!
+English,"scene_tutorial01,021",detail,<span class='nickname'></span>,...!
+English,"scene_tutorial01,021",detail,Vyrn,Hold on... You're not actually thinking about tangling with that thing!
+English,"scene_tutorial01,021",sel1_txt,,We have to save them!
+English,"scene_tutorial01,021",sel2_txt,,It's now or never!
+English,"scene_tutorial01,021",detail,Pommern,I do say! It seems none of you are willing to accept reality!
+English,"scene_tutorial01,021",detail,Pommern,Hydra! Dispose of this miserable little moppet!
+English,"scene_tutorial01,021",detail,Pommern,May the tot serve as a fitting example of what happens when you defy the Empire!
+English,"scene_tutorial01,021",detail,Hydra,Groooar!
+English,"scene_tutorial01,021",detail,<span class='nickname'></span>,...!
+English,"scene_tutorial01,021",detail,<span class='nickname'></span>,...
+English,"scene_tutorial01,021",detail,Vyrn,"Whoa! <span class='nickname'></span>!<br>H-hang in there, buddy!"
+English,"scene_tutorial01,021",detail,Pommern,Bweheheh! How utterly pitiful!
+English,"scene_tutorial01,021",detail,Katalina,"An innocent civilian, and a child at that... Pommern! Just how far have you fallen!"
+English,"scene_tutorial01,021",detail,Vyrn,"Hey, <span class='nickname'></span>! Stop kidding around! Say something! Anything!"
+English,"scene_tutorial01,021",detail,Lyria,Everything's... all right...
+English,"scene_tutorial01,021",detail,Pommern,I do say! What is this light?
+English,"scene_tutorial01,021",detail,Vyrn,Look... The shrine's primal crystal is reacting... What is she doing?
+English,"scene_tutorial01,021",detail,Pommern,Oh ho... We heard the shrine here was special...
+English,"scene_tutorial01,021",detail,Pommern,B-but what in the skies is this?
+English,"scene_tutorial01,021",detail,Lyria,Don't worry now...
+English,"scene_tutorial01,021",detail,Lyria,<span class='nickname'></span>... I bestow my power on you!
+English,"scene_tutorial02,031",synopsis,,Lyria reveals how she pried [Djeeta] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [Djeeta] and Lyria's souls are now permanently intertwined.
+English,"scene_tutorial02,031",detail,Lyria,Primeval dragon...
+English,"scene_tutorial02,031",detail,Lyria,Child of flames and darkness...
+English,"scene_tutorial02,031",detail,Lyria,Thy name is...
+English,"scene_tutorial02,031",detail,Lyria,Bahamut!
+English,"scene_tutorial02,031",detail,Bahamut,Roooar!
+English,"scene_tutorial02,031",detail,Hydra,Gwaarrgh...
+English,"scene_tutorial02,031",detail,Pommern,What? It can't be! How could my beloved Hydra be annihilated with a single attack!
+English,"scene_tutorial02,031",detail,Pommern,"No! No, no, no! It can't be! I refuse to believe it!"
+English,"scene_tutorial02,031",detail,WaWa,...
+English,"scene_tutorial02,031",detail,Vyrn,"Hey! Now's our chance! Let's get outta here, [Djeeta]!"
+English,"scene_tutorial02,031",detail,Katalina,"This way, [Djeeta]! We have to get those wounds treated immediately!"
+English,"scene_tutorial02,031",detail,,"Thanks to Lyria's mysterious powers, [Djeeta] was able to summon a primal beast and defeat the Hydra."
+English,"scene_tutorial02,031",detail,,"The group takes advantage of the confusion to slip away. With Katalina acting as a guide, they escape the forest."
+English,"scene_tutorial02,031",detail,Vyrn,Huff... Huff... I think we managed to lose the beard-twirlin' doofus...
+English,"scene_tutorial02,031",detail,Vyrn,That primal beast... You said its name is Bahamut? You managed to awaken a primal?
+English,"scene_tutorial02,031",detail,Vyrn,I thought the Astrals were the only ones who could control them.
+English,"scene_tutorial02,031",detail,Vyrn,"Besides, weren't the primals all wiped out hundreds of years ago during the War?"
+English,"scene_tutorial02,031",detail,Katalina,Lyria's power makes it possible. She's the only one who can control them... besides the Astrals.
+English,"scene_tutorial02,031",detail,Lyria,...
+English,"scene_tutorial02,031",detail,Katalina,And it would appear that's not all she can do...
+English,"scene_tutorial02,031",detail,,The deep flesh wounds from the Hydra's claws have vanished from [Djeeta].
+English,"scene_tutorial02,031",detail,Katalina,Are you okay? Any pain or discomfort?
+English,"scene_tutorial02,031",sel1_txt,,I seem to be fine.
+English,"scene_tutorial02,031",sel2_txt,,Nothing feels strange.
+English,"scene_tutorial02,031",detail,Lyria,Katalina... [Djeeta] risked life and limb to save me...
+English,"scene_tutorial02,031",detail,Lyria,"But as a result, [Djeeta] suffered horribly. Seeing [Djeeta]'s vital flame begin to flicker and weaken, I decided to link our beings..."
+English,"scene_tutorial02,031",detail,Lyria,To repay [Djeeta] in kind!
+English,"scene_tutorial02,031",detail,Katalina,What!
+English,"scene_tutorial02,031",detail,Lyria,That's right. From now on our souls are permanently intertwined...
+English,"scene_tutorial02,031",detail,Lyria,[Djeeta] and I now share the same life force.
+English,"scene_tutorial02,031",detail,Lyria,I hope you're not mad... It was my only choice.
+English,"scene_tutorial02,031",sel1_txt,,Thanks for saving me!
+English,"scene_tutorial02,031",detail,Lyria,...
+English,"scene_tutorial02,031",detail,Lyria,"By the way, I didn't summon that primal just by myself."
+English,"scene_tutorial02,031",detail,Lyria,"Bahamut seems to have appeared to protect you, [Djeeta]... To lend you strength."
+English,"scene_tutorial02,031",detail,Vyrn,No way... That's incredible! I always knew [Djeeta] was something special!
+English,"scene_tutorial02,031",detail,Imperial Soldier,"Hey, I've found them! They're over here!"
+English,"scene_tutorial02,031",detail,Vyrn,"Rats... Didn't take long for his cronies to show up. Are you good to go, [Djeeta]?"
+English,"scene_tutorial02,031",detail,Katalina,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.
+English,"scene_tutorial02,031",detail,Vyrn,"Are you sure? I mean, aren't you working for them?"
+English,"scene_tutorial02,031",detail,Katalina,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape."
+English,"scene_tutorial02,031",detail,Katalina,I'll save the rest for later.<br>Now get ready! They're here!
+English,"scene_tutorial03,041",synopsis,,"Concluding that they'll be captured if they linger any longer, [Djeeta] and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, [Djeeta] begins a journey to the end of the sky."
+English,"scene_tutorial03,041",detail,Katalina,"Ngh... If we stay here, it's only a matter of time before they back us into a corner."
+English,"scene_tutorial03,041",detail,Katalina,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!
+English,"scene_tutorial03,041",detail,Vyrn,"Looks like your dream of skyfaring's coming true faster than we thought, [Djeeta]! Better brace yourself!"
+English,"scene_tutorial03,041",sel1_txt,,I'm ready for anything!
+English,"scene_tutorial03,041",sel2_txt,,"Shouldn't you brace yourself, Vyrn?"
+English,"scene_tutorial03,041",detail,Vyrn,Ha ha! You sure know how to roll with the punches. Just like your dad!
+English,"scene_tutorial03,041",detail,Vyrn,Ha ha! Who do you think you're talkin' to?
+English,"scene_tutorial03,041",detail,Vyrn,"If anyone here was born to fly, it's me!"
+English,"scene_tutorial03,041",detail,Lyria,"Hey, Katalina. Vyrn and [Djeeta] seem like best friends, don't you think?"
+English,"scene_tutorial03,041",detail,Katalina,They do indeed.
+English,"scene_tutorial03,041",detail,Katalina,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently."
+English,"scene_tutorial03,041",detail,Lyria,"You've always liked cute little animals, right, Katalina?"
+English,"scene_tutorial03,041",detail,Katalina,Yes... But this is no time to daydream!
+English,"scene_tutorial03,041",detail,Katalina,Let's go. The ship's this way!
+English,"scene_tutorial03,041",sel1_txt,,Got it!
+English,"scene_tutorial03,041",detail,Vyrn,"Our time to shine's arrived at last, [Djeeta]!"
+English,"scene_tutorial03,041",detail,Lyria,"I guess it's a new beginning for us both then, [Djeeta]!"
+English,"scene_tutorial03,041",detail,,The gang boards a small imperial airship and sets sail from [Djeeta]'s secluded island home.
+English,"scene_tutorial03,041",detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope."
+English,"scene_tutorial03,041",detail,Vyrn,The sky! We're flying through the sky!
+English,"scene_tutorial03,041",detail,Vyrn,"Hey, Katalina! Where are we headed in this thing?"
+English,"scene_tutorial03,041",detail,Katalina,"Good question... You're headed for the end of the sky, right, [Djeeta]?"
+English,"scene_tutorial03,041",detail,Katalina,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy."
+English,"scene_tutorial03,041",detail,Vyrn,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, [Djeeta]?"
+English,"scene_tutorial03,041",detail,Katalina,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms."
+English,"scene_tutorial03,041",detail,Katalina,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.
+English,"scene_tutorial03,041",detail,Lyria,But the sky's so vast... Are they really going to come after us?
+English,"scene_tutorial03,041",detail,Katalina,I'm certain they will... But you needn't worry. The sky is boundless!
+English,"scene_tutorial03,041",detail,Katalina,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us."
+English,"scene_tutorial03,041",detail,Vyrn,Sounds like we're in for the long haul!
+English,"scene_tutorial03,041",detail,Katalina,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited."
+English,"scene_tutorial03,041",detail,Katalina,First things first. We need to get our supplies in order.
+English,"scene_tutorial03,041",detail,Katalina,"If we head to a large town, there should be a general store that caters to airship crews."
+English,"scene_tutorial03,041",detail,Katalina,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.
+English,"scene_tutorial03,041",detail,Lyria,I can't believe it... I'm on a journey to a new world!
+English,"scene_tutorial03,041",detail,Lyria,"With Katalina, Vyrn, [Djeeta], and maybe even more people we'll meet along the way."
+English,"scene_tutorial03,041",detail,Vyrn,We'll probably make plenty of new friends! I can't wait to see who we run into!
+English,"scene_tutorial03,041",detail,Vyrn,"So let's get this adventure to the end of the sky started, [Djeeta]!"
+English,"scene_tutorial03,041",detail,,"[Djeeta]'s soul now one with Lyria's, the time has come to bid farewell to home."
+English,"scene_tutorial03,041",detail,,"As though sent by [Djeeta]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair."
 Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[ジータ]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。
 Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>
 Japanese,"scene_cp3_q1_s10,311",detail,フュリアス,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>
@@ -1996,6 +2370,159 @@ Japanese,"scene_cp3_q4_s30,343",detail,ルリア,私は大丈夫。<br>だって
 Japanese,"scene_cp3_q4_s30,343",detail,ルリア,行きましょう、ラカムさん。<br>風の大星晶獣……<br>ティアマトを止めるために……！！
 Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>ルリアの決意に、</span><br><span class='scene-font-katari'>一筋の希望の光が差し込む。</span>
 Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>その輝きを頼りに、</span><br><span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>ティアマトの元へと向かう。</span>
+
+English,"scene_cp3_q1_s10,311",synopsis,,"Major General Furias is angry that Sturm and Drang failed to stop [Djeeta] and the others, but his plan is still unfolding."
+English,"scene_cp3_q1_s10,311",detail,,"On an Erste Empire warship, a major general barks at two lackeys who've just returned."
+English,"scene_cp3_q1_s10,311",detail,Furias,How'd this happen? Why and how and why!
+English,"scene_cp3_q1_s10,311",detail,Sturm,"My apologies, sir. We have no excuse."
+English,"scene_cp3_q1_s10,311",detail,Drang,Sorry! They were way stronger than we thought they'd be!
+English,"scene_cp3_q1_s10,311",detail,Furias,Someone execute these fools! Immediately!
+English,"scene_cp3_q1_s10,311",detail,Imperial Soldier,"Sir, these two are under the command of the Black Knight..."
+English,"scene_cp3_q1_s10,311",detail,Imperial Soldier,We can't punish them even if you order us.
+English,"scene_cp3_q1_s10,311",detail,Furias,Then I'll punish you instead. One clean cut should do the trick!
+English,"scene_cp3_q1_s10,311",detail,Imperial Soldier,"But, sir..."
+English,"scene_cp3_q1_s10,311",detail,Furias,"Regardless, you two still managed to buy me some time, and my plan's moving right along. Just look at this storm!"
+English,"scene_cp3_q1_s10,311",detail,Furias,Soon this island—No! The entire archipelago will be plunged into the darkest depths of the sky...
+English,"scene_cp3_q1_s20,312",synopsis,,"Due to a heavy storm, [Djeeta] and the others must use an escape airship to evacuate the townspeople. But Rackam is the only helmsman around."
+English,"scene_cp3_q1_s20,312",detail,,"[Djeeta] and the others finally reach the town, which is weathering strong winds and rain."
+English,"scene_cp3_q1_s20,312",detail,Rackam,What's going on with this rain? I've never seen a storm like this before!
+English,"scene_cp3_q1_s20,312",detail,Sierokarte,How strange... It was clear just a moment ago.
+English,"scene_cp3_q1_s20,312",detail,Katalina,We can't fight back the empire in this kind of weather.
+English,"scene_cp3_q1_s20,312",detail,Vyrn,Even they must be helpless in a storm like this! We've gotta get away from here!
+English,"scene_cp3_q1_s20,312",detail,Sierokarte,"You're right! And we have an escape airship, so let's head to a nearby island."
+English,"scene_cp3_q1_s20,312",detail,Townsperson 1,Who's gonna pilot that thing?
+English,"scene_cp3_q1_s20,312",detail,Townsperson 2,"Who? Well, don't look at me! Not in a storm like this anyway..."
+English,"scene_cp3_q1_s20,312",detail,Lyria,I almost forgot... All the helmsmen are out on business.
+English,"scene_cp3_q1_s20,312",detail,Sierokarte,"Indeed, indeed... And we wouldn't want any average helmsman for a storm this intense."
+English,"scene_cp3_q1_s20,312",detail,Sierokarte,Only the best of the best would have a chance...
+English,"scene_cp3_q1_s20,312",detail,Townsperson 1,...
+English,"scene_cp3_q1_s20,312",detail,Lyria,...
+English,"scene_cp3_q1_s20,312",detail,Rackam,Why are you all looking at me?
+English,"scene_cp3_q1_s20,312",detail,Townsperson 3,We're in trouble! Monsters confused by the storm are nearing the town!
+English,"scene_cp3_q1_s20,312",detail,Rackam,Let's handle this first. You can lecture me about piloting later!
+English,"scene_cp3_q1_s20,312",detail,Rackam,"[Djeeta], let's take out these monsters!"
+English,"scene_cp3_q2_s10,321",synopsis,,"Rackam refuses to pilot the escape airship. But when the townsfolk show their faith in him, he decides to take the helm once again."
+English,"scene_cp3_q2_s10,321",detail,Rackam,"Look, I know I agreed to fight the empire with you guys..."
+English,"scene_cp3_q2_s10,321",detail,Rackam,But piloting airships is a whole other matter!
+English,"scene_cp3_q2_s10,321",detail,Katalina,There's no one else we can count on though.
+English,"scene_cp3_q2_s10,321",detail,Sierokarte,She's right! And this could be your shot at redemption!
+English,"scene_cp3_q2_s10,321",detail,Rackam,I'm telling you... The skies don't have a use for me anymore.
+English,"scene_cp3_q2_s10,321",detail,Rackam,That's why I crashed the Grandcypher. Aren't you scared at all?
+English,"scene_cp3_q2_s10,321",detail,Lyria,Scared?
+English,"scene_cp3_q2_s10,321",detail,Rackam,I might crash again. Hasn't that crossed your minds?
+English,"scene_cp3_q2_s10,321",detail,Rackam,It was a miracle that I survived after crashing the Grandcypher. Got beat up pretty badly...
+English,"scene_cp3_q2_s10,321",detail,Rackam,"But I might not be so lucky this time, and you'll all be on board with me."
+English,"scene_cp3_q2_s10,321",detail,Rackam,Are you still going to tell me you're not scared?
+English,"scene_cp3_q2_s10,321",detail,Rackam,Ouch!
+English,"scene_cp3_q2_s10,321",detail,Townsperson,How stupid can you be! Keep whining and I'll hit you again!
+English,"scene_cp3_q2_s10,321",detail,Lyria,"Take a good look at the faces all around you, Rackam."
+English,"scene_cp3_q2_s10,321",detail,Lyria,"No one looks worried, do they?"
+English,"scene_cp3_q2_s10,321",detail,Rackam,You guys...
+English,"scene_cp3_q2_s10,321",sel1_txt,,Let's get to that airship!
+English,"scene_cp3_q2_s10,321",sel2_txt,,Are you still worried?
+English,"scene_cp3_q2_s10,321",detail,Rackam,You're right. Everyone's already prepared for the worst. I can't chicken out here!
+English,"scene_cp3_q2_s10,321",detail,Rackam,"Not anymore. Thanks, [Djeeta]."
+English,"scene_cp3_q2_s10,321",detail,Rackam,"Besides, I've gotta live up to your expectations! The best of the best!"
+English,"scene_cp3_q2_s10,321",detail,Vyrn,"All right! If that's settled, then let's make our escape!"
+English,"scene_cp3_q2_s20,322",synopsis,,Rackam leads everyone to the escape airship while growing wary of the sudden storm.
+English,"scene_cp3_q2_s20,322",detail,Rackam,This is one weird storm...
+English,"scene_cp3_q2_s20,322",detail,Katalina,"Something about the storm strikes you as strange, Rackam?"
+English,"scene_cp3_q2_s20,322",detail,Rackam,For Port Breeze to have a storm is rare in and of itself.
+English,"scene_cp3_q2_s20,322",detail,Vyrn,That reminds me! Is there a guardian or something on this island?
+English,"scene_cp3_q2_s20,322",detail,Rackam,"There is, indeed. All winds that blow on this island are the breath of Tiamat, a guardian deity of sorts."
+English,"scene_cp3_q2_s20,322",detail,Katalina,It sounds like a primal beast. Maybe Tiamat has something to do with the storm.
+English,"scene_cp3_q2_s20,322",detail,Rackam,Tiamat's legend has been around for centuries. Tough to say if there's any truth to it though.
+English,"scene_cp3_q2_s20,322",detail,Lyria,"Tiamat's here on the island. I'm sure of it. You can sense it too, right, [Djeeta]?"
+English,"scene_cp3_q2_s20,322",detail,Rackam,"What's gotten into you all of a sudden, little miss?"
+English,"scene_cp3_q2_s20,322",detail,Lyria,I can hear it... I can feel it. The power of the stars courses through the wind...
+English,"scene_cp3_q3_s10,331",synopsis,,Everyone reaches the escape airship only to find imperial soldiers waiting for them.
+English,"scene_cp3_q3_s10,331",detail,,"The storm grows in strength, but everyone finally reaches the valley where the escape airship is located."
+English,"scene_cp3_q3_s10,331",detail,Vyrn,Looks like we found it!
+English,"scene_cp3_q3_s10,331",detail,Lyria,And it's big enough for all of us to board!
+English,"scene_cp3_q3_s10,331",detail,Katalina,"All right, Rackam. To the helm!"
+English,"scene_cp3_q3_s10,331",detail,Rackam,R-right...
+English,"scene_cp3_q3_s10,331",detail,Vyrn,"Huh? Why aren't you getting on board? We can't do anything without you, Rackam!"
+English,"scene_cp3_q3_s10,331",detail,Rackam,"Sure, I get that. But..."
+English,"scene_cp3_q3_s10,331",detail,Rackam,I knew it. I can't—
+English,"scene_cp3_q3_s10,331",detail,Furias,"Just hurry up and board already! I don't have all day, you know!"
+English,"scene_cp3_q3_s10,331",detail,Rackam,Didn't I shoot you earlier? How are you back on your feet?
+English,"scene_cp3_q3_s10,331",detail,Furias,Isn't it obvious? Pathetic scum like you could never hurt a noble soul like me.
+English,"scene_cp3_q3_s10,331",detail,Lyria,"I'm sensing something weird about him, Katalina. He's scaring me..."
+English,"scene_cp3_q3_s10,331",detail,Katalina,"It's fine, Lyria. You needn't worry."
+English,"scene_cp3_q3_s10,331",detail,Townsperson,Eep! Soldiers!
+English,"scene_cp3_q3_s10,331",detail,Vyrn,"We have to protect the townsfolk! Let's chase these imperial creeps outta here, [Djeeta]!"
+English,"scene_cp3_q3_s20,332",synopsis,,"[Djeeta] and the others protect the townsfolk, but General Furias blows up the escape airship before anyone can board it."
+English,"scene_cp3_q3_s20,332",detail,Katalina,"We've been able to keep them at bay, but they just keep coming..."
+English,"scene_cp3_q3_s20,332",detail,Furias,How wonderful! Exhausted yet? Finally had enough?
+English,"scene_cp3_q3_s20,332",detail,Furias,Here's the thing... We haven't even gotten to the main course yet!
+English,"scene_cp3_q3_s20,332",detail,Townsperson,There's no time for this! Hurry to the airship!
+English,"scene_cp3_q3_s20,332",detail,Lyria,Watch out!
+English,"scene_cp3_q3_s20,332",detail,Katalina,I can't believe it! The airship just exploded!
+English,"scene_cp3_q3_s20,332",detail,Lyria,Are you all right?
+English,"scene_cp3_q3_s20,332",detail,Townsperson,Nghh... What in the skies...
+English,"scene_cp3_q3_s20,332",detail,Furias,Ha-ha-ha! Wonderful! I just love the expressions of utter disbelief on your faces!
+English,"scene_cp3_q3_s20,332",detail,Furias,That's right! I blew it up! That precious airship of yours is nothing but flotsam now! Ha-ha-ha!
+English,"scene_cp3_q3_s20,332",detail,Rackam,You brat! Why'd you do that?
+English,"scene_cp3_q3_s20,332",detail,Furias,"You want to know? Burning with curiosity, are you? Then I'll tell you... if you survive!"
+English,"scene_cp3_q3_s20,332",detail,Furias,So go ahead. Give it your best shot!
+English,"scene_cp3_q3_s20,332",detail,Katalina,"You fiend!<br>Listen, [Djeeta], don't try and stop me!"
+English,"scene_cp3_q3_s20,332",detail,Katalina,I'll defeat his flunkies myself!
+English,"scene_cp3_q4_s10,341",synopsis,,Major General Furias admits to sending Tiamat into a rampage that is brewing a storm to sink the islands. Katalina decides to get everyone back to town.
+English,"scene_cp3_q4_s10,341",detail,Furias,Not bad! Hm... I guess you idiots might have some redeeming qualities after all!
+English,"scene_cp3_q4_s10,341",detail,Rackam,"Shut it! You're next, pal!"
+English,"scene_cp3_q4_s10,341",detail,Rackam,"With you out of the way, we'll get the townsfolk to safety before this storm gets worse!"
+English,"scene_cp3_q4_s10,341",detail,Furias,Ha-ha-ha! You haven't given up on that yet?
+English,"scene_cp3_q4_s10,341",detail,Furias,It doesn't matter where you run! This entire archipelago is about to sink into oblivion!
+English,"scene_cp3_q4_s10,341",detail,Katalina,What are you talking about?
+English,"scene_cp3_q4_s10,341",detail,Furias,Don't you get it? You must have an inkling... I'm talking about Tiamat! The guardian of this island!
+English,"scene_cp3_q4_s10,341",detail,Furias,Let's just say... our handiwork has sent her into a massive rampage!
+English,"scene_cp3_q4_s10,341",detail,Vyrn,You did <span class='scene-font-italic'>what</span>? Are you for real?
+English,"scene_cp3_q4_s10,341",detail,Furias,Look for yourselves at this incredible storm! It'll only get stronger... until it blows the whole archipelago away!
+English,"scene_cp3_q4_s10,341",detail,Rackam,It's not just the town... You're trying to destroy the islands themselves?
+English,"scene_cp3_q4_s10,341",detail,Rackam,Do you have any idea how many innocent lives will be lost?
+English,"scene_cp3_q4_s10,341",detail,Furias,Who knows? But if you idiots love these islands enough to resist the empire...
+English,"scene_cp3_q4_s10,341",detail,Furias,Then I imagine you'll be happy plunging to the bottom of the skies with it!
+English,"scene_cp3_q4_s10,341",detail,Townsperson 1,How can this be?
+English,"scene_cp3_q4_s10,341",detail,Townsperson 2,I can't believe it! Are we doomed?
+English,"scene_cp3_q4_s10,341",detail,Furias,"Indeed, you are! I've already given orders to shoot down any airships attempting to flee!"
+English,"scene_cp3_q4_s10,341",detail,Furias,"You finally get it now, right? <span class='scene-font-italic'>Right</span>? There's nowhere for you to run!"
+English,"scene_cp3_q4_s10,341",detail,Rackam,You make me sick! There are <span class='scene-font-italic'>people</span> living here!
+English,"scene_cp3_q4_s10,341",detail,Katalina,"[Djeeta], we can't stay any longer! Let's get the people back to town for now!"
+English,"scene_cp3_q4_s10,341",detail,Katalina,We'll take care of these monsters and soldiers on the way. Let's go!
+English,"scene_cp3_q4_s20,342",synopsis,,"The imperials have given up the chase, but [Djeeta] and the others won't give up hope for the islands."
+English,"scene_cp3_q4_s20,342",detail,Lyria,I think the imperials have stopped chasing us.
+English,"scene_cp3_q4_s20,342",detail,Vyrn,"Looks that way. But with their plan, they've got us beat, so..."
+English,"scene_cp3_q4_s20,342",detail,Katalina,"That's enough, Vyrn. It's far too soon for us to give up."
+English,"scene_cp3_q4_s20,342",detail,Katalina,There must be something we can do. I'm sure of it...
+English,"scene_cp3_q4_s20,342",detail,Lyria,Tiamat...<br>The guardian of Port Breeze and the primal beast of wind...
+English,"scene_cp3_q4_s20,342",detail,Vyrn,I guess now's not the time to fret. We have to keep going!
+English,"scene_cp3_q4_s30,343",synopsis,,"Lyria believes she may be able to control the primal beast Tiamat, which gives everyone a final ray of hope."
+English,"scene_cp3_q4_s30,343",detail,Katalina,Whew... Everyone's made it back to town.
+English,"scene_cp3_q4_s30,343",detail,Katalina,But we're not in the clear yet...
+English,"scene_cp3_q4_s30,343",detail,Rackam,It's all my fault. If I hadn't hesitated when we were boarding...
+English,"scene_cp3_q4_s30,343",detail,Rackam,We'd be on our way to safety in another archipelago by now.
+English,"scene_cp3_q4_s30,343",detail,Vyrn,"Cut it out, Rackam! Saying that stuff now won't help anyone."
+English,"scene_cp3_q4_s30,343",detail,Rackam,Everyone trusted me with their lives... and I let them down.
+English,"scene_cp3_q4_s30,343",detail,Rackam,Dang it! Is this really the end? Is there nothing else we can do?
+English,"scene_cp3_q4_s30,343",detail,Katalina,What hope do we have against a primal beast as powerful as a god?
+English,"scene_cp3_q4_s30,343",detail,Lyria,There's still hope. There's something we can do.
+English,"scene_cp3_q4_s30,343",detail,Katalina,Lyria?
+English,"scene_cp3_q4_s30,343",detail,Lyria,"I mean, I'm here after all... Right, Katalina?"
+English,"scene_cp3_q4_s30,343",detail,Katalina,That's right! But there's no telling what might happen...
+English,"scene_cp3_q4_s30,343",detail,Rackam,What are you talking about?
+English,"scene_cp3_q4_s30,343",detail,Lyria,There's a reason I was a prisoner of the empire.
+English,"scene_cp3_q4_s30,343",detail,Lyria,I have the power to command primal beasts.
+English,"scene_cp3_q4_s30,343",detail,Vyrn,"Wait a sec! I thought primal beasts could only be controlled by their creators, the Astrals!"
+English,"scene_cp3_q4_s30,343",detail,Rackam,"Yeah. And the Astrals disappeared after the War centuries ago, leaving no descendants."
+English,"scene_cp3_q4_s30,343",detail,Katalina,Lyria's not one of their descendants. Or at least... I don't think she is.
+English,"scene_cp3_q4_s30,343",detail,Katalina,"How and why her power works, I can't say. But she has power. That much is certain."
+English,"scene_cp3_q4_s30,343",detail,Vyrn,"Whoa! [Djeeta], could she be why that primal beast showed up back on Zinkenstill?"
+English,"scene_cp3_q4_s30,343",detail,Katalina,Entirely possible... But many mysteries remain. The empire couldn't reach any conclusions about it either.
+English,"scene_cp3_q4_s30,343",detail,Katalina,And there's no telling what might happen if Lyria were to overuse it...
+English,"scene_cp3_q4_s30,343",detail,Lyria,I'll be fine. [Djeeta] is with me... and so are all of you.
+English,"scene_cp3_q4_s30,343",detail,Lyria,"Let's go, Rackam. We've got to stop Tiamat, the primal beast of wind!"
+English,"scene_cp3_q4_s30,343",detail,,Lyria's determination is like a shining ray of hope.
+English,"scene_cp3_q4_s30,343",detail,,"Inspired by that hope, they set out to find Tiamat."
 Japanese,"scene_cp2_q1_s10,211",synopsis,,ラカムに助けられ地下教会へと身をひそめる<span>[ジータ]</span>一行は、彼に仲間になってくれるよう掛け合うが断られてしまう。<span>[ジータ]</span>一行とラカムは帝国が攻めてくることを伝えるため、街へと急ぐ。
 Japanese,"scene_cp2_q1_s10,211",detail,,<span class='scene-font-katari'>一同はついに</span><br><span class='scene-font-katari'>凄腕の操舵士と謳われる男、</span><br><span class='scene-font-katari'>ラカムを見つける。</span>
 Japanese,"scene_cp2_q1_s10,211",detail,,<span class='scene-font-katari'>しかし、彼は</span><br><span class='scene-font-katari'>[ジータ]の誘いにただ一言、</span><br><span class='scene-font-katari'>空は捨てた、と答えるのだった。</span>
@@ -2162,6 +2689,173 @@ Japanese,"scene_cp2_q4_s30,243",detail,ラカム,ああ！<br>帝国なんぞに
 Japanese,"scene_cp2_q4_s30,243",detail,ラカム,こうと決めた以上、<br>帝国の奴ら、返り討ちにしてやるぜ！！
 Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>[ジータ]の意志に呼応した</span><br><span class='scene-font-katari'>ラカムを仲間に迎え</span><br><span class='scene-font-katari'>[ジータ]は帝国との戦いに備える。</span>
 Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>しかし、</span><span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>の巨大な思惑は、</span><br><span class='scene-font-place'>ポート・ブリーズ群島</span><span class='scene-font-katari'>全体をも</span><br><span class='scene-font-katari'>飲みこもうとしていた。</span>
+
+English,"scene_cp2_q1_s10,211",synopsis,,"Rackam explains that the sky betrayed him when he crashed the Grandcypher airship on the highlands, vowing never to fly again."
+English,"scene_cp2_q1_s10,211",detail,,"The party has finally tracked down Rackam, the peerless helmsman."
+English,"scene_cp2_q1_s10,211",detail,,But Rackam explains that he's no longer interested in returning to the skies.
+English,"scene_cp2_q1_s10,211",detail,Rackam,So that's that. My flying days are over.
+English,"scene_cp2_q1_s10,211",detail,Katalina,But... why's that?
+English,"scene_cp2_q1_s10,211",detail,Katalina,"According to the townsfolk, you've been interested in airships and flying ever since you were a child."
+English,"scene_cp2_q1_s10,211",detail,Vyrn,"Yeah! You even said it yourself! You heard him, right, [Djeeta]?"
+English,"scene_cp2_q1_s10,211",detail,Vyrn,"I mean, you must've trained like crazy to be a helmsman. Why would you throw all that away?"
+English,"scene_cp2_q1_s10,211",detail,Rackam,"Good grief! One at a time, guys. One at a time..."
+English,"scene_cp2_q1_s10,211",detail,Rackam,Listen here. The sky's done with me so I'm done with the sky. That's all there is to it.
+English,"scene_cp2_q1_s10,211",detail,Katalina,The sky's done with you?
+English,"scene_cp2_q1_s10,211",detail,Rackam,"You guys saw it, right? The crashed airship back there."
+English,"scene_cp2_q1_s10,211",detail,Rackam,It's been there for ages. A wreck without an owner.
+English,"scene_cp2_q1_s10,211",detail,Rackam,"I crawled over every inch of that thing when I was a tyke, fixing it up. Swore I'd get it flying again..."
+English,"scene_cp2_q1_s10,211",detail,Vyrn,Wait. You fixed it? But it looked like a wreck!
+English,"scene_cp2_q1_s10,211",detail,Rackam,You're not wrong. It lifted me up and threw me back down to the ground just as quickly.
+English,"scene_cp2_q1_s10,211",detail,Lyria,You crashed... Is that why you gave up on flying?
+English,"scene_cp2_q1_s10,211",detail,Rackam,Yeah... Felt like I was betrayed.
+English,"scene_cp2_q1_s10,211",detail,Rackam,I had an expert technician handle repairs and worked like mad to get my piloting skills up to speed. I just knew I was ready...
+English,"scene_cp2_q1_s10,211",detail,Rackam,But the Grandcypher came crashing down... along with all my hopes and dreams.
+English,"scene_cp2_q1_s10,211",detail,Vyrn,"That just sounds like you had bad weather or something... Right, [Djeeta]?"
+English,"scene_cp2_q1_s10,211",sel1_txt,,Yeah! Bad weather!
+English,"scene_cp2_q1_s10,211",sel2_txt,,Or lack of training?
+English,"scene_cp2_q1_s10,211",detail,Rackam,They don't call it Port Breeze for nothing. The weather here's great all year round thanks to the island's guardian.
+English,"scene_cp2_q1_s10,211",detail,Rackam,No way a gust is going to make an airship come crashing down 'round these parts.
+English,"scene_cp2_q1_s10,211",detail,Rackam,Ha-ha! Didn't they tell ya? I was a real ace of a helmsman!
+English,"scene_cp2_q1_s10,211",detail,Rackam,I had no doubt in my ability... until the sky betrayed me.
+English,"scene_cp2_q1_s10,211",detail,Rackam,"Anyway, the time for talk is over. We gotta go warn the town the empire's coming."
+English,"scene_cp2_q1_s10,211",detail,Rackam,No way they can get away with what they're trying to pull!
+English,"scene_cp2_q1_s20,212",synopsis,,"[Djeeta] and the others draw nearer to the town, but Rackam turns back, refusing to fight the empire."
+English,"scene_cp2_q1_s20,212",detail,Vyrn,Whoa! I can see the town!
+English,"scene_cp2_q1_s20,212",detail,Rackam,Oh yeah? Good then! You guys can take it from here. I'm heading back to my hideout!
+English,"scene_cp2_q1_s20,212",detail,Katalina,Wait just a minute! Aren't you going to help the townspeople fight back against the empire?
+English,"scene_cp2_q1_s20,212",detail,Rackam,"Hey, I'm already helping you find your way back to town to spread the word."
+English,"scene_cp2_q1_s20,212",detail,Rackam,But I'm not sticking my neck out for anything but that airship of mine... the Grandcypher.
+English,"scene_cp2_q1_s20,212",detail,Katalina,So you're saying... a ship's more important to you than the lives of innocent people?
+English,"scene_cp2_q1_s20,212",detail,Rackam,What I'm saying is I only protect what's dear to me. I'm not about to die fighting the empire.
+English,"scene_cp2_q1_s20,212",detail,Rackam,Watch out or those bleeding hearts of yours are gonna leave you bleeding out. Literally!
+English,"scene_cp2_q1_s20,212",detail,Katalina,There are lives at stake! How can you just ignore them when they're right in front of you?
+English,"scene_cp2_q1_s20,212",detail,Lyria,Katalina! Take a deep breath...
+English,"scene_cp2_q1_s20,212",detail,Rackam,Listen... Just try not to do anything you'll regret.
+English,"scene_cp2_q1_s20,212",detail,,"With these parting words, Rackam turns on his heel to leave."
+English,"scene_cp2_q1_s20,212",detail,Katalina,As if I'd ever regret this... I've no more room for regret.
+English,"scene_cp2_q1_s20,212",detail,Vyrn,Let's just hurry up and go! We've still got monsters to take care of on the way into town!
+English,"scene_cp2_q2_s10,221",synopsis,,"On the way to town, [Djeeta] and the others meet a witty Erune man and a terse Draph woman who are working for the empire."
+English,"scene_cp2_q2_s10,221",detail,Katalina,Whew... We're almost to the outskirts of town.
+English,"scene_cp2_q2_s10,221",detail,Lyria,Yep! We've got to hurry and warn the townspeople about the empire!
+English,"scene_cp2_q2_s10,221",detail,???,"Why, hello there! How are you this lovely day, my dear fugitives?"
+English,"scene_cp2_q2_s10,221",detail,???,They look fine. They're not even hurt...
+English,"scene_cp2_q2_s10,221",detail,Vyrn,Who are you? Imperial lackeys?
+English,"scene_cp2_q2_s10,221",detail,???,"Bingo! You, my fine lizard friend, are a genius! How'd you like an apple?"
+English,"scene_cp2_q2_s10,221",detail,Vyrn,"Nghh... Like I'd even want one of those! No way I'd take a sweet, crispy, juicy..."
+English,"scene_cp2_q2_s10,221",detail,Lyria,"Vyrn, you're drooling!"
+English,"scene_cp2_q2_s10,221",detail,???,Ha-ha! We have an apple fan on our hands! Luckily I have a whole bucketfu—
+English,"scene_cp2_q2_s10,221",detail,???,Ow!
+English,"scene_cp2_q2_s10,221",detail,???,"Enough with it, Drang. Waste any more time and I'll slice you up."
+English,"scene_cp2_q2_s10,221",detail,Drang,"Okay, okay, Sturm! I get it! Now stop poking me with your—"
+English,"scene_cp2_q2_s10,221",detail,Drang,Ow!
+English,"scene_cp2_q2_s10,221",detail,Katalina,"Look, we're in a hurry. If that's all you came to say, then can we be on our way now?"
+English,"scene_cp2_q2_s10,221",detail,Sturm,Absolutely not. Drang!
+English,"scene_cp2_q2_s10,221",detail,Drang,"Sure thing. So, my dear fugitives, I have a favor to ask of you..."
+English,"scene_cp2_q2_s10,221",detail,Lyria,"A favor? If it's something we can do, then sure. I guess..."
+English,"scene_cp2_q2_s10,221",detail,Drang,You're quick on the uptake! Accept this sweet treat as your rewa—
+English,"scene_cp2_q2_s10,221",detail,Drang,Ow! I've been stabbed again!
+English,"scene_cp2_q2_s10,221",detail,Sturm,"Humph... You're on your way to warn the town of the empire, aren't you?"
+English,"scene_cp2_q2_s10,221",detail,Katalina,That's correct. So?
+English,"scene_cp2_q2_s10,221",detail,Sturm,We'd rather you didn't. It'll be so much easier without their resistance.
+English,"scene_cp2_q2_s10,221",detail,Katalina,And you think we'll do this favor for you?
+English,"scene_cp2_q2_s10,221",detail,Sturm,Are you saying you <span class='scene-font-italic'>won't</span>?
+English,"scene_cp2_q2_s10,221",detail,Drang,"Now those are some scary faces! Don't you scowl like that, little lady, or your face might freeze!"
+English,"scene_cp2_q2_s10,221",detail,Lyria,Okay. If you say so...
+English,"scene_cp2_q2_s10,221",detail,Drang,Good girl! Perhaps you'd like a marshmall—
+English,"scene_cp2_q2_s10,221",detail,Drang,Ow!
+English,"scene_cp2_q2_s10,221",detail,Sturm,"We're leaving, Drang."
+English,"scene_cp2_q2_s10,221",detail,Drang,"Wait, Sturm! Don't leave me here!"
+English,"scene_cp2_q2_s10,221",detail,Vyrn,What was that about?
+English,"scene_cp2_q2_s10,221",detail,Katalina,"A warning from the empire, I guess. Let's hurry, but be extra careful."
+English,"scene_cp2_q2_s20,222",synopsis,,"As [Djeeta] and the others near the town, the number of monsters increases. Eager to repay the people who helped them earlier, they trudge on."
+English,"scene_cp2_q2_s20,222",detail,Vyrn,"What's the deal! The town's right there, but we're seeing even more monsters."
+English,"scene_cp2_q2_s20,222",detail,Katalina,There are records that say the Grim Basin is responsible for putting monsters in a frenzy...
+English,"scene_cp2_q2_s20,222",detail,Katalina,But not even the empire knows why so many monsters have appeared in recent years.
+English,"scene_cp2_q2_s20,222",detail,Vyrn,"So everything outside of town is pretty much a danger zone, huh?"
+English,"scene_cp2_q2_s20,222",detail,Lyria,But the people of that town helped us back at Siero's shop when we needed it most.
+English,"scene_cp2_q2_s20,222",detail,Katalina,"Indeed. We owe them a lot. And there's no better way to pay them back than by stopping the empire in its tracks, [Djeeta]."
+English,"scene_cp2_q3_s10,231",synopsis,,Sturm and Drang use Rackam as a bartering chip to get [Djeeta] and the others to leave the island. But they refuse to leave him behind.
+English,"scene_cp2_q3_s10,231",detail,Drang,"Why, hello! I see you've been quite bubbly in my absence..."
+English,"scene_cp2_q3_s10,231",detail,Drang,Ow!
+English,"scene_cp2_q3_s10,231",detail,Drang,Sturm! I am stabbed by you yet again! Why?
+English,"scene_cp2_q3_s10,231",detail,Sturm,You said something that annoyed me. As usual.
+English,"scene_cp2_q3_s10,231",detail,Drang,And your only outlet is to make me into a pincushion?
+English,"scene_cp2_q3_s10,231",detail,Vyrn,You guys again!
+English,"scene_cp2_q3_s10,231",detail,Katalina,Ask as much as you like. But we've no intention of doing you any favors.
+English,"scene_cp2_q3_s10,231",detail,Drang,Nope! You've got us all wrong! We're not here for any favors this time.
+English,"scene_cp2_q3_s10,231",detail,Sturm,We're here to make a trade... for this man's life.
+English,"scene_cp2_q3_s10,231",detail,Rackam,Humph...
+English,"scene_cp2_q3_s10,231",detail,Katalina,Rackam! What happened?
+English,"scene_cp2_q3_s10,231",detail,Drang,"He was caught red-handed, trying to sneak into town!"
+English,"scene_cp2_q3_s10,231",detail,Drang,"How foolish! We knew of your spying ears, so naturally we set out our own spying eyes!"
+English,"scene_cp2_q3_s10,231",detail,Rackam,"Oh, shut it already..."
+English,"scene_cp2_q3_s10,231",detail,Drang,"Let's cut to the chase, hm? We'll give you a minnow of an airship and you swim, swim, swim away from this island! Okay?"
+English,"scene_cp2_q3_s10,231",detail,Lyria,[Djeeta]...
+English,"scene_cp2_q3_s10,231",detail,Katalina,"I don't even need to ask what you'll say, do I, [Djeeta]?"
+English,"scene_cp2_q3_s10,231",detail,Vyrn,"Got that right! Simple question, simple answer!"
+English,"scene_cp2_q3_s10,231",detail,Katalina,"Agreed... Sorry, Drang, but we're going to have to send you off!"
+English,"scene_cp2_q3_s10,231",detail,Drang,"Oh, deary me! And yet more foolish lives are lost..."
+English,"scene_cp2_q3_s10,231",detail,Lyria,We'll save both the villagers and Rackam! No one's going to lose their lives to the empire!
+English,"scene_cp2_q3_s10,231",detail,Vyrn,"Let's roll, [Djeeta]! We're gonna send 'em crying to their mommies!"
+English,"scene_cp2_q3_s20,232",synopsis,,Rackam is hauled away and Sturm grabs hold of Lyria. But a piercing shot turns the tables in favor of [Djeeta] and the others.
+English,"scene_cp2_q3_s20,232",detail,Vyrn,"This is bad, guys. I don't see Rackam anywhere!"
+English,"scene_cp2_q3_s20,232",detail,Sturm,He'll be fine. He's been taken away by one of our finest units. More importantly...
+English,"scene_cp2_q3_s20,232",detail,Lyria,Eep!
+English,"scene_cp2_q3_s20,232",detail,Katalina,Lyria!
+English,"scene_cp2_q3_s20,232",detail,Sturm,You let your guard down. So we'll start with this little brat first...
+English,"scene_cp2_q3_s20,232",detail,Rackam,I sure hope those units weren't your finest...
+English,"scene_cp2_q3_s20,232",detail,Vyrn,Rackam! Where'd you come from?
+English,"scene_cp2_q3_s20,232",detail,Rackam,"Ha! I might've played along if they were tough, but I'm not getting carted off by those two-bit grunts!"
+English,"scene_cp2_q3_s20,232",detail,Rackam,"You okay, little miss?"
+English,"scene_cp2_q3_s20,232",detail,Lyria,Yes... Thank you!
+English,"scene_cp2_q3_s20,232",detail,Sturm,Tch... One more fighter on your side hardly matters. You'll never win against the empire!
+English,"scene_cp2_q3_s20,232",detail,Rackam,"Hey, [Djeeta]! You'd better get ready, because it's do or die!"
+English,"scene_cp2_q4_s10,241",synopsis,,Rackam decides to help [Djeeta] and the others stand up against the empire for the sake of the town.
+English,"scene_cp2_q4_s10,241",detail,Vyrn,Rackam! I'm so glad to see you're okay!
+English,"scene_cp2_q4_s10,241",detail,Rackam,"Come on, guys... If you're gonna talk big about saving me and the town, then follow through!"
+English,"scene_cp2_q4_s10,241",detail,Katalina,Yeah... Sorry about that...
+English,"scene_cp2_q4_s10,241",detail,Lyria,"We're just glad you're safe. Right, [Djeeta]?"
+English,"scene_cp2_q4_s10,241",detail,Katalina,"You surprised me. I figured if you escaped that unit, you'd just leave us all behind."
+English,"scene_cp2_q4_s10,241",detail,Rackam,"Gimme a little credit! I mean, although I had a few thoughts about it..."
+English,"scene_cp2_q4_s10,241",detail,Rackam,"I remembered what you said, you know? About ignoring the lives at stake right in front of you..."
+English,"scene_cp2_q4_s10,241",detail,Rackam,I saw you in trouble and my legs just started moving.
+English,"scene_cp2_q4_s10,241",detail,Katalina,"Is that so? Well, one way or another, you saved us. You have our thanks once again."
+English,"scene_cp2_q4_s10,241",detail,Rackam,Would you cut it out? You're makin' me blush! Just save your thanks till this is all over!
+English,"scene_cp2_q4_s10,241",detail,Vyrn,Yeah! We're almost to the town! Let's get to stepping!
+English,"scene_cp2_q4_s20,242",synopsis,,"With Rackam's battle skills, [Djeeta] and the others fight through the swarm of soldiers."
+English,"scene_cp2_q4_s20,242",detail,Rackam,"Well, well, well... Looks like the empire's running out of soldiers!"
+English,"scene_cp2_q4_s20,242",detail,Vyrn,This Rackam guy knows what he's doing!
+English,"scene_cp2_q4_s20,242",detail,Katalina,Indeed. But I won't let him outdo me!
+English,"scene_cp2_q4_s20,242",detail,Lyria,Hee-hee! Everyone's giving it their all!
+English,"scene_cp2_q4_s20,242",detail,Rackam,"There's the town gate, [Djeeta]! Time to break through!"
+English,"scene_cp2_q4_s30,243",synopsis,,[Djeeta] and the others decide to let Sturm and Drang go. Rackam decides to join the fight against the empire.
+English,"scene_cp2_q4_s30,243",detail,Drang,Egads! Heaven help us!
+English,"scene_cp2_q4_s30,243",detail,Sturm,This is it...
+English,"scene_cp2_q4_s30,243",detail,Drang,Hey! We've no intention of fighting! Won't you find it in your heart to forgive us?
+English,"scene_cp2_q4_s30,243",detail,Drang,"The empire just pays us! We're not loyal to them or anything! So c'mon, just—"
+English,"scene_cp2_q4_s30,243",detail,Drang,Ow!
+English,"scene_cp2_q4_s30,243",detail,Sturm,You disgust me. Keep up this act and so help me...
+English,"scene_cp2_q4_s30,243",detail,Drang,"Yikes! No, no, no!<br>Calm down now, Sturm!"
+English,"scene_cp2_q4_s30,243",detail,Rackam,So... what do we do with these goofballs?
+English,"scene_cp2_q4_s30,243",sel1_txt,,Let's let them go.
+English,"scene_cp2_q4_s30,243",sel2_txt,,Can't bring 'em with us...
+English,"scene_cp2_q4_s30,243",detail,Drang,"Huh? Really?<br>Really, really?"
+English,"scene_cp2_q4_s30,243",detail,Sturm,"Showing mercy to a foe is foolish, but I won't complain about being spared..."
+English,"scene_cp2_q4_s30,243",detail,Lyria,Yeah. And he did ask nicely after all...
+English,"scene_cp2_q4_s30,243",detail,Katalina,"Besides, it wouldn't be very knightly to turn a sword on a surrendering foe."
+English,"scene_cp2_q4_s30,243",detail,Vyrn,And it's not like you're die-hards. You were in it for the money. You're free to go!
+English,"scene_cp2_q4_s30,243",detail,Drang,"Oh, thank you, thank you! I owe you a million times over!"
+English,"scene_cp2_q4_s30,243",detail,Sturm,I'll not forget this... Next time the humiliation will be yours!
+English,"scene_cp2_q4_s30,243",detail,,Sturm and Drang hurry away without lingering a moment longer.
+English,"scene_cp2_q4_s30,243",detail,Rackam,So? Are you guys really planning on going to town to fight back against the empire?
+English,"scene_cp2_q4_s30,243",detail,Vyrn,Why wouldn't we? This is our chance to hit 'em where it hurts!
+English,"scene_cp2_q4_s30,243",detail,Rackam,"Good grief, you're a bunch of softies! But if you weren't, you wouldn't have tried to save me."
+English,"scene_cp2_q4_s30,243",detail,Rackam,"Looks like I'm with you! Besides, I like the fire in your eyes, [Djeeta]."
+English,"scene_cp2_q4_s30,243",detail,Lyria,"So... you'll join us, Rackam?"
+English,"scene_cp2_q4_s30,243",detail,Rackam,You think I'd let the empire run roughshod over this town?
+English,"scene_cp2_q4_s30,243",detail,Rackam,It's time they had a taste of their own medicine!
+English,"scene_cp2_q4_s30,243",detail,,"With Rackam now on their side, [Djeeta] and the others prepare to fight against the empire."
+English,"scene_cp2_q4_s30,243",detail,,But the ambitions of their enemy are already beginning to swallow the archipelago whole.
 Japanese,"scene_evt200628_cp1_q1_s10,7556111",synopsis,,大食い大会の予選当日。[ジータ]一行は会場である<span class='scene-font-place'>アウギュステ</span>に降り立ち、大会参加者であるレッドラック、ルリア、コルル、アーミラ、レオナを連れて、大会前の余暇を自由に過ごしていた。やがてシェロカルテが挨拶がてら、ルール説明を行うため呼びかけにやって来る。一行はシェロカルテに案内されて会場に向かうのだった。
 Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>シェロカルテの訪問から数日後。</span>
 Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>大食い大会に参加するため、会場である</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>のビーチを訪れていた。</span>
@@ -2469,6 +3163,71 @@ Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,樹クラゲも無害で大人
 Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,そう毎年毎年、変な生き物に<br>襲われてたまるかってんだ！
 Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>シェロカルテの誘いを受け、</span><br><span class='scene-font-katari'>大食い大会に参加することになった</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
 Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>真夏の太陽にも劣らぬ</span><br><span class='scene-font-katari'>激闘必至の熱き戦いが</span><br><span class='scene-font-katari'>今、始まろうとしているのだった。</span>
+
+English,scene_evt200628_cp0_q1_s10,synopsis,,"On a hot summer day, [Djeeta] and crew are invited by Sierokarte to participate in an eating competition. The shopkeeper explains that an increase in Auguste's lumber jelly population is causing problems for the fishing industry, and after culling the population, the island has been left with an excess of lumber jelly to consume. Sierokarte's solution is to revive a traditional Auguste eating competition, one which she hopes the crew can enjoy. The crew happily agrees to join."
+English,scene_evt200628_cp0_q1_s10,detail,,The sun burns bright and hot on a clear summer day.
+English,scene_evt200628_cp0_q1_s10,detail,,"Sierokarte swings by the Grandcypher to deliver news about Auguste, a crew-favorite spot for the summer."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,So you're sayin' these lumber jellies are stirring up trouble?
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Indeedy. They're non-poisonous and usually pretty docile, but..."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,This year they've exploded in number and decimated the fish population. The fishing industry's been struggling because of it.
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Then a rumor went around saying the jellies are dangerous, so tourism's been on a downward slope too."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"A double whammy during the busiest time of the year, huh? And just when we were thinking of taking our own vacation..."
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,That's not good. We'd be happy to take on a request to handle the lumber jellies!
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Ah, that's not actually what I'm here for."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Wait, really? You know we're always happy to help, especially when folks are in a pickle."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"I appreciate it, but I came here today to invite you to a special event."
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,An event? What kind of event?
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"There's going to be an enormous eating competition in Auguste, organized by yours truly."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,I was thinking my favorite skyfaring helpers might want to join the festivities.
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"Wow, an eating competition!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Now hold on a sec. You just said the fish population's been hit hard, so how're you gonna feed all the people?"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,About that...
+English,scene_evt200628_cp0_q1_s10,detail,,Sierokarte begins to explain the situation.
+English,scene_evt200628_cp0_q1_s10,detail,,"Despite their booming population, the lumber jellies aren't too difficult to cull. Auguste's fishermen already have a handle on the situation."
+English,scene_evt200628_cp0_q1_s10,detail,,The only problem left is the surplus of lumber jelly to consume.
+English,scene_evt200628_cp0_q1_s10,detail,,Hence the eating competition—a way to quickly deal with the gigantic seafood stockpile before it spoils.
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Y'know, that's actually a pretty neat idea. I'm into it!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"What's a lumber jelly taste like anyway? Pretty good, I'm guessin'?"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"You betcha! It's pretty chewy, but the more you chew it, the more you can enjoy the flavor!"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Its firm texture is also pretty addictive, I've gotta say."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"You've never seen one before, right? It's got a hard outer shell like tree bark, hence the name 'lumber' jelly, and once you peel that bark back..."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Its squishy, translucent insides come bursting out all pudding-like!"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,Oh my gosh! Hearing about it is already making me super hungry.
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Haha! Lyria here might be the one to take the victory, considering her appetite!"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Hahaha, I suppose we'll have to see."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"This won't be the first time Auguste'll play host to a big eating competition. They used to have an annual one, up until a few decades ago."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Fewer and fewer people showed up over time, and eventually they had to call it quits, but it was quite the event at the height of its popularity."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"In fact, winning it used to be considered the highest honor for a competitive eater!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Whoa, you serious? I didn't expect it to be that big of a deal."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Oh, but it was. Champions from different regions would often get eliminated in just the preliminaries."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,That's why the winner was called the champion of champions—the best competitive eater in all of the skies.
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,Tales of one eater's stunning victory traveled so far that the princess of a distant kingdom asked for his hand in marriage!
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,Which is why people believed that winning the competition would help make any dream come true!
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"We've been marketing it as the revival of a legendary tradition! Hopefully we'll attract not only a lot of competitors, but also some serious eaters."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,Gulp... That's some kinda next level stuff.
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,Maybe we shouldn't go after all. We might get in the way of people who really want to win...
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"There's no need for that! Some aspiring champions might jump into the mix, but the most important thing will be having fun."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"That, and enjoying some delicious dishes served up by truly talented chefs."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"The grand prize is nothing to sneeze at either. So what do you say, everyone? Are you in?"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Well, whaddya think, [Djeeta]?"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"I... I want to participate! Is that okay, [Djeeta]?"
+English,scene_evt200628_cp0_q1_s10,sel1_txt,,Who can say no to tons of food?
+English,scene_evt200628_cp0_q1_s10,sel2_txt,,Let's eat our way to victory then!
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,Hooray! Thank you so much!
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Siero went outta her way to invite us, right? Be rude to say no!"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,What? A-are you being serious?
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,Guess all that talk about competition has got you fired up too. Sounds fun though! Count me in!
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"I guess trying to win could be fun, but... I don't want to eat <span class='scene-font-italic'>too</span> much and gain weight..."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Is that the part you're hung up on? You know me and [Djeeta] don't mind, right?"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"But I mind! Geez, Vyrn, you just don't get it..."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Hehe, should I take that to mean you'll all be coming?"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"Yes! Oh, I can already taste the jelly!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"We should go let the rest of the crew know, especially the hungry ones."
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,This year's trip to Auguste should be pretty relaxing since we're only going for food.
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"The lumber jellies are already tamed, yeah? We got nothin' to worry 'bout then!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"It'll be nice to take a load off without being attacked by seafood this time around. Every year, I swear..."
+English,scene_evt200628_cp0_q1_s10,detail,,"Accepting Siero's invitation, [Djeeta] and crew plot a course for Auguste."
+English,scene_evt200628_cp0_q1_s10,detail,,Little do they know a battle intense enough to rival the summer sun is about to start.
 Japanese,scene_fate_chr272_ep1,synopsis,,違法な喧嘩賭博に参戦し、日々、闘争本能を研ぎ澄ます喧嘩屋アイル。兄貴分のボーマンと勝利を祝っていると、憲兵による一斉検挙が始まる。そこでアイルは[ジータ]と対峙し、その存在に興味を持つが、ひとまず適当な騎空艇に身を潜める。しかし、それは偶然にも[ジータ]達の乗るグランサイファーであり、アイルはなりゆきで旅に同行することになるのだった。
 Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>犬、豚、猿。</span>,"<span class=""scene-font-kokoro"">개、돼지、원숭이.</span>"
 Japanese,scene_fate_chr272_ep1,detail,？？？,<span class='scene-font-kokoro'>ハッ……</span><br><span class='scene-font-kokoro'>なんでもいいか、呼び方なんて。</span>,"<span class=""scene-font-kokoro"">핫……</span><br><span class=""scene-font-kokoro"">뭐라해도 좋은가、부르는 방법 같은 건.</span>"
@@ -3259,3 +4018,179 @@ Japanese,"scene_cp4_q4_s30,443",detail,？？？,当然だ……<br>無論、代
 Japanese,"scene_cp4_q4_s30,443",detail,？？？,全ては順調に進んでいる。<br>計画が動き出した以上……<br>あとは時間の問題だ。
 Japanese,"scene_cp4_q4_s30,443",detail,？？？,必ず……必ず取り返してみせる。<br>もうしばらくの辛抱だ……<br>待っていてくれ、オルキス……
 Japanese,"scene_cp4_q4_s30,443",detail,？？？,…………
+
+English,"scene_cp4_q1_s10,411",synopsis,,"Using her power to sense primal beasts, Lyria guides [Djeeta] and the others toward Tiamat."
+English,"scene_cp4_q1_s10,411",detail,,"[Djeeta] and the others march on, trusting in Lyria's ability to sense primal beasts and the power of the stars."
+English,"scene_cp4_q1_s10,411",detail,Lyria,We're close... It's getting stronger and stronger.
+English,"scene_cp4_q1_s10,411",detail,Rackam,"We're counting on you, little miss. I'll do whatever it takes to keep you safe!"
+English,"scene_cp4_q1_s10,411",detail,Katalina,"Trying to seize my job, are we?"
+English,"scene_cp4_q1_s10,411",detail,Vyrn,Hey! [Djeeta] can put up a good defense too! Don't let these puny arms fool ya!
+English,"scene_cp4_q1_s10,411",sel1_txt,,"Well, that's rude!"
+English,"scene_cp4_q1_s10,411",sel2_txt,,I'll do what I can...
+English,"scene_cp4_q1_s10,411",detail,Vyrn,Ha-ha-ha! I'm just kidding! You look like a real fighter already!
+English,"scene_cp4_q1_s10,411",detail,Rackam,"Don't get all timid now, [Djeeta]! You've got the makings of a real leader."
+English,"scene_cp4_q1_s10,411",detail,Rackam,"Your eyes have a spark to them! When you're the captain of a real crew, everyone's going to look up to you."
+English,"scene_cp4_q1_s10,411",detail,Monster,Groaaar!
+English,"scene_cp4_q1_s10,411",detail,Katalina,"Looks like we've got monsters though. Time to focus, everyone!"
+English,"scene_cp4_q1_s20,412",synopsis,,"As [Djeeta] and the others march through the storm, imperial soldiers block their path once more."
+English,"scene_cp4_q1_s20,412",detail,Rackam,Tch! Looks like the empire hasn't given up on getting in our way.
+English,"scene_cp4_q1_s20,412",detail,Vyrn,"Just when we defeat the monsters, a group of imperial soldiers decides to show up!"
+English,"scene_cp4_q1_s20,412",detail,Vyrn,Either they don't know when to quit... or they <span class='scene-font-italic'>really</span> love their job.
+English,"scene_cp4_q1_s20,412",detail,Katalina,"For soldiers of the Erste Empire, a superior officer's orders are absolute."
+English,"scene_cp4_q1_s20,412",detail,Katalina,I hold no grudge against you soldiers! But we won't back down and we won't go easy on you!
+English,"scene_cp4_q2_s10,421",synopsis,,"As thanks for sparing them, Drang and Sturm offer [Djeeta] and the others a chance to escape the island. But the help is refused as [Djeeta] and the others are determined to stay and protect Port Breeze."
+English,"scene_cp4_q2_s10,421",detail,Drang,Yoo-hoo! Long time no see!
+English,"scene_cp4_q2_s10,421",detail,Katalina,What are you doing here? Are you seriously planning to attack us again?
+English,"scene_cp4_q2_s10,421",detail,Sturm,No. Don't get the wrong idea.
+English,"scene_cp4_q2_s10,421",detail,Drang,"Indubitably! You guys saved our lives, right? We'd simply like to return the favor."
+English,"scene_cp4_q2_s10,421",detail,Lyria,"We weren't expecting to get anything in return when we helped you out... Right, [Djeeta]?"
+English,"scene_cp4_q2_s10,421",detail,Drang,Right-o! You're a real sweetheart! So sweet that you deserve this candy-
+English,"scene_cp4_q2_s10,421",detail,Drang,Ow! Sturm!
+English,"scene_cp4_q2_s10,421",detail,Sturm,Follow us. This time we'll be the ones saving your lives.
+English,"scene_cp4_q2_s10,421",detail,Rackam,What are you talking about?
+English,"scene_cp4_q2_s10,421",detail,Drang,"Well... You <span class='scene-font-italic'>do</span> understand how much danger you're about to put yourselves in, don't you?"
+English,"scene_cp4_q2_s10,421",detail,Katalina,We understand full well that the odds are stacked against us.
+English,"scene_cp4_q2_s10,421",detail,Sturm,Obviously you don't. You must be out of your minds.
+English,"scene_cp4_q2_s10,421",detail,Drang,"You can say that again! But we owe you guys, you know."
+English,"scene_cp4_q2_s10,421",detail,Drang,So I was thinking we could let you escape by stowing away on an imperial battleship.
+English,"scene_cp4_q2_s10,421",detail,Vyrn,That's what you mean by returning the favor?
+English,"scene_cp4_q2_s10,421",detail,Rackam,"I appreciate the offer, but we're not running. Isn't that right, [Djeeta]?"
+English,"scene_cp4_q2_s10,421",detail,Rackam,We've got more things to protect now. Not just the Grandcypher... but the townspeople and this island.
+English,"scene_cp4_q2_s10,421",detail,Rackam,I don't want to lose any of them. So I'm not running away.
+English,"scene_cp4_q2_s10,421",detail,Katalina,Agreed. I refuse to sit back and watch while innocents suffer.
+English,"scene_cp4_q2_s10,421",detail,Lyria,We have the power to do something about it... so we have to try!
+English,"scene_cp4_q2_s10,421",detail,Sturm,You're all fools.
+English,"scene_cp4_q2_s10,421",detail,Drang,"Oh, don't be like that, Sturm! You like this sort of thing deep down, righ—"
+English,"scene_cp4_q2_s10,421",detail,Drang,"Ow! Owwie, ow, ow!"
+English,"scene_cp4_q2_s10,421",detail,Sturm,"Silence! If you don't shut your mouth, I'll seal it shut myself!"
+English,"scene_cp4_q2_s10,421",detail,Katalina,"Well, that being what it is, we're going on ahead."
+English,"scene_cp4_q2_s10,421",detail,Sturm,Humph!
+English,"scene_cp4_q2_s10,421",detail,Drang,Okie-dokie! We're getting out of here. So good luck!
+English,"scene_cp4_q2_s10,421",detail,Katalina,What an obnoxious pair...
+English,"scene_cp4_q2_s10,421",detail,Rackam,"Yeah. I'm kinda worn out, but this is where things get serious. Let's go!"
+English,"scene_cp4_q2_s20,422",synopsis,,Lyria notices that the storm has made the monsters more frenzied than usual.
+English,"scene_cp4_q2_s20,422",detail,Lyria,"Maybe it's because of the storm, but the monsters are scarier than usual."
+English,"scene_cp4_q2_s20,422",detail,Katalina,This storm is caused by a primal beast. It may have as much force as the Grim Basin itself.
+English,"scene_cp4_q2_s20,422",detail,Vyrn,The folks back in town could be in danger too! We've gotta hurry this up!
+English,"scene_cp4_q2_s20,422",detail,Rackam,Trust me—I know we're pressed for time. Let's tear up these monsters and get going!
+English,"scene_cp4_q3_s10,431",synopsis,,"[Djeeta] and the others arrive back at the Grandcypher, where Tiamat's presence is strongest. General Furias is there waiting."
+English,"scene_cp4_q3_s10,431",detail,Lyria,It's here.<br>This is where Tiamat's presence is the strongest...
+English,"scene_cp4_q3_s10,431",detail,Rackam,Here's where... Hang on! Are you serious?
+English,"scene_cp4_q3_s10,431",detail,,Lyria uses her powers to lead the group to the grasslands where the Grandcypher rests.
+English,"scene_cp4_q3_s10,431",detail,Vyrn,Hm... But the Grandcypher's the only thing around here.
+English,"scene_cp4_q3_s10,431",detail,Furias,Now look who's here... Don't tell me you've come to stop Tiamat!
+English,"scene_cp4_q3_s10,431",detail,Rackam,It's that imperial brat! What're you doing here?
+English,"scene_cp4_q3_s10,431",detail,Furias,I don't see how that matters. You still intend to resist us?
+English,"scene_cp4_q3_s10,431",detail,Katalina,Of course. We have no choice but to intervene.
+English,"scene_cp4_q3_s10,431",detail,Furias,Hm... Then you have no one to blame but yourselves for what happens next!
+English,"scene_cp4_q3_s10,431",detail,Vyrn,What're you talkin' about? You're the ones who set off Tiamat!
+English,"scene_cp4_q3_s10,431",detail,Furias,That much is true... But all I did was pull the trigger. The gun was already loaded...
+English,"scene_cp4_q3_s10,431",detail,Katalina,What are you trying to say?
+English,"scene_cp4_q3_s10,431",detail,Furias,Tiamat was already at wits' end.
+English,"scene_cp4_q3_s10,431",detail,Furias,For ages the people of this archipelago have reaped the bounty of these winds.
+English,"scene_cp4_q3_s10,431",detail,Furias,But that bounty came with a price.
+English,"scene_cp4_q3_s10,431",detail,Furias,"As that price continued to go unpaid, Tiamat slowly inched closer to the edge..."
+English,"scene_cp4_q3_s10,431",detail,Lyria,And then the empire arrived...
+English,"scene_cp4_q3_s10,431",detail,Furias,"In a nutshell, yes. I'm just about to escape on one of our battleships..."
+English,"scene_cp4_q3_s10,431",detail,Furias,But if you claim you want to stop Tiamat...
+English,"scene_cp4_q3_s10,431",detail,Furias,Ouch!
+English,"scene_cp4_q3_s10,431",detail,Rackam,Cut to the chase already!
+English,"scene_cp4_q3_s10,431",detail,Rackam,I've already made up my mind. I'll protect this island... and the people who live here!
+English,"scene_cp4_q3_s10,431",detail,Rackam,"There's no turning back! Stand in our way, and we'll blast right through you!"
+English,"scene_cp4_q3_s20,432",synopsis,,"With no sign of the primal beast in the area, Lyria realizes that Tiamat may be in the sky above them."
+English,"scene_cp4_q3_s20,432",detail,Katalina,That should take care of most of the soldiers surrounding the Grandcypher.
+English,"scene_cp4_q3_s20,432",detail,Vyrn,We've been all over the place and there's still no sign of Tiamat though!
+English,"scene_cp4_q3_s20,432",detail,Lyria,"Well, I was thinking...<br>And this is just an idea, but..."
+English,"scene_cp4_q3_s20,432",detail,Vyrn,"Hm? What is it, Lyria?"
+English,"scene_cp4_q3_s20,432",detail,Lyria,Isn't it possible that Tiamat is above us?
+English,"scene_cp4_q3_s20,432",detail,Rackam,You mean...
+English,"scene_cp4_q3_s20,432",detail,,...
+English,"scene_cp4_q3_s20,432",detail,Rackam,In the sky?
+English,"scene_cp4_q3_s20,432",detail,Katalina,Let's take a look... after we deal with the rest of these imperial soldiers!
+English,"scene_cp4_q4_s10,441",synopsis,,"Rackam has [Djeeta] and the others board the Grandcypher. After he takes the helm, the airship begins to fly."
+English,"scene_cp4_q4_s10,441",detail,Lyria,Hm... I just know it. Tiamat's above us in the sky.
+English,"scene_cp4_q4_s10,441",detail,Katalina,The sky... I can't believe we've come this far just to hit a dead end.
+English,"scene_cp4_q4_s10,441",detail,Rackam,"No, there's still a way. Everyone, board the Grandcypher!"
+English,"scene_cp4_q4_s10,441",detail,Vyrn,"Okay, we're on the airship. But can it fly?"
+English,"scene_cp4_q4_s10,441",detail,Vyrn,"After all, you were just saying earlier..."
+English,"scene_cp4_q4_s10,441",detail,Rackam,Yeah. This is the airship I crashed...
+English,"scene_cp4_q4_s10,441",detail,Rackam,"I was afraid of the sky for a long, long time. But the Grandcypher was waiting for me all along..."
+English,"scene_cp4_q4_s10,441",detail,Rackam,I can feel it. This airship'll go the distance for us!
+English,"scene_cp4_q4_s10,441",detail,,Rackam grips the helm tightly.
+English,"scene_cp4_q4_s10,441",detail,Rackam,"Sorry to keep you waiting, but I'm back now... And I'm following your lead into the sky!"
+English,"scene_cp4_q4_s10,441",detail,Katalina,We're moving!
+English,"scene_cp4_q4_s10,441",detail,Lyria,He did it! Rackam got through to the airship!
+English,"scene_cp4_q4_s10,441",detail,Vyrn,Sure seems like it! Now to set a direct course to Tiamat!
+English,"scene_cp4_q4_s10,441",detail,Rackam,"Here we come, Tiamat! We'll show you what the people of Port Breeze can do!"
+English,"scene_cp4_q4_s20,442",synopsis,,[Djeeta] and the others steel themselves for a showdown against the primal beast Tiamat.
+English,"scene_cp4_q4_s20,442",detail,Tiamat,Gragh... Raghhh!
+English,"scene_cp4_q4_s20,442",detail,Katalina,So this is Tiamat...
+English,"scene_cp4_q4_s20,442",detail,Lyria,Oh no... She's practically lost her senses! I can't believe she was pushed this far.
+English,"scene_cp4_q4_s20,442",detail,Lyria,At this rate... my power won't be enough.
+English,"scene_cp4_q4_s20,442",detail,Vyrn,Huh? Then what are we supposed to do?
+English,"scene_cp4_q4_s20,442",detail,Rackam,Don't you worry. We just need to calm Tiamat down a bit. Right?
+English,"scene_cp4_q4_s20,442",detail,Lyria,Yes. I'm sure I can do something after that.
+English,"scene_cp4_q4_s20,442",detail,Rackam,"In that case, it's our turn to act."
+English,"scene_cp4_q4_s20,442",detail,Katalina,"What in the world are you planning, Rackam? It's too dangerous! Don't go anywhere near Tiamat!"
+English,"scene_cp4_q4_s20,442",detail,Lyria,"Wait, Katalina! Let's let Rackam handle this!"
+English,"scene_cp4_q4_s20,442",detail,Rackam,"Hey, Tiamat. We heard all about it. The reason you went on a rampage, that is."
+English,"scene_cp4_q4_s20,442",detail,Rackam,Heard you're the one responsible for blessing Port Breeze with these winds...
+English,"scene_cp4_q4_s20,442",detail,Tiamat,My... winds...
+English,"scene_cp4_q4_s20,442",detail,Rackam,I've gotta apologize. I always thought you were a myth. Never gave you the thanks you deserve.
+English,"scene_cp4_q4_s20,442",detail,Rackam,That being said... there are some things we just can't give up.
+English,"scene_cp4_q4_s20,442",detail,Rackam,There are things I want to protect... That I have to protect. So I'm not backing down anymore.
+English,"scene_cp4_q4_s20,442",detail,Rackam,"I'm not gonna run, and I'm not gonna hide. Neither of us can afford to compromise, can we?"
+English,"scene_cp4_q4_s20,442",detail,Tiamat,...
+English,"scene_cp4_q4_s20,442",detail,Rackam,So we're gonna have to butt heads... with everything we've got!
+English,"scene_cp4_q4_s20,442",detail,Rackam,Let's do this fair and square! Whether you're a god or a primal beast or whatever! No holding back!
+English,"scene_cp4_q4_s20,442",detail,Tiamat,Gragh... Raghhh!
+English,"scene_cp4_q4_s30,443",synopsis,,"After Tiamat is defeated, Rackam decides to become the helmsman for [Djeeta] and the others. Sierokarte gives the newly formed crew a letter that says to go to the Valtz Duchy."
+English,"scene_cp4_q4_s30,443",detail,Rackam,Whew!<br>Not bad. Not bad at all...
+English,"scene_cp4_q4_s30,443",detail,Lyria,Everything's going to be all right. I absorbed Tiamat's overflowing energy.
+English,"scene_cp4_q4_s30,443",detail,Lyria,She should return to her senses now.
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Lyria, what's that in your hand?"
+English,"scene_cp4_q4_s30,443",detail,Lyria,Huh? Where did this come from?
+English,"scene_cp4_q4_s30,443",detail,Vyrn,That's a piece of the sky map!
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"It's just like the one your dad had, [Djeeta]!"
+English,"scene_cp4_q4_s30,443",detail,Katalina,So this is a sky map piece? With this we can keep Lyria out of the empire's grasp...
+English,"scene_cp4_q4_s30,443",detail,Rackam,Hey! The sky's cleared up!
+English,"scene_cp4_q4_s30,443",detail,,"The sun shines through the gaps in the clouds, illuminating the Grandcypher as if heaven itself has given its blessing."
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Whew. Nice work, [Djeeta]. I'd say we've earned ourselves a break."
+English,"scene_cp4_q4_s30,443",detail,Rackam,So where do you guys wanna go?
+English,"scene_cp4_q4_s30,443",detail,Vyrn,Oh? Does this mean you'll take us with you?
+English,"scene_cp4_q4_s30,443",detail,Rackam,"Sure, why not? No place better than the skies, I figure."
+English,"scene_cp4_q4_s30,443",detail,Rackam,"And with you guys around, something tells me I won't part with the skies again."
+English,"scene_cp4_q4_s30,443",detail,Rackam,"Besides, the Grandcypher seems to have taken a liking to you, [Djeeta]."
+English,"scene_cp4_q4_s30,443",detail,Rackam,Leave it to me and I'll take you anywhere you wanna go! Even the end of the sky!
+English,"scene_cp4_q4_s30,443",detail,,"With a helmsman having joined them, [Djeeta] and a newly formed crew set a course for the farthest reaches of the sky."
+English,"scene_cp4_q4_s30,443",detail,,"While flying over the town, [Djeeta] spots a tiny figure waving from the ground."
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"Hm? Well, if it isn't Sierokarte!"
+English,"scene_cp4_q4_s30,443",detail,Rackam,Siero? What's she got in her hand?
+English,"scene_cp4_q4_s30,443",detail,Katalina,She may need something from us. Let's go down and hear what she has to say.
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,Oh goodness! You've been an enormous help to everyone!
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Well, we couldn't exactly turn a blind eye to the empire's injustice."
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Anyway, we saw you waving at us. Did you need something?"
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,"Oh, that's right! I received a letter addressed to [Djeeta], you see!"
+English,"scene_cp4_q4_s30,443",detail,Lyria,"A letter? Is it from your hometown, [Djeeta]?"
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,Nope! A somewhat suspicious duo delivered it by hand.
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,They said they absolutely had to return a favor...
+English,"scene_cp4_q4_s30,443",detail,Rackam,Return a favor? Then I bet it's from those two.
+English,"scene_cp4_q4_s30,443",detail,Vyrn,Who knows? Let's open it and find out!
+English,"scene_cp4_q4_s30,443",detail,,The letter couldn't be shorter.
+English,"scene_cp4_q4_s30,443",detail,Rackam,"Go to the Valtz Duchy, it says...<br>What's this about?"
+English,"scene_cp4_q4_s30,443",detail,Katalina,The Valtz Duchy? It's a nearby Draph island known for its booming steel industry.
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"If they're trying to return a favor, I guess that means there's something good waiting for us over there."
+English,"scene_cp4_q4_s30,443",detail,Vyrn,Should we go to Valtz then?
+English,"scene_cp4_q4_s30,443",detail,Katalina,I don't know. Can we really afford to trust those two?
+English,"scene_cp4_q4_s30,443",detail,Lyria,"They do seem a little suspicious, but doesn't the letter make you curious?"
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"Well yeah! This message is cryptic. You're curious too, right, [Djeeta]?"
+English,"scene_cp4_q4_s30,443",detail,Rackam,Then it's decided! We'll let our curiosity guide us through the sky!
+English,"scene_cp4_q4_s30,443",detail,,"Having settled on the next destination, [Djeeta] and the crew set off for the Valtz Duchy."
+English,"scene_cp4_q4_s30,443",detail,,Another tale of the sky and stars waits for [Djeeta] there...
+English,"scene_cp4_q4_s30,443",detail,Sturm,"And that's all. We entrusted the letter to the Knickknack Shack, as per your instructions."
+English,"scene_cp4_q4_s30,443",detail,???,Good work.<br>Now Drang... How does Furias seem to be faring?
+English,"scene_cp4_q4_s30,443",detail,Drang,"No problems that I've seen! My, dark essence certainly is something to behold, isn't it?"
+English,"scene_cp4_q4_s30,443",detail,???,"Naturally. Its use comes at a cost, however..."
+English,"scene_cp4_q4_s30,443",detail,???,Everything is going according to plan. It's only a matter of time now.
+English,"scene_cp4_q4_s30,443",detail,???,"I'll get you back no matter what. Just hold on a little longer for me, Orchis..."
+English,"scene_cp4_q4_s30,443",detail,???,...
