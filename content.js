@@ -22,9 +22,6 @@ var initialize = false;
 var ObserverList = [];
 var userName = '';
 
-var reservedData = [];
-var jpStartIndex = 0,
-    engStartIndex = 0;
 
 var sceneFullInfo = [];
 //https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
@@ -1644,40 +1641,33 @@ function translate_StoryText(stext, jsonFile) {
 
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
-    var skip = false;
-    reservedData.some(function (item) {
+    var sceneData = [];
+    var jpStartIndex = 0,
+        engStartIndex = 0;
+
+    jsonFile.some(function (item) {
         let sc = SceneCodeFromURL();
         if (String(item.SceneCode).includes(sc)) {
-            skip = true;
-            return true;
+            sceneData.push(item);
         }
     });
+    var tmpIndex = 0;
+    sceneData.some(function (item) {
+        if (item.Language == 'Japanese') {
+            jpStartIndex = tmpIndex;
+            return true;
+        }
+        tmpIndex++;
+    });
 
-    if (!skip) {
-        jsonFile.some(function (item) {
-            let sc = SceneCodeFromURL();
-            if (String(item.SceneCode).includes(sc)) {
-                reservedData.push(item);
-            }
-        });
-        var tmpIndex = 0;
-        reservedData.some(function (item) {
-            if (item.Language == 'Japanese') {
-                jpStartIndex = tmpIndex;
-                return true;
-            }
-            tmpIndex++;
-        });
-
-        tmpIndex = 0;
-        reservedData.some(function (item) {
-            if (item.Language == 'English') {
-                engStartIndex = tmpIndex;
-                return true;
-            }
-            tmpIndex++;
-        });
-    }
+    tmpIndex = 0;
+    sceneData.some(function (item) {
+        if (item.Language == 'English') {
+            engStartIndex = tmpIndex;
+            return true;
+        }
+        tmpIndex++;
+    });
 
     var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
     stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
@@ -1699,23 +1689,23 @@ function translate_StoryText(stext, jsonFile) {
             stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
     }
 
-    for (var i = 0; i < reservedData.length; i++) {
-        if (!reservedData[i].Origin)
+    for (var i = 0; i < sceneData.length; i++) {
+        if (!sceneData[i].Origin)
             continue;
-        if (stext.length == reservedData[i].Origin.length) {
-            if (stext == reservedData[i].Origin) {
-                if (reservedData[i].Korean) {
-                    transText = reservedData[i].Korean;
+        if (stext.length == sceneData[i].Origin.length) {
+            if (stext == sceneData[i].Origin) {
+                if (sceneData[i].Korean) {
+                    transText = sceneData[i].Korean;
                     break;
                 } else {
                     var offset = 0;
-                    if (reservedData[i].Language == 'Japanese') {
+                    if (sceneData[i].Language == 'Japanese') {
                         offset = i - jpStartIndex;
-                    } else if (reservedData[i].Language == 'English') {
+                    } else if (sceneData[i].Language == 'English') {
                         offset = i - engStartIndex;
                     }
 
-                    transText = reservedData[offset].Korean;
+                    transText = sceneData[offset].Korean;
                     break;
                 }
             }
