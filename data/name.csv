@@ -50,7 +50,7 @@ orig,kr
 一同,일동
 楓？,카에데?
 "<span class=""scene-font-1"">卯月と凛と未央の声</span>","<span class=""scene-font-1"">우즈키와 린과 미오의 목소리</span>"
-!스토리 텍스트 전용 이름 모음. 보통 태그로 쌓여있음.
+!스토리 텍스트 전용 이름 모음. <span> 태그로 감싸져있으면 지우고 내부 원어만 좌측에 넣자
 ？？？,???
 観客１,관객1
 観客２,관객2
@@ -61,18 +61,18 @@ orig,kr
 観光客の男の子,관광객 남자아이
 観光客の女性,관광객 여성
 レッドラック,레드락
-<span class='scene-font-2'>大会参加者の男性１</span>,<span class='scene-font-2'>대회참가자 남성1</span>
-<span class='scene-font-2'>大会参加者の男性２</span>,<span class='scene-font-2'>대회참가자 남성2</span>
+大会参加者の男性１,대회참가자 남성1
+大会参加者の男性２,대회참가자 남성2
 レオナ,레오나
 荒々しい声,거친 목소리
-<span class='scene-font-2'>セワスチアンの声</span>,<span class='scene-font-2'>세바스찬의 목소리</span>
+セワスチアンの声,세바스찬의 목소리
 セワスチアン,세바스찬
 司会者,사회자
 マッシュ,마슈
 樹クラゲの集団,나무 해파리 집단
-<span class='scene-font-2'>コルル・アーミラ</span>,<span class='scene-font-2'>코루루・아미라</span>
+コルル・アーミラ,코루루・아미라
 本戦参加者の男,본선 참가자 남자
-<span class='scene-font-2'>本戦参加者の男の声</span>,<span class='scene-font-2'>본선 참가자 남성의 목소리</span>
+本戦参加者の男の声,본선 참가자 남성의 목소리
 魔物,마물
 シェロカルテ,셰로카르테
 シャルロッテ,샤를롯데
@@ -81,9 +81,9 @@ orig,kr
 レオナ,레오나
 アーミラ,아미라
 コルル,코루루
-<span class='scene-font-2'>レッドラックの声</span>,<span class='scene-font-2'>레드락의 목소리</span>
-<span class='scene-font-1'>大会参加者の男性１</span>,<span class='scene-font-1'>대회참가자 남성1</span>
-<span class='scene-font-1'>大会参加者の男性２</span>,<span class='scene-font-1'>대회참가자 남성2</span>
+レッドラックの声,레드락의 목소리
+
+
 本戦参加者の男,본선에 참가한 남자
 イオ,이오
 巨大樹クラゲ,거대 나무 해파리
