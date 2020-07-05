@@ -3,7 +3,7 @@
 
     "name": "GBF-Kor-Trans",
     "description": "Simple Chrome Extension for translating GBF page to Korean",
-    "version": "0.7.6",
+    "version": "0.7.7",
     "browser_action": {
         "default_popup": "popup.html",
         "default_icon": {
@@ -16,9 +16,11 @@
     "options_page": "options.html",
     "permissions": [
         "activeTab",
+        "background",
         "storage",
         "webNavigation",
-        "debugger"
+        "debugger",
+        "clipboardWrite"
     ],
     "icons": {
         "16": "images/get_started16.png",
