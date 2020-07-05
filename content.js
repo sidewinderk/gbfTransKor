@@ -1610,9 +1610,16 @@ function translate(stext, jsonFile) {
     var transText = '';
     PrintLog(`traslate taken: ${String(stext)}`);
     jsonFile.some(function (item) {
-        if (item.kr) {
-            if (stext.length == item.orig.length) {
-                if (String(stext) == String(item.orig)) {
+        if (item.orig) {
+            //넘겨받은 stext는 숫자값들이 '*' 로 변환된 상태. 이에 맞춰서 item.orig도 후처리 작업해주기.
+            var ConvertedOrig = item.orig;
+            var number = item.orig.replace(/[^0-9]/g, '');
+            if (number.length > 0) {
+                ConvertedOrig = ConvertedOrig.replace(/[0-9]/g, '*');
+            }
+
+            if (stext.length == ConvertedOrig.length) {
+                if (String(stext) == String(ConvertedOrig)) {
                     PrintLog(`GET:${String(item.kr)}`);
                     transText = String(item.kr);
                     return true;
@@ -1845,6 +1852,7 @@ function GetTranslatedText(node, csv) {
             if (exMode)
                 PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
+            // !!! Execute Translate !!!
             if (transMode)
                 translatedText = translate(textInput, csv);
             if (userName) {
@@ -2131,11 +2139,13 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if (
-            !mutation.target.className.includes('txt-message') &&
-            !mutation.target.className.includes('txt-character-name')
-        )
-            walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        if(!mutation.target){
+            if (
+                !mutation.target.className.includes('txt-message') &&
+                !mutation.target.className.includes('txt-character-name')
+            )
+                walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        }
     });
     ObserverArchive();
 });
