@@ -19,6 +19,7 @@ var transMode = false;
 var exMode = false;
 var skipTranslatedText = false;
 var initialize = false;
+var tempSceneCode = "";
 var ObserverList = [];
 var userName = '';
 
@@ -276,12 +277,13 @@ function PushCSV_StoryText(request) {
             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
     }
     // For pop-up status icon
-    var DBcheck = IsSceneCodeInDB(sceneCode);
-    chrome.storage.local.set({
-        sceneCodeFull: sceneCode,
-        sceneCodeStatus: DBcheck
-    });
-
+    if(sceneCode != tempSceneCode){
+        tempSceneCode = sceneCode;
+        chrome.storage.local.set({
+            sceneCodeFull: sceneCode,
+            sceneCodeStatus: IsSceneCodeInDB(sceneCode)
+        });
+    }
 
     sceneFullInfo.some(function (scene) {
         var sceneCodeReserved = scene.SceneCode
@@ -2056,17 +2058,19 @@ function IsSceneCodeInDB(sceneCodeInput) {
     sceneCodeInput = sceneCodeInput.replace(/['"]+/g, '')
     checkResult = 0;
     questJson.some(function (item) {
-        if (item.sceneCode) {
-            if (sceneCodeInput.length == item.sceneCode.length) {
-                if (String(sceneCodeInput) == String(item.sceneCode)) {
-                    if (item.kr) {
-                        if (item.kr.length > 0)
+        if (item.SceneCode) {
+            if (sceneCodeInput.length == item.SceneCode.length) {
+                if (String(sceneCodeInput) == String(item.SceneCode)) {
+                    if (item.Korean) {
+                        if (item.Korean.length > 0){
                             checkResult = 2;
-                        return;
-                    } else {
-                        checkResult = 1;
-                        return
-                    }
+                            return;
+                        }
+                        else {
+                            checkResult = 1;
+                            return
+                        }
+                    } 
                 }
             }
         }
