@@ -1611,17 +1611,36 @@ function translate(stext, jsonFile) {
     PrintLog(`traslate taken: ${String(stext)}`);
     jsonFile.some(function (item) {
         if (item.orig) {
-            //넘겨받은 stext는 숫자값들이 '*' 로 변환된 상태. 이에 맞춰서 item.orig도 후처리 작업해주기.
-            var ConvertedOrig = item.orig;
-            var number = item.orig.replace(/[^0-9]/g, '');
-            if (number.length > 0) {
-                ConvertedOrig = ConvertedOrig.replace(/[0-9]/g, '*');
-            }
+            if (stext.length == item.orig.length) {
+                //넘겨받은 stext는 숫자값들이 '*' 로 변환된 상태. 이에 맞춰서 item.orig도 후처리 작업해주기.
+                var ConvertedOrig = item.orig;
 
-            if (stext.length == ConvertedOrig.length) {
+                /*
+                item.orig를 replace함수로 모든 숫자값을 *로 변환하니 문제가 발생.
+                stext 문자열에 숫자값으로 보이는 문자가있는데 이건 숫자가 아니라 일종의 특수문자인것같음.
+                예를들어, "大会参加者の男性１" 여기서 표현된 1은 숫자 1이 아님.
+                그래서 stext에 *값이 들어있는 인덱스를 item.orig 의 똑같은 인덱스에 맞추어 *를 삽입하도록함.
+                */
+                for(var i = 0; i < stext.length; i++){
+                    if(stext[i] == '*'){
+                        ConvertedOrig = ConvertedOrig.substr(0,i) + '*' + ConvertedOrig.substr(i + 1);
+                    }
+                }
+
+                //stext 와 item.orig에 있는 따음표값을 큰 따음표로 통일.
+                stext = stext.split("'").join('"');
+                ConvertedOrig = ConvertedOrig.split("'").join('"');
+                
                 if (String(stext) == String(ConvertedOrig)) {
                     PrintLog(`GET:${String(item.kr)}`);
                     transText = String(item.kr);
+
+                    for(var i = 0; i < stext.length; i++){
+                        if(stext[i] == '*'){
+                            transText = transText.substr(0,i) + '*' + transText.substr(i + 1);
+                        }
+                    }
+                    
                     return true;
                 }
             }
