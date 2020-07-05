@@ -2158,7 +2158,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if(!mutation.target){
+        if(mutation.target){
             if (
                 !mutation.target.className.includes('txt-message') &&
                 !mutation.target.className.includes('txt-character-name')
