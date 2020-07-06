@@ -1278,8 +1278,8 @@ English,"scene_tutorial01,021",detail,Vyrn,Doesn't seem like you're friends with
 English,"scene_tutorial01,021",detail,Katalina,"Ah, yes, how rude of me. My name is Katalina Aryze.",실례했다. 나는 카타리나 아리제라고 해.
 English,"scene_tutorial01,021",detail,Katalina,And this is Lyria. I can't thank you enough for saving her.,이 아이는 루리아. 도와줘서 정말로 고마워.
 English,"scene_tutorial01,021",detail,Katalina,"If you don't mind, could you tell me your name as well?",너도....괜찮다면 이름을 가르쳐주지 않을래?
-English,"scene_tutorial01,021",detail,Vyrn,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?,나는 뷔이야! 그런데 두 사람은 어디서 온 거야? 저 병사들에게 쫓기고 있는 건가?
-English,"scene_tutorial01,021",detail,Lyria,"W-where? Well, uh...","어, 어디서 부터 말하면... 저어..."
+English,"scene_tutorial01,021",detail,Vyrn,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?,나는 뷔야! 그런데 두 사람은 어디서 온 거야? 저 병사들에게 쫓기고 있는 건가?
+English,"scene_tutorial01,021",detail,Lyria,"W-where? Well, uh...","어, 어디서 부터 말해야... 저어..."
 English,"scene_tutorial01,021",detail,Katalina,That's right...<br>We... were being chased.,"그렇다, 쫓기고 있다."
 English,"scene_tutorial01,021",detail,Katalina,"Which is why we need to get out of here before more of them show up, and—",여기는 위험해. 또 그 병사들이 오겠지. 너희들은 빨리-
 English,"scene_tutorial01,021",detail,???,Lieutenant Katalina!,카타리나 중위!
@@ -1312,7 +1312,7 @@ English,"scene_tutorial01,021",detail,Katalina,Is that how far the Empire's will
 English,"scene_tutorial01,021",detail,Pommern,"I believe we've explained this before, Lieutenant. With her power as a foundation, the Empire will rule the skies.",그러니까 그렇다고 말하고 있자나요. 제국이 하늘의 지배자가 되기 위한 주춧돌로서 필요하니깐요.
 English,"scene_tutorial01,021",detail,Pommern,We came to this island to research its primal shrine...,그 연구의 일환으로 이 섬에 있는 성정의 사당을 찾으러 온것인데요...
 English,"scene_tutorial01,021",detail,Pommern,But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>,설마 그걸 틈타서 탈주를 꾀하다니 초장부터 좌절한 기분이에요!
-English,"scene_tutorial01,021",detail,Lyria,"Katalina, I'm sorry... This is all because I asked you to take me outside...",카타리나... 미안해요. 제가 멋대로 여기서 나가고 싶다고 말하는 바람에...
+English,"scene_tutorial01,021",detail,Lyria,"Katalina, I'm sorry... This is all because I asked you to take me outside...",카타리나... 미안해. 내가 멋대로 여기서 나가고 싶다고 말하는 바람에...
 English,"scene_tutorial01,021",detail,Katalina,"Lyria, I promised to show you the outside world. And no matter what happens, I'll stand by that promise.",루리아. 내가 바깥 세계를 보여주겠다고 약속했잖아. 약속을 꼭 지켜주겠어.
 English,"scene_tutorial01,021",detail,Hydra,Grrr!,크르르르...
 English,"scene_tutorial01,021",detail,<span class='nickname'></span>,...!,...!
@@ -1334,7 +1334,7 @@ English,"scene_tutorial01,021",detail,Pommern,I do say! What is this light?,이 
 English,"scene_tutorial01,021",detail,Vyrn,Look... The shrine's primal crystal is reacting... What is she doing?,성정의 사당이 반응하고 있어. 이 아가씨가 무엇을...?
 English,"scene_tutorial01,021",detail,Pommern,Oh ho... We heard the shrine here was special...,호....! 저것이 바로 예의 사당이었던 거군요.
 English,"scene_tutorial01,021",detail,Pommern,B-but what in the skies is this?,"그, 그런데.... 이것은 도대체?"
-English,"scene_tutorial01,021",detail,Lyria,Don't worry now...,괜찮아....
+English,"scene_tutorial01,021",detail,Lyria,Don't worry now...,괜찮아요....
 English,"scene_tutorial01,021",detail,Lyria,<span class='nickname'></span>... I bestow my power on you!,나의 힘... 당신에게 맡기겠습니다...!
 English,"scene_tutorial02,031",synopsis,,Lyria reveals how she pried [Djeeta] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [Djeeta] and Lyria's souls are now permanently intertwined.,폼메른 대위가 내보낸 히드라에 의해 치명상을 입은 [지타]. 루리아와 생명을 공유하게 함으로써 생명을 구해낸 루리아. [지타]는 루리아와 말 그대로 일심동체가 된다.
 English,"scene_tutorial02,031",detail,Lyria,Primeval dragon...,원시의 용....
@@ -1358,68 +1358,68 @@ English,"scene_tutorial02,031",detail,Katalina,Lyria's power makes it possible. 
 English,"scene_tutorial02,031",detail,Lyria,...,...
 English,"scene_tutorial02,031",detail,Katalina,And it would appear that's not all she can do...,이것도 루리아의 힘일까..
 English,"scene_tutorial02,031",detail,,The deep flesh wounds from the Hydra's claws have vanished from [Djeeta].,히드라로부터 찢긴 옷 안으로 들여다보이는 [지타]의 상처는 어디에서도 찾아볼 수 없었다.
-English,"scene_tutorial02,031",detail,Katalina,Are you okay? Any pain or discomfort?
-English,"scene_tutorial02,031",sel1_txt,,I seem to be fine.
-English,"scene_tutorial02,031",sel2_txt,,Nothing feels strange.
-English,"scene_tutorial02,031",detail,Lyria,Katalina... [Djeeta] risked life and limb to save me...
-English,"scene_tutorial02,031",detail,Lyria,"But as a result, [Djeeta] suffered horribly. Seeing [Djeeta]'s vital flame begin to flicker and weaken, I decided to link our beings..."
-English,"scene_tutorial02,031",detail,Lyria,To repay [Djeeta] in kind!
-English,"scene_tutorial02,031",detail,Katalina,What!
-English,"scene_tutorial02,031",detail,Lyria,That's right. From now on our souls are permanently intertwined...
-English,"scene_tutorial02,031",detail,Lyria,[Djeeta] and I now share the same life force.
-English,"scene_tutorial02,031",detail,Lyria,I hope you're not mad... It was my only choice.
-English,"scene_tutorial02,031",sel1_txt,,Thanks for saving me!
-English,"scene_tutorial02,031",detail,Lyria,...
-English,"scene_tutorial02,031",detail,Lyria,"By the way, I didn't summon that primal just by myself."
-English,"scene_tutorial02,031",detail,Lyria,"Bahamut seems to have appeared to protect you, [Djeeta]... To lend you strength."
-English,"scene_tutorial02,031",detail,Vyrn,No way... That's incredible! I always knew [Djeeta] was something special!
-English,"scene_tutorial02,031",detail,Imperial Soldier,"Hey, I've found them! They're over here!"
-English,"scene_tutorial02,031",detail,Vyrn,"Rats... Didn't take long for his cronies to show up. Are you good to go, [Djeeta]?"
-English,"scene_tutorial02,031",detail,Katalina,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.
-English,"scene_tutorial02,031",detail,Vyrn,"Are you sure? I mean, aren't you working for them?"
-English,"scene_tutorial02,031",detail,Katalina,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape."
-English,"scene_tutorial02,031",detail,Katalina,I'll save the rest for later.<br>Now get ready! They're here!
-English,"scene_tutorial03,041",synopsis,,"Concluding that they'll be captured if they linger any longer, [Djeeta] and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, [Djeeta] begins a journey to the end of the sky."
-English,"scene_tutorial03,041",detail,Katalina,"Ngh... If we stay here, it's only a matter of time before they back us into a corner."
-English,"scene_tutorial03,041",detail,Katalina,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!
-English,"scene_tutorial03,041",detail,Vyrn,"Looks like your dream of skyfaring's coming true faster than we thought, [Djeeta]! Better brace yourself!"
-English,"scene_tutorial03,041",sel1_txt,,I'm ready for anything!
-English,"scene_tutorial03,041",sel2_txt,,"Shouldn't you brace yourself, Vyrn?"
-English,"scene_tutorial03,041",detail,Vyrn,Ha ha! You sure know how to roll with the punches. Just like your dad!
-English,"scene_tutorial03,041",detail,Vyrn,Ha ha! Who do you think you're talkin' to?
-English,"scene_tutorial03,041",detail,Vyrn,"If anyone here was born to fly, it's me!"
-English,"scene_tutorial03,041",detail,Lyria,"Hey, Katalina. Vyrn and [Djeeta] seem like best friends, don't you think?"
-English,"scene_tutorial03,041",detail,Katalina,They do indeed.
-English,"scene_tutorial03,041",detail,Katalina,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently."
-English,"scene_tutorial03,041",detail,Lyria,"You've always liked cute little animals, right, Katalina?"
-English,"scene_tutorial03,041",detail,Katalina,Yes... But this is no time to daydream!
-English,"scene_tutorial03,041",detail,Katalina,Let's go. The ship's this way!
-English,"scene_tutorial03,041",sel1_txt,,Got it!
-English,"scene_tutorial03,041",detail,Vyrn,"Our time to shine's arrived at last, [Djeeta]!"
-English,"scene_tutorial03,041",detail,Lyria,"I guess it's a new beginning for us both then, [Djeeta]!"
-English,"scene_tutorial03,041",detail,,The gang boards a small imperial airship and sets sail from [Djeeta]'s secluded island home.
-English,"scene_tutorial03,041",detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope."
-English,"scene_tutorial03,041",detail,Vyrn,The sky! We're flying through the sky!
-English,"scene_tutorial03,041",detail,Vyrn,"Hey, Katalina! Where are we headed in this thing?"
-English,"scene_tutorial03,041",detail,Katalina,"Good question... You're headed for the end of the sky, right, [Djeeta]?"
-English,"scene_tutorial03,041",detail,Katalina,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy."
-English,"scene_tutorial03,041",detail,Vyrn,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, [Djeeta]?"
-English,"scene_tutorial03,041",detail,Katalina,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms."
-English,"scene_tutorial03,041",detail,Katalina,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.
-English,"scene_tutorial03,041",detail,Lyria,But the sky's so vast... Are they really going to come after us?
-English,"scene_tutorial03,041",detail,Katalina,I'm certain they will... But you needn't worry. The sky is boundless!
-English,"scene_tutorial03,041",detail,Katalina,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us."
-English,"scene_tutorial03,041",detail,Vyrn,Sounds like we're in for the long haul!
-English,"scene_tutorial03,041",detail,Katalina,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited."
-English,"scene_tutorial03,041",detail,Katalina,First things first. We need to get our supplies in order.
-English,"scene_tutorial03,041",detail,Katalina,"If we head to a large town, there should be a general store that caters to airship crews."
-English,"scene_tutorial03,041",detail,Katalina,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.
-English,"scene_tutorial03,041",detail,Lyria,I can't believe it... I'm on a journey to a new world!
-English,"scene_tutorial03,041",detail,Lyria,"With Katalina, Vyrn, [Djeeta], and maybe even more people we'll meet along the way."
-English,"scene_tutorial03,041",detail,Vyrn,We'll probably make plenty of new friends! I can't wait to see who we run into!
-English,"scene_tutorial03,041",detail,Vyrn,"So let's get this adventure to the end of the sky started, [Djeeta]!"
-English,"scene_tutorial03,041",detail,,"[Djeeta]'s soul now one with Lyria's, the time has come to bid farewell to home."
-English,"scene_tutorial03,041",detail,,"As though sent by [Djeeta]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair."
+English,"scene_tutorial02,031",detail,Katalina,Are you okay? Any pain or discomfort?,괜찮니? 위화감 같은것 느끼는 건 없니?
+English,"scene_tutorial02,031",sel1_txt,,I seem to be fine.,괜찮은 것 같아요
+English,"scene_tutorial02,031",sel2_txt,,Nothing feels strange.,딱히 위화감은 없어요
+English,"scene_tutorial02,031",detail,Lyria,Katalina... [Djeeta] risked life and limb to save me...,카타리나... [지타]는 목숨을 걸고 나를 구해줬어...
+English,"scene_tutorial02,031",detail,Lyria,"But as a result, [Djeeta] suffered horribly. Seeing [Djeeta]'s vital flame begin to flicker and weaken, I decided to link our beings...",나 때문에 [지타]는 생명의 빛을 잃었어. 그래서 나랑 생명을 링크시킨거야.
+English,"scene_tutorial02,031",detail,Lyria,To repay [Djeeta] in kind!,이번에는 내가 [지타]를 돕기 위해서...!
+English,"scene_tutorial02,031",detail,Katalina,What!,아!
+English,"scene_tutorial02,031",detail,Lyria,That's right. From now on our souls are permanently intertwined...,"그래, 이제부터 나와  [지타]는 말 그대로 일심동체"
+English,"scene_tutorial02,031",detail,Lyria,[Djeeta] and I now share the same life force.,나와 [지타]는 하나의 생명을 공유하게 돼...
+English,"scene_tutorial02,031",detail,Lyria,I hope you're not mad... It was my only choice.,"미안해요, [지타]. 불편한 몸이 되어버려서. 하지만 그때는 이렇게 하는 수 밖에..."
+English,"scene_tutorial02,031",sel1_txt,,Thanks for saving me!,구해줘서 고마워
+English,"scene_tutorial02,031",detail,Lyria,...,...
+English,"scene_tutorial02,031",detail,Lyria,"By the way, I didn't summon that primal just by myself.",그리고 아까 소환은 저만의 힘이 아닙니다
+English,"scene_tutorial02,031",detail,Lyria,"Bahamut seems to have appeared to protect you, [Djeeta]... To lend you strength.","성정수 바하무트는 [지타]를 지키듯 나타나서, 오히려 힘을 빌려주었다고나 할까..."
+English,"scene_tutorial02,031",detail,Vyrn,No way... That's incredible! I always knew [Djeeta] was something special!,"굉장하구나! 나, [지타]는 예전부터 할땐 하는 녀석이라고 생각했었어!"
+English,"scene_tutorial02,031",detail,Imperial Soldier,"Hey, I've found them! They're over here!","어이, 여기있다! 이쪽이야!"
+English,"scene_tutorial02,031",detail,Vyrn,"Rats... Didn't take long for his cronies to show up. Are you good to go, [Djeeta]?",증원에 들켜버린것 같네. 할 수 있겠어? [지타]
+English,"scene_tutorial02,031",detail,Katalina,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.,한번 죽다 살아난 몸이다. 무리는 하는게 아니야. 여기는 내가...!
+English,"scene_tutorial02,031",detail,Vyrn,"Are you sure? I mean, aren't you working for them?",괜찮아? 너 일단 그 제국의 기사 아니야?
+English,"scene_tutorial02,031",detail,Katalina,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape.",이야기는 들었었지? 나는 제국을 배신하고 루리아가 도망칠 수 있도록 도와줬어. 
+English,"scene_tutorial02,031",detail,Katalina,I'll save the rest for later.<br>Now get ready! They're here!,"이야기는 나중에! 자, 준비하자! 적이 온다!"
+English,"scene_tutorial03,041",synopsis,,"Concluding that they'll be captured if they linger any longer, [Djeeta] and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, [Djeeta] begins a journey to the end of the sky.",<span class='scene-font-place'>장크틴젤</span>에 머물러 있으면 머지않아 쫓길 수 있다고 판단한 일행은 소형정을 타고 섬을 떠난다. 수수께끼 많은 소녀 루리아와 함께 [지타]의 하늘의 끝을 향한 여행이 시작되었다.
+English,"scene_tutorial03,041",detail,Katalina,"Ngh... If we stay here, it's only a matter of time before they back us into a corner.",쿳.. 여기 있으면 몰리는건 시간문제인가...
+English,"scene_tutorial03,041",detail,Katalina,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!,어쩔 수 없어! 이 섬을 떠나야해! 내가 소형정을 준비해놨어!
+English,"scene_tutorial03,041",detail,Vyrn,"Looks like your dream of skyfaring's coming true faster than we thought, [Djeeta]! Better brace yourself!","생각보다 빠르게 너의 꿈이 이루어지잖아, [지타]! 각오 해야겠네!"
+English,"scene_tutorial03,041",sel1_txt,,I'm ready for anything!,각오는 되있어!
+English,"scene_tutorial03,041",sel2_txt,,"Shouldn't you brace yourself, Vyrn?",뷔야말로 괜찮아?
+English,"scene_tutorial03,041",detail,Vyrn,Ha ha! You sure know how to roll with the punches. Just like your dad!,헤헷! 변함없이 밝은 녀석이잖아! 그런 점은 아버지랑 꼭 닮았다구!
+English,"scene_tutorial03,041",detail,Vyrn,Ha ha! Who do you think you're talkin' to?,헤헷! 날 만만하게 보면 곤란해!
+English,"scene_tutorial03,041",detail,Vyrn,"If anyone here was born to fly, it's me!",나야말로 언제든지 하늘로 날아갈 준비는 되어 있다구!
+English,"scene_tutorial03,041",detail,Lyria,"Hey, Katalina. Vyrn and [Djeeta] seem like best friends, don't you think?",후훗... 카타리나. 저 둘은 정말 사이가 좋아보이네.
+English,"scene_tutorial03,041",detail,Katalina,They do indeed.,"아, 그렇네. 그런데..."
+English,"scene_tutorial03,041",detail,Katalina,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently.",순진하게 떠드는 뷔를 보고있으면 기분이 왠지 평온해져.
+English,"scene_tutorial03,041",detail,Lyria,"You've always liked cute little animals, right, Katalina?",카타리나는 예전부터 작은 동물이라던가 보들보들한것을 정말 좋아하는것같애.
+English,"scene_tutorial03,041",detail,Katalina,Yes... But this is no time to daydream!,"응... 아, 이야기 하고 있을 때가 아니야!"
+English,"scene_tutorial03,041",detail,Katalina,Let's go. The ship's this way!,어서 가자. 소형정은 이쪽이야!
+English,"scene_tutorial03,041",sel1_txt,,Got it!,네!
+English,"scene_tutorial03,041",detail,Vyrn,"Our time to shine's arrived at last, [Djeeta]!",드디어 이 순간이 왔구나 [지타]!
+English,"scene_tutorial03,041",detail,Lyria,"I guess it's a new beginning for us both then, [Djeeta]!","후훗, 앞으로 잘부탁드립니다. [지타]!"
+English,"scene_tutorial03,041",detail,,The gang boards a small imperial airship and sets sail from [Djeeta]'s secluded island home.,[지타]들은 카타리나가 타고 온 제국의 소형정에 올라타고 고향을 떠났다.
+English,"scene_tutorial03,041",detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope.","무한하다고 생각되는 금빛 운해를 앞에 두고 일행은 불안해하지 않고, 신기하게도 포근한 희망이 가득했다."
+English,"scene_tutorial03,041",detail,Vyrn,The sky! We're flying through the sky!,하늘이다! 우리들 하늘을 날고있다고!
+English,"scene_tutorial03,041",detail,Vyrn,"Hey, Katalina! Where are we headed in this thing?","야, 카타리나! 이제 우리들은 어디로 가지?"
+English,"scene_tutorial03,041",detail,Katalina,"Good question... You're headed for the end of the sky, right, [Djeeta]?",글쎄... [지타]는 하늘의 끝을 목표로 하고 있었지?
+English,"scene_tutorial03,041",detail,Katalina,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy.",하늘의 끝... 별의 섬 이스탈시아. 별의 민족이 살고 있다는 전설의 섬이다. 험난한 여행이 될지도 몰라.
+English,"scene_tutorial03,041",detail,Vyrn,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, [Djeeta]?",알고있다구! 그런건 알고있어! 그치? [지타]!
+English,"scene_tutorial03,041",detail,Katalina,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms.",그래. 그렇다면 일단 공역을 분단시키고있는 영역을 넘어야겠네.
+English,"scene_tutorial03,041",detail,Katalina,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.,내 목적이기도 하네. 이 파타 그랑데 공역은 에르스테 제국의 세력권이니까.
+English,"scene_tutorial03,041",detail,Lyria,But the sky's so vast... Are they really going to come after us?,이렇게 하늘이 넓은데... 제국은 쫓아올까?
+English,"scene_tutorial03,041",detail,Katalina,I'm certain they will... But you needn't worry. The sky is boundless!,분명 쫓아올거야... 그래도 걱정할 건 없어. 하늘은 무한하니까!
+English,"scene_tutorial03,041",detail,Katalina,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us.",파타 그랑데 공역 밖으로 나가면 제국도 더 이상 따라오진 못할 거야.
+English,"scene_tutorial03,041",detail,Vyrn,Sounds like we're in for the long haul!,어쨌든 긴 여행이 될 것 같네.
+English,"scene_tutorial03,041",detail,Katalina,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited.",하늘의 끝을 향한 여행인가... 왠지 모르게 설레는 것 같아.
+English,"scene_tutorial03,041",detail,Katalina,First things first. We need to get our supplies in order.,우선은 여행의 준비를 갖추도록 할까.
+English,"scene_tutorial03,041",detail,Katalina,"If we head to a large town, there should be a general store that caters to airship crews.",도시에는 기공단을 도와주는 상점들이 있을 거야.
+English,"scene_tutorial03,041",detail,Katalina,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.,여기부터라면 가까운 데는... 포트 브리즈 일거야. 발츠 공국이라면 틀림없이 요리집이 있을 거야.
+English,"scene_tutorial03,041",detail,Lyria,I can't believe it... I'm on a journey to a new world!,이제... 새로운 세계로 여행을 떠나는거네요!
+English,"scene_tutorial03,041",detail,Lyria,"With Katalina, Vyrn, [Djeeta], and maybe even more people we'll meet along the way.",카타리나랑 뷔랑... [지타]랑... 아니 어쩌면 더 많은 사람들이랑!
+English,"scene_tutorial03,041",detail,Vyrn,We'll probably make plenty of new friends! I can't wait to see who we run into!,친구들을 많이 사귈수 있을지도 몰라! 무엇이 기다리고 있는지 따위는 가보지 않으면 모르겠지만!
+English,"scene_tutorial03,041",detail,Vyrn,"So let's get this adventure to the end of the sky started, [Djeeta]!",가자! [지타]. 여기가 하늘의 끝으로 가는 여행의 시작이야!
+English,"scene_tutorial03,041",detail,,"[Djeeta]'s soul now one with Lyria's, the time has come to bid farewell to home.",신기한 소녀와 영혼을 공유함으로써 특수한 힘을 얻은 [지타]는 고향을 떠난다.
+English,"scene_tutorial03,041",detail,,"As though sent by [Djeeta]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair.",그 끝에서 기다리는 아버지를 생각하는 [지타]의 머리를 한 줄기의 푸른 바람이 부드럽게 어루만졌다.
 Japanese,"scene_evt200628_cp1_q1_s10,7556111",synopsis,,大食い大会の予選当日。[ジータ]一行は会場である<span class='scene-font-place'>アウギュステ</span>に降り立ち、大会参加者であるレッドラック、ルリア、コルル、アーミラ、レオナを連れて、大会前の余暇を自由に過ごしていた。やがてシェロカルテが挨拶がてら、ルール説明を行うため呼びかけにやって来る。一行はシェロカルテに案内されて会場に向かうのだった。,"많이 먹기 대회 예선 당일. [지타] 일행은 대회장소인 <span class='scene-font-place'>아우규스테</span>에 내려, 대회 참가자인 래드락, 루리아, 코루루, 아미라, 리오나와 함께 대회전의 여가를 자유롭게 보내고 있었다. 이윽고, 셰로카르테가 인사를 겸하여 규칙 설명을 하기 위해 말을 걸어온다. 일행은 셰로카르테에게 안내를 받으며 대회장을 향했다."
 Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>シェロカルテの訪問から数日後。</span>,<span class='scene-font-katari'>셰로카르테가 방문한 후 며칠이 지났다.</span>
 Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>大食い大会に参加するため、会場である</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>のビーチを訪れていた。</span>,<span class='scene-font-katari'>[지타] 일행은</span><br><span class='scene-font-katari'>많이 먹기 대회에 참가하기 위해 </span><br><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'> 비치에 와 있었다.</span>
