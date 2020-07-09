@@ -1338,7 +1338,7 @@ English,"scene_tutorial01,021",detail,Lyria,Don't worry now...,괜찮아요....
 English,"scene_tutorial01,021",detail,Lyria,<span class='nickname'></span>... I bestow my power on you!,나의 힘... 당신에게 맡기겠습니다...!
 English,"scene_tutorial02,031",synopsis,,Lyria reveals how she pried [Djeeta] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [Djeeta] and Lyria's souls are now permanently intertwined.,폼메른 대위가 내보낸 히드라에 의해 치명상을 입은 [지타]. 루리아와 생명을 공유하게 함으로써 생명을 구해낸 루리아. [지타]는 루리아와 말 그대로 일심동체가 된다.
 English,"scene_tutorial02,031",detail,Lyria,Primeval dragon...,원시의 용....
-English,"scene_tutorial02,031",detail,Lyria,Child of flames and darkness...,어둠의 불꽃의 아이....
+English,"scene_tutorial02,031",detail,Lyria,Child of flames and darkness...,불꽃과 어둠의 아이...
 English,"scene_tutorial02,031",detail,Lyria,Thy name is...,너의 이름은-
 English,"scene_tutorial02,031",detail,Lyria,Bahamut!,바하무트!
 English,"scene_tutorial02,031",detail,Bahamut,Roooar!,오오오오!!!
@@ -5183,30 +5183,30 @@ Japanese,"scene_evt200628_cp4_q4_s10,7556441",detail,コルル,よろしくお�
 Japanese,"scene_evt200628_cp4_q4_s10,7556441",detail,アーミラ,おたのみもうす！,드리겠소이다!
 Japanese,"scene_evt200628_cp4_q4_s10,7556441",detail,,<span class='scene-font-katari'>レッドラックの意志を継ぎ、</span><br><span class='scene-font-katari'>優勝を目指す決意を一層高めるコルル。</span>,<span class='scene-font-katari'>코루루는 레드락의 의지를 이어 우승하겠다는 결의를 다졌다. </span>
 Japanese,"scene_evt200628_cp4_q4_s10,7556441",detail,,<span class='scene-font-katari'>予期せずアーミラも加わりつつ、</span><br><span class='scene-font-katari'>コルルはフードファイトの指導を</span><br><span class='scene-font-katari'>受けることになったのだった。</span>,<span class='scene-font-katari'>그녀는 생각지도 못하게 아미라와 함께 푸드 파이트 강의를 받게 되었다.</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,<span class='scene-font-place'>ザンクティンゼル</span>を発ち、風に導かれるまま新たな島へと流れ着いた<span>[ジータ]</span>一行。<span>[ジータ]</span>の乗ってきた騎空艇は不時着し、大破してしまうが、そこへ現れたひとりの男が<span>[ジータ]</span>へと助言を与える。
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を飛び立った一同は</span><br><span class='scene-font-katari'>旅の支度を整えるべく、</span><br><span class='scene-font-katari'>近隣の島へと向かっていた。</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>しかし、カタリナの不慣れな操縦に、</span><br><span class='scene-font-katari'>騎空艇は悲鳴と黒煙を上げ、</span><br><span class='scene-font-katari'>急激にその高度を下げていく。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,<span class='scene-font-place'>ザンクティンゼル</span>を発ち、風に導かれるまま新たな島へと流れ着いた<span>[ジータ]</span>一行。<span>[ジータ]</span>の乗ってきた騎空艇は不時着し、大破してしまうが、そこへ現れたひとりの男が<span>[ジータ]</span>へと助言を与える。,<span class='scene-font-place'>장크틴젤</span>을 출발하고、바람이 이끄는 대로 새로운 섬에 도달한 <span>[지타]</span>일행. <span>[지타]</span>일행이 타고 온 기공정은 불시착하는 바람에 대파되어 버리는데、그곳에 나타난 한 남자가 <span>[지타]</span>에게 조언을 준다.
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を飛び立った一同は</span><br><span class='scene-font-katari'>旅の支度を整えるべく、</span><br><span class='scene-font-katari'>近隣の島へと向かっていた。</span>,<span class='scene-font-place'>장그틴젤</span><span class='scene-font-katari'>을 날아오른 일동은</span><br><span class='scene-font-katari'>여행 준비를 갖추기 위해、</span><br><span class='scene-font-katari'>인근의 섬으로 가고 있었다.</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>しかし、カタリナの不慣れな操縦に、</span><br><span class='scene-font-katari'>騎空艇は悲鳴と黒煙を上げ、</span><br><span class='scene-font-katari'>急激にその高度を下げていく。</span>,<span class='scene-font-katari'>그러나 카타리나의 낯선 조종에、</span><br><span class='scene-font-katari'>기공정은 비명과 검은 연기를 내며、</span><br><span class='scene-font-katari'>급격히 고도를 낮춰간다.</span>
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>緑の草原に柔らかな風が遊ぶこの地で</span><br><span class='scene-font-katari'>空の果てへと至る、</span><br><span class='scene-font-katari'>[ジータ]の物語が始まりを告げる。</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,けほっ……<br>み、みんな無事か？<br>ルリアは……？
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ルリア,平気だよ……けほっ。<br>[ジータ]は大丈夫ですか？
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel1_txt,,<span class='scene-font-katari'>なんとか……</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel2_txt,,<span class='scene-font-katari'>立てそうにない……</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ルリア,よかったぁ……<br>すごい揺れだったから、<br>怪我してないか心配で……
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,伊達に修行はしてないぜ！<br>だよなっ！ [ジータ]！
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,なに言ってんだよ、[ジータ]！<br>これくらいで立てなくなるほど、<br>やわな奴じゃないだろ！
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,しっかし……<br>何がどうなったんだ？<br>墜落したのか？ オイラ達。
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,面目ない……<br>騎空艇の操縦が、<br>まさかここまで難しいとは……
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,――おいおいおい、なんだこりゃ？
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>一同が乗ってきた艇を見やると、</span><br><span class='scene-font-katari'>その傍らには</span><br><span class='scene-font-katari'>見知らぬ男が立っていた。</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,ったく、ひでぇことしやがるな……<br>動力部が爆発したのか……？<br>うわっ、竜骨も割れてやがる……
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,これじゃもう、どう修理したって<br>こいつは二度と空には出られねぇぜ？<br>なぁ……アンタ達が乗って来たのか？
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,そうだが……君は？
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,なんだ……アンタ達騎空団なのか？<br>っても、人数を見る限り、<br>駆け出しってとこか……
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,騎空団か……いいかもな！<br>オイラ達で騎空団を、<br>旗揚げしちまうってのも！
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,なぁ、[ジータ]！<br>親父さんも<span class='scene-font-spword'>星の島</span>へ行く前は、<br>騎空団を率いてたって言ってたぜ！
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,はっ……やめとけやめとけ。<br>騎空艇を飛ばすには、<br>特別な技術が必要なんだぞ？
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,仮にも騎空団を名乗るってんなら、<br>操舵士のひとりでも仲間にしてから<br>名乗るこったな。
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>それだけ言い残すと、</span><br><span class='scene-font-katari'>謎の男は[ジータ]の前から</span><br><span class='scene-font-katari'>去って行った。</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,けほっ……<br>み、みんな無事か？<br>ルリアは……？,커헉……<br>전원 무사한가？<br>루리아는……？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ルリア,平気だよ……けほっ。<br>[ジータ]は大丈夫ですか？,괜찮아……케흑.<br>[지타]는 괜찮나요？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel1_txt,,<span class='scene-font-katari'>なんとか……</span>,<span class='scene-font-katari'>어떻게든.....</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel2_txt,,<span class='scene-font-katari'>立てそうにない……</span>,<span class='scene-font-katari'>설 수 없을 것 같아……</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ルリア,よかったぁ……<br>すごい揺れだったから、<br>怪我してないか心配で……,다행이네요……<br>굉장히 흔들렸으니까、<br>다친줄 알았어요……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,伊達に修行はしてないぜ！<br>だよなっ！ [ジータ]！,멋으로 수행을 하고 있는게 아니야！<br>그치！ [지타]！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,なに言ってんだよ、[ジータ]！<br>これくらいで立てなくなるほど、<br>やわな奴じゃないだろ！,무슨 소리야、[지타]！<br>이 정도로 설 수 없을 정도로、<br>약한 놈은 아니잖아！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,しっかし……<br>何がどうなったんだ？<br>墜落したのか？ オイラ達。,그런데……<br>뭐가 어떻게 된거야？<br>추락했나？ 우리들.
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,面目ない……<br>騎空艇の操縦が、<br>まさかここまで難しいとは……,면목없어……<br>기공정의 조종이、<br>설마 이렇게까지 어려울줄이야……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,――おいおいおい、なんだこりゃ？,"――어이, 어이, 이거 뭐야？"
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>一同が乗ってきた艇を見やると、</span><br><span class='scene-font-katari'>その傍らには</span><br><span class='scene-font-katari'>見知らぬ男が立っていた。</span>,<span class='scene-font-katari'>일행이 타고 온 배를 보니、</span><br><span class='scene-font-katari'>그 옆에는</span><br><span class='scene-font-katari'>낯선 남자가 서 있었다.</span>
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,ったく、ひでぇことしやがるな……<br>動力部が爆発したのか……？<br>うわっ、竜骨も割れてやがる……,정말이지、위험한  짓들을 해대는구만……<br>동력부가 폭발한 건가……？<br>우왓 용골도 깨져버렸어……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,これじゃもう、どう修理したって<br>こいつは二度と空には出られねぇぜ？<br>なぁ……アンタ達が乗って来たのか？,이래서는 이제、어떻게 수리해도<br>이놈은 두 번 다시 하늘로 날 수 가 없잖아？<br>이봐……너희가 타고 온거야？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,そうだが……君は？,그렇긴한데...당신은?
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,なんだ……アンタ達騎空団なのか？<br>っても、人数を見る限り、<br>駆け出しってとこか……,뭐야……너희들 기공단인가？<br>그런데、인원수를 보면、<br>이제 막 시작한 참인가……
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,騎空団か……いいかもな！<br>オイラ達で騎空団を、<br>旗揚げしちまうってのも！,기공단이라……좋을지도 몰라！<br>우리들로 기공단을、<br>세우는 것도！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,なぁ、[ジータ]！<br>親父さんも<span class='scene-font-spword'>星の島</span>へ行く前は、<br>騎空団を率いてたって言ってたぜ！,어이、[지타]！<br>아빠도<span class='scene-font-spword'>별의 섬</span>에 가기전에는、<br>기공단을 이끌었다고 말했었어！
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,はっ……やめとけやめとけ。<br>騎空艇を飛ばすには、<br>特別な技術が必要なんだぞ？,헉……그만둬.<br>기공정을 띄우려면、<br>특별한 기술이 필요하다고？
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,？？？,仮にも騎空団を名乗るってんなら、<br>操舵士のひとりでも仲間にしてから<br>名乗るこったな。,만약 기공단이라고 말할거라면、<br>조타자 한 명이라도 동료로 하고 나서<br>말하는 거야.
+Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,<span class='scene-font-katari'>それだけ言い残すと、</span><br><span class='scene-font-katari'>謎の男は[ジータ]の前から</span><br><span class='scene-font-katari'>去って行った。</span>,<span class='scene-font-katari'>그렇게 말을 남기고、</span><br><span class='scene-font-katari'>의문의 사나이는 [지타]앞에서</span><br><span class='scene-font-katari'>떠났다.</span>
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,操舵士か……<br>確かに、空の旅を続けるのなら<br>不可欠な人員だな……
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,ビィ,っていうか、<br>何だったんだ？ あいつ。<br>言うだけ言ってどっか行きやがって……
 Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,カタリナ,さぁな。<br>ともかく、いまは街を目指そう。<br>そこで旅の支度を整えられるはずだ。
