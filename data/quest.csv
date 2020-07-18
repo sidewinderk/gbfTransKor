@@ -1357,14 +1357,14 @@ Japanese,"scene_tutorial01,021",detail,カタリナ,本当に……<br>この島
 Japanese,"scene_tutorial01,021",detail,カタリナ,そこまでしてルリアの力を<br>利用しようというのか！？ 帝国は！,그렇게 까지 해서 루리아의 힘을<br>이용하려고 하는 것인가!? 제국은!
 Japanese,"scene_tutorial01,021",detail,ポンメルン,だからそうだと言っているでしょう。<br>帝国が全空の支配者となるための<br>礎として必要なのですからネェ。,그러니까 그렇다고 말하고 있잖아요.<br>제국이 모든 하늘의 지배자가 되기 위한<br>주춧돌로써 필요하니까 말이죠.
 Japanese,"scene_tutorial01,021",detail,ポンメルン,その研究の一環として、<br>この島にある<br>星晶の祠を探しにきたわけですが……,"그 연구의 일환으로써,<br>이 섬에 있는<br>성정의 사당을 찾으러 온 것입니다만......"
-Japanese,"scene_tutorial01,021",detail,ポンメルン,まさかそれに乗じて脱走を図るなど<br>出鼻をくじかれた気分ですよォ！,설마 그것에 응해서 탈주를 계획하다니<br>出鼻をくじかれた気分ですよォ！
-Japanese,"scene_tutorial01,021",detail,ルリア,カタリナ……<br>ごめんなさい、私がわがままを<br>言ったせいでこんなことに……
-Japanese,"scene_tutorial01,021",detail,カタリナ,ルリア。<br>外の世界を見せると約束したんだ。<br>必ず約束は守ってみせるよ。
-Japanese,"scene_tutorial01,021",detail,ヒドラ,<span class='scene-font-4'>グルルルゥゥ！！</span>
-Japanese,"scene_tutorial01,021",detail,<span class='nickname'></span>,！！
-Japanese,"scene_tutorial01,021",detail,ビィ,オイオイ……<br>やるってのか、アイツと！？
-Japanese,"scene_tutorial01,021",sel1_txt,,<span class='scene-font-katari'>助けなきゃ！</span>
-Japanese,"scene_tutorial01,021",sel2_txt,,<span class='scene-font-katari'>やるしかない！</span>
+Japanese,"scene_tutorial01,021",detail,ポンメルン,まさかそれに乗じて脱走を図るなど<br>出鼻をくじかれた気分ですよォ！,설마 그것에 편승해서 탈주를 계획하다니<br>좌절할 거 같은 기분이겠죠!
+Japanese,"scene_tutorial01,021",detail,ルリア,カタリナ……<br>ごめんなさい、私がわがままを<br>言ったせいでこんなことに……,"카타리나......<br>미안해요, 제가 억지를<br>부린 탓에 이런 일이......"
+Japanese,"scene_tutorial01,021",detail,カタリナ,ルリア。<br>外の世界を見せると約束したんだ。<br>必ず約束は守ってみせるよ。,루리아.<br>바깥 세계를 보여주겠다고 약속했단 말이다.<br>반드시 약속은 지켜내보겠어.
+Japanese,"scene_tutorial01,021",detail,ヒドラ,<span class='scene-font-4'>グルルルゥゥ！！</span>,<span class='scene-font-4'>그르르르!!</span>
+Japanese,"scene_tutorial01,021",detail,<span class='nickname'></span>,！！,!!
+Japanese,"scene_tutorial01,021",detail,ビィ,オイオイ……<br>やるってのか、アイツと！？,"어이어이......<br>붙는다는 거야, 저 녀석이랑!?"
+Japanese,"scene_tutorial01,021",sel1_txt,,<span class='scene-font-katari'>助けなきゃ！</span>,<span class='scene-font-katari'>돕지 않으면!</span>
+Japanese,"scene_tutorial01,021",sel2_txt,,<span class='scene-font-katari'>やるしかない！</span>,<span class='scene-font-katari'>할 수 밖에 없어!</span>
 Japanese,"scene_tutorial01,021",detail,ポンメルン,フン……！<br>どいつもこいつも、現実ってものが<br>見えてないようですネェ……
 Japanese,"scene_tutorial01,021",detail,ポンメルン,<span class='scene-font-4'>ヒドラァァ！</span><br><span class='scene-font-4'>まずはそこのガキからだ！</span>
 Japanese,"scene_tutorial01,021",detail,ポンメルン,<span class='scene-font-4'>血祭りにあげて</span><br><span class='scene-font-4'>差し上げなさいィ！</span>
@@ -8638,26 +8638,26 @@ Japanese,"scene_cp1_q3_s10,131",detail,帝国兵２,閣下の一声があれば�
 Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,<span class='scene-font-4'>――ふざけるなッ！！</span>,<span class='scene-font-4'>――까불지마！！</span>
 Japanese,"scene_cp1_q3_s10,131",detail,フュリアス,あ？ 誰だい？ 君。,하？넌 누구야？
 Japanese,"scene_cp1_q3_s10,131",detail,ルリア,カ、カタリナ！<br>せっかく隠れてたのに……,"""카, 카타리나！<br>모처럼 숨어있었는데……"""
-Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,先ほどから黙って聞いていれば<br><span class='scene-font-4'>……この外道が！！</span>
-Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,帝国の支配への抵抗を理由に、<br>街を滅ぼすなど、<br>許されるわけがないだろう！！
-Japanese,"scene_cp1_q3_s10,131",detail,帝国兵２,こ、こいつら、<br>機密の少女と、<br>それを持ち出した護衛の……！？
-Japanese,"scene_cp1_q3_s10,131",detail,ビィ,ああもう！<br>姐さんの気持ちはわからなくないけど、<br>ここは堪えてほしかったぜ！
-Japanese,"scene_cp1_q3_s10,131",detail,ビィ,逃げるぞ！<br>ルリア！ 姐さん！ [ジータ]！<br>ここで捕まるわけにはいかねぇぜ！
-Japanese,"scene_cp1_q3_s20,132",synopsis,,騎士としてあるべき姿を理解しつつも抑えきれないカタリナの正義感を垣間見つつ、<span>[ジータ]</span>一行は街の者に危機を伝える決意を新たにする。
-Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,――申し訳ない。
-Japanese,"scene_cp1_q3_s20,132",detail,ルリア,もういいよ、カタリナ。<br>あの人達に怒ってたのは、<br>カタリナだけじゃないもん。
-Japanese,"scene_cp1_q3_s20,132",detail,ルリア,むしろ、<br>カタリナが怒ってくれて<br>すっきりした……ね？ [ジータ]。
-Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,あのような非道を目の前にすると、<br>つい熱くなってしまうんだ……
-Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,騎士たるもの、<br>常に冷静であろうとは、<br>思っているのだが……
-Japanese,"scene_cp1_q3_s20,132",detail,ビィ,しかし、<br>とんでもねぇこと聞いちまったな……
-Japanese,"scene_cp1_q3_s20,132",detail,ルリア,ですね……<br>帝国が攻めてくるって、<br>何とかして街の人達に伝えないと……！
-Japanese,"scene_cp1_q3_s20,132",detail,ビィ,だな！<br>まずは追ってきてる帝国の兵士を<br>なんとかしねぇと！
-Japanese,"scene_cp1_q4_s10,141",synopsis,,エルステ帝国の一団と交戦する<span>[ジータ]</span>一行。数の利に押され、<span>[ジータ]</span>達は苦しい戦いを強いられる。しかし、帝国の将軍が高原の騎空艇を破壊しようとしたその時、空を裂く一撃が将軍を貫いた。
-Japanese,"scene_cp1_q4_s10,141",detail,カタリナ,むっ？ こ、ここは……
-Japanese,"scene_cp1_q4_s10,141",detail,ルリア,逃げ回ってるうちに、<br>もとの騎空艇のそばまで、<br>戻って来ちゃった……
-Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,あれ！？<br>なんだい、<br>戻ってきてくれたの？
-Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,嬉しいなぁ！<br>君達ってウチの国から、<br>指名手配を受けてるんだってね！
-Japanese,"scene_cp1_q4_s10,141",detail,？？？,将軍サマ、ご機嫌だねぇ～<br>いいねぇ～<br>こういう時の彼は嫌いじゃないなぁ～
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,先ほどから黙って聞いていれば<br><span class='scene-font-4'>……この外道が！！</span>,아까부터 잠자코 듣고 있자니<br><span class='scene-font-4'>……이 외도가！！</span>
+Japanese,"scene_cp1_q3_s10,131",detail,カタリナ,帝国の支配への抵抗を理由に、<br>街を滅ぼすなど、<br>許されるわけがないだろう！！,제국의 지배에 대한 저항을 이유로<br>마을을 멸망시켜버리다니<br>용서될 리가 없잖아！！
+Japanese,"scene_cp1_q3_s10,131",detail,帝国兵２,こ、こいつら、<br>機密の少女と、<br>それを持ち出した護衛の……！？,이 녀석들<br>기밀의 소녀와<br>그것을 탈출시킨 호위……！？
+Japanese,"scene_cp1_q3_s10,131",detail,ビィ,ああもう！<br>姐さんの気持ちはわからなくないけど、<br>ここは堪えてほしかったぜ！,아아 정말！<br>누님의 마음은 알 수 없지만<br>여기서는 참았으면 좋겠어！
+Japanese,"scene_cp1_q3_s10,131",detail,ビィ,逃げるぞ！<br>ルリア！ 姐さん！ [ジータ]！<br>ここで捕まるわけにはいかねぇぜ！,도망치자！<br>루리아！누님！ [지타]！<br>여기서 잡힐 수는 없지！
+Japanese,"scene_cp1_q3_s20,132",synopsis,,騎士としてあるべき姿を理解しつつも抑えきれないカタリナの正義感を垣間見つつ、<span>[ジータ]</span>一行は街の者に危機を伝える決意を新たにする。,기사로서의 모습을 이해하면서도 억제할 수 없는 카타리나의 정의감을 엿보았던 <span>[지타]</span>일행은 마을 사람들에게 위기를 전하는 결의를 다진다.
+Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,――申し訳ない。,――정말 미안하다.
+Japanese,"scene_cp1_q3_s20,132",detail,ルリア,もういいよ、カタリナ。<br>あの人達に怒ってたのは、<br>カタリナだけじゃないもん。,이제 됐어、카타리나.<br>그 사람들한태 화난 건<br>카타리나뿐만이 아니야
+Japanese,"scene_cp1_q3_s20,132",detail,ルリア,むしろ、<br>カタリナが怒ってくれて<br>すっきりした……ね？ [ジータ]。,오히려<br>카타리나가 화내줘서<br>시원해졌어……그쵸？ [지타]
+Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,あのような非道を目の前にすると、<br>つい熱くなってしまうんだ……,그런 심한 놈을 눈 앞에 두면<br>결국 열이 나버린다……
+Japanese,"scene_cp1_q3_s20,132",detail,カタリナ,騎士たるもの、<br>常に冷静であろうとは、<br>思っているのだが……,기사인 자<br>항상 냉정해야 한다고<br>생각하고 있는데……
+Japanese,"scene_cp1_q3_s20,132",detail,ビィ,しかし、<br>とんでもねぇこと聞いちまったな……,그건 그렇고<br>말도 안되는 소리를 듣고 말았네……
+Japanese,"scene_cp1_q3_s20,132",detail,ルリア,ですね……<br>帝国が攻めてくるって、<br>何とかして街の人達に伝えないと……！,네……<br>제국이 쳐들어온다는 것은<br>어떻게든 마을 사람들에게 전해야……！
+Japanese,"scene_cp1_q3_s20,132",detail,ビィ,だな！<br>まずは追ってきてる帝国の兵士を<br>なんとかしねぇと！,그렇겠지！<br>우선은 따라오고 있는 제국 병사를 어떻게든 해야지！
+Japanese,"scene_cp1_q4_s10,141",synopsis,,エルステ帝国の一団と交戦する<span>[ジータ]</span>一行。数の利に押され、<span>[ジータ]</span>達は苦しい戦いを強いられる。しかし、帝国の将軍が高原の騎空艇を破壊しようとしたその時、空を裂く一撃が将軍を貫いた。,"""에르스테 제국의 일단과 교전하는<span>[지타]</span>일행. 숫자에 밀려 <span>[지타]</span>일행은 힘든 싸움을 하게된다. 그러나, 제국의 장군이 고원의 비공정을 파괴하려고 한 그 때, 하늘을 찢는 일격이 장군을 멈추게한다."""
+Japanese,"scene_cp1_q4_s10,141",detail,カタリナ,むっ？ こ、ここは……,"""뭣？이, 이곳은..."""
+Japanese,"scene_cp1_q4_s10,141",detail,ルリア,逃げ回ってるうちに、<br>もとの騎空艇のそばまで、<br>戻って来ちゃった……,도망치고있는 도중에<br>원래의 비공정 근처까지<br>돌아와 버렸어……
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,あれ！？<br>なんだい、<br>戻ってきてくれたの？,어라！？<br>어째서<br>돌아왔지？
+Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,嬉しいなぁ！<br>君達ってウチの国から、<br>指名手配を受けてるんだってね！,기쁜데！<br>너희들말야 우리 제국이<br>지명수배 내렸다고하는데！
+Japanese,"scene_cp1_q4_s10,141",detail,？？？,将軍サマ、ご機嫌だねぇ～<br>いいねぇ～<br>こういう時の彼は嫌いじゃないなぁ～,将軍サマ、ご機嫌だねぇ～<br>いいねぇ～<br>こういう時の彼は嫌いじゃないなぁ～
 Japanese,"scene_cp1_q4_s10,141",detail,？？？,黙れ……立場をわきまえろ。
 Japanese,"scene_cp1_q4_s10,141",detail,ビィ,くそっ……しつこい連中だぜ！
 Japanese,"scene_cp1_q4_s10,141",detail,フュリアス,ねぇねぇねぇ！<br>なんで戻ってきたの？
