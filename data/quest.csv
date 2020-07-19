@@ -4856,7 +4856,7 @@ Japanese,scene_evt190627_cp0_q1_s10,synopsis,,夏の初め、[ジータ]達か�
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>新緑の葉が生い茂り、</span><br><span class='scene-font-katari'>風が暑気を孕んできた頃のこと……</span>,"<span class='scene-font-katari'>푸른 초목이 우거지고, 바람이 열기를 띠기 시작했을 즈음의 일이었다.</span>"
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>とある島ではツリーハウスを建て、</span><br><span class='scene-font-katari'>樹上の生活を始めた少女達がいた。</span>,<span class='scene-font-katari'>어떤 섬에 트리 하우스를 세우고 나무 위에서의 생활을 시작한 소녀들이 있었다.</span>
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>彼女達は</span><span class='scene-font-spword'>『天司』</span><span class='scene-font-katari'>という、</span><br><span class='scene-font-katari'>約二千年前に造られた星晶獣だった。</span>,"<span class='scene-font-katari'>그녀들은 </span><span class='scene-font-spword'>「천사」</span><span class='scene-font-katari'>로, 약 2천년 전에 만들어진 성정수였다.</span>"
-Japanese,scene_evt190627_cp0_q1_s10,detail,ハールート,"到着っと！<br>さっきので今日の配達は終わり？,到着っと！<br>さっきので今日の配達は終わり？",도착이야! 방금 그걸로 오늘 배달은 끝인가?
+Japanese,scene_evt190627_cp0_q1_s10,detail,ハールート,到着っと！<br>さっきので今日の配達は終わり？,도착이야! 방금 그걸로 오늘 배달은 끝인가?
 Japanese,scene_evt190627_cp0_q1_s10,detail,マールート,ばっちり♪<br>スピーディに進んで良かったわ。,완벽해! 스피디하게 끝내서 다행이야.
 Japanese,scene_evt190627_cp0_q1_s10,detail,ハールート,集荷の順番を変えて正解だったよ。<br>そのぶん重い荷物も増えたけどね。,물건의 집하 순서를 바꾼 게 정답이었어. 그만큼 무거운 짐도 늘긴 했지만.
 Japanese,scene_evt190627_cp0_q1_s10,detail,マールート,評判がいい証よ。<br>大事な物を運ばせて貰えるんだもの。,평가가 좋다는 증거야. 소중한 물건을 우리한테 맡겨 주신다는 뜻이잖아.
@@ -4939,24 +4939,24 @@ Japanese,scene_evt190627_cp0_q1_s10,detail,サリエル,がんばろう……<br
 Japanese,scene_evt190627_cp0_q1_s10,detail,？？？,よぉ！<br>ノッポのサリィちゃん。<br>ちょっと酌を頼めるかい？,이봐! 꺽다리 사리쨩. 술 좀 따라줄 수 있어?
 Japanese,scene_evt190627_cp0_q1_s10,detail,サリエル,…………？,…………？
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>更に一方その頃、</span><br><span class='scene-font-katari'>沖に浮かぶ豪華な小型船には……</span>,"<span class='scene-font-katari'>한편 또 다른 곳, 바다에 떠 있는 화려한 소형선에서는...</span>"
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,う～ん！<br>どこを見ても一面の青……,음! 어딜 봐도 한없이 펼쳐진 블루...
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,本当に素敵！<br>人生で一番最高のバカンスだわ！,정말 멋져! 내 인생 최고의 바캉스야.
-Japanese,scene_evt190627_cp0_q1_s10,detail,青年,喜んで貰えて良かったよ。<br>僕にとっても最高のバカンスだ。,즐겁다니 다행이군. 내게도 최고의 바캉스야.
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,本当に？<br>去年も来たって言ってたわよね？,진짜? 작년에도 왔다고 하지 않았어?
-Japanese,scene_evt190627_cp0_q1_s10,detail,青年,ははは……<br>男ひとりの船は味気ないものさ。,하하하.. 남자 혼자 배에 있어봤자 무슨 재미가 있겠어.
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,男ひとりねえ。<br>キャビンに女物の香水があったけど？,남자 혼자라고? 캐빈에 여자용 향수가 있던데?
-Japanese,scene_evt190627_cp0_q1_s10,detail,青年,おっと！<br>酔っ払って足元がフラフラに……,아! 너무 마셨더니 제대로 못 걷겠어...
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,あ、ちょっと！<br>ごまかすつもりね？,잠깐! 얼버무리려고 그러지?
-Japanese,scene_evt190627_cp0_q1_s10,detail,青年,ははは！<br>さぁ君もこっちにおいで！,"하하하! 자, 너도 빨리 들어와!"
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,うん……<br>でもなんだか怖いわ。<br>沖で泳いだ事なんてないもの。,좋아... 그런데 좀 무섭네. 이런 바다 한가운데에서 수영하는 건 처음이야.
-Japanese,scene_evt190627_cp0_q1_s10,detail,青年,平気さ。<br>僕に掴まって一緒に泳ごう──,괜찮아. 날 붙잡고 같이 수영하면...
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,あ、ちょっと待ってよ！<br>ひとりで行かないでよ！,"아, 잠깐 기다려! 혼자 가지 마!"
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,う～ん！<br>どこを見ても一面の青……,Mmmh! Blue as far as the eye can see!<br>(음! 어딜 봐도 한없이 펼쳐진 블루...)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,本当に素敵！<br>人生で一番最高のバカンスだわ！,It's so gorgeous! This has to be the best vacation of my life.<br>(정말 멋져! 내 인생 최고의 바캉스야.)
+Japanese,scene_evt190627_cp0_q1_s10,detail,青年,喜んで貰えて良かったよ。<br>僕にとっても最高のバカンスだ。,Glad you're enjoying it. I couldn't imagine a better vacation either.<br>(즐겁다니 다행이군. 내게도 최고의 바캉스야.)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,本当に？<br>去年も来たって言ってたわよね？,Really? But didn't you say you came last year?<br>(진짜? 작년에도 왔다고 하지 않았어?)
+Japanese,scene_evt190627_cp0_q1_s10,detail,青年,ははは……<br>男ひとりの船は味気ないものさ。,Hahaha... A man all alone on a ship is no kinda vacation.<br>(하하하.. 남자 혼자 배에 있어봤자 무슨 재미가 있겠어.)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,男ひとりねえ。<br>キャビンに女物の香水があったけど？,Alone? But I found a bottle of ladies' perfume in the cabin.<br>(남자 혼자라고? 캐빈에 여자용 향수가 있던데?)
+Japanese,scene_evt190627_cp0_q1_s10,detail,青年,おっと！<br>酔っ払って足元がフラフラに……,Uh-oh! Must've had a little too much to drink! Ican barely walk...<br>(아! 너무 마셨더니 제대로 못 걷겠어...)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,あ、ちょっと！<br>ごまかすつもりね？,"Oh, come on! Don't play dumb!<br>(잠깐! 얼버무리려고 그러지?)"
+Japanese,scene_evt190627_cp0_q1_s10,detail,青年,ははは！<br>さぁ君もこっちにおいで！,"Hahaha! Come on, jump in!<br>(하하하! 자, 너도 빨리 들어와!)"
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,うん……<br>でもなんだか怖いわ。<br>沖で泳いだ事なんてないもの。,All right... But this is kind of scary. I've never swum this far from land.<br>(좋아... 그런데 좀 무섭네. 이런 바다 한가운데에서 수영하는 건 처음이야.)
+Japanese,scene_evt190627_cp0_q1_s10,detail,青年,平気さ。<br>僕に掴まって一緒に泳ごう──,You're fine. Just hold on to me and we'll swim together.<br>(괜찮아. 날 붙잡고 같이 수영하면...)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,あ、ちょっと待ってよ！<br>ひとりで行かないでよ！,"Ah, wait up! Don't leave me alone!<br>(아, 잠깐 기다려! 혼자 가지 마!)"
 Japanese,scene_evt190627_cp0_q1_s10,detail,青年,…………,…………
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,ねえ、ねえってば！,"저기, 대답 좀 해!"
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,ねえ、ねえってば！,"Hey! Answer me!<br>(저기, 대답 좀 해!)"
 Japanese,scene_evt190627_cp0_q1_s10,detail,青年,…………,…………
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,何……？<br>なんなのこの……ねえ……,뭐... 뭐야 이건... 응...?
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,まさか……,말도 안 돼...
-Japanese,scene_evt190627_cp0_q1_s10,detail,美女,<span class='scene-font-4'>きゃあぁぁぁ！？</apan>,<span class='scene-font-4'>꺄아아아아아！？</apan>
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,何……？<br>なんなのこの……ねえ……,What.... What is this...<br>(뭐... 뭐야 이건... 응...?)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,まさか……,It can't be...<br>(말도 안 돼...)
+Japanese,scene_evt190627_cp0_q1_s10,detail,美女,<span class='scene-font-4'>きゃあぁぁぁ！？</span>,<span class='scene-font-4'>Aaaaah!</span> <br> <span class='scene-font-4'>꺄아아아아아！？</span>
 English,scene_evt190627_cp0_q1_s10,synopsis,,"Early in the summer, [Djeeta] and the crew invite Halluel, Malluel, Azrael, and Israfel on vacation. At the same time, Sariel is laboring in a basement bar to repay his debts. Meanwhile, an ominous specter lurks just off the coast."
 English,scene_evt190627_cp0_q1_s10,detail,,The first shoots of pale greenery have matured into a verdant canopy. A summery breeze rustles through.
 English,scene_evt190627_cp0_q1_s10,detail,,"High above the forest floor of this island, a group of women have built a tree house, which serves as their home."
@@ -5372,7 +5372,7 @@ English,"scene_evt190627_cp4_q4_s10,7428441",detail,Azrael,Ah! There are tons of
 English,"scene_evt190627_cp4_q4_s10,7428441",detail,Shark,Sharrrk!
 English,"scene_evt190627_cp4_q4_s10,7428441",detail,,"In the blink of an eye, countless sharks come flying in from the ocean on newly sprouted wings."
 English,"scene_evt190627_cp4_q4_s10,7428441",detail,,The party rushes into the chaos.
-Japanese,"scene_evt190627_cp1_q1_s10,7428111",synopsis,,ある日、サンダルフォンの将来的な喫茶店の経営修行のため、[ジータ]達は<span class='scene-font-place'>アウギュステ</span>の浜辺で屋台を出していた。客足が少ない中、一行が呼び込みをして屋台経営に励んでいると、水着姿のルシオが様子を見に現れる。サンダルフォンが「その顔で水着など不敬だ」とルシオに憤っていると、突如「サメが出たぞ！」という絶叫が聞こえてくるのだった。,"어느날, 산달폰이 카페를 운영하기위한 수행을 위해, [지타]]일행은 <span class='scene-font-place'>아우규스테</span> 근안에서 노점을 열고있었다. 손님이 적은 가운데, 일행이 홍보를 하여 노점 경영에 힘쓰고 있던 중, 수영복차림의 루시우가 상황을 모습을 보인다. 산달폰은 ""그 얼굴로 수영복이라니 불경하다""고 루시우에게 화를 내는데, 돌연 ""상어가 나타났다!""라는 절규가 들려온 것이었다."
+Japanese,"scene_evt190627_cp1_q1_s10,7428111",synopsis,,ある日、サンダルフォンの将来的な喫茶店の経営修行のため、[ジータ]達は<span class='scene-font-place'>アウギュステ</span>の浜辺で屋台を出していた。客足が少ない中、一行が呼び込みをして屋台経営に励んでいると、水着姿のルシオが様子を見に現れる。サンダルフォンが「その顔で水着など不敬だ」とルシオに憤っていると、突如「サメが出たぞ！」という絶叫が聞こえてくるのだった。,"어느날, 산달폰이 카페를 운영하기위한 수행을 위해, [지타]일행은 <span class='scene-font-place'>아우규스테</span> 근안에서 노점을 열고있었다. 손님이 적은 가운데, 일행이 홍보를 하여 노점 경영에 힘쓰고 있던 중, 수영복차림의 루시우가 상황을 모습을 보인다. 산달폰은 ""그 얼굴로 수영복이라니 불경하다""고 루시우에게 화를 내는데, 돌연 ""상어가 나타났다!""라는 절규가 들려온 것이었다."
 Japanese,"scene_evt190627_cp1_q1_s10,7428111",detail,,<span class='scene-font-place'>アウギュステ列島</span><span class='scene-font-katari'>──</span><br><span class='scene-font-katari'>そこは世界有数の保養地。</span>,<span class='scene-font-place'>아우규스테 열도.</span><span class='scene-font-katari'> 그곳은 세계에서도 유명한 휴양지다. </span>
 Japanese,"scene_evt190627_cp1_q1_s10,7428111",detail,,<span class='scene-font-katari'>その浜辺は今、</span><br><span class='scene-font-katari'>日常の殻を脱いだ人々で賑わい、</span><br><span class='scene-font-katari'>明るい解放感に満ち満ちていた。</span>,<span class='scene-font-katari'>그 해변은 지금 일상을 벗어던진 사람들로 붐비며 밝은 해방감으로 가득 차 있었다.</span>
 Japanese,"scene_evt190627_cp1_q1_s10,7428111",detail,,<span class='scene-font-katari'>バカンスシーズンの到来である。</span>,<span class='scene-font-katari'>바캉스 시즌이 온 것이다.</span>
