@@ -286,11 +286,8 @@ function PushCSV_StoryText(request) {
     }
 
     sceneFullInfo.some(function (scene) {
-        var sceneCodeReserved = scene.SceneCode
-            .split('"')
-            .join('')
-            .split(',')[0];
-        if (sceneCodeReserved == sceneCode) {
+        let curSceneCode = SceneCodeFromURL();
+        if (scene.SceneCode.includes(curSceneCode)) {
             if (sceneLanguage == scene.Language) {
                 skip = true;
                 return true;
