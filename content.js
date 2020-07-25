@@ -291,7 +291,7 @@ function PushCSV_BattleText(request) {
             if (battleText.lose_type.lose_escape_text == item.Origin)
                 skip = true;
         }
-        if (battleText.navi_information) {
+        if (battleText.navi_information[0]) {
             if (battleText.navi_information[0].text == item.Origin)
                 skip = true;
         }
@@ -303,7 +303,13 @@ function PushCSV_BattleText(request) {
     if (battleText.battle_condition) {
         battleFullInfo.push({
             Type: 'condition_win',
-            Name: '"' + battleText.battle_condition.title + '"',
+            Name: '',
+            Origin: '"' + battleText.battle_condition.title + '"'
+        });
+
+        battleFullInfo.push({
+            Type: 'condition_win',
+            Name: '',
             Origin: '"' + battleText.battle_condition.body + '"'
         });
     }
@@ -1651,6 +1657,8 @@ async function InitList() {
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
+    battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
+
 
     // Main Observers
     if (ObserverList.length < 1) {
@@ -1695,12 +1703,14 @@ function translate(stext, jsonFile) {
             }
         }
     });
-    if (transText.length > 0) {
-        PrintLog(`Send:${transText}`);
-        return transText;
-    } else {
-        PrintLog('no translation');
-        return '';
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
     }
 }
 
@@ -1787,13 +1797,53 @@ function translate_StoryText(stext, jsonFile) {
         }
     }
 
-    if (transText.length > 0) {
-        PrintLog(`Send:${transText}`);
-        return transText;
-    } else {
-        PrintLog('no translation');
-        return '';
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
     }
+}
+
+function translate_BattleText(stext, jsonFile) {
+    var transText = '';
+    stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
+    stext = stext.split('"').join("'");
+    stext = stext.replace(/&nbsp;/g, ' ');
+    stext = stext.replace(/\s+/g, " ");
+
+    jsonFile.some(function (item) {
+        if (item.Origin) {
+            item.Origin = item.Origin.replace(/(\r\n|\n|\r)/gm, '').trim();
+            item.Origin = item.Origin.split('"').join("'");
+            item.Origin = item.Origin.replace(/&nbsp;/g, ' ');
+            item.Origin = item.Origin.replace(/\s+/g, " ");
+
+
+            if (item.Korean) {
+                if (item.Origin.length == stext.length) {
+                    if (item.Origin == stext) {
+                        transText = item.Korean;
+                        return true;
+                    }
+                }
+            }
+        }
+    });
+
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
+    }
+
 }
 
 function GetTranslatedImageURL(stext, jsonFile) {
@@ -1921,8 +1971,10 @@ function GetTranslatedText(node, csv) {
                 PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             // !!! Execute Translate !!!
-            if (transMode)
+            if (transMode) {
                 translatedText = translate(textInput, csv);
+                if (!translatedText) return;
+            }
             if (userName) {
                 if (sex == 0) {
                     if (translatedText.includes(generalConfig.defaultTransNameMale))
@@ -1934,26 +1986,28 @@ function GetTranslatedText(node, csv) {
             }
 
             PrintLog('traslated text: ' + translatedText);
-            if (translatedText.length > 0) {
-                // When it founds the translated text
-                if (number.length > 0) {
-                    // If it contains number("*"), recover it from the saved number
-                    for (var i = 0; i < number.length; i++) {
-                        translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
+            if (translatedText) {
+                if (translatedText.length > 0) {
+                    // When it founds the translated text
+                    if (number.length > 0) {
+                        // If it contains number("*"), recover it from the saved number
+                        for (var i = 0; i < number.length; i++) {
+                            translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
+                        }
                     }
-                }
-                PrintLog(`Take:${translatedText}`);
-                if (computedStyleCheck && computedStyleCheck != 'none') {
-                    if (!node.className.includes('-translated')) {
-                        var style = document.createElement('style');
-                        style.type = 'text/css';
-                        var classNames = node.className.replace(' ', '.');
-                        style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
-                        document.head.appendChild(style);
-                        node.className += ' ' + node.className + '-translated';
+                    PrintLog(`Take:${translatedText}`);
+                    if (computedStyleCheck && computedStyleCheck != 'none') {
+                        if (!node.className.includes('-translated')) {
+                            var style = document.createElement('style');
+                            style.type = 'text/css';
+                            var classNames = node.className.replace(' ', '.');
+                            style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
+                            document.head.appendChild(style);
+                            node.className += ' ' + node.className + '-translated';
+                        }
+                    } else {
+                        node.innerHTML = translatedText;
                     }
-                } else {
-                    node.innerHTML = translatedText;
                 }
             }
         }
@@ -1970,6 +2024,8 @@ function GetTranslatedStoryText(node, csv) {
 
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
         translatedText = translate_StoryText(textInput, csv);
+        if (!translatedText) return;
+
         if (translatedText.length > 0) {
             if (sex == 0) {
                 if (translatedText.includes(generalConfig.defaultTransNameMale))
@@ -1992,6 +2048,32 @@ function GetTranslatedStoryText(node, csv) {
                 if (textContents.innerHTML == '') translatedText = '';
                 textContents.innerHTML = translatedText;
             }
+        }
+    }
+}
+
+function GetTranslatedBattleText(node, csv) {
+    if (node) {
+        if (node.className.includes('prt-battle-condition')) {
+            var titleNode = node.children[0].children[0];
+            var bodyNode = node.children[0].children[1];
+
+            var translatedText = '';
+            if (!node.className.includes('is-no-title')) {
+                translatedText = translate_BattleText(titleNode.innerHTML, csv);
+                if (!translatedText || translatedText.length == 0) return;
+                titleNode.innerHTML = translatedText;
+            }
+            translatedText = translate_BattleText(bodyNode.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            bodyNode.innerHTML = translatedText;
+        } else if (node.className.includes('prt-navi')) {
+            var adviceNode = node.children[1];
+            var translatedText = '';
+
+            translatedText = translate_BattleText(adviceNode.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            adviceNode.innerHTML = translatedText;
         }
     }
 }
@@ -2216,6 +2298,7 @@ var archiveObserver = new MutationObserver(function (mutations) {
                 !mutation.target.className.includes('txt-character-name')
             )
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+
         }
     });
     ObserverArchive();
@@ -2263,6 +2346,7 @@ var BattleObserver = new MutationObserver(function (mutations) {
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
         // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
 
+        GetTranslatedBattleText(mutation.target, battleJson);
     });
     ObserverBattle();
 });
@@ -2323,6 +2407,7 @@ async function ObserverArchive() {
         ObserveSceneText();
         ObserverStorySelectTexts();
     }
+
     archiveObserver.observe(oText, config);
 }
 
@@ -2419,7 +2504,7 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo_btn = document.querySelectorAll('[class^="prt-sub-command"]');
+        var battleInfo_btn = document.querySelectorAll('[class^="prt-command"]');
         if (battleInfo_btn) {
             walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
@@ -2435,6 +2520,18 @@ async function ObserverBattle() {
         var popDIV = document.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
+        }
+        var battleConditionInfo = document.querySelectorAll('[class^="prt-battle-condition"]');
+        if (battleConditionInfo) {
+            battleConditionInfo.forEach(bInfo => {
+                BattleObserver.observe(bInfo, config_simple);
+            });
+        }
+        var battleNavi = document.querySelectorAll('[class^="prt-navi btn-scene-next"]');
+        if (battleNavi) {
+            battleNavi.forEach(bInfo => {
+                BattleObserver.observe(bInfo, config_simple);
+            });
         }
     }
 }
