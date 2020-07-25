@@ -25,6 +25,7 @@ var userName = '';
 
 
 var sceneFullInfo = [];
+var battleFullInfo = [];
 //https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
 var cNames = [];
 var miscs = [];
@@ -43,6 +44,16 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         });
         window.location.reload();
     }
+    if (request.data == 'clearBattle') {
+        battleFullInfo = [];
+        chrome.storage.local.set({
+            battleFullInfo: battleFullInfo
+        });
+        window.location.reload();
+    }
+    if (request.data == 'battle') {
+        PushCSV_BattleText(request);
+    }
     if (request.data == 'scenes') {
         PushCSV_StoryText(request);
     }
@@ -51,6 +62,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
             RemoveTranslatedText();
         chrome.storage.local.set({
             sceneFullInfo: sceneFullInfo,
+            battleFullInfo: battleFullInfo,
             nTEXT: cNames,
             mTEXT: miscs
         });
@@ -75,10 +87,12 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     }
     if (request.data == 'refresh') {
         sceneFullInfo = [];
+        battleFullInfo = [];
         cNames = [];
         miscs = [];
         chrome.storage.local.set({
             sceneFullInfo: sceneFullInfo,
+            battleFullInfo: battleFullInfo,
             nTEXT: cNames,
             mTEXT: miscs
         });
@@ -264,6 +278,65 @@ function CheckDuplicate(text, array) {
     return result;
 }
 
+function PushCSV_BattleText(request) {
+    var skip = false;
+    var battleText = request.battleText;
+
+    battleFullInfo.some(function (item) {
+        if (battleText.battle_condition) {
+            if ((battleText.battle_condition.body == item.Origin))
+                skip = true;
+        }
+        if (battleText.lose_type) {
+            if (battleText.lose_type.lose_escape_text == item.Origin)
+                skip = true;
+        }
+        if (battleText.navi_information) {
+            if (battleText.navi_information[0].text == item.Origin)
+                skip = true;
+        }
+        if (skip) return true;
+    });
+
+    if (skip) return;
+
+    if (battleText.battle_condition) {
+        battleFullInfo.push({
+            Type: 'condition_win',
+            Name: '"' + battleText.battle_condition.title + '"',
+            Origin: '"' + battleText.battle_condition.body + '"'
+        });
+    }
+
+    if (battleText.lose_type) {
+        battleFullInfo.push({
+            Type: 'condition_lose',
+            Name: '',
+            Origin: '"' + battleText.lose_type.lose_escape_text + '"'
+        });
+    }
+
+    for (var i = 0; i < battleText.navi_information.length; i++) {
+        let obj = battleText.navi_information[i];
+        if (obj.text != undefined) {
+            battleFullInfo.push({
+                Type: 'text_jp',
+                Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                Origin: '"' + obj.text + '"'
+            });
+            battleFullInfo.push({
+                Type: 'text_en',
+                Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                Origin: '"' + obj.text_en + '"'
+            });
+        }
+    }
+
+    chrome.storage.local.set({
+        battleFullInfo: battleFullInfo
+    });
+}
+
 function PushCSV_StoryText(request) {
     if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
 
@@ -277,7 +350,7 @@ function PushCSV_StoryText(request) {
             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
     }
     // For pop-up status icon
-    if(sceneCode != tempSceneCode){
+    if (sceneCode != tempSceneCode) {
         tempSceneCode = sceneCode;
         chrome.storage.local.set({
             sceneCodeFull: sceneCode,
@@ -1524,6 +1597,7 @@ function readChromeOption(key) {
 }
 async function InitList() {
     var chromeOptions = await readChromeOption([
+        'battleFullInfo',
         'sceneFullInfo',
         'nTEXT',
         'mTEXT',
@@ -1539,6 +1613,8 @@ async function InitList() {
     ]);
     if (chromeOptions.sceneFullInfo)
         sceneFullInfo = chromeOptions.sceneFullInfo;
+    if (chromeOptions.battleFullInfo)
+        battleFullInfo = chromeOptions.battleFullInfo;
     if (chromeOptions.nTEXT)
         cNames = chromeOptions.nTEXT;
     if (chromeOptions.mTEXT)
@@ -2059,15 +2135,14 @@ function IsSceneCodeInDB(sceneCodeInput) {
             if (sceneCodeInput.length == item.SceneCode.length) {
                 if (String(sceneCodeInput) == String(item.SceneCode)) {
                     if (item.Korean) {
-                        if (item.Korean.length > 0){
+                        if (item.Korean.length > 0) {
                             checkResult = 2;
                             return;
-                        }
-                        else {
+                        } else {
                             checkResult = 1;
                             return
                         }
-                    } 
+                    }
                 }
             }
         }
@@ -2120,7 +2195,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
                     if (nameNode.innerText != '') {
                         GetTranslatedText(mutation.target.children[0].children[0], nameJson);
                         GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
-                        if(document.getElementsByClassName('txt-character-name')[0].children[0].hasChildNodes())
+                        if (document.getElementsByClassName('txt-character-name')[0].children[0].hasChildNodes())
                             GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0].children[0], nameJson);
                     }
                 }
@@ -2135,7 +2210,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if(mutation.target){
+        if (mutation.target) {
             if (
                 !mutation.target.className.includes('txt-message') &&
                 !mutation.target.className.includes('txt-character-name')
@@ -2187,6 +2262,7 @@ var BattleObserver = new MutationObserver(function (mutations) {
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
         // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
+
     });
     ObserverBattle();
 });

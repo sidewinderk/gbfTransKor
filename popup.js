@@ -44,25 +44,82 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         }
     });
-    let getNameBtn = document.getElementById('getName');
-    let copyNameBtn = document.getElementById('copyName');
-    let clearNameBtn = document.getElementById('cacheClearName');
-    let downNameBtn = document.getElementById('downName');
-    let nameout = document.getElementById('namecheck');
+    var getNameBtn = document.getElementById('getName');
+    var copyNameBtn = document.getElementById('copyName');
+    var clearNameBtn = document.getElementById('cacheClearName');
+    var downNameBtn = document.getElementById('downName');
+    var nameout = document.getElementById('namecheck');
 
-    let getMiscBtn = document.getElementById('getMisc');
-    let copyMiscBtn = document.getElementById('copyMisc');
-    let clearMiscBtn = document.getElementById('cacheClearMisc');
-    let downMiscBtn = document.getElementById('downMisc');
-    let othersout = document.getElementById('otherscheck');
+    var getBattleBtn = document.getElementById('getBattle');
+    var copyBattleBtn = document.getElementById('copyBattle');
+    var clearBattleBtn = document.getElementById('clearBattle');
+    var downBattleBtn = document.getElementById('downBattle');
+    var BattleOut = document.getElementById('battleText');
 
-    let updateBtn = document.getElementById('update');
+    var getMiscBtn = document.getElementById('getMisc');
+    var copyMiscBtn = document.getElementById('copyMisc');
+    var clearMiscBtn = document.getElementById('cacheClearMisc');
+    var downMiscBtn = document.getElementById('downMisc');
+    var othersout = document.getElementById('otherscheck');
 
-    let getScenesBtn = document.getElementById('getScenes');
-    let ScenesOut = document.getElementById('Scenes');
-    let clearScenes = document.getElementById('clearScenes');
-    let downScenes = document.getElementById('downScenes');
-    let copyScenes = document.getElementById('copyScenes');
+    var updateBtn = document.getElementById('update');
+
+    var getScenesBtn = document.getElementById('getScenes');
+    var ScenesOut = document.getElementById('Scenes');
+    var clearScenes = document.getElementById('clearScenes');
+    var downScenes = document.getElementById('downScenes');
+    var copyScenes = document.getElementById('copyScenes');
+
+    getBattleBtn.onclick = function(element) {
+        chrome.storage.local.get(['battleFullInfo'], function (result) {
+            if(!result.battleFullInfo) return;
+
+            var text = 'Type,Name,Origin,Korean\n';
+            result.battleFullInfo.forEach(function (battle) {
+                text = text + battle.Type + ',';
+                text = text + battle.Name + ',';
+                text = text + battle.Origin + ',\n';
+            });
+
+            BattleOut.value = text;
+        });
+    }
+
+    clearBattleBtn.onclick = function (element) {
+        chrome.tabs.query({
+                active: true,
+                lastFocusedWindow: true
+            },
+            function (tabs) {
+                chrome.tabs.sendMessage(tabs[0].id, {
+                    data: 'clearBattle',
+                    text: ''
+                });
+            }
+        );
+        BattleOut.value = '';
+    };
+
+    copyBattleBtn.onclick = function (element) {
+        BattleOut.select();
+        BattleOut.setSelectionRange(0, 1e8);
+        document.execCommand('copy');
+    };
+
+    downBattleBtn.onclick = function (element) {
+        var result = confirm('Download battle text csv file?');
+        if (result) {
+            var a = document.createElement('a');
+            with(a) {
+                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(BattleOut.value);
+                download = 'battle.csv';
+            }
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+    };
+
 
     copyScenes.onclick = function (element) {
         ScenesOut.select();
@@ -90,7 +147,6 @@ document.addEventListener('DOMContentLoaded', function () {
             var text = 'Language,SceneCode,Type,Name,Origin,Korean\n';
 
             result.sceneFullInfo.forEach(function (scene) {
-                console.log(scene);
                 text = text + scene.Language + ',';
                 text = text + scene.SceneCode + ',';
                 text = text + scene.Type + ',';

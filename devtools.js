@@ -29,7 +29,6 @@ var requestListener = async function (req) {
 							//case 2 : scene_chr486_ep1_s10?_=1590417179118&t=1590417760611&uid=25963971
 							sceneCode = sceneCode.split('?')[0];
 						}
-						console.log('scene code :', sceneCode);
 
 						req.getContent(function (item) {
 							var obj = JSON.parse(item);
@@ -41,7 +40,6 @@ var requestListener = async function (req) {
 										data: 'scenes',
 										scenes: [sceneCode, sceneObj]
 									};
-									console.log('data', data);
 									port.postMessage(data);
 								}
 							}
@@ -49,11 +47,24 @@ var requestListener = async function (req) {
 						});
 					}
 				});
+			} else if (req.request.url.includes('start.json') ||
+				req.request.url.includes('normal_attack_result.json') ||
+				req.request.url.includes('ability_result.json')) {
+					
+				req.response.headers.some(function (item) {
+					if (item.value == 'application/json') {
+						req.getContent(function (item) {
+							var obj = JSON.parse(item);
+							var data = {
+								data: 'battle',
+								battleText: obj
+							};
+							port.postMessage(data);
+						});
+					}
+				});
 			}
 		}
 	});
 };
-
-
-
 chrome.devtools.network.onRequestFinished.addListener(requestListener);
