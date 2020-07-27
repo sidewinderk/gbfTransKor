@@ -1,12 +1,13 @@
 Type,Name,Origin,Korean
-condition_win,,"勝利条件",승리 조건
-condition_win,,"？？？","？？？"
-condition_lose,,"ルリアの悲痛な叫びは誰にも届かない……",하하하
-text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000.png"),"どうして……<br>いったい何が……？",하하하,하하하1
-text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000.png"),"What? Why didn't anything happen?",하하하,하하하1
-text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000.png"),"お願い……！　なんで……？<br>みんな、どうして……？",하하하2
-text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000.png"),"Please! Why won't they help me?",하하하2
-text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000_sad.png"),"私の声、<br>届かなくなっちゃったの……？",하하하3
-text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000_sad.png"),"Can they not hear me anymore?",하하하3
-text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000_sad.png"),"どうしよう……！<br>そんな……<br>私、どうすれば……！？",하하하4
-text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000_sad.png"),"Oh no! What should I do?",하하하4
+condition_win,,勝利条件,승리 조건
+condition_win,,？？？,???
+condition_lose,,ルリアの悲痛な叫びは誰にも届かない……,하하하
+text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000.png"),どうして……<br>いったい何が……？,"하하하,하하하1"
+text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000.png"),What? Why didn't anything happen?,"하하하,하하하1"
+text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000.png"),お願い……！　なんで……？<br>みんな、どうして……？,"하하하,하하하2"
+text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000.png"),Please! Why won't they help me?,"하하하,하하하2"
+text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000_sad.png"),私の声、<br>届かなくなっちゃったの……？,"하하하,하하하3"
+text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000_sad.png"),Can they not hear me anymore?,"하하하,하하하3"
+text_jp,=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/3050000000_sad.png"),どうしよう……！<br>そんな……<br>私、どうすれば……！？,"하하하,하하하4"
+text_en,=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/3050000000_sad.png"),Oh no! What should I do?,"하하하,하하하4"
+condition_win,,ルリアは直接攻撃ができない……,"하하하,하하하,하하하,하하하"

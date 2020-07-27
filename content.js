@@ -283,17 +283,34 @@ function PushCSV_BattleText(request) {
     var battleText = request.battleText;
 
     battleFullInfo.some(function (item) {
+        var copyText = item.Origin.split('"').join('');
+
         if (battleText.battle_condition) {
-            if ((battleText.battle_condition.body == item.Origin))
-                skip = true;
+            if (battleText.battle_condition.body) {
+                
+                if ((battleText.battle_condition.body == copyText)) {
+                    skip = true;
+                }
+            }
+            if (battleText.battle_condition.title) {
+                if ((battleText.battle_condition.title == copyText)) {
+                    skip = true;
+                }
+            }
         }
         if (battleText.lose_type) {
-            if (battleText.lose_type.lose_escape_text == item.Origin)
+            if (battleText.lose_type.lose_escape_text == copyText)
                 skip = true;
         }
-        if (battleText.navi_information[0]) {
-            if (battleText.navi_information[0].text == item.Origin)
-                skip = true;
+        if (battleText.navi_information && Array.isArray(battleText.navi_information)) {
+            battleText.navi_information.some(function (info) {
+                if (info.text) {
+                    if (info.text == copyText) {
+                        skip = true;
+                        return true;
+                    }
+                }
+            })
         }
         if (skip) return true;
     });
@@ -301,40 +318,48 @@ function PushCSV_BattleText(request) {
     if (skip) return;
 
     if (battleText.battle_condition) {
-        battleFullInfo.push({
-            Type: 'condition_win',
-            Name: '',
-            Origin: '"' + battleText.battle_condition.title + '"'
-        });
-
-        battleFullInfo.push({
-            Type: 'condition_win',
-            Name: '',
-            Origin: '"' + battleText.battle_condition.body + '"'
-        });
+        if (battleText.battle_condition.title) {
+            battleFullInfo.push({
+                Type: 'condition_win',
+                Name: '',
+                Origin: '"' + battleText.battle_condition.title + '"'
+            });
+        }
+        if (battleText.battle_condition.body) {
+            battleFullInfo.push({
+                Type: 'condition_win',
+                Name: '',
+                Origin: '"' + battleText.battle_condition.body + '"'
+            });
+        }
     }
 
     if (battleText.lose_type) {
-        battleFullInfo.push({
-            Type: 'condition_lose',
-            Name: '',
-            Origin: '"' + battleText.lose_type.lose_escape_text + '"'
-        });
+        if (battleText.lose_type.lose_escape_text) {
+            battleFullInfo.push({
+                Type: 'condition_lose',
+                Name: '',
+                Origin: '"' + battleText.lose_type.lose_escape_text + '"'
+            });
+        }
     }
 
-    for (var i = 0; i < battleText.navi_information.length; i++) {
-        let obj = battleText.navi_information[i];
-        if (obj.text != undefined) {
-            battleFullInfo.push({
-                Type: 'text_jp',
-                Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/' + obj.navi + '.png")',
-                Origin: '"' + obj.text + '"'
-            });
-            battleFullInfo.push({
-                Type: 'text_en',
-                Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/' + obj.navi + '.png")',
-                Origin: '"' + obj.text_en + '"'
-            });
+
+    if (battleText.navi_information && Array.isArray(battleText.navi_information)) {
+        for (var i = 0; i < battleText.navi_information.length; i++) {
+            let obj = battleText.navi_information[i];
+            if (obj.text != undefined) {
+                battleFullInfo.push({
+                    Type: 'text_jp',
+                    Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                    Origin: '"' + obj.text + '"'
+                });
+                battleFullInfo.push({
+                    Type: 'text_en',
+                    Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                    Origin: '"' + obj.text_en + '"'
+                });
+            }
         }
     }
 
@@ -2054,19 +2079,42 @@ function GetTranslatedStoryText(node, csv) {
 
 function GetTranslatedBattleText(node, csv) {
     if (node) {
-        if (node.className.includes('prt-battle-condition')) {
-            var titleNode = node.children[0].children[0];
-            var bodyNode = node.children[0].children[1];
-
+        if (node.className.includes('txt-body') ||
+            node.className.includes('txt-title')) {
+            if (node.innerHTML && node.innerHTML.length == 0) return;
             var translatedText = '';
-            if (!node.className.includes('is-no-title')) {
-                translatedText = translate_BattleText(titleNode.innerHTML, csv);
-                if (!translatedText || translatedText.length == 0) return;
-                titleNode.innerHTML = translatedText;
+
+            if (exMode) {
+                var request = null;
+                if (node.className.includes('txt-title')) {
+                    request = {
+                        battleText: {
+                            battle_condition: {
+                                title: node.innerHTML
+                            }
+                        }
+                    }
+                } else if (node.className.includes('txt-body')) {
+                    request = {
+                        battleText: {
+                            battle_condition: {
+                                body: node.innerHTML
+                            }
+                        }
+                    }
+                }
+                //전투 시작하자마자 devtools.js가 보낸 데이터는
+                //전체 텍스트가 없음. 특히 승리 조건이나 공격 버튼 눌렀을때의
+                //텍스트 들은 네트워크를 통해 보내지는 데이터들이 아님.
+                //그러므로, 그런 데이터들은 수동으로 마우스 클릭하여 텍스트를 직접 눈으로 봐야지만 추출됨. 
+
+                //PushCSV_BattleText 함수는 자체적으로 텍스트 중복 체크를 함.
+                PushCSV_BattleText(request);
             }
-            translatedText = translate_BattleText(bodyNode.innerHTML, csv);
+
+            translatedText = translate_BattleText(node.innerHTML, csv);
             if (!translatedText || translatedText.length == 0) return;
-            bodyNode.innerHTML = translatedText;
+            node.innerHTML = translatedText;
         } else if (node.className.includes('prt-navi')) {
             var adviceNode = node.children[1];
             var translatedText = '';
@@ -2521,12 +2569,14 @@ async function ObserverBattle() {
         if (popDIV) {
             PopObserver.observe(popDIV, config);
         }
+
         var battleConditionInfo = document.querySelectorAll('[class^="prt-battle-condition"]');
         if (battleConditionInfo) {
             battleConditionInfo.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config_simple);
+                BattleObserver.observe(bInfo, config);
             });
         }
+
         var battleNavi = document.querySelectorAll('[class^="prt-navi btn-scene-next"]');
         if (battleNavi) {
             battleNavi.forEach(bInfo => {
