@@ -17,9 +17,7 @@ var doImageSwap = true;
 var doBattleTrans = true;
 var transMode = true;
 var exMode = false;
-var skipTranslatedText = false;
 var initialize = false;
-var tempSceneCode = "";
 var ObserverList = [];
 var userName = '';
 
@@ -1298,53 +1296,53 @@ const parseCsv = str => {
 };
 
 ///
-function readChromeOption(key) {
-    return new Promise((resolve, reject) => {
-        if (key != null) {
-            chrome.storage.local.get(key, function (obj) {
-                resolve(obj);
-            });
-        } else {
-            reject(null);
-        }
-    });
-}
+// function readChromeOption(key) {
+//     return new Promise((resolve, reject) => {
+//         if (key != null) {
+//             chrome.storage.local.get(key, function (obj) {
+//                 resolve(obj);
+//             });
+//         } else {
+//             reject(null);
+//         }
+//     });
+// }
 async function InitList() {
-    var chromeOptions = await readChromeOption([
-        'battleFullInfo',
-        'sceneFullInfo',
-        'nTEXT',
-        'mTEXT',
-        'verboseMode',
-        'origin',
-        'imageswap',
-        'battleobserver',
-        'extractMode',
-        'translateMode',
-        'userFont',
-        'userFontName',
-        'nonTransText'
-    ]);
-    if (chromeOptions.sceneFullInfo)
-        sceneFullInfo = chromeOptions.sceneFullInfo;
-    if (chromeOptions.battleFullInfo)
-        battleFullInfo = chromeOptions.battleFullInfo;
-    if (chromeOptions.nTEXT)
-        cNames = chromeOptions.nTEXT;
-    if (chromeOptions.mTEXT)
-        miscs = chromeOptions.mTEXT;
-    doImageSwap = chromeOptions.imageswap;
-    doBattleTrans = chromeOptions.battleobserver;
-    isVerboseMode = chromeOptions.verboseMode;
-    transMode = chromeOptions.translateMode;
-    exMode = chromeOptions.extractMode;
-    skipTranslatedText = chromeOptions.nonTransText;
-    if (chromeOptions.origin) {
-        generalConfig.origin = chromeOptions.origin;
-    } else
-        generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
-    if (chromeOptions.userFont)
-        generalConfig.defaultFont = chromeOptions.userFont;
+    // var chromeOptions = await readChromeOption([
+    //     'battleFullInfo',
+    //     'sceneFullInfo',
+    //     'nTEXT',
+    //     'mTEXT',
+    //     'verboseMode',
+    //     'origin',
+    //     'imageswap',
+    //     'battleobserver',
+    //     'extractMode',
+    //     'translateMode',
+    //     'userFont',
+    //     'userFontName',
+    //     'nonTransText'
+    // ]);
+    // if (chromeOptions.sceneFullInfo)
+    //     sceneFullInfo = chromeOptions.sceneFullInfo;
+    // if (chromeOptions.battleFullInfo)
+    //     battleFullInfo = chromeOptions.battleFullInfo;
+    // if (chromeOptions.nTEXT)
+    //     cNames = chromeOptions.nTEXT;
+    // if (chromeOptions.mTEXT)
+    //     miscs = chromeOptions.mTEXT;
+    // doImageSwap = chromeOptions.imageswap;
+    // doBattleTrans = chromeOptions.battleobserver;
+    // isVerboseMode = chromeOptions.verboseMode;
+    // transMode = chromeOptions.translateMode;
+    // exMode = chromeOptions.extractMode;
+    // skipTranslatedText = chromeOptions.nonTransText;
+    // if (chromeOptions.origin) {
+    //     generalConfig.origin = chromeOptions.origin;
+    // } else
+    //     generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
+    // if (chromeOptions.userFont)
+    //     generalConfig.defaultFont = chromeOptions.userFont;
 
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
