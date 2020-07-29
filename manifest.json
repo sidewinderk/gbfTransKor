@@ -19,8 +19,8 @@
         "background",
         "storage",
         "webNavigation",
-        "debugger",
-        "clipboardWrite"
+        "clipboardWrite",
+        "debugger"
     ],
     "icons": {
         "16": "images/get_started16.png",
