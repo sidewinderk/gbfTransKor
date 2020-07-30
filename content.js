@@ -25,6 +25,7 @@ var userName = '';
 
 
 var sceneFullInfo = [];
+var battleFullInfo = [];
 //https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
 var cNames = [];
 var miscs = [];
@@ -43,6 +44,16 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         });
         window.location.reload();
     }
+    if (request.data == 'clearBattle') {
+        battleFullInfo = [];
+        chrome.storage.local.set({
+            battleFullInfo: battleFullInfo
+        });
+        window.location.reload();
+    }
+    if (request.data == 'battle') {
+        PushCSV_BattleText(request);
+    }
     if (request.data == 'scenes') {
         PushCSV_StoryText(request);
     }
@@ -51,6 +62,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
             RemoveTranslatedText();
         chrome.storage.local.set({
             sceneFullInfo: sceneFullInfo,
+            battleFullInfo: battleFullInfo,
             nTEXT: cNames,
             mTEXT: miscs
         });
@@ -75,10 +87,12 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     }
     if (request.data == 'refresh') {
         sceneFullInfo = [];
+        battleFullInfo = [];
         cNames = [];
         miscs = [];
         chrome.storage.local.set({
             sceneFullInfo: sceneFullInfo,
+            battleFullInfo: battleFullInfo,
             nTEXT: cNames,
             mTEXT: miscs
         });
@@ -264,6 +278,96 @@ function CheckDuplicate(text, array) {
     return result;
 }
 
+function PushCSV_BattleText(request) {
+    var skip = false;
+    var battleText = request.battleText;
+
+    battleFullInfo.some(function (item) {
+        var copyText = item.Origin.split('"').join('');
+
+        if (battleText.battle_condition) {
+            if (battleText.battle_condition.body) {
+                
+                if ((battleText.battle_condition.body == copyText)) {
+                    skip = true;
+                }
+            }
+            if (battleText.battle_condition.title) {
+                if ((battleText.battle_condition.title == copyText)) {
+                    skip = true;
+                }
+            }
+        }
+        if (battleText.lose_type) {
+            if (battleText.lose_type.lose_escape_text == copyText)
+                skip = true;
+        }
+        if (battleText.navi_information && Array.isArray(battleText.navi_information)) {
+            battleText.navi_information.some(function (info) {
+                if (info.text) {
+                    if (info.text == copyText) {
+                        skip = true;
+                        return true;
+                    }
+                }
+            })
+        }
+        if (skip) return true;
+    });
+
+    if (skip) return;
+
+    if (battleText.battle_condition) {
+        if (battleText.battle_condition.title) {
+            battleFullInfo.push({
+                Type: 'condition_win',
+                Name: '',
+                Origin: '"' + battleText.battle_condition.title + '"'
+            });
+        }
+        if (battleText.battle_condition.body) {
+            battleFullInfo.push({
+                Type: 'condition_win',
+                Name: '',
+                Origin: '"' + battleText.battle_condition.body + '"'
+            });
+        }
+    }
+
+    if (battleText.lose_type) {
+        if (battleText.lose_type.lose_escape_text) {
+            battleFullInfo.push({
+                Type: 'condition_lose',
+                Name: '',
+                Origin: '"' + battleText.lose_type.lose_escape_text + '"'
+            });
+        }
+    }
+
+
+    if (battleText.navi_information && Array.isArray(battleText.navi_information)) {
+        for (var i = 0; i < battleText.navi_information.length; i++) {
+            let obj = battleText.navi_information[i];
+            if (obj.text != undefined) {
+                battleFullInfo.push({
+                    Type: 'text_jp',
+                    Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                    Origin: '"' + obj.text + '"'
+                });
+                battleFullInfo.push({
+                    Type: 'text_en',
+                    Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                    Origin: '"' + obj.text_en + '"'
+                });
+            }
+        }
+    }
+
+    chrome.storage.local.set({
+        battleFullInfo: battleFullInfo
+    });
+}
+
 function PushCSV_StoryText(request) {
     if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
 
@@ -277,7 +381,7 @@ function PushCSV_StoryText(request) {
             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
     }
     // For pop-up status icon
-    if(sceneCode != tempSceneCode){
+    if (sceneCode != tempSceneCode) {
         tempSceneCode = sceneCode;
         chrome.storage.local.set({
             sceneCodeFull: sceneCode,
@@ -1524,6 +1628,7 @@ function readChromeOption(key) {
 }
 async function InitList() {
     var chromeOptions = await readChromeOption([
+        'battleFullInfo',
         'sceneFullInfo',
         'nTEXT',
         'mTEXT',
@@ -1539,6 +1644,8 @@ async function InitList() {
     ]);
     if (chromeOptions.sceneFullInfo)
         sceneFullInfo = chromeOptions.sceneFullInfo;
+    if (chromeOptions.battleFullInfo)
+        battleFullInfo = chromeOptions.battleFullInfo;
     if (chromeOptions.nTEXT)
         cNames = chromeOptions.nTEXT;
     if (chromeOptions.mTEXT)
@@ -1575,6 +1682,8 @@ async function InitList() {
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
+    battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
+
 
     // Main Observers
     if (ObserverList.length < 1) {
@@ -1619,12 +1728,14 @@ function translate(stext, jsonFile) {
             }
         }
     });
-    if (transText.length > 0) {
-        PrintLog(`Send:${transText}`);
-        return transText;
-    } else {
-        PrintLog('no translation');
-        return '';
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
     }
 }
 
@@ -1711,13 +1822,53 @@ function translate_StoryText(stext, jsonFile) {
         }
     }
 
-    if (transText.length > 0) {
-        PrintLog(`Send:${transText}`);
-        return transText;
-    } else {
-        PrintLog('no translation');
-        return '';
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
     }
+}
+
+function translate_BattleText(stext, jsonFile) {
+    var transText = '';
+    stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
+    stext = stext.split('"').join("'");
+    stext = stext.replace(/&nbsp;/g, ' ');
+    stext = stext.replace(/\s+/g, " ");
+
+    jsonFile.some(function (item) {
+        if (item.Origin) {
+            item.Origin = item.Origin.replace(/(\r\n|\n|\r)/gm, '').trim();
+            item.Origin = item.Origin.split('"').join("'");
+            item.Origin = item.Origin.replace(/&nbsp;/g, ' ');
+            item.Origin = item.Origin.replace(/\s+/g, " ");
+
+
+            if (item.Korean) {
+                if (item.Origin.length == stext.length) {
+                    if (item.Origin == stext) {
+                        transText = item.Korean;
+                        return true;
+                    }
+                }
+            }
+        }
+    });
+
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
+    }
+
 }
 
 function GetTranslatedImageURL(stext, jsonFile) {
@@ -1845,8 +1996,10 @@ function GetTranslatedText(node, csv) {
                 PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             // !!! Execute Translate !!!
-            if (transMode)
+            if (transMode) {
                 translatedText = translate(textInput, csv);
+                if (!translatedText) return;
+            }
             if (userName) {
                 if (sex == 0) {
                     if (translatedText.includes(generalConfig.defaultTransNameMale))
@@ -1858,26 +2011,28 @@ function GetTranslatedText(node, csv) {
             }
 
             PrintLog('traslated text: ' + translatedText);
-            if (translatedText.length > 0) {
-                // When it founds the translated text
-                if (number.length > 0) {
-                    // If it contains number("*"), recover it from the saved number
-                    for (var i = 0; i < number.length; i++) {
-                        translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
+            if (translatedText) {
+                if (translatedText.length > 0) {
+                    // When it founds the translated text
+                    if (number.length > 0) {
+                        // If it contains number("*"), recover it from the saved number
+                        for (var i = 0; i < number.length; i++) {
+                            translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
+                        }
                     }
-                }
-                PrintLog(`Take:${translatedText}`);
-                if (computedStyleCheck && computedStyleCheck != 'none') {
-                    if (!node.className.includes('-translated')) {
-                        var style = document.createElement('style');
-                        style.type = 'text/css';
-                        var classNames = node.className.replace(' ', '.');
-                        style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
-                        document.head.appendChild(style);
-                        node.className += ' ' + node.className + '-translated';
+                    PrintLog(`Take:${translatedText}`);
+                    if (computedStyleCheck && computedStyleCheck != 'none') {
+                        if (!node.className.includes('-translated')) {
+                            var style = document.createElement('style');
+                            style.type = 'text/css';
+                            var classNames = node.className.replace(' ', '.');
+                            style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
+                            document.head.appendChild(style);
+                            node.className += ' ' + node.className + '-translated';
+                        }
+                    } else {
+                        node.innerHTML = translatedText;
                     }
-                } else {
-                    node.innerHTML = translatedText;
                 }
             }
         }
@@ -1894,6 +2049,8 @@ function GetTranslatedStoryText(node, csv) {
 
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
         translatedText = translate_StoryText(textInput, csv);
+        if (!translatedText) return;
+
         if (translatedText.length > 0) {
             if (sex == 0) {
                 if (translatedText.includes(generalConfig.defaultTransNameMale))
@@ -1916,6 +2073,55 @@ function GetTranslatedStoryText(node, csv) {
                 if (textContents.innerHTML == '') translatedText = '';
                 textContents.innerHTML = translatedText;
             }
+        }
+    }
+}
+
+function GetTranslatedBattleText(node, csv) {
+    if (node) {
+        if (node.className.includes('txt-body') ||
+            node.className.includes('txt-title')) {
+            if (node.innerHTML && node.innerHTML.length == 0) return;
+            var translatedText = '';
+
+            if (exMode) {
+                var request = null;
+                if (node.className.includes('txt-title')) {
+                    request = {
+                        battleText: {
+                            battle_condition: {
+                                title: node.innerHTML
+                            }
+                        }
+                    }
+                } else if (node.className.includes('txt-body')) {
+                    request = {
+                        battleText: {
+                            battle_condition: {
+                                body: node.innerHTML
+                            }
+                        }
+                    }
+                }
+                //전투 시작하자마자 devtools.js가 보낸 데이터는
+                //전체 텍스트가 없음. 특히 승리 조건이나 공격 버튼 눌렀을때의
+                //텍스트 들은 네트워크를 통해 보내지는 데이터들이 아님.
+                //그러므로, 그런 데이터들은 수동으로 마우스 클릭하여 텍스트를 직접 눈으로 봐야지만 추출됨. 
+
+                //PushCSV_BattleText 함수는 자체적으로 텍스트 중복 체크를 함.
+                PushCSV_BattleText(request);
+            }
+
+            translatedText = translate_BattleText(node.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            node.innerHTML = translatedText;
+        } else if (node.className.includes('prt-navi')) {
+            var adviceNode = node.children[1];
+            var translatedText = '';
+
+            translatedText = translate_BattleText(adviceNode.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            adviceNode.innerHTML = translatedText;
         }
     }
 }
@@ -2059,15 +2265,14 @@ function IsSceneCodeInDB(sceneCodeInput) {
             if (sceneCodeInput.length == item.SceneCode.length) {
                 if (String(sceneCodeInput) == String(item.SceneCode)) {
                     if (item.Korean) {
-                        if (item.Korean.length > 0){
+                        if (item.Korean.length > 0) {
                             checkResult = 2;
                             return;
-                        }
-                        else {
+                        } else {
                             checkResult = 1;
                             return
                         }
-                    } 
+                    }
                 }
             }
         }
@@ -2120,7 +2325,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
                     if (nameNode.innerText != '') {
                         GetTranslatedText(mutation.target.children[0].children[0], nameJson);
                         GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
-                        if(document.getElementsByClassName('txt-character-name')[0].children[0].hasChildNodes())
+                        if (document.getElementsByClassName('txt-character-name')[0].children[0].hasChildNodes())
                             GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0].children[0], nameJson);
                     }
                 }
@@ -2135,12 +2340,13 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if(mutation.target){
+        if (mutation.target) {
             if (
                 !mutation.target.className.includes('txt-message') &&
                 !mutation.target.className.includes('txt-character-name')
             )
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+
         }
     });
     ObserverArchive();
@@ -2187,6 +2393,8 @@ var BattleObserver = new MutationObserver(function (mutations) {
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
         // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
+
+        GetTranslatedBattleText(mutation.target, battleJson);
     });
     ObserverBattle();
 });
@@ -2247,6 +2455,7 @@ async function ObserverArchive() {
         ObserveSceneText();
         ObserverStorySelectTexts();
     }
+
     archiveObserver.observe(oText, config);
 }
 
@@ -2343,7 +2552,7 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo_btn = document.querySelectorAll('[class^="prt-sub-command"]');
+        var battleInfo_btn = document.querySelectorAll('[class^="prt-command"]');
         if (battleInfo_btn) {
             walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
@@ -2359,6 +2568,20 @@ async function ObserverBattle() {
         var popDIV = document.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
+        }
+
+        var battleConditionInfo = document.querySelectorAll('[class^="prt-battle-condition"]');
+        if (battleConditionInfo) {
+            battleConditionInfo.forEach(bInfo => {
+                BattleObserver.observe(bInfo, config);
+            });
+        }
+
+        var battleNavi = document.querySelectorAll('[class^="prt-navi btn-scene-next"]');
+        if (battleNavi) {
+            battleNavi.forEach(bInfo => {
+                BattleObserver.observe(bInfo, config_simple);
+            });
         }
     }
 }

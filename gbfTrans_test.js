@@ -23,6 +23,7 @@ var userName = '';
 
 
 var sceneFullInfo = [];
+var battleFullInfo = [];
 //https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
 var cNames = [];
 var miscs = [];
@@ -31,48 +32,7 @@ var nameJson = false;
 var archiveJson = false;
 var imageJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
-// Coversation with popup window
-// chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-//     if (request.data == 'clearScenes') {
-//         sceneFullInfo = [];
-//         chrome.storage.local.set({
-//             sceneFullInfo: sceneFullInfo
-//         });
-//         window.location.reload();
-//     }
-//     if (request.data == 'scenes') {
-//         PushCSV_StoryText(request);
-//     }
-//     if (request.data == 'update') {
-//         chrome.storage.local.set({
-//             sceneFullInfo: sceneFullInfo,
-//             nTEXT: cNames,
-//             mTEXT: miscs
-//         });
-//     }
-//     if (request.data == 'clearName') {
-//         cNames = [];
-//         chrome.storage.local.set({
-//             nTEXT: cNames
-//         });
-//     }
-//     if (request.data == 'clearMisc') {
-//         miscs = [];
-//         chrome.storage.local.set({
-//             mTEXT: miscs
-//         });
-//     }
-//     if (request.data == 'refresh') {
-//         PrintLog(sceneFullInfo);
-//         PrintLog(cNames);
-//         PrintLog(miscs);
-//         chrome.storage.local.set({
-//             sceneFullInfo: sceneFullInfo,
-//             nTEXT: cNames,
-//             mTEXT: miscs
-//         });
-//     }
-// });
+var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
 
 var config = {
     attributes: true,
@@ -81,7 +41,7 @@ var config = {
     characterData: true
 };
 var config_simple = {
-    attributes: true
+    attributes: true,
 };
 
 // Common modules
@@ -195,7 +155,7 @@ function walkDownObserver(node, obs, variable = null) {
         obs.observe(node, variable);
     }
     if (!node.className) {
-        // in case of list of nodes
+        // in case of list of nodes	
         if (node.id) {
             if (node.length) {
                 if (node.length > 0) {
@@ -220,98 +180,6 @@ function walkDownObserver(node, obs, variable = null) {
         }
     }
 }
-
-//function PushCSV(text, array) {
-//    if (kCheck.test(text)) return;
-//    if (!array.includes(text)) {
-//        if (text.match(/&nbsp;/g)) {
-//            PrintLog('NOPE');
-//            return;
-//         }
-//         if (array.includes(',')) array.push("'" + text + "'");
-//         else 
-//             array.push(text);
-//         chrome.storage.local.set({
-//              nTEXT: cNames,
-//              mTEXT: miscs
-//          });
-//     }
-// }
-
-// function PushCSV_StoryText(request) {
-//     if (typeof document.getElementsByClassName('now')[0] == 'undefined') return;
-
-//     var skip = false;
-//     var sceneCode = request.scenes[0];
-//     var sceneLanguage = document.title == 'Granblue Fantasy' ? 'English' : 'Japaness';
-
-//     sceneFullInfo.some(function (scene) {
-//         var sceneCodeReserved = scene.SceneCode
-//             .split('"')
-//             .join('')
-//             .split(',')[0];
-//         if (sceneCodeReserved == sceneCode) {
-//             if (sceneLanguage == scene.Language) {
-//                 skip = true;
-//                 return true;
-//             }
-//         }
-//     });
-//     if (skip) return;
-
-//     if (document.URL.includes('play_view')) {
-//         var anotherSceneCode = SceneCodeFromURL();
-//         if (anotherSceneCode != '')
-//             sceneCode = '"' + sceneCode + ',' + anotherSceneCode + '"';
-//     }
-
-//     var sceneText = request.scenes[1];
-
-//     sceneText.forEach(function (item) {
-//         if (item.synopsis != '') {
-//             var sceneJson = {};
-//             sceneJson.Language = sceneLanguage;
-//             sceneJson.SceneCode = sceneCode;
-//             sceneJson.Type = 'synopsis';
-//             sceneJson.Name = '';
-//             item.synopsis = item.synopsis.split('\n').join('');
-//             item.synopsis = item.synopsis.split('"').join("'");
-//             item.synopsis = item.synopsis.split('&nbsp;').join(' ');
-//             sceneJson.Origin = '"' + item.synopsis + '"';
-//             sceneFullInfo.push(sceneJson);
-//         }
-//         if (item.detail != '') {
-//             var sceneJson = {};
-//             sceneJson.Language = sceneLanguage;
-//             sceneJson.SceneCode = sceneCode;
-//             sceneJson.Type = 'detail';
-//             sceneJson.Name = item.charcter1_name != 'null' ? item.charcter1_name : '';
-//             item.detail = item.detail.split('\n').join('');
-//             item.detail = item.detail.split('"').join("'");
-//             item.detail = item.detail.split('&nbsp;').join(' ');
-//             sceneJson.Origin = '"' + item.detail + '"';
-//             sceneFullInfo.push(sceneJson);
-//         }
-
-//         for (key in item) {
-//             if (key.match(/sel[\d+]_txt/) != null) {
-//                 if (item[key] != '') {
-//                     var sceneJson = {};
-//                     sceneJson.Language = sceneLanguage;
-//                     sceneJson.SceneCode = sceneCode;
-//                     sceneJson.Type = key;
-//                     sceneJson.Name = '';
-//                     sceneJson.Origin = item[key];
-//                     sceneFullInfo.push(sceneJson);
-//                 }
-//             }
-//         }
-//     });
-
-//     chrome.storage.local.set({
-//         sceneFullInfo: sceneFullInfo
-//     });
-// }
 
 // Imported modules
 /* @license
@@ -1441,6 +1309,7 @@ const parseCsv = str => {
 // }
 async function InitList() {
     // var chromeOptions = await readChromeOption([
+    //     'battleFullInfo',
     //     'sceneFullInfo',
     //     'nTEXT',
     //     'mTEXT',
@@ -1451,10 +1320,13 @@ async function InitList() {
     //     'extractMode',
     //     'translateMode',
     //     'userFont',
-    //     'userFontName'
+    //     'userFontName',
+    //     'nonTransText'
     // ]);
     // if (chromeOptions.sceneFullInfo)
     //     sceneFullInfo = chromeOptions.sceneFullInfo;
+    // if (chromeOptions.battleFullInfo)
+    //     battleFullInfo = chromeOptions.battleFullInfo;
     // if (chromeOptions.nTEXT)
     //     cNames = chromeOptions.nTEXT;
     // if (chromeOptions.mTEXT)
@@ -1464,12 +1336,14 @@ async function InitList() {
     // isVerboseMode = chromeOptions.verboseMode;
     // transMode = chromeOptions.translateMode;
     // exMode = chromeOptions.extractMode;
+    // skipTranslatedText = chromeOptions.nonTransText;
     // if (chromeOptions.origin) {
     //     generalConfig.origin = chromeOptions.origin;
     // } else
     //     generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
     // if (chromeOptions.userFont)
     //     generalConfig.defaultFont = chromeOptions.userFont;
+
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
     @font-face {font-family: 'CustomFont';font-style: normal;src: ${generalConfig.defaultFont};unicode-range: U+AC00-D7AF;}`;
@@ -1489,6 +1363,8 @@ async function InitList() {
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
+    battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
+
 
     // Main Observers
     if (ObserverList.length < 1) {
@@ -1502,7 +1378,6 @@ async function InitList() {
         if (doBattleTrans) ObserverList.push(ObserverBattle());
     }
 }
-
 // Observe the textbox
 function translate(stext, jsonFile) {
     // Translation part for story text
@@ -1519,12 +1394,14 @@ function translate(stext, jsonFile) {
             }
         }
     });
-    if (transText.length > 0) {
-        PrintLog(`Send:${transText}`);
-        return transText;
-    } else {
-        PrintLog('no translation');
-        return '';
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
     }
 }
 
@@ -1540,56 +1417,124 @@ function translate_StoryText(stext, jsonFile) {
 
     PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
+    var sceneData = [];
+    var jpStartIndex = 0,
+        engStartIndex = 0;
+
     jsonFile.some(function (item) {
-        if (item.Korean == '\t' || item.Korean == ' ') {
-            return false;
+        let sc = SceneCodeFromURL();
+        if (String(item.SceneCode).includes(sc)) {
+            sceneData.push(item);
         }
+    });
+    var tmpIndex = 0;
+    sceneData.some(function (item) {
+        if (item.Language == 'Japanese') {
+            jpStartIndex = tmpIndex;
+            return true;
+        }
+        tmpIndex++;
+    });
 
-        if (item.Korean) {
-            var curSceneCode = SceneCodeFromURL();
-            var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
-            var codes = item.SceneCode.split('"').join('').split(',');
-            codes.some(function (code) {
-                if (code == curSceneCode) {
-                    if (curLanugage == item.Language) {
-                        stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
-                        stext = stext.split('"').join("'");
-                        stext = stext.replace(/&nbsp;/g, ' ');
-                        stext = stext.replace(/\s+/g, " ");
+    tmpIndex = 0;
+    sceneData.some(function (item) {
+        if (item.Language == 'English') {
+            engStartIndex = tmpIndex;
+            return true;
+        }
+        tmpIndex++;
+    });
 
-                        if (sex == 0) {
-                            if (stext.includes(userName))
-                                if (curLanugage == 'Japanese')
-                                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-                                else if (curLanugage == 'English')
-                                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
-                        } else if (sex == 1) {
-                            if (stext.includes(userName))
-                                if (curLanugage == 'Japanese')
-                                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
-                                else if (curLanugage == 'English')
-                                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
-                        }
+    var curLanugage = document.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+    stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
+    stext = stext.split('"').join("'");
+    stext = stext.replace(/&nbsp;/g, ' ');
+    stext = stext.replace(/\s+/g, " ");
 
-                        if (stext.length == item.Origin.length) {
-                            if (stext == item.Origin) {
-                                transText = item.Korean;
-                                return true;
-                            }
-                        }
+    if (sex == 0) {
+        if (stext.includes(userName))
+            if (curLanugage == 'Japanese')
+                stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+            else if (curLanugage == 'English')
+            stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+    } else if (sex == 1) {
+        if (stext.includes(userName))
+            if (curLanugage == 'Japanese')
+                stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+            else if (curLanugage == 'English')
+            stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+    }
+
+    for (var i = 0; i < sceneData.length; i++) {
+        if (!sceneData[i].Origin)
+            continue;
+        if (stext.length == sceneData[i].Origin.length) {
+            if (stext == sceneData[i].Origin) {
+                if (sceneData[i].Korean) {
+                    transText = sceneData[i].Korean;
+                    break;
+                } else {
+                    var offset = 0;
+                    if (sceneData[i].Language == 'Japanese') {
+                        offset = i - jpStartIndex;
+                    } else if (sceneData[i].Language == 'English') {
+                        offset = i - engStartIndex;
+                    }
+
+                    transText = sceneData[offset].Korean;
+                    break;
+                }
+            }
+        }
+    }
+
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
+    }
+}
+
+function translate_BattleText(stext, jsonFile) {
+    var transText = '';
+    stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
+    stext = stext.split('"').join("'");
+    stext = stext.replace(/&nbsp;/g, ' ');
+    stext = stext.replace(/\s+/g, " ");
+
+    jsonFile.some(function (item) {
+        if (item.Origin) {
+            item.Origin = item.Origin.replace(/(\r\n|\n|\r)/gm, '').trim();
+            item.Origin = item.Origin.split('"').join("'");
+            item.Origin = item.Origin.replace(/&nbsp;/g, ' ');
+            item.Origin = item.Origin.replace(/\s+/g, " ");
+
+
+            if (item.Korean) {
+                if (item.Origin.length == stext.length) {
+                    if (item.Origin == stext) {
+                        transText = item.Korean;
+                        return true;
                     }
                 }
-            });
+            }
         }
     });
 
-    if (transText.length > 0) {
-        PrintLog(`Send:${transText}`);
-        return transText;
-    } else {
-        PrintLog('no translation');
-        return '';
+    if (transText) {
+        if (transText.length > 0) {
+            PrintLog(`Send:${transText}`);
+            return transText;
+        } else {
+            PrintLog('no translation');
+            return '';
+        }
     }
+
 }
 
 function GetTranslatedImageURL(stext, jsonFile) {
@@ -1686,6 +1631,11 @@ function GetTranslatedText(node, csv) {
             if (number.length > 0) {
                 textInput = textInput.replace(/[0-9]/g, '*');
             }
+            // Filter for the number only with some special characters eg. 1,000,000
+            var specialtest = textInput.replace(kCheckSpecial, "").replace(/ /gi, "").trim();
+            if (specialtest.length < 1)
+                return;
+
             // Remove User's Name
             //  - Not working now (NEED TO FIX)
             if ((userName == "") && (document.getElementsByClassName('cnt-quest-scene')[0])) {
@@ -1708,11 +1658,12 @@ function GetTranslatedText(node, csv) {
                     PrintLog(`UserName Converted! - ${textInput}`);
                 }
             }
-            //if (exMode)
-            //    PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
-            if (transMode)
+            // !!! Execute Translate !!!
+            if (transMode) {
                 translatedText = translate(textInput, csv);
+                if (!translatedText) return;
+            }
             if (userName) {
                 if (sex == 0) {
                     if (translatedText.includes(generalConfig.defaultTransNameMale))
@@ -1724,26 +1675,28 @@ function GetTranslatedText(node, csv) {
             }
 
             PrintLog('traslated text: ' + translatedText);
-            if (translatedText.length > 0) {
-                // When it founds the translated text
-                if (number.length > 0) {
-                    // If it contains number("*"), recover it from the saved number
-                    for (var i = 0; i < number.length; i++) {
-                        translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
+            if (translatedText) {
+                if (translatedText.length > 0) {
+                    // When it founds the translated text
+                    if (number.length > 0) {
+                        // If it contains number("*"), recover it from the saved number
+                        for (var i = 0; i < number.length; i++) {
+                            translatedText = translatedText.slice(0, translatedText.indexOf('*')) + number[i] + translatedText.slice(translatedText.indexOf('*') + 1);
+                        }
                     }
-                }
-                PrintLog(`Take:${translatedText}`);
-                if (computedStyleCheck && computedStyleCheck != 'none') {
-                    if (!node.className.includes('-translated')) {
-                        var style = document.createElement('style');
-                        style.type = 'text/css';
-                        var classNames = node.className.replace(' ', '.');
-                        style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
-                        document.head.appendChild(style);
-                        node.className += ' ' + node.className + '-translated';
+                    PrintLog(`Take:${translatedText}`);
+                    if (computedStyleCheck && computedStyleCheck != 'none') {
+                        if (!node.className.includes('-translated')) {
+                            var style = document.createElement('style');
+                            style.type = 'text/css';
+                            var classNames = node.className.replace(' ', '.');
+                            style.innerText = `.${classNames}-translated::after{ content: "${translatedText}" !important; }`;
+                            document.head.appendChild(style);
+                            node.className += ' ' + node.className + '-translated';
+                        }
+                    } else {
+                        node.innerHTML = translatedText;
                     }
-                } else {
-                    node.innerHTML = translatedText;
                 }
             }
         }
@@ -1760,6 +1713,8 @@ function GetTranslatedStoryText(node, csv) {
 
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
         translatedText = translate_StoryText(textInput, csv);
+        if (!translatedText) return;
+
         if (translatedText.length > 0) {
             if (sex == 0) {
                 if (translatedText.includes(generalConfig.defaultTransNameMale))
@@ -1782,6 +1737,27 @@ function GetTranslatedStoryText(node, csv) {
                 if (textContents.innerHTML == '') translatedText = '';
                 textContents.innerHTML = translatedText;
             }
+        }
+    }
+}
+
+function GetTranslatedBattleText(node, csv) {
+    if (node) {
+        if (node.className.includes('txt-body') ||
+            node.className.includes('txt-title')) {
+            if (node.innerHTML && node.innerHTML.length == 0) return;
+            var translatedText = '';
+
+            translatedText = translate_BattleText(node.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            node.innerHTML = translatedText;
+        } else if (node.className.includes('prt-navi')) {
+            var adviceNode = node.children[1];
+            var translatedText = '';
+
+            translatedText = translate_BattleText(adviceNode.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            adviceNode.innerHTML = translatedText;
         }
     }
 }
@@ -1892,8 +1868,7 @@ function GetTranslatedImageDIV(node, csv) {
 function SceneCodeFromURL(url) {
     var scenecode = '';
 
-    if ((document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) &&
-        !document.URL.includes('scene_')) {
+    if ((document.URL.includes('play_view/') || document.URL.includes('play_view_event/')) && !document.URL.includes('scene_')) {
         if (document.URL.includes('play_view/')) {
             scenecode = document.URL.slice(document.URL.indexOf('play_view/'));
         } else if (document.URL.includes('play_view_event/')) {
@@ -1959,6 +1934,8 @@ var sceneObserver = new MutationObserver(function (mutations) {
                     if (nameNode.innerText != '') {
                         GetTranslatedText(mutation.target.children[0].children[0], nameJson);
                         GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
+                        if (document.getElementsByClassName('txt-character-name')[0].children[0].hasChildNodes())
+                            GetTranslatedText(document.getElementsByClassName('txt-character-name')[0].children[0].children[0], nameJson);
                     }
                 }
                 GetTranslatedStoryText(mutation.target.children[0].children[1], questJson);
@@ -1972,11 +1949,14 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if (
-            !mutation.target.className.includes('txt-message') &&
-            !mutation.target.className.includes('txt-character-name')
-        )
-            walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        if (mutation.target) {
+            if (
+                !mutation.target.className.includes('txt-message') &&
+                !mutation.target.className.includes('txt-character-name')
+            )
+                walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+
+        }
     });
     ObserverArchive();
 });
@@ -2021,14 +2001,18 @@ var BattleObserver = new MutationObserver(function (mutations) {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
+
+        GetTranslatedBattleText(mutation.target, battleJson);
     });
     ObserverBattle();
 });
+
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
     mutations.forEach(mutation => {
-        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
+        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);	
+        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);	
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
 
         var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
@@ -2080,6 +2064,7 @@ async function ObserverArchive() {
         ObserveSceneText();
         ObserverStorySelectTexts();
     }
+
     archiveObserver.observe(oText, config);
 }
 
@@ -2176,7 +2161,7 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo_btn = document.querySelectorAll('[class^="prt-sub-command"]');
+        var battleInfo_btn = document.querySelectorAll('[class^="prt-command"]');
         if (battleInfo_btn) {
             walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
@@ -2184,8 +2169,7 @@ async function ObserverBattle() {
         var battleInfo_subbtn = document.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
-        }
-        */
+        }*/
         var battleInfo_contrib = document.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
             walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
@@ -2193,6 +2177,20 @@ async function ObserverBattle() {
         var popDIV = document.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
+        }
+
+        var battleConditionInfo = document.querySelectorAll('[class^="prt-battle-condition"]');
+        if (battleConditionInfo) {
+            battleConditionInfo.forEach(bInfo => {
+                BattleObserver.observe(bInfo, config);
+            });
+        }
+
+        var battleNavi = document.querySelectorAll('[class^="prt-navi btn-scene-next"]');
+        if (battleNavi) {
+            battleNavi.forEach(bInfo => {
+                BattleObserver.observe(bInfo, config_simple);
+            });
         }
     }
 }
@@ -2227,7 +2225,6 @@ async function ObserverImageDIV() {
     }
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(document.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
-
 }
 
 const main = async () => {
