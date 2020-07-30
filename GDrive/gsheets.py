@@ -5,7 +5,7 @@
 
 import contextlib, csv, os
 from apiclient.discovery import build  # pip3 install google-api-python-client
-skipsheets = ['archive','quest','name','image']
+skipsheets = ['archive','quest','name','image','battle']
 savepath = "./cache/"
 
 SHEET = '1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0'
@@ -14,7 +14,8 @@ SHEETS = [
 	'1UxSdJN8_bDZokoQXjIieTyGtuCM9TIxfCyj99HOolOE', # Main stroy
 	'1XjrDTz8eUMWHVHD1C_Gym0jIdyNYVYATqW2qm9HvgfU', # Event story
 	'1x2T-fH_06kSKbyXecFEiTPqcmxR3KiIxQwmiXJV9D68', # Fate story
-	'1vvzihYl_A2JqsujzY3PeOweWTnc7CPd14IZ1lCIoW1s' # Other story
+	'1vvzihYl_A2JqsujzY3PeOweWTnc7CPd14IZ1lCIoW1s', # Other story
+        '16J4ABot4fLP_YRfvjnSoLYOMk5XMF_4xGyj_yfUJVXc' # Battle text
 ]
 
 def get_credentials(scopes, secrets='credentials.json', storage='storage.json'):
