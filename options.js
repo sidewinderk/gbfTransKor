@@ -29,7 +29,9 @@ function restore_options() {
     // Use default value extractMode = true.
     chrome.storage.local.get(['verboseMode', 'origin', 'imageswap', 'battleobserver', 'userFont', 'nonTransText'], function(items) {
         document.getElementById('isVerbose').checked = items.verboseMode;
-        document.getElementById('origintext').value = items.origin;
+        if(items.origin){
+            document.getElementById('origintext').value = items.origin;
+        }
         document.getElementById('doImageSwap').checked = items.imageswap;
         document.getElementById('doBattleTranslation').checked = items.battleobserver;
         document.getElementById('fontaddr').value = items.userFont;
