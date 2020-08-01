@@ -139,7 +139,6 @@ function walkDownTreeStyle(node, command, variable = null) {
         if (node.length) {
             if (node.length > 0) {
                 for (var i = 0; i < node.length; i++) walkDownTreeStyle(node[i], command, variable);
-                _sceneIndex;
             }
         }
     } else {
