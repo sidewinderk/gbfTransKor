@@ -1784,7 +1784,7 @@ function translate_StoryText(stext, jsonFile) {
     stext = stext.split('"').join("'");
     stext = stext.replace(/&nbsp;/g, ' ');
     stext = stext.replace(/\s+/g, " ");
-
+    
     if (sex == 0) {
         if (stext.includes(userName))
             if (curLanugage == 'Japanese')
@@ -1830,6 +1830,9 @@ function translate_StoryText(stext, jsonFile) {
             PrintLog('no translation');
             return '';
         }
+    } else {
+        PrintLog('no text');
+        return '';
     }
 }
 
