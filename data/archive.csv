@@ -11441,6 +11441,242 @@ START:DASH!!,START:DASH!!,,,,,,,,,,,,,,,O
 福音の星晶獣に祝福されし者
 "<div class=""txt-title-name "">理想郷の教育課程を修了せし者</div>"
 理想郷の教育課程を修了せし者
+
+"<div class=""txt-title-name "">初勝ち星</div>"
+初勝ち星
+獲得条件：「決戦！星の古戦場」同一開催回において本戦で*勝、もしくはスペシャルバトル討伐成功(本戦進出騎空団対象)
+"<div class=""txt-title-name "">古戦場の英雄</div>"
+古戦場の英雄
+"獲得条件：古戦場イベントにおいて、個人ランキング*,***位入賞"
+"<div class=""txt-title-name "">古戦場の豪傑</div>"
+古戦場の豪傑
+"獲得条件：古戦場イベントにおいて、個人ランキング**,***位入賞"
+"<div class=""txt-title-name "">古戦場の麒麟児</div>"
+古戦場の麒麟児
+"獲得条件：古戦場イベントにおいて、個人ランキング***,***位入賞"
+"<div class=""txt-title-name "">古戦場の新鋭</div>"
+古戦場の新鋭
+"<div class=""txt-title-name "">戦貨を集めてみませんか？</div>"
+戦貨を集めてみませんか？
+"獲得条件：古戦場イベントにおいて、戦貨を累計**,***枚獲得"
+古戦場
+"<option data-category-id=""*"" value=""*"" selected="""">古戦場</option>								<option data-category-id=""*"" value=""*"">敵の討伐</option>								<option data-category-id=""*"" value=""*"">討滅戦</option>								<option data-category-id=""*"" value=""*"">四象降臨</option>								<option data-category-id=""*"" value=""*"">エクストラクエスト</option>								<option data-category-id=""*"" value=""*"">トレハン</option>								<option data-category-id=""*"" value=""*"">カニ</option>								<option data-category-id=""*"" value=""*"">ブレイブグラウンド</option>								<option data-category-id=""*"" value=""*"">スライム</option>								<option data-category-id=""*"" value=""**"">その他</option>"
+敵の討伐
+討滅戦
+トレハン
+カニ
+ブレイブグラウンド
+スライム
+
+"<div class=""txt-title-name "">アニママニア</div>"
+アニママニア
+獲得条件：アニマ、マグナアニマと名がつくアイテムを累計で*****個入手
+"<option data-category-id=""*"" value=""*"" selected="""">トレジャー</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+カジノ
+セラフィックウェポン
+"<div class=""txt-title-name "">大富豪</div>"
+"大富豪,"
+獲得条件：*******ルピ所持
+"<option data-category-id=""*"" value=""*"">トレジャー</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+"<div class=""txt-title-name "">駆け出し勝負師</div>"
+駆け出し勝負師
+獲得条件：カジノでメダルを累計*万枚獲得する
+"<div class=""txt-title-name "">カジノ・ミリオネラ</div>"
+カジノ・ミリオネラ
+獲得条件：カジノでメダルを累計***万枚獲得する
+"<div class=""txt-title-name "">天の至宝に最も近い者</div>"
+天の至宝に最も近い者
+獲得条件：カジノでメダルを累計****万枚獲得する
+"<div class=""txt-title-name "">塵も積もれば…</div>"
+塵も積もれば…
+獲得条件：カジノでメダルを累計****枚拾う
+"<div class=""txt-title-name "">スロッター</div>"
+スロッター
+獲得条件：BAR当選
+"<div class=""txt-title-name "">☆★☆７７７☆★☆</div>"
+☆★☆７７７☆★☆
+獲得条件：７７７当選
+"<div class=""txt-title-name "">ジャックポット当選しました。</div>"
+ジャックポット当選しました。
+獲得条件：スロットでジャックポットを当てる
+"<div class=""txt-title-name "">運は天に在り</div>"
+運は天に在り
+獲得条件：ダブルアップ*回目を達成
+"<div class=""txt-title-name "">ロイヤルストレートフラッシュ</div>"
+ロイヤルストレートフラッシュ
+獲得条件：ポーカーでロイヤルストレートフラッシュを作る
+"<div class=""txt-title-name "">手を下すまでもなかった</div>"
+手を下すまでもなかった
+獲得条件：FREE BALLでBINGOする
+"<div class=""txt-title-name "">一番乗り！</div>"
+一番乗り！
+獲得条件：BINGOで*位を取る
+"<option data-category-id=""*"" value=""*"">トレジャー</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+"<div class=""txt-title-name "">ヘブンリーボール</div>"
+ヘブンリーボール
+獲得条件：CHANCE BALLでBINGOする
+"<div class=""txt-title-name "">スーパービンゴ</div>"
+スーパービンゴ
+獲得条件：SUPER BINGOをする
+"<div class=""txt-title-name "">四天司の剣との出会い</div>"
+四天司の剣との出会い
+獲得条件：Sレア武器「ソード・オブ・ミカエル」を入手
+"<div class=""txt-title-name "">四天司の杖との出会い</div>"
+四天司の杖との出会い
+獲得条件：Sレア武器「ワンド・オブ・ガブリエル」を入手
+"<div class=""txt-title-name "">四天司の手甲との出会い</div>"
+四天司の手甲との出会い
+獲得条件：Sレア武器「グローブ・オブ・ウリエル」を入手
+"<div class=""txt-title-name "">四天司の弓との出会い</div>"
+四天司の弓との出会い
+獲得条件：Sレア武器「リング・オブ・ラファエル」を入手
+"<div class=""txt-title-name "">天司の竪琴との出会い</div>"
+天司の竪琴との出会い
+獲得条件：Sレア武器「ハープ・オブ・ハルワアムル」を入手
+"<div class=""txt-title-name "">堕天司の鎌との出会い</div>"
+堕天司の鎌との出会い
+獲得条件：Sレア武器「サイス・オブ・ベリアル」を入手
+"<option data-category-id=""*"" value=""*"">トレジャー</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+
+"<div class=""txt-title-name "">導きの士</div>"
+導きの士
+獲得条件：パーティの戦力が*****に到達
+"<div class=""txt-title-name "">覇空の士</div>"
+覇空の士
+"<div class=""txt-title-name "">全空の一等星</div>"
+全空の一等星
+獲得条件：パーティの戦力が******に到達
+"<option data-category-id=""*"" value=""*"" selected="""">戦力</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+Rank
+"<div class=""txt-title-name "">鍛冶屋開業</div>"
+鍛冶屋開業
+獲得条件：強化を***回行う
+"<div class=""txt-title-name "">火の工具箱</div>"
+火の工具箱
+獲得条件：火属性強化スキルLv**に到達
+"<div class=""txt-title-name "">水の工具箱</div>"
+水の工具箱
+獲得条件：水属性強化スキルLv**に到達
+"<div class=""txt-title-name "">土の工具箱</div>"
+土の工具箱
+獲得条件：土属性強化スキルLv**に到達
+"<div class=""txt-title-name "">風の工具箱</div>"
+風の工具箱
+獲得条件：風属性強化スキルLv**に到達
+"<div class=""txt-title-name "">光の工具箱</div>"
+光の工具箱
+獲得条件：光属性強化スキルLv**に到達
+"<div class=""txt-title-name "">闇の工具箱</div>"
+闇の工具箱
+獲得条件：闇属性強化スキルLv**に到達
+"<option data-category-id=""*"" value=""*"">戦力</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+"<div class=""txt-title-name "">手練れの騎空士</div>"
+手練れの騎空士
+獲得条件：Rank**に到達
+"<div class=""txt-title-name "">進撃の騎空士</div>"
+進撃の騎空士
+"<div class=""txt-title-name "">豪傑の騎空士</div>"
+豪傑の騎空士
+"<div class=""txt-title-name "">星翔の騎空士</div>"
+星翔の騎空士
+獲得条件：Rank***に到達
+"<div class=""txt-title-name "">限界突破</div>"
+限界突破
+"<div class=""txt-title-name "">星の瞬き</div>"
+星の瞬き
+獲得条件：クエスト『星の瞬き』をクリア
+"<div class=""txt-title-name "">星の囁き</div>"
+星の囁き
+獲得条件：クエスト『星の囁き』をクリア
+"<div class=""txt-title-name "">想い出を胸に</div>"
+想い出を胸に
+獲得条件：クエスト『星の誘い』をクリア
+"<div class=""txt-title-name "">特異点せしめる力</div>"
+特異点せしめる力
+獲得条件：クエスト『神撃の試練』をクリア
+"<div class=""txt-title-name "">神話の始まり</div>"
+神話の始まり
+獲得条件：クエスト『神話の高みへ』をクリア
+"<div class=""txt-title-name "">かけがえのないあなた</div>"
+かけがえのないあなた
+獲得条件：クエスト『オーバーカム・スカイ・オリジン』をクリア
+"<option data-category-id=""*"" value=""*"">戦力</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+"<div class=""txt-title-name "">究竟の剣闘士</div>"
+究竟の剣闘士
+獲得条件：ファイター系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の守護騎士</div>"
+究竟の守護騎士
+獲得条件：ナイト系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の聖職者</div>"
+究竟の聖職者
+獲得条件：プリースト系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の魔導士</div>"
+究竟の魔導士
+獲得条件：ウィザード系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の盗賊</div>"
+究竟の盗賊
+獲得条件：シーフ系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">解き放て漢唄</div>"
+解き放て漢唄
+獲得条件：クエスト『祭と喧嘩は海の華』をクリア
+"<div class=""txt-title-name "">究竟の魔剣士</div>"
+究竟の魔剣士
+獲得条件：エンハンサー系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の格闘士</div>"
+究竟の格闘士
+獲得条件：グラップラー系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の射手</div>"
+究竟の射手
+獲得条件：レンジャー系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の吟遊詩人</div>"
+究竟の吟遊詩人
+獲得条件：ハーピスト系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">究竟の槍騎兵</div>"
+究竟の槍騎兵
+獲得条件：ランサー系のジョブでクエスト「受け継がれる意思」をクリア
+"<option data-category-id=""*"" value=""*"">戦力</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ジョブ</option>,"
+"<div class=""txt-title-name "">蒼穹に舞いし者</div>"
+蒼穹に舞いし者
+獲得条件：クエスト『炎と剣のスパルタレッスン』をクリア
+"<div class=""txt-title-name "">機巧の申し子</div>"
+機巧の申し子
+獲得条件：クエスト『開催！ GBC！』をクリア
+"<div class=""txt-title-name "">栄光帯びし剣の遣い手</div>"
+栄光帯びし剣の遣い手
+獲得条件：クエスト『グロウ・グローリー』をクリア
+"<div class=""txt-title-name "">月夜に溶ける黒き術者</div>"
+月夜に溶ける黒き術者
+獲得条件：クエスト『老猫の妙技』をクリア
+"<div class=""txt-title-name "">刀によりて生きる者</div>"
+刀によりて生きる者
+獲得条件：クエスト『誰が為に剣は在る』をクリア
+"<div class=""txt-title-name prt-text-small"">マーシャル・マジック・アーティスト</div>"
+マーシャル・マジック・アーティスト
+獲得条件：クエスト『崩壊、危機、乗り越えて』をクリア
+"<div class=""txt-title-name "">生老病死を乱す者</div>"
+生老病死を乱す者
+獲得条件：クエスト『他人を救う覚悟』をクリア
+"<div class=""txt-title-name "">グランブルーサバイバー</div>"
+グランブルーサバイバー
+獲得条件：クエスト『生き抜く意志と力』をクリア
+"<div class=""txt-title-name "">ムッシュ・ド・シエル</div>"
+ムッシュ・ド・シエル
+獲得条件：クエスト『血塗られた洞窟』をクリア
+"<div class=""txt-title-name "">俺は音楽に感謝している</div>"
+俺は音楽に感謝している
+獲得条件：クエスト『ライト・マイ・ファイアー』をクリア
+"<div class=""txt-title-name "">究竟の双剣士</div>"
+究竟の双剣士
+獲得条件：グラディエーター系のジョブでクエスト「受け継がれる意思」をクリア
+"<div class=""txt-title-name "">丸太は持ったな！！</div>"
+丸太は持ったな！！
+獲得条件：クエスト『森の担い手』をクリア
+"<div class=""txt-title-name "">グランブルーダービー</div>"
+グランブルーダービー
+獲得条件：クエスト『騎乗の勇士』をクリア
+"<div class=""txt-title-name "">精霊からの戦装束</div>"
+精霊からの戦装束
+獲得条件：クエスト『歴史を継ぐもの』をクリア
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
@@ -11834,13 +12070,13 @@ Sレアの武器が含まれています！,SR 무기가 포함되어있습니�
 並び替えて表示する,정렬을 바꿔서 표시한다
 第*条件,제*조건
 並び替え条件,정렬조건
-レア度,레어도
-戦力,전력
+レア度,레어도
+戦力,전력
 攻撃力,공격력
 属性順,속성순
 得意武器,특기무기
 入手順,입수순
-並び順,정렬순
+並び順,정렬순
 低い順,낮은 순
 高い順,높은 순
 絞り込んで表示する,골라서 표시한다
