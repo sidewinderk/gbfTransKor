@@ -11379,6 +11379,68 @@ START:DASH!!,START:DASH!!,,,,,,,,,,,,,,,O
 防御力が上昇した状態(消去不可),,,,,,,,,,,,,,,,X
 *回攻撃の発生確率が上昇した状態(消去不可),,,,,,,,,,,,,,,,X
 致死ダメージでもHP*で耐える状態(消去不可),,,,,,,,,,,,,,,,X
+"<ul class=""lis-treasures"" id=""treasure-list"" data-treasure-max=""**""></ul>"
+部分一致で称号を検索します
+検索,검색
+全ての称号を表示,모든 칭호를 본다
+"<div class=""txt-title-name "">大いなる翼を授かりし者</div>"
+大いなる翼を授かりし者
+獲得条件：メインクエスト第*章クリア
+"<div class=""txt-title-name "">太古の因縁を断ち切りし者</div>"
+太古の因縁を断ち切りし者
+"<div class=""txt-title-name "">堕ちゆく水都を救いし者</div>"
+堕ちゆく水都を救いし者
+獲得条件：メインクエスト第**章クリア,획득조건：메인 퀘스트 제**장 클리어
+"<div class=""txt-title-name "">因果交わる地を訪れし者</div>"
+因果交わる地を訪れし者
+"<div class=""txt-title-name "">忠騎の闇を祓いし者</div>"
+忠騎の闇を祓いし者
+"<div class=""txt-title-name "">名無しの幽霊を導きし者</div>"
+名無しの幽霊を導きし者
+"<div class=""txt-title-name "">空駆ける旧約を叶えし者</div>"
+空駆ける旧約を叶えし者
+"<div class=""txt-title-name "">鎖を断ち切り真実を求む者</div>"
+鎖を断ち切り真実を求む者
+"<div class=""txt-title-name "">野望の真相に迫る者</div>"
+野望の真相に迫る者
+"<div class=""txt-title-name "">再訪と解放を誓いし者</div>"
+再訪と解放を誓いし者
+"<div class=""txt-title-name "">秩序と規律を救いし者</div>"
+秩序と規律を救いし者,질서와 규율의 구원자
+メインクエスト,메인 퀘스트
+"<option data-category-id=""*"" value=""*"" selected="""">メインクエスト</option>                                                                <option data-category-id=""*"" value=""*"">フリークエスト</option>                                                                <option data-category-id=""*"" value=""*"">イベント</option>                                                                <option data-category-id=""*"" value=""*"">コラボイベント</option>                                                                <option data-category-id=""*"" value=""*"">サイドストーリー</option>"
+フリークエスト,프리 퀘스트
+コラボイベント,콜라보 이벤트
+サイドストーリー,사이드 스토리
+"<div class=""txt-title-name "">暴虐より故郷を守りし者</div>"
+暴虐より故郷を守りし者
+"<div class=""txt-title-name "">悪意より創樹を解放せし者</div>"
+悪意より創樹を解放せし者
+"<div class=""txt-title-name "">漆黒の帝都に光当てし者</div>"
+漆黒の帝都に光当てし者
+"<div class=""txt-title-name "">蒼の少女と旅する者</div>"
+蒼の少女と旅する者
+"<div class=""txt-title-name "">幾重もの縁を結ぶ者</div>"
+幾重もの縁を結ぶ者
+"<div class=""txt-title-name "">瘴流域を越え進みし者</div>"
+瘴流域を越え進みし者
+"<div class=""txt-title-name "">争いの火種を鎮めし者</div>"
+争いの火種を鎮めし者
+"<div class=""txt-title-name "">千里眼の賢者に認められし者</div>"
+千里眼の賢者に認められし者
+"<div class=""txt-title-name "">星の獣と憩いし者</div>"
+星の獣と憩いし者
+"<div class=""txt-title-name "">緋色と黄金を越えし者</div>"
+緋色と黄金を越えし者
+獲得条件：メインクエスト第***章クリア
+"<div class=""txt-title-name "">現世と幽世を断ち切りし者</div>"
+現世と幽世を断ち切りし者
+"<div class=""txt-title-name "">暁の空を巡りし者</div>"
+暁の空を巡りし者
+"<div class=""txt-title-name "">福音の星晶獣に祝福されし者</div>"
+福音の星晶獣に祝福されし者
+"<div class=""txt-title-name "">理想郷の教育課程を修了せし者</div>"
+理想郷の教育課程を修了せし者
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
