@@ -11524,23 +11524,23 @@ START:DASH!!,START:DASH!!,,,,,,,,,,,,,,,O
 獲得条件：スロットでジャックポットを当てる,획득조건：슬롯으로 잭팟을 맞춘다
 
 運は天に在り,운은 하늘에 맡겼다
-獲得条件：ダブルアップ*回目を達成
+獲得条件：ダブルアップ*回目を達成,획득조건：더블업 *회차를 달성
 
 ロイヤルストレートフラッシュ,로얄 스트레이트 플러시
 獲得条件：ポーカーでロイヤルストレートフラッシュを作る
 
 手を下すまでもなかった,손쓸 필요도 없었다
-獲得条件：FREE BALLでBINGOする
+獲得条件：FREE BALLでBINGOする,획득조건：FREE BALL로 BINGO되기
 
 一番乗り！,일등！
-獲得条件：BINGOで*位を取る
+獲得条件：BINGOで*位を取る,획득조건：BINGO에서 *위가 된다
 "<option data-category-id=""*"" value=""*"">トレジャー</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 
-ヘブンリーボール
-獲得条件：CHANCE BALLでBINGOする
+ヘブンリーボール,헤븐리 볼
+獲得条件：CHANCE BALLでBINGOする,획득조건：CHANCE BALL로 BINGO되기
 
-スーパービンゴ
-獲得条件：SUPER BINGOをする
+スーパービンゴ,슈퍼빙고
+獲得条件：SUPER BINGOをする,획득조건：SUPER BINGO에 당첨
 
 四天司の剣との出会い
 獲得条件：Sレア武器「ソード・オブ・ミカエル」を入手
