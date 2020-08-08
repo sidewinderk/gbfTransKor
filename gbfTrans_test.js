@@ -9,7 +9,7 @@ var generalConfig = {
     defaultNameFemale_en: "[Djeeta]",
     defaultTransNameMale: "[그랑]", // Default translated user name
     defaultTransNameFemale: "[지타]",
-    defaultFont: "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff');",
+    defaultFont: "src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff'); font-weight: normal; font-style: normal;",
     defaultFontName: "NanumSquare"
 };
 var doc = document;
@@ -1346,7 +1346,7 @@ async function InitList() {
 
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
-    @font-face {font-family: 'CustomFont';font-style: normal;src: ${generalConfig.defaultFont};unicode-range: U+AC00-D7AF;}`;
+    @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+AC00-D7AF;}`;
     if (!initialize) {
         PrintLog("Initialized");
         var styleSheet = doc.createElement('style');
