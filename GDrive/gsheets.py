@@ -38,7 +38,11 @@ def itersheets(id):
         for item in skipsheets:
            if item not in name:
                continue
-           yield (title, name), vr['values']
+           try:
+               yield (title, name), vr['values']
+           except:
+               print("Exception on checking sheet")
+               continue
 #        if(name not in skipsheets):
 #            continue
 #        yield (title, name), vr['values']
