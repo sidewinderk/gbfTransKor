@@ -59,11 +59,11 @@ document.getElementById('doBattleTranslation').onclick = function(element) {
     save_options();
 }
 document.getElementById('nanumFont').onclick = function(element) {
-    document.getElementById('fontaddr').value = "url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff')";
+    document.getElementById('fontaddr').value = "font-style: normal;src:url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff')";
     save_options();
 }
-document.getElementById('youthFont').onclick = function(element) {
-    document.getElementById('fontaddr').value = "url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'), url('//cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff')";
+document.getElementById('additionalFont1').onclick = function(element) {
+    document.getElementById('fontaddr').value = "src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff'); font-weight: normal; font-style: normal;";
     save_options();
 }
 document.getElementById('customFont').onclick = function(element) {
