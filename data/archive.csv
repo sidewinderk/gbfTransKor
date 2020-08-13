@@ -12793,17 +12793,70 @@ The Dragon Knights
 闇属性に自信アリ
 獲得条件<br>闇属性強化スキルLv**に到達
 獲得条件<br>闇属性強化スキルLv***に到達
-
+!로보미Z
 ロボミZ,로보미Z
 ,,,,,,,,,,,,,"</div>,"
 守れ！ヒトよ、壊獣よ,"지켜라！인간이여, 괴수여"
 激闘！壊獣軍団現る！
 恐怖！壊獣軍団の猛攻！
 
-決戦！壊人デスロウ！
+決戦！壊人デスロウ！,결전！괴인 데스로우！
 最終決戦！覇壊大帝デスロウ！,최종결전！패괴대제 데스로우！
 
-"変わり果てたぴにゃたちの姿を見て、<br>恐怖で立ちすくんでしまうハレゼナ。<br>だが、そんな彼女に追い撃ちをかける<br>かのように壊獣が襲いかかる──<br>君は、少女の笑顔を取り戻せるか。,"
+変わり果てたぴにゃたちの姿を見て、<br>恐怖で立ちすくんでしまうハレゼナ。<br>だが、そんな彼女に追い撃ちをかける<br>かのように壊獣が襲いかかる──<br>君は、少女の笑顔を取り戻せるか。
+
+敗北条件
+ハレゼナの戦闘不能<br>全滅
+"<span class=""txt-gauge-value"">*</span><div>%</div>"
+デストロイ光線
+マスティケーション
+光属性ダメージ(大)
+硬針
+ベリナイ・ディス・アセンブリ
+"土属性ダメージ(特大)<br><span class=""text-blue"">◆壊天刃Lvに応じて奥義性能UP</span>"
+◆壊天刃Lvに応じて奥義性能UP
+ゲルゴゴゴミゴモ……！
+ひっ……！？　うぅ、ぐすっ。<br>ぴにゃ……みんな……
+──………！？<br>………………！！<br>(壊獣の前に立ちはだかる)
+ぇ……なんで……？<br>ぴにゃ……<br>ぴにゃ……なの？
+────！！<br>(コクリと頷き戦闘態勢に入る)
+
+
+細胞修復膜
+暴食欲求
+自分の攻撃UP(大)
+"<div class=""recast"">使用間隔: *ターン</div>					<div class=""duration"">効果時間: *ターン</div>"
+スーパーソニック
+
+"<div class=""recast"">使用間隔: *ターン</div>					<div class=""duration""></div>"
+にらみつける
+自分にかばう効果/防御大幅UP
+蓄光
+自分の奥義ダメージUP(*回)
+防護被膜
+雷電のエラディケート
+電磁スパーク
+"Rank<span id=""pc_param-level"">**<span class=""txt-player-nextlv""></span></span>"
+"**<span class=""txt-player-nextlv""></span>"
+"Job Lv<span id=""pc_job-level"">*<span class=""txt-player-nextjoblv""></span></span>"
+"*<span class=""txt-player-nextjoblv""></span>"
+"Lv??<span class=""txt-npc-nextlv*""></span>"
+獲得アイテムはありません
+"<span class=""txt-get-lupi-title"">獲得ルピ</span>"
+獲得したアイテムやルピの所持数が上限に達している場合、<br>自動で期限ありプレゼントに送られます。
+"EXP　<span class=""txt-exp-plus""></span>"
+"+*** <span class=""txt-bonus"">(ボーナス +***)</span>"
+"<canvas id=""cjs-hell-skip-result""></canvas>"
+"<canvas id=""cjs-arcarum_result_clear"" class=""cjs-arcarum-result"" width=""***"" height=""***""></canvas>"
+
+クエストコンプリート報酬
+碧空の結晶を*個獲得！
+称号獲得
+称号を獲得しました。
+女の子いじめは許さない
+"<canvas id=""cjs-hell-skip-result"" width=""*""></canvas>"
+何だかスゲェお宝のニオイがするぜ！<br>			腕試しにチャレンジしてみようぜぇー！<br>
+"<div class=""prt-boost-icon ico-effect-*"">							<div class=""ico-number-**""></div>						</div>"
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
@@ -14506,7 +14559,7 @@ Skip,건너뛰기
 !엑스트라 퀘스트
 "<span class=""num-stamina-additional*""></span><span class=""num-stamina-additional*""></span><span class=""num-stamina-additional*""></span><span class=""num-stamina-slash""></span><span class=""num-stamina*""></span><span class=""num-stamina*""></span>"
 "<span class=""ico-bp over-limit""></span><span class=""ico-bp over-limit""></span><span class=""ico-bp over-limit""></span><span class=""ico-bp over-limit""></span><span class=""ico-bp over-limit""></span>"
-何だかスゲェお宝のニオイがするぜ！<br>腕試しにチャレンジしてみようぜぇー！<br>,엄청난 보물의 냄새가 나는걸！<br>                        腕試しにチャレンジしてみようぜぇー！<br>
+
 素材クエスト,소재 퀘스트
 キャンペーン限定クエスト,캠페인 한정 퀘스트
 上限解放の試練,상한해방의 시련
