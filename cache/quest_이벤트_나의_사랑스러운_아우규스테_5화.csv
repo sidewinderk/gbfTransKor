@@ -1,0 +1,456 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",synopsis,,今年も<span class='scene-font-place'>アウギュステ</span>に来てしまったメグは、まりっぺとその彼氏と共にシィラス島へ行くことに。沖までボートで来ると、メグは急に海へ飛び込んでみせる。ヤケクソのメグにもはや怖いものなどなく、開き直って楽しむつもりだ。しかし次の瞬間、何者かの電撃を受けて海中で気絶してしまう。すると謎の人物が現れ、メグを攻撃した存在を撃退するのだった。,"올해도 <span class='scene-font-place'>아우규스테</span>에 와버린 메구는, 마릿페와 그녀의 남친과 함게 시라스섬에 가기로 했다. 근해까지 보트를 타고 도착하자, 메구는 갑자기 물에 뛰어든다. 자포자기한 심정의 메구에겐 더이상 무서운 것은 없고, 태도를 바꿔 즐길 생각이다. 하지만 그 직후, 무언가로부터 전기 충격을 받아 바다 속에서 기절해버린다. 그러자 수수께끼의 인물이 나타나, 메구를 공격했던 존재를 퇴치하는 것이었다."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の首都ミザレアに建つ</span><br><span class='scene-font-katari'>ホテルのフロントに、</span><br><span class='scene-font-katari'>チェックインを済ませる少女がいた。</span>,<span class='scene-font-katari'>아우규스테의 수도 미자레아에 세워진 호텔 프론트에서 한 소녀가 체크인을 하고 있었다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>必要事項をすばやく書き記す筆づかいは</span><br><span class='scene-font-katari'>少女がこのホテルに</span><br><span class='scene-font-katari'>慣れていることを物語っている。</span>,"<span class='scene-font-katari'>필요한 항목을 빠르게 채워나가는 손놀림을 보아, 소녀가 이 호텔에 익숙하다는 것을 알 수 있었다.</span>"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,ホテル支配人,あの……メグ様……<br>今年もいらっしゃっていただいて<br>ま、誠にありがとうございます……,"그... 메구님. 올해도 와 주시다니 저, 정말 감사드립니다..."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,…………,…………
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,ホテル支配人,おすすめしたベンディク島で<br>昨年もトラブルがあったそうで……<br>その、なんとお詫びしたらよいのか……,"작년에 추천해 드렸던 벤딕 섬에서도 트러블을 겪으셨다고 들었는데... 그, 뭐라고 사죄를 드려야 할지..."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,いいんです……<br>支配人さんのせいじゃないですから……,괜찮아요... 지배인님 잘못이 아니니까요...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,ホテル支配人,それで……<br>あの、今年はどのようにして……？,"그래서... 그, 올해는 어떻게 오게 되신 건가요...?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,ふふ……<br>聞きたいですか？<br>わたしがここに来た理由を……,후후... 듣고 싶으세요? 제가 여기에 오게 된 이유...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,お望みならお話ししますよ。<br>でもわたしが今年もここに来たという<br>事実は変わりませんけどね……,원하신다면 들려드릴게요. 제가 올해도 여기 오게 됐다는 사실은 변하지 않겠지만요...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,ホテル支配人,あ、では大丈夫です……,"아, 그럼 사양하겠습니다..."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>自嘲気味に笑うメグの迫力に圧され、</span><br><span class='scene-font-katari'>おそらくいろいろあったのだろうと</span><br><span class='scene-font-katari'>事情を察した支配人は口を閉じた。</span>,<span class='scene-font-katari'>자조적인 웃음을 짓는 메구의 기백에 압도당한 지배인은 아마도 이런저런 일이 있었으리라 짐작하며 입을 다물었다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>ビーチで遊ぶ観光客を眺めながら</span><br><span class='scene-font-katari'>メグは自分に降りかかるであろう</span><br><span class='scene-font-katari'>トラブルを予期して短く笑った。</span>,<span class='scene-font-katari'>해변가에서 뛰노는 관광객을 바라보던 메구는 자신에게 닥쳐 올 트러블을 예감하며 피식 웃었다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,どうせ今年もわたしだけ……,어차피 올해도 나 혼자야...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,あれ～、メグ？<br>なにしてんの？ こんなとこで。,어라~ 메구? 이런 데서 뭐 하고 있어?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,まりっぺ……,마릿페...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,なになに？<br>どーしたの？,뭐야 뭐야? 무슨 일이야?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,アタシの地元の友達ぃ～<br>いっつもひとりで<br><span class='scene-font-place'>アウギュステ</span>に来るコなのよ。,내 고향 친구~ 늘 혼자서 <span class='scene-font-place'>아우규스테</span>에 오는 애야.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,やあ、初めまして！<br>ソロで<span class='scene-font-place'>アウギュステ</span>とか<br>度胸あるんだねぇ～,"오, 안녕하세요! 솔로인데 <span class='scene-font-place'>아우규스테</span>에 오다니 대담하다~"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,はぁ……,"아, 네..."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,あー……そういえばさ、<br>アタシそろそろ地元出ようかな～って<br>考えてんだけど、メグどう思う？,"아~ 그러고 보니, 나 슬슬 고향을 떠날까 생각중인데, 메구는 어떻게 생각해?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,え、そうなの？<br>どうして？,"어, 그래? 왜?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,あんな田舎じゃつまんないじゃん。<br>そろそろ自分を<br>変えてかないとな～みたいな？,그런 시골은 따분하잖아. 슬슬 자신을 좀 바꿔보고 싶네~ 하는 생각이 들어서?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,自分を変える……,자신을 바꾼다라...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ま、メグに言ってもしょうがないか。<br>それで、なにしてんの？,"뭐, 메구한테 이런 소리 해봤자 소용없겠지. 그래서 뭐 하고 있었어?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,いま着いたばっかりで<br>なにしてるってわけでもないよ。<br>ボーッとしてただけで……,방금 막 도착한 참이라 딱히 뭘 하고 있었던 건 아냐. 그냥 멍하니 있었어...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ボーッとねぇ……<br>メグっていつもボーッとしてるよね。,멍하게 있었다니... 메구는 항상 멍하게 있네.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,…………,…………
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ヒマしてんならアンタも来る？<br>アタシらこれから<br>シィラス島にバカンスに行くの。,심심하면 너도 올래? 우리 지금부터 시라스 섬에 바캉스 갈 건데.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,なんとかっていうサカナが<br>おいしいところとしても<br>有名で──,뭐라고 하더라? 무슨 생선이 맛있는 곳으로 유명하대ㅅ...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,行く。,갈게.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,え？<br>行くの……？,어? 갈 거야...?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,なに？<br>誘ってくれたんでしょ？,왜? 가자고 한 거 아냐?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,え、あぁ……うん。,"어, 어... 응."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,もうなにが起きてもいいの。<br>いちいち逃げるつもりはないから。<br>……どうせなら遊び倒すつもりだよ。,이제 무슨 일이 일어나든 상관없어. 매번 도망칠 수는 없으니까. ...어차피 그렇게 될 거면 신나게 놀 거야.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,…………ごめん、なんの話？,...미안한데 무슨 얘기야?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>度重なるトラブルを経て</span><br><span class='scene-font-katari'>ヤケクソになったメグは</span><br><span class='scene-font-katari'>開き直って遊ぶ決意を固めた。</span>,<span class='scene-font-katari'>계속되는 트러블에 시달리며 자포자기에 빠진 메구는 그냥 신나게 놀겠다는 각오를 다졌다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>そしてまりっぺとその彼氏と共に</span><br><span class='scene-font-katari'>メグはシィラス島へ場所を移した。</span>,<span class='scene-font-katari'>그렇게 그녀는 마릿페 커플과 함께 시라스 섬으로 이동했다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,ボートって……<br>漕ぐの……<br>難しいんだね……,보트라는 거... 젓기... 힘들구나...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ありがと！<br>惚れ直しちゃった♪,고마워! 완전 반해버릴 것 같아~
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,…………,…………
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>シィラス島にやってきた３人は</span><br><span class='scene-font-katari'>貸しボートに乗り、</span><br><span class='scene-font-katari'>気ままに沖を遊覧していた。</span>,<span class='scene-font-katari'>시라스 섬으로 온 세 사람은 보트를 빌려타고 내키는 대로 바다 위를 떠다니고 있었다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ねぇ、メグ……<br>彼、カッコいいでしょ？<br>最近つきあい始めたんだ～,"저기, 메구. 내 남친 멋있지? 얼마 전에 사귀기 시작했어~"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,え？<br>あぁ、うん……そうだね……<br>それもご利益ってヤツのおかげ？,"어? 아, 응... 그러게... 이것도 축복인지 뭔지 그거 덕분이야?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ふふふ、それはヒミツ～！<br>で、そっちはどうなのよ？<br>男の方は？,"헤헤, 그건 비밀~ 아, 넌 어떤데? 남자 없어?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,えっ？<br>そんなのなにもないんだけど……,어? 그런 건 전혀 없는데...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,はぁ……なにそれ……<br>メグは昔っから<span class='scene-font-place'>アウギュステ</span>と<br>白馬の王子様しか頭になかったわね……,하아.. 뭐야 그게. 메구 머릿속엔 옛날부터 <span class='scene-font-place'>아우규스테</span>랑 백마 탄 왕자님밖에 없다니까...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,白馬の王子様なんてもう待ってないよ。<br>でも<span class='scene-font-place'>アウギュステ</span>って<br>そういうところなのかは疑問……,백마 탄 왕자님은 이제 안 기다려. 그런데 <span class='scene-font-place'>아우규스테</span>가 그런 장소인지는 의문이네...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,なに言ってんの？<br>バカンスっていったら恋でしょ！,무슨 소리야! 바캉스라고 하면 사랑이지!
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,<span class='scene-font-kokoro'>（そうなんだ……）</span>,<span class='scene-font-kokoro'>(그렇구나...)</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,なになに？<br>オレも混ぜてよ～,뭐야 뭐야? 나도 끼워줘~
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ちょっとした恋愛相談ってヤツ～,별 거 아니고 연애상담 하는 거야~
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,もう……！<br>そんな相談してないじゃん。,아니... 상담 안 했잖아.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>するとメグは立ち上がり、</span><br><span class='scene-font-katari'>服を脱いで水着姿になった。</span>,<span class='scene-font-katari'>메구는 그렇게 말하며 일어서더니 옷을 벗고 수영복 차림이 되었다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,わたし、泳ぐね！<br>服はここに置かせて。,"나, 옷은 여기 두고 수영하러 갈게!"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ちょ、ちょっと……<br>こんなところで泳ぐの？<br>本気？,"자, 잠깐... 이런 데서 수영하겠다고? 진심이야?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,けっこう深くない？,꽤 깊지 않나?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,大丈夫。<br>わたし、泳ぐの好きだし。,괜찮아. 나 수영 좋아하거든.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>そう言うと</span><br><span class='scene-font-katari'>メグはためらいもせず、</span><br><span class='scene-font-katari'>海に飛び込んだ。</span>,<span class='scene-font-katari'>메구는 그 말과 함께 망설임없이 바다로 뛰어들었다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,あ～、気持ちいい！<br>やっぱり海は泳がなくちゃ！,아~ 기분 좋다! 역시 바다에선 수영을 해야지!
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,危なくない？<br>ボートに戻りなさいよ。,위험하지 않아? 보트로 올라와.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,ふっ……危ない？<br>もう散々危ない目に遭ってきたよ。<br>それに比べればこの程度……,훗... 위험하다고? 이미 위험한 일은 수없이 겪었어. 그거랑 비교하면 이 정도는...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,<span class='scene-font-kokoro'>（なんか……メグ、変わったわね）</span>,<span class='scene-font-kokoro'>(메구... 뭔가 사람이 달라졌네)</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,ねぇ、アレなに……？<br>影が見えるんだけど……,"저기, 저거 뭐야? 그림자같은 게 보이는데..."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>まりっぺの彼氏が指差した海面には</span><br><span class='scene-font-katari'>ゆらりと漂う</span><br><span class='scene-font-katari'>細く大きな影が見えた。</span>,<span class='scene-font-katari'>마릿페의 새 남친이 가리킨 곳에는 둥둥 떠다니는 길고 큰 그림자가 보였다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>まりっぺは息を呑み、</span><br><span class='scene-font-katari'>同時に浜の方の異変にも気づいた。</span>,<span class='scene-font-katari'>마릿페는 숨을 들이키며 해변가에 이변이 일어났음을 눈치챘다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,ちょっと待って……<br>なんかビーチも騒がしくない？,잠깐 기다려... 해변 쪽도 뭔가 소란스럽지 않아?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,沖に出ている観光客は全て回収したな！<br>ならば点呼をとれ！<br>兵が全員そろっているか報告！,바다에 나가 있는 관광객들은 전부 데려왔겠지? 그럼 점호 시작한다! 전원 다 모였는지 보고해라!
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,貸出しの小艇や浮き袋も<br>全て返却されているか確認しろ！,대여용 보트랑 튜브도 다 반환됐는지 확인해라!
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,なになになに？<br>よく聞こえないけど、<br>なんかヤバそうじゃない……？,뭐야뭐야뭐야? 잘 안 들리긴 하는데 뭔가 위험한 느낌 아냐...?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,オレ達以外の<br>観光客が避難してる……？<br>よく見れば周り誰もいないし……,우리 말고는 관광객들 다 피난한 거 같은데? 잘 보니 주변에 아무도 없어...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,ねぇ、どうしたの？<br>ふたりも泳ごうよ。,"저기, 왜 그래? 너희도 헤엄치자."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,<span class='scene-font-4'>バカ！</span><br>早く上がりなってば！,<span class='scene-font-4'>바보야!</span> 빨리 올라오라니까!
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,────,────
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,<span class='scene-font-4'>ひっ！？</span><br><span class='scene-font-4'>メグ、うしろ！！</span>,"<span class='scene-font-4'>히익! 메구, 뒤쪽!</span>"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,え？,응?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>メグは振り返ろうとしたが、</span><br><span class='scene-font-katari'>意識はそこで途切れてしまう。</span>,<span class='scene-font-katari'>메구는 뒤를 돌아보려고 했지만 거기서 의식이 끊기고 말았다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,────！,────！
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,<span class='scene-font-4'>あばばばばばばばばば……！</span>,<span class='scene-font-4'>어버버버버버버...!</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,<span class='scene-font-4'>メグーッ！？</span>,<span class='scene-font-4'>메구!</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,メグ,あ……あぁ……,아... 아...
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>何者かの電撃を受けてメグは気を失い、</span><br><span class='scene-font-katari'>力を失った身体はうつぶせのまま</span><br><span class='scene-font-katari'>ぷかりと海面に浮かんだ。</span>,<span class='scene-font-katari'>무언가가 쏘아낸 전기충격을 맞은 메구는 정신을 잃었다. 힘을 잃은 그녀의 몸이 엎어진 채로 수면 위에 떠올랐다.</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,ふたり,<span class='scene-font-4'>えええぇぇぇっ！？</span>,<span class='scene-font-4'>으에에에에에!</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>まりっぺは慌ててメグの身体に</span><br><span class='scene-font-katari'>手を伸ばそうとするが……</span>,<span class='scene-font-katari'>마릿페는 당황해서 메구의 몸으로 팔을 뻗으려고 했지만...</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,おい、お前達は海に入るな。<br>感電するぞ。,"이봐, 너희는 바다에 들어가지 마라. 감전될 거다."
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,えっ！？<br>だ、誰……？<br>感電って、なに……？,"어? 누, 누구? 감전된다니, 무슨 소리야...?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,,<span class='scene-font-katari'>まりっぺが振り返ると、</span><br><span class='scene-font-katari'>海面に別のボートが浮いており</span><br><span class='scene-font-katari'>そこにひとりの男が立っていた。</span>,"<span class='scene-font-katari'>마릿페가 뒤를 돌아보자, 바다 위에 보트가 떠 있었고 그 위에는 한 남자가 서 있었다.</span>"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,ボートがひとつ足りないと聞いて<br>駆けつけてみれば、<br>やはりこうなっていたか……,"보트가 하나 부족하다는 소리를 듣고 달려와 봤더니, 역시 이렇게 됐군... "
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,<span class='scene-font-4'>はっ！</span>,<span class='scene-font-4'>하앗!</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,まりっぺ,<span class='scene-font-4'>え、ちょっと！</span><br>アンタは海に入って大丈夫なの！？,"<span class='scene-font-4'>자, 잠깐만!</span> 당신은 바다에 들어가도 괜찮은 거야?"
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,感電って……<br>ビリビリくるってことじゃないの？,감전이라니... 찌릿찌릿 저리는 거 말하는 거 아냐?
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,俺にビリビリは効かん、<br>だからひとりで来たんだ。<br>危ないからそこを動かないでくれ。,내게 찌릿찌릿한 건 통하지 않는다. 그래서 혼자 온 거야. 위험하니까 거기서 움직이지 마라.
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,？？？,……！<br><span class='scene-font-4'>そこだっ！</span>,……！<br><span class='scene-font-4'>거기냐!</span>
+Japanese,"scene_evt200729_cp5_q1_s10,7559511",detail,デンキンナギ,────！！,────！！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",synopsis,,メグを助けたのは、夢に見続けてきた白馬の王子様の条件に合致するアルベールという男だった。メグはデンキンナギという魚に襲われたそうだ。さらに話を聞こうとしたところアルベールは急に走り出し、その先には例の騎空団がいた。そしてデンキンナギとの戦いが始まる。傍から見ていたメグはついにキレた。そしてなにかを決意すると、故郷に帰ると宣言して島を発つのだった。,"메구를 구한 것은, 꿈에 그리던 백마탄 왕자님의 조건에 딱 들어맞는 알베르라는 남자였다. 메구는 전기창어라는 물고기에게 공격당했다는 것 같다. 거기에 이야기를 들으려던 참에 알베르가 갑자기 뛰쳐나가고, 그 앞에는 일전의 기공단이 있었다. 그리고 전기창어와의 싸움이 시작된다. 곁에서 보고있던 메구는 결국 열이 뻗치고만다. 그리고 무언가를 결심하고는, 고향에 돌아가겠다고 선언하고 섬을 떠나는 것이었다."
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>意識を取り戻すと、</span><br><span class='scene-font-katari'>メグは重いまぶたを開くよりも先に</span><br><span class='scene-font-katari'>そこがビーチであることに気づいた。</span>,"<span class='scene-font-katari'>의식이 돌아왔을 때, 메구는 무거운 눈꺼풀을 들어올리기도 전에 그곳이 해변 어딘가임을 눈치챌 수 있었다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>背中一面に触れる熱い砂の感触と、</span><br><span class='scene-font-katari'>寄せては返す波の音が</span><br><span class='scene-font-katari'>生きている実感を与えてくれたのだ。</span>,"<span class='scene-font-katari'>등에 닿는 뜨거운 모래의 감촉, 밀려들었다간 빠져나가는 파도 소리가 그녀가 살아있다는 것을 실감하게 해 주었다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>そして自分の後頭部を支えてくれる</span><br><span class='scene-font-katari'>分厚い手のひらの感触も……</span>,<span class='scene-font-katari'>그리고 자신의 머리를 받쳐주고 있는 두꺼운 손바닥의 감촉도...</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（男の人だ……</span><br><span class='scene-font-kokoro'>わたしを助けてくれたの？</span><br><span class='scene-font-kokoro'>まさか白馬の王子様……？）</span>,<span class='scene-font-kokoro'>(남자구나... 날 구해준 걸까? 혹시 백마 탄 왕자님...?)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（……いや、ちょっと待った。</span><br><span class='scene-font-kokoro'>なんか以前にもこんなことが</span><br><span class='scene-font-kokoro'>あったような……）</span>,<span class='scene-font-kokoro'>(...아니지. 잠깐. 뭔가 전에도 이런 일이 있었던 것 같은데...)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>恐る恐るまぶたを開くと、</span><br><span class='scene-font-katari'>なにか白いものが見えた。</span>,"<span class='scene-font-katari'>조심스럽게 눈을 뜨자, 뭔가 하얀 것이 보였다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,う……ふんどし……？,으... 훈도시...?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,気がついたか。,정신이 들었나?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,え……？,어...?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,無理して起き上がる必要はない。<br>しかし、ふんどしとはいったい……？,억지로 일어나려고 할 필요 없어. 그런데 훈도시라니 무슨 말이지...?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>えぇっ！？</span>,<span class='scene-font-4'>에엑!?</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,ん？,음?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（金髪で……！）</span>,<span class='scene-font-kokoro'>(금발에...!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（明るい瞳の色で……！）</span>,<span class='scene-font-kokoro'>(밝은 색의 눈동자...!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（憂いを帯びた顔つき……！）</span>,<span class='scene-font-kokoro'>(우수에 찬 얼굴...!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,どうした？<br>どこか痛むのか？,왜 그러지? 어디 아픈가?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（は、は、白馬の王子様……！）</span>,"<span class='scene-font-kokoro'>(배, 배, 백마 탄 왕자님...!)</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,メグ、気がついたの？<br>この人がアンタを助けてくれたのよ！,"메구, 정신이 들어? 이 사람이 널 구해주셨어!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,わたしを助けてくれた？<br><span class='scene-font-kokoro'>（てことは、正義感あふれるお方？</span><br><span class='scene-font-kokoro'>やっぱり白馬の王子様だよ……！）</span>,날 구해줬다고?<br><span class='scene-font-kokoro'>(즉 정의감 넘치는 분이라는 거? 역시 백마 탄 왕자님이구나...!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,そ、そうだったんですか……<br>助けて頂いてありがとうございます……<br>あのぉ、お名前は……？,"그, 그랬군요... 구해 주셔서 감사합니다. 저기, 이름이 어떻게 되세요...?"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,アルベールだ。,알베르다.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,素敵なお名前……<br>ご、ご趣味は？,"멋진 이름... 취, 취미는요?"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,おい、大丈夫か……？<br>意識ははっきりしているのか？,"이봐, 괜찮은 거야? 제대로 정신차린 거 맞나?"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,すみませ～ん！<br>このコ、まだちょっと<br>ショックで混乱してるみたいで～！,죄송해요~ 얘가 아직도 쇼크 때문에 좀 혼란스러운 모양이에요~
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,ちょっとどこかで<br>休ませることができたら<br>いいんですけど～！,잠깐 어디서 쉬게 하는 게 좋을 것 같은데요!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,そうだな……<br>そこの海の家へ連れていこう。,그렇군... 저 쪽 바다의 집으로 데려가지.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>するとアルベールは</span><br><span class='scene-font-katari'>メグの身体を抱きかかえ、</span><br><span class='scene-font-katari'>立ち上がった。</span>,<span class='scene-font-katari'>그러더니 알베르는 메구를 들쳐안고 일어섰다.</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4 scene-font-kokoro'>（ひゃあああああぁぁぁっ！</span><br><span class='scene-font-kokoro'>お姫様抱っこ～！</span><br><span class='scene-font-kokoro'>まりっぺ、ナイスアシストだよ～！）</span>,"<span class='scene-font-kokoro'>(꺄아아아악! 공주님 안기! 마릿페, 나이스 어시스트~!)</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,どっ……こいしょ。,여엉... 차.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（え……？）</span>,<span class='scene-font-kokoro'>(어...?)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>海の家へ着くと、</span><br><span class='scene-font-katari'>アルベールは抱きかかえていたメグを</span><br><span class='scene-font-katari'>イスに腰掛けさせた。</span>,<span class='scene-font-katari'>바다의 집에 도착한 알베르는 안고 있던 메구를 의자에 앉혔다.</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,よっ……こらせ。,어기여차...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（ちょっとおじさんくさいかな……</span><br><span class='scene-font-kokoro'>で、でもこのギャップも</span><br><span class='scene-font-kokoro'>魅力のひとつだよね……うん）</span>,"<span class='scene-font-kokoro'>(좀 아저씨같은 느낌이네... 그, 그래도 그런 갭이 매력의 일부기도 하지, 응...)</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（どこから見ても</span><br><span class='scene-font-kokoro'>白馬の王子様だし……</span><br><span class='scene-font-kokoro'>そのはず、なんだけど……）</span>,<span class='scene-font-kokoro'>(어떻게 봐도 백마 탄 왕자님인걸... 그런 거겠지...?)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>金髪で明るい瞳の色を持ち、</span><br><span class='scene-font-katari'>憂いを帯びた顔つきの正義漢……</span>,"<span class='scene-font-katari'>금발에 밝은 색의 눈동자, 우수에 찬 얼굴을 한 정의감 넘치는 남자...</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>目の前にいるアルベールという男は</span><br><span class='scene-font-katari'>長年待ち焦がれていた理想の男性像、</span><br><span class='scene-font-katari'>白馬の王子様に見事に合致している。</span>,"<span class='scene-font-katari'>눈 앞에 있는 알베르라는 남자는 긴 시간을 기다려 왔던 이상적인 남성상, 백마 탄 왕자님에 완벽히 부합하고 있었다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>しかし……</span>,<span class='scene-font-katari'>그러나...</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,おかしい……,이상한데...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,ん？<br>やはりどこか痛むのか？,음? 역시 어디가 아픈가?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,え？<br>あっ、いえ、全然！,"네? 아, 아뇨. 아니에요!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（こんな空前絶後の美男子が</span><br><span class='scene-font-kokoro'>目の前に現れたのに、</span><br><span class='scene-font-kokoro'>どうしてわたしは……？）</span>,<span class='scene-font-kokoro'>(이런 초절정 미남이 눈 앞에 나타났는데 나는 왜...?)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>気絶から目覚めた当初こそ</span><br><span class='scene-font-katari'>眉目秀麗のアルベールに</span><br><span class='scene-font-katari'>メグは胸をときめかせたが……</span>,"<span class='scene-font-katari'>기절에서 깨어난 직후에는 수려한 외모의 알베르에게 두근거렸던 메구였지만,</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>落ち着いてくると、</span><br><span class='scene-font-katari'>待ち望んでいたほど</span><br><span class='scene-font-katari'>心が弾んでいないことに気づいた。</span>,<span class='scene-font-katari'>진정하고 보니 지금까지 기다려왔던 것치고는 그렇게 흥분되지 않는다는 사실을 깨달은 것이었다.</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,あの、そもそもわたしって……<br>どうなったんですか？<br>海を泳いでいたような……,"저기, 애초에 저는 어떻게 된 건가요? 바다에서 헤엄치고 있었던 것 같은데..."
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,デンキンナギだ。<br>電流を発する魚で、<br>そいつに襲われたのさ。,"전기창어다. 전기를 뿜어내는 물고기인데, 그 녀석에게 습격당한 거지."
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,なにか水分をとった方がいいな。<br>待っててくれ。,수분을 좀 취하는 것이 좋겠군. 잠깐 기다려.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>アルベールがカウンターへ向かうと、</span><br><span class='scene-font-katari'>離れたところにいたまりっぺが</span><br><span class='scene-font-katari'>メグに近づいてきた。</span>,"<span class='scene-font-katari'>알베르가 카운터 쪽으로 향하자, 조금 떨어진 곳에 있던 마릿페가 메구에게 다가왔다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,ちょっとメグ！<br>せっかく恋のアシストしてやったのに<br>なに世間話してんの？,"잠깐, 메구! 모처럼 네 사랑을 어시스트해 줬는데 뭘 평범한 이야기나 하고 있어?"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,あんたの好きなタイプじゃん！<br>昔っからずーっと言い続けてきた、<br>白馬の王子様でしょ！？,네가 좋아하는 타입이잖아! 옛날부터 계~속 떠들어대던 백마의 왕자님 아냐?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,でも、なにをすればいいのやら……<br>皆目見当がつかないんだけど……,그치만 뭘 하면 좋을지... 전혀 감도 안 잡히는데...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,はぁ……<br>さっきは成長したと思ってたけど、<br>すっかり昔のメグに戻ってるのね。,하아... 아깐 좀 성장했나 싶었더니 완전히 옛날의 메구로 돌아갔잖아.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,ふだんはなにしてるのかとか<br>どこに宿泊してるのかとか、<br>山ほど聞くことあるでしょーが！,"평소에는 뭘 하냐던가, 어디 묵고 있느냐던가, 물어볼 건 산더미처럼 있는걸!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,確かに……！<br>まりっぺ、すごい！,"그렇구나...! 마릿페, 대단하다!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,ま、せいぜいがんばんなさいよ。<br>それじゃアタシはカレと過ごすから、<br>バイバ～イ♪,"뭐, 열심히 잘 해 보셔. 그럼 난 남친이랑 놀러 갈게. 바이바이~"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（そっか……そうだよね……</span><br><span class='scene-font-kokoro'>白馬の王子様が現れたんだし、</span><br><span class='scene-font-kokoro'>ボケッとしてちゃダメだ！）</span>,<span class='scene-font-kokoro'>(그래... 그렇구나. 백마 탄 왕자님이 나타났으니 멍하니 있을 때가 아냐!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,待たせたな。<br>これを飲むといい。,기다렸지. 이거 마셔라.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,あ、ありがとうございます！,"가, 감사합니다!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,あの、アルベールさんは<br>どうして<span class='scene-font-place'>アウギュステ</span>へ……？,"저기, 알베르 씨는 어떻게 <span class='scene-font-place'>아우규스테</span>에 오시게 됐나요...?"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,仲間達と休暇中だ。<br>まぁ妙な魚のせいで<br>休んでばかりもいられないが……,동료들과 휴가중이다.뭐 저 이상한 물고기 때문에 쉬고 있지도 못하게 됐다만...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,ふだんはなにをされてるんですか？,평소에는 뭘 하시나요?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,職業や身分という意味か？<br>祖国の騎士団で団長を務めている……,직업이나 신분을 말하는 건가? 조국의 기사단 단장을 맡고 있다만...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>えっ！</span><br><span class='scene-font-kokoro'>（騎士様……？</span><br><span class='scene-font-kokoro'>本物の白馬の王子様だ！）</span>,<span class='scene-font-4'>네?</span><br><span class='scene-font-kokoro'>(기사님...? 진짜 백마 탄 왕자님이잖아!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,……が、いまはわけあって、<br>とある騎空団の旅に加わっている。,...그랬었지만 지금은 사정이 있어서 어떤 기공단과 함께 여행하고 있다.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>えっ！？</span><br><span class='scene-font-kokoro'>（騎空団って、まさか……）</span>,"<span class='scene-font-4'>네?</span><br><span class='scene-font-kokoro'>(기공단이라니, 설마...)</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>メグが口をあんぐりさせた時、</span><br><span class='scene-font-katari'>ふいにアルベールは立ち上がり、</span><br><span class='scene-font-katari'>海の方を厳しい目でにらんだ。</span>,"<span class='scene-font-katari'>메구가 멍청하게 입을 벌리고 있자, 문득 알베르가 일어서더니 날카로운 눈으로 바다 쪽을 노려보았다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,なにか騒がしいな……,뭔가 소란스럽군...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,そうですか……？,그런가요...?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,アルベール！<br>またデンキンナギが出やがったぜ！,알베르! 또 전기창어가 튀어나왔어!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,わかった！,알았다!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,え？<br>ちょ、ちょっと……！,"어? 자, 잠깐만요...!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>アルベールは海の家を飛び出し、</span><br><span class='scene-font-katari'>メグも慌ててその後を追った。</span>,"<span class='scene-font-katari'>알베르가 바다의 집에서 뛰쳐나가자, 메구도 당황하며 그 뒤를 쫓았다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,みなさん、気をつけてください！,"여러분, 조심하세요!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,一気に片づけちまおうぜ！,한꺼번에 쓸어버리자!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,<span class='scene-font-4'>はぁっ！！</span>,<span class='scene-font-4'>하앗!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,デンキンナギ,────！,────！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,…………,…………
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>これまでに何度、</span><br><span class='scene-font-katari'>似たような光景を見ただろうか……</span>,<span class='scene-font-katari'>지금까지 몇 번이나 같은 광경을 목격해 왔다... </span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>例の騎空団とデンキンナギによる</span><br><span class='scene-font-katari'>波打ち際の戦いを</span><br><span class='scene-font-katari'>メグはぼう然と眺めていた。</span>,<span class='scene-font-katari'>메구는 언제나의 그 기공단과 전기창어가 물가에서 싸우는 모습을 멍하니 지켜보고 있었다.</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>同時にその脳裏には</span><br><span class='scene-font-katari'>いままで</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で受けた</span><br><span class='scene-font-katari'>数々の不幸な思い出が蘇るのだった。</span>,<span class='scene-font-katari'>그와 동시에 머릿속에는 지금까지 아우규스테에서 겪었던 수많은 불행한 추억이 되살아났다.</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,…………！！,…………！！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>ほんぎゃああああぁぁぁッ！？</span>,<span class='scene-font-4'>흐갸아아아악!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,…………！,…………！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>ほんぎゃああああぁぁぁッ！？</span>,<span class='scene-font-4'>흐아아아악!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,…………！！,…………！！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>もがっ！！</span>,<span class='scene-font-4'>으억!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,魔物,…………！,…………！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>ごめんなさいごめんなさい！</span><br><span class='scene-font-4'>油断してました～！！</span>,<span class='scene-font-4'>죄송해요죄송해요제가방심했습니다~!!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,？？？,────！,────！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>あばばばばばばばばば……！</span>,<span class='scene-font-4'>어버버버버버버...!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,…………！,…………！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,メグ、<br>こんなとこでなにやってんの！？<br>巻き込まれるわよ！,"메구, 이런 데서 뭘 하고 있어? 휘말리면 어떡해!"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>まりっぺに腕をつかまれたが、</span><br><span class='scene-font-katari'>メグは勢いよく振りほどいた。</span>,<span class='scene-font-katari'>마릿페가 그녀의 팔을 끌어당겼지만 메구는 거칠게 뿌리쳤다.</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,え……メグ？,어... 메구?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,何度も何度も……,몇 번이고 몇 번이고...! 
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,え？,어?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>何度も何度もなんなの！？</span>,<span class='scene-font-4'>몇 번씩이나 대체 뭐야!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,<span class='scene-font-4'>ひぃっ！？</span>,<span class='scene-font-4'>히익!</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,わたしはただ<span class='scene-font-place'>アウギュステ</span>で<br>バカンスを過ごしにきただけなのに！！,난 그저 <span class='scene-font-place'>아우규스테</span>에서 바캉스를 즐기고 싶었을 뿐이라고!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,それなのに……もう……<br>どいつもこいつもことごとく邪魔して！,그런데... 아아... 이 녀석이고 저 녀석이고 철저히 방해만 하고!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,えぇ……メ、メグ……？,"어... 메, 메구?"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,許さない……<br>アルバなんとかもカツウォなんとかも<br>デンキなんとかも……！,용서 못 해... 알바 뭐시기도 카츠워 머시기도 전기 뭐시기도...!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,わたしの大好きな<span class='scene-font-place'>アウギュステ</span>と<br>楽しいバカンスを邪魔するすべてを<br>もう……,내가 정말 좋아하는 <span class='scene-font-place'>아우규스테</span>와 즐거운 바캉스를 방해하는 모든 것들... 더는...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-4'>絶対に許さないから！！</span>,절대 용서 못 해!!!
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>怒りに満ちたメグの頭の中は</span><br><span class='scene-font-katari'>これまでの災難の数々で満ちていたが、</span><br><span class='scene-font-katari'>ふと蘇る別の記憶があった。</span>,"<span class='scene-font-katari'>분노에 가득 찬 메구의 머릿속은 지금까지 겪은 수많은 재난으로 가득했지만, 문득 떠오르는 또 하나의 기억이 있었다.</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アニラ,大切なものを守るためなら、<br>時に脅威に立ち向かう気概を<br>持つことも肝要じゃぞ。,"소중한 것을 지키기 위해서라면, 때로 위협에 맞서는 기개를 보여주는 것도 중요하다네."
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,…………！,…………！
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,…………帰る。,...돌아갈래.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,<span class='scene-font-4'>帰る！？</span><br>あ、ちょっと！<br>もう、なんなの？ 急に……,"<span class='scene-font-4'>돌아간다고?</span> 자, 잠깐! 갑자기 대체 뭐야..."
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,予定を早めて帰るよ。<br>わたし、やることがあるんだ。,예정보다 먼저 돌아갈래. 해야 할 일이 생겼거든.
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,まりっぺ,はぁ……？<br>イミわかんない……,뭐...? 대체 무슨 소린지...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>メグはホテルに戻って</span><br><span class='scene-font-katari'>荷物をまとめると、</span><br><span class='scene-font-katari'>迷うことなく定期船に乗り込んだ。</span>,메구는 호텔로 돌아가 짐을 정리한 후 망설임없이 정기선에 올라탔다. 
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（変わらなくちゃ……！）</span>,<span class='scene-font-kokoro'>(변해야 돼...!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,メグ,<span class='scene-font-kokoro'>（白馬の王子様はもう要らない。</span><br><span class='scene-font-kokoro'>憧れを待ってるだけのわたしとは</span><br><span class='scene-font-kokoro'>今日でサヨナラだ！）</span>,<span class='scene-font-kokoro'>(백마 탄 왕자님은 이제 필요없어. 그저 상대가 와 주기만을 기대하던 나하고는 오늘로 안녕이야!)</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>一方、ビーチでは……</span>,"<span class='scene-font-katari'>한편, 해변에서는...</span>"
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,<span class='scene-font-4'>くしゅっ……</span>,<span class='scene-font-4'>에취...</span>
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,ビィ,んん？<br>海で戦って冷えたか？,응? 바다에서 싸워서 감기라도 들었어?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,アルベール,いや……なぜだろう……<br>理不尽にフラれたような気分を<br>味わった気がしてな……,아니... 뭐랄까. 불합리한 이유로 차인 것 같은 기분이 들었다고나 할까...
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,ビィ,なに言ってんだ……？,무슨 소릴 하는 거야...?
+Japanese,"scene_evt200729_cp5_q2_s10,7559521",detail,,<span class='scene-font-katari'>そしてまた、</span><br><span class='scene-font-katari'>月日は巡るのだった。</span>,<span class='scene-font-katari'>그리고 다시 시간이 흘렀다.</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",synopsis,,翌年、<span class='scene-font-place'>アウギュステ</span>を楽しんでいたまりっぺの前に、戦士に様変わりしたメグが現れる。街で拾ったというサメを相棒にしているメグの激変ぶりに絶句するまりっぺ。メグはこれまでバカンスを楽しめなかった理由は自身が弱いからだと気づき、修行を積んだのだという。そんなメグにまりっぺの彼氏は心を奪われ、プライドをへし折られたまりっぺはその場を去るのだった。,"다음해, <span class='scene-font-place'>아우규스테</span>를 즐기고있던 마릿페의 앞에 전사 처럼 모습을 바꾼 메구가 등장한다. 마을에서 주었다는 상어를 동료로 삼은 메구의 급변에 절규하는 마릿페. 메구는 지금까지 바캉스를 즐기지 못했던  이유는 자신이 약하기 때문이었다는 것을 깨닫고, 수행을 했다고 한다. 그런 메구에게 마릿페의 남친이 마음을 빼았겨, 프라이드에 상처를 입은 마릿페는 그 자리를 떠나는 것이었다."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>デンキンナギ騒動から月日が一巡し、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>をまた訪れたまりっぺは</span><br><span class='scene-font-katari'>彼氏とバカンスを楽しんでいた。</span>,<span class='scene-font-katari'>전기창어 소동 이후로 시간이 흘렀다. 다시 아우규스테를 찾은 마릿페는 남친과 바캉스를 즐기고 있었다. </span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>あの時から変わったことといえば、</span><br><span class='scene-font-katari'>まりっぺが故郷を出て</span><br><span class='scene-font-katari'>別の島に移住したぐらいである。</span>,"<span class='scene-font-katari'>그 때 이후로 변한 것이라면, 마릿페가 고향 섬을 나와 다른 섬으로 이주했다는 것 정도였다.</span>"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,うふふ……<br>さっきのジュースおいしかった～,우후후.. 아까 주스 맛있더라~
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,ていうか、聞いた？<br>ひと月前に出たんだってさ。,그런데 들었어? 한 달 전에 나왔다고 하더라고.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,出たってなにが？<br>お化けの話？,"나오다니, 귀신 얘기야?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,はは、ちがうちがう。<br>サメが出たんだってさ。<br>それもたくさん。,"하하, 아니 아니. 상어가 나왔다고 하던데. 그것도 엄청."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,え～！<br>サメってすごく危険な魚でしょ？<br>それヤバくない？,뭐어? 상어면 엄청 위험한 물고기지? 큰일난 거 아냐?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,もうおさまったって聞いたよ。<br>でも仮にサメがいてもまりっぺのことは<br>オレが守るから安心して。,이미 정리됐다고 들었어. 하지만 설령 상어가 나오더라도 마릿페는 내가 지켜줄 테니까 안심해.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,うふふ、頼れる～！,"후후, 믿음직스럽다~"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>今日は交際を始めてから</span><br><span class='scene-font-katari'>ちょうど１年という記念日であり、</span><br><span class='scene-font-katari'>ふたりの様子は仲睦まじい。</span>,"<span class='scene-font-katari'>오늘은 사귀기 시작한 지 1주년이 되는 날이기도 해서, 두 사람은 다정한 모습을 보이고 있었다. </span>"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>そこへ……</span>,<span class='scene-font-katari'>그리고 그 곳에...</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,？？？,久しぶりだね、まりっぺ。,"오랜만이야, 마릿페."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>まりっぺは振り向くよりも先に</span><br><span class='scene-font-katari'>背後から聞こえたその声が</span><br><span class='scene-font-katari'>故郷の友人のものであるとわかった。</span>,<span class='scene-font-katari'>마릿페는 돌아보기도 전에 등 뒤에서 들린 것이 고향 친구의 목소리라는 것을 알 수 있었다.</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,また来たんだ、メグ。<br>そっちはどう？<br>最近の地元の様子……は……,"올해도 왔구나, 메구. 그쪽은 좀 어때? 요새 고향은 어... ㄸ..."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>振り向いたまりっぺは</span><br><span class='scene-font-katari'>そこに立つ人物を目にし、</span><br><span class='scene-font-katari'>呼吸を止めてしまった。</span>,<span class='scene-font-katari'>돌아본 마릿페는 거기 서 있는 사람을 보고 숨쉬는 것조차 잊고 말았다.</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,どうかした？,왜 그래?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,地元は特に変わりないよ。,고향은 딱히 바뀐 거 없어.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,みんな元気にしてる。,다들 잘 지내.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,<span class='scene-font-4'>誰ッ！！！？？？？</span>,<span class='scene-font-4'>누구세요????</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,誰って……私、メグだよ。<br>なに言ってるの？,"누구냐니... 나야, 메구. 무슨 소릴 하는 거야?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,えぇ～……<br>本当にメグなのぉ……？<br>ウソ～……？,어...? 진짜 메구라고...? 거짓말이지?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,なにがどーしてそうなったのよ……？<br>なによ、その服……<br>なんなの、その筋肉……,뭐가 어떻게 된 거야? 그 옷은 대체 뭐야. 그 근육은 대체 뭔데...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,まりっぺ、覚えてる？<br>デンキンナギの時のこと……,"마릿페. 전기창어 때 일, 기억하고 있어?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,う、うん……それが？,어? 응... 그게 왜?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,私、何度も<span class='scene-font-place'>アウギュステ</span>で<br>ひどい目に遭ってたんだけど、<br>ようやくあの時に気づいたんだ。,"나, <span class='scene-font-place'>아우규스테</span>에서 몇 번이나 나쁜 일에 휘말렸었는데, 그때 마침내 깨달았어."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,私がこれまでまともに<br>バカンスを過ごせなかったのは<br>私が弱いからだって……,내가 지금까지 바캉스를 제대로 즐기지 못한 건 내가 약하기 때문이라는 걸...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>１年前、メグは故郷に戻ると、</span><br><span class='scene-font-katari'>すぐに勤めていたカフェを辞め、</span><br><span class='scene-font-katari'>世話になった店主にこう言った。</span>,"<span class='scene-font-katari'>1년 전, 고향으로 돌아온 메구는 즉시 일하고 있던 카페를 그만두며 지금까지 신세진 점장에게 이렇게 말했다.</span>"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,いままでお世話になりました。<br>わたし、山に籠ることに決めたんです。<br>強くなるために！,"지금까지 신세 많이 졌습니다. 저, 산으로 들어가려고요. 강해지기 위해서!"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,はぁ……はぁ……辛い……<br>身体中、あちこち痛いし……<br>でも……がんばらなくちゃ……,하아... 하아... 힘들어. 온 몸이 다 아프네... 하지만 열심히 해야겠지...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,泣き言は言ってられない……<br>今度のトラブルはわたしが解決する……<br><span class='scene-font-place'>アウギュステ</span>が……大好きだから……！,우는 소리 할 때가 아냐. 이번에 일어나는 트러블은 내가 해결할 거야. 아우규스테가... 좋으니까...!
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,えーっと、なになに？<br>次のメニューは……っと。,"어디 보자, 다음 훈련메뉴는 뭐였지?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,通信教育の１年コースで<br>近接格闘術を基礎から学んだんだ。<br>魔物を相手に戦ったりもしたし……,통신교육 1년 코스로 기초부터 근접격투술을 배웠어. 마물들 상대로 싸우기도 하고...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,そしてこうなったの。,그래서 이렇게 된 거야.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,そうはならんでしょ……,보통 그렇게는 안 되거든...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>友人のあまりの変わり様に</span><br><span class='scene-font-katari'>絶句するまりっぺはその時、</span><br><span class='scene-font-katari'>周囲を飛ぶ大きな影に気づいた。</span>,<span class='scene-font-katari'>너무나 변해버린 친구의 모습에 할 말을 잃었던 마릿페는 문득 주변을 날아다니는 거대한 그림자를 깨달았다.</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,え、なに！？,"뭐, 뭐지?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>目で追おうとするが素早く、</span><br><span class='scene-font-katari'>しかしやがてその影は</span><br><span class='scene-font-katari'>メグのそばに落ち着いた。</span>,<span class='scene-font-katari'>눈으로 쫓을 수도 없을만큼 빠른 그 그림자는 이윽고 메구 곁에 멈춰섰다.</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,？？？,Sharrrk……,Sharrrk……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,ふたり,<span class='scene-font-4'>サメえええぇぇぇッ！？</span>,<span class='scene-font-4'>상어어어어어어?</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,ひと月前に野良鮫を拾ったんだ。<br>ウルスラって名づけてみたの。,한 달 전쯤 야생 상어를 주웠어. 우르술라라고 부르고 있지.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,ウルスラ,Sharrrk……,Sharrrk……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,ささささ、サメが……<br>魚が……とと、飛んでる……？<br>どうして……？,"사사사, 상어가... 무무, 물고기가 날고 있어...? 어떻게...?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,魚が飛ぶくらいわけないよ。<br>ここは<span class='scene-font-place'>アウギュステ</span>だよ？,물고기가 날아다니는 것쯤은 별 거 아니잖아. 여긴 <span class='scene-font-place'>아우규스테</span>인걸?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,えぇ……,뭐...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,そもそも野良鮫ってなによ……？<br>もうワケわかんない……<br>頭がおかしくなりそう……,애초에 야생 상어라는게 뭔데? 이해할 수가 없네. 머리가 이상해질 것 같아...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,街で拾ったんだよ。,마을에서 주웠어.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を襲ったサメ騒動、</span><br><span class='scene-font-katari'>それが終わって数日後のことだった。</span>,<span class='scene-font-katari'></span><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'>에서 벌어졌던 상어 소동이 끝나고 며칠 후의 일이었다.</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の路地裏に</span><br><span class='scene-font-katari'>一心不乱に残飯を漁る野良猫達がいた。</span>,<span class='scene-font-katari'></span><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'>의 뒷골목에는 일사불란하게 잔반을 찾아헤매는 야생 고양이들이 보였다. </span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良猫１,──,──
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良猫２,──,──
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>そんな猫達のもとへ現れたのは……</span>,<span class='scene-font-katari'>그런 고양이들의 앞에 나타난 것은...</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良鮫,Sharrrk……,Sharrrk……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良猫１,っ！？<br>──！,！？<br>──！
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良猫２,──！,──！
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良鮫,Sharrrk……,Sharrrk……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,２匹,──……,──……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良鮫,Sharrrk……,Sharrrk……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,逃げられちゃったか……<br>あの猫達、怖がってたね。,"다 도망쳤구나... 저 고양이들, 널 무서워했어."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良鮫,Sharrrk！？,Sharrrk！？
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,でも猫を襲おうとはしなかった。<br>そうすることもできたのに。<br>まさか生き残りがいたなんてね……,하지만 고양이들을 습격할 수도 있었을 텐데 그러지 않았네. 설마 남아있는 상어가 있었을 줄이야...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,きみ、ひとり？<br>ひとりなら私と来ない？,"너, 혼자야? 혼자면 나랑 안 갈래? "
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,私の友達が言ってたけど、<br><span class='scene-font-place'>アウギュステ</span>は<br>ひとりで遊ぶところじゃないんだって。,"내 친구가 그러던데, <span class='scene-font-place'>아우규스테</span>는 혼자서 노는 곳이 아니래."
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,それなら、ひとり者同士、<br>組んでみるのはどう？<br>悪くない提案だと思うんだけど。,우린 둘 다 혼자니까 같이 다니면 어떨까? 나쁘지 않은 제안인 것 같은데.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,野良鮫,Sharrrk……,Sharrrk……
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,人の姿をした時も<br>あったらしいんだけど、<br>誰かに倒されて瀕死になったとか……,"사람 모습을 하고 있던 시기도 있었던 모양인데, 누구한테 얻어맞고 빈사상태가 됐다나?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,その辺りは私もよくわからないけど、<br>いまでは相棒みたいな感じかな。<br>おとなしいから大丈夫だよ。,그 부분은 나도 잘 모르겠지만 지금은 파트너같은 느낌이야. 얌전하니까 괜찮아.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,…………,…………
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,私の方はまぁ……<br>服も動きやすいのに変えたし、<br>確かにイメチェンになったかも。,"나는 뭐... 옷도 움직이기 편한 걸로 바꿨고, 확실히 이미지가 바뀌긴 했으려나?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,あんたのそれは<br>イメチェンじゃなくて<br>パラダイムシフトっていうのよ！,이미지? 그건 이미지 체인지가 아니라 패러다임 시프트라고 하는 거거든!
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,<span class='scene-font-4'>ねぇ！</span><br>そう思うでしょ！？,<span class='scene-font-4'>응?</span> 그렇게 생각하지 않아?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,素敵だ……,멋있다...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,は？,뭐?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,…………？,…………？
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,凛とした立ち姿……<br>迷いを感じさせない瞳……<br>……振り向かせたくなる。,늠름한 모습... 망설임없는 눈동자... 날 바라보게 만들고 싶어.
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,ひと目惚れって、あるんだ……,이게 첫눈에 반한다는 거구나...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,…………ッ！？,…………！？
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,なによそれ……<br>ア、アタシよりメグがいいって……？<br>本気で言ってんの……？,"그게 뭐야... 나, 나보다 메구가 좋다는 거야? 진심이야?"
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,今日はつきあって一年の記念日なのに、<br>そんな……そんなの……,오늘 우리 1주년 기념일인데... 그런... 그런 건...
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,まりっぺ,<span class='scene-font-4'>そんなの信じらんない！！</span>,<span class='scene-font-4'>그런 건 말도 안 돼!</span>
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,メグ,まりっぺ！？,마릿페?
+Japanese,"scene_evt200729_cp5_q3_s10,7559531",detail,,<span class='scene-font-katari'>プライドをへし折られたまりっぺは</span><br><span class='scene-font-katari'>メグと彼氏をその場に残し、</span><br><span class='scene-font-katari'>どこかへ去っていくのだった。</span>,<span class='scene-font-katari'>자존심에 금이 간 마릿페는 메구와 남친을 그 자리에 남겨두고 어딘가로 뛰어가 버렸다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",synopsis,,メグに彼氏を奪われたまりっぺは、これまで密かに祈ってきた縁結びの祠に怒りをぶつける。しかしそれが眠っていた灼弩火罹という神聖な存在を起こしてしまった。そこに駆けつけたメグは、街に破壊をもたらす灼弩火罹を相棒のサメ・ウルスラと共に倒すと言ってのける。これまで<span class='scene-font-place'>アウギュステ</span>で受けた数々の災難を思い出し、メグによる灼弩火罹への八つ当たりが始まるのだった。,"메구에게 남친을 뺐긴 마릿페는 지금가지 몰래 기도하고있던 인연을 맺어주는 사당에 화를 쏟아낸다. 하지만 그것이 잠자고있던 쏘라게(灼弩火罹)라는 신성한 존재를 깨우고만다. 거기에 달려온 메구는 마을을 파괴하려는 쏘라게를 파트너인 상어・우루슬라와 함께 쓰러뜨리겠다고 말한다. 지금까지 <span class='scene-font-place'>아우규스테</span>에서 받았던 수많은 재난의 떠올리고, 메구의 쏘라게에 대한 분풀이가 시작되는 것이었다."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,<span class='scene-font-kokoro'>（まりっぺ……）</span>,<span class='scene-font-kokoro'>(마릿페...)</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,ねぇ、メグちゃん。<br>オレとビーチで遊ばない？,메구쨩. 나랑 해변 가서 같이 놀까?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,は？,뭐?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,本当に見違えたね……<br>あの時よりいまの方が<br>断然イイと思う……うん！,전혀 못 알아봤다니까... 그때보다 지금이 훨씬 낫다. 응!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,オレ、本気なんだ。<br>本気でメグちゃんに──,"나, 진심이야. 진심으로 메구쨩을..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,気安く話しかけるな。,친한 척 말 걸지 마시지.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,……え？,...어?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,相手の感情を理解しない無神経な輩が、<br>別の女に言い寄ろうとは笑止千万。<br>……ある人がそう言っていた。,상대방의 마음을 이해하려고도 하지 않던 무신경한 녀석이 다른 여자를 구슬리려 하다니 가소롭기 짝이 없군.<br>...이라고 어떤 사람이 말했었어.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,これ以上、友達を侮辱するなら<br>デンキンナギと泳いでもらうぞ。<br>それともウルスラの餌になるか？,이 이상 내 친구를 모욕하려고 한다면 전기창어와 함께 헤엄치게 해 주지. 아니면 우르술라의 먹이가 되겠어?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,ウルスラ,<span class='scene-font-4'>Sharrrk！！</span>,<span class='scene-font-4'>Sharrrk！！</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,ご、ごご……<br>ごめんなさいぃ～……！,"죄, 죄죄... 죄송합니다~!"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,クズめ……,쓰레기가...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>逃げた男の背中にそう吐き捨てるが、</span><br><span class='scene-font-katari'>メグは次の瞬間には友人を心配する</span><br><span class='scene-font-katari'>かつての女の子に戻っていた。</span>,<span class='scene-font-katari'>도망치는 남자의 등을 향해 그렇게 내뱉은 메구였지만 다음 순간에는 친구를 걱정하는 옛날의 그 소녀로 돌아와 있었다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,<span class='scene-font-kokoro'>（まりっぺ……大丈夫かな……</span><br><span class='scene-font-kokoro'>そういえば例の騎空団も見ないし……</span><br><span class='scene-font-kokoro'>もし、いまなにか起きたら……）</span>,<span class='scene-font-kokoro'>(마릿페... 괜찮을가? 그러고 보니 그 기공단도 안 보이고... 혹시 지금 무슨 일이라도 생긴다면...)</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>そのまりっぺが向かったのは</span><br><span class='scene-font-place'>アウギュステ本島</span><span class='scene-font-katari'>の山の中腹で</span><br><span class='scene-font-katari'>すでに日は暮れかかっていた。</span>,"<span class='scene-font-katari'>마릿페가 향한 곳은 </span><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'> 본섬의 산중턱 쪽으로, 이미 해가 지려고 하고 있었다.</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,なんなの……！<br>なんでアタシがメグなんかに<br>男を盗られなくちゃいけないの！？,뭔데.... 왜 내가 메구같은 애한테 내 남자를 빼앗겨야 하는 건데? 
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>怒りをぶつけるのは</span><br><span class='scene-font-katari'>半ば草木に覆われた</span><br><span class='scene-font-katari'>古めかしい祠である。</span>,<span class='scene-font-katari'>그녀는 반쯤 수풀에 뒤덮인 오래된 사당을 향해 분통을 터트리고 있었다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,縁結びの祠なら<br>もっと女を見る目がある男を<br>寄越しなさいよ！,연애운을 관장하는 사당이라면 좀 더 여자 보는 눈이 있는 남자랑 이어달란 말이야!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,なんのために毎回毎回<br>拝んでやったと思ってんの！？,내가 대체 뭘 위해서 매번 기도하러 왔다고 생각하는 거야?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,アタシが男を盗られるなんて……<br>それもあの世間知らずのメグに……！,내가 남자를 빼앗기다니... 그것도 그 촌뜨기 메구한테...!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,この……役立たずッ！,이 쓸모없는..!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>まりっぺは祠を踏んづけ、</span><br><span class='scene-font-katari'>怒りにまかせて</span><br><span class='scene-font-katari'>何度も何度も足蹴にした。</span>,<span class='scene-font-katari'>마릿페는 사당을 짓밟더니 분노에 차서 몇 번이나 걷어찼다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,この、この、この、この……！,"쓸모없어, 쓸모없어, 쓸모없어...!"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>一方、その頃、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>のトォノシ島では……</span>,"<span class='scene-font-katari'>한편 그 시각, </span><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'>의 토노시 섬에서는...</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,？？？,<span class='scene-font-4'>ウンメェエエエエエ！？</span>,<span class='scene-font-4'>맛있어어어어어!</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,？？？,もぐもぐ……<br>酢飯の酸味が魚の生臭さを飛ばし、<br>脂をさっぱりと馴染ませるのか……,우물우물... 초밥의 산미가 비린내를 지워주고 지방과 깔끔하게 녹아드는군... 
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,？？？,はむっ、もぐもぐ……,"우물, 냠냠..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,？？？,<span class='scene-font-4'>か、かぱぁあああああっ！！？</span>,"<span class='scene-font-4'>카, 캇파...!</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,？？？,あははっ！<br>すっげーウマいだろ！,아하하! 엄청 맛있지?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>遠く離れた場所で</span><br><span class='scene-font-katari'>騎空団はカッパと共に</span><br><span class='scene-font-katari'>スシを頬張っていた。</span>,<span class='scene-font-katari'>조금 떨어진 곳에서 기공단 단원들은 캇파와 함께 스시를 입에 밀어넣고 있었다. </span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,えっ！<br>なに……？<br>いま、揺れた……？,어? 뭐지...? 방금 흔들렸는데...?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>まりっぺが感じたその揺れは</span><br><span class='scene-font-katari'>一度でおさまることなく、</span><br><span class='scene-font-katari'>たちまち大きくなっていき……</span>,"<span class='scene-font-katari'>마릿페가 느낀 흔들림은 잦아들기는커녕 점점 커져갔고,</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>街やビーチにいた者達も</span><br><span class='scene-font-katari'>すぐに異変を感じ取った。</span>,<span class='scene-font-katari'>마을과 해변에 있던 사람들도 금새 이변이 생긴 것을 눈치챘다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,これは……いったい！？,이건 대체...?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,街の住民１,お、おい！<br>あれ見ろ……！<br>山が揺れてないか！？,"이, 이봐... 저걸 봐! 산이 흔들리고 있지 않아?"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,街の住民２,いいえ……<br>むしろ山が……動いてるような……,아니.. 오히려 산이 움직이고 있는 느낌인데...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,街の住民１,マズいぞ……<br>こっちに来る……！<br>山が……山が動いてるぞ！！,큰일이야... 이쪽으로 온다! 산이... 산이 움직이고 있어!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,街の住民２,<span class='scene-font-4'>きゃあああっ！！</span>,<span class='scene-font-4'>꺄아아악!</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>周辺の観光客がパニックを起こすなか、</span><br><span class='scene-font-katari'>メグは事態を見極めようとしていたが、</span><br><span class='scene-font-katari'>となりに見知った人物の声を聞いた。</span>,"<span class='scene-font-katari'>주변의 관광객들도 패닉에 빠진 와중에 메구는 냉정히 사태를 파악하려고 했다. 그때, 곁에서 귀에 익은 사람의 목소리가 들렸다.</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,あれはもしかして～！,저건 설마~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,シェロさん！？,셰로 씨?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,<span class='scene-font-4'>え、えぇ～！？</span><br>ひょっとしてメグさんですか～？<br>ずいぶん雰囲気が変わられまして～,"<span class='scene-font-4'>어, 어어~?</span> 설마 메구 씨인가요? 분위기가 많이 바뀌셨네요~"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,そんなのはいいって！<br>それよりも、<br>あれがなんなのか知ってるの！？,그런 얘긴 됐고요! 그보다 저게 뭔지 알고 있어요?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,あれは<span class='scene-font-place'>アウギュステ</span>のほとんどの住民に<br>忘れられた神聖な存在……<br><span class='scene-font-spword'>“灼弩火罹”</span>かもしれません～,"저건 <span class='scene-font-place'>아우규스테</span> 대부분의 주민들에게 잊혀진 신성한 존재... ""쏘라게*""일지도 몰라요!<br><span class='scene-font-gray scene-font-2'>(*灼弩火罹（やどかり）, 소라게와 발음은 같지만 한자가 다름)</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ヤドカリ……？,쏘라게...?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,かつては<span class='scene-font-place'>アウギュステ</span>の民を<br>恐怖に陥れていたそうですが、<br>ある時から眠りにつきまして～,"예전에는 <span class='scene-font-place'>아우규스테</span>의 주민들을 공포에 떨게 만든 존재였지만, 어느 순간부터 잠들었거든요~"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,眠り続けてもらうために<br>住民は灼弩火罹の眠った場所に祠を建て<br>祈りを捧げていたそうです～,계속 잠재우기 위해서 주민들은 쏘라게가 잠든 곳에 사당을 세우고 기도를 드렸다고들 해요~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,ですが、それがどう転じたのか<br>いつしか縁結びや良縁祈願の<br>ご利益があると言われはじめたそうで～,"그런데 그게 어떻게 와전된 건지, 언제부터인가 연애운과 인연에 관한 축복이 내려진다고 전해진 모양이더라고요~"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,ひと昔前まではバカンスついでに<br>たくさんのカップルが<br>祠に詰めかけたそうですよ～,오래 전에는 바캉스 겸 많은 커플들이 사당에 몰려들었다고들 해요~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,しかし、なにぶん昔の話なので<br>いまでは祠の場所どころか存在すらも<br>大半の方々はご存じないかと～,"하지만 꽤 오래 전 이야기라서, 지금은 사당이 있는 장소조차 대부분 모르지 않을까 싶네요~"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ちょっと待って……<br>縁結びに……ご利益……？,잠깐만.... 연애운의 축복...?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,灼弩火罹に祈れば<br>素敵な出会いに恵まれたそうですよ～<br>まさにご利益ですね～,쏘라게에게 기도하면 멋진 만남을 가져다 준다고 하더라고요~ 말 그대로 축복이죠~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ご利益って……まさか！<br>まりっぺ！,축복이라니... 설마! 마릿페!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ねぇ、シェロさん！<br>灼弩火罹はこれからなにをするの！？,"저기, 셰로 씨! 쏘라게는 이제 뭘 하려는 거지?"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,灼弩火罹はとても巨大でして～<br>山や大きな岩の塊を<br>身体に被って生きています～,쏘라게는 엄청나게 큰데요~ 산이나 거대한 바위와 같은 껍질을 몸에 뒤집어쓰고 살아가요~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,そして一度目覚めた以上、<br>灼弩火罹は移り住むために<br>新たな住処を探すかと～,"그리고 한번 눈을 뜬 이상, 옮겨가기 위해서 새로운 집을 찾을 것 같은데요~"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,移り住む……？<br>そんなことしたら！！,옮겨간다고...? 그런 짓을 하면...!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,そうですねぇ……<br>文献通りであれば<br>甚大な被害が出るかもしれません～,그렇죠... 옛 문헌에 적힌 대로라면 엄청난 피해가 생길지도 모르겠네요~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,わかった……<br>私が灼弩火罹を止める。,알았어. 내가 쏘라게를 막을게.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,え～！？<br>お言葉ですが、<br>メグさんひとりではとても……,네에? 이런 말은 실례겠지만 메구 씨 혼자서는 도저히...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ひとりじゃないよ。<br>ウルスラ、私に力を貸して。,"혼자가 아냐. 우르술라, 내게 힘을 빌려줘."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,ウルスラ,Sharrrk！,Sharrrk！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>ウルスラは周囲をぐるりと飛行し、</span><br><span class='scene-font-katari'>そのスピードのまま</span><br><span class='scene-font-katari'>メグに向かって突進してきた。</span>,"<span class='scene-font-katari'>우르술라는 주변을 빙글 돌며 날더니, 그 스피드를 유지한 채 메구를 향해 돌진했다.</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,<span class='scene-font-4'>え～っ！？</span><br>そ、そのお姿は～！！,"<span class='scene-font-4'>에에에엑!</span> 그, 그 모습은~"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>シェロカルテがなにか言う前に、</span><br><span class='scene-font-katari'>メグは灼弩火罹に向かって</span><br><span class='scene-font-katari'>一目散に走り出していた。</span>,<span class='scene-font-katari'>셰로카르테가 뭔가를 말하기도 전에 메구는 쏘라게를 향해 쏜살같이 달려나갔다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,きゃっ！,꺄악!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>どうにかまりっぺは山を下りられたが、</span><br><span class='scene-font-katari'>早く避難しようと無理に走ったため、</span><br><span class='scene-font-katari'>転倒して足をひねってしまった。</span>,<span class='scene-font-katari'>마릿페는 겨우 산을 내려왔지만 빨리 도망가려고 무리하게 달린 탓에 엎어져서 발을 삐고 말았다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,痛たたたた……,아야야야...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,灼弩火罹,──……！,──……！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,ひいぃぃ……<br>だ、誰かぁ～……<br>誰か助けて……,"히이익... 누, 누가... 누가 좀 살려줘..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>逃げ惑う人々の波に</span><br><span class='scene-font-katari'>まりっぺは助けを求めると、</span><br><span class='scene-font-katari'>その群衆の中に……</span>,"<span class='scene-font-katari'>도망치느라 정신없는 사람들에게 마릿페가 도움을 요청하자, 그 무리 속에서 나타난 것은...</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,…………！？,…………！？
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,あっ！<br>ね、ねぇ、助けてよ……！<br>アタシ、足をくじいちゃったの！,"아! 저, 저기. 좀 도와줘! 나 발을 삐었어!"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,<span class='scene-font-2'>まりっぺの新彼氏</span>,…………！,…………！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>男は立ち止まったものの、</span><br><span class='scene-font-katari'>一瞥しただけで</span><br><span class='scene-font-katari'>恋人に背を向けて逃げ去った。</span>,"<span class='scene-font-katari'>남자는 잠시 멈추기는 했지만 그녀를 흘낏 쳐다봤을 뿐, 자기 애인에게 등을 돌리고 도망치고 말았다.</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,そんな……！,그럴 수가...!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,<span class='scene-font-4'>どーしてよ！？</span><br>なんでアタシが男に<br>見捨てられなくちゃいけないの！？,<span class='scene-font-4'>어째서?</span> 왜 내가 남자한테 이런 식으로 차여야 하는 거야?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,灼弩火罹,──……！,──……！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>灼弩火罹のいくつもの脚が</span><br><span class='scene-font-katari'>まりっぺに迫る寸前、</span><br><span class='scene-font-katari'>黒い影が割って入った。</span>,"<span class='scene-font-katari'>쏘라게의 수많은 다리가 마릿페를 덮치기 직전, 검은 그림자가 그 사이를 비집고 들어왔다.</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,まりっぺ、伏せてっ！,"마릿페, 엎드려!"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,灼弩火罹,──……！,──……！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>メグの攻撃を脚に受けて</span><br><span class='scene-font-katari'>灼弩火罹はバランスを崩し、</span><br><span class='scene-font-katari'>いくらか後退した。</span>,<span class='scene-font-katari'>메구가 다리를 공격하자 쏘라게는 균형을 잃고 뒤로 살짝 후퇴했다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,メグ！？<br>って……その姿は……,"메구? 그, 그 모습은..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,やっぱりここにいた。<br>まりっぺ、大丈夫？,"역시 여기 있었구나. 마릿페, 괜찮아?"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ケガはない？,다친 덴 없고?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,<span class='scene-font-4'>なにその腕ッ！？</span>,<span class='scene-font-4'>그 팔은 뭔데???</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>まりっぺが見たメグの左腕は</span><br><span class='scene-font-katari'>肘のあたりから指先にかけて</span><br><span class='scene-font-katari'>異形と化していた。</span>,<span class='scene-font-katari'>메구의 왼쪽 팔은 팔꿈치쯤에서 손 끝에 이르기까지 변형되어 있었다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,あぁ、うん。<br>ウルスラと合体したの。<br>私の左腕を覆ってるんだよ。,"아, 응. 우르술라랑 합체했어. 내 왼쪽 팔을 덮어썼지."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,合体って……,합체라니...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ひと月前に空からなにかが落ちてきて<br>それ以来、この辺のサメは多少なら<br>形を変えられるようになったんだって。,"한 달 전쯤, 하늘에서 뭐가 떨어졌는데 그 이후로 이 근처의 상어들은 다소나마 모습을 바꿀 수 있게 됐다고 하더라고. "
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,もうなにからなにまでワケわかんない！<br>サメは飛ぶわ、メグと合体するわ……<br>アタシは男に捨てられるわ……,"대체 무슨 소리인지 하나도 이해 안 가! 상어는 날아다니지, 메구는 합체하지, 나는 남자한테 버림받았지..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,ていうか、なにしに来たのよ！？,그보다 뭐 하러 온 거야?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,まりっぺを助けに来たんだよ！<br>決まってるでしょ！？<br>私があいつを倒すから！,마릿페를 구하러 온 거야! 당연하잖아! 내가 저 녀석을 쓰러뜨릴게!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,アタシを助けに……？,날 구하러...?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,……じゃあ断るわ。<br>帰って！ <br>,...그렇다면 거절할게. 돌아가!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,なに言ってるの！？,무슨 소리야!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,アレは……アタシを狙ってるの。<br>アタシが祠を蹴ったから<br>怒ってるのよ……,저건... 날 노리고 있어. 내가 사당을 발로 차서 화가 난 거야...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,たまたま古い本で見かけて知って、<br>祈ったら本当にすぐに彼氏ができて……<br>浮かれてたんだ、アタシ……,우연히 낡은 책에서 사당의 존재를 알고 가서 빌었더니 정말 금방 남친이 생기길래... 괜히 들떠 있었던 거야.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,……でももういい。<br>倒すなんてバカなこと言わないで。<br>本当にもういいから……,하지만 이제 됐어. 쓰러뜨린다느니 멍청한 소리 하지 마. 난 진짜 괜찮으니까...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,アタシを殺せば止まるかもしれないし、<br>そうすれば<br><span class='scene-font-place'>アウギュステ</span>も平和になるでしょ。,날 죽이면 멈춰줄지도 몰라. 그러면 <span class='scene-font-place'>아우규스테</span>도 평화로워질 거고.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,よかったね、メグ。<br>ようやく<span class='scene-font-place'>アウギュステ</span>で<br>楽しく過ごせるんじゃない？,"잘 됐다, 메구. 드디어 <span class='scene-font-place'>아우규스테</span>에서 즐겁게 지낼 수 있겠네."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,バカなこと言ってるのは<br>まりっぺの方なんだけど！,멍청한 소릴 하는 건 마릿페잖아!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,っ！？,...!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,まりっぺは私の大切な友達だよ！<br>友達を見捨てるわけないでしょ！,마릿페는 내 소중한 친구야! 친구를 죽게 내버려둘 수 있겠어?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,いつも<span class='scene-font-place'>アウギュステ</span>で<br>私に声をかけてくれたのは<br>まりっぺだったでしょ？,<span class='scene-font-place'>아우규스테</span>에서 늘 내게 말을 걸어준 건 마릿페였잖아?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,せっかく恋人とのバカンス中なのに<br>気の利いたことも言えない私なんて<br>無視して遊ぶこともできたのに……,"모처럼 애인이랑 바캉스를 즐기는 중인데, 눈치없는 소리만 하는 나같은 건 무시하고 놀았어도 됐을 텐데..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,そんなのもう覚えてないし……<br>別にたいしたことじゃなくない……？,그런 건 벌써 다 잊었거든... 대단한 일도 아니잖아.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,たいしたことじゃなくていいよ。<br>何気ないことを覚えてたらダメ？<br>感謝したらいけない？,대단한 일이 아니라도 상관없어. 별 거 아닌 말이었다고 해도 기억하고 있으면 안 돼? 감사하면 안 되는 거야?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,……メグ、本当に変わったんだね。<br>ちょっと前まで<br>白馬の王子様なんて言ってたのに……,"...메구, 정말 달라졌구나. 얼마 전까지 백마 탄 왕자님같은 얘기나 하더니..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,確かに私はずっと<br>白馬の王子様を待ってた……<br>でもそれは間違ってたんだ。,분명 나는 계속 백마 탄 왕자님을 기다리고 있었어. 하지만 그건 잘못된 생각이었지.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,去年、アルベールさんに会った時、<br>私はあまりときめかなかった……<br>ずっと王子様を待ってたはずなのに……,"작년에 알베르 씨를 만났을 때, 생각보다 두근거리지 않더라고. 분명히 계속 기다려 왔던 왕자님인데 말야..."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,むしろ<span class='scene-font-place'>アウギュステ</span>のために戦う<br>アルベールさんを見た時の方が<br>私の心は熱くなったの。,오히려 <span class='scene-font-place'>아우규스테</span>를 위해 싸우는 알베르 씨를 봤을 때에 마음이 더 뜨거워지더라고. 
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,そして気づいたんだ。,그리고 깨달았어.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,白馬の王子様は待つものじゃない。<br>なるものなんだよ。<br>私は自分がそれになるって決めたの！,백마 탄 왕자님은 기다리는 게 아니야. 되는 거지. 나 자신이 그렇게 되기로 결심했어!
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>メグの決意を聞いて</span><br><span class='scene-font-katari'>まりっぺがあ然としている間にも</span><br><span class='scene-font-katari'>灼弩火罹はふたりに迫りつつあった。</span>,<span class='scene-font-katari'>메구의 결심을 들은 마릿페가 아연해있는 사이에도 쏘라게는 두 사람을 향해 다가오고 있었다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,灼弩火罹,──……！,──……！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,灼弩火罹とかいったな、貴様……<br>神聖な存在だかなんだか知らないが、<br><span class='scene-font-place'>アウギュステ</span>を荒らした罪は重いぞ。,"너, 쏘라게라고 했나? 신성한 존재인지 뭔지는 모르겠지만 <span class='scene-font-place'>아우규스테</span>를 어지럽힌 죄는 가볍지 않아."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,今日、この場で<br>私がもう一度眠らせてやる……,오늘 이 자리에서 내가 다시 한 번 잠들게 해 주마...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,<span class='scene-font-4'>ただし、今度は永遠にな！</span>,"<span class='scene-font-4'>단, 이번에는 영원히 말야!</span>"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,ウルスラ、食事の時間だよ。<br>いっぱいお食べ！,"우르술라, 밥 먹을 시간이야. 잔뜩 먹어!"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,ウルスラ,Sharrrk！ Sharrrk！,Sharrrk！ Sharrrk！
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,メグさ～ん！,메구 씨이~
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,シェロさん、ちょうどよかった。<br>ケガをしたみたいで、まりっぺを……<br>私の親友をお願いします。,"셰로 씨, 마침 잘 왔어요. 마릿페가 다친 거 같아요. 마릿페를... 내 소중한 친구를 부탁해요."
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,まりっぺ,…………,…………
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,おまかせください～<br>でも～本当に大丈夫ですか～？,저만 믿으세요~ 그런데 정말 괜찮으시겠어요~?
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,大丈夫。<br><span class='scene-font-place'>アウギュステ</span>は私が守る。<br>だって私はそのために来たんだから。,괜찮아요. 아우규스테는 내가 지킬 테니까. 그걸 위해 여기로 왔는걸.
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,シェロカルテ,本当に別人のようですね～……,정말 다른 사람 같으시네요...
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,,<span class='scene-font-katari'>避難するふたりを見届けると、</span><br><span class='scene-font-katari'>メグは灼弩火罹に向き直り、</span><br><span class='scene-font-katari'>ウルスラとナイフを構えた。</span>,<span class='scene-font-katari'>두 사람이 도망가는 걸 바라본 메구는 쏘라게 쪽을 돌아보며 우르술라와 나이프를 들어올렸다.</span>
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,メグ,<span class='scene-font-4'>来い、灼弩火罹！</span><br>これまで受けた数々の災難……<br>お前に八つ当たりさせてもらう！,"<span class='scene-font-4'>덤벼라, 쏘라게!</span> 지금까지 당했던 수많은 재난들 몫까지 네게 다 화풀이해 주마!"
+Japanese,"scene_evt200729_cp5_q4_s20,7559541",detail,灼弩火罹,──……！,──……！
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",synopsis,,メグはこれまでの数々の災難に対する怒りを灼弩火罹にぶつけ、灼弩火罹を倒す。それを見た人々はメグを英雄と称え、メグはこの夏、<span class='scene-font-place'>アウギュステ本島</span>の話題の中心となった。しかし、すでにメグは来年現れるであろう新たな脅威を見据えているのだった。,"메구는 지금까지의 수많은 재난에 대한 분노를 쏘라게에게 부딪치고, 쏘라게를 쓰러뜨린다. 그것을 보고 있던 사람들은 메구를 영웅이라고 칭송하고, 메구는 이번 여름, <span class='scene-font-place'>아우규스테 본섬</span>의 화두의 중심이 된다. 하지만, 이미 메구는 내년에 나타날 새로운 위협을 바라보는 것이었다."
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,これは初めてのバカンスを<br>アルバコアに台無しにされた時の分！,이건 첫 바캉스를 알바코어가 다 망쳐놨을 때의 복수!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,灼弩火罹,──……！！,──……！！
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,これはカツウォヌスの時の分！<br>これはウオノタユウの！,이건 카츠워누스 때의 복수! 이건 우오노타유 때!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,灼弩火罹,──……！,──……！
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,これはベンディク島での分！<br>これはデンキンナギの！,이건 벤딕트 섬의 복수! 이건 전기창어의 복수!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,灼弩火罹,──……,──……
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,そしてこれは……<br><span class='scene-font-4'>ただの私の憂さ晴らしだっ！！</span>,그리고 이건... 그냥 내 분풀이용이다!!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,灼弩火罹,──…………,──…………
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,,<span class='scene-font-katari'>それがトドメとなり、</span><br><span class='scene-font-katari'>灼弩火罹は崩れるように倒れ、</span><br><span class='scene-font-katari'>完全に沈黙した。</span>,<span class='scene-font-katari'>그것을 마지막으로 쏘라게는 무너지듯이 쓰러진 후 완전히 조용해졌다.</span>
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,はぁ……はぁ……はぁ……,하아... 하아... 하아...
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,まりっぺ,メグ～！,메구~!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,シェロカルテ,いや～本当に倒してしまいましたね～<br>素晴らしい活躍でした～,와우~ 정말 쓰러뜨리셨군요~ 엄청난 활약이었어요~
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,街の住民１,す、すごい！<br>あの女の子、<br>ひとりでバケモノを倒したぞ！,"대, 대단해! 저 아가씨 혼자 괴물을 쓰러뜨렸어!"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,街の住民２,でも左腕がサメよ……？<br>この前の騒ぎを思い出して、<br>なんだか怖いわ……,하지만 왼쪽 팔이 상어인걸? 얼마 전 소동이 생각나서 좀 무서워...
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,街の住民１,な～に、<br>ここは<span class='scene-font-place'>アウギュステ</span>じゃないか！<br>それがなんだってんだ！,무슨 소리야. 여긴 <span class='scene-font-place'>아우규스테</span>잖아! 그게 어쨌다는 거야!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,街の住民２,それもそうね！<br><span class='scene-font-place'>アウギュステ</span>を守ってくれた英雄なら<br>そういうこともあるわよね！,그것도 그렇네! <span class='scene-font-place'>아우규스테</span>를 구해 준 영웅이라면 그럴 수도 있지!
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,街の住民１,ああ、そうだ！<br>英雄だ！<br><span class='scene-font-place'>アウギュステ</span>の新たな英雄だ！,"그럼, 그럼! 영웅이야! <span class='scene-font-place'>아우규스테</span>의 새로운 영웅!"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,え、英雄……？<br>そんな……私は別に……,"여, 영웅...? 아니, 난 딱히..."
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,,<span class='scene-font-katari'>死闘を見届けていた人々に</span><br><span class='scene-font-katari'>喝采を送られると、</span><br><span class='scene-font-katari'>メグはとまどったが……</span>,"<span class='scene-font-katari'>그녀의 사투를 지켜본 사람들이 갈채를 보내자, 메구는 잠시 망설였으나...</span>"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,シェロカルテ,ふふふ～<br>メグさん、胸を張ってください～<br><span class='scene-font-place'>アウギュステ</span>を守ったんですから～,"후후후~ 메구 씨, 당당해지세요~ <span class='scene-font-place'>아우규스테</span>를 지키셨는걸요~"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,メグ,あ、ど……どうも……<br>あはははは……<br>ありがとうございます～……,"아, 고... 고맙... 아하하하... 고맙습니다~"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,,<span class='scene-font-katari'>ぎこちない笑顔で賛辞に応える</span><br><span class='scene-font-katari'>慣れない様子のメグを見て</span><br><span class='scene-font-katari'>となりに立つまりっぺは思った。</span>,<span class='scene-font-katari'>어색한 웃음으로 익숙치 않은 듯 화답하는 메구를 보며 그 옆에 서 있던 마릿페는 생각했다.</span>
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,まりっぺ,<span class='scene-font-kokoro'>（白馬の王子様になる、か……）</span>,<span class='scene-font-kokoro'>(백마 탄 왕자님이 되겠다라...)</span>
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,まりっぺ,<span class='scene-font-kokoro'>（王子様じゃなくて女の子だし、</span><br><span class='scene-font-kokoro'>白馬じゃなくてサメだけど、</span><br><span class='scene-font-kokoro'>こういうのもアリかもね……）</span>,"<span class='scene-font-kokoro'>(왕자님이 아닌 마을 여자애고, 백마가 아닌 상어긴 하지만 그것도 나쁘지 않네...)</span>"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,,<span class='scene-font-katari'>こうして灼弩火罹を倒したメグは</span><br><span class='scene-font-katari'>この夏、</span><span class='scene-font-place'>アウギュステ本島</span><span class='scene-font-katari'>で</span><br><span class='scene-font-katari'>話題の中心となった。</span>,"<span class='scene-font-katari'>그렇게 쏘라게를 쓰러뜨린 메구는 그 해 여름, 아우규스테 본섬의 화젯거리가 되었다.</span>"
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,,<span class='scene-font-katari'>しかし、メグの瞳はすでに</span><br><span class='scene-font-katari'>来年も必ず現れるであろう</span><br><span class='scene-font-katari'>まだ見ぬ新たな脅威を映していた。</span>,<span class='scene-font-katari'>그러나 메구의 눈동자는 이미 다음 해에도 찾아올 새로운 위협을 바라보고 있었다.</span>
+Japanese,"scene_evt200729_cp5_q4_s30,7559542",detail,,<span class='scene-font-katari'>すべては幼い頃からの憧れの、</span><br><span class='scene-font-katari'>大好きな</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を守るために……</span>,"<span class='scene-font-katari'>모든 것은 어렸을 때부터 동경했던, 정말 좋아하는 </span><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'>를 지키기 위해서였다.</span>"
