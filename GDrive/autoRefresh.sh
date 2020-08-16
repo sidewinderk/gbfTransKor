@@ -4,10 +4,10 @@
 while [ 1 ]
 do
 git pull
-rm cache/*
 python autoRefresher.py
 now=$(date +"%D %T")
 git add ../data/*
+git add ../cache/*
 git commit -m "$now"
 git push
 sleep 3600

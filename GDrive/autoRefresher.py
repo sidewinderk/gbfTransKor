@@ -8,4 +8,4 @@ if(__name__ == '__main__'):
         gsheets.export_csv(sht)
     #gsheets.export_csv(gsheets.SHEET)
     for translist in listOfFiles:
-        mergesheets.merge(translist,"./cache/","../data/")
+        mergesheets.merge(translist,"../cache/","../data/")
