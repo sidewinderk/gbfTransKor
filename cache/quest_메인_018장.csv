@@ -1,0 +1,249 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp18_q1_s10,1811",synopsis,,帝国との和解を受け入れた翌朝、「ここでお別れだ」という短い手紙を残し姿を消したカタリナ。シェロによると、明け方、帝国の兵士とともに出かける姿を見たと言う。事情を知っているであろうヴィーラの元へ、一行は向かう──
+Japanese,"scene_cp18_q1_s10,1811",detail,,<span class='scene-font-katari'>フュリアスから</span><br><span class='scene-font-katari'>帝国の和解の意を聞いた翌朝。</span>
+Japanese,"scene_cp18_q1_s10,1811",detail,,<span class='scene-font-katari'>カタリナは、</span><br><span class='scene-font-bold scene-font-blue'>『ここでお別れだ』</span><br><span class='scene-font-katari'>という短い置手紙を残し、姿を消した。</span>
+Japanese,"scene_cp18_q1_s10,1811",detail,ビィ,こ、こいつぁいったい、<br>どういうことなんだ！？
+Japanese,"scene_cp18_q1_s10,1811",detail,ルリア,どうしよう……どうして？<br>どうしてカタリナが……
+Japanese,"scene_cp18_q1_s10,1811",detail,ラカム,もしかしたら、帝国の連中に<br>さらわれたのかもしれねぇぞ！
+Japanese,"scene_cp18_q1_s10,1811",detail,ロゼッタ,ってわけだけど、<br>どう？ シェロちゃん。
+Japanese,"scene_cp18_q1_s10,1811",detail,ロゼッタ,昨日怪しい人達が<br>ここに来たりしたかしら？
+Japanese,"scene_cp18_q1_s10,1811",detail,シェロカルテ,え、えっとですね～<br>朝早くに帝国の人達が、<br>カタリナさんを訪ねてきたんです。
+Japanese,"scene_cp18_q1_s10,1811",detail,シェロカルテ,それで、少し話をした後、<br>カタリナさんはその人達と、<br>どこかへ行っちゃいましたけど……
+Japanese,"scene_cp18_q1_s10,1811",detail,シェロカルテ,帝国とは和解したって、<br>昨日聞いてたから、<br>てっきりすぐ戻ってくるものかと……
+Japanese,"scene_cp18_q1_s10,1811",detail,オイゲン,ん……？ ってこたぁ、<br>無理やり連れてかれたとか、<br>そういうわけじゃあなさそうだな。
+Japanese,"scene_cp18_q1_s10,1811",detail,イオ,で、でも、だとすると……<br>……どういうことなの？
+Japanese,"scene_cp18_q1_s10,1811",detail,ラカム,とにかく探しに行こうぜ！<br>帝国の行方はわからねぇが……
+Japanese,"scene_cp18_q1_s10,1811",detail,ラカム,ヴィーラちゃんなら、<br>何か知ってるかもしれねぇ！
+Japanese,"scene_cp18_q1_s20,1812",synopsis,,カタリナを失い、動揺するルリア──帝国からの和解の申し出に、裏があると確信した<span>[ジータ]</span>たちは、ヴィーラの元へと急ぐのだった──
+Japanese,"scene_cp18_q1_s20,1812",detail,ルリア,どうして……カタリナ……
+Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,カタリナが自分の意志で、<br>ルリアの元を離れるとは思えねぇな……<br>なぁ、[ジータ]はどう思う？
+Japanese,"scene_cp18_q1_s20,1812",sel1_txt,,<span class='scene-font-katari'>カタリナを信じよう</span>
+Japanese,"scene_cp18_q1_s20,1812",sel2_txt,,<span class='scene-font-katari'>何か事情があると思う</span>
+Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,だよな！<br>あの置手紙だって、<br>何かのメッセージかもしれねぇし……
+Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,昨日の帝国の奴ら、<br>いやに潔かったもんな……<br>こりゃ絶対に裏があるぜ！
+Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,ともかく、<br>本人に会って聞くのが一番だ！
+Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,だから、ほらルリア！<br>そんなしょげてる場合じゃねーぞ！
+Japanese,"scene_cp18_q1_s20,1812",detail,ルリア,うぅ……うん！<br>私……何が出来るかわからないけど、<br>頑張りますっ！
+Japanese,"scene_cp18_q2_s10,1821",synopsis,,カタリナは帝国へ戻るべきだと告げるヴィーラに、本人から理由を聞くまでは納得できないと食い下がる<span>[ジータ]</span>たち。カタリナが選択した理由を明かすため、ヴィーラは一行をとある場所へと導くのだった──
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,――そうですか、<br>お姉様が……
+Japanese,"scene_cp18_q2_s10,1821",detail,ラカム,ああ、それで、ヴィーラちゃんは<br>帝国とも繋がりがあるみたいだったし、<br>何か知らねぇか？
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,確かに、アルビオンは<span class='scene-font-place'>エルステ帝国</span>に<br>多数人材を送り出しており、<br>仲は深いと言えるでしょう……
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,しかし、<br>お姉様が姿を消した件については、<br>私から申し上げられることは何も……
+Japanese,"scene_cp18_q2_s10,1821",detail,イオ,そんな……じゃぁ、<br>カタリナが何処かへ行っちゃうのを<br>黙って見過ごすしかないの……？
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,……お言葉ですが、<br>お姉様が帝国と行くことに、<br>何か不自然な点があるのでしょうか？
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,そもそも、お姉様は<br>一度は<span class='scene-font-place'>エルステ帝国</span>に仕えた身……
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,アルビオン領主として言うならば……<br>お姉様が帝国に戻るのは、<br>むしろ好ましいことと言えます。
+Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,でも……<br>こんな、何の前触れもなしに……
+Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,せめてカタリナの口から、<br>どうして私達の元を去るのか……
+Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,カタリナに会って、<br>その理由を聞きたいんです……！！
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,それは……<br>その理由というものが、<br>どんな厳しいものであってもですか？
+Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,はいっ！！
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,……わかりました。<br>そこまで言うのなら、お話しましょう、<br>お姉様が迫られた選択を……
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,見せたいものがあります。<br>少し私に付いて来てください。
+Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,途中で魔物にやられてしまわないよう、<br>十分気を付けてくださいね？
+Japanese,"scene_cp18_q2_s20,1822",synopsis,,古より伝わる特殊な星晶獣「シュヴァリエ」について、ヴィーラは語り始める。エルステ帝国は、アウギュステで研究されていた兵器アドウェルサでアルビオンの平和を脅かし、シュヴァリエの顕現を求めた。真の騎士を生贄にこの世に顕現するというシュヴァリエ──その生贄に選ばれたカタリナは、<span>[ジータ]</span>たちの安全と引き換えに帝国に囚われることとなったのだった。
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,このアルビオンには、<br>シュヴァリエという特殊な星晶獣が、<br>古より伝わっています。
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,シュヴァリエは真の騎士を依代に……<br>いえ、生贄にしてはじめて<br>この世に顕現する星晶獣なのです。
+Japanese,"scene_cp18_q2_s20,1822",detail,ルリア,真の騎士を生贄に……
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,強大な力を求める<span class='scene-font-place'>エルステ帝国</span>は、<br>当然、シュヴァリエの存在に目を付け、<br>顕現させるよう私達に求めました。
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,しかし、<br>依代となる騎士には合意が必要であり、<br>志願者が居ない、と断ると……
+Japanese,"scene_cp18_q2_s20,1822",detail,ロゼッタ,帝国のほうから、<br>都合の良い人材を、<br>見つけてきたってわけね……
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,ええ……<br>帝国は、貴方達の安全と引き換えに、<br>お姉様に犠牲になれ、と……
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,そう取引をもち掛けることを<br>私に明かし、<br>協力するよう言ってきました。
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,当然、最初は拒否しましたが、<br>そこでフュリアス将軍が……<br>……あの兵器を持ち出してきたのです。
+Japanese,"scene_cp18_q2_s20,1822",detail,オイゲン,しくじったもんだなぁ……
+Japanese,"scene_cp18_q2_s20,1822",detail,オイゲン,あのとき……<br><span class='scene-font-place'>アウギュステ</span>でキッチリ、<br>ブッ壊せてりゃあ良かったんだが……
+Japanese,"scene_cp18_q2_s20,1822",detail,,<span class='scene-font-katari'>一同が見つめる視線の先。</span><br><span class='scene-font-katari'>そこには</span><span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>の戦艦が、</span><br><span class='scene-font-katari'>悠々と空を漂う。</span>
+Japanese,"scene_cp18_q2_s20,1822",detail,,<span class='scene-font-katari'>その戦艦には、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で研究されていた兵器</span><br><span class='scene-font-katari'>アドウェルサが搭載されていた。</span>
+Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,島をも滅ぼす兵器の威力を見せられ、<br>アルビオンの人々を守るには、<br>領主として決断せねばならず……
+Japanese,"scene_cp18_q2_s20,1822",detail,ルリア,それじゃ、<br>カタリナは私達のために……？
+Japanese,"scene_cp18_q2_s20,1822",detail,ルリア,だから、<br>私達に何も言わず、黙って……
+Japanese,"scene_cp18_q2_s20,1822",detail,ラカム,事情はだいたい飲みこめたぜ……<br>ったく、<br>ひとりでカッコつけやがって……
+Japanese,"scene_cp18_q2_s20,1822",detail,魔物,<span class='scene-font-5'>グオオォォッ！！</span>
+Japanese,"scene_cp18_q2_s20,1822",detail,ラカム,魔物か……<br>八つ当たりになっちまって悪いが、<br>いまは手加減してやれねぇぞ……！！
+Japanese,"scene_cp18_q3_s10,1831",synopsis,,自らが犠牲になることを望んだヴィーラ。しかし、士官学校在学中に領主となり、騎士としての経験のないヴィーラを、シュヴァリエは依代として認める事は無かったのだ──帝国の真意を知った一行は、カタリナ奪還のため決意を固めるのだった。
+Japanese,"scene_cp18_q3_s10,1831",detail,ヴィーラ,本来なら、アルビオンを預かる私が<br>シュヴァリエを顕現させる<br>依代となるべきなのです……
+Japanese,"scene_cp18_q3_s10,1831",detail,ヴィーラ,しかし、在学中に領主となった私には、<br>騎士としての経験はなく……
+Japanese,"scene_cp18_q3_s10,1831",detail,ヴィーラ,シュヴァリエは、<br>私を真の騎士と認めることは<br>ありませんでした……
+Japanese,"scene_cp18_q3_s10,1831",detail,オイゲン,過ぎたことを言ったってしようがねぇ。<br>それに嬢ちゃんが悪く思うこたぁ、<br>なぁんにもねぇよ。
+Japanese,"scene_cp18_q3_s10,1831",detail,イオ,そうよ！<br>そもそも悪いのは全部帝国じゃない！
+Japanese,"scene_cp18_q3_s10,1831",detail,ビィ,その通りだぜ！<br>カタリナをこのまま<br>放っておくなんて出来ねぇよ！
+Japanese,"scene_cp18_q3_s10,1831",detail,オイゲン,ともかく一度ここを離れようぜ。
+Japanese,"scene_cp18_q3_s10,1831",detail,オイゲン,帝国の戦艦を見上げながら<br>領主の嬢ちゃんと密談なんざ、<br>連中に見つかりゃ面倒なことにならぁ。
+Japanese,"scene_cp18_q3_s20,1832",synopsis,,帝国の目をかいくぐり市街地へ向かう道中、アルビオンの領主制度について尋ねる一同に明かされたのは、意外な事実だった。アルビオンでは、領主が亡くなると武術大会が開催され、年齢に関わらず、その優勝者が次の領主となると言うのだ。しかし、カタリナとの戦いを制し領主となったヴィーラから、多くを語られる事は無かった──
+Japanese,"scene_cp18_q3_s20,1832",detail,,<span class='scene-font-katari'>ヴィーラの提案で、</span><br><span class='scene-font-katari'>一同は帝国の目をかいくぐるべく、</span><br><span class='scene-font-katari'>城を出て市街地へと歩みを進める。</span>
+Japanese,"scene_cp18_q3_s20,1832",detail,ロゼッタ,ねぇ、貴女……<br>そういえばさっき、<br>面白いことを言っていたわよね？
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,意図して冗談を述べたつもりは、<br>ありませんが……？
+Japanese,"scene_cp18_q3_s20,1832",detail,ロゼッタ,そうじゃないわ。<br>貴女、在学中に領主になったって、<br>言ってたわよね？
+Japanese,"scene_cp18_q3_s20,1832",detail,ロゼッタ,その歳で、６年も前から、<br>領主をやってるって言うし……<br>先代のお子さんか何かなのかしら？
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,アルビオンの領主は<br>世襲制ではありません。
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,領主が亡くなると、<br>アルビオン全体で武術大会が開かれ、<br>優勝者が次の領主となるのです。
+Japanese,"scene_cp18_q3_s20,1832",detail,ビィ,ってことは……
+Japanese,"scene_cp18_q3_s20,1832",detail,ビィ,嬢ちゃんは、<br>カタリナに勝ったってことなのか！？
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,はい。<br>お姉様とは、<br>決勝で御手合わせ願いました。
+Japanese,"scene_cp18_q3_s20,1832",detail,ラカム,そりゃすげぇな……<br>あのカタリナよりも強いなんざ、<br>大したもんだぜ？ なぁ？
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,いいえ……<br>当時もいまも、<br>私などお姉様の足元にも及びません。
+Japanese,"scene_cp18_q3_s20,1832",detail,イオ,え？<br>でも、貴女が優勝したから、<br>領主を務めてるんじゃ……？
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,ふふふ……
+Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,さぁ、魔物が向こうから来ています。<br>気を抜いている余裕はありませんよ。
+Japanese,"scene_cp18_q4_s10,1841",synopsis,,ヴィーラに案内された路地の先で、一行はフュリアスと遭遇する。カタリナを生贄にシュヴァリエを顕現し、あまつさえ、身の安全を約束した<span>[ジータ]</span>たちをも葬ろうとするフュリアスに一行の怒りが向けられる。
+Japanese,"scene_cp18_q4_s10,1841",detail,,<span class='scene-font-katari'>ヴィーラに案内された路地の先で、</span><br><span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>最悪の遭遇を果たす。</span>
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,――あっれぇ～？<br>なになに、大勢でどうしたの？
+Japanese,"scene_cp18_q4_s10,1841",detail,ラカム,フュリアス！？<br>てめぇ！ なぜここに！？
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,おや、その態度は心外だなぁ。<br>ボクだって、<br>人と待ち合わせてただけなんだけど……
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,それにほら、<br>一応、和解した仲じゃないか！<br>仲良くしようよ、ね？
+Japanese,"scene_cp18_q4_s10,1841",detail,イオ,<span class='scene-font-4'>ふざけんじゃないわよ！</span><br>全部事情は聞いたんだから！<br>さっさとカタリナを返しなさいよ！
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,あん……？<br>なんだ、全部聞いちゃったのかぁ……
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,ま、いいや、<br>最初から君らのことも、<br>放っておくつもりはなかったからね。
+Japanese,"scene_cp18_q4_s10,1841",detail,オイゲン,はん……和解ってぇのも、<br>カタリナを納得させる、<br>嘘ってことかい……
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,もちろんだよ！<br>せっかくおもちゃが目の前にあるのに、<br>逃す手はないからね。
+Japanese,"scene_cp18_q4_s10,1841",detail,ルリア,そんな……！！<br>じゃあ、カタリナは何のために……！？
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,ああでも、安心して？<br>あの女騎士には、<br>別の島へでも旅立ったと伝えとくよ！
+Japanese,"scene_cp18_q4_s10,1841",detail,ビィ,この野郎！<br>どれだけ嘘をつきゃ気がすむんだ！
+Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,馬鹿が！ 騙される方が悪いんだよ！<br>自分達の間抜けさ<br>せいぜい呪うといいぜ！！
+Japanese,"scene_cp18_q4_s10,1841",detail,ロゼッタ,彼、あんなに性根が曲がってるから、<br>身長以上に小さく見えるんだわ。
+Japanese,"scene_cp18_q4_s10,1841",detail,ロゼッタ,カタリナを助けるためにも、<br>ここは切り抜けなくちゃね……<br>いくわよ！ [ジータ]！
+Japanese,"scene_cp18_q4_s20,1842",synopsis,,卑怯な手でカタリナの思いを利用し、引き離された<span>[ジータ]</span>たち。一行はカタリナ奪還のため、先を急ぐのだった──
+Japanese,"scene_cp18_q4_s20,1842",detail,ルリア,許せません……！<br>カタリナの思いを利用するなんて……！
+Japanese,"scene_cp18_q4_s20,1842",detail,ラカム,最初っから帝国は、<br>俺達とカタリナを引き離し……
+Japanese,"scene_cp18_q4_s20,1842",detail,ラカム,それぞれに<br>始末をつけるつもりでいた、<br>ってことだな……卑怯な連中だ。
+Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,こうなりゃ絶対に、<br>姐さんを助け出してやろうぜ！
+Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,なぁ！ [ジータ]！<br>お前もこのままじゃ、<br>気が済まないよな！
+Japanese,"scene_cp18_q4_s20,1842",sel1_txt,,<span class='scene-font-katari'>目にモノ見せてやる</span>
+Japanese,"scene_cp18_q4_s20,1842",sel2_txt,,<span class='scene-font-katari'>絶対に許さない</span>
+Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,その意気だぜ！<br>オイラ達にだって、<br>骨のあるとこ見せなくちゃな！
+Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,許せるわけがねーぜ！<br>帝国の連中に、<br>キッチリお返ししてやらねーとな！
+Japanese,"scene_cp18_q4_s30,1843",synopsis,,見事、帝国兵を蹴散らした一行。しかし、カタリナの行方を知るであろうヴィーラの姿が見当たらないことに<span>[ジータ]</span>たちの焦りは募る。カタリナの行方と、真実を暴露したヴィーラの身の上を案じ、一行は城砦都市アルビオンを駆ける。
+Japanese,"scene_cp18_q4_s30,1843",detail,ビィ,よっしゃ、<br>これで粗方片付いたな！
+Japanese,"scene_cp18_q4_s30,1843",detail,ビィ,あとはこのまま、<br>姐さんのところに行くだけだぜ！
+Japanese,"scene_cp18_q4_s30,1843",detail,ルリア,で、でも、カタリナは、<br>いまどこに居るんでしょう……
+Japanese,"scene_cp18_q4_s30,1843",detail,ラカム,この街のことなら、<br>やっぱりヴィーラちゃんが……
+Japanese,"scene_cp18_q4_s30,1843",detail,ラカム,……って、おい。<br>あの子、どこ行ったんだ？
+Japanese,"scene_cp18_q4_s30,1843",detail,ロゼッタ,見当たらないわね……<br>ひとりで執務室に帰ったとか？
+Japanese,"scene_cp18_q4_s30,1843",detail,イオ,まさか……<br>あたし達に真実を喋っちゃったから、<br>帝国に連れて行かれたんじゃ……！？
+Japanese,"scene_cp18_q4_s30,1843",detail,オイゲン,ありえねぇ話じゃねぇなぁ……<br>こりゃあ面倒なことになってきたぞ！
+Japanese,"scene_cp18_q4_s30,1843",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>カタリナ、そしてヴィーラの姿を探し、</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>を駆ける。</span>
+English,"scene_cp18_q1_s10,1811",synopsis,,"Katalina has disappeared, leaving only a farewell letter. Sierokarte says she saw Katalina leave with imperial soldiers. [Djeeta] and the crew decide to ask Vira if she knows what happened."
+English,"scene_cp18_q1_s10,1811",detail,,A new morning dawns after [Djeeta] and the crew's meeting with Furias.
+English,"scene_cp18_q1_s10,1811",detail,,They awake to find Katalina gone and only a short farewell letter left behind.
+English,"scene_cp18_q1_s10,1811",detail,Vyrn,Wh-what's the meaning of this?
+English,"scene_cp18_q1_s10,1811",detail,Lyria,I don't understand... Why? Why would Katalina leave?
+English,"scene_cp18_q1_s10,1811",detail,Rackam,Maybe the empire snatched her up!
+English,"scene_cp18_q1_s10,1811",detail,Rosetta,"It's possible. But what do you think, Siero?"
+English,"scene_cp18_q1_s10,1811",detail,Rosetta,Did you happen to see any suspicious people come by yesterday?
+English,"scene_cp18_q1_s10,1811",detail,Sierokarte,"Well, actually... some imperial soldiers dropped by to see her early this morning."
+English,"scene_cp18_q1_s10,1811",detail,Sierokarte,"They talked for a bit, and then Katalina went off with them..."
+English,"scene_cp18_q1_s10,1811",detail,Sierokarte,"I had heard about them wanting to make amends yesterday, so I thought she'd be back soon..."
+English,"scene_cp18_q1_s10,1811",detail,Eugen,Hm? Sounds like they didn't drag her away kickin' and screamin' then...
+English,"scene_cp18_q1_s10,1811",detail,Io,"If that's the case, then what's this all mean?"
+English,"scene_cp18_q1_s10,1811",detail,Rackam,"At any rate, we need to find her! Not sure where they could've taken her..."
+English,"scene_cp18_q1_s10,1811",detail,Rackam,But Vira might be able to give us a clue!
+English,"scene_cp18_q1_s20,1812",synopsis,,"Lyria is shaken by Katalina's departure. Believing the empire may be up to something, [Djeeta] and the crew search for Vira in hopes of getting a clue."
+English,"scene_cp18_q1_s20,1812",detail,Lyria,"But why, Katalina..."
+English,"scene_cp18_q1_s20,1812",detail,Vyrn,"She wouldn't just up and leave Lyria behind. So what do you think of all this, [Djeeta]?"
+English,"scene_cp18_q1_s20,1812",sel1_txt,,I think she had a reason.
+English,"scene_cp18_q1_s20,1812",sel2_txt,,I think something's going on.
+English,"scene_cp18_q1_s20,1812",detail,Vyrn,Me too! Maybe there's a hidden clue in that letter.
+English,"scene_cp18_q1_s20,1812",detail,Vyrn,"Those imperial goons were pretty nice to us yesterday... A little <span class='scene-font-italic'>too</span> nice, if you ask me!"
+English,"scene_cp18_q1_s20,1812",detail,Vyrn,But first let's try to find Katalina and talk to her ourselves!
+English,"scene_cp18_q1_s20,1812",detail,Vyrn,"So come on, Lyria! Now's not the time to be gloomy!"
+English,"scene_cp18_q1_s20,1812",detail,Lyria,"Yeah... You're right! I'm not sure if I'll be much help, but I'll try!"
+English,"scene_cp18_q2_s10,1821",synopsis,,Vira suggests that Katalina returned to the empire by choice. [Djeeta] and the crew refuse to give up searching for her until they can talk to Katalina themselves. Vira offers to show them something that will shed light on Katalina's decision.
+English,"scene_cp18_q2_s10,1821",detail,Vira,"So Katalina's gone, you say..."
+English,"scene_cp18_q2_s10,1821",detail,Rackam,"Yeah. And since you're friendly with the empire, we thought you might know what's going on."
+English,"scene_cp18_q2_s10,1821",detail,Vira,Albion does provide the empire with quite a bit of manpower. I suppose you could say we have a strong relationship...
+English,"scene_cp18_q2_s10,1821",detail,Vira,"But as far as Katalina's disappearance, I'm afraid I have nothing to help you..."
+English,"scene_cp18_q2_s10,1821",detail,Io,No way! Are we supposed to pretend like nothing happened and let it go?
+English,"scene_cp18_q2_s10,1821",detail,Vira,Look at it this way! Is it really so strange for Katalina to run off with imperial soldiers?
+English,"scene_cp18_q2_s10,1821",detail,Vira,"That is to say, she was once an imperial soldier too..."
+English,"scene_cp18_q2_s10,1821",detail,Vira,"From my perspective as the Lord of Albion, it'd be in her best interest to return to the empire."
+English,"scene_cp18_q2_s10,1821",detail,Lyria,But surely she would have told us...
+English,"scene_cp18_q2_s10,1821",detail,Lyria,We just want to hear from her in her own words about why she'd leave.
+English,"scene_cp18_q2_s10,1821",detail,Lyria,That's why we'd like to ask Katalina ourselves!
+English,"scene_cp18_q2_s10,1821",detail,Vira,Even if you find the answer to be less than pleasing?
+English,"scene_cp18_q2_s10,1821",detail,Lyria,Yes!
+English,"scene_cp18_q2_s10,1821",detail,Vira,"Very well. If you insist on knowing, then perhaps I can help clear things up."
+English,"scene_cp18_q2_s10,1821",detail,Vira,There's something I'd like to show you. Please follow me.
+English,"scene_cp18_q2_s10,1821",detail,Vira,Take caution though. It wouldn't do for you to fall prey to the monsters along the way!
+English,"scene_cp18_q2_s20,1822",synopsis,,"Vira tells the crew that the empire wants Luminiera, Albion's primal beast which requires sacrificing a knight to summon it. With the empire threatening to use Adversa against the island, Vira says Katalina volunteered herself to become the sacrifice in exchange for the safety of [Djeeta] and the crew."
+English,"scene_cp18_q2_s20,1822",detail,Vira,"Since ancient times, Albion has been home to a special primal beast by the name of Luminiera."
+English,"scene_cp18_q2_s20,1822",detail,Vira,"But invoking Luminiera requires a true knight... Or rather, the sacrifice of one."
+English,"scene_cp18_q2_s20,1822",detail,Lyria,The sacrifice of a true knight?
+English,"scene_cp18_q2_s20,1822",detail,Vira,"The empire craves more power, so of course they took an interest in Luminiera. They requested our help in calling it forth."
+English,"scene_cp18_q2_s20,1822",detail,Vira,I turned them down since we had no knights who were willing to volunteer their sacrifice...
+English,"scene_cp18_q2_s20,1822",detail,Rosetta,So the empire went and found a willing volunteer themselves.
+English,"scene_cp18_q2_s20,1822",detail,Vira,Indeed... The empire made an offer to Katalina: her sacrifice for your safety.
+English,"scene_cp18_q2_s20,1822",detail,Vira,They explained the terms of the deal to me and requested my cooperation.
+English,"scene_cp18_q2_s20,1822",detail,Vira,"I refused, of course... Until the general brought out his new weapon."
+English,"scene_cp18_q2_s20,1822",detail,Eugen,He's gone and done it now...
+English,"scene_cp18_q2_s20,1822",detail,Eugen,We should've smashed that thing to pieces back in Auguste when we had the chance...
+English,"scene_cp18_q2_s20,1822",detail,,[Djeeta] and the crew gaze up at the imperial battleship floating lazily in the sky above them.
+English,"scene_cp18_q2_s20,1822",detail,,"On the battleship is the Adversa weapon, the fruit of the empire's research on Auguste."
+English,"scene_cp18_q2_s20,1822",detail,Vira,"It has the power to destroy an entire island. And as it's my duty to protect the people of Albion, my hands were tied..."
+English,"scene_cp18_q2_s20,1822",detail,Lyria,So... Katalina's doing this for us?
+English,"scene_cp18_q2_s20,1822",detail,Lyria,That's why she left. Without saying a word...
+English,"scene_cp18_q2_s20,1822",detail,Rackam,I think I get where she's coming from... But talk about a show off!
+English,"scene_cp18_q2_s20,1822",detail,Monster,Groooar!
+English,"scene_cp18_q2_s20,1822",detail,Rackam,"Monsters, eh? Sounds like a perfect opportunity to relieve a little stress!"
+English,"scene_cp18_q3_s10,1831",synopsis,,"Vira admits that she tried to become the sacrifice, but Luminiera didn't accept her as a true knight. [Djeeta] and the crew decide to rescue Katalina."
+English,"scene_cp18_q3_s10,1831",detail,Vira,"By all rights, I should've become the sacrifice for summoning Luminiera, being that I'm the head of Albion."
+English,"scene_cp18_q3_s10,1831",detail,Vira,But I rose to this position while I was still a student. I know nothing of knighthood.
+English,"scene_cp18_q3_s10,1831",detail,Vira,So Luminiera didn't recognize me as a true knight...
+English,"scene_cp18_q3_s10,1831",detail,Eugen,"Let's let bygones be bygones, eh? We don't think any worse of ya for doing what ya had to do."
+English,"scene_cp18_q3_s10,1831",detail,Io,Yeah! Let's not forget who the real bad guys are here—the empire!
+English,"scene_cp18_q3_s10,1831",detail,Vyrn,You said it! And we're not gonna leave Katalina to get sacrificed!
+English,"scene_cp18_q3_s10,1831",detail,Eugen,We need to get away from here for now.
+English,"scene_cp18_q3_s10,1831",detail,Eugen,It wouldn't do for the empire to find us chattin' with the Lord of Albion right under their battleship.
+English,"scene_cp18_q3_s20,1832",synopsis,,"After helping [Djeeta] and the crew sneak away from the castle, Vira explains that the Lord of Albion is chosen through a tournament. Vira insists that Katalina is stronger, despite having earned the lordship by defeating her in the tournament."
+English,"scene_cp18_q3_s20,1832",detail,,"With Vira's help, [Djeeta] and the crew slip out the castle and away from the empire's watch."
+English,"scene_cp18_q3_s20,1832",detail,Rosetta,"By the way, young lady, I found something you said earlier quite funny."
+English,"scene_cp18_q3_s20,1832",detail,Vira,"Sorry, I don't remember making any jokes..."
+English,"scene_cp18_q3_s20,1832",detail,Rosetta,"I didn't mean it like that. But you said you became the lord while you were still a student, no?"
+English,"scene_cp18_q3_s20,1832",detail,Rosetta,"Being six years ago, it's funny that they made a child like you the lord. So was the previous lord a parent or the like?"
+English,"scene_cp18_q3_s20,1832",detail,Vira,Albion's lordship is not inherited.
+English,"scene_cp18_q3_s20,1832",detail,Vira,"Upon the lord's death, a tournament is held. The winner of said tournament is chosen as the next lord."
+English,"scene_cp18_q3_s20,1832",detail,Vyrn,Wait...
+English,"scene_cp18_q3_s20,1832",detail,Vyrn,Does that mean <span class='scene-font-italic'>you</span> beat Katalina?
+English,"scene_cp18_q3_s20,1832",detail,Vira,I did. The final round was between me and her.
+English,"scene_cp18_q3_s20,1832",detail,Rackam,"Good golly! Being stronger than Katalina has gotta be a pretty big deal, am I right?"
+English,"scene_cp18_q3_s20,1832",detail,Vira,But I'm not... Not now or ever have I been a match for Katalina.
+English,"scene_cp18_q3_s20,1832",detail,Io,"Huh? But you won, right? I mean, the strongest person becomes the lord..."
+English,"scene_cp18_q3_s20,1832",detail,Vira,"Now then, we have some monsters up ahead. We mustn't dilly-dally!"
+English,"scene_cp18_q3_s20,1832",detail,Vira,"Now then, we have some monsters up ahead. We mustn't dilly-dally!"
+English,"scene_cp18_q4_s10,1841",synopsis,,"Vira leads [Djeeta] and the crew down an alley where they run into Furias. After threatening to capture them, Furias reveals that he lied to Katalina. [Djeeta] and the crew fight back in anger."
+English,"scene_cp18_q4_s10,1841",detail,,Vira leads [Djeeta] and the crew down an alley where they run into an unsavory character.
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Well, well! Quite the crowd we have here."
+English,"scene_cp18_q4_s10,1841",detail,Rackam,Furias! Just what are you doing here?
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Oh, now that attitude is quite uncalled for. I've only come here to meet someone..."
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Besides, I thought we were over all that rival nonsense! So let's be friends, okay?"
+English,"scene_cp18_q4_s10,1841",detail,Io,Drop the act already! We know everything so give Katalina back right now!
+English,"scene_cp18_q4_s10,1841",detail,Furias,Really? So you heard all about it...
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Well, whatever. It's not like we were going to let you just skip on out of town anyway."
+English,"scene_cp18_q4_s10,1841",detail,Eugen,Huh... Making amends with us... Promising Katalina our safety... It's all lies!
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Well, duh! Don't act like you wouldn't use every trick in the book when you're this close to the finish line."
+English,"scene_cp18_q4_s10,1841",detail,Lyria,How could you! Katalina's sacrifice was for nothing...
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Oh, don't you fret. I'll be sure to tell her you're all enjoying a nice vacation on another island!"
+English,"scene_cp18_q4_s10,1841",detail,Vyrn,You little twerp! Do you see what all your lies have put us through?
+English,"scene_cp18_q4_s10,1841",detail,Furias,"Look, dummies! It's not my fault you fell for it! It's like you're cursed with stupidity!"
+English,"scene_cp18_q4_s10,1841",detail,Rosetta,His twisted nature makes him even smaller than he is.
+English,"scene_cp18_q4_s10,1841",detail,Rosetta,"We'll have to cut through here to get to Katalina. Let's go, [Djeeta]!"
+English,"scene_cp18_q4_s20,1842",synopsis,,"Still angry at the empire about how Katalina was being used, [Djeeta] and the crew fly to her rescue."
+English,"scene_cp18_q4_s20,1842",detail,Lyria,He's beyond forgiveness! How could he use Katalina like that?
+English,"scene_cp18_q4_s20,1842",detail,Rackam,They've been trying to drive a wedge between us and Katalina since the beginning.
+English,"scene_cp18_q4_s20,1842",detail,Rackam,They've made every move to destroy us... Those sniveling cowards!
+English,"scene_cp18_q4_s20,1842",detail,Vyrn,That does it! We're getting Katalina outta here!
+English,"scene_cp18_q4_s20,1842",detail,Vyrn,"Right, [Djeeta]? No way you're ready to turn tail!"
+English,"scene_cp18_q4_s20,1842",sel1_txt,,Not till we teach them a lesson!
+English,"scene_cp18_q4_s20,1842",sel2_txt,,Can't let them get away with this!
+English,"scene_cp18_q4_s20,1842",detail,Vyrn,That's what I like to hear! Let's show 'em how serious we are!
+English,"scene_cp18_q4_s20,1842",detail,Vyrn,Of course we won't! So let's hit 'em where it hurts!
+English,"scene_cp18_q4_s30,1843",synopsis,,"With the soldiers defeated, Rackam turns to ask Vira about Katalina's whereabouts, but finds the young girl missing. Anxious to rescue Katalina and worried for Vira's safety, the crew hurries off in search of the pair."
+English,"scene_cp18_q4_s30,1843",detail,Vyrn,All right! That takes care of them!
+English,"scene_cp18_q4_s30,1843",detail,Vyrn,Now all we need to do is find Katalina!
+English,"scene_cp18_q4_s30,1843",detail,Lyria,But we still don't know where she is...
+English,"scene_cp18_q4_s30,1843",detail,Rackam,"I think we're gonna need your help again, Vira—"
+English,"scene_cp18_q4_s30,1843",detail,Rackam,Wait! Where did she go?
+English,"scene_cp18_q4_s30,1843",detail,Rosetta,I don't see her anywhere. Perhaps she went back to the lord's office.
+English,"scene_cp18_q4_s30,1843",detail,Io,Or maybe... the empire snatched her up for spilling the beans to us!
+English,"scene_cp18_q4_s30,1843",detail,Eugen,Sounds possible... Which means we've got more trouble on our hands!
+English,"scene_cp18_q4_s30,1843",detail,,[Djeeta] and the crew begin a desperate search for both Katalina and Vira in Albion.

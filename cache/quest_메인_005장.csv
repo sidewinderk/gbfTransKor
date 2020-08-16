@@ -1,0 +1,276 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp5_q1_s10,511",synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>[ジータ]</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>[ジータ]</span>達を待ち構えていた。
+Japanese,"scene_cp5_q1_s10,511",detail,,<span class='scene-font-katari'>謎の手紙と好奇心を道標に</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと辿り着いた一同を、</span><br><span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>
+Japanese,"scene_cp5_q1_s10,511",detail,ラカム,ふ～ん、さすが群島界の工場、<br>活気があるねぇ。<br>ドラフ族の人が多いや。
+Japanese,"scene_cp5_q1_s10,511",detail,カタリナ,鉄の職人と言えば、ドラフだからな。
+Japanese,"scene_cp5_q1_s10,511",detail,カタリナ,……というか、なにか<br>空気がピリピリしてるな？
+Japanese,"scene_cp5_q1_s10,511",detail,ルリア,そうですね、[ジータ]<br>ちょっと怖い感じです。
+Japanese,"scene_cp5_q1_s10,511",detail,ビィ,大公閣下が行方不明らしーな……<br>そういう話がちらほら聞こえてくるぜ。<br><span class='scene-font-place'>エルステ帝国</span>にさらわれたって噂も……
+Japanese,"scene_cp5_q1_s10,511",detail,カタリナ,帝国……！？
+Japanese,"scene_cp5_q1_s10,511",detail,シェロカルテ,あれ、[ジータ]さんたち<br>ぼーっとしちゃって<br>どうかなさったんですか～？
+Japanese,"scene_cp5_q1_s10,511",detail,シェロカルテ,ぼーっとして棒立ち……うぷぷぷぷ。
+Japanese,"scene_cp5_q1_s10,511",detail,ビィ,よろず屋の嬢ちゃん！<br>なんでここに居るんだよ？
+Japanese,"scene_cp5_q1_s10,511",detail,シェロカルテ,私は、どこにでも居て<br>どこにも居ないのです。<br>うふふふ～
+Japanese,"scene_cp5_q1_s10,511",detail,ルリア,シェロさんすごーい！<br>なんだか哲学的です！
+Japanese,"scene_cp5_q1_s10,511",detail,シェロカルテ,まぁ、それは置いといて～<br>皆さんにお仕事があるんですよ～
+Japanese,"scene_cp5_q1_s10,511",detail,ラカム,いつの間にかコイツ、ちゃっかり<br>マネージャーに収まりやがったな。
+Japanese,"scene_cp5_q1_s10,511",detail,シェロカルテ,<span class='scene-font-1'>極秘任務なので、指定の場所で</span><br><span class='scene-font-1'>この島……</span><span class='scene-font-place scene-font-1'>バルツ公国</span><span class='scene-font-1'>の</span><br><span class='scene-font-1'>エージェントと接触して下さい～</span>
+Japanese,"scene_cp5_q1_s10,511",detail,シェロカルテ,あと、今は街中が物騒なので<br>お気を付け下さい～<br>私もマークされてるっぽいので～
+Japanese,"scene_cp5_q1_s10,511",detail,ラカム,お前なぁ、いきなり<br>そんな危ない仕事を……
+Japanese,"scene_cp5_q1_s20,512",synopsis,,シェロから話を受けた<span>[ジータ]</span>一行は、指定された場所へと急ぐが、その背後を怪しげな影が付け狙っていた。
+Japanese,"scene_cp5_q1_s20,512",detail,カタリナ,<span class='scene-font-4'>ラカム！ [ジータ]！</span>
+Japanese,"scene_cp5_q1_s20,512",detail,ラカム,ああ。<br>つけてきてる奴が居るな。
+Japanese,"scene_cp5_q1_s20,512",sel1_txt,,<span class='scene-font-katari'>帝国の手先か……</span>
+Japanese,"scene_cp5_q1_s20,512",sel2_txt,,<span class='scene-font-katari'>何者だろう……？</span>
+Japanese,"scene_cp5_q1_s20,512",detail,ラカム,それにしちゃ妙だな……<br>帝国なら尾行なんてせずに、<br>問答無用で襲ってきそうなもんだ。
+Japanese,"scene_cp5_q1_s20,512",detail,ビィ,確かに、いままでは、<br>そんな奴ばっかりだったぜ……
+Japanese,"scene_cp5_q1_s20,512",detail,ラカム,さぁな……<br>こちらを見ている気配はするんだが、<br>敵意ってのは感じねぇんだよなぁ……
+Japanese,"scene_cp5_q1_s20,512",detail,ビィ,色んな奴がいるからな！<br>敵意がねーからと言って、<br>敵じゃねーとは限らないぜ！
+Japanese,"scene_cp5_q1_s20,512",detail,カタリナ,どうも魔法が使えるようだ。<br>魔法で姿を隠しているが……
+Japanese,"scene_cp5_q1_s20,512",detail,魔物,<span class='scene-font-4'>グオオー！</span>
+Japanese,"scene_cp5_q1_s20,512",detail,ビィ,やれやれ……物騒な街だぜ。<br>とりあえず、目の前の奴らからだ。
+Japanese,"scene_cp5_q1_s20,512",detail,カタリナ,だな……
+Japanese,"scene_cp5_q1_s20,512",detail,カタリナ,まずはこいつ等を突破して振り切ろう！
+Japanese,"scene_cp5_q1_s20,512",detail,？？？,…………
+Japanese,"scene_cp5_q2_s10,521",synopsis,,よろず屋のシェロの紹介によって、<span class='scene-font-place'>バルツ公国</span>のエージェントと接触する<span>[ジータ]</span>一行。<span class='scene-font-place'>バルツ公国</span>からの依頼とは、行方不明になっている公国の長ザカ大公その人を探してほしいというものだった。
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,シェロカルテ様ご紹介の<br>騎空団の方々ですかな？
+Japanese,"scene_cp5_q2_s10,521",detail,ビィ,おう！
+Japanese,"scene_cp5_q2_s10,521",detail,ビィ,そう言うあんたは誰なんだ？<br>こんな危ない場所を指定して<br>秘密会談とは恐れ入るぜ？
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,なにぶん極秘の話でして……
+Japanese,"scene_cp5_q2_s10,521",detail,ビィ,ふーん……名乗れねぇってわけか。<br>じゃ、まぁとにかく話を聞かせてくれ。
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,有りがたいお言葉、痛み入ります。
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,ご依頼したい件とは、<br>他でもない我が国の大公の行方を、<br>さがして頂きたいのです。
+Japanese,"scene_cp5_q2_s10,521",detail,カタリナ,<span class='scene-font-place'>エルステ帝国</span>にさらわれたと、<br>そう聞いているが？
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,確証がないのでハッキリした事は何も。<br>あまりにも手口が鮮やかで<br>なんの手がかりも無いのです。
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,帝国との関わりについては、<br>私の口からは申し上げられません。<br>何卒ご容赦ください。
+Japanese,"scene_cp5_q2_s10,521",detail,エージェント,……この依頼を、<br>お受け頂けるという事でしたら<br>こちらの資料をご覧頂けますかな。
+Japanese,"scene_cp5_q2_s10,521",detail,ラカム,……これは。<br>大公の失踪直前の足どりか。<br>事細かに記されちゃいるな……
+Japanese,"scene_cp5_q2_s10,521",detail,ビィ,おいおい、分かってるのか？<br>その資料見ちまったからには<br>引き受けるしかねぇんだぞ！
+Japanese,"scene_cp5_q2_s10,521",detail,ラカム,あ……
+Japanese,"scene_cp5_q2_s10,521",detail,ラカム,まぁ、思いっきりヤバい話だが<br>やるしかねぇだろ！
+Japanese,"scene_cp5_q2_s10,521",detail,カタリナ,帝国が絡んでいるという噂も、<br>気にかかるしな。
+Japanese,"scene_cp5_q2_s10,521",detail,ビィ,よし！ [ジータ]！<br>とりあえず、これに沿って<br>廻ってみようぜ！
+Japanese,"scene_cp5_q2_s20,522",synopsis,,大公を探す<span>[ジータ]</span>一行は自分達を付け狙っていた影がいなくなっていることに気付く。しかし、時を同じくして、魔物に襲われる謎の少女に遭遇する。
+Japanese,"scene_cp5_q2_s20,522",detail,ルリア,ふぅ、[ジータ]～<br>大公様、見つかりませんね～
+Japanese,"scene_cp5_q2_s20,522",detail,ビィ,その代わり、<br>怪しい噂はわんさと聞けたけど……<br>決め手となる情報がねーな。
+Japanese,"scene_cp5_q2_s20,522",detail,ラカム,大公は帝国と組んで<br>世界を滅ぼすモノを作ってた、って<br>どんだけ話が広がってるんだよ……
+Japanese,"scene_cp5_q2_s20,522",detail,カタリナ,そう言えば、<br>昨日から私達をつけていた影、<br>途中で居なくなったな？
+Japanese,"scene_cp5_q2_s20,522",detail,ラカム,おお、言われてみれば確かに、<br>今日は気配がしねぇような……
+Japanese,"scene_cp5_q2_s20,522",detail,ラカム,ん？
+Japanese,"scene_cp5_q2_s20,522",detail,？？？,こ～らぁ～！<br>なぁにするのよ～！！<br>は～な～せぇええ～！！
+Japanese,"scene_cp5_q2_s20,522",detail,ビィ,んあ……<br>あの、いままさに魔物に襲われてる<br>あいつか？ もしかして……
+Japanese,"scene_cp5_q2_s20,522",detail,カタリナ,身なりからして魔導士の娘か。<br>さて、どうしたものかな。
+Japanese,"scene_cp5_q2_s20,522",detail,ラカム,ガキンチョが襲われてるんだぜ！<br>ほっとくわけにも行かねぇだろ！<br>助けよう、[ジータ]！
+Japanese,"scene_cp5_q3_s10,531",synopsis,,自分達を付け回す謎の少女に関する情報収集をシェロに頼み、<span>[ジータ]</span>一行は再び大公の行方を探し始める。
+Japanese,"scene_cp5_q3_s10,531",detail,シェロカルテ,[ジータ]さん～<br>お仕事の調子は<br>いかがですか～？
+Japanese,"scene_cp5_q3_s10,531",detail,シェロカルテ,シのゴの言わずに仕事しろ～<br>シゴトだけに。
+Japanese,"scene_cp5_q3_s10,531",detail,シェロカルテ,うぷ！ これきた！ メモメモ……
+Japanese,"scene_cp5_q3_s10,531",detail,ラカム,まださっぱりだなぁ。<br>足の砂場は慣れねぇし、<br>変な娘には後をつけられるし。
+Japanese,"scene_cp5_q3_s10,531",detail,ビィ,そういえば、<br>襲われていたあの魔導士は<br>どこ行ったんだ？
+Japanese,"scene_cp5_q3_s10,531",detail,ラカム,……逃げちまったみたいだな。<br>よくこの足場で動けるもんだ。
+Japanese,"scene_cp5_q3_s10,531",detail,カタリナ,綺麗な髪をした娘だったな。<br>話を聞きたかったのだが……
+Japanese,"scene_cp5_q3_s10,531",detail,ルリア,そーだね！<br>たぶん、私より年下だと思うけど<br>仲良しになれるかなぁ？
+Japanese,"scene_cp5_q3_s10,531",detail,カタリナ,ああ、心配はいらない。<br>ルリアならきっと仲良しになれるさ。
+Japanese,"scene_cp5_q3_s10,531",detail,シェロカルテ,ふむふむ……魔導士の女の子ですか～
+Japanese,"scene_cp5_q3_s10,531",detail,ラカム,こうつけまわされたら<br>仕事に障るかもしれねぇな……
+Japanese,"scene_cp5_q3_s10,531",detail,ラカム,シェロ、なんとかならないか？
+Japanese,"scene_cp5_q3_s10,531",detail,シェロカルテ,まぁ、手はまわしてみますね～
+Japanese,"scene_cp5_q3_s10,531",detail,ラカム,すまねぇな。<br>頼りにしてるぜ、シェロ。
+Japanese,"scene_cp5_q3_s10,531",detail,カタリナ,よし、[ジータ]。<br>私達は今日も大公の足どりを追おう！
+Japanese,"scene_cp5_q3_s20,532",synopsis,,延々と続く砂の海を探索する中、カタリナは小さな違和感に気付き、謎の少女に思いを馳せる。
+Japanese,"scene_cp5_q3_s20,532",detail,カタリナ,例の魔導士の娘、<br>今日はつけて来ていないようだ。
+Japanese,"scene_cp5_q3_s20,532",detail,ルリア,お話してみたいなぁ……
+Japanese,"scene_cp5_q3_s20,532",detail,カタリナ,ふふ……<br>大丈夫、そのうち機会がくるさ。
+Japanese,"scene_cp5_q3_s20,532",detail,ルリア,女の子のお友達がいっぱいできたら、<br>もっと普通の子みたいになれるかな？
+Japanese,"scene_cp5_q3_s20,532",detail,ビィ,カタリナじゃダメってか？<br>まぁ、女の子っていう歳でもねーか。
+Japanese,"scene_cp5_q3_s20,532",detail,カタリナ,なっ！？<br>わ、私だってまだまだいけるぞ！？
+Japanese,"scene_cp5_q3_s20,532",detail,ルリア,ううん、カタリナはなんていうか<br>お姉さんだからいいんだよ！<br>お友達より、もっと大切な人なんだ。
+Japanese,"scene_cp5_q3_s20,532",detail,カタリナ,な、なにを急に言い出すんだ……！
+Japanese,"scene_cp5_q3_s20,532",detail,魔物,<span class='scene-font-4'>グオオー！</span>
+Japanese,"scene_cp5_q3_s20,532",detail,カタリナ,ほら、そんなこと話してる間に<br>魔物が寄ってきたぞ！
+Japanese,"scene_cp5_q4_s10,541",synopsis,,謎の少女について有力な情報を得たと言うシェロが伝えた内容は、<span>[ジータ]</span>一行を脅迫するものだった。少女を救出するため、<span>[ジータ]</span>一行は指定された場所へと急ぐ。
+Japanese,"scene_cp5_q4_s10,541",detail,シェロカルテ,[ジータ]さん～<br>今朝お聞きした女の子について、<br>有力な情報が入りましたよ～
+Japanese,"scene_cp5_q4_s10,541",detail,ラカム,ほほー<br>どれ、なになに？
+Japanese,"scene_cp5_q4_s10,541",detail,ラカム,<span class='scene-font-bold scene-font-blue'>『魔導士の少女を預かった。</span><br><span class='scene-font-bold scene-font-blue'>返して欲しくば明日の正午</span><br><span class='scene-font-bold scene-font-blue'>下記の場所に来られたし』</span>
+Japanese,"scene_cp5_q4_s10,541",detail,ビィ,情報っておい！<br>こりゃ、脅迫状じゃねぇか！
+Japanese,"scene_cp5_q4_s10,541",detail,カタリナ,なんだと……？<br>なぜそんな事態に……
+Japanese,"scene_cp5_q4_s10,541",detail,ビィ,なぁ、よろず屋。<br>その脅迫状、<br>いったい誰が持ってきたんだ？
+Japanese,"scene_cp5_q4_s10,541",detail,シェロカルテ,正確には伝言なんですよ～<br>私の掲示板に人づて、言づてで。
+Japanese,"scene_cp5_q4_s10,541",detail,カタリナ,では、たどるのは……<br>難しいか。
+Japanese,"scene_cp5_q4_s10,541",detail,シェロカルテ,でも、なんでその子を～？<br>[ジータ]さんの騎空団の一員と<br>思われたんですかね～？
+Japanese,"scene_cp5_q4_s10,541",detail,ラカム,さって……どうする？ [ジータ]。<br>放っておく手もなくはねぇが……
+Japanese,"scene_cp5_q4_s10,541",detail,ビィ,へへ、そんなわけない<br>って面してんな、[ジータ]。
+Japanese,"scene_cp5_q4_s10,541",detail,カタリナ,大公を追う私達に脅しをかけてきた……<br>という事は、逆に大公への<br>手がかりになるかも知れないな。
+Japanese,"scene_cp5_q4_s10,541",detail,ラカム,決まりだな！<br>成り行きとはいえ、<br>いっちょお姫様救出といくか！
+Japanese,"scene_cp5_q4_s20,542",synopsis,,指定の場所に居たのは、<span class='scene-font-place'>ポート・ブリーズ</span>で帝国の手先を演じていた遊び人、ドランクだった。しかし、何故か互いに話が通じない混乱の中、謎の魔物が<span>[ジータ]</span>達に襲いかかる。
+Japanese,"scene_cp5_q4_s20,542",detail,ラカム,おい！ 人さらい！<br>来てやったぞ！ どこにいやがる！
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,んふ。<br>君らならちゃ～んと来ると<br>思ってたよぉ。
+Japanese,"scene_cp5_q4_s20,542",detail,ビィ,て、てめーは、<br><span class='scene-font-place'>ポート・ブリーズ</span>にいた二人組の！？<br>こんなとこで何してんだよ？
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,その節はどうもねぇ～！<br>でも、手紙で恩は返したから、<br>もう貸し借りはナシだからねん？
+Japanese,"scene_cp5_q4_s20,542",detail,ビィ,また帝国の手先に戻ったってわけか……
+Japanese,"scene_cp5_q4_s20,542",detail,ビィ,やっちまえ！ [ジータ]！
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,ちょ！ ちょっと待って！<br>一応こっちは人質とってる<br>立場なんですけどぉ！！
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,で、だ！ 人質の女の子は無事さ。<br>今はスツルム殿が<br>遊び相手をしてあげてるんだぁ。
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,ごめんねぇ？<br>今回、僕らもけっこう焦っててさ。<br>……で、大公はどこかな？
+Japanese,"scene_cp5_q4_s20,542",detail,カタリナ,なに？<br>貴様、なにを言って……
+Japanese,"scene_cp5_q4_s20,542",detail,ラカム,なに言ってやがる！<br>帝国とつるんでるんだろ？<br>お前らの方が詳しいだろうが！
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,いやいや、とぼけないでよ？<br>君ら、大公府の役人と会ってただろ？<br>大公はどこに隠れてるんだい？
+Japanese,"scene_cp5_q4_s20,542",detail,カタリナ,…………
+Japanese,"scene_cp5_q4_s20,542",detail,カタリナ,話が噛み合わないな。
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,……え？ あれ？<br>…………
+Japanese,"scene_cp5_q4_s20,542",detail,機械兵,――……
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,何だァ！？
+Japanese,"scene_cp5_q4_s20,542",detail,カタリナ,な、なんだこれは！ 伏兵か……！？
+Japanese,"scene_cp5_q4_s20,542",detail,ドランク,うわ、スツルム殿！ へるぷみー！<br>なに？ この、へんてこな機械！！
+Japanese,"scene_cp5_q4_s20,542",detail,ルリア,これは……生き物じゃないけど<br>微かに星晶の力を感じます！<br>操られているの……？
+Japanese,"scene_cp5_q4_s20,542",detail,ビィ,とにかく応戦するぞ！<br>蹴散らせ！ [ジータ]！
+Japanese,"scene_cp5_q4_s30,543",synopsis,,機械の魔物を退けた<span>[ジータ]</span>一行は、ここ数日、自分達を付け回していた、謎の少女が気絶しているのを発見し保護する。
+Japanese,"scene_cp5_q4_s30,543",detail,ビィ,見たこともない魔物だったな。<br>なんだあれ？ 機械か？ 魔物か？
+Japanese,"scene_cp5_q4_s30,543",detail,ルリア,すごく不思議な感じがしました！
+Japanese,"scene_cp5_q4_s30,543",detail,ルリア,でも、なんだか……
+Japanese,"scene_cp5_q4_s30,543",detail,カタリナ,おい！<br>こっちに例の女の子が倒れてるぞ！
+Japanese,"scene_cp5_q4_s30,543",detail,ラカム,気を失ってるが……<br>無事みたいだな。
+Japanese,"scene_cp5_q4_s30,543",detail,ルリア,心配です……<br>[ジータ]、連れて帰りましょ？
+Japanese,"scene_cp5_q4_s30,543",detail,カタリナ,もちろんだ。<br>ラカム、手伝ってくれ。
+Japanese,"scene_cp5_q4_s30,543",detail,ラカム,お、おう！
+Japanese,"scene_cp5_q4_s30,543",detail,？？？,う、うぅん……<br>ししょー、ししょぉぉ～
+Japanese,"scene_cp5_q4_s30,543",detail,,<span class='scene-font-katari'>正体不明の機械の登場により</span><br><span class='scene-font-katari'>失踪した大公の行方には</span><br><span class='scene-font-katari'>いっそう深い闇がかかる。</span>
+Japanese,"scene_cp5_q4_s30,543",detail,,<span class='scene-font-katari'>手探り状態の暗闇の中</span><br><span class='scene-font-katari'>真実への鍵は</span><br><span class='scene-font-katari'>魔導士の少女が握っていた。</span>
+
+English,"scene_cp5_q1_s10,511",synopsis,,"As instructed by Sturm and Drang, [Djeeta] and company visit the Valtz Duchy, a Draph island famed for its steel. There trouble awaits."
+English,"scene_cp5_q1_s10,511",detail,,"A mysterious letter and simple curiosity have led the crew to the Valtz Duchy, where rows of smoke-belching chimneys rise out of the red earth."
+English,"scene_cp5_q1_s10,511",detail,Rackam,Hm... I see the factories here are as lively as ever. But I've never seen so many Draphs in one place.
+English,"scene_cp5_q1_s10,511",detail,Katalina,Draph steelwork is some of the best in the skies...
+English,"scene_cp5_q1_s10,511",detail,Katalina,"But is it just me, or do things seem a little on edge here?"
+English,"scene_cp5_q1_s10,511",detail,Lyria,"Yeah. There's something scary in the air, [Djeeta]."
+English,"scene_cp5_q1_s10,511",detail,Vyrn,Everyone's talkin' about the archduke going missing. Word has it the Erste Empire kidnapped him...
+English,"scene_cp5_q1_s10,511",detail,Katalina,The empire?
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,"Well, if it isn't [Djeeta] and friends! What are you all just standing around for?"
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,Did someone... stand you up?
+English,"scene_cp5_q1_s10,511",detail,Vyrn,It's the shopkeep from the Knickknack Shack! What are you doing here?
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,I am both everywhere and nowhere!
+English,"scene_cp5_q1_s10,511",detail,Lyria,"Wow, Siero! That's some real food for thought!"
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,"Then I'll let you chew that over. Anyway, I have a job for you all!"
+English,"scene_cp5_q1_s10,511",detail,Rackam,"And just like that, we've got ourselves a personal task-manager!"
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,"This mission is hush-hush, so follow these secret instructions to meet with a man named Christophe of the Valtz Duchy."
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,"The town's in an uproar, so be careful. Even I'm being watched..."
+English,"scene_cp5_q1_s10,511",detail,Rackam,Our... manager seems to be trying to get us killed.
+English,"scene_cp5_q1_s20,512",synopsis,,"After talking with Siero, [Djeeta] and company rush to the agreed-upon location but are followed by a suspicious figure."
+English,"scene_cp5_q1_s20,512",detail,Katalina,Rackam! [Djeeta]!
+English,"scene_cp5_q1_s20,512",detail,Rackam,"Yeah, I noticed. Someone's following us."
+English,"scene_cp5_q1_s20,512",sel1_txt,,Someone from the empire?
+English,"scene_cp5_q1_s20,512",sel2_txt,,Who could it be?
+English,"scene_cp5_q1_s20,512",detail,Rackam,This isn't like them though. The empire would normally just attack... no questions asked.
+English,"scene_cp5_q1_s20,512",detail,Vyrn,That's definitely been our experience with 'em so far.
+English,"scene_cp5_q1_s20,512",detail,Rackam,Someone's watching us. Not feeling any hostility though.
+English,"scene_cp5_q1_s20,512",detail,Vyrn,You never know who you might be dealing with! Maybe they're keepin' their hostility under wraps!
+English,"scene_cp5_q1_s20,512",detail,Katalina,They appear to be using magic to stay hidden from sight.
+English,"scene_cp5_q1_s20,512",detail,Monster,Groaaar!
+English,"scene_cp5_q1_s20,512",detail,Vyrn,This town's been nothin' but trouble so far. Let's just deal with the bad guys we can <span class='scene-font-italic'>see</span> for now.
+English,"scene_cp5_q1_s20,512",detail,Katalina,Agreed.
+English,"scene_cp5_q1_s20,512",detail,Katalina,Let's shake these guys off and push ahead!
+English,"scene_cp5_q1_s20,512",detail,???,...
+English,"scene_cp5_q2_s10,521",synopsis,,"Following Siero's instructions, [Djeeta] and company meet the so-called Christophe of the Valtz Duchy. He asks the crew to locate the missing archduke, Tzaka the Great."
+English,"scene_cp5_q2_s10,521",detail,Christophe,I presume you're the crew that Sierokarte sent.
+English,"scene_cp5_q2_s10,521",detail,Vyrn,Yup!
+English,"scene_cp5_q2_s10,521",detail,Vyrn,You sure chose a dangerous place to rendezvous!
+English,"scene_cp5_q2_s10,521",detail,Christophe,Our top priority is secrecy.
+English,"scene_cp5_q2_s10,521",detail,Vyrn,Guess that means you're not about to share your real name. Anyway. Let's hear what you have to say.
+English,"scene_cp5_q2_s10,521",detail,Christophe,I'm most grateful for your understanding.
+English,"scene_cp5_q2_s10,521",detail,Christophe,"I would like your assistance in locating none other than Tzaka the Great, the Archduke of Valtz."
+English,"scene_cp5_q2_s10,521",detail,Katalina,We've heard rumors that he's been kidnapped by the Erste Empire.
+English,"scene_cp5_q2_s10,521",detail,Christophe,We don't have any specific proof. Whoever did it was smart enough not to leave behind any clues.
+English,"scene_cp5_q2_s10,521",detail,Christophe,And I'm not able to comment on our relationship with the empire. Please accept my apologies.
+English,"scene_cp5_q2_s10,521",detail,Christophe,"If you accept my request, I have some... documents you may be interested in."
+English,"scene_cp5_q2_s10,521",detail,Rackam,A record of the archduke's steps just before he disappeared. Talk about detailed...
+English,"scene_cp5_q2_s10,521",detail,Vyrn,"Hey, don't you realize what you just did? You agreed to help the minute you looked at those papers!"
+English,"scene_cp5_q2_s10,521",detail,Rackam,Well...
+English,"scene_cp5_q2_s10,521",detail,Rackam,This sounds like nothing but a heap of trouble. But we'll do what we have to.
+English,"scene_cp5_q2_s10,521",detail,Katalina,I can't help but be concerned knowing that the empire may be involved.
+English,"scene_cp5_q2_s10,521",detail,Vyrn,"All right, [Djeeta]! Let's check all the locations mentioned in these papers!"
+English,"scene_cp5_q2_s20,522",synopsis,,"As they search for the archduke, [Djeeta] and company realize that the shadow following them has disappeared. They then encounter a mysterious girl who is under attack by monsters."
+English,"scene_cp5_q2_s20,522",detail,Lyria,"Searching for the archduke is like trying to find a needle in a haystack, [Djeeta]..."
+English,"scene_cp5_q2_s20,522",detail,Vyrn,All we've heard is rumor after fishy rumor. Nothin' close to the kind of evidence we need...
+English,"scene_cp5_q2_s20,522",detail,Rackam,There's even talk about the archduke and empire teaming up to create a doomsday device. The rumor mill just never stops.
+English,"scene_cp5_q2_s20,522",detail,Katalina,Whatever was trailing us yesterday seems to have disappeared too.
+English,"scene_cp5_q2_s20,522",detail,Rackam,You're right. I haven't sensed it at all today.
+English,"scene_cp5_q2_s20,522",detail,Rackam,Hm?
+English,"scene_cp5_q2_s20,522",detail,???,Hey! What're you doing? Let me <span class='scene-font-italic'>go</span>!
+English,"scene_cp5_q2_s20,522",detail,Vyrn,"That girl's in danger! You don't think she's the one who's been following us, do you?"
+English,"scene_cp5_q2_s20,522",detail,Katalina,"From how she's dressed, I'm guessing she's a mage. What could this all be about?"
+English,"scene_cp5_q2_s20,522",detail,Rackam,"The kid's being attacked! We have to do something, [Djeeta]! C'mon!"
+English,"scene_cp5_q3_s10,531",synopsis,,[Djeeta] and company ask Siero to gather info on the mysterious girl who is following them. They then continue searching for the archduke.
+English,"scene_cp5_q3_s10,531",detail,Sierokarte,"How's the job going, [Djeeta]?"
+English,"scene_cp5_q3_s10,531",detail,Sierokarte,It looks like you're working hard... or should I say hardly working?
+English,"scene_cp5_q3_s10,531",detail,Sierokarte,Heh heh. I really have to write that one down...
+English,"scene_cp5_q3_s10,531",detail,Rackam,"Lemme put it this way: we've got zero clues, some weird girl is trailing us, and I can't figure out how to walk on the sand..."
+English,"scene_cp5_q3_s10,531",detail,Vyrn,"Now that you mention it, where'd that mage girl from earlier go anyway?"
+English,"scene_cp5_q3_s10,531",detail,Rackam,She must have run off. Can't imagine how she managed on this sand...
+English,"scene_cp5_q3_s10,531",detail,Katalina,She had beautiful hair. I wish we could have talked to her...
+English,"scene_cp5_q3_s10,531",detail,Lyria,"Me too! She looks a little younger than me, but I wonder if we could be friends."
+English,"scene_cp5_q3_s10,531",detail,Katalina,Don't you worry. I'm sure you two would get along just fine.
+English,"scene_cp5_q3_s10,531",detail,Sierokarte,Hm... So she's a mage...
+English,"scene_cp5_q3_s10,531",detail,Rackam,We don't need her getting in the way of our job.
+English,"scene_cp5_q3_s10,531",detail,Rackam,"Is there anything you can do, Siero?"
+English,"scene_cp5_q3_s10,531",detail,Sierokarte,I'll do what I can.
+English,"scene_cp5_q3_s10,531",detail,Rackam,"Thanks. We're counting on you, Siero."
+English,"scene_cp5_q3_s10,531",detail,Katalina,All right [Djeeta]. Let's just keep tracing the archduke's footsteps!
+English,"scene_cp5_q3_s20,532",synopsis,,"As they trek across the endless sea of sand, Katalina notices something missing and remembers the mysterious girl."
+English,"scene_cp5_q3_s20,532",detail,Katalina,That mage doesn't seem to be following us today.
+English,"scene_cp5_q3_s20,532",detail,Lyria,I wanna talk to her...
+English,"scene_cp5_q3_s20,532",detail,Katalina,Don't worry. I'm sure you'll get the opportunity before long.
+English,"scene_cp5_q3_s20,532",detail,Lyria,"If I make friends with lots of other girls, will I be more normal?"
+English,"scene_cp5_q3_s20,532",detail,Vyrn,What's wrong with Katalina? You sayin' she's too old?
+English,"scene_cp5_q3_s20,532",detail,Katalina,Hey! I'm still in the prime of my youth!
+English,"scene_cp5_q3_s20,532",detail,Lyria,"You're more important to me than a friend, Katalina. You're more like a big sister!"
+English,"scene_cp5_q3_s20,532",detail,Katalina,Wh-where did this come from?
+English,"scene_cp5_q3_s20,532",detail,Monster,Groaar!
+English,"scene_cp5_q3_s20,532",detail,Katalina,Enough idle chatter! We have monsters to contend with!
+English,"scene_cp5_q4_s10,541",synopsis,,Siero informs [Djeeta] and company that the mysterious mage girl they saw earlier is being held ransom. The crew rushes to her rescue.
+English,"scene_cp5_q4_s10,541",detail,Sierokarte,"I have some important news about that girl you mentioned this morning, [Djeeta]."
+English,"scene_cp5_q4_s10,541",detail,Rackam,Oh? And what might that be?
+English,"scene_cp5_q4_s10,541",detail,Rackam,"<span class='scene-font-italic'>We have the mage. If you ever want to see her again, come to the specified location tomorrow at high noon.</span>"
+English,"scene_cp5_q4_s10,541",detail,Vyrn,That isn't news! That's a ransom letter!
+English,"scene_cp5_q4_s10,541",detail,Katalina,"What's the meaning of this, Siero?"
+English,"scene_cp5_q4_s10,541",detail,Vyrn,"Who brought you that letter, shopkeep?"
+English,"scene_cp5_q4_s10,541",detail,Sierokarte,To tell you the truth... it wasn't a letter so much as a note posted to my message board.
+English,"scene_cp5_q4_s10,541",detail,Katalina,Then tracing it back is probably out of the question...
+English,"scene_cp5_q4_s10,541",detail,Sierokarte,"But why that girl of all people? Could they have mistaken her for a member of your crew, [Djeeta]?"
+English,"scene_cp5_q4_s10,541",detail,Rackam,"What do you want to do, [Djeeta]? Ignoring it isn't totally out of the question..."
+English,"scene_cp5_q4_s10,541",detail,Vyrn,"I can tell from the look on your face that you're not gonna let this one go, [Djeeta]!"
+English,"scene_cp5_q4_s10,541",detail,Katalina,They're clearly trying to threaten us. But this may just be the clue we need to find the archduke.
+English,"scene_cp5_q4_s10,541",detail,Rackam,That's that then. We've got a mage to save. The rest will take care of itself!
+English,"scene_cp5_q4_s20,542",synopsis,,"The kidnapper at the specified location turns out to be none other than Drang, who the crew previously encountered at Port Breeze. Before [Djeeta] and company can say anything to him, a monster attacks."
+English,"scene_cp5_q4_s20,542",detail,Rackam,"We came just like you said, kidnappers! Now show yourselves!"
+English,"scene_cp5_q4_s20,542",detail,Drang,Mmm... I just knew you would accept our invitation.
+English,"scene_cp5_q4_s20,542",detail,Vyrn,You're one of those goofballs we ran into back at Port Breeze! What're you doin' here?
+English,"scene_cp5_q4_s20,542",detail,Drang,"Ah yes, you certainly saved our bacon back there! But that nice thank-you letter we sent you should put us on even footing, don't you agree?"
+English,"scene_cp5_q4_s20,542",detail,Vyrn,Looks like he's back to working for the empire.
+English,"scene_cp5_q4_s20,542",detail,Vyrn,"Let's get him, [Djeeta]!"
+English,"scene_cp5_q4_s20,542",detail,Drang,Easy there! Have you forgotten that I'm the one with the hostage?
+English,"scene_cp5_q4_s20,542",detail,Drang,You haven't? Well then! Allow me to reassure you that she's safe and sound in Sturm's company!
+English,"scene_cp5_q4_s20,542",detail,Drang,"Dreadfully sorry about all this. We're in something of a bind ourselves. You... wouldn't happen to know where the archduke is, would you?"
+English,"scene_cp5_q4_s20,542",detail,Katalina,How dare you...
+English,"scene_cp5_q4_s20,542",detail,Rackam,Don't give me that! You're with the empire! You know more about what's going on than any of us!
+English,"scene_cp5_q4_s20,542",detail,Drang,"Now, now. No need to play dumb! We know you met with one of the archduke's inner circle. Where's he hiding?"
+English,"scene_cp5_q4_s20,542",detail,Katalina,What was that?
+English,"scene_cp5_q4_s20,542",detail,Katalina,This is getting us nowhere...
+English,"scene_cp5_q4_s20,542",detail,Drang,Hm?
+English,"scene_cp5_q4_s20,542",detail,Machina Soldier,...!
+English,"scene_cp5_q4_s20,542",detail,Drang,What the!
+English,"scene_cp5_q4_s20,542",detail,Katalina,Some sort of ambush?
+English,"scene_cp5_q4_s20,542",detail,Drang,"Save me, Sturm! Oh my goodness... What in the world is this strange machine?"
+English,"scene_cp5_q4_s20,542",detail,Lyria,"It's not alive, but I can faintly sense the power of primal crystals... Who could be controlling it?"
+English,"scene_cp5_q4_s20,542",detail,Vyrn,"Whatever it is, we'll give it the fight it's looking for! Let's kick some butt, [Djeeta]!"
+English,"scene_cp5_q4_s30,543",synopsis,,"After defeating the mechanical creature, [Djeeta] and company find their shadowy follower lying unconscious and decide to protect her."
+English,"scene_cp5_q4_s30,543",detail,Vyrn,I've never seen anything like that before. Was it a machine? Or a monster?
+English,"scene_cp5_q4_s30,543",detail,Lyria,It seemed so strange!
+English,"scene_cp5_q4_s30,543",detail,Lyria,But something about it was... well...
+English,"scene_cp5_q4_s30,543",detail,Katalina,Hey! That girl from earlier is over here!
+English,"scene_cp5_q4_s30,543",detail,Rackam,She's passed out... but seems to be okay otherwise.
+English,"scene_cp5_q4_s30,543",detail,Lyria,"I don't think she's safe here, [Djeeta]. We should take her back."
+English,"scene_cp5_q4_s30,543",detail,Katalina,"Of course. Lend me a hand, Rackam."
+English,"scene_cp5_q4_s30,543",detail,Rackam,Sure thing!
+English,"scene_cp5_q4_s30,543",detail,???,Urgh... Master... Master?
+English,"scene_cp5_q4_s30,543",detail,,"With the appearance of strange machines, the mystery behind the archduke's disappearance grows ever deeper."
+English,"scene_cp5_q4_s30,543",detail,,Only the unconscious mage holds the key to finding the truth.

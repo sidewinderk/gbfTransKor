@@ -1,0 +1,334 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp2_q1_s10,211",synopsis,,ラカムに助けられ地下教会へと身をひそめる<span>[ジータ]</span>一行は、彼に仲間になってくれるよう掛け合うが断られてしまう。<span>[ジータ]</span>一行とラカムは帝国が攻めてくることを伝えるため、街へと急ぐ。
+Japanese,"scene_cp2_q1_s10,211",detail,,<span class='scene-font-katari'>一同はついに</span><br><span class='scene-font-katari'>凄腕の操舵士と謳われる男、</span><br><span class='scene-font-katari'>ラカムを見つける。</span>,<span class='scene-font-katari'>번역번역번역</span><br><span class='scene-font-katari'>번역번역번역</span><br><span class='scene-font-katari'>번역번역번역</span>
+Japanese,"scene_cp2_q1_s10,211",detail,,<span class='scene-font-katari'>しかし、彼は</span><br><span class='scene-font-katari'>[ジータ]の誘いにただ一言、</span><br><span class='scene-font-katari'>空は捨てた、と答えるのだった。</span>
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,――そういうわけだ。<br>悪ぃが操舵士なら他をあたるんだな。
+Japanese,"scene_cp2_q1_s10,211",detail,カタリナ,い、いや、しかし……何故なんだ？
+Japanese,"scene_cp2_q1_s10,211",detail,カタリナ,街の者に聞いたが、<br>君は幼い頃から、<br>艇と空に親しんできたんだろう？
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,そ、そうだぜ！<br>それにアンタも言ってたじゃねぇか！<br>[ジータ]も聞いたよな？
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,騎空艇の操縦には、<br>特別な技術が必要なんだろ？<br>それを身に付けてるのに、なんで……
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ったく……<br>ギャアギャアとうるせぇのな……
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,いいか？<br>俺は、空が俺を捨てたから、<br>俺も空を捨てたんだ……そんだけの話さ。
+Japanese,"scene_cp2_q1_s10,211",detail,カタリナ,空が……？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ああ、てめぇらも見たろ？<br>あそこにあった騎空艇をよ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,あれは、昔からあそこにある<br>持ち主の居ない難破船だったんだ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,俺はそいつを幼い頃から、<br>こつこつと独学で修理し続けた……<br>また空に飛ばせてやろうってな。
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,修理してた？<br>でも、ありゃぁまるで<br>墜落して放置されたって感じだったぜ？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,そりゃそうだ。<br>あいつは俺を乗せて、<br>真っ逆さまに墜落したんだからな。
+Japanese,"scene_cp2_q1_s10,211",detail,ルリア,墜落……<br>じゃあ、貴方はそれで……？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ああ……<br>裏切られた思いでいっぱいだったよ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,修理には詳しい奴の手も借りた。<br>操縦の腕だって磨いてきた……<br>準備は全て整っていたはずだ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,それでもあいつは……<br>グランサイファーは墜ちたんだ。俺が<br>抱いていた想いも何もひっくるめてな。
+Japanese,"scene_cp2_q1_s10,211",detail,ビィ,それは、その……<br>天気が悪かったとか……<br>なぁ？ [ジータ]？
+Japanese,"scene_cp2_q1_s10,211",sel1_txt,,<span class='scene-font-katari'>ビィの言うとおりだ</span>
+Japanese,"scene_cp2_q1_s10,211",sel2_txt,,<span class='scene-font-katari'>腕が未熟だったんだ</span>
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,この<span class='scene-font-place'>ポート・ブリーズ</span>には、<br>年中いい風が吹いてるよ。<br>島の守り神サマのおかげでな。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,この島に限っちゃ、<br>風が悪くて墜落するってことは<br>ありえねぇんだ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,ははっ！<br>お前ら俺を、凄腕の操舵士だ、って<br>紹介されたんじゃねぇのか？
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,腕には自信があったさ……<br>空に裏切られるまではな……
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,さぁ、この話はお終いだ。<br>さっきの帝国の話を、<br>街の連中に知らせに行こうぜ。
+Japanese,"scene_cp2_q1_s10,211",detail,ラカム,知っちまった以上、<br>放っておくわけにもいかねぇからな。
+Japanese,"scene_cp2_q1_s20,212",synopsis,,街が見えてくるとラカムは、後は任せたと隠れ家に戻ろうとする。<span>[ジータ]</span>達が慌ててその行動の真意を問いただすと、ラカムは自らの大切なもののためにしか戦う気はないと告げ、その場を去ってしまう。
+Japanese,"scene_cp2_q1_s20,212",detail,ビィ,お！ ようやく街が見えてきたな！
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,ん？ そうか？<br>んじゃ、後は任せたぜ。<br>俺はこの辺で隠れ家に戻るからよ。
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,待て待てまて！<br>なぜ隠れ家に戻るんだ？<br>街の者と帝国を迎え撃たないのか？
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,事情を知っちまった以上、<br>それを伝えるための<br>手伝いくらいはするさ。
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,けどな……<br>俺が守るのはあくまで、<br>あの騎空艇……グランサイファーだけだ。
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,貴様……<br>人命より艇を優先するというのか……
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,俺は、俺の大切なもののためにしか<br>戦う気はねぇってだけさ。<br>帝国相手となりゃ、命がけだしな。
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,てめぇらも<br>お人好しはたいがいにしねぇと、<br>ロクでもないことで命を落とすぜ？
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,救える命が……<br>守れる者が目の前にいるというのに、<br>放ってなどおけるものか！！
+Japanese,"scene_cp2_q1_s20,212",detail,ルリア,カ、カタリナ、落ち着いて……
+Japanese,"scene_cp2_q1_s20,212",detail,ラカム,そうかい……<br>んじゃぁな、<br>せいぜい後悔だけはするんじゃねぇぞ。
+Japanese,"scene_cp2_q1_s20,212",detail,,<span class='scene-font-katari'>そう言い残すと、</span><br><span class='scene-font-katari'>ラカムは[ジータ]の前から、</span><br><span class='scene-font-katari'>姿を消した。</span>
+Japanese,"scene_cp2_q1_s20,212",detail,カタリナ,後悔などするはずが……<br>できるはずがあるものか……<br>私には、もう……
+Japanese,"scene_cp2_q1_s20,212",detail,ビィ,とにかく急ごうぜ！<br>街が見えたとはいえ、<br>まだ魔物はうようよ居るんだからよ！
+Japanese,"scene_cp2_q2_s10,221",synopsis,,エルステ帝国の一軍が迫っているという危機を知らせるため、街へと急ぐ<span>[ジータ]</span>一行。その途中、道化師のごとき男と寡黙な剣士の二人組が<span>[ジータ]</span>達の行く手に現れる。
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,ふぅ……街までは、<br>もう一息といったところか。
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,うん！<br>早く街の人に、<br>帝国が攻めて来るって伝えなきゃ……
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,ハロゥ～♪<br>元気してるぅ？ 指名手配犯諸君！
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,無傷……まだ死んではいないな。
+Japanese,"scene_cp2_q2_s10,221",detail,ビィ,な、なんだこいつら……<br>帝国の手先か！？
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,ビンゴォ！<br>やー、賢いねぇトカゲちゃん。<br>後でりんごをあげよう！
+Japanese,"scene_cp2_q2_s10,221",detail,ビィ,くっ……い、いるかそんなもん！！<br>り、りんごなんて……じゅる。
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,ビィさん、よだれが……
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,はっはー！ 好きかい？ りんご！<br>それならとっておきが……
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,<span class='scene-font-4'>痛てッ！？</span>
+Japanese,"scene_cp2_q2_s10,221",detail,？？？,ドランク……早く本題に入れ、<br>これ以上、無駄話をするなら……刺す。
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,オーケーオーケー！<br>わかってるてばぁ！ だからスツルム殿<br>剣先でぐりぐりするのは、やめ……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,<span class='scene-font-4'>あ痛ったぁ！</span>
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,あの……我々はいま急いでいるんだ。<br>用がないのなら、もういいか？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,いいわけない……ドランク！
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,はいはい……<br>さぁ、指名手配犯諸君、<br>実はね、君らにお願いがあるんだ。
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,お願い……ですか？<br>あの、私達にできることなら<br>いいんですけど……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,君は物分りが良いねぇ！<br>ご褒美にお菓子をあげ……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,<span class='scene-font-4'>痛って！？<span><br>い、いまホントに刺した！？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,ふん……<br>お前ら……このまま街に行くつもりだろ。<br>帝国が攻めてくるってことを伝えに。
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,その通りだが……それが？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,やめてほしい……<br>街の奴らに抵抗されると、面倒。
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,そんなお願いが聞けるとでも？
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,聞けないのか……？
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,……怖いねぇ、女のにらみ合いって。<br>お嬢ちゃんはああなっちゃダメだよん？
+Japanese,"scene_cp2_q2_s10,221",detail,ルリア,は、はぁ……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,素直な返事だ！<br>君にはこの飴ちゃんを……
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,<span class='scene-font-4'>痛てッ！？</span>
+Japanese,"scene_cp2_q2_s10,221",detail,スツルム,ドランク……行くぞ。
+Japanese,"scene_cp2_q2_s10,221",detail,ドランク,あ！ 待ってよ、スツルム殿！<br>置いていかないでよねぇ～！
+Japanese,"scene_cp2_q2_s10,221",detail,ビィ,な、なんだったんだ、あいつら……
+Japanese,"scene_cp2_q2_s10,221",detail,カタリナ,帝国からの警告といったところか……<br>先を急ごう。<br>これまで以上に用心して、な。
+Japanese,"scene_cp2_q2_s20,222",synopsis,,大量に襲い来る魔物によって、<span>[ジータ]</span>一行は思うように前に進めずにいた。街の外の危険さを改めて知り、<span>[ジータ]</span>一行は必ず帝国を止めようと決意する。
+Japanese,"scene_cp2_q2_s20,222",detail,ビィ,くそー……<br>いくら街が見える距離でも、<br>こうも魔物が多くっちゃな……
+Japanese,"scene_cp2_q2_s20,222",detail,カタリナ,瘴流域によって魔物が狂暴化した<br>という記録は残っているが……
+Japanese,"scene_cp2_q2_s20,222",detail,カタリナ,近年になって、<br>魔物の数が増えている理由については、<br>帝国も原因は掴んでいなかったな。
+Japanese,"scene_cp2_q2_s20,222",detail,ビィ,街の外はもう、<br>危険地帯ってわけか……
+Japanese,"scene_cp2_q2_s20,222",detail,ルリア,この街の人達は、<br>私達がシェロさんのお店で困っていたら<br>親切にしてくれたよね……
+Japanese,"scene_cp2_q2_s20,222",detail,カタリナ,ああ……恩は返さねばな。<br>[ジータ]、必ず帝国を止めよう。<br>それこそが、私達のすべき恩返しだ。
+Japanese,"scene_cp2_q3_s10,231",synopsis,,街へと急ぐ<span>[ジータ]</span>一行の前に、再びドランクとスツルムの二人組が立ち塞がる。しかし、今度のふたりには大人しく引き下がる様子はなく、その手には人質となったラカムの姿があった。
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,ハロウ♪<br>僕がいない間も元気にして……
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,<span class='scene-font-4'>痛てッ！</span>
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,ちょっ、スツルム殿！？<br>いまなんで刺したの！？
+Japanese,"scene_cp2_q3_s10,231",detail,スツルム,イライラした……<br>お前の話し方はいつも癇に障る。
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,それほぼ八つ当たりだよねぇ！？
+Japanese,"scene_cp2_q3_s10,231",detail,ビィ,またお前らか！
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,何度来ようと、<br>貴君らのお願いを<br>聞き入れることはできないが……？
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,違うなぁ～！ 違うんだよねぇ～！<br>今度は、<br>お願いをしに来たわけじゃないよん！
+Japanese,"scene_cp2_q3_s10,231",detail,スツルム,交渉……こいつの命と。
+Japanese,"scene_cp2_q3_s10,231",detail,ラカム,くっ……
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,ラカム！？<br>貴様、なぜ……！？
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,こいつ、<br>こっそり街に<br>侵入しようとしてやがってさぁ！
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,馬鹿だよねぇ～<br>話を聞かれたのが分かってる以上、<br>街は監視してるに決まってんじゃん！
+Japanese,"scene_cp2_q3_s10,231",detail,ラカム,うるせぇ……
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,そういうわけでさ！<br>小型艇くらいならあげちゃうから、<br>さっさとこの島から出てってよ、ね？
+Japanese,"scene_cp2_q3_s10,231",detail,ルリア,[ジータ]……
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,[ジータ]、答えは……<br>わかってる、聞くまでもなかったな。
+Japanese,"scene_cp2_q3_s10,231",detail,ビィ,だよな！<br>こんな簡単な問題もねぇぜ！
+Japanese,"scene_cp2_q3_s10,231",detail,カタリナ,同意だ……<br>ドランクとやら、<br>悪いがここは突破させてもらうぞ！
+Japanese,"scene_cp2_q3_s10,231",detail,ドランク,あっらぁ～？<br>そんじゃまぁ、このアホの命は……
+Japanese,"scene_cp2_q3_s10,231",detail,ルリア,助けます！！<br>街の人も、ラカムさんも……<br>誰一人犠牲にはしません！！
+Japanese,"scene_cp2_q3_s10,231",detail,ビィ,いくぜ！ [ジータ]！<br>帝国の兵隊なんて、<br>蹴散らしてやれ！
+Japanese,"scene_cp2_q3_s20,232",synopsis,,ラカムも街の住人も助けると大見得をきったものの、ラカムの姿を見失ってしまう。さらにはスツルムに隙を突かれてしまうが、そこに一筋の弾丸が走る。
+Japanese,"scene_cp2_q3_s20,232",detail,ビィ,くっ、まずいぜ……<br>ラカムの姿を見失った……！！
+Japanese,"scene_cp2_q3_s20,232",detail,スツルム,大丈夫……あいつはきちんと、<br>ウチの精鋭が捕まえてる。<br>そんなことより……
+Japanese,"scene_cp2_q3_s20,232",detail,ルリア,<span class='scene-font-5'>きゃっ！？</span>
+Japanese,"scene_cp2_q3_s20,232",detail,カタリナ,ルリアっ！？
+Japanese,"scene_cp2_q3_s20,232",detail,スツルム,油断したな……<br>まずはこのガキから……！！
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,精鋭が……なんだって？
+Japanese,"scene_cp2_q3_s20,232",detail,ビィ,ラカム！<br>お前、いつの間に！？
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,はん……<br>美人の姉ちゃんならまだしも、<br>むさい兵士にゃ俺は抑えらんねぇぜ！
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,嬢ちゃん、怪我はねぇか？
+Japanese,"scene_cp2_q3_s20,232",detail,ルリア,は、はい……ありがとうございます！
+Japanese,"scene_cp2_q3_s20,232",detail,スツルム,ちっ……<br>ひとり増えようが同じだ……<br>帝国を相手にして、勝てると思うな！
+Japanese,"scene_cp2_q3_s20,232",detail,ラカム,おい、[ジータ]！<br>ここが正念場だぞ！ 気合入れろよ！！
+Japanese,"scene_cp2_q4_s10,241",synopsis,,追い詰められる<span>[ジータ]</span>一行だったが、ラカムの助けによって窮地を脱する。<span>[ジータ]</span>達は、覚悟を決めたラカムと共に、ドランクとスツルムが引き連れる帝国兵に対抗する。
+Japanese,"scene_cp2_q4_s10,241",detail,ビィ,ラカム！ お前、よく無事だったな！
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,ったく……俺も街の奴も助けるって<br>大見得切ったなら、<br>ちゃんと助けに来いよな。
+Japanese,"scene_cp2_q4_s10,241",detail,カタリナ,ぐっ……面目ない。
+Japanese,"scene_cp2_q4_s10,241",detail,ルリア,でも、無事で本当に良かったです！<br>ねっ！ [ジータ]！
+Japanese,"scene_cp2_q4_s10,241",detail,カタリナ,しかし意外だ……<br>貴殿のことなら、捕縛を逃れたら、<br>私達を放って逃げるかと思ったが……
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,信用ねぇのな……<br>まぁ、確かにそれも考えたさ。
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,けどな……あんたが言ったんだろ？<br>目の前に守れる奴がいるのに、<br>放っておけるか、ってよ。
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,嬢ちゃんが危ないとこ見たら、<br>自然に身体が動いちまってたよ。
+Japanese,"scene_cp2_q4_s10,241",detail,カタリナ,ふふっ、そうか……<br>ともかく、助かった。<br>改めて礼を言わせて欲しい。
+Japanese,"scene_cp2_q4_s10,241",detail,ラカム,ばっ……やめろ！ 恥ずかしい！<br>そういうのは<br>全部終わってからにしようぜ！
+Japanese,"scene_cp2_q4_s10,241",detail,ビィ,だな！ 街まであとほんの少しだ！<br>もうひとふんばりだぜ！
+Japanese,"scene_cp2_q4_s20,242",synopsis,,完全に臨戦態勢となったラカムのおかげもあり、<span>[ジータ]</span>一行は多勢に無勢で一方的だった戦局を徐々にひっくり返しつつあった。
+Japanese,"scene_cp2_q4_s20,242",detail,ラカム,さぁ……帝国の兵士も、<br>数が減ってきたな！
+Japanese,"scene_cp2_q4_s20,242",detail,ビィ,ラカムの奴、結構やるじゃねぇか！
+Japanese,"scene_cp2_q4_s20,242",detail,カタリナ,ああ、<br>これは私もうかうかしていられないな！
+Japanese,"scene_cp2_q4_s20,242",detail,ルリア,ふふ……<br>みんなやる気になってますね！
+Japanese,"scene_cp2_q4_s20,242",detail,ラカム,街の入口もすぐそこだ！<br>[ジータ]！<br>このまま一気に突っ切るぞ！
+Japanese,"scene_cp2_q4_s30,243",synopsis,,ついにスツルムとドランクを追い詰める<span>[ジータ]</span>一行。その必死な命乞いに、<span>[ジータ]</span>達はスツルムとドランクをそのまま逃がすことを決める。
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,<span class='scene-font-4'>ひぃぃっ！ お助け～！</span>
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,ここまでか……
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,ね！<br>もう僕達戦うつもりはないからさ！<br>見逃してくれない？
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,帝国には雇われてるだけだから、<br>忠義を尽くす義理もないし、<br>ね？ 頼むよぉ～……
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,<span class='scene-font-4'>痛てッ！？</span>
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,醜態……これ以上無様をさらすなら、<br>せめてもの情けとして、<br>ここであたしが……！！
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,<span class='scene-font-4'>わあぁぁぁ！</span><br>スツルム殿、落ち着いて～！！
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,つーことだけど……どうする？
+Japanese,"scene_cp2_q4_s30,243",sel1_txt,,<span class='scene-font-katari'>仕方ないな……</span>
+Japanese,"scene_cp2_q4_s30,243",sel2_txt,,<span class='scene-font-katari'>信用できないけど……</span>
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,え？ ホント？ ホントにいいの？
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,くっ……<br>全ては命あってのものとはいえ……<br>敵に恩情を与えられるとは……
+Japanese,"scene_cp2_q4_s30,243",detail,ルリア,うん……<br>こんなにお願いしてるんだもんね……
+Japanese,"scene_cp2_q4_s30,243",detail,カタリナ,頭を垂れた者に剣を向けるというのは<br>騎士道にも反するしな。
+Japanese,"scene_cp2_q4_s30,243",detail,ビィ,金で雇われてただけみたいだし、<br>ここは見逃してやるとするか！
+Japanese,"scene_cp2_q4_s30,243",detail,ドランク,ありがとぉ～！<br>恩に着る！ 着まくるよぉ～！！
+Japanese,"scene_cp2_q4_s30,243",detail,スツルム,覚えてろ……<br>この屈辱は絶対に返してやるからな！
+Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>こうして</span><br><span class='scene-font-katari'>スツルムとドランクの二人組は、</span><br><span class='scene-font-katari'>[ジータ]達の前から去って行った。</span>
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,――それで？<br>お前らは本当に<br>街で帝国を迎え撃つつもりなのか？
+Japanese,"scene_cp2_q4_s30,243",detail,ビィ,もちろんだぜ！<br>帝国と敵対するってのは、<br>オイラ達にはいまさらだしな！
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,やれやれ……とんだお人好しだな。<br>とはいえ、<br>俺もそのお人好しに救われたわけだ……
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,こうなりゃ俺も腹くくるぜ……<br>[ジータ]の目も気に入ったしな。
+Japanese,"scene_cp2_q4_s30,243",detail,ルリア,それじゃ、ラカムさんも……？
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,ああ！<br>帝国なんぞに<br>この街を潰させてやるもんかよ！！
+Japanese,"scene_cp2_q4_s30,243",detail,ラカム,こうと決めた以上、<br>帝国の奴ら、返り討ちにしてやるぜ！！
+Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>[ジータ]の意志に呼応した</span><br><span class='scene-font-katari'>ラカムを仲間に迎え</span><br><span class='scene-font-katari'>[ジータ]は帝国との戦いに備える。</span>
+Japanese,"scene_cp2_q4_s30,243",detail,,<span class='scene-font-katari'>しかし、</span><span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>の巨大な思惑は、</span><br><span class='scene-font-place'>ポート・ブリーズ群島</span><span class='scene-font-katari'>全体をも</span><br><span class='scene-font-katari'>飲みこもうとしていた。</span>
+
+English,"scene_cp2_q1_s10,211",synopsis,,"Rackam explains that the sky betrayed him when he crashed the Grandcypher airship on the highlands, vowing never to fly again."
+English,"scene_cp2_q1_s10,211",detail,,"The party has finally tracked down Rackam, the peerless helmsman."
+English,"scene_cp2_q1_s10,211",detail,,But Rackam explains that he's no longer interested in returning to the skies.
+English,"scene_cp2_q1_s10,211",detail,Rackam,So that's that. My flying days are over.
+English,"scene_cp2_q1_s10,211",detail,Katalina,But... why's that?
+English,"scene_cp2_q1_s10,211",detail,Katalina,"According to the townsfolk, you've been interested in airships and flying ever since you were a child."
+English,"scene_cp2_q1_s10,211",detail,Vyrn,"Yeah! You even said it yourself! You heard him, right, [Djeeta]?"
+English,"scene_cp2_q1_s10,211",detail,Vyrn,"I mean, you must've trained like crazy to be a helmsman. Why would you throw all that away?"
+English,"scene_cp2_q1_s10,211",detail,Rackam,"Good grief! One at a time, guys. One at a time..."
+English,"scene_cp2_q1_s10,211",detail,Rackam,Listen here. The sky's done with me so I'm done with the sky. That's all there is to it.
+English,"scene_cp2_q1_s10,211",detail,Katalina,The sky's done with you?
+English,"scene_cp2_q1_s10,211",detail,Rackam,"You guys saw it, right? The crashed airship back there."
+English,"scene_cp2_q1_s10,211",detail,Rackam,It's been there for ages. A wreck without an owner.
+English,"scene_cp2_q1_s10,211",detail,Rackam,"I crawled over every inch of that thing when I was a tyke, fixing it up. Swore I'd get it flying again..."
+English,"scene_cp2_q1_s10,211",detail,Vyrn,Wait. You fixed it? But it looked like a wreck!
+English,"scene_cp2_q1_s10,211",detail,Rackam,You're not wrong. It lifted me up and threw me back down to the ground just as quickly.
+English,"scene_cp2_q1_s10,211",detail,Lyria,You crashed... Is that why you gave up on flying?
+English,"scene_cp2_q1_s10,211",detail,Rackam,Yeah... Felt like I was betrayed.
+English,"scene_cp2_q1_s10,211",detail,Rackam,I had an expert technician handle repairs and worked like mad to get my piloting skills up to speed. I just knew I was ready...
+English,"scene_cp2_q1_s10,211",detail,Rackam,But the Grandcypher came crashing down... along with all my hopes and dreams.
+English,"scene_cp2_q1_s10,211",detail,Vyrn,"That just sounds like you had bad weather or something... Right, [Djeeta]?"
+English,"scene_cp2_q1_s10,211",sel1_txt,,Yeah! Bad weather!
+English,"scene_cp2_q1_s10,211",sel2_txt,,Or lack of training?
+English,"scene_cp2_q1_s10,211",detail,Rackam,They don't call it Port Breeze for nothing. The weather here's great all year round thanks to the island's guardian.
+English,"scene_cp2_q1_s10,211",detail,Rackam,No way a gust is going to make an airship come crashing down 'round these parts.
+English,"scene_cp2_q1_s10,211",detail,Rackam,Ha-ha! Didn't they tell ya? I was a real ace of a helmsman!
+English,"scene_cp2_q1_s10,211",detail,Rackam,I had no doubt in my ability... until the sky betrayed me.
+English,"scene_cp2_q1_s10,211",detail,Rackam,"Anyway, the time for talk is over. We gotta go warn the town the empire's coming."
+English,"scene_cp2_q1_s10,211",detail,Rackam,No way they can get away with what they're trying to pull!
+English,"scene_cp2_q1_s20,212",synopsis,,"[Djeeta] and the others draw nearer to the town, but Rackam turns back, refusing to fight the empire."
+English,"scene_cp2_q1_s20,212",detail,Vyrn,Whoa! I can see the town!
+English,"scene_cp2_q1_s20,212",detail,Rackam,Oh yeah? Good then! You guys can take it from here. I'm heading back to my hideout!
+English,"scene_cp2_q1_s20,212",detail,Katalina,Wait just a minute! Aren't you going to help the townspeople fight back against the empire?
+English,"scene_cp2_q1_s20,212",detail,Rackam,"Hey, I'm already helping you find your way back to town to spread the word."
+English,"scene_cp2_q1_s20,212",detail,Rackam,But I'm not sticking my neck out for anything but that airship of mine... the Grandcypher.
+English,"scene_cp2_q1_s20,212",detail,Katalina,So you're saying... a ship's more important to you than the lives of innocent people?
+English,"scene_cp2_q1_s20,212",detail,Rackam,What I'm saying is I only protect what's dear to me. I'm not about to die fighting the empire.
+English,"scene_cp2_q1_s20,212",detail,Rackam,Watch out or those bleeding hearts of yours are gonna leave you bleeding out. Literally!
+English,"scene_cp2_q1_s20,212",detail,Katalina,There are lives at stake! How can you just ignore them when they're right in front of you?
+English,"scene_cp2_q1_s20,212",detail,Lyria,Katalina! Take a deep breath...
+English,"scene_cp2_q1_s20,212",detail,Rackam,Listen... Just try not to do anything you'll regret.
+English,"scene_cp2_q1_s20,212",detail,,"With these parting words, Rackam turns on his heel to leave."
+English,"scene_cp2_q1_s20,212",detail,Katalina,As if I'd ever regret this... I've no more room for regret.
+English,"scene_cp2_q1_s20,212",detail,Vyrn,Let's just hurry up and go! We've still got monsters to take care of on the way into town!
+English,"scene_cp2_q2_s10,221",synopsis,,"On the way to town, [Djeeta] and the others meet a witty Erune man and a terse Draph woman who are working for the empire."
+English,"scene_cp2_q2_s10,221",detail,Katalina,Whew... We're almost to the outskirts of town.
+English,"scene_cp2_q2_s10,221",detail,Lyria,Yep! We've got to hurry and warn the townspeople about the empire!
+English,"scene_cp2_q2_s10,221",detail,???,"Why, hello there! How are you this lovely day, my dear fugitives?"
+English,"scene_cp2_q2_s10,221",detail,???,They look fine. They're not even hurt...
+English,"scene_cp2_q2_s10,221",detail,Vyrn,Who are you? Imperial lackeys?
+English,"scene_cp2_q2_s10,221",detail,???,"Bingo! You, my fine lizard friend, are a genius! How'd you like an apple?"
+English,"scene_cp2_q2_s10,221",detail,Vyrn,"Nghh... Like I'd even want one of those! No way I'd take a sweet, crispy, juicy..."
+English,"scene_cp2_q2_s10,221",detail,Lyria,"Vyrn, you're drooling!"
+English,"scene_cp2_q2_s10,221",detail,???,Ha-ha! We have an apple fan on our hands! Luckily I have a whole bucketfu—
+English,"scene_cp2_q2_s10,221",detail,???,Ow!
+English,"scene_cp2_q2_s10,221",detail,???,"Enough with it, Drang. Waste any more time and I'll slice you up."
+English,"scene_cp2_q2_s10,221",detail,Drang,"Okay, okay, Sturm! I get it! Now stop poking me with your—"
+English,"scene_cp2_q2_s10,221",detail,Drang,Ow!
+English,"scene_cp2_q2_s10,221",detail,Katalina,"Look, we're in a hurry. If that's all you came to say, then can we be on our way now?"
+English,"scene_cp2_q2_s10,221",detail,Sturm,Absolutely not. Drang!
+English,"scene_cp2_q2_s10,221",detail,Drang,"Sure thing. So, my dear fugitives, I have a favor to ask of you..."
+English,"scene_cp2_q2_s10,221",detail,Lyria,"A favor? If it's something we can do, then sure. I guess..."
+English,"scene_cp2_q2_s10,221",detail,Drang,You're quick on the uptake! Accept this sweet treat as your rewa—
+English,"scene_cp2_q2_s10,221",detail,Drang,Ow! I've been stabbed again!
+English,"scene_cp2_q2_s10,221",detail,Sturm,"Humph... You're on your way to warn the town of the empire, aren't you?"
+English,"scene_cp2_q2_s10,221",detail,Katalina,That's correct. So?
+English,"scene_cp2_q2_s10,221",detail,Sturm,We'd rather you didn't. It'll be so much easier without their resistance.
+English,"scene_cp2_q2_s10,221",detail,Katalina,And you think we'll do this favor for you?
+English,"scene_cp2_q2_s10,221",detail,Sturm,Are you saying you <span class='scene-font-italic'>won't</span>?
+English,"scene_cp2_q2_s10,221",detail,Drang,"Now those are some scary faces! Don't you scowl like that, little lady, or your face might freeze!"
+English,"scene_cp2_q2_s10,221",detail,Lyria,Okay. If you say so...
+English,"scene_cp2_q2_s10,221",detail,Drang,Good girl! Perhaps you'd like a marshmall—
+English,"scene_cp2_q2_s10,221",detail,Drang,Ow!
+English,"scene_cp2_q2_s10,221",detail,Sturm,"We're leaving, Drang."
+English,"scene_cp2_q2_s10,221",detail,Drang,"Wait, Sturm! Don't leave me here!"
+English,"scene_cp2_q2_s10,221",detail,Vyrn,What was that about?
+English,"scene_cp2_q2_s10,221",detail,Katalina,"A warning from the empire, I guess. Let's hurry, but be extra careful."
+English,"scene_cp2_q2_s20,222",synopsis,,"As [Djeeta] and the others near the town, the number of monsters increases. Eager to repay the people who helped them earlier, they trudge on."
+English,"scene_cp2_q2_s20,222",detail,Vyrn,"What's the deal! The town's right there, but we're seeing even more monsters."
+English,"scene_cp2_q2_s20,222",detail,Katalina,There are records that say the Grim Basin is responsible for putting monsters in a frenzy...
+English,"scene_cp2_q2_s20,222",detail,Katalina,But not even the empire knows why so many monsters have appeared in recent years.
+English,"scene_cp2_q2_s20,222",detail,Vyrn,"So everything outside of town is pretty much a danger zone, huh?"
+English,"scene_cp2_q2_s20,222",detail,Lyria,But the people of that town helped us back at Siero's shop when we needed it most.
+English,"scene_cp2_q2_s20,222",detail,Katalina,"Indeed. We owe them a lot. And there's no better way to pay them back than by stopping the empire in its tracks, [Djeeta]."
+English,"scene_cp2_q3_s10,231",synopsis,,Sturm and Drang use Rackam as a bartering chip to get [Djeeta] and the others to leave the island. But they refuse to leave him behind.
+English,"scene_cp2_q3_s10,231",detail,Drang,"Why, hello! I see you've been quite bubbly in my absence..."
+English,"scene_cp2_q3_s10,231",detail,Drang,Ow!
+English,"scene_cp2_q3_s10,231",detail,Drang,Sturm! I am stabbed by you yet again! Why?
+English,"scene_cp2_q3_s10,231",detail,Sturm,You said something that annoyed me. As usual.
+English,"scene_cp2_q3_s10,231",detail,Drang,And your only outlet is to make me into a pincushion?
+English,"scene_cp2_q3_s10,231",detail,Vyrn,You guys again!
+English,"scene_cp2_q3_s10,231",detail,Katalina,Ask as much as you like. But we've no intention of doing you any favors.
+English,"scene_cp2_q3_s10,231",detail,Drang,Nope! You've got us all wrong! We're not here for any favors this time.
+English,"scene_cp2_q3_s10,231",detail,Sturm,We're here to make a trade... for this man's life.
+English,"scene_cp2_q3_s10,231",detail,Rackam,Humph...
+English,"scene_cp2_q3_s10,231",detail,Katalina,Rackam! What happened?
+English,"scene_cp2_q3_s10,231",detail,Drang,"He was caught red-handed, trying to sneak into town!"
+English,"scene_cp2_q3_s10,231",detail,Drang,"How foolish! We knew of your spying ears, so naturally we set out our own spying eyes!"
+English,"scene_cp2_q3_s10,231",detail,Rackam,"Oh, shut it already..."
+English,"scene_cp2_q3_s10,231",detail,Drang,"Let's cut to the chase, hm? We'll give you a minnow of an airship and you swim, swim, swim away from this island! Okay?"
+English,"scene_cp2_q3_s10,231",detail,Lyria,[Djeeta]...
+English,"scene_cp2_q3_s10,231",detail,Katalina,"I don't even need to ask what you'll say, do I, [Djeeta]?"
+English,"scene_cp2_q3_s10,231",detail,Vyrn,"Got that right! Simple question, simple answer!"
+English,"scene_cp2_q3_s10,231",detail,Katalina,"Agreed... Sorry, Drang, but we're going to have to send you off!"
+English,"scene_cp2_q3_s10,231",detail,Drang,"Oh, deary me! And yet more foolish lives are lost..."
+English,"scene_cp2_q3_s10,231",detail,Lyria,We'll save both the villagers and Rackam! No one's going to lose their lives to the empire!
+English,"scene_cp2_q3_s10,231",detail,Vyrn,"Let's roll, [Djeeta]! We're gonna send 'em crying to their mommies!"
+English,"scene_cp2_q3_s20,232",synopsis,,Rackam is hauled away and Sturm grabs hold of Lyria. But a piercing shot turns the tables in favor of [Djeeta] and the others.
+English,"scene_cp2_q3_s20,232",detail,Vyrn,"This is bad, guys. I don't see Rackam anywhere!"
+English,"scene_cp2_q3_s20,232",detail,Sturm,He'll be fine. He's been taken away by one of our finest units. More importantly...
+English,"scene_cp2_q3_s20,232",detail,Lyria,Eep!
+English,"scene_cp2_q3_s20,232",detail,Katalina,Lyria!
+English,"scene_cp2_q3_s20,232",detail,Sturm,You let your guard down. So we'll start with this little brat first...
+English,"scene_cp2_q3_s20,232",detail,Rackam,I sure hope those units weren't your finest...
+English,"scene_cp2_q3_s20,232",detail,Vyrn,Rackam! Where'd you come from?
+English,"scene_cp2_q3_s20,232",detail,Rackam,"Ha! I might've played along if they were tough, but I'm not getting carted off by those two-bit grunts!"
+English,"scene_cp2_q3_s20,232",detail,Rackam,"You okay, little miss?"
+English,"scene_cp2_q3_s20,232",detail,Lyria,Yes... Thank you!
+English,"scene_cp2_q3_s20,232",detail,Sturm,Tch... One more fighter on your side hardly matters. You'll never win against the empire!
+English,"scene_cp2_q3_s20,232",detail,Rackam,"Hey, [Djeeta]! You'd better get ready, because it's do or die!"
+English,"scene_cp2_q4_s10,241",synopsis,,Rackam decides to help [Djeeta] and the others stand up against the empire for the sake of the town.
+English,"scene_cp2_q4_s10,241",detail,Vyrn,Rackam! I'm so glad to see you're okay!
+English,"scene_cp2_q4_s10,241",detail,Rackam,"Come on, guys... If you're gonna talk big about saving me and the town, then follow through!"
+English,"scene_cp2_q4_s10,241",detail,Katalina,Yeah... Sorry about that...
+English,"scene_cp2_q4_s10,241",detail,Lyria,"We're just glad you're safe. Right, [Djeeta]?"
+English,"scene_cp2_q4_s10,241",detail,Katalina,"You surprised me. I figured if you escaped that unit, you'd just leave us all behind."
+English,"scene_cp2_q4_s10,241",detail,Rackam,"Gimme a little credit! I mean, although I had a few thoughts about it..."
+English,"scene_cp2_q4_s10,241",detail,Rackam,"I remembered what you said, you know? About ignoring the lives at stake right in front of you..."
+English,"scene_cp2_q4_s10,241",detail,Rackam,I saw you in trouble and my legs just started moving.
+English,"scene_cp2_q4_s10,241",detail,Katalina,"Is that so? Well, one way or another, you saved us. You have our thanks once again."
+English,"scene_cp2_q4_s10,241",detail,Rackam,Would you cut it out? You're makin' me blush! Just save your thanks till this is all over!
+English,"scene_cp2_q4_s10,241",detail,Vyrn,Yeah! We're almost to the town! Let's get to stepping!
+English,"scene_cp2_q4_s20,242",synopsis,,"With Rackam's battle skills, [Djeeta] and the others fight through the swarm of soldiers."
+English,"scene_cp2_q4_s20,242",detail,Rackam,"Well, well, well... Looks like the empire's running out of soldiers!"
+English,"scene_cp2_q4_s20,242",detail,Vyrn,This Rackam guy knows what he's doing!
+English,"scene_cp2_q4_s20,242",detail,Katalina,Indeed. But I won't let him outdo me!
+English,"scene_cp2_q4_s20,242",detail,Lyria,Hee-hee! Everyone's giving it their all!
+English,"scene_cp2_q4_s20,242",detail,Rackam,"There's the town gate, [Djeeta]! Time to break through!"
+English,"scene_cp2_q4_s30,243",synopsis,,[Djeeta] and the others decide to let Sturm and Drang go. Rackam decides to join the fight against the empire.
+English,"scene_cp2_q4_s30,243",detail,Drang,Egads! Heaven help us!
+English,"scene_cp2_q4_s30,243",detail,Sturm,This is it...
+English,"scene_cp2_q4_s30,243",detail,Drang,Hey! We've no intention of fighting! Won't you find it in your heart to forgive us?
+English,"scene_cp2_q4_s30,243",detail,Drang,"The empire just pays us! We're not loyal to them or anything! So c'mon, just—"
+English,"scene_cp2_q4_s30,243",detail,Drang,Ow!
+English,"scene_cp2_q4_s30,243",detail,Sturm,You disgust me. Keep up this act and so help me...
+English,"scene_cp2_q4_s30,243",detail,Drang,"Yikes! No, no, no!<br>Calm down now, Sturm!"
+English,"scene_cp2_q4_s30,243",detail,Rackam,So... what do we do with these goofballs?
+English,"scene_cp2_q4_s30,243",sel1_txt,,Let's let them go.
+English,"scene_cp2_q4_s30,243",sel2_txt,,Can't bring 'em with us...
+English,"scene_cp2_q4_s30,243",detail,Drang,"Huh? Really?<br>Really, really?"
+English,"scene_cp2_q4_s30,243",detail,Sturm,"Showing mercy to a foe is foolish, but I won't complain about being spared..."
+English,"scene_cp2_q4_s30,243",detail,Lyria,Yeah. And he did ask nicely after all...
+English,"scene_cp2_q4_s30,243",detail,Katalina,"Besides, it wouldn't be very knightly to turn a sword on a surrendering foe."
+English,"scene_cp2_q4_s30,243",detail,Vyrn,And it's not like you're die-hards. You were in it for the money. You're free to go!
+English,"scene_cp2_q4_s30,243",detail,Drang,"Oh, thank you, thank you! I owe you a million times over!"
+English,"scene_cp2_q4_s30,243",detail,Sturm,I'll not forget this... Next time the humiliation will be yours!
+English,"scene_cp2_q4_s30,243",detail,,Sturm and Drang hurry away without lingering a moment longer.
+English,"scene_cp2_q4_s30,243",detail,Rackam,So? Are you guys really planning on going to town to fight back against the empire?
+English,"scene_cp2_q4_s30,243",detail,Vyrn,Why wouldn't we? This is our chance to hit 'em where it hurts!
+English,"scene_cp2_q4_s30,243",detail,Rackam,"Good grief, you're a bunch of softies! But if you weren't, you wouldn't have tried to save me."
+English,"scene_cp2_q4_s30,243",detail,Rackam,"Looks like I'm with you! Besides, I like the fire in your eyes, [Djeeta]."
+English,"scene_cp2_q4_s30,243",detail,Lyria,"So... you'll join us, Rackam?"
+English,"scene_cp2_q4_s30,243",detail,Rackam,You think I'd let the empire run roughshod over this town?
+English,"scene_cp2_q4_s30,243",detail,Rackam,It's time they had a taste of their own medicine!
+English,"scene_cp2_q4_s30,243",detail,,"With Rackam now on their side, [Djeeta] and the others prepare to fight against the empire."
+English,"scene_cp2_q4_s30,243",detail,,But the ambitions of their enemy are already beginning to swallow the archipelago whole.

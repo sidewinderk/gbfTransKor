@@ -1,0 +1,129 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt200628_cp0_q1_s10,synopsis,,夏真っ盛りのある日、[ジータ]一行はシェロカルテから大食い大会の誘いを受ける。<span class='scene-font-place'>アウギュステ</span>では現在、樹クラゲという生物が大量発生して漁業に被害を与えており、退治した樹クラゲの処分に困っているという。そこでシェロカルテが大食い大会を企画し、参加者を募るため、縁のある一行に声をかけたのだ。一行は大会を盛り上げるため、大会への参加を申し出るのだった。,"한 여름의 어느날, [지타] 일행은 셰로카르테로부터 많이 먹기 대회에 초대 받는다. <span class='scene-font-place'>아우규스테</span>는 현재 나무 해파리 라는 생물이 대량 발생하여 어업에 피해를 주고있고, 퇴치한 나무 해파리의 처분에 곤란해하고 있다고 한다. 거기서 셰로카르테가 많이 먹기 대회를 기획하여, 참가자를 모집하고자 인연이 있던 일행에게 말을 걸었던 것이었다. 일행은 대회를 더욱 부흥시키기 위해 대회참전을 신청하였다."
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>肌を焼くような強い陽射しが</span><br><span class='scene-font-katari'>降り注ぐ、夏真っ盛りのある日。</span>,<span class='scene-font-katari'>피부를 태울 듯 강한 태양빛이</span><br><span class='scene-font-katari'>내리쬐는 한여름의 어느 날이었다. </span>
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>挨拶がてら訪れたシェロカルテから</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の現状を知らされる。</span>,<span class='scene-font-katari'>[지타] 일행은 인사 겸 찾아왔다는</span><br><span class='scene-font-katari'>셰로카르테에게 요즘</span> <span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'>에서 벌어지는</span><br><span class='scene-font-katari'>사태에 대한 이야기를 듣고 있었다.</span>
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,<span class='scene-font-spword'>“樹クラゲ”</span>、だってぇ？,<span class='scene-font-spword'>나무 해파리</span>라고?
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,はい～<br>比較的温厚で毒もありませんし、<br>普段は害のない生き物なんですが～……,네에~ <br>비교적 온순하고 독도 없어서 평소에는 위험하지 않은 생물이었는데요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,今年はその樹クラゲが大量発生して<br>お魚を食い荒らしているせいで、<br>漁業に被害が出ているんです～,올해는 그 나무 해파리가 잔뜩 생겨나서 <br>생선을 마구 먹어치우는 탓에 어업 쪽이 많은 피해를 보고 있는 모양이에요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,他にも、樹クラゲが危険な生き物だと<br>間違った噂が一部で広まったことで、<br>観光客の足が遠のいてしまいまして～,"그리고 나무 해파리가 위험하다는 <br>잘못된 소문이 일부에서 돌고 있어서, 관광객의 발길이 끊어지고 있고요~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,今の時期は稼ぎ時だからな。<br>オイラ達もちょうどバカンスに<br>行こうと思ってたところだしよ。,지금이 한창 성수기였지. <br>우리도 마침 바캉스나 갈까 하던 참이었는데 말야.
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,なるほど……<br>つまり私達に、その樹クラゲさんを<br>退治してほしいという依頼ですね！,"그렇군요... <br>즉, 저희에게 그 나무 해파리를 퇴치해 달라고 <br>의뢰하시려는 거군요!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,いえ、そうではないんですよ～,"아뇨, 그건 아니에요~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,ん？ 困ってんだろ？<br>遠慮しなくても、<br>オイラ達なら力を貸すぜ！,"응? 난감한 상황인 거 아냐? <br>사양할 거 없어, 우리가 도와줄 테니까!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,困っているのは事実なんですが～<br>本日、足を運んだのは<br>皆さんをお誘いするためでして～,확실히 난감한 상황이긴 한데요~ <br>오늘 이렇게 찾아뵌 건 <br>여러분을 초대하려고 온 거예요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,お誘い？<br>どういうことですか？,초대라고요? <br>그게 무슨 소린가요?
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,実は、この度<span class='scene-font-spword'>“大食い大会”</span>を<br>開催することになりまして～<br>私がその主催者なんです～,"사실 이번에 <span class='scene-font-spword'>""많이 먹기 대회""</span>를 <br>개최하게 되었거든요~ <br>제가 주최자랍니다~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,日頃お世話になっている皆さんにも<br>楽しんでいただきたく、<br>お声がけをと思いまして～,평소 신세지고 있는 여러분께서도 와서 <br>즐겨 주셨으면 해서 <br>말씀드리러 온 거예요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,大食い大会ですか！<br>面白そうですね！,많이 먹기 대회라고요? <br>재미있겠네요!
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,うーんと、話が見えねぇな。<br>魚が減って困ってんのに、<br>大会を開く余裕なんてあんのか？,으음... 맥락을 잘 모르겠네. <br>생선이 줄어들어서 곤란한 참이라면서 <br>대회 열고 있을 여유가 있어?
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,それはですね～……,그게 말이죠~
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>首を傾げる[ジータ]達に、</span><br><span class='scene-font-katari'>シェロカルテは経緯を語る。</span>,<span class='scene-font-katari'>[지타] 일행이 고개를 갸웃거리자</span><br><span class='scene-font-katari'>셰로카르테가 어떻게 된 일인지 설명하기 <br>시작했다.</span>
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>樹クラゲ退治はさほど困難ではなく、</span><br><span class='scene-font-katari'>地元の漁師達だけの力で</span><br><span class='scene-font-katari'>問題なく対処できていた。</span>,<span class='scene-font-katari'>나무 해파리를 퇴치하는 것은 그렇게 어려운 일이</span><br><span class='scene-font-katari'>아니기 때문에 현지 어부들의 힘으로도</span><br><span class='scene-font-katari'>충분하다고 했다. </span>
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>しかし樹クラゲは食材として</span><br><span class='scene-font-katari'>利用出来るため、</span><br><span class='scene-font-katari'>廃棄するのはもったいない。</span>,<span class='scene-font-katari'>하지만 나무 해파리는 먹을 수 있는 </span><br><span class='scene-font-katari'>재료이기도 하기 때문에 </span><br><span class='scene-font-katari'>그냥 버리기엔 아깝다...</span>
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>とはいえ量が膨大で対策に</span><br><span class='scene-font-katari'>困っていたところ、シェロカルテが</span><br><span class='scene-font-katari'>大食い大会の開催を申し出たのだった。</span>,"<span class='scene-font-katari'>는 모양이었다. 그래도 양이 너무 많아서</span><br><span class='scene-font-katari'>처치곤란이던 참에, 셰로카르테가</span><br><span class='scene-font-katari'>많이 먹기 대회를 제안하게 된 것이었다.</span>"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,なるほどなぁ、捨てる代わりに<br>皆で食べちまおうってワケか！<br>そりゃ面白ぇな！,"그랬구나, 버리는 대신 <br>다 함께 먹어버리자는 거네! <br>그거 재미있겠다!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,で、その樹クラゲってのは<br>味はどうなんだよ？<br>ウマいのか？,"그런데 그 나무 해파리라는 거, <br>어떤 맛이야? 맛있어?"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,もちろん～<br>噛めば噛むほど、旨味が<br>口いっぱいに広がります～,그럼요~ <br>씹으면 씹을수록 감칠맛이 <br>입 안에 확 퍼진답니다~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,さらに食感も<br>コリコリッとしているので、<br>やみつきになりますね～,게다가 오독오독하는 식감에 <br>자꾸 먹고 싶어져요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,名前の通り、表面が木目調で<br>樹のように硬質なんですが～<br>その皮をめくると～……,그 이름처럼 표면이 <br>나뭇결처럼 딱딱하긴 한데요~ <br>껍질을 벗기기만 하면
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,弾力のある半透明の瑞々しい身が、<br>プルンッと飛び出してくるんです～,탄력있고 반투명한 싱싱한 살이 <br>볼록 튀어나오죠~
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,はわぁ～！<br>聞いているだけで、<br>お腹が空いてきちゃいますね！,우와~ <br>듣고 있기만 해도 <br>배가 고파지는데요!
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,ははっ！<br>それだけ食欲のあるルリアなら、<br>もしかすると優勝できちまうかもな！,헤헤! <br>루리아는 이렇게 식욕이 왕성하니 <br>어쩌면 우승할지도 모르겠다!
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,ふふふ～<br>それはどうでしょう～,후후후~ <br>과연 어떨까요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,実は<span class='scene-font-place'>アウギュステ</span>では数十年前まで、<br>年に一度、大食い大会が<br>開催されていまして～,사실 <span class='scene-font-place'>아우규스테</span>서는 몇십 년 전까지만 해도<br>매년 많이 먹기 대회가 개최됐었거든요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,参加者の減少で<br>廃止になってしまいましたが、<br>最盛期はとても人気が高く……,"참가자가 줄어들어서 폐지되긴 했지만, <br>전성기 때는 인기도 많았어요."
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,優勝すれば、フードファイターにとって<br>最高の名誉が与えられると言われた<br>伝説の大会だったんです～,우승하면 푸드 파이터로서 <br>최고의 명예를 얻을 수 있다고 알려진 <br>전설의 대회였답니다~
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,最高の名誉かぁ……<br>そんなにすげぇ大会だったのか？,최고의 명예라... <br>그렇게 대단한 대회였어?
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,地方では無敗を誇る選手でさえ、<br>その大会では予選敗退というのも<br>珍しくないレベルだったそうで……,"자기네 동네에서는 무패를 자랑하는 선수라고 <br>해도, 이 대회에서는 예선탈락하는 일이 <br>흔할 정도의 레벨이었다고 해요~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,それほど厳しい大会ゆえに、優勝者は<br>チャンピオンの中のチャンピオン、<br>全空一のフードファイターと呼ばれ……,"그렇게 힘든 대회인 만큼, 우승자는 <br>챔피언중의 챔피언, <br>전공 최고의 푸드파이터라 불렸죠."
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,優勝者の中には、その雄姿が<br>とある大きな国のお姫様に伝わり、<br>婿入りを申し込まれた方もいたとか～,"그리고 우승자 중에서는 그 당당한 모습에 대한<br>소문이 어떤 큰 나라의 공주님에게까지 전해져,<br> 혼담이 들어온 적이 있을 정도라고 하더라고요~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,優勝すればどんな大きな夢も叶う、<br>とまで言われたほどだったそうですよ～,우승하면 그 어떤 꿈도 이룰 수 있다<br>고 전해지고 있어요~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,その伝説の大会が数十年ぶりに復活～！<br>と銘打って参加者を募っていますので、<br>強者揃いの大会になるかと～,"그런 전설의 대회가 몇십 년만에 부활한다고 <br>선전하면서 참가자를 모집하고 있으니, <br>강자들이 잔뜩 모여드는 대회가 될 것 같아요~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,そ、そんなにガチのやつなのかよ……,"그, 그렇게 본격적인 대회였어...?"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,じゃあ、私達は<br>お邪魔かもしれませんね……,그럼 저희는 <br>괜히 방해만 될지도 모르겠네요...
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,いえいえ～<br>真剣な方もいるというだけで、<br>楽しんでいただくことが一番ですから～,"아뇨아뇨~ <br>진지한 분들이 많을 뿐이고, <br>즐기는 게 가장 중요한걸요~"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,お料理目当てで参加する方も、<br>もちろん大歓迎ですよ～,그냥 맛있는 걸 먹으려고 참가하는 분들도 <br>당연히 대환영이랍니다~
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,豪華な賞品も用意しておりますので、<br>皆さんいかがでしょう～？,호화로운 상품도 준비했으니 <br>참가해 보시면 어떨까요~?
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,って言ってるけど、<br>どうするよ[ジータ]？,"그렇다는데, <br>어떡할래? [지타]?"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,わ、私は参加したいです！<br>ダメですか、[ジータ]……？,"저, 전 참가하고 싶어요! <br안 될까요, [지타]...?"
+Japanese,scene_evt200628_cp0_q1_s10,sel1_txt,,<span class='scene-font-katari'>目一杯楽しもう！</span>,<span class='scene-font-katari'>신나게 즐기러 가자!</span>
+Japanese,scene_evt200628_cp0_q1_s10,sel2_txt,,<span class='scene-font-katari'>優勝を目指そう！</span>,<span class='scene-font-katari'>우승을 노리자!</span>
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,わーい！<br>ありがとうございます！,와아~ <br>고마워요!
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,せっかくよろず屋が<br>誘ってくれたんだし、<br>断るのも気が引けるよな！,"모처럼 만물상이 초대해 주는 건데, <br>거절하기도 좀 그렇지!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,<span class='scene-font-4'>ええっ！？</span><br>ほ、本気ですか！？,"<span class='scene-font-4'>우와!?</span><br>지, 진심인가요！？"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,優勝を狙う意気込みでってことだろ？<br>まぁよろず屋の言う通り、<br>楽しめりゃいいと思うぜ！,"우승을 노리는 마음가짐으로, 라는거지?<br>뭐 만물상이 말한 것 처럼<br>즐기면 되는 거라구!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,そ、そうですよね！<br>たくさん食べて体型が変わったら……<br>その、恥ずかしいですし……,"그, 그렇네요!<br>잔뜩 먹어서 살이 찌면……<br>그, 부끄러울 거고……"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,そうか？<br>オイラも[ジータ]も<br>そんなの気にしねぇと思うぜ？,그래?<br>나도 [지타]도<br>그렇게 신경 안쓸 것 같은데?
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,大事なことですよ……！<br>もう、ビィさんったら……,"중요한거에요……！<br>정말, 비이는……"
+Japanese,scene_evt200628_cp0_q1_s10,detail,シェロカルテ,ふふ、では皆さんも<br>ご参加いただけるということで<br>よろしいですね～？,"후후, 그럼 여러분도 참가하시는 걸로 <br>알고 있으면 될까요~?"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,はい！<br>私、もうワクワクしてきちゃいました！,"네! 저, 벌써부터 두근거리기 시작했어요!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,団の皆にも声かけとこうぜ！<br>大食い自慢のやつもいるだろうしな！,다른 단원들한테도 물어보자! <br>잘 먹는 녀석들도 있을 테니까!
+Japanese,scene_evt200628_cp0_q1_s10,detail,ルリア,今年は食べ物を食べるだけなので、<br>ゆっくり過ごせそうですね！,올해는 그냥 먹으러 가는 거니까 <br>편안하게 지낼 수 있겠네요!
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,樹クラゲも無害で大人しいなら、<br>襲われることもなさそうだしな！,"나무 해파리라는 것도 얌전하고 무해하다고 <br>하니까, 이번에는 공격받을 염려도 없을 <br>테고 말이야!"
+Japanese,scene_evt200628_cp0_q1_s10,detail,ビィ,そう毎年毎年、変な生き物に<br>襲われてたまるかってんだ！,매년 이상한 것들한테 <br>습격받으면서 살 수는 없지!
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>シェロカルテの誘いを受け、</span><br><span class='scene-font-katari'>大食い大会に参加することになった</span><br><span class='scene-font-katari'>[ジータ]一行。</span>,<span class='scene-font-katari'>셰로카르테의 초대를 받아들인 </span><br><span class='scene-font-katari'>[지타] 일행은 많이 먹기 대회에 </span><br><span class='scene-font-katari'>참가하기로 했다.
+Japanese,scene_evt200628_cp0_q1_s10,detail,,<span class='scene-font-katari'>真夏の太陽にも劣らぬ</span><br><span class='scene-font-katari'>激闘必至の熱き戦いが</span><br><span class='scene-font-katari'>今、始まろうとしているのだった。</span>,<span class='scene-font-katari'>바야흐로 한여름의 태양에도 지지 않는 </span><br><span class='scene-font-katari'>뜨겁고 치열한 싸움이 </span><br><span class='scene-font-katari'>시작되려고 하고 있었다.</span>
+English,scene_evt200628_cp0_q1_s10,synopsis,,"On a hot summer day, [Djeeta] and crew are invited by Sierokarte to participate in an eating competition. The shopkeeper explains that an increase in Auguste's lumber jelly population is causing problems for the fishing industry, and after culling the population, the island has been left with an excess of lumber jelly to consume. Sierokarte's solution is to revive a traditional Auguste eating competition, one which she hopes the crew can enjoy. The crew happily agrees to join."
+English,scene_evt200628_cp0_q1_s10,detail,,The sun burns bright and hot on a clear summer day.
+English,scene_evt200628_cp0_q1_s10,detail,,"Sierokarte swings by the Grandcypher to deliver news about Auguste, a crew-favorite spot for the summer."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,So you're sayin' these lumber jellies are stirring up trouble?
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Indeedy. They're non-poisonous and usually pretty docile, but..."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,This year they've exploded in number and decimated the fish population. The fishing industry's been struggling because of it.
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Then a rumor went around saying the jellies are dangerous, so tourism's been on a downward slope too."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"A double whammy during the busiest time of the year, huh? And just when we were thinking of taking our own vacation..."
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,That's not good. We'd be happy to take on a request to handle the lumber jellies!
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Ah, that's not actually what I'm here for."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Wait, really? You know we're always happy to help, especially when folks are in a pickle."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"I appreciate it, but I came here today to invite you to a special event."
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,An event? What kind of event?
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"There's going to be an enormous eating competition in Auguste, organized by yours truly."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,I was thinking my favorite skyfaring helpers might want to join the festivities.
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"Wow, an eating competition!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Now hold on a sec. You just said the fish population's been hit hard, so how're you gonna feed all the people?"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,About that...
+English,scene_evt200628_cp0_q1_s10,detail,,Sierokarte begins to explain the situation.
+English,scene_evt200628_cp0_q1_s10,detail,,"Despite their booming population, the lumber jellies aren't too difficult to cull. Auguste's fishermen already have a handle on the situation."
+English,scene_evt200628_cp0_q1_s10,detail,,The only problem left is the surplus of lumber jelly to consume.
+English,scene_evt200628_cp0_q1_s10,detail,,Hence the eating competition—a way to quickly deal with the gigantic seafood stockpile before it spoils.
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Y'know, that's actually a pretty neat idea. I'm into it!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"What's a lumber jelly taste like anyway? Pretty good, I'm guessin'?"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"You betcha! It's pretty chewy, but the more you chew it, the more you can enjoy the flavor!"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Its firm texture is also pretty addictive, I've gotta say."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"You've never seen one before, right? It's got a hard outer shell like tree bark, hence the name 'lumber' jelly, and once you peel that bark back..."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Its squishy, translucent insides come bursting out all pudding-like!"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,Oh my gosh! Hearing about it is already making me super hungry.
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Haha! Lyria here might be the one to take the victory, considering her appetite!"
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Hahaha, I suppose we'll have to see."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"This won't be the first time Auguste'll play host to a big eating competition. They used to have an annual one, up until a few decades ago."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Fewer and fewer people showed up over time, and eventually they had to call it quits, but it was quite the event at the height of its popularity."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"In fact, winning it used to be considered the highest honor for a competitive eater!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Whoa, you serious? I didn't expect it to be that big of a deal."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Oh, but it was. Champions from different regions would often get eliminated in just the preliminaries."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,That's why the winner was called the champion of champions—the best competitive eater in all of the skies.
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,Tales of one eater's stunning victory traveled so far that the princess of a distant kingdom asked for his hand in marriage!
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,Which is why people believed that winning the competition would help make any dream come true!
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"We've been marketing it as the revival of a legendary tradition! Hopefully we'll attract not only a lot of competitors, but also some serious eaters."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,Gulp... That's some kinda next level stuff.
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,Maybe we shouldn't go after all. We might get in the way of people who really want to win...
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"There's no need for that! Some aspiring champions might jump into the mix, but the most important thing will be having fun."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"That, and enjoying some delicious dishes served up by truly talented chefs."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"The grand prize is nothing to sneeze at either. So what do you say, everyone? Are you in?"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Well, whaddya think, [Djeeta]?"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"I... I want to participate! Is that okay, [Djeeta]?"
+English,scene_evt200628_cp0_q1_s10,sel1_txt,,Who can say no to tons of food?
+English,scene_evt200628_cp0_q1_s10,sel2_txt,,Let's eat our way to victory then!
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,Hooray! Thank you so much!
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Siero went outta her way to invite us, right? Be rude to say no!"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,What? A-are you being serious?
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,Guess all that talk about competition has got you fired up too. Sounds fun though! Count me in!
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"I guess trying to win could be fun, but... I don't want to eat <span class='scene-font-italic'>too</span> much and gain weight..."
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"Is that the part you're hung up on? You know me and [Djeeta] don't mind, right?"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"But I mind! Geez, Vyrn, you just don't get it..."
+English,scene_evt200628_cp0_q1_s10,detail,Sierokarte,"Hehe, should I take that to mean you'll all be coming?"
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,"Yes! Oh, I can already taste the jelly!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"We should go let the rest of the crew know, especially the hungry ones."
+English,scene_evt200628_cp0_q1_s10,detail,Lyria,This year's trip to Auguste should be pretty relaxing since we're only going for food.
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"The lumber jellies are already tamed, yeah? We got nothin' to worry 'bout then!"
+English,scene_evt200628_cp0_q1_s10,detail,Vyrn,"It'll be nice to take a load off without being attacked by seafood this time around. Every year, I swear..."
+English,scene_evt200628_cp0_q1_s10,detail,,"Accepting Siero's invitation, [Djeeta] and crew plot a course for Auguste."
+English,scene_evt200628_cp0_q1_s10,detail,,Little do they know a battle intense enough to rival the summer sun is about to start.
