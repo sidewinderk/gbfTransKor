@@ -2,49 +2,49 @@ Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp18_q1_s10,1811",synopsis,,帝国との和解を受け入れた翌朝、「ここでお別れだ」という短い手紙を残し姿を消したカタリナ。シェロによると、明け方、帝国の兵士とともに出かける姿を見たと言う。事情を知っているであろうヴィーラの元へ、一行は向かう──
 Japanese,"scene_cp18_q1_s10,1811",detail,,<span class='scene-font-katari'>フュリアスから</span><br><span class='scene-font-katari'>帝国の和解の意を聞いた翌朝。</span>
 Japanese,"scene_cp18_q1_s10,1811",detail,,<span class='scene-font-katari'>カタリナは、</span><br><span class='scene-font-bold scene-font-blue'>『ここでお別れだ』</span><br><span class='scene-font-katari'>という短い置手紙を残し、姿を消した。</span>
-Japanese,"scene_cp18_q1_s10,1811",detail,ビィ,こ、こいつぁいったい、<br>どういうことなんだ！？
-Japanese,"scene_cp18_q1_s10,1811",detail,ルリア,どうしよう……どうして？<br>どうしてカタリナが……
-Japanese,"scene_cp18_q1_s10,1811",detail,ラカム,もしかしたら、帝国の連中に<br>さらわれたのかもしれねぇぞ！
+Japanese,"scene_cp18_q1_s10,1811",detail,비이,こ、こいつぁいったい、<br>どういうことなんだ！？
+Japanese,"scene_cp18_q1_s10,1811",detail,루리아,どうしよう……どうして？<br>どうしてカタリナが……
+Japanese,"scene_cp18_q1_s10,1811",detail,라캄,もしかしたら、帝国の連中に<br>さらわれたのかもしれねぇぞ！
 Japanese,"scene_cp18_q1_s10,1811",detail,ロゼッタ,ってわけだけど、<br>どう？ シェロちゃん。
 Japanese,"scene_cp18_q1_s10,1811",detail,ロゼッタ,昨日怪しい人達が<br>ここに来たりしたかしら？
-Japanese,"scene_cp18_q1_s10,1811",detail,シェロカルテ,え、えっとですね～<br>朝早くに帝国の人達が、<br>カタリナさんを訪ねてきたんです。
-Japanese,"scene_cp18_q1_s10,1811",detail,シェロカルテ,それで、少し話をした後、<br>カタリナさんはその人達と、<br>どこかへ行っちゃいましたけど……
-Japanese,"scene_cp18_q1_s10,1811",detail,シェロカルテ,帝国とは和解したって、<br>昨日聞いてたから、<br>てっきりすぐ戻ってくるものかと……
+Japanese,"scene_cp18_q1_s10,1811",detail,셰로카르테,え、えっとですね～<br>朝早くに帝国の人達が、<br>カタリナさんを訪ねてきたんです。
+Japanese,"scene_cp18_q1_s10,1811",detail,셰로카르테,それで、少し話をした後、<br>カタリナさんはその人達と、<br>どこかへ行っちゃいましたけど……
+Japanese,"scene_cp18_q1_s10,1811",detail,셰로카르테,帝国とは和解したって、<br>昨日聞いてたから、<br>てっきりすぐ戻ってくるものかと……
 Japanese,"scene_cp18_q1_s10,1811",detail,オイゲン,ん……？ ってこたぁ、<br>無理やり連れてかれたとか、<br>そういうわけじゃあなさそうだな。
 Japanese,"scene_cp18_q1_s10,1811",detail,イオ,で、でも、だとすると……<br>……どういうことなの？
-Japanese,"scene_cp18_q1_s10,1811",detail,ラカム,とにかく探しに行こうぜ！<br>帝国の行方はわからねぇが……
-Japanese,"scene_cp18_q1_s10,1811",detail,ラカム,ヴィーラちゃんなら、<br>何か知ってるかもしれねぇ！
+Japanese,"scene_cp18_q1_s10,1811",detail,라캄,とにかく探しに行こうぜ！<br>帝国の行方はわからねぇが……
+Japanese,"scene_cp18_q1_s10,1811",detail,라캄,ヴィーラちゃんなら、<br>何か知ってるかもしれねぇ！
 Japanese,"scene_cp18_q1_s20,1812",synopsis,,カタリナを失い、動揺するルリア──帝国からの和解の申し出に、裏があると確信した<span>[ジータ]</span>たちは、ヴィーラの元へと急ぐのだった──
-Japanese,"scene_cp18_q1_s20,1812",detail,ルリア,どうして……カタリナ……
-Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,カタリナが自分の意志で、<br>ルリアの元を離れるとは思えねぇな……<br>なぁ、[ジータ]はどう思う？
+Japanese,"scene_cp18_q1_s20,1812",detail,루리아,どうして……カタリナ……
+Japanese,"scene_cp18_q1_s20,1812",detail,비이,カタリナが自分の意志で、<br>ルリアの元を離れるとは思えねぇな……<br>なぁ、[ジータ]はどう思う？
 Japanese,"scene_cp18_q1_s20,1812",sel1_txt,,<span class='scene-font-katari'>カタリナを信じよう</span>
 Japanese,"scene_cp18_q1_s20,1812",sel2_txt,,<span class='scene-font-katari'>何か事情があると思う</span>
-Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,だよな！<br>あの置手紙だって、<br>何かのメッセージかもしれねぇし……
-Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,昨日の帝国の奴ら、<br>いやに潔かったもんな……<br>こりゃ絶対に裏があるぜ！
-Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,ともかく、<br>本人に会って聞くのが一番だ！
-Japanese,"scene_cp18_q1_s20,1812",detail,ビィ,だから、ほらルリア！<br>そんなしょげてる場合じゃねーぞ！
-Japanese,"scene_cp18_q1_s20,1812",detail,ルリア,うぅ……うん！<br>私……何が出来るかわからないけど、<br>頑張りますっ！
+Japanese,"scene_cp18_q1_s20,1812",detail,비이,だよな！<br>あの置手紙だって、<br>何かのメッセージかもしれねぇし……
+Japanese,"scene_cp18_q1_s20,1812",detail,비이,昨日の帝国の奴ら、<br>いやに潔かったもんな……<br>こりゃ絶対に裏があるぜ！
+Japanese,"scene_cp18_q1_s20,1812",detail,비이,ともかく、<br>本人に会って聞くのが一番だ！
+Japanese,"scene_cp18_q1_s20,1812",detail,비이,だから、ほらルリア！<br>そんなしょげてる場合じゃねーぞ！
+Japanese,"scene_cp18_q1_s20,1812",detail,루리아,うぅ……うん！<br>私……何が出来るかわからないけど、<br>頑張りますっ！
 Japanese,"scene_cp18_q2_s10,1821",synopsis,,カタリナは帝国へ戻るべきだと告げるヴィーラに、本人から理由を聞くまでは納得できないと食い下がる<span>[ジータ]</span>たち。カタリナが選択した理由を明かすため、ヴィーラは一行をとある場所へと導くのだった──
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,――そうですか、<br>お姉様が……
-Japanese,"scene_cp18_q2_s10,1821",detail,ラカム,ああ、それで、ヴィーラちゃんは<br>帝国とも繋がりがあるみたいだったし、<br>何か知らねぇか？
+Japanese,"scene_cp18_q2_s10,1821",detail,라캄,ああ、それで、ヴィーラちゃんは<br>帝国とも繋がりがあるみたいだったし、<br>何か知らねぇか？
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,確かに、アルビオンは<span class='scene-font-place'>エルステ帝国</span>に<br>多数人材を送り出しており、<br>仲は深いと言えるでしょう……
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,しかし、<br>お姉様が姿を消した件については、<br>私から申し上げられることは何も……
 Japanese,"scene_cp18_q2_s10,1821",detail,イオ,そんな……じゃぁ、<br>カタリナが何処かへ行っちゃうのを<br>黙って見過ごすしかないの……？
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,……お言葉ですが、<br>お姉様が帝国と行くことに、<br>何か不自然な点があるのでしょうか？
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,そもそも、お姉様は<br>一度は<span class='scene-font-place'>エルステ帝国</span>に仕えた身……
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,アルビオン領主として言うならば……<br>お姉様が帝国に戻るのは、<br>むしろ好ましいことと言えます。
-Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,でも……<br>こんな、何の前触れもなしに……
-Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,せめてカタリナの口から、<br>どうして私達の元を去るのか……
-Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,カタリナに会って、<br>その理由を聞きたいんです……！！
+Japanese,"scene_cp18_q2_s10,1821",detail,루리아,でも……<br>こんな、何の前触れもなしに……
+Japanese,"scene_cp18_q2_s10,1821",detail,루리아,せめてカタリナの口から、<br>どうして私達の元を去るのか……
+Japanese,"scene_cp18_q2_s10,1821",detail,루리아,カタリナに会って、<br>その理由を聞きたいんです……！！
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,それは……<br>その理由というものが、<br>どんな厳しいものであってもですか？
-Japanese,"scene_cp18_q2_s10,1821",detail,ルリア,はいっ！！
+Japanese,"scene_cp18_q2_s10,1821",detail,루리아,はいっ！！
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,……わかりました。<br>そこまで言うのなら、お話しましょう、<br>お姉様が迫られた選択を……
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,見せたいものがあります。<br>少し私に付いて来てください。
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,途中で魔物にやられてしまわないよう、<br>十分気を付けてくださいね？
 Japanese,"scene_cp18_q2_s20,1822",synopsis,,古より伝わる特殊な星晶獣「シュヴァリエ」について、ヴィーラは語り始める。エルステ帝国は、アウギュステで研究されていた兵器アドウェルサでアルビオンの平和を脅かし、シュヴァリエの顕現を求めた。真の騎士を生贄にこの世に顕現するというシュヴァリエ──その生贄に選ばれたカタリナは、<span>[ジータ]</span>たちの安全と引き換えに帝国に囚われることとなったのだった。
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,このアルビオンには、<br>シュヴァリエという特殊な星晶獣が、<br>古より伝わっています。
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,シュヴァリエは真の騎士を依代に……<br>いえ、生贄にしてはじめて<br>この世に顕現する星晶獣なのです。
-Japanese,"scene_cp18_q2_s20,1822",detail,ルリア,真の騎士を生贄に……
+Japanese,"scene_cp18_q2_s20,1822",detail,루리아,真の騎士を生贄に……
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,強大な力を求める<span class='scene-font-place'>エルステ帝国</span>は、<br>当然、シュヴァリエの存在に目を付け、<br>顕現させるよう私達に求めました。
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,しかし、<br>依代となる騎士には合意が必要であり、<br>志願者が居ない、と断ると……
 Japanese,"scene_cp18_q2_s20,1822",detail,ロゼッタ,帝国のほうから、<br>都合の良い人材を、<br>見つけてきたってわけね……
@@ -56,18 +56,18 @@ Japanese,"scene_cp18_q2_s20,1822",detail,オイゲン,あのとき……<br><spa
 Japanese,"scene_cp18_q2_s20,1822",detail,,<span class='scene-font-katari'>一同が見つめる視線の先。</span><br><span class='scene-font-katari'>そこには</span><span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>の戦艦が、</span><br><span class='scene-font-katari'>悠々と空を漂う。</span>
 Japanese,"scene_cp18_q2_s20,1822",detail,,<span class='scene-font-katari'>その戦艦には、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>で研究されていた兵器</span><br><span class='scene-font-katari'>アドウェルサが搭載されていた。</span>
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,島をも滅ぼす兵器の威力を見せられ、<br>アルビオンの人々を守るには、<br>領主として決断せねばならず……
-Japanese,"scene_cp18_q2_s20,1822",detail,ルリア,それじゃ、<br>カタリナは私達のために……？
-Japanese,"scene_cp18_q2_s20,1822",detail,ルリア,だから、<br>私達に何も言わず、黙って……
-Japanese,"scene_cp18_q2_s20,1822",detail,ラカム,事情はだいたい飲みこめたぜ……<br>ったく、<br>ひとりでカッコつけやがって……
-Japanese,"scene_cp18_q2_s20,1822",detail,魔物,<span class='scene-font-5'>グオオォォッ！！</span>
-Japanese,"scene_cp18_q2_s20,1822",detail,ラカム,魔物か……<br>八つ当たりになっちまって悪いが、<br>いまは手加減してやれねぇぞ……！！
+Japanese,"scene_cp18_q2_s20,1822",detail,루리아,それじゃ、<br>カタリナは私達のために……？
+Japanese,"scene_cp18_q2_s20,1822",detail,루리아,だから、<br>私達に何も言わず、黙って……
+Japanese,"scene_cp18_q2_s20,1822",detail,라캄,事情はだいたい飲みこめたぜ……<br>ったく、<br>ひとりでカッコつけやがって……
+Japanese,"scene_cp18_q2_s20,1822",detail,마물,<span class='scene-font-5'>グオオォォッ！！</span>
+Japanese,"scene_cp18_q2_s20,1822",detail,라캄,魔物か……<br>八つ当たりになっちまって悪いが、<br>いまは手加減してやれねぇぞ……！！
 Japanese,"scene_cp18_q3_s10,1831",synopsis,,自らが犠牲になることを望んだヴィーラ。しかし、士官学校在学中に領主となり、騎士としての経験のないヴィーラを、シュヴァリエは依代として認める事は無かったのだ──帝国の真意を知った一行は、カタリナ奪還のため決意を固めるのだった。
 Japanese,"scene_cp18_q3_s10,1831",detail,ヴィーラ,本来なら、アルビオンを預かる私が<br>シュヴァリエを顕現させる<br>依代となるべきなのです……
 Japanese,"scene_cp18_q3_s10,1831",detail,ヴィーラ,しかし、在学中に領主となった私には、<br>騎士としての経験はなく……
 Japanese,"scene_cp18_q3_s10,1831",detail,ヴィーラ,シュヴァリエは、<br>私を真の騎士と認めることは<br>ありませんでした……
 Japanese,"scene_cp18_q3_s10,1831",detail,オイゲン,過ぎたことを言ったってしようがねぇ。<br>それに嬢ちゃんが悪く思うこたぁ、<br>なぁんにもねぇよ。
 Japanese,"scene_cp18_q3_s10,1831",detail,イオ,そうよ！<br>そもそも悪いのは全部帝国じゃない！
-Japanese,"scene_cp18_q3_s10,1831",detail,ビィ,その通りだぜ！<br>カタリナをこのまま<br>放っておくなんて出来ねぇよ！
+Japanese,"scene_cp18_q3_s10,1831",detail,비이,その通りだぜ！<br>カタリナをこのまま<br>放っておくなんて出来ねぇよ！
 Japanese,"scene_cp18_q3_s10,1831",detail,オイゲン,ともかく一度ここを離れようぜ。
 Japanese,"scene_cp18_q3_s10,1831",detail,オイゲン,帝国の戦艦を見上げながら<br>領主の嬢ちゃんと密談なんざ、<br>連中に見つかりゃ面倒なことにならぁ。
 Japanese,"scene_cp18_q3_s20,1832",synopsis,,帝国の目をかいくぐり市街地へ向かう道中、アルビオンの領主制度について尋ねる一同に明かされたのは、意外な事実だった。アルビオンでは、領主が亡くなると武術大会が開催され、年齢に関わらず、その優勝者が次の領主となると言うのだ。しかし、カタリナとの戦いを制し領主となったヴィーラから、多くを語られる事は無かった──
@@ -78,47 +78,47 @@ Japanese,"scene_cp18_q3_s20,1832",detail,ロゼッタ,そうじゃないわ。<b
 Japanese,"scene_cp18_q3_s20,1832",detail,ロゼッタ,その歳で、６年も前から、<br>領主をやってるって言うし……<br>先代のお子さんか何かなのかしら？
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,アルビオンの領主は<br>世襲制ではありません。
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,領主が亡くなると、<br>アルビオン全体で武術大会が開かれ、<br>優勝者が次の領主となるのです。
-Japanese,"scene_cp18_q3_s20,1832",detail,ビィ,ってことは……
-Japanese,"scene_cp18_q3_s20,1832",detail,ビィ,嬢ちゃんは、<br>カタリナに勝ったってことなのか！？
+Japanese,"scene_cp18_q3_s20,1832",detail,비이,ってことは……
+Japanese,"scene_cp18_q3_s20,1832",detail,비이,嬢ちゃんは、<br>カタリナに勝ったってことなのか！？
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,はい。<br>お姉様とは、<br>決勝で御手合わせ願いました。
-Japanese,"scene_cp18_q3_s20,1832",detail,ラカム,そりゃすげぇな……<br>あのカタリナよりも強いなんざ、<br>大したもんだぜ？ なぁ？
+Japanese,"scene_cp18_q3_s20,1832",detail,라캄,そりゃすげぇな……<br>あのカタリナよりも強いなんざ、<br>大したもんだぜ？ なぁ？
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,いいえ……<br>当時もいまも、<br>私などお姉様の足元にも及びません。
 Japanese,"scene_cp18_q3_s20,1832",detail,イオ,え？<br>でも、貴女が優勝したから、<br>領主を務めてるんじゃ……？
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,ふふふ……
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,さぁ、魔物が向こうから来ています。<br>気を抜いている余裕はありませんよ。
 Japanese,"scene_cp18_q4_s10,1841",synopsis,,ヴィーラに案内された路地の先で、一行はフュリアスと遭遇する。カタリナを生贄にシュヴァリエを顕現し、あまつさえ、身の安全を約束した<span>[ジータ]</span>たちをも葬ろうとするフュリアスに一行の怒りが向けられる。
 Japanese,"scene_cp18_q4_s10,1841",detail,,<span class='scene-font-katari'>ヴィーラに案内された路地の先で、</span><br><span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>最悪の遭遇を果たす。</span>
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,――あっれぇ～？<br>なになに、大勢でどうしたの？
-Japanese,"scene_cp18_q4_s10,1841",detail,ラカム,フュリアス！？<br>てめぇ！ なぜここに！？
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,おや、その態度は心外だなぁ。<br>ボクだって、<br>人と待ち合わせてただけなんだけど……
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,それにほら、<br>一応、和解した仲じゃないか！<br>仲良くしようよ、ね？
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,――あっれぇ～？<br>なになに、大勢でどうしたの？
+Japanese,"scene_cp18_q4_s10,1841",detail,라캄,フュリアス！？<br>てめぇ！ なぜここに！？
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,おや、その態度は心外だなぁ。<br>ボクだって、<br>人と待ち合わせてただけなんだけど……
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,それにほら、<br>一応、和解した仲じゃないか！<br>仲良くしようよ、ね？
 Japanese,"scene_cp18_q4_s10,1841",detail,イオ,<span class='scene-font-4'>ふざけんじゃないわよ！</span><br>全部事情は聞いたんだから！<br>さっさとカタリナを返しなさいよ！
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,あん……？<br>なんだ、全部聞いちゃったのかぁ……
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,ま、いいや、<br>最初から君らのことも、<br>放っておくつもりはなかったからね。
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,あん……？<br>なんだ、全部聞いちゃったのかぁ……
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,ま、いいや、<br>最初から君らのことも、<br>放っておくつもりはなかったからね。
 Japanese,"scene_cp18_q4_s10,1841",detail,オイゲン,はん……和解ってぇのも、<br>カタリナを納得させる、<br>嘘ってことかい……
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,もちろんだよ！<br>せっかくおもちゃが目の前にあるのに、<br>逃す手はないからね。
-Japanese,"scene_cp18_q4_s10,1841",detail,ルリア,そんな……！！<br>じゃあ、カタリナは何のために……！？
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,ああでも、安心して？<br>あの女騎士には、<br>別の島へでも旅立ったと伝えとくよ！
-Japanese,"scene_cp18_q4_s10,1841",detail,ビィ,この野郎！<br>どれだけ嘘をつきゃ気がすむんだ！
-Japanese,"scene_cp18_q4_s10,1841",detail,フュリアス,馬鹿が！ 騙される方が悪いんだよ！<br>自分達の間抜けさ<br>せいぜい呪うといいぜ！！
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,もちろんだよ！<br>せっかくおもちゃが目の前にあるのに、<br>逃す手はないからね。
+Japanese,"scene_cp18_q4_s10,1841",detail,루리아,そんな……！！<br>じゃあ、カタリナは何のために……！？
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,ああでも、安心して？<br>あの女騎士には、<br>別の島へでも旅立ったと伝えとくよ！
+Japanese,"scene_cp18_q4_s10,1841",detail,비이,この野郎！<br>どれだけ嘘をつきゃ気がすむんだ！
+Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,馬鹿が！ 騙される方が悪いんだよ！<br>自分達の間抜けさ<br>せいぜい呪うといいぜ！！
 Japanese,"scene_cp18_q4_s10,1841",detail,ロゼッタ,彼、あんなに性根が曲がってるから、<br>身長以上に小さく見えるんだわ。
 Japanese,"scene_cp18_q4_s10,1841",detail,ロゼッタ,カタリナを助けるためにも、<br>ここは切り抜けなくちゃね……<br>いくわよ！ [ジータ]！
 Japanese,"scene_cp18_q4_s20,1842",synopsis,,卑怯な手でカタリナの思いを利用し、引き離された<span>[ジータ]</span>たち。一行はカタリナ奪還のため、先を急ぐのだった──
-Japanese,"scene_cp18_q4_s20,1842",detail,ルリア,許せません……！<br>カタリナの思いを利用するなんて……！
-Japanese,"scene_cp18_q4_s20,1842",detail,ラカム,最初っから帝国は、<br>俺達とカタリナを引き離し……
-Japanese,"scene_cp18_q4_s20,1842",detail,ラカム,それぞれに<br>始末をつけるつもりでいた、<br>ってことだな……卑怯な連中だ。
-Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,こうなりゃ絶対に、<br>姐さんを助け出してやろうぜ！
-Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,なぁ！ [ジータ]！<br>お前もこのままじゃ、<br>気が済まないよな！
+Japanese,"scene_cp18_q4_s20,1842",detail,루리아,許せません……！<br>カタリナの思いを利用するなんて……！
+Japanese,"scene_cp18_q4_s20,1842",detail,라캄,最初っから帝国は、<br>俺達とカタリナを引き離し……
+Japanese,"scene_cp18_q4_s20,1842",detail,라캄,それぞれに<br>始末をつけるつもりでいた、<br>ってことだな……卑怯な連中だ。
+Japanese,"scene_cp18_q4_s20,1842",detail,비이,こうなりゃ絶対に、<br>姐さんを助け出してやろうぜ！
+Japanese,"scene_cp18_q4_s20,1842",detail,비이,なぁ！ [ジータ]！<br>お前もこのままじゃ、<br>気が済まないよな！
 Japanese,"scene_cp18_q4_s20,1842",sel1_txt,,<span class='scene-font-katari'>目にモノ見せてやる</span>
 Japanese,"scene_cp18_q4_s20,1842",sel2_txt,,<span class='scene-font-katari'>絶対に許さない</span>
-Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,その意気だぜ！<br>オイラ達にだって、<br>骨のあるとこ見せなくちゃな！
-Japanese,"scene_cp18_q4_s20,1842",detail,ビィ,許せるわけがねーぜ！<br>帝国の連中に、<br>キッチリお返ししてやらねーとな！
+Japanese,"scene_cp18_q4_s20,1842",detail,비이,その意気だぜ！<br>オイラ達にだって、<br>骨のあるとこ見せなくちゃな！
+Japanese,"scene_cp18_q4_s20,1842",detail,비이,許せるわけがねーぜ！<br>帝国の連中に、<br>キッチリお返ししてやらねーとな！
 Japanese,"scene_cp18_q4_s30,1843",synopsis,,見事、帝国兵を蹴散らした一行。しかし、カタリナの行方を知るであろうヴィーラの姿が見当たらないことに<span>[ジータ]</span>たちの焦りは募る。カタリナの行方と、真実を暴露したヴィーラの身の上を案じ、一行は城砦都市アルビオンを駆ける。
-Japanese,"scene_cp18_q4_s30,1843",detail,ビィ,よっしゃ、<br>これで粗方片付いたな！
-Japanese,"scene_cp18_q4_s30,1843",detail,ビィ,あとはこのまま、<br>姐さんのところに行くだけだぜ！
-Japanese,"scene_cp18_q4_s30,1843",detail,ルリア,で、でも、カタリナは、<br>いまどこに居るんでしょう……
-Japanese,"scene_cp18_q4_s30,1843",detail,ラカム,この街のことなら、<br>やっぱりヴィーラちゃんが……
-Japanese,"scene_cp18_q4_s30,1843",detail,ラカム,……って、おい。<br>あの子、どこ行ったんだ？
+Japanese,"scene_cp18_q4_s30,1843",detail,비이,よっしゃ、<br>これで粗方片付いたな！
+Japanese,"scene_cp18_q4_s30,1843",detail,비이,あとはこのまま、<br>姐さんのところに行くだけだぜ！
+Japanese,"scene_cp18_q4_s30,1843",detail,루리아,で、でも、カタリナは、<br>いまどこに居るんでしょう……
+Japanese,"scene_cp18_q4_s30,1843",detail,라캄,この街のことなら、<br>やっぱりヴィーラちゃんが……
+Japanese,"scene_cp18_q4_s30,1843",detail,라캄,……って、おい。<br>あの子、どこ行ったんだ？
 Japanese,"scene_cp18_q4_s30,1843",detail,ロゼッタ,見当たらないわね……<br>ひとりで執務室に帰ったとか？
 Japanese,"scene_cp18_q4_s30,1843",detail,イオ,まさか……<br>あたし達に真実を喋っちゃったから、<br>帝国に連れて行かれたんじゃ……！？
 Japanese,"scene_cp18_q4_s30,1843",detail,オイゲン,ありえねぇ話じゃねぇなぁ……<br>こりゃあ面倒なことになってきたぞ！

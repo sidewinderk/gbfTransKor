@@ -1,13 +1,13 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp16_q1_s10,1611",synopsis,,ルリアが感じるリヴァイアサンの力の共鳴を頼りに、オルキスの行方を追う<span>[ジータ]</span>一行。徐々に弱くなる共鳴に一行は森の奥へと急ぐ。
 Japanese,"scene_cp16_q1_s10,1611",detail,,<span class='scene-font-katari'>ルリアが感じる</span><br><span class='scene-font-katari'>リヴァイアサンの力の共鳴を追って、</span><br><span class='scene-font-katari'>[ジータ]一行はオルキスを追う。</span>
-Japanese,"scene_cp16_q1_s10,1611",detail,ルリア,急がないと……<br>共鳴がだんだん弱くなってる……
-Japanese,"scene_cp16_q1_s10,1611",detail,ルリア,完全に力を消化してしまったら、<br>きっと、もう<br>オルキスちゃんを探せない……！
-Japanese,"scene_cp16_q1_s10,1611",detail,カタリナ,黒騎士が<span class='scene-font-place'>ルーマシー群島</span>から、<br>出るまでが勝負だな……
-Japanese,"scene_cp16_q1_s10,1611",detail,カタリナ,もし共鳴が続いたとしても、<br>空に出られては、<br>それ以上追うことは出来ないだろう……
-Japanese,"scene_cp16_q1_s10,1611",detail,ビィ,とにかく急ぐっきゃねーみてぇだな！<br>ガンガンいこうぜ！ [ジータ]！
+Japanese,"scene_cp16_q1_s10,1611",detail,루리아,急がないと……<br>共鳴がだんだん弱くなってる……
+Japanese,"scene_cp16_q1_s10,1611",detail,루리아,完全に力を消化してしまったら、<br>きっと、もう<br>オルキスちゃんを探せない……！
+Japanese,"scene_cp16_q1_s10,1611",detail,카타리나,黒騎士が<span class='scene-font-place'>ルーマシー群島</span>から、<br>出るまでが勝負だな……
+Japanese,"scene_cp16_q1_s10,1611",detail,카타리나,もし共鳴が続いたとしても、<br>空に出られては、<br>それ以上追うことは出来ないだろう……
+Japanese,"scene_cp16_q1_s10,1611",detail,비이,とにかく急ぐっきゃねーみてぇだな！<br>ガンガンいこうぜ！ [ジータ]！
 Japanese,"scene_cp16_q1_s20,1612",synopsis,,オルキスを追う<span>[ジータ]</span>一行の行く手に次々と魔物が立ち塞がる。それはロゼッタいわく、黒騎士が用意した本来この森には存在しない魔物であり、一行は苦戦を強いられる。
-Japanese,"scene_cp16_q1_s20,1612",detail,魔物,<span class='scene-font-4'>グォオォォッ！！</span>
+Japanese,"scene_cp16_q1_s20,1612",detail,마물,<span class='scene-font-4'>グォオォォッ！！</span>
 Japanese,"scene_cp16_q1_s20,1612",detail,オイゲン,ちっ、魔物かい……<br>それもこりゃまた立派なもんだ……
 Japanese,"scene_cp16_q1_s20,1612",detail,ロゼッタ,……黒騎士の仕業ね。<br>やってくれるじゃない……
 Japanese,"scene_cp16_q1_s20,1612",detail,ロゼッタ,この魔物は、<br>黒騎士の奴がわざわざ用意したものよ。<br>こんな子……この森には居ないわ。
@@ -17,11 +17,11 @@ Japanese,"scene_cp16_q1_s20,1612",detail,オイゲン,そうかい……<br>や�
 Japanese,"scene_cp16_q1_s20,1612",detail,ロゼッタ,それはお互い様でしょ？<br>それに……<br>いまはそんな話してる場合じゃないし。
 Japanese,"scene_cp16_q1_s20,1612",detail,オイゲン,がははははっ！ そいつぁまったくだ！<br>[ジータ]！<br>一気にいくぞ！ ぼさっとすんなよ！
 Japanese,"scene_cp16_q2_s10,1621",synopsis,,リヴァイアサンの力の共鳴を頼りにオルキスを追う<span>[ジータ]</span>一行だったが、ついにそれは感じ取れなくなってしまう。しかし、黒騎士は移動に騎空艇を使うと目星をつけ、今度はロゼッタの案内で森を進む。
-Japanese,"scene_cp16_q2_s10,1621",detail,ルリア,あ……！
-Japanese,"scene_cp16_q2_s10,1621",detail,カタリナ,どうしたルリア！<br>何か怪我でも……
-Japanese,"scene_cp16_q2_s10,1621",detail,ルリア,ち、違うの……<br>いま、リヴァイアサンの力の共鳴が……
+Japanese,"scene_cp16_q2_s10,1621",detail,루리아,あ……！
+Japanese,"scene_cp16_q2_s10,1621",detail,카타리나,どうしたルリア！<br>何か怪我でも……
+Japanese,"scene_cp16_q2_s10,1621",detail,루리아,ち、違うの……<br>いま、リヴァイアサンの力の共鳴が……
 Japanese,"scene_cp16_q2_s10,1621",detail,ロゼッタ,――安心なさい、ルリアちゃん。<br>こっちよ……<br>ここからはアタシが案内するわ。
-Japanese,"scene_cp16_q2_s10,1621",detail,ルリア,え……？<br>で、でもどうやって……？
+Japanese,"scene_cp16_q2_s10,1621",detail,루리아,え……？<br>で、でもどうやって……？
 Japanese,"scene_cp16_q2_s10,1621",detail,ロゼッタ,忘れたの？<br>オルキスちゃんを黒騎士の騎空艇から<br>連れ出したのは、このアタシよ？
 Japanese,"scene_cp16_q2_s10,1621",detail,ロゼッタ,黒騎士の奴は、<br><span class='scene-font-place'>ルーマシー群島</span>から出るために、<br>必ず騎空艇を使うはず……
 Japanese,"scene_cp16_q2_s10,1621",detail,ロゼッタ,それに言ったでしょ？<br>森の案内くらいはするって。
@@ -30,41 +30,41 @@ Japanese,"scene_cp16_q2_s10,1621",detail,ロゼッタ,……おチビちゃん�
 Japanese,"scene_cp16_q2_s10,1621",detail,イオ,げっ……
 Japanese,"scene_cp16_q2_s10,1621",detail,ロゼッタ,ともかく案内するわ。<br>アタシに付いて来なさい！
 Japanese,"scene_cp16_q2_s20,1622",synopsis,,黒騎士の騎空艇を目指す<span>[ジータ]</span>一行。ラカムはそんな一行に、黒騎士が連れ去ったオルキスを本当に追うべきなのか疑問を投げかける。
-Japanese,"scene_cp16_q2_s20,1622",detail,カタリナ,ロゼッタ！<br>黒騎士の騎空艇までは、<br>あとどれくらいなんだ！？
+Japanese,"scene_cp16_q2_s20,1622",detail,카타리나,ロゼッタ！<br>黒騎士の騎空艇までは、<br>あとどれくらいなんだ！？
 Japanese,"scene_cp16_q2_s20,1622",detail,ロゼッタ,もうちょい、ってとこね……<br>魔物の邪魔さえなければ、<br>すぐに着く距離よ。
-Japanese,"scene_cp16_q2_s20,1622",detail,ビィ,よっしゃ！<br>これだけ速けりゃ、<br>黒騎士にも追いつけ――
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,なぁ、<br>もう黒騎士に追いつくってんなら<br>その前に一つ、いいか？
-Japanese,"scene_cp16_q2_s20,1622",detail,ビィ,なんだよぅ、どうしたんだ？<br>そんな神妙な顔して……
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,俺達はいま、<br>黒騎士に連れ去られた<br>オルキスちゃんを追ってるけどよ……
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,そもそも俺達の目的は<br>黒騎士にオルキスちゃんを<br>返すことだったんじゃねぇのか？
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,そういう意味じゃ、<br>もう目的は達成したろ？
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,これ以上は深入りしねぇのが、<br>賢い選択ってやつなんじゃねぇのか？
-Japanese,"scene_cp16_q2_s20,1622",detail,カタリナ,それは……！<br>そう、かもしれない、が……
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,それにオルキスちゃんを<br>引きとめてどうするんだ？<br>一緒に連れてくのか？
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,それこそそれは、<br>誘拐ってもんじゃねぇのか？<br>なぁ……？
-Japanese,"scene_cp16_q2_s20,1622",detail,ルリア,…………
-Japanese,"scene_cp16_q2_s20,1622",detail,ルリア,きっと……<br>きっと私の行動は全部、<br>考えなしなんだと思います……
-Japanese,"scene_cp16_q2_s20,1622",detail,ルリア,だけど……<br>だけど、私、納得できない……！！
-Japanese,"scene_cp16_q2_s20,1622",detail,ルリア,オルキスちゃんを<br>引きとめた後のことなんて<br>何も考えてない……けど！
-Japanese,"scene_cp16_q2_s20,1622",detail,ルリア,いま会いたいから……<br>会わなくちゃいけない気がするからっ！<br>だから会いに行くんです！！
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,…………
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,くっ、くくくく……<br>ああ、そうだ、まったくその通りだぜ！<br>やっぱ追わずにはいられねぇよな！
-Japanese,"scene_cp16_q2_s20,1622",detail,ビィ,な、なんだよラカム……<br>驚かせやがって……
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,いや、悪い……<br>俺も納得は出来てねぇんだ。<br>ルリアと同じ気持ちだよ。
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,……ただな、<br>俺達のこの選択は、<br>恐らくかなりの馬鹿だと思うぜ。
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,自ら死地に飛び込んで、<br>自分の首を絞めるようなもんだ。
+Japanese,"scene_cp16_q2_s20,1622",detail,비이,よっしゃ！<br>これだけ速けりゃ、<br>黒騎士にも追いつけ――
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,なぁ、<br>もう黒騎士に追いつくってんなら<br>その前に一つ、いいか？
+Japanese,"scene_cp16_q2_s20,1622",detail,비이,なんだよぅ、どうしたんだ？<br>そんな神妙な顔して……
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,俺達はいま、<br>黒騎士に連れ去られた<br>オルキスちゃんを追ってるけどよ……
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,そもそも俺達の目的は<br>黒騎士にオルキスちゃんを<br>返すことだったんじゃねぇのか？
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,そういう意味じゃ、<br>もう目的は達成したろ？
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,これ以上は深入りしねぇのが、<br>賢い選択ってやつなんじゃねぇのか？
+Japanese,"scene_cp16_q2_s20,1622",detail,카타리나,それは……！<br>そう、かもしれない、が……
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,それにオルキスちゃんを<br>引きとめてどうするんだ？<br>一緒に連れてくのか？
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,それこそそれは、<br>誘拐ってもんじゃねぇのか？<br>なぁ……？
+Japanese,"scene_cp16_q2_s20,1622",detail,루리아,…………
+Japanese,"scene_cp16_q2_s20,1622",detail,루리아,きっと……<br>きっと私の行動は全部、<br>考えなしなんだと思います……
+Japanese,"scene_cp16_q2_s20,1622",detail,루리아,だけど……<br>だけど、私、納得できない……！！
+Japanese,"scene_cp16_q2_s20,1622",detail,루리아,オルキスちゃんを<br>引きとめた後のことなんて<br>何も考えてない……けど！
+Japanese,"scene_cp16_q2_s20,1622",detail,루리아,いま会いたいから……<br>会わなくちゃいけない気がするからっ！<br>だから会いに行くんです！！
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,…………
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,くっ、くくくく……<br>ああ、そうだ、まったくその通りだぜ！<br>やっぱ追わずにはいられねぇよな！
+Japanese,"scene_cp16_q2_s20,1622",detail,비이,な、なんだよラカム……<br>驚かせやがって……
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,いや、悪い……<br>俺も納得は出来てねぇんだ。<br>ルリアと同じ気持ちだよ。
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,……ただな、<br>俺達のこの選択は、<br>恐らくかなりの馬鹿だと思うぜ。
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,自ら死地に飛び込んで、<br>自分の首を絞めるようなもんだ。
 Japanese,"scene_cp16_q2_s20,1622",detail,ロゼッタ,無鉄砲な馬鹿は嫌いじゃないわ……<br>少なくとも、<br>臆病な理想家よりはよっぽどね。
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,悪ぃな、いらねぇ確認に、<br>時間を使わせちまったみてぇだ。
-Japanese,"scene_cp16_q2_s20,1622",detail,ラカム,[ジータ]！<br>目の前の魔物から、<br>とっとと片付けるぞ！
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,悪ぃな、いらねぇ確認に、<br>時間を使わせちまったみてぇだ。
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,[ジータ]！<br>目の前の魔物から、<br>とっとと片付けるぞ！
 Japanese,"scene_cp16_q3_s10,1631",synopsis,,森の奥の湖畔で<span>[ジータ]</span>一行はついに黒騎士の姿を捉える。しかし、黒騎士はさらなる魔物を一行に差し向け、<span>[ジータ]</span>の行く手を阻む。
 Japanese,"scene_cp16_q3_s10,1631",detail,,<span class='scene-font-katari'>深く水を湛える湖の脇で、</span><br><span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>ついに黒騎士を捉える。</span>
-Japanese,"scene_cp16_q3_s10,1631",detail,ビィ,よしっ！<br>なんとか追いついたぜ！
+Japanese,"scene_cp16_q3_s10,1631",detail,비이,よしっ！<br>なんとか追いついたぜ！
 Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,執念深い連中だな……<br>その上、頭の回転も鈍いと見える。
-Japanese,"scene_cp16_q3_s10,1631",detail,ラカム,馬鹿で結構だ！<br>生憎、利口な生き方は<br>出来ねぇ性分でな！！
-Japanese,"scene_cp16_q3_s10,1631",detail,ルリア,<span class='scene-font-4'>オルキスちゃんっ！！</span>
+Japanese,"scene_cp16_q3_s10,1631",detail,라캄,馬鹿で結構だ！<br>生憎、利口な生き方は<br>出来ねぇ性分でな！！
+Japanese,"scene_cp16_q3_s10,1631",detail,루리아,<span class='scene-font-4'>オルキスちゃんっ！！</span>
 Japanese,"scene_cp16_q3_s10,1631",detail,オルキス,…………
 Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,脅しは通用しない、か……<br>大した度胸を身に付けたものだな。
-Japanese,"scene_cp16_q3_s10,1631",detail,カタリナ,楽な旅ではなかったものでね……<br>嫌でも肝が据わるというものさ。
+Japanese,"scene_cp16_q3_s10,1631",detail,카타리나,楽な旅ではなかったものでね……<br>嫌でも肝が据わるというものさ。
 Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,痛い目を見んと引き下がらんか……<br>まぁ、いい。<br>躾には時として、痛みも必要だ。
 Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,人形……起こせ。<br>居るだろう、ここに。
 Japanese,"scene_cp16_q3_s10,1631",detail,オルキス,えっ……？<br>で、でも……
@@ -72,72 +72,72 @@ Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,躊躇うな、叩き起こ�
 Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,奴らは兵器だ。<br>兵器が安寧を貪るなど、<br>存在意義を自ら消すようなものだ。
 Japanese,"scene_cp16_q3_s10,1631",detail,ロゼッタ,<span class='scene-font-4'>ま、待ちなさい……</span><br>黒騎士、貴方、まさか……！！
 Japanese,"scene_cp16_q3_s10,1631",detail,黒騎士,察しがいいな女狐。<br>しかし、これは少々時間がかかる……<br>いましばらく魔物と戯れているがいい。
-Japanese,"scene_cp16_q3_s10,1631",detail,魔物,<span class='scene-font-4'>グオオォォッ！！</span>
+Japanese,"scene_cp16_q3_s10,1631",detail,마물,<span class='scene-font-4'>グオオォォッ！！</span>
 Japanese,"scene_cp16_q3_s10,1631",detail,イオ,待ちなさいっ！<br>まだ逃げようなんて、<br>往生際が悪いわよ！
-Japanese,"scene_cp16_q3_s10,1631",detail,ビィ,ここまで来て逃がせるか！<br>いくぞ！ [ジータ]！
+Japanese,"scene_cp16_q3_s10,1631",detail,비이,ここまで来て逃がせるか！<br>いくぞ！ [ジータ]！
 Japanese,"scene_cp16_q3_s20,1632",synopsis,,黒騎士は自らの手を汚すことなく<span>[ジータ]</span>一行を始末しようと試みる。そんな中ルリアは黒騎士がオルキスに与えた指示に言いようのない不安を覚える。
 Japanese,"scene_cp16_q3_s20,1632",detail,イオ,観念なさい！ 追い詰めたわよ！
 Japanese,"scene_cp16_q3_s20,1632",detail,黒騎士,小娘……そういう台詞は、<br>強者が弱者に対して使うものだ。<br>己の立場を見誤らないことだな。
-Japanese,"scene_cp16_q3_s20,1632",detail,ルリア,黒騎士さん……<br>いったい、オルキスちゃんに、<br>何をさせようとしてるんですか……？
+Japanese,"scene_cp16_q3_s20,1632",detail,루리아,黒騎士さん……<br>いったい、オルキスちゃんに、<br>何をさせようとしてるんですか……？
 Japanese,"scene_cp16_q3_s20,1632",detail,黒騎士,案ずるな、それはすぐにわかる。<br>手持無沙汰だと言うのなら、<br>これの相手でもしているといい。
-Japanese,"scene_cp16_q3_s20,1632",detail,魔物,<span class='scene-font-4'>グオオォォッ！！</span>
-Japanese,"scene_cp16_q3_s20,1632",detail,カタリナ,くっ、奴め、また魔物を……！<br>[ジータ]！<br>油断するなよ！
+Japanese,"scene_cp16_q3_s20,1632",detail,마물,<span class='scene-font-4'>グオオォォッ！！</span>
+Japanese,"scene_cp16_q3_s20,1632",detail,카타리나,くっ、奴め、また魔物を……！<br>[ジータ]！<br>油断するなよ！
 Japanese,"scene_cp16_q4_s10,1641",synopsis,,<span>[ジータ]</span>一行と対峙する黒騎士はオルキスに指示を与え、ついに奥の手を繰り出す。それは、深き森の湖畔で眠る太古の星晶獣ユグドラシルを目覚めさせることだった。
-Japanese,"scene_cp16_q4_s10,1641",detail,ルリア,――っ！？<br>こ、この感覚……まさか！？
+Japanese,"scene_cp16_q4_s10,1641",detail,루리아,――っ！？<br>こ、この感覚……まさか！？
 Japanese,"scene_cp16_q4_s10,1641",detail,オルキス,――準備、できた。
 Japanese,"scene_cp16_q4_s10,1641",detail,黒騎士,そうか……ではさっそく起こせ。<br>あまり待たせるのも酷というものだ。
 Japanese,"scene_cp16_q4_s10,1641",detail,オルキス,ん……
-Japanese,"scene_cp16_q4_s10,1641",detail,ルリア,ま、待って！ オルキスちゃん！<br>だめだよ！ 絶対に！<br>せっかく静かに眠っているのに！！
+Japanese,"scene_cp16_q4_s10,1641",detail,루리아,ま、待って！ オルキスちゃん！<br>だめだよ！ 絶対に！<br>せっかく静かに眠っているのに！！
 Japanese,"scene_cp16_q4_s10,1641",detail,オルキス,…………
 Japanese,"scene_cp16_q4_s10,1641",detail,オルキス,――目覚めよ、摂理の陣をまといし、<br>偉大なる創世樹よ……
-Japanese,"scene_cp16_q4_s10,1641",detail,ルリア,<span class='scene-font-4'>オルキスちゃんっ！</span>
+Japanese,"scene_cp16_q4_s10,1641",detail,루리아,<span class='scene-font-4'>オルキスちゃんっ！</span>
 Japanese,"scene_cp16_q4_s10,1641",detail,オルキス,――いまここに顕現し、<br>星の理を以って、我が敵を滅ぼせ！！
 Japanese,"scene_cp16_q4_s10,1641",detail,黒騎士,起きろ……星晶獣ユグドラシル。<br>貴様の力を見せてみろ！！
 Japanese,"scene_cp16_q4_s10,1641",detail,ユグドラシル,――――
 Japanese,"scene_cp16_q4_s10,1641",detail,ロゼッタ,せっかく……<br>せっかく静かに眠っていた子を……！！
 Japanese,"scene_cp16_q4_s10,1641",detail,黒騎士,ロゼッタ、<br>力は使われてこそ意味がある……<br>いい加減、それを理解することだな。
-Japanese,"scene_cp16_q4_s10,1641",detail,ビィ,ユグドラシルの力に反応して、<br>魔物が集まってきやがった！
+Japanese,"scene_cp16_q4_s10,1641",detail,비이,ユグドラシルの力に反応して、<br>魔物が集まってきやがった！
 Japanese,"scene_cp16_q4_s10,1641",detail,オイゲン,ここまで計算づくってわけかい……<br>油断のならねぇ奴だな、まったく。
-Japanese,"scene_cp16_q4_s10,1641",detail,カタリナ,まずはこちらを片付けるのが先決か……<br>蹴散らすぞ！ [ジータ]！
+Japanese,"scene_cp16_q4_s10,1641",detail,카타리나,まずはこちらを片付けるのが先決か……<br>蹴散らすぞ！ [ジータ]！
 Japanese,"scene_cp16_q4_s20,1642",synopsis,,自分達と一緒に居たいという意思を示しながらも黒騎士に付き従うオルキスに、ルリアは悲痛に訴えかける。微かな答えがこぼれたその時、ユグドラシルが<span>[ジータ]</span>一行へと襲いかかった。
 Japanese,"scene_cp16_q4_s20,1642",detail,ユグドラシル,――――
-Japanese,"scene_cp16_q4_s20,1642",detail,ルリア,オルキスちゃん……どうしてこんな……<br>この子は静かに<br>時を過ごしていただけなのに……
+Japanese,"scene_cp16_q4_s20,1642",detail,루리아,オルキスちゃん……どうしてこんな……<br>この子は静かに<br>時を過ごしていただけなのに……
 Japanese,"scene_cp16_q4_s20,1642",detail,オルキス,…………
-Japanese,"scene_cp16_q4_s20,1642",detail,ルリア,ねぇ、どうして……？<br>答えてよ、オルキスちゃん……
+Japanese,"scene_cp16_q4_s20,1642",detail,루리아,ねぇ、どうして……？<br>答えてよ、オルキスちゃん……
 Japanese,"scene_cp16_q4_s20,1642",detail,オルキス,…………
-Japanese,"scene_cp16_q4_s20,1642",detail,ルリア,どうしてオルキスちゃんは<br>そこに居るの？<br>私達の手を取らないのは、どうして？
+Japanese,"scene_cp16_q4_s20,1642",detail,루리아,どうしてオルキスちゃんは<br>そこに居るの？<br>私達の手を取らないのは、どうして？
 Japanese,"scene_cp16_q4_s20,1642",detail,オルキス,…………
-Japanese,"scene_cp16_q4_s20,1642",detail,ルリア,もう何も聞こえないの……？<br>オルキスちゃん……！！
+Japanese,"scene_cp16_q4_s20,1642",detail,루리아,もう何も聞こえないの……？<br>オルキスちゃん……！！
 Japanese,"scene_cp16_q4_s20,1642",detail,オルキス,<span class='scene-font-2'>……――――</span>
-Japanese,"scene_cp16_q4_s20,1642",detail,ルリア,え……？
+Japanese,"scene_cp16_q4_s20,1642",detail,루리아,え……？
 Japanese,"scene_cp16_q4_s20,1642",detail,黒騎士,悲しいか、ルリア……<br>すまないな……<br>しかし、これは必要なことなんだ……
 Japanese,"scene_cp16_q4_s20,1642",detail,黒騎士,彼女も事あるごとに泣いていた。<br>しかし、だからこそ、<br>彼女の笑顔は魅力的だったのだ……
 Japanese,"scene_cp16_q4_s20,1642",detail,黒騎士,……さぁ、仕上げだ。<br>悠久を超える創世樹を相手に、<br>せいぜいあがいてみせるがいい！！
 Japanese,"scene_cp16_q4_s30,1643",synopsis,,黒騎士にオルキスを連れ去られ意気消沈する<span>[ジータ]</span>一行の前に、突如としてエルステ帝国の戦艦が現れる。戦艦から降りてきた兵士は<span>[ジータ]</span>に、エルステ帝国は一行との和解を望んでいることを告げる。
-Japanese,"scene_cp16_q4_s30,1643",detail,ルリア,――ユグドラシル、<br>もうこれで大丈夫だよ、<br>うん、だから……おやすみ。
+Japanese,"scene_cp16_q4_s30,1643",detail,루리아,――ユグドラシル、<br>もうこれで大丈夫だよ、<br>うん、だから……おやすみ。
 Japanese,"scene_cp16_q4_s30,1643",detail,ユグドラシル,────
-Japanese,"scene_cp16_q4_s30,1643",detail,ラカム,なんとかデカいのは片付けた、が……
-Japanese,"scene_cp16_q4_s30,1643",detail,カタリナ,黒騎士とオルキスは<br>影も形もないな……
+Japanese,"scene_cp16_q4_s30,1643",detail,라캄,なんとかデカいのは片付けた、が……
+Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,黒騎士とオルキスは<br>影も形もないな……
 Japanese,"scene_cp16_q4_s30,1643",detail,ロゼッタ,いまごろはもう<br>騎空艇も飛び立った頃かしらね……
 Japanese,"scene_cp16_q4_s30,1643",detail,イオ,<span class='scene-font-4'>あーもー！</span><br>くやしいー！
-Japanese,"scene_cp16_q4_s30,1643",detail,ビィ,まったくだぜ！<br>もうちょっとだったってのに……
+Japanese,"scene_cp16_q4_s30,1643",detail,비이,まったくだぜ！<br>もうちょっとだったってのに……
 Japanese,"scene_cp16_q4_s30,1643",detail,オイゲン,結局、オルキス嬢ちゃんには、<br>届かなかったんだなぁ……
-Japanese,"scene_cp16_q4_s30,1643",detail,ルリア,……いいえ、オルキスちゃんに<br>私達の気持ちは<br>ちゃんと届いていました……
-Japanese,"scene_cp16_q4_s30,1643",detail,ルリア,だから……<br>ごめんね、って……<br>そう言ってました、オルキスちゃん……
-Japanese,"scene_cp16_q4_s30,1643",detail,カタリナ,ごめんね、か……
-Japanese,"scene_cp16_q4_s30,1643",detail,ラカム,謝る必要なんざねぇっつのに……
-Japanese,"scene_cp16_q4_s30,1643",detail,ラカム,……って、おい、なんだあれ！<br>あれ、帝国の戦艦じゃねぇのか！？
+Japanese,"scene_cp16_q4_s30,1643",detail,루리아,……いいえ、オルキスちゃんに<br>私達の気持ちは<br>ちゃんと届いていました……
+Japanese,"scene_cp16_q4_s30,1643",detail,루리아,だから……<br>ごめんね、って……<br>そう言ってました、オルキスちゃん……
+Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,ごめんね、か……
+Japanese,"scene_cp16_q4_s30,1643",detail,라캄,謝る必要なんざねぇっつのに……
+Japanese,"scene_cp16_q4_s30,1643",detail,라캄,……って、おい、なんだあれ！<br>あれ、帝国の戦艦じゃねぇのか！？
 Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>突如として上空に現れた</span><br><span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>の戦艦に</span><br><span class='scene-font-katari'>一同は身を固くする。</span>
 Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>しかし、戦艦から</span><br><span class='scene-font-katari'>降り立った使者は、</span><br><span class='scene-font-katari'>意外な提案を述べた。</span>
-Japanese,"scene_cp16_q4_s30,1643",detail,カタリナ,わ、和解をしたいだと……？
+Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,わ、和解をしたいだと……？
 Japanese,"scene_cp16_q4_s30,1643",detail,帝国兵,そうだ……我らが<span class='scene-font-place'>エルステ帝国</span>は、<br>貴様らと和解することを<br>希望している。
 Japanese,"scene_cp16_q4_s30,1643",detail,オイゲン,お、おいおいおい……<br>いったいぜんたい、<br>こいつぁ、どういうことだ？
 Japanese,"scene_cp16_q4_s30,1643",detail,イオ,突然そんなこと言われても……<br>ど、どうしたらいいの……？
 Japanese,"scene_cp16_q4_s30,1643",detail,帝国兵,この先の空にある<br><span class='scene-font-place'>城砦都市アルビオン</span>で、<br>フュリアス将軍閣下がお待ちだ。
 Japanese,"scene_cp16_q4_s30,1643",detail,帝国兵,詳しい話はそこで聞くといい。
-Japanese,"scene_cp16_q4_s30,1643",detail,カタリナ,ア、アルビオンだと……！？
-Japanese,"scene_cp16_q4_s30,1643",detail,ルリア,カタリナ？ 大丈夫？<br>顔色が良くないみたいだけど。
-Japanese,"scene_cp16_q4_s30,1643",detail,カタリナ,……だ、大丈夫だ。<br><span class='scene-font-2'>いつか……いつかは、</span><br><span class='scene-font-2'>こんな日が来ると思っていた。</span>
+Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,ア、アルビオンだと……！？
+Japanese,"scene_cp16_q4_s30,1643",detail,루리아,カタリナ？ 大丈夫？<br>顔色が良くないみたいだけど。
+Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,……だ、大丈夫だ。<br><span class='scene-font-2'>いつか……いつかは、</span><br><span class='scene-font-2'>こんな日が来ると思っていた。</span>
 Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>帝国の使者は、</span><br><span class='scene-font-katari'>一方的に用件だけを告げ、</span><br><span class='scene-font-katari'>戦艦へと戻っていく。</span>
 Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>帝国の告げた和解の真意を確かめるため</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>へと舵を切った。</span>
 English,"scene_cp16_q1_s10,1611",synopsis,,"[Djeeta] and the crew rely on Lyria sensing Leviathan's power to track down Orchis. But with the power growing faint, they must hurry."
