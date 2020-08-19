@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp11_q1_s10,1111",synopsis,,<span class='scene-font-place'>アウギュステ</span>軍の本隊と帝国軍が交戦する中、ルリアは先ほどから感じていた気配から強烈な感情を読み取る。しかし、それは空腹を訴えるもので、一同は安全な場所へと移動を始める。
 Japanese,"scene_cp11_q1_s10,1111",detail,,<span class='scene-font-katari'>オイゲン達の連絡を受けて</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>軍の本隊も到着し</span><br><span class='scene-font-katari'>辺りは混沌とした様相を呈していた。</span>
-Japanese,"scene_cp11_q1_s10,1111",detail,イオ,どどど、どうしようっ！？<br>なんだか一気に、大変なことに……！
+Japanese,"scene_cp11_q1_s10,1111",detail,이오,どどど、どうしようっ！？<br>なんだか一気に、大変なことに……！
 Japanese,"scene_cp11_q1_s10,1111",detail,オイゲン,慌てんじゃねぇよ、嬢ちゃん。<br><span class='scene-font-place'>アウギュステ</span>の本隊が来たからには<br>もう安心だ。
 Japanese,"scene_cp11_q1_s10,1111",detail,オイゲン,ここは連中に任せておけば<br>じきに片が付くと思うぜ。
 Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,そうか……<br>ならば、私達は黒騎士を探そう。<br>この状況では、おそらくそれが……
@@ -12,7 +12,7 @@ Japanese,"scene_cp11_q1_s10,1111",detail,루리아,お……
 Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,お？
 Japanese,"scene_cp11_q1_s10,1111",detail,루리아,おなかへった……
 Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,…………
-Japanese,"scene_cp11_q1_s10,1111",detail,イオ,あ、そういえばあたしも、<br>ちょっとお腹すいてきたかも……
+Japanese,"scene_cp11_q1_s10,1111",detail,이오,あ、そういえばあたしも、<br>ちょっとお腹すいてきたかも……
 Japanese,"scene_cp11_q1_s10,1111",detail,루리아,<span class='scene-font-4'>ちーがーいーまーすー！</span>
 Japanese,"scene_cp11_q1_s10,1111",detail,루리아,リヴァイアサンの気配を探ってたら、<br>そう感じて……
 Japanese,"scene_cp11_q1_s10,1111",detail,비이,いや、腹が減るのは、<br>悪いことじゃないと思うぜ？<br>なぁ、[ジータ]？
@@ -28,13 +28,13 @@ Japanese,"scene_cp11_q1_s20,1112",detail,루리아,別にお腹がすいてた�
 Japanese,"scene_cp11_q1_s20,1112",detail,비이,とかなんとか言いつつ<br>食うには食うんだな。
 Japanese,"scene_cp11_q1_s20,1112",detail,카타리나,集中しすぎて<br>体力を消耗したのだろう。<br>しっかり食べて回復するといい。
 Japanese,"scene_cp11_q1_s20,1112",detail,オイゲン,マイペースな連中だなぁ、おい。<br><span class='scene-font-2'>こいつら、いつもこんな感じなのか？</span>
-Japanese,"scene_cp11_q1_s20,1112",detail,イオ,あたしが知ってる限りでは<br>だいたいこんな感じ……
+Japanese,"scene_cp11_q1_s20,1112",detail,이오,あたしが知ってる限りでは<br>だいたいこんな感じ……
 Japanese,"scene_cp11_q1_s20,1112",detail,魔物達,<span class='scene-font-4'>グオォォォン！</span>
 Japanese,"scene_cp11_q1_s20,1112",detail,라캄,おっと、休憩はここまでみたいだ。<br>また魔物どもがお出ましだぜ！
 Japanese,"scene_cp11_q2_s10,1121",synopsis,,<span class='scene-font-place'>アウギュステ</span>と帝国の戦闘から距離を取る<span>[ジータ]</span>一行。しかし、どれだけ離れようとも執拗に<span>[ジータ]</span>達を追ってくる一団があった。
 Japanese,"scene_cp11_q2_s10,1121",detail,オイゲン,これだけ離れりゃ<br>帝国と<span class='scene-font-place'>アウギュステ</span>の戦闘に<br>巻き込まれることもねぇだろ。
 Japanese,"scene_cp11_q2_s10,1121",detail,라캄,その代わり、<br>魔物がうようよいるけどな。
-Japanese,"scene_cp11_q2_s10,1121",detail,イオ,ね、ねぇ……<br>そんな簡単な話じゃ<br>済まないみたいだけど……
+Japanese,"scene_cp11_q2_s10,1121",detail,이오,ね、ねぇ……<br>そんな簡単な話じゃ<br>済まないみたいだけど……
 Japanese,"scene_cp11_q2_s10,1121",detail,비이,くっ……<br>近づいてくる一団があるなぁ。<br>ありゃ、帝国軍か？
 Japanese,"scene_cp11_q2_s10,1121",detail,카타리나,とりあえずは距離を取ろう。<br>戦意がないことがわかれば<br>向こうも深追いはしないはずだ。
 Japanese,"scene_cp11_q2_s10,1121",detail,루리아,あれ……？<br>この近づいてくる気配……<br>前にもどこかで……
@@ -44,7 +44,7 @@ Japanese,"scene_cp11_q2_s20,1122",detail,비이,おい、姐さん！<br>あい�
 Japanese,"scene_cp11_q2_s20,1122",detail,카타리나,どういうことなんだ……？<br>帝国では、戦闘意志のない者の<br>深追いは厳禁だったはず……
 Japanese,"scene_cp11_q2_s20,1122",detail,라캄,まずいな……<br>見ろよ、向こうからは<br>魔物が近づいて来てやがる。
 Japanese,"scene_cp11_q2_s20,1122",detail,카타리나,挟まれたか……！<br>[ジータ]、<br>どちらを先に片づける！？
-Japanese,"scene_cp11_q2_s20,1122",detail,イオ,どっちだっていいじゃない！<br>どうせ、どっちを選ぼうと<br>どっちとも戦うことになるんでしょ？
+Japanese,"scene_cp11_q2_s20,1122",detail,이오,どっちだっていいじゃない！<br>どうせ、どっちを選ぼうと<br>どっちとも戦うことになるんでしょ？
 Japanese,"scene_cp11_q2_s20,1122",detail,비이,って、もう選んでる余裕は<br>ないみたいだぜ！<br>[ジータ]！ まずは魔物からだ！
 Japanese,"scene_cp11_q3_s10,1131",synopsis,,執拗に<span>[ジータ]</span>一行を追う一団は、かつて<span class='scene-font-place'>ザンクティンゼル</span>でルリアとカタリナに逃げられたポンメルン大尉が率いるものだと発覚する。復讐に燃えるポンメルンは兵と共に<span>[ジータ]</span>一行に襲いかかる。
 Japanese,"scene_cp11_q3_s10,1131",detail,카타리나,あの一団、執拗に追ってくるな……<br>何か私達に恨みでもあるのか……？
@@ -61,7 +61,7 @@ Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,簡単な質問ですねェ�
 Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,<span class='scene-font-4'>復讐スルためですねェェッ！</span>
 Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,絶対に逃がしはしませんからねェ！<br>覚悟してくださいよォッ！
 Japanese,"scene_cp11_q3_s10,1131",detail,라캄,くっ……<br>なんか面倒な奴が出てきやがったな……
-Japanese,"scene_cp11_q3_s10,1131",detail,イオ,どんな因縁か知らないけど……<br>やられるわけにはいかないんだから！<br>突破させてもらうからねっ！
+Japanese,"scene_cp11_q3_s10,1131",detail,이오,どんな因縁か知らないけど……<br>やられるわけにはいかないんだから！<br>突破させてもらうからねっ！
 Japanese,"scene_cp11_q3_s20,1132",synopsis,,<span>[ジータ]</span>一行の前に黒騎士とフュリアスが再び姿を現す。そしてフュリアスは、帝国が海を腐らせながら開発していた兵器アドウェルサは、すでに完成させ自らの戦艦に搭載したことを告げる。
 Japanese,"scene_cp11_q3_s20,1132",detail,카타리나,帝国兵と魔物を<br>同時に相手にしていたのでは、<br>そういつまでももたないぞ……
 Japanese,"scene_cp11_q3_s20,1132",detail,黒騎士,ふん……あの負け犬の執念も、<br>なかなか大したものじゃないか。
@@ -95,8 +95,8 @@ Japanese,"scene_cp11_q4_s10,1141",detail,폼메른,あっ！ 将軍閣下！？
 Japanese,"scene_cp11_q4_s10,1141",detail,라캄,……状況はよくわからんが、<br>これはチャンスだぜ！
 Japanese,"scene_cp11_q4_s10,1141",detail,카타리나,ああ……<br>[ジータ]！ 混乱に乗じて、<br>この場を脱出するぞ！
 Japanese,"scene_cp11_q4_s20,1142",synopsis,,黒騎士の問いにルリアは、リヴァイアサンが海と同化していたその身を癒すため、帝国の戦艦を飲みこんだのだと告げる。戦慄する一同だが、そこへ執念に囚われた狂乱のポンメルンが襲いかかってくる。
-Japanese,"scene_cp11_q4_s20,1142",detail,イオ,はぁ……はぁ……
-Japanese,"scene_cp11_q4_s20,1142",detail,イオ,だ、だけど、<br>帝国の艇が飲まれたって<br>いったい何があったの？
+Japanese,"scene_cp11_q4_s20,1142",detail,이오,はぁ……はぁ……
+Japanese,"scene_cp11_q4_s20,1142",detail,이오,だ、だけど、<br>帝国の艇が飲まれたって<br>いったい何があったの？
 Japanese,"scene_cp11_q4_s20,1142",detail,黒騎士,違うな、<br>むしろ、海に飲まれたというより<br>海に喰われた、と言ったほうが正しい。
 Japanese,"scene_cp11_q4_s20,1142",detail,비이,黒騎士！
 Japanese,"scene_cp11_q4_s20,1142",detail,？？？,…………
@@ -127,7 +127,7 @@ Japanese,"scene_cp11_q4_s30,1143",detail,,<span class='scene-font-katari'>負傷
 Japanese,"scene_cp11_q4_s30,1143",detail,라캄,ふぅ……これで帝国の連中は<br>軒並み<span class='scene-font-place'>アウギュステ</span>から<br>逃げてったみてぇだな。
 Japanese,"scene_cp11_q4_s30,1143",detail,オイゲン,そりゃ当然だろう……<br>やばいことになってるぜ、こいつァ。
 Japanese,"scene_cp11_q4_s30,1143",detail,オイゲン,さっき仲間から伝令があった。<br>無人島がいくつか<br>海に飲まれた……喰われたってよ。
-Japanese,"scene_cp11_q4_s30,1143",detail,イオ,ど、どれだけ大喰らいなの、<br>リヴァイアサンは……<br>太ってから後悔しても遅いのに……
+Japanese,"scene_cp11_q4_s30,1143",detail,이오,ど、どれだけ大喰らいなの、<br>リヴァイアサンは……<br>太ってから後悔しても遅いのに……
 Japanese,"scene_cp11_q4_s30,1143",detail,비이,リヴァイアサンほどの<br>大星晶獣だ……<br>そりゃもう、底なしだろうぜ。
 Japanese,"scene_cp11_q4_s30,1143",detail,카타리나,このままでは<br>人の住む島も危ないな……
 Japanese,"scene_cp11_q4_s30,1143",detail,루리아,……止めよう。<br>ううん、止めます……！<br>ですよね？ [ジータ]。
