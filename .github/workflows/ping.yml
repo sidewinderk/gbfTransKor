@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: PING - Dispatch initiating repository event
         run: |
-          curl -X POST https://api.github.com/repos/sidewinderk/sidewinderk.github.io/dispatches \
+          curl -X POST https://api.github.com/repos/gbfkor/gbfkor.github.io/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
-          -u ${{ secrets.ACCESS_TOKEN }} \
+          -u ${{ secrets.ACCESS_TOKEN2 }} \
           --data '{"event_type": "ping", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
