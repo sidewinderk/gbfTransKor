@@ -58,6 +58,9 @@ document.getElementById('doImageSwap').onclick = function(element) {
 document.getElementById('doBattleTranslation').onclick = function(element) {
     save_options();
 }
+document.getElementById('ignoreTranslatedText').onclick = function(element) {
+    save_options();
+}
 document.getElementById('nanumFont').onclick = function(element) {
     document.getElementById('fontaddr').value = "font-style: normal;src:url('//cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/NanumSquareB.woff') format('woff')";
     save_options();
