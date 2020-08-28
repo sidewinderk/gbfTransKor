@@ -1,21 +1,21 @@
 0,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[ジータ]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。
-Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>
-Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>
-Japanese,"scene_cp3_q1_s10,311",detail,스츠룸,将軍閣下……申し訳ありません。
-Japanese,"scene_cp3_q1_s10,311",detail,드랑크,ごめんねぇ～<br>あいつら、意外と強くってさぁ～
-Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,誰か！<br>こいつらの首、<br>すぐにはねちゃってくんない！？
-Japanese,"scene_cp3_q1_s10,311",detail,제국병,将軍閣下……<br>彼らは黒騎士様の勅令で<br>動いておりますゆえ……
-Japanese,"scene_cp3_q1_s10,311",detail,제국병,我々の手では、<br>閣下のご命令と言えど、<br>どうにも罰することは……
-Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,じゃあ、お前でいいや。<br>あとでスッパリやられといてね。
-Japanese,"scene_cp3_q1_s10,311",detail,제국병,そんな……
-Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,まぁ、時間を稼いでくれたおかげで、<br>計画は順調だからね……<br>ご覧よ、ふたりとも……この暴風を。
-Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,この島……いや、この群島すべては、<br>じきに嵐の中に沈み、落ちていくんだ。<br>……暗い暗い空の底へとね。
-Japanese,"scene_cp3_q1_s20,312",synopsis,,<span>[ジータ]</span>一行は街に帰り着くが、この嵐では帝国を迎え撃つより先に近くの島へ避難すべきだと判断する。脱出艇の操縦には相当の腕前が必要とされる中、凄腕の操舵士と謳われたラカムへと期待が集まる。
-Japanese,"scene_cp3_q1_s20,312",detail,,<span class='scene-font-katari'>[ジータ]達が、</span><br><span class='scene-font-katari'>ようやく戻った街は、</span><br><span class='scene-font-katari'>かつてない風雨に襲われていた。</span>
-Japanese,"scene_cp3_q1_s20,312",detail,라캄,なんなんだよこの雨……<br>いままでこんな嵐、<br>一度だってなかったぜ？
-Japanese,"scene_cp3_q1_s20,312",detail,셰로카르테,変ですよね～<br>さっきまでは晴れてたんですけどね～
-Japanese,"scene_cp3_q1_s20,312",detail,카타리나,この天候では、<br>帝国を迎え撃つなどという話を<br>している場合ではないな……
+Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[ジータ]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。,"드디어 마을 코 앞까지 도착한 <span>[지타]</span> 일행. 그 때, 에르스테 제국 전함에서는  장군 퓰리어스가 드랑크와 스츠룸에게 짜증을 내면서도, 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다."
+Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>,<span class='scene-font-place'>에르스테 제국</span><span class='scene-font-katari'>이 자랑하는 전함의 한 객실.</span><br><span class='scene-font-katari'>그 곳에선 한명의 장군이</span><br><span class='scene-font-katari'>비난의 목소리를 높이고 있었다.</span>
+Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>,<span class='scene-font-4'>어째서！？</span><br><span class='scene-font-4'>어?어?어?、어째서냐고！？</span>
+Japanese,"scene_cp3_q1_s10,311",detail,스츠룸,将軍閣下……申し訳ありません。,장군 각하……죄송합니다.
+Japanese,"scene_cp3_q1_s10,311",detail,드랑크,ごめんねぇ～<br>あいつら、意外と強くってさぁ～,미안해～<br>걔들、생각보다 세더라구～
+Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,誰か！<br>こいつらの首、<br>すぐにはねちゃってくんない！？,이봐！<br>이녀석들의 목、<br>빨리 날려버려주지 않을래！？
+Japanese,"scene_cp3_q1_s10,311",detail,제국병,将軍閣下……<br>彼らは黒騎士様の勅令で<br>動いておりますゆえ……,장군 각하……<br>그들은 흑기사 님의 칙령으로で<br>움직이고 있기 때문에……
+Japanese,"scene_cp3_q1_s10,311",detail,제국병,我々の手では、<br>閣下のご命令と言えど、<br>どうにも罰することは……,저희들로서는、<br>각하의 명령일지라도、<br>어떻게든 처벌을 하는 것은……
+Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,じゃあ、お前でいいや。<br>あとでスッパリやられといてね。,아 그럼、너로 상관없어.<br>나중에 깔끔하게 당해줘.
+Japanese,"scene_cp3_q1_s10,311",detail,제국병,そんな……,그런……
+Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,まぁ、時間を稼いでくれたおかげで、<br>計画は順調だからね……<br>ご覧よ、ふたりとも……この暴風を。,뭐어、시간을 벌어준 덕분에、<br>계획은 순조로우니까 말이지……<br>자 보라구、거기 둘도……이 풍경을.
+Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,この島……いや、この群島すべては、<br>じきに嵐の中に沈み、落ちていくんだ。<br>……暗い暗い空の底へとね。,"이 섬……아니、이 군도 모두、<br>곧 폭풍 속으로 가라앉아, 떨어지는거야.<br>……어둡고 어두운 하늘 저 바닥으로 말이지."
+Japanese,"scene_cp3_q1_s20,312",synopsis,,<span>[ジータ]</span>一行は街に帰り着くが、この嵐では帝国を迎え撃つより先に近くの島へ避難すべきだと判断する。脱出艇の操縦には相当の腕前が必要とされる中、凄腕の操舵士と謳われたラカムへと期待が集まる。,<span>[지타]</span> 일행은 마을에 도착했지만、이 폭풍에선 제국을 격퇴하는 것보다 먼저 가까운 섬에 피난 하는 것이 낫겠다고 판단한다. 탈출선의 조종에 상당한 실력이 요구되는 가운데 엄청난 실력의 조타수라고 불렸던 라캄에게 기대가 모여든다.
+Japanese,"scene_cp3_q1_s20,312",detail,,<span class='scene-font-katari'>[ジータ]達が、</span><br><span class='scene-font-katari'>ようやく戻った街は、</span><br><span class='scene-font-katari'>かつてない風雨に襲われていた。</span>,<span class='scene-font-katari'>[지타] 일행이、</span><br><span class='scene-font-katari'>겨우 돌아온 마을은、</span><br><span class='scene-font-katari'>전례없는 태풍비의 습격을 받고 있었다.</span>
+Japanese,"scene_cp3_q1_s20,312",detail,라캄,なんなんだよこの雨……<br>いままでこんな嵐、<br>一度だってなかったぜ？,대체 뭐냐고 이 비……<br>지금까지 이런 태풍、<br>한번도 없었다고？
+Japanese,"scene_cp3_q1_s20,312",detail,셰로카르테,変ですよね～<br>さっきまでは晴れてたんですけどね～,이상하네요～<br>좀 전까지는 맑았는데 말이죠～
+Japanese,"scene_cp3_q1_s20,312",detail,카타리나,この天候では、<br>帝国を迎え撃つなどという話を<br>している場合ではないな……,이 날씨에선、<br>제국을 격퇴하자는 이야기를<br>하고 있을 때가 아니군……
 Japanese,"scene_cp3_q1_s20,312",detail,비이,こんだけ酷い嵐なら、<br>帝国も動けねーだろ！<br>まずは避難することを考えねーと！
 Japanese,"scene_cp3_q1_s20,312",detail,셰로카르테,そうですね～<br>避難用の騎空艇はありますから、<br>それに乗って近くの島へ……
 Japanese,"scene_cp3_q1_s20,312",detail,마을사람1,……おい、それ、<br>誰が操縦するんだ？
