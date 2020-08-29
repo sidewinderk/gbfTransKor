@@ -484,17 +484,19 @@ function replaceUserName() {
         userName = node.attributes[3].value;
 
     sceneFullInfo.some(function (scene) {
-        if (scene.Origin != '') {
-            if (sex == 0) {
-                if (language == 'Japanese')
-                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameMale_jp);
-                else if (language == 'English')
-                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameMale_en);
-            } else if (sex == 1) {
-                if (language == 'Japanese')
-                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameFemale_jp);
-                else if (language == 'English')
-                    scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameFemale_en);
+        if(userName != ''){
+            if (scene.Origin != '') {
+                if (sex == 0) {
+                    if (language == 'Japanese')
+                        scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameMale_jp);
+                    else if (language == 'English')
+                        scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameMale_en);
+                } else if (sex == 1) {
+                    if (language == 'Japanese')
+                        scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameFemale_jp);
+                    else if (language == 'English')
+                        scene.Origin = scene.Origin.split(userName).join(generalConfig.defaultNameFemale_en);
+                }
             }
         }
     });
