@@ -1,17 +1,17 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp4_q1_s10,411",synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>[ジータ]</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。
-Japanese,"scene_cp4_q1_s10,411",detail,,<span class='scene-font-katari'>ルリアが感じるという、</span><br><span class='scene-font-katari'>星の力と星晶獣の息吹を頼りに、</span><br><span class='scene-font-katari'>[ジータ]は嵐の中を進む。</span>
-Japanese,"scene_cp4_q1_s10,411",detail,루리아,近いです……どんどん強くなってる。
-Japanese,"scene_cp4_q1_s10,411",detail,라캄,頼んだぜ、嬢ちゃん……<br>嬢ちゃんのことは、<br>俺が命をかけても守りぬくからよ！
-Japanese,"scene_cp4_q1_s10,411",detail,카타리나,ふふっ、それは私の役目だぞ？
-Japanese,"scene_cp4_q1_s10,411",detail,비이,おいおい！<br>[ジータ]を忘れちゃ困るぜ！<br>意外に頼りになるんだからな！
-Japanese,"scene_cp4_q1_s10,411",sel1_txt,,<span class='scene-font-katari'>意外は余計だ</span>
-Japanese,"scene_cp4_q1_s10,411",sel2_txt,,<span class='scene-font-katari'>が、頑張ります……</span>
-Japanese,"scene_cp4_q1_s10,411",detail,비이,にゃはははっ！ 悪ぃ悪ぃ！<br>いまじゃすっかり、<br>頼れる戦士の顔つきだよな！
-Japanese,"scene_cp4_q1_s10,411",detail,라캄,おいおい、そんなに縮こまるなよ。<br>[ジータ]は良い目をしてる……
-Japanese,"scene_cp4_q1_s10,411",detail,라캄,[ジータ]はリーダーの素質があるぜ。<br>騎空団でも旗揚げすりゃ、<br>きっと頼れる団長になるさ。
-Japanese,"scene_cp4_q1_s10,411",detail,마물,グオォォ！
-Japanese,"scene_cp4_q1_s10,411",detail,카타리나,おっと、魔物のお出ましだな。<br>皆、気を引き締めていくぞ！
+Japanese,"scene_cp4_q1_s10,411",synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>[ジータ]</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。,루리아의 힘에 의해 성정수 티아마트를 낫게하고、<span class='scene-font-place'>포트・브리즈</span>를 덮친 폭풍을 멈추는 것을 결의한 <span>[지타]</span> 일행. 루리아가 느낀다는 성정수의 숨결을 의지하여、티아마트의 곁으로 향한다.
+Japanese,"scene_cp4_q1_s10,411",detail,,<span class='scene-font-katari'>ルリアが感じるという、</span><br><span class='scene-font-katari'>星の力と星晶獣の息吹を頼りに、</span><br><span class='scene-font-katari'>[ジータ]は嵐の中を進む。</span>,<span class='scene-font-katari'>루리아가 느낀다는、</span><br><span class='scene-font-katari'>별의 힘과 성정수의 숨결에 의지하여、</span><br><span class='scene-font-katari'>[지타]는 폭풍 속으로 나아간다.</span>
+Japanese,"scene_cp4_q1_s10,411",detail,루리아,近いです……どんどん強くなってる。,가까워요……점점 강해지고있어요.
+Japanese,"scene_cp4_q1_s10,411",detail,라캄,頼んだぜ、嬢ちゃん……<br>嬢ちゃんのことは、<br>俺が命をかけても守りぬくからよ！,힘내라고、아가씨……<br>아가씨는、<br>내가 목숨걸고서라도 지켜줄테니까！
+Japanese,"scene_cp4_q1_s10,411",detail,카타리나,ふふっ、それは私の役目だぞ？,후훗、그건 내 역할이라고？
+Japanese,"scene_cp4_q1_s10,411",detail,비이,おいおい！<br>[ジータ]を忘れちゃ困るぜ！<br>意外に頼りになるんだからな！,어이어이！<br>[지타]를 잊어버리면 곤란하지！<br>의외로 의지가 되니까말야！
+Japanese,"scene_cp4_q1_s10,411",sel1_txt,,<span class='scene-font-katari'>意外は余計だ</span>,<span class='scene-font-katari'>의외는 빼자</span>
+Japanese,"scene_cp4_q1_s10,411",sel2_txt,,<span class='scene-font-katari'>が、頑張ります……</span>,<span class='scene-font-katari'>최、최선을 다하겠습니다……</span>
+Japanese,"scene_cp4_q1_s10,411",detail,비이,にゃはははっ！ 悪ぃ悪ぃ！<br>いまじゃすっかり、<br>頼れる戦士の顔つきだよな！,냐하하핫！ 미안미안！<br>이젠 완전히、<br>믿음직한 전사같이 됐지！
+Japanese,"scene_cp4_q1_s10,411",detail,라캄,おいおい、そんなに縮こまるなよ。<br>[ジータ]は良い目をしてる……,어이어이、그렇게 쫄지마라고.<br>[지타]는 좋은 눈빛을 하고 있어……
+Japanese,"scene_cp4_q1_s10,411",detail,라캄,[ジータ]はリーダーの素質があるぜ。<br>騎空団でも旗揚げすりゃ、<br>きっと頼れる団長になるさ。,[지타]는 리더의 소질이 있어.<br>기공단 같은걸 만들면、<br>분명 듬직한 단장이 될거야.
+Japanese,"scene_cp4_q1_s10,411",detail,마물,グオォォ！,그오오오！
+Japanese,"scene_cp4_q1_s10,411",detail,카타리나,おっと、魔物のお出ましだな。<br>皆、気を引き締めていくぞ！,어이쿠、마물이 나타났군.<br>모두、정신 차리고 가자고！
 Japanese,"scene_cp4_q1_s20,412",synopsis,,嵐の中を進む<span>[ジータ]</span>一行の前に、道を阻むように、再び帝国兵が立ちふさがる。
 Japanese,"scene_cp4_q1_s20,412",detail,라캄,ちっ……<br>帝国の連中も<br>まだ俺達を邪魔するつもりみてぇだな。
 Japanese,"scene_cp4_q1_s20,412",detail,비이,魔物を倒したと思ったら、<br>今度は帝国の兵士か……！
