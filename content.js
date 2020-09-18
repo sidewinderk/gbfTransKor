@@ -493,7 +493,6 @@ function replaceUserName() {
 
     if (userName == '') {
         userName = node.attributes[3].value;
-        console.log(userName);
         if (userName == '' && SceneCodeFromURL().includes('tutorial')) {
             if (sex == 0) {
                 if (language == 'Japanese')
@@ -507,8 +506,6 @@ function replaceUserName() {
                     userName = generalConfig.defaultNameFemale_en.substring(1, generalConfig.defaultNameFemale_en.length - 1);
             }
         }
-
-        console.log(userName);
     }
 
     sceneFullInfo.some(function (scene) {
@@ -1846,27 +1843,20 @@ function translate_StoryText(stext, jsonFile) {
         되있는 경우도 있어서 일치하지않음. 이런 문제 해결하기 위해 DB 원문의 [ジータ]을 userName 후처리 
         결과물과 동일하게 되게끔 [グラン]으로 변경하는 후처리 작업을 수행.
     */
-    console.log('username:',userName);
-    console.log('targetdefaultname:',targetDefaultName);
+   
     if (targetDefaultName.length > 0) {
         for (var i = 0; i < sceneData.length; i++) {
             if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_jp)) {
                 sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
-                console.log(sceneData[i].Origin);
             } else if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_en)) {
                 sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
-                console.log(sceneData[i].Origin);
             } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_jp)) {
                 sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
-                console.log(sceneData[i].Origin);
             } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_en)) {
                 sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
-                console.log(sceneData[i].Origin);
             }
-            
         }
     }
-    console.log('origin:',stext);
     
     for (var i = 0; i < sceneData.length; i++) {
         if (!sceneData[i].Origin)
@@ -2064,7 +2054,6 @@ function GetTranslatedText(node, csv) {
                 userName = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
 
                 if (userName == '' && SceneCodeFromURL().includes('tutorial')) {
-                    console.log('bb');
                     if (sex == 0) {
                         if (language == 'Japanese')
                             userName = generalConfig.defaultNameMale_jp.substring(1, generalConfig.defaultNameMale_jp.length - 1);
@@ -2077,7 +2066,6 @@ function GetTranslatedText(node, csv) {
                             userName = generalConfig.defaultNameFemale_en.substring(1, generalConfig.defaultNameFemale_en.length - 1);
                     }
                 }
-                console.log(userName);
             }
             if (userName != "") {
                 if (textInput.includes(userName)) {
