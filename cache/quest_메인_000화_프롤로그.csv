@@ -1,5 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_tutorial00,011",synopsis,,父親の残した手紙に導かれ、空の果てへと旅立とうとする少女。しかし、時を同じくして村には戦艦が現れ、謎の少女が助けを求めてくる。,"아버지가 남긴 편지에 이끌려, 하늘의 끝으로 여행을 떠나려던 소녀. 하지만, 동시에 마을에는 전함이 나타나고, 수수께끼의 소녀가 도움을 청해온다."
+Japanese,"scene_tutorial00,011",synopsis,,父親の残した手紙に導かれ、空の果てへと旅立とうとする少年。しかし、時を同じくして村には戦艦が現れ、謎の少女が助けを求めてくる。,"아버지가 남긴 편지에 이끌려, 하늘의 끝으로 여행을 떠나려던 소년. 하지만, 동시에 마을에는 전함이 나타나고, 수수께끼의 소녀가 도움을 청해온다."
 Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>――神に見捨てられたその世界には、</span><br><span class='scene-font-katari'>一つの竜の姿があった。</span>,"<span class='scene-font-katari'>--신에게 버림받은 그 세계에는,</span><br><span class='scene-font-katari'>한 용의 모습이 있었다.</span>"
 Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>破壊による創造を司る竜、バハムートは</span><br><span class='scene-font-katari'>己が使命に従い、残された世界を</span><br><span class='scene-font-katari'>より芳醇なものへと進化させた。</span>,"<span class='scene-font-katari'>파괴에 의한 창조를 관장하는 용, 바하무트는</span><br><span class='scene-font-katari'>자신의 사명에 따라, 남겨진 세계를</span><br><span class='scene-font-katari'>더욱 다채로운 세계로 진화시켰다.</span>"
 Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>しかしそこへ、侵略者が現れる。</span><br><span class='scene-font-katari'>空の果て、彼方の世界より現れた彼らは、</span><br><span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>と呼ばれた。</span>,"<span class='scene-font-katari'>하지만 그곳에, 침략자가 나타난다.</span><br><span class='scene-font-katari'>하늘의 끝, 저편의 세계에서 나타난 그들은,</span><br><span class='scene-font-spword'>별의 민족</span><span class='scene-font-katari'>라고 불렸다.</span>"
@@ -43,6 +44,7 @@ Japanese,"scene_tutorial00,011",sel2_txt,,<span class='scene-font-katari'>信用
 Japanese,"scene_tutorial00,011",detail,비이,そうだそうだ！<br>勝手なことばっか言いやがって！<br>この娘、すげー怯えてるぞ！,"그래 그래!<br>제멋대로 말하고 말이야!<br>이 아가씨, 엄청 겁먹고 있다고!"
 Japanese,"scene_tutorial00,011",detail,제국병,チッ……面倒だ、力づくでいくぞ。<br>ガキが後で後悔するなよ！,"칫...... 귀찮군, 완력행사로 간다.<br>애송아, 나중에 후회하지 말라고!"
 Japanese,"scene_tutorial00,011",detail,,――――！,----!
+Japanese,"scene_tutorial01,021",synopsis,,謎の少女、ルリアを追って、ふたりの軍人が姿を現す。女騎士であるカタリナはルリアを守ろうとするが、ポンメルン大尉は少年もろともルリアに危害を加えようとする。,"수수께끼의 소녀, 루리아를 쫓아서, 두 명의 군인이 모습을 드러낸다. 여기사인 카타리나는 루리아를 지키려고 하지만, 폼메른 대위는 소년을 포함해서 루리아에게 위해를 가하려고 한다."
 Japanese,"scene_tutorial01,021",synopsis,,謎の少女、ルリアを追って、ふたりの軍人が姿を現す。女騎士であるカタリナはルリアを守ろうとするが、ポンメルン大尉は少女もろともルリアに危害を加えようとする。,"수수께끼의 소녀, 루리아를 쫓아서, 두 명의 군인이 모습을 드러낸다. 여기사인 카타리나는 루리아를 지키려고 하지만, 폼메른 대위는 소녀를 포함해서 루리아에게 위해를 가하려고 한다."
 Japanese,"scene_tutorial01,021",detail,제국병,ぐは……ッ！<br>ガキのくせに、コイツ……！,"크학......!<br>애송이 주제에, 이 녀석......!"
 Japanese,"scene_tutorial01,021",detail,,…………,............
