@@ -49,9 +49,9 @@ var requestListener = async function (req) {
 				});
 			} else if (req.request.url.includes('start.json') ||
 				req.request.url.includes('normal_attack_result.json') ||
-				req.request.url.includes('ability_result.json')) {
-					
-				req.response.headers.some(function (item) {
+				req.request.url.includes('ability_result.json') ||
+				req.request.url.includes('tutorial')) {
+					req.response.headers.some(function (item) {
 					if (item.value == 'application/json') {
 						req.getContent(function (item) {
 							var obj = JSON.parse(item);

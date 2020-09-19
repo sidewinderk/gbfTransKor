@@ -282,12 +282,20 @@ function PushCSV_BattleText(request) {
     var skip = false;
     var battleText = request.battleText;
 
+    /*
+        튜토리얼 페이지에서만 message 라는 이름으로 바꿔서 사용함.
+        혹시라도 튜토리얼 이외의 페이지에서 message 이름으로 사용할 경우 모두 적용 되도록 navi_information에 대입함.
+    */
+    if (battleText.message)
+        battleText.navi_information = battleText.message;
+
+
     battleFullInfo.some(function (item) {
         var copyText = item.Origin.split('"').join('');
 
         if (battleText.battle_condition) {
             if (battleText.battle_condition.body) {
-                
+
                 if ((battleText.battle_condition.body == copyText)) {
                     skip = true;
                 }
@@ -348,17 +356,19 @@ function PushCSV_BattleText(request) {
     if (battleText.navi_information && Array.isArray(battleText.navi_information)) {
         for (var i = 0; i < battleText.navi_information.length; i++) {
             let obj = battleText.navi_information[i];
-            if (obj.text != undefined) {
+            if (obj.text != undefined && obj.text.length > 0) {
                 battleFullInfo.push({
                     Type: 'text_jp',
                     Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets/img/sp/raid/navi_face/' + obj.navi + '.png")',
                     Origin: '"' + obj.text + '"'
                 });
-                battleFullInfo.push({
-                    Type: 'text_en',
-                    Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/' + obj.navi + '.png")',
-                    Origin: '"' + obj.text_en + '"'
-                });
+                if (obj.text_en) {
+                    battleFullInfo.push({
+                        Type: 'text_en',
+                        Name: '=IMAGE("http://game-a1.granbluefantasy.jp/assets_en/img/sp/raid/navi_face/' + obj.navi + '.png")',
+                        Origin: '"' + obj.text_en + '"'
+                    });
+                }
             }
         }
     }
@@ -480,11 +490,26 @@ function replaceUserName() {
     var sex = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
     var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
 
-    if (userName == '')
+
+    if (userName == '') {
         userName = node.attributes[3].value;
+        if (userName == '' && SceneCodeFromURL().includes('tutorial')) {
+            if (sex == 0) {
+                if (language == 'Japanese')
+                    userName = generalConfig.defaultNameMale_jp.substring(1, generalConfig.defaultNameMale_jp.length - 1);
+                else if (language == 'English')
+                    userName = generalConfig.defaultNameMale_en.substring(1, generalConfig.defaultNameMale_en.length - 1);
+            } else if (sex == 1) {
+                if (language == 'Japanese')
+                    userName = generalConfig.defaultNameFemale_jp.substring(1, generalConfig.defaultNameFemale_jp.length - 1);
+                else if (language == 'English')
+                    userName = generalConfig.defaultNameFemale_en.substring(1, generalConfig.defaultNameFemale_en.length - 1);
+            }
+        }
+    }
 
     sceneFullInfo.some(function (scene) {
-        if(userName != ''){
+        if (userName != '') {
             if (scene.Origin != '') {
                 if (sex == 0) {
                     if (language == 'Japanese')
@@ -1780,36 +1805,81 @@ function translate_StoryText(stext, jsonFile) {
         }
         tmpIndex++;
     });
-	
+
     var curLanugage = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
     stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
     stext = stext.split('"').join("'");
     stext = stext.replace(/&nbsp;/g, ' ');
     stext = stext.replace(/\s+/g, " ");
+
+    var targetDefaultName = '';
+    //if (userName.length > 0) {
+        if (sex == 0) {
+            if (stext.includes(userName)) {
+                if (curLanugage == 'Japanese') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+                    targetDefaultName = generalConfig.defaultNameMale_jp;
+                } else if (curLanugage == 'English') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                    targetDefaultName = generalConfig.defaultNameMale_en;
+                }
+            }
+        } else if (sex == 1) {
+            if (stext.includes(userName)) {
+                if (curLanugage == 'Japanese') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+                    targetDefaultName = generalConfig.defaultNameFemale_jp;
+                } else if (curLanugage == 'English') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                    targetDefaultName = generalConfig.defaultNameFemale_en;
+                }
+            }
+        }
+    //}
+
+    /*
+        userName 후처리 작업이 끝난 stext 와 DB에 있는 원문을 비교할때 문제 발생.
+        DB 원문에는 [ジータ]으로 변환된 이름을 쓰는데 userName 후처리 작업이 끝난 내용을 보면 [グラン] 으로 
+        되있는 경우도 있어서 일치하지않음. 이런 문제 해결하기 위해 DB 원문의 [ジータ]을 userName 후처리 
+        결과물과 동일하게 되게끔 [グラン]으로 변경하는 후처리 작업을 수행.
+    */
+   
+    if (targetDefaultName.length > 0) {
+        for (var i = 0; i < sceneData.length; i++) {
+            if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_jp)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_en)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_jp)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_en)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
+            }
+        }
+    }
     
-	if( userName.length > 0){
-		if (sex == 0) {
-			if (stext.includes(userName))
-				if (curLanugage == 'Japanese')
-					stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-				else if (curLanugage == 'English')
-				stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
-		} else if (sex == 1) {
-			if (stext.includes(userName))
-				if (curLanugage == 'Japanese')
-					stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);		
-				else if (curLanugage == 'English')
-					stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
-		}
-	}
-	
-	for (var i = 0; i < sceneData.length; i++) {
+    for (var i = 0; i < sceneData.length; i++) {
         if (!sceneData[i].Origin)
             continue;
         if (stext.length == sceneData[i].Origin.length) {
             if (stext == sceneData[i].Origin) {
                 if (sceneData[i].Korean) {
                     transText = sceneData[i].Korean;
+
+                    //튜토리얼 페이지 플레이중에는 유저 네임이 디폴트 네임으로 되있으므로 그랑 or 지타로 설정하게함.
+                    if(SceneCodeFromURL().includes('tutorial')){
+                        if ((userName == 'グラン' || userName == 'Gran')) {
+                            transText = transText.split(generalConfig.defaultTransNameMale).join('그랑');
+                            transText = transText.split(generalConfig.defaultTransNameFemale).join('그랑');
+                        } else if ((userName == 'ジータ' || userName == 'Djeeta')) {
+                            transText = transText.split(generalConfig.defaultTransNameMale).join('지타');
+                            transText = transText.split(generalConfig.defaultTransNameFemale).join('지타');
+                        }
+                        break;
+                    }
+                    
+                    transText = transText.split(generalConfig.defaultTransNameMale).join(userName);
+                    transText = transText.split(generalConfig.defaultTransNameFemale).join(userName);
                     break;
                 } else {
                     var offset = 0;
@@ -1944,7 +2014,8 @@ function GetTranslatedText(node, csv) {
             textInput.includes('a class') ||
             isNaN(textInput) == false || // Only number
             isNaN(textInput.replace('/', '')) == false || // number / number
-            node.className.includes('txt-atk')
+            node.className.includes('txt-atk') ||
+            node.className.includes('scene-font-place')
         )
             passOrNot = false;
 
@@ -1981,6 +2052,20 @@ function GetTranslatedText(node, csv) {
             //  - Not working now (NEED TO FIX)
             if ((userName == "") && (doc.getElementsByClassName('cnt-quest-scene')[0])) {
                 userName = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
+
+                if (userName == '' && SceneCodeFromURL().includes('tutorial')) {
+                    if (sex == 0) {
+                        if (language == 'Japanese')
+                            userName = generalConfig.defaultNameMale_jp.substring(1, generalConfig.defaultNameMale_jp.length - 1);
+                        else if (language == 'English')
+                            userName = generalConfig.defaultNameMale_en.substring(1, generalConfig.defaultNameMale_en.length - 1);
+                    } else if (sex == 1) {
+                        if (language == 'Japanese')
+                            userName = generalConfig.defaultNameFemale_jp.substring(1, generalConfig.defaultNameFemale_jp.length - 1);
+                        else if (language == 'English')
+                            userName = generalConfig.defaultNameFemale_en.substring(1, generalConfig.defaultNameFemale_en.length - 1);
+                    }
+                }
             }
             if (userName != "") {
                 if (textInput.includes(userName)) {
@@ -2055,6 +2140,7 @@ function GetTranslatedStoryText(node, csv) {
         var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
 
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
+
         translatedText = translate_StoryText(textInput, csv);
         if (!translatedText) return;
 
@@ -2069,9 +2155,6 @@ function GetTranslatedStoryText(node, csv) {
         }
         PrintLog(`GetTranslatedStoryText - traslated text: ${translatedText}`);
         if (translatedText.length > 0) {
-            /* 한 글자씩 출력되는 연출을 사용할 경우 나중에 한 글자씩 텍스트창에 출력되는 부분을
-            화면에서 가려버리기 위한 코드*/
-            //translatedText +='<br><br><br><br><br>';
             node.innerHTML = translatedText;
             if (node.className.includes('prt-pop-synopsis')) return;
 
@@ -2082,6 +2165,8 @@ function GetTranslatedStoryText(node, csv) {
                 }
                 if (textContents.innerHTML == '') translatedText = '';
                 textContents.innerHTML = translatedText;
+                /* 사용자가 auto-text 기능 사용 중일 경우 텍스트창에 출력되는 더러운 효과들을
+            화면에서 가려버리기 위한 코드*/
                 textContents.innerHTML += '<br><br><br><br><br>';
             }
         }
@@ -2242,7 +2327,7 @@ function GetTranslatedImageDIV(node, csv) {
 
 function SceneCodeFromURL() {
     var scenecode = '';
-	
+
     if ((doc.URL.includes('play_view/') || doc.URL.includes('play_view_event/')) && !doc.URL.includes('scene_')) {
         if (doc.URL.includes('play_view/')) {
             scenecode = doc.URL.slice(doc.URL.indexOf('play_view/'));
@@ -2260,16 +2345,16 @@ function SceneCodeFromURL() {
         scenecode = doc.URL.slice(doc.URL.indexOf('scene_'));
         scenecode = scenecode.split('/')[0];
     }
-	if (doc.URL.includes('/#tutorial/')){
-        if(doc.URL.includes('/#tutorial/4'))
+    if (doc.URL.includes('/#tutorial/')) {
+        if (doc.URL.includes('/#tutorial/4'))
             scenecode = 'scene_tutorial00';
-        else if(doc.URL.includes('/#tutorial/6'))
+        else if (doc.URL.includes('/#tutorial/6'))
             scenecode = 'scene_tutorial01';
-        else if(doc.URL.includes('/#tutorial/8'))
+        else if (doc.URL.includes('/#tutorial/8'))
             scenecode = 'scene_tutorial02';
-        else if(doc.URL.includes('/#tutorial/12'))
+        else if (doc.URL.includes('/#tutorial/12'))
             scenecode = 'scene_tutorial03';
-	}
+    }
 
     return scenecode;
 }
@@ -2332,11 +2417,6 @@ var sceneObserver = new MutationObserver(function (mutations) {
                 }
             }
 
-            //misc 텍스트를 가져오는 경우 빼고 스토리 텍스트,스토리 이름은 F12를 누르고 새로고침하는 순간
-            //전부 추출되버리니 여기서의 exMode는 기능을 잃어버림.
-            //if (exMode) {
-            //    PushCSV(textName, cNames);
-            //}
             if (transMode) {
                 sceneObserver.disconnect();
                 if (nameNode) {
@@ -2352,9 +2432,9 @@ var sceneObserver = new MutationObserver(function (mutations) {
             ObserveSceneText();
             return true;
         }
-		if (mutation.target.className.includes('txt-message')) {
-                GetTranslatedStoryText(mutation.target, questJson);
-		}
+        if (mutation.target.className.includes('txt-message')) {
+            GetTranslatedStoryText(mutation.target, questJson);
+        }
     });
 });
 
@@ -2365,9 +2445,9 @@ var archiveObserver = new MutationObserver(function (mutations) {
             if (
                 !mutation.target.className.includes('txt-message') &&
                 !mutation.target.className.includes('txt-character-name')
-            )
+            ) {
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-
+            }
         }
     });
     ObserverArchive();
@@ -2391,14 +2471,11 @@ var ImageObserverDIV = new MutationObserver(function (mutations) {
 var PopObserver = new MutationObserver(function (mutations) {
     PopObserver.disconnect();
     mutations.forEach(mutation => {
-        if (mutation.target.className.includes('pop-synopsis pop-show')) {
-            GetTranslatedStoryText(
-                doc.getElementsByClassName('prt-pop-synopsis')[0],
-                questJson
-            );
+        if (mutation.target.className.includes('pop-synopsis')) {
+            GetTranslatedStoryText(doc.getElementsByClassName('prt-pop-synopsis')[0], questJson);
+        } else {
+            walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         }
-
-        walkDownTree(mutation.target, GetTranslatedText, archiveJson);
 
         if (doImageSwap) {
             walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
@@ -2436,7 +2513,7 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
 // Queue for each observers
 async function ObserveSceneText() {
     var oText = doc.getElementsByClassName('prt-log-display')[0];
-	var txtMessageNode = doc.getElementsByClassName('prt-message-area')[0];
+    var txtMessageNode = doc.getElementsByClassName('prt-message-area')[0];
     if (!oText || !txtMessageNode) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
@@ -2450,7 +2527,7 @@ async function ObserveSceneText() {
         doc.URL.includes('tutorial')
     ) {
         sceneObserver.observe(oText, config);
-		sceneObserver.observe(txtMessageNode, config);
+        sceneObserver.observe(txtMessageNode, config);
     }
 }
 
@@ -2548,7 +2625,7 @@ async function ObserverBattle() {
         window.setTimeout(ObserverBattle, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid') || doc.URL.includes('/#tutorial/')/* for tutorial page */) {
+    if (doc.URL.includes('#raid') || doc.URL.includes('/#tutorial/') /* for tutorial page */ ) {
         // In battle window, try to use 'white list' to get 
 
         var battleInfo1 = doc.querySelectorAll('[class^="prt-command-chara"]');
