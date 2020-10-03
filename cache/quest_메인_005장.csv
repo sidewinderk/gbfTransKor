@@ -1,23 +1,23 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp5_q1_s10,511",synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>[ジータ]</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>[ジータ]</span>達を待ち構えていた。
-Japanese,"scene_cp5_q1_s10,511",detail,,<span class='scene-font-katari'>謎の手紙と好奇心を道標に</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと辿り着いた一同を、</span><br><span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>
-Japanese,"scene_cp5_q1_s10,511",detail,라캄,ふ～ん、さすが群島界の工場、<br>活気があるねぇ。<br>ドラフ族の人が多いや。
-Japanese,"scene_cp5_q1_s10,511",detail,카타리나,鉄の職人と言えば、ドラフだからな。
-Japanese,"scene_cp5_q1_s10,511",detail,카타리나,……というか、なにか<br>空気がピリピリしてるな？
-Japanese,"scene_cp5_q1_s10,511",detail,루리아,そうですね、[ジータ]<br>ちょっと怖い感じです。
-Japanese,"scene_cp5_q1_s10,511",detail,비이,大公閣下が行方不明らしーな……<br>そういう話がちらほら聞こえてくるぜ。<br><span class='scene-font-place'>エルステ帝国</span>にさらわれたって噂も……
-Japanese,"scene_cp5_q1_s10,511",detail,카타리나,帝国……！？
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あれ、[ジータ]さんたち<br>ぼーっとしちゃって<br>どうかなさったんですか～？
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,ぼーっとして棒立ち……うぷぷぷぷ。
-Japanese,"scene_cp5_q1_s10,511",detail,비이,よろず屋の嬢ちゃん！<br>なんでここに居るんだよ？
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,私は、どこにでも居て<br>どこにも居ないのです。<br>うふふふ～
-Japanese,"scene_cp5_q1_s10,511",detail,루리아,シェロさんすごーい！<br>なんだか哲学的です！
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,まぁ、それは置いといて～<br>皆さんにお仕事があるんですよ～
-Japanese,"scene_cp5_q1_s10,511",detail,라캄,いつの間にかコイツ、ちゃっかり<br>マネージャーに収まりやがったな。
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,<span class='scene-font-1'>極秘任務なので、指定の場所で</span><br><span class='scene-font-1'>この島……</span><span class='scene-font-place scene-font-1'>バルツ公国</span><span class='scene-font-1'>の</span><br><span class='scene-font-1'>エージェントと接触して下さい～</span>
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あと、今は街中が物騒なので<br>お気を付け下さい～<br>私もマークされてるっぽいので～
-Japanese,"scene_cp5_q1_s10,511",detail,라캄,お前なぁ、いきなり<br>そんな危ない仕事を……
-Japanese,"scene_cp5_q1_s20,512",synopsis,,シェロから話を受けた<span>[ジータ]</span>一行は、指定された場所へと急ぐが、その背後を怪しげな影が付け狙っていた。
+Japanese,"scene_cp5_q1_s10,511",synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>[ジータ]</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>[ジータ]</span>達を待ち構えていた。,"드랑크, 스츠룸에게 받은 편지를 따라 <span class='scene-font-place'>발츠 공국</span>에 들린 <span>[지타]</span>일행. 철강업으로 번창한 드라프의 섬에서는, 어떤 사건이 <span>[지타]</span>일행을 기다리고 있었다."
+Japanese,"scene_cp5_q1_s10,511",detail,,<span class='scene-font-katari'>謎の手紙と好奇心を道標に</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと辿り着いた一同を、</span><br><span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>,<span class='scene-font-katari'>이상한 편지와 호기심을 이정표로 하여</span><br><span class='scene-font-place'>발츠 공국</span><span class='scene-font-katari'>에 도착한 일동을、</span><br><span class='scene-font-katari'>굴뚝이 늘어선 검붉은 대지가 맞이했다.</span>
+Japanese,"scene_cp5_q1_s10,511",detail,라캄,ふ～ん、さすが群島界の工場、<br>活気があるねぇ。<br>ドラフ族の人が多いや。,흐음~ 역시 군도계의 공장、<br>활기가 있구만.<br>드라프족 사람도 많고말야.
+Japanese,"scene_cp5_q1_s10,511",detail,카타리나,鉄の職人と言えば、ドラフだからな。,철을 다루는 장인이라고 하면、드라프니까 말이지.
+Japanese,"scene_cp5_q1_s10,511",detail,카타리나,……というか、なにか<br>空気がピリピリしてるな？,……이랄까、뭔가<br>분위기가 싸한것 같은데？
+Japanese,"scene_cp5_q1_s10,511",detail,루리아,そうですね、[ジータ]<br>ちょっと怖い感じです。,그렇네요、[지타]<br>조금 무서운 느낌이에요.
+Japanese,"scene_cp5_q1_s10,511",detail,비이,大公閣下が行方不明らしーな……<br>そういう話がちらほら聞こえてくるぜ。<br><span class='scene-font-place'>エルステ帝国</span>にさらわれたって噂も……,대공 각하가 행방불명이니까 말야……<br>그런 이야기가 여기저기서 들려오네.<br><span class='scene-font-place'>에르스테 제국</span>에게 잡혔다는 소문도……
+Japanese,"scene_cp5_q1_s10,511",detail,카타리나,帝国……！？,제국이……！？
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あれ、[ジータ]さんたち<br>ぼーっとしちゃって<br>どうかなさったんですか～？,어라、[지타]씨 일행분들<br>멍-하고 계신데<br>무슨 일 있었나요～？
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,ぼーっとして棒立ち……うぷぷぷぷ。,멍-하니 멈-춰계신……우푸푸푸。
+Japanese,"scene_cp5_q1_s10,511",detail,비이,よろず屋の嬢ちゃん！<br>なんでここに居るんだよ？,만물상 아가씨！<br>왜 여기에 있는거야？
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,私は、どこにでも居て<br>どこにも居ないのです。<br>うふふふ～,저는、어디에도 있고<br>어디에도 없답니다.<br>우후후후～
+Japanese,"scene_cp5_q1_s10,511",detail,루리아,シェロさんすごーい！<br>なんだか哲学的です！,셰로씨 대단해요！<br>뭔가 철학적이에요!
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,まぁ、それは置いといて～<br>皆さんにお仕事があるんですよ～,뭐어、그건 그렇고～<br>모두들에게 의뢰하고싶은 일이있어요～
+Japanese,"scene_cp5_q1_s10,511",detail,라캄,いつの間にかコイツ、ちゃっかり<br>マネージャーに収まりやがったな。,이녀석 어느새、은근슬쩍<br>매니저가 된 거 같네.
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,<span class='scene-font-1'>極秘任務なので、指定の場所で</span><br><span class='scene-font-1'>この島……</span><span class='scene-font-place scene-font-1'>バルツ公国</span><span class='scene-font-1'>の</span><br><span class='scene-font-1'>エージェントと接触して下さい～</span>,<span class='scene-font-1'>비밀임무이므로、지정한 장소에서</span><br><span class='scene-font-1'>이 섬……</span><span class='scene-font-place scene-font-1'>발츠 공국</span><span class='scene-font-1'>의</span><br><span class='scene-font-1'>에이전트와 접촉해주세요～</span>
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あと、今は街中が物騒なので<br>お気を付け下さい～<br>私もマークされてるっぽいので～,그리고、지금은 마을이 뒤숭숭하니까<br>조심해주세요～<br>저도 마크된 것 같아서～
+Japanese,"scene_cp5_q1_s10,511",detail,라캄,お前なぁ、いきなり<br>そんな危ない仕事を……,너 말야、갑자기<br>그런 위험한 일을……
+Japanese,"scene_cp5_q1_s20,512",synopsis,,シェロから話を受けた<span>[ジータ]</span>一行は、指定された場所へと急ぐが、その背後を怪しげな影が付け狙っていた。,"셰로로부터 이야기를 들은 <span>[지타]</span>일행은、지정된 장소로 서두르지만、그 배후에는 수상한 그림자가 따라오고 있었다,"
 Japanese,"scene_cp5_q1_s20,512",detail,카타리나,<span class='scene-font-4'>ラカム！ [ジータ]！</span>
 Japanese,"scene_cp5_q1_s20,512",detail,라캄,ああ。<br>つけてきてる奴が居るな。
 Japanese,"scene_cp5_q1_s20,512",sel1_txt,,<span class='scene-font-katari'>帝国の手先か……</span>
