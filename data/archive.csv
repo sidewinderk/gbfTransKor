@@ -12166,8 +12166,8 @@ The Dragon Knights
 いつか、この街の外に<br>行ってみたいわね……
 世界で一番カワイイ黄金像,세계에서 제일 귀여운 황금동상
 ゴールドディスク,골드 디스크
-トレジャー(貢献度報酬未獲得分)
-ダマスカス骸晶(報酬未獲得分),다마스쿠스 해정(보수 미획득분)
+トレジャー(貢献度報酬未獲得分),트레저 (공헌도 보상 미획득분)
+ダマスカス骸晶(報酬未獲得分),다마스쿠스 해정 (보수 미획득분)
 残り ***個,나머지 ***개
 "過去に開催されたシナリオイベントの<br>貢献度報酬で未獲得の「ダマスカス骸晶」は<br>ボックス*～**まで*つずつ追加されます。,"
 ボックスをリセットすると中身が変化します。<br>,,,ボックス*までは世界で一番カワイイ黄金像を入手すると即時リセットが可能です。<br>,,,"ボックス*以降はボックスの中身を引ききるとリセットができます。<br>,"
@@ -12176,7 +12176,7 @@ The Dragon Knights
 "・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。,"
 "<canvas id=""cjs-npc_get"" width=""***"" height=""***""></canvas>,"
 アルケミスト・デザイア,알케미스트 디자이어
-"<span>*</span>,"
+<span>*</span>
 造られしモノたち,만들어진 자들
 ししょー目指して練習中！,스승을 목표로 연습중！
 第*話 リゼットとミレイユ,제*화 리제트와 밀레이유
@@ -12185,8 +12185,8 @@ The Dragon Knights
 第*話 ホムンクルス,제*화 호문쿨루스
 第*話 求めるもの,제*화 원하는 것
 第*話 人造のいのち,제*화 인공생명
-毎日の積み重ねは<br>とても大切なことよ。<br>一緒に頑張りましょう。,재료를 모아두는건 무척 중요한 일이야. 다같이 힘내요
-宝晶石 ✕ **<br>,보정석 ✕ **<br>,,,,,,,,,,土の戦貨 ✕ ***<br>,,,,,,,,,,,"識者の秘薬 ✕ *<br>,"
+毎日の積み重ねは<br>とても大切なことよ。<br>一緒に頑張りましょう。,재료를 모으는건<br>무척 중요한 일이야.<br>함께 힘내자.
+宝晶石 ✕ **<br>土の戦貨✕ ***<br>識者の秘薬✕ *,보정석 ✕ **<br>땅의 전화 ***<br>식자의 비약✕ *,,,,,,,,,,土の戦貨 ✕ ***<br>,,,,,,,,,,,"識者の秘薬 ✕ *<br>,"
 
 "過去に開催されたシナリオイベントの<br>貢献度報酬で未獲得の「ダマスカス骸晶」は<br>ボックス*～**まで*つずつ追加されます。,"
 ボックスをリセットすると中身が変化します。<br>,,,ボックス*までは世界で一番カワイイ黄金像を入手すると即時リセットが可能です。<br>,,,"ボックス*以降はボックスの中身を引ききるとリセットができます。<br>,"
@@ -12195,8 +12195,8 @@ The Dragon Knights
 "・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。,"
 
 
-宝晶石 ✕ **<br>,,,,,,,,,,,土の戦貨 ✕ ***<br>,,,,,,,,,,,"識者の秘薬 ✕ *<br>,"
-"<span class=""txt-gauge-value"">**</span><div>%</div>,"
+,,,,,,,,,,,土の戦貨 ✕ ***<br>,,,,,,,,,,,"識者の秘薬 ✕ *<br>,"
+
 シャークロン・アタック
 闇属性ダメージ(大)/自分の攻撃UP(累積)
 "<div class=""recast""></div>",,,,,"<div class=""duration""></div>,"
@@ -12208,17 +12208,17 @@ The Dragon Knights
 
 
 
-"x,"
-"<span class=""txt-get-lupi-title"">獲得ルピ</span>,"
+
+"<span class=""txt-get-lupi-title"">獲得ルピ</span>"
 
 
 
 
 討伐成功報酬で<br>土の戦貨を*枚獲得した!
-宝晶石を**個獲得！
+宝晶石を**個獲得！,보정석을 **개 획득！
 土の戦貨を***個獲得！
 "<span class=""txt-name"">手越祐也</span><br>",,,Rank***<br>,,,"バハムート,"
-"手越祐也,"
+手越祐也
 フレンド申請しますか？
 "<canvas id=""cjs-hell-skip-result"" width=""*""></canvas>,"
 おふたりと<br>一緒に旅をするの<br>ずっと楽しみにしてますね！
@@ -12229,39 +12229,39 @@ The Dragon Knights
 土の戦貨 ×**
 コロッサスのアニマ ×*
 識者の秘薬 ×*
-"リヴァイアサンのアニマ ×*,"
-"覇者の証 ×*,"
-"貢献度*,***以上で獲得,"
+リヴァイアサンのアニマ ×*
+覇者の証 ×*
+"貢献度*,***以上で獲得"
 ソウルシード ×*
 
-"貢献度**,***以上で獲得,"
+"貢献度**,***以上で獲得"
 栄光の証 ×*
-"エリクシールハーフ ×*,"
-"カジノメダル ×*****,"
-"レジェンドガチャチケット ×*,"
-"ティアマトのアニマ × *,"
-"土の戦貨 × **,"
-"ユグドラシルのアニマ ×*,"
-"ルピ × **,***,"
-"Lv** ヘクトアイズ,"
-"Lv** ニグレド,"
-"Lv** リゼット,"
-"暴走するホムンクルス,"
-"難度EXTREMEでは<br>トレジャーを消費してボスに挑戦します,"
-"識者の秘薬,"
-"所持数<span class=""txt-article-num"">**個</span>,"
-"必要数<span class=""txt-article-num"">*個</span>,"
+エリクシールハーフ ×*
+カジノメダル ×*****
+レジェンドガチャチケット ×*
+ティアマトのアニマ × *
+土の戦貨 × **
+ユグドラシルのアニマ ×*
+"ルピ × **,***"
+Lv** ヘクトアイズ,Lv** 헥토 아이즈
+Lv** ニグレド,Lv** 니그레도
+Lv** リゼット,Lv** 리제트
+暴走するホムンクルス,폭주하는 호문쿨루스
+難度EXTREMEでは<br>トレジャーを消費してボスに挑戦します,난이도 EXTREME에는<br>트레저를 소비하여 보스에 도전합니다
+識者の秘薬,식자의 비약
+"所持数<span class=""txt-article-num"">**個</span>"
+"必要数<span class=""txt-article-num"">*個</span>"
 "<div class=""txt-escort-comment"">前から気になってたししょーの服、<br>こっそり作って着てみたよ！<br>何だか錬金術の腕も上がった気がする……！<br>さっそく魔物相手に練習だっ☆</div>,"
 "前から気になってたししょーの服、<br>こっそり作って着てみたよ！<br>何だか錬金術の腕も上がった気がする……！<br>さっそく魔物相手に練習だっ☆,"
-"錬金術か……<br>勉強すればオイラも<br>使えるようになんのか……？,"
+錬金術か……<br>勉強すればオイラも<br>使えるようになんのか……？,연금술인가……<br>공부하면 이 몸도<br>사용할 수 있는거야……？
 
 これでやっと楽に……
 リゼット *,리제트*
 "<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"" selected="""">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,"</option>,"
-"ミレイユ 戦貨,"
-"ミレイユ 討伐章,"
-"ミレイユ 貢献度,"
-ミレイユ *
+ミレイユ 戦貨,밀레이유 전화
+ミレイユ 討伐章
+ミレイユ 貢献度
+ミレイユ *,밀레이유*
 リゼット 戦貨
 リゼット 討伐章
 リゼット 貢献度
@@ -12282,104 +12282,104 @@ The Dragon Knights
 "台詞集,"
 "ミレイユは自身の研究室で過去の夢から目を覚まし──,"
 "<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,"</option>,"
-どうして、<br>こんな身体なのかな……,,어째서、<br>이런 몸인걸까……
-人体錬成……<br>これさえできるように<br>なれば……,,인체연성……<br>이걸 할수있다면……
+どうして、<br>こんな身体なのかな……,어째서、<br>이런 몸인걸까……
+人体錬成……<br>これさえできるように<br>なれば……,인체연성……<br>이것만 성공할 수 있다면……
 私も皆みたいに<br>外で遊びたいな……
 ヘルメス錬金術学会が研究を行う街で行方不明者が多発しているという情報を耳にしたぴにゃ達は、情報にあった街を訪れ──
 "<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,"</option>,"
 ホムンクルス……<br>いうほど、便利なものじゃ<br>ないわね。
 やっと元気な身体を<br>造れたのに……<br>なのに、なんで……
 今のままじゃ知識が<br>足りない……<br>もっと勉強しないと……
-リゼット……<br>それが私の名前……
-ご主人様、<br>ご命令を……
+リゼット……<br>それが私の名前……,리제트……<br>내 이름……
+ご主人様、<br>ご命令を……,주인님、<br>명령을……
 ミレイユ様、体調は<br>どうですか？
 カリオストロによる錬金術の授業が始まる。カリオストロはまずミレイユに、ミレイユが求める「元気な身体」の定義を問い──
 "<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ,,,"</option>,"
-ビィ,비이
-宜しくお願いします、<br>カリオストロ先生。
+ビィ
+宜しくお願いします、<br>カリオストロ先生。,잘부탁드려요、<br>칼리오스트로 선생님。
 "カリオストロ先生の教えを<br>受ければ、きっと願いに<br>手が届くはず……,"
 "ミレイユ様、あまり無茶は<br>しないでください。,"
 "ぴにゃ様方、<br>ミレイユ様のこと、よろしく<br>お願いいたします。,"
 "カリオストロ様の授業……<br>私も一緒に参加しても<br>よろしいでしょうか？,"
 "ミレイユを見ていると<br>昔を思い出すな。,"
-"オレ様が教える以上、<br>中途半端は認めねぇ。,"
-"カリオストロも<br>意外と優しいとこあるよな！,"
-"ついにうちが先輩かぁ……<br>うん、しっかりしないとね☆,"
-"リゼットを何とか取り押さえたぴにゃ達。しかしリゼットはとある術式を展開し──,"
+オレ様が教える以上、<br>中途半端は認めねぇ。
+カリオストロも<br>意外と優しいとこあるよな！
+ついにうちが先輩かぁ……<br>うん、しっかりしないとね☆
+リゼットを何とか取り押さえたぴにゃ達。しかしリゼットはとある術式を展開し──
 "<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ *,,,"</option>,"
-"私は私だけの家族を<br>作りたいの。<br>もう、ひとりは嫌なの……,"
-"どうして、<br>リゼットばかりが……,"
-"親の傍にいたい……か……<br>私も昔は……,"
-"ミレイユ様の行いであれば<br>私は全て受け入れます。,"
-"昨夜、変な夢を<br>見たような……<br>いえ、気のせいですね……,"
-"モット……モット……,"
-"しくじったぜ……<br>オレ様がもっと早くに<br>気付いてりゃ……,"
-"家族を作る、か……<br>そういう未来は<br>考えたことも無かったな。,"
-"ミレイユちゃんはずっと<br>寂しかったんだと思う……<br>でも……,"
-"リゼットちゃん、<br>なんで、あんなことを……,"
-"何が起きてるの……？<br>ししょーは<br>わかってるんだよね……？,"
-"ミレイユさん、<br>どうして、あんな<br>酷いことを……,"
-"ミレイユさんと<br>リゼットさんは、<br>難しい関係なんですね……,"
-"ミレイユの気持ちも、<br>わからなくはねーけどよ……,"
-"リゼットもミレイユに<br>文句を言えばいいのにな。,"
-"ミレイユを探すリゼットは、路地裏で飢餓状態に陥ってしまう。そこにある人物が現れ──,"
+私は私だけの家族を<br>作りたいの。<br>もう、ひとりは嫌なの……
+どうして、<br>リゼットばかりが……
+親の傍にいたい……か……<br>私も昔は……
+ミレイユ様の行いであれば<br>私は全て受け入れます。
+昨夜、変な夢を<br>見たような……<br>いえ、気のせいですね……
+モット……モット……
+しくじったぜ……<br>オレ様がもっと早くに<br>気付いてりゃ……
+家族を作る、か……<br>そういう未来は<br>考えたことも無かったな。
+ミレイユちゃんはずっと<br>寂しかったんだと思う……<br>でも……
+リゼットちゃん、<br>なんで、あんなことを……
+何が起きてるの……？<br>ししょーは<br>わかってるんだよね……？
+ミレイユさん、<br>どうして、あんな<br>酷いことを……
+ミレイユさんと<br>リゼットさんは、<br>難しい関係なんですね……
+ミレイユの気持ちも、<br>わからなくはねーけどよ……
+リゼットもミレイユに<br>文句を言えばいいのにな。
+ミレイユを探すリゼットは、路地裏で飢餓状態に陥ってしまう。そこにある人物が現れ──
 "<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ,,,"</option>,"
-"リゼット,"
-"リゼットが人を……<br>全部、私の所為……なの？,"
-"リゼットを諦める。<br>今までの私なら……<br>でも、今は……,"
-"なんで……なんで、<br>こんなに胸が<br>苦しいのよ……,"
-"ミレイユ様、<br>一体、どこに……,"
-"酷かもしれねぇが……<br>決められるのは<br>ミレイユだけだ。,"
-"錬金術師ってのは、<br>自分が造ったモノから<br>逃げちゃいけねぇんだ。,"
-"ししょー！<br>ふたりとも助ける方法、<br>何かないの！？,"
-"そんな……<br>リゼットさんが、<br>街の人を食べてるなんて……,"
-"早く、リゼットさんと<br>ミレイユさんを<br>見つけましょう！,"
-"どっちかひとりしか<br>助からないなんて<br>そんなのってねーだろ！,"
-"リゼットは、ミレイユを傷つけたくないという理性とミレイユの血肉を求める衝動の間で苦しみ──,"
+リゼット
+リゼットが人を……<br>全部、私の所為……なの？
+リゼットを諦める。<br>今までの私なら……<br>でも、今は……
+なんで……なんで、<br>こんなに胸が<br>苦しいのよ……
+ミレイユ様、<br>一体、どこに……
+酷かもしれねぇが……<br>決められるのは<br>ミレイユだけだ。
+錬金術師ってのは、<br>自分が造ったモノから<br>逃げちゃいけねぇんだ。
+ししょー！<br>ふたりとも助ける方法、<br>何かないの！？
+そんな……<br>リゼットさんが、<br>街の人を食べてるなんて……
+早く、リゼットさんと<br>ミレイユさんを<br>見つけましょう！
+どっちかひとりしか<br>助からないなんて<br>そんなのってねーだろ！
+リゼットは、ミレイユを傷つけたくないという理性とミレイユの血肉を求める衝動の間で苦しみ──
 "<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ,,,"</option>,"
-"リゼット、貴方の本音を<br>教えて……,"
-"私の欲しいもの……<br>ここにあったんだ……,"
-"ごめんなさい。<br>ごめんなさい。<br>リゼット……,"
-"ミレイユサマガ<br>ホシイ……,"
-"私がミレイユ様を<br>傷つけ……た？<br>私はなぜそんなことを……,"
-"ミレイユサマ……<br>オイシイ……<br>モット……,"
-"くそっ……！<br>これ以上面倒事は……,"
+リゼット、貴方の本音を<br>教えて……
+私の欲しいもの……<br>ここにあったんだ……
+ごめんなさい。<br>ごめんなさい。<br>リゼット……
+ミレイユサマガ<br>ホシイ……
+私がミレイユ様を<br>傷つけ……た？<br>私はなぜそんなことを……
+ミレイユサマ……<br>オイシイ……<br>モット……
+くそっ……！<br>これ以上面倒事は……
 "<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,"</option>,"
-"戦貨が大分、<br>貯まってるわね。<br>交換しないの？,"
-"これは私とリゼットからの<br>感謝の気持ちよ。貴方達の<br>役に立つといいのだけど……,"
-"色々と力になってくれて<br>ありがとう。これは私からの<br>お礼よ。受け取って。,"
-"リゼット……,"
-"全部、全部、<br>私の所為……,"
-"責任も罪も全部、<br>私が背負うから……<br>だから、リゼットを……,"
-"リゼット、これからは<br>ずっと一緒よ。,"
-"許されるとは思ってない。<br>だから償いは続けていくわ。,"
-"戦貨が貯まっておりますよ。<br>交換はされないのですか？,"
-"皆様の頑張りに<br>報酬が出ておりますよ。<br>受け取りにまいりましょう。,"
-"これは私からの<br>お礼になります。<br>受け取ってくださいませ。,"
-"ありがとうございます。<br>これでミレイユ様を<br>傷つけなくて済みます……,"
-"すみません、<br>ミレイユ様……,"
-"ミレイユは何があろうと<br>私が支えます。<br>だって、家族ですから。,"
-"私が犯した罪は<br>私の生涯をもって<br>償わせていただきます。,"
-"ミレイユとふたりなら……<br>家族と一緒なら辛い道も<br>歩いて行けます。,"
-"戦貨が貯まってるな。<br>さっさと交換しとけよ。,"
-"報酬が出てるな……<br>講義の代金をもらう気は<br>無かったんだが……,"
-"ぴにゃさんっ☆<br>カリオストロと一緒に<br>ご褒美もらいに行こっ☆,"
-"結末は決まってたとしても<br>大事なのはミレイユが<br>それを受け入れたことだ。,"
-"パラケルススめ……<br>状況を<br>引っ掻き回しやがって……,"
-"起きちまったことは<br>戻らねぇ。<br>後はあのふたり次第だ。,"
-"つくづくオレ様も<br>お人好しだな……,"
-"ミレイユの存在は<br>クラリスにも<br>いい刺激になっただろうな。,"
-"戦貨がたまってるよ☆<br>ぴにゃ、<br>一緒に交換に行こ☆,"
-"報酬あるって！<br>ぴにゃは<br>何か欲しい物とかある？,"
-"ぴにゃ！<br>報酬受け取りに行くの？<br>うちも付いてこっか？,"
-"リゼットちゃん……,"
-"こんな終わり……<br>こうなるしか<br>なかったのかな……,"
-"ししょー！<br>そんなことできるなら、<br>最初に言ってよ！,"
-"これから先大変でも、<br>ふたりならきっと<br>大丈夫だよね。,"
-"あのふたり、<br>もうすっかり家族って<br>感じだよね☆,"
-"一番辛いのは、<br>ミレイユさんと<br>リゼットさんですよね……,"
-"きっと、まだ……<br>まだ、何か方法が<br>あるはずです！,"
-"オイラ、<br>こんなお別れなんて<br>嫌だぜ……,"
+戦貨が大分、<br>貯まってるわね。<br>交換しないの？
+これは私とリゼットからの<br>感謝の気持ちよ。貴方達の<br>役に立つといいのだけど……
+色々と力になってくれて<br>ありがとう。これは私からの<br>お礼よ。受け取って。
+リゼット……
+全部、全部、<br>私の所為……
+責任も罪も全部、<br>私が背負うから……<br>だから、リゼットを……
+リゼット、これからは<br>ずっと一緒よ。
+許されるとは思ってない。<br>だから償いは続けていくわ。
+戦貨が貯まっておりますよ。<br>交換はされないのですか？
+皆様の頑張りに<br>報酬が出ておりますよ。<br>受け取りにまいりましょう。
+これは私からの<br>お礼になります。<br>受け取ってくださいませ。
+ありがとうございます。<br>これでミレイユ様を<br>傷つけなくて済みます……
+すみません、<br>ミレイユ様……
+ミレイユは何があろうと<br>私が支えます。<br>だって、家族ですから。
+私が犯した罪は<br>私の生涯をもって<br>償わせていただきます。
+ミレイユとふたりなら……<br>家族と一緒なら辛い道も<br>歩いて行けます。
+戦貨が貯まってるな。<br>さっさと交換しとけよ。
+報酬が出てるな……<br>講義の代金をもらう気は<br>無かったんだが……
+ぴにゃさんっ☆<br>カリオストロと一緒に<br>ご褒美もらいに行こっ☆
+結末は決まってたとしても<br>大事なのはミレイユが<br>それを受け入れたことだ。
+パラケルススめ……<br>状況を<br>引っ掻き回しやがって……
+起きちまったことは<br>戻らねぇ。<br>後はあのふたり次第だ。
+つくづくオレ様も<br>お人好しだな……
+ミレイユの存在は<br>クラリスにも<br>いい刺激になっただろうな。
+戦貨がたまってるよ☆<br>ぴにゃ、<br>一緒に交換に行こ☆
+報酬あるって！<br>ぴにゃは<br>何か欲しい物とかある？
+ぴにゃ！<br>報酬受け取りに行くの？<br>うちも付いてこっか？
+リゼットちゃん……
+こんな終わり……<br>こうなるしか<br>なかったのかな……
+ししょー！<br>そんなことできるなら、<br>最初に言ってよ！
+これから先大変でも、<br>ふたりならきっと<br>大丈夫だよね。
+あのふたり、<br>もうすっかり家族って<br>感じだよね☆
+一番辛いのは、<br>ミレイユさんと<br>リゼットさんですよね……
+きっと、まだ……<br>まだ、何か方法が<br>あるはずです！
+オイラ、<br>こんなお別れなんて<br>嫌だぜ……,나、<br>이런 이별은<br>질색이라구……
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
