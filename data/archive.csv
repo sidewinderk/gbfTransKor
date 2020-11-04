@@ -12133,27 +12133,27 @@ The Dragon Knights
 防護被膜,보호피막
 雷電のエラディケート,뇌전의 일렉디케이트
 電磁スパーク,전자 스파크
-
-
-
-
-
-獲得アイテムはありません,획득 아이템이 없습니다
-
+"やっぱり、カリオストロは<br>とんでもねーな。,"
+"<div class=""txt-gacha-count"">",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,"</div>,"
+"<div class=""txt-gacha-count"">",,,,,,,,"<div class=""count-*""></div>",,,,,,,"</div>,"
+"過去に開催されたシナリオイベントの<br>貢献度報酬で未獲得の「ダマスカス骸晶」は<br>ボックス*～**まで*つずつ追加されます。,"
+ボックスをリセットすると中身が変化します。<br>,,,ボックス*までは世界で一番カワイイ黄金像を入手すると即時リセットが可能です。<br>,,,"ボックス*以降はボックスの中身を引ききるとリセットができます。<br>,"
+獲得アイテムはありません,획득 아이템이 없습니다,,,<li>・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。</li>,,,,<li>・今回はランキング及び、ランキング報酬はありません。</li>,,,,"<li>・報酬受け取り期間を過ぎてしまうと「累計貢献度報酬」と「討伐章報酬」を入手できなくなります。</li>,"
+"・**/* **:**以降に確認した未確認バトル、終了した「アルケミスト・デザイア」専用バトルからは「貢献度」を入手できなくなります。,"
 獲得したアイテムやルピの所持数が上限に達している場合、<br>自動で期限ありプレゼントに送られます。
-
+"<canvas id=""cjs-npc_get"" width=""***"" height=""***""></canvas>,"
 "+*** <span class=""txt-bonus"">(ボーナス +***)</span>"," +*** <span class=""txt-bonus"">(보너스 +***)</span>"
-
-
-
+"貢献度***,***以上で獲得,"
+"**JP,"
+"栄冠の指輪 ×*,"
 クエストコンプリート報酬,퀘스트 컴플리트 보상
 碧空の結晶を*個獲得！,벽공의 결정을 *개 획득!
 称号獲得,칭호획득
 称号を獲得しました。,칭호를 획득했습니다.
-
-
-何だかスゲェお宝のニオイがするぜ！<br>                        腕試しにチャレンジしてみようぜぇー！<br>
-
+"セレストのアニマ ×*,"
+"エンジェルアックス ×*,"
+"セフィラストーン ×*,"
+"スパイクシューター,"
 "!로미오와 줄리엣3(수천의 밤을 지나, 당신에게 전해진다면)"
 幾千の夜を越えて、あなたに届くのなら,"수천의 밤을 지나, 당신에게 전해진다면"
 第*話 今、この国に生きる人々,제*화 지금 이 나라에서 살아가는 사람들 
@@ -12162,7 +12162,7 @@ The Dragon Knights
 第*話 明かされたもの,제*화 밝혀진 진실
 第*話 惑い、重なる,제*화 망설임은 겹쳐지고
 第*話 触れ合う熱,제*화 맞닿은 체온
-
+"エリクシール ×*,"
 いつか、この街の外に<br>行ってみたいわね……
 世界で一番カワイイ黄金像,세계에서 제일 귀여운 황금동상
 ゴールドディスク,골드 디스크
@@ -12222,9 +12222,6 @@ The Dragon Knights
 
 
 おふたりと<br>一緒に旅をするの<br>ずっと楽しみにしてますね！
-"<div class=""txt-gacha-count"">",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,"</div>,"
-"<div class=""txt-gacha-count"">",,,,,,,,"<div class=""count-*""></div>",,,,,,,"</div>,"
-"<span>*,***</span>,"
 ティアマトのアニマ ×*,티아마트의 아니마 ×*
 土の戦貨 ×**,땅의 전화 ×**
 コロッサスのアニマ ×*,콜로서스의 아니마 ×*
@@ -12243,7 +12240,42 @@ The Dragon Knights
 土の戦貨 × **
 ユグドラシルのアニマ ×*,유그드라실의 아니마 ×*
 "ルピ × **,***"
-Lv** ヘクトアイズ,Lv** 헥토 아이즈
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lv** ヘクトアイズ,Lv** 헥토 아이즈,,,,,,,,,,,,,,,,"</ul>,"
 Lv** ニグレド,Lv** 니그레도
 Lv** リゼット,Lv** 리제트
 暴走するホムンクルス,폭주하는 호문쿨루스
@@ -12251,13 +12283,16 @@ Lv** リゼット,Lv** 리제트
 識者の秘薬,식자의 비약
 "所持数<span class=""txt-article-num"">**個</span>","소지수<span class=""txt-article-num"">**개</span>"
 "必要数<span class=""txt-article-num"">*個</span>","필요수<span class=""txt-article-num"">*개</span>"
+<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>
+<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>
+
 
 前から気になってたししょーの服、<br>こっそり作って着てみたよ！<br>何だか錬金術の腕も上がった気がする……！<br>さっそく魔物相手に練習だっ☆,이전부터 신경쓰였던 스승의 옷을<br>몰래 만들어봤어！<br>왠지 연금술 실력도 올라간 것 같은걸……！<br>그럼 당장 마물로 시험해보자☆
 錬金術か……<br>勉強すればオイラも<br>使えるようになんのか……？,연금술인가……<br>공부하면 이 몸도<br>사용할 수 있는거야……？
 
 これでやっと楽に……
 リゼット *,리제트*
-"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"" selected="""">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,"</option>,"
+
 ミレイユ 戦貨,밀레이유 전화
 ミレイユ 討伐章,밀레이유 토벌장
 ミレイユ 貢献度,밀레이유 공헌도
@@ -12277,16 +12312,14 @@ Lv** リゼット,Lv** 리제트
 ビィ *,비이 *
 リゼットを倒したぴにゃ達。ミレイユは倒れ込むリゼットに駆け寄り──,리제트를 쓰러트린 지타일행. 밀레이유는 쓰러진 리제트에게 달려가고──
 台詞集について,대사집에 대해서
-,,,,,,<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>,,,,,,<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,,,,,"</ul>,"
-<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>,,,,,,"<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,"
-台詞集
+
+<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>
+台詞集,대사집
 ミレイユは自身の研究室で過去の夢から目を覚まし──,밀레이유는 자신의 연구실에서 과거의 꿈에서 깨어났다──
-"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,"</option>,"
 どうして、<br>こんな身体なのかな……,"어째서,<br>이런 몸인걸까……"
 人体錬成……<br>これさえできるように<br>なれば……,인체연성……<br>이것만 성공할 수 있다면……
 私も皆みたいに<br>外で遊びたいな……,나도 다른 사람들처럼<br>밖에서 놀고싶어……
 ヘルメス錬金術学会が研究を行う街で行方不明者が多発しているという情報を耳にしたぴにゃ達は、情報にあった街を訪れ──,"헤르메스 연금술학회가 연구를 진행한 장소에서 행방불명자가 속출한다는 정보를 얻은 지타일행은, 정보에 기록된 장소에 향한다──"
-"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,"</option>,"
 ホムンクルス……<br>いうほど、便利なものじゃ<br>ないわね。
 やっと元気な身体を<br>造れたのに……<br>なのに、なんで……
 今のままじゃ知識が<br>足りない……<br>もっと勉強しないと……,이대로는 지식이 부족해……<br>더욱 더 공부해야되……
@@ -12294,7 +12327,6 @@ Lv** リゼット,Lv** 리제트
 ご主人様、<br>ご命令を……,"주인님, 명령을……"
 ミレイユ様、体調は<br>どうですか？,"밀레이유님, 몸 상태는<br>괜찮으십니까？"
 カリオストロによる錬金術の授業が始まる。カリオストロはまずミレイユに、ミレイユが求める「元気な身体」の定義を問い──,"칼리오스트로의 연금술 수업이 시작되었다. 칼리오스트로는 우선 밀레이유에게, 그녀가 원하는 「건강한 몸」의 정의를 묻는다──"
-"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ,,,"</option>,"
 ビィ,비이
 宜しくお願いします、<br>カリオストロ先生。,"잘부탁드려요,<br>칼리오스트로 선생님."
 カリオストロ先生の教えを<br>受ければ、きっと願いに<br>手が届くはず……,"칼리오스트로 선생님의 수업을<br>받는다면, 반드시 원하는걸<br>이룰 수 있을거야……"
@@ -12306,7 +12338,6 @@ Lv** リゼット,Lv** 리제트
 カリオストロも<br>意外と優しいとこあるよな！,칼리오스트로도<br>의외로 상냥한 면이 있구나！
 ついにうちが先輩かぁ……<br>うん、しっかりしないとね☆,"우리들도 드디어 선배가 된건가……<br>응, 확실히 하자구☆"
 リゼットを何とか取り押さえたぴにゃ達。しかしリゼットはとある術式を展開し──
-"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ *,,,"</option>,"
 私は私だけの家族を<br>作りたいの。<br>もう、ひとりは嫌なの……
 どうして、<br>リゼットばかりが……
 親の傍にいたい……か……<br>私も昔は……
@@ -12323,8 +12354,7 @@ Lv** リゼット,Lv** 리제트
 ミレイユの気持ちも、<br>わからなくはねーけどよ……
 リゼットもミレイユに<br>文句を言えばいいのにな。
 ミレイユを探すリゼットは、路地裏で飢餓状態に陥ってしまう。そこにある人物が現れ──
-"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,クラリス,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ビィ,,,"</option>,"
-リゼット
+リゼット,리제트
 リゼットが人を……<br>全部、私の所為……なの？,"리제트가 사람을……<br>모두, 내 탓……인거야？"
 リゼットを諦める。<br>今までの私なら……<br>でも、今は……
 なんで……なんで、<br>こんなに胸が<br>苦しいのよ……
@@ -12336,7 +12366,6 @@ Lv** リゼット,Lv** 리제트
 早く、リゼットさんと<br>ミレイユさんを<br>見つけましょう！
 どっちかひとりしか<br>助からないなんて<br>そんなのってねーだろ！
 リゼットは、ミレイユを傷つけたくないという理性とミレイユの血肉を求める衝動の間で苦しみ──
-"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,カリオストロ,,,"</option>,"
 リゼット、貴方の本音を<br>教えて……
 私の欲しいもの……<br>ここにあったんだ……
 ごめんなさい。<br>ごめんなさい。<br>リゼット……
@@ -12344,10 +12373,9 @@ Lv** リゼット,Lv** 리제트
 私がミレイユ様を<br>傷つけ……た？<br>私はなぜそんなことを……
 ミレイユサマ……<br>オイシイ……<br>モット……
 くそっ……！<br>これ以上面倒事は……
-"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,"</option>,"
 戦貨が大分、<br>貯まってるわね。<br>交換しないの？
-これは私とリゼットからの<br>感謝の気持ちよ。貴方達の<br>役に立つといいのだけど……
-色々と力になってくれて<br>ありがとう。これは私からの<br>お礼よ。受け取って。
+これは私とリゼットからの<br>感謝の気持ちよ。貴方達の<br>役に立つといいのだけど……,,,ボックス*までは世界で一番カワイイ黄金像を入手すると即時リセットが可能です。<br>,,,"ボックス*以降はボックスの中身を引ききるとリセットができます。<br>,"
+色々と力になってくれて<br>ありがとう。これは私からの<br>お礼よ。受け取って。,,,,<li>・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。</li>,,,,<li>・今回はランキング及び、ランキング報酬はありません。</li>,,,,"<li>・報酬受け取り期間を過ぎてしまうと「累計貢献度報酬」と「討伐章報酬」を入手できなくなります。</li>,"
 リゼット……,리제트……
 全部、全部、<br>私の所為……,"전부, 전부,<br>내 탓이야……"
 責任も罪も全部、<br>私が背負うから……<br>だから、リゼットを……,"책임도 죄도 모두.<br>내가 짊어질테니까……<br>그러니까, 리제트를……"
@@ -12379,7 +12407,46 @@ Lv** リゼット,Lv** 리제트
 あのふたり、<br>もうすっかり家族って<br>感じだよね☆
 一番辛いのは、<br>ミレイユさんと<br>リゼットさんですよね……
 きっと、まだ……<br>まだ、何か方法が<br>あるはずです！
-オイラ、<br>こんなお別れなんて<br>嫌だぜ……,나、<br>이런 이별은<br>질색이라구……
+オイラ、<br>こんなお別れなんて<br>嫌だぜ……,"나,<br>이런 이별은<br>질색이라구……"
+
+"やっぱり、カリオストロは<br>とんでもねーな。,"
+"過去に開催されたシナリオイベントの<br>貢献度報酬で未獲得の「ダマスカス骸晶」は<br>ボックス*～**まで*つずつ追加されます。,"
+ボックスをリセットすると中身が変化します。<br>
+<li>・**/* **:**以降に確認した未確認バトル、終了した「アルケミスト・デザイア」専用バトルからは「貢献度」を入手できなくなります。</li>
+"・**/* **:**以降に確認した未確認バトル、終了した「アルケミスト・デザイア」専用バトルからは「貢献度」を入手できなくなります。,"
+"・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。,"
+
+"貢献度***,***以上で獲得,"
+
+"栄冠の指輪 ×*,"
+"ダマスカス骸晶 ×*,"
+"エンジェルボウ ×*,"
+"****ルピ,"
+"シュヴァリエのアニマ ×*,"
+"セレストのアニマ ×*,"
+"エンジェルアックス ×*,"
+"セフィラストーン ×*,"
+"スパイクシューター,"
+"アークエンジェルアックス,"
+"玉鋼 ×*,"
+"ティアマトのマグナアニマ ×*,"
+"コロッサスのマグナアニマ ×*,"
+"リヴァイアサンのマグナアニマ ×*,"
+"ユグドラシルのマグナアニマ ×*,"
+"シュヴァリエのマグナアニマ ×*,"
+"セレストのマグナアニマ ×*,"
+"エリクシール ×*,"
+"アークエンジェルボウ,"
+"ソウルパウダー ×*,"
+"碧空の結晶 ×*,"
+"覇業の指輪 ×*,"
+"貢献度*,***,***以上で獲得,"
+"土のプシュケー ×*,"
+"ダマスカス磁性粒子 ×*,"
+"至極の指輪 ×*,"
+"貢献度*,***以上で獲得,"
+"貢献度**,***以上で獲得,"
+"コーデックス・アニムス ×*,"
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
