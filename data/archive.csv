@@ -12268,7 +12268,7 @@ The Dragon Knights
 
 
 
-
+Lv** リゼット・フィロソフィカス,Lv** 리제트・필로소피커스
 Lv** ヘクトアイズ,Lv** 헥토 아이즈,,,,,,,,,,,,,,,,"</ul>,"
 Lv** ニグレド,Lv** 니그레도
 Lv** リゼット,Lv** 리제트
@@ -12354,7 +12354,7 @@ Lv** リゼット,Lv** 리제트
 なんで……なんで、<br>こんなに胸が<br>苦しいのよ……,"어째서……어째서,<br>이렇게나 마음이<br>아픈거야……"
 ミレイユ様、<br>一体、どこに……,"밀레이유님,<br>대체, 어디에……"
 酷かもしれねぇが……<br>決められるのは<br>ミレイユだけだ。
-錬金術師ってのは、<br>自分が造ったモノから<br>逃げちゃいけねぇんだ。,"연금술사란,<br>자신이 창조한 것에서<br>눈을 돌리면 안돼는거다."
+錬金術師ってのは、<br>自分が造ったモノから<br>逃げちゃいけねぇんだ。,"연금술사는,<br>자신이 창조한 것에서<br>도망쳐선 안돼는거다."
 ししょー！<br>ふたりとも助ける方法、<br>何かないの！？,스승！<br>둘다 구할 수 있는 방법은<br>없는거야！？
 そんな……<br>リゼットさんが、<br>街の人を食べてるなんて……,"그럴수가……<br>리제트씨가,<br>사람을 잡아먹다니……"
 早く、リゼットさんと<br>ミレイユさんを<br>見つけましょう！,"빨리, 리제트씨와<br>밀레이유씰<br>찾으러가요！"
@@ -12415,6 +12415,114 @@ Lv** リゼット,Lv** 리제트
 <li>・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。</li>
 ボックス*までは世界で一番カワイイ黄金像を入手すると即時リセットが可能です。<br>
 ボックス*以降はボックスの中身を引ききるとリセットができます。<br>
+
+,,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,,,"<div class=""count-*""></div>",,,,,,,,,,,,,,,"</div>,"
+ボックスをリセットすると中身が変化します。<br>,,,ボックス*までは世界で一番カワイイ黄金像を入手すると即時リセットが可能です。<br>,,,"ボックス*以降はボックスの中身を引ききるとリセットができます。<br>,"
+<li>・**/* **:**以降に確認した未確認バトル、終了した「アルケミスト・デザイア」専用バトルからは「貢献度」を入手できなくなります。</li>,,,,<li>・**/** **:**以降に確認した未確認バトルからは「識者の秘薬」「戦貨」を入手できなくなります。</li>,,,,<li>・今回はランキング及び、ランキング報酬はありません。</li>,,,,"<li>・報酬受け取り期間を過ぎてしまうと「累計貢献度報酬」と「討伐章報酬」を入手できなくなります。</li>,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"トレジャーショップにてダマスカス磁性粒子を交換することで手に入ります,"
+スパイクシューター
+
+
+奥義：アルケミック・バースト,오의：알케믹 버스트
+スキル：錬成の攻刃
+スキル：土杭斉射
+敵の数が*体の時、連続攻撃確率UP<br>◆メイン装備時/主人公のみ
+スパイクシューター
+キャラクターのEXリミットボーナスを<br>*つ解放することができます。
+特定のイベント報酬等で手に入ります。
+
+"<canvas id=""cjs-npc_get"" width=""*"" height=""***""></canvas>"
+"<div class=""txt-title-name "">言い訳は聞かないぞ☆</div>"
+言い訳は聞かないぞ☆
+獲得条件：「アルケミスト・デザイア」貢献度******達成
+"<div class=""txt-title-name "">더……더……</div>"
+獲得条件：自分が発生させたマルチバトルでリゼット(VERY HARD)を討伐
+"<div class=""txt-title-name "">ずっと夢……だった</div>,"
+ずっと夢……だった,줄곧 꿈……이었어
+獲得条件：自分が発生させたマルチバトルでリゼット・フィロソフィカス(EXTREME)を討伐,획득조건：자신이 발생시킨 멀티배틀 리제트・필로소피커스(EXTREME)를 토벌
+"<div class=""txt-title-name "">私のためだけに働きなさい</div>","<div class=""txt-title-name "">나를 위해서만 움직여</div>"
+私のためだけに働きなさい,나를 위해서만 움직여
+獲得条件：「アルケミスト・デザイア」のマルチバトルを合計*回クリア,획득조건：「알케미스트 디자이어」의 멀티배틀을 합계 *회 클리어
+"<div class=""txt-title-name "">血まみれのお人形さん</div>","<div class=""txt-title-name "">피로 물든 인형</div>"
+血まみれのお人形さん,피로 물든 인형
+獲得条件：リゼット(HELL)を討伐,획득조건：리제트(HELL)을 토벌
+"<div class=""txt-title-name "">蒼空の錬金術師</div>","<div class=""txt-title-name "">창공의 연금술사</div>"
+蒼空の錬金術師,창공의 연금술사
+獲得条件：チャレンジクエスト「ししょー目指して練習中！」をクリア
+"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"" selected="""">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,"</option>,"
+<ul>,,,,,,<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>,,,,,,<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,,,,,"</ul>,"
+<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>,,,,,,"<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,"
+"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,"</option>,"
+ヘルメス錬金術学会が研究を行う街で行方不明者が多発しているという情報を耳にしたぴにゃ達は、情報にあった街を訪れ──
+本当に撤退しますか？
+このクエストで獲得したアイテム、<br>経験値は入手できません。
+クエスト撤退
+撤退した場合、このクエストで獲得した<br>アイテム・経験値・ルピは入手できません
+未クリアクエストのため<br>消費したAPが返却されます
+カリオストロとお揃いの衣装を着て、<br>錬金術の練習をしよう！
+"<span class=""txt-gauge-value"">*</span><div>%</div>,"
+アルス・マグナ？,알스・마그나？
+いぇいっ☆　完っ成☆<br>これでししょーとお揃いだ☆,에잇☆　완성☆<br>이걸로 스승하고 똑같다구☆
+心なしか錬金術も<br>上達した気がする……！<br>いや、そんなことないかな……
+もしかして、この服のデザインに<br>ししょーの錬金術の<br>秘密があったりとか！？
+なんかそんな気がしてきた☆<br>今ならうち、やれる気がする！<br>早速魔物相手に練習だ！
+コラプス？,콜랩스？
+"ししょーの技で魔物をバーッとやっつけちゃうぞ☆,"
+"<div class=""recast"">使用間隔: *ターン</div>"
+"はい、できたー！<br>さっすがクラリスちゃん！,"
+威力が少し足りないかな……<br>ん～……まぁ、いっか☆<br>練習すれば強くなるよね！
+
+さあ、どんどんいくよーっ☆<br>次はこれだっ！
+確かししょーはこんな感じで……
+ファンタズマゴリア？,판타즈마고리아？
+ししょーの使ってた錬金術でパワーアップだ☆,스승이 사용한 연금술로 파워 업이야☆
+うわっ、失敗した！？<br>でも、これくらいでめげる<br>クラリスちゃんじゃないよっ☆
+気を取り直して練習練習！<br>えーっと、次は……
+死光,사광
+溶解液,용해액
+ちょ、ちょっと張り切りすぎた……<br>確かししょーは<br>回復も出来たよね……？
+
+んーと、こんな感じ……？<br>あ、なんかそれっぽい！
+リーンフォース？,리인포스？
+ししょーの真似をして傷を治すよ☆,스승을 따라해서 상처를 치료할게☆
+"うん、何となくコツはつかめた！<br>たぶん！　おそらく！<br>だいたいは！,"
+"よーし、クラリスちゃん頑張った！<br>そろそろ練習の仕上げだっ☆,"
+"最後に大技いっちゃお☆<br>ししょーのとっておき、<br>確かこんな感じだったはず！,"
+"<div class=""recast""></div>",,,,,"<div class=""duration""></div>,"
+"Rank<span id=""pc_param-level"">**<span class=""txt-player-nextlv""></span></span>,"
+"**<span class=""txt-player-nextlv""></span>,"
+"LB,"
+"<span class=""txt-player-current-zp"">*</span><span class=""txt-player-next-zp""></span>,"
+"Lv??<span class=""txt-npc-nextlv*""></span>,"
+"EXP　<span class=""txt-exp-plus""></span>,"
+"<canvas id=""cjs-hell-skip-result""></canvas>,"
+"<canvas id=""cjs-arcarum_result_clear"" class=""cjs-arcarum-result"" width=""***"" height=""***""></canvas>,"
+"NEXT,"
+"<canvas id=""cjs-hell-skip-result"" width=""*""></canvas>,"
+"ミレイユさんとリゼットさん<br>仲良しになれて良かったです！,"
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
