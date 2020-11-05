@@ -12423,58 +12423,37 @@ Lv** リゼット,Lv** 리제트
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 "トレジャーショップにてダマスカス磁性粒子を交換することで手に入ります,"
 スパイクシューター,스파이크 슈터
 奥義：アルケミック・バースト,오의：알케믹 버스트
 スキル：錬成の攻刃,스킬：연성의 공인
 スキル：土杭斉射,스킬：흙말뚝 일제사격
-敵の数が*体の時、連続攻撃確率UP<br>◆メイン装備時/主人公のみ
-スパイクシューター
+敵の数が*体の時、連続攻撃確率UP<br>◆メイン装備時/主人公のみ,"적의 수가 *일 때, 연속공격 확률 UP<br>◆메인 장비시/주인공에게만"
+スパイクシューター,스파이크 슈터
 キャラクターのEXリミットボーナスを<br>*つ解放することができます。
 特定のイベント報酬等で手に入ります。
 
-"<canvas id=""cjs-npc_get"" width=""*"" height=""***""></canvas>"
-"<div class=""txt-title-name "">言い訳は聞かないぞ☆</div>"
-言い訳は聞かないぞ☆
-獲得条件：「アルケミスト・デザイア」貢献度******達成
+!알케미스트 디자이어 칭호
+"<div class=""txt-title-name "">言い訳は聞かないぞ☆</div>","<div class=""txt-title-name "">변명은 듣지 않을거야☆</div>"
+言い訳は聞かないぞ☆,변명은 듣지 않을거야☆
+獲得条件：「アルケミスト・デザイア」貢献度******達成,획득조건：「알케미스트 디자이어」의 공헌도******달성
 "<div class=""txt-title-name "">더……더……</div>"
-獲得条件：自分が発生させたマルチバトルでリゼット(VERY HARD)を討伐
-"<div class=""txt-title-name "">ずっと夢……だった</div>,"
+獲得条件：自分が発生させたマルチバトルでリゼット(VERY HARD)を討伐,획득조건：자신이 발생시킨 멀티배틀 리제트(VERY HARD)를 토벌
+"<div class=""txt-title-name "">ずっと夢……だった</div>","<div class=""txt-title-name "">줄곧 꿈……이었어</div>"
 ずっと夢……だった,줄곧 꿈……이었어
 獲得条件：自分が発生させたマルチバトルでリゼット・フィロソフィカス(EXTREME)を討伐,획득조건：자신이 발생시킨 멀티배틀 리제트・필로소피커스(EXTREME)를 토벌
-"<div class=""txt-title-name "">私のためだけに働きなさい</div>","<div class=""txt-title-name "">나를 위해서만 움직여</div>"
-私のためだけに働きなさい,나를 위해서만 움직여
+"<div class=""txt-title-name "">私のためだけに働きなさい</div>","<div class=""txt-title-name "">나를 위해서만 움직여줘</div>"
+私のためだけに働きなさい,나를 위해서만 움직여줘
 獲得条件：「アルケミスト・デザイア」のマルチバトルを合計*回クリア,획득조건：「알케미스트 디자이어」의 멀티배틀을 합계 *회 클리어
 "<div class=""txt-title-name "">血まみれのお人形さん</div>","<div class=""txt-title-name "">피로 물든 인형</div>"
 血まみれのお人形さん,피로 물든 인형
 獲得条件：リゼット(HELL)を討伐,획득조건：리제트(HELL)을 토벌
 "<div class=""txt-title-name "">蒼空の錬金術師</div>","<div class=""txt-title-name "">창공의 연금술사</div>"
 蒼空の錬金術師,창공의 연금술사
-獲得条件：チャレンジクエスト「ししょー目指して練習中！」をクリア
-"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ミレイユ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,リゼット *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,カリオストロ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,クラリス *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルリア *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"" selected="""">",,,,ビィ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ビィ *,,,"</option>,"
-<ul>,,,,,,<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>,,,,,,<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,,,,,"</ul>,"
-<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>,,,,,,"<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,"
-"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ミレイユ *,,,"</option>,"
-ヘルメス錬金術学会が研究を行う街で行方不明者が多発しているという情報を耳にしたぴにゃ達は、情報にあった街を訪れ──
+獲得条件：チャレンジクエスト「ししょー目指して練習中！」をクリア,획득조건：챌린지 퀘스트「스승을 목표로 연습중！」을 클리어
+,,,,,,,,,,,,<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>,,,,,"</ul>,"
+<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>
+<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>
 本当に撤退しますか？
 このクエストで獲得したアイテム、<br>経験値は入手できません。
 クエスト撤退
@@ -12502,14 +12481,14 @@ Lv** リゼット,Lv** 리제트
 気を取り直して練習練習！<br>えーっと、次は……,"정신차리고 연습이야 연습！<br>으음, 다음은……"
 
 
-ちょ、ちょっと張り切りすぎた……<br>確かししょーは<br>回復も出来たよね……？
+ちょ、ちょっと張り切りすぎた……<br>確かししょーは<br>回復も出来たよね……？,"조, 조금 의욕이 넘쳤네……<br>분명 스승은<br>치료도 가능했던가……？"
 
-んーと、こんな感じ……？<br>あ、なんかそれっぽい！
+んーと、こんな感じ……？<br>あ、なんかそれっぽい！,"읏차, 이런 느낌……？<br>아, 왠지 그럴듯한걸！"
 リーンフォース？,리인포스？
 ししょーの真似をして傷を治すよ☆,스승을 따라해서 상처를 치료할게☆
-うん、何となくコツはつかめた！<br>たぶん！　おそらく！<br>だいたいは！
-よーし、クラリスちゃん頑張った！<br>そろそろ練習の仕上げだっ☆
-最後に大技いっちゃお☆<br>ししょーのとっておき、<br>確かこんな感じだったはず！
+うん、何となくコツはつかめた！<br>たぶん！　おそらく！<br>だいたいは！,"웅, 어떻게든 요령은 익혔다구！<br>아마도！분명히！<br>그럭저럭은！"
+よーし、クラリスちゃん頑張った！<br>そろそろ練習の仕上げだっ☆,"좋아, 클라리스쨩 애썼어！<br>이제 슬슬 마무리야☆"
+最後に大技いっちゃお☆<br>ししょーのとっておき、<br>確かこんな感じだったはず！,"마지막으로 큰걸 날려볼까☆<br>스승의 비장의 기술,<br>아마도 이런 느낌이었지！"
 死光,사광
 溶解液,용해액
 
@@ -12521,7 +12500,7 @@ Lv** リゼット,Lv** 리제트
 
 
 
-"ミレイユさんとリゼットさん<br>仲良しになれて良かったです！,"
+ミレイユさんとリゼットさん<br>仲良しになれて良かったです！
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
