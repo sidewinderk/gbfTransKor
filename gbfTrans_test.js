@@ -13,7 +13,7 @@ var generalConfig = {
     defaultFontName: "NanumSquare"
 };
 var doc = document;
-var isVerboseMode = toUpperCase;
+var isVerboseMode = true;
 var doImageSwap = true;
 var doBattleTrans = true;
 var transMode = true;
@@ -1296,7 +1296,7 @@ const parseCsv = str => {
 };
 
 ///
-function readChromeOption(key) {
+// function readChromeOption(key) {
 //     return new Promise((resolve, reject) => {
 //         if (key != null) {
 //             chrome.storage.local.get(key, function (obj) {
@@ -1307,7 +1307,7 @@ function readChromeOption(key) {
 //         }
 //     });
 // }
-// async function InitList() {
+async function InitList() {
 //     var chromeOptions = await readChromeOption([
 //         'battleFullInfo',
 //         'sceneFullInfo',
