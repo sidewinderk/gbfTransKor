@@ -1308,41 +1308,41 @@ const parseCsv = str => {
 //     });
 // }
 async function InitList() {
-    // var chromeOptions = await readChromeOption([
-    //     'battleFullInfo',
-    //     'sceneFullInfo',
-    //     'nTEXT',
-    //     'mTEXT',
-    //     'verboseMode',
-    //     'origin',
-    //     'imageswap',
-    //     'battleobserver',
-    //     'extractMode',
-    //     'translateMode',
-    //     'userFont',
-    //     'userFontName',
-    //     'nonTransText'
-    // ]);
-    // if (chromeOptions.sceneFullInfo)
-    //     sceneFullInfo = chromeOptions.sceneFullInfo;
-    // if (chromeOptions.battleFullInfo)
-    //     battleFullInfo = chromeOptions.battleFullInfo;
-    // if (chromeOptions.nTEXT)
-    //     cNames = chromeOptions.nTEXT;
-    // if (chromeOptions.mTEXT)
-    //     miscs = chromeOptions.mTEXT;
-    // doImageSwap = chromeOptions.imageswap;
-    // doBattleTrans = chromeOptions.battleobserver;
-    // isVerboseMode = chromeOptions.verboseMode;
-    // transMode = chromeOptions.translateMode;
-    // exMode = chromeOptions.extractMode;
-    // skipTranslatedText = chromeOptions.nonTransText;
-    // if (chromeOptions.origin) {
-    //     generalConfig.origin = chromeOptions.origin;
-    // } else
-    //     generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
-    // if (chromeOptions.userFont)
-    //     generalConfig.defaultFont = chromeOptions.userFont;
+//     var chromeOptions = await readChromeOption([
+//         'battleFullInfo',
+//         'sceneFullInfo',
+//         'nTEXT',
+//         'mTEXT',
+//         'verboseMode',
+//         'origin',
+//         'imageswap',
+//         'battleobserver',
+//         'extractMode',
+//         'translateMode',
+//         'userFont',
+//         'userFontName',
+//         'nonTransText'
+//     ]);
+//     if (chromeOptions.sceneFullInfo)
+//         sceneFullInfo = chromeOptions.sceneFullInfo;
+//     if (chromeOptions.battleFullInfo)
+//         battleFullInfo = chromeOptions.battleFullInfo;
+//     if (chromeOptions.nTEXT)
+//         cNames = chromeOptions.nTEXT;
+//     if (chromeOptions.mTEXT)
+//         miscs = chromeOptions.mTEXT;
+//     doImageSwap = chromeOptions.imageswap;
+//     doBattleTrans = chromeOptions.battleobserver;
+//     isVerboseMode = chromeOptions.verboseMode;
+//     transMode = chromeOptions.translateMode;
+//     exMode = chromeOptions.extractMode;
+//     skipTranslatedText = chromeOptions.nonTransText;
+//     if (chromeOptions.origin) {
+//         generalConfig.origin = chromeOptions.origin;
+//     } else
+//         generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
+//     if (chromeOptions.userFont)
+//         generalConfig.defaultFont = chromeOptions.userFont;
 
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
@@ -1421,12 +1421,13 @@ function translate_StoryText(stext, jsonFile) {
     var jpStartIndex = 0,
         engStartIndex = 0;
 
+    let sc = SceneCodeFromURL();
     jsonFile.some(function (item) {
-        let sc = SceneCodeFromURL();
         if (String(item.SceneCode).includes(sc)) {
             sceneData.push(item);
         }
     });
+
     var tmpIndex = 0;
     sceneData.some(function (item) {
         if (item.Language == 'Japanese') {
@@ -1451,18 +1452,49 @@ function translate_StoryText(stext, jsonFile) {
     stext = stext.replace(/&nbsp;/g, ' ');
     stext = stext.replace(/\s+/g, " ");
 
+    var targetDefaultName = '';
+    //if (userName.length > 0) {
     if (sex == 0) {
-        if (stext.includes(userName))
-            if (curLanugage == 'Japanese')
+        if (stext.includes(userName)) {
+            if (curLanugage == 'Japanese') {
                 stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-            else if (curLanugage == 'English')
-            stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                targetDefaultName = generalConfig.defaultNameMale_jp;
+            } else if (curLanugage == 'English') {
+                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                targetDefaultName = generalConfig.defaultNameMale_en;
+            }
+        }
     } else if (sex == 1) {
-        if (stext.includes(userName))
-            if (curLanugage == 'Japanese')
+        if (stext.includes(userName)) {
+            if (curLanugage == 'Japanese') {
                 stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
-            else if (curLanugage == 'English')
-            stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                targetDefaultName = generalConfig.defaultNameFemale_jp;
+            } else if (curLanugage == 'English') {
+                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                targetDefaultName = generalConfig.defaultNameFemale_en;
+            }
+        }
+    }
+    //}
+
+
+    // userName 후처리 작업이 끝난 stext 와 DB에 있는 원문을 비교할때 문제 발생.
+    // DB 원문에는 [ジータ]으로 변환된 이름을 쓰는데 userName 후처리 작업이 끝난 내용을 보면 [グラン] 으로 
+    // 되있는 경우도 있어서 일치하지않음. 이런 문제 해결하기 위해 DB 원문의 [ジータ]을 userName 후처리 
+    // 결과물과 동일하게 되게끔 [グラン]으로 변경하는 후처리 작업을 수행.
+
+    if (targetDefaultName.length > 0) {
+        for (var i = 0; i < sceneData.length; i++) {
+            if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_jp)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_en)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_jp)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_en)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
+            }
+        }
     }
 
     for (var i = 0; i < sceneData.length; i++) {
@@ -1472,6 +1504,21 @@ function translate_StoryText(stext, jsonFile) {
             if (stext == sceneData[i].Origin) {
                 if (sceneData[i].Korean) {
                     transText = sceneData[i].Korean;
+
+                    //튜토리얼 페이지 플레이중에는 유저 네임이 디폴트 네임으로 되있으므로 그랑 or 지타로 설정하게함.
+                    if (SceneCodeFromURL().includes('tutorial')) {
+                        if ((userName == 'グラン' || userName == 'Gran')) {
+                            transText = transText.split(generalConfig.defaultTransNameMale).join('그랑');
+                            transText = transText.split(generalConfig.defaultTransNameFemale).join('그랑');
+                        } else if ((userName == 'ジータ' || userName == 'Djeeta')) {
+                            transText = transText.split(generalConfig.defaultTransNameMale).join('지타');
+                            transText = transText.split(generalConfig.defaultTransNameFemale).join('지타');
+                        }
+                        break;
+                    }
+
+                    transText = transText.split(generalConfig.defaultTransNameMale).join(userName);
+                    transText = transText.split(generalConfig.defaultTransNameFemale).join(userName);
                     break;
                 } else {
                     var offset = 0;
@@ -1496,6 +1543,9 @@ function translate_StoryText(stext, jsonFile) {
             PrintLog('no translation');
             return '';
         }
+    } else {
+        PrintLog('no text');
+        return '';
     }
 }
 
@@ -1561,6 +1611,8 @@ function GetTranslatedImageURL(stext, jsonFile) {
 
 function GetTranslatedImageStyle(stext, jsonFile) {
     PrintLog(`GetTranslatedImageStyle: ${stext}`);
+    if (!stext) return;
+
     if (stext.includes(generalConfig.origin)) return '';
     var transImg = '';
     jsonFile.some(function (item) {
@@ -1603,7 +1655,8 @@ function GetTranslatedText(node, csv) {
             textInput.includes('a class') ||
             isNaN(textInput) == false || // Only number
             isNaN(textInput.replace('/', '')) == false || // number / number
-            node.className.includes('txt-atk')
+            node.className.includes('txt-atk') ||
+            node.className.includes('scene-font-place')
         )
             passOrNot = false;
 
@@ -1640,6 +1693,20 @@ function GetTranslatedText(node, csv) {
             //  - Not working now (NEED TO FIX)
             if ((userName == "") && (doc.getElementsByClassName('cnt-quest-scene')[0])) {
                 userName = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
+
+                if (userName == '' && SceneCodeFromURL().includes('tutorial')) {
+                    if (sex == 0) {
+                        if (language == 'Japanese')
+                            userName = generalConfig.defaultNameMale_jp.substring(1, generalConfig.defaultNameMale_jp.length - 1);
+                        else if (language == 'English')
+                            userName = generalConfig.defaultNameMale_en.substring(1, generalConfig.defaultNameMale_en.length - 1);
+                    } else if (sex == 1) {
+                        if (language == 'Japanese')
+                            userName = generalConfig.defaultNameFemale_jp.substring(1, generalConfig.defaultNameFemale_jp.length - 1);
+                        else if (language == 'English')
+                            userName = generalConfig.defaultNameFemale_en.substring(1, generalConfig.defaultNameFemale_en.length - 1);
+                    }
+                }
             }
             if (userName != "") {
                 if (textInput.includes(userName)) {
@@ -1658,6 +1725,8 @@ function GetTranslatedText(node, csv) {
                     PrintLog(`UserName Converted! - ${textInput}`);
                 }
             }
+            if (exMode)
+                PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             // !!! Execute Translate !!!
             if (transMode) {
@@ -1712,6 +1781,7 @@ function GetTranslatedStoryText(node, csv) {
         var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
 
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
+
         translatedText = translate_StoryText(textInput, csv);
         if (!translatedText) return;
 
@@ -1736,6 +1806,9 @@ function GetTranslatedStoryText(node, csv) {
                 }
                 if (textContents.innerHTML == '') translatedText = '';
                 textContents.innerHTML = translatedText;
+                /* 사용자가 auto-text 기능 사용 중일 경우 텍스트창에 출력되는 더러운 효과들을
+            화면에서 가려버리기 위한 코드*/
+                textContents.innerHTML += '<br><br><br><br><br>';
             }
         }
     }
@@ -1809,12 +1882,12 @@ function GetTranslatedImageDIV(node, csv) {
         var UseComputeAfter = (imageStyleComputeAfter.includes('.png') || imageStyleComputeAfter.includes('.jpg')) ?
             true :
             false;
+        var translatedImage = '';
         if (UseCompute)
             imageStyle = imageStyleCompute;
         if (UseComputeAfter)
             imageStyle = imageStyleComputeAfter;
-        var translatedText = '';
-        if (!imageStyle) return;
+        if (!imageStyle)  return;
         if (textInput.includes(generalConfig.origin)) return;
         if (!imageStyle.includes('png') ||
             imageStyle.includes('/ui/') ||
@@ -1845,27 +1918,28 @@ function GetTranslatedImageDIV(node, csv) {
             passOrNot = true;
         if (!passOrNot) return;
         PrintLog(`Send DIV:${imageStyle} Class: ${node.className}`);
-        if (transMode)
-            translatedText = GetTranslatedImageStyle(imageStyle, csv);
-        if (translatedText.length > 0) {
+
+        if (transMode && doImageSwap)
+            translatedImage = GetTranslatedImageStyle(imageStyle, csv);
+
+        if (translatedImage && translatedImage.length > 0) {
             // When it founds the translated text
             if (UseComputeAfter) {
                 if (!node.className.includes('-translated')) {
                     var style = doc.createElement('style');
                     style.type = 'text/css';
                     var classNames = node.className.replace(' ', '.');
-                    style.innerText = `.${classNames}::after{ background-image: ${translatedText}!important; }`;
+                    style.innerText = `.${classNames}::after{ background-image: ${translatedImage}!important; }`;
                     doc.head.appendChild(style);
                     node.className += ' ' + node.className + '-translated';
                 }
-            } else node.style.backgroundImage = translatedText;
-            PrintLog(`Take DIV:${translatedText} Class: ${node.className}`);
+            } else node.style.backgroundImage = translatedImage;
+            PrintLog(`Take DIV:${translatedImage} Class: ${node.className}`);
         }
     }
-
 }
 
-function SceneCodeFromURL(url) {
+function SceneCodeFromURL() {
     var scenecode = '';
 
     if ((doc.URL.includes('play_view/') || doc.URL.includes('play_view_event/')) && !doc.URL.includes('scene_')) {
@@ -1885,6 +1959,16 @@ function SceneCodeFromURL(url) {
         scenecode = doc.URL.slice(doc.URL.indexOf('scene_'));
         scenecode = scenecode.split('/')[0];
     }
+    if (doc.URL.includes('/#tutorial/')) {
+        if (doc.URL.includes('/#tutorial/4'))
+            scenecode = 'scene_tutorial00';
+        else if (doc.URL.includes('/#tutorial/6'))
+            scenecode = 'scene_tutorial01';
+        else if (doc.URL.includes('/#tutorial/8'))
+            scenecode = 'scene_tutorial02';
+        else if (doc.URL.includes('/#tutorial/12'))
+            scenecode = 'scene_tutorial03';
+    }
 
     return scenecode;
 }
@@ -1893,13 +1977,10 @@ function SceneCodeFromURL(url) {
 var sceneObserver = new MutationObserver(function (mutations) {
     mutations.some(function (mutation) {
         if (!mutation.target.className) return;
-
         if (mutation.target.className.includes('prt-log-display')) {
             if (typeof mutation.target.children[0] == 'undefined') return true;
 
             var textName = mutation.target.children[0].children[0].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
-            //textmessage 변수는 활용되는 곳이 이제 없는것으로 보여서 주석으로 감쌈.
-            //var textmessage = mutation.target.children[0].children[1].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
             var nameNode = doc.getElementsByClassName('txt-character-name')[0];
 
             // Remove User's Name
@@ -1923,11 +2004,6 @@ var sceneObserver = new MutationObserver(function (mutations) {
                 }
             }
 
-            //misc 텍스트를 가져오는 경우 빼고 스토리 텍스트,스토리 이름은 F12를 누르고 새로고침하는 순간
-            //전부 추출되버리니 여기서의 exMode는 기능을 잃어버림.
-            //if (exMode) {
-            //    PushCSV(textName, cNames);
-            //}
             if (transMode) {
                 sceneObserver.disconnect();
                 if (nameNode) {
@@ -1943,6 +2019,9 @@ var sceneObserver = new MutationObserver(function (mutations) {
             ObserveSceneText();
             return true;
         }
+        if (mutation.target.className.includes('txt-message')) {
+            GetTranslatedStoryText(mutation.target, questJson);
+        }
     });
 });
 
@@ -1952,10 +2031,12 @@ var archiveObserver = new MutationObserver(function (mutations) {
         if (mutation.target) {
             if (
                 !mutation.target.className.includes('txt-message') &&
-                !mutation.target.className.includes('txt-character-name')
-            )
+                !mutation.target.className.includes('txt-character-name') &&
+                !mutation.target.className.includes('wrapper') &&
+                !mutation.target.className.includes('contents')
+            ) {
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-
+            }
         }
     });
     ObserverArchive();
@@ -1964,29 +2045,42 @@ var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserver.disconnect();
     mutations.forEach(mutation => {
-        walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+        if (doImageSwap) {
+            if (mutation.target.className && 
+                mutation.target.className == 'contents' ||
+                mutation.target.className.includes('pop-global-menu')) {
+                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+            }
+        }
     });
     ObserverImage();
 });
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
+
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
-        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        if (doImageSwap) {
+            if (mutation.target.className && 
+                mutation.target.className == 'contents' || 
+                mutation.target.className.includes('pop-global-menu')) {
+                    
+                walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+            }
+
+        }
     });
+
     ObserverImageDIV();
 });
 var PopObserver = new MutationObserver(function (mutations) {
     PopObserver.disconnect();
     mutations.forEach(mutation => {
-        if (mutation.target.className.includes('pop-synopsis pop-show')) {
-            GetTranslatedStoryText(
-                doc.getElementsByClassName('prt-pop-synopsis')[0],
-                questJson
-            );
+        if (mutation.target.className.includes('pop-synopsis')) {
+            GetTranslatedStoryText(doc.getElementsByClassName('prt-pop-synopsis')[0], questJson);
+        } else {
+            walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         }
-
-        walkDownTree(mutation.target, GetTranslatedText, archiveJson);
 
         if (doImageSwap) {
             walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
@@ -1999,24 +2093,23 @@ var BattleObserver = new MutationObserver(function (mutations) {
     BattleObserver.disconnect();
     mutations.forEach(mutation => {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
-        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-        // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
-
         GetTranslatedBattleText(mutation.target, battleJson);
+        
+        if(doImageSwap)
+            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
 
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
-    mutations.forEach(mutation => {
-        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);	
-        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);	
+    mutations.forEach(mutation => {	
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
 
-        var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
-        walkDownTreeStyle(battleInfo_subbtn, GetTranslatedImageDIV, imageJson);
+        var btn_recovery = doc.querySelectorAll('[class^="btn-temporary"]');
+        walkDownTreeStyle(btn_recovery, GetTranslatedImageDIV, imageJson);
+        var multi_buttons = doc.querySelectorAll('[class^="prt-multi-buttons"]');
+        walkDownTreeStyle(multi_buttons, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
@@ -2024,7 +2117,8 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
 // Queue for each observers
 async function ObserveSceneText() {
     var oText = doc.getElementsByClassName('prt-log-display')[0];
-    if (!oText) {
+    var txtMessageNode = doc.getElementsByClassName('prt-message-area')[0];
+    if (!oText || !txtMessageNode) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
         window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
@@ -2037,6 +2131,7 @@ async function ObserveSceneText() {
         doc.URL.includes('tutorial')
     ) {
         sceneObserver.observe(oText, config);
+        sceneObserver.observe(txtMessageNode, config);
     }
 }
 
@@ -2102,7 +2197,8 @@ async function ObserverStorySelectTexts() {
 }
 async function ObserverPop() {
     // var oText = doc.querySelector(".prt-scroll-title");
-    var oText = doc.getElementById('loading');
+    //var oText = doc.getElementById('loading');
+    var oText = doc.getElementById('pop');
     if (!oText) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
@@ -2134,7 +2230,7 @@ async function ObserverBattle() {
         window.setTimeout(ObserverBattle, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
+    if (doc.URL.includes('#raid') || doc.URL.includes('/#tutorial/') /* for tutorial page */ ) {
         // In battle window, try to use 'white list' to get 
 
         var battleInfo1 = doc.querySelectorAll('[class^="prt-command-chara"]');
@@ -2161,19 +2257,28 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo_btn = doc.querySelectorAll('[class^="prt-command"]');
+        var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
         if (battleInfo_btn) {
-            walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
+            if(doImageSwap)
+                walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
-        /*
+        
         var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
-        }*/
+        }
         var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
-            walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
+            if(doImageSwap)
+                walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
         }
+        
+        var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
+        if (multilog_overlayer) {
+            if(doImageSwap)
+                walkDownObserver(multilog_overlayer, BattleImageObserver, config);
+        }
+        
         var popDIV = doc.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
@@ -2223,6 +2328,7 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
+
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(doc.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
