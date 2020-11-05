@@ -2278,7 +2278,7 @@ function GetTranslatedImageDIV(node, csv) {
             imageStyle = imageStyleCompute;
         if (UseComputeAfter)
             imageStyle = imageStyleComputeAfter;
-        if (!imageStyle) return;
+        if (!imageStyle)  return;
         if (textInput.includes(generalConfig.origin)) return;
         if (!imageStyle.includes('png') ||
             imageStyle.includes('/ui/') ||
@@ -2479,7 +2479,6 @@ var ImageObserverDIV = new MutationObserver(function (mutations) {
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap) {
-            console.log(mutation.target);
             if (mutation.target.className && 
                 mutation.target.className == 'contents' || 
                 mutation.target.className.includes('pop-global-menu')) {
@@ -2512,24 +2511,23 @@ var BattleObserver = new MutationObserver(function (mutations) {
     BattleObserver.disconnect();
     mutations.forEach(mutation => {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);
-        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-        // walkDownTreeStyle(mutation.target,GetTranslatedImageDIV, imageJson);
-
         GetTranslatedBattleText(mutation.target, battleJson);
+        
+        if(doImageSwap)
+            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
 
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
-    mutations.forEach(mutation => {
-        // walkDownTree(mutation.target, GetTranslatedText, archiveJson);	
-        // walkDownTreeSrc(mutation.target,GetTranslatedImage, imageJson);	
+    mutations.forEach(mutation => {	
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
 
-        var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
-        walkDownTreeStyle(battleInfo_subbtn, GetTranslatedImageDIV, imageJson);
+        var btn_recovery = doc.querySelectorAll('[class^="btn-temporary"]');
+        walkDownTreeStyle(btn_recovery, GetTranslatedImageDIV, imageJson);
+        var multi_buttons = doc.querySelectorAll('[class^="prt-multi-buttons"]');
+        walkDownTreeStyle(multi_buttons, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
 });
@@ -2617,7 +2615,8 @@ async function ObserverStorySelectTexts() {
 }
 async function ObserverPop() {
     // var oText = doc.querySelector(".prt-scroll-title");
-    var oText = doc.getElementById('loading');
+    //var oText = doc.getElementById('loading');
+    var oText = doc.getElementById('pop');
     if (!oText) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
@@ -2676,19 +2675,28 @@ async function ObserverBattle() {
                 BattleObserver.observe(bInfo, config_simple);
             });
         }
-        var battleInfo_btn = doc.querySelectorAll('[class^="prt-command"]');
+        var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
         if (battleInfo_btn) {
-            walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
+            if(doImageSwap)
+                walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
-        /*
+        
         var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
-        }*/
+        }
         var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
-            walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
+            if(doImageSwap)
+                walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
         }
+        
+        var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
+        if (multilog_overlayer) {
+            if(doImageSwap)
+                walkDownObserver(multilog_overlayer, BattleImageObserver, config);
+        }
+        
         var popDIV = doc.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
