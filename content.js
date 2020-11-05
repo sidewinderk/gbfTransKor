@@ -36,6 +36,8 @@ var archiveJson = false;
 var imageJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
 var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
+
+
 // Coversation with popup window
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     if (request.data == 'clearScenes') {
@@ -1782,12 +1784,13 @@ function translate_StoryText(stext, jsonFile) {
     var jpStartIndex = 0,
         engStartIndex = 0;
 
+    let sc = SceneCodeFromURL();
     jsonFile.some(function (item) {
-        let sc = SceneCodeFromURL();
         if (String(item.SceneCode).includes(sc)) {
             sceneData.push(item);
         }
     });
+
     var tmpIndex = 0;
     sceneData.some(function (item) {
         if (item.Language == 'Japanese') {
@@ -1814,36 +1817,35 @@ function translate_StoryText(stext, jsonFile) {
 
     var targetDefaultName = '';
     //if (userName.length > 0) {
-        if (sex == 0) {
-            if (stext.includes(userName)) {
-                if (curLanugage == 'Japanese') {
-                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-                    targetDefaultName = generalConfig.defaultNameMale_jp;
-                } else if (curLanugage == 'English') {
-                    stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
-                    targetDefaultName = generalConfig.defaultNameMale_en;
-                }
-            }
-        } else if (sex == 1) {
-            if (stext.includes(userName)) {
-                if (curLanugage == 'Japanese') {
-                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
-                    targetDefaultName = generalConfig.defaultNameFemale_jp;
-                } else if (curLanugage == 'English') {
-                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
-                    targetDefaultName = generalConfig.defaultNameFemale_en;
-                }
+    if (sex == 0) {
+        if (stext.includes(userName)) {
+            if (curLanugage == 'Japanese') {
+                stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+                targetDefaultName = generalConfig.defaultNameMale_jp;
+            } else if (curLanugage == 'English') {
+                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                targetDefaultName = generalConfig.defaultNameMale_en;
             }
         }
+    } else if (sex == 1) {
+        if (stext.includes(userName)) {
+            if (curLanugage == 'Japanese') {
+                stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+                targetDefaultName = generalConfig.defaultNameFemale_jp;
+            } else if (curLanugage == 'English') {
+                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                targetDefaultName = generalConfig.defaultNameFemale_en;
+            }
+        }
+    }
     //}
 
-    /*
-        userName 후처리 작업이 끝난 stext 와 DB에 있는 원문을 비교할때 문제 발생.
-        DB 원문에는 [ジータ]으로 변환된 이름을 쓰는데 userName 후처리 작업이 끝난 내용을 보면 [グラン] 으로 
-        되있는 경우도 있어서 일치하지않음. 이런 문제 해결하기 위해 DB 원문의 [ジータ]을 userName 후처리 
-        결과물과 동일하게 되게끔 [グラン]으로 변경하는 후처리 작업을 수행.
-    */
-   
+
+    // userName 후처리 작업이 끝난 stext 와 DB에 있는 원문을 비교할때 문제 발생.
+    // DB 원문에는 [ジータ]으로 변환된 이름을 쓰는데 userName 후처리 작업이 끝난 내용을 보면 [グラン] 으로 
+    // 되있는 경우도 있어서 일치하지않음. 이런 문제 해결하기 위해 DB 원문의 [ジータ]을 userName 후처리 
+    // 결과물과 동일하게 되게끔 [グラン]으로 변경하는 후처리 작업을 수행.
+
     if (targetDefaultName.length > 0) {
         for (var i = 0; i < sceneData.length; i++) {
             if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_jp)) {
@@ -1857,7 +1859,7 @@ function translate_StoryText(stext, jsonFile) {
             }
         }
     }
-    
+
     for (var i = 0; i < sceneData.length; i++) {
         if (!sceneData[i].Origin)
             continue;
@@ -1867,7 +1869,7 @@ function translate_StoryText(stext, jsonFile) {
                     transText = sceneData[i].Korean;
 
                     //튜토리얼 페이지 플레이중에는 유저 네임이 디폴트 네임으로 되있으므로 그랑 or 지타로 설정하게함.
-                    if(SceneCodeFromURL().includes('tutorial')){
+                    if (SceneCodeFromURL().includes('tutorial')) {
                         if ((userName == 'グラン' || userName == 'Gran')) {
                             transText = transText.split(generalConfig.defaultTransNameMale).join('그랑');
                             transText = transText.split(generalConfig.defaultTransNameFemale).join('그랑');
@@ -1877,7 +1879,7 @@ function translate_StoryText(stext, jsonFile) {
                         }
                         break;
                     }
-                    
+
                     transText = transText.split(generalConfig.defaultTransNameMale).join(userName);
                     transText = transText.split(generalConfig.defaultTransNameFemale).join(userName);
                     break;
@@ -1972,6 +1974,8 @@ function GetTranslatedImageURL(stext, jsonFile) {
 
 function GetTranslatedImageStyle(stext, jsonFile) {
     PrintLog(`GetTranslatedImageStyle: ${stext}`);
+    if (!stext) return;
+
     if (stext.includes(generalConfig.origin)) return '';
     var transImg = '';
     jsonFile.some(function (item) {
@@ -2269,11 +2273,11 @@ function GetTranslatedImageDIV(node, csv) {
         var UseComputeAfter = (imageStyleComputeAfter.includes('.png') || imageStyleComputeAfter.includes('.jpg')) ?
             true :
             false;
+        var translatedImage = '';
         if (UseCompute)
             imageStyle = imageStyleCompute;
         if (UseComputeAfter)
             imageStyle = imageStyleComputeAfter;
-        var translatedText = '';
         if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
         if (!imageStyle.includes('png') ||
@@ -2305,24 +2309,25 @@ function GetTranslatedImageDIV(node, csv) {
             passOrNot = true;
         if (!passOrNot) return;
         PrintLog(`Send DIV:${imageStyle} Class: ${node.className}`);
-        if (transMode)
-            translatedText = GetTranslatedImageStyle(imageStyle, csv);
-        if (translatedText.length > 0) {
+
+        if (transMode && doImageSwap)
+            translatedImage = GetTranslatedImageStyle(imageStyle, csv);
+
+        if (translatedImage && translatedImage.length > 0) {
             // When it founds the translated text
             if (UseComputeAfter) {
                 if (!node.className.includes('-translated')) {
                     var style = doc.createElement('style');
                     style.type = 'text/css';
                     var classNames = node.className.replace(' ', '.');
-                    style.innerText = `.${classNames}::after{ background-image: ${translatedText}!important; }`;
+                    style.innerText = `.${classNames}::after{ background-image: ${translatedImage}!important; }`;
                     doc.head.appendChild(style);
                     node.className += ' ' + node.className + '-translated';
                 }
-            } else node.style.backgroundImage = translatedText;
-            PrintLog(`Take DIV:${translatedText} Class: ${node.className}`);
+            } else node.style.backgroundImage = translatedImage;
+            PrintLog(`Take DIV:${translatedImage} Class: ${node.className}`);
         }
     }
-
 }
 
 function SceneCodeFromURL() {
@@ -2444,7 +2449,9 @@ var archiveObserver = new MutationObserver(function (mutations) {
         if (mutation.target) {
             if (
                 !mutation.target.className.includes('txt-message') &&
-                !mutation.target.className.includes('txt-character-name')
+                !mutation.target.className.includes('txt-character-name') &&
+                !mutation.target.className.includes('wrapper') &&
+                !mutation.target.className.includes('contents')
             ) {
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
             }
@@ -2456,16 +2463,33 @@ var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserver.disconnect();
     mutations.forEach(mutation => {
-        walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+        if (doImageSwap) {
+            if (mutation.target.className && 
+                mutation.target.className == 'contents' ||
+                mutation.target.className.includes('pop-global-menu')) {
+                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+            }
+        }
     });
     ObserverImage();
 });
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
+
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
-        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        if (doImageSwap) {
+            console.log(mutation.target);
+            if (mutation.target.className && 
+                mutation.target.className == 'contents' || 
+                mutation.target.className.includes('pop-global-menu')) {
+                    
+                walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+            }
+
+        }
     });
+
     ObserverImageDIV();
 });
 var PopObserver = new MutationObserver(function (mutations) {
@@ -2714,6 +2738,7 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
+
     ImageObserverDIV.observe(allElements, config);
     ImageObserverDIV.observe(doc.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
 }
