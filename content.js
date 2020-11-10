@@ -1719,7 +1719,7 @@ async function InitList() {
         ObserverList = [
             ObserveSceneText(),
             ObserverArchive(),
-            ObserverPop(),
+            //ObserverPop(),
             ObserverStorySelectTexts()
         ];
         if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
