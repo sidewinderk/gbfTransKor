@@ -104,7 +104,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
 });
 
 var config = {
-    attributes: true,
+    //attributes: true,
     childList: true,
     subtree: true,
     characterData: true
@@ -2278,7 +2278,7 @@ function GetTranslatedImageDIV(node, csv) {
             imageStyle = imageStyleCompute;
         if (UseComputeAfter)
             imageStyle = imageStyleComputeAfter;
-        if (!imageStyle)  return;
+        if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
         if (!imageStyle.includes('png') ||
             imageStyle.includes('/ui/') ||
@@ -2449,9 +2449,7 @@ var archiveObserver = new MutationObserver(function (mutations) {
         if (mutation.target) {
             if (
                 !mutation.target.className.includes('txt-message') &&
-                !mutation.target.className.includes('txt-character-name') &&
-                !mutation.target.className.includes('wrapper') &&
-                !mutation.target.className.includes('contents')
+                !mutation.target.className.includes('txt-character-name')
             ) {
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
             }
@@ -2464,7 +2462,7 @@ var ImageObserver = new MutationObserver(function (mutations) {
     ImageObserver.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap) {
-            if (mutation.target.className && 
+            if (mutation.target.className &&
                 mutation.target.className == 'contents' ||
                 mutation.target.className.includes('pop-global-menu')) {
                 walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
@@ -2479,10 +2477,10 @@ var ImageObserverDIV = new MutationObserver(function (mutations) {
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap) {
-            if (mutation.target.className && 
-                mutation.target.className == 'contents' || 
+            if (mutation.target.className &&
+                mutation.target.className == 'contents' ||
                 mutation.target.className.includes('pop-global-menu')) {
-                    
+
                 walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
             }
 
@@ -2512,8 +2510,8 @@ var BattleObserver = new MutationObserver(function (mutations) {
     mutations.forEach(mutation => {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         GetTranslatedBattleText(mutation.target, battleJson);
-        
-        if(doImageSwap)
+
+        if (doImageSwap)
             walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
@@ -2521,7 +2519,7 @@ var BattleObserver = new MutationObserver(function (mutations) {
 
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
-    mutations.forEach(mutation => {	
+    mutations.forEach(mutation => {
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
 
         var btn_recovery = doc.querySelectorAll('[class^="btn-temporary"]');
@@ -2562,20 +2560,11 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
-        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
-        return;
-    }
-    if (
-        doc.URL.includes('archive') ||
-        doc.URL.includes('scene') ||
-        doc.URL.includes('story') ||
-        doc.URL.includes('tutorial')
-    ) {
-        ObserverPop();
-        archiveObserver.observe(oText, config);
-        ObserveSceneText();
-        ObserverStorySelectTexts();
+    if (!doBattleTrans) {
+        if (doc.URL.includes('#raid')) {
+            archiveObserver.disconnect();
+            return;
+        }
     }
 
     archiveObserver.observe(oText, config);
@@ -2677,26 +2666,26 @@ async function ObserverBattle() {
         }
         var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
         if (battleInfo_btn) {
-            if(doImageSwap)
+            if (doImageSwap)
                 walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
-        
+
         var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
         }
         var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
-            if(doImageSwap)
+            if (doImageSwap)
                 walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
         }
-        
+
         var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
         if (multilog_overlayer) {
-            if(doImageSwap)
+            if (doImageSwap)
                 walkDownObserver(multilog_overlayer, BattleImageObserver, config);
         }
-        
+
         var popDIV = doc.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
