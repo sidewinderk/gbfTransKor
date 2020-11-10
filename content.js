@@ -2463,8 +2463,35 @@ var archiveObserver = new MutationObserver(function (mutations) {
     });
     ObserverArchive();
 });
+/*
 var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
+    ImageObserver.disconnect();
+    mutations.forEach(mutation => {
+        if (mutation.target) {
+            if (doImageSwap && mutation.target.className) {
+                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+            }
+        }
+    });
+    ObserverImage();
+});
+var ImageObserverDIV = new MutationObserver(function (mutations) {
+    // PrintLog(mutations);
+    ImageObserverDIV.disconnect();
+    mutations.forEach(mutation => {
+        if (mutation.target) {
+            if (doImageSwap && mutation.target.className) {
+                walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+            }
+        }
+    });
+    ObserverImageDIV();
+});*/
+
+var ImageObserver = new MutationObserver(function (mutations) {
+    // PrintLog(mutations);
+    ImageObserver.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap && mutation.target.className) {
             walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
@@ -2474,6 +2501,7 @@ var ImageObserver = new MutationObserver(function (mutations) {
 });
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
+    ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap && mutation.target.className) {
             walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
@@ -2545,7 +2573,6 @@ async function ObserveSceneText() {
 }
 
 async function ObserverArchive() {
-    // var oText = doc.getElementById('loading');
     var oText = doc.getElementById('wrapper');
     if (!oText) {
         //The node we need does not exist yet.
