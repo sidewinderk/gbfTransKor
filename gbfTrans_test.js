@@ -41,6 +41,12 @@ var config = {
     subtree: true,
     characterData: true
 };
+var config_image = {
+    attributes: true,
+    //childList: true,
+    subtree: true,
+    //characterData: true
+};
 var config_simple = {
     attributes: true,
 };
@@ -1859,7 +1865,7 @@ function GetTranslatedImage(node, csv) {
         )
             return;
         PrintLog(`Send Image URL:${imageInput}`);
-        if (transMode)
+        if (transMode && doImageSwap)
             translatedText = GetTranslatedImageURL(imageInput, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
@@ -2041,36 +2047,23 @@ var archiveObserver = new MutationObserver(function (mutations) {
 });
 var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
-    ImageObserver.disconnect();
     mutations.forEach(mutation => {
-        if (doImageSwap) {
-            // if (mutation.target.className &&
-            //     mutation.target.className == 'contents' ||
-            //     mutation.target.className.includes('pop-global-menu')) {
-                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
-            // }
+        if (doImageSwap && mutation.target.className) {
+            walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
         }
     });
     ObserverImage();
 });
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
-
-    ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
-        if (doImageSwap) {
-            // if (mutation.target.className &&
-            //     mutation.target.className == 'contents' ||
-            //     mutation.target.className.includes('pop-global-menu')) {
-
-                walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-            // }
-
+        if (doImageSwap && mutation.target.className) {
+            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
         }
     });
-
     ObserverImageDIV();
 });
+
 var PopObserver = new MutationObserver(function (mutations) {
     PopObserver.disconnect();
     mutations.forEach(mutation => {
@@ -2142,13 +2135,13 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (!doBattleTrans) {
+    if (doBattleTrans) {
         if (doc.URL.includes('#raid')) {
             archiveObserver.disconnect();
+            window.setTimeout(ObserverArchive, generalConfig.refreshRate);
             return;
         }
     }
-
     archiveObserver.observe(oText, config);
 }
 
@@ -2289,37 +2282,38 @@ async function ObserverBattle() {
     }
 }
 async function ObserverImage() {
-    var allElements = doc.querySelectorAll('[class^="contents"]')[0];
-    // var allElements = doc.getElementById('wrapper');
+    var allElements = doc.getElementById('wrapper');
     if (!allElements) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
-        window.setTimeout(ObserverImage, generalConfig.refreshRate);
-        return;
+    if (doBattleTrans) {
+        if (doc.URL.includes('#raid')) {
+            ImageObserver.disconnect();
+            window.setTimeout(ObserverImage, generalConfig.refreshRate);
+            return;
+        }
     }
-    ImageObserver.observe(allElements, config);
-    ImageObserver.observe(doc.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
+    ImageObserver.observe(allElements, config_image);
 }
 async function ObserverImageDIV() {
-    var allElements = doc.querySelectorAll('[class^="contents"]')[0];
-    // var allElements = doc.getElementById('wrapper');
+    var allElements = doc.getElementById('wrapper');
     if (!allElements) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
-        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
+        window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
-        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
-        return;
+    if (doBattleTrans) {
+        if (doc.URL.includes('#raid')) {
+            ImageObserver.disconnect();
+            window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
+            return;
+        }
     }
-
-    ImageObserverDIV.observe(allElements, config);
-    ImageObserverDIV.observe(doc.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
+    ImageObserverDIV.observe(allElements, config_image);
 }
 
 const main = async () => {
