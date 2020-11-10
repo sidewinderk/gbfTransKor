@@ -2044,11 +2044,11 @@ var ImageObserver = new MutationObserver(function (mutations) {
     ImageObserver.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap) {
-            if (mutation.target.className &&
-                mutation.target.className == 'contents' ||
-                mutation.target.className.includes('pop-global-menu')) {
+            // if (mutation.target.className &&
+            //     mutation.target.className == 'contents' ||
+            //     mutation.target.className.includes('pop-global-menu')) {
                 walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
-            }
+            // }
         }
     });
     ObserverImage();
@@ -2059,12 +2059,12 @@ var ImageObserverDIV = new MutationObserver(function (mutations) {
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
         if (doImageSwap) {
-            if (mutation.target.className &&
-                mutation.target.className == 'contents' ||
-                mutation.target.className.includes('pop-global-menu')) {
+            // if (mutation.target.className &&
+            //     mutation.target.className == 'contents' ||
+            //     mutation.target.className.includes('pop-global-menu')) {
 
                 walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-            }
+            // }
 
         }
     });
