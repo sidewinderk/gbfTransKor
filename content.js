@@ -2452,18 +2452,17 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-        if (mutation.target) {
-            if (
-                !mutation.target.className.includes('txt-message') &&
-                !mutation.target.className.includes('txt-character-name')
-            ) {
-                walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+            if (mutation.target) {
+                if (
+                    !mutation.target.className.includes('txt-message') &&
+                    !mutation.target.className.includes('txt-character-name')
+                ) {
+                    walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+                }
             }
-        }
     });
     ObserverArchive();
 });
-/*
 var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserver.disconnect();
@@ -2484,27 +2483,6 @@ var ImageObserverDIV = new MutationObserver(function (mutations) {
             if (doImageSwap && mutation.target.className) {
                 walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
             }
-        }
-    });
-    ObserverImageDIV();
-});*/
-
-var ImageObserver = new MutationObserver(function (mutations) {
-    // PrintLog(mutations);
-    ImageObserver.disconnect();
-    mutations.forEach(mutation => {
-        if (doImageSwap && mutation.target.className) {
-            walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
-        }
-    });
-    ObserverImage();
-});
-var ImageObserverDIV = new MutationObserver(function (mutations) {
-    // PrintLog(mutations);
-    ImageObserverDIV.disconnect();
-    mutations.forEach(mutation => {
-        if (doImageSwap && mutation.target.className) {
-            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
         }
     });
     ObserverImageDIV();
@@ -2581,11 +2559,16 @@ async function ObserverArchive() {
         return;
     }
     if (doBattleTrans) {
-        if (doc.URL.includes('#raid')) {
+        if(doc.URL.includes('#raid')){
             archiveObserver.disconnect();
             window.setTimeout(ObserverArchive, generalConfig.refreshRate);
             return;
         }
+    }
+    if(doc.URL.includes('#raid')){
+        archiveObserver.disconnect();
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        return;
     }
     archiveObserver.observe(oText, config);
 }
@@ -2735,11 +2718,16 @@ async function ObserverImage() {
         return;
     }
     if (doBattleTrans) {
-        if (doc.URL.includes('#raid')) {
+        if(doc.URL.includes('#raid')){
             ImageObserver.disconnect();
             window.setTimeout(ObserverImage, generalConfig.refreshRate);
             return;
         }
+    }
+    if(doc.URL.includes('#raid')){
+        archiveObserver.disconnect();
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        return;
     }
     ImageObserver.observe(allElements, config_image);
 }
@@ -2751,12 +2739,17 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (doBattleTrans) {
-        if (doc.URL.includes('#raid')) {
+    if (doBattleTrans ) {
+        if(doc.URL.includes('#raid')){
             ImageObserver.disconnect();
             window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
             return;
         }
+    }
+    if(doc.URL.includes('#raid')){
+        archiveObserver.disconnect();
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        return;
     }
     ImageObserverDIV.observe(allElements, config_image);
 }
