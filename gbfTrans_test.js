@@ -1823,7 +1823,8 @@ function GetTranslatedStoryText(node, csv) {
 function GetTranslatedBattleText(node, csv) {
     if (node) {
         if (node.className.includes('txt-body') ||
-            node.className.includes('txt-title')) {
+            node.className.includes('txt-title') || 
+            node.className.includes('prt-advice')) {
             if (node.innerHTML && node.innerHTML.length == 0) return;
             var translatedText = '';
 
