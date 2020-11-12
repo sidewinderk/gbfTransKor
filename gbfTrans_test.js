@@ -2309,16 +2309,10 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (doBattleTrans ) {
-        if(doc.URL.includes('#raid')){
-            ImageObserver.disconnect();
-            window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
-            return;
-        }
-    }
     if(doc.URL.includes('#raid')){
+        ImageObserver.disconnect();
         archiveObserver.disconnect();
-        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
     ImageObserverDIV.observe(allElements, config_image);
