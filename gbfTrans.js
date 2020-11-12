@@ -2141,13 +2141,6 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (doBattleTrans) {
-        if(doc.URL.includes('#raid')){
-            archiveObserver.disconnect();
-            window.setTimeout(ObserverArchive, generalConfig.refreshRate);
-            return;
-        }
-    }
     if(doc.URL.includes('#raid')){
         archiveObserver.disconnect();
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
