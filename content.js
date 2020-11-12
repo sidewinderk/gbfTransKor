@@ -2452,14 +2452,20 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
     mutations.forEach(mutation => {
-            if (mutation.target) {
-                if (
-                    !mutation.target.className.includes('txt-message') &&
-                    !mutation.target.className.includes('txt-character-name')
-                ) {
-                    walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        if (mutation.target) {
+            if (
+                !mutation.target.className.includes('txt-message') &&
+                !mutation.target.className.includes('txt-character-name')
+            ) {
+                if (mutation.target.className == 'contents') {
+                    //mutation 감지되는 노드중에 contents의 부모 노드인 wrapper 노드가 감지가 안됨.
+                    //그래서 contents 노드가 감지될때 부모 노드 wrapper를 번역하게함. 퍼포먼스 영향 없었음.
+                    walkDownTree(doc.getElementById('wrapper'), GetTranslatedText, archiveJson);
+                    return;
                 }
+                walkDownTree(mutation.target, GetTranslatedText, archiveJson);
             }
+        }
     });
     ObserverArchive();
 });
@@ -2558,7 +2564,7 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if(doc.URL.includes('#raid')){
+    if (doc.URL.includes('#raid')) {
         archiveObserver.disconnect();
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
@@ -2710,7 +2716,7 @@ async function ObserverImage() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if(doc.URL.includes('#raid')){
+    if (doc.URL.includes('#raid')) {
         ImageObserver.disconnect();
         archiveObserver.disconnect();
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
@@ -2726,7 +2732,7 @@ async function ObserverImageDIV() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if(doc.URL.includes('#raid')){
+    if (doc.URL.includes('#raid')) {
         ImageObserver.disconnect();
         archiveObserver.disconnect();
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
