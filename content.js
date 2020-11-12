@@ -2280,6 +2280,16 @@ function GetTranslatedImageDIV(node, csv) {
             true :
             false;
         var translatedImage = '';
+        if (node.className == 'btn-assist' /* includes로 검사하면 비슷한 이름의 노드가 2개 걸림. */ ||
+            node.className.includes('btn-alliance') ||
+            node.className.includes('btn-logs')) {
+            if (imageStyle.includes('none') /* 화면이 완전히 표시되기전까지는 none값으로 있음. */ ) {
+                window.setTimeout(() => {
+                    GetTranslatedImageDIV(node, csv);
+                    return;
+                }, generalConfig.refreshRate);
+            }
+        }
         if (UseCompute)
             imageStyle = imageStyleCompute;
         if (UseComputeAfter)
@@ -2318,7 +2328,7 @@ function GetTranslatedImageDIV(node, csv) {
 
         if (transMode && doImageSwap)
             translatedImage = GetTranslatedImageStyle(imageStyle, csv);
-
+            
         if (translatedImage && translatedImage.length > 0) {
             // When it founds the translated text
             if (UseComputeAfter) {
@@ -2513,11 +2523,10 @@ var PopObserver = new MutationObserver(function (mutations) {
 var BattleObserver = new MutationObserver(function (mutations) {
     BattleObserver.disconnect();
     mutations.forEach(mutation => {
-        walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-        GetTranslatedBattleText(mutation.target, battleJson);
-
-        if (doImageSwap)
-            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        if (mutation.target) {
+            walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+            GetTranslatedBattleText(mutation.target, battleJson /* battleJson은 questJson과 다르게 sceneCode값이 없는 말풍선 번역문들이기 때문에 archiveJson과 합쳐도 무방해보임. 좀 더 생각해보기.*/ );
+        }
     });
     ObserverBattle();
 });
@@ -2525,12 +2534,9 @@ var BattleObserver = new MutationObserver(function (mutations) {
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
     mutations.forEach(mutation => {
-        walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-
-        var btn_recovery = doc.querySelectorAll('[class^="btn-temporary"]');
-        walkDownTreeStyle(btn_recovery, GetTranslatedImageDIV, imageJson);
-        var multi_buttons = doc.querySelectorAll('[class^="prt-multi-buttons"]');
-        walkDownTreeStyle(multi_buttons, GetTranslatedImageDIV, imageJson);
+        if (mutation.target) {
+            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        }
     });
     ObserverBattle();
 });
@@ -2632,7 +2638,8 @@ async function ObserverPop() {
 }
 async function ObserverBattle() {
     // var oText = doc.querySelector(".prt-scroll-title");
-    var oText = doc.querySelectorAll('[class^="prt-command-chara"]')[0];
+    // var oText = doc.querySelectorAll('[class^="prt-command-chara"]')[0];
+    var oText = doc.getElementById('wrapper');
     if (!oText) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
@@ -2640,72 +2647,81 @@ async function ObserverBattle() {
         return;
     }
     if (doc.URL.includes('#raid') || doc.URL.includes('/#tutorial/') /* for tutorial page */ ) {
+        if (doBattleTrans) {
+            BattleObserver.observe(oText, config);
+            BattleImageObserver.observe(oText, config);
+        } else {
+            BattleObserver.disconnect();
+            BattleImageObserver.disconnect();
+            window.setTimeout(ObserverBattle, generalConfig.refreshRate);
+            return;
+        }
         // In battle window, try to use 'white list' to get 
 
-        var battleInfo1 = doc.querySelectorAll('[class^="prt-command-chara"]');
-        if (battleInfo1) {
-            battleInfo1.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config_simple);
-            });
-        }
-        var battleInfo2 = doc.querySelectorAll('[class^="pop-condition"]');
-        if (battleInfo2) {
-            battleInfo2.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config_simple);
-            });
-        }
-        var battleInfo3 = doc.querySelectorAll('[class^="txt-cutin"]');
-        if (battleInfo3) {
-            battleInfo3.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config_simple);
-            });
-        }
-        var battleInfo4 = doc.querySelectorAll('[class^="pop-usual"]');
-        if (battleInfo4) {
-            battleInfo4.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config_simple);
-            });
-        }
-        var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
-        if (battleInfo_btn) {
-            if (doImageSwap)
-                walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
-        }
+        // var battleInfo1 = doc.querySelectorAll('[class^="prt-command-chara"]');
+        // if (battleInfo1) {
+        //     battleInfo1.forEach(bInfo => {
+        //         BattleObserver.observe(bInfo, config_simple);
+        //     });
+        // }
+        // var battleInfo2 = doc.querySelectorAll('[class^="pop-condition"]');
+        // if (battleInfo2) {
+        //     battleInfo2.forEach(bInfo => {
+        //         BattleObserver.observe(bInfo, config_simple);
+        //     });
+        // }
+        // var battleInfo3 = doc.querySelectorAll('[class^="txt-cutin"]');
+        // if (battleInfo3) {
+        //     battleInfo3.forEach(bInfo => {
+        //         BattleObserver.observe(bInfo, config_simple);
+        //     });
+        // }
+        // var battleInfo4 = doc.querySelectorAll('[class^="pop-usual"]');
+        // if (battleInfo4) {
+        //     battleInfo4.forEach(bInfo => {
+        //         BattleObserver.observe(bInfo, config_simple);
+        //     });
+        // }
+        // var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
+        // if (battleInfo_btn) {
+        //     if (doImageSwap)
+        //         walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
+        // }
 
-        var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
-        if (battleInfo_subbtn) {
-            walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
-        }
-        var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
-        if (battleInfo_contrib) {
-            if (doImageSwap)
-                walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
-        }
+        // var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
+        // if (battleInfo_subbtn) {
+        //     walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
+        // }
+        // var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
+        // if (battleInfo_contrib) {
+        //     if (doImageSwap)
+        //         walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
+        // }
 
-        var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
-        if (multilog_overlayer) {
-            if (doImageSwap)
-                walkDownObserver(multilog_overlayer, BattleImageObserver, config);
-        }
+        // var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
+        // if (multilog_overlayer) {
+        //     if (doImageSwap)
+        //         walkDownObserver(multilog_overlayer, BattleImageObserver, config);
+        // }
 
-        var popDIV = doc.getElementById('pop');
-        if (popDIV) {
-            PopObserver.observe(popDIV, config);
-        }
+        // var popDIV = doc.getElementById('pop');
+        // if (popDIV) {
+        //     PopObserver.observe(popDIV, config);
+        // }
 
-        var battleConditionInfo = doc.querySelectorAll('[class^="prt-battle-condition"]');
-        if (battleConditionInfo) {
-            battleConditionInfo.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config);
-            });
-        }
+        // var battleConditionInfo = doc.querySelectorAll('[class^="prt-battle-condition"]');
+        // if (battleConditionInfo) {
+        //     battleConditionInfo.forEach(bInfo => {
+        //         BattleObserver.observe(bInfo, config);
+        //     });
+        // }
 
-        var battleNavi = doc.querySelectorAll('[class^="prt-navi btn-scene-next"]');
-        if (battleNavi) {
-            battleNavi.forEach(bInfo => {
-                BattleObserver.observe(bInfo, config_simple);
-            });
-        }
+        // var battleNavi = doc.querySelectorAll('[class^="prt-navi btn-scene-next"]');
+        // if (battleNavi) {
+        //     battleNavi.forEach(bInfo => {
+        //         BattleObserver.observe(bInfo, config_simple);
+        //     });
+        // }
     }
 }
 async function ObserverImage() {
