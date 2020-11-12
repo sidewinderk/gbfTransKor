@@ -36,10 +36,16 @@ var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source:
 var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
 
 var config = {
-    attributes: true,
+    //attributes: true,
     childList: true,
     subtree: true,
     characterData: true
+};
+var config_image = {
+    attributes: true,
+    //childList: true,
+    subtree: true,
+    //characterData: true
 };
 var config_simple = {
     attributes: true,
@@ -1308,41 +1314,41 @@ const parseCsv = str => {
 //     });
 // }
 async function InitList() {
-//     var chromeOptions = await readChromeOption([
-//         'battleFullInfo',
-//         'sceneFullInfo',
-//         'nTEXT',
-//         'mTEXT',
-//         'verboseMode',
-//         'origin',
-//         'imageswap',
-//         'battleobserver',
-//         'extractMode',
-//         'translateMode',
-//         'userFont',
-//         'userFontName',
-//         'nonTransText'
-//     ]);
-//     if (chromeOptions.sceneFullInfo)
-//         sceneFullInfo = chromeOptions.sceneFullInfo;
-//     if (chromeOptions.battleFullInfo)
-//         battleFullInfo = chromeOptions.battleFullInfo;
-//     if (chromeOptions.nTEXT)
-//         cNames = chromeOptions.nTEXT;
-//     if (chromeOptions.mTEXT)
-//         miscs = chromeOptions.mTEXT;
-//     doImageSwap = chromeOptions.imageswap;
-//     doBattleTrans = chromeOptions.battleobserver;
-//     isVerboseMode = chromeOptions.verboseMode;
-//     transMode = chromeOptions.translateMode;
-//     exMode = chromeOptions.extractMode;
-//     skipTranslatedText = chromeOptions.nonTransText;
-//     if (chromeOptions.origin) {
-//         generalConfig.origin = chromeOptions.origin;
-//     } else
-//         generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
-//     if (chromeOptions.userFont)
-//         generalConfig.defaultFont = chromeOptions.userFont;
+    // var chromeOptions = await readChromeOption([
+    //     'battleFullInfo',
+    //     'sceneFullInfo',
+    //     'nTEXT',
+    //     'mTEXT',
+    //     'verboseMode',
+    //     'origin',
+    //     'imageswap',
+    //     'battleobserver',
+    //     'extractMode',
+    //     'translateMode',
+    //     'userFont',
+    //     'userFontName',
+    //     'nonTransText'
+    // ]);
+    // if (chromeOptions.sceneFullInfo)
+    //     sceneFullInfo = chromeOptions.sceneFullInfo;
+    // if (chromeOptions.battleFullInfo)
+    //     battleFullInfo = chromeOptions.battleFullInfo;
+    // if (chromeOptions.nTEXT)
+    //     cNames = chromeOptions.nTEXT;
+    // if (chromeOptions.mTEXT)
+    //     miscs = chromeOptions.mTEXT;
+    // doImageSwap = chromeOptions.imageswap;
+    // doBattleTrans = chromeOptions.battleobserver;
+    // isVerboseMode = chromeOptions.verboseMode;
+    // transMode = chromeOptions.translateMode;
+    // exMode = chromeOptions.extractMode;
+    // skipTranslatedText = chromeOptions.nonTransText;
+    // if (chromeOptions.origin) {
+    //     generalConfig.origin = chromeOptions.origin;
+    // } else
+    //     generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
+    // if (chromeOptions.userFont)
+    //     generalConfig.defaultFont = chromeOptions.userFont;
 
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
@@ -1371,7 +1377,7 @@ async function InitList() {
         ObserverList = [
             ObserveSceneText(),
             ObserverArchive(),
-            ObserverPop(),
+            //ObserverPop(),
             ObserverStorySelectTexts()
         ];
         if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
@@ -1859,7 +1865,7 @@ function GetTranslatedImage(node, csv) {
         )
             return;
         PrintLog(`Send Image URL:${imageInput}`);
-        if (transMode)
+        if (transMode && doImageSwap)
             translatedText = GetTranslatedImageURL(imageInput, csv);
         if (translatedText.length > 0) {
             // When it founds the translated text
@@ -1887,7 +1893,7 @@ function GetTranslatedImageDIV(node, csv) {
             imageStyle = imageStyleCompute;
         if (UseComputeAfter)
             imageStyle = imageStyleComputeAfter;
-        if (!imageStyle)  return;
+        if (!imageStyle) return;
         if (textInput.includes(generalConfig.origin)) return;
         if (!imageStyle.includes('png') ||
             imageStyle.includes('/ui/') ||
@@ -2031,9 +2037,7 @@ var archiveObserver = new MutationObserver(function (mutations) {
         if (mutation.target) {
             if (
                 !mutation.target.className.includes('txt-message') &&
-                !mutation.target.className.includes('txt-character-name') &&
-                !mutation.target.className.includes('wrapper') &&
-                !mutation.target.className.includes('contents')
+                !mutation.target.className.includes('txt-character-name')
             ) {
                 walkDownTree(mutation.target, GetTranslatedText, archiveJson);
             }
@@ -2045,10 +2049,8 @@ var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserver.disconnect();
     mutations.forEach(mutation => {
-        if (doImageSwap) {
-            if (mutation.target.className && 
-                mutation.target.className == 'contents' ||
-                mutation.target.className.includes('pop-global-menu')) {
+        if (mutation.target) {
+            if (doImageSwap && mutation.target.className) {
                 walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
             }
         }
@@ -2057,22 +2059,17 @@ var ImageObserver = new MutationObserver(function (mutations) {
 });
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
-
     ImageObserverDIV.disconnect();
     mutations.forEach(mutation => {
-        if (doImageSwap) {
-            if (mutation.target.className && 
-                mutation.target.className == 'contents' || 
-                mutation.target.className.includes('pop-global-menu')) {
-                    
+        if (mutation.target) {
+            if (doImageSwap && mutation.target.className) {
                 walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
             }
-
         }
     });
-
     ObserverImageDIV();
 });
+
 var PopObserver = new MutationObserver(function (mutations) {
     PopObserver.disconnect();
     mutations.forEach(mutation => {
@@ -2094,8 +2091,8 @@ var BattleObserver = new MutationObserver(function (mutations) {
     mutations.forEach(mutation => {
         walkDownTree(mutation.target, GetTranslatedText, archiveJson);
         GetTranslatedBattleText(mutation.target, battleJson);
-        
-        if(doImageSwap)
+
+        if (doImageSwap)
             walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
     });
     ObserverBattle();
@@ -2103,7 +2100,7 @@ var BattleObserver = new MutationObserver(function (mutations) {
 
 var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
-    mutations.forEach(mutation => {	
+    mutations.forEach(mutation => {
         walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
 
         var btn_recovery = doc.querySelectorAll('[class^="btn-temporary"]');
@@ -2144,22 +2141,11 @@ async function ObserverArchive() {
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
+    if(doc.URL.includes('#raid')){
+        archiveObserver.disconnect();
         window.setTimeout(ObserverArchive, generalConfig.refreshRate);
         return;
     }
-    if (
-        doc.URL.includes('archive') ||
-        doc.URL.includes('scene') ||
-        doc.URL.includes('story') ||
-        doc.URL.includes('tutorial')
-    ) {
-        ObserverPop();
-        archiveObserver.observe(oText, config);
-        ObserveSceneText();
-        ObserverStorySelectTexts();
-    }
-
     archiveObserver.observe(oText, config);
 }
 
@@ -2259,26 +2245,26 @@ async function ObserverBattle() {
         }
         var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
         if (battleInfo_btn) {
-            if(doImageSwap)
+            if (doImageSwap)
                 walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
         }
-        
+
         var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
         if (battleInfo_subbtn) {
             walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
         }
         var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
         if (battleInfo_contrib) {
-            if(doImageSwap)
+            if (doImageSwap)
                 walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
         }
-        
+
         var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
         if (multilog_overlayer) {
-            if(doImageSwap)
+            if (doImageSwap)
                 walkDownObserver(multilog_overlayer, BattleImageObserver, config);
         }
-        
+
         var popDIV = doc.getElementById('pop');
         if (popDIV) {
             PopObserver.observe(popDIV, config);
@@ -2300,37 +2286,36 @@ async function ObserverBattle() {
     }
 }
 async function ObserverImage() {
-    var allElements = doc.querySelectorAll('[class^="contents"]')[0];
-    // var allElements = doc.getElementById('wrapper');
+    var allElements = doc.getElementById('wrapper');
     if (!allElements) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
+    if(doc.URL.includes('#raid')){
+        ImageObserver.disconnect();
+        archiveObserver.disconnect();
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    ImageObserver.observe(allElements, config);
-    ImageObserver.observe(doc.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
+    ImageObserver.observe(allElements, config_image);
 }
 async function ObserverImageDIV() {
-    var allElements = doc.querySelectorAll('[class^="contents"]')[0];
-    // var allElements = doc.getElementById('wrapper');
+    var allElements = doc.getElementById('wrapper');
     if (!allElements) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
+        window.setTimeout(ObserverImage, generalConfig.refreshRate);
+        return;
+    }
+    if(doc.URL.includes('#raid')){
+        ImageObserver.disconnect();
+        archiveObserver.disconnect();
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid')) {
-        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
-        return;
-    }
-
-    ImageObserverDIV.observe(allElements, config);
-    ImageObserverDIV.observe(doc.querySelectorAll('[class^="pop-global-menu"]')[0], config); // Upper menu
+    ImageObserverDIV.observe(allElements, config_image);
 }
 
 const main = async () => {
