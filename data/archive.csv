@@ -12525,7 +12525,7 @@ Lv** リゼット,Lv** 리제트
 ・報酬受け取り期間は「**/** **:**」までとなりますので、予めご注意ください。
 <li>・デイリーミッションは午前*:**に更新されます。</li>				<li>・デイリーミッションが更新されるまでにコンプリートできなかった場合、各ミッションの達成状況は翌日に引き継がれます。</li>
 <li>・難度「PROUD」は「四象に挑戦」のマルチバトルを自分以外に参戦者がいない状態で*ターン以内に討伐することで解放されます。<br>(*ターンについて)<br>一度攻撃行動を行い、再度攻撃ボタンが表示されるまでの間が*ターンとなります。</li>				<li>・難度「PROUD＋」は難度「PROUD」のクエストすべてをクリアすることで解放されます。</li>				<li>・難度「PROUD」および難度「PROUD＋」のクエストは期間中*回のみ挑戦でき、クリアするまで再挑戦可能です。</li>				<li>・難度「PROUD」および難度「PROUD＋」のクエスト解放状態とクリア報酬は、四象降臨の開催ごとにリセットされます。</li>
-**JP
+
 アークエンジェルワンド ×*
 "<option value=""*"" selected="""">全て</option>	<option value=""*"">交換可能</option>	<option value=""*"">回復アイテム</option>	<option value=""*"">武器</option>	<option value=""*"">その他</option>"
 "柘榴石の鉞									<div class=""ico-weapon-*""></div>"
@@ -12535,7 +12535,7 @@ MAX
 "<div class=""prt-temporary-npc item-length-*"">												<div class=""prt-temporary-npc-comment"">					<div class=""txt-temporary-npc-comment"">						<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">											</div>				</div>								</div>	<div class=""prt-event-item item-length-*"">					<div class=""prt-article-box"">				<div class=""prt-item-image btn-item-image"" data-item-id=""*****"" data-item-name=""ハンサムゴリラのメダリオン"" data-item-comment=""ハンサム・ゴリラで入手できる交換素材。<br>集めることで様々な報酬と交換できる。"" data-item-evo-comment=""下記のイベント限定エクストラクエストで手に入ります<br><br><ul class='yellow-list'><li>・シングルバトル「印刷所への道中にて」</li><li>・シングルバトル「決死の入稿」</li><li>・シングルバトル「ゴリラとの戦い」</li><li>・シングルバトル「ヘル・ゴリラとの議論」</li><li>・マルチバトル「ゴリラとの戦い」</li><li>・マルチバトル「アルカイック・ゴリラとの議論」</li></ul>"" data-item-kind=""**"" data-disable="""" data-unique-article-id="""">					<img class=""img-event-item"" src=""http://game-a.granbluefantasy.jp/assets/img/sp/assets/item/article/s/*****.jpg"">				</div>				<div class=""txt-possessed-item"">*</div>			</div>					<div class=""prt-article-box"">				<div class=""prt-item-image btn-item-image"" data-item-id=""*****"" data-item-name=""ハンサム・ゴリラTA"" data-item-comment=""気力回復、疲労退散、野性爆発──<br>今がその時だ。一気に挑め！"" data-item-evo-comment=""下記のイベント限定エクストラクエストで手に入ります<br><br><ul class='yellow-list'><li>・シングルバトル「印刷所への道中にて」</li><li>・シングルバトル「決死の入稿」</li><li>・シングルバトル「ゴリラとの戦い」</li><li>・シングルバトル「ヘル・ゴリラとの議論」</li><li>・マルチバトル「ゴリラとの戦い」</li><li>・マルチバトル「アルカイック・ゴリラとの議論」</li></ul>"" data-item-kind=""**"" data-disable="""" data-unique-article-id="""">					<img class=""img-event-item"" src=""http://game-a.granbluefantasy.jp/assets/img/sp/assets/item/article/s/*****.jpg"">				</div>				<div class=""txt-possessed-item"">*</div>			</div>							</div>"
 "<div class=""txt-temporary-npc-comment"">						<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">											</div>"
 "<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">"
-ハンサム・ゴリラ
+ハンサム・ゴリラ,핸섬 고릴라
 第*話 かんづめる
 スフィリア王国では、絵物語の『見本市』が開催されようとしており──
 イベントクエストをプレイしますか？
@@ -12564,9 +12564,9 @@ MAX
 トレジャーショップにて栄誉の輝きと交換することで手に入ります。
 トレジャーショップにてダマスカス磁性粒子を交換することで手に入ります
 "デリシャス・バナナ									<div class=""ico-weapon-**""></div>"
-奥義：バナナストリーム
+奥義：バナナストリーム,오의：바나나 스트림
 水属性ダメージ(大)
-スキル：芳醇バナナ
+スキル：芳醇バナナ,스킬：향기로운 바나나
 "デリシャス・バナナ									<div class=""ico-weapon-**"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
 "ファイン・バナナ									<div class=""ico-weapon-*""></div>"
 スキル：甘熟バナナ
