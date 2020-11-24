@@ -64,3 +64,51 @@ test_en,,"Hey, your charge bar is full. Next make a charge attack!",어? 오의�
 test_en,,"Remember, your charge bar fills up whenever you attack or receive damage.","오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
 test_en,,Let's go! Squash this guy with your charge attack!,가자! 오마에의 오의로 창녀석에게<br>마무리를 꽂아줘!!
 test_en,,Alright! You took down those two guys with one hit!,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
+condition_win,,勝利条件
+condition_win,,3ターン以内にゴリラを倒して印刷所へ急げ！
+text_jp,,こんな街中に<br>どうしてゴリラが……！？
+text_en,,What's a gorilla doing in the middle of the city?
+text_jp,,ただのゴリラじゃないわ……<br>そのゴリラ、喋るのよ！！
+text_en,,That's not just any gorilla. This one's a talking gorilla!
+text_jp,,ん……？<br>ハンサム・ゴリラ飲み過ぎた……?
+text_en,,Huh? Did I drink too much Handsome Gorilla?
+text_jp,,ダメだわ……！<br>今はゴリラしか描ける気がしない！
+text_en,,It's no use! I've got writer's gorilla!
+text_jp,,うほ～！
+text_en,,Ooh-ahh!
+text_jp,,うほ～い！
+text_en,,Ooh-ooh-ahh!
+text_jp,,（何もかもがゴリラに見える……）
+text_en,,(Everyone looks like a gorilla...)
+text_jp,,うぅ……<br>栄養分を取りすぎたせいか、<br>ゴリラが二重に見えます……！
+text_en,,"Urgh, I might've gone overboard with the supplements. I'm seeing double... gorillas, that is!"
+text_jp,,喋るゴリラとは珍しいですね～<br>なんとか森に帰さないと～……
+text_en,,"It's not every day you see a talking gorilla. Still, we need to return it to the forest somehow..."
+text_jp,,うほうほ～！
+text_en,,"Ooh-ooh, ahh-ahh!"
+text_jp,,ゴリラも気になるけれど……<br>今は時間がないわ！
+text_en,,I'm a bit concerned about that gorilla... but there's no time to lose!
+text_jp,,みんな、一気に終わらせるわよ！
+text_en,,"Come on, girls! Let's finish this in one go!"
+text_jp,,うほうほ～！！！
+text_en,,"Ooh-ooh, ahh-ahh!"
+text_jp,,ハンサム・ゴリラが効いてきた。<br>私達も反論を始めよう！
+text_en,,The Handsome Gorilla's kicking in. Time for our rebuttal!
+text_jp,,グオォォォ！
+text_en,,Groooar!
+text_jp,,うほ～？<br>うっほうほです～！
+text_en,,"Ooh? Ooh-ooh, ahh-ahh!"
+text_jp,,ここにいる人々の目は曇ってなど<br>いないよ。何を好み、創ろうと<br>それは人の自由なのだから。
+text_en,,The truth is clear to all of us. People are allowed to enjoy and create whatever they want.
+text_jp,,うほぉ！！！
+text_en,,Ooh-ooh!
+text_jp,,そうよ！私たちは誇りをもって<br>絵を描いているの！
+text_en,,Yeah! We take great pride in our art!
+text_jp,,うまくできているか不安になったり<br>批判が怖くなったりもするけど、<br>それを乗り越えてここにいるのよ！
+text_en,,We've all worried over if we did a good job or what criticism we might face. But we overcame that to be here today!
+text_jp,,うっ……この文化に興味のない人が<br>見たら正論だと思うような嫌な主張<br>だけどルナールさんたちなら……！
+text_en,,His claims might sound convincing to people who don't know any better. But I know they can prove him wrong!
+text_jp,,皆さん！<br>空の世界の文化のためにも<br>どうか負けないで……！
+text_en,,"Hang in there, ladies! The fate of the arts is in your hands!"
+text_jp,,うほ！<br>うほうほうほーーー！！！
+text_en,,"Ooh-ooh! Ooh-ooh, ahh-ahh!"
