@@ -1822,29 +1822,29 @@ function translate_StoryText(stext, jsonFile) {
     stext = stext.replace(/\s+/g, " ");
 
     var targetDefaultName = '';
-    //if (userName.length > 0) {
-    if (sex == 0) {
-        if (stext.includes(userName)) {
-            if (curLanugage == 'Japanese') {
-                stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-                targetDefaultName = generalConfig.defaultNameMale_jp;
-            } else if (curLanugage == 'English') {
-                stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
-                targetDefaultName = generalConfig.defaultNameMale_en;
+    if (userName.length > 0) {
+        if (sex == 0) {
+            if (stext.includes(userName)) {
+                if (curLanugage == 'Japanese') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+                    targetDefaultName = generalConfig.defaultNameMale_jp;
+                } else if (curLanugage == 'English') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
+                    targetDefaultName = generalConfig.defaultNameMale_en;
+                }
             }
-        }
-    } else if (sex == 1) {
-        if (stext.includes(userName)) {
-            if (curLanugage == 'Japanese') {
-                stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
-                targetDefaultName = generalConfig.defaultNameFemale_jp;
-            } else if (curLanugage == 'English') {
-                stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
-                targetDefaultName = generalConfig.defaultNameFemale_en;
+        } else if (sex == 1) {
+            if (stext.includes(userName)) {
+                if (curLanugage == 'Japanese') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
+                    targetDefaultName = generalConfig.defaultNameFemale_jp;
+                } else if (curLanugage == 'English') {
+                    stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
+                    targetDefaultName = generalConfig.defaultNameFemale_en;
+                }
             }
         }
     }
-    //}
 
 
     // userName 후처리 작업이 끝난 stext 와 DB에 있는 원문을 비교할때 문제 발생.
