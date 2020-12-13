@@ -21,6 +21,80 @@ text_en,,Can they not hear me anymore?
 text_jp,,どうしよう……！<br>そんな……<br>私、どうすれば……！？
 text_en,,Oh no! What should I do?
 condition_win,,ルリアは直接攻撃ができない……
+condition_win,,異形の化け物を撃破せよ！
+condition_win,,敗北条件：煉󠄁獄杏寿郎の戦闘不能
+text_jp,,仲間には手出しさせん！
+text_en,,You will not touch my comrades!
+condition_win,,幽世の軍勢の進行を食い止めろ！
+condition_win,,敗北条件：いずれかのキャラの戦闘不能
+text_jp,,強力な気配を感じます……！<br>気を付けてください！
+text_en,,I can feel it... A powerful attack's coming! Be careful!
+text_jp,,ここは任せろ。
+text_en,,Leave the rest to me.
+text_jp,,お、おい！　まだ出てくるぜ……！<br>この状況……どうすりゃいいんだ！？
+text_en,,Wh-what the! They just keep spawnin'! How are we supposed to end this nightmare?
+text_jp,,っ、大丈夫か！？
+text_en,,Are you okay!
+text_jp,,ちょっと私に見せて下さい。
+text_en,,Hold still now.
+text_jp,,凄いです！あれだけの傷が<br>一瞬で治っちゃいました……！
+text_en,,What? All those injuries just vanished in an instant!
+text_jp,,私は薬学に精通しているんです。
+text_en,,I know a thing or two about medicine.
+text_jp,,気を抜くな、まだ来るぞ！
+text_en,,On your guard! This battle is not over!
+text_jp,,かく……り……よ……<br>まも……らね…ば……！
+text_en,,Defend... the... Other... world!
+text_jp,,冨岡は援護を頼む！
+text_en,,"Tomioka, we need your help!"
+text_jp,,ここを凌ぎきり、<br>一気に終わらせるぞ！
+text_en,,"If we can hold out against this next attack, this battle is ours!"
+text_jp,,援護する！
+text_en,,"I am with you, Nezha!"
+text_jp,,ふふん！　アタシの魔眼を<br>お見舞いしてあげたわ！
+text_en,,Hah! Gave 'em a taste of my petrifying glare!
+text_jp,,今がチャンスよ！<br>やっちゃいなさい！
+text_en,,Now's your chance! Finish this!
+text_jp,,幽世の門って言うから<br>ビクビクしていたけど、<br>結構いけそうだな！
+text_en,,"Man, I got kinda scared 'cause we're fightin' the Otherworld Gate and all, but this is easier than slicin' through pie!"
+text_jp,,…………<br>（すごく嫌な匂いがする……）
+text_en,,... (I smell danger...)
+text_jp,,妙な術を食らったか……。
+text_en,,What strange art is this...
+text_jp,,ヤベェぞ！ ここは回復に<br>専念した方がいいんじゃねぇか？
+text_en,,Uh-oh! We'd better patch ourselves up—and fast!
+text_jp,,落ち着け、呼吸を整えろ……！<br>俺は、挫けない……！
+text_en,,Calm down... Steady your breathing... I won't let things end here!
+text_jp,,っ！？
+text_en,,...!
+text_jp,,刃を障壁のようなもので<br>弾いているようだな。
+text_en,,It seems your blades are being deflected by some kind of barrier.
+text_jp,,はっはー！　面白ぇ！<br>お前等、伊之助様に続けー！
+text_en,,"Haha! Things are getting interesting! Minions, after me!"
+text_jp,,す、すげぇ……。<br>障壁を破っちまったぜ……。
+text_en,,What the... He just barreled through that force field like it was made of cardboard.
+text_jp,,ワハハハハ！！
+text_en,,Muahahaha!
+text_jp,,おい！　気味悪ぃのが<br>広がってくぞ！？
+text_en,,Hey! The sticky's spreading again!
+text_jp,,ああぁぁぁどうしよう……<br>どうしよう炭治郎ぅぅぅ…… 
+text_en,,Waah... What do we do... What do we do... Tanjirooo...
+text_jp,,…… いや、大丈夫だ。<br>みんなで戦えば、必ず勝てる！
+text_en,,"We'll be fine. As long as we work together, there's nothing that can stop us!"
+text_jp,,もっと、呼吸を<br>研ぎ澄ませるんだ……！
+text_en,,I have to focus my breathing more!
+text_jp,,良く踏みとどまった！<br>竈門少年達！
+text_en,,"You did well to hold out this long, Kamado!"
+text_jp,,敵の術が解けましたね。<br>でも、まだ終わりじゃないようです。
+text_en,,"Yes, its magic's faded. But it seems the fight still isn't over."
+text_jp,,正念場だ！　呼吸を意識しろ！<br>ここで終わらせるぞ！
+text_en,,Draw deep breaths and concentrate! This next blow will decide the battle!
+text_jp,,一気に片を付けましょう。
+text_en,,We'll eradicate them all at once.
+text_jp,,オイラ達も最後までみんなと<br>力を合わせて戦うぜ！
+text_en,,We're with you to the very end!
+text_jp,,呼吸を研ぎ澄ませろ……！<br>ここで必ず倒すんだ……！
+text_en,,Come on... Focus your breathing! It's now or never!
 text_jp,,痛めつけてやる！<br>覚悟しろ！,혼내 주겠다!<br>각오해라!
 text_jp,,クソッ！やるしかねぇようだぜぇ！<br>オマエの剣術なら勝てる！,빌어먹을! 할 수 밖에 없는 것 같아!<br> 너의 검술이라면 이길 수 있어!
 text_jp,,【攻撃】ボタンをタッチして<br>お見舞いしてやれぇ！！,【공격】버튼을 눌러서 <br> 병문안을 하러가자!!
