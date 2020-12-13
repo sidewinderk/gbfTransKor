@@ -10048,46 +10048,46 @@ START:DASH!!,START:DASH!!,,,,,,,,,,,,,,,O
 被ダメージ無効が付与されている光属性キャラの弱体耐性UP,받는 데미지 무효가 부여되어 있는 광속성 캐릭터의 약체내성 UP,,,,,,,,,,,,,,,O
 
 
-"!세르엘(SSR,광속통상)",,,,,,,,,,,,,,,,X,X
-[亡国の血脈],,,,,,,,,,,,,,,,X
-セルエル,,,,,,,,,,,,,,,,X
+"!세르엘(SSR,광속통상)",,,,,,,,,,,,,,,,X,OK
+[亡国の血脈],[망국의 혈맥],,,,,,,,,,,,,,,O
+セルエル,세르엘,,,,,,,,,,,,,,,O
 
-レッドブランチ・サイクル,,,,,,,,,,,,,,,,X
-レッドブランチ・サイクル＋,,,,,,,,,,,,,,,,X
-レッドブランチ・サイクル＋＋,,,,,,,,,,,,,,,,X
-光属性ダメージ(特大)/光属性キャラのクリティカル確率UP,,,,,,,,,,,,,,,,X
-クイックレイド,,,,,,,,,,,,,,,,X
-クイックレイド＋,,,,,,,,,,,,,,,,X
-クイックレイド＋＋,,,,,,,,,,,,,,,,X
-敵に*～*倍光属性ダメージ/自分のアビリティダメージ上限UP(累積),,,,,,,,,,,,,,,,X
-ロイヤルカーテン,,,,,,,,,,,,,,,,X
-ロイヤルカーテン＋,,,,,,,,,,,,,,,,X
-ロイヤルカーテン＋＋,,,,,,,,,,,,,,,,X
-味方全体の弱体効果無効(*回)/自分のダブルアタック率UP,,,,,,,,,,,,,,,,X
-レグルス・グロリア,,,,,,,,,,,,,,,,X
-レグルス・グロリア＋,,,,,,,,,,,,,,,,X
-敵全体に光属性ダメージ/味方全体の奥義ゲージUP,,,,,,,,,,,,,,,,X
-アイルスト王国第一王子,,,,,,,,,,,,,,,,X
-稀にカウンター効果(回避/*回),,,,,,,,,,,,,,,,X
+レッドブランチ・サイクル,레드 블런치・사이클,,,,,,,,,,,,,,,O
+レッドブランチ・サイクル＋,레드 블런치・사이클+,,,,,,,,,,,,,,,O
+レッドブランチ・サイクル＋＋,레드 블런치・사이클++,,,,,,,,,,,,,,,O
+光属性ダメージ(特大)/光属性キャラのクリティカル確率UP,광속성 데미지(특대)/광속성 캐릭터의 크리티컬 확률 UP,,,,,,,,,,,,,,,O
+クイックレイド,퀵 레이드,,,,,,,,,,,,,,,O
+クイックレイド＋,퀵 레이드+,,,,,,,,,,,,,,,O
+クイックレイド＋＋,퀵 레이드++,,,,,,,,,,,,,,,O
+敵に*～*倍光属性ダメージ/自分のアビリティダメージ上限UP(累積),적에게 *～*배의 광속성 데미지/자신의 어빌리티 데미지 상한 UP(누적),,,,,,,,,,,,,,,O
+ロイヤルカーテン,로얄 커튼,,,,,,,,,,,,,,,O
+ロイヤルカーテン＋,로얄 커튼+,,,,,,,,,,,,,,,O
+ロイヤルカーテン＋＋,로얄 커튼++,,,,,,,,,,,,,,,O
+味方全体の弱体効果無効(*回)/自分のダブルアタック率UP,아군 전체의 약체효과 무효(*회)/자신의 더블어택 확률 UP,,,,,,,,,,,,,,,O
+レグルス・グロリア,레글루스・글로리아,,,,,,,,,,,,,,,O
+レグルス・グロリア＋,레글루스・글로리아+,,,,,,,,,,,,,,,O
+敵全体に光属性ダメージ/味方全体の奥義ゲージUP,적 전체에 광속성 데미지/아군 전체의 오의 게이지 UP,,,,,,,,,,,,,,,O
+アイルスト王国第一王子,아일스트 왕국 제 1왕자,,,,,,,,,,,,,,,O
+稀にカウンター効果(回避/*回),드물게 카운터 효과(회피/*회),,,,,,,,,,,,,,,O
 
 
-!소피아(SSR),,,,,,,,,,,,,,,,X,X
-[星跡の巡礼者],,,,,,,,,,,,,,,,X
-ソフィア,,,,,,,,,,,,,,,,X
+!소피아(SSR),,,,,,,,,,,,,,,,X,OK
+[星跡の巡礼者],[별자리의 순례자],,,,,,,,,,,,,,,O
+ソフィア,소피아,,,,,,,,,,,,,,,O
 
-レーベン・シュトラール,,,,,,,,,,,,,,,,X
-レーベン・シュトラール＋,,,,,,,,,,,,,,,,X
-味方全体のHPを回復/光属性攻撃UP/闇属性ダメージ軽減/高揚効果,,,,,,,,,,,,,,,,X
-ハイルミッテル,,,,,,,,,,,,,,,,X
-ハイルミッテル＋,,,,,,,,,,,,,,,,X
-味方単体のHPを回復/対象が瀕死の場合に完全回復,,,,,,,,,,,,,,,,X
-クリア,,,,,,,,,,,,,,,,X
-クリア＋,,,,,,,,,,,,,,,,X
-味方全体の弱体効果を*つ回復,,,,,,,,,,,,,,,,X
-メタノイア,,,,,,,,,,,,,,,,X
-味方単体を復活,,,,,,,,,,,,,,,,X
-ゼエン教僧侶,,,,,,,,,,,,,,,,X
-光属性キャラの被回復上限UP,,,,,,,,,,,,,,,,X
+レーベン・シュトラール,레븐・슈트랄,,,,,,,,,,,,,,,O
+レーベン・シュトラール＋,레븐・슈트랄+,,,,,,,,,,,,,,,O
+味方全体のHPを回復/光属性攻撃UP/闇属性ダメージ軽減/高揚効果,아군 전체의 HP를 회복/광속성 공격 UP/암속성 데미지 경감/고양효과,,,,,,,,,,,,,,,O
+ハイルミッテル,하이르밋텔,,,,,,,,,,,,,,,O
+ハイルミッテル＋,하이르밋텔+,,,,,,,,,,,,,,,O
+味方単体のHPを回復/対象が瀕死の場合に完全回復,아군 한 명의 HP을 회복/대상이 빈사 상태인 경우 완전 회복,,,,,,,,,,,,,,,O
+クリア,클리어,,,,,,,,,,,,,,,O
+クリア＋,클리어+,,,,,,,,,,,,,,,O
+味方全体の弱体効果を*つ回復,아군 전체의 약체효과를 *개 회복,,,,,,,,,,,,,,,O
+メタノイア,메타노이어,,,,,,,,,,,,,,,O
+味方単体を復活,아군 한 명을 부활,,,,,,,,,,,,,,,O
+ゼエン教僧侶,제엔 은사스님,,,,,,,,,,,,,,,O
+光属性キャラの被回復上限UP,광속성 캐릭터의 받는 회복 상한 UP,,,,,,,,,,,,,,,O
 
 
 "!송(SSR,십천중)",,,,,,,,,,,,,,,,X,X
@@ -12508,15 +12508,217 @@ Lv** リゼット,Lv** 리제트
 死光,사광
 溶解液,용해액
 
-
-
-
-
-
-
-
-
 ミレイユさんとリゼットさん<br>仲良しになれて良かったです！
+
+
+
+
+!핸섬고릴라 이벤트
+
+
+デイリーミッションクリアで<br><span>「宝晶石」</span>を手に入れよう！
+「宝晶石」
+"<li>・「四象の輝き」の所持上限は***,***になります。</li>				<li>・「四象の輝き」獲得時に所持数が***,***未満だった場合、所持上限を超えた分の「四象の輝き」も獲得することができます。</li>				<li>・「四象の輝き」が所持上限に達している場合、難度「PROUD」および難度「PROUD＋」のクリア報酬を除き、「四象の輝き」を獲得することができませんのでご注意ください。</li>				<li>・四象降臨で獲得した「四象の輝き」は次回以降も引き継がれます。</li>"
+"・「四象の輝き」の所持上限は***,***になります。"
+"・「四象の輝き」獲得時に所持数が***,***未満だった場合、所持上限を超えた分の「四象の輝き」も獲得することができます。"
+<li>・報酬受け取り期間は「**/** **:**」までとなりますので、予めご注意ください。</li>				<li>・報酬受け取り期間を過ぎてしまうと四象報酬を交換することができなくなります。</li>
+・報酬受け取り期間は「**/** **:**」までとなりますので、予めご注意ください。
+<li>・デイリーミッションは午前*:**に更新されます。</li>				<li>・デイリーミッションが更新されるまでにコンプリートできなかった場合、各ミッションの達成状況は翌日に引き継がれます。</li>
+<li>・難度「PROUD」は「四象に挑戦」のマルチバトルを自分以外に参戦者がいない状態で*ターン以内に討伐することで解放されます。<br>(*ターンについて)<br>一度攻撃行動を行い、再度攻撃ボタンが表示されるまでの間が*ターンとなります。</li>				<li>・難度「PROUD＋」は難度「PROUD」のクエストすべてをクリアすることで解放されます。</li>				<li>・難度「PROUD」および難度「PROUD＋」のクエストは期間中*回のみ挑戦でき、クリアするまで再挑戦可能です。</li>				<li>・難度「PROUD」および難度「PROUD＋」のクエスト解放状態とクリア報酬は、四象降臨の開催ごとにリセットされます。</li>
+
+アークエンジェルワンド ×*
+"<option value=""*"" selected="""">全て</option>	<option value=""*"">交換可能</option>	<option value=""*"">回復アイテム</option>	<option value=""*"">武器</option>	<option value=""*"">その他</option>"
+"柘榴石の鉞									<div class=""ico-weapon-*""></div>"
+MIN
+MAX
+"柘榴石の鉞									<div class=""ico-weapon-*"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
+"<div class=""prt-temporary-npc item-length-*"">												<div class=""prt-temporary-npc-comment"">					<div class=""txt-temporary-npc-comment"">						<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">											</div>				</div>								</div>	<div class=""prt-event-item item-length-*"">					<div class=""prt-article-box"">				<div class=""prt-item-image btn-item-image"" data-item-id=""*****"" data-item-name=""ハンサムゴリラのメダリオン"" data-item-comment=""ハンサム・ゴリラで入手できる交換素材。<br>集めることで様々な報酬と交換できる。"" data-item-evo-comment=""下記のイベント限定エクストラクエストで手に入ります<br><br><ul class='yellow-list'><li>・シングルバトル「印刷所への道中にて」</li><li>・シングルバトル「決死の入稿」</li><li>・シングルバトル「ゴリラとの戦い」</li><li>・シングルバトル「ヘル・ゴリラとの議論」</li><li>・マルチバトル「ゴリラとの戦い」</li><li>・マルチバトル「アルカイック・ゴリラとの議論」</li></ul>"" data-item-kind=""**"" data-disable="""" data-unique-article-id="""">					<img class=""img-event-item"" src=""http://game-a.granbluefantasy.jp/assets/img/sp/assets/item/article/s/*****.jpg"">				</div>				<div class=""txt-possessed-item"">*</div>			</div>					<div class=""prt-article-box"">				<div class=""prt-item-image btn-item-image"" data-item-id=""*****"" data-item-name=""ハンサム・ゴリラTA"" data-item-comment=""気力回復、疲労退散、野性爆発──<br>今がその時だ。一気に挑め！"" data-item-evo-comment=""下記のイベント限定エクストラクエストで手に入ります<br><br><ul class='yellow-list'><li>・シングルバトル「印刷所への道中にて」</li><li>・シングルバトル「決死の入稿」</li><li>・シングルバトル「ゴリラとの戦い」</li><li>・シングルバトル「ヘル・ゴリラとの議論」</li><li>・マルチバトル「ゴリラとの戦い」</li><li>・マルチバトル「アルカイック・ゴリラとの議論」</li></ul>"" data-item-kind=""**"" data-disable="""" data-unique-article-id="""">					<img class=""img-event-item"" src=""http://game-a.granbluefantasy.jp/assets/img/sp/assets/item/article/s/*****.jpg"">				</div>				<div class=""txt-possessed-item"">*</div>			</div>							</div>"
+"<div class=""txt-temporary-npc-comment"">						<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">											</div>"
+"<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">"
+ハンサム・ゴリラ,핸섬 고릴라
+第*話 かんづめる
+スフィリア王国では、絵物語の『見本市』が開催されようとしており──
+イベントクエストをプレイしますか？
+"<span class=""txt-has-number"">*</span>/*"
+ワードセット「天司」
+ワードセット「天司」を解放します。
+ワードセット「堕天司」
+ワードセット「堕天司」を解放します。
+ワードセット「グラブってる*」
+ワードセット「グラブってる*」を解放します。
+召喚：カタストロフ・ピクチュアル
+敵全体に闇属性ダメージ(特大)/光属性攻撃DOWN
+加護：封印されし邪眼
+<ul>								<li>闇属性攻撃力が**%UP</li>																							</ul>
+<li>闇属性攻撃力が**%UP</li>
+"<span class=""txt-has-number"">*</span>/**"
+"バンチ・オブ・バナナス									<div class=""ico-weapon-*""></div>"
+奥義：バナナス・フォールダウン
+スキル：極上バナナ
+スキル：大自然の衝撃
+*回攻撃時に稀に気絶効果　◆メイン装備時/主人公のみ
+"バンチ・オブ・バナナス									<div class=""ico-weapon-*"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
+アーカルムの転世にて<br>様々なアイテムと交換することができます。
+キャラクターのEXリミットボーナスを<br>*～*つ解放することができます。
+降臨、調停の翼やトレジャーショップにて武勲の輝きと交換することで手に入ります。
+トレジャーショップにて栄誉の輝きと交換することで手に入ります。
+トレジャーショップにてダマスカス磁性粒子を交換することで手に入ります
+"デリシャス・バナナ									<div class=""ico-weapon-**""></div>"
+奥義：バナナストリーム,오의：바나나 스트림
+水属性ダメージ(大)
+スキル：芳醇バナナ,스킬：향기로운 바나나
+"デリシャス・バナナ									<div class=""ico-weapon-**"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
+"ファイン・バナナ									<div class=""ico-weapon-*""></div>"
+スキル：甘熟バナナ
+"ファイン・バナナ									<div class=""ico-weapon-*"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
+"スキルジュエル									<div class=""ico-weapon-***""></div>"
+"スキルジュエル									<div class=""ico-weapon-***"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
+マルチバトル「マキュラ・マリウスＨＬ」で手に入ります
+AP回復
+APが全回復していますが、アイテムを使用しますか？
+"AP　***→						<span class=""txt-after-point"">***</span>"
+"<select class=""use-item-num"" data-item-index=""*"">																	<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>															</select>個"
+"<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>"
+"**個→						<span class=""txt-after-num index-*"">**</span>						個"
+"<select class=""use-item-num"" data-item-index=""*"">																	<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""**"">**</option>																	<option value=""**"">**</option>															</select>個"
+"<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""**"">**</option>																	<option value=""**"">**</option>"
+"****個→						<span class=""txt-after-num index-*"">****</span>						個"
+APは***以上回復しません
+
+
+
+うほうほ♪<br>ゴリラ語を勉強してるんだ。
+メリッサベル *
+
+ルナール 戦貨
+ルナール 討伐章
+ルナール 貢献度
+ルナール *
+メリッサベル 戦貨
+メリッサベル 討伐章
+メリッサベル 貢献度
+マキラ 戦貨
+マキラ 討伐章
+マキラ 貢献度
+マキラ *
+ミラオル 戦貨
+ミラオル 討伐章
+ミラオル 貢献度
+ミラオル *
+ザーリリャオー 戦貨
+ザーリリャオー 討伐章
+ザーリリャオー 貢献度
+ザーリリャオー *
+シェロカルテ 戦貨
+シェロカルテ 討伐章
+シェロカルテ 貢献度
+シェロカルテ *
+一同は老人に自分達の絵物語に対する強い想いを伝え──
+"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ルナール *,,,"</option>,"
+館詰すればなんとかなる。<br>そう思ってた、あの頃……
+どうして人は怠けるのか？<br>う～ん、哲学的な問題ね。
+はぁ……<br>また皆に迷惑を……
+見本市の２日前、ルナール達は改めて原稿を進めはじめ──
+"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,メリッサベル,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,マキラ,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミラオル,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ザーリリャオー,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,シェロカルテ,,,"</option>,"
+ミラオル
+ザーリリャオー
+シェロカルテ
+気力が湧いてきたわ！
+"もっと表情を、こう……<br>睫毛も増やそうかな……,"
+"問題はここなんだけど……<br>決めたわ、後で考える！,"
+"消し消し……<br>原稿を破かないようにっと。,"
+"うほうほ～♪,"
+"う……<br>まだ皆がゴリラに見える……,"
+"よぉし……<br>私もがんばらないと！,"
+"交渉の事なら、<br>お任せ下さ～い！,"
+"見本市の前日、ルナールは未だに告白場面の台詞に頭を悩ませており──,"
+"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,メリッサベル,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミラオル,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ザーリリャオー,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,シェロカルテ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,シェロカルテ *,,,"</option>,"
+"あう……<br>ゴールが見えない……,"
+"はぁ……はぁ……<br>あとちょっとなのに……！,"
+ルナール、大丈夫かな……？
+うほ～……？
+うほうほー！
+"朗読会はこりごりだわ……<br>それより締切、急がないと。,"
+"ルナール殿……<br>何か私に出来る事は……,"
+"やはり創作活動とは、<br>大変な作業なんですね～……,"
+"ハンサム・ゴリラＤＡ～！？,"
+"印刷所へと走る一同だったが、無情にも日は落ちてしまっており──,"
+"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,メリッサベル,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,マキラ,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミラオル,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ザーリリャオー,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,シェロカルテ,,,"</option>,"
+"あうぅ……<br>体力の……限界……,"
+"あ、あなたは……！？,"
+"わたしの夢……<br>遠い遠い夢だけど……,"
+"あとちょっと……<br>あとちょっとなのに……！,"
+"うほうほうほ……？,"
+"まずい状況ね……！<br>でも私は全てを諦めない！,"
+"ルナール殿のために、<br>絶対に入稿しましょう！,"
+"この案件は絶対に、<br>成功させてみせますよ～！,"
+"見本市の開催時刻が迫る中、一同は準備に勤しんでおり──,"
+"うはは♪<br>邪眼が疼いてきたわ！,"
+"ついに来たんだ、<br>わたし達の夢の舞台……！,"
+"アルルさんの割烹着姿、<br>夢みたいに素敵だったなぁ。,"
+"わぁ……すごい！<br>楽しいね、書物見本市！,"
+"絵物語は耽美モノの他にも、色々な種類があるんですね。,"
+"これが書物見本市？<br>初めて来たけれど大盛況ね。,"
+"見本市は書物の他に、<br>グッズも豊富なんですね！,"
+"うふふふふ～<br>ついに見本市当日ですね～,"
+"昼過ぎ、耽美絵物語を扱う一画はひっそりとしていた。ルナールは落ち着かない様子で──,"
+"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,メリッサベル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,メリッサベル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミラオル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ミラオル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ザーリリャオー *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,ザーリリャオー *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,シェロカルテ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""*"">",,,,シェロカルテ *,,,"</option>,"
+"イ、イラッシャイマセ～！,"
+"ポポル様……<br>わたし達に力を！,"
+"わたしはもう、諦めない！,"
+"わたしは駄目人間だけど、<br>耽美モノは駄目じゃないわ！,"
+"お客さん達も楽しそう。<br>絵物語ってすごいんだね。,"
+"石頭……！,"
+"絵師さんが違っても、<br>ポポルの顔は概ね一緒です。,"
+"うっほっほー！,"
+"ここにいる人達は皆、<br>絵物語が生き甲斐なのね。,"
+"その苔の生えた思想、<br>いま洗い流してあげるわ！,"
+"絵物語は、<br>皆さんの活力なんですね！,"
+"お互い納得するまで、<br>意見を戦わせましょう！,"
+"絵師さんの努力には、<br>尊敬の念を禁じ得ませ～ん。,"
+"ハンサム・ゴリラＴＡ～！？,"
+"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ルナール 戦貨,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ルナール 討伐章,,,</option>,,,,,"<option data-comment-id=""*"" data-episode-num=""**"">",,,,ルナール 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ルナール *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,メリッサベル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,マキラ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ミラオル *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,ザーリリャオー *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ 戦貨,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ 討伐章,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ 貢献度,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ *,,,</option>,,,,,"<option data-comment-id=""**"" data-episode-num=""**"">",,,,シェロカルテ *,,,"</option>,"
+"あ、戦貨が貯まってるわ。<br>気分転換に交換でもする？,"
+"進捗は上々。<br>ご褒美あ～げよ、自分にね。,"
+"思ったより進んでる……！<br>報酬、貰ってもいいわよね！,"
+"はぁ……<br>なんとか押し切れた……？,"
+"ぴにゃさん、<br>あなたの協力にも<br>感謝するわ。,"
+"次回作はダラダラせず、<br>きちんと準備して<br>臨むわよ～！,"
+"ポポル様グッズ発見！<br>観賞用と保存用と予備と、<br>予備の予備で４つ下さい！,"
+"戦貨が貯まってるよ。<br>手が空いたら交換に行こう。,"
+"うん。いい調子だね。<br>ご褒美が貰えるみたいだよ。,"
+"いっぱいがんばったね。<br>そろそろ報酬を貰おう？,"
+"ふぅ……<br>納得して貰えたかな？,"
+"ルナール、がんばったね。<br>すごいカッコよかったよ。,"
+"あ、ねえねえ。<br>ぴにゃも<br>朗読会する？,"
+"うほうほ。<br>うほうほうほ。,"
+"うほ～？<br>うほうほ、うっほほ～！,"
+"うっほっほ♪<br>うっほうっほ～♪,"
+"うほ～う……！,"
+"うほ～？<br>うほうほうほ、うほ～？,"
+"はむはむはむはむ……,"
+"うほ、うほうほうほ。<br>うっほほ、うっほ、うっほ。,"
+"戦貨が貯まっているわ。<br>忘れないうちに交換したら？,"
+"順調みたいね。<br>ご褒美が出ているわよ。,"
+"なかなかやるじゃない。<br>報酬を受け取りましょう。,"
+"やっと沈黙したわね……！,"
+"ぴにゃ、お疲れ様。<br>貴方の応援にも感謝するわ。,"
+"思えば人が人に見えるって、とてもありがたい事なのね。,"
+"１万ルピ……<br>絵物語の世界は奥が深いわ。,"
+"戦貨が貯まっていますよ。<br>私が交換に参りましょうか？,"
+"良いペースですね。<br>ご褒美を貰えそうですよ！,"
+"素晴らしい手腕ですね！<br>報酬を受け取りましょう！,"
+"まだ議論を続けますか……！,"
+"フフッ！<br>新しい趣味が増えました！,"
+"創作に関われて嬉しいです。ミラも楽しそうだったなぁ。,"
+"マキラ殿のゴリラ語、<br>どうすれば治るんでしょう？,"
+"お疲れ様です～<br>戦貨が貯まってますよ～,"
+"調子が良さそうですね～<br>ご褒美が貰えるそうですよ～,"
+"おめでとうございます～！<br>報酬を受け取りましょ～！,"
+"いかがですか、<br>役員さん～……！,"
+"やあ、ぴにゃ。<br>この演技は慣れないか？,"
+"おこたみ、か……<br>僕も絵物語の勉強をして、<br>次はもっと役に立ちたいな。,"
+"ハンサム・ゴリラですが、<br>製造中止になったそうで～,"
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
@@ -14700,6 +14902,10 @@ OK
 
 !라이징포스 언리쉬더퓨리 에러 팝업창
 魂の解放が不足しているためアビリティを発動できません,영혼의 해방이 부족하여 어빌리티를 발동할 수 없습니다.
+
+
+攻撃力DOWN,공격력DOWN
+防御力DOWN,방어력DOWN
 "!나루메아(SSR,암속통상)",,,,,,,,,,,,,,,,X,OK
 [揺らぎの斬姫],[동요하는 참희],,,,,,,,,,,,,,,O
 ナルメア,나루메아,,,,,,,,,,,,,,,O
@@ -15237,17 +15443,17 @@ CTが溜まらなくなる状態,CT가 차오르지 않게된 상태,,,,,,,,,,,,
 
 燎火の舞,요화의 춤,,,,,,,,,,,,,,,O
 燎火の舞＋,요화의 춤＋,,,,,,,,,,,,,,,O
-自分に炎の舞踊効果/回避率UP/敵対心大幅UP,자신에게 불꽃의 무용 효과/회피율UP/적대심 대폭UP,,,,,,,,,,,,,,,O
+自分に炎の舞踊効果/回避率UP/敵対心大幅UP,자신에게 불꽃의 무용 효과 / 회피율UP / 적대심 대폭UP,,,,,,,,,,,,,,,O
 踊る姿は百合の花,춤추는 모습은 백합꽃,,,,,,,,,,,,,,,O
 踊る姿は百合の花＋,춤추는 모습은 백합꽃+,,,,,,,,,,,,,,,O
-"味方全体に高揚効果/テンションUP<br><span class=""text-blue"">◆炎の舞踊効果中味方全体にストレングス効果追加</span>","아군 전체에 고양효과/텐션UP<br><span class=""text-blue"">◆불꽃의 무용 효과중 아군 전체에게 스트랭스 효과 추가</span>",,,,,,,,,,,,,,,O
+"味方全体に高揚効果/テンションUP<br><span class=""text-blue"">◆炎の舞踊効果中味方全体にストレングス効果追加</span>","아군 전체에 고양효과 / 텐션UP<br><span class=""text-blue"">◆불꽃의 무용 효과중 아군 전체에게 스트랭스 효과 추가</span>",,,,,,,,,,,,,,,O
 拍子舞,박자춤,,,,,,,,,,,,,,,O
 敵の全ての攻撃を回避(*回),적의 모든 공격을 회피(*회),,,,,,,,,,,,,,,O
 
 湯けむり道中,온천증기의 길,,,,,,,,,,,,,,,O
 "自分の回避率UP<br><span class=""text-blue"">◆回避成功時に味方全体のHPを回復/弱体効果を*つ回復</span>","자신의 회피율UP<br><span class=""text-blue"">◆회피성공시에 아군 전체의 HP를 회복/약체효과를 *개 회복</span>",,,,,,,,,,,,,,,O
 私の本音,나의 본심,,,,,,,,,,,,,,,O
-炎の舞踊効果中闇属性キャラの防御UP/連続攻撃確率UP/奥義性能UP,불꽃의 무용 효과중 암속성 캐릭터의 방어UP/연속공격확률UP/오의성능UP,,,,,,,,,,,,,,,O
+炎の舞踊効果中闇属性キャラの防御UP/連続攻撃確率UP/奥義性能UP,불꽃의 무용 효과중 암속성 캐릭터의 방어UP / 연속공격 확률 UP / 오의성능 UP,,,,,,,,,,,,,,,O
 
 味方全体の防御力、連続攻撃確率、奥義性能が上昇した状態(消去不可),아군전체의 방어력、연속공격확률、오의성능이 상승된 상태(소거불가),,,,,,,,,,,,,,,O
 効果中の被ダメージと弱体効果を一定確率で無効化する状態,효과중 받는 데미지와 약체효과를 일정확률로 무효화하는 상태,,,,,,,,,,,,,,,O
