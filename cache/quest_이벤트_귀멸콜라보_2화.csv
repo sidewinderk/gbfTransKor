@@ -1,294 +1,294 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt201208_cp2_q1_s10,synopsis,,メドゥーサはナタクの調べ物に付き合い、フレー島の書庫を訪れていた。幽世について調べていたナタクは、死後の世界に繋がる封印の祠というものがレール島にあるらしいことを知る。「死後の世界」が幽世のことを示しているとすれば、封印の祠が幽世の門の可能性がある。ナタクがメドゥーサと共にレール島へ向かおうとすると、突然誰かの叫び声が聞こえてくるのだった。
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,…………
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,으으……
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"저기, 나타쿠……"
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,<span class='scene-font-4'>잠깐!</span> 나타쿠!
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,"응? 무슨 일이지, 메두사."
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,무슨 일이냐니...
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"아, 역시 너랑 둘만 있는 건 재미없다니까."
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,꼭 이럴 때에만 바알도 사튜로스도 없고 말야...
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,"바알은 밴드 서포트 멤버로 라이브에 참가하고, 마침 근처에 있던 사튜로스는 그걸 보러 간다고 했던가."
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,나도 알거든! 그리고 난 이런 시골 구석에 곰팡이 핀 서재에서 나타쿠랑 둘이 있고...
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,같이 와 줘서 감사한다.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,감사는 무슨... 너 혼자 와도 딱히 상관없었던 거 아냐?
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,[그랑]네랑 같이 옆에 있는 동생 섬에나 갈 걸 그랬어.
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,혼자 오면 외롭잖아?
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"...외롭다니, 네가?"
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,그럼.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,...아 그러셔. 그럼 어쩔 수 없지.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"그래서? 아까부터 계속 같은 책만 들여다보고 있는데, 중요한 거라도 찾아냈어?"
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,그런 편이지.
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,표기는 꽤 간결하지만 지금까지 본 것 중에서는 가장 유력하다.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,흐음...
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"아니, 찾아냈으면 말을 하란 말이야!"
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,사람 끌고 와 놓고서는 너 진짜...
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,...아 됐어. 그래서? 뭐라고 쓰여 있는데?
-Japanese,scene_evt201208_cp2_q1_s10,detail,,<span class='scene-font-katari'>메두사는 나타쿠가 무릎 위에 펼쳐놓은 책을 힐끔거리며 들여다보았다.</span>
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,어라? 뭔가 어린이용 책 같은데?
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,그래. 짧은 옛날이야기처럼 보인다. 하지만 내용이 흥미로워.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,뭔데 뭔데?
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,사당... 흐음... 사후세계라...
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,이 봉인의 사당이라는 게 유세의 문인 건가?
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,"아마도. 유세를 ""사후세계""라고 일컫는 표현은 다른 책에서도 자주 발견된다. "
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,흐음... 두 개의 사당을 동시에 열고... 살아있는 제물이라...
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"아, 약간 흉흉한 내용이 적혀있긴 한데..."
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,이 책 내용대로라면 유세의 문이라는 걸 엄청 간단하게 열 수 있는 모양이네.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,무서운 일이 일어나니까 열면 안 된다고도 쓰여있지만 여는 방법을 같이 적어주면 그게 무슨 소용이야. 
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,인간이란 하지 말라고 들으면 들을수록 참지 못하는 법인걸.
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,"그러게 말이다. 뭐, 이런 전승에서는 흔히 있는 이야기다만..."
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"아, 그런데 중요한 사당의 위치를 모르면 시험해 볼 수도 없겠네."
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,그래. 이 책에 장소는 적혀있지 않아. 하지만...
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,다른 문헌과 대조해 보면 대충 예상이 간다.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,그러셔? 어딘데?
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,옆에 있는 동생 섬... 레일 섬이라고 했던가? 
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,뭐? 동생 섬에 유세의 문이 있는 거야?
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,진짜 유세의 문인지 어떤지는 모른다. 여기 적혀 있는 옛날 이야기 속 사당이 실제로 존재한다면 레일 섬에 있을 거라는 정도지.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"뭐야, 그럼 처음부터 [그랑]네랑 같이 갔으면 좋았잖아."
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,[그랑] 일행은 만물상 의뢰를 받고 갔다고 했던가?
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,그런가 봐. 제대로 안 들어서 내용까지는 모르겠지만.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,끝나면 배를 돌려서 여기 형님 섬으로 온다고 약속했는데...
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,기다리느니 우리가 가는 게 낫겠네.
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,그래. [그랑]이 받은 의뢰가 무엇인지도 신경쓰이니 우리가 동생 섬으로 가자.
-Japanese,scene_evt201208_cp2_q1_s10,detail,,<span class='scene-font-katari'>메두사와 나타쿠는 어둠침침한 서고를 나섰다.</span>
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,동생 섬은 바로 옆이니까 메두시아나로 금방 갈 수 있어.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"나타쿠, 제발 부탁한다고 말하면 너도 태워줄 수도 있는데?"
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,그래? 그럼 제발 부탁한다.
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"헤헤, 어쩔 수 없지."
-Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,"그나저나 나타쿠, 너 왜 갑자기 유세같은 걸 조사하기 시작한 거야?"
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,갑자기 시작한 건 아니다. 전부터 흥미는 있었지.
-Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,다만 최근에...
-Japanese,scene_evt201208_cp2_q1_s10,detail,？？？,<span class='scene-font-4'>싫어어어어어어어어!</span>
-Japanese,scene_evt201208_cp2_q2_s10,synopsis,,炭治郎と同じく赤い渦に吸い込まれた善逸と伊之助。見知らぬ場所に戸惑っているところにしのぶが現れる。しのぶも渦に吸い込まれてしまったらしく、善逸達は炭治郎や煉獄達と合流するため、村人の勧めで港へ向かうことに。しかし港で自分達がいる島が空に浮いていると知った善逸は驚愕し、悲鳴を上げてしまう。するとその悲鳴を聞きつけ、メドゥーサとナタクが現れるのだった。
-Japanese,scene_evt201208_cp2_q2_s10,detail,,<span class='scene-font-katari'>...때는 조금 전으로 돌아간다.</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>싫어싫어싫어싫어!</span> 결국 우리까지 빨려들어왔잖아!
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>시끄러!</span> 이미 알고 있으니까!
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,아아아... 어떡하지... 어떡하지 탄지로오오...
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,어떡하긴 뭘 어떡해. 왜 그렇게 난린데.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,아니 넌 왜 그렇게 태연한데? <span class='scene-font-4'>지금 무슨 상황인지 알기는 해!?</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>여기가 어디야?</span> 아까 있던 데랑 전혀 다른 곳이잖아!
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,아 진짜... 어떡해야 되는 거야...
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,저기 뭐 있는데. 집 아니냐?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,어...?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,...진짜네. 집이 있어. 
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,집이 있으면 사람도 있겠지. 여기가 어딘지는 거기 사는 놈한테 물어보면 빠를 거 아냐.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"...그렇긴 한데, 네가 나보다도 먼저 그렇게 상식적인 말을 하다니... "
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,뭘 쨍알거리고 있어. 꾸물거리지 말고 따라와!
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"...음? 오, 안녕."
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,마침 딱 맞춰 왔군.
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>어이!</span> 거기 너... 
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>잠깐만!!!!!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,"으악! 야, 몬이츠 너! 뭐 하는 짓이야!"
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>너야말로 뭐 하는 짓인데!</span> 뭘 태연하게 말 걸고 앉았어! 
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"이봐, 괜찮아...?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,저걸 보라고! 뿔! 뿔이 있잖아!
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,뭐? 그게 뭐 어쨌다는 거야.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>아니 그러니까...</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,그냥 사람이잖아.
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"저기, 얘들아?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,...진짜네. 사람한테서 나는 소리야...
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,...대체 어떻게 된 거야. 괜찮아?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,저기... 이상한 질문일지도 모르겠지만...
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,여긴 어딘가요...?
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"어디냐니, 프레이 섬인데. 형님 섬이라고 부르는 편이 알기 쉬우려나?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,형님 섬...? 섬?
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,너희는 본 적 없는 얼굴인데 섬 바깥에서 온 거니?
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,"<span class='scene-font-2'>어이, 형님 섬이 뭔데.</span> 도쿄는 어느 쪽이야?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,도쿄...? 그런 건 모르겠군. 이 섬에는 없는 지명인 것 같은데...
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,너 도쿄도 모르냐? 시골뜨기구만!
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>야아아!</span> 그런 실례되는 소리 하지 말라고!
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"하하, 괜찮아. 여긴 파타 그랑데 안에서도 한참 시골이긴 하니까."
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,그래서 너희는 도쿄라는 곳에서 온 거니?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"네, 뭐 그런 셈인데요..."
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,아... 어떡하지. 어떻게 된 건지 전혀 모르겠어...
-Japanese,scene_evt201208_cp2_q2_s10,detail,？？？,그러게요. 곤란하게 됐네요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,...어?
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,안녕하세요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-gray'>시노부 씨!?</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,젠이츠 군하고 이노스케 군. 두 사람이 왜 이런 곳에 있는 건가요?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"아니, 그건 제가 더 궁금한데요..."
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,...그렇게 된 거예요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,그랬군요. 저처럼 붉은 소용돌이에 빨려들어와서 정신이 들고 보니 여기였다라...
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,게다가 뭔가 시간도 살짝 어긋난 듯한 느낌이네요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,시간이 어긋났다고요?
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,저희는 각각 다른 시점에서부터 날려온 거라고 생각해요. 
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,네? 그게 무슨 소린데요?
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"뭐, 별로 중요한 건 아니겠죠. 애초에 상식을 넘어선 사태니까요."
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,뭐가 됐건 어떻게든 돌아가야만 한다는 사실은 변함이 없어요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"여러분, 꺾쇠 까마귀는 근처에 있나요?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"그러고 보니 없네요... 아, 저는 까마귀가 아니고 참새지만요..."
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,이노스케 군은 어떤가요?
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,애초에 요즘 본 적 없어. 그래서 먹어버리지도 못하고 있다니까.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,그렇군요...
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,시노부 씨는요...?
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,저도 그래요. 제 까마귀도 근처에는 없는 것 같네요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,그럼 연락은...
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,당장 연락하는 건 무리겠군요. 난감하네요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"...아무튼 정보가 필요해요. 그리고 가능하면 렌고쿠 씨, 토미오카 씨하고도 합류해야 하고요."
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"어, 그 분들도 여기 와 있는 거예요?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,잘은 모르겠지만 같은 소용돌이에 휘말려들었으니 그럴 가능성이 높겠죠.
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,그럼 몬지로도 있겠네.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"그렇구나, 탄지로랑 네즈코쨩도 있을지도 모르겠어."
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,일차 목표는 다른 분들과 합류하는 것부터겠네요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"그렇지 않아도 예측하지 못한 사태인데, 흩어진 채로는 불안하니까요."
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,저기요~
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"아, 나 말야? 그쪽 이야기는 끝났어?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"네, 죄송해요. 저희 정보를 맞춰보는 데에 시간이 좀 걸렸어요. "
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,"신경쓸 거 없어. 그래서, 무슨 일이야?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"저희는 헤어져 버린 지인들을 찾고 있는데요, 혹시 어떻게 찾아야 할지 아실까요?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,흠... 자세한 사정은 모르겠지만 너희는 전부 이 섬 사람들이 아니지? 그 지인들도 그렇고.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"네, 맞아요."
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,그렇다면...
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,일단 항구에 가 보는 게 좋을걸. 밖에서 사람이 왔다면 본 녀석이 있을지도 모르니까.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,항구라고요... 그건 어느 쪽인가요?
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,여기서 그렇게 멀지는 않으니 괜찮으면 안내해 주지. 우리 마을 말리 항까지 말야.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,감사합니다! 잘 부탁드려요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,작은 항구니까 별로 기대하지는 마.
-Japanese,scene_evt201208_cp2_q2_s10,detail,,<span class='scene-font-katari'>세 사람은 남자의 안내를 받아 말리 항에 도착했다. 그러나...</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>히익...!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,이건...!
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,어?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"<span class='scene-font-4'>자, 잠깐! 잠깐잠깐! 이게 뭐야!</span>"
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,"그 뿔 달린 남성분은 ""항구""라고 말씀하셨죠."
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>이게 항구일 리가 없잖아요!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,항구라는 게 뭔진 알아. 바다잖아. 배가 있는 곳. 이게 바다야?
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>그럴 리가 있겠냐! 어떻게 봐도 하늘이잖아!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,놀랍네요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>거짓말!!</span> 하나도 안 놀란 것 같은데요!!
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>시끄러워!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>뭐라고요? 뭔데? 내가 이상해?</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,누가 봐도 이 상황이 이상한 거거든!!
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,땅이 하늘에 떠 있잖아!!!
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,"...헉, 혹시 나 이미 죽은 건가? 여긴 저 세상인가?"
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>싫어어어어어어어어어!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>시끄럽다고 했잖아!</span>
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,두 분 다 시끄러워요. 진정해 주세요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,저희가 놓인 상황이 이상하다는 건 이미 알고 있었잖아요.
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,아니아니아니아니죠 이건 이미 이상하다는 말로 정리할 문제가 아니거든요!
-Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,아무리 그래도 그렇지 이게 대체 뭔지...
-Japanese,scene_evt201208_cp2_q2_s10,detail,메두사,거기! 왜 그렇게 난리야!
-Japanese,scene_evt201208_cp2_q3_s10,synopsis,,メドゥーサ、ナタクから話を聞き、しのぶはここが自分達の世界とは違う場所であると理解する。善逸達が知り合いを探していると知ったメドゥーサは、隣のレール島にいる[グラン]達に手伝いを頼もうと決め、メドゥシアナを呼び出して善逸達と共にレール島へ向かうのだった。
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,진짜 시끄럽네... 대체 왜 그렇게 난리야?
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,어...?
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,조용한 이 섬에도 시끌벅적한 녀석들이 있군.
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,너희들...
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,강하지? 알 수 있어. 
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,오호... 인간 주제에 보는 눈이 있네.
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,"아니, 인간 맞지? 그 머린 대체 뭐야. 멧돼지?"
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,이 몸은 하시비라 이노스케 님이다! 승부하자!
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,<span class='scene-font-4'>뭐?</span> 보는 눈이 있나 싶었더니 그냥 주제도 모르는 녀석이었구만.
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,하! 주제를 모르는지 어떤지는 해 봐야 알 거 아냐!
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,"<span class='scene-font-4'>잠깐만! 야, 이노스케!</span>"
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,저 둘... 인간이 아냐.
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,소리가 완전 틀려. 혈귀하고도 다르고... 대체 뭐야 진짜!
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,…………
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,……안녕하세요.
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,"음, 안녕."
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,실례지만 두 분은 뭐 하시는 분인가요?
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,적의가 느껴지지는 않지만 인간이 아니신 거죠?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,당연하지. 긍지높은 성정수인 나를 인간같은 거하고 같이 취급하지 마.
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,성... 정수?
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,뭐? 그게 뭐야?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,뭐? 성정수를 모른다니 어떻게 된 거야?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,하늘의 민족이라면 있을 수 없는 일이야!
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,...실례했습니다. 저희의 무지를 사과드릴게요.
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,"그런데 저희, 아무래도 여기가 아닌 어딘가 굉장히 먼 곳에서 흘러들어온 것 같거든요."
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,아 그래.
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,"<span class='scene-font-4'>그, 그래요!</span>"
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠, 땅이 하늘에 떠 있다니 말도 안 돼... 대체 뭐가 뭔지 알 수가 없어서...
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,흐음... 그랬구나.
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,"어, 뭐지 저 반응? 왜 싱겁지?"
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,...자주 있는 일인가요?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,뭐가?
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,저희처럼 전혀 다른 세계에서 갑자기 흘러들어오는 일이요...
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,글쎄. 자주까지는 아니어도 가끔 있는 일 아닌가?
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,그렇군요...
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,그렇다면 역시 렌고쿠 씨랑 다른 분들도 이 세계 어딘가에 있을 가능성이 높겠네요.
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,뭐가 뭔지 모르겠어... 빨리 탄지로랑 만나고 싶어...
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,누군가를 찾고 있는 건가?
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,네. 아마 저희 말고도 세 명 더...
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,마찬가지로 이 세계에 온 지인들이 있을 거예요. 어떻게든 합류해야 하는데...
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,사람을 찾고있나 보군.
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,그렇구나...
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,"그럼 기공정이 있어야 편리하겠네. 아니, 기공정 없이는 아무것도 못 하지."
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,기공정...?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,"너희들, 우리랑 만나서 운 좋은 줄 알아."
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,내가 돌봐주고 있는 기공사가 있으니 태워줄 수 있는지 물어봐 줄게!
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,"<span class='scene-font-4'>기공사...?</span> 뭐, 뭐야? 무슨 소린지 모르겠어."
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,걱정할 거 없어!
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,그 녀석들은 바로 옆쪽 섬에 있으니까 메두시아나로 슈웅~ 데려다 줄게!
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,<span class='scene-font-4'>이봐!</span> 그런 거보다 나랑 승부하자고!
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,특히 거기 너!
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,나 말인가?
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,너한테서 특별히 강한 기운이 느껴진다!
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,"<span class='scene-font-4'>뭐어?</span> 너, 내가 아니고 나타쿠를 고른 거야?"
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,네가 나타쿠한테 덤비기에는 150년쯤 이르거든?
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,<span class='scene-font-4'>시끄러워 꼬맹이 여자!</span> 불만 있으면 너부터 덤벼!
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,너 진짜...! 나랑 싸우는 걸 예선전 정도로 생각하는 거야?
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,선장이 뭐 어쨌다고?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,예선전이라고 했거든! <span class='scene-font-4'>바보 아냐?</span>
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,"메두사, 거기까지 해."
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,으...
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,"이노스케 군, 적당히 해 두세요. 상황이 이해가 안 되는 건가요?"
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,<span class='scene-font-4'>뭐어?</span>
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,시간도 장소도 분간하지 못하고 아무한테나 싸움을 걸어대다니...
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,"약한 개일수록 많이 짖어댄다는 말, 알고 계신가요?"
-Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,크윽...
-Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,...죄송합니다. 무례한 태도를 보여드렸네요. 
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,"아니, 이 쪽이야말로 메두사 때문에 미안했다."
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,"잠깐, 나타쿠. 왜 보호자라도 되는 것처럼 굴어?"
-Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,응?
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,하... 됐어. 빨리 가기나 하자.
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,메두시아나!
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두시아나,────！
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>히익...!</span>
-Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,"자, 감사하면서 메두시아나 등에..."
-Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>끄아아아아아아아악!</span>
-Japanese,scene_evt201208_cp2_q4_s10,synopsis,,トルー村へ向かう山の中で迷ってしまった[グラン]達は、偶然炭治郎達と出会う。ライルの妹が行方不明であると知り、行方不明事件と関係があるかもしれないと考えた[グラン]達はライルから詳しく話を聞かせてもらうことにするのだった。
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,하아... 하아...
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,"저기, 루리아. 괜찮아?"
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,"아, 네! 괜찮아요! 괜찮은데요..."
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,"저기, 마을은 아직 멀었나요?"
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,음... 나도 그게 궁금하던데. 멀었어?
-Japanese,scene_evt201208_cp2_q4_s10,sel1_txt,,<span class='scene-font-katari'>길을 잃은 것 같아</span>
-Japanese,scene_evt201208_cp2_q4_s10,sel2_txt,,<span class='scene-font-katari'>모르겠어...</span>
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,아하하…… 그럴 것 같았어요.
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,"제대로된 지도도 없는데, '길을 잃었다' 라는 말도 좀 이상한 것 같지만.."
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,애초에 제대로된 경로를 잘모른다고 해야하나...
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,이런...
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,"나도 길은 모르겠는데, 이거 완전 미아 신세네."
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,가늘긴 해도 사람이 드나드는 듯한 흔적을 따라왔는데 말이에요...
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,어느 사이엔가 벗어나 버렸나 봐. 생각보다 훨씬 깊은 산이기도 하고. 이대로는 해가 져 버리겠는걸.
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,우리까지 행방불명되겠어.
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,하와와! 그럼 안 돼요~!
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,어떡하죠. 누구한테 물어보고 싶어도 지나가는 사람도 없고...
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,그야 이런 깊은 산 속이니까...
-Japanese,scene_evt201208_cp2_q4_s10,detail,,<span class='scene-font-katari'>희미한 기운과 함께 소리가 들려오자 단장이 무기를 빼들고 앞으로 나섰다.</span>
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,뭐지? 마물인가?
-Japanese,scene_evt201208_cp2_q4_s10,detail,카마도 탄지로,아...
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,"뭐야, 사람이잖아!"
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,다행이에요! 길을 물어볼 수 있겠네요.
-Japanese,scene_evt201208_cp2_q4_s10,detail,카마도 탄지로,너희들은...?
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,안녕하세요! 저희는 고갯길 근처 마을에 가는 중이었는데 길을 잃어버려서요...
-Japanese,scene_evt201208_cp2_q4_s10,detail,라일,"마을이라니, 트루 마을 말야?"
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,"어, 맞아! 어딘지 알아?"
-Japanese,scene_evt201208_cp2_q4_s10,detail,라일,응. 우리 동네야.
-Japanese,scene_evt201208_cp2_q4_s10,detail,렌고쿠 코쥬로,"이 근처에 다른 촌락은 없다고 들었다만, 너희는 어디에서 온 거지?"
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,저희는 기공사예요!
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,의뢰가 있어서 이 동생 섬에 온 건데... 길을 잃었거든.
-Japanese,scene_evt201208_cp2_q4_s10,detail,라일,기공사라고?
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,"네, 맞아요."
-Japanese,scene_evt201208_cp2_q4_s10,detail,라일,"나, 기공사랑 만나는 건 처음이야. 마을엔 무슨 일이야?"
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,이 근처에서 행방불명 사건이 일어났다고 들어서 조사하러 왔어.
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,뭔가 알고 계시는 게 있나요?
-Japanese,scene_evt201208_cp2_q4_s10,detail,라일,행방불명...?
-Japanese,scene_evt201208_cp2_q4_s10,detail,라일,난 잘 모르겠어...
-Japanese,scene_evt201208_cp2_q4_s10,detail,토미오카 기유,여동생은?
-Japanese,scene_evt201208_cp2_q4_s10,detail,렌고쿠 코쥬로,"음, 그렇군!"
-Japanese,scene_evt201208_cp2_q4_s10,detail,렌고쿠 코쥬로,소년의 여동생이 사라진 일이 그 행방불명 사건과 관계가 있을지도 모르겠어!
-Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,동생분이요?
-Japanese,scene_evt201208_cp2_q4_s10,detail,비이,"저기, 괜찮으면 자세히 좀 들려줄래?"
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………,…………
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,…………,…………
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………,…………
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,むぅ……,으으……
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………,…………
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,ねぇ、ナタク……,"저기, 나타쿠……"
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,…………,…………
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,<span class='scene-font-4'>ちょっと！</span><br>ナタクってば！,<span class='scene-font-4'>잠깐!</span> 나타쿠!
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ん？<br>どうした、メドゥーサ。,"응? 무슨 일이지, 메두사."
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,どうしたじゃないわよ……,무슨 일이냐니...
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,あーあ、やっぱりアンタと<br>ふたりなんてつまんないわ。,"아, 역시 너랑 둘만 있는 건 재미없다니까."
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,こんな時に限って<br>バアルもサテュロスも<br>捕まらないなんて……,꼭 이럴 때에만 바알도 사튜로스도 없고 말야...
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,バアルはバンドのサポートで<br>ライブ、たまたま近くにいた<br>サテュロスが見に行くらしいな。,"바알은 밴드 서포트 멤버로 라이브에 참가하고, 마침 근처에 있던 사튜로스는 그걸 보러 간다고 했던가."
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,<span class='scene-font-4'>知ってるわよ！</span><br>そしてアタシはこんな田舎の<br>かび臭い書庫にナタクとふたり……,나도 알거든! 그리고 난 이런 시골 구석에 곰팡이 핀 서재에서 나타쿠랑 둘이 있고...
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,付き合ってくれて感謝してるぞ。,같이 와 줘서 감사한다.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,感謝されてもねぇ……<br>別に、アンタひとりで来ても<br>良かったんじゃない？,감사는 무슨... 너 혼자 와도 딱히 상관없었던 거 아냐?
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,アタシ、[グラン]達と<br>一緒に隣の弟島の方に<br>行けば良かった。,[그랑]네랑 같이 옆에 있는 동생 섬에나 갈 걸 그랬어.
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ひとりだと寂しいだろう？,혼자 오면 외롭잖아?
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,……寂しいってアンタが？,"...외롭다니, 네가?"
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ああ。,그럼.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,……あっそ。<br>ま、仕方ないわね。,...아 그러셔. 그럼 어쩔 수 없지.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,で？ さっきから長いこと<br>同じ本を見てるけど、<br>お目当てを見つけたわけ？,"그래서? 아까부터 계속 같은 책만 들여다보고 있는데, 중요한 거라도 찾아냈어?"
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,そうだな……,그런 편이지.
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,表記はかなり簡素だが<br>今までの中では一番有力だ。,표기는 꽤 간결하지만 지금까지 본 것 중에서는 가장 유력하다.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,ふーん……,흐음...
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,ていうか、見つけたのなら<br>言いなさいよね！,"아니, 찾아냈으면 말을 하란 말이야!"
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,ひとに付き合わせといて<br>アンタって本当に……,사람 끌고 와 놓고서는 너 진짜...
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,……まあいいわ。<br>それで？<br>何て書いてあるの？,...아 됐어. 그래서? 뭐라고 쓰여 있는데?
+Japanese,scene_evt201208_cp2_q1_s10,detail,,<span class='scene-font-katari'>メドゥーサはナタクが</span><br><span class='scene-font-katari'>膝の上で開く本を</span><br><span class='scene-font-katari'>ひょいと覗き込む。</span>,<span class='scene-font-katari'>메두사는 나타쿠가 무릎 위에 펼쳐놓은 책을 힐끔거리며 들여다보았다.</span>
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,あら？<br>なんか子供向けの本みたいじゃない。,어라? 뭔가 어린이용 책 같은데?
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ああ、簡単な昔話のようだ。<br>だが、内容は興味深い。,그래. 짧은 옛날이야기처럼 보인다. 하지만 내용이 흥미로워.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,なになに～……？,뭔데 뭔데?
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,祠……ふむふむ……<br>死後の世界……,사당... 흐음... 사후세계라...
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,……この封印の祠ってのが<br>幽世の門なわけ？,이 봉인의 사당이라는 게 유세의 문인 건가?
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,おそらく、な。<br>幽世を「死後の世界」とする表現は<br>他の本でもよく見られる。,"아마도. 유세를 ""사후세계""라고 일컫는 표현은 다른 책에서도 자주 발견된다. "
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,へぇ……<br>ふたつの祠を同時に開く……<br>生贄……,흐음... 두 개의 사당을 동시에 열고... 살아있는 제물이라...
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,……まぁ、多少物騒なことも<br>書いてあるけど……,"아, 약간 흉흉한 내용이 적혀있긴 한데..."
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,この本の通りなら<br>幽世の門とやらは随分と簡単に<br>開いちゃうみたいじゃない。,이 책 내용대로라면 유세의 문이라는 걸 엄청 간단하게 열 수 있는 모양이네.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,怖いことがおきるから<br>開けちゃダメって本では言ってるけど<br>やり方を書いたら意味ないわよ。,무서운 일이 일어나니까 열면 안 된다고도 쓰여있지만 여는 방법을 같이 적어주면 그게 무슨 소용이야. 
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,人間なんて、<br>ダメって言われたって結局<br>我慢できないもんなんだから。,인간이란 하지 말라고 들으면 들을수록 참지 못하는 법인걸.
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,そうだな。<br>まぁこういう伝承の類では<br>よくあることだが……,"그러게 말이다. 뭐, 이런 전승에서는 흔히 있는 이야기다만..."
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,あ、でも肝心の祠の場所が<br>わからなかったら<br>試しようもないわね。,"아, 그런데 중요한 사당의 위치를 모르면 시험해 볼 수도 없겠네."
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ああ、この本には場所は<br>書かれていない。<br>だが……,그래. 이 책에 장소는 적혀있지 않아. 하지만...
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,他の文献と合わせれば、<br>おおよそ予想はできる。,다른 문헌과 대조해 보면 대충 예상이 간다.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,へぇ？<br>どこなの？,그러셔? 어딘데?
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,隣の弟島……<br>レール島と言ったか？,옆에 있는 동생 섬... 레일 섬이라고 했던가? 
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,え、弟島に幽世の門があるの！？,뭐? 동생 섬에 유세의 문이 있는 거야?
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,本当に幽世の門かはわからん。<br>ここに書かれた昔話の祠があるなら<br>レール島だろう、という程度だ。,진짜 유세의 문인지 어떤지는 모른다. 여기 적혀 있는 옛날 이야기 속 사당이 실제로 존재한다면 레일 섬에 있을 거라는 정도지.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,なぁんだ、それなら<br>最初から[グラン]達と<br>一緒に行けばよかったじゃない。,"뭐야, 그럼 처음부터 [그랑]네랑 같이 갔으면 좋았잖아."
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,[グラン]達は<br>よろず屋からの依頼を<br>受けているんだったか？,[그랑] 일행은 만물상 의뢰를 받고 갔다고 했던가?
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,そうみたい。<br>ちゃんと聞いてなかったから<br>内容はわからないけど。,그런가 봐. 제대로 안 들어서 내용까지는 모르겠지만.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,終わったら、艇を回して<br>こっちの兄島に来るって<br>約束なんだけど……,끝나면 배를 돌려서 여기 형님 섬으로 온다고 약속했는데...
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,待つよりも行く方がよさそうね。,기다리느니 우리가 가는 게 낫겠네.
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ああ。[グラン]達が受けた<br>依頼というのも気になるし、<br>俺達が弟島に行こう。,그래. [그랑]이 받은 의뢰가 무엇인지도 신경쓰이니 우리가 동생 섬으로 가자.
+Japanese,scene_evt201208_cp2_q1_s10,detail,,<span class='scene-font-katari'>メドゥーサとナタクのふたりは</span><br><span class='scene-font-katari'>薄暗い書庫を出る。</span>,<span class='scene-font-katari'>메두사와 나타쿠는 어둠침침한 서고를 나섰다.</span>
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,弟島はすぐそこだから<br>メドゥシアナならひとっとびだわ。,동생 섬은 바로 옆이니까 메두시아나로 금방 갈 수 있어.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,ナタク、どうしてもって言うなら<br>アンタも乗せてあげてもいいわよ！,"나타쿠, 제발 부탁한다고 말하면 너도 태워줄 수도 있는데?"
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,そうか？<br>それならどうしても、だ。<br>頼む。,그래? 그럼 제발 부탁한다.
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,ふふっ、仕方ないわね。,"헤헤, 어쩔 수 없지."
+Japanese,scene_evt201208_cp2_q1_s10,detail,메두사,それにしてもナタク、<br>アンタ、なんだって急に<br>幽世なんかのことを調べ始めたわけ？,"그나저나 나타쿠, 너 왜 갑자기 유세같은 걸 조사하기 시작한 거야?"
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,急に、というわけでもない。<br>前々から興味はあった。,갑자기 시작한 건 아니다. 전부터 흥미는 있었지.
+Japanese,scene_evt201208_cp2_q1_s10,detail,나타쿠,ただ最近──,다만 최근에...
+Japanese,scene_evt201208_cp2_q1_s10,detail,？？？,<span class='scene-font-4'>イィィィヤァァァァーーーッ！！</span>,<span class='scene-font-4'>싫어어어어어어어어!</span>
+Japanese,scene_evt201208_cp2_q2_s10,synopsis,,炭治郎と同じく赤い渦に吸い込まれた善逸と伊之助。見知らぬ場所に戸惑っているところにしのぶが現れる。しのぶも渦に吸い込まれてしまったらしく、善逸達は炭治郎や煉獄達と合流するため、村人の勧めで港へ向かうことに。しかし港で自分達がいる島が空に浮いていると知った善逸は驚愕し、悲鳴を上げてしまう。するとその悲鳴を聞きつけ、メドゥーサとナタクが現れるのだった。,炭治郎と同じく赤い渦に吸い込まれた善逸と伊之助。見知らぬ場所に戸惑っているところにしのぶが現れる。しのぶも渦に吸い込まれてしまったらしく、善逸達は炭治郎や煉獄達と合流するため、村人の勧めで港へ向かうことに。しかし港で自分達がいる島が空に浮いていると知った善逸は驚愕し、悲鳴を上げてしまう。するとその悲鳴を聞きつけ、メドゥーサとナタクが現れるのだった。
+Japanese,scene_evt201208_cp2_q2_s10,detail,,<span class='scene-font-katari'>──時間はほんの少し戻る。</span>,<span class='scene-font-katari'>...때는 조금 전으로 돌아간다.</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>いやいやいやいやいや！</span><br>結局俺達も<br>吸い込まれちゃったじゃん！！,<span class='scene-font-4'>싫어싫어싫어싫어!</span> 결국 우리까지 빨려들어왔잖아!
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>うるせぇっ！</span><br>んなこた分かってんだよ！,<span class='scene-font-4'>시끄러!</span> 이미 알고 있으니까!
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,ああぁぁぁどうしよう……<br>どうしよう炭治郎ぅぅぅ……,아아아... 어떡하지... 어떡하지 탄지로오오...
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,どうもこうもねぇだろ。<br>何を大騒ぎしてんだ。,어떡하긴 뭘 어떡해. 왜 그렇게 난린데.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,逆にお前は<br>なんでそんな平気そうなの！？<br><span class='scene-font-4'>この状況、わかってるのか！？</span>,아니 넌 왜 그렇게 태연한데? <span class='scene-font-4'>지금 무슨 상황인지 알기는 해!?</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>ここはどこなわけ！？</span><br>さっきまでとは<br>全然違う場所なんだけど！？,<span class='scene-font-4'>여기가 어디야?</span> 아까 있던 데랑 전혀 다른 곳이잖아!
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,あぁもう……<br>どうすりゃいいんだよぉ……！,아 진짜... 어떡해야 되는 거야...
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,あっちに何かあるぞ。<br>家じゃねぇか？,저기 뭐 있는데. 집 아니냐?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,へ……？,어...?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,……本当だ。<br>家があるじゃん。,...진짜네. 집이 있어. 
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,家があんなら人がいるだろ。<br>ここがどこかは住んでる奴に<br>聞きゃあ早い。,집이 있으면 사람도 있겠지. 여기가 어딘지는 거기 사는 놈한테 물어보면 빠를 거 아냐.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,……その通りなんだけど、<br>そういう常識的なことを<br>お前に先に言われると……,"...그렇긴 한데, 네가 나보다도 먼저 그렇게 상식적인 말을 하다니... "
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,何ぶつくさ言ってんだ。<br>ぐずぐずしてないで<br>俺に続け！,뭘 쨍알거리고 있어. 꾸물거리지 말고 따라와!
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,……ん？<br>やぁ、こんにちは。,"...음? 오, 안녕."
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,ちょうどいいところに<br>来たじゃねぇか。,마침 딱 맞춰 왔군.
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>おい！</span><br>そこのお前──,<span class='scene-font-4'>어이!</span> 거기 너... 
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>はい待ってーーー！！</span>,<span class='scene-font-4'>잠깐만!!!!!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,んがっ！？<br>おい紋逸テメェ！<br>何しやがんだっ！？,"으악! 야, 몬이츠 너! 뭐 하는 짓이야!"
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>お前が何しやがってんだ！！</span><br>何普通に話しかけてるの！？,<span class='scene-font-4'>너야말로 뭐 하는 짓인데!</span> 뭘 태연하게 말 걸고 앉았어! 
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,おい、大丈夫か……？,"이봐, 괜찮아...?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,見なさいってば！<br>角！！<br>角があるでしょ！？,저걸 보라고! 뿔! 뿔이 있잖아!
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,はぁ？<br>だからなんだってんだよ。,뭐? 그게 뭐 어쨌다는 거야.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>だから……！</span>,<span class='scene-font-4'>아니 그러니까...</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,ただの人間だろ。,그냥 사람이잖아.
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,おーい、君達？,"저기, 얘들아?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,……本当だ。<br>人間の音だ……,...진짜네. 사람한테서 나는 소리야...
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,……本当にどうしたんだ？<br>大丈夫かい？,...대체 어떻게 된 거야. 괜찮아?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,あの、つかぬことを<br>お尋ねしますが……,저기... 이상한 질문일지도 모르겠지만...
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,ここは、どこでしょうか……？,여긴 어딘가요...?
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,どこって、フレー島だが……<br>兄島って呼び名の方が通りがいいか。,"어디냐니, 프레이 섬인데. 형님 섬이라고 부르는 편이 알기 쉬우려나?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,あに、じま……？<br>島？,형님 섬...? 섬?
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,君達見ない顔だし<br>島外から来たんじゃないのかい？,너희는 본 적 없는 얼굴인데 섬 바깥에서 온 거니?
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-2'>おい、兄島ってなんだ。</span><br>東京のどこら辺だ？,"<span class='scene-font-2'>어이, 형님 섬이 뭔데.</span> 도쿄는 어느 쪽이야?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,トウキョウ……？<br>ってのが俺にはわからないなぁ。<br>この島にはない地名だと思うが……,도쿄...? 그런 건 모르겠군. 이 섬에는 없는 지명인 것 같은데...
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,お前、東京も知らねぇのか！<br>田舎もんだな！,너 도쿄도 모르냐? 시골뜨기구만!
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>おい！</span><br>失礼なこと言うなよ！,<span class='scene-font-4'>야아아!</span> 그런 실례되는 소리 하지 말라고!
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,ははは、いいんだよ。<br>ここはファータ・グランデの中でも<br>特に田舎だから。,"하하, 괜찮아. 여긴 파타 그랑데 안에서도 한참 시골이긴 하니까."
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,で、君達はその<br>トウキョウってところから<br>来たのかい？,그래서 너희는 도쿄라는 곳에서 온 거니?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,ええ、まぁそうなんですけど……,"네, 뭐 그런 셈인데요..."
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,えー……どうしよう、<br>全然状況がわからない……,아... 어떡하지. 어떻게 된 건지 전혀 모르겠어...
+Japanese,scene_evt201208_cp2_q2_s10,detail,？？？,ええ、困りましたね。,그러게요. 곤란하게 됐네요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,……え？,...어?
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,こんにちは。,안녕하세요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>しのぶさん！？</span>,<span class='scene-font-gray'>시노부 씨!?</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,善逸君に伊之助君。<br>おふたりが、どうしてここに？,젠이츠 군하고 이노스케 군. 두 사람이 왜 이런 곳에 있는 건가요?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,いや、それは俺が<br>聞きたいんですけど……,"아니, 그건 제가 더 궁금한데요..."
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,──ってわけです。,...그렇게 된 거예요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,なるほど。<br>同じように赤い渦に吸い込まれて<br>気が付いたらここに……,그랬군요. 저처럼 붉은 소용돌이에 빨려들어와서 정신이 들고 보니 여기였다라...
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,それにどうやら、時間も少し<br>ズレているようですね。,게다가 뭔가 시간도 살짝 어긋난 듯한 느낌이네요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,時間が、ズレてる？,시간이 어긋났다고요?
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,私達は、それぞれ異なる時点から<br>飛ばされて来たように思えます。,저희는 각각 다른 시점에서부터 날려온 거라고 생각해요. 
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,えっ！？<br>どういうことですか！？,네? 그게 무슨 소린데요?
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,まあ、取るに足らないことでしょう。<br>そもそも常識を超えた<br>事態なのですから。,"뭐, 별로 중요한 건 아니겠죠. 애초에 상식을 넘어선 사태니까요."
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,どちらにしても、どうにかして<br>戻らなければいけないことに<br>変わりはありません。,뭐가 됐건 어떻게든 돌아가야만 한다는 사실은 변함이 없어요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,おふたり共、鎹鴉は近くにいますか？,"여러분, 꺾쇠 까마귀는 근처에 있나요?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,そういえばいないな。<br>まぁ俺のは鴉じゃなくて<br>雀なんですけど……,"그러고 보니 없네요... 아, 저는 까마귀가 아니고 참새지만요..."
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,伊之助君はどうですか？,이노스케 군은 어떤가요?
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,そもそも、しばらく見てねぇ。<br>おかげで食いそびれたままだぜ。,애초에 요즘 본 적 없어. 그래서 먹어버리지도 못하고 있다니까.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,そうですか……,그렇군요...
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,しのぶさんは……？,시노부 씨는요...?
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,同じです。<br>私の鴉も近くにはいないようで。,저도 그래요. 제 까마귀도 근처에는 없는 것 같네요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,それじゃあ連絡……,그럼 연락은...
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,すぐには無理そうですね。<br>困りました。,당장 연락하는 건 무리겠군요. 난감하네요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,……ともかく、情報が欲しいですね。<br>それから、できれば<br>煉獄さんと冨岡さんと合流も。,"...아무튼 정보가 필요해요. 그리고 가능하면 렌고쿠 씨, 토미오카 씨하고도 합류해야 하고요."
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,えっ、そのふたりも<br>ここに来てるんですか！？,"어, 그 분들도 여기 와 있는 거예요?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,わかりませんが、<br>同じ渦に飲み込まれたのですから<br>可能性は高いです。,잘은 모르겠지만 같은 소용돌이에 휘말려들었으니 그럴 가능성이 높겠죠.
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,それじゃあ紋次郎もじゃねぇか。,그럼 몬지로도 있겠네.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,そうか、炭治郎と禰豆子ちゃんも<br>いるかもしれないんだな。,"그렇구나, 탄지로랑 네즈코쨩도 있을지도 모르겠어."
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,当面の目的は、皆さんと<br>合流することですね。,일차 목표는 다른 분들과 합류하는 것부터겠네요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,ただでさえ不測の事態……<br>バラバラのままでは<br>心許ないですから。,"그렇지 않아도 예측하지 못한 사태인데, 흩어진 채로는 불안하니까요."
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,すみませーん！,저기요~
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,お、俺かい？<br>そちらの話は終わったのかな？,"아, 나 말야? 그쪽 이야기는 끝났어?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,ええ、申し訳ありません。<br>こちらの情報のすり合わせに<br>時間がかかってしまって。,"네, 죄송해요. 저희 정보를 맞춰보는 데에 시간이 좀 걸렸어요. "
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,そんなことはいいんだよ。<br>それで、何だい？,"신경쓸 거 없어. 그래서, 무슨 일이야?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,私達、はぐれた知人を<br>探したいのですが、何か<br>方法に心当たりはありませんか？,"저희는 헤어져 버린 지인들을 찾고 있는데요, 혹시 어떻게 찾아야 할지 아실까요?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,うーん……事情はよくわからんが、<br>君達は皆、島の人ではないんだろ？<br>その知人とやらも。,흠... 자세한 사정은 모르겠지만 너희는 전부 이 섬 사람들이 아니지? 그 지인들도 그렇고.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,はい、そうですね。,"네, 맞아요."
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,それならなぁ……,그렇다면...
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,まず、港に行くのがいいかもな。<br>外から人が来たなら<br>見た奴がいるかもしれないし。,일단 항구에 가 보는 게 좋을걸. 밖에서 사람이 왔다면 본 녀석이 있을지도 모르니까.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,港ですか……<br>それはどちらに？,항구라고요... 그건 어느 쪽인가요?
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,ここからそんなに遠くはないが<br>良かったら案内するよ。<br>俺の村マレーの港まで。,여기서 그렇게 멀지는 않으니 괜찮으면 안내해 주지. 우리 마을 말리 항까지 말야.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,それは助かります！<br>よろしくお願いしますね。,감사합니다! 잘 부탁드려요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,드라프 남성,小さな港だから、<br>あまり期待しないでくれよ。,작은 항구니까 별로 기대하지는 마.
+Japanese,scene_evt201208_cp2_q2_s10,detail,,<span class='scene-font-katari'>３人は、男の案内で</span><br><span class='scene-font-katari'>マレーの港までやって来るが──</span>,<span class='scene-font-katari'>세 사람은 남자의 안내를 받아 말리 항에 도착했다. 그러나...</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>ヒィ……！？</span>,<span class='scene-font-4'>히익...!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,これは……！,이건...!
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,んあ？,어?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>いや、待って！？</span><br><span class='scene-font-4'>ねぇ待ってってば！！</span><br><span class='scene-font-4'>コレは何！？</span>,"<span class='scene-font-4'>자, 잠깐! 잠깐잠깐! 이게 뭐야!</span>"
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,あの角の男性は「港」だと<br>仰っていましたね。,"그 뿔 달린 남성분은 ""항구""라고 말씀하셨죠."
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>そんなわけないですよね！？</span>,<span class='scene-font-4'>이게 항구일 리가 없잖아요!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,港ってのは知ってるぜ。<br>海だろ。船があるところだ。<br>コレが海か？,항구라는 게 뭔진 알아. 바다잖아. 배가 있는 곳. 이게 바다야?
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>んなワケあるか！！</span><br><span class='scene-font-4'>どう見たって空だろ！！</span>,<span class='scene-font-4'>그럴 리가 있겠냐! 어떻게 봐도 하늘이잖아!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,驚きましたね。,놀랍네요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>嘘っ！</span><br>全然驚いてる感じしないんですけど！？,<span class='scene-font-4'>거짓말!!</span> 하나도 안 놀란 것 같은데요!!
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>うっるせぇなぁ！</span>,<span class='scene-font-4'>시끄러워!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>はいぃ？</span><br><span class='scene-font-4'>何ですか！？</span><br><span class='scene-font-4'>俺がおかしいの！？</span>,<span class='scene-font-4'>뭐라고요? 뭔데? 내가 이상해?</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,どう考えたって、<br>おかしいのはこの状況だろ！？,누가 봐도 이 상황이 이상한 거거든!!
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,だって地面が空に<br>浮いてるんだぞ！？,땅이 하늘에 떠 있잖아!!!
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,……はっ！ もしかして俺、<br>もう死んじゃってる！？<br>ここはあの世！？,"...헉, 혹시 나 이미 죽은 건가? 여긴 저 세상인가?"
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>イィィィヤァァァァーーーッ！！</span>,<span class='scene-font-4'>싫어어어어어어어어어!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,하시비라 이노스케,<span class='scene-font-4'>うるせぇって言ってんだろ！！</span>,<span class='scene-font-4'>시끄럽다고 했잖아!</span>
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,おふたりともうるさいです。<br>少し落ち着いてください。,두 분 다 시끄러워요. 진정해 주세요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,코쵸 시노부,私達の置かれた状況が異常なのは<br>もうわかっていたはずですよ。,저희가 놓인 상황이 이상하다는 건 이미 알고 있었잖아요.
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,いやいやいやいや、コレはもう<br>異常とかで片付けていい問題じゃ<br>ないですから！！,아니아니아니아니죠 이건 이미 이상하다는 말로 정리할 문제가 아니거든요!
+Japanese,scene_evt201208_cp2_q2_s10,detail,아가츠마 젠이츠,いくら何でも<br>ワケがわからなすぎて……,아무리 그래도 그렇지 이게 대체 뭔지...
+Japanese,scene_evt201208_cp2_q2_s10,detail,메두사,ちょっとぉ！<br>何の騒ぎ！？,거기! 왜 그렇게 난리야!
+Japanese,scene_evt201208_cp2_q3_s10,synopsis,,メドゥーサ、ナタクから話を聞き、しのぶはここが自分達の世界とは違う場所であると理解する。善逸達が知り合いを探していると知ったメドゥーサは、隣のレール島にいる[グラン]達に手伝いを頼もうと決め、メドゥシアナを呼び出して善逸達と共にレール島へ向かうのだった。,メドゥーサ、ナタクから話を聞き、しのぶはここが自分達の世界とは違う場所であると理解する。善逸達が知り合いを探していると知ったメドゥーサは、隣のレール島にいる[グラン]達に手伝いを頼もうと決め、メドゥシアナを呼び出して善逸達と共にレール島へ向かうのだった。
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,うるっさいわねぇ……<br>いったい何を大騒ぎしてるわけ？,진짜 시끄럽네... 대체 왜 그렇게 난리야?
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,へ……？,어...?
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,静かなこの島にも<br>賑やかな奴らがいるもんだな。,조용한 이 섬에도 시끌벅적한 녀석들이 있군.
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,お前ら……,너희들...
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,強いな？<br>わかるぞ。,강하지? 알 수 있어. 
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,へぇ……<br>見どころあるじゃない。<br>人間のくせに……,오호... 인간 주제에 보는 눈이 있네.
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,って、人間よね？<br>何よその頭は。<br>猪？,"아니, 인간 맞지? 그 머린 대체 뭐야. 멧돼지?"
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,俺は嘴平伊之助様だ！<br>勝負しやがれ！！,이 몸은 하시비라 이노스케 님이다! 승부하자!
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,<span class='scene-font-4'>はぁ？</span><br>見どころあるかと思ったら<br>ただの身の程知らずじゃない。,<span class='scene-font-4'>뭐?</span> 보는 눈이 있나 싶었더니 그냥 주제도 모르는 녀석이었구만.
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,はっ！<br>身の程知らずかどうかは<br>やってみればわかるだろ！,하! 주제를 모르는지 어떤지는 해 봐야 알 거 아냐!
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>待てって！</span><br><span class='scene-font-4'>おい、伊之助！</span>,"<span class='scene-font-4'>잠깐만! 야, 이노스케!</span>"
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,そのふたり……<br>人間じゃないぞ。,저 둘... 인간이 아냐.
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,音が全然違う……<br>鬼とも違うし、<br>いったい何なんだよ！,소리가 완전 틀려. 혈귀하고도 다르고... 대체 뭐야 진짜!
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,…………,…………
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,……こんにちは。,……안녕하세요.
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,ああ、こんにちは。,"음, 안녕."
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,失礼ですが、<br>おふたりは何者ですか？,실례지만 두 분은 뭐 하시는 분인가요?
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,敵意は感じませんが<br>人間ではありませんよね？,적의가 느껴지지는 않지만 인간이 아니신 거죠?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,当たり前でしょ？<br>誇り高き星晶獣であるこのアタシを<br>人間なんかと一緒にしないでよね。,당연하지. 긍지높은 성정수인 나를 인간같은 거하고 같이 취급하지 마.
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,せい、しょうじゅう……？,성... 정수?
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,へ？<br>何それ？,뭐? 그게 뭐야?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,はぁ？<br>星晶獣を知らないとか<br>どういうこと？,뭐? 성정수를 모른다니 어떻게 된 거야?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,空の民としてありえないでしょ！？,하늘의 민족이라면 있을 수 없는 일이야!
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,……失礼しました。<br>無知はお詫びします。,...실례했습니다. 저희의 무지를 사과드릴게요.
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,でも私達、どうやらここではない<br>どこか……相当に遠くから<br>迷い込んで来てしまったようなんです。,"그런데 저희, 아무래도 여기가 아닌 어딘가 굉장히 먼 곳에서 흘러들어온 것 같거든요."
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,へぇ～,아 그래.
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>そ、そうなんです！</span>,"<span class='scene-font-4'>그, 그래요!</span>"
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,地面が空に浮いてるとか<br>あり得ないし……もう何が何やら<br>わけがわからなくて……, 땅이 하늘에 떠 있다니 말도 안 돼... 대체 뭐가 뭔지 알 수가 없어서...
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,ふーん、そうなのね。,흐음... 그랬구나.
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,え、何その反応……？<br>うすくない？,"어, 뭐지 저 반응? 왜 싱겁지?"
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,……よくあるんですか？,...자주 있는 일인가요?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,何が？,뭐가?
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,私達のように、まったく別の世界から<br>突然迷い込んでくる、<br>というようなことは……,저희처럼 전혀 다른 세계에서 갑자기 흘러들어오는 일이요...
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,そうねぇ……<br>よくって程じゃあないけど、<br>たまにはあるんじゃない？,글쎄. 자주까지는 아니어도 가끔 있는 일 아닌가?
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,そうですか……,그렇군요...
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,それならやっぱり<br>煉獄さん達もこの世界の<br>どこかにいる可能性は高そうですね。,그렇다면 역시 렌고쿠 씨랑 다른 분들도 이 세계 어딘가에 있을 가능성이 높겠네요.
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,もうわけがわかんない……<br>はやく炭治郎に会いたい……,뭐가 뭔지 모르겠어... 빨리 탄지로랑 만나고 싶어...
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,誰か探しているのか？,누군가를 찾고 있는 건가?
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,ええ。<br>おそらく私達の他にも３人……,네. 아마 저희 말고도 세 명 더...
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,同じようにこの世界へ<br>来ている知人がいるはずなんです。<br>何とか合流しないと……,마찬가지로 이 세계에 온 지인들이 있을 거예요. 어떻게든 합류해야 하는데...
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,人探し、だな。,사람을 찾고있나 보군.
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,なるほどねぇ……,그렇구나...
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,そういうことなら、<br>騎空艇があった方が便利よね。<br>むしろ、ないと始まらないわ。,"그럼 기공정이 있어야 편리하겠네. 아니, 기공정 없이는 아무것도 못 하지."
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,きくうてい？,기공정...?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,アンタ達、アタシに会えて<br>ラッキーだったわね。,"너희들, 우리랑 만나서 운 좋은 줄 알아."
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,アタシが面倒を見てやってる<br>騎空士がいるから紹介して<br>頼んであげるわ！,내가 돌봐주고 있는 기공사가 있으니 태워줄 수 있는지 물어봐 줄게!
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-2'>きくうし……？</span><br>え、何？<br>全然わかんないんだけど。,"<span class='scene-font-4'>기공사...?</span> 뭐, 뭐야? 무슨 소린지 모르겠어."
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,心配いらないわよ！,걱정할 거 없어!
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,アイツら、すぐ隣の島にいるし、<br>メドゥシアナでぱーっと<br>連れて行ってあげる！,그 녀석들은 바로 옆쪽 섬에 있으니까 메두시아나로 슈웅~ 데려다 줄게!
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,<span class='scene-font-4'>おい！</span><br>そんなことよりこの俺と勝負しろ！！,<span class='scene-font-4'>이봐!</span> 그런 거보다 나랑 승부하자고!
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,特にそっちのお前！,특히 거기 너!
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,俺か？,나 말인가?
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,特にお前から強い気配がする！,너한테서 특별히 강한 기운이 느껴진다!
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,<span class='scene-font-4'>はぁ！？</span><br>アンタ、アタシじゃなくて<br>ナタクを選ぶっていうの！？,"<span class='scene-font-4'>뭐어?</span> 너, 내가 아니고 나타쿠를 고른 거야?"
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,アンタがナタクに喧嘩売るなんて<br>150年は早いのよ！！,네가 나타쿠한테 덤비기에는 150년쯤 이르거든?
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,<span class='scene-font-4'>うるせぇチビ女っ！</span><br>文句があるならお前から<br>かかってこい！,<span class='scene-font-4'>시끄러워 꼬맹이 여자!</span> 불만 있으면 너부터 덤벼!
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,アンタねぇ～～～！！<br>アタシをナタクの前座扱い<br>しようっていうの！？,너 진짜...! 나랑 싸우는 걸 예선전 정도로 생각하는 거야?
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,ぜんざいがどうしたって！？,선장이 뭐 어쨌다고?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,前座、って言ったのよ！<br><span class='scene-font-4'>バッカじゃない！？</span>,예선전이라고 했거든! <span class='scene-font-4'>바보 아냐?</span>
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,メドゥーサ、そこまでだ。,"메두사, 거기까지 해."
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,う……,으...
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,伊之助君、いい加減にしてください。<br>状況がわかってないんですか？,"이노스케 군, 적당히 해 두세요. 상황이 이해가 안 되는 건가요?"
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,<span class='scene-font-4'>あぁ！？</span>,<span class='scene-font-4'>뭐어?</span>
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,時も場所もわきまえずに<br>誰彼構わず喧嘩を売って……,시간도 장소도 분간하지 못하고 아무한테나 싸움을 걸어대다니...
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,弱い犬ほどよく吠える、って<br>言葉、知ってますか？,"약한 개일수록 많이 짖어댄다는 말, 알고 계신가요?"
+Japanese,scene_evt201208_cp2_q3_s10,detail,하시비라 이노스케,ぐぅ……,크윽...
+Japanese,scene_evt201208_cp2_q3_s10,detail,코쵸 시노부,……すみません。<br>失礼な態度をとってしまって。,...죄송합니다. 무례한 태도를 보여드렸네요. 
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,いや、こちらこそメドゥーサが<br>悪かった。,"아니, 이 쪽이야말로 메두사 때문에 미안했다."
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,ちょっとナタク。<br>何、保護者面してるのよ。,"잠깐, 나타쿠. 왜 보호자라도 되는 것처럼 굴어?"
+Japanese,scene_evt201208_cp2_q3_s10,detail,나타쿠,ん？,응?
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,はぁ……もういいわ。<br>さっさと行きましょ。,하... 됐어. 빨리 가기나 하자.
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,メドゥシアナ！,메두시아나!
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두시아나,────！,────！
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>ヒッ……！？</span>,<span class='scene-font-4'>히익...!</span>
+Japanese,scene_evt201208_cp2_q3_s10,detail,메두사,さ、感謝して、<br>メドゥシアナに……,"자, 감사하면서 메두시아나 등에..."
+Japanese,scene_evt201208_cp2_q3_s10,detail,아가츠마 젠이츠,<span class='scene-font-4'>ヒギャーーーーーっ！！！</span>,<span class='scene-font-4'>끄아아아아아아아악!</span>
+Japanese,scene_evt201208_cp2_q4_s10,synopsis,,トルー村へ向かう山の中で迷ってしまった[グラン]達は、偶然炭治郎達と出会う。ライルの妹が行方不明であると知り、行方不明事件と関係があるかもしれないと考えた[グラン]達はライルから詳しく話を聞かせてもらうことにするのだった。,トルー村へ向かう山の中で迷ってしまった[グラン]達は、偶然炭治郎達と出会う。ライルの妹が行方不明であると知り、行方不明事件と関係があるかもしれないと考えた[グラン]達はライルから詳しく話を聞かせてもらうことにするのだった。
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,はぁ、はぁ……<br>ふぅ……,하아... 하아...
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,おい、ルリア！<br>大丈夫かぁ？,"저기, 루리아. 괜찮아?"
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,あ、はいっ！<br>大丈夫です！<br>大丈夫なんですが……,"아, 네! 괜찮아요! 괜찮은데요..."
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,あの、村にはまだ<br>着かないんでしょうか？,"저기, 마을은 아직 멀었나요?"
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,ああ、オイラも<br>気になってんだけどよぉ……<br>どうなんだ、[グラン]？,음... 나도 그게 궁금하던데. 멀었어?
+Japanese,scene_evt201208_cp2_q4_s10,sel1_txt,,<span class='scene-font-katari'>迷ったみたい</span>,<span class='scene-font-katari'>길을 잃은 것 같아</span>
+Japanese,scene_evt201208_cp2_q4_s10,sel2_txt,,<span class='scene-font-katari'>わからない……</span>,<span class='scene-font-katari'>모르겠어...</span>
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,あはは……<br>そうだと思ってました。,아하하…… 그럴 것 같았어요.
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,ちゃんとした地図もねぇし<br>「迷った」ってのも<br>どうかと思うけどな。,"제대로된 지도도 없는데, '길을 잃었다' 라는 말도 좀 이상한 것 같지만.."
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,そもそも正解のルートが<br>よく分からねぇっつーか……,애초에 제대로된 경로를 잘모른다고 해야하나...
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,おいおい……,이런...
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,オイラも道なんて<br>わかんねぇし、<br>こりゃあ迷子じゃねぇか。,"나도 길은 모르겠는데, 이거 완전 미아 신세네."
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,細いけど、人が通ってるみたいな<br>跡を辿ってたはずなんですけどね……,가늘긴 해도 사람이 드나드는 듯한 흔적을 따라왔는데 말이에요...
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,いつの間にか逸れちまったみてぇだな。<br>思ったよりずっと深い山だし、<br>このままじゃあ日が暮れちまう。,어느 사이엔가 벗어나 버렸나 봐. 생각보다 훨씬 깊은 산이기도 하고. 이대로는 해가 져 버리겠는걸.
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,オイラ達まで<br>行方不明になっちまうぜ。,우리까지 행방불명되겠어.
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,はわっ！？<br>それは困ります～！,하와와! 그럼 안 돼요~!
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,どうしましょう。<br>誰かに聞きたくても<br>人なんていませんし……,어떡하죠. 누구한테 물어보고 싶어도 지나가는 사람도 없고...
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,そりゃあこんな山奥じゃ……,그야 이런 깊은 산 속이니까...
+Japanese,scene_evt201208_cp2_q4_s10,detail,,<span class='scene-font-katari'>微かな気配と物音に、</span><br><span class='scene-font-katari'>[グラン]が身構えて前に出る。</span>,<span class='scene-font-katari'>희미한 기운과 함께 소리가 들려오자 단장이 무기를 빼들고 앞으로 나섰다.</span>
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,なんだ！？<br>魔物か！？,뭐지? 마물인가?
+Japanese,scene_evt201208_cp2_q4_s10,detail,카마도 탄지로,あ……,아...
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,なんだ、人じゃねぇか！,"뭐야, 사람이잖아!"
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,良かったですね！<br>これで道を教えてもらえます。,다행이에요! 길을 물어볼 수 있겠네요.
+Japanese,scene_evt201208_cp2_q4_s10,detail,카마도 탄지로,君達は……？,너희들은...?
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,こんにちは！ 私達、峠にある村へ<br>行く途中だったんですが<br>迷ってしまって……,안녕하세요! 저희는 고갯길 근처 마을에 가는 중이었는데 길을 잃어버려서요...
+Japanese,scene_evt201208_cp2_q4_s10,detail,라일,村って、トルー村？,"마을이라니, 트루 마을 말야?"
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,おう、そうだぜ！<br>知ってるか？,"어, 맞아! 어딘지 알아?"
+Japanese,scene_evt201208_cp2_q4_s10,detail,라일,うん、俺の村だから。,응. 우리 동네야.
+Japanese,scene_evt201208_cp2_q4_s10,detail,렌고쿠 코쥬로,この辺りに他の集落はないと聞いたが<br>君達は、他所から来たのか？,"이 근처에 다른 촌락은 없다고 들었다만, 너희는 어디에서 온 거지?"
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,私達、騎空士です！,저희는 기공사예요!
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,依頼があってこの弟島に<br>来たんだけどよぉ……<br>道に迷っちまって。,의뢰가 있어서 이 동생 섬에 온 건데... 길을 잃었거든.
+Japanese,scene_evt201208_cp2_q4_s10,detail,라일,騎空士、さんなの？,기공사라고?
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,はい、そうですよ。,"네, 맞아요."
+Japanese,scene_evt201208_cp2_q4_s10,detail,라일,俺、騎空士に会ったの初めて……<br>村に何の用？,"나, 기공사랑 만나는 건 처음이야. 마을엔 무슨 일이야?"
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,この辺りで行方不明事件が<br>起きてるって聞いたんで<br>調べに来たんだ。,이 근처에서 행방불명 사건이 일어났다고 들어서 조사하러 왔어.
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,何か知っていることは<br>ありませんか？,뭔가 알고 계시는 게 있나요?
+Japanese,scene_evt201208_cp2_q4_s10,detail,라일,行方不明……？,행방불명...?
+Japanese,scene_evt201208_cp2_q4_s10,detail,라일,俺はよくわかんない……,난 잘 모르겠어...
+Japanese,scene_evt201208_cp2_q4_s10,detail,토미오카 기유,妹は？,여동생은?
+Japanese,scene_evt201208_cp2_q4_s10,detail,렌고쿠 코쥬로,うむ、なるほど！,"음, 그렇군!"
+Japanese,scene_evt201208_cp2_q4_s10,detail,렌고쿠 코쥬로,少年の妹の件が、<br>その行方不明事件に<br>関係あるかもしれんな！,소년의 여동생이 사라진 일이 그 행방불명 사건과 관계가 있을지도 모르겠어!
+Japanese,scene_evt201208_cp2_q4_s10,detail,루리아,妹さん、ですか？,동생분이요?
+Japanese,scene_evt201208_cp2_q4_s10,detail,비이,なぁ、良ければ<br>詳しく聞かせてくれねぇか？,"저기, 괜찮으면 자세히 좀 들려줄래?"
