@@ -12111,6 +12111,11 @@ The Dragon Knights
 
 ホーリークリス,홀리 크리스
 ファストスライサー,패스트 슬라이서
+スキップ確認,스킵 확인
+このイベントは以前クリアしたことがあるため、<br>ストーリーをスキップすることができます。,이 이벤트는 이전에 클리어했었기 때문에 <br> 스토리를 스킵할 수 있습니다.
+※スキップしてもクリア報酬を獲得することができます<br>		※進行中のメインクエストがある場合は自動的に<br>撤退されますのでご注意ください,※스킵해도 클리어 보상을 획득 할 수 있습니다.<br>		※진행중인 메인퀘스트가 있는 경우엔 자동적으로<br>철수하게되므로 주의해주세요.
+
+
 !로보미Z
 ロボミZ,로보미Z
 ,,,,,,,,,,,,,"</div>,"
@@ -12719,6 +12724,31 @@ APは***以上回復しません
 "やあ、ぴにゃ。<br>この演技は慣れないか？,"
 "おこたみ、か……<br>僕も絵物語の勉強をして、<br>次はもっと役に立ちたいな。,"
 "ハンサム・ゴリラですが、<br>製造中止になったそうで～,"
+
+
+!귀멸의 칼날 콜라보
+因果の匂い、果ての空,"인과의 냄새, 하늘의 끝"
+
+
+"イベント「因果の匂い、果ての空」<br>			<span class=""prt-journal-update-chapter-title"">閑話</span>","이벤트「인과의 냄새、하늘의 끝」<br>                        <span class=""prt-journal-update-chapter-title"">한담</span>"
+"<span class=""prt-journal-update-npc-name"">竈門炭治郎</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">카마도 탄지로</span><br>캐리터가 루리아노트에 등록되었습니다!"
+"<span class=""prt-journal-update-npc-name"">竈門禰󠄀豆子</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">카마도 네즈코</span><br>캐리터가 루리아노트에 등록되었습니다!"
+"<span class=""prt-journal-update-npc-name"">我妻善逸</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">아가츠마 젠이츠</span><br>캐리터가 루리아노트에 등록되었습니다!"
+"<span class=""prt-journal-update-npc-name"">嘴平伊之助</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">하시비라 이노스케</span><br>캐리터가 루리아노트에 등록되었습니다!"
+"<span class=""prt-journal-update-npc-name"">煉󠄁獄杏寿郎</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">렌고쿠 코쥬로</span><br>캐리터가 루리아노트에 등록되었습니다!"
+"<span class=""prt-journal-update-npc-name"">胡蝶しのぶ</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">코쵸 시노부</span><br>캐리터가 루리아노트에 등록되었습니다!"
+"<span class=""prt-journal-update-npc-name"">冨岡義勇</span><br>キャラクターがルリアノートに登録されました！","<span class=""prt-journal-update-npc-name"">토미오카 기우</span><br>캐리터가 루리아노트에 등록되었습니다!"
+
+日輪刀を*個獲得！,일륜도를 *개 획득!
+日輪刀を**個獲得！,일륜도를 **개 획득!
+悪鬼滅殺,악귀멸살
+日輪刀,일륜도
+「異形の化け物を退けろ」<br>					「炎ともす空での戦い」<br>					「炎ともす空での戦い（マルチバトル）」<br>,「이형의 괴물을 물리쳐라」<br>                                        「불꽃밝히는 하늘에서의 싸움」<br>                                        「불꽃밝히는 하늘에서의 싸움（멀티배틀）」<br>
+「エクストラクエスト」をクリアしてトレジャーを集め、<br>「煉󠄁獄杏寿郎」を仲間にしよう！,「엑스트라 퀘스트」를 클리어로 트레어를 모아、<br>「렌고쿠 코쥬로」를 동료로하자！
+
+異形の化け物を退けろ,이형의 괴물을 물리쳐라
+炎ともす空での戦い,불꽃밝히는 하늘에서의 싸움
+「因果の匂い、果ての空」へ,"「인과의 냄새, 하늘의 끝」으로"
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
