@@ -1728,7 +1728,7 @@ async function InitList() {
             //ObserverPop(),
             ObserverStorySelectTexts()
         ];
-        if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
+        if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage(), ObserverImageSubMenu());
         if (doBattleTrans) ObserverList.push(ObserverBattle());
     }
 }
@@ -2492,6 +2492,18 @@ var ImageObserver = new MutationObserver(function (mutations) {
     });
     ObserverImage();
 });
+var ImageObserverSub = new MutationObserver(function (mutations) {
+    // PrintLog(mutations);
+    ImageObserverSub.disconnect();
+    mutations.forEach(mutation => {
+        if (mutation.target) {
+            if (doImageSwap) {
+                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+            }
+        }
+    });
+    ObserverImageSubMenu();
+});
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserverDIV.disconnect();
@@ -2657,72 +2669,6 @@ async function ObserverBattle() {
             window.setTimeout(ObserverBattle, generalConfig.refreshRate);
             return;
         }
-        // In battle window, try to use 'white list' to get 
-
-        // var battleInfo1 = doc.querySelectorAll('[class^="prt-command-chara"]');
-        // if (battleInfo1) {
-        //     battleInfo1.forEach(bInfo => {
-        //         BattleObserver.observe(bInfo, config_simple);
-        //     });
-        // }
-        // var battleInfo2 = doc.querySelectorAll('[class^="pop-condition"]');
-        // if (battleInfo2) {
-        //     battleInfo2.forEach(bInfo => {
-        //         BattleObserver.observe(bInfo, config_simple);
-        //     });
-        // }
-        // var battleInfo3 = doc.querySelectorAll('[class^="txt-cutin"]');
-        // if (battleInfo3) {
-        //     battleInfo3.forEach(bInfo => {
-        //         BattleObserver.observe(bInfo, config_simple);
-        //     });
-        // }
-        // var battleInfo4 = doc.querySelectorAll('[class^="pop-usual"]');
-        // if (battleInfo4) {
-        //     battleInfo4.forEach(bInfo => {
-        //         BattleObserver.observe(bInfo, config_simple);
-        //     });
-        // }
-        // var battleInfo_btn = doc.querySelectorAll('[class^="prt-sub-command"]');
-        // if (battleInfo_btn) {
-        //     if (doImageSwap)
-        //         walkDownObserver(battleInfo_btn, BattleImageObserver, config_simple);
-        // }
-
-        // var battleInfo_subbtn = doc.querySelectorAll('[class^="prt-multi-buttons"]');
-        // if (battleInfo_subbtn) {
-        //     walkDownObserver(battleInfo_subbtn, BattleImageObserver, config_simple);
-        // }
-        // var battleInfo_contrib = doc.querySelectorAll('[class^="prt-contribution"]');
-        // if (battleInfo_contrib) {
-        //     if (doImageSwap)
-        //         walkDownObserver(battleInfo_contrib, BattleImageObserver, config_simple);
-        // }
-
-        // var multilog_overlayer = doc.querySelectorAll('[class^="prt-multilog-overlayer"]');
-        // if (multilog_overlayer) {
-        //     if (doImageSwap)
-        //         walkDownObserver(multilog_overlayer, BattleImageObserver, config);
-        // }
-
-        // var popDIV = doc.getElementById('pop');
-        // if (popDIV) {
-        //     PopObserver.observe(popDIV, config);
-        // }
-
-        // var battleConditionInfo = doc.querySelectorAll('[class^="prt-battle-condition"]');
-        // if (battleConditionInfo) {
-        //     battleConditionInfo.forEach(bInfo => {
-        //         BattleObserver.observe(bInfo, config);
-        //     });
-        // }
-
-        // var battleNavi = doc.querySelectorAll('[class^="prt-navi btn-scene-next"]');
-        // if (battleNavi) {
-        //     battleNavi.forEach(bInfo => {
-        //         BattleObserver.observe(bInfo, config_simple);
-        //     });
-        // }
     }
 }
 async function ObserverImage() {
@@ -2740,6 +2686,22 @@ async function ObserverImage() {
         return;
     }
     ImageObserver.observe(allElements, config_image);
+}
+async function ObserverImageSubMenu() {
+    var submenu = doc.getElementById('cnt-submenu-contents').children[0];
+    if (!submenu) {
+        //The node we need does not exist yet.
+        //Wait 500ms and try again
+        window.setTimeout(ObserverImageSubMenu, generalConfig.refreshRate);
+        return;
+    }
+    if (doc.URL.includes('#raid')) {
+        ImageObserver.disconnect();
+        archiveObserver.disconnect();
+        window.setTimeout(ObserverImageSubMenu, generalConfig.refreshRate);
+        return;
+    }
+    ImageObserverSub.observe(doc.getElementById('cnt-submenu-contents'), config_image);
 }
 async function ObserverImageDIV() {
     var allElements = doc.getElementById('wrapper');
