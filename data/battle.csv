@@ -1,14 +1,14 @@
 Type,Name,Origin,Korean
 text_jp,,オ、オマエ……大丈夫なのかぁ！？,아앗! 너 괜찮아?
-text_jp,,んん～？致命傷を与えたと思ったの<br>ですがねェ……,음~? 치명상을 입힌줄<br>알았는데..
-text_jp,,まぁいいでしょう。<br>ヒドラ！ 可愛がってあげなさいィ！,뭐 됐어요.<br> 히드라! 해치워버리세요!
+text_jp,,んん～？致命傷を与えたと思ったの<br>ですがねェ……,음~? 치명상을 입힌줄<br>알았는데말이죠오..
+text_jp,,まぁいいでしょう。<br>ヒドラ！ 可愛がってあげなさいィ！,뭐 됐어요.<br> 히드라! 해치워버리세요옷!
 text_jp,,ぜ、全然効いてねぇぞ！？,"전, 전혀 효과가 없는데?"
 text_jp,,大丈夫です……！,괜찮아요...!
-text_jp,,どうしたんですかァ？<br>全然効いてませんネェ～,왜 그래요?<br> 전혀 효과가 없는데요~
-text_jp,,野郎！ <br>…とにかく攻撃するしかねぇ！！,이 녀석! <br>…어쨌든 공격할수 밖에 없어!!
-text_jp,,もう、飽きてきたですネェ…<br>そろそろ終わりにしなさいですネェ！,이제 질리네요..<br>슬슬 끝내세요..
+text_jp,,どうしたんですかァ？<br>全然効いてませんネェ～,왜 그러죠오?<br> 저언혀 효과가 없는데요오
+text_jp,,野郎！ <br>…とにかく攻撃するしかねぇ！！,이 녀석! <br>…어쨌든 공격할 수 밖에 없어!!
+text_jp,,もう、飽きてきたですネェ…<br>そろそろ終わりにしなさいですネェ！,이제 질리네요오..<br>슬슬 끝내세요옷!
 text_jp,,ば、万事休すかぁーッ！？<br>ちくしょう！！,전부 끝인가!?<br>젠장!!
-text_jp,,準備ができました！<br>星晶の力…あなたに預けます！！,준비가 되었습니다!<br>성정의 힘...당신에게 맡기겠습니다!!
+text_jp,,準備ができました！<br>星晶の力…あなたに預けます！！,준비가됐어요!<br>성정의 힘...당신에게 맡길게요!!
 condition_win,,勝利条件,승리 조건
 condition_win,,？？？,？？？
 condition_lose,,ルリアの悲痛な叫びは誰にも届かない……
@@ -96,47 +96,47 @@ text_en,,We're with you to the very end!,우리들도 마지막까지 모두와 
 text_jp,,呼吸を研ぎ澄ませろ……！<br>ここで必ず倒すんだ……！,호흡을 가다듬어라...! <br> 여기서 반드시 쓰러트리는거야....!
 text_en,,Come on... Focus your breathing! It's now or never!,호흡을 가다듬어라...! <br> 여기서 반드시 쓰러트리는거야....!
 text_jp,,痛めつけてやる！<br>覚悟しろ！,혼내 주겠다!<br>각오해라!
-text_jp,,クソッ！やるしかねぇようだぜぇ！<br>オマエの剣術なら勝てる！,빌어먹을! 할 수 밖에 없는 것 같아!<br> 너의 검술이라면 이길 수 있어!
-text_jp,,【攻撃】ボタンをタッチして<br>お見舞いしてやれぇ！！,【공격】버튼을 눌러서 <br> 병문안을 하러가자!!
-text_jp,,効いてるぜ！この調子だぁ！,효과가 있다구! 이대로 가자구!
-text_jp,,自分の攻撃が終わると、<br>次は敵の攻撃だ！気ィつけろぉ！,"너의 공격이 끝나면,<br>다음은 적의 공격이다! 조심해!"
-text_jp,,敵の攻撃が終わればまた自分の番だ。よぉく憶えとけよぉ！<br>さぁ反撃だ！,"적의 공격이 끝나면 다시 자기 차례다. 잘 기억해 둬!<br>자, 반격이다!"
-text_jp,,そうだ…属性ってのは知ってるよな？戦いを勝ち抜くには必須の知識だ！,"맞아, 속성이라는 건 알지? 싸움에서 이겨내려면 필수적인 지식이야!"
-text_jp,,いまオマエは【<span class='attribute4'>風属性</span>】の武器を<br>装備しているな。と、なりゃぁ……,지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있구나
-text_jp,,オマエの攻撃は【<span class='attribute3'>土属性</span>】の敵に<br>超！有利だぜぇ！,너의 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
-text_jp,,あの剣を持った兵士！<br>アイツは【<span class='attribute3'>土属性</span>】だ！<br>アイツをタッチしてみなぁ！,저 검을 든 병사!<br> 그녀석은 [<span class='attribute3'>흙속성</span>]이다!<br> 그 녀석을 터치해봐!
-text_jp,,よぉし！<br>これでアイツを狙い撃ちできるぜ！<br>さぁ、【攻撃】だぁ！,"좋아!<br>이것으로 그 녀석을 저격할 수 있어!<br>자, [공격]이다!"
-text_jp,,大ダメージだぜぇ！属性の相性で<br>こうも違いがでるなんてなぁ！,큰 데미지라구!속성의 궁합에서<br>이렇게나 차이가 나다니!
-text_jp,,ちなみに、逆に【<span class='attribute3'>土属性</span>】の敵が<br> 【<span class='attribute4'>風属性</span>】のオマエを攻撃すると、<br> ダメージは軽減されるんだぜぇ！,"참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지는 경감되는 거야!"
-text_jp,,狙い撃ちする敵は、もう一度タッチ<br> すると解除されるぜ。でも、ここは<br> このままヤっちまえー！！,"저격하던 적은 한 번 더 터치<br>하면 해제될 거야.하지만, 여기선<br> 이대로 끝내버리자!!"
-text_jp,,よっしゃぁー！<br> さっすがじゃねぇーか！<br> この調子であの槍野郎も倒すぞぉ！,아자!<br>역시나잖아! 이 상태로 저 창녀석도 쓰러뜨릴거야!
-text_jp,,…なぁ、気づいたか？<br>敵のHPゲージの下にあるアレによぉ。,"...야, 눈치 챘나?<br>적의 HP게이지 밑에 있는 저거 말야."
+text_jp,,クソッ！やるしかねぇようだぜぇ！<br>オマエの剣術なら勝てる！,젠장! 어쩔 수 없나!<br> 네 검술이라면 이길 수 있을거야!
+text_jp,,【攻撃】ボタンをタッチして<br>お見舞いしてやれぇ！！,【공격】버튼을 눌러서 <br> 한방 먹여주자구!
+text_jp,,効いてるぜ！この調子だぁ！,효과가 있어! 이대로 가자구!
+text_jp,,自分の攻撃が終わると、<br>次は敵の攻撃だ！気ィつけろぉ！,"네 공격이 끝나면,<br>다음은 적의 공격이야! 조심해!"
+text_jp,,敵の攻撃が終わればまた自分の番だ。よぉく憶えとけよぉ！<br>さぁ反撃だ！,"적의 공격이 끝나면 다시 네 차례야. 잘 기억해 둬!<br>자, 반격이다!"
+text_jp,,そうだ…属性ってのは知ってるよな？戦いを勝ち抜くには必須の知識だ！,"그래, 속성이라는 건 알지? 싸움에서 이기려면 필수적인 지식이야!"
+text_jp,,いまオマエは【<span class='attribute4'>風属性</span>】の武器を<br>装備しているな。と、なりゃぁ……,"지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있어, 그럼..."
+text_jp,,オマエの攻撃は【<span class='attribute3'>土属性</span>】の敵に<br>超！有利だぜぇ！,네 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
+text_jp,,あの剣を持った兵士！<br>アイツは【<span class='attribute3'>土属性</span>】だ！<br>アイツをタッチしてみなぁ！,저 검을 든 병사!<br> 저 녀석은 [<span class='attribute3'>흙속성</span>]이야!<br> 그 녀석을 터치해봐!
+text_jp,,よぉし！<br>これでアイツを狙い撃ちできるぜ！<br>さぁ、【攻撃】だぁ！,"좋아!<br>이것으로 저 녀석을 노려서 공격할 수 있어!<br>자, [공격]이야!"
+text_jp,,大ダメージだぜぇ！属性の相性で<br>こうも違いがでるなんてなぁ！,데미지가 큰데! 속성을 맞춰주는게<br>이렇게나 차이가 나다니!
+text_jp,,ちなみに、逆に【<span class='attribute3'>土属性</span>】の敵が<br> 【<span class='attribute4'>風属性</span>】のオマエを攻撃すると、<br> ダメージは軽減されるんだぜぇ！,"참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지가 경감되는 거야!"
+text_jp,,狙い撃ちする敵は、もう一度タッチ<br> すると解除されるぜ。でも、ここは<br> このままヤっちまえー！！,"노렸던 적은 한 번 더 터치<br>하면 해제될 거야. 하지만, 여기선<br> 이대로 끝내버리자!!"
+text_jp,,よっしゃぁー！<br> さっすがじゃねぇーか！<br> この調子であの槍野郎も倒すぞぉ！,아자!<br>역시 너야! 이 상태로 저 창을 든 녀석도 쓰러뜨릴거야!
+text_jp,,…なぁ、気づいたか？<br>敵のHPゲージの下にあるアレによぉ。,"...있잖아, 눈치 챘어?<br>적의 HP게이지 밑에 있는 저거 말야."
 text_jp,,アレが全部赤く光ると、<br> 敵が技を使ってくるぜぇ！<br>注意しろよぉ！,"저것이 전부 빨갛게 빛나면,<br>적이 기술을 사용해 온다구!<br>주의해!"
 text_jp,,お？奥義ゲージが溜まったな？<br>次に攻撃する時に【奥義】を<br>発動できるぜぇ！,어? 오의게이지가 쌓였네?<br>다음에 공격할 때 [오의]를<br>발동할 수 있어!
 text_jp,,奥義ゲージは自分が攻撃したり、<br>ダメージを受けると溜まるから<br>憶えとけよぉ。,"오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
-text_jp,,いけぇ！オマエの奥義で槍野郎に<br>トドメをさしてやれぇー！！,가자! 오마에의 오의로 창녀석에게<br>마무리를 꽂아줘!!
+text_jp,,いけぇ！オマエの奥義で槍野郎に<br>トドメをさしてやれぇー！！,가자! 네 오의로 창을 든 녀석을<br>마무리해버려!!
 text_jp,,やったぜぇー！武装した兵士を<br>一度に二人も倒すなんて、<br>やるじゃねぇかよぉ！！,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
 
 test_en,,Pain is the least of your worries!,혼내 주겠다!<br>각오해라!
-test_en,,All right! Nothing to it but to do it! With your sword skills you can win this!,빌어먹을! 할 수 밖에 없는 것 같아!<br> 너의 검술이라면 이길 수 있어!
-test_en,,Tap Attack to take care of these goons!,【공격】버튼을 눌러서 <br> 병문안을 하러가자!!
-test_en,,It's working! Keep it up!,효과가 있다구! 이대로 가자구!
-test_en,,"After you attack, it's the enemy's turn. Watch out!","너의 공격이 끝나면,<br>다음은 적의 공격이다! 조심해!"
-test_en,,"After the enemy's turn, you're up. Now strike back!","적의 공격이 끝나면 다시 자기 차례다. 잘 기억해 둬!<br>자, 반격이다!"
-test_en,,"Hey, you know about elements, right? They're the key to winning battles!","맞아, 속성이라는 건 알지? 싸움에서 이겨내려면 필수적인 지식이야!"
-test_en,,Right now you've equipped a wind weapon. That means...,지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있구나
-test_en,,You can deal serious damage to earth enemies!,너의 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
-test_en,,That soldier with the sword is earth! Try tapping him!,저 검을 든 병사!<br> 그녀석은 [<span class='attribute3'>흙속성</span>]이다!<br> 그 녀석을 터치해봐!
-test_en,,"Good, now he's your target! Let's attack!","좋아!<br>이것으로 그 녀석을 저격할 수 있어!<br>자, [공격]이다!"
-test_en,,Now that's some serious damage! It helps to use the right element at the right time.,큰 데미지라구!속성의 궁합에서<br>이렇게나 차이가 나다니!
-test_en,,"Since he's earth and you're wind, he can't damage you much.","참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지는 경감되는 거야!"
-test_en,,You can tap an enemy again to quit targeting it. But let's not change anything now.,"저격하던 적은 한 번 더 터치<br>하면 해제될 거야.하지만, 여기선<br> 이대로 끝내버리자!!"
-test_en,,All right! That's the spirit! Now let's take down this spear guy!,아자!<br>역시나잖아! 이 상태로 저 창녀석도 쓰러뜨릴거야!
-test_en,,"Hey, did you see those things under the enemy's HP gauge?","...야, 눈치 챘나?<br>적의 HP게이지 밑에 있는 저거 말야."
+test_en,,All right! Nothing to it but to do it! With your sword skills you can win this!,젠장! 어쩔 수 없나!<br> 네 검술이라면 이길 수 있을거야!
+test_en,,Tap Attack to take care of these goons!,【공격】버튼을 눌러서 <br> 한방 먹여주자구!
+test_en,,It's working! Keep it up!,효과가 있어! 이대로 가자구!
+test_en,,"After you attack, it's the enemy's turn. Watch out!","네 공격이 끝나면,<br>다음은 적의 공격이야! 조심해!"
+test_en,,"After the enemy's turn, you're up. Now strike back!","적의 공격이 끝나면 다시 네 차례야. 잘 기억해 둬!<br>자, 반격이다!"
+test_en,,"Hey, you know about elements, right? They're the key to winning battles!","그래, 속성이라는 건 알지? 싸움에서 이기려면 필수적인 지식이야!"
+test_en,,Right now you've equipped a wind weapon. That means...,"지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있어, 그럼..."
+test_en,,You can deal serious damage to earth enemies!,네 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
+test_en,,That soldier with the sword is earth! Try tapping him!,저 검을 든 병사!<br> 저 녀석은 [<span class='attribute3'>흙속성</span>]이야!<br> 그 녀석을 터치해봐!
+test_en,,"Good, now he's your target! Let's attack!","좋아!<br>이것으로 저 녀석을 노려서 공격할 수 있어!<br>자, [공격]이야!"
+test_en,,Now that's some serious damage! It helps to use the right element at the right time.,데미지가 큰데! 속성을 맞춰주는게<br>이렇게나 차이가 나다니!
+test_en,,"Since he's earth and you're wind, he can't damage you much.","참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지가 경감되는 거야!"
+test_en,,You can tap an enemy again to quit targeting it. But let's not change anything now.,"노렸던 적은 한 번 더 터치<br>하면 해제될 거야. 하지만, 여기선<br> 이대로 끝내버리자!!"
+test_en,,All right! That's the spirit! Now let's take down this spear guy!,아자!<br>역시 너야! 이 상태로 저 창을 든 녀석도 쓰러뜨릴거야!
+test_en,,"Hey, did you see those things under the enemy's HP gauge?","...있잖아, 눈치 챘어?<br>적의 HP게이지 밑에 있는 저거 말야."
 test_en,,"When all of those are flashing red, the enemy will make a charge attack! Be careful!","저것이 전부 빨갛게 빛나면,<br>적이 기술을 사용해 온다구!<br>주의해!"
 test_en,,"Hey, your charge bar is full. Next make a charge attack!",어? 오의게이지가 쌓였네?<br>다음에 공격할 때 [오의]를<br>발동할 수 있어!
 test_en,,"Remember, your charge bar fills up whenever you attack or receive damage.","오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
-test_en,,Let's go! Squash this guy with your charge attack!,가자! 오마에의 오의로 창녀석에게<br>마무리를 꽂아줘!!
+test_en,,Let's go! Squash this guy with your charge attack!,가자! 네 오의로 창을 든 녀석을<br>마무리해버려!!
 test_en,,Alright! You took down those two guys with one hit!,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
 condition_win,,勝利条件
 condition_win,,3ターン以内にゴリラを倒して印刷所へ急げ！
