@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp6_q1_s10,611",synopsis,,ドランク、スツルムに誘拐されていた少女はよろず屋で目を覚まし、自らの名前をイオと名乗る。自分の師匠である大公を探しているというイオの話す手がかりを元に、<span>[ジータ]</span>一行は歩みを進める。,"드렁크, 스툴름에 유괴되어 있던 소녀는 비틀거림에서 깨어나 자신의 이름을 이오라고 자칭한다.자신의 스승인 대공을 찾고 있다고 하는 이오가 말하는 단서를 바탕으로,<span>[지타]</span>일행은 걸음을 옮긴다."
-Japanese,"scene_cp6_q1_s10,611",detail,,<span class='scene-font-katari'>よろず屋で大公捜索の方針を練る</span><br><span class='scene-font-katari'>[ジータ]達の元へ</span><br><span class='scene-font-katari'>シェロが朗報を携えてやって来る。</span>,<span class='scene-font-katari>> 갑옷가게에서 대공수색 방침을 짜다</span><br><span class='scene-font-katari>><지타>들 앞으로 </span><br><span'sclass=<span'scene-katari>를 들고 온다.
+Japanese,"scene_cp6_q1_s10,611",detail,,<span class='scene-font-katari'>よろず屋で大公捜索の方針を練る</span><br><span class='scene-font-katari'>[ジータ]達の元へ</span><br><span class='scene-font-katari'>シェロが朗報を携えてやって来る。</span>,<span class='scene-font-katari> 갑옷가게에서 대공수색 방침을 짜다</span><br><span class='scene-font-katari>[지타]들 앞으로 </span><br><span'sclass=<span'scene-katari>를 들고 온다.
 Japanese,"scene_cp6_q1_s10,611",detail,셰로카르테,[ジータ]さん～<br>例の女の子、目を覚ましましたよ～<br>ほら～入って入って、怖くないよ～,"[지타] 씨~<br>예전의 여자애, 눈을 떴어요~<br>이봐~ 들어와봐, 안 무서워~"
 Japanese,"scene_cp6_q1_s10,611",detail,？？？,ど、どーも……<br>世話になったみたいね。<br>助かったわ。,"도, 도……<br>신세를 졌나봐.<br>살았어"
 Japanese,"scene_cp6_q1_s10,611",detail,비이,よぉー、魔導士の小娘。<br>具合はどうだ？<br>怪我はないんだよな？,"어이구, 마도사의 계집애.<br>상태는 어때?<br> 다친곳은 없지?"
@@ -27,7 +27,7 @@ Japanese,"scene_cp6_q1_s20,612",detail,비이,まずは魔物退治だな！,일
 Japanese,"scene_cp6_q2_s10,621",synopsis,,廃棄鉱山にたどり着いた<span>[ジータ]</span>一行。砂漠の魔物を蹴散らして進む中、大公が如何なる人物であったかを、弟子であるイオが語り始める。,"폐기 광산에 도착한 <span> [지타] </span> 한 줄.사막의 마물을 박차고 나아가는 가운데, 대공이 어떤 인물이었는지를, 제자인 이오가 이야기하기 시작한다."
 Japanese,"scene_cp6_q2_s10,621",detail,라캄,着陸完了、係留完了～っと。<br>とりあえず、目立たないように<br>降ろしたつもりだがな。,착륙완료 계류완료~ 하고.일단 눈에 띄지 않게<br>내려보려고 했는데 말야.
 Japanese,"scene_cp6_q2_s10,621",detail,카타리나,用無き者は訪れない辺境の島だ。<br>見つかっていると思って<br>行動した方が良いだろう。,용무가 없는 사람은 찾지 않는 변방의 섬이다.<br>찾았다고 생각하고<br>행동하는 것이 좋다.
-Japanese,"scene_cp6_q2_s10,621",detail,라캄,相も変わらず、砂と岩、か。<br><span class='scene-font-place'>バルツ</span>はこんなんばっかだな。<br>,"변함없이, 모래와 바위, 인가.<br><spanclass='scene-font-place>>발츠</span>는 이런 것뿐이군.< br >"
+Japanese,"scene_cp6_q2_s10,621",detail,라캄,相も変わらず、砂と岩、か。<br><span class='scene-font-place'>バルツ</span>はこんなんばっかだな。<br>,"변함없이, 모래와 바위, 인가.<br><spanclass='scene-font-place>발츠</span>는 이런 것뿐이군.< br >"
 Japanese,"scene_cp6_q2_s10,621",detail,이오,なんか成り行きで来ちゃったけどさ<br>[ジータ]達は帝国を追ってる<br>ってことは、腕は立つの？,"왠지 모르게 와버렸지만 말이야<br>[지타]들은 제국을 쫓고 있는<br>라는 건, 실력은 되는 거야?"
 Japanese,"scene_cp6_q2_s10,621",detail,루리아,イオちゃん、大丈夫ですっ！<br>[ジータ]も、カタリナも、ラカムも<br>すっごく強いんですよ？,"이오짱, 괜찮습니다!<br>[지타]도, 카타리나도, 라캄도<br>매우 강하다구요?"
 Japanese,"scene_cp6_q2_s10,621",detail,이오,へぇー……なら、いいけどね。,"에~……라면, 괜찮지만."
@@ -51,7 +51,7 @@ Japanese,"scene_cp6_q3_s10,631",detail,비이,おい、こっち！<br>上手く
 Japanese,"scene_cp6_q3_s10,631",detail,카타리나,ここから先は敵地だ。<br>イオ、危険があるかもしれない。<br>気を付けてな？,"여기서부터는 적지다.<br>이오, 위험이 있을지도 몰라.<br> 조심해?"
 Japanese,"scene_cp6_q3_s10,631",detail,이오,う、うん！<br>……これでも魔導士だしね！<br>足手まといにはならないよ。,"으,응!<br>……이래도 마도사니까!<br>꼬리가 잡히지는 않아."
 Japanese,"scene_cp6_q3_s10,631",detail,카타리나,イオ。<br>師匠に会えたらまず、どうする？,이오.<br>스승을만나면우선어떻게할까?
-Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>まず、はっ倒す！</span>,< span class = ' scene - font - 4 ' > まず 、 はっ倒す ！ < / span >
+Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>まず、はっ倒す！</span>,<span class='scene-font-4'>일단 냅다 쓰러뜨려!</span>
 Japanese,"scene_cp6_q3_s10,631",detail,카타리나,……え？,….음?
 Japanese,"scene_cp6_q3_s10,631",detail,이오,確かに師匠の才能なら、<br>みんながあっと驚くような、<br>何かすごいモノを作れるかもしれない。,분명 스승의 재능이라면 <br> 모두가 깜짝 놀랄만한 <br> 뭔가 대단한 물건을 만들 수 있을지도 모른다.
 Japanese,"scene_cp6_q3_s10,631",detail,이오,だけど、そこをあの帝国と組んで、<br>あげくに行方をくらますなんて、<br>弟子としてあたしは情けないよ！！,"하지만, 거기를 그 제국과 짜고,<br>끝에 행방을 감추다니,<br>제자로서 나는 한심해!!"
@@ -61,80 +61,80 @@ Japanese,"scene_cp6_q3_s10,631",detail,이오,だって……だってだって�
 Japanese,"scene_cp6_q3_s10,631",detail,이오,師匠なのに……師匠なのに……<br>ししょ～う……ぐすっ、すん、すん……,"스승인데……스승인데……<br>하시죠~우……크흠, 흠, 흠……."
 Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>うわぁあああぁあああん！</span>,<span class='scene-font-4> 우와아아아아아앙!</span>
 Japanese,"scene_cp6_q3_s10,631",detail,라캄,お、おい、泣くなよ……<br>カタリナ、ルリアちゃん！<br>なんとかしてくれ！,"오, 야, 울지마...<br>카탈리나, 루리아짱!<br>어떻게든 해줘!"
-Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>うわぁあああぁあああん！</span><br><span class='scene-font-4'>ししょ～っ！</span>,< span class = ' scene - font - 4 ' > う わぁ ああ あぁ ああ あん ！ < / span > < br > < span class = ' scene - font - 4 ' > ししょ ~ っ ！ < / span >
+Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>うわぁあああぁあああん！</span><br><span class='scene-font-4'>ししょ～っ！</span>,<span class='scene-font-4'>우와아아아아앙!<br>시쇼~!</span>
 Japanese,"scene_cp6_q3_s10,631",detail,카타리나,よしよし、今まで我慢してたんだな。<br>大変だったな、イオ。,오구오구 지금까지 참았구나.<br>힘들었네 이오.
-Japanese,"scene_cp6_q3_s10,631",detail,루리아,<span class='scene-font-kokoro'>（あ、ちょっと羨ましいかも）</span>,< span class = ' scene - font - kokoro ' > （ あ 、 ちょっと 羨ましい かも ） < / span >
+Japanese,"scene_cp6_q3_s10,631",detail,루리아,<span class='scene-font-kokoro'>（あ、ちょっと羨ましいかも）</span>,"<span class='scene-font-kokoro'>(아, 조금 부럽기도해)</span>"
 Japanese,"scene_cp6_q3_s10,631",detail,라캄,ふぅ……<br>これだからガキは苦手だぜ……,후……<br> 이래서 굴은 못써……
-Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>はぁ！？</span><br><span class='scene-font-4'>いまなんか言った！？</span>,< span class = ' scene - font - 4 ' > はぁ ！ ？ < / span > < br > < span class = ' scene - font - 4 ' > いま なんか 言った ！ ？ < / span >
+Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>はぁ！？</span><br><span class='scene-font-4'>いまなんか言った！？</span>,<span class='scene-font-4'>네!?<br>지금 뭐라고 말했어!?</span>
 Japanese,"scene_cp6_q3_s10,631",detail,라캄,言ってねぇよ、お姫様。,말 안 해 공주야
 Japanese,"scene_cp6_q3_s10,631",detail,비이,まぁ、オイラと[ジータ]が<br>なんとかしてやるから見てろって！<br>どーんと任せときな！,"뭐, 오이라와 [지타]가<br>어떻게든 해줄테니까 봐주라고!<br>둥~ 맡겨줘!"
 Japanese,"scene_cp6_q3_s10,631",detail,이오,うん……トカゲはともかく、<br>[ジータ]は頼りにしてるわ。<br>師匠を……よろしくね。,"응……도마뱀은 둘째치고,<br>[지타]는 의지하고 있어.<br>스승을……잘부탁해."
-Japanese,"scene_cp6_q3_s20,632",synopsis,,廃鉱の奥深くに広がる研究施設の禍々しさに<span>[ジータ]</span>一行は戦慄し、大公の加担していた研究とは何だったのか思案を巡らせる。
-Japanese,"scene_cp6_q3_s20,632",detail,비이,そろそろ終点らしいぜ？
-Japanese,"scene_cp6_q3_s20,632",detail,라캄,しかし、なんだぁ？ ここは。<br>なんの研究をしてるんだ？
-Japanese,"scene_cp6_q3_s20,632",detail,이오,師匠は、<br>これを手伝っていたの……？
-Japanese,"scene_cp6_q3_s20,632",sel1_txt,,<span class='scene-font-katari'>星晶の研究かな</span>
-Japanese,"scene_cp6_q3_s20,632",sel2_txt,,<span class='scene-font-katari'>鉱石の研究かな</span>
-Japanese,"scene_cp6_q3_s20,632",detail,라캄,<span class='scene-font-place'>バルツ</span>の大公も、<br>帝国と同じ研究をしてたってのか？
-Japanese,"scene_cp6_q3_s20,632",detail,라캄,ありえねぇ話じゃねぇが……<br>……恐ろしいもんだな、<br><span class='scene-font-spword'>星の民</span>の遺産が持つ魔力ってのはよ……
-Japanese,"scene_cp6_q3_s20,632",detail,라캄,それならこんな場所で、<br>ひっそり研究する必要は、<br>なかったんじゃねぇのか？
-Japanese,"scene_cp6_q3_s20,632",detail,라캄,何か、人にバレちゃ<br>マズイ研究をしてたのだけは、<br>間違いねぇだろうな……
-Japanese,"scene_cp6_q3_s20,632",detail,비이,おい！<br>ボーっとするんじゃねぇぜ！<br>魔物だ！！
-Japanese,"scene_cp6_q4_s10,641",synopsis,,廃鉱を進む<span>[ジータ]</span>一行の前に、ついにエルステ帝国最高権力者である黒騎士が姿を現す。しかし、その黒騎士の口から、帝国も大公を探していることを告げられる。
-Japanese,"scene_cp6_q4_s10,641",detail,카타리나,！！ こ、この圧倒的な威圧感は……<br>馬鹿な……まさか……！？
-Japanese,"scene_cp6_q4_s10,641",detail,？？？,うろたえるな、女。<br>貴様とてかつては、<br>我が帝国の名を負っていたのだろう？
-Japanese,"scene_cp6_q4_s10,641",detail,카타리나,やはりそうか……！<br>なぜ貴様がここにいる！！
-Japanese,"scene_cp6_q4_s10,641",detail,카타리나,エルステ帝国最高顧問……<br>七曜の騎士がひとり……黒騎士！！<br>ここに貴様の出る幕はないはずだ！！
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,それを……<br>世界を決めるのは、この私だ。<br>貴様ごときが口を出すことではない。
-Japanese,"scene_cp6_q4_s10,641",detail,이오,<span class='scene-font-4'>てて、帝国の騎士！</span><br><span class='scene-font-4'>師匠はどこだ！</span>
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,威勢のいいガキだな……<br>師匠……ザカ大公のことか。<br>であれば、ここには居ない。
-Japanese,"scene_cp6_q4_s10,641",detail,이오,<span class='scene-font-4'>嘘をつかないで！</span><br>あんたたちが<br>師匠をさらったんでしょう！？
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,……口のきき方を学ぶことだな、小娘。<br>大公ならば、<br>こちらも探しているところだ。
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,大公は我が帝国に共同研究を持ちかけ<br>支援を引き出すと、<br>そのまま姿をくらましたのだ。
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,気を付けることだな。<br>大公は「何か」を作るため、<br>この人形と……ルリアを狙っている。
-Japanese,"scene_cp6_q4_s10,641",detail,？？？,…………
-Japanese,"scene_cp6_q4_s10,641",detail,루리아,！！
-Japanese,"scene_cp6_q4_s10,641",detail,,<span class='scene-font-katari'>廃鉱に作られた</span><br><span class='scene-font-katari'>帝国の地下秘密工場。</span><br><span class='scene-font-katari'>そこで待ち受けていた黒鎧の騎士。</span>
-Japanese,"scene_cp6_q4_s10,641",detail,,<span class='scene-font-katari'>異様な雰囲気の中で</span><br><span class='scene-font-katari'>黒鎧の騎士の話は続く。</span>
-Japanese,"scene_cp6_q4_s10,641",detail,카타리나,大公がルリアを狙っているだと？
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,そうだ。私が謁見したとき大公閣下は、<br>既に何かに憑りつかれている様だった。
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,酷い顔であったよ。<br>血走った目ばかりが<br>妙に精気を発していた。
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,星晶の術……<br>大公はそれに固執していたな。<br>私の人形同様、ルリアも狙われるぞ？
-Japanese,"scene_cp6_q4_s10,641",detail,라캄,おい！ [ジータ]！<br>機械の魔物だ！<br>例の奴が入り口から……
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,ふん、言ったそばから……<br>せっかちな大公サマだ。<br>
-Japanese,"scene_cp6_q4_s10,641",detail,흑기사,ルリアと運命を共にする者よ。<br>また会おう……つまらぬ事では死ぬな。
-Japanese,"scene_cp6_q4_s10,641",detail,비이,だー！ あいつ、手伝えってんだ！<br>[ジータ]！<br>とにかく、騎空艇まで戻るぞ！
-Japanese,"scene_cp6_q4_s20,642",synopsis,,襲い来る機械の魔物が大公の差し金であると告げられ、イオは弟子である自分の存在も忘れてしまったのかと涙し、悲痛な声で機械の魔物に呼びかける。
-Japanese,"scene_cp6_q4_s20,642",detail,이오,さっきの話が本当なら<br>あの機械の魔物を……師匠が？<br>どうして……どうして師匠がそんな……
-Japanese,"scene_cp6_q4_s20,642",detail,라캄,落ち着け、ガキンチョ！<br>あんな胡散臭いヤツの言うことは……
-Japanese,"scene_cp6_q4_s20,642",detail,이오,でも、でもでも、感じるの！<br>この機械の魔物から<br>師匠の魔法の息吹を……
-Japanese,"scene_cp6_q4_s20,642",detail,라캄,んだと……！？
-Japanese,"scene_cp6_q4_s20,642",detail,이오,前に襲われたときも<br>ボンヤリと感じたわ。<br>もしかしてと思ってたけど……
-Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠……どうしてこんな……<br>なにしようとしてんの……<br>うううっ……ぐすっ
-Japanese,"scene_cp6_q4_s20,642",detail,비이,よし、あそこが出口だ！<br>塞いでる一匹を片付けるぞ！
-Japanese,"scene_cp6_q4_s20,642",detail,이오,……！
-Japanese,"scene_cp6_q4_s20,642",detail,카타리나,イオ！<br>何をしているんだ！ もどれ！
-Japanese,"scene_cp6_q4_s20,642",detail,,<span class='scene-font-katari'>イオはラカムを振り切ると、</span><br><span class='scene-font-katari'>無謀にも機械の魔物へと取り付いた。</span>
-Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ ししょーっ！<br>聞こえてるんでしょ！？<br>あたしだよ、イオだよ！！
-Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ どこに居るの！？
-Japanese,"scene_cp6_q4_s20,642",detail,이오,何をしてるの……？<br>早く帰ってきてよ……
-Japanese,"scene_cp6_q4_s20,642",detail,루리아,イオちゃん！<br>だめ！ このままじゃ危ないです！
-Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ もう帰ろう！<br><span class='scene-font-4'>ねぇってば！！</span>
-Japanese,"scene_cp6_q4_s20,642",detail,비이,チクショウ！<br>[ジータ]！<br>とにかくあいつを急いで倒すぜ！！
-Japanese,"scene_cp6_q4_s30,643",synopsis,,なんとか機械の魔物は退けるが、もう大公に声が届かないことを悲しむイオ。しかし、イオの声に機械の魔物がわずかに反応したことに気付いていたルリアが優しく励ます。
-Japanese,"scene_cp6_q4_s30,643",detail,비이,……みんな、無事か？<br>ヘヘ、なかなかの強敵だったな。
-Japanese,"scene_cp6_q4_s30,643",detail,라캄,イオは無事か？
-Japanese,"scene_cp6_q4_s30,643",detail,이오,ぐすっ……ぐすっ。
-Japanese,"scene_cp6_q4_s30,643",detail,카타리나,無事だ、ここに居る。
-Japanese,"scene_cp6_q4_s30,643",detail,라캄,ふぅ……怪我はねぇみてぇだな。<br>ったく、これだからガキンチョは……
-Japanese,"scene_cp6_q4_s30,643",detail,비이,こりゃぁ、仕切り直しだな。<br>一旦、街に帰るか。<br>なぁ？ [ジータ]
-Japanese,"scene_cp6_q4_s30,643",detail,이오,ぐすっ……師匠……<br>あたしの声、もう届かないんだ……
-Japanese,"scene_cp6_q4_s30,643",detail,루리아,イオちゃん……そんなことないです。<br>イオちゃんの声は、きっと届いてます。
-Japanese,"scene_cp6_q4_s30,643",detail,루리아,<span class='scene-font-kokoro'>（イオちゃんの声に反応して</span><br><span class='scene-font-kokoro'>機械の魔物に施された魔法が</span><br><span class='scene-font-kokoro'>微かに反応していた……だから）</span>
-Japanese,"scene_cp6_q4_s30,643",detail,루리아,大丈夫！ また機械の魔物が現れたら、<br>私も手伝います！<br>だから泣かないで、ね？
-Japanese,"scene_cp6_q4_s30,643",detail,이오,うん……<br>ありがと、ルリア……
-Japanese,"scene_cp6_q4_s30,643",detail,,<span class='scene-font-katari'>大公失踪の真実への一歩は、</span><br><span class='scene-font-katari'>イオにとって辛いものとなった。</span>
-Japanese,"scene_cp6_q4_s30,643",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>ルリアが機械の魔物に得た違和感は</span><br><span class='scene-font-katari'>確かにイオを勇気づけるのだった。</span>
+Japanese,"scene_cp6_q3_s20,632",synopsis,,廃鉱の奥深くに広がる研究施設の禍々しさに<span>[ジータ]</span>一行は戦慄し、大公の加担していた研究とは何だったのか思案を巡らせる。,폐광 깊숙이 펼쳐진 연구시설의 불길함에 <span>[지타]</span>일행은 전율에 빠져 대공이 가담했던 연구란 무엇이었는지 궁리한다.
+Japanese,"scene_cp6_q3_s20,632",detail,비이,そろそろ終点らしいぜ？,슬슬 종점이라던데?
+Japanese,"scene_cp6_q3_s20,632",detail,라캄,しかし、なんだぁ？ ここは。<br>なんの研究をしてるんだ？,근데 뭐야? 여기는 <br> 무슨 연구를 하고 있는거야?
+Japanese,"scene_cp6_q3_s20,632",detail,이오,師匠は、<br>これを手伝っていたの……？,"스승은,<br>이것을 돕고 있었니……?"
+Japanese,"scene_cp6_q3_s20,632",sel1_txt,,<span class='scene-font-katari'>星晶の研究かな</span>,<span class='scene-font-katari'>성정의 연구일까</span>
+Japanese,"scene_cp6_q3_s20,632",sel2_txt,,<span class='scene-font-katari'>鉱石の研究かな</span>,<span class='scene-font-4'>광석의 연구인가</span>
+Japanese,"scene_cp6_q3_s20,632",detail,라캄,<span class='scene-font-place'>バルツ</span>の大公も、<br>帝国と同じ研究をしてたってのか？,<span class='scene-font-place>발츠</span>의 대공도 <br>제국과 같은 연구를 하고 있었단 말인가?
+Japanese,"scene_cp6_q3_s20,632",detail,라캄,ありえねぇ話じゃねぇが……<br>……恐ろしいもんだな、<br><span class='scene-font-spword'>星の民</span>の遺産が持つ魔力ってのはよ……,"있을 수 없는 이야기가...<br>......무섭구나,<br><span class='scene-font-spword> 별의 백성</span>의 유산이 가진 마력이란 말이야……"
+Japanese,"scene_cp6_q3_s20,632",detail,라캄,それならこんな場所で、<br>ひっそり研究する必要は、<br>なかったんじゃねぇのか？,그렇다면 이런 곳에서 <br> 조용히 연구할 필요는 <br> 없었던 거 아닌가?
+Japanese,"scene_cp6_q3_s20,632",detail,라캄,何か、人にバレちゃ<br>マズイ研究をしてたのだけは、<br>間違いねぇだろうな……,"뭔가, 다른 사람에게 들키면<br>머즈이 연구를 하고 있었던 것만은,<br>틀림없겠지……"
+Japanese,"scene_cp6_q3_s20,632",detail,비이,おい！<br>ボーっとするんじゃねぇぜ！<br>魔物だ！！,야!<br>멍 때리지마!<br>마물이다!!
+Japanese,"scene_cp6_q4_s10,641",synopsis,,廃鉱を進む<span>[ジータ]</span>一行の前に、ついにエルステ帝国最高権力者である黒騎士が姿を現す。しかし、その黒騎士の口から、帝国も大公を探していることを告げられる。,폐광을 나아가는 <span>[지타]</span> 일행 앞에 마침내 에르스테 제국 최고 권력자인 흑기사가 모습을 드러낸다.그러나 그 흑기사의 입에서 제국도 대공을 찾고 있다는 말이 나온다.
+Japanese,"scene_cp6_q4_s10,641",detail,카타리나,！！ こ、この圧倒的な威圧感は……<br>馬鹿な……まさか……！？,"이, 이 압도적인 위압감은....<br>바보같다....설마....!?"
+Japanese,"scene_cp6_q4_s10,641",detail,？？？,うろたえるな、女。<br>貴様とてかつては、<br>我が帝国の名を負っていたのだろう？,"당황하지마, 여자.<br>네녀석도 예전에는,<br>우리 제국의 이름을 가지고 있었겠지?"
+Japanese,"scene_cp6_q4_s10,641",detail,카타리나,やはりそうか……！<br>なぜ貴様がここにいる！！,역시 그런가!!<br>왜 네가 여기에 있어!!
+Japanese,"scene_cp6_q4_s10,641",detail,카타리나,エルステ帝国最高顧問……<br>七曜の騎士がひとり……黒騎士！！<br>ここに貴様の出る幕はないはずだ！！,에르스테 제국 최고 고문...<br>칠요의 기사가 한 명......흑기사!!<br>여기에 네놈이 나오는 막은 없을 것이다!!
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,それを……<br>世界を決めるのは、この私だ。<br>貴様ごときが口を出すことではない。,"그것을……<br>세계를 결정하는 것은, 바로 나다.<br>네녀석이 참견할 일이 아니다."
+Japanese,"scene_cp6_q4_s10,641",detail,이오,<span class='scene-font-4'>てて、帝国の騎士！</span><br><span class='scene-font-4'>師匠はどこだ！</span>,<span class='scene-font-4'>그리고 제국의 기사!<br>스승은 어디있냐!</span>
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,威勢のいいガキだな……<br>師匠……ザカ大公のことか。<br>であれば、ここには居ない。,기세등등한 애구나……<br>스승……사카 대공을 말하는 건가.<br>이면 여기에 없다.
+Japanese,"scene_cp6_q4_s10,641",detail,이오,<span class='scene-font-4'>嘘をつかないで！</span><br>あんたたちが<br>師匠をさらったんでしょう！？,<span class='scene-font-4>거짓말 하지마!</span><br>너희가<br>스승을 납치했지?!
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,……口のきき方を学ぶことだな、小娘。<br>大公ならば、<br>こちらも探しているところだ。,"……말하는 법을 배우는구나, 계집애.<br>대공이라면,<br>이쪽도 찾고 있는 중이다."
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,大公は我が帝国に共同研究を持ちかけ<br>支援を引き出すと、<br>そのまま姿をくらましたのだ。,대공은 우리 제국에 공동 연구를 제의해 <br> 지원을 이끌어내자 <br> 그대로 종적을 감췄던 것이다.
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,気を付けることだな。<br>大公は「何か」を作るため、<br>この人形と……ルリアを狙っている。,조심할 일이네.<br> 대공은 <무엇인가>를 만들기 위해 <br> 이 인형과 루리아를 노리고 있다.
+Japanese,"scene_cp6_q4_s10,641",detail,？？？,…………,…………
+Japanese,"scene_cp6_q4_s10,641",detail,루리아,！！,！！
+Japanese,"scene_cp6_q4_s10,641",detail,,<span class='scene-font-katari'>廃鉱に作られた</span><br><span class='scene-font-katari'>帝国の地下秘密工場。</span><br><span class='scene-font-katari'>そこで待ち受けていた黒鎧の騎士。</span>,<span class='scene-font-4'>폐광에 만들어진 <br> 제국의 지하 비밀 공장. <br> 그곳에서 기다리고 있던 흑갑옷의 기사.</span>
+Japanese,"scene_cp6_q4_s10,641",detail,,<span class='scene-font-katari'>異様な雰囲気の中で</span><br><span class='scene-font-katari'>黒鎧の騎士の話は続く。</span>,<span class='scene-font-4'>이채로운 분위기 속에서 <br> 흑갑옷 기사 이야기는 이어진다.</span>
+Japanese,"scene_cp6_q4_s10,641",detail,카타리나,大公がルリアを狙っているだと？,대공이 루리아를 노린다고?
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,そうだ。私が謁見したとき大公閣下は、<br>既に何かに憑りつかれている様だった。,참. 내가 알현했을 때 대공각하는 <br> 이미 무엇에 홀린 듯 했다.
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,酷い顔であったよ。<br>血走った目ばかりが<br>妙に精気を発していた。,비참한 얼굴이었어.<br> 핏발선 눈만이<br>이상하게 정기를 발했어.
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,星晶の術……<br>大公はそれに固執していたな。<br>私の人形同様、ルリアも狙われるぞ？,성정술…<br> 대공은 그것을 고집했네.내 인형처럼 루리아도 노려볼만 하잖아?
+Japanese,"scene_cp6_q4_s10,641",detail,라캄,おい！ [ジータ]！<br>機械の魔物だ！<br>例の奴が入り口から……,야! [지타]! <br> 기계의 마물이다!<br> 예의 그 녀석이 입구에서……
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,ふん、言ったそばから……<br>せっかちな大公サマだ。<br>,"흥, 말하자마자……<br>성급한 대공 사마귀다.< br >"
+Japanese,"scene_cp6_q4_s10,641",detail,흑기사,ルリアと運命を共にする者よ。<br>また会おう……つまらぬ事では死ぬな。,루리아와 운명을 함께 할 자여.<br>다시 만나……부질하게는 죽지 말라.
+Japanese,"scene_cp6_q4_s10,641",detail,비이,だー！ あいつ、手伝えってんだ！<br>[ジータ]！<br>とにかく、騎空艇まで戻るぞ！,저녀석 도와주라는 거야!<br>[지타]!<br>어쨌든 기공정으로 돌아가자!
+Japanese,"scene_cp6_q4_s20,642",synopsis,,襲い来る機械の魔物が大公の差し金であると告げられ、イオは弟子である自分の存在も忘れてしまったのかと涙し、悲痛な声で機械の魔物に呼びかける。,"덮쳐오는 기계의 마물이 대공의 사환이라는 말을 듣고, 이오는 제자인 자신의 존재도 잊어버렸는지 눈물을 흘리며, 비통한 목소리로 기계의 마물에게 호소한다."
+Japanese,"scene_cp6_q4_s20,642",detail,이오,さっきの話が本当なら<br>あの機械の魔物を……師匠が？<br>どうして……どうして師匠がそんな……,아까의 이야기가 정말이라면<br>저 기계의 마물을……스승님이?<br> 어째서……어째서 스승이 그런……
+Japanese,"scene_cp6_q4_s20,642",detail,라캄,落ち着け、ガキンチョ！<br>あんな胡散臭いヤツの言うことは……,"침착해, 꼬맹이 초!<br> 저런 수상쩍은 녀석이 하는 말은……"
+Japanese,"scene_cp6_q4_s20,642",detail,이오,でも、でもでも、感じるの！<br>この機械の魔物から<br>師匠の魔法の息吹を……,"그렇지만, 그래도, 느껴져!<br>이기계의 마물로부터<br>스승의 마법의 숨결을……"
+Japanese,"scene_cp6_q4_s20,642",detail,라캄,んだと……！？,뭐라고......!?
+Japanese,"scene_cp6_q4_s20,642",detail,이오,前に襲われたときも<br>ボンヤリと感じたわ。<br>もしかしてと思ってたけど……,전에 습격당했을때도 <br>봉야리를 느꼈어.<br>혹시나 하고 생각했었는데...
+Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠……どうしてこんな……<br>なにしようとしてんの……<br>うううっ……ぐすっ,스승……어째서 이런……<br>뭐하려고 하는 거야……<br>으윽……꾹
+Japanese,"scene_cp6_q4_s20,642",detail,비이,よし、あそこが出口だ！<br>塞いでる一匹を片付けるぞ！,"좋아, 저기가 출구야!막고 있는 한마리를 치워버리겠어!"
+Japanese,"scene_cp6_q4_s20,642",detail,이오,……！,……！
+Japanese,"scene_cp6_q4_s20,642",detail,카타리나,イオ！<br>何をしているんだ！ もどれ！,이오!<br> 뭐하고 있어! 들어가!
+Japanese,"scene_cp6_q4_s20,642",detail,,<span class='scene-font-katari'>イオはラカムを振り切ると、</span><br><span class='scene-font-katari'>無謀にも機械の魔物へと取り付いた。</span>,<span class='scene-font-katari>이오는 라캄을 뿌리치더니 </span><br><span class='scene-font-katari>무모하게도 기계의 마물로 매달렸다.</span>
+Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ ししょーっ！<br>聞こえてるんでしょ！？<br>あたしだよ、イオだよ！！,스승님! 쉬옷! <br> 들리고 있지!?나야 나야 이오야!!
+Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ どこに居るの！？,스승님! 어디에 있어?
+Japanese,"scene_cp6_q4_s20,642",detail,이오,何をしてるの……？<br>早く帰ってきてよ……,뭐하고 있어……?빨리 돌아와……
+Japanese,"scene_cp6_q4_s20,642",detail,루리아,イオちゃん！<br>だめ！ このままじゃ危ないです！,이오짱!<br>안돼! 이러다 위험해요!
+Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ もう帰ろう！<br><span class='scene-font-4'>ねぇってば！！</span>,스승님! 그만 돌아가자!<br><span class='scene-font-4> 야라니까!!</span>
+Japanese,"scene_cp6_q4_s20,642",detail,비이,チクショウ！<br>[ジータ]！<br>とにかくあいつを急いで倒すぜ！！,칙쇼!<br>[지타]!<br>어쨌든 저 녀석을 서둘러 쓰러뜨릴거야!!
+Japanese,"scene_cp6_q4_s30,643",synopsis,,なんとか機械の魔物は退けるが、もう大公に声が届かないことを悲しむイオ。しかし、イオの声に機械の魔物がわずかに反応したことに気付いていたルリアが優しく励ます。,"어떻게든 기계의 마물은 물리치지만, 이미 대공에게 소리가 닿지 않는 것을 슬퍼한다이오.그러나 이오의 목소리에 기계의 마물이 살짝 반응한것을 눈치챈 루리아가 부드럽게 격려합니다."
+Japanese,"scene_cp6_q4_s30,643",detail,비이,……みんな、無事か？<br>ヘヘ、なかなかの強敵だったな。,"……모두, 무사한가?<br> 헤헤, 상당한 강적이었어."
+Japanese,"scene_cp6_q4_s30,643",detail,라캄,イオは無事か？,이오는 무사한가?
+Japanese,"scene_cp6_q4_s30,643",detail,이오,ぐすっ……ぐすっ。,큭큭... 큭큭.
+Japanese,"scene_cp6_q4_s30,643",detail,카타리나,無事だ、ここに居る。,"무사하다, 여기 있다."
+Japanese,"scene_cp6_q4_s30,643",detail,라캄,ふぅ……怪我はねぇみてぇだな。<br>ったく、これだからガキンチョは……,후……부상은 없는 것 같네.<br> 정말 이래서 꼬맹이는……
+Japanese,"scene_cp6_q4_s30,643",detail,비이,こりゃぁ、仕切り直しだな。<br>一旦、街に帰るか。<br>なぁ？ [ジータ],이거 다시 시작이네.일단 시내로 가볼까?[지타]
+Japanese,"scene_cp6_q4_s30,643",detail,이오,ぐすっ……師匠……<br>あたしの声、もう届かないんだ……,"푹....스승....<br> 내 목소리, 이젠 닿지 않아...."
+Japanese,"scene_cp6_q4_s30,643",detail,루리아,イオちゃん……そんなことないです。<br>イオちゃんの声は、きっと届いてます。,이오짱……그렇지 않습니다.이오짱의 목소리는 잘 도착했습니다.
+Japanese,"scene_cp6_q4_s30,643",detail,루리아,<span class='scene-font-kokoro'>（イオちゃんの声に反応して</span><br><span class='scene-font-kokoro'>機械の魔物に施された魔法が</span><br><span class='scene-font-kokoro'>微かに反応していた……だから）</span>,<span class='scene-font-kokoro>(이오짱의 목소리에 반응하여</span><br><span class='scene-font-kokoro> 기계의 미물에 제거된 마법이</span><br><span class='scene-font-kokoro>에 부착된 마법이다.
+Japanese,"scene_cp6_q4_s30,643",detail,루리아,大丈夫！ また機械の魔物が現れたら、<br>私も手伝います！<br>だから泣かないで、ね？,"괜찮아! 다시 기계의 마물이 나타나면 <br> 나도 도와줄게요!<br>그러니까 울지마, 알았지?"
+Japanese,"scene_cp6_q4_s30,643",detail,이오,うん……<br>ありがと、ルリア……,"응……<br>고마워, 루리아……"
+Japanese,"scene_cp6_q4_s30,643",detail,,<span class='scene-font-katari'>大公失踪の真実への一歩は、</span><br><span class='scene-font-katari'>イオにとって辛いものとなった。</span>,<span class='scene-font-katari> 대공 실종의 진실을 향한 한 걸음은 </span><br><span class='scene-font-katari>이오에게 괴로운 것이 되었다.</span>
+Japanese,"scene_cp6_q4_s30,643",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>ルリアが機械の魔物に得た違和感は</span><br><span class='scene-font-katari'>確かにイオを勇気づけるのだった。</span>,< span class = ' scene - font - katari ' > しかし 、 < / span > < br > < span class = ' scene - font - katari ' > ルリ ア が 機械 の 魔物 に 得た 違和 感 は < / span > < br > < span class = ' scene - font - katari ' > 確か に イオ を 勇気 づける の だった 。 < / span >
 English,"scene_cp6_q1_s10,611",synopsis,,"The unconscious girl wakes up and tells the crew that her name is Io and she's looking for her master, Archduke Tzaka. This new clue brings [Djeeta] and company one step closer to the archduke."
 English,"scene_cp6_q1_s10,611",detail,,[Djeeta] and company are at the Knickknack Shack deciding on their next steps for finding the archduke. Siero shows up to deliver some good news.
 English,"scene_cp6_q1_s10,611",detail,Sierokarte,"That mage you found has woken up, [Djeeta]! Right this way! No need to be scared!"
