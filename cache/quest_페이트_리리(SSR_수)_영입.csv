@@ -1,4 +1,3 @@
-ㅡ
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_fate_chr021_ep1,synopsis,,野盗に襲われる少女を助け出した一行。リリィという名の少女は<span>[ジータ]</span>と出会い、自身から発する冷気が収まったという。春を与えてくれる存在を探していたリリィは、<span>[ジータ]</span>との旅路に加わるのだった。
 Japanese,scene_fate_chr021_ep1,detail,ビィ,――ううっ……<br>な、なぁ、[ジータ]<br>なんか寒くねーか？
@@ -63,12 +62,6 @@ Japanese,scene_chr021_q1_s10,detail,街人,魔物だ！<br>魔物が街に入ろ
 Japanese,scene_chr021_q1_s10,detail,ビィ,間の悪いときに……<br>[ジータ]！<br>オイラ達も行こうぜ！
 Japanese,scene_chr021_q1_s10,detail,ルリア,行きましょう、[ジータ]！<br>魔物が街に入ってくる前に、<br>食い止められるかもしれません！
 Japanese,scene_chr021_q1_s10,detail,リリィ,あぅ……やっぱり。
-
-
-
-
-
-
 English,scene_fate_chr021_ep1,synopsis,,"The party saves Lily from a pack of Bandits, and Lily realizes [Djeeta] has the power to return spring to her. Seeking an end to her wintry isolation, she joins the crew on their journey."
 English,scene_fate_chr021_ep1,detail,Vyrn,Brrr... Is it just me or is it chilly here?
 English,scene_fate_chr021_ep1,detail,Lyria,A-are you going to be okay? Will you be able to move in this cold?
@@ -114,25 +107,6 @@ English,scene_fate_chr021_ep1,detail,Lyria,"Oh... I don't see any harm calling m
 English,scene_fate_chr021_ep1,detail,Lily,Yup! I will!
 English,scene_fate_chr021_ep1,detail,Vyrn,I'm a little worried about how she's gonna turn out...
 English,scene_fate_chr021_ep1,detail,,"And with that, Lily, the ice maiden in search of springtime, joins [Djeeta]'s crew."
-Language,SceneCode,Type,Name,Origin,Korean
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 English,scene_chr021_q1_s10,synopsis,,"The crew enjoys their time in a peaceful town, but Lily seems uneasy. Before Lyria has a chance to find out why, monsters appear at the town gates."
 English,scene_chr021_q1_s10,detail,,"During their journey, [Djeeta] and crew enter a town to rest."
 English,scene_chr021_q1_s10,detail,,"As they pass by the front gates, Lily suddenly stops."
