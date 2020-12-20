@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp24_q1_s10,2411",synopsis,,死を司る星晶獣セレストは再び<span>[ジータ]</span>一行の前に立ちはだかる。その姿に一行は絶望しかけるが、セレストを倒す方法は確かにある、とドランクは口にする。,죽음을 관장하는 성정수 셀레스트는 다시 <span>[지타]</span> 일행의 앞을 가로막는다.그 모습에 일행은 절망하지만 셀레스트를 꺾을 방법은 분명 있다고 드렁크는 말한다.
 Japanese,"scene_cp24_q1_s10,2411",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ついに姿を現した星晶獣セレストを</span><br><span class='scene-font-katari'>確かにその手で葬り去る。</span>,<span class = 'scene-font-katari'> [지타] 일행은 </ span> <br> <span class = 'scene-font-katari'> 드디어 모습을 드러냈다 성정수 셀레스트 </ span > <br> <span class = 'scene-font-katari'> 확실히 그 손으로 파묻어 버린다. </ span>
-Japanese,"scene_cp24_q1_s10,2411",detail,,<span class='scene-font-katari'>しかし、死を司る幽霊船の星晶獣は、</span><br><span class='scene-font-katari'>何事もなかったかのように、</span><br><span class='scene-font-katari'>再び一同の前に立ちはだかるのだった。</span>,<span class='scene-font-katari> 그러나 죽음을 관장하는 유령선의 성정수는 </span><br><span class='scene-font-katari>>또다시 서 있는 유령선의 성정수는 </span><br><span class='scene-font-katari><span>다시 일동의 앞을 가로막는 것이었다
+Japanese,"scene_cp24_q1_s10,2411",detail,,<span class='scene-font-katari'>しかし、死を司る幽霊船の星晶獣は、</span><br><span class='scene-font-katari'>何事もなかったかのように、</span><br><span class='scene-font-katari'>再び一同の前に立ちはだかるのだった。</span>,<span class='scene-font-katari> 그러나 죽음을 관장하는 유령선의 성정수는 </span><br><span class='scene-font-katari>또다시 서 있는 유령선의 성정수는 </span><br><span class='scene-font-katari><span>다시 일동의 앞을 가로막는 것이었다
 Japanese,"scene_cp24_q1_s10,2411",detail,セレスト,…………,…………
 Japanese,"scene_cp24_q1_s10,2411",detail,비이,どうなってんだよいったい！<br>こいつはさっき、<br>オイラ達が倒したはずだぜ！？,어떻게 된거야 도대체!<br>이놈은 아까 <br>오이라들이 쓰러뜨렸을거야!?
 Japanese,"scene_cp24_q1_s10,2411",detail,이오,まさに悪夢ね……<br>もしかして、何度倒しても甦るとか<br>言うんじゃないでしょーね！？,"바로 악몽이구나……<br>혹, 몇번을 쓰러뜨려도 되살아난다던가<br>말하는건 아니겠지!?"
@@ -15,8 +15,8 @@ Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,つまりね？<br>あれは�
 Japanese,"scene_cp24_q1_s20,2412",detail,카타리나,その情報は確かなのか？<br>ずいぶんとこの星晶獣に関して、<br>詳しいようだが……,그 정보는 확실한가?<br> 대단히 이 성정수에 관해 <br> 자세히 알고 있는 것 같은데……
 Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,まぁ、信じる信じないは、<br>君達次第だよねぇ！,"뭐, 믿고 안믿고는,<br>군들 나름이지!"
 Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,[ジータ]は、<br>どう思うんだい？,"[지타]는,<br>어떻게 생각하는데?"
-Japanese,"scene_cp24_q1_s20,2412",sel1_txt,,<span class='scene-font-katari'>ドランクを信じよう</span>,< span   class = ' scene - font - katari ' > ドランク を 信じよう < / span >
-Japanese,"scene_cp24_q1_s20,2412",sel2_txt,,<span class='scene-font-katari'>いまはドランクに賭けるしかない</span>,<span class='scene-font-katari>>지금은 드렁크에 걸 수밖에 없다</span>
+Japanese,"scene_cp24_q1_s20,2412",sel1_txt,,<span class='scene-font-katari'>ドランクを信じよう</span>,<span class='scene-font-katari'>드랑코를 믿자</span>
+Japanese,"scene_cp24_q1_s20,2412",sel2_txt,,<span class='scene-font-katari'>いまはドランクに賭けるしかない</span>,<span class='scene-font-katari>지금은 드랑코에 걸 수밖에 없다</span>
 Japanese,"scene_cp24_q1_s20,2412",detail,비이,ここまできた以上、<br>もう信じるしかねーよな！,"여기까지 온 이상,<br>이제 믿을 수 밖에 없지!"
 Japanese,"scene_cp24_q1_s20,2412",detail,비이,ドランク！<br>頼むから期待を裏切るんじゃねーぜ！,드렁크!<br>제발 기대를 저버리지 말아줘!
 Japanese,"scene_cp24_q1_s20,2412",detail,카타리나,確かにそれもあるな……<br>他に有効な手段も、<br>思い浮かびそうにない……,"확실히 그것도 있네……<br>그 밖에 유효한 수단도,<br>생각날 것 같지 않아……"
@@ -88,16 +88,16 @@ Japanese,"scene_cp24_q4_s30,2443",synopsis,,セレストを倒し村人達が消
 Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,これで……全てが終わったのか……,이것으로……모든 것이 끝난 것일까……
 Japanese,"scene_cp24_q4_s30,2443",detail,루리아,星晶獣セレストの力……<br>確かに受け取りました。,성정수 셀레스트의 힘……<br>확실히 받았습니다.
 Japanese,"scene_cp24_q4_s30,2443",detail,비이,おっ！<br>霧が薄くなって、<br>光が差してきたな！,"어! 안개가 옅어지고,<br>빛이 내리네!"
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>それを合図とするかのように、</span><br><span class='scene-font-katari'>村人達は、ひとりまたひとりと、</span><br><span class='scene-font-katari'>その姿を砂に変えていく。</span>,<span class='scene-font-katari>>를 신호로 하듯 </span><br><span class='scene-font-katari>마을 사람들은 한 사람 한 사람과 </span><br><span'class=<span'class><spane-katari>모습을 바꾸었다.
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>消えていく村人達は、</span><br><span class='scene-font-katari'>皆一様に明るく晴れやかな</span><br><span class='scene-font-katari'>笑顔を浮かべていた。</span>,<span class = 'scene-font-katari'> 사라져가는 마을 사람들은 </ span> <br> <span class = 'scene-font-katari'> 모두 한결같이 밝게 빛나는 </ span> < br> <span class = 'scene-font-katari'> 미소를 짓고 있었다. </ span>
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>それを合図とするかのように、</span><br><span class='scene-font-katari'>村人達は、ひとりまたひとりと、</span><br><span class='scene-font-katari'>その姿を砂に変えていく。</span>,<span class='scene-font-katari>를 신호로 하듯 </span><br><span class='scene-font-katari>마을 사람들은 한 사람 한 사람과 </span><br><span'class=<span'class><spane-katari>모습을 바꾸었다.
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>消えていく村人達は、</span><br><span class='scene-font-katari'>皆一様に明るく晴れやかな</span><br><span class='scene-font-katari'>笑顔を浮かべていた。</span>,<span class='scene-font-katari'> 사라져가는 마을 사람들은 </ span> <br> <span class='scene-font-katari'> 모두 한결같이 밝게 빛나는 </ span> < br> <span class='scene-font-katari'> 미소를 짓고 있었다. </ span>
 Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,じゃあ……私もそろそろだろ。,그럼……나도 슬슬이잖아.
 Japanese,"scene_cp24_q4_s30,2443",detail,루리아,うん……じゃあね、フェリちゃん。,"응...그럼 안녕, 페리."
 Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,短い間だったけど、<br>お前達には本当に世話になった……<br>悪いが私は先に向こうへ往っている……,"짧은 시간이었지만,<br>너희들에게는 정말로 신세졌다……<br>미안하지만 나는 먼저 저쪽으로 가있다……"
 Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,何十年……何百年か後に再会したら、<br>その時には、<br>お前達の冒険の話を聞かせてくれ。,"몇십년……몇백년인가 후에 재회하면,<br>그때는,<br>너희들의 모험이야기를 들려줘."
 Japanese,"scene_cp24_q4_s30,2443",detail,루리아,はい……,예………
 Japanese,"scene_cp24_q4_s30,2443",detail,비이,うぅ……<br>む、向こうでも元気でいろよな！,"우……<br>무, 저쪽에서도 건강하게 있어라!"
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>フェリは[ジータ]達に別れを告げ、</span><br><span class='scene-font-katari'>ゆっくりと目を閉じ時を待つ。</span>,<span class='scene-font-katari> 페리는 [지타]들에게 이별을 통보하고 </span><br><span class='scene-font-katari>> 천천히 눈을 감고 때를 기다린다.</span>
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>しかし、いくら待とうとも、</span><br><span class='scene-font-katari'>フェリの身体が霞の中に</span><br><span class='scene-font-katari'>消えていくことはなかった。</span>,< span   class = ' scene - font - katari ' > しかし 、 いくら 待とう とも 、 < / span > < br > < span   class = ' scene - font - katari ' > フェリ の 身体 が 霞 の 中 に < / span > < br > < span   class = ' scene - font - katari ' > 消えて いく こと は なかった 。 < / span >
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>フェリは[ジータ]達に別れを告げ、</span><br><span class='scene-font-katari'>ゆっくりと目を閉じ時を待つ。</span>,<span class='scene-font-katari> 페리는 [지타]들에게 이별을 통보하고 </span><br><span class='scene-font-katari> 천천히 눈을 감고 때를 기다린다.</span>
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>しかし、いくら待とうとも、</span><br><span class='scene-font-katari'>フェリの身体が霞の中に</span><br><span class='scene-font-katari'>消えていくことはなかった。</span>,<span class = 'scene-font-katari'> 그러나 아무리 기다리해도 </ span> <br> <span class = 'scene-font-katari'> 페리의 신체가 안개 속에 </ span> <br> <span class = 'scene-font-katari'> 사라진 것은 아니었다. </ span>
 Japanese,"scene_cp24_q4_s30,2443",detail,비이,おいおい、どうなってんだよ！？<br>さっきの感動の別れが、<br>台無しじゃねーか！？,"야야, 어떻게 된 거야!?<br>아까의 감동의 이별이,<br>망친거 아냐!?"
 Japanese,"scene_cp24_q4_s30,2443",detail,루리아,いいじゃないですかビィさん！<br>理由はどうあれ、<br>消えないで済んだんですから！,괜찮잖아요 뷔씨! <br> 이유야 어떻든 <br> 꺼지지 않고 끝났으니까요!
 Japanese,"scene_cp24_q4_s30,2443",detail,카타리나,しかし、どういうことなんだ？<br>他に残っている村人などは、<br>居ないようだが……,"근데 이게 무슨 소리지?<br>다른 마을사람들은,<br>없는것 같지만……"
@@ -133,7 +133,7 @@ Japanese,"scene_cp24_q4_s30,2443",detail,스츠룸,残念だが……それは�
 Japanese,"scene_cp24_q4_s30,2443",detail,드랑크,じゃあ、そのお仕事はすっぽかそう！<br>よし、決まり！<br>それじゃあ、さっそく……痛てッ！？,"자, 그 일은 팽개치자!<br>좋아, 결정!그럼, 즉시……아파!?"
 Japanese,"scene_cp24_q4_s30,2443",detail,스츠룸,信用第一だ……あたし達の仕事はな。<br>ほら、もう行くぞ……,"신용 제일이야...우리의 일은.<br>자, 이제 간다……"
 Japanese,"scene_cp24_q4_s30,2443",detail,드랑크,ああ、待って待ってスツルム殿！<br>置いてかないでぇ～！,"아아, 기다려 기다려 스츠룸 나리!<br>놓지 말아줘~!"
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>思わぬ出会いを得た[ジータ]一行は</span><br><span class='scene-font-katari'>グランサイファーを修理するため、</span><br><span class='scene-font-katari'>あらためてガロンゾを目指す。</span>,<span class='scene-font-katari>>뜻밖의 만남을 얻은 [지타] 일행은 </span><br><span class='scene-font-katari>그랜사이퍼를 다시 수리하기 위해 </span><br><span class='scene-katari> 그랜사이퍼를 수리하기 위해 다시 설정.
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>思わぬ出会いを得た[ジータ]一行は</span><br><span class='scene-font-katari'>グランサイファーを修理するため、</span><br><span class='scene-font-katari'>あらためてガロンゾを目指す。</span>,<span class='scene-font-katari>뜻밖의 만남을 얻은 [지타] 일행은 </span><br><span class='scene-font-katari>그랜사이퍼를 다시 수리하기 위해 </span><br><span class='scene-katari> 그랜사이퍼를 수리하기 위해 다시 설정.
 Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>[ジータ]一行の進む先には、</span><br><span class='scene-font-katari'>更なる出会いと事件が</span><br><span class='scene-font-katari'>待ち構えているのだった。</span>,<span class = 'scene-font-katari'>[지타] 일행의 앞으로 끝에는 </ span> <br> <span class = 'scene-font-katari'> 더욱 만남과 사건이 </ span > <br> <span class = 'scene-font-katari'> 기다리고있는 것이었다. </ span>
 English,"scene_cp24_q1_s10,2411",synopsis,,"Celeste rises again before [Djeeta] and the others. They soon fall into despair, but Drang reassures them, saying they'll find a way to defeat it."
 English,"scene_cp24_q1_s10,2411",detail,,"Celeste appears before [Djeeta] and the others, though they're certain they'd just defeated it."
