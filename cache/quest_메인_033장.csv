@@ -42,8 +42,8 @@ Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,ふふ……<br>論理とし�
 Japanese,"scene_cp33_q1_s20,3312",detail,루리아,え？,엥?
 Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,いかなる理由を重ねようと、<br>信じられぬものは信じられない。<br>人とはそういうものだ。,어떤 이유로든 <br> 믿을 수 없는 것은 믿을 수 없다.<br>사람이란 그런 것이다.
 Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,さぁ、どうする？<br>この艇は私のものではないからな、<br>選択権はお前にある。,"자, 어떡해?<br>이 배는 내 것이 아니니까 <br> 선택권은 너에게 있다."
-Japanese,"scene_cp33_q1_s20,3312",sel1_txt,,<span class='scene-font-katari'>信じよう</span>,< span   class = ' scene - font - katari ' > 信じよう < / span >
-Japanese,"scene_cp33_q1_s20,3312",sel2_txt,,<span class='scene-font-katari'>信じられない</span>,< span   class = ' scene - font - katari ' > 信じられない < / span >
+Japanese,"scene_cp33_q1_s20,3312",sel1_txt,,<span class='scene-font-katari'>信じよう</span>,<span class='scene-font-katari'>믿어보자</span>
+Japanese,"scene_cp33_q1_s20,3312",sel2_txt,,<span class='scene-font-katari'>信じられない</span>,<span class='scene-font-katari'>믿지 못하겠다</span>
 Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,そうか……だが礼は言わんぞ。<br>私はこの選択の結果を、<br>何も保証してやれないからな。,그렇구나……하지만 답례는 하지 않겠다. <br> 나는 이 선택의 결과를 <br> 아무것도 보증해줄 수 없으니까.
 Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,賢明だな……しかし、ではどうする？<br>あの戦艦全ての<br>相手をすると言うのか？,"현명하다……하지만, 그럼 어떻게 하지?저 전함의 모든 <br>상대를 하겠다는 거야?"
 Japanese,"scene_cp33_q1_s20,3312",detail,비이,悩んでる時間はねーみてぇだぜ！<br>連中、どんどん攻めてきやがる！,"고민하고 있는 시간은 없어- 보고 싶어!<br>친구들, 점점 공격해 온다!"
@@ -51,10 +51,10 @@ Japanese,"scene_cp33_q1_s20,3312",detail,라캄,なんにせよ、<br>まずは�
 Japanese,"scene_cp33_q1_s20,3312",detail,라캄,黒騎士！<br>アンタにも手伝ってもらうぞ！,흑기사!<br>안타도 도와줘!
 Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,無論だ。<br>この程度の雑魚、<br>私が一掃してくれる！,"물론이야.<br>이정도 잡어,<br>내가 싹쓸이 해줄게!"
 Japanese,"scene_cp33_q2_s10,3321",synopsis,,無事にラビ島へと降りることに成功した[ジータ]一行。一同は砂漠にバルツを思い出しながら、遺跡のような古い街並みを眺める。そんな[ジータ]達に、黒騎士は魔物に注意するよう警告するのだった。,"무사히 라비 섬으로 내려오는데 성공한 [지타] 일행모두는 사막에 발츠를 떠올리며 유적지 같은 낡은 거리 풍경을 바라본다.그런 [지타]들에게, 흑기사는 마물에 주의하도록 경고하는 것이었다."
-Japanese,"scene_cp33_q2_s10,3321",detail,,<span class='scene-font-katari'>黒騎士の言葉には</span><br><span class='scene-font-katari'>未だに含んでいるものがあり、</span><br><span class='scene-font-katari'>信じることに難色を示す者もいた。</span>,"<span class='scene-font-katari> 흑기사의 말에는 </span><br><span class='scene-font-katari'>도 여전히 포함하고 있는 것이 있으며, </span><span class='scene-font-katari>도 있다."
+Japanese,"scene_cp33_q2_s10,3321",detail,,<span class='scene-font-katari'>黒騎士の言葉には</span><br><span class='scene-font-katari'>未だに含んでいるものがあり、</span><br><span class='scene-font-katari'>信じることに難色を示す者もいた。</span>,<span class='scene-font-katari'>흑기사의 말에는</span><br><span class='scene-font-katari'>아직 무엇인가 숨어 있는것 같아서、</span><br><span class='scene-font-katari'>믿는 것에 난색을 표하는 사람도 있었다。</span>
 Japanese,"scene_cp33_q2_s10,3321",detail,,<span class='scene-font-katari'>しかし、引き返すわけにもいかず、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>密かにラビ島へと降り立った。</span>,"<span class='scene-font-katari'>그러나 되돌아갈 수도 없고,</span><br><span class='scene-font-katari'>[지타] 일행은、</span><br><span class='scene-font-katari'>몰래 라비 섬으로 내려갔다.。</span>"
 Japanese,"scene_cp33_q2_s10,3321",detail,이오,ここが<span class='scene-font-place'>ラビ島</span>……<br>なんだかちょっと<span class='scene-font-place'>バルツ</span>に似てるわね。,여기가 <span class='scene-font-place'> 라비 섬</span>……<br> 왠지 좀 <span class='scene-font-place'> 발츠</span>와 비슷해.
-Japanese,"scene_cp33_q2_s10,3321",detail,비이,<span class='scene-font-place'>バルツ</span>も砂ばっかだったもんなぁ。<br>しかもすっげぇ暑いし……<br>干からびるかと思ったぜ。,<span class='scene-font-place> 발츠</span>도 모래였잖아.<br>게다가 엄청 더워서……<br>메마르는 줄 알았지.
+Japanese,"scene_cp33_q2_s10,3321",detail,비이,<span class='scene-font-place'>バルツ</span>も砂ばっかだったもんなぁ。<br>しかもすっげぇ暑いし……<br>干からびるかと思ったぜ。,<span class='scene-font-place'> 발츠</span>도 모래였잖아.<br>게다가 엄청 더워서……<br>메마르는 줄 알았지.
 Japanese,"scene_cp33_q2_s10,3321",detail,이오,ふん……<br><span class='scene-font-place'>バルツ</span>の人達は、<br>あの暑さでへばるほどヤワじゃないの。,"흠…<br><span class='scene-font-place'>발츠</span>사람들은,<br>저 더위에 지칠만큼 위험하잖아."
 Japanese,"scene_cp33_q2_s10,3321",detail,이오,どっかの軟弱なトカゲとは<br>全然違うんだから！,어딘가의 연약한 도마뱀과는<br>전혀 다르니까!
 Japanese,"scene_cp33_q2_s10,3321",detail,비이,んだとぉ！<br>オイラは軟弱じゃねーし、<br>トカゲでもねーっての！,"라고!<br>오이라는 연약하지도 않고,<br>도마뱀도 아니라고!"
