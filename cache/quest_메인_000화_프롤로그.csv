@@ -1,6 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_tutorial00,011",synopsis,,父親の残した手紙に導かれ、空の果てへと旅立とうとする少女。しかし、時を同じくして村には戦艦が現れ、謎の少女が助けを求めてくる。,"아버지가 남긴 편지에 이끌려, 하늘의 끝으로 여행을 떠나려던 소녀. 하지만, 동시에 마을에는 전함이 나타나고, 수수께끼의 소녀가 도움을 청해온다."
-Japanese,"scene_tutorial00,011",synopsis,,父親の残した手紙に導かれ、空の果てへと旅立とうとする少年。しかし、時を同じくして村には戦艦が現れ、謎の少女が助けを求めてくる。,"아버지가 남긴 편지에 이끌려, 하늘의 끝으로 여행을 떠나려던 소년. 하지만, 동시에 마을에는 전함이 나타나고, 수수께끼의 소녀가 도움을 청해온다."
+Japanese,"scene_tutorial00,011",synopsis,,父親の残した手紙に導かれ、空の果てへと旅立とうとする少女。しかし、時を同じくして村には戦艦が現れ、謎の少女が助けを求めてくる。,"아버지가 남긴 편지에 이끌려, 하늘의 끝으로 여행을 떠나려던 소년(소녀). 하지만, 동시에 마을에는 전함이 나타나고, 수수께끼의 소녀가 도움을 청해온다."
 Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>――神に見捨てられたその世界には、</span><br><span class='scene-font-katari'>一つの竜の姿があった。</span>,"<span class='scene-font-katari'>--신에게 버림받은 그 세계에는,</span><br><span class='scene-font-katari'>한 용의 모습이 있었다.</span>"
 Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>破壊による創造を司る竜、バハムートは</span><br><span class='scene-font-katari'>己が使命に従い、残された世界を</span><br><span class='scene-font-katari'>より芳醇なものへと進化させた。</span>,"<span class='scene-font-katari'>파괴에 의한 창조를 관장하는 용, 바하무트는</span><br><span class='scene-font-katari'>자신의 사명에 따라, 남겨진 세계를</span><br><span class='scene-font-katari'>더욱 다채로운 세계로 진화시켰다.</span>"
 Japanese,"scene_tutorial00,011",detail,,<span class='scene-font-katari'>しかしそこへ、侵略者が現れる。</span><br><span class='scene-font-katari'>空の果て、彼方の世界より現れた彼らは、</span><br><span class='scene-font-spword'>星の民</span><span class='scene-font-katari'>と呼ばれた。</span>,"<span class='scene-font-katari'>하지만 그곳에, 침략자가 나타난다.</span><br><span class='scene-font-katari'>하늘의 끝, 저편의 세계에서 나타난 그들은,</span><br><span class='scene-font-spword'>별의 민족</span><span class='scene-font-katari'>라고 불렸다.</span>"
@@ -120,7 +119,7 @@ Japanese,"scene_tutorial01,021",detail,폼메른,ほう……！<br>これが例
 Japanese,"scene_tutorial01,021",detail,폼메른,し、しかし……<br>これはいったいィィ……！？,하、하지만……<br>이건 대체~~……！？
 Japanese,"scene_tutorial01,021",detail,루리아,大丈夫……,괜찮아……
 Japanese,"scene_tutorial01,021",detail,루리아,<span class='nickname'></span>……<br>私の力……あなたに預けます……！,<span class='nickname'></span>……<br>나의 힘……당신에게 맡깁니다……！
-Japanese,"scene_tutorial02,031",synopsis,,ポンメルン大尉の繰り出すヒドラによって致命傷を負った<span>[ジータ]</span>を、自らと同期させることで命を救ったことを明かすルリア。<span>[ジータ]</span>はルリアと文字通りの一心同体となる。,폼메른 대위가 내보낸 히드라에 의해 치명상을 입은 <span>[지타]</span>를 자신과 동기시키는 것으로 목숨을 구했다고 밝히는 루리아. <span>[지타]</span>는 루리아와 말 그대로 일심동체가 된다.
+Japanese,"scene_tutorial02,031",synopsis,,ポンメルン大尉の繰り出すヒドラによって致命傷を負った<span>[ジータ]</span>を、自らと同期させることで命を救ったことを明かすルリア。<span>[ジータ]</span>はルリアと文字通りの一心同体となる。,폼메른 대위가 내보낸 히드라에 의해 치명상을 입은 <span>[지타]</span>을/를 자신과 동기시키는 것으로 목숨을 구했다고 밝히는 루리아. <span>[지타]</span>은/는 루리아와 말 그대로 일심동체가 된다.
 Japanese,"scene_tutorial02,031",detail,루리아,始原の竜……,기원의 용……
 Japanese,"scene_tutorial02,031",detail,루리아,闇の炎の子……,어둠의 불꽃의 아이……
 Japanese,"scene_tutorial02,031",detail,루리아,汝の名は――,당신의 이름은――
