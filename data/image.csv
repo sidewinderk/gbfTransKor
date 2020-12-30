@@ -121,8 +121,9 @@ event/biography027/assets/header/bg_header,event/biography027/assets/header/bg_h
 event/biography027/parts-s763279b066,event/biography027/parts-s763279b066.png
 
 !튜토리얼 오프닝
-story/tutorial/opening.png,story/tutorial/opening.png
-story/tutorial/opening2.png,story/tutorial/opening2.png
+/img/sp/cjs/opening.png,story/tutorial/opening.png
+/img_mid/sp/cjs/opening.png,story/tutorial/opening_mid.png
+/img_low/sp/cjs/opening.png,story/tutorial/opening_low.png
 
 !귀멸 콜라보
 event/biography029/assets/header/bg_header,event/biography029/assets/header/bg_header.png
