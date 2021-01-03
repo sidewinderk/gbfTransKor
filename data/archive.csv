@@ -5130,6 +5130,7 @@ C.C.,C.C.
 
 !파이터 계열
 ファイターのアビリティ,파이터의 어빌리티
+ウォーリアのアビリティ,워리어의 어빌리티
 ウェポンバースト,웨폰 버스트
 レイジ,레이지
 参戦者の攻撃UP(小),참전자의 공격 UP(소)
@@ -5341,14 +5342,14 @@ C.C.,C.C.
 !랜서 계열
 リードドライブ,리드 드라이브
 デュアルインパルス,듀얼 임펄스
-"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(小)<br>斧：敵のダブルアタック確率DOWN(小)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률UP(소)<br>도끼：적의 더블어택 확률DOWN(소)</span></div>"
+"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(小)<br>斧：敵のダブルアタック確率DOWN(小)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(소)<br>도끼：적의 더블어택 확률 DOWN(소)</span></div>"
 デュアルインパルスII,듀얼 임펄스II
-"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(中)<br>斧：敵のダブルアタック確率DOWN(中)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률UP(중)<br>도끼：적의 더블어택 확률DOWN(중)</span></div>"
+"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(中)<br>斧：敵のダブルアタック確率DOWN(中)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(중)<br>도끼：적의 더블어택 확률 DOWN(중)</span></div>"
 パイルリベレーション,파일 리버레이션
 "<div class=""prt-text-small"">自分の奥義ゲージに応じて自属性ダメージ/攻撃UP/防御UP/自分にダメージ</div>","<div class=""prt-text-small"">자신의 오의게이지에 따라 자신의 속성 데미지/공격UP/방어UP/자신에게 데미지</div>"
 リードドライブII,리드 드라이브II
 デュアルインパルスIII,듀얼 임펄스III
-"<div class=""prt-text-small"">効果中必ずトリプルアタック<br><span class=""text-blue"">槍：参戦者の連続攻撃確率UP(大)<br>斧：敵の連続攻撃確率DOWN(大)</span></div>","<div class=""prt-text-small"">효과 중 반드시 트리플어택<br><span class=""text-blue"">창：참전자의 더블어택 확률UP(대)<br>도끼：적의 더블어택 확률DOWN(대)</span></div>"
+"<div class=""prt-text-small"">効果中必ずトリプルアタック<br><span class=""text-blue"">槍：参戦者の連続攻撃確率UP(大)<br>斧：敵の連続攻撃確率DOWN(大)</span></div>","<div class=""prt-text-small"">효과 중 반드시 트리플어택<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(대)<br>도끼：적의 더블어택 확률 DOWN(대)</span></div>"
 レゾナンスサージ,레저넌스 서지
 敵に自属性ダメージ/自分のアビリティダメージUP(累積),적에게 자신의 속성 데미지/자신의 어빌리티 데미지UP(누적)
 雷光水明,뇌광수명
@@ -5457,8 +5458,8 @@ C.C.,C.C.
 ジェット・トゥ・ジェット,제트・투・제트
 アンリーシュザフューリー,언리쉬더퓨리
 
-!댄서 계열
-アトラクト・サルサ,어트랙트・살사,,!크게 베어 자르기
+!댄서 계열,,,!크게 베어 자르기
+アトラクト・サルサ,어트랙트・살사
 プリンシパル・クラシック,프린시펄・클래식
 リンガリング・セント,링가링・센트
 ヴァリアシオン,바리에이션
