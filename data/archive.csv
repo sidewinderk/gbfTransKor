@@ -5117,7 +5117,19 @@ C.C.,C.C.
 
 
 
+
+
+
+!기타
+ジョブ変更確認,직업변경 확인
+
+ナイトのアビリティ,나이트의 어빌리티
+プリーストのアビリティ,프리스트의 어빌리티
+
+
+
 !파이터 계열
+ファイターのアビリティ,파이터의 어빌리티
 ウェポンバースト,웨폰 버스트
 レイジ,레이지
 参戦者の攻撃UP(小),참전자의 공격 UP(소)
@@ -5446,7 +5458,7 @@ C.C.,C.C.
 アンリーシュザフューリー,언리쉬더퓨리
 
 !댄서 계열
-アトラクト・サルサ,어트랙트・살사
+アトラクト・サルサ,어트랙트・살사,,!크게 베어 자르기
 プリンシパル・クラシック,프린시펄・클래식
 リンガリング・セント,링가링・센트
 ヴァリアシオン,바리에이션
@@ -5458,7 +5470,7 @@ C.C.,C.C.
 アクチュエーション,액튜에이션
 
 !럼버잭
-大伐断,대벌단,,!크게 베어 자르기
+大伐断,대벌단
 "<div class=""prt-text-small"">敵に自属性ダメージ/自分のクリティカル確率UP　<span class=""text-blue"">◆*回発動で会心効果/*回発動でダメージ上限UP追加</span></div>","<div class=""prt-text-small"">적에게 자신의 속성 데미지/자신의 크리티컬 확률UP　<span class=""text-blue"">◆*회 발동으로 회심 효과/*회 발동으로 데미지 상한UP 추가</span></div>"
 弱点を突いた際に稀にダメージが上昇する状態,약점 공격시 드물게 데미지가 상승하는 상태
 落葉焚き,모닥불 피우기
@@ -5488,6 +5500,97 @@ C.C.,C.C.
 
 攻撃力DOWN,공격력DOWN
 防御力DOWN,방어력DOWN
+
+所持
+"<canvas id=""cjs-job-change"" width=""***"" height=""***""></canvas>"
+"<div class=""txt-name"">ウォーリア</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+
+"<div class=""txt-name"">フォートレス</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">クレリック</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">ソーサラー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">レイダー</div>"
+"<div class=""txt-name"">アルカナソード</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">クンフー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">マークスマン</div>"
+"<div class=""txt-name"">ミンストレル</div>"
+"<div class=""txt-name"">ドラグーン</div>"
+
+"<div class=""txt-name"">ファイター</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">ナイト</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">プリースト</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">ウィザード</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">シーフ</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">エンハンサー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">グラップラー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">レンジャー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">ハーピスト</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+"<div class=""txt-name"">ランサー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
+
+
+習得 Lv*
+習得 Lv**
+Lvアップボーナス合計
+弱体成功率+**％
+攻撃力+****
+アビリティ詳細
+"レイジ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+防御力+**％
+"ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+大盾
+確率で全属性ダメージカット(**%)
+
+回復力+**％
+参戦者のHPを回復(小)
+"オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+慈悲
+回復効果UP/回復上限UP
+ウィザードのアビリティ
+アビリティダメージ+**％
+敵に*～*倍自属性ダメージ
+精霊の加護
+アビリティダメージUP
+シーフのアビリティ
+トレジャーハント成功確率+**％
+"ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+自分の攻撃大幅UP(敵ブレイク時のみ/*回)
+"トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+おたから狙い
+トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP
+エンハンサーのアビリティ
+敵に自属性ダメージ/スロウ効果
+"エレメンタルフォース<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+サボタージ
+弱体成功率UP
+グラップラーのアビリティ
+HP+***
+"カウンター<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+カウンター効果(回避/*回)/自分の攻撃UP
+"捨身の型<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+虎襲の構え
+レンジャーのアビリティ
+攻撃力+***
+アビリティダメージ+*％
+"ライトウェイト<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+敵全体に自属性ダメージ
+精密射撃
+ハーピストのアビリティ
+防御力+*％
+弱体耐性+*％
+"オーヴァチュア<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+味方全体の回復性能UP　★楽器装備時に性能UP
+"チャームボイス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+カンタービレ
+オーバードライブ時の敵からの被ダメージ減少
+ランサーのアビリティ
+ダブルアタック確率+*％
+"リードドライブ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"<div class=""prt-text-small"">敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span></div>"
+"敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span>"
+槍：ブレイク状態を維持<br>斧：モードゲージ減少
+"デュアルインパルス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+ヴォリショナル
+槍装備時に攻撃UP<br>斧装備時に防御UP
 !무기스킬 이름
 紅蓮の攻刃,홍련의 공인
 紅蓮の攻刃II,홍련의 공인II
