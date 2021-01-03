@@ -5122,7 +5122,7 @@ C.C.,C.C.
 
 !기타
 ジョブ変更確認,직업변경 확인
-
+ウィザードのアビリティ,위자드의 어빌리티
 ナイトのアビリティ,나이트의 어빌리티
 プリーストのアビリティ,프리스트의 어빌리티
 
@@ -5527,12 +5527,12 @@ C.C.,C.C.
 "<div class=""txt-name"">ランサー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
 
 
-習得 Lv*
-習得 Lv**
-Lvアップボーナス合計
+習得 Lv*,습득 Lv*
+習得 Lv**,습득 Lv**
+Lvアップボーナス合計,Lv업 보너스 합계
 弱体成功率+**％
 攻撃力+****
-アビリティ詳細
+アビリティ詳細,어빌리티 상세
 "レイジ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
 防御力+**％
@@ -5545,7 +5545,7 @@ Lvアップボーナス合計
 "オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 慈悲
 回復効果UP/回復上限UP
-ウィザードのアビリティ
+
 アビリティダメージ+**％
 敵に*～*倍自属性ダメージ
 精霊の加護
