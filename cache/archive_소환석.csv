@@ -20,9 +20,9 @@ orig,kr
 闇属性攻撃力が***%UP,암속성 공격력 ***%UP
 闇属性攻撃力が**%UP,암속성 공격력 **%UP
 闇属性攻撃力が*%UP,암속성 공격력 *%UP
-全属性攻撃力が***%UP,전 속성 공격력 ***%UP
-全属性攻撃力が**%UP,전 속성 공격력 **%UP
-全属性攻撃力が*%UP,전 속성 공격력 *%UP
+全属性攻撃力が***%UP,모든 속성 공격력 ***%UP
+全属性攻撃力が**%UP,모든 속성 공격력 **%UP
+全属性攻撃力が*%UP,모든 속성 공격력 *%UP
 
 火属性キャラのHPが***%UP,화속성 캐릭터의 HP ***%UP
 火属性キャラのHPが**%UP,화속성 캐릭터의 HP **%UP
@@ -55,8 +55,8 @@ orig,kr
 光属性攻撃力が**%UP/光属性キャラのHPが**%UP,광속성 공격력 **%UP/광속성 캐릭터의 HP **%UP
 闇属性攻撃力が***%UP/闇属性キャラのHPが**%UP,암속성 공격력 ***%UP/암속성 캐릭터의 HP **%UP
 闇属性攻撃力が**%UP/闇属性キャラのHPが**%UP,암속성 공격력 **%UP/암속성 캐릭터의 HP **%UP
-全属性攻撃力が***%UP/全属性キャラのHPが**%UP,전 속성 공격력 ***%UP/전 속성 캐릭터의 HP **%UP
-全属性攻撃力が**%UP/全属性キャラのHPが**%UP,전 속성 공격력 **%UP/전 속성 캐릭터의 HP **%UP
+全属性攻撃力が***%UP/全属性キャラのHPが**%UP,모든 속성 공격력 ***%UP/모든 속성 캐릭터의 HP **%UP
+全属性攻撃力が**%UP/全属性キャラのHPが**%UP,모든 속성 공격력 **%UP/모든 속성 캐릭터의 HP **%UP
 
 火属性攻撃力が**%UP/火属性キャラのHPが**%UP/防御力**%UP,화속성 공격력 **%UP/화속성 캐릭터의 HP **%UP/방어력 **%UP
 水属性攻撃力が**%UP/水属性キャラのHPが**%UP/防御力**%UP,수속성 공격력 **%UP/수속성 캐릭터의 HP **%UP/방어력 **%UP
@@ -712,13 +712,13 @@ orig,kr
 "<span class=""txt-summon-level"">Lv ***</span> 黄龍","<span class=""txt-summon-level"">Lv ***</span> 황룡"
 "<span class=""txt-summon-level"">Lv **</span> 黄龍","<span class=""txt-summon-level"">Lv **</span> 황룡"
 "<span class=""txt-summon-level"">Lv *</span> 黄龍","<span class=""txt-summon-level"">Lv *</span> 황룡"
-全属性攻撃力**%UP/バトル開始時にパーティの奥義ゲージ**%UP/奥義ダメージ**%UP,전 속성 공격력 **%UP/배틀 시작 시 파티의 오의 게이지 **%UP/오의 데미지 **%UP
+全属性攻撃力**%UP/バトル開始時にパーティの奥義ゲージ**%UP/奥義ダメージ**%UP,모든 속성 공격력 **%UP/배틀 시작 시 파티의 오의 게이지 **%UP/오의 데미지 **%UP
 
 黒麒麟,흑기린
 "<span class=""txt-summon-level"">Lv ***</span> 黒麒麟","<span class=""txt-summon-level"">Lv ***</span> 흑기린"
 "<span class=""txt-summon-level"">Lv **</span> 黒麒麟","<span class=""txt-summon-level"">Lv **</span> 흑기린"
 "<span class=""txt-summon-level"">Lv *</span> 黒麒麟","<span class=""txt-summon-level"">Lv *</span> 흑기린"
-全属性攻撃力**%UP/アビリティダメージ**%UP/アビリティダメージ上限**%UP,전 속성 공격력 **%UP/어빌리티 데미지 **%UP/어빌리티 데미지 상한 **%UP
+全属性攻撃力**%UP/アビリティダメージ**%UP/アビリティダメージ上限**%UP,모든 속성 공격력 **%UP/어빌리티 데미지 **%UP/어빌리티 데미지 상한 **%UP
 
 
 !재생
@@ -809,7 +809,7 @@ Dエンジェル・オリヴィエ,다크엔젤・올리비에
 きらりんドロップ☆,키라링 드롭☆
 敵全体に土属性ダメージ(特大)/敵味方に追加ダメージ,"적 전체에게 토속성 데미지(특대)/적, 아군에게 추가 데미지"
 きらりんぱわー☆,키라링 파워☆
-全属性キャラのHPが**%UP,전 속성 캐릭터의 HP **%UP
+全属性キャラのHPが**%UP,모든 속성 캐릭터의 HP **%UP
 偶然にも星の力を得た少女は、更なる高みを目指し大きく成長する。全てを圧倒するその力は後に「きらりんぱわー☆」として後世へと語り継がれていく。,偶然にも星の力を得た少女は、更なる高みを目指し大きく成長する。全てを圧倒するその力は後に「きらりんぱわー☆」として後世へと語り継がれていく。
 
 ブリュンヒルデ,브륜힐데
@@ -834,13 +834,13 @@ C.C.,C.C.
 "<span class=""txt-summon-level"">Lv ***</span> C.C.","<span class=""txt-summon-level"">Lv ***</span> C.C."
 "<span class=""txt-summon-level"">Lv **</span> C.C.","<span class=""txt-summon-level"">Lv **</span> C.C."
 "<span class=""txt-summon-level"">Lv *</span> C.C.","<span class=""txt-summon-level"">Lv *</span> C.C."
-パーティ全体に自動復活効果(*回)/全属性キャラのHPと攻撃力が**%UP,파티원 모두에게 자동부활효과(*회)/전속성 캐릭터의 HP와 공격력 **%UP
+パーティ全体に自動復活効果(*回)/全属性キャラのHPと攻撃力が**%UP,파티원 모두에게 자동부활효과(*회)/모든 속성 캐릭터의 HP와 공격력 **%UP
 
 ノビヨ,노비요
 "<span class=""txt-summon-level"">Lv ***</span> ノビヨ","<span class=""txt-summon-level"">Lv ***</span> 노비요"
 "<span class=""txt-summon-level"">Lv **</span> ノビヨ","<span class=""txt-summon-level"">Lv **</span> 노비요"
 "<span class=""txt-summon-level"">Lv *</span> ノビヨ","<span class=""txt-summon-level"">Lv *</span> 노비요"
-全属性キャラのHPと攻撃力が**％UP/アイテムドロップ率と獲得経験値が**％UP,전 속성 캐릭터의 HP와 공격력 **%UP/아이템 드랍률과 획득 경험치량 **％UP
+全属性キャラのHPと攻撃力が**％UP/アイテムドロップ率と獲得経験値が**％UP,모든 속성 캐릭터의 HP와 공격력 **%UP/아이템 드랍률과 획득 경험치량 **％UP
 
 神撃の竜,신격의 용
 "<span class=""txt-summon-level"">Lv ***</span> 神撃の竜","<span class=""txt-summon-level"">Lv ***</span> 신격의 용"
