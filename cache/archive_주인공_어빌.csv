@@ -17,7 +17,7 @@ orig,kr
 キャバルリー,캐벌리
 
 ファイター,파이터
-剣や斧の扱いに長け、高い攻撃力を生かした戦いが得意な攻撃タイプのジョブ。,검이나 도끼를 잘 다루며 높은 공격력을 살린 싸움이 특기인 공격 타입의 직업
+剣や斧の扱いに長け、高い攻撃力を生かした戦いが得意な攻撃タイプのジョブ。,검과 도끼를 잘 다루며 높은 공격력을 살린 싸움이 특기인 공격 타입의 직업
 ナイト,나이트
 甲冑に身を包み、堅固な守りで仲間を助けるパーティの守護神。防御タイプのジョブ。,갑옷을 두르고 견고한 수비로 동료를 돕는 파티의 수호신. 방어 타입의 직업
 プリースト,프리스트
@@ -83,12 +83,15 @@ orig,kr
 !기타
 ジョブ変更確認,직업변경 확인
 ウィザードのアビリティ,위자드의 어빌리티
+習得 Lv*,습득 Lv*
+習得 Lv**,습득 Lv**
+Lvアップボーナス合計,Lv업 보너스 합계
+弱体成功率+**％
 
-プリーストのアビリティ,프리스트의 어빌리티
+アビリティ詳細,어빌리티 상세
 
 
-
-!파이터 계열
+!파이터 스킬
 ファイターのアビリティ,파이터의 어빌리티
 ウォーリアのアビリティ,워리어의 어빌리티
 ウェポンマスターのアビリティ,웨폰마스터의 어빌리티
@@ -98,7 +101,19 @@ orig,kr
 参戦者の攻撃UP(小),참전자의 공격 UP(소)
 アサルトステップ,어설트 스텝
 ダブルアタック確率UP,더블어택 확률 UP
+攻撃力+****,공격력+****
+"レイジ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","레이지<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
+
+
+
+
+
+
+
+
+
+!워리어 스킬
 レイジII,레이지II
 参戦者の攻撃UP(中),참전자의 공격 UP(중)
 アーマーブレイク,아머 브레이크
@@ -165,8 +180,9 @@ orig,kr
 センチュリオンII,센츄리온II
 味方単体の被ダメージ無効(*回),아군 한 명의 받는 데미지 무효(*회)
 
-!프리스트 계열
+!프리스트 스킬
 プリースト,프리스트
+プリーストのアビリティ,프리스트의 어빌리티
 ヒールオール,힐 올
 オーラ,오라
 参戦者の防御UP(小),참전자의 방어UP(소)
@@ -469,7 +485,7 @@ orig,kr
 防御力DOWN,방어력DOWN
 
 所持,소지
-"<canvas id=""cjs-job-change"" width=""***"" height=""***""></canvas>"
+
 "<div class=""txt-name"">ウォーリア</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
 
 "<div class=""txt-name"">フォートレス</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
@@ -494,13 +510,13 @@ orig,kr
 "<div class=""txt-name"">ランサー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
 
 
-習得 Lv*,습득 Lv*
-習得 Lv**,습득 Lv**
-Lvアップボーナス合計,Lv업 보너스 합계
-弱体成功率+**％
-攻撃力+****
-アビリティ詳細,어빌리티 상세
-"レイジ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","레이지<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
 
 防御力+**％
 "ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
