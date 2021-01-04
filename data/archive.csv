@@ -5185,7 +5185,7 @@ Lvアップボーナス合計,Lv업 보너스 합계
 大盾,큰 방패
 確率で全属性ダメージカット(**%),확률로 모든 속성 데미지 컷(**%)
 防御力+**％,방어력+**％
-"ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","팔랑크스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
 !포트리스 스킬
 フォートレスのアビリティ,포트리스의 어빌리티
@@ -5219,12 +5219,18 @@ Lvアップボーナス合計,Lv업 보너스 합계
 プリースト,프리스트
 プリーストのアビリティ,프리스트의 어빌리티
 ヒールオール,힐 올
+参戦者のHPを回復(小),참전자의 HP를 회복(소)
 オーラ,오라
-参戦者の防御UP(小),참전자의 방어UP(소)
+参戦者の防御UP(小),참전자의 방어 UP(소)
+回復力+**％,회복력+**％
+"オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","오라<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+慈悲,자비
+回復効果UP/回復上限UP,회복 효과 UP / 회복 상한 UP
 
-クレリック,클레릭
+
+!클레릭 스킬
 クリアオール,클리어 올
-参戦者の弱体効果を*つ回復,참전자의 약화 효과를 *회 회복
+参戦者の弱体効果を*つ回復,참전자의 약화 효과를 *개 회복
 シャイニング,샤이닝
 敵全体に光属性ダメージ(中),적 전체에게 광속성 데미지(중)
 
@@ -5558,11 +5564,11 @@ Lvアップボーナス合計,Lv업 보너스 합계
 
 
 
-回復力+**％
-参戦者のHPを回復(小)
-"オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-慈悲
-回復効果UP/回復上限UP
+
+
+
+
+
 
 アビリティダメージ+**％
 敵に*～*倍自属性ダメージ
