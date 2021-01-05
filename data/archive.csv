@@ -5284,23 +5284,23 @@ Lvアップボーナス合計,Lv업 보너스 합계
 !시프 스킬
 シーフのアビリティ,시프의 어빌리티
 ブレイクアサシン,브레이크 어새신
-自分の攻撃大幅UP(敵ブレイク時のみ/*回)
+自分の攻撃大幅UP(敵ブレイク時のみ/*回),자신의 공격 대폭 UP(적이 브레이크 상태일때만/*회)
 トレジャーハント,트레저 헌트
 敵のアイテムドロップ率UP(*回),적의 아이템 드랍율 UP(*회)
 おたから狙い,보물 사냥꾼
-トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP,トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP
-"ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-トレジャーハント成功確率+**％
+トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP,트레저 헌트 성공확률 UP / 트레헌 Lv이 높을 수록 공격 UP
+"ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","브레이크 어새신<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+トレジャーハント成功確率+**％,트레저 헌트 성공확률+**％
 
 !레이더 스킬
-トレジャーハントII,트레저헌트II
+トレジャーハントII,트레저 헌트II
 トリックステップ,트릭스텝
 敵がオーバードライブ時にモードゲージを減少,적이 오버드라이브 상태일때 모드 게이지를 감소
 
 !호크아이 스킬
 ブレイクアサシンII,브레이크 어새신II
-トレジャーハントIII,트레저헌트III
+トレジャーハントIII,트레저 헌트III
 デッドリーエイム,데들리 에임
 自分のトリプルアタック確率UP,자신의 트리플어택 확률 UP
 
@@ -5310,7 +5310,7 @@ Lvアップボーナス合計,Lv업 보너스 합계
 !의적 스킬
 
 ブレイクアサシンIII,브레이크 어새신III
-トレジャーハントIV,트레저헌트IV
+トレジャーハントIV,트레저 헌트IV
 ホワイトスモーク,화이트 스모크
 ルピフリップ,루피플립
 
@@ -5320,7 +5320,7 @@ Lvアップボーナス合計,Lv업 보너스 합계
 !인핸서 스킬
 エンハンサーのアビリティ,인핸서의 어빌리티
 ディレイ,딜레이
-敵に自属性ダメージ/スロウ効果
+敵に自属性ダメージ/スロウ効果,적에게 자신의 속성 데미지 / 슬로우 효과
 エレメンタルフォース,엘레멘탈 포스
 参戦者のアビリティダメージUP(小),참전자의 어빌리티 데미지 UP(소)
 サボタージ,사보타주
@@ -5360,10 +5360,19 @@ Lvアップボーナス合計,Lv업 보너스 합계
 カオス,카오스
 アブソーブ,업소브
 
-!그래플러 계열
+!그래플러 스킬
+グラップラーのアビリティ,그래플러의 어빌리티
 カウンター,카운터
+カウンター効果(回避/*回)/自分の攻撃UP,카운터 효과(회피/*회) / 자신의 공격UP
 捨身の型,필사의 자세
 自分の攻撃UP(大)/防御DOWN,자신의 공격 UP(대) / 방어 DOWN
+防御力が減少した状態(回復不可),방어력이 감소한 상태(회복불가)
+虎襲の構え,맹호의 자세
+"カウンター<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","카운터<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"捨身の型<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","필사의 자세<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+HP+***
+
+!쿵푸 스킬
 捨身の型II,필사의 자세II
 自分の攻撃UP(特大)/防御DOWN,자신의 공격 UP(특대) / 방어DOWN
 内功,내공
@@ -5638,12 +5647,12 @@ Lvアップボーナス合計,Lv업 보너스 합계
 
 
 
-グラップラーのアビリティ
-HP+***
-"カウンター<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-カウンター効果(回避/*回)/自分の攻撃UP
-"捨身の型<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-虎襲の構え
+
+
+
+
+
+
 レンジャーのアビリティ
 攻撃力+***
 アビリティダメージ+*％
