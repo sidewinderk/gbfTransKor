@@ -5466,10 +5466,24 @@ HP+***
 
 
 !랜서 스킬
-
+ランサーのアビリティ,랜서의 어빌리티
 リードドライブ,리드 드라이브
+"敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span>","적에게 자신의 속성 데미지<br><span class=""text-blue"">창：브레이크 상태를 유지<br>도끼：모드 게이지 감소</span>"
 デュアルインパルス,듀얼 임펄스
-"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(小)<br>斧：敵のダブルアタック確率DOWN(小)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(소)<br>도끼：적의 더블어택 확률 DOWN(소)</span></div>"
+"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(小)<br>斧：敵のダブルアタック確率DOWN(小)</span></div>","<div class=""prt-text-small"">효과중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(소)<br>도끼：적의 더블어택 확률 DOWN(소)</span></div>"
+ヴォリショナル,볼리셔널
+槍装備時に攻撃UP<br>斧装備時に防御UP,창 장비시 공격 UP<br>도끼 장비시 방어 UP
+"リードドライブ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","리드 드라이브<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"デュアルインパルス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","듀얼 임펄스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+槍：ブレイク状態を維持<br>斧：モードゲージ減少
+"<div class=""prt-text-small"">敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span></div>"
+ダブルアタック確率+*％,더블어택 확률+*％
+
+
+
+
+
+
 デュアルインパルスII,듀얼 임펄스II
 "<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(中)<br>斧：敵のダブルアタック確率DOWN(中)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(중)<br>도끼：적의 더블어택 확률 DOWN(중)</span></div>"
 パイルリベレーション,파일 리버레이션
@@ -5653,72 +5667,6 @@ HP+***
 "<div class=""txt-name"">レンジャー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
 "<div class=""txt-name"">ハーピスト</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
 "<div class=""txt-name"">ランサー</div><div class=""prt-job-lv""><div class=""txt-level"" data-title=""Lv**"">Lv**</div></div><div class=""ico-job-master""></div>"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ランサーのアビリティ
-ダブルアタック確率+*％
-"リードドライブ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"<div class=""prt-text-small"">敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span></div>"
-"敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span>"
-槍：ブレイク状態を維持<br>斧：モードゲージ減少
-"デュアルインパルス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-ヴォリショナル
-槍装備時に攻撃UP<br>斧装備時に防御UP
 !무기스킬 이름
 紅蓮の攻刃,홍련의 공인
 紅蓮の攻刃II,홍련의 공인II
