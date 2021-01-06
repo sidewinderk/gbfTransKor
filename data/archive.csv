@@ -5252,6 +5252,7 @@ EXアビリティ,EX 어빌리티
 確率で全属性ダメージカット(**%),확률로 모든 속성 데미지 컷(**%)
 防御力+**％,방어력+**％
 "ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","팔랑크스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"防御力<span class=""value"">+*%</span>","방어력<span class=""value"">+*%</span>"
 
 !포트리스 스킬
 フォートレスのアビリティ,포트리스의 어빌리티
@@ -5292,7 +5293,8 @@ EXアビリティ,EX 어빌리티
 "オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","오라<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 慈悲,자비
 回復効果UP/回復上限UP,회복 효과 UP / 회복 상한 UP
-
+防御力が上昇した状態,방어력이 상승한 상태
+"回復力<span class=""value"">+*%</span>","회복력<span class=""value"">+*%</span>"
 
 !클레릭 스킬
 クリアオール,클리어 올
@@ -5353,6 +5355,10 @@ EXアビリティ,EX 어빌리티
 "ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","브레이크 어새신<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 "トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 トレジャーハント成功確率+**％,트레저 헌트 성공확률+**％
+ブレイク状態の敵への攻撃力が上昇した状態,브레이크 상태의 적에게 공격력이 상승된 상태
+アイテムドロップ率が上昇した状態,아이템 드랍율이 상승한 상태
+"トレジャーハント成功確率<span class=""value"">+*%</span>","트레저 헌트 성공확률<span class=""value"">+*%</span>"
+"オーバードライブ抑制<span class=""value"">+*%</span>","오버드라이브 억제<span class=""value"">+*%</span>"
 
 !레이더 스킬
 トレジャーハントII,트레저 헌트II
@@ -5388,6 +5394,9 @@ EXアビリティ,EX 어빌리티
 弱体成功率UP,약화 성공률 UP
 "エレメンタルフォース<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","엘레멘탈 포스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 弱体成功率+**％,약화 성공률+**％
+アビリティダメージが上昇した状態,어빌리티 데미지가 상승한 상태
+"弱体成功率<span class=""value"">+*%</span>","약화 성공률<span class=""value"">+*%</span>"
+"弱体耐性<span class=""value"">+*%</span>","약화 내성<span class=""value"">+*%</span>"
 
 !아르카나소드 스킬
 
@@ -13587,26 +13596,26 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダブルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							더블어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							トリプルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							트리플어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダメージ上限UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							데미지 상한UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							アビリティダメージ +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							アビリティダメージ +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +**%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体耐性 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							약체 내성 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +**%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体耐性 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 내성 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体耐性 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							약체 내성 +**%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体成功率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							약체 성공 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							回避確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							회피 확률 +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体成功率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 성공률 +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							回避確率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        회피 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							回復力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_**""></div>                                                        </div>                                                        회복력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							回復力 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_**""></div>                                                        </div>                                                        회복력 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ抑制 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							오버드라이브 억제 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ時の敵からの被ダメージ減少 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							오버드라이브인 적으로 부터 받는 데미지 감소 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 검일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が短剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 단검일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が槍の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 창일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が斧の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 도끼일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が杖の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 지팡이일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が銃の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 총일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が楽器の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 악기일 때、메인무기 공격력UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が刀の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							메인무기가 도일 때、메인무기 공격력UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ時の敵からの被ダメージ減少 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        오버드라이브 상태의 적에게 받는 데미지 감소 +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 검일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が短剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 단검일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が槍の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 창일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が斧の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도끼일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が杖の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 지팡이일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が銃の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 총일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が楽器の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 악기일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が刀の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							通常攻撃時奥義ゲージ上昇 +*","<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							통상 공격시 오의게이지 상승 +*"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP最大時防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP 최대시 방어력 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        HP最大時防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP 최대시 방어력 +*%"
 
 
 
@@ -13623,7 +13632,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 サウンド設定,사운드설정
 ご利用の端末は本ゲームのサウンド機能に対応しておりません。,사용중인 단말은 본 게임의 사운드 기능에 대응하고 있지 않습니다.
 ※一部端末では調節がきかない場合があります,※일부단말에서는 조절이 적용되지 않는 경우가 있습니다
-再生,재생
+再生,재생
 音声を再生する,음성을 재생한다
 音量,음량
 BGM音質,BGM음질
@@ -13669,7 +13678,7 @@ mobageのマイページにはチャットが届きます,mobage 마이페이지
 深夜帯は受け取らない,심야대에는 받지 않기
 参戦者の救援依頼,참전자의 구원요청
 自分が発見したマルチバトルの参戦者に対し、救援依頼の許可を設定します,자신이 발견한 멀티배틀의 참전자에 대해、구원요청의 허가여부를 설정합니다
-通知・貢献度のスキン表示,통지・공헌도 스킨 표시
+通知・貢献度のスキン表示,통지・공헌도 스킨 표시
 リアルタイム通知や貢献度表示において、他の参戦者が設定しているスキンを反映するかどうか設定します,리얼타임 통지나 공헌도 표시에서 다른 플레이어가 설정한 스킨을 반영할지에 대해 설정합니다
 参戦者一覧スキン表示,참전자 목록 스킨 표시
 参戦者一覧表示において、他の参戦者が設定しているスキンを反映するかどうか設定します,참전자 목록 표시에서 다른 플레이어가 설정한 스킨을 반영할지에 대해 설정합니다
@@ -13700,7 +13709,7 @@ mobageのマイページにはチャットが届きます,mobage 마이페이지
 ボイススタンプ設定,보이스 스탬프 설정
 マルチバトルにおいて、ボイス対応スタンプを送信・または受信した際の音声再生の有無を設定します,멀티배틀에서 보이스 대응 스탬프를 전달하거나 수신할 때 음성재생의 유무를 설정합니다
 最近使ったスタンプが表示されます<br>この部分は編集できません,최근 사용한 스탬프가 표시됩니다<br>이 부분은 편집할 수 없습니다
-最近使ったスタンプ,최근 사용한 스탬프
+最近使ったスタンプ,최근 사용한 스탬프
 スタンプを表示,스탬프를 표시
 マイページ設定,마이페이지 설정
 ボタン設定,버튼 설정
@@ -13728,14 +13737,14 @@ mobageのマイページにはチャットが届きます,mobage 마이페이지
 連携設定,연계설정
 Twitter連携,Twitter 연계
 Twitter連携を設定します,Twitter 연계를 설정합니다
-認証を解除する,인증을 해제한다
+認証を解除する,인증을 해제한다
 アイテム一覧の設定,아이템 목록 설정
-アイテムリストのフィルタ機能,아이템 리스트 필터 기능
+アイテムリストのフィルタ機能,아이템 리스트 필터 기능
 アイテムリストのフィルタ機能を設定します,아이템 리스트의 필터 기능을 설정합니다
 フィルタ機能を使うことで所持アイテムが探しやすくなります,필터 기능을 사용하면 보유한 아이템을 찾기 쉬워집니다
 「フィルタOFF」の場合,「필터 OFF」의 경우
 「フィルタ有効」の場合,「필터 유효」의 경우
-マルチバトルのルーム非表示設定,멀티배틀룸 숨기기 설정
+マルチバトルのルーム非表示設定,멀티배틀 룸 숨기기 설정
 参加条件を満たしていないルームの非表示設定,참가조건을 충족하지 못하는 룸 숨기기 설정
 ルームの募集Rankについて、条件を満たさないルームを非表示にできます,룸의 모집 Rank 조건을 달성하지 못한 룸을 숨길 수 있습니다
 武器・召喚石のリサイクル化設定,무기・소환석 리사이클화 설정
@@ -13757,7 +13766,7 @@ Twitter連携を設定します,Twitter 연계를 설정합니다
 召喚石の自動売却設定,소환석 자동매각 설정
 召喚石の売却,소환석 매각
 リスト・倉庫のソート設定共通化,리스트・창고의 정렬 설정 공통화
-リストのソート設定共通化,리스트의 정렬 설정 공통화
+リストのソート設定共通化,리스트의 정렬 설정 공통화
 武器・召喚石の並び順・絞り込み設定を「売却」「倉庫」「リサイクル」と共通にすることができます,무기・소환석 정렬순서・필터 설정을 「매각」「창고」「리사이클」을 공통으로 설정할 수 있습니다
 ※武器・召喚石でそれぞれ設定が共通化されます<br>※エレメントは武器・召喚石ともに共通化されません
 倉庫のソート設定共通化
@@ -13780,7 +13789,7 @@ Twitter連携を設定します,Twitter 연계를 설정합니다
 会話シーンでの演出が自動で進みます
 テキストの一括表示
 テキストが文字送りされず一括で表示されます
-クエスト設定
+クエスト設定,퀘스트 설정
 クエストのイベントスキップ
 クリア済みクエストの会話シーンをスキップします
 アドベンチャーパートのスキップ
