@@ -5466,8 +5466,10 @@ HP+***
 敵全体に自属性ダメージ,적 전체에게 자신의 속성 데미지
 精密射撃,정밀사격
 "ライトウェイト<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","라이트 웨이트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+効果中の被ダメージと弱体効果を無効化する状態,효과 중 받는 데미지와 약화 효과를 무효화하는 상태
 攻撃力+***,공격력+***
 アビリティダメージ+*％,어빌리티 데미지+*％
+
 
 !명사수 스킬
 アローレインII,애로우 레인II
@@ -5507,6 +5509,8 @@ HP+***
 "チャームボイス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","챰 보이스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 防御力+*％,방어력+*％
 弱体耐性+*％,약화 내성+*％
+回復アビリティの回復量が上昇した状態(累積),회복 어빌리티의 회복량이 상승한 상태(누적)
+回復アビリティの回復上限が上昇した状態(累積),회복 어빌리티의 회복 상한이 상승한 상태(누적)
 
 !민스트럴 스킬
 
@@ -5546,10 +5550,9 @@ HP+***
 槍装備時に攻撃UP<br>斧装備時に防御UP,창 장비시 공격 UP<br>도끼 장비시 방어 UP
 "リードドライブ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","리드 드라이브<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 "デュアルインパルス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","듀얼 임펄스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-槍：ブレイク状態を維持<br>斧：モードゲージ減少
-"<div class=""prt-text-small"">敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span></div>"
 ダブルアタック確率+*％,더블어택 확률+*％
-
+"ダブルアタック確率<span class=""value"">+*%</span>","더블어택 확률<span class=""value"">+*%</span>"
+ブレイク時間が延長している状態,브레이크 시간이 연장되어 있는 상태
 
 !드라군 스킬
 
@@ -13597,10 +13600,10 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダブルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							더블어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							トリプルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							트리플어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダメージ上限UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							데미지 상한UP +*%"
-"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体耐性 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 내성 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体耐性 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							약체 내성 +**%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        弱体耐性 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							약체 내성 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体成功率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 성공률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							回避確率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        회피 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							回復力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_**""></div>                                                        </div>                                                        회복력 +*%"
