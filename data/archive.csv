@@ -5076,7 +5076,7 @@ C.C.,C.C.
 アルカナソード,아르카나소드
 状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。
 クンフー,쿵푸
-
+あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。
 マークスマン,명사수
 
 ミンストレル,민스트럴
@@ -5400,16 +5400,17 @@ EXアビリティ,EX 어빌리티
 "弱体耐性<span class=""value"">+*%</span>","약화 내성<span class=""value"">+*%</span>"
 
 !아르카나소드 스킬
-
-ディレイII,딜레이II
+アルカナソードのアビリティ,아르카나소드의 어빌리티
 エレメンタルフォースII,엘레멘탈 포스II
 参戦者のアビリティダメージUP(大),참전자의 어빌리티 데미지 UP(대)
 クイック,퀵
 味方全体の連続攻撃確率UP,아군 전체의 연속공격 확률 UP
-
+"エレメンタルフォースII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","엘렌멘탈 포스II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"クイック<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","퀵<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
 !다크펜서 스킬
 ダークフェンサーのアビリティ,다크펜서의 어빌리티
+ディレイII,딜레이II
 ミゼラブルミスト,미저러블 미스트
 敵全体の攻撃DOWN/防御DOWN,적 전체의 공격 DOWN / 방어 DOWN
 グラビティ,그래비티
@@ -13593,9 +13594,9 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 アビリティダメージ,어빌리티 데미지
 
 発動中のマスターボーナス,발동중인 마스터 보너스
-"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							攻撃力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +**%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +*%","<div class=""txt-value"">        <div class=""symbol bonus_*""></div>       </div>       공격력 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +**%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							防御力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダブルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							더블어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							トリプルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							트리플어택 확률 +*%"
