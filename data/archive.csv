@@ -5068,13 +5068,13 @@ C.C.,C.C.
 フォートレス,포트리스
 巨大な盾で要塞の如く守りを固め、反撃のチャンスを作る。防御タイプのジョブ。,거대한 방패로 요새와 같은 방어력으로 반격의 기회를 만든다. 방어 타입의 직업
 クレリック,클레릭
-
+癒しの力だけでなく、強力な光の攻撃呪文で戦いを援護する。回復タイプのジョブ。
 ソーサラー,소서러
-
+多彩な属性攻撃を武器に、確実に敵の弱点を狙い撃つ。攻撃タイプのジョブ。
 レイダー,레이더
 
 アルカナソード,아르카나소드
-
+状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。
 クンフー,쿵푸
 
 マークスマン,명사수
@@ -13593,18 +13593,18 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 アビリティダメージ,어빌리티 데미지
 
 発動中のマスターボーナス,발동중인 마스터 보너스
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							攻撃力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							攻撃力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							防御力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダブルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							더블어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							トリプルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							트리플어택 확률 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダメージ上限UP +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							데미지 상한UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダメージ上限UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        데미지 상한UP +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 +**%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体耐性 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 내성 +*%"
-"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        弱体耐性 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							약체 내성 +**%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							弱体成功率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 성공률 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        弱体耐性 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 내성 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        弱体耐性 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 내성 +**%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        弱体成功率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        약화 성공률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							回避確率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        회피 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							回復力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_**""></div>                                                        </div>                                                        회복력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							回復力 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_**""></div>                                                        </div>                                                        회복력 +**%"
