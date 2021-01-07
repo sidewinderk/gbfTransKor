@@ -5076,7 +5076,7 @@ C.C.,C.C.
 アルカナソード,아르카나소드
 状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。
 クンフー,쿵푸
-あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。,모든 체술을 마스터해 단신으로 적과 맞선다. 공격 타입의 직업
+あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。,"모든 체술을 마스터해, 단신으로 적과 맞선다. 공격 타입의 직업"
 マークスマン,명사수
 
 ミンストレル,민스트럴
@@ -5186,9 +5186,9 @@ EXアビリティ,EX 어빌리티
 編成確認,편성확인
 編成で武器を確認しますか？,편성에서 무기를 확인하시겠습니까？
 確認する,확인한다
-
-
-
+マイページやバトル中に表示される、ジョブの見た目を変更できます。,마이페이지나 배틀중에 표시되는 직업의 외형을 변경할 수 있습니다.
+スキン選択,스킨 선택
+スキン変更,스킨 변경
 
 !파이터 스킬
 ファイターのアビリティ,파이터의 어빌리티
@@ -5333,11 +5333,21 @@ EXアビリティ,EX 어빌리티
 
 ブラインド,블라인드
 敵に暗闇効果,적에게 암흑 효과
+
+
+!허밋 스킬
+
 エーテルブラストII,에테르 블래스트II
 ヴェノム,베놈
 敵に自属性ダメージ/毒効果,적에게 자신의 속성 데미지 / 독 효과
 フォーカス,포커스
 自分のアビリティダメージUP(*回/累積)/使用ターン防御DOWN,자신의 어빌리티 데미지 UP(*회/누적) / 사용 턴 방어 DOWN
+
+
+
+
+
+
 エーテルブラストIII,에테르 블래스트III
 バウンス,바운스
 チョーク,쵸크
@@ -13622,7 +13632,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が楽器の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 악기일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が刀の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							通常攻撃時奥義ゲージ上昇 +*","<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							통상 공격시 오의게이지 상승 +*"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP最大時防御力 +*%","""<div class=""""txt-value"""">								<div class=""""symbol bonus_*""""></div>							</div>							HP최대시 방어력 +*%"""
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP最大時防御力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        HP최대시 방어력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							アビリティダメージ上限 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 상한 +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ上限 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 상한 +**%"
 
