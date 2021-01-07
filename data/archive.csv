@@ -5076,7 +5076,7 @@ C.C.,C.C.
 アルカナソード,아르카나소드
 状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。
 クンフー,쿵푸
-あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。
+あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。,모든 체술을 마스터하여 단신으로 적과 맞선다. 공격 타입의 직업
 マークスマン,명사수
 
 ミンストレル,민스트럴
@@ -5186,7 +5186,7 @@ EXアビリティ,EX 어빌리티
 編成確認,편성확인
 編成で武器を確認しますか？,편성에서 무기를 확인하시겠습니까？
 確認する,확인한다
-"<div class=""lis-comment"">							<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							攻撃力 +*%						</div>","<div class=""lis-comment"">							<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +*%						</div>"
+"<div class=""lis-comment"">                                                        <div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +*%","<div class=""lis-comment"">                                                        <div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        공격력 +*%"
 
 
 
@@ -13594,7 +13594,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 アビリティダメージ,어빌리티 데미지
 
 発動中のマスターボーナス,발동중인 마스터 보너스
-"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +*%","<div class=""txt-value"">        <div class=""symbol bonus_*""></div>       </div>       공격력 +*%"
+"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        攻撃力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							공격력 +**%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							防御力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +**%"
