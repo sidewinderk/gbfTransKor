@@ -5183,12 +5183,12 @@ EXアビリティ,EX 어빌리티
 編成確認,편성확인
 編成で武器を確認しますか？,편성에서 무기를 확인하시겠습니까？
 確認する,확인한다
-マイページやバトル中に表示される、ジョブの見た目を変更できます。,마이페이지나 배틀중에 표시되는 직업의 외형을 변경할 수 있습니다.
-スキン選択,스킨 선택
-スキン変更,스킨 변경
+マイページやバトル中に表示される、ジョブの見た目を変更できます。,마이페이지와 배틀 중에 표시되는 직업의 외형을 변경할 수 있습니다.
+スキン選択,스킨선택
+スキン変更,스킨변경
 JOB Lv**でこのジョブのLimit Bonusが解禁され<br>能力を強化することができます。,JOB Lv**에 이 직업의 Limit Bonus가 해금되어<br>능력을 강화할 수 있습니다.
-
-
+スキン変更確認,스킨변경확인
+現在設定しているスキンです。<br><br>変更したいスキンを選んでください。,현재 설정하고 있는 스킨입니다.<br><br>변경하고 싶은 스킨을 선택해 주세요.
 
 
 
@@ -5349,7 +5349,9 @@ JOB Lv**でこのジョブのLimit Bonusが解禁され<br>能力を強化する
 魔力の奔流,마력의 격류
 フォーカスのアビリティダメージUP/ターン短縮,포커스의 어빌리티 데미지 UP / 턴 단축
 毎ターンHPが減少する状態,매 턴 HP가 감소하는 상태
-"ヴェノム<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"ヴェノム<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","베놈<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"フォーカス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","포커스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
 
 
 エーテルブラストIII,에테르 블래스트III
