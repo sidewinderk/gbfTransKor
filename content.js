@@ -1,6 +1,6 @@
 var generalConfig = {
     refreshRate: 300,
-    imageOrigin: 'https://raw.githubusercontent.com/sidewinderk/gbfTransKor/master', //DB에 이미지 파일을 등록시킬때 사용.
+    imageOrigin: 'https://raw.githubusercontent.com/sidewinderk/gbfTransKor/master/images/', //DB에 이미지 파일을 등록시킬때 사용.
     origin: 'https://sidewinderk.github.io/gbfTransKor',
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
     // local DB: 'chrome-extension://'  + chrome.runtime.id
@@ -40,8 +40,6 @@ var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source:
 var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
 
 var cachedSceneData = [];
-var cachedArchiveData = [];
-var preConvertedUserName = false;
 
 var dbDef = {
     dbCon: null,
@@ -50,6 +48,8 @@ var dbDef = {
     dbUpgradeNeeded: false,
     dbVer: 1
 }
+var dbUpdatedTime = null;
+var dbNextUpdateTime = null;
 var tutorialUserName = '';
 
 // Coversation with popup window
@@ -1764,7 +1764,7 @@ var connectDB = async function () {
             PrintLog('DB upgrade Needed');
         }
     });
-}
+};
 
 var createDB = async function () {
     return new Promise(function (resolve, reject) {
@@ -1778,7 +1778,9 @@ var createDB = async function () {
             archiveJson,
             imageJson,
             battleJson,
-            imageBlobs
+            imageBlobs,
+            dbUpdatedTime,
+            dbNextUpdateTime
         });
         trx.add({
             type: 'options',
@@ -1789,14 +1791,19 @@ var createDB = async function () {
             exMode,
             skipTranslatedText
         });
+        trx.add({
+            type: 'tutorialUserName',
+            tutorialUserName: ''
+        });
         resolve();
     });
-}
+};
 
 var getDB = async function () {
     return new Promise(function (resolve, reject) {
         var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readonly").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('data'); // auto increment로 생성한 DB기 때문에 항상 키값은 1로 고정되있음.
+        var requestGet = trx.get('data');
+        // var requestGetTutorialUserName = trx.get('tutorialUserName');
         requestGet.onsuccess = function (event) {
             var requestResult = event.target.result;
             questJson = requestResult.questJson;
@@ -1806,6 +1813,8 @@ var getDB = async function () {
             battleJson = requestResult.battleJson;
             imageBlobs = requestResult.imageBlobs;
             imageBlobsUrl = [];
+            dbUpdatedTime = requestResult.dbUpdatedTime;
+            dbNextUpdateTime = requestResult.dbNextUpdateTime;
             imageBlobs.some(function (item) {
                 try {
                     var blobURL = URL.createObjectURL(item.kr);
@@ -1814,14 +1823,57 @@ var getDB = async function () {
                         kr: blobURL
                     });
                 } catch (e) {
-                    console.log(e);
+                    PrintLog(e);
                     imageBlobsUrl.pop();
                 }
             });
             resolve();
         }
     });
-}
+};
+
+var getDBTutorialUserName = async function () {
+    return new Promise(function (resolve, reject) {
+        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readonly").objectStore(dbDef.dbStoreName);
+        var requestGet = trx.get('tutorialUserName');
+        // var requestGetTutorialUserName = trx.get('tutorialUserName');
+        requestGet.onsuccess = function (event) {
+            var requestResult = event.target.result;
+            if (!requestResult) {
+                var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
+
+                trx.add({
+                    type: 'tutorialUserName',
+                    tutorialUserName: ''
+                });
+                resolve();
+            } else {
+                PrintLog('received tutorial user name');
+                PrintLog(requestResult.tutorialUserName);
+                tutorialUserName = requestResult.tutorialUserName;
+                resolve();
+            }
+        }
+    });
+};
+
+var updateTutorialUserName = async function (newTutorialUserName) {
+    return new Promise(function (resolve, reject) {
+        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
+        var requestGet = trx.get('tutorialUserName');
+        requestGet.onsuccess = function (event) {
+            var requestUpdate = trx.put({
+                type: 'tutorialUserName',
+                tutorialUserName: newTutorialUserName
+            });
+            PrintLog('received new tutorial user name');
+            PrintLog(newTutorialUserName);
+            requestUpdate.onsuccess = function (event) {
+                resolve();
+            };
+        }
+    });
+};
 
 var updateDBOptions = async function () {
     return new Promise(function (resolve, reject) {
@@ -1842,7 +1894,8 @@ var updateDBOptions = async function () {
             };
         }
     });
-}
+};
+
 var updateDBTexts = async function () {
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
@@ -1864,7 +1917,7 @@ var updateDBTexts = async function () {
                 imageBlobs
             });
             requestUpdate.onsuccess = function (event) {
-                console.log('업데이트 완료');
+                PrintLog('업데이트 완료');
                 chrome.runtime.sendMessage({
                     data: "updateCompleted"
                 });
@@ -1873,6 +1926,7 @@ var updateDBTexts = async function () {
         }
     });
 };
+
 var updateDBImages = async function () {
     //image blob 읽어들이기. 대략 10초 내로 전부 불러들이는듯.
     imageBlobs = [];
@@ -1880,8 +1934,8 @@ var updateDBImages = async function () {
     await Promise.all(imageJson.map(async (item) => {
         if (item.kr) {
             try {
-                console.log('heelo');
-                console.log(generalConfig.imageOrigin + item.kr);
+                PrintLog('image downloading');
+                PrintLog(generalConfig.imageOrigin + item.kr);
                 var imgBlob = await request(generalConfig.imageOrigin + item.kr);
 
                 imageBlobs.push({
@@ -1894,7 +1948,7 @@ var updateDBImages = async function () {
                     kr: blobURL
                 });
             } catch (e) {
-                console.log(e);
+                PrintLog(e);
                 imageBlobs.pop();
                 imageBlobsUrl.pop();
             }
@@ -1915,7 +1969,7 @@ var updateDBImages = async function () {
                 imageBlobs
             });
             requestUpdate.onsuccess = function (event) {
-                console.log('업데이트 완료');
+                PrintLog('업데이트 완료');
                 chrome.runtime.sendMessage({
                     data: "updateCompleted"
                 });
@@ -1923,7 +1977,7 @@ var updateDBImages = async function () {
             };
         }
     });
-}
+};
 
 ///
 function readChromeOption(key) {
@@ -1951,9 +2005,7 @@ async function InitList() {
         'translateMode',
         'userFont',
         'userFontName',
-        'nonTransText',
-        'tutorialUserName',
-        'cachedArchiveData'
+        'nonTransText'
     ]);
     if (chromeOptions.sceneFullInfo)
         sceneFullInfo = chromeOptions.sceneFullInfo;
@@ -1982,16 +2034,6 @@ async function InitList() {
     }
     if (chromeOptions.userFont)
         generalConfig.defaultFont = chromeOptions.userFont;
-    if (chromeOptions.tutorialUserName) {
-        if (chromeOptions.tutorialUserName.length > 0) {
-            tutorialUserName = chromeOptions.tutorialUserName;
-            console.log(tutorialUserName);
-        }
-    }
-    if (chromeOptions.cachedArchiveData) {
-        cachedArchiveData = chromeOptions.cachedArchiveData;
-        console.log(cachedArchiveData);
-    }
 
 
     // Use custom font
@@ -2007,12 +2049,12 @@ async function InitList() {
         initialize = true;
     }
 
-    window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB ||
-        window.msIndexedDB;
-    window.IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction ||
-        window.msIDBTransaction;
-    window.IDBKeyRange = window.IDBKeyRange ||
-        window.webkitIDBKeyRange || window.msIDBKeyRange
+    // window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB ||
+    //     window.msIndexedDB;
+    // window.IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction ||
+    //     window.msIDBTransaction;
+    // window.IDBKeyRange = window.IDBKeyRange ||
+    //     window.webkitIDBKeyRange || window.msIDBKeyRange
 
     if (!window.indexedDB) {
         window.alert("이 브라우저는 indexedDB 기능을 지원하지 않습니다.\n\n최신 크롬 브라우저를 이용해주세요.");
@@ -2030,6 +2072,9 @@ async function InitList() {
         battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
         imageBlobs = [];
         imageBlobsUrl = [];
+        dbUpdatedTime = new Date();
+        dbNextUpdateTime = new Date();
+        dbNextUpdateTime.setHours(24, 0, 0, 0);
         //image blob 읽어들이기. 대략 10초 내로 전부 불러들이는듯.
         await Promise.all(imageJson.map(async (item) => {
             if (item.kr) {
@@ -2046,7 +2091,7 @@ async function InitList() {
                         kr: blobURL
                     });
                 } catch (e) {
-                    console.log(e);
+                    PrintLog(e);
                     imageBlobs.pop();
                     imageBlobsUrl.pop();
                 }
@@ -2056,30 +2101,40 @@ async function InitList() {
         }));
 
         await createDB();
-        console.log('업데이트 완료');
+        PrintLog('업데이트 완료');
     } else {
-        PrintLog('DB 이미 존재. DB에 존재하는 데이터를 읽어들이는중.');
+        PrintLog('DB 존재. DB에 존재하는 데이터를 읽어들이는중.');
         await getDB();
+        await getDBTutorialUserName();
     }
 
-    //크롬 옵션들은 매번 업데이트 해주기. 나머지 데이터들 업데이트는 사용자가 업데이트 버튼을 눌렀을때만 업데이트 수행.
-    //크롬 사용자들은 option.html에서, tampermonkey사용자들은 tampermonkey 메뉴에서 업데이트 가능.
+    //다음날 자정(0시)를 넘어가서 새로고침하면 자동으로 업데이트함.
+    if (dbNextUpdateTime <= dbUpdatedTime) {
+        await updateDBTexts();
+        if (doImageSwap) {
+            await updateDBImages();
+        }
+    }
+
+    //크롬 옵션들은 매번 업데이트 해주기.
     await updateDBOptions();
 
     async function script() {
         var imageBlobs = [];
         var imageBlobsUrl = [];
         var archiveJson = [];
-        var battleJson = [];
 
-        var doImageSwap = false;
-        var transMode = false;
-        var exMode = false;
+        var doImageSwap = null;
+        var transMode = null;
+        var exMode = null;
+        var isVerboseMode = null;
 
         function window_PrintLog(text) {
-            window.dispatchEvent(new CustomEvent('console_log', {
-                detail: text
-            }));
+            if (isVerboseMode) {
+                window.dispatchEvent(new CustomEvent('console_log', {
+                    detail: text
+                }));
+            }
         }
 
         function window_extractStoryText(text) {
@@ -2157,10 +2212,9 @@ async function InitList() {
                     //OPTIONs
                     doImageSwap = options.doImageSwap;
                     doBattleTrans = options.doBattleTrans;
-                    isVerboseMode = options.isVerboseMode;
                     transMode = options.transMode;
                     exMode = options.exMode;
-                    skipTranslatedText = options.skipTranslatedText;
+                    isVerboseMode = options.isVerboseMode;
 
                     resolve();
                 };
@@ -2189,8 +2243,8 @@ async function InitList() {
                         this.setAttribute('src', url);
                         return;
                     }
-                    // window_PrintLog('IMAGE URL LOG');
-                    // window_PrintLog(url);
+                    window_PrintLog('IMAGE URL LOG');
+                    window_PrintLog(url);
 
                     imageBlobsUrl.some(function (item) {
                         if (item.orig) {
@@ -2219,12 +2273,8 @@ async function InitList() {
                 var stext = arguments[0];
                 window_PrintLog(arguments);
 
-                /*
-                    그냥 pushCSV로 진행.
-                    추출된 텍스트들은 추출한 사람이 알아서잘 분류하도록 맡기는수밖에..
-                */
                 if (exMode) {
-                    // window_extractBattleText(stext);
+                    window_extractArchiveText(stext);
                 }
                 if (transMode) {
                     var transText = '';
@@ -2250,18 +2300,13 @@ async function InitList() {
             }
         }
 
-        //스토리 텍스트 번역 & 추출
+        //스토리 텍스트 추출
         //전투 텍스트 추출
         if (exMode) {
             var origOpen = window.XMLHttpRequest.prototype.open;
             window.XMLHttpRequest.prototype.open = function () {
-                window.dispatchEvent(new CustomEvent('console_log', {
-                    detail: 'XHR OPEN'
-
-                }));
-                window.dispatchEvent(new CustomEvent('console_log', {
-                    detail: arguments[1]
-                }));
+                window_PrintLog('XHR OPEN');
+                window_PrintLog(arguments[1]);
                 return origOpen.apply(this, [].slice.call(arguments));
             };
             var origSend = window.XMLHttpRequest.prototype.send;
@@ -2283,7 +2328,7 @@ async function InitList() {
                         } else if (obj.serifs) {
                             for (var i in obj.serifs) {
                                 for (var j of obj.serifs[i]) {
-                                    window_PrintLog('GOT YOU');
+                                    window_PrintLog('GOT serifs');
                                     window_PrintLog(j);
 
                                     window_extractArchiveText(j);
@@ -2304,13 +2349,6 @@ async function InitList() {
                     once: true
                 });
 
-                ////////////////////////////////////////
-                // this.addEventListener('load', function () {
-                //     window_PrintLog('response body');
-                //     window_PrintLog(this.response);
-                // }, {
-                //     once: true
-                // });
                 window_PrintLog('XHR SEND');
                 window_PrintLog(data);
                 origSend.call(this, data);
@@ -2337,9 +2375,7 @@ async function InitList() {
     if (ObserverList.length < 1) {
         ObserverList = [
             ObserveSceneText(),
-            ObserverArchive(),
-            //ObserverPop(),
-            // ObserverStorySelectTexts()
+            ObserverArchive()
         ];
         if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
         if (doBattleTrans) ObserverList.push(ObserverBattle());
@@ -2361,47 +2397,22 @@ function RemoveTranslatedText() {
 }
 
 // Observe the textbox
-function translate(stext, jsonFile, targetDefaultName) {
+function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
-    var cacheHit = false;
     PrintLog(`traslate taken: ${String(stext)}`);
 
-
-    // cachedArchiveData.some(function (item) {
-    //     if (item.kr) {
-    //         if (stext.length == item.orig.length) {
-    //             if (String(stext) == String(item.orig)) {
-    //                 transText = String(item.kr);
-    //                 cacheHit = true;
-    //                 console.log(item);
-    //                 return true;
-    //             }
-    //         }
-    //     }
-    // });
-
-    if (cacheHit == false) {
-        jsonFile.some(function (item) {
-            if (item.kr) {
-                if (stext.length == item.orig.length) {
-                    if (String(stext) == String(item.orig)) {
-                        PrintLog(`GET:${String(item.kr)}`);
-                        cachedArchiveData.push({
-                            orig: item.orig,
-                            kr: item.kr
-                        });
-                        transText = String(item.kr);
-                        return true;
-                    }
+    jsonFile.some(function (item) {
+        if (item.kr) {
+            if (stext.length == item.orig.length) {
+                if (String(stext) == String(item.orig)) {
+                    PrintLog(`GET:${String(item.kr)}`);
+                    transText = String(item.kr);
+                    return true;
                 }
             }
-        });
-    }
-
-    // chrome.storage.local.set({
-    //     cachedArchiveData: cachedArchiveData
-    // });
+        }
+    });
 
     if (transText) {
         if (transText.length > 0) {
@@ -2708,29 +2719,20 @@ function GetTranslatedText(node, csv) {
                         }
                     }
 
-                    if (targetDefaultName.length > 0 && preConvertedUserName == false) {
+                    if (targetDefaultName.length > 0) {
                         csv.some(function (item) {
                             if (item.orig) {
                                 if (item.orig.includes(generalConfig.defaultNameMale_jp)) {
-                                    console.log('helloaaaa');
                                     item.orig = item.orig.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
-                                    console.log(item.orig);
                                 } else if (item.orig.includes(generalConfig.defaultNameMale_en)) {
-                                    console.log('helloaaaa');
                                     item.orig = item.orig.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
-                                    console.log(item.orig);
                                 } else if (item.orig.includes(generalConfig.defaultNameFemale_jp)) {
-                                    console.log('helloaaaa');
                                     item.orig = item.orig.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
-                                    console.log(item.orig);
                                 } else if (item.orig.includes(generalConfig.defaultNameFemale_en)) {
-                                    console.log('helloaaaa');
                                     item.orig = item.orig.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
-                                    console.log(item.orig);
                                 }
                             }
                         });
-                        preConvertedUserName = true;
                     }
                     PrintLog(`UserName Converted! - ${textInput}`);
                 }
@@ -2854,44 +2856,14 @@ function GetTranslatedBattleText(node, csv) {
             if (node.innerHTML && node.innerHTML.length == 0) return;
             var translatedText = '';
 
-            if (exMode) {
-                var request = null;
-                if (node.className.includes('txt-title')) {
-                    request = {
-                        battleText: {
-                            battle_condition: {
-                                title: node.innerHTML
-                            }
-                        }
-                    }
-                } else if (node.className.includes('txt-body')) {
-                    request = {
-                        battleText: {
-                            battle_condition: {
-                                body: node.innerHTML
-                            }
-                        }
-                    }
-                }
-                //전투 시작하자마자 devtools.js가 보낸 데이터는
-                //전체 텍스트가 없음. 특히 승리 조건이나 공격 버튼 눌렀을때의
-                //텍스트 들은 네트워크를 통해 보내지는 데이터들이 아님.
-                //그러므로, 그런 데이터들은 수동으로 마우스 클릭하여 텍스트를 직접 눈으로 봐야지만 추출됨. 
+            if (node.className.includes('prt-navi')) {
+                var adviceNode = node.children[1];
+                var translatedText = '';
 
-                //PushCSV_BattleText 함수는 자체적으로 텍스트 중복 체크를 함.
-                //PushCSV_BattleText(request);
+                translatedText = translate_BattleText(adviceNode.innerHTML, csv);
+                if (!translatedText || translatedText.length == 0) return;
+                adviceNode.innerHTML = translatedText;
             }
-
-            translatedText = translate_BattleText(node.innerHTML, csv);
-            if (!translatedText || translatedText.length == 0) return;
-            node.innerHTML = translatedText;
-        } else if (node.className.includes('prt-navi')) {
-            var adviceNode = node.children[1];
-            var translatedText = '';
-
-            translatedText = translate_BattleText(adviceNode.innerHTML, csv);
-            if (!translatedText || translatedText.length == 0) return;
-            adviceNode.innerHTML = translatedText;
         }
     }
 }
@@ -3096,9 +3068,10 @@ var sceneObserver = new MutationObserver(function (mutations) {
                 tutorialUserName = document.getElementById('name_set').value;
                 // getuserName에서 튜토리얼유저네임을 받아왔는데 stext에 username이 없으면
                 // 유저네임을 디폴트네임으로 바꿔서 다시 stext 내에서 검색.
-                chrome.storage.local.set({
-                    tutorialUserName: tutorialUserName
-                });
+                if (document.getElementById('name_set').value.length == 0) {
+                    tutorialUserName = document.getElementById('name_set').placeholder;
+                }
+                updateTutorialUserName(tutorialUserName);
             }
 
             walkDownTree(mutation.target, GetTranslatedText, nameJson);
@@ -3109,7 +3082,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
     //줄거리 창 번역에 어려움이 있음.
     //DB 원문에 남캐로 시작하면 소년, 여캐로 시작하면 소녀로 변화무쌍하게 입력되어있음.
     //그런 경우를 다 커버하기위해 단순히 처리함.
-    //DB 에서 Type이 Synopsis 인것은 반드시 하나만 존재하므로 줄거리 창에 그대로 박아넣기.
+    //각각의 신코드에서 Type이 Synopsis 인것은 반드시 하나만 존재하므로 줄거리 창에 그대로 박아넣기.
     var popSynopsisNode = doc.getElementsByClassName('prt-pop-synopsis')[0];
     if (popSynopsisNode) {
         var sex = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
@@ -3357,13 +3330,8 @@ window.addEventListener("extract_archiveText", function (e) {
             if (text.includes(userName)) {
                 if (language == 'Japanese') {
                     text = text.split(userName).join(generalConfig.defaultNameMale_jp);
-                    console.log('CONVERTED');
-                    console.log(text);
-
                 } else if (language == 'English') {
                     text = text.split(userName).join(generalConfig.defaultNameMale_en);
-                    console.log('CONVERTED');
-                    console.log(text);
                 }
             }
         }
@@ -3387,16 +3355,16 @@ window.addEventListener("extract_storyText", function (e) {
         var obj = e.detail;
 
         if (obj.type == 'scenecode') {
-            console.log('SceneCdeoFrom -- XHR');
-            console.log(obj.data);
-            console.log('SceneCodeFrom -- URL');
-            console.log(SceneCodeFromURL());
+            PrintLog('SceneCdeoFrom -- XHR');
+            PrintLog(obj.data);
+            PrintLog('SceneCodeFrom -- URL');
+            PrintLog(SceneCodeFromURL());
 
             extractedSceneCodes = obj.data;
         } else if (obj.type == 'texts') {
-            console.log('Got story texts');
-            console.log(extractedSceneCodes);
-            console.log(obj.data);
+            PrintLog('Got story texts');
+            PrintLog(extractedSceneCodes);
+            PrintLog(obj.data);
             PushCSV_StoryText(obj.data);
             extractedSceneCodes = [];
         }
@@ -3405,8 +3373,7 @@ window.addEventListener("extract_storyText", function (e) {
 
 window.addEventListener("extract_battleText", function (e) {
     if (e.detail) {
-        var obj = e.detail;
-        PushCSV_BattleText(obj);
+        PushCSV_BattleText(e.detail);
     }
 });
 
