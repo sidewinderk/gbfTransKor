@@ -1781,22 +1781,26 @@ async function InitList() {
         var imageBlobs = [];
         var imageBlobsUrl = [];
         var archiveJson = [];
+        
 
         var doImageSwap = null;
         var transMode = null;
+        var isVerboseMode = null;
 
         function window_PrintLog(text) {
-            window.dispatchEvent(new CustomEvent('console_log', {
-                detail: text
-            }));
+            if (isVerboseMode) {
+                window.dispatchEvent(new CustomEvent('console_log', {
+                    detail: text
+                }));
+            }
         }
 
-        window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB ||
-            window.msIndexedDB;
-        window.IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction ||
-            window.msIDBTransaction;
-        window.IDBKeyRange = window.IDBKeyRange ||
-            window.webkitIDBKeyRange || window.msIDBKeyRange
+        // window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB ||
+        //     window.msIndexedDB;
+        // window.IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction ||
+        //     window.msIDBTransaction;
+        // window.IDBKeyRange = window.IDBKeyRange ||
+        //     window.webkitIDBKeyRange || window.msIDBKeyRange
 
         if (!window.indexedDB) {
             window.alert("이 브라우저는 indexedDB 기능을 지원하지 않습니다.\n\n최신 크롬 브라우저를 이용해주세요.");
@@ -1848,6 +1852,7 @@ async function InitList() {
                     doImageSwap = options.doImageSwap;
                     doBattleTrans = options.doBattleTrans;
                     transMode = options.transMode;
+                    isVerboseMode = options.isVerboseMode;
 
                     resolve();
                 };
