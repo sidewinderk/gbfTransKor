@@ -21,6 +21,11 @@ text_en,,Can they not hear me anymore?
 text_jp,,どうしよう……！<br>そんな……<br>私、どうすれば……！？
 text_en,,Oh no! What should I do?
 condition_win,,ルリアは直接攻撃ができない……
+text_jp,,逃がさんぞ！,놓치지 말아라!
+text_jp,,活路を切り開くぞ。<br>まずはコイツらを蹴散らす！,활로를 뚫겠다.<br>우선은 이 녀석들을 무찌르자!
+text_jp,,姐さんは【<span class='attribute2'>水属性</span>】だから<br>【<span class='attribute3'>土属性</span>】の敵の攻撃に弱いみてぇ<br>だな。,누님은 【<span class='attribute2'>물속성</span>】이니까<br>【<span class='attribute3'>흙속성</span>】의 적의 공격에 약해보여!
+text_jp,,そうだな……だが、異なる属性の君がいればこの窮地も脱せよう,"그렇지……하지만, 다른 속성의 네가 있으면 이 궁지도 벗어날 수 있겠지"
+text_jp,,仲間との属性の組み合わせも重要ってことだな！さぁ、いくぜぇ！,"동료와의 속성조합도 중요하다는 거네! 자, 가자!"
 condition_win,,異形の化け物を撃破せよ！,이형의 괴물을 격파하자!
 condition_win,,敗北条件：煉󠄁獄杏寿郎の戦闘不能,패배조건：렌고쿠 코쥬로의 전투불능
 text_jp,,仲間には手出しさせん！,동료에게는 손대지 못한다!
