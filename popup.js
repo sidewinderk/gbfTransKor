@@ -1,4 +1,15 @@
 document.addEventListener('DOMContentLoaded', function () {
+    chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+        if (request.data == 'updateCompleted') {
+            updateNotify.innerHTML = '업데이트 완료!';
+            window.setTimeout(function () {
+                if (!updateNotify.innerHTML.includes('업데이트 중')) {
+                    updateNotify.style.display = 'none';
+                }
+            }, 2000);
+        }
+    });
+
     (function () {
         chrome.tabs.query({
                 active: true,
@@ -15,6 +26,8 @@ document.addEventListener('DOMContentLoaded', function () {
     chrome.storage.local.get(['sceneCodeFull', 'extractMode', 'translateMode'], function (items) {
         document.getElementById('translateModeChecker').checked = items.translateMode;
         document.getElementById('extractModeChecker').checked = items.extractMode;
+        if (items.translateMode)
+            document.getElementById('translateModeWindow').style.display = 'block';
         if (items.extractMode)
             document.getElementById('extractModeWindow').style.display = 'block';
     });
@@ -70,9 +83,43 @@ document.addEventListener('DOMContentLoaded', function () {
     var downScenes = document.getElementById('downScenes');
     var copyScenes = document.getElementById('copyScenes');
 
-    getBattleBtn.onclick = function(element) {
+    var updateDBTexts = document.getElementById('updateDBTexts');
+    var updateDBImages = document.getElementById('updateDBImages');
+    var updateNotify = document.getElementById('update-notify');
+
+    updateDBTexts.onclick = function (element) {
+        updateNotify.style.display = 'block';
+        updateNotify.innerHTML = '업데이트 중...';
+        chrome.tabs.query({
+                active: true,
+                lastFocusedWindow: true
+            },
+            function (tabs) {
+                chrome.tabs.sendMessage(tabs[0].id, {
+                    data: 'updateDBTexts'
+                });
+            }
+        );
+    };
+
+    updateDBImages.onclick = function (element) {
+        updateNotify.style.display = 'block';
+        updateNotify.innerHTML = '업데이트 중...';
+        chrome.tabs.query({
+                active: true,
+                lastFocusedWindow: true
+            },
+            function (tabs) {
+                chrome.tabs.sendMessage(tabs[0].id, {
+                    data: 'updateDBImages'
+                });
+            }
+        );
+    };
+
+    getBattleBtn.onclick = function (element) {
         chrome.storage.local.get(['battleFullInfo'], function (result) {
-            if(!result.battleFullInfo) return;
+            if (!result.battleFullInfo) return;
 
             var text = 'Type,Name,Origin,Korean\n';
             result.battleFullInfo.forEach(function (battle) {
@@ -109,14 +156,27 @@ document.addEventListener('DOMContentLoaded', function () {
     downBattleBtn.onclick = function (element) {
         var result = confirm('Download battle text csv file?');
         if (result) {
-            var a = document.createElement('a');
-            with(a) {
-                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(BattleOut.value);
-                download = 'battle.csv';
-            }
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
+            chrome.storage.local.get(['battleFullInfo'], function (result) {
+                if (!result.battleFullInfo) return;
+
+                var text = 'Type,Name,Origin,Korean\n';
+                result.battleFullInfo.forEach(function (battle) {
+                    text = text + battle.Type + ',';
+                    text = text + battle.Name + ',';
+                    text = text + battle.Origin + ',\n';
+                });
+
+                BattleOut.value = text;
+
+                var a = document.createElement('a');
+                with(a) {
+                    href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(BattleOut.value);
+                    download = 'battle.csv';
+                }
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
         }
     };
 
@@ -129,20 +189,37 @@ document.addEventListener('DOMContentLoaded', function () {
     downScenes.onclick = function (element) {
         var result = confirm('Download story text csv file?');
         if (result) {
-            var a = document.createElement('a');
-            with(a) {
-                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(ScenesOut.value);
-                download = 'quest.csv';
-            }
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
+            chrome.storage.local.get(['sceneFullInfo'], function (result) {
+                if (!result.sceneFullInfo) return;
+                //console.log(result.sceneFullInfo);
+                var text = 'Language,SceneCode,Type,Name,Origin,Korean\n';
+
+                result.sceneFullInfo.forEach(function (scene) {
+                    text = text + scene.Language + ',';
+                    text = text + scene.SceneCode + ',';
+                    text = text + scene.Type + ',';
+                    text = text + scene.Name + ',';
+                    text = text + scene.Origin + ',\n';
+                });
+
+                ScenesOut.value = text;
+
+                var a = document.createElement('a');
+                with(a) {
+                    href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(ScenesOut.value);
+                    download = 'quest.csv';
+                }
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
+
         }
     };
 
     getScenesBtn.onclick = function (element) {
         chrome.storage.local.get(['sceneFullInfo'], function (result) {
-            if (typeof result.sceneFullInfo == 'undefined') return;
+            if (!result.sceneFullInfo) return;
             //console.log(result.sceneFullInfo);
             var text = 'Language,SceneCode,Type,Name,Origin,Korean\n';
 
@@ -205,14 +282,21 @@ document.addEventListener('DOMContentLoaded', function () {
     downNameBtn.onclick = function (element) {
         var result = confirm("Download name text csv file?");
         if (result) {
-            var a = document.createElement('a');
-            with(a) {
-                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(nameout.value);
-                download = 'nameText.csv';
-            }
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
+            chrome.storage.local.get(['nTEXT'], function (result) {
+                var outputtext = "orig,kr\n"
+                result.nTEXT.forEach(function (element) {
+                    outputtext = outputtext + element + ",\n"
+                });
+                nameout.value = outputtext;
+                var a = document.createElement('a');
+                with(a) {
+                    href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(nameout.value);
+                    download = 'nameText.csv';
+                }
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
         }
     }
     clearNameBtn.onclick = function (element) {
@@ -245,14 +329,22 @@ document.addEventListener('DOMContentLoaded', function () {
     downMiscBtn.onclick = function (element) {
         var result = confirm("Download misc. text csv file?");
         if (result) {
-            var a = document.createElement('a');
-            with(a) {
-                href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(othersout.value);
-                download = 'miscText.csv';
-            }
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
+            chrome.storage.local.get(['mTEXT'], function (result) {
+                var outputtext = "orig,kr\n"
+                result.mTEXT.forEach(function (element) {
+                    outputtext = outputtext + element + ",\n"
+                });
+                othersout.value = outputtext;
+
+                var a = document.createElement('a');
+                with(a) {
+                    href = 'data:text/csv;charset=urf-8,' + encodeURIComponent(othersout.value);
+                    download = 'miscText.csv';
+                }
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
         }
     }
     clearMiscBtn.onclick = function (element) {
@@ -284,6 +376,11 @@ document.addEventListener('DOMContentLoaded', function () {
             },
             function () {}
         );
+        if (document.getElementById('translateModeChecker').checked) {
+            document.getElementById('translateModeWindow').style.display = 'block';
+        } else {
+            document.getElementById('translateModeWindow').style.display = 'none';
+        }
     };
 
     // DIV
