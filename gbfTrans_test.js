@@ -1973,6 +1973,12 @@ async function InitList() {
                 var stext = arguments[0];
                 window_PrintLog(arguments);
 
+                // If the text contains any number, save the number and replace it to "*"
+                var number = stext.replace(/[^0-9]/g, '');
+                if (number.length > 0) {
+                    stext = stext.replace(/[0-9]/g, '*');
+                }
+
                 if (transMode) {
                     var transText = '';
 
@@ -1988,6 +1994,13 @@ async function InitList() {
                     });
                     if (transText) {
                         if (transText.length > 0) {
+                            if (number.length > 0) {
+                                // If it contains number("*"), recover it from the saved number
+                                for (var i = 0; i < number.length; i++) {
+                                    transText = transText.slice(0, transText.indexOf('*')) + number[i] + transText.slice(transText.indexOf('*') + 1);
+                                }
+                            }
+
                             arguments[0] = transText;
                         }
                     }
