@@ -1,9 +1,8 @@
 var generalConfig = {
     refreshRate: 300,
-    imageOrigin: 'https://raw.githubusercontent.com/sidewinderk/gbfTransKor/master/images/', //DB에 이미지 파일을 등록시킬때 사용.
     origin: 'https://sidewinderk.github.io/gbfTransKor',
     // online DB: 'https://sidewinderk.github.io/gbfTransKor'
-    // local DB: 'chrome-extension://'  + chrome.runtime.id
+    // local DB: 'chrome-extension://ID'
     defaultNameMale_jp: "[グラン]", // Default original user name
     defaultNameFemale_jp: "[ジータ]",
     defaultNameMale_en: "[Gran]",
@@ -18,113 +17,26 @@ var isVerboseMode = false;
 var doImageSwap = true;
 var doBattleTrans = true;
 var transMode = true;
+var exMode = false;
 var initialize = false;
 var ObserverList = [];
+var userName = '';
 
+
+var sceneFullInfo = [];
+var battleFullInfo = [];
+//https://stackoverflow.com/questions/53939205/how-to-avoid-extension-context-invalidated-errors-when-messaging-after-an-exte
+var cNames = [];
+var miscs = [];
 var questJson = false;
 var nameJson = false;
 var archiveJson = false;
 var imageJson = false;
-var imageBlobs = [];
-var imageBlobsUrl = [];
-var battleJson = false;
 var kCheck = /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/; // regeexp for finding Korean (source: http://blog.daum.net/osban/14691815)
 var kCheckSpecial = /[\{\}\[\]\/?.,;:～：|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi; // regex for removing special characters
 
-var extractedSceneCode = '';
-var skipSceneCode = '';
-var cachedSceneData = [];
-
-var dbDef = {
-    dbCon: null,
-    dbName: 'gbfTransKorDB',
-    dbStoreName: 'gbfTransKorStore',
-    dbUpgradeNeeded: false,
-    //dbVer 값은 소수점 불가. 정수값만 가능. 
-    //이 값은 개발자가 임의로 사용자의 DB를 강제로 삭제하고 새로운 DB로 업그레이드하게 하고싶을때 값을 올림.
-    dbVer: 2 //만약 이 값을 올렸다면 반드시 script() 함수 내에도 있는 dbDef 객체도 맞춰서 수정해주기바람!!!
-}
-var dbNextUpdateTime = null;
-var dbReUpdate = false;
-var userName = '';
-
-// Coversation with popup window
-// chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-//     if (request.data == 'updateDBTexts') {
-//         updateDBTexts();
-//     }
-//     if (request.data == 'updateDBImages') {
-//         updateDBImages();
-//     }
-//     if (request.data == 'resetDB') {
-//         resetDB();
-//     }
-//     if (request.data == 'clearScenes') {
-//         sceneFullInfo = [];
-//         chrome.storage.local.set({
-//             sceneFullInfo: sceneFullInfo
-//         });
-//         window.location.reload();
-//     }
-//     if (request.data == 'clearBattle') {
-//         battleFullInfo = [];
-//         chrome.storage.local.set({
-//             battleFullInfo: battleFullInfo
-//         });
-//         window.location.reload();
-//     }
-//     if (request.data == 'update') {
-//         if (skipTranslatedText)
-//             RemoveTranslatedText();
-//         chrome.storage.local.set({
-//             sceneFullInfo: sceneFullInfo,
-//             battleFullInfo: battleFullInfo,
-//             nTEXT: cNames,
-//             mTEXT: miscs
-//         });
-//         if (!doc.URL.includes('play_view')) {
-//             chrome.storage.local.set({
-//                 sceneCodeFull: 0,
-//                 sceneCodeStatus: 0
-//             });
-//         }
-//     }
-//     if (request.data == 'clearName') {
-//         cNames = [];
-//         chrome.storage.local.set({
-//             nTEXT: cNames
-//         });
-//     }
-//     if (request.data == 'clearMisc') {
-//         miscs = [];
-//         chrome.storage.local.set({
-//             mTEXT: miscs
-//         });
-//     }
-//     if (request.data == 'refresh') {
-//         sceneFullInfo = [];
-//         battleFullInfo = [];
-//         cNames = [];
-//         miscs = [];
-//         chrome.storage.local.set({
-//             sceneFullInfo: sceneFullInfo,
-//             battleFullInfo: battleFullInfo,
-//             nTEXT: cNames,
-//             mTEXT: miscs
-//         });
-//         window.location.reload();
-//     }
-// });
-
-//The options object must set at least one of 'attributes', 'characterData', or 'childList' to true.
 var config = {
     //attributes: true,
-    childList: true,
-    subtree: true,
-    characterData: true
-};
-var config_tutorial = {
-    attributes: true,
     childList: true,
     subtree: true,
     characterData: true
@@ -142,75 +54,6 @@ var config_simple = {
 // Common modules
 function PrintLog(text) {
     if (isVerboseMode) console.log(text);
-}
-
-//archiveObserver 에서 계속 업데이트함.
-//sceneObserver 에서는 튜토리얼 페이지 상황에 맞게 하드코딩하여 userName 셋팅함.
-function getUserName() {
-    var curLanugage = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
-    var sex = null;
-    var resultUserName = '';
-
-    var questSceneNode = doc.getElementsByClassName('cnt-quest-scene')[0];
-    var mypageUserNameNode = doc.getElementsByClassName('btn-user-name')[0];
-    if (questSceneNode) {
-        sex = questSceneNode.attributes[2].value;
-
-        resultUserName = doc.getElementsByClassName('cnt-quest-scene')[0];
-        if (resultUserName) {
-            resultUserName = resultUserName.attributes[3].value;
-        }
-    }
-
-    if (mypageUserNameNode) {
-        if (mypageUserNameNode.innerText.length > 0) {
-            resultUserName = mypageUserNameNode.innerText;
-        }
-    }
-
-    if (doc.URL.includes('tutorial')) {
-        if (userName.length > 0) {
-            resultUserName = userName;
-        } else {
-            if (sex == 0) {
-                if (curLanugage == 'Japanese')
-                    resultUserName = 'グラン';
-                else
-                    resultUserName = 'Gran';
-            } else if (sex == 1) {
-                if (curLanugage == 'Japanese')
-                    resultUserName = 'ジータ';
-                else
-                    resultUserName = 'Djeeta';
-            }
-        }
-    }
-    return resultUserName;
-}
-//스토리 재생 페이지에서만 작동됨.
-//계정 처음 생성하고 유저 네임이 없을때 적용하기위한 함수.
-function getDefaultUserName() {
-    var questSceneNode = doc.getElementsByClassName('cnt-quest-scene')[0];
-    var curLanugage = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
-    var sex = null;
-    var resultUserName = null;
-
-    if (questSceneNode) {
-        sex = questSceneNode.attributes[2].value;
-
-        if (sex == 0) {
-            if (curLanugage == 'Japanese')
-                resultUserName = 'グラン';
-            else
-                resultUserName = 'Gran';
-        } else if (sex == 1) {
-            if (curLanugage == 'Japanese')
-                resultUserName = 'ジータ';
-            else
-                resultUserName = 'Djeeta';
-        }
-    }
-    return resultUserName;
 }
 
 function walkDownTree(node, command, variable = null) {
@@ -1434,9 +1277,6 @@ const request = async pathname => {
                 if (type && type.includes('json')) {
                     return res.json();
                 }
-                if (type && type.includes('image')) {
-                    return res.blob();
-                }
 
                 return res.text();
             })
@@ -1461,273 +1301,55 @@ const parseCsv = str => {
     }
 };
 
-var connectDB = async function () {
-    return new Promise(function (resolve, reject) {
-        var requestDB = window.indexedDB.open(dbDef.dbName, dbDef.dbVer);
-
-        requestDB.onerror = function (event) {
-            PrintLog("DB error: ");
-            PrintLog(event);
-            reject(event);
-        };
-
-        requestDB.onsuccess = function (event) {
-            dbDef.dbCon = event.target.result;
-            PrintLog("DB success: ");
-            resolve();
-        };
-
-        requestDB.onupgradeneeded = function (event) {
-            dbDef.dbCon = event.target.result;
-            dbDef.dbUpgradeNeeded = true;
-
-            try {
-                PrintLog('DB 테이블 조회중');
-                requestDB.transaction.objectStore(dbDef.dbStoreName);
-                PrintLog('DB 테이블 조회 완료');
-                PrintLog('DB 테이블 재생성 중');
-                dbDef.dbCon.deleteObjectStore(dbDef.dbStoreName);
-                dbDef.dbCon.createObjectStore(dbDef.dbStoreName, {
-                    keyPath: 'type'
-                });
-                PrintLog('DB 테이블 재생성 완료');
-            } catch (e) {
-                PrintLog('DB 테이블 없음');
-                PrintLog(e);
-                dbDef.dbCon.createObjectStore(dbDef.dbStoreName, {
-                    keyPath: 'type'
-                });
-                PrintLog('DB 테이블 생성 완료');
-            }
-
-            PrintLog('DB upgrade Needed');
-        }
-    });
-};
-
-var createDB = async function () {
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
-        // Add all data objects from dbInit array to our object store
-
-        trx.add({
-            type: 'data',
-            questJson,
-            nameJson,
-            archiveJson,
-            imageJson,
-            battleJson,
-            imageBlobs,
-            dbNextUpdateTime
-        });
-        trx.add({
-            type: 'options',
-            doImageSwap,
-            doBattleTrans,
-            isVerboseMode,
-            transMode,
-            exMode,
-            skipTranslatedText
-        });
-        trx.add({
-            type: 'userName',
-            userName
-        });
-        resolve();
-    });
-};
-
-var getDB = async function () {
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readonly").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('data');
-        requestGet.onsuccess = function (event) {
-            var requestResult = event.target.result;
-            if (!requestResult) {
-                //사용자가 업데이트 중 새로고침을 계속 눌러도 업데이트가 진행되게끔 작성함.
-                PrintLog('DB 레코드 없음. 재 업데이트 필요.');
-                dbReUpdate = true;
-                resolve();
-                return;
-            }
-            questJson = requestResult.questJson;
-            nameJson = requestResult.nameJson;
-            archiveJson = requestResult.archiveJson;
-            imageJson = requestResult.imageJson;
-            battleJson = requestResult.battleJson;
-            imageBlobs = requestResult.imageBlobs;
-            imageBlobsUrl = [];
-            dbNextUpdateTime = requestResult.dbNextUpdateTime;
-            imageBlobs.some(function (item) {
-                try {
-                    var blobURL = URL.createObjectURL(item.kr);
-                    imageBlobsUrl.push({
-                        orig: item.orig,
-                        kr: blobURL
-                    });
-                } catch (e) {
-                    PrintLog(e);
-                    imageBlobsUrl.pop();
-                }
-            });
-            resolve();
-        }
-    });
-};
-
-var getDBUserName = async function () {
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readonly").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('userName');
-        requestGet.onsuccess = function (event) {
-            var requestResult = event.target.result;
-            if (!requestResult) {
-                var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
-
-                trx.add({
-                    type: 'userName',
-                    userName: ''
-                });
-                resolve();
-            } else {
-                PrintLog('received user name');
-                PrintLog(requestResult.userName);
-                if (!requestResult.userName) {
-                    userName = '';
-                } else {
-                    userName = requestResult.userName;
-                }
-                resolve();
-            }
-        }
-    });
-};
-
-var updateDBUserName = async function (newUserName) {
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('userName');
-        requestGet.onsuccess = function (event) {
-            var requestUpdate = trx.put({
-                type: 'userName',
-                userName: newUserName
-            });
-            PrintLog('received new tutorial user name');
-            PrintLog(newUserName);
-            requestUpdate.onsuccess = function (event) {
-                resolve();
-            };
-        }
-    });
-};
-
-var updateDBOptions = async function () {
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('options');
-        requestGet.onsuccess = function (event) {
-            var requestUpdate = trx.put({
-                type: 'options',
-                doImageSwap,
-                doBattleTrans,
-                isVerboseMode,
-                transMode
-            });
-            requestUpdate.onsuccess = function (event) {
-                resolve();
-            };
-        }
-    });
-};
-
-var updateDBTexts = async function () {
-    questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
-    nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
-    archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
-    imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
-    battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
-    dbNextUpdateTime = new Date();
-    dbNextUpdateTime.setHours(24, 0, 0, 0);
-
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('data');
-        requestGet.onsuccess = function (event) {
-            var requestUpdate = trx.put({
-                type: 'data',
-                questJson,
-                nameJson,
-                archiveJson,
-                imageJson,
-                battleJson,
-                imageBlobs,
-                dbNextUpdateTime
-            });
-            requestUpdate.onsuccess = function (event) {
-                PrintLog('업데이트 완료');
-                chrome.runtime.sendMessage({
-                    data: "updateCompleted"
-                });
-                resolve();
-            };
-        }
-    });
-};
-
-var updateDBImages = async function () {
-    //image blob 읽어들이기. 대략 10초 내로 전부 불러들이는듯.
-    imageBlobs = [];
-    imageBlobsUrl = [];
-    await Promise.all(imageJson.map(async (item) => {
-        if (item.kr) {
-            try {
-                PrintLog('image downloading');
-                PrintLog(generalConfig.imageOrigin + item.kr);
-                var imgBlob = await request(generalConfig.imageOrigin + item.kr);
-
-                imageBlobs.push({
-                    orig: item.orig,
-                    kr: imgBlob
-                });
-                var blobURL = URL.createObjectURL(imgBlob);
-                imageBlobsUrl.push({
-                    orig: item.orig,
-                    kr: blobURL
-                });
-            } catch (e) {
-                PrintLog(e);
-                imageBlobs.pop();
-                imageBlobsUrl.pop();
-            }
-
-        }
-    }));
-    return new Promise(function (resolve, reject) {
-        var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readwrite").objectStore(dbDef.dbStoreName);
-        var requestGet = trx.get('data');
-        requestGet.onsuccess = function (event) {
-            var requestUpdate = trx.put({
-                type: 'data',
-                questJson,
-                nameJson,
-                archiveJson,
-                imageJson,
-                battleJson,
-                imageBlobs,
-                dbNextUpdateTime
-            });
-            requestUpdate.onsuccess = function (event) {
-                PrintLog('업데이트 완료');
-                chrome.runtime.sendMessage({
-                    data: "updateCompleted"
-                });
-                resolve();
-            };
-        }
-    });
-};
-
+///
+// function readChromeOption(key) {
+//     return new Promise((resolve, reject) => {
+//         if (key != null) {
+//             chrome.storage.local.get(key, function (obj) {
+//                 resolve(obj);
+//             });
+//         } else {
+//             reject(null);
+//         }
+//     });
+// }
 async function InitList() {
+    // var chromeOptions = await readChromeOption([
+    //     'battleFullInfo',
+    //     'sceneFullInfo',
+    //     'nTEXT',
+    //     'mTEXT',
+    //     'verboseMode',
+    //     'origin',
+    //     'imageswap',
+    //     'battleobserver',
+    //     'extractMode',
+    //     'translateMode',
+    //     'userFont',
+    //     'userFontName',
+    //     'nonTransText'
+    // ]);
+    // if (chromeOptions.sceneFullInfo)
+    //     sceneFullInfo = chromeOptions.sceneFullInfo;
+    // if (chromeOptions.battleFullInfo)
+    //     battleFullInfo = chromeOptions.battleFullInfo;
+    // if (chromeOptions.nTEXT)
+    //     cNames = chromeOptions.nTEXT;
+    // if (chromeOptions.mTEXT)
+    //     miscs = chromeOptions.mTEXT;
+    // doImageSwap = chromeOptions.imageswap;
+    // doBattleTrans = chromeOptions.battleobserver;
+    // isVerboseMode = chromeOptions.verboseMode;
+    // transMode = chromeOptions.translateMode;
+    // exMode = chromeOptions.extractMode;
+    // skipTranslatedText = chromeOptions.nonTransText;
+    // if (chromeOptions.origin) {
+    //     generalConfig.origin = chromeOptions.origin;
+    // } else
+    //     generalConfig.origin = 'chrome-extension://' + chrome.runtime.id;
+    // if (chromeOptions.userFont)
+    //     generalConfig.defaultFont = chromeOptions.userFont;
+
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
     @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+AC00-D7AF;}`;
@@ -1741,316 +1363,24 @@ async function InitList() {
         initialize = true;
     }
 
-    // window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB ||
-    //     window.msIndexedDB;
-    // window.IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction ||
-    //     window.msIDBTransaction;
-    // window.IDBKeyRange = window.IDBKeyRange ||
-    //     window.webkitIDBKeyRange || window.msIDBKeyRange
-
-    if (!window.indexedDB) {
-        window.alert("이 브라우저는 indexedDB 기능을 지원하지 않습니다.\n\n최신 크롬 브라우저를 이용해주세요.");
-        return;
-    }
-
-    await connectDB();
-
-    if (dbDef.dbUpgradeNeeded) {
-        //DB 데이터 초기화
-        questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
-        nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
-        archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
-        imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
-        battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
-        imageBlobs = [];
-        imageBlobsUrl = [];
-        dbNextUpdateTime = new Date();
-        dbNextUpdateTime.setHours(24, 0, 0, 0);
-        userName = '';
-        //image blob 읽어들이기. 대략 10초 내로 전부 불러들이는듯.
-        await Promise.all(imageJson.map(async (item) => {
-            if (item.kr) {
-                try {
-                    PrintLog('image downloading');
-                    PrintLog(generalConfig.imageOrigin + item.kr);
-                    var imgBlob = await request(generalConfig.imageOrigin + item.kr);
-
-                    imageBlobs.push({
-                        orig: item.orig,
-                        kr: imgBlob
-                    });
-                    var blobURL = URL.createObjectURL(imgBlob);
-                    imageBlobsUrl.push({
-                        orig: item.orig,
-                        kr: blobURL
-                    });
-                } catch (e) {
-                    PrintLog(e);
-                    imageBlobs.pop();
-                    imageBlobsUrl.pop();
-                }
-            }
-        }));
-
-        await createDB();
-        PrintLog('업데이트 완료');
-    } else {
-        PrintLog('DB 존재. DB에 존재하는 데이터를 읽어들이는중.');
-        await getDB();
-        if (dbReUpdate) {
-            //사용자가 업데이트 중 새로고침을 계속 눌러도 업데이트가 진행되게끔 작성함.
-            PrintLog('재 업데이트 중.');
-            await updateDBTexts();
-            await updateDBImages();
-            await updateDBUserName(userName);
-            PrintLog('재 업데이트 완료.');
-        }
-        await getDBUserName();
-
-    }
-
-    //다음날 자정(0시)를 넘어가서 새로고침하면 자동으로 업데이트함.
-    var dbUpdatedTime = new Date();
-    PrintLog(`dbNextUpdateTime : ${dbNextUpdateTime}`);
-    PrintLog(`dbUpdatedTime : ${dbUpdatedTime}`);
-    PrintLog(`dbUpdatedTime > dbNextUpdateTime : ${dbNextUpdateTime <= dbUpdatedTime }`);
-    if (dbNextUpdateTime <= dbUpdatedTime) {
-        dbNextUpdateTime = new Date();
-        dbNextUpdateTime.setHours(24, 0, 0, 0);
-        await updateDBTexts();
-        if (doImageSwap) {
-            await updateDBImages();
-        }
-        await updateDBUserName(userName);
-    }
 
 
-    //크롬 옵션들은 매번 업데이트 해주기.
-    await updateDBOptions();
-
-    async function script() {
-        var imageBlobs = [];
-        var imageBlobsUrl = [];
-        var archiveJson = [];
-
-
-        var doImageSwap = null;
-        var transMode = null;
-        var isVerboseMode = null;
-
-        function window_PrintLog(text) {
-            if (isVerboseMode) {
-                window.dispatchEvent(new CustomEvent('console_log', {
-                    detail: text
-                }));
-            }
-        }
-
-        function window_extractStoryText(text) {
-            window.dispatchEvent(new CustomEvent('extract_storyText', {
-                detail: text
-            }));
-        }
-
-        // window.indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB ||
-        //     window.msIndexedDB;
-        // window.IDBTransaction = window.IDBTransaction || window.webkitIDBTransaction ||
-        //     window.msIDBTransaction;
-        // window.IDBKeyRange = window.IDBKeyRange ||
-        //     window.webkitIDBKeyRange || window.msIDBKeyRange
-
-        if (!window.indexedDB) {
-            window.alert("이 브라우저는 indexedDB 기능을 지원하지 않습니다.\n\n최신 크롬 브라우저를 이용해주세요.");
-            return;
-        }
-
-        var dbDef = {
-            dbCon: null,
-            dbName: 'gbfTransKorDB',
-            dbStoreName: 'gbfTransKorStore',
-            dbUpgradeNeeded: false,
-            dbVer: 2
-        }
-
-        var connectDB = async function () {
-            return new Promise(function (resolve, reject) {
-                var requestDB = window.indexedDB.open(dbDef.dbName, dbDef.dbVer);
-
-                requestDB.onerror = function (event) {
-                    reject(event);
-                };
-
-                requestDB.onsuccess = function (event) {
-                    dbDef.dbCon = event.target.result;
-                    resolve();
-                };
-            });
-        }
-        var getDB = async function () {
-            return new Promise(function (resolve, reject) {
-                var trx = dbDef.dbCon.transaction(dbDef.dbStoreName, "readonly").objectStore(dbDef.dbStoreName);
-                var allRecords = trx.getAll();
-                allRecords.onsuccess = function (event) {
-                    var datas = event.target.result[0];
-                    var options = event.target.result[1];
-
-                    //DATAs
-                    imageBlobs = datas.imageBlobs;
-                    imageBlobs.some(function (item) {
-                        imageBlobsUrl.push({
-                            orig: item.orig,
-                            kr: URL.createObjectURL(item.kr)
-                        });
-                    });
-
-                    archiveJson = datas.archiveJson;
-
-                    //OPTIONs
-                    doImageSwap = options.doImageSwap;
-                    doBattleTrans = options.doBattleTrans;
-                    transMode = options.transMode;
-                    isVerboseMode = options.isVerboseMode;
-
-                    resolve();
-                };
-            });
-        }
-
-        await connectDB();
-        await getDB();
-
-        // 캔버스 이미지 번역
-        // 캔버스에서 불러오는 이미지는 확인 가능. 그러나 모든 이미지 url 을 볼 수 는없었음. 
-        // 예를들어, 메인 페이지에서는 어떠한 이미지도 밑의 함수들을 거치지 않음.
-        if (transMode && doImageSwap) {
-            Object.defineProperty(Image.prototype, 'src', {
-                get: function (url) {
-                    return this.getAttribute('src')
-                },
-
-                set: function (url) {
-                    if (url == '') {
-                        this.setAttribute('src', url);
-                        return;
-                    }
-                    if (document.URL.includes('/#gacha')) {
-                        //가챠 페이지 - Included Items 메뉴 - 몬스터 이미지 에러 발생해서 예외처리함.
-                        this.setAttribute('src', url);
-                        return;
-                    }
-                    if (document.URL.includes('/#raid') && !doBattleTrans) {
-                        //전투 화면에서 번역 기능을 껐을때 번역하지 않기.
-                        this.setAttribute('src', url);
-                        return;
-                    }
-                    // window_PrintLog('IMAGE URL LOG');
-                    // window_PrintLog(url);
-
-                    imageBlobsUrl.some(function (item) {
-                        if (item.orig) {
-                            if (String(url).includes(String(item.orig)) && String(url).includes('assets')) {
-                                window_PrintLog(`GET URL:${String(item.kr)}`);
-                                url = item.kr;
-                                return true;
-                            }
-                        }
-                    });
-
-                    this.setAttribute('src', url);
-                }
-            });
-        }
-
-        //캔버스 텍스트 번역
-        if (transMode) {
-            var origCanvasRenderingContext = CanvasRenderingContext2D.prototype.fillText;
-            CanvasRenderingContext2D.prototype.fillText = function () {
-                if (arguments.length <= 1) {
-                    return;
-                }
-                window_PrintLog('canvas text');
-
-                var stext = arguments[0];
-                window_PrintLog(arguments);
-
-                if (transMode) {
-                    var transText = '';
-
-                    archiveJson.some(function (item) {
-                        if (item.kr) {
-                            if (stext.length == item.orig.length) {
-                                if (String(stext) == String(item.orig)) {
-                                    transText = String(item.kr);
-                                    return true;
-                                }
-                            }
-                        }
-                    });
-                    if (transText) {
-                        if (transText.length > 0) {
-                            arguments[0] = transText;
-                        }
-                    }
-                }
-
-                origCanvasRenderingContext.apply(this, arguments);
-            }
-        }
-
-        //스토리 번역을 위해 신코드 추출
-        if (transMode) {
-            var origOpen = window.XMLHttpRequest.prototype.open;
-            window.XMLHttpRequest.prototype.open = function () {
-                window_PrintLog('XHR OPEN');
-                window_PrintLog(arguments[1]);
-
-                //신코드 추출
-                //url에 scene_list가 들어간건 신코드가 아님.
-                if (arguments[1] && !String(arguments[1]).includes('scene_list') && String(arguments[1]).includes('/quest/scenario/scene_')) {
-                    //eg) http://game.granbluefantasy.jp/quest/scenario/scene_evt201208_cp1_q1_s10?
-                    var scenecode = arguments[1].slice(arguments[1].indexOf('scene_'));
-                    scenecode = scenecode.split('?')[0];
-
-                    // eg) scene_evt201208_cp1_q1_s10/null 
-                    // 이벤트 스토리에서 종종 발생.
-                    if (scenecode.includes('/')) {
-                        scenecode = scenecode.split('/')[0];
-                    }
-
-                    window_PrintLog('SceneCode : ');
-                    window_PrintLog(scenecode);
-                    window_extractStoryText({
-                        type: 'scenecode',
-                        data: scenecode
-                    });
-                }
-                return origOpen.apply(this, [].slice.call(arguments));
-            };
-        }
-    }
-
-
-
-    function inject(fn) {
-        const script = document.createElement('script');
-        script.text = `(${fn.toString()})();`;
-        document.head.appendChild(script);
-        // document.documentElement.appendChild(script);
-    }
-
-    //이미지 번역 또는 전투 화면 번역이 켜져있다면 수행.
-    if ((transMode && (doImageSwap || doBattleTrans))) {
-        inject(script);
-    }
+    questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
+    nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
+    archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
+    imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
+    battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
 
 
     // Main Observers
     if (ObserverList.length < 1) {
         ObserverList = [
             ObserveSceneText(),
-            ObserverArchive()
+            ObserverArchive(),
+            //ObserverPop(),
+            ObserverStorySelectTexts()
         ];
-        if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage());
+        if (doImageSwap) ObserverList.push(ObserverImageDIV(), ObserverImage(), ObserverImageSubMenu());
         if (doBattleTrans) ObserverList.push(ObserverBattle());
     }
 }
@@ -2059,7 +1389,6 @@ function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
     PrintLog(`traslate taken: ${String(stext)}`);
-
     jsonFile.some(function (item) {
         if (item.kr) {
             if (stext.length == item.orig.length) {
@@ -2071,7 +1400,6 @@ function translate(stext, jsonFile) {
             }
         }
     });
-
     if (transText) {
         if (transText.length > 0) {
             PrintLog(`Send:${transText}`);
@@ -2086,43 +1414,43 @@ function translate(stext, jsonFile) {
 function translate_StoryText(stext, jsonFile) {
     var node = doc.getElementsByClassName('prt-log-display')[0].children;
     //check if Log Exists.
-    if (!node) return '';
-    PrintLog(`translate_StoryText taken: ${String(stext)}`);
+    if (typeof node == 'undefined') return '';
 
     // Translation part for story text
     var transText = '';
+
     var sex = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
-    var sc = extractedSceneCode;
 
-    if (skipSceneCode == sc)
-        return '';
+    PrintLog(`translate_StoryText taken: ${String(stext)}`);
 
-    if (sc.length > 0) {
-        if (cachedSceneData.length == 0 || !cachedSceneData[0].SceneCode.includes(sc)) {
-            cachedSceneData = [];
-            jsonFile.some(function (item) {
-                if (item.SceneCode) {
-                    var sceneCodes = item.SceneCode.split('"').join('');
-                    sceneCodes = sceneCodes.split(',');
+    var sceneData = [];
+    var jpStartIndex = 0,
+        engStartIndex = 0;
 
-                    for (var i = 0; i < sceneCodes.length; i++) {
-                        if (sc == String(sceneCodes[i])) {
-                            cachedSceneData.push(item);
-                        }
-                    }
-                }
-            });
+    let sc = SceneCodeFromURL();
+    jsonFile.some(function (item) {
+        if (String(item.SceneCode).includes(sc)) {
+            sceneData.push(item);
         }
-    }
+    });
 
-    PrintLog('cachedSceneData');
-    PrintLog(cachedSceneData);
+    var tmpIndex = 0;
+    sceneData.some(function (item) {
+        if (item.Language == 'Japanese') {
+            jpStartIndex = tmpIndex;
+            return true;
+        }
+        tmpIndex++;
+    });
 
-    if (cachedSceneData.length == 0) {
-        PrintLog('스토리 텍스트 탐색 실패. 현재 페이지에 대한 번역 시도는 하지 않음.');
-        skipSceneCode = sc;
-        return '';
-    }
+    tmpIndex = 0;
+    sceneData.some(function (item) {
+        if (item.Language == 'English') {
+            engStartIndex = tmpIndex;
+            return true;
+        }
+        tmpIndex++;
+    });
 
     var curLanugage = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
     stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
@@ -2130,72 +1458,83 @@ function translate_StoryText(stext, jsonFile) {
     stext = stext.replace(/&nbsp;/g, ' ');
     stext = stext.replace(/\s+/g, " ");
 
-    // questJson : [ジータ]
-    // stext : [グラン]
-    // DB의 이름과 stext의 이름이 달라서 문제 발생. 
-    // 이를 해결하기위해 DB의 이름을 stext의 이름으로 맞춰줌.
     var targetDefaultName = '';
     if (userName.length > 0) {
         if (sex == 0) {
-            if (stext.includes(userName) || stext.includes("<span class='nickname'></span>")) {
+            if (stext.includes(userName)) {
                 if (curLanugage == 'Japanese') {
                     stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
-                    stext = stext.split("<span class='nickname'></span>").join(generalConfig.defaultNameMale_jp);
                     targetDefaultName = generalConfig.defaultNameMale_jp;
                 } else if (curLanugage == 'English') {
                     stext = stext.split(userName).join(generalConfig.defaultNameMale_en);
-                    stext = stext.split("<span class='nickname'></span>").join(generalConfig.defaultNameMale_en);
                     targetDefaultName = generalConfig.defaultNameMale_en;
                 }
             }
         } else if (sex == 1) {
-            if (stext.includes(userName) || stext.includes("<span class='nickname'></span>")) {
+            if (stext.includes(userName)) {
                 if (curLanugage == 'Japanese') {
                     stext = stext.split(userName).join(generalConfig.defaultNameFemale_jp);
-                    stext = stext.split("<span class='nickname'></span>").join(generalConfig.defaultNameFemale_jp);
                     targetDefaultName = generalConfig.defaultNameFemale_jp;
                 } else if (curLanugage == 'English') {
                     stext = stext.split(userName).join(generalConfig.defaultNameFemale_en);
-                    stext = stext.split("<span class='nickname'></span>").join(generalConfig.defaultNameFemale_en);
                     targetDefaultName = generalConfig.defaultNameFemale_en;
                 }
             }
         }
     }
 
-    if (targetDefaultName.length > 0) {
-        for (var i = 0; i < cachedSceneData.length; i++) {
-            if (!cachedSceneData[i].Origin)
-                continue;
-            if (cachedSceneData[i].Origin.includes(generalConfig.defaultNameMale_jp)) {
-                cachedSceneData[i].Origin = cachedSceneData[i].Origin.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
-            } else if (cachedSceneData[i].Origin.includes(generalConfig.defaultNameMale_en)) {
-                cachedSceneData[i].Origin = cachedSceneData[i].Origin.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
-            } else if (cachedSceneData[i].Origin.includes(generalConfig.defaultNameFemale_jp)) {
-                cachedSceneData[i].Origin = cachedSceneData[i].Origin.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
-            } else if (cachedSceneData[i].Origin.includes(generalConfig.defaultNameFemale_en)) {
-                cachedSceneData[i].Origin = cachedSceneData[i].Origin.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
-            }
 
-            if (cachedSceneData[i].Origin.includes("<span class='nickname'>")) {
-                cachedSceneData[i].Origin = cachedSceneData[i].Origin.split("<span class='nickname'></span>").join(targetDefaultName);
+    // userName 후처리 작업이 끝난 stext 와 DB에 있는 원문을 비교할때 문제 발생.
+    // DB 원문에는 [ジータ]으로 변환된 이름을 쓰는데 userName 후처리 작업이 끝난 내용을 보면 [グラン] 으로 
+    // 되있는 경우도 있어서 일치하지않음. 이런 문제 해결하기 위해 DB 원문의 [ジータ]을 userName 후처리 
+    // 결과물과 동일하게 되게끔 [グラン]으로 변경하는 후처리 작업을 수행.
+
+    if (targetDefaultName.length > 0) {
+        for (var i = 0; i < sceneData.length; i++) {
+            if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_jp)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameMale_en)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_jp)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
+            } else if (sceneData[i].Origin.includes(generalConfig.defaultNameFemale_en)) {
+                sceneData[i].Origin = sceneData[i].Origin.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
             }
         }
     }
 
-    for (var i = 0; i < cachedSceneData.length; i++) {
-        if (!cachedSceneData[i].Origin)
+    for (var i = 0; i < sceneData.length; i++) {
+        if (!sceneData[i].Origin)
             continue;
-        if (stext.length == cachedSceneData[i].Origin.length) {
-            if (stext == cachedSceneData[i].Origin) {
-                if (cachedSceneData[i].Korean) {
-                    transText = cachedSceneData[i].Korean;
-                    if (transText.includes(generalConfig.defaultTransNameMale))
-                        transText = transText.split(generalConfig.defaultTransNameMale).join(userName);
-                    else if (transText.includes(generalConfig.defaultTransNameFemale))
-                        transText = transText.split(generalConfig.defaultTransNameFemale).join(userName);
-                    else if (transText.includes("<span class='nickname'></span>"))
-                        transText = transText.split("<span class='nickname'></span>").join(userName);
+        if (stext.length == sceneData[i].Origin.length) {
+            if (stext == sceneData[i].Origin) {
+                if (sceneData[i].Korean) {
+                    transText = sceneData[i].Korean;
+
+                    //튜토리얼 페이지 플레이중에는 유저 네임이 디폴트 네임으로 되있으므로 그랑 or 지타로 설정하게함.
+                    if (SceneCodeFromURL().includes('tutorial')) {
+                        if ((userName == 'グラン' || userName == 'Gran')) {
+                            transText = transText.split(generalConfig.defaultTransNameMale).join('그랑');
+                            transText = transText.split(generalConfig.defaultTransNameFemale).join('그랑');
+                        } else if ((userName == 'ジータ' || userName == 'Djeeta')) {
+                            transText = transText.split(generalConfig.defaultTransNameMale).join('지타');
+                            transText = transText.split(generalConfig.defaultTransNameFemale).join('지타');
+                        }
+                        break;
+                    }
+
+                    transText = transText.split(generalConfig.defaultTransNameMale).join(userName);
+                    transText = transText.split(generalConfig.defaultTransNameFemale).join(userName);
+                    break;
+                } else {
+                    var offset = 0;
+                    if (sceneData[i].Language == 'Japanese') {
+                        offset = i - jpStartIndex;
+                    } else if (sceneData[i].Language == 'English') {
+                        offset = i - engStartIndex;
+                    }
+
+                    transText = sceneData[offset].Korean;
                     break;
                 }
             }
@@ -2223,13 +1562,13 @@ function translate_BattleText(stext, jsonFile) {
     stext = stext.replace(/&nbsp;/g, ' ');
     stext = stext.replace(/\s+/g, " ");
 
-    PrintLog(`translate_BattleText stext : ${stext}`);
     jsonFile.some(function (item) {
         if (item.Origin) {
             item.Origin = item.Origin.replace(/(\r\n|\n|\r)/gm, '').trim();
             item.Origin = item.Origin.split('"').join("'");
             item.Origin = item.Origin.replace(/&nbsp;/g, ' ');
             item.Origin = item.Origin.replace(/\s+/g, " ");
+
 
             if (item.Korean) {
                 if (item.Origin.length == stext.length) {
@@ -2262,13 +1601,12 @@ function GetTranslatedImageURL(stext, jsonFile) {
         if (item.orig) {
             if (String(stext).includes(String(item.orig)) && String(stext).includes('assets')) {
                 PrintLog(`GET URL:${String(item.kr)}`);
-                // transImg = generalConfig.origin + '/images/' + String(item.kr);
-                transImg = item.kr;
+                transImg = generalConfig.origin + '/images/' + String(item.kr);
                 return true;
             }
         }
     });
-    // if (!transImg.includes('png') && !transImg.includes('jpg')) return '';
+    if (!transImg.includes('png') && !transImg.includes('jpg')) return '';
     if (transImg.length > 0) {
         PrintLog(`Send URL:${transImg}`);
         return transImg;
@@ -2287,14 +1625,13 @@ function GetTranslatedImageStyle(stext, jsonFile) {
         if (item.orig) {
             if (String(stext).includes(String(item.orig)) && String(stext).includes('assets')) {
                 PrintLog(`GET URL:${String(item.kr)}`);
-                // transImg = "url('" + generalConfig.origin + '/images/' + String(item.kr) + "')";
-                transImg = "url('" + item.kr + "')";
+                transImg = "url('" + generalConfig.origin + '/images/' + String(item.kr) + "')";
                 PrintLog(`Check URL: ${transImg}`);
                 return true;
             }
         }
     });
-    // if (!transImg.includes('png')) return '';
+    if (!transImg.includes('png')) return '';
     if (transImg.length > 0) {
         PrintLog(`Send URL:${transImg}`);
         return transImg;
@@ -2312,9 +1649,7 @@ function GetTranslatedText(node, csv) {
             .getComputedStyle(node, ':after')
             .content.replace(/['"]+/g, '');
         if (computedStyleCheck && computedStyleCheck != 'none') textInput = computedStyleCheck;
-
-        if (kCheck.test(textInput) && !textInput.includes(userName)) return;
-
+        if (kCheck.test(textInput)) return;
         PrintLog(`GetTranslatedText - className: ${node.className}, text: ${textInput}`);
         // Filter for avoiding unnecessary computing
         if (
@@ -2327,8 +1662,7 @@ function GetTranslatedText(node, csv) {
             isNaN(textInput) == false || // Only number
             isNaN(textInput.replace('/', '')) == false || // number / number
             node.className.includes('txt-atk') ||
-            node.className.includes('scene-font-place') ||
-            node.className.includes('prt-pop-synopsis')
+            node.className.includes('scene-font-place')
         )
             passOrNot = false;
 
@@ -2344,14 +1678,12 @@ function GetTranslatedText(node, csv) {
             node.className.includes('prt-attribute-bonus')
         )
             passOrNot = true;
-
         if (passOrNot) {
             var sexNode = doc.getElementsByClassName('cnt-quest-scene')[0];
             var sex = 0;
             if (sexNode)
                 sex = sexNode.attributes[2].value;
             var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
-            var targetDefaultName = '';
 
             // If the text contains any number, save the number and replace it to "*"
             var number = textInput.replace(/[^0-9]/g, '');
@@ -2363,50 +1695,48 @@ function GetTranslatedText(node, csv) {
             if (specialtest.length < 1)
                 return;
 
-            // Replace userName to default name.
+            // Remove User's Name
+            //  - Not working now (NEED TO FIX)
+            if ((userName == "") && (doc.getElementsByClassName('cnt-quest-scene')[0])) {
+                userName = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
+
+                if (userName == '' && SceneCodeFromURL().includes('tutorial')) {
+                    if (sex == 0) {
+                        if (language == 'Japanese')
+                            userName = generalConfig.defaultNameMale_jp.substring(1, generalConfig.defaultNameMale_jp.length - 1);
+                        else if (language == 'English')
+                            userName = generalConfig.defaultNameMale_en.substring(1, generalConfig.defaultNameMale_en.length - 1);
+                    } else if (sex == 1) {
+                        if (language == 'Japanese')
+                            userName = generalConfig.defaultNameFemale_jp.substring(1, generalConfig.defaultNameFemale_jp.length - 1);
+                        else if (language == 'English')
+                            userName = generalConfig.defaultNameFemale_en.substring(1, generalConfig.defaultNameFemale_en.length - 1);
+                    }
+                }
+            }
             if (userName != "") {
                 if (textInput.includes(userName)) {
                     if (sex == 0) {
-                        if (language == 'Japanese') {
+                        if (language == 'Japanese')
                             textInput = textInput.split(userName).join(generalConfig.defaultNameMale_jp);
-                            targetDefaultName = generalConfig.defaultNameMale_jp;
-                        } else if (language == 'English') {
+                        else if (language == 'English')
                             textInput = textInput.split(userName).join(generalConfig.defaultNameMale_en);
-                            targetDefaultName = generalConfig.defaultNameMale_en;
-                        }
-                    } else if (sex == 1) {
-                        if (language == 'Japanese') {
-                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_jp);
-                            targetDefaultName = generalConfig.defaultNameFemale_jp;
-                        } else if (language == 'English') {
-                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_en);
-                            targetDefaultName = generalConfig.defaultNameFemale_en;
-                        }
-                    }
 
-                    if (targetDefaultName.length > 0) {
-                        csv.some(function (item) {
-                            if (item.orig) {
-                                if (item.orig.includes(generalConfig.defaultNameMale_jp)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
-                                } else if (item.orig.includes(generalConfig.defaultNameMale_en)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
-                                } else if (item.orig.includes(generalConfig.defaultNameFemale_jp)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
-                                } else if (item.orig.includes(generalConfig.defaultNameFemale_en)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
-                                }
-                            }
-                        });
+                    } else if (sex == 1) {
+                        if (language == 'Japanese')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_jp);
+                        else if (language == 'English')
+                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_en);
                     }
                     PrintLog(`UserName Converted! - ${textInput}`);
                 }
             }
-
+            if (exMode)
+                PushCSV(textInput, miscs);
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             // !!! Execute Translate !!!
             if (transMode) {
-                translatedText = translate(textInput, csv, targetDefaultName);
+                translatedText = translate(textInput, csv);
                 if (!translatedText) return;
             }
             if (userName) {
@@ -2451,65 +1781,63 @@ function GetTranslatedText(node, csv) {
 function GetTranslatedStoryText(node, csv) {
     if (node) {
         var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
-        if (node.className && node.className.includes('prt-log-display')) {
-            var tmpLogNode = doc.getElementsByClassName('txt-log-message')[0];
-            if (tmpLogNode) {
-                node = tmpLogNode;
-                textInput = node.innerHTML;
-                textInput = textInput.replace(/(\r\n|\n|\r)/gm, '').trim();
-            }
-        }
-
-        var txtMessageNode = doc.getElementsByClassName('txt-message')[0];
+        var textContents = doc.getElementsByClassName('txt-message')[0];
         var translatedText = '';
-        var sex = doc.getElementsByClassName('cnt-quest-scene')[0];
-        if (!sex)
-            return;
-        sex = sex.attributes[2].value;
-        //kCheck 테스트 수행 안함.
-        //스토리 텍스트에는 유저네임이 한글일 경우 kCheck에 걸려버려서 번역 안되는 경우가 튜토리얼 번역중 발생함.
+        var sex = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+        var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
 
         PrintLog(`GetTranslatedStoryText - className: ${node.className}, text: ${textInput}`);
 
-        if (transMode)
-            translatedText = translate_StoryText(textInput, csv);
+        translatedText = translate_StoryText(textInput, csv);
         if (!translatedText) return;
 
+        if (translatedText.length > 0) {
+            if (sex == 0) {
+                if (translatedText.includes(generalConfig.defaultTransNameMale))
+                    translatedText = translatedText.split(generalConfig.defaultTransNameMale).join(userName);
+            } else if (sex == 1) {
+                if (translatedText.includes(generalConfig.defaultTransNameFemale))
+                    translatedText = translatedText.split(generalConfig.defaultTransNameFemale).join(userName);
+            }
+        }
         PrintLog(`GetTranslatedStoryText - traslated text: ${translatedText}`);
-
         if (translatedText.length > 0) {
             node.innerHTML = translatedText;
+            if (node.className.includes('prt-pop-synopsis')) return;
 
-            if (node.className.includes('prt-pop-synopsis')) {
-                return;
-            }
-
-            if (node.className.includes('txt-sel')) {
-                txtMessageNode.innerHTML = '';
-                return;
-            }
-
-            /* 사용자가 auto-text 기능 사용 중일 경우 텍스트창에 출력되는 더러운 효과들을
+            if (typeof textContents != 'undefined') {
+                if (node.className.includes('txt-sel')) {
+                    textContents.innerHTML = translate_StoryText(textContents.innerHTML, csv);
+                    return;
+                }
+                if (textContents.innerHTML == '') translatedText = '';
+                textContents.innerHTML = translatedText;
+                /* 사용자가 auto-text 기능 사용 중일 경우 텍스트창에 출력되는 더러운 효과들을
             화면에서 가려버리기 위한 코드*/
-
-            txtMessageNode.innerHTML = document.getElementsByClassName('txt-log-message')[0].innerHTML;
-            txtMessageNode.innerHTML += '<br><br><br><br><br>';
+                textContents.innerHTML += '<br><br><br><br><br>';
+            }
         }
     }
 }
 
 function GetTranslatedBattleText(node, csv) {
-    var translatedText='';
     if (node) {
         if (node.className.includes('txt-body') ||
-            node.className.includes('txt-title') ||
+            node.className.includes('txt-title') || 
             node.className.includes('prt-advice')) {
-            PrintLog(`전투 텍스트 노드 : ${node}`);
+            if (node.innerHTML && node.innerHTML.length == 0) return;
+            var translatedText = '';
+
             translatedText = translate_BattleText(node.innerHTML, csv);
-            if (translatedText) {
-                PrintLog(`[번역 성공] 전투 텍스트 : ${translatedText}`);
-                node.innerHTML = translatedText;
-            }
+            if (!translatedText || translatedText.length == 0) return;
+            node.innerHTML = translatedText;
+        } else if (node.className.includes('prt-navi')) {
+            var adviceNode = node.children[1];
+            var translatedText = '';
+
+            translatedText = translate_BattleText(adviceNode.innerHTML, csv);
+            if (!translatedText || translatedText.length == 0) return;
+            adviceNode.innerHTML = translatedText;
         }
     }
 }
@@ -2610,7 +1938,7 @@ function GetTranslatedImageDIV(node, csv) {
 
         if (transMode && doImageSwap)
             translatedImage = GetTranslatedImageStyle(imageStyle, csv);
-
+            
         if (translatedImage && translatedImage.length > 0) {
             // When it founds the translated text
             if (UseComputeAfter) {
@@ -2628,150 +1956,171 @@ function GetTranslatedImageDIV(node, csv) {
     }
 }
 
-// Observers
-var sceneObserver = new MutationObserver(function (mutations) {
-    sceneObserver.disconnect();
-    mutations.some(function (mutation) {
-        if (mutation.target) {
-            if (mutation.target.className &&
-                mutation.target.className.includes('btn-send-name') &&
-                doc.URL.includes('/#tutorial/6')) {
-                var tutorialUserName = document.getElementById('name_set').value;
+function SceneCodeFromURL() {
+    var scenecode = '';
 
-                if (document.getElementById('name_set').value.length == 0) {
-                    tutorialUserName = document.getElementById('name_set').placeholder;
-                }
-                PrintLog('user name');
-                PrintLog(tutorialUserName);
-                if (tutorialUserName)
-                    userName = tutorialUserName;
-                updateDBUserName(tutorialUserName);
-            }
+    if ((doc.URL.includes('play_view/') || doc.URL.includes('play_view_event/')) && !doc.URL.includes('scene_')) {
+        if (doc.URL.includes('play_view/')) {
+            scenecode = doc.URL.slice(doc.URL.indexOf('play_view/'));
+        } else if (doc.URL.includes('play_view_event/')) {
+            scenecode = doc.URL.slice(doc.URL.indexOf('play_view_event/'));
         }
 
-        if (mutation.target.className &&
-            (mutation.target.className.includes('prt-message-area') ||
-                mutation.target.className.includes('txt-message') ||
-                mutation.target.className.includes('prt-log-display') ||
-                mutation.target.className.includes('txt-character-name'))) {
-            walkDownTree(mutation.target, GetTranslatedText, nameJson);
-            walkDownTree(mutation.target, GetTranslatedStoryText, questJson);
-        }
-
-    });
-
-    //줄거리 창 번역에 어려움이 있음.
-    //DB 원문에 남캐로 시작하면 소년, 여캐로 시작하면 소녀로 변화무쌍하게 입력되어있음.
-    //그런 경우를 다 커버하기위해 단순히 처리함.
-    //각각의 신코드에서 Type이 Synopsis 인것은 반드시 하나만 존재하므로 줄거리 창에 그대로 박아넣기.
-    var popSynopsisNode = doc.getElementsByClassName('prt-pop-synopsis')[0];
-    if (popSynopsisNode) {
-        cachedSceneData.some(function (item) {
-            if (item.Type == 'synopsis') {
-                if (!item.Korean) {
-                    return true;
-                }
-
-                popSynopsisNode.innerHTML = item.Korean;
-
-                if (item.Korean.includes(generalConfig.defaultTransNameMale)) {
-                    popSynopsisNode.innerHTML = item.Korean.split(generalConfig.defaultTransNameMale).join(userName);
-                    return true;
-                } else if (item.Korean.includes(generalConfig.defaultTransNameFemale)) {
-                    popSynopsisNode.innerHTML = item.Korean.split(generalConfig.defaultTransNameFemale).join(userName);
-                    return true;
-                }
-            }
-        });
+        scenecode = scenecode.split('/');
+        scenecode = scenecode[2] + scenecode[4];
+        var sceneNowNum = doc.getElementsByClassName('now')[0].className;
+        sceneNowNum = sceneNowNum[sceneNowNum.length - 1];
+        scenecode = scenecode + sceneNowNum;
+    }
+    if (doc.URL.includes('scene_')) {
+        scenecode = doc.URL.slice(doc.URL.indexOf('scene_'));
+        scenecode = scenecode.split('/')[0];
+    }
+    if (doc.URL.includes('/#tutorial/')) {
+        if (doc.URL.includes('/#tutorial/4'))
+            scenecode = 'scene_tutorial00';
+        else if (doc.URL.includes('/#tutorial/6'))
+            scenecode = 'scene_tutorial01';
+        else if (doc.URL.includes('/#tutorial/8'))
+            scenecode = 'scene_tutorial02';
+        else if (doc.URL.includes('/#tutorial/12'))
+            scenecode = 'scene_tutorial03';
     }
 
-    ObserveSceneText();
+    return scenecode;
+}
+
+// Observers
+var sceneObserver = new MutationObserver(function (mutations) {
+    mutations.some(function (mutation) {
+        if (!mutation.target.className) return;
+        if (mutation.target.className.includes('prt-log-display')) {
+            if (typeof mutation.target.children[0] == 'undefined') return true;
+
+            var textName = mutation.target.children[0].children[0].innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
+            var nameNode = doc.getElementsByClassName('txt-character-name')[0];
+
+            // Remove User's Name
+            if (userName == '' && doc.getElementsByClassName('cnt-quest-scene')[0]) {
+                userName = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[3].value;
+            }
+            if (userName != '') {
+                var sex = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
+                var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
+                if (sex == 0) {
+                    if (language == 'Japanese')
+                        textName = textName.split(userName).join(generalConfig.defaultNameMale_jp);
+                    else if (language == 'English')
+                        textName = textName.split(userName).join(generalConfig.defaultNameMale_en);
+
+                } else if (sex == 1) {
+                    if (language == 'Japanese')
+                        textName = textName.split(userName).join(generalConfig.defaultNameFemale_jp);
+                    else if (language == 'English')
+                        textName = textName.split(userName).join(generalConfig.defaultNameFemale_en);
+                }
+            }
+
+            if (transMode) {
+                sceneObserver.disconnect();
+                if (nameNode) {
+                    if (nameNode.innerText != '') {
+                        GetTranslatedText(mutation.target.children[0].children[0], nameJson);
+                        GetTranslatedText(doc.getElementsByClassName('txt-character-name')[0].children[0], nameJson);
+                        if (doc.getElementsByClassName('txt-character-name')[0].children[0].hasChildNodes())
+                            GetTranslatedText(doc.getElementsByClassName('txt-character-name')[0].children[0].children[0], nameJson);
+                    }
+                }
+                GetTranslatedStoryText(mutation.target.children[0].children[1], questJson);
+            }
+            ObserveSceneText();
+            return true;
+        }
+        if (mutation.target.className.includes('txt-message')) {
+            GetTranslatedStoryText(mutation.target, questJson);
+        }
+    });
 });
 
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
-
-    mutations.some(mutation => {
+    mutations.forEach(mutation => {
         if (mutation.target) {
-            var newUserName = getUserName();
-            if (newUserName.length > 0 && userName != newUserName) {
-                userName = newUserName;
-                PrintLog('USER NAME CHANGED !!');
-                updateDBUserName(userName);
-            } else if (newUserName.length == 0) {
-                var defaultUserName = getDefaultUserName();
-                if (defaultUserName) {
-                    userName = getDefaultUserName();
-                    updateDBUserName(userName);
-                }
-            }
-            PrintLog(`User Name : ${userName}`);
-
-            if (mutation.target.id && mutation.target.id.includes('pop')) {
-                walkDownTree(doc.getElementById('pop'), GetTranslatedText, archiveJson);
-                return true;
-            }
-            if (mutation.target.className &&
+            if (
                 !mutation.target.className.includes('txt-message') &&
                 !mutation.target.className.includes('txt-character-name')
             ) {
-                //mutation 감지되자마자 wrapper 노드를 한번만 전체 순회하고 종료함.
-                walkDownTree(doc.getElementById('wrapper'), GetTranslatedText, archiveJson);
-                return true;
+                if (mutation.target.className == 'contents') {
+                    //mutation 감지되는 노드중에 contents의 부모 노드인 wrapper 노드가 감지가 안됨.
+                    //그래서 contents 노드가 감지될때 부모 노드 wrapper를 번역하게함. 퍼포먼스 영향 없었음.
+                    walkDownTree(doc.getElementById('wrapper'), GetTranslatedText, archiveJson);
+                    return;
+                }
+                walkDownTree(mutation.target, GetTranslatedText, archiveJson);
             }
         }
     });
-
     ObserverArchive();
 });
 var ImageObserver = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserver.disconnect();
-    mutations.some(mutation => {
+    mutations.forEach(mutation => {
         if (mutation.target) {
             if (doImageSwap && mutation.target.className) {
-                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageBlobsUrl);
-
-                //어떠한 술수를 부려도 mutation이 감지가 안되는 이미지들은 하드 코딩으로 번역.
-                var banner = doc.querySelectorAll('[class^="btn-banner"]');
-                if (banner) {
-                    banner.forEach(image => {
-                        walkDownTreeSrc(image, GetTranslatedImage, imageBlobsUrl);
-                    });
-                }
-
-                var global_banner = doc.querySelectorAll('[class^="btn-global-banner"]');
-                if (global_banner) {
-                    global_banner.forEach(image => {
-                        walkDownTreeSrc(image, GetTranslatedImage, imageBlobsUrl);
-                    });
-                }
+                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
             }
         }
     });
     ObserverImage();
 });
+var ImageObserverSub = new MutationObserver(function (mutations) {
+    // PrintLog(mutations);
+    ImageObserverSub.disconnect();
+    mutations.forEach(mutation => {
+        if (mutation.target) {
+            if (doImageSwap) {
+                walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+            }
+        }
+    });
+    ObserverImageSubMenu();
+});
 var ImageObserverDIV = new MutationObserver(function (mutations) {
     // PrintLog(mutations);
     ImageObserverDIV.disconnect();
-
-    mutations.some(mutation => {
+    mutations.forEach(mutation => {
         if (mutation.target) {
             if (doImageSwap && mutation.target.className) {
-                walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageBlobsUrl);
+                walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
             }
         }
     });
     ObserverImageDIV();
 });
 
+var PopObserver = new MutationObserver(function (mutations) {
+    PopObserver.disconnect();
+    mutations.forEach(mutation => {
+        if (mutation.target.className.includes('pop-synopsis')) {
+            GetTranslatedStoryText(doc.getElementsByClassName('prt-pop-synopsis')[0], questJson);
+        } else {
+            walkDownTree(mutation.target, GetTranslatedText, archiveJson);
+        }
+
+        if (doImageSwap) {
+            walkDownTreeSrc(mutation.target, GetTranslatedImage, imageJson);
+            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
+        }
+    });
+    ObserverPop();
+});
 var BattleObserver = new MutationObserver(function (mutations) {
     BattleObserver.disconnect();
     mutations.forEach(mutation => {
         if (mutation.target) {
             walkDownTree(mutation.target, GetTranslatedText, archiveJson);
-            walkDownTree(mutation.target, GetTranslatedBattleText, battleJson);
-            //GetTranslatedBattleText(mutation.target, battleJson /* battleJson은 questJson과 다르게 sceneCode값이 없는 말풍선 번역문들이기 때문에 archiveJson과 합쳐도 무방해보임. 좀 더 생각해보기.*/ );
+            GetTranslatedBattleText(mutation.target, battleJson /* battleJson은 questJson과 다르게 sceneCode값이 없는 말풍선 번역문들이기 때문에 archiveJson과 합쳐도 무방해보임. 좀 더 생각해보기.*/ );
         }
     });
     ObserverBattle();
@@ -2781,8 +2130,7 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
     BattleImageObserver.disconnect();
     mutations.forEach(mutation => {
         if (mutation.target) {
-            // walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
-            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageBlobsUrl);
+            walkDownTreeStyle(mutation.target, GetTranslatedImageDIV, imageJson);
         }
     });
     ObserverBattle();
@@ -2790,62 +2138,99 @@ var BattleImageObserver = new MutationObserver(function (mutations) {
 
 // Queue for each observers
 async function ObserveSceneText() {
-    // var oText = doc.getElementsByClassName('prt-log-display')[0];
-    // var txtMessageNode = doc.getElementsByClassName('prt-message-area')[0];
-
-    var oText = doc.getElementById('wrapper');
-    // if (!oText || !txtMessageNode) {
-    if (!oText) {
+    var oText = doc.getElementsByClassName('prt-log-display')[0];
+    var txtMessageNode = doc.getElementsByClassName('prt-message-area')[0];
+    if (!oText || !txtMessageNode) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
         window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#raid') || (doc.URL.includes('#tutorial') && doc.getElementsByClassName('cnt-raid')[0])) {
-        sceneObserver.disconnect();
-        window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
+    if (
+        doc.URL.includes('archive') ||
+        doc.URL.includes('scene') ||
+        doc.URL.includes('story') ||
+        doc.URL.includes('tutorial')
+    ) {
+        sceneObserver.observe(oText, config);
+        sceneObserver.observe(txtMessageNode, config);
+    }
+}
+
+async function ObserverArchive() {
+    var oText = doc.getElementById('wrapper');
+    if (!oText) {
+        //The node we need does not exist yet.
+        //Wait 500ms and try again
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        return;
+    }
+    if (doc.URL.includes('#raid')) {
+        archiveObserver.disconnect();
+        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        return;
+    }
+    archiveObserver.observe(oText, config);
+}
+
+var storySelectTextsObserver = new MutationObserver(function (mutations) {
+    mutations.some(function (mutation) {
+        if (!mutation.target.className) return;
+        if (mutation.target.className.includes('prt-sel-inner')) {
+            var node = mutation.target;
+
+            for (var i = 0; i < node.children.length; ++i) {
+                GetTranslatedStoryText(node.children[i], questJson);
+            }
+        }
+    });
+    ObserverStorySelectTexts();
+});
+
+async function ObserverStorySelectTexts() {
+    var oText = doc.getElementsByClassName('prt-sel-inner')[0];
+    if (!oText) {
+        //The node we need does not exist yet.
+        //Wait 500ms and try again
+        window.setTimeout(ObserverStorySelectTexts, generalConfig.refreshRate);
         return;
     }
 
     if (
         doc.URL.includes('archive') ||
         doc.URL.includes('scene') ||
-        doc.URL.includes('story')
+        doc.URL.includes('story') ||
+        doc.URL.includes('tutorial')
     ) {
-        sceneObserver.observe(oText, config);
-    } else if (doc.URL.includes('tutorial')) {
-        sceneObserver.observe(oText, config_tutorial);
-    } else {
-        //#quest 링크로 넘어가게됐을때 게임에서 새로고침을 수행함.
-        //문제는 새로고침 수행하고 #raid 페이지나 #archive 페이지로 이동할때에 새로고침을 수행하지않음.
-        //새로고침을 수행하지않으므로 함수에서 URL 검사를 새로 안함.
-        //ObserveSceneText 함수처럼 특정 링크일때만 observe 수행하는 함수들은 그대로 옵저버가 끊김.
-        window.setTimeout(ObserveSceneText, generalConfig.refreshRate);
+        storySelectTextsObserver.observe(oText, config);
     }
 }
-
-async function ObserverArchive() {
-    var oText = doc.getElementById('wrapper');
-
-    if (!oText && popNode) {
+async function ObserverPop() {
+    // var oText = doc.querySelector(".prt-scroll-title");
+    //var oText = doc.getElementById('loading');
+    var oText = doc.getElementById('pop');
+    if (!oText) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
-        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+        window.setTimeout(ObserverPop, generalConfig.refreshRate);
         return;
     }
-    //전투 화면에 있거나, 튜토리얼 전투 화면에 있다면.
-    if (doc.URL.includes('#raid') || (doc.URL.includes('#tutorial') && doc.getElementsByClassName('cnt-raid')[0])) {
-        archiveObserver.disconnect();
-        window.setTimeout(ObserverArchive, generalConfig.refreshRate);
+    if (doc.URL.includes('#raid')) {
+        window.setTimeout(ObserverPop, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('#result')) {
-        archiveObserver.observe(oText, config_image);
-    } else {
-        archiveObserver.observe(oText, config);
+    var popDIV = doc.getElementById('pop');
+    if (popDIV) {
+        PopObserver.observe(popDIV, config);
     }
-}
+    var popDIV2 = doc.querySelectorAll('[class^="pop-usual"]');
+    if (popDIV2) {
+        popDIV2.forEach(pop => {
+            PopObserver.observe(pop, config_simple);
+        });
+    }
 
+}
 async function ObserverBattle() {
     // var oText = doc.querySelector(".prt-scroll-title");
     // var oText = doc.querySelectorAll('[class^="prt-command-chara"]')[0];
@@ -2866,12 +2251,6 @@ async function ObserverBattle() {
             window.setTimeout(ObserverBattle, generalConfig.refreshRate);
             return;
         }
-    } else {
-        //#quest 링크로 넘어가게됐을때 게임에서 새로고침을 수행함.
-        //문제는 새로고침 수행하고 #raid 페이지나 #archive 페이지로 이동할때에 새로고침을 수행하지않음.
-        //새로고침을 수행하지않으므로 ObserveSceneText 함수처럼 특정 링크일때만 observe 수행하는 함수들은 그대로 옵저버가 끊김.
-        //대표적인 경우는 아카룸에서 전투 수행할때 발생함.
-        window.setTimeout(ObserverBattle, generalConfig.refreshRate);
     }
 }
 async function ObserverImage() {
@@ -2882,60 +2261,47 @@ async function ObserverImage() {
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    //전투 화면에 있거나, 튜토리얼 전투 화면에 있다면.
-    if (doc.URL.includes('#raid') || (doc.URL.includes('#tutorial') && doc.getElementsByClassName('cnt-raid')[0])) {
+    if (doc.URL.includes('#raid')) {
         ImageObserver.disconnect();
-        ImageObserverDIV.disconnect();
         archiveObserver.disconnect();
         window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-
-    if (doc.URL.includes('supporter')) {
-        ImageObserver.observe(allElements, config_simple);
-    } else {
-        ImageObserver.observe(allElements, config_image);
+    ImageObserver.observe(allElements, config_image);
+}
+async function ObserverImageSubMenu() {
+    var submenu = doc.getElementById('cnt-submenu-contents').children[0];
+    if (!submenu) {
+        //The node we need does not exist yet.
+        //Wait 500ms and try again
+        window.setTimeout(ObserverImageSubMenu, generalConfig.refreshRate);
+        return;
     }
+    if (doc.URL.includes('#raid')) {
+        ImageObserver.disconnect();
+        archiveObserver.disconnect();
+        window.setTimeout(ObserverImageSubMenu, generalConfig.refreshRate);
+        return;
+    }
+    ImageObserverSub.observe(doc.getElementById('cnt-submenu-contents'), config_image);
 }
 async function ObserverImageDIV() {
     var allElements = doc.getElementById('wrapper');
     if (!allElements) {
         //The node we need does not exist yet.
         //Wait 500ms and try again
-        window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
+        window.setTimeout(ObserverImage, generalConfig.refreshRate);
         return;
     }
-    //전투 화면에 있거나, 튜토리얼 전투 화면에 있다면.
-    if (doc.URL.includes('#raid') || (doc.URL.includes('#tutorial') && doc.getElementsByClassName('cnt-raid')[0])) {
+    if (doc.URL.includes('#raid')) {
         ImageObserver.disconnect();
-        ImageObserverDIV.disconnect();
         archiveObserver.disconnect();
         window.setTimeout(ObserverImageDIV, generalConfig.refreshRate);
         return;
     }
-    if (doc.URL.includes('supporter')) {
-        ImageObserverDIV.observe(allElements, config_simple);
-    } else {
-        ImageObserverDIV.observe(allElements, config_image);
-    }
+    ImageObserverDIV.observe(allElements, config_image);
 }
 
-window.addEventListener("console_log", function (e) {
-    console.log(e.detail);
-});
-
-window.addEventListener("extract_storyText", function (e) {
-    if (e.detail) {
-        var obj = e.detail;
-
-        if (obj.type == 'scenecode') {
-            PrintLog('SceneCodeFrom -- XHR OPEN');
-            PrintLog(obj.data);
-
-            extractedSceneCode = obj.data;
-        }
-    }
-});
 const main = async () => {
     /* @license
        biuuu/ShinyColors
