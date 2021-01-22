@@ -2305,6 +2305,12 @@ async function InitList() {
                 var stext = arguments[0];
                 window_PrintLog(arguments);
 
+                // If the text contains any number, save the number and replace it to "*"
+                var number = stext.replace(/[^0-9]/g, '');
+                if (number.length > 0) {
+                    stext = stext.replace(/[0-9]/g, '*');
+                }
+
                 if (exMode) {
                     window_extractArchiveText(stext);
                 }
@@ -2323,6 +2329,13 @@ async function InitList() {
                     });
                     if (transText) {
                         if (transText.length > 0) {
+                            if (number.length > 0) {
+                                // If it contains number("*"), recover it from the saved number
+                                for (var i = 0; i < number.length; i++) {
+                                    transText = transText.slice(0, transText.indexOf('*')) + number[i] + transText.slice(transText.indexOf('*') + 1);
+                                }
+                            }
+
                             arguments[0] = transText;
                         }
                     }
@@ -2349,7 +2362,7 @@ async function InitList() {
 
                     // eg) scene_evt201208_cp1_q1_s10/null 
                     // 이벤트 스토리에서 종종 발생.
-                    if(scenecode.includes('/')){
+                    if (scenecode.includes('/')) {
                         scenecode = scenecode.split('/')[0];
                     }
 
@@ -2503,7 +2516,7 @@ function translate_StoryText(stext, jsonFile) {
             });
         }
     }
-    
+
     PrintLog('cachedSceneData');
     PrintLog(cachedSceneData);
 
@@ -2890,7 +2903,7 @@ function GetTranslatedStoryText(node, csv) {
 }
 
 function GetTranslatedBattleText(node, csv) {
-    var translatedText='';
+    var translatedText = '';
     if (node) {
         if (node.className.includes('txt-body') ||
             node.className.includes('txt-title') ||
@@ -3191,8 +3204,6 @@ var BattleObserver = new MutationObserver(function (mutations) {
     BattleObserver.disconnect();
     mutations.some(mutation => {
         if (mutation.target) {
-            console.log('뮤테이션');
-            console.log(mutation.target);
             walkDownTree(mutation.target, GetTranslatedText, archiveJson);
             walkDownTree(mutation.target, GetTranslatedBattleText, battleJson);
             //GetTranslatedBattleText(mutation.target, battleJson /* battleJson은 questJson과 다르게 sceneCode값이 없는 말풍선 번역문들이기 때문에 archiveJson과 합쳐도 무방해보임. 좀 더 생각해보기.*/ );
