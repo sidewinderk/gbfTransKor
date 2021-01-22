@@ -1962,7 +1962,7 @@ async function InitList() {
         }
 
         //캔버스 텍스트 번역
-        if (transMode || exMode) {
+        if (transMode) {
             var origCanvasRenderingContext = CanvasRenderingContext2D.prototype.fillText;
             CanvasRenderingContext2D.prototype.fillText = function () {
                 if (arguments.length <= 1) {
