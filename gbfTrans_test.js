@@ -233,6 +233,12 @@ function walkDownTree(node, command, variable = null) {
                 for (var i = 0; i < node.length; i++) walkDownTree(node[i], command, variable);
             }
         }
+        //id, class 둘 다 가지고있지 않은 <div> 태그 밑에 자식 노드가 있는 경우.
+        //이벤트 페이지의 아이템 교환 리스트에서 이런 경우가 처음 발견됨.
+        if (!node.id && !node.className && node.hasChildNodes()){
+            for (var i = 0; i < node.childElementCount; i++)
+                    walkDownTree(node.children[i], command, variable);
+        }
     } else {
         if (node.hasChildNodes()) {
             for (var i = 0; i < node.childElementCount; i++)
@@ -2704,20 +2710,23 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
 
+    var newUserName = getUserName();
+    if (newUserName.length > 0 && userName != newUserName) {
+        userName = newUserName;
+        PrintLog('USER NAME CHANGED !!');
+        updateDBUserName(userName);
+    } else if (newUserName.length == 0) {
+        var defaultUserName = getDefaultUserName();
+        if (defaultUserName) {
+            userName = getDefaultUserName();
+            updateDBUserName(userName);
+        }
+    }
+
+    PrintLog('Archive Observer Mutations :');
+    PrintLog(mutations);
     mutations.some(mutation => {
-        if (mutation.target) {
-            var newUserName = getUserName();
-            if (newUserName.length > 0 && userName != newUserName) {
-                userName = newUserName;
-                PrintLog('USER NAME CHANGED !!');
-                updateDBUserName(userName);
-            } else if (newUserName.length == 0) {
-                var defaultUserName = getDefaultUserName();
-                if (defaultUserName) {
-                    userName = getDefaultUserName();
-                    updateDBUserName(userName);
-                }
-            }
+        if (mutation.target) {       
             PrintLog(`User Name : ${userName}`);
 
             if (mutation.target.id && mutation.target.id.includes('pop')) {
@@ -2729,6 +2738,7 @@ var archiveObserver = new MutationObserver(function (mutations) {
                 !mutation.target.className.includes('txt-character-name')
             ) {
                 //mutation 감지되자마자 wrapper 노드를 한번만 전체 순회하고 종료함.
+                // console.log(mutation.target.className);
                 walkDownTree(doc.getElementById('wrapper'), GetTranslatedText, archiveJson);
                 return true;
             }
