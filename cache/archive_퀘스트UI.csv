@@ -1,9 +1,6 @@
 orig,kr
 文化、経済が交流する開かれた島<br>常盤の風に腕の良い騎空士達が集まる。,문화와 경제가 교류하는 개방된 섬<br>불변의 바람이 불며 실력있는 기공사들이 모인다.
-&lt; 手に入るトレジャー &gt;,&lt; 획득한 트레저 &gt;
-&lt; 出現するレアモンスター &gt;,&lt; 출현하는 레어 몬스터 &gt;
 討伐済,토벌
-&lt; 未クリアのクエスト &gt;,&lt; 남아있는 퀘스트 &gt;
 メイン <span>*</span>,메인 <span>*</span>
 フリー <span>**</span>,프리 <span>**</span>
 マルチ <span>*</span>,멀티 <span>*</span>
@@ -12,25 +9,16 @@ orig,kr
 
 
 
-"<canvas id=""canvas"" cjs-context=""*d"" width=""*"" height=""***"" data-width=""***"" data-height=""***"" dena-version=""*.*.****.*"" dena-context=""*d"" style=""zoom: *.******; width: ***px; height: ***px;""></canvas>"
-"<canvas id=""canvas"" width=""***"" height=""***"" class=""prt-quest-canvas""></canvas>"
-"<canvas id=""canv-fixed-airship"" width=""***"" height=""***"" class=""prt-quest-canvas""></canvas>"
-"<span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span>"
 第**章　薔薇散る剣閃,제**장　장미가 흩날리는 검섬
 初回消費なし,초회 소비 없음
-"<span class=""num-power*""></span>"
 SSレア武器と宝晶石***個が手に入る！,SSR 무기와 보정석 ***개를 얻자！
 家出したみぃちゃん,가출한 미쨩
-"<div class=""prt-light-anim""></div>		<div class=""prt-quest-thumb"">															<img class=""img-quest"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/**********_vhard.png"" alt=""**********_vhard"">												</div>		<div class=""prt-button-cover""></div>		<div class=""prt-quest-detail"">			<div class=""prt-quest-header"">													<div class=""txt-quest-title "">Lv** コキュートス</div>							</div>			<div class=""prt-quest-body"">				<div class=""prt-quest-description"">																<div class=""prt-quest-info half-quest"">																							<div class=""txt-stamina"">AP-**</div>																														<div class=""txt-half-campaign"">AP */*</div>													</div>																						</div>																				<div class=""prt-reward""><div class=""ico-stone""></div></div>																	</div>							<div class=""icon-power"" data-title=""**""><span class=""num-power*""></span><span class=""num-power*""></span></div>					</div>"
-"<span class=""num-power*""></span><span class=""num-power*""></span>"
 仮面の呪縛,가면의 주박
-"<canvas id=""canvas"" width=""***"" height=""***"" class=""prt-quest-canvas"" data-width=""***"" data-height=""***"" dena-version=""*.*.****.*"" dena-context=""webgl"" style=""zoom: *.******; width: ***px; height: ***px;""></canvas>"
 緑がそよぐ草原。肥沃な大地には全てを包む優しい風が吹く。
 散らばった積荷,흩어진 화물
 シェロとルリアのよろず屋,셰로와 루리아의 만물상
 第*章　風の出会い,제*장　바람의 만남
 崩落した橋,붕괴된 다리
-"<img class=""img-place-name"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/placename/*****_******.png"" alt=""*****_******"">"
 郊外に広がる草原。その片隅では一隻の艇が静かに時を刻む。,교외에 펼처진 초원. 그 한구석에 한 척의 배가 조용히 시간을 새긴다.
 グリフォン討伐戦,그리폰 토벌전
 お人形と女の子,인형과 여자아이

@@ -9427,10 +9427,7 @@ Aqours スカイハイ！で入手できる交換素材。集めることで様�
 
 ブロンズアックス
 文化、経済が交流する開かれた島<br>常盤の風に腕の良い騎空士達が集まる。,문화와 경제가 교류하는 개방된 섬<br>불변의 바람이 불며 실력있는 기공사들이 모인다.
-&lt; 手に入るトレジャー &gt;,&lt; 획득한 트레저 &gt;
-&lt; 出現するレアモンスター &gt;,&lt; 출현하는 레어 몬스터 &gt;
 討伐済,토벌
-&lt; 未クリアのクエスト &gt;,&lt; 남아있는 퀘스트 &gt;
 メイン <span>*</span>,메인 <span>*</span>
 フリー <span>**</span>,프리 <span>**</span>
 マルチ <span>*</span>,멀티 <span>*</span>
@@ -9439,25 +9436,16 @@ Aqours スカイハイ！で入手できる交換素材。集めることで様�
 
 
 
-"<canvas id=""canvas"" cjs-context=""*d"" width=""*"" height=""***"" data-width=""***"" data-height=""***"" dena-version=""*.*.****.*"" dena-context=""*d"" style=""zoom: *.******; width: ***px; height: ***px;""></canvas>"
-"<canvas id=""canvas"" width=""***"" height=""***"" class=""prt-quest-canvas""></canvas>"
-"<canvas id=""canv-fixed-airship"" width=""***"" height=""***"" class=""prt-quest-canvas""></canvas>"
-"<span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span><span class=""ico-bp over-limit"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/parts_small-se*f******f.png&quot;);""></span>"
 第**章　薔薇散る剣閃,제**장　장미가 흩날리는 검섬
 初回消費なし,초회 소비 없음
-"<span class=""num-power*""></span>"
 SSレア武器と宝晶石***個が手に入る！,SSR 무기와 보정석 ***개를 얻자！
 家出したみぃちゃん,가출한 미쨩
-"<div class=""prt-light-anim""></div>		<div class=""prt-quest-thumb"">															<img class=""img-quest"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/**********_vhard.png"" alt=""**********_vhard"">												</div>		<div class=""prt-button-cover""></div>		<div class=""prt-quest-detail"">			<div class=""prt-quest-header"">													<div class=""txt-quest-title "">Lv** コキュートス</div>							</div>			<div class=""prt-quest-body"">				<div class=""prt-quest-description"">																<div class=""prt-quest-info half-quest"">																							<div class=""txt-stamina"">AP-**</div>																														<div class=""txt-half-campaign"">AP */*</div>													</div>																						</div>																				<div class=""prt-reward""><div class=""ico-stone""></div></div>																	</div>							<div class=""icon-power"" data-title=""**""><span class=""num-power*""></span><span class=""num-power*""></span></div>					</div>"
-"<span class=""num-power*""></span><span class=""num-power*""></span>"
 仮面の呪縛,가면의 주박
-"<canvas id=""canvas"" width=""***"" height=""***"" class=""prt-quest-canvas"" data-width=""***"" data-height=""***"" dena-version=""*.*.****.*"" dena-context=""webgl"" style=""zoom: *.******; width: ***px; height: ***px;""></canvas>"
 緑がそよぐ草原。肥沃な大地には全てを包む優しい風が吹く。
 散らばった積荷,흩어진 화물
 シェロとルリアのよろず屋,셰로와 루리아의 만물상
 第*章　風の出会い,제*장　바람의 만남
 崩落した橋,붕괴된 다리
-"<img class=""img-place-name"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/placename/*****_******.png"" alt=""*****_******"">"
 郊外に広がる草原。その片隅では一隻の艇が静かに時を刻む。,교외에 펼처진 초원. 그 한구석에 한 척의 배가 조용히 시간을 새긴다.
 グリフォン討伐戦,그리폰 토벌전
 お人形と女の子,인형과 여자아이
@@ -13405,6 +13393,9 @@ The Dragon Knights
 スキップ確認,스킵 확인
 このイベントは以前クリアしたことがあるため、<br>ストーリーをスキップすることができます。,이 이벤트는 이전에 클리어했었기 때문에 <br> 스토리를 스킵할 수 있습니다.
 ※スキップしてもクリア報酬を獲得することができます<br>		※進行中のメインクエストがある場合は自動的に<br>撤退されますのでご注意ください,※스킵해도 클리어 보상을 획득 할 수 있습니다.<br>		※진행중인 메인퀘스트가 있는 경우엔 자동적으로<br>철수하게되므로 주의해주세요.
+エピソードを選択してください。,에피소드를 선택해주세요.
+イベントスキップ設定,이벤트 건너뛰기 설정
+イベントだけ見る,이벤트만 본다
 
 
 !프롤로그
@@ -13743,8 +13734,6 @@ Lv** リゼット,Lv** 리제트
 人体錬成……<br>これさえできるように<br>なれば……,인체연성……<br>이것만 성공할 수 있다면……
 私も皆みたいに<br>外で遊びたいな……,나도 다른 사람들처럼<br>밖에서 놀고싶어……
 ヘルメス錬金術学会が研究を行う街で行方不明者が多発しているという情報を耳にしたぴにゃ達は、情報にあった街を訪れ──,"헤르메스 연금술학회가 연구를 진행하는 곳에서 행방불명자가 속출한다는 정보를 얻은 [지타]일행은, 정보의 장소로 향하는데──"
-ホムンクルス……<br>いうほど、便利なものじゃ<br>ないわね。
-やっと元気な身体を<br>造れたのに……<br>なのに、なんで……
 今のままじゃ知識が<br>足りない……<br>もっと勉強しないと……,이대로는 지식이 부족해……<br>더욱 더 공부해야되……
 リゼット……<br>それが私の名前……,리제트……<br>내 이름……
 ご主人様、<br>ご命令を……,"주인님, 명령을……"
@@ -13754,103 +13743,33 @@ Lv** リゼット,Lv** 리제트
 宜しくお願いします、<br>カリオストロ先生。,"잘부탁드려요,<br>칼리오스트로 선생님."
 カリオストロ先生の教えを<br>受ければ、きっと願いに<br>手が届くはず……,"칼리오스트로 선생님의 수업을<br>받는다면, 반드시 원하는걸<br>이룰 수 있을거야……"
 ミレイユ様、あまり無茶は<br>しないでください。,"밀레이유님, 너무 무리하지 마세요."
-ぴにゃ様方、<br>ミレイユ様のこと、よろしく<br>お願いいたします。
 カリオストロ様の授業……<br>私も一緒に参加しても<br>よろしいでしょうか？,칼리오스트로님의 수업……<br>저도 같이 참여해도<br>괜찮겠습니까？
 ミレイユを見ていると<br>昔を思い出すな。,밀레이유를 보고있으면<br>예전 기억이 떠오르는걸.
 オレ様が教える以上、<br>中途半端は認めねぇ。,"이 몸이 가르치는 이상,<br>어중간하게 넘어가는건 인정하지 않겠어."
 カリオストロも<br>意外と優しいとこあるよな！,칼리오스트로도<br>의외로 상냥한 면이 있구나！
 ついにうちが先輩かぁ……<br>うん、しっかりしないとね☆,"우리들도 드디어 선배가 된거구나……<br>응, 확실히 하자구☆"
-リゼットを何とか取り押さえたぴにゃ達。しかしリゼットはとある術式を展開し──
-私は私だけの家族を<br>作りたいの。<br>もう、ひとりは嫌なの……
 どうして、<br>リゼットばかりが……,"어째서,<br>리제트만……"
-親の傍にいたい……か……<br>私も昔は……
-ミレイユ様の行いであれば<br>私は全て受け入れます。
-昨夜、変な夢を<br>見たような……<br>いえ、気のせいですね……
 モット……モット……,더…… 더……
-しくじったぜ……<br>オレ様がもっと早くに<br>気付いてりゃ……
-家族を作る、か……<br>そういう未来は<br>考えたことも無かったな。
-ミレイユちゃんはずっと<br>寂しかったんだと思う……<br>でも……
-リゼットちゃん、<br>なんで、あんなことを……
-何が起きてるの……？<br>ししょーは<br>わかってるんだよね……？
-ミレイユさん、<br>どうして、あんな<br>酷いことを……
-ミレイユさんと<br>リゼットさんは、<br>難しい関係なんですね……
-ミレイユの気持ちも、<br>わからなくはねーけどよ……
-リゼットもミレイユに<br>文句を言えばいいのにな。
-ミレイユを探すリゼットは、路地裏で飢餓状態に陥ってしまう。そこにある人物が現れ──
 リゼット,리제트
 リゼットが人を……<br>全部、私の所為……なの？,"리제트가 사람을……<br>모두, 내 탓……인거야？"
 リゼットを諦める。<br>今までの私なら……<br>でも、今は……
 なんで……なんで、<br>こんなに胸が<br>苦しいのよ……,"어째서……어째서,<br>이렇게나 마음이<br>아픈거야……"
 ミレイユ様、<br>一体、どこに……,"밀레이유님,<br>대체, 어디에……"
-酷かもしれねぇが……<br>決められるのは<br>ミレイユだけだ。
 錬金術師ってのは、<br>自分が造ったモノから<br>逃げちゃいけねぇんだ。,"연금술사는,<br>자신이 창조한 것에서<br>도망쳐선 안돼는거다."
 ししょー！<br>ふたりとも助ける方法、<br>何かないの！？,스승！<br>둘다 구할 수 있는 방법은<br>없는거야！？
 そんな……<br>リゼットさんが、<br>街の人を食べてるなんて……,"그럴수가……<br>리제트씨가,<br>사람을 잡아먹다니……"
 早く、リゼットさんと<br>ミレイユさんを<br>見つけましょう！,"빨리, 리제트씨와<br>밀레이유씰<br>찾으러가요！"
-どっちかひとりしか<br>助からないなんて<br>そんなのってねーだろ！
-リゼットは、ミレイユを傷つけたくないという理性とミレイユの血肉を求める衝動の間で苦しみ──
-リゼット、貴方の本音を<br>教えて……
-私の欲しいもの……<br>ここにあったんだ……
 ごめんなさい。<br>ごめんなさい。<br>リゼット……,미안해.<br>미안해.<br>리제트……
 ミレイユサマガ<br>ホシイ……,밀레이유님을<br>원해……
-私がミレイユ様を<br>傷つけ……た？<br>私はなぜそんなことを……
 ミレイユサマ……<br>オイシイ……<br>モット……,밀레이유님……<br>맛있어……<br>더 줘……
 くそっ……！<br>これ以上面倒事は……,썩을……！<br>이 이상 귀찮은건……
-戦貨が大分、<br>貯まってるわね。<br>交換しないの？
-これは私とリゼットからの<br>感謝の気持ちよ。貴方達の<br>役に立つといいのだけど……
-色々と力になってくれて<br>ありがとう。これは私からの<br>お礼よ。受け取って。
 リゼット……,리제트……
 全部、全部、<br>私の所為……,"전부, 전부,<br>내 탓이야……"
 責任も罪も全部、<br>私が背負うから……<br>だから、リゼットを……,"책임도 죄도 모두.<br>내가 짊어질테니까……<br>그러니까, 리제트를……"
 リゼット、これからは<br>ずっと一緒よ。,"리제트, 이제부터<br>항상 함께있자."
-許されるとは思ってない。<br>だから償いは続けていくわ。
-戦貨が貯まっておりますよ。<br>交換はされないのですか？
-皆様の頑張りに<br>報酬が出ておりますよ。<br>受け取りにまいりましょう。
-これは私からの<br>お礼になります。<br>受け取ってくださいませ。
-ありがとうございます。<br>これでミレイユ様を<br>傷つけなくて済みます……
 すみません、<br>ミレイユ様……,"죄송해요,<br>밀레이유님……"
-ミレイユは何があろうと<br>私が支えます。<br>だって、家族ですから。
-私が犯した罪は<br>私の生涯をもって<br>償わせていただきます。
-ミレイユとふたりなら……<br>家族と一緒なら辛い道も<br>歩いて行けます。
-戦貨が貯まってるな。<br>さっさと交換しとけよ。
-報酬が出てるな……<br>講義の代金をもらう気は<br>無かったんだが……
-ぴにゃさんっ☆<br>カリオストロと一緒に<br>ご褒美もらいに行こっ☆
-結末は決まってたとしても<br>大事なのはミレイユが<br>それを受け入れたことだ。
-パラケルススめ……<br>状況を<br>引っ掻き回しやがって……
-起きちまったことは<br>戻らねぇ。<br>後はあのふたり次第だ。
 つくづくオレ様も<br>お人好しだな……,정말이지 이 몸도<br>어리숙하구만……
-ミレイユの存在は<br>クラリスにも<br>いい刺激になっただろうな。
-戦貨がたまってるよ☆<br>ぴにゃ、<br>一緒に交換に行こ☆
-報酬あるって！<br>ぴにゃは<br>何か欲しい物とかある？
-ぴにゃ！<br>報酬受け取りに行くの？<br>うちも付いてこっか？
-リゼットちゃん……,리제트쨩……
-こんな終わり……<br>こうなるしか<br>なかったのかな……
-ししょー！<br>そんなことできるなら、<br>最初に言ってよ！
-これから先大変でも、<br>ふたりならきっと<br>大丈夫だよね。
-あのふたり、<br>もうすっかり家族って<br>感じだよね☆
-一番辛いのは、<br>ミレイユさんと<br>リゼットさんですよね……
-きっと、まだ……<br>まだ、何か方法が<br>あるはずです！
 オイラ、<br>こんなお別れなんて<br>嫌だぜ……,"나,<br>이런 이별은<br>질색이라구……"
-おふたりと<br>一緒に旅をするの<br>ずっと楽しみにしてますね！
-やっぱり、カリオストロは<br>とんでもねーな。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 トレジャーショップにてダマスカス磁性粒子を交換することで手に入ります,트레저 숍에서 다마스쿠스 자성 입자를 교환하면 구할 수 있습니다
 
@@ -13880,14 +13799,6 @@ Lv** リゼット,Lv** 리제트
 "<div class=""txt-title-name "">蒼空の錬金術師</div>","<div class=""txt-title-name "">창공의 연금술사</div>"
 蒼空の錬金術師,창공의 연금술사
 獲得条件：チャレンジクエスト「ししょー目指して練習中！」をクリア,획득조건：챌린지 퀘스트「스승을 목표로 연습중！」을 클리어
-
-<li>・台詞集では、イベントTOPで表示されているキャラクター、台詞、音声を楽しむことができます。</li>
-<li>・ストーリーの進行度に対応したボタンとキャラクター名を選択した後、再生ボタンを押すことで確認できます。</li>
-本当に撤退しますか？
-このクエストで獲得したアイテム、<br>経験値は入手できません。
-クエスト撤退
-撤退した場合、このクエストで獲得した<br>アイテム・経験値・ルピは入手できません
-未クリアクエストのため<br>消費したAPが返却されます
 
 
 !알케미스트 디자이어 챌린지 퀘스트
@@ -13921,211 +13832,16 @@ Lv** リゼット,Lv** 리제트
 死光,사광
 溶解液,용해액
 
-ミレイユさんとリゼットさん<br>仲良しになれて良かったです！
 
 
 
 
 !핸섬고릴라 이벤트
 
-
-デイリーミッションクリアで<br><span>「宝晶石」</span>を手に入れよう！
-「宝晶石」
-"<li>・「四象の輝き」の所持上限は***,***になります。</li>				<li>・「四象の輝き」獲得時に所持数が***,***未満だった場合、所持上限を超えた分の「四象の輝き」も獲得することができます。</li>				<li>・「四象の輝き」が所持上限に達している場合、難度「PROUD」および難度「PROUD＋」のクリア報酬を除き、「四象の輝き」を獲得することができませんのでご注意ください。</li>				<li>・四象降臨で獲得した「四象の輝き」は次回以降も引き継がれます。</li>"
-"・「四象の輝き」の所持上限は***,***になります。"
-"・「四象の輝き」獲得時に所持数が***,***未満だった場合、所持上限を超えた分の「四象の輝き」も獲得することができます。"
-<li>・報酬受け取り期間は「**/** **:**」までとなりますので、予めご注意ください。</li>				<li>・報酬受け取り期間を過ぎてしまうと四象報酬を交換することができなくなります。</li>
-・報酬受け取り期間は「**/** **:**」までとなりますので、予めご注意ください。
-<li>・デイリーミッションは午前*:**に更新されます。</li>				<li>・デイリーミッションが更新されるまでにコンプリートできなかった場合、各ミッションの達成状況は翌日に引き継がれます。</li>
-<li>・難度「PROUD」は「四象に挑戦」のマルチバトルを自分以外に参戦者がいない状態で*ターン以内に討伐することで解放されます。<br>(*ターンについて)<br>一度攻撃行動を行い、再度攻撃ボタンが表示されるまでの間が*ターンとなります。</li>				<li>・難度「PROUD＋」は難度「PROUD」のクエストすべてをクリアすることで解放されます。</li>				<li>・難度「PROUD」および難度「PROUD＋」のクエストは期間中*回のみ挑戦でき、クリアするまで再挑戦可能です。</li>				<li>・難度「PROUD」および難度「PROUD＋」のクエスト解放状態とクリア報酬は、四象降臨の開催ごとにリセットされます。</li>
-
-アークエンジェルワンド ×*
-"<option value=""*"" selected="""">全て</option>	<option value=""*"">交換可能</option>	<option value=""*"">回復アイテム</option>	<option value=""*"">武器</option>	<option value=""*"">その他</option>"
-"柘榴石の鉞									<div class=""ico-weapon-*""></div>"
-MIN
-MAX
-"柘榴石の鉞									<div class=""ico-weapon-*"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
-"<div class=""prt-temporary-npc item-length-*"">												<div class=""prt-temporary-npc-comment"">					<div class=""txt-temporary-npc-comment"">						<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">											</div>				</div>								</div>	<div class=""prt-event-item item-length-*"">					<div class=""prt-article-box"">				<div class=""prt-item-image btn-item-image"" data-item-id=""*****"" data-item-name=""ハンサムゴリラのメダリオン"" data-item-comment=""ハンサム・ゴリラで入手できる交換素材。<br>集めることで様々な報酬と交換できる。"" data-item-evo-comment=""下記のイベント限定エクストラクエストで手に入ります<br><br><ul class='yellow-list'><li>・シングルバトル「印刷所への道中にて」</li><li>・シングルバトル「決死の入稿」</li><li>・シングルバトル「ゴリラとの戦い」</li><li>・シングルバトル「ヘル・ゴリラとの議論」</li><li>・マルチバトル「ゴリラとの戦い」</li><li>・マルチバトル「アルカイック・ゴリラとの議論」</li></ul>"" data-item-kind=""**"" data-disable="""" data-unique-article-id="""">					<img class=""img-event-item"" src=""http://game-a.granbluefantasy.jp/assets/img/sp/assets/item/article/s/*****.jpg"">				</div>				<div class=""txt-possessed-item"">*</div>			</div>					<div class=""prt-article-box"">				<div class=""prt-item-image btn-item-image"" data-item-id=""*****"" data-item-name=""ハンサム・ゴリラTA"" data-item-comment=""気力回復、疲労退散、野性爆発──<br>今がその時だ。一気に挑め！"" data-item-evo-comment=""下記のイベント限定エクストラクエストで手に入ります<br><br><ul class='yellow-list'><li>・シングルバトル「印刷所への道中にて」</li><li>・シングルバトル「決死の入稿」</li><li>・シングルバトル「ゴリラとの戦い」</li><li>・シングルバトル「ヘル・ゴリラとの議論」</li><li>・マルチバトル「ゴリラとの戦い」</li><li>・マルチバトル「アルカイック・ゴリラとの議論」</li></ul>"" data-item-kind=""**"" data-disable="""" data-unique-article-id="""">					<img class=""img-event-item"" src=""http://game-a.granbluefantasy.jp/assets/img/sp/assets/item/article/s/*****.jpg"">				</div>				<div class=""txt-possessed-item"">*</div>			</div>							</div>"
-"<div class=""txt-temporary-npc-comment"">						<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">											</div>"
-"<img src=""http://game-a.granbluefantasy.jp/assets/img/sp/event/solotreasure***/assets/temp_npc/status_**.png"" class=""img-npc-comment"">"
 ハンサム・ゴリラ,핸섬 고릴라
-第*話 かんづめる
-スフィリア王国では、絵物語の『見本市』が開催されようとしており──
-イベントクエストをプレイしますか？
-"<span class=""txt-has-number"">*</span>/*"
-ワードセット「天司」
-ワードセット「天司」を解放します。
-ワードセット「堕天司」
-ワードセット「堕天司」を解放します。
-ワードセット「グラブってる*」
-ワードセット「グラブってる*」を解放します。
-召喚：カタストロフ・ピクチュアル
-敵全体に闇属性ダメージ(特大)/光属性攻撃DOWN
-加護：封印されし邪眼
-<ul>								<li>闇属性攻撃力が**%UP</li>																							</ul>
-<li>闇属性攻撃力が**%UP</li>
-"<span class=""txt-has-number"">*</span>/**"
-"バンチ・オブ・バナナス									<div class=""ico-weapon-*""></div>"
-奥義：バナナス・フォールダウン
-スキル：極上バナナ
-スキル：大自然の衝撃
-*回攻撃時に稀に気絶効果　◆メイン装備時/主人公のみ
-"バンチ・オブ・バナナス									<div class=""ico-weapon-*"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
-アーカルムの転世にて<br>様々なアイテムと交換することができます。
-キャラクターのEXリミットボーナスを<br>*～*つ解放することができます。
-降臨、調停の翼やトレジャーショップにて武勲の輝きと交換することで手に入ります。
-トレジャーショップにて栄誉の輝きと交換することで手に入ります。
-トレジャーショップにてダマスカス磁性粒子を交換することで手に入ります
-"デリシャス・バナナ									<div class=""ico-weapon-**""></div>"
 奥義：バナナストリーム,오의：바나나 스트림
 水属性ダメージ(大),수속성 데미지(대)
 スキル：芳醇バナナ,스킬：향기로운 바나나
-"デリシャス・バナナ									<div class=""ico-weapon-**"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
-"ファイン・バナナ									<div class=""ico-weapon-*""></div>"
-スキル：甘熟バナナ
-"ファイン・バナナ									<div class=""ico-weapon-*"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
-"スキルジュエル									<div class=""ico-weapon-***""></div>"
-"スキルジュエル									<div class=""ico-weapon-***"" style=""background-image: url(&quot;https://sidewinderk.github.io/gbfTransKor/images/icon/weapon-s***c******.png&quot;);""></div>"
-マルチバトル「マキュラ・マリウスＨＬ」で手に入ります
-AP回復
-APが全回復していますが、アイテムを使用しますか？
-"AP　***→						<span class=""txt-after-point"">***</span>"
-"<select class=""use-item-num"" data-item-index=""*"">																	<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>															</select>個"
-"<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>"
-"**個→						<span class=""txt-after-num index-*"">**</span>						個"
-"<select class=""use-item-num"" data-item-index=""*"">																	<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""**"">**</option>																	<option value=""**"">**</option>															</select>個"
-"<option value=""*"" selected="""">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""*"">*</option>																	<option value=""**"">**</option>																	<option value=""**"">**</option>"
-"****個→						<span class=""txt-after-num index-*"">****</span>						個"
-APは***以上回復しません
-
-
-
-うほうほ♪<br>ゴリラ語を勉強してるんだ。
-メリッサベル *
-
-ルナール 戦貨
-ルナール 討伐章
-ルナール 貢献度
-ルナール *
-メリッサベル 戦貨
-メリッサベル 討伐章
-メリッサベル 貢献度
-マキラ 戦貨
-マキラ 討伐章
-マキラ 貢献度
-マキラ *
-ミラオル 戦貨
-ミラオル 討伐章
-ミラオル 貢献度
-ミラオル *
-ザーリリャオー 戦貨
-ザーリリャオー 討伐章
-ザーリリャオー 貢献度
-ザーリリャオー *
-シェロカルテ 戦貨
-シェロカルテ 討伐章
-シェロカルテ 貢献度
-シェロカルテ *
-一同は老人に自分達の絵物語に対する強い想いを伝え──
-館詰すればなんとかなる。<br>そう思ってた、あの頃……
-どうして人は怠けるのか？<br>う～ん、哲学的な問題ね。
-はぁ……<br>また皆に迷惑を……
-見本市の２日前、ルナール達は改めて原稿を進めはじめ──
-ミラオル
-ザーリリャオー
-シェロカルテ
-気力が湧いてきたわ！
-もっと表情を、こう……<br>睫毛も増やそうかな……
-問題はここなんだけど……<br>決めたわ、後で考える！
-消し消し……<br>原稿を破かないようにっと。
-うほうほ～♪
-う……<br>まだ皆がゴリラに見える……
-よぉし……<br>私もがんばらないと！
-交渉の事なら、<br>お任せ下さ～い！
-見本市の前日、ルナールは未だに告白場面の台詞に頭を悩ませており──
-あう……<br>ゴールが見えない……
-はぁ……はぁ……<br>あとちょっとなのに……！
-ルナール、大丈夫かな……？
-うほ～……？
-うほうほー！
-朗読会はこりごりだわ……<br>それより締切、急がないと。
-ルナール殿……<br>何か私に出来る事は……
-やはり創作活動とは、<br>大変な作業なんですね～……
-ハンサム・ゴリラＤＡ～！？
-印刷所へと走る一同だったが、無情にも日は落ちてしまっており──
-あうぅ……<br>体力の……限界……
-あ、あなたは……！？
-わたしの夢……<br>遠い遠い夢だけど……
-あとちょっと……<br>あとちょっとなのに……！
-うほうほうほ……？
-まずい状況ね……！<br>でも私は全てを諦めない！
-ルナール殿のために、<br>絶対に入稿しましょう！
-この案件は絶対に、<br>成功させてみせますよ～！
-見本市の開催時刻が迫る中、一同は準備に勤しんでおり──
-うはは♪<br>邪眼が疼いてきたわ！
-ついに来たんだ、<br>わたし達の夢の舞台……！
-アルルさんの割烹着姿、<br>夢みたいに素敵だったなぁ。
-わぁ……すごい！<br>楽しいね、書物見本市！
-絵物語は耽美モノの他にも、色々な種類があるんですね。
-これが書物見本市？<br>初めて来たけれど大盛況ね。
-見本市は書物の他に、<br>グッズも豊富なんですね！
-うふふふふ～<br>ついに見本市当日ですね～
-昼過ぎ、耽美絵物語を扱う一画はひっそりとしていた。ルナールは落ち着かない様子で──
-イ、イラッシャイマセ～！
-ポポル様……<br>わたし達に力を！
-わたしはもう、諦めない！
-わたしは駄目人間だけど、<br>耽美モノは駄目じゃないわ！
-お客さん達も楽しそう。<br>絵物語ってすごいんだね。
-石頭……！
-絵師さんが違っても、<br>ポポルの顔は概ね一緒です。
-うっほっほー！
-ここにいる人達は皆、<br>絵物語が生き甲斐なのね。
-その苔の生えた思想、<br>いま洗い流してあげるわ！
-絵物語は、<br>皆さんの活力なんですね！
-お互い納得するまで、<br>意見を戦わせましょう！
-絵師さんの努力には、<br>尊敬の念を禁じ得ませ～ん。
-ハンサム・ゴリラＴＡ～！？
-あ、戦貨が貯まってるわ。<br>気分転換に交換でもする？
-進捗は上々。<br>ご褒美あ～げよ、自分にね。
-思ったより進んでる……！<br>報酬、貰ってもいいわよね！
-はぁ……<br>なんとか押し切れた……？
-ぴにゃさん、<br>あなたの協力にも<br>感謝するわ。
-次回作はダラダラせず、<br>きちんと準備して<br>臨むわよ～！
-ポポル様グッズ発見！<br>観賞用と保存用と予備と、<br>予備の予備で４つ下さい！
-戦貨が貯まってるよ。<br>手が空いたら交換に行こう。
-うん。いい調子だね。<br>ご褒美が貰えるみたいだよ。
-いっぱいがんばったね。<br>そろそろ報酬を貰おう？
-ふぅ……<br>納得して貰えたかな？
-ルナール、がんばったね。<br>すごいカッコよかったよ。
-あ、ねえねえ。<br>ぴにゃも<br>朗読会する？
-うほうほ。<br>うほうほうほ。
-うほ～？<br>うほうほ、うっほほ～！
-うっほっほ♪<br>うっほうっほ～♪
-うほ～う……！
-うほ～？<br>うほうほうほ、うほ～？
-はむはむはむはむ……
-うほ、うほうほうほ。<br>うっほほ、うっほ、うっほ。
-戦貨が貯まっているわ。<br>忘れないうちに交換したら？
-順調みたいね。<br>ご褒美が出ているわよ。
-なかなかやるじゃない。<br>報酬を受け取りましょう。
-やっと沈黙したわね……！
-ぴにゃ、お疲れ様。<br>貴方の応援にも感謝するわ。
-思えば人が人に見えるって、とてもありがたい事なのね。
-１万ルピ……<br>絵物語の世界は奥が深いわ。
-戦貨が貯まっていますよ。<br>私が交換に参りましょうか？
-良いペースですね。<br>ご褒美を貰えそうですよ！
-素晴らしい手腕ですね！<br>報酬を受け取りましょう！
-まだ議論を続けますか……！
-フフッ！<br>新しい趣味が増えました！
-創作に関われて嬉しいです。ミラも楽しそうだったなぁ。
-マキラ殿のゴリラ語、<br>どうすれば治るんでしょう？
-お疲れ様です～<br>戦貨が貯まってますよ～
-調子が良さそうですね～<br>ご褒美が貰えるそうですよ～
-おめでとうございます～！<br>報酬を受け取りましょ～！
-いかがですか、<br>役員さん～……！
-やあ、ぴにゃ。<br>この演技は慣れないか？
-おこたみ、か……<br>僕も絵物語の勉強をして、<br>次はもっと役に立ちたいな。
-ハンサム・ゴリラですが、<br>製造中止になったそうで～
 
 
 !귀멸의 칼날 콜라보
@@ -14198,6 +13914,21 @@ EXアビリティって？,EX어빌리티가 뭐야?
 超貴重アイテム「ヒヒイロカネ」が手に入る四象降臨について解説！,초중요아이템 「히히이로카네」를 얻을 수 있는 사상강림에 대해서 설명!
 
 !사상강림
+
+
+
+
+
+
+
+
+!제야의 끝에서 울리는 종
+第*話 小さなジョヤ,제*화 작은 죠야
+第*話 黒い服の人達,제*화 검은 옷의 사람들
+第*話 アジトの奥へ,제*화 아지트 안으로
+第*話 煩悩と人の心,제*화 번뇌와 사람의 마음
+第*話 ジョヤとジョイ,제*화 죠야와 죠이
+第*話 託された希望,제*화 맡겨진 희망
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
