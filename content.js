@@ -2375,7 +2375,11 @@ async function InitList() {
 
                 //신코드 추출
                 //url에 scene_list가 들어간건 신코드가 아님.
-                if (arguments[1] && !String(arguments[1]).includes('scene_list') && (String(arguments[1]).includes('/quest/cleared_quest_scenario/') || String(arguments[1]).includes('/quest/scenario/scene_'))) {
+                if (arguments[1] && 
+                    !String(arguments[1]).includes('scene_list') && 
+                    (String(arguments[1]).includes('/quest/cleared_quest_scenario/') || 
+                    String(arguments[1]).includes('/quest/scenario/scene_') ||
+                    String(arguments[1]).includes('/quest/scenario_archive/'))) {
                     //eg) http://game.granbluefantasy.jp/quest/scenario/scene_evt201208_cp1_q1_s10?
                     var scenecode = arguments[1].slice(arguments[1].indexOf('scene_'));
                     scenecode = scenecode.split('?')[0];
