@@ -1,51 +1,51 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt191228_trust1,detail,,<span class='scene-font-katari'>ジョヤが引き起こした騒動も一段落し、</span><br><span class='scene-font-katari'>新年に向けて穏やかな空気が流れ出した</span><br><span class='scene-font-katari'>グランサイファーに、賑やかな声が響く。</span>
-Japanese,scene_evt191228_trust1,detail,ジョイ,[그랑]ー！<br>ジョイ、[그랑]ニ、<br>デシイリ、シタイ！
-Japanese,scene_evt191228_trust1,detail,ジョイ,[그랑]ハ、スゴイ、<br>キクーシ、ダカラ！
+Japanese,scene_evt191228_trust1,detail,ジョイ,[ジータ]ー！<br>ジョイ、[ジータ]ニ、<br>デシイリ、シタイ！
+Japanese,scene_evt191228_trust1,detail,ジョイ,[ジータ]ハ、スゴイ、<br>キクーシ、ダカラ！
 Japanese,scene_evt191228_trust1,detail,ジョイ,ジョイ、オヤクメ、スルタメニ、<br>モット、イロンナコト、<br>ガクシュー、シタイ！
-Japanese,scene_evt191228_trust1,detail,,<span class='scene-font-katari'>ジョイのお願いに、[그랑]は</span><br><span class='scene-font-katari'>笑顔を浮かべてうなずいた。</span>
+Japanese,scene_evt191228_trust1,detail,,<span class='scene-font-katari'>ジョイのお願いに、[ジータ]は</span><br><span class='scene-font-katari'>笑顔を浮かべてうなずいた。</span>
 Japanese,scene_evt191228_trust1,detail,ジョイ,エヘヘ、アリガトー！<br>ソレジャア、ジョイ、サイショハ、<br>ナニヲ、スレバイイ？
 Japanese,scene_evt191228_trust1,sel1_txt,,<span class='scene-font-katari'>まずは、仕事を見て覚えて</span>
 Japanese,scene_evt191228_trust1,sel2_txt,,<span class='scene-font-katari'>一緒に依頼をやってみよう</span>
 Japanese,scene_evt191228_trust1,sel3_txt,,<span class='scene-font-katari'>できそうなことを探そう</span>
-Japanese,scene_evt191228_trust1,detail,ジョイ,ワカッタ！<br>[그랑]ノコト、ミテルネ！
+Japanese,scene_evt191228_trust1,detail,ジョイ,ワカッタ！<br>[ジータ]ノコト、ミテルネ！
 Japanese,scene_evt191228_trust1,detail,ジョイ,ガクシュー、ガクシュー……
 Japanese,scene_evt191228_trust1,detail,,<span class='scene-font-spword'>ジョイの学習度が75あがった！</span>
 Japanese,scene_evt191228_trust1,detail,ジョイ,エ！？ イイノ！？
-Japanese,scene_evt191228_trust1,detail,ジョイ,[그랑]ト、イッショニ、<br>オシゴト、デキルノ、ウレシイ！<br>コマッテル、ヒトモ、タスケラレル！
-Japanese,scene_evt191228_trust1,detail,ジョイ,モチロン、[그랑]ノ、コトモ、<br>イッパイ、タスケル！<br>ヨーシ、ジョイ、ガンバルゾ！
-Japanese,scene_evt191228_trust1,detail,ジョイ,サア、[그랑]！<br>イコウ、イコウ！
+Japanese,scene_evt191228_trust1,detail,ジョイ,[ジータ]ト、イッショニ、<br>オシゴト、デキルノ、ウレシイ！<br>コマッテル、ヒトモ、タスケラレル！
+Japanese,scene_evt191228_trust1,detail,ジョイ,モチロン、[ジータ]ノ、コトモ、<br>イッパイ、タスケル！<br>ヨーシ、ジョイ、ガンバルゾ！
+Japanese,scene_evt191228_trust1,detail,ジョイ,サア、[ジータ]！<br>イコウ、イコウ！
 Japanese,scene_evt191228_trust1,detail,,<span class='scene-font-spword'>ジョイの学習度が100あがった！</span>
 Japanese,scene_evt191228_trust1,detail,ジョイ,ワカッタ！<br>ジョイニ、デキルコト、サガシテミル！
-Japanese,scene_evt191228_trust1,detail,ジョイ,[그랑]、キクーシノ、オシゴト、<br>ナニガ、アルカ、オシエテ！<br>オネガイ！
+Japanese,scene_evt191228_trust1,detail,ジョイ,[ジータ]、キクーシノ、オシゴト、<br>ナニガ、アルカ、オシエテ！<br>オネガイ！
 Japanese,scene_evt191228_trust1,detail,,<span class='scene-font-spword'>ジョイの学習度が50あがった！</span>
 Japanese,scene_evt191228_trust9,detail,ユイシス,<span class='scene-font-4'>はあぁぁぁっ！</span>
-Japanese,scene_evt191228_trust9,detail,,<span class='scene-font-katari'>[그랑]とジョイは、</span><br><span class='scene-font-katari'>鍛錬に励むユイシスの見学に</span><br><span class='scene-font-katari'>やってきていた。</span>
+Japanese,scene_evt191228_trust9,detail,,<span class='scene-font-katari'>[ジータ]とジョイは、</span><br><span class='scene-font-katari'>鍛錬に励むユイシスの見学に</span><br><span class='scene-font-katari'>やってきていた。</span>
 Japanese,scene_evt191228_trust9,detail,ジョイ,オオ、ユイシス、カッコイイ！<br>ソレニ、トッテモ、ツヨイ！
 Japanese,scene_evt191228_trust9,detail,ジョイ,ユイシスガ、モッテイルノハ、<br>ケント、イウンダヨネ？<br>ケン、イイナア……
 Japanese,scene_evt191228_trust9,detail,ユイシス,ふふっ、ありがとう。<br>ジョイは剣に興味があるの？
 Japanese,scene_evt191228_trust9,detail,ジョイ,ウン！<br>ズバッテ、ヤッテミタイ！<br>トッテモ、カッコイイ！
 Japanese,scene_evt191228_trust9,detail,ジョイ,ジョイモ、ケン、モッタラ、<br>ズバッテ、デキルカナ……？
-Japanese,scene_evt191228_trust9,detail,ジョイ,[그랑]、ドウ、オモウ？
+Japanese,scene_evt191228_trust9,detail,ジョイ,[ジータ]、ドウ、オモウ？
 Japanese,scene_evt191228_trust9,sel1_txt,,<span class='scene-font-katari'>まずは麺棒を極めよう</span>
 Japanese,scene_evt191228_trust9,sel2_txt,,<span class='scene-font-katari'>剣はまだ早いかも</span>
 Japanese,scene_evt191228_trust9,sel3_txt,,<span class='scene-font-katari'>一緒に特訓してみよう</span>
 Japanese,scene_evt191228_trust9,detail,ユイシス,麺棒……？ もしかして、<br>木刀のイメージで言っているの？
-Japanese,scene_evt191228_trust9,detail,ユイシス,確かに、[그랑]の言う通りね。<br>何事もまずは、基本を極めないと。
+Japanese,scene_evt191228_trust9,detail,ユイシス,確かに、[ジータ]の言う通りね。<br>何事もまずは、基本を極めないと。
 Japanese,scene_evt191228_trust9,detail,ジョイ,キホン……ソレガ、メンボー？
-Japanese,scene_evt191228_trust9,detail,ユイシス,私や[그랑]だって、<br>最初は木の棒や木刀から始めたのよ。
+Japanese,scene_evt191228_trust9,detail,ユイシス,私や[ジータ]だって、<br>最初は木の棒や木刀から始めたのよ。
 Japanese,scene_evt191228_trust9,detail,ジョイ,……ジョイト、イッショダ！<br>ジョイ、メンボー、キワメル！
 Japanese,scene_evt191228_trust9,detail,,<span class='scene-font-spword'>ジョイの学習度が100あがった！</span>
-Japanese,scene_evt191228_trust9,detail,ユイシス,[그랑]の懸念はもっともね。<br>段階を踏んでいくことが大事よ。
+Japanese,scene_evt191228_trust9,detail,ユイシス,[ジータ]の懸念はもっともね。<br>段階を踏んでいくことが大事よ。
 Japanese,scene_evt191228_trust9,detail,ジョイ,ダンカイ、フム……<br>ジョイ、ガクシュー、シタ！
 Japanese,scene_evt191228_trust9,detail,ジョイ,イツカ、ケン、ツカエルヨウニ、<br>ジョイ、ダンカイ、フム！
 Japanese,scene_evt191228_trust9,detail,,<span class='scene-font-spword'>ジョイの学習度が50あがった！</span>
-Japanese,scene_evt191228_trust9,detail,ユイシス,[그랑]の目があるなら安心ね！<br>腕に関しても間違いありませんし。
-Japanese,scene_evt191228_trust9,detail,ジョイ,[그랑]ト、トックン！？<br>ソレ、タノシソウ！
+Japanese,scene_evt191228_trust9,detail,ユイシス,[ジータ]の目があるなら安心ね！<br>腕に関しても間違いありませんし。
+Japanese,scene_evt191228_trust9,detail,ジョイ,[ジータ]ト、トックン！？<br>ソレ、タノシソウ！
 Japanese,scene_evt191228_trust9,detail,ユイシス,ジョイ、楽しいだけじゃ、<br>怪我をするかもしれないわ。<br>もっと気を引き締めなさい。
 Japanese,scene_evt191228_trust9,detail,ジョイ,……ワカッタ！<br>チャント、キヲ、ヒキシメル！<br>ガクシュー、シタヨ！
 Japanese,scene_evt191228_trust9,detail,,<span class='scene-font-spword'>ジョイの学習度が75あがった！</span>
-Japanese,scene_evt191228_trust6,detail,ジョイ,[그랑]！<br>グランサイファー、スゴイネ！
+Japanese,scene_evt191228_trust6,detail,ジョイ,[ジータ]！<br>グランサイファー、スゴイネ！
 Japanese,scene_evt191228_trust6,detail,ジョイ,タクサン、ナカマヲ、ハコンデ、<br>ソラヲ、ビューント、トブンデショ？
 Japanese,scene_evt191228_trust6,detail,ジョイ,ネーネー<br>グランサイファー、ッテ、ドウヤッテ、<br>トバシテイルノ？
 Japanese,scene_evt191228_trust6,detail,ジョイ,ジョイモ、ガクシューシテ、<br>ウゴカシテ、ミタイ！<br>ジョイ、ウゴカセル、カナ？
@@ -56,10 +56,10 @@ Japanese,scene_evt191228_trust6,detail,ジョイ,ラカム、ガ、ウゴカス�
 Japanese,scene_evt191228_trust6,detail,ジョイ,ソレジャア、ジョイ、ラカムニ、<br>キイテクル！
 Japanese,scene_evt191228_trust6,detail,ジョイ,フネヲ、トバス、ベンキョー<br>ジョイ、トテモ、タノシミ！
 Japanese,scene_evt191228_trust6,detail,,<span class='scene-font-spword'>ジョイの学習度が100あがった！</span>
-Japanese,scene_evt191228_trust6,detail,,<span class='scene-font-katari'>[그랑]は、</span><br><span class='scene-font-katari'>かつて</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>で</span><br><span class='scene-font-katari'>カタリナが操縦した時の話を聞かせた。</span>
+Japanese,scene_evt191228_trust6,detail,,<span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>かつて</span><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>で</span><br><span class='scene-font-katari'>カタリナが操縦した時の話を聞かせた。</span>
 Japanese,scene_evt191228_trust6,detail,ジョイ,ハワワ……<br>ヤッパリ、ムズカシインダ……
 Japanese,scene_evt191228_trust6,detail,ジョイ,デモ、ムズカシイコトニモ、<br>ジョイ、チョウセン、シタイ！
-Japanese,scene_evt191228_trust6,detail,ジョイ,[그랑]、<br>ドウヤッタラ、イイカ、オシエテ？
+Japanese,scene_evt191228_trust6,detail,ジョイ,[ジータ]、<br>ドウヤッタラ、イイカ、オシエテ？
 Japanese,scene_evt191228_trust6,detail,,<span class='scene-font-spword'>ジョイの学習度が50あがった！</span>
 Japanese,scene_evt191228_trust6,detail,ジョイ,エッ、イイノ！？
 Japanese,scene_evt191228_trust6,detail,ジョイ,ウーン……デモ、マズハ、<br>ウゴカシカタ、ガクシュー、シタイ！
@@ -67,12 +67,12 @@ Japanese,scene_evt191228_trust6,detail,ジョイ,キチント、ガクシュー�
 Japanese,scene_evt191228_trust6,detail,,<span class='scene-font-spword'>ジョイの学習度が75あがった！</span>
 Japanese,scene_evt191228_trust2,detail,ルリア,ｗｏｗ ｗｏｗ ｗｏｗ ｗｏｗ♪<br>ｗｏｗ ｗｏｗ ｗｏｗ♪<br>ｗｏｗ ｗｏｗ ｗｏｗ ｗｏｗ♪
 Japanese,scene_evt191228_trust2,detail,ジョイ,アレ、ルリア、ナニシテルノ？
-Japanese,scene_evt191228_trust2,detail,ルリア,あっ、[그랑]！<br>それにジョイ君も！
+Japanese,scene_evt191228_trust2,detail,ルリア,あっ、[ジータ]！<br>それにジョイ君も！
 Japanese,scene_evt191228_trust2,detail,ジョイ,ｗｏｗ ｗｏｗ ｗｏｗ ｗｏｗ♪<br>ッテ、ナアニ？
 Japanese,scene_evt191228_trust2,detail,ルリア,それは、歌っていうんですよ。<br>ちょっと練習していたんです。
 Japanese,scene_evt191228_trust2,detail,ジョイ,ウタ……？
 Japanese,scene_evt191228_trust2,detail,ジョイ,ジョイ、ウタ、ガクシューシタイ！<br>トテモ、タノシソウ！
-Japanese,scene_evt191228_trust2,detail,ジョイ,[그랑]、<br>ウタノ、ガクシューニハ、<br>ナニガ、イチバン、ダイジ？
+Japanese,scene_evt191228_trust2,detail,ジョイ,[ジータ]、<br>ウタノ、ガクシューニハ、<br>ナニガ、イチバン、ダイジ？
 Japanese,scene_evt191228_trust2,sel1_txt,,<span class='scene-font-katari'>もちろん、気持ちだよ</span>
 Japanese,scene_evt191228_trust2,sel2_txt,,<span class='scene-font-katari'>練習あるのみ！</span>
 Japanese,scene_evt191228_trust2,sel3_txt,,<span class='scene-font-katari'>ｗｏｗ ｗｏｗ ｗｏｗ ｗｏｗ♪</span>
@@ -86,8 +86,47 @@ Japanese,scene_evt191228_trust2,detail,ジョイ,ｗｏｗ ｗｏｗ ｗｏｗ �
 Japanese,scene_evt191228_trust2,detail,ジョイ,ジョイ、ルリアト、レンシュー！
 Japanese,scene_evt191228_trust2,detail,ルリア,ふふっ、<br>ジョイ君、とても熱心です！<br>練習頑張りましょうね！
 Japanese,scene_evt191228_trust2,detail,,<span class='scene-font-spword'>ジョイの学習度が75あがった！</span>
-Japanese,scene_evt191228_trust2,detail,ジョイ,[그랑]モ、イッショ！<br>イッショニ、ウタウ！
+Japanese,scene_evt191228_trust2,detail,ジョイ,[ジータ]モ、イッショ！<br>イッショニ、ウタウ！
 Japanese,scene_evt191228_trust2,detail,ジョイ,ｗｏｗ ｗｏｗ ｗｏｗ ｗｏｗ♪
 Japanese,scene_evt191228_trust2,detail,ルリア,ふふ、楽しいですね！<br>ｙｅａｈ ｙｅａｈ ｙｅａｈ♪
 Japanese,scene_evt191228_trust2,detail,ジョイ,ナンダカ、トテモ、タノシイ！<br>ウタ、トイウノハ、トテモ、スゴイ！
 Japanese,scene_evt191228_trust2,detail,,<span class='scene-font-spword'>ジョイの学習度が100あがった！</span>
+Japanese,scene_evt191228_trust7,detail,ジョイ,[ジータ]ー、シツモン！
+Japanese,scene_evt191228_trust7,detail,ジョイ,ジョイ、オヤクメ、スルデショ？<br>ビカラモ、オヤクメ、スルヨネ？
+Japanese,scene_evt191228_trust7,detail,ジョイ,ビカラ、オヤクメノ、トキ、<br>カワイイ、ミミ、ツケテイル！
+Japanese,scene_evt191228_trust7,detail,ジョイ,ソレハ、オシャレト、イウト、<br>ジョイ、ガクシュー、シタ！
+Japanese,scene_evt191228_trust7,detail,ジョイ,ジョイモ、オヤクメノ、トキ、<br>ナニカ、オシャレ、シタイ！<br>ナニガ、イイカナ？
+Japanese,scene_evt191228_trust7,sel1_txt,,<span class='scene-font-katari'>鐘形のジョイはお洒落だと思う！</span>
+Japanese,scene_evt191228_trust7,sel2_txt,,<span class='scene-font-katari'>おめでたい飾りを付ける</span>
+Japanese,scene_evt191228_trust7,sel3_txt,,<span class='scene-font-katari'>お揃いの耳を付ける</span>
+Japanese,scene_evt191228_trust7,detail,ジョイ,エ！ ソウナノ！？
+Japanese,scene_evt191228_trust7,detail,ジョイ,ジョイ、シラナイウチニ、<br>オシャレニ、ナッテタ……！
+Japanese,scene_evt191228_trust7,detail,ジョイ,ナンダカ、ウレシイ！<br>ソウダ、サッソク、オシャレ、スル！
+Japanese,scene_evt191228_trust7,detail,ジョイ,<span class='scene-font-4'>ゴォォーン……！</span><br>フフッ、ドウ？
+Japanese,scene_evt191228_trust7,detail,,<span class='scene-font-spword'>ジョイの学習度が75あがった！</span>
+Japanese,scene_evt191228_trust7,detail,ジョイ,オメデタイ、カザリ？<br>カドマツ、ミタイニ、フサフサ、<br>ツケル、トカ？
+Japanese,scene_evt191228_trust7,detail,ジョイ,ソレ、イイネ！<br>ホカニモ、イロイロ、ツケタイ！<br>トテモ、メデタク、ナリソウ！
+Japanese,scene_evt191228_trust7,detail,ジョイ,カネツキ、ミニ、クルヒトモ、<br>キット、ヨロコブネ！
+Japanese,scene_evt191228_trust7,detail,,<span class='scene-font-spword'>ジョイの学習度が50あがった！</span>
+Japanese,scene_evt191228_trust7,detail,ジョイ,オオ！<br>ソレ、スッゴク、ヨサソウ！<br>ソレニ、トッテモ、オシャレ！
+Japanese,scene_evt191228_trust7,detail,ジョイ,ジョイノ、カネニ、ツケラレル<br>ミミ、チャント、アルカナ……？
+Japanese,scene_evt191228_trust7,detail,ジョイ,ソウダ、ジョイ、ツクッテ、ミル！<br>[ジータ]、テツダッテ？
+Japanese,scene_evt191228_trust7,detail,,<span class='scene-font-spword'>ジョイの学習度が100あがった！</span>
+Japanese,scene_evt191228_trust8,detail,ジョイ,[ジータ]ノ、オシゴトッテ、<br>キクーシ、ダヨネ？
+Japanese,scene_evt191228_trust8,detail,ジョイ,ジョイ、ツギノ、ネンマツモ、<br>ジョヤノ、オヤクメ、スルデショ？
+Japanese,scene_evt191228_trust8,detail,ジョイ,ツギモ、モット、イイ、<br>オヤクメ、シタイ。
+Japanese,scene_evt191228_trust8,detail,ジョイ,[ジータ]、ミタイニ、<br>チャント、オシゴト、スルニハ、<br>ドウシタラ、イイノカナ？
+Japanese,scene_evt191228_trust8,sel1_txt,,<span class='scene-font-katari'>相手のことを考える</span>
+Japanese,scene_evt191228_trust8,sel2_txt,,<span class='scene-font-katari'>失敗を恐れない</span>
+Japanese,scene_evt191228_trust8,sel3_txt,,<span class='scene-font-katari'>しっかり準備すること</span>
+Japanese,scene_evt191228_trust8,detail,ジョイ,アイテノ、コト、カンガエル……<br>ジョヤノ、オヤクメモ、<br>ミンナノ、タメ、ダモンネ！
+Japanese,scene_evt191228_trust8,detail,ジョイ,ミンナノ、タメト、オモッタラ、<br>ジョイ、イツモヨリ、ガンバレル！
+Japanese,scene_evt191228_trust8,detail,ジョイ,オヤクメ、ガンバルカラ、<br>[ジータ]モ、オーエンシテネ！
+Japanese,scene_evt191228_trust8,detail,,<span class='scene-font-spword'>ジョイの学習度が75あがった！</span>
+Japanese,scene_evt191228_trust8,detail,ジョイ,シッパイ、オソレナイ。<br>[ジータ]、カッコイイ……！
+Japanese,scene_evt191228_trust8,detail,ジョイ,ワカッタ。<br>ジョイモ、[ジータ]、ミタイニ、<br>シッパイ、オソレナイ！
+Japanese,scene_evt191228_trust8,detail,,<span class='scene-font-spword'>ジョイの学習度が50あがった！</span>
+Japanese,scene_evt191228_trust8,detail,ジョイ,ジュンビ……ナルホド！<br>オヤクメニ、ソナエテ、<br>シュギョー、ダネ！
+Japanese,scene_evt191228_trust8,detail,ジョイ,アレ、ソレナラ、ジョイ、<br>[ジータ]ニ、デシイリシテ、<br>シュギョー、シテル！
+Japanese,scene_evt191228_trust8,detail,ジョイ,コノママ、シュギョー、ガンバレバ、<br>オヤクメモ、キット、<br>ジョーズニ、デキルネ！
+Japanese,scene_evt191228_trust8,detail,,<span class='scene-font-spword'>ジョイの学習度が100あがった！</span>
