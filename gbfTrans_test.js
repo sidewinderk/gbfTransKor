@@ -149,7 +149,7 @@ function PrintLog(text) {
 function getUserName() {
     var curLanugage = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
     var sex = null;
-    var resultUserName = '';
+    var resultUserName = userName;
 
     var questSceneNode = doc.getElementsByClassName('cnt-quest-scene')[0];
     var mypageUserNameNode = doc.getElementsByClassName('btn-user-name')[0];
@@ -213,6 +213,17 @@ function getDefaultUserName() {
     return resultUserName;
 }
 
+function getTransDefaultUserName(text) {
+    var transDefaultUserName = '';
+
+    if (text.includes('グラン') || text.includes('Gran')) {
+        transDefaultUserName = '그랑';
+    } else if (text.includes('ジータ') || text.includes('Djeeta')) {
+        transDefaultUserName = '지타';
+    }
+    return transDefaultUserName;
+}
+
 function walkDownTree(node, command, variable = null) {
     if (node.innerHTML || node.className.includes('btn-')) command(node, variable);
     if (!node.className) {
@@ -235,9 +246,9 @@ function walkDownTree(node, command, variable = null) {
         }
         //id, class 둘 다 가지고있지 않은 <div> 태그 밑에 자식 노드가 있는 경우.
         //이벤트 페이지의 아이템 교환 리스트에서 이런 경우가 처음 발견됨.
-        if (!node.id && !node.className && node.hasChildNodes()){
+        if (!node.id && !node.className && node.hasChildNodes()) {
             for (var i = 0; i < node.childElementCount; i++)
-                    walkDownTree(node.children[i], command, variable);
+                walkDownTree(node.children[i], command, variable);
         }
     } else {
         if (node.hasChildNodes()) {
@@ -1532,7 +1543,6 @@ var createDB = async function () {
             doBattleTrans,
             isVerboseMode,
             transMode,
-            exMode,
             skipTranslatedText
         });
         trx.add({
@@ -1650,7 +1660,6 @@ var updateDBTexts = async function () {
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
-    imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
     battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
     dbNextUpdateTime = new Date();
     dbNextUpdateTime.setHours(24, 0, 0, 0);
@@ -1682,6 +1691,7 @@ var updateDBTexts = async function () {
 
 var updateDBImages = async function () {
     //image blob 읽어들이기. 대략 10초 내로 전부 불러들이는듯.
+    imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
     imageBlobs = [];
     imageBlobsUrl = [];
     await Promise.all(imageJson.map(async (item) => {
@@ -1806,12 +1816,12 @@ async function InitList() {
         if (dbReUpdate) {
             //사용자가 업데이트 중 새로고침을 계속 눌러도 업데이트가 진행되게끔 작성함.
             PrintLog('재 업데이트 중.');
-            await updateDBTexts();
-            await updateDBImages();
-            await updateDBUserName(userName);
+            updateDBTexts();
+            updateDBImages();
+            updateDBUserName(userName);
             PrintLog('재 업데이트 완료.');
         }
-        await getDBUserName();
+        getDBUserName();
 
     }
 
@@ -1823,11 +1833,11 @@ async function InitList() {
     if (dbNextUpdateTime <= dbUpdatedTime) {
         dbNextUpdateTime = new Date();
         dbNextUpdateTime.setHours(24, 0, 0, 0);
-        await updateDBTexts();
+        updateDBTexts();
         if (doImageSwap) {
-            await updateDBImages();
+            updateDBImages();
         }
-        await updateDBUserName(userName);
+        updateDBUserName(userName);
     }
 
 
@@ -1939,23 +1949,25 @@ async function InitList() {
                         this.setAttribute('src', url);
                         return;
                     }
-                    if (document.URL.includes('/#gacha')) {
-                        //가챠 페이지 - Included Items 메뉴 - 몬스터 이미지 에러 발생해서 예외처리함.
+                    //이미지 깨짐 현상 일어나는 페이지들에 대한 예외목록
+                    if (document.URL.includes('/#gacha') ||
+                        document.URL.includes('mypage')) {
                         this.setAttribute('src', url);
                         return;
                     }
-                    if (document.URL.includes('/#raid') && !doBattleTrans) {
-                        //전투 화면에서 번역 기능을 껐을때 번역하지 않기.
+                    //전투 화면에서는 battleObserver 가 번역을 수행하고있으니 여기서는 끄기.
+                    if (document.URL.includes('/#raid')) {
                         this.setAttribute('src', url);
                         return;
                     }
-                    // window_PrintLog('IMAGE URL LOG');
-                    // window_PrintLog(url);
+                    window_PrintLog(`IMAGE URL LOG : ${url}`);
 
                     imageBlobsUrl.some(function (item) {
                         if (item.orig) {
+                            window_PrintLog(`item.orig: ${item.orig}`);
                             if (String(url).includes(String(item.orig)) && String(url).includes('assets')) {
-                                window_PrintLog(`GET URL:${String(item.kr)}`);
+                                // window_PrintLog(`TRNASLATED IMAGE URL LOG: ${String(item.kr)}`);
+
                                 url = item.kr;
                                 return true;
                             }
@@ -2025,7 +2037,7 @@ async function InitList() {
 
                 //신코드 추출
                 //url에 scene_list가 들어간건 신코드가 아님.
-                if (arguments[1] && !String(arguments[1]).includes('scene_list') && String(arguments[1]).includes('/quest/scenario/scene_')) {
+                if (arguments[1] && !String(arguments[1]).includes('scene_list') && (String(arguments[1]).includes('/quest/cleared_quest_scenario/') || String(arguments[1]).includes('/quest/scenario/scene_'))) {
                     //eg) http://game.granbluefantasy.jp/quest/scenario/scene_evt201208_cp1_q1_s10?
                     var scenecode = arguments[1].slice(arguments[1].indexOf('scene_'));
                     scenecode = scenecode.split('?')[0];
@@ -2073,18 +2085,43 @@ async function InitList() {
         if (doBattleTrans) ObserverList.push(ObserverBattle());
     }
 }
+
 // Observe the textbox
 function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
+    var transDefaultUserName = getTransDefaultUserName(stext);
+
+    PrintLog(`transDefaultUserName:${transDefaultUserName}`);
     PrintLog(`traslate taken: ${String(stext)}`);
+
+    // Replace userName to default name.
+    if (userName.length > 0 && stext.includes(userName)) {
+        stext = stext.split(userName).join(generalConfig.defaultNameMale_jp);
+    }
 
     jsonFile.some(function (item) {
         if (item.kr) {
-            if (stext.length == item.orig.length) {
-                if (String(stext) == String(item.orig)) {
+            if (String(stext).length == String(item.orig).length) {
+                if ((String(stext) == String(item.orig))) {
                     PrintLog(`GET:${String(item.kr)}`);
                     transText = String(item.kr);
+
+                    var resultUserName = userName;
+                    if (transDefaultUserName.length > 0) {
+                        resultUserName = transDefaultUserName;
+                    }
+
+                    if (transText.includes(generalConfig.defaultTransNameMale))
+                        transText = transText.split(generalConfig.defaultTransNameMale).join(resultUserName);
+                    else if (transText.includes('[그란]')) {
+                        transText = transText.split(generalConfig.defaultTransNameMale).join(resultUserName);
+                    } else if (transText.includes(generalConfig.defaultTransNameFemale))
+                        transText = transText.split(generalConfig.defaultTransNameFemale).join(resultUserName);
+                    else if (transText.includes("<span class='nickname'></span>"))
+                        transText = transText.split("<span class='nickname'></span>").join(resultUserName);
+
+
                     return true;
                 }
             }
@@ -2112,6 +2149,20 @@ function translate_StoryText(stext, jsonFile) {
     var transText = '';
     var sex = doc.getElementsByClassName('cnt-quest-scene')[0].attributes[2].value;
     var sc = extractedSceneCode;
+    var defaultUserName = getDefaultUserName();
+    var transDefaultUserName = '';
+
+    if (stext.includes(defaultUserName)) {
+        userName = defaultUserName;
+        updateDBUserName(userName);
+
+        PrintLog(`default user name in stext ${stext}`);
+        PrintLog(`default user name set ${userName}`);
+
+        transDefaultUserName = getTransDefaultUserName(defaultUserName);
+
+        PrintLog(`translated default user name ${transDefaultUserName}`);
+    }
 
     if (skipSceneCode == sc)
         return '';
@@ -2142,6 +2193,7 @@ function translate_StoryText(stext, jsonFile) {
         skipSceneCode = sc;
         return '';
     }
+
 
     var curLanugage = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
     stext = stext.replace(/(\r\n|\n|\r)/gm, '').trim();
@@ -2209,12 +2261,18 @@ function translate_StoryText(stext, jsonFile) {
             if (stext == cachedSceneData[i].Origin) {
                 if (cachedSceneData[i].Korean) {
                     transText = cachedSceneData[i].Korean;
+
+                    var resultUserName = userName;
+                    if (resultUserName == defaultUserName) {
+                        resultUserName = transDefaultUserName;
+                    }
+
                     if (transText.includes(generalConfig.defaultTransNameMale))
-                        transText = transText.split(generalConfig.defaultTransNameMale).join(userName);
+                        transText = transText.split(generalConfig.defaultTransNameMale).join(resultUserName);
                     else if (transText.includes(generalConfig.defaultTransNameFemale))
-                        transText = transText.split(generalConfig.defaultTransNameFemale).join(userName);
+                        transText = transText.split(generalConfig.defaultTransNameFemale).join(resultUserName);
                     else if (transText.includes("<span class='nickname'></span>"))
-                        transText = transText.split("<span class='nickname'></span>").join(userName);
+                        transText = transText.split("<span class='nickname'></span>").join(resultUserName);
                     break;
                 }
             }
@@ -2322,6 +2380,7 @@ function GetTranslatedImageStyle(stext, jsonFile) {
     }
 }
 
+
 function GetTranslatedText(node, csv) {
     if (node) {
         var passOrNot = true;
@@ -2365,13 +2424,6 @@ function GetTranslatedText(node, csv) {
             passOrNot = true;
 
         if (passOrNot) {
-            var sexNode = doc.getElementsByClassName('cnt-quest-scene')[0];
-            var sex = 0;
-            if (sexNode)
-                sex = sexNode.attributes[2].value;
-            var language = doc.title == 'Granblue Fantasy' ? 'English' : 'Japanese';
-            var targetDefaultName = '';
-
             // If the text contains any number, save the number and replace it to "*"
             var number = textInput.replace(/[^0-9]/g, '');
             if (number.length > 0) {
@@ -2382,60 +2434,11 @@ function GetTranslatedText(node, csv) {
             if (specialtest.length < 1)
                 return;
 
-            // Replace userName to default name.
-            if (userName != "") {
-                if (textInput.includes(userName)) {
-                    if (sex == 0) {
-                        if (language == 'Japanese') {
-                            textInput = textInput.split(userName).join(generalConfig.defaultNameMale_jp);
-                            targetDefaultName = generalConfig.defaultNameMale_jp;
-                        } else if (language == 'English') {
-                            textInput = textInput.split(userName).join(generalConfig.defaultNameMale_en);
-                            targetDefaultName = generalConfig.defaultNameMale_en;
-                        }
-                    } else if (sex == 1) {
-                        if (language == 'Japanese') {
-                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_jp);
-                            targetDefaultName = generalConfig.defaultNameFemale_jp;
-                        } else if (language == 'English') {
-                            textInput = textInput.split(userName).join(generalConfig.defaultNameFemale_en);
-                            targetDefaultName = generalConfig.defaultNameFemale_en;
-                        }
-                    }
-
-                    if (targetDefaultName.length > 0) {
-                        csv.some(function (item) {
-                            if (item.orig) {
-                                if (item.orig.includes(generalConfig.defaultNameMale_jp)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameMale_jp).join(targetDefaultName);
-                                } else if (item.orig.includes(generalConfig.defaultNameMale_en)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameMale_en).join(targetDefaultName);
-                                } else if (item.orig.includes(generalConfig.defaultNameFemale_jp)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameFemale_jp).join(targetDefaultName);
-                                } else if (item.orig.includes(generalConfig.defaultNameFemale_en)) {
-                                    item.orig = item.orig.split(generalConfig.defaultNameFemale_en).join(targetDefaultName);
-                                }
-                            }
-                        });
-                    }
-                    PrintLog(`UserName Converted! - ${textInput}`);
-                }
-            }
-
             PrintLog(`Send:${textInput} class name: ${node.className}`);
             // !!! Execute Translate !!!
             if (transMode) {
-                translatedText = translate(textInput, csv, targetDefaultName);
+                translatedText = translate(textInput, csv);
                 if (!translatedText) return;
-            }
-            if (userName) {
-                if (sex == 0) {
-                    if (translatedText.includes(generalConfig.defaultTransNameMale))
-                        translatedText = translatedText.split(generalConfig.defaultTransNameMale).join(userName);
-                } else if (sex == 1) {
-                    if (translatedText.includes(generalConfig.defaultTransNameFemale))
-                        translatedText = translatedText.split(generalConfig.defaultTransNameFemale).join(userName);
-                }
             }
 
             PrintLog('traslated text: ' + translatedText);
@@ -2481,10 +2484,10 @@ function GetTranslatedStoryText(node, csv) {
 
         var txtMessageNode = doc.getElementsByClassName('txt-message')[0];
         var translatedText = '';
-        var sex = doc.getElementsByClassName('cnt-quest-scene')[0];
-        if (!sex)
-            return;
-        sex = sex.attributes[2].value;
+        // var sex = doc.getElementsByClassName('cnt-quest-scene')[0];
+        // if (!sex)
+        //     return;
+        // sex = sex.attributes[2].value;
         //kCheck 테스트 수행 안함.
         //스토리 텍스트에는 유저네임이 한글일 경우 kCheck에 걸려버려서 번역 안되는 경우가 튜토리얼 번역중 발생함.
 
@@ -2504,7 +2507,7 @@ function GetTranslatedStoryText(node, csv) {
             }
 
             if (node.className.includes('txt-sel')) {
-                txtMessageNode.innerHTML = '';
+                // txtMessageNode.innerHTML = '';
                 return;
             }
 
@@ -2518,16 +2521,18 @@ function GetTranslatedStoryText(node, csv) {
 }
 
 function GetTranslatedBattleText(node, csv) {
-    var translatedText='';
+    var translatedText = '';
     if (node) {
         if (node.className.includes('txt-body') ||
             node.className.includes('txt-title') ||
             node.className.includes('prt-advice')) {
-            PrintLog(`전투 텍스트 노드 : ${node}`);
-            translatedText = translate_BattleText(node.innerHTML, csv);
-            if (translatedText) {
-                PrintLog(`[번역 성공] 전투 텍스트 : ${translatedText}`);
-                node.innerHTML = translatedText;
+            PrintLog(`전투 텍스트 노드 : ${node}`)
+            if (transMode) {
+                translatedText = translate_BattleText(node.innerHTML, csv);
+                if (translatedText) {
+                    PrintLog(`[번역 성공] 전투 텍스트 : ${translatedText}`);
+                    node.innerHTML = translatedText;
+                }
             }
         }
     }
@@ -2660,7 +2665,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
                 if (document.getElementById('name_set').value.length == 0) {
                     tutorialUserName = document.getElementById('name_set').placeholder;
                 }
-                PrintLog('user name');
+                PrintLog('tutorialUserName SET !!');
                 PrintLog(tutorialUserName);
                 if (tutorialUserName)
                     userName = tutorialUserName;
@@ -2672,7 +2677,8 @@ var sceneObserver = new MutationObserver(function (mutations) {
             (mutation.target.className.includes('prt-message-area') ||
                 mutation.target.className.includes('txt-message') ||
                 mutation.target.className.includes('prt-log-display') ||
-                mutation.target.className.includes('txt-character-name'))) {
+                mutation.target.className.includes('txt-character-name')) ||
+            mutation.target.className.includes('prt-sel-area')) {
             walkDownTree(mutation.target, GetTranslatedText, nameJson);
             walkDownTree(mutation.target, GetTranslatedStoryText, questJson);
         }
@@ -2690,14 +2696,20 @@ var sceneObserver = new MutationObserver(function (mutations) {
                 if (!item.Korean) {
                     return true;
                 }
+                var resultUserName = userName;
+                var defaultUserName = getDefaultUserName();
+                if (userName == defaultUserName) {
+                    resultUserName = getTransDefaultUserName(defaultUserName);
+                }
+
 
                 popSynopsisNode.innerHTML = item.Korean;
 
                 if (item.Korean.includes(generalConfig.defaultTransNameMale)) {
-                    popSynopsisNode.innerHTML = item.Korean.split(generalConfig.defaultTransNameMale).join(userName);
+                    popSynopsisNode.innerHTML = item.Korean.split(generalConfig.defaultTransNameMale).join(resultUserName);
                     return true;
                 } else if (item.Korean.includes(generalConfig.defaultTransNameFemale)) {
-                    popSynopsisNode.innerHTML = item.Korean.split(generalConfig.defaultTransNameFemale).join(userName);
+                    popSynopsisNode.innerHTML = item.Korean.split(generalConfig.defaultTransNameFemale).join(resultUserName);
                     return true;
                 }
             }
@@ -2710,23 +2722,27 @@ var sceneObserver = new MutationObserver(function (mutations) {
 var archiveObserver = new MutationObserver(function (mutations) {
     archiveObserver.disconnect();
 
+    PrintLog('archiveObserver : USER NAME');
+    PrintLog(userName);
+
     var newUserName = getUserName();
     if (newUserName.length > 0 && userName != newUserName) {
         userName = newUserName;
         PrintLog('USER NAME CHANGED !!');
         updateDBUserName(userName);
-    } else if (newUserName.length == 0) {
-        var defaultUserName = getDefaultUserName();
-        if (defaultUserName) {
-            userName = getDefaultUserName();
-            updateDBUserName(userName);
-        }
     }
+    // else if (newUserName.length == 0) {
+    //     var defaultUserName = getDefaultUserName();
+    //     if (defaultUserName) {
+    //         userName = getDefaultUserName();
+    //         updateDBUserName(userName);
+    //     }
+    // }
 
     PrintLog('Archive Observer Mutations :');
     PrintLog(mutations);
     mutations.some(mutation => {
-        if (mutation.target) {       
+        if (mutation.target) {
             PrintLog(`User Name : ${userName}`);
 
             if (mutation.target.id && mutation.target.id.includes('pop')) {
@@ -2738,7 +2754,6 @@ var archiveObserver = new MutationObserver(function (mutations) {
                 !mutation.target.className.includes('txt-character-name')
             ) {
                 //mutation 감지되자마자 wrapper 노드를 한번만 전체 순회하고 종료함.
-                // console.log(mutation.target.className);
                 walkDownTree(doc.getElementById('wrapper'), GetTranslatedText, archiveJson);
                 return true;
             }
