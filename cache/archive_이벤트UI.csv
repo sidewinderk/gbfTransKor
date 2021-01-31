@@ -55,7 +55,7 @@ orig,kr
 とりあえず街を目指そう。,일단 마을을 목표로 삼자.
 この高原には魔物がいるようだな…気を付けて進もう。,이 고원에는 마물이 있는 것 같군… 조심해서 나아가자.
 魔物を倒した者は、次のバトルで奥義を早く使用できるため有利になるぞ。,마물을 쓰러뜨린 사람은 다음 배틀에서 오의를 빨리 사용할 수 있기 때문에 유리해질 거야.
-オールポーションを１個手に入れた！,올포션을 1개 입수했다!
+オールポーションを１個手に入れた！,올 포션을 1개 입수했다!
 宝箱を１個手に入れた！,보물상자 1개 입수했다!
 お宝を手に入れたな！あとで確認してみよう！,보물을 입수했구나! 나중에 확인해보자!
 わぁ～！楽しみですね！,와~ 기대되네요!
@@ -93,8 +93,8 @@ Lv* エアグレイブ,Lv* 에어 그레이브
 "所持数　<span class=""having-num"">**</span>","소지수　<span class=""having-num"">**</span>"
 "所持数　<span class=""having-num"">***</span>","소지수　<span class=""having-num"">**</span>"
 "所持数　<span class=""having-num"">****</span>","소지수　<span class=""having-num"">**</span>"
-オールポーション,올포션
-オールポーションを使用します,올포션을 사용합니다.
+オールポーション,올 포션
+オールポーションを使用します,올 포션을 사용합니다.
 "所持数　<span class=""having-num"">*</span>→<span class=""after-num"">*</span>","소지수　<span class=""having-num"">*</span>→<span class=""after-num"">*</span>"
 "所持数　<span class=""having-num"">**</span>→<span class=""after-num"">*</span>","소지수　<span class=""having-num"">**</span>→<span class=""after-num"">*</span>"
 "所持数　<span class=""having-num"">***</span>→<span class=""after-num"">**</span>","소지수　<span class=""having-num"">***</span>→<span class=""after-num"">**</span>"
