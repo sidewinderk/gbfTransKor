@@ -21,6 +21,28 @@ text_en,,Can they not hear me anymore?
 text_jp,,どうしよう……！<br>そんな……<br>私、どうすれば……！？
 text_en,,Oh no! What should I do?
 condition_win,,ルリアは直接攻撃ができない……
+condition_win,,襲い来る獣を退けろ！,습격해온 짐승을 물리쳐라!
+condition_win,,敗北条件：いずれかのバトルメンバーの戦闘不能,패배 조건: 한명 이상의 배틀 멤버의 전투 불능
+text_jp,,どうすれば……。,어떻게 해야…….
+text_en,,What do we do...,어떻게 해야…….
+text_jp,,事情を聞くにはこの狼を<br>先に倒すしかない……か。,사정을 들으려면 이 늑대를<br>먼저 쓰러뜨릴 수 밖에 없겠…….군.
+text_en,,"From the looks of it, this wolf needs to be taken care of first.",사정을 들으려면 이 늑대를<br>먼저 쓰러뜨릴 수 밖에 없겠…….군.
+text_jp,,あー！　まっくろー！！<br>ネクタルも、だめー！,아! 새까만사람!!<br>넥타르도 안돼!
+text_en,,Ah! Weird guy in black! Nectar! Stop it!,아! 새까만사람!!<br>넥타르도 안돼!
+text_jp,,くっ……この鳥！！<br>邪魔をするな！,큭……이 새!!<br>방해하지마!
+text_en,,Damn bird... Don't get in the way!,큭……이 새!!<br>방해하지마!
+text_jp,,チッ……！　おい！<br>追い払う策はあるのか！？,쳇……! 어이!<br>쫓아낼 계책이 있는거야!?
+text_en,,"Tch! Hey, got any ideas to deal with this?",쳇……! 어이!<br>쫓아낼 계책이 있는거야!?
+text_jp,,…………！<br>（動きを止めて逃げよう！）,........!<br>(움직임을 멈추고 도망가자)
+text_en,,"...! (Seal his movements, then we make a break for it!)",........!<br>(움직임을 멈추고 도망가자)
+text_jp,,すまないが少し時間を稼ぎたい。<br>頼めるだろうか？,미안하지만 시간 좀 벌고 싶어. 부탁할 수 있을까?
+text_en,,"I apologize, but we need to buy some time. Can we ask this of you?",미안하지만 시간 좀 벌고 싶어. 부탁할 수 있을까?
+text_jp,,手間を掛けさせる……！<br>後で必ず話は聞かせて貰うぞ！,귀찮게 만드는군…… 나중에 꼭 이야기는 들려줘야겠어!
+text_en,,"Sure aren't shy about asking favors, huh? You better tell me everything you know after this!",귀찮게 만드는군…… 나중에 꼭 이야기는 들려줘야겠어!
+text_jp,,クシナ！　準備はいいな？,쿠시나! 준비됐지?
+text_en,,Kushina! Are you ready?,쿠시나! 준비됐지?
+text_jp,,…………！<br>（これで……！）,........!<br>(이걸로……!)
+text_en,,...! (Here we go!),........!<br>(이걸로……!)
 text_jp,,逃がさんぞ！,놓치지 말아라!
 text_jp,,活路を切り開くぞ。<br>まずはコイツらを蹴散らす！,활로를 뚫겠다.<br>우선은 이 녀석들을 무찌르자!
 text_jp,,姐さんは【<span class='attribute2'>水属性</span>】だから<br>【<span class='attribute3'>土属性</span>】の敵の攻撃に弱いみてぇ<br>だな。,누님은 【<span class='attribute2'>물속성</span>】이니까<br>【<span class='attribute3'>흙속성</span>】의 적의 공격에 약해보여!
