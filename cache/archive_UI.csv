@@ -273,12 +273,12 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が弓の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 활일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が楽器の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 악기일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が刀の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도일 때, 메인무기 공격력 UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							通常攻撃時奥義ゲージ上昇 +*","<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							통상 공격시 오의게이지 상승 +*"
+"<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							通常攻撃時奥義ゲージ上昇 +*","<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							통상 공격시 오의 게이지 상승 +*"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP最大時防御力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        HP최대시 방어력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							アビリティダメージ上限 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 상한 +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ上限 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 상한 +**%"
 
-通常攻撃時奥義ゲージ上昇,통상공격시 오의게이지 상승
+通常攻撃時奥義ゲージ上昇,통상공격시 오의 게이지 상승
 
 
 
@@ -2405,12 +2405,12 @@ OK
 バトルのアイテムドロップ率が**%UP<br>						残り時間: *時間 *分,배틀의 아이템 드롭율 **%UP<br>						남은시간: *시간 *분
 バトルのアイテムドロップ率が**%UP<br>						残り時間: **分,배틀의 아이템 드롭율 **%UP<br>						남은시간: **분
 バトルのアイテムドロップ率が**%UP<br>						残り時間: *分,배틀의 아이템 드롭율 **%UP<br>						남은시간: *분
-奥義ゲージがバトル開始時に**%UP<br>						残り時間: **時間 **分,오의게이지 배틀시작 시 **%UP<br>						남은시간: **시간 **분
-奥義ゲージがバトル開始時に**%UP<br>						残り時間: **時間 *分,오의게이지 배틀시작 시 **%UP<br>						남은시간: **시간 *분
-奥義ゲージがバトル開始時に**%UP<br>						残り時間: *時間 **分,오의게이지 배틀시작 시 **%UP<br>						남은시간: *시간 **분
-奥義ゲージがバトル開始時に**%UP<br>						残り時間: *時間 *分,오의게이지 배틀시작 시 **%UP<br>						남은시간: *시간 *분
-奥義ゲージがバトル開始時に**%UP<br>						残り時間: **分,오의게이지 배틀시작 시 **%UP<br>						남은시간: **분
-奥義ゲージがバトル開始時に**%UP<br>						残り時間: *分,오의게이지 배틀시작 시 **%UP<br>						남은시간: *분
+奥義ゲージがバトル開始時に**%UP<br>						残り時間: **時間 **分,오의 게이지 배틀시작 시 **%UP<br>						남은시간: **시간 **분
+奥義ゲージがバトル開始時に**%UP<br>						残り時間: **時間 *分,오의 게이지 배틀시작 시 **%UP<br>						남은시간: **시간 *분
+奥義ゲージがバトル開始時に**%UP<br>						残り時間: *時間 **分,오의 게이지 배틀시작 시 **%UP<br>						남은시간: *시간 **분
+奥義ゲージがバトル開始時に**%UP<br>						残り時間: *時間 *分,오의 게이지 배틀시작 시 **%UP<br>						남은시간: *시간 *분
+奥義ゲージがバトル開始時に**%UP<br>						残り時間: **分,오의 게이지 배틀시작 시 **%UP<br>						남은시간: **분
+奥義ゲージがバトル開始時に**%UP<br>						残り時間: *分,오의 게이지 배틀시작 시 **%UP<br>						남은시간: *분
 獲得Rankポイントが**%UP<br>						残り時間: **時間 **分,획득Rank 포인트가 **%UP<br>						남은시간: **시간 **분
 獲得Rankポイントが**%UP<br>						残り時間: **時間 *分,획득Rank 포인트가 **%UP<br>						남은시간: **시간 *분
 獲得Rankポイントが**%UP<br>						残り時間: *時間 **分,획득Rank 포인트가 **%UP<br>						남은시간: *시간 **분
