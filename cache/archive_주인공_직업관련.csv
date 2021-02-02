@@ -207,7 +207,7 @@ JOB Lv**でこのジョブのLimit Bonusが解禁され<br>能力を強化する
 ウェポンバーストIII,웨폰 버스트III
 自分が即座に奥義発動可能/攻撃UP/チェインバーストダメージUP,자신이 즉시 오의발동가능/공격UP/체인버스트 데미지UP
 レイジIV,레이지IV
-"<div class=""prt-text-small"">参戦者の攻撃UP(大)/味方全体のダメージ上限UP　<span class=""text-blue"">◆奥義ゲージを**％消費</span></div>","<div class=""prt-text-small"">참전자의 공격(대)/아군 전체의 데미지상한UP　<span class=""text-blue"">◆오의게이지를 **％소비</span></div>"
+"<div class=""prt-text-small"">参戦者の攻撃UP(大)/味方全体のダメージ上限UP　<span class=""text-blue"">◆奥義ゲージを**％消費</span></div>","<div class=""prt-text-small"">참전자의 공격(대)/아군 전체의 데미지상한UP　<span class=""text-blue"">◆오의 게이지를 **％소비</span></div>"
 アーマーブレイクII,아머 브레이크II
 ランページII,램페이지II
 自分の連続攻撃確率UP(大)/防御DOWN,자신의 연속공격확률UP(대)/방어DOWN
@@ -547,7 +547,7 @@ HP+***
 デュアルインパルスII,듀얼 임펄스II
 "<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(中)<br>斧：敵のダブルアタック確率DOWN(中)</span></div>","<div class=""prt-text-small"">효과 중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(중)<br>도끼：적의 더블어택 확률 DOWN(중)</span></div>"
 パイルリベレーション,파일 리버레이션
-"<div class=""prt-text-small"">自分の奥義ゲージに応じて自属性ダメージ/攻撃UP/防御UP/自分にダメージ</div>","<div class=""prt-text-small"">자신의 오의게이지에 따라 자신의 속성 데미지/공격UP/방어UP/자신에게 데미지</div>"
+"<div class=""prt-text-small"">自分の奥義ゲージに応じて自属性ダメージ/攻撃UP/防御UP/自分にダメージ</div>","<div class=""prt-text-small"">자신의 오의 게이지에 따라 자신의 속성 데미지/공격UP/방어UP/자신에게 데미지</div>"
 
 
 
@@ -605,7 +605,7 @@ HP+***
 メディク,메딕
 味方全体のHPを回復,아군 전체의 HP 회복
 士気向上,사기향상
-参戦者の奥義ゲージUP,참전자의 오의게이지 UP
+参戦者の奥義ゲージUP,참전자의 오의 게이지 UP
 鬼神の丸薬,귀신의 환약
 
 
