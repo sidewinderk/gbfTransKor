@@ -43,60 +43,59 @@ text_jp,,クシナ！　準備はいいな？,쿠시나! 준비됐지?
 text_en,,Kushina! Are you ready?,쿠시나! 준비됐지?
 text_jp,,…………！<br>（これで……！）,........!<br>(이걸로……!)
 text_en,,...! (Here we go!),........!<br>(이걸로……!)
-condition_win,,悪鬼を率いるゴブリンプリンセスを倒せ！
-condition_win,,敗北条件：いずれかのキャラの戦闘不能
-text_jp,,兄さん、団長さん！<br>痺れ香の効果に気を付けて！
-text_en,,Lucius! Captain! Watch out for the numbing agent!
-text_jp,,全部片付くまでは<br>無理しちゃダメだよ！
-text_en,,Don't do anything stupid before it's all cleaned up!
-text_jp,,厄介な……。
-text_en,,"All right, all right..."
-text_jp,,おまたせー！<br>ぜんぶ！　かたづいた！
-text_en,,There we go! The air's cleared up now! No more numbing!
-text_jp,,ありがとう！<br>これで全力を出せる！
-text_en,,Thanks! Now we can let loose!
-text_jp,,小癪な……！
-text_en,,Impudent brats!
-text_jp,,わー！？<br>ゴブリンきた！！
-text_en,,Waaah! Goblins!
-text_jp,,ウグス！　お前達は<br>この場を離れろ！
-text_en,,Ugusu! You lot get out of here!
-text_jp,,わかったー！！<br>きをつけてね！
-text_en,,Okay! Be careful!
-text_jp,,ふふ……愛し子達を、<br>王を奪われた痛み……。
-text_en,, Hehe... The pain you've inflicted upon my beloved children and king...
-text_jp,,ワラワが教えてあげる！
-text_en,,I'll return it to you tenfold!
-text_jp,,ティナ！！
-text_en,,Teena!
-text_jp,,大丈夫……！<br>これくらい平気だよ！
-text_en,,I'm fine! This much is nothing!
-text_jp,,…………
-text_en,,...
-text_jp,,ふっ……あはははは！<br>その顔！
-text_en,,Hehe... Hahaha! What a lovely expression!
-text_jp,,ワラワ達が憎いと……<br>ワラワ達こそが悪と<br>思い込んだ醜い顔！
-text_en,,The scorn in your eyes—you truly believe we are the barbaric monsters!
-text_jp,,大嫌いだわ……本当に。<br>思い上がりよ、<br>ニンゲン！！
-text_en,,"I detest you. I truly do. Your hubris will be your undoing, child of man!"
-text_jp,,貴様……！
-text_en,,You vile...
-text_jp,,さぁ……誰から<br>殺してほしいの？
-text_en,,Now... Who should I kill first?
-text_jp,,ふん……余裕だな。<br>そうしている間に俺が<br>貴様の首を切り落とすぞ！
-text_en,,"Keep taking me that lightly, and you'll find your head lopped off soon enough."
-text_jp,,やってごらんなさい！<br>やれるものならね！
-text_en,,I would love to see you try! Come then! Show me you mean it!
-text_jp,,そんなものか！<br>貴様の恨みとやらは！
-text_en,,Is that all your hatred can muster? Pathetic!
-text_jp,,…………っ！！
-text_en,,...!
-text_jp,,来るがいい、悪鬼の姫！<br>俺は逃げも隠れもしない！
-text_en,,"Bring it, princess of the fiends! I won't run nor hide..."
-text_jp,,お前の王が<br>そうであったように！！
-text_en,,Not like your king did!
-text_jp,,その……醜い口で！<br>あの方を語るなぁっ！！
-text_en,,Why you... How dare you speak of him!
+condition_win,,悪鬼を率いるゴブリンプリンセスを倒せ！,악귀를 이끄는 고블린 프린세스를 쓰러뜨려라!
+text_jp,,兄さん、団長さん！<br>痺れ香の効果に気を付けて！,오빠! 단장님! <br> 마비향의 효과를 조심해!
+text_en,,Lucius! Captain! Watch out for the numbing agent!,오빠! 단장님! <br> 마비향의 효과를 조심해!
+text_jp,,全部片付くまでは<br>無理しちゃダメだよ！,다 정리될 때까지는<br>무리하면 안돼!
+text_en,,Don't do anything stupid before it's all cleaned up!,다 정리될 때까지는<br>무리하면 안돼!
+text_jp,,厄介な……。,귀찮군…….
+text_en,,"All right, all right...",귀찮군…….
+text_jp,,おまたせー！<br>ぜんぶ！　かたづいた！,기다렸지! <br> 전부! 정리했어!
+text_en,,There we go! The air's cleared up now! No more numbing!,기다렸지! <br> 전부! 정리했어!
+text_jp,,ありがとう！<br>これで全力を出せる！,고마워!<br>이것으로 전력으로 싸울 수 있어!
+text_en,,Thanks! Now we can let loose!,고마워!<br>이것으로 전력으로 싸울 수 있어!
+text_jp,,小癪な……！,건방진...!
+text_en,,Impudent brats!,건방진...!
+text_jp,,わー！？<br>ゴブリンきた！！,와!?<br>고블린 왔어!!
+text_en,,Waaah! Goblins!,와!?<br>고블린 왔어!!
+text_jp,,ウグス！　お前達は<br>この場を離れろ！,우구스! 너희들은<br>이 자리를 떠라!
+text_en,,Ugusu! You lot get out of here!,우구스! 너희들은<br>이 자리를 떠라!
+text_jp,,わかったー！！<br>きをつけてね！,알았어~!!<br>조심해!
+text_en,,Okay! Be careful!,알았어~!!<br>조심해!
+text_jp,,ふふ……愛し子達を、<br>王を奪われた痛み……。,"후후......사랑하는 자식들을,<br>왕을 빼앗긴 아픔......"
+text_en,, Hehe... The pain you've inflicted upon my beloved children and king...,"후후......사랑하는 자식들을,<br>왕을 빼앗긴 아픔......"
+text_jp,,ワラワが教えてあげる！,이 몸이 가르쳐 줄게!
+text_en,,I'll return it to you tenfold!,이 몸이 가르쳐 줄게!
+text_jp,,ティナ！！,티나!!
+text_en,,Teena!,티나!!
+text_jp,,大丈夫……！<br>これくらい平気だよ！,괜찮아...!<br>이정도 괜찮아!
+text_en,,I'm fine! This much is nothing!,괜찮아...!<br>이정도 괜찮아!
+text_jp,,…………,…………
+text_en,,...,...
+text_jp,,ふっ……あはははは！<br>その顔！,훗......하하하하하!<br>그 얼굴!
+text_en,,Hehe... Hahaha! What a lovely expression!,훗......하하하하하!<br>그 얼굴!
+text_jp,,ワラワ達が憎いと……<br>ワラワ達こそが悪と<br>思い込んだ醜い顔！,내가 밉다고....<br>우리들이야 말로 악이라고<br>믿는 추한 얼굴!
+text_en,,The scorn in your eyes—you truly believe we are the barbaric monsters!,내가 밉다고....<br>우리들이야 말로 악이라고<br>믿는 추한 얼굴!
+text_jp,,大嫌いだわ……本当に。<br>思い上がりよ、<br>ニンゲン！！,"너무 싫어......정말로.<br>잘난체 하지마,<br>인간!!"
+text_en,,"I detest you. I truly do. Your hubris will be your undoing, child of man!","너무 싫어......정말로.<br>잘난체 하지마,<br>인간!!"
+text_jp,,貴様……！,이 자식...!
+text_en,,You vile...,이 자식...!
+text_jp,,さぁ……誰から<br>殺してほしいの？,자…누구부터<br>죽여줄까?
+text_en,,Now... Who should I kill first?,자…누구부터<br>죽여줄까?
+text_jp,,ふん……余裕だな。<br>そうしている間に俺が<br>貴様の首を切り落とすぞ！,흥……여유롭군.<br> 그러는 동안 내가 <br> 네 놈의 목을 베겠다!
+text_en,,"Keep taking me that lightly, and you'll find your head lopped off soon enough.",흥……여유롭군.<br> 그러는 동안 내가 <br> 네 놈의 목을 베겠다!
+text_jp,,やってごらんなさい！<br>やれるものならね！,해보세요!<br>할 수만 있다면 말야!
+text_en,,I would love to see you try! Come then! Show me you mean it!,해보세요!<br>할 수만 있다면 말야!
+text_jp,,そんなものか！<br>貴様の恨みとやらは！,그정돈가!<br>네놈의 원망은!
+text_en,,Is that all your hatred can muster? Pathetic!,그정돈가!<br>네놈의 원망은!
+text_jp,,…………っ！！,...............!!
+text_en,,...!,...!
+text_jp,,来るがいい、悪鬼の姫！<br>俺は逃げも隠れもしない！,"자 와라, 악귀 공주!<br>나는 도망치지도 숨지도 않아!"
+text_en,,"Bring it, princess of the fiends! I won't run nor hide...","자 와라, 악귀 공주!<br>나는 도망치지도 숨지도 않아!"
+text_jp,,お前の王が<br>そうであったように！！,너의 왕이 <br> 그랬듯이!!
+text_en,,Not like your king did!,너의 왕이 <br> 그랬듯이!!
+text_jp,,その……醜い口で！<br>あの方を語るなぁっ！！,그......추악한 입으로!<br> 그 분을 말하지마!!
+text_en,,Why you... How dare you speak of him!,그......추악한 입으로!<br> 그 분을 말하지마!!
 text_jp,,逃がさんぞ！,놓치지 말아라!
 text_jp,,活路を切り開くぞ。<br>まずはコイツらを蹴散らす！,활로를 뚫겠다.<br>우선은 이 녀석들을 무찌르자!
 text_jp,,姐さんは【<span class='attribute2'>水属性</span>】だから<br>【<span class='attribute3'>土属性</span>】の敵の攻撃に弱いみてぇ<br>だな。,누님은 【<span class='attribute2'>물속성</span>】이니까<br>【<span class='attribute3'>흙속성</span>】의 적의 공격에 약해보여!
