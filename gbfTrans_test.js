@@ -1606,7 +1606,7 @@ var updateDBTexts = async function () {
     dbNextUpdateTime_text = new Date();
     dbNextUpdateTime_text.setHours(dbNextUpdateTime_text.getHours() + 1, 0, 0, 0);
     dbNextUpdateTime_image = new Date();
-    dbNextUpdateTime_image.setHours(5, 0, 0, 0);
+    dbNextUpdateTime_image.setHours(24 + 5, 0, 0, 0);
 
 
     return new Promise(function (resolve, reject) {
@@ -1636,7 +1636,7 @@ var updateDBImages = async function () {
     dbNextUpdateTime_text = new Date();
     dbNextUpdateTime_text.setHours(dbNextUpdateTime_text.getHours() + 1, 0, 0, 0);
     dbNextUpdateTime_image = new Date();
-    dbNextUpdateTime_image.setHours(5, 0, 0, 0);
+    dbNextUpdateTime_image.setHours(24 + 5, 0, 0, 0);
 
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
     imageBlobs = [];
