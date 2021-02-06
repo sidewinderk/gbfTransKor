@@ -1936,7 +1936,8 @@ var updateDBTexts = async function () {
                 imageJson,
                 battleJson,
                 imageBlobs,
-                dbNextUpdateTime
+                dbNextUpdateTime_text,
+                dbNextUpdateTime_image
             });
             requestUpdate.onsuccess = function (event) {
                 PrintLog('업데이트 완료');
