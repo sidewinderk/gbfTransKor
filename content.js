@@ -2804,7 +2804,7 @@ function GetTranslatedText(node, csv) {
             isNaN(textInput.replace('/', '')) == false || // number / number
             node.className && node.className.includes('txt-atk') ||
             node.className && node.className.includes('scene-font-place') ||
-            node.className && node.className.includes('prt-pop-synopsis') ||
+            (node.className && node.className.includes('prt-pop-synopsis') && !doc.URL.includes('#sidestory')) ||
             node.className && node.className.includes('txt-supporter-name') ||
             node.className && node.className.includes('txt-name') ||
             node.className && node.className.includes('txt-message')
