@@ -1,9 +1,9 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr171_ep1,synopsis,,とある島で[ジータ]は伝説の大拳豪、ガンダゴウザから一方的に弟子にすると告げられる。そこへ、ならず者達が現れ、乱闘の中で[ジータ]の拳がガンダゴウザに突き刺さる。ガンダゴウザはその拳を通して[ジータ]の信念の強さを知り、[ジータ]を弟子にすることを諦め、一行の仲間に加わるのだった。
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>食糧補給のため、</span><br><span class='scene-font-katari'>とある島へ降り立った</span><br><span class='scene-font-katari'>[ジータ]一行──</span>
+Japanese,scene_fate_chr171_ep1,synopsis,,とある島で[플레이어]は伝説の大拳豪、ガンダゴウザから一方的に弟子にすると告げられる。そこへ、ならず者達が現れ、乱闘の中で[플레이어]の拳がガンダゴウザに突き刺さる。ガンダゴウザはその拳を通して[플레이어]の信念の強さを知り、[플레이어]を弟子にすることを諦め、一行の仲間に加わるのだった。
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>食糧補給のため、</span><br><span class='scene-font-katari'>とある島へ降り立った</span><br><span class='scene-font-katari'>[플레이어]一行──</span>
 Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>無事に調達も完了し、</span><br><span class='scene-font-katari'>後はグランサイファーへ戻るだけ。</span><br><span class='scene-font-katari'>そんな時、誰かの腹時計が鳴った。</span>
 Japanese,scene_fate_chr171_ep1,detail,オイゲン,ハハハ、確かに。<br>このまま戻るのも味気ねぇなあ。<br>一丁、あの店で名物でも食っていくか。
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>そう言って、[ジータ]達一行は</span><br><span class='scene-font-katari'>近くの食堂へ入っていく。</span>
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>そう言って、[플레이어]達一行は</span><br><span class='scene-font-katari'>近くの食堂へ入っていく。</span>
 Japanese,scene_fate_chr171_ep1,detail,ラカム,オヤジ、<br>とりあえず店のオススメ教えてくれよ。
 Japanese,scene_fate_chr171_ep1,detail,店主,へえ、いらっしゃい。<br>うちの島は酪農が盛んですから……<br>ってあれ？ 旅行者ですかい？
 Japanese,scene_fate_chr171_ep1,detail,ラカム,ふっ……<br>窓の外を見てみな。
@@ -29,14 +29,14 @@ Japanese,scene_fate_chr171_ep1,detail,ならず者２,しかもありゃ<br>グ�
 Japanese,scene_fate_chr171_ep1,detail,オイゲン,ま、そういうわけだ……<br>これ以上、暴れてみろ……<br>容赦しねえぜ、おい。
 Japanese,scene_fate_chr171_ep1,detail,ならず者１,<span class='scene-font-kokoro'>（クッ、何だこいつら……</span><br><span class='scene-font-kokoro'>この気迫、タダモンじゃねえ。</span><br><span class='scene-font-kokoro'>どんだけ修羅場を潜ってきてやがる。）</span>
 Japanese,scene_fate_chr171_ep1,detail,ならず者２,<span class='scene-font-kokoro'>（特にあの真ん中のヤツ……</span><br><span class='scene-font-kokoro'>虫も殺さねえような顔して</span><br><span class='scene-font-kokoro'>ありゃ、相当な使い手だぜ……）</span>
-Japanese,scene_fate_chr171_ep1,detail,ラカム,なんだ？<br>さっきからじろじろと……<br>[ジータ]に何か用か？
+Japanese,scene_fate_chr171_ep1,detail,ラカム,なんだ？<br>さっきからじろじろと……<br>[플레이어]に何か用か？
 Japanese,scene_fate_chr171_ep1,detail,ならず者１,退け、出て行くぞ。
 Japanese,scene_fate_chr171_ep1,detail,ラカム,どうだ？<br>逃げなきゃなんねえのがどっちか<br>これでよくわかったろ？
 Japanese,scene_fate_chr171_ep1,detail,店主,ち、違う！<br>オレが言ってんのはアイツらじゃねえ！<br>……あ、あああ、来ちまいやがった。
 Japanese,scene_fate_chr171_ep1,detail,店主,あんたら、もうしめえだ……<br>もう逃げらんねえ……
 Japanese,scene_fate_chr171_ep1,detail,ラカム,ん、何だ？ 急に空が陰って──
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>突如、[ジータ]達の上に</span><br><span class='scene-font-katari'>山脈の如き影が差す。</span>
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>怯えた目で仰ぎ見る店主の視線──</span><br><span class='scene-font-katari'>[ジータ]達は、それを辿るように</span><br><span class='scene-font-katari'>ゆっくりと振り返った。</span>
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>突如、[플레이어]達の上に</span><br><span class='scene-font-katari'>山脈の如き影が差す。</span>
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>怯えた目で仰ぎ見る店主の視線──</span><br><span class='scene-font-katari'>[플레이어]達は、それを辿るように</span><br><span class='scene-font-katari'>ゆっくりと振り返った。</span>
 Japanese,scene_fate_chr171_ep1,detail,ビィ,な、なんだぁ！？<br>このドデカい爺さんは！
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ガハハハ……我が名はガンダゴウザ。<br>古今無双流大開祖、ガンダゴウザとは<br>我のことでああああるッ！
 Japanese,scene_fate_chr171_ep1,detail,ビィ,なんだそりゃ……？<br>ラカム、わかるか？
@@ -56,17 +56,17 @@ Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,おお、よくぞ聞�
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,この全空最強の大拳豪であっても<br>唯一勝つことのできぬものがある。<br>是れ即ち、老い也。
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,このまま我が古今無双流の奥義を<br>ワシ一代で終わらせてよいものか。<br>近年、そう思うに至ったのだ。
 Japanese,scene_fate_chr171_ep1,detail,カタリナ,確かに、貴殿の仰るとおりだ。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,無礼ながら、覗き見させてもらった。<br>先ほどの[ジータ]の立ち回り、<br>実に美事であったぞ。
-Japanese,scene_fate_chr171_ep1,detail,オイゲン,んん？ [ジータ]は一発たりとも<br>手なんて出しちゃいなかったぜ？<br>
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,無礼ながら、覗き見させてもらった。<br>先ほどの[플레이어]の立ち回り、<br>実に美事であったぞ。
+Japanese,scene_fate_chr171_ep1,detail,オイゲン,んん？ [플레이어]は一発たりとも<br>手なんて出しちゃいなかったぜ？<br>
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,手は出さずとも気を出しておったわ。<br>戦わずして勝つとはまさにこのこと。<br>己が気を当て圧倒するは達人の妙技也。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,古今無双流一番弟子。<br>[ジータ]ならば申し分はない！
-Japanese,scene_fate_chr171_ep1,detail,ビィ,へぇ、やるじゃねえか[ジータ]。<br>そんなすげぇオッサンに見込まれるたぁ<br>流石オイラ達の[ジータ]だぜ！
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,古今無双流一番弟子。<br>[플레이어]ならば申し分はない！
+Japanese,scene_fate_chr171_ep1,detail,ビィ,へぇ、やるじゃねえか[플레이어]。<br>そんなすげぇオッサンに見込まれるたぁ<br>流石オイラ達の[플레이어]だぜ！
 Japanese,scene_fate_chr171_ep1,detail,ルリア,待ってください。
 Japanese,scene_fate_chr171_ep1,detail,ビィ,なんだ、ルリア？
-Japanese,scene_fate_chr171_ep1,detail,ルリア,[ジータ]には、私達には……<br>イスタルシアへ行くっていう<br>目的があるんです。だから……
+Japanese,scene_fate_chr171_ep1,detail,ルリア,[플레이어]には、私達には……<br>イスタルシアへ行くっていう<br>目的があるんです。だから……
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ほう、左様か。<br>ならばそいつは今日でしまいだ。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,たった今より、[ジータ]は<br>ワシの元で全ての奥義を体得すべく<br>日夜修行の日々を送る。
-Japanese,scene_fate_chr171_ep1,detail,ルリア,えぇーっ！？<br>そんなこと、無理です！<br>ねぇ、[ジータ]？
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,たった今より、[플레이어]は<br>ワシの元で全ての奥義を体得すべく<br>日夜修行の日々を送る。
+Japanese,scene_fate_chr171_ep1,detail,ルリア,えぇーっ！？<br>そんなこと、無理です！<br>ねぇ、[플레이어]？
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,無理とはなんぞや。<br>今日までワシがやろうとしたこと、<br>皆悉くその言葉を口にした。
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,されど、ワシはすべて叶えてきた。<br>この拳一つで……<br>この、拳一つでなああああッ！
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,<span class='scene-font-5'>破ァッ！</span>
@@ -81,36 +81,36 @@ Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,なんという無粋�
 Japanese,scene_fate_chr171_ep1,detail,ならず者２,なんだ、じじい？<br>テメエからぶっつぶしてやろうか！
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,よかろう、相手をしてくれん。<br>我が古今無双流の妙技ッ<br>とくと味わうがよいッ！
 Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>ガンダゴウザの強さは本物だった。</span><br><span class='scene-font-katari'>数多の伝説もきっと事実なのだろう</span><br><span class='scene-font-katari'>誰もがそう認める圧倒的な拳技だった。</span>
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>飛び込めば巻き添えを食らいかねない。</span><br><span class='scene-font-katari'>皆が躊躇する中、一つの影が戦舞を踊る</span><br><span class='scene-font-katari'>──[ジータ]である。</span>
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>だがこの時、不運なアクシデントが……</span><br><span class='scene-font-katari'>[ジータ]の放った渾身の一撃が</span><br><span class='scene-font-katari'>電光石火のガンダゴウザに刺さった。</span>
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>飛び込めば巻き添えを食らいかねない。</span><br><span class='scene-font-katari'>皆が躊躇する中、一つの影が戦舞を踊る</span><br><span class='scene-font-katari'>──[플레이어]である。</span>
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>だがこの時、不運なアクシデントが……</span><br><span class='scene-font-katari'>[플레이어]の放った渾身の一撃が</span><br><span class='scene-font-katari'>電光石火のガンダゴウザに刺さった。</span>
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ぬ、ぐう……この拳は……
 Japanese,scene_fate_chr171_ep1,detail,オイゲン,おいおい……！<br>なんてこった……
 Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>しかしガンダゴウザは意に介さず。</span><br><span class='scene-font-katari'>何事もなかったかの如く</span><br><span class='scene-font-katari'>また悪漢を蹴散らしていくのだった。</span>
-Japanese,scene_fate_chr171_ep1,detail,ラカム,な、なんだって！？<br>[ジータ]を弟子にするのを諦める？
+Japanese,scene_fate_chr171_ep1,detail,ラカム,な、なんだって！？<br>[플레이어]を弟子にするのを諦める？
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,いかにも。
 Japanese,scene_fate_chr171_ep1,detail,カタリナ,ガンダゴウザ殿<br>何故、急に心変わりを？
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,拳は雄弁ぞ。<br>一つ受ければ全てがわかる。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,[ジータ]が如何に父を想い、<br>空の最果てに焦がれておるか──
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,[플레이어]が如何に父を想い、<br>空の最果てに焦がれておるか──
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,その想いの強さに比べれば、<br>ワシの望みなど児戯に等しい。<br>そう悟ったまでのことよ。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,[ジータ]よ。<br>あの拳、実に良い一撃であったぞ。
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,[플레이어]よ。<br>あの拳、実に良い一撃であったぞ。
 Japanese,scene_fate_chr171_ep1,detail,オイゲン,旦那……あんた……
 Japanese,scene_fate_chr171_ep1,detail,カタリナ,ふむ……<br>拳で語り合うか、良いものだな。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,しかし参った。<br>[ジータ]ほどの素質、<br>果たしてまた出会えるものかどうか……
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,しかし参った。<br>[플레이어]ほどの素質、<br>果たしてまた出会えるものかどうか……
 Japanese,scene_fate_chr171_ep1,detail,ルリア,じゃあお爺さんも一緒に行きませんか？
-Japanese,scene_fate_chr171_ep1,detail,オイゲン,おお、そうだ、そうすりゃいい。<br>[ジータ]は弟子にゃなれねえけど、<br>ともに旅する仲間だったらなれるよな？
+Japanese,scene_fate_chr171_ep1,detail,オイゲン,おお、そうだ、そうすりゃいい。<br>[플레이어]は弟子にゃなれねえけど、<br>ともに旅する仲間だったらなれるよな？
 Japanese,scene_fate_chr171_ep1,sel1_txt,,<span class='scene-font-katari'>よかろう。</span>
 Japanese,scene_fate_chr171_ep1,sel2_txt,,<span class='scene-font-katari'>それは困る。</span>
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,感激の極みッ！<br>是非もなく、頼む。
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,懇願の至りッ！<br>このとおりぞ、是非、ワシもともに！
 Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>しかしこのとき、</span><br><span class='scene-font-katari'>ガンダゴウザは心の内でほくそえむ。</span>
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ふふふ、負けるが勝ちとはこのこと。<br>此奴らについて行けば[ジータ]殿を<br>鍛える機会にも恵まれよう。
-Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ワシはまだまだ諦めてはおらんぞ。<br>いずれ[ジータ]を我が弟子に……<br>我が弟子にしてくれようッ！
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ふふふ、負けるが勝ちとはこのこと。<br>此奴らについて行けば[플레이어]殿を<br>鍛える機会にも恵まれよう。
+Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,ワシはまだまだ諦めてはおらんぞ。<br>いずれ[플레이어]を我が弟子に……<br>我が弟子にしてくれようッ！
 Japanese,scene_fate_chr171_ep1,detail,オイゲン,あのよぅ、旦那……<br>さっきから心の声がダダ漏れだぜ？
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,よろしゅう頼むぞ、皆の衆！<br>ガハハ、ガハハハ……
 Japanese,scene_fate_chr171_ep1,detail,ガンダゴウザ,<span class='scene-font-5'>破ァッ！</span>
-Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>豪快すぎる漢、ガンダゴウザ。</span><br><span class='scene-font-katari'>その実力は伝説級か、ただの噂話か……</span><br><span class='scene-font-katari'>[ジータ]達はいずれ知るだろう。</span>
+Japanese,scene_fate_chr171_ep1,detail,,<span class='scene-font-katari'>豪快すぎる漢、ガンダゴウザ。</span><br><span class='scene-font-katari'>その実力は伝説級か、ただの噂話か……</span><br><span class='scene-font-katari'>[플레이어]達はいずれ知るだろう。</span>
 Japanese,scene_chr171_q1_s10,synopsis,,ある日、ガンダゴウザはグランサイファーと拳を交えようとする。慌てふためく一行に対し、ガンダゴウザは騎空艇を殴るわけではないと告げ、拳圧で己を浮かせるべく地面目掛けて拳を振り下ろす。轟音が鳴り響くと、その音に釣られた魔物達が一行の前に現れる。
-Japanese,scene_chr171_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]一行に加わった</span><br><span class='scene-font-katari'>大拳豪ガンダゴウザ。</span><br><span class='scene-font-katari'>彼にはどうにもよくない癖があった。</span>
+Japanese,scene_chr171_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行に加わった</span><br><span class='scene-font-katari'>大拳豪ガンダゴウザ。</span><br><span class='scene-font-katari'>彼にはどうにもよくない癖があった。</span>
 Japanese,scene_chr171_q1_s10,detail,,<span class='scene-font-katari'>己よりも強く、大きな相手へ、</span><br><span class='scene-font-katari'>挑戦せずにはおられないという癖が──</span>
 Japanese,scene_chr171_q1_s10,detail,カタリナ,なぁ……ガンダゴウザ殿。<br>流石にそれは無理がないか？
 Japanese,scene_chr171_q1_s10,detail,ガンダゴウザ,無理とはなんぞ。<br>今日までワシがやろうとしたこと、<br>皆悉くその言葉を口にした。
@@ -158,11 +158,11 @@ Japanese,scene_chr171_q1_s10,detail,オイゲン,でもよぉ、オレは確か�
 Japanese,scene_chr171_q1_s10,detail,ラカム,オレは認めねえ！<br>あんなデタラメ、<br>ゼッテー認めねえからな！
 Japanese,scene_chr171_q1_s10,detail,ガンダゴウザ,ガハハハ……千客万来であああある！<br>さあ皆の衆、拳でもてなしてやろうぞ！
 Japanese,scene_chr171_q1_s10,detail,魔物,<span class='scene-font-5'>グオオオオオッ！</span>
-English,scene_fate_chr171_ep1,synopsis,,"Ghandagoza, a legendary martial artist, approaches the crew and asks [Djeeta] to be his student. Some thugs suddenly attack the crew, and [Djeeta] accidentally hits Ghandagoza in the ensuing brawl. The impressed martial artist then joins the crew."
-English,scene_fate_chr171_ep1,detail,,[Djeeta] and company land on a small island to replenish their food stores.
+English,scene_fate_chr171_ep1,synopsis,,"Ghandagoza, a legendary martial artist, approaches the crew and asks [플레이어] to be his student. Some thugs suddenly attack the crew, and [플레이어] accidentally hits Ghandagoza in the ensuing brawl. The impressed martial artist then joins the crew."
+English,scene_fate_chr171_ep1,detail,,[플레이어] and company land on a small island to replenish their food stores.
 English,scene_fate_chr171_ep1,detail,,They buy food and are on the way back to the Grandcypher when someone's stomach rumbles.
 English,scene_fate_chr171_ep1,detail,Eugen,Haha. Heading back now without grabbin' lunch won't do anybody any good. Who's up to try the local specialty at that restaurant?
-English,scene_fate_chr171_ep1,detail,,"At Eugen's suggestion, [Djeeta] and the crew head into the eatery."
+English,scene_fate_chr171_ep1,detail,,"At Eugen's suggestion, [플레이어] and the crew head into the eatery."
 English,scene_fate_chr171_ep1,detail,Rackam,"Hello! Got any recommendations, shopkeep?"
 English,scene_fate_chr171_ep1,detail,Shopkeep,"Welcome, welcome! This island is famous for its dairy products—wait... Are you guys travelers?"
 English,scene_fate_chr171_ep1,detail,Rackam,Look out the window and see for yourself.
@@ -188,14 +188,14 @@ English,scene_fate_chr171_ep1,detail,Thug 2,That's not any ol' airship! It's the
 English,scene_fate_chr171_ep1,detail,Eugen,Yep. So go ahead and keep disturbin' the peace. I dare ya.
 English,scene_fate_chr171_ep1,detail,Thug 1,(Who are these guys? There's something about them... They've obviously been through hell and back.)
 English,scene_fate_chr171_ep1,detail,Thug 2,(Especially the one in the middle. That kind-looking face isn't foolin' me. That one's got skills.)
-English,scene_fate_chr171_ep1,detail,Rackam,Why are you starin' so hard? Something on [Djeeta]'s face?
+English,scene_fate_chr171_ep1,detail,Rackam,Why are you starin' so hard? Something on [플레이어]'s face?
 English,scene_fate_chr171_ep1,detail,Thug 1,Let's get out of here.
 English,scene_fate_chr171_ep1,detail,Rackam,"See that, shopkeep? Nothin' to worry about after all."
 English,scene_fate_chr171_ep1,detail,Shopkeep,"Yes, there is! I wasn't talking about them! Oh no, he's here!"
 English,scene_fate_chr171_ep1,detail,Shopkeep,It's over now. There's no escape...
 English,scene_fate_chr171_ep1,detail,Rackam,Huh? Did it just get darker all of a sudden?
-English,scene_fate_chr171_ep1,detail,,"A colossal, mountainous shadow extends over [Djeeta] and company."
-English,scene_fate_chr171_ep1,detail,,"The shopkeeper peers up and behind them, his look shifting from fear to terror. [Djeeta] and the crew slowly turn to around to see the source of his fright."
+English,scene_fate_chr171_ep1,detail,,"A colossal, mountainous shadow extends over [플레이어] and company."
+English,scene_fate_chr171_ep1,detail,,"The shopkeeper peers up and behind them, his look shifting from fear to terror. [플레이어] and the crew slowly turn to around to see the source of his fright."
 English,scene_fate_chr171_ep1,detail,Vyrn,"Wh-what the heck! I've heard of over the hill, but this guy <span class='scene-font-italic'>is</span> the hill!"
 English,scene_fate_chr171_ep1,detail,Ghandagoza,"Gahaha! It is I—the unrivaled warrior, the founder of the Eternal Rage Style, the one and only Ghandagoza!"
 English,scene_fate_chr171_ep1,detail,Vyrn,"What? Rackam, are you gettin' any of this?"
@@ -215,17 +215,17 @@ English,scene_fate_chr171_ep1,detail,Ghandagoza,A brilliant question!
 English,scene_fate_chr171_ep1,detail,Ghandagoza,There's one foe that not even the strongest fighter in the skies can beat: time itself.
 English,scene_fate_chr171_ep1,detail,Ghandagoza,"And after it claims bitter victory over me, the deepest secrets of the Eternal Rage Style, too, shall go to the grave."
 English,scene_fate_chr171_ep1,detail,Katalina,That would certainly be a shame.
-English,scene_fate_chr171_ep1,detail,Ghandagoza,"Forgive my uninvited stares, but I saw the way you conducted yourself with those ruffians, [Djeeta]. It was an impressive display."
-English,scene_fate_chr171_ep1,detail,Eugen,Huh? What display? [Djeeta] didn't even throw a punch.
-English,scene_fate_chr171_ep1,detail,Ghandagoza,True. But [Djeeta]'s mere presence was enough to deter those thugs. To win a victory without a single strike is a masterful thing.
-English,scene_fate_chr171_ep1,detail,Ghandagoza,"[Djeeta], what do you say? Will you be the first disciple of the school of Eternal Rage?"
-English,scene_fate_chr171_ep1,detail,Vyrn,"Whoa! This big oaf's got crazy expectations for you, [Djeeta]! But then again, that's our captain!"
+English,scene_fate_chr171_ep1,detail,Ghandagoza,"Forgive my uninvited stares, but I saw the way you conducted yourself with those ruffians, [플레이어]. It was an impressive display."
+English,scene_fate_chr171_ep1,detail,Eugen,Huh? What display? [플레이어] didn't even throw a punch.
+English,scene_fate_chr171_ep1,detail,Ghandagoza,True. But [플레이어]'s mere presence was enough to deter those thugs. To win a victory without a single strike is a masterful thing.
+English,scene_fate_chr171_ep1,detail,Ghandagoza,"[플레이어], what do you say? Will you be the first disciple of the school of Eternal Rage?"
+English,scene_fate_chr171_ep1,detail,Vyrn,"Whoa! This big oaf's got crazy expectations for you, [플레이어]! But then again, that's our captain!"
 English,scene_fate_chr171_ep1,detail,Lyria,Wait.
 English,scene_fate_chr171_ep1,detail,Vyrn,"What's up, Lyria?"
-English,scene_fate_chr171_ep1,detail,Lyria,"[Djeeta], all of us... We're all headed to Estalucia. So..."
+English,scene_fate_chr171_ep1,detail,Lyria,"[플레이어], all of us... We're all headed to Estalucia. So..."
 English,scene_fate_chr171_ep1,detail,Ghandagoza,"Oh, is that right? Well, all that ends today."
-English,scene_fate_chr171_ep1,detail,Ghandagoza,[Djeeta] will be too busy with my training. We'll go at it day and night until I'm satisfied my legacy is safe.
-English,scene_fate_chr171_ep1,detail,Lyria,"What! No! There's no way we'll give up now. Right, [Djeeta]?"
+English,scene_fate_chr171_ep1,detail,Ghandagoza,[플레이어] will be too busy with my training. We'll go at it day and night until I'm satisfied my legacy is safe.
+English,scene_fate_chr171_ep1,detail,Lyria,"What! No! There's no way we'll give up now. Right, [플레이어]?"
 English,scene_fate_chr171_ep1,detail,Ghandagoza,This is not giving up. I've been told since the beginning to abandon my 'impossible' goals.
 English,scene_fate_chr171_ep1,detail,Ghandagoza,But I achieve the impossible. Every time. With this fist! This one right here!
 English,scene_fate_chr171_ep1,detail,Ghandagoza,Hi-yaaah!
@@ -240,36 +240,36 @@ English,scene_fate_chr171_ep1,detail,Ghandagoza,"Listen up, riffraff. You've int
 English,scene_fate_chr171_ep1,detail,Thug 2,"What's that, gramps? How about we bust you up first?"
 English,scene_fate_chr171_ep1,detail,Ghandagoza,Come then—prepare to savor my Eternal Rage!
 English,scene_fate_chr171_ep1,detail,,"As Ghandagoza's fists tear through his foes with thunderous authority, everyone there realizes that the legends may well have been true."
-English,scene_fate_chr171_ep1,detail,,"Terrified of getting tagged by a stray punch, the majority of the crew stays out of the fight, but [Djeeta] leaps right into the fray to aid the giant."
-English,scene_fate_chr171_ep1,detail,,"Ironically enough, [Djeeta] accidentally hits the lightning-quick Ghandagoza with a full-force blow."
+English,scene_fate_chr171_ep1,detail,,"Terrified of getting tagged by a stray punch, the majority of the crew stays out of the fight, but [플레이어] leaps right into the fray to aid the giant."
+English,scene_fate_chr171_ep1,detail,,"Ironically enough, [플레이어] accidentally hits the lightning-quick Ghandagoza with a full-force blow."
 English,scene_fate_chr171_ep1,detail,Ghandagoza,Oof! Th-this strike...
-English,scene_fate_chr171_ep1,detail,Eugen,"Hey! [Djeeta], get outta there!"
+English,scene_fate_chr171_ep1,detail,Eugen,"Hey! [플레이어], get outta there!"
 English,scene_fate_chr171_ep1,detail,,Ghandagoza shrugs off the hit and carries on as if nothing happened.
-English,scene_fate_chr171_ep1,detail,Rackam,What? You're not gonna take [Djeeta] as your pupil after all?
+English,scene_fate_chr171_ep1,detail,Rackam,What? You're not gonna take [플레이어] as your pupil after all?
 English,scene_fate_chr171_ep1,detail,Ghandagoza,That is correct.
 English,scene_fate_chr171_ep1,detail,Katalina,"Master Ghandagoza, why the sudden change of heart?"
 English,scene_fate_chr171_ep1,detail,Ghandagoza,"A fist is an oracle. Take one to the gut, and it tells you everything you need to know."
-English,scene_fate_chr171_ep1,detail,Ghandagoza,[Djeeta]'s father... The quest that bids you venture to the furthest reaches of the sky...
+English,scene_fate_chr171_ep1,detail,Ghandagoza,[플레이어]'s father... The quest that bids you venture to the furthest reaches of the sky...
 English,scene_fate_chr171_ep1,detail,Ghandagoza,My own wishes mean less than nothing to someone consumed by a passion like that.
-English,scene_fate_chr171_ep1,detail,Ghandagoza,"[Djeeta], that was quite an impressive punch."
+English,scene_fate_chr171_ep1,detail,Ghandagoza,"[플레이어], that was quite an impressive punch."
 English,scene_fate_chr171_ep1,detail,Eugen,"Master, you..."
 English,scene_fate_chr171_ep1,detail,Katalina,Hm... You read fists like a fortune-teller reads cards. Impressive.
-English,scene_fate_chr171_ep1,detail,Ghandagoza,But now what am I to do? Who's to say if I'll ever find a disciple with half the caliber of [Djeeta]...
+English,scene_fate_chr171_ep1,detail,Ghandagoza,But now what am I to do? Who's to say if I'll ever find a disciple with half the caliber of [플레이어]...
 English,scene_fate_chr171_ep1,detail,Lyria,"Well, why not come with us then?"
-English,scene_fate_chr171_ep1,detail,Eugen,"Aye, that's it! I know you're not interested in being one o' his disciples, [Djeeta], but we can at least be his traveling companions. How bout it?"
+English,scene_fate_chr171_ep1,detail,Eugen,"Aye, that's it! I know you're not interested in being one o' his disciples, [플레이어], but we can at least be his traveling companions. How bout it?"
 English,scene_fate_chr171_ep1,sel1_txt,,Welcome to the crew!
 English,scene_fate_chr171_ep1,sel2_txt,,I'm not sure...
 English,scene_fate_chr171_ep1,detail,Ghandagoza,Wonderful! Such glorious battles we shall have!
 English,scene_fate_chr171_ep1,detail,Ghandagoza,"I do not plead lightly! Please, take me with you!"
 English,scene_fate_chr171_ep1,detail,,Ghandagoza chuckles to himself as he speaks.
-English,scene_fate_chr171_ep1,detail,Ghandagoza,"Heh-heh. I may not have a disciple yet, but by traveling with you I'll be able to train [Djeeta]. Even in defeat one can find victory!"
-English,scene_fate_chr171_ep1,detail,Ghandagoza,"[Djeeta], you'll be my successor one day. I never give up!"
+English,scene_fate_chr171_ep1,detail,Ghandagoza,"Heh-heh. I may not have a disciple yet, but by traveling with you I'll be able to train [플레이어]. Even in defeat one can find victory!"
+English,scene_fate_chr171_ep1,detail,Ghandagoza,"[플레이어], you'll be my successor one day. I never give up!"
 English,scene_fate_chr171_ep1,detail,Eugen,"Master, I don't think anyone doubts you would."
 English,scene_fate_chr171_ep1,detail,Ghandagoza,"Gahaha! Well, let's get this journey started!"
 English,scene_fate_chr171_ep1,detail,Ghandagoza,Hi-yaaah!
-English,scene_fate_chr171_ep1,detail,,"Ghandagoza—some regard his skill as the stuff of legend, yet others see it as the product of hearsay. Either way, he would soon go on to forge a new tale with [Djeeta] and the crew."
+English,scene_fate_chr171_ep1,detail,,"Ghandagoza—some regard his skill as the stuff of legend, yet others see it as the product of hearsay. Either way, he would soon go on to forge a new tale with [플레이어] and the crew."
 English,scene_chr171_q1_s10,synopsis,,"Ghandagoza says he intends to battle the Grandcypher, and then he starts hitting the ground to try to fly using only the force of his punches. Some monsters suddenly show up in response to the sound of his fists."
-English,scene_chr171_q1_s10,detail,,"During his time with [Djeeta] and the crew, Ghandagoza has revealed that he has a bad habit."
+English,scene_chr171_q1_s10,detail,,"During his time with [플레이어] and the crew, Ghandagoza has revealed that he has a bad habit."
 English,scene_chr171_q1_s10,detail,,He has a need to challenge anyone or anything that seems bigger or stronger than himself.
 English,scene_chr171_q1_s10,detail,Katalina,"Ghandagoza, that really does seem impossible."
 English,scene_chr171_q1_s10,detail,Ghandagoza,Nothing is impossible. People have told me all my life that my goals were impossible.

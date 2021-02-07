@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_epilogue_s10,6311",synopsis,,帝都アガスティアを脱出すべく、[ジータ]達はグランサイファーの元へと走る。[ジータ]達から託され、グランサイファーを守り切った大将アダムは、[ジータ]達に感謝と自らがゴーレムであることを告げ、機能を停止する。アダムをメフォラシュへと運んだ一行は、オルキスを巡る全てに決着をつけようとする黒騎士から、雌雄を決する戦いを挑まれる。
+Japanese,"scene_epilogue_s10,6311",synopsis,,帝都アガスティアを脱出すべく、[플레이어]達はグランサイファーの元へと走る。[플레이어]達から託され、グランサイファーを守り切った大将アダムは、[플레이어]達に感謝と自らがゴーレムであることを告げ、機能を停止する。アダムをメフォラシュへと運んだ一行は、オルキスを巡る全てに決着をつけようとする黒騎士から、雌雄を決する戦いを挑まれる。
 Japanese,"scene_epilogue_s10,6311",detail,비이,やれやれ……<br>今回ばっかりは、<br>本当にどうなるかと思ったぜ……
 Japanese,"scene_epilogue_s10,6311",detail,라캄,へっ……<br>なんだかんだで、毎回似たようなこと<br>言ってねぇか？ それ？
 Japanese,"scene_epilogue_s10,6311",detail,비이,へへっ！ そーかもな！
@@ -22,7 +22,7 @@ Japanese,"scene_epilogue_s10,6311",detail,흑기사,しかし、連中にとっ�
 Japanese,"scene_epilogue_s10,6311",detail,オルキス,やったこと自体は……<br>案外、間違ってない……
 Japanese,"scene_epilogue_s10,6311",detail,라캄,ま！ 下手に感謝されるより、<br>こっちのほうがいつも通り<br>って感じもするけどな！
 Japanese,"scene_epilogue_s10,6311",detail,라캄,このままタワーの外まで突っ切るぞ！<br>さっさと俺達のグランサイファーまで<br>帰ろうぜ！
-Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>押し寄せる帝国兵達を蹴散らし、</span><br><span class='scene-font-katari'>タワーを脱出する。</span>
+Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>押し寄せる帝国兵達を蹴散らし、</span><br><span class='scene-font-katari'>タワーを脱出する。</span>
 Japanese,"scene_epilogue_s10,6311",detail,셰로카르테,皆さ～ん！<br>ご無事で何よりです～！
 Japanese,"scene_epilogue_s10,6311",detail,モニカ,その様子なら、<br>どうやら「リアクター」とやらは<br>無事に破壊出来たようだな。
 Japanese,"scene_epilogue_s10,6311",detail,リーシャ,よろず屋さん！<br>それに、モニカさんも！<br>おふたりとも、お怪我はありませんか？
@@ -47,7 +47,7 @@ Japanese,"scene_epilogue_s10,6311",detail,셰로카르테,すみませんが～<
 Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>シェロカルテの指示を受け、</span><br><span class='scene-font-katari'>騎空士は各地から応援に</span><br><span class='scene-font-katari'>駆け付けていた者達の元へと駆けていく。</span>
 Japanese,"scene_epilogue_s10,6311",detail,라캄,うし！ 俺達もこの流れに乗って<br>早いとこグランサイファーのところまで<br>戻ろうぜ！
 Japanese,"scene_epilogue_s10,6311",detail,라캄,あの大将さんならグランサイファーを<br>守り切ってくれると思うが……<br>なんだかんだで心配だからな。
-Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>撤退していく仲間達と共に、</span><br><span class='scene-font-katari'>アガスティアを駆ける。</span>
+Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>撤退していく仲間達と共に、</span><br><span class='scene-font-katari'>アガスティアを駆ける。</span>
 Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>増援に駆けつけた面々は</span><br><span class='scene-font-katari'>それぞれの騎空艇を目指し、</span><br><span class='scene-font-katari'>一行はアガスティア最下層へ進む。</span>
 Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>グランサイファーの安置される</span><br><span class='scene-font-katari'>アガスティア最下層で、</span><br><span class='scene-font-katari'>一行は異様な光景を目の当たりにする。</span>
 Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>グランサイファーの周囲には、</span><br><span class='scene-font-katari'>数多の兵達が倒れ伏し……</span>
@@ -89,7 +89,7 @@ Japanese,"scene_epilogue_s10,6311",detail,로제타,…………
 Japanese,"scene_epilogue_s10,6311",detail,카타리나,くっ……
 Japanese,"scene_epilogue_s10,6311",detail,비이,そんな……<br>じゃ、じゃあこいつ……<br>限界までオイラ達の艇を守って……
 Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>一行が皆、呆然として立ち尽くす中、</span><br><span class='scene-font-katari'>黒騎士は一つの提案を口にする。</span>
-Japanese,"scene_epilogue_s10,6311",detail,흑기사,[ジータ]……<br>メフォラシュに行ってはもらえないか。
+Japanese,"scene_epilogue_s10,6311",detail,흑기사,[플레이어]……<br>メフォラシュに行ってはもらえないか。
 Japanese,"scene_epilogue_s10,6311",detail,リーシャ,メフォラシュ……？<br>確か、そこは……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,エルステの王国時代の首都だ……<br>エルステがゴーレムによって、<br>栄華を極めていた時代のな……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,この男が眠るべき場所は、<br>あそこ以外にはないだろう……
@@ -132,7 +132,7 @@ Japanese,"scene_epilogue_s10,6311",detail,흑기사,わかっているとは思�
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,いまルリアの中には彼女を元に……<br>かつてのオルキスを<br>復活させることの出来る力がある。
 Japanese,"scene_epilogue_s10,6311",detail,카타리나,星晶獣デウス・エクス・マキナ、か……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,そうだ……<br>しかし、ルリアを始めとして、<br>お前達は私とは違う考えを持っている。
-Japanese,"scene_epilogue_s10,6311",detail,흑기사,もはや話し合いなど、<br>何の意味も成すまい……<br>解っているな、[ジータ]。
+Japanese,"scene_epilogue_s10,6311",detail,흑기사,もはや話し合いなど、<br>何の意味も成すまい……<br>解っているな、[플레이어]。
 Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>黒騎士のその一言に、</span><br><span class='scene-font-katari'>一気に皆が緊張状態となる。</span>
 Japanese,"scene_epilogue_s10,6311",detail,루리아,どうして……どうしてですか？<br>どうして黒騎士さんは……
 Japanese,"scene_epilogue_s10,6311",detail,루리아,いまのオルキスちゃんを……<br>認めてくれないんですか？
@@ -146,7 +146,7 @@ Japanese,"scene_epilogue_s10,6311",detail,オルキス,…………
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,私には……<br>覚悟が足りなかったのかもしれない。
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,この選択に対する覚悟が<br>到底足りていなかった……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,しかし……選ばなければ前に進めない。<br>だからこそ……<br>私はお前達と雌雄を決したいのだ。
-Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>黒騎士はしっかりと</span><br><span class='scene-font-katari'>[ジータ]を見据える。</span>
+Japanese,"scene_epilogue_s10,6311",detail,,<span class='scene-font-katari'>黒騎士はしっかりと</span><br><span class='scene-font-katari'>[플레이어]を見据える。</span>
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,もはや私には選べない。<br>どちらも等しく失いたくない……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,だから……<br>この黒鎧の源泉になった想いと、<br>この黒鎧が積み重ねてきたもの……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,そのどちらの方が強いのか、<br>その結果に、<br>私は私の心を委ねたい……
@@ -165,14 +165,14 @@ Japanese,"scene_epilogue_s10,6311",detail,루리아,私は、オルキスちゃ�
 Japanese,"scene_epilogue_s10,6311",detail,루리아,だから、オルキスちゃん……！
 Japanese,"scene_epilogue_s10,6311",detail,オルキス,…………
 Japanese,"scene_epilogue_s10,6311",detail,비이,ここまで長かったけどよ……<br>これが黒騎士との決着なんだよな……
-Japanese,"scene_epilogue_s10,6311",detail,비이,黒騎士とは色々あったけどよ……<br>だからこそ、全力でやってやろうぜ！<br>なぁ！ [ジータ]！
+Japanese,"scene_epilogue_s10,6311",detail,비이,黒騎士とは色々あったけどよ……<br>だからこそ、全力でやってやろうぜ！<br>なぁ！ [플레이어]！
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,来い！<br>どちらが正義か、どちらが悪かを<br>問うわけではないが……
 Japanese,"scene_epilogue_s10,6311",detail,흑기사,勝たなければ得られないのであれば<br>己の正義を信じ、決着をつける他なし！
 Japanese,"scene_epilogue_s20,6312",synopsis,,オルキスは自分が消えてしまうことを覚悟の上で、自ら星晶獣デウス・エクス・マキナに命じ、身体を本来のオルキスに返す。しかし、オルキスの精神はアダムが用意していたゴーレムの器へと移され、一命を取り留める。王女オルキスからオーキスの名を与えられた彼女は、改めてルリア、イオに友達になってほしいと告げるのだった。
-Japanese,"scene_epilogue_s20,6312",detail,,<span class='scene-font-katari'>[ジータ]達は魔晶の力をも退け、</span><br><span class='scene-font-katari'>黒騎士との勝負に勝利する。</span>
+Japanese,"scene_epilogue_s20,6312",detail,,<span class='scene-font-katari'>[플레이어]達は魔晶の力をも退け、</span><br><span class='scene-font-katari'>黒騎士との勝負に勝利する。</span>
 Japanese,"scene_epilogue_s20,6312",detail,,<span class='scene-font-katari'>しかし、黒騎士に悔しげな様子は無く、</span><br><span class='scene-font-katari'>どこかスッキリとした様子で、</span><br><span class='scene-font-katari'>自らの敗北を受け入れたのだった。</span>
 Japanese,"scene_epilogue_s20,6312",detail,흑기사,私の……負けだな。
-Japanese,"scene_epilogue_s20,6312",detail,흑기사,いや……<br>改めて礼を言おう、[ジータ]。
+Japanese,"scene_epilogue_s20,6312",detail,흑기사,いや……<br>改めて礼を言おう、[플레이어]。
 Japanese,"scene_epilogue_s20,6312",detail,흑기사,ここまで……<br>この決着の瞬間まで、<br>よく私に付き合ってくれた……
 Japanese,"scene_epilogue_s20,6312",detail,흑기사,これで……これでもう私は……
 Japanese,"scene_epilogue_s20,6312",detail,,<span class='scene-font-katari'>迷いの影は残すものの、</span><br><span class='scene-font-katari'>黒騎士はそれらを全て飲み込み、</span><br><span class='scene-font-katari'>ひとつの決意を固めようとする。</span>
@@ -311,7 +311,7 @@ Japanese,"scene_epilogue_s20,6312",detail,루리아,いままでも、これか�
 Japanese,"scene_epilogue_s20,6312",detail,オーキス,……うん。
 Japanese,"scene_epilogue_s20,6312",detail,,<span class='scene-font-katari'>ルリアの言葉に、</span><br><span class='scene-font-katari'>オーキスは笑みを浮かべる。</span>
 Japanese,"scene_epilogue_s20,6312",detail,,<span class='scene-font-katari'>そのぎこちないながらも柔らかな笑みは、</span><br><span class='scene-font-katari'>どこまでも人間的な愛おしさに</span><br><span class='scene-font-katari'>満ち満ちているのだった。</span>
-English,"scene_epilogue_s10,6311",synopsis,,"[Djeeta] and company hurry toward the Grandcypher to escape Agastia. Adam—who'd stayed behind to defend the airship—expresses his gratitude to the gang and reveals that he is a golem, then his functions cease. They bring him to Mephorash, where the Black Knight begins a showdown against the crew to decide Orchis's fate."
+English,"scene_epilogue_s10,6311",synopsis,,"[플레이어] and company hurry toward the Grandcypher to escape Agastia. Adam—who'd stayed behind to defend the airship—expresses his gratitude to the gang and reveals that he is a golem, then his functions cease. They bring him to Mephorash, where the Black Knight begins a showdown against the crew to decide Orchis's fate."
 English,"scene_epilogue_s10,6311",detail,Vyrn,Whew... I thought we were toast for real this time.
 English,"scene_epilogue_s10,6311",detail,Rackam,Heh! Don't you always think that?
 English,"scene_epilogue_s10,6311",detail,Vyrn,"Hehe, now that you mention it... Guess I do!"
@@ -334,7 +334,7 @@ English,"scene_epilogue_s10,6311",detail,Black Knight,"But to those soldiers, we
 English,"scene_epilogue_s10,6311",detail,Orchis,That is... what we did though...
 English,"scene_epilogue_s10,6311",detail,Rackam,Meh! Who cares about their thanks anyway—I like 'em more this way! Just like old times!
 English,"scene_epilogue_s10,6311",detail,Rackam,Now who's up for some well-deserved R & R! We're headin' back to the Grandcypher!
-English,"scene_epilogue_s10,6311",detail,,"[Djeeta] and company breeze through the soldiers with ease and swiftness, escaping the Tower."
+English,"scene_epilogue_s10,6311",detail,,"[플레이어] and company breeze through the soldiers with ease and swiftness, escaping the Tower."
 English,"scene_epilogue_s10,6311",detail,Sierokarte,I'm so glad you're all safe!
 English,"scene_epilogue_s10,6311",detail,Monika,Looks like you all managed to bring down that reactor thing!
 English,"scene_epilogue_s10,6311",detail,Lecia,Siero! Monika! Are you two all right? Are you hurt?
@@ -349,8 +349,8 @@ English,"scene_epilogue_s10,6311",sel1_txt,,Time to go.
 English,"scene_epilogue_s10,6311",sel2_txt,,Time to take over Erste!
 English,"scene_epilogue_s10,6311",detail,Vyrn,Yeah! We should get going before this gets any messier!
 English,"scene_epilogue_s10,6311",detail,Lyria,"U-um, t-take over what?"
-English,"scene_epilogue_s10,6311",detail,Monika,"Hahaha!<br>Didn't know you had it in you, [Djeeta]! Now that's what I call ambition!"
-English,"scene_epilogue_s10,6311",detail,Lecia,M-Monika! [Djeeta]! Don't say stuff like that—this is serious!
+English,"scene_epilogue_s10,6311",detail,Monika,"Hahaha!<br>Didn't know you had it in you, [플레이어]! Now that's what I call ambition!"
+English,"scene_epilogue_s10,6311",detail,Lecia,M-Monika! [플레이어]! Don't say stuff like that—this is serious!
 English,"scene_epilogue_s10,6311",detail,Tzaka the Great,I advise that a withdrawal would be the wisest decision...
 English,"scene_epilogue_s10,6311",detail,Tzaka the Great,"The crisis has been averted, and it is time to leave the rest to the people of this land."
 English,"scene_epilogue_s10,6311",detail,Sierokarte,Roger that! We're getting out of here!
@@ -359,7 +359,7 @@ English,"scene_epilogue_s10,6311",detail,Sierokarte,Could I trouble you to pass 
 English,"scene_epilogue_s10,6311",detail,,The skyfarer goes off to relay the message to others who'd come to aid the island.
 English,"scene_epilogue_s10,6311",detail,Rackam,"All right, not a moment to lose! Next stop: the Grandcypher!"
 English,"scene_epilogue_s10,6311",detail,Rackam,"Not that I don't trust that general, but I'm anxious to see if the Grandcypher's still in one piece."
-English,"scene_epilogue_s10,6311",detail,,[Djeeta] and company withdraw from the battlefield and rush through Agastia.
+English,"scene_epilogue_s10,6311",detail,,[플레이어] and company withdraw from the battlefield and rush through Agastia.
 English,"scene_epilogue_s10,6311",detail,,"Different groups head off in different directions toward their own ships, while the crew heads beneath Agastia—to the Grandcypher."
 English,"scene_epilogue_s10,6311",detail,,"Arriving at the port beneath Agastia, the crew witnesses a peculiar display."
 English,"scene_epilogue_s10,6311",detail,,"All around the Grandcypher, a circular array of soldiers lie stacked atop each other."
@@ -380,7 +380,7 @@ English,"scene_epilogue_s10,6311",detail,Rackam,"Whoa, whoa, whoa! You're a what
 English,"scene_epilogue_s10,6311",detail,Adam,"I want to thank you again, on behalf of all of Erste..."
 English,"scene_epilogue_s10,6311",detail,Adam,Thank you... All of you... Today you saved more than you will ever know.
 English,"scene_epilogue_s10,6311",detail,Adam,"You have saved all that is precious to me, all that I wished to protect."
-English,"scene_epilogue_s10,6311",detail,,[Djeeta] and company exchange looks with a hint of embarrassment.
+English,"scene_epilogue_s10,6311",detail,,[플레이어] and company exchange looks with a hint of embarrassment.
 English,"scene_epilogue_s10,6311",detail,Adam,And Orchis...
 English,"scene_epilogue_s10,6311",detail,Orchis,Me?
 English,"scene_epilogue_s10,6311",detail,,"Hearing her name called out of the blue, Orchis looks to Adam in surprise."
@@ -401,7 +401,7 @@ English,"scene_epilogue_s10,6311",detail,Rosetta,...
 English,"scene_epilogue_s10,6311",detail,Katalina,Rgh...
 English,"scene_epilogue_s10,6311",detail,Vyrn,He gave his life... to save our ship...
 English,"scene_epilogue_s10,6311",detail,,"In the midst of the solemn silence, the Black Knight raises a proposal."
-English,"scene_epilogue_s10,6311",detail,Black Knight,[Djeeta]... can you bring us to Mephorash?
+English,"scene_epilogue_s10,6311",detail,Black Knight,[플레이어]... can you bring us to Mephorash?
 English,"scene_epilogue_s10,6311",detail,Lecia,"Mephorash? If I recall, that's—"
 English,"scene_epilogue_s10,6311",detail,Black Knight,The capital of the what was once the Erste Kingdom... In a time when golems brought Erste into a golden age...
 English,"scene_epilogue_s10,6311",detail,Black Knight,That's where this man should rest...
@@ -444,7 +444,7 @@ English,"scene_epilogue_s10,6311",detail,Black Knight,"I believe all of you know
 English,"scene_epilogue_s10,6311",detail,Black Knight,Within Lyria lies the key to bringing back Orchis... The old Orchis.
 English,"scene_epilogue_s10,6311",detail,Katalina,You want to use Deus Ex Machina.
 English,"scene_epilogue_s10,6311",detail,Black Knight,"That's right.<br>But Lyria, and all of you included, are opposed to that."
-English,"scene_epilogue_s10,6311",detail,Black Knight,"It seems we are at an impasse, one that can no longer be overcome by words. You know it too, don't you, [Djeeta]."
+English,"scene_epilogue_s10,6311",detail,Black Knight,"It seems we are at an impasse, one that can no longer be overcome by words. You know it too, don't you, [플레이어]."
 English,"scene_epilogue_s10,6311",detail,,The Black Knight's words sends chills through the air. Everyone can feel the tension mounting.
 English,"scene_epilogue_s10,6311",detail,Lyria,Why... Why does it have to be like this?
 English,"scene_epilogue_s10,6311",detail,Lyria,Can't you accept Orchis for who she is right now?
@@ -458,7 +458,7 @@ English,"scene_epilogue_s10,6311",detail,Orchis,...
 English,"scene_epilogue_s10,6311",detail,Black Knight,I would be lying if I said I don't have any second thoughts about this.
 English,"scene_epilogue_s10,6311",detail,Black Knight,Know that this is not easy for me.
 English,"scene_epilogue_s10,6311",detail,Black Knight,"In honesty, I can no longer choose. Whichever road is taken, I lose one or the other, when I wish to lose neither."
-English,"scene_epilogue_s10,6311",detail,,The Black Knight fixes a fierce gaze on [Djeeta].
+English,"scene_epilogue_s10,6311",detail,,The Black Knight fixes a fierce gaze on [플레이어].
 English,"scene_epilogue_s10,6311",detail,Black Knight,"But... Without choice, one cannot move on."
 English,"scene_epilogue_s10,6311",detail,Black Knight,"So help me... Show me which is stronger: that which gave birth to this black armor, or that which built this armor up."
 English,"scene_epilogue_s10,6311",detail,Black Knight,"Show me, and I will be at peace with whatever may come of it."
@@ -477,14 +477,14 @@ English,"scene_epilogue_s10,6311",detail,Lyria,We're doing this for you! We don'
 English,"scene_epilogue_s10,6311",detail,Lyria,So please—
 English,"scene_epilogue_s10,6311",detail,Orchis,...
 English,"scene_epilogue_s10,6311",detail,Vyrn,"We've been though a whole lot, but I guess to her, this is really important..."
-English,"scene_epilogue_s10,6311",detail,Vyrn,"Let's do this, [Djeeta]! It's time to pull all out the stops!"
+English,"scene_epilogue_s10,6311",detail,Vyrn,"Let's do this, [플레이어]! It's time to pull all out the stops!"
 English,"scene_epilogue_s10,6311",detail,Black Knight,En garde! This may not be a fight between good and evil...
 English,"scene_epilogue_s10,6311",detail,Black Knight,But it is a fight of wills!
 English,"scene_epilogue_s20,6312",synopsis,,"Orchis, prepared to disappear for good, gives orders to Deus Ex Machina so that her body may be returned to the real Orchis. However, she is saved when her spirit energy is placed into a golem Adam created. After receiving the new name of 'Orchid' from Queen Orchis, she asks Lyria and Io to become her friends."
-English,"scene_epilogue_s20,6312",detail,,[Djeeta] and company are able to drive back the dark essence and defeat the Black Knight.
+English,"scene_epilogue_s20,6312",detail,,[플레이어] and company are able to drive back the dark essence and defeat the Black Knight.
 English,"scene_epilogue_s20,6312",detail,,"The Black Knight hardly looks resentful, but rather relieved as she accepts her defeat."
 English,"scene_epilogue_s20,6312",detail,Black Knight,I guess... I've lost.
-English,"scene_epilogue_s20,6312",detail,Black Knight,"But... allow me to thank you, [Djeeta]."
+English,"scene_epilogue_s20,6312",detail,Black Knight,"But... allow me to thank you, [플레이어]."
 English,"scene_epilogue_s20,6312",detail,Black Knight,"Up until now... Even until this very moment, you truly stuck by me."
 English,"scene_epilogue_s20,6312",detail,Black Knight,And now... and now I can...
 English,"scene_epilogue_s20,6312",detail,,"Despite a trace of hesitation in her face, the Black Knight hardens her resolve."

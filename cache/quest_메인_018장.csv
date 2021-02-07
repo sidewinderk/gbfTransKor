@@ -14,9 +14,9 @@ Japanese,"scene_cp18_q1_s10,1811",detail,오이겐,ん……？ ってこたぁ�
 Japanese,"scene_cp18_q1_s10,1811",detail,이오,で、でも、だとすると……<br>……どういうことなの？,그래도 그렇다고 해도……<br>……이렇게 할 일이야?
 Japanese,"scene_cp18_q1_s10,1811",detail,라캄,とにかく探しに行こうぜ！<br>帝国の行方はわからねぇが……,어쨌든 찾으러 가자구!<br>제국의 행방은 모르지만……
 Japanese,"scene_cp18_q1_s10,1811",detail,라캄,ヴィーラちゃんなら、<br>何か知ってるかもしれねぇ！,"빌라양이라면,<br>뭔가 알고 있을지도 몰라!"
-Japanese,"scene_cp18_q1_s20,1812",synopsis,,カタリナを失い、動揺するルリア──帝国からの和解の申し出に、裏があると確信した<span>[ジータ]</span>たちは、ヴィーラの元へと急ぐのだった──,"카타리나를 잃어, 동요하는 루리아--제국으로부터의 화해의 제의에, 내막이 있다고 확신한<span>[지타]</span>들은, 빌라의 곁으로 서두르는 것이었다--"
+Japanese,"scene_cp18_q1_s20,1812",synopsis,,カタリナを失い、動揺するルリア──帝国からの和解の申し出に、裏があると確信した<span>[플레이어]</span>たちは、ヴィーラの元へと急ぐのだった──,"카타리나를 잃어, 동요하는 루리아--제국으로부터의 화해의 제의에, 내막이 있다고 확신한<span>[플레이어]</span>들은, 빌라의 곁으로 서두르는 것이었다--"
 Japanese,"scene_cp18_q1_s20,1812",detail,루리아,どうして……カタリナ……,어째서……카타리나……
-Japanese,"scene_cp18_q1_s20,1812",detail,비이,カタリナが自分の意志で、<br>ルリアの元を離れるとは思えねぇな……<br>なぁ、[ジータ]はどう思う？,"카타리아가 자신의 의지로,<br>루리아의 곁을 떠날거라고는 생각되지 않는데……<br>야,[지타]는 어떻게 생각해?"
+Japanese,"scene_cp18_q1_s20,1812",detail,비이,カタリナが自分の意志で、<br>ルリアの元を離れるとは思えねぇな……<br>なぁ、[플레이어]はどう思う？,"카타리아가 자신의 의지로,<br>루리아의 곁을 떠날거라고는 생각되지 않는데……<br>야,[플레이어]는 어떻게 생각해?"
 Japanese,"scene_cp18_q1_s20,1812",sel1_txt,,<span class='scene-font-katari'>カタリナを信じよう</span>,<span class='scene-font-katari'>카타리나를 믿는다</span>
 Japanese,"scene_cp18_q1_s20,1812",sel2_txt,,<span class='scene-font-katari'>何か事情があると思う</span>,<span class='scene-font-katari'>뭔가 사정이 있다고 생각한다</span>
 Japanese,"scene_cp18_q1_s20,1812",detail,비이,だよな！<br>あの置手紙だって、<br>何かのメッセージかもしれねぇし……,"그렇지! <br> 그 쪽지도, <br> 어떤 메시지일지도 모르고……"
@@ -24,7 +24,7 @@ Japanese,"scene_cp18_q1_s20,1812",detail,비이,昨日の帝国の奴ら、<br>�
 Japanese,"scene_cp18_q1_s20,1812",detail,비이,ともかく、<br>本人に会って聞くのが一番だ！,"어쨌든,<br>본인을 만나서 듣는게 제일이야!"
 Japanese,"scene_cp18_q1_s20,1812",detail,비이,だから、ほらルリア！<br>そんなしょげてる場合じゃねーぞ！,"그러니까, 이봐 루리아!<br>그렇게 풀이 죽어 있을 때가 아니야!"
 Japanese,"scene_cp18_q1_s20,1812",detail,루리아,うぅ……うん！<br>私……何が出来るかわからないけど、<br>頑張りますっ！,"으음...응!<br>나....뭘 할 수 있을지 모르겠지만,<br>열심히할께요!"
-Japanese,"scene_cp18_q2_s10,1821",synopsis,,カタリナは帝国へ戻るべきだと告げるヴィーラに、本人から理由を聞くまでは納得できないと食い下がる<span>[ジータ]</span>たち。カタリナが選択した理由を明かすため、ヴィーラは一行をとある場所へと導くのだった──,카타리나는 제국으로 돌아가야 한다는 빌라에게 본인으로부터 이유를 들을 때까지는 납득할 수 없다고 물고 늘어지는 <span>[지타]</span>들.카타리나가 선택한 이유를 밝히기 위해 빌라는 일행을 어떤 장소로 이끄는 것이었다.
+Japanese,"scene_cp18_q2_s10,1821",synopsis,,カタリナは帝国へ戻るべきだと告げるヴィーラに、本人から理由を聞くまでは納得できないと食い下がる<span>[플레이어]</span>たち。カタリナが選択した理由を明かすため、ヴィーラは一行をとある場所へと導くのだった──,카타리나는 제국으로 돌아가야 한다는 빌라에게 본인으로부터 이유를 들을 때까지는 납득할 수 없다고 물고 늘어지는 <span>[플레이어]</span>들.카타리나가 선택한 이유를 밝히기 위해 빌라는 일행을 어떤 장소로 이끄는 것이었다.
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,――そうですか、<br>お姉様が……,"--그렇군요,<br>언니가……"
 Japanese,"scene_cp18_q2_s10,1821",detail,라캄,ああ、それで、ヴィーラちゃんは<br>帝国とも繋がりがあるみたいだったし、<br>何か知らねぇか？,"아, 그래서 빌라는 <br> 제국과도 연관이 있는 것 같았고 <br> 뭔지 모르세요?"
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,確かに、アルビオンは<span class='scene-font-place'>エルステ帝国</span>に<br>多数人材を送り出しており、<br>仲は深いと言えるでしょう……,하긴 알비온은 <span class='scene-font-place>에르스테 제국</span>에 <br>다수 인재를 배출하고 있으며 <br> 사이는 깊다고 할 수 있겠지요......
@@ -41,7 +41,7 @@ Japanese,"scene_cp18_q2_s10,1821",detail,루리아,はいっ！！,네!!
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,……わかりました。<br>そこまで言うのなら、お話しましょう、<br>お姉様が迫られた選択を……,"……알겠습니다.<br> 거기까지 말한다면, 이야기합시다.<br> 누님이 강요하신 선택을……"
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,見せたいものがあります。<br>少し私に付いて来てください。,보여주고 싶은게 있어요.<br>조금만 저를 따라오세요.
 Japanese,"scene_cp18_q2_s10,1821",detail,ヴィーラ,途中で魔物にやられてしまわないよう、<br>十分気を付けてくださいね？,중간에 마물에게 당하지 않도록<br>꼭 조심하시죠?
-Japanese,"scene_cp18_q2_s20,1822",synopsis,,古より伝わる特殊な星晶獣「シュヴァリエ」について、ヴィーラは語り始める。エルステ帝国は、アウギュステで研究されていた兵器アドウェルサでアルビオンの平和を脅かし、シュヴァリエの顕現を求めた。真の騎士を生贄にこの世に顕現するというシュヴァリエ──その生贄に選ばれたカタリナは、<span>[ジータ]</span>たちの安全と引き換えに帝国に囚われることとなったのだった。,"빌라는 예로부터 전해 내려오는 특수 성정수 슈발리에에 대해 이야기하기 시작한다.에르스테 제국은 아우귀스테에서 연구하던 무기 아드웰사로 알비온의 평화를 위협하며 슈발리에의 현현을 요구했다.진정한 기사를 희생으로 이 세상에 현현한다고 하는 슈발리에--그 희생으로 선택된 카타리나는,<span>[지타]</span>들의 안전과 대신 제국에 사로잡히게 된 것이었다."
+Japanese,"scene_cp18_q2_s20,1822",synopsis,,古より伝わる特殊な星晶獣「シュヴァリエ」について、ヴィーラは語り始める。エルステ帝国は、アウギュステで研究されていた兵器アドウェルサでアルビオンの平和を脅かし、シュヴァリエの顕現を求めた。真の騎士を生贄にこの世に顕現するというシュヴァリエ──その生贄に選ばれたカタリナは、<span>[플레이어]</span>たちの安全と引き換えに帝国に囚われることとなったのだった。,"빌라는 예로부터 전해 내려오는 특수 성정수 슈발리에에 대해 이야기하기 시작한다.에르스테 제국은 아우귀스테에서 연구하던 무기 아드웰사로 알비온의 평화를 위협하며 슈발리에의 현현을 요구했다.진정한 기사를 희생으로 이 세상에 현현한다고 하는 슈발리에--그 희생으로 선택된 카타리나는,<span>[플레이어]</span>들의 안전과 대신 제국에 사로잡히게 된 것이었다."
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,このアルビオンには、<br>シュヴァリエという特殊な星晶獣が、<br>古より伝わっています。,이 알비온에는 <br> 슈발리에라는 특수 성정수가 <br> 예로부터 전해집니다.
 Japanese,"scene_cp18_q2_s20,1822",detail,ヴィーラ,シュヴァリエは真の騎士を依代に……<br>いえ、生贄にしてはじめて<br>この世に顕現する星晶獣なのです。,"슈발리에는 진정한 기사를 의대에……<br>아니오, 산 제물로 바칠 때에야 비로소<br>이 세상에 나타난 성정수인 것입니다."
 Japanese,"scene_cp18_q2_s20,1822",detail,루리아,真の騎士を生贄に……,참된 기사를 제물로 삼았는데…
@@ -86,8 +86,8 @@ Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,いいえ……<br>当時�
 Japanese,"scene_cp18_q3_s20,1832",detail,이오,え？<br>でも、貴女が優勝したから、<br>領主を務めてるんじゃ……？,"네?<br>그래도,당신이우승했기때문에,<br>영주를하고있는거아닙니까……?"
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,ふふふ……,후후후……
 Japanese,"scene_cp18_q3_s20,1832",detail,ヴィーラ,さぁ、魔物が向こうから来ています。<br>気を抜いている余裕はありませんよ。,"자, 마물이 저쪽에서 오고 있습니다<br> 긴장을 풀고 있을 여유가 없어요."
-Japanese,"scene_cp18_q4_s10,1841",synopsis,,ヴィーラに案内された路地の先で、一行はフュリアスと遭遇する。カタリナを生贄にシュヴァリエを顕現し、あまつさえ、身の安全を約束した<span>[ジータ]</span>たちをも葬ろうとするフュリアスに一行の怒りが向けられる。,"빌라의 안내를 받은 골목 끝에서 일행은 퓨리어스와 조우한다.카타리나를 제물로 슈발리에를 나타나, 아마츠마저 신변안전을 약속한 <span>[지타]</span>들도 매장하려는 퓨리어스에게 일행의 분노가 쏟아진다."
-Japanese,"scene_cp18_q4_s10,1841",detail,,<span class='scene-font-katari'>ヴィーラに案内された路地の先で、</span><br><span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>最悪の遭遇を果たす。</span>,<span class = 'scene-font-katari'> 뷔라에 안내 된 골목 끝으로 </ span> <br> <span class = 'scene-font-katari'>[지타]는 </ span> <br> <span class = 'scene-font-katari'> 최악의 조우를 이룬다. </ span>
+Japanese,"scene_cp18_q4_s10,1841",synopsis,,ヴィーラに案内された路地の先で、一行はフュリアスと遭遇する。カタリナを生贄にシュヴァリエを顕現し、あまつさえ、身の安全を約束した<span>[플레이어]</span>たちをも葬ろうとするフュリアスに一行の怒りが向けられる。,"빌라의 안내를 받은 골목 끝에서 일행은 퓨리어스와 조우한다.카타리나를 제물로 슈발리에를 나타나, 아마츠마저 신변안전을 약속한 <span>[플레이어]</span>들도 매장하려는 퓨리어스에게 일행의 분노가 쏟아진다."
+Japanese,"scene_cp18_q4_s10,1841",detail,,<span class='scene-font-katari'>ヴィーラに案内された路地の先で、</span><br><span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>最悪の遭遇を果たす。</span>,<span class = 'scene-font-katari'> 뷔라에 안내 된 골목 끝으로 </ span> <br> <span class = 'scene-font-katari'>[플레이어]는 </ span> <br> <span class = 'scene-font-katari'> 최악의 조우를 이룬다. </ span>
 Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,――あっれぇ～？<br>なになに、大勢でどうしたの？,"아레에~?뭐야, 여럿이서 왜그래?"
 Japanese,"scene_cp18_q4_s10,1841",detail,라캄,フュリアス！？<br>てめぇ！ なぜここに！？,퓨리어스!?<br>니메에! 어째서 여기에!?
 Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,おや、その態度は心外だなぁ。<br>ボクだって、<br>人と待ち合わせてただけなんだけど……,"이런, 그 태도는 의외네.나도,<br>사람과 약속만 했을 뿐인데……"
@@ -102,18 +102,18 @@ Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,ああでも、安心し�
 Japanese,"scene_cp18_q4_s10,1841",detail,비이,この野郎！<br>どれだけ嘘をつきゃ気がすむんだ！,이 자식아!<br>얼마나 거짓말을 해야 직성이 풀리는거야!
 Japanese,"scene_cp18_q4_s10,1841",detail,퓨리어스,馬鹿が！ 騙される方が悪いんだよ！<br>自分達の間抜けさ<br>せいぜい呪うといいぜ！！,바보가! 속는 쪽이 나쁜거야!<br>자신들의 멍청함<br>기껏 저주하면 좋아!!
 Japanese,"scene_cp18_q4_s10,1841",detail,로제타,彼、あんなに性根が曲がってるから、<br>身長以上に小さく見えるんだわ。,"그 사람, 저렇게 성질이 비뚤어져 있으니까, <br> 신장 이상으로 작아 보이는 거야."
-Japanese,"scene_cp18_q4_s10,1841",detail,로제타,カタリナを助けるためにも、<br>ここは切り抜けなくちゃね……<br>いくわよ！ [ジータ]！,"카타리나를 돕기 위해서라도,<br>여기는 헤쳐나가지 않으면 안돼……<br>갈거야! [지타]!"
-Japanese,"scene_cp18_q4_s20,1842",synopsis,,卑怯な手でカタリナの思いを利用し、引き離された<span>[ジータ]</span>たち。一行はカタリナ奪還のため、先を急ぐのだった──,"비겁한 손으로 카타리나의 마음을 이용해, 갈라진 <span> [지타]</span>들.일행은 카타리나 탈환을 위해, 앞을 서두르는 것이었다."
+Japanese,"scene_cp18_q4_s10,1841",detail,로제타,カタリナを助けるためにも、<br>ここは切り抜けなくちゃね……<br>いくわよ！ [플레이어]！,"카타리나를 돕기 위해서라도,<br>여기는 헤쳐나가지 않으면 안돼……<br>갈거야! [플레이어]!"
+Japanese,"scene_cp18_q4_s20,1842",synopsis,,卑怯な手でカタリナの思いを利用し、引き離された<span>[플레이어]</span>たち。一行はカタリナ奪還のため、先を急ぐのだった──,"비겁한 손으로 카타리나의 마음을 이용해, 갈라진 <span> [플레이어]</span>들.일행은 카타리나 탈환을 위해, 앞을 서두르는 것이었다."
 Japanese,"scene_cp18_q4_s20,1842",detail,루리아,許せません……！<br>カタリナの思いを利用するなんて……！,용서할 수 없어요……！<br>카탈리나의 마음을 이용하다니……！
 Japanese,"scene_cp18_q4_s20,1842",detail,라캄,最初っから帝国は、<br>俺達とカタリナを引き離し……,"처음부터 제국은,<br>우리와 카타리나를 갈라놓고……"
 Japanese,"scene_cp18_q4_s20,1842",detail,라캄,それぞれに<br>始末をつけるつもりでいた、<br>ってことだな……卑怯な連中だ。,"각각<br>처리를 할 생각으로 있었다,<br>라는 것이로구나……비겁한 자들이다."
 Japanese,"scene_cp18_q4_s20,1842",detail,비이,こうなりゃ絶対に、<br>姐さんを助け出してやろうぜ！,이렇게 되면 꼭!<br>누나를 구해내자!
-Japanese,"scene_cp18_q4_s20,1842",detail,비이,なぁ！ [ジータ]！<br>お前もこのままじゃ、<br>気が済まないよな！,야! [지타]! <br> 너도 이대로는 <br> 마음이 풀리지 않아!
+Japanese,"scene_cp18_q4_s20,1842",detail,비이,なぁ！ [플레이어]！<br>お前もこのままじゃ、<br>気が済まないよな！,야! [플레이어]! <br> 너도 이대로는 <br> 마음이 풀리지 않아!
 Japanese,"scene_cp18_q4_s20,1842",sel1_txt,,<span class='scene-font-katari'>目にモノ見せてやる</span>,<span class = 'scene-font-katari'> 눈에 물건 보여주는 </ span>
 Japanese,"scene_cp18_q4_s20,1842",sel2_txt,,<span class='scene-font-katari'>絶対に許さない</span>,<span class = 'scene-font-katari'> 절대 허락하지 않는다 </ span>
 Japanese,"scene_cp18_q4_s20,1842",detail,비이,その意気だぜ！<br>オイラ達にだって、<br>骨のあるとこ見せなくちゃな！,"그 의기!<br>오이라들에게도,<br>뼈가 있는 모습을 보여줘야지!"
 Japanese,"scene_cp18_q4_s20,1842",detail,비이,許せるわけがねーぜ！<br>帝国の連中に、<br>キッチリお返ししてやらねーとな！,"용서할 수 없어!<br>제국 무리들에게,<br>꼭 갚아야지!"
-Japanese,"scene_cp18_q4_s30,1843",synopsis,,見事、帝国兵を蹴散らした一行。しかし、カタリナの行方を知るであろうヴィーラの姿が見当たらないことに<span>[ジータ]</span>たちの焦りは募る。カタリナの行方と、真実を暴露したヴィーラの身の上を案じ、一行は城砦都市アルビオンを駆ける。,"보기 좋게 제국병들을 걷어찬 일행.그러나, 카타리나의 행방을 알게 될 빌라의 모습이 눈에 띄지 않는다는 것에 <span>[지타]</span>들의 초조함은 심해간다.카탈리나의 행방과 진실을 폭로한 빌라의 신상을 걱정하며 일행은 성채도시 알비온을 달린다."
+Japanese,"scene_cp18_q4_s30,1843",synopsis,,見事、帝国兵を蹴散らした一行。しかし、カタリナの行方を知るであろうヴィーラの姿が見当たらないことに<span>[플레이어]</span>たちの焦りは募る。カタリナの行方と、真実を暴露したヴィーラの身の上を案じ、一行は城砦都市アルビオンを駆ける。,"보기 좋게 제국병들을 걷어찬 일행.그러나, 카타리나의 행방을 알게 될 빌라의 모습이 눈에 띄지 않는다는 것에 <span>[플레이어]</span>들의 초조함은 심해간다.카탈리나의 행방과 진실을 폭로한 빌라의 신상을 걱정하며 일행은 성채도시 알비온을 달린다."
 Japanese,"scene_cp18_q4_s30,1843",detail,비이,よっしゃ、<br>これで粗方片付いたな！,"좋아,<br>이걸로 대충 정리됐네!"
 Japanese,"scene_cp18_q4_s30,1843",detail,비이,あとはこのまま、<br>姐さんのところに行くだけだぜ！,이제 이대로 <br>언니한테 가는 일만 남았어!
 Japanese,"scene_cp18_q4_s30,1843",detail,루리아,で、でも、カタリナは、<br>いまどこに居るんでしょう……,그런데 카타리나는 지금 어디에 있을까요……
@@ -122,9 +122,9 @@ Japanese,"scene_cp18_q4_s30,1843",detail,라캄,……って、おい。<br>あ�
 Japanese,"scene_cp18_q4_s30,1843",detail,로제타,見当たらないわね……<br>ひとりで執務室に帰ったとか？,눈에 띄지 않네……<br>혼자서 집무실로 돌아왔다던가?
 Japanese,"scene_cp18_q4_s30,1843",detail,이오,まさか……<br>あたし達に真実を喋っちゃったから、<br>帝国に連れて行かれたんじゃ……！？,"설마....<br>우리에게 진실을 말해버렸기 때문에,<br>제국에 끌려간건 아니지....!?"
 Japanese,"scene_cp18_q4_s30,1843",detail,오이겐,ありえねぇ話じゃねぇなぁ……<br>こりゃあ面倒なことになってきたぞ！,있을 수 없는 이야기잖아……<br>이거 귀찮게 되네!
-Japanese,"scene_cp18_q4_s30,1843",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>カタリナ、そしてヴィーラの姿を探し、</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>を駆ける。</span>,"<span class = 'scene-font-katari'> [지타] 일행은 </ span> <br> <span class = 'scene-font-katari'> 카타리나, 그리고 뷔라의 모습을 찾아 </ span> <br> <span class = 'scene-font-place'> 요새 도시 알비온 </ span> <span class = 'scene-font-katari'>를 달린다. </ span>"
-English,"scene_cp18_q1_s10,1811",synopsis,,"Katalina has disappeared, leaving only a farewell letter. Sierokarte says she saw Katalina leave with imperial soldiers. [Djeeta] and the crew decide to ask Vira if she knows what happened."
-English,"scene_cp18_q1_s10,1811",detail,,A new morning dawns after [Djeeta] and the crew's meeting with Furias.
+Japanese,"scene_cp18_q4_s30,1843",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>カタリナ、そしてヴィーラの姿を探し、</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>を駆ける。</span>,"<span class = 'scene-font-katari'> [플레이어] 일행은 </ span> <br> <span class = 'scene-font-katari'> 카타리나, 그리고 뷔라의 모습을 찾아 </ span> <br> <span class = 'scene-font-place'> 요새 도시 알비온 </ span> <span class = 'scene-font-katari'>를 달린다. </ span>"
+English,"scene_cp18_q1_s10,1811",synopsis,,"Katalina has disappeared, leaving only a farewell letter. Sierokarte says she saw Katalina leave with imperial soldiers. [플레이어] and the crew decide to ask Vira if she knows what happened."
+English,"scene_cp18_q1_s10,1811",detail,,A new morning dawns after [플레이어] and the crew's meeting with Furias.
 English,"scene_cp18_q1_s10,1811",detail,,They awake to find Katalina gone and only a short farewell letter left behind.
 English,"scene_cp18_q1_s10,1811",detail,Vyrn,Wh-what's the meaning of this?
 English,"scene_cp18_q1_s10,1811",detail,Lyria,I don't understand... Why? Why would Katalina leave?
@@ -138,9 +138,9 @@ English,"scene_cp18_q1_s10,1811",detail,Eugen,Hm? Sounds like they didn't drag h
 English,"scene_cp18_q1_s10,1811",detail,Io,"If that's the case, then what's this all mean?"
 English,"scene_cp18_q1_s10,1811",detail,Rackam,"At any rate, we need to find her! Not sure where they could've taken her..."
 English,"scene_cp18_q1_s10,1811",detail,Rackam,But Vira might be able to give us a clue!
-English,"scene_cp18_q1_s20,1812",synopsis,,"Lyria is shaken by Katalina's departure. Believing the empire may be up to something, [Djeeta] and the crew search for Vira in hopes of getting a clue."
+English,"scene_cp18_q1_s20,1812",synopsis,,"Lyria is shaken by Katalina's departure. Believing the empire may be up to something, [플레이어] and the crew search for Vira in hopes of getting a clue."
 English,"scene_cp18_q1_s20,1812",detail,Lyria,"But why, Katalina..."
-English,"scene_cp18_q1_s20,1812",detail,Vyrn,"She wouldn't just up and leave Lyria behind. So what do you think of all this, [Djeeta]?"
+English,"scene_cp18_q1_s20,1812",detail,Vyrn,"She wouldn't just up and leave Lyria behind. So what do you think of all this, [플레이어]?"
 English,"scene_cp18_q1_s20,1812",sel1_txt,,I think she had a reason.
 English,"scene_cp18_q1_s20,1812",sel2_txt,,I think something's going on.
 English,"scene_cp18_q1_s20,1812",detail,Vyrn,Me too! Maybe there's a hidden clue in that letter.
@@ -148,7 +148,7 @@ English,"scene_cp18_q1_s20,1812",detail,Vyrn,"Those imperial goons were pretty n
 English,"scene_cp18_q1_s20,1812",detail,Vyrn,But first let's try to find Katalina and talk to her ourselves!
 English,"scene_cp18_q1_s20,1812",detail,Vyrn,"So come on, Lyria! Now's not the time to be gloomy!"
 English,"scene_cp18_q1_s20,1812",detail,Lyria,"Yeah... You're right! I'm not sure if I'll be much help, but I'll try!"
-English,"scene_cp18_q2_s10,1821",synopsis,,Vira suggests that Katalina returned to the empire by choice. [Djeeta] and the crew refuse to give up searching for her until they can talk to Katalina themselves. Vira offers to show them something that will shed light on Katalina's decision.
+English,"scene_cp18_q2_s10,1821",synopsis,,Vira suggests that Katalina returned to the empire by choice. [플레이어] and the crew refuse to give up searching for her until they can talk to Katalina themselves. Vira offers to show them something that will shed light on Katalina's decision.
 English,"scene_cp18_q2_s10,1821",detail,Vira,"So Katalina's gone, you say..."
 English,"scene_cp18_q2_s10,1821",detail,Rackam,"Yeah. And since you're friendly with the empire, we thought you might know what's going on."
 English,"scene_cp18_q2_s10,1821",detail,Vira,Albion does provide the empire with quite a bit of manpower. I suppose you could say we have a strong relationship...
@@ -165,7 +165,7 @@ English,"scene_cp18_q2_s10,1821",detail,Lyria,Yes!
 English,"scene_cp18_q2_s10,1821",detail,Vira,"Very well. If you insist on knowing, then perhaps I can help clear things up."
 English,"scene_cp18_q2_s10,1821",detail,Vira,There's something I'd like to show you. Please follow me.
 English,"scene_cp18_q2_s10,1821",detail,Vira,Take caution though. It wouldn't do for you to fall prey to the monsters along the way!
-English,"scene_cp18_q2_s20,1822",synopsis,,"Vira tells the crew that the empire wants Luminiera, Albion's primal beast which requires sacrificing a knight to summon it. With the empire threatening to use Adversa against the island, Vira says Katalina volunteered herself to become the sacrifice in exchange for the safety of [Djeeta] and the crew."
+English,"scene_cp18_q2_s20,1822",synopsis,,"Vira tells the crew that the empire wants Luminiera, Albion's primal beast which requires sacrificing a knight to summon it. With the empire threatening to use Adversa against the island, Vira says Katalina volunteered herself to become the sacrifice in exchange for the safety of [플레이어] and the crew."
 English,"scene_cp18_q2_s20,1822",detail,Vira,"Since ancient times, Albion has been home to a special primal beast by the name of Luminiera."
 English,"scene_cp18_q2_s20,1822",detail,Vira,"But invoking Luminiera requires a true knight... Or rather, the sacrifice of one."
 English,"scene_cp18_q2_s20,1822",detail,Lyria,The sacrifice of a true knight?
@@ -177,7 +177,7 @@ English,"scene_cp18_q2_s20,1822",detail,Vira,They explained the terms of the dea
 English,"scene_cp18_q2_s20,1822",detail,Vira,"I refused, of course... Until the general brought out his new weapon."
 English,"scene_cp18_q2_s20,1822",detail,Eugen,He's gone and done it now...
 English,"scene_cp18_q2_s20,1822",detail,Eugen,We should've smashed that thing to pieces back in Auguste when we had the chance...
-English,"scene_cp18_q2_s20,1822",detail,,[Djeeta] and the crew gaze up at the imperial battleship floating lazily in the sky above them.
+English,"scene_cp18_q2_s20,1822",detail,,[플레이어] and the crew gaze up at the imperial battleship floating lazily in the sky above them.
 English,"scene_cp18_q2_s20,1822",detail,,"On the battleship is the Adversa weapon, the fruit of the empire's research on Auguste."
 English,"scene_cp18_q2_s20,1822",detail,Vira,"It has the power to destroy an entire island. And as it's my duty to protect the people of Albion, my hands were tied..."
 English,"scene_cp18_q2_s20,1822",detail,Lyria,So... Katalina's doing this for us?
@@ -185,7 +185,7 @@ English,"scene_cp18_q2_s20,1822",detail,Lyria,That's why she left. Without sayin
 English,"scene_cp18_q2_s20,1822",detail,Rackam,I think I get where she's coming from... But talk about a show off!
 English,"scene_cp18_q2_s20,1822",detail,Monster,Groooar!
 English,"scene_cp18_q2_s20,1822",detail,Rackam,"Monsters, eh? Sounds like a perfect opportunity to relieve a little stress!"
-English,"scene_cp18_q3_s10,1831",synopsis,,"Vira admits that she tried to become the sacrifice, but Luminiera didn't accept her as a true knight. [Djeeta] and the crew decide to rescue Katalina."
+English,"scene_cp18_q3_s10,1831",synopsis,,"Vira admits that she tried to become the sacrifice, but Luminiera didn't accept her as a true knight. [플레이어] and the crew decide to rescue Katalina."
 English,"scene_cp18_q3_s10,1831",detail,Vira,"By all rights, I should've become the sacrifice for summoning Luminiera, being that I'm the head of Albion."
 English,"scene_cp18_q3_s10,1831",detail,Vira,But I rose to this position while I was still a student. I know nothing of knighthood.
 English,"scene_cp18_q3_s10,1831",detail,Vira,So Luminiera didn't recognize me as a true knight...
@@ -194,8 +194,8 @@ English,"scene_cp18_q3_s10,1831",detail,Io,Yeah! Let's not forget who the real b
 English,"scene_cp18_q3_s10,1831",detail,Vyrn,You said it! And we're not gonna leave Katalina to get sacrificed!
 English,"scene_cp18_q3_s10,1831",detail,Eugen,We need to get away from here for now.
 English,"scene_cp18_q3_s10,1831",detail,Eugen,It wouldn't do for the empire to find us chattin' with the Lord of Albion right under their battleship.
-English,"scene_cp18_q3_s20,1832",synopsis,,"After helping [Djeeta] and the crew sneak away from the castle, Vira explains that the Lord of Albion is chosen through a tournament. Vira insists that Katalina is stronger, despite having earned the lordship by defeating her in the tournament."
-English,"scene_cp18_q3_s20,1832",detail,,"With Vira's help, [Djeeta] and the crew slip out the castle and away from the empire's watch."
+English,"scene_cp18_q3_s20,1832",synopsis,,"After helping [플레이어] and the crew sneak away from the castle, Vira explains that the Lord of Albion is chosen through a tournament. Vira insists that Katalina is stronger, despite having earned the lordship by defeating her in the tournament."
+English,"scene_cp18_q3_s20,1832",detail,,"With Vira's help, [플레이어] and the crew slip out the castle and away from the empire's watch."
 English,"scene_cp18_q3_s20,1832",detail,Rosetta,"By the way, young lady, I found something you said earlier quite funny."
 English,"scene_cp18_q3_s20,1832",detail,Vira,"Sorry, I don't remember making any jokes..."
 English,"scene_cp18_q3_s20,1832",detail,Rosetta,"I didn't mean it like that. But you said you became the lord while you were still a student, no?"
@@ -210,8 +210,8 @@ English,"scene_cp18_q3_s20,1832",detail,Vira,But I'm not... Not now or ever have
 English,"scene_cp18_q3_s20,1832",detail,Io,"Huh? But you won, right? I mean, the strongest person becomes the lord..."
 English,"scene_cp18_q3_s20,1832",detail,Vira,"Now then, we have some monsters up ahead. We mustn't dilly-dally!"
 English,"scene_cp18_q3_s20,1832",detail,Vira,"Now then, we have some monsters up ahead. We mustn't dilly-dally!"
-English,"scene_cp18_q4_s10,1841",synopsis,,"Vira leads [Djeeta] and the crew down an alley where they run into Furias. After threatening to capture them, Furias reveals that he lied to Katalina. [Djeeta] and the crew fight back in anger."
-English,"scene_cp18_q4_s10,1841",detail,,Vira leads [Djeeta] and the crew down an alley where they run into an unsavory character.
+English,"scene_cp18_q4_s10,1841",synopsis,,"Vira leads [플레이어] and the crew down an alley where they run into Furias. After threatening to capture them, Furias reveals that he lied to Katalina. [플레이어] and the crew fight back in anger."
+English,"scene_cp18_q4_s10,1841",detail,,Vira leads [플레이어] and the crew down an alley where they run into an unsavory character.
 English,"scene_cp18_q4_s10,1841",detail,Furias,"Well, well! Quite the crowd we have here."
 English,"scene_cp18_q4_s10,1841",detail,Rackam,Furias! Just what are you doing here?
 English,"scene_cp18_q4_s10,1841",detail,Furias,"Oh, now that attitude is quite uncalled for. I've only come here to meet someone..."
@@ -226,13 +226,13 @@ English,"scene_cp18_q4_s10,1841",detail,Furias,"Oh, don't you fret. I'll be sure
 English,"scene_cp18_q4_s10,1841",detail,Vyrn,You little twerp! Do you see what all your lies have put us through?
 English,"scene_cp18_q4_s10,1841",detail,Furias,"Look, dummies! It's not my fault you fell for it! It's like you're cursed with stupidity!"
 English,"scene_cp18_q4_s10,1841",detail,Rosetta,His twisted nature makes him even smaller than he is.
-English,"scene_cp18_q4_s10,1841",detail,Rosetta,"We'll have to cut through here to get to Katalina. Let's go, [Djeeta]!"
-English,"scene_cp18_q4_s20,1842",synopsis,,"Still angry at the empire about how Katalina was being used, [Djeeta] and the crew fly to her rescue."
+English,"scene_cp18_q4_s10,1841",detail,Rosetta,"We'll have to cut through here to get to Katalina. Let's go, [플레이어]!"
+English,"scene_cp18_q4_s20,1842",synopsis,,"Still angry at the empire about how Katalina was being used, [플레이어] and the crew fly to her rescue."
 English,"scene_cp18_q4_s20,1842",detail,Lyria,He's beyond forgiveness! How could he use Katalina like that?
 English,"scene_cp18_q4_s20,1842",detail,Rackam,They've been trying to drive a wedge between us and Katalina since the beginning.
 English,"scene_cp18_q4_s20,1842",detail,Rackam,They've made every move to destroy us... Those sniveling cowards!
 English,"scene_cp18_q4_s20,1842",detail,Vyrn,That does it! We're getting Katalina outta here!
-English,"scene_cp18_q4_s20,1842",detail,Vyrn,"Right, [Djeeta]? No way you're ready to turn tail!"
+English,"scene_cp18_q4_s20,1842",detail,Vyrn,"Right, [플레이어]? No way you're ready to turn tail!"
 English,"scene_cp18_q4_s20,1842",sel1_txt,,Not till we teach them a lesson!
 English,"scene_cp18_q4_s20,1842",sel2_txt,,Can't let them get away with this!
 English,"scene_cp18_q4_s20,1842",detail,Vyrn,That's what I like to hear! Let's show 'em how serious we are!
@@ -246,4 +246,4 @@ English,"scene_cp18_q4_s30,1843",detail,Rackam,Wait! Where did she go?
 English,"scene_cp18_q4_s30,1843",detail,Rosetta,I don't see her anywhere. Perhaps she went back to the lord's office.
 English,"scene_cp18_q4_s30,1843",detail,Io,Or maybe... the empire snatched her up for spilling the beans to us!
 English,"scene_cp18_q4_s30,1843",detail,Eugen,Sounds possible... Which means we've got more trouble on our hands!
-English,"scene_cp18_q4_s30,1843",detail,,[Djeeta] and the crew begin a desperate search for both Katalina and Vira in Albion.
+English,"scene_cp18_q4_s30,1843",detail,,[플레이어] and the crew begin a desperate search for both Katalina and Vira in Albion.

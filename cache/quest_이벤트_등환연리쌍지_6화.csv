@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt210129_cp6_q1_s10,synopsis,,クスキは己の機能を使ってシンシャから無理やり魔力を引きずり出すも、ネクタルが一瞬の隙を突いてクスキを気絶させる。しかし[グラン]達が青願堂へ乗り込もうと歩を進めたその時、突如どこからか攻撃が飛んでくる。元の粘体の姿となって、間一髪一行を庇い倒れ伏すネクタル。そこに現れたのは、怒りに燃えるゴブリンプリンセスだった。,"쿠스키는 자신의 기능을 이용해 신샤로부터 억지로 마력을 끌어내지만, 넥타르가 한순간의 틈을 타 쿠스키를 기절시킨다. 그러나 [그랑] 일행이 청원당으로 들어서기 위해 걸음을 옮기는 순간, 갑자기 어디선가 공격이 날아든다. 원래의 액체 형상이 되어, 아슬아슬한 일행을 감싸고 쓰러지는 넥타르. 거기에 나타난 것은, 분노에 불타는 고블린 프린세스였다."
+Japanese,scene_evt210129_cp6_q1_s10,synopsis,,クスキは己の機能を使ってシンシャから無理やり魔力を引きずり出すも、ネクタルが一瞬の隙を突いてクスキを気絶させる。しかし[플레이어]達が青願堂へ乗り込もうと歩を進めたその時、突如どこからか攻撃が飛んでくる。元の粘体の姿となって、間一髪一行を庇い倒れ伏すネクタル。そこに現れたのは、怒りに燃えるゴブリンプリンセスだった。,"쿠스키는 자신의 기능을 이용해 신샤로부터 억지로 마력을 끌어내지만, 넥타르가 한순간의 틈을 타 쿠스키를 기절시킨다. 그러나 [플레이어] 일행이 청원당으로 들어서기 위해 걸음을 옮기는 순간, 갑자기 어디선가 공격이 날아든다. 원래의 액체 형상이 되어, 아슬아슬한 일행을 감싸고 쓰러지는 넥타르. 거기에 나타난 것은, 분노에 불타는 고블린 프린세스였다."
 Japanese,scene_evt210129_cp6_q1_s10,detail,,<span class='scene-font-katari'>昔も今も、関係ない。</span><br><span class='scene-font-katari'>誰だって自分の一番ってのが</span><br><span class='scene-font-katari'>あるもんだろう？</span>,<span class='scene-font-katari'>옛날이건 지금이건 상관없어. 누구에게든 가장 중요한 게 있는 거잖아?</span>
 Japanese,scene_evt210129_cp6_q1_s10,detail,,<span class='scene-font-katari'>一番と二番がぶつかりゃあ、</span><br><span class='scene-font-katari'>一番を取るのが当然さ。</span><br><span class='scene-font-katari'>だからこその一番なんだ。</span>,<span class='scene-font-katari'>1번과 2번이 충돌하면 1번을 택하는 게 당연하지. 그러니까 1번인 거고. </span>
 Japanese,scene_evt210129_cp6_q1_s10,detail,,<span class='scene-font-katari'>ああ、そうだ、一番だ。</span><br><span class='scene-font-katari'>俺の一番はご主人様さ。</span><br><span class='scene-font-katari'>なにせ犬なんだからよ。</span>,"<span class='scene-font-katari'>그래, 맞아. 1번. 내 1번은 주인님이야. 그야 개인걸.</span>"
@@ -40,10 +40,10 @@ Japanese,scene_evt210129_cp6_q1_s10,detail,쿠시나,…………<br><span class
 Japanese,scene_evt210129_cp6_q1_s10,detail,넥타르,それは……,그건...
 Japanese,scene_evt210129_cp6_q1_s10,detail,넥타르,────！,────！
 Japanese,scene_evt210129_cp6_q1_s10,detail,비이,あっちも決着がついたみたいだぜ！<br>合流して青願堂の中へ……,저 쪽에서도 결판이 난 모양이야! 합류해서 청원당 쪽으로...
-Japanese,scene_evt210129_cp6_q1_s10,detail,넥타르의 목소리,[グラン]殿！ ルシウス殿！！,[그랑] 공! 루시우스 공!
+Japanese,scene_evt210129_cp6_q1_s10,detail,넥타르의 목소리,[플레이어]殿！ ルシウス殿！！,[플레이어] 공! 루시우스 공!
 Japanese,scene_evt210129_cp6_q1_s10,detail,루시우스,なっ……！！,뭐...!?
 Japanese,scene_evt210129_cp6_q1_s10,detail,,<span class='scene-font-katari'>駆ける間にネクタルは、</span><br><span class='scene-font-katari'>ヒトの形を解いて</span><br><span class='scene-font-katari'>元の姿をさらしました。</span>,"<span class='scene-font-katari'>단장과 루시우스에게 달려가는 사이, 넥타르는 인간의 형태를 풀고 원래 모습을 드러냈습니다.</span>"
-Japanese,scene_evt210129_cp6_q1_s10,detail,,<span class='scene-font-katari'>[グラン]さん達を庇って</span><br><span class='scene-font-katari'>広がった粘体に、</span><br><span class='scene-font-katari'>次々と杭が突き刺さり──</span>,<span class='scene-font-katari'>그가 [그랑] 일행을 감싸며 펼친 점액질에 가시가 하나둘씩 날아와 꽂혔고... </span>
+Japanese,scene_evt210129_cp6_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]さん達を庇って</span><br><span class='scene-font-katari'>広がった粘体に、</span><br><span class='scene-font-katari'>次々と杭が突き刺さり──</span>,<span class='scene-font-katari'>그가 [플레이어] 일행을 감싸며 펼친 점액질에 가시가 하나둘씩 날아와 꽂혔고... </span>
 Japanese,scene_evt210129_cp6_q1_s10,detail,비이,な、なんだぁ！？,"뭐, 뭐야!?"
 Japanese,scene_evt210129_cp6_q1_s10,detail,루시우스,<span class='scene-font-4'>ネクタル！！</span>,<span class='scene-font-4'>넥타르!</span>
 Japanese,scene_evt210129_cp6_q1_s10,detail,비이,どっから攻撃が……！,어디서 공격한 거지...!
@@ -112,11 +112,11 @@ Japanese,scene_evt210129_cp6_q3_s10,detail,<span class='scene-font-2'>고블린 
 Japanese,scene_evt210129_cp6_q3_s10,detail,루시우스,これは……,이건...
 Japanese,scene_evt210129_cp6_q3_s10,detail,？？？,……もう！<br>兄さんは、私がいないと<br>ダメなんだから。,...하여간 오빠는 내가 없으면 안 된다니까!
 Japanese,scene_evt210129_cp6_q3_s10,detail,루시우스,……ティナ！,...티나!
-Japanese,scene_evt210129_cp6_q4_s20,synopsis,,ティナはルリアから話を聞き、小型艇を飛ばしてやってきたという。態勢を整えた[グラン]達は、ネクタル、クシナ、ウグスに罠の対処を任せ、ゴブリンプリンセスとの決戦に挑むのだった。,"티나는 루리아로부터 이야기를 듣고, 소형정을 통해 오게 되었다고한다. 태세를 갖춘 [그랑] 일행은, 넥타르, 쿠시나, 우구스에게 함정의 대처를 맡기고, 고블린 프린세스와의 결전에 임하는 것이었다."
+Japanese,scene_evt210129_cp6_q4_s20,synopsis,,ティナはルリアから話を聞き、小型艇を飛ばしてやってきたという。態勢を整えた[플레이어]達は、ネクタル、クシナ、ウグスに罠の対処を任せ、ゴブリンプリンセスとの決戦に挑むのだった。,"티나는 루리아로부터 이야기를 듣고, 소형정을 통해 오게 되었다고한다. 태세를 갖춘 [플레이어] 일행은, 넥타르, 쿠시나, 우구스에게 함정의 대처를 맡기고, 고블린 프린세스와의 결전에 임하는 것이었다."
 Japanese,scene_evt210129_cp6_q4_s20,detail,티나,ルリアちゃんから事情を聞いて、 <br>島に来るのに使った小型艇で、<br>急いで追いかけてきたの！,루리아쨩한테 이야기를 듣고 섬에 올 때 썼던 소형정으로 급히 달려왔어!
 Japanese,scene_evt210129_cp6_q4_s20,detail,티나,高度が稼げなくて<br>ちょっと無理したけど……<br>した甲斐はあったよね？,고도가 확보되지 않아서 좀 고생했지만... 고생한 보람이 있었지?
 Japanese,scene_evt210129_cp6_q4_s20,detail,루시우스,……ああ。<br>ティナ、助かった。,"...그래. 티나, 덕분에 살았다."
-Japanese,scene_evt210129_cp6_q4_s20,detail,티나,[グラン]さんも、<br>ケガがあるなら見せて！<br>すぐ治すから。,[그랑]씨도 다친 데 있으면 보여줘! 금방 고쳐줄게.
+Japanese,scene_evt210129_cp6_q4_s20,detail,티나,[플레이어]さんも、<br>ケガがあるなら見せて！<br>すぐ治すから。,[플레이어]씨도 다친 데 있으면 보여줘! 금방 고쳐줄게.
 Japanese,scene_evt210129_cp6_q4_s20,detail,비이,ケガより毒がヤベェんだ！<br>辺りに痺れ香ってのが<br>仕掛けられてて……,상처보다 독이 문제야! 주변에 마비독이라는 게 뿌려져 있어서...
 Japanese,scene_evt210129_cp6_q4_s20,detail,티나,痺れ香……！？<br>それじゃあ、治すだけじゃなくて<br>罠の方も片づけないと……,마비독...? 그럼 고치기만 할 게 아니라 덫 쪽을 제거해야...
 Japanese,scene_evt210129_cp6_q4_s20,detail,우구스,どこにうまってるか、<br>ウグスわかるよ！,어디 묻혀 있는지는 우구스가 알아!

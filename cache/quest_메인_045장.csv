@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp45_q1_s10,4511",synopsis,,第四騎空艇団資料庫でビィに関する情報を探る[ジータ]達だったが、一向に見つかる気配はない。そんな中、リーシャは父ヴァルフリートの手記を見つける。それによると「小さな赤き竜」と「蒼の少女」は相容れず決して近づけてはならないとある。リーシャはそれこそビィとルリアではないかと動揺し、ついそのページを破りとってしまう。
+Japanese,"scene_cp45_q1_s10,4511",synopsis,,第四騎空艇団資料庫でビィに関する情報を探る[플레이어]達だったが、一向に見つかる気配はない。そんな中、リーシャは父ヴァルフリートの手記を見つける。それによると「小さな赤き竜」と「蒼の少女」は相容れず決して近づけてはならないとある。リーシャはそれこそビィとルリアではないかと動揺し、ついそのページを破りとってしまう。
 Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>秩序の騎空団第四騎空艇団資料庫。</span>
-Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>そこで[ジータ]一行は、</span><br><span class='scene-font-katari'>資料の山に埋もれるようにしながら、</span><br><span class='scene-font-katari'>ビィに関する文献を探していた。</span>
+Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>そこで[플레이어]一行は、</span><br><span class='scene-font-katari'>資料の山に埋もれるようにしながら、</span><br><span class='scene-font-katari'>ビィに関する文献を探していた。</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,이오,あっ！ これ！<br>……じゃないわね。<br>これ、ただのトカゲに関する資料だわ。
 Japanese,"scene_cp45_q1_s10,4511",detail,비이,おい……<br>イオはどういう目星で、<br>資料を探してんだ……？
 Japanese,"scene_cp45_q1_s10,4511",detail,이오,もちろん、変わったトカゲについてよ？<br>目撃情報も、<br>捕獲したっていう記録も含めて。
@@ -13,7 +13,7 @@ Japanese,"scene_cp45_q1_s10,4511",detail,오이겐,っつぁー……ダメだ�
 Japanese,"scene_cp45_q1_s10,4511",detail,루리아,むむむ……<br>ね、ねぇ、カタリナ……<br>これ、なんて読むの？
 Japanese,"scene_cp45_q1_s10,4511",detail,카타리나,ん？ どれどれ……
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,はぁ……<br>ビィくんに関する資料、<br>こんな調子で見つかるのかな……
-Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ユグドラシル・マリスを攻略すべく</span><br><span class='scene-font-katari'>ビィに関する情報を探していたが……</span>
+Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ユグドラシル・マリスを攻略すべく</span><br><span class='scene-font-katari'>ビィに関する情報を探していたが……</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>空域を跨り集められた</span><br><span class='scene-font-katari'>膨大な資料の中から探す作業は、</span><br><span class='scene-font-katari'>困難を極めていた。</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,とはいえ、<br>地道に探すしかないですよね……<br>何か他にも手がかりがあれば……
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,あれ……？<br>これって……
@@ -25,7 +25,7 @@ Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,前のほうが<br>ほと�
 Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>何気なく</span><br><span class='scene-font-katari'>ページを進めるリーシャだったが、</span><br><span class='scene-font-katari'>ふと、その手が止まる。</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,「小さな赤き竜」……？<br>人語を解し、<br>星の力を抑える特異な存在……
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,その出自は不明だが、<br>星晶獣、ひいては星の力を抑える<br>特殊な能力を持ち……！？
-Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,こ、これって……！<br>[ジータ]さんっ！<br>これ……え？
+Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,こ、これって……！<br>[플레이어]さんっ！<br>これ……え？
 Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>続きにあるとある記述に、</span><br><span class='scene-font-katari'>リーシャは息を呑んだ。</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,비이,おう！<br>どうしたリーシャ？<br>何か見つかったか？
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,えっ？<br>あ……は、はい！<br>えと……こ、これです！
@@ -41,16 +41,16 @@ Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>見つ
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,「小さな赤き竜」と「蒼の少女」は</span><br>決して相容れない存在であり……</span><br>互いのために近づくべきではない……</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,これ……<br>「蒼の少女」って、<br>ルリアのこと……？
 Japanese,"scene_cp45_q1_s10,4511",detail,リーシャ,こんな書き方……<br>これじゃあまるで、<br>ビィくんとルリアは敵同士みたいな……
-Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>問題解決の糸口を見つけ、</span><br><span class='scene-font-katari'>勢い付く[ジータ]一行。</span>
+Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>問題解決の糸口を見つけ、</span><br><span class='scene-font-katari'>勢い付く[플레이어]一行。</span>
 Japanese,"scene_cp45_q1_s10,4511",detail,,<span class='scene-font-katari'>しかし、それとは対照的に、</span><br><span class='scene-font-katari'>リーシャは一人、</span><br><span class='scene-font-katari'>新たな謎に頭を悩ませるのだった。</span>
-Japanese,"scene_cp45_q2_s10,4521",synopsis,,ヴァルフリートの手記にはビィの能力はザンクティンゼルに封印されているとある。その島は[ジータ]とビィが父と暮らした島だった。もしビィの能力を封印したのが父であれば、何故封印したのか、その封印は解いてもいいのか、という不安が皆の心に広がる。そんな彼らを乗せて、グランサイファーはザンクティンゼルへ向かう。
+Japanese,"scene_cp45_q2_s10,4521",synopsis,,ヴァルフリートの手記にはビィの能力はザンクティンゼルに封印されているとある。その島は[플레이어]とビィが父と暮らした島だった。もしビィの能力を封印したのが父であれば、何故封印したのか、その封印は解いてもいいのか、という不安が皆の心に広がる。そんな彼らを乗せて、グランサイファーはザンクティンゼルへ向かう。
 Japanese,"scene_cp45_q2_s10,4521",detail,,<span class='scene-font-katari'>ヴァルフリートの残した手記から、</span><br><span class='scene-font-katari'>星の力を抑える能力が</span><br><span class='scene-font-katari'>ビィに備わっていることを掴む一行。</span>
 Japanese,"scene_cp45_q2_s10,4521",detail,,<span class='scene-font-katari'>さらに手記には続きがあり、</span><br><span class='scene-font-katari'>ビィの能力はザンクティンゼルに</span><br><span class='scene-font-katari'>封印されていると記されていた。</span>
 Japanese,"scene_cp45_q2_s10,4521",detail,,<span class='scene-font-katari'>一行はザンクティンゼルへと向かうため</span><br><span class='scene-font-katari'>グランサイファーを目指し、</span><br><span class='scene-font-katari'>戦禍の爪痕の残る街を進む。</span>
 Japanese,"scene_cp45_q2_s10,4521",detail,라캄,ようやく前進だな……<br>そのザンクティンゼルに行きゃあ、<br>間違いなく、何かが掴める……
-Japanese,"scene_cp45_q2_s10,4521",detail,오이겐,しっかし、<br>[ジータ]が暮らしてた島に<br>その封印があるたぁな……
+Japanese,"scene_cp45_q2_s10,4521",detail,오이겐,しっかし、<br>[플레이어]が暮らしてた島に<br>その封印があるたぁな……
 Japanese,"scene_cp45_q2_s10,4521",detail,카타리나,私達の旅が始まった、あの島か……
-Japanese,"scene_cp45_q2_s10,4521",detail,비이,なぁ、[ジータ]……<br>ザンクティンゼルに<br>封印されてる、ってことは……
+Japanese,"scene_cp45_q2_s10,4521",detail,비이,なぁ、[플레이어]……<br>ザンクティンゼルに<br>封印されてる、ってことは……
 Japanese,"scene_cp45_q2_s10,4521",detail,비이,きっとその封印をしたのは、<br>親父さんだよな……
 Japanese,"scene_cp45_q2_s10,4521",detail,비이,親父さんはなんだってオイラに<br>そんな封印をしたんだ……？
 Japanese,"scene_cp45_q2_s10,4521",detail,비이,オイラ達……<br>その封印を、<br>解いてもいいもんなのか……？
@@ -61,7 +61,7 @@ Japanese,"scene_cp45_q2_s10,4521",detail,카타리나,つまり、その星の�
 Japanese,"scene_cp45_q2_s10,4521",detail,비이,…………
 Japanese,"scene_cp45_q2_s10,4521",detail,リーシャ,皆さん、<br>騎空艇まではもうすぐですが……
 Japanese,"scene_cp45_q2_s10,4521",detail,リーシャ,裏手の山脈から混乱に乗じて<br>街に魔物が入り込んでいます。<br>くれぐれも注意して進んでください。
-Japanese,"scene_cp45_q2_s20,4522",synopsis,,アマルティア島を進む[ジータ]達は聞き覚えのある声を耳にする。その声の主はドランクとスツルムだった。彼らの登場に嫌な予感しかしない一行だったが、助けを求めるドランクを放ってはおけなかった。
+Japanese,"scene_cp45_q2_s20,4522",synopsis,,アマルティア島を進む[플레이어]達は聞き覚えのある声を耳にする。その声の主はドランクとスツルムだった。彼らの登場に嫌な予感しかしない一行だったが、助けを求めるドランクを放ってはおけなかった。
 Japanese,"scene_cp45_q2_s20,4522",detail,？？？,おーい！！
 Japanese,"scene_cp45_q2_s20,4522",detail,이오,ん？<br>ねぇ、いま何か声が聞こえなかった？
 Japanese,"scene_cp45_q2_s20,4522",detail,라캄,そうだな……<br>どっかで聞いた声だったような……
@@ -88,8 +88,8 @@ Japanese,"scene_cp45_q2_s20,4522",detail,リーシャ,…………
 Japanese,"scene_cp45_q2_s20,4522",detail,마물,グオオォォッ！！
 Japanese,"scene_cp45_q2_s20,4522",detail,스츠룸,放っておくか？
 Japanese,"scene_cp45_q2_s20,4522",detail,드랑크,ちょっとぉ！？<br>スツルム殿！？
-Japanese,"scene_cp45_q2_s20,4522",detail,リーシャ,ど、どのような者であろうと、<br>見捨てるわけにはいきません！<br>応戦しましょう！ [ジータ]！
-Japanese,"scene_cp45_q3_s10,4531",synopsis,,[ジータ]達を前にドランクとスツルムは黒騎士アポロニアを助け出したいと言い出す。黒騎士への恩義を説く二人はどこか胡散臭かったが、オルキスはそんな彼らを信じて一緒に行きたいと言う。一行はそれを信じ、二人を受け入れると、グランサイファーで大空へ発つ。
+Japanese,"scene_cp45_q2_s20,4522",detail,リーシャ,ど、どのような者であろうと、<br>見捨てるわけにはいきません！<br>応戦しましょう！ [플레이어]！
+Japanese,"scene_cp45_q3_s10,4531",synopsis,,[플레이어]達を前にドランクとスツルムは黒騎士アポロニアを助け出したいと言い出す。黒騎士への恩義を説く二人はどこか胡散臭かったが、オルキスはそんな彼らを信じて一緒に行きたいと言う。一行はそれを信じ、二人を受け入れると、グランサイファーで大空へ発つ。
 Japanese,"scene_cp45_q3_s10,4531",detail,,<span class='scene-font-katari'>魔物を退け、</span><br><span class='scene-font-katari'>ドランクを助け出した一行は</span><br><span class='scene-font-katari'>二人に詳しい事情を尋ねる。</span>
 Japanese,"scene_cp45_q3_s10,4531",detail,드랑크,実はね、僕達……<br>黒騎士を助けたいんだ。
 Japanese,"scene_cp45_q3_s10,4531",detail,オルキス,アポロを……？
@@ -115,7 +115,7 @@ Japanese,"scene_cp45_q3_s10,4531",detail,드랑크,とかなんとか言っち�
 Japanese,"scene_cp45_q3_s10,4531",detail,드랑크,痛ってぇ！？<br>ちょっと、スツルム殿！<br>無言で刺すのはやめて！ ホントに！
 Japanese,"scene_cp45_q3_s10,4531",detail,카타리나,君達には君達で、<br>そういう事情があったのか……
 Japanese,"scene_cp45_q3_s10,4531",detail,이오,相変わらず胡散臭い奴ではあるけど……<br>いまの話に嘘はなさそうね。
-Japanese,"scene_cp45_q3_s10,4531",detail,オルキス,[ジータ]……<br>私……スツルムとドランクと、<br>一緒に行きたい。
+Japanese,"scene_cp45_q3_s10,4531",detail,オルキス,[플레이어]……<br>私……スツルムとドランクと、<br>一緒に行きたい。
 Japanese,"scene_cp45_q3_s10,4531",detail,루리아,オルキスちゃん？
 Japanese,"scene_cp45_q3_s10,4531",detail,オルキス,二人は……良い人。<br>きっと……この気持ちも本当。
 Japanese,"scene_cp45_q3_s10,4531",detail,オルキス,ドランクは……<br>ときどき何を言ってるかわからないけど、<br>よく飴をくれた……
@@ -130,7 +130,7 @@ Japanese,"scene_cp45_q3_s10,4531",detail,リーシャ,あの、これ……<br>�
 Japanese,"scene_cp45_q3_s10,4531",detail,라캄,うしっ！<br>そんなら、<br>仲間が多いに越したことはねぇよな！
 Japanese,"scene_cp45_q3_s10,4531",detail,라캄,グランサイファーは目の前だ！<br>とっとと乗り込んじまえ！<br>ぼやぼやしてっと、また魔物が来るぞ！
 Japanese,"scene_cp45_q4_s10,4541",synopsis,,ザンクティンゼルへと向かうグランサイファー。目的地に近づくにつれ、ビィの元気がなくなっていく。星の力を抑える能力への疑い、封印された理由、封印を解くことの是非など、独りで悩むビィをルリアが励ます。そんな二人を遠巻きに見つめるリーシャの心は不安で揺れていた。
-Japanese,"scene_cp45_q4_s10,4541",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ビィの本来の能力の封印を解くため、</span><br><span class='scene-font-katari'>一路、ザンクティンゼルを目指す。</span>
+Japanese,"scene_cp45_q4_s10,4541",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ビィの本来の能力の封印を解くため、</span><br><span class='scene-font-katari'>一路、ザンクティンゼルを目指す。</span>
 Japanese,"scene_cp45_q4_s10,4541",detail,비이,はぁ……
 Japanese,"scene_cp45_q4_s10,4541",detail,루리아,ビィさん？<br>大丈夫ですか？<br>なんだか元気がないです……
 Japanese,"scene_cp45_q4_s10,4541",detail,비이,まぁ……<br>オイラも流石に<br>緊張してきちまって……
@@ -145,18 +145,18 @@ Japanese,"scene_cp45_q4_s10,4541",detail,,<span class='scene-font-katari'>少し
 Japanese,"scene_cp45_q4_s10,4541",detail,リーシャ,…………
 Japanese,"scene_cp45_q4_s10,4541",detail,リーシャ,<span class='scene-font-kokoro'>（「小さな赤き竜」と「蒼の少女」は</span><br><span class='scene-font-kokoro'>決して相容れない存在、か……）</span>
 Japanese,"scene_cp45_q4_s10,4541",detail,リーシャ,<span class='scene-font-kokoro'>（父さん……</span><br><span class='scene-font-kokoro'>貴方はいったい</span><br><span class='scene-font-kokoro'>何を知っていたのですか……？）</span>
-Japanese,"scene_cp45_q4_s20,4542",synopsis,,[ジータ]一行はついにザンクティンゼルを視界に捉える。ルリア達は旅の始まりを懐かしみ、風光明媚な島の自然に感動する。
-Japanese,"scene_cp45_q4_s20,4542",detail,,<span class='scene-font-katari'>艇は進み、[ジータ]一行はついに、</span><br><span class='scene-font-katari'>その視界に閉ざされた島、</span><br><span class='scene-font-katari'>ザンクティンゼルを捉える。</span>
+Japanese,"scene_cp45_q4_s20,4542",synopsis,,[플레이어]一行はついにザンクティンゼルを視界に捉える。ルリア達は旅の始まりを懐かしみ、風光明媚な島の自然に感動する。
+Japanese,"scene_cp45_q4_s20,4542",detail,,<span class='scene-font-katari'>艇は進み、[플레이어]一行はついに、</span><br><span class='scene-font-katari'>その視界に閉ざされた島、</span><br><span class='scene-font-katari'>ザンクティンゼルを捉える。</span>
 Japanese,"scene_cp45_q4_s20,4542",detail,루리아,あそこから……<br>私達の旅が始まったんですね。
 Japanese,"scene_cp45_q4_s20,4542",detail,카타리나,まさかこんな形で、<br>再びこの島を<br>目にすることになるとはな……
-Japanese,"scene_cp45_q4_s20,4542",detail,リーシャ,ここが……<br>[ジータ]さんの、<br>生まれ育った島……
+Japanese,"scene_cp45_q4_s20,4542",detail,リーシャ,ここが……<br>[플레이어]さんの、<br>生まれ育った島……
 Japanese,"scene_cp45_q4_s20,4542",detail,이오,ふーん……<br>バルツと違って、<br>ここはずいぶん緑が多いのね。
 Japanese,"scene_cp45_q4_s20,4542",detail,드랑크,うんうん、<br>風光明媚な田舎の島って感じだよねぇ。
 Japanese,"scene_cp45_q4_s20,4542",detail,드랑크,仕事を引退して住むなら、<br>こういうところが良いよねぇ……<br>ねぇ？ スツルム殿？
 Japanese,"scene_cp45_q4_s20,4542",detail,스츠룸,どうでもいい……<br>どこで暮らすかなんて、<br>その時になって考えればいい。
 Japanese,"scene_cp45_q4_s20,4542",detail,라캄,悪ぃが雑談は<br>そこまでにしてもらうぜ。
 Japanese,"scene_cp45_q4_s20,4542",detail,라캄,島に艇をつける前に、<br>魔物どもを一掃するぞ！<br>気合入れていけよ！
-Japanese,"scene_cp45_q4_s30,4543",synopsis,,[ジータ]一行はザンクティンゼルに降り立つ。カタリナはビィの封印された能力に関する手がかりを得るべく、まずはビィ達が暮らしていた村へ行ってみようと提案する。
+Japanese,"scene_cp45_q4_s30,4543",synopsis,,[플레이어]一行はザンクティンゼルに降り立つ。カタリナはビィの封印された能力に関する手がかりを得るべく、まずはビィ達が暮らしていた村へ行ってみようと提案する。
 Japanese,"scene_cp45_q4_s30,4543",detail,,<span class='scene-font-katari'>ザンクティンゼル外縁に</span><br><span class='scene-font-katari'>グランサイファーを停泊させた一行は</span><br><span class='scene-font-katari'>ついに島へと降り立つ。</span>
 Japanese,"scene_cp45_q4_s30,4543",detail,비이,すぅ……はぁ……<br>なんかやっぱり、<br>ここの空気は落ち着くな！
 Japanese,"scene_cp45_q4_s30,4543",sel1_txt,,<span class='scene-font-katari'>懐かしい</span>
@@ -170,10 +170,10 @@ Japanese,"scene_cp45_q4_s30,4543",detail,드랑크,さんせー！<br>ついで�
 Japanese,"scene_cp45_q4_s30,4543",detail,드랑크,あ痛っ！？
 Japanese,"scene_cp45_q4_s30,4543",detail,스츠룸,もっと喰らいたいか？
 Japanese,"scene_cp45_q4_s30,4543",detail,드랑크,結構でーす……
-Japanese,"scene_cp45_q4_s30,4543",detail,,<span class='scene-font-katari'>[ジータ]一行はビィの封印について</span><br><span class='scene-font-katari'>更なる情報を集めるため、</span><br><span class='scene-font-katari'>ザンクティンゼル唯一の村へと向かう。</span>
+Japanese,"scene_cp45_q4_s30,4543",detail,,<span class='scene-font-katari'>[플레이어]一行はビィの封印について</span><br><span class='scene-font-katari'>更なる情報を集めるため、</span><br><span class='scene-font-katari'>ザンクティンゼル唯一の村へと向かう。</span>
 English,"scene_cp45_q1_s10,4511",synopsis,,"While searching through old records left by the Crew of Enforcers' Fourth Fleet, Lecia comes across a passage from her father's log about a 'red dragon' and a 'girl in blue.' She fears that it may be a reference to Vyrn and Lyria."
 English,"scene_cp45_q1_s10,4511",detail,,At the archives of the Fourth Fleet of the Crew of Enforcers...
-English,"scene_cp45_q1_s10,4511",detail,,"[Djeeta] and the others dig through a mountain of materials in order to try and find something, anything, about Vyrn."
+English,"scene_cp45_q1_s10,4511",detail,,"[플레이어] and the others dig through a mountain of materials in order to try and find something, anything, about Vyrn."
 English,"scene_cp45_q1_s10,4511",detail,Io,"Ah! Got it! Oh, no, false alarm. This is just about lizards."
 English,"scene_cp45_q1_s10,4511",detail,Vyrn,Hey! Just how are you fishing up stuff like that?
 English,"scene_cp45_q1_s10,4511",detail,Io,"I'm looking for stuff about weird lizards of course! Sightings, ones that have been captured—stuff like that."
@@ -185,7 +185,7 @@ English,"scene_cp45_q1_s10,4511",detail,Eugen,Gah! The only thing squinting at t
 English,"scene_cp45_q1_s10,4511",detail,Lyria,"Ummm. Katalina, what does this word mean?"
 English,"scene_cp45_q1_s10,4511",detail,Katalina,Let me have a look.
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"Well. Personally, I'm not sure this is the best way to find information on anything at all, let alone about Vyrn."
-English,"scene_cp45_q1_s10,4511",detail,,[Djeeta] and the others look intently for any information on Vyrn in order to help defeat Yggdrasil Malice.
+English,"scene_cp45_q1_s10,4511",detail,,[플레이어] and the others look intently for any information on Vyrn in order to help defeat Yggdrasil Malice.
 English,"scene_cp45_q1_s10,4511",detail,,"However, searching through such a vast repository of knowledge gathered from all across the skies proves difficult."
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"That being said, we don't have any other choice. We need to find some kind of lead from somewhere."
 English,"scene_cp45_q1_s10,4511",detail,Lecia,Hold on! Look at this.
@@ -197,7 +197,7 @@ English,"scene_cp45_q1_s10,4511",detail,Lecia,Almost the entire front section is
 English,"scene_cp45_q1_s10,4511",detail,,"Lecia continues to leaf through the pages, but then suddenly stops."
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"A small red dragon'? With the ability to understand the language of skydwellers, a unique creature that can control the power of the stars?"
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"Its origin is unknown, but it possesses the ability to suppress the primal beasts and even the very essence of the Astrals!"
-English,"scene_cp45_q1_s10,4511",detail,Lecia,"Ah-ha! This is it, [Djeeta]! Look—Huh?"
+English,"scene_cp45_q1_s10,4511",detail,Lecia,"Ah-ha! This is it, [플레이어]! Look—Huh?"
 English,"scene_cp45_q1_s10,4511",detail,,"Lecia can't help but continue on, but what she finds in the pages is quite a surprise."
 English,"scene_cp45_q1_s10,4511",detail,Vyrn,"What's all the fuss, Lecia? You found somethin'?"
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"What? Yes! Yes, I have! Look!"
@@ -213,17 +213,17 @@ English,"scene_cp45_q1_s10,4511",detail,,"As the others bubble over her discover
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"The 'little red dragon' and the 'girl in blue' can never be reconciled. For their own sakes, they must remain apart."
 English,"scene_cp45_q1_s10,4511",detail,Lecia,This 'girl in blue.' Could it mean Lyria?
 English,"scene_cp45_q1_s10,4511",detail,Lecia,"The way this book talks about them, it almost makes it sound like she and Vyrn are enemies."
-English,"scene_cp45_q1_s10,4511",detail,,[Djeeta] and the others are excited to have found a fresh lead.
+English,"scene_cp45_q1_s10,4511",detail,,[플레이어] and the others are excited to have found a fresh lead.
 English,"scene_cp45_q1_s10,4511",detail,,"However, Lecia alone remains worried about this new and disturbing puzzle."
-English,"scene_cp45_q2_s10,4521",synopsis,,"Walfrid's log explains that Vyrn's abilities have been sealed in Zinkenstill, [Djeeta]'s home island. Curious to learn more about this seal, they continue toward the Grandcypher and Zinkenstill."
+English,"scene_cp45_q2_s10,4521",synopsis,,"Walfrid's log explains that Vyrn's abilities have been sealed in Zinkenstill, [플레이어]'s home island. Curious to learn more about this seal, they continue toward the Grandcypher and Zinkenstill."
 English,"scene_cp45_q2_s10,4521",detail,,The crew learns from a log left by Walfrid that Vyrn has the ability to suppress the power of the stars.
 English,"scene_cp45_q2_s10,4521",detail,,The log goes on to say that this ability of Vyrn's was sealed away in Zinkenstill.
-English,"scene_cp45_q2_s10,4521",detail,,"[Djeeta] and company make their way through the ruins of a war-torn town, heading for the Grandcypher in order to depart for Zinkenstill."
+English,"scene_cp45_q2_s10,4521",detail,,"[플레이어] and company make their way through the ruins of a war-torn town, heading for the Grandcypher in order to depart for Zinkenstill."
 English,"scene_cp45_q2_s10,4521",detail,Rackam,"Finally, some progress. If we go to Zinkenstill, then we're sure to find something."
-English,"scene_cp45_q2_s10,4521",detail,Eugen,"Still, I'm surprised this seal is on your home island, [Djeeta]."
+English,"scene_cp45_q2_s10,4521",detail,Eugen,"Still, I'm surprised this seal is on your home island, [플레이어]."
 English,"scene_cp45_q2_s10,4521",detail,Katalina,The island where our journey began...
-English,"scene_cp45_q2_s10,4521",detail,Vyrn,"Say, [Djeeta]. If this power is on Zinkenstill..."
-English,"scene_cp45_q2_s10,4521",detail,Vyrn,"That means it was probably [Djeeta]'s dad who sealed it there, right?"
+English,"scene_cp45_q2_s10,4521",detail,Vyrn,"Say, [플레이어]. If this power is on Zinkenstill..."
+English,"scene_cp45_q2_s10,4521",detail,Vyrn,"That means it was probably [플레이어]'s dad who sealed it there, right?"
 English,"scene_cp45_q2_s10,4521",detail,Vyrn,Why do you think he would do that to me?
 English,"scene_cp45_q2_s10,4521",detail,Vyrn,Do you really think it's okay for us to go and break it?
 English,"scene_cp45_q2_s10,4521",detail,Katalina,"We've no idea why your powers were sealed away, Vyrn."
@@ -233,7 +233,7 @@ English,"scene_cp45_q2_s10,4521",detail,Katalina,"And if your power can suppress
 English,"scene_cp45_q2_s10,4521",detail,Vyrn,...
 English,"scene_cp45_q2_s10,4521",detail,Lecia,"We're almost at the airship, everyone."
 English,"scene_cp45_q2_s10,4521",detail,Lecia,But monsters from the mountains have taken advantage of the chaos and have come down into town. We should proceed with caution.
-English,"scene_cp45_q2_s20,4522",synopsis,,"[Djeeta] and company are proceeding across Amalthea Island when they hear familiar voices. It's Drang and Sturm. Although less than pleased to see the pair again, the crew is unable to ignore Drang's pleas for help."
+English,"scene_cp45_q2_s20,4522",synopsis,,"[플레이어] and company are proceeding across Amalthea Island when they hear familiar voices. It's Drang and Sturm. Although less than pleased to see the pair again, the crew is unable to ignore Drang's pleas for help."
 English,"scene_cp45_q2_s20,4522",detail,???,Hey! Over here!
 English,"scene_cp45_q2_s20,4522",detail,Io,Hold on. Did anyone else just hear that?
 English,"scene_cp45_q2_s20,4522",detail,Rackam,Yeah. I think I heard a voice.
@@ -260,7 +260,7 @@ English,"scene_cp45_q2_s20,4522",detail,Lecia,...
 English,"scene_cp45_q2_s20,4522",detail,Monster,Rwaaaah!
 English,"scene_cp45_q2_s20,4522",detail,Sturm,Shall we just leave him?
 English,"scene_cp45_q2_s20,4522",detail,Drang,"Nooo! Sturm, have mercy!"
-English,"scene_cp45_q2_s20,4522",detail,Lecia,"Regardless of his actions, we can't leave anyone to such a fate! Let's help him, [Djeeta]!"
+English,"scene_cp45_q2_s20,4522",detail,Lecia,"Regardless of his actions, we can't leave anyone to such a fate! Let's help him, [플레이어]!"
 English,"scene_cp45_q3_s10,4531",synopsis,,"Drang and Sturm express their desire to save Apollonia, the Black Knight. Their true intentions seems suspect at first, but Orchis vouches for them. The party put their faith in Orchis, accept the two agents, and then head out into the skies aboard the Grandcypher."
 English,"scene_cp45_q3_s10,4531",detail,,"After defeating the monsters and saving Drang, the party asks the two miscreants for more information."
 English,"scene_cp45_q3_s10,4531",detail,Drang,"To tell you the truth, we want to save the Black Knight."
@@ -287,7 +287,7 @@ English,"scene_cp45_q3_s10,4531",detail,Drang,"You make it sound so calculating!
 English,"scene_cp45_q3_s10,4531",detail,Drang,"Oww! Hey, Sturm! We've talked about this! No stabbing without warning!"
 English,"scene_cp45_q3_s10,4531",detail,Katalina,"Well, everyone has their own matters to deal with."
 English,"scene_cp45_q3_s10,4531",detail,Io,"You're both as shady as ever, but this story seems solid."
-English,"scene_cp45_q3_s10,4531",detail,Orchis,[Djeeta]. I want to go with Sturm and Drang.
+English,"scene_cp45_q3_s10,4531",detail,Orchis,[플레이어]. I want to go with Sturm and Drang.
 English,"scene_cp45_q3_s10,4531",detail,Lyria,Orchis?
 English,"scene_cp45_q3_s10,4531",detail,Orchis,"These two, they're good people. I'm sure their intent is genuine."
 English,"scene_cp45_q3_s10,4531",detail,Orchis,"I don't understand everything Drang says, but he always gave me candy."
@@ -302,7 +302,7 @@ English,"scene_cp45_q3_s10,4531",detail,Lecia,Should we just be smiling and watc
 English,"scene_cp45_q3_s10,4531",detail,Rackam,"All right then! Like I always say, the more the merrier!"
 English,"scene_cp45_q3_s10,4531",detail,Rackam,"The Grandcypher's right there! Let's get aboard quick, before more monsters show up!"
 English,"scene_cp45_q4_s10,4541",synopsis,,"Gloom sets in on Vyrn as he tries to make sense of his supposed power that's been sealed away. When Lyria tries to console him, Lecia watches them from a distance in consternation of what their friendship may mean."
-English,"scene_cp45_q4_s10,4541",detail,,"[Djeeta] and the others head off toward Zinkenstill, where they hope to unlock Vyrn's true abilities."
+English,"scene_cp45_q4_s10,4541",detail,,"[플레이어] and the others head off toward Zinkenstill, where they hope to unlock Vyrn's true abilities."
 English,"scene_cp45_q4_s10,4541",detail,Vyrn,Sigh...
 English,"scene_cp45_q4_s10,4541",detail,Lyria,Vyrn? Is everything okay? You seem a little down.
 English,"scene_cp45_q4_s10,4541",detail,Vyrn,"Well, I guess I'm just nervous to be honest."
@@ -317,18 +317,18 @@ English,"scene_cp45_q4_s10,4541",detail,,Lecia watches the two converse from a d
 English,"scene_cp45_q4_s10,4541",detail,Lecia,...
 English,"scene_cp45_q4_s10,4541",detail,Lecia,(The 'little red dragon' and the 'girl in blue' can never be reconciled.)
 English,"scene_cp45_q4_s10,4541",detail,Lecia,(Father. Just what terrible secret did you uncover?)
-English,"scene_cp45_q4_s20,4542",synopsis,,[Djeeta] and the others come within sight of Zinkenstill and reminisce back to the start of their adventure. They stare in awe at the scenic nature of the island.
-English,"scene_cp45_q4_s20,4542",detail,,"The airship makes good time, and [Djeeta] and company are soon within sight of Zinkenstill, also known as Hermit Island."
+English,"scene_cp45_q4_s20,4542",synopsis,,[플레이어] and the others come within sight of Zinkenstill and reminisce back to the start of their adventure. They stare in awe at the scenic nature of the island.
+English,"scene_cp45_q4_s20,4542",detail,,"The airship makes good time, and [플레이어] and company are soon within sight of Zinkenstill, also known as Hermit Island."
 English,"scene_cp45_q4_s20,4542",detail,Lyria,"There it is, the place where our journey started."
 English,"scene_cp45_q4_s20,4542",detail,Katalina,I didn't expect to ever be here again. Not like this at least.
-English,"scene_cp45_q4_s20,4542",detail,Lecia,So this is the island where [Djeeta] was born.
+English,"scene_cp45_q4_s20,4542",detail,Lecia,So this is the island where [플레이어] was born.
 English,"scene_cp45_q4_s20,4542",detail,Io,Wow! It's quite different from Valtz. Look at how green it is!
 English,"scene_cp45_q4_s20,4542",detail,Drang,Indeed! It looks... very... err... rural.
 English,"scene_cp45_q4_s20,4542",detail,Drang,"Oh, no offense intended! Once I've made my millions, I'd love to retire to a quiet spot just like this! How about you, Sturm?"
 English,"scene_cp45_q4_s20,4542",detail,Sturm,Does it matter? You can worry about it when the time comes.
 English,"scene_cp45_q4_s20,4542",detail,Rackam,"Right guys, enough chitchat!"
 English,"scene_cp45_q4_s20,4542",detail,Rackam,Looks like some monsters are rolling out the welcome mat. Let's take them down!
-English,"scene_cp45_q4_s30,4543",synopsis,,"[Djeeta] and the others arrive on Zinkenstill. Katalina, seeking clues about Vyrn's sealed abilities, suggests they first visit the village where Vyrn used to live."
+English,"scene_cp45_q4_s30,4543",synopsis,,"[플레이어] and the others arrive on Zinkenstill. Katalina, seeking clues about Vyrn's sealed abilities, suggests they first visit the village where Vyrn used to live."
 English,"scene_cp45_q4_s30,4543",detail,,The crew moors the Grandcypher on the fringes of Zinkenstill and finally sets foot on the island.
 English,"scene_cp45_q4_s30,4543",detail,Vyrn,"Ah, that's the stuff! Inhale that lovely fresh air! This is just what I needed to calm me down."
 English,"scene_cp45_q4_s30,4543",sel1_txt,,It's nice to be home.
@@ -342,4 +342,4 @@ English,"scene_cp45_q4_s30,4543",detail,Drang,I'm with you! We can get the villa
 English,"scene_cp45_q4_s30,4543",detail,Drang,Oww! Hey!
 English,"scene_cp45_q4_s30,4543",detail,Sturm,I'll cook <span class='scene-font-italic'>you</span> up in a minute!
 English,"scene_cp45_q4_s30,4543",detail,Drang,All right! No need to get all jabby again...
-English,"scene_cp45_q4_s30,4543",detail,,"Seeking further information on how Vyrn's abilities were sealed away, the group heads toward [Djeeta]'s village—the only village on Zinkenstill."
+English,"scene_cp45_q4_s30,4543",detail,,"Seeking further information on how Vyrn's abilities were sealed away, the group heads toward [플레이어]'s village—the only village on Zinkenstill."

@@ -1,29 +1,29 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr535_ep1,synopsis,,とある日の夜更け。騎空艇の自室で眠る[ジータ]の頭の中に何者かが語りかけてくる。[ジータ]が目を覚ますと、突如風が唸り騎空艇が揺れ動く。原因を突き止めるため甲板に向かった[ジータ]の前に現れたのは、星晶獣グリームニルだった。グリームニルは様々な脅威に対抗する力を得るため、特異点である[ジータ]の旅に同行したいと願い出るのだった。
+Japanese,scene_fate_chr535_ep1,synopsis,,とある日の夜更け。騎空艇の自室で眠る[플레이어]の頭の中に何者かが語りかけてくる。[플레이어]が目を覚ますと、突如風が唸り騎空艇が揺れ動く。原因を突き止めるため甲板に向かった[플레이어]の前に現れたのは、星晶獣グリームニルだった。グリームニルは様々な脅威に対抗する力を得るため、特異点である[플레이어]の旅に同行したいと願い出るのだった。
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>とある日の夜更け──</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[ジータ]は疲れた身体を癒すように</span><br><span class='scene-font-katari'>騎空艇の自室で</span><br><span class='scene-font-katari'>ぐっすりと眠りについていた。</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>しかしその眠りを妨げるかのように、</span><br><span class='scene-font-katari'>何者かが[ジータ]の</span><br><span class='scene-font-katari'>頭の中に語りかけてくる。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[플레이어]は疲れた身体を癒すように</span><br><span class='scene-font-katari'>騎空艇の自室で</span><br><span class='scene-font-katari'>ぐっすりと眠りについていた。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>しかしその眠りを妨げるかのように、</span><br><span class='scene-font-katari'>何者かが[플레이어]の</span><br><span class='scene-font-katari'>頭の中に語りかけてくる。</span>
 Japanese,scene_fate_chr535_ep1,detail,？？？,<span class='scene-font-gray'>真実を追い求め彷徨いし者……</span><br><span class='scene-font-gray'>異端なる“特異点”よ。</span>
 Japanese,scene_fate_chr535_ep1,detail,？？？,<span class='scene-font-gray'>安寧の黄昏を捨て、</span><br><span class='scene-font-gray'>さぁ！ 今こそ覚醒を……！</span>
 Japanese,scene_fate_chr535_ep1,sel1_txt,,<span class='scene-font-katari'>誰かに呼ばれたような……？</span>
 Japanese,scene_fate_chr535_ep1,sel2_txt,,<span class='scene-font-katari'>（無視して寝る）</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>ベッドから起き上がった[ジータ]は</span><br><span class='scene-font-katari'>周囲に誰かいるのかと、</span><br><span class='scene-font-katari'>薄暗い部屋の中を見渡す。</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[ジータ]はうとうとしながらも</span><br><span class='scene-font-katari'>部屋に誰もいないことを確認し、</span><br><span class='scene-font-katari'>ふたたび眠りについた。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>ベッドから起き上がった[플레이어]は</span><br><span class='scene-font-katari'>周囲に誰かいるのかと、</span><br><span class='scene-font-katari'>薄暗い部屋の中を見渡す。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[플레이어]はうとうとしながらも</span><br><span class='scene-font-katari'>部屋に誰もいないことを確認し、</span><br><span class='scene-font-katari'>ふたたび眠りについた。</span>
 Japanese,scene_fate_chr535_ep1,detail,？？？,<span class='scene-font-gray'>あ、あれ？</span><br><span class='scene-font-gray'>聞こえてない？</span><br><span class='scene-font-gray'>いやいや、そんなことないよね！？</span>
 Japanese,scene_fate_chr535_ep1,detail,？？？,<span class='scene-font-gray'>あのあの！ 俺、俺！</span><br><span class='scene-font-gray'>俺だってー！</span>
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>刹那──</span><br><span class='scene-font-katari'>静寂を切り裂き風が唸った。</span>
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>直後、騎空艇は</span><br><span class='scene-font-katari'>嵐に巻き込まれたかのように</span><br><span class='scene-font-katari'>激しく揺れ動く。</span>
 Japanese,scene_fate_chr535_ep1,sel1_txt,,<span class='scene-font-katari'>…………！</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>只事ではないと直感した[ジータ]は</span><br><span class='scene-font-katari'>何が起きたのかを確かめる為、</span><br><span class='scene-font-katari'>甲板に向かって駆け出した。</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>騎空艇の甲板にやってきた</span><br><span class='scene-font-katari'>[ジータ]が目にしたのは──</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>只事ではないと直感した[플레이어]は</span><br><span class='scene-font-katari'>何が起きたのかを確かめる為、</span><br><span class='scene-font-katari'>甲板に向かって駆け出した。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>騎空艇の甲板にやってきた</span><br><span class='scene-font-katari'>[플레이어]が目にしたのは──</span>
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>躍り狂う暴風の渦中に立ち、</span><br><span class='scene-font-katari'>月明かりを浴びながら微笑む</span><br><span class='scene-font-katari'>藤色の髪の青年だった。</span>
 Japanese,scene_fate_chr535_ep1,detail,？？？,フッ、久しいな。<br>特異点よ……
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>風の試練が始まると推測した</span><br><span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>素早く剣を抜き放ち、臨戦態勢に入る。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>風の試練が始まると推測した</span><br><span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>素早く剣を抜き放ち、臨戦態勢に入る。</span>
 Japanese,scene_fate_chr535_ep1,detail,？？？,白刃を収めよ……<br>此処に降り立ったのは、<br>風の試練の為ではない。
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>藤色の髪の青年はそう告げると、</span><br><span class='scene-font-katari'>踊り狂っていた暴風を一瞬で掻き消し、</span><br><span class='scene-font-katari'>戦う気がないことを示す。</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[ジータ]は</span><br><span class='scene-font-katari'>事態が呑みこめないながらも、</span><br><span class='scene-font-katari'>言われた通りに剣を収めた。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>事態が呑みこめないながらも、</span><br><span class='scene-font-katari'>言われた通りに剣を収めた。</span>
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>用件を尋ねようとしたその時──</span>
-Japanese,scene_fate_chr535_ep1,detail,ルリア,[ジータ]！<br>さっきの揺れは一体……
+Japanese,scene_fate_chr535_ep1,detail,ルリア,[플레이어]！<br>さっきの揺れは一体……
 Japanese,scene_fate_chr535_ep1,detail,ビィ,うーん……不思議だよなぁ。<br>風も吹いてねーのに、<br>あんなに激しく揺れたんだもんな……
 Japanese,scene_fate_chr535_ep1,detail,ビィ,って、誰だコイツ？
 Japanese,scene_fate_chr535_ep1,detail,？？？,……ん？
@@ -42,12 +42,12 @@ Japanese,scene_fate_chr535_ep1,detail,ビィ,……お、おう。
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,あ、あれ？<br>ちょっと待って？<br>なんか引いてない？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,カッコよかったよね……<br>よね？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,なぁ！<br>なんか言ってくれよ！ 特異点～！
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>涙目のグリームニルから懇願された</span><br><span class='scene-font-katari'>[ジータ]は──</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>涙目のグリームニルから懇願された</span><br><span class='scene-font-katari'>[플레이어]は──</span>
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>気まずそうにしているビィとルリアに</span><br><span class='scene-font-katari'>彼こそが風の試練を与え、</span><br><span class='scene-font-katari'>力を与えてくれた星晶獣だと説明する。</span>
 Japanese,scene_fate_chr535_ep1,detail,ルリア,へぇ、そうだったんですね！<br>その節はお世話になりました！
 Japanese,scene_fate_chr535_ep1,detail,ルリア,グリームニルさんは、<br>今日も風の試練のために来たんですか？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,いや、違う。<br>此度の風は試練に非ず……
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>本題に戻ったグリームニルは、</span><br><span class='scene-font-katari'>神妙な様子で[ジータ]に向き直る。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>本題に戻ったグリームニルは、</span><br><span class='scene-font-katari'>神妙な様子で[플레이어]に向き直る。</span>
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,特異点が持ちし、異能の力。<br>意志に従い、其の禁忌に触れし時、<br>風は新たな輝きを得ん……
 Japanese,scene_fate_chr535_ep1,detail,ルリア,えっと……その……
 Japanese,scene_fate_chr535_ep1,detail,ビィ,オマエよぅ、なに言ってんのか<br>イマイチわかりづれぇな……
@@ -61,7 +61,7 @@ Japanese,scene_fate_chr535_ep1,detail,グリームニル,それはその……�
 Japanese,scene_fate_chr535_ep1,detail,ルリア,えぇっ？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,秘密は、秘密だ。
 Japanese,scene_fate_chr535_ep1,detail,ビィ,…………
-Japanese,scene_fate_chr535_ep1,detail,ビィ,……で、暴風の兄ちゃんはよぉ、<br>[ジータ]に試練を<br>与えるぐらいだからスゲェ強ぇんだろ？
+Japanese,scene_fate_chr535_ep1,detail,ビィ,……で、暴風の兄ちゃんはよぉ、<br>[플레이어]に試練を<br>与えるぐらいだからスゲェ強ぇんだろ？
 Japanese,scene_fate_chr535_ep1,detail,ビィ,そんなアンタが<br>オイラ達から学ぶことなんてあるのか？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,あぁ、そう確信している。<br>お前達との旅路の中で、必ずや<br>闇を祓う力を得ることになると……！
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,……特異点よ！<br>我は暴風、颶風の化身。<br>しかし今は、新たな力を求むそよ風。
@@ -76,9 +76,9 @@ Japanese,scene_fate_chr535_ep1,detail,グリームニル,ちょっと待って�
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,俺、すごいぞ？<br>嵐とか……起こせるしっ！<br>頑張るよ？ すっごーく頑張るよ！？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,<span class='scene-font-4'>なぁーー！</span><br>赤き竜と蒼の少女からも<br>頼んでくれよーー！
 Japanese,scene_fate_chr535_ep1,detail,ビィ,ははっ……必死だな……
-Japanese,scene_fate_chr535_ep1,detail,ルリア,[ジータ]、グリームニルさんも<br>こう言ってますし……<br>一緒に旅をしませんか？
+Japanese,scene_fate_chr535_ep1,detail,ルリア,[플레이어]、グリームニルさんも<br>こう言ってますし……<br>一緒に旅をしませんか？
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,な！？<br>頼むよ、特異点ーー！！
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[ジータ]は真剣に頼み込む</span><br><span class='scene-font-katari'>グリームニルとルリアを見て、</span><br><span class='scene-font-katari'>破顔した。</span>
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>[플레이어]は真剣に頼み込む</span><br><span class='scene-font-katari'>グリームニルとルリアを見て、</span><br><span class='scene-font-katari'>破顔した。</span>
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>そして、からかったことを詫び、</span><br><span class='scene-font-katari'>同行を許可する。</span>
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,なぁんだ、冗談だったのかぁ……！<br>よかったぁー！<br>もー、びっくりさせるなよぉー
 Japanese,scene_fate_chr535_ep1,detail,ルリア,ふふっ、よかったですね！
@@ -88,11 +88,11 @@ Japanese,scene_fate_chr535_ep1,detail,グリームニル,……ハッ！<br>ご�
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,では……共に蒼空の果てを目指そう！<br>我が颶風が汝の翼とならん！
 Japanese,scene_fate_chr535_ep1,detail,グリームニル,……へへ。<br>よろしくな、特異点。
 Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>こうして、人懐っこい笑顔を見せる</span><br><span class='scene-font-katari'>星晶獣グリームニルが仲間に加わった。</span>
-Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>闇を祓う力を手に入れんが為、</span><br><span class='scene-font-katari'>[ジータ]も彼から様々なことを</span><br><span class='scene-font-katari'>学んでいこうと思うのだった。</span>
-Japanese,scene_chr535_q1_s10,synopsis,,極寒の地であるノース・ヴァストに積み荷を届けにきた[ジータ]一行は、天候の急変による猛吹雪に遭い、視界が奪われて離れ離れになってしまう。このままでは危険だと察したグリームニルは、風の力で猛吹雪を跳ねのけると、一行の姿を探す。やっとのことでルリアを見つけたグリームニルは、その直後、殺気立つ魔物達の気配に気づくのだった。
+Japanese,scene_fate_chr535_ep1,detail,,<span class='scene-font-katari'>闇を祓う力を手に入れんが為、</span><br><span class='scene-font-katari'>[플레이어]も彼から様々なことを</span><br><span class='scene-font-katari'>学んでいこうと思うのだった。</span>
+Japanese,scene_chr535_q1_s10,synopsis,,極寒の地であるノース・ヴァストに積み荷を届けにきた[플레이어]一行は、天候の急変による猛吹雪に遭い、視界が奪われて離れ離れになってしまう。このままでは危険だと察したグリームニルは、風の力で猛吹雪を跳ねのけると、一行の姿を探す。やっとのことでルリアを見つけたグリームニルは、その直後、殺気立つ魔物達の気配に気づくのだった。
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>極寒の地、ノース・ヴァスト──</span>
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>つい先ほどまで澄み渡っていた蒼空は</span><br><span class='scene-font-katari'>瞬く間に暗雲に覆われ、凍てつくような</span><br><span class='scene-font-katari'>山颪（やまおろし）が吹き荒ぶ。</span>
-Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>そして気づけば風は雪を伴い、</span><br><span class='scene-font-katari'>猛吹雪となって</span><br><span class='scene-font-katari'>[ジータ]一行に襲い掛かる。</span>
+Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>そして気づけば風は雪を伴い、</span><br><span class='scene-font-katari'>猛吹雪となって</span><br><span class='scene-font-katari'>[플레이어]一行に襲い掛かる。</span>
 Japanese,scene_chr535_q1_s10,detail,ルリア,<span class='scene-font-4'>きゃあ！</span>
 Japanese,scene_chr535_q1_s10,detail,ビィ,大丈夫か、ルリア！？
 Japanese,scene_chr535_q1_s10,detail,ルリア,はい……なんとか……
@@ -100,7 +100,7 @@ Japanese,scene_chr535_q1_s10,detail,グリームニル,吹き荒ぶ白銀、爪�
 Japanese,scene_chr535_q1_s10,detail,グリームニル,<span class='scene-font-4'>……っはくしょん！</span>
 Japanese,scene_chr535_q1_s10,detail,グリームニル,うぅー！ 寒いな！？<br>みんな大丈夫かー！？
 Japanese,scene_chr535_q1_s10,detail,ビィ,天候が変わりやすいとは<br>聞いてたけどよぉ、<br>まさかこんな急に吹雪になるなんてな。
-Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>激しさを増していく吹雪によって、</span><br><span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>視界を遮られていく。</span>
+Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>激しさを増していく吹雪によって、</span><br><span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>視界を遮られていく。</span>
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>更に辺り一面が雪化粧となった大地は</span><br><span class='scene-font-katari'>光の乱反射により目を眩ませ、</span><br><span class='scene-font-katari'>方向感覚さえも狂わせる。</span>
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>所謂、ホワイトアウト現象である。</span>
 Japanese,scene_chr535_q1_s10,detail,グリームニル,しまった！<br>特異点！ 赤き竜！ 蒼の少女ー！
@@ -108,12 +108,12 @@ Japanese,scene_chr535_q1_s10,detail,グリームニル,……見失ったか。<
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>グリームニルは旋風を巻き起こすと、</span><br><span class='scene-font-katari'>それを鎧のように体に纏わせた。</span>
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>それにより吹雪を周囲に寄せ付けず、</span><br><span class='scene-font-katari'>視界を鮮明に保つ。</span>
 Japanese,scene_chr535_q1_s10,detail,グリームニル,……待っていろ！<br>必ず俺が助け出す！
-Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>グリームニルは</span><br><span class='scene-font-katari'>猛吹雪によって姿を隠された</span><br><span class='scene-font-katari'>[ジータ]達に雄々しく呼びかけた。</span>
-Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>──だが、待てど暮らせど</span><br><span class='scene-font-katari'>耳に届くのは風の轟音。</span><br><span class='scene-font-katari'>[ジータ]達の返事はない。</span>
+Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>グリームニルは</span><br><span class='scene-font-katari'>猛吹雪によって姿を隠された</span><br><span class='scene-font-katari'>[플레이어]達に雄々しく呼びかけた。</span>
+Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>──だが、待てど暮らせど</span><br><span class='scene-font-katari'>耳に届くのは風の轟音。</span><br><span class='scene-font-katari'>[플레이어]達の返事はない。</span>
 Japanese,scene_chr535_q1_s10,detail,グリームニル,何処だ……何処に居る……！
 Japanese,scene_chr535_q1_s10,detail,グリームニル,この吹雪は危険だ……！<br>一刻も早く探し出さねば……！
 Japanese,scene_chr535_q1_s10,detail,グリームニル,<span class='scene-font-4'>おーい、特異点ーっ！</span><br><span class='scene-font-4'>赤き竜ーっ！</span><br><span class='scene-font-4'>蒼の少女ーっ！！</span>
-Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>こうしてグリームニルは猛吹雪の中、</span><br><span class='scene-font-katari'>[ジータ]達を捜す為、</span><br><span class='scene-font-katari'>声を張り続けた。</span>
+Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>こうしてグリームニルは猛吹雪の中、</span><br><span class='scene-font-katari'>[플레이어]達を捜す為、</span><br><span class='scene-font-katari'>声を張り続けた。</span>
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>それから暫くして──</span>
 Japanese,scene_chr535_q1_s10,detail,？？？,<span class='scene-font-4'>グリームニルさーん！</span>
 Japanese,scene_chr535_q1_s10,detail,グリームニル,……っ！<br>その声は、蒼の少女か！
@@ -136,31 +136,31 @@ Japanese,scene_chr535_q1_s10,detail,ルリア,……グリームニルさん…�
 Japanese,scene_chr535_q1_s10,detail,グリームニル,問題は無い。
 Japanese,scene_chr535_q1_s10,detail,グリームニル,我が颶風の前では……<br>闇も、魔も、等しく無力だ！
 Japanese,scene_chr535_q1_s10,detail,,<span class='scene-font-katari'>グリームニルは猛吹雪のカーテンの</span><br><span class='scene-font-katari'>向こう側で蠢く魔物達に視線を移すと、</span><br><span class='scene-font-katari'>不敵な笑みを浮かべるのだった。</span>
-English,scene_fate_chr535_ep1,synopsis,,"Late one night, an invisible entity speaks to [Djeeta] in the captain's quarters. It wakes [Djeeta], and a sudden wind rocks the ship just a moment later. After rushing to the deck to investigate, the captain sees the primal beast Grimnir appear. Grimnir asks to travel together with [Djeeta], whom he refers to as Singularity."
+English,scene_fate_chr535_ep1,synopsis,,"Late one night, an invisible entity speaks to [플레이어] in the captain's quarters. It wakes [플레이어], and a sudden wind rocks the ship just a moment later. After rushing to the deck to investigate, the captain sees the primal beast Grimnir appear. Grimnir asks to travel together with [플레이어], whom he refers to as Singularity."
 English,scene_fate_chr535_ep1,detail,,The depths of night.
-English,scene_fate_chr535_ep1,detail,,"[Djeeta] is slumbering soundly in the captain's quarters, relieving the previous day's fatigue."
-English,scene_fate_chr535_ep1,detail,,"As if to interrupt the sleep, a voice begins speaking in [Djeeta]'s head."
+English,scene_fate_chr535_ep1,detail,,"[플레이어] is slumbering soundly in the captain's quarters, relieving the previous day's fatigue."
+English,scene_fate_chr535_ep1,detail,,"As if to interrupt the sleep, a voice begins speaking in [플레이어]'s head."
 English,scene_fate_chr535_ep1,detail,???,"You wanderer seeking truth, you heretical singularity!"
 English,scene_fate_chr535_ep1,detail,???,Cast aside your tranquil twilight slumber... Awaken!
 English,scene_fate_chr535_ep1,sel1_txt,,I think someone's calling me...
 English,scene_fate_chr535_ep1,sel2_txt,,(Ignore it and keep sleeping.)
-English,scene_fate_chr535_ep1,detail,,[Djeeta] rises from the bed and looks around to see whether there is anyone in the vicinity.
-English,scene_fate_chr535_ep1,detail,,The half-sleeping [Djeeta] makes sure that no one is in the room and returns to sleep.
+English,scene_fate_chr535_ep1,detail,,[플레이어] rises from the bed and looks around to see whether there is anyone in the vicinity.
+English,scene_fate_chr535_ep1,detail,,The half-sleeping [플레이어] makes sure that no one is in the room and returns to sleep.
 English,scene_fate_chr535_ep1,detail,???,"H-huh? Maybe the captain can't hear me... No, no, there's no way!"
 English,scene_fate_chr535_ep1,detail,???,"Um, excuse me! I... I... I'll have you know that—"
 English,scene_fate_chr535_ep1,detail,,"The following moment, a wind wails out and rends the silence."
 English,scene_fate_chr535_ep1,detail,,And the ship thrashes to and fro as if caught in a storm.
 English,scene_fate_chr535_ep1,sel1_txt,,...!
-English,scene_fate_chr535_ep1,detail,,"[Djeeta], intuiting that something unusual is afoot, rushes to the deck."
+English,scene_fate_chr535_ep1,detail,,"[플레이어], intuiting that something unusual is afoot, rushes to the deck."
 English,scene_fate_chr535_ep1,detail,,On the moonlit deck stands a figure—
 English,scene_fate_chr535_ep1,detail,,A lilac-haired youth grinning from the center of a mad cyclone.
 English,scene_fate_chr535_ep1,detail,???,"Heh, how long's it been, Singularity..."
-English,scene_fate_chr535_ep1,detail,,"Guessing that a wind trial is about to begin, [Djeeta] promptly draws a blade and assumes a battle stance."
+English,scene_fate_chr535_ep1,detail,,"Guessing that a wind trial is about to begin, [플레이어] promptly draws a blade and assumes a battle stance."
 English,scene_fate_chr535_ep1,detail,???,Sheathe your silver brand... I have not alighted here to present you with a trial of wind.
 English,scene_fate_chr535_ep1,detail,,The lilac-haired youth then extinguishes the cyclone to show his peaceful intentions.
-English,scene_fate_chr535_ep1,detail,,"Still unable to take in what's happening, [Djeeta] puts away the weapon as requested."
+English,scene_fate_chr535_ep1,detail,,"Still unable to take in what's happening, [플레이어] puts away the weapon as requested."
 English,scene_fate_chr535_ep1,detail,,The captain prepares to ask the figure his business when—
-English,scene_fate_chr535_ep1,detail,Lyria,[Djeeta]! What was that big shake...
+English,scene_fate_chr535_ep1,detail,Lyria,[플레이어]! What was that big shake...
 English,scene_fate_chr535_ep1,detail,Vyrn,"Hm... Sure is funny, huh? The wind's not blowing, but we got rocked around anyway..."
 English,scene_fate_chr535_ep1,detail,Vyrn,Who's he supposed to be?
 English,scene_fate_chr535_ep1,detail,???,Hm?
@@ -180,11 +180,11 @@ English,scene_fate_chr535_ep1,detail,Grimnir,"Huh? Hold on. You guys didn't thin
 English,scene_fate_chr535_ep1,detail,Grimnir,"It was seriously cool, right... Right?"
 English,scene_fate_chr535_ep1,detail,Grimnir,"Hey, say something, Singularity!"
 English,scene_fate_chr535_ep1,detail,,Tears well up in Grimnir's eyes.
-English,scene_fate_chr535_ep1,detail,,[Djeeta] explains to the wincing Vyrn and Lyria that Grimnir is the primal beast who previously gave them a wind trial and special powers.
+English,scene_fate_chr535_ep1,detail,,[플레이어] explains to the wincing Vyrn and Lyria that Grimnir is the primal beast who previously gave them a wind trial and special powers.
 English,scene_fate_chr535_ep1,detail,Lyria,"Oh, I see! Thank you for all your help!"
 English,scene_fate_chr535_ep1,detail,Lyria,Did you come to give us another wind trial?
 English,scene_fate_chr535_ep1,detail,Grimnir,"No, I have not. This wind was not that of any trial..."
-English,scene_fate_chr535_ep1,detail,,"Returning to the topic at hand, Grimnir speaks to [Djeeta] with fresh vigor."
+English,scene_fate_chr535_ep1,detail,,"Returning to the topic at hand, Grimnir speaks to [플레이어] with fresh vigor."
 English,scene_fate_chr535_ep1,detail,Grimnir,"Singularity, when you mold your unique might to your will and surpass all mortal logic, the wind is sure to glimmer as never before."
 English,scene_fate_chr535_ep1,detail,Lyria,"Um, so..."
 English,scene_fate_chr535_ep1,detail,Vyrn,"Y'know, I don't think I really get what you're sayin'..."
@@ -198,7 +198,7 @@ English,scene_fate_chr535_ep1,detail,Grimnir,"That's, uh... Um, yeah... It's a s
 English,scene_fate_chr535_ep1,detail,Lyria,Huh?
 English,scene_fate_chr535_ep1,detail,Grimnir,A secret's a secret.
 English,scene_fate_chr535_ep1,detail,Vyrn,...
-English,scene_fate_chr535_ep1,detail,Vyrn,"C'mon, Windy! You're supposed to be so super strong that you can put [Djeeta] through trials."
+English,scene_fate_chr535_ep1,detail,Vyrn,"C'mon, Windy! You're supposed to be so super strong that you can put [플레이어] through trials."
 English,scene_fate_chr535_ep1,detail,Vyrn,But you still think you're gonna learn from us?
 English,scene_fate_chr535_ep1,detail,Grimnir,"Yes, I'm positive of it. If I journey together with you, I'll certainly gain the power with which to dispel darkness."
 English,scene_fate_chr535_ep1,detail,Grimnir,"Singularity! I am the Mad Cyclone, Tempest Incarnate. But in this moment I am also a breeze seeking new power."
@@ -213,23 +213,23 @@ English,scene_fate_chr535_ep1,detail,Grimnir,W-wait a bit! Singularity! Think th
 English,scene_fate_chr535_ep1,detail,Grimnir,"I'm pretty amazing, you know? I can make storms and stuff! I'll work really hard. Reeeally hard!"
 English,scene_fate_chr535_ep1,detail,Grimnir,"Heeeey! Ask the captain for me, red dragon and girl in blue!"
 English,scene_fate_chr535_ep1,detail,Vyrn,Phew... He's really serious.
-English,scene_fate_chr535_ep1,detail,Lyria,"[Djeeta], since Grimnir's saying all that... Why don't we let him travel with us?"
+English,scene_fate_chr535_ep1,detail,Lyria,"[플레이어], since Grimnir's saying all that... Why don't we let him travel with us?"
 English,scene_fate_chr535_ep1,detail,Grimnir,"That's right! Come on, Singularity!"
-English,scene_fate_chr535_ep1,detail,,"Seeing the sincerity with which Grimnir and Lyria are pleading, [Djeeta] cracks a smile."
+English,scene_fate_chr535_ep1,detail,,"Seeing the sincerity with which Grimnir and Lyria are pleading, [플레이어] cracks a smile."
 English,scene_fate_chr535_ep1,detail,,The captain apologizes for teasing and grants Grimnir permission to join.
 English,scene_fate_chr535_ep1,detail,Grimnir,"What, you were just kidding? Good thing! Quit freaking me out already!"
 English,scene_fate_chr535_ep1,detail,Lyria,Heehee! Isn't that nice?
 English,scene_fate_chr535_ep1,detail,,Vyrn gives Grimnir a skeptical look.
-English,scene_fate_chr535_ep1,detail,Vyrn,Are you really as impressive as [Djeeta] says?
+English,scene_fate_chr535_ep1,detail,Vyrn,Are you really as impressive as [플레이어] says?
 English,scene_fate_chr535_ep1,detail,Grimnir,"Aah... Eh-hrm! Singularity, I am grateful for your consent!"
 English,scene_fate_chr535_ep1,detail,Grimnir,Let us then set our sights on the end of the blue sky! May my winds be your wings!
 English,scene_fate_chr535_ep1,detail,Grimnir,"Heh-heh! Thanks a bunch, Singularity!"
 English,scene_fate_chr535_ep1,detail,,"In this way, the grinning primal beast comes to join Grandcypher's crew."
-English,scene_fate_chr535_ep1,detail,,"Hoping to gain the power to dispel darkness, [Djeeta] also intends to learn from Grimnir."
-English,scene_chr535_q1_s10,synopsis,,"Visiting the frigid land of North Vast to deliver cargo, [Djeeta] and crew are caught in a sudden blizzard that obscures their sight and separates them from each other. Sensing how dangerous the situation is, Grimnir disperses the storm and attempts to track down the others. Just a moment after finding Lyria, the god of war realizes that lethal monsters are nearby."
+English,scene_fate_chr535_ep1,detail,,"Hoping to gain the power to dispel darkness, [플레이어] also intends to learn from Grimnir."
+English,scene_chr535_q1_s10,synopsis,,"Visiting the frigid land of North Vast to deliver cargo, [플레이어] and crew are caught in a sudden blizzard that obscures their sight and separates them from each other. Sensing how dangerous the situation is, Grimnir disperses the storm and attempts to track down the others. Just a moment after finding Lyria, the god of war realizes that lethal monsters are nearby."
 English,scene_chr535_q1_s10,detail,,The frigid land of North Vast.
 English,scene_chr535_q1_s10,detail,,"The sky—blue just moments ago—is suddenly covered with leaden clouds, and an arctic wind blows down the mountain slopes."
-English,scene_chr535_q1_s10,detail,,"That wind is accompanied by snow, which before long turns into a merciless blizzard that sets upon [Djeeta] and the others."
+English,scene_chr535_q1_s10,detail,,"That wind is accompanied by snow, which before long turns into a merciless blizzard that sets upon [플레이어] and the others."
 English,scene_chr535_q1_s10,detail,Lyria,Eeek!
 English,scene_chr535_q1_s10,detail,Vyrn,"Are you okay, Lyria?"
 English,scene_chr535_q1_s10,detail,Lyria,Yes... I think so...
@@ -245,12 +245,12 @@ English,scene_chr535_q1_s10,detail,Grimnir,I lost sight of them. Agh... How path
 English,scene_chr535_q1_s10,detail,,Grimnir stirs up a whirlwind and puts it on like a form of armor.
 English,scene_chr535_q1_s10,detail,,"As a result, the blizzard is unable to get near him, which ensures a clean line of sight."
 English,scene_chr535_q1_s10,detail,Grimnir,Wait just a bit! I'll rescue you no matter what!
-English,scene_chr535_q1_s10,detail,,The lilac-haired youth lets out a hardy cry to [Djeeta] and the others who were swallowed up by the blizzard.
+English,scene_chr535_q1_s10,detail,,The lilac-haired youth lets out a hardy cry to [플레이어] and the others who were swallowed up by the blizzard.
 English,scene_chr535_q1_s10,detail,,But the only response is the whipping of the wind.
 English,scene_chr535_q1_s10,detail,Grimnir,Where... Where are they?
 English,scene_chr535_q1_s10,detail,Grimnir,This blizzard is too dangerous... There's no time left to lose—I have to find them!
 English,scene_chr535_q1_s10,detail,Grimnir,"Heeey, Singularity! Red dragon! Girl in blue!"
-English,scene_chr535_q1_s10,detail,,"Grimnir continues to cry out into the blizzard, hoping to find [Djeeta] and company again."
+English,scene_chr535_q1_s10,detail,,"Grimnir continues to cry out into the blizzard, hoping to find [플레이어] and company again."
 English,scene_chr535_q1_s10,detail,,A short time later—
 English,scene_chr535_q1_s10,detail,???,Grimnir!
 English,scene_chr535_q1_s10,detail,Grimnir,That voice—it's the girl in blue!

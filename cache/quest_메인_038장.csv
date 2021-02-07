@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp38_q1_s10,3811",synopsis,,リーシャが一行に伝えた情報は、そもそもフリーシアが一行をおびき寄せるためにわざと流させたものだった。一行は帝国の罠を突破するため剣を構える。
-Japanese,"scene_cp38_q1_s10,3811",detail,,<span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>を訪れた</span><br><span class='scene-font-katari'>[ジータ]一行を、</span><br><span class='scene-font-katari'>兵と共に待ち構えていた宰相フリーシア。</span>
+Japanese,"scene_cp38_q1_s10,3811",detail,,<span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>を訪れた</span><br><span class='scene-font-katari'>[플레이어]一行を、</span><br><span class='scene-font-katari'>兵と共に待ち構えていた宰相フリーシア。</span>
 Japanese,"scene_cp38_q1_s10,3811",detail,,<span class='scene-font-katari'>倒れ伏す秩序の騎空団員を嘲笑うように</span><br><span class='scene-font-katari'>フリーシアは</span><br><span class='scene-font-katari'>不気味な笑みを浮かべるのだった。</span>
 Japanese,"scene_cp38_q1_s10,3811",detail,フリーシア,それにしても……<br>ずいぶんと時間がかかったものですね。
 Japanese,"scene_cp38_q1_s10,3811",detail,フリーシア,我々が<span class='scene-font-place'>ルーマシー</span>に居ることは、<br>秩序の騎空団を通じて、<br>早々に伝わっていたと思いますが……
@@ -38,7 +38,7 @@ Japanese,"scene_cp38_q2_s10,3821",detail,フリーシア,しかし、私の目�
 Japanese,"scene_cp38_q2_s10,3821",detail,フリーシア,必要だと判断すれば、<br>「マリス」は使用します。<br>よろしいですね？
 Japanese,"scene_cp38_q2_s10,3821",detail,제국병,はっ！
 Japanese,"scene_cp38_q2_s20,3822",synopsis,,一行が宰相フリーシアを追い詰めるも、彼女は余裕の笑みを崩さない。オルキスとルリアを使って何をするつもりなのか、という黒騎士の問いにフリーシアは笑みを浮かべたまま、世界のあるべき姿を取り戻そうとしているに過ぎない、と答えるのだった。
-Japanese,"scene_cp38_q2_s20,3822",detail,,<span class='scene-font-katari'>[ジータ]一行は帝国兵達を蹴散らし、</span><br><span class='scene-font-katari'>徐々に宰相フリーシアを追い詰めていく。</span>
+Japanese,"scene_cp38_q2_s20,3822",detail,,<span class='scene-font-katari'>[플레이어]一行は帝国兵達を蹴散らし、</span><br><span class='scene-font-katari'>徐々に宰相フリーシアを追い詰めていく。</span>
 Japanese,"scene_cp38_q2_s20,3822",detail,,<span class='scene-font-katari'>しかし、フリーシアが</span><br><span class='scene-font-katari'>その笑みを崩すことはなかった。</span>
 Japanese,"scene_cp38_q2_s20,3822",detail,흑기사,フリーシア……<br>貴様、何が目的だ？
 Japanese,"scene_cp38_q2_s20,3822",detail,흑기사,答えてもらうぞ……<br>あの人形とルリアを利用して、<br>このルーマシーで何をするつもりだ？
@@ -67,7 +67,7 @@ Japanese,"scene_cp38_q3_s10,3831",detail,이오,ね、ねぇ……<br>話の腰�
 Japanese,"scene_cp38_q3_s10,3831",detail,흑기사,星晶獣アーカーシャ……<br>私もその存在は、<br>伝説上のものだと思っていたが……
 Japanese,"scene_cp38_q3_s10,3831",detail,흑기사,アーカーシャは<br>覇空戦争末期に星の民によって、<br>最終兵器として作られた星晶獣であり……
 Japanese,"scene_cp38_q3_s10,3831",detail,흑기사,歴史そのものに干渉し、<br>世界を書き換える力を持つ星晶獣だ。
-Japanese,"scene_cp38_q3_s20,3832",synopsis,,神のごとき力を持つ星晶獣アーカーシャの存在に動揺する[ジータ]一行。しかし、その存在は確かなものであり、アーカーシャを使い空の世界にとって異物である星の民を存在ごと抹消する計画をフリーシアは明かす。
+Japanese,"scene_cp38_q3_s20,3832",synopsis,,神のごとき力を持つ星晶獣アーカーシャの存在に動揺する[플레이어]一行。しかし、その存在は確かなものであり、アーカーシャを使い空の世界にとって異物である星の民を存在ごと抹消する計画をフリーシアは明かす。
 Japanese,"scene_cp38_q3_s20,3832",detail,라캄,せ、世界を書き換える星晶獣だぁ……？
 Japanese,"scene_cp38_q3_s20,3832",detail,카타리나,それはつまり……<br>過去に起こった出来事を改竄し、<br>いまの世界を作りかえるということか？
 Japanese,"scene_cp38_q3_s20,3832",detail,카타리나,しかし、そんなこと……<br>そんなことはもはや、<br>創世神の所業じゃないか！
@@ -79,7 +79,7 @@ Japanese,"scene_cp38_q3_s20,3832",detail,フリーシア,ふふ……しかし�
 Japanese,"scene_cp38_q3_s20,3832",detail,フリーシア,星の民という異物を……<br>歴史の侵略者を……<br>その存在ごと抹消する。
 Japanese,"scene_cp38_q3_s20,3832",detail,フリーシア,アーカーシャを使い、<br>歴史の汚点を……<br>星の民の存在自体を無かったことにする。
 Japanese,"scene_cp38_q3_s20,3832",detail,フリーシア,そうして……<br>我らがエルステ王国は、<br>悠久の繁栄に返り咲くのです。
-Japanese,"scene_cp38_q4_s10,3841",synopsis,,最悪の場合、世界そのものが消滅しかねないフリーシアの危険な計画に戦慄する[ジータ]一行。いままで旅をしてきたこの世界を守るため、そしてオルキスを取り戻すため、一行はフリーシアを止める決意を新たにする。
+Japanese,"scene_cp38_q4_s10,3841",synopsis,,最悪の場合、世界そのものが消滅しかねないフリーシアの危険な計画に戦慄する[플레이어]一行。いままで旅をしてきたこの世界を守るため、そしてオルキスを取り戻すため、一行はフリーシアを止める決意を新たにする。
 Japanese,"scene_cp38_q4_s10,3841",detail,비이,け、けどよぅ……！<br>歴史から星の民の存在が消えたとして、<br>いったい何が起こるってんだ？
 Japanese,"scene_cp38_q4_s10,3841",detail,흑기사,一言で言って……<br>何が起こるか誰もわからない。
 Japanese,"scene_cp38_q4_s10,3841",detail,흑기사,オルキスの父君の話では、<br>アーカーシャは使われることなく、<br>封印されていたはずだ。
@@ -95,7 +95,7 @@ Japanese,"scene_cp38_q4_s10,3841",detail,흑기사,そして、<br>星の民を�
 Japanese,"scene_cp38_q4_s10,3841",detail,라캄,いまだに信じられねぇ部分もあるが……<br>つまり、あの宰相サンを止めれば、<br>万事解決ってわけだな！
 Japanese,"scene_cp38_q4_s10,3841",detail,이오,そうよね！<br>よくわかんないけど、<br>結局やることは変わんないわ！
 Japanese,"scene_cp38_q4_s10,3841",detail,라캄,腹は決まったぜ！<br>さっさとオルキスちゃんを取り返して、<br>そのヤバそうな計画も潰してやらぁ！
-Japanese,"scene_cp38_q4_s20,3842",synopsis,,帝国兵達をなぎ倒しフリーシアを追い詰める一行。それでも余裕の笑みを崩さないフリーシアは懐から魔晶を取り出し、リヴァイアサンとミスラの２体の星晶獣を自ら操って[ジータ]一行にけしかける。
+Japanese,"scene_cp38_q4_s20,3842",synopsis,,帝国兵達をなぎ倒しフリーシアを追い詰める一行。それでも余裕の笑みを崩さないフリーシアは懐から魔晶を取り出し、リヴァイアサンとミスラの２体の星晶獣を自ら操って[플레이어]一行にけしかける。
 Japanese,"scene_cp38_q4_s20,3842",detail,카타리나,宰相殿、悪いが私達は、<br>宰相殿の計画に賛同することは出来ない。
 Japanese,"scene_cp38_q4_s20,3842",detail,카타리나,いまのこの世界を失うわけにはいかない。<br>そして、<br>ルリアを宰相殿に渡すつもりもない！
 Japanese,"scene_cp38_q4_s20,3842",detail,흑기사,どうするフリーシア？<br>お前の手勢は、<br>大半がもはや相手にならんぞ。
@@ -111,8 +111,8 @@ Japanese,"scene_cp38_q4_s20,3842",detail,카타리나,せ、星晶獣を同時�
 Japanese,"scene_cp38_q4_s20,3842",detail,로제타,それに魔晶そのものの力も、<br>以前とは比べ物にならないほど<br>強くなってるわ……
 Japanese,"scene_cp38_q4_s20,3842",detail,로제타,オルキスちゃん無しで、<br>これだけの星晶獣を支配するなんて……
 Japanese,"scene_cp38_q4_s20,3842",detail,이오,一体一体でも苦戦したのに……<br>勝てるの、これ！？
-Japanese,"scene_cp38_q4_s20,3842",detail,라캄,やるしかねぇだろ！<br>ここで勝たなきゃ、世界がヤバいんだ！<br>気合入れろよ！ [ジータ]！
-Japanese,"scene_cp38_q4_s30,3843",synopsis,,２体の星晶獣を辛くも退ける[ジータ]一行。「マリス」の使用を口にし、その場を去ろうとするフリーシアを追うも、帝国兵達に阻まれ一行はフリーシアの姿を見失ってしまう。
+Japanese,"scene_cp38_q4_s20,3842",detail,라캄,やるしかねぇだろ！<br>ここで勝たなきゃ、世界がヤバいんだ！<br>気合入れろよ！ [플레이어]！
+Japanese,"scene_cp38_q4_s30,3843",synopsis,,２体の星晶獣を辛くも退ける[플레이어]一行。「マリス」の使用を口にし、その場を去ろうとするフリーシアを追うも、帝国兵達に阻まれ一行はフリーシアの姿を見失ってしまう。
 Japanese,"scene_cp38_q4_s30,3843",detail,,<span class='scene-font-5'>――――！！</span>
 Japanese,"scene_cp38_q4_s30,3843",detail,카타리나,はぁ……はぁ……<br>た、倒したのか……？
 Japanese,"scene_cp38_q4_s30,3843",detail,루리아,だ、大丈夫！？ カタリナ！
@@ -127,10 +127,10 @@ Japanese,"scene_cp38_q4_s30,3843",detail,帝国兵２,宰相閣下をお守り�
 Japanese,"scene_cp38_q4_s30,3843",detail,흑기사,くっ……！<br>雑魚共が……！！
 Japanese,"scene_cp38_q4_s30,3843",detail,フリーシア,後ほど、<br>またお会いしましょう……
 Japanese,"scene_cp38_q4_s30,3843",detail,フリーシア,そのときこそ、<br>ルリアを必ず、我が手中に……
-Japanese,"scene_cp38_q4_s30,3843",detail,,<span class='scene-font-katari'>そう言い残し、</span><br><span class='scene-font-katari'>フリーシアは</span><br><span class='scene-font-katari'>[ジータ]一行の前から姿を消す。</span>
+Japanese,"scene_cp38_q4_s30,3843",detail,,<span class='scene-font-katari'>そう言い残し、</span><br><span class='scene-font-katari'>フリーシアは</span><br><span class='scene-font-katari'>[플레이어]一行の前から姿を消す。</span>
 Japanese,"scene_cp38_q4_s30,3843",detail,,<span class='scene-font-katari'>しかし、その顔にもはや笑みはなく、</span><br><span class='scene-font-katari'>激しくも冷たい視線が、</span><br><span class='scene-font-katari'>ルリアを見据えていたのだった。</span>
 English,"scene_cp38_q1_s10,3811",synopsis,,The crew learn that the information Lecia gave them was bait for an imperial trap.
-English,"scene_cp38_q1_s10,3811",detail,,"Upon arriving at the Lumacie Archipelago, [Djeeta] and the crew find that Prime Minister Freesia had been expecting them."
+English,"scene_cp38_q1_s10,3811",detail,,"Upon arriving at the Lumacie Archipelago, [플레이어] and the crew find that Prime Minister Freesia had been expecting them."
 English,"scene_cp38_q1_s10,3811",detail,,"Freesia smiles at the fallen Enforcers, her sneer as sinister as her actions."
 English,"scene_cp38_q1_s10,3811",detail,Freesia,It certainly took you all long enough.
 English,"scene_cp38_q1_s10,3811",detail,Freesia,"Using the Crew of Enforcers should have produced faster results, and yet..."
@@ -168,7 +168,7 @@ English,"scene_cp38_q2_s10,3821",detail,Freesia,However. My goal is <span class=
 English,"scene_cp38_q2_s10,3821",detail,Freesia,"If I deem it necessary, I will use <span class='scene-font-italic'>Malice</span>. Is that understood?"
 English,"scene_cp38_q2_s10,3821",detail,Imperial Soldier,"Yes, ma'am!"
 English,"scene_cp38_q2_s20,3822",synopsis,,Freesia is asked why she requires Orchis and Lyria. She answers that she wishes to return the world to its former glory.
-English,"scene_cp38_q2_s20,3822",detail,,"After [Djeeta] and the crew take out the imperial soldiers, they stand ready to confront Prime Minister Freesia."
+English,"scene_cp38_q2_s20,3822",detail,,"After [플레이어] and the crew take out the imperial soldiers, they stand ready to confront Prime Minister Freesia."
 English,"scene_cp38_q2_s20,3822",detail,,"Her sinister smile, however, doesn't so much as quiver."
 English,"scene_cp38_q2_s20,3822",detail,Black Knight,Freesia. Answer me this...
 English,"scene_cp38_q2_s20,3822",detail,Black Knight,"What are you after? What do you intend to do here on Lumacie, and what use do you have with Lyria and that doll?"
@@ -209,7 +209,7 @@ English,"scene_cp38_q3_s20,3832",detail,Freesia,"Hehe. Thanks to them, I'll be t
 English,"scene_cp38_q3_s20,3832",detail,Freesia,The Astrals. The invaders and contaminators of our history—I'll obliterate their very existence.
 English,"scene_cp38_q3_s20,3832",detail,Freesia,"I'll use Akasha to heal the scars of our history, as if the Astrals never existed."
 English,"scene_cp38_q3_s20,3832",detail,Freesia,And in doing so... Our beloved Erste Kingdom will once again rise to eternal prosperity.
-English,"scene_cp38_q4_s10,3841",synopsis,,[Djeeta] and the crew discuss the potential consequences of Freesia's plot if it were to come to fruition.
+English,"scene_cp38_q4_s10,3841",synopsis,,[플레이어] and the crew discuss the potential consequences of Freesia's plot if it were to come to fruition.
 English,"scene_cp38_q4_s10,3841",detail,Vyrn,"But, but... Say you <span class='scene-font-italic'>do</span> erase the Astrals from history, what do you think would happen?"
 English,"scene_cp38_q4_s10,3841",detail,Black Knight,"To simplify a complicated matter, we have no idea what will happen."
 English,"scene_cp38_q4_s10,3841",detail,Black Knight,Orchis's father once said that Akasha was sealed away without having ever been used.
@@ -241,7 +241,7 @@ English,"scene_cp38_q4_s20,3842",detail,Katalina,Two primal beasts at once?
 English,"scene_cp38_q4_s20,3842",detail,Rosetta,"And to add to that, the power of this essence is far stronger than any we've encountered before."
 English,"scene_cp38_q4_s20,3842",detail,Rosetta,How is she able to control such powerful primals without Orchis...
 English,"scene_cp38_q4_s20,3842",detail,Io,These things were hard enough to fight when it was one-on-four. Can we really win this?
-English,"scene_cp38_q4_s20,3842",detail,Rackam,"We've gotta try! If we don't win now, then that's it for the world! Get ready, [Djeeta]!"
+English,"scene_cp38_q4_s20,3842",detail,Rackam,"We've gotta try! If we don't win now, then that's it for the world! Get ready, [플레이어]!"
 English,"scene_cp38_q4_s30,3843",synopsis,,"After defeating the two primal beasts, Freesia states that she will use something called malice. She leaves the crew with her soldiers."
 English,"scene_cp38_q4_s30,3843",detail,,...!
 English,"scene_cp38_q4_s30,3843",detail,Katalina,Pant... Pant... Did we beat them?
@@ -258,4 +258,4 @@ English,"scene_cp38_q4_s30,3843",detail,Black Knight,Ngh! You damn fools!
 English,"scene_cp38_q4_s30,3843",detail,Freesia,Looking forward to meeting you again.
 English,"scene_cp38_q4_s30,3843",detail,Freesia,"And when we do, know that Lyria will be mine..."
 English,"scene_cp38_q4_s30,3843",detail,,Freesia walks away until the crew can no longer catch sight of her.
-English,"scene_cp38_q4_s30,3843",detail,,"But before she completely disappears out of view, [Djeeta] sees that her cool smile has changed to an icy gaze—a gaze that she fixes on Lyria."
+English,"scene_cp38_q4_s30,3843",detail,,"But before she completely disappears out of view, [플레이어] sees that her cool smile has changed to an icy gaze—a gaze that she fixes on Lyria."

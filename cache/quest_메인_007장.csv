@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp7_q1_s10,711",synopsis,,幾度となく<span>[ジータ]</span>一行の行く手を阻む機械の魔物。その残骸を任されたシェロは、残骸を調査することで<span>[ジータ]</span>一行に新たな手がかりを指し示した。,수없이<span>[지타]</span>일행의 앞길을 가로막는 기계의 마물그 잔해를 맡은 셰로는 잔해를 조사함으로써 <span>[지타]</span>일행에게 새로운 단서를 지시했다.
+Japanese,"scene_cp7_q1_s10,711",synopsis,,幾度となく<span>[플레이어]</span>一行の行く手を阻む機械の魔物。その残骸を任されたシェロは、残骸を調査することで<span>[플레이어]</span>一行に新たな手がかりを指し示した。,수없이<span>[플레이어]</span>일행의 앞길을 가로막는 기계의 마물그 잔해를 맡은 셰로는 잔해를 조사함으로써 <span>[플레이어]</span>일행에게 새로운 단서를 지시했다.
 Japanese,"scene_cp7_q1_s10,711",detail,,<span class='scene-font-katari'>ルリアの言葉に希望を見出したイオは</span><br><span class='scene-font-katari'>すっかりいつもの気丈さを</span><br><span class='scene-font-katari'>取り戻していた。</span>,<span class='scene-font-katari>루리아의 말에서 희망을 찾은 이오는 </span><br><span class='scene-font-katari>완전히 평소의 꿋꿋함을 </span><br><span class='scene-font-katari><span><span><span><span class><span class><span class><span class><span class
 Japanese,"scene_cp7_q1_s10,711",detail,이오,ん？ なによ、ラカム。<br>人前で泣き崩れてた美少女が<br>そんなに珍しいっての？,어? 뭐야 라캄. 사람들 앞에서 울음을 터뜨린 미소녀가 그렇게 신기하다고?
 Japanese,"scene_cp7_q1_s10,711",detail,라캄,お！ だいぶ落ち着いたみてぇだな。<br>威勢が戻ってら。<br>で、どうすんだ？,오! 많이 가라앉은 것 같은데?<br>위세가 돌아오면.<br>에서 어떻게 해?
@@ -7,13 +7,13 @@ Japanese,"scene_cp7_q1_s10,711",detail,이오,……一度の呼びかけで<br>
 Japanese,"scene_cp7_q1_s10,711",detail,루리아,ですです！<br>イオちゃんが呼びかけた時<br>あの機械、一瞬止まってましたもん！,"입니다! 이오가 호소했을때 저 기계, 순간 멈췄거든요!"
 Japanese,"scene_cp7_q1_s10,711",detail,셰로카르테,はいは～い。<br>そんな皆さんに朗報で～す。<br>あの機械の魔物ですけどね～,네~ 네~ <br> 그런 여러분께 좋은 소식입니다.저 기계의 마물 말인데요～
 Japanese,"scene_cp7_q1_s10,711",detail,셰로카르테,残骸を調べたところ、<br>どうやら超高熱にも耐えられるように<br>作られてたみたいですよ～,"잔해를 조사한 결과,<br>아무래도 초고열에도 견딜 수 있도록<br>만들어져 있었던 것 같아요~"
-Japanese,"scene_cp7_q1_s10,711",detail,비이,おお！ 本当かっ！？<br>なにかのヒントになりそうだぜ！<br>なぁ？ [ジータ]！,오오! 정말인가!?뭔가 힌트가 될 것 같아! 그치? [지타]
+Japanese,"scene_cp7_q1_s10,711",detail,비이,おお！ 本当かっ！？<br>なにかのヒントになりそうだぜ！<br>なぁ？ [플레이어]！,오오! 정말인가!?뭔가 힌트가 될 것 같아! 그치? [플레이어]
 Japanese,"scene_cp7_q1_s10,711",detail,셰로카르테,材質にピントを合わせて調べたのが、<br>功を奏したみたいですね～！,재질에 초점을 맞추어 조사한게 <br> 주효한 것 같네요~!
 Japanese,"scene_cp7_q1_s10,711",detail,셰로카르테,……ヒントだけに……ぶふっ！！,......힌트인만큼.....후훗!!
 Japanese,"scene_cp7_q1_s10,711",detail,라캄,高温に耐える機械か。<br>となれば、高温に耐える用途か<br>必要性があるってことだよな。,"고온에 견디는 기계인가.<br>이 되면, 고온에 견딜 수 있는 용도인지 <br> 필요성이 있다는 거지?"
 Japanese,"scene_cp7_q1_s10,711",detail,이오,この島で超高温と言えば溶岩ね！<br>砂漠を超えた先に、<br>溶岩の湖があったはずよ。,이 섬에서 초고온 하면 용암이지! <br> 사막을 넘어 <br> 용암 호수가 있었을 거야.
 Japanese,"scene_cp7_q1_s10,711",detail,이오,案内するわ！<br>早速出発するわよ！,안내할게!!<br>곧 출발해요!!
-Japanese,"scene_cp7_q1_s20,712",synopsis,,溶岩の揺蕩う湖を目指し砂漠を進む<span>[ジータ]</span>一行に、休みなく次々と砂漠の魔物達が襲いかかってくる。,용암이 흔들리는 호수를 향해 사막을 나아가는 <span>[지타]</span>일행에 쉴새없이 차례로 사막의 마물들이 덮친다.
+Japanese,"scene_cp7_q1_s20,712",synopsis,,溶岩の揺蕩う湖を目指し砂漠を進む<span>[플레이어]</span>一行に、休みなく次々と砂漠の魔物達が襲いかかってくる。,용암이 흔들리는 호수를 향해 사막을 나아가는 <span>[플레이어]</span>일행에 쉴새없이 차례로 사막의 마물들이 덮친다.
 Japanese,"scene_cp7_q1_s20,712",detail,비이,あ、ああ、あっちぃぃ～！,"아, 아아, 저쪽 좋아~!"
 Japanese,"scene_cp7_q1_s20,712",detail,라캄,<span class='scene-font-4'>ア、アア、アットゥ～イ！！</span>,<span class='scene-font-4'>아아아아악뚜이!!</span>
 Japanese,"scene_cp7_q1_s20,712",detail,이오,その言い方、<br>ムカつくからやめてくんない？,"그 말투, <br> 짜증나니까 그만해 줄래?"
@@ -24,7 +24,7 @@ Japanese,"scene_cp7_q1_s20,712",detail,카타리나,ははは、何を言って�
 Japanese,"scene_cp7_q1_s20,712",detail,카타리나,私も先ほどから熱くて熱くて、<br>ちょうど眩暈がしていたところだよ。,나도 아까부터 뜨겁고 뜨거워서 <br> 막 현기증이 나던 참이야.
 Japanese,"scene_cp7_q1_s20,712",detail,루리아,カ、カタリナ！<br>私はこっちだよー！<br>どこに向かって話してるの！？,"카, 카타리나!<br>나는 이쪽이야!<br>어디에 대고 얘기하는거야!?"
 Japanese,"scene_cp7_q1_s20,712",detail,라캄,へばってる場合じゃないみてぇだぞ！<br>こんな場所でもご丁寧に<br>魔物は襲ってくるからな！,녹초가 될 때가 아닌 것 같아!<br>이런 장소에서도 정성껏<br>마물은 덮쳐올테니까!
-Japanese,"scene_cp7_q2_s10,721",synopsis,,<span>[ジータ]</span>一行はイオの案内で溶岩の湖を目指す道中、ラカムは目的の見えない大公への疑問を口にする。,"<span>[지타]</span>일행은 이오의 안내로 용암호수를 향해 가는 도중, 라캄은 목적지 보이지 않는 대공에 대한 의문을 입에 올린다."
+Japanese,"scene_cp7_q2_s10,721",synopsis,,<span>[플레이어]</span>一行はイオの案内で溶岩の湖を目指す道中、ラカムは目的の見えない大公への疑問を口にする。,"<span>[플레이어]</span>일행은 이오의 안내로 용암호수를 향해 가는 도중, 라캄은 목적지 보이지 않는 대공에 대한 의문을 입에 올린다."
 Japanese,"scene_cp7_q2_s10,721",detail,이오,もう少しで砂漠も終わりね。,사막도 이제 곧 끝나는구나.
 Japanese,"scene_cp7_q2_s10,721",detail,이오,ほら、シャキッとして！<br>シャキッと！ もう！,"자, 시원하게! <br> 시원하게! 진짜!"
 Japanese,"scene_cp7_q2_s10,721",detail,카타리나,み、みず……,"미, 물……"
@@ -42,9 +42,9 @@ Japanese,"scene_cp7_q2_s10,721",detail,비이,……はっ！ まさか大公は
 Japanese,"scene_cp7_q2_s10,721",detail,이오,トカゲは考え方が下衆ね……<br>生物としての程度が知れるわよ？,도마뱀은 생각이 하중하네……<br>생물로서의 정도를 알 수 있지?
 Japanese,"scene_cp7_q2_s10,721",detail,비이,オイラはトカゲじゃねぇ！,오이라는 도마뱀이잖아!
 Japanese,"scene_cp7_q2_s10,721",detail,비이,……っていうかいま、<br>相当ひでぇことをさらりと言ったな……,"……라고 할까 지금,<br>상당히 히데를 확언했네……"
-Japanese,"scene_cp7_q2_s10,721",detail,루리아,ね、[ジータ]<br>ひとつだけ、これだけは<br>ハッキリしてますよね……,"저기, [지타]<br>하나만, 이것만은<br>확실하죠……"
+Japanese,"scene_cp7_q2_s10,721",detail,루리아,ね、[플레이어]<br>ひとつだけ、これだけは<br>ハッキリしてますよね……,"저기, [플레이어]<br>하나만, 이것만은<br>확실하죠……"
 Japanese,"scene_cp7_q2_s10,721",detail,루리아,イオちゃんのお師匠様は<br>何か大変なことを起こそうとしてる。<br>それは絶対に止めなきゃ、です！,이오의 스승님은<br>뭔가 큰일을 일으키려고 하고있어<br>그건 절대로 그만둬야해요!
-Japanese,"scene_cp7_q2_s20,722",synopsis,,溶岩湖に近づく<span>[ジータ]</span>一行。しかし一行は、どんな状況にあっても心の余裕といつもの調子を忘れない。,용암호에 가까워지는 <span> [지타] </span> 한 줄.그러나 이들 일행은 어떤 상황에서도 마음의 여유와 평소의 자세를 잃지 않는다.
+Japanese,"scene_cp7_q2_s20,722",synopsis,,溶岩湖に近づく<span>[플레이어]</span>一行。しかし一行は、どんな状況にあっても心の余裕といつもの調子を忘れない。,용암호에 가까워지는 <span> [플레이어] </span> 한 줄.그러나 이들 일행은 어떤 상황에서도 마음의 여유와 평소의 자세를 잃지 않는다.
 Japanese,"scene_cp7_q2_s20,722",detail,비이,はぁ……<br>砂漠がやっと終わったと思ったら<br>今度は溶岩かよ……,하아……<br>사막이 겨우 끝났다고 생각했는데<br>이번엔 용암인가……
 Japanese,"scene_cp7_q2_s20,722",detail,이오,最初からそう言ってたでしょ！<br>ほら、よそ見をしない！<br>ここにも魔物は出るんだからね！,"처음부터 그랬잖아!<br>자, 한눈팔지 않아!<br>여기도 마물은 나온다니까!"
 Japanese,"scene_cp7_q2_s20,722",detail,루리아,うわぁ～！<br>ねぇねぇ、あれが溶岩ですか？<br>グツグツしてる～！,우와~ 야 저게 용암이에요?<br>보글보글해~!
@@ -56,10 +56,10 @@ Japanese,"scene_cp7_q2_s20,722",sel1_txt,,<span class='scene-font-katari'>練習
 Japanese,"scene_cp7_q2_s20,722",sel2_txt,,<span class='scene-font-katari'>諦めよう……</span>,<span class='scene-font-katari'>포기하자……</span>
 Japanese,"scene_cp7_q2_s20,722",detail,루리아,ですよねっ！<br>お、お勉強すればきっと<br>できるようになります！ お料理！！,그렇죠!<br>오! 공부하면 꼭<br>할수 있을거에요! 요리!!
 Japanese,"scene_cp7_q2_s20,722",detail,루리아,ダメですっ！<br>お勉強して練習すれば、<br>きっと上手になるはずです！ たぶん！,"안돼요!<br>공부하고 연습하면,<br>분명히 잘하게 될거에요! 아마!"
-Japanese,"scene_cp7_q2_s20,722",detail,이오,あっ、魔物よ！<br>低レベルな会話してる場合じゃないわ！<br>いくわよ、[ジータ]！,"앗, 마물아! <br> 저수준의 대화할 때가 아니야! <br> 갈게! [지타]!"
-Japanese,"scene_cp7_q3_s10,731",synopsis,,溶岩湖に着いた<span>[ジータ]</span>一行は、イオの記憶を頼りに、湖のわきにある洞窟から地下へと進む。,용암호에 도착한 <span>[지타]</span> 일행은 이오의 기억을 따라 호수 옆에 있는 동굴에서 지하로 나아간다.
+Japanese,"scene_cp7_q2_s20,722",detail,이오,あっ、魔物よ！<br>低レベルな会話してる場合じゃないわ！<br>いくわよ、[플레이어]！,"앗, 마물아! <br> 저수준의 대화할 때가 아니야! <br> 갈게! [플레이어]!"
+Japanese,"scene_cp7_q3_s10,731",synopsis,,溶岩湖に着いた<span>[플레이어]</span>一行は、イオの記憶を頼りに、湖のわきにある洞窟から地下へと進む。,용암호에 도착한 <span>[플레이어]</span> 일행은 이오의 기억을 따라 호수 옆에 있는 동굴에서 지하로 나아간다.
 Japanese,"scene_cp7_q3_s10,731",detail,라캄,しかし、<br>溶岩のある地帯には着いたものの……,"그러나,<br>용암이 있는 지대에는 도착했지만……"
-Japanese,"scene_cp7_q3_s10,731",detail,라캄,まったく見晴らしの良いこって……<br>どうだ？ 怪しい建物とか<br>何かありそうか？ [ジータ]。,정말 전망좋은걸……<br>어때? 수상한 건물이나<br>뭔가 있을것 같니? [지타]
+Japanese,"scene_cp7_q3_s10,731",detail,라캄,まったく見晴らしの良いこって……<br>どうだ？ 怪しい建物とか<br>何かありそうか？ [플레이어]。,정말 전망좋은걸……<br>어때? 수상한 건물이나<br>뭔가 있을것 같니? [플레이어]
 Japanese,"scene_cp7_q3_s10,731",detail,이오,うぅ～ん、確かこのあたりに……,"음, 확실히 이 근처에……"
 Japanese,"scene_cp7_q3_s10,731",detail,이오,あったあった！<br>ここよ！<br>この洞窟から地下に行けるわ！,여기 있다! 여기야! 여기야! 이 동굴에서 지하로 갈 수 있어!
 Japanese,"scene_cp7_q3_s10,731",detail,비이,洞窟ぅ？<br>おお、こりゃ怪しいな……<br>イオ、よくこんな場所知ってたな？,"동굴-?<br>오오, 이거 수상한데……<br>이어, 자주 이런 장소 알고 있었지?"
@@ -73,7 +73,7 @@ Japanese,"scene_cp7_q3_s10,731",detail,루리아,と言うことは……つま�
 Japanese,"scene_cp7_q3_s10,731",detail,비이,大昔から、ここに<br>何かが埋まってたって<br>そういうこったな……,"아주 오래전부터, 여기에<br>뭔가가 묻혀있다고<br>그런거야……"
 Japanese,"scene_cp7_q3_s10,731",detail,이오,師匠をおかしくしたのは<br>そいつってこと？,스승을 이상하게 만든건<br>그녀석이란 말이야?
 Japanese,"scene_cp7_q3_s10,731",detail,라캄,さぁな……<br>いまはとにかく<br>進んでみるしかねぇさ。,글쎄……<br>지금은 어쨌든<br>나아가 보는 수 밖에 없지.
-Japanese,"scene_cp7_q3_s20,732",synopsis,,灼熱の眠る溶岩湖の地下で<span>[ジータ]</span>一行は、魔物達と交戦するドランク、スツルムと遭遇し、火花を散らす。,"작열하는 용암호수의 지하에서 <span>[지타]</span> 일행은 마물들과 교전하는 드렁크, 스툴룸과 조우하며 불꽃을 튀긴다."
+Japanese,"scene_cp7_q3_s20,732",synopsis,,灼熱の眠る溶岩湖の地下で<span>[플레이어]</span>一行は、魔物達と交戦するドランク、スツルムと遭遇し、火花を散らす。,"작열하는 용암호수의 지하에서 <span>[플레이어]</span> 일행은 마물들과 교전하는 드렁크, 스툴룸과 조우하며 불꽃을 튀긴다."
 Japanese,"scene_cp7_q3_s20,732",detail,카타리나,<span class='scene-font-4'>おい！ 誰か戦ってるぞ！</span>,<span class='scene-font-4'>야! 누가 싸운다!</span>
 Japanese,"scene_cp7_q3_s20,732",detail,라캄,ん？<br>ありゃぁ、まさか……,"응?<br>있잖아, 설마……"
 Japanese,"scene_cp7_q3_s20,732",detail,스츠룸,ふんっ！,흥!
@@ -85,7 +85,7 @@ Japanese,"scene_cp7_q3_s20,732",detail,드랑크,ストップ！ すとぉ～っ
 Japanese,"scene_cp7_q3_s20,732",detail,이오,<span class='scene-font-5'>問答無用！</span>,<span class='scene-font-5'>문답 불요</span>
 Japanese,"scene_cp7_q3_s20,732",detail,드랑크,おおっと！<br>スツルム殿、逃げよ、逃げよ！,아이고! <br> 스툴름전 도망가 도망가 도망가!
 Japanese,"scene_cp7_q3_s20,732",detail,라캄,あの野郎！<br>魔物をこっちにけしかけやがった！,그 자식!<br>마물을 이쪽에서 부추겼어!
-Japanese,"scene_cp7_q4_s10,741",synopsis,,溶岩湖の地下、<span>[ジータ]</span>一行は成り行きでドランク、スツルムと一時休戦し、大公を探すため共に巨大な熱源の眠る最深部を目指すことになる。,"용암호 지하의 <span>[지타]</span>일행은 추세대로 드렁크, 스툴름과 잠시 휴전하고 대공을 찾기 위해 함께 거대한 열원이 잠든 최심부를 향해 나아가게 된다."
+Japanese,"scene_cp7_q4_s10,741",synopsis,,溶岩湖の地下、<span>[플레이어]</span>一行は成り行きでドランク、スツルムと一時休戦し、大公を探すため共に巨大な熱源の眠る最深部を目指すことになる。,"용암호 지하의 <span>[플레이어]</span>일행은 추세대로 드렁크, 스툴름과 잠시 휴전하고 대공을 찾기 위해 함께 거대한 열원이 잠든 최심부를 향해 나아가게 된다."
 Japanese,"scene_cp7_q4_s10,741",detail,라캄,こっちの岩肌が熱いな。<br>不意に触れると火傷しそうだぜ。,이쪽 바위가 뜨겁네갑자기 닿으면 화상을 입을 것 같아.
 Japanese,"scene_cp7_q4_s10,741",detail,비이,いよいよゴールが近いってか。<br>早く終わらせて、風呂に入りてぇなー,"드디어 골이 가깝다니?빨리 끝내고, 목욕해야겠다-"
 Japanese,"scene_cp7_q4_s10,741",detail,이오,溶岩のお風呂なんてどう？<br>それならすぐ上で入れるわよ、<br>トカゲちゃん。,용암 목욕 어때?<br>그럼 바로 위에서 들어갈 수 있어요.<br>도마뱀.
@@ -101,7 +101,7 @@ Japanese,"scene_cp7_q4_s10,741",detail,스츠룸,決着、いまここでつけ�
 Japanese,"scene_cp7_q4_s10,741",detail,카타리나,なんだと……？<br>私とて挑まれた勝負から逃げるほど、<br>騎士として腐ってはいないが……,"뭐라고……?<br>나도 도전받은 승부로부터 도망칠 정도로,<br>기사로서 썩어있지는 않지만……"
 Japanese,"scene_cp7_q4_s10,741",detail,드랑크,ちょっとやめてよねぇ～！<br>ほらほら怖い顔しな～い！,좀 그만해~!<br>이봐 무서운 얼굴 하지마!
 Japanese,"scene_cp7_q4_s10,741",detail,드랑크,もたもたしてる時間はないんじゃない？<br>大公ちゃんが大変なことになってても、<br>僕は知らないからね～？,어물어물할 시간은 없지 않나?<br>대공이 큰일나도 <br> 난 모르니까~?
-Japanese,"scene_cp7_q4_s20,742",synopsis,,ドランク、スツルムと道を共にしていた<span>[ジータ]</span>一行だが、ふたりは一瞬の隙をついて、強引に最深部へと迫る。蛮行を見過ごせない<span>[ジータ]</span>一行はふたりを追う。,"드렁크, 스툴름과 길을 같이하던 <span>[지타]</span> 일행이지만 두 사람은 한순간의 틈을 타 억지로 최심부로 다가간다.만행을 간과할 수 없는 <span>[지타]</span> 일행은 두 사람을 쫓는다."
+Japanese,"scene_cp7_q4_s20,742",synopsis,,ドランク、スツルムと道を共にしていた<span>[플레이어]</span>一行だが、ふたりは一瞬の隙をついて、強引に最深部へと迫る。蛮行を見過ごせない<span>[플레이어]</span>一行はふたりを追う。,"드렁크, 스툴름과 길을 같이하던 <span>[플레이어]</span> 일행이지만 두 사람은 한순간의 틈을 타 억지로 최심부로 다가간다.만행을 간과할 수 없는 <span>[플레이어]</span> 일행은 두 사람을 쫓는다."
 Japanese,"scene_cp7_q4_s20,742",detail,카타리나,貴様らもここに来ていたということは<br>やはりここには何かあるのだな。,네놈들도 여기에 와있다는 건 <br> 역시 여기에는 무엇인가가 있는 거기다.
 Japanese,"scene_cp7_q4_s20,742",detail,드랑크,そうそうそうそう！<br>何百年も前……覇空戦争の頃からねぇ～,맞아맞아맞아! 몇백년전...패공전쟁때부터야~
 Japanese,"scene_cp7_q4_s20,742",detail,라캄,覇空戦争の頃……ってことは、<br><span class='scene-font-spword'>星の民</span>が絡んでるのかもしれねぇな……<br>しかし、なんでお前ら詳しいんだ？,"패공전쟁시기라……라는것은,<br><spanclass='scene-font-spword>별의 백성</span>이 얽혀있는지도 모르겠군……<br>그런데, 왜 너희들을 잘 아는거지?"
@@ -115,15 +115,15 @@ Japanese,"scene_cp7_q4_s20,742",detail,드랑크,待つわけないよねぇ！<
 Japanese,"scene_cp7_q4_s20,742",detail,라캄,くっそ！<br>あいつらを先に行かせちゃ<br>マズいんじゃねぇか！？,큭큭!<br>그녀석을 먼저 보내면<br>마즈라지 않을까!?
 Japanese,"scene_cp7_q4_s20,742",detail,비이,ていうか、なんで同行してたんだよ！<br>今更だけど！,근데 왜 동행하고 있는거야! 지금와서!
 Japanese,"scene_cp7_q4_s20,742",detail,카타리나,やつら、間者として一枚上手だ。<br>簡単に油断させられてしまう！<br>……次は始末する！,녀석들 간자로서 한 수 위다.<br>쉽게 방심하게 된다!<br>……다음은 처리한다!
-Japanese,"scene_cp7_q4_s20,742",detail,비이,とにかく急ぐぞ！<br>[ジータ]！,어쨌든 서두른다! <br> [지타]!
-Japanese,"scene_cp7_q4_s30,743",synopsis,,立ちはだかる魔物を退けるが、ドランク、スツルムはどんどん先へ進んでおり、<span>[ジータ]</span>一行も薄暗い地下工場を急ぐ。,"가로막는 마물들을 물리치지만 드렁크, 스툴름은 점점 앞으로 가고 있고 <span>[지타]</span> 일행도 어두컴컴한 지하공장을 서두른다."
+Japanese,"scene_cp7_q4_s20,742",detail,비이,とにかく急ぐぞ！<br>[플레이어]！,어쨌든 서두른다! <br> [플레이어]!
+Japanese,"scene_cp7_q4_s30,743",synopsis,,立ちはだかる魔物を退けるが、ドランク、スツルムはどんどん先へ進んでおり、<span>[플레이어]</span>一行も薄暗い地下工場を急ぐ。,"가로막는 마물들을 물리치지만 드렁크, 스툴름은 점점 앞으로 가고 있고 <span>[플레이어]</span> 일행도 어두컴컴한 지하공장을 서두른다."
 Japanese,"scene_cp7_q4_s30,743",detail,카타리나,くっ……あの程度の魔物に、<br>手間どってしまうとは……！,응……그 정도의 마물에 <br> 시간이 걸리다니……!
 Japanese,"scene_cp7_q4_s30,743",detail,라캄,あのうさんくさい野郎は、<br>どっちへ行ったんだ！？,"저 수상쩍은 녀석은,<br>어디로 간거야!?"
 Japanese,"scene_cp7_q4_s30,743",detail,비이,あっちに入り口らしいのがあるぜ！,저쪽에 입구 같은게 있어!
 Japanese,"scene_cp7_q4_s30,743",detail,카타리나,向こうから閃光が……<br>連中、扉を爆破したのか！？<br>まだ追いつけるかもしれない、急ぐぞ！,"저쪽에서 섬광이……<br>연중, 문을 폭파한 것인가!?<br>아직 따라잡을 수 있을지도 몰라 서두른다!"
-Japanese,"scene_cp7_q4_s30,743",detail,,<span class='scene-font-katari'>溶岩の揺蕩う湖の地下、</span><br><span class='scene-font-katari'>古の工房で[ジータ]達の戦いは</span><br><span class='scene-font-katari'>激しさを増していた。</span>,"<span class='scene-font-katari'>용암이 흔들리는 호수의 지하,<br>옛 공방에서 [지타]들의 싸움은<br>열렬했다.</span>"
-Japanese,"scene_cp7_q4_s30,743",detail,,<span class='scene-font-katari'>機械の魔物に導かれるように</span><br><span class='scene-font-katari'>[ジータ]達は</span><br><span class='scene-font-katari'>真実へと近づいていくのだった。</span>,<span class='scene-font-katari'>기계의 마물에 이끌리듯<br>[지타]들은<br>진실로 다가가는 것이었다.</span>
-English,"scene_cp7_q1_s10,711",synopsis,,"Machine monsters hinder [Djeeta] and company many times. Entrusted with the wreckage, Siero conducts a brief investigation that results in a new clue for [Djeeta] and company."
+Japanese,"scene_cp7_q4_s30,743",detail,,<span class='scene-font-katari'>溶岩の揺蕩う湖の地下、</span><br><span class='scene-font-katari'>古の工房で[플레이어]達の戦いは</span><br><span class='scene-font-katari'>激しさを増していた。</span>,"<span class='scene-font-katari'>용암이 흔들리는 호수의 지하,<br>옛 공방에서 [플레이어]들의 싸움은<br>열렬했다.</span>"
+Japanese,"scene_cp7_q4_s30,743",detail,,<span class='scene-font-katari'>機械の魔物に導かれるように</span><br><span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>真実へと近づいていくのだった。</span>,<span class='scene-font-katari'>기계의 마물에 이끌리듯<br>[플레이어]들은<br>진실로 다가가는 것이었다.</span>
+English,"scene_cp7_q1_s10,711",synopsis,,"Machine monsters hinder [플레이어] and company many times. Entrusted with the wreckage, Siero conducts a brief investigation that results in a new clue for [플레이어] and company."
 English,"scene_cp7_q1_s10,711",detail,,Io finds hope in Lyria's words and is soon back to her usual courageous self.
 English,"scene_cp7_q1_s10,711",detail,Io,"Is something wrong, Rackam? Is it that unusual to see a pretty young girl crying in public?"
 English,"scene_cp7_q1_s10,711",detail,Rackam,Whoa! You seem to have calmed down quite a bit. Your usual spunk is back at least. So. What now?
@@ -131,13 +131,13 @@ English,"scene_cp7_q1_s10,711",detail,Io,"If I couldn't get through to him the f
 English,"scene_cp7_q1_s10,711",detail,Lyria,"That's right! When you called out to that machine earlier, it stopped moving for a second!"
 English,"scene_cp7_q1_s10,711",detail,Sierokarte,"Speaking of which! Good news about that machine, everyone!"
 English,"scene_cp7_q1_s10,711",detail,Sierokarte,"I examined the wreckage, and it seems it was built to withstand extremely high temperatures!"
-English,"scene_cp7_q1_s10,711",detail,Vyrn,"Ooh, this could be some kind of hint, [Djeeta]!"
+English,"scene_cp7_q1_s10,711",detail,Vyrn,"Ooh, this could be some kind of hint, [플레이어]!"
 English,"scene_cp7_q1_s10,711",detail,Sierokarte,"I was <span class='scene-font-italic'>digging</span> for a real <span class='scene-font-italic'>gem</span> of a hint, and it looks like I've <span class='scene-font-italic'>struck gold</span>!"
 English,"scene_cp7_q1_s10,711",detail,Sierokarte,Get it? Hehehe!
 English,"scene_cp7_q1_s10,711",detail,Rackam,"A machine that can withstand high temperatures, huh? Well, it must have been built that way for a reason."
 English,"scene_cp7_q1_s10,711",detail,Io,"If you're looking for extreme heat, there's a lava lake past the desert."
 English,"scene_cp7_q1_s10,711",detail,Io,I'll show you the way! Let's go!
-English,"scene_cp7_q1_s20,712",synopsis,,"With their sights set on the rippling lake of lava, [Djeeta] and company cross the desert, where they are relentlessly attacked by desert monsters."
+English,"scene_cp7_q1_s20,712",synopsis,,"With their sights set on the rippling lake of lava, [플레이어] and company cross the desert, where they are relentlessly attacked by desert monsters."
 English,"scene_cp7_q1_s20,712",detail,Vyrn,I'm burning up!
 English,"scene_cp7_q1_s20,712",detail,Rackam,Oh yeah? I'm burning <span class='scene-font-italic'>down</span>!
 English,"scene_cp7_q1_s20,712",detail,Io,Can you two shut up already? You're annoying me.
@@ -148,7 +148,7 @@ English,"scene_cp7_q1_s20,712",detail,Katalina,"Hahaha... Don't be silly, Lyria.
 English,"scene_cp7_q1_s20,712",detail,Katalina,It's so hot in here that I'm actually starting to get dizzy.
 English,"scene_cp7_q1_s20,712",detail,Lyria,"Who are you talking to? I'm over here, Katalina!"
 English,"scene_cp7_q1_s20,712",detail,Rackam,"Looks like we don't have time for a breather! It may be scorching hot in here, but that's not slowing the monsters down one bit!"
-English,"scene_cp7_q2_s10,721",synopsis,,"As Io guides [Djeeta] and company toward the lake of lava, Rackam begins to wonder about the archduke's unclear objective."
+English,"scene_cp7_q2_s10,721",synopsis,,"As Io guides [플레이어] and company toward the lake of lava, Rackam begins to wonder about the archduke's unclear objective."
 English,"scene_cp7_q2_s10,721",detail,Io,We're almost through the desert.
 English,"scene_cp7_q2_s10,721",detail,Io,"Now, everyone, look sharp! Seriously!"
 English,"scene_cp7_q2_s10,721",detail,Katalina,W-water...
@@ -166,9 +166,9 @@ English,"scene_cp7_q2_s10,721",detail,Vyrn,Gasp! Maybe the archduke's not satisf
 English,"scene_cp7_q2_s10,721",detail,Io,"Enough of your stupidity, lizard. You give your entire species a bad name."
 English,"scene_cp7_q2_s10,721",detail,Vyrn,I'm not a lizard!
 English,"scene_cp7_q2_s10,721",detail,Vyrn,And that was an awfully casual way to deliver such a brutal insult.
-English,"scene_cp7_q2_s10,721",detail,Lyria,"There's one thing we know for sure, [Djeeta]."
+English,"scene_cp7_q2_s10,721",detail,Lyria,"There's one thing we know for sure, [플레이어]."
 English,"scene_cp7_q2_s10,721",detail,Lyria,Io's teacher is trying to do something really awful. We have to stop him!
-English,"scene_cp7_q2_s20,722",synopsis,,"[Djeeta] and company draw closer to the lava lake, continuing to chat as they always do in spite of the adverse conditions."
+English,"scene_cp7_q2_s20,722",synopsis,,"[플레이어] and company draw closer to the lava lake, continuing to chat as they always do in spite of the adverse conditions."
 English,"scene_cp7_q2_s20,722",detail,Vyrn,"Sigh... I was just starting to feel some of that sweet post-desert euphoria, and now we have to deal with lava?"
 English,"scene_cp7_q2_s20,722",detail,Io,I told you there would be lava! And keep your eyes peeled! Monsters could attack at any second!
 English,"scene_cp7_q2_s20,722",detail,Lyria,"Wow, is that lava? It's all bubbly and goopy!"
@@ -180,10 +180,10 @@ English,"scene_cp7_q2_s20,722",sel1_txt,,Practice makes perfect.
 English,"scene_cp7_q2_s20,722",sel2_txt,,Just give up already.
 English,"scene_cp7_q2_s20,722",detail,Lyria,Right! I'm sure you can do it if you just study really hard!
 English,"scene_cp7_q2_s20,722",detail,Lyria,No! I'm sure she can maybe sort of do it if she practices and studies a lot!
-English,"scene_cp7_q2_s20,722",detail,Io,"Aaahh! Monsters! No time for chitchat! Let's do this, [Djeeta]!"
-English,"scene_cp7_q3_s10,731",synopsis,,"With Io's memory as their guide, [Djeeta] and company enter a lakeside cave and proceed underground."
+English,"scene_cp7_q2_s20,722",detail,Io,"Aaahh! Monsters! No time for chitchat! Let's do this, [플레이어]!"
+English,"scene_cp7_q3_s10,731",synopsis,,"With Io's memory as their guide, [플레이어] and company enter a lakeside cave and proceed underground."
 English,"scene_cp7_q3_s10,731",detail,Rackam,"Well, looks like we've made it to lava land."
-English,"scene_cp7_q3_s10,731",detail,Rackam,"It's a nice view at least! Spot any suspicious buildings, [Djeeta]?"
+English,"scene_cp7_q3_s10,731",detail,Rackam,"It's a nice view at least! Spot any suspicious buildings, [플레이어]?"
 English,"scene_cp7_q3_s10,731",detail,Io,Hmm... I think it should be around here...
 English,"scene_cp7_q3_s10,731",detail,Io,"Found it! Over here, everyone! This cave will take us underground!"
 English,"scene_cp7_q3_s10,731",detail,Vyrn,"That sounds pretty sketchy. How did you even know about this, Io?"
@@ -197,7 +197,7 @@ English,"scene_cp7_q3_s10,731",detail,Lyria,Which means... what?
 English,"scene_cp7_q3_s10,731",detail,Vyrn,Maybe there's something buried here from way back when?
 English,"scene_cp7_q3_s10,731",detail,Io,Is it possible that's what's making my master behave strangely?
 English,"scene_cp7_q3_s10,731",detail,Rackam,Couldn't say. All we can do is keep moving forward.
-English,"scene_cp7_q3_s20,732",synopsis,,"As they travel under the scorching hot lava lake, [Djeeta] and company find Drang and Sturm fighting some monsters."
+English,"scene_cp7_q3_s20,732",synopsis,,"As they travel under the scorching hot lava lake, [플레이어] and company find Drang and Sturm fighting some monsters."
 English,"scene_cp7_q3_s20,732",detail,Katalina,Hold it! Someone's fighting up ahead!
 English,"scene_cp7_q3_s20,732",detail,Rackam,Hm? Is that who I think it is?
 English,"scene_cp7_q3_s20,732",detail,Sturm,Humph!
@@ -209,7 +209,7 @@ English,"scene_cp7_q3_s20,732",detail,Drang,"Stop, s'il vous plait! We're not he
 English,"scene_cp7_q3_s20,732",detail,Io,Don't waste your breath!
 English,"scene_cp7_q3_s20,732",detail,Drang,"Oh dear! Run for it, Sturm!"
 English,"scene_cp7_q3_s20,732",detail,Rackam,That jerk's sending monsters our way!
-English,"scene_cp7_q4_s10,741",synopsis,,"[Djeeta] and company strike a temporary cease-fire with Drang and Sturm, deciding to work together to reach the giant heat source in the heart of the cave."
+English,"scene_cp7_q4_s10,741",synopsis,,"[플레이어] and company strike a temporary cease-fire with Drang and Sturm, deciding to work together to reach the giant heat source in the heart of the cave."
 English,"scene_cp7_q4_s10,741",detail,Rackam,"The rocks here look hot to the touch. If you're not careful, you might just get burned."
 English,"scene_cp7_q4_s10,741",detail,Vyrn,"We're almost at the finish line! I can't wait to get this over with and take a nice, cold bath!"
 English,"scene_cp7_q4_s10,741",detail,Io,"How about a lava bath? There's one right up above us that should do the trick, lizard."
@@ -225,7 +225,7 @@ English,"scene_cp7_q4_s10,741",detail,Sturm,"If you want to settle things now, g
 English,"scene_cp7_q4_s10,741",detail,Katalina,"What was that? If you're challenging me to a duel, my pride as a knight demands I accept, but..."
 English,"scene_cp7_q4_s10,741",detail,Drang,"C'mon, guys! Enough of the scary fighty talk!"
 English,"scene_cp7_q4_s10,741",detail,Drang,"We don't have time to stand around, remember? Don't come crying to me if the archduke does something horrible."
-English,"scene_cp7_q4_s20,742",synopsis,,[Djeeta] and company travel with Drang and Sturm until the two of them suddenly speed off ahead. [Djeeta] and company pursue the duo.
+English,"scene_cp7_q4_s20,742",synopsis,,[플레이어] and company travel with Drang and Sturm until the two of them suddenly speed off ahead. [플레이어] and company pursue the duo.
 English,"scene_cp7_q4_s20,742",detail,Katalina,"If you two goons are here, that must mean we were right. There's something big buried here."
 English,"scene_cp7_q4_s20,742",detail,Drang,Ding-ding-ding! Something from untold centuries ago that's been lying dormant since the War.
 English,"scene_cp7_q4_s20,742",detail,Rackam,"If it's from the War, it probably has some connection to the Astrals... Why would goofs like you know so much about it anyway?"
@@ -239,11 +239,11 @@ English,"scene_cp7_q4_s20,742",detail,Drang,"We've got places to go, people to s
 English,"scene_cp7_q4_s20,742",detail,Rackam,Good grief! Things are gonna get bad if we let them get ahead of us!
 English,"scene_cp7_q4_s20,742",detail,Vyrn,Then why were we fighting alongside them in the first place?
 English,"scene_cp7_q4_s20,742",detail,Katalina,They're not your average spies. It's so easy to let your guard down around them! But next time... we'll put an end to this!
-English,"scene_cp7_q4_s20,742",detail,Vyrn,"Let's hurry, [Djeeta]!"
-English,"scene_cp7_q4_s30,743",synopsis,,[Djeeta] and company defeat the monsters blocking the way and rush ever deeper into the underground factory.
+English,"scene_cp7_q4_s20,742",detail,Vyrn,"Let's hurry, [플레이어]!"
+English,"scene_cp7_q4_s30,743",synopsis,,[플레이어] and company defeat the monsters blocking the way and rush ever deeper into the underground factory.
 English,"scene_cp7_q4_s30,743",detail,Katalina,Ngh... Those monsters ate up more of our time than I thought.
 English,"scene_cp7_q4_s30,743",detail,Rackam,Which way did that joker go?
 English,"scene_cp7_q4_s30,743",detail,Vyrn,Looks like there's an entrance over there!
 English,"scene_cp7_q4_s30,743",detail,Katalina,That flash... Did they use explosives on the door? We might still be able to catch them if we hurry!
-English,"scene_cp7_q4_s30,743",detail,,"Beneath the rippling lake of lava, the battles in the old factory grow increasingly fierce for [Djeeta] and company."
-English,"scene_cp7_q4_s30,743",detail,,"[Djeeta] and company inch ever closer to the truth, almost as if guided by the mechanical monsters within the base..."
+English,"scene_cp7_q4_s30,743",detail,,"Beneath the rippling lake of lava, the battles in the old factory grow increasingly fierce for [플레이어] and company."
+English,"scene_cp7_q4_s30,743",detail,,"[플레이어] and company inch ever closer to the truth, almost as if guided by the mechanical monsters within the base..."

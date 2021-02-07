@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp57_q1_s10,5711",synopsis,,[ジータ]達がグランサイファーに残っていた面々と合流する少し前、ドランク、スツルムと共に囮を買って出た黒騎士は、ふたりに<span class='scene-font-place'>アガスティア</span>を離れ、とある場所へ向かうよう指示する。不可解な指示に訝しみながらも、ふたりは<span class='scene-font-place'>アガスティア</span>を離れ空を進む。すると、その行く先に、とある旗印を掲げた騎空艇が現れるのだった。
+Japanese,"scene_cp57_q1_s10,5711",synopsis,,[플레이어]達がグランサイファーに残っていた面々と合流する少し前、ドランク、スツルムと共に囮を買って出た黒騎士は、ふたりに<span class='scene-font-place'>アガスティア</span>を離れ、とある場所へ向かうよう指示する。不可解な指示に訝しみながらも、ふたりは<span class='scene-font-place'>アガスティア</span>を離れ空を進む。すると、その行く先に、とある旗印を掲げた騎空艇が現れるのだった。
 Japanese,"scene_cp57_q1_s10,5711",detail,스츠룸,はあぁぁぁっ！！
 Japanese,"scene_cp57_q1_s10,5711",detail,제국병,ぐふっ……！？
 Japanese,"scene_cp57_q1_s10,5711",detail,드랑크,はい、お見事～！<br>いまので追って来てたのは全部かな？
@@ -7,7 +7,7 @@ Japanese,"scene_cp57_q1_s10,5711",detail,스츠룸,退屈……肩慣らしに�
 Japanese,"scene_cp57_q1_s10,5711",detail,드랑크,おお！<br>スツルム殿、<br>いつになくやる気だねぇ～！
 Japanese,"scene_cp57_q1_s10,5711",detail,흑기사,勢い付いているところ悪いが……<br>お前達には、<br>すぐに向かってもらいたい場所がある。
 Japanese,"scene_cp57_q1_s10,5711",detail,스츠룸,……？
-Japanese,"scene_cp57_q1_s10,5711",detail,,<span class='scene-font-katari'>[ジータ]達が、</span><br><span class='scene-font-katari'>グランサイファーに残っていた面々と</span><br><span class='scene-font-katari'>合流する、その少し前……</span>
+Japanese,"scene_cp57_q1_s10,5711",detail,,<span class='scene-font-katari'>[플레이어]達が、</span><br><span class='scene-font-katari'>グランサイファーに残っていた面々と</span><br><span class='scene-font-katari'>合流する、その少し前……</span>
 Japanese,"scene_cp57_q1_s10,5711",detail,,<span class='scene-font-katari'>ドランク、スツルムを従え、</span><br><span class='scene-font-katari'>囮を買って出た黒騎士は、</span><br><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の街角で二人に向き直った。</span>
 Japanese,"scene_cp57_q1_s10,5711",detail,스츠룸,向かってもらいたい場所……？<br>鎧の予備……<br>あたし達が取りに行けばいいのか？
 Japanese,"scene_cp57_q1_s10,5711",detail,흑기사,いいや、違う……<br>それは私自ら回収する。
@@ -41,24 +41,24 @@ Japanese,"scene_cp57_q1_s10,5711",detail,스츠룸,どうだか……<br>あい�
 Japanese,"scene_cp57_q1_s10,5711",detail,드랑크,大丈夫じゃないの～？<br>実力は折り紙つきだし……<br>それに……ほら。
 Japanese,"scene_cp57_q1_s10,5711",detail,,<span class='scene-font-katari'>そう言ってドランクは、</span><br><span class='scene-font-katari'>行く手の巨大な白い雲を指さす。</span>
 Japanese,"scene_cp57_q1_s10,5711",detail,,<span class='scene-font-katari'>その雲を割るようにしながら、</span><br><span class='scene-font-katari'>とある旗印を掲げた騎空艇が、</span><br><span class='scene-font-katari'>いくつも連なって姿を現すのだった。</span>
-Japanese,"scene_cp57_q2_s10,5721",synopsis,,騎空艇グランサイファーで仲間達と合流する[ジータ]。お互いに情報を共有するものの、明らかにアダムの存在が矛盾してしまう。アダムは[ジータ]一行に対し改めて、エルステ帝国に引導を渡してくれるよう願う。世界の危機を止めるため、一行はその願いに応じるも、未だオルキスを巡り黒騎士との衝突は続く。
+Japanese,"scene_cp57_q2_s10,5721",synopsis,,騎空艇グランサイファーで仲間達と合流する[플레이어]。お互いに情報を共有するものの、明らかにアダムの存在が矛盾してしまう。アダムは[플레이어]一行に対し改めて、エルステ帝国に引導を渡してくれるよう願う。世界の危機を止めるため、一行はその願いに応じるも、未だオルキスを巡り黒騎士との衝突は続く。
 Japanese,"scene_cp57_q2_s10,5721",detail,,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>から距離を取り、</span><br><span class='scene-font-katari'>静かな空を進むグランサイファー。</span>
 Japanese,"scene_cp57_q2_s10,5721",detail,,<span class='scene-font-katari'>その甲板では、ビィとオイゲンが、</span><br><span class='scene-font-katari'>驚きの声をあげていた。</span>
 Japanese,"scene_cp57_q2_s10,5721",detail,비이,おまっ……！<br>え、あれ？<br>オ、オイラが何か勘違いしてんのか？
 Japanese,"scene_cp57_q2_s10,5721",detail,오이겐,いやぁ……<br>確かにあの場を<br>任せてきちまったと思うんだが……
 Japanese,"scene_cp57_q2_s10,5721",detail,アダム,無事、帝都より脱出なされたようで、<br>何よりです。
 Japanese,"scene_cp57_q2_s10,5721",detail,이오,えっと……どういうこと？<br>あの後、すぐに帝国から逃げてきたの？
-Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,[ジータ]さん達はこの方と、<br>面識があるんですか？
+Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,[플레이어]さん達はこの方と、<br>面識があるんですか？
 Japanese,"scene_cp57_q2_s10,5721",detail,흑기사,面識があるも何も……<br>こいつは<span class='scene-font-place'>アガスティア</span>で我々に<br>全ての事の真相を明かし……
 Japanese,"scene_cp57_q2_s10,5721",detail,흑기사,その後、帝国兵から我々を逃がすために、<br>奴らに捕まったものだと<br>思っていたのだがな……
 Japanese,"scene_cp57_q2_s10,5721",detail,,<span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>潜入組と、</span><br><span class='scene-font-katari'>グランサイファー待機組は、</span><br><span class='scene-font-katari'>それぞれ何があったのかを共有する。</span>
 Japanese,"scene_cp57_q2_s10,5721",detail,,<span class='scene-font-katari'>しかし、そんな中で、</span><br><span class='scene-font-katari'>明らかに矛盾するひとりの男の存在に、</span><br><span class='scene-font-katari'>皆は首をかしげるのだった。</span>
 Japanese,"scene_cp57_q2_s10,5721",detail,アダム,…………
 Japanese,"scene_cp57_q2_s10,5721",detail,카타리나,聞けば聞くほどおかしな状況だな……
-Japanese,"scene_cp57_q2_s10,5721",detail,카타리나,彼がグランサイファーを訪ねてきたのは、<br><span class='scene-font-place'>アガスティア</span>で[ジータ]達と、<br>出会った頃のはずなんだが……
+Japanese,"scene_cp57_q2_s10,5721",detail,카타리나,彼がグランサイファーを訪ねてきたのは、<br><span class='scene-font-place'>アガスティア</span>で[플레이어]達と、<br>出会った頃のはずなんだが……
 Japanese,"scene_cp57_q2_s10,5721",detail,라캄,おいおい……<br>まさかとは思うけど、<br>何か企んでんじゃねぇよな……？
 Japanese,"scene_cp57_q2_s10,5721",detail,이오,で、でも！<br>この人、<span class='scene-font-place'>アガスティア</span>で、<br>あたし達のこと助けてくれたし……
-Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,[ジータ]さん達の元へ<br>駆けつけることが出来たのも、<br>彼が隠し港を教えてくれたからですね。
+Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,[플레이어]さん達の元へ<br>駆けつけることが出来たのも、<br>彼が隠し港を教えてくれたからですね。
 Japanese,"scene_cp57_q2_s10,5721",detail,비이,ってぇことは……<br>一応、敵じゃあねーの……か？
 Japanese,"scene_cp57_q2_s10,5721",detail,アダム,…………
 Japanese,"scene_cp57_q2_s10,5721",detail,흑기사,どうだ？<br>貴様のほうから何か釈明はあるのか？
@@ -91,7 +91,7 @@ Japanese,"scene_cp57_q2_s10,5721",detail,이오,このままじゃ、<br>世界�
 Japanese,"scene_cp57_q2_s10,5721",detail,오이겐,そうさなぁ……<br>その時間だって、<br>あとどれだけあるかわかりゃしねぇ……
 Japanese,"scene_cp57_q2_s10,5721",detail,로제타,多くないことだけは確かでしょうね。<br>むしろ今回の大将さんの造反で、<br>計画を早めるかもしれないわ……
 Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,世界の危機が目の前に迫り、<br>それを止める方法を知っている以上、<br>無視するわけにはいきませんね。
-Japanese,"scene_cp57_q2_s10,5721",detail,비이,なぁ……<br>[ジータ]はどうする？
+Japanese,"scene_cp57_q2_s10,5721",detail,비이,なぁ……<br>[플레이어]はどうする？
 Japanese,"scene_cp57_q2_s10,5721",sel1_txt,,<span class='scene-font-katari'>戦おう</span>
 Japanese,"scene_cp57_q2_s10,5721",sel2_txt,,<span class='scene-font-katari'>止めよう</span>
 Japanese,"scene_cp57_q2_s10,5721",detail,비이,おう……<br>もうそれっきゃねーんだよな……
@@ -128,13 +128,13 @@ Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,帝国軍の哨戒の範�
 Japanese,"scene_cp57_q2_s10,5721",detail,リーシャ,魔物以外にも、<br>戦艦にも注意して、<br>慎重に進んでいきましょう。
 Japanese,"scene_cp57_q2_s10,5721",detail,흑기사,…………
 Japanese,"scene_cp57_q2_s10,5721",detail,オルキス,…………
-Japanese,"scene_cp57_q3_s10,5731",synopsis,,フリーシアの計画を止めるため、再び<span class='scene-font-place'>帝都アガスティア</span>を目指す[ジータ]一行。大勢の帝国兵全てを相手にするのではなく、フリーシアの計画の要となっている装置「リアクター」のみを狙い、帝都中央の「タワー」に潜入することを一行は決める。帝国戦艦の目を欺くべく、浮力消失高度ギリギリの低空飛行で<span class='scene-font-place'>帝都アガスティア</span>へと進む。
-Japanese,"scene_cp57_q3_s10,5731",detail,,<span class='scene-font-katari'>フリーシアの計画を止めるため、</span><br><span class='scene-font-katari'>[ジータ]一行は踵を返し、</span><br><span class='scene-font-katari'>再び</span><span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>を目指す。</span>
+Japanese,"scene_cp57_q3_s10,5731",synopsis,,フリーシアの計画を止めるため、再び<span class='scene-font-place'>帝都アガスティア</span>を目指す[플레이어]一行。大勢の帝国兵全てを相手にするのではなく、フリーシアの計画の要となっている装置「リアクター」のみを狙い、帝都中央の「タワー」に潜入することを一行は決める。帝国戦艦の目を欺くべく、浮力消失高度ギリギリの低空飛行で<span class='scene-font-place'>帝都アガスティア</span>へと進む。
+Japanese,"scene_cp57_q3_s10,5731",detail,,<span class='scene-font-katari'>フリーシアの計画を止めるため、</span><br><span class='scene-font-katari'>[플레이어]一行は踵を返し、</span><br><span class='scene-font-katari'>再び</span><span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>を目指す。</span>
 Japanese,"scene_cp57_q3_s10,5731",detail,,<span class='scene-font-katari'>周囲に警戒しながら</span><br><span class='scene-font-katari'>ゆっくり進むグランサイファーの中で、</span><br><span class='scene-font-katari'>ラカムは不安げな声をあげる。</span>
 Japanese,"scene_cp57_q3_s10,5731",detail,라캄,しっかし……<br>あの宰相サンの計画を<br>止めるとは言ったものの……
 Japanese,"scene_cp57_q3_s10,5731",detail,라캄,さすがに俺達だけじゃあ、<br>正面切っては戦えねぇよな……
 Japanese,"scene_cp57_q3_s10,5731",detail,リーシャ,帝国は<span class='scene-font-place'>アガスティア</span>に、<br>万単位の兵を駐屯させているはずです。
-Japanese,"scene_cp57_q3_s10,5731",detail,リーシャ,[ジータ]さん達が戦ったのは、<br>おそらくそのほんの一部ですね……
+Japanese,"scene_cp57_q3_s10,5731",detail,リーシャ,[플레이어]さん達が戦ったのは、<br>おそらくそのほんの一部ですね……
 Japanese,"scene_cp57_q3_s10,5731",detail,비이,うげ……<br>姐さん達が駆けつけてくれなきゃ、<br>オイラ達本当にヤバかったよな……
 Japanese,"scene_cp57_q3_s10,5731",detail,오이겐,あれでほんの一部っつぅのは……<br>わかっちゃあいるが<br>気が重い話だなぁ、おい……
 Japanese,"scene_cp57_q3_s10,5731",detail,로제타,あら……<br>何もみんなの相手を、<br>してあげる必要はないんじゃない？
@@ -166,7 +166,7 @@ Japanese,"scene_cp57_q3_s10,5731",detail,アダム,その通りです。<br>半�
 Japanese,"scene_cp57_q3_s10,5731",detail,이오,浮力消失高度って……<br>そ、そんなに低く飛んだら、<br>グランサイファー、落ちちゃわない？
 Japanese,"scene_cp57_q3_s10,5731",detail,라캄,へっ……面白いじゃねぇか……<br>少しでも気を抜きゃ、<br>空の底まで真っ逆さまってな……
 Japanese,"scene_cp57_q3_s10,5731",detail,라캄,操舵士の腕の見せ所だぜ……<br>任せろよ、<br>キッチリ限界ギリギリを飛んでやらぁ！
-Japanese,"scene_cp57_q4_s10,5741",synopsis,,ラカムの操舵によって、下から潜り込む形で<span class='scene-font-place'>帝都アガスティア</span>の真下へと至る[ジータ]一行。帝都の最下層には、帝都建設の際に使われた資材搬入用の隠し港が有り、一行はそこから帝都へ乗り込むべく騎空艇を進める。
+Japanese,"scene_cp57_q4_s10,5741",synopsis,,ラカムの操舵によって、下から潜り込む形で<span class='scene-font-place'>帝都アガスティア</span>の真下へと至る[플레이어]一行。帝都の最下層には、帝都建設の際に使われた資材搬入用の隠し港が有り、一行はそこから帝都へ乗り込むべく騎空艇を進める。
 Japanese,"scene_cp57_q4_s10,5741",detail,라캄,…………
 Japanese,"scene_cp57_q4_s10,5741",detail,이오,ラカム……<br>いつになく集中してるわね……
 Japanese,"scene_cp57_q4_s10,5741",detail,로제타,そうね……<br>でも、とっても凛々しい顔だわ。
@@ -192,7 +192,7 @@ Japanese,"scene_cp57_q4_s10,5741",detail,アダム,そのためには、<br>こ�
 Japanese,"scene_cp57_q4_s10,5741",detail,라캄,へへっ……<br>今回はその判断に、<br>助けられちまったな。
 Japanese,"scene_cp57_q4_s10,5741",detail,라캄,さぁ、見えてきたな……<br>それに戦艦の連中が<br>こっちに気付いてる様子もねぇ……
 Japanese,"scene_cp57_q4_s10,5741",detail,라캄,島に近づいたとはいえ、<br>このあたりじゃ、まだ魔物も出やがるが、<br>静かに、慎重にいこうぜ。
-Japanese,"scene_cp57_q4_s30,5742",synopsis,,アダムの指示の元、隠し港へと近づく[ジータ]一行。一方その頃、ルリア、イオは、オルキスに黒騎士への気持ちを問うていた。オルキスは自身の存在に負い目を感じており、黒騎士が失ったものを取り戻せるのなら、それに協力したいと述べる。扉の外で偶然それを聞いてしまった黒騎士は、オルキスの想いに言葉を失う。
+Japanese,"scene_cp57_q4_s30,5742",synopsis,,アダムの指示の元、隠し港へと近づく[플레이어]一行。一方その頃、ルリア、イオは、オルキスに黒騎士への気持ちを問うていた。オルキスは自身の存在に負い目を感じており、黒騎士が失ったものを取り戻せるのなら、それに協力したいと述べる。扉の外で偶然それを聞いてしまった黒騎士は、オルキスの想いに言葉を失う。
 Japanese,"scene_cp57_q4_s30,5742",detail,,<span class='scene-font-katari'>浮力消失高度の限界を飛ぶことで、</span><br><span class='scene-font-katari'>戦艦の目を掻い潜った一行は、</span><br><span class='scene-font-katari'>ついに島のほぼ真下に到着する。</span>
 Japanese,"scene_cp57_q4_s30,5742",detail,라캄,おっ……<br>見えてきたな……<br>あれがアンタの言ってた隠し港か？
 Japanese,"scene_cp57_q4_s30,5742",detail,アダム,はい。<br>他に停泊している艇もありませんので、<br>このまま港に寄せてください。
@@ -225,7 +225,7 @@ Japanese,"scene_cp57_q4_s30,5742",detail,흑기사,オルキス……<br>私は�
 Japanese,"scene_cp57_q4_s30,5742",detail,흑기사,私は……
 Japanese,"scene_cp57_q4_s30,5742",detail,,<span class='scene-font-katari'>答えの出ない様子で</span><br><span class='scene-font-katari'>黒騎士は空を見上げる。</span>
 Japanese,"scene_cp57_q4_s30,5742",detail,,<span class='scene-font-katari'>そこには、まるで重くのしかかるように、</span><br><span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>の姿があるのだった。</span>
-English,"scene_cp57_q1_s10,5711",synopsis,,"Shortly before meeting up with [Djeeta] and the crew, the Black Knight, who had volunteered to act as decoy along with Drang and Sturm, instructed the pair to leave Agastia and head for a certain location. Despite their misgivings over the unusual directions, they leave Agastia."
+English,"scene_cp57_q1_s10,5711",synopsis,,"Shortly before meeting up with [플레이어] and the crew, the Black Knight, who had volunteered to act as decoy along with Drang and Sturm, instructed the pair to leave Agastia and head for a certain location. Despite their misgivings over the unusual directions, they leave Agastia."
 English,"scene_cp57_q1_s10,5711",detail,Sturm,Haaaaah!
 English,"scene_cp57_q1_s10,5711",detail,Imperial Soldier,Guh...
 English,"scene_cp57_q1_s10,5711",detail,Drang,Nice one! Is that the last of 'em?
@@ -233,7 +233,7 @@ English,"scene_cp57_q1_s10,5711",detail,Sturm,"Lame. Wasn't even a decent warm u
 English,"scene_cp57_q1_s10,5711",detail,Drang,"Yes sir! You're unusually gung-ho today, Sturm!"
 English,"scene_cp57_q1_s10,5711",detail,Black Knight,"I'm sorry to interrupt all the excitement, but there's another place I need you two—on the double."
 English,"scene_cp57_q1_s10,5711",detail,Sturm,...?
-English,"scene_cp57_q1_s10,5711",detail,,Shortly before [Djeeta] and crew met up with everyone back on the Grandcypher...
+English,"scene_cp57_q1_s10,5711",detail,,Shortly before [플레이어] and crew met up with everyone back on the Grandcypher...
 English,"scene_cp57_q1_s10,5711",detail,,"The Black Knight, who had been leading Drang and Sturm in creating a diversion, addresses the two on a street corner in Agastia."
 English,"scene_cp57_q1_s10,5711",detail,Sturm,You want us to go somewhere? You need us to get you more armor?
 English,"scene_cp57_q1_s10,5711",detail,Black Knight,"No, that's not it. I can do that myself."
@@ -267,24 +267,24 @@ English,"scene_cp57_q1_s10,5711",detail,Sturm,I dunno. I just hope we can rely o
 English,"scene_cp57_q1_s10,5711",detail,Drang,We'll be fine. Their strength is the real deal. And besides... Look.
 English,"scene_cp57_q1_s10,5711",detail,,Drang points to a wall of gigantic clouds.
 English,"scene_cp57_q1_s10,5711",detail,,"Piercing through the fluffy, white membrane is a fleet of airships bearing a familiar coat of arms."
-English,"scene_cp57_q2_s10,5721",synopsis,,"[Djeeta] regroups with friends back on the Grandcypher. After sharing information, it becomes clear that Adam is not all that he seems. Adam asks [Djeeta] and crew to finish the Erste Empire. To avert a worldwide crisis, the party agrees."
+English,"scene_cp57_q2_s10,5721",synopsis,,"[플레이어] regroups with friends back on the Grandcypher. After sharing information, it becomes clear that Adam is not all that he seems. Adam asks [플레이어] and crew to finish the Erste Empire. To avert a worldwide crisis, the party agrees."
 English,"scene_cp57_q2_s10,5721",detail,,The Grandcypher cruises through calm skies after leaving the Agastia Empire.
 English,"scene_cp57_q2_s10,5721",detail,,"On the deck, Vyrn and Eugen both yelp in surprise."
 English,"scene_cp57_q2_s10,5721",detail,Vyrn,"It's you! Wait a minute... It <span class='scene-font-italic'>is</span> you, right?"
 English,"scene_cp57_q2_s10,5721",detail,Eugen,It can't be... Thought you stayed back to fend them off...
 English,"scene_cp57_q2_s10,5721",detail,Adam,I'm glad to see you escaped the empire's grasp.
 English,"scene_cp57_q2_s10,5721",detail,Io,Um... How are you here? Did you run away from the empire right after we left?
-English,"scene_cp57_q2_s10,5721",detail,Lecia,"[Djeeta], do you know this person?"
+English,"scene_cp57_q2_s10,5721",detail,Lecia,"[플레이어], do you know this person?"
 English,"scene_cp57_q2_s10,5721",detail,Black Knight,Know him? He's the one who told us the truth about everything that's happening in Agastia.
 English,"scene_cp57_q2_s10,5721",detail,Black Knight,He even acted as a decoy for us so that we could escape the empire. Or so we thought...
 English,"scene_cp57_q2_s10,5721",detail,,The group that infiltrated Agastia and the group that waited back on the Grandcypher share with each other what happened while they were apart.
 English,"scene_cp57_q2_s10,5721",detail,,But the clear contradiction in one man's story causes everyone confusion.
 English,"scene_cp57_q2_s10,5721",detail,Adam,...
 English,"scene_cp57_q2_s10,5721",detail,Katalina,"The more I hear, the more confused I am..."
-English,"scene_cp57_q2_s10,5721",detail,Katalina,I was sure he came to the Grandcypher around the same time I met [Djeeta] and the others in Agastia...
+English,"scene_cp57_q2_s10,5721",detail,Katalina,I was sure he came to the Grandcypher around the same time I met [플레이어] and the others in Agastia...
 English,"scene_cp57_q2_s10,5721",detail,Rackam,"I hate to say it, but you don't think he's up to no good, do you?"
 English,"scene_cp57_q2_s10,5721",detail,Io,No! He <span class='scene-font-italic'>helped</span> us back in Agastia...
-English,"scene_cp57_q2_s10,5721",detail,Lecia,And the only reason we got to [Djeeta] and the others in the first place was because he told us about the secret port.
+English,"scene_cp57_q2_s10,5721",detail,Lecia,And the only reason we got to [플레이어] and the others in the first place was because he told us about the secret port.
 English,"scene_cp57_q2_s10,5721",detail,Vyrn,So... At least we know he's not our enemy?
 English,"scene_cp57_q2_s10,5721",detail,Adam,...
 English,"scene_cp57_q2_s10,5721",detail,Black Knight,Well? Care to tell us what's going on?
@@ -317,7 +317,7 @@ English,"scene_cp57_q2_s10,5721",detail,Io,"If she keeps it up, it's only a matt
 English,"scene_cp57_q2_s10,5721",detail,Eugen,And who knows how much time we've got left...
 English,"scene_cp57_q2_s10,5721",detail,Rosetta,"Well, we know it isn't much. In fact, she may have sped things up after General Adam's rebellion."
 English,"scene_cp57_q2_s10,5721",detail,Lecia,"If the world is in danger and we know how to stop it, we can't just turn a blind eye."
-English,"scene_cp57_q2_s10,5721",detail,Vyrn,[Djeeta]... What do we do?
+English,"scene_cp57_q2_s10,5721",detail,Vyrn,[플레이어]... What do we do?
 English,"scene_cp57_q2_s10,5721",sel1_txt,,We fight.
 English,"scene_cp57_q2_s10,5721",sel2_txt,,She must be stopped.
 English,"scene_cp57_q2_s10,5721",detail,Vyrn,Right. That's the only thing we can do...
@@ -354,13 +354,13 @@ English,"scene_cp57_q2_s10,5721",detail,Lecia,The empire may be patrolling a wid
 English,"scene_cp57_q2_s10,5721",detail,Lecia,We'll have to be on the lookout for monsters and battleships. Stay vigilant.
 English,"scene_cp57_q2_s10,5721",detail,Black Knight,...
 English,"scene_cp57_q2_s10,5721",detail,Orchis,...
-English,"scene_cp57_q3_s10,5731",synopsis,,"[Djeeta] and party head once again to the Agastia Empire to stop Freesia's plan. Instead of taking on the entire imperial force, the party decides to infiltrate the empire's central Tower and take out the Reactor—a device vital to the prime minister's plot. They decrease their altitude and head for Agastia in lower skies in order to evade detection by imperial battleships."
-English,"scene_cp57_q3_s10,5731",detail,,"[Djeeta] and the crew turn back toward the empire's capital, Agastia, to stop Freesia's plan."
+English,"scene_cp57_q3_s10,5731",synopsis,,"[플레이어] and party head once again to the Agastia Empire to stop Freesia's plan. Instead of taking on the entire imperial force, the party decides to infiltrate the empire's central Tower and take out the Reactor—a device vital to the prime minister's plot. They decrease their altitude and head for Agastia in lower skies in order to evade detection by imperial battleships."
+English,"scene_cp57_q3_s10,5731",detail,,"[플레이어] and the crew turn back toward the empire's capital, Agastia, to stop Freesia's plan."
 English,"scene_cp57_q3_s10,5731",detail,,"The Grandcypher flies at a steady pace while its crew stays alert, but soon enough Rackam gets nervous and breaks the silence."
 English,"scene_cp57_q3_s10,5731",detail,Rackam,Ya know... I know we talked about stopping the prime minister and all...
 English,"scene_cp57_q3_s10,5731",detail,Rackam,But we can't just take 'em head on with our little crew.
 English,"scene_cp57_q3_s10,5731",detail,Lecia,The empire has soldiers in the thousands stationed in Agastia.
-English,"scene_cp57_q3_s10,5731",detail,Lecia,The ones that [Djeeta] fought were probably just a tiny fraction of their troops.
+English,"scene_cp57_q3_s10,5731",detail,Lecia,The ones that [플레이어] fought were probably just a tiny fraction of their troops.
 English,"scene_cp57_q3_s10,5731",detail,Vyrn,"Gulp... If you ladies didn't come to help, we would've been goners."
 English,"scene_cp57_q3_s10,5731",detail,Eugen,If <span class='scene-font-italic'>that</span> was a tiny fraction... I'm gettin' even less excited about this. Not that I expected a walk in the park.
 English,"scene_cp57_q3_s10,5731",detail,Rosetta,Oh my... Surely you don't think we'll need to take them all on?
@@ -392,7 +392,7 @@ English,"scene_cp57_q3_s10,5731",detail,Adam,"Precisely. Any higher than that, a
 English,"scene_cp57_q3_s10,5731",detail,Io,"Lose buoyancy? You mean, like, the Grandcypher could fall out of the sky?"
 English,"scene_cp57_q3_s10,5731",detail,Rackam,Heh. So the tiniest mistake and we'll go plunging to the bottom of the skies. Sounds like fun.
 English,"scene_cp57_q3_s10,5731",detail,Rackam,"Well, I'm not your helmsman for nothin'! Leave it to me! I'll take us lower than we've ever been before!"
-English,"scene_cp57_q4_s10,5741",synopsis,,"Thanks to Rackam's skillful piloting [Djeeta] and the rest of the crew arrive beneath Agastia in order to sneak into the empire from below. At the lowest level is a hidden port, once used as a supply bay when the city was being built—a perfect infiltration point."
+English,"scene_cp57_q4_s10,5741",synopsis,,"Thanks to Rackam's skillful piloting [플레이어] and the rest of the crew arrive beneath Agastia in order to sneak into the empire from below. At the lowest level is a hidden port, once used as a supply bay when the city was being built—a perfect infiltration point."
 English,"scene_cp57_q4_s10,5741",detail,Rackam,...
 English,"scene_cp57_q4_s10,5741",detail,Io,I've never seen Rackam this focused before.
 English,"scene_cp57_q4_s10,5741",detail,Rosetta,Neither have I. He looks quite dashing.
@@ -418,7 +418,7 @@ English,"scene_cp57_q4_s10,5741",detail,Adam,And I decided that such secret port
 English,"scene_cp57_q4_s10,5741",detail,Rackam,Heh. That decision turned out to be a real lifesaver for us.
 English,"scene_cp57_q4_s10,5741",detail,Rackam,"There, I see it. And those battleships haven't noticed us yet, either."
 English,"scene_cp57_q4_s10,5741",detail,Rackam,"We may be close to the island, but there are still monsters lurking around. Let's do this quietly and carefully."
-English,"scene_cp57_q4_s30,5742",synopsis,,"Guided by Adam, [Djeeta] and crew approach the secret port. Meanwhile, Lyria, Io, and Orchis start to harbor doubts about the Black Knight. Orchis expresses the indebtedness she feels to the Black Knight, and says she would do anything to help recover what her benefactor has lost. Happening to hear this through the door, the Black Knight is dumbstruck by Orchis's love."
+English,"scene_cp57_q4_s30,5742",synopsis,,"Guided by Adam, [플레이어] and crew approach the secret port. Meanwhile, Lyria, Io, and Orchis start to harbor doubts about the Black Knight. Orchis expresses the indebtedness she feels to the Black Knight, and says she would do anything to help recover what her benefactor has lost. Happening to hear this through the door, the Black Knight is dumbstruck by Orchis's love."
 English,"scene_cp57_q4_s30,5742",detail,,"With their airship barely afloat, the crew slip undetected through the imperial armada's defenses to finally arrive at the bottom of the island."
 English,"scene_cp57_q4_s30,5742",detail,Rackam,Mm? I think I see something. Is that the secret port you were talking about?
 English,"scene_cp57_q4_s30,5742",detail,Adam,"The very one. There are no other ships anchored here, so go ahead and dock."

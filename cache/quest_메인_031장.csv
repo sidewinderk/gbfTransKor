@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp31_q1_s10,3111",synopsis,,[ジータ]達に脱獄の手助けをしろと申し出る黒騎士。黒騎士を処刑し、ルリアとオルキスを手中に収めようとする、宰相フリーシアの企みを阻止すべく、[ジータ]らと黒騎士は手を結ぶ事になった。,"[지타]들에게 탈옥의 도움을 주겠다고 하는 흑기사.흑기사를 처형하고 루리아와 오르키스를 손아귀에 넣으려는 재상 프리시아의 기도를 저지하기 위해, [지타]들과 흑기사는 손을 잡게 되었다."
+Japanese,"scene_cp31_q1_s10,3111",synopsis,,[플레이어]達に脱獄の手助けをしろと申し出る黒騎士。黒騎士を処刑し、ルリアとオルキスを手中に収めようとする、宰相フリーシアの企みを阻止すべく、[플레이어]らと黒騎士は手を結ぶ事になった。,"[플레이어]들에게 탈옥의 도움을 주겠다고 하는 흑기사.흑기사를 처형하고 루리아와 오르키스를 손아귀에 넣으려는 재상 프리시아의 기도를 저지하기 위해, [플레이어]들과 흑기사는 손을 잡게 되었다."
 Japanese,"scene_cp31_q1_s10,3111",detail,,<span class='scene-font-katari'>黒騎士からの思わぬ申し出は</span><br><span class='scene-font-katari'>一同を驚愕させた。</span>,<span class = 'scene-font-katari'> 흑기사에서 뜻밖의 이벤트는 </ span> <br> <span class = 'scene-font-katari'> 일동을 경악시켰다. </ span>
 Japanese,"scene_cp31_q1_s10,3111",detail,라캄,脱獄だぁ！？<br>要はここから逃がせ、ってことかよ！？,탈옥이다!?<br>요점은 여기로부터 도망치라는거야!?
 Japanese,"scene_cp31_q1_s10,3111",detail,흑기사,ああ……<br>貴様らが協力するというのなら、<br>もはやここに居る理由はないからな。,"아아……<br>너희들이 협력한다고 하면,<br>이미 여기에 있을 이유는 없으니까."
@@ -19,7 +19,7 @@ Japanese,"scene_cp31_q1_s10,3111",detail,흑기사,バルツで警告した通�
 Japanese,"scene_cp31_q1_s10,3111",detail,흑기사,人形を手中に収めた以上、<br>今度はルリアを手に入れるために、<br>動き始めるだろうな……,"인형을 손에 넣은 이상,<br>이번에는 루리아를 손에 넣기 위해서,<br>움직이기 시작하겠지……"
 Japanese,"scene_cp31_q1_s10,3111",detail,카타리나,ちょうどこの島に来る前に<br>宰相フリーシア率いる帝国軍に<br>襲われたばかりだ……,마침 이 섬에 오기 전에 <br> 재상 프리시아가 이끄는 제국군에게 <br> 습격을 막 받았다……
 Japanese,"scene_cp31_q1_s10,3111",detail,흑기사,あの女は目的のためには手段を選ばん。<br>魔晶も、魔晶の粉を流通させたのも、<br>全てはあの女の計画だ。,"저 여자는 목적을 위해서 수단을 택했다.<br>마정도, 마정의 가루를 유통시킨것도,<br>전부는 그 여자의 계획이다."
-Japanese,"scene_cp31_q1_s10,3111",detail,흑기사,もはや立ち止まっている暇はない。<br>人形を取り返すためにも、<br>力を貸してもらうぞ！ [ジータ]！,"더 이상 멈춰 서 있을 시간이 없다.인형을 되찾기 위해서라도,<br>힘을 빌려줘야겠다! [지타]"
+Japanese,"scene_cp31_q1_s10,3111",detail,흑기사,もはや立ち止まっている暇はない。<br>人形を取り返すためにも、<br>力を貸してもらうぞ！ [플레이어]！,"더 이상 멈춰 서 있을 시간이 없다.인형을 되찾기 위해서라도,<br>힘을 빌려줘야겠다! [플레이어]"
 Japanese,"scene_cp31_q1_s20,3112",synopsis,,宰相フリーシアの最終的な目的は定かではないと黒騎士は語る。明らかなのは、フリーシアの計画の過程でルリアとオルキスが犠牲となる事だけだという。囚われの身であるオルキスを救うべく、一行は策を講じる。,"재상 프리시아의 최종 목적은 분명치 않다고 흑기사는 말한다.분명한 것은 프리시아의 계획 과정에서 루리아와 오르키스가 희생되는 것뿐이라는 것이다.사로잡힌 몸인 오르키스를 구하기 위해, 일행은 계책을 강구한다."
 Japanese,"scene_cp31_q1_s20,3112",detail,오이겐,アポロ……<br>お前はあの宰相の目的を知ってるのか？,아폴로……<br>너는 저 재상의 목적을 아니?
 Japanese,"scene_cp31_q1_s20,3112",detail,흑기사,ふん……詳しくは私も知らん。,흠…자세한건 나도몰라.
@@ -33,7 +33,7 @@ Japanese,"scene_cp31_q1_s20,3112",detail,흑기사,私ならあの人形が、<b
 Japanese,"scene_cp31_q1_s20,3112",detail,흑기사,まぁ……<br>こうも身動き出来ない状態では、<br>案内も何もないがな。,"뭐....<br>이렇게 꼼짝못하는 상태에서는,<br>안내고 뭐고 아무것도 아니지만."
 Japanese,"scene_cp31_q1_s20,3112",detail,자카 대공,ふん……<br>お主の拘束具もそうじゃが、<br>そもそも状況が八方塞がりじゃな。,"흠……<br>주인 구속 도구도 그렇지만,<br>애초에 상황이 사면초적이잖아."
 Japanese,"scene_cp31_q1_s20,3112",detail,자카 대공,四方八方から兵が押し寄せ、<br>これでは身動きが取れん。,사방팔방에서 군사가 몰려들어 <br> 이래 가지고는 꼼짝할 수 없다.
-Japanese,"scene_cp31_q1_s20,3112",detail,자카 대공,まずは突破口を開くぞ！<br>わしに続くのじゃ！ [ジータ]！,먼저 돌파구를 열자! <br> 나로 이어진다! [지타]
+Japanese,"scene_cp31_q1_s20,3112",detail,자카 대공,まずは突破口を開くぞ！<br>わしに続くのじゃ！ [플레이어]！,먼저 돌파구를 열자! <br> 나로 이어진다! [플레이어]
 Japanese,"scene_cp31_q2_s10,3121",synopsis,,オルキスが捕えられているのは、アマルティアの外の島だという。オルキス奪還のため、一行はザカ大公を囮にして島を出る事に──,"오르키스가 잡혀 있는 곳은 아마르티아 밖의 섬이라고 한다.오르키스 탈환을 위해, 일행은 자카대공을 미끼로 삼아 섬을 나오기로--"
 Japanese,"scene_cp31_q2_s10,3121",detail,카타리나,はぁぁぁぁっ！,으아아악!
 Japanese,"scene_cp31_q2_s10,3121",detail,흑기사,ふむ……さすがだな。<br>帝国から離れようとも、<br>その太刀筋が衰えることはないか。,흠……역시 그렇군.<br> 제국을 벗어나더라도 <br> 그 칼솜씨가 쇠퇴하지는 않을까?
@@ -58,18 +58,18 @@ Japanese,"scene_cp31_q2_s10,3121",detail,흑기사,正面から叩き潰して�
 Japanese,"scene_cp31_q2_s10,3121",detail,라캄,お、おい……オイゲン。<br>黒騎士って、<br>こんな奴だったのか……？,"오, 야…… 오이겐. <br> 흑기사라니, <br> 이런 녀석이었어……?"
 Japanese,"scene_cp31_q2_s10,3121",detail,오이겐,普段はクールなんだが、<br>変なところは<br>オレに似ちまったんだよなぁ……,"평상시는 쿨하지만,<br>이상한 점은<br>나를 닮아 버렸어..."
 Japanese,"scene_cp31_q2_s10,3121",detail,흑기사,ふん……無駄口を叩くなよ。<br>さぁ、付いて来い！<br>呆けていたら、置いて行くぞ！,흥…쓸데없는 말 좀 하지마.<br>자 따라와!<br>어이없으면 놔두고 가!
-Japanese,"scene_cp31_q2_s20,3122",synopsis,,黒騎士を先頭に、アマルティア島からの脱出をはかる一行。帝国兵達を薙ぎ倒して進撃する中、リーシャとモニカに遭遇する。秩序の騎空団は、黒騎士の拘束を解いた[ジータ]達を敵と見なし、戦いを挑んでくるのであった。,흑기사를 앞세우고 아마르티아 탈출을 꾀하는 일행.제국병들을 후려쳐 진격하던 중 리샤와 모니카에게 조우한다.질서의 기공단은 흑기사의 구속을 풀어준 [지타]들을 적으로 간주하여 싸움을 걸어오는 것이었다.
+Japanese,"scene_cp31_q2_s20,3122",synopsis,,黒騎士を先頭に、アマルティア島からの脱出をはかる一行。帝国兵達を薙ぎ倒して進撃する中、リーシャとモニカに遭遇する。秩序の騎空団は、黒騎士の拘束を解いた[플레이어]達を敵と見なし、戦いを挑んでくるのであった。,흑기사를 앞세우고 아마르티아 탈출을 꾀하는 일행.제국병들을 후려쳐 진격하던 중 리샤와 모니카에게 조우한다.질서의 기공단은 흑기사의 구속을 풀어준 [플레이어]들을 적으로 간주하여 싸움을 걸어오는 것이었다.
 Japanese,"scene_cp31_q2_s20,3122",detail,제국병,く、黒騎士……<br>貴様……！,"쿠, 흑기사……<br>네 놈……!"
 Japanese,"scene_cp31_q2_s20,3122",detail,흑기사,ふん、他愛ない……<br>この程度で、<br><span class='scene-font-place'>エルステ帝国</span>の兵を名乗るとはな……,"흠, 별 생각 없어……<br>이 정도로 <br><spanclass='scene-font-place'>에르스테 제국</span>의 병사를 자칭하다니……"
 Japanese,"scene_cp31_q2_s20,3122",detail,비이,ひゃー……<br>おっかねぇ……,햐아……<br>두려워……
 Japanese,"scene_cp31_q2_s20,3122",detail,루리아,協力することになったとはいえ、<br>黒騎士さんの前だと、<br>なんだか緊張しちゃいます……,"협력하게 되었다고는 해도,<br>흑기사님 앞에서는<br>왠지 긴장됩니다……"
 Japanese,"scene_cp31_q2_s20,3122",detail,흑기사,…………,…………
 Japanese,"scene_cp31_q2_s20,3122",detail,リーシャ,こ、これはいったい……<br>どういうことですか……？,"이, 이게 대체……<br>어떻게 된 건가요……?"
-Japanese,"scene_cp31_q2_s20,3122",detail,モニカ,すまないが、<br>状況を説明してもらえるかな？<br>[ジータ]。,미안한데 <br> 상황을 설명해줄 수 있을까?<br> [지타]
+Japanese,"scene_cp31_q2_s20,3122",detail,モニカ,すまないが、<br>状況を説明してもらえるかな？<br>[플레이어]。,미안한데 <br> 상황을 설명해줄 수 있을까?<br> [플레이어]
 Japanese,"scene_cp31_q2_s20,3122",detail,라캄,げっ……<br>見つかっちまったか……,엣...<br>발견되어버렸나...
 Japanese,"scene_cp31_q2_s20,3122",detail,오이겐,まぁ……<br>遅かれ早かれ、<br>バレるとは思ってたがなぁ。,"뭐....<br> 조만간,<br>들킬거라고는 생각했지만."
 Japanese,"scene_cp31_q2_s20,3122",detail,モニカ,なぜ黒騎士の拘束が解かれている？<br>返答次第では<br>覚悟してもらうことになるぞ……！,흑기사의 구속이 왜 풀려있을까?답변하기에 따라서는<br>각오하게 될거야……！
-Japanese,"scene_cp31_q2_s20,3122",detail,リーシャ,[ジータ]さん……<br>まさか黒騎士に、<br>何か弱みを握られて……？,[지타]씨...<br>설마 흑기사한테 <br>뭔가 약점이 잡혀서....?
+Japanese,"scene_cp31_q2_s20,3122",detail,リーシャ,[플레이어]さん……<br>まさか黒騎士に、<br>何か弱みを握られて……？,[플레이어]씨...<br>설마 흑기사한테 <br>뭔가 약점이 잡혀서....?
 Japanese,"scene_cp31_q2_s20,3122",detail,루리아,えと……ち、違うんです。<br>これは……<br>いまこうしているのは、私達の意志です。,그러니까... 아닙니다.<br>이것은……<br>지금 이러고 있는것은 우리의 의지입니다.
 Japanese,"scene_cp31_q2_s20,3122",detail,リーシャ,そんな……<br>だって貴方達は、<br>黒騎士とは敵対しているはずじゃ……,"그런....<br>왜냐하면 당신들은,<br>흑기사와는 적대하고 있을거아냐...."
 Japanese,"scene_cp31_q2_s20,3122",detail,루리아,黒騎士さんがどういう人なのか……<br>それは確かに、<br>まだちょっと私にはわかりません。,흑기사님이 어떤분인지....<br>그건 확실히<br>아직 난 잘모르겠습니다.
@@ -178,7 +178,7 @@ English,"scene_cp31_q1_s10,3111",detail,Black Knight,"Just as I warned you in Va
 English,"scene_cp31_q1_s10,3111",detail,Black Knight,"With the doll already in her clutches, she will now likely begin to pursue Lyria with greater vigor."
 English,"scene_cp31_q1_s10,3111",detail,Katalina,"Just before we arrived at this island, Prime Minister Freesia's forces were attacking us nonstop."
 English,"scene_cp31_q1_s10,3111",detail,Black Knight,"She will make any sacrifice for her as long as it helps her further her ambition, even circulating dark essence. Everything has been according to her plan."
-English,"scene_cp31_q1_s10,3111",detail,Black Knight,"We must act before it's too late—we must retrieve that doll, [Djeeta]!"
+English,"scene_cp31_q1_s10,3111",detail,Black Knight,"We must act before it's too late—we must retrieve that doll, [플레이어]!"
 English,"scene_cp31_q1_s20,3112",synopsis,,The Black Knight reveals that Freesia plans to sacrifice both Lyria and Orchis for a nefarious plot.
 English,"scene_cp31_q1_s20,3112",detail,Eugen,"Apollo, do you know what the Prime Minister's goal is?"
 English,"scene_cp31_q1_s20,3112",detail,Black Knight,No. Not the specifics at least.
@@ -192,7 +192,7 @@ English,"scene_cp31_q1_s20,3112",detail,Black Knight,I may know where they've ta
 English,"scene_cp31_q1_s20,3112",detail,Black Knight,"Then again, I can't do much of anything while I remain bound."
 English,"scene_cp31_q1_s20,3112",detail,Tzaka the Great,Looks like you're not the only one that's trapped.
 English,"scene_cp31_q1_s20,3112",detail,Tzaka the Great,These soldiers are bearing down on us from every direction.
-English,"scene_cp31_q1_s20,3112",detail,Tzaka the Great,"We have to bust through before we can move on! After me, [Djeeta]!"
+English,"scene_cp31_q1_s20,3112",detail,Tzaka the Great,"We have to bust through before we can move on! After me, [플레이어]!"
 English,"scene_cp31_q2_s10,3121",synopsis,,The Black Knight tells the crew that Orchis is being held captive on a different island. Everyone begins to formulate a plan to escape Amalthea.
 English,"scene_cp31_q2_s10,3121",detail,Katalina,Haaah!
 English,"scene_cp31_q2_s10,3121",detail,Black Knight,"Impressive. Even though you left the imperial army, your sword arm hasn't gotten rusty."
@@ -224,11 +224,11 @@ English,"scene_cp31_q2_s20,3122",detail,Vyrn,Eep! She's a scary one...
 English,"scene_cp31_q2_s20,3122",detail,Lyria,"Even though we're working together now, the Black Knight still makes me really nervous."
 English,"scene_cp31_q2_s20,3122",detail,Black Knight,...
 English,"scene_cp31_q2_s20,3122",detail,Lecia,What in the skies is going on here?
-English,"scene_cp31_q2_s20,3122",detail,Monika,"I'm afraid you'll have to explain yourself, [Djeeta]."
+English,"scene_cp31_q2_s20,3122",detail,Monika,"I'm afraid you'll have to explain yourself, [플레이어]."
 English,"scene_cp31_q2_s20,3122",detail,Rackam,Looks like they caught us...
 English,"scene_cp31_q2_s20,3122",detail,Eugen,"Eh, it was bound to happen sooner or later."
 English,"scene_cp31_q2_s20,3122",detail,Monika,"What happened to the Black Knight's binds? Depending on your answer, you had better be prepared to face the consequences!"
-English,"scene_cp31_q2_s20,3122",detail,Lecia,"[Djeeta], be honest. Is the Black Knight blackmailing you?"
+English,"scene_cp31_q2_s20,3122",detail,Lecia,"[플레이어], be honest. Is the Black Knight blackmailing you?"
 English,"scene_cp31_q2_s20,3122",detail,Lyria,"Um... No, she's not. This was our decision."
 English,"scene_cp31_q2_s20,3122",detail,Lecia,Unbelievable. Aren't you enemies with her?
 English,"scene_cp31_q2_s20,3122",detail,Lyria,It's just that... the Black Knight might not be the kind of person she seems. We need to be sure.
@@ -241,7 +241,7 @@ English,"scene_cp31_q2_s20,3122",detail,Lecia,Monika?
 English,"scene_cp31_q2_s20,3122",detail,Monika,Your crew is now our enemy!
 English,"scene_cp31_q2_s20,3122",detail,Monika,"From hence forth, the Crew of Enforcers will be your adversary! Don't think you can escape so easily!"
 English,"scene_cp31_q3_s10,3131",synopsis,,"The Black Knight begins to show signs of fatigue. Eugen attempts to comfort her, but his good intentions are met with years of pent up antagonism."
-English,"scene_cp31_q3_s10,3131",detail,,"After giving Monika and Lecia the slip, [Djeeta] and the others are rushing back to the Grandcypher."
+English,"scene_cp31_q3_s10,3131",detail,,"After giving Monika and Lecia the slip, [플레이어] and the others are rushing back to the Grandcypher."
 English,"scene_cp31_q3_s10,3131",detail,Black Knight,Huff... Huff...
 English,"scene_cp31_q3_s10,3131",detail,Eugen,"Oy, you holdin' up? You've been in custody for a while. Don't overdo it."
 English,"scene_cp31_q3_s10,3131",detail,Black Knight,Enough! You don't care what happens to me.

@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp62_q1_s20,6211",synopsis,,世界を崩壊させてまで歴史を修正しようとするフリーシアに対し、[ジータ]達はいまあるこの世界を守ることを決意する。[ジータ]達との話し合いを放棄したフリーシアは、自ら魔晶を使って変身し、[ジータ]達に襲いかかる。
-Japanese,"scene_cp62_q1_s20,6211",detail,,<span class='scene-font-katari'>２体の星晶獣に注いでいた力の帯を辿り、</span><br><span class='scene-font-katari'>タワー内部のとある一室に</span><br><span class='scene-font-katari'>たどり着く[ジータ]一行。</span>
+Japanese,"scene_cp62_q1_s20,6211",synopsis,,世界を崩壊させてまで歴史を修正しようとするフリーシアに対し、[플레이어]達はいまあるこの世界を守ることを決意する。[플레이어]達との話し合いを放棄したフリーシアは、自ら魔晶を使って変身し、[플레이어]達に襲いかかる。
+Japanese,"scene_cp62_q1_s20,6211",detail,,<span class='scene-font-katari'>２体の星晶獣に注いでいた力の帯を辿り、</span><br><span class='scene-font-katari'>タワー内部のとある一室に</span><br><span class='scene-font-katari'>たどり着く[플레이어]一行。</span>
 Japanese,"scene_cp62_q1_s20,6211",detail,,<span class='scene-font-katari'>そこに「リアクター」は無かったものの、</span><br><span class='scene-font-katari'>部屋の更に奥の扉に</span><br><span class='scene-font-katari'>力の帯は続いており……</span>
 Japanese,"scene_cp62_q1_s20,6211",detail,フリーシア,…………
 Japanese,"scene_cp62_q1_s20,6211",detail,,<span class='scene-font-katari'>その扉の前には、</span><br><span class='scene-font-katari'>フリーシアが佇んでいた。</span>
@@ -27,7 +27,7 @@ Japanese,"scene_cp62_q1_s20,6211",detail,リーシャ,貴女のやろうとし�
 Japanese,"scene_cp62_q1_s20,6211",detail,リーシャ,けれど……<br>だからこそ、私達は戦うんです。<br>私達の大切なものを守るために。
 Japanese,"scene_cp62_q1_s20,6211",detail,루리아,私達のいまを守るために、<br>私達に出来ることがあるのなら、<br>私はそれを精一杯頑張りたいです……
 Japanese,"scene_cp62_q1_s20,6211",detail,비이,へへっ！<br>まぁ、当然、<br>諦められるようなもんでもねーしな！
-Japanese,"scene_cp62_q1_s20,6211",detail,,<span class='scene-font-katari'>[ジータ]一行の決意を聞き、</span><br><span class='scene-font-katari'>フリーシアはわずかに口角を上げる。</span>
+Japanese,"scene_cp62_q1_s20,6211",detail,,<span class='scene-font-katari'>[플레이어]一行の決意を聞き、</span><br><span class='scene-font-katari'>フリーシアはわずかに口角を上げる。</span>
 Japanese,"scene_cp62_q1_s20,6211",detail,フリーシア,ふふ……そう、そうですか。<br>実に簡単な話だったのですね。
 Japanese,"scene_cp62_q1_s20,6211",detail,フリーシア,ただ己を守る力を持つ者が……<br>力ある者こそが世界を、<br>歴史を統べるというのなら……
 Japanese,"scene_cp62_q1_s20,6211",detail,フリーシア,いいでしょう！<br>貴方達の望む方法で、<br>私は私の正しさを証明する！！
@@ -39,9 +39,9 @@ Japanese,"scene_cp62_q1_s20,6211",detail,흑기사,複数の信念は対立を�
 Japanese,"scene_cp62_q1_s20,6211",detail,흑기사,しかし……<br>その争いに勝ち続けてきたからこそ、<br>いま、我々はここにいるのだろう。
 Japanese,"scene_cp62_q1_s20,6211",detail,オルキス,つまり……今度も頑張ろう？
 Japanese,"scene_cp62_q1_s20,6211",detail,흑기사,ふっ……端的に言えば、その通りだ。
-Japanese,"scene_cp62_q1_s20,6211",detail,흑기사,いまさら臆するほどの相手ではない！<br>さっさと片付けてしまうぞ！<br>[ジータ]！
-Japanese,"scene_cp62_q2_s20,6221",synopsis,,フリーシアを撃破した[ジータ]達は「リアクター」の破壊を試みる。しかし、[ジータ]達が「リアクター」に近づくと、「リアクター」の自己防衛システムが[ジータ]達を排除すべく起動してしまう。
-Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>魔晶で変身したフリーシアと相対し、</span><br><span class='scene-font-katari'>ついに決定的な一撃を与える。</span>
+Japanese,"scene_cp62_q1_s20,6211",detail,흑기사,いまさら臆するほどの相手ではない！<br>さっさと片付けてしまうぞ！<br>[플레이어]！
+Japanese,"scene_cp62_q2_s20,6221",synopsis,,フリーシアを撃破した[플레이어]達は「リアクター」の破壊を試みる。しかし、[플레이어]達が「リアクター」に近づくと、「リアクター」の自己防衛システムが[플레이어]達を排除すべく起動してしまう。
+Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>魔晶で変身したフリーシアと相対し、</span><br><span class='scene-font-katari'>ついに決定的な一撃を与える。</span>
 Japanese,"scene_cp62_q2_s20,6221",detail,フリーシア,ぐっ……がはっ……！！<br>くっ……
 Japanese,"scene_cp62_q2_s20,6221",detail,フリーシア,はぁ……はぁ……
 Japanese,"scene_cp62_q2_s20,6221",detail,흑기사,ふん……<br>どうやらこれで終わりのようだな。
@@ -55,7 +55,7 @@ Japanese,"scene_cp62_q2_s20,6221",detail,흑기사,それより、<br>早く「�
 Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>黒騎士はそう言って、</span><br><span class='scene-font-katari'>部屋の奥の扉を示す。</span>
 Japanese,"scene_cp62_q2_s20,6221",detail,フリーシア,…………！！
 Japanese,"scene_cp62_q2_s20,6221",detail,로제타,そうね……<br>きっと「リアクター」自体は、<br>勝手に動き続けているでしょうし……
-Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>フリーシアをその場に残し、</span><br><span class='scene-font-katari'>奥の部屋へと歩みを進める。</span>
+Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>フリーシアをその場に残し、</span><br><span class='scene-font-katari'>奥の部屋へと歩みを進める。</span>
 Japanese,"scene_cp62_q2_s20,6221",detail,リアクター,――――
 Japanese,"scene_cp62_q2_s20,6221",detail,リーシャ,これが……？
 Japanese,"scene_cp62_q2_s20,6221",detail,이오,うう……な、なんかこの部屋、<br>空気が重いというか、<br>嫌な感じがするわね……
@@ -66,14 +66,14 @@ Japanese,"scene_cp62_q2_s20,6221",detail,오이겐,ってもまぁ……<br>こ�
 Japanese,"scene_cp62_q2_s20,6221",detail,흑기사,そうだ……<br>我々はこの「リアクター」の<br>見学に来たわけではない。
 Japanese,"scene_cp62_q2_s20,6221",detail,흑기사,早々に……<br>目的を達してしまうとしようか。
 Japanese,"scene_cp62_q2_s20,6221",detail,라캄,おう！ あともう一息だ！<br>さっさとこいつを片づけて、<br>早くグランサイファーに……
-Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>その時、不意に周囲に警報音が鳴り響き、</span><br><span class='scene-font-katari'>[ジータ]一行は各々身構える。</span>
+Japanese,"scene_cp62_q2_s20,6221",detail,,<span class='scene-font-katari'>その時、不意に周囲に警報音が鳴り響き、</span><br><span class='scene-font-katari'>[플레이어]一行は各々身構える。</span>
 Japanese,"scene_cp62_q2_s20,6221",detail,오이겐,おいおい……なんだぁ？
 Japanese,"scene_cp62_q2_s20,6221",detail,リアクター,――敵性存在を検知。<br>自己防衛システムを起動します。
 Japanese,"scene_cp62_q2_s20,6221",detail,로제타,壊すだけ、とは言ったけれど……<br>やっぱりそう簡単には<br>いかないみたいね？
-Japanese,"scene_cp62_q2_s20,6221",detail,비이,けど、ここまできたんだ！<br>あともう一息だぜ！<br>[ジータ]！
+Japanese,"scene_cp62_q2_s20,6221",detail,비이,けど、ここまできたんだ！<br>あともう一息だぜ！<br>[플레이어]！
 Japanese,"scene_cp62_q2_s20,6221",detail,오이겐,何事もなけりゃあ、<br>こいつが最終決戦だ！<br>気合入れていくぞ！
-Japanese,"scene_cp62_q3_s20,6231",synopsis,,ルリアはリアクターの核である星晶獣デウス・エクス・マキナを吸収する。そこに現れたフリーシアは、未だ己の悲願を諦めず、何があろうと必ず悲願を成就させることを、ミスラに宣誓する。ミスラの絶対遵守の力によって何度でも甦るフリーシアは、正気を失った様子で[ジータ]達に襲いかかってくる。
-Japanese,"scene_cp62_q3_s20,6231",detail,,<span class='scene-font-katari'>自己防衛システムを潜り抜け</span><br><span class='scene-font-katari'>[ジータ]一行はリアクターに、</span><br><span class='scene-font-katari'>大きなダメージを与える。</span>
+Japanese,"scene_cp62_q3_s20,6231",synopsis,,ルリアはリアクターの核である星晶獣デウス・エクス・マキナを吸収する。そこに現れたフリーシアは、未だ己の悲願を諦めず、何があろうと必ず悲願を成就させることを、ミスラに宣誓する。ミスラの絶対遵守の力によって何度でも甦るフリーシアは、正気を失った様子で[플레이어]達に襲いかかってくる。
+Japanese,"scene_cp62_q3_s20,6231",detail,,<span class='scene-font-katari'>自己防衛システムを潜り抜け</span><br><span class='scene-font-katari'>[플레이어]一行はリアクターに、</span><br><span class='scene-font-katari'>大きなダメージを与える。</span>
 Japanese,"scene_cp62_q3_s20,6231",detail,リアクター,――大規模な破損を確認。<br>全機能を停止します。
 Japanese,"scene_cp62_q3_s20,6231",detail,라캄,やれやれ……<br>これでひとまずは解決か？
 Japanese,"scene_cp62_q3_s20,6231",detail,루리아,はい！<br>これで後は……
@@ -111,8 +111,8 @@ Japanese,"scene_cp62_q3_s20,6231",detail,카타리나,おそらくは……
 Japanese,"scene_cp62_q3_s20,6231",detail,라캄,なっ！？<br>そんなんアリなのかよ！？
 Japanese,"scene_cp62_q3_s20,6231",detail,카타리나,わからない……<br>しかし、宰相自身にかかる苦痛も<br>尋常ではないはずだ……
 Japanese,"scene_cp62_q3_s20,6231",detail,로제타,ともあれ、<br>悠長に話してる場合じゃ<br>ないみたいね……
-Japanese,"scene_cp62_q3_s20,6231",detail,로제타,完全にまともな状態じゃないわ……<br>来るわよ！ 構えなさい！<br>[ジータ]！
-Japanese,"scene_cp62_q4_s20,6241",synopsis,,何度倒そうとも復活するフリーシアにとどめを刺すべく、[ジータ]達は星晶獣アーカーシャの元へと向かう。[ジータ]達は未来からフリーシアの存在そのものを消そうとするが、不正に起動された星晶獣アーカーシャによって次々と仲間が消されてしまう。しかしその時、目覚めたビィの力が仲間達を呼び戻し、一行はアーカーシャを正常に起動させるため戦いを挑む。
+Japanese,"scene_cp62_q3_s20,6231",detail,로제타,完全にまともな状態じゃないわ……<br>来るわよ！ 構えなさい！<br>[플레이어]！
+Japanese,"scene_cp62_q4_s20,6241",synopsis,,何度倒そうとも復活するフリーシアにとどめを刺すべく、[플레이어]達は星晶獣アーカーシャの元へと向かう。[플레이어]達は未来からフリーシアの存在そのものを消そうとするが、不正に起動された星晶獣アーカーシャによって次々と仲間が消されてしまう。しかしその時、目覚めたビィの力が仲間達を呼び戻し、一行はアーカーシャを正常に起動させるため戦いを挑む。
 Japanese,"scene_cp62_q4_s20,6241",detail,フリーシア,ぐがっ！ が……あ……
 Japanese,"scene_cp62_q4_s20,6241",detail,フリーシア,あ……ああ……
 Japanese,"scene_cp62_q4_s20,6241",detail,リーシャ,はぁ……はぁ……<br>こ、これで……
@@ -198,7 +198,7 @@ Japanese,"scene_cp62_q4_s20,6241",detail,오이겐,おいおいおい……！<b
 Japanese,"scene_cp62_q4_s20,6241",detail,라캄,いやぁ……<br>どうもそういうもんじゃ……
 Japanese,"scene_cp62_q4_s20,6241",detail,루리아,敵性存在を含む、<br>周辺情報の消去を続行します――
 Japanese,"scene_cp62_q4_s20,6241",detail,リーシャ,まさかこれが……<br>星晶獣アーカーシャの……！？
-Japanese,"scene_cp62_q4_s20,6241",detail,,<span class='scene-font-katari'>[ジータ]の周囲からは、</span><br><span class='scene-font-katari'>次々と仲間が光に包まれ、</span><br><span class='scene-font-katari'>その姿を消していく。</span>
+Japanese,"scene_cp62_q4_s20,6241",detail,,<span class='scene-font-katari'>[플레이어]の周囲からは、</span><br><span class='scene-font-katari'>次々と仲間が光に包まれ、</span><br><span class='scene-font-katari'>その姿を消していく。</span>
 Japanese,"scene_cp62_q4_s20,6241",detail,이오,うそ……！
 Japanese,"scene_cp62_q4_s20,6241",detail,비이,お、おい！ ルリア！<br>目ぇ覚ませって！<br>これ、お前ならなんとか……！
 Japanese,"scene_cp62_q4_s20,6241",detail,루리아,…………
@@ -206,13 +206,13 @@ Japanese,"scene_cp62_q4_s20,6241",detail,루리아,敵性存在を含む、<br>�
 Japanese,"scene_cp62_q4_s20,6241",detail,로제타,これは……<br>ルリアちゃんの意識と呼べるものは、<br>もうどこにも……
 Japanese,"scene_cp62_q4_s20,6241",detail,카타리나,馬鹿な……
 Japanese,"scene_cp62_q4_s20,6241",detail,루리아,――残存敵性存在２。<br>敵性存在を含む、<br>周辺情報の消去を続行します――
-Japanese,"scene_cp62_q4_s20,6241",detail,비이,カタリナまで……<br>ど、どうする！？ [ジータ]！<br>もうオイラ達しか居ねぇぞ！？
+Japanese,"scene_cp62_q4_s20,6241",detail,비이,カタリナまで……<br>ど、どうする！？ [플레이어]！<br>もうオイラ達しか居ねぇぞ！？
 Japanese,"scene_cp62_q4_s20,6241",detail,비이,<span class='scene-font-kokoro'>（オ、オイラ達本当に、</span><br><span class='scene-font-kokoro'>ここで終わっちまうってのか……？）</span>
-Japanese,"scene_cp62_q4_s20,6241",detail,비이,な、なぁ、[ジータ]……<br>[ジータ]はまだ、<br>諦めたりなんかしてねーよな？
+Japanese,"scene_cp62_q4_s20,6241",detail,비이,な、なぁ、[플레이어]……<br>[플레이어]はまだ、<br>諦めたりなんかしてねーよな？
 Japanese,"scene_cp62_q4_s20,6241",sel1_txt,,<span class='scene-font-katari'>もちろん</span>
 Japanese,"scene_cp62_q4_s20,6241",sel2_txt,,<span class='scene-font-katari'>ここからでしょ</span>
 Japanese,"scene_cp62_q4_s20,6241",detail,비이,だ、だよなっ！<br>絶対に、何か方法があるはずだぜ……
-Japanese,"scene_cp62_q4_s20,6241",detail,비이,へへっ！<br>こんな状況でも、<br>[ジータ]は変わんねーのな！
+Japanese,"scene_cp62_q4_s20,6241",detail,비이,へへっ！<br>こんな状況でも、<br>[플레이어]は変わんねーのな！
 Japanese,"scene_cp62_q4_s20,6241",detail,비이,<span class='scene-font-kokoro'>（そうだ……</span><br><span class='scene-font-kokoro'>まだ諦めるわけにはいかねーぜ！）</span>
 Japanese,"scene_cp62_q4_s20,6241",detail,비이,<span class='scene-font-kokoro'>（オイラにも何か……</span><br><span class='scene-font-kokoro'>きっと、出来ることが……）</span>
 Japanese,"scene_cp62_q4_s20,6241",detail,？？？,――――
@@ -225,14 +225,14 @@ Japanese,"scene_cp62_q4_s20,6241",detail,로제타,少なくとも……<br>全�
 Japanese,"scene_cp62_q4_s20,6241",detail,,<span class='scene-font-katari'>ロゼッタに続き、</span><br><span class='scene-font-katari'>他の消された仲間達も、</span><br><span class='scene-font-katari'>光に包まれながら次々に復活する。</span>
 Japanese,"scene_cp62_q4_s20,6241",detail,루리아,―― 一部機能の破損を確認、<br>自己防衛機能を一時停止、<br>機能回復に……移り、ます――
 Japanese,"scene_cp62_q4_s20,6241",detail,카타리나,ルリアっ！
-Japanese,"scene_cp62_q4_s20,6241",detail,,<span class='scene-font-katari'>倒れたルリアを、</span><br><span class='scene-font-katari'>間一髪、[ジータ]が抱き留める。</span>
+Japanese,"scene_cp62_q4_s20,6241",detail,,<span class='scene-font-katari'>倒れたルリアを、</span><br><span class='scene-font-katari'>間一髪、[플레이어]が抱き留める。</span>
 Japanese,"scene_cp62_q4_s20,6241",detail,루리아,え？ 私……？
 Japanese,"scene_cp62_q4_s20,6241",detail,이오,ね、ねぇ、何が起きたの？<br>いまのまさか、ビィが……？
 Japanese,"scene_cp62_q4_s20,6241",detail,비이,オ、オイラにもよくわかんねーけど……
 Japanese,"scene_cp62_q4_s20,6241",detail,오이겐,ともあれいまが好機だぜ！
 Japanese,"scene_cp62_q4_s20,6241",detail,오이겐,アーカーシャの力が抑えられてるうちに、<br>ぶっ叩いて言うことを聞かせるぞ！
-Japanese,"scene_cp62_q4_s30,6242",synopsis,,ルリアとオルキスによって星晶獣アーカーシャは正しく起動され、[ジータ]達は無事フリーシアを止めることに成功し、ルリアの優しさからフリーシアも一命を取り留める。こうして巨大な陰謀には終止符が打たれたものの、黒騎士とオルキスの間には、未だ大きな問題が残っているのだった。
-Japanese,"scene_cp62_q4_s30,6242",detail,,<span class='scene-font-katari'>星晶獣アーカーシャとの</span><br><span class='scene-font-katari'>死闘を制する[ジータ]一行。</span>
+Japanese,"scene_cp62_q4_s30,6242",synopsis,,ルリアとオルキスによって星晶獣アーカーシャは正しく起動され、[플레이어]達は無事フリーシアを止めることに成功し、ルリアの優しさからフリーシアも一命を取り留める。こうして巨大な陰謀には終止符が打たれたものの、黒騎士とオルキスの間には、未だ大きな問題が残っているのだった。
+Japanese,"scene_cp62_q4_s30,6242",detail,,<span class='scene-font-katari'>星晶獣アーカーシャとの</span><br><span class='scene-font-katari'>死闘を制する[플레이어]一行。</span>
 Japanese,"scene_cp62_q4_s30,6242",detail,アーカーシャ,…………
 Japanese,"scene_cp62_q4_s30,6242",detail,,<span class='scene-font-katari'>ルリアとオルキスによって、</span><br><span class='scene-font-katari'>正しく再起動されたアーカーシャは、</span><br><span class='scene-font-katari'>その能力をルリアの手に委ねられる。</span>
 Japanese,"scene_cp62_q4_s30,6242",detail,루리아,<span class='scene-font-kokoro'>（この中に……</span><br><span class='scene-font-kokoro'>過去・現在・未来の、</span><br><span class='scene-font-kokoro'>この世界の全ての記録が……）</span>
@@ -276,15 +276,15 @@ Japanese,"scene_cp62_q4_s30,6242",detail,오이겐,しかしまぁ、<br>これ�
 Japanese,"scene_cp62_q4_s30,6242",detail,라캄,やれやれ……<br>やぁっとこれで一息つけるな……
 Japanese,"scene_cp62_q4_s30,6242",detail,이오,はぁ……<br>なんだかどっと疲れた感じがするわ……
 Japanese,"scene_cp62_q4_s30,6242",detail,로제타,ふふ……お疲れ様。<br>皆頑張っていたものね。
-Japanese,"scene_cp62_q4_s30,6242",detail,リーシャ,ひとまず、<br>これで帝都も世界も一安心ですね！<br>お疲れ様でした！ [ジータ]！
-Japanese,"scene_cp62_q4_s30,6242",detail,비이,へへっ！<br>今回も大活躍だったな！<br>[ジータ]！
+Japanese,"scene_cp62_q4_s30,6242",detail,リーシャ,ひとまず、<br>これで帝都も世界も一安心ですね！<br>お疲れ様でした！ [플레이어]！
+Japanese,"scene_cp62_q4_s30,6242",detail,비이,へへっ！<br>今回も大活躍だったな！<br>[플레이어]！
 Japanese,"scene_cp62_q4_s30,6242",detail,,<span class='scene-font-katari'>巨大な陰謀に終止符が打たれ、</span><br><span class='scene-font-katari'>各々が安堵の息を漏らす。</span>
 Japanese,"scene_cp62_q4_s30,6242",detail,흑기사,…………
 Japanese,"scene_cp62_q4_s30,6242",detail,オルキス,…………
 Japanese,"scene_cp62_q4_s30,6242",detail,루리아,…………
 Japanese,"scene_cp62_q4_s30,6242",detail,,<span class='scene-font-katari'>しかし、内に強い決意を秘めた者は、</span><br><span class='scene-font-katari'>自らの進むべき道を想い、</span><br><span class='scene-font-katari'>それぞれが互いを見守るのだった。</span>
-English,"scene_cp62_q1_s20,6211",synopsis,,"[Djeeta] and company vow to protect the world that Freesia is attempting to destroy in order to correct all history. However, Freesia uses dark essence to transform herself and get rid of [Djeeta] and company."
-English,"scene_cp62_q1_s20,6211",detail,,[Djeeta] and company follow the trail of the power band to a room in the inner part of the Tower.
+English,"scene_cp62_q1_s20,6211",synopsis,,"[플레이어] and company vow to protect the world that Freesia is attempting to destroy in order to correct all history. However, Freesia uses dark essence to transform herself and get rid of [플레이어] and company."
+English,"scene_cp62_q1_s20,6211",detail,,[플레이어] and company follow the trail of the power band to a room in the inner part of the Tower.
 English,"scene_cp62_q1_s20,6211",detail,,"Although there is no reactor, the power band can be traced beyond a door further inside."
 English,"scene_cp62_q1_s20,6211",detail,Freesia,...
 English,"scene_cp62_q1_s20,6211",detail,,"Before the door stands Freesia, lingering quietly."
@@ -311,7 +311,7 @@ English,"scene_cp62_q1_s20,6211",detail,Lecia,Perhaps what you're trying to do i
 English,"scene_cp62_q1_s20,6211",detail,Lecia,But... we will stand against you. To protect what's precious to us.
 English,"scene_cp62_q1_s20,6211",detail,Lyria,"If there's something we can do to save the world now, we'll use all our strength to try."
 English,"scene_cp62_q1_s20,6211",detail,Vyrn,You betcha! Of course we can't give up here!
-English,"scene_cp62_q1_s20,6211",detail,,"As Freesia listens to [Djeeta] and company affirm their stance, the corners of her mouth turn upward into a crazed grin."
+English,"scene_cp62_q1_s20,6211",detail,,"As Freesia listens to [플레이어] and company affirm their stance, the corners of her mouth turn upward into a crazed grin."
 English,"scene_cp62_q1_s20,6211",detail,Freesia,Really... Is that so? How simple.
 English,"scene_cp62_q1_s20,6211",detail,Freesia,If one holds the power to protect... One also holds the power to control the world and its history...
 English,"scene_cp62_q1_s20,6211",detail,Freesia,"Fine then! We'll do it your way, and I'll prove to you the righteousness of my path!"
@@ -323,9 +323,9 @@ English,"scene_cp62_q1_s20,6211",detail,Black Knight,"With different convictions
 English,"scene_cp62_q1_s20,6211",detail,Black Knight,But... aren't we here now because we continued to earn the victory in every fight?
 English,"scene_cp62_q1_s20,6211",detail,Orchis,So... let's give it our best shot again?
 English,"scene_cp62_q1_s20,6211",detail,Black Knight,"To put it briefly, yes."
-English,"scene_cp62_q1_s20,6211",detail,Black Knight,"We've come too far to fear this fight! Let's finish this quickly, [Djeeta]!"
-English,"scene_cp62_q2_s20,6221",synopsis,,"After defeating Freesia, [Djeeta] and company go after the reactor. However, as they get closer, the reactor activates its self-defense system with [Djeeta] and company as the target."
-English,"scene_cp62_q2_s20,6221",detail,,[Djeeta] and company square off against a transformed Freesia and manage to land a decisive blow.
+English,"scene_cp62_q1_s20,6211",detail,Black Knight,"We've come too far to fear this fight! Let's finish this quickly, [플레이어]!"
+English,"scene_cp62_q2_s20,6221",synopsis,,"After defeating Freesia, [플레이어] and company go after the reactor. However, as they get closer, the reactor activates its self-defense system with [플레이어] and company as the target."
+English,"scene_cp62_q2_s20,6221",detail,,[플레이어] and company square off against a transformed Freesia and manage to land a decisive blow.
 English,"scene_cp62_q2_s20,6221",detail,Freesia,Argh... Ahh... Ugh...
 English,"scene_cp62_q2_s20,6221",detail,Freesia,Pant... Wheeze...
 English,"scene_cp62_q2_s20,6221",detail,Black Knight,Humph... Looks like this is the end.
@@ -339,7 +339,7 @@ English,"scene_cp62_q2_s20,6221",detail,Black Knight,And we must hurry to stop t
 English,"scene_cp62_q2_s20,6221",detail,,The Black Knight gestures toward the door at the end of the room.
 English,"scene_cp62_q2_s20,6221",detail,Freesia,!
 English,"scene_cp62_q2_s20,6221",detail,Rosetta,You're right... The reactor is probably still functioning on its own.
-English,"scene_cp62_q2_s20,6221",detail,,[Djeeta] and company leave Freesia behind and head toward the door.
+English,"scene_cp62_q2_s20,6221",detail,,[플레이어] and company leave Freesia behind and head toward the door.
 English,"scene_cp62_q2_s20,6221",detail,Reactor,...
 English,"scene_cp62_q2_s20,6221",detail,Lecia,Is this it?
 English,"scene_cp62_q2_s20,6221",detail,Io,"Eek... Th-the air in here feels thick, like something's really wrong here."
@@ -350,14 +350,14 @@ English,"scene_cp62_q2_s20,6221",detail,Eugen,"But even so, as long as we destro
 English,"scene_cp62_q2_s20,6221",detail,Black Knight,Right... We didn't come here to just look at it.
 English,"scene_cp62_q2_s20,6221",detail,Black Knight,Let's hurry and do what we came to do.
 English,"scene_cp62_q2_s20,6221",detail,Rackam,Yep! We're almost done! So let's get this over with and head back to the Grandcypher...
-English,"scene_cp62_q2_s20,6221",detail,,An alarm suddenly goes off. [Djeeta] and company brace themselves.
+English,"scene_cp62_q2_s20,6221",detail,,An alarm suddenly goes off. [플레이어] and company brace themselves.
 English,"scene_cp62_q2_s20,6221",detail,Eugen,Hey now... What's this?
 English,"scene_cp62_q2_s20,6221",detail,Reactor,Hostile entities detected. Initiating self-defense system.
 English,"scene_cp62_q2_s20,6221",detail,Rosetta,"You say we only need to destroy it, but it might not be so easy."
-English,"scene_cp62_q2_s20,6221",detail,Vyrn,"But we've already come this far! It's just a bit further to go, [Djeeta]!"
+English,"scene_cp62_q2_s20,6221",detail,Vyrn,"But we've already come this far! It's just a bit further to go, [플레이어]!"
 English,"scene_cp62_q2_s20,6221",detail,Eugen,"If all goes well, this'll be the final fight! Now roll up your sleeves and let's go!"
 English,"scene_cp62_q3_s20,6231",synopsis,,"Lyria absorbs the core of the reactor, the primal beast Deus Ex Machina. However, Freesia appears and vows before Mithra to never give up until her goal is reached. With Mithra's power to ensure that her promise is fulfilled, the crew find themselves up against a crazed and invincible foe."
-English,"scene_cp62_q3_s20,6231",detail,,"In order to evade the reactor's self-defense system, [Djeeta] and company deal blow after damaging blow."
+English,"scene_cp62_q3_s20,6231",detail,,"In order to evade the reactor's self-defense system, [플레이어] and company deal blow after damaging blow."
 English,"scene_cp62_q3_s20,6231",detail,Reactor,Critical damage confirmed. Aborting all functions...
 English,"scene_cp62_q3_s20,6231",detail,Rackam,Good gracious... Does this mean it's stopped for now?
 English,"scene_cp62_q3_s20,6231",detail,Lyria,Yes! Now there's one thing left to do...
@@ -395,7 +395,7 @@ English,"scene_cp62_q3_s20,6231",detail,Katalina,So it would seem.
 English,"scene_cp62_q3_s20,6231",detail,Rackam,What! Is that even possible?
 English,"scene_cp62_q3_s20,6231",detail,Katalina,I don't know... But the pain she must be in is far from ordinary.
 English,"scene_cp62_q3_s20,6231",detail,Rosetta,"Anyway, this isn't the time for chat."
-English,"scene_cp62_q3_s20,6231",detail,Rosetta,"It's getting rather thorny in here... Watch out, [Djeeta]! It's coming your way!"
+English,"scene_cp62_q3_s20,6231",detail,Rosetta,"It's getting rather thorny in here... Watch out, [플레이어]! It's coming your way!"
 English,"scene_cp62_q4_s20,6241",synopsis,,"In an attempt to erase Freesia from the future, the crew incorrectly activates Akasha, inadvertently causing it to begin erasing everyone one by one. However, Vyrn is able to awaken his true power to recover everyone and take Akasha head-on."
 English,"scene_cp62_q4_s20,6241",detail,Freesia,Argh! Ah... Ahh...
 English,"scene_cp62_q4_s20,6241",detail,Freesia,Urgh...
@@ -482,7 +482,7 @@ English,"scene_cp62_q4_s20,6241",detail,Eugen,"Hey, hey now! Is this supposed to
 English,"scene_cp62_q4_s20,6241",detail,Rackam,Nope... Doesn't look like it at all...
 English,"scene_cp62_q4_s20,6241",detail,Lyria,Performing erasure of all surrounding data including hostile entities...
 English,"scene_cp62_q4_s20,6241",detail,Lecia,Could it be... Is this Akasha's true power?
-English,"scene_cp62_q4_s20,6241",detail,,"All around [Djeeta], friends are disappearing one by one into the light."
+English,"scene_cp62_q4_s20,6241",detail,,"All around [플레이어], friends are disappearing one by one into the light."
 English,"scene_cp62_q4_s20,6241",detail,Io,No!
 English,"scene_cp62_q4_s20,6241",detail,Vyrn,"H-hey now, Lyria! Wake up already! There's gotta be something you can do!"
 English,"scene_cp62_q4_s20,6241",detail,Lyria,...
@@ -490,13 +490,13 @@ English,"scene_cp62_q4_s20,6241",detail,Lyria,Performing erasure of all surround
 English,"scene_cp62_q4_s20,6241",detail,Rosetta,It seems... Lyria may be lost to us now.
 English,"scene_cp62_q4_s20,6241",detail,Katalina,Unbelievable...
 English,"scene_cp62_q4_s20,6241",detail,Lyria,Two targets remaining. Performing erasure of all surrounding data including hostile entities...
-English,"scene_cp62_q4_s20,6241",detail,Vyrn,"Even Katalina... W-what do we do, [Djeeta]? We're all that's left!"
+English,"scene_cp62_q4_s20,6241",detail,Vyrn,"Even Katalina... W-what do we do, [플레이어]? We're all that's left!"
 English,"scene_cp62_q4_s20,6241",detail,Vyrn,(Is this really the end for us?)
-English,"scene_cp62_q4_s20,6241",detail,Vyrn,"H-hey... [Djeeta]. You're not ready to give up yet, are you?"
+English,"scene_cp62_q4_s20,6241",detail,Vyrn,"H-hey... [플레이어]. You're not ready to give up yet, are you?"
 English,"scene_cp62_q4_s20,6241",sel1_txt,,Of course not!
 English,"scene_cp62_q4_s20,6241",sel2_txt,,We're just getting started!
 English,"scene_cp62_q4_s20,6241",detail,Vyrn,Y-yeah! There's gotta be a way outta this...
-English,"scene_cp62_q4_s20,6241",detail,Vyrn,"Heh heh! Even in a rough spot, you play it cool as always, [Djeeta]!"
+English,"scene_cp62_q4_s20,6241",detail,Vyrn,"Heh heh! Even in a rough spot, you play it cool as always, [플레이어]!"
 English,"scene_cp62_q4_s20,6241",detail,Vyrn,(That's right... We can't give up now!)
 English,"scene_cp62_q4_s20,6241",detail,Vyrn,(There's gotta be... just gotta be something I can do...)
 English,"scene_cp62_q4_s20,6241",detail,???,...
@@ -509,14 +509,14 @@ English,"scene_cp62_q4_s20,6241",detail,Rosetta,"At the least, we haven't been a
 English,"scene_cp62_q4_s20,6241",detail,,"Like Rosetta, everyone starts to reappear one by one from the enveloping light."
 English,"scene_cp62_q4_s20,6241",detail,Lyria,Partial functional damage confirmed. Self-defense functions suspended. Switching to... functional recovery...
 English,"scene_cp62_q4_s20,6241",detail,Katalina,Lyria!
-English,"scene_cp62_q4_s20,6241",detail,,[Djeeta] catches Lyria just as she falls.
+English,"scene_cp62_q4_s20,6241",detail,,[플레이어] catches Lyria just as she falls.
 English,"scene_cp62_q4_s20,6241",detail,Lyria,Huh? What did I...
 English,"scene_cp62_q4_s20,6241",detail,Io,"Hey, hey, what happened? Don't tell me, Vyrn just..."
 English,"scene_cp62_q4_s20,6241",detail,Vyrn,I-I dunno what happened either.
 English,"scene_cp62_q4_s20,6241",detail,Eugen,"Anyways, now's our chance!"
 English,"scene_cp62_q4_s20,6241",detail,Eugen,"Akasha's power is limited, so let's take it out while we can!"
-English,"scene_cp62_q4_s30,6242",synopsis,,"Lyria and Orchis activate Akasha properly, allowing [Djeeta] and company to stop Freesia. However, Lyria spares Freesia's life. A great enemy force is finally defeated after a long battle, but a conflict still remains between the Black Knight and Orchis."
-English,"scene_cp62_q4_s30,6242",detail,,[Djeeta] and company struggle to subdue the primal beast Akasha.
+English,"scene_cp62_q4_s30,6242",synopsis,,"Lyria and Orchis activate Akasha properly, allowing [플레이어] and company to stop Freesia. However, Lyria spares Freesia's life. A great enemy force is finally defeated after a long battle, but a conflict still remains between the Black Knight and Orchis."
+English,"scene_cp62_q4_s30,6242",detail,,[플레이어] and company struggle to subdue the primal beast Akasha.
 English,"scene_cp62_q4_s30,6242",detail,Akasha,...
 English,"scene_cp62_q4_s30,6242",detail,,"After being properly reactivated by Lyria and Orchis, Akasha's abilities were left to Lyria."
 English,"scene_cp62_q4_s30,6242",detail,Lyria,"(Within here... lies all record of the past, present, and future of this world...)"
@@ -560,8 +560,8 @@ English,"scene_cp62_q4_s30,6242",detail,Eugen,"You might think so, but we've cer
 English,"scene_cp62_q4_s30,6242",detail,Rackam,Oh boy... Now I can finally take a breather.
 English,"scene_cp62_q4_s30,6242",detail,Io,"After all that, I feel totally beat..."
 English,"scene_cp62_q4_s30,6242",detail,Rosetta,Good work. You really gave it your all this time.
-English,"scene_cp62_q4_s30,6242",detail,Lecia,"For now, it seems the capital is safe, and the world is saved! Excellent job, [Djeeta]!"
-English,"scene_cp62_q4_s30,6242",detail,Vyrn,"Heh heh! I guess we did it again, [Djeeta]!"
+English,"scene_cp62_q4_s30,6242",detail,Lecia,"For now, it seems the capital is safe, and the world is saved! Excellent job, [플레이어]!"
+English,"scene_cp62_q4_s30,6242",detail,Vyrn,"Heh heh! I guess we did it again, [플레이어]!"
 English,"scene_cp62_q4_s30,6242",detail,,"Everyone breathes a sigh of relief, having made it through to the end of a long and treacherous journey."
 English,"scene_cp62_q4_s30,6242",detail,Black Knight,...
 English,"scene_cp62_q4_s30,6242",detail,Orchis,...

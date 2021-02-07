@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp48_q1_s10,4811",synopsis,,立ち上る黒煙に、急遽村まで戻る[ジータ]一行。その道中を一行は帝国兵達に阻まれるも、あくまで黒騎士にのみ従うスツルムとドランクは、容赦なく兵達を切り伏せていく。
+Japanese,"scene_cp48_q1_s10,4811",synopsis,,立ち上る黒煙に、急遽村まで戻る[플레이어]一行。その道中を一行は帝国兵達に阻まれるも、あくまで黒騎士にのみ従うスツルムとドランクは、容赦なく兵達を切り伏せていく。
 Japanese,"scene_cp48_q1_s10,4811",detail,제국병,そこの者、止まれ！<br>剣を足元に置いて両手を……
 Japanese,"scene_cp48_q1_s10,4811",detail,제국병,ぐほっ！？
 Japanese,"scene_cp48_q1_s10,4811",detail,스츠룸,隙だらけ……<br>なってないな。<br>相変わらず帝国の軍人は笑わせてくれる。
@@ -11,8 +11,8 @@ Japanese,"scene_cp48_q1_s10,4811",detail,오이겐,しかし、お前ら……�
 Japanese,"scene_cp48_q1_s10,4811",detail,스츠룸,帝国じゃない……<br>あたし達の雇い主は黒騎士だ。
 Japanese,"scene_cp48_q1_s10,4811",detail,스츠룸,いま……<br>エルステ帝国が黒騎士を追放したのなら、<br>エルステ帝国はあたし達の敵だ。
 Japanese,"scene_cp48_q1_s10,4811",detail,스츠룸,無駄話……してる場合じゃない。<br>お前の故郷が焼け野原になっても、<br>あたしは責任を持たないぞ。
-Japanese,"scene_cp48_q1_s20,4812",synopsis,,村では、エルステ帝国少将フュリアス率いる帝国兵達が跋扈していた。フュリアスの蛮行に声を荒げる[ジータ]一行。対しフュリアスは自らを魔晶で変身させ、配下の兵士諸共、[ジータ]達に攻撃を仕掛けてくる。
-Japanese,"scene_cp48_q1_s20,4812",detail,,<span class='scene-font-katari'>森を抜け、</span><br><span class='scene-font-katari'>[ジータ]が生まれ育った村に</span><br><span class='scene-font-katari'>駆けつける[ジータ]一行。</span>
+Japanese,"scene_cp48_q1_s20,4812",synopsis,,村では、エルステ帝国少将フュリアス率いる帝国兵達が跋扈していた。フュリアスの蛮行に声を荒げる[플레이어]一行。対しフュリアスは自らを魔晶で変身させ、配下の兵士諸共、[플레이어]達に攻撃を仕掛けてくる。
+Japanese,"scene_cp48_q1_s20,4812",detail,,<span class='scene-font-katari'>森を抜け、</span><br><span class='scene-font-katari'>[플레이어]が生まれ育った村に</span><br><span class='scene-font-katari'>駆けつける[플레이어]一行。</span>
 Japanese,"scene_cp48_q1_s20,4812",detail,,<span class='scene-font-katari'>しかし、そこに村のかつての面影は無く、</span><br><span class='scene-font-katari'>のどかだった村には、</span><br><span class='scene-font-katari'>物々しい兵士達がひしめいていた。</span>
 Japanese,"scene_cp48_q1_s20,4812",detail,퓨리어스,ほらほら、さっさと並ばせてよ！<br>的は綺麗に並んでないと、<br>意味ないだろ？
 Japanese,"scene_cp48_q1_s20,4812",detail,퓨리어스,っていうか数少なくない？<br>しょうがないな……<br>おい、そこのお前、お前も的に……
@@ -77,7 +77,7 @@ Japanese,"scene_cp48_q2_s20,4821",detail,카타리나,なに？<br>じゃあ、�
 Japanese,"scene_cp48_q2_s20,4821",detail,드랑크,でも、<br>その頃にはこの島ごと<br>空の底だろうねぇ……
 Japanese,"scene_cp48_q2_s20,4821",detail,카타리나,やはり正面から向き合う他ないか……
 Japanese,"scene_cp48_q2_s20,4821",detail,비이,…………
-Japanese,"scene_cp48_q2_s20,4821",detail,,<span class='scene-font-katari'>暴走するフュリアスを前に、</span><br><span class='scene-font-katari'>成す術を失う[ジータ]一行。</span>
+Japanese,"scene_cp48_q2_s20,4821",detail,,<span class='scene-font-katari'>暴走するフュリアスを前に、</span><br><span class='scene-font-katari'>成す術を失う[플레이어]一行。</span>
 Japanese,"scene_cp48_q2_s20,4821",detail,,<span class='scene-font-katari'>しかし、育ててくれた村を救うため、</span><br><span class='scene-font-katari'>ビィの中には一つの小さな決意が</span><br><span class='scene-font-katari'>芽生えつつあるのだった。</span>
 Japanese,"scene_cp48_q3_s20,4831",synopsis,,暴走するフュリアスに帝国兵すら撤退を始める。一行は縛られたままの村人達を助けるため、スツルムとドランクに村人の救出を頼み、自分達は時間稼ぎをすべくフュリアスと相対する。
 Japanese,"scene_cp48_q3_s20,4831",detail,帝国兵１,総員退避！<br>フュリアス将軍閣下から離れるんだ！<br>いまの閣下は危険過ぎる！
@@ -122,34 +122,34 @@ Japanese,"scene_cp48_q4_s10,4841",detail,비이,へへっ……それなんだ�
 Japanese,"scene_cp48_q4_s10,4841",detail,비이,きっとロゼッタはオイラに、<br>そんなことをしてくれ、って言わねぇ。
 Japanese,"scene_cp48_q4_s10,4841",detail,비이,ロゼッタも姐さんと同じ気持ちなら<br>あんなこと<br>言わなかったに決まってらぁ！
 Japanese,"scene_cp48_q4_s10,4841",detail,비이,だからきっと大丈夫だって……<br>オイラはロゼッタを信じる。
-Japanese,"scene_cp48_q4_s10,4841",detail,비이,それにここは、<br>オイラと[ジータ]の<br>故郷なんだぜ！
+Japanese,"scene_cp48_q4_s10,4841",detail,비이,それにここは、<br>オイラと[플레이어]の<br>故郷なんだぜ！
 Japanese,"scene_cp48_q4_s10,4841",detail,비이,故郷の危機に立ち上がらねーんじゃ、<br>騎空士の名が泣くってもんだぜ！
 Japanese,"scene_cp48_q4_s10,4841",detail,카타리나,ビィ君……
 Japanese,"scene_cp48_q4_s10,4841",detail,드랑크,ふふっ……<br>トカゲちゃんのくせに<br>カッコイイんだから……
 Japanese,"scene_cp48_q4_s10,4841",detail,비이,ん？<br>いまなんか言ったか？
 Japanese,"scene_cp48_q4_s10,4841",detail,드랑크,んーん？ 何にも？<br>それより、ほら！<br>そう決めたんなら、急がないとね！
 Japanese,"scene_cp48_q4_s10,4841",detail,라캄,うしっ！<br>んじゃ、チビ将軍を引きつけながら、<br>あの祠まで戻るぞ！
-Japanese,"scene_cp48_q4_s20,4842",synopsis,,森を駆け、再び祠の前へと集結する[ジータ]一行。ついにビィは祠を開け、力の封印を解く。刹那の間、ビィは幻を見るが大きな変化は訪れなかった。しかし、ビィは自らに宿った力の存在を確信し、一行は魔晶による暴走を続けるフュリアスに決戦を挑む。
-Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>改めて祠の前に集結する。</span>
+Japanese,"scene_cp48_q4_s20,4842",synopsis,,森を駆け、再び祠の前へと集結する[플레이어]一行。ついにビィは祠を開け、力の封印を解く。刹那の間、ビィは幻を見るが大きな変化は訪れなかった。しかし、ビィは自らに宿った力の存在を確信し、一行は魔晶による暴走を続けるフュリアスに決戦を挑む。
+Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>改めて祠の前に集結する。</span>
 Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>異質な力を前にビィは息を呑むが、</span><br><span class='scene-font-katari'>その後ろからは着実に、</span><br><span class='scene-font-katari'>破壊の足音が近づいていた。</span>
 Japanese,"scene_cp48_q4_s20,4842",detail,오이겐,森に入ってだいぶ距離は稼げたが……<br>あの将軍サンはまだまだ<br>ご機嫌ナナメみてぇだなぁ、おい……
 Japanese,"scene_cp48_q4_s20,4842",detail,드랑크,器の限界も、<br>まだしばらく先みたいだね～<br>将軍サマは見た目以上に頑丈みたいだ。
-Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>祠の前で[ジータ]に</span><br><span class='scene-font-katari'>抱き抱えられるビィは、</span><br><span class='scene-font-katari'>祠の扉に小さな手をかける。</span>
+Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>祠の前で[플레이어]に</span><br><span class='scene-font-katari'>抱き抱えられるビィは、</span><br><span class='scene-font-katari'>祠の扉に小さな手をかける。</span>
 Japanese,"scene_cp48_q4_s20,4842",detail,루리아,ビィさん……
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,へへっ！<br>そんな不安そうな顔すんじゃねーや！<br>オイラまで不安になるじゃねーか！
-Japanese,"scene_cp48_q4_s20,4842",detail,비이,なぁ……<br>昔、この森で修行してたこと<br>[ジータ]、覚えてるよな？
+Japanese,"scene_cp48_q4_s20,4842",detail,비이,なぁ……<br>昔、この森で修行してたこと<br>[플레이어]、覚えてるよな？
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,あん時は、<br>まさかこんなことになるなんて、<br>思いもしなかったぜ……
 Japanese,"scene_cp48_q4_s20,4842",sel1_txt,,<span class='scene-font-katari'>覚悟はしてた</span>
 Japanese,"scene_cp48_q4_s20,4842",sel2_txt,,<span class='scene-font-katari'>いまも驚いてる</span>
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,マジかよ！？<br>あの頃からそんな覚悟してたなんて、<br>ちょっとオイラ、信じらんねーぜ……
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,だよなっ！<br>でもまぁ……<br>島を出てからも楽しかったよな！
-Japanese,"scene_cp48_q4_s20,4842",detail,비이,この島から旅が始まって……<br>[ジータ]と一緒に、<br>色んな島に行って……
+Japanese,"scene_cp48_q4_s20,4842",detail,비이,この島から旅が始まって……<br>[플레이어]と一緒に、<br>色んな島に行って……
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,でも、この島に帰ってきたとき、<br>やっぱり懐かしいって感じたんだよな。
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,なんだかよくわかんねーオイラにも、<br>この村の奴らは優しくしてくれて……
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,だから、オイラも……<br>この島を……<br>この村を守りてーって思うんだ！
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,だから……<br>だから、オイラだって……<br>オイラだって……！！
 Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>ビィが勢いよく祠の扉を開け放つと、</span><br><span class='scene-font-katari'>周囲には光が溢れる。</span>
-Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>しかし、それは一瞬のことであり、</span><br><span class='scene-font-katari'>刹那の幻を見た[ジータ]の腕には、</span><br><span class='scene-font-katari'>いつも通りのビィが抱かれていた。</span>
+Japanese,"scene_cp48_q4_s20,4842",detail,,<span class='scene-font-katari'>しかし、それは一瞬のことであり、</span><br><span class='scene-font-katari'>刹那の幻を見た[플레이어]の腕には、</span><br><span class='scene-font-katari'>いつも通りのビィが抱かれていた。</span>
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,ん……
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,んはっ！？<br>オ、オイラ……！？
 Japanese,"scene_cp48_q4_s20,4842",detail,루리아,ビィさん……？
@@ -172,7 +172,7 @@ Japanese,"scene_cp48_q4_s20,4842",detail,비이,ああ！<br>いまならいけ�
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,いまのオイラは、<br>いままでのオイラじゃねぇ……
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,でも、オイラはオイラだ！<br>それは変わらねぇ！
 Japanese,"scene_cp48_q4_s20,4842",detail,비이,だから……守り通してやろうぜ！<br>この島を……<br>オイラ達の故郷を！！
-Japanese,"scene_cp48_q4_s30,4843",synopsis,,ついに魔晶を超え、フュリアスを止めることに成功する[ジータ]一行。フュリアスは魔晶の影響により、心身に深刻なダメージを受けていた。そこへ再びロキがフェンリルを連れて現れ、満身創痍のフュリアスを回収していく。さらなる敵の影はあるものの、一行はひとまずザンクティンゼルが救われたことに、安堵の息をつくのだった。
+Japanese,"scene_cp48_q4_s30,4843",synopsis,,ついに魔晶を超え、フュリアスを止めることに成功する[플레이어]一行。フュリアスは魔晶の影響により、心身に深刻なダメージを受けていた。そこへ再びロキがフェンリルを連れて現れ、満身創痍のフュリアスを回収していく。さらなる敵の影はあるものの、一行はひとまずザンクティンゼルが救われたことに、安堵の息をつくのだった。
 Japanese,"scene_cp48_q4_s30,4843",detail,,<span class='scene-font-katari'>三度フュリアスと相まみえた一行は、</span><br><span class='scene-font-katari'>ついにその魔晶を超え、</span><br><span class='scene-font-katari'>フュリアスに一撃を与える。</span>
 Japanese,"scene_cp48_q4_s30,4843",detail,퓨리어스,ぐが……がはっ！？<br>ば、馬鹿な……<br>ふざけんな……！！
 Japanese,"scene_cp48_q4_s30,4843",detail,퓨리어스,な、なんで……！？<br>くそっ！<br>ま、魔晶が反応しないだと……！？
@@ -195,9 +195,9 @@ Japanese,"scene_cp48_q4_s30,4843",detail,,<span class='scene-font-katari'>そう
 Japanese,"scene_cp48_q4_s30,4843",detail,오이겐,……はぁ。<br>ひとまず、これで島は助かったのか？
 Japanese,"scene_cp48_q4_s30,4843",detail,드랑크,だねぇ～！<br>お疲れ様、トカゲちゃん！
 Japanese,"scene_cp48_q4_s30,4843",detail,비이,ああもう……<br>だからオイラは<br>トカゲじゃねーっつの！！
-Japanese,"scene_cp48_q4_s30,4843",detail,,<span class='scene-font-katari'>幾多の困難に見舞われながら、</span><br><span class='scene-font-katari'>なんとか故郷を救った</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp48_q4_s30,4843",detail,,<span class='scene-font-katari'>幾多の困難に見舞われながら、</span><br><span class='scene-font-katari'>なんとか故郷を救った</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp48_q4_s30,4843",detail,,<span class='scene-font-katari'>そしてビィが新たに自らに感じた力は、</span><br><span class='scene-font-katari'>大きな一歩となって、</span><br><span class='scene-font-katari'>一行の旅を推し進めるのだった。</span>
-English,"scene_cp48_q1_s10,4811",synopsis,,"[Djeeta] hurriedly leads the others back toward the village. Imperial soldiers stand in the way, but Sturm and Drang cut them down without hesitation—explaining that their loyalty is to the Black Knight, not the empire."
+English,"scene_cp48_q1_s10,4811",synopsis,,"[플레이어] hurriedly leads the others back toward the village. Imperial soldiers stand in the way, but Sturm and Drang cut them down without hesitation—explaining that their loyalty is to the Black Knight, not the empire."
 English,"scene_cp48_q1_s10,4811",detail,Imperial Soldier,You there! Halt! Place your weapons at your feet and your hands above—
 English,"scene_cp48_q1_s10,4811",detail,Imperial Soldier,Gwah!
 English,"scene_cp48_q1_s10,4811",detail,Sturm,More openings in their defense than a broken sieve. Do they even bother training these imperial fools?
@@ -209,8 +209,8 @@ English,"scene_cp48_q1_s10,4811",detail,Eugen,Are you two okay with this? Aren't
 English,"scene_cp48_q1_s10,4811",detail,Sturm,"Not imperial agents, no. We were hired by the Black Knight."
 English,"scene_cp48_q1_s10,4811",detail,Sturm,"If the Erste Empire has cast out the Black Knight, then the Erste Empire is our enemy."
 English,"scene_cp48_q1_s10,4811",detail,Sturm,Enough talk. Or do you want to keep jabbering while the village burns to the ground?
-English,"scene_cp48_q1_s20,4812",synopsis,,"The village is crawling with Erste Empire troops, led by Major General Furias. When the crew confronts Furias, he uses dark essence to transform himself, and then attacks not only [Djeeta] and company, but also his own men."
-English,"scene_cp48_q1_s20,4812",detail,,[Djeeta] leads the crew out of the forest and back to the village.
+English,"scene_cp48_q1_s20,4812",synopsis,,"The village is crawling with Erste Empire troops, led by Major General Furias. When the crew confronts Furias, he uses dark essence to transform himself, and then attacks not only [플레이어] and company, but also his own men."
+English,"scene_cp48_q1_s20,4812",detail,,[플레이어] leads the crew out of the forest and back to the village.
 English,"scene_cp48_q1_s20,4812",detail,,"However, the village is completely transformed and is now crawling with imperial troops."
 English,"scene_cp48_q1_s20,4812",detail,Furias,"Quickly, line them up! I want the targets lined up in a perfect row!"
 English,"scene_cp48_q1_s20,4812",detail,Furias,"Hmm, there don't seem to be very many of them. You there! Line up with the others!"
@@ -275,7 +275,7 @@ English,"scene_cp48_q2_s20,4821",detail,Katalina,What? So we just need to hold o
 English,"scene_cp48_q2_s20,4821",detail,Drang,Any longer will be enough time for him to knock this entire island from the sky!
 English,"scene_cp48_q2_s20,4821",detail,Katalina,Then we have to fight him head on!
 English,"scene_cp48_q2_s20,4821",detail,Vyrn,...
-English,"scene_cp48_q2_s20,4821",detail,,"[Djeeta] and the crew, faced with the rampaging Furias, are seemingly out of options."
+English,"scene_cp48_q2_s20,4821",detail,,"[플레이어] and the crew, faced with the rampaging Furias, are seemingly out of options."
 English,"scene_cp48_q2_s20,4821",detail,,"However, in the face of this threat to his home, a new determination begins to grow inside Vyrn."
 English,"scene_cp48_q3_s20,4831",synopsis,,"Even the imperial soldiers start to retreat from Furias's rampage. The party ask Sturm and Drang to free the villagers, while they fight Furias themselves in order to buy some time."
 English,"scene_cp48_q3_s20,4831",detail,Imperial Soldier 1,Fall back! Get away from General Furias! He's too dangerous!
@@ -320,7 +320,7 @@ English,"scene_cp48_q4_s10,4841",detail,Vyrn,"Heh, well, I've been thinking abou
 English,"scene_cp48_q4_s10,4841",detail,Vyrn,Rosetta would never tell me so directly to break the seal.
 English,"scene_cp48_q4_s10,4841",detail,Vyrn,She'd never leave me without making sure I can make my own choice!
 English,"scene_cp48_q4_s10,4841",detail,Vyrn,So I'm sure it'll all be okay! I trust Rosetta!
-English,"scene_cp48_q4_s10,4841",detail,Vyrn,This is my home! Mine and [Djeeta]'s!
+English,"scene_cp48_q4_s10,4841",detail,Vyrn,This is my home! Mine and [플레이어]'s!
 English,"scene_cp48_q4_s10,4841",detail,Vyrn,How can I call myself a skyfarer if I don't stand up to this threat to my home!
 English,"scene_cp48_q4_s10,4841",detail,Katalina,Vyrn...
 English,"scene_cp48_q4_s10,4841",detail,Drang,Hah! Pretty cool for a lizard.
@@ -328,26 +328,26 @@ English,"scene_cp48_q4_s10,4841",detail,Vyrn,What did you just say?
 English,"scene_cp48_q4_s10,4841",detail,Drang,"Oh, nothing at all! Now that you've made the decision, let's go!"
 English,"scene_cp48_q4_s10,4841",detail,Rackam,Right! Let's keep General Stumpy busy while you guys hurry back to the shrine!
 English,"scene_cp48_q4_s20,4842",synopsis,,"Vyrn opens the doors to the shrine and sees a brief vision, but undergoes no other major changes. However, now confident in the power that's always resided inside himself, Vyrn and the rest of the crew face down the rampaging Furias one more time."
-English,"scene_cp48_q4_s20,4842",detail,,[Djeeta] and the crew gather at the shrine again.
+English,"scene_cp48_q4_s20,4842",detail,,[플레이어] and the crew gather at the shrine again.
 English,"scene_cp48_q4_s20,4842",detail,,"Vyrn is still frightened by the power of the place, but sounds of destruction are closing in from behind."
 English,"scene_cp48_q4_s20,4842",detail,Eugen,"We managed to give him the slip in the forest and buy us some time, but that general is still in a real bad mood."
 English,"scene_cp48_q4_s20,4842",detail,Drang,His dark essence is still holding out as well. The guy's tougher than he looks.
-English,"scene_cp48_q4_s20,4842",detail,,"[Djeeta] holds Vyrn in front of the shrine, who in turn reaches up to open the doors."
+English,"scene_cp48_q4_s20,4842",detail,,"[플레이어] holds Vyrn in front of the shrine, who in turn reaches up to open the doors."
 English,"scene_cp48_q4_s20,4842",detail,Lyria,Vyrn...
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,Don't worry about me! You'll make me all anxious again!
-English,"scene_cp48_q4_s20,4842",detail,Vyrn,"Say, [Djeeta]. Do you remember when we used to train in this forest?"
+English,"scene_cp48_q4_s20,4842",detail,Vyrn,"Say, [플레이어]. Do you remember when we used to train in this forest?"
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,Back then I never thought things would come to this...
 English,"scene_cp48_q4_s20,4842",sel1_txt,,I was ready for it.
 English,"scene_cp48_q4_s20,4842",sel2_txt,,I'm still surprised by it now.
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,Really? You've been expecting something like this the whole time? I don't believe that for a moment!
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,"Me too! But it was fun leaving this island, wasn't it?"
-English,"scene_cp48_q4_s20,4842",detail,Vyrn,"Traveling the skies and going to various islands with you is an experience that'll always stay with me, [Djeeta]."
+English,"scene_cp48_q4_s20,4842",detail,Vyrn,"Traveling the skies and going to various islands with you is an experience that'll always stay with me, [플레이어]."
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,But coming back here has made me see how much I missed home.
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,Everyone in the village has been so kind to me.
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,I want to defend this island! And everyone living on it!
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,So I'm going to do this and play my part!
 English,"scene_cp48_q4_s20,4842",detail,,"Vyrn yanks the shrine doors open without further ado, and light spills out."
-English,"scene_cp48_q4_s20,4842",detail,,"The light lasts only for a moment, however. And when it fades, Vyrn is still in [Djeeta]'s arms—the same as ever."
+English,"scene_cp48_q4_s20,4842",detail,,"The light lasts only for a moment, however. And when it fades, Vyrn is still in [플레이어]'s arms—the same as ever."
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,Huh?
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,Yay! I'm still in one piece!
 English,"scene_cp48_q4_s20,4842",detail,Lyria,Vyrn?
@@ -370,7 +370,7 @@ English,"scene_cp48_q4_s20,4842",detail,Vyrn,"Sure thing! I've got this! At leas
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,I'm not the same Vyrn anymore!
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,And yet I'm still me! That'll never change!
 English,"scene_cp48_q4_s20,4842",detail,Vyrn,I'm gonna defend this island! And my home!
-English,"scene_cp48_q4_s30,4843",synopsis,,"[Djeeta] and the crew finally manage to overcome the dark essence and stop Furias. Out of nowhere, Loki and Fenrir appear again and take the wounded Furias away. Although the shadow of future enemies still looms over them, for now the party celebrates having saved Zinkenstill."
+English,"scene_cp48_q4_s30,4843",synopsis,,"[플레이어] and the crew finally manage to overcome the dark essence and stop Furias. Out of nowhere, Loki and Fenrir appear again and take the wounded Furias away. Although the shadow of future enemies still looms over them, for now the party celebrates having saved Zinkenstill."
 English,"scene_cp48_q4_s30,4843",detail,,"Facing Furias for a third time, the party finally manages to surpass his dark essence and strikes a decisive blow."
 English,"scene_cp48_q4_s30,4843",detail,Furias,Argh! Aaaargh! I-impossible! This can't be happening!
 English,"scene_cp48_q4_s30,4843",detail,Furias,What? Curses! The dark essence isn't responding!
@@ -393,5 +393,5 @@ English,"scene_cp48_q4_s30,4843",detail,,"With that, Loki, Fenrir, and Furias ar
 English,"scene_cp48_q4_s30,4843",detail,Eugen,Phew. I think this means we saved the island. Right?
 English,"scene_cp48_q4_s30,4843",detail,Drang,"Looks like it! Great work, you charming little lizard!"
 English,"scene_cp48_q4_s30,4843",detail,Vyrn,Enough already! I ain't no lizard!
-English,"scene_cp48_q4_s30,4843",detail,,"Overcoming multiple obstacles, [Djeeta] and the others manage to save the island and thereby the village."
+English,"scene_cp48_q4_s30,4843",detail,,"Overcoming multiple obstacles, [플레이어] and the others manage to save the island and thereby the village."
 English,"scene_cp48_q4_s30,4843",detail,,Vyrn's newly awakened powers are also set to propel the crew onto the next exciting step of their adventure.

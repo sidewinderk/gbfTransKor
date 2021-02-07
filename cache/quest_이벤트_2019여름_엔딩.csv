@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_evt190627_cp0_q2_s10,7429311",synopsis,,サメーズを倒した[ジータ]一行。その数日後、サンダルフォンのもとにアウギュステ区長が現れ、サンダルフォンの過去の罪を消すことはできないとしながらも、今回の件について感謝を述べる。その後、一行は次元の狭間を探す旅に出るサリエルを見送り、アズラエルとイスラフィルの順調な身体の再生を喜ぶ。天司達はそれぞれの道を歩みながら、光ある未来を思い描くのだった。,"사메즈를 쓰러뜨린 [지타] 일행. 그 몇일 뒤, 산달폰에게 아우규스테 구장이 나타나, 산달폰의 과거를 지울 수 없다고 하지만, 이번 건에 대해선 감사를 표현다. 그후, 일행은 차원의 틈새를 찾아 여행을 떠나는 사리엘을 배웅하고, 아즈라엘과 이스라필 신체의 순조로운 재생을 기뻐한다. 천사들은 각자의 길을 가면서 밝은 미래를 그리는 것이었다."
+Japanese,"scene_evt190627_cp0_q2_s10,7429311",synopsis,,サメーズを倒した[플레이어]一行。その数日後、サンダルフォンのもとにアウギュステ区長が現れ、サンダルフォンの過去の罪を消すことはできないとしながらも、今回の件について感謝を述べる。その後、一行は次元の狭間を探す旅に出るサリエルを見送り、アズラエルとイスラフィルの順調な身体の再生を喜ぶ。天司達はそれぞれの道を歩みながら、光ある未来を思い描くのだった。,"사메즈를 쓰러뜨린 [플레이어] 일행. 그 몇일 뒤, 산달폰에게 아우규스테 구장이 나타나, 산달폰의 과거를 지울 수 없다고 하지만, 이번 건에 대해선 감사를 표현다. 그후, 일행은 차원의 틈새를 찾아 여행을 떠나는 사리엘을 배웅하고, 아즈라엘과 이스라필 신체의 순조로운 재생을 기뻐한다. 천사들은 각자의 길을 가면서 밝은 미래를 그리는 것이었다."
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,하루트,終わったか……,끝났나...
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,마루트,なんとかね。<br>あの集合体はバラバラに散って……<br>再び集まる体力も尽きたみたい。,어떻게든 된 거 같아. 저 큰 상어떼가 산산이 흩어졌어... 다시 모일 체력도 없는 모양이고.
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,아즈라엘,わぁい♪<br>ご苦労様でナス！,와아! 수고하셨가지!
@@ -21,7 +21,7 @@ Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어 헌터,だよなぁ�
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어 헌터,サメとサメハンター……<br>俺達は決着をつけないと前に進めねえ。,상어와 상어 헌터... 우리들은 결판을 내야만 앞으로 나아갈 수 있다.
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,비이,はぁ……？<br>たぶん進める気がするけど……<br>おっさん自分に酔ってねぇか？,"뭐라고...? 안 해도 나아갈 거 같은데... 아저씨, 자기 자신한테 도취된 거 아냐?"
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,루리아,あ……！<br>この雰囲気は……,아...! 이 분위기는...
-Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,루리아,[ジータ]！<br>樽爆弾を隠さないと──,[지타]! 통 폭탄을 숨겨야...
+Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,루리아,[플레이어]！<br>樽爆弾を隠さないと──,[플레이어]! 통 폭탄을 숨겨야...
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어 헌터,ルリアちゃん。<br>樽は全て使い終わったぜ。,루리아쨩. 통은 이미 다 써버렸어.
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어 헌터,俺の懐にあるので最後だ！,내 품 안에 있는 게 마지막이지!
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,루리아,<span class='scene-font-4'>懐……！？</span>,<span class='scene-font-4'>품이요...!?</span>
@@ -136,7 +136,7 @@ Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,해양학자,…………�
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어인간,人間ヨ……,인간이여...
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어인간,コレヨリ貴様等ヲ駆逐……<br>我々ノ世界ヲ取リ戻スノダ……！,지금부터 너희들을 없애고... 우리들의 세계를 돌려받겠다...!
 Japanese,"scene_evt190627_cp0_q2_s10,7429311",detail,상어인간,<span class='scene-font-4'>人間共ニ復讐ヲ──！</span>,<span class='scene-font-4'>인간들에게 복수를!!</span>
-English,"scene_evt190627_cp0_q2_s10,7429311",synopsis,,"[Djeeta] and the others defeat the shark frenzy. The district chief appears before Sandalphon and states that while it's not possible to change the past, he's grateful for Sandalphon's help this time around. The party members then see Sariel off on his journey to find the dimensional rift, and they celebrate the extent of Azrael and Israfel's healing. The archangels each tread their own path to a brighter future."
+English,"scene_evt190627_cp0_q2_s10,7429311",synopsis,,"[플레이어] and the others defeat the shark frenzy. The district chief appears before Sandalphon and states that while it's not possible to change the past, he's grateful for Sandalphon's help this time around. The party members then see Sariel off on his journey to find the dimensional rift, and they celebrate the extent of Azrael and Israfel's healing. The archangels each tread their own path to a brighter future."
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Halluel,I guess that's it...
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Malluel,We managed somehow. The shark frenzy was scattered... and doesn't look like it has the strength to regroup.
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Azrael,Wow! Good work!
@@ -158,7 +158,7 @@ English,"scene_evt190627_cp0_q2_s10,7429311",detail,Shark Hunter,You said it. We
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Shark Hunter,Shark and shark hunter... Neither of us would be able to move on without settling the score.
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Vyrn,"Huh? Sure you could... You're kinda full of yourself, aren't you, old dude?"
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Lyria,Ah... I've got a bad feeling about this.
-English,"scene_evt190627_cp0_q2_s10,7429311",detail,Lyria,[Djeeta]! We've gotta hide the barrel bombs...
+English,"scene_evt190627_cp0_q2_s10,7429311",detail,Lyria,[플레이어]! We've gotta hide the barrel bombs...
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Shark Hunter,Lyria. We've already used them all...
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Shark Hunter,All but this one up my sleeve!
 English,"scene_evt190627_cp0_q2_s10,7429311",detail,Lyria,Up your sleeve?

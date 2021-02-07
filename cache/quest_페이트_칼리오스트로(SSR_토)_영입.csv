@@ -1,23 +1,23 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr045_ep1,synopsis,,強力な封印が施された廃墟へと足を踏み入れた一行は、ふとしたはずみで怪しげな封印を解いてしまう。長きにわたる封印から解き放たれ、姿を現したのは、あどけない姿の少女カリオストロだった。錬金術の開祖と語り継がれるカリオストロは、ルリアの存在に興味を示し、騎空団に入れるよう<span>[ジータ]</span>に取引を持ちかける。
-Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>とある廃墟に</span><br><span class='scene-font-katari'>強大な封印が施されているという噂を</span><br><span class='scene-font-katari'>聞きつけた[ジータ]一行。</span>
+Japanese,scene_fate_chr045_ep1,synopsis,,強力な封印が施された廃墟へと足を踏み入れた一行は、ふとしたはずみで怪しげな封印を解いてしまう。長きにわたる封印から解き放たれ、姿を現したのは、あどけない姿の少女カリオストロだった。錬金術の開祖と語り継がれるカリオストロは、ルリアの存在に興味を示し、騎空団に入れるよう<span>[플레이어]</span>に取引を持ちかける。
+Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>とある廃墟に</span><br><span class='scene-font-katari'>強大な封印が施されているという噂を</span><br><span class='scene-font-katari'>聞きつけた[플레이어]一行。</span>
 Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>その封印が</span><br><span class='scene-font-katari'>星晶獣を封じたものである可能性に賭け</span><br><span class='scene-font-katari'>一行は廃墟を訪れていた。</span>
 Japanese,scene_fate_chr045_ep1,detail,ルリア,うーん……<br>なんだか変わった力は感じるんだけど、<br>星晶獣とは違うような……
 Japanese,scene_fate_chr045_ep1,detail,ビィ,うへぇ……<br>無駄足だったってことか……<br>そんならさっさと引き上げよーぜ。
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,まぁ、待つんだビィくん。<br>もう少し辺りを<br>探索してみようじゃないか。
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,封印されているくらいだ。<br>そう簡単には見つからないように<br>なっているのかもしれない。
-Japanese,scene_fate_chr045_ep1,detail,ルリア,ですねっ！<br>頑張りましょう！ [ジータ]！<br>根気よく探せばきっと……
+Japanese,scene_fate_chr045_ep1,detail,ルリア,ですねっ！<br>頑張りましょう！ [플레이어]！<br>根気よく探せばきっと……
 Japanese,scene_fate_chr045_ep1,detail,ルリア,あ、あれ……？<br>いま私なにか……
 Japanese,scene_fate_chr045_ep1,detail,ルリア,ひぃっ！？<br>な、なんなんですかこれ！？
 Japanese,scene_fate_chr045_ep1,detail,ビィ,や、やべぇぞ、こりゃあ……<br>例の封印とやらが、<br>解けちまったのかもしれねぇ！
-Japanese,scene_fate_chr045_ep1,detail,カタリナ,ルリア！ ビィくん！ [ジータ]！<br>ともかくこっちへ……！
+Japanese,scene_fate_chr045_ep1,detail,カタリナ,ルリア！ ビィくん！ [플레이어]！<br>ともかくこっちへ……！
 Japanese,scene_fate_chr045_ep1,detail,？？？,けほっ……けほっ……
 Japanese,scene_fate_chr045_ep1,detail,？？？,やっと封印が解けたか……<br>あの若造共も、<br>少しはやるようになったじゃねぇか……
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,き、君は……？
 Japanese,scene_fate_chr045_ep1,detail,？？？,あっ☆<br>ねぇねぇ、貴方達が<br>この封印を解いてくれたの？
 Japanese,scene_fate_chr045_ep1,detail,ルリア,え、えと……<br>はい、おそらく……
 Japanese,scene_fate_chr045_ep1,detail,？？？,ありがとー☆<br>悪いおじさん達に閉じ込められて、<br>ずーっと困ってたんだぁ☆
-Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>突如現れた謎の少女は、</span><br><span class='scene-font-katari'>[ジータ]一行に、</span><br><span class='scene-font-katari'>にこやかに礼を述べた。</span>
+Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>突如現れた謎の少女は、</span><br><span class='scene-font-katari'>[플레이어]一行に、</span><br><span class='scene-font-katari'>にこやかに礼を述べた。</span>
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,しかし、君……<br>閉じ込められていたと言うが、<br>いったいなぜ……？
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,それに、封印が解けたことを<br>連中に知られるとマズイんじゃないか？<br>すぐにここを離れないと……
 Japanese,scene_fate_chr045_ep1,detail,？？？,うふふ……<br>んーっとね、それに関しては、<br>大丈夫だって思うなっ☆
@@ -58,44 +58,44 @@ Japanese,scene_fate_chr045_ep1,detail,カリオストロ,お前らはこのル�
 Japanese,scene_fate_chr045_ep1,detail,カリオストロ,それなら、オレ様が調べて、<br>わかる限りのことは教えてやる。
 Japanese,scene_fate_chr045_ep1,detail,カリオストロ,その代わり……<br>オレ様をお前らの騎空団に入れろ。<br>そしてオレ様を敵から守れ。
 Japanese,scene_fate_chr045_ep1,detail,ルリア,私……た、確かに私のこと、<br>もっと知りたい……けど。
-Japanese,scene_fate_chr045_ep1,detail,カリオストロ,ここで全員始末してもいいんだけどぉ、<br>カリオストロ、[ジータ]さんの<br>不敵な目が気に入っちゃったんだっ☆
-Japanese,scene_fate_chr045_ep1,detail,ビィ,ど、どうする……？<br>[ジータ]……
+Japanese,scene_fate_chr045_ep1,detail,カリオストロ,ここで全員始末してもいいんだけどぉ、<br>カリオストロ、[플레이어]さんの<br>不敵な目が気に入っちゃったんだっ☆
+Japanese,scene_fate_chr045_ep1,detail,ビィ,ど、どうする……？<br>[플레이어]……
 Japanese,scene_fate_chr045_ep1,sel1_txt,,<span class='scene-font-katari'>歓迎しよう</span>
 Japanese,scene_fate_chr045_ep1,sel2_txt,,<span class='scene-font-katari'>約束は守ってね</span>
 Japanese,scene_fate_chr045_ep1,detail,カリオストロ,わーいっ、やったー☆<br>ありがとー☆
 Japanese,scene_fate_chr045_ep1,detail,カリオストロ,だいじょうぶっ☆<br>錬金術師はね？ みんな正直者なんだ☆<br>約束はぜーったい守るよ☆
-Japanese,scene_fate_chr045_ep1,detail,カリオストロ,というわけで……<br>これからよろしくねっ☆<br>[ジータ]さんっ☆
-Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>こうして[ジータ]は、</span><br><span class='scene-font-katari'>開闢の錬金術師、</span><br><span class='scene-font-katari'>カリオストロを仲間に迎える。</span>
+Japanese,scene_fate_chr045_ep1,detail,カリオストロ,というわけで……<br>これからよろしくねっ☆<br>[플레이어]さんっ☆
+Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>こうして[플레이어]は、</span><br><span class='scene-font-katari'>開闢の錬金術師、</span><br><span class='scene-font-katari'>カリオストロを仲間に迎える。</span>
 Japanese,scene_fate_chr045_ep1,detail,,<span class='scene-font-katari'>後日、新たに明かされる</span><br><span class='scene-font-katari'>カリオストロの秘密に、</span><br><span class='scene-font-katari'>一行は騒然とさせられるのだった。</span>
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,ん……？ そういえば、<br>錬金術師の開祖、カリオストロは、<br>確か男性だったような……
 Japanese,scene_fate_chr045_ep1,detail,カタリナ,いや、しかし……<br>気のせい……いや、思い違いか。
 Japanese,scene_chr045_q1_s10,synopsis,,カリオストロの願いにより、一行はとある島へと舵を切る。しかし、騎空艇の航路を塞ぐように魔物達が立ちはだかる。
-Japanese,scene_chr045_q1_s10,detail,カリオストロ,ね、ねぇねぇ、[ジータ]さん、<br>えと、その……お願いがあるんだけど<br>聞いてくれるかなっ☆
-Japanese,scene_chr045_q1_s10,detail,,<span class='scene-font-katari'>その日、カリオストロは</span><br><span class='scene-font-katari'>いつになくしおらしく</span><br><span class='scene-font-katari'>[ジータ]に願い出た。</span>
+Japanese,scene_chr045_q1_s10,detail,カリオストロ,ね、ねぇねぇ、[플레이어]さん、<br>えと、その……お願いがあるんだけど<br>聞いてくれるかなっ☆
+Japanese,scene_chr045_q1_s10,detail,,<span class='scene-font-katari'>その日、カリオストロは</span><br><span class='scene-font-katari'>いつになくしおらしく</span><br><span class='scene-font-katari'>[플레이어]に願い出た。</span>
 Japanese,scene_chr045_q1_s10,detail,カリオストロ,カリオストロね……<br>ちょーっと思い出したことがあって……
 Japanese,scene_chr045_q1_s10,detail,カリオストロ,それで、<br>どーしても寄ってほしい<br>島があるんだけど……ダメ？
-Japanese,scene_chr045_q1_s10,detail,ビィ,おい、気を付けろよ、[ジータ]……<br>こりゃあ、間違いなく<br>何か裏があるぜ……
+Japanese,scene_chr045_q1_s10,detail,ビィ,おい、気を付けろよ、[플레이어]……<br>こりゃあ、間違いなく<br>何か裏があるぜ……
 Japanese,scene_chr045_q1_s10,detail,カリオストロ,ちっ……覚えてろよ、トカゲ……
 Japanese,scene_chr045_q1_s10,detail,ビィ,ひぃっ！？
 Japanese,scene_chr045_q1_s10,detail,カリオストロ,と、ともかく！<br>本当に悪いことは考えてないから！<br>お願いっ！
 Japanese,scene_chr045_q1_s10,detail,カタリナ,まぁ、ここまで言ってるんだ、<br>無碍に断るものではないな。
-Japanese,scene_chr045_q1_s10,detail,ルリア,ですねっ！<br>ちょっとした寄り道だけみたいだし……<br>いいですよね？ [ジータ]。
-Japanese,scene_chr045_q1_s10,detail,カリオストロ,わぁい！ ありがとっ☆<br>[ジータ]さんは、やさしーねっ☆
+Japanese,scene_chr045_q1_s10,detail,ルリア,ですねっ！<br>ちょっとした寄り道だけみたいだし……<br>いいですよね？ [플레이어]。
+Japanese,scene_chr045_q1_s10,detail,カリオストロ,わぁい！ ありがとっ☆<br>[플레이어]さんは、やさしーねっ☆
 Japanese,scene_chr045_q1_s10,detail,カリオストロ,どっかのトカゲと違ってなァ……
 Japanese,scene_chr045_q1_s10,detail,ビィ,そ、そうと決まりゃあ、<br>さっそく行こうぜ！
-Japanese,scene_chr045_q1_s10,detail,ビィ,[ジータ]！<br>航路を邪魔する魔物なんて、<br>蹴散らしてやれ！
-English,scene_fate_chr045_ep1,synopsis,,"An innocent-looking girl by the name of Cagliostro appears when [Djeeta] and company unlock a seal in ancient ruins. She turns out to be the founder of alchemy and, taking a sudden interest in Lyria, proposes to join the crew."
-English,scene_fate_chr045_ep1,detail,,[Djeeta] and company had heard a rumor that a giant seal had been placed on some particular ruins.
+Japanese,scene_chr045_q1_s10,detail,ビィ,[플레이어]！<br>航路を邪魔する魔物なんて、<br>蹴散らしてやれ！
+English,scene_fate_chr045_ep1,synopsis,,"An innocent-looking girl by the name of Cagliostro appears when [플레이어] and company unlock a seal in ancient ruins. She turns out to be the founder of alchemy and, taking a sudden interest in Lyria, proposes to join the crew."
+English,scene_fate_chr045_ep1,detail,,[플레이어] and company had heard a rumor that a giant seal had been placed on some particular ruins.
 English,scene_fate_chr045_ep1,detail,,"Confident that there is a primal beast beyond that seal, the crew decides to visit the ruins."
 English,scene_fate_chr045_ep1,detail,Lyria,Hmmm... I sense a strange power... But I don't think it's from a primal beast...
 English,scene_fate_chr045_ep1,detail,Vyrn,"Aw, man... So coming out here was just a waste of time? In that case let's start heading back."
 English,scene_fate_chr045_ep1,detail,Katalina,"Not so fast, Vyrn. Let's just take another quick look around."
 English,scene_fate_chr045_ep1,detail,Katalina,This is a seal we're dealing with here. Maybe we just need to put in a little more effort to find it.
-English,scene_fate_chr045_ep1,detail,Lyria,"Yeah! Let's keep at it, [Djeeta]! I'm sure if we're patient enough, we'll find..."
+English,scene_fate_chr045_ep1,detail,Lyria,"Yeah! Let's keep at it, [플레이어]! I'm sure if we're patient enough, we'll find..."
 English,scene_fate_chr045_ep1,detail,Lyria,Huh? Wh-what did I just...
 English,scene_fate_chr045_ep1,detail,Lyria,Eek! What's happening here?
 English,scene_fate_chr045_ep1,detail,Vyrn,"Th-this is bad, you guys... I think we might've undone the seal from earlier!"
-English,scene_fate_chr045_ep1,detail,Katalina,Lyria! Vyrn! [Djeeta]! Quick! Over here!
+English,scene_fate_chr045_ep1,detail,Katalina,Lyria! Vyrn! [플레이어]! Quick! Over here!
 English,scene_fate_chr045_ep1,detail,???,Cough... Cough...
 English,scene_fate_chr045_ep1,detail,???,Finally the seal's been lifted... Looks like those scum have actually learned a thing or two...
 English,scene_fate_chr045_ep1,detail,Katalina,Wh-who are you?
@@ -143,29 +143,29 @@ English,scene_fate_chr045_ep1,detail,Cagliostro,"You want to know more about thi
 English,scene_fate_chr045_ep1,detail,Cagliostro,Well then I'll look into it and tell you everything I learn.
 English,scene_fate_chr045_ep1,detail,Cagliostro,In exchange... let me into your crew. Protect me from danger.
 English,scene_fate_chr045_ep1,detail,Lyria,"I... Well, I do want to know more about myself... but..."
-English,scene_fate_chr045_ep1,detail,Cagliostro,"I could just kill everyone here, but I've taken a liking to [Djeeta]'s fearless glare!"
-English,scene_fate_chr045_ep1,detail,Vyrn,"Wh-what do we do, [Djeeta]?"
+English,scene_fate_chr045_ep1,detail,Cagliostro,"I could just kill everyone here, but I've taken a liking to [플레이어]'s fearless glare!"
+English,scene_fate_chr045_ep1,detail,Vyrn,"Wh-what do we do, [플레이어]?"
 English,scene_fate_chr045_ep1,sel1_txt,,Welcome aboard.
 English,scene_fate_chr045_ep1,sel2_txt,,"Keep your promise, okay?"
 English,scene_fate_chr045_ep1,detail,Cagliostro,Yaaay! Oh goody! Thanks a bunch!
 English,scene_fate_chr045_ep1,detail,Cagliostro,"Don't you worry! The thing about alchemists, you see... is that we're all super honest! We alllways keep our promises!"
-English,scene_fate_chr045_ep1,detail,Cagliostro,"Well then! I'm in your care, [Djeeta]!"
-English,scene_fate_chr045_ep1,detail,,"And so [Djeeta] makes friends with Cagliostro, the ancient alchemist."
+English,scene_fate_chr045_ep1,detail,Cagliostro,"Well then! I'm in your care, [플레이어]!"
+English,scene_fate_chr045_ep1,detail,,"And so [플레이어] makes friends with Cagliostro, the ancient alchemist."
 English,scene_fate_chr045_ep1,detail,,"But Cagliostro had a secret, and its revelation would one day send our heroes into an uproar."
 English,scene_fate_chr045_ep1,detail,Katalina,"Hm? Now that I think about it, I'm pretty sure the founder of alchemy, Cagliostro, was a man..."
 English,scene_fate_chr045_ep1,detail,Katalina,"Wait... No, I must have imagined it... Or rather, I must've been misinformed."
 English,scene_chr045_q1_s10,synopsis,,"By Cagliostro's wishes the party heads to a certain island. However, monsters block their path on the way there."
-English,scene_chr045_q1_s10,detail,Cagliostro,"S-say, [Djeeta]. Can I ask you for a favor? Please!"
+English,scene_chr045_q1_s10,detail,Cagliostro,"S-say, [플레이어]. Can I ask you for a favor? Please!"
 English,scene_chr045_q1_s10,detail,,Cagliostro appears unusually meek on this day.
 English,scene_chr045_q1_s10,detail,Cagliostro,I just remembered...
 English,scene_chr045_q1_s10,detail,Cagliostro,There's an island I'd like to stop by... Can we?
-English,scene_chr045_q1_s10,detail,Vyrn,"Watch out, [Djeeta]... She's definitely got some ulterior motive here."
+English,scene_chr045_q1_s10,detail,Vyrn,"Watch out, [플레이어]... She's definitely got some ulterior motive here."
 English,scene_chr045_q1_s10,detail,Cagliostro,"Tsk... Say that again, lizard!"
 English,scene_chr045_q1_s10,detail,Vyrn,Eep!
 English,scene_chr045_q1_s10,detail,Cagliostro,A-anyway! I'm not plotting anything bad! Honest! Please!
 English,scene_chr045_q1_s10,detail,Katalina,"Well, we shouldn't turn her down without a good reason."
-English,scene_chr045_q1_s10,detail,Lyria,"Yup! It's only a small stop anyway. It's okay, right, [Djeeta]?"
-English,scene_chr045_q1_s10,detail,Cagliostro,"Yay! Thanks! You're so nice, [Djeeta]!"
+English,scene_chr045_q1_s10,detail,Lyria,"Yup! It's only a small stop anyway. It's okay, right, [플레이어]?"
+English,scene_chr045_q1_s10,detail,Cagliostro,"Yay! Thanks! You're so nice, [플레이어]!"
 English,scene_chr045_q1_s10,detail,Cagliostro,Unlike some lizard here...
 English,scene_chr045_q1_s10,detail,Vyrn,"If it's decided, then let's go!"
-English,scene_chr045_q1_s10,detail,Vyrn,[Djeeta]! We've gotta take out those monsters in our path!
+English,scene_chr045_q1_s10,detail,Vyrn,[플레이어]! We've gotta take out those monsters in our path!

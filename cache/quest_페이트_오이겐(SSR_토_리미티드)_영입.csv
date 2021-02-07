@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr252_ep1,synopsis,,[ジータ]達がフリーシアの企てを阻止すべくタワーへ向かっていると、突如、オイゲンは悲鳴を聞き、立ち止まる。駆けつけると帝国兵が軍用路拡張のため住居を破壊しており、その前で少女が自宅の破壊を嘆いていた。オイゲンは咄嗟に少女を助け、母親の元へ届けてやろうと提案する。黒騎士は後先を考えないオイゲンの行動に苛立ちを募らせていく。
-Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>フリーシアの企てを阻止すべく、</span><br><span class='scene-font-katari'>タワーへ向かって突き進んでいた。</span>
+Japanese,scene_fate_chr252_ep1,synopsis,,[플레이어]達がフリーシアの企てを阻止すべくタワーへ向かっていると、突如、オイゲンは悲鳴を聞き、立ち止まる。駆けつけると帝国兵が軍用路拡張のため住居を破壊しており、その前で少女が自宅の破壊を嘆いていた。オイゲンは咄嗟に少女を助け、母親の元へ届けてやろうと提案する。黒騎士は後先を考えないオイゲンの行動に苛立ちを募らせていく。
+Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>フリーシアの企てを阻止すべく、</span><br><span class='scene-font-katari'>タワーへ向かって突き進んでいた。</span>
 Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>そんな中、突如、</span><br><span class='scene-font-katari'>オイゲンが立ち止まる。</span>
 Japanese,scene_fate_chr252_ep1,detail,オイゲン,うん……？
 Japanese,scene_fate_chr252_ep1,detail,黒騎士,どうした、何を立ち止まっている？
@@ -10,20 +10,20 @@ Japanese,scene_fate_chr252_ep1,detail,黒騎士,それがどうした？<br>今�
 Japanese,scene_fate_chr252_ep1,detail,オイゲン,…………
 Japanese,scene_fate_chr252_ep1,detail,ルリア,あ、オイゲンさん！<br>どこへ行くんですか。
 Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>ルリアの声が聞こえたのか、</span><br><span class='scene-font-katari'>聞こえなかったのか、オイゲンは</span><br><span class='scene-font-katari'>瓦礫の向こう側へと消えていく。</span>
-Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>なかなか追いついて来ない</span><br><span class='scene-font-katari'>[ジータ]達を心配して、</span><br><span class='scene-font-katari'>ビィがやってくる。</span>
+Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>なかなか追いついて来ない</span><br><span class='scene-font-katari'>[플레이어]達を心配して、</span><br><span class='scene-font-katari'>ビィがやってくる。</span>
 Japanese,scene_fate_chr252_ep1,detail,ビィ,おいおい、何してんだよ。<br>みんな、先へ行っちまったぞ。
 Japanese,scene_fate_chr252_ep1,detail,黒騎士,ちっ……<br>貴様らは先に行け。<br>奴は私が連れ戻す。
 Japanese,scene_fate_chr252_ep1,detail,ビィ,お、おい！？<br>どうした！？<br>どこ行くんだよ！？
 Japanese,scene_fate_chr252_ep1,detail,ルリア,それが……<br>オイゲンさんが悲鳴を聞いて、<br>走って行ってしまって……
-Japanese,scene_fate_chr252_ep1,detail,ビィ,……はあ。何なんだよ。<br>なあ、どうすんだ？ [ジータ]。
+Japanese,scene_fate_chr252_ep1,detail,ビィ,……はあ。何なんだよ。<br>なあ、どうすんだ？ [플레이어]。
 Japanese,scene_fate_chr252_ep1,sel1_txt,,<span class='scene-font-katari'>心配だ、見に行ってくる</span>
 Japanese,scene_fate_chr252_ep1,sel2_txt,,<span class='scene-font-katari'>大丈夫だ、放って置こう</span>
 Japanese,scene_fate_chr252_ep1,detail,ルリア,そうですよね。<br>私もふたりが心配です。
 Japanese,scene_fate_chr252_ep1,detail,ビィ,ったく、しょーがねぇなぁ……<br>そんなら早く行こうぜ。
-Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>[ジータ]とルリア、そしてビィは、</span><br><span class='scene-font-katari'>オイゲンと黒騎士が消えていった</span><br><span class='scene-font-katari'>瓦礫の方へと走っていく──</span>
-Japanese,scene_fate_chr252_ep1,detail,ルリア,そんなこと言って、また……<br>[ジータ]ひとりで<br>様子を見にいくつもりですね。
+Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>[플레이어]とルリア、そしてビィは、</span><br><span class='scene-font-katari'>オイゲンと黒騎士が消えていった</span><br><span class='scene-font-katari'>瓦礫の方へと走っていく──</span>
+Japanese,scene_fate_chr252_ep1,detail,ルリア,そんなこと言って、また……<br>[플레이어]ひとりで<br>様子を見にいくつもりですね。
 Japanese,scene_fate_chr252_ep1,detail,ビィ,へへ、おめぇのやることなんて<br>全部お見通しだってぇの！<br>どんだけ一緒にいると思ってんだよ。
-Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>[ジータ]とルリア、そしてビィは、</span><br><span class='scene-font-katari'>オイゲンと黒騎士が消えていった</span><br><span class='scene-font-katari'>瓦礫の方へと走っていく──</span>
+Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>[플레이어]とルリア、そしてビィは、</span><br><span class='scene-font-katari'>オイゲンと黒騎士が消えていった</span><br><span class='scene-font-katari'>瓦礫の方へと走っていく──</span>
 Japanese,scene_fate_chr252_ep1,detail,少女,やぁだぁーーー！！<br>おうち、あたしのおうちぃ！！
 Japanese,scene_fate_chr252_ep1,detail,帝国兵,済まない、少女よ……<br>これも軍用路拡張のため。<br>民間人は協力する義務がある。
 Japanese,scene_fate_chr252_ep1,detail,帝国兵,しかし約束しよう。<br>我々帝国軍は民の犠牲を無駄にしない。<br>命に代えても皆を守ろう。
@@ -71,10 +71,10 @@ Japanese,scene_fate_chr252_ep1,detail,オイゲン,何の為に、あの宰相�
 Japanese,scene_fate_chr252_ep1,detail,オイゲン,この街の連中を……<br>こういう嬢ちゃん達を<br>守る為じゃねぇのか？
 Japanese,scene_fate_chr252_ep1,detail,オイゲン,娘がこんななってんだ……<br>心配しねぇ親なんざ<br>どこにも居ねぇさ。
 Japanese,scene_fate_chr252_ep1,detail,黒騎士,…………
-Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>かくして[ジータ]一行は、</span><br><span class='scene-font-katari'>少女を避難所近くまで</span><br><span class='scene-font-katari'>送り届けることになったのだが……</span>
+Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>かくして[플레이어]一行は、</span><br><span class='scene-font-katari'>少女を避難所近くまで</span><br><span class='scene-font-katari'>送り届けることになったのだが……</span>
 Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>オイゲンの少女への眼差しと──</span><br><span class='scene-font-katari'>黒騎士のオイゲンへの視線と──</span>
-Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>複雑な想いが幾重にも交錯する</span><br><span class='scene-font-katari'>どうにも厄介な寄り道となりそうで、</span><br><span class='scene-font-katari'>[ジータ]達は気が気でなかった。</span>
-Japanese,scene_chr252_q1_s10,synopsis,,少女を避難所へ送り届けようと歩き続ける[ジータ]達であったが、黒騎士は一刻も早くタワーへ向かうべきだと考える。黒騎士は、かつてオイゲンが病弱な母と自分を見捨てたことを恨み、オイゲンを責める。ルリアとビィはそんなオイゲンを庇うが、黒騎士は信じようとせず、ついにオイゲンに向かって剣を抜く。
+Japanese,scene_fate_chr252_ep1,detail,,<span class='scene-font-katari'>複雑な想いが幾重にも交錯する</span><br><span class='scene-font-katari'>どうにも厄介な寄り道となりそうで、</span><br><span class='scene-font-katari'>[플레이어]達は気が気でなかった。</span>
+Japanese,scene_chr252_q1_s10,synopsis,,少女を避難所へ送り届けようと歩き続ける[플레이어]達であったが、黒騎士は一刻も早くタワーへ向かうべきだと考える。黒騎士は、かつてオイゲンが病弱な母と自分を見捨てたことを恨み、オイゲンを責める。ルリアとビィはそんなオイゲンを庇うが、黒騎士は信じようとせず、ついにオイゲンに向かって剣を抜く。
 Japanese,scene_chr252_q1_s10,detail,,<span class='scene-font-katari'>タワーへと向かう途中、</span><br><span class='scene-font-katari'>偶然出会った迷子の少女とともに、</span><br><span class='scene-font-katari'>一行は避難所を探していた──</span>
 Japanese,scene_chr252_q1_s10,detail,黒騎士,おい、待て。やはり時間の無駄だ。<br>迷子は大人しく軍にでも<br>預ければいい。
 Japanese,scene_chr252_q1_s10,detail,,<span class='scene-font-katari'>しかしオイゲンは止まらない。</span><br><span class='scene-font-katari'>答える素振りすら見せようとせず、</span><br><span class='scene-font-katari'>少女の手を握って歩き続ける。</span>
@@ -104,8 +104,8 @@ Japanese,scene_chr252_q1_s10,detail,黒騎士,この気配……
 Japanese,scene_chr252_q1_s10,detail,オイゲン,おう……<br>すっかり囲まれちまってんな。
 Japanese,scene_chr252_q1_s10,detail,黒騎士,ここまで綺麗に包囲されるとはな。<br>まるで我々がここへ来ることを知り、<br>待ち構えていたかのようだ……
 Japanese,scene_chr252_q1_s10,detail,オイゲン,詮索は後だ！<br>来るぞ、構えろ！
-English,scene_fate_chr252_ep1,synopsis,,"[Djeeta] and the others head for the tower to stop Freesia, but Eugen hears a cry and runs off to investigate. He finds an imperial soldier demolishing a home and arrives just in time to save a girl from flying debris. He suggests taking the girl back to her mother, but the Black Knight is irritated by his careless actions."
-English,scene_fate_chr252_ep1,detail,,[Djeeta] and the crew are heading for the tower to stop Freesia's plan.
+English,scene_fate_chr252_ep1,synopsis,,"[플레이어] and the others head for the tower to stop Freesia, but Eugen hears a cry and runs off to investigate. He finds an imperial soldier demolishing a home and arrives just in time to save a girl from flying debris. He suggests taking the girl back to her mother, but the Black Knight is irritated by his careless actions."
+English,scene_fate_chr252_ep1,detail,,[플레이어] and the crew are heading for the tower to stop Freesia's plan.
 English,scene_fate_chr252_ep1,detail,,But Eugen suddenly stops in his tracks.
 English,scene_fate_chr252_ep1,detail,Eugen,Huh?
 English,scene_fate_chr252_ep1,detail,Black Knight,What's wrong? Why are you stopping?
@@ -115,20 +115,20 @@ English,scene_fate_chr252_ep1,detail,Black Knight,And what if someone did scream
 English,scene_fate_chr252_ep1,detail,Eugen,...
 English,scene_fate_chr252_ep1,detail,Lyria,Eugen! Where are you going?
 English,scene_fate_chr252_ep1,detail,,"Whether he heard Lyria's voice or not, Eugen disappears beyond the rubble."
-English,scene_fate_chr252_ep1,detail,,"Vyrn flies toward them, having noticed that [Djeeta] and the others are lagging behind."
+English,scene_fate_chr252_ep1,detail,,"Vyrn flies toward them, having noticed that [플레이어] and the others are lagging behind."
 English,scene_fate_chr252_ep1,detail,Vyrn,"Hey, what's taking so long? Everyone's gone ahead."
 English,scene_fate_chr252_ep1,detail,Black Knight,Tch... You all go ahead. I'll go get him.
 English,scene_fate_chr252_ep1,detail,Vyrn,Hey! What's wrong? Where are you going?
 English,scene_fate_chr252_ep1,detail,Lyria,Well... Eugen heard a scream and ran off.
-English,scene_fate_chr252_ep1,detail,Vyrn,"<span class='scene-font-italic'>Sigh...</span> That's just great. So what do we do now, [Djeeta]?"
+English,scene_fate_chr252_ep1,detail,Vyrn,"<span class='scene-font-italic'>Sigh...</span> That's just great. So what do we do now, [플레이어]?"
 English,scene_fate_chr252_ep1,sel1_txt,,I'm worried. I'll go check on them.
 English,scene_fate_chr252_ep1,sel2_txt,,They're fine. Let them go.
 English,scene_fate_chr252_ep1,detail,Lyria,I'm worried about them too.
 English,scene_fate_chr252_ep1,detail,Vyrn,Good grief... All right. Let's get going then.
-English,scene_fate_chr252_ep1,detail,,"[Djeeta], Lyria, and Vyrn run toward the rubble where Eugen and the Black Knight were last seen."
-English,scene_fate_chr252_ep1,detail,Lyria,"I know you don't mean that... You plan to go after them alone, don't you, [Djeeta]?"
+English,scene_fate_chr252_ep1,detail,,"[플레이어], Lyria, and Vyrn run toward the rubble where Eugen and the Black Knight were last seen."
+English,scene_fate_chr252_ep1,detail,Lyria,"I know you don't mean that... You plan to go after them alone, don't you, [플레이어]?"
 English,scene_fate_chr252_ep1,detail,Vyrn,Heh-heh. You can't fool us! We've known each other too long!
-English,scene_fate_chr252_ep1,detail,,"[Djeeta], Lyria, and Vyrn run toward the rubble where Eugen and the Black Knight were last seen."
+English,scene_fate_chr252_ep1,detail,,"[플레이어], Lyria, and Vyrn run toward the rubble where Eugen and the Black Knight were last seen."
 English,scene_fate_chr252_ep1,detail,Girl,No! My house! My house!
 English,scene_fate_chr252_ep1,detail,Imperial Soldier,"I'm sorry little girl, but we need to expand the military road. And it's the duty of civilians to cooperate."
 English,scene_fate_chr252_ep1,detail,Imperial Soldier,But I promise you that the empire will not waste your sacrifice. We will protect our people with our lives.
@@ -176,11 +176,11 @@ English,scene_fate_chr252_ep1,detail,Eugen,Why are we trying to stop the prime m
 English,scene_fate_chr252_ep1,detail,Eugen,"To protect the people of this city, right? People like this little girl."
 English,scene_fate_chr252_ep1,detail,Eugen,Any parent would be worried if their little girl was out here alone.
 English,scene_fate_chr252_ep1,detail,Black Knight,...
-English,scene_fate_chr252_ep1,detail,,[Djeeta] and company decide to take the girl and drop her off near the shelter.
+English,scene_fate_chr252_ep1,detail,,[플레이어] and company decide to take the girl and drop her off near the shelter.
 English,scene_fate_chr252_ep1,detail,,"As Eugen gazes at the little girl, the Black Knight gazes at Eugen."
-English,scene_fate_chr252_ep1,detail,,"And [Djeeta] and the crew are on pins and needles, realizing how many complicated emotions will be joining them on this little detour."
-English,scene_chr252_q1_s10,synopsis,,"[Djeeta] and the others search for the shelter where the girl's mother is located, but the Black Knight thinks they should hurry to the tower instead. She accuses Eugen of abandoning her and her sickly mother. Lyria and Vyrn stand up for Eugen, but the Black Knight suddenly draws her sword."
-English,scene_chr252_q1_s10,detail,,"As they head for the tower, [Djeeta] and the others are helping a lost girl find a certain shelter where her mother is located."
+English,scene_fate_chr252_ep1,detail,,"And [플레이어] and the crew are on pins and needles, realizing how many complicated emotions will be joining them on this little detour."
+English,scene_chr252_q1_s10,synopsis,,"[플레이어] and the others search for the shelter where the girl's mother is located, but the Black Knight thinks they should hurry to the tower instead. She accuses Eugen of abandoning her and her sickly mother. Lyria and Vyrn stand up for Eugen, but the Black Knight suddenly draws her sword."
+English,scene_chr252_q1_s10,detail,,"As they head for the tower, [플레이어] and the others are helping a lost girl find a certain shelter where her mother is located."
 English,scene_chr252_q1_s10,detail,Black Knight,Stop. This is a waste of time. We should just hand the girl over to the army.
 English,scene_chr252_q1_s10,detail,,But Eugen doesn't stop. He doesn't even bother to respond as he takes the girl's hand and walks onward.
 English,scene_chr252_q1_s10,detail,,The Black Knight glares at the back of his head and spits a few choice words at him.

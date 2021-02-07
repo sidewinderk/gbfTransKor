@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp13_q1_s10,1311",synopsis,,黒騎士の言葉から<span class='scene-font-place'>ルーマシー群島</span>へと向かった<span>[ジータ]</span>一行。言葉の真意を確かめるため、ルリアが感じる謎の少女との共鳴を手掛かりに、少女と共に居るであろう黒騎士を探し始める。,흑기사의 말에서 <span class='scene-font-place>> 루마시 군도</span>로 향한 <span>[지타]</span> 한 줄.말의 진의를 확인하기 위해 루리아가 느끼는 수수께끼의 소녀와의 공명을 실마리로 소녀와 함께 할 흑기사를 찾아 나선다.
+Japanese,"scene_cp13_q1_s10,1311",synopsis,,黒騎士の言葉から<span class='scene-font-place'>ルーマシー群島</span>へと向かった<span>[플레이어]</span>一行。言葉の真意を確かめるため、ルリアが感じる謎の少女との共鳴を手掛かりに、少女と共に居るであろう黒騎士を探し始める。,흑기사의 말에서 <span class='scene-font-place>> 루마시 군도</span>로 향한 <span>[플레이어]</span> 한 줄.말의 진의를 확인하기 위해 루리아가 느끼는 수수께끼의 소녀와의 공명을 실마리로 소녀와 함께 할 흑기사를 찾아 나선다.
 Japanese,"scene_cp13_q1_s10,1311",detail,,<span class='scene-font-katari'>黒騎士の残した言葉を追い、</span><br><span class='scene-font-katari'>一同は</span><span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>へと降り立った。</span>,<span class = 'scene-font-katari'> 흑기사가 남긴 말을 쫓아 </ span> <br> <span class = 'scene-font-katari'> 일동은 </ span> <span class = 'scene-font-place'> 루마시 군도 </ span> <span class = 'scene-font-katari'>로 내려 섰다. </ span>
 Japanese,"scene_cp13_q1_s10,1311",detail,이오,……で？<br>ここになにがあるっていうの？,……그래서?<br>여기에 뭐가 있다는 거야?
 Japanese,"scene_cp13_q1_s10,1311",detail,루리아,わぁー……<br>おっきい木がいっぱい。<br>騎空艇とどっちがおっきいかな？,와~~~<br>큰 나무가 가득해.<br>기공정과 어느쪽이 큰걸까?
@@ -13,8 +13,8 @@ Japanese,"scene_cp13_q1_s10,1311",detail,비이,本人ったって……どう�
 Japanese,"scene_cp13_q1_s10,1311",detail,루리아,あ……それ、もしかしたら、<br>私、わかるかもです。,"아...그거, 어쩌면,<br>나,알지도 몰라요."
 Japanese,"scene_cp13_q1_s10,1311",detail,루리아,私の中のリヴァイアサンの力が、<br>あの女の子の力と共鳴してるんです……<br>ずっと……あの森の奥のほうに……,"내안의 리바이아선의 힘이,<br>그 여자아이의 힘과 공명하고 있습니다……<br>계속……그 숲속 깊은 곳에……"
 Japanese,"scene_cp13_q1_s10,1311",detail,카타리나,あの少女の居場所がわかれば、<br>自ずと黒騎士にも辿り着く、か……,"그 소녀가 있는 곳을 알면,<br>자연스럽게 흑기사로도 도착한다, 라..."
-Japanese,"scene_cp13_q1_s10,1311",detail,비이,よっしゃ！ 方針は決まったな！<br>行こうぜ！ [ジータ]！,좋아 좋아! 방침은 정해졌구나! <br> 가자! [지타]!
-Japanese,"scene_cp13_q1_s20,1312",synopsis,,鬱蒼と生い茂る森を進む<span>[ジータ]</span>一行にカタリナは、帝国に居た頃に聞いた、緋色の鬼が住むという<span class='scene-font-place'>ルーマシー群島</span>の恐ろしげな逸話を語る。,울창한 숲을 달려가는 <span>[지타]</span>일행에게 카타리나는 제국에 있을 때 들었던 주홍빛 도깨비가 산다는 <span class='scene-font-place>>루마시 군도</span>의 무서운 일화를 들려준다.
+Japanese,"scene_cp13_q1_s10,1311",detail,비이,よっしゃ！ 方針は決まったな！<br>行こうぜ！ [플레이어]！,좋아 좋아! 방침은 정해졌구나! <br> 가자! [플레이어]!
+Japanese,"scene_cp13_q1_s20,1312",synopsis,,鬱蒼と生い茂る森を進む<span>[플레이어]</span>一行にカタリナは、帝国に居た頃に聞いた、緋色の鬼が住むという<span class='scene-font-place'>ルーマシー群島</span>の恐ろしげな逸話を語る。,울창한 숲을 달려가는 <span>[플레이어]</span>일행에게 카타리나는 제국에 있을 때 들었던 주홍빛 도깨비가 산다는 <span class='scene-font-place>>루마시 군도</span>의 무서운 일화를 들려준다.
 Japanese,"scene_cp13_q1_s20,1312",detail,카타리나,うう……ここはやけに、<br>虫の多い森だな……,"으으……여기는 유난히,<br>벌레가 많은 숲이네……"
 Japanese,"scene_cp13_q1_s20,1312",detail,오이겐,仕方ねぇさ、この辺の森はほとんど、<br>人の手が入ってねぇからなぁ。,"어쩔 수 없지, 이 근처의 숲은 거의 <br> 사람의 손을 타지 않았으니 말야."
 Japanese,"scene_cp13_q1_s20,1312",detail,라캄,誰も立ち寄ったって話を聞かない、<br>ほとんど未開の群島だからな……<br>噂話すら、ろくろく聞かねぇぜ。,아무도 들렸다고 들은적이 없어. <br> 거의 미개척의 군도니까……<br> 소문조차 제대로 듣지 못했지.
@@ -27,12 +27,12 @@ Japanese,"scene_cp13_q1_s20,1312",detail,카타리나,世界から忘れ去ら�
 Japanese,"scene_cp13_q1_s20,1312",detail,라캄,おいおいおい……<br>俺達、化物退治でもさせられるのか？,"야야야야……<br>우리, 괴물 퇴치라도 시키는 건가?"
 Japanese,"scene_cp13_q1_s20,1312",detail,이오,ふん……<br>そんなのいつもと変わんないじゃん！,흠…<br>그런 건 평소와 다름없잖아!
 Japanese,"scene_cp13_q1_s20,1312",detail,이오,ほら！<br>この森にも魔物は居るんだから……<br>ちゃっちゃと片付けちゃうわよ！,봐! <br> 이 숲에도 마물은 있으니까……<br> 척척 해치워 버리자구
-Japanese,"scene_cp13_q2_s10,1321",synopsis,,<span>[ジータ]</span>一行の前に突如、謎の女性、ロゼッタが現れる。不審な点の多い彼女は、<span>[ジータ]</span>と目的地は同じだと話し、一同に同行し始める。,<span> [지타] </span> 일행 앞에 갑자기 의문의 여인 로제타가 나타난다.미심쩍은 점이 많은 그녀는 <span>[지타]</span>와 목적지가 같다고 말하고 함께 동행하기 시작한다.
-Japanese,"scene_cp13_q2_s10,1321",detail,,<span class='scene-font-katari'>その声の主は、[ジータ]達の</span><br><span class='scene-font-katari'>不意を突くように現れた。</span>,"<span class = 'scene-font-katari'> 그 목소리의 주인은, [지타] 일행의 </ span> <br> <span class = 'scene-font-katari'> 허를 찌르며 나타났다. </ span>"
+Japanese,"scene_cp13_q2_s10,1321",synopsis,,<span>[플레이어]</span>一行の前に突如、謎の女性、ロゼッタが現れる。不審な点の多い彼女は、<span>[플레이어]</span>と目的地は同じだと話し、一同に同行し始める。,<span> [플레이어] </span> 일행 앞에 갑자기 의문의 여인 로제타가 나타난다.미심쩍은 점이 많은 그녀는 <span>[플레이어]</span>와 목적지가 같다고 말하고 함께 동행하기 시작한다.
+Japanese,"scene_cp13_q2_s10,1321",detail,,<span class='scene-font-katari'>その声の主は、[플레이어]達の</span><br><span class='scene-font-katari'>不意を突くように現れた。</span>,"<span class = 'scene-font-katari'> 그 목소리의 주인은, [플레이어] 일행의 </ span> <br> <span class = 'scene-font-katari'> 허를 찌르며 나타났다. </ span>"
 Japanese,"scene_cp13_q2_s10,1321",detail,？？？,はぁい♪ ちょっといいかしら？,저기~♪ 좀 괜찮을까?
 Japanese,"scene_cp13_q2_s10,1321",detail,비이,うわっ！？<br>だ、誰だあんた！？ いつの間に……,"우와!?<br>다, 누구야 너!? 어느새……"
 Japanese,"scene_cp13_q2_s10,1321",detail,？？？,そんなに驚かれると傷つくわね……<br>怪しい者じゃないわ。<br>見ての通りの、か弱い乙女よ。,그렇게 놀라면 상처받는다구……<br>수상한 사람이 아니에요.<br>보다시피 가냘픈 처녀라구요.
-Japanese,"scene_cp13_q2_s10,1321",detail,,<span class='scene-font-katari'>その声の主は、[ジータ]達の</span><br><span class='scene-font-katari'>不意を突くように現れた。</span>,"<span class = 'scene-font-katari'> 그 목소리의 주인은, [지타] 일행의 </ span> <br> <span class = 'scene-font-katari'> 허를 찌르며 나타났다. </ span>"
+Japanese,"scene_cp13_q2_s10,1321",detail,,<span class='scene-font-katari'>その声の主は、[플레이어]達の</span><br><span class='scene-font-katari'>不意を突くように現れた。</span>,"<span class = 'scene-font-katari'> 그 목소리의 주인은, [플레이어] 일행의 </ span> <br> <span class = 'scene-font-katari'> 허를 찌르며 나타났다. </ span>"
 Japanese,"scene_cp13_q2_s10,1321",detail,？？？,はぁい♪ ちょっといいかしら？,저기~♪ 좀 괜찮을까?
 Japanese,"scene_cp13_q2_s10,1321",detail,비이,うわっ！？<br>だ、誰だあんた！？ いつの間に……,"우와!?<br>다, 누구야 너!? 어느새……"
 Japanese,"scene_cp13_q2_s10,1321",detail,？？？,そんなに驚かれると傷つくわね……<br>怪しい者じゃないわ。<br>見ての通りの、か弱い乙女よ。,그렇게 놀라면 상처받는다구……<br>수상한 사람이 아니에요.<br>보다시피 가냘픈 처녀라구요.
@@ -40,7 +40,7 @@ Japanese,"scene_cp13_q2_s10,1321",detail,오이겐,ただのか弱い乙女な�
 Japanese,"scene_cp13_q2_s10,1321",detail,？？？,あら……鋭いわね、素敵。<br>そういうヒト、嫌いじゃないわ。,"어머……날카롭네, 멋져.<br>그런 사람 싫지 않아요."
 Japanese,"scene_cp13_q2_s10,1321",detail,오이겐,はぐらかすんじゃねぇや。<br>ジジイにゃ色仕掛けは通用しねぇぜ？,"얼버무리지 말라구, 이 할부지에게는 미인계는 안통한다구?"
 Japanese,"scene_cp13_q2_s10,1321",detail,？？？,あら残念……ますます素敵。<br>食べちゃいたくなるわ……,어머 유감이네...더욱더 멋지다.<br>먹어버리고싶어지는걸.....
-Japanese,"scene_cp13_q2_s10,1321",detail,루리아,ど、どうしよう、[ジータ]！<br>オイゲンさん、食べられちゃう！？,"어떡해? [지타] 오이겐씨, 잡아 먹혀 버리겠어요!?"
+Japanese,"scene_cp13_q2_s10,1321",detail,루리아,ど、どうしよう、[플레이어]！<br>オイゲンさん、食べられちゃう！？,"어떡해? [플레이어] 오이겐씨, 잡아 먹혀 버리겠어요!?"
 Japanese,"scene_cp13_q2_s10,1321",detail,로제타,アタシはロゼッタっていうの。<br>ここには、<br>ちょっとしたお使いで来てるのよ。,저는 로젯타라고해요.<br>여기에는<br>자질구레한 심부름을 하러 왔어요.
 Japanese,"scene_cp13_q2_s10,1321",detail,로제타,だけどほら、この森って危険でしょう？<br>だから、アナタ達に<br>守ってもらえないかと思って。,"하지만 이 숲은 위험하잖아요?<br>그러니까, 당신들이<br>지켜줄수 없을까 하는데요."
 Japanese,"scene_cp13_q2_s10,1321",detail,카타리나,護衛をしたいのはやまやまだが……<br>私達も急ぎの道中で、<br>寄り道をしている時間は……,"호위를 하고 싶은 마음은 굴뚝같지만……<br>우리도 급한 길이고,<br>다른곳에 들릴 시간은……"
@@ -50,8 +50,8 @@ Japanese,"scene_cp13_q2_s10,1321",detail,로제타,――ねぇ、トカゲさ�
 Japanese,"scene_cp13_q2_s10,1321",detail,로제타,魅力的な女にはね、<br>幾つも秘密があるものなの。,매력적인 여자에게는 말이야<br>여러가지 비밀이 있는 법이야.
 Japanese,"scene_cp13_q2_s10,1321",detail,로제타,ほら、行きましょ？<br>グズグズしてる暇なんてないでしょう？<br>知ってるんだから、アタシは……ね。,"자, 가볼까요?<br>꾸물꾸물할 시간이 없잖아요?<br> 알고있으니까요, 저는……너희들을."
 Japanese,"scene_cp13_q2_s20,1322",synopsis,,ルリアについての秘密を口にするロゼッタに、一同は不信感を募らせ正体を追求しようとするが、魔物の襲撃によってはぐらかされてしまう。,"루리아에 대한 비밀을 말하는 로제타에게 일동은 불신감을 더해가며 정체를 알아보려 하지만, 마물의 습격으로 인해 따돌림을 당하고 만다."
-Japanese,"scene_cp13_q2_s20,1322",detail,로제타,ふぅん……<br>アナタが[ジータ]さんなのね？<br>ふむふむ……,음……<br>당신이 [지타]씨구나?<br>흐음……
-Japanese,"scene_cp13_q2_s20,1322",detail,루리아,な、なんなんですかこの人……<br>[ジータ]のことじっと見て……,"뭐, 뭐에요 이 사람……<br>[지타]를 빤히 쳐다보는데……"
+Japanese,"scene_cp13_q2_s20,1322",detail,로제타,ふぅん……<br>アナタが[플레이어]さんなのね？<br>ふむふむ……,음……<br>당신이 [플레이어]씨구나?<br>흐음……
+Japanese,"scene_cp13_q2_s20,1322",detail,루리아,な、なんなんですかこの人……<br>[플레이어]のことじっと見て……,"뭐, 뭐에요 이 사람……<br>[플레이어]를 빤히 쳐다보는데……"
 Japanese,"scene_cp13_q2_s20,1322",detail,로제타,それで……貴女がルリアちゃんよね。<br>思っていた通り、可愛いわね。,그래서……네가 루리아양이구나.<br>생각했던대로 귀엽네.
 Japanese,"scene_cp13_q2_s20,1322",detail,루리아,え？ えっと……<br>あ、ありがとうございます……,"네? 음....<br>아, 감사합니다...."
 Japanese,"scene_cp13_q2_s20,1322",detail,로제타,ふふふ……<br>初々しくてとっても可愛い子……,후후후……<br>풋풋하고 아주 귀여운 아이구나……
@@ -68,8 +68,8 @@ Japanese,"scene_cp13_q2_s20,1322",detail,로제타,さぁ？<br>でも、これ�
 Japanese,"scene_cp13_q2_s20,1322",detail,마물,グルルルル……,우르르릉……
 Japanese,"scene_cp13_q2_s20,1322",detail,로제타,だけどいまは、<br>先に目の前の魔物から<br>相手をしてあげなくちゃね。,하지만 지금은 <br> 먼저 눈앞의 마물부터<br>상대를 해주지 않으면 안되겠지?
 Japanese,"scene_cp13_q3_s10,1331",synopsis,,カタリナはロゼッタに森に来ている用事を尋ねるが、ロゼッタは妖しげな笑みを浮かべながら決して教えようとはせず、ただ森の奥へと進むよう促す。,"카타리나는 로제타에게 숲에 와 있는 용무를 묻지만, 로제타는 요염한 미소를 지으며 결코 가르쳐주려고 하지 않고, 그저 숲 속으로 가라고 재촉한다."
-Japanese,"scene_cp13_q3_s10,1331",detail,로제타,――[ジータ]って、<br>見かけによらず腕が立つのね？<br>アタシ、気に入っちゃったかも。,"-- [지타]라니,<br>보기와는 다르게 솜씨가 좋구나, 내 마음에 들지도 모르겠는걸."
-Japanese,"scene_cp13_q3_s10,1331",detail,루리아,だ、だめですよっ！<br>[ジータ]はだめです！,"아, 안 돼요!<br>[지타]는 안 돼요!"
+Japanese,"scene_cp13_q3_s10,1331",detail,로제타,――[플레이어]って、<br>見かけによらず腕が立つのね？<br>アタシ、気に入っちゃったかも。,"-- [플레이어]라니,<br>보기와는 다르게 솜씨가 좋구나, 내 마음에 들지도 모르겠는걸."
+Japanese,"scene_cp13_q3_s10,1331",detail,루리아,だ、だめですよっ！<br>[플레이어]はだめです！,"아, 안 돼요!<br>[플레이어]는 안 돼요!"
 Japanese,"scene_cp13_q3_s10,1331",detail,로제타,あらあら、やきもち？<br>ふふふ……可愛いわね。,"어머 어머, 질투?<br> 후후……. 귀여워."
 Japanese,"scene_cp13_q3_s10,1331",detail,루리아,むぅぅ……,므으읏……
 Japanese,"scene_cp13_q3_s10,1331",detail,이오,もう……馬鹿な話してたら、<br>置いてっちゃうからね？,"정말....어처구니 없는 이야기만하면,<br>놔 두고 가버릴거라구?"
@@ -85,11 +85,11 @@ Japanese,"scene_cp13_q3_s10,1331",detail,카타리나,それなら……,그렇�
 Japanese,"scene_cp13_q3_s10,1331",detail,로제타,でも、ダーメ、教えてあげない。<br>言ったでしょ？<br>秘密は魅力のひとつなの。,근데 안 알려줄 거야.<br> 말했지?비밀은 매력의 하나라구.
 Japanese,"scene_cp13_q3_s10,1331",detail,라캄,おい、何してんだ？<br>イオ達、<br>ずいぶん先まで行っちまったぞ？,야 뭐 하고 있어?<br>이오일행은<br>오래전에 가버렸는데?
 Japanese,"scene_cp13_q3_s10,1331",detail,로제타,さ、行きましょ？<br>この森で道に迷うと、大変なんだから。,"자, 가볼까요?이 숲에서 길을 잃으면, 큰일이라니까."
-Japanese,"scene_cp13_q3_s20,1332",synopsis,,<span>[ジータ]</span>はカタリナからロゼッタをどう思うか意見を求められるが、結局答えを出すことは出来ず、一同はロゼッタに注意して先へと進む。,"<span>[지타]</span>는 카타리나가 로제타에 대해 어떻게 생각하는지 의견을 요구하지만, 결국 답을 내리지 못하고, 모두가 로제타에게 주의를 기울이며 앞으로 나아간다."
-Japanese,"scene_cp13_q3_s20,1332",detail,,<span class='scene-font-katari'>物陰に[ジータ]を引き込み、</span><br><span class='scene-font-katari'>カタリナは声をひそめた。</span>,<span class = 'scene-font-katari'> 그늘에 [지타]를 끌어 당기며 </ span> <br> <span class = 'scene-font-katari'> 카타리나는 말을 찌푸렸다. </ span>
-Japanese,"scene_cp13_q3_s20,1332",detail,카타리나,[ジータ]……君は気づいたか？<br>ロゼッタのことなのだが……,[지타]……너 눈치챘니?로제타 말인데……
+Japanese,"scene_cp13_q3_s20,1332",synopsis,,<span>[플레이어]</span>はカタリナからロゼッタをどう思うか意見を求められるが、結局答えを出すことは出来ず、一同はロゼッタに注意して先へと進む。,"<span>[플레이어]</span>는 카타리나가 로제타에 대해 어떻게 생각하는지 의견을 요구하지만, 결국 답을 내리지 못하고, 모두가 로제타에게 주의를 기울이며 앞으로 나아간다."
+Japanese,"scene_cp13_q3_s20,1332",detail,,<span class='scene-font-katari'>物陰に[플레이어]を引き込み、</span><br><span class='scene-font-katari'>カタリナは声をひそめた。</span>,<span class = 'scene-font-katari'> 그늘에 [플레이어]를 끌어 당기며 </ span> <br> <span class = 'scene-font-katari'> 카타리나는 말을 찌푸렸다. </ span>
+Japanese,"scene_cp13_q3_s20,1332",detail,카타리나,[플레이어]……君は気づいたか？<br>ロゼッタのことなのだが……,[플레이어]……너 눈치챘니?로제타 말인데……
 Japanese,"scene_cp13_q3_s20,1332",detail,카타리나,最初、彼女に会ったとき、<br>彼女の足元には森の魔物が、<br>ひれ伏すように控えていた……,"처음 그녀를 만났을 때,<br>그녀의 발밑에는 숲속의 마물이<br>넙죽 엎드리듯이 기다리고 있었다……"
-Japanese,"scene_cp13_q3_s20,1332",detail,카타리나,無論、巧妙に隠れてはいたが……<br>[ジータ]はこれを<br>どういうことだと考える？,"물론, 교묘히 숨어있긴 했지만……<br>[지타]는 이것을<br>어떻게 생각해?"
+Japanese,"scene_cp13_q3_s20,1332",detail,카타리나,無論、巧妙に隠れてはいたが……<br>[플레이어]はこれを<br>どういうことだと考える？,"물론, 교묘히 숨어있긴 했지만……<br>[플레이어]는 이것을<br>어떻게 생각해?"
 Japanese,"scene_cp13_q3_s20,1332",sel1_txt,,<span class='scene-font-katari'>魔物に狙われてた</span>,<span class = 'scene-font-katari'> 마물에게 노려지고 있었다</ span>
 Japanese,"scene_cp13_q3_s20,1332",sel2_txt,,<span class='scene-font-katari'>魔物を惹きつけてた</span>,<span class = 'scene-font-katari'> 마물을 유도하고 있었다 </ span>
 Japanese,"scene_cp13_q3_s20,1332",detail,카타리나,それはそれで筋が通るな……<br>それに彼女からは確かに、<br>常人ならざるものを感じる……,"그것은 그것대로 말이 안되는군……<br>게다가 그녀에게서는 확실히,<br>보통사람과는 다른 것이 느껴진다……"
@@ -110,24 +110,24 @@ Japanese,"scene_cp13_q4_s10,1341",detail,루리아,その方向……<br>リヴ�
 Japanese,"scene_cp13_q4_s10,1341",detail,루리아,たぶん、あの黒騎士さんの連れてた、<br>女の子がいます……,"아마, 그 흑기사님이 데리고 온 <br> 여자가 있습니다……"
 Japanese,"scene_cp13_q4_s10,1341",detail,라캄,よろず屋に黒騎士か……<br>嫌な感じがするぜ、<br>何もなければいいけどな……,"만물상에 흑기사라……<br>싫은 느낌이 들어,<br>아무것도 없으면 좋겠는데……"
 Japanese,"scene_cp13_q4_s10,1341",detail,오이겐,あの黒騎士のことだ。<br>何もねぇってこたぁねぇだろうな。,그 흑기사 말이다.아무 것도 아닌 일로 오지 않겠지.
-Japanese,"scene_cp13_q4_s10,1341",detail,라캄,ちっ……<br>やっぱそうだよな……<br>[ジータ]！ 急ごうぜ！,쳇……<br>역시 그렇지……<br>[지타]! 서두르자구!
-Japanese,"scene_cp13_q4_s20,1342",synopsis,,どうして黒騎士がよろず屋に居るのか。そのことに不安を覚えた<span>[ジータ]</span>一行はよろず屋へと急ぐが、一同の行く手を巨大な魔物が阻む。,"왜 흑기사가 만물상과 함께일까? 불안감에 휩싸인 <span>[지타]</span> 일행은 만물상을 향해 서두르지만, 일행의 앞길을 거대한 마물이 가로막는다."
+Japanese,"scene_cp13_q4_s10,1341",detail,라캄,ちっ……<br>やっぱそうだよな……<br>[플레이어]！ 急ごうぜ！,쳇……<br>역시 그렇지……<br>[플레이어]! 서두르자구!
+Japanese,"scene_cp13_q4_s20,1342",synopsis,,どうして黒騎士がよろず屋に居るのか。そのことに不安を覚えた<span>[플레이어]</span>一行はよろず屋へと急ぐが、一同の行く手を巨大な魔物が阻む。,"왜 흑기사가 만물상과 함께일까? 불안감에 휩싸인 <span>[플레이어]</span> 일행은 만물상을 향해 서두르지만, 일행의 앞길을 거대한 마물이 가로막는다."
 Japanese,"scene_cp13_q4_s20,1342",detail,마물,<span class='scene-font-4'>グオオオオオ！！</span>,<span class='scene-font-4'>구오오오오！！</span>
 Japanese,"scene_cp13_q4_s20,1342",detail,라캄,もうよろず屋は目の前だってのに、<br>デケェのがお出ましか……！<br>相手にとって不足はねぇな！,"만물상은 눈앞인데,<br>커다란놈이 나왔잖아?!<br>상대로서 부족함은 없지!"
 Japanese,"scene_cp13_q4_s20,1342",detail,로제타,ふふ、勇ましいわね……<br>その顔、嫌いじゃないわ。,"후후, 용감하네……<br> 그 얼굴 싫지않아."
 Japanese,"scene_cp13_q4_s20,1342",detail,오이겐,いっくら勇ましくても、<br>顔だけじゃあ、意味はねぇさ。<br>実力がなくっちゃあな。,"아무리 용감해도,<br>얼굴만으로 해서는 의미가 없어.실력이없으면 안되겠지?"
 Japanese,"scene_cp13_q4_s20,1342",detail,로제타,ごもっともだわ。<br>さぁ、もっともっと見せて頂戴。<br>貴方達の実力を……ね。,"맞는 말이야.<br>자, 좀더 보여 줘.<br>당신들의 실력을……응?"
-Japanese,"scene_cp13_q4_s30,1343",synopsis,,<span>[ジータ]</span>一行はよろず屋へと乗り込むが、そこに黒騎士の姿はなく、謎の少女がひとりで黙々と食事をとっていた。,"<span>[지타]</span>일행은 만물상에 들어가지만, 거기에 흑기사의 모습은 없고, 수수께끼의 소녀가 혼자서 묵묵히 식사를 하고 있었다."
-Japanese,"scene_cp13_q4_s30,1343",detail,,<span class='scene-font-katari'>道を塞ぐ魔物を退けた[ジータ]達は</span><br><span class='scene-font-katari'>ひっそりと佇むよろず屋へと飛び込んだ。</span>,<span class='scene-font-katari>> 길을 가로막는 마물들을 물리친 [지타]들은 </span><br><span class='scene-font-katari> 조용히 서 있는 집으로 뛰어들었다.</span>
+Japanese,"scene_cp13_q4_s30,1343",synopsis,,<span>[플레이어]</span>一行はよろず屋へと乗り込むが、そこに黒騎士の姿はなく、謎の少女がひとりで黙々と食事をとっていた。,"<span>[플레이어]</span>일행은 만물상에 들어가지만, 거기에 흑기사의 모습은 없고, 수수께끼의 소녀가 혼자서 묵묵히 식사를 하고 있었다."
+Japanese,"scene_cp13_q4_s30,1343",detail,,<span class='scene-font-katari'>道を塞ぐ魔物を退けた[플레이어]達は</span><br><span class='scene-font-katari'>ひっそりと佇むよろず屋へと飛び込んだ。</span>,<span class='scene-font-katari>> 길을 가로막는 마물들을 물리친 [플레이어]들은 </span><br><span class='scene-font-katari> 조용히 서 있는 집으로 뛰어들었다.</span>
 Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,あ、いらっしゃ～い。,"아, 어서오세요."
-Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,……あれ？ なぁんだ、<br>[ジータ]さん達でしたか～！,"……어? 뭐야,<br>[지타]씨들이었어요?"
+Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,……あれ？ なぁんだ、<br>[플레이어]さん達でしたか～！,"……어? 뭐야,<br>[플레이어]씨들이었어요?"
 Japanese,"scene_cp13_q4_s30,1343",detail,라캄,え、あれ……シェロ！？<br>なんで<span class='scene-font-place'>ルーマシー群島</span>に居るんだ！？,어라……쉐로!?<br>왜<spanclass='scene-font-place>루마시 군도</span>에 있는거야!?
 Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,よろず屋ですから～<br>よろず屋あるところにシェロカルテあり<br>ここ重要ですよ～、試験に出ますよ～,"만물상이니까~<br>만물상이니까 세로카르테가 있지요<br>여기 중요해요~, 시험에 나와요~"
 Japanese,"scene_cp13_q4_s30,1343",detail,이오,なんかよくわかんないけど……<br>とりあえず大丈夫？<br>ヘンな黒い奴が来たりとか……,왠지 잘 모르겠지만....<br>일단 괜찮아?<br>이상한 검은 놈이 오거나........
 Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,特に変わったことはありませんよ～？<br>ちょっと大食いのお客さんがいて、<br>食材を切らしちゃったくらいで～,"별일 없는데요~?<br>좀 많이 먹는 손님이 있어서,<br>식재료가 다떨어진 정도?"
 Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,でも、たぶん、それももうすぐ……,"하지만, 아마, 그것도 곧……"
 Japanese,"scene_cp13_q4_s30,1343",detail,로제타,はぁい♪ シェロちゃん。<br>はいこれ、お待ちかねのもの。,"네~♪ 쉐로양.<br>네 이거, 기다리고 있는 것."
-Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,あ～、ロゼッタさん～<br>[ジータ]さん達に、<br>送ってもらったんですか～？,아~ 로제타님~ <br> [지타]님들한테 <br> 안내받으셨어요?
+Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,あ～、ロゼッタさん～<br>[플레이어]さん達に、<br>送ってもらったんですか～？,아~ 로제타님~ <br> [플레이어]님들한테 <br> 안내받으셨어요?
 Japanese,"scene_cp13_q4_s30,1343",detail,카타리나,ちょ、ちょっと待ってほしい……<br>えーっと……なんだ……,"잠깐, 잠깐 기다려줬으면 좋겠어……<br>어……뭐야……"
 Japanese,"scene_cp13_q4_s30,1343",detail,카타리나,ロゼッタとシェロカルテ殿は、<br>どういう関係なんだ？,로제타와 쉐로 카르테도노와 <br> 무슨 관계지?
 Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,どういう関係と言うと～<br>……ちょっと難しいですね～,어떤 관계라고 하면~<br>…좀 어렵네요～
@@ -139,9 +139,9 @@ Japanese,"scene_cp13_q4_s30,1343",detail,루리아,え……！？,에...!?
 Japanese,"scene_cp13_q4_s30,1343",detail,？？？,…………,…………
 Japanese,"scene_cp13_q4_s30,1343",detail,？？？,……おかわり。,……한 그릇 더 주시오.
 Japanese,"scene_cp13_q4_s30,1343",detail,셰로카르테,はいは～い。<br>少々お待ちくださいね～,네~ 네~<br>잠시만 기다려주세요～
-Japanese,"scene_cp13_q4_s30,1343",detail,,<span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>ついに謎の少女との再会を果たす。</span>,<span class='scene-font-katari'>[지타]일행은、</span><br><span class='scene-font-katari'>드디어 수수께끼의 소녀와 재회한다。</span>
+Japanese,"scene_cp13_q4_s30,1343",detail,,<span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>ついに謎の少女との再会を果たす。</span>,<span class='scene-font-katari'>[플레이어]일행은、</span><br><span class='scene-font-katari'>드디어 수수께끼의 소녀와 재회한다。</span>
 Japanese,"scene_cp13_q4_s30,1343",detail,,<span class='scene-font-katari'>しかし、その場に黒騎士の姿はなく、</span><br><span class='scene-font-katari'>奇妙な緊張感だけが漂っていた。</span>,<span class='scene-font-katari> 그러나 그 자리에 흑기사의 모습은 없었고 </span><br><span class='scene-font-katari>> 묘한 긴장감만이 감돌고 있었다.</span>
-English,"scene_cp13_q1_s10,1311",synopsis,,[Djeeta] and the crew arrive on the Lumacie Archipelago in pursuit of the Black Knight. Lyria's powers offer a clue to the location of both the Black Knight and her mysterious companion.
+English,"scene_cp13_q1_s10,1311",synopsis,,[플레이어] and the crew arrive on the Lumacie Archipelago in pursuit of the Black Knight. Lyria's powers offer a clue to the location of both the Black Knight and her mysterious companion.
 English,"scene_cp13_q1_s10,1311",detail,,"In pursuit of the Black Knight, the crew arrives on the Lumacie Archipelago."
 English,"scene_cp13_q1_s10,1311",detail,Io,So? Is there supposed to be something here?
 English,"scene_cp13_q1_s10,1311",detail,Lyria,Wow... These trees are huge! Maybe even bigger than an airship...
@@ -155,8 +155,8 @@ English,"scene_cp13_q1_s10,1311",detail,Vyrn,So how do we find her? We haven't g
 English,"scene_cp13_q1_s10,1311",detail,Lyria,"Oh! I think I might know, actually!"
 English,"scene_cp13_q1_s10,1311",detail,Lyria,My part of Leviathan's power is resonating with the part inside that young girl... She's deep within the forest.
 English,"scene_cp13_q1_s10,1311",detail,Katalina,"So if we find the girl, we'll find the Black Knight..."
-English,"scene_cp13_q1_s10,1311",detail,Vyrn,"All right, we've got our bearings! Let's move, [Djeeta]!"
-English,"scene_cp13_q1_s20,1312",synopsis,,"[Djeeta] and the crew move through the overgrown forest. Katalina claims to know little of Lumacie, but mentions the legend of a scarlet demon who lives there."
+English,"scene_cp13_q1_s10,1311",detail,Vyrn,"All right, we've got our bearings! Let's move, [플레이어]!"
+English,"scene_cp13_q1_s20,1312",synopsis,,"[플레이어] and the crew move through the overgrown forest. Katalina claims to know little of Lumacie, but mentions the legend of a scarlet demon who lives there."
 English,"scene_cp13_q1_s20,1312",detail,Katalina,Ugh... This forest certainly seems to have a lot of insects...
 English,"scene_cp13_q1_s20,1312",detail,Eugen,What'd you expect? This area is practically untamed.
 English,"scene_cp13_q1_s20,1312",detail,Rackam,"The whole archipelago is basically the great wild, and it's no travel destination for sure. I'd barely heard of this place before we came."
@@ -169,12 +169,12 @@ English,"scene_cp13_q1_s20,1312",detail,Katalina,But they say Lumacie has been f
 English,"scene_cp13_q1_s20,1312",detail,Rackam,Hold on a second! Have we been roped into a demon exorcism gig?
 English,"scene_cp13_q1_s20,1312",detail,Io,Humph... Not much different from what we've been doing!
 English,"scene_cp13_q1_s20,1312",detail,Io,Come on! There are monsters in this forest here we can practice on. Be sure to get them all!
-English,"scene_cp13_q2_s10,1321",synopsis,,"A mysterious woman named Rosetta appears before [Djeeta] and the crew. Though her intent is unknown, they allow her to accompany them since they share the same destination."
-English,"scene_cp13_q2_s10,1321",detail,,"A mysterious woman appears, catching [Djeeta] and the crew completely off guard."
+English,"scene_cp13_q2_s10,1321",synopsis,,"A mysterious woman named Rosetta appears before [플레이어] and the crew. Though her intent is unknown, they allow her to accompany them since they share the same destination."
+English,"scene_cp13_q2_s10,1321",detail,,"A mysterious woman appears, catching [플레이어] and the crew completely off guard."
 English,"scene_cp13_q2_s10,1321",detail,???,Why hello! Do you have a moment?
 English,"scene_cp13_q2_s10,1321",detail,Vyrn,Whoa! Who are you? And where did you come from?
 English,"scene_cp13_q2_s10,1321",detail,???,"No need to be frightened! I'm just a defenseless forest maiden, as you can plainly see."
-English,"scene_cp13_q2_s10,1321",detail,,"A mysterious woman appears, catching [Djeeta] and the crew completely off guard."
+English,"scene_cp13_q2_s10,1321",detail,,"A mysterious woman appears, catching [플레이어] and the crew completely off guard."
 English,"scene_cp13_q2_s10,1321",detail,???,Why hello! Do you have a moment?
 English,"scene_cp13_q2_s10,1321",detail,Vyrn,Whoa! Who are you? And where did you come from?
 English,"scene_cp13_q2_s10,1321",detail,???,"No need to be frightened! I'm just a defenseless forest maiden, as you can plainly see."
@@ -182,7 +182,7 @@ English,"scene_cp13_q2_s10,1321",detail,Eugen,"For being defenseless, you've don
 English,"scene_cp13_q2_s10,1321",detail,???,"Oh, you are <span class='scene-font-italic'>deliciously</span> sharp! I think I like you already..."
 English,"scene_cp13_q2_s10,1321",detail,Eugen,"Hate to break it to ya, but I'm a little too old for your sweet talk."
 English,"scene_cp13_q2_s10,1321",detail,???,"Ah, what a shame... But that makes you all the more appealing! Why, I could just gobble you right up..."
-English,"scene_cp13_q2_s10,1321",detail,Lyria,"What should we do, [Djeeta]? Eugen's going to be eaten!"
+English,"scene_cp13_q2_s10,1321",detail,Lyria,"What should we do, [플레이어]? Eugen's going to be eaten!"
 English,"scene_cp13_q2_s10,1321",detail,Rosetta,"My name is Rosetta, and I'm here on a teensy-tiny errand of sorts."
 English,"scene_cp13_q2_s10,1321",detail,Rosetta,"But this forest is quite dangerous, you see. I was hoping it might be possible to place myself in your care..."
 English,"scene_cp13_q2_s10,1321",detail,Katalina,"As much as we'd love to play bodyguard, we're in quite the hurry. I'm afraid we don't have time for detours."
@@ -192,8 +192,8 @@ English,"scene_cp13_q2_s10,1321",detail,Rosetta,"My dear lizard, would you like 
 English,"scene_cp13_q2_s10,1321",detail,Rosetta,Charming women like myself conceal a great many mysteries...
 English,"scene_cp13_q2_s10,1321",detail,Rosetta,Now shall we depart? You don't have time to waste. Trust me... I know.
 English,"scene_cp13_q2_s20,1322",synopsis,,"Rosetta's knowledge of Lyria's secret sets the crew on edge. Before they can press her for more answers, monsters begin to attack."
-English,"scene_cp13_q2_s20,1322",detail,Rosetta,Hm... So you're [Djeeta]? Fascinating...
-English,"scene_cp13_q2_s20,1322",detail,Lyria,"What's with this lady? She keeps staring at you, [Djeeta]..."
+English,"scene_cp13_q2_s20,1322",detail,Rosetta,Hm... So you're [플레이어]? Fascinating...
+English,"scene_cp13_q2_s20,1322",detail,Lyria,"What's with this lady? She keeps staring at you, [플레이어]..."
 English,"scene_cp13_q2_s20,1322",detail,Rosetta,"And you must be Lyria, yes? Cute as a button, just as I thought you'd be!"
 English,"scene_cp13_q2_s20,1322",detail,Lyria,Huh? Oh... Thanks! I guess...
 English,"scene_cp13_q2_s20,1322",detail,Rosetta,Look at you... As fresh and innocent as the morning dew.
@@ -210,8 +210,8 @@ English,"scene_cp13_q2_s20,1322",detail,Rosetta,"Ah, who can say? I'm sure you'l
 English,"scene_cp13_q2_s20,1322",detail,Monster,Grrr...
 English,"scene_cp13_q2_s20,1322",detail,Rosetta,"For now, however, it looks like you'll need to give these monsters your undivided attention!"
 English,"scene_cp13_q3_s10,1331",synopsis,,"Katalina's question about Rosetta's errand is met with a mischievous smile from the mysterious maiden. Without revealing her purpose, Rosetta continues deeper into the forest with the crew."
-English,"scene_cp13_q3_s10,1331",detail,Rosetta,"[Djeeta]! You're much more skilled than you appear, I see. I think I'll stick close to you!"
-English,"scene_cp13_q3_s10,1331",detail,Lyria,No! I stick close to [Djeeta]! You stay away!
+English,"scene_cp13_q3_s10,1331",detail,Rosetta,"[플레이어]! You're much more skilled than you appear, I see. I think I'll stick close to you!"
+English,"scene_cp13_q3_s10,1331",detail,Lyria,No! I stick close to [플레이어]! You stay away!
 English,"scene_cp13_q3_s10,1331",detail,Rosetta,"Now, now, is somebody jealous? How utterly adorable."
 English,"scene_cp13_q3_s10,1331",detail,Lyria,Humph...
 English,"scene_cp13_q3_s10,1331",detail,Io,"Come on... If you don't quit it, you're both gonna get left behind!"
@@ -227,9 +227,9 @@ English,"scene_cp13_q3_s10,1331",detail,Katalina,Well then?
 English,"scene_cp13_q3_s10,1331",detail,Rosetta,"No, no! I cannot say. Do I need to repeat myself? A woman must have her mysteries!"
 English,"scene_cp13_q3_s10,1331",detail,Rackam,What's the hold up back here? Io and the others are about to leave you two behind!
 English,"scene_cp13_q3_s10,1331",detail,Rosetta,"Now then, shall we go? We wouldn't want to get lost in a place like this!"
-English,"scene_cp13_q3_s20,1332",synopsis,,"Katalina talks privately with [Djeeta] about Rosetta's mysterious behavior. Still unsure of her motive, they decide to proceed with caution."
-English,"scene_cp13_q3_s20,1332",detail,,Katalina motions for [Djeeta] to come near and begins to speak in a hushed voice.
-English,"scene_cp13_q3_s20,1332",detail,Katalina,"[Djeeta], did you see what I saw? About Rosetta..."
+English,"scene_cp13_q3_s20,1332",synopsis,,"Katalina talks privately with [플레이어] about Rosetta's mysterious behavior. Still unsure of her motive, they decide to proceed with caution."
+English,"scene_cp13_q3_s20,1332",detail,,Katalina motions for [플레이어] to come near and begins to speak in a hushed voice.
+English,"scene_cp13_q3_s20,1332",detail,Katalina,"[플레이어], did you see what I saw? About Rosetta..."
 English,"scene_cp13_q3_s20,1332",detail,Katalina,"When we first met, the monsters kept their distance from her. As if bowing at her feet..."
 English,"scene_cp13_q3_s20,1332",detail,Katalina,"On top of that, she hid herself cleverly enough to surprise us. So what's your take on all this?"
 English,"scene_cp13_q3_s20,1332",sel1_txt,,The monsters were crouching to attack her!
@@ -237,7 +237,7 @@ English,"scene_cp13_q3_s20,1332",sel2_txt,,"Well, she <span class='scene-font-it
 English,"scene_cp13_q3_s20,1332",detail,Katalina,I suppose that makes sense... I still get the feeling there's something not right about her though.
 English,"scene_cp13_q3_s20,1332",detail,Katalina,"But if that's true, then who is she? And what does she want?"
 English,"scene_cp13_q3_s20,1332",detail,Katalina,"I guess you're as clueless as I am... Whatever the case, I think it's wise to keep an eye on her going forward."
-English,"scene_cp13_q4_s10,1341",synopsis,,"Deep in the forest, Rackam sees a sign for the Knickknack Shack. Lyria's powers indicate that the Black Knight may be in the same direction, so [Djeeta] and the others set off down the path."
+English,"scene_cp13_q4_s10,1341",synopsis,,"Deep in the forest, Rackam sees a sign for the Knickknack Shack. Lyria's powers indicate that the Black Knight may be in the same direction, so [플레이어] and the others set off down the path."
 English,"scene_cp13_q4_s10,1341",detail,Rackam,Hm? What's that over there?
 English,"scene_cp13_q4_s10,1341",detail,Io,What's the matter? You see something?
 English,"scene_cp13_q4_s10,1341",detail,Rackam,If my eyes aren't playing tricks on me... it's a sign for the Knickknack Shack.
@@ -252,24 +252,24 @@ English,"scene_cp13_q4_s10,1341",detail,Lyria,Over there? I can feel Leviathan r
 English,"scene_cp13_q4_s10,1341",detail,Lyria,The Black Knight and the girl she was travelling with might be over there...
 English,"scene_cp13_q4_s10,1341",detail,Rackam,The Black Knight paying Siero a visit? That sounds like bad news. Hopefully it's nothing.
 English,"scene_cp13_q4_s10,1341",detail,Eugen,This is the Black Knight we're talking about. It's not gonna be nothing.
-English,"scene_cp13_q4_s10,1341",detail,Rackam,"Tch... You're right. Let's go, [Djeeta]! Onward!"
-English,"scene_cp13_q4_s20,1342",synopsis,,[Djeeta] and the others rush to the Knickknack Shack where a giant monster has suddenly appeared.
+English,"scene_cp13_q4_s10,1341",detail,Rackam,"Tch... You're right. Let's go, [플레이어]! Onward!"
+English,"scene_cp13_q4_s20,1342",synopsis,,[플레이어] and the others rush to the Knickknack Shack where a giant monster has suddenly appeared.
 English,"scene_cp13_q4_s20,1342",detail,Monster,Groooar!
 English,"scene_cp13_q4_s20,1342",detail,Rackam,What's a huge monster like that doing in front of the shop? Looks like this one's no joke!
 English,"scene_cp13_q4_s20,1342",detail,Rosetta,"Oh, how gallant! I must say, I'm quite the fan of this side of you, Rackam."
 English,"scene_cp13_q4_s20,1342",detail,Eugen,It doesn't matter how gallant you are if you don't have the strength to pull through when it counts!
 English,"scene_cp13_q4_s20,1342",detail,Rosetta,"So true, so true. I'd love to see more though... More of that strength of yours!"
-English,"scene_cp13_q4_s30,1343",synopsis,,"[Djeeta] and the others arrive at the Knickknack Shack to find the mysterious girl from before quietly eating alone. However, the Black Knight is nowhere to be found."
-English,"scene_cp13_q4_s30,1343",detail,,"After defeating the monster, [Djeeta] and the others hurry toward the Knickknack Shack."
+English,"scene_cp13_q4_s30,1343",synopsis,,"[플레이어] and the others arrive at the Knickknack Shack to find the mysterious girl from before quietly eating alone. However, the Black Knight is nowhere to be found."
+English,"scene_cp13_q4_s30,1343",detail,,"After defeating the monster, [플레이어] and the others hurry toward the Knickknack Shack."
 English,"scene_cp13_q4_s30,1343",detail,Sierokarte,"Welcome, welcome!"
-English,"scene_cp13_q4_s30,1343",detail,Sierokarte,"Hm? Well, if it isn't [Djeeta] and the crew!"
+English,"scene_cp13_q4_s30,1343",detail,Sierokarte,"Hm? Well, if it isn't [플레이어] and the crew!"
 English,"scene_cp13_q4_s30,1343",detail,Rackam,Wait... Siero? What're you doing on Lumacie!
 English,"scene_cp13_q4_s30,1343",detail,Sierokarte,"Because wherever you go, the Knickknack Shack always has your back! You might wanna jot that down!"
 English,"scene_cp13_q4_s30,1343",detail,Io,"Weird jokes aside, are you okay? You didn't see any strange folks in black come by, did you?"
 English,"scene_cp13_q4_s30,1343",detail,Sierokarte,"I wouldn't call her strange, but a customer's come by who's practically eaten me out of house and home!"
 English,"scene_cp13_q4_s30,1343",detail,Sierokarte,But she'll probably get her fill any minute now—
 English,"scene_cp13_q4_s30,1343",detail,Rosetta,"Here you go, Siero! You were waiting for this, right?"
-English,"scene_cp13_q4_s30,1343",detail,Sierokarte,Oh my! Rosetta! Did [Djeeta]'s crew escort you here?
+English,"scene_cp13_q4_s30,1343",detail,Sierokarte,Oh my! Rosetta! Did [플레이어]'s crew escort you here?
 English,"scene_cp13_q4_s30,1343",detail,Katalina,"W-wait just a minute! I mean, what's going on here?"
 English,"scene_cp13_q4_s30,1343",detail,Katalina,"Sierokarte and Rosetta know each other, but how exactly?"
 English,"scene_cp13_q4_s30,1343",detail,Sierokarte,When you put it that way... that's a real toughie of a question!
@@ -281,5 +281,5 @@ English,"scene_cp13_q4_s30,1343",detail,Lyria,Huh?
 English,"scene_cp13_q4_s30,1343",detail,???,...
 English,"scene_cp13_q4_s30,1343",detail,???,"Seconds, please..."
 English,"scene_cp13_q4_s30,1343",detail,Sierokarte,"Oh, certainly! I'll be back in two shakes of a lamb's tail!"
-English,"scene_cp13_q4_s30,1343",detail,,[Djeeta] and the crew cross paths with the mysterious girl once more.
+English,"scene_cp13_q4_s30,1343",detail,,[플레이어] and the crew cross paths with the mysterious girl once more.
 English,"scene_cp13_q4_s30,1343",detail,,"But with the Black Knight nowhere to be found, a sense of unease settles over them."

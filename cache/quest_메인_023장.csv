@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp23_q1_s10,2311",synopsis,,村をセレストから解放することを決めたフェリだが、それはフェリを含めた島の住人達が消えることも意味していた。悲しむルリアを、フェリは自然な形に戻るだけだと諭す。一行はこの事を村へ報告する前に、まずはセレストとの接触を試みる。,"마을을 셀레스트에서 해방시키기로 결정한 펠리인데, 그것은 펠리를 포함한 섬의 주민들이 사라진다는 것을 의미했다.슬퍼하는 루리아를 페리는 자연스러운 형태로 돌아갈 뿐이라고 타이른다.이들은 이 사실을 마을에 알리기 전에 셀레스트와 먼저 접촉을 시도한다."
-Japanese,"scene_cp23_q1_s10,2311",detail,,<span class='scene-font-katari'>星晶獣セレストから村を解放する。</span><br><span class='scene-font-katari'>新たな自分となることで下せた決断を</span><br><span class='scene-font-katari'>少女は[ジータ]一行に告げた。</span>,<span class='scene-font-katari> 성정수 셀레스트로부터 마을을 해방시킨다.</span><br><span class='scene-font-katari> 새로운 자신이 됨으로써 내린 결단을 </span><br><span class='scene-font-katari><span><span><span><span class='sclass='sclass='scene-fone-katari>
+Japanese,"scene_cp23_q1_s10,2311",detail,,<span class='scene-font-katari'>星晶獣セレストから村を解放する。</span><br><span class='scene-font-katari'>新たな自分となることで下せた決断を</span><br><span class='scene-font-katari'>少女は[플레이어]一行に告げた。</span>,<span class='scene-font-katari> 성정수 셀레스트로부터 마을을 해방시킨다.</span><br><span class='scene-font-katari> 새로운 자신이 됨으로써 내린 결단을 </span><br><span class='scene-font-katari><span><span><span><span class='sclass='sclass='scene-fone-katari>
 Japanese,"scene_cp23_q1_s10,2311",detail,카타리나,それはつまり……<br>セレストをこの島から<br>引き離すということか……？,그것은 즉...<br>셀레스트(celest)를 이 섬에서<br> 떼어놓는다는 것인가...?
 Japanese,"scene_cp23_q1_s10,2311",detail,フェリ,理屈はわからないけど、<br>引き寄せることが出来たからな。<br>引き離すことも不可能じゃないだろ。,"이치는 모르겠지만,<br>끌어당길 수 있었으니까.떼어놓는 것도 불가능하진 않잖아."
 Japanese,"scene_cp23_q1_s10,2311",detail,이오,で、でもそんなことしたら、<br>フェリや村の人達は……,"그런데, 그래도 그렇게 하면,<br>페리나 마을 사람들은……"
@@ -8,7 +8,7 @@ Japanese,"scene_cp23_q1_s10,2311",detail,フェリ,消えることになるだ�
 Japanese,"scene_cp23_q1_s10,2311",detail,루리아,そんな……せっかく仲良くなれたのに。,그런...모처럼 친해질 수 있었는데.
 Japanese,"scene_cp23_q1_s10,2311",detail,フェリ,いまが不自然な状態なんだ……<br>それが自然な形に戻るだけだ。,지금이 부자연스러운 상태야……<br>그것이 자연스러운 형태로 돌아올 뿐이다.
 Japanese,"scene_cp23_q1_s10,2311",detail,フェリ,それに……<br>ルリアは星晶獣の力を<br>吸収してくれるんだろ？,게다가……<br>루리아는 성정수의 힘을<br>흡수해주지?
-Japanese,"scene_cp23_q1_s10,2311",detail,フェリ,どんな形であれ、<br>[ジータ]達の旅に<br>協力できるなら本望だ。,어떤 형태로든 <br>[지타]들의 여행에 <br> 협력할 수 있다면 정말 다행이다.
+Japanese,"scene_cp23_q1_s10,2311",detail,フェリ,どんな形であれ、<br>[플레이어]達の旅に<br>協力できるなら本望だ。,어떤 형태로든 <br>[플레이어]들의 여행에 <br> 협력할 수 있다면 정말 다행이다.
 Japanese,"scene_cp23_q1_s10,2311",detail,로제타,とはいえ……<br>いきなりいまの状態を終わらせるのは、<br>ちょっと不親切なんじゃない？,"그렇다고는 해도……<br>갑자기 지금의 상태를 끝내는 것은,<br>좀 불친절하지 않아?"
 Japanese,"scene_cp23_q1_s10,2311",detail,로제타,せっかく新しい名前になったんだし、<br>告知も兼ねて、<br>村の人達に挨拶に行って来たら？,모처럼 새이름이 되었는데 <br> 공지도 할겸 <br>마을사람들에게 인사도 다녀오지 그래?
 Japanese,"scene_cp23_q1_s10,2311",detail,루리아,ですね！<br>村の人達もフェリちゃんのことを<br>心配してましたし！,그쵸! 마을사람들도 페리를 걱정했구요!
@@ -19,8 +19,8 @@ Japanese,"scene_cp23_q1_s10,2311",detail,비이,決まりだな！<br>それじ�
 Japanese,"scene_cp23_q1_s10,2311",detail,비이,って、そういや、<br>あの二人組はどこ行ったんだ？<br>姿が見えねぇけど……,그건 그렇고..<br> 그 2인조는 어디간거야?<br>모습이 보이지 않지만……
 Japanese,"scene_cp23_q1_s10,2311",detail,카타리나,彼らには彼らの思惑が<br>あるようだったし、<br>気にすることはないだろう。,"그들에게는 그들의 의도가<br>있는 것 같았고,<br>신경쓸 필요는 없을 것이다."
 Japanese,"scene_cp23_q1_s10,2311",detail,카타리나,そんなことより、<br>フェリが味方になったとはいえ、<br>襲ってくる魔物はごまんといる……,"그런것보다,<br>페리가 자기편이 되었다고는 해도,<br> 덮쳐오는 마물은 얼버무리고 있어……"
-Japanese,"scene_cp23_q1_s10,2311",detail,카타리나,十分用心して進もう。<br>いくぞ！ [ジータ]！,십분 조심해서 나가자.<br>가즈아! [지타]
-Japanese,"scene_cp23_q1_s20,2312",synopsis,,セレストが最初に現れたという場所を訪れる<span>[ジータ]</span>一行。フェリはセレストを呼び寄せた時と同じように祈りを捧げるが、いっこうに現れる気配はない。戸惑う一行に、セレストとは関わりのない魔物が襲い掛かる。,셀레스트가 처음 나타났다는 곳을 찾아가는 <span> [지타] </span> 한 줄.페리는 셀레스트들을 불러들였을 때와 마찬가지로 기도를 올리지만 좀처럼 나타날 기미가 보이지 않는다.당황한 일행에게 셀레스트와는 상관없는 마물이 덮친다.
+Japanese,"scene_cp23_q1_s10,2311",detail,카타리나,十分用心して進もう。<br>いくぞ！ [플레이어]！,십분 조심해서 나가자.<br>가즈아! [플레이어]
+Japanese,"scene_cp23_q1_s20,2312",synopsis,,セレストが最初に現れたという場所を訪れる<span>[플레이어]</span>一行。フェリはセレストを呼び寄せた時と同じように祈りを捧げるが、いっこうに現れる気配はない。戸惑う一行に、セレストとは関わりのない魔物が襲い掛かる。,셀레스트가 처음 나타났다는 곳을 찾아가는 <span> [플레이어] </span> 한 줄.페리는 셀레스트들을 불러들였을 때와 마찬가지로 기도를 올리지만 좀처럼 나타날 기미가 보이지 않는다.당황한 일행에게 셀레스트와는 상관없는 마물이 덮친다.
 Japanese,"scene_cp23_q1_s20,2312",detail,비이,ここがセレストを<br>呼び寄せた場所なのか？,여기가 셀레스트들을 <br> 불러들이던 곳인가?
 Japanese,"scene_cp23_q1_s20,2312",detail,フェリ,そうだ……<br>ここで祈っていたら突然、<br>霧の中からセレストが現れた。,"그렇다……<br>여기서 기도하고 있는데 돌연,<br>안개 속에서 셀레스트가 나타났다."
 Japanese,"scene_cp23_q1_s20,2312",detail,비이,そんなら、<br>ここでフェリが祈ってりゃ、<br>また現れるかもってわけなんだな！,그렇다면 여기서 페리가 기도하면 다시 나타날 수도 있다는 말이네!
@@ -32,7 +32,7 @@ Japanese,"scene_cp23_q1_s20,2312",detail,로제타,あら？<br>でも何か近�
 Japanese,"scene_cp23_q1_s20,2312",detail,마물,グオォォォッ！！,응오옷!!
 Japanese,"scene_cp23_q1_s20,2312",detail,이오,思いっきり普通の魔物じゃない！<br>まさかこいつが<br>セレストってことはないわよね？,거침없이 평범한 마물이 아니야!<br>설마 얘가<br>셀레스트인건 아니겠지?
 Japanese,"scene_cp23_q1_s20,2312",detail,フェリ,どうして……<br>前はここで祈っていれば確かに……,어째서……<br>전에는 여기서 기도하고 있으면 확실히……
-Japanese,"scene_cp23_q1_s20,2312",detail,카타리나,ともかく呼んでしまった以上、<br>ここは応戦しよう！<br>やるぞ！ [ジータ]！,"어쨌든 불러버린 이상,<br>여기는 응전하자!<br>한다! [지타]"
+Japanese,"scene_cp23_q1_s20,2312",detail,카타리나,ともかく呼んでしまった以上、<br>ここは応戦しよう！<br>やるぞ！ [플레이어]！,"어쨌든 불러버린 이상,<br>여기는 응전하자!<br>한다! [플레이어]"
 Japanese,"scene_cp23_q2_s10,2321",synopsis,,セレストを呼び寄せるためには、何か別の条件があるのかもしれない。そう判断した一行は、情報を得るために村の住民の元へと向かう。,"셀레스트(selest)를 불러들이기 위해서는, 무엇인가 다른 조건이 있을지도 모른다.그렇게 판단한 일행은 정보를 얻기 위해 마을 주민에게 향한다."
 Japanese,"scene_cp23_q2_s10,2321",detail,フェリ,何が足りない……？<br>場所も条件も、<br>あの時と同じはずなのに……,뭐가 부족해……?장소도 조건도 그때와 같을텐데……
 Japanese,"scene_cp23_q2_s10,2321",detail,로제타,星晶獣には未知の部分が多いもの……<br>フェリちゃんの知らない、<br>別の条件があるのかもしれないわ。,"성정수에게는 미지의 부분이 많은 것……<br>페리가 모르는,<br>다른 조건이 있는지도 몰라."
@@ -40,7 +40,7 @@ Japanese,"scene_cp23_q2_s10,2321",detail,카타리나,となれば必要なの�
 Japanese,"scene_cp23_q2_s10,2321",detail,루리아,村の人達に聞きに行きましょう！<br>何か思い当たる人が、<br>いるかもしれません。,"마을 사람들한테 물어보러 갑시다!<br>뭔가 짐작가는 사람이,<br>일지도 모릅니다."
 Japanese,"scene_cp23_q2_s10,2321",detail,비이,元々、村には寄る予定だったしな！<br>さっそく行ってみようぜ！,원래 마을에는 들릴 예정이었으니까! 바로 가보자구!
 Japanese,"scene_cp23_q2_s20,2322",synopsis,,村の住人達に温かく迎えられるフェリ。一行が事情を説明し情報を集めると、星晶獣セレストが現れる少し前に流行り病があったこと、ちょうどその頃に旅の医者が村に居たが、いまは見かけない、ということを知らされる。,"마을 주민들의 따뜻한 환영을 받는 페리. 일행이 사정을 설명하고 정보를 모으면 성정수 셀레스트가 나타나기 얼마 전에 유행병이 있었다는 것, 바로 그 무렵에 여행 의사가 마을에 있었지만 지금은 보이지 않는다는 것을 알게 된다."
-Japanese,"scene_cp23_q2_s20,2322",detail,,<span class='scene-font-katari'>村に着いた[ジータ]一行は、</span><br><span class='scene-font-katari'>村人達にフェリが固めた決意を伝えた。</span>,<span class='scene-font-katari> 마을에 도착한 [지타] 일행은 </span><br><span class='scene-font-katari> 마을 사람들에게 패리가 다져진 결의를 전하였다.</span>
+Japanese,"scene_cp23_q2_s20,2322",detail,,<span class='scene-font-katari'>村に着いた[플레이어]一行は、</span><br><span class='scene-font-katari'>村人達にフェリが固めた決意を伝えた。</span>,<span class='scene-font-katari> 마을에 도착한 [플레이어] 일행은 </span><br><span class='scene-font-katari> 마을 사람들에게 패리가 다져진 결의를 전하였다.</span>
 Japanese,"scene_cp23_q2_s20,2322",detail,村人１,そうかそうか……<br>いや、しかし立派なもんだ！<br>よく決断したな！ フェリちゃん！,"그런가……<br>아니, 그러나 훌륭하다!잘 결단했구나! 페리짱!"
 Japanese,"scene_cp23_q2_s20,2322",detail,村人２,この生活ももう終わるんですね……<br>振り返れば長かったような、<br>短かったような……,"이 생활도 이제 끝나네요...<br>되돌아보면 길었던 것 같은,<br>짧았던 것 같은..."
 Japanese,"scene_cp23_q2_s20,2322",detail,村人３,フェリちゃん……<br>ずーっと館にひとりきりで、<br>寂しくなかった？,"페리군……<br>계속 관에 혼자 있고,<br>외롭지 않았어?"
@@ -50,7 +50,7 @@ Japanese,"scene_cp23_q2_s20,2322",detail,フェリ,は、はい……！！,"하
 Japanese,"scene_cp23_q2_s20,2322",detail,村人３,うん。<br>いいお返事ね、フェリちゃん。,응 <br> 좋은 답변이야 패리
 Japanese,"scene_cp23_q2_s20,2322",detail,루리아,ふふふ……フェリちゃん、<br>緊張してるけど、嬉しそうです！,"후후후……페리양,<br>긴장되지만, 기뻐보여요!"
 Japanese,"scene_cp23_q2_s20,2322",detail,카타리나,そうだな……<br>とりあえずここは、<br>一件落着といったところか。,"글쎄……<br>일단 여긴,<br>일건 낙착이라고나 할까."
-Japanese,"scene_cp23_q2_s20,2322",detail,,<span class='scene-font-katari'>[ジータ]一行は事情を説明し、</span><br><span class='scene-font-katari'>星晶獣セレストが現れた時に、</span><br><span class='scene-font-katari'>何か異変がなかったか情報を募った。</span>,<span class='scene-font-katari'>[지타] 일행은 사정을 설명하며 </span><br><span class='scene-font-katari>별 정수 셀레스트가 나타났을 때 </span><br><span class><spane-fon><span class>font-katari><span class><spane-katari가 나타난 후 별 정수 셀레스트가 나타났다.
+Japanese,"scene_cp23_q2_s20,2322",detail,,<span class='scene-font-katari'>[플레이어]一行は事情を説明し、</span><br><span class='scene-font-katari'>星晶獣セレストが現れた時に、</span><br><span class='scene-font-katari'>何か異変がなかったか情報を募った。</span>,<span class='scene-font-katari'>[플레이어] 일행은 사정을 설명하며 </span><br><span class='scene-font-katari>별 정수 셀레스트가 나타났을 때 </span><br><span class><spane-fon><span class>font-katari><span class><spane-katari가 나타난 후 별 정수 셀레스트가 나타났다.
 Japanese,"scene_cp23_q2_s20,2322",detail,村人１,変わったことねぇ……<br>特になかったように思うが……,별일 없어....<br>특별히 없었던 것 같은데....
 Japanese,"scene_cp23_q2_s20,2322",detail,村人３,そうねぇ……そういえば、<br>あの星晶獣が現れた頃だったかしら？<br>村に病気が流行し始めたのって……,글쎄…… 그러고 보니 <br> 저 성정수가 나타났을 무렵이었나?마을에 병이 유행하기 시작했냐고.....
 Japanese,"scene_cp23_q2_s20,2322",detail,村人２,いや、流行り病は、<br>星晶獣が現れる少し前から、<br>猛威を振るってましたね……,"아니, 유행병은 <br> 성정수가 나타나기 조금 전부터 <br> 맹위를 떨치고 있었어요……"
@@ -61,7 +61,7 @@ Japanese,"scene_cp23_q2_s20,2322",detail,村人１,ん……？<br>そういや�
 Japanese,"scene_cp23_q2_s20,2322",detail,村人３,自分の騎空艇で、<br>島を離れたんじゃないかしら？<br>旅の途中だったみたいだし……,내 기공정으로 <br>섬을 떠난건 아닐까?<br>여행의 도중이었던것 같고……
 Japanese,"scene_cp23_q2_s20,2322",detail,村人２,ゾンビであれ、幽霊であれ、<br>姿を見ないってことは<br>もう島には居ないんでしょうね。,"좀비든, 유령이든,<br>모습을 안보는건<br>이제 섬에는 없는거겠죠?"
 Japanese,"scene_cp23_q2_s20,2322",detail,로제타,島から姿を消した、ねぇ……,"섬에서 자취를 감췄다, 야……"
-Japanese,"scene_cp23_q2_s20,2322",detail,비이,おっと、魔物だ！<br>やるぞ！ [ジータ]！,"이런, 마물이다!<br> 한다! [지타]"
+Japanese,"scene_cp23_q2_s20,2322",detail,비이,おっと、魔物だ！<br>やるぞ！ [플레이어]！,"이런, 마물이다!<br> 한다! [플레이어]"
 Japanese,"scene_cp23_q2_s20,2322",detail,비이,ようやくフェリが<br>村の人と打ち解けたってのに<br>邪魔させてたまるかってんだ！,드디어 페리가 마을사람과 친해졌는데 방해해서야 되겠냐구!
 Japanese,"scene_cp23_q3_s10,2331",synopsis,,集まった情報は、当時流行り病があったこと、その時、旅の医者が村に居たことの二つだけだった。星晶獣との関係は見出せないが、何かヒントがあるかもしれない、と一行は医者の当時の住居へと向かう。,"모인 정보는 당시 유행병이 있었다는 것, 그때 여행 의사가 마을에 있었다는 것 두 가지뿐이었다.성정수와의 관계는 찾을 수 없지만 뭔가 힌트가 있을지도 모른다며 일행은 당시 의사의 거처로 향한다."
 Japanese,"scene_cp23_q3_s10,2331",detail,비이,村の奴らに聞いた話を<br>まとめると……だ。,마을의 녀석들에게 들은 이야기를<br>정리하면……이다.
@@ -71,15 +71,15 @@ Japanese,"scene_cp23_q3_s10,2331",detail,루리아,うーん……<br>私にも�
 Japanese,"scene_cp23_q3_s10,2331",detail,フェリ,その医者には、<br>あの流行り病を治療することは、<br>出来なかったんだな……,"그 의사에게는,<br>그 유행병을 치료하는것은,<br>할수없었구나……"
 Japanese,"scene_cp23_q3_s10,2331",detail,로제타,医者だって万能じゃないわ……<br>でも、アタシ達に<br>ヒントくらい残してくれてるかもね。,"의사도 만능은 아니야……<br>그래도, 우리들에게<br>힌트 정도 남겨주고 있을지도 몰라."
 Japanese,"scene_cp23_q3_s10,2331",detail,이오,村の人達の話だと、<br>村の墓地の近くに、<br>お医者様は住んでたのよね……,"마을 사람들의 이야기에 의하면,<br>마을 묘지 근처에 <br>의사선생님은 살고 계셨어……"
-Japanese,"scene_cp23_q3_s10,2331",detail,이오,何か残ってるかもしれないし、<br>行ってみましょ！ [ジータ]！,뭐가 남아있을 수도 있으니까 <br> 가봅시다! [지타]
-Japanese,"scene_cp23_q3_s20,2332",synopsis,,旅の医者の住居で魔法陣を見つけ、困惑する<span>[ジータ]</span>一行。そこへ突如現れたドランクは、そもそもフェリがセレストを呼び寄せたという前提が間違っている、と語る。,"여행 의사의 주거에서 마법진을 발견하고 당황하는 <span> [지타] </span> 한 줄.거기에 불쑥 나타난 드렁크는, 애초에 페리가 셀레스트를 불러들였다는 전제가 틀렸다, 라고 말한다."
-Japanese,"scene_cp23_q3_s20,2332",detail,,<span class='scene-font-katari'>村の墓地までやってきた</span><br><span class='scene-font-katari'>[ジータ]一行を、</span><br><span class='scene-font-katari'>思わぬものが出迎えた。</span>,<span class = 'scene-font-katari'> 마을의 묘지까지 온 </ span> <br> <span class = 'scene-font-katari'> [지타] 일행을 </ span> <br> <span class = 'scene-font-katari'> 뜻밖의 것이 마중했다. </ span>
+Japanese,"scene_cp23_q3_s10,2331",detail,이오,何か残ってるかもしれないし、<br>行ってみましょ！ [플레이어]！,뭐가 남아있을 수도 있으니까 <br> 가봅시다! [플레이어]
+Japanese,"scene_cp23_q3_s20,2332",synopsis,,旅の医者の住居で魔法陣を見つけ、困惑する<span>[플레이어]</span>一行。そこへ突如現れたドランクは、そもそもフェリがセレストを呼び寄せたという前提が間違っている、と語る。,"여행 의사의 주거에서 마법진을 발견하고 당황하는 <span> [플레이어] </span> 한 줄.거기에 불쑥 나타난 드렁크는, 애초에 페리가 셀레스트를 불러들였다는 전제가 틀렸다, 라고 말한다."
+Japanese,"scene_cp23_q3_s20,2332",detail,,<span class='scene-font-katari'>村の墓地までやってきた</span><br><span class='scene-font-katari'>[플레이어]一行を、</span><br><span class='scene-font-katari'>思わぬものが出迎えた。</span>,<span class = 'scene-font-katari'> 마을의 묘지까지 온 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행을 </ span> <br> <span class = 'scene-font-katari'> 뜻밖의 것이 마중했다. </ span>
 Japanese,"scene_cp23_q3_s20,2332",detail,카타리나,これは……<br>魔法陣か……？,이건……<br>마법진인가……?
 Japanese,"scene_cp23_q3_s20,2332",detail,이오,どういうことなの？<br>旅のお医者様はお医者様じゃなく、<br>魔導士だったってこと？,무슨 말이야?<br>여행의 의사는 의사가 아니라 <br>마도사였다는 거야?
 Japanese,"scene_cp23_q3_s20,2332",detail,드랑크,ん～、惜しいなぁ！<br>こいつは医者であり、<br>かつ魔導士でもあったみたいだねぇ～,"음~, 아쉽다!<br>이녀석은 의사이기도 하고,<br>또한 마도사이기도 한것 같네~～"
 Japanese,"scene_cp23_q3_s20,2332",detail,비이,お前！ いつの間に！<br>どうしてここに居るんだよ？,너! 언제!<br>왜 여기 있어?
 Japanese,"scene_cp23_q3_s20,2332",detail,드랑크,いやね？<br>今回の件で、どーしても<br>気にかかることがあってさぁ～,싫죠?<br>이번 건에 대해서 아무래도<br>궁금한게 있어서요～
-Japanese,"scene_cp23_q3_s20,2332",detail,드랑크,[ジータ]も<br>引っかかってるんじゃないかなぁ～<br>って思うんだけど、どう？,"[지타]도<br>걸려있지 않을까?~<br>이라고 생각하는데, 어때?"
+Japanese,"scene_cp23_q3_s20,2332",detail,드랑크,[플레이어]も<br>引っかかってるんじゃないかなぁ～<br>って思うんだけど、どう？,"[플레이어]도<br>걸려있지 않을까?~<br>이라고 생각하는데, 어때?"
 Japanese,"scene_cp23_q3_s20,2332",sel1_txt,,<span class='scene-font-katari'>星晶獣について？</span>,<span class = 'scene-font-katari'> 성정수 대해? </ span>
 Japanese,"scene_cp23_q3_s20,2332",sel2_txt,,<span class='scene-font-katari'>フェリについて？</span>,<span class = 'scene-font-katari'> 페리 대해? </ span>
 Japanese,"scene_cp23_q3_s20,2332",detail,드랑크,ビンゴォ！<br>まさにそのことなんだよねぇ！<br>僕が気になってるのはさぁ！,빙고!<br>바로 그 일이야!<br> 내가 궁금한 건 자!
@@ -91,7 +91,7 @@ Japanese,"scene_cp23_q3_s20,2332",detail,드랑크,うんうん！<br>それね�
 Japanese,"scene_cp23_q3_s20,2332",detail,フェリ,なっ！？,나!?
 Japanese,"scene_cp23_q3_s20,2332",detail,비이,ど、どういうことだ！？<br>いちいちもったいぶるんじゃねーぜ！,"왜, 무슨 일이야!?일일이 거드름피우지 마!"
 Japanese,"scene_cp23_q3_s20,2332",detail,스츠룸,待った……その前に、敵。<br>魔物が向かってきてる。,"기다렸다……그 전에, 적.<br>마물이 오고 있어."
-Japanese,"scene_cp23_q3_s20,2332",detail,스츠룸,構えろ、[ジータ]。<br>腑抜けてたら、<br>あたしが叩き切るからな……！,"자세를 취해라. [지타]. <br> 납득이 가면, <br> 내가 때려눕힐거야……!"
+Japanese,"scene_cp23_q3_s20,2332",detail,스츠룸,構えろ、[플레이어]。<br>腑抜けてたら、<br>あたしが叩き切るからな……！,"자세를 취해라. [플레이어]. <br> 납득이 가면, <br> 내가 때려눕힐거야……!"
 Japanese,"scene_cp23_q4_s10,2341",synopsis,,星晶獣を従えるということは並大抵のことではない、とドランクは語り、星晶獣セレストを呼び寄せた真犯人の存在を示唆する。それを裏付けるように突如現れた幽霊の男から、ルリアは星晶獣の匂いを感じ取る。,성정수를 거느린다는 것은 대단한 일이라고 드렁크는 말하며 성정수 셀레스트를 불러들인 진범의 존재를 시사한다.그것을 증명하듯 갑자기 나타난 유령 남자에게서 루리아는 성정수의 냄새를 맡는다.
 Japanese,"scene_cp23_q4_s10,2341",detail,드랑크,星晶獣ってさぁ、<br>人のお願いを聞いちゃうような、<br>ロマンチックなものじゃないんだよねぇ,"성정수는 말이야,<br>사람의 부탁을 들어버리는,<br>로맨틱한 건 아니잖아"
 Japanese,"scene_cp23_q4_s10,2341",detail,드랑크,星の民でもないのに従えようと思ったら<br>それ相応の準備が必要になる……<br>そういうものだよねぇ？,별의 백성도 아닌데 따르려면 <br> 그에 걸맞은 준비가 필요해……<br> 그런 거지?
@@ -101,11 +101,11 @@ Japanese,"scene_cp23_q4_s10,2341",detail,드랑크,ビンゴォ！<br>どうか�
 Japanese,"scene_cp23_q4_s10,2341",detail,드랑크,ねぇ？ 真犯人さん？,그치? 진범 씨?
 Japanese,"scene_cp23_q4_s10,2341",detail,？？？,…………,…………
 Japanese,"scene_cp23_q4_s10,2341",detail,フェリ,こいつ！？<br>いつの間に……！？,이녀석!?<br>언제사이에……!?
-Japanese,"scene_cp23_q4_s10,2341",detail,루리아,[ジータ]……<br>あの人、幽霊だけど……<br>星晶獣と同じ匂いがします……,[지타]……<br>저 사람 귀신인데……<br>성정수와 같은 냄새가 나요……
+Japanese,"scene_cp23_q4_s10,2341",detail,루리아,[플레이어]……<br>あの人、幽霊だけど……<br>星晶獣と同じ匂いがします……,[플레이어]……<br>저 사람 귀신인데……<br>성정수와 같은 냄새가 나요……
 Japanese,"scene_cp23_q4_s10,2341",detail,？？？,…………！！,…………！！
 Japanese,"scene_cp23_q4_s10,2341",detail,비이,なんだぁ！？<br>魔物がどんどん集まってきやがる！？,뭐야!?<br>마물이 점점 모여든다!?
 Japanese,"scene_cp23_q4_s10,2341",detail,이오,なんだか厄介そうな相手ね……<br>まずは周りの魔物から、<br>蹴散らしちゃいましょ！,"왠지 귀찮아 보이는 상대네……<br>우선은 주위의 마물부터,<br>차버려요!"
-Japanese,"scene_cp23_q4_s20,2342",synopsis,,旅の医者は最初から星晶獣の実験が目的で島を訪れていたことを知る<span>[ジータ]</span>一行。その結果、医者は幽霊となって星晶獣と融合しており、<span>[ジータ]</span>一行に襲い掛かる。,여행 의사는 처음부터 성정수의 실험이 목적으로 섬을 방문한 것을 아는 <span>[지타]</span> 일행.그 결과 의사는 유령이 되어 성정수와 융합하고 있으며 <span>[지타]</span>일행을 덮친다.
+Japanese,"scene_cp23_q4_s20,2342",synopsis,,旅の医者は最初から星晶獣の実験が目的で島を訪れていたことを知る<span>[플레이어]</span>一行。その結果、医者は幽霊となって星晶獣と融合しており、<span>[플레이어]</span>一行に襲い掛かる。,여행 의사는 처음부터 성정수의 실험이 목적으로 섬을 방문한 것을 아는 <span>[플레이어]</span> 일행.그 결과 의사는 유령이 되어 성정수와 융합하고 있으며 <span>[플레이어]</span>일행을 덮친다.
 Japanese,"scene_cp23_q4_s20,2342",detail,로제타,小屋にあった研究日誌を見るに……<br>どうも彼は最初から、<br>実験目的でこの島に来てたみたいね。,"오두막에 있던 연구 일지를 보니....<br>아무래도 그는 처음부터,<br>실험 목적으로 이 섬에 온 것 같네."
 Japanese,"scene_cp23_q4_s20,2342",detail,フェリ,実験目的だと！？<br>じゃあ、最初から、<br>流行り病を治療する気は……,"실험 목적이라고!?<br>자, 처음부터,<br>유행병을 치료할 생각은……"
 Japanese,"scene_cp23_q4_s20,2342",detail,로제타,それはわからないわ……<br>一応、医者としての技能も、<br>確かに持ってたみたいだし……,"그건 모르겠어....<br>일단, 의사로서의 기능도,<br>확실히 가지고 있었던 것 같고......."
@@ -118,8 +118,8 @@ Japanese,"scene_cp23_q4_s20,2342",detail,스츠룸,でも一つ……<br>はっ�
 Japanese,"scene_cp23_q4_s20,2342",detail,？？？,……！！ ……！！,……！！ ……！！
 Japanese,"scene_cp23_q4_s20,2342",detail,？？？,…………,…………
 Japanese,"scene_cp23_q4_s20,2342",detail,드랑크,あららぁ！<br>ついにお出ましみたいだねぇ！,아아아!<br>드디어 행차인가봐!
-Japanese,"scene_cp23_q4_s20,2342",detail,카타리나,こうなった以上、仕方がない……<br>応戦するぞ！ [ジータ]！<br>相手は星晶獣だ！ 油断するなよ！,"이렇게 된 이상, 어쩔 수 없어……<br>응전한다! [지타]!<br>상대는 성정수야! 방심하지 마!"
-Japanese,"scene_cp23_q4_s30,2343",synopsis,,旅の医者と融合した星晶獣セレストを倒した<span>[ジータ]</span>一行だったが、セレストは何事もなかったかのように再び一行の前に立ち塞がるのだった。,여행 의사와 융합된 성정수 셀레스트를 쓰러뜨린 <span>[지타]</span> 일행이었는데 셀레스트는 아무 일도 없었다는 듯이 다시 일행의 앞을 가로막는 것이었다.
+Japanese,"scene_cp23_q4_s20,2342",detail,카타리나,こうなった以上、仕方がない……<br>応戦するぞ！ [플레이어]！<br>相手は星晶獣だ！ 油断するなよ！,"이렇게 된 이상, 어쩔 수 없어……<br>응전한다! [플레이어]!<br>상대는 성정수야! 방심하지 마!"
+Japanese,"scene_cp23_q4_s30,2343",synopsis,,旅の医者と融合した星晶獣セレストを倒した<span>[플레이어]</span>一行だったが、セレストは何事もなかったかのように再び一行の前に立ち塞がるのだった。,여행 의사와 융합된 성정수 셀레스트를 쓰러뜨린 <span>[플레이어]</span> 일행이었는데 셀레스트는 아무 일도 없었다는 듯이 다시 일행의 앞을 가로막는 것이었다.
 Japanese,"scene_cp23_q4_s30,2343",detail,카타리나,はぁ……はぁ……<br>なかなか手ごわかったが、<br>なんとか一段落ついたようだな……,"하아……하아……<br>꽤 만만치 않았지만,<br>어쩌다 일단락 지어진 것 같군……"
 Japanese,"scene_cp23_q4_s30,2343",detail,フェリ,これでようやく村が……<br>島が解放され……,이걸로 겨우 마을이...<br>섬이 해방되고...
 Japanese,"scene_cp23_q4_s30,2343",detail,루리아,待って！<br>何か変……変な感じがする！,잠깐!<br>뭔가 이상해……이상한 느낌이 들어!
@@ -129,10 +129,10 @@ Japanese,"scene_cp23_q4_s30,2343",detail,이오,ど、どういうこと！？<b
 Japanese,"scene_cp23_q4_s30,2343",detail,로제타,傷も残ってないわね……<br>まるで何事もなかったみたいに……,상처도 안남았네요....<br>마치 아무일도 없었던것처럼....
 Japanese,"scene_cp23_q4_s30,2343",detail,비이,い、いったいどうなってんだ、<br>こりゃぁ……,"이, 도대체 어떻게 된거야?<br>이거야……"
 Japanese,"scene_cp23_q4_s30,2343",detail,セレスト,…………,…………
-Japanese,"scene_cp23_q4_s30,2343",detail,,<span class='scene-font-katari'>ついに現れた星晶獣セレストは、</span><br><span class='scene-font-katari'>更なる謎をもって</span><br><span class='scene-font-katari'>[ジータ]一行を翻弄する。</span>,<span class = 'scene-font-katari'> 드디어 나타난 성정수 셀레스트는 </ span> <br> <span class = 'scene-font-katari'> 더욱 수수께끼를 가지고 </ span> <br > <span class = 'scene-font-katari'> [지타] 일행을 농락한다. </ span>
+Japanese,"scene_cp23_q4_s30,2343",detail,,<span class='scene-font-katari'>ついに現れた星晶獣セレストは、</span><br><span class='scene-font-katari'>更なる謎をもって</span><br><span class='scene-font-katari'>[플레이어]一行を翻弄する。</span>,<span class = 'scene-font-katari'> 드디어 나타난 성정수 셀레스트는 </ span> <br> <span class = 'scene-font-katari'> 더욱 수수께끼를 가지고 </ span> <br > <span class = 'scene-font-katari'> [플레이어] 일행을 농락한다. </ span>
 Japanese,"scene_cp23_q4_s30,2343",detail,,<span class='scene-font-katari'>霧に広がる不気味な気配は、</span><br><span class='scene-font-katari'>密かにさらなる蠢動を始めるのだった。</span>,<span class='scene-font-katari>안개에 퍼지는 섬뜩한 기색은 </span><br><span class='scene-font-katari> 몰래 또 다른 준동을 시작하는 것이었다.</span>
 English,"scene_cp23_q1_s10,2311",synopsis,,"Ferry wants to free the village from Celeste's power, knowing that it may cause her and the villagers to disappear. This saddens Lyria, but Ferry tells her that the natural order must be restored. Before informing the villagers, Ferry wants to try to contact Celeste."
-English,"scene_cp23_q1_s10,2311",detail,,"Ready to turn over a new leaf, Ferry tells [Djeeta] and the others of her decision to free the village from Celeste."
+English,"scene_cp23_q1_s10,2311",detail,,"Ready to turn over a new leaf, Ferry tells [플레이어] and the others of her decision to free the village from Celeste."
 English,"scene_cp23_q1_s10,2311",detail,Katalina,"So in other words, you want to draw Celeste away from the island?"
 English,"scene_cp23_q1_s10,2311",detail,Ferry,"I don't know how it would work, but I was able to draw it here. That means I should be able to drive it away again."
 English,"scene_cp23_q1_s10,2311",detail,Io,"But if that happens, that means that you and the villagers..."
@@ -140,7 +140,7 @@ English,"scene_cp23_q1_s10,2311",detail,Ferry,Will probably disappear. But we ca
 English,"scene_cp23_q1_s10,2311",detail,Lyria,I can't believe it... After we just became friends...
 English,"scene_cp23_q1_s10,2311",detail,Ferry,The current situation is against nature. I'll just be returning the island to its natural state.
 English,"scene_cp23_q1_s10,2311",detail,Ferry,"Besides, you're going to absorb Celeste's power, aren't you, Lyria?"
-English,"scene_cp23_q1_s10,2311",detail,Ferry,I'll be happy as long as I can help [Djeeta] and you guys in your journey somehow.
+English,"scene_cp23_q1_s10,2311",detail,Ferry,I'll be happy as long as I can help [플레이어] and you guys in your journey somehow.
 English,"scene_cp23_q1_s10,2311",detail,Rosetta,"It's a nice thought, but isn't it a little harsh to do this so suddenly?"
 English,"scene_cp23_q1_s10,2311",detail,Rosetta,"Since you've got a new name and all, how about we go and tell the villagers?"
 English,"scene_cp23_q1_s10,2311",detail,Lyria,Yeah! The villagers were worried about you after all!
@@ -151,8 +151,8 @@ English,"scene_cp23_q1_s10,2311",detail,Vyrn,Sounds like a plan! Let's get to it
 English,"scene_cp23_q1_s10,2311",detail,Vyrn,"Wait, where did Sturm and Drang go? I don't see them anywhere..."
 English,"scene_cp23_q1_s10,2311",detail,Katalina,They seemed to be on their own mission anyway. So there's no need to worry about them.
 English,"scene_cp23_q1_s10,2311",detail,Katalina,"Now then, we've got Ferry on our side, but there are still monsters out there that might attack."
-English,"scene_cp23_q1_s10,2311",detail,Katalina,"So keep your guard up. Let's go, [Djeeta]!"
-English,"scene_cp23_q1_s20,2312",synopsis,,"Ferry takes [Djeeta] and the crew to where Celeste first appeared. She makes the same wish as when she first summoned Celeste, but a monster appears instead."
+English,"scene_cp23_q1_s10,2311",detail,Katalina,"So keep your guard up. Let's go, [플레이어]!"
+English,"scene_cp23_q1_s20,2312",synopsis,,"Ferry takes [플레이어] and the crew to where Celeste first appeared. She makes the same wish as when she first summoned Celeste, but a monster appears instead."
 English,"scene_cp23_q1_s20,2312",detail,Vyrn,Is this the place where you summoned Celeste?
 English,"scene_cp23_q1_s20,2312",detail,Ferry,"Yes... While I was murmuring my wish, Celeste suddenly appeared out of the mist."
 English,"scene_cp23_q1_s20,2312",detail,Vyrn,"So if you make another wish here, Celeste might appear again!"
@@ -164,7 +164,7 @@ English,"scene_cp23_q1_s20,2312",detail,Rosetta,Oh dear! But something's coming 
 English,"scene_cp23_q1_s20,2312",detail,Monster,Groooar!
 English,"scene_cp23_q1_s20,2312",detail,Io,It's just a regular old monster! There's no way that's Celeste!
 English,"scene_cp23_q1_s20,2312",detail,Ferry,But why? This is definitely the same place as before...
-English,"scene_cp23_q1_s20,2312",detail,Katalina,"Either way, this thing answered our call. So let's fight it back! Here we go, [Djeeta]!"
+English,"scene_cp23_q1_s20,2312",detail,Katalina,"Either way, this thing answered our call. So let's fight it back! Here we go, [플레이어]!"
 English,"scene_cp23_q2_s10,2321",synopsis,,"Thinking that something else may be needed to summon Celeste, everyone decides to go talk to the villagers in hopes of getting some clues."
 English,"scene_cp23_q2_s10,2321",detail,Ferry,What am I doing wrong? The place and everything should be the same as back then...
 English,"scene_cp23_q2_s10,2321",detail,Rosetta,There's a lot we don't know about primal beasts. Perhaps there's something else we need that you don't know about.
@@ -172,7 +172,7 @@ English,"scene_cp23_q2_s10,2321",detail,Katalina,Sounds like we need some clues 
 English,"scene_cp23_q2_s10,2321",detail,Lyria,Let's go ask the villagers! There might be someone who remembers something!
 English,"scene_cp23_q2_s10,2321",detail,Vyrn,We were planning on going to see them anyway! So let's head on over!
 English,"scene_cp23_q2_s20,2322",synopsis,,"The villagers welcome Ferry with open arms. They explain that before Celeste appeared, an illness began to spread right when a traveling doctor came to the village. But the doctor has disappeared."
-English,"scene_cp23_q2_s20,2322",detail,,"When they arrive at the village, [Djeeta] and the crew tell the villagers about Ferry's decision."
+English,"scene_cp23_q2_s20,2322",detail,,"When they arrive at the village, [플레이어] and the crew tell the villagers about Ferry's decision."
 English,"scene_cp23_q2_s20,2322",detail,Villager 1,"I see, I see... How wonderful! You've made the right decision, Ferry!"
 English,"scene_cp23_q2_s20,2322",detail,Villager 2,"So our existence here is coming to an end, eh? Looking back, it's been a mighty long time. But it still feels like yesterday..."
 English,"scene_cp23_q2_s20,2322",detail,Villager 3,"Ferry, weren't you lonely all this time in that mansion by yourself?"
@@ -182,7 +182,7 @@ English,"scene_cp23_q2_s20,2322",detail,Ferry,Yes! I will.
 English,"scene_cp23_q2_s20,2322",detail,Villager 3,Mm-hmm! That's a good girl!
 English,"scene_cp23_q2_s20,2322",detail,Lyria,"You look sort of nervous, Ferry, but really happy too!"
 English,"scene_cp23_q2_s20,2322",detail,Katalina,Indeed. I guess this clears up any rumors or misunderstandings.
-English,"scene_cp23_q2_s20,2322",detail,,[Djeeta] and the crew ask whether the villagers know of anything odd around the time Celeste first appeared.
+English,"scene_cp23_q2_s20,2322",detail,,[플레이어] and the crew ask whether the villagers know of anything odd around the time Celeste first appeared.
 English,"scene_cp23_q2_s20,2322",detail,Villager 1,Something odd? I can't think of anything...
 English,"scene_cp23_q2_s20,2322",detail,Villager 3,"Let's see... Now that you mention it, an illness began to spread through the island around the time Celeste appeared, I think."
 English,"scene_cp23_q2_s20,2322",detail,Villager 2,Not exactly. The illness was already running rampant before the primal beast came.
@@ -193,7 +193,7 @@ English,"scene_cp23_q2_s20,2322",detail,Villager 1,Hm? That's a good question...
 English,"scene_cp23_q2_s20,2322",detail,Villager 3,"Perhaps the doctor left the island on an airship. The doctor never stayed in one place, after all..."
 English,"scene_cp23_q2_s20,2322",detail,Villager 2,"Zombie or ghost, we haven't seen any sign of the doctor on the island since."
 English,"scene_cp23_q2_s20,2322",detail,Rosetta,"Disappeared without a trace, I see..."
-English,"scene_cp23_q2_s20,2322",detail,Vyrn,"Whoa! There's a monster! Come on, [Djeeta]!"
+English,"scene_cp23_q2_s20,2322",detail,Vyrn,"Whoa! There's a monster! Come on, [플레이어]!"
 English,"scene_cp23_q2_s20,2322",detail,Vyrn,Ferry's just warming up to the villagers! No way we're gonna let these stinkers drop in on the party!
 English,"scene_cp23_q3_s10,2331",synopsis,,"The villagers say that when Celeste appeared, there'd been a spreading illness and a traveling doctor on the island. But the connection to the primal beast is still unclear. Thinking that the doctor could be the key, everyone decides to visit the house where the doctor lived."
 English,"scene_cp23_q3_s10,2331",detail,Vyrn,"So let's sum up what we heard from the villagers, okay?"
@@ -203,15 +203,15 @@ English,"scene_cp23_q3_s10,2331",detail,Lyria,Hm... I don't see it either.
 English,"scene_cp23_q3_s10,2331",detail,Ferry,Too bad the doctor couldn't stop the illness from spreading...
 English,"scene_cp23_q3_s10,2331",detail,Rosetta,"Doctors aren't perfect, you know! But perhaps that doctor left clues behind about a cure."
 English,"scene_cp23_q3_s10,2331",detail,Io,"According to the villagers, the doctor lived near the cemetery."
-English,"scene_cp23_q3_s10,2331",detail,Io,"There might be something there, so let's go take a look, [Djeeta]!"
-English,"scene_cp23_q3_s20,2332",synopsis,,[Djeeta] and the others find a summoning circle near the doctor's old house. Sturm and Drang appear and Drang suggests that they're thinking about this all wrong.
-English,"scene_cp23_q3_s20,2332",detail,,"On the way to the doctor's house, [Djeeta] and the others stop by the cemetery, where they're greeted with an unexpected sight."
+English,"scene_cp23_q3_s10,2331",detail,Io,"There might be something there, so let's go take a look, [플레이어]!"
+English,"scene_cp23_q3_s20,2332",synopsis,,[플레이어] and the others find a summoning circle near the doctor's old house. Sturm and Drang appear and Drang suggests that they're thinking about this all wrong.
+English,"scene_cp23_q3_s20,2332",detail,,"On the way to the doctor's house, [플레이어] and the others stop by the cemetery, where they're greeted with an unexpected sight."
 English,"scene_cp23_q3_s20,2332",detail,Katalina,Is that a summoning circle?
 English,"scene_cp23_q3_s20,2332",detail,Io,What does this mean? Could it be that the doctor was fake and was really a mage all along?
 English,"scene_cp23_q3_s20,2332",detail,Drang,Hmmm... You're close! But it sounds more like the person was both a doctor <span class='scene-font-italic'>and</span> a mage...
 English,"scene_cp23_q3_s20,2332",detail,Vyrn,Hey! When did you get here? And why did you come?
 English,"scene_cp23_q3_s20,2332",detail,Drang,"Well, you see... There's something about this hub-bub that's been naggin' me in the back of my mind."
-English,"scene_cp23_q3_s20,2332",detail,Drang,"And I think it's buggin' you too, [Djeeta]... Am I right?"
+English,"scene_cp23_q3_s20,2332",detail,Drang,"And I think it's buggin' you too, [플레이어]... Am I right?"
 English,"scene_cp23_q3_s20,2332",sel1_txt,,You mean about the primal beast?
 English,"scene_cp23_q3_s20,2332",sel2_txt,,You mean about Ferry?
 English,"scene_cp23_q3_s20,2332",detail,Drang,Bingo! I knew you were thinking it! And that's what I'm thinking too!
@@ -223,7 +223,7 @@ English,"scene_cp23_q3_s20,2332",detail,Drang,"Yep, yep! But if you ask me, I th
 English,"scene_cp23_q3_s20,2332",detail,Ferry,What?
 English,"scene_cp23_q3_s20,2332",detail,Vyrn,What're you trying to say? Stop beatin' around the bush already!
 English,"scene_cp23_q3_s20,2332",detail,Sturm,Wait. We've got company first. There are monsters coming this way.
-English,"scene_cp23_q3_s20,2332",detail,Sturm,"Get ready, [Djeeta]. And keep your eyes peeled, or I'll peel 'em for you!"
+English,"scene_cp23_q3_s20,2332",detail,Sturm,"Get ready, [플레이어]. And keep your eyes peeled, or I'll peel 'em for you!"
 English,"scene_cp23_q4_s10,2341",synopsis,,"Drang thinks someone else summoned Celeste. As if confirming his suspicion, a ghost suddenly appears. Lyria senses that the ghost is similar to a primal beast."
 English,"scene_cp23_q4_s10,2341",detail,Drang,Isn't it a little naïve to think that a primal beast would answer a random wish?
 English,"scene_cp23_q4_s10,2341",detail,Drang,"If you wanted to control a primal without being an Astral, you'd need to be pretty smart or pretty special. Am I right?"
@@ -233,11 +233,11 @@ English,"scene_cp23_q4_s10,2341",detail,Drang,Bingo! What do you think? Did I ge
 English,"scene_cp23_q4_s10,2341",detail,Drang,"Did I, <span class='scene-font-italic'>Mister Culprit?</span>"
 English,"scene_cp23_q4_s10,2341",detail,???,...
 English,"scene_cp23_q4_s10,2341",detail,Ferry,What's that! Where did it come from?
-English,"scene_cp23_q4_s10,2341",detail,Lyria,"[Djeeta], I know that's a ghost, but I'm sensing something similar to a primal beast..."
+English,"scene_cp23_q4_s10,2341",detail,Lyria,"[플레이어], I know that's a ghost, but I'm sensing something similar to a primal beast..."
 English,"scene_cp23_q4_s10,2341",detail,???,...!
 English,"scene_cp23_q4_s10,2341",detail,Vyrn,Whoa! Loads of monsters are gathering around!
 English,"scene_cp23_q4_s10,2341",detail,Io,This is getting sticky... So let's deal with these monsters first!
-English,"scene_cp23_q4_s20,2342",synopsis,,It's discovered that the doctor's reason for coming to the island was for primal beast experiments. As a result the doctor became a ghost and merged with a primal. The ghost doctor attacks [Djeeta] and the others.
+English,"scene_cp23_q4_s20,2342",synopsis,,It's discovered that the doctor's reason for coming to the island was for primal beast experiments. As a result the doctor became a ghost and merged with a primal. The ghost doctor attacks [플레이어] and the others.
 English,"scene_cp23_q4_s20,2342",detail,Rosetta,"From what I can tell of his research journal, it looks like the doctor came here to carry out experiments."
 English,"scene_cp23_q4_s20,2342",detail,Ferry,Experiments? So he never intended to treat the illness...
 English,"scene_cp23_q4_s20,2342",detail,Rosetta,We can't say for sure. It looks like he certainly had some skills as a doctor...
@@ -250,8 +250,8 @@ English,"scene_cp23_q4_s20,2342",detail,Sturm,But we do know one thing... He has
 English,"scene_cp23_q4_s20,2342",detail,???,...!
 English,"scene_cp23_q4_s20,2342",detail,???,...
 English,"scene_cp23_q4_s20,2342",detail,Drang,"My, oh my! Look who finally decided to show up!"
-English,"scene_cp23_q4_s20,2342",detail,Katalina,"We've got no choice but to fight! [Djeeta], our opponent is a primal beast! Don't let your guard down!"
-English,"scene_cp23_q4_s30,2343",synopsis,,"[Djeeta] and the others defeat Celeste, who'd merged with the ghost doctor. But the primal beast returns, seemingly unaffected by the battle."
+English,"scene_cp23_q4_s20,2342",detail,Katalina,"We've got no choice but to fight! [플레이어], our opponent is a primal beast! Don't let your guard down!"
+English,"scene_cp23_q4_s30,2343",synopsis,,"[플레이어] and the others defeat Celeste, who'd merged with the ghost doctor. But the primal beast returns, seemingly unaffected by the battle."
 English,"scene_cp23_q4_s30,2343",detail,Katalina,"<span class='scene-font-italic'>Pant... Pant...</span> That was tough, but it looks like it's over."
 English,"scene_cp23_q4_s30,2343",detail,Ferry,Now the village... The whole island will finally be free—
 English,"scene_cp23_q4_s30,2343",detail,Lyria,Wait! Something about it feels off... Something's not right!
@@ -261,5 +261,5 @@ English,"scene_cp23_q4_s30,2343",detail,Io,What's going on! Didn't we just defea
 English,"scene_cp23_q4_s30,2343",detail,Rosetta,It's back without a single scratch... as if nothing happened.
 English,"scene_cp23_q4_s30,2343",detail,Vyrn,What in the skies is going on here?
 English,"scene_cp23_q4_s30,2343",detail,Celeste,...
-English,"scene_cp23_q4_s30,2343",detail,,"Celeste suddenly appears in front of [Djeeta] and the others, further deepening the mystery behind the primal beast."
+English,"scene_cp23_q4_s30,2343",detail,,"Celeste suddenly appears in front of [플레이어] and the others, further deepening the mystery behind the primal beast."
 English,"scene_cp23_q4_s30,2343",detail,,"The fog spreads eerily, as if inviting more malicious mayhem to the island."

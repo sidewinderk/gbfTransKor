@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp24_q1_s10,2411",synopsis,,死を司る星晶獣セレストは再び<span>[ジータ]</span>一行の前に立ちはだかる。その姿に一行は絶望しかけるが、セレストを倒す方法は確かにある、とドランクは口にする。,죽음을 관장하는 성정수 셀레스트는 다시 <span>[지타]</span> 일행의 앞을 가로막는다.그 모습에 일행은 절망하지만 셀레스트를 꺾을 방법은 분명 있다고 드렁크는 말한다.
-Japanese,"scene_cp24_q1_s10,2411",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ついに姿を現した星晶獣セレストを</span><br><span class='scene-font-katari'>確かにその手で葬り去る。</span>,<span class = 'scene-font-katari'> [지타] 일행은 </ span> <br> <span class = 'scene-font-katari'> 드디어 모습을 드러냈다 성정수 셀레스트 </ span > <br> <span class = 'scene-font-katari'> 확실히 그 손으로 파묻어 버린다. </ span>
+Japanese,"scene_cp24_q1_s10,2411",synopsis,,死を司る星晶獣セレストは再び<span>[플레이어]</span>一行の前に立ちはだかる。その姿に一行は絶望しかけるが、セレストを倒す方法は確かにある、とドランクは口にする。,죽음을 관장하는 성정수 셀레스트는 다시 <span>[플레이어]</span> 일행의 앞을 가로막는다.그 모습에 일행은 절망하지만 셀레스트를 꺾을 방법은 분명 있다고 드렁크는 말한다.
+Japanese,"scene_cp24_q1_s10,2411",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ついに姿を現した星晶獣セレストを</span><br><span class='scene-font-katari'>確かにその手で葬り去る。</span>,<span class = 'scene-font-katari'> [플레이어] 일행은 </ span> <br> <span class = 'scene-font-katari'> 드디어 모습을 드러냈다 성정수 셀레스트 </ span > <br> <span class = 'scene-font-katari'> 확실히 그 손으로 파묻어 버린다. </ span>
 Japanese,"scene_cp24_q1_s10,2411",detail,,<span class='scene-font-katari'>しかし、死を司る幽霊船の星晶獣は、</span><br><span class='scene-font-katari'>何事もなかったかのように、</span><br><span class='scene-font-katari'>再び一同の前に立ちはだかるのだった。</span>,<span class='scene-font-katari> 그러나 죽음을 관장하는 유령선의 성정수는 </span><br><span class='scene-font-katari>또다시 서 있는 유령선의 성정수는 </span><br><span class='scene-font-katari><span>다시 일동의 앞을 가로막는 것이었다
 Japanese,"scene_cp24_q1_s10,2411",detail,セレスト,…………,…………
 Japanese,"scene_cp24_q1_s10,2411",detail,비이,どうなってんだよいったい！<br>こいつはさっき、<br>オイラ達が倒したはずだぜ！？,어떻게 된거야 도대체!<br>이놈은 아까 <br>오이라들이 쓰러뜨렸을거야!?
@@ -9,12 +9,12 @@ Japanese,"scene_cp24_q1_s10,2411",detail,フェリ,星晶獣セレストは死�
 Japanese,"scene_cp24_q1_s10,2411",detail,카타리나,そういうことなのか……？<br>だとすれば、<br>私達にはもう、為す術が……,"그런 것인가……?<br>라고 하면,<br>우리에게는 이미, 행할 방법이……"
 Japanese,"scene_cp24_q1_s10,2411",detail,드랑크,いんやぁ！ 大丈夫！<br>こいつを倒す方法なら、<br>ちゃーんとあるよ！,"아니야! 괜찮아! <br> 이 녀석을 쓰러뜨리는 방법이라면,<br> 분명히 있어!"
 Japanese,"scene_cp24_q1_s10,2411",detail,로제타,ふふ……頼もしいわね。<br>でもまずは、<br>寄って来ている魔物の相手をしないとね。,후후…… 믿음직하네.<br>하지만 우선은 <br>들려오는 마물을 상대해야겠죠.
-Japanese,"scene_cp24_q1_s10,2411",detail,로제타,さぁ、[ジータ]。<br>まだ諦めるには早いみたいだし、<br>油断せずにいくわよ！！,"자, [지타].<br>아직 포기하기에는 이른 것 같고,<br>방심하지마!!"
-Japanese,"scene_cp24_q1_s20,2412",synopsis,,一行が倒したのはセレストの幽体であり、今度は本体を倒せば良いと語るドランクだが、やけにセレストに詳しいその様子に一行は疑念を抱く。しかし、<span>[ジータ]</span>の一声に、一行はドランクを信じることを決める。,"일행이 쓰러뜨린 것은 셀레스트의 유체이며, 이번에는 본체를 쓰러뜨리면 된다고 말하는 드렁크이지만, 유난히 셀레스트에 정통한 그 모습에 일행은 의심스럽다. 그러나 <span>[지타]</span]의 일성에, 일행은 드렁크를 믿기로 결정한다."
+Japanese,"scene_cp24_q1_s10,2411",detail,로제타,さぁ、[플레이어]。<br>まだ諦めるには早いみたいだし、<br>油断せずにいくわよ！！,"자, [플레이어].<br>아직 포기하기에는 이른 것 같고,<br>방심하지마!!"
+Japanese,"scene_cp24_q1_s20,2412",synopsis,,一行が倒したのはセレストの幽体であり、今度は本体を倒せば良いと語るドランクだが、やけにセレストに詳しいその様子に一行は疑念を抱く。しかし、<span>[플레이어]</span>の一声に、一行はドランクを信じることを決める。,"일행이 쓰러뜨린 것은 셀레스트의 유체이며, 이번에는 본체를 쓰러뜨리면 된다고 말하는 드렁크이지만, 유난히 셀레스트에 정통한 그 모습에 일행은 의심스럽다. 그러나 <span>[플레이어]</span]의 일성에, 일행은 드렁크를 믿기로 결정한다."
 Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,つまりね？<br>あれはセレストの幽霊みたいなもんで、<br>本体を倒せば万事解決ってわけ！,즉?<br>그건 셀레스트의 유령같은거야<br>본체를 쓰러뜨리면 만사가 해결되는거야!
 Japanese,"scene_cp24_q1_s20,2412",detail,카타리나,その情報は確かなのか？<br>ずいぶんとこの星晶獣に関して、<br>詳しいようだが……,그 정보는 확실한가?<br> 대단히 이 성정수에 관해 <br> 자세히 알고 있는 것 같은데……
 Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,まぁ、信じる信じないは、<br>君達次第だよねぇ！,"뭐, 믿고 안믿고는,<br>군들 나름이지!"
-Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,[ジータ]は、<br>どう思うんだい？,"[지타]는,<br>어떻게 생각하는데?"
+Japanese,"scene_cp24_q1_s20,2412",detail,드랑크,[플레이어]は、<br>どう思うんだい？,"[플레이어]는,<br>어떻게 생각하는데?"
 Japanese,"scene_cp24_q1_s20,2412",sel1_txt,,<span class='scene-font-katari'>ドランクを信じよう</span>,<span class='scene-font-katari'>드랑코를 믿자</span>
 Japanese,"scene_cp24_q1_s20,2412",sel2_txt,,<span class='scene-font-katari'>いまはドランクに賭けるしかない</span>,<span class='scene-font-katari>지금은 드랑코에 걸 수밖에 없다</span>
 Japanese,"scene_cp24_q1_s20,2412",detail,비이,ここまできた以上、<br>もう信じるしかねーよな！,"여기까지 온 이상,<br>이제 믿을 수 밖에 없지!"
@@ -29,9 +29,9 @@ Japanese,"scene_cp24_q2_s10,2421",detail,루리아,星晶獣を探すのなら�
 Japanese,"scene_cp24_q2_s10,2421",detail,루리아,セレストの本体なら、<br>きっと強い力を放ってるはずです！,"셀레스트의 본체라면,<br>분명히 강한 힘을 발하고 있을거에요!"
 Japanese,"scene_cp24_q2_s10,2421",detail,스츠룸,適材適所……<br>魔物との戦闘はあたし達に任せろ。,적재적소……<br>마물과의 전투는 우리에게 맡겨라.
 Japanese,"scene_cp24_q2_s10,2421",detail,드랑크,おやおやぁ？<br>ついにスツルム殿も<br>やる気になって……痛ってぇ！？,안녕?<br>드디어 스툴름전도<br>할 맘이 되어……아파!?
-Japanese,"scene_cp24_q2_s10,2421",detail,스츠룸,中途半端が嫌いなだけだ……<br>やるぞ、[ジータ]。<br>邪魔する魔物は返り討ちだ……！！,"어중간한 것이 싫을 뿐이다……<br>주마, [지타].<br>방해하는 마물은 보복이다……!!"
+Japanese,"scene_cp24_q2_s10,2421",detail,스츠룸,中途半端が嫌いなだけだ……<br>やるぞ、[플레이어]。<br>邪魔する魔物は返り討ちだ……！！,"어중간한 것이 싫을 뿐이다……<br>주마, [플레이어].<br>방해하는 마물은 보복이다……!!"
 Japanese,"scene_cp24_q2_s20,2422",synopsis,,霧に気配を紛れさせるセレストをなかなか見つけられないルリア。途方に暮れる一行の目の前でセレストはゾンビの魔物を食らい、力の回復を行う。村人の危機を察したフェリはひとり走り去ってしまう。,"안개에 기척을 감추는 셀레스트들을 좀처럼 찾지 못하는 루리아. 어찌할 바를 몰라하는 일행의 눈앞에서 셀레스트는 좀비의 마물을 맞고, 힘을 회복한다.마을 사람들의 위기를 눈치챈 페리는 저만치 달아나 버린다."
-Japanese,"scene_cp24_q2_s20,2422",detail,루리아,ど、どうしよう、[ジータ]……<br>ごめんなさい……<br>セレストを探せそうにありません……,"도, 어떻게 하지, [지타]……<br>죄송합니다……<br>셀레스트 찾을 수 있을 것 같지 않아요……"
+Japanese,"scene_cp24_q2_s20,2422",detail,루리아,ど、どうしよう、[플레이어]……<br>ごめんなさい……<br>セレストを探せそうにありません……,"도, 어떻게 하지, [플레이어]……<br>죄송합니다……<br>셀레스트 찾을 수 있을 것 같지 않아요……"
 Japanese,"scene_cp24_q2_s20,2422",detail,비이,なんだって！？<br>ど、どういうことだよ？,뭐라고!?<br>이게 무슨 말이야?
 Japanese,"scene_cp24_q2_s20,2422",detail,루리아,霧に紛れて、<br>気配が島中に広がってるんです……<br>これじゃ本体がどこにいるかなんて……,"안개를 틈타서,<br>기척이 섬 안에 퍼져있습니다……<br>이러면 본체가 어디에 있을까라니……"
 Japanese,"scene_cp24_q2_s20,2422",detail,카타리나,マズイな……<br>この霧では目視で探そうにも、<br>そう遠くまで探すことは出来ないぞ……,"곤란해……<br>이 안개로는 육안으로 찾으려고 해도,<br>그렇게 멀리까지 찾을 수는 없어……"
@@ -44,25 +44,25 @@ Japanese,"scene_cp24_q2_s20,2422",detail,フェリ,……っ！！,……앗!!
 Japanese,"scene_cp24_q2_s20,2422",detail,카타리나,あっ！ おい！ フェリ！<br>どこへ行くんだ！？ 危ないぞ！！,앗! 야! 펠리! 어디로 가냐! 위험해!!
 Japanese,"scene_cp24_q2_s20,2422",detail,이오,危ないのはこっちも一緒よ！<br>魔物が来てるわ！<br>油断してたら、やられちゃうわよ！,위험한 건 나도 마찬가지야! <br> 마물이 와있어! <br> 방심하다간 당할거야!
 Japanese,"scene_cp24_q3_s10,2431",synopsis,,息を切らして戻ってきたフェリはセレストの捜索を快諾してくれた村人達を連れていた。頼もしい味方の存在に喜ぶ一行は、邪魔な魔物達を追い払う。,헐레벌떡 돌아온 페리는 셀레스트의 수색을 흔쾌히 수락해 준 마을 사람들을 데리고 있었다.믿음직한 아군의 존재에 기뻐하는 일행은 방해하는 마물들을 물리친다.
-Japanese,"scene_cp24_q3_s10,2431",detail,フェリ,はぁ……はぁ……<br>ルリア！ [ジータ]！,하아……하아……<br>루리아! [지타]!
+Japanese,"scene_cp24_q3_s10,2431",detail,フェリ,はぁ……はぁ……<br>ルリア！ [플레이어]！,하아……하아……<br>루리아! [플레이어]!
 Japanese,"scene_cp24_q3_s10,2431",detail,루리아,フェリちゃん！？<br>それに……！,페리!?<br>게다가……!
 Japanese,"scene_cp24_q3_s10,2431",detail,村人１,人手が必要なんだって？<br>任せてくれよ！,일손이 필요하다고?<br> 맡겨줘!
 Japanese,"scene_cp24_q3_s10,2431",detail,村人２,話はフェリちゃんから聞いたわ。<br>私達にも手伝わせて頂戴。,이야기는 페리한테 들었어.<br>우리에게도 도와줘.
 Japanese,"scene_cp24_q3_s10,2431",detail,フェリ,村の人達を連れてきた……<br>これだけいれば目視で探しても、<br>島中をカバー出来るはず……！,"마을 사람들을 데리고 왔어……<br>이만큼 있으면 육안으로 찾아도,<br>섬을 커버할 수 있을거야……!"
 Japanese,"scene_cp24_q3_s10,2431",detail,フェリ,ここは私達の島で……<br>あいつは私達の敵だ……！！<br>私達にも手伝わせてくれ！,이곳은 우리들의 섬이고...<br>그놈은 우리의 적이다...!!<br>우리에게도 돕게 해줘!
-Japanese,"scene_cp24_q3_s10,2431",detail,비이,こいつぁ助かるぜ！<br>なぁ！ [ジータ]！,이 녀석 살아날거야!<br>야! [지타]
+Japanese,"scene_cp24_q3_s10,2431",detail,비이,こいつぁ助かるぜ！<br>なぁ！ [플레이어]！,이 녀석 살아날거야!<br>야! [플레이어]
 Japanese,"scene_cp24_q3_s10,2431",detail,카타리나,島を知り尽くしている住人達か……<br>これ以上頼もしい味方はいないな！,섬을 다 아는 주민들인가……<br>더이상 믿음직한 아군은 없네!
-Japanese,"scene_cp24_q3_s10,2431",detail,비이,よっしゃ！ となりゃあ、<br>オイラ達は邪魔な魔物を追っ払うぞ！<br>いこうぜ！ [ジータ]！,앗싸! 그렇다면 <br> 오이라들은 방해되는 마물을 물리칠 테야!가자! [지타]
-Japanese,"scene_cp24_q3_s20,2432",synopsis,,村人達の協力もあり、ついにセレストを発見する<span>[ジータ]</span>一行。星晶獣セレストと決着をつけるべく、一行は魔物を蹴散らしながらセレストの元へと向かう。,마을 사람들의 도움으로 마침내 셀레스트가 발견되는 <span> [지타] </span> 한 줄.성정수 셀레스트와 결판을 내기 위해 일행은 마물을 흩뿌리며 셀레스트 곁으로 향한다.
+Japanese,"scene_cp24_q3_s10,2431",detail,비이,よっしゃ！ となりゃあ、<br>オイラ達は邪魔な魔物を追っ払うぞ！<br>いこうぜ！ [플레이어]！,앗싸! 그렇다면 <br> 오이라들은 방해되는 마물을 물리칠 테야!가자! [플레이어]
+Japanese,"scene_cp24_q3_s20,2432",synopsis,,村人達の協力もあり、ついにセレストを発見する<span>[플레이어]</span>一行。星晶獣セレストと決着をつけるべく、一行は魔物を蹴散らしながらセレストの元へと向かう。,마을 사람들의 도움으로 마침내 셀레스트가 발견되는 <span> [플레이어] </span> 한 줄.성정수 셀레스트와 결판을 내기 위해 일행은 마물을 흩뿌리며 셀레스트 곁으로 향한다.
 Japanese,"scene_cp24_q3_s20,2432",detail,마물,……！！ ……！！,……！！ ……！！
 Japanese,"scene_cp24_q3_s20,2432",detail,フェリ,うん……うん、そうか。<br>ありがとう。,"응...응, 그렇구나.<br>고마워"
-Japanese,"scene_cp24_q3_s20,2432",detail,フェリ,ルリア！ [ジータ]！<br>向こうの崖のあたりで、<br>それらしい船が見つかった！,루리아! [지타]!<br>건너편 절벽 근처에서 <br>그럴듯한 배가 발견됐어!
+Japanese,"scene_cp24_q3_s20,2432",detail,フェリ,ルリア！ [플레이어]！<br>向こうの崖のあたりで、<br>それらしい船が見つかった！,루리아! [플레이어]!<br>건너편 절벽 근처에서 <br>그럴듯한 배가 발견됐어!
 Japanese,"scene_cp24_q3_s20,2432",detail,카타리나,ついに見つかったか！<br>しかし、<br>すぐに赴くのは難しそうだ……,"드디어 찾았구나!<br>그러나,<br>바로 가기는 어려울 것 같다……"
 Japanese,"scene_cp24_q3_s20,2432",detail,마물,グオオオォォッ！！,응어어어엇!!
 Japanese,"scene_cp24_q3_s20,2432",detail,로제타,この子を片付けないと、<br>どうやらここは通れなさそうだものね。,이 아이를 정리하지 않으면 <br> 아무래도 이곳은 지나갈 수 없을 것 같으니까.
 Japanese,"scene_cp24_q3_s20,2432",detail,비이,いつセレストが<br>村の奴らに危害を<br>加えるともわからねぇ……,언제 셀레스트가<br>마을의 녀석들에게 위해를<br>가될지도 몰라……
 Japanese,"scene_cp24_q3_s20,2432",detail,비이,こんな奴、さっさと倒して、<br>先に進もうぜ！,"이런 놈, 썩 쓰러뜨리고 <br> 앞으로 나아가자구!"
-Japanese,"scene_cp24_q4_s10,2441",synopsis,,セレストの元へと急ぐ<span>[ジータ]</span>一行。崖の影に隠れていたセレストを発見できたのは村人達のおかげだ、とフェリは話し、最後の決着に向け気を引き締める。,"셀레스트 곁으로 서두르는 <span> [지타] </span> 한 줄.벼랑에 가려져 있던 셀레스트들을 발견할 수 있었던 것은 마을 사람들 덕분이야, 라고 페리는 말하고 마지막 결판을 위해 마음을 다잡는다."
+Japanese,"scene_cp24_q4_s10,2441",synopsis,,セレストの元へと急ぐ<span>[플레이어]</span>一行。崖の影に隠れていたセレストを発見できたのは村人達のおかげだ、とフェリは話し、最後の決着に向け気を引き締める。,"셀레스트 곁으로 서두르는 <span> [플레이어] </span> 한 줄.벼랑에 가려져 있던 셀레스트들을 발견할 수 있었던 것은 마을 사람들 덕분이야, 라고 페리는 말하고 마지막 결판을 위해 마음을 다잡는다."
 Japanese,"scene_cp24_q4_s10,2441",detail,이오,この先よね！<br>セレストの本体が居るっていうのは！,이 앞이군요! <br> 셀레스트의 본체가 있다는 것은!
 Japanese,"scene_cp24_q4_s10,2441",detail,フェリ,そうだ！<br>崖の影で隠れるようにしていたらしい。,맞다!<br>벼랑의 그림자로 숨으려고 했던것 같아.
 Japanese,"scene_cp24_q4_s10,2441",detail,로제타,そんな場所、少人数で探してたら、<br>絶対に見つかりっこなかったわね。,"그런 장소, 소인원으로 찾다보니,<br>절대 찾을 리가 없었네."
@@ -70,19 +70,19 @@ Japanese,"scene_cp24_q4_s10,2441",detail,루리아,ふふふ……お手柄で�
 Japanese,"scene_cp24_q4_s10,2441",detail,フェリ,私の力じゃない……<br>村のみんなが協力してくれたから……<br>だから見つけることが出来た。,내 힘이 아니야……<br>마을 모두가 협력해 주었으니까……<br>그래서 찾을 수 있었다.
 Japanese,"scene_cp24_q4_s10,2441",detail,フェリ,私ひとりの力じゃ、<br>きっと何も出来なかった……,"나 혼자의 힘으로는,<br>분명히 아무것도 할 수 없었다……"
 Japanese,"scene_cp24_q4_s10,2441",detail,フェリ,それにまだ、<br>決着がついたわけじゃない。<br>油断は出来ないぞ。,"그리고 아직,<br>결판이 난 건 아냐.<br>방심할수없어"
-Japanese,"scene_cp24_q4_s10,2441",detail,카타리나,その通りだな……<br>[ジータ]！<br>気を引き締めていくぞ！,맞아……<br>[지타]!<br>정신 바짝 차리고 있을게!
-Japanese,"scene_cp24_q4_s20,2442",synopsis,,ついにセレスト本体へとたどり着く<span>[ジータ]</span>一行。皆のおかげでここまで来ることが出来た、とフェリは礼を述べ、村の皆を解放するため、一行と共にセレストへと挑む。,드디어 셀레스트 본체에 도달하는 <span> [지타] </span> 한 줄.페리는 그들 덕분에 여기까지 오게 되었다고 답례를 하고 마을 사람들을 해방시키기 위해 일행과 함께 셀레스토에 도전한다.
+Japanese,"scene_cp24_q4_s10,2441",detail,카타리나,その通りだな……<br>[플레이어]！<br>気を引き締めていくぞ！,맞아……<br>[플레이어]!<br>정신 바짝 차리고 있을게!
+Japanese,"scene_cp24_q4_s20,2442",synopsis,,ついにセレスト本体へとたどり着く<span>[플레이어]</span>一行。皆のおかげでここまで来ることが出来た、とフェリは礼を述べ、村の皆を解放するため、一行と共にセレストへと挑む。,드디어 셀레스트 본체에 도달하는 <span> [플레이어] </span> 한 줄.페리는 그들 덕분에 여기까지 오게 되었다고 답례를 하고 마을 사람들을 해방시키기 위해 일행과 함께 셀레스토에 도전한다.
 Japanese,"scene_cp24_q4_s20,2442",detail,セレスト,…………,…………
 Japanese,"scene_cp24_q4_s20,2442",detail,비이,こいつは間違いなく本体だよな……？<br>って、ドランクの奴、<br>またどっか行っちまったのか？,"이 녀석은 틀림없이 본체겠지……?<br>라니, 드렁크 놈,<br>또 어디 갔나?"
 Japanese,"scene_cp24_q4_s20,2442",detail,카타리나,さぁな……<br>恐らく、自分達の役目は<br>既に全うしたと判断したんだろう。,"글쎄……<br>아마, 자신들의 역할은<br>이미 완수했다고 판단한 것이겠지."
 Japanese,"scene_cp24_q4_s20,2442",detail,카타리나,今回は、<br>彼らの助けもあったからこそ、<br>ここまで来ることが出来たからな。,이번에는<br>그들의 도움도 있었기에<br>여기까지 올 수 있었으니까.
 Japanese,"scene_cp24_q4_s20,2442",detail,フェリ,本当に……<br>私がずっと館に籠りきりじゃ、<br>きっとこの結末は得られなかった……,"정말로……<br>내가 계속 관에 틀어박혀 있으면,<br>분명히 이 결말은 얻을 수 없었다……"
-Japanese,"scene_cp24_q4_s20,2442",detail,フェリ,ありがとう、ルリア、[ジータ]。<br>改めて礼を言わせてほしい。,"고마워요, 루리아, [지타].<br>다시 한 번 고맙다고 말하고 싶어."
+Japanese,"scene_cp24_q4_s20,2442",detail,フェリ,ありがとう、ルリア、[플레이어]。<br>改めて礼を言わせてほしい。,"고마워요, 루리아, [플레이어].<br>다시 한 번 고맙다고 말하고 싶어."
 Japanese,"scene_cp24_q4_s20,2442",detail,루리아,ふふ……フェリちゃん、<br>お礼を言うのは、<br>全部が無事に終わってからです！,"후후……페리양,<br>고맙다는건,<br>모든게 무사히 끝난후에요!"
 Japanese,"scene_cp24_q4_s20,2442",detail,이오,ふふんっ！<br>ま、このイオちゃんがいる時点で、<br>負けるなんてありえないけどねっ！,"흠!<br>뭐, 이오가 있는 시점에서,<br>지는건 있을수 없지만 말야!"
 Japanese,"scene_cp24_q4_s20,2442",detail,로제타,ふふふ……<br>ようやくここまで来たんだもの、<br>ここで負けちゃ格好悪いわよね。,"후후……<br>드디어 여기까지 왔는데,<br>여기서 지면 꼴사납잖아."
-Japanese,"scene_cp24_q4_s20,2442",detail,비이,ここでしっかり、<br>決着つけてやろうぜ！<br>なぁ！ [ジータ]！,"여기서 확실히,<br>결착을 해보자구!<br>야! [지타]"
-Japanese,"scene_cp24_q4_s20,2442",detail,フェリ,[ジータ]……<br>私からも頼む……,[지타]……<br>나도 부탁해……
+Japanese,"scene_cp24_q4_s20,2442",detail,비이,ここでしっかり、<br>決着つけてやろうぜ！<br>なぁ！ [플레이어]！,"여기서 확실히,<br>결착을 해보자구!<br>야! [플레이어]"
+Japanese,"scene_cp24_q4_s20,2442",detail,フェリ,[플레이어]……<br>私からも頼む……,[플레이어]……<br>나도 부탁해……
 Japanese,"scene_cp24_q4_s20,2442",detail,フェリ,どうか……どうかこの島に、<br>正しい秩序を取り返してくれ……！！,부디……제발 이 섬에 <br>올바른 질서를 되찾아줘……!!
 Japanese,"scene_cp24_q4_s30,2443",synopsis,,セレストを倒し村人達が消えていく中、何故かフェリだけが消えることなく残る。そのことに、自分にはまだやることがあるのだろう、とフェリは微笑む。そして別行動をとっていたドランクはスツルムに、この島を訪れた真の目的を明かすのだった。,"셀레스트들을 무너뜨리고 마을 사람들이 사라지는 가운데 왠지 페리만이 사라지지 않고 남는다.게다가 자신은 아직 할 일이 있는 걸까, 라며 페리는 미소 짓는다.그리고 다른 행동을 취하고 있던 드렁크는 스툴름에게 이 섬을 방문한 진정한 목적을 밝히는 것이었다."
 Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,これで……全てが終わったのか……,이것으로……모든 것이 끝난 것일까……
@@ -96,7 +96,7 @@ Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,短い間だったけど、<b
 Japanese,"scene_cp24_q4_s30,2443",detail,フェリ,何十年……何百年か後に再会したら、<br>その時には、<br>お前達の冒険の話を聞かせてくれ。,"몇십년……몇백년인가 후에 재회하면,<br>그때는,<br>너희들의 모험이야기를 들려줘."
 Japanese,"scene_cp24_q4_s30,2443",detail,루리아,はい……,예………
 Japanese,"scene_cp24_q4_s30,2443",detail,비이,うぅ……<br>む、向こうでも元気でいろよな！,"우……<br>무, 저쪽에서도 건강하게 있어라!"
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>フェリは[ジータ]達に別れを告げ、</span><br><span class='scene-font-katari'>ゆっくりと目を閉じ時を待つ。</span>,<span class='scene-font-katari> 페리는 [지타]들에게 이별을 통보하고 </span><br><span class='scene-font-katari> 천천히 눈을 감고 때를 기다린다.</span>
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>フェリは[플레이어]達に別れを告げ、</span><br><span class='scene-font-katari'>ゆっくりと目を閉じ時を待つ。</span>,<span class='scene-font-katari> 페리는 [플레이어]들에게 이별을 통보하고 </span><br><span class='scene-font-katari> 천천히 눈을 감고 때를 기다린다.</span>
 Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>しかし、いくら待とうとも、</span><br><span class='scene-font-katari'>フェリの身体が霞の中に</span><br><span class='scene-font-katari'>消えていくことはなかった。</span>,<span class = 'scene-font-katari'> 그러나 아무리 기다리해도 </ span> <br> <span class = 'scene-font-katari'> 페리의 신체가 안개 속에 </ span> <br> <span class = 'scene-font-katari'> 사라진 것은 아니었다. </ span>
 Japanese,"scene_cp24_q4_s30,2443",detail,비이,おいおい、どうなってんだよ！？<br>さっきの感動の別れが、<br>台無しじゃねーか！？,"야야, 어떻게 된 거야!?<br>아까의 감동의 이별이,<br>망친거 아냐!?"
 Japanese,"scene_cp24_q4_s30,2443",detail,루리아,いいじゃないですかビィさん！<br>理由はどうあれ、<br>消えないで済んだんですから！,괜찮잖아요 뷔씨! <br> 이유야 어떻든 <br> 꺼지지 않고 끝났으니까요!
@@ -133,10 +133,10 @@ Japanese,"scene_cp24_q4_s30,2443",detail,스츠룸,残念だが……それは�
 Japanese,"scene_cp24_q4_s30,2443",detail,드랑크,じゃあ、そのお仕事はすっぽかそう！<br>よし、決まり！<br>それじゃあ、さっそく……痛てッ！？,"자, 그 일은 팽개치자!<br>좋아, 결정!그럼, 즉시……아파!?"
 Japanese,"scene_cp24_q4_s30,2443",detail,스츠룸,信用第一だ……あたし達の仕事はな。<br>ほら、もう行くぞ……,"신용 제일이야...우리의 일은.<br>자, 이제 간다……"
 Japanese,"scene_cp24_q4_s30,2443",detail,드랑크,ああ、待って待ってスツルム殿！<br>置いてかないでぇ～！,"아아, 기다려 기다려 스츠룸 나리!<br>놓지 말아줘~!"
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>思わぬ出会いを得た[ジータ]一行は</span><br><span class='scene-font-katari'>グランサイファーを修理するため、</span><br><span class='scene-font-katari'>あらためてガロンゾを目指す。</span>,<span class='scene-font-katari>뜻밖의 만남을 얻은 [지타] 일행은 </span><br><span class='scene-font-katari>그랜사이퍼를 다시 수리하기 위해 </span><br><span class='scene-katari> 그랜사이퍼를 수리하기 위해 다시 설정.
-Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>[ジータ]一行の進む先には、</span><br><span class='scene-font-katari'>更なる出会いと事件が</span><br><span class='scene-font-katari'>待ち構えているのだった。</span>,<span class = 'scene-font-katari'>[지타] 일행의 앞으로 끝에는 </ span> <br> <span class = 'scene-font-katari'> 더욱 만남과 사건이 </ span > <br> <span class = 'scene-font-katari'> 기다리고있는 것이었다. </ span>
-English,"scene_cp24_q1_s10,2411",synopsis,,"Celeste rises again before [Djeeta] and the others. They soon fall into despair, but Drang reassures them, saying they'll find a way to defeat it."
-English,"scene_cp24_q1_s10,2411",detail,,"Celeste appears before [Djeeta] and the others, though they're certain they'd just defeated it."
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>思わぬ出会いを得た[플레이어]一行は</span><br><span class='scene-font-katari'>グランサイファーを修理するため、</span><br><span class='scene-font-katari'>あらためてガロンゾを目指す。</span>,<span class='scene-font-katari>뜻밖의 만남을 얻은 [플레이어] 일행은 </span><br><span class='scene-font-katari>그랜사이퍼를 다시 수리하기 위해 </span><br><span class='scene-katari> 그랜사이퍼를 수리하기 위해 다시 설정.
+Japanese,"scene_cp24_q4_s30,2443",detail,,<span class='scene-font-katari'>[플레이어]一行の進む先には、</span><br><span class='scene-font-katari'>更なる出会いと事件が</span><br><span class='scene-font-katari'>待ち構えているのだった。</span>,<span class = 'scene-font-katari'>[플레이어] 일행의 앞으로 끝에는 </ span> <br> <span class = 'scene-font-katari'> 더욱 만남과 사건이 </ span > <br> <span class = 'scene-font-katari'> 기다리고있는 것이었다. </ span>
+English,"scene_cp24_q1_s10,2411",synopsis,,"Celeste rises again before [플레이어] and the others. They soon fall into despair, but Drang reassures them, saying they'll find a way to defeat it."
+English,"scene_cp24_q1_s10,2411",detail,,"Celeste appears before [플레이어] and the others, though they're certain they'd just defeated it."
 English,"scene_cp24_q1_s10,2411",detail,,"But this primal beast of death seems undeterred, rising to block their path once more."
 English,"scene_cp24_q1_s10,2411",detail,Celeste,...
 English,"scene_cp24_q1_s10,2411",detail,Vyrn,What's going on here? I thought we totally crushed that thing!
@@ -145,12 +145,12 @@ English,"scene_cp24_q1_s10,2411",detail,Ferry,Celeste has the power to overrule 
 English,"scene_cp24_q1_s10,2411",detail,Katalina,"It looks like it has... In that case, there's no way for us to go up against it..."
 English,"scene_cp24_q1_s10,2411",detail,Drang,Don't worry! It'll be just fine! We'll find a way to defeat it!
 English,"scene_cp24_q1_s10,2411",detail,Rosetta,I like your attitude! But first we need to get rid of these monsters heading our way.
-English,"scene_cp24_q1_s10,2411",detail,Rosetta,"Off we go, [Djeeta]! Don't let your guard down because it's too soon to give up hope!"
-English,"scene_cp24_q1_s20,2412",synopsis,,"Drang says that what they defeated was Celeste's ghost, and that they need to find the real Celeste. [Djeeta] decides to trust Drang, changing the hearts of the doubtful crew."
+English,"scene_cp24_q1_s10,2411",detail,Rosetta,"Off we go, [플레이어]! Don't let your guard down because it's too soon to give up hope!"
+English,"scene_cp24_q1_s20,2412",synopsis,,"Drang says that what they defeated was Celeste's ghost, and that they need to find the real Celeste. [플레이어] decides to trust Drang, changing the hearts of the doubtful crew."
 English,"scene_cp24_q1_s20,2412",detail,Drang,"So... that thing back there was Celeste's ghost or something, but if we find and defeat the real one, then that should settle it!"
 English,"scene_cp24_q1_s20,2412",detail,Katalina,"You seem to know a lot about this primal beast, but are you sure about this?"
 English,"scene_cp24_q1_s20,2412",detail,Drang,It's up to you whether to believe me or not!
-English,"scene_cp24_q1_s20,2412",detail,Drang,"What do you think, [Djeeta]?"
+English,"scene_cp24_q1_s20,2412",detail,Drang,"What do you think, [플레이어]?"
 English,"scene_cp24_q1_s20,2412",sel1_txt,,I believe you.
 English,"scene_cp24_q1_s20,2412",sel2_txt,,We've got no choice but to trust you.
 English,"scene_cp24_q1_s20,2412",detail,Vyrn,"Well, after coming this far, we've got no choice but to believe you!"
@@ -159,15 +159,15 @@ English,"scene_cp24_q1_s20,2412",detail,Katalina,Looks like it... I can't think 
 English,"scene_cp24_q1_s20,2412",detail,Vyrn,"We've come this far, so we've gotta try it! Drang, you better not let us down!"
 English,"scene_cp24_q1_s20,2412",detail,Drang,You can count on me! I'll show you how clever I really am!
 English,"scene_cp24_q1_s20,2412",detail,Io,"That's nice and all, but we've got some monsters to take care of! I'll get them in one sweep!"
-English,"scene_cp24_q2_s10,2421",synopsis,,"Lyria says she can help find the real Celeste. With Sturm and Drang fully on board with the plan, [Djeeta] and the crew attack the swarm of monsters approaching."
+English,"scene_cp24_q2_s10,2421",synopsis,,"Lyria says she can help find the real Celeste. With Sturm and Drang fully on board with the plan, [플레이어] and the crew attack the swarm of monsters approaching."
 English,"scene_cp24_q2_s10,2421",detail,Rosetta,We've fought through a lot of monsters now... I think we should start looking for the real Celeste.
 English,"scene_cp24_q2_s10,2421",detail,Lyria,"If we're looking for a primal beast, then leave the search to me!"
 English,"scene_cp24_q2_s10,2421",detail,Lyria,The real Celeste should be giving off a strong aura!
 English,"scene_cp24_q2_s10,2421",detail,Sturm,Sounds like you're the right person for the job... So leave the monsters to us.
 English,"scene_cp24_q2_s10,2421",detail,Drang,"Oh-ho-ho, what's this? Even Sturm is starting to get into the chase—ow!"
-English,"scene_cp24_q2_s10,2421",detail,Sturm,"Look, it's either all in or nothing for me. So let's do it, [Djeeta]. Let's get these monsters standing in our way!"
+English,"scene_cp24_q2_s10,2421",detail,Sturm,"Look, it's either all in or nothing for me. So let's do it, [플레이어]. Let's get these monsters standing in our way!"
 English,"scene_cp24_q2_s20,2422",synopsis,,"Lyria is unable to find any clear signs of Celeste because of the mist. Suddenly a ghostly Celeste appears and eats a zombie to regain power. Worried about the villagers, Ferry runs off on her own."
-English,"scene_cp24_q2_s20,2422",detail,Lyria,"Oh no... I'm so sorry, [Djeeta]. I don't think I can find Celeste..."
+English,"scene_cp24_q2_s20,2422",detail,Lyria,"Oh no... I'm so sorry, [플레이어]. I don't think I can find Celeste..."
 English,"scene_cp24_q2_s20,2422",detail,Vyrn,Say what! What does that mean?
 English,"scene_cp24_q2_s20,2422",detail,Lyria,Its aura is spread all over the island because of the mist... I just can't find the real Celeste.
 English,"scene_cp24_q2_s20,2422",detail,Katalina,Then we're in trouble. Searching with the naked eye is no good in this thick fog...
@@ -179,26 +179,26 @@ English,"scene_cp24_q2_s20,2422",detail,Vyrn,Hold on just a minute! Doesn't that
 English,"scene_cp24_q2_s20,2422",detail,Ferry,!
 English,"scene_cp24_q2_s20,2422",detail,Katalina,Wait! Ferry! Where are you going? You'll be in danger!
 English,"scene_cp24_q2_s20,2422",detail,Io,We're already in danger! Monsters are coming! And they'll get you if you're careless!
-English,"scene_cp24_q3_s10,2431",synopsis,,"Ferry returns with villagers eager to help search for Celeste. Delighted by their arrival, [Djeeta] and the others set about defeating the monsters in their way."
-English,"scene_cp24_q3_s10,2431",detail,Ferry,<span class='scene-font-italic'>Pant... Pant...</span> Lyria! [Djeeta]!
+English,"scene_cp24_q3_s10,2431",synopsis,,"Ferry returns with villagers eager to help search for Celeste. Delighted by their arrival, [플레이어] and the others set about defeating the monsters in their way."
+English,"scene_cp24_q3_s10,2431",detail,Ferry,<span class='scene-font-italic'>Pant... Pant...</span> Lyria! [플레이어]!
 English,"scene_cp24_q3_s10,2431",detail,Lyria,It's Ferry! And look who else!
 English,"scene_cp24_q3_s10,2431",detail,Villager 1,Need some help? Leave it to us!
 English,"scene_cp24_q3_s10,2431",detail,Villager 2,Ferry told us everything. We want to help.
 English,"scene_cp24_q3_s10,2431",detail,Ferry,"I brought the villagers. If we have to search, then together we should be able to cover the entire island!"
 English,"scene_cp24_q3_s10,2431",detail,Ferry,This is our island. And that's our enemy. We won't just sit around!
-English,"scene_cp24_q3_s10,2431",detail,Vyrn,"Well that's a big help! Right, [Djeeta]?"
+English,"scene_cp24_q3_s10,2431",detail,Vyrn,"Well that's a big help! Right, [플레이어]?"
 English,"scene_cp24_q3_s10,2431",detail,Katalina,I can't think of better allies than the very people who know this island by heart.
-English,"scene_cp24_q3_s10,2431",detail,Vyrn,"All right! Let's get rid of these annoying monsters and be on our way! Come on, [Djeeta]!"
-English,"scene_cp24_q3_s20,2432",synopsis,,"[Djeeta] and the others learn of Celeste's whereabouts. They set out to defeat her, battling monsters that cross their path along the way."
+English,"scene_cp24_q3_s10,2431",detail,Vyrn,"All right! Let's get rid of these annoying monsters and be on our way! Come on, [플레이어]!"
+English,"scene_cp24_q3_s20,2432",synopsis,,"[플레이어] and the others learn of Celeste's whereabouts. They set out to defeat her, battling monsters that cross their path along the way."
 English,"scene_cp24_q3_s20,2432",detail,Monster,...!
 English,"scene_cp24_q3_s20,2432",detail,Ferry,"Yes... Ah, I see. Thanks!"
-English,"scene_cp24_q3_s20,2432",detail,Ferry,Lyria! [Djeeta]! A ghost ship was spotted near that cliff in the distance!
+English,"scene_cp24_q3_s20,2432",detail,Ferry,Lyria! [플레이어]! A ghost ship was spotted near that cliff in the distance!
 English,"scene_cp24_q3_s20,2432",detail,Katalina,"We finally found it! However, it might be difficult to get there right away..."
 English,"scene_cp24_q3_s20,2432",detail,Monster,Groarrr!
 English,"scene_cp24_q3_s20,2432",detail,Rosetta,"It would seem that unless we do something about this little one, we can't pass through here."
 English,"scene_cp24_q3_s20,2432",detail,Vyrn,And there's no telling when Celeste will drop the anchor on the villagers!
 English,"scene_cp24_q3_s20,2432",detail,Vyrn,So let's pummel this thing and get going!
-English,"scene_cp24_q4_s10,2441",synopsis,,"[Djeeta] and the others hurry toward the cliff where Celeste is hiding. Ferry is grateful the villagers helped them find the primal beast, and is determined fight for them until the end."
+English,"scene_cp24_q4_s10,2441",synopsis,,"[플레이어] and the others hurry toward the cliff where Celeste is hiding. Ferry is grateful the villagers helped them find the primal beast, and is determined fight for them until the end."
 English,"scene_cp24_q4_s10,2441",detail,Io,Right up ahead! That's where the real Celeste is!
 English,"scene_cp24_q4_s10,2441",detail,Ferry,I see now! It was trying to hide in the shadow of the cliff.
 English,"scene_cp24_q4_s10,2441",detail,Rosetta,It would've been impossible to find in a place like that without lots of people searching.
@@ -206,19 +206,19 @@ English,"scene_cp24_q4_s10,2441",detail,Lyria,"We did it all thanks to you, Ferr
 English,"scene_cp24_q4_s10,2441",detail,Ferry,It's not me but the villagers you should be thanking. They're the reason we could find her.
 English,"scene_cp24_q4_s10,2441",detail,Ferry,Surely nothing would've been accomplished if I'd acted alone...
 English,"scene_cp24_q4_s10,2441",detail,Ferry,But it's not over yet! We have to stay sharp.
-English,"scene_cp24_q4_s10,2441",detail,Katalina,"I'm with you on this one. [Djeeta], time to focus!"
-English,"scene_cp24_q4_s20,2442",synopsis,,"[Djeeta] and the crew find the real Celeste, but Sturm and Drang have disappeared again. Ferry thanks [Djeeta] and makes one last wish that order be restored to the island."
+English,"scene_cp24_q4_s10,2441",detail,Katalina,"I'm with you on this one. [플레이어], time to focus!"
+English,"scene_cp24_q4_s20,2442",synopsis,,"[플레이어] and the crew find the real Celeste, but Sturm and Drang have disappeared again. Ferry thanks [플레이어] and makes one last wish that order be restored to the island."
 English,"scene_cp24_q4_s20,2442",detail,Celeste,...
 English,"scene_cp24_q4_s20,2442",detail,Vyrn,"That's the real Celeste, all right... Whoa! Did Sturm and Drang wander off somewhere again?"
 English,"scene_cp24_q4_s20,2442",detail,Katalina,Who knows? Maybe they decided they'd fulfilled their obligations.
 English,"scene_cp24_q4_s20,2442",detail,Katalina,"After all, those two played a great deal in getting us this far."
 English,"scene_cp24_q4_s20,2442",detail,Ferry,We certainly couldn't have pulled this off if I'd stayed shut in the mansion...
-English,"scene_cp24_q4_s20,2442",detail,Ferry,"Thank you, Lyria and [Djeeta]. I'm very grateful for what you've done."
+English,"scene_cp24_q4_s20,2442",detail,Ferry,"Thank you, Lyria and [플레이어]. I'm very grateful for what you've done."
 English,"scene_cp24_q4_s20,2442",detail,Lyria,"Oh, Ferry... Save your thanks until we actually get all this taken care of!"
 English,"scene_cp24_q4_s20,2442",detail,Io,"Ha! As long as I'm around, there's no way we can lose!"
 English,"scene_cp24_q4_s20,2442",detail,Rosetta,It would be a real shame if we came this far only to be beaten.
-English,"scene_cp24_q4_s20,2442",detail,Vyrn,"So we're gonna settle this once and for all! Right, [Djeeta]?"
-English,"scene_cp24_q4_s20,2442",detail,Ferry,"I'll make one last wish, [Djeeta]..."
+English,"scene_cp24_q4_s20,2442",detail,Vyrn,"So we're gonna settle this once and for all! Right, [플레이어]?"
+English,"scene_cp24_q4_s20,2442",detail,Ferry,"I'll make one last wish, [플레이어]..."
 English,"scene_cp24_q4_s20,2442",detail,Ferry,Please... Restore order to this island!
 English,"scene_cp24_q4_s30,2443",synopsis,,"Celeste is defeated and the villagers disappear. But Ferry remains, saying that she still has a part to play in this world. Drang reveals to Sturm his true purpose for coming to the island."
 English,"scene_cp24_q4_s30,2443",detail,Ferry,Is it... all over now?
@@ -269,5 +269,5 @@ English,"scene_cp24_q4_s30,2443",detail,Sturm,Too bad. That's going to have to w
 English,"scene_cp24_q4_s30,2443",detail,Drang,"Oh, we'll just blow it off! Good, that settles it! Let's hit the beach and—ow!"
 English,"scene_cp24_q4_s30,2443",detail,Sturm,"In our line of work, trust is paramount. Now, come on..."
 English,"scene_cp24_q4_s30,2443",detail,Drang,"Wait, Sturm! Wait! Don't leave me here!"
-English,"scene_cp24_q4_s30,2443",detail,,[Djeeta] and the crew set off again for Golonzo to have the Grandcypher repaired.
+English,"scene_cp24_q4_s30,2443",detail,,[플레이어] and the crew set off again for Golonzo to have the Grandcypher repaired.
 English,"scene_cp24_q4_s30,2443",detail,,"But on that island, a more curious encounter awaits them."

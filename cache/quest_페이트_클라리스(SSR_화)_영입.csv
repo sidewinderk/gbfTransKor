@@ -1,8 +1,8 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr145_ep1,synopsis,,魔物の討伐依頼を受けた一行の前に、助っ人としてクラリスという少女が現れる。引っ張られるようにして魔物を掃討した一行はクラリスと共に祝杯をあげる。そこで一行の旅の話を聞いたクラリスは、一行と共に旅がしたいと[ジータ]に頼み込むのだった。
+Japanese,scene_fate_chr145_ep1,synopsis,,魔物の討伐依頼を受けた一行の前に、助っ人としてクラリスという少女が現れる。引っ張られるようにして魔物を掃討した一行はクラリスと共に祝杯をあげる。そこで一行の旅の話を聞いたクラリスは、一行と共に旅がしたいと[플레이어]に頼み込むのだった。
 Japanese,scene_fate_chr145_ep1,detail,ビィ,ったく……<br>まだなのかよ？<br>その助っ人ってのはよぅ……
 Japanese,scene_fate_chr145_ep1,detail,ルリア,もう待ち合わせの時間は、<br>とっくに過ぎてるんですけど……<br>道に迷ったんでしょうか？
-Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>とある島で</span><br><span class='scene-font-katari'>山に蔓延る魔物の討伐依頼を受けた</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>とある島で</span><br><span class='scene-font-katari'>山に蔓延る魔物の討伐依頼を受けた</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>しかし、魔物の数が尋常ではないらしく、</span><br><span class='scene-font-katari'>助っ人と合流してから、</span><br><span class='scene-font-katari'>山へと向かう手筈となっていた。</span>
 Japanese,scene_fate_chr145_ep1,detail,ビィ,オイラもう<br>待ちくたびれちまったぜ……<br>なぁなぁ、先に行っちまっても……
 Japanese,scene_fate_chr145_ep1,detail,ルリア,あれ？ その後ろの人は……？
@@ -25,9 +25,9 @@ Japanese,scene_fate_chr145_ep1,detail,クラリス,うん、<br>うちみたい�
 Japanese,scene_fate_chr145_ep1,detail,ビィ,…………<br><span class='scene-font-kokoro'>（うるさい自覚はあるのか……）</span>
 Japanese,scene_fate_chr145_ep1,detail,クラリス,さてさて、面子は揃ったわけだし、<br>さっそく魔物退治といきましょーか！<br>えと……
 Japanese,scene_fate_chr145_ep1,detail,ルリア,あ、ル、ルリアですっ！<br>こちらはビィさん。
-Japanese,scene_fate_chr145_ep1,detail,ルリア,それで、[ジータ]が<br>私達の騎空団の団長さんなんです。
+Japanese,scene_fate_chr145_ep1,detail,ルリア,それで、[플레이어]が<br>私達の騎空団の団長さんなんです。
 Japanese,scene_fate_chr145_ep1,detail,クラリス,おっけー☆<br>それじゃ、遅刻しちゃったぶん、<br>クラリスちゃん頑張っちゃうよー！
-Japanese,scene_fate_chr145_ep1,detail,ビィ,あぁっ！ おい、待てって！<br>オイラ達も行こうぜ！ [ジータ]！
+Japanese,scene_fate_chr145_ep1,detail,ビィ,あぁっ！ おい、待てって！<br>オイラ達も行こうぜ！ [플레이어]！
 Japanese,scene_fate_chr145_ep1,detail,魔物,<span class='scene-font-5'>グルルルゥゥ……</span>
 Japanese,scene_fate_chr145_ep1,detail,クラリス,ふんふふ～ん♪<br>いやー、いっぱいいるねー
 Japanese,scene_fate_chr145_ep1,detail,ルリア,うぅ……<br>そ、それにどの魔物さんも、<br>すっごく強そうです……
@@ -47,9 +47,9 @@ Japanese,scene_fate_chr145_ep1,detail,ルリア,はわわわ……<br>こ、こ�
 Japanese,scene_fate_chr145_ep1,detail,クラリス,だいじょーぶ☆<br>依頼主さんも了承済みだよっ！
 Japanese,scene_fate_chr145_ep1,detail,クラリス,なんかね？<br>もともと開発する予定だったらしくて、<br>ついでに更地にしてくれって……
 Japanese,scene_fate_chr145_ep1,detail,クラリス,おっ！<br>残ってる魔物はっけーん☆
-Japanese,scene_fate_chr145_ep1,detail,クラリス,さっさと依頼を終わらせて、<br>いっしょに打ち上げでもしよっか！<br>ねっ？ [ジータ]！
+Japanese,scene_fate_chr145_ep1,detail,クラリス,さっさと依頼を終わらせて、<br>いっしょに打ち上げでもしよっか！<br>ねっ？ [플레이어]！
 Japanese,scene_fate_chr145_ep1,detail,ビィ,あっ、おい！<br>あいつまた勝手に……
-Japanese,scene_fate_chr145_ep1,detail,ルリア,わ、私達も<br>クラリスさんを手伝いましょう！<br>[ジータ]！
+Japanese,scene_fate_chr145_ep1,detail,ルリア,わ、私達も<br>クラリスさんを手伝いましょう！<br>[플레이어]！
 Japanese,scene_fate_chr145_ep1,detail,ルリア,と、というか、<br>ほどほどのところで、<br>クラリスさんを止めないと……！
 Japanese,scene_fate_chr145_ep1,detail,クラリス,お疲れ様でしたー！
 Japanese,scene_fate_chr145_ep1,detail,ルリア,お疲れ様でしたー！
@@ -72,7 +72,7 @@ Japanese,scene_fate_chr145_ep1,detail,クラリス,だよねー！<br>うちも�
 Japanese,scene_fate_chr145_ep1,detail,クラリス,うちのご先祖様が、<br>錬金術の開祖の妹だからって、<br>みっちり錬金術を仕込まれてさ……
 Japanese,scene_fate_chr145_ep1,detail,クラリス,そうやって開祖にあやかるくせに、<br>あの家は……
 Japanese,scene_fate_chr145_ep1,detail,クラリス,ああ、っと……ナシナシ！<br>暗い話はヤメだー！
-Japanese,scene_fate_chr145_ep1,detail,クラリス,今度はうちの番！<br>[ジータ]達は、<br>なんで旅をしてるの？
+Japanese,scene_fate_chr145_ep1,detail,クラリス,今度はうちの番！<br>[플레이어]達は、<br>なんで旅をしてるの？
 Japanese,scene_fate_chr145_ep1,detail,ビィ,オイラ達は、<br>星の島に行くために旅をしてんだ！
 Japanese,scene_fate_chr145_ep1,detail,クラリス,星の島……？
 Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>帝国に追われていることは伏せつつも、</span><br><span class='scene-font-katari'>自分達の旅のあらましを話す一行。</span>
@@ -86,15 +86,15 @@ Japanese,scene_fate_chr145_ep1,detail,ビィ,い、いやいやいや……<br>�
 Japanese,scene_fate_chr145_ep1,detail,クラリス,だーいーじょーぶだって！<br>それよりお願いっ！<br>うちのことも旅に連れてって！
 Japanese,scene_fate_chr145_ep1,sel1_txt,,<span class='scene-font-katari'>いいよ</span>
 Japanese,scene_fate_chr145_ep1,sel2_txt,,<span class='scene-font-katari'>条件がある</span>
-Japanese,scene_fate_chr145_ep1,detail,クラリス,ぃやった！<br>ありがとー！ [ジータ]！
+Japanese,scene_fate_chr145_ep1,detail,クラリス,ぃやった！<br>ありがとー！ [플레이어]！
 Japanese,scene_fate_chr145_ep1,detail,クラリス,条件？<br>えー……<br>なんか面倒なのじゃなきゃいーけど……
-Japanese,scene_fate_chr145_ep1,detail,ビィ,[ジータ]はクラリスに、<br>ちゃんと自分の旅の目的も、<br>達成してほしいみてーだぜ？
+Japanese,scene_fate_chr145_ep1,detail,ビィ,[플레이어]はクラリスに、<br>ちゃんと自分の旅の目的も、<br>達成してほしいみてーだぜ？
 Japanese,scene_fate_chr145_ep1,detail,クラリス,そーいうことかー……<br>んん……<br>じゃあ、それはそれで頑張るよっ！
 Japanese,scene_fate_chr145_ep1,detail,クラリス,それじゃ、改めて、<br>美少女錬金術師の<br>クラリスちゃんをよろしくね☆
-Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>こうして、錬金術師のクラリスを、</span><br><span class='scene-font-katari'>仲間に迎え入れる[ジータ]一行。</span>
+Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>こうして、錬金術師のクラリスを、</span><br><span class='scene-font-katari'>仲間に迎え入れる[플레이어]一行。</span>
 Japanese,scene_fate_chr145_ep1,detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>クラリスのそのテンションには、</span><br><span class='scene-font-katari'>なかなか付いて行けないのだった。</span>
-Japanese,scene_chr145_q1_s10,synopsis,,[ジータ]一行と共に依頼人を待つクラリスは、実家からの手紙を悩ましげに見つめ、破り捨てる。心配するルリアに飄々と対応するクラリス。そんな一行の元に、兵士に追われる依頼人が現れる。
-Japanese,scene_chr145_q1_s10,detail,,<span class='scene-font-katari'>ある夜の事。</span><br><span class='scene-font-katari'>街角で依頼人を待つ</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,scene_chr145_q1_s10,synopsis,,[플레이어]一行と共に依頼人を待つクラリスは、実家からの手紙を悩ましげに見つめ、破り捨てる。心配するルリアに飄々と対応するクラリス。そんな一行の元に、兵士に追われる依頼人が現れる。
+Japanese,scene_chr145_q1_s10,detail,,<span class='scene-font-katari'>ある夜の事。</span><br><span class='scene-font-katari'>街角で依頼人を待つ</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,scene_chr145_q1_s10,detail,,<span class='scene-font-katari'>そんな中、幽かな灯りで手元を照らし、</span><br><span class='scene-font-katari'>クラリスは一枚の手紙を見つめていた。</span>
 Japanese,scene_chr145_q1_s10,detail,クラリス,はぁ……
 Japanese,scene_chr145_q1_s10,detail,ルリア,あれ？<br>どうしたんですか？ クラリスさん。<br>ため息なんて珍しい……
@@ -120,7 +120,7 @@ Japanese,scene_chr145_q1_s10,detail,ビィ,うわっ！？<br>な、何だ！？
 Japanese,scene_chr145_q1_s10,detail,クラリス,さっそく来てるよ☆<br>それも団体さんだ！
 Japanese,scene_chr145_q1_s10,detail,兵士,くっ……<br>なんだこいつら……<br>傭兵か……？
 Japanese,scene_chr145_q1_s10,detail,クラリス,さてさて、それじゃあ……<br>さっそくお仕事、<br>始めちゃいますかぁー☆
-English,scene_fate_chr145_ep1,synopsis,,"An energetic girl named Clarisse helps the crew with a monster-hunting mission. While they celebrate their victory, she hears about the crew's journey and tells [Djeeta] she wants to join."
+English,scene_fate_chr145_ep1,synopsis,,"An energetic girl named Clarisse helps the crew with a monster-hunting mission. While they celebrate their victory, she hears about the crew's journey and tells [플레이어] she wants to join."
 English,scene_fate_chr145_ep1,detail,Vyrn,Ugh... I wonder how long our backup plans to keep us waiting.
 English,scene_fate_chr145_ep1,detail,Lyria,They should have been here by now. I wonder if they got lost.
 English,scene_fate_chr145_ep1,detail,,The crew has undertaken a mission to hunt down monsters running rampant in the mountains of a certain island.
@@ -146,9 +146,9 @@ English,scene_fate_chr145_ep1,detail,Clarisse,"Yep! And it's a good thing too, b
 English,scene_fate_chr145_ep1,detail,Vyrn,(I wonder if she knows how annoying she is all on her own...)
 English,scene_fate_chr145_ep1,detail,Clarisse,"Well, all hands are accounted for, so let's do some hunting! Um..."
 English,scene_fate_chr145_ep1,detail,Lyria,"Oh! I'm Lyria, and this is Vyrn."
-English,scene_fate_chr145_ep1,detail,Lyria,"And this is [Djeeta], the captain of our crew."
+English,scene_fate_chr145_ep1,detail,Lyria,"And this is [플레이어], the captain of our crew."
 English,scene_fate_chr145_ep1,detail,Clarisse,"Okay! I know I was late, so I'll try to make up for lost time!"
-English,scene_fate_chr145_ep1,detail,Vyrn,"Hey! Slow down! We're going too, y'know! Hurry, [Djeeta]!"
+English,scene_fate_chr145_ep1,detail,Vyrn,"Hey! Slow down! We're going too, y'know! Hurry, [플레이어]!"
 English,scene_fate_chr145_ep1,detail,Monster,Grrr...
 English,scene_fate_chr145_ep1,detail,Clarisse,Ha-ha! Oh my! There are so many of them!
 English,scene_fate_chr145_ep1,detail,Lyria,And they all look so strong!
@@ -168,9 +168,9 @@ English,scene_fate_chr145_ep1,detail,Lyria,Uh-oh... We might get in trouble for 
 English,scene_fate_chr145_ep1,detail,Clarisse,We'll be fine. I already cleared it with the client!
 English,scene_fate_chr145_ep1,detail,Clarisse,"As a matter of fact, the client plans to develop this land, so clearing the way was part of my mission."
 English,scene_fate_chr145_ep1,detail,Clarisse,Oh! Straggler sighted!
-English,scene_fate_chr145_ep1,detail,Clarisse,"Let's wrap up our mission and go party! Sound good, [Djeeta]?"
+English,scene_fate_chr145_ep1,detail,Clarisse,"Let's wrap up our mission and go party! Sound good, [플레이어]?"
 English,scene_fate_chr145_ep1,detail,Vyrn,Hey! Great. She ran off on her own again.
-English,scene_fate_chr145_ep1,detail,Lyria,"We should go help her! Come on, [Djeeta]!"
+English,scene_fate_chr145_ep1,detail,Lyria,"We should go help her! Come on, [플레이어]!"
 English,scene_fate_chr145_ep1,detail,Lyria,"If we don't stop her from getting carried away, who knows what could happen!"
 English,scene_fate_chr145_ep1,detail,Clarisse,"Well done, everyone!"
 English,scene_fate_chr145_ep1,detail,Lyria,Likewise!
@@ -196,7 +196,7 @@ English,scene_fate_chr145_ep1,detail,Clarisse,"Actually, never mind all that! It
 English,scene_fate_chr145_ep1,detail,Clarisse,Now it's my turn to ask questions! Why are you all traveling?
 English,scene_fate_chr145_ep1,detail,Vyrn,We're going to the Island of the Astrals!
 English,scene_fate_chr145_ep1,detail,Clarisse,The Island of the Astrals?
-English,scene_fate_chr145_ep1,detail,,"[Djeeta] and company tell Clarisse about their journey, though they avoid mentioning that the empire is after them."
+English,scene_fate_chr145_ep1,detail,,"[플레이어] and company tell Clarisse about their journey, though they avoid mentioning that the empire is after them."
 English,scene_fate_chr145_ep1,detail,Clarisse,Wow! That is so interesting! It really is! Can I go with you?
 English,scene_fate_chr145_ep1,detail,Vyrn,Huh? Where did that come from all of a sudden?
 English,scene_fate_chr145_ep1,detail,Lyria,And why would you want to travel with us?
@@ -207,15 +207,15 @@ English,scene_fate_chr145_ep1,detail,Vyrn,No big deal? Are you really sure about
 English,scene_fate_chr145_ep1,detail,Clarisse,It'll be fine! Please... you've just <span class='scene-font-italic'>got</span> to bring me with you!
 English,scene_fate_chr145_ep1,sel1_txt,,Sure thing.
 English,scene_fate_chr145_ep1,sel2_txt,,There are conditions.
-English,scene_fate_chr145_ep1,detail,Clarisse,"Yay! You're the best, [Djeeta]!"
+English,scene_fate_chr145_ep1,detail,Clarisse,"Yay! You're the best, [플레이어]!"
 English,scene_fate_chr145_ep1,detail,Clarisse,Conditions? I sure hope it's nothing too annoying...
 English,scene_fate_chr145_ep1,detail,Vyrn,I think the captain wants you to finish what you set out to do too.
 English,scene_fate_chr145_ep1,detail,Clarisse,I see... I guess I'll do my best with that too then!
 English,scene_fate_chr145_ep1,detail,Clarisse,I'll make sure you're glad to have an adorable alchemy prodigy like me along!
-English,scene_fate_chr145_ep1,detail,,Thus the alchemist Clarisse is welcomed into the crew by [Djeeta] and company.
+English,scene_fate_chr145_ep1,detail,,Thus the alchemist Clarisse is welcomed into the crew by [플레이어] and company.
 English,scene_fate_chr145_ep1,detail,,But they'll continue to find it almost impossible to keep up with her pace.
 English,scene_chr145_q1_s10,synopsis,,"As Clarisse waits for a client with the rest of the crew, she reads a letter from home... and then she rips it to shreds and brushes off Lyria's obvious concern. Suddenly the client appears with soldiers in pursuit."
-English,scene_chr145_q1_s10,detail,,[Djeeta] and company are waiting for their client on a street corner one night.
+English,scene_chr145_q1_s10,detail,,[플레이어] and company are waiting for their client on a street corner one night.
 English,scene_chr145_q1_s10,detail,,"Clarisse is reading a letter, assisted by a dim lamp."
 English,scene_chr145_q1_s10,detail,Clarisse,Sigh...
 English,scene_chr145_q1_s10,detail,Lyria,"What's wrong, Clarisse? I hardly ever hear you sigh like that."

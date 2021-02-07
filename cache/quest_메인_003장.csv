@@ -1,5 +1,5 @@
 0,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[ジータ]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。,"드디어 마을 코 앞까지 도착한 <span>[지타]</span> 일행. 그 때, 에르스테 제국 전함에서는  장군 퓰리어스가 드랑크와 스츠룸에게 짜증을 내면서도, 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다."
+Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[플레이어]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。,"드디어 마을 코 앞까지 도착한 <span>[플레이어]</span> 일행. 그 때, 에르스테 제국 전함에서는  장군 퓰리어스가 드랑크와 스츠룸에게 짜증을 내면서도, 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다."
 Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>,<span class='scene-font-place'>에르스테 제국</span><span class='scene-font-katari'>이 자랑하는 전함의 한 객실.</span><br><span class='scene-font-katari'>그 곳에선 한명의 장군이</span><br><span class='scene-font-katari'>비난의 목소리를 높이고 있었다.</span>
 Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>,<span class='scene-font-4'>어째서！？</span><br><span class='scene-font-4'>어?어?어?、어째서냐고！？</span>
 Japanese,"scene_cp3_q1_s10,311",detail,스츠룸,将軍閣下……申し訳ありません。,장군 각하……죄송합니다.
@@ -11,8 +11,8 @@ Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,じゃあ、お前でいい�
 Japanese,"scene_cp3_q1_s10,311",detail,제국병,そんな……,그런……
 Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,まぁ、時間を稼いでくれたおかげで、<br>計画は順調だからね……<br>ご覧よ、ふたりとも……この暴風を。,뭐어、시간을 벌어준 덕분에、<br>계획은 순조로우니까 말이지……<br>자 보라구、거기 둘도……이 풍경을.
 Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,この島……いや、この群島すべては、<br>じきに嵐の中に沈み、落ちていくんだ。<br>……暗い暗い空の底へとね。,"이 섬……아니、이 군도 모두、<br>곧 폭풍 속으로 가라앉아, 떨어지는거야.<br>……어둡고 어두운 하늘 저 바닥으로 말이지."
-Japanese,"scene_cp3_q1_s20,312",synopsis,,<span>[ジータ]</span>一行は街に帰り着くが、この嵐では帝国を迎え撃つより先に近くの島へ避難すべきだと判断する。脱出艇の操縦には相当の腕前が必要とされる中、凄腕の操舵士と謳われたラカムへと期待が集まる。,<span>[지타]</span> 일행은 마을에 도착했지만、이 폭풍에선 제국을 격퇴하는 것보다 먼저 가까운 섬에 피난 하는 것이 낫겠다고 판단한다. 탈출정의 조종에 상당한 실력이 요구되는 가운데 엄청난 실력의 조타수라고 불렸던 라캄에게 기대가 모여든다.
-Japanese,"scene_cp3_q1_s20,312",detail,,<span class='scene-font-katari'>[ジータ]達が、</span><br><span class='scene-font-katari'>ようやく戻った街は、</span><br><span class='scene-font-katari'>かつてない風雨に襲われていた。</span>,<span class='scene-font-katari'>[지타] 일행이、</span><br><span class='scene-font-katari'>겨우 돌아온 마을은、</span><br><span class='scene-font-katari'>전례없는 태풍비의 습격을 받고 있었다.</span>
+Japanese,"scene_cp3_q1_s20,312",synopsis,,<span>[플레이어]</span>一行は街に帰り着くが、この嵐では帝国を迎え撃つより先に近くの島へ避難すべきだと判断する。脱出艇の操縦には相当の腕前が必要とされる中、凄腕の操舵士と謳われたラカムへと期待が集まる。,<span>[플레이어]</span> 일행은 마을에 도착했지만、이 폭풍에선 제국을 격퇴하는 것보다 먼저 가까운 섬에 피난 하는 것이 낫겠다고 판단한다. 탈출정의 조종에 상당한 실력이 요구되는 가운데 엄청난 실력의 조타수라고 불렸던 라캄에게 기대가 모여든다.
+Japanese,"scene_cp3_q1_s20,312",detail,,<span class='scene-font-katari'>[플레이어]達が、</span><br><span class='scene-font-katari'>ようやく戻った街は、</span><br><span class='scene-font-katari'>かつてない風雨に襲われていた。</span>,<span class='scene-font-katari'>[플레이어] 일행이、</span><br><span class='scene-font-katari'>겨우 돌아온 마을은、</span><br><span class='scene-font-katari'>전례없는 태풍비의 습격을 받고 있었다.</span>
 Japanese,"scene_cp3_q1_s20,312",detail,라캄,なんなんだよこの雨……<br>いままでこんな嵐、<br>一度だってなかったぜ？,대체 뭐냐고 이 비……<br>지금까지 이런 폭풍、<br>한번도 없었다고？
 Japanese,"scene_cp3_q1_s20,312",detail,셰로카르테,変ですよね～<br>さっきまでは晴れてたんですけどね～,이상하네요～<br>좀 전까지는 맑았는데 말이죠～
 Japanese,"scene_cp3_q1_s20,312",detail,카타리나,この天候では、<br>帝国を迎え撃つなどという話を<br>している場合ではないな……,이 날씨에는、<br>제국을 격퇴하자는 이야기를<br>하고 있을 때가 아니군……
@@ -28,9 +28,9 @@ Japanese,"scene_cp3_q1_s20,312",detail,루리아,…………,…………
 Japanese,"scene_cp3_q1_s20,312",detail,라캄,な、なんだよ……？,뭐、뭐야……？
 Japanese,"scene_cp3_q1_s20,312",detail,마을사람3,おい！ 大変だ！<br>嵐に紛れて<br>魔物が街のすぐ近くまで来てるぞ！,어이！ 큰일이야！<br>폭풍에 휩쓸려서<br>마물이 마을 코 앞까지 와있다고！
 Japanese,"scene_cp3_q1_s20,312",detail,라캄,言いたいことがあるのはわかるが……<br>まずはこっちが先だ！,말하고 싶은게 있는 건 알겠는데……<br>일단은 이 녀석이 먼저다！
-Japanese,"scene_cp3_q1_s20,312",detail,라캄,[ジータ]！<br>ちゃっちゃと片付けるぞ！,[지타]！<br>쓱싹 처리해버리자고！
+Japanese,"scene_cp3_q1_s20,312",detail,라캄,[플레이어]！<br>ちゃっちゃと片付けるぞ！,[플레이어]！<br>쓱싹 처리해버리자고！
 Japanese,"scene_cp3_q2_s10,321",synopsis,,ラカムは過去の墜落を街の皆に語り、脱出艇の舵を握ることを拒む。しかし、街の住人達はそれでもラカムの腕を信じ、その思いに応えるべくラカムは覚悟を決める。,"라캄은 과거의 추락을 마을의 모두에게 이야기하고, 탈주정의 키를 잡는 것을 거부한다. 하지만, 마을 주민들은 그럼에도 라캄의 실력을 믿었고, 그 마음에 응하기 위해 라캄은 각오를 다진다."
-Japanese,"scene_cp3_q2_s10,321",detail,라캄,――いいか？<br>確かに俺は[ジータ]と一緒に、<br>帝国と戦うとは言ったぜ？,――알겠어？<br>확실히 나는 [지타]와 일행에게、<br>제국과 싸우겠다고는 말했다고？
+Japanese,"scene_cp3_q2_s10,321",detail,라캄,――いいか？<br>確かに俺は[플레이어]と一緒に、<br>帝国と戦うとは言ったぜ？,――알겠어？<br>확실히 나는 [플레이어]와 일행에게、<br>제국과 싸우겠다고는 말했다고？
 Japanese,"scene_cp3_q2_s10,321",detail,라캄,でもな、騎空艇を操縦するかどうかは、<br>それとはまた別の問題で……,그런데 말야、기공정을 조종할지 말지는、<br>그거랑은 다른 문제로……
 Japanese,"scene_cp3_q2_s10,321",detail,카타리나,しかし、この状況ではもう、<br>私達も街の人も、<br>頼れるのは君だけなんだ……,그렇지만、이 상황에서는 역시、<br>우리들도 마을 사람들도、<br>믿을 수 있는 것은 자네 뿐이다……
 Japanese,"scene_cp3_q2_s10,321",detail,셰로카르테,そうですよ～<br>汚名返上のチャンスですよ～？,그렇네요～<br>오명회복의 찬스라구요～？
@@ -49,10 +49,10 @@ Japanese,"scene_cp3_q2_s10,321",detail,라캄,お前ら……,너희들……
 Japanese,"scene_cp3_q2_s10,321",sel1_txt,,<span class='scene-font-katari'>脱出艇へ行こう</span>,<span class='scene-font-katari'>탈주정으로 가자</span>
 Japanese,"scene_cp3_q2_s10,321",sel2_txt,,<span class='scene-font-katari'>まだ不安？</span>,<span class='scene-font-katari'>아직 불안해？</span>
 Japanese,"scene_cp3_q2_s10,321",detail,라캄,そうだな……<br>みんなが腹くくってんだ……<br>俺が女々しくっちゃ話にならねぇよな！,그렇군……<br>모두가 각오를 다지고있어……<br>내가 쫄아있으면 말이 안되지！
-Japanese,"scene_cp3_q2_s10,321",detail,라캄,いや……<br>ありがとよ、[ジータ]……,아니……<br>고맙다、[지타]……
+Japanese,"scene_cp3_q2_s10,321",detail,라캄,いや……<br>ありがとよ、[플레이어]……,아니……<br>고맙다、[플레이어]……
 Japanese,"scene_cp3_q2_s10,321",detail,라캄,俺だってなぁ……<br>てめぇらの期待に応えるくらいの<br>甲斐性はあらぁ！！,아무리 나라도 말야……<br>네 놈들의 기대에 부응할 정도의<br>융통성은 있다고！！
 Japanese,"scene_cp3_q2_s10,321",detail,비이,よっしゃ！<br>そんならすぐにみんなを連れて<br>脱出艇に向かおうぜ！,좋았어！<br>그럼 어서 모두를 데리고<br>탈주정으로 가자고！
-Japanese,"scene_cp3_q2_s20,322",synopsis,,ラカムを加えた<span>[ジータ]</span>一行は、街の住人を連れて脱出艇へと向かう。その道中、ラカムはこの突然の嵐に疑問を持つ。,"라캄과 함께 <span>[지타]</span>일행은 마을 주민을 데리고 탈주정으로 향한다. 그 도중, 라캄은 이 급작스러운 폭풍에 의문을 품는다."
+Japanese,"scene_cp3_q2_s20,322",synopsis,,ラカムを加えた<span>[플레이어]</span>一行は、街の住人を連れて脱出艇へと向かう。その道中、ラカムはこの突然の嵐に疑問を持つ。,"라캄과 함께 <span>[플레이어]</span>일행은 마을 주민을 데리고 탈주정으로 향한다. 그 도중, 라캄은 이 급작스러운 폭풍에 의문을 품는다."
 Japanese,"scene_cp3_q2_s20,322",detail,라캄,それにしても、変な嵐だな……,그렇다곤해도、이상한 폭풍이군……
 Japanese,"scene_cp3_q2_s20,322",detail,카타리나,変とは……？<br>ラカム、この嵐に何か<br>思うところがあるのか？,이상하다니……？<br>라캄、이 폭풍에 뭔가<br>짚이는 데라도 있는지？
 Japanese,"scene_cp3_q2_s20,322",detail,라캄,思うところも何も、<br>そもそもこの<span class='scene-font-place'>ポート・ブリーズ</span>で<br>嵐になること自体、珍しいんだよ。,짚이고 자시기고、<br>애초에 이 <span class='scene-font-place'>포트・브리즈</span>에서<br>폭풍이 오는 것 자체가、드물다고.
@@ -60,10 +60,10 @@ Japanese,"scene_cp3_q2_s20,322",detail,비이,そういや、なんか言って�
 Japanese,"scene_cp3_q2_s20,322",detail,라캄,ああ、そうさ……<br>この島に吹く風は全て、<br>ティアマトっつー守り神様の息吹なんだ。,응、그래……<br>이 섬에 부는 바람은 모두、<br>티아마트 라는 수호신의 숨결이야.
 Japanese,"scene_cp3_q2_s20,322",detail,카타리나,守り神……おそらくは星晶獣か。<br>そのティアマトとやらに、<br>何かあったのかもしれないな。,수호신……어쩌면 성정수 일수도.<br>그 티아마트라는 것에、<br>무슨 일이 생긴걸지도 모르겠군.
 Japanese,"scene_cp3_q2_s20,322",detail,라캄,何百年も前からの言い伝えだぜ？<br>ティアマトなんて<br>本当にいるかどうか……,수백년 전부터 전해지던 이야기었다고？<br>티아마트도<br>정말로 있을지 없을지……
-Japanese,"scene_cp3_q2_s20,322",detail,루리아,います……いますよ、絶対に。<br>ティアマトは、この島に……<br>[ジータ]にも……わかりますか？,있어요……있어요、확실히.<br>티아마트는、이 섬에……<br>[지타]도……느껴지나요？
+Japanese,"scene_cp3_q2_s20,322",detail,루리아,います……いますよ、絶対に。<br>ティアマトは、この島に……<br>[플레이어]にも……わかりますか？,있어요……있어요、확실히.<br>티아마트는、이 섬에……<br>[플레이어]도……느껴지나요？
 Japanese,"scene_cp3_q2_s20,322",detail,라캄,お、おい、嬢ちゃん？<br>どうしたんだよ、急に。,어、어이、아가씨？<br>어떻게 된거야、갑자기.
 Japanese,"scene_cp3_q2_s20,322",detail,루리아,聞こえるんです……<br>それに感じる……<br>吹き荒ぶ風の、強大な星の力を……,들려와요……<br>그리고 느껴져요……<br>세차게 부는 바람의、강대한 별의 힘이……
-Japanese,"scene_cp3_q3_s10,331",synopsis,,街の住人を連れ、<span>[ジータ]</span>一行は嵐から逃れるための脱出艇がある洞窟へと急ぐ。しかし、洞窟には、まるでこの状況を先読みしていたかのように、フュリアス率いる帝国軍が待ち構えていた。,마을 주민을 데리고、<span>[지타]</span>일행은 폭풍에서 벗어나기 위해 탈주정이 있는 동굴로 서두른다. 하지만、동굴에는、마치 이 상태를 예지한 것처럼、퓰리어스가 이끄는 제국군이 기다리고 있었다.
+Japanese,"scene_cp3_q3_s10,331",synopsis,,街の住人を連れ、<span>[플레이어]</span>一行は嵐から逃れるための脱出艇がある洞窟へと急ぐ。しかし、洞窟には、まるでこの状況を先読みしていたかのように、フュリアス率いる帝国軍が待ち構えていた。,마을 주민을 데리고、<span>[플레이어]</span>일행은 폭풍에서 벗어나기 위해 탈주정이 있는 동굴로 서두른다. 하지만、동굴에는、마치 이 상태를 예지한 것처럼、퓰리어스가 이끄는 제국군이 기다리고 있었다.
 Japanese,"scene_cp3_q3_s10,331",detail,,<span class='scene-font-katari'>徐々に強くなる嵐の中、</span><br><span class='scene-font-katari'>街の住人を連れた一同は、</span><br><span class='scene-font-katari'>脱出艇のある渓谷へと辿り着いた。</span>,<span class='scene-font-katari'>계속헤서 강해지는 폭풍 속에서、</span><br><span class='scene-font-katari'>마을 주민과 함께 이동하던 일동은、</span><br><span class='scene-font-katari'>탈주정이 있는 골짜기에 도착했다.</span>
 Japanese,"scene_cp3_q3_s10,331",detail,비이,こいつが脱出艇だな！,이녀석이 탈주정인가！
 Japanese,"scene_cp3_q3_s10,331",detail,루리아,これなら、<br>街の人もみんな乗れそうですね！,이거라면、<br>마을 사람들 모두가 탈 수 있겟어요！
@@ -78,8 +78,8 @@ Japanese,"scene_cp3_q3_s10,331",detail,퓨리어스,当たり前だろ？<br>高
 Japanese,"scene_cp3_q3_s10,331",detail,루리아,カタリナ……<br>あの人……なんだか変な感じがする。<br>怖いよ……,카타리나……<br>저 사람……뭔가 이상한 느낌이 들어.<br>무서워……
 Japanese,"scene_cp3_q3_s10,331",detail,카타리나,大丈夫だ、ルリア。<br>何も心配することはない……,괜찮다、루리아.<br>걱정할 거 없어……
 Japanese,"scene_cp3_q3_s10,331",detail,마을사람,ひぃっ！？<br>へ、兵隊が……！！,히익！？<br>벼、병사가……！！
-Japanese,"scene_cp3_q3_s10,331",detail,비이,とにかく街の人を守らねぇと！<br>[ジータ]！<br>帝国の連中を追っ払うぞ！,어쨌든 마을 사람들을 지키자고！<br>[지타]！<br>제국녀석들을 물리치자！
-Japanese,"scene_cp3_q3_s20,332",synopsis,,街人を帝国兵から守る<span>[ジータ]</span>一行だが、徐々にその数の差に圧倒され始める。そんな中、住人達の頼みであった脱出艇が突如爆発する。,주민을 제국병으로부터 지키는 <span>[지타]</span> 일행이었지만、계속해서 그 수의 차이에 압도되기 시작한다. 그런 도중、주민들의 희망이었던 탈주정이 갑자기 폭발한다.
+Japanese,"scene_cp3_q3_s10,331",detail,비이,とにかく街の人を守らねぇと！<br>[플레이어]！<br>帝国の連中を追っ払うぞ！,어쨌든 마을 사람들을 지키자고！<br>[플레이어]！<br>제국녀석들을 물리치자！
+Japanese,"scene_cp3_q3_s20,332",synopsis,,街人を帝国兵から守る<span>[플레이어]</span>一行だが、徐々にその数の差に圧倒され始める。そんな中、住人達の頼みであった脱出艇が突如爆発する。,주민을 제국병으로부터 지키는 <span>[플레이어]</span> 일행이었지만、계속해서 그 수의 차이에 압도되기 시작한다. 그런 도중、주민들의 희망이었던 탈주정이 갑자기 폭발한다.
 Japanese,"scene_cp3_q3_s20,332",detail,카타리나,ある程度は退かせたが、<br>これではキリがないな……,어느정도는 쓰러뜨렸지만、<br>이래서는 끝이 없겠군……
 Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,いいねぇ……<br>ねぇねぇねぇ、疲れた？ 限界？,좋아……<br>응?응?응? 이제 지쳤어？ 한계야？
 Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,でもね……<br>メインディッシュは、<br>まだこれからなんだ。,그래도말야……<br>메인 디시는、<br>이제부터야.
@@ -93,9 +93,9 @@ Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,そうだよ、爆破した�
 Japanese,"scene_cp3_q3_s20,332",detail,라캄,てめぇ……！！<br>なんでこんなことを！？,이자식……！！<br>어째서 그런 일을！？
 Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,知りたい？ 知りたいよね？<br>そうだなぁ……<br>生き残ってたら教えてあげるよ。,알고싶어？ 알고싶지？<br>그럼……<br>살아남을 수 있으면 알려줄게.
 Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,だから、まぁ、せいぜい頑張れば？,그러니까、뭐어、부디 힘내줘？
-Japanese,"scene_cp3_q3_s20,332",detail,카타리나,外道が……！！<br>[ジータ]！ 止めてくれるなよ……,악독한 놈이……！！<br>[지타]！ 날 막지마라……
+Japanese,"scene_cp3_q3_s20,332",detail,카타리나,外道が……！！<br>[플레이어]！ 止めてくれるなよ……,악독한 놈이……！！<br>[플레이어]！ 날 막지마라……
 Japanese,"scene_cp3_q3_s20,332",detail,카타리나,奴の手の者など……<br>この私が叩き切ってくれる！！,녀석의 부하는……<br>내가 직접 날려버리겠어！！
-Japanese,"scene_cp3_q4_s10,341",synopsis,,フュリアスの手によって脱出艇が破壊され、街の住人と共に絶体絶命の状況へと追い込まれる<span>[ジータ]</span>一行。そんな中、嵐の原因は星晶獣ティアマトであることを知る。,퓰리어스의 손에 의해 탈주정이 폭발하고、마을 주민과 함께 절체절명의 상태에 몰린 <span>[지타]</span> 일행。그런 도중、폭풍의 원인은 성정수 티아마트였다는걸 알게된다.
+Japanese,"scene_cp3_q4_s10,341",synopsis,,フュリアスの手によって脱出艇が破壊され、街の住人と共に絶体絶命の状況へと追い込まれる<span>[플레이어]</span>一行。そんな中、嵐の原因は星晶獣ティアマトであることを知る。,퓰리어스의 손에 의해 탈주정이 폭발하고、마을 주민과 함께 절체절명의 상태에 몰린 <span>[플레이어]</span> 일행。그런 도중、폭풍의 원인은 성정수 티아마트였다는걸 알게된다.
 Japanese,"scene_cp3_q4_s10,341",detail,퓨리어스,――やるねぇ！<br>うんうん、やっぱり君達って、<br>見所があるなぁ。,――제법이네！<br>응응、역시 너희들、<br>장래성이 있네.
 Japanese,"scene_cp3_q4_s10,341",detail,라캄,黙れ！ 今度はてめぇの番だぞ！,닥쳐라！ 이번엔 네 차례라고！
 Japanese,"scene_cp3_q4_s10,341",detail,라캄,嵐がこれ以上強くなる前に、<br>街のみんなをどこかに、<br>避難させねぇと……,폭풍이 이 이상 강해지기 전에、<br>마을 모두를 어딘가에、<br>피난시켜야……
@@ -115,9 +115,9 @@ Japanese,"scene_cp3_q4_s10,341",detail,마을사람2,そんな……私達もう
 Japanese,"scene_cp3_q4_s10,341",detail,퓨리어스,そうそう……それとね？<br>この群島から逃げようとする騎空艇は、<br>みんなまとめて撃ち落とすから。,그래그래……그리고 말야？<br>이 군도에서 도망치려고 한 기공정들은、<br>모두 합쳐서 격추시킬꺼니까.
 Japanese,"scene_cp3_q4_s10,341",detail,퓨리어스,わかるよね？ ね？<br>つまり、お前らにはもう、<br>逃げ場なんてどこにもねぇんだよ！！,이해하지？ 응？<br>즉、너희들한테는 이제、<br>도망갈 데가 없다고！！
 Japanese,"scene_cp3_q4_s10,341",detail,라캄,<span class='scene-font-4'>ふざけんなよ！！</span><br>てめぇら、この街の住人を<br>何だと思ってやがる！？,<span class='scene-font-4'>웃기지마！！</span><br>네 놈들、이 마을의 주민을<br>뭐라고 생각하는거냐！？
-Japanese,"scene_cp3_q4_s10,341",detail,카타리나,[ジータ]！<br>とりあえず、屋外のここは危険だ！<br>住人達を、一度街に戻そう！,[지타]！<br>우선、밖인 이곳은 위험하다！<br>주민들을、일단 마을로 돌려보내자！
+Japanese,"scene_cp3_q4_s10,341",detail,카타리나,[플레이어]！<br>とりあえず、屋外のここは危険だ！<br>住人達を、一度街に戻そう！,[플레이어]！<br>우선、밖인 이곳은 위험하다！<br>주민들을、일단 마을로 돌려보내자！
 Japanese,"scene_cp3_q4_s10,341",detail,카타리나,その間、魔物や帝国の兵士は、<br>こちらで相手をせねばな……いくぞ！,그 동안、마물이나 제국 병사는、<br>여기서 상대해야겠지……가자！
-Japanese,"scene_cp3_q4_s20,342",synopsis,,帝国兵をなんとか撒くが、<span>[ジータ]</span>一行には暗い雰囲気が漂い始める。しかし、ルリアは決して希望を捨てはしなかった。,제국병을 어떻게든 따돌렸지만、<span>[지타]</span> 일행에게 어두운 분위기가 감돌기 시작한다. 하지만、루리아는 결코 희망을 잃지 않았다.
+Japanese,"scene_cp3_q4_s20,342",synopsis,,帝国兵をなんとか撒くが、<span>[플레이어]</span>一行には暗い雰囲気が漂い始める。しかし、ルリアは決して希望を捨てはしなかった。,제국병을 어떻게든 따돌렸지만、<span>[플레이어]</span> 일행에게 어두운 분위기가 감돌기 시작한다. 하지만、루리아는 결코 희망을 잃지 않았다.
 Japanese,"scene_cp3_q4_s20,342",detail,루리아,もう帝国の人達は、<br>追ってきていないみたいです……,이제 제국 사람들은、<br>따라오지 않는거 같아요……
 Japanese,"scene_cp3_q4_s20,342",detail,비이,そりゃそうだろうぜ……<br>あとは放っておいても、<br>この島に居る奴はみんな……,거야 그렇겠지……<br>이제 놓아줘도、<br>이 섬에 있는 녀석은 모두……
 Japanese,"scene_cp3_q4_s20,342",detail,카타리나,ビィくん、それ以上は言うな。<br>まだ私達は、<br>諦めるわけにはいかないのだからな……,비이군、그 이상은 말하지마라.<br>아직 우리들은、<br>포기할 수는 없으니까……
@@ -144,15 +144,15 @@ Japanese,"scene_cp3_q4_s30,343",detail,비이,ちょ、ちょっと待てよ！<
 Japanese,"scene_cp3_q4_s30,343",detail,라캄,ああ……それに、<span class='scene-font-spword'>星の民</span>はもう、<br>何百年も前の覇空戦争で姿を消して<br>子孫はいないって聞いてるぜ？,그래……거기에、<span class='scene-font-spword'>별의 민족</span>은 이미、<br>수백년도 더 전의 패공전쟁에서 모습을 감췄고<br>자손은 없다고 들었다고？
 Japanese,"scene_cp3_q4_s30,343",detail,카타리나,ルリアは、<span class='scene-font-spword'>星の民</span>の子孫ではないよ。<br>……おそらくな。,루리아는、<span class='scene-font-spword'>별의 민족</span>의 자손은 아니다.<br>……아마도.
 Japanese,"scene_cp3_q4_s30,343",detail,카타리나,理由も原理もわからない……<br>しかし、ルリアには確かに、<br>そういう力がある。,이유도 원인도 모른다……<br>하지만、루리아에겐 확실히、<br>그런 힘이 있다.
-Japanese,"scene_cp3_q4_s30,343",detail,비이,あ！ なぁ、[ジータ]！<br><span class='scene-font-place'>ザンクティンゼル</span>で現れた星晶獣も、<br>もしかして……,아！ 어이、[지타]！<br><span class='scene-font-place'>장크틴젤</span>에서 나타났던 성정수도、<br>혹시……
+Japanese,"scene_cp3_q4_s30,343",detail,비이,あ！ なぁ、[플레이어]！<br><span class='scene-font-place'>ザンクティンゼル</span>で現れた星晶獣も、<br>もしかして……,아！ 어이、[플레이어]！<br><span class='scene-font-place'>장크틴젤</span>에서 나타났던 성정수도、<br>혹시……
 Japanese,"scene_cp3_q4_s30,343",detail,카타리나,その可能性はある……<br>しかし、これは謎の多い力なんだ。<br>結局、帝国も何も解明できなかった。,그럴 가능성이 있다……<br>하지만、이건 아직 수수께끼가 많은 힘이다. <br>결국、제국도 아무것도 해명할 수 없었다.
 Japanese,"scene_cp3_q4_s30,343",detail,카타리나,そんな力を多用すれば、<br>ルリアにどんな影響があるか……,그런 힘을 많이 사용하면、<br>루리아에게 어떤 영향이 있을지……
-Japanese,"scene_cp3_q4_s30,343",detail,루리아,私は大丈夫。<br>だって、みんなが……<br>[ジータ]が居てくれるから……,나는 괜찮아.<br>하지만、모두가……<br>[지타]가 곁에 있어준다면……
+Japanese,"scene_cp3_q4_s30,343",detail,루리아,私は大丈夫。<br>だって、みんなが……<br>[플레이어]が居てくれるから……,나는 괜찮아.<br>하지만、모두가……<br>[플레이어]가 곁에 있어준다면……
 Japanese,"scene_cp3_q4_s30,343",detail,루리아,行きましょう、ラカムさん。<br>風の大星晶獣……<br>ティアマトを止めるために……！！,가요、라캄씨.<br>바람의 대성정수……<br>티아마트를 멈추기 위해서……！！
 Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>ルリアの決意に、</span><br><span class='scene-font-katari'>一筋の希望の光が差し込む。</span>,<span class='scene-font-katari'>루리아의 결의로、</span><br><span class='scene-font-katari'>한줄기 희망의 빛이 비춘다.</span>
-Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>その輝きを頼りに、</span><br><span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>ティアマトの元へと向かう。</span>,<span class='scene-font-katari'>그 빛에 의지하여、</span><br><span class='scene-font-katari'>[지타] 일행은、</span><br><span class='scene-font-katari'>티아마트가 있는 곳으로 향한다.</span>
+Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>その輝きを頼りに、</span><br><span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>ティアマトの元へと向かう。</span>,<span class='scene-font-katari'>그 빛에 의지하여、</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>티아마트가 있는 곳으로 향한다.</span>
 
-English,"scene_cp3_q1_s10,311",synopsis,,"Major General Furias is angry that Sturm and Drang failed to stop [Djeeta] and the others, but his plan is still unfolding."
+English,"scene_cp3_q1_s10,311",synopsis,,"Major General Furias is angry that Sturm and Drang failed to stop [플레이어] and the others, but his plan is still unfolding."
 English,"scene_cp3_q1_s10,311",detail,,"On an Erste Empire warship, a major general barks at two lackeys who've just returned."
 English,"scene_cp3_q1_s10,311",detail,Furias,How'd this happen? Why and how and why!
 English,"scene_cp3_q1_s10,311",detail,Sturm,"My apologies, sir. We have no excuse."
@@ -164,8 +164,8 @@ English,"scene_cp3_q1_s10,311",detail,Furias,Then I'll punish you instead. One c
 English,"scene_cp3_q1_s10,311",detail,Imperial Soldier,"But, sir..."
 English,"scene_cp3_q1_s10,311",detail,Furias,"Regardless, you two still managed to buy me some time, and my plan's moving right along. Just look at this storm!"
 English,"scene_cp3_q1_s10,311",detail,Furias,Soon this island—No! The entire archipelago will be plunged into the darkest depths of the sky...
-English,"scene_cp3_q1_s20,312",synopsis,,"Due to a heavy storm, [Djeeta] and the others must use an escape airship to evacuate the townspeople. But Rackam is the only helmsman around."
-English,"scene_cp3_q1_s20,312",detail,,"[Djeeta] and the others finally reach the town, which is weathering strong winds and rain."
+English,"scene_cp3_q1_s20,312",synopsis,,"Due to a heavy storm, [플레이어] and the others must use an escape airship to evacuate the townspeople. But Rackam is the only helmsman around."
+English,"scene_cp3_q1_s20,312",detail,,"[플레이어] and the others finally reach the town, which is weathering strong winds and rain."
 English,"scene_cp3_q1_s20,312",detail,Rackam,What's going on with this rain? I've never seen a storm like this before!
 English,"scene_cp3_q1_s20,312",detail,Sierokarte,How strange... It was clear just a moment ago.
 English,"scene_cp3_q1_s20,312",detail,Katalina,We can't fight back the empire in this kind of weather.
@@ -181,7 +181,7 @@ English,"scene_cp3_q1_s20,312",detail,Lyria,...
 English,"scene_cp3_q1_s20,312",detail,Rackam,Why are you all looking at me?
 English,"scene_cp3_q1_s20,312",detail,Townsperson 3,We're in trouble! Monsters confused by the storm are nearing the town!
 English,"scene_cp3_q1_s20,312",detail,Rackam,Let's handle this first. You can lecture me about piloting later!
-English,"scene_cp3_q1_s20,312",detail,Rackam,"[Djeeta], let's take out these monsters!"
+English,"scene_cp3_q1_s20,312",detail,Rackam,"[플레이어], let's take out these monsters!"
 English,"scene_cp3_q2_s10,321",synopsis,,"Rackam refuses to pilot the escape airship. But when the townsfolk show their faith in him, he decides to take the helm once again."
 English,"scene_cp3_q2_s10,321",detail,Rackam,"Look, I know I agreed to fight the empire with you guys..."
 English,"scene_cp3_q2_s10,321",detail,Rackam,But piloting airships is a whole other matter!
@@ -202,7 +202,7 @@ English,"scene_cp3_q2_s10,321",detail,Rackam,You guys...
 English,"scene_cp3_q2_s10,321",sel1_txt,,Let's get to that airship!
 English,"scene_cp3_q2_s10,321",sel2_txt,,Are you still worried?
 English,"scene_cp3_q2_s10,321",detail,Rackam,You're right. Everyone's already prepared for the worst. I can't chicken out here!
-English,"scene_cp3_q2_s10,321",detail,Rackam,"Not anymore. Thanks, [Djeeta]."
+English,"scene_cp3_q2_s10,321",detail,Rackam,"Not anymore. Thanks, [플레이어]."
 English,"scene_cp3_q2_s10,321",detail,Rackam,"Besides, I've gotta live up to your expectations! The best of the best!"
 English,"scene_cp3_q2_s10,321",detail,Vyrn,"All right! If that's settled, then let's make our escape!"
 English,"scene_cp3_q2_s20,322",synopsis,,Rackam leads everyone to the escape airship while growing wary of the sudden storm.
@@ -213,7 +213,7 @@ English,"scene_cp3_q2_s20,322",detail,Vyrn,That reminds me! Is there a guardian 
 English,"scene_cp3_q2_s20,322",detail,Rackam,"There is, indeed. All winds that blow on this island are the breath of Tiamat, a guardian deity of sorts."
 English,"scene_cp3_q2_s20,322",detail,Katalina,It sounds like a primal beast. Maybe Tiamat has something to do with the storm.
 English,"scene_cp3_q2_s20,322",detail,Rackam,Tiamat's legend has been around for centuries. Tough to say if there's any truth to it though.
-English,"scene_cp3_q2_s20,322",detail,Lyria,"Tiamat's here on the island. I'm sure of it. You can sense it too, right, [Djeeta]?"
+English,"scene_cp3_q2_s20,322",detail,Lyria,"Tiamat's here on the island. I'm sure of it. You can sense it too, right, [플레이어]?"
 English,"scene_cp3_q2_s20,322",detail,Rackam,"What's gotten into you all of a sudden, little miss?"
 English,"scene_cp3_q2_s20,322",detail,Lyria,I can hear it... I can feel it. The power of the stars courses through the wind...
 English,"scene_cp3_q3_s10,331",synopsis,,Everyone reaches the escape airship only to find imperial soldiers waiting for them.
@@ -231,8 +231,8 @@ English,"scene_cp3_q3_s10,331",detail,Furias,Isn't it obvious? Pathetic scum lik
 English,"scene_cp3_q3_s10,331",detail,Lyria,"I'm sensing something weird about him, Katalina. He's scaring me..."
 English,"scene_cp3_q3_s10,331",detail,Katalina,"It's fine, Lyria. You needn't worry."
 English,"scene_cp3_q3_s10,331",detail,Townsperson,Eep! Soldiers!
-English,"scene_cp3_q3_s10,331",detail,Vyrn,"We have to protect the townsfolk! Let's chase these imperial creeps outta here, [Djeeta]!"
-English,"scene_cp3_q3_s20,332",synopsis,,"[Djeeta] and the others protect the townsfolk, but General Furias blows up the escape airship before anyone can board it."
+English,"scene_cp3_q3_s10,331",detail,Vyrn,"We have to protect the townsfolk! Let's chase these imperial creeps outta here, [플레이어]!"
+English,"scene_cp3_q3_s20,332",synopsis,,"[플레이어] and the others protect the townsfolk, but General Furias blows up the escape airship before anyone can board it."
 English,"scene_cp3_q3_s20,332",detail,Katalina,"We've been able to keep them at bay, but they just keep coming..."
 English,"scene_cp3_q3_s20,332",detail,Furias,How wonderful! Exhausted yet? Finally had enough?
 English,"scene_cp3_q3_s20,332",detail,Furias,Here's the thing... We haven't even gotten to the main course yet!
@@ -246,7 +246,7 @@ English,"scene_cp3_q3_s20,332",detail,Furias,That's right! I blew it up! That pr
 English,"scene_cp3_q3_s20,332",detail,Rackam,You brat! Why'd you do that?
 English,"scene_cp3_q3_s20,332",detail,Furias,"You want to know? Burning with curiosity, are you? Then I'll tell you... if you survive!"
 English,"scene_cp3_q3_s20,332",detail,Furias,So go ahead. Give it your best shot!
-English,"scene_cp3_q3_s20,332",detail,Katalina,"You fiend!<br>Listen, [Djeeta], don't try and stop me!"
+English,"scene_cp3_q3_s20,332",detail,Katalina,"You fiend!<br>Listen, [플레이어], don't try and stop me!"
 English,"scene_cp3_q3_s20,332",detail,Katalina,I'll defeat his flunkies myself!
 English,"scene_cp3_q4_s10,341",synopsis,,Major General Furias admits to sending Tiamat into a rampage that is brewing a storm to sink the islands. Katalina decides to get everyone back to town.
 English,"scene_cp3_q4_s10,341",detail,Furias,Not bad! Hm... I guess you idiots might have some redeeming qualities after all!
@@ -268,9 +268,9 @@ English,"scene_cp3_q4_s10,341",detail,Townsperson 2,I can't believe it! Are we d
 English,"scene_cp3_q4_s10,341",detail,Furias,"Indeed, you are! I've already given orders to shoot down any airships attempting to flee!"
 English,"scene_cp3_q4_s10,341",detail,Furias,"You finally get it now, right? <span class='scene-font-italic'>Right</span>? There's nowhere for you to run!"
 English,"scene_cp3_q4_s10,341",detail,Rackam,You make me sick! There are <span class='scene-font-italic'>people</span> living here!
-English,"scene_cp3_q4_s10,341",detail,Katalina,"[Djeeta], we can't stay any longer! Let's get the people back to town for now!"
+English,"scene_cp3_q4_s10,341",detail,Katalina,"[플레이어], we can't stay any longer! Let's get the people back to town for now!"
 English,"scene_cp3_q4_s10,341",detail,Katalina,We'll take care of these monsters and soldiers on the way. Let's go!
-English,"scene_cp3_q4_s20,342",synopsis,,"The imperials have given up the chase, but [Djeeta] and the others won't give up hope for the islands."
+English,"scene_cp3_q4_s20,342",synopsis,,"The imperials have given up the chase, but [플레이어] and the others won't give up hope for the islands."
 English,"scene_cp3_q4_s20,342",detail,Lyria,I think the imperials have stopped chasing us.
 English,"scene_cp3_q4_s20,342",detail,Vyrn,"Looks that way. But with their plan, they've got us beat, so..."
 English,"scene_cp3_q4_s20,342",detail,Katalina,"That's enough, Vyrn. It's far too soon for us to give up."
@@ -297,10 +297,10 @@ English,"scene_cp3_q4_s30,343",detail,Vyrn,"Wait a sec! I thought primal beasts 
 English,"scene_cp3_q4_s30,343",detail,Rackam,"Yeah. And the Astrals disappeared after the War centuries ago, leaving no descendants."
 English,"scene_cp3_q4_s30,343",detail,Katalina,Lyria's not one of their descendants. Or at least... I don't think she is.
 English,"scene_cp3_q4_s30,343",detail,Katalina,"How and why her power works, I can't say. But she has power. That much is certain."
-English,"scene_cp3_q4_s30,343",detail,Vyrn,"Whoa! [Djeeta], could she be why that primal beast showed up back on Zinkenstill?"
+English,"scene_cp3_q4_s30,343",detail,Vyrn,"Whoa! [플레이어], could she be why that primal beast showed up back on Zinkenstill?"
 English,"scene_cp3_q4_s30,343",detail,Katalina,Entirely possible... But many mysteries remain. The empire couldn't reach any conclusions about it either.
 English,"scene_cp3_q4_s30,343",detail,Katalina,And there's no telling what might happen if Lyria were to overuse it...
-English,"scene_cp3_q4_s30,343",detail,Lyria,I'll be fine. [Djeeta] is with me... and so are all of you.
+English,"scene_cp3_q4_s30,343",detail,Lyria,I'll be fine. [플레이어] is with me... and so are all of you.
 English,"scene_cp3_q4_s30,343",detail,Lyria,"Let's go, Rackam. We've got to stop Tiamat, the primal beast of wind!"
 English,"scene_cp3_q4_s30,343",detail,,Lyria's determination is like a shining ray of hope.
 English,"scene_cp3_q4_s30,343",detail,,"Inspired by that hope, they set out to find Tiamat."

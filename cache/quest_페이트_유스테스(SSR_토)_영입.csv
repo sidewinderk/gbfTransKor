@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr227_ep1,synopsis,,[ジータ]一行は、ベアトリクス救出のためオダヅモッキーのアジトへ向かっていた。先頭を行くスカルが仲間の秘密について語り始める。それによると、オダヅモッキーは全員犬派で、犬の豆知識を豊富に持っているらしい。ユーステスは強く興味を抱くが、突如、組織からルリア抹殺の指令が入る。しばし黙考の後、ユーステスは旅の同行を[ジータ]に申し出る。
-Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>[ジータ]一行はノース・ヴァストで</span><br><span class='scene-font-katari'>消息を絶ったベアトリクスを捜索する為</span><br><span class='scene-font-katari'>ユーステスと共にその地を訪れる。</span>
+Japanese,scene_fate_chr227_ep1,synopsis,,[플레이어]一行は、ベアトリクス救出のためオダヅモッキーのアジトへ向かっていた。先頭を行くスカルが仲間の秘密について語り始める。それによると、オダヅモッキーは全員犬派で、犬の豆知識を豊富に持っているらしい。ユーステスは強く興味を抱くが、突如、組織からルリア抹殺の指令が入る。しばし黙考の後、ユーステスは旅の同行を[플레이어]に申し出る。
+Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>[플레이어]一行はノース・ヴァストで</span><br><span class='scene-font-katari'>消息を絶ったベアトリクスを捜索する為</span><br><span class='scene-font-katari'>ユーステスと共にその地を訪れる。</span>
 Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>一行は無法者集団、オダヅモッキーの</span><br><span class='scene-font-katari'>一員である、スカルから情報を引き出し、</span><br><span class='scene-font-katari'>スカルのアジトへと向かっていた。</span>
 Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>アジトへと向かう道中、</span><br><span class='scene-font-katari'>スカルは暇なのか、</span><br><span class='scene-font-katari'>ユーステスに絡んでいた。</span>
 Japanese,scene_fate_chr227_ep1,detail,スカル,なぁ、おいおいおい！<br>取って置きの秘密、知りてぇか？<br>なぁユーステスこら。
@@ -22,7 +22,7 @@ Japanese,scene_fate_chr227_ep1,detail,ユーステス,ノース・ハスキー�
 Japanese,scene_fate_chr227_ep1,detail,スカル,ああ、そうだぜ。ノース・ハスキーは、<br>人を食い殺すぐらいに獰猛だがぁ、<br>利口で義理堅いワンちゃんなんだよぉ！
 Japanese,scene_fate_chr227_ep1,detail,スカル,オレ達はワンちゃんに愛を持って接し、<br>ワンちゃん達はオレ達に敬意をもって、<br>積極的に役に立ってくれるんだぜぇ！
 Japanese,scene_fate_chr227_ep1,detail,ユーステス,なるほど。<br>助け合っているわけだな。
-Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>楽しげに頷くユーステスを見たビィは</span><br><span class='scene-font-katari'>[ジータ]とルリアに耳打ちする。</span>
+Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>楽しげに頷くユーステスを見たビィは</span><br><span class='scene-font-katari'>[플레이어]とルリアに耳打ちする。</span>
 Japanese,scene_fate_chr227_ep1,detail,ビィ,仏頂面の兄ちゃんさ。<br>妙に楽しそうじゃねぇか？
 Japanese,scene_fate_chr227_ep1,detail,ルリア,そういえば……そうですね。<br>ワンちゃん、好きなんでしょうか？
 Japanese,scene_fate_chr227_ep1,detail,スカル,テメェら、<br>なぁにこそこそしてんだぁ？<br>飽きたのかぁ？ オレ様の話によぉ？
@@ -37,7 +37,7 @@ Japanese,scene_fate_chr227_ep1,detail,ユーステス,…………
 Japanese,scene_fate_chr227_ep1,detail,ビィ,お、おい……あんまり煽るなよ。<br>仏頂面の兄ちゃんが怖ぇからよ……
 Japanese,scene_fate_chr227_ep1,detail,ビィ,それにしても意外だなぁ。<br>仏頂面の兄ちゃん、<br>犬が好きだったんだなぁ。
 Japanese,scene_fate_chr227_ep1,detail,ルリア,そうですね……ふふっ、<br>ユーステスさんにもそういう<br>可愛らしい一面があるんですね。
-Japanese,scene_fate_chr227_ep1,detail,ルリア,あ、そうだ。<br>[ジータ]……
+Japanese,scene_fate_chr227_ep1,detail,ルリア,あ、そうだ。<br>[플레이어]……
 Japanese,scene_fate_chr227_ep1,detail,伝声機,<span class='scene-font-gray'>ブブブブブブ</span>
 Japanese,scene_fate_chr227_ep1,detail,ユーステス,…………
 Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>伝声機の振動を感じ取ったユーステスは</span><br><span class='scene-font-katari'>一行が楽しそうに話し出した隙を狙って</span><br><span class='scene-font-katari'>近くの岩場へ移動した。</span>
@@ -55,8 +55,8 @@ Japanese,scene_fate_chr227_ep1,detail,ユーステス,……始末、か。
 Japanese,scene_fate_chr227_ep1,detail,ビィ,……そうだな。<br>今度仏頂面の兄ちゃんも連れて……
 Japanese,scene_fate_chr227_ep1,detail,ビィ,って、あれ！？<br>仏頂面の兄ちゃんはどこへ行った？！
 Japanese,scene_fate_chr227_ep1,detail,ユーステス,ここだ。
-Japanese,scene_fate_chr227_ep1,detail,ルリア,ひゃわっ！ い、いつの間に<br>[ジータ]の後ろに……
-Japanese,scene_fate_chr227_ep1,detail,ユーステス,……[ジータ]。話がある。
+Japanese,scene_fate_chr227_ep1,detail,ルリア,ひゃわっ！ い、いつの間に<br>[플레이어]の後ろに……
+Japanese,scene_fate_chr227_ep1,detail,ユーステス,……[플레이어]。話がある。
 Japanese,scene_fate_chr227_ep1,detail,ユーステス,この依頼が終わった後、<br>しばらくお前に同行する。
 Japanese,scene_fate_chr227_ep1,detail,ビィ,んなっ！？ <br>ま、またどうして……
 Japanese,scene_fate_chr227_ep1,detail,ユーステス,気まぐれだ。
@@ -75,10 +75,10 @@ Japanese,scene_fate_chr227_ep1,detail,ビィ,うーん、わかんねぇけど�
 Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>ユーステスの反応に</span><br><span class='scene-font-katari'>疑問を憶えながらも、</span><br><span class='scene-font-katari'>一行は先へ進む彼を追いかける。</span>
 Japanese,scene_fate_chr227_ep1,detail,,<span class='scene-font-katari'>ユーステスは新たな任務を負い、</span><br><span class='scene-font-katari'>一行との約束に対し、複雑な思いを</span><br><span class='scene-font-katari'>抱いているとは知らずに……</span>
 Japanese,scene_chr227_q1_s10,synopsis,,ルリアとビィは、多くの犬と自由に触れ合える村が近くにあることを知り、犬好きのユーステスを誘う。普段無関心で口数の少ないユーステスにしては珍しく興味を示しているように見え、ビィとルリアは少し浮かれてしまう。
-Japanese,scene_chr227_q1_s10,detail,ルリア,あ、見て見て！<br>[ジータ]！ ビィさん！<br>あそこに大きな鳥が！
+Japanese,scene_chr227_q1_s10,detail,ルリア,あ、見て見て！<br>[플레이어]！ ビィさん！<br>あそこに大きな鳥が！
 Japanese,scene_chr227_q1_s10,detail,ビィ,うわぁ！ <br>すっげぇでけぇなあれ……
 Japanese,scene_chr227_q1_s10,detail,ユーステス,…………
-Japanese,scene_chr227_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]一行が交わす、</span><br><span class='scene-font-katari'>何気ないやり取りを</span><br><span class='scene-font-katari'>ユーステスは優しげに見守っていた。</span>
+Japanese,scene_chr227_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行が交わす、</span><br><span class='scene-font-katari'>何気ないやり取りを</span><br><span class='scene-font-katari'>ユーステスは優しげに見守っていた。</span>
 Japanese,scene_chr227_q1_s10,detail,,<span class='scene-font-katari'>寡黙なユーステスが一行の仲間に</span><br><span class='scene-font-katari'>加わってからしばらく経ち、一行は</span><br><span class='scene-font-katari'>彼と徐々に打ち解けあっていた。</span>
 Japanese,scene_chr227_q1_s10,detail,ルリア,ユーステスさーん！<br>ユーステスさんもこっちへ来て、<br>一緒に話しませんか？
 Japanese,scene_chr227_q1_s10,detail,ユーステス,…………
@@ -97,8 +97,8 @@ Japanese,scene_chr227_q1_s10,detail,ビィ,どうわぁわっ！？ あ、あぶ
 Japanese,scene_chr227_q1_s10,detail,魔物,ガ……グ……
 Japanese,scene_chr227_q1_s10,detail,ビィ,って魔物ぉ！？<br>いつの間に乗り込んで……！？
 Japanese,scene_chr227_q1_s10,detail,ユーステス,浮かれるのは勝手だが<br>注意はしろ。<br>……まだ来るぞ。
-English,scene_fate_chr227_ep1,synopsis,,"On the way to the Odajumoki hideout to rescue Beatrix, Skull reveals that the Odajumoki are dog lovers. The topic of dogs peaks Eustace's interest, but he's suddenly contacted by the Society to monitor Lyria. Eustace tells [Djeeta] he'll join the crew."
-English,scene_fate_chr227_ep1,detail,,"[Djeeta] and the crew are on a mission with Eustace to search North Vast for Beatrix, whom he's lost contact with."
+English,scene_fate_chr227_ep1,synopsis,,"On the way to the Odajumoki hideout to rescue Beatrix, Skull reveals that the Odajumoki are dog lovers. The topic of dogs peaks Eustace's interest, but he's suddenly contacted by the Society to monitor Lyria. Eustace tells [플레이어] he'll join the crew."
+English,scene_fate_chr227_ep1,detail,,"[플레이어] and the crew are on a mission with Eustace to search North Vast for Beatrix, whom he's lost contact with."
 English,scene_fate_chr227_ep1,detail,,"Skull, a member of the Odajumoki outlaw gang, lets slip some information on her whereabouts before offering to lead them to his gang's hideout."
 English,scene_fate_chr227_ep1,detail,,"On the way there, Skull decides to kill some time by chatting with Eustace."
 English,scene_fate_chr227_ep1,detail,Skull,"Oi! Oi, oi, oi! Wanna hear a neat secret? Do ya, Eustace?"
@@ -120,7 +120,7 @@ English,scene_fate_chr227_ep1,detail,Eustace,The North Husky... Is that a dog br
 English,scene_fate_chr227_ep1,detail,Skull,"Yup, yup! The North Husky is a ferocious man-eating dog, but they're also smart and have a strong sense of duty!"
 English,scene_fate_chr227_ep1,detail,Skull,"Because we love and care for them, they respect and help us in return!"
 English,scene_fate_chr227_ep1,detail,Eustace,I see. It's a mutually beneficial relationship...
-English,scene_fate_chr227_ep1,detail,,Eustace nods blissfully as Vyrn turns to whisper to [Djeeta] and Lyria.
+English,scene_fate_chr227_ep1,detail,,Eustace nods blissfully as Vyrn turns to whisper to [플레이어] and Lyria.
 English,scene_fate_chr227_ep1,detail,Vyrn,Is it me or does Sourpuss look kinda happy right now?
 English,scene_fate_chr227_ep1,detail,Lyria,"Now that you mention it, he does look happy. Could it be that he likes dogs?"
 English,scene_fate_chr227_ep1,detail,Skull,Hey! What are you whispering about? Are you bored of me already? Are ya?
@@ -135,7 +135,7 @@ English,scene_fate_chr227_ep1,detail,Eustace,...
 English,scene_fate_chr227_ep1,detail,Vyrn,Oh no... You shouldn't tease Sourpuss like that. He's startin' to look scary...
 English,scene_fate_chr227_ep1,detail,Vyrn,But who'd have thought that he'd have a soft spot for dogs!
 English,scene_fate_chr227_ep1,detail,Lyria,I know! I guess Eustace has a sweet side to him after all.
-English,scene_fate_chr227_ep1,detail,Lyria,"Ah! [Djeeta], I almost forgot—"
+English,scene_fate_chr227_ep1,detail,Lyria,"Ah! [플레이어], I almost forgot—"
 English,scene_fate_chr227_ep1,detail,Transceiver,<span class='scene-font-italic'>Buzz... Buzz... Buzz... Buzz...</span>
 English,scene_fate_chr227_ep1,detail,Eustace,...
 English,scene_fate_chr227_ep1,detail,,"As Eustace's transceiver begins to vibrate, he slips away from the others and heads toward a group of rocks nearby."
@@ -153,8 +153,8 @@ English,scene_fate_chr227_ep1,detail,Eustace,Eliminate her... huh?
 English,scene_fate_chr227_ep1,detail,Vyrn,Yeah! And we can take Sourpuss with us too—
 English,scene_fate_chr227_ep1,detail,Vyrn,Wait! Where did Sourpuss go?
 English,scene_fate_chr227_ep1,detail,Eustace,I'm right here.
-English,scene_fate_chr227_ep1,detail,Lyria,Yikes! How'd you end up behind [Djeeta]?
-English,scene_fate_chr227_ep1,detail,Eustace,"[Djeeta], I have something to tell you."
+English,scene_fate_chr227_ep1,detail,Lyria,Yikes! How'd you end up behind [플레이어]?
+English,scene_fate_chr227_ep1,detail,Eustace,"[플레이어], I have something to tell you."
 English,scene_fate_chr227_ep1,detail,Eustace,"After this mission is completed, I'll be joining your crew for a while."
 English,scene_fate_chr227_ep1,detail,Vyrn,Wh-what! But why?
 English,scene_fate_chr227_ep1,detail,Eustace,Because I feel like it.
@@ -170,13 +170,13 @@ English,scene_fate_chr227_ep1,detail,Eustace,...
 English,scene_fate_chr227_ep1,detail,,"Without answering, Eustace swiftly walks ahead of the others."
 English,scene_fate_chr227_ep1,detail,Lyria,What's wrong with Eustace?
 English,scene_fate_chr227_ep1,detail,Vyrn,Hm... Who knows? But it seems like he doesn't dislike us... I guess?
-English,scene_fate_chr227_ep1,detail,,"Still perplexed by Eustace's vague reply, [Djeeta] and the others follow after him."
+English,scene_fate_chr227_ep1,detail,,"Still perplexed by Eustace's vague reply, [플레이어] and the others follow after him."
 English,scene_fate_chr227_ep1,detail,,"And with the new mission weighing on his mind, Eustace begins to feel a twinge of conflicting emotions in his heart."
 English,scene_chr227_q1_s10,synopsis,,Lyria and Vyrn invite Eustace to come with them to a village nearby where you can play with lots of dogs. The two are excited to hear that Eustace will come along.
-English,scene_chr227_q1_s10,detail,Lyria,"Hey look, [Djeeta] and Vyrn! There's a giant bird over there!"
+English,scene_chr227_q1_s10,detail,Lyria,"Hey look, [플레이어] and Vyrn! There's a giant bird over there!"
 English,scene_chr227_q1_s10,detail,Vyrn,Whoa! It's huge!
 English,scene_chr227_q1_s10,detail,Eustace,...
-English,scene_chr227_q1_s10,detail,,[Djeeta] and the crew chat idly as Eustace watches from afar with a gentle expression on his face.
+English,scene_chr227_q1_s10,detail,,[플레이어] and the crew chat idly as Eustace watches from afar with a gentle expression on his face.
 English,scene_chr227_q1_s10,detail,,"Some time has passed since the quiet gunslinger has joined the crew, and he has slowly warmed up to his fellow crewmates."
 English,scene_chr227_q1_s10,detail,Lyria,Eustace! Why don't you come over here and chat with us?
 English,scene_chr227_q1_s10,detail,Eustace,...

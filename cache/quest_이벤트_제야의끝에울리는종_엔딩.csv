@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt191228_cp0_q2_s10,synopsis,,[ジータ]達との戦いによりジョヤの暴走は止まる。故障して煩悩を集めることが出来ないジョヤに代わり、ジョイが空の世界に散った煩悩を集める。その後機能停止したジョヤを一行は静かに見送る。年が明け、ジョヤの祠のある島に戻ったクビラは“ジョイ”の鐘撞きを済ませて歳神としてのお役目を終える。一行は村長の用意した新年のご馳走に顔を綻ばせるのだった。
+Japanese,scene_evt191228_cp0_q2_s10,synopsis,,[플레이어]達との戦いによりジョヤの暴走は止まる。故障して煩悩を集めることが出来ないジョヤに代わり、ジョイが空の世界に散った煩悩を集める。その後機能停止したジョヤを一行は静かに見送る。年が明け、ジョヤの祠のある島に戻ったクビラは“ジョイ”の鐘撞きを済ませて歳神としてのお役目を終える。一行は村長の用意した新年のご馳走に顔を綻ばせるのだった。
 Japanese,scene_evt191228_cp0_q2_s10,detail,ジョヤ,──……！！！
 Japanese,scene_evt191228_cp0_q2_s10,detail,クビラ,ふぅ……<br>どうにか止まったみたいだね。
 Japanese,scene_evt191228_cp0_q2_s10,detail,ビカラ,クビラ、<br>遠くの島にも散ってしまった煩悩を<br>ジョヤを使って集めよう。
@@ -42,7 +42,7 @@ Japanese,scene_evt191228_cp0_q2_s10,detail,クビラ,……一緒にお見送り
 Japanese,scene_evt191228_cp0_q2_s10,detail,ジョイ,ウ、ウン……<br>ジョイ、チャント、<br>オミオクリ、スル……
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>クビラとジョイは目を閉じ、</span><br><span class='scene-font-katari'>ジョヤが安らかに眠れるように</span><br><span class='scene-font-katari'>祈りを捧げる。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,ビカラ,…………
-Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>クビラとジョイに続き、</span><br><span class='scene-font-katari'>[ジータ]達もジョヤの周りに</span><br><span class='scene-font-katari'>集まり、静かに目を閉じた。</span>
+Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>クビラとジョイに続き、</span><br><span class='scene-font-katari'>[플레이어]達もジョヤの周りに</span><br><span class='scene-font-katari'>集まり、静かに目を閉じた。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>そして、心から祈りを捧げた。</span><br><span class='scene-font-katari'>苦しみに気づけなかった謝罪と、</span><br><span class='scene-font-katari'>胸いっぱいの感謝と労いを込めて──</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>こうして除夜の晩は終わり、</span><br><span class='scene-font-katari'>空の世界は新しい年を迎えるのだった。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,ビカラ,やっぱりこの音を聞くと、<br>新年って感じがするなぁ。
@@ -51,7 +51,7 @@ Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>明�
 Japanese,scene_evt191228_cp0_q2_s10,detail,マキラ,それにしても、<br>まさかジョイ君が完全に<br>ジョヤの役目を引き継いだなんて。
 Japanese,scene_evt191228_cp0_q2_s10,detail,マキラ,こんなに早く成長するなんて<br>予想外だよ。<br>まだまだ私も半熟だな。
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>異常な量の煩悩を察知し、</span><br><span class='scene-font-katari'>マキラはアニラ達に声をかけ、</span><br><span class='scene-font-katari'>霧の発生した島へ向かおうとしていた。</span>
-Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>しかし出発する前に騒動が収まったので</span><br><span class='scene-font-katari'>[ジータ]達が帰ってくるまで</span><br><span class='scene-font-katari'>祠のある島に待機していたのだった。</span>
+Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>しかし出発する前に騒動が収まったので</span><br><span class='scene-font-katari'>[플레이어]達が帰ってくるまで</span><br><span class='scene-font-katari'>祠のある島に待機していたのだった。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,マキラ,お役目を引き継いだとなれば、<br>ジョイ君は空の世界を<br>離れるわけにいかないよね。
 Japanese,scene_evt191228_cp0_q2_s10,detail,マキラ,一度でいいから、<br>ジョイ君と<span class='scene-font-spword'>“うちゅう”</span>に<br>行ってみたかったな……
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>おこたに頬杖を突きながら、</span><br><span class='scene-font-katari'>マキラは遥か遠くの</span><span class='scene-font-spword'>“うちゅう”</span><span class='scene-font-katari'>に</span><br><span class='scene-font-katari'>想いを馳せる。</span>
@@ -95,13 +95,13 @@ Japanese,scene_evt191228_cp0_q2_s10,detail,ジョイ,エヘヘ、ホメラレタ
 Japanese,scene_evt191228_cp0_q2_s10,detail,村長,皆さん、<br>新年のお食事の準備が出来ました。
 Japanese,scene_evt191228_cp0_q2_s10,detail,村長,ほんの気持ちばかりのものですが、<br>よろしければ、<br>召し上がっていってください。
 Japanese,scene_evt191228_cp0_q2_s10,detail,루리아,わーい！<br>新年のご馳走、ありがとうございます！
-Japanese,scene_evt191228_cp0_q2_s10,detail,비이,オイラも腹ペコだぜ。<br>[ジータ]、早く行こうぜ！
+Japanese,scene_evt191228_cp0_q2_s10,detail,비이,オイラも腹ペコだぜ。<br>[플레이어]、早く行こうぜ！
 Japanese,scene_evt191228_cp0_q2_s10,detail,ユイシス,私はそろそろお暇するわ。<br>皆、楽しんでね。
 Japanese,scene_evt191228_cp0_q2_s10,detail,ビカラ,マキラとクビラも行くでしょ？
 Japanese,scene_evt191228_cp0_q2_s10,detail,マキラ,もちろんです。<br>ご馳走、何があるんだろうなぁ。
 Japanese,scene_evt191228_cp0_q2_s10,detail,クビラ,ジョイもおいで。<br>新年の縁起物のお話とか、<br>色々聞かせてあげる。
 Japanese,scene_evt191228_cp0_q2_s10,detail,ジョイ,イイノ？<br>ジョイ、イク！
-Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>賑やかに言葉を交わしながら、</span><br><span class='scene-font-katari'>[ジータ]達は部屋を出ていく。</span>
+Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>賑やかに言葉を交わしながら、</span><br><span class='scene-font-katari'>[플레이어]達は部屋を出ていく。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>それはごくありふれた新年のひと時。</span><br><span class='scene-font-katari'>けれどどこか特別で、多くの人達が</span><br><span class='scene-font-katari'>喜びを噛みしめて顔をほころばす。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>それはきっとジョヤが守ってきた時間で</span><br><span class='scene-font-katari'>これから先はジョイが守っていく未来。</span>
 Japanese,scene_evt191228_cp0_q2_s10,detail,,<span class='scene-font-katari'>小さな鐘は大きな希望を背負い、</span><br><span class='scene-font-katari'>自慢げに立派な音を広い空に</span><br><span class='scene-font-katari'>響かせていくことだろう。</span>

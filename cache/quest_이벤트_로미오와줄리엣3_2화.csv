@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",synopsis,,応接室に現れたのは、ヴェローナ議員のひとりでロミオの従兄弟だというベンヴォーリオだった。[ジータ]はジュリエットとパリスの計らいでベンヴォーリオに城の案内をしてもらうことになる。ベンヴォーリオは幼い頃からロミオを慕っており、ロミオが消えた今も実感を持てないという。[ジータ]からロミオが戯曲を書くことを聞いたベンヴォーリオは、何か思うところがある様子だった。,"응접실에 나타난 것은 베로나 의원 중 한명인 로미오의 사촌이라고 하는 벤볼리오였다. [지타]는 줄리엣과 파리스의 주선으로 벤볼리오에게 성을 안내 받는다. 벤볼리오는 어렷을 때부터 로미오를 뒤경모하고있어, 로미오가 사라진 지금도 실감을 할 수 없다고 한다. [지타]로부터 로미오가 희극을 썼던 것을 들은 본벨리오는 무언가 떠오른 것이 있는 듯한 모습이었다."
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",synopsis,,応接室に現れたのは、ヴェローナ議員のひとりでロミオの従兄弟だというベンヴォーリオだった。[플레이어]はジュリエットとパリスの計らいでベンヴォーリオに城の案内をしてもらうことになる。ベンヴォーリオは幼い頃からロミオを慕っており、ロミオが消えた今も実感を持てないという。[플레이어]からロミオが戯曲を書くことを聞いたベンヴォーリオは、何か思うところがある様子だった。,"응접실에 나타난 것은 베로나 의원 중 한명인 로미오의 사촌이라고 하는 벤볼리오였다. [플레이어]는 줄리엣과 파리스의 주선으로 벤볼리오에게 성을 안내 받는다. 벤볼리오는 어렷을 때부터 로미오를 뒤경모하고있어, 로미오가 사라진 지금도 실감을 할 수 없다고 한다. [플레이어]로부터 로미오가 희극을 썼던 것을 들은 본벨리오는 무언가 떠오른 것이 있는 듯한 모습이었다."
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>突然響いたノックの音に、</span><br><span class='scene-font-katari'>皆の視線がドアへと集まる。</span>,"<span class='scene-font-katari'>갑자기 울려퍼진 노크 소리에, 일행의 시선이 문으로 모였다.</span>"
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,파리스,誰だ？,누구지?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,？？？,パリス公爵？<br>……ベンヴォーリオです。,파리스 공작? ...벤볼리오입니다.
@@ -15,12 +15,12 @@ Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,いえ、滅�
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,何か急ぐ用が？,바쁜 일이라도 있으신가요?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,いえ、特に何かあるわけでは……,"아뇨, 딱히 그런 건 아닙니다만..."
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,それならば<br>紹介させて下さい。<br>せっかくですから。,그럼 이 분들께 소개드려도 될까요? 모처럼 오셨으니까.
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>ジュリエットは、</span><br><span class='scene-font-katari'>成り行きを見守っていた</span><br><span class='scene-font-katari'>[ジータ]達の方へ向き直る。</span>,<span class='scene-font-katari'>줄리엣은 흘러가는 상황을 바라보고 있던 단장 일행 쪽으로 몸을 틀었다.</span>
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,[ジータ]さん、皆さん。<br>彼はベンヴォーリオ、<br>ヴェローナ議会のメンバーです。,"[지타] 님, 그리고 여러분. 그의 이름은 벤볼리오고 베로나 의회 멤버랍니다."
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>ジュリエットは、</span><br><span class='scene-font-katari'>成り行きを見守っていた</span><br><span class='scene-font-katari'>[플레이어]達の方へ向き直る。</span>,<span class='scene-font-katari'>줄리엣은 흘러가는 상황을 바라보고 있던 단장 일행 쪽으로 몸을 틀었다.</span>
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,[플레이어]さん、皆さん。<br>彼はベンヴォーリオ、<br>ヴェローナ議会のメンバーです。,"[플레이어] 님, 그리고 여러분. 그의 이름은 벤볼리오고 베로나 의회 멤버랍니다."
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,はじめまして。,처음 뵙겠습니다.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,루리아,こんにちは！<br>私はルリアです。,안녕하세요! 저는 루리아예요.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,비이,オイラはビィ！,나는 비이!
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,こちらが[ジータ]さんです。,그리고 이 분이 [지타] 님이세요.
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,こちらが[플레이어]さんです。,그리고 이 분이 [플레이어] 님이세요.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,こんにちは、お噂はかねがね……,"안녕하세요, 말씀 많이 들었습니다."
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,비이,へぇ、そうなのか？,그래?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,ふふ、私が色々とお話ししましたから。,"후후, 제가 이것저것 이야기했거든요."
@@ -33,14 +33,14 @@ Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,ロミオ様�
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,……皆さんは、<br>マキューシオのことも<br>ご存じなんですね。,...여러분께서는 머큐시오도 알고 계시는군요.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,비이,まぁな。<br>最初にロミオと会った時は<br>マキューシオも一緒だったんだ。,뭐 그렇지. 처음에 로미오랑 만났을 때에는 머큐시오도 같이 있었거든.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,そうだったのですか。<br>それで、あの……,그러셨군요. 그래서 그...
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>迷うように口ごもったベンヴォーリオに</span><br><span class='scene-font-katari'>[ジータ]達は首を傾げる。</span>,<span class='scene-font-katari'>벤볼리오가 망설이는 듯이 말을 흐리자 단장 일행은 고개를 갸웃거렸다.</span>
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>迷うように口ごもったベンヴォーリオに</span><br><span class='scene-font-katari'>[플레이어]達は首を傾げる。</span>,<span class='scene-font-katari'>벤볼리오가 망설이는 듯이 말을 흐리자 단장 일행은 고개를 갸웃거렸다.</span>
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,루리아,どうかしましたか？,무슨 일 있으세요?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,いえ、別に……,"아뇨, 그런 건..."
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,お話中、お邪魔をして<br>申し訳ありませんでした。,말씀하시는데 방해해서 죄송했습니다. 
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,……ベンヴォーリオ、せっかくですから<br>[ジータ]さん達と<br>もう少しお話をされては？,...벤볼리오. 모처럼 만났는데 [지타]님 일행하고 조금 더 이야기하는 건 어떤가요?
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,……ベンヴォーリオ、せっかくですから<br>[플레이어]さん達と<br>もう少しお話をされては？,...벤볼리오. 모처럼 만났는데 [플레이어]님 일행하고 조금 더 이야기하는 건 어떤가요?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,え？<br>ですが……,네? 하지만...
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,私は、いただいたこの書類を<br>急いで確認しなければなりません。,저는 방금 받은 이 서류를 급히 확인해봐야 하거든요.
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,その間、[ジータ]さん達の<br>相手をお願いできると<br>助かるのですが……,그 사이 단장님 일행의 상대를 부탁드리고 싶은데요.
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,줄리엣,その間、[플레이어]さん達の<br>相手をお願いできると<br>助かるのですが……,그 사이 단장님 일행의 상대를 부탁드리고 싶은데요.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,そういうことでしたら、喜んで。,그렇다면 기쁘게 받아들이도록 하겠습니다.
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,파리스,泊まってもらう部屋の準備も<br>できているはずだ。<br>案内も頼めるか？,머무를 방 준비도 이미 끝났을 거다. 안내를 부탁해도 되겠나?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,はい、もちろんです。<br>しかし、パリス公爵は？,"예, 물론이죠. 그런데 파리스 공작은 다른 일이 있으신가요?"
@@ -118,7 +118,7 @@ Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,루리아,それが見つ�
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,そうですか……ご自分で……<br>やっぱり……,그렇군요... 직접 희곡을... 역시...
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,비이,ん？<br>それがどうかしたのか？,응? 그게 왜?
 Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,벤볼리오,いえ、なんでもありません。<br>ありがとうございます。,아뇨... 아무 것도 아닙니다. 감사합니다.
-Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>どこか困ったようなベンヴォーリオの</span><br><span class='scene-font-katari'>笑顔が、[ジータ]は少し</span><br><span class='scene-font-katari'>気にかかるのだった。</span>,<span class='scene-font-katari'>[지타]은 어딘가 곤란해 보이는 벤볼리오의 미소가 조금 마음에 걸렸다.</span>
+Japanese,"scene_evt200829_cp2_q1_s10,7569211",detail,,<span class='scene-font-katari'>どこか困ったようなベンヴォーリオの</span><br><span class='scene-font-katari'>笑顔が、[플레이어]は少し</span><br><span class='scene-font-katari'>気にかかるのだった。</span>,<span class='scene-font-katari'>[플레이어]은 어딘가 곤란해 보이는 벤볼리오의 미소가 조금 마음에 걸렸다.</span>
 Japanese,"scene_evt200829_cp2_q2_s10,7569221",synopsis,,仕事に励むジュリエットのもとに、ヴェローナ議員のひとりでジュリエットの補佐、ロザリンドが訪れる。ジュリエットはロザリンドとの会話の中で、パリスに結婚を申し込まれたことを白状する。しかしいまだロミオを失った悲しみは大きく、前へ進む国や周囲から自分だけが置いていかれるようだとどうしようもない孤独を吐露するのだった。,"업무에 힘쓰고있는 줄리엣에게, 베로나 의원 중 한명인 줄리엣의 보좌, 로잘린드가 찾아온다. 줄리엣은 로잘린드와 이야기하던 중에, 파리스로부터 프로포즈를 받았다는 것을 자백한다. 하지만 아직 로미오를 잃은 슬픔이 커, 앞으로 나아가는 국가나 주변이 자신만을 두고 가는 것 같다는 어쩔 수 없는 고독감을 토로하는 것이었다."
 Japanese,"scene_evt200829_cp2_q2_s10,7569221",detail,줄리엣,……ふぅ、これで全部ですね。,후우... 이걸로 다 본 거겠죠?
 Japanese,"scene_evt200829_cp2_q2_s10,7569221",detail,줄리엣,流石ベンヴォーリオです。<br>相変わらずきちんとした資料で<br>助かります。,역시 벤볼리오예요. 항상 자료가 확실해서 도움이 되는군요.
@@ -212,8 +212,8 @@ Japanese,"scene_evt200829_cp2_q2_s10,7569221",detail,줄리엣,この国とと�
 Japanese,"scene_evt200829_cp2_q2_s10,7569221",detail,줄리엣,あの方の手を取れば、私のこの足も<br>歩き方を思い出せるのかもしれません。,그 분의 손을 잡으면 저도 다시 걷는 방법을 생각해낼 수 있을지도 모르죠.
 Japanese,"scene_evt200829_cp2_q2_s10,7569221",detail,줄리엣,でもまだ、どうしても、私は……,"하지만 아직, 저는..."
 Japanese,"scene_evt200829_cp2_q2_s10,7569221",detail,,<span class='scene-font-katari'>ジュリエットの言葉から滲みだす</span><br><span class='scene-font-katari'>どうしようもない孤独に、ロザリンドは</span><br><span class='scene-font-katari'>返す言葉を見つけられなかった。</span>,"<span class='scene-font-katari'>줄리엣의 말에서 배어나오는 짙은 고독감에, 로잘린드는 차마 말을 이어나갈 수 없었다.</span>"
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",synopsis,,翌日、[ジータ]達はローズ座についての調査を始めることにする。その前に食事をとれる店を探していると、ひょんなことからローズ座の人気役者・アントニーと路上で即興劇を行うことに。アントニーは親しみのある人柄で、[ジータ]達にも親切におすすめの店を伝えて去っていくのだった。,"다음날, [지타] 일행은 로즈극장에 대해 조사를 시작하기로한다. 그 전에 식사를 할 가게를 찾고 있으니, 우연히 로즈극장의 인기 배우 안토니와 노상 즉흥 연극을 하게된다. 안토니는 친근한 성격으로, [지타] 일행에게도 친절을 베풀어 추천하는 가게를 알려주고 가는 것이었다."
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>ジュリエットやパリスと再会した</span><br><span class='scene-font-katari'>翌日、[ジータ]達は</span><br><span class='scene-font-katari'>ヴェローナの街へと出ていた。</span>,"<span class='scene-font-katari'>줄리엣, 그리고 파리스와 다시 만난 다음날이었다. 단장 일행은 베로나의 거리에 나와 있었다.</span>"
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",synopsis,,翌日、[플레이어]達はローズ座についての調査を始めることにする。その前に食事をとれる店を探していると、ひょんなことからローズ座の人気役者・アントニーと路上で即興劇を行うことに。アントニーは親しみのある人柄で、[플레이어]達にも親切におすすめの店を伝えて去っていくのだった。,"다음날, [플레이어] 일행은 로즈극장에 대해 조사를 시작하기로한다. 그 전에 식사를 할 가게를 찾고 있으니, 우연히 로즈극장의 인기 배우 안토니와 노상 즉흥 연극을 하게된다. 안토니는 친근한 성격으로, [플레이어] 일행에게도 친절을 베풀어 추천하는 가게를 알려주고 가는 것이었다."
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>ジュリエットやパリスと再会した</span><br><span class='scene-font-katari'>翌日、[플레이어]達は</span><br><span class='scene-font-katari'>ヴェローナの街へと出ていた。</span>,"<span class='scene-font-katari'>줄리엣, 그리고 파리스와 다시 만난 다음날이었다. 단장 일행은 베로나의 거리에 나와 있었다.</span>"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,昨日聞いた話……<br>気になるよなぁ。,"어제 들은 이야기, 신경쓰이는데?"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,ローズ座のことですよね。<br>せっかくジュリエットさん達が<br>国を良くしようとがんばってるのに……,로즈 극장 이야기 말이죠? 기껏 줄리엣 씨가 좋은 나라를 만들려고 하고 있는데... 
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,エスカラス派だとか何とかのことも<br>あいつらがコツコツ時間をかけて<br>やっと解決したってのによぉ。,에스칼라스 파인지 뭔지 하는 것도 그 녀석들이 차근차근 시간을 들여서 겨우 해결했었잖아.
@@ -237,8 +237,8 @@ Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,はい！<br>あ�
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,あーあ、ルリアの腹が鳴ってやがる。,아~ 루리아 배가 꼬르륵거리고 있네.
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,えへへ……まず、ご飯にしませんか？,에헤헤... 일단 밥부터 먹으면 어떨까요?
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,まぁ、人が集まるところに<br>情報も集まるって言うし、<br>飯を食えるところを探すのもいいか。,"뭐, 사람들이 모이는 데에 정보도 모인다고 하니까. 밥 먹을만한 데부터 찾아보는 것도 좋겠네."
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>ビィの言葉に頷いた[ジータ]は</span><br><span class='scene-font-katari'>ルリアの手を引いて歩き出した。</span>,<span class='scene-font-katari'>비이의 말에 고개를 끄덕인 단장은 루리아의 손을 잡아끌며 걷기 시작했다.</span>
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,ねぇ[ジータ]、<br>[ジータ]は何が食べたいですか？,"저기 [지타], 뭐 먹고 싶어요?"
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>ビィの言葉に頷いた[플레이어]は</span><br><span class='scene-font-katari'>ルリアの手を引いて歩き出した。</span>,<span class='scene-font-katari'>비이의 말에 고개를 끄덕인 단장은 루리아의 손을 잡아끌며 걷기 시작했다.</span>
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,ねぇ[플레이어]、<br>[플레이어]は何が食べたいですか？,"저기 [플레이어], 뭐 먹고 싶어요?"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",sel1_txt,,<span class='scene-font-katari'>ルリアが食べたいもの</span>,<span class='scene-font-katari'>루리아가 먹고 싶은 거</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",sel2_txt,,<span class='scene-font-katari'>うーん……</span>,<span class='scene-font-katari'>으음...</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,私ですか？<br>私は、えっと、えっと……,"제가 먹고 싶은 거요? 저는, 음... 어..."
@@ -268,12 +268,12 @@ Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,주정뱅이,<span class='s
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,<span class='scene-font-4'>やめて下さい！</span>,<span class='scene-font-4'>그만하세요!</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,<span class='scene-font-4'>おい！</span><br>おっさん、いい加減にしろよ！<br>皆迷惑してんだろ！,"<span class='scene-font-4'>이봐, 아저씨!</span> 적당히 좀 해! 주변에 민폐잖아!"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,주정뱅이,<span class='scene-font-4'>うるせぇ！</span><br>どいつもこいつも<br>痛い目みてぇのか！？,<span class='scene-font-4'>시끄러!</span> 이 놈이나 저 놈이나 다 맞고 싶냐?
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,ったくよぉ……おい、[ジータ]。<br>ちょっと手荒になっても、<br>おっさん黙らせた方がよくねぇか？,아 진짜... [지타]. 좀 거친 방법으로라도 이 아저씨 조용하게 만드는 게 낫지 않을까?
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>溜息を吐いた[ジータ]は、</span><br><span class='scene-font-katari'>ルリアをかばうように前に出ながら</span><br><span class='scene-font-katari'>武器に手を伸ばす。</span>,<span class='scene-font-katari'>한숨을 내쉰 [지타]는 루리아를 감싸듯 앞에 나서며 무기를 손에 들었다.</span>
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,ったくよぉ……おい、[플레이어]。<br>ちょっと手荒になっても、<br>おっさん黙らせた方がよくねぇか？,아 진짜... [플레이어]. 좀 거친 방법으로라도 이 아저씨 조용하게 만드는 게 낫지 않을까?
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>溜息を吐いた[플레이어]は、</span><br><span class='scene-font-katari'>ルリアをかばうように前に出ながら</span><br><span class='scene-font-katari'>武器に手を伸ばす。</span>,<span class='scene-font-katari'>한숨을 내쉰 [플레이어]는 루리아를 감싸듯 앞에 나서며 무기를 손에 들었다.</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,주정뱅이,へへっ、<br>てめぇもやる気じゃねぇか！<br>どっからでも──,"헤헤, 너도 해 보겠다 이거냐? 어디 덤벼 ㅂ..."
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,？？？,親分！<br>探しやしたぜ！,보스! 찾았잖아요!
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,주정뱅이,……はぁ？,...어?
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>突然飛び込んできた男の声に</span><br><span class='scene-font-katari'>酔っ払いも[ジータ]達も</span><br><span class='scene-font-katari'>驚いて動きを止める。</span>,<span class='scene-font-katari'>갑자기 뛰쳐들어온 남자의 목소리에 놀란 주정뱅이와 단장의 움직임이 멈췄다.</span>
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>突然飛び込んできた男の声に</span><br><span class='scene-font-katari'>酔っ払いも[플레이어]達も</span><br><span class='scene-font-katari'>驚いて動きを止める。</span>,<span class='scene-font-katari'>갑자기 뛰쳐들어온 남자의 목소리에 놀란 주정뱅이와 단장의 움직임이 멈췄다.</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,？？？,こんなところで油売ってたんすか？<br>あ、もしかして仕事を<br>探してくれてたんじゃ……,"이런 데서 노닥거리고 있었어요? 아, 설마 우리 대신 일거리 찾고 있었던 건가?"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,주정뱅이,な、なんだ？<br><span class='scene-font-4'>アントニー！？</span>,"뭐, 뭐야? <span class='scene-font-4'>안토니?</span>"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,水臭ぇじゃないすか。<br>そんなのは、俺らに任せて<br>親分はどーんと構えててくれねぇと。,"에이, 없어보이게! 그런 건 우리한테 맡기고 보스는 딱 무게잡고 있어야죠. "
@@ -295,7 +295,7 @@ Japanese,"scene_evt200829_cp2_q3_s10,7569231",sel1_txt,,<span class='scene-font-
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",sel2_txt,,<span class='scene-font-katari'>…………？</span>,<span class='scene-font-katari'>...?</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,かたくなる必要はねぇよ。<br>最初の仕事ってのは<br>誰にでもあるもんだ。,그렇게 긴장할 거 없어. 누구나 처음이라는 게 있는 법이니까.
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,はっはーん、さては照れてやがるな？<br>お嬢がかわいいからって、<br>仲間に惚れたらいけねぇぜ？,"핫하, 부끄러워하는거야? 아가씨가 귀엽다고는해도, 동료한테 반하면 안된다구?"
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>男は、ぺらぺらと喋りながら</span><br><span class='scene-font-katari'>ルリアと[ジータ]を</span><br><span class='scene-font-katari'>老婆の方へと押しやる。</span>,<span class='scene-font-katari'>남자는 쉴새없이 입을 놀리며 루리아와 단장을 노파 쪽으로 밀어붙였다.</span>
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>男は、ぺらぺらと喋りながら</span><br><span class='scene-font-katari'>ルリアと[플레이어]を</span><br><span class='scene-font-katari'>老婆の方へと押しやる。</span>,<span class='scene-font-katari'>남자는 쉴새없이 입을 놀리며 루리아와 단장을 노파 쪽으로 밀어붙였다.</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,それじゃあ、あとは兄貴と俺で<br>親分をアジトまで送り届けましょう。,그럼 이제 형님하고 제가 보스를 아지트까지 모셔다 드리죠.
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,兄貴……？,형님...?
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,って、オイラかぁ？,"아, 나 말야?"
@@ -316,14 +316,14 @@ Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,いつの間にか�
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,どうも！ 以上はローズ座、<br>アントニーと、通りすがりの<br>名役者達でお送りしました。,"고마워! 이상 로즈 극장의 안토니, 그리고 지나가던 연기자들이 보내드렸습니다."
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,お、おう……！,"그, 그래...!"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,あ、ありがとうございます！,"가, 감사합니다!"
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>[ジータ]達も、</span><br><span class='scene-font-katari'>アントニーに倣って</span><br><span class='scene-font-katari'>ぎこちなくお辞儀をする。</span>,<span class='scene-font-katari'>[지타] 일행도 안토니를 따라 어색하게 인사했다.</span>
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>[플레이어]達も、</span><br><span class='scene-font-katari'>アントニーに倣って</span><br><span class='scene-font-katari'>ぎこちなくお辞儀をする。</span>,<span class='scene-font-katari'>[플레이어] 일행도 안토니를 따라 어색하게 인사했다.</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,연극 좋아하는 여자1,アントニー！<br>私、大ファンで……！<br>すごく、すごく好きで……！,"안토니! 저 완전 팬이에요...! 진짜, 진짜 좋아해요...!"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,応援ありがとう、お嬢さん。<br>また劇場で待ってるからな。,"응원해 줘서 고마워, 아가씨. 다음에 또 극장에서 기다리고 있을게."
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,연극 좋아하는 여자1,は、はいぃ……！！<br>絶対にチケット取って行きます！,"네, 네에...! 꼭 티켓 구해서 갈게요!"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,はは、サンキュー<br>でも、あんまり無理はしないでな？,"아하하, 땡큐! 그치만 너무 무리하지는 말고."
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,연극 좋아하는 여자1,ひゃい……！,네에에...!
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,さて、と……,"어디 보자, 그럼..."
-Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>人々の歓声を集める</span><br><span class='scene-font-katari'>アントニーという男は</span><br><span class='scene-font-katari'>改めて[ジータ]達の方を向く。</span>,<span class='scene-font-katari'>안토니라는 남자는 사람들의 환성을 받으며 단장 일행을 향해 몸을 돌렸다.</span>
+Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,,<span class='scene-font-katari'>人々の歓声を集める</span><br><span class='scene-font-katari'>アントニーという男は</span><br><span class='scene-font-katari'>改めて[플레이어]達の方を向く。</span>,<span class='scene-font-katari'>안토니라는 남자는 사람들의 환성을 받으며 단장 일행을 향해 몸을 돌렸다.</span>
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,巻き込んでごめんな。でもありがとう。<br>突然なのに、合わせてくれて<br>すごく助かったし楽しかったよ。,끌어들여서 미안해. 그래도 고맙다. 갑작스러웠을 텐데 잘 맞춰줘서 엄청 다행이었고 재미있었어.
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,いえ、私達は……,"아뇨, 저희는..."
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,ああっ！ わかった！<br>思い出したぜ！,아! 알았어. 기억났어!
@@ -345,22 +345,22 @@ Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,デザートに�
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,비이,おう、ありがとな！,"그래, 고마워!"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,루리아,アントニーさん、さようなら！,"안토니 씨, 안녕히 가세요!"
 Japanese,"scene_evt200829_cp2_q3_s10,7569231",detail,안토니,ああ、また会えるといいな。,그래. 또 만났으면 좋겠다.
-Japanese,"scene_evt200829_cp2_q4_s10,7569241",synopsis,,[ジータ]達がキャピュレット城でアントニーについて話していると、ロザリンドがアントニーの話題に反応し突然声を掛けてくる。[ジータ]達と話した後、ロザリンドはバルコニーで物思いにふけるベンヴォーリオのもとを訪れた。ジュリエットと同じくベンヴォーリオもロミオに縛られている様子を見て、ロザリンドは「まるで呪いだわ」と呟くのだった。,"[지타] 일해이 캐퓰렛성에서 안토니에 대해 이야기하고 있으니, 로잘린드가 안토니의 화제에 반응하여 갑자기 말을 걸어온다. [지타] 일행화 이야기한 뒤, 로잘린드는 발코니에서 생각에 잠긴 벤볼리오를 찾아간다. 줄리엣과 같이 벤볼리오도 로미오를 잊지 못하는 모습을 보며, 로잘린드는 ""거의 저주같아""하고 중얼거리는 것이었다."
+Japanese,"scene_evt200829_cp2_q4_s10,7569241",synopsis,,[플레이어]達がキャピュレット城でアントニーについて話していると、ロザリンドがアントニーの話題に反応し突然声を掛けてくる。[플레이어]達と話した後、ロザリンドはバルコニーで物思いにふけるベンヴォーリオのもとを訪れた。ジュリエットと同じくベンヴォーリオもロミオに縛られている様子を見て、ロザリンドは「まるで呪いだわ」と呟くのだった。,"[플레이어] 일해이 캐퓰렛성에서 안토니에 대해 이야기하고 있으니, 로잘린드가 안토니의 화제에 반응하여 갑자기 말을 걸어온다. [플레이어] 일행화 이야기한 뒤, 로잘린드는 발코니에서 생각에 잠긴 벤볼리오를 찾아간다. 줄리엣과 같이 벤볼리오도 로미오를 잊지 못하는 모습을 보며, 로잘린드는 ""거의 저주같아""하고 중얼거리는 것이었다."
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,루리아,はぁ……<br>役に立ちそうな情報は<br>なかったですね。,하아... 결국 도움될 만한 정보는 없었어요.
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,비이,仕方ねぇよな。下手なこと言って<br>騒ぎを起こすわけにもいかねぇし、<br>慎重にいかねぇと。,어쩔 수 없지. 섣불리 말 꺼내다간 소동을 일으킬지도 모르니까 신중하게 나갈 수밖에.
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,루리아,あ、そういえば……<br>今日、会ったアントニーさんは<br>ローズ座の役者さんなんですよね？,"아, 그러고 보니... 오늘 만난 안토니 씨는 로즈 극장의 배우인 거죠?"
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,루리아,もう一度会えたら、<br>何かお話が聞けたりしないでしょうか？,다시 한 번 만난다면 뭔가 이야기를 들을 수 있지 않을까요?
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,？？？,<span class='scene-font-4'>アントニーですって！？</span>,<span class='scene-font-4'>안토니라고요?</span>
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,루리아,はわっ！？,하와와!
-Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,,<span class='scene-font-katari'>突然割り込んできた声に</span><br><span class='scene-font-katari'>[ジータ]達は驚いて振り返る。</span>,<span class='scene-font-katari'>갑자기 끼어든 목소리에 놀란 일행은 뒤를 돌아보았다.</span>
+Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,,<span class='scene-font-katari'>突然割り込んできた声に</span><br><span class='scene-font-katari'>[플레이어]達は驚いて振り返る。</span>,<span class='scene-font-katari'>갑자기 끼어든 목소리에 놀란 일행은 뒤를 돌아보았다.</span>
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,비이,な、なんだぁ？,"뭐, 뭐야?"
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,로잘린드,あ、ごめんなさい。<br>私……,"아, 죄송해요. 저는..."
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,루리아,えっと……？,어...?
-Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,로잘린드,……コホン。<br>貴女が[ジータ]さんですね？,...크흠. 당신이 [지타] 님이시죠?
+Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,로잘린드,……コホン。<br>貴女が[플레이어]さんですね？,...크흠. 당신이 [플레이어] 님이시죠?
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,비이,姉ちゃん、誰だ？,누님은 누군데?
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,로잘린드,私、ロザリンドと申します。<br>皆さんのお話は、ジュリエット様から<br>伺っておりますわ。,저는 로잘린드라고 합니다. 여러분에 대해서는 줄리엣님께 많이 들었습니다.
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,로잘린드,以後、お見知りおき下さいませ。,앞으로 잘 부탁드립니다.
-Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,,<span class='scene-font-katari'>ロザリンドは優雅に礼をして</span><br><span class='scene-font-katari'>[ジータ]達に微笑みかける。</span>,<span class='scene-font-katari'>로잘린드는 우아하게 인사하며 일행을 향해 미소지어 보였다.</span>
+Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,,<span class='scene-font-katari'>ロザリンドは優雅に礼をして</span><br><span class='scene-font-katari'>[플레이어]達に微笑みかける。</span>,<span class='scene-font-katari'>로잘린드는 우아하게 인사하며 일행을 향해 미소지어 보였다.</span>
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,비이,あ、確かロザリンドって……,"어, 로잘린드라면 분명..."
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,루리아,ジュリエットさんの仲良しの……？,줄리엣 씨랑 사이가 좋다는...?
 Japanese,"scene_evt200829_cp2_q4_s10,7569241",detail,로잘린드,まぁ、仲良しだなんて<br>嬉しいですわ。,"어머, 사이가 좋다는 말을 들으니 기쁘네요. "

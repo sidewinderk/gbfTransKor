@@ -1,13 +1,13 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr250_ep1,synopsis,,廃村での肝試しの最中に、回転する刃を振りかざす少女にわけもわからず追い回される[ジータ]一行。どうやら何かから身を守ろうとしているらしい少女に、一行は武器を捨てて無害を示す。一行を「あんぜん」だと判断した少女ハレゼナはビィを気に入り、疑ったお詫びとして、[ジータ]達について行くことを決める。
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>ある日のこと。肝試しをして休暇を</span><br><span class='scene-font-katari'>過ごすことに決めた[ジータ]一行は</span><br><span class='scene-font-katari'>近場の廃村を訪れていた。</span>
+Japanese,scene_fate_chr250_ep1,synopsis,,廃村での肝試しの最中に、回転する刃を振りかざす少女にわけもわからず追い回される[플레이어]一行。どうやら何かから身を守ろうとしているらしい少女に、一行は武器を捨てて無害を示す。一行を「あんぜん」だと判断した少女ハレゼナはビィを気に入り、疑ったお詫びとして、[플레이어]達について行くことを決める。
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>ある日のこと。肝試しをして休暇を</span><br><span class='scene-font-katari'>過ごすことに決めた[플레이어]一行は</span><br><span class='scene-font-katari'>近場の廃村を訪れていた。</span>
 Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>物寂しい廃村を不安そうに進む</span><br><span class='scene-font-katari'>ルリアに、ビィはなにかを</span><br><span class='scene-font-katari'>企んだ様子で近寄ってくる。</span>
 Japanese,scene_fate_chr250_ep1,detail,ビィ,なぁなぁ、ルリア。<br>こんな話、きいたことあるかぁ？<br>歩く天災って噂話なんだけどよぉ～
 Japanese,scene_fate_chr250_ep1,detail,ルリア,あ、あるく、テンサイさん、ですか……？<br>知らないです……
 Japanese,scene_fate_chr250_ep1,detail,ビィ,へへへ……こういう寂しい<br>場所に突然、ドドドって音と<br>一緒に女が現れて……
 Japanese,scene_fate_chr250_ep1,detail,ビィ,回転のこぎりを振り回して、<br>出会ったやつを手当たり次第、<br>八つ裂きにしちまうんだってよ！！
-Japanese,scene_fate_chr250_ep1,detail,ルリア,ひぃっ……や、八つ……！？<br>もう！ そんなの聞きたくないです！<br>う、うう……[ジータ]～……
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>怯えた様子でルリアが[ジータ]の</span><br><span class='scene-font-katari'>手を握り、[ジータ]はビィを</span><br><span class='scene-font-katari'>叱るように睨み付ける。</span>
+Japanese,scene_fate_chr250_ep1,detail,ルリア,ひぃっ……や、八つ……！？<br>もう！ そんなの聞きたくないです！<br>う、うう……[플레이어]～……
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>怯えた様子でルリアが[플레이어]の</span><br><span class='scene-font-katari'>手を握り、[플레이어]はビィを</span><br><span class='scene-font-katari'>叱るように睨み付ける。</span>
 Japanese,scene_fate_chr250_ep1,detail,ビィ,わ、悪かったよ……すまねぇ。<br>単なる噂話だしよ、面白半分に<br>聞いてくれりゃと思って……
 Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>そこまで口にした</span><br><span class='scene-font-katari'>ビィの言葉を裂く様に、突然、</span><br><span class='scene-font-katari'>背後から駆動音が響き始める。</span>
 Japanese,scene_fate_chr250_ep1,detail,ルリア,び、ビィさん……？<br>さっきの話の、音って……<br>こういう音ですか……？
@@ -31,10 +31,10 @@ Japanese,scene_fate_chr250_ep1,detail,？？？,ど～こいったぁ～？<br>�
 Japanese,scene_fate_chr250_ep1,detail,ビィ,だ、誰が出ていくかぁ……<br>つーかこわいこわいって、<br>アイツが一番怖ぇよ……！
 Japanese,scene_fate_chr250_ep1,detail,ルリア,あの子が……<br>歩く、テンサイさん……？
 Japanese,scene_fate_chr250_ep1,detail,ビィ,ああ、間違いねぇだろうな……<br>噂で聞いてたようなのよりも<br>ずっとおっかねぇ奴だぜ……ありゃ。
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>瞬間、小屋の壁を貫通し、</span><br><span class='scene-font-katari'>[ジータ]達の真横に</span><br><span class='scene-font-katari'>回転する刃が現れる。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>瞬間、小屋の壁を貫通し、</span><br><span class='scene-font-katari'>[플레이어]達の真横に</span><br><span class='scene-font-katari'>回転する刃が現れる。</span>
 Japanese,scene_fate_chr250_ep1,detail,ビィ,ひぇっ！
 Japanese,scene_fate_chr250_ep1,detail,？？？,かわぃ～悲鳴が聞こえたなァ！！<br>ビィ～ンゴッ！ ケケケケケッ！！
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>[ジータ]は慌てて、</span><br><span class='scene-font-katari'>飛び出すように小屋から脱出する。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>[플레이어]は慌てて、</span><br><span class='scene-font-katari'>飛び出すように小屋から脱出する。</span>
 Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>少女は瞬く間に小屋を解体し、</span><br><span class='scene-font-katari'>木屑へと変えてしまった。</span>
 Japanese,scene_fate_chr250_ep1,detail,？？？,ど～お～？ ボクのコレ、<br>サイコーにクレ～ジ～だろぉ～？
 Japanese,scene_fate_chr250_ep1,detail,？？？,ケケケッ！ 全部全部バラバラに<br>してくれるんだぁ……<br>まぢでヤベェぞコラ。
@@ -47,13 +47,13 @@ Japanese,scene_fate_chr250_ep1,detail,ビィ,し、知らなかったんだ！�
 Japanese,scene_fate_chr250_ep1,detail,？？？,ダウトォッ！！<br>どうせそーやって騙して！！<br>ボクにひどいことするんだろ！！
 Japanese,scene_fate_chr250_ep1,detail,ビィ,ひゃあっ！？ だ、ダメだ……！<br>話が通じねぇえ！！
 Japanese,scene_fate_chr250_ep1,detail,？？？,ヒヒヒ、ケケケ……この空には、<br>怖いもんが満ちあふれてる……！<br>だから先に見つけて全部つぶすんだ！
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>凶悪的な笑みを『引きつらせ』、</span><br><span class='scene-font-katari'>刃を振りかざした少女は、</span><br><span class='scene-font-katari'>[ジータ]ににじり寄る。</span>
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>その笑みに違和感を覚えた</span><br><span class='scene-font-katari'>[ジータ]は武器を捨てて両手を広げ</span><br><span class='scene-font-katari'>己の無害を少女に証明しようとする。</span>
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>それを見たルリアも[ジータ]と</span><br><span class='scene-font-katari'>同じように両手を広げた。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>凶悪的な笑みを『引きつらせ』、</span><br><span class='scene-font-katari'>刃を振りかざした少女は、</span><br><span class='scene-font-katari'>[플레이어]ににじり寄る。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>その笑みに違和感を覚えた</span><br><span class='scene-font-katari'>[플레이어]は武器を捨てて両手を広げ</span><br><span class='scene-font-katari'>己の無害を少女に証明しようとする。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>それを見たルリアも[플레이어]と</span><br><span class='scene-font-katari'>同じように両手を広げた。</span>
 Japanese,scene_fate_chr250_ep1,detail,？？？,ケケケ……ヒヒッ！ <br>油断させるつもりか……？<br>騙されねぇ！ サヨナラバイバイだッ！
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>そう叫んだ少女は[ジータ]の</span><br><span class='scene-font-katari'>首を狙って刃を思いっきり振った。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>そう叫んだ少女は[플레이어]の</span><br><span class='scene-font-katari'>首を狙って刃を思いっきり振った。</span>
 Japanese,scene_fate_chr250_ep1,detail,？？？,…………
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>しかし、回転する刃は</span><br><span class='scene-font-katari'>[ジータ]の首に触れない</span><br><span class='scene-font-katari'>ギリギリの位置で止まっていた。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>しかし、回転する刃は</span><br><span class='scene-font-katari'>[플레이어]の首に触れない</span><br><span class='scene-font-katari'>ギリギリの位置で止まっていた。</span>
 Japanese,scene_fate_chr250_ep1,detail,？？？,ギケケケケケ！！<br>おまえら、サイコーにクレ～ジ～だなぁ！<br>無抵抗！？ ヒュー！ イカすぅ～！
 Japanese,scene_fate_chr250_ep1,detail,？？？,はぁ……ラブリィなトカゲもいるしぃ、<br>ボクにひどいことしない人達なら、<br>本当にサイコーなのに……
 Japanese,scene_fate_chr250_ep1,detail,？？？,おまえら……何が……<br>狙いなんだよぅ……<br>こんな危ないことして……
@@ -61,7 +61,7 @@ Japanese,scene_fate_chr250_ep1,detail,ルリア,え、っとその……<br>本�
 Japanese,scene_fate_chr250_ep1,detail,ビィ,そういや隠れ家つってたし……<br>もしかして何か困ってんのか？
 Japanese,scene_fate_chr250_ep1,detail,？？？,…………！
 Japanese,scene_fate_chr250_ep1,detail,？？？,……まぢ？<br>なぁ、おまえら……<br>あんぜんなのか？
-Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>少女の問いに[ジータ]は頷き、</span><br><span class='scene-font-katari'>己の素性を伝える。すると少女は</span><br><span class='scene-font-katari'>ようやく信じた様子を見せ武器を下ろす。</span>
+Japanese,scene_fate_chr250_ep1,detail,,<span class='scene-font-katari'>少女の問いに[플레이어]は頷き、</span><br><span class='scene-font-katari'>己の素性を伝える。すると少女は</span><br><span class='scene-font-katari'>ようやく信じた様子を見せ武器を下ろす。</span>
 Japanese,scene_fate_chr250_ep1,detail,？？？,……そっか……<br>あんぜんだったんだ、まぢで……
 Japanese,scene_fate_chr250_ep1,detail,？？？,ヒャアッ！ サイッコーにクレ～ジ～！<br>ケケケッ！！ その図太い肝と瞳と<br>ついでに赤いトカゲが気に入ったァ！
 Japanese,scene_fate_chr250_ep1,detail,ビィ,うわぁっ！？<br>な、なんだよ急に！！
@@ -69,7 +69,7 @@ Japanese,scene_fate_chr250_ep1,detail,？？？,ヒヒヒッ、サイコーに�
 Japanese,scene_fate_chr250_ep1,detail,ビィ,は、はぁ！？<br>どうしてそうなった！？
 Japanese,scene_fate_chr250_ep1,detail,？？？,おまえら、騎空士なんだろ～？<br>ならよぉ、ついてけば、もう隠れ家を<br>いちいち探す手間もないじゃんねー？
 Japanese,scene_fate_chr250_ep1,detail,？？？,それにーおまえら、あんぜんなんだろ？ <br>ヒヒヒッ！ ならなら、<br>ついてけばあんしんじゃーん！
-Japanese,scene_fate_chr250_ep1,detail,ビィ,う、うーん……<br>どうするよ[ジータ]？
+Japanese,scene_fate_chr250_ep1,detail,ビィ,う、うーん……<br>どうするよ[플레이어]？
 Japanese,scene_fate_chr250_ep1,sel1_txt,,<span class='scene-font-katari'>サイコーにいいよ！</span>
 Japanese,scene_fate_chr250_ep1,sel2_txt,,<span class='scene-font-katari'>これ、断れるの……？</span>
 Japanese,scene_fate_chr250_ep1,detail,？？？,ん～！ サイコーにクレ～ジ～ッ！<br>話が分かるやつは、<br>好き好き大好き超ラブリィ～！
@@ -114,16 +114,16 @@ Japanese,scene_chr250_q1_s10,detail,ハレゼナ,……ださくないもん。<
 Japanese,scene_chr250_q1_s10,detail,,<span class='scene-font-katari'>逆上したハレゼナは、</span><br><span class='scene-font-katari'>追いかけてくる帝国兵に</span><br><span class='scene-font-katari'>回転のこぎりを向ける。</span>
 Japanese,scene_chr250_q1_s10,detail,帝国兵,ぬわぁっ！？<br>な、なんだこいつはぁ！？
 Japanese,scene_chr250_q1_s10,detail,ハレゼナ,やつあたりぃぃぃぃ！！！<br>おまえらみーんな！！<br>サヨナラバイバイッ！！
-Japanese,scene_chr250_q1_s10,detail,ビィ,ああ、もう！！<br>こうなったらやるしかねぇ！！<br>行くぜ！ [ジータ]！！
-English,scene_fate_chr250_ep1,synopsis,,"While exploring a ghost town, [Djeeta] and company run into a girl waving around a chain saw. When they put down their weapons as an offer of peace, the girl, Hallessena, decides to join them."
-English,scene_fate_chr250_ep1,detail,,"On a day off, [Djeeta]'s crew visits a nearby ghost town as a test of courage."
+Japanese,scene_chr250_q1_s10,detail,ビィ,ああ、もう！！<br>こうなったらやるしかねぇ！！<br>行くぜ！ [플레이어]！！
+English,scene_fate_chr250_ep1,synopsis,,"While exploring a ghost town, [플레이어] and company run into a girl waving around a chain saw. When they put down their weapons as an offer of peace, the girl, Hallessena, decides to join them."
+English,scene_fate_chr250_ep1,detail,,"On a day off, [플레이어]'s crew visits a nearby ghost town as a test of courage."
 English,scene_fate_chr250_ep1,detail,,"Lyria seems anxious about walking through the spooky town, and Vyrn comes up beside her, not one to miss a chance for mischief."
 English,scene_fate_chr250_ep1,detail,Vyrn,"Hey, Lyria. Have you heard the tale of the Walking Wraith?"
 English,scene_fate_chr250_ep1,detail,Lyria,Th-the Walking Wraith? I don't think so... What is it?
 English,scene_fate_chr250_ep1,detail,Vyrn,Heh-heh... They say she haunts spooky places like this. So right when you least expect it—Vrmvrmvrm!—and a woman appears...
 English,scene_fate_chr250_ep1,detail,Vyrn,"Waving around a chain saw! She goes for anyone she sees, especially the person with the most unusual hair color!"
-English,scene_fate_chr250_ep1,detail,Lyria,Eeek! Unusual hair? Stop! I don't wanna hear any more! [Djeeta]! Vyrn's being a meanie!
-English,scene_fate_chr250_ep1,detail,,Lyria quivers in fear as she grabs [Djeeta]'s hand. The captain scowls disapprovingly at Vyrn.
+English,scene_fate_chr250_ep1,detail,Lyria,Eeek! Unusual hair? Stop! I don't wanna hear any more! [플레이어]! Vyrn's being a meanie!
+English,scene_fate_chr250_ep1,detail,,Lyria quivers in fear as she grabs [플레이어]'s hand. The captain scowls disapprovingly at Vyrn.
 English,scene_fate_chr250_ep1,detail,Vyrn,"Geez, sorry. My bad. It's only a rumor... I think. And I kinda made the hair part up. I thought I'd just have some fun."
 English,scene_fate_chr250_ep1,detail,,"As if on cue, a whirring mechanical noise suddenly starts up from behind them."
 English,scene_fate_chr250_ep1,detail,Lyria,V-Vyrn? That buzzing sound you were talking about before... Did it sound anything like this?
@@ -147,10 +147,10 @@ English,scene_fate_chr250_ep1,detail,???,"Come out, come out, wherever you are! 
 English,scene_fate_chr250_ep1,detail,Vyrn,Who in their right mind would go out there? And she calls <span class='scene-font-italic'>us</span> the scary ones? Geez!
 English,scene_fate_chr250_ep1,detail,Lyria,Is she the wraith you were talking about before?
 English,scene_fate_chr250_ep1,detail,Vyrn,"Yeah, that's gotta be her! She's even crazier than the rumors say!"
-English,scene_fate_chr250_ep1,detail,,"Suddenly the chain saw blade comes shrieking through the wall, just missing [Djeeta]'s face."
+English,scene_fate_chr250_ep1,detail,,"Suddenly the chain saw blade comes shrieking through the wall, just missing [플레이어]'s face."
 English,scene_fate_chr250_ep1,detail,Vyrn,Yikes!
 English,scene_fate_chr250_ep1,detail,???,Heeere's Hallie!<br>What a lovely scream ringing in my ears! Sounds like I found the cream filling! Ha-ha!
-English,scene_fate_chr250_ep1,detail,,[Djeeta]'s crew dashes out of the cabin in a panic.
+English,scene_fate_chr250_ep1,detail,,[플레이어]'s crew dashes out of the cabin in a panic.
 English,scene_fate_chr250_ep1,detail,,"The girl cackles madly as she demolishes the cabin, leaving only sawdust in her wake."
 English,scene_fate_chr250_ep1,detail,???,Well? Whaddya think of my little friend here? Isn't it crazy to the max?
 English,scene_fate_chr250_ep1,detail,???,"Hee-hee-hee! I'm gonna cut everything to pieces... and then I'm gonna cut the <span class='scene-font-italic'>pieces</span> into pieces! Like, no joke."
@@ -163,11 +163,11 @@ English,scene_fate_chr250_ep1,detail,Vyrn,"W-we had no idea! We just came here t
 English,scene_fate_chr250_ep1,detail,???,"Liars! I know what you're up to... First you'll trick me, and then you'll get me!"
 English,scene_fate_chr250_ep1,detail,Vyrn,Argh! It's no use! She's not listening to us!
 English,scene_fate_chr250_ep1,detail,???,"Hee-hee! Ha-ha! So much scary in the sky! Slice 'em up and watch 'em... Well, you'll see!"
-English,scene_fate_chr250_ep1,detail,,"The girl creeps toward [Djeeta], grinning into the captain's eyes as she brandishes the chain saw over her head."
-English,scene_fate_chr250_ep1,detail,,But [Djeeta] senses something else behind the apparently evil grimace. The captain's weapon clatters to the floor as a show of peace.
-English,scene_fate_chr250_ep1,detail,,"Lyria follows suit, raising her hands along with [Djeeta]."
+English,scene_fate_chr250_ep1,detail,,"The girl creeps toward [플레이어], grinning into the captain's eyes as she brandishes the chain saw over her head."
+English,scene_fate_chr250_ep1,detail,,But [플레이어] senses something else behind the apparently evil grimace. The captain's weapon clatters to the floor as a show of peace.
+English,scene_fate_chr250_ep1,detail,,"Lyria follows suit, raising her hands along with [플레이어]."
 English,scene_fate_chr250_ep1,detail,???,"Ha-ha... Hee-hee! Nice try, but <span class='scene-font-italic'>nope</span>! Sayonara-bye-bye!"
-English,scene_fate_chr250_ep1,detail,,"Shrieking like a raging banshee, the girl swings her roaring weapon at [Djeeta]'s exposed neck..."
+English,scene_fate_chr250_ep1,detail,,"Shrieking like a raging banshee, the girl swings her roaring weapon at [플레이어]'s exposed neck..."
 English,scene_fate_chr250_ep1,detail,???,...
 English,scene_fate_chr250_ep1,detail,,But the saw stops inches from its target.
 English,scene_fate_chr250_ep1,detail,???,Ha-ha! Consider me schooled on bein' crazy! No defense? From an incoming chain saw? Insanity!
@@ -177,7 +177,7 @@ English,scene_fate_chr250_ep1,detail,Lyria,Um... We just wanted to show you we d
 English,scene_fate_chr250_ep1,detail,Vyrn,"Hey, you were talking about your refuge... Are you in some kinda trouble?"
 English,scene_fate_chr250_ep1,detail,???,...!
 English,scene_fate_chr250_ep1,detail,???,You serious? So you guys really aren't out to get me?
-English,scene_fate_chr250_ep1,detail,,"[Djeeta] nods and explains their situation. The girl, who finally seems to trust the crew, lowers her weapon."
+English,scene_fate_chr250_ep1,detail,,"[플레이어] nods and explains their situation. The girl, who finally seems to trust the crew, lowers her weapon."
 English,scene_fate_chr250_ep1,detail,???,I see. So I guess you guys are safe after all.
 English,scene_fate_chr250_ep1,detail,???,"Ha! How insane is that! Ha-ha! And I love that lizard! He's bold, brash, and even <span class='scene-font-italic'>red</span>! He's just to die for!"
 English,scene_fate_chr250_ep1,detail,Vyrn,Huh? Me? What?
@@ -185,7 +185,7 @@ English,scene_fate_chr250_ep1,detail,???,"Hee-hee. I'm insanely sorry! My bad! T
 English,scene_fate_chr250_ep1,detail,Vyrn,What? How do you figure that?
 English,scene_fate_chr250_ep1,detail,???,"You guys are skyfarers, right? So if I join you, I won't have to run around lookin' for hiding places."
 English,scene_fate_chr250_ep1,detail,???,"And you guys are safe, right? Hee-hee! So if I go with you, I'll be happy-dance fine!"
-English,scene_fate_chr250_ep1,detail,Vyrn,"Hmm... Whaddya think, [Djeeta]?"
+English,scene_fate_chr250_ep1,detail,Vyrn,"Hmm... Whaddya think, [플레이어]?"
 English,scene_fate_chr250_ep1,sel1_txt,,That's an insanely good idea.
 English,scene_fate_chr250_ep1,sel2_txt,,We'd be crazy to refuse.
 English,scene_fate_chr250_ep1,detail,???,"Yesss! You've made me happy to the max! And I love people who do that! Love 'em to bits! Little, tiny bits!"
@@ -230,4 +230,4 @@ English,scene_chr250_q1_s10,detail,Hallessena,I'll show you how insanely cool th
 English,scene_chr250_q1_s10,detail,,"Hallessena turns her chain saw on the pursuing imperial soldiers, its blade shrieking as furiously as she is."
 English,scene_chr250_q1_s10,detail,Imperial Soldier,Gah! What the hell is that!
 English,scene_chr250_q1_s10,detail,Hallessena,Take no prisoners! Sayonara-bye-bye!
-English,scene_chr250_q1_s10,detail,Vyrn,"Looks like we're into it now! [Djeeta], let's do this!"
+English,scene_chr250_q1_s10,detail,Vyrn,"Looks like we're into it now! [플레이어], let's do this!"

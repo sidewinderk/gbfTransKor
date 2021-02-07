@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt191228_cp2_q1_s10,synopsis,,[ジータ]達が町へ行くと建物が壊れており何かの襲撃があったらしいとわかる。町の人達がジョイを見て逃げたり、町に煩悩の気配が漂っていたりすることから町を襲撃したのはジョヤを所持していた人物の可能性が高いと考える一行。クビラ達が煩悩にあてられた町の住人から煩悩を払っていると、険しい顔をしたユイシスが現れる。
+Japanese,scene_evt191228_cp2_q1_s10,synopsis,,[플레이어]達が町へ行くと建物が壊れており何かの襲撃があったらしいとわかる。町の人達がジョイを見て逃げたり、町に煩悩の気配が漂っていたりすることから町を襲撃したのはジョヤを所持していた人物の可能性が高いと考える一行。クビラ達が煩悩にあてられた町の住人から煩悩を払っていると、険しい顔をしたユイシスが現れる。
 Japanese,scene_evt191228_cp2_q1_s10,detail,,<span class='scene-font-katari'>クビラとビカラの示した島の中央は</span><br><span class='scene-font-katari'>爆破されたように崩壊し、</span><br><span class='scene-font-katari'>煙の黒い筋が伸びていた。</span>
-Japanese,scene_evt191228_cp2_q1_s10,detail,,<span class='scene-font-katari'>町で何かあったらしいと理解しながら、</span><br><span class='scene-font-katari'>[ジータ]達は街道を進んだ。</span>
+Japanese,scene_evt191228_cp2_q1_s10,detail,,<span class='scene-font-katari'>町で何かあったらしいと理解しながら、</span><br><span class='scene-font-katari'>[플레이어]達は街道を進んだ。</span>
 Japanese,scene_evt191228_cp2_q1_s10,detail,ビカラ,間違いない。<br>この町から煩悩の気配がするよ。
 Japanese,scene_evt191228_cp2_q1_s10,detail,クビラ,でも、気配の感じからして、<br>煩悩の核になるものはないみたい。<br>ジョヤはもう町を離れてるのかも……
 Japanese,scene_evt191228_cp2_q1_s10,detail,루리아,建物が壊れてるみたいですけど、<br>煩悩と何か関係があるんでしょうか？
@@ -28,7 +28,7 @@ Japanese,scene_evt191228_cp2_q1_s10,detail,<span class='scene-font-1'>煩悩に�
 Japanese,scene_evt191228_cp2_q1_s10,detail,正気の住人,独り占めなんてするわけないだろ！？<br>塗り終わったら渡すから、<br>もう少し待っててくれ。
 Japanese,scene_evt191228_cp2_q1_s10,detail,비이,あちゃー……<br>ぼんぼん言ってる奴がいるな。
 Japanese,scene_evt191228_cp2_q1_s10,detail,ビカラ,これだけ煩悩の気配がしてるなら<br>無理ないよ。
-Japanese,scene_evt191228_cp2_q1_s10,detail,クビラ,でもこの人数なら<br>私とビカラちゃんですぐに払えそう。<br>[ジータ]、少し待ってて。
+Japanese,scene_evt191228_cp2_q1_s10,detail,クビラ,でもこの人数なら<br>私とビカラちゃんですぐに払えそう。<br>[플레이어]、少し待ってて。
 Japanese,scene_evt191228_cp2_q1_s10,detail,,<span class='scene-font-katari'>クビラとビカラは手慣れた様子で</span><br><span class='scene-font-katari'>町の人々から煩悩を払っていく。</span>
 Japanese,scene_evt191228_cp2_q1_s10,detail,正気に戻った住人,っ……！<br>私ったら、一体何を？
 Japanese,scene_evt191228_cp2_q1_s10,detail,ビカラ,無事に払えたみたいだね。<br>これでひと安心だ。
@@ -38,29 +38,29 @@ Japanese,scene_evt191228_cp2_q1_s10,detail,ユイシス,ありがとう。<br>�
 Japanese,scene_evt191228_cp2_q1_s10,detail,ユイシス,先程逃げてきた方の話は本当でしたか。<br>犯人は現場に戻ってくるとは<br>言ったものですが、いい度胸ですね。
 Japanese,scene_evt191228_cp2_q1_s10,detail,ジョイ,ジョイ、ハンニン……？
 Japanese,scene_evt191228_cp2_q1_s10,detail,ジョイ,ゴカイ、ゴニン、カンチガイ！
-Japanese,scene_evt191228_cp2_q2_s10,synopsis,,ユイシスはジョイがジョヤとは別物だと知り、[ジータ]達を犯人と誤解していたことを詫びる。ユイシスの話によると、少し前にジョヤを操っていた男がユイシスの参列していた葬儀場に高熱の弾を撃ったのだという。ユイシスは仲間を侮辱した男にオトシマエをつけさせたいと言い、[ジータ]も応じる。ジョイもジョヤが悪者の仲間だと思われるのは可哀想だと同行を決意する。
+Japanese,scene_evt191228_cp2_q2_s10,synopsis,,ユイシスはジョイがジョヤとは別物だと知り、[플레이어]達を犯人と誤解していたことを詫びる。ユイシスの話によると、少し前にジョヤを操っていた男がユイシスの参列していた葬儀場に高熱の弾を撃ったのだという。ユイシスは仲間を侮辱した男にオトシマエをつけさせたいと言い、[플레이어]も応じる。ジョイもジョヤが悪者の仲間だと思われるのは可哀想だと同行を決意する。
 Japanese,scene_evt191228_cp2_q2_s10,detail,루리아,はわわっ、ジョイ君、<br>どうしましたか！？
 Japanese,scene_evt191228_cp2_q2_s10,detail,비이,あれ？<br>ジョイの後ろにいるのって<br>物騒な姉ちゃんじゃねぇか。
-Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,え？<br>ビィさんに、ルリアさん、<br>それに[ジータ]も……！
+Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,え？<br>ビィさんに、ルリアさん、<br>それに[플레이어]も……！
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,でも、話に聞いた通り、<br>あいつらが持っていた釣鐘の兵器は<br>ここにあるし……
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,これは一体どういうこと？
-Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>ユイシスは困惑した様子で</span><br><span class='scene-font-katari'>ジョイと[ジータ]達を見比べる。</span>
+Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>ユイシスは困惑した様子で</span><br><span class='scene-font-katari'>ジョイと[플레이어]達を見比べる。</span>
 Japanese,scene_evt191228_cp2_q2_s10,detail,비이,釣鐘の兵器って、<br>ジョヤのことを言ってんのか？
 Japanese,scene_evt191228_cp2_q2_s10,detail,루리아,この子はジョイ君です。<br>ジョヤとよく似てますけど、<br>別の子なんですよ。
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,別の子？<br>そういえば葬式の時に見たのより<br>小さい気もする……
 Japanese,scene_evt191228_cp2_q2_s10,detail,ジョイ,ジョイ、ジョヤ、チガウ！
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,え、喋った……<br>って、それよりも……
-Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,ごめんなさい、[ジータ]……<br>私ったら、とんだ勘違いを……
+Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,ごめんなさい、[플레이어]……<br>私ったら、とんだ勘違いを……
 Japanese,scene_evt191228_cp2_q2_s10,detail,비이,まぁ町の人達も結構勘違いしてた<br>みてぇだし、気にすんなよ。
-Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>彼女の名前はユイシス。</span><br><span class='scene-font-katari'>ユイシスはその身を呈して人を助けた</span><br><span class='scene-font-katari'>[ジータ]の義侠心に感銘を受け……</span>
-Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>以来[ジータ]と盃を交わして</span><br><span class='scene-font-katari'>“家族”となり、旅をともにしていた。</span>
-Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>それから暫くして、[ジータ]は</span><br><span class='scene-font-katari'>ユイシスが旅をしていた理由を</span><br><span class='scene-font-katari'>知ることになる。</span>
+Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>彼女の名前はユイシス。</span><br><span class='scene-font-katari'>ユイシスはその身を呈して人を助けた</span><br><span class='scene-font-katari'>[플레이어]の義侠心に感銘を受け……</span>
+Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>以来[플레이어]と盃を交わして</span><br><span class='scene-font-katari'>“家族”となり、旅をともにしていた。</span>
+Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>それから暫くして、[플레이어]は</span><br><span class='scene-font-katari'>ユイシスが旅をしていた理由を</span><br><span class='scene-font-katari'>知ることになる。</span>
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,私の家は、<br>とある島をシメていた騎士団……<br>ディートリア組の頭の家系だったの。
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,でも、あの日、<br>「アイツ」が裏切って……<br>家の組や皆は……
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,だから、私はアイツを探して、<br>旅に出たのよ。
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,私自身の筋を通し、<br>頭として組を再興するために……
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,そして、私の家を……<br>組を潰したオトシマエを<br>アイツに取らせるために……
-Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>ユイシスの事情を知った[ジータ]は</span><br><span class='scene-font-katari'>その目的に協力すると</span><br><span class='scene-font-katari'>約束したのだった。</span>
+Japanese,scene_evt191228_cp2_q2_s10,detail,,<span class='scene-font-katari'>ユイシスの事情を知った[플레이어]は</span><br><span class='scene-font-katari'>その目的に協力すると</span><br><span class='scene-font-katari'>約束したのだった。</span>
 Japanese,scene_evt191228_cp2_q2_s10,detail,루리아,あの、ユイシスさんはこの町で<br>何が起きたのか知ってるんですか？
 Japanese,scene_evt191228_cp2_q2_s10,detail,루리아,大切な人のお葬式があるからって<br>艇を降りてましたけど、きっと<br>この町でお葬式があったんですよね？
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,ええ、全部知っているわ。<br>こんな言い方するのもなんだけど、<br>被害者みたいなものだもの。
@@ -78,14 +78,14 @@ Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,ええ、吹き飛んだ
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,趣味の悪い格好をした男が<br>鐘を操っていて、<br>鐘の底から高熱の弾を撃ってきたの。
 Japanese,scene_evt191228_cp2_q2_s10,detail,ビカラ,高熱の弾？<br>ジョヤにそんな機能あったかな？
 Japanese,scene_evt191228_cp2_q2_s10,detail,クビラ,大暴走の時は煩悩を浴びせて<br>人を惑わせてたはず……<br>なんだか気になるね。
-Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,[ジータ]、<br>折り入ってお願いがあるの。
+Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,[플레이어]、<br>折り入ってお願いがあるの。
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,私の家族達が受けた痛みと屈辱を<br>あいつらには思い知らせる必要があるわ。
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,あいつらの潜伏先なら<br>割り出せているから、<br>あとはカチコミと行くだけなの！
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,だからお願いします！<br>今すぐあいつらの所に<br>行かせてください！
 Japanese,scene_evt191228_cp2_q2_s10,sel1_txt,,<span class='scene-font-katari'>一緒にカチコミだ！</span>
 Japanese,scene_evt191228_cp2_q2_s10,sel2_txt,,<span class='scene-font-katari'>ジョヤのことも気になるしね</span>
-Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,恩に着ます、[ジータ]！
-Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,[ジータ]もあいつらに用があるの？<br>一緒に来てくれるなら御の字だわ！
+Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,恩に着ます、[플레이어]！
+Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,[플레이어]もあいつらに用があるの？<br>一緒に来てくれるなら御の字だわ！
 Japanese,scene_evt191228_cp2_q2_s10,detail,ビカラ,ジョヤがいるんならぼく達も行くよ！<br>そうだろ、クビラ？
 Japanese,scene_evt191228_cp2_q2_s10,detail,クビラ,うん。<br>ジョヤが巻き込まれてるんなら、<br>ここは私達の出番だね！
 Japanese,scene_evt191228_cp2_q2_s10,detail,ユイシス,助かるわ、ふたりとも。<br>そうと決まれば準備してくるわね。
@@ -166,10 +166,10 @@ Japanese,scene_evt191228_cp2_q3_s10,detail,黒服の男３,全てが片づくま
 Japanese,scene_evt191228_cp2_q3_s10,detail,ユイシス,ええ、よろしく頼むわね。
 Japanese,scene_evt191228_cp2_q3_s10,detail,루리아,ユイシスさん、<br>仲間の人達からとっても<br>慕われているんですね。
 Japanese,scene_evt191228_cp2_q3_s10,detail,비이,ディートリア組があった頃は、<br>あんな風に皆から<br>大事にされてたんだろうな。
-Japanese,scene_evt191228_cp2_q3_s10,detail,ユイシス,お待たせ、[ジータ]。<br>私の方は準備が済んだわ。<br>出発しましょ。
-Japanese,scene_evt191228_cp2_q3_s10,detail,,<span class='scene-font-katari'>[ジータ]は強く頷き、</span><br><span class='scene-font-katari'>瓦礫の散らばった町を</span><br><span class='scene-font-katari'>後にするのだった。</span>
-Japanese,scene_evt191228_cp2_q4_s10,synopsis,,[ジータ]達はユイシスの持つ地図を頼りに敵のアジトを目指す。一行は敵のアジトの前に着く。戦いに敗れた手下達はアジトの中に戻っていく。ユイシスは自分は筋を通すために戦っているだけ、貴方にまで強要するつもりはないと遠回しにジョイの覚悟を問う。ジョイはジョヤを助けると決めたからとこのまま行くことを決意する。ユイシスはカチコミ開始を宣言するようにアジトの扉を剣で破るのだった。
-Japanese,scene_evt191228_cp2_q4_s10,detail,,<span class='scene-font-katari'>ジョヤを所持している犯人に</span><br><span class='scene-font-katari'>会うべく、[ジータ]は</span><br><span class='scene-font-katari'>荒野を進んでいく。</span>
+Japanese,scene_evt191228_cp2_q3_s10,detail,ユイシス,お待たせ、[플레이어]。<br>私の方は準備が済んだわ。<br>出発しましょ。
+Japanese,scene_evt191228_cp2_q3_s10,detail,,<span class='scene-font-katari'>[플레이어]は強く頷き、</span><br><span class='scene-font-katari'>瓦礫の散らばった町を</span><br><span class='scene-font-katari'>後にするのだった。</span>
+Japanese,scene_evt191228_cp2_q4_s10,synopsis,,[플레이어]達はユイシスの持つ地図を頼りに敵のアジトを目指す。一行は敵のアジトの前に着く。戦いに敗れた手下達はアジトの中に戻っていく。ユイシスは自分は筋を通すために戦っているだけ、貴方にまで強要するつもりはないと遠回しにジョイの覚悟を問う。ジョイはジョヤを助けると決めたからとこのまま行くことを決意する。ユイシスはカチコミ開始を宣言するようにアジトの扉を剣で破るのだった。
+Japanese,scene_evt191228_cp2_q4_s10,detail,,<span class='scene-font-katari'>ジョヤを所持している犯人に</span><br><span class='scene-font-katari'>会うべく、[플레이어]は</span><br><span class='scene-font-katari'>荒野を進んでいく。</span>
 Japanese,scene_evt191228_cp2_q4_s10,detail,ビカラ,事件が起きてからそんなに時間が<br>経ってないのに、<br>よく犯人の居場所がわかったね。
 Japanese,scene_evt191228_cp2_q4_s10,detail,ユイシス,葬儀場の近くに、<br>こんな物が落ちていたのよ。
 Japanese,scene_evt191228_cp2_q4_s10,detail,,<span class='scene-font-katari'>ユイシスは手に持った地図を</span><br><span class='scene-font-katari'>ビカラに見せる。</span>

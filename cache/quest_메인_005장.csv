@@ -1,13 +1,13 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp5_q1_s10,511",synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>[ジータ]</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>[ジータ]</span>達を待ち構えていた。,"드랑크, 스츠룸에게 받은 편지를 따라 <span class='scene-font-place'>발츠 공국</span>에 들린 <span>[지타]</span>일행. 철강업으로 번창한 드라프의 섬에서는, 어떤 사건이 <span>[지타]</span>일행을 기다리고 있었다."
+Japanese,"scene_cp5_q1_s10,511",synopsis,,ドランク、スツルムからの手紙に従い、<span class='scene-font-place'>バルツ公国</span>を訪れた<span>[플레이어]</span>一行。鉄鋼業で栄えるドラフの島では、とある事件が<span>[플레이어]</span>達を待ち構えていた。,"드랑크, 스츠룸에게 받은 편지를 따라 <span class='scene-font-place'>발츠 공국</span>에 들린 <span>[플레이어]</span>일행. 철강업으로 번창한 드라프의 섬에서는, 어떤 사건이 <span>[플레이어]</span>일행을 기다리고 있었다."
 Japanese,"scene_cp5_q1_s10,511",detail,,<span class='scene-font-katari'>謎の手紙と好奇心を道標に</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと辿り着いた一同を、</span><br><span class='scene-font-katari'>煙突の並ぶ赤茶けた大地が出迎えた。</span>,<span class='scene-font-katari'>이상한 편지와 호기심을 이정표로 하여</span><br><span class='scene-font-place'>발츠 공국</span><span class='scene-font-katari'>에 도착한 일동을、</span><br><span class='scene-font-katari'>굴뚝이 늘어선 검붉은 대지가 맞이했다.</span>
 Japanese,"scene_cp5_q1_s10,511",detail,라캄,ふ～ん、さすが群島界の工場、<br>活気があるねぇ。<br>ドラフ族の人が多いや。,흐음~ 역시 군도계의 공장、<br>활기가 있구만.<br>드라프족 사람도 많고말야.
 Japanese,"scene_cp5_q1_s10,511",detail,카타리나,鉄の職人と言えば、ドラフだからな。,철을 다루는 장인이라고 하면、드라프니까 말이지.
 Japanese,"scene_cp5_q1_s10,511",detail,카타리나,……というか、なにか<br>空気がピリピリしてるな？,……이랄까、뭔가<br>분위기가 싸한것 같은데？
-Japanese,"scene_cp5_q1_s10,511",detail,루리아,そうですね、[ジータ]<br>ちょっと怖い感じです。,그렇네요、[지타]<br>조금 무서운 느낌이에요.
+Japanese,"scene_cp5_q1_s10,511",detail,루리아,そうですね、[플레이어]<br>ちょっと怖い感じです。,그렇네요、[플레이어]<br>조금 무서운 느낌이에요.
 Japanese,"scene_cp5_q1_s10,511",detail,비이,大公閣下が行方不明らしーな……<br>そういう話がちらほら聞こえてくるぜ。<br><span class='scene-font-place'>エルステ帝国</span>にさらわれたって噂も……,대공 각하가 행방불명이니까 말야……<br>그런 이야기가 여기저기서 들려오네.<br><span class='scene-font-place'>에르스테 제국</span>에게 잡혔다는 소문도……
 Japanese,"scene_cp5_q1_s10,511",detail,카타리나,帝国……！？,제국이……！？
-Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あれ、[ジータ]さんたち<br>ぼーっとしちゃって<br>どうかなさったんですか～？,어라、[지타]씨 일행분들<br>멍-하고 계신데<br>무슨 일 있었나요～？
+Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あれ、[플레이어]さんたち<br>ぼーっとしちゃって<br>どうかなさったんですか～？,어라、[플레이어]씨 일행분들<br>멍-하고 계신데<br>무슨 일 있었나요～？
 Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,ぼーっとして棒立ち……うぷぷぷぷ。,멍-하니 멈-춰계신……우푸푸푸。
 Japanese,"scene_cp5_q1_s10,511",detail,비이,よろず屋の嬢ちゃん！<br>なんでここに居るんだよ？,만물상 아가씨！<br>왜 여기에 있는거야？
 Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,私は、どこにでも居て<br>どこにも居ないのです。<br>うふふふ～,저는、어디에도 있고<br>어디에도 없답니다.<br>우후후후～
@@ -17,8 +17,8 @@ Japanese,"scene_cp5_q1_s10,511",detail,라캄,いつの間にかコイツ、ち�
 Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,<span class='scene-font-1'>極秘任務なので、指定の場所で</span><br><span class='scene-font-1'>この島……</span><span class='scene-font-place scene-font-1'>バルツ公国</span><span class='scene-font-1'>の</span><br><span class='scene-font-1'>エージェントと接触して下さい～</span>,<span class='scene-font-1'>비밀임무이므로、지정한 장소에서</span><br><span class='scene-font-1'>이 섬……</span><span class='scene-font-place scene-font-1'>발츠 공국</span><span class='scene-font-1'>의</span><br><span class='scene-font-1'>에이전트와 접촉해주세요～</span>
 Japanese,"scene_cp5_q1_s10,511",detail,셰로카르테,あと、今は街中が物騒なので<br>お気を付け下さい～<br>私もマークされてるっぽいので～,그리고、지금은 마을이 뒤숭숭하니까<br>조심해주세요～<br>저도 마크된 것 같아서～
 Japanese,"scene_cp5_q1_s10,511",detail,라캄,お前なぁ、いきなり<br>そんな危ない仕事を……,너 말야、갑자기<br>그런 위험한 일을……
-Japanese,"scene_cp5_q1_s20,512",synopsis,,シェロから話を受けた<span>[ジータ]</span>一行は、指定された場所へと急ぐが、その背後を怪しげな影が付け狙っていた。,"셰로로부터 이야기를 들은 <span>[지타]</span>일행은、지정된 장소로 서두르지만、그 배후에는 수상한 그림자가 따라오고 있었다,"
-Japanese,"scene_cp5_q1_s20,512",detail,카타리나,<span class='scene-font-4'>ラカム！ [ジータ]！</span>,<span class='scene-font-4'>라캄！ [지타]！</span>
+Japanese,"scene_cp5_q1_s20,512",synopsis,,シェロから話を受けた<span>[플레이어]</span>一行は、指定された場所へと急ぐが、その背後を怪しげな影が付け狙っていた。,"셰로로부터 이야기를 들은 <span>[플레이어]</span>일행은、지정된 장소로 서두르지만、그 배후에는 수상한 그림자가 따라오고 있었다,"
+Japanese,"scene_cp5_q1_s20,512",detail,카타리나,<span class='scene-font-4'>ラカム！ [플레이어]！</span>,<span class='scene-font-4'>라캄！ [플레이어]！</span>
 Japanese,"scene_cp5_q1_s20,512",detail,라캄,ああ。<br>つけてきてる奴が居るな。,그래.<br>미행중인 녀석이 있는 것 같군.
 Japanese,"scene_cp5_q1_s20,512",sel1_txt,,<span class='scene-font-katari'>帝国の手先か……</span>,<span class='scene-font-katari'>제국의 부하인가……</span>
 Japanese,"scene_cp5_q1_s20,512",sel2_txt,,<span class='scene-font-katari'>何者だろう……？</span>,<span class='scene-font-katari'>누구지……？</span>
@@ -32,7 +32,7 @@ Japanese,"scene_cp5_q1_s20,512",detail,비이,やれやれ……物騒な街だ�
 Japanese,"scene_cp5_q1_s20,512",detail,카타리나,だな……,그래……
 Japanese,"scene_cp5_q1_s20,512",detail,카타리나,まずはこいつ等を突破して振り切ろう！,먼저 이녀석들을 돌파하고 뿌리치자고！
 Japanese,"scene_cp5_q1_s20,512",detail,？？？,…………,…………
-Japanese,"scene_cp5_q2_s10,521",synopsis,,よろず屋のシェロの紹介によって、<span class='scene-font-place'>バルツ公国</span>のエージェントと接触する<span>[ジータ]</span>一行。<span class='scene-font-place'>バルツ公国</span>からの依頼とは、行方不明になっている公国の長ザカ大公その人を探してほしいというものだった。,"만물상 셰로의 소개로、<span class='scene-font-place'>발츠 공국</span>의 에이전트와 접촉하는 <span>[지타]</span> 일행.<span class='scene-font-place'>발츠 공국</span>으로 부터의 의뢰는、행방불명이 된 공국의 장, 자카 대공, 그 사람을 찾아달라는 것이었다."
+Japanese,"scene_cp5_q2_s10,521",synopsis,,よろず屋のシェロの紹介によって、<span class='scene-font-place'>バルツ公国</span>のエージェントと接触する<span>[플레이어]</span>一行。<span class='scene-font-place'>バルツ公国</span>からの依頼とは、行方不明になっている公国の長ザカ大公その人を探してほしいというものだった。,"만물상 셰로의 소개로、<span class='scene-font-place'>발츠 공국</span>의 에이전트와 접촉하는 <span>[플레이어]</span> 일행.<span class='scene-font-place'>발츠 공국</span>으로 부터의 의뢰는、행방불명이 된 공국의 장, 자카 대공, 그 사람을 찾아달라는 것이었다."
 Japanese,"scene_cp5_q2_s10,521",detail,에이전트,シェロカルテ様ご紹介の<br>騎空団の方々ですかな？,셰로카르테님의 소개로 오신<br>기공단 분들인가요？
 Japanese,"scene_cp5_q2_s10,521",detail,비이,おう！,그래！
 Japanese,"scene_cp5_q2_s10,521",detail,비이,そう言うあんたは誰なんだ？<br>こんな危ない場所を指定して<br>秘密会談とは恐れ入るぜ？,그러는 당신은 누구야？<br>이런 위험한 장소를 지정해서<br>비밀회담을 하자니 굉장하구만？
@@ -49,9 +49,9 @@ Japanese,"scene_cp5_q2_s10,521",detail,비이,おいおい、分かってるの�
 Japanese,"scene_cp5_q2_s10,521",detail,라캄,あ……,아……
 Japanese,"scene_cp5_q2_s10,521",detail,라캄,まぁ、思いっきりヤバい話だが<br>やるしかねぇだろ！,뭐어、대놓고 위험한 이야기지만<br>할 수 밖에 없잖아！
 Japanese,"scene_cp5_q2_s10,521",detail,카타리나,帝国が絡んでいるという噂も、<br>気にかかるしな。,제국이 얽혀있다는 소문도、<br>신경쓰이고 말이지.
-Japanese,"scene_cp5_q2_s10,521",detail,비이,よし！ [ジータ]！<br>とりあえず、これに沿って<br>廻ってみようぜ！,좋아！ [지타]！<br>어쨋든、이걸 따라서<br>돌아다녀보자구！
-Japanese,"scene_cp5_q2_s20,522",synopsis,,大公を探す<span>[ジータ]</span>一行は自分達を付け狙っていた影がいなくなっていることに気付く。しかし、時を同じくして、魔物に襲われる謎の少女に遭遇する。,대공을 찾는 <span> [지타] </span> 일행은 자신들을 노리던 그림자가 사라지고 있음을 알게 된다.그러나 때맞춰 마물에 휩쓸리는 수수께끼의 소녀를 만난다.
-Japanese,"scene_cp5_q2_s20,522",detail,루리아,ふぅ、[ジータ]～<br>大公様、見つかりませんね～,후~ [지타]~<br> 대공님 찾을 수가 없네요～
+Japanese,"scene_cp5_q2_s10,521",detail,비이,よし！ [플레이어]！<br>とりあえず、これに沿って<br>廻ってみようぜ！,좋아！ [플레이어]！<br>어쨋든、이걸 따라서<br>돌아다녀보자구！
+Japanese,"scene_cp5_q2_s20,522",synopsis,,大公を探す<span>[플레이어]</span>一行は自分達を付け狙っていた影がいなくなっていることに気付く。しかし、時を同じくして、魔物に襲われる謎の少女に遭遇する。,대공을 찾는 <span> [플레이어] </span> 일행은 자신들을 노리던 그림자가 사라지고 있음을 알게 된다.그러나 때맞춰 마물에 휩쓸리는 수수께끼의 소녀를 만난다.
+Japanese,"scene_cp5_q2_s20,522",detail,루리아,ふぅ、[플레이어]～<br>大公様、見つかりませんね～,후~ [플레이어]~<br> 대공님 찾을 수가 없네요～
 Japanese,"scene_cp5_q2_s20,522",detail,비이,その代わり、<br>怪しい噂はわんさと聞けたけど……<br>決め手となる情報がねーな。,대신 <br>수상한 소문은 수두룩하게 들었지만……<br> 결정적인 정보가 없어.
 Japanese,"scene_cp5_q2_s20,522",detail,라캄,大公は帝国と組んで<br>世界を滅ぼすモノを作ってた、って<br>どんだけ話が広がってるんだよ……,"대공은 제국과 짜고<br>세계를 멸망시키는 물건을 만들고 있었다, 라고<br>얼마나 이야기가 퍼지고 있는 거야……"
 Japanese,"scene_cp5_q2_s20,522",detail,카타리나,そう言えば、<br>昨日から私達をつけていた影、<br>途中で居なくなったな？,"그러고보니 <br> 어제부터 우리를 따라 붙었던 그림자,<br> 도중에 없어졌네?"
@@ -60,9 +60,9 @@ Japanese,"scene_cp5_q2_s20,522",detail,라캄,ん？,어?
 Japanese,"scene_cp5_q2_s20,522",detail,？？？,こ～らぁ～！<br>なぁにするのよ～！！<br>は～な～せぇええ～！！,이 녀석~!!<br>무슨 짓을 하는거야~!!<br>아 뭐냐구우우우~!!
 Japanese,"scene_cp5_q2_s20,522",detail,비이,んあ……<br>あの、いままさに魔物に襲われてる<br>あいつか？ もしかして……,"음......<br>저, 지금 바로 마물에 습격당하고 있는<br>그녀석인가? 혹시……"
 Japanese,"scene_cp5_q2_s20,522",detail,카타리나,身なりからして魔導士の娘か。<br>さて、どうしたものかな。,"차림새부터가 마도사의 딸인가?<br>자, 어떻게 하면 좋을까?"
-Japanese,"scene_cp5_q2_s20,522",detail,라캄,ガキンチョが襲われてるんだぜ！<br>ほっとくわけにも行かねぇだろ！<br>助けよう、[ジータ]！,"꼬맹이가 습격당하고 있다고!<br>그냥 놔둘수도 없잖아!도와주자, [지타]!"
-Japanese,"scene_cp5_q3_s10,531",synopsis,,自分達を付け回す謎の少女に関する情報収集をシェロに頼み、<span>[ジータ]</span>一行は再び大公の行方を探し始める。,"자신들을 쫓아다니는 의문의 소녀에 대한 정보 수집을 셰로에게 부탁하고, <span>[지타]</span> 일행은 다시 대공의 행방을 찾기 시작한다."
-Japanese,"scene_cp5_q3_s10,531",detail,셰로카르테,[ジータ]さん～<br>お仕事の調子は<br>いかがですか～？,[지타]씨~<br>일은 상태가<br>어떠세요~?
+Japanese,"scene_cp5_q2_s20,522",detail,라캄,ガキンチョが襲われてるんだぜ！<br>ほっとくわけにも行かねぇだろ！<br>助けよう、[플레이어]！,"꼬맹이가 습격당하고 있다고!<br>그냥 놔둘수도 없잖아!도와주자, [플레이어]!"
+Japanese,"scene_cp5_q3_s10,531",synopsis,,自分達を付け回す謎の少女に関する情報収集をシェロに頼み、<span>[플레이어]</span>一行は再び大公の行方を探し始める。,"자신들을 쫓아다니는 의문의 소녀에 대한 정보 수집을 셰로에게 부탁하고, <span>[플레이어]</span> 일행은 다시 대공의 행방을 찾기 시작한다."
+Japanese,"scene_cp5_q3_s10,531",detail,셰로카르테,[플레이어]さん～<br>お仕事の調子は<br>いかがですか～？,[플레이어]씨~<br>일은 상태가<br>어떠세요~?
 Japanese,"scene_cp5_q3_s10,531",detail,셰로카르테,シのゴの言わずに仕事しろ～<br>シゴトだけに。,이가 상태가 어떻게 되면 치과에 가야한다구요!<br>일은 상태가 어떠세요.
 Japanese,"scene_cp5_q3_s10,531",detail,셰로카르테,うぷ！ これきた！ メモメモ……,앗 ! 이거 느낌 있는데! 메모 메모.......
 Japanese,"scene_cp5_q3_s10,531",detail,라캄,まださっぱりだなぁ。<br>足の砂場は慣れねぇし、<br>変な娘には後をつけられるし。,"아직 영 시원치않군.<br>발밑의 모래밭은 익숙해지지 않고,<br>이상한 아가씨는 뒤쫓아 오고."
@@ -76,7 +76,7 @@ Japanese,"scene_cp5_q3_s10,531",detail,라캄,こうつけまわされたら<br>
 Japanese,"scene_cp5_q3_s10,531",detail,라캄,シェロ、なんとかならないか？,"쉐로야, 어떻게 안 될까?"
 Japanese,"scene_cp5_q3_s10,531",detail,셰로카르테,まぁ、手はまわしてみますね～,"뭐, 손을 써 봐야죠～"
 Japanese,"scene_cp5_q3_s10,531",detail,라캄,すまねぇな。<br>頼りにしてるぜ、シェロ。,"미안하네. <br> 부탁할게 있을게, 쉐로."
-Japanese,"scene_cp5_q3_s10,531",detail,카타리나,よし、[ジータ]。<br>私達は今日も大公の足どりを追おう！,좋아. [지타].<br>우리는 오늘도 대공의 발자취를 따라가자!
+Japanese,"scene_cp5_q3_s10,531",detail,카타리나,よし、[플레이어]。<br>私達は今日も大公の足どりを追おう！,좋아. [플레이어].<br>우리는 오늘도 대공의 발자취를 따라가자!
 Japanese,"scene_cp5_q3_s20,532",synopsis,,延々と続く砂の海を探索する中、カタリナは小さな違和感に気付き、謎の少女に思いを馳せる。,"끝없이 계속 되는 모래 바다를 탐색하는 중, 카타리나는 작은 위화감을 깨닫고 수수께끼의 소녀를 생각한다."
 Japanese,"scene_cp5_q3_s20,532",detail,카타리나,例の魔導士の娘、<br>今日はつけて来ていないようだ。,"예의 그 마도사의 딸,<br>오늘은 따라 오지 않은 것 같다."
 Japanese,"scene_cp5_q3_s20,532",detail,루리아,お話してみたいなぁ……,이야기 해보고 싶네……
@@ -88,8 +88,8 @@ Japanese,"scene_cp5_q3_s20,532",detail,루리아,ううん、カタリナはな�
 Japanese,"scene_cp5_q3_s20,532",detail,카타리나,な、なにを急に言い出すんだ……！,"뭐, 무슨 말을 갑자기 꺼내는 거야……!"
 Japanese,"scene_cp5_q3_s20,532",detail,마물,<span class='scene-font-4'>グオオー！</span>,<span class='scene-font-4'> 구오오ー ！ </span>
 Japanese,"scene_cp5_q3_s20,532",detail,카타리나,ほら、そんなこと話してる間に<br>魔物が寄ってきたぞ！,"이봐, 그런 이야기 하고 있는 사이에<br>마물이 다가왔다구!"
-Japanese,"scene_cp5_q4_s10,541",synopsis,,謎の少女について有力な情報を得たと言うシェロが伝えた内容は、<span>[ジータ]</span>一行を脅迫するものだった。少女を救出するため、<span>[ジータ]</span>一行は指定された場所へと急ぐ。,수수께끼의 소녀에 대해 유력한 정보를 얻었다는 셰로가 전한 내용은 <span>[지타]</span> 일행을 협박하는 것이었다.소녀 구출을 위해 <span> [지타] </span> 일행은 지정된 장소로 서둘러간다.
-Japanese,"scene_cp5_q4_s10,541",detail,셰로카르테,[ジータ]さん～<br>今朝お聞きした女の子について、<br>有力な情報が入りましたよ～,[지타]씨~<br>오늘 아침에 들은 이야기 중에 여자애에 대해서<br>유력한 정보가 들어왔어요~
+Japanese,"scene_cp5_q4_s10,541",synopsis,,謎の少女について有力な情報を得たと言うシェロが伝えた内容は、<span>[플레이어]</span>一行を脅迫するものだった。少女を救出するため、<span>[플레이어]</span>一行は指定された場所へと急ぐ。,수수께끼의 소녀에 대해 유력한 정보를 얻었다는 셰로가 전한 내용은 <span>[플레이어]</span> 일행을 협박하는 것이었다.소녀 구출을 위해 <span> [플레이어] </span> 일행은 지정된 장소로 서둘러간다.
+Japanese,"scene_cp5_q4_s10,541",detail,셰로카르테,[플레이어]さん～<br>今朝お聞きした女の子について、<br>有力な情報が入りましたよ～,[플레이어]씨~<br>오늘 아침에 들은 이야기 중에 여자애에 대해서<br>유력한 정보가 들어왔어요~
 Japanese,"scene_cp5_q4_s10,541",detail,라캄,ほほー<br>どれ、なになに？,"호호<br>어디,뭐뭐?"
 Japanese,"scene_cp5_q4_s10,541",detail,라캄,<span class='scene-font-bold scene-font-blue'>『魔導士の少女を預かった。</span><br><span class='scene-font-bold scene-font-blue'>返して欲しくば明日の正午</span><br><span class='scene-font-bold scene-font-blue'>下記の場所に来られたし』</span>,<span class='scene-font-bold scene-font-blue'>『마도사 소녀를 맡았다.</span><br><span class='scene-font-bold scene-font-blue'>돌려받고 싶으면 내일 정오</span><br><span class='scene-font-bold scene-font-blue'>아래 장소에 올 것』</span>
 Japanese,"scene_cp5_q4_s10,541",detail,비이,情報っておい！<br>こりゃ、脅迫状じゃねぇか！,정보라는건 어이! <br> 이건 협박장이잖아!
@@ -97,18 +97,18 @@ Japanese,"scene_cp5_q4_s10,541",detail,카타리나,なんだと……？<br>な
 Japanese,"scene_cp5_q4_s10,541",detail,비이,なぁ、よろず屋。<br>その脅迫状、<br>いったい誰が持ってきたんだ？,"야, 만물상.그 협박장,<br>도대체 누가 가져온거야?"
 Japanese,"scene_cp5_q4_s10,541",detail,셰로카르테,正確には伝言なんですよ～<br>私の掲示板に人づて、言づてで。,정확하게는 전언이에요~<br>내 게시판에 인편으로 전해줬어요.
 Japanese,"scene_cp5_q4_s10,541",detail,카타리나,では、たどるのは……<br>難しいか。,"그럼, 추적하는 것은……<br>어려운가."
-Japanese,"scene_cp5_q4_s10,541",detail,셰로카르테,でも、なんでその子を～？<br>[ジータ]さんの騎空団の一員と<br>思われたんですかね～？,근데 왜 걔를~? <br>[지타]씨의 기공단의 일원으로 <br> 생각하셨을까요~?
-Japanese,"scene_cp5_q4_s10,541",detail,라캄,さって……どうする？ [ジータ]。<br>放っておく手もなくはねぇが……,글쎄……어쩌지? [지타].<br>내버려둔다는 방법도 없지는 않지만……
-Japanese,"scene_cp5_q4_s10,541",detail,비이,へへ、そんなわけない<br>って面してんな、[ジータ]。,"헤헤, 그럴수는 없어 <br>라는 얼굴을 하고 있네. [지타]"
+Japanese,"scene_cp5_q4_s10,541",detail,셰로카르테,でも、なんでその子を～？<br>[플레이어]さんの騎空団の一員と<br>思われたんですかね～？,근데 왜 걔를~? <br>[플레이어]씨의 기공단의 일원으로 <br> 생각하셨을까요~?
+Japanese,"scene_cp5_q4_s10,541",detail,라캄,さって……どうする？ [플레이어]。<br>放っておく手もなくはねぇが……,글쎄……어쩌지? [플레이어].<br>내버려둔다는 방법도 없지는 않지만……
+Japanese,"scene_cp5_q4_s10,541",detail,비이,へへ、そんなわけない<br>って面してんな、[플레이어]。,"헤헤, 그럴수는 없어 <br>라는 얼굴을 하고 있네. [플레이어]"
 Japanese,"scene_cp5_q4_s10,541",detail,카타리나,大公を追う私達に脅しをかけてきた……<br>という事は、逆に大公への<br>手がかりになるかも知れないな。,"대공을 쫓는 우리에게 협박을 걸어왔다……<br>라고 하는 것은, 반대로 대공에의<br>단서가 될지도 모르네."
 Japanese,"scene_cp5_q4_s10,541",detail,라캄,決まりだな！<br>成り行きとはいえ、<br>いっちょお姫様救出といくか！,"결정이다!<br>결과적이라고 하지만,<br>으쌰! 공주님 구출이라고 할까!"
-Japanese,"scene_cp5_q4_s20,542",synopsis,,指定の場所に居たのは、<span class='scene-font-place'>ポート・ブリーズ</span>で帝国の手先を演じていた遊び人、ドランクだった。しかし、何故か互いに話が通じない混乱の中、謎の魔物が<span>[ジータ]</span>達に襲いかかる。,지정된 장소에 있던 사람은 <span class='scene-font-place> 포트 브리즈</span>에서 제국의 앞잡이 역할을 했던 건달 드렁크였다.그러나 왜 그런지 서로 말이 통하지 않는 혼란 속에서 의문의 마물이 <span>[지타]</span>들에게 덮친다.
+Japanese,"scene_cp5_q4_s20,542",synopsis,,指定の場所に居たのは、<span class='scene-font-place'>ポート・ブリーズ</span>で帝国の手先を演じていた遊び人、ドランクだった。しかし、何故か互いに話が通じない混乱の中、謎の魔物が<span>[플레이어]</span>達に襲いかかる。,지정된 장소에 있던 사람은 <span class='scene-font-place> 포트 브리즈</span>에서 제국의 앞잡이 역할을 했던 건달 드렁크였다.그러나 왜 그런지 서로 말이 통하지 않는 혼란 속에서 의문의 마물이 <span>[플레이어]</span>들에게 덮친다.
 Japanese,"scene_cp5_q4_s20,542",detail,라캄,おい！ 人さらい！<br>来てやったぞ！ どこにいやがる！,야! 유괴범!<br>와줬다! 어디 있는거냐!
 Japanese,"scene_cp5_q4_s20,542",detail,드랑크,んふ。<br>君らならちゃ～んと来ると<br>思ってたよぉ。,응후.<br>너희들이라면 제대로 올거라고<br>생각했어
 Japanese,"scene_cp5_q4_s20,542",detail,비이,て、てめーは、<br><span class='scene-font-place'>ポート・ブリーズ</span>にいた二人組の！？<br>こんなとこで何してんだよ？,그리고 넌 <br><span class='scene-font-place> 포트 브리즈</span>에 있던 2인조!?<br> 이런데서 뭐하는거야?
 Japanese,"scene_cp5_q4_s20,542",detail,드랑크,その節はどうもねぇ～！<br>でも、手紙で恩は返したから、<br>もう貸し借りはナシだからねん？,"그 때는 어쩔 수 없어~!<br>그래도 편지로 은혜는 갚았으니까,<br>이제 빚은 없는거지?"
 Japanese,"scene_cp5_q4_s20,542",detail,비이,また帝国の手先に戻ったってわけか……,다시 제국의 앞잡이로 돌아왔다는 건가……
-Japanese,"scene_cp5_q4_s20,542",detail,비이,やっちまえ！ [ジータ]！,해치워라! [지타]
+Japanese,"scene_cp5_q4_s20,542",detail,비이,やっちまえ！ [플레이어]！,해치워라! [플레이어]
 Japanese,"scene_cp5_q4_s20,542",detail,드랑크,ちょ！ ちょっと待って！<br>一応こっちは人質とってる<br>立場なんですけどぉ！！,잠깐!잠깐!<br>일단 이쪽은 인질극을 벌이고 있는<br>입장이지만요!!
 Japanese,"scene_cp5_q4_s20,542",detail,드랑크,で、だ！ 人質の女の子は無事さ。<br>今はスツルム殿が<br>遊び相手をしてあげてるんだぁ。,"그리고, 다! 여자 인질은 무사해.<br>지금은 스츠룸나리가<br>놀이를 상대해주고 있구나~"
 Japanese,"scene_cp5_q4_s20,542",detail,드랑크,ごめんねぇ？<br>今回、僕らもけっこう焦っててさ。<br>……で、大公はどこかな？,미안한데? 이번에 우리도 너무 초조해서 말야.<br>…그래서 대공은 어디일까?
@@ -123,29 +123,29 @@ Japanese,"scene_cp5_q4_s20,542",detail,드랑크,何だァ！？,뭐야!?
 Japanese,"scene_cp5_q4_s20,542",detail,카타리나,な、なんだこれは！ 伏兵か……！？,어 뭐야 이게! 복병인가...?!
 Japanese,"scene_cp5_q4_s20,542",detail,드랑크,うわ、スツルム殿！ へるぷみー！<br>なに？ この、へんてこな機械！！,우와 스츠룸나리! 헬프미!<br>뭐여? 이 이상한 기계!!
 Japanese,"scene_cp5_q4_s20,542",detail,루리아,これは……生き物じゃないけど<br>微かに星晶の力を感じます！<br>操られているの……？,이것은……생물은 아니지만<br>희미한 별정의 힘을 느낍니다!조종당하고 있어……?
-Japanese,"scene_cp5_q4_s20,542",detail,비이,とにかく応戦するぞ！<br>蹴散らせ！ [ジータ]！,어쨌든 응전한다!차 날려! [지타]
-Japanese,"scene_cp5_q4_s30,543",synopsis,,機械の魔物を退けた<span>[ジータ]</span>一行は、ここ数日、自分達を付け回していた、謎の少女が気絶しているのを発見し保護する。,기계의 마물을 물리친 <span> [지타] </span> 일행은 지난 며칠 동안 자신을 쫓아다니던 수수께끼의 소녀가 기절해 있는 것을 발견하고 보호한다.
+Japanese,"scene_cp5_q4_s20,542",detail,비이,とにかく応戦するぞ！<br>蹴散らせ！ [플레이어]！,어쨌든 응전한다!차 날려! [플레이어]
+Japanese,"scene_cp5_q4_s30,543",synopsis,,機械の魔物を退けた<span>[플레이어]</span>一行は、ここ数日、自分達を付け回していた、謎の少女が気絶しているのを発見し保護する。,기계의 마물을 물리친 <span> [플레이어] </span> 일행은 지난 며칠 동안 자신을 쫓아다니던 수수께끼의 소녀가 기절해 있는 것을 발견하고 보호한다.
 Japanese,"scene_cp5_q4_s30,543",detail,비이,見たこともない魔物だったな。<br>なんだあれ？ 機械か？ 魔物か？,본 적도 없는 마물이었네.<br> 저게 뭐야? 기계인가? 마물인가?
 Japanese,"scene_cp5_q4_s30,543",detail,루리아,すごく不思議な感じがしました！,되게 신기했어요!
 Japanese,"scene_cp5_q4_s30,543",detail,루리아,でも、なんだか……,"하지만, 왠지……"
 Japanese,"scene_cp5_q4_s30,543",detail,카타리나,おい！<br>こっちに例の女の子が倒れてるぞ！,어이!<br>이쪽에 그 여자애가 쓰러져있어!
 Japanese,"scene_cp5_q4_s30,543",detail,라캄,気を失ってるが……<br>無事みたいだな。,정신을 잃었지만....<br>무사한것 같네.
-Japanese,"scene_cp5_q4_s30,543",detail,루리아,心配です……<br>[ジータ]、連れて帰りましょ？,"걱정입니다....<br>[지타], 데리고 돌아갑시다?"
+Japanese,"scene_cp5_q4_s30,543",detail,루리아,心配です……<br>[플레이어]、連れて帰りましょ？,"걱정입니다....<br>[플레이어], 데리고 돌아갑시다?"
 Japanese,"scene_cp5_q4_s30,543",detail,카타리나,もちろんだ。<br>ラカム、手伝ってくれ。,"물론이지. <br> 라캄, 도와줘."
 Japanese,"scene_cp5_q4_s30,543",detail,라캄,お、おう！,"오, 오, 오!"
 Japanese,"scene_cp5_q4_s30,543",detail,？？？,う、うぅん……<br>ししょー、ししょぉぉ～,으음……<br>스승~스승님~
 Japanese,"scene_cp5_q4_s30,543",detail,,<span class='scene-font-katari'>正体不明の機械の登場により</span><br><span class='scene-font-katari'>失踪した大公の行方には</span><br><span class='scene-font-katari'>いっそう深い闇がかかる。</span>,<span class='scene-font-katari'>정체불명의 기계의 등장으로 인해</span><br><span class='scene-font-katari'>실종된 대공의 행방에는</span><br><span class='scene-font-katari'>한층 깊은 어둠이 깔리다.</span>
 Japanese,"scene_cp5_q4_s30,543",detail,,<span class='scene-font-katari'>手探り状態の暗闇の中</span><br><span class='scene-font-katari'>真実への鍵は</span><br><span class='scene-font-katari'>魔導士の少女が握っていた。</span>,<span class='scene-font-katari'>손으로 더듬는 상태의 어둠 속.</span><br><span class='scene-font-katari'>진실에의 열쇠는</span><br><span class='scene-font-katari'>마도사 소녀가 쥐고 있었다.</span>
 
-English,"scene_cp5_q1_s10,511",synopsis,,"As instructed by Sturm and Drang, [Djeeta] and company visit the Valtz Duchy, a Draph island famed for its steel. There trouble awaits."
+English,"scene_cp5_q1_s10,511",synopsis,,"As instructed by Sturm and Drang, [플레이어] and company visit the Valtz Duchy, a Draph island famed for its steel. There trouble awaits."
 English,"scene_cp5_q1_s10,511",detail,,"A mysterious letter and simple curiosity have led the crew to the Valtz Duchy, where rows of smoke-belching chimneys rise out of the red earth."
 English,"scene_cp5_q1_s10,511",detail,Rackam,Hm... I see the factories here are as lively as ever. But I've never seen so many Draphs in one place.
 English,"scene_cp5_q1_s10,511",detail,Katalina,Draph steelwork is some of the best in the skies...
 English,"scene_cp5_q1_s10,511",detail,Katalina,"But is it just me, or do things seem a little on edge here?"
-English,"scene_cp5_q1_s10,511",detail,Lyria,"Yeah. There's something scary in the air, [Djeeta]."
+English,"scene_cp5_q1_s10,511",detail,Lyria,"Yeah. There's something scary in the air, [플레이어]."
 English,"scene_cp5_q1_s10,511",detail,Vyrn,Everyone's talkin' about the archduke going missing. Word has it the Erste Empire kidnapped him...
 English,"scene_cp5_q1_s10,511",detail,Katalina,The empire?
-English,"scene_cp5_q1_s10,511",detail,Sierokarte,"Well, if it isn't [Djeeta] and friends! What are you all just standing around for?"
+English,"scene_cp5_q1_s10,511",detail,Sierokarte,"Well, if it isn't [플레이어] and friends! What are you all just standing around for?"
 English,"scene_cp5_q1_s10,511",detail,Sierokarte,Did someone... stand you up?
 English,"scene_cp5_q1_s10,511",detail,Vyrn,It's the shopkeep from the Knickknack Shack! What are you doing here?
 English,"scene_cp5_q1_s10,511",detail,Sierokarte,I am both everywhere and nowhere!
@@ -155,8 +155,8 @@ English,"scene_cp5_q1_s10,511",detail,Rackam,"And just like that, we've got ours
 English,"scene_cp5_q1_s10,511",detail,Sierokarte,"This mission is hush-hush, so follow these secret instructions to meet with a man named Christophe of the Valtz Duchy."
 English,"scene_cp5_q1_s10,511",detail,Sierokarte,"The town's in an uproar, so be careful. Even I'm being watched..."
 English,"scene_cp5_q1_s10,511",detail,Rackam,Our... manager seems to be trying to get us killed.
-English,"scene_cp5_q1_s20,512",synopsis,,"After talking with Siero, [Djeeta] and company rush to the agreed-upon location but are followed by a suspicious figure."
-English,"scene_cp5_q1_s20,512",detail,Katalina,Rackam! [Djeeta]!
+English,"scene_cp5_q1_s20,512",synopsis,,"After talking with Siero, [플레이어] and company rush to the agreed-upon location but are followed by a suspicious figure."
+English,"scene_cp5_q1_s20,512",detail,Katalina,Rackam! [플레이어]!
 English,"scene_cp5_q1_s20,512",detail,Rackam,"Yeah, I noticed. Someone's following us."
 English,"scene_cp5_q1_s20,512",sel1_txt,,Someone from the empire?
 English,"scene_cp5_q1_s20,512",sel2_txt,,Who could it be?
@@ -170,7 +170,7 @@ English,"scene_cp5_q1_s20,512",detail,Vyrn,This town's been nothin' but trouble 
 English,"scene_cp5_q1_s20,512",detail,Katalina,Agreed.
 English,"scene_cp5_q1_s20,512",detail,Katalina,Let's shake these guys off and push ahead!
 English,"scene_cp5_q1_s20,512",detail,???,...
-English,"scene_cp5_q2_s10,521",synopsis,,"Following Siero's instructions, [Djeeta] and company meet the so-called Christophe of the Valtz Duchy. He asks the crew to locate the missing archduke, Tzaka the Great."
+English,"scene_cp5_q2_s10,521",synopsis,,"Following Siero's instructions, [플레이어] and company meet the so-called Christophe of the Valtz Duchy. He asks the crew to locate the missing archduke, Tzaka the Great."
 English,"scene_cp5_q2_s10,521",detail,Christophe,I presume you're the crew that Sierokarte sent.
 English,"scene_cp5_q2_s10,521",detail,Vyrn,Yup!
 English,"scene_cp5_q2_s10,521",detail,Vyrn,You sure chose a dangerous place to rendezvous!
@@ -187,9 +187,9 @@ English,"scene_cp5_q2_s10,521",detail,Vyrn,"Hey, don't you realize what you just
 English,"scene_cp5_q2_s10,521",detail,Rackam,Well...
 English,"scene_cp5_q2_s10,521",detail,Rackam,This sounds like nothing but a heap of trouble. But we'll do what we have to.
 English,"scene_cp5_q2_s10,521",detail,Katalina,I can't help but be concerned knowing that the empire may be involved.
-English,"scene_cp5_q2_s10,521",detail,Vyrn,"All right, [Djeeta]! Let's check all the locations mentioned in these papers!"
-English,"scene_cp5_q2_s20,522",synopsis,,"As they search for the archduke, [Djeeta] and company realize that the shadow following them has disappeared. They then encounter a mysterious girl who is under attack by monsters."
-English,"scene_cp5_q2_s20,522",detail,Lyria,"Searching for the archduke is like trying to find a needle in a haystack, [Djeeta]..."
+English,"scene_cp5_q2_s10,521",detail,Vyrn,"All right, [플레이어]! Let's check all the locations mentioned in these papers!"
+English,"scene_cp5_q2_s20,522",synopsis,,"As they search for the archduke, [플레이어] and company realize that the shadow following them has disappeared. They then encounter a mysterious girl who is under attack by monsters."
+English,"scene_cp5_q2_s20,522",detail,Lyria,"Searching for the archduke is like trying to find a needle in a haystack, [플레이어]..."
 English,"scene_cp5_q2_s20,522",detail,Vyrn,All we've heard is rumor after fishy rumor. Nothin' close to the kind of evidence we need...
 English,"scene_cp5_q2_s20,522",detail,Rackam,There's even talk about the archduke and empire teaming up to create a doomsday device. The rumor mill just never stops.
 English,"scene_cp5_q2_s20,522",detail,Katalina,Whatever was trailing us yesterday seems to have disappeared too.
@@ -198,9 +198,9 @@ English,"scene_cp5_q2_s20,522",detail,Rackam,Hm?
 English,"scene_cp5_q2_s20,522",detail,???,Hey! What're you doing? Let me <span class='scene-font-italic'>go</span>!
 English,"scene_cp5_q2_s20,522",detail,Vyrn,"That girl's in danger! You don't think she's the one who's been following us, do you?"
 English,"scene_cp5_q2_s20,522",detail,Katalina,"From how she's dressed, I'm guessing she's a mage. What could this all be about?"
-English,"scene_cp5_q2_s20,522",detail,Rackam,"The kid's being attacked! We have to do something, [Djeeta]! C'mon!"
-English,"scene_cp5_q3_s10,531",synopsis,,[Djeeta] and company ask Siero to gather info on the mysterious girl who is following them. They then continue searching for the archduke.
-English,"scene_cp5_q3_s10,531",detail,Sierokarte,"How's the job going, [Djeeta]?"
+English,"scene_cp5_q2_s20,522",detail,Rackam,"The kid's being attacked! We have to do something, [플레이어]! C'mon!"
+English,"scene_cp5_q3_s10,531",synopsis,,[플레이어] and company ask Siero to gather info on the mysterious girl who is following them. They then continue searching for the archduke.
+English,"scene_cp5_q3_s10,531",detail,Sierokarte,"How's the job going, [플레이어]?"
 English,"scene_cp5_q3_s10,531",detail,Sierokarte,It looks like you're working hard... or should I say hardly working?
 English,"scene_cp5_q3_s10,531",detail,Sierokarte,Heh heh. I really have to write that one down...
 English,"scene_cp5_q3_s10,531",detail,Rackam,"Lemme put it this way: we've got zero clues, some weird girl is trailing us, and I can't figure out how to walk on the sand..."
@@ -214,7 +214,7 @@ English,"scene_cp5_q3_s10,531",detail,Rackam,We don't need her getting in the wa
 English,"scene_cp5_q3_s10,531",detail,Rackam,"Is there anything you can do, Siero?"
 English,"scene_cp5_q3_s10,531",detail,Sierokarte,I'll do what I can.
 English,"scene_cp5_q3_s10,531",detail,Rackam,"Thanks. We're counting on you, Siero."
-English,"scene_cp5_q3_s10,531",detail,Katalina,All right [Djeeta]. Let's just keep tracing the archduke's footsteps!
+English,"scene_cp5_q3_s10,531",detail,Katalina,All right [플레이어]. Let's just keep tracing the archduke's footsteps!
 English,"scene_cp5_q3_s20,532",synopsis,,"As they trek across the endless sea of sand, Katalina notices something missing and remembers the mysterious girl."
 English,"scene_cp5_q3_s20,532",detail,Katalina,That mage doesn't seem to be following us today.
 English,"scene_cp5_q3_s20,532",detail,Lyria,I wanna talk to her...
@@ -226,8 +226,8 @@ English,"scene_cp5_q3_s20,532",detail,Lyria,"You're more important to me than a 
 English,"scene_cp5_q3_s20,532",detail,Katalina,Wh-where did this come from?
 English,"scene_cp5_q3_s20,532",detail,Monster,Groaar!
 English,"scene_cp5_q3_s20,532",detail,Katalina,Enough idle chatter! We have monsters to contend with!
-English,"scene_cp5_q4_s10,541",synopsis,,Siero informs [Djeeta] and company that the mysterious mage girl they saw earlier is being held ransom. The crew rushes to her rescue.
-English,"scene_cp5_q4_s10,541",detail,Sierokarte,"I have some important news about that girl you mentioned this morning, [Djeeta]."
+English,"scene_cp5_q4_s10,541",synopsis,,Siero informs [플레이어] and company that the mysterious mage girl they saw earlier is being held ransom. The crew rushes to her rescue.
+English,"scene_cp5_q4_s10,541",detail,Sierokarte,"I have some important news about that girl you mentioned this morning, [플레이어]."
 English,"scene_cp5_q4_s10,541",detail,Rackam,Oh? And what might that be?
 English,"scene_cp5_q4_s10,541",detail,Rackam,"<span class='scene-font-italic'>We have the mage. If you ever want to see her again, come to the specified location tomorrow at high noon.</span>"
 English,"scene_cp5_q4_s10,541",detail,Vyrn,That isn't news! That's a ransom letter!
@@ -235,18 +235,18 @@ English,"scene_cp5_q4_s10,541",detail,Katalina,"What's the meaning of this, Sier
 English,"scene_cp5_q4_s10,541",detail,Vyrn,"Who brought you that letter, shopkeep?"
 English,"scene_cp5_q4_s10,541",detail,Sierokarte,To tell you the truth... it wasn't a letter so much as a note posted to my message board.
 English,"scene_cp5_q4_s10,541",detail,Katalina,Then tracing it back is probably out of the question...
-English,"scene_cp5_q4_s10,541",detail,Sierokarte,"But why that girl of all people? Could they have mistaken her for a member of your crew, [Djeeta]?"
-English,"scene_cp5_q4_s10,541",detail,Rackam,"What do you want to do, [Djeeta]? Ignoring it isn't totally out of the question..."
-English,"scene_cp5_q4_s10,541",detail,Vyrn,"I can tell from the look on your face that you're not gonna let this one go, [Djeeta]!"
+English,"scene_cp5_q4_s10,541",detail,Sierokarte,"But why that girl of all people? Could they have mistaken her for a member of your crew, [플레이어]?"
+English,"scene_cp5_q4_s10,541",detail,Rackam,"What do you want to do, [플레이어]? Ignoring it isn't totally out of the question..."
+English,"scene_cp5_q4_s10,541",detail,Vyrn,"I can tell from the look on your face that you're not gonna let this one go, [플레이어]!"
 English,"scene_cp5_q4_s10,541",detail,Katalina,They're clearly trying to threaten us. But this may just be the clue we need to find the archduke.
 English,"scene_cp5_q4_s10,541",detail,Rackam,That's that then. We've got a mage to save. The rest will take care of itself!
-English,"scene_cp5_q4_s20,542",synopsis,,"The kidnapper at the specified location turns out to be none other than Drang, who the crew previously encountered at Port Breeze. Before [Djeeta] and company can say anything to him, a monster attacks."
+English,"scene_cp5_q4_s20,542",synopsis,,"The kidnapper at the specified location turns out to be none other than Drang, who the crew previously encountered at Port Breeze. Before [플레이어] and company can say anything to him, a monster attacks."
 English,"scene_cp5_q4_s20,542",detail,Rackam,"We came just like you said, kidnappers! Now show yourselves!"
 English,"scene_cp5_q4_s20,542",detail,Drang,Mmm... I just knew you would accept our invitation.
 English,"scene_cp5_q4_s20,542",detail,Vyrn,You're one of those goofballs we ran into back at Port Breeze! What're you doin' here?
 English,"scene_cp5_q4_s20,542",detail,Drang,"Ah yes, you certainly saved our bacon back there! But that nice thank-you letter we sent you should put us on even footing, don't you agree?"
 English,"scene_cp5_q4_s20,542",detail,Vyrn,Looks like he's back to working for the empire.
-English,"scene_cp5_q4_s20,542",detail,Vyrn,"Let's get him, [Djeeta]!"
+English,"scene_cp5_q4_s20,542",detail,Vyrn,"Let's get him, [플레이어]!"
 English,"scene_cp5_q4_s20,542",detail,Drang,Easy there! Have you forgotten that I'm the one with the hostage?
 English,"scene_cp5_q4_s20,542",detail,Drang,You haven't? Well then! Allow me to reassure you that she's safe and sound in Sturm's company!
 English,"scene_cp5_q4_s20,542",detail,Drang,"Dreadfully sorry about all this. We're in something of a bind ourselves. You... wouldn't happen to know where the archduke is, would you?"
@@ -261,14 +261,14 @@ English,"scene_cp5_q4_s20,542",detail,Drang,What the!
 English,"scene_cp5_q4_s20,542",detail,Katalina,Some sort of ambush?
 English,"scene_cp5_q4_s20,542",detail,Drang,"Save me, Sturm! Oh my goodness... What in the world is this strange machine?"
 English,"scene_cp5_q4_s20,542",detail,Lyria,"It's not alive, but I can faintly sense the power of primal crystals... Who could be controlling it?"
-English,"scene_cp5_q4_s20,542",detail,Vyrn,"Whatever it is, we'll give it the fight it's looking for! Let's kick some butt, [Djeeta]!"
-English,"scene_cp5_q4_s30,543",synopsis,,"After defeating the mechanical creature, [Djeeta] and company find their shadowy follower lying unconscious and decide to protect her."
+English,"scene_cp5_q4_s20,542",detail,Vyrn,"Whatever it is, we'll give it the fight it's looking for! Let's kick some butt, [플레이어]!"
+English,"scene_cp5_q4_s30,543",synopsis,,"After defeating the mechanical creature, [플레이어] and company find their shadowy follower lying unconscious and decide to protect her."
 English,"scene_cp5_q4_s30,543",detail,Vyrn,I've never seen anything like that before. Was it a machine? Or a monster?
 English,"scene_cp5_q4_s30,543",detail,Lyria,It seemed so strange!
 English,"scene_cp5_q4_s30,543",detail,Lyria,But something about it was... well...
 English,"scene_cp5_q4_s30,543",detail,Katalina,Hey! That girl from earlier is over here!
 English,"scene_cp5_q4_s30,543",detail,Rackam,She's passed out... but seems to be okay otherwise.
-English,"scene_cp5_q4_s30,543",detail,Lyria,"I don't think she's safe here, [Djeeta]. We should take her back."
+English,"scene_cp5_q4_s30,543",detail,Lyria,"I don't think she's safe here, [플레이어]. We should take her back."
 English,"scene_cp5_q4_s30,543",detail,Katalina,"Of course. Lend me a hand, Rackam."
 English,"scene_cp5_q4_s30,543",detail,Rackam,Sure thing!
 English,"scene_cp5_q4_s30,543",detail,???,Urgh... Master... Master?

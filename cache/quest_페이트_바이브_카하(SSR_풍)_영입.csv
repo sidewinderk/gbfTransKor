@@ -1,11 +1,11 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr543_ep1,synopsis,,依頼を受け、とある戦場跡を訪れた[ジータ]一行。そこでは、ある軍人の亡骸に、３人の星晶獣が寄り添っていた。星晶獣達は、見初めた相手に加護を与え、名誉をもたらす星晶獣「バイヴカハ」と名乗る。バイヴカハは、かつて自分達がもたらす名誉以上に家族に会うことを望んだ英雄の子孫を探すため、[ジータ]一行の旅に同行するのだった。
-Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>とある戦場跡から、ひとりの軍人の</span><br><span class='scene-font-katari'>亡骸を引き揚げて欲しいという</span><br><span class='scene-font-katari'>依頼を受けた[ジータ]一行。</span>
+Japanese,scene_fate_chr543_ep1,synopsis,,依頼を受け、とある戦場跡を訪れた[플레이어]一行。そこでは、ある軍人の亡骸に、３人の星晶獣が寄り添っていた。星晶獣達は、見初めた相手に加護を与え、名誉をもたらす星晶獣「バイヴカハ」と名乗る。バイヴカハは、かつて自分達がもたらす名誉以上に家族に会うことを望んだ英雄の子孫を探すため、[플레이어]一行の旅に同行するのだった。
+Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>とある戦場跡から、ひとりの軍人の</span><br><span class='scene-font-katari'>亡骸を引き揚げて欲しいという</span><br><span class='scene-font-katari'>依頼を受けた[플레이어]一行。</span>
 Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>その軍人の武勇は</span><br><span class='scene-font-katari'>遠い島にも轟くほどだったが、国同士の</span><br><span class='scene-font-katari'>激しい争いの末に命を落としていた。</span>
 Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>軍人を手厚く葬りたいという</span><br><span class='scene-font-katari'>遺族の願いを聞き入れ、一行は</span><br><span class='scene-font-katari'>戦場跡にやってきたのだった。</span>
 Japanese,scene_fate_chr543_ep1,detail,ビィ,ひでぇ有様だなぁ……<br>あっちこっち燃えちまってるぜ……
 Japanese,scene_fate_chr543_ep1,detail,ルリア,なんだか怖い場所ですね……
-Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>[ジータ]達は陰鬱な気持ちで</span><br><span class='scene-font-katari'>荒れ果てた戦場跡を歩いていると、</span><br><span class='scene-font-katari'>その先に佇む三人の女性を発見する。</span>
+Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>[플레이어]達は陰鬱な気持ちで</span><br><span class='scene-font-katari'>荒れ果てた戦場跡を歩いていると、</span><br><span class='scene-font-katari'>その先に佇む三人の女性を発見する。</span>
 Japanese,scene_fate_chr543_ep1,detail,？？？,…………
 Japanese,scene_fate_chr543_ep1,detail,ビィ,あの姉ちゃん達、<br>あんなとこで何してんだ？<br>兵隊とか騎空士には見えねぇけど……
 Japanese,scene_fate_chr543_ep1,detail,ルリア,……っ！？<br>あの人達、星晶獣です！
@@ -30,14 +30,14 @@ Japanese,scene_fate_chr543_ep1,detail,？？？,バズヴ、よくご覧なさ�
 Japanese,scene_fate_chr543_ep1,detail,？？？,私達のことも含め、<br>説明して差し上げたほうが<br>よろしいのではありませんか？
 Japanese,scene_fate_chr543_ep1,detail,？？？,くすくす……<br>モリガンお姉様の言う通り。<br>バズヴの悪い癖よ。
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,姉上達がそう言うのなら……
-Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>ふたりの女性から促され、</span><br><span class='scene-font-katari'>バズヴと呼ばれた女性は</span><br><span class='scene-font-katari'>[ジータ]達に名を告げる。</span>
+Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>ふたりの女性から促され、</span><br><span class='scene-font-katari'>バズヴと呼ばれた女性は</span><br><span class='scene-font-katari'>[플레이어]達に名を告げる。</span>
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,私はバズヴ……<br>隣のふたりは私の姉よ。
 Japanese,scene_fate_chr543_ep1,detail,モリガン,長女のモリガンです。<br>以後、お見知りおきを。
 Japanese,scene_fate_chr543_ep1,detail,ヴァハ,次女のヴァハよ。<br>忘れないでね。
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,そして人は私達のことをこう呼ぶ……<br><span class='scene-font-spword'>“バイヴカハ”</span>、と。
 Japanese,scene_fate_chr543_ep1,detail,ビィ,ううん……？ どういうことだ？<br>バイヴカハってのは、<br>騎空団の名前みてーなもんか？
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,人に伝わりし名はバイヴカハ。<br>個の名は意味を成さない……
-Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>[ジータ]達が</span><br><span class='scene-font-katari'>バズヴの説明に悩んでいると、</span><br><span class='scene-font-katari'>ヴァハの忍び笑いが耳に届く。</span>
+Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>[플레이어]達が</span><br><span class='scene-font-katari'>バズヴの説明に悩んでいると、</span><br><span class='scene-font-katari'>ヴァハの忍び笑いが耳に届く。</span>
 Japanese,scene_fate_chr543_ep1,detail,ヴァハ,くすくす……私達は一心同体の身。<br>個の名はあくまで、私達が私達を<br>識別する程度のものにすぎないの。
 Japanese,scene_fate_chr543_ep1,detail,ヴァハ,私達は個の名を持つと同時に、<br>バイヴカハという存在でもある。<br>つまり、どちらでも支障はないわ。
 Japanese,scene_fate_chr543_ep1,detail,ルリア,はあ……
@@ -47,7 +47,7 @@ Japanese,scene_fate_chr543_ep1,detail,モリガン,そして……<br>私達の�
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,私達は、見初めた相手に<br>加護を与え栄光をもたらし、<br>命尽きるまで見守る……
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,それが私達の役目であり、<br>存在意義でもある……
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,この亡き者も、私達が見初めた強き者。<br>命は果ててしまったけれど、<br>堂々たる最期だった……
-Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>不明瞭な返答をするバズヴだったが、</span><br><span class='scene-font-katari'>少し間を置いて、[ジータ]達に</span><br><span class='scene-font-katari'>目的を打ち明ける。</span>
+Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>不明瞭な返答をするバズヴだったが、</span><br><span class='scene-font-katari'>少し間を置いて、[플레이어]達に</span><br><span class='scene-font-katari'>目的を打ち明ける。</span>
 Japanese,scene_fate_chr543_ep1,detail,バズヴ,けれど……<br>私達はある方を探している。
 Japanese,scene_fate_chr543_ep1,detail,ルリア,ある方、というのは？
 Japanese,scene_fate_chr543_ep1,detail,ヴァハ,かつて<span class='scene-font-spword'>“英雄”</span>と呼ばれた人の子孫よ。
@@ -68,16 +68,16 @@ Japanese,scene_fate_chr543_ep1,detail,モリガン,しかし私達は、<br>あ�
 Japanese,scene_fate_chr543_ep1,detail,ヴァハ,でも、あの人の血を<br>受け継いでいるのなら、<br>きっと武勇に優れた人物のはず。
 Japanese,scene_fate_chr543_ep1,detail,ヴァハ,だからいつか戦場で<br>巡り逢える日を願いながら、<br>私達は役目を続けているのよ。
 Japanese,scene_fate_chr543_ep1,detail,ルリア,そんな事情があったんですね……
-Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>彼女達はひとしきり語り終えると、</span><br><span class='scene-font-katari'>心の奥を覗き込むように、</span><br><span class='scene-font-katari'>透き通った瞳を[ジータ]に向ける。</span>
-Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,[ジータ]は……やはり、そう……<br>私達にはわかる……
+Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>彼女達はひとしきり語り終えると、</span><br><span class='scene-font-katari'>心の奥を覗き込むように、</span><br><span class='scene-font-katari'>透き通った瞳を[플레이어]に向ける。</span>
+Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,[플레이어]は……やはり、そう……<br>私達にはわかる……
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,貴方は類稀なる武勇を備えている。<br>幾多の戦場を駆け抜け、<br>信念が刻まれたその目……
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,貴方達に同行すれば、<br>いつか戦場であの人の子孫と<br>巡り逢うことも叶うのでしょうか……
 Japanese,scene_fate_chr543_ep1,detail,ビィ,まぁ、<br>もしかしたらそういうことも<br>あるんじゃねぇか？
-Japanese,scene_fate_chr543_ep1,detail,ビィ,仲間になりてぇってんなら<br>オイラ達は歓迎するぜ！<br>なぁ、[ジータ]！
+Japanese,scene_fate_chr543_ep1,detail,ビィ,仲間になりてぇってんなら<br>オイラ達は歓迎するぜ！<br>なぁ、[플레이어]！
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,仲間……
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,貴方達がどのように判断するのかは<br>貴方達に委ねるわ。
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,私達は傍で見守る、ただそれだけ……
-Japanese,scene_fate_chr543_ep1,detail,ビィ,よ、よくわかんねぇけど……<br>どうすんだ、[ジータ]？
+Japanese,scene_fate_chr543_ep1,detail,ビィ,よ、よくわかんねぇけど……<br>どうすんだ、[플레이어]？
 Japanese,scene_fate_chr543_ep1,sel1_txt,,<span class='scene-font-katari'>よろしくね</span>
 Japanese,scene_fate_chr543_ep1,sel2_txt,,<span class='scene-font-katari'>子孫に会えるといいね</span>
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,こちらこそ……
@@ -87,8 +87,8 @@ Japanese,scene_fate_chr543_ep1,detail,ルリア,きっと会えますよ！<br>�
 Japanese,scene_fate_chr543_ep1,detail,バイヴカハ,ありがとう……
 Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>その後、軍人の亡骸を</span><br><span class='scene-font-katari'>依頼主である遺族の元に</span><br><span class='scene-font-katari'>無事に送り届けた一行。</span>
 Japanese,scene_fate_chr543_ep1,detail,,<span class='scene-font-katari'>こうしてまた新たに</span><br><span class='scene-font-katari'>不可思議な三人が</span><br><span class='scene-font-katari'>一行の旅に加わるのだった。</span>
-Japanese,scene_chr543_q1_s20,synopsis,,ある日、探している英雄の子孫らしい気配がするというバイヴカハの言葉を受け、[ジータ]一行はとある島に降り立つ。気配を辿って森の中を進むと、魔物に囲まれて全身傷だらけの青年を見つける。気を失ってしまった青年を救おうと、一行は魔物に立ち向かう。
-Japanese,scene_chr543_q1_s20,detail,,<span class='scene-font-katari'>バイヴカハが[ジータ]達に同行して</span><br><span class='scene-font-katari'>幾日かが経った、ある日のこと。</span>
+Japanese,scene_chr543_q1_s20,synopsis,,ある日、探している英雄の子孫らしい気配がするというバイヴカハの言葉を受け、[플레이어]一行はとある島に降り立つ。気配を辿って森の中を進むと、魔物に囲まれて全身傷だらけの青年を見つける。気を失ってしまった青年を救おうと、一行は魔物に立ち向かう。
+Japanese,scene_chr543_q1_s20,detail,,<span class='scene-font-katari'>バイヴカハが[플레이어]達に同行して</span><br><span class='scene-font-katari'>幾日かが経った、ある日のこと。</span>
 Japanese,scene_chr543_q1_s20,detail,,<span class='scene-font-katari'>彼女達はグランサイファーの甲板から</span><br><span class='scene-font-katari'>遠くを眺めながら、</span><br><span class='scene-font-katari'>独り言のように呟く。</span>
 Japanese,scene_chr543_q1_s20,detail,バズヴ,気配が……
 Japanese,scene_chr543_q1_s20,detail,モリガン,私も感じました。
@@ -104,7 +104,7 @@ Japanese,scene_chr543_q1_s20,detail,ヴァハ,これは願ってもない機会�
 Japanese,scene_chr543_q1_s20,sel1_txt,,<span class='scene-font-katari'>行こう！</span>
 Japanese,scene_chr543_q1_s20,sel2_txt,,<span class='scene-font-katari'>自分も会ってみたい</span>
 Japanese,scene_chr543_q1_s20,detail,ルリア,もちろんです！<br>バイヴカハさんが<br>こんなにお願いしてるんですから！
-Japanese,scene_chr543_q1_s20,detail,ルリア,英雄の子孫さんですもんね！<br>やっぱり気になるんですね、<br>[ジータ]！
+Japanese,scene_chr543_q1_s20,detail,ルリア,英雄の子孫さんですもんね！<br>やっぱり気になるんですね、<br>[플레이어]！
 Japanese,scene_chr543_q1_s20,detail,バイヴカハ,感謝するわ……<br>このお礼はいつか……
 Japanese,scene_chr543_q1_s20,detail,,<span class='scene-font-katari'>一行はバイヴカハの願いを聞き入れ、</span><br><span class='scene-font-katari'>彼女達が英雄に似た気配を察したという</span><br><span class='scene-font-katari'>島へ向かう。</span>
 Japanese,scene_chr543_q1_s20,detail,,<span class='scene-font-katari'>島に到着し、</span><br><span class='scene-font-katari'>気配を辿るバイヴカハの案内に従って</span><br><span class='scene-font-katari'>森の中をしばらく歩く一行。</span>
@@ -127,8 +127,8 @@ Japanese,scene_chr543_q1_s20,detail,バズヴ,もちろんよ……
 Japanese,scene_chr543_q1_s20,detail,ヴァハ,さあ、こっちにいらっしゃい？
 Japanese,scene_chr543_q1_s20,detail,モリガン,ズタズタに引き裂いて、<br>息の根を止めてあげましょう。
 Japanese,scene_chr543_q1_s20,detail,魔物,<span class='scene-font-4'>グオオオオッ！</span>
-English,scene_fate_chr543_ep1,synopsis,,"The crew takes on a request to retrieve a fallen soldier's body. When they find the corpse in question, they discover a trio of battle goddesses who collectively refer to themselves as the Morrigna. They decide to accompany [Djeeta]'s crew to track down the descendant of their former charge."
-English,scene_fate_chr543_ep1,detail,,[Djeeta] and company have come to the site of a battlefield on a grim but noble request: to find and retrieve the remains of a fallen soldier.
+English,scene_fate_chr543_ep1,synopsis,,"The crew takes on a request to retrieve a fallen soldier's body. When they find the corpse in question, they discover a trio of battle goddesses who collectively refer to themselves as the Morrigna. They decide to accompany [플레이어]'s crew to track down the descendant of their former charge."
+English,scene_fate_chr543_ep1,detail,,[플레이어] and company have come to the site of a battlefield on a grim but noble request: to find and retrieve the remains of a fallen soldier.
 English,scene_fate_chr543_ep1,detail,,"Although the soldier was renowned across distant islands for his valor, death has no respect for heroics, and thus he lost his life in service to his country."
 English,scene_fate_chr543_ep1,detail,,"His next of kin want to give their loved one a final farewell worth his bravery, and have entrusted the crew with bringing him home."
 English,scene_fate_chr543_ep1,detail,Vyrn,"Yikes, look at this place. It's basically been burnt to a crisp."
@@ -142,7 +142,7 @@ English,scene_fate_chr543_ep1,detail,,"Bewildered by the appearance of the trio,
 English,scene_fate_chr543_ep1,detail,Vyrn,"Is that, you don't think... the fallen soldier?"
 English,scene_fate_chr543_ep1,detail,Lyria,I think so. But it's strange how those three are just staring down at him.
 English,scene_fate_chr543_ep1,detail,,"They wait and watch, trying to ascertain the motives of the primal beast that has taken the form of three women."
-English,scene_fate_chr543_ep1,detail,,"But the primal remains unmoving, vigilant. Realizing inaction will solve nothing, [Djeeta] and the others decide to make an approach."
+English,scene_fate_chr543_ep1,detail,,"But the primal remains unmoving, vigilant. Realizing inaction will solve nothing, [플레이어] and the others decide to make an approach."
 English,scene_fate_chr543_ep1,detail,Vyrn,"Excuse us, what're you all doin' in a place like this?"
 English,scene_fate_chr543_ep1,detail,???,Mmm? Aaah...
 English,scene_fate_chr543_ep1,detail,???,We were cradling our charge—this warrior who acted with courage until his last moment.
@@ -158,14 +158,14 @@ English,scene_fate_chr543_ep1,detail,???,"Badb, look at their faces. They seem s
 English,scene_fate_chr543_ep1,detail,???,Shouldn't we explain ourselves before we get into all of the particulars?
 English,scene_fate_chr543_ep1,detail,???,"Teehee... It's just as Neamhan says, Sister. Such a bad habit you have, putting introductions on the long finger."
 English,scene_fate_chr543_ep1,detail,Badb,"Well, if you're going to begrudge me, Sisters..."
-English,scene_fate_chr543_ep1,detail,,The woman referred to as Badb steps forward to formally greet [Djeeta] and company.
+English,scene_fate_chr543_ep1,detail,,The woman referred to as Badb steps forward to formally greet [플레이어] and company.
 English,scene_fate_chr543_ep1,detail,Badb,I'm Badb. These two spuds are my sisters.
 English,scene_fate_chr543_ep1,detail,Neamhan,"I'm the eldest, Neamhan. May the road rise up to meet you."
 English,scene_fate_chr543_ep1,detail,Macha,Macha here. Middle sister. Don't forget it now.
 English,scene_fate_chr543_ep1,detail,Badb,Mortals have grown fond of collectively calling the three of us the Morrigna.
 English,scene_fate_chr543_ep1,detail,Vyrn,"Seriously? You have 'the' in your name? Is it just me, or does that sound like an airship or somethin'?"
 English,scene_fate_chr543_ep1,detail,Badb,The Morrigna is the moniker mortals have given us. Our individual names hold virtually no weight in comparison.
-English,scene_fate_chr543_ep1,detail,,"Despite Badb's explanation, [Djeeta], Lyria, and Vyrn still seem none the wiser. Macha struggles to suppress a giggle."
+English,scene_fate_chr543_ep1,detail,,"Despite Badb's explanation, [플레이어], Lyria, and Vyrn still seem none the wiser. Macha struggles to suppress a giggle."
 English,scene_fate_chr543_ep1,detail,Macha,"Teehee... We're a being of one soul, hear. Our individual names are just a way to identify a third of the whole."
 English,scene_fate_chr543_ep1,detail,Macha,"They're separate names, certainly, but we're the Morrigna just the same. 'Tis all fair, children."
 English,scene_fate_chr543_ep1,detail,Lyria,Uh... huh...
@@ -196,16 +196,16 @@ English,scene_fate_chr543_ep1,detail,Neamhan,"Alas, trouble is as trouble does, 
 English,scene_fate_chr543_ep1,detail,Macha,But we figure his progeny must have inherited martial merit equal to his own.
 English,scene_fate_chr543_ep1,detail,Macha,We can continue our duty knowing that perhaps one day we'll come across a worthy warrior with the blood of that man in their veins.
 English,scene_fate_chr543_ep1,detail,Lyria,"Wow, that's quite a story."
-English,scene_fate_chr543_ep1,detail,,"With the air finally cleared, the three women smile at the young skyfarers. But soon their eerie, unified gaze shifts toward [Djeeta]."
-English,scene_fate_chr543_ep1,detail,Morrigna,"[Djeeta], we see in you... Yes. That's a fret now."
+English,scene_fate_chr543_ep1,detail,,"With the air finally cleared, the three women smile at the young skyfarers. But soon their eerie, unified gaze shifts toward [플레이어]."
+English,scene_fate_chr543_ep1,detail,Morrigna,"[플레이어], we see in you... Yes. That's a fret now."
 English,scene_fate_chr543_ep1,detail,Morrigna,"You are possessed of unparalleled valor. That much is clear from the look in your eyes, those pupils which have seen a thousand battles and may see a thousand more."
 English,scene_fate_chr543_ep1,detail,Morrigna,"If we join you across your travels, we are likely to meet other brave combatants. And, mayhaps, a descendant of the hero we long to meet."
 English,scene_fate_chr543_ep1,detail,Vyrn,That's definitely in the realm of possibility.
-English,scene_fate_chr543_ep1,detail,Vyrn,"Besides, we're always lookin' for more crewmates! Right, [Djeeta]?"
+English,scene_fate_chr543_ep1,detail,Vyrn,"Besides, we're always lookin' for more crewmates! Right, [플레이어]?"
 English,scene_fate_chr543_ep1,detail,Morrigna,Crewmates?
 English,scene_fate_chr543_ep1,detail,Morrigna,You must steer the course of your own lives.
 English,scene_fate_chr543_ep1,detail,Morrigna,"By our grace, we may only act as your partisan."
-English,scene_fate_chr543_ep1,detail,Vyrn,"I'm not sure if that's such a big difference, but what do you think, [Djeeta]?"
+English,scene_fate_chr543_ep1,detail,Vyrn,"I'm not sure if that's such a big difference, but what do you think, [플레이어]?"
 English,scene_fate_chr543_ep1,sel1_txt,,Welcome to the crew.
 English,scene_fate_chr543_ep1,sel2_txt,,I hope we can find that descendant.
 English,scene_fate_chr543_ep1,detail,Morrigna,We thank you.
@@ -232,9 +232,9 @@ English,scene_chr543_q1_s20,detail,Macha,Tis an opportunity the likes of which w
 English,scene_chr543_q1_s20,sel1_txt,,Well then,what are we waiting for!
 English,scene_chr543_q1_s20,sel2_txt,,We can't wait to meet this person either!
 English,scene_chr543_q1_s20,detail,Lyria,"This is really important to you, Morrigna! So of course we'll go!"
-English,scene_chr543_q1_s20,detail,Lyria,"They're the descendant of a hero after all! Anyone would be curious to see them, right, [Djeeta]?"
+English,scene_chr543_q1_s20,detail,Lyria,"They're the descendant of a hero after all! Anyone would be curious to see them, right, [플레이어]?"
 English,scene_chr543_q1_s20,detail,Morrigna,"We thank you, with the promise we'll pay you back in kind."
-English,scene_chr543_q1_s20,detail,,"Wasting no time, [Djeeta] has the Grandcypher change course for the island."
+English,scene_chr543_q1_s20,detail,,"Wasting no time, [플레이어] has the Grandcypher change course for the island."
 English,scene_chr543_q1_s20,detail,,"After alighting, the crew find themselves walking through a forest, the Morrigna at the head of their group."
 English,scene_chr543_q1_s20,detail,,"The primal trio comes to an abrupt stop, and three pairs of brows furrow in unison."
 English,scene_chr543_q1_s20,detail,Morrigna,We're close now. The breeze calls us this way.

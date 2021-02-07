@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp8_q1_s10,811",synopsis,,機械の魔物から溢れる魔力は、イオに大公の関与を確信させる。不安がるイオを勇気づけながら<span>[ジータ]</span>一行は大公の影を求めて地下工場を進む。,"기계의 마물로부터 흘러넘치는 마력은, 이오에게 대공의 관여를 확신시킨다.불안해하는 이오를 격려하면서<span>[지타]</span>일행은 대공의 그림자를 찾아 지하공장을 나아간다."
+Japanese,"scene_cp8_q1_s10,811",synopsis,,機械の魔物から溢れる魔力は、イオに大公の関与を確信させる。不安がるイオを勇気づけながら<span>[플레이어]</span>一行は大公の影を求めて地下工場を進む。,"기계의 마물로부터 흘러넘치는 마력은, 이오에게 대공의 관여를 확신시킨다.불안해하는 이오를 격려하면서<span>[플레이어]</span>일행은 대공의 그림자를 찾아 지하공장을 나아간다."
 Japanese,"scene_cp8_q1_s10,811",detail,,<span class='scene-font-katari'>遠く立ちはだかる機械の魔物は</span><br><span class='scene-font-katari'>イオに大公の気配を確信させる。</span>,<span class='scene-font-katari> 멀리 가로막은 그 기계의 마물은 </span><br><span class='scene-font-katari> 이오에게 대공의 기미를 확신시킨다.</span>
 Japanese,"scene_cp8_q1_s10,811",detail,,<span class='scene-font-katari'>その確信は同時に、大公その人が</span><br><span class='scene-font-katari'>この地下の果てに潜んでいることを</span><br><span class='scene-font-katari'>意味していた。</span>,"<span class='scene-font-katari>에 대한 확신은 동시에, 대공 그 사람이 </span><br><span class='scene-font-katari>이 지하의 끝에 숨어 있는 것을 </span><br><span class='scene-font-katari><span><span class><span class><span class><span class><sclass><span class><sc"
 Japanese,"scene_cp8_q1_s10,811",detail,이오,機械の魔物の魔力……<br>間違いない！<br>やっぱり、機械の魔物は師匠が……！,"기계의 마물의 마력……<br>틀림없어!<br>역시, 기계의 마물은 스승이……!"
@@ -7,11 +7,11 @@ Japanese,"scene_cp8_q1_s10,811",detail,비이,大公さんは、<br>ずいぶん
 Japanese,"scene_cp8_q1_s10,811",detail,이오,師匠……<br>あたし、師匠の事信じたいよ……,"스승...<br>나, 스승에 대해 믿고 싶어……"
 Japanese,"scene_cp8_q1_s10,811",detail,라캄,イオ……なにが起きてんのかは、<br>自分の目で確かめようぜ。<br>……師匠が大好きなんだろ？,"이오……무슨일이 일어나고 있는지는,<br>자신의 눈으로 확인하자.<br>……스승을 정말 좋아하는거지?"
 Japanese,"scene_cp8_q1_s10,811",detail,이오,……うん。,……응.
-Japanese,"scene_cp8_q1_s10,811",detail,비이,よし！<br>行こうぜ、[ジータ]！,좋아!<br>가자아 [지타]
-Japanese,"scene_cp8_q1_s20,812",synopsis,,必死に師匠を探すイオを援護しながら、<span>[ジータ]</span>一行は次々と現れる魔物を蹴散らしていく。,"필사적으로 스승을 찾는 이오를 원호하면서,<span>[지타]</span>일행은 차례차례 나타나는 마물들을 헤집어간다."
+Japanese,"scene_cp8_q1_s10,811",detail,비이,よし！<br>行こうぜ、[플레이어]！,좋아!<br>가자아 [플레이어]
+Japanese,"scene_cp8_q1_s20,812",synopsis,,必死に師匠を探すイオを援護しながら、<span>[플레이어]</span>一行は次々と現れる魔物を蹴散らしていく。,"필사적으로 스승을 찾는 이오를 원호하면서,<span>[플레이어]</span>일행은 차례차례 나타나는 마물들을 헤집어간다."
 Japanese,"scene_cp8_q1_s20,812",detail,라캄,居たぜ！<br>さっきのうさんくせぇ野郎だ！<br>俺達も負けてらんねぇぞ！,있다구! 조금전의 우산쿠레에자식이다!<br>우리도 질 순 없지!
 Japanese,"scene_cp8_q1_s20,812",detail,이오,<span class='scene-font-4'>師匠ーッ！</span><br><span class='scene-font-4'>ねぇどこなの！？</span><br><span class='scene-font-4'>ここに居るの！？</span>,<span class='scene-font-4'>스승님!<br>야 어디야!?여기에 있어!?</span>
-Japanese,"scene_cp8_q1_s20,812",detail,비이,[ジータ]！<br>イオに付いててやれ！<br>ひとりじゃ危なっかしいぜ！,[지타]!<br>이오를 따라 해라!<br>혼자는 위험해!
+Japanese,"scene_cp8_q1_s20,812",detail,비이,[플레이어]！<br>イオに付いててやれ！<br>ひとりじゃ危なっかしいぜ！,[플레이어]!<br>이오를 따라 해라!<br>혼자는 위험해!
 Japanese,"scene_cp8_q1_s20,812",detail,마물,<span class='scene-font-4'>グオオー！</span>,<span class='scene-font-4'>응오!</span>
 Japanese,"scene_cp8_q1_s20,812",detail,카타리나,正念場だな！ 援護は任せろ！<br>ここは私がしかと守る！,중대국면이네! 원호는 맡겨!여긴 내가 잘 지킬게!
 Japanese,"scene_cp8_q2_s10,821",synopsis,,地下工場を進むにつれ、ルリアが感じる力は徐々に大きくなっていく。ドランク、スツルムとも再び遭遇し状況が混迷を極める中、イオは古いドラフの骨を見つける。,"지하 공장을 나아가는 것에 따라, 루리아가 느끼는 힘은 서서히 커져 간다.드렁크, 스툴름과도 다시 조우해 상황이 혼란스러운 가운데 이오는 낡은 드라프의 뼈를 찾아낸다."
@@ -30,19 +30,19 @@ Japanese,"scene_cp8_q2_s10,821",detail,이오,見ればわかる！ 知ってた
 Japanese,"scene_cp8_q2_s10,821",detail,비이,<span class='scene-font-spword'>星の民</span>がいた頃に<br>ここで働かされてたんじゃねーかな？,<span class='scene-font-spword> 별의 백성</span>이 있을 무렵에<br>여기서 일하지 않았을까?
 Japanese,"scene_cp8_q2_s10,821",detail,이오,ドラフは力強く、器用だから……<br>目を付けられちゃったのかな……,"드라프는 힘차고, 금손이니까……<br>찍혀버린걸까……"
 Japanese,"scene_cp8_q2_s10,821",detail,카타리나,大公に会おう。<br>これも彼が<br>説明してくれるかもしれない。,대공을 만나자.<br>이것도 그가<br>설명해줄지도 모른다.
-Japanese,"scene_cp8_q2_s20,822",synopsis,,地下工場の最奥に脈動する大きな力を感じるルリア。その巨大さに<span>[ジータ]</span>一行は戦慄する。,지하 공장의 깊은 곳에서 맥동하는 큰 힘을 느끼는 루리아. 그 거대함에 <span>[지타]</span> 일행은 전율한다.
+Japanese,"scene_cp8_q2_s20,822",synopsis,,地下工場の最奥に脈動する大きな力を感じるルリア。その巨大さに<span>[플레이어]</span>一行は戦慄する。,지하 공장의 깊은 곳에서 맥동하는 큰 힘을 느끼는 루리아. 그 거대함에 <span>[플레이어]</span> 일행은 전율한다.
 Japanese,"scene_cp8_q2_s20,822",detail,루리아,あの、大きなモノから<br>脈動する力を……感じる。,"저, 큰 물건으로부터<br>맥동하는 힘을……느낀다."
 Japanese,"scene_cp8_q2_s20,822",detail,라캄,チッ……<br>悪い予感、的中か。,"칙…<br>나쁜 예감, 적중인가."
 Japanese,"scene_cp8_q2_s20,822",detail,카타리나,ルリア、星晶獣なのか？,"루리아, 별정수야?"
 Japanese,"scene_cp8_q2_s20,822",detail,루리아,……解らない。<br>なんだろ？ これ……,……모르겠어.<br>뭐지? 이거……
 Japanese,"scene_cp8_q2_s20,822",detail,루리아,この子……<br>声が聞こえない……？,얘……<br>소리가 안 들려……?
 Japanese,"scene_cp8_q2_s20,822",detail,이오,師匠はいったい<br>何を作ってるの……？,스승님은 도대체<br>무엇을 만들고 있는거야……?
-Japanese,"scene_cp8_q3_s10,831",synopsis,,地下工場最深部、<span>[ジータ]</span>一行と行動を共にするイオは、ついに師匠である大公との再会を果たす。しかし、必死に呼びかけるイオにかけられたのは冷たい決意の言葉だった。,"지하공장 최심부 <span> [지타] </span> 일행과 행동을 같이 하는 이오는 마침내 스승인 대공과 재회를 한다.그러나, 필사적으로 호소하는 이오에게 건네진 것은 차가운 결의의 말이었다."
+Japanese,"scene_cp8_q3_s10,831",synopsis,,地下工場最深部、<span>[플레이어]</span>一行と行動を共にするイオは、ついに師匠である大公との再会を果たす。しかし、必死に呼びかけるイオにかけられたのは冷たい決意の言葉だった。,"지하공장 최심부 <span> [플레이어] </span> 일행과 행동을 같이 하는 이오는 마침내 스승인 대공과 재회를 한다.그러나, 필사적으로 호소하는 이오에게 건네진 것은 차가운 결의의 말이었다."
 Japanese,"scene_cp8_q3_s10,831",detail,라캄,よし！<br>もうデカブツは目の前だ！,좋아!<br>벌써 엄청나게 큰 것은 눈앞이야!
 Japanese,"scene_cp8_q3_s10,831",detail,카타리나,ラカム！<br>あくまで大公の保護が目的だ。<br>忘れるな！,라캄!<br>어디까지나 대공의 보호가 목적이다.<br>잊지마!
 Japanese,"scene_cp8_q3_s10,831",detail,비이,あの二人組も姿が見えねーぜ！<br>引っかき回すだけ回して<br>消えやがった……気を付けろ！,저 2인조도 모습이 보이지 않는다고!<br>뒤집을 만큼 돌려<br>사라졌다……조심해라!
 Japanese,"scene_cp8_q3_s10,831",detail,이오,師匠……会える、よね？<br>そこに……いるんだよね？,"스승……만날 수 있다, 그렇지? <br> 거기에…… 있는거지?"
-Japanese,"scene_cp8_q3_s10,831",detail,루리아,イオちゃん、大丈夫です。<br>きっとうまくいく……ううん、<br>[ジータ]がうまくしてくれます！,"이오짱 괜찮아요.<br>틀림없이 잘될거야……아니,<br>[지타]가 잘해줍니다!"
+Japanese,"scene_cp8_q3_s10,831",detail,루리아,イオちゃん、大丈夫です。<br>きっとうまくいく……ううん、<br>[플레이어]がうまくしてくれます！,"이오짱 괜찮아요.<br>틀림없이 잘될거야……아니,<br>[플레이어]가 잘해줍니다!"
 Japanese,"scene_cp8_q3_s10,831",detail,？？？,――――,――――
 Japanese,"scene_cp8_q3_s10,831",detail,라캄,――これは……鉄の巨人か？,이건 철의 거인인가?
 Japanese,"scene_cp8_q3_s10,831",detail,카타리나,ル、ルリア……答えてくれ……<br>これは星晶獣なのか……？,"루, 루리아……대답해줘……<br>이건 별정수인가……?"
@@ -67,7 +67,7 @@ Japanese,"scene_cp8_q3_s20,832",detail,이오,直接語りかければきっと�
 Japanese,"scene_cp8_q3_s20,832",detail,루리아,……やっと聞こえました、イオちゃん。,"……겨우 들렸습니다, 이오짱."
 Japanese,"scene_cp8_q3_s20,832",detail,이오,え？,엥?
 Japanese,"scene_cp8_q3_s20,832",detail,루리아,あの巨人さんは泣いてるんです……<br>悲しいことのために、<br>長い眠りから醒まされて……,저 거인씨는 울고 있습니다....<br>슬픈 일 때문에 <br>긴 잠에서 깨어나고.......
-Japanese,"scene_cp8_q3_s20,832",detail,루리아,でも大公様の心も泣いてる……<br>だから助けよう……みんなを！<br>私も[ジータ]も手伝うから！,하지만 대공님의 마음도 울고있어...<br>그러니까 돕자...모두를!<br>나도 [지타]도 도와줄게!
+Japanese,"scene_cp8_q3_s20,832",detail,루리아,でも大公様の心も泣いてる……<br>だから助けよう……みんなを！<br>私も[플레이어]も手伝うから！,하지만 대공님의 마음도 울고있어...<br>그러니까 돕자...모두를!<br>나도 [플레이어]도 도와줄게!
 Japanese,"scene_cp8_q3_s20,832",detail,,<span class='scene-font-katari'>暗く、深い地の底。</span><br><span class='scene-font-katari'>再び大公の前に姿を現したイオは、</span><br><span class='scene-font-katari'>その正面に対峙した。</span>,"<span class='scene-font-katari'>어둡고, 깊은 땅의 밑바닥.<br>다시 대공의 앞에 모습을 드러낸 이오는,<br>그 정면에 대치했다.</span>"
 Japanese,"scene_cp8_q3_s20,832",detail,자카 대공,イオ、なんのつもりだ？<br>お前まで、わしから<br>これを奪いに来たのか？,"이오, 무슨 생각이야?<br>너마저 나한테 <br>이걸 뺏으러 온거니?"
 Japanese,"scene_cp8_q3_s20,832",detail,이오,……師匠、もうおはようの時間だよ。,"……스승님, 이제 좋은 아침의 시간이야."
@@ -77,7 +77,7 @@ Japanese,"scene_cp8_q3_s20,832",detail,자카 대공,……これは悲願なの
 Japanese,"scene_cp8_q3_s20,832",detail,이오,だったら……<br>……そんな悪夢、ぶっ壊す！,"그렇다면....<br>....그런 악몽, 때려 부순다!"
 Japanese,"scene_cp8_q3_s20,832",detail,이오,師匠！<br>今日、あたしは貴方を超えてみせるよ！<br>師匠を縛り付ける悪夢を砕いて。,"스승님!<br>오늘, 나는 너를 넘어서야겠어!<br>스승을 묶어두는 악몽을 깨뜨려."
 Japanese,"scene_cp8_q3_s20,832",detail,이오,そして師匠を……<br>悲しい歴史から解放してみせる！！,그리고 스승을....<br>슬픈 역사로부터 해방시키고야 말겠다!!
-Japanese,"scene_cp8_q4_s10,841",synopsis,,追い詰められた大公は、古のドラフの悲願、星晶獣コロッサスを起動させる。狂気にとり憑かれた大公を前に、<span>[ジータ]</span>一行は大公の目を醒ますべく、鉄の巨人と相対する。,궁지에 몰린 대공은 옛 드래프의 비원 성정수 콜로사스를 띄운다.광기에 홀린 대공을 앞에 두고 <span> [지타] </span> 일행은 대공의 눈을 깨우기 위해 철의 거인을 상대한다.
+Japanese,"scene_cp8_q4_s10,841",synopsis,,追い詰められた大公は、古のドラフの悲願、星晶獣コロッサスを起動させる。狂気にとり憑かれた大公を前に、<span>[플레이어]</span>一行は大公の目を醒ますべく、鉄の巨人と相対する。,궁지에 몰린 대공은 옛 드래프의 비원 성정수 콜로사스를 띄운다.광기에 홀린 대공을 앞에 두고 <span> [플레이어] </span> 일행은 대공의 눈을 깨우기 위해 철의 거인을 상대한다.
 Japanese,"scene_cp8_q4_s10,841",detail,자카 대공,わしの夢が……負けるのか？<br>わしの夢は……叶わぬというのか？,내 꿈이... 지는 건가?<br> 내 꿈은……. 이루어질 수 없다는 건가?
 Japanese,"scene_cp8_q4_s10,841",detail,이오,……師匠、もう諦めて。<br>あれは悪い夢だったんだよ……,"……스승님, 이제 포기해.<br>그건 나쁜 꿈이었어……"
 Japanese,"scene_cp8_q4_s10,841",detail,자카 대공,わしの夢、古の同胞の悲願、<br>あの芸術品のような<br>技術の至高が砕かれるだと！？,"나의 꿈, 옛 동포들의 비원, <br> 저 예술품 같은 <br> 기술의 지고가 부서진다고!?"
@@ -95,7 +95,7 @@ Japanese,"scene_cp8_q4_s10,841",detail,이오,師匠……,스승……
 Japanese,"scene_cp8_q4_s10,841",detail,카타리나,イオ……<br>こうなった以上、もう手はない。,"이오……<br>이렇게 된 이상, 이미 손은 없다."
 Japanese,"scene_cp8_q4_s10,841",detail,카타리나,あの鉄の巨人を倒そう……<br>そして、大公の目を醒まさせるんだ。,"저 철의 거인을 쓰러뜨리자……<br>그리고, 대공의 눈을 뜨게 한다."
 Japanese,"scene_cp8_q4_s10,841",detail,자카 대공,貴様らにも、帝国にも<br><span class='scene-font-4'>この巨人には指一本ふれさせぬ！</span>,"너희에게도, 제국에게도<br><spanclass='scene-font-4>이 거인에게는 손가락 하나 대지 못하게 하겠다!</span>"
-Japanese,"scene_cp8_q4_s10,841",detail,비이,大丈夫だぜ、イオ！<br>[ジータ]も、みんなもついてる！<br>負ける理由が見当たらねーぜ！,"괜찮아, 이오!<br>[지타]도, 모두 붙어있어!<br>질 이유를 찾을 수 없어!"
+Japanese,"scene_cp8_q4_s10,841",detail,비이,大丈夫だぜ、イオ！<br>[플레이어]も、みんなもついてる！<br>負ける理由が見当たらねーぜ！,"괜찮아, 이오!<br>[플레이어]도, 모두 붙어있어!<br>질 이유를 찾을 수 없어!"
 Japanese,"scene_cp8_q4_s20,842",synopsis,,イオは、自らが教えてもらった魔法の心意気を大公に語りかける。そして、大公の笑顔を取り戻すため、例え悲願であろうともコロッサスを倒すことを宣言する。,"이오는, 스스로가 배운 마법의 마음가짐을 대공에게 이야기한다.그리고, 대공의 웃는 얼굴을 되찾기 위해, 비록 비원일지라도 코로사스를 꺾을 것을 선언한다."
 Japanese,"scene_cp8_q4_s20,842",detail,비이,あと一息だ！<br>残りは巨人の本体だけだぜ！,이제 한 고비만 더 하면 돼! <br> 남은 것은 거인의 본체 뿐이야!
 Japanese,"scene_cp8_q4_s20,842",detail,이오,ねぇ、師匠……<br>師匠は教えてくれたよね、<br>魔法は笑顔のためにあるって。,"저기, 스승...<br> 스승은 가르쳐 주었지,<br>마법은 웃는 얼굴을 위해 있다고."
@@ -109,7 +109,7 @@ Japanese,"scene_cp8_q4_s20,842",detail,루리아,<span class='scene-font-kokoro'
 Japanese,"scene_cp8_q4_s20,842",detail,드랑크,ふふ、どうです？<br>彼ら、良い仕事するでしょ～！,"후후 어때요?<br>그들, 좋은 일 하잖아~!"
 Japanese,"scene_cp8_q4_s20,842",detail,흑기사,悪くないな……<br>ルリアも相当揺れているようだ。,나쁘지 않은데……<br>루리아도 상당히 흔들리고 있는 것 같다.
 Japanese,"scene_cp8_q4_s20,842",detail,흑기사,だが、まだ足りない……<br>まだ彼女には遠いのだ……<br>彼女を取り返すには、まだ……,"하지만, 아직 부족하다……<br>아직 그녀에게는 멀었다……<br>그녀를 되찾으려면 , 아직……"
-Japanese,"scene_cp8_q4_s30,843",synopsis,,自分を取り戻した大公は、イオを新たな旅へと優しく送り出す。そして大公の聞いた話を元に、<span>[ジータ]</span>一行は<span class='scene-font-place'>アウギュステ列島</span>を次なる目的地に空を進む。,자신을 되찾은 대공은 이오를 새로운 여행으로 부드럽게 보낸다.그리고 대공이 들은 말에 따라 <span>[지타]</span>일행은 <spanclass='scene-font-place>아우귀스테열도</span>를 다음 목적지로 삼아 하늘로 나아간다.
+Japanese,"scene_cp8_q4_s30,843",synopsis,,自分を取り戻した大公は、イオを新たな旅へと優しく送り出す。そして大公の聞いた話を元に、<span>[플레이어]</span>一行は<span class='scene-font-place'>アウギュステ列島</span>を次なる目的地に空を進む。,자신을 되찾은 대공은 이오를 새로운 여행으로 부드럽게 보낸다.그리고 대공이 들은 말에 따라 <span>[플레이어]</span>일행은 <spanclass='scene-font-place>아우귀스테열도</span>를 다음 목적지로 삼아 하늘로 나아간다.
 Japanese,"scene_cp8_q4_s30,843",detail,카타리나,やったか……！？,해냈어?!
 Japanese,"scene_cp8_q4_s30,843",detail,자카 대공,……あ、ああぁ、<br>崩れてしまう、わしの夢が……<br>わしの巨人が……,"……아, 아아,<br>무너져 버리는, 내 꿈이…<br>내 거인이……."
 Japanese,"scene_cp8_q4_s30,843",detail,이오,師匠……<br>……！？,스승……<br>……?!
@@ -119,7 +119,7 @@ Japanese,"scene_cp8_q4_s30,843",detail,이오,はぁ、はぁ、はぁ……,"�
 Japanese,"scene_cp8_q4_s30,843",detail,,<span class='scene-font-katari'>砕けたはずの巨人はイオの声に応え、</span><br><span class='scene-font-katari'>最後に、ザカ大公を庇って倒れた。</span>,<span class='scene-font-katari> 부서졌을 거인은 이오의 목소리에 응하여 </span><br><span class='scene-font-katari> 마지막으로 자카 대공을 감싸고 쓰러졌다.</span>
 Japanese,"scene_cp8_q4_s30,843",detail,흑기사,――まぁ、こんなものか。<br>しかし、面白いモノが見られた。,뭐 이런 건가.하지만 재미있는 것을 볼 수 있었다.
 Japanese,"scene_cp8_q4_s30,843",detail,흑기사,ザカ大公、それに免じて<br>あなたの帝国への不義は不問としよう。,"자카 대공, 그에 비추어 <br> 당신의 제국에 대한 불의는 불문라고 하자."
-Japanese,"scene_cp8_q4_s30,843",detail,흑기사,……ルリア。<br>そしてその主[ジータ]よ、<br>再会を楽しみにしている。,"루리아.<br>그리고 그 주인[지타]여,<br>재회를 기대하고 있어."
+Japanese,"scene_cp8_q4_s30,843",detail,흑기사,……ルリア。<br>そしてその主[플레이어]よ、<br>再会を楽しみにしている。,"루리아.<br>그리고 그 주인[플레이어]여,<br>재회를 기대하고 있어."
 Japanese,"scene_cp8_q4_s30,843",detail,？？？,……たのしみ。,...기대.
 Japanese,"scene_cp8_q4_s30,843",detail,드랑크,それじゃあ！<br>今日はここまで～っと！<br>アディオ～ス♪,그럼!<br>오늘은 여기까지~!<br>아디오~스♪
 Japanese,"scene_cp8_q4_s30,843",detail,스츠룸,勝負は……次まで預ける。,승부는 ……다음까지 맡긴다.
@@ -133,7 +133,7 @@ Japanese,"scene_cp8_q4_s30,843",detail,루리아,大公様の気持ちは<br>巨
 Japanese,"scene_cp8_q4_s30,843",detail,이오,そうだよ、師匠！<br>それで十分だよ。,"맞아, 사부님! <br> 그거면 충분해."
 Japanese,"scene_cp8_q4_s30,843",detail,자카 대공,……そうか、そうなのか。<br>ふふっ。,"……그런가, 그런가.<br>후훗."
 Japanese,"scene_cp8_q4_s30,843",detail,루리아,イオちゃん、<br>お師匠様が戻って、良かったね。,이오야!<br>스승님이 돌아오셔서 다행이네~
-Japanese,"scene_cp8_q4_s30,843",detail,이오,ルリア、[ジータ]<br>本当にありがとう……うっううっ。,"루리아, [지타] <br> 정말 고마워…… 으윽"
+Japanese,"scene_cp8_q4_s30,843",detail,이오,ルリア、[플레이어]<br>本当にありがとう……うっううっ。,"루리아, [플레이어] <br> 정말 고마워…… 으윽"
 Japanese,"scene_cp8_q4_s30,843",detail,비이,やれやれ。<br>最後まで泣き虫だったなぁ。,맙소사.<br>끝까지 울보였네.
 Japanese,"scene_cp8_q4_s30,843",detail,이오,うぐ……う、うっさい！<br>ぐすっ……<br>でも……泣いてる場合じゃないよね。,"으구....으,웃어요!<br>꾹....<br>그래도……울 때가 아니지."
 Japanese,"scene_cp8_q4_s30,843",detail,이오,島をめちゃくちゃにしたり……<br>人を操って悪いことをさせたり……,섬을 엉망으로 만들거나....<br>사람을 조종해서 나쁜짓을 시키거나....
@@ -143,11 +143,11 @@ Japanese,"scene_cp8_q4_s30,843",detail,카타리나,彼らが目的のため、<
 Japanese,"scene_cp8_q4_s30,843",detail,이오,そっか……<br>……ねぇ、師匠、あたし……,"그렇구나……<br>……야, 스승님, 나……"
 Japanese,"scene_cp8_q4_s30,843",detail,자카 대공,わかっとる……<br>行ってこい、イオ。,"알아……<br>다녀와, 이오."
 Japanese,"scene_cp8_q4_s30,843",detail,자카 대공,行って、笑顔にしてやれ。<br>非道に涙した皆がまた笑えるように、<br>帝国なんぞ、ぶちのめしてこい！！,가서 웃으면서 해.<br>무도하게 눈물지은 모두가 다시 웃을 수 있도록 <br>제국따위 때려눕혀라!!
-Japanese,"scene_cp8_q4_s30,843",detail,이오,うんっ……！<br>決めた……<br>あたし、[ジータ]と一緒に行く！！,"응...!<br>결정했어...<br>나, [지타]랑 같이 갈래!!"
+Japanese,"scene_cp8_q4_s30,843",detail,이오,うんっ……！<br>決めた……<br>あたし、[플레이어]と一緒に行く！！,"응...!<br>결정했어...<br>나, [플레이어]랑 같이 갈래!!"
 Japanese,"scene_cp8_q4_s30,843",detail,이오,だってあたし師匠の弟子だもん！<br>やられっぱなしじゃいられないわ！！,그치만 난 스승의 제자인걸!<br>당하고만 있을순 없어!!
 Japanese,"scene_cp8_q4_s30,843",detail,비이,え……<br>嬢ちゃん、オイラ達に、<br>付いてくるってのか……？,"에....<br>아가씨, 오라들에게<br>따라온다는거야....?"
 Japanese,"scene_cp8_q4_s30,843",detail,이오,もちろん！<br>これからよろしくね、トカゲちゃん！,물론! 앞으로 잘 부탁해 도마뱀!
-Japanese,"scene_cp8_q4_s30,843",detail,비이,だからオイラはトカゲじゃねぇって！<br>[ジータ]も、<br>なんとか言ってくれよ！,"그러니까 오이라는 도마뱀이 아니라고!<br>[지타]도,<br>어떻게든 말해줘!"
+Japanese,"scene_cp8_q4_s30,843",detail,비이,だからオイラはトカゲじゃねぇって！<br>[플레이어]も、<br>なんとか言ってくれよ！,"그러니까 오이라는 도마뱀이 아니라고!<br>[플레이어]도,<br>어떻게든 말해줘!"
 Japanese,"scene_cp8_q4_s30,843",sel1_txt,,<span class='scene-font-katari'>よろしく、イオ</span>,"<span class='scene-font-katari'>잘 부탁해요, 이오</span>"
 Japanese,"scene_cp8_q4_s30,843",sel2_txt,,<span class='scene-font-katari'>仲良くしようよ</span>,<span class='scene-font-katari'>사이좋게지내자</span>
 Japanese,"scene_cp8_q4_s30,843",detail,이오,うんっ！<br>最強の魔法を見せたげるんだから！<br>期待しててよねっ！,응!<br>최강의 마법을 보여줄꺼니까!<br>기대해주세요!
@@ -166,8 +166,8 @@ Japanese,"scene_cp8_q4_s30,843",detail,루리아,ありがとうございます�
 Japanese,"scene_cp8_q4_s30,843",detail,자카 대공,うむ、礼には及ばんよ。<br>それは然るべき者が持つべきじゃからな<br>それと、伝えておくことじゃが……,"음, 사례에는 급판이에요.<br>그것은 마땅한 자가 가져야 할 것이니까<br>그리고 전해두어야 하는 것이지만……"
 Japanese,"scene_cp8_q4_s30,843",detail,자카 대공,<span class='scene-font-place'>エルステ帝国</span>の黒騎士と連れの少女。<br>彼らは、<span class='scene-font-place'>アウギュステ</span>で<br>何かしようとしているらしい。,<span class='scene-font-place>에르스테 제국</span>의 흑기사와 일행인 소녀.<br> 그들은 <span class='scene-font-place>아우귀스테</span>에서 <br>무언가를 하려는 모양이다.
 Japanese,"scene_cp8_q4_s30,843",detail,카타리나,<span class='scene-font-place'>アウギュステ列島</span>……<br>水満ちる青の島か。,<span class='scene-font-place>아우귀스테 열도</span>…….<br>물이 가득한 푸른 섬인가.
-Japanese,"scene_cp8_q4_s30,843",detail,,<span class='scene-font-katari'>水の島、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>。</span><br><span class='scene-font-katari'>[ジータ]達の旅は</span><br><span class='scene-font-katari'>次の島へと続く。</span>,"<span class='scene-font-katari'>물의 섬, </span><span class='scene-font-place> 아우귀스테.</span><span class='scene-font-katari'><br>[지타]들의 여행은 <br> 다음 섬으로 이어진다.</span>"
-English,"scene_cp8_q1_s10,811",synopsis,,"To Io, the magic power overflowing from the mechanical monsters is further proof of the archduke's involvement. [Djeeta] and company continue to encourage her as they search the factory for the archduke."
+Japanese,"scene_cp8_q4_s30,843",detail,,<span class='scene-font-katari'>水の島、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>。</span><br><span class='scene-font-katari'>[플레이어]達の旅は</span><br><span class='scene-font-katari'>次の島へと続く。</span>,"<span class='scene-font-katari'>물의 섬, </span><span class='scene-font-place> 아우귀스테.</span><span class='scene-font-katari'><br>[플레이어]들의 여행은 <br> 다음 섬으로 이어진다.</span>"
+English,"scene_cp8_q1_s10,811",synopsis,,"To Io, the magic power overflowing from the mechanical monsters is further proof of the archduke's involvement. [플레이어] and company continue to encourage her as they search the factory for the archduke."
 English,"scene_cp8_q1_s10,811",detail,,"The mechanical monsters lying in wait for the crew are enough to convince Io that her master, the archduke, is ahead."
 English,"scene_cp8_q1_s10,811",detail,,But she also realizes something else: the archduke must be waiting within the deepest part of the cavern.
 English,"scene_cp8_q1_s10,811",detail,Io,There's no mistaking the magical energy from these machines... My master made them. I'm sure of it!
@@ -175,11 +175,11 @@ English,"scene_cp8_q1_s10,811",detail,Vyrn,This archduke guy sure makes some wic
 English,"scene_cp8_q1_s10,811",detail,Io,"I want to believe in you, Master..."
 English,"scene_cp8_q1_s10,811",detail,Rackam,"Io... We won't know what's going on down here until we see it with our own two eyes. You love this master of yours, right?"
 English,"scene_cp8_q1_s10,811",detail,Io,Yeah...
-English,"scene_cp8_q1_s10,811",detail,Vyrn,"All right then! Let's get goin', [Djeeta]!"
-English,"scene_cp8_q1_s20,812",synopsis,,"[Djeeta] and company defeat monsters left and right, protecting Io as she searches desperately for her teacher."
+English,"scene_cp8_q1_s10,811",detail,Vyrn,"All right then! Let's get goin', [플레이어]!"
+English,"scene_cp8_q1_s20,812",synopsis,,"[플레이어] and company defeat monsters left and right, protecting Io as she searches desperately for her teacher."
 English,"scene_cp8_q1_s20,812",detail,Rackam,There's that sleezeball from earlier! No way we're losing to them!
 English,"scene_cp8_q1_s20,812",detail,Io,"Master! Where are you? You <span class='scene-font-italic'>are</span> here, aren't you?"
-English,"scene_cp8_q1_s20,812",detail,Vyrn,"[Djeeta], stick close to Io! Somethin' tells me a single mage isn't gonna be able to handle this alone!"
+English,"scene_cp8_q1_s20,812",detail,Vyrn,"[플레이어], stick close to Io! Somethin' tells me a single mage isn't gonna be able to handle this alone!"
 English,"scene_cp8_q1_s20,812",detail,Monster,Groaar!
 English,"scene_cp8_q1_s20,812",detail,Katalina,The moment of truth has arrived! Allow me to protect you!
 English,"scene_cp8_q2_s10,821",synopsis,,"As the crew progresses through the underground factory, Lyria senses a powerful presence. Io discovers some old Draph bones and realizes they're the remnants of the workers who populated the factory in ancient times."
@@ -198,19 +198,19 @@ English,"scene_cp8_q2_s10,821",detail,Io,I knew that! Obviously!
 English,"scene_cp8_q2_s10,821",detail,Vyrn,Did the Astrals force Draphs to work here?
 English,"scene_cp8_q2_s10,821",detail,Io,They probably attracted attention for their strength and dexterity...
 English,"scene_cp8_q2_s10,821",detail,Katalina,Let's meet this archduke of yours. He may just be able to explain what's going on here.
-English,"scene_cp8_q2_s20,822",synopsis,,Lyria senses a tremendous force from deep within the underground factory. [Djeeta] and company are shocked by its sheer size.
+English,"scene_cp8_q2_s20,822",synopsis,,Lyria senses a tremendous force from deep within the underground factory. [플레이어] and company are shocked by its sheer size.
 English,"scene_cp8_q2_s20,822",detail,Lyria,I'm sensing a surge of power from... something big...
 English,"scene_cp8_q2_s20,822",detail,Rackam,Tch... Looks like that bad feeling of mine was spot on.
 English,"scene_cp8_q2_s20,822",detail,Katalina,"Is it a primal beast, Lyria?"
 English,"scene_cp8_q2_s20,822",detail,Lyria,I don't know... What is this?
 English,"scene_cp8_q2_s20,822",detail,Lyria,I can't... hear its voice...
 English,"scene_cp8_q2_s20,822",detail,Io,What in the skies has my master been creating?
-English,"scene_cp8_q3_s10,831",synopsis,,"In the deepest part of the underground factory, with [Djeeta] and company at her side, Io is finally reunited with her master, the archduke. Io calls out to him in desperation but is met with a cold, determined response."
+English,"scene_cp8_q3_s10,831",synopsis,,"In the deepest part of the underground factory, with [플레이어] and company at her side, Io is finally reunited with her master, the archduke. Io calls out to him in desperation but is met with a cold, determined response."
 English,"scene_cp8_q3_s10,831",detail,Rackam,All right! That monstrosity we're after is dead ahead!
 English,"scene_cp8_q3_s10,831",detail,Katalina,"Rackam, don't forget! Our goal is to take the archduke into custody!"
 English,"scene_cp8_q3_s10,831",detail,Vyrn,"That dubious duo led us on a wild goose chase but now they're gone? Watch it, guys!"
 English,"scene_cp8_q3_s10,831",detail,Io,"I'm going to be able to see you again, right, Master? You're... in there, right?"
-English,"scene_cp8_q3_s10,831",detail,Lyria,"It'll all be okay, Io. I'm sure it'll all work out... [Djeeta] will see to it!"
+English,"scene_cp8_q3_s10,831",detail,Lyria,"It'll all be okay, Io. I'm sure it'll all work out... [플레이어] will see to it!"
 English,"scene_cp8_q3_s10,831",detail,???,...
 English,"scene_cp8_q3_s10,831",detail,Rackam,Is that... an iron giant?
 English,"scene_cp8_q3_s10,831",detail,Katalina,"L-Lyria, I need answers. Is this a primal beast?"
@@ -235,7 +235,7 @@ English,"scene_cp8_q3_s20,832",detail,Io,I was so sure he'd understand if I coul
 English,"scene_cp8_q3_s20,832",detail,Lyria,"I can finally hear it, Io."
 English,"scene_cp8_q3_s20,832",detail,Io,Huh?
 English,"scene_cp8_q3_s20,832",detail,Lyria,The giant... is crying. It slept for such a long time... and now it's been awakened for the sake of something horrible.
-English,"scene_cp8_q3_s20,832",detail,Lyria,"The archduke is crying too, deep down. So let's save him... together! Me and [Djeeta] are with you!"
+English,"scene_cp8_q3_s20,832",detail,Lyria,"The archduke is crying too, deep down. So let's save him... together! Me and [플레이어] are with you!"
 English,"scene_cp8_q3_s20,832",detail,,"Within a deep, dark ravine, Io once again confronts the archduke."
 English,"scene_cp8_q3_s20,832",detail,Tzaka the Great,"So, Io. Even <span class='scene-font-italic'>you</span> have decided to steal this away from me, have you?"
 English,"scene_cp8_q3_s20,832",detail,Io,Master... It's time to wake up.
@@ -245,7 +245,7 @@ English,"scene_cp8_q3_s20,832",detail,Tzaka the Great,This is all I've ever want
 English,"scene_cp8_q3_s20,832",detail,Io,It's not a dream. It's a nightmare... and I'm going to shatter it!
 English,"scene_cp8_q3_s20,832",detail,Io,Master! Today I'm going to surpass you! I'm going to free you from your nightmare!
 English,"scene_cp8_q3_s20,832",detail,Io,And when I do... I'll release you from the tragedies of the past!
-English,"scene_cp8_q4_s10,841",synopsis,,"Cornered, the archduke activates the primal beast Colossus. To return him to his senses, [Djeeta] and company face the iron giant together."
+English,"scene_cp8_q4_s10,841",synopsis,,"Cornered, the archduke activates the primal beast Colossus. To return him to his senses, [플레이어] and company face the iron giant together."
 English,"scene_cp8_q4_s10,841",detail,Tzaka the Great,My dream has been trampled? It's not... going to come true?
 English,"scene_cp8_q4_s10,841",detail,Io,"It's time to give up, Master. It was all just a bad dream."
 English,"scene_cp8_q4_s10,841",detail,Tzaka the Great,You mean to tell me that my dream... the deepest desire of my ancient kinsmen... that sublime merging of art and ultimate technology... has been <span class='scene-font-italic'>shattered</span>?
@@ -263,7 +263,7 @@ English,"scene_cp8_q4_s10,841",detail,Io,"Oh, Master..."
 English,"scene_cp8_q4_s10,841",detail,Katalina,Io... There's nothing else we can do.
 English,"scene_cp8_q4_s10,841",detail,Katalina,We have to defeat that iron giant... and force the archduke to open his eyes.
 English,"scene_cp8_q4_s10,841",detail,Tzaka the Great,I won't let you or the empire lay so much as a finger on my Colossus!
-English,"scene_cp8_q4_s10,841",detail,Vyrn,"It's gonna be okay, Io! [Djeeta]'s here... we're all here! There's no way we can lose!"
+English,"scene_cp8_q4_s10,841",detail,Vyrn,"It's gonna be okay, Io! [플레이어]'s here... we're all here! There's no way we can lose!"
 English,"scene_cp8_q4_s20,842",synopsis,,"Io vows to restore the archduke to his old, smiling self by defeating Colossus even if it's his dearest work."
 English,"scene_cp8_q4_s20,842",detail,Vyrn,One more push! Just take out the giant's body and we're done!
 English,"scene_cp8_q4_s20,842",detail,Io,Master... You taught me that magic exists to make people happy.
@@ -277,7 +277,7 @@ English,"scene_cp8_q4_s20,842",detail,Lyria,"(You can do it, Io!)"
 English,"scene_cp8_q4_s20,842",detail,Drang,"What do you think? They're doing good work out there, don't you think?"
 English,"scene_cp8_q4_s20,842",detail,Black Knight,Not bad... Lyria seems to be considerably shaken as well.
 English,"scene_cp8_q4_s20,842",detail,Black Knight,But she's still not ready. Her destination remains distant. We won't be able to bring her back for some time...
-English,"scene_cp8_q4_s30,843",synopsis,,"The archduke regains his senses and kindly sends Io off on a new journey. Based on what the archduke has to say, [Djeeta] and company decide to make the Auguste Isles their next destination."
+English,"scene_cp8_q4_s30,843",synopsis,,"The archduke regains his senses and kindly sends Io off on a new journey. Based on what the archduke has to say, [플레이어] and company decide to make the Auguste Isles their next destination."
 English,"scene_cp8_q4_s30,843",detail,Katalina,Did we get it?
 English,"scene_cp8_q4_s30,843",detail,Tzaka the Great,Aaghh... My dream... my giant... It's crumbling before my eyes...
 English,"scene_cp8_q4_s30,843",detail,Io,Master?
@@ -287,7 +287,7 @@ English,"scene_cp8_q4_s30,843",detail,Io,Huff... huff... huff...
 English,"scene_cp8_q4_s30,843",detail,,"The shattered giant responds to Io's voice, protecting Tzaka before finally dying."
 English,"scene_cp8_q4_s30,843",detail,Black Knight,I suspected as much. Still... that was certainly interesting.
 English,"scene_cp8_q4_s30,843",detail,Black Knight,"In light of the situation, I will overlook your infidelities to the empire, Archduke Tzaka."
-English,"scene_cp8_q4_s30,843",detail,Black Knight,Lyria... [Djeeta]... I look forward to our next encounter.
+English,"scene_cp8_q4_s30,843",detail,Black Knight,Lyria... [플레이어]... I look forward to our next encounter.
 English,"scene_cp8_q4_s30,843",detail,???,Look forward...
 English,"scene_cp8_q4_s30,843",detail,Drang,See you later! Time to clock out for the day! Adios!
 English,"scene_cp8_q4_s30,843",detail,Sturm,We'll settle this... next time.
@@ -301,7 +301,7 @@ English,"scene_cp8_q4_s30,843",detail,Lyria,"Your feelings got through to the gi
 English,"scene_cp8_q4_s30,843",detail,Io,"That's right, Master! You've done enough."
 English,"scene_cp8_q4_s30,843",detail,Tzaka the Great,Is that so? Heheh...
 English,"scene_cp8_q4_s30,843",detail,Lyria,"I'm so happy your teacher is back, Io."
-English,"scene_cp8_q4_s30,843",detail,Io,"Lyria, [Djeeta]... Thank you so much... Sniff..."
+English,"scene_cp8_q4_s30,843",detail,Io,"Lyria, [플레이어]... Thank you so much... Sniff..."
 English,"scene_cp8_q4_s30,843",detail,Vyrn,"You may have beaten that Colossus, but you're still a crybaby..."
 English,"scene_cp8_q4_s30,843",detail,Io,Sniff... Quiet! But you're right. This is no time for tears.
 English,"scene_cp8_q4_s30,843",detail,Io,The empire messed up the island and manipulated my master into doing all sorts of horrible things.
@@ -311,11 +311,11 @@ English,"scene_cp8_q4_s30,843",detail,Katalina,They'll do whatever it takes to a
 English,"scene_cp8_q4_s30,843",detail,Io,"I see. Master, I... I think I want to—"
 English,"scene_cp8_q4_s30,843",detail,Tzaka the Great,"I know. Follow your heart, Io."
 English,"scene_cp8_q4_s30,843",detail,Tzaka the Great,The empire's brought a lot of misery to a lot of people... It's time to beat the empire to a pulp and give those victims something to smile about!
-English,"scene_cp8_q4_s30,843",detail,Io,"Right! I've decided, [Djeeta]... I'm coming with you!"
+English,"scene_cp8_q4_s30,843",detail,Io,"Right! I've decided, [플레이어]... I'm coming with you!"
 English,"scene_cp8_q4_s30,843",detail,Io,I'm a disciple of Tzaka the Great! I refuse to sit around when there's work to be done!
 English,"scene_cp8_q4_s30,843",detail,Vyrn,Huh? You're comin' with us?
 English,"scene_cp8_q4_s30,843",detail,Io,"I am! So how about a cease-fire, lizard?"
-English,"scene_cp8_q4_s30,843",detail,Vyrn,"For the last time, I'm <span class='scene-font-italic'>not</span> a lizard! Say somethin', [Djeeta]!"
+English,"scene_cp8_q4_s30,843",detail,Vyrn,"For the last time, I'm <span class='scene-font-italic'>not</span> a lizard! Say somethin', [플레이어]!"
 English,"scene_cp8_q4_s30,843",sel1_txt,,"Welcome aboard, Io."
 English,"scene_cp8_q4_s30,843",sel2_txt,,Let's be friends!
 English,"scene_cp8_q4_s30,843",detail,Io,Thanks! I'm gonna show you the best magic you've ever seen!
@@ -334,4 +334,4 @@ English,"scene_cp8_q4_s30,843",detail,Lyria,"Thank you, sir..."
 English,"scene_cp8_q4_s30,843",detail,Tzaka the Great,Don't mention it. It's better off in your hands. As for the message...
 English,"scene_cp8_q4_s30,843",detail,Tzaka the Great,Apparently the Black Knight and that girl are trying to do something on Auguste.
 English,"scene_cp8_q4_s30,843",detail,Katalina,"The Auguste Isles... That blue, aquatic island chain, eh?"
-English,"scene_cp8_q4_s30,843",detail,,"[Djeeta]'s journey now leads the crew to Auguste, the island of water, where new encounters await."
+English,"scene_cp8_q4_s30,843",detail,,"[플레이어]'s journey now leads the crew to Auguste, the island of water, where new encounters await."

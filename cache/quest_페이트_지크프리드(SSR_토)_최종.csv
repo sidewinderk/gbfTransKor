@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_ult_chr110_ep1_q1_s10,synopsis,,ある時、王都から離れた辺境の村がジークフリートに滅ぼされた、という知らせが白竜騎士団の元へ届く。さらに、[ジータ]一行と行動を共にしていたはずのジークフリートは「しばらく艇を離れる」という手紙を残し、姿を消していた。ことのあらましを調査すべく、一行はランスロットとヴェインに連れられ、その件の村へと調査に向かう。
+Japanese,scene_ult_chr110_ep1_q1_s10,synopsis,,ある時、王都から離れた辺境の村がジークフリートに滅ぼされた、という知らせが白竜騎士団の元へ届く。さらに、[플레이어]一行と行動を共にしていたはずのジークフリートは「しばらく艇を離れる」という手紙を残し、姿を消していた。ことのあらましを調査すべく、一行はランスロットとヴェインに連れられ、その件の村へと調査に向かう。
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,,<span class='scene-font-katari'>紅蓮の炎に包まれ</span><br><span class='scene-font-katari'>激しく燃え盛る村。</span>
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ジークフリート,…………
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,村の男,ぐえっ……
@@ -34,16 +34,16 @@ Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,……この件�
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,今日の所は、<br>一旦お引き取り願えますか？
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,怯える村人,ジークフリートは……<br>アイツは化物だ。<br>化物に人の道理は通じない。
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,,<span class='scene-font-katari'>ジークフリートへの不信感を</span><br><span class='scene-font-katari'>うわ言の様に呟く村人。</span>
-Japanese,scene_ult_chr110_ep1_q1_s10,detail,,<span class='scene-font-katari'>部屋を去る村人と入れ違いに</span><br><span class='scene-font-katari'>今度は[ジータ]一行が、</span><br><span class='scene-font-katari'>二人の元を訪れた。</span>
+Japanese,scene_ult_chr110_ep1_q1_s10,detail,,<span class='scene-font-katari'>部屋を去る村人と入れ違いに</span><br><span class='scene-font-katari'>今度は[플레이어]一行が、</span><br><span class='scene-font-katari'>二人の元を訪れた。</span>
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ビィ,おいおい二人とも！<br>ちょっとこれを見てくれ！
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,,<span class='scene-font-katari'>ビィが差し出したのは、</span><br><span class='scene-font-katari'>ジークフリート直筆の手紙である。</span>
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,,<span class='scene-font-katari'>その手紙には、</span><br><span class='scene-font-katari'>しばらく艇を離れるとだけ</span><br><span class='scene-font-katari'>簡潔に記されていた。</span>
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ルリア,ジークフリートさんが<br>いなくなっちゃったんです！
-Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,そ、そうか……<br>[ジータ]達の所には、<br>いなかったか……
+Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,そ、そうか……<br>[플레이어]達の所には、<br>いなかったか……
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,はぁ……<br>サクッと解決って訳にはいかねぇか。
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ルリア,……ええっと？<br>何の話でしょうか？
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,いやいや……<br>ちょうどいい所に来てくれたって話よ！
-Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,ってことで、[ジータ]達にも<br>ジークフリートさん探しを<br>手伝ってもらおうぜ？
+Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,ってことで、[플레이어]達にも<br>ジークフリートさん探しを<br>手伝ってもらおうぜ？
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,あ、ああ……<br>そうだな。
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ビィ,ん……？<br>ジークフリートは<br>ここにはいねぇのか？
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,ということだビィくん！<br>ひとまず力を合わせて<br>ジークフリートさんを探そうぜ！
@@ -59,11 +59,11 @@ Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,まぁまぁ、ジー�
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,ふっ……そうだな。<br>またよからぬ誤解でも<br>受けているに違いない……
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ビィ,で、オイラ達は<br>どこに向かってるんだ？
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ランスロット,ひとまず……<br>事件のあった村から<br>調べてみようと思う。
-Japanese,scene_ult_chr110_ep1_q1_s10,detail,ルリア,わかりました！<br>私達も一生懸命調べましょう！<br>ねっ、[ジータ]！
+Japanese,scene_ult_chr110_ep1_q1_s10,detail,ルリア,わかりました！<br>私達も一生懸命調べましょう！<br>ねっ、[플레이어]！
 Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,おう！<br>頼りにしてるぜ！
-Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,この先は魔物が多いから<br>気を付けろよ！<br>[ジータ]！
+Japanese,scene_ult_chr110_ep1_q1_s10,detail,ヴェイン,この先は魔物が多いから<br>気を付けろよ！<br>[플레이어]！
 Japanese,scene_ult_chr110_ep1_q2_s10,synopsis,,事件の手がかりを求め辺境の村を訪れた一行。村の状況は凄惨を極め、人の手によるものとは思えない程の有様だった。手がかりを探すうちに、ランスロットはジークフリートのものらしき布切れを見つける。思いもよらないその証拠に戸惑い、ランスロットは布切れを咄嗟に懐にしまいこんでしまう。そこへアンデッド達が強襲し、一行は包囲を突破するため戦いに臨む。
-Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>事件の手掛かりを求めて</span><br><span class='scene-font-katari'>辺境の村を訪れる</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>事件の手掛かりを求めて</span><br><span class='scene-font-katari'>辺境の村を訪れる</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>一行は、その凄惨を極める</span><br><span class='scene-font-katari'>有様に言葉を失う。</span>
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,ひでぇ……
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ルリア,う……うぅ……<br>こんなことって……
@@ -71,10 +71,10 @@ Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,ごめん……<br>ル�
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,ああ……こんな場所に……<br>軽率に連れてきてしまって<br>すまなかった。
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ビィ,いや……<br>そうは言ってもしょうがねーさ。<br>気にすんなって。
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ルリア,でも……<br>こんなのを見せられたら、<br>余計に放って置けません。
-Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>ルリアの言葉に同意して、</span><br><span class='scene-font-katari'>深く頷く[ジータ]。</span>
-Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,そっか……<br>[ジータ]達は、<br>強いんだな。
+Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>ルリアの言葉に同意して、</span><br><span class='scene-font-katari'>深く頷く[플레이어]。</span>
+Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,そっか……<br>[플레이어]達は、<br>強いんだな。
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,なんか逆に気ぃ遣わせちまった<br>みたいで、悪かった。
-Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>[ジータ]達に向かって</span><br><span class='scene-font-katari'>申し訳なさそうに</span><br><span class='scene-font-katari'>頭を下げるヴェイン。</span>
+Japanese,scene_ult_chr110_ep1_q2_s10,detail,,<span class='scene-font-katari'>[플레이어]達に向かって</span><br><span class='scene-font-katari'>申し訳なさそうに</span><br><span class='scene-font-katari'>頭を下げるヴェイン。</span>
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,だが……<br>とても人の仕業とは思えない……
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,ああ。<br>一体誰がこんなひでぇことを……
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,ん……？
@@ -95,7 +95,7 @@ Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,それより……コ�
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ルリア,は、はい……この場所に<br>集まってるみたいです！
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ビィ,おいおい……<br>このままだと囲まれるぞ！
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,心配ない。<br>この程度の数なら……<br>俺一人でも押し切れる。
-Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,ヴェインと[ジータ]達は、<br>俺が先陣を切った後に続いてくれ！
+Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,ヴェインと[플레이어]達は、<br>俺が先陣を切った後に続いてくれ！
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ヴェイン,おう！ わかったぜ！
 Japanese,scene_ult_chr110_ep1_q2_s10,detail,ランスロット,では……行くぞっ！
 Japanese,scene_ult_chr110_ep1_q3_s10,synopsis,,一行が空を見上げると、黒煙が立ち上っていた。煙の正体を確かめに向かうと、炎にまかれた村でジークフリートが次々と村人を手にかけていた。信じられない光景を目の当たりにした一行に問答無用で斬りかかってくるジークフリート。戸惑いを拭えないままランスロットが先陣を切り、動きを封じようと試みる。
@@ -113,7 +113,7 @@ Japanese,scene_ult_chr110_ep1_q3_s10,detail,,<span class='scene-font-katari'>改
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ビィ,なぁ……ランスロット。<br>あの煙はなんだ？
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ランスロット,ん……煙？<br>確かに黒煙が上がっている……
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ヴェイン,それに見ろよ……<br>なーんか空も妙に明るいぜ？
-Japanese,scene_ult_chr110_ep1_q3_s10,detail,,<span class='scene-font-katari'>煙を不審がるランスロット達は、</span><br><span class='scene-font-katari'>その正体を確かめたいと</span><br><span class='scene-font-katari'>[ジータ]一行に申し出る。</span>
+Japanese,scene_ult_chr110_ep1_q3_s10,detail,,<span class='scene-font-katari'>煙を不審がるランスロット達は、</span><br><span class='scene-font-katari'>その正体を確かめたいと</span><br><span class='scene-font-katari'>[플레이어]一行に申し出る。</span>
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,,<span class='scene-font-katari'>その申し出に同意した一行は、</span><br><span class='scene-font-katari'>ランスロット達と共に煙の</span><br><span class='scene-font-katari'>元へ向かうのだった。</span>
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,,<span class='scene-font-katari'>煙の元へたどり着くと、</span><br><span class='scene-font-katari'>そこには紅蓮の炎に包まれる</span><br><span class='scene-font-katari'>村らしき場所があった。</span.
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,,<span class='scene-font-katari'>その炎のただ中で、村人達を<br><span class='scene-font-katari'>次々と手にかける剣士。</span>
@@ -141,7 +141,7 @@ Japanese,scene_ult_chr110_ep1_q3_s10,detail,ヴェイン,躊躇したら……<b
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ランスロット,ああ……わかってる！
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ビィ,おいおい……<br>いったい何がどうなってやがんだ！
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ルリア,わかりません……<br>でも、ジークフリートさんの<br>殺気は……本物です。
-Japanese,scene_ult_chr110_ep1_q3_s10,detail,ランスロット,[ジータ]！<br>見ての通り……<br>相手はこちらを殺す気だ。
+Japanese,scene_ult_chr110_ep1_q3_s10,detail,ランスロット,[플레이어]！<br>見ての通り……<br>相手はこちらを殺す気だ。
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ヴェイン,全力でかからないと、<br>勝ち目は無いぜ！
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ランスロット,皆で連携を取って、<br>動きを封じるぞ！
 Japanese,scene_ult_chr110_ep1_q3_s10,detail,ランスロット,<span class='scene-font-kokoro'>（どうしたんだ……</span><br><span class='scene-font-kokoro'>ジークフリートさん……）</span>

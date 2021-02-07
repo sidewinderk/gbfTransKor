@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt201208_cp4_q1_s10,synopsis,,翌日、トルー村にライルを送り届けた炭治郎、禰豆子、義勇、善逸、[グラン]達は、ライル達の面倒を見ているバルドと出会う。バルドはライルを見て動揺した様子で、一行が祠について尋ねると激しく拒絶し逃げ出してしまう。どうしたものかと一行が悩む中、義勇はバルドを追って飛び出していくのだった。,"다음날, 토르 마을에 라일를 데려다 준 탄지로, 네즈코, 기유, 젠이츠 및 [그랑] 일행은 라일 남매를 돌봐주었다는 바르드와 만난다. 바르드는 라일을 보고 동요한 모습으로, 일행이 사당에 대해 묻자 격렬하게 거절하고 도망가 버린다. 어떻게 할 지 일행이 고민하는 가운데 기유는 바르드를 뒤쫓아 뛰어나가는 것이었다."
+Japanese,scene_evt201208_cp4_q1_s10,synopsis,,翌日、トルー村にライルを送り届けた炭治郎、禰豆子、義勇、善逸、[플레이어]達は、ライル達の面倒を見ているバルドと出会う。バルドはライルを見て動揺した様子で、一行が祠について尋ねると激しく拒絶し逃げ出してしまう。どうしたものかと一行が悩む中、義勇はバルドを追って飛び出していくのだった。,"다음날, 토르 마을에 라일를 데려다 준 탄지로, 네즈코, 기유, 젠이츠 및 [플레이어] 일행은 라일 남매를 돌봐주었다는 바르드와 만난다. 바르드는 라일을 보고 동요한 모습으로, 일행이 사당에 대해 묻자 격렬하게 거절하고 도망가 버린다. 어떻게 할 지 일행이 고민하는 가운데 기유는 바르드를 뒤쫓아 뛰어나가는 것이었다."
 Japanese,scene_evt201208_cp4_q1_s10,detail,,<span class='scene-font-katari'>──夜が明けた翌日。</span>,"<span class='scene-font-katari'>밤이 지나고, 다음날이 왔다.</span>"
 Japanese,scene_evt201208_cp4_q1_s10,detail,비이,ここがトルー村か。,여기가 트루 마을인가?
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,…………,…………
@@ -129,7 +129,7 @@ Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,お前は、結�
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,その通りだ。<br>幽世と空の世界を繋ぐには生贄が<br>必要らしいからちょうど良かった。,"그래, 그렇다. 유세와 하늘의 세계를 잇기 위해서는 산 제물이 필요하다고 했으니 마침 잘 된 일이었지."
 Japanese,scene_evt201208_cp4_q2_s10,detail,아가츠마 젠이츠,なんてことを……,대체 무슨 짓을...
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,俺にはこの世界の事情は<br>よくわからないが……,나는 이 세계에 대해서 잘 모른다만... 
-Japanese,scene_evt201208_cp4_q2_s10,detail,,<span class='scene-font-katari'>呆然と言葉を失う一行の中、</span><br><span class='scene-font-katari'>義勇がルリアと[グラン]に</span><br><span class='scene-font-katari'>向かって口を開く。</span>,"<span class='scene-font-katari'>일행이 아무 말도 하지 못하고 있는 사이, 기유는 루리아와 단장을 향해 입을 열었다.</span>"
+Japanese,scene_evt201208_cp4_q2_s10,detail,,<span class='scene-font-katari'>呆然と言葉を失う一行の中、</span><br><span class='scene-font-katari'>義勇がルリアと[플레이어]に</span><br><span class='scene-font-katari'>向かって口を開く。</span>,"<span class='scene-font-katari'>일행이 아무 말도 하지 못하고 있는 사이, 기유는 루리아와 단장을 향해 입을 열었다.</span>"
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,魔物に襲われて死ぬ人は<br>多いのか？,마물에게 습격당해 죽는 사람이 많은가?
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,そうですね……色んな人が<br>色んな対策をしてて、私達騎空士が<br>退治の依頼を受けたりもしますが……,"그렇죠... 많은 사람이 이런저런 대책을 세우고, 저희같은 기공사들이 퇴치 의뢰를 받기도 하지만..."
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,でも、どうしても、<br>悲しい事故はなくなりません。,그래도 어찌할 수 없는 슬픈 사고가 끊이지 않아요.
@@ -263,7 +263,7 @@ Japanese,scene_evt201208_cp4_q3_s10,detail,나타쿠,メドゥーサ、言われ
 Japanese,scene_evt201208_cp4_q3_s10,detail,나타쿠,俺はただ、手合わせしてみたい、<br>と言おうとしただけで……,나는 그저 겨뤄 보고 싶다고 말하려던 것 뿐...
 Japanese,scene_evt201208_cp4_q3_s10,detail,메두사,あーはいはい……,아~ 네~
 Japanese,scene_evt201208_cp4_q3_s10,detail,메두사,<span class='scene-font-4'>ほら見なさい！</span><br>バカなこと言ってるから<br>また増えたじゃないの！,<span class='scene-font-4'>저거 봐!</span> 바보같은 소리나 하니까 또 늘어났잖아!
-Japanese,scene_evt201208_cp4_q4_s20,synopsis,,化け物との戦いの最中、炭治郎達と[グラン]達が合流する。するとそこに幽世の門の門番と思われる星晶獣が突如休眠状態から目覚め、姿を現した。しかし意識が混濁しているらしく、ルリアの呼び掛けにも応えない。星晶獣は異形の化け物達を一掃すると、一行にも襲いかかるのだった。,"괴물과의 싸움의 와중에 탄지로 일행과 [그랑] 일행이 합류한다. 그러자 거기에 유세의 문의 문지기인 것으로 보이는 성정수가 갑자기 수면 상태에서 깨어나 모습을 드러낸다. 그러나 의식이 혼탁한 것 같아, 루리아의 호소에도 반응하지 않는다. 성정수는 이형의 괴물들을 정리하며, 일행에게도 습격해 오는 것이었다."
+Japanese,scene_evt201208_cp4_q4_s20,synopsis,,化け物との戦いの最中、炭治郎達と[플레이어]達が合流する。するとそこに幽世の門の門番と思われる星晶獣が突如休眠状態から目覚め、姿を現した。しかし意識が混濁しているらしく、ルリアの呼び掛けにも応えない。星晶獣は異形の化け物達を一掃すると、一行にも襲いかかるのだった。,"괴물과의 싸움의 와중에 탄지로 일행과 [플레이어] 일행이 합류한다. 그러자 거기에 유세의 문의 문지기인 것으로 보이는 성정수가 갑자기 수면 상태에서 깨어나 모습을 드러낸다. 그러나 의식이 혼탁한 것 같아, 루리아의 호소에도 반응하지 않는다. 성정수는 이형의 괴물들을 정리하며, 일행에게도 습격해 오는 것이었다."
 Japanese,scene_evt201208_cp4_q4_s20,detail,이형의 괴물,────！,────！
 Japanese,scene_evt201208_cp4_q4_s20,detail,하시비라 이노스케,<span class='scene-font-4'>獣の呼吸、参ノ牙！</span>,"<span class='scene-font-4'>짐승의 호흡, 삼의 형!</span>"
 Japanese,scene_evt201208_cp4_q4_s20,detail,하시비라 이노스케,<span class='scene-font-4'>喰い裂き！！</span>,<span class='scene-font-4'>뜯어발기기!</span>

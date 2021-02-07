@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp25_q1_s10,2511",synopsis,,傷だらけのグランサイファーでガロンゾへと向かう<span>[ジータ]</span>一行。そんな折、エルステ帝国の宰相を乗せた戦艦がガロンゾの港へと迫っていた。,상처투성이 그랑사이퍼로 갈론조로 향하는 <span> [지타]</span> 한 줄.그러던 차에 에르스테 제국 재상을 태운 전함이 갈론조의 항구로 다가오고 있었다.
+Japanese,"scene_cp25_q1_s10,2511",synopsis,,傷だらけのグランサイファーでガロンゾへと向かう<span>[플레이어]</span>一行。そんな折、エルステ帝国の宰相を乗せた戦艦がガロンゾの港へと迫っていた。,상처투성이 그랑사이퍼로 갈론조로 향하는 <span> [플레이어]</span> 한 줄.그러던 차에 에르스테 제국 재상을 태운 전함이 갈론조의 항구로 다가오고 있었다.
 Japanese,"scene_cp25_q1_s10,2511",detail,,<span class='scene-font-katari'>荒くれ者達の集う島、</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>。</span><br><span class='scene-font-katari'>その島は騎空艇の整備を生業とする者が</span><br><span class='scene-font-katari'>住人の大半を占める。</span>,<span class = 'scene-font-katari'> 거친자들이 모이는 섬 </ span> <span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari' >. </ span> <br> <span class = 'scene-font-katari'> 그 섬은 기공정을 정비하는 일을 하는 사람들 </ span> <br> <span class = 'scene-font-katari '> 주민의 대부분을 차지한다. </ span>
 Japanese,"scene_cp25_q1_s10,2511",detail,,<span class='scene-font-katari'>そんな島の港を前にした</span><br><span class='scene-font-katari'>エルステ帝国の戦艦の中で、</span><br><span class='scene-font-katari'>彼女は賑わう街並みを見つめていた。</span>,<span class='scene-font-katari'> 그런 섬의 항구를 앞에 둔 </span><br><span class='scene-font-katari>에르스테 제국의 전함 안에서 </span><br><span class='scene-font-katari'>를 응시하고 있었다.
 Japanese,"scene_cp25_q1_s10,2511",detail,？？？,あれが……<span class='scene-font-place'>ガロンゾ</span>ですか。,저게 ...... <span class = 'scene-font-place'> 가론조 </ span>입니까?
@@ -11,7 +11,7 @@ Japanese,"scene_cp25_q1_s10,2511",detail,？？？,ルリアの奪還も含め�
 Japanese,"scene_cp25_q1_s10,2511",detail,？？？,各自、<br>くれぐれも慢心することのなきよう、<br>注意して臨んでください。,각자 <br> 부디 자만하는 일이 없도록 <br> 주의해서 임해 주십시오.
 Japanese,"scene_cp25_q1_s10,2511",detail,폼메른,は、はぁ……,"하, 하……"
 Japanese,"scene_cp25_q1_s10,2511",detail,,<span class='scene-font-katari'>戦艦はゆっくりと港へ進み、</span><br><span class='scene-font-katari'>帝国の将達は続々と</span><br><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと降り立つのだった。</span>,<span class = 'scene-font-katari'> 전함은 천천히 항구로 이동 </ span> <br> <span class = 'scene-font-katari'> 제국의 장수들은 속속 </ span> <br> <span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari'>로 내려서는 것이었다. </ span>
-Japanese,"scene_cp25_q1_s20,2512",synopsis,,墜落寸前のグランサイファーでガロンゾを目指す<span>[ジータ]</span>一行。ガロンゾを目前にするも、魔物達が襲い掛かってくる。,추락 직전의 그랑사이퍼에서 갈론조를 목표로 하는<span>[지타]</span>일행.갈론조를 눈앞에 두자 마물들이 덮친다.
+Japanese,"scene_cp25_q1_s20,2512",synopsis,,墜落寸前のグランサイファーでガロンゾを目指す<span>[플레이어]</span>一行。ガロンゾを目前にするも、魔物達が襲い掛かってくる。,추락 직전의 그랑사이퍼에서 갈론조를 목표로 하는<span>[플레이어]</span>일행.갈론조를 눈앞에 두자 마물들이 덮친다.
 Japanese,"scene_cp25_q1_s20,2512",detail,라캄,くそっ！<br>いよいよマズイぜ、これは……,"젠장!<br>드디어 곤란하네, 이건……"
 Japanese,"scene_cp25_q1_s20,2512",detail,오이겐,ふむ……高度が落ちてやがるな。<br>ずいぶん無茶やったんだ、<br>よくまぁ、ここまでもったもんだ！,흠…고도가 떨어져서 난리야.꽤무척이나했다<br>잘했구먼! 여기까지갖았구먼!
 Japanese,"scene_cp25_q1_s20,2512",detail,이오,ちょっと！ 笑い事じゃないでしょ！？<br>もう目と鼻の先とはいえ、<br>まだ港には入ってないんだからね！,"야! 웃을 일이 아니지!?<br> 이미 엎어지면 코 닿을데, <br> 아직 항구에 들어오지 않았으니까!"
@@ -21,7 +21,7 @@ Japanese,"scene_cp25_q1_s20,2512",detail,로제타,ふふ……<br>港を目の�
 Japanese,"scene_cp25_q1_s20,2512",detail,루리아,だ、だめですよ！ 墜落しちゃ！<br>頑張りましょう、グランサイファー……<br>もう少しですから！,"다, 안 돼요! 추락해버려!<br>힘냅시다. 그랜사이퍼……<br>조금만더 기다려주세요!"
 Japanese,"scene_cp25_q1_s20,2512",detail,비이,ぐぬぬ……<br>やっと<span class='scene-font-place'>ガロンゾ</span>に着きそうだってのに、<br>間の悪い奴らだぜ……,"너구리……<br>겨우<spanclass='scene-font-place>가론조</span>에 도착할 것 같은데,<br>간이 나쁜 놈들이야……"
 Japanese,"scene_cp25_q1_s20,2512",detail,비이,魔物なんて蹴散らして、<br>さっさとグランサイファーを<br>修理してやろうぜ！,"마물따위를 차서,<br>얼른 그랜사이퍼를<br>수리해버리자구!"
-Japanese,"scene_cp25_q2_s10,2521",synopsis,,ガロンゾへと降り立ち胸をなで下ろす<span>[ジータ]</span>一行。街を散策する一行に、かつてこの島を訪れたことのあるラカムとオイゲンの知り合いが声をかけてくる。,갈론조로 내려와 가슴을 쓸어내리는 <span> [지타] </span> 한 줄.거리를 산책할 일행에게 일찍이 이 섬을 방문한 라캄과 오이겐의 지인이 묻는다.
+Japanese,"scene_cp25_q2_s10,2521",synopsis,,ガロンゾへと降り立ち胸をなで下ろす<span>[플레이어]</span>一行。街を散策する一行に、かつてこの島を訪れたことのあるラカムとオイゲンの知り合いが声をかけてくる。,갈론조로 내려와 가슴을 쓸어내리는 <span> [플레이어] </span> 한 줄.거리를 산책할 일행에게 일찍이 이 섬을 방문한 라캄과 오이겐의 지인이 묻는다.
 Japanese,"scene_cp25_q2_s10,2521",detail,,<span class='scene-font-katari'>煙を上げながらも</span><br><span class='scene-font-katari'>グランサイファーは無事入渠し、</span><br><span class='scene-font-katari'>一行は</span><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>へと降り立った。</span>,<span class = 'scene-font-katari'> 연기를 내면서도 </ span> <br> <span class = 'scene-font-katari'> 그란 사이퍼는 무사히 입거하고 </ span> <br> <span class = 'scene-font-katari'> 일행은 </ span> <span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari'>로 내려 섰다. </ span>
 Japanese,"scene_cp25_q2_s10,2521",detail,라캄,ふぃー……<br><span class='scene-font-place'>アルビオン</span>からこっち、<br>いつ落ちるかとヒヤヒヤしたぜ……,"후이……<br><spanclass='scene-font-place'>알비온</span>에서 이쪽,<br>언제 떨어질까 하고 조마조마해……"
 Japanese,"scene_cp25_q2_s10,2521",detail,루리아,グランサイファーには、<br>いっぱい無理させちゃいましたね……,그랜사이퍼에는 <br>많이 무리시켜버렸네요.......
@@ -42,13 +42,13 @@ Japanese,"scene_cp25_q2_s10,2521",detail,이오,なによ！<br>その言い方�
 Japanese,"scene_cp25_q2_s10,2521",detail,라캄,へぇ？ 違うのか？,뭐? 아니야?
 Japanese,"scene_cp25_q2_s10,2521",detail,이오,むぅーっ！！,음~!!
 Japanese,"scene_cp25_q2_s10,2521",detail,酒場の店主,まぁまぁ！<br>積もる話はウチの店でどうだい？<br>サービスするぜ！,그럭저럭! 쌓이는 이야기는 우리 가게에서 어때?서비스할께!
-Japanese,"scene_cp25_q2_s10,2521",detail,오이겐,おっ！<br>悪くねぇなぁ……どうだい？<br>[ジータ]。,오! 나쁘지 않아…… 어때?<br> [지타]
+Japanese,"scene_cp25_q2_s10,2521",detail,오이겐,おっ！<br>悪くねぇなぁ……どうだい？<br>[플레이어]。,오! 나쁘지 않아…… 어때?<br> [플레이어]
 Japanese,"scene_cp25_q2_s10,2521",detail,카타리나,ふふ……いいんじゃないか？<br>グランサイファーの整備が終わるまで<br>私達には出来ることもないしな。,후후... 괜찮지 않을까?<br>그랜사이퍼가 정비가 끝날때까지<br>우린 할수있는것도 없구말야
 Japanese,"scene_cp25_q2_s10,2521",detail,酒場の店主,よっしゃ、決まりだ！<br>っつーわけで、店まで<br>送ってくれるとありがたいんだが……,좋아 좋아 좋아!<br>라는 이유로 가게까지<br>보내주면 고맙겠는데……
 Japanese,"scene_cp25_q2_s10,2521",detail,酒場の店主,最近じゃあ、<br>どこにでも魔物が<br>湧くようになっちまってなぁ……,"최근엔,<br>어디서나 마물이<br>솟아오르게 되어버렸네……"
 Japanese,"scene_cp25_q2_s10,2521",detail,오이겐,ったく、水臭ぇなぁ……<br>そういうことなら、<br>最初から言いやがれっての！,"정말이지..물 냄새에..<br>그런거라면,<br>처음부터 말하라고!"
 Japanese,"scene_cp25_q2_s10,2521",detail,오이겐,魔物はオレ達に任せておきな！<br>年季の違う戦いってやつを<br>見せてやらぁ！,마물은 우리들에게 맡겨둬! 철이 다른 싸움이란걸<br>보여주마!
-Japanese,"scene_cp25_q2_s20,2522",synopsis,,ラカムとオイゲンの知り合いである店主に招かれ、酒場に腰を下ろす<span>[ジータ]</span>一行。酒の入ったオイゲンは、昔話に花を咲かせる。,라캄과 오이겐이 아는 주인장의 초대를 받아 술집에 들어앉는 <span> [지타] </span> 일행.술이 들어간 오이겐은 옛 이야기에 꽃을 피운다.
+Japanese,"scene_cp25_q2_s20,2522",synopsis,,ラカムとオイゲンの知り合いである店主に招かれ、酒場に腰を下ろす<span>[플레이어]</span>一行。酒の入ったオイゲンは、昔話に花を咲かせる。,라캄과 오이겐이 아는 주인장의 초대를 받아 술집에 들어앉는 <span> [플레이어] </span> 일행.술이 들어간 오이겐은 옛 이야기에 꽃을 피운다.
 Japanese,"scene_cp25_q2_s20,2522",detail,라캄,はぁ……この店は変わんねぇな……<br>いや、ちょっと椅子が低くなったか？,"하아……이 가게는 변하지 않네……<br>아니, 좀 의자가 낮아졌나?"
 Japanese,"scene_cp25_q2_s20,2522",detail,로제타,それは椅子が低くなったんじゃなくて<br>貴方が大きくなったのよ。<br>ふふ……立派に成長した証だわ。,그건 의자가 낮아진게 아니라 <br> 네가 커진거야.<br> 후후……훌륭하게 성장한 증거야.
 Japanese,"scene_cp25_q2_s20,2522",detail,이오,にしし……<br>いまならミルク以外も<br>飲めるのかしらね？,사시...<br>지금이라면 우유이외에도<br>먹을수있을까?
@@ -79,7 +79,7 @@ Japanese,"scene_cp25_q2_s20,2522",detail,酒場の店主,た、大変だ！<br>�
 Japanese,"scene_cp25_q2_s20,2522",detail,오이겐,おっと……<br>どうやら出番みてぇだなぁ。,이런.....<br>아무래도 나올 차례인 것 같군.
 Japanese,"scene_cp25_q2_s20,2522",detail,오이겐,酒ごときじゃあ、オレの照準は狂わねぇ<br>ってとこを、見せてやらねぇとな！<br>……ひっく。,"술 같은 거라면, 내 조준은 틀리지 않아 <br>라는 걸, 보여주지 말이지!<br>…….할퀴다."
 Japanese,"scene_cp25_q2_s20,2522",detail,비이,おいおい……大丈夫かよ。,어이구야……괜찮겠냐?
-Japanese,"scene_cp25_q3_s10,2531",synopsis,,<span>[ジータ]</span>一行が酒場でくつろいでいると、騎空艇の整備を担当する船大工が一行を訪ねてくる。船大工から整備に時間がかかることを知らされた一行は、イオの提案で島の見学へと繰り出す。,"<span>[지타]</span>일행이 술집에서 쉬고 있을 때 기공정의 정비를 담당하는 선대공이 일행을 찾아온다.선대공으로부터 정비에 시간이 걸리는 것을 통보받은 일행은, 이오의 제안으로 섬의 견학으로 계속 내보낸다."
+Japanese,"scene_cp25_q3_s10,2531",synopsis,,<span>[플레이어]</span>一行が酒場でくつろいでいると、騎空艇の整備を担当する船大工が一行を訪ねてくる。船大工から整備に時間がかかることを知らされた一行は、イオの提案で島の見学へと繰り出す。,"<span>[플레이어]</span>일행이 술집에서 쉬고 있을 때 기공정의 정비를 담당하는 선대공이 일행을 찾아온다.선대공으로부터 정비에 시간이 걸리는 것을 통보받은 일행은, 이오의 제안으로 섬의 견학으로 계속 내보낸다."
 Japanese,"scene_cp25_q3_s10,2531",detail,船大工,ああ、オイゲンさん、<br>こんなところに居たんですね。,"아, 오이겐씨. <br> 이런 곳에 있었군요."
 Japanese,"scene_cp25_q3_s10,2531",detail,오이겐,ん？ どしたぁ？<br>もう整備が終わったってのか？,어? 왜그래?<br>벌써 정비가 끝났다는거야?
 Japanese,"scene_cp25_q3_s10,2531",detail,船大工,まさか……<br>ああ、貴方が団長さんですね？,"설마......<br>아, 당신이 단장님이시군요?"
@@ -119,8 +119,8 @@ Japanese,"scene_cp25_q3_s20,2532",detail,라캄,長い間居たわけでもね�
 Japanese,"scene_cp25_q3_s20,2532",detail,라캄,迷子になって、それで……<br>確か、誰かに……,"미아가 되서, 그래서....<br>확실히 누군가에게...."
 Japanese,"scene_cp25_q3_s20,2532",detail,마물,グオオオォォッ！！,응어어어엇!!
 Japanese,"scene_cp25_q3_s20,2532",detail,라캄,ちっ……<br>なんか思い出せそうだったんだが……,쳇……<br>뭔가 생각날 것 같았는데……
-Japanese,"scene_cp25_q3_s20,2532",detail,라캄,街の奴らに被害が出ちゃいけねぇ。<br>さっさと片付けるぞ！ [ジータ]！,거리의 녀석들에게 피해가 가서는 안 돼.<br>빨리 해치우자! [지타]
-Japanese,"scene_cp25_q4_s10,2541",synopsis,,エルステ帝国の戦艦がガロンゾに来ているという噂から、用心しながら進む<span>[ジータ]</span>一行。すると、突如何かに反応したロゼッタは、ひとり整備中のグランサイファーへと戻ろうとする。,엘스테 제국의 전함이 갈론조에 와 있다는 소문에 조심조심 나아가는 <span>[지타]</span>일행. 그러자 갑자기 무언가에 반응한 로제타는 홀로 정비중인 그랑사이퍼로 돌아가려 한다.
+Japanese,"scene_cp25_q3_s20,2532",detail,라캄,街の奴らに被害が出ちゃいけねぇ。<br>さっさと片付けるぞ！ [플레이어]！,거리의 녀석들에게 피해가 가서는 안 돼.<br>빨리 해치우자! [플레이어]
+Japanese,"scene_cp25_q4_s10,2541",synopsis,,エルステ帝国の戦艦がガロンゾに来ているという噂から、用心しながら進む<span>[플레이어]</span>一行。すると、突如何かに反応したロゼッタは、ひとり整備中のグランサイファーへと戻ろうとする。,엘스테 제국의 전함이 갈론조에 와 있다는 소문에 조심조심 나아가는 <span>[플레이어]</span>일행. 그러자 갑자기 무언가에 반응한 로제타는 홀로 정비중인 그랑사이퍼로 돌아가려 한다.
 Japanese,"scene_cp25_q4_s10,2541",detail,카타리나,ふむ……兵士の気配はないが、<br>早くどこか落ち着ける場所を<br>探したほうが良いかもしれないな。,"흠…병사의 기색은 없지만,<br>빨리 어딘가 안정될 수 있는 장소를<br>찾는 편이 좋을지도 모르겠네."
 Japanese,"scene_cp25_q4_s10,2541",detail,카타리나,グランサイファーが整備中である以上、<br>よろず屋にでも、<br>宿屋を紹介してもらって……,"그랜사이퍼가 정비중인 이상,<br>물건간에라도,<br>숙소를 소개받아……"
 Japanese,"scene_cp25_q4_s10,2541",detail,로제타,っ！？,헉!?
@@ -136,7 +136,7 @@ Japanese,"scene_cp25_q4_s20,2542",synopsis,,整備には立ち合いが必要だ
 Japanese,"scene_cp25_q4_s20,2542",detail,로제타,それじゃ、アタシ、<br>ここで整備の立会をしてるわね。,"그럼, 나,<br>여기서 정비 입회하고 있을께."
 Japanese,"scene_cp25_q4_s20,2542",detail,로제타,何かあったら呼んで頂戴。<br>どこだろうとすぐに駆けつけるわ。,무슨 일 있으면 불러 줘.어디든 당장 달려갈게
 Japanese,"scene_cp25_q4_s20,2542",detail,비이,ロゼッタの奴……<br>いったいなんだってんだろうな？,로젯타 녀석...<br>도대체 뭐라는걸까?
-Japanese,"scene_cp25_q4_s20,2542",detail,이오,明らかに怪しかったわよね……<br>ねぇ、[ジータ]はどう思う？,"분명히 괴이했어……<br>야, [지타]는 어떻게 생각해?"
+Japanese,"scene_cp25_q4_s20,2542",detail,이오,明らかに怪しかったわよね……<br>ねぇ、[플레이어]はどう思う？,"분명히 괴이했어……<br>야, [플레이어]는 어떻게 생각해?"
 Japanese,"scene_cp25_q4_s20,2542",sel1_txt,,<span class='scene-font-katari'>知り合いを見つけたとか</span>,<span class = 'scene-font-katari'> 아는 사람을 발견했다 든가 </ span>
 Japanese,"scene_cp25_q4_s20,2542",sel2_txt,,<span class='scene-font-katari'>艇に何か隠してるのかも</span>,<span class = 'scene-font-katari'> 배에 뭔가 숨기고 있는지도 </ span>
 Japanese,"scene_cp25_q4_s20,2542",detail,라캄,ロゼッタの知り合いが、<span class='scene-font-place'>ガロンゾ</span>に？<br>確かに、<br>あり得ない話じゃねぇな……,"로젯타를 아는 사람이,<span class='scene-font-place'>가론조</span>에게?<br>확실히,<br>있을 수 없는 이야기는 아니야……"
@@ -150,11 +150,11 @@ Japanese,"scene_cp25_q4_s20,2542",detail,루리아,ですねっ！<br>私もそ�
 Japanese,"scene_cp25_q4_s20,2542",detail,카타리나,ふふ……根拠はないが、<br>私もイオ達と同じ気持ちだ。,"후후…근거는 없지만,<br>나도 이오들과 같은 기분이다."
 Japanese,"scene_cp25_q4_s20,2542",detail,마물,グオオオォォッ！！,응어어어엇!!
 Japanese,"scene_cp25_q4_s20,2542",detail,오이겐,っと……身内を変に勘ぐるより、<br>まずは目の前の敵を、<br>倒しちまわねぇとなぁ！,"랄까……제 가족을 이상하게 억누르는 것보다,<br>우선은 눈앞의 적을,<br>넘어뜨리고 다녀야지!"
-Japanese,"scene_cp25_q4_s30,2543",synopsis,,今後の進路を悩む<span>[ジータ]</span>一行の前に謎の少年が現れる。少年は何かを知っているような素振りを見せるが、そこに現れたエルステ帝国宰相フリーシア率いる帝国兵達によって、少年を連れ去られてしまう。,"앞으로의 진로를 고민하는 <span>[지타]</span> 일행 앞에 의문의 소년이 나타난다.소년은 뭔가를 알고 있는 듯한 기색을 보이지만, 거기에 나타난 엘스테 제국 재상 프리시아가 이끄는 제국병들에 의해 소년을 납치당하고 만다."
+Japanese,"scene_cp25_q4_s30,2543",synopsis,,今後の進路を悩む<span>[플레이어]</span>一行の前に謎の少年が現れる。少年は何かを知っているような素振りを見せるが、そこに現れたエルステ帝国宰相フリーシア率いる帝国兵達によって、少年を連れ去られてしまう。,"앞으로의 진로를 고민하는 <span>[플레이어]</span> 일행 앞에 의문의 소년이 나타난다.소년은 뭔가를 알고 있는 듯한 기색을 보이지만, 거기에 나타난 엘스테 제국 재상 프리시아가 이끄는 제국병들에 의해 소년을 납치당하고 만다."
 Japanese,"scene_cp25_q4_s30,2543",detail,라캄,しかし、整備に５日かぁ……,"그러나, 정비에 5일인가..."
 Japanese,"scene_cp25_q4_s30,2543",detail,오이겐,仕方ねぇさ、<br>それだけ酷使してきたんだ。<br>５日くらい大人しく待とうじゃねぇか。,어쩔 수 없지.<br>그만큼 혹사하고 왔어.<br>5일정도 얌전히 기다리자구~
 Japanese,"scene_cp25_q4_s30,2543",detail,라캄,ああ、いや、<br>それもそうなんだけどよ。,"아아, 아니<br>그것도 그렇지만."
-Japanese,"scene_cp25_q4_s30,2543",detail,라캄,なぁ、[ジータ]、<br>グランサイファーの整備が終わったら、<br>今度はどの島へ進むんだ？,"야, [지타],<br>그랜사이퍼의 정비가 끝나면,<br>이번엔 어느 섬으로 가는거야?"
+Japanese,"scene_cp25_q4_s30,2543",detail,라캄,なぁ、[플레이어]、<br>グランサイファーの整備が終わったら、<br>今度はどの島へ進むんだ？,"야, [플레이어],<br>그랜사이퍼의 정비가 끝나면,<br>이번엔 어느 섬으로 가는거야?"
 Japanese,"scene_cp25_q4_s30,2543",detail,카타리나,む、そうだな……<br>ファータグランデ空域を出るために、<br>空図の欠片を集める必要があるが……,"음, 그렇군……<br>파타글란데 공역을 나오기 위해서,<br>공도의 조각을 모을 필요가 있지만……"
 Japanese,"scene_cp25_q4_s30,2543",detail,루리아,でも……出来るなら私、<br>オルキスちゃんと<br>またお話がしたいです……,"그래도……가능하다면 저,<br>얼키스짱과<br>다시 이야기하고싶습니다……"
 Japanese,"scene_cp25_q4_s30,2543",detail,루리아,<span class='scene-font-place'>ルーマシー群島</span>で、<br>あんな別れ方をしちゃって……,"<span class='scene-font-place'>루마시 군도</span>에서,<br>그렇게 헤어져버려서......"
@@ -182,7 +182,7 @@ Japanese,"scene_cp25_q4_s30,2543",detail,오이겐,はん……<br>結局、帝�
 Japanese,"scene_cp25_q4_s30,2543",detail,폼메른,そ、それを貴方達が<br>知る必要はありませンネェ……,"그, 그것을 당신들이<br>알 필요는 없어요……"
 Japanese,"scene_cp25_q4_s30,2543",detail,폼메른,それよりも、<br>自分達の心配をすることですネェ！！,그것보다도 <br>자신들의 걱정을 하는 것입니다.
 Japanese,"scene_cp25_q4_s30,2543",detail,폼메른,必ずや復讐を果たし、<br>ルリアは帝国に返してもらいますよォ！<br>カタリナ中尉ィィィ……,"반드시 복수를 하고,<br>루리아는 제국에 돌려 받을께요오!<br>카탈리나 중위……"
-Japanese,"scene_cp25_q4_s30,2543",detail,루리아,カタリナ……<br>[ジータ]……,카타리나……<br>[지타]……
+Japanese,"scene_cp25_q4_s30,2543",detail,루리아,カタリナ……<br>[플레이어]……,카타리나……<br>[플레이어]……
 Japanese,"scene_cp25_q4_s30,2543",detail,카타리나,宰相殿……申し訳ないが、<br>私達にルリアを手放す気はない。<br>このままお引き取り願おうか。,"재상전……죄송하지만,<br>우리에게 루리아를 놓아줄 생각은 없다.<br> 이대로 돌아가실까?"
 Japanese,"scene_cp25_q4_s30,2543",detail,フリーシア,仕方がありませんね……<br>……そこの少年を捕えなさい！,어쩔 수 없네요....<br>.... 그곳의 소년을 잡아라!
 Japanese,"scene_cp25_q4_s30,2543",detail,제국병,はっ！,헉!
@@ -194,8 +194,8 @@ Japanese,"scene_cp25_q4_s30,2543",detail,フリーシア,事情を知ってい�
 Japanese,"scene_cp25_q4_s30,2543",detail,제국병,はっ！,헉!
 Japanese,"scene_cp25_q4_s30,2543",detail,이오,あっ！ ちょっと待ちなさいよ！<br>あんた達なんてことを……！！,앗! 잠깐 기다려요! <br> 너희들 무슨일을....!!
 Japanese,"scene_cp25_q4_s30,2543",detail,,<span class='scene-font-katari'>叫びも虚しく、</span><br><span class='scene-font-katari'>帝国兵に連れられ、</span><br><span class='scene-font-katari'>少年は一行の前から姿を消した。</span>,<span class = 'scene-font-katari'> 외침도 허무 </ span> <br> <span class = 'scene-font-katari'> 제국 병에 이끌려 </ span> <br> <span class = 'scene-font-katari'> 소년은 일행의 앞에서 모습을 감추었다. </ span>
-Japanese,"scene_cp25_q4_s30,2543",detail,,<span class='scene-font-katari'>予期せぬ事態の連続に、</span><br><span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>呆然と立ち尽くすしかないのだった。</span>,<span class = 'scene-font-katari'> 예기치 못한 사태의 연속 </ span> <br> <span class = 'scene-font-katari'> [지타] 일행은 </ span> <br > <span class = 'scene-font-katari'> 멍하니 서있는 수밖에없는 것이었다. </ span>
-English,"scene_cp25_q1_s10,2511",synopsis,,"As [Djeeta] and the crew head to Golonzo to repair the Grandcypher, another airship looms over the island."
+Japanese,"scene_cp25_q4_s30,2543",detail,,<span class='scene-font-katari'>予期せぬ事態の連続に、</span><br><span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>呆然と立ち尽くすしかないのだった。</span>,<span class = 'scene-font-katari'> 예기치 못한 사태의 연속 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행은 </ span> <br > <span class = 'scene-font-katari'> 멍하니 서있는 수밖에없는 것이었다. </ span>
+English,"scene_cp25_q1_s10,2511",synopsis,,"As [플레이어] and the crew head to Golonzo to repair the Grandcypher, another airship looms over the island."
 English,"scene_cp25_q1_s10,2511",detail,,Golonzo—a melting pot of an island where over half the population ekes out its living in the airship maintenance industry.
 English,"scene_cp25_q1_s10,2511",detail,,"Above its port, a battleship from the Erste Empire looms in the sky. A woman stands at the helm of the ship, gazing down at the bustling city streets below."
 English,"scene_cp25_q1_s10,2511",detail,???,So... that's Golonzo.
@@ -207,7 +207,7 @@ English,"scene_cp25_q1_s10,2511",detail,???,He demands the recapture of Lyria. A
 English,"scene_cp25_q1_s10,2511",detail,???,"I ask that everyone attend to their duties with the utmost caution, lest we lose the pride of the empire."
 English,"scene_cp25_q1_s10,2511",detail,Pommern,Un-understood...
 English,"scene_cp25_q1_s10,2511",detail,,The battleship slowly continues drifting toward the port of Golonzo.
-English,"scene_cp25_q1_s20,2512",synopsis,,Monsters assault [Djeeta] and the crew as they continue riding the damaged Grandcypher to Golonzo.
+English,"scene_cp25_q1_s20,2512",synopsis,,Monsters assault [플레이어] and the crew as they continue riding the damaged Grandcypher to Golonzo.
 English,"scene_cp25_q1_s20,2512",detail,Rackam,Dammit! This is not lookin' good...
 English,"scene_cp25_q1_s20,2512",detail,Eugen,"Hmm... We're losin' altitude too fast. Guess we asked too much of the ol' girl, but she had a good life!"
 English,"scene_cp25_q1_s20,2512",detail,Io,Hey! Is that some kinda joke? We're not even close to the port yet!
@@ -238,13 +238,13 @@ English,"scene_cp25_q2_s10,2521",detail,Io,"H-hey, watch it! Do I look like a li
 English,"scene_cp25_q2_s10,2521",detail,Rackam,You mean you think you don't?
 English,"scene_cp25_q2_s10,2521",detail,Io,Grr!
 English,"scene_cp25_q2_s10,2521",detail,Tavern Master,"All right, all right. Clearly we've all got a lot we oughtta get settled. How about a pint at me tavern? On the house!"
-English,"scene_cp25_q2_s10,2521",detail,Eugen,"Sounds like a plan to me! How about it, [Djeeta]?"
+English,"scene_cp25_q2_s10,2521",detail,Eugen,"Sounds like a plan to me! How about it, [플레이어]?"
 English,"scene_cp25_q2_s10,2521",detail,Katalina,It's not like there's anything we can accomplish while the Grandcypher is getting repaired.
 English,"scene_cp25_q2_s10,2521",detail,Tavern Master,"It's settled then! I'd go on ahead of you lot to get the shop in shipshape, but uh, t'would 'preciate it if you could come with me."
 English,"scene_cp25_q2_s10,2521",detail,Tavern Master,Recently seems no matter where you go you're bound to run into monsters.
 English,"scene_cp25_q2_s10,2521",detail,Eugen,"C'mon, how long have we known each other? You could've just said you needed bodyguards from the start."
 English,"scene_cp25_q2_s10,2521",detail,Eugen,Leave the monsters to us! We'll show 'em what we're made of!
-English,"scene_cp25_q2_s20,2522",synopsis,,[Djeeta] and the crew take a break at a local tavern. Eugen brings up Rackam's past.
+English,"scene_cp25_q2_s20,2522",synopsis,,[플레이어] and the crew take a break at a local tavern. Eugen brings up Rackam's past.
 English,"scene_cp25_q2_s20,2522",detail,Rackam,The ol' place hasn't changed one bit. Wait—are these chairs smaller?
 English,"scene_cp25_q2_s20,2522",detail,Rosetta,"The chairs didn't get smaller; you just got bigger. And my, my, what a gentlemen you've turned into."
 English,"scene_cp25_q2_s20,2522",detail,Io,"Hehe. Guess you can drink more than just milk now, huh?"
@@ -315,7 +315,7 @@ English,"scene_cp25_q3_s20,2532",detail,Rackam,"Besides I wasn't here for very l
 English,"scene_cp25_q3_s20,2532",detail,Rackam,"I got lost, and then for sure somebody found me..."
 English,"scene_cp25_q3_s20,2532",detail,Monster,Groar!
 English,"scene_cp25_q3_s20,2532",detail,Rackam,Tch. Well there goes my train of thought.
-English,"scene_cp25_q3_s20,2532",detail,Rackam,"In any case, let's protect the townspeople from these monsters, [Djeeta]!"
+English,"scene_cp25_q3_s20,2532",detail,Rackam,"In any case, let's protect the townspeople from these monsters, [플레이어]!"
 English,"scene_cp25_q4_s10,2541",synopsis,,Rosetta suddenly decides to go back to the Grandcypher to watch its repairs.
 English,"scene_cp25_q4_s10,2541",detail,Katalina,"No sign of any soldiers, but we should hurry and find a place we can lay low for a while."
 English,"scene_cp25_q4_s10,2541",detail,Katalina,Maybe Siero could help find us a room until the Grandcypher's repairs are complete.
@@ -332,7 +332,7 @@ English,"scene_cp25_q4_s20,2542",synopsis,,Rosetta runs off to watch over the Gr
 English,"scene_cp25_q4_s20,2542",detail,Rosetta,I'm off to keep an eye on the Grandcypher.
 English,"scene_cp25_q4_s20,2542",detail,Rosetta,Call for me if something happens. I'll be right there.
 English,"scene_cp25_q4_s20,2542",detail,Vyrn,What's the deal with Rosetta?
-English,"scene_cp25_q4_s20,2542",detail,Io,"She does seem a little suspicious. Hey, [Djeeta], what do you think?"
+English,"scene_cp25_q4_s20,2542",detail,Io,"She does seem a little suspicious. Hey, [플레이어], what do you think?"
 English,"scene_cp25_q4_s20,2542",sel1_txt,,Maybe she found an acquaintance of hers?
 English,"scene_cp25_q4_s20,2542",sel2_txt,,She may be hiding something on the ship.
 English,"scene_cp25_q4_s20,2542",detail,Rackam,"Rosetta? Acquaintances in Golonzo? Well, it's not the most ridiculous thing I've ever heard..."
@@ -350,7 +350,7 @@ English,"scene_cp25_q4_s30,2543",synopsis,,"A mysterious boy appears before the 
 English,"scene_cp25_q4_s30,2543",detail,Rackam,Five whole days... Sigh...
 English,"scene_cp25_q4_s30,2543",detail,Eugen,That's what we get for overworkin' the poor ship. Be glad it's not a solid month.
 English,"scene_cp25_q4_s30,2543",detail,Rackam,"Yeah, yeah. You're right."
-English,"scene_cp25_q4_s30,2543",detail,Rackam,"[Djeeta], after the Grandcypher's all fixed up, which island are we headed to?"
+English,"scene_cp25_q4_s30,2543",detail,Rackam,"[플레이어], after the Grandcypher's all fixed up, which island are we headed to?"
 English,"scene_cp25_q4_s30,2543",detail,Katalina,"To leave Phantagrande Skydom, we're going to have to collect the missing pieces of the sky map."
 English,"scene_cp25_q4_s30,2543",detail,Lyria,But I want to speak with Orchis one more time...
 English,"scene_cp25_q4_s30,2543",detail,Lyria,We couldn't even say goodbye to her in Lumacie.
@@ -378,7 +378,7 @@ English,"scene_cp25_q4_s30,2543",detail,Eugen,Guess it was a matter of time unti
 English,"scene_cp25_q4_s30,2543",detail,Pommern,Th-there is no need for you to know that.
 English,"scene_cp25_q4_s30,2543",detail,Pommern,You should be more worried about yourselves!
 English,"scene_cp25_q4_s30,2543",detail,Pommern,"We'll have our revenge, and you'll return Lyria to the empire, Lieutenant Katalina!"
-English,"scene_cp25_q4_s30,2543",detail,Lyria,Katalina... [Djeeta]...
+English,"scene_cp25_q4_s30,2543",detail,Lyria,Katalina... [플레이어]...
 English,"scene_cp25_q4_s30,2543",detail,Katalina,"Prime Minister, my apologies, but we have no intention of giving up Lyria. I humbly ask you to reconsider..."
 English,"scene_cp25_q4_s30,2543",detail,Freesia,Sigh... Why must you make things difficult... Capture that boy!
 English,"scene_cp25_q4_s30,2543",detail,Imperial Soldier,Yes ma'am!
@@ -390,4 +390,4 @@ English,"scene_cp25_q4_s30,2543",detail,Freesia,"Instead we shall take custody o
 English,"scene_cp25_q4_s30,2543",detail,Imperial Soldier,Yes ma'am!
 English,"scene_cp25_q4_s30,2543",detail,Io,Hey! Wait a minute! What are you doing!
 English,"scene_cp25_q4_s30,2543",detail,,The mysterious boy lets out a cry as the imperial soldiers drag him away.
-English,"scene_cp25_q4_s30,2543",detail,,[Djeeta] is left standing there petrified by the unexpected turn of events.
+English,"scene_cp25_q4_s30,2543",detail,,[플레이어] is left standing there petrified by the unexpected turn of events.

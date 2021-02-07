@@ -28,7 +28,7 @@ Japanese,"scene_cp50_q1_s10,5011",detail,,<span class='scene-font-katari'>こう
 Japanese,"scene_cp50_q2_s10,5021",synopsis,,鬱蒼とした森の景色に目を奪われるリーシャ。聞けば、彼女の故郷にはここまで深い森はなかったという。そこから話は、彼女の父親である碧の騎士ヴァルフリートへと移り変わる。面識がないはずのヴァルフリートについて懐かしげに話すビィ。その様子に一行は驚き、ビィ自身、困惑した表情を見せる。封印を解いたことでビィには過去の記憶が戻りつつあるのだった。
 Japanese,"scene_cp50_q2_s10,5021",detail,リーシャ,それにしても……<br>ここは本当に見事な森ですね。
 Japanese,"scene_cp50_q2_s10,5021",detail,リーシャ,私……<br>こんなに鬱蒼とした森を訪れたのは、<br>初めてかもしれません。
-Japanese,"scene_cp50_q2_s10,5021",detail,,<span class='scene-font-katari'>ロゼッタを探し、</span><br><span class='scene-font-katari'>ルーマシーの森を進む</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp50_q2_s10,5021",detail,,<span class='scene-font-katari'>ロゼッタを探し、</span><br><span class='scene-font-katari'>ルーマシーの森を進む</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp50_q2_s10,5021",detail,,<span class='scene-font-katari'>木々をかき分けるようにしながら</span><br><span class='scene-font-katari'>進んでいると、</span><br><span class='scene-font-katari'>不意にリーシャがそんな感想を述べた。</span>
 Japanese,"scene_cp50_q2_s10,5021",detail,이오,そういえば、<br>リーシャの故郷はどこなの？
 Japanese,"scene_cp50_q2_s10,5021",detail,이오,こういう森が珍しい、ってことは、<br>あんまり<br>田舎の島じゃないみたいだけど……
@@ -47,7 +47,7 @@ Japanese,"scene_cp50_q2_s10,5021",detail,リーシャ,あれ？ え、えっと�
 Japanese,"scene_cp50_q2_s10,5021",detail,비이,え？ いや……あれ？<br>そんなはずねーけど……<br>あれ？ なんでだ……？
 Japanese,"scene_cp50_q2_s10,5021",detail,이오,会ったこともない人を<br>おっかない顔なんて、<br>それはちょっと失礼なんじゃない？
 Japanese,"scene_cp50_q2_s10,5021",detail,비이,で、でもオイラ……<br>会ったことねーはずなのに、<br>あいつと話した記憶が……
-Japanese,"scene_cp50_q2_s10,5021",detail,リーシャ,[ジータ]さん達が旅を始める前に、<br>父さんがザンクティンゼルに、<br>立ち寄っていたんでしょうか……？
+Japanese,"scene_cp50_q2_s10,5021",detail,リーシャ,[플레이어]さん達が旅を始める前に、<br>父さんがザンクティンゼルに、<br>立ち寄っていたんでしょうか……？
 Japanese,"scene_cp50_q2_s10,5021",detail,카타리나,その可能性も考えられるが、<br>これは恐らく……
 Japanese,"scene_cp50_q2_s10,5021",sel1_txt,,<span class='scene-font-katari'>記憶が戻り始めてる</span>
 Japanese,"scene_cp50_q2_s10,5021",sel2_txt,,<span class='scene-font-katari'>勘違いだと思う</span>
@@ -85,7 +85,7 @@ Japanese,"scene_cp50_q2_s20,5022",detail,루리아,大丈夫ですか？<br>な�
 Japanese,"scene_cp50_q2_s20,5022",detail,リーシャ,はは……そ、そうですか？<br>そんな顔してるつもりは、<br>なかったんですけど……
 Japanese,"scene_cp50_q2_s20,5022",detail,リーシャ,あっ、ほらっ！<br>向こうに魔物が現れたみたいです！<br>私達も急ぎましょう！
 Japanese,"scene_cp50_q2_s20,5022",detail,루리아,あっ！ 待ってくださーい！<br>リーシャさーんっ！
-Japanese,"scene_cp50_q3_s20,5031",synopsis,,懐かしい声に呼びかけられ、ロゼッタは目を覚ます。彼女の前にいたのは、ルーマシー群島へと戻った[ジータ]達だった。ようやくの再会を果たした一行。再会を喜ぶ間もなく現れた魔物に、イオは自らの成長をロゼッタに見せようと意気込む。
+Japanese,"scene_cp50_q3_s20,5031",synopsis,,懐かしい声に呼びかけられ、ロゼッタは目を覚ます。彼女の前にいたのは、ルーマシー群島へと戻った[플레이어]達だった。ようやくの再会を果たした一行。再会を喜ぶ間もなく現れた魔物に、イオは自らの成長をロゼッタに見せようと意気込む。
 Japanese,"scene_cp50_q3_s20,5031",detail,,<span class='scene-font-katari'>少年によって、</span><br><span class='scene-font-katari'>やや強引に始められた彼女の旅は、</span><br><span class='scene-font-katari'>意外にも長く続いていた。</span>
 Japanese,"scene_cp50_q3_s20,5031",detail,？？？,<span class='scene-font-kokoro'>（騎空艇に乗って、</span><br><span class='scene-font-kokoro'>色々な島を巡って……）</span>
 Japanese,"scene_cp50_q3_s20,5031",detail,？？？,<span class='scene-font-kokoro'>（考えもしなかった日常だけど、</span><br><span class='scene-font-kokoro'>思いの外、悪くないものね……）</span>
@@ -103,11 +103,11 @@ Japanese,"scene_cp50_q3_s20,5031",detail,？？？,─……
 Japanese,"scene_cp50_q3_s20,5031",sel1_txt,,<span class='scene-font-katari'>ロゼッタ……</span>
 Japanese,"scene_cp50_q3_s20,5031",sel2_txt,,<span class='scene-font-katari'>ロゼッタ！</span>
 Japanese,"scene_cp50_q3_s20,5031",detail,로제타,ん……
-Japanese,"scene_cp50_q3_s20,5031",detail,로제타,嗚呼、貴方……<br>そう……懐かしい声がすると思ったら、<br>[ジータ]だったのね……
+Japanese,"scene_cp50_q3_s20,5031",detail,로제타,嗚呼、貴方……<br>そう……懐かしい声がすると思ったら、<br>[플레이어]だったのね……
 Japanese,"scene_cp50_q3_s20,5031",detail,이오,ロゼッタっ！<br>ねぇ、大丈夫！？<br>なんともない！？
 Japanese,"scene_cp50_q3_s20,5031",detail,로제타,ええ……大丈夫よ。<br>ちょっとだけ、<br>待ちくたびれちゃったけれどね。
-Japanese,"scene_cp50_q3_s20,5031",detail,,<span class='scene-font-katari'>ロゼッタを探し、</span><br><span class='scene-font-katari'>森を進んでいた[ジータ]一行は、</span><br><span class='scene-font-katari'>ついに湖畔で微睡む彼女を見つける。</span>
-Japanese,"scene_cp50_q3_s20,5031",detail,,<span class='scene-font-katari'>[ジータ]が必死で呼びかけると、</span><br><span class='scene-font-katari'>ほどなくして彼女は、</span><br><span class='scene-font-katari'>その瞼を開いたのだった。</span>
+Japanese,"scene_cp50_q3_s20,5031",detail,,<span class='scene-font-katari'>ロゼッタを探し、</span><br><span class='scene-font-katari'>森を進んでいた[플레이어]一行は、</span><br><span class='scene-font-katari'>ついに湖畔で微睡む彼女を見つける。</span>
+Japanese,"scene_cp50_q3_s20,5031",detail,,<span class='scene-font-katari'>[플레이어]が必死で呼びかけると、</span><br><span class='scene-font-katari'>ほどなくして彼女は、</span><br><span class='scene-font-katari'>その瞼を開いたのだった。</span>
 Japanese,"scene_cp50_q3_s20,5031",detail,라캄,ったく……<br>俺達が慌てて駆けつけてみりゃ、<br>ゆっくり寝てんだもんな……
 Japanese,"scene_cp50_q3_s20,5031",detail,로제타,ふふふ……<br>だって来るのが遅いんだもの。
 Japanese,"scene_cp50_q3_s20,5031",detail,로제타,それに、絵になるでしょう？<br>深い森の奥で眠る美女なんて。
@@ -124,7 +124,7 @@ Japanese,"scene_cp50_q3_s20,5031",detail,루리아,私達、あれからさら�
 Japanese,"scene_cp50_q3_s20,5031",detail,마물,グオオォォッ！！
 Japanese,"scene_cp50_q3_s20,5031",detail,로제타,あらあら……<br>あまり悠長には<br>再会に浸らせてもらえないみたいね？
 Japanese,"scene_cp50_q3_s20,5031",detail,이오,ロゼッタは<br>病み上がりみたいなものなんだから、<br>そこでゆっくり見てて！
-Japanese,"scene_cp50_q3_s20,5031",detail,이오,やれるわよね？ [ジータ]！<br>あたし達の成長を、<br>ロゼッタに見てもらうんだから！
+Japanese,"scene_cp50_q3_s20,5031",detail,이오,やれるわよね？ [플레이어]！<br>あたし達の成長を、<br>ロゼッタに見てもらうんだから！
 Japanese,"scene_cp50_q4_s20,5041",synopsis,,ロゼッタによれば、ユグドラシル・マリスよりも先に戦わねばならない星晶獣がいるという。それはロゼッタ自身、星晶獣ローズクイーンだった。ユグドラシルを抑えるため、ロゼッタはユグドラシルと半ば融合したような状態にあり、それを切り離すには戦う以外の方法が無かった。ロゼッタを取り戻すため、そして彼女に認めてもらうため、一行は戦うことを決意する。
 Japanese,"scene_cp50_q4_s20,5041",detail,라캄,うし！<br>んじゃあ、さっそく、<br>本命と決着をつけに行くとすっか！
 Japanese,"scene_cp50_q4_s20,5041",detail,로제타,本命？<br>じゃあ、アタシは遊びだったのかしら？<br>悲しいわぁ……
@@ -183,21 +183,21 @@ Japanese,"scene_cp50_q4_s20,5041",detail,라캄,ま……<br>見たいってん�
 Japanese,"scene_cp50_q4_s20,5041",detail,카타리나,ああ……<br>それに油断は出来ないぞ。
 Japanese,"scene_cp50_q4_s20,5041",detail,로제타,そうそう……<br>星晶獣相手に手を抜くなんて、<br>空にも星にも失礼だもの。
 Japanese,"scene_cp50_q4_s20,5041",detail,ローズクイーン,全力で……いらっしゃい。<br>星の獣の矜持を見せてあげる……！！
-Japanese,"scene_cp50_q4_s20,5041",detail,루리아,いきましょう！ [ジータ]！<br>皆で頑張って、<br>ロゼッタさんに認めてもらうんです！
-Japanese,"scene_cp50_q4_s30,5042",synopsis,,戦いの果てにロゼッタの気配は[ジータ]達のよく知るものに戻る。仲間の帰還に喜ぶ一行。変わらず謎めいた笑みを浮かべるロゼッタと共に、[ジータ]達はユグドラシル・マリスと戦うべく、歩を進めるのだった。
+Japanese,"scene_cp50_q4_s20,5041",detail,루리아,いきましょう！ [플레이어]！<br>皆で頑張って、<br>ロゼッタさんに認めてもらうんです！
+Japanese,"scene_cp50_q4_s30,5042",synopsis,,戦いの果てにロゼッタの気配は[플레이어]達のよく知るものに戻る。仲間の帰還に喜ぶ一行。変わらず謎めいた笑みを浮かべるロゼッタと共に、[플레이어]達はユグドラシル・マリスと戦うべく、歩を進めるのだった。
 Japanese,"scene_cp50_q4_s30,5042",detail,,<span class='scene-font-katari'>星晶獣ローズクイーンとの</span><br><span class='scene-font-katari'>激戦を制した一行は、</span><br><span class='scene-font-katari'>改めてロゼッタと相対する。</span>
-Japanese,"scene_cp50_q4_s30,5042",detail,로제타,ふぅ……さすがね、[ジータ]さん。<br>やっぱりアタシの目に<br>狂いはなかった……
+Japanese,"scene_cp50_q4_s30,5042",detail,로제타,ふぅ……さすがね、[플레이어]さん。<br>やっぱりアタシの目に<br>狂いはなかった……
 Japanese,"scene_cp50_q4_s30,5042",detail,로제타,いえ……<br>それよりも、もっと昔から、<br>決まっていたのかもしれないわね。
-Japanese,"scene_cp50_q4_s30,5042",detail,,<span class='scene-font-katari'>ロゼッタは眩しそうに</span><br><span class='scene-font-katari'>[ジータ]を見つめる。</span>
+Japanese,"scene_cp50_q4_s30,5042",detail,,<span class='scene-font-katari'>ロゼッタは眩しそうに</span><br><span class='scene-font-katari'>[플레이어]を見つめる。</span>
 Japanese,"scene_cp50_q4_s30,5042",detail,루리아,あっ……！
 Japanese,"scene_cp50_q4_s30,5042",detail,카타리나,うん？<br>どうした？ ルリア。
 Japanese,"scene_cp50_q4_s30,5042",detail,루리아,ロゼッタさんの……<br>星晶獣の気配がどんどん曖昧になって、<br>いつもの不思議な気配に……
 Japanese,"scene_cp50_q4_s30,5042",detail,로제타,そうね……<br>それは、無事星晶獣としての力を、<br>閉じることが出来た、ってことだわ。
-Japanese,"scene_cp50_q4_s30,5042",detail,로제타,これでアタシも……<br>また[ジータ]さん達と一緒に、<br>旅に出ることが出来る……
+Japanese,"scene_cp50_q4_s30,5042",detail,로제타,これでアタシも……<br>また[플레이어]さん達と一緒に、<br>旅に出ることが出来る……
 Japanese,"scene_cp50_q4_s30,5042",detail,이오,うんっ……！<br>おかえり、ロゼッタ……！
 Japanese,"scene_cp50_q4_s30,5042",detail,로제타,ふふ……ただいま。
 Japanese,"scene_cp50_q4_s30,5042",detail,,<span class='scene-font-katari'>妖しげな笑みを浮かべ、</span><br><span class='scene-font-katari'>ロゼッタは一行の元へと帰還する。</span>
-Japanese,"scene_cp50_q4_s30,5042",detail,,<span class='scene-font-katari'>そのいつもと変わらぬ微笑みに、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>久々の頼もしさを感じるのだった。</span>
+Japanese,"scene_cp50_q4_s30,5042",detail,,<span class='scene-font-katari'>そのいつもと変わらぬ微笑みに、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>久々の頼もしさを感じるのだった。</span>
 English,"scene_cp50_q1_s10,5011",synopsis,,"Rosetta has been living peacefully with Yggdrasil for centuries when a strange crew of skyfarers seemingly threatens her newfound home. She's easily overpowered, but stranger yet, she ends up traveling with the crew once all is said and done."
 English,"scene_cp50_q1_s10,5011",detail,,The skydwellers once fought to take back their world from the Astrals. This time period has come to be known as the War.
 English,"scene_cp50_q1_s10,5011",detail,,"It was during the War that her island, where she engrained her very roots, was burnt to cinders. In the ensuing chaos, she was thrown from her home, but through some twist of fate she landed on a different island."
@@ -227,7 +227,7 @@ English,"scene_cp50_q1_s10,5011",detail,,"From that day forward, thanks to a ban
 English,"scene_cp50_q2_s10,5021",synopsis,,Lecia unexpectedly jogs one of Vyrn's sealed memories as she's explaining her background. It's the first evidence the crew has that Vyrn's memories are starting to come back.
 English,"scene_cp50_q2_s10,5021",detail,Lecia,This really is an incredible forest.
 English,"scene_cp50_q2_s10,5021",detail,Lecia,I don't think I've ever seen such dense foliage.
-English,"scene_cp50_q2_s10,5021",detail,,[Djeeta] and the crew are well into their search for Rosetta through the thick woods of Lumacie.
+English,"scene_cp50_q2_s10,5021",detail,,[플레이어] and the crew are well into their search for Rosetta through the thick woods of Lumacie.
 English,"scene_cp50_q2_s10,5021",detail,,They pass the time by making small talk.
 English,"scene_cp50_q2_s10,5021",detail,Io,"Where are you from anyway, Lecia?"
 English,"scene_cp50_q2_s10,5021",detail,Io,"If you've never seen a forest like this before, then I'm guessing you're not from a very backwoods island?"
@@ -246,7 +246,7 @@ English,"scene_cp50_q2_s10,5021",detail,Lecia,"Wait, um, have you met my father,
 English,"scene_cp50_q2_s10,5021",detail,Vyrn,"Um... Hold on. I don't think so, but I can't shake the feelin' that I have."
 English,"scene_cp50_q2_s10,5021",detail,Io,Isn't it rude to call someone you've never met scary?
 English,"scene_cp50_q2_s10,5021",detail,Vyrn,"I shouldn't have met him, but I <span class='scene-font-italic'>feel</span> like I remember talkin' to him."
-English,"scene_cp50_q2_s10,5021",detail,Lecia,Did my father stop by Zinkenstill before you set out with [Djeeta]?
+English,"scene_cp50_q2_s10,5021",detail,Lecia,Did my father stop by Zinkenstill before you set out with [플레이어]?
 English,"scene_cp50_q2_s10,5021",detail,Katalina,"That's one possibility, but I can think of another more likely one."
 English,"scene_cp50_q2_s10,5021",sel1_txt,,Vyrn's memory is coming back.
 English,"scene_cp50_q2_s10,5021",sel2_txt,,He's just confused.
@@ -284,7 +284,7 @@ English,"scene_cp50_q2_s20,5022",detail,Lyria,Is everything okay? You looked lik
 English,"scene_cp50_q2_s20,5022",detail,Lecia,Heh-heh... Did I now? No idea why!
 English,"scene_cp50_q2_s20,5022",detail,Lecia,"Ooo, look! There's a bunch of monsters! We better take care of them!"
 English,"scene_cp50_q2_s20,5022",detail,Lyria,"Wait a minute, Lecia!"
-English,"scene_cp50_q3_s20,5031",synopsis,,"[Djeeta] and the crew finally locate Rosetta, who seems to have fallen unconscious in the forest. Before they can celebrate, monsters appear."
+English,"scene_cp50_q3_s20,5031",synopsis,,"[플레이어] and the crew finally locate Rosetta, who seems to have fallen unconscious in the forest. Before they can celebrate, monsters appear."
 English,"scene_cp50_q3_s20,5031",detail,,"Pulled into an abrupt journey by the young man, she was traveling for far longer than expected."
 English,"scene_cp50_q3_s20,5031",detail,???,(Flying around on an airship and visiting lots of different islands...)
 English,"scene_cp50_q3_s20,5031",detail,???,"(I'd never considered this kind of life before, but it's actually quite nice.)"
@@ -302,11 +302,11 @@ English,"scene_cp50_q3_s20,5031",detail,???,...
 English,"scene_cp50_q3_s20,5031",sel1_txt,,Rosetta...
 English,"scene_cp50_q3_s20,5031",sel2_txt,,Rosetta!
 English,"scene_cp50_q3_s20,5031",detail,Rosetta,Mm?
-English,"scene_cp50_q3_s20,5031",detail,Rosetta,"Ah... You've come. I thought I heard a familiar voice, and it was you after all, [Djeeta]."
+English,"scene_cp50_q3_s20,5031",detail,Rosetta,"Ah... You've come. I thought I heard a familiar voice, and it was you after all, [플레이어]."
 English,"scene_cp50_q3_s20,5031",detail,Io,Rosetta! Are you okay? What happened?
 English,"scene_cp50_q3_s20,5031",detail,Rosetta,"Yes, I'm fine. I waited just a little bit longer than I would've liked though."
 English,"scene_cp50_q3_s20,5031",detail,,The crew's search for Rosetta concluded when they found her unconscious on the bank of a lake.
-English,"scene_cp50_q3_s20,5031",detail,,"[Djeeta], upon seeing her motionless form, rushed over to her, calling her name. That's when she opened her eyes."
+English,"scene_cp50_q3_s20,5031",detail,,"[플레이어], upon seeing her motionless form, rushed over to her, calling her name. That's when she opened her eyes."
 English,"scene_cp50_q3_s20,5031",detail,Rackam,Sheesh. We hurried all the way here just to find you nappin' like a baby...
 English,"scene_cp50_q3_s20,5031",detail,Rosetta,Haha. You all took so long. What else was I supposed to do?
 English,"scene_cp50_q3_s20,5031",detail,Rosetta,"And doesn't it make for a beautiful picture? A beautiful princess, sleeping in a mysterious forest."
@@ -323,7 +323,7 @@ English,"scene_cp50_q3_s20,5031",detail,Lyria,"We've had so many adventures sinc
 English,"scene_cp50_q3_s20,5031",detail,Monster,Groooar!
 English,"scene_cp50_q3_s20,5031",detail,Rosetta,Hold that thought. I don't think these monsters are going to let us savor our reunion.
 English,"scene_cp50_q3_s20,5031",detail,Io,"You're still recovering, Rosetta, so you just stay there and rest up!"
-English,"scene_cp50_q3_s20,5031",detail,Io,"We can do this, right, [Djeeta]? Let's show Rosetta what we've got!"
+English,"scene_cp50_q3_s20,5031",detail,Io,"We can do this, right, [플레이어]? Let's show Rosetta what we've got!"
 English,"scene_cp50_q4_s20,5041",synopsis,,Rosetta reveals that she had to merge her powers with Yggdrasil to keep the raging primal under control. The crew must fight their ally to help unbind the primals before Malice takes over Rosetta too.
 English,"scene_cp50_q4_s20,5041",detail,Rackam,"All right! Now that the gang's all back together, let's get on with the main event and get outta here!"
 English,"scene_cp50_q4_s20,5041",detail,Rosetta,Main event? You mean I was just a warm up? How depressing...
@@ -382,17 +382,17 @@ English,"scene_cp50_q4_s20,5041",detail,Rackam,"Well, if the lady's askin' for e
 English,"scene_cp50_q4_s20,5041",detail,Katalina,Agreed. We can't hold anything back.
 English,"scene_cp50_q4_s20,5041",detail,Rosetta,There you go. Don't suppress a smidgen of that power. It would be rude to both skydwellers and Astrals if you did.
 English,"scene_cp50_q4_s20,5041",detail,Rose Queen,Now come get some. My pride as a primal is on the line!
-English,"scene_cp50_q4_s20,5041",detail,Lyria,"Come on, [Djeeta]! We need to fight together to prove ourselves to Rosetta!"
+English,"scene_cp50_q4_s20,5041",detail,Lyria,"Come on, [플레이어]! We need to fight together to prove ourselves to Rosetta!"
 English,"scene_cp50_q4_s30,5042",synopsis,,"After the battle, Rosetta returns to normal. The crew take a moment to breathe before moving on to fight Yggdrasil Malice."
 English,"scene_cp50_q4_s30,5042",detail,,"After the crew defeats Rose Queen, the primal beast rapidly reverts back to her more familiar form."
-English,"scene_cp50_q4_s30,5042",detail,Rosetta,"Whew. Not bad, [Djeeta]. I knew I was right to follow you."
+English,"scene_cp50_q4_s30,5042",detail,Rosetta,"Whew. Not bad, [플레이어]. I knew I was right to follow you."
 English,"scene_cp50_q4_s30,5042",detail,Rosetta,"Although, who knows? Maybe our connection goes way back."
-English,"scene_cp50_q4_s30,5042",detail,,Rosetta stares at [Djeeta] as if seeing something miraculous.
+English,"scene_cp50_q4_s30,5042",detail,,Rosetta stares at [플레이어] as if seeing something miraculous.
 English,"scene_cp50_q4_s30,5042",detail,Lyria,Ah!
 English,"scene_cp50_q4_s30,5042",detail,Katalina,"Hm? Something the matter, Lyria?"
 English,"scene_cp50_q4_s30,5042",detail,Lyria,Rosetta doesn't feel much like a primal beast anymore. She's going back to that mysterious feeling she's always had.
 English,"scene_cp50_q4_s30,5042",detail,Rosetta,Indeed. That means you've successfully closed off my power.
-English,"scene_cp50_q4_s30,5042",detail,Rosetta,"Now I can travel with you again, [Djeeta]."
+English,"scene_cp50_q4_s30,5042",detail,Rosetta,"Now I can travel with you again, [플레이어]."
 English,"scene_cp50_q4_s30,5042",detail,Io,"All right! Welcome back, Rosetta!"
 English,"scene_cp50_q4_s30,5042",detail,Rosetta,Hehe. Glad to be back.
 English,"scene_cp50_q4_s30,5042",detail,,"Rosetta, with her comforting smile, finds her way back into the crew."

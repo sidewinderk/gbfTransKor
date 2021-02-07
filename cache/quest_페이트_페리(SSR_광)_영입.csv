@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr242_ep1,synopsis,,ペットの幽霊達と楽しそうに話すフェリは、[ジータ]達の旅に同行して以来、幽霊の声が聞こえるようになったという。悪霊退治の依頼があった廃墟で、フェリは悪霊の声を聞き、名を与えることで悪霊に元の姿を取り戻させてやる。その後、念願の新しい服も購入し、元悪霊のモモも仲間に加え、フェリは旅を続けていくのだった。
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>とある依頼を受け、</span><br><span class='scene-font-katari'>多くの人々で賑わう街を進む</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,scene_fate_chr242_ep1,synopsis,,ペットの幽霊達と楽しそうに話すフェリは、[플레이어]達の旅に同行して以来、幽霊の声が聞こえるようになったという。悪霊退治の依頼があった廃墟で、フェリは悪霊の声を聞き、名を与えることで悪霊に元の姿を取り戻させてやる。その後、念願の新しい服も購入し、元悪霊のモモも仲間に加え、フェリは旅を続けていくのだった。
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>とある依頼を受け、</span><br><span class='scene-font-katari'>多くの人々で賑わう街を進む</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>フェリは道行く女性達を見ては、</span><br><span class='scene-font-katari'>何かを夢想するように首を傾げていた。</span>
 Japanese,scene_fate_chr242_ep1,detail,フェリ,ああいうのも悪くないな……<br>でも、出来ればもっと<br>動きやすそうなほうが……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,あ、ああいう服はちょっとな……<br>さすがに、な……
@@ -18,7 +18,7 @@ Japanese,scene_fate_chr242_ep1,detail,フェリ,うん？ ああ……<br>最初
 Japanese,scene_fate_chr242_ep1,detail,フェリ,私がこいつらと出会ったのは、<br>私もこいつらも、<br>幽霊になってからなんだが……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,あの島に居た頃は、<br>普通のペットと飼い主のように、<br>言葉まではわからなかったんだが……
 Japanese,scene_fate_chr242_ep1,detail,ベッポ,――――！
-Japanese,scene_fate_chr242_ep1,detail,フェリ,ふふ……そう、そうだ。<br>[ジータ]達と、<br>旅を始めてからだな……
+Japanese,scene_fate_chr242_ep1,detail,フェリ,ふふ……そう、そうだ。<br>[플레이어]達と、<br>旅を始めてからだな……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,少しずつだが、<br>こいつらの言葉が、<br>わかるようになって……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,なんて言うんだろうな？<br>音ではないんだが……<br>こいつらの声が言葉として聞こえるんだ。
 Japanese,scene_fate_chr242_ep1,detail,ジジ,――――
@@ -43,20 +43,20 @@ Japanese,scene_fate_chr242_ep1,detail,フェリ,え……？<br>でも、さっ�
 Japanese,scene_fate_chr242_ep1,detail,フージーとニコラ,――！ ――！
 Japanese,scene_fate_chr242_ep1,detail,フェリ,うん、やっぱり……<br>さっき、廃墟の中から、<br>寂しい、って……
 Japanese,scene_fate_chr242_ep1,detail,ルリア,ひっ……！？<br>な、なんなんですかっ、それー！？
-Japanese,scene_fate_chr242_ep1,detail,ビィ,うーん……オイラにも声なんて、<br>聞こえなかったぜ？<br>なぁ、[ジータ]もだろ？
+Japanese,scene_fate_chr242_ep1,detail,ビィ,うーん……オイラにも声なんて、<br>聞こえなかったぜ？<br>なぁ、[플레이어]もだろ？
 Japanese,scene_fate_chr242_ep1,detail,フェリ,じゃあ……<br>私達だけに聞こえたのか？
 Japanese,scene_fate_chr242_ep1,detail,ジジ,――、――
 Japanese,scene_fate_chr242_ep1,detail,フェリ,そうか……<br>私達だけに聞こえる声、か……
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは首を傾げながらも、</span><br><span class='scene-font-katari'>[ジータ]達と共に、</span><br><span class='scene-font-katari'>悪霊が住み着いた廃墟へと踏み入る。</span>
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>古びた木材の軋みが、</span><br><span class='scene-font-katari'>悪霊退治の依頼を受けた</span><br><span class='scene-font-katari'>[ジータ]一行を出迎える。</span>
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは首を傾げながらも、</span><br><span class='scene-font-katari'>[플레이어]達と共に、</span><br><span class='scene-font-katari'>悪霊が住み着いた廃墟へと踏み入る。</span>
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>古びた木材の軋みが、</span><br><span class='scene-font-katari'>悪霊退治の依頼を受けた</span><br><span class='scene-font-katari'>[플레이어]一行を出迎える。</span>
 Japanese,scene_fate_chr242_ep1,detail,ビィ,思ったより中は、<br>荒れてねーみてーだな……
 Japanese,scene_fate_chr242_ep1,detail,ルリア,で、でもやっぱり怖いです……<br>あのカーテンの影とか、<br>何か出てきそうで……
-Japanese,scene_fate_chr242_ep1,detail,フェリ,大丈夫。<br>何が出てこようと、<br>[ジータ]と私で……
+Japanese,scene_fate_chr242_ep1,detail,フェリ,大丈夫。<br>何が出てこようと、<br>[플레이어]と私で……
 Japanese,scene_fate_chr242_ep1,detail,悪霊,グオオォォッ！！
 Japanese,scene_fate_chr242_ep1,detail,ルリア,ひぅっ！？
-Japanese,scene_fate_chr242_ep1,detail,ビィ,出やがったな！<br>やっちまえ！ [ジータ]！
+Japanese,scene_fate_chr242_ep1,detail,ビィ,出やがったな！<br>やっちまえ！ [플레이어]！
 Japanese,scene_fate_chr242_ep1,detail,フェリ,っ！？<br>ま、待て！
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは何かに気付いた様子で、</span><br><span class='scene-font-katari'>[ジータ]を制止する。</span>
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは何かに気付いた様子で、</span><br><span class='scene-font-katari'>[플레이어]を制止する。</span>
 Japanese,scene_fate_chr242_ep1,detail,悪霊,グルルルル……
 Japanese,scene_fate_chr242_ep1,detail,ルリア,ど、どうしたんですか……？
 Japanese,scene_fate_chr242_ep1,detail,フェリ,彼だ……
@@ -75,13 +75,13 @@ Japanese,scene_fate_chr242_ep1,detail,ルリア,お名前……ですか？
 Japanese,scene_fate_chr242_ep1,detail,フェリ,そう、名前だ……<br>彼も幽霊である以上、<br>きっと生前の名前があるはずだ。
 Japanese,scene_fate_chr242_ep1,detail,ルリア,うーん……<br>でも、依頼書には、<br>悪霊さんとしか書いてないです……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,そうか……
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは意を決した様子で、</span><br><span class='scene-font-katari'>[ジータ]に振り返る。</span>
-Japanese,scene_fate_chr242_ep1,detail,フェリ,なぁ、[ジータ]。<br>ここは私に任せてもらえないか？<br>考えがあるんだ。
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは意を決した様子で、</span><br><span class='scene-font-katari'>[플레이어]に振り返る。</span>
+Japanese,scene_fate_chr242_ep1,detail,フェリ,なぁ、[플레이어]。<br>ここは私に任せてもらえないか？<br>考えがあるんだ。
 Japanese,scene_fate_chr242_ep1,sel1_txt,,<span class='scene-font-katari'>じゃあ、任せた</span>
 Japanese,scene_fate_chr242_ep1,sel2_txt,,<span class='scene-font-katari'>大丈夫？</span>
 Japanese,scene_fate_chr242_ep1,detail,フェリ,ふふ……即答か。<br>それだけ私も、<br>信用されていると思っていいのかな。
 Japanese,scene_fate_chr242_ep1,detail,フェリ,ありがとう……<br>その信用は絶対に裏切らないから、<br>少しの間、見守っていてくれ。
-Japanese,scene_fate_chr242_ep1,detail,フェリ,ふふ……心配してくれるのか？<br>[ジータ]はいじらしい奴だな……
+Japanese,scene_fate_chr242_ep1,detail,フェリ,ふふ……心配してくれるのか？<br>[플레이어]はいじらしい奴だな……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,けど、大丈夫だ。<br>危ないことをするつもりはない。<br>だから、少し見守っていてくれ。
 Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>フェリは悪霊へと、</span><br><span class='scene-font-katari'>ゆっくり一歩を踏み出す。</span>
 Japanese,scene_fate_chr242_ep1,detail,フェリ,なぁ……<br>お前の名前を、<br>私に教えてくれないか？
@@ -98,7 +98,7 @@ Japanese,scene_fate_chr242_ep1,detail,悪霊,…………
 Japanese,scene_fate_chr242_ep1,detail,フェリ,これからは私がお前の名を呼び、<br>お前と共に居よう……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,だから、受け取ってくれないか？<br>この名前を……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,いま、この時から、<br>お前の名は……
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>廃墟に平穏を取り戻した</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>フェリの希望で街へと立ち寄る。</span>
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>廃墟に平穏を取り戻した</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>フェリの希望で街へと立ち寄る。</span>
 Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>街の仕立て屋へと足を運んだフェリは、</span><br><span class='scene-font-katari'>新たな装いで、</span><br><span class='scene-font-katari'>はにかみながら一行の前に歩み出る。</span>
 Japanese,scene_fate_chr242_ep1,detail,フェリ,ど、どうだろうか……？<br>変じゃない……よな？
 Japanese,scene_fate_chr242_ep1,detail,ルリア,大丈夫です！<br>フェリちゃん、<br>とっても似合ってます！
@@ -108,12 +108,12 @@ Japanese,scene_fate_chr242_ep1,detail,フェリ,両親が選んでくれた服�
 Japanese,scene_fate_chr242_ep1,detail,フェリ,島を出て、<br>私もずいぶん変わったからな。<br>成長したことを何か形にしたかったんだ。
 Japanese,scene_fate_chr242_ep1,sel1_txt,,<span class='scene-font-katari'>可愛い</span>
 Japanese,scene_fate_chr242_ep1,sel2_txt,,<span class='scene-font-katari'>大きくなったね……</span>
-Japanese,scene_fate_chr242_ep1,detail,フェリ,そ、そうか……<br>ありがとう、[ジータ]……
-Japanese,scene_fate_chr242_ep1,detail,フェリ,やっぱりこう……[ジータ]から、<br>そうストレートに言われると、<br>なんだか照れてしまうな……
+Japanese,scene_fate_chr242_ep1,detail,フェリ,そ、そうか……<br>ありがとう、[플레이어]……
+Japanese,scene_fate_chr242_ep1,detail,フェリ,やっぱりこう……[플레이어]から、<br>そうストレートに言われると、<br>なんだか照れてしまうな……
 Japanese,scene_fate_chr242_ep1,detail,フェリ,い、いや、<br>その反応は何かおかしくないか！？
-Japanese,scene_fate_chr242_ep1,detail,ビィ,へへっ……<br>こいつが必要か？<br>[ジータ]……
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>そう言って渡された</span><br><span class='scene-font-katari'>ハンカチを受け取り、</span><br><span class='scene-font-katari'>[ジータ]は目じりの涙をぬぐう。</span>
-Japanese,scene_fate_chr242_ep1,detail,フェリ,え、えっと……<br>とにかく[ジータ]は、<br>喜んでくれてる……のか？
+Japanese,scene_fate_chr242_ep1,detail,ビィ,へへっ……<br>こいつが必要か？<br>[플레이어]……
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>そう言って渡された</span><br><span class='scene-font-katari'>ハンカチを受け取り、</span><br><span class='scene-font-katari'>[플레이어]は目じりの涙をぬぐう。</span>
+Japanese,scene_fate_chr242_ep1,detail,フェリ,え、えっと……<br>とにかく[플레이어]は、<br>喜んでくれてる……のか？
 Japanese,scene_fate_chr242_ep1,detail,ビィ,さぁって！<br>それじゃあ、依頼も片付いたことだし、<br>そろそろ艇に戻ろうぜ！
 Japanese,scene_fate_chr242_ep1,detail,ルリア,そうですね！<br>戻りがけに、<br>色々買わなきゃいけない物もありますし。
 Japanese,scene_fate_chr242_ep1,detail,フェリ,そうだな……<br>それじゃあ、行こうか。
@@ -131,9 +131,9 @@ Japanese,scene_fate_chr242_ep1,detail,ルリア,はわっ！？ だ、大丈夫�
 Japanese,scene_fate_chr242_ep1,detail,モモ,ガウッ！
 Japanese,scene_fate_chr242_ep1,detail,ビィ,とにかくこれでもう、<br>あの廃墟に悪霊は出ないんだから、<br>依頼は達成ってことでいいよな？
 Japanese,scene_fate_chr242_ep1,detail,フェリ,ああ……<br>彼はもう二度と、<br>悪霊になどなったりしないさ……
-Japanese,scene_fate_chr242_ep1,detail,フェリ,いまの彼には私が……私達が居る。<br>ちょうど……<br>私に[ジータ]達が居るようにな。
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>そう言ってフェリは、</span><br><span class='scene-font-katari'>[ジータ]の手を取る。</span>
-Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>少し変わった新たな仲間を加えながら、</span><br><span class='scene-font-katari'>[ジータ]一行の旅は、</span><br><span class='scene-font-katari'>今日も続いていくのだった。</span>
+Japanese,scene_fate_chr242_ep1,detail,フェリ,いまの彼には私が……私達が居る。<br>ちょうど……<br>私に[플레이어]達が居るようにな。
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>そう言ってフェリは、</span><br><span class='scene-font-katari'>[플레이어]の手を取る。</span>
+Japanese,scene_fate_chr242_ep1,detail,,<span class='scene-font-katari'>少し変わった新たな仲間を加えながら、</span><br><span class='scene-font-katari'>[플레이어]一行の旅は、</span><br><span class='scene-font-katari'>今日も続いていくのだった。</span>
 Japanese,scene_chr242_q1_s10,synopsis,,フェリに名を与えられて以来、旅について来ていた幽霊のモモであったが、すぐには仲間の幽霊達と馴染むことができなかった。そんな時、捕縛依頼を受けていた盗賊が現れる。これを好機とみたフェリは、実力を示し他の幽霊達に認めてもらうきっかけにしようと、モモを激励する。
 Japanese,scene_chr242_q1_s10,detail,,<span class='scene-font-katari'>よく陽のあたる穏やかな森で、</span><br><span class='scene-font-katari'>フェリの連れる幽霊達は、</span><br><span class='scene-font-katari'>元気に跳ねまわっていた</span>
 Japanese,scene_chr242_q1_s10,detail,モモ,ガウッ！
@@ -160,7 +160,7 @@ Japanese,scene_chr242_q1_s10,detail,ジジ,――――
 Japanese,scene_chr242_q1_s10,detail,フェリ,でも……彼らが居てくれたおかげで、<br>私は私の名前を失っても、<br>自分自身で居られたのかもしれない。
 Japanese,scene_chr242_q1_s10,detail,フェリ,そういうわけで……<br>私達は皆、<br>似た者同士なんだ。
 Japanese,scene_chr242_q1_s10,detail,ルリア,似た者同士っていうのは、<br>そういうことだったんですね……
-Japanese,scene_chr242_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>フェリの幽霊達と戯れながら、</span><br><span class='scene-font-katari'>森を進んでいく。</span>
+Japanese,scene_chr242_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>フェリの幽霊達と戯れながら、</span><br><span class='scene-font-katari'>森を進んでいく。</span>
 Japanese,scene_chr242_q1_s10,detail,,<span class='scene-font-katari'>この森には最近になって、</span><br><span class='scene-font-katari'>盗賊が出没するようになり、</span><br><span class='scene-font-katari'>一行は捕縛依頼を受けていたのだった。</span>
 Japanese,scene_chr242_q1_s10,detail,フェリ,しかし、静かな森だな……<br>こんな森に盗賊が出るなんて、<br>嘘みたいだ……
 Japanese,scene_chr242_q1_s10,detail,ビィ,うーん……<br>まぁ、襲われたっていう研究者って奴も、<br>物を盗まれただけみてーだし……
@@ -174,7 +174,7 @@ Japanese,scene_chr242_q1_s10,detail,フェリ,それに私達を待ち構えて�
 Japanese,scene_chr242_q1_s10,detail,フェリ,ただ……これはチャンスだぞ、モモ。<br>ここで良いところを見せて、<br>ベッポ達に認めてもらおうじゃないか！
 Japanese,scene_chr242_q1_s10,detail,モモ,ガウッ！！
 English,scene_fate_chr242_ep1,synopsis,,"Ferry has learned to understand the words of ghosts since she joined the crew, and she now enjoys talking to them. The crew goes to rid some ruins of an evil spirit, but Ferry restores it to its original form by naming it Momo, and Momo joins her on her journey."
-English,scene_fate_chr242_ep1,detail,,[Djeeta] and the crew have taken a request and are now in a town bustling with people.
+English,scene_fate_chr242_ep1,detail,,[플레이어] and the crew have taken a request and are now in a town bustling with people.
 English,scene_fate_chr242_ep1,detail,,"Ferry watches women go by, her head slightly tilted as if she's lost in thought."
 English,scene_fate_chr242_ep1,detail,Ferry,"That outfit isn't too bad, but I think I'd prefer something easier to move around in."
 English,scene_fate_chr242_ep1,detail,Ferry,And her clothing... I'm not quite ready for anything like that yet.
@@ -192,7 +192,7 @@ English,scene_fate_chr242_ep1,detail,Ferry,Huh? I do in fact. Though I didn't at
 English,scene_fate_chr242_ep1,detail,Ferry,"I met them after we all became ghosts, you see."
 English,scene_fate_chr242_ep1,detail,Ferry,"When I lived on the island, I could only understand them about as well as anyone understands an animal."
 English,scene_fate_chr242_ep1,detail,Beppo,...!
-English,scene_fate_chr242_ep1,detail,Ferry,Hehe. That's right. Everything changed after I started traveling with [Djeeta].
+English,scene_fate_chr242_ep1,detail,Ferry,Hehe. That's right. Everything changed after I started traveling with [플레이어].
 English,scene_fate_chr242_ep1,detail,Ferry,I gradually learned to understand what they're saying.
 English,scene_fate_chr242_ep1,detail,Ferry,"It's a little hard to explain. They don't make any sounds, but I can perceive their voices as words."
 English,scene_fate_chr242_ep1,detail,Geegee,...
@@ -217,20 +217,20 @@ English,scene_fate_chr242_ep1,detail,Ferry,"Huh? No, I'm sure I heard something.
 English,scene_fate_chr242_ep1,detail,Fugee & Nicola,...!
 English,scene_fate_chr242_ep1,detail,Ferry,Of course you did. It came from the ruins. Something in there is saying it's lonely.
 English,scene_fate_chr242_ep1,detail,Lyria,Eek! Wh-what could it be?
-English,scene_fate_chr242_ep1,detail,Vyrn,"Hmm... I didn't hear any voices. You didn't either, right, [Djeeta]?"
+English,scene_fate_chr242_ep1,detail,Vyrn,"Hmm... I didn't hear any voices. You didn't either, right, [플레이어]?"
 English,scene_fate_chr242_ep1,detail,Ferry,So it's just us who heard it?
 English,scene_fate_chr242_ep1,detail,Geegee,...
 English,scene_fate_chr242_ep1,detail,Ferry,"I see. A voice only we ghosts can hear, huh?"
-English,scene_fate_chr242_ep1,detail,,"Ferry tilts her head slightly as she heads into the lair of the evil spirit, [Djeeta] and the others in tow."
+English,scene_fate_chr242_ep1,detail,,"Ferry tilts her head slightly as she heads into the lair of the evil spirit, [플레이어] and the others in tow."
 English,scene_fate_chr242_ep1,detail,,The sound of creaking floorboards greets the intrepid crew members as they head into the shadowy building to bust the fiendish spirit.
 English,scene_fate_chr242_ep1,detail,Vyrn,Yikes. And I thought this place was ugly on the outside...
 English,scene_fate_chr242_ep1,detail,Lyria,I-it's so scary! Everything and its shadow looks like it has something hidden in it—even that curtain!
-English,scene_fate_chr242_ep1,detail,Ferry,"You'll be okay. If anything pops out, [Djeeta] and I will—"
+English,scene_fate_chr242_ep1,detail,Ferry,"You'll be okay. If anything pops out, [플레이어] and I will—"
 English,scene_fate_chr242_ep1,detail,Evil Spirit,Groar!
 English,scene_fate_chr242_ep1,detail,Lyria,Eek!
-English,scene_fate_chr242_ep1,detail,Vyrn,"There's our boogeyman! Get it, [Djeeta]!"
+English,scene_fate_chr242_ep1,detail,Vyrn,"There's our boogeyman! Get it, [플레이어]!"
 English,scene_fate_chr242_ep1,detail,Ferry,...!<br>No! Wait!
-English,scene_fate_chr242_ep1,detail,,Ferry senses something and reaches out a hand to stop [Djeeta].
+English,scene_fate_chr242_ep1,detail,,Ferry senses something and reaches out a hand to stop [플레이어].
 English,scene_fate_chr242_ep1,detail,Evil Spirit,Grrr...
 English,scene_fate_chr242_ep1,detail,Lyria,What's the matter?
 English,scene_fate_chr242_ep1,detail,Ferry,It's him.
@@ -249,13 +249,13 @@ English,scene_fate_chr242_ep1,detail,Lyria,"Does, um, it have a name?"
 English,scene_fate_chr242_ep1,detail,Ferry,"He does. Since he's a ghost like me, he must have had a name when he was alive."
 English,scene_fate_chr242_ep1,detail,Lyria,Hmm... The request just calls him an evil spirit. No other name here.
 English,scene_fate_chr242_ep1,detail,Ferry,Is that so...
-English,scene_fate_chr242_ep1,detail,,Ferry resolutely turns to look at [Djeeta].
-English,scene_fate_chr242_ep1,detail,Ferry,"Hey, [Djeeta]. Can you leave this one to me? I think I have an idea."
+English,scene_fate_chr242_ep1,detail,,Ferry resolutely turns to look at [플레이어].
+English,scene_fate_chr242_ep1,detail,Ferry,"Hey, [플레이어]. Can you leave this one to me? I think I have an idea."
 English,scene_fate_chr242_ep1,sel1_txt,,Of course.
 English,scene_fate_chr242_ep1,sel2_txt,,Are you sure it's okay?
 English,scene_fate_chr242_ep1,detail,Ferry,Hehe. That was a quick reply. I'm glad you trust me.
 English,scene_fate_chr242_ep1,detail,Ferry,"Thank you. I won't fail you, so just watch for a bit."
-English,scene_fate_chr242_ep1,detail,Ferry,"Hehe. Are you worried about me? [Djeeta], you're so sweet."
+English,scene_fate_chr242_ep1,detail,Ferry,"Hehe. Are you worried about me? [플레이어], you're so sweet."
 English,scene_fate_chr242_ep1,detail,Ferry,"But it's fine. I'm not going to do anything dangerous, so just watch for a bit."
 English,scene_fate_chr242_ep1,detail,,Ferry slowly takes a step toward the evil spirit.
 English,scene_fate_chr242_ep1,detail,Ferry,"Hey, can you tell me your name?"
@@ -272,7 +272,7 @@ English,scene_fate_chr242_ep1,detail,Evil Spirit,...
 English,scene_fate_chr242_ep1,detail,Ferry,"From this point on, I will call you by your name, and I'll always be with you."
 English,scene_fate_chr242_ep1,detail,Ferry,So please accept this gift.
 English,scene_fate_chr242_ep1,detail,Ferry,From now on your name will be...
-English,scene_fate_chr242_ep1,detail,,"Peace returns to the ruins, and [Djeeta] and the crew stop by the town at Ferry's request."
+English,scene_fate_chr242_ep1,detail,,"Peace returns to the ruins, and [플레이어] and the crew stop by the town at Ferry's request."
 English,scene_fate_chr242_ep1,detail,,"Ferry, who wanted to visit the town's tailor, shyly steps out in front of the crew wearing a new outfit."
 English,scene_fate_chr242_ep1,detail,Ferry,"What do you think? It looks okay, right?"
 English,scene_fate_chr242_ep1,detail,Lyria,"Better than okay! It really suits you, Ferry!"
@@ -282,11 +282,11 @@ English,scene_fate_chr242_ep1,detail,Ferry,"Those clothes are obviously still im
 English,scene_fate_chr242_ep1,detail,Ferry,I've changed a lot since I left. I wanted something a bit more grown-up.
 English,scene_fate_chr242_ep1,sel1_txt,,It's very cute.
 English,scene_fate_chr242_ep1,sel2_txt,,"Yeah, you're all grown-up all right."
-English,scene_fate_chr242_ep1,detail,Ferry,"You think so? Thank you, [Djeeta]."
+English,scene_fate_chr242_ep1,detail,Ferry,"You think so? Thank you, [플레이어]."
 English,scene_fate_chr242_ep1,detail,Ferry,Though it <span class='scene-font-italic'>is</span> a little embarrassing when you're all direct like that.
 English,scene_fate_chr242_ep1,detail,Ferry,Hey. That's not a very captain-like response!
-English,scene_fate_chr242_ep1,detail,Vyrn,"Was that really necessary, [Djeeta]?"
-English,scene_fate_chr242_ep1,detail,,[Djeeta] gives a mischievous grin in response.
+English,scene_fate_chr242_ep1,detail,Vyrn,"Was that really necessary, [플레이어]?"
+English,scene_fate_chr242_ep1,detail,,[플레이어] gives a mischievous grin in response.
 English,scene_fate_chr242_ep1,detail,Ferry,Um... So I guess you at least don't mind my new outfit...
 English,scene_fate_chr242_ep1,detail,Vyrn,"Anyway! Now that we're done here, let's get back to the airship."
 English,scene_fate_chr242_ep1,detail,Lyria,Yeah! We have a bunch of stuff to pick up on the way back after all.
@@ -305,9 +305,9 @@ English,scene_fate_chr242_ep1,detail,Lyria,"Hah! Fair enough. Okay, Momo! You're
 English,scene_fate_chr242_ep1,detail,Momo,Rawr!
 English,scene_fate_chr242_ep1,detail,Vyrn,"Well, there ain't anymore evil spirits in the ruins, so that's a job well done!"
 English,scene_fate_chr242_ep1,detail,Ferry,Yes. And now Momo will never degenerate back into an evil form again.
-English,scene_fate_chr242_ep1,detail,Ferry,"After all, he has us now. Just like I have [Djeeta] and the rest of you."
-English,scene_fate_chr242_ep1,detail,,Ferry takes [Djeeta]'s hand and smiles.
-English,scene_fate_chr242_ep1,detail,,"Having made a new friend, albeit a slightly strange one, [Djeeta] and the crew continue their journey with yet another member aboard the Grandcypher."
+English,scene_fate_chr242_ep1,detail,Ferry,"After all, he has us now. Just like I have [플레이어] and the rest of you."
+English,scene_fate_chr242_ep1,detail,,Ferry takes [플레이어]'s hand and smiles.
+English,scene_fate_chr242_ep1,detail,,"Having made a new friend, albeit a slightly strange one, [플레이어] and the crew continue their journey with yet another member aboard the Grandcypher."
 English,scene_chr242_q1_s10,synopsis,,"Momo has trouble getting along with Ferry's other ghost pets. When Ferry and the crew find the thieves they've been asked to catch, Ferry encourages Momo to show the other ghosts what he can do to gain their acceptance."
 English,scene_chr242_q1_s10,detail,,Ferry's ghost pets are frolicking in an especially cheery patch of forest.
 English,scene_chr242_q1_s10,detail,Momo,Rawr!
@@ -334,7 +334,7 @@ English,scene_chr242_q1_s10,detail,Geegee,...
 English,scene_chr242_q1_s10,detail,Ferry,"But because they were there for me, even though I couldn't remember my name, I rediscovered myself."
 English,scene_chr242_q1_s10,detail,Ferry,We all have that in common. That's what I meant by birds of a feather.
 English,scene_chr242_q1_s10,detail,Lyria,"Oh, I get it now."
-English,scene_chr242_q1_s10,detail,,"[Djeeta] and the crew advance through the forest, occasionally stopping to play with Ferry's ghost pets."
+English,scene_chr242_q1_s10,detail,,"[플레이어] and the crew advance through the forest, occasionally stopping to play with Ferry's ghost pets."
 English,scene_chr242_q1_s10,detail,,"Thieves have recently been spotted in the forest, so the crew has taken a request to apprehend them."
 English,scene_chr242_q1_s10,detail,Ferry,What a peaceful forest. It's hard to believe there are thieves around here.
 English,scene_chr242_q1_s10,detail,Vyrn,"You know, they attacked that researcher, but they only took his stuff."

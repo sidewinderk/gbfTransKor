@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp55_q1_s10,5511",synopsis,,[ジータ]達は、エルステ帝国の息の根を止めてほしいという大将アダムの真意を問う。アダムはエルステがまだ王国と呼ばれていた幸福な時代を振り返り、今の帝国が魔晶のせいで怪物に変わりつつあることを嘆く。[ジータ]達はそれぞれの思惑からアダムの願いを聞き入れ、帝都へ侵入することを決意する。
-Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>エルステ帝国軍大将アダムより、</span><br><span class='scene-font-katari'>エルステの息の根を止めてほしい、</span><br><span class='scene-font-katari'>と告げられる[ジータ]一行。</span>
-Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>しかし、その突然の申し出に、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>状況が飲み込めないでいた。</span>
+Japanese,"scene_cp55_q1_s10,5511",synopsis,,[플레이어]達は、エルステ帝国の息の根を止めてほしいという大将アダムの真意を問う。アダムはエルステがまだ王国と呼ばれていた幸福な時代を振り返り、今の帝国が魔晶のせいで怪物に変わりつつあることを嘆く。[플레이어]達はそれぞれの思惑からアダムの願いを聞き入れ、帝都へ侵入することを決意する。
+Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>エルステ帝国軍大将アダムより、</span><br><span class='scene-font-katari'>エルステの息の根を止めてほしい、</span><br><span class='scene-font-katari'>と告げられる[플레이어]一行。</span>
+Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>しかし、その突然の申し出に、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>状況が飲み込めないでいた。</span>
 Japanese,"scene_cp55_q1_s10,5511",detail,오이겐,おいおいおいおい……<br>またずいぶんと、とんでもないお願いを<br>してくれるじゃねぇか……
 Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,まったく状況が掴めないな……<br>貴様、何が目的だ？
 Japanese,"scene_cp55_q1_s10,5511",detail,이오,エルステの息の根を止めるって……<br>あの自分で皇帝とか言ってた<br>ロキって奴を倒せばいいってこと？
@@ -30,7 +30,7 @@ Japanese,"scene_cp55_q1_s10,5511",detail,오이겐,エルステがおかしな�
 Japanese,"scene_cp55_q1_s10,5511",detail,오이겐,こうもハッキリ……<br>それもエルステのお偉いさん自身から、<br>潰してくれと言われるたぁな……
 Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,アダム……<br>貴様の考えていることはわかったが……
 Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,何故それを我々が成さねばならん？<br>悪いが私はいま、<br>自分のことだけで手一杯でな。
-Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,ましてや、[ジータ]達にしても、<br>わざわざエルステのために<br>動いてやる理由などないだろう？
+Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,ましてや、[플레이어]達にしても、<br>わざわざエルステのために<br>動いてやる理由などないだろう？
 Japanese,"scene_cp55_q1_s10,5511",detail,비이,いやまぁ……確かに、<br>エルステが無くなればそれで、<br>追われることもなくなるわけだしな……
 Japanese,"scene_cp55_q1_s10,5511",detail,アダム,ではもし……<br>いまのエルステと相対することで、<br>貴方の望むものが手に入るとすれば……
 Japanese,"scene_cp55_q1_s10,5511",detail,アダム,オルキス王女殿下を<br>復活させる方法があるとすれば<br>……如何ですか？
@@ -48,17 +48,17 @@ Japanese,"scene_cp55_q1_s10,5511",detail,스츠룸,賛成だ……<br>罠なら�
 Japanese,"scene_cp55_q1_s10,5511",detail,오이겐,危ねぇ道ではあるが、<br>最初っから、<br>安全な道でもねぇしなぁ……
 Japanese,"scene_cp55_q1_s10,5511",detail,이오,あたし……<br>あの人の言ってる事にも、<br>ちょっとだけ興味あるのよね……
 Japanese,"scene_cp55_q1_s10,5511",detail,루리아,わからないことは多いけど……<br>あの人が困ってるのは、<br>本当だと思います……
-Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,ならば決まりだな……<br>[ジータ]もそれで、<br>構わないな？
+Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,ならば決まりだな……<br>[플레이어]もそれで、<br>構わないな？
 Japanese,"scene_cp55_q1_s10,5511",sel1_txt,,<span class='scene-font-katari'>もちろん</span>
 Japanese,"scene_cp55_q1_s10,5511",sel2_txt,,<span class='scene-font-katari'>ちょっと怖い……</span>
 Japanese,"scene_cp55_q1_s10,5511",detail,흑기사,ふん……<br>貴様は相変わらず、<br>肝の座った奴だ……
-Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>アダムの操舵する騎空艇に乗り込む。</span>
-Japanese,"scene_cp55_q1_s10,5511",detail,로제타,ふふ……なぁに？ いまさら……<br>[ジータ]はいままでもっと、<br>危険な状況を切り抜けてきたじゃない。
+Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>アダムの操舵する騎空艇に乗り込む。</span>
+Japanese,"scene_cp55_q1_s10,5511",detail,로제타,ふふ……なぁに？ いまさら……<br>[플레이어]はいままでもっと、<br>危険な状況を切り抜けてきたじゃない。
 Japanese,"scene_cp55_q1_s10,5511",detail,로제타,もっと自分を信じてあげないと……<br>頑張ってきた<br>いままでの貴方が可哀想よ？
-Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>アダムの操舵する騎空艇に乗り込む。</span>
+Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>アダムの操舵する騎空艇に乗り込む。</span>
 Japanese,"scene_cp55_q1_s10,5511",detail,,<span class='scene-font-katari'>こうして一行は思わぬ形で、</span><br><span class='scene-font-katari'>帝都への空を進むのだった。</span>
-Japanese,"scene_cp55_q1_s20,5512",synopsis,,行く手を遮る魔物達を蹴散らしながら、帝都へ向けて進行する[ジータ]一行。大将アダムの奮闘を目の当たりにした一行は、改めて彼の強さに舌を巻く。しかしアダムは、自分では星の民も魔晶も倒せない、強さや弱さではない別の問題があるのだと語る。
-Japanese,"scene_cp55_q1_s20,5512",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>大将アダムと共に、</span><br><span class='scene-font-katari'>帝都へと向け、</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の空を進む。</span>
+Japanese,"scene_cp55_q1_s20,5512",synopsis,,行く手を遮る魔物達を蹴散らしながら、帝都へ向けて進行する[플레이어]一行。大将アダムの奮闘を目の当たりにした一行は、改めて彼の強さに舌を巻く。しかしアダムは、自分では星の民も魔晶も倒せない、強さや弱さではない別の問題があるのだと語る。
+Japanese,"scene_cp55_q1_s20,5512",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>大将アダムと共に、</span><br><span class='scene-font-katari'>帝都へと向け、</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の空を進む。</span>
 Japanese,"scene_cp55_q1_s20,5512",detail,마물,<span class='scene-font-4'>グオオォォッ！！</span>
 Japanese,"scene_cp55_q1_s20,5512",detail,アダム,<span class='scene-font-4'>はぁぁっ！！</span>
 Japanese,"scene_cp55_q1_s20,5512",detail,마물,<span class='scene-font-4'>グオォォ……</span>
@@ -75,9 +75,9 @@ Japanese,"scene_cp55_q1_s20,5512",detail,アダム,私では星の民や、<br>�
 Japanese,"scene_cp55_q1_s20,5512",detail,アダム,強い、弱い、という問題ではなく、<br>そういうものなのです。
 Japanese,"scene_cp55_q1_s20,5512",detail,비이,ふぅ～ん……？<br>そんなもんなのか……？
 Japanese,"scene_cp55_q1_s20,5512",detail,アダム,はい。<br>それよりも、<br>再び魔物が接近しています。
-Japanese,"scene_cp55_q1_s20,5512",detail,アダム,[ジータ]、武器を構えてください。<br>迎撃します。
-Japanese,"scene_cp55_q2_s10,5521",synopsis,,大将アダムは[ジータ]一行を<span class='scene-font-place'>アガスティア</span>のある施設へ案内する。そこで彼は帝国が管理する星晶獣デウス・エクス・マキナについて語り始める。それはかつて、人の心をもつ完璧なゴーレムを作ろうとしたエルステに星の民から贈られたものであり、その星晶獣こそが全ての悲劇の原因となっていた。
-Japanese,"scene_cp55_q2_s10,5521",detail,,<span class='scene-font-katari'>大将アダムの誘導で、</span><br><span class='scene-font-katari'>エルステ帝国の帝都へと</span><br><span class='scene-font-katari'>足を踏み入れる[ジータ]一行。</span>
+Japanese,"scene_cp55_q1_s20,5512",detail,アダム,[플레이어]、武器を構えてください。<br>迎撃します。
+Japanese,"scene_cp55_q2_s10,5521",synopsis,,大将アダムは[플레이어]一行を<span class='scene-font-place'>アガスティア</span>のある施設へ案内する。そこで彼は帝国が管理する星晶獣デウス・エクス・マキナについて語り始める。それはかつて、人の心をもつ完璧なゴーレムを作ろうとしたエルステに星の民から贈られたものであり、その星晶獣こそが全ての悲劇の原因となっていた。
+Japanese,"scene_cp55_q2_s10,5521",detail,,<span class='scene-font-katari'>大将アダムの誘導で、</span><br><span class='scene-font-katari'>エルステ帝国の帝都へと</span><br><span class='scene-font-katari'>足を踏み入れる[플레이어]一行。</span>
 Japanese,"scene_cp55_q2_s10,5521",detail,,<span class='scene-font-katari'>そのままアダムは一行を、</span><br><span class='scene-font-katari'>とある隠された施設へと</span><br><span class='scene-font-katari'>案内するのだった。</span>
 Japanese,"scene_cp55_q2_s10,5521",detail,이오,ここは……なに？<br>いっぱい人が寝てるけど……
 Japanese,"scene_cp55_q2_s10,5521",detail,アダム,いいえ。<br>彼らは眠っているわけではありません。
@@ -129,7 +129,7 @@ Japanese,"scene_cp55_q2_s10,5521",detail,アダム,結果、<br>星晶獣デウ�
 Japanese,"scene_cp55_q2_s10,5521",detail,アダム,唯一生き残ったオルキス王女殿下も、<br>その身体から、<br>精神を抜き取られてしまった。
 Japanese,"scene_cp55_q2_s10,5521",detail,루리아,それで……<br>オルキスちゃんは……
 Japanese,"scene_cp55_q2_s10,5521",detail,アダム,これが……<br>始まりの悲劇の真実……<br>全ての禍根の正体です。
-Japanese,"scene_cp55_q3_s20,5531",synopsis,,大将アダムは星晶獣デウス・エクス・マキナによって、オルキスの心は抜き出されてしまったのだと語る。[ジータ]達の目の前に横たわる人々は宰相フリーシアの計画によってオルキスと同じく心を抜き出されてしまった犠牲者達だった。彼女の計画には最終的に帝都全住人の犠牲が必要だと知り、一行は愕然とする。
+Japanese,"scene_cp55_q3_s20,5531",synopsis,,大将アダムは星晶獣デウス・エクス・マキナによって、オルキスの心は抜き出されてしまったのだと語る。[플레이어]達の目の前に横たわる人々は宰相フリーシアの計画によってオルキスと同じく心を抜き出されてしまった犠牲者達だった。彼女の計画には最終的に帝都全住人の犠牲が必要だと知り、一行は愕然とする。
 Japanese,"scene_cp55_q3_s20,5531",detail,흑기사,馬鹿な……<br>それが……あの事件の……<br>オルキスが人形になった真相だと……？
 Japanese,"scene_cp55_q3_s20,5531",detail,흑기사,じゃ、じゃあオルキスは……<br>オルキスは元に戻るのか……？
 Japanese,"scene_cp55_q3_s20,5531",detail,アダム,星晶獣デウス・エクス・マキナに、<br>精神を破壊する能力はありません。
@@ -175,7 +175,7 @@ Japanese,"scene_cp55_q3_s20,5531",detail,비이,うわわ！？<br>や、やば�
 Japanese,"scene_cp55_q3_s20,5531",detail,アダム,地下道に通じる裏口があります。<br>貴方達はそこから逃げてください。
 Japanese,"scene_cp55_q3_s20,5531",detail,흑기사,貴様はどうするつもりだ？<br>逃げないのか？
 Japanese,"scene_cp55_q3_s20,5531",detail,アダム,はい。<br>私は時間を稼ぎます。<br>それが最良と考えます。
-Japanese,"scene_cp55_q3_s20,5531",detail,흑기사,わかった……<br>行くぞ、[ジータ]。<br>もたもたしている暇はない。
+Japanese,"scene_cp55_q3_s20,5531",detail,흑기사,わかった……<br>行くぞ、[플레이어]。<br>もたもたしている暇はない。
 Japanese,"scene_cp55_q3_s20,5531",detail,이오,ちょ、ちょっと！<br>このままじゃ、あの人、<br>捕まっちゃうわよ！？
 Japanese,"scene_cp55_q3_s20,5531",detail,오이겐,んなこたぁ百も承知だろうよ。<br>いまのオレ達がすべきこたぁ、<br>あいつの心配じゃあねぇさ……
 Japanese,"scene_cp55_q3_s20,5531",detail,루리아,アダムさん……
@@ -187,9 +187,9 @@ Japanese,"scene_cp55_q3_s20,5531",detail,이오,ね、ねぇ！<br>それであ�
 Japanese,"scene_cp55_q3_s20,5531",detail,이오,あんな……<br>あんな大変なこと教えられて、<br>あたし達どうすればいいの！？
 Japanese,"scene_cp55_q3_s20,5531",detail,로제타,それはいま考えたって仕方がないわ。<br>それよりいまは、<br>目先の問題をなんとかしないと……
 Japanese,"scene_cp55_q3_s20,5531",detail,帝国兵２,はん……<br>貴様ら、<br>逃げ切れると思ったのか！？
-Japanese,"scene_cp55_q3_s20,5531",detail,로제타,数は多くないけど、<br>素通りはさせてくれなさそうよ……<br>構えなさい！ [ジータ]！
-Japanese,"scene_cp55_q4_s10,5541",synopsis,,大将アダムが帝国の追撃を食い止める内、[ジータ]一行は脱出に成功する。街へ出ると帝国民が、一行が敵であるとも知らず優しく接してくる。そんな彼らを犠牲にしようとする帝国宰相フリーシアの計画に一行は言葉を失う。
-Japanese,"scene_cp55_q4_s10,5541",detail,,<span class='scene-font-katari'>[ジータ]一行は帝国兵を退け、</span><br><span class='scene-font-katari'>地下道から市街地へと転がり出る。</span>
+Japanese,"scene_cp55_q3_s20,5531",detail,로제타,数は多くないけど、<br>素通りはさせてくれなさそうよ……<br>構えなさい！ [플레이어]！
+Japanese,"scene_cp55_q4_s10,5541",synopsis,,大将アダムが帝国の追撃を食い止める内、[플레이어]一行は脱出に成功する。街へ出ると帝国民が、一行が敵であるとも知らず優しく接してくる。そんな彼らを犠牲にしようとする帝国宰相フリーシアの計画に一行は言葉を失う。
+Japanese,"scene_cp55_q4_s10,5541",detail,,<span class='scene-font-katari'>[플레이어]一行は帝国兵を退け、</span><br><span class='scene-font-katari'>地下道から市街地へと転がり出る。</span>
 Japanese,"scene_cp55_q4_s10,5541",detail,루리아,はぁ……はぁ……
 Japanese,"scene_cp55_q4_s10,5541",detail,帝国の街人１,あら……？<br>貴方達、どうしたの？<br>そんなに息を切らせて……
 Japanese,"scene_cp55_q4_s10,5541",detail,루리아,え？ えと……
@@ -207,8 +207,8 @@ Japanese,"scene_cp55_q4_s10,5541",detail,오이겐,さっきの話が本当な�
 Japanese,"scene_cp55_q4_s10,5541",detail,이오,そんな……
 Japanese,"scene_cp55_q4_s10,5541",detail,제국병,おい待て！<br>貴様ら帝都の住人に何をするつもりだ！
 Japanese,"scene_cp55_q4_s10,5541",detail,흑기사,何をしようにも、<br>いまの我々では、<br>圧倒的に戦力不足だ……
-Japanese,"scene_cp55_q4_s10,5541",detail,흑기사,まずは騎空艇に戻って、<br>残っている連中と合流するぞ。<br>遅れるなよ！ [ジータ]！
-Japanese,"scene_cp55_q4_s20,5542",synopsis,,騎空艇に残った仲間と合流しようとする[ジータ]達を帝国の追撃が襲う。黒騎士はスツルムとドランクと共に残り、囮となって追撃を引きつけると申し出る。戸惑う[ジータ]達であったが、黒騎士には別の目的があり、一度一行から離れるのだと明かす。
+Japanese,"scene_cp55_q4_s10,5541",detail,흑기사,まずは騎空艇に戻って、<br>残っている連中と合流するぞ。<br>遅れるなよ！ [플레이어]！
+Japanese,"scene_cp55_q4_s20,5542",synopsis,,騎空艇に残った仲間と合流しようとする[플레이어]達を帝国の追撃が襲う。黒騎士はスツルムとドランクと共に残り、囮となって追撃を引きつけると申し出る。戸惑う[플레이어]達であったが、黒騎士には別の目的があり、一度一行から離れるのだと明かす。
 Japanese,"scene_cp55_q4_s20,5542",detail,帝国兵１,こっちだ！<br>向こうの路地に逃げたぞ！
 Japanese,"scene_cp55_q4_s20,5542",detail,帝国兵２,お前達は反対側から回り込め！<br>決して逃がすな！
 Japanese,"scene_cp55_q4_s20,5542",detail,오이겐,ぜぇ……はぁ……<br>ったく……この歳で追いかけっこは、<br>なかなか堪えるなぁ、おい……
@@ -236,16 +236,16 @@ Japanese,"scene_cp55_q4_s20,5542",detail,흑기사,貴様らお人好しこそ�
 Japanese,"scene_cp55_q4_s20,5542",detail,,<span class='scene-font-katari'>黒騎士はドランク、スツルムを伴い、</span><br><span class='scene-font-katari'>表通りの方へと駆け出していく。</span>
 Japanese,"scene_cp55_q4_s20,5542",detail,로제타,それじゃあ……<br>アタシ達も<br>足踏みしてるわけにはいかないわね。
 Japanese,"scene_cp55_q4_s20,5542",detail,비이,ああ……<br>色々面倒な話は聞いちまったけど、<br>そういうのは全部後回しだぜ！
-Japanese,"scene_cp55_q4_s20,5542",detail,이오,帝国兵なんか、<br>蹴散らしちゃうんだから！<br>準備はいい！？ [ジータ]！
-Japanese,"scene_cp55_q4_s30,5543",synopsis,,何とか追撃を振り切った[ジータ]一行は、<span class='scene-font-place'>アガスティア</span>の市街を駆け抜けていく。しかしその前には二つの影が立ち塞がろうとしていた。
+Japanese,"scene_cp55_q4_s20,5542",detail,이오,帝国兵なんか、<br>蹴散らしちゃうんだから！<br>準備はいい！？ [플레이어]！
+Japanese,"scene_cp55_q4_s30,5543",synopsis,,何とか追撃を振り切った[플레이어]一行は、<span class='scene-font-place'>アガスティア</span>の市街を駆け抜けていく。しかしその前には二つの影が立ち塞がろうとしていた。
 Japanese,"scene_cp55_q4_s30,5543",detail,오이겐,うしっ……<br>ひとまず帝国の連中は振り切ったか……
 Japanese,"scene_cp55_q4_s30,5543",detail,비이,んじゃ、このまま、<br>グランサイファーを目指そうぜ！<br>まずは仲間がいねーとな！
 Japanese,"scene_cp55_q4_s30,5543",detail,로제타,そうね……<br>でも、ここが帝都である以上、<br>追手はどんどん激しくなるわ……
-Japanese,"scene_cp55_q4_s30,5543",detail,로제타,市街地を抜けるまで、<br>用心して進みましょ、<br>[ジータ]……
-Japanese,"scene_cp55_q4_s30,5543",detail,,<span class='scene-font-katari'>黒騎士達と別れた[ジータ]一行は、</span><br><span class='scene-font-katari'>アガスティアの市街を駆ける。</span>
+Japanese,"scene_cp55_q4_s30,5543",detail,로제타,市街地を抜けるまで、<br>用心して進みましょ、<br>[플레이어]……
+Japanese,"scene_cp55_q4_s30,5543",detail,,<span class='scene-font-katari'>黒騎士達と別れた[플레이어]一行は、</span><br><span class='scene-font-katari'>アガスティアの市街を駆ける。</span>
 Japanese,"scene_cp55_q4_s30,5543",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>二つの影が一行の前に立ち塞がるべく、</span><br><span class='scene-font-katari'>動き始めているのだった。</span>
 English,"scene_cp55_q1_s10,5511",synopsis,,"General Adam laments that the Erste Empire has become corrupted due to the influence of dark essence. He offers to fly the crew to Agastia to show them something, which the crew accepts."
-English,"scene_cp55_q1_s10,5511",detail,,General Adam of the Erste Imperial Army has asked [Djeeta] and company to bring an end to the empire.
+English,"scene_cp55_q1_s10,5511",detail,,General Adam of the Erste Imperial Army has asked [플레이어] and company to bring an end to the empire.
 English,"scene_cp55_q1_s10,5511",detail,,"However, the skyfarers are having difficulty processing this sudden turn of events."
 English,"scene_cp55_q1_s10,5511",detail,Eugen,"Oy, oy, oy... Did I hear ya right? You're just gonna lay this on us like that?"
 English,"scene_cp55_q1_s10,5511",detail,Black Knight,I don't understand this at all. What are you trying to accomplish?
@@ -293,17 +293,17 @@ English,"scene_cp55_q1_s10,5511",detail,Sturm,"Agreed. If it's a trap, we'll dea
 English,"scene_cp55_q1_s10,5511",detail,Eugen,"It's risky, but we knew this was never gonna be smooth sailing from the get-go..."
 English,"scene_cp55_q1_s10,5511",detail,Io,I'm kinda curious to see what he's talking about too...
 English,"scene_cp55_q1_s10,5511",detail,Lyria,"There's still a lot we don't understand, but I really believe that he's troubled by something."
-English,"scene_cp55_q1_s10,5511",detail,Black Knight,"Then it sounds like we've come to a decision. I trust you have no problems with that, [Djeeta]?"
+English,"scene_cp55_q1_s10,5511",detail,Black Knight,"Then it sounds like we've come to a decision. I trust you have no problems with that, [플레이어]?"
 English,"scene_cp55_q1_s10,5511",sel1_txt,,Of course!
 English,"scene_cp55_q1_s10,5511",sel2_txt,,I'm a little scared...
 English,"scene_cp55_q1_s10,5511",detail,Black Knight,Humph. Putting on a brave face as always.
-English,"scene_cp55_q1_s10,5511",detail,,[Djeeta] and company board Adam's airship.
+English,"scene_cp55_q1_s10,5511",detail,,[플레이어] and company board Adam's airship.
 English,"scene_cp55_q1_s10,5511",detail,Rosetta,"Heehee. What's all this now? You've fought through worse before, haven't you?"
 English,"scene_cp55_q1_s10,5511",detail,Rosetta,Have more faith in yourself. Otherwise it'd be a shame considering all the work you've done to get here.
-English,"scene_cp55_q1_s10,5511",detail,,[Djeeta] and company board Adam's airship.
+English,"scene_cp55_q1_s10,5511",detail,,[플레이어] and company board Adam's airship.
 English,"scene_cp55_q1_s10,5511",detail,,"Although they're on the fast track to Agastia, it comes in a way no one had expected."
 English,"scene_cp55_q1_s20,5512",synopsis,,"Adam puts his power on display by defeating monsters along the way to the capital. Unfortunately, he says that he's powerless against Astrals and dark essence without elaborating further."
-English,"scene_cp55_q1_s20,5512",detail,,"[Djeeta]'s team, along with General Adam, continue to Agastia."
+English,"scene_cp55_q1_s20,5512",detail,,"[플레이어]'s team, along with General Adam, continue to Agastia."
 English,"scene_cp55_q1_s20,5512",detail,Monster,Grooar!
 English,"scene_cp55_q1_s20,5512",detail,Adam,Haaah!
 English,"scene_cp55_q1_s20,5512",detail,Monster,Graow...
@@ -320,9 +320,9 @@ English,"scene_cp55_q1_s20,5512",detail,Adam,I am powerless against the Astrals 
 English,"scene_cp55_q1_s20,5512",detail,Adam,It's not a question of being strong or weak. That's just the way it is.
 English,"scene_cp55_q1_s20,5512",detail,Vyrn,"Hmm... That's how it is, huh?"
 English,"scene_cp55_q1_s20,5512",detail,Adam,"Yes. In any case, more monsters are closing in."
-English,"scene_cp55_q1_s20,5512",detail,Adam,"[Djeeta], draw your weapon. We will intercept them."
+English,"scene_cp55_q1_s20,5512",detail,Adam,"[플레이어], draw your weapon. We will intercept them."
 English,"scene_cp55_q2_s10,5521",synopsis,,"General Adam shows the crew a secret facility and tells the history of the primal beast Deus Ex Machina. This primal beast, under the control of the empire, is the source of everyone's troubles."
-English,"scene_cp55_q2_s10,5521",detail,,[Djeeta]'s team steps foot into the capital of the Erste Empire led by General Adam.
+English,"scene_cp55_q2_s10,5521",detail,,[플레이어]'s team steps foot into the capital of the Erste Empire led by General Adam.
 English,"scene_cp55_q2_s10,5521",detail,,He takes them to a hidden facility.
 English,"scene_cp55_q2_s10,5521",detail,Io,What is this place? It's full of sleeping people...
 English,"scene_cp55_q2_s10,5521",detail,Adam,No. These people are not sleeping.
@@ -420,11 +420,11 @@ English,"scene_cp55_q3_s20,5531",detail,Vyrn,Uh-oh! We're gonna get arrested if 
 English,"scene_cp55_q3_s20,5531",detail,Adam,There is a rear exit leading to the underground tunnels. Please use it to escape.
 English,"scene_cp55_q3_s20,5531",detail,Black Knight,What are you going to do? You won't escape with us?
 English,"scene_cp55_q3_s20,5531",detail,Adam,Correct. I will buy you some time. That's the best option I can come up with.
-English,"scene_cp55_q3_s20,5531",detail,Black Knight,"Understood...<br>Let's go, [Djeeta]. Now is not the time to drag our feet."
+English,"scene_cp55_q3_s20,5531",detail,Black Knight,"Understood...<br>Let's go, [플레이어]. Now is not the time to drag our feet."
 English,"scene_cp55_q3_s20,5531",detail,Io,We can't leave him like this! He's gonna get arrested!
 English,"scene_cp55_q3_s20,5531",detail,Eugen,He knows what he's getting into. It ain't our job to be worryin' 'bout him right now.
 English,"scene_cp55_q3_s20,5531",detail,Lyria,Adam...
-English,"scene_cp55_q3_s20,5531",detail,,[Djeeta] and the others entrust the rear to Adam and run for the underground tunnels.
+English,"scene_cp55_q3_s20,5531",detail,,[플레이어] and the others entrust the rear to Adam and run for the underground tunnels.
 English,"scene_cp55_q3_s20,5531",detail,Adam,There is absolutely no reason to be worried about me.
 English,"scene_cp55_q3_s20,5531",detail,Adam,I gladly sacrifice myself in the name of protecting Erste's dignity. That is the greatest honor afforded to a failed creation like me.
 English,"scene_cp55_q3_s20,5531",detail,Adam,"Here I will fall, reduced to nothing. But in doing so, Erste will be reborn."
@@ -432,9 +432,9 @@ English,"scene_cp55_q3_s20,5531",detail,Io,Guys? What're we supposed to do now?
 English,"scene_cp55_q3_s20,5531",detail,Io,"We learned some ridiculous stuff back there, so what should we do about it?"
 English,"scene_cp55_q3_s20,5531",detail,Rosetta,"All we can do is regroup and think. But before that, there's just a little problem in front of us..."
 English,"scene_cp55_q3_s20,5531",detail,Imperial Soldier 2,"Hah. Thought you could get away from us, huh!"
-English,"scene_cp55_q3_s20,5531",detail,Rosetta,"There aren't too many of them, but I doubt we can slip on by. Prepare yourself, [Djeeta]!"
-English,"scene_cp55_q4_s10,5541",synopsis,,"[Djeeta] and company escape into the streets of the capital, where they encounter kind citizens of the empire. Remembering Freesia's plan to sacrifice all of these ordinary people leaves the crew speechless."
-English,"scene_cp55_q4_s10,5541",detail,,[Djeeta] and the others defeat the imperial soldiers preventing their escape and climb out of the tunnels into the city.
+English,"scene_cp55_q3_s20,5531",detail,Rosetta,"There aren't too many of them, but I doubt we can slip on by. Prepare yourself, [플레이어]!"
+English,"scene_cp55_q4_s10,5541",synopsis,,"[플레이어] and company escape into the streets of the capital, where they encounter kind citizens of the empire. Remembering Freesia's plan to sacrifice all of these ordinary people leaves the crew speechless."
+English,"scene_cp55_q4_s10,5541",detail,,[플레이어] and the others defeat the imperial soldiers preventing their escape and climb out of the tunnels into the city.
 English,"scene_cp55_q4_s10,5541",detail,Lyria,Huff... Huff...
 English,"scene_cp55_q4_s10,5541",detail,Imperial Citizen 1,Hello there. Are you okay? You seem out of breath...
 English,"scene_cp55_q4_s10,5541",detail,Lyria,Huh? Um...
@@ -452,8 +452,8 @@ English,"scene_cp55_q4_s10,5541",detail,Eugen,"If everything we've heard is true
 English,"scene_cp55_q4_s10,5541",detail,Io,Oh no...
 English,"scene_cp55_q4_s10,5541",detail,Imperial Soldier,Stop! What do you people think you're doing to our citizens?
 English,"scene_cp55_q4_s10,5541",detail,Black Knight,It doesn't matter what we try to do right now. We don't have enough manpower.
-English,"scene_cp55_q4_s10,5541",detail,Black Knight,"Let's regroup with the others back on the Grandcypher. Move out, [Djeeta]!"
-English,"scene_cp55_q4_s20,5542",synopsis,,"Imperial soldiers chase after [Djeeta]'s team, who are trying to regroup with the rest of the crew members on the Grandcypher. The Black Knight, Sturm, and Drang split off to act as decoys and to take care of a different task."
+English,"scene_cp55_q4_s10,5541",detail,Black Knight,"Let's regroup with the others back on the Grandcypher. Move out, [플레이어]!"
+English,"scene_cp55_q4_s20,5542",synopsis,,"Imperial soldiers chase after [플레이어]'s team, who are trying to regroup with the rest of the crew members on the Grandcypher. The Black Knight, Sturm, and Drang split off to act as decoys and to take care of a different task."
 English,"scene_cp55_q4_s20,5542",detail,Imperial Soldier 1,This way! They went down the opposite alley!
 English,"scene_cp55_q4_s20,5542",detail,Imperial Soldier 2,You guys go around from the other side! Don't let them get away!
 English,"scene_cp55_q4_s20,5542",detail,Eugen,"Wheeze... Phew... I'm gettin' too old to play tag, damn it..."
@@ -481,11 +481,11 @@ English,"scene_cp55_q4_s20,5542",detail,Black Knight,"Good-hearted people like y
 English,"scene_cp55_q4_s20,5542",detail,,The Black Knight runs off toward the main street accompanied by Sturm and Drang.
 English,"scene_cp55_q4_s20,5542",detail,Rosetta,I suppose it's our turn to move too.
 English,"scene_cp55_q4_s20,5542",detail,Vyrn,"Yep. We've heard some wild stuff, but let's talk about it later!"
-English,"scene_cp55_q4_s20,5542",detail,Io,"Yeah! We got some imperials to clobber! Are you ready, [Djeeta]?"
+English,"scene_cp55_q4_s20,5542",detail,Io,"Yeah! We got some imperials to clobber! Are you ready, [플레이어]?"
 English,"scene_cp55_q4_s30,5543",synopsis,,The crew manage to lose their pursuers in the streets of Agastia. But two shadows are beginning to loom over them.
 English,"scene_cp55_q4_s30,5543",detail,Eugen,Good. I think we've given them imperials the slip for now...
 English,"scene_cp55_q4_s30,5543",detail,Vyrn,Now we can get back to the Grandcypher and join up with the others!
 English,"scene_cp55_q4_s30,5543",detail,Rosetta,"Yes. But seeing as this is the imperial capital, our pursuers are getting more riled up."
-English,"scene_cp55_q4_s30,5543",detail,Rosetta,"Don't drop your guard until we leave the city limits, [Djeeta]."
-English,"scene_cp55_q4_s30,5543",detail,,"Separated from the Black Knight and her followers, [Djeeta] and company run through the streets of Agastia."
+English,"scene_cp55_q4_s30,5543",detail,Rosetta,"Don't drop your guard until we leave the city limits, [플레이어]."
+English,"scene_cp55_q4_s30,5543",detail,,"Separated from the Black Knight and her followers, [플레이어] and company run through the streets of Agastia."
 English,"scene_cp55_q4_s30,5543",detail,,"However, two shadowy figures whose purpose is to stand in their way begin to move."

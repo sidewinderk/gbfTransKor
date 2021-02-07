@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt191228_cp4_q1_s10,synopsis,,組頭の男は戦いに敗れるも悔しそうな様子を一切見せない。そんな男の様子を[ジータ]達が怪しむ中、男はユイシスの因縁の相手からユイシスの魔具のことを聞いたことを語る。「アイツ」のことを教えろというユイシスの追求を男がのらりくらりとかわしていると、手下が現れ何かの準備が完了したと伝える。すると一行のいるホールの床が開き始める。
+Japanese,scene_evt191228_cp4_q1_s10,synopsis,,組頭の男は戦いに敗れるも悔しそうな様子を一切見せない。そんな男の様子を[플레이어]達が怪しむ中、男はユイシスの因縁の相手からユイシスの魔具のことを聞いたことを語る。「アイツ」のことを教えろというユイシスの追求を男がのらりくらりとかわしていると、手下が現れ何かの準備が完了したと伝える。すると一行のいるホールの床が開き始める。
 Japanese,scene_evt191228_cp4_q1_s10,detail,強欲のライゾウ,はいはいはい、参った！<br>ワイの負けや、完敗やで、ほんま！
 Japanese,scene_evt191228_cp4_q1_s10,detail,비이,負けたって言ってるわりには<br>全然悔しそうに見えねぇぞ。
 Japanese,scene_evt191228_cp4_q1_s10,detail,ユイシス,何か他に目的があるようですね。
@@ -22,10 +22,10 @@ Japanese,scene_evt191228_cp4_q1_s10,detail,ユイシス,お話になりません
 Japanese,scene_evt191228_cp4_q1_s10,detail,ユイシス,状況が理解出来ないというのなら、<br>力ずくでも唄ってもらいましょうか。
 Japanese,scene_evt191228_cp4_q1_s10,detail,手下２,頭！<br>準備完了でっせ！
 Japanese,scene_evt191228_cp4_q1_s10,detail,強欲のライゾウ,イヒヒヒヒ……<br>そろそろやと思っとったで。
-Japanese,scene_evt191228_cp4_q1_s10,detail,,<span class='scene-font-katari'>手下が合図するのとともに、</span><br><span class='scene-font-katari'>[ジータ]達のいる部屋が</span><br><span class='scene-font-katari'>大きく振動し始める。</span>
-Japanese,scene_evt191228_cp4_q1_s10,detail,루리아,[ジータ]、床が開いていきますよ！
+Japanese,scene_evt191228_cp4_q1_s10,detail,,<span class='scene-font-katari'>手下が合図するのとともに、</span><br><span class='scene-font-katari'>[플레이어]達のいる部屋が</span><br><span class='scene-font-katari'>大きく振動し始める。</span>
+Japanese,scene_evt191228_cp4_q1_s10,detail,루리아,[플레이어]、床が開いていきますよ！
 Japanese,scene_evt191228_cp4_q1_s10,detail,비이,落ちたら危ねぇ！<br>退避だ！
-Japanese,scene_evt191228_cp4_q2_s10,synopsis,,[ジータ]達のいるホールはビカラ達の潜む部屋の真上にあり、ジョヤは開いた天井から[ジータ]達の前へ引き上げられていく。男は改造したジョヤを使ってユイシスに高濃度の煩悩を浴びせる。ユイシスは辛うじて堪えるが男の方が飛び散った煩悩にとり憑かれ、改造したジョヤの性能を試したい欲望を抑えきれずにユイシス達を放って町の方へ飛び去ってしまう。
+Japanese,scene_evt191228_cp4_q2_s10,synopsis,,[플레이어]達のいるホールはビカラ達の潜む部屋の真上にあり、ジョヤは開いた天井から[플레이어]達の前へ引き上げられていく。男は改造したジョヤを使ってユイシスに高濃度の煩悩を浴びせる。ユイシスは辛うじて堪えるが男の方が飛び散った煩悩にとり憑かれ、改造したジョヤの性能を試したい欲望を抑えきれずにユイシス達を放って町の方へ飛び去ってしまう。
 Japanese,scene_evt191228_cp4_q2_s10,detail,ビカラ,あっ、天井が開いていく……！
 Japanese,scene_evt191228_cp4_q2_s10,detail,,<span class='scene-font-katari'>時を同じくしてビカラ達のいる部屋の</span><br><span class='scene-font-katari'>天井が開き、広い空間が現れる。</span>
 Japanese,scene_evt191228_cp4_q2_s10,detail,技師１,よいしょっと。
@@ -64,21 +64,21 @@ Japanese,scene_evt191228_cp4_q2_s10,detail,強欲のライゾウ,ほぉん？ �
 Japanese,scene_evt191228_cp4_q2_s10,detail,強欲のライゾウ,せいぜい仲間同士で殺し合えや。<br>ほんで己のオトシマエをつけるために<br>死ねぇ、ぼん！
 Japanese,scene_evt191228_cp4_q2_s10,detail,비이,チクショー、待ちやがれ！
 Japanese,scene_evt191228_cp4_q2_s10,detail,,<span class='scene-font-katari'>汚らしく高笑いしながら、</span><br><span class='scene-font-katari'>男はジョヤを連れて</span><br><span class='scene-font-katari'>建物の外へと飛び立ってしまう。</span>
-Japanese,scene_evt191228_cp4_q3_s20,synopsis,,ユイシスは強靭な精神力で煩悩に抗うも、抑えきれずに[ジータ]に斬りかかってしまう。クビラは十二神将の力でユイシスから煩悩を払おうとするが、ユイシスはじっとしていることが出来ず叶わない。そこへ階下からジョイに乗ったビカラが現れる。クビラとビカラは[ジータ]にユイシスの注意を引きつけるように言い、煩悩を払うべく戦いを挑む。
+Japanese,scene_evt191228_cp4_q3_s20,synopsis,,ユイシスは強靭な精神力で煩悩に抗うも、抑えきれずに[플레이어]に斬りかかってしまう。クビラは十二神将の力でユイシスから煩悩を払おうとするが、ユイシスはじっとしていることが出来ず叶わない。そこへ階下からジョイに乗ったビカラが現れる。クビラとビカラは[플레이어]にユイシスの注意を引きつけるように言い、煩悩を払うべく戦いを挑む。
 Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,うぅ……うぅぅ……
 Japanese,scene_evt191228_cp4_q3_s20,detail,루리아,ユイシスさん！
 Japanese,scene_evt191228_cp4_q3_s20,detail,クビラ,近づいちゃダメ、ルリアちゃん！<br>今のユイシスさんは、<br>強い『瞋』にとり憑かれてる。
 Japanese,scene_evt191228_cp4_q3_s20,detail,비이,『瞋』って言えば強い怒りだったよな？<br>復讐を考えてる姉ちゃんには<br>一番厄介な煩悩じゃねぇか！
-Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,[ジータ]、お願いよ……<br>今のうちに私を殺してッ！
+Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,[플레이어]、お願いよ……<br>今のうちに私を殺してッ！
 Japanese,scene_evt191228_cp4_q3_s20,sel1_txt,,<span class='scene-font-katari'>そんなことは出来ない！</span>
-Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,甘えたことを言っている場合では<br>ないの！ 今の私なら、<br>[ジータ]も殺してしまうかもしれない！
+Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,甘えたことを言っている場合では<br>ないの！ 今の私なら、<br>[플레이어]も殺してしまうかもしれない！
 Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,アイツの顔が嫌でも頭に浮かぶ……<br>考えたくないのに、気持ちが<br>どうしても抑えきれない……
 Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,体が、言うことを聞かない……<br>目眩が、して……
 Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>全空から集められた高濃度の『瞋』に</span><br><span class='scene-font-katari'>強靭な精神力で抗い続けるユイシス。</span>
 Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>しかしかつて大事な人を奪われた</span><br><span class='scene-font-katari'>深い憎しみが『瞋』によって増幅され、</span><br><span class='scene-font-katari'>強い衝動を抑えきれなくなっていた。</span>
 Japanese,scene_evt191228_cp4_q3_s20,sel1_txt,,<span class='scene-font-katari'>気をしっかり持って！</span>
 Japanese,scene_evt191228_cp4_q3_s20,detail,ユイシス,<span class='scene-font-4'>ううぅ、</span><br><span class='scene-font-4'>ああぁあぁぁぁーーー！！</span>
-Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>錯乱状態で振りかぶった剣を、</span><br><span class='scene-font-katari'>[ジータ]は自分の得物で</span><br><span class='scene-font-katari'>どうにか受け止める。</span>
+Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>錯乱状態で振りかぶった剣を、</span><br><span class='scene-font-katari'>[플레이어]は自分の得物で</span><br><span class='scene-font-katari'>どうにか受け止める。</span>
 Japanese,scene_evt191228_cp4_q3_s20,detail,クビラ,今のうちに私が<br>ユイシスさんから煩悩を払う！<br>少しだけじっとして──
 Japanese,scene_evt191228_cp4_q3_s20,detail,クビラ,うわっ！
 Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>つば競り合いをしていた</span><br><span class='scene-font-katari'>ユイシスの武器がするりと抜け、</span><br><span class='scene-font-katari'>クビラのすぐ近くをかすめる。</span>
@@ -91,10 +91,10 @@ Japanese,scene_evt191228_cp4_q3_s20,detail,ジョイ,ヘンナ、カンジ、ス
 Japanese,scene_evt191228_cp4_q3_s20,detail,ビカラ,なるほど、<br>とりあえず状況はわかったよ。
 Japanese,scene_evt191228_cp4_q3_s20,detail,ビカラ,クビラ、ぼくと力を合わせて<br>ユイシスから煩悩を払おう！
 Japanese,scene_evt191228_cp4_q3_s20,detail,クビラ,うん、ふたりならなんとか……！<br>ビカラちゃん、術を使うタイミングは<br>任せたよ！
-Japanese,scene_evt191228_cp4_q3_s20,detail,ビカラ,悪いけど、[ジータ]は<br>ユイシスの注意を引きつけて。<br>その間にクビラと煩悩を払うよ！
+Japanese,scene_evt191228_cp4_q3_s20,detail,ビカラ,悪いけど、[플레이어]は<br>ユイシスの注意を引きつけて。<br>その間にクビラと煩悩を払うよ！
 Japanese,scene_evt191228_cp4_q3_s20,sel1_txt,,<span class='scene-font-katari'>わかった！</span>
-Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>[ジータ]、ビカラ、クビラの３人は</span><br><span class='scene-font-katari'>慎重にユイシスの前に歩みを進める。</span>
-Japanese,scene_evt191228_cp4_q4_s10,synopsis,,煩悩が払われ正気に戻ったユイシスは、煩悩に操られて[ジータ]に斬りかかったことを腹を切って詫びると宣言する。しかし[ジータ]達の説得によりやめる。ユイシスを見ていたジョイは煩悩の脅威とジョヤのお役目の重要さを知る。ジョイは周囲の煩悩を吸収してしまうが特に異常は起こらない。一行が不思議がっていると町の方で煩悩の気配が膨れ上がる。
+Japanese,scene_evt191228_cp4_q3_s20,detail,,<span class='scene-font-katari'>[플레이어]、ビカラ、クビラの３人は</span><br><span class='scene-font-katari'>慎重にユイシスの前に歩みを進める。</span>
+Japanese,scene_evt191228_cp4_q4_s10,synopsis,,煩悩が払われ正気に戻ったユイシスは、煩悩に操られて[플레이어]に斬りかかったことを腹を切って詫びると宣言する。しかし[플레이어]達の説得によりやめる。ユイシスを見ていたジョイは煩悩の脅威とジョヤのお役目の重要さを知る。ジョイは周囲の煩悩を吸収してしまうが特に異常は起こらない。一行が不思議がっていると町の方で煩悩の気配が膨れ上がる。
 Japanese,scene_evt191228_cp4_q4_s10,detail,ビカラ,クビラ、今だよ！
 Japanese,scene_evt191228_cp4_q4_s10,detail,クビラ,うん！
 Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,…………
@@ -102,20 +102,20 @@ Japanese,scene_evt191228_cp4_q4_s10,detail,クビラ,ふう……よかった。
 Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,大丈夫ですか、ユイシスさん？
 Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,ええ……<br>異常な怒りが消えたせいか、<br>少し力が抜けただけよ。
 Japanese,scene_evt191228_cp4_q4_s10,sel1_txt,,<span class='scene-font-katari'>元に戻ってくれてよかった</span>
-Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,……[ジータ]…………
+Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,……[플레이어]…………
 Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,本当にごめんなさい。
-Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,さっき[ジータ]に<br>斬りかかったオトシマエは<br>腹を切ってつけさせてもらうわ。
+Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,さっき[플레이어]に<br>斬りかかったオトシマエは<br>腹を切ってつけさせてもらうわ。
 Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,はわわっ！！<br>自分のお腹に剣を向けないでください、<br>ユイシスさん！
 Japanese,scene_evt191228_cp4_q4_s10,detail,비이,やれやれ、本当に考え方が<br>物騒な姉ちゃんだぜ……
-Japanese,scene_evt191228_cp4_q4_s10,detail,비이,[ジータ]の顔をよく見ろよ。<br>ユイシスが正気に戻って、<br>本気で安心してんだぜ。
+Japanese,scene_evt191228_cp4_q4_s10,detail,비이,[플레이어]の顔をよく見ろよ。<br>ユイシスが正気に戻って、<br>本気で安心してんだぜ。
 Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,それにユイシスさん、<br>辛いことが沢山あって、<br>許せないことも沢山あるはずなのに……
 Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,あんなに強い煩悩にも流されないで、<br>私達のことを心配してくれて、<br>凄いですよ。
-Japanese,scene_evt191228_cp4_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]は自分が疑いの煩悩</span><br><span class='scene-font-katari'>『疑』にとり憑かれ、ビィを偽物だと</span><br><span class='scene-font-katari'>思い込んでしまった時のことを話す。</span>
-Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,[ジータ]にも<br>そんなことがあったの？
+Japanese,scene_evt191228_cp4_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]は自分が疑いの煩悩</span><br><span class='scene-font-katari'>『疑』にとり憑かれ、ビィを偽物だと</span><br><span class='scene-font-katari'>思い込んでしまった時のことを話す。</span>
+Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,[플레이어]にも<br>そんなことがあったの？
 Japanese,scene_evt191228_cp4_q4_s10,detail,비이,ああ、あの時は本気で<br>どうしようかと思ったぜ……
 Japanese,scene_evt191228_cp4_q4_s10,detail,비이,けど煩悩に操られると、<br>そんな風に普段は絶対にしないことを<br>しちまうことがあるんだ。
-Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,だから誰もユイシスさんのことを<br>責めてません。<br>ね、[ジータ]？
-Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,[ジータ]、<br>ビィさん、ルリアさん……
+Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,だから誰もユイシスさんのことを<br>責めてません。<br>ね、[플레이어]？
+Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,[플레이어]、<br>ビィさん、ルリアさん……
 Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,許してくれてありがとう。<br>これからは煩悩に気をつけるわ。
 Japanese,scene_evt191228_cp4_q4_s10,detail,,<span class='scene-font-katari'>ユイシスは安堵した表情で</span><br><span class='scene-font-katari'>武器を収める。</span>
 Japanese,scene_evt191228_cp4_q4_s10,detail,ジョイ,ボンノー、コワイ……
@@ -135,4 +135,4 @@ Japanese,scene_evt191228_cp4_q4_s10,detail,クビラ,ふふ、そうかもね。
 Japanese,scene_evt191228_cp4_q4_s10,detail,ユイシス,っ！ 何の音？
 Japanese,scene_evt191228_cp4_q4_s10,detail,ビカラ,煩悩の気配が膨らんでいる……<br>さっきの人がジョヤを使って<br>町で何かしたのかもしれない。
 Japanese,scene_evt191228_cp4_q4_s10,detail,루리아,急いで戻りましょう！<br>町の皆さんが危ないです！
-Japanese,scene_evt191228_cp4_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]達は元来た道を通って</span><br><span class='scene-font-katari'>アジトの外に出るのだった。</span>
+Japanese,scene_evt191228_cp4_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]達は元来た道を通って</span><br><span class='scene-font-katari'>アジトの外に出るのだった。</span>

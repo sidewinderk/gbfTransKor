@@ -1,8 +1,8 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr199_ep1,synopsis,,<span class='scene-font-place'>アルスター島</span>の復興を進めてきたヘルエス。だが彼女は[ジータ]一行を呼び出し、その旅に加わりたいと話す。ヘルエスは議会が元王女である自分に頼りすぎていることを懸念し、それを正すために島を出ようとしていた。以前の恩義を返すためにも[ジータ]に同行したいというヘルエスを一同は仲間として受け入れるのだった。
-Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>[ジータ]達は以前、旅の途中で</span><br><span class='scene-font-katari'>島を荒らす魔物達に悩む</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>を訪れた。</span>
-Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'> [ジータ]一行の協力を受け、</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>は</span><br><span class='scene-font-katari'>無事平和を取り戻したのだった。</span>
-Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>その時に知り合った、</span><br><span class='scene-font-katari'>魔物によって滅んだ王国の王女に</span><br><span class='scene-font-katari'>[ジータ]は呼び出された。</span>
+Japanese,scene_fate_chr199_ep1,synopsis,,<span class='scene-font-place'>アルスター島</span>の復興を進めてきたヘルエス。だが彼女は[플레이어]一行を呼び出し、その旅に加わりたいと話す。ヘルエスは議会が元王女である自分に頼りすぎていることを懸念し、それを正すために島を出ようとしていた。以前の恩義を返すためにも[플레이어]に同行したいというヘルエスを一同は仲間として受け入れるのだった。
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>[플레이어]達は以前、旅の途中で</span><br><span class='scene-font-katari'>島を荒らす魔物達に悩む</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>を訪れた。</span>
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'> [플레이어]一行の協力を受け、</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>は</span><br><span class='scene-font-katari'>無事平和を取り戻したのだった。</span>
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>その時に知り合った、</span><br><span class='scene-font-katari'>魔物によって滅んだ王国の王女に</span><br><span class='scene-font-katari'>[플레이어]は呼び出された。</span>
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,よく来てくれました、皆さん。<br>ご足労に感謝します。
 Japanese,scene_fate_chr199_ep1,detail,ルリア,いえ！<br>またヘルエスさんに会えて嬉しいです。<br>あれから島の復興は進んでますか？
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ええ。幸いなことに<br>かつてアイルスト王国があった頃と<br>遜色ない賑わいを見せています。
@@ -30,7 +30,7 @@ Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ええ。<br>私が手を離�
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,貴方がたなら信頼が置ける。<br>それに以前の恩義を返したい。<br>私を旅に同行させて頂けませんか？
 Japanese,scene_fate_chr199_ep1,sel1_txt,,<span class='scene-font-katari'>いいよ、一緒に行こう</span>
 Japanese,scene_fate_chr199_ep1,sel2_txt,,<span class='scene-font-katari'>もっと安全な場所がいいんじゃない？</span>
-Japanese,scene_fate_chr199_ep1,detail,ヘルエス,感謝します、[ジータ]殿。<br>いや……[ジータ]殿。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,感謝します、[플레이어]殿。<br>いや……[플레이어]殿。
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,槍の腕には自信があります。<br>空の果てを目指す貴方がたの<br>力となりましょう。
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ふふ……
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,実は、他国の依頼で行く<br>遠征以外で島を離れるのは<br>初めてです。
@@ -41,12 +41,12 @@ Japanese,scene_fate_chr199_ep1,detail,ヘルエス,私の技量が貴方がた�
 Japanese,scene_fate_chr199_ep1,detail,ルリア,ヘルエスさんはとっても<br>頼りになりますけど、どうして<br>そんなに騎空団にこだわるんですか？
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,……私は、貴方がたの自由さに<br>感銘を受けたのです。私は任務以外で<br>島を出たことがありませんから。
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,私も、一度は貴方がたのように<br>自由に生きてみたい。<br>そんな風に思ったのです。
-Japanese,scene_fate_chr199_ep1,detail,ヘルエス,……折れてくれますか、<br>[ジータ]殿。<br>あなたの寛容に感謝します。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,……折れてくれますか、<br>[플레이어]殿。<br>あなたの寛容に感謝します。
 Japanese,scene_fate_chr199_ep1,detail,ヘルエス,解らぬことも多々あるでしょう。<br>ご指導ご鞭撻を<br>よろしくお願いいたします。
 Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>こうして、亡国の王女</span><br><span class='scene-font-katari'>ヘルエスが騎空団に加わった。</span>
-Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>頼りになる仲間として、</span><br><span class='scene-font-katari'>彼女は[ジータ]達の旅を</span><br><span class='scene-font-katari'>支えてくれることだろう。</span>
-Japanese,scene_chr199_q1_s10,synopsis,,旅の途中、<span class='scene-font-place'>アルスター島</span>へ立ち寄るヘルエスと[ジータ]一行。復興が進む街並みを満足そうに眺めているヘルエスの前に、突然、近衛兵達が押し寄せてくる。元上官であるヘルエスに一目会いたいがために自らの持ち場を離れた兵士達に対して、厳しく難詰するヘルエス。ヘルエスは兵士達の腕を確かめる為、稽古をつける。
-Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>旅の途中、</span><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>へ</span><br><span class='scene-font-katari'>立ち寄る[ジータ]一行。</span>
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>頼りになる仲間として、</span><br><span class='scene-font-katari'>彼女は[플레이어]達の旅を</span><br><span class='scene-font-katari'>支えてくれることだろう。</span>
+Japanese,scene_chr199_q1_s10,synopsis,,旅の途中、<span class='scene-font-place'>アルスター島</span>へ立ち寄るヘルエスと[플레이어]一行。復興が進む街並みを満足そうに眺めているヘルエスの前に、突然、近衛兵達が押し寄せてくる。元上官であるヘルエスに一目会いたいがために自らの持ち場を離れた兵士達に対して、厳しく難詰するヘルエス。ヘルエスは兵士達の腕を確かめる為、稽古をつける。
+Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>旅の途中、</span><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>へ</span><br><span class='scene-font-katari'>立ち寄る[플레이어]一行。</span>
 Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>ヘルエスは、復興が進む街並みを</span><br><span class='scene-font-katari'>満足そうに眺めていた。</span>
 Japanese,scene_chr199_q1_s10,detail,ヘルエス,素晴らしい……<br>街中に活気が満ち溢れています。
 Japanese,scene_chr199_q1_s10,detail,ルリア,そうですね！<br>前に私達が来たときよりも、<br>人でいっぱいです！
@@ -76,9 +76,9 @@ Japanese,scene_chr199_q1_s10,detail,近衛兵２,い、いえ！
 Japanese,scene_chr199_q1_s10,detail,ヘルエス,平和になったのは良いことですが、<br>それを維持するためには<br>心と体を律することが肝要。
 Japanese,scene_chr199_q1_s10,detail,ヘルエス,貴様達の腕が鈍っていないか、<br>私が直々に試してさしあげましょう！
 Japanese,scene_chr199_q1_s10,detail,近衛兵１,よろしくお願いします！
-Japanese,scene_chr199_q1_s10,detail,ヘルエス,良い機会です。<br>お付き合いください、<br>[ジータ]殿！
-English,scene_fate_chr199_ep1,synopsis,,"While overseeing the restoration of Alster Island, Heles calls for [Djeeta]'s crew. When they arrive, she asks if she can join their ranks, stating that her continued presence on the island would hinder the progress of the new government."
-English,scene_fate_chr199_ep1,detail,,During their travels [Djeeta] and company once stopped at Alster Island. There they discovered a society suffering from frequent monster attacks.
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,良い機会です。<br>お付き合いください、<br>[플레이어]殿！
+English,scene_fate_chr199_ep1,synopsis,,"While overseeing the restoration of Alster Island, Heles calls for [플레이어]'s crew. When they arrive, she asks if she can join their ranks, stating that her continued presence on the island would hinder the progress of the new government."
+English,scene_fate_chr199_ep1,detail,,During their travels [플레이어] and company once stopped at Alster Island. There they discovered a society suffering from frequent monster attacks.
 English,scene_fate_chr199_ep1,detail,,The crew wasted no time in quelling the threat and brought peace back to the island.
 English,scene_fate_chr199_ep1,detail,,"Now they've returned to that very place, summoned by the princess whose kingdom was destroyed by the monsters."
 English,scene_fate_chr199_ep1,detail,Heles,Let me start by expressing my gratitude to all of you for coming here.
@@ -108,7 +108,7 @@ English,scene_fate_chr199_ep1,detail,Heles,Yes. It's time for me to step away. T
 English,scene_fate_chr199_ep1,detail,Heles,I feel that I can trust you. And I owe you a debt of honor for what you did before. So will you take me with you on your journey?
 English,scene_fate_chr199_ep1,sel1_txt,,Sure! We'd love to have you!
 English,scene_fate_chr199_ep1,sel2_txt,,Shouldn't you be somewhere safer?
-English,scene_fate_chr199_ep1,detail,Heles,"Thank you, [Djeeta]. Oh, sorry... Captain."
+English,scene_fate_chr199_ep1,detail,Heles,"Thank you, [플레이어]. Oh, sorry... Captain."
 English,scene_fate_chr199_ep1,detail,Heles,I'm confident in my abilities. Surely my spear will aid you in your journey to the end of the sky.
 English,scene_fate_chr199_ep1,detail,Heles,Haha...
 English,scene_fate_chr199_ep1,detail,Heles,"To be honest, I haven't actually ever left this island, unless you count political conferences and the like."
@@ -119,10 +119,10 @@ English,scene_fate_chr199_ep1,detail,Heles,Are you implying that I lack skill co
 English,scene_fate_chr199_ep1,detail,Lyria,"No, that's okay! We know how skilled you are. I guess it's just... Why do you want to be in our crew so badly?"
 English,scene_fate_chr199_ep1,detail,Heles,Your freedom has left a deep impression on me. Especially since I've never left the island of my own will.
 English,scene_fate_chr199_ep1,detail,Heles,"I'd like to experience that freedom, if only for a short time. That's why I want to join your crew!"
-English,scene_fate_chr199_ep1,detail,Heles,"Please accept my allegiance, [Djeeta]. I truly appreciate your generosity."
+English,scene_fate_chr199_ep1,detail,Heles,"Please accept my allegiance, [플레이어]. I truly appreciate your generosity."
 English,scene_fate_chr199_ep1,detail,Heles,"I have a lot to learn, so please teach me all you can."
 English,scene_fate_chr199_ep1,detail,,"Thus Heles, the princess of a ruined kingdom, joins the crew."
-English,scene_fate_chr199_ep1,detail,,"She quickly becomes a trusted ally of [Djeeta] and the others, as they continue their journey across the sky."
+English,scene_fate_chr199_ep1,detail,,"She quickly becomes a trusted ally of [플레이어] and the others, as they continue their journey across the sky."
 English,scene_chr199_q1_s10,synopsis,,"While visiting Alster Island, Heles and the crew are approached by some of Heles's former royal guard. She scolds them for abandoning their posts and then tests their skills in a mock fight."
 English,scene_chr199_q1_s10,detail,,"At Heles's request, the crew stops by Alster Island to check on its reconstruction progress."
 English,scene_chr199_q1_s10,detail,,"She walks through the streets, surveying the rebuilding efforts with satisfaction."
@@ -154,4 +154,4 @@ English,scene_chr199_q1_s10,detail,Royal Guard 2,"No, ma'am!"
 English,scene_chr199_q1_s10,detail,Heles,"It's good that the kingdom is peaceful now, but it takes tireless effort to safeguard that peace!"
 English,scene_chr199_q1_s10,detail,Heles,I'd better test you to make sure your fighting skills aren't as rusty as your sense of duty!
 English,scene_chr199_q1_s10,detail,Royal Guard 1,"Yes, ma'am!"
-English,scene_chr199_q1_s10,detail,Heles,"This is a good chance to test ourselves as well! Please help me, [Djeeta]!"
+English,scene_chr199_q1_s10,detail,Heles,"This is a good chance to test ourselves as well! Please help me, [플레이어]!"
