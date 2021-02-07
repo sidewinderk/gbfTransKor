@@ -51,7 +51,7 @@ orig,kr
 
 秩序と規律を救いし者,질서와 규율의 구원자
 メインクエスト,메인 퀘스트
-"<option data-category-id=""*"" value=""*"" selected="""">メインクエスト</option>                                                                <option data-category-id=""*"" value=""*"">フリークエスト</option>                                                                <option data-category-id=""*"" value=""*"">イベント</option>                                                                <option data-category-id=""*"" value=""*"">コラボイベント</option>                                                                <option data-category-id=""*"" value=""*"">サイドストーリー</option>"
+"<option data-category-id=""*"" value=""*"" selected="""">メインクエスト</option>                                                                <option data-category-id=""*"" value=""*"">フリークエスト</option>                                                                <option data-category-id=""*"" value=""*"">イベント</option>                                                                <option data-category-id=""*"" value=""*"">コラボイベント</option>                                                                <option data-category-id=""*"" value=""*"">サイドストーリー</option>","<option data-category-id=""*"" value=""*"" selected="""">메인퀘스트</option>                                                                <option data-category-id=""*"" value=""*"">프리퀘스트</option>                                                                <option data-category-id=""*"" value=""*"">이벤트</option>                                                                <option data-category-id=""*"" value=""*"">콜라보 이벤트</option>                                                                <option data-category-id=""*"" value=""*"">사이드 스토리</option>"
 フリークエスト,프리 퀘스트
 コラボイベント,콜라보 이벤트
 サイドストーリー,사이드 스토리
@@ -75,7 +75,7 @@ orig,kr
 星の獣と憩いし者,별의 짐승과 휴식한 자
 
 緋色と黄金を越えし者,비색과 황금의 초월자
-獲得条件：メインクエスト第***章クリア
+獲得条件：メインクエスト第***章クリア,획득조건：메인퀘스트 제***장 클리어
 
 現世と幽世を断ち切りし者,현세와 유세를 차단한 자
 
@@ -321,7 +321,7 @@ Rank
 精霊からの戦装束,정령에게 받은 옷
 獲得条件：クエスト『歴史を継ぐもの』をクリア,획득조건：퀘스트『역사를 잇는 자』를 클리어
 
-"<ul class=""lis-treasures"" id=""treasure-list"" data-treasure-max=""**""></ul>"
+
 
 風に挑みし者,바람에 도전한 자
 獲得条件：共闘クエストStage*を全てクリア,획득조건：공투 퀘스트 Stage* 전부 클리어
@@ -874,7 +874,7 @@ I'm Back,I'm Back
 獲得条件：アーカルムパスポートを***回使用する,획득조건：아카룸 패스포트를 ***회 사용한다
 
 不穏な視線を暴きし者,불온한 시선을 밝혀낸 자
-獲得条件：不穏な気配とともに現れた敵の撃破
+獲得条件：不穏な気配とともに現れた敵の撃破,획득조건：불온한 기색과 함께 나타난 적의 격파
 
 星望の丘を巡りて,별맞이 언덕을 탐색했다
 獲得条件：ポイント・アクイラ（NORMAL）星望の丘*-*を踏破
