@@ -1,12 +1,12 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp16_q1_s10,1611",synopsis,,ルリアが感じるリヴァイアサンの力の共鳴を頼りに、オルキスの行方を追う<span>[ジータ]</span>一行。徐々に弱くなる共鳴に一行は森の奥へと急ぐ。,루리아가 느끼는 리바이아산의 힘의 공명을 의지하여 오르키스의 행방을 쫓는 <span>[지타]</span> 일행.서서히 약해지는 공명에 일행은 숲속으로 서두른다.
-Japanese,"scene_cp16_q1_s10,1611",detail,,<span class='scene-font-katari'>ルリアが感じる</span><br><span class='scene-font-katari'>リヴァイアサンの力の共鳴を追って、</span><br><span class='scene-font-katari'>[ジータ]一行はオルキスを追う。</span>,"<span class='scene-font-katari> 루리아가 느끼는 </span><br><span class='scene-font-katari> 리바이아산의 힘의 공명을 쫓고, </span><span><span'class='scene-font-katari><span><sclass><sclass><sclass는 한 줄의 공명을 쫓는다."
+Japanese,"scene_cp16_q1_s10,1611",synopsis,,ルリアが感じるリヴァイアサンの力の共鳴を頼りに、オルキスの行方を追う<span>[플레이어]</span>一行。徐々に弱くなる共鳴に一行は森の奥へと急ぐ。,루리아가 느끼는 리바이아산의 힘의 공명을 의지하여 오르키스의 행방을 쫓는 <span>[플레이어]</span> 일행.서서히 약해지는 공명에 일행은 숲속으로 서두른다.
+Japanese,"scene_cp16_q1_s10,1611",detail,,<span class='scene-font-katari'>ルリアが感じる</span><br><span class='scene-font-katari'>リヴァイアサンの力の共鳴を追って、</span><br><span class='scene-font-katari'>[플레이어]一行はオルキスを追う。</span>,"<span class='scene-font-katari> 루리아가 느끼는 </span><br><span class='scene-font-katari> 리바이아산의 힘의 공명을 쫓고, </span><span><span'class='scene-font-katari><span><sclass><sclass><sclass는 한 줄의 공명을 쫓는다."
 Japanese,"scene_cp16_q1_s10,1611",detail,루리아,急がないと……<br>共鳴がだんだん弱くなってる……,서두르지 않으면....<br> 공명이 점점 약해지고 있어.......
 Japanese,"scene_cp16_q1_s10,1611",detail,루리아,完全に力を消化してしまったら、<br>きっと、もう<br>オルキスちゃんを探せない……！,"완전히 힘을 소화해 버리면,<br>틀림없이<br>오르키스를 찾을 수 없어……！"
 Japanese,"scene_cp16_q1_s10,1611",detail,카타리나,黒騎士が<span class='scene-font-place'>ルーマシー群島</span>から、<br>出るまでが勝負だな……,흑기사가 <span class='scene-font-place> 루마시 군도 </span>에서 <br> 나오기까지가 승부처야……
 Japanese,"scene_cp16_q1_s10,1611",detail,카타리나,もし共鳴が続いたとしても、<br>空に出られては、<br>それ以上追うことは出来ないだろう……,"만약 공명이 계속된다고 해도,<br>하늘로 나가면,<br>그 이상 쫓을 수는 없을 것이다……"
-Japanese,"scene_cp16_q1_s10,1611",detail,비이,とにかく急ぐっきゃねーみてぇだな！<br>ガンガンいこうぜ！ [ジータ]！,아무튼 급하긴 급해 보이네!<br> 팍팍 가자! [지타]!
-Japanese,"scene_cp16_q1_s20,1612",synopsis,,オルキスを追う<span>[ジータ]</span>一行の行く手に次々と魔物が立ち塞がる。それはロゼッタいわく、黒騎士が用意した本来この森には存在しない魔物であり、一行は苦戦を強いられる。,"오르키스를 쫓는 <span>[지타]</span>일행의 앞길에 차례차례 마물이 가로막는다.그것은 로제타가 말하기를, 흑기사가 마련한 본래 이 숲에는 존재하지 않는 마물로, 일행은 고전을 면치 못한다."
+Japanese,"scene_cp16_q1_s10,1611",detail,비이,とにかく急ぐっきゃねーみてぇだな！<br>ガンガンいこうぜ！ [플레이어]！,아무튼 급하긴 급해 보이네!<br> 팍팍 가자! [플레이어]!
+Japanese,"scene_cp16_q1_s20,1612",synopsis,,オルキスを追う<span>[플레이어]</span>一行の行く手に次々と魔物が立ち塞がる。それはロゼッタいわく、黒騎士が用意した本来この森には存在しない魔物であり、一行は苦戦を強いられる。,"오르키스를 쫓는 <span>[플레이어]</span>일행의 앞길에 차례차례 마물이 가로막는다.그것은 로제타가 말하기를, 흑기사가 마련한 본래 이 숲에는 존재하지 않는 마물로, 일행은 고전을 면치 못한다."
 Japanese,"scene_cp16_q1_s20,1612",detail,마물,<span class='scene-font-4'>グォオォォッ！！</span>,<span class='scene-font-4'> 그오오옷！！</span>
 Japanese,"scene_cp16_q1_s20,1612",detail,오이겐,ちっ、魔物かい……<br>それもこりゃまた立派なもんだ……,"쳇, 마물이야...<br>그것도 이건 또 굉장한 놈이야..."
 Japanese,"scene_cp16_q1_s20,1612",detail,로제타,……黒騎士の仕業ね。<br>やってくれるじゃない……,……흑기사의 소행이야.<br>해주잖아……
@@ -15,8 +15,8 @@ Japanese,"scene_cp16_q1_s20,1612",detail,오이겐,この森には居ない、�
 Japanese,"scene_cp16_q1_s20,1612",detail,로제타,そりゃそうよ……<br>だってアタシには、<br>この森のことは全てわかるんだもの。,"그건 그래……<br>왜냐하면,<br>이 숲에 대해서는 전부 알 수 있어."
 Japanese,"scene_cp16_q1_s20,1612",detail,오이겐,そうかい……<br>やっぱりアンタにゃあ<br>まだまだ隠し事があるみてぇだが……,그렇구나……<br>역시 당신에게는<br>아직도 숨기는 일이 있는 것 같지만……
 Japanese,"scene_cp16_q1_s20,1612",detail,로제타,それはお互い様でしょ？<br>それに……<br>いまはそんな話してる場合じゃないし。,그건 피차일반이죠?<br>게다가……<br>지금은 그런 이야기 할 때도 아니고.
-Japanese,"scene_cp16_q1_s20,1612",detail,오이겐,がははははっ！ そいつぁまったくだ！<br>[ジータ]！<br>一気にいくぞ！ ぼさっとすんなよ！,헉헉! 그 녀석 정말이지!<br>[지타]!<br>한방에 가즈아! 멍하니 있지 마!
-Japanese,"scene_cp16_q2_s10,1621",synopsis,,リヴァイアサンの力の共鳴を頼りにオルキスを追う<span>[ジータ]</span>一行だったが、ついにそれは感じ取れなくなってしまう。しかし、黒騎士は移動に騎空艇を使うと目星をつけ、今度はロゼッタの案内で森を進む。,"리바이아산의 힘의 공명을 의지해 오르키스를 쫓는<span>[지타]</span>일행이었지만, 끝내 그것은 느껴지지 않게 되어 버린다.그러나 흑기사는 이동하는 데 기공정을 쓴다고 점찍고 이번에는 로제타의 안내로 숲을 나아간다."
+Japanese,"scene_cp16_q1_s20,1612",detail,오이겐,がははははっ！ そいつぁまったくだ！<br>[플레이어]！<br>一気にいくぞ！ ぼさっとすんなよ！,헉헉! 그 녀석 정말이지!<br>[플레이어]!<br>한방에 가즈아! 멍하니 있지 마!
+Japanese,"scene_cp16_q2_s10,1621",synopsis,,リヴァイアサンの力の共鳴を頼りにオルキスを追う<span>[플레이어]</span>一行だったが、ついにそれは感じ取れなくなってしまう。しかし、黒騎士は移動に騎空艇を使うと目星をつけ、今度はロゼッタの案内で森を進む。,"리바이아산의 힘의 공명을 의지해 오르키스를 쫓는<span>[플레이어]</span>일행이었지만, 끝내 그것은 느껴지지 않게 되어 버린다.그러나 흑기사는 이동하는 데 기공정을 쓴다고 점찍고 이번에는 로제타의 안내로 숲을 나아간다."
 Japanese,"scene_cp16_q2_s10,1621",detail,루리아,あ……！,아……!
 Japanese,"scene_cp16_q2_s10,1621",detail,카타리나,どうしたルリア！<br>何か怪我でも……,어떻게 된 루리아!<br>무슨 상처라도……
 Japanese,"scene_cp16_q2_s10,1621",detail,루리아,ち、違うの……<br>いま、リヴァイアサンの力の共鳴が……,"아, 틀려……<br>지금, 리바이아산의 힘의 공명이……"
@@ -29,7 +29,7 @@ Japanese,"scene_cp16_q2_s10,1621",detail,이오,やるじゃないロゼッタ�
 Japanese,"scene_cp16_q2_s10,1621",detail,로제타,……おチビちゃん、<br>いまの言葉、ちゃーんと覚えたわよ？,"……우리 꼬맹이,<br>지금 한 말, 제대로 외웠어?"
 Japanese,"scene_cp16_q2_s10,1621",detail,이오,げっ……,엣……
 Japanese,"scene_cp16_q2_s10,1621",detail,로제타,ともかく案内するわ。<br>アタシに付いて来なさい！,아무튼 안내할게 <br> 나를 따라와!
-Japanese,"scene_cp16_q2_s20,1622",synopsis,,黒騎士の騎空艇を目指す<span>[ジータ]</span>一行。ラカムはそんな一行に、黒騎士が連れ去ったオルキスを本当に追うべきなのか疑問を投げかける。,"흑기사의 기공정을 향한 <span> [지타] </span> 일행, 라캄은 그런 일행에게 흑기사가 데려간 오르키스를 정말 따라야 할지 의문을 던진다."
+Japanese,"scene_cp16_q2_s20,1622",synopsis,,黒騎士の騎空艇を目指す<span>[플레이어]</span>一行。ラカムはそんな一行に、黒騎士が連れ去ったオルキスを本当に追うべきなのか疑問を投げかける。,"흑기사의 기공정을 향한 <span> [플레이어] </span> 일행, 라캄은 그런 일행에게 흑기사가 데려간 오르키스를 정말 따라야 할지 의문을 던진다."
 Japanese,"scene_cp16_q2_s20,1622",detail,카타리나,ロゼッタ！<br>黒騎士の騎空艇までは、<br>あとどれくらいなんだ！？,"로젯타!<br>흑기사의 기공정까지는,<br>앞으로 얼마나 남았을까!?"
 Japanese,"scene_cp16_q2_s20,1622",detail,로제타,もうちょい、ってとこね……<br>魔物の邪魔さえなければ、<br>すぐに着く距離よ。,"조금만 더, 라는 곳이야……<br>마물의 방해만 없다면,<br>금방 도착할 거리야."
 Japanese,"scene_cp16_q2_s20,1622",detail,비이,よっしゃ！<br>これだけ速けりゃ、<br>黒騎士にも追いつけ――,"좋아 좋아!<br>이만큼 빠르면,<br>흑기사도 따라잡아라-"
@@ -55,9 +55,9 @@ Japanese,"scene_cp16_q2_s20,1622",detail,라캄,……ただな、<br>俺達の�
 Japanese,"scene_cp16_q2_s20,1622",detail,라캄,自ら死地に飛び込んで、<br>自分の首を絞めるようなもんだ。,"스스로 사지에 뛰어들어,<br>자신의 목을 조르는 것과 같다."
 Japanese,"scene_cp16_q2_s20,1622",detail,로제타,無鉄砲な馬鹿は嫌いじゃないわ……<br>少なくとも、<br>臆病な理想家よりはよっぽどね。,"무모한 바보는 싫지 않아……<br>적어도,<br>겁이 많은 이상가보다는 훨씬 나아."
 Japanese,"scene_cp16_q2_s20,1622",detail,라캄,悪ぃな、いらねぇ確認に、<br>時間を使わせちまったみてぇだ。,"미안, 필요없어 확인에 <br> 시간을 쓰게 한 것 같아."
-Japanese,"scene_cp16_q2_s20,1622",detail,라캄,[ジータ]！<br>目の前の魔物から、<br>とっとと片付けるぞ！,"[지타]!<br>눈앞의 마물부터,<br>냉큼 치워버리겠어!"
-Japanese,"scene_cp16_q3_s10,1631",synopsis,,森の奥の湖畔で<span>[ジータ]</span>一行はついに黒騎士の姿を捉える。しかし、黒騎士はさらなる魔物を一行に差し向け、<span>[ジータ]</span>の行く手を阻む。,숲 속 호숫가에서 <span>[지타]</span> 일행은 드디어 흑기사의 모습을 포착한다.그러나 흑기사는 또 다른 마물을 한 줄에게 돌려 <span> [지타]</span>의 앞길을 가로막는다.
-Japanese,"scene_cp16_q3_s10,1631",detail,,<span class='scene-font-katari'>深く水を湛える湖の脇で、</span><br><span class='scene-font-katari'>[ジータ]一行は</span><br><span class='scene-font-katari'>ついに黒騎士を捉える。</span>,<span class = 'scene-font-katari'> 깊은 물을 기리는 호수 옆에 </ span> <br> <span class = 'scene-font-katari'> [지타] 일행은 </ span> < br> <span class = 'scene-font-katari'> 드디어 흑기사를 잡는다. </ span>
+Japanese,"scene_cp16_q2_s20,1622",detail,라캄,[플레이어]！<br>目の前の魔物から、<br>とっとと片付けるぞ！,"[플레이어]!<br>눈앞의 마물부터,<br>냉큼 치워버리겠어!"
+Japanese,"scene_cp16_q3_s10,1631",synopsis,,森の奥の湖畔で<span>[플레이어]</span>一行はついに黒騎士の姿を捉える。しかし、黒騎士はさらなる魔物を一行に差し向け、<span>[플레이어]</span>の行く手を阻む。,숲 속 호숫가에서 <span>[플레이어]</span> 일행은 드디어 흑기사의 모습을 포착한다.그러나 흑기사는 또 다른 마물을 한 줄에게 돌려 <span> [플레이어]</span>의 앞길을 가로막는다.
+Japanese,"scene_cp16_q3_s10,1631",detail,,<span class='scene-font-katari'>深く水を湛える湖の脇で、</span><br><span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>ついに黒騎士を捉える。</span>,<span class = 'scene-font-katari'> 깊은 물을 기리는 호수 옆에 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행은 </ span> < br> <span class = 'scene-font-katari'> 드디어 흑기사를 잡는다. </ span>
 Japanese,"scene_cp16_q3_s10,1631",detail,비이,よしっ！<br>なんとか追いついたぜ！,좋아!<br>어떻게든 따라잡았다구!
 Japanese,"scene_cp16_q3_s10,1631",detail,흑기사,執念深い連中だな……<br>その上、頭の回転も鈍いと見える。,"집념이 강한 무리들이군……<br>게다가, 머리의 회전도 둔하다고 보여."
 Japanese,"scene_cp16_q3_s10,1631",detail,라캄,馬鹿で結構だ！<br>生憎、利口な生き方は<br>出来ねぇ性分でな！！,"바보로 됐어!<br>싫어, 똑똑하게 사는 방법은<br>못하는 성격으로 말이야!!"
@@ -74,15 +74,15 @@ Japanese,"scene_cp16_q3_s10,1631",detail,로제타,<span class='scene-font-4'>�
 Japanese,"scene_cp16_q3_s10,1631",detail,흑기사,察しがいいな女狐。<br>しかし、これは少々時間がかかる……<br>いましばらく魔物と戯れているがいい。,"눈치가 빠른 여자여우.<br>그러나, 이것은 조금 시간이 걸린다……<br>지금 잠시 마물과 장난치고 있지만 좋아."
 Japanese,"scene_cp16_q3_s10,1631",detail,마물,<span class='scene-font-4'>グオオォォッ！！</span>,<span class='scene-font-4'>그오오오오！！</span>
 Japanese,"scene_cp16_q3_s10,1631",detail,이오,待ちなさいっ！<br>まだ逃げようなんて、<br>往生際が悪いわよ！,"기다려라! <br> 아직 도망가려니, <br> 마지막 순서가 틀려!"
-Japanese,"scene_cp16_q3_s10,1631",detail,비이,ここまで来て逃がせるか！<br>いくぞ！ [ジータ]！,여기까지 와서 도망치게 할 수 있을까!<br>가즈아! [지타]
-Japanese,"scene_cp16_q3_s20,1632",synopsis,,黒騎士は自らの手を汚すことなく<span>[ジータ]</span>一行を始末しようと試みる。そんな中ルリアは黒騎士がオルキスに与えた指示に言いようのない不安を覚える。,흑기사는 자신의 손을 더럽히는 일 없이 <span> [지타]</span> 일행을 처치하려고 시도한다.그 와중에 루리아는 흑기사가 오르키스에게 내린 지시에 이루 말할 수 없는 불안감을 느낀다.
+Japanese,"scene_cp16_q3_s10,1631",detail,비이,ここまで来て逃がせるか！<br>いくぞ！ [플레이어]！,여기까지 와서 도망치게 할 수 있을까!<br>가즈아! [플레이어]
+Japanese,"scene_cp16_q3_s20,1632",synopsis,,黒騎士は自らの手を汚すことなく<span>[플레이어]</span>一行を始末しようと試みる。そんな中ルリアは黒騎士がオルキスに与えた指示に言いようのない不安を覚える。,흑기사는 자신의 손을 더럽히는 일 없이 <span> [플레이어]</span> 일행을 처치하려고 시도한다.그 와중에 루리아는 흑기사가 오르키스에게 내린 지시에 이루 말할 수 없는 불안감을 느낀다.
 Japanese,"scene_cp16_q3_s20,1632",detail,이오,観念なさい！ 追い詰めたわよ！,가만있어 봐! 몰아붙였어!
 Japanese,"scene_cp16_q3_s20,1632",detail,흑기사,小娘……そういう台詞は、<br>強者が弱者に対して使うものだ。<br>己の立場を見誤らないことだな。,"계집애…그런 대사는,<br>강자가 약자에게 쓰는 것이다.<br>내 입장을 잘못 보지 않는구나."
 Japanese,"scene_cp16_q3_s20,1632",detail,루리아,黒騎士さん……<br>いったい、オルキスちゃんに、<br>何をさせようとしてるんですか……？,흑기사님....<br>도대체 오르키스님에게<br>무엇을 시키려고 하시는 겁니까....?
 Japanese,"scene_cp16_q3_s20,1632",detail,흑기사,案ずるな、それはすぐにわかる。<br>手持無沙汰だと言うのなら、<br>これの相手でもしているといい。,"걱정하지마, 그건 금방 알 수 있어.<br> 심심하다면 <br> 이것의 상대라도 하고 있으면 된다."
 Japanese,"scene_cp16_q3_s20,1632",detail,마물,<span class='scene-font-4'>グオオォォッ！！</span>,<span class='scene-font-4'>그오오옷！！</span>
-Japanese,"scene_cp16_q3_s20,1632",detail,카타리나,くっ、奴め、また魔物を……！<br>[ジータ]！<br>油断するなよ！,"큭, 놈아, 또 마물을……!<br>[지타]!<br> 방심하지마!"
-Japanese,"scene_cp16_q4_s10,1641",synopsis,,<span>[ジータ]</span>一行と対峙する黒騎士はオルキスに指示を与え、ついに奥の手を繰り出す。それは、深き森の湖畔で眠る太古の星晶獣ユグドラシルを目覚めさせることだった。,<span>[지타]</span> 일행과 대치하는 흑기사는 오르키스에게 지시를 내리고 마침내 최후의 수단을 내민다.그것은 깊은 숲의 호숫가에서 자고 있는 태고의 성정수 유그드라실을 깨우는 것이었다.
+Japanese,"scene_cp16_q3_s20,1632",detail,카타리나,くっ、奴め、また魔物を……！<br>[플레이어]！<br>油断するなよ！,"큭, 놈아, 또 마물을……!<br>[플레이어]!<br> 방심하지마!"
+Japanese,"scene_cp16_q4_s10,1641",synopsis,,<span>[플레이어]</span>一行と対峙する黒騎士はオルキスに指示を与え、ついに奥の手を繰り出す。それは、深き森の湖畔で眠る太古の星晶獣ユグドラシルを目覚めさせることだった。,<span>[플레이어]</span> 일행과 대치하는 흑기사는 오르키스에게 지시를 내리고 마침내 최후의 수단을 내민다.그것은 깊은 숲의 호숫가에서 자고 있는 태고의 성정수 유그드라실을 깨우는 것이었다.
 Japanese,"scene_cp16_q4_s10,1641",detail,루리아,――っ！？<br>こ、この感覚……まさか！？,"---!?<br>이, 이 감각...설마!?"
 Japanese,"scene_cp16_q4_s10,1641",detail,オルキス,――準備、できた。,준비됐어.
 Japanese,"scene_cp16_q4_s10,1641",detail,흑기사,そうか……ではさっそく起こせ。<br>あまり待たせるのも酷というものだ。,그런가……그럼 즉시 깨워라.너무 기다리게 하는 것도 가혹하다는 것이다.
@@ -98,8 +98,8 @@ Japanese,"scene_cp16_q4_s10,1641",detail,로제타,せっかく……<br>せっ�
 Japanese,"scene_cp16_q4_s10,1641",detail,흑기사,ロゼッタ、<br>力は使われてこそ意味がある……<br>いい加減、それを理解することだな。,"로젯타,<br>힘은 사용되어야 의미가 있다…<br>허튼, 그것을 이해하는 것이군."
 Japanese,"scene_cp16_q4_s10,1641",detail,비이,ユグドラシルの力に反応して、<br>魔物が集まってきやがった！,유그드라실의 힘에 반응하여 <br> 마물들이 모여들었다!
 Japanese,"scene_cp16_q4_s10,1641",detail,오이겐,ここまで計算づくってわけかい……<br>油断のならねぇ奴だな、まったく。,"여기까지 계산한다는 건가……<br>방심할 줄 모르는 녀석이군, 정말."
-Japanese,"scene_cp16_q4_s10,1641",detail,카타리나,まずはこちらを片付けるのが先決か……<br>蹴散らすぞ！ [ジータ]！,우선은 이쪽을 정리하는 것이 선결인가……<br>차버릴거야! [지타]
-Japanese,"scene_cp16_q4_s20,1642",synopsis,,自分達と一緒に居たいという意思を示しながらも黒騎士に付き従うオルキスに、ルリアは悲痛に訴えかける。微かな答えがこぼれたその時、ユグドラシルが<span>[ジータ]</span>一行へと襲いかかった。,"자신들과 함께 있고 싶다는 의사를 보이면서도 흑기사를 따르는 오르키스에게 루리아는 비통에 호소한다.희미한 대답이 흘러나온 그때, 유그드라실이 <span>[지타]</span> 일행에게로 달려들었다."
+Japanese,"scene_cp16_q4_s10,1641",detail,카타리나,まずはこちらを片付けるのが先決か……<br>蹴散らすぞ！ [플레이어]！,우선은 이쪽을 정리하는 것이 선결인가……<br>차버릴거야! [플레이어]
+Japanese,"scene_cp16_q4_s20,1642",synopsis,,自分達と一緒に居たいという意思を示しながらも黒騎士に付き従うオルキスに、ルリアは悲痛に訴えかける。微かな答えがこぼれたその時、ユグドラシルが<span>[플레이어]</span>一行へと襲いかかった。,"자신들과 함께 있고 싶다는 의사를 보이면서도 흑기사를 따르는 오르키스에게 루리아는 비통에 호소한다.희미한 대답이 흘러나온 그때, 유그드라실이 <span>[플레이어]</span> 일행에게로 달려들었다."
 Japanese,"scene_cp16_q4_s20,1642",detail,ユグドラシル,――――,――――
 Japanese,"scene_cp16_q4_s20,1642",detail,루리아,オルキスちゃん……どうしてこんな……<br>この子は静かに<br>時を過ごしていただけなのに……,오르키스짱……어째서 이런……<br>이 아이는 조용히<br>시간을 보내고 있었을 뿐인데……
 Japanese,"scene_cp16_q4_s20,1642",detail,オルキス,…………,…………
@@ -113,7 +113,7 @@ Japanese,"scene_cp16_q4_s20,1642",detail,루리아,え……？,어……?
 Japanese,"scene_cp16_q4_s20,1642",detail,흑기사,悲しいか、ルリア……<br>すまないな……<br>しかし、これは必要なことなんだ……,"슬프구나, 루리아....<br>미안해....<br>그러나, 이것은 필요한거야...."
 Japanese,"scene_cp16_q4_s20,1642",detail,흑기사,彼女も事あるごとに泣いていた。<br>しかし、だからこそ、<br>彼女の笑顔は魅力的だったのだ……,"그녀도 사사건건 울고 있었다.<br> 그러나, 그렇기 때문에,<br>그녀의 웃는 얼굴은 매력적이었던 것이다……"
 Japanese,"scene_cp16_q4_s20,1642",detail,흑기사,……さぁ、仕上げだ。<br>悠久を超える創世樹を相手に、<br>せいぜいあがいてみせるがいい！！,"……자, 마무리다.유구가 넘는 창세수를 상대로 고작 발악하는 것이 좋다!!"
-Japanese,"scene_cp16_q4_s30,1643",synopsis,,黒騎士にオルキスを連れ去られ意気消沈する<span>[ジータ]</span>一行の前に、突如としてエルステ帝国の戦艦が現れる。戦艦から降りてきた兵士は<span>[ジータ]</span>に、エルステ帝国は一行との和解を望んでいることを告げる。,"흑기사들에게 오르키스를 납치당해 의기소침한 <span> [지타]</span> 일행 앞에 갑자기 엘스테 제국의 전함이 나타난다.전함에서 내린 병사는 <span>[지타]</span>에게, 엘스테 제국은 일행과의 화해를 원한다고 고한다."
+Japanese,"scene_cp16_q4_s30,1643",synopsis,,黒騎士にオルキスを連れ去られ意気消沈する<span>[플레이어]</span>一行の前に、突如としてエルステ帝国の戦艦が現れる。戦艦から降りてきた兵士は<span>[플레이어]</span>に、エルステ帝国は一行との和解を望んでいることを告げる。,"흑기사들에게 오르키스를 납치당해 의기소침한 <span> [플레이어]</span> 일행 앞에 갑자기 엘스테 제국의 전함이 나타난다.전함에서 내린 병사는 <span>[플레이어]</span>에게, 엘스테 제국은 일행과의 화해를 원한다고 고한다."
 Japanese,"scene_cp16_q4_s30,1643",detail,루리아,――ユグドラシル、<br>もうこれで大丈夫だよ、<br>うん、だから……おやすみ。,"--유그드라실,<br>이제이걸로괜찮아,<br>응,그러니까……잘자."
 Japanese,"scene_cp16_q4_s30,1643",detail,ユグドラシル,────,────
 Japanese,"scene_cp16_q4_s30,1643",detail,라캄,なんとかデカいのは片付けた、が……,"어떻게든 큰 것은 치웠다, 하지만……"
@@ -139,14 +139,14 @@ Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,ア、アルビオンだ�
 Japanese,"scene_cp16_q4_s30,1643",detail,루리아,カタリナ？ 大丈夫？<br>顔色が良くないみたいだけど。,카타리나? 괜찮아?<br>안색이 안 좋은 것 같은데.
 Japanese,"scene_cp16_q4_s30,1643",detail,카타리나,……だ、大丈夫だ。<br><span class='scene-font-2'>いつか……いつかは、</span><br><span class='scene-font-2'>こんな日が来ると思っていた。</span>,"……다, 괜찮다.<br><span class='scene-font-2>언젠가……언젠가는,</span><br><span class='scene-font-2>이런 날이 오리라고 생각했다.</span>"
 Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>帝国の使者は、</span><br><span class='scene-font-katari'>一方的に用件だけを告げ、</span><br><span class='scene-font-katari'>戦艦へと戻っていく。</span>,<span class = 'scene-font-katari'> 제국의 사자는 </ span> <br> <span class = 'scene-font-katari'> 한편으로 용건 만 말하고 </ span> < br> <span class = 'scene-font-katari'> 전함으로 돌아 간다. </ span>
-Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>帝国の告げた和解の真意を確かめるため</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>へと舵を切った。</span>,<span class = 'scene-font-katari'> [지타] 일행은 </ span> <br> <span class = 'scene-font-katari'> 제국의 말했다 화해의 진의를 확인하기 </ span > <br> <span class = 'scene-font-place'> 요새 도시 알비온 </ span> <span class = 'scene-font-katari'>로 방향을 끊었다. </ span>
-English,"scene_cp16_q1_s10,1611",synopsis,,"[Djeeta] and the crew rely on Lyria sensing Leviathan's power to track down Orchis. But with the power growing faint, they must hurry."
+Japanese,"scene_cp16_q4_s30,1643",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>帝国の告げた和解の真意を確かめるため</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>へと舵を切った。</span>,<span class = 'scene-font-katari'> [플레이어] 일행은 </ span> <br> <span class = 'scene-font-katari'> 제국의 말했다 화해의 진의를 확인하기 </ span > <br> <span class = 'scene-font-place'> 요새 도시 알비온 </ span> <span class = 'scene-font-katari'>로 방향을 끊었다. </ span>
+English,"scene_cp16_q1_s10,1611",synopsis,,"[플레이어] and the crew rely on Lyria sensing Leviathan's power to track down Orchis. But with the power growing faint, they must hurry."
 English,"scene_cp16_q1_s10,1611",detail,,"Lyria follows Leviathan's power, leading the crew closer to Orchis."
 English,"scene_cp16_q1_s10,1611",detail,Lyria,We have to hurry... I can feel it growing fainter.
 English,"scene_cp16_q1_s10,1611",detail,Lyria,We'll have no way to find her if it disappears!
 English,"scene_cp16_q1_s10,1611",detail,Katalina,We have to get to the Black Knight before she leaves Lumacie.
 English,"scene_cp16_q1_s10,1611",detail,Katalina,"If she gets off the ground, it's going to be impossible for us to keep up the chase."
-English,"scene_cp16_q1_s10,1611",detail,Vyrn,"Then let's get moving! Hop to it, [Djeeta]!"
+English,"scene_cp16_q1_s10,1611",detail,Vyrn,"Then let's get moving! Hop to it, [플레이어]!"
 English,"scene_cp16_q1_s20,1612",synopsis,,An endless stream of monsters slows the crew's progress. Rosetta says the Black Knight introduced monsters into the forest to trip up the crew.
 English,"scene_cp16_q1_s20,1612",detail,Monster,Groooar!
 English,"scene_cp16_q1_s20,1612",detail,Eugen,"Monsters, huh? And tougher than usual from the looks of things."
@@ -156,7 +156,7 @@ English,"scene_cp16_q1_s20,1612",detail,Eugen,"They're not native, eh? You seem 
 English,"scene_cp16_q1_s20,1612",detail,Rosetta,Of course I am! I know everything there is to know about this forest.
 English,"scene_cp16_q1_s20,1612",detail,Eugen,Is that so? Sounds like there's plenty more you haven't shared with us yet.
 English,"scene_cp16_q1_s20,1612",detail,Rosetta,"I could say the same of you, couldn't I? Not that we have time to bicker about such things at a time like this."
-English,"scene_cp16_q1_s20,1612",detail,Eugen,"Ha-ha! Got that right! Let's scatter these critters, [Djeeta]! Stay sharp!"
+English,"scene_cp16_q1_s20,1612",detail,Eugen,"Ha-ha! Got that right! Let's scatter these critters, [플레이어]! Stay sharp!"
 English,"scene_cp16_q2_s10,1621",synopsis,,"Lyria no longer senses Leviathan's power. But after revealing how much she knows of the forest, Rosetta offers to guide them to the Black Knight's airship."
 English,"scene_cp16_q2_s10,1621",detail,Lyria,Oh!
 English,"scene_cp16_q2_s10,1621",detail,Katalina,"What's wrong, Lyria? You aren't hurt, are you?"
@@ -170,7 +170,7 @@ English,"scene_cp16_q2_s10,1621",detail,Io,"Awesome, Rosetta! You're not just so
 English,"scene_cp16_q2_s10,1621",detail,Rosetta,"I'm going to remember that, little one..."
 English,"scene_cp16_q2_s10,1621",detail,Io,Yikes...
 English,"scene_cp16_q2_s10,1621",detail,Rosetta,"I'll show you the way. Stay close, now!"
-English,"scene_cp16_q2_s20,1622",synopsis,,[Djeeta] and the crew make their way toward the Black Knight's airship. But Rackam has doubts as to whether they should be chasing Orchis in the first place.
+English,"scene_cp16_q2_s20,1622",synopsis,,[플레이어] and the crew make their way toward the Black Knight's airship. But Rackam has doubts as to whether they should be chasing Orchis in the first place.
 English,"scene_cp16_q2_s20,1622",detail,Katalina,Rosetta! How long is it going to take us to get to the airship?
 English,"scene_cp16_q2_s20,1622",detail,Rosetta,Just a teensy bit further... so long as we don't run into any monsters.
 English,"scene_cp16_q2_s20,1622",detail,Vyrn,"Okay! Just keep up the pace, and we'll find the Black Knight in no—"
@@ -196,9 +196,9 @@ English,"scene_cp16_q2_s20,1622",detail,Rackam,All I'm saying is... we might've 
 English,"scene_cp16_q2_s20,1622",detail,Rackam,What if we're just marching straight to our deaths?
 English,"scene_cp16_q2_s20,1622",detail,Rosetta,"I have a soft spot for recklessness... It's a better choice than cowardice, anyway."
 English,"scene_cp16_q2_s20,1622",detail,Rackam,Sorry for wasting everyone's time with my silly questions.
-English,"scene_cp16_q2_s20,1622",detail,Rackam,"We're gonna settle this, [Djeeta]! Starting with these monsters right here!"
+English,"scene_cp16_q2_s20,1622",detail,Rackam,"We're gonna settle this, [플레이어]! Starting with these monsters right here!"
 English,"scene_cp16_q3_s10,1631",synopsis,,"The crew finds the Black Knight and Orchis by the shore of a lake deep within the forest. The Black Knight sends more monsters to attack the crew, hoping to block their path."
-English,"scene_cp16_q3_s10,1631",detail,,[Djeeta] and the crew find the Black Knight near a seemingly bottomless lake.
+English,"scene_cp16_q3_s10,1631",detail,,[플레이어] and the crew find the Black Knight near a seemingly bottomless lake.
 English,"scene_cp16_q3_s10,1631",detail,Vyrn,All right! We managed to catch up!
 English,"scene_cp16_q3_s10,1631",detail,Black Knight,You are all quite persistent... but sadly lacking in intelligence.
 English,"scene_cp16_q3_s10,1631",detail,Rackam,That's fine by me! Overthinking things doesn't fit my personality anyway!
@@ -215,14 +215,14 @@ English,"scene_cp16_q3_s10,1631",detail,Rosetta,"W-wait, Black Knight! You can't
 English,"scene_cp16_q3_s10,1631",detail,Black Knight,"A fine guess, Rosetta! But seeing as this will take some time... I believe there are monsters who wish to play with you right now."
 English,"scene_cp16_q3_s10,1631",detail,Monster,Groooar!
 English,"scene_cp16_q3_s10,1631",detail,Io,Hold it right there! You're just trying to run again! Talk about a sore loser!
-English,"scene_cp16_q3_s10,1631",detail,Vyrn,"We didn't come this far just to let her give us the slip again! Let's move, [Djeeta]!"
-English,"scene_cp16_q3_s20,1632",synopsis,,The Black Knight uses monsters to fight [Djeeta] and the crew without dirtying her own hands. Lyria is worried about the command Orchis was given earlier.
+English,"scene_cp16_q3_s10,1631",detail,Vyrn,"We didn't come this far just to let her give us the slip again! Let's move, [플레이어]!"
+English,"scene_cp16_q3_s20,1632",synopsis,,The Black Knight uses monsters to fight [플레이어] and the crew without dirtying her own hands. Lyria is worried about the command Orchis was given earlier.
 English,"scene_cp16_q3_s20,1632",detail,Io,Give up already! You're totally surrounded!
 English,"scene_cp16_q3_s20,1632",detail,Black Knight,"Know your place, little one. Such words are not for the weak to say to the strong."
 English,"scene_cp16_q3_s20,1632",detail,Lyria,Black Knight... What exactly are you trying to make Orchis do?
 English,"scene_cp16_q3_s20,1632",detail,Black Knight,"Oh, you'll know soon enough. And if you've grown tired of waiting, I know just the thing to entertain you."
 English,"scene_cp16_q3_s20,1632",detail,Monster,Groooar!
-English,"scene_cp16_q3_s20,1632",detail,Katalina,"Another monster? No slacking, [Djeeta]!"
+English,"scene_cp16_q3_s20,1632",detail,Katalina,"Another monster? No slacking, [플레이어]!"
 English,"scene_cp16_q4_s10,1641",synopsis,,"By the order of the Black Knight, Orchis awakens the primal beast Yggdrasil from the forest lake."
 English,"scene_cp16_q4_s10,1641",detail,Lyria,...!<br>This sensation... It can't be!
 English,"scene_cp16_q4_s10,1641",detail,Orchis,It's ready...
@@ -239,8 +239,8 @@ English,"scene_cp16_q4_s10,1641",detail,Rosetta,But... it was sleeping so soundl
 English,"scene_cp16_q4_s10,1641",detail,Black Knight,"Rosetta, power only means something when it's put to use. You understand that as well as anyone, don't you?"
 English,"scene_cp16_q4_s10,1641",detail,Vyrn,The monsters are gathering here in response to Yggdrasil's power!
 English,"scene_cp16_q4_s10,1641",detail,Eugen,"She planned everything down to the last detail... We can't slip anything past her, can we?"
-English,"scene_cp16_q4_s10,1641",detail,Katalina,"First things first! We have to clear out the area, [Djeeta]!"
-English,"scene_cp16_q4_s20,1642",synopsis,,"Lyria is pained to see Orchis choose to remain with the Black Knight. Just as a muddled apology escapes the doll's lips, Yggdrasil prepares to attack [Djeeta] and the crew."
+English,"scene_cp16_q4_s10,1641",detail,Katalina,"First things first! We have to clear out the area, [플레이어]!"
+English,"scene_cp16_q4_s20,1642",synopsis,,"Lyria is pained to see Orchis choose to remain with the Black Knight. Just as a muddled apology escapes the doll's lips, Yggdrasil prepares to attack [플레이어] and the crew."
 English,"scene_cp16_q4_s20,1642",detail,Yggdrasil,...
 English,"scene_cp16_q4_s20,1642",detail,Lyria,Orchis... Why would you do this? It was sleeping so quietly...
 English,"scene_cp16_q4_s20,1642",detail,Orchis,...
@@ -254,7 +254,7 @@ English,"scene_cp16_q4_s20,1642",detail,Lyria,Huh?
 English,"scene_cp16_q4_s20,1642",detail,Black Knight,"Are you saddened, Lyria? I'm sorry... but it must be done."
 English,"scene_cp16_q4_s20,1642",detail,Black Knight,Orchis has wept her share of tears as well. It makes the moments when she smiles shine that much brighter...
 English,"scene_cp16_q4_s20,1642",detail,Black Knight,"Now then, the time has come. Let's see how you fare against the Great Tree...<br>Against power beyond time itself!"
-English,"scene_cp16_q4_s30,1643",synopsis,,The Black Knight and Orchis escape. But an imperial envoy arrives to tell [Djeeta] and the crew that the empire wants to discuss making amends at the nearby island of Albion Citadel.
+English,"scene_cp16_q4_s30,1643",synopsis,,The Black Knight and Orchis escape. But an imperial envoy arrives to tell [플레이어] and the crew that the empire wants to discuss making amends at the nearby island of Albion Citadel.
 English,"scene_cp16_q4_s30,1643",detail,Lyria,"You've been through a lot today, Yggdrasil... But it's okay. You can rest now."
 English,"scene_cp16_q4_s30,1643",detail,Yggdrasil,...
 English,"scene_cp16_q4_s30,1643",detail,Rackam,We managed to defeat that giant thing somehow...
@@ -280,4 +280,4 @@ English,"scene_cp16_q4_s30,1643",detail,Katalina,Did you say... Albion?
 English,"scene_cp16_q4_s30,1643",detail,Lyria,"Are you okay, Katalina? Your face looks white as a sheet."
 English,"scene_cp16_q4_s30,1643",detail,Katalina,I'm fine... I knew this day would come.
 English,"scene_cp16_q4_s30,1643",detail,,"Having relayed the simple message, the envoy boards the battleship."
-English,"scene_cp16_q4_s30,1643",detail,,With no other choice left to them. [Djeeta] and the crew depart for Albion Citadel hoping to uncover the intent behind the empire's offer.
+English,"scene_cp16_q4_s30,1643",detail,,With no other choice left to them. [플레이어] and the crew depart for Albion Citadel hoping to uncover the intent behind the empire's offer.

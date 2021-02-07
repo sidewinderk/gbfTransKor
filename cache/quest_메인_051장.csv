@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp51_q1_s10,5111",synopsis,,ロゼッタを取り戻し、ユグドラシル・マリスと雌雄を決するべく森を進む[ジータ]一行。このままでは再びユグドラシル・マリスが暴走することをロゼッタは明かし、ユグドラシルを魔晶から解放すべく、ユグドラシルのコアを目指す。
-Japanese,"scene_cp51_q1_s10,5111",detail,,<span class='scene-font-katari'>ロゼッタを取り戻した</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ついに「マリス」攻略へと動き始める。</span>
+Japanese,"scene_cp51_q1_s10,5111",synopsis,,ロゼッタを取り戻し、ユグドラシル・マリスと雌雄を決するべく森を進む[플레이어]一行。このままでは再びユグドラシル・マリスが暴走することをロゼッタは明かし、ユグドラシルを魔晶から解放すべく、ユグドラシルのコアを目指す。
+Japanese,"scene_cp51_q1_s10,5111",detail,,<span class='scene-font-katari'>ロゼッタを取り戻した</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ついに「マリス」攻略へと動き始める。</span>
 Japanese,"scene_cp51_q1_s10,5111",detail,로제타,アタシが力を解いた以上、<br>そう遠くないうちに、<br>あの子はまた暴走を始めるわ……
 Japanese,"scene_cp51_q1_s10,5111",detail,로제타,その前に何としても、<br>あの子を過剰に注がれている力から<br>解放してあげないと……
 Japanese,"scene_cp51_q1_s10,5111",detail,카타리나,確かユグドラシルは魔晶によって、<br>コアに力を注がれている、<br>とのことだったな……
@@ -28,7 +28,7 @@ Japanese,"scene_cp51_q2_s10,5121",detail,リーシャ,その……しばらく�
 Japanese,"scene_cp51_q2_s10,5121",detail,로제타,ふふ……大丈夫。<br>そんなに畏まらないで頂戴。
 Japanese,"scene_cp51_q2_s10,5121",detail,로제타,貴方、確か……<br>秩序の騎空団のリーシャちゃんよね？<br>どういう経緯で、この騎空団に？
 Japanese,"scene_cp51_q2_s10,5121",detail,リーシャ,そうですね……<br>どこから話したものでしょうか……
-Japanese,"scene_cp51_q2_s10,5121",detail,,<span class='scene-font-katari'>リーシャはロゼッタに、</span><br><span class='scene-font-katari'>自らが[ジータ]の騎空団に、</span><br><span class='scene-font-katari'>派遣されるに至った経緯を話す。</span>
+Japanese,"scene_cp51_q2_s10,5121",detail,,<span class='scene-font-katari'>リーシャはロゼッタに、</span><br><span class='scene-font-katari'>自らが[플레이어]の騎空団に、</span><br><span class='scene-font-katari'>派遣されるに至った経緯を話す。</span>
 Japanese,"scene_cp51_q2_s10,5121",detail,リーシャ,……というわけでして、<br>いまはこの騎空団に、<br>身を置かせてもらってるんです。
 Japanese,"scene_cp51_q2_s10,5121",detail,로제타,ふぅん……<br>そう……そういうことなのね。<br>でも、まだ何か……うーん……
 Japanese,"scene_cp51_q2_s10,5121",detail,비이,んん？ なんだよ？<br>なーんか引っかかる、って顔してんな？
@@ -50,26 +50,26 @@ Japanese,"scene_cp51_q2_s10,5121",detail,라캄,どうしたってんだ……�
 Japanese,"scene_cp51_q2_s10,5121",detail,오이겐,おう、ロゼッタ！<br>この先で道が、<br>２つに分かれてんだが……
 Japanese,"scene_cp51_q2_s10,5121",detail,오이겐,おい、ロゼッタ？<br>どうした？
 Japanese,"scene_cp51_q2_s10,5121",detail,로제타,あ……ううん、大丈夫。<br>こっちよ。<br>付いて来て頂戴。
-Japanese,"scene_cp51_q2_s20,5122",synopsis,,リーシャの父の名を聞き、驚きながらも納得した様子のロゼッタ。意を決したロゼッタは、リーシャの父であるヴァルフリート、ビィ、そして自分が、かつて[ジータ]の父親と共に旅をしていたことを明かす。記憶の無いビィはその事実に驚くが、確実にビィの中には当時の記憶が甦りつつあった。
-Japanese,"scene_cp51_q2_s20,5122",detail,로제타,そう……そうよね。<br>[ジータ]さんがいるんだもの……<br>何にも不思議な話ではないわよね……
+Japanese,"scene_cp51_q2_s20,5122",synopsis,,リーシャの父の名を聞き、驚きながらも納得した様子のロゼッタ。意を決したロゼッタは、リーシャの父であるヴァルフリート、ビィ、そして自分が、かつて[플레이어]の父親と共に旅をしていたことを明かす。記憶の無いビィはその事実に驚くが、確実にビィの中には当時の記憶が甦りつつあった。
+Japanese,"scene_cp51_q2_s20,5122",detail,로제타,そう……そうよね。<br>[플레이어]さんがいるんだもの……<br>何にも不思議な話ではないわよね……
 Japanese,"scene_cp51_q2_s20,5122",detail,카타리나,ロゼッタ……<br>先ほどから様子が変だが……<br>本当に大丈夫なのか？
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,あ、平気よ。<br>ちょっとびっくりはしたけど……
-Japanese,"scene_cp51_q2_s20,5122",detail,로제타,ねぇ、[ジータ]さん……<br>もしかしてなんだけど……
+Japanese,"scene_cp51_q2_s20,5122",detail,로제타,ねぇ、[플레이어]さん……<br>もしかしてなんだけど……
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,もしかして、<br>リーシャちゃんが彼の娘だから、<br>仲間に引き入れたのかしら？
 Japanese,"scene_cp51_q2_s20,5122",sel1_txt,,<span class='scene-font-katari'>何のこと？</span>
 Japanese,"scene_cp51_q2_s20,5122",sel2_txt,,<span class='scene-font-katari'>モニカから頼まれた</span>
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,ふぅん……？<br>そういうつもりはなかったのね？
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,モニカ……？<br>ああ、秩序の騎空団のあの子ね？
-Japanese,"scene_cp51_q2_s20,5122",detail,로제타,じゃあ、[ジータ]さんから、<br>引き入れようとした<br>わけではないのね……？
+Japanese,"scene_cp51_q2_s20,5122",detail,로제타,じゃあ、[플레이어]さんから、<br>引き入れようとした<br>わけではないのね……？
 Japanese,"scene_cp51_q2_s20,5122",detail,비이,なぁ、ロゼッタ、<br>さっきから何のこと言ってんだ？
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,え？ だって……<br>ああ、そう……そういうこと。<br>貴方達はまだ、知らないのね。
 Japanese,"scene_cp51_q2_s20,5122",detail,비이,知らない、って何をだよ？
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,もう……話しても良いわよね……<br>ビィ君が力を取り戻した以上、<br>いずれわかることでしょうし……
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,リーシャちゃんがこの騎空団に来たのも、<br>考えてみれば、<br>必然だったのかもしれないわ……
-Japanese,"scene_cp51_q2_s20,5122",detail,,<span class='scene-font-katari'>ロゼッタは意を決した様子で、</span><br><span class='scene-font-katari'>[ジータ]達へと向き直る。</span>
+Japanese,"scene_cp51_q2_s20,5122",detail,,<span class='scene-font-katari'>ロゼッタは意を決した様子で、</span><br><span class='scene-font-katari'>[플레이어]達へと向き直る。</span>
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,アタシとヴァルフリート、<br>それにビィ君……<br>他にも仲間は居たけれど……
-Japanese,"scene_cp51_q2_s20,5122",detail,로제타,アタシ達は、<br>[ジータ]さんのお父さんの騎空団で、<br>一緒に旅をしていたことがあるの。
-Japanese,"scene_cp51_q2_s20,5122",detail,로제타,そうね……<br>ちょうど[ジータ]さんのお父さんが、<br>[ジータ]さんくらいの歳の話よ。
+Japanese,"scene_cp51_q2_s20,5122",detail,로제타,アタシ達は、<br>[플레이어]さんのお父さんの騎空団で、<br>一緒に旅をしていたことがあるの。
+Japanese,"scene_cp51_q2_s20,5122",detail,로제타,そうね……<br>ちょうど[플레이어]さんのお父さんが、<br>[플레이어]さんくらいの歳の話よ。
 Japanese,"scene_cp51_q2_s20,5122",detail,リーシャ,っ！？
 Japanese,"scene_cp51_q2_s20,5122",detail,카타리나,ビ、ビィ君には<br>そんな繋がりがあったのか……！？
 Japanese,"scene_cp51_q2_s20,5122",detail,비이,お……おいおい、待てって！<br>オイラ、そんなの記憶にねーぞ！？
@@ -83,10 +83,10 @@ Japanese,"scene_cp51_q2_s20,5122",detail,비이,なんで親父さん達と旅�
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,それは……<br>まだアタシの口からは言えないわ。
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,けれど……<br>きっといつか貴方達も<br>直面することになる。
 Japanese,"scene_cp51_q2_s20,5122",detail,로제타,アタシに出来るのは、<br>その場所まで貴方達を導くこと……<br>それだけよ。
-Japanese,"scene_cp51_q3_s10,5131",synopsis,,ロゼッタの明かした過去について考えを巡らせるリーシャ。過去の旅の詳細が書かれているのでは、とリーシャは父の手記を開くが、手記は見つけたときから、かなりのページが破られていた。リーシャがその意味について思案していると、帝国兵が襲いかかってくる。[ジータ]に助けられたリーシャは、目の前の敵に注意を戻す。
+Japanese,"scene_cp51_q3_s10,5131",synopsis,,ロゼッタの明かした過去について考えを巡らせるリーシャ。過去の旅の詳細が書かれているのでは、とリーシャは父の手記を開くが、手記は見つけたときから、かなりのページが破られていた。リーシャがその意味について思案していると、帝国兵が襲いかかってくる。[플레이어]に助けられたリーシャは、目の前の敵に注意を戻す。
 Japanese,"scene_cp51_q3_s10,5131",detail,,<span class='scene-font-katari'>ロゼッタの告白により、</span><br><span class='scene-font-katari'>一行の間には衝撃が走る。</span>
 Japanese,"scene_cp51_q3_s10,5131",detail,,<span class='scene-font-katari'>それぞれが、ロゼッタの明かした</span><br><span class='scene-font-katari'>真実の意味を考えながら、</span><br><span class='scene-font-katari'>深い森を進んでいた。</span>
-Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,<span class='scene-font-kokoro'>（父さんとロゼッタさん、</span><br><span class='scene-font-kokoro'>それにビィくんに……</span><br><span class='scene-font-kokoro'>[ジータ]さんのお父さん……）</span>
+Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,<span class='scene-font-kokoro'>（父さんとロゼッタさん、</span><br><span class='scene-font-kokoro'>それにビィくんに……</span><br><span class='scene-font-kokoro'>[플레이어]さんのお父さん……）</span>
 Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,<span class='scene-font-kokoro'>（彼らはかつて騎空団として、</span><br><span class='scene-font-kokoro'>共に旅をしていた……）</span>
 Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,<span class='scene-font-kokoro'>（私も聞いたことがなかったけれど、</span><br><span class='scene-font-kokoro'>確かに父さん、若い頃の話なんて、</span><br><span class='scene-font-kokoro'>あんまりしてくれなかったな……）</span>
 Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,<span class='scene-font-kokoro'>（おそらく、父さんのあの手記は、</span><br><span class='scene-font-kokoro'>その旅の中で書かれたもの……）</span>
@@ -100,14 +100,14 @@ Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,<span class='scene-font-ko
 Japanese,"scene_cp51_q3_s10,5131",detail,비이,リーシャっ！！<br>危ねぇっ！！
 Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,えっ？
 Japanese,"scene_cp51_q3_s10,5131",detail,제국병,はぁぁぁぁっ！！
-Japanese,"scene_cp51_q3_s10,5131",detail,,<span class='scene-font-katari'>間一髪、[ジータ]が、</span><br><span class='scene-font-katari'>帝国兵の剣を弾く。</span>
+Japanese,"scene_cp51_q3_s10,5131",detail,,<span class='scene-font-katari'>間一髪、[플레이어]が、</span><br><span class='scene-font-katari'>帝国兵の剣を弾く。</span>
 Japanese,"scene_cp51_q3_s10,5131",detail,제국병,くっ……！
-Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,あ、ありがとう、[ジータ]さん……<br>でも、どうして帝国兵がこの森に！？
+Japanese,"scene_cp51_q3_s10,5131",detail,リーシャ,あ、ありがとう、[플레이어]さん……<br>でも、どうして帝国兵がこの森に！？
 Japanese,"scene_cp51_q3_s10,5131",detail,라캄,おい！ まだ向こうから、<br>他にも足音が近づいてやがるぞ！
 Japanese,"scene_cp51_q3_s10,5131",detail,카타리나,何故彼らがここに居るのか、<br>理由を考えるのは、<br>後回しになりそうだな……
 Japanese,"scene_cp51_q3_s10,5131",detail,오이겐,おら、構えろ！<br>気ぃ抜いてっとやられちまうぞ！
-Japanese,"scene_cp51_q3_s20,5132",synopsis,,突如現れた帝国兵達に応戦を余儀なくされる[ジータ]一行。実はロゼッタが力を解いたことで島を覆う棘が消え、帝国兵達が次々と島に乗り込んできていた。[ジータ]一行は帝国兵達に先を越されまいと森を急ぐ。
-Japanese,"scene_cp51_q3_s20,5132",detail,,<span class='scene-font-katari'>深い森の奥で[ジータ]一行は、</span><br><span class='scene-font-katari'>突如現れた帝国兵達との</span><br><span class='scene-font-katari'>交戦を余儀なくされていた。</span>
+Japanese,"scene_cp51_q3_s20,5132",synopsis,,突如現れた帝国兵達に応戦を余儀なくされる[플레이어]一行。実はロゼッタが力を解いたことで島を覆う棘が消え、帝国兵達が次々と島に乗り込んできていた。[플레이어]一行は帝国兵達に先を越されまいと森を急ぐ。
+Japanese,"scene_cp51_q3_s20,5132",detail,,<span class='scene-font-katari'>深い森の奥で[플레이어]一行は、</span><br><span class='scene-font-katari'>突如現れた帝国兵達との</span><br><span class='scene-font-katari'>交戦を余儀なくされていた。</span>
 Japanese,"scene_cp51_q3_s20,5132",detail,제국병,…………
 Japanese,"scene_cp51_q3_s20,5132",detail,라캄,ちっ……<br>こいつら、<br>どっから出てきやがったんだ？
 Japanese,"scene_cp51_q3_s20,5132",detail,라캄,「マリス」が暴走したときに、<br>帝国の奴らは、<br>軒並み撤退したんじゃなかったのかよ？
@@ -116,7 +116,7 @@ Japanese,"scene_cp51_q3_s20,5132",detail,로제타,それで彼らも、<br>こ�
 Japanese,"scene_cp51_q3_s20,5132",detail,카타리나,なるほどな……<br>目的は……そうだな、<br>「マリス」の回収といったところか……
 Japanese,"scene_cp51_q3_s20,5132",detail,로제타,させないわ……そんなこと。
 Japanese,"scene_cp51_q3_s20,5132",detail,로제타,これ以上、<br>あの子に何かしようというのなら……<br>ここでアタシが相手になるわ！
-Japanese,"scene_cp51_q4_s20,5141",synopsis,,帝国兵達と剣を交える中、彼らの上官であるポンメルンが姿を現す。ポンメルンは何か別の任務があるようだったが、この好機を逃すまいと[ジータ]達に襲いかかってくる。
+Japanese,"scene_cp51_q4_s20,5141",synopsis,,帝国兵達と剣を交える中、彼らの上官であるポンメルンが姿を現す。ポンメルンは何か別の任務があるようだったが、この好機を逃すまいと[플레이어]達に襲いかかってくる。
 Japanese,"scene_cp51_q4_s20,5141",detail,帝国兵１,くそっ……！<br>化物じみた連中め……！
 Japanese,"scene_cp51_q4_s20,5141",detail,帝国兵２,だが大尉の手にかかれば、<br>お前達など……！
 Japanese,"scene_cp51_q4_s20,5141",detail,카타리나,ん？ 大尉……？
@@ -130,8 +130,8 @@ Japanese,"scene_cp51_q4_s20,5141",detail,폼메른,ここで手土産を作れ�
 Japanese,"scene_cp51_q4_s20,5141",detail,오이겐,けっ……<br>勝手に人を土産物にする<br>算段つけてんじゃあねぇぞ……
 Japanese,"scene_cp51_q4_s20,5141",detail,오이겐,オレ達にゃあ、まだ<br>やらなきゃなんねぇことが<br>山ほどあるんだ……
 Japanese,"scene_cp51_q4_s20,5141",detail,오이겐,ここでちんたらしてる暇はねぇ……<br>とっとと片付けさしてもらうぞ！
-Japanese,"scene_cp51_q4_s30,5142",synopsis,,ポンメルンを退ける[ジータ]一行。しかし、彼らがそれ以上深追いすることはなく、[ジータ]達の前から撤退する。その潔さに首を傾げながらも、一行は覚醒直前のユグドラシルのコアへと急ぐ。
-Japanese,"scene_cp51_q4_s30,5142",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>襲いくる帝国兵達を退ける。</span>
+Japanese,"scene_cp51_q4_s30,5142",synopsis,,ポンメルンを退ける[플레이어]一行。しかし、彼らがそれ以上深追いすることはなく、[플레이어]達の前から撤退する。その潔さに首を傾げながらも、一行は覚醒直前のユグドラシルのコアへと急ぐ。
+Japanese,"scene_cp51_q4_s30,5142",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>襲いくる帝国兵達を退ける。</span>
 Japanese,"scene_cp51_q4_s30,5142",detail,폼메른,ぐ……<br>や、やはりついでで相手をするには、<br>荷が重い相手ですネェ……
 Japanese,"scene_cp51_q4_s30,5142",detail,폼메른,余計なことをして、<br>任務に失敗したとあっては、<br>帝国兵の名折れですからネェ……
 Japanese,"scene_cp51_q4_s30,5142",detail,폼메른,ここは退かせてもらいますよぉ……！<br>せいぜい命拾いしたと<br>思うことですネェ！
@@ -147,8 +147,8 @@ Japanese,"scene_cp51_q4_s30,5142",detail,카타리나,っ！？
 Japanese,"scene_cp51_q4_s30,5142",detail,오이겐,おいおい……<br>どうやら悠長に考えてる時間は<br>ねぇみてえだなぁ……
 Japanese,"scene_cp51_q4_s30,5142",detail,루리아,す、すごく強くて悲しい力が……<br>目を覚まそうとしてるみたいです……
 Japanese,"scene_cp51_q4_s30,5142",detail,로제타,そうね……アタシにもわかるわ。<br>あの子の目覚めが近い……
-Japanese,"scene_cp51_q4_s30,5142",detail,비이,いまは帝国の連中に<br>構ってる暇はねーってことか……<br>急ごうぜ！ [ジータ]！
-Japanese,"scene_cp51_q4_s30,5142",detail,,<span class='scene-font-katari'>徐々に強くなる</span><br><span class='scene-font-katari'>禍々しい気配を感じながら、</span><br><span class='scene-font-katari'>[ジータ]一行は森を駆ける。</span>
+Japanese,"scene_cp51_q4_s30,5142",detail,비이,いまは帝国の連中に<br>構ってる暇はねーってことか……<br>急ごうぜ！ [플레이어]！
+Japanese,"scene_cp51_q4_s30,5142",detail,,<span class='scene-font-katari'>徐々に強くなる</span><br><span class='scene-font-katari'>禍々しい気配を感じながら、</span><br><span class='scene-font-katari'>[플레이어]一行は森を駆ける。</span>
 Japanese,"scene_cp51_q4_s30,5142",detail,,<span class='scene-font-katari'>近づく決戦に向け、</span><br><span class='scene-font-katari'>一行はそれぞれ</span><br><span class='scene-font-katari'>緊張を高めていくのだった。</span>
 English,"scene_cp51_q1_s10,5111",synopsis,,Rosetta warns the crew that they need to release Yggdrasil from the influence of the dark essence before it's too late.
 English,"scene_cp51_q1_s10,5111",detail,,"With Rosetta safely back among their ranks, the crew have begun planning how they'll fight against Malice."
@@ -177,7 +177,7 @@ English,"scene_cp51_q2_s10,5121",detail,Rosetta,You've been rather quiet for a w
 English,"scene_cp51_q2_s10,5121",detail,Lecia,"Who, me? Eh-heh..."
 English,"scene_cp51_q2_s10,5121",detail,Lecia,"Well, guess I just got lost in thought for a little bit there."
 English,"scene_cp51_q2_s10,5121",detail,Rosetta,Hehe. It's fine. No reason to be that tense around me.
-English,"scene_cp51_q2_s10,5121",detail,Rosetta,"You're Lecia from the Crew of Enforcers, right? How did you end up with [Djeeta]'s crew?"
+English,"scene_cp51_q2_s10,5121",detail,Rosetta,"You're Lecia from the Crew of Enforcers, right? How did you end up with [플레이어]'s crew?"
 English,"scene_cp51_q2_s10,5121",detail,Lecia,Hmm... Where to start...
 English,"scene_cp51_q2_s10,5121",detail,,Lecia recounts to Rosetta how she found herself aboard the Grandcypher.
 English,"scene_cp51_q2_s10,5121",detail,Lecia,"And that's how I ended up with these guys. Hard to believe it myself, but..."
@@ -201,11 +201,11 @@ English,"scene_cp51_q2_s10,5121",detail,Rackam,What's shakin' over here? Rosetta
 English,"scene_cp51_q2_s10,5121",detail,Eugen,"Anyway, Rosetta, the road splits into two up ahead, so which—"
 English,"scene_cp51_q2_s10,5121",detail,Eugen,Rosetta? Anybody in there?
 English,"scene_cp51_q2_s10,5121",detail,Rosetta,Huh? Oh... I'm fine. This way. Follow me.
-English,"scene_cp51_q2_s20,5122",synopsis,,"Rosetta reveals that she once traveled in a crew with [Djeeta]'s father, Walfrid, and Vyrn. Lacking any recollection of those events, Vyrn is utterly shocked by the news."
-English,"scene_cp51_q2_s20,5122",detail,Rosetta,"Yes... It has to be like that... If [Djeeta]'s here, then it's not so strange..."
+English,"scene_cp51_q2_s20,5122",synopsis,,"Rosetta reveals that she once traveled in a crew with [플레이어]'s father, Walfrid, and Vyrn. Lacking any recollection of those events, Vyrn is utterly shocked by the news."
+English,"scene_cp51_q2_s20,5122",detail,Rosetta,"Yes... It has to be like that... If [플레이어]'s here, then it's not so strange..."
 English,"scene_cp51_q2_s20,5122",detail,Katalina,"Rosetta, you're talking to yourself. Are you sure you're all right?"
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,I'm fine. I was just a little shocked. That's all.
-English,"scene_cp51_q2_s20,5122",detail,Rosetta,"[Djeeta], if you don't mind me asking..."
+English,"scene_cp51_q2_s20,5122",detail,Rosetta,"[플레이어], if you don't mind me asking..."
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,"I don't suppose you let Lecia into your crew because of who her father is, did you?"
 English,"scene_cp51_q2_s20,5122",sel1_txt,,What do you mean?
 English,"scene_cp51_q2_s20,5122",sel2_txt,,It was Monika who asked me.
@@ -217,9 +217,9 @@ English,"scene_cp51_q2_s20,5122",detail,Rosetta,"Um, well... Wait, I understand 
 English,"scene_cp51_q2_s20,5122",detail,Vyrn,What're we supposed to know about?
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,"Maybe it's all right to tell you now... Considering Vyrn's had his power returned, you'll find out eventually anyway."
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,"And besides, now that Lecia's joined us, things don't seem to be so coincidental anymore."
-English,"scene_cp51_q2_s20,5122",detail,,Rosetta turns and faces [Djeeta].
+English,"scene_cp51_q2_s20,5122",detail,,Rosetta turns and faces [플레이어].
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,"Walfrid, Vyrn, and I—and a few others too—were there."
-English,"scene_cp51_q2_s20,5122",detail,Rosetta,"We all traveled together with your father, [Djeeta]."
+English,"scene_cp51_q2_s20,5122",detail,Rosetta,"We all traveled together with your father, [플레이어]."
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,And he would have been just around the same age as you now.
 English,"scene_cp51_q2_s20,5122",detail,Lecia,What!
 English,"scene_cp51_q2_s20,5122",detail,Katalina,Vyrn was there too?
@@ -230,14 +230,14 @@ English,"scene_cp51_q2_s20,5122",detail,Rosetta,Ah... So I take it that Vyrn's m
 English,"scene_cp51_q2_s20,5122",detail,Lyria,"Yeah, but only little by little, so there's still lots of memories inside of Vyrn that even <span class='scene-font-italic'>he</span> doesn't know about."
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,"Well, we can't expect them to all come back immediately."
 English,"scene_cp51_q2_s20,5122",detail,Vyrn,Ooo... What'd I do to deserve this?
-English,"scene_cp51_q2_s20,5122",detail,Vyrn,Why were my memories of [Djeeta]'s and Lecia's dads sealed? What coulda happened on our journey?
+English,"scene_cp51_q2_s20,5122",detail,Vyrn,Why were my memories of [플레이어]'s and Lecia's dads sealed? What coulda happened on our journey?
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,I'm afraid I can't say...
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,But I'm sure we'll run into some answers on our journey.
 English,"scene_cp51_q2_s20,5122",detail,Rosetta,"And until we do, all I can do is guide you until we reach that destination."
 English,"scene_cp51_q3_s10,5131",synopsis,,"Lecia remembers that she has her father's journal in her bag. Thinking that it may have information about Vyrn and Rosetta's past with her father, she pores over its pages but is disappointed to find that most of them were torn out."
 English,"scene_cp51_q3_s10,5131",detail,,Rosetta's revelation has left the crew in a state of shock.
 English,"scene_cp51_q3_s10,5131",detail,,"They silently push on further into the forest, each one deep in thought about what they've just been told."
-English,"scene_cp51_q3_s10,5131",detail,Lecia,(My father traveled with [Djeeta]'s father. And Rosetta and Vyrn too...)
+English,"scene_cp51_q3_s10,5131",detail,Lecia,(My father traveled with [플레이어]'s father. And Rosetta and Vyrn too...)
 English,"scene_cp51_q3_s10,5131",detail,Lecia,(They were all skyfarers in the same crew.)
 English,"scene_cp51_q3_s10,5131",detail,Lecia,"(I've never heard any of this before, but then again, Father never did like to talk about his past much.)"
 English,"scene_cp51_q3_s10,5131",detail,Lecia,(But he might've written something about his time with the others in his journal.)
@@ -251,14 +251,14 @@ English,"scene_cp51_q3_s10,5131",detail,Lecia,(But who? And what's so important 
 English,"scene_cp51_q3_s10,5131",detail,Vyrn,Lecia! Watch out!
 English,"scene_cp51_q3_s10,5131",detail,Lecia,Wha—
 English,"scene_cp51_q3_s10,5131",detail,Imperial Soldier,Aaaargh!
-English,"scene_cp51_q3_s10,5131",detail,,"Like a streak of lightning, [Djeeta] appears and deflects the soldier's sword in the nick of time."
+English,"scene_cp51_q3_s10,5131",detail,,"Like a streak of lightning, [플레이어] appears and deflects the soldier's sword in the nick of time."
 English,"scene_cp51_q3_s10,5131",detail,Imperial Soldier,Grr!
-English,"scene_cp51_q3_s10,5131",detail,Lecia,"Thanks, [Djeeta]! What's an imperial soldier doing in the forest?"
+English,"scene_cp51_q3_s10,5131",detail,Lecia,"Thanks, [플레이어]! What's an imperial soldier doing in the forest?"
 English,"scene_cp51_q3_s10,5131",detail,Rackam,Heads up! I hear more of 'em comin' our way!
 English,"scene_cp51_q3_s10,5131",detail,Katalina,We'll have to figure out their motives later. First we fight.
 English,"scene_cp51_q3_s10,5131",detail,Eugen,Enough jabber! Weapons up—here they come!
-English,"scene_cp51_q3_s20,5132",synopsis,,"As [Djeeta] and the others run through the forest, they are pursued by imperial forces."
-English,"scene_cp51_q3_s20,5132",detail,,"As [Djeeta] and the crew head deeper into the forest, they continue running into imperial soldiers, forcing them into seemingly endless skirmishes."
+English,"scene_cp51_q3_s20,5132",synopsis,,"As [플레이어] and the others run through the forest, they are pursued by imperial forces."
+English,"scene_cp51_q3_s20,5132",detail,,"As [플레이어] and the crew head deeper into the forest, they continue running into imperial soldiers, forcing them into seemingly endless skirmishes."
 English,"scene_cp51_q3_s20,5132",detail,Imperial Soldier,...
 English,"scene_cp51_q3_s20,5132",detail,Rackam,Where do these guys keep comin' from?
 English,"scene_cp51_q3_s20,5132",detail,Rackam,Didn't all their forces evacuate when Malice went on her rampage?
@@ -282,7 +282,7 @@ English,"scene_cp51_q4_s20,5141",detail,Eugen,"Whoa, treatin' people like object
 English,"scene_cp51_q4_s20,5141",detail,Eugen,But we don't have time to play your little games right now.
 English,"scene_cp51_q4_s20,5141",detail,Eugen,"So you're either gonna move aside, or we'll move you aside!"
 English,"scene_cp51_q4_s30,5142",synopsis,,"Pommern's troops seem to give up quickly, leaving the crew confused about their motives. But Lyria feels Yggdrasil's power returning, prompting the crew to press on."
-English,"scene_cp51_q4_s30,5142",detail,,[Djeeta] and the crew are successful in fending off Captain Pommern's attack.
+English,"scene_cp51_q4_s30,5142",detail,,[플레이어] and the crew are successful in fending off Captain Pommern's attack.
 English,"scene_cp51_q4_s30,5142",detail,Pommern,Humph. I see you've become quite the adversaries...
 English,"scene_cp51_q4_s30,5142",detail,Pommern,But you're lucky we have a job to do here—something we can't allow you to distract us from!
 English,"scene_cp51_q4_s30,5142",detail,Pommern,We'll have to let you go this time. But you won't be so lucky the next time we meet!
@@ -298,6 +298,6 @@ English,"scene_cp51_q4_s30,5142",detail,Katalina,...!
 English,"scene_cp51_q4_s30,5142",detail,Eugen,"Well, well... That felt like we probably don't have a lotta time to stand around talkin'."
 English,"scene_cp51_q4_s30,5142",detail,Lyria,"I sense a really strong, sad feeling. I think Yggdrasil might be close to reawakening."
 English,"scene_cp51_q4_s30,5142",detail,Rosetta,"You're right. With nothing holding her under control, she'll be awake soon."
-English,"scene_cp51_q4_s30,5142",detail,Vyrn,"Then what're we wastin' time on dumb soldiers for? Let's get a move on, [Djeeta]!"
-English,"scene_cp51_q4_s30,5142",detail,,"A sinister presence hangs in the air, urging [Djeeta] and the others to pick up their pace."
-English,"scene_cp51_q4_s30,5142",detail,,The hairs on the back of [Djeeta]'s neck begin to raise in anticipation of the coming battle.
+English,"scene_cp51_q4_s30,5142",detail,Vyrn,"Then what're we wastin' time on dumb soldiers for? Let's get a move on, [플레이어]!"
+English,"scene_cp51_q4_s30,5142",detail,,"A sinister presence hangs in the air, urging [플레이어] and the others to pick up their pace."
+English,"scene_cp51_q4_s30,5142",detail,,The hairs on the back of [플레이어]'s neck begin to raise in anticipation of the coming battle.

@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr114_ep1,synopsis,,オルレアンの街で出会ったジャンヌダルクは、夢で「世界を救え」という啓示を受けたのだと話す。彼女はビィが啓示を与えた存在と同じ雰囲気を持っていると語り、イスタルシアに向かう[ジータ]達へ同行することを決めるのだった。
-Japanese,scene_fate_chr114_ep1,detail,,<span class='scene-font-katari'>イスタルシアへ至るため、</span><br><span class='scene-font-katari'>大星晶獣が持つ空図の欠片を求め</span><br><span class='scene-font-katari'>旅を続ける[ジータ]達。</span>
+Japanese,scene_fate_chr114_ep1,synopsis,,オルレアンの街で出会ったジャンヌダルクは、夢で「世界を救え」という啓示を受けたのだと話す。彼女はビィが啓示を与えた存在と同じ雰囲気を持っていると語り、イスタルシアに向かう[플레이어]達へ同行することを決めるのだった。
+Japanese,scene_fate_chr114_ep1,detail,,<span class='scene-font-katari'>イスタルシアへ至るため、</span><br><span class='scene-font-katari'>大星晶獣が持つ空図の欠片を求め</span><br><span class='scene-font-katari'>旅を続ける[플레이어]達。</span>
 Japanese,scene_fate_chr114_ep1,detail,,<span class='scene-font-katari'>一行は大星晶獣の居場所を探し、</span><br><span class='scene-font-katari'>古くからの伝説を語り継ぐという街へ</span><br><span class='scene-font-katari'>足を延ばしていた。</span>
 Japanese,scene_fate_chr114_ep1,detail,ビィ,へぇ～、確かに古い街みてぇだな！<br>それになんていうか、<br>雰囲気も落ち着いてんなぁ。
 Japanese,scene_fate_chr114_ep1,detail,ルリア,そうですね、<br>活気があって、でも賑やか過ぎなくて<br>穏やかなところなんですね。
@@ -43,9 +43,9 @@ Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,そう悩みあぐ�
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,あの方自身なのか、その御使いかは<br>わかりませんが、どうかこの街に留まり<br>我等をお導きください！
 Japanese,scene_fate_chr114_ep1,detail,ビィ,そ、そんなこと、<br>いきなり言われたって困るぜ！？
 Japanese,scene_fate_chr114_ep1,detail,ビィ,オイラは、啓示とやらのことは<br>まったく知らねぇし……
-Japanese,scene_fate_chr114_ep1,detail,ビィ,何より、[ジータ]の親父さんを<br>イスタルシアへ探しにいくっていう<br>目的があるんだからよ！
+Japanese,scene_fate_chr114_ep1,detail,ビィ,何より、[플레이어]の親父さんを<br>イスタルシアへ探しにいくっていう<br>目的があるんだからよ！
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,イスタルシア……<br>あの、伝説の地……？
-Japanese,scene_fate_chr114_ep1,detail,ビィ,ああ。[ジータ]の親父さんから<br>手紙が来たんだ。<br>イスタルシアで待つ、ってな。
+Japanese,scene_fate_chr114_ep1,detail,ビィ,ああ。[플레이어]の親父さんから<br>手紙が来たんだ。<br>イスタルシアで待つ、ってな。
 Japanese,scene_fate_chr114_ep1,detail,ルリア,他にも理由はあるんですけど、<br>私達はイスタルシアへ向かう<br>旅の途中なんです。
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,なるほど……
 Japanese,scene_fate_chr114_ep1,detail,ビィ,だから、オイラはここに残ることは……
@@ -54,7 +54,7 @@ Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,そして、イス�
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,ビィ様。啓示を与えたもうた偉大な方と<br>同じ気配を持つあなた様が、空の果てへ<br>向かうのには、運命を感じます。
 Japanese,scene_fate_chr114_ep1,detail,ビィ,う～ん、そうかぁ？<br>オイラは偶然って<br>気がするけど……
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,この街に生きている者でなくば<br>解りづらい感覚だとは思います。
-Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,……[ジータ]殿。<br>君がビィ様の乗っている<br>騎空艇の主なのだろう？
+Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,……[플레이어]殿。<br>君がビィ様の乗っている<br>騎空艇の主なのだろう？
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,私には、やはりビィ様と<br>あの偉大な方が、<br>無関係とは思えない。
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,ビィ様のそばにいることで、<br>世界を何から、どうやって救うのか<br>道をみつけたいと思う。
 Japanese,scene_fate_chr114_ep1,detail,ジャンヌダルク,啓示を受けてから今日まで、<br>悩み続けてきたその糸口が<br>捕まえられるかもしれない。
@@ -76,7 +76,7 @@ Japanese,scene_fate_chr114_ep1,detail,,<span class='scene-font-katari'>結局、
 Japanese,scene_fate_chr114_ep1,detail,,<span class='scene-font-katari'>だが、ジャンヌダルクという</span><br><span class='scene-font-katari'>使命に燃える仲間を得たことは、</span><br><span class='scene-font-katari'>旅の助けとなることだろう。</span>
 Japanese,scene_chr114_q1_s10,synopsis,,ジャンヌダルクはビィから「堅苦しい態度をやめてほしい」と頼まれた。しかしビィを敬うべき相手だと考えている彼女は困惑してしまう。そんなジャンヌダルクに、ルリアが次に訪れる街ではビィに対して敬語を使わないでみることを提案し、彼女もそれに挑戦すると決める。
 Japanese,scene_chr114_q1_s10,detail,,<span class='scene-font-katari'>ジャンヌダルクが</span><br><span class='scene-font-katari'>騎空団の一員となり、</span><br><span class='scene-font-katari'>しばらく経ったある日のこと。</span>
-Japanese,scene_chr114_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]とルリアは、</span><br><span class='scene-font-katari'>騎空艇の甲板で</span><br><span class='scene-font-katari'>ビィに話しかけられた。</span>
+Japanese,scene_chr114_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]とルリアは、</span><br><span class='scene-font-katari'>騎空艇の甲板で</span><br><span class='scene-font-katari'>ビィに話しかけられた。</span>
 Japanese,scene_chr114_q1_s10,detail,ビィ,なぁ……あのさ、<br>相談に乗ってもらえねぇかな？
 Japanese,scene_chr114_q1_s10,detail,ルリア,あれ、どうしたんですか<br>ビィさん？<br>なんだか元気がないみたい……
 Japanese,scene_chr114_q1_s10,detail,ビィ,うーん、ちょっとな……<br>ジャンヌのことなんだけどさぁ。
@@ -91,7 +91,7 @@ Japanese,scene_chr114_q1_s10,detail,ルリア,でも、そればっかりは<br>
 Japanese,scene_chr114_q1_s10,detail,ビィ,そうだよな……<br>うーん……
 Japanese,scene_chr114_q1_s10,detail,ルリア,あっ！<br>噂をすれば、ジャンヌさんですよ！
 Japanese,scene_chr114_q1_s10,detail,ルリア,おーい、ジャンヌさーん！
-Japanese,scene_chr114_q1_s10,detail,ジャンヌダルク,……ん？<br>ああ、ルリアに[ジータ]殿。<br>それにビィ様もご一緒でしたか。
+Japanese,scene_chr114_q1_s10,detail,ジャンヌダルク,……ん？<br>ああ、ルリアに[플레이어]殿。<br>それにビィ様もご一緒でしたか。
 Japanese,scene_chr114_q1_s10,detail,ビィ,なぁなぁ……ジャンヌ。<br>ちょっと話があるんだけどよぅ……
 Japanese,scene_chr114_q1_s10,detail,ジャンヌダルク,はっ！ ご遠慮なさらず<br>このジャンヌダルクに<br>何なりとお申し付けください。
 Japanese,scene_chr114_q1_s10,detail,ビィ,いやぁ……その……<br>そういう堅苦しい感じを<br>やめて欲しくてさ。
@@ -113,7 +113,7 @@ Japanese,scene_chr114_q1_s10,detail,ジャンヌダルク,はっ！<br>承知い
 Japanese,scene_chr114_q1_s10,detail,ビィ,っておい！<br>……先が思いやられるぜぇ。
 Japanese,scene_chr114_q1_s10,detail,ジャンヌダルク,うっ！ ……め、面目ありません。
 English,scene_fate_chr114_ep1,synopsis,,"A maiden by the name of Jeanne d'Arc remarks on Vyrn's striking resemblance to an entity that showed her a revelation, compelling her to join the crew."
-English,scene_fate_chr114_ep1,detail,,"[Djeeta] and company continue their journey, gathering Sky Map pieces held by the great primal beasts so as to one day reach Estalucia."
+English,scene_fate_chr114_ep1,detail,,"[플레이어] and company continue their journey, gathering Sky Map pieces held by the great primal beasts so as to one day reach Estalucia."
 English,scene_fate_chr114_ep1,detail,,"The crew, searching for the whereabouts of these great primal beasts, arrives at a town where ancient legends continue to be passed down."
 English,scene_fate_chr114_ep1,detail,Vyrn,"Whoa, talk about an old town! It feels really relaxed somehow."
 English,scene_fate_chr114_ep1,detail,Lyria,"Yeah, it's just the right amount of liveliness—not too quiet, not too busy. And that makes it seem so peaceful."
@@ -156,9 +156,9 @@ English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,"I spent my days anguishing ov
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,"I do not know if you are the entity himself or his envoy, but I beseech you: please stay in this town and lead us!"
 English,scene_fate_chr114_ep1,detail,Vyrn,"Okay, now you're freaking me out!"
 English,scene_fate_chr114_ep1,detail,Vyrn,Besides I don't know anything about this revelation stuff...
-English,scene_fate_chr114_ep1,detail,Vyrn,Not to mention we already have the goal of going to Estalucia to find [Djeeta]'s father.
+English,scene_fate_chr114_ep1,detail,Vyrn,Not to mention we already have the goal of going to Estalucia to find [플레이어]'s father.
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,Estalucia... The land of legend?
-English,scene_fate_chr114_ep1,detail,Vyrn,Yep. We got a letter from [Djeeta]'s father saying that he's waiting in Estalucia.
+English,scene_fate_chr114_ep1,detail,Vyrn,Yep. We got a letter from [플레이어]'s father saying that he's waiting in Estalucia.
 English,scene_fate_chr114_ep1,detail,Lyria,"We have other reasons too for going there, but we're traveling around in the meantime."
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,I see...
 English,scene_fate_chr114_ep1,detail,Vyrn,So we can't really stay here...
@@ -167,7 +167,7 @@ English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,And another name for the end o
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,"Vyrn. As one who possesses the same presence as that great entity, your journey to the end of the skies must be fate."
 English,scene_fate_chr114_ep1,detail,Vyrn,"Huh, you think so? It seems more like a coincidence to me..."
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,I understand it may be difficult to grasp as you are not a native of this town.
-English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,"[Djeeta]... You are the master of the airship that Vyrn rides, yes?"
+English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,"[플레이어]... You are the master of the airship that Vyrn rides, yes?"
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,I believe there must be a connection between Vyrn and that great entity.
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,"By being beside Vyrn, I hope to learn how I can save the world."
 English,scene_fate_chr114_ep1,detail,Jeanne d'Arc,Perhaps I'll even find leads to uncover the truth behind my revelation.
@@ -189,7 +189,7 @@ English,scene_fate_chr114_ep1,detail,,"As rich in folklore as the town is, there
 English,scene_fate_chr114_ep1,detail,,"However, securing an ally as passionate as Jeanne d'Arc proves to be a great boon to the crew."
 English,scene_chr114_q1_s10,synopsis,,Jeanne finds herself in an existential quandary when Vyrn entreats her to be less formal. Thankfully Lyria consoles her by telling her to take it slowly.
 English,scene_chr114_q1_s10,detail,,Some time has passed since Jeanne d'Arc's enlistment in the crew.
-English,scene_chr114_q1_s10,detail,,Vyrn is speaking to [Djeeta] and Lyria on the deck of the Grandcypher.
+English,scene_chr114_q1_s10,detail,,Vyrn is speaking to [플레이어] and Lyria on the deck of the Grandcypher.
 English,scene_chr114_q1_s10,detail,Vyrn,"Hey... Um, I was wondering if I could talk to you guys about something."
 English,scene_chr114_q1_s10,detail,Lyria,"Oh, what's wrong, Vyrn? You seem a little down..."
 English,scene_chr114_q1_s10,detail,Vyrn,"Well, it's about Jeanne..."
@@ -204,7 +204,7 @@ English,scene_chr114_q1_s10,detail,Lyria,But I think this is something you need 
 English,scene_chr114_q1_s10,detail,Vyrn,You're right... Hmm...
 English,scene_chr114_q1_s10,detail,Lyria,"Oh! Speaking of which, there's Jeanne!"
 English,scene_chr114_q1_s10,detail,Lyria,"Jeanne, over here!"
-English,scene_chr114_q1_s10,detail,Jeanne d'Arc,"Hm? Ah, Lyria and [Djeeta]. And Master Vyrn too."
+English,scene_chr114_q1_s10,detail,Jeanne d'Arc,"Hm? Ah, Lyria and [플레이어]. And Master Vyrn too."
 English,scene_chr114_q1_s10,detail,Vyrn,"Hey, Jeanne... There's something I gotta talk to you about."
 English,scene_chr114_q1_s10,detail,Jeanne d'Arc,Yes! Please do not hesitate to command me as you will.
 English,scene_chr114_q1_s10,detail,Vyrn,Well... I was wondering if you could cut down on the formality.

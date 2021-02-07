@@ -1,9 +1,9 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr539_ep1,synopsis,,とある街を歩いている最中、一行は星晶獣バアルに声を掛けられる。バアルは以前[ジータ]達と出会ったときに、ルリアが元素の共鳴反応を感じていたことについて言及し、「いい感覚をしている」と褒める。ルリアとビィ、[ジータ]の３人をつなぐ共鳴に興味を持ったバアルは、「また会おう」と一行に告げて去っていくのだった。
+Japanese,scene_fate_chr539_ep1,synopsis,,とある街を歩いている最中、一行は星晶獣バアルに声を掛けられる。バアルは以前[플레이어]達と出会ったときに、ルリアが元素の共鳴反応を感じていたことについて言及し、「いい感覚をしている」と褒める。ルリアとビィ、[플레이어]の３人をつなぐ共鳴に興味を持ったバアルは、「また会おう」と一行に告げて去っていくのだった。
 Japanese,scene_fate_chr539_ep1,detail,ルリア,はわ……人が多いですね。
 Japanese,scene_fate_chr539_ep1,detail,ビィ,おい、ルリア。<br>はぐれねぇように気をつけろよ。
-Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>とある大きな街の賑やかな通りを</span><br><span class='scene-font-katari'>歩いていた[ジータ]達。</span>
-Japanese,scene_fate_chr539_ep1,detail,？？？,おい、[ジータ]。
+Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>とある大きな街の賑やかな通りを</span><br><span class='scene-font-katari'>歩いていた[플레이어]達。</span>
+Japanese,scene_fate_chr539_ep1,detail,？？？,おい、[플레이어]。
 Japanese,scene_fate_chr539_ep1,detail,ビィ,ん？
 Japanese,scene_fate_chr539_ep1,detail,ルリア,この声は……
 Japanese,scene_fate_chr539_ep1,detail,バアル,…………
@@ -11,7 +11,7 @@ Japanese,scene_fate_chr539_ep1,detail,ルリア,バアルさん！
 Japanese,scene_fate_chr539_ep1,detail,バアル,暫く振りだな。
 Japanese,scene_fate_chr539_ep1,detail,ルリア,わぁ、偶然ですね！<br>びっくりしました！
 Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>バアルは、メドゥーサの</span><br><span class='scene-font-katari'>古い知り合いの星晶獣。</span>
-Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[ジータ]達とは、</span><br><span class='scene-font-katari'>メドゥーサの姉を探した際に</span><br><span class='scene-font-katari'>顔を合わせていた。</span>
+Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[플레이어]達とは、</span><br><span class='scene-font-katari'>メドゥーサの姉を探した際に</span><br><span class='scene-font-katari'>顔を合わせていた。</span>
 Japanese,scene_fate_chr539_ep1,detail,ビィ,それにしても、お前と<br>こんなところで会うなんてなぁ……<br>ちょっと意外だったぜ。
 Japanese,scene_fate_chr539_ep1,detail,バアル,意外？
 Japanese,scene_fate_chr539_ep1,detail,ルリア,ふふ、なんだかわかる気がします。
@@ -63,8 +63,8 @@ Japanese,scene_fate_chr539_ep1,sel1_txt,,<span class='scene-font-katari'>さす�
 Japanese,scene_fate_chr539_ep1,sel2_txt,,<span class='scene-font-katari'>……ちょっと近いよ</span>
 Japanese,scene_fate_chr539_ep1,detail,ルリア,えへへ……<br>よくわかりませんが、<br>なんだか嬉しいです。
 Japanese,scene_fate_chr539_ep1,detail,バアル,あの騒々しいメドゥーサと<br>付き合いのある連中だと言うから<br>どんなものかと思っていたが……
-Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[ジータ]は</span><br><span class='scene-font-katari'>ルリアの腕を軽く引いて、</span><br><span class='scene-font-katari'>バアルとの間に割り込んだ。</span>
-Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[ジータ]は</span><br><span class='scene-font-katari'>ルリアの腕を軽く引いて、</span><br><span class='scene-font-katari'>バアルとの間に割り込んだ。</span>
+Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>ルリアの腕を軽く引いて、</span><br><span class='scene-font-katari'>バアルとの間に割り込んだ。</span>
+Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>ルリアの腕を軽く引いて、</span><br><span class='scene-font-katari'>バアルとの間に割り込んだ。</span>
 Japanese,scene_fate_chr539_ep1,detail,ビィ,なんだなんだぁ？<br>ヤキモチか？
 Japanese,scene_fate_chr539_ep1,detail,バアル,まぁ、とにかく……
 Japanese,scene_fate_chr539_ep1,detail,バアル,あの騒々しいメドゥーサと<br>付き合いのある連中だと言うから<br>どんなものかと思っていたが……
@@ -100,7 +100,7 @@ Japanese,scene_fate_chr539_ep1,detail,バアル,残酷で美しい共鳴……
 Japanese,scene_fate_chr539_ep1,detail,ルリア,え？
 Japanese,scene_fate_chr539_ep1,detail,バアル,また会おう。
 Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>小さく唇の端を持ち上げて</span><br><span class='scene-font-katari'>背を向けるバアル。</span>
-Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[ジータ]達は、その背中が</span><br><span class='scene-font-katari'>雑踏の向こうに消えるまで</span><br><span class='scene-font-katari'>手を振って見送ったのだった。</span>
+Japanese,scene_fate_chr539_ep1,detail,,<span class='scene-font-katari'>[플레이어]達は、その背中が</span><br><span class='scene-font-katari'>雑踏の向こうに消えるまで</span><br><span class='scene-font-katari'>手を振って見送ったのだった。</span>
 Japanese,scene_chr539_q1_s10,synopsis,,あちこちのバンドにサポートとして参加しているバアル。しかし、バアルがどこかひとつのバンドに留まることはなかった。そんなあるとき、バアルは「アオイドスがバンドを組んだ」という噂を聞く。独特な音楽センスを持つというアオイドスに、バアルは興味を持つのだった。
 Japanese,scene_chr539_q1_s10,detail,,<span class='scene-font-katari'>小さな街の野外音楽フェス──</span>
 Japanese,scene_chr539_q1_s10,detail,バアル,<span class='scene-font-4'>……Calling！</span>
@@ -162,11 +162,11 @@ Japanese,scene_chr539_q1_s10,detail,ドラマー,人間の……？<br>アンタ
 Japanese,scene_chr539_q1_s10,detail,ベーシスト,でもまぁ、その通りだよ。<br>残念だけど……
 Japanese,scene_chr539_q1_s10,detail,バアル,しかし、ソイツの演奏は<br>一度聴いてみたいな。
 Japanese,scene_chr539_q1_s10,detail,ドラマー,それがいい！ 確か、近々アオイドスの<br>バンドがどこかのライブハウスに<br>出てくるって話があったな……
-English,scene_fate_chr539_ep1,synopsis,,"Baal runs into the crew and comments on Lyria's ability to resonate with primals. Particularly interested in the resonance that [Djeeta], Lyria, and Vyrn share, Baal expresses his wish to see them again soon before walking off."
+English,scene_fate_chr539_ep1,synopsis,,"Baal runs into the crew and comments on Lyria's ability to resonate with primals. Particularly interested in the resonance that [플레이어], Lyria, and Vyrn share, Baal expresses his wish to see them again soon before walking off."
 English,scene_fate_chr539_ep1,detail,Lyria,Phew... It sure is packed.
 English,scene_fate_chr539_ep1,detail,Vyrn,"Careful, Lyria. Wouldn't want us to get lost in this crowd."
-English,scene_fate_chr539_ep1,detail,,[Djeeta] and company walk along a busy street in a large town.
-English,scene_fate_chr539_ep1,detail,???,"Hey, [Djeeta]."
+English,scene_fate_chr539_ep1,detail,,[플레이어] and company walk along a busy street in a large town.
+English,scene_fate_chr539_ep1,detail,???,"Hey, [플레이어]."
 English,scene_fate_chr539_ep1,detail,Vyrn,Hm?
 English,scene_fate_chr539_ep1,detail,Lyria,That voice...
 English,scene_fate_chr539_ep1,detail,Baal,...
@@ -226,9 +226,9 @@ English,scene_fate_chr539_ep1,sel1_txt,,Lyria's the best.
 English,scene_fate_chr539_ep1,sel2_txt,,"That's close enough, Baal."
 English,scene_fate_chr539_ep1,detail,Lyria,"Ehehe... I wouldn't go that far, but thanks."
 English,scene_fate_chr539_ep1,detail,Baal,"I wasn't too sure about you guys when I heard you were friendly with that loudmouth, Medusa."
-English,scene_fate_chr539_ep1,detail,,"[Djeeta] gently tugs on Lyria's arm, getting in between her and Baal."
-English,scene_fate_chr539_ep1,detail,,"[Djeeta] gently tugs on Lyria's arm, getting in between her and Baal."
-English,scene_fate_chr539_ep1,detail,Vyrn,"Ooh. Feeling jealous, [Djeeta]?"
+English,scene_fate_chr539_ep1,detail,,"[플레이어] gently tugs on Lyria's arm, getting in between her and Baal."
+English,scene_fate_chr539_ep1,detail,,"[플레이어] gently tugs on Lyria's arm, getting in between her and Baal."
+English,scene_fate_chr539_ep1,detail,Vyrn,"Ooh. Feeling jealous, [플레이어]?"
 English,scene_fate_chr539_ep1,detail,Baal,Anyway...
 English,scene_fate_chr539_ep1,detail,Baal,"I wasn't too sure about you guys when I heard you were friendly with that loudmouth, Medusa."
 English,scene_fate_chr539_ep1,detail,Baal,"But at the very least, I think I can get along better with you than her."

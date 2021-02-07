@@ -1,13 +1,13 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp28_q1_s10,2811",synopsis,,ルリアを連れ去った帝国戦艦は、既に出港してしまっていた。追おうにもグランサイファーは約束を果たさなければ飛び立てない。焦るラカムに、ノアは「君が信じるならグランサイファーは飛べる」と言い、その言葉でラカムは遂に約束を思い出した。,"루리아를 데려간 제국 전함은 이미 출항해 버렸다.쫓으려 해도 그랑사이퍼는 약속을 지키지 않으면 날아오를 수 없다.다급해진 라캄에게 노아는 네가 믿는다면 그랑사이퍼는 날 수 있다고 말했고, 그 말에 라캄은 마침내 약속을 떠올렸다."
-Japanese,"scene_cp28_q1_s10,2811",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>帝国に連れ去られたルリアを追い、</span><br><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>の港へと来ていた。</span>,<span class = 'scene-font-katari'> [지타] 일행은 </ span> <br> <span class = 'scene-font-katari'> 제국에 납치 된 루리아를 쫓아 </ span> <br> <span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari'> 항구로오고 있었다. </ span>
+Japanese,"scene_cp28_q1_s10,2811",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>帝国に連れ去られたルリアを追い、</span><br><span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>の港へと来ていた。</span>,<span class = 'scene-font-katari'> [플레이어] 일행은 </ span> <br> <span class = 'scene-font-katari'> 제국에 납치 된 루리아를 쫓아 </ span> <br> <span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari'> 항구로오고 있었다. </ span>
 Japanese,"scene_cp28_q1_s10,2811",detail,카타리나,くそっ……！<br>なぜだ……<br>なぜ帝国の戦艦がどこにもない！？,젠장....!<br>왜지....<br>왜 제국의 전함이 어디에도 없어!?
 Japanese,"scene_cp28_q1_s10,2811",detail,비이,お、落ち着こうぜ姐さん……<br>焦ったって何にも<br>いいことなんかないぜ？,오 침착하자 누나...<br>초조해봤자 아무것도<br>좋은게 없잖아?
-Japanese,"scene_cp28_q1_s10,2811",detail,카타리나,これが落ち着いていられるものか！<br>そうだろう！？ [ジータ]！,이게 진정할 수 있는 일인가! <br> 그렇지?! [지타]
+Japanese,"scene_cp28_q1_s10,2811",detail,카타리나,これが落ち着いていられるものか！<br>そうだろう！？ [플레이어]！,이게 진정할 수 있는 일인가! <br> 그렇지?! [플레이어]
 Japanese,"scene_cp28_q1_s10,2811",sel1_txt,,<span class='scene-font-katari'>少し落ち着こう</span>,<span class = 'scene-font-katari'> 조금 침착하자 </ span>
 Japanese,"scene_cp28_q1_s10,2811",sel2_txt,,<span class='scene-font-katari'>とにかく探そう</span>,<span class = 'scene-font-katari'> 어쨌든 찾자 </ span>
 Japanese,"scene_cp28_q1_s10,2811",detail,카타리나,し、しかし……！,"시, 그러나……!"
-Japanese,"scene_cp28_q1_s10,2811",detail,오이겐,ああ、[ジータ]の<br>言うとおりだぜ……<br>まずは冷静に状況を見なくっちゃあな。,"아아, [지타]의 <br>말하는 대로야……<br> 우선은 냉정하게 상황을 보지 않으면 안돼."
+Japanese,"scene_cp28_q1_s10,2811",detail,오이겐,ああ、[플레이어]の<br>言うとおりだぜ……<br>まずは冷静に状況を見なくっちゃあな。,"아아, [플레이어]의 <br>말하는 대로야……<br> 우선은 냉정하게 상황을 보지 않으면 안돼."
 Japanese,"scene_cp28_q1_s10,2811",detail,오이겐,いや……<br>あんなデケェ戦艦を見落としたりなんざ<br>するわけがねぇんだ。,아니……<br> 저런 데케 전함을 놓치거나 할 리가 없어.
 Japanese,"scene_cp28_q1_s10,2811",detail,오이겐,一度、どういう状況なのか、<br>冷静に判断する必要があるぜ……,"일단, 어떤 상황인지,<br>냉정하게 판단할 필요가 있어……"
 Japanese,"scene_cp28_q1_s10,2811",detail,ノア,冷静に状況を見れば……<br>帝国の戦艦はすでに<br>この島を出たと考えるのが妥当だろうね。,냉정하게 상황을 보니……<br>제국의 전함은 이미 <br>이 섬을 떠났다고 생각하는게 타당하겠지.
@@ -25,7 +25,7 @@ Japanese,"scene_cp28_q1_s10,2811",detail,라캄,俺が……<br>グランサイ�
 Japanese,"scene_cp28_q1_s10,2811",detail,라캄,そうか……！<br>ノア、お前……！,그렇구나……！<br>노아 너……！
 Japanese,"scene_cp28_q1_s10,2811",detail,ノア,ふふ……思い出せたようだね。<br>それじゃあ、行こうか？<br>グランサイファーが君を待ってる。,후훗.... 생각났나보네.그럼 갈까?<br>그랑사이퍼가 너를 기다리고 있어
 Japanese,"scene_cp28_q1_s10,2811",detail,ノア,あの頃と同じように……<br>再び空へと導いてくれる、<br>君という存在を待っているんだ。,그때와 마찬가지로…<br>다시 하늘로 인도해 줄 <br>군이라는 존재를 기다리고 있어.
-Japanese,"scene_cp28_q1_s20,2812",synopsis,,約束を思い出したラカムは、グランサイファーを飛び立たせる。帝国戦艦に横付けしたグランサイファーから直接乗り込み、[ジータ]達はルリアの奪還に成功する。ビィはラカムとノアの約束がなんだったのかを尋ねるが、答えを聞く前に魔物が襲いかかってきた。,"약속을 떠올린 라캄은 그랑사이퍼를 뛰게 한다.제국 전함에 옆에 붙인 그랑사이퍼로부터 직접 탑승하여, [지타]들은 루리아의 탈환에 성공한다.비는 라캄과 노아의 약속이 무엇이었는지를 묻지만 대답을 듣기도 전에 마물이 들이닥쳤다."
+Japanese,"scene_cp28_q1_s20,2812",synopsis,,約束を思い出したラカムは、グランサイファーを飛び立たせる。帝国戦艦に横付けしたグランサイファーから直接乗り込み、[플레이어]達はルリアの奪還に成功する。ビィはラカムとノアの約束がなんだったのかを尋ねるが、答えを聞く前に魔物が襲いかかってきた。,"약속을 떠올린 라캄은 그랑사이퍼를 뛰게 한다.제국 전함에 옆에 붙인 그랑사이퍼로부터 직접 탑승하여, [플레이어]들은 루리아의 탈환에 성공한다.비는 라캄과 노아의 약속이 무엇이었는지를 묻지만 대답을 듣기도 전에 마물이 들이닥쳤다."
 Japanese,"scene_cp28_q1_s20,2812",detail,,<span class='scene-font-katari'>一行はラカムの指示で、</span><br><span class='scene-font-katari'>整備中の騎空艇グランサイファーへと</span><br><span class='scene-font-katari'>乗り込んだ。</span>,<span class = 'scene-font-katari'> 일행은 라카무의 지시로 </ span> <br> <span class = 'scene-font-katari'> 정비중인 기공정 그랑 사이퍼로 </ span> <br> <span class = 'scene-font-katari'> 탔다. </ span>
 Japanese,"scene_cp28_q1_s20,2812",detail,오이겐,まだほとんど、<br>整備を始める前だったみてぇだな。<br>おかげで逆に助かったぜ。,아직 거의 <br>정비를 시작하기 전이었던 것 같네.<br>덕분에 거꾸로 살아났네.
 Japanese,"scene_cp28_q1_s20,2812",detail,오이겐,これなら、<br>あとは動力部さえ悲鳴を上げなきゃ、<br>グランサイファー自体に問題はねぇ。,이것이라면 <br>나머지는 동력부조차 비명을 지르지 않으면 <br>그랑사이퍼 자체에 문제는 없어.
@@ -40,9 +40,9 @@ Japanese,"scene_cp28_q1_s20,2812",detail,라캄,飛べ！ グランサイファ�
 Japanese,"scene_cp28_q1_s20,2812",detail,비이,うおっ！？<br>空が……<br>島を出ることが出来たってのか！？,으윽!?<br>하늘이……<br>섬을 나올 수 있었다는 거야?
 Japanese,"scene_cp28_q1_s20,2812",detail,이오,よくわかんないけど、<br>やったじゃない！<br>とにかく帝国を追いましょ！,"잘 모르겠지만,<br>했잖아!<br>어쨌든 제국을 쫓읍시다!"
 Japanese,"scene_cp28_q1_s20,2812",detail,라캄,ああ、空に出てみりゃ目と鼻の先だ……<br>ちょいととばすぞ……<br>何かに掴まってろ！,"아아, 하늘에 나가보니 엎어지면 코 닿을데....<br>좀 날려버릴테다....<br>뭔가에 잡혀있어라!"
-Japanese,"scene_cp28_q1_s20,2812",detail,루리아,カタリナ！ [ジータ]！<br>それに、みんなも……！,"카타리나! [지타]! <br> 그리고, 모두……!"
-Japanese,"scene_cp28_q1_s20,2812",detail,라캄,帝国の戦艦に横付けするぞ！<br>直接乗り込んで取り返して来い！<br>[ジータ]！,제국의 전함에 갖다 붙일 테다!직접 타서 되찾아 와!<br>[지타]!
-Japanese,"scene_cp28_q1_s20,2812",detail,,<span class='scene-font-katari'>こうして[ジータ]一行は、</span><br><span class='scene-font-katari'>無事、ルリアを取り返した。</span>,<span class = 'scene-font-katari'> 이렇게 [지타] 일행은 </ span> <br> <span class = 'scene-font-katari'> 무사히 루리아를 되찾았다. </ span>
+Japanese,"scene_cp28_q1_s20,2812",detail,루리아,カタリナ！ [플레이어]！<br>それに、みんなも……！,"카타리나! [플레이어]! <br> 그리고, 모두……!"
+Japanese,"scene_cp28_q1_s20,2812",detail,라캄,帝国の戦艦に横付けするぞ！<br>直接乗り込んで取り返して来い！<br>[플레이어]！,제국의 전함에 갖다 붙일 테다!직접 타서 되찾아 와!<br>[플레이어]!
+Japanese,"scene_cp28_q1_s20,2812",detail,,<span class='scene-font-katari'>こうして[플레이어]一行は、</span><br><span class='scene-font-katari'>無事、ルリアを取り返した。</span>,<span class = 'scene-font-katari'> 이렇게 [플레이어] 일행은 </ span> <br> <span class = 'scene-font-katari'> 무사히 루리아를 되찾았다. </ span>
 Japanese,"scene_cp28_q1_s20,2812",detail,루리아,ふぇぇー！<br>こ、こわかったです……,후-!<br>코 무서웠어요……
 Japanese,"scene_cp28_q1_s20,2812",detail,카타리나,よしよし……<br>もう大丈夫だからな……,좋아 좋아……<br>이제 괜찮으니까……
 Japanese,"scene_cp28_q1_s20,2812",detail,비이,なぁなぁ、ところで、結局<br>ラカムとノアの約束って、<br>いったいなんだったんだ？,"글쎄... 그런데 결국 <br> 라캄과 노아의 약속은,<br>도대체 무엇이었던 거야?"
@@ -61,7 +61,7 @@ Japanese,"scene_cp28_q2_s10,2821",detail,ノア,ふふ……良い風だ。<br>�
 Japanese,"scene_cp28_q2_s10,2821",detail,제국병,くっ……<br>に、逃がさんぞ……,"읏……<br>에게, 놓아주지 않겠다……"
 Japanese,"scene_cp28_q2_s10,2821",detail,오이겐,おっと……こっちの艇に<br>乗り込まれちまったみてぇだな……,이런.... 이쪽 배에<br>타 버린 것 같군.......
 Japanese,"scene_cp28_q2_s10,2821",detail,오이겐,仕方ねぇ、<br>まとめてふん縛ってやるとするかぁ！,"어쩔 수 없지,<br>모아서 단단히 묶어버릴까!"
-Japanese,"scene_cp28_q2_s20,2822",synopsis,,ラカムの成長に感慨深げなノア。彼はラカムと[ジータ]が一緒にガロンゾへ来たことを意外に思っていた。[ジータ]の父を知っているらしい口ぶりのノアだが、自分がそのことを話す時ではないと言い、詳しい話はしてくれなかった。,"라캄의 성장에 감회가 새로운 노아그는 라캄과 [지타]가 함께 갈론조에 온 것을 의외로 생각하고 있었다.[지타]의 아버지를 알고 있는 것 같은 말투의 노아이지만, 자신이 그 일을 이야기할 때가 아니라며, 자세한 이야기는 해 주지 않았다."
+Japanese,"scene_cp28_q2_s20,2822",synopsis,,ラカムの成長に感慨深げなノア。彼はラカムと[플레이어]が一緒にガロンゾへ来たことを意外に思っていた。[플레이어]の父を知っているらしい口ぶりのノアだが、自分がそのことを話す時ではないと言い、詳しい話はしてくれなかった。,"라캄의 성장에 감회가 새로운 노아그는 라캄과 [플레이어]가 함께 갈론조에 온 것을 의외로 생각하고 있었다.[플레이어]의 아버지를 알고 있는 것 같은 말투의 노아이지만, 자신이 그 일을 이야기할 때가 아니라며, 자세한 이야기는 해 주지 않았다."
 Japanese,"scene_cp28_q2_s20,2822",detail,라캄,よっし！<br>乗り込んできた帝国兵は<br>これで全部か！？,좋아!<br>올라온 제국병은<br>이게 전부인가!?
 Japanese,"scene_cp28_q2_s20,2822",detail,카타리나,私は船尾のほうを確認してこよう。,나는 함미 쪽을 확인하고 오겠다.
 Japanese,"scene_cp28_q2_s20,2822",detail,이오,じゃあ、あたし、<br>部屋の中に居ないか、<br>見てくるわね！,그럼 나 방 안에 있는지 보고 올게!
@@ -69,15 +69,15 @@ Japanese,"scene_cp28_q2_s20,2822",detail,오이겐,それならオレは、<br>�
 Japanese,"scene_cp28_q2_s20,2822",detail,ノア,ふふ……ねぇ、ラカム、<br>君はずいぶん頼もしい仲間を<br>手に入れたんだね……,"후후……야, 라캄, <br> 자네는 대단히 믿음직한 동료를<br> 손에 넣었네……"
 Japanese,"scene_cp28_q2_s20,2822",detail,ノア,あの日……<br>迷子になってひとりで<br>泣いていた君からは想像も出来ないよ。,그 날…<br>미아가 되어 혼자서<br>울고 있던 너로서는 상상도 할 수 없어.
 Japanese,"scene_cp28_q2_s20,2822",detail,라캄,う、うっせーな……<br>俺もまぁ……色々あったんだよ。,"으,어,어,어,어……<br>나도 뭐……여러가지가 있었어."
-Japanese,"scene_cp28_q2_s20,2822",detail,ノア,というか……<br>まさか<br>[ジータ]と一緒に現れるとはね……,라고 할까……<br>설마<br>[지타]와 함께 나타날 줄이야……
-Japanese,"scene_cp28_q2_s20,2822",detail,비이,ん？<br>ノアは[ジータ]を、<br>知ってるってのか？,"어?<br>노아는 [지타]를,<br>안다는거야?"
+Japanese,"scene_cp28_q2_s20,2822",detail,ノア,というか……<br>まさか<br>[플레이어]と一緒に現れるとはね……,라고 할까……<br>설마<br>[플레이어]와 함께 나타날 줄이야……
+Japanese,"scene_cp28_q2_s20,2822",detail,비이,ん？<br>ノアは[플레이어]を、<br>知ってるってのか？,"어?<br>노아는 [플레이어]를,<br>안다는거야?"
 Japanese,"scene_cp28_q2_s20,2822",detail,ノア,君自身と会うのは初めてかな……<br>けど、<br>君のお父さんと、少し縁があってね。,"너 자신과 만나는건 처음인가...<br>하지만,<br>너의 아버지와 조금 인연이 있어서 말야."
 Japanese,"scene_cp28_q2_s20,2822",detail,비이,親父さんを知ってるってのか！？<br>いったいどういう関係で……,아버지를 안다는 거야?<br>도대체 어떤 관계로……
 Japanese,"scene_cp28_q2_s20,2822",detail,ノア,残念だけど、<br>まだ僕がそれを話す時ではない<br>みたいなんだ。,아쉽지만 <br> 아직 내가 그걸 얘기할 때가 아닌 <br>인 것 같아.
 Japanese,"scene_cp28_q2_s20,2822",detail,ノア,その時になればきっと僕の口から……<br>いや、もっとたくさんの人から<br>過去を聞くことになると思うよ。,"그때가 되면 분명 내 입으로....<br>아니, 더 많은 사람으로부터<br>과거를 듣게 될거야."
 Japanese,"scene_cp28_q2_s20,2822",detail,마물,グオオオォォッ！！,응어어어엇!!
-Japanese,"scene_cp28_q2_s20,2822",detail,ノア,それよりまずは<br>いまの敵を倒さなくっちゃね。<br>さぁ、構えるんだ、[ジータ]。,"그것보다 우선은<br>지금의 적을 쓰러뜨리지 않으면 안돼.<br>자, 자세를 취해봐. [지타]"
-Japanese,"scene_cp28_q3_s10,2831",synopsis,,帝国兵は倒したものの、グランサイファーの動力炉はいつ墜落してもおかしくない状態だった。今度こそ整備をするため、[ジータ]達はガロンゾへ戻ろうとする。,비록 제국병은 쓰러뜨렸지만 그랑사이퍼 동력로는 언제 추락해도 이상하지 않은 상태였다.이번에야말로 정비를 하기 위해 [지타]들은 갈론조로 돌아가려고 한다.
+Japanese,"scene_cp28_q2_s20,2822",detail,ノア,それよりまずは<br>いまの敵を倒さなくっちゃね。<br>さぁ、構えるんだ、[플레이어]。,"그것보다 우선은<br>지금의 적을 쓰러뜨리지 않으면 안돼.<br>자, 자세를 취해봐. [플레이어]"
+Japanese,"scene_cp28_q3_s10,2831",synopsis,,帝国兵は倒したものの、グランサイファーの動力炉はいつ墜落してもおかしくない状態だった。今度こそ整備をするため、[플레이어]達はガロンゾへ戻ろうとする。,비록 제국병은 쓰러뜨렸지만 그랑사이퍼 동력로는 언제 추락해도 이상하지 않은 상태였다.이번에야말로 정비를 하기 위해 [플레이어]들은 갈론조로 돌아가려고 한다.
 Japanese,"scene_cp28_q3_s10,2831",detail,비이,よっしゃ！ ルリアも取り返して、<br>帝国の連中もやっつけたわけだし<br>さっさと戦艦から離れようぜ！,좋아! 루리아도 돌려주고 <br>제국 무리들도 해치운거니까<br>얼른 전함에서 떠나자구!
 Japanese,"scene_cp28_q3_s10,2831",detail,오이겐,ああ、それがいい。<br>さっき動力部を見てきたが、<br>いつ墜落してもおかしくねぇ状況だ。,"아, 그게 좋겠다.<br>아까 동력부를 살펴봤는데 <br> 언제 추락할지 모르는 상황이다."
 Japanese,"scene_cp28_q3_s10,2831",detail,루리아,今度こそ、<br>ちゃんと整備をしてあげないと、<br>いけませんね！,이번에야말로 제대로 정비를 해주지않으면 안되겠네요!
@@ -128,8 +128,8 @@ Japanese,"scene_cp28_q4_s20,2842",detail,이오,でも、オルキスの保護�
 Japanese,"scene_cp28_q4_s20,2842",detail,이오,あっ！<br>まさかあの女の人が、<br>鎧を脱いだ黒騎士とか……,앗! 설마 그 여자가 갑옷을 벗은 흑기사라던가....
 Japanese,"scene_cp28_q4_s20,2842",detail,오이겐,いや、それはねぇなぁ……<br>ありゃ、間違いなく別人だ。,"아니, 그건 말이지……<br>아니, 틀림없이 다른 사람이다."
 Japanese,"scene_cp28_q4_s20,2842",detail,라캄,いまとやかく考えても仕方ねぇ……<br>来るぞ！ 全員構えろ！,지금 이것저것 생각해도 소용없어……<br>올거야! 다 있어라!
-Japanese,"scene_cp28_q4_s30,2843",synopsis,,ミスラは無事撃退できたものの、ルリアはオルキスの声が聞こえないと嘆く。ひとまずグランサイファーの整備のためガロンゾへ戻った[ジータ]達。そんな一行の元に秩序の騎空団に所属するという女性がやって来た。彼女は連行した黒騎士の事情聴取に同席してもらいたいと言うのだった。,미스라는 무사히 물러났지만 루리아는 오르키스 소리가 들리지 않는다며 한탄한다.일단 그랑사이퍼의 정비를 위해 갈론조로 돌아온 [지타]들. 그런 일행들 밑에 질서의 기공단에 소속되어 있다는 여성이 왔다.그는 연행한 흑기사의 소환조사에 동석해 달라는 것이었다.
-Japanese,"scene_cp28_q4_s30,2843",detail,,<span class='scene-font-katari'>力を合わせ、</span><br><span class='scene-font-katari'>オルキスの使役する星晶獣ミスラを</span><br><span class='scene-font-katari'>退けた[ジータ]一行。</span>,<span class = 'scene-font-katari'> 힘을 합쳐 </ span> <br> <span class = 'scene-font-katari'> 오루키스의 사역 성정수 미스라를 </ span> <br > <span class = 'scene-font-katari'> 물리 쳤다 [지타] 일행. </ span>
+Japanese,"scene_cp28_q4_s30,2843",synopsis,,ミスラは無事撃退できたものの、ルリアはオルキスの声が聞こえないと嘆く。ひとまずグランサイファーの整備のためガロンゾへ戻った[플레이어]達。そんな一行の元に秩序の騎空団に所属するという女性がやって来た。彼女は連行した黒騎士の事情聴取に同席してもらいたいと言うのだった。,미스라는 무사히 물러났지만 루리아는 오르키스 소리가 들리지 않는다며 한탄한다.일단 그랑사이퍼의 정비를 위해 갈론조로 돌아온 [플레이어]들. 그런 일행들 밑에 질서의 기공단에 소속되어 있다는 여성이 왔다.그는 연행한 흑기사의 소환조사에 동석해 달라는 것이었다.
+Japanese,"scene_cp28_q4_s30,2843",detail,,<span class='scene-font-katari'>力を合わせ、</span><br><span class='scene-font-katari'>オルキスの使役する星晶獣ミスラを</span><br><span class='scene-font-katari'>退けた[플레이어]一行。</span>,<span class = 'scene-font-katari'> 힘을 합쳐 </ span> <br> <span class = 'scene-font-katari'> 오루키스의 사역 성정수 미스라를 </ span> <br > <span class = 'scene-font-katari'> 물리 쳤다 [플레이어] 일행. </ span>
 Japanese,"scene_cp28_q4_s30,2843",detail,,<span class='scene-font-katari'>溢れ出たその力の一部を、</span><br><span class='scene-font-katari'>空図の欠片と共に</span><br><span class='scene-font-katari'>ルリアは吸収するが……</span>,<span class = 'scene-font-katari'> 쏟아져 나왔다 그 힘의 일부를 </ span> <br> <span class = 'scene-font-katari'> 하늘 그림과 조각과 함께 </ span> <br> <span class = 'scene-font-katari'> 루리아는 흡수하지만 ...... </ span>
 Japanese,"scene_cp28_q4_s30,2843",detail,루리아,オルキスちゃんの声が……聞こえない。,오르키스의 목소리가……들리지 않는다.
 Japanese,"scene_cp28_q4_s30,2843",detail,루리아,何か……<br>きっと何かわかると思ったのに<br>何も聞こえない……,무엇인가……<br>분명히 무엇인가 알거라고 생각했는데<br>아무것도 들리지 않는다……
@@ -147,7 +147,7 @@ Japanese,"scene_cp28_q4_s30,2843",detail,ノア,艇造りの星晶獣の名に�
 Japanese,"scene_cp28_q4_s30,2843",detail,라캄,へへっ……<br>これ以上の頼もしい<br>船大工もいねぇよな！,헤헷……<br>이 이상의 믿음직한<br>선대공도 없지!
 Japanese,"scene_cp28_q4_s30,2843",detail,카타리나,ふっ……そうだな。<br>それじゃ、<br>グランサイファーは任せるとして……,"훗…그렇군.<br>그럼,<br>그랑사이퍼는 맡긴다고해서....."
 Japanese,"scene_cp28_q4_s30,2843",detail,카타리나,私達はゆっくり休むとしようか。<br>予期せぬ事態の連続で、<br>妙に疲れたというか……,"우린 푹 쉬어볼까?예기치 못한 사태의 연속으로,<br>묘하게 지쳤다고나 할까……"
-Japanese,"scene_cp28_q4_s30,2843",detail,？？？,失礼……こちらの騎空団の団長は<br>[ジータ]さんで<br>間違いありませんか？,실례……이쪽 기공단의 단장은<br>[지타]씨로<br>틀림없습니까?
+Japanese,"scene_cp28_q4_s30,2843",detail,？？？,失礼……こちらの騎空団の団長は<br>[플레이어]さんで<br>間違いありませんか？,실례……이쪽 기공단의 단장은<br>[플레이어]씨로<br>틀림없습니까?
 Japanese,"scene_cp28_q4_s30,2843",detail,？？？,…………,…………
 Japanese,"scene_cp28_q4_s30,2843",detail,비이,ん？ そうだけど……<br>オイラ達に何か用か？,응? 그렇긴 한데……<br>오이라들에게 무슨 용무야?
 Japanese,"scene_cp28_q4_s30,2843",detail,？？？,私達は七曜の騎士が一人、<br>碧の騎士率いる<br>秩序の騎空団の者ですが……,"우리는 칠요의 기사가 한 명이고, <br> 벽의 기사가 거느린 <br> 질서의 기공단의 자인데……"
@@ -156,17 +156,17 @@ Japanese,"scene_cp28_q4_s30,2843",detail,？？？,つきましては、<br>そ�
 Japanese,"scene_cp28_q4_s30,2843",detail,오이겐,く、黒騎士が捕まった……？,흑기사가 잡혔다……?
 Japanese,"scene_cp28_q4_s30,2843",detail,？？？,ええ……<br>これから<span class='scene-font-place'>アマルティア島</span>の拠点で、<br>事情聴取が行われます。,네……<br>지금부터<span class='scene-font-place'>아마르티아 섬</span>의 거점에서<br>사정청취가 이루어지겠습니다.
 Japanese,"scene_cp28_q4_s30,2843",detail,？？？,お手数ですが……<br>ご同行いただけますね？,수고스럽겠지만....<br> 동행해주시겠어요?
-Japanese,"scene_cp28_q4_s30,2843",detail,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>に最後に現れた二人組は、</span><br><span class='scene-font-katari'>思わぬ事態を</span><br><span class='scene-font-katari'>[ジータ]一行に告げる。</span>,<span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari'> 마지막으로 나타난 두 명조는 </ span> <br> <span class = ' scene-font-katari '> 뜻밖의 사태 </ span> <br> <span class ='scene-font-katari'> 지타] 일행에게 말한다. </ span>
+Japanese,"scene_cp28_q4_s30,2843",detail,,<span class='scene-font-place'>ガロンゾ</span><span class='scene-font-katari'>に最後に現れた二人組は、</span><br><span class='scene-font-katari'>思わぬ事態を</span><br><span class='scene-font-katari'>[플레이어]一行に告げる。</span>,<span class = 'scene-font-place'> 가론조 </ span> <span class = 'scene-font-katari'> 마지막으로 나타난 두 명조는 </ span> <br> <span class = ' scene-font-katari '> 뜻밖의 사태 </ span> <br> <span class ='scene-font-katari'> 지타] 일행에게 말한다. </ span>
 Japanese,"scene_cp28_q4_s30,2843",detail,,<span class='scene-font-katari'>目に見えぬ陰謀と策略の</span><br><span class='scene-font-katari'>大きなうねりが、一行を静かに</span><br><span class='scene-font-katari'>飲み込もうとしているのだった。</span>,"<span class='scene-font-katari'>눈에 보이지 않는 음모가</span><br><span class='scene-font-katari'>거대 하고 있었고, 일행은</span><br><span class='scene-font-katari'>숨을 삼킬수 밖에 없었다。</span>"
 English,"scene_cp28_q1_s10,2811",synopsis,,The crew grows desperate when they realize that the imperials have already departed the island with Lyria. This tense moment causes Rackam to remember more about the promise he made to Noa.
-English,"scene_cp28_q1_s10,2811",detail,,"[Djeeta] and the crew, in hopes of rescuing Lyria, are pursuing the imperial forces back to the port."
+English,"scene_cp28_q1_s10,2811",detail,,"[플레이어] and the crew, in hopes of rescuing Lyria, are pursuing the imperial forces back to the port."
 English,"scene_cp28_q1_s10,2811",detail,Katalina,Damn it! Where did that battleship go!
 English,"scene_cp28_q1_s10,2811",detail,Vyrn,"Katalina, calm down... Getting mad like that won't get us any closer to savin' her!"
 English,"scene_cp28_q1_s10,2811",detail,Katalina,As if I could calm down at a time like this!
 English,"scene_cp28_q1_s10,2811",sel1_txt,,Calm down a little.
 English,"scene_cp28_q1_s10,2811",sel2_txt,,Let's just look for it.
 English,"scene_cp28_q1_s10,2811",detail,Katalina,H-how can you say that!
-English,"scene_cp28_q1_s10,2811",detail,Eugen,"Aye, you'd better do as [Djeeta] says. We've gotta look at this situation with a level head."
+English,"scene_cp28_q1_s10,2811",detail,Eugen,"Aye, you'd better do as [플레이어] says. We've gotta look at this situation with a level head."
 English,"scene_cp28_q1_s10,2811",detail,Eugen,There's no way we could overlook that giant battleship.
 English,"scene_cp28_q1_s10,2811",detail,Eugen,Let's all try to keep our wits about us as we figure out what to do.
 English,"scene_cp28_q1_s10,2811",detail,Noa,Then I'll calmly assess the situation. It's safe to assume that the imperial battleship has already departed the island.
@@ -199,9 +199,9 @@ English,"scene_cp28_q1_s20,2812",detail,Rackam,"Fly, Grandcypher! We'll chase do
 English,"scene_cp28_q1_s20,2812",detail,Vyrn,Whoa! Are we in the sky? Did we make it off the island?
 English,"scene_cp28_q1_s20,2812",detail,Io,It all worked out somehow! Now all that's left is to catch up to that battleship!
 English,"scene_cp28_q1_s20,2812",detail,Rackam,The secret to gettin' the ol' gal to fly again was right under my nose the whole time... I'm going to increase speed—everyone grab onto somethin'!
-English,"scene_cp28_q1_s20,2812",detail,Lyria,"Katalina! [Djeeta]! And, the rest of you...!"
-English,"scene_cp28_q1_s20,2812",detail,Rackam,"I'm pullin' up next to the battleship! Get on board, get Lyria back, and get out quick, [Djeeta]!"
-English,"scene_cp28_q1_s20,2812",detail,,"[Djeeta] retrieves Lyria, who's still shaking with fresh terror."
+English,"scene_cp28_q1_s20,2812",detail,Lyria,"Katalina! [플레이어]! And, the rest of you...!"
+English,"scene_cp28_q1_s20,2812",detail,Rackam,"I'm pullin' up next to the battleship! Get on board, get Lyria back, and get out quick, [플레이어]!"
+English,"scene_cp28_q1_s20,2812",detail,,"[플레이어] retrieves Lyria, who's still shaking with fresh terror."
 English,"scene_cp28_q1_s20,2812",detail,Lyria,Waaah! That was so scary!
 English,"scene_cp28_q1_s20,2812",detail,Katalina,It's okay... Sniffle... You're safe now...
 English,"scene_cp28_q1_s20,2812",detail,Vyrn,"Yeah! Thanks to Rackam rememberin' his promise! But, uh, what was it by the way?"
@@ -220,7 +220,7 @@ English,"scene_cp28_q2_s10,2821",detail,Noa,"But, ahh—this breeze is so nice. 
 English,"scene_cp28_q2_s10,2821",detail,Imperial Soldier,Huff... I... Huff... I won't let you escape!
 English,"scene_cp28_q2_s10,2821",detail,Eugen,Looks like we've got some stowaways.
 English,"scene_cp28_q2_s10,2821",detail,Eugen,Herd 'em together and tie 'em up!
-English,"scene_cp28_q2_s20,2822",synopsis,,Noa reveals that he's met [Djeeta]'s father before.
+English,"scene_cp28_q2_s20,2822",synopsis,,Noa reveals that he's met [플레이어]'s father before.
 English,"scene_cp28_q2_s20,2822",detail,Rackam,All right! That seems to be all of the imperial troops that made it on board!
 English,"scene_cp28_q2_s20,2822",detail,Katalina,I'll go double check by the stern.
 English,"scene_cp28_q2_s20,2822",detail,Io,"Okay, then I'll go see if there are any more of them in the rooms!"
@@ -228,14 +228,14 @@ English,"scene_cp28_q2_s20,2822",detail,Eugen,Hmm. I'll check on the thrusters. 
 English,"scene_cp28_q2_s20,2822",detail,Noa,"Oh, Rackam. You've ended up with some really reliable friends, haven't you?"
 English,"scene_cp28_q2_s20,2822",detail,Noa,"It's hard to imagine that you were once a sniffling little child, lost in the streets of Golonzo."
 English,"scene_cp28_q2_s20,2822",detail,Rackam,Sh-shut it. I've... been through a lot.
-English,"scene_cp28_q2_s20,2822",detail,Noa,"Still, it's quite surprising that you would suddenly show up with [Djeeta]."
-English,"scene_cp28_q2_s20,2822",detail,Vyrn,"Huh? Noa, don't say years ago you met [Djeeta] too!"
+English,"scene_cp28_q2_s20,2822",detail,Noa,"Still, it's quite surprising that you would suddenly show up with [플레이어]."
+English,"scene_cp28_q2_s20,2822",detail,Vyrn,"Huh? Noa, don't say years ago you met [플레이어] too!"
 English,"scene_cp28_q2_s20,2822",detail,Noa,"No, no. It's not that. I just have some ties with your father. That's all."
-English,"scene_cp28_q2_s20,2822",detail,Vyrn,You know [Djeeta]'s dad! How?
+English,"scene_cp28_q2_s20,2822",detail,Vyrn,You know [플레이어]'s dad! How?
 English,"scene_cp28_q2_s20,2822",detail,Noa,Sadly I don't think I can discuss that just yet.
 English,"scene_cp28_q2_s20,2822",detail,Noa,"When the time is right, I'll tell you everything. But by then I'm sure you'll want to ask more than a few people about the past."
 English,"scene_cp28_q2_s20,2822",detail,Monster,Groar!
-English,"scene_cp28_q2_s20,2822",detail,Noa,"But for now, there are foes that require our attention. Prepare yourself, [Djeeta]."
+English,"scene_cp28_q2_s20,2822",detail,Noa,"But for now, there are foes that require our attention. Prepare yourself, [플레이어]."
 English,"scene_cp28_q3_s10,2831",synopsis,,"The Grandcypher is still in rough shape, so the crew decides to make haste back to Golonzo."
 English,"scene_cp28_q3_s10,2831",detail,Vyrn,"All right, crew! We got Lyria back and beat up a buncha imperials! 'Bout time we put some distance between us and that battleship, eh!"
 English,"scene_cp28_q3_s10,2831",detail,Eugen,"Aye, you're right. But I just checked on the thrusters—aaand I wouldn't be surprised if they quit on us any time now."
@@ -287,7 +287,7 @@ English,"scene_cp28_q4_s20,2842",detail,Io,But wasn't the Black Knight protectin
 English,"scene_cp28_q4_s20,2842",detail,Io,Wait! Could that lady be the Black Knight without armor on?
 English,"scene_cp28_q4_s20,2842",detail,Eugen,"No way, kiddo. They're definitely different people."
 English,"scene_cp28_q4_s20,2842",detail,Rackam,Don't really have the luxury to think about that right now—here it comes! Everyone brace yourselves!
-English,"scene_cp28_q4_s30,2843",synopsis,,"After fighting Mithra, the crew returns to town. There they encounter a mysterious pair that asks [Djeeta] to come to Amalthea Island."
+English,"scene_cp28_q4_s30,2843",synopsis,,"After fighting Mithra, the crew returns to town. There they encounter a mysterious pair that asks [플레이어] to come to Amalthea Island."
 English,"scene_cp28_q4_s30,2843",detail,,The crew stands tense after the fight with Mithra.
 English,"scene_cp28_q4_s30,2843",detail,,Lyria finishes absorbing Mithra's essence along with a piece of the sky map. But a sad look crosses her face.
 English,"scene_cp28_q4_s30,2843",detail,Lyria,I can't hear her. I can't hear Orchis's voice.
@@ -306,7 +306,7 @@ English,"scene_cp28_q4_s30,2843",detail,Noa,The Grandcypher will be as good as n
 English,"scene_cp28_q4_s30,2843",detail,Rackam,And there's not a shipwright more reliable than you!
 English,"scene_cp28_q4_s30,2843",detail,Katalina,"Hah... Yeah! All right, we'll leave the Grandcypher to you..."
 English,"scene_cp28_q4_s30,2843",detail,Katalina,"Why don't we relax for a bit? We've been through a lot, and I'm more than a little exhausted."
-English,"scene_cp28_q4_s30,2843",detail,???,"Excuse me. [Djeeta], you are the captain of this crew, are you not?"
+English,"scene_cp28_q4_s30,2843",detail,???,"Excuse me. [플레이어], you are the captain of this crew, are you not?"
 English,"scene_cp28_q4_s30,2843",detail,???,...
 English,"scene_cp28_q4_s30,2843",detail,Vyrn,"Yeah, but what's this about?"
 English,"scene_cp28_q4_s30,2843",detail,???,"We're members of the Crew of Enforcers, led by the Blue Knight of the Seven Luminary Knights."

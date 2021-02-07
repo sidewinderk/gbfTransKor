@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr095_ep1,synopsis,,とある国で、王都を守る白竜騎士団を率いる騎士、ランスロットに出会う[ジータ]一行。ランスロットは若くして騎空団をまとめる[ジータ]に興味を持ち、一行はそんなランスロットを騎空団の仲間に誘う。
+Japanese,scene_fate_chr095_ep1,synopsis,,とある国で、王都を守る白竜騎士団を率いる騎士、ランスロットに出会う[플레이어]一行。ランスロットは若くして騎空団をまとめる[플레이어]に興味を持ち、一行はそんなランスロットを騎空団の仲間に誘う。
 Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>旅の途中、星晶獣シルフの加護により</span><br><span class='scene-font-katari'>栄えるという、稀有な国を訪れた一行。</span>
 Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>一行は、その星晶獣シルフを</span><br><span class='scene-font-katari'>喰らったファフニールを退治するため、</span><br><span class='scene-font-katari'>討伐軍に加わることとなった。</span>
 Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>討伐を翌日に控えた一行は、</span><br><span class='scene-font-katari'>白竜騎士団のランスロットの案内で、</span><br><span class='scene-font-katari'>王宮の中を移動しているのだった。</span>
@@ -17,7 +17,7 @@ Japanese,scene_fate_chr095_ep1,detail,衛兵２,で、でも、こいつが先�
 Japanese,scene_fate_chr095_ep1,detail,衛兵１,違いますよ！<br>そいつが先に、暴言を吐いたんです！
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,ダメだ。<br>規則の順守は絶対だ。<br>例外は認められん。
 Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>そうして衛兵達は</span><br><span class='scene-font-katari'>ランスロットから</span><br><span class='scene-font-katari'>謹慎処分を言い渡されたのだった。</span>
-Japanese,scene_fate_chr095_ep1,detail,ランスロット,[ジータ]。<br>見苦しいところを見せて、<br>すまなかったな。
+Japanese,scene_fate_chr095_ep1,detail,ランスロット,[플레이어]。<br>見苦しいところを見せて、<br>すまなかったな。
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,ファフニール討伐を明日に控えて<br>衛兵たちもピリピリしているんだろう。
 Japanese,scene_fate_chr095_ep1,detail,ビィ,いやぁ～<br>ランスロットが急に怖い顔して<br>止めに入るから驚いたぜ。
 Japanese,scene_fate_chr095_ep1,detail,ルリア,はい……<br>騎士団をまとめるのも<br>なかなか大変そうですね！
@@ -26,13 +26,13 @@ Japanese,scene_fate_chr095_ep1,detail,ランスロット,特に、仲間同士�
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,その規則は、たとえ団長であれ絶対。<br>軍規を乱した者は、どんな理由であれ<br>裁きから逃れられない……
 Japanese,scene_fate_chr095_ep1,detail,ルリア,騎士としてやっていくのも<br>なかなか大変そうですね……
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,怖がらせてすまない！<br>でも……
-Japanese,scene_fate_chr095_ep1,detail,ランスロット,それを言えば、騎空団を<br>まとめるのだって大変だろう？<br>なぁ、[ジータ]？
+Japanese,scene_fate_chr095_ep1,detail,ランスロット,それを言えば、騎空団を<br>まとめるのだって大変だろう？<br>なぁ、[플레이어]？
 Japanese,scene_fate_chr095_ep1,sel1_txt,,<span class='scene-font-katari'>それほどでも</span>
 Japanese,scene_fate_chr095_ep1,sel2_txt,,<span class='scene-font-katari'>割と自由かな</span>
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,ふっ……<br>余裕といったところか。
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,確かに……<br>空には自由が似合うな。
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,だが……<br>その歳でこれだけの騎空団を<br>率いるとは、人望があるのだろうな。
-Japanese,scene_fate_chr095_ep1,detail,ビィ,まぁな！ ランスロットも<br>[ジータ]の騎空団についてきたら<br>その理由がわかると思うぜ？
+Japanese,scene_fate_chr095_ep1,detail,ビィ,まぁな！ ランスロットも<br>[플레이어]の騎空団についてきたら<br>その理由がわかると思うぜ？
 Japanese,scene_fate_chr095_ep1,sel1_txt,,<span class='scene-font-katari'>いつでも歓迎するよ！</span>
 Japanese,scene_fate_chr095_ep1,sel2_txt,,<span class='scene-font-katari'>でも騎士団が……</span>
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,ははは、面白い！<br>俺を、誘ってくれてるのか？
@@ -43,9 +43,9 @@ Japanese,scene_fate_chr095_ep1,detail,ルリア,おやすみなさい！<br>ラ�
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,おやすみ……
 Japanese,scene_fate_chr095_ep1,detail,ランスロット,<span class='scene-font-kokoro'>（騎空団か。</span><br><span class='scene-font-kokoro'>彼らの背負う使命とはいかほどのものか、</span><br><span class='scene-font-kokoro'>ふふ、実に興味深いな。）</span>
 Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>こうして……</span><br><span class='scene-font-katari'>ファフニール討伐を目前に控えた夜は、</span><br><span class='scene-font-katari'>静かに更けていった。</span>
-Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>[ジータ]達は、明日の戦いに備えて</span><br><span class='scene-font-katari'>つかの間の休息を取るのだった。</span>
-Japanese,scene_chr095_q1_s10,synopsis,,カール王より国の発展のため、[ジータ]達への同行を命じられたランスロット。より良い国造りの手本にすべく、以前耳にした王の存在しない国を目指すことに。
-Japanese,scene_chr095_q1_s10,detail,,<span class='scene-font-katari'>白竜騎士団の団長・ランスロットは</span><br><span class='scene-font-katari'>国王カールから[ジータ]達に同行し</span><br><span class='scene-font-katari'>諸国遊学をするよう命じられた。</span>
+Japanese,scene_fate_chr095_ep1,detail,,<span class='scene-font-katari'>[플레이어]達は、明日の戦いに備えて</span><br><span class='scene-font-katari'>つかの間の休息を取るのだった。</span>
+Japanese,scene_chr095_q1_s10,synopsis,,カール王より国の発展のため、[플레이어]達への同行を命じられたランスロット。より良い国造りの手本にすべく、以前耳にした王の存在しない国を目指すことに。
+Japanese,scene_chr095_q1_s10,detail,,<span class='scene-font-katari'>白竜騎士団の団長・ランスロットは</span><br><span class='scene-font-katari'>国王カールから[플레이어]達に同行し</span><br><span class='scene-font-katari'>諸国遊学をするよう命じられた。</span>
 Japanese,scene_chr095_q1_s10,detail,カール,我が国の更なる発展のため、<br>お主には広い世界を見て<br>新たな視点を得てもらいたい。
 Japanese,scene_chr095_q1_s10,detail,カール,ランスロットよ。<br>お主が戻った暁には、国に善き変化を<br>もたらしてくれると信じておるぞ。
 Japanese,scene_chr095_q1_s10,detail,ランスロット,はっ！<br>このランスロット、<br>国の礎となるべく精進いたします！
@@ -59,14 +59,14 @@ Japanese,scene_chr095_q1_s10,detail,ビィ,へぇ、じゃあどこか<br>行っ
 Japanese,scene_chr095_q1_s10,detail,ランスロット,そうだな……<br>以前、王を戴かない国というのを聞いて<br>驚いたことがあるんだ。
 Japanese,scene_chr095_q1_s10,detail,ランスロット,あそこがどのような<br>国造りをしているのか、<br>興味があるな……
 Japanese,scene_chr095_q1_s10,detail,ビィ,王様がいない国かぁ！<br>そりゃ、ランスロットの国とは<br>随分違うよな。
-Japanese,scene_chr095_q1_s10,detail,ルリア,まだ次の目的地も決まってませんし、<br>良ければその国へ行ってみましょうよ、<br>[ジータ]！
+Japanese,scene_chr095_q1_s10,detail,ルリア,まだ次の目的地も決まってませんし、<br>良ければその国へ行ってみましょうよ、<br>[플레이어]！
 Japanese,scene_chr095_q1_s10,sel1_txt,,<span class='scene-font-katari'>折角だから行こう！</span>
 Japanese,scene_chr095_q1_s10,sel2_txt,,<span class='scene-font-katari'>依頼はあるかな？</span>
 Japanese,scene_chr095_q1_s10,detail,ランスロット,平和な国だと聞いているから、<br>骨休めにいいかもしれないな。
 Japanese,scene_chr095_q1_s10,detail,ランスロット,そうだな……騎空士の助けを<br>必要としていない国は、<br>空の世界には滅多にないんじゃないか？
-Japanese,scene_chr095_q1_s10,detail,ランスロット,我儘を言ってすまない。<br>ありがとう、[ジータ]。
+Japanese,scene_chr095_q1_s10,detail,ランスロット,我儘を言ってすまない。<br>ありがとう、[플레이어]。
 Japanese,scene_chr095_q1_s10,detail,ビィ,よぉし、それじゃあ<br>ランスロットが言ってた国へ<br>出発しようぜ！
-English,scene_fate_chr095_ep1,synopsis,,Lancelot of the Order of the White Dragons takes an interest in [Djeeta]'s ability to lead a crew. [Djeeta] invites Lancelot to join them.
+English,scene_fate_chr095_ep1,synopsis,,Lancelot of the Order of the White Dragons takes an interest in [플레이어]'s ability to lead a crew. [플레이어] invites Lancelot to join them.
 English,scene_fate_chr095_ep1,detail,,The crew visits a country blessed by the protective powers of a primal beast named Sylph.
 English,scene_fate_chr095_ep1,detail,,"When Sylph is swallowed by a dragon named Fafnir, the crew joins a rescue team to get her back."
 English,scene_fate_chr095_ep1,detail,,The rescue operation will commence the next day. In the meantime Lancelot guides the crew through the royal palace.
@@ -84,7 +84,7 @@ English,scene_fate_chr095_ep1,detail,Guard 2,B-but he started it first!
 English,scene_fate_chr095_ep1,detail,Guard 1,Did not! You badmouthed <span class='scene-font-italic'>me</span> first!
 English,scene_fate_chr095_ep1,detail,Lancelot,It doesn't matter. You will comply with the rules at all times. No exceptions.
 English,scene_fate_chr095_ep1,detail,,Thus disciplinary measures were handed down to the soldiers from Lancelot.
-English,scene_fate_chr095_ep1,detail,Lancelot,"I'm sorry you had to see such a shameful display, [Djeeta]."
+English,scene_fate_chr095_ep1,detail,Lancelot,"I'm sorry you had to see such a shameful display, [플레이어]."
 English,scene_fate_chr095_ep1,detail,Lancelot,Delaying the rescue until tomorrow has probably frayed the nerves of the soldiers.
 English,scene_fate_chr095_ep1,detail,Vyrn,Yikes. That was some scary face you made back there.
 English,scene_fate_chr095_ep1,detail,Lyria,Yeah. It sure isn't easy leading knights!
@@ -93,7 +93,7 @@ English,scene_fate_chr095_ep1,detail,Lancelot,Injuring fellow members is a parti
 English,scene_fate_chr095_ep1,detail,Lancelot,"That extends to the captain as well. Regardless of their reasons, those who would defy our regulations can't escape judgment."
 English,scene_fate_chr095_ep1,detail,Lyria,The life of a knight is no picnic.
 English,scene_fate_chr095_ep1,detail,Lancelot,"Sorry, I didn't mean to frighten you."
-English,scene_fate_chr095_ep1,detail,Lancelot,"But speaking of which, leading a crew is pretty difficult too, isn't it, [Djeeta]?"
+English,scene_fate_chr095_ep1,detail,Lancelot,"But speaking of which, leading a crew is pretty difficult too, isn't it, [플레이어]?"
 English,scene_fate_chr095_ep1,sel1_txt,,Not as bad as you have it.
 English,scene_fate_chr095_ep1,sel2_txt,,"Nope, I'm surprisingly free."
 English,scene_fate_chr095_ep1,detail,Lancelot,Heh. So you have some leeway.
@@ -110,9 +110,9 @@ English,scene_fate_chr095_ep1,detail,Lyria,"Good night, Lancelot!"
 English,scene_fate_chr095_ep1,detail,Lancelot,Good night.
 English,scene_fate_chr095_ep1,detail,Lancelot,"(A skyfaring crew, huh? I wonder what missions they've undertaken. Hehe, I'm genuinely curious.)"
 English,scene_fate_chr095_ep1,detail,,The eve of the battle with Fafnir passes quietly.
-English,scene_fate_chr095_ep1,detail,,[Djeeta] and company have a brief rest before the struggles of tomorrow.
-English,scene_chr095_q1_s10,synopsis,,King Carl orders Lancelot to travel the skies and learn new ways to improve Feendrache. Lancelot sets out for a land with no kings with [Djeeta] and the crew.
-English,scene_chr095_q1_s10,detail,,King Carl orders Lancelot to accompany [Djeeta]'s crew and learn more about the world outside Feendrache.
+English,scene_fate_chr095_ep1,detail,,[플레이어] and company have a brief rest before the struggles of tomorrow.
+English,scene_chr095_q1_s10,synopsis,,King Carl orders Lancelot to travel the skies and learn new ways to improve Feendrache. Lancelot sets out for a land with no kings with [플레이어] and the crew.
+English,scene_chr095_q1_s10,detail,,King Carl orders Lancelot to accompany [플레이어]'s crew and learn more about the world outside Feendrache.
 English,scene_chr095_q1_s10,detail,King Carl,I want you to broaden your horizons for the betterment of our kingdom.
 English,scene_chr095_q1_s10,detail,King Carl,Lancelot. I trust you will bring great changes upon your return.
 English,scene_chr095_q1_s10,detail,Lancelot,"Yes, Your Highness! I shall devote myself to becoming the bedrock of this country!"
@@ -126,10 +126,10 @@ English,scene_chr095_q1_s10,detail,Vyrn,"Hm, is there anywhere in particular you
 English,scene_chr095_q1_s10,detail,Lancelot,Let me think... I was once surprised to hear about a country without a king.
 English,scene_chr095_q1_s10,detail,Lancelot,I'd like to know how such a country came to be.
 English,scene_chr095_q1_s10,detail,Vyrn,A country without a king? That's like the opposite of your country.
-English,scene_chr095_q1_s10,detail,Lyria,"We haven't decided our next destination yet, so why don't we go there, [Djeeta]?"
+English,scene_chr095_q1_s10,detail,Lyria,"We haven't decided our next destination yet, so why don't we go there, [플레이어]?"
 English,scene_chr095_q1_s10,sel1_txt,,It's time to get a move on!
 English,scene_chr095_q1_s10,sel2_txt,,Maybe there'll be jobs for us.
 English,scene_chr095_q1_s10,detail,Lancelot,"I heard it's a peaceful place, so we'll probably be able to relax a bit."
 English,scene_chr095_q1_s10,detail,Lancelot,Could be. It's rare these days to find a place that doesn't need the help of skyfarers.
-English,scene_chr095_q1_s10,detail,Lancelot,"I'm sorry you all have to indulge in my own affairs. Thank you, [Djeeta]."
+English,scene_chr095_q1_s10,detail,Lancelot,"I'm sorry you all have to indulge in my own affairs. Thank you, [플레이어]."
 English,scene_chr095_q1_s10,detail,Vyrn,"All right, set a course for Lancelot's mystery land!"

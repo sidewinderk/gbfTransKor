@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp15_q1_s10,1511",synopsis,,森の中で懐かしい匂いを感じると話すオルキスに、もしやその匂いの先に黒騎士が居るのではと判断した<span>[ジータ]</span>一行は、オルキスの先導で匂いの源へと進む。,숲 속에서 그리운 냄새를 느낀다고 말하는 오르키스에 혹시 그 냄새 끝에 흑기사가 있지 않을까 판단한 <span> [지타] </span> 일행은 오르키스의 선도로 냄새의 원천으로 나아간다.
+Japanese,"scene_cp15_q1_s10,1511",synopsis,,森の中で懐かしい匂いを感じると話すオルキスに、もしやその匂いの先に黒騎士が居るのではと判断した<span>[플레이어]</span>一行は、オルキスの先導で匂いの源へと進む。,숲 속에서 그리운 냄새를 느낀다고 말하는 오르키스에 혹시 그 냄새 끝에 흑기사가 있지 않을까 판단한 <span> [플레이어] </span> 일행은 오르키스의 선도로 냄새의 원천으로 나아간다.
 Japanese,"scene_cp15_q1_s10,1511",detail,オルキス,くんくん……<br>くんくんくん……,킁킁....<br> 킁킁.......
 Japanese,"scene_cp15_q1_s10,1511",detail,루리아,どうしたの？ オルキスちゃん。,무슨 일이야? 오르키스짱?
 Japanese,"scene_cp15_q1_s10,1511",detail,オルキス,匂い……匂いがする。,냄새……냄새가 난다.
@@ -9,8 +9,8 @@ Japanese,"scene_cp15_q1_s10,1511",detail,이오,懐かしい匂いってこと�
 Japanese,"scene_cp15_q1_s10,1511",detail,이오,ねぇねぇ！<br>それって、黒騎士が<br>近くに居るってことなんじゃない！？,저기 말이야!<br>그건 흑기사가<br>근처에 있다는 거잖아!?
 Japanese,"scene_cp15_q1_s10,1511",detail,카타리나,可能性はあるな……<br>オルキス、その匂いというのは<br>どちらからするんだ？,"가능성은 있네…<br> 오르키스, 그 냄새는<br>어느 쪽에서 나는 거야?"
 Japanese,"scene_cp15_q1_s10,1511",detail,オルキス,あっち……,저쪽……
-Japanese,"scene_cp15_q1_s10,1511",detail,루리아,その方向に<br>黒騎士さんが居るかもですね！<br>行ってみましょう！ [ジータ]！,그 방향에<br>흑기사님이 계실지도 모르겠네요!<br>가봅시다! [지타]
-Japanese,"scene_cp15_q1_s20,1512",synopsis,,オルキスの感覚を頼りに謎の遺跡にたどり着いた<span>[ジータ]</span>一行。しかし、そこに黒騎士の姿はなく、懐かしい匂いがするとオルキスが指さす先には謎のゴーレムが待ち受けていた。,오르키스의 감각을 의지해 의문의 유적에 도착한 <span>[지타]</span>일행.그러나 흑기사의 모습은 없고 그리운 냄새가 나면 오르키스가 가리키는 끝에는 의문의 골렘이 기다리고 있었다.
+Japanese,"scene_cp15_q1_s10,1511",detail,루리아,その方向に<br>黒騎士さんが居るかもですね！<br>行ってみましょう！ [플레이어]！,그 방향에<br>흑기사님이 계실지도 모르겠네요!<br>가봅시다! [플레이어]
+Japanese,"scene_cp15_q1_s20,1512",synopsis,,オルキスの感覚を頼りに謎の遺跡にたどり着いた<span>[플레이어]</span>一行。しかし、そこに黒騎士の姿はなく、懐かしい匂いがするとオルキスが指さす先には謎のゴーレムが待ち受けていた。,오르키스의 감각을 의지해 의문의 유적에 도착한 <span>[플레이어]</span>일행.그러나 흑기사의 모습은 없고 그리운 냄새가 나면 오르키스가 가리키는 끝에는 의문의 골렘이 기다리고 있었다.
 Japanese,"scene_cp15_q1_s20,1512",detail,카타리나,ここは……何かの遺跡か？<br>随分と朽ちているようだが。,여기는……무슨 유적인가?<br> 꽤 썩은 것 같은데?
 Japanese,"scene_cp15_q1_s20,1512",detail,이오,こんなところに黒騎士が居るの？<br>なにやってんのかしら？ あいつ。,이런 곳에 흑기사가 있어?<br>뭐하는거야? 쟤.
 Japanese,"scene_cp15_q1_s20,1512",detail,オルキス,なにを……言ってるの？<br>アポロは、ここにはいない。<br>……と、思う。,"뭘... 말하는 거야?<br> 아폴로는, 여기에 없다.<br>…라고 생각한다."
@@ -22,8 +22,8 @@ Japanese,"scene_cp15_q1_s20,1512",detail,비이,ゴーレム！？<br>なんで�
 Japanese,"scene_cp15_q1_s20,1512",detail,비이,ゴーレムって言やぁ、<br>財宝を守るのが仕事のハズだぜ！？,"골렘이라고나 할까,<br>재보를 지키는 것이 일의 비밀이야!?"
 Japanese,"scene_cp15_q1_s20,1512",detail,로제타,ふふふ……<br>ゴーレムが守るのは、<br>なにも金銀財宝だけじゃないわよ？,"후후……<br>골렘이 지키는건,<br>아무것도 금은보화뿐이잖아?"
 Japanese,"scene_cp15_q1_s20,1512",detail,카타리나,どうやら私達は、<br>ゴーレムにとって<br>歓迎すべき客ではないようだ……,"아무래도 우리들은,<br>골렘에게 있어서<br>환영해야할 손님은 아닌것 같다……"
-Japanese,"scene_cp15_q1_s20,1512",detail,카타리나,[ジータ]！<br>こうなっては仕方がない……<br>応戦するぞ！,[지타]!<br>이렇게 되면 어쩔 수 없어……<br>응전한다!
-Japanese,"scene_cp15_q2_s10,1521",synopsis,,オルキスの話す懐かしい匂いとは黒騎士のものではなく、黒騎士を見つけるための手がかりを失う<span>[ジータ]</span>一行。力になれず落ち込むオルキスを元気づけながらも、辺りの探索を始める。,오르키스가 말하는 그리운 냄새란 흑기사의 것이 아니라 흑기사를 찾기 위한 단서를 잃는 <span>[지타]</span> 일행. 힘이 되지 못하고 침울해지는 오르키스에 기운을 북돋우면서도 주변의 탐색을 시작한다.
+Japanese,"scene_cp15_q1_s20,1512",detail,카타리나,[플레이어]！<br>こうなっては仕方がない……<br>応戦するぞ！,[플레이어]!<br>이렇게 되면 어쩔 수 없어……<br>응전한다!
+Japanese,"scene_cp15_q2_s10,1521",synopsis,,オルキスの話す懐かしい匂いとは黒騎士のものではなく、黒騎士を見つけるための手がかりを失う<span>[플레이어]</span>一行。力になれず落ち込むオルキスを元気づけながらも、辺りの探索を始める。,오르키스가 말하는 그리운 냄새란 흑기사의 것이 아니라 흑기사를 찾기 위한 단서를 잃는 <span>[플레이어]</span> 일행. 힘이 되지 못하고 침울해지는 오르키스에 기운을 북돋우면서도 주변의 탐색을 시작한다.
 Japanese,"scene_cp15_q2_s10,1521",detail,オルキス,――ごめんなさい。<br>私が懐かしい匂いなんて言うから、<br>危ない目に……,"미안합니다.<br>내가 그리운 냄새라고 말하니까,<br>위험하게……"
 Japanese,"scene_cp15_q2_s10,1521",detail,카타리나,ふふっ……なに、謝ることじゃないさ。<br>それに、その匂いのする方に<br>行こうと決めたのは私達だしな。,"후훗...뭐, 사과할 일이 아니야.<br>게다가 그 냄새나는 쪽으로<br>가자고 결정한 건 우리니까."
 Japanese,"scene_cp15_q2_s10,1521",detail,비이,そうだぜ！<br>それに、あんなゴーレムくらい、<br>オイラ達の敵じゃねーしな！,그렇지!<br>게다가 저런 골렘정도는<br>오이라들의 적수가 아니야!
@@ -32,14 +32,14 @@ Japanese,"scene_cp15_q2_s10,1521",detail,라캄,この建物の跡からすり�
 Japanese,"scene_cp15_q2_s10,1521",detail,로제타,もしかしたら、<br>ゴーレムと遺跡は<br>関係ないのかもしれないわよ？,"혹시,<br>골렘과 유적은<br>상관이 없는걸지도 모르지?"
 Japanese,"scene_cp15_q2_s10,1521",detail,로제타,朽ちた後にここを訪れた魔術師が、<br>何かお宝でも隠して、<br>ゴーレムに護らせてたとか……,"썩은후에 이곳을 방문한 마술사가,<br>뭔가 보물이라도 숨겨서<br>골렘에게 지키게 했다던가……"
 Japanese,"scene_cp15_q2_s10,1521",detail,이오,ふふん？<br>面白そうじゃない！ その話！,흥?<br>재밌을 것 같지 않아! 그 얘기!
-Japanese,"scene_cp15_q2_s10,1521",detail,비이,お宝一番乗りは譲らねーぜ！<br>行こうぜ！ [ジータ]！,보물 제일 먼저 타는 것은 양보하지 말자! <br> 가자! [지타]!
+Japanese,"scene_cp15_q2_s10,1521",detail,비이,お宝一番乗りは譲らねーぜ！<br>行こうぜ！ [플레이어]！,보물 제일 먼저 타는 것은 양보하지 말자! <br> 가자! [플레이어]!
 Japanese,"scene_cp15_q2_s10,1521",detail,이오,あ！ ちょっとコラ！<br>待ちなさいよ！,아! 잠깐 코라! <br> 기다려요!
 Japanese,"scene_cp15_q2_s10,1521",detail,로제타,……ま、こんな場所に<br>お宝を隠すような魔術師は<br>居ないと思うけど……,"……뭐, 이런 장소에<br>보물을 숨기는 마술사는<br>없을거라고 생각하지만……"
 Japanese,"scene_cp15_q2_s10,1521",detail,카타리나,ともかく、辺りを探索してみよう。<br>オルキス……それにルリアにも繋がる<br>何かが見つかるかもしれない。,어쨌든 주변을 탐색해 보자.<br> 오르키스…… 거기에 루리아에도 연결되는<br>무엇이 발견될지도 모른다.
 Japanese,"scene_cp15_q2_s10,1521",detail,루리아,だよねっ！<br>探しに行こう、オルキスちゃん！,그치!<br>찾으러 가자 오르키스!
-Japanese,"scene_cp15_q2_s10,1521",detail,オルキス,ん……<br>[ジータ]も一緒に……,응……<br>[지타]도 함께……
+Japanese,"scene_cp15_q2_s10,1521",detail,オルキス,ん……<br>[플레이어]も一緒に……,응……<br>[플레이어]도 함께……
 Japanese,"scene_cp15_q2_s10,1521",detail,루리아,ふふ……そうだね。<br>みんなで一緒に探しに行きましょう！,후후... 그렇군.모두 함께 찾으러 가요!
-Japanese,"scene_cp15_q2_s20,1522",synopsis,,<span>[ジータ]</span>一行は遺跡を探索するも、めぼしいものを見つけることは出来なかった。指針を失った<span>[ジータ]</span>一行は唯一の手がかりであるオルキスを連れ、黒騎士の行方を追う。,<span> [지타] </span> 일행은 유적을 탐색하는 데에도 값진 것을 찾지 못했다.지침을 잃은 <span> [지타] </span> 일행은 유일한 단서인 오르키스를 데리고 흑기사의 행방을 쫓는다.
+Japanese,"scene_cp15_q2_s20,1522",synopsis,,<span>[플레이어]</span>一行は遺跡を探索するも、めぼしいものを見つけることは出来なかった。指針を失った<span>[플레이어]</span>一行は唯一の手がかりであるオルキスを連れ、黒騎士の行方を追う。,<span> [플레이어] </span> 일행은 유적을 탐색하는 데에도 값진 것을 찾지 못했다.지침을 잃은 <span> [플레이어] </span> 일행은 유일한 단서인 오르키스를 데리고 흑기사의 행방을 쫓는다.
 Japanese,"scene_cp15_q2_s20,1522",detail,비이,ぜぇはぁ……<br>き、気合入れて、<br>お宝探ししてみたものの……,"절대로...<br>키, 기합 넣고,<br>보물을 찾아보았지만..."
 Japanese,"scene_cp15_q2_s20,1522",detail,이오,なんにも……はぁ、はぁ……<br>ないじゃないのよぅ……,"아무것도…… 하아, 하아……<br>없잖아……"
 Japanese,"scene_cp15_q2_s20,1522",detail,카타리나,ははは……<br>まったく、はしゃぎ過ぎだぞ？,"하하하……<br>정말, 너무 떠들어대는데?"
@@ -53,14 +53,14 @@ Japanese,"scene_cp15_q2_s20,1522",detail,オルキス,わからない……<br>�
 Japanese,"scene_cp15_q2_s20,1522",detail,オルキス,だけど……ここじゃない。<br>なんとなくだけど……そんな気がする。,하지만……여기가 아니야.왠지 모르지만……그런 기분이 들어.
 Japanese,"scene_cp15_q2_s20,1522",detail,오이겐,そういうことなら、<br>気の済むまで、<br>ブラついてみるとすっか……,"그런거라면,<br>마음이 풀릴때까지,<br>부라붙어보면되나……"
 Japanese,"scene_cp15_q2_s20,1522",detail,오이겐,魔物の相手をしながら、<br>森をうろうろしてりゃぁ、<br>そのうち黒騎士とも会えるだろうさ。,마물을 상대하면서 <br> 숲을 서성이면 <br> 조만간 흑기사도 만날 수 있겠지.
-Japanese,"scene_cp15_q3_s10,1531",synopsis,,ふとした瞬間に、ルリアはオルキスの姿が見えないことに気付く。森の中で迷子になったのではと<span>[ジータ]</span>一行はオルキスを探し始める。,우연한 순간에 루리아는 오르키스의 모습이 보이지 않는 것을 알아차린다.숲 속에서 길을 잃지는 않았을까 하고 <span> [지타] </span> 일행은 오르키스를 찾기 시작한다.
-Japanese,"scene_cp15_q3_s10,1531",detail,루리아,――あれ？<br>ねぇねぇ、[ジータ]<br>オルキスちゃん、見なかったですか？,-- 어?<br>야야 [지타]<br>얼키스짱 못봤어요?
+Japanese,"scene_cp15_q3_s10,1531",synopsis,,ふとした瞬間に、ルリアはオルキスの姿が見えないことに気付く。森の中で迷子になったのではと<span>[플레이어]</span>一行はオルキスを探し始める。,우연한 순간에 루리아는 오르키스의 모습이 보이지 않는 것을 알아차린다.숲 속에서 길을 잃지는 않았을까 하고 <span> [플레이어] </span> 일행은 오르키스를 찾기 시작한다.
+Japanese,"scene_cp15_q3_s10,1531",detail,루리아,――あれ？<br>ねぇねぇ、[플레이어]<br>オルキスちゃん、見なかったですか？,-- 어?<br>야야 [플레이어]<br>얼키스짱 못봤어요?
 Japanese,"scene_cp15_q3_s10,1531",detail,비이,ん？<br>なんだよ、オルキスの奴、<br>迷子になったのか？,응?<br>뭐야 오르키스녀석<br>미아가 된거야?
 Japanese,"scene_cp15_q3_s10,1531",detail,루리아,なのかなぁ……<br>さっきからオルキスちゃんの姿が……,뭘까....<br>아까부터 오르키스짱의 모습이....
 Japanese,"scene_cp15_q3_s10,1531",detail,이오,森の中で迷子になっちゃうなんて、<br>とんだお子様ね！,"숲속에서 길을 잃어버리다니,<br>엉뚱한 아이구나!"
 Japanese,"scene_cp15_q3_s10,1531",detail,라캄,お前だってさっきから<br>ちょいちょい<br>迷子になりかけてただろうが……,너도 아까부터<br>잠깐<br>미아가 될 뻔했겠지만……
 Japanese,"scene_cp15_q3_s10,1531",detail,이오,<span class='scene-font-4'>ううう、うるっさいわね！</span><br>ほら！ そういうことなら、<br>さっさとあの子探しに行くわよ！,"<span class='scene-font-4> 으윽, 시끄럽네!</span><br>이봐! 그럴거면,<br>얼른 그애 찾으러 갈게!"
-Japanese,"scene_cp15_q3_s20,1532",synopsis,,<span>[ジータ]</span>一行はオルキスを探すがなかなか見つからず、魔物に襲われたのではと不安がよぎる。そんな中ロゼッタはビィの過去を知っているようなことを漏らすが、すぐにはぐらかしてしまう。,"<span>[지타]</span>일행은 오르키스를 찾지만 좀처럼 찾지 못하고, 마물에 휩쓸렸을까봐 불안하다.그런 가운데 로제타는 비의 과거를 알고 있는 듯한 말을 하지만, 곧 얼버무려 버린다."
+Japanese,"scene_cp15_q3_s20,1532",synopsis,,<span>[플레이어]</span>一行はオルキスを探すがなかなか見つからず、魔物に襲われたのではと不安がよぎる。そんな中ロゼッタはビィの過去を知っているようなことを漏らすが、すぐにはぐらかしてしまう。,"<span>[플레이어]</span>일행은 오르키스를 찾지만 좀처럼 찾지 못하고, 마물에 휩쓸렸을까봐 불안하다.그런 가운데 로제타는 비의 과거를 알고 있는 듯한 말을 하지만, 곧 얼버무려 버린다."
 Japanese,"scene_cp15_q3_s20,1532",detail,루리아,うーん……<br>見つからないなぁ、オルキスちゃん……,"음……<br>찾을 수 없네, 오르키스……"
 Japanese,"scene_cp15_q3_s20,1532",detail,카타리나,心配だな……<br>魔物に襲われたり<br>していなければいいが……,걱정인데....<br>마물에 휩쓸리거나<br>하지 않으면 좋겠지만....
 Japanese,"scene_cp15_q3_s20,1532",detail,로제타,魔物にやられるような<br>やわな子には見えなかったけど……<br>あまり独りにはしておきたくないわね。,마물에게 당할것 같은<br>나긋나긋한 아이로는 보이지않았지만……<br>그다지 혼자 두고싶지는 않네.
@@ -76,9 +76,9 @@ Japanese,"scene_cp15_q3_s20,1532",detail,로제타,……そ、そうね。<br>�
 Japanese,"scene_cp15_q3_s20,1532",detail,비이,あたぼうよ！<br>オイラがトカゲだったことなんて、<br>生まれてこのかた一度も……,"아자아자!<br>오이라가 도마뱀이었던 적이라니,<br>태어난 이래 한번도......"
 Japanese,"scene_cp15_q3_s20,1532",detail,비이,……ん？ 昔からって、ロゼッタ……<br>アンタもしかして、<br>過去にオイラに会ったことが……？,"……응? 옛날부터라고 로제타……<br>안타혹시,<br>과거에 오이라를 만난 적이……?"
 Japanese,"scene_cp15_q3_s20,1532",detail,로제타,さ、さぁ……どうかしらね？<br>どうだっていいじゃない、そんな話。,글쎄……어떤가?아무려면 어떠냐 그런 이야기.
-Japanese,"scene_cp15_q3_s20,1532",detail,로제타,そんなことより、ほら、<br>魔物のお出ましよ？<br>構えなさい、[ジータ]。,"그런것보다, 자,<br>마물이나와요?<br>자세워라, [지타]."
+Japanese,"scene_cp15_q3_s20,1532",detail,로제타,そんなことより、ほら、<br>魔物のお出ましよ？<br>構えなさい、[플레이어]。,"그런것보다, 자,<br>마물이나와요?<br>자세워라, [플레이어]."
 Japanese,"scene_cp15_q3_s20,1532",detail,로제타,オルキスちゃんの前に<br>アタシ達が魔物にやられちゃ<br>洒落にもならないんだから。,오르키스 앞에 <br> 내가 마물에게 당하면<br>멋져지지도 않으니까.
-Japanese,"scene_cp15_q4_s10,1541",synopsis,,オルキスを探す<span>[ジータ]</span>一行の前に、オルキスを連れた黒騎士が姿を現す。オルキスは<span>[ジータ]</span>達と共に居たいと告げるが、黒騎士に連れ去られてしまい、納得の出来ない<span>[ジータ]</span>一行は二人を追う。,"오르키스를 찾는 <span>[지타]</span> 일행 앞에 오르키스를 거느린 흑기사가 모습을 드러낸다.오르키스는 <span>[지타]</span>들과 함께 있고 싶다고 말하지만, 흑기사에게 끌려가는 바람에 납득이 가지 않는 <span>[지타]</span]일행은 둘을 쫓는다."
+Japanese,"scene_cp15_q4_s10,1541",synopsis,,オルキスを探す<span>[플레이어]</span>一行の前に、オルキスを連れた黒騎士が姿を現す。オルキスは<span>[플레이어]</span>達と共に居たいと告げるが、黒騎士に連れ去られてしまい、納得の出来ない<span>[플레이어]</span>一行は二人を追う。,"오르키스를 찾는 <span>[플레이어]</span> 일행 앞에 오르키스를 거느린 흑기사가 모습을 드러낸다.오르키스는 <span>[플레이어]</span>들과 함께 있고 싶다고 말하지만, 흑기사에게 끌려가는 바람에 납득이 가지 않는 <span>[플레이어]</span]일행은 둘을 쫓는다."
 Japanese,"scene_cp15_q4_s10,1541",detail,루리아,<span class='scene-font-4'>オールーキースーちゃーん！</span><br>返事してー！,<span class='scene-font-4> 알키스짱!</span><br>대답해줘!
 Japanese,"scene_cp15_q4_s10,1541",detail,오이겐,これだけ探しても見つからねぇたぁ……<br>いよいよ危ねぇかもしれねぇな。,이것만 찾아도 찾을 수가 없어에-타-……<br>드디어 위험할지도 모르겠네.
 Japanese,"scene_cp15_q4_s10,1541",detail,오이겐,ひとりでよろず屋に戻ったとか、<br>そういう話なら助かるんだが――,"혼자서 비틀거리며 돌아왔다든가,<br>그런 이야기라면 도움이 되겠지만-"
@@ -104,11 +104,11 @@ Japanese,"scene_cp15_q4_s10,1541",detail,흑기사,馬鹿が……<br>ならば�
 Japanese,"scene_cp15_q4_s10,1541",detail,흑기사,行くぞ、人形。<br>もうここに用はない。,"가자, 인형.<br>이제 여기에 볼일은 없어."
 Japanese,"scene_cp15_q4_s10,1541",detail,オルキス,あっ……<br>あぅ……ルリアっ……！,앗……<br>아우……루리아악……!
 Japanese,"scene_cp15_q4_s10,1541",detail,루리아,オルキスちゃんっ！,오르키스짱!
-Japanese,"scene_cp15_q4_s10,1541",detail,,<span class='scene-font-katari'>黒騎士はオルキスの手を引き、</span><br><span class='scene-font-katari'>[ジータ]達の前から</span><br><span class='scene-font-katari'>瞬く間に姿を消した。</span>,<span class = 'scene-font-katari'> 흑기사는 오루키스의 손을 당겨 </ span> <br> <span class = 'scene-font-katari'> [지타] 일행의 앞에서 </ span > <br> <span class = 'scene-font-katari'> 순식간에 사라졌다. </ span>
+Japanese,"scene_cp15_q4_s10,1541",detail,,<span class='scene-font-katari'>黒騎士はオルキスの手を引き、</span><br><span class='scene-font-katari'>[플레이어]達の前から</span><br><span class='scene-font-katari'>瞬く間に姿を消した。</span>,<span class = 'scene-font-katari'> 흑기사는 오루키스의 손을 당겨 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행의 앞에서 </ span > <br> <span class = 'scene-font-katari'> 순식간에 사라졌다. </ span>
 Japanese,"scene_cp15_q4_s10,1541",detail,루리아,オルキスちゃん……,오르키스짱……
-Japanese,"scene_cp15_q4_s10,1541",detail,비이,なぁ！ [ジータ]！<br>まだ遅くねーよ！ 追いかけようぜ！<br>オイラこんなの納得できねぇ！,야! [지타]! <br> 아직 늦지 않았어! 뒤쫓아가자구! <br> 오이라 이런거 납득할 수 없어!
-Japanese,"scene_cp15_q4_s10,1541",detail,카타리나,ああ、騎空艇で来ていた以上、<br>まだ<span class='scene-font-place'>ルーマシー群島</span>を出てはいまい……<br>追いかけるぞ！ [ジータ]！,"아아, 기공정으로 온 이상, <br> 아직 <span class='scene-font-place> 루마시 군도 </span> 를 떠나지 말았어야 해……<br> 쫓아가자구! [지타]"
-Japanese,"scene_cp15_q4_s20,1542",synopsis,,黒騎士に追いつく<span>[ジータ]</span>一行。しかし、黒騎士は自らにとって必要なのはルリアだけだと話し、<span>[ジータ]</span>一行に魔物をけしかけてくる。,흑기사 따라잡기 <span> [지타] </span> 한 줄그러나 루리아뿐이라며 흑기사는 <span>[지타]</span>일행에게 마물을 걸어온다.
+Japanese,"scene_cp15_q4_s10,1541",detail,비이,なぁ！ [플레이어]！<br>まだ遅くねーよ！ 追いかけようぜ！<br>オイラこんなの納得できねぇ！,야! [플레이어]! <br> 아직 늦지 않았어! 뒤쫓아가자구! <br> 오이라 이런거 납득할 수 없어!
+Japanese,"scene_cp15_q4_s10,1541",detail,카타리나,ああ、騎空艇で来ていた以上、<br>まだ<span class='scene-font-place'>ルーマシー群島</span>を出てはいまい……<br>追いかけるぞ！ [플레이어]！,"아아, 기공정으로 온 이상, <br> 아직 <span class='scene-font-place> 루마시 군도 </span> 를 떠나지 말았어야 해……<br> 쫓아가자구! [플레이어]"
+Japanese,"scene_cp15_q4_s20,1542",synopsis,,黒騎士に追いつく<span>[플레이어]</span>一行。しかし、黒騎士は自らにとって必要なのはルリアだけだと話し、<span>[플레이어]</span>一行に魔物をけしかけてくる。,흑기사 따라잡기 <span> [플레이어] </span> 한 줄그러나 루리아뿐이라며 흑기사는 <span>[플레이어]</span>일행에게 마물을 걸어온다.
 Japanese,"scene_cp15_q4_s20,1542",detail,이오,――見つけたわよ！ 黒騎士！<br>オルキス嫌がってるじゃない！<br>手、離しなさいよ！,-- 찾았어! 흑기사!<br>얼키스 싫어하잖아!<br>손 놔!
 Japanese,"scene_cp15_q4_s20,1542",detail,オルキス,イオ……,이오……
 Japanese,"scene_cp15_q4_s20,1542",detail,흑기사,しつこい連中だ……<br>私が私の所有物をどう扱おうと、<br>貴様らに関係ないだろう。,"끈질긴 친구들이다……<br>내가 내 소유물을 어떻게 다루든,<br>네 놈들과는 상관없겠지."
@@ -122,24 +122,24 @@ Japanese,"scene_cp15_q4_s20,1542",detail,흑기사,私が貴様らに忠告や�
 Japanese,"scene_cp15_q4_s20,1542",detail,흑기사,私はルリアさえ生き残っていれば、<br>それでいいのだ……,"난 루리아만 살아있다면,<br>그래도 된다……"
 Japanese,"scene_cp15_q4_s20,1542",detail,흑기사,つまり、<br>旅を共にする者は、<br>貴様らでなくともよいのだぞ……！！,"즉,<br>여행을 함께 하는 자는,<br>네 놈들이 아니어도 좋다……!!"
 Japanese,"scene_cp15_q4_s20,1542",detail,마물,<span class='scene-font-4'>グオオォォッ！！</span>,<span class='scene-font-4'>그오오오오쯔!!</span>
-Japanese,"scene_cp15_q4_s20,1542",detail,라캄,チッ……！<br>魔物をけしかけてきやがったか……！<br>さっさと片付けるぞ！ [ジータ]！,칫...<br>마물을 부추기고 왔는걸?...<br>떼꺽 해치워라![지타]!
-Japanese,"scene_cp15_q4_s30,1543",synopsis,,魔物と戦っている間に<span>[ジータ]</span>一行は黒騎士を見失ってしまう。しかし、オルキスの気持ちを無視することは出来ないと決意するルリアに皆が賛成し、一行は改めて黒騎士とオルキスを探し始める。,마물과 싸우는 사이에<span>[지타]</span>일행은 검은 기사를 잃고 만다. 그러나 오르 키스의 기분을 무시할 수 없다고 결심했던 루리아에 모두가 찬성하다 일행은 다시 쿠로키시와 에후드 키스를 찾아 나선다.
+Japanese,"scene_cp15_q4_s20,1542",detail,라캄,チッ……！<br>魔物をけしかけてきやがったか……！<br>さっさと片付けるぞ！ [플레이어]！,칫...<br>마물을 부추기고 왔는걸?...<br>떼꺽 해치워라![플레이어]!
+Japanese,"scene_cp15_q4_s30,1543",synopsis,,魔物と戦っている間に<span>[플레이어]</span>一行は黒騎士を見失ってしまう。しかし、オルキスの気持ちを無視することは出来ないと決意するルリアに皆が賛成し、一行は改めて黒騎士とオルキスを探し始める。,마물과 싸우는 사이에<span>[플레이어]</span>일행은 검은 기사를 잃고 만다. 그러나 오르 키스의 기분을 무시할 수 없다고 결심했던 루리아에 모두가 찬성하다 일행은 다시 쿠로키시와 에후드 키스를 찾아 나선다.
 Japanese,"scene_cp15_q4_s30,1543",detail,카타리나,くっ……<br>魔物と戦っている間に、<br>黒騎士を見失ってしまったようだな……,이야……<br>마물과 싸우는 동안<br> 검은 기사를 잃어 버린 것 같구나...
 Japanese,"scene_cp15_q4_s30,1543",detail,오이겐,あいつの思惑通りってわけかい……<br>面白くねぇなぁ、おい。,"저 녀석의 뜻대로 건가?...<br>재미 없네, 야."
 Japanese,"scene_cp15_q4_s30,1543",detail,로제타,最初からアイツの目的は<br>オルキスちゃんを連れて、<br>ここを去ることだったんだもの……,처음부터 그 녀석의 목적은<br> 오른 키스 너를 데리고<br>이곳을 떠나기였던 걸...
 Japanese,"scene_cp15_q4_s30,1543",detail,로제타,魔物相手に熱くなってた時点で、<br>勝負は決してたってわけね。,"마물 상대로 열띤 된 시점에서,<br>승부는 결코 되겠네요."
-Japanese,"scene_cp15_q4_s30,1543",detail,비이,くそー……<br>なぁ、どうする？<br>ルリア、[ジータ],". 그래……<br>이봐, 어떡하지?<br>루리아,[지타]"
+Japanese,"scene_cp15_q4_s30,1543",detail,비이,くそー……<br>なぁ、どうする？<br>ルリア、[플레이어],". 그래……<br>이봐, 어떡하지?<br>루리아,[플레이어]"
 Japanese,"scene_cp15_q4_s30,1543",sel1_txt,,<span class='scene-font-katari'>オルキスを探そう</span>,<span class='scene-font-katari'>오르 키스를 찾는다</span>
 Japanese,"scene_cp15_q4_s30,1543",sel2_txt,,<span class='scene-font-katari'>諦めきれるはずがない</span>,<span class='scene-font-katari'>포기할 수 있을 리 없는</span>
 Japanese,"scene_cp15_q4_s30,1543",detail,비이,やれやれ、諦めの悪い奴だな……,"아이고, 쩨쩨한 녀석이군..."
 Japanese,"scene_cp15_q4_s30,1543",detail,비이,ま、オイラも<br>ここで引き下がる気なんか<br>さらさらないけどなっ！,"뭐, 나도<br>여기서 물러설 마음 따위<br>전혀 없지만서도..!"
-Japanese,"scene_cp15_q4_s30,1543",detail,비이,だよなっ！<br>[ジータ]なら、<br>そう言うって信じてたぜ！,"이야!<br>[지타]이라면,<br> 그렇게 말한다는 게 믿었었어!"
+Japanese,"scene_cp15_q4_s30,1543",detail,비이,だよなっ！<br>[플레이어]なら、<br>そう言うって信じてたぜ！,"이야!<br>[플레이어]이라면,<br> 그렇게 말한다는 게 믿었었어!"
 Japanese,"scene_cp15_q4_s30,1543",detail,루리아,オルキスちゃんは……<br>私達ともっと一緒に居たいって、<br>そう、言ってくれました……,오르 키스 너는.....<br>우리와 더 함께 있겠다고<br> 그렇게 말하고 주었습니다...
 Japanese,"scene_cp15_q4_s30,1543",detail,루리아,その気持ちを無視するなんて、<br>私、出来ないですっ！！,"그 말을 무시하다니,<br>나 되지 않습니다!"
-Japanese,"scene_cp15_q4_s30,1543",detail,루리아,行きましょう！ [ジータ]！<br>オルキスちゃんとこのままお別れなんて<br>ぜーったいに嫌ですっ！,갑시다![지타]!<br> 오른 키스랑 이대로 헤어지다니<br>자-. 도미로 싫어요!
+Japanese,"scene_cp15_q4_s30,1543",detail,루리아,行きましょう！ [플레이어]！<br>オルキスちゃんとこのままお別れなんて<br>ぜーったいに嫌ですっ！,갑시다![플레이어]!<br> 오른 키스랑 이대로 헤어지다니<br>자-. 도미로 싫어요!
 Japanese,"scene_cp15_q4_s30,1543",detail,,<span class='scene-font-katari'>ルリアの言葉に、</span><br><span class='scene-font-katari'>全員が賛成の意を示す。</span>,<span class='scene-font-katari'>루리아의 말에</span><br><span class='scene-font-katari'>모두가 찬성의 뜻을 나타낸다.</span>
-Japanese,"scene_cp15_q4_s30,1543",detail,,<span class='scene-font-katari'>消えた少女と黒騎士を追い、</span><br><span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>深き森を駆ける。</span>,<span class='scene-font-katari'> 사라진 소녀와 검은 기사를 쫓아</span><br><span class='scene-font-katari'>[지타]들은</span><br><span class='scene-font-katari'> 깊은 숲을 달리다.</span>
-English,"scene_cp15_q1_s10,1511",synopsis,,Orchis smells a familiar scent in the forest. [Djeeta] and the others decide to follow it in hopes that it may lead them to the Black Knight.
+Japanese,"scene_cp15_q4_s30,1543",detail,,<span class='scene-font-katari'>消えた少女と黒騎士を追い、</span><br><span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>深き森を駆ける。</span>,<span class='scene-font-katari'> 사라진 소녀와 검은 기사를 쫓아</span><br><span class='scene-font-katari'>[플레이어]들은</span><br><span class='scene-font-katari'> 깊은 숲을 달리다.</span>
+English,"scene_cp15_q1_s10,1511",synopsis,,Orchis smells a familiar scent in the forest. [플레이어] and the others decide to follow it in hopes that it may lead them to the Black Knight.
 English,"scene_cp15_q1_s10,1511",detail,Orchis,<span class='scene-font-italic'>Sniff... Sniff...</span>
 English,"scene_cp15_q1_s10,1511",detail,Lyria,"Something wrong, Orchis?"
 English,"scene_cp15_q1_s10,1511",detail,Orchis,I... smell something.
@@ -149,8 +149,8 @@ English,"scene_cp15_q1_s10,1511",detail,Io,"A familiar smell, huh?"
 English,"scene_cp15_q1_s10,1511",detail,Io,Hey! You think that means the Black Knight is somewhere around here?
 English,"scene_cp15_q1_s10,1511",detail,Katalina,"It's possible. Where's this scent coming from, Orchis?"
 English,"scene_cp15_q1_s10,1511",detail,Orchis,Over there...
-English,"scene_cp15_q1_s10,1511",detail,Lyria,"This might lead us to the Black Knight! Let's check it out, [Djeeta]!"
-English,"scene_cp15_q1_s20,1512",synopsis,,"The scent leads [Djeeta] and the others to ancient ruins. They learn the scent doesn't belong to the Black Knight, but rather to a golem lying in wait."
+English,"scene_cp15_q1_s10,1511",detail,Lyria,"This might lead us to the Black Knight! Let's check it out, [플레이어]!"
+English,"scene_cp15_q1_s20,1512",synopsis,,"The scent leads [플레이어] and the others to ancient ruins. They learn the scent doesn't belong to the Black Knight, but rather to a golem lying in wait."
 English,"scene_cp15_q1_s20,1512",detail,Katalina,Are these... some kind of ruins? They look downright ancient.
 English,"scene_cp15_q1_s20,1512",detail,Io,The Black Knight's supposed to be here? What could she be doing in a place like this?
 English,"scene_cp15_q1_s20,1512",detail,Orchis,What are you saying? Apollo isn't here. At least... I don't think she is.
@@ -162,8 +162,8 @@ English,"scene_cp15_q1_s20,1512",detail,Vyrn,A golem! What's it doing in a place
 English,"scene_cp15_q1_s20,1512",detail,Vyrn,They're supposed to be used for guarding treasure and stuff!
 English,"scene_cp15_q1_s20,1512",detail,Rosetta,"Golems protect more than gold and silver, you know..."
 English,"scene_cp15_q1_s20,1512",detail,Katalina,Well that thing doesn't look like it's here to welcome us with open arms...
-English,"scene_cp15_q1_s20,1512",detail,Katalina,"So we don't have a choice here, [Djeeta]. We have to fight!"
-English,"scene_cp15_q2_s10,1521",synopsis,,"With no clues to the Black Knight's whereabouts, [Djeeta] and the others decide to search the ruins."
+English,"scene_cp15_q1_s20,1512",detail,Katalina,"So we don't have a choice here, [플레이어]. We have to fight!"
+English,"scene_cp15_q2_s10,1521",synopsis,,"With no clues to the Black Knight's whereabouts, [플레이어] and the others decide to search the ruins."
 English,"scene_cp15_q2_s10,1521",detail,Orchis,"I'm sorry. That scent seemed familiar, but following it got you into trouble..."
 English,"scene_cp15_q2_s10,1521",detail,Katalina,"No need to apologize. We're the ones who decided to follow it, after all."
 English,"scene_cp15_q2_s10,1521",detail,Vyrn,Exactly! And that golem didn't have a chance against us anyway!
@@ -172,14 +172,14 @@ English,"scene_cp15_q2_s10,1521",detail,Rackam,"Based on the remains, it looks l
 English,"scene_cp15_q2_s10,1521",detail,Rosetta,Is it possible the golem and these ruins aren't necessarily related?
 English,"scene_cp15_q2_s10,1521",detail,Rosetta,"What if a mage happened upon this place, chose to hide treasure here, and created a golem to guard it?"
 English,"scene_cp15_q2_s10,1521",detail,Io,Hidden treasure? I like the sound of that!
-English,"scene_cp15_q2_s10,1521",detail,Vyrn,"And it's gotta be finders keepers! Let's take a look around, [Djeeta]!"
+English,"scene_cp15_q2_s10,1521",detail,Vyrn,"And it's gotta be finders keepers! Let's take a look around, [플레이어]!"
 English,"scene_cp15_q2_s10,1521",detail,Io,Ah! Hey! Wait up!
 English,"scene_cp15_q2_s10,1521",detail,Rosetta,Although I highly doubt a mage would hide their treasure in a place like this...
 English,"scene_cp15_q2_s10,1521",detail,Katalina,Let's just take a look around for now. Orchis and Lyria might find something that connects them to this place.
 English,"scene_cp15_q2_s10,1521",detail,Lyria,"Yeah! Let's go, Orchis!"
-English,"scene_cp15_q2_s10,1521",detail,Orchis,"Okay. You should come with us, [Djeeta]..."
+English,"scene_cp15_q2_s10,1521",detail,Orchis,"Okay. You should come with us, [플레이어]..."
 English,"scene_cp15_q2_s10,1521",detail,Lyria,Sounds good to me! We can all search together!
-English,"scene_cp15_q2_s20,1522",synopsis,,"[Djeeta] and the others search the ruins high and low, but find nothing of interest. They decide to set out again to find the Black Knight."
+English,"scene_cp15_q2_s20,1522",synopsis,,"[플레이어] and the others search the ruins high and low, but find nothing of interest. They decide to set out again to find the Black Knight."
 English,"scene_cp15_q2_s20,1522",detail,Vyrn,<span class='scene-font-italic'>Huff...</span> And here I was all fired up about finding some treasure...
 English,"scene_cp15_q2_s20,1522",detail,Io,There's... <span class='scene-font-italic'>Huff...</span> Nothing here...
 English,"scene_cp15_q2_s20,1522",detail,Katalina,You two did your fair share of rushing around!
@@ -193,14 +193,14 @@ English,"scene_cp15_q2_s20,1522",detail,Orchis,I don't know. My earliest memory 
 English,"scene_cp15_q2_s20,1522",detail,Orchis,But... this isn't my home. It just... doesn't feel like it.
 English,"scene_cp15_q2_s20,1522",detail,Eugen,In that case we could just stroll about the area until yer satisfied.
 English,"scene_cp15_q2_s20,1522",detail,Eugen,The Black Knight is bound to show up again if we ramble around the forest some more... and take care of some monsters along the way.
-English,"scene_cp15_q3_s10,1531",synopsis,,"Lyria notices that Orchis has disappeared. Believing her to be lost, [Djeeta] and the crew begin to search for her."
-English,"scene_cp15_q3_s10,1531",detail,Lyria,"Huh? Hey, [Djeeta]... have you seen Orchis?"
+English,"scene_cp15_q3_s10,1531",synopsis,,"Lyria notices that Orchis has disappeared. Believing her to be lost, [플레이어] and the crew begin to search for her."
+English,"scene_cp15_q3_s10,1531",detail,Lyria,"Huh? Hey, [플레이어]... have you seen Orchis?"
 English,"scene_cp15_q3_s10,1531",detail,Vyrn,Hm? You think she might've gotten lost?
 English,"scene_cp15_q3_s10,1531",detail,Lyria,Maybe... She was here just a second ago.
 English,"scene_cp15_q3_s10,1531",detail,Io,She's gotten herself lost already? Might as well get her a babysitter!
 English,"scene_cp15_q3_s10,1531",detail,Rackam,Didn't you get lost just a second ago?
 English,"scene_cp15_q3_s10,1531",detail,Io,Wh-whatever! I don't wanna hear it! Let's just find her—and quick!
-English,"scene_cp15_q3_s20,1532",synopsis,,"With Orchis still missing, [Djeeta] and the crew begin to worry. Rosetta reveals that she may know something about Vyrn's past, but quickly changes the subject when monsters appear."
+English,"scene_cp15_q3_s20,1532",synopsis,,"With Orchis still missing, [플레이어] and the crew begin to worry. Rosetta reveals that she may know something about Vyrn's past, but quickly changes the subject when monsters appear."
 English,"scene_cp15_q3_s20,1532",detail,Lyria,Hm... I don't see Orchis anywhere.
 English,"scene_cp15_q3_s20,1532",detail,Katalina,This is certainly worrisome. I hope no monsters got to her.
 English,"scene_cp15_q3_s20,1532",detail,Rosetta,"She seemed strong enough to handle herself, but I don't like the idea of her being out here alone."
@@ -216,9 +216,9 @@ English,"scene_cp15_q3_s20,1532",detail,Rosetta,"Ah, you're right! You're not a 
 English,"scene_cp15_q3_s20,1532",detail,Vyrn,Duh! I've never been a lizard! I was born like this.
 English,"scene_cp15_q3_s20,1532",detail,Vyrn,"Wait, what do you mean <span class='scene-font-italic'>never were</span>? Did we meet before in the past or something?"
 English,"scene_cp15_q3_s20,1532",detail,Rosetta,P-perhaps... Who knows? And what would it matter?
-English,"scene_cp15_q3_s20,1532",detail,Rosetta,"You have more important things to concern yourself with. Like these monsters! Ready yourself, [Djeeta]."
+English,"scene_cp15_q3_s20,1532",detail,Rosetta,"You have more important things to concern yourself with. Like these monsters! Ready yourself, [플레이어]."
 English,"scene_cp15_q3_s20,1532",detail,Rosetta,"If we get walloped by monsters here, Orchis will never let us live it down!"
-English,"scene_cp15_q4_s10,1541",synopsis,,"The crew searches the forest for Orchis, but the Black Knight finds her first. Orchis wishes to stay with [Djeeta] and the crew, but the Black Knight takes her away. The crew decides to pursue them."
+English,"scene_cp15_q4_s10,1541",synopsis,,"The crew searches the forest for Orchis, but the Black Knight finds her first. Orchis wishes to stay with [플레이어] and the crew, but the Black Knight takes her away. The crew decides to pursue them."
 English,"scene_cp15_q4_s10,1541",detail,Lyria,Orchis! Where are you?
 English,"scene_cp15_q4_s10,1541",detail,Eugen,No sign of her after all this searching... And it's startin' to get dangerous around here too.
 English,"scene_cp15_q4_s10,1541",detail,Eugen,Hopefully she made it back to Siero's on her own.
@@ -246,8 +246,8 @@ English,"scene_cp15_q4_s10,1541",detail,Orchis,Ah! No! Lyria!
 English,"scene_cp15_q4_s10,1541",detail,Lyria,Orchis!
 English,"scene_cp15_q4_s10,1541",detail,,"The Black Knight takes Orchis by the hand and in the next moment, they're gone."
 English,"scene_cp15_q4_s10,1541",detail,Lyria,Orchis...
-English,"scene_cp15_q4_s10,1541",detail,Vyrn,"It's not too late, [Djeeta]! After 'em! We can still save her!"
-English,"scene_cp15_q4_s10,1541",detail,Katalina,"They came by airship, which means they can't have left Lumacie just yet. Let's find them, [Djeeta]!"
+English,"scene_cp15_q4_s10,1541",detail,Vyrn,"It's not too late, [플레이어]! After 'em! We can still save her!"
+English,"scene_cp15_q4_s10,1541",detail,Katalina,"They came by airship, which means they can't have left Lumacie just yet. Let's find them, [플레이어]!"
 English,"scene_cp15_q4_s20,1542",synopsis,,The crew catches up to the Black Knight and Orchis. The Black Knight says that she only has use for Lyria before setting monsters on the rest of the crew.
 English,"scene_cp15_q4_s20,1542",detail,Io,"Found you, Black Knight! You're making Orchis upset! Let her go!"
 English,"scene_cp15_q4_s20,1542",detail,Orchis,Io...
@@ -262,7 +262,7 @@ English,"scene_cp15_q4_s20,1542",detail,Black Knight,All of the help and advice 
 English,"scene_cp15_q4_s20,1542",detail,Black Knight,"As long as Lyria is alive, then little else matters."
 English,"scene_cp15_q4_s20,1542",detail,Black Knight,Or to put it another way... her traveling companions can be easily replaced!
 English,"scene_cp15_q4_s20,1542",detail,Monster,Groooar!
-English,"scene_cp15_q4_s20,1542",detail,Rackam,"Tch! She's siccing monsters on us! We gotta take them out, [Djeeta]!"
+English,"scene_cp15_q4_s20,1542",detail,Rackam,"Tch! She's siccing monsters on us! We gotta take them out, [플레이어]!"
 English,"scene_cp15_q4_s30,1543",synopsis,,"As the crew battles the monsters, the Black Knight and Orchis slip away. But the crew is determined to be reunited with Orchis and plunges deeper into the forest in search of the two."
 English,"scene_cp15_q4_s30,1543",detail,Katalina,Looks like those two got away while we were fighting the monsters.
 English,"scene_cp15_q4_s30,1543",detail,Eugen,"It's exactly what she was aiming for. What a way for things to turn out, eh?"
@@ -273,9 +273,9 @@ English,"scene_cp15_q4_s30,1543",sel1_txt,,We have to find Orchis.
 English,"scene_cp15_q4_s30,1543",sel2_txt,,You think I'd give up?
 English,"scene_cp15_q4_s30,1543",detail,Vyrn,"You really hate giving up, huh?"
 English,"scene_cp15_q4_s30,1543",detail,Vyrn,"I mean, I'm not ready to give up either, if that's what you're wondering!"
-English,"scene_cp15_q4_s30,1543",detail,Vyrn,"Exactly! I knew that's what you'd say, [Djeeta]!"
+English,"scene_cp15_q4_s30,1543",detail,Vyrn,"Exactly! I knew that's what you'd say, [플레이어]!"
 English,"scene_cp15_q4_s30,1543",detail,Lyria,Orchis said... she wanted to stay with us for just a little longer...
 English,"scene_cp15_q4_s30,1543",detail,Lyria,I can't just ignore that!
-English,"scene_cp15_q4_s30,1543",detail,Lyria,"Let's go, [Djeeta]! I refuse to let Orchis be taken away from us forever!"
+English,"scene_cp15_q4_s30,1543",detail,Lyria,"Let's go, [플레이어]! I refuse to let Orchis be taken away from us forever!"
 English,"scene_cp15_q4_s30,1543",detail,,Lyria's words are met with overwhelming approval from the crew.
 English,"scene_cp15_q4_s30,1543",detail,,They plunge deeper into the forest in their pursuit of Orchis and the Black Knight.

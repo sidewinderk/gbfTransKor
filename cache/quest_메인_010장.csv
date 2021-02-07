@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp10_q1_s10,1011",synopsis,,オイゲンと共に傭兵達の元へ戻ると、カタリナはある捕虜の声に聞き覚えがあることに気付く。捕虜となっているその帝国兵は、カタリナを先輩と慕った新兵の少女、ファラだった。,오이겐과 함께 용병들에게 돌아가자 카타리나는 한 포로의 목소리가 낯설지 않다는 것을 깨달았다. 포로로 잡혀 있는 그 제국병은 카타리나를 선배로 모신 신병 소녀 파라였다.
-Japanese,"scene_cp10_q1_s10,1011",detail,,<span class='scene-font-katari'>[ジータ]達が</span><br><span class='scene-font-katari'>オイゲンと共に傭兵の基地に戻ると</span><br><span class='scene-font-katari'>甲高く吼える声が耳に届いた。</span>,<span class='scene-font-katari'>[지타]일행이</span><br><span class='scene-font-katari'>오이겐과 함께 용병기지로 돌아오자</span><br><span class='scene-font-katari'>거칠고 큰 목소리가 들려왔다。</span>
+Japanese,"scene_cp10_q1_s10,1011",detail,,<span class='scene-font-katari'>[플레이어]達が</span><br><span class='scene-font-katari'>オイゲンと共に傭兵の基地に戻ると</span><br><span class='scene-font-katari'>甲高く吼える声が耳に届いた。</span>,<span class='scene-font-katari'>[플레이어]일행이</span><br><span class='scene-font-katari'>오이겐과 함께 용병기지로 돌아오자</span><br><span class='scene-font-katari'>거칠고 큰 목소리가 들려왔다。</span>
 Japanese,"scene_cp10_q1_s10,1011",detail,？？？,離すっす！ 解放するっす！<br>誇り高き帝国兵は、<br>絶対に何も喋らないっすよ！,놔둔다! 해방한다!<br>자랑스러운 제국병은<br>절대로 아무말도 하지않아요!
 Japanese,"scene_cp10_q1_s10,1011",detail,오이겐,そこにいるのが、その捕虜か……<br>やけに威勢がいいな、おい。,"거기 있는 게 그 포로인가……<br>너무 위세 좋네, 이봐."
 Japanese,"scene_cp10_q1_s10,1011",detail,용병,あっ！ 隊長！<br>ちょっとコイツどうにかしてください！<br>もう３人も手を噛まれたんですよ！？,앗! 대장님!<br>좀 이녀석 어떻게 해주세요!<br>벌써 3명이나 손을 물렸다구요!?
@@ -18,15 +18,15 @@ Japanese,"scene_cp10_q1_s10,1011",detail,비이,いつもこうなのか？<br>�
 Japanese,"scene_cp10_q1_s10,1011",detail,오이겐,いや、言われてみりゃあ<br>確かにちょっと妙だな……<br>明らかにいつもより数が多い。,"아니, 들어보니 아 <br> 확실히 좀 묘하다……<br> 분명히 평소보다 수가 많다."
 Japanese,"scene_cp10_q1_s10,1011",detail,이오,ふん、なんだっていいよ……,"흥, 뭐든지 좋아……"
 Japanese,"scene_cp10_q1_s10,1011",detail,이오,このイオちゃんが<br>一網打尽にしてあげる！,이오짱이<br>일망타진해줄께!
-Japanese,"scene_cp10_q1_s20,1012",synopsis,,度々襲い来る魔物を、オイゲンと共に追い払う<span>[ジータ]</span>一行。何かとイオを気に掛けるラカムを眺めながら、オイゲンはぽつりとラカムの過去を話す。,자꾸 덮쳐오는 마물을 오이겐과 함께 쫓아내는 <span> [지타] </span> 한 줄.여러 모로 이오를 걱정하는 라캄을 바라보며 오이겐은 나직이 라캄의 과거를 이야기한다.
+Japanese,"scene_cp10_q1_s20,1012",synopsis,,度々襲い来る魔物を、オイゲンと共に追い払う<span>[플레이어]</span>一行。何かとイオを気に掛けるラカムを眺めながら、オイゲンはぽつりとラカムの過去を話す。,자꾸 덮쳐오는 마물을 오이겐과 함께 쫓아내는 <span> [플레이어] </span> 한 줄.여러 모로 이오를 걱정하는 라캄을 바라보며 오이겐은 나직이 라캄의 과거를 이야기한다.
 Japanese,"scene_cp10_q1_s20,1012",detail,이오,ふっふーん、<br><span class='scene-font-place'>アウギュステ</span>の魔物は<br>この程度なの？,"흐음,<br><spanclass='scene-font-place>>아우귀스테</span>의 마물은<br>이 정도야?"
 Japanese,"scene_cp10_q1_s20,1012",detail,라캄,だから油断するなっての！<br>まだデカいのが残ってるぞ！,그러니까 방심하지 말란 말이야! <br> 아직 큰게 남았어!
 Japanese,"scene_cp10_q1_s20,1012",detail,루리아,ふふふ。<br>ラカムとイオちゃん、<br>仲の良い親子みたいです……,후후. 라캄과 이오양. 사이좋은 부모자식인가봐요.
-Japanese,"scene_cp10_q1_s20,1012",detail,루리아,あっ、これ本人達に言ったら、<br>怒られそうだから、秘密ですよ？<br>[ジータ]。,"앗, 이거 본인들에게 말하면,<br>혼날 것 같아서, 비밀인데요?<br> [지타]"
+Japanese,"scene_cp10_q1_s20,1012",detail,루리아,あっ、これ本人達に言ったら、<br>怒られそうだから、秘密ですよ？<br>[플레이어]。,"앗, 이거 본인들에게 말하면,<br>혼날 것 같아서, 비밀인데요?<br> [플레이어]"
 Japanese,"scene_cp10_q1_s20,1012",detail,오이겐,まるで子守だなぁ、おい。<br>まぁ、あいつは昔っから<br>面倒見は良かったっけか……,"마치 아이 보는구나, 어이. <br> 뭐, 그 녀석은 옛날부터 <br> 잘 돌봤었나……"
 Japanese,"scene_cp10_q1_s20,1012",detail,카타리나,昔から、<br>ラカムはあんな感じだったのか？,옛날부터 <br>라캄은 저랬나?
 Japanese,"scene_cp10_q1_s20,1012",detail,오이겐,ふっ、まぁなぁ……<br>もう古い話だ。,"훗, 뭐.. ....<br>이미 오래된 이야기다."
-Japanese,"scene_cp10_q1_s20,1012",detail,오이겐,さぁ、<br>ぼんやりしてる場合じゃねぇぜ。<br>オレ達もいくぞ、[ジータ]！,"자, <br> 멍하니 있을 때가 아니야.우리도 간다. [지타]"
+Japanese,"scene_cp10_q1_s20,1012",detail,오이겐,さぁ、<br>ぼんやりしてる場合じゃねぇぜ。<br>オレ達もいくぞ、[플레이어]！,"자, <br> 멍하니 있을 때가 아니야.우리도 간다. [플레이어]"
 Japanese,"scene_cp10_q2_s10,1021",synopsis,,捕まっているファラからエルステ帝国の軍がザニス高地に駐屯していることを聞き出した一同は、魔物を蹴散らしながらザニス高地へと急ぐ。,붙잡혀 있는 파라로부터 엘스테 제국 군이 자니스 고지에 주둔하고 있다는 소식을 들은 일동은 마물을 걷어차며 자니스 고지로 서두른다.
 Japanese,"scene_cp10_q2_s10,1021",detail,ファラ,<span class='scene-font-4'>イヤっす！ ダメっす！</span><br><span class='scene-font-4'>話さないっす！</span>,<span class='scene-font-4'>싫슴다！ 안됨다！</span><br><span class='scene-font-4'>말 못함다！</span>
 Japanese,"scene_cp10_q2_s10,1021",detail,카타리나,ファラ……,파라……
@@ -58,28 +58,28 @@ Japanese,"scene_cp10_q2_s20,1022",detail,카타리나,ふふっ……<br>お褒�
 Japanese,"scene_cp10_q2_s20,1022",detail,오이겐,くはは。<br>人を見る目だけはねぇみてぇだな。,크하하..<br>사람을 보는 눈만은 없는거 같네..
 Japanese,"scene_cp10_q2_s20,1022",detail,오이겐,オレぁまだ迷って、逃げてんだ……<br>アンタ達にゃあ、遠く及ばねぇよ。,"나 아직 헤매고 도망가고 있어……<br>안타들에게는 아, 멀리 미치지 못해."
 Japanese,"scene_cp10_q2_s20,1022",detail,카타리나,オイゲン……？,오이겐……?
-Japanese,"scene_cp10_q2_s20,1022",detail,오이겐,さぁ、湿っぽい話は終いだ。<br>[ジータ]も暗い顔してんじゃねぇ！<br>危なくなっても助けてやんねぇぞ？,"자, 눅눅한 이야기는 이제 그만.<br>[지타]도 우울한 얼굴을 하고 있잖아!<br>위험해져도 도와주지 않겠어?"
+Japanese,"scene_cp10_q2_s20,1022",detail,오이겐,さぁ、湿っぽい話は終いだ。<br>[플레이어]も暗い顔してんじゃねぇ！<br>危なくなっても助けてやんねぇぞ？,"자, 눅눅한 이야기는 이제 그만.<br>[플레이어]도 우울한 얼굴을 하고 있잖아!<br>위험해져도 도와주지 않겠어?"
 Japanese,"scene_cp10_q3_s10,1031",synopsis,,一同はザニス高地へと近づくが、帝国軍の姿はなかなか見えてこない。そんな中、大きく場所を移動しても変わらないリヴァイアサンの気配に、ルリアは疑問を持つ。,"모두 자니스 고지에 접근하지만 제국군의 모습은 좀처럼 보이지 않는다.그런 가운데, 크게 장소를 이동해도 변하지 않는 리바이아상의 낌새에, 루리아는 의문을 가진다."
-Japanese,"scene_cp10_q3_s10,1031",detail,,<span class='scene-font-katari'>ファラから情報を聞き出した</span><br><span class='scene-font-katari'>[ジータ]達は</span><br><span class='scene-font-katari'>帝国軍の待つザニス高地へと向かう。</span>,<span class='scene-font-katari'>피라에게 정보를 얻어낸</span><br><span class='scene-font-katari'>[지타]일행은</span><br><span class='scene-font-katari'>제국군이 기다리는 자니스 고지로 향한다.。</span>
+Japanese,"scene_cp10_q3_s10,1031",detail,,<span class='scene-font-katari'>ファラから情報を聞き出した</span><br><span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>帝国軍の待つザニス高地へと向かう。</span>,<span class='scene-font-katari'>피라에게 정보를 얻어낸</span><br><span class='scene-font-katari'>[플레이어]일행은</span><br><span class='scene-font-katari'>제국군이 기다리는 자니스 고지로 향한다.。</span>
 Japanese,"scene_cp10_q3_s10,1031",detail,이오,わぁ……！<br>すごい！ 遠くに青く見えるあれ！<br>あれが<span class='scene-font-place'>アウギュステ</span>の海？,와……！<br>대박! 멀리 파랗게 보이는 저것! <br> 저것이 <span class='scene-font-place>> 아우귀스테 </span>의 바다?
 Japanese,"scene_cp10_q3_s10,1031",detail,비이,イオは遠足気分だな……<br>持ってき過ぎたおやつは没収だぜ？,이오는 소풍 기분이네....<br>너무 가지고 온 간식은 빼앗아갈걸?
-Japanese,"scene_cp10_q3_s10,1031",detail,이오,うっさい、トカゲ！<br>[ジータ]からも何か言ってよ！,짜증나 도마뱀! <br> [지타]한테도 뭐라고 해!
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,トカゲ言うな！<br>オイラのどこがトカゲだってんだ！？<br>なぁ、[ジータ]！,도마뱀 말하지마!<br>오이라의 어디가 도마뱀이라는거야!?<br> 야 [br]
+Japanese,"scene_cp10_q3_s10,1031",detail,이오,うっさい、トカゲ！<br>[플레이어]からも何か言ってよ！,짜증나 도마뱀! <br> [플레이어]한테도 뭐라고 해!
+Japanese,"scene_cp10_q3_s10,1031",detail,비이,トカゲ言うな！<br>オイラのどこがトカゲだってんだ！？<br>なぁ、[플레이어]！,도마뱀 말하지마!<br>오이라의 어디가 도마뱀이라는거야!?<br> 야 [br]
 Japanese,"scene_cp10_q3_s10,1031",sel1_txt,,<span class='scene-font-katari'>ビィはトカゲじゃない</span>,<span class='scene-font-katari'>비이는 도마뱀이아니야</span>
 Japanese,"scene_cp10_q3_s10,1031",sel2_txt,,<span class='scene-font-katari'>尻尾とか鱗とか……</span>,<span class='scene-font-katari'>꼬리라던가 비늘이라던가……</span>
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,だよなだよな！ ほれ見ろ！<br>[ジータ]はそう言ってくれると<br>思ってたぜ！,그렇지? 봐봐! <br>[지타]는 그렇게 말해줄 거라고<br>생각했다구!
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,オ、オイラ……<br>[ジータ]は味方だと思ってたぜ……,"오, 오이라……<br>[지타]는 아군이라고 생각했지……"
+Japanese,"scene_cp10_q3_s10,1031",detail,비이,だよなだよな！ ほれ見ろ！<br>[플레이어]はそう言ってくれると<br>思ってたぜ！,그렇지? 봐봐! <br>[플레이어]는 그렇게 말해줄 거라고<br>생각했다구!
+Japanese,"scene_cp10_q3_s10,1031",detail,비이,オ、オイラ……<br>[플레이어]は味方だと思ってたぜ……,"오, 오이라……<br>[플레이어]는 아군이라고 생각했지……"
 Japanese,"scene_cp10_q3_s10,1031",detail,카타리나,ははは、まぁまぁ。<br>ところでラカム、<br>何か怪しい影は見えるか？,"하하하 그저 그래.<br>그런데 라캄,<br>뭔가 수상한 그림자가 보이세요?"
 Japanese,"scene_cp10_q3_s10,1031",detail,라캄,いや、いまのところ<br>何も見えねぇな……<br>まさか嘘だったのか？,"아니, 지금으로선<br>아무것도 보이지 않네……<br>설마 거짓말이었나?"
 Japanese,"scene_cp10_q3_s10,1031",detail,오이겐,このザニス高地は広いからな。<br>まぁ、気長に構えるといい。,"이 자니스 고지는 넓으니까 말이야.뭐, 느긋하게 행동하면 좋아."
-Japanese,"scene_cp10_q3_s10,1031",detail,루리아,ねぇ、[ジータ]、何か変です……<br>さっきの場所から離れたのに、<br>リヴァイアサンの気配が変わらない……,"저기, [지타] 뭔가 이상해요....<br>아까 있던 장소에서 벗어났는데,<br>리바이아산의 기색이 변하지 않아...."
+Japanese,"scene_cp10_q3_s10,1031",detail,루리아,ねぇ、[플레이어]、何か変です……<br>さっきの場所から離れたのに、<br>リヴァイアサンの気配が変わらない……,"저기, [플레이어] 뭔가 이상해요....<br>아까 있던 장소에서 벗어났는데,<br>리바이아산의 기색이 변하지 않아...."
 Japanese,"scene_cp10_q3_s10,1031",detail,루리아,まるで、<br><span class='scene-font-place'>アウギュステ</span>全体が<br>リヴァイアサンに包まれてるみたい……,"마치,<br><spanclass='scene-font-place>>아우귀스테</span>전체가<br>리바이아산에 싸여 있는것 같다……"
 Japanese,"scene_cp10_q3_s20,1032",synopsis,,ザニス高地へと辿り着いた一同は、エルステ帝国の一団と黒騎士の姿を見つける。そのことをオイゲンに話すと、オイゲンは黒騎士の名を聞いた途端、帝国軍のほうへと飛び出していった。,자니스 고지에 도착한 이들은 에르스테 제국의 일단과 흑기사의 모습을 발견한다.그 일을 오이겐에게 말하자 오이겐은 흑기사의 이름을 듣자마자 제국군 쪽으로 뛰어갔다.
 Japanese,"scene_cp10_q3_s20,1032",detail,카타리나,あの軍旗……<br>どうやら向こうに見える一団が、<br>帝国の軍で間違いなさそうだ。,"저 군기……<br>아무래도 저쪽에 보이는 일단이,<br>제국의 군이 틀림없을 것 같다."
 Japanese,"scene_cp10_q3_s20,1032",detail,라캄,どれどれ……,보자……
 Japanese,"scene_cp10_q3_s20,1032",detail,라캄,うおっ！<br>よくもまぁ、揃いもそろって、<br>いかつい顔ばっか……,"으윽!<br>잘도 뭐, 다 모이고 <br>잘도 모이고,<br>잘도 모이고……."
-Japanese,"scene_cp10_q3_s20,1032",detail,라캄,……おい、[ジータ]。<br>あれ、見えるか？,"……야, [지타].<br>저, 보이냐?"
-Japanese,"scene_cp10_q3_s20,1032",detail,루리아,[ジータ]！<br>あ、あれって、<span class='scene-font-place'>バルツ</span>で会った<br>あの黒い騎士さんですよね……？,"[지타]!<br>아, 저거는 <span class='scene-font-place>>발츠</span>에서 만났던<br>저 검은 기사님 말씀이죠……?"
+Japanese,"scene_cp10_q3_s20,1032",detail,라캄,……おい、[플레이어]。<br>あれ、見えるか？,"……야, [플레이어].<br>저, 보이냐?"
+Japanese,"scene_cp10_q3_s20,1032",detail,루리아,[플레이어]！<br>あ、あれって、<span class='scene-font-place'>バルツ</span>で会った<br>あの黒い騎士さんですよね……？,"[플레이어]!<br>아, 저거는 <span class='scene-font-place>>발츠</span>에서 만났던<br>저 검은 기사님 말씀이죠……?"
 Japanese,"scene_cp10_q3_s20,1032",detail,오이겐,おいおい、なんだ？<br>てめぇらだけで、ヒソヒソしやがって。<br>ジジイは寂しいと死ぬんだぞ？,야야야 뭐야?<br> 이녀석들만 떠들면서.<br>지지이는 외로우면 죽는다구?
 Japanese,"scene_cp10_q3_s20,1032",detail,이오,なに言ってんだか、もう……<br>あのね、向こうの帝国軍に<br>私達の因縁の相手がいるの。,"뭐라고 하는 건지, 이미……<br>저기, 저쪽 제국군에게<br>우리 인연이 있는 상대가 있어."
 Japanese,"scene_cp10_q3_s20,1032",detail,이오,<span class='scene-font-place'>バルツ</span>に居た、<br>帝国の黒い騎士が……,<span class='scene-font-place>>발츠</span>에 있던 <br>제국의 검은 기사가……
@@ -87,11 +87,11 @@ Japanese,"scene_cp10_q3_s20,1032",detail,오이겐,帝国の……<br><span clas
 Japanese,"scene_cp10_q3_s20,1032",detail,라캄,あっ！？ おい、待て！<br>どうしたんだオイゲン！<br>一人で突っ込むな！,"앗!? 어이, 기다려!<br>무슨 일이야 오이겐!<br>혼자 찌르지 마!"
 Japanese,"scene_cp10_q3_s20,1032",detail,카타리나,待てラカム！<br>また魔物がこちらに来ている！<br>先に片付けないと……！,기다려라 카무!<br>또 마물이 이쪽으로 오고 있다!<br>먼저 치우지 않으면……!
 Japanese,"scene_cp10_q3_s20,1032",detail,라캄,くそ……！<br>なんだってんだ、一体！,"젠장……！<br>이래, 도대체！"
-Japanese,"scene_cp10_q4_s10,1041",synopsis,,<span>[ジータ]</span>一行が帝国軍の前に躍り出ると、黒騎士と相対するオイゲンの姿があった。一行はオイゲンを連れて逃げようとするが、<span class='scene-font-place'>ポート・ブリーズ</span>を襲った将軍フュリアスが一行の行く手を阻む。,<span>[지타]</span>일행이 제국군 앞으로 뛰어나가자 흑기사와 상대하는 오이겐의 모습이 보였다.일행은 오이겐을 데리고 도망치려 하지만 <span class='scene-font-place>> 포트 브리즈</span>를 습격한 장군 퓨리아스가 일행의 길을 가로막는다.
+Japanese,"scene_cp10_q4_s10,1041",synopsis,,<span>[플레이어]</span>一行が帝国軍の前に躍り出ると、黒騎士と相対するオイゲンの姿があった。一行はオイゲンを連れて逃げようとするが、<span class='scene-font-place'>ポート・ブリーズ</span>を襲った将軍フュリアスが一行の行く手を阻む。,<span>[플레이어]</span>일행이 제국군 앞으로 뛰어나가자 흑기사와 상대하는 오이겐의 모습이 보였다.일행은 오이겐을 데리고 도망치려 하지만 <span class='scene-font-place>> 포트 브리즈</span>를 습격한 장군 퓨리아스가 일행의 길을 가로막는다.
 Japanese,"scene_cp10_q4_s10,1041",detail,라캄,<span class='scene-font-4'>オイゲン！</span><br><span class='scene-font-4'>どこだ、オイゲン！</span>,< span   class = ' scene - font - 4 ' > オイゲン ！ < / span > < br > < span   class = ' scene - font - 4 ' > どこ だ 、 オイゲン ！ < / span >
 Japanese,"scene_cp10_q4_s10,1041",detail,이오,ラカム！ ねぇ、あっち！<br>黒い騎士達のほうに……！,"라캄! 야, 저기! <br> 검은 기사들 쪽으로……!"
-Japanese,"scene_cp10_q4_s10,1041",detail,루리아,[ジータ]！<br>私達も急ぎましょう！,[지타]!<br>우리도 서두릅시다!
-Japanese,"scene_cp10_q4_s10,1041",detail,,<span class='scene-font-katari'>[ジータ]達が走り着いたその先で</span><br><span class='scene-font-katari'>オイゲンは黒騎士と相対していた。</span>,<span class='scene-font-katari'>[지타]들이 달려와 그 앞에서 </span><br><span class='scene-font-katari>> 오이겐은 흑기사와 상대하고 있었다.</span>
+Japanese,"scene_cp10_q4_s10,1041",detail,루리아,[플레이어]！<br>私達も急ぎましょう！,[플레이어]!<br>우리도 서두릅시다!
+Japanese,"scene_cp10_q4_s10,1041",detail,,<span class='scene-font-katari'>[플레이어]達が走り着いたその先で</span><br><span class='scene-font-katari'>オイゲンは黒騎士と相対していた。</span>,<span class='scene-font-katari'>[플레이어]들이 달려와 그 앞에서 </span><br><span class='scene-font-katari>> 오이겐은 흑기사와 상대하고 있었다.</span>
 Japanese,"scene_cp10_q4_s10,1041",detail,오이겐,――よぉ、てめぇ、<br>元気そうにしてるじゃねぇか。,"--여, 너,<br>건강하게 있잖아."
 Japanese,"scene_cp10_q4_s10,1041",detail,흑기사,貴様……ッ！？<br>……老いぼれが<br>まだ生きているとはな。,네놈....칫!?<br>......늙은이가<br>아직 살아 있다니.
 Japanese,"scene_cp10_q4_s10,1041",detail,흑기사,この列島は<br>相変わらずろくでもないな……<br>見たくもないものばかり目に入る……！,이 열도는<br>여전히 변변치도 않구나……<br>보고 싶지도 않은 것만 눈에 들어……！
@@ -109,28 +109,28 @@ Japanese,"scene_cp10_q4_s10,1041",detail,흑기사,なぜ貴様らが<span class
 Japanese,"scene_cp10_q4_s10,1041",detail,흑기사,フュリアス！<br>貴様の出番だが……<br>わかっているな？,퓨리어스! <br> 네가 나갈 차례인데……<br> 알고 있지?
 Japanese,"scene_cp10_q4_s10,1041",detail,퓨리어스,心配性だなぁ……<br>殺しちゃダメなんでしょ？<br>こいつら。,걱정이 많네……<br>죽이면 안 되는 거지?<br>이놈들.
 Japanese,"scene_cp10_q4_s10,1041",detail,퓨리어스,任せてよ！<br>生かさず殺さずは<br>ボクの得意分野だからね！,맡겨줘!<br>살리지 않고서는<br>내가 잘하는 분야니까!
-Japanese,"scene_cp10_q4_s10,1041",detail,카타리나,[ジータ]！<br>多勢に無勢だが、応戦するぞ！,[지타]!<br>다세에 무세지만 응전한다!
+Japanese,"scene_cp10_q4_s10,1041",detail,카타리나,[플레이어]！<br>多勢に無勢だが、応戦するぞ！,[플레이어]!<br>다세에 무세지만 응전한다!
 Japanese,"scene_cp10_q4_s20,1042",synopsis,,一同はザニス高地へと近づくが、帝国軍の姿はなかなか見えてこない。そんな中、大きく場所を移動しても変わらないリヴァイアサンの気配に、ルリアは疑問を持つ。,"모두 자니스 고지에 접근하지만 제국군의 모습은 좀처럼 보이지 않는다.그런 가운데, 크게 장소를 이동해도 변하지 않는 리바이아상의 낌새에, 루리아는 의문을 가진다."
 Japanese,"scene_cp10_q4_s20,1042",detail,퓨리어스,いやぁ、素晴らしい！<br>相変わらず強いね、君達！<br>そうだ……名前はなんて言うんだっけ？,"이야~ 훌륭해!<br>여전히 강해, 너희!<br>그렇다……이름이 뭐라고 하지?"
 Japanese,"scene_cp10_q4_s20,1042",detail,라캄,ワリィな。<br>帝国の軍人に名乗るような名は……,우리말이야.<br>제국의 군인을 자칭하는 이름은.....
 Japanese,"scene_cp10_q4_s20,1042",detail,퓨리어스,あぁいい、いらない、黙れよヒゲ。<br>君に聞いたんじゃないんだよ。<br>うるさいなぁ、もう……,"아 됐어, 필요 없어 입 닥쳐 수염.<br>너한테 물어본게 아니야.<br>시끄럽네, 벌써……"
 Japanese,"scene_cp10_q4_s20,1042",detail,이오,な、なんなの、こいつ……？<br>自分で名前聞いといて、<br>バッカじゃないの？,"뭐,뭐야,이녀석……?내가 이름 물어봐줘,<br>박카 아니야?"
-Japanese,"scene_cp10_q4_s20,1042",detail,루리아,[ジータ]……<br>やっぱり、あの人、何か変です……<br>星晶に似た、不気味な力を感じる……,[지타]……<br>역시 저 사람 뭔가 이상해요……<br>성정을 닮은 섬뜩한 힘을 느껴……
+Japanese,"scene_cp10_q4_s20,1042",detail,루리아,[플레이어]……<br>やっぱり、あの人、何か変です……<br>星晶に似た、不気味な力を感じる……,[플레이어]……<br>역시 저 사람 뭔가 이상해요……<br>성정을 닮은 섬뜩한 힘을 느껴……
 Japanese,"scene_cp10_q4_s20,1042",detail,퓨리어스,ああ、くそっ、うるさいんだよ……<br>……いいや、もう。<br>最初から覚える気なんてなかったし。,"아아, 빌어먹을, 시끄럽다구……<br>……아니, 이제.<br>처음부터 기억할 생각도 없었고."
 Japanese,"scene_cp10_q4_s20,1042",detail,퓨리어스,喰われろよ……！<br>さぁ、出ておいで、ポチ！,먹어라!!<br>자 나와라 뽀찌!
 Japanese,"scene_cp10_q4_s20,1042",detail,마물,<span class='scene-font-5'>グオオォォッ！！</span>,<span class='scene-font-5'>쿠오오오옹！！</span>
 Japanese,"scene_cp10_q4_s20,1042",detail,이오,全然ポチって感じじゃないけど！？,전혀 뽐내는 느낌이 아닌데!?
-Japanese,"scene_cp10_q4_s20,1042",detail,비이,こんな隠し玉が残ってるなんて……<br>[ジータ]！ 油断するなよ！,이런 비밀의 비장의 카드가 남아 있다니……<br>[지타]! 방심하지 마!
-Japanese,"scene_cp10_q4_s30,1043",synopsis,,魔物を退けた<span>[ジータ]</span>一行は、オイゲンにルリアの秘密を明かす。その内容に<span>[ジータ]</span>達の覚悟を知ったオイゲンは、自らも旅に同行したいと願い出る。,마물을 물리친 <span> [지타] </span> 일행은 오이겐에게 루리아의 비밀을 밝힌다.그 내용에 <span>[지타]</span>들의 각오를 알게 된 오이겐은 스스로도 여행에 동행하고 싶다는 요청을 한다.
+Japanese,"scene_cp10_q4_s20,1042",detail,비이,こんな隠し玉が残ってるなんて……<br>[플레이어]！ 油断するなよ！,이런 비밀의 비장의 카드가 남아 있다니……<br>[플레이어]! 방심하지 마!
+Japanese,"scene_cp10_q4_s30,1043",synopsis,,魔物を退けた<span>[플레이어]</span>一行は、オイゲンにルリアの秘密を明かす。その内容に<span>[플레이어]</span>達の覚悟を知ったオイゲンは、自らも旅に同行したいと願い出る。,마물을 물리친 <span> [플레이어] </span> 일행은 오이겐에게 루리아의 비밀을 밝힌다.그 내용에 <span>[플레이어]</span>들의 각오를 알게 된 오이겐은 스스로도 여행에 동행하고 싶다는 요청을 한다.
 Japanese,"scene_cp10_q4_s30,1043",detail,마물,ウウゥ……,으으으....
-Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>魔物を退けた[ジータ]達は</span><br><span class='scene-font-katari'>オイゲンを連れて帝国軍を突破し</span><br><span class='scene-font-katari'>少し離れた位置に身を隠した。</span>,<span class='scene-font-katari>>마물을 물리친 [지타]들은 </span><br><span class='scene-font-katari>오이겐을 데리고 제국군을 돌파하여 </span><br><span'에 이르렀다.
+Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>魔物を退けた[플레이어]達は</span><br><span class='scene-font-katari'>オイゲンを連れて帝国軍を突破し</span><br><span class='scene-font-katari'>少し離れた位置に身を隠した。</span>,<span class='scene-font-katari>>마물을 물리친 [플레이어]들은 </span><br><span class='scene-font-katari>오이겐을 데리고 제국군을 돌파하여 </span><br><span'에 이르렀다.
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,すまねぇな……<br>年甲斐もなくアツくなっちまってよ。,미안하네……<br>나잇값도 못하고 뜨거워져 버렸네.
 Japanese,"scene_cp10_q4_s30,1043",detail,카타리나,いや……そんなことより、<br>オイゲンは、あの黒騎士と<br>何か関係があるのか？,"아니……그런것보다,<br>오이겐은,저흑기사와<br>뭔가 관계가 있는건가?"
 Japanese,"scene_cp10_q4_s30,1043",detail,이오,知り合いっぽい感じだったよね。<br>オイゲンも帝国になにか因縁が？,알고 지내는 느낌이었지? <br> 오이겐도 제국에 뭔가 인연이?
 Japanese,"scene_cp10_q4_s30,1043",detail,라캄,そうなのか？<br>オイゲン……,그런가? <br> 오이겐……
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,悪ぃな……<br>オレにゃ言えねぇことが、<br>多すぎるんだ……,"미안하군……<br>나로서는 말할 수 없는 것이,<br>너무 많아……"
-Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,それより、[ジータ]達は、<br>アイツとは、<br>どういう関係なんだ？,"그것보다, [지타]들은,<br>그녀석과는,<br>무슨 관계야?"
-Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>[ジータ]は、オイゲンに</span><br><span class='scene-font-katari'>ルリアの能力の秘密を明かし</span><br><span class='scene-font-place'>バルツ</span><span class='scene-font-katari'>での出来事を説明する。</span>,<span class='scene-font-katari'>[지타]는、오이겐에게</span><br><span class='scene-font-katari'>루리아의 능력의 비밀을 밝히고</span><br><span class='scene-font-place'>발츠</span><span class='scene-font-katari'>에서 일어난 일을 설명한다。</span>
+Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,それより、[플레이어]達は、<br>アイツとは、<br>どういう関係なんだ？,"그것보다, [플레이어]들은,<br>그녀석과는,<br>무슨 관계야?"
+Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>[플레이어]は、オイゲンに</span><br><span class='scene-font-katari'>ルリアの能力の秘密を明かし</span><br><span class='scene-font-place'>バルツ</span><span class='scene-font-katari'>での出来事を説明する。</span>,<span class='scene-font-katari'>[플레이어]는、오이겐에게</span><br><span class='scene-font-katari'>루리아의 능력의 비밀을 밝히고</span><br><span class='scene-font-place'>발츠</span><span class='scene-font-katari'>에서 일어난 일을 설명한다。</span>
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,――で、その能力を持ってて、<br>帝国に囚われてたってのが、<br>この嬢ちゃんなわけか……,"그래서, 그 능력을 가지고 있고,<br>제국에 사로잡혀 있었던 것이,<br>이 아가씨인건가……"
 Japanese,"scene_cp10_q4_s30,1043",detail,루리아,え、えへ……,"네, 에에……"
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,……んな怯えた顔するんじゃねぇや。<br>何も取って食いやしねぇからよ。,……따위 겁먹은 얼굴 하지 마.아무것도 잡아먹지 않으니까.
@@ -140,16 +140,16 @@ Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,ちょっと大食らいの�
 Japanese,"scene_cp10_q4_s30,1043",detail,카타리나,星晶獣の力の吸収を大食らいとは……<br>度量が広いと言うか、なんと言うか……,"성정수의 힘의 흡수를 대식이라니……<br>도량이 넓다고나 할까, 뭐랄까……"
 Japanese,"scene_cp10_q4_s30,1043",detail,루리아,あ、あのっ！<br>食事はそんなにたくさん<br>食べたりしませんよっ！,"아, 저!<br>식사는 그렇게 많이<br>먹지않아요!"
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,ともかく、テメェらに、<br>大層な覚悟があるのは<br>よぉっくわかった……,"어쨌든, 테뫼들에게,<br>대단한 각오가 있는 것은<br>잘 알았다……"
-Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,そこでだ、[ジータ]よ。<br>一つ、頼みがあるんだが<br>聞いてくれるか？,"그래서 말인데, [지타]야.<br>한가지 부탁이 있는데<br>들어줄래?"
+Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,そこでだ、[플레이어]よ。<br>一つ、頼みがあるんだが<br>聞いてくれるか？,"그래서 말인데, [플레이어]야.<br>한가지 부탁이 있는데<br>들어줄래?"
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,この老いぼれも<br>旅に連れてっちゃくれねぇか？<br>もちろん、足は引っ張らねぇさ。,"이 늙은이도<br>여행으로 데려가면 안될까?물론, 다리를 당기지않아."
-Japanese,"scene_cp10_q4_s30,1043",detail,라캄,[ジータ]！<br>オイゲンが仲間になりゃ百人力だぜ！,[지타]!<br>오이겐이 동료가 되면야 백인장이지!
+Japanese,"scene_cp10_q4_s30,1043",detail,라캄,[플레이어]！<br>オイゲンが仲間になりゃ百人力だぜ！,[플레이어]!<br>오이겐이 동료가 되면야 백인장이지!
 Japanese,"scene_cp10_q4_s30,1043",detail,라캄,だが、どうして急に……,그런데 왜 갑자기……
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,いや、なに……<br>若いもんが逃げもしねぇで、<br>しっかり戦ってるっていうのによ……,"아니, 뭐....<br>젊은 애가 도망가지도 않고,<br>확실히 싸우고 있는데 말야......."
 Japanese,"scene_cp10_q4_s30,1043",detail,오이겐,年寄りが隠居して<br>自分の因縁から逃げてるってのは<br>カッコ悪ぃだろ？ それだけの話だ。,노인이 은거해서<br>자신의 인연으로부터 도망가는건<br>꼴사납지? 그런 얘기다.
 Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>老兵は抱えた秘密を</span><br><span class='scene-font-katari'>決して明かすことはない。</span>,<span class='scene-font-katari'>노병이 품은 비밀은</span><br><span class='scene-font-katari'>결코 밝혀지지 않는다。</span>
-Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>しかし、その戦いの年季は</span><br><span class='scene-font-katari'>[ジータ]の確かな力に</span><br><span class='scene-font-katari'>なるのだった。</span>,"<span class='scene-font-katari'>하지만, 그 싸움의 계약기간은</span><br><span class='scene-font-katari'>[지타]확실한 힘에</span><br><span class='scene-font-katari'>달린것이었다。</span>"
+Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>しかし、その戦いの年季は</span><br><span class='scene-font-katari'>[플레이어]の確かな力に</span><br><span class='scene-font-katari'>なるのだった。</span>,"<span class='scene-font-katari'>하지만, 그 싸움의 계약기간은</span><br><span class='scene-font-katari'>[플레이어]확실한 힘에</span><br><span class='scene-font-katari'>달린것이었다。</span>"
 English,"scene_cp10_q1_s10,1011",synopsis,,"Back at the base with Eugen, Katalina recognizes one prisoner's voice. The prisoner turns out to be Farrah, an imperial soldier who thinks of Katalina as her mentor."
-English,"scene_cp10_q1_s10,1011",detail,,"[Djeeta], Eugen, and company return to the agents' base, where the air is filled with piercing screams."
+English,"scene_cp10_q1_s10,1011",detail,,"[플레이어], Eugen, and company return to the agents' base, where the air is filled with piercing screams."
 English,"scene_cp10_q1_s10,1011",detail,???,Lemme go! I said <span class='scene-font-italic'>let me go</span>! An agent of the empire will never talk!
 English,"scene_cp10_q1_s10,1011",detail,Eugen,Would you look at that... That's one gutsy prisoner!
 English,"scene_cp10_q1_s10,1011",detail,Agent,"Hey, Captain! You mind helping us with this one? She already got three of us with those teeth of hers!"
@@ -172,11 +172,11 @@ English,"scene_cp10_q1_s20,1012",synopsis,,"The crew fights back wave after wave
 English,"scene_cp10_q1_s20,1012",detail,Io,Hm... I thought the monsters here would be... hardier?
 English,"scene_cp10_q1_s20,1012",detail,Rackam,Don't get nervy just yet. We still gotta take down the big one!
 English,"scene_cp10_q1_s20,1012",detail,Lyria,"Heheh... Io and Rackam get along so well, they almost seem like family..."
-English,"scene_cp10_q1_s20,1012",detail,Lyria,"But they'd probably get mad if I told them, so let's keep this between us. Okay, [Djeeta]?"
+English,"scene_cp10_q1_s20,1012",detail,Lyria,"But they'd probably get mad if I told them, so let's keep this between us. Okay, [플레이어]?"
 English,"scene_cp10_q1_s20,1012",detail,Eugen,He's like her babysitter. But I guess he's always been the protective type...
 English,"scene_cp10_q1_s20,1012",detail,Katalina,Always? How long have you known him exactly?
 English,"scene_cp10_q1_s20,1012",detail,Eugen,"Heh... A while, let's say."
-English,"scene_cp10_q1_s20,1012",detail,Eugen,"But now's not the time. Let's move, [Djeeta]!"
+English,"scene_cp10_q1_s20,1012",detail,Eugen,"But now's not the time. Let's move, [플레이어]!"
 English,"scene_cp10_q2_s10,1021",synopsis,,"The captured Farrah reveals that Erste's army is stationed at the Tzannis Plateau. The crew rushes there, beating back monsters along the way."
 English,"scene_cp10_q2_s10,1021",detail,Farrah,"Never! Never ever, ever! I won't say a peep!"
 English,"scene_cp10_q2_s10,1021",detail,Katalina,Farrah...
@@ -208,28 +208,28 @@ English,"scene_cp10_q2_s20,1022",detail,Katalina,That's high praise coming from 
 English,"scene_cp10_q2_s20,1022",detail,Eugen,Ha-ha! Looks like there's one thing you're bad at: judging other people.
 English,"scene_cp10_q2_s20,1022",detail,Eugen,"Indecisiveness put me on the run, and I'm still runnin'. Trust me, I'm nowhere near your league."
 English,"scene_cp10_q2_s20,1022",detail,Katalina,Eugen?
-English,"scene_cp10_q2_s20,1022",detail,Eugen,"But enough of my doom and gloom. And don't just stand around lookin' all sour, [Djeeta]! I won't bail you out if you get yourself into trouble."
-English,"scene_cp10_q3_s10,1031",synopsis,,"[Djeeta] and the others near the plateau, but the imperial army is nowhere to be seen. Lyria is worried because she hasn't sensed any change in Leviathan in spite of the distance they've traveled."
-English,"scene_cp10_q3_s10,1031",detail,,"[Djeeta] and the others rush toward the Tzannis Plateau, where Farrah said the imperial army is waiting."
+English,"scene_cp10_q2_s20,1022",detail,Eugen,"But enough of my doom and gloom. And don't just stand around lookin' all sour, [플레이어]! I won't bail you out if you get yourself into trouble."
+English,"scene_cp10_q3_s10,1031",synopsis,,"[플레이어] and the others near the plateau, but the imperial army is nowhere to be seen. Lyria is worried because she hasn't sensed any change in Leviathan in spite of the distance they've traveled."
+English,"scene_cp10_q3_s10,1031",detail,,"[플레이어] and the others rush toward the Tzannis Plateau, where Farrah said the imperial army is waiting."
 English,"scene_cp10_q3_s10,1031",detail,Io,Wow! Amazing! Look at all that blue over there! Is that the Auguste Sea?
 English,"scene_cp10_q3_s10,1031",detail,Vyrn,"This isn't some field trip, Io... You want me to take away your snacks?"
-English,"scene_cp10_q3_s10,1031",detail,Io,"Enough, lizard! C'mon, say something, [Djeeta]!"
-English,"scene_cp10_q3_s10,1031",detail,Vyrn,"Who're you calling a lizard? Do I look like a lizard to you? Help me out here, [Djeeta]!"
+English,"scene_cp10_q3_s10,1031",detail,Io,"Enough, lizard! C'mon, say something, [플레이어]!"
+English,"scene_cp10_q3_s10,1031",detail,Vyrn,"Who're you calling a lizard? Do I look like a lizard to you? Help me out here, [플레이어]!"
 English,"scene_cp10_q3_s10,1031",sel1_txt,,Vyrn's no lizard.
 English,"scene_cp10_q3_s10,1031",sel2_txt,,"You're a lizard, Vyrn."
-English,"scene_cp10_q3_s10,1031",detail,Vyrn,"I know, right? See, Io? I knew [Djeeta] would be on my side!"
-English,"scene_cp10_q3_s10,1031",detail,Vyrn,[Djeeta]... I thought we were friends...
+English,"scene_cp10_q3_s10,1031",detail,Vyrn,"I know, right? See, Io? I knew [플레이어] would be on my side!"
+English,"scene_cp10_q3_s10,1031",detail,Vyrn,[플레이어]... I thought we were friends...
 English,"scene_cp10_q3_s10,1031",detail,Katalina,"There, there, you two. Hey, Rackam, seeing anything out of the ordinary so far?"
 English,"scene_cp10_q3_s10,1031",detail,Rackam,"Not yet. You don't think Farrah might have been lying, do you?"
 English,"scene_cp10_q3_s10,1031",detail,Eugen,"Well, there's still a lot of plateau left. All we need's a little patience."
-English,"scene_cp10_q3_s10,1031",detail,Lyria,"[Djeeta]... Something's wrong... We traveled all this way, but I can't sense any change in Leviathan."
+English,"scene_cp10_q3_s10,1031",detail,Lyria,"[플레이어]... Something's wrong... We traveled all this way, but I can't sense any change in Leviathan."
 English,"scene_cp10_q3_s10,1031",detail,Lyria,It's almost as if Leviathan is enveloping all of Auguste...
-English,"scene_cp10_q3_s20,1032",synopsis,,"Having reached the Tzannis Plateau, [Djeeta] and the others find a single imperial unit accompanied by the Black Knight. As soon as Eugen hears of the knight, he races toward the unit."
+English,"scene_cp10_q3_s20,1032",synopsis,,"Having reached the Tzannis Plateau, [플레이어] and the others find a single imperial unit accompanied by the Black Knight. As soon as Eugen hears of the knight, he races toward the unit."
 English,"scene_cp10_q3_s20,1032",detail,Katalina,Those banners... Only soldiers of the empire would fly them.
 English,"scene_cp10_q3_s20,1032",detail,Rackam,What do we have here?
 English,"scene_cp10_q3_s20,1032",detail,Rackam,Looks like we've got some tough customers on our hands...
-English,"scene_cp10_q3_s20,1032",detail,Rackam,"Hey, [Djeeta]. Look over there."
-English,"scene_cp10_q3_s20,1032",detail,Lyria,"[Djeeta], isn't that the Black Knight whom we saw back in Valtz?"
+English,"scene_cp10_q3_s20,1032",detail,Rackam,"Hey, [플레이어]. Look over there."
+English,"scene_cp10_q3_s20,1032",detail,Lyria,"[플레이어], isn't that the Black Knight whom we saw back in Valtz?"
 English,"scene_cp10_q3_s20,1032",detail,Eugen,"What are you mumbling about? Talk so people can hear you! Yer not gonna leave an old man in the dark, are you?"
 English,"scene_cp10_q3_s20,1032",detail,Io,Would you cut it out? We've run into one of the soldiers over there before.
 English,"scene_cp10_q3_s20,1032",detail,Io,We met the Black Knight in Valtz...
@@ -237,11 +237,11 @@ English,"scene_cp10_q3_s20,1032",detail,Eugen,The Black Knight... with the <span
 English,"scene_cp10_q3_s20,1032",detail,Rackam,"Whoa! Hold on, Eugen! Stay with the group!"
 English,"scene_cp10_q3_s20,1032",detail,Katalina,"There are more monsters coming this way, Rackam. We have to take care of them first!"
 English,"scene_cp10_q3_s20,1032",detail,Rackam,Good grief! What in tarnation is going on here?
-English,"scene_cp10_q4_s10,1041",synopsis,,"[Djeeta] and the crew spring into action to find Eugen facing the Black Knight. The crew tries to escape with Eugen, but Major General Furias blocks the path."
+English,"scene_cp10_q4_s10,1041",synopsis,,"[플레이어] and the crew spring into action to find Eugen facing the Black Knight. The crew tries to escape with Eugen, but Major General Furias blocks the path."
 English,"scene_cp10_q4_s10,1041",detail,Rackam,Eugen! Where are you?
 English,"scene_cp10_q4_s10,1041",detail,Io,"Over there, Rackam! By the Black Knight!"
-English,"scene_cp10_q4_s10,1041",detail,Lyria,"[Djeeta], we need to hurry!"
-English,"scene_cp10_q4_s10,1041",detail,,[Djeeta] and company rush over to where Eugen is facing the Black Knight.
+English,"scene_cp10_q4_s10,1041",detail,Lyria,"[플레이어], we need to hurry!"
+English,"scene_cp10_q4_s10,1041",detail,,[플레이어] and company rush over to where Eugen is facing the Black Knight.
 English,"scene_cp10_q4_s10,1041",detail,Eugen,You seem to be doing quite well for yourself.
 English,"scene_cp10_q4_s10,1041",detail,Black Knight,"Hard to believe you're still alive, you miserable old man."
 English,"scene_cp10_q4_s10,1041",detail,Black Knight,"These islands are as unpleasant as ever, filled with faces I hoped to never see again..."
@@ -259,28 +259,28 @@ English,"scene_cp10_q4_s10,1041",detail,Black Knight,"What are you doing in Augu
 English,"scene_cp10_q4_s10,1041",detail,Black Knight,Furias! I'll leave this to you... I trust you understand what you need to do.
 English,"scene_cp10_q4_s10,1041",detail,Furias,Ever the worrier... But I know I'm not supposed to kill them.
 English,"scene_cp10_q4_s10,1041",detail,Furias,Leave it to me! There's nothing I love more than playing with my prey!
-English,"scene_cp10_q4_s10,1041",detail,Katalina,"[Djeeta], we're outnumbered... but we have to fight!"
-English,"scene_cp10_q4_s20,1042",synopsis,,"[Djeeta] and the others near the plateau, but the imperial army is nowhere to be seen. Lyria is worried because she hasn't sensed any change in Leviathan in spite of the distance they've traveled."
+English,"scene_cp10_q4_s10,1041",detail,Katalina,"[플레이어], we're outnumbered... but we have to fight!"
+English,"scene_cp10_q4_s20,1042",synopsis,,"[플레이어] and the others near the plateau, but the imperial army is nowhere to be seen. Lyria is worried because she hasn't sensed any change in Leviathan in spite of the distance they've traveled."
 English,"scene_cp10_q4_s20,1042",detail,Furias,You're all as strong as ever! Funny thing though... Your names seem to have slipped my mind.
 English,"scene_cp10_q4_s20,1042",detail,Rackam,"Sorry, but I don't share my name with imperial scum."
 English,"scene_cp10_q4_s20,1042",detail,Furias,"Zip it, scruffy. No one asked you!"
 English,"scene_cp10_q4_s20,1042",detail,Io,What's wrong with this guy? He's the one who brought up our names in the first place...
-English,"scene_cp10_q4_s20,1042",detail,Lyria,"[Djeeta], I knew there was something off about him. His power almost reminds me of a primal's..."
+English,"scene_cp10_q4_s20,1042",detail,Lyria,"[플레이어], I knew there was something off about him. His power almost reminds me of a primal's..."
 English,"scene_cp10_q4_s20,1042",detail,Furias,"Blah, blah, blah... Don't flatter yourselves by thinking I cared about your names in the first place!"
 English,"scene_cp10_q4_s20,1042",detail,Furias,"Just be good little snacks! C'mere, Poochie!"
 English,"scene_cp10_q4_s20,1042",detail,Monster,Groooar!
 English,"scene_cp10_q4_s20,1042",detail,Io,<span class='scene-font-italic'>That's</span> Poochie?
-English,"scene_cp10_q4_s20,1042",detail,Vyrn,"Of all the low down, dirty... [Djeeta], keep your guard up!"
-English,"scene_cp10_q4_s30,1043",synopsis,,"After helping defeat the monster, Eugen listens to [Djeeta] explain Lyria's secret. He realizes why the crew is so determined and asks to join them."
+English,"scene_cp10_q4_s20,1042",detail,Vyrn,"Of all the low down, dirty... [플레이어], keep your guard up!"
+English,"scene_cp10_q4_s30,1043",synopsis,,"After helping defeat the monster, Eugen listens to [플레이어] explain Lyria's secret. He realizes why the crew is so determined and asks to join them."
 English,"scene_cp10_q4_s30,1043",detail,Monster,Grr...
-English,"scene_cp10_q4_s30,1043",detail,,"After working with Eugen to defeat the monster, [Djeeta] and company hide nearby for some much-needed rest."
+English,"scene_cp10_q4_s30,1043",detail,,"After working with Eugen to defeat the monster, [플레이어] and company hide nearby for some much-needed rest."
 English,"scene_cp10_q4_s30,1043",detail,Eugen,Sorry about that. I'm way too old to be this hotheaded.
 English,"scene_cp10_q4_s30,1043",detail,Katalina,Don't worry about it. What I'm wondering is... Do you share some connection with the Black Knight?
 English,"scene_cp10_q4_s30,1043",detail,Io,You sure looked like you knew each other. Did you do something with the empire too?
 English,"scene_cp10_q4_s30,1043",detail,Rackam,"Well, Eugen?"
 English,"scene_cp10_q4_s30,1043",detail,Eugen,Sorry. I have a lot of things I'm just not ready to talk about.
-English,"scene_cp10_q4_s30,1043",detail,Eugen,"I'm more interested in hearing what you and yer group have to do with the Black Knight, [Djeeta]."
-English,"scene_cp10_q4_s30,1043",detail,,[Djeeta] decides to tell Eugen the secret behind Lyria's powers and the incident in Valtz.
+English,"scene_cp10_q4_s30,1043",detail,Eugen,"I'm more interested in hearing what you and yer group have to do with the Black Knight, [플레이어]."
+English,"scene_cp10_q4_s30,1043",detail,,[플레이어] decides to tell Eugen the secret behind Lyria's powers and the incident in Valtz.
 English,"scene_cp10_q4_s30,1043",detail,Eugen,"The empire wanted to exploit Lyria's power, so they captured her..."
 English,"scene_cp10_q4_s30,1043",detail,Lyria,H-heh...
 English,"scene_cp10_q4_s30,1043",detail,Eugen,No need to be scared now. I'm not going to bite.
@@ -290,11 +290,11 @@ English,"scene_cp10_q4_s30,1043",detail,Eugen,A little girl with a big appetite'
 English,"scene_cp10_q4_s30,1043",detail,Katalina,"She can absorb the power of primal crystals, and you're passing it off as a big appetite? I don't know what to say..."
 English,"scene_cp10_q4_s30,1043",detail,Lyria,Hey! I don't eat <span class='scene-font-italic'>that</span> much!
 English,"scene_cp10_q4_s30,1043",detail,Eugen,"At any rate, I understand why yer all so determined."
-English,"scene_cp10_q4_s30,1043",detail,Eugen,"Oh, and [Djeeta]. There's something I want to ask you. Hear me out..."
+English,"scene_cp10_q4_s30,1043",detail,Eugen,"Oh, and [플레이어]. There's something I want to ask you. Hear me out..."
 English,"scene_cp10_q4_s30,1043",detail,Eugen,Would you mind taking an old man like myself along with you on the journey? I won't slow you down. Promise.
-English,"scene_cp10_q4_s30,1043",detail,Rackam,"Eugen's worth a hundred men, [Djeeta]!"
+English,"scene_cp10_q4_s30,1043",detail,Rackam,"Eugen's worth a hundred men, [플레이어]!"
 English,"scene_cp10_q4_s30,1043",detail,Rackam,Not sure why he suddenly decided to join us though.
 English,"scene_cp10_q4_s30,1043",detail,Eugen,"Well, part of it's seeing all you youngsters choose to stand and fight instead of running away..."
 English,"scene_cp10_q4_s30,1043",detail,Eugen,And part of it's that I don't want to run from my past anymore. That's all.
 English,"scene_cp10_q4_s30,1043",detail,,Eugen is not yet ready to share his secrets.
-English,"scene_cp10_q4_s30,1043",detail,,But his long years of experience will surely be a boon to [Djeeta] in the adventure to come.
+English,"scene_cp10_q4_s30,1043",detail,,But his long years of experience will surely be a boon to [플레이어] in the adventure to come.

@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp39_q1_s10,3911",synopsis,,襲い来る２体の星晶獣を退け宰相フリーシアを追い詰めた一行。しかし折り重なる帝国兵達に行く手を阻まれ、フリーシアを見失ってしまう。追撃の手掛かりを求める一行へ、森の奥に強大な力の存在を感じると告げるルリア。それをフリーシアとともにある星晶獣アーカーシャの力ではないかと直感した一行は、森の奥へと足を踏み入れるのであった。
-Japanese,"scene_cp39_q1_s10,3911",detail,,<span class='scene-font-katari'>２体の星晶獣を退け、</span><br><span class='scene-font-katari'>フリーシアを追い詰める</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp39_q1_s10,3911",detail,,<span class='scene-font-katari'>２体の星晶獣を退け、</span><br><span class='scene-font-katari'>フリーシアを追い詰める</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp39_q1_s10,3911",detail,,<span class='scene-font-katari'>しかし、一行は、</span><br><span class='scene-font-katari'>折り重なる兵達に行く手を阻まれ</span><br><span class='scene-font-katari'>フリーシアの姿を見失ってしまう。</span>
 Japanese,"scene_cp39_q1_s10,3911",detail,흑기사,くそ……<br>戦力としては期待できない連中でも、<br>壁くらいにはなるということか……
 Japanese,"scene_cp39_q1_s10,3911",detail,로제타,あれだけの兵を連れていたのも、<br>きっと最初から、<br>そのつもりだったんでしょうね……
@@ -17,7 +17,7 @@ Japanese,"scene_cp39_q1_s10,3911",detail,흑기사,星晶獣アーカーシャ�
 Japanese,"scene_cp39_q1_s10,3911",detail,오이겐,とすりゃあ……<br>おそらくその近くに……
 Japanese,"scene_cp39_q1_s10,3911",detail,흑기사,ああ……<br>フリーシアと……あの人形がいる。
 Japanese,"scene_cp39_q1_s10,3911",detail,비이,そんなら決まりだな！<br>こうなりゃ帝国の連中とも、<br>この島で決着をつけてやろうぜ！
-Japanese,"scene_cp39_q1_s20,3912",synopsis,,森の奥へと進む中、一行を取り巻く森の匂いを懐かしげに嗅ぐロゼッタ。今[ジータ]らがいる場所に生えている木々はロゼッタの一部、そしてこの場所は彼女にとって故郷のようなものなのだという。しかし、そんな感傷に浸るのも最後とロゼッタは謎めいた言葉を口にして、一行に先へ進む事を促すのだった。
+Japanese,"scene_cp39_q1_s20,3912",synopsis,,森の奥へと進む中、一行を取り巻く森の匂いを懐かしげに嗅ぐロゼッタ。今[플레이어]らがいる場所に生えている木々はロゼッタの一部、そしてこの場所は彼女にとって故郷のようなものなのだという。しかし、そんな感傷に浸るのも最後とロゼッタは謎めいた言葉を口にして、一行に先へ進む事を促すのだった。
 Japanese,"scene_cp39_q1_s20,3912",detail,로제타,ん……
 Japanese,"scene_cp39_q1_s20,3912",detail,로제타,やっぱりこの辺りは、<br>懐かしい匂いがするわね……
 Japanese,"scene_cp39_q1_s20,3912",detail,카타리나,うん？<br>この辺りに私達が踏み入るのは、<br>初めてだと思うが……
@@ -46,7 +46,7 @@ Japanese,"scene_cp39_q2_s10,3921",detail,라캄,自分とこの国の名産品�
 Japanese,"scene_cp39_q2_s10,3921",detail,흑기사,あの人形がそんなことを……？
 Japanese,"scene_cp39_q2_s10,3921",detail,오이겐,ああ……オレたちゃてっきり、<br>オルキスちゃんの出身が<br><span class='scene-font-place'>ルーマシー</span>なのかと思ったんだが……
 Japanese,"scene_cp39_q2_s10,3921",detail,흑기사,そうか……<br>あの人形が……
-Japanese,"scene_cp39_q2_s20,3922",synopsis,,かつてこのルーマシーでオルキスと行動を共にした時の事を思い出す[ジータ]ら。その時のオルキスの様子を聞いた黒騎士は、[ジータ]達がオルキスに友情を感じていた事を知る。オルキスと再会し、普通の女の子同士として過ごしたいというルリアの言葉が、黒騎士をさらに迷わせる。
+Japanese,"scene_cp39_q2_s20,3922",synopsis,,かつてこのルーマシーでオルキスと行動を共にした時の事を思い出す[플레이어]ら。その時のオルキスの様子を聞いた黒騎士は、[플레이어]達がオルキスに友情を感じていた事を知る。オルキスと再会し、普通の女の子同士として過ごしたいというルリアの言葉が、黒騎士をさらに迷わせる。
 Japanese,"scene_cp39_q2_s20,3922",detail,루리아,ごめんね、オルキスちゃん……<br>私達の本当のことを二人で一緒に<br>探していこうって、約束したのに……
 Japanese,"scene_cp39_q2_s20,3922",detail,루리아,でも……<br>絶対にそこへ行くから……<br>待ってて、オルキスちゃん……
 Japanese,"scene_cp39_q2_s20,3922",detail,흑기사,お前達はこの<span class='scene-font-place'>ルーマシー</span>で、<br>一時、あの人形と、<br>旅を共にしていたはずだが……
@@ -58,9 +58,9 @@ Japanese,"scene_cp39_q2_s20,3922",detail,흑기사,あの人形と……？
 Japanese,"scene_cp39_q2_s20,3922",detail,루리아,はい！<br>だから……絶対に助けるんです。<br>また一緒にお喋りするために……
 Japanese,"scene_cp39_q2_s20,3922",detail,루리아,特別な事なんてなくていいから……<br>一緒に笑って……<br>一緒にご飯を食べて……
 Japanese,"scene_cp39_q2_s20,3922",detail,루리아,そうやって仲良くなりたいから……<br>オルキスちゃんと友達でいたいから……<br>だから、絶対に諦めません！
-Japanese,"scene_cp39_q2_s20,3922",detail,비이,へへっ、その意気だぜ！<br>なぁ！ [ジータ]！
+Japanese,"scene_cp39_q2_s20,3922",detail,비이,へへっ、その意気だぜ！<br>なぁ！ [플레이어]！
 Japanese,"scene_cp39_q2_s20,3922",detail,흑기사,…………
-Japanese,"scene_cp39_q3_s10,3931",synopsis,,フリーシアを追う道中、ロゼッタがイオに耳打ちする。いつか[ジータ]らが壁にぶつかった時、団の支えとなれるのがイオだけである事、そしてその時にロゼッタは力になれないという事を告げ、何事も無かったかのように足を進めるロゼッタ。イオはロゼッタが心の内に抱いている何かを察し、呆然と彼女の背中を見つめた。
+Japanese,"scene_cp39_q3_s10,3931",synopsis,,フリーシアを追う道中、ロゼッタがイオに耳打ちする。いつか[플레이어]らが壁にぶつかった時、団の支えとなれるのがイオだけである事、そしてその時にロゼッタは力になれないという事を告げ、何事も無かったかのように足を進めるロゼッタ。イオはロゼッタが心の内に抱いている何かを察し、呆然と彼女の背中を見つめた。
 Japanese,"scene_cp39_q3_s10,3931",detail,로제타,ねぇ、イオちゃん……<br>少し、いいかしら？
 Japanese,"scene_cp39_q3_s10,3931",detail,이오,えっ？<br>なに？ どしたの？<br>改まって……
 Japanese,"scene_cp39_q3_s10,3931",detail,로제타,いいから、いいから……<br>ほらほら……<br>もっとこっち来て？
@@ -82,21 +82,21 @@ Japanese,"scene_cp39_q3_s10,3931",detail,이오,っていうか！<br>それだ�
 Japanese,"scene_cp39_q3_s10,3931",detail,로제타,ごめんなさい……<br>もう、アタシには、<br>託していくことしか出来ないの。
 Japanese,"scene_cp39_q3_s10,3931",detail,이오,ロゼッタ……？
 Japanese,"scene_cp39_q3_s10,3931",detail,로제타,さ、行きましょ？<br>あんまり話し込んでたら、<br>みんなからはぐれちゃうわ。
-Japanese,"scene_cp39_q3_s20,3932",synopsis,,森の奥を目指す道で、不意に[ジータ]の側へと身を寄せるロゼッタ。そして[ジータ]へ、彼女は[ジータ]の父親を知っていると明かすのだった。だがそれ以上の事は語らず、代わりに予言めいた事を口にする。これから[ジータ]は幾多の困難に見舞われ苦しむであろう事、しかし、[ジータ]と仲間達にはきっとそれを乗り越える力が備わっている事──そしていたずらっぽい笑顔を残して、彼女は離れていった。
-Japanese,"scene_cp39_q3_s20,3932",detail,,<span class='scene-font-katari'>[ジータ]一行が森を進んでいると、</span><br><span class='scene-font-katari'>不意にロゼッタが、</span><br><span class='scene-font-katari'>[ジータ]に寄り添ってくる。</span>
+Japanese,"scene_cp39_q3_s20,3932",synopsis,,森の奥を目指す道で、不意に[플레이어]の側へと身を寄せるロゼッタ。そして[플레이어]へ、彼女は[플레이어]の父親を知っていると明かすのだった。だがそれ以上の事は語らず、代わりに予言めいた事を口にする。これから[플레이어]は幾多の困難に見舞われ苦しむであろう事、しかし、[플레이어]と仲間達にはきっとそれを乗り越える力が備わっている事──そしていたずらっぽい笑顔を残して、彼女は離れていった。
+Japanese,"scene_cp39_q3_s20,3932",detail,,<span class='scene-font-katari'>[플레이어]一行が森を進んでいると、</span><br><span class='scene-font-katari'>不意にロゼッタが、</span><br><span class='scene-font-katari'>[플레이어]に寄り添ってくる。</span>
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ごめんなさい……<br>あまり多くは話せないんだけど、<br>少し、話を聞いてくれるかしら。
 Japanese,"scene_cp39_q3_s20,3932",sel1_txt,,<span class='scene-font-katari'>喜んで</span>
 Japanese,"scene_cp39_q3_s20,3932",sel2_txt,,<span class='scene-font-katari'>少し離れて</span>
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ふふ……ありがとう。<br>きっといまはまだ、<br>意味が解らないかもしれない……
-Japanese,"scene_cp39_q3_s20,3932",detail,로제타,だけど、[ジータ]に<br>聞いておいてほしいの。
+Japanese,"scene_cp39_q3_s20,3932",detail,로제타,だけど、[플레이어]に<br>聞いておいてほしいの。
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ふふ……ダーメ、離れてあげないわ。<br>だって、こうしていられるのも、<br>もう、あまり長くはないんだもの……
-Japanese,"scene_cp39_q3_s20,3932",detail,로제타,あのね……<br>実はアタシ、[ジータ]の<br>お父さんのことを知ってるの……
+Japanese,"scene_cp39_q3_s20,3932",detail,로제타,あのね……<br>実はアタシ、[플레이어]の<br>お父さんのことを知ってるの……
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ごめんなさいね、いままで黙ってて。<br>だけどアタシには……<br>全てを話すことは出来ないから……
-Japanese,"scene_cp39_q3_s20,3932",detail,로제타,[ジータ]は、<br>お父さんにとっても似てるわ……<br>きっと立派な騎空士になると思う。
-Japanese,"scene_cp39_q3_s20,3932",detail,로제타,きっと[ジータ]なら、<br>空の果てにだってたどり着ける……
+Japanese,"scene_cp39_q3_s20,3932",detail,로제타,[플레이어]は、<br>お父さんにとっても似てるわ……<br>きっと立派な騎空士になると思う。
+Japanese,"scene_cp39_q3_s20,3932",detail,로제타,きっと[플레이어]なら、<br>空の果てにだってたどり着ける……
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,でもね、だからこそ、<br>知っておいてほしいことがあるの。
-Japanese,"scene_cp39_q3_s20,3932",detail,로제타,きっとこの先……<br>[ジータ]は空と星の狭間で、<br>何度も苦しむことになると思う。
-Japanese,"scene_cp39_q3_s20,3932",detail,로제타,だけどね、覚えておいて……<br>どんな苦境も[ジータ]なら、<br>きっと超えることが出来る。
+Japanese,"scene_cp39_q3_s20,3932",detail,로제타,きっとこの先……<br>[플레이어]は空と星の狭間で、<br>何度も苦しむことになると思う。
+Japanese,"scene_cp39_q3_s20,3932",detail,로제타,だけどね、覚えておいて……<br>どんな苦境も[플레이어]なら、<br>きっと超えることが出来る。
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,仲間と一緒に……<br>どんな逆境も、<br>きっと幸せな結末に導くことが出来る。
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,だから、決して諦めないで……<br>諦めなければ、<br>きっと道が拓けるわ……
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ねっ？<br>ロゼッタおねーさんからの<br>オ・ネ・ガ・イ☆
@@ -106,7 +106,7 @@ Japanese,"scene_cp39_q4_s10,3941",detail,ゴーレム,――――！
 Japanese,"scene_cp39_q4_s10,3941",detail,라캄,ちっ……<br>出てくるゴーレムの数が、<br>明らかに増えてきてやがるぜ……
 Japanese,"scene_cp39_q4_s10,3941",detail,카타리나,それだけ、<br>遺跡の中でも重要度の高い場所に<br>近づいているということなのだろう。
 Japanese,"scene_cp39_q4_s10,3941",detail,카타리나,ゴーレム全ての相手をしていたのでは<br>キリがない……<br>早く先へ進むとしよう。
-Japanese,"scene_cp39_q4_s10,3941",detail,,<span class='scene-font-katari'>歩き出す[ジータ]一行の中で、</span><br><span class='scene-font-katari'>ただ一人、</span><br><span class='scene-font-katari'>黒騎士だけが足を止めた。</span>
+Japanese,"scene_cp39_q4_s10,3941",detail,,<span class='scene-font-katari'>歩き出す[플레이어]一行の中で、</span><br><span class='scene-font-katari'>ただ一人、</span><br><span class='scene-font-katari'>黒騎士だけが足を止めた。</span>
 Japanese,"scene_cp39_q4_s10,3941",detail,흑기사,…………
 Japanese,"scene_cp39_q4_s10,3941",detail,비이,どうしたってんだ？<br>まさか疲れちまったってのか？
 Japanese,"scene_cp39_q4_s10,3941",detail,흑기사,いや、違う……
@@ -117,8 +117,8 @@ Japanese,"scene_cp39_q4_s10,3941",detail,흑기사,そうだ……<br>私の目�
 Japanese,"scene_cp39_q4_s10,3941",detail,카타리나,そうか……<br>ついに話してくれる気になったのだな。
 Japanese,"scene_cp39_q4_s10,3941",detail,흑기사,ふん……<br>貴様に言われたからではない。
 Japanese,"scene_cp39_q4_s10,3941",detail,흑기사,この辺りはまだ騒がしいな……<br>ひとまず先に、<br>周囲の雑魚を一掃してしまおうか……！
-Japanese,"scene_cp39_q4_s20,3942",synopsis,,オルキスを元に戻すために黒騎士が取ろうとしている手段は、ルリアの魂をオルキスに与えるというものだった。故郷を守るために手段を選ばぬ黒騎士の決意に戦慄する一行。フリーシアの手からオルキスを取り戻した後、ルリアを賭けて[ジータ]らに戦いを挑むと、黒騎士は昏い眼差しを向けて言い放つのであった。
-Japanese,"scene_cp39_q4_s20,3942",detail,,<span class='scene-font-katari'>とある遺跡の一角で、</span><br><span class='scene-font-katari'>[ジータ]達は、</span><br><span class='scene-font-katari'>黒騎士の話に耳を傾ける。</span>
+Japanese,"scene_cp39_q4_s20,3942",synopsis,,オルキスを元に戻すために黒騎士が取ろうとしている手段は、ルリアの魂をオルキスに与えるというものだった。故郷を守るために手段を選ばぬ黒騎士の決意に戦慄する一行。フリーシアの手からオルキスを取り戻した後、ルリアを賭けて[플레이어]らに戦いを挑むと、黒騎士は昏い眼差しを向けて言い放つのであった。
+Japanese,"scene_cp39_q4_s20,3942",detail,,<span class='scene-font-katari'>とある遺跡の一角で、</span><br><span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>黒騎士の話に耳を傾ける。</span>
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,私の目的が<br>オルキスを元に戻すことであることは<br>以前も話した通りだが……
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,その計画について、<br>私はお前達にまだ話していない……<br>……そうだな？
 Japanese,"scene_cp39_q4_s20,3942",detail,카타리나,ああ……<br>その計画にいまのオルキスちゃんと、<br>ルリアが必要だそうだが……
@@ -126,7 +126,7 @@ Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,そうだ……<br>そして�
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,私の計画は人形とルリア……<br>その両方を<br>犠牲にすることになるかもしれない。
 Japanese,"scene_cp39_q4_s20,3942",detail,루리아,っ！？
 Japanese,"scene_cp39_q4_s20,3942",detail,카타리나,なんだと……？
-Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,お前はよく知っているんじゃないか。<br>[ジータ]……
+Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,お前はよく知っているんじゃないか。<br>[플레이어]……
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,お前は一度、ルリアの能力によって、<br>瀕死の状態から、<br>息を吹き返しているだろう。
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,お前の命を救ったあの能力には、<br>実はもう一つ秘密がある。
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,あの能力の本質は、<br>ルリアの魂を分割して<br>分け与えることであり……
@@ -147,7 +147,7 @@ Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,あの人形を取り戻す�
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,しかし……<br>あの人形が我が手に戻ってきた時点で、<br>私はお前達の敵になる。
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,どれだけ非情と罵られようと、<br>私はオルキスを取り戻す……
 Japanese,"scene_cp39_q4_s20,3942",detail,흑기사,だからこそ……<br>その時には互いに譲れないもののため、<br>改めて相対しようじゃないか。
-Japanese,"scene_cp39_q4_s30,3943",synopsis,,黒騎士に真の目的を告げられてなお、彼女の事を知ろうとするルリア。ルリアは、黒騎士がオルキスを取り戻した後に一行を奇襲する事もできたと疑問を口にする。迷いも露わに、[ジータ]達に対しては誠実でありたいと答える黒騎士。守るべきものが違うゆえに、いずれ剣を交える事となるが、黒騎士もまた[ジータ]らに心惹かれていたのかもしれなかった。
+Japanese,"scene_cp39_q4_s30,3943",synopsis,,黒騎士に真の目的を告げられてなお、彼女の事を知ろうとするルリア。ルリアは、黒騎士がオルキスを取り戻した後に一行を奇襲する事もできたと疑問を口にする。迷いも露わに、[플레이어]達に対しては誠実でありたいと答える黒騎士。守るべきものが違うゆえに、いずれ剣を交える事となるが、黒騎士もまた[플레이어]らに心惹かれていたのかもしれなかった。
 Japanese,"scene_cp39_q4_s30,3943",detail,,<span class='scene-font-katari'>押し寄せるゴーレム達を退け、</span><br><span class='scene-font-katari'>ふと生まれた間隙に、</span><br><span class='scene-font-katari'>ルリアは小さく口を開く。</span>
 Japanese,"scene_cp39_q4_s30,3943",detail,루리아,ねぇ、黒騎士さん……
 Japanese,"scene_cp39_q4_s30,3943",detail,흑기사,これは驚きだな……<br>もはや私のことなど軽蔑して、<br>口をきくのも嫌かと思ったが……
@@ -159,9 +159,9 @@ Japanese,"scene_cp39_q4_s30,3943",detail,흑기사,だが……<br>私には確�
 Japanese,"scene_cp39_q4_s30,3943",detail,흑기사,それでもお前達に対しては、<br>誠実でいたい、と……
 Japanese,"scene_cp39_q4_s30,3943",detail,흑기사,相対することになるとしても、<br>正々堂々、正面から決別したい、と、<br>そう思ったんだ。
 Japanese,"scene_cp39_q4_s30,3943",detail,,<span class='scene-font-katari'>昏い野望を秘めた瞳を伏せながら、</span><br><span class='scene-font-katari'>黒騎士はぽつりとそう漏らす。</span>
-Japanese,"scene_cp39_q4_s30,3943",detail,,<span class='scene-font-katari'>この時、[ジータ]一行はまだ、</span><br><span class='scene-font-katari'>黒騎士が迎える結末を、</span><br><span class='scene-font-katari'>知る由もないのだった。</span>
+Japanese,"scene_cp39_q4_s30,3943",detail,,<span class='scene-font-katari'>この時、[플레이어]一行はまだ、</span><br><span class='scene-font-katari'>黒騎士が迎える結末を、</span><br><span class='scene-font-katari'>知る由もないのだった。</span>
 English,"scene_cp39_q1_s10,3911",synopsis,,"Lyria says she senses a power deep in the forest. Suspecting that it might be Freesia, the crew decides to check it out."
-English,"scene_cp39_q1_s10,3911",detail,,"After defeating two primal beasts, [Djeeta] and the crew attempt to corner Freesia."
+English,"scene_cp39_q1_s10,3911",detail,,"After defeating two primal beasts, [플레이어] and the crew attempt to corner Freesia."
 English,"scene_cp39_q1_s10,3911",detail,,"But they are hindered by scores of soldiers, and as a result, the prime minister is able to give them the slip."
 English,"scene_cp39_q1_s10,3911",detail,Black Knight,Damn it. I suppose even the weakest soldiers are at least good for forming a wall.
 English,"scene_cp39_q1_s10,3911",detail,Rosetta,"Judging from the number of them she brought here, I imagine this was her plan all along."
@@ -219,7 +219,7 @@ English,"scene_cp39_q2_s20,3922",detail,Black Knight,You and the doll?
 English,"scene_cp39_q2_s20,3922",detail,Lyria,Yes! I swear I'll save her! So we can talk with each other once again...
 English,"scene_cp39_q2_s20,3922",detail,Lyria,"It doesn't have be to anything special. We'll laugh together, eat together..."
 English,"scene_cp39_q2_s20,3922",detail,Lyria,I just want to get to know her. I want to be her friend. That's why I won't give up!
-English,"scene_cp39_q2_s20,3922",detail,Vyrn,"Hehe! That's the spirit! Right, [Djeeta]?"
+English,"scene_cp39_q2_s20,3922",detail,Vyrn,"Hehe! That's the spirit! Right, [플레이어]?"
 English,"scene_cp39_q2_s20,3922",detail,Black Knight,...
 English,"scene_cp39_q3_s10,3931",synopsis,,Rosetta tells Io that one day she will need to support the crew in their time of need.
 English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Hey, Io... Do you have a moment?"
@@ -243,21 +243,21 @@ English,"scene_cp39_q3_s10,3931",detail,Io,"Wait a sec! If you know so much, the
 English,"scene_cp39_q3_s10,3931",detail,Rosetta,Sorry... All I am capable of doing is entrusting you with this task.
 English,"scene_cp39_q3_s10,3931",detail,Io,Rosetta?
 English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Well then, shall we be off? I'd love to stand around and chat some more, but at this rate, the others will leave us behind."
-English,"scene_cp39_q3_s20,3932",synopsis,,"While heading deeper into the forest, Rosetta reveals that she knows [Djeeta]'s father."
-English,"scene_cp39_q3_s20,3932",detail,,The crew is marching through the forest when Rosetta draws close to [Djeeta].
+English,"scene_cp39_q3_s20,3932",synopsis,,"While heading deeper into the forest, Rosetta reveals that she knows [플레이어]'s father."
+English,"scene_cp39_q3_s20,3932",detail,,The crew is marching through the forest when Rosetta draws close to [플레이어].
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,"Excuse me. I can't really say as much as I'd like, but would you listen to me for a bit?"
 English,"scene_cp39_q3_s20,3932",sel1_txt,,Sure thing.
 English,"scene_cp39_q3_s20,3932",sel2_txt,,You’re really close.
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,Thank you. I imagine this might come off as confusing.
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,But there's something I want to tell you.
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,"No, no... You're not getting away from me. After all, we won't be able to be this close for very much longer."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"You see... The truth is I know your father, [Djeeta]."
+English,"scene_cp39_q3_s20,3932",detail,Rosetta,"You see... The truth is I know your father, [플레이어]."
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,I'm sorry I kept it from you all this time—I'm not able to tell you everything.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"You're a lot like your father, [Djeeta]. I'm sure you'll make a wonderful skyfarer."
+English,"scene_cp39_q3_s20,3932",detail,Rosetta,"You're a lot like your father, [플레이어]. I'm sure you'll make a wonderful skyfarer."
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,There's no doubt in my mind that you'll reach the end of the sky.
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,And that's why I need you to know something.
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,"The longer our journey goes, the more you will find yourself struggling again and again, caught between the sky and Astral realms."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"But remember this: no matter your predicament, you can overcome it, [Djeeta]."
+English,"scene_cp39_q3_s20,3932",detail,Rosetta,"But remember this: no matter your predicament, you can overcome it, [플레이어]."
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,"Together with your friends, no matter the adversity—I'm sure you can find a happy ending."
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,"So never give up. As long as you continue on, a path will always reveal itself."
 English,"scene_cp39_q3_s20,3932",detail,Rosetta,Promise your good friend Rosetta you won't give up?
@@ -267,7 +267,7 @@ English,"scene_cp39_q4_s10,3941",detail,Golem,...!
 English,"scene_cp39_q4_s10,3941",detail,Rackam,Tch. More and more golems keep poppin' up outta the woodwork.
 English,"scene_cp39_q4_s10,3941",detail,Katalina,That just means we're getting close to a really important place within these ruins.
 English,"scene_cp39_q4_s10,3941",detail,Katalina,"But if we try to fight each and every golem, we'll be here forever. Let's move on."
-English,"scene_cp39_q4_s10,3941",detail,,"[Djeeta] and the crew begin walking, but they notice the Black Knight doesn't budge."
+English,"scene_cp39_q4_s10,3941",detail,,"[플레이어] and the crew begin walking, but they notice the Black Knight doesn't budge."
 English,"scene_cp39_q4_s10,3941",detail,Black Knight,...
 English,"scene_cp39_q4_s10,3941",detail,Vyrn,What's the matter? Don't tell me you're tired!
 English,"scene_cp39_q4_s10,3941",detail,Black Knight,Not a bit.
@@ -287,7 +287,7 @@ English,"scene_cp39_q4_s20,3942",detail,Black Knight,They are. So I'll get right
 English,"scene_cp39_q4_s20,3942",detail,Black Knight,"For the plan to be successful, both Lyria and that doll might potentially need to be sacrificed."
 English,"scene_cp39_q4_s20,3942",detail,Lyria,...!
 English,"scene_cp39_q4_s20,3942",detail,Katalina,Come again?
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"[Djeeta], you should be familiar with Lyria's power."
+English,"scene_cp39_q4_s20,3942",detail,Black Knight,"[플레이어], you should be familiar with Lyria's power."
 English,"scene_cp39_q4_s20,3942",detail,Black Knight,She once used her ability to bring you back from the brink of death. Isn't that right?
 English,"scene_cp39_q4_s20,3942",detail,Black Knight,Behind that very ability lies another secret: it's true nature.
 English,"scene_cp39_q4_s20,3942",detail,Black Knight,"You see, it allows Lyria to unconsciously transfer a piece of her soul into a recipient."
@@ -320,4 +320,4 @@ English,"scene_cp39_q4_s30,3943",detail,Black Knight,It's true... This mission i
 English,"scene_cp39_q4_s30,3943",detail,Black Knight,However I felt it best to be honest with all of you.
 English,"scene_cp39_q4_s30,3943",detail,Black Knight,"I thought to myself, even if we must fight, I wish to do so fairly and under no pretense. And when we part, it will be clean."
 English,"scene_cp39_q4_s30,3943",detail,,"Although the Black Knight's eyes are filled with bitter ambition, her gaze settles on the floor."
-English,"scene_cp39_q4_s30,3943",detail,,"[Djeeta] and the crew watch her, unaware of what fate she truly wished for."
+English,"scene_cp39_q4_s30,3943",detail,,"[플레이어] and the crew watch her, unaware of what fate she truly wished for."

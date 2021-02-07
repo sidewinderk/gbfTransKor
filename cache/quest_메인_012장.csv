@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp12_q1_s10,1211",synopsis,,<span class='scene-font-place'>アウギュステ大瀑布</span>へと急ぐ<span>[ジータ]</span>一行。その道中、ルリアの力に不安を持ったオイゲンは、自らの内に秘めたリヴァイアサンへの恩を語る。,"<span class = 'scene-font-place'> 아우규스테 대 폭포 </ span>로 돌진 <span> 지타] </ span> 일행. 그 도중, 루리아의 힘에 불안을 가진 오이겐은 스스로의 안에 숨긴 레바의 은혜를 말한다."
+Japanese,"scene_cp12_q1_s10,1211",synopsis,,<span class='scene-font-place'>アウギュステ大瀑布</span>へと急ぐ<span>[플레이어]</span>一行。その道中、ルリアの力に不安を持ったオイゲンは、自らの内に秘めたリヴァイアサンへの恩を語る。,"<span class = 'scene-font-place'> 아우규스테 대 폭포 </ span>로 돌진 <span> 지타] </ span> 일행. 그 도중, 루리아의 힘에 불안을 가진 오이겐은 스스로의 안에 숨긴 레바의 은혜를 말한다."
 Japanese,"scene_cp12_q1_s10,1211",detail,,<span class='scene-font-katari'>星晶獣リヴァイアサンを止めるため</span><br><span class='scene-font-katari'>一同は、</span><span class='scene-font-place'>アウギュステ大瀑布</span><span class='scene-font-katari'>を目指す。</span>,<span class = 'scene-font-katari'> 성정수 리바이어선을 막기 위해 </ span> <br> <span class = 'scene-font-katari'> 일동은 </ span> <span class = ' scene-font-place '> 아우규스테 대 폭포 </ span> <span class ='scene-font-katari '>을 목표로한다. </ span>
-Japanese,"scene_cp12_q1_s10,1211",detail,오이겐,――なぁ、[ジータ]よぉ。<br>その、なんだ……,"-- 야, [지타]요.<br>그, 뭐야……"
+Japanese,"scene_cp12_q1_s10,1211",detail,오이겐,――なぁ、[플레이어]よぉ。<br>その、なんだ……,"-- 야, [플레이어]요.<br>그, 뭐야……"
 Japanese,"scene_cp12_q1_s10,1211",detail,오이겐,嬢ちゃんの力ってのは、<br>本当に信用していいんだろうな？,아가씨의 힘은 <br> 정말로 신용해도 되는걸까?
 Japanese,"scene_cp12_q1_s10,1211",detail,비이,お？ なんだよオイゲン。<br>不安そうな顔しやがって。,어? 뭐야 오이겐?<br>불안한 표정 짓냐?
 Japanese,"scene_cp12_q1_s10,1211",detail,비이,心配すんなって！<br>いままでだって、<br>上手くやってきたんだからよ！,"걱정하지마!<br>지금도,<br>잘해왔으니까!"
@@ -20,8 +20,8 @@ Japanese,"scene_cp12_q1_s20,1212",detail,오이겐,ああ、言っちまえば�
 Japanese,"scene_cp12_q1_s20,1212",detail,오이겐,だが、その力に<br>確かに命を救われたんだ……<br>……オレの娘がな。,"하지만, 그 힘에<br>확실히 목숨을 건졌다……<br>……내 딸이 말이지."
 Japanese,"scene_cp12_q1_s20,1212",detail,라캄,<span class='scene-font-4'>む……娘だぁ！？</span><br>おっさん子供いたのかよ！？,< span   class = ' scene - font - 4 ' > む ……딸이야!?</span><br>아저씨 아이있었어?
 Japanese,"scene_cp12_q1_s20,1212",detail,이오,ちょ、ちょっと！<br>話し込んでる場合じゃないんだけど！<br>ちゃんと魔物と戦ってよ！,"자, 잠깐! <br> 이야기 할 때가 아닌데! <br> 제대로 마물과 싸워줘!"
-Japanese,"scene_cp12_q1_s20,1212",detail,이오,ほら、[ジータ]も！<br>ぼんやりしててやられても、<br>あたし、知らないからね！,"봐. [지타]도!<br>멍하니 당해도,<br>나 모르니까!"
-Japanese,"scene_cp12_q2_s10,1221",synopsis,,<span class='scene-font-place'>アウギュステ</span>の住人を代表して、リヴァイアサンに受けた恩を返すため、なんとしてもリヴァイアサンを助けてやりたいと語るオイゲンに、<span>[ジータ]</span>一行は戦いに臨む決意を新たにする。,<span class='scene-font-place>>아우귀스테</span>의 주민들을 대표해 리버이아 산에게 어떻게 해서든 리바이어선을 도와주고 싶다는 오이겐에게 <span>[지타]</span>일행은 싸움에 임하는 결의를 다진다.
+Japanese,"scene_cp12_q1_s20,1212",detail,이오,ほら、[플레이어]も！<br>ぼんやりしててやられても、<br>あたし、知らないからね！,"봐. [플레이어]도!<br>멍하니 당해도,<br>나 모르니까!"
+Japanese,"scene_cp12_q2_s10,1221",synopsis,,<span class='scene-font-place'>アウギュステ</span>の住人を代表して、リヴァイアサンに受けた恩を返すため、なんとしてもリヴァイアサンを助けてやりたいと語るオイゲンに、<span>[플레이어]</span>一行は戦いに臨む決意を新たにする。,<span class='scene-font-place>>아우귀스테</span>의 주민들을 대표해 리버이아 산에게 어떻게 해서든 리바이어선을 도와주고 싶다는 오이겐에게 <span>[플레이어]</span>일행은 싸움에 임하는 결의를 다진다.
 Japanese,"scene_cp12_q2_s10,1221",detail,오이겐,んだよ、<br>オレに娘がいちゃ悪いってのか？,"응,<br>나에게 딸이 있으면 나쁘다는 거야?"
 Japanese,"scene_cp12_q2_s10,1221",detail,라캄,い、いや……<br>そうは言わねぇけど……<br>そうは言わねぇけどよ……,"이, 아니……<br>그렇게는 말하지 않지만……<br>그렇게는 말하지 않지만 말야……"
 Japanese,"scene_cp12_q2_s10,1221",detail,카타리나,娘の命を救われた、か……<br>それほどまでのものだったのだな、<br>リヴァイアサンの力というものは。,"딸의 생명을 구할 수 있었다, 라……<br>그 정도까지의 것이었구나,<br>리바이어선의 힘이라는 것은."
@@ -29,7 +29,7 @@ Japanese,"scene_cp12_q2_s10,1221",detail,오이겐,ああ、<span class='scene-f
 Japanese,"scene_cp12_q2_s10,1221",detail,오이겐,だからオレは……リヴァイアサンを、<br><span class='scene-font-place'>アウギュステ</span>にとっての<br>災いにしたくねぇ……,그래서 난……리바이어선을 <br><spanclass='scene-font-place>>아우귀스테</span>에 있어서의 <br>재난으로 만들고 싶지 않아……
 Japanese,"scene_cp12_q2_s10,1221",detail,오이겐,オレ達を見守り続けてくれた海は、<br>最後までオレ達にとって、<br>幸いでいさせてやりてぇんだ。,우리들을 계속 지켜봐준 바다는 <br> 마지막까지 우리들에게 <br>다행으로 남아있게 해주고 싶어.
 Japanese,"scene_cp12_q2_s10,1221",detail,오이겐,エゴかもしんねぇさ……だがな、<br>これが<span class='scene-font-place'>アウギュステ</span>の住人にできる<br>唯一の恩返しだと、オレぁ思うんだ。,"이기일지도 몰라……하지만,<br>이 <span class='scene-font-place>>아우귀스테</span>의 주민이 할 수 있는<br>유일한 보답이라고, 내가 생각해."
-Japanese,"scene_cp12_q2_s20,1222",synopsis,,ルリアの耳に届くリヴァイアサンの声は、いまだ苦しみから解放されてはいない。この状況全てを先読みしていた黒騎士に恐怖を覚えつつ、<span>[ジータ]</span>一行は道を急ぐ。,루리아의 귀에 들리는 그의 목소리는 아직도 고통에서 벗어나지 못했다.이 상황을 모두 예측하고 있던 흑기사에게 겁을 집어먹으며 <span> [지타] </span> 일행은 길을 재촉한다.
+Japanese,"scene_cp12_q2_s20,1222",synopsis,,ルリアの耳に届くリヴァイアサンの声は、いまだ苦しみから解放されてはいない。この状況全てを先読みしていた黒騎士に恐怖を覚えつつ、<span>[플레이어]</span>一行は道を急ぐ。,루리아의 귀에 들리는 그의 목소리는 아직도 고통에서 벗어나지 못했다.이 상황을 모두 예측하고 있던 흑기사에게 겁을 집어먹으며 <span> [플레이어] </span> 일행은 길을 재촉한다.
 Japanese,"scene_cp12_q2_s20,1222",detail,루리아,リヴァイアサンの声が聴こえる……<br>まだ……まだ全然足りないみたい……,리바이어선의 목소리가 들려……<br>아직……아직……아직은……조금 부족한 것 같아……
 Japanese,"scene_cp12_q2_s20,1222",detail,카타리나,海と同化していたせいで、<br>帝国が海を腐らせたダメージを<br>モロに受けたのだろうな……,"바다와 동화된 탓에,<br>제국이 바다를 썩힌 데미지를<br>모로에게 받은 것이겠지……"
 Japanese,"scene_cp12_q2_s20,1222",detail,루리아,すごく、苦しんでる……<br>早く、早くなんとかしてあげなきゃ！,"굉장히, 괴로워하고 있어……<br>빨리, 빨리 어떻게든 해줘야해!"
@@ -37,9 +37,9 @@ Japanese,"scene_cp12_q2_s20,1222",detail,라캄,しかし、帝国もひでぇ�
 Japanese,"scene_cp12_q2_s20,1222",detail,이오,でも、あのいけすかない将軍は<br>艇が飲まれたって聞いて、<br>慌ててなかった？,그치만 저 비겁한 장군은<br>정을 집어삼켰다는 소식을 듣고 <br>당황하지 않았어?
 Japanese,"scene_cp12_q2_s20,1222",detail,오이겐,そうさな……つまり<br>全てはあの黒騎士の思惑ってわけだ。,그렇게 되지……즉<br>모든 것은 저 흑기사의 의도라는 것이다.
 Japanese,"scene_cp12_q2_s20,1222",detail,오이겐,アイツの思惑だけは……<br>絶対に止めなきゃ……<br>止めてやらなきゃならねぇ。,그녀석의 기대만은……<br>절대로 그만두지 않으면 안돼.
-Japanese,"scene_cp12_q2_s20,1222",detail,비이,[ジータ]……<br>並の敵ならオイラ達の敵じゃねぇが<br>アイツだけは気をつけたほうがいい。,[지타]……<br>보통 적이라면 오라들의 적이 아니지만<br>그녀석만큼은 조심하는 편이 좋아.
+Japanese,"scene_cp12_q2_s20,1222",detail,비이,[플레이어]……<br>並の敵ならオイラ達の敵じゃねぇが<br>アイツだけは気をつけたほうがいい。,[플레이어]……<br>보통 적이라면 오라들의 적이 아니지만<br>그녀석만큼은 조심하는 편이 좋아.
 Japanese,"scene_cp12_q2_s20,1222",detail,비이,なんとなくだけど、<br>そんな気がするんだ。,"왠지 모르지만,<br>그런 기분이 들어."
-Japanese,"scene_cp12_q3_s10,1231",synopsis,,<span>[ジータ]</span>が辿り着いた<span class='scene-font-place'>アウギュステ大瀑布</span>は、リヴァイアサンの暴走によって凄まじいまでの瘴気に包まれていた。いつ魔物に囲まれるともわからない瘴気の中を、一行は用心しながら進む。,<span>[지타]</span>가 도착한 <spanclass='scene-font-place>>아우귀스테 대폭포</span>는 리바이어선의 폭주로 인해 엄청난 장기에 휩싸여 있었다.언제 마물에 둘러싸일지 모르는 장기 속을 일행은 조심조심 나아간다.
+Japanese,"scene_cp12_q3_s10,1231",synopsis,,<span>[플레이어]</span>が辿り着いた<span class='scene-font-place'>アウギュステ大瀑布</span>は、リヴァイアサンの暴走によって凄まじいまでの瘴気に包まれていた。いつ魔物に囲まれるともわからない瘴気の中を、一行は用心しながら進む。,<span>[플레이어]</span>가 도착한 <spanclass='scene-font-place>>아우귀스테 대폭포</span>는 리바이어선의 폭주로 인해 엄청난 장기에 휩싸여 있었다.언제 마물에 둘러싸일지 모르는 장기 속을 일행은 조심조심 나아간다.
 Japanese,"scene_cp12_q3_s10,1231",detail,,<span class='scene-font-katari'>一同はついに</span><br><span class='scene-font-place'>アウギュステ大瀑布</span><span class='scene-font-katari'>に到着し</span><br><span class='scene-font-katari'>その圧倒的な瘴気に飲まれていた。</span>,<span class = 'scene-font-katari'> 일동은 마침내 </ span> <br> <span class = 'scene-font-place'> 아우규스테 대 폭포 </ span> <span class = 'scene-font- katari '> 도착 </ span> <br> <span class ='scene-font-katari '> 압도적 인 장독 마셔 있었다. </ span>
 Japanese,"scene_cp12_q3_s10,1231",detail,라캄,くっ……<br>これもリヴァイアサンが、<br>暴走してる影響だってのか……？,"응……<br>이것도 리바이어선이,<br>폭주하고 있는 영향이란걸까……?"
 Japanese,"scene_cp12_q3_s10,1231",detail,루리아,わ、わからないです……<br>けど、リヴァイアサンは、<br>この瘴気の奥にいます……！,"와, 알 수 없습니다....<br>하지만 리바이어선은 <br> 이 장기 속에 있습니다....!"
@@ -57,20 +57,20 @@ Japanese,"scene_cp12_q3_s20,1232",detail,이오,ふん……<br>どんな星晶�
 Japanese,"scene_cp12_q3_s20,1232",detail,루리아,どれだけ大きな子でも、<br>本当は私達と何も変わらないんです。,아무리큰애라도<br>사실저희랑다름이없어요.
 Japanese,"scene_cp12_q3_s20,1232",detail,오이겐,臆病者だろうと何だろうと、<br>そいつが<span class='scene-font-place'>アウギュステ</span>を、<br>支え、育ててくれたんだ……,겁쟁이건 뭐건 <br> 그 녀석이 <span class='scene-font-place>> 아우귀스테</span>를 <br> 버팀목이 되고 키워줬어……
 Japanese,"scene_cp12_q3_s20,1232",detail,오이겐,見せてやるよ……<br>おめぇの育てた<span class='scene-font-place'>アウギュステ</span>の住人は、<br>少しは骨のある奴だってところをな！,"보여줄께……<br>니가 키운<spanclass='scene-font-place>>아우귀스테</span>의 거주자는,<br>조금은 뼈가 있는 녀석이라고 해야하는데 말야!"
-Japanese,"scene_cp12_q4_s10,1241",synopsis,,現れる魔物は強力なものばかりになり、<span>[ジータ]</span>一行は、いよいよ瘴気の中心へと接近する。いつもの調子の仲間達を引き連れ、<span>[ジータ]</span>はリヴァイアサンの元へと向かう。,"나타나는 마물은 점점 강력해지고, <span>[지타]</span>일행은 드디어 장기들의 중심으로 접근한다.평소의 상태의 동료들을 데리고 <span>[지타]</span>는 리버이어 산의 곁으로 향한다."
+Japanese,"scene_cp12_q4_s10,1241",synopsis,,現れる魔物は強力なものばかりになり、<span>[플레이어]</span>一行は、いよいよ瘴気の中心へと接近する。いつもの調子の仲間達を引き連れ、<span>[플레이어]</span>はリヴァイアサンの元へと向かう。,"나타나는 마물은 점점 강력해지고, <span>[플레이어]</span>일행은 드디어 장기들의 중심으로 접근한다.평소의 상태의 동료들을 데리고 <span>[플레이어]</span>는 리버이어 산의 곁으로 향한다."
 Japanese,"scene_cp12_q4_s10,1241",detail,오이겐,雑魚は少なくなってきたな……<br>いよいよリヴァイアサンに<br>近づいてるのか？,송사리는 적어졌구나…<br>드디어 리버이어산에<br>가까워지는걸까?
 Japanese,"scene_cp12_q4_s10,1241",detail,루리아,近いです……<br>もうすぐそばにいる……,가까워요....<br>곧 옆에 있어....
 Japanese,"scene_cp12_q4_s10,1241",detail,이오,そろそろなわけね……<br>うう、なんだかちょっと<br>緊張してきた……,"슬슬(슬슬)이구나……<br>으, 왠지 조금<br>긴장된다……"
 Japanese,"scene_cp12_q4_s10,1241",detail,라캄,イオは落ち着きがねぇからな。<br>それくらいで<br>ちょうどいいんじゃねぇか？,이오는 침착함이 없어서 말야.그정도로<br>딱 적당하지 않나요?
 Japanese,"scene_cp12_q4_s10,1241",detail,이오,余計なお世話ですー！,쓸데없는 참견이에요!
 Japanese,"scene_cp12_q4_s10,1241",detail,비이,緊張感のなさは<br>相変わらずだなぁ、ここは……,"긴장감이 없음은 <br> 여전하군, 여기는……"
-Japanese,"scene_cp12_q4_s10,1241",detail,카타리나,ふふ……<br>さぁ、[ジータ]も<br>準備はいいな？,"후후……<br>자, [지타]도<br> 준비는 됐지?"
+Japanese,"scene_cp12_q4_s10,1241",detail,카타리나,ふふ……<br>さぁ、[플레이어]も<br>準備はいいな？,"후후……<br>자, [플레이어]도<br> 준비는 됐지?"
 Japanese,"scene_cp12_q4_s10,1241",sel1_txt,,<span class='scene-font-katari'>もちろん</span>,<span class = 'scene-font-katari'> 물론 </ span>
 Japanese,"scene_cp12_q4_s10,1241",sel2_txt,,<span class='scene-font-katari'>緊張する……</span>,<span class = 'scene-font-katari'> 긴장 되네 ... </ span>
 Japanese,"scene_cp12_q4_s10,1241",detail,비이,流石だぜ！<br>オイラ達のリーダーは<br>こうでなくっちゃな！,역시!<br>오이라들의 리더는<br>이렇게 되어야 해!
 Japanese,"scene_cp12_q4_s10,1241",detail,라캄,おいおい、大丈夫か？<br>心配すんな、<br>俺達がついてんだからよ！,"야, 괜찮아?<br>걱정하지마,<br>우리가 붙어있으니까!"
 Japanese,"scene_cp12_q4_s10,1241",detail,카타리나,さぁ、行くぞ……<br>海となり<span class='scene-font-place'>アウギュステ</span>を見守ってきた、<br>大星晶獣のもとへ……！,"자, 간다……<br>바다가 되어<span class='scene-font-place>>아우귀스테</span>를 지켜보았다<br>대성정수의 곁으로……!"
-Japanese,"scene_cp12_q4_s20,1242",synopsis,,瘴気の中心、ついに暴走するリヴァイアサンと相対する<span>[ジータ]</span>一行。リヴァイアサンを<span class='scene-font-place'>アウギュステ</span>にとって望まれた存在であり続けさせるため、一行は最後の戦いに臨む。,"장기의 중심, 마침내 폭주하는 리바이어선과 마주보는 <span>[지타]</span>일행.리바이어선을 <span class='scene-font-place>> 아우귀스테 </span> 으로 하여금 그토록 원했던 존재로 계속되도록 하기 위해 그들은 마지막 전투를 치른다."
+Japanese,"scene_cp12_q4_s20,1242",synopsis,,瘴気の中心、ついに暴走するリヴァイアサンと相対する<span>[플레이어]</span>一行。リヴァイアサンを<span class='scene-font-place'>アウギュステ</span>にとって望まれた存在であり続けさせるため、一行は最後の戦いに臨む。,"장기의 중심, 마침내 폭주하는 리바이어선과 마주보는 <span>[플레이어]</span>일행.리바이어선을 <span class='scene-font-place>> 아우귀스테 </span> 으로 하여금 그토록 원했던 존재로 계속되도록 하기 위해 그들은 마지막 전투를 치른다."
 Japanese,"scene_cp12_q4_s20,1242",detail,リヴァイアサン,<span class='scene-font-4'>ガアアァァッ！</span>,<span class='scene-font-4'>가아아아앗！</span>
 Japanese,"scene_cp12_q4_s20,1242",detail,오이겐,こ、こいつが<br>リヴァイアサン……<br><span class='scene-font-place'>アウギュステ</span>の守り神……,이놈이<br>리바이어선……<br><spanclass='scene-font-place>아우귀스테</span>의 지킴이……
 Japanese,"scene_cp12_q4_s20,1242",detail,リヴァイアサン,<span class='scene-font-4'>グ、ガ……ガアアァァッ！</span>,<span class='scene-font-4'>크、캬아아아아앗！</span>
@@ -79,13 +79,13 @@ Japanese,"scene_cp12_q4_s20,1242",detail,루리아,ごめんね……<br><span c
 Japanese,"scene_cp12_q4_s20,1242",detail,라캄,んじゃ、こっからはちょいと<br>荒療治になるのか？,"그럼, 내 쪽에서는 좀<br>황량한 치료(치료)가 되는건가?"
 Japanese,"scene_cp12_q4_s20,1242",detail,이오,お薬は苦いものだわ……<br>でも、必ず辛いのを治してあげる！<br>ねっ！？ ルリア！,약은 쓴거야...<br>그래도 반드시 매운걸 낫게해줄거야!<br>네?! 루리아!
 Japanese,"scene_cp12_q4_s20,1242",detail,루리아,うん……！<br>あと、少しだけ我慢してね……<br>絶対、助けるから！,"응……！<br>그리고, 조금만 참아……<br>꼭 도와줄게!"
-Japanese,"scene_cp12_q4_s20,1242",detail,오이겐,[ジータ]……どうかこいつを……<br><span class='scene-font-place'>アウギュステ</span>を支え続けたこいつを……,[지타]……제발 이 녀석을……<br><spanclass='scene-font-place>>아우귀스테</span>을 계속 지탱해 온 이 녀석을……
+Japanese,"scene_cp12_q4_s20,1242",detail,오이겐,[플레이어]……どうかこいつを……<br><span class='scene-font-place'>アウギュステ</span>を支え続けたこいつを……,[플레이어]……제발 이 녀석을……<br><spanclass='scene-font-place>>아우귀스테</span>을 계속 지탱해 온 이 녀석을……
 Japanese,"scene_cp12_q4_s20,1242",detail,오이겐,リヴァイアサンを救ってやってくれ！<br><span class='scene-font-place'>アウギュステ</span>の住人を代表して頼む……,리바이어선을 구해줘!<br><spanclass='scene-font-place>>아우귀스테</span>의 주민을 대표해 부탁해……
 Japanese,"scene_cp12_q4_s20,1242",detail,오이겐,こいつが傷つくのも、<br>こいつが育てた<span class='scene-font-place'>アウギュステ</span>が、<br>なくなっちまうのも……,"얘가 상처받는 것도, <br> 얘가 키운 <span class='scene-font-place>> 아우귀스테</span>가, <br> 없어져버리는 것도......"
 Japanese,"scene_cp12_q4_s20,1242",detail,오이겐,んなことは誰も望んでねぇはずなんだ！<br>リヴァイアサンを、<br>望まれた存在でいさせてやってくれ！,그런 건 아무도 원하지 않을 거야!<br> 리바이어선을 <br> 원하는 존재로 있게 해줘!
-Japanese,"scene_cp12_q4_s20,1242",detail,비이,もちろんだぜ！<br>な！ [ジータ]！,물론이지! <br> 나! [지타]!
+Japanese,"scene_cp12_q4_s20,1242",detail,비이,もちろんだぜ！<br>な！ [플레이어]！,물론이지! <br> 나! [플레이어]!
 Japanese,"scene_cp12_q4_s20,1242",detail,비이,さぁ、これで最後だ！<br>オイラ達の力を見せてやれ！,"자, 이게 마지막이야! <br> 오라들의 힘을 보여줘라!"
-Japanese,"scene_cp12_q4_s30,1243",synopsis,,リヴァイアサンを倒す<span>[ジータ]</span>一行だが、そこへ謎の少女が現れ、ルリアと同様にリヴァイアサンの力を吸収する。その少女の正体を黒騎士は語らず、答えを求めるのならば<span class='scene-font-place'>ルーマシー群島</span>へと来るよう告げた。,리바이어선을 쓰러뜨리는 <span>[지타]</span> 일행인데 거기에 수수께끼의 소녀가 나타나 루리아와 마찬가지로 리바이어선의 힘을 흡수한다.그 소녀의 정체를 흑기사는 말하지 않고 답을 구하려면 <span class='scene-font-place>> 루마시 군도 </span>로 오라고 했다.
+Japanese,"scene_cp12_q4_s30,1243",synopsis,,リヴァイアサンを倒す<span>[플레이어]</span>一行だが、そこへ謎の少女が現れ、ルリアと同様にリヴァイアサンの力を吸収する。その少女の正体を黒騎士は語らず、答えを求めるのならば<span class='scene-font-place'>ルーマシー群島</span>へと来るよう告げた。,리바이어선을 쓰러뜨리는 <span>[플레이어]</span> 일행인데 거기에 수수께끼의 소녀가 나타나 루리아와 마찬가지로 리바이어선의 힘을 흡수한다.그 소녀의 정체를 흑기사는 말하지 않고 답을 구하려면 <span class='scene-font-place>> 루마시 군도 </span>로 오라고 했다.
 Japanese,"scene_cp12_q4_s30,1243",detail,リヴァイアサン,────,────
 Japanese,"scene_cp12_q4_s30,1243",detail,루리아,――ごめん、痛かったよね？<br>でも、もう大丈夫だよ,"--미안, 아팠지?<br>그래도 이젠 괜찮아"
 Japanese,"scene_cp12_q4_s30,1243",detail,루리아,おいで、リヴァイアサン……,"이리 와, 리바이어선……"
@@ -109,15 +109,15 @@ Japanese,"scene_cp12_q4_s30,1243",detail,흑기사,まぁ、そこで答えを�
 Japanese,"scene_cp12_q4_s30,1243",detail,？？？,……またね。,……또 봐요.
 Japanese,"scene_cp12_q4_s30,1243",detail,,<span class='scene-font-katari'>黒の騎士も、</span><br><span class='scene-font-katari'>騎士に付き従う少女も</span><br><span class='scene-font-katari'>多くを語ることはなく姿を消した。</span>,<span class = 'scene-font-katari'> 검은 기사도 </ span> <br> <span class = 'scene-font-katari'> 기사에 고착 소녀도 </ span> <br> <span class = 'scene-font-katari'> 많은 말을하지 않으며 사라졌다. </ span>
 Japanese,"scene_cp12_q4_s30,1243",detail,카타리나,<span class='scene-font-place'>ルーマシー群島</span>、か……,<span class = 'scene-font-place'> 루마시 군도 </ span> 하나 ......
-Japanese,"scene_cp12_q4_s30,1243",detail,비이,幸い、空図は<br>横取りされなかったみてぇだけど……<br>どうする？ [ジータ]？,"다행히, 공도는<br>빼입되지 않은 것 같은데……<br>어떻게 할까? [지타]?"
+Japanese,"scene_cp12_q4_s30,1243",detail,비이,幸い、空図は<br>横取りされなかったみてぇだけど……<br>どうする？ [플레이어]？,"다행히, 공도는<br>빼입되지 않은 것 같은데……<br>어떻게 할까? [플레이어]?"
 Japanese,"scene_cp12_q4_s30,1243",detail,오이겐,行くしかねぇだろう……<br>嬢ちゃんの真実を知る、<br>数少ない手がかりなんだからな。,갈 수 밖에 없겠지……<br>아가씨의 진실을 알 수 있는<br>몇 안되는 단서니까.
 Japanese,"scene_cp12_q4_s30,1243",detail,루리아,うん……<br>私は知りたい……知りたいよ。,음....<br>나는 알고싶다.....알고싶어
 Japanese,"scene_cp12_q4_s30,1243",detail,루리아,自分が何者なのか……<br>そして、黒騎士さんと<br>一緒に居た子は誰なのか……,내가 누구인지……<br>그리고 흑기사님과 <br>같이 있던 아이는 누구인지……
 Japanese,"scene_cp12_q4_s30,1243",detail,루리아,私は私を知る手がかりを、<br>絶対に逃したくないから……！！,나는 나를 알아볼 단서를 절대 놓치고 싶지 않으니까……!!
-Japanese,"scene_cp12_q4_s30,1243",detail,,<span class='scene-font-katari'>黒騎士が残したわずかな道標に、</span><br><span class='scene-font-katari'>[ジータ]達は、真実へと</span><br><span class='scene-font-katari'>舵を切るのだった。</span>,<span class = 'scene-font-katari'> 흑기사가 남긴 작은 이정표에 </ span> <br> <span class = 'scene-font-katari'> [지타] 우리는 진실로 </ span> <br> <span class = 'scene-font-katari'> 방향타를 자르는이었다. </ span>
-English,"scene_cp12_q1_s10,1211",synopsis,,[Djeeta] and the others rush toward Auguste Falls. Eugen opens up and tells the crew he owes a great debt to Leviathan.
-English,"scene_cp12_q1_s10,1211",detail,,"[Djeeta] and the others head to Auguste Falls, hoping to stop the primal beast Leviathan."
-English,"scene_cp12_q1_s10,1211",detail,Eugen,"Hey, [Djeeta]. How do I phrase this..."
+Japanese,"scene_cp12_q4_s30,1243",detail,,<span class='scene-font-katari'>黒騎士が残したわずかな道標に、</span><br><span class='scene-font-katari'>[플레이어]達は、真実へと</span><br><span class='scene-font-katari'>舵を切るのだった。</span>,<span class = 'scene-font-katari'> 흑기사가 남긴 작은 이정표에 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 우리는 진실로 </ span> <br> <span class = 'scene-font-katari'> 방향타를 자르는이었다. </ span>
+English,"scene_cp12_q1_s10,1211",synopsis,,[플레이어] and the others rush toward Auguste Falls. Eugen opens up and tells the crew he owes a great debt to Leviathan.
+English,"scene_cp12_q1_s10,1211",detail,,"[플레이어] and the others head to Auguste Falls, hoping to stop the primal beast Leviathan."
+English,"scene_cp12_q1_s10,1211",detail,Eugen,"Hey, [플레이어]. How do I phrase this..."
 English,"scene_cp12_q1_s10,1211",detail,Eugen,Are... you sure we can count on Lyria's powers?
 English,"scene_cp12_q1_s10,1211",detail,Vyrn,"You look awfully worried, Eugen."
 English,"scene_cp12_q1_s10,1211",detail,Vyrn,But you shouldn't be! Lyria's powers have always come through for us!
@@ -136,7 +136,7 @@ English,"scene_cp12_q1_s20,1212",detail,Eugen,"I mean, you could probably call i
 English,"scene_cp12_q1_s20,1212",detail,Eugen,It saved a life once. My daughter's life.
 English,"scene_cp12_q1_s20,1212",detail,Rackam,Daughter? Since when do you have a kid?
 English,"scene_cp12_q1_s20,1212",detail,Io,We don't have time to listen to you talk about dumb family stuff! We have to deal with these monsters!
-English,"scene_cp12_q1_s20,1212",detail,Io,"You too, [Djeeta]! Don't expect me to save you if you just stand there!"
+English,"scene_cp12_q1_s20,1212",detail,Io,"You too, [플레이어]! Don't expect me to save you if you just stand there!"
 English,"scene_cp12_q2_s10,1221",synopsis,,Eugen speaks of representing the people of Auguste and paying back their debts by saving Leviathan at any cost. The crew's resolve grows stronger.
 English,"scene_cp12_q2_s10,1221",detail,Eugen,So what? Is there something wrong with me having a daughter?
 English,"scene_cp12_q2_s10,1221",detail,Rackam,"Er, no, that's not what I'm saying. No, sir..."
@@ -145,7 +145,7 @@ English,"scene_cp12_q2_s10,1221",detail,Eugen,"In one way or another, everyone o
 English,"scene_cp12_q2_s10,1221",detail,Eugen,I'm not gonna let it become the thing that ends up destroying Auguste forever.
 English,"scene_cp12_q2_s10,1221",detail,Eugen,"The sea has protected us until now. I want to make sure it remains a blessing, not a curse."
 English,"scene_cp12_q2_s10,1221",detail,Eugen,This might just be my ego talking... but I think protectin' the sea is the only way we can repay the debt we owe.
-English,"scene_cp12_q2_s20,1222",synopsis,,Lyria hears Leviathan's pained cries. [Djeeta] and the others realize the Black Knight was expecting this to come to pass and quickens their pace.
+English,"scene_cp12_q2_s20,1222",synopsis,,Lyria hears Leviathan's pained cries. [플레이어] and the others realize the Black Knight was expecting this to come to pass and quickens their pace.
 English,"scene_cp12_q2_s20,1222",detail,Lyria,"I can hear Leviathan... It's still hungry. Oh, so hungry..."
 English,"scene_cp12_q2_s20,1222",detail,Katalina,Leviathan's been hurt dearly. It was still merged with the sea when the empire started polluting it.
 English,"scene_cp12_q2_s20,1222",detail,Lyria,It's in so much pain... We need to do something now!
@@ -153,10 +153,10 @@ English,"scene_cp12_q2_s20,1222",detail,Rackam,The empire's really done it this 
 English,"scene_cp12_q2_s20,1222",detail,Io,"But when that doofy general's airships got swallowed up, the Black Knight didn't seem fazed."
 English,"scene_cp12_q2_s20,1222",detail,Eugen,That's right. Which means the Black Knight was expecting this.
 English,"scene_cp12_q2_s20,1222",detail,Eugen,But that agenda can't be allowed to come to pass. We have to put a stop to it.
-English,"scene_cp12_q2_s20,1222",detail,Vyrn,"We've gotta watch out, [Djeeta]. This Black Knight sounds like real trouble."
+English,"scene_cp12_q2_s20,1222",detail,Vyrn,"We've gotta watch out, [플레이어]. This Black Knight sounds like real trouble."
 English,"scene_cp12_q2_s20,1222",detail,Vyrn,"Call it a hunch if you want, but it's a seriously scary hunch."
-English,"scene_cp12_q3_s10,1231",synopsis,,"[Djeeta] and the others arrive at Auguste Falls to find it covered in a dreadful miasma resulting from Leviathan's frenzy. They move forward with caution, unsure of what sort of monsters they might find in the haze."
-English,"scene_cp12_q3_s10,1231",detail,,"As [Djeeta] and the others arrive at the falls, they are engulfed in an overwhelming miasma."
+English,"scene_cp12_q3_s10,1231",synopsis,,"[플레이어] and the others arrive at Auguste Falls to find it covered in a dreadful miasma resulting from Leviathan's frenzy. They move forward with caution, unsure of what sort of monsters they might find in the haze."
+English,"scene_cp12_q3_s10,1231",detail,,"As [플레이어] and the others arrive at the falls, they are engulfed in an overwhelming miasma."
 English,"scene_cp12_q3_s10,1231",detail,Rackam,Uh-oh... You think Leviathan's rampage caused this?
 English,"scene_cp12_q3_s10,1231",detail,Lyria,I-I don't know... but it's somewhere in here!
 English,"scene_cp12_q3_s10,1231",detail,Vyrn,This is starting to be a real pain...
@@ -173,20 +173,20 @@ English,"scene_cp12_q3_s20,1232",detail,Io,Humph... I don't care how great this 
 English,"scene_cp12_q3_s20,1232",detail,Lyria,"No matter how big a primal beast is, they're not much different from us deep down inside."
 English,"scene_cp12_q3_s20,1232",detail,Eugen,Call Leviathan a baby or whatever you like... but that thing's supported Auguste through thick and thin.
 English,"scene_cp12_q3_s20,1232",detail,Eugen,"You'll see, Leviathan... The people you've raised in Auguste aren't a bunch of spineless wimps!"
-English,"scene_cp12_q4_s10,1241",synopsis,,"As [Djeeta] and the others creep ever closer to the heart of the miasma, the monsters they encounter grow stronger."
+English,"scene_cp12_q4_s10,1241",synopsis,,"As [플레이어] and the others creep ever closer to the heart of the miasma, the monsters they encounter grow stronger."
 English,"scene_cp12_q4_s10,1241",detail,Eugen,We're seeing fewer and fewer of the little guys... Think we're getting closer to Leviathan?
 English,"scene_cp12_q4_s10,1241",detail,Lyria,We're close... Just a little further now.
 English,"scene_cp12_q4_s10,1241",detail,Io,So it's almost time... I'm actually getting kind of nervous.
 English,"scene_cp12_q4_s10,1241",detail,Rackam,"That's because you're fidgety. But you wouldn't wanna be too calm anyway, you know?"
 English,"scene_cp12_q4_s10,1241",detail,Io,"Mind your own business, old man!"
 English,"scene_cp12_q4_s10,1241",detail,Vyrn,Nervous? You'd never know just listening to you...
-English,"scene_cp12_q4_s10,1241",detail,Katalina,"Are you ready to go, [Djeeta]?"
+English,"scene_cp12_q4_s10,1241",detail,Katalina,"Are you ready to go, [플레이어]?"
 English,"scene_cp12_q4_s10,1241",sel1_txt,,Let's move.
 English,"scene_cp12_q4_s10,1241",sel2_txt,,I've got butterflies...
 English,"scene_cp12_q4_s10,1241",detail,Vyrn,Right on! That's how a leader's supposed to sound!
-English,"scene_cp12_q4_s10,1241",detail,Rackam,"It's okay, [Djeeta]. You don't have anything to worry about with us around!"
+English,"scene_cp12_q4_s10,1241",detail,Rackam,"It's okay, [플레이어]. You don't have anything to worry about with us around!"
 English,"scene_cp12_q4_s10,1241",detail,Katalina,Let's go then... Time to meet the guardian of Auguste!
-English,"scene_cp12_q4_s20,1242",synopsis,,"At the center of the miasma, [Djeeta] and the others prepare to finally face the berserk Leviathan and restore the enraged primal beast to its place of former glory in Auguste."
+English,"scene_cp12_q4_s20,1242",synopsis,,"At the center of the miasma, [플레이어] and the others prepare to finally face the berserk Leviathan and restore the enraged primal beast to its place of former glory in Auguste."
 English,"scene_cp12_q4_s20,1242",detail,Leviathan,Groooaaagh!
 English,"scene_cp12_q4_s20,1242",detail,Eugen,"So this is Leviathan, the guardian deity of Auguste..."
 English,"scene_cp12_q4_s20,1242",detail,Leviathan,Grgh... Groooaaagh!
@@ -195,11 +195,11 @@ English,"scene_cp12_q4_s20,1242",detail,Lyria,I'm sorry. This wouldn't have happ
 English,"scene_cp12_q4_s20,1242",detail,Rackam,"I'm guessing we're gonna have to do something drastic, eh?"
 English,"scene_cp12_q4_s20,1242",detail,Io,"I know medicine's nasty and all... but you need to take it if you want to feel better! Right, Lyria?"
 English,"scene_cp12_q4_s20,1242",detail,Lyria,Yeah! Hold on just a little longer... We're here to help!
-English,"scene_cp12_q4_s20,1242",detail,Eugen,"[Djeeta], I'm beggin' ya... Leviathan's always been there for us."
+English,"scene_cp12_q4_s20,1242",detail,Eugen,"[플레이어], I'm beggin' ya... Leviathan's always been there for us."
 English,"scene_cp12_q4_s20,1242",detail,Eugen,You've gotta help me repay the favor! I'm askin' this on behalf of the people of Auguste...
 English,"scene_cp12_q4_s20,1242",detail,Eugen,Leviathan's hurt. Auguste's going to be swallowed up.
 English,"scene_cp12_q4_s20,1242",detail,Eugen,"Nobody wants to see that happen, so please! You've gotta help me return Leviathan to normal!"
-English,"scene_cp12_q4_s20,1242",detail,Vyrn,"You've got it! Right, [Djeeta]?"
+English,"scene_cp12_q4_s20,1242",detail,Vyrn,"You've got it! Right, [플레이어]?"
 English,"scene_cp12_q4_s20,1242",detail,Vyrn,Let's show this beast what we're made of!
 English,"scene_cp12_q4_s30,1243",synopsis,,"Just as Leviathan falls, a mysterious girl appears and absorbs Leviathan's power like Lyria. The Black Knight refuses to say anything of the girl, but claims the crew can find the answers they seek on the Lumacie Archipelago."
 English,"scene_cp12_q4_s30,1243",detail,Leviathan,...
@@ -225,9 +225,9 @@ English,"scene_cp12_q4_s30,1243",detail,Black Knight,"Of course, whether you fin
 English,"scene_cp12_q4_s30,1243",detail,???,See you...
 English,"scene_cp12_q4_s30,1243",detail,,The Black Knight and girl soon vanish without a trace.
 English,"scene_cp12_q4_s30,1243",detail,Katalina,"The Lumacie Archipelago, eh?"
-English,"scene_cp12_q4_s30,1243",detail,Vyrn,"At least they didn't swipe the sky map piece out from under us. What do you want to do, [Djeeta]?"
+English,"scene_cp12_q4_s30,1243",detail,Vyrn,"At least they didn't swipe the sky map piece out from under us. What do you want to do, [플레이어]?"
 English,"scene_cp12_q4_s30,1243",detail,Eugen,We have to go. It's about the only lead we've got.
 English,"scene_cp12_q4_s30,1243",detail,Lyria,Yes... I'd like to know too.
 English,"scene_cp12_q4_s30,1243",detail,Lyria,I want to know who I am... And who the Black Knight and that girl are.
 English,"scene_cp12_q4_s30,1243",detail,Lyria,I can't let this chance get away!
-English,"scene_cp12_q4_s30,1243",detail,,"The signposts left by the Black Knight are faded indeed, but they may just point [Djeeta] and the crew toward the truth."
+English,"scene_cp12_q4_s30,1243",detail,,"The signposts left by the Black Knight are faded indeed, but they may just point [플레이어] and the crew toward the truth."

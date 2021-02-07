@@ -1,13 +1,13 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt191228_cp1_q1_s10,synopsis,,ジョヤの祠のある島を訪れた[ジータ]一行は、村が異様に静かなことに違和感を覚える。すると蔵からマキラの声が聞こえ、一行が蔵を訪れると、マキラはジョヤの暴走の原因を探るために作っていた小型のジョヤ、プロトジョヤを完成させたところだった。ルリアがプロトジョヤに「こんにちは」と呼びかけると、プロトジョヤも「コ、ン、ニ、チ、ハ」と言葉を返した。
+Japanese,scene_evt191228_cp1_q1_s10,synopsis,,ジョヤの祠のある島を訪れた[플레이어]一行は、村が異様に静かなことに違和感を覚える。すると蔵からマキラの声が聞こえ、一行が蔵を訪れると、マキラはジョヤの暴走の原因を探るために作っていた小型のジョヤ、プロトジョヤを完成させたところだった。ルリアがプロトジョヤに「こんにちは」と呼びかけると、プロトジョヤも「コ、ン、ニ、チ、ハ」と言葉を返した。
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,ふぃ～<br>相変わらずすげぇ雪だな！
 Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,ふふっ、ここに来ると、<br>もうすぐ年明けだって気分に<br>なりますね。
 Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>前回のジョヤの鐘撞きは</span><br><span class='scene-font-katari'>何事もなく終わった。</span>
-Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>今年も暴走せずに順調に終わるだろう。</span><br><span class='scene-font-katari'>そう思った[ジータ]達は客として</span><br><span class='scene-font-katari'>ジョヤの鐘撞きを観に来たのだった。</span>
+Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>今年も暴走せずに順調に終わるだろう。</span><br><span class='scene-font-katari'>そう思った[플레이어]達は客として</span><br><span class='scene-font-katari'>ジョヤの鐘撞きを観に来たのだった。</span>
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,前の依頼がすぐに済んだから、<br>思ったより早く到着しちまったな。
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,せっかくだしこのまま村に行って、<br>村長のおっちゃん達に挨拶してくるか。
 Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,はい！<br>お役目に行っているクビラさんにも<br>会えるといいなぁ。
-Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>雪道を進み村に到着した</span><br><span class='scene-font-katari'>[ジータ]達はある違和感に気づく。</span>
+Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>雪道を進み村に到着した</span><br><span class='scene-font-katari'>[플레이어]達はある違和感に気づく。</span>
 Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>いつもならジョヤの鐘撞きの準備で</span><br><span class='scene-font-katari'>慌ただしい村が、</span><br><span class='scene-font-katari'>しんと静まり返っている。</span>
 Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,なんだかおかしいですね……<br>皆さん、一体どこに行って<br>しまったんでしょうか？
 Japanese,scene_evt191228_cp1_q1_s10,detail,？？？,初期値を変えても座標がずれるだけ……<br>とするとやはりこの結果は……
@@ -16,10 +16,10 @@ Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,あっちの蔵の方から
 Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,しかし、どうして対称的に<br>シンプルな記号が二つ表れるんだろう？
 Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,まるで私のことを<br>じっと見ているような……<br>もしかして、これは……
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,やっぱりマキラだったぜ！<br>おーい、マキラ！
-Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>自らの手で超小型騎空艇を完成させ、</span><br><span class='scene-font-katari'>自由に空を飛ぶ夢を叶えるために</span><br><span class='scene-font-katari'>[ジータ]達と旅をしているマキラ。</span>
+Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>自らの手で超小型騎空艇を完成させ、</span><br><span class='scene-font-katari'>自由に空を飛ぶ夢を叶えるために</span><br><span class='scene-font-katari'>[플레이어]達と旅をしているマキラ。</span>
 Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>しかし先日のジョヤの大暴走を受けて</span><br><span class='scene-font-katari'>調べたいことがあると言い、</span><br><span class='scene-font-katari'>一時的に艇を降りていたのだった。</span>
-Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>先日のジョヤの大暴走時に、</span><br><span class='scene-font-katari'>[ジータ]達はマキラとも</span><br><span class='scene-font-katari'>一緒に戦っていた。</span>
-Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>その時のことが縁で[ジータ]達と</span><br><span class='scene-font-katari'>マキラは親交を深めていた。</span>
+Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>先日のジョヤの大暴走時に、</span><br><span class='scene-font-katari'>[플레이어]達はマキラとも</span><br><span class='scene-font-katari'>一緒に戦っていた。</span>
+Japanese,scene_evt191228_cp1_q1_s10,detail,,<span class='scene-font-katari'>その時のことが縁で[플레이어]達と</span><br><span class='scene-font-katari'>マキラは親交を深めていた。</span>
 Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,はい、そです。<br>自然に起こる現象ではないです。
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,んあ？ 何の話だ？
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,なぁ、マキラがいじってるのは何だ？<br>新しい騎空艇……にしちゃあ<br>ジョヤにそっくりだけどよ。
@@ -27,7 +27,7 @@ Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,そですね。<br>一つ�
 Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,あはははは……<br>マキラさん、<br>機械いじりに夢中みたいです。
 Japanese,scene_evt191228_cp1_q1_s10,detail,비이,相変わらずマイペースな奴だな……<br>そこら中、本が取っ散らかってるぜ。<br>大事な資料なんじゃねぇのか、これ？
 Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,ぴよ？
-Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,あ、[ジータ]君に皆さん。<br>島に来てたんですね。
+Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,あ、[플레이어]君に皆さん。<br>島に来てたんですね。
 Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,こんにちは、マキラさん。<br>何を作ってたんですか？
 Japanese,scene_evt191228_cp1_q1_s10,detail,ジョヤ？,・・・・……
 Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,小型のジョヤの、<span class='scene-font-spword'>“プロトジョヤ”</span>です。<br>さっき完成したとこです。
@@ -58,7 +58,7 @@ Japanese,scene_evt191228_cp1_q1_s10,detail,プロトジョヤ,………………
 Japanese,scene_evt191228_cp1_q1_s10,detail,プロトジョヤ,コ、ン、ニ、チ、ハ。
 Japanese,scene_evt191228_cp1_q1_s10,detail,루리아,<span class='scene-font-4'>えぇーっ！？</span>
 Japanese,scene_evt191228_cp1_q1_s10,detail,マキラ,プロトジョヤが、喋った……？
-Japanese,scene_evt191228_cp1_q2_s10,synopsis,,プロトジョヤはルリアの言葉を真似して言葉を話し、[ジータ]達の名前をそれぞれ呼んだ。プロトジョヤは自分の名前も気になった様子を見せ、プロトジョヤでは堅苦しいと言ったルリアが『ジョイ』とあだ名をつける。自分の名前が気に入った様子を見せるジョイの様子を見てマキラは全く構造が同じジョヤにもジョイと同じような感情があるのではないかと考える。
+Japanese,scene_evt191228_cp1_q2_s10,synopsis,,プロトジョヤはルリアの言葉を真似して言葉を話し、[플레이어]達の名前をそれぞれ呼んだ。プロトジョヤは自分の名前も気になった様子を見せ、プロトジョヤでは堅苦しいと言ったルリアが『ジョイ』とあだ名をつける。自分の名前が気に入った様子を見せるジョイの様子を見てマキラは全く構造が同じジョヤにもジョイと同じような感情があるのではないかと考える。
 Japanese,scene_evt191228_cp1_q2_s10,detail,루리아,もう一回！<br>もう一回言ってみてもらえますか？
 Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,～～？？？
 Japanese,scene_evt191228_cp1_q2_s10,detail,비이,黙っちまったな……<br>でも、さっきは確かに<br>こんにちはって言ってたよな？
@@ -79,8 +79,8 @@ Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,<span class='scene
 Japanese,scene_evt191228_cp1_q2_s10,detail,비이,<span class='scene-font-4'>ちっげぇーよ！</span><br>オイラじゃなくてビィだぞ！
 Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,……ビィ？
 Japanese,scene_evt191228_cp1_q2_s10,detail,비이,<span class='scene-font-4'>そうだ！</span><br>へへっ、出来たじゃねぇか！
-Japanese,scene_evt191228_cp1_q2_s10,sel1_txt,,<span class='scene-font-katari'>私の名前は[ジータ]だよ</span>
-Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,[ジータ]ー！ [ジータ]ー！
+Japanese,scene_evt191228_cp1_q2_s10,sel1_txt,,<span class='scene-font-katari'>私の名前は[플레이어]だよ</span>
+Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,[플레이어]ー！ [플레이어]ー！
 Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,…………
 Japanese,scene_evt191228_cp1_q2_s10,detail,プロトジョヤ,ナマエ……ナマエ……
 Japanese,scene_evt191228_cp1_q2_s10,detail,비이,ん？<br>どうしたんだ、急に？
@@ -102,18 +102,18 @@ Japanese,scene_evt191228_cp1_q2_s10,detail,マキラ,表情を作って、言葉
 Japanese,scene_evt191228_cp1_q2_s10,detail,マキラ,変ですね。サイズを小さくして<br>小窓をつけたこと以外、<br>構造はジョヤと全く同じなのに……
 Japanese,scene_evt191228_cp1_q2_s10,detail,マキラ,もしかして、ジョヤにも<br>ジョイ君と同じような感情が……？
 Japanese,scene_evt191228_cp1_q2_s10,detail,,<span class='scene-font-katari'>予想を遥かに上回る</span><br><span class='scene-font-katari'>ジョイの反応を目の当たりにしながら、</span><br><span class='scene-font-katari'>マキラは首を捻る。</span>
-Japanese,scene_evt191228_cp1_q3_s10,synopsis,,ジョイは鏡に映った自分の姿がルリア達と違っていることを悲しむ。ルリアはジョヤという同じ姿の仲間がいるから会いに行こうと提案する。そこへクビラとビカラが現れ、ジョヤがいなくなったことを伝える。マキラは人の手で持ち出されたのならジョヤから発される煩悩の気配を辿って追いかけられるはずだと言い、[ジータ]にジョヤの捜索の協力を願い出る。
+Japanese,scene_evt191228_cp1_q3_s10,synopsis,,ジョイは鏡に映った自分の姿がルリア達と違っていることを悲しむ。ルリアはジョヤという同じ姿の仲間がいるから会いに行こうと提案する。そこへクビラとビカラが現れ、ジョヤがいなくなったことを伝える。マキラは人の手で持ち出されたのならジョヤから発される煩悩の気配を辿って追いかけられるはずだと言い、[플레이어]にジョヤの捜索の協力を願い出る。
 Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,……？
 Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>ご機嫌に転がっていたジョイは</span><br><span class='scene-font-katari'>蔵にあった大きな鏡の前で</span><br><span class='scene-font-katari'>ふと止まる。</span>
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,これは鏡って言うんですよ。<br>ほら、私とジョイ君が映ってるでしょ？
 Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,ルリア？ ジョイ？
 Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,ジョイ、チガウ。<br>ルリア、チガウ。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,え？
-Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,ジョイ、ビィ、チガウ。<br>ルリア、ビィ、チガウ。<br>ルリア、[ジータ]、チガウチガウ。
+Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,ジョイ、ビィ、チガウ。<br>ルリア、ビィ、チガウ。<br>ルリア、[플레이어]、チガウチガウ。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,えっと……<br>どうしたんですか、ジョイ君？<br>何が違うんですか？
 Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,あ、違うって２回言ったの、<br>違うってことが違うって<br>意味じゃないですかね。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,なるほど。<br>ジョイ君は違わないって<br>言いたかったのかもしれませんね。
-Japanese,scene_evt191228_cp1_q3_s10,detail,비이,つまり、ジョイとオイラは違って、<br>ルリアとオイラも違って、<br>ルリアと[ジータ]は違わない……
+Japanese,scene_evt191228_cp1_q3_s10,detail,비이,つまり、ジョイとオイラは違って、<br>ルリアとオイラも違って、<br>ルリアと[플레이어]は違わない……
 Japanese,scene_evt191228_cp1_q3_s10,detail,비이,もしかして、見た目の話をしてるのか？
 Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,その可能性はあります。<br>鏡を理解してるなんてびっくりだなぁ。
 Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,ジョイ、チガウ。<br>チガウ、チガウ……
@@ -128,14 +128,14 @@ Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,クビラ君にビカラ君
 Japanese,scene_evt191228_cp1_q3_s10,detail,ビカラ,ジョヤが事件に巻き込まれたみたいで<br>祠からいなくなっちゃったんだ。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,いなくなったって、また暴走して<br><span class='scene-font-spword'>“うちゅう”</span>に行っちゃったんですか？
 Japanese,scene_evt191228_cp1_q3_s10,detail,ビカラ,おや？ きみ、どうして<br>大暴走のことを知ってるんだい？
-Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,この人は[ジータ]だよ。<br>立派な騎空士で、私も一緒に<br>旅をさせてもらってるんだ。
+Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,この人は[플레이어]だよ。<br>立派な騎空士で、私も一緒に<br>旅をさせてもらってるんだ。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,初めまして！<br>もしかしてあなたはクビラさんの<br>次の歳神様ですか？
 Japanese,scene_evt191228_cp1_q3_s10,detail,ビカラ,そう！ ぼくビッキィ！<br>鼠神宮の主で北の守護神さ！
 Japanese,scene_evt191228_cp1_q3_s10,detail,ビカラ,年が明けたら鼠神宮にも遊びに来てね！<br>きみ達のこと、待ってるよ！
 Japanese,scene_evt191228_cp1_q3_s10,detail,ビカラ,それと、こっちは<br>相棒のドーマウス。<br>ぼくの式神さ！
 Japanese,scene_evt191228_cp1_q3_s10,detail,ドーマウス,<span class='scene-font-4'>──！</span>
 Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,それで、ジョヤのことなんだけどね……
-Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>クビラとビカラは</span><br><span class='scene-font-katari'>今朝ジョヤの祠で発覚した事件について</span><br><span class='scene-font-katari'>[ジータ]達に話して聞かせる。</span>
+Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>クビラとビカラは</span><br><span class='scene-font-katari'>今朝ジョヤの祠で発覚した事件について</span><br><span class='scene-font-katari'>[플레이어]達に話して聞かせる。</span>
 Japanese,scene_evt191228_cp1_q3_s10,detail,비이,ジョイに気を取られて<br>すっかり忘れちまってたけど、<br>村が変だったのはそのせいだったのか。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,ジョヤは暴走したんじゃなくて、<br>盗まれてしまったんですか？
 Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,うん、多分だけど。
@@ -147,10 +147,10 @@ Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,昨晩のうちに騎空艇
 Japanese,scene_evt191228_cp1_q3_s10,detail,비이,確かに、<span class='scene-font-spword'>“うちゅう”</span>に比べりゃあ<br>ずっと捜しやすいかもな。
 Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,でもジョヤがどこにいったのかは<br>あまり手掛かりがなさそうですよ。<br>どうしましょう？
 Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,私達は十二神将です。<br>煩悩の気配を感じ取れます。
-Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,なのでクビラ君とビカラ君は<br>[ジータ]君の艇に乗せてもらって、<br>煩悩の気配を探ってください。
+Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,なのでクビラ君とビカラ君は<br>[플레이어]君の艇に乗せてもらって、<br>煩悩の気配を探ってください。
 Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,そっか。今のジョヤは煩悩を沢山<br>溜め込んでるから、煩悩の気配を辿れば<br>ジョヤの居場所もわかりそうだね。
 Japanese,scene_evt191228_cp1_q3_s10,detail,ビカラ,さすがはマキラ！<br>きみに相談して正解だったよ！
-Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,……と、勝手に決めてしまいましたが、<br>[ジータ]君、<br>お願いしてもいいですか？
+Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,……と、勝手に決めてしまいましたが、<br>[플레이어]君、<br>お願いしてもいいですか？
 Japanese,scene_evt191228_cp1_q3_s10,sel1_txt,,<span class='scene-font-katari'>もちろん！</span>
 Japanese,scene_evt191228_cp1_q3_s10,sel2_txt,,<span class='scene-font-katari'>マキラは？</span>
 Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,ふふっ、<br>ありがとうございます。
@@ -160,19 +160,19 @@ Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,それと何かあった時
 Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,確かに……<br>万が一ってこともあるからね。
 Japanese,scene_evt191228_cp1_q3_s10,detail,クビラ,マキラちゃんがいて本当によかった。<br>お陰でジョヤを捜す糸口を掴めたよ。
 Japanese,scene_evt191228_cp1_q3_s10,detail,マキラ,クビラ君は優しいね。<br>そう言ってもらえると、<br>私も嬉しくなるよ。
-Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,ジョヤが遠くへ行っちゃう前に<br>出発しましょう、[ジータ]！
-Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>ジョヤを追いかけるべく、</span><br><span class='scene-font-katari'>[ジータ]達は慌ただしく</span><br><span class='scene-font-katari'>準備を始める。</span>
+Japanese,scene_evt191228_cp1_q3_s10,detail,루리아,ジョヤが遠くへ行っちゃう前に<br>出発しましょう、[플레이어]！
+Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>ジョヤを追いかけるべく、</span><br><span class='scene-font-katari'>[플레이어]達は慌ただしく</span><br><span class='scene-font-katari'>準備を始める。</span>
 Japanese,scene_evt191228_cp1_q3_s10,detail,ジョイ,ジョ、ヤ……？
-Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>そんな[ジータ]達の様子をジョイは</span><br><span class='scene-font-katari'>不安そうな表情で見ているのだった。</span>
-Japanese,scene_evt191228_cp1_q4_s10,synopsis,,一行が艇でジョヤの捜索を進める中、ジョイは浮いて移動する練習や話す練習をしていた。ジョイの無邪気な様子を見て、クビラは優しく艇内にある物の名前を教える。ジョイが撞木に似た麺棒を気に入った様子を見せたので、[ジータ]は麺棒をジョイにプレゼントする。そんな時、クビラとビカラが煩悩の気配を察知し、一行はクビラ達の示す島へ向かうのだった。
+Japanese,scene_evt191228_cp1_q3_s10,detail,,<span class='scene-font-katari'>そんな[플레이어]達の様子をジョイは</span><br><span class='scene-font-katari'>不安そうな表情で見ているのだった。</span>
+Japanese,scene_evt191228_cp1_q4_s10,synopsis,,一行が艇でジョヤの捜索を進める中、ジョイは浮いて移動する練習や話す練習をしていた。ジョイの無邪気な様子を見て、クビラは優しく艇内にある物の名前を教える。ジョイが撞木に似た麺棒を気に入った様子を見せたので、[플레이어]は麺棒をジョイにプレゼントする。そんな時、クビラとビカラが煩悩の気配を察知し、一行はクビラ達の示す島へ向かうのだった。
 Japanese,scene_evt191228_cp1_q4_s10,detail,ジョイ,コウケイ、コーコ……<br>コケコッコー……
 Japanese,scene_evt191228_cp1_q4_s10,detail,루리아,わぁ～、凄い！<br>部屋の端から端まで<br>浮いて移動出来ましたよ！
-Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>ジョヤを捜すために、</span><br><span class='scene-font-katari'>艇に乗り込んだ[ジータ]達。</span>
+Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>ジョヤを捜すために、</span><br><span class='scene-font-katari'>艇に乗り込んだ[플레이어]達。</span>
 Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>煩悩の気配を察知するまでは、</span><br><span class='scene-font-katari'>しらみつぶしに祠の島の周辺を</span><br><span class='scene-font-katari'>飛び回って探すしかなく……</span>
-Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]達は島があるエリアを</span><br><span class='scene-font-katari'>中心に、空を進んでいた。</span>
+Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]達は島があるエリアを</span><br><span class='scene-font-katari'>中心に、空を進んでいた。</span>
 Japanese,scene_evt191228_cp1_q4_s10,detail,비이,まさかジョヤと同じように<br>お前も浮けるようになるなんてな。<br>移動が楽で助かるけどよ。
 Japanese,scene_evt191228_cp1_q4_s10,detail,루리아,今はすぐに疲れちゃいますけど、<br>いつかジョイ君は<span class='scene-font-spword'>“うちゅう”</span>にだって<br>行けるようになるかもしれませんよ。
-Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]達が出発するにあたり、</span><br><span class='scene-font-katari'>マキラは一行にあるお願いをしていた。</span>
+Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]達が出発するにあたり、</span><br><span class='scene-font-katari'>マキラは一行にあるお願いをしていた。</span>
 Japanese,scene_evt191228_cp1_q4_s10,detail,マキラ,どうやらジョイ君は、<br>学習することで自分の機能を<br>応用出来るようになるみたいです。
 Japanese,scene_evt191228_cp1_q4_s10,detail,マキラ,ジョヤの暴走の原因を調べるためにも、<br>ジョイ君にも同じくらい機能を<br>使えるようになってほしいんです。
 Japanese,scene_evt191228_cp1_q4_s10,detail,マキラ,なので、色々教えてみてください。<br>危なくなければ、<br>ジョヤとも交流させてみてほしいです。
@@ -231,17 +231,17 @@ Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>ジ�
 Japanese,scene_evt191228_cp1_q4_s10,detail,クビラ,これは、麺棒だよ。<br>生地を平たく伸ばすのに使うんだ。
 Japanese,scene_evt191228_cp1_q4_s10,detail,ジョイ,メンボー！<br>ジョイ、メンボー、スキ！
 Japanese,scene_evt191228_cp1_q4_s10,detail,クビラ,これが好きなの？<br>……少し撞木に似てるからかな？
-Japanese,scene_evt191228_cp1_q4_s10,detail,루리아,ねぇ[ジータ]、この麺棒、<br>ジョイ君にプレゼントしませんか？<br>すっごく欲しそうにしてますし。
-Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]は笑顔で頷き、</span><br><span class='scene-font-katari'>ジョイに麺棒を差し出す。</span>
+Japanese,scene_evt191228_cp1_q4_s10,detail,루리아,ねぇ[플레이어]、この麺棒、<br>ジョイ君にプレゼントしませんか？<br>すっごく欲しそうにしてますし。
+Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]は笑顔で頷き、</span><br><span class='scene-font-katari'>ジョイに麺棒を差し出す。</span>
 Japanese,scene_evt191228_cp1_q4_s10,sel1_txt,,<span class='scene-font-katari'>大事にしてね</span>
 Japanese,scene_evt191228_cp1_q4_s10,detail,ジョイ,ウン！<br>ジョイ、ダイジニ、スル！
 Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>ジョイは鐘の下から脚を出すと、</span><br><span class='scene-font-katari'>器用に麺棒を掴んで鐘の中にしまった。</span>
 Japanese,scene_evt191228_cp1_q4_s10,detail,비이,いやお前、今どっから脚出したんだよ？
 Japanese,scene_evt191228_cp1_q4_s10,detail,クビラ,はっ……！
 Japanese,scene_evt191228_cp1_q4_s10,detail,ビカラ,<span class='scene-font-4'>クビラ、今の気配！</span>
-Japanese,scene_evt191228_cp1_q4_s10,detail,クビラ,わかってる。<br>[ジータ]、煩悩の気配を感じたよ。
+Japanese,scene_evt191228_cp1_q4_s10,detail,クビラ,わかってる。<br>[플레이어]、煩悩の気配を感じたよ。
 Japanese,scene_evt191228_cp1_q4_s10,detail,루리아,どこの島ですか？<br>急いで向かいましょう！
-Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]達が煩悩の気配のする島に</span><br><span class='scene-font-katari'>舵を切っている頃──</span>
+Japanese,scene_evt191228_cp1_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]達が煩悩の気配のする島に</span><br><span class='scene-font-katari'>舵を切っている頃──</span>
 Japanese,scene_evt191228_cp1_q4_s10,detail,黒服の男１,うぅ……いってぇ……
 Japanese,scene_evt191228_cp1_q4_s10,detail,黒服の男２,大丈夫か、兄弟？<br>肩貸すぞ。
 Japanese,scene_evt191228_cp1_q4_s10,detail,ユイシス,…………

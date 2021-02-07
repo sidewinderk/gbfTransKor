@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt180531_cp1_q1_s10,synopsis,,スフィリア王国で開かれる、絵物語の見本市。ルナールはそこに作品を出展できることになる。興奮気味に[グラン]達に感謝を伝えるルナール。その後、原稿の完成に集中するため現地に向かったルナールは、宿屋の一室を借り館詰部屋とし、順調に環境を整えて作業に当たっていた。しかし、見本市の３日前になって、ルナールは部屋の中で助けを求めて悲鳴をあげるのだった。
+Japanese,scene_evt180531_cp1_q1_s10,synopsis,,スフィリア王国で開かれる、絵物語の見本市。ルナールはそこに作品を出展できることになる。興奮気味に[플레이어]達に感謝を伝えるルナール。その後、原稿の完成に集中するため現地に向かったルナールは、宿屋の一室を借り館詰部屋とし、順調に環境を整えて作業に当たっていた。しかし、見本市の３日前になって、ルナールは部屋の中で助けを求めて悲鳴をあげるのだった。
 Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-spword'>『絵物語』</span><span class='scene-font-katari'>──</span><br><span class='scene-font-katari'>それは絵と文で表現する書物のこと。</span>
 Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-katari'>その文化が成立した時期は、</span><br><span class='scene-font-katari'>数十年前とも数百年前とも言われる。</span>
 Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-katari'>いずれにせよ、</span><br><span class='scene-font-katari'>世間に広まったのは近年の事であり、</span><br><span class='scene-font-katari'>昨今では一大産業となりつつあった。</span>
@@ -8,7 +8,7 @@ Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-katari'>そ�
 Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-katari'>まだ小規模なものではあるが、</span><br><span class='scene-font-katari'>アマチュアの絵師が作品を持ち寄り、</span><br><span class='scene-font-katari'>来訪客に販売して生活の糧としたり……</span>
 Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-katari'>書物を出版する商会の目に留まれば、</span><br><span class='scene-font-katari'>定期的に作品を発注される事もあり、</span><br><span class='scene-font-katari'>所謂プロになるチャンスの場でもある。</span>
 Japanese,scene_evt180531_cp1_q1_s10,detail,,<span class='scene-font-katari'>そして近々再び、</span><br><span class='scene-font-katari'>その書物見本市が開かれる頃……</span>
-Japanese,scene_evt180531_cp1_q1_s10,detail,ルナール,あの、[グラン]さん。<br>ちょっといいかしら……
+Japanese,scene_evt180531_cp1_q1_s10,detail,ルナール,あの、[플레이어]さん。<br>ちょっといいかしら……
 Japanese,scene_evt180531_cp1_q1_s10,detail,ルナール,実は、その……<br>前に話した耽美モノのネームだけど……
 Japanese,scene_evt180531_cp1_q1_s10,detail,ルナール,…………
 Japanese,scene_evt180531_cp1_q1_s10,detail,ルナール,通ったの……<br>応募して通ったの、審査……！
@@ -74,7 +74,7 @@ Japanese,scene_evt180531_cp1_q2_s10,detail,,<span class='scene-font-katari'>メ�
 Japanese,scene_evt180531_cp1_q2_s10,detail,,<span class='scene-font-katari'>一行の仲間に加わった後、</span><br><span class='scene-font-katari'>ルナール達とも仲を深め、</span><br><span class='scene-font-katari'>原稿を手伝う間柄となった。</span>
 Japanese,scene_evt180531_cp1_q2_s10,detail,,<span class='scene-font-katari'>マキラ──</span><br><span class='scene-font-katari'>西の方角を護る十二神将のひとりで、</span><br><span class='scene-font-katari'>騎空艇に強い関心のある少女である。</span>
 Japanese,scene_evt180531_cp1_q2_s10,detail,,<span class='scene-font-katari'>空の旅に同行する事になった後、</span><br><span class='scene-font-katari'>ルナールを通じて絵物語を知り、</span><br><span class='scene-font-katari'>興味津々で彼女を手伝っていた。</span>
-Japanese,scene_evt180531_cp1_q2_s10,detail,,<span class='scene-font-katari'>ふたりは買物袋を抱えており、</span><br><span class='scene-font-katari'>今回[グラン]の許可を得て、</span><br><span class='scene-font-katari'>館詰に協力しているとの事だった。</span>
+Japanese,scene_evt180531_cp1_q2_s10,detail,,<span class='scene-font-katari'>ふたりは買物袋を抱えており、</span><br><span class='scene-font-katari'>今回[플레이어]の許可を得て、</span><br><span class='scene-font-katari'>館詰に協力しているとの事だった。</span>
 Japanese,scene_evt180531_cp1_q2_s10,detail,ルナール,メリッサ、マキラ……<br>ありがと、でも悪いんだけど──
 Japanese,scene_evt180531_cp1_q2_s10,detail,メリッサベル,あ、お部屋が散らかってる。<br>ひょっとしてまた錯乱しちゃったの？
 Japanese,scene_evt180531_cp1_q2_s10,detail,셰로카르테,むむぅ～？<br>また、と言いますと～？

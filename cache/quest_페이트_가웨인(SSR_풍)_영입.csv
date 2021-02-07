@@ -1,8 +1,8 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr028_ep1,synopsis,,魔物に襲われる村で<span>[ジータ]</span>一行は、村人を守る甲冑の青年ガウェインと出会う。彼の甲冑には人助けをしなければ解けない呪いがかけられており、その呪いを解くため彼は一行と旅を共にすることを決める。
+Japanese,scene_fate_chr028_ep1,synopsis,,魔物に襲われる村で<span>[플레이어]</span>一行は、村人を守る甲冑の青年ガウェインと出会う。彼の甲冑には人助けをしなければ解けない呪いがかけられており、その呪いを解くため彼は一行と旅を共にすることを決める。
 Japanese,scene_fate_chr028_ep1,detail,,<span class='scene-font-katari'>休息のため、村に立ち寄った一行。</span><br><span class='scene-font-katari'>しかし、そこには魔物の大群が</span><br><span class='scene-font-katari'>押し寄せていた。</span>
 Japanese,scene_fate_chr028_ep1,detail,,<span class='scene-font-katari'>逃げ惑う村人を庇うように</span><br><span class='scene-font-katari'>たったひとり、魔物に立ち向かうのは、</span><br><span class='scene-font-katari'>甲冑に身を包む若い騎士。</span>
-Japanese,scene_fate_chr028_ep1,detail,,<span class='scene-font-katari'>[ジータ]達は</span><br><span class='scene-font-katari'>急ぎ、援護に走った――</span>
+Japanese,scene_fate_chr028_ep1,detail,,<span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>急ぎ、援護に走った――</span>
 Japanese,scene_fate_chr028_ep1,detail,カタリナ,ふぅ……<br>なんとか、魔物を退けたか。
 Japanese,scene_fate_chr028_ep1,detail,村人,……ああ、旅の方！<br>助けて下さり、ありがとうございます！<br>何とお礼をいったらよいか……
 Japanese,scene_fate_chr028_ep1,detail,カタリナ,無事でなによりです。<br>それより、さっきの騎士は……
@@ -36,7 +36,7 @@ Japanese,scene_fate_chr028_ep1,detail,ルリア,ガウェインさん、もし�
 Japanese,scene_fate_chr028_ep1,detail,ガウェイン,……何？
 Japanese,scene_fate_chr028_ep1,detail,ルリア,えっと……私達の騎空団も、<br>世界中を旅しているんです。
 Japanese,scene_fate_chr028_ep1,detail,ルリア,もしかしたら、旅の途中で<br>ガウェインさんの呪いを解く方法が<br>見つかるかもしれませんし……
-Japanese,scene_fate_chr028_ep1,detail,ルリア,それに、強い魔物と戦う時、<br>ガウェインさんがいたら心強いなって。<br>……ね、[ジータ]？
+Japanese,scene_fate_chr028_ep1,detail,ルリア,それに、強い魔物と戦う時、<br>ガウェインさんがいたら心強いなって。<br>……ね、[플레이어]？
 Japanese,scene_fate_chr028_ep1,sel1_txt,,<span class='scene-font-katari'>力を貸してほしい</span>
 Japanese,scene_fate_chr028_ep1,sel2_txt,,<span class='scene-font-katari'>あなたを助けたい</span>
 Japanese,scene_fate_chr028_ep1,detail,ガウェイン,フン……<br>そこまで言われたら、仕方ない。
@@ -48,19 +48,19 @@ Japanese,scene_fate_chr028_ep1,detail,ビィ,……なあ、兄ちゃん。<br>�
 Japanese,scene_fate_chr028_ep1,detail,ガウェイン,もうひとつ？
 Japanese,scene_fate_chr028_ep1,detail,ビィ,高慢さを改めろ、って方。<br>オイラとしては、そっちの方が<br>重要なんじゃないかって……
 Japanese,scene_fate_chr028_ep1,detail,ガウェイン,高慢？ ……ハッ、俺が高慢だと？<br>実力を持つものが<br>人を見下して何が悪い。
-Japanese,scene_fate_chr028_ep1,detail,ガウェイン,無駄口はよせ。<br>[ジータ]、貴様が団長か？<br>なら、騎空艇へさっさと案内しろ。
+Japanese,scene_fate_chr028_ep1,detail,ガウェイン,無駄口はよせ。<br>[플레이어]、貴様が団長か？<br>なら、騎空艇へさっさと案内しろ。
 Japanese,scene_fate_chr028_ep1,detail,カタリナ,…………<br>呪いが解けるのは、<br>当分、先になりそうだな……
 Japanese,scene_fate_chr028_ep1,detail,ビィ,むぅ……気に食わねぇけど……<br>ま、力強いのは確かか。
 Japanese,scene_fate_chr028_ep1,detail,ルリア,いっぱい良いことをして、<br>頑張って、呪いを解きましょう！
 Japanese,scene_fate_chr028_ep1,detail,,<span class='scene-font-katari'>呪詛に縛られた甲冑の騎士、</span><br><span class='scene-font-katari'>ガウェインを迎え、</span><br><span class='scene-font-katari'>一行は再び空へと舞い上がった。</span>
 Japanese,scene_fate_chr028_ep1,detail,,<span class='scene-font-katari'>果たして、呪いを解く日は来るのか。</span><br><span class='scene-font-katari'>すべては、堅く甲冑に覆われた</span><br><span class='scene-font-katari'>彼の心次第だろう。</span>
-Japanese,scene_chr028_q1_s10,synopsis,,ガウェインの甲冑にかけられた呪いに効くという魔石の噂を聞く<span>[ジータ]</span>一行。魔石を求めて怪しげな森へと進むが、そこは奇妙な魔力に満ちており、次々と魔物が襲いかかってくる。
+Japanese,scene_chr028_q1_s10,synopsis,,ガウェインの甲冑にかけられた呪いに効くという魔石の噂を聞く<span>[플레이어]</span>一行。魔石を求めて怪しげな森へと進むが、そこは奇妙な魔力に満ちており、次々と魔物が襲いかかってくる。
 Japanese,scene_chr028_q1_s10,detail,,<span class='scene-font-katari'>呪いを解きたくば、</span><br><span class='scene-font-katari'>人を助け、高慢さを改めよ――</span>
-Japanese,scene_chr028_q1_s10,detail,,<span class='scene-font-katari'>甲冑に呪詛を受けた騎士、</span><br><span class='scene-font-katari'>ガウェインと共に</span><br><span class='scene-font-katari'>旅を続けていた[ジータ]達。</span>
+Japanese,scene_chr028_q1_s10,detail,,<span class='scene-font-katari'>甲冑に呪詛を受けた騎士、</span><br><span class='scene-font-katari'>ガウェインと共に</span><br><span class='scene-font-katari'>旅を続けていた[플레이어]達。</span>
 Japanese,scene_chr028_q1_s10,detail,,<span class='scene-font-katari'>道すがら知り合った商人から、</span><br><span class='scene-font-katari'>呪いに効く魔石があると聞いた一行は、</span><br><span class='scene-font-katari'>薄暗い森へと足を踏み入れたのだった。</span>
 Japanese,scene_chr028_q1_s10,detail,カタリナ,うっ……これは……<br>息苦しいほどの瘴気だな……
 Japanese,scene_chr028_q1_s10,detail,ルリア,それだけじゃない……<br>なんだか、奇妙な魔力も……
-Japanese,scene_chr028_q1_s10,detail,ビィ,なあ、[ジータ]。<br>あの商人の言葉、<br>本当に信頼できると思うか？
+Japanese,scene_chr028_q1_s10,detail,ビィ,なあ、[플레이어]。<br>あの商人の言葉、<br>本当に信頼できると思うか？
 Japanese,scene_chr028_q1_s10,detail,ビィ,この森の奥に、<br>甲冑の兄ちゃんの呪いを解く<br>魔石がある、なんてよぉ……
 Japanese,scene_chr028_q1_s10,detail,ラカム,そもそも、通りすがりの商人が<br>呪いのことを知ってるってのも<br>なーんか、胡散臭ぇ。
 Japanese,scene_chr028_q1_s10,detail,ラカム,やっぱり、街に行って<br>人助けをした方が……
@@ -71,10 +71,10 @@ Japanese,scene_chr028_q1_s10,detail,ラカム,あのなぁ！<br>俺達はお前
 Japanese,scene_chr028_q1_s10,detail,魔物,グルルルゥ……！
 Japanese,scene_chr028_q1_s10,detail,カタリナ,……！<br>やはり、出たな。<br>気をつけろ、並の魔物じゃないぞ。
 Japanese,scene_chr028_q1_s10,detail,ガウェイン,フン……<br>この程度、肩慣らしにもならん。<br>我が斧の錆にしてくれる！
-English,scene_fate_chr028_ep1,synopsis,,"A monster attack brings the crew face-to-face with Gawain, a knight in shining armor who's protecting the village. Learning he is cursed to wear armor until his good deeds outweigh his sins, [Djeeta] offers Gawain a spot on the crew."
+English,scene_fate_chr028_ep1,synopsis,,"A monster attack brings the crew face-to-face with Gawain, a knight in shining armor who's protecting the village. Learning he is cursed to wear armor until his good deeds outweigh his sins, [플레이어] offers Gawain a spot on the crew."
 English,scene_fate_chr028_ep1,detail,,The party stops by a village for a well-deserved break. The large group of monsters there has other plans.
 English,scene_fate_chr028_ep1,detail,,A lone knight in armor stands to defend the panicked villagers from the monsters.
-English,scene_fate_chr028_ep1,detail,,[Djeeta] and company rush to offer their assistance.
+English,scene_fate_chr028_ep1,detail,,[플레이어] and company rush to offer their assistance.
 English,scene_fate_chr028_ep1,detail,Katalina,"Whew, looks like we got rid of them."
 English,scene_fate_chr028_ep1,detail,Villager,"Ah, travelers! You've chased off the monsters! We can't thank you enough."
 English,scene_fate_chr028_ep1,detail,Katalina,As long as you're safe. As for that knight...
@@ -108,7 +108,7 @@ English,scene_fate_chr028_ep1,detail,Lyria,Gawain... Why don't you come with us?
 English,scene_fate_chr028_ep1,detail,Gawain,"Wait, what?"
 English,scene_fate_chr028_ep1,detail,Lyria,"We're, um... We're skyfarers. We're traveling the world."
 English,scene_fate_chr028_ep1,detail,Lyria,We might be able to find a way to lift the curse if you come with us...
-English,scene_fate_chr028_ep1,detail,Lyria,"And think of what would happen if we ran into some big monsters. You'd be a lifesaver... Right, [Djeeta]?"
+English,scene_fate_chr028_ep1,detail,Lyria,"And think of what would happen if we ran into some big monsters. You'd be a lifesaver... Right, [플레이어]?"
 English,scene_fate_chr028_ep1,sel1_txt,,We could use a strong guy like you.
 English,scene_fate_chr028_ep1,sel2_txt,,We want to help.
 English,scene_fate_chr028_ep1,detail,Gawain,"Humph, fine. If you say so..."
@@ -120,19 +120,19 @@ English,scene_fate_chr028_ep1,detail,Vyrn,"Umm... I've kinda been wanting to ask
 English,scene_fate_chr028_ep1,detail,Gawain,What point?
 English,scene_fate_chr028_ep1,detail,Vyrn,"Your pride. If you ask me, that's what it all comes down to."
 English,scene_fate_chr028_ep1,detail,Gawain,My pride? Hah. Are you calling me proud? It's the right of the strong to look down on the common rabble. Am I wrong?
-English,scene_fate_chr028_ep1,detail,Gawain,"Enough gum flapping. [Djeeta], you're the leader, aren't you? Show me to your ship. And be quick about it."
+English,scene_fate_chr028_ep1,detail,Gawain,"Enough gum flapping. [플레이어], you're the leader, aren't you? Show me to your ship. And be quick about it."
 English,scene_fate_chr028_ep1,detail,Katalina,My money's on the curse staying around for a while.
 English,scene_fate_chr028_ep1,detail,Vyrn,"Ugh... He's a jerk, but at least we know he's tough."
 English,scene_fate_chr028_ep1,detail,Lyria,We'll do lots of good deeds and rid Gawain of his curse!
 English,scene_fate_chr028_ep1,detail,,"Bound by his curse, the armored knight Gawain joins our heroes. They set off into the sky once again."
 English,scene_fate_chr028_ep1,detail,,"Whether his freedom will ever come remains to be seen. Of course, changing his mindset is going to be the biggest hurdle."
-English,scene_chr028_q1_s10,synopsis,,[Djeeta] and company hear of a magic stone said to work on Gawain's curse. They enter an ominous forest in search of it.
+English,scene_chr028_q1_s10,synopsis,,[플레이어] and company hear of a magic stone said to work on Gawain's curse. They enter an ominous forest in search of it.
 English,scene_chr028_q1_s10,detail,,"If you want to dispel the curse, help people and change your arrogant ways."
-English,scene_chr028_q1_s10,detail,,"A knight with cursed armor, Gawain, accompanies [Djeeta] and company in their journey."
+English,scene_chr028_q1_s10,detail,,"A knight with cursed armor, Gawain, accompanies [플레이어] and company in their journey."
 English,scene_chr028_q1_s10,detail,,A merchant they come across speaks of a magic stone that works on curses. The crew heads into a dark forest in search of the stone.
 English,scene_chr028_q1_s10,detail,Katalina,Ugh... The miasma here makes it difficult to breathe...
 English,scene_chr028_q1_s10,detail,Lyria,That's not all. I feel a bizarre magical presence too...
-English,scene_chr028_q1_s10,detail,Vyrn,"Hey, [Djeeta]. Do you think we can trust what that merchant said?"
+English,scene_chr028_q1_s10,detail,Vyrn,"Hey, [플레이어]. Do you think we can trust what that merchant said?"
 English,scene_chr028_q1_s10,detail,Vyrn,A magic stone that just so happens to work on the armored guy's cursed armor seems a bit... You know...
 English,scene_chr028_q1_s10,detail,Rackam,It seems highly suspicious that some merchant passing by knows about the curse anyway.
 English,scene_chr028_q1_s10,detail,Rackam,Maybe we should just go to town and help people to—

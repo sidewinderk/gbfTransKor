@@ -1,15 +1,15 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr333_ep1,synopsis,,モニカに呼ばれ、一時アマルティアへと戻ったリーシャは、[ジータ]達の騎空団を捕まえ解散させてほしいという依頼と、それに伴う団長代理就任の辞令に困惑する。団長の器として、己はまだまだ未熟であると不安を抱くリーシャだったが、父やモニカ、団員達の期待に応えたいという思いを胸に、自らの責務と向き合う覚悟を決めるのだった。
-Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>リーシャはモニカに呼ばれ、</span><br><span class='scene-font-katari'>[ジータ]の騎空団から離れて</span><br><span class='scene-font-place'>アマルティア</span><span class='scene-font-katari'>へと戻る。</span>
+Japanese,scene_fate_chr333_ep1,synopsis,,モニカに呼ばれ、一時アマルティアへと戻ったリーシャは、[플레이어]達の騎空団を捕まえ解散させてほしいという依頼と、それに伴う団長代理就任の辞令に困惑する。団長の器として、己はまだまだ未熟であると不安を抱くリーシャだったが、父やモニカ、団員達の期待に応えたいという思いを胸に、自らの責務と向き合う覚悟を決めるのだった。
+Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>リーシャはモニカに呼ばれ、</span><br><span class='scene-font-katari'>[플레이어]の騎空団から離れて</span><br><span class='scene-font-place'>アマルティア</span><span class='scene-font-katari'>へと戻る。</span>
 Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>モニカがリーシャを帰還させたのは、</span><br><span class='scene-font-katari'>七曜の騎士から秩序の騎空団への</span><br><span class='scene-font-katari'>とある依頼が原因だった。</span>
-Japanese,scene_fate_chr333_ep1,detail,モニカ,依頼というのはだな……<br>[ジータ]達の騎空団を捕まえ、<br>解散させてほしい、というものなんだ。
+Japanese,scene_fate_chr333_ep1,detail,モニカ,依頼というのはだな……<br>[플레이어]達の騎空団を捕まえ、<br>解散させてほしい、というものなんだ。
 Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>アウライ・グランデ空域にある</span><br><span class='scene-font-katari'>イスタバイオンという国を介しての</span><br><span class='scene-font-katari'>その依頼に、リーシャは困惑する。</span>
 Japanese,scene_fate_chr333_ep1,detail,モニカ,加えてこの依頼には、<br>奇妙な条件があってな……
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,条件？
 Japanese,scene_fate_chr333_ep1,detail,モニカ,ああ……この手配に関しては、<br>ファータ・グランデ空域内に<br>限定してほしい、と続きがあるんだ。
 Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>奇妙な依頼の意図を考察する</span><br><span class='scene-font-katari'>リーシャとモニカ。</span>
-Japanese,scene_fate_chr333_ep1,detail,リーシャ,つまり、誰かが[ジータ]さん達を<br>ファータ・グランデ空域から<br>追い出そうとしている……？
-Japanese,scene_fate_chr333_ep1,detail,モニカ,もしくは[ジータ]達を、<br>別の空域へと導こうとしている、<br>ということだな。
+Japanese,scene_fate_chr333_ep1,detail,リーシャ,つまり、誰かが[플레이어]さん達を<br>ファータ・グランデ空域から<br>追い出そうとしている……？
+Japanese,scene_fate_chr333_ep1,detail,モニカ,もしくは[플레이어]達を、<br>別の空域へと導こうとしている、<br>ということだな。
 Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>ふたりの意見がまとまった後、</span><br><span class='scene-font-katari'>モニカは居住まいを正す。</span>
 Japanese,scene_fate_chr333_ep1,detail,モニカ,さて……リーシャ。<br>お前を呼び戻したのは、<br>これだけが理由じゃないんだ。
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,えっ……？
@@ -49,9 +49,9 @@ Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>モニカ
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,…………
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,外の空気を、吸ってこようかな……
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,こうやって、散歩するのも<br>久しぶりだな……
-Japanese,scene_fate_chr333_ep1,detail,リーシャ,<span class='scene-font-kokoro'>（[ジータ]さん達……</span><br><span class='scene-font-kokoro'>今頃、どこにいるんだろう……）</span>
+Japanese,scene_fate_chr333_ep1,detail,リーシャ,<span class='scene-font-kokoro'>（[플레이어]さん達……</span><br><span class='scene-font-kokoro'>今頃、どこにいるんだろう……）</span>
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,<span class='scene-font-kokoro'>（……結局、父さんの手記にあった</span><br><span class='scene-font-kokoro'>ルリアとビィくんについての記述を</span><br><span class='scene-font-kokoro'>伝えないままに団を離れて……）</span>
-Japanese,scene_fate_chr333_ep1,detail,リーシャ,<span class='scene-font-kokoro'>（もしそのことが、</span><br><span class='scene-font-kokoro'>[ジータ]さん達の旅の</span><br><span class='scene-font-kokoro'>妨げになったらどうしよう……）</span>
+Japanese,scene_fate_chr333_ep1,detail,リーシャ,<span class='scene-font-kokoro'>（もしそのことが、</span><br><span class='scene-font-kokoro'>[플레이어]さん達の旅の</span><br><span class='scene-font-kokoro'>妨げになったらどうしよう……）</span>
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,……はぁ。
 Japanese,scene_fate_chr333_ep1,detail,団員,……あれ？ リーシャ船長……<br>じゃなかった、リーシャ団長代理！ <br>こんなところでどうしたんです？
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,あ……えっと、少し考え事をしていて。<br>それより、その呼び名は……
@@ -67,13 +67,13 @@ Japanese,scene_fate_chr333_ep1,detail,リーシャ,……えいっ。
 Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>気合を入れ直すように</span><br><span class='scene-font-katari'>リーシャは自分の両頬を軽く叩いた。</span>
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,私なんかが、なんて考えないで<br>私にできることを頑張らなくちゃ。
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,……父さんや、モニカさん。<br>それに第四騎空艇団のみんなの、<br>期待に応えたいもの。
-Japanese,scene_fate_chr333_ep1,detail,リーシャ,それに、いつかまた<br>[ジータ]さん達と<br>旅をすることがあったら……
-Japanese,scene_fate_chr333_ep1,detail,リーシャ,前よりももっと、<br>[ジータ]さん達の<br>力になりたい。
+Japanese,scene_fate_chr333_ep1,detail,リーシャ,それに、いつかまた<br>[플레이어]さん達と<br>旅をすることがあったら……
+Japanese,scene_fate_chr333_ep1,detail,リーシャ,前よりももっと、<br>[플레이어]さん達の<br>力になりたい。
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,そのためには、<br>私自身がもっと成長しなくちゃ。
 Japanese,scene_fate_chr333_ep1,detail,リーシャ,……うん、頑張ろう。
 Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>不安を抱きながらも、</span><br><span class='scene-font-katari'>リーシャは自分を鼓舞し</span><br><span class='scene-font-katari'>団長代理の責務と向き合う。</span>
-Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>その経験は彼女の更なる成長を促し</span><br><span class='scene-font-katari'>いつか[ジータ]達の元へ戻った時</span><br><span class='scene-font-katari'>大きな力となってくれることだろう。</span>
-Japanese,scene_chr333_q1_s10,synopsis,,秩序の騎空団の団長代理に任命されて以来、リーシャは団長としての仕事に忙殺されながら、[ジータ]達との旅の思い出を懐かしんでいた。そんな中、書類の中に会食の申し込みを見つけたリーシャは、モニカの申し出を断り自ら出席すると告げる。数日後、モニカに留守を預けると団員らと共に会食が行われる島へと旅立ったのだった。
+Japanese,scene_fate_chr333_ep1,detail,,<span class='scene-font-katari'>その経験は彼女の更なる成長を促し</span><br><span class='scene-font-katari'>いつか[플레이어]達の元へ戻った時</span><br><span class='scene-font-katari'>大きな力となってくれることだろう。</span>
+Japanese,scene_chr333_q1_s10,synopsis,,秩序の騎空団の団長代理に任命されて以来、リーシャは団長としての仕事に忙殺されながら、[플레이어]達との旅の思い出を懐かしんでいた。そんな中、書類の中に会食の申し込みを見つけたリーシャは、モニカの申し出を断り自ら出席すると告げる。数日後、モニカに留守を預けると団員らと共に会食が行われる島へと旅立ったのだった。
 Japanese,scene_chr333_q1_s10,detail,,<span class='scene-font-katari'>父である碧の騎士から</span><br><span class='scene-font-katari'>秩序の騎空団の団長代理に</span><br><span class='scene-font-katari'>任命されたリーシャ。</span>
 Japanese,scene_chr333_q1_s10,detail,,<span class='scene-font-katari'>彼女は代理とはいえ</span><br><span class='scene-font-katari'>団長としての仕事を担い、</span><br><span class='scene-font-katari'>その量の多さに忙殺されていた。</span>
 Japanese,scene_chr333_q1_s10,detail,リーシャ,ええと、こっちの書類は明日までで……<br>……あっ！ そうだ、この決済は<br>今日までだったんだ……！
@@ -90,9 +90,9 @@ Japanese,scene_chr333_q1_s10,detail,リーシャ,本当に助かります、モ�
 Japanese,scene_chr333_q1_s10,detail,モニカ,それでも、最初の頃よりは<br>随分仕事が早くなったじゃないか。<br>慣れというのは大事だな。
 Japanese,scene_chr333_q1_s10,detail,リーシャ,ふふ……本当にそうですね。<br>ちょっと前まで、机の上に<br>書類の山ができてましたし。
 Japanese,scene_chr333_q1_s10,detail,リーシャ,やっと、団長代理の仕事に<br>少し慣れてきたかもしれません。
-Japanese,scene_chr333_q1_s10,detail,リーシャ,<span class='scene-font-kokoro'>（……なんだか、</span><br><span class='scene-font-kokoro'>[ジータ]さん達と</span><br><span class='scene-font-kokoro'>旅をしていたのが遠い昔みたい）</span>
+Japanese,scene_chr333_q1_s10,detail,リーシャ,<span class='scene-font-kokoro'>（……なんだか、</span><br><span class='scene-font-kokoro'>[플레이어]さん達と</span><br><span class='scene-font-kokoro'>旅をしていたのが遠い昔みたい）</span>
 Japanese,scene_chr333_q1_s10,detail,リーシャ,<span class='scene-font-kokoro'>（思い返してみると、</span><br><span class='scene-font-kokoro'>あの冒険の日々は……</span><br><span class='scene-font-kokoro'>まるで、絵巻物みたいで……）</span>
-Japanese,scene_chr333_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]達との旅を</span><br><span class='scene-font-katari'>懐かしみながらも、</span><br><span class='scene-font-katari'>リーシャは次々と書類を片づける。</span>
+Japanese,scene_chr333_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]達との旅を</span><br><span class='scene-font-katari'>懐かしみながらも、</span><br><span class='scene-font-katari'>リーシャは次々と書類を片づける。</span>
 Japanese,scene_chr333_q1_s10,detail,リーシャ,あれ……？<br>これは……！
 Japanese,scene_chr333_q1_s10,detail,モニカ,ん？ どうした、リーシャ。<br>……会食の申し込みか。
 Japanese,scene_chr333_q1_s10,detail,モニカ,どうする？<br>忙しいと断っても良いし、<br>私が代わりに行ってきてもいいが……
@@ -101,15 +101,15 @@ Japanese,scene_chr333_q1_s10,detail,モニカ,そうか？ ……まあ、偶に
 Japanese,scene_chr333_q1_s10,detail,リーシャ,助かります！<br>さて、それじゃあ<br>返事を書かないと……
 Japanese,scene_chr333_q1_s10,detail,,<span class='scene-font-katari'>数日後、リーシャは</span><br><span class='scene-font-katari'>秩序の騎空団の団員達と共に</span><br><span class='scene-font-katari'>会食が行われる島へと旅立った。</span>
 English,scene_fate_chr333_ep1,synopsis,,"Lecia gets called back to Amalthea by Monika, who tells her that she's been made Acting Captain of the Crew of Enforcers by her father."
-English,scene_fate_chr333_ep1,detail,,Lecia is called away from [Djeeta]'s crew by Monika for a return visit to Amalthea.
+English,scene_fate_chr333_ep1,detail,,Lecia is called away from [플레이어]'s crew by Monika for a return visit to Amalthea.
 English,scene_fate_chr333_ep1,detail,,The reason for her return lies in an auspicious request from the Seven Luminary Knights.
-English,scene_fate_chr333_ep1,detail,Monika,"The request, you see, is that we capture [Djeeta]'s crew and force them to disband."
+English,scene_fate_chr333_ep1,detail,Monika,"The request, you see, is that we capture [플레이어]'s crew and force them to disband."
 English,scene_fate_chr333_ep1,detail,,"Lecia is distraught over the request, which comes from the kingdom of Istavion in the Great Oarlyegrande Skydom."
 English,scene_fate_chr333_ep1,detail,Monika,Except we do know that the request comes with a condition.
 English,scene_fate_chr333_ep1,detail,Lecia,A condition?
 English,scene_fate_chr333_ep1,detail,Monika,Yes. We must limit our pursuit to within the boundaries of the Phantagrande Skydom.
 English,scene_fate_chr333_ep1,detail,,Lecia and Monika consider the motivations behind the request.
-English,scene_fate_chr333_ep1,detail,Lecia,In other words someone's trying to chase [Djeeta]'s crew out of Phantagrande?
+English,scene_fate_chr333_ep1,detail,Lecia,In other words someone's trying to chase [플레이어]'s crew out of Phantagrande?
 English,scene_fate_chr333_ep1,detail,Monika,Or perhaps someone is trying to lead the captain and crew out into another skydom.
 English,scene_fate_chr333_ep1,detail,,Monika straightens her posture.
 English,scene_fate_chr333_ep1,detail,Monika,"This... isn't the only reason I called you back here, Lecia."
@@ -150,7 +150,7 @@ English,scene_fate_chr333_ep1,detail,,Monika pats Lecia on the shoulder and leav
 English,scene_fate_chr333_ep1,detail,Lecia,...
 English,scene_fate_chr333_ep1,detail,Lecia,I should get some fresh air.
 English,scene_fate_chr333_ep1,detail,Lecia,It's been a long time since I got to take a walk like this.
-English,scene_fate_chr333_ep1,detail,Lecia,(I wonder where [Djeeta] and the others are right now...)
+English,scene_fate_chr333_ep1,detail,Lecia,(I wonder where [플레이어] and the others are right now...)
 English,scene_fate_chr333_ep1,detail,Lecia,(I ended up leaving the crew without ever having the chance to tell them what Father's journal said about Lyria and Vyrn...)
 English,scene_fate_chr333_ep1,detail,Lecia,(What if that ends up impeding their journey?)
 English,scene_fate_chr333_ep1,detail,Lecia,Sigh.
@@ -168,13 +168,13 @@ English,scene_fate_chr333_ep1,detail,Lecia,Okay then.
 English,scene_fate_chr333_ep1,detail,,Lecia slaps herself lightly on the cheeks to fire herself up.
 English,scene_fate_chr333_ep1,detail,Lecia,I have to stop worrying so much and just do the best job I can.
 English,scene_fate_chr333_ep1,detail,Lecia,"I can't let Father, Monika, and everyone in the Fourth Fleet down."
-English,scene_fate_chr333_ep1,detail,Lecia,And if I ever end up travelling with [Djeeta] and the others again...
+English,scene_fate_chr333_ep1,detail,Lecia,And if I ever end up travelling with [플레이어] and the others again...
 English,scene_fate_chr333_ep1,detail,Lecia,I want to be able to help them even more than I did before.
 English,scene_fate_chr333_ep1,detail,Lecia,That means I have a lot of growing up to do.
 English,scene_fate_chr333_ep1,detail,Lecia,Right. Time to get started.
 English,scene_fate_chr333_ep1,detail,,"Despite her doubts, Lecia steels herself for the responsibilities of acting captain."
 English,scene_fate_chr333_ep1,detail,,She hopes this experience will push her to grow and excel as a skyfarer. After all she might just return to the Grandcypher one day...
-English,scene_chr333_q1_s10,synopsis,,"Swamped with work as Acting Captain of the Crew of Enforcers, Lecia wistfully remembers her time traveling with [Djeeta] and friends. Among the stacks of paperwork is a request to attend an Enforcer banquet, which Lecia accepts."
+English,scene_chr333_q1_s10,synopsis,,"Swamped with work as Acting Captain of the Crew of Enforcers, Lecia wistfully remembers her time traveling with [플레이어] and friends. Among the stacks of paperwork is a request to attend an Enforcer banquet, which Lecia accepts."
 English,scene_chr333_q1_s10,detail,,"Lecia has been assigned to serve as acting captain of the Crew of Enforcers by her father, the Blue Knight."
 English,scene_chr333_q1_s10,detail,,"She finds herself busy enough serving as captain of her subordinates, let alone the entire Crew of Enforcers, and the added work has her at wits' end."
 English,scene_chr333_q1_s10,detail,Lecia,"Okay. These papers need to be ready for tomorrow, and—<br>Ah! I forgot! This batch needs to be squared up by the end of the day!"
@@ -191,7 +191,7 @@ English,scene_chr333_q1_s10,detail,Lecia,"I don't know what I'd do without you, 
 English,scene_chr333_q1_s10,detail,Monika,You're a lot better at this than when you first started though. That's what matters.
 English,scene_chr333_q1_s10,detail,Lecia,Heheh. You're absolutely right. There was a mountain of papers on this desk not too long ago.
 English,scene_chr333_q1_s10,detail,Lecia,"I'm finally getting used to being acting captain, it seems."
-English,scene_chr333_q1_s10,detail,Lecia,(The days I spent travelling with [Djeeta] feels like a lifetime ago...)
+English,scene_chr333_q1_s10,detail,Lecia,(The days I spent travelling with [플레이어] feels like a lifetime ago...)
 English,scene_chr333_q1_s10,detail,Lecia,(Thinking back to those days of adventure almost feels like reliving a dream...)
 English,scene_chr333_q1_s10,detail,,Lecia wraps up her paperwork while waxing nostalgic about her skyfarer days.
 English,scene_chr333_q1_s10,detail,Lecia,Hm? What's this?

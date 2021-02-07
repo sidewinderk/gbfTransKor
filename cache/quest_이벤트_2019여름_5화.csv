@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_evt190627_cp5_q1_s10,7428511",synopsis,,[ジータ]一行のいる浜辺に、続々と襲来する羽の生えたサメ達。応戦する[ジータ]一行のもとにアウギュステ区長が現れ、観光客達に向かって、区役所に避難するよう呼びかける。サンダルフォンの提案により、[ジータ]達は観光客を先導して避難させることになり、サンダルフォンはひとり浜辺に残りサメを食い止めようとするのだった。,"[지타] 일행이 있는 해변에 계속해서 내습하는 날개달린 상어들. 맞서 싸우는 [지타] 일행에게 아우규스테 구장이 나타나, 관광객들을 향해 구청으로 피난을 알린다. 산달폰의 제안에 따라, [지타] 일행은 관광객들을 선도하여 대피시키게 되어, 산달폰은 혼자 해변에 남아 상어를 저지하는 것이었다."
+Japanese,"scene_evt190627_cp5_q1_s10,7428511",synopsis,,[플레이어]一行のいる浜辺に、続々と襲来する羽の生えたサメ達。応戦する[플레이어]一行のもとにアウギュステ区長が現れ、観光客達に向かって、区役所に避難するよう呼びかける。サンダルフォンの提案により、[플레이어]達は観光客を先導して避難させることになり、サンダルフォンはひとり浜辺に残りサメを食い止めようとするのだった。,"[플레이어] 일행이 있는 해변에 계속해서 내습하는 날개달린 상어들. 맞서 싸우는 [플레이어] 일행에게 아우규스테 구장이 나타나, 관광객들을 향해 구청으로 피난을 알린다. 산달폰의 제안에 따라, [플레이어] 일행은 관광객들을 선도하여 대피시키게 되어, 산달폰은 혼자 해변에 남아 상어를 저지하는 것이었다."
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상어,<span class='scene-font-4'>ShaShaSharrrk！</span>,<span class='scene-font-4'>ShaShaSharrrk！</span>
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상점 점원,<span class='scene-font-4'>うわぁぁぁ！</span><br>あっちにもこっちにも飛んで来たぞ！？,<span class='scene-font-4'>으아아악!</span> 여기저기에서 날아오고 있어!
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,레스토랑 점원,ぎゃあぁぁぁ……！<br>俺の海パンを返せえええ！？,으아아아! 내 수영복 돌려줘!!
@@ -29,11 +29,11 @@ Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,구장,皆さん！<br>ご�
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상어 헌터,区役所を開放するのか。<br>いい判断だが誘導は間に合ってるのか？,구청을 개방하는 건가. 좋은 판단이지만 제때에 피난시킬 수 있을까?
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,구장,正直に言えば準備は不完全だ……<br>職員達が避難勧告に回っているが、<br>この状況にどこまで対応できるか。,솔직히 말하자면 준비가 불완전하다. 직원들을 피난 유도하라고 내보냈지만 이 상황에서 어디까지 대응 가능할지는...
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상어 헌터,なるほど……<br>小型とはいえ奴等は第一級の害獣だ。<br>職員は必ず傭兵と一緒に行動させろ。,알겠어... 소형이라고는 하지만 놈들은 제1급 유해 생물이다. 직원들은 반드시 헌병과 함께 행동시켜.
-Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상어 헌터,[ジータ]達。<br>ここの観光客の誘導を頼めるか？,"[지타], 너희들은 여기 관광객들의 피난유도를 맡아줄 수 있겠나?"
+Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상어 헌터,[플레이어]達。<br>ここの観光客の誘導を頼めるか？,"[플레이어], 너희들은 여기 관광객들의 피난유도를 맡아줄 수 있겠나?"
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,비이,任せろ！<br>区役所まで案内すりゃあいいんだろ？,우리한테 맡겨! 구청까지 안내해 주면 되는 거지?
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,구장,ありがとう！<br>あの災厄を救った皆さんの力をどうか！,고맙네! 그 재액을 막아낸 여러분의 힘을 부디 빌리고 싶군!
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,…………,…………
-Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,[ジータ]。<br>君が人間達の先導を。<br>俺は残り殿を務める。,[지타]. 네가 인간들의 유도를 맡아라. 나는 후방을 맡겠다.
+Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,[플레이어]。<br>君が人間達の先導を。<br>俺は残り殿を務める。,[플레이어]. 네가 인간들의 유도를 맡아라. 나는 후방을 맡겠다.
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,루리아,しんがり……？<br>まさかサンダルフォンさん……,후방이요...? 설마 산달폰 씨...
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,自分を虐めるつもりはないよ。<br>シンプルに俺が最も機動力を有する。,자기학대를 하려는 건 아냐. 심플하게 내가 가장 기동력이 뛰어날 뿐이지.
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,비이,まぁ確かに……<br>でもヤバイ時は合図とか出せよ？<br>オイラが飛んで来るぜ！,뭐 그건 그렇네... 그치만 위험할 때는 신호 보내야 된다? 우리가 날아갈게!
@@ -41,7 +41,7 @@ Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,루리아,私も飛んで�
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,フ……<br>了解だ。<br>では作戦を開始するぞ！,훗... 알았다. 그럼 작전을 시작하지!
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,구장,本当に助かります。<br>だが無理はせず自分の身の安全も──,정말 감사합니다. 하지만 무리하지 말고 자기 몸의 안전도...
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,구장,うん……？<br>その顔はどこかで……？,음...? 그 얼굴은 어디서 본 것 같은데...?
-Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,ここは直に戦場になる。<br>[ジータ]達について行動を。,여기는 곧 전장이 될 거다. 단장 일행과 함께 행동해라.
+Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,ここは直に戦場になる。<br>[플레이어]達について行動を。,여기는 곧 전장이 될 거다. 단장 일행과 함께 행동해라.
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,구장,……わかった。,...알았다.
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,산달폰,…………,…………
 Japanese,"scene_evt190627_cp5_q1_s10,7428511",detail,상어,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
@@ -112,7 +112,7 @@ Japanese,"scene_evt190627_cp5_q2_s10,7428521",detail,해양학자,マーティ�
 Japanese,"scene_evt190627_cp5_q2_s10,7428521",detail,상어 헌터,エレン……！,엘렌...!
 Japanese,"scene_evt190627_cp5_q2_s10,7428521",detail,아즈라엘,ちゅうちゅう。,쪽쪽~~
 Japanese,"scene_evt190627_cp5_q2_s10,7428521",detail,마스터,フ……<br>最高にアツイぜ、おふたりさん。,"후... 두 분, 최고로 뜨겁군."
-Japanese,"scene_evt190627_cp5_q3_s10,7428531",synopsis,,[ジータ]一行とハールート達が合流した頃、浜辺の洞窟では、サリエルがブルースを匿い怪我の様子を見ていた。そこにルシオが現れる。ルシオから、サリエルの探す次元の狭間は簡単に見つからないと告げられるも、諦める様子のないサリエル。そんな中、突如サメ達が洞窟に現れる。サメ達に共闘に誘われたブルースだったが、ブルースは突然変異してサメ達を薙ぎ払うのだった。,"[지타] 일행과 하루트 일행이 합류했을 무렵, 해변의 동굴에서는 사리엘이 브루스를 숨겨 상처를 치료해주고 있었다. 거기에 루시오가 나타난다. 루시오로부터 사리엘이 찾는 차원의 틈새는 간단하게 찾을 수 없다고 들어도, 포기하지 않는 모습을 보이는 사리엘. 그러던 중, 갑자기 상어 들이 동굴에 나타난다. 상어들은 브루스에게 함께 싸우자고 요청했지만, 브루스는 갑자기 상어들을 베어 넘기는 것이었다."
+Japanese,"scene_evt190627_cp5_q3_s10,7428531",synopsis,,[플레이어]一行とハールート達が合流した頃、浜辺の洞窟では、サリエルがブルースを匿い怪我の様子を見ていた。そこにルシオが現れる。ルシオから、サリエルの探す次元の狭間は簡単に見つからないと告げられるも、諦める様子のないサリエル。そんな中、突如サメ達が洞窟に現れる。サメ達に共闘に誘われたブルースだったが、ブルースは突然変異してサメ達を薙ぎ払うのだった。,"[플레이어] 일행과 하루트 일행이 합류했을 무렵, 해변의 동굴에서는 사리엘이 브루스를 숨겨 상처를 치료해주고 있었다. 거기에 루시오가 나타난다. 루시오로부터 사리엘이 찾는 차원의 틈새는 간단하게 찾을 수 없다고 들어도, 포기하지 않는 모습을 보이는 사리엘. 그러던 중, 갑자기 상어 들이 동굴에 나타난다. 상어들은 브루스에게 함께 싸우자고 요청했지만, 브루스는 갑자기 상어들을 베어 넘기는 것이었다."
 Japanese,"scene_evt190627_cp5_q3_s10,7428531",detail,,<span class='scene-font-katari'>一行が合流を果たす頃、</span><br><span class='scene-font-katari'>浜辺の洞窟にはサリエルが佇んでいた。</span>,"<span class='scene-font-katari'>일행이 합류했을 즈음, 사리엘은 해변의 동굴에 서 있었다.</span>"
 Japanese,"scene_evt190627_cp5_q3_s10,7428531",detail,,<span class='scene-font-katari'>その側には彼に身を寄せるように、</span><br><span class='scene-font-katari'>水際で横たわる海洋生物の姿もあった。</span>,<span class='scene-font-katari'>그 곁에는 그에게 몸을 맡기듯이 물가에 드러누운 해양생물의 모습도 보였다.</span>
 Japanese,"scene_evt190627_cp5_q3_s10,7428531",detail,브루스,Sharrrk……,Sharrrk……
@@ -194,7 +194,7 @@ Japanese,"scene_evt190627_cp5_q4_s10,7428541",detail,식당가 상인,あ、あ�
 Japanese,"scene_evt190627_cp5_q4_s10,7428541",detail,상어,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>,<span class='scene-font-4'>Shark！ Shark！ Shark！</span>
 Japanese,"scene_evt190627_cp5_q4_s10,7428541",detail,산달폰,来い……<br>俺を狙え。<br>俺の血を嗅いで集まって来い。,와라... 날 노려. 내 피 냄새를 맡고 모여들어라.
 Japanese,"scene_evt190627_cp5_q4_s10,7428541",detail,산달폰,<span class='scene-font-4'>この空は俺達が守る──</span>,<span class='scene-font-4'>이 하늘은 우리가 지킨다!</span>
-English,"scene_evt190627_cp5_q1_s10,7428511",synopsis,,"A steady stream of winged sharks attacks the beach. The district chief appears and orders beachgoers to evacuate to city hall. At Sandalphon's suggestion, [Djeeta] and the others guide the tourists to safety while the supreme primarch remains on the beach to fend off sharks."
+English,"scene_evt190627_cp5_q1_s10,7428511",synopsis,,"A steady stream of winged sharks attacks the beach. The district chief appears and orders beachgoers to evacuate to city hall. At Sandalphon's suggestion, [플레이어] and the others guide the tourists to safety while the supreme primarch remains on the beach to fend off sharks."
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shark,Sha-shasharrrk!
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shop Staff,"Whooa! They're flying in from here, there, and everywhere!"
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Waiter,Aaaah! Gimme back my mankini!
@@ -224,11 +224,11 @@ English,"scene_evt190627_cp5_q1_s10,7428511",detail,District Chief,Everyone! I'm
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shark Hunter,"You're opening up city hall then? Good thinking, but is there enough time to lead everyone there?"
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,District Chief,"Frankly speaking, no... Staff members are relaying the evacuation order, but... there's only so much we can do in these conditions."
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shark Hunter,"I see... Those sharks might be small, but they're dangerous creatures. Make sure each staff member has an agent accompanying them."
-English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shark Hunter,"[Djeeta], could you help relay the evacuation notice to the people on the beach?"
+English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shark Hunter,"[플레이어], could you help relay the evacuation notice to the people on the beach?"
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Vyrn,"We got it! All we need to do is show 'em the way to city hall, right?"
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,District Chief,"Thanks! You saved us during the cataclysms, so I know you've got this!"
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,...
-English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,"[Djeeta], you lead the mortals. I'll bring up the rear."
+English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,"[플레이어], you lead the mortals. I'll bring up the rear."
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Lyria,"Bring up the rear? Sandalphon, you don't mean to say that..."
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,This isn't some sort of self-flagellation. My mobility simply makes me best suited for the task.
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Vyrn,I guess that's true... Give us some sort of signal if something happens. I'll fly right there!
@@ -236,7 +236,7 @@ English,"scene_evt190627_cp5_q1_s10,7428511",detail,Lyria,I'll fly there too!
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,Heh... Understood. Let's move out!
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,District Chief,You don't know what a help you are. But please don't neglect your own safety.
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,District Chief,Hm? You look familiar. Do I know you from somewhere?
-English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,This will be a war zone momentarily. Follow [Djeeta] and the others.
+English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,This will be a war zone momentarily. Follow [플레이어] and the others.
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,District Chief,All right.
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Sandalphon,...
 English,"scene_evt190627_cp5_q1_s10,7428511",detail,Shark,Sharrrk!
@@ -307,7 +307,7 @@ English,"scene_evt190627_cp5_q2_s10,7428521",detail,Oceanographer,Martin!
 English,"scene_evt190627_cp5_q2_s10,7428521",detail,Shark Hunter,Ellen!
 English,"scene_evt190627_cp5_q2_s10,7428521",detail,Azrael,"Kissy, kissy."
 English,"scene_evt190627_cp5_q2_s10,7428521",detail,Barkeeper,"Heh... You two can't keep your hands off each other, huh?"
-English,"scene_evt190627_cp5_q3_s10,7428531",synopsis,,"Around the time that [Djeeta], Halluel, and the others reassemble, Sariel is hiding Old Bruce in a cave and tending to his wounds. Lucio appears and tells Sariel that finding a dimensional rift will be no simple matter, but that doesn't deter Sariel. Sharks then appear in the cave, after which Old Bruce mutates and mows them down."
+English,"scene_evt190627_cp5_q3_s10,7428531",synopsis,,"Around the time that [플레이어], Halluel, and the others reassemble, Sariel is hiding Old Bruce in a cave and tending to his wounds. Lucio appears and tells Sariel that finding a dimensional rift will be no simple matter, but that doesn't deter Sariel. Sharks then appear in the cave, after which Old Bruce mutates and mows them down."
 English,"scene_evt190627_cp5_q3_s10,7428531",detail,,"Around the time when other party members reunite, Sariel is sitting in a beachside cave."
 English,"scene_evt190627_cp5_q3_s10,7428531",detail,,A marine creature is lying at the water's edge as if to be near him.
 English,"scene_evt190627_cp5_q3_s10,7428531",detail,Old Bruce,Sharrrk...

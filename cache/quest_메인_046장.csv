@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp46_q1_s10,4611",synopsis,,島の村を目指し、[ジータ]一行は魔物を倒しながら山中を進む。カタリナが、この島の魔物達は何かを守ろうとしているようだと口にすると、それを聞いたルリアは、この島には星晶獣とはまた違った、古く強い力を感じると言う。
-Japanese,"scene_cp46_q1_s10,4611",detail,,<span class='scene-font-katari'>島の中心にある村を目指し、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>魔物の出現する外縁部の山を進んでいく。</span>
+Japanese,"scene_cp46_q1_s10,4611",synopsis,,島の村を目指し、[플레이어]一行は魔物を倒しながら山中を進む。カタリナが、この島の魔物達は何かを守ろうとしているようだと口にすると、それを聞いたルリアは、この島には星晶獣とはまた違った、古く強い力を感じると言う。
+Japanese,"scene_cp46_q1_s10,4611",detail,,<span class='scene-font-katari'>島の中心にある村を目指し、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>魔物の出現する外縁部の山を進んでいく。</span>
 Japanese,"scene_cp46_q1_s10,4611",detail,카타리나,はあぁぁぁっ！！
 Japanese,"scene_cp46_q1_s10,4611",detail,마물,グオォォォ……
 Japanese,"scene_cp46_q1_s10,4611",detail,카타리나,ふぅ……<br>のどかな島のようだが、<br>やはり山には魔物が出るのだな。
@@ -24,16 +24,16 @@ Japanese,"scene_cp46_q1_s20,4612",detail,비이,けどよぅ……<br>オイラ�
 Japanese,"scene_cp46_q1_s20,4612",detail,마물,グオオォォッ！！
 Japanese,"scene_cp46_q1_s20,4612",detail,오이겐,おっと、悪ぃな。<br>話の続きは、こいつを片づけてからだ！
 Japanese,"scene_cp46_q1_s20,4612",detail,비이,…………
-Japanese,"scene_cp46_q2_s10,4621",synopsis,,[ジータ]達はとうとう村にたどり着く。村人はビィ達の帰還を懐かしみ、一行を心から歓迎する。しかしその前に一行は、ビィの封印された能力の手がかりがありそうな[ジータ]の家へと向かう。一見何の変哲もない家屋だったが、カタリナは言い知れない違和感を抱くのだった。
-Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>外縁を囲む山脈を越え、</span><br><span class='scene-font-katari'>[ジータ]とビィが育った村へ</span><br><span class='scene-font-katari'>たどり着く一行。</span>
-Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>村人達は[ジータ]とビィを見るなり、</span><br><span class='scene-font-katari'>波のように押し寄せ、</span><br><span class='scene-font-katari'>騎空士の帰還を喜んだ。</span>
+Japanese,"scene_cp46_q2_s10,4621",synopsis,,[플레이어]達はとうとう村にたどり着く。村人はビィ達の帰還を懐かしみ、一行を心から歓迎する。しかしその前に一行は、ビィの封印された能力の手がかりがありそうな[플레이어]の家へと向かう。一見何の変哲もない家屋だったが、カタリナは言い知れない違和感を抱くのだった。
+Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>外縁を囲む山脈を越え、</span><br><span class='scene-font-katari'>[플레이어]とビィが育った村へ</span><br><span class='scene-font-katari'>たどり着く一行。</span>
+Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>村人達は[플레이어]とビィを見るなり、</span><br><span class='scene-font-katari'>波のように押し寄せ、</span><br><span class='scene-font-katari'>騎空士の帰還を喜んだ。</span>
 Japanese,"scene_cp46_q2_s10,4621",detail,村人,よく戻ったなぁ！<br>長いことロクに連絡もよこさねぇで……
 Japanese,"scene_cp46_q2_s10,4621",detail,村人,村があんな状態の時に出て行ったから<br>心配してたけど……<br>立派にやってるようで何よりだよ。
 Japanese,"scene_cp46_q2_s10,4621",detail,村人,まぁ、あの親父さんの子供だからな。<br>島に留まってるより、<br>旅をしてるほうが合ってるのかもな。
 Japanese,"scene_cp46_q2_s10,4621",detail,村人,ビィちゃんは変わらないねぇ……<br>島を出た時より、<br>ちょっとトカゲっぽくなったかい？
 Japanese,"scene_cp46_q2_s10,4621",detail,비이,だから、<br>オイラはトカゲじゃねーっての！
 Japanese,"scene_cp46_q2_s10,4621",detail,村人,はっはっは！ それだよ、それ！<br>やっぱりビィちゃんは<br>変わらないもんだね。
-Japanese,"scene_cp46_q2_s10,4621",detail,카타리나,[ジータ]は、<br>こんなにも村の住人達から<br>慕われていたのだな……
+Japanese,"scene_cp46_q2_s10,4621",detail,카타리나,[플레이어]は、<br>こんなにも村の住人達から<br>慕われていたのだな……
 Japanese,"scene_cp46_q2_s10,4621",detail,카타리나,それを私が巻き込んで……<br>無理やり島から<br>連れ出してしまって……
 Japanese,"scene_cp46_q2_s10,4621",sel1_txt,,<span class='scene-font-katari'>カタリナには感謝してる</span>
 Japanese,"scene_cp46_q2_s10,4621",sel2_txt,,<span class='scene-font-katari'>悪いのは帝国</span>
@@ -47,19 +47,19 @@ Japanese,"scene_cp46_q2_s10,4621",detail,リーシャ,あ、いえ、その…�
 Japanese,"scene_cp46_q2_s10,4621",detail,라캄,ま、こういう歓迎を、<br>無下に断るってのも、<br>失礼ってもんじゃねぇのか？
 Japanese,"scene_cp46_q2_s10,4621",detail,이오,あっ！<br>ねぇねぇ、それなら先に、<br>ビィ達のお家だけ見せてもらいましょ？
 Japanese,"scene_cp46_q2_s10,4621",detail,이오,もしかしたら、<br>何か封印に関する手がかりが<br>あるかもしれないじゃない。
-Japanese,"scene_cp46_q2_s10,4621",detail,비이,オイラと[ジータ]の家に？<br>うーん……<br>ちょっと思い当たらねぇけど……
+Japanese,"scene_cp46_q2_s10,4621",detail,비이,オイラと[플레이어]の家に？<br>うーん……<br>ちょっと思い当たらねぇけど……
 Japanese,"scene_cp46_q2_s10,4621",detail,이오,そーいうのは、<br>意外と当事者は気付かないもんなの！<br>さ、案内してちょーだい！
-Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>[ジータ]を先頭に</span><br><span class='scene-font-katari'>一行は[ジータ]が</span><br><span class='scene-font-katari'>生まれ育った家へと足を向ける。</span>
-Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>しかし、何の変哲もない</span><br><span class='scene-font-katari'>[ジータ]の家にカタリナは、</span><br><span class='scene-font-katari'>僅かな違和感を感じるのだった。</span>
-Japanese,"scene_cp46_q3_s10,4631",synopsis,,カタリナの違和感は的中する。[ジータ]の家の中にはオルキスをよく知る人物が二人、一行を待ち構えていた。一人は星の民の生き残りにしてエルステ帝国初代皇帝を名乗るロキ、もう一人はロキにペットと呼ばれる星晶獣のフェンリルだった。ロキは空腹に苛立つフェンリルをけしかけ、突如、村人達を襲わせる。
+Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>[플레이어]を先頭に</span><br><span class='scene-font-katari'>一行は[플레이어]が</span><br><span class='scene-font-katari'>生まれ育った家へと足を向ける。</span>
+Japanese,"scene_cp46_q2_s10,4621",detail,,<span class='scene-font-katari'>しかし、何の変哲もない</span><br><span class='scene-font-katari'>[플레이어]の家にカタリナは、</span><br><span class='scene-font-katari'>僅かな違和感を感じるのだった。</span>
+Japanese,"scene_cp46_q3_s10,4631",synopsis,,カタリナの違和感は的中する。[플레이어]の家の中にはオルキスをよく知る人物が二人、一行を待ち構えていた。一人は星の民の生き残りにしてエルステ帝国初代皇帝を名乗るロキ、もう一人はロキにペットと呼ばれる星晶獣のフェンリルだった。ロキは空腹に苛立つフェンリルをけしかけ、突如、村人達を襲わせる。
 Japanese,"scene_cp46_q3_s10,4631",detail,카타리나,待て……<br>何か様子がおかしい……
-Japanese,"scene_cp46_q3_s10,4631",detail,,<span class='scene-font-katari'>ビィの封印に関する手がかりを得るため</span><br><span class='scene-font-katari'>[ジータ]の家へと足を向けた一行を、</span><br><span class='scene-font-katari'>カタリナは制止する。</span>
+Japanese,"scene_cp46_q3_s10,4631",detail,,<span class='scene-font-katari'>ビィの封印に関する手がかりを得るため</span><br><span class='scene-font-katari'>[플레이어]の家へと足を向けた一行を、</span><br><span class='scene-font-katari'>カタリナは制止する。</span>
 Japanese,"scene_cp46_q3_s10,4631",detail,라캄,なんだよ？<br>様子がおかしいって……<br>別に普通の家だろ？
 Japanese,"scene_cp46_q3_s10,4631",detail,카타리나,家はな。<br>しかし……中から人の気配がする。
 Japanese,"scene_cp46_q3_s10,4631",detail,비이,っ！？<br>嘘だろ！？<br>オイラ達以外に、誰が……
 Japanese,"scene_cp46_q3_s10,4631",detail,비이,まさか親父さんが……！？<br>帰って来てるのか！？
 Japanese,"scene_cp46_q3_s10,4631",detail,카타리나,ビィ君！？<br>待つんだビィ君っ！！
-Japanese,"scene_cp46_q3_s10,4631",detail,,<span class='scene-font-katari'>カタリナの制止も聞かず、</span><br><span class='scene-font-katari'>ビィは[ジータ]の家へと飛び込む。</span>
+Japanese,"scene_cp46_q3_s10,4631",detail,,<span class='scene-font-katari'>カタリナの制止も聞かず、</span><br><span class='scene-font-katari'>ビィは[플레이어]の家へと飛び込む。</span>
 Japanese,"scene_cp46_q3_s10,4631",detail,,<span class='scene-font-katari'>しかし、そこでビィを迎えたのは、</span><br><span class='scene-font-katari'>思いもよらない人物だった。</span>
 Japanese,"scene_cp46_q3_s10,4631",detail,？？？,やぁ、トカゲ君。<br>お邪魔してるよ。
 Japanese,"scene_cp46_q3_s10,4631",detail,비이,お前っ……！？
@@ -103,9 +103,9 @@ Japanese,"scene_cp46_q3_s10,4631",detail,카타리나,いまのは……！？
 Japanese,"scene_cp46_q3_s10,4631",detail,ロキ,ふふ……<br>フェンリルが食事を始めたみたいだね。
 Japanese,"scene_cp46_q3_s10,4631",detail,ロキ,おっと……<br>礼儀正しくするように、と<br>言い忘れちゃったな……
 Japanese,"scene_cp46_q3_s10,4631",detail,오이겐,お、おいおいおい……<br>このガキ……<br>どういう神経してんだ……？
-Japanese,"scene_cp46_q3_s10,4631",detail,라캄,とにかくやべぇ！<br>すぐに村の奴らを助けるぞ！<br>[ジータ]！
-Japanese,"scene_cp46_q4_s10,4641",synopsis,,人を食らうことしか興味のないフェンリルと、[ジータ]達の敵であることを早々に宣誓し、その争いに愉悦を見いだすロキ。二人の狂気じみた雰囲気に苛立つ[ジータ]達は一丸となってこれに立ち向かう。
-Japanese,"scene_cp46_q4_s10,4641",detail,,<span class='scene-font-katari'>[ジータ]一行は村人達を庇い、</span><br><span class='scene-font-katari'>星晶獣フェンリルと相対する。</span>
+Japanese,"scene_cp46_q3_s10,4631",detail,라캄,とにかくやべぇ！<br>すぐに村の奴らを助けるぞ！<br>[플레이어]！
+Japanese,"scene_cp46_q4_s10,4641",synopsis,,人を食らうことしか興味のないフェンリルと、[플레이어]達の敵であることを早々に宣誓し、その争いに愉悦を見いだすロキ。二人の狂気じみた雰囲気に苛立つ[플레이어]達は一丸となってこれに立ち向かう。
+Japanese,"scene_cp46_q4_s10,4641",detail,,<span class='scene-font-katari'>[플레이어]一行は村人達を庇い、</span><br><span class='scene-font-katari'>星晶獣フェンリルと相対する。</span>
 Japanese,"scene_cp46_q4_s10,4641",detail,フェンリル,ちっ……<br>邪魔するってんなら、<br>テメェから喰ってやろうか！？
 Japanese,"scene_cp46_q4_s10,4641",detail,카타리나,何を言われようと、<br>この場を譲る気はない……
 Japanese,"scene_cp46_q4_s10,4641",detail,フェンリル,そうかよ……<br>じゃあ、テメェが今夜の前菜だ！！
@@ -127,8 +127,8 @@ Japanese,"scene_cp46_q4_s10,4641",detail,ロキ,フェンリル……<br>君に�
 Japanese,"scene_cp46_q4_s10,4641",detail,フェンリル,けっ……<br>いいんだよ、そういうのは。<br>そういうのは、ロキ……テメェの分担だ。
 Japanese,"scene_cp46_q4_s10,4641",detail,フェンリル,オレは腹いっぱいになりゃ、<br>それでいい……
 Japanese,"scene_cp46_q4_s10,4641",detail,フェンリル,今度こそ、<br>テメェらの喉笛、喰いちぎってやる！！
-Japanese,"scene_cp46_q4_s30,4642",synopsis,,[ジータ]達はフェンリルとの激闘の末、勝利を収める。しかしフェンリルは力に制限を加えられていた。ロキは余裕の笑みを浮かべ、いくらかの忠告を口にすると、フェンリルをつれて去って行く。[ジータ]達は新たな脅威の出現に戦慄する。
-Japanese,"scene_cp46_q4_s30,4642",detail,,<span class='scene-font-katari'>ロキ、フェンリルとの激戦を制する</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp46_q4_s30,4642",synopsis,,[플레이어]達はフェンリルとの激闘の末、勝利を収める。しかしフェンリルは力に制限を加えられていた。ロキは余裕の笑みを浮かべ、いくらかの忠告を口にすると、フェンリルをつれて去って行く。[플레이어]達は新たな脅威の出現に戦慄する。
+Japanese,"scene_cp46_q4_s30,4642",detail,,<span class='scene-font-katari'>ロキ、フェンリルとの激戦を制する</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp46_q4_s30,4642",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>フェンリルに怯んだ様子は無く、</span><br><span class='scene-font-katari'>ただ悪態を吐いていた。</span>
 Japanese,"scene_cp46_q4_s30,4642",detail,フェンリル,ロキ！<br>やっぱ邪魔だ！ この鎖、外せ！
 Japanese,"scene_cp46_q4_s30,4642",detail,ロキ,駄目だよ、フェンリル。<br>それは必要なものなんだから。
@@ -147,10 +147,10 @@ Japanese,"scene_cp46_q4_s30,4642",detail,リーシャ,挨拶と宣誓……<br>�
 Japanese,"scene_cp46_q4_s30,4642",detail,오이겐,星の民がエルステ帝国の皇帝、か……<br>やれやれ……<br>とんでもねぇことになっちまったな。
 Japanese,"scene_cp46_q4_s30,4642",detail,카타리나,奴は執拗に、<br>私達の敵であると言っていたな。
 Japanese,"scene_cp46_q4_s30,4642",detail,카타리나,ということは恐らく……<br>これが奴との最後の邂逅、<br>ということもないのだろうな……
-Japanese,"scene_cp46_q4_s30,4642",detail,,<span class='scene-font-katari'>新たな脅威の出現に戦慄する</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp46_q4_s30,4642",detail,,<span class='scene-font-katari'>新たな脅威の出現に戦慄する</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp46_q4_s30,4642",detail,,<span class='scene-font-katari'>空と星の歴史が育んだ禍根は、</span><br><span class='scene-font-katari'>あまりに大きな壁として、</span><br><span class='scene-font-katari'>一行の前に立ち塞がるのだった。</span>
-English,"scene_cp46_q1_s10,4611",synopsis,,"As [Djeeta] and company fight through monsters on their the way to the village, Katalina realizes that the monsters appear to be defending something—something that Lyria describes as an old and powerful force."
-English,"scene_cp46_q1_s10,4611",detail,,"Setting out for the village in the center of the island, [Djeeta] and the others proceed through the monster-infested mountains."
+English,"scene_cp46_q1_s10,4611",synopsis,,"As [플레이어] and company fight through monsters on their the way to the village, Katalina realizes that the monsters appear to be defending something—something that Lyria describes as an old and powerful force."
+English,"scene_cp46_q1_s10,4611",detail,,"Setting out for the village in the center of the island, [플레이어] and the others proceed through the monster-infested mountains."
 English,"scene_cp46_q1_s10,4611",detail,Katalina,Hyaaah!
 English,"scene_cp46_q1_s10,4611",detail,Monster,Graaagh!
 English,"scene_cp46_q1_s10,4611",detail,Katalina,"Phew! This island looks like a pleasant enough place, but there are monsters everywhere—even up here in the mountains."
@@ -174,16 +174,16 @@ English,"scene_cp46_q1_s20,4612",detail,Vyrn,"Actually, guys, look... There's so
 English,"scene_cp46_q1_s20,4612",detail,Monster,Groooar!
 English,"scene_cp46_q1_s20,4612",detail,Eugen,Hold that thought! We can talk once this fight is over!
 English,"scene_cp46_q1_s20,4612",detail,Vyrn,...
-English,"scene_cp46_q2_s10,4621",synopsis,,"The villagers are extremely happy to see one of their own return and welcome the whole group with open arms. However, before any celebration can commence, the party heads to [Djeeta]'s old house to look for clues about the seal on Vyrn's powers."
-English,"scene_cp46_q2_s10,4621",detail,,The party crosses the mountains and finally reaches the village where [Djeeta] and Vyrn were raised.
-English,"scene_cp46_q2_s10,4621",detail,,"As soon as the villagers see [Djeeta] and Vyrn, they surge forward in a wave, overjoyed at the return of the skyfarers."
+English,"scene_cp46_q2_s10,4621",synopsis,,"The villagers are extremely happy to see one of their own return and welcome the whole group with open arms. However, before any celebration can commence, the party heads to [플레이어]'s old house to look for clues about the seal on Vyrn's powers."
+English,"scene_cp46_q2_s10,4621",detail,,The party crosses the mountains and finally reaches the village where [플레이어] and Vyrn were raised.
+English,"scene_cp46_q2_s10,4621",detail,,"As soon as the villagers see [플레이어] and Vyrn, they surge forward in a wave, overjoyed at the return of the skyfarers."
 English,"scene_cp46_q2_s10,4621",detail,Villager,Welcome back! We haven't heard anything from you for so long...
 English,"scene_cp46_q2_s10,4621",detail,Villager,"Considering how things were when you left, we've all been so worried. But by the looks of things, you've done well under the circumstances."
 English,"scene_cp46_q2_s10,4621",detail,Villager,I should have known you'd take after your father! Adventuring across the skies suits you far more than staying put on this island.
 English,"scene_cp46_q2_s10,4621",detail,Villager,"And Vyrn, you've hardly changed. Although maybe you look a little more lizard-like now?"
 English,"scene_cp46_q2_s10,4621",detail,Vyrn,Not this again! I ain't no lizard!
 English,"scene_cp46_q2_s10,4621",detail,Villager,"Hahaha! Sorry, I'm only teasing you! You're just the same as always."
-English,"scene_cp46_q2_s10,4621",detail,Katalina,"These villagers clearly care for you both so much, [Djeeta]."
+English,"scene_cp46_q2_s10,4621",detail,Katalina,"These villagers clearly care for you both so much, [플레이어]."
 English,"scene_cp46_q2_s10,4621",detail,Katalina,And look what we did... Dragged you into our mess and took you away from all of this.
 English,"scene_cp46_q2_s10,4621",sel1_txt,,"I'm grateful to you, Katalina."
 English,"scene_cp46_q2_s10,4621",sel2_txt,,It's all the empire's fault.
@@ -199,17 +199,17 @@ English,"scene_cp46_q2_s10,4621",detail,Io,Hey! Let's at least take a look at th
 English,"scene_cp46_q2_s10,4621",detail,Io,There might be some clues there about the seal.
 English,"scene_cp46_q2_s10,4621",detail,Vyrn,"What? In our old home? Hmmm, not sure we'll find much there."
 English,"scene_cp46_q2_s10,4621",detail,Io,"Sometimes you just need fresh pairs of eyes on these things! Come on, show us to your house!"
-English,"scene_cp46_q2_s10,4621",detail,,"With [Djeeta] in the lead, the crew heads off toward the house."
-English,"scene_cp46_q2_s10,4621",detail,,"However, Katalina can't help but feel something out of place with [Djeeta]'s seemingly ordinary house."
+English,"scene_cp46_q2_s10,4621",detail,,"With [플레이어] in the lead, the crew heads off toward the house."
+English,"scene_cp46_q2_s10,4621",detail,,"However, Katalina can't help but feel something out of place with [플레이어]'s seemingly ordinary house."
 English,"scene_cp46_q3_s10,4631",synopsis,,"Awaiting inside the house are Loki, claiming to be the emperor of Erste and among the last of the Astrals, and a primal beast called Fenrir. Loki unexpectedly unleashes the hungry Fenrir onto the villagers."
 English,"scene_cp46_q3_s10,4631",detail,Katalina,Hold on. Something's wrong here.
-English,"scene_cp46_q3_s10,4631",detail,,"As the party heads toward [Djeeta]'s house in order to find clues about the seal on Vyrn, Katalina calls them to a halt."
+English,"scene_cp46_q3_s10,4631",detail,,"As the party heads toward [플레이어]'s house in order to find clues about the seal on Vyrn, Katalina calls them to a halt."
 English,"scene_cp46_q3_s10,4631",detail,Rackam,What do you mean? Nothing looks wrong to me. It's just a house!
 English,"scene_cp46_q3_s10,4631",detail,Katalina,"The building, sure. But I sense someone inside."
 English,"scene_cp46_q3_s10,4631",detail,Vyrn,What? Impossible! We're the only ones who've ever lived there!
 English,"scene_cp46_q3_s10,4631",detail,Vyrn,Hold on! Could it be your dad? Has he come back?
 English,"scene_cp46_q3_s10,4631",detail,Katalina,"Vyrn! Hold on, Vyrn!"
-English,"scene_cp46_q3_s10,4631",detail,,"Without heeding Katalina's warning, Vyrn hurries into [Djeeta]'s house."
+English,"scene_cp46_q3_s10,4631",detail,,"Without heeding Katalina's warning, Vyrn hurries into [플레이어]'s house."
 English,"scene_cp46_q3_s10,4631",detail,,Awaiting inside is someone most unexpected.
 English,"scene_cp46_q3_s10,4631",detail,???,"Hello there, little lizard. Sorry I let myself in."
 English,"scene_cp46_q3_s10,4631",detail,Vyrn,The heck?
@@ -253,9 +253,9 @@ English,"scene_cp46_q3_s10,4631",detail,Katalina,What's going on out there!
 English,"scene_cp46_q3_s10,4631",detail,Loki,Heh heh. Fenrir must be <span class='scene-font-italic'>starving</span>.
 English,"scene_cp46_q3_s10,4631",detail,Loki,Whoops... Forgot to tell her to mind her manners while eating.
 English,"scene_cp46_q3_s10,4631",detail,Eugen,H-hey... What's with this kid? He's off his rocker!
-English,"scene_cp46_q3_s10,4631",detail,Rackam,"This is bad! We need to save the villagers, [Djeeta]!"
-English,"scene_cp46_q4_s10,4641",synopsis,,"Fenrir is only interested in eating as many people as she can, and quickly states that he is the enemy of [Djeeta] and the others. Loki seems to extract considerable enjoyment from watching the exchange between them. Angered by the sheer insanity of the pair, [Djeeta] and the others band together to fight them off."
-English,"scene_cp46_q4_s10,4641",detail,,[Djeeta] and the others confronted the primal beast Fenrir in order to defend the villagers.
+English,"scene_cp46_q3_s10,4631",detail,Rackam,"This is bad! We need to save the villagers, [플레이어]!"
+English,"scene_cp46_q4_s10,4641",synopsis,,"Fenrir is only interested in eating as many people as she can, and quickly states that he is the enemy of [플레이어] and the others. Loki seems to extract considerable enjoyment from watching the exchange between them. Angered by the sheer insanity of the pair, [플레이어] and the others band together to fight them off."
+English,"scene_cp46_q4_s10,4641",detail,,[플레이어] and the others confronted the primal beast Fenrir in order to defend the villagers.
 English,"scene_cp46_q4_s10,4641",detail,Fenrir,What? Get out of my way or I'll have to eat you first!
 English,"scene_cp46_q4_s10,4641",detail,Katalina,"We won't back down, no matter what you say!"
 English,"scene_cp46_q4_s10,4641",detail,Fenrir,I love it when dinner puts up a fight. I'm going to start with a little of… you!
@@ -278,7 +278,7 @@ English,"scene_cp46_q4_s10,4641",detail,Fenrir,"Gah. I don't care about that. Yo
 English,"scene_cp46_q4_s10,4641",detail,Fenrir,All I need to do is eat my fill.
 English,"scene_cp46_q4_s10,4641",detail,Fenrir,Now I'm going to tear you to shreds!
 English,"scene_cp46_q4_s30,4642",synopsis,,"Loki lets the crew win, after which he issues a few more warnings with a confident smile, then leaves with Fenrir. The crew is concerned about the appearance of this new threat."
-English,"scene_cp46_q4_s30,4642",detail,,[Djeeta] and the others manage to win the fierce battle against Loki and Fenrir.
+English,"scene_cp46_q4_s30,4642",detail,,[플레이어] and the others manage to win the fierce battle against Loki and Fenrir.
 English,"scene_cp46_q4_s30,4642",detail,,"However, Fenrir is unfazed and continues to spout colorful interjections."
 English,"scene_cp46_q4_s30,4642",detail,Fenrir,Loki! I've had enough of this! Take these chains off me!
 English,"scene_cp46_q4_s30,4642",detail,Loki,"I can't do that, Fenrir. The chains are still required."
@@ -291,11 +291,11 @@ English,"scene_cp46_q4_s30,4642",detail,Eugen,What's that supposed to mean?
 English,"scene_cp46_q4_s30,4642",detail,Loki,"I wonder. Give it some thought! We're leaving, Fenrir."
 English,"scene_cp46_q4_s30,4642",detail,Fenrir,Humph...
 English,"scene_cp46_q4_s30,4642",detail,,"Loki gently wiggles his fingers, and light envelops the surrounding area."
-English,"scene_cp46_q4_s30,4642",detail,,"[Djeeta] and company are blinded by the brightness, and when they open their eyes again, the pair of foes has vanished."
+English,"scene_cp46_q4_s30,4642",detail,,"[플레이어] and company are blinded by the brightness, and when they open their eyes again, the pair of foes has vanished."
 English,"scene_cp46_q4_s30,4642",detail,Rackam,Man. Just who are those two?
 English,"scene_cp46_q4_s30,4642",detail,Lecia,A greeting and a vow... Are those really the only reasons they came here?
 English,"scene_cp46_q4_s30,4642",detail,Eugen,An Astral is the emperor of Erste Empire? That's big news... and bad news too!
 English,"scene_cp46_q4_s30,4642",detail,Katalina,He was pretty insistent that we're his enemy.
 English,"scene_cp46_q4_s30,4642",detail,Katalina,Which means we probably haven't seen the last of them.
-English,"scene_cp46_q4_s30,4642",detail,,[Djeeta] and the others are concerned about the appearance of this new threat.
+English,"scene_cp46_q4_s30,4642",detail,,[플레이어] and the others are concerned about the appearance of this new threat.
 English,"scene_cp46_q4_s30,4642",detail,,The negativity spawned by the history of the sky and the stars looms before them like an insurmountable wall.

@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr318_ep1,synopsis,,[ジータ]達と再会したキャピュレットの王女ジュリエット。ジュリエットが[ジータ]と共に城下町を見回っていると、恋人同士が仲睦まじく話している場面に遭遇する。ジュリエットは、ロミオと過ごした甘い日々を思い出し、しばしの妄想に浸る。民のために自分に出来ることは何か、ジュリエットは自問しながら、[ジータ]達と共に城へと戻るのだった。
-Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>かつてモンタギューとキャピュレット、</span><br><span class='scene-font-katari'>長らく敵対する二国の争いに</span><br><span class='scene-font-katari'>巻き込まれた[ジータ]一行。</span>
+Japanese,scene_fate_chr318_ep1,synopsis,,[플레이어]達と再会したキャピュレットの王女ジュリエット。ジュリエットが[플레이어]と共に城下町を見回っていると、恋人同士が仲睦まじく話している場面に遭遇する。ジュリエットは、ロミオと過ごした甘い日々を思い出し、しばしの妄想に浸る。民のために自分に出来ることは何か、ジュリエットは自問しながら、[플레이어]達と共に城へと戻るのだった。
+Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>かつてモンタギューとキャピュレット、</span><br><span class='scene-font-katari'>長らく敵対する二国の争いに</span><br><span class='scene-font-katari'>巻き込まれた[플레이어]一行。</span>
 Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>そこでロミオとジュリエットという</span><br><span class='scene-font-katari'>両国の次期王位継承者と出会った一行は</span><br><span class='scene-font-katari'>共に苦難を乗り越え、確かな絆を結ぶ。</span>
 Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>ある時、一行はキャピュレットの王女</span><br><span class='scene-font-katari'>ジュリエットから手紙を受け取り</span><br><span class='scene-font-katari'>再びキャピュレットの地を訪れる。</span>
 Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>ジュリエットとの再会を果たした</span><br><span class='scene-font-katari'>一行は、共にキャピュレットの</span><br><span class='scene-font-katari'>城下町を訪れていた。</span>
@@ -84,13 +84,13 @@ Japanese,scene_fate_chr318_ep1,detail,ビィ,ジュリエット！
 Japanese,scene_fate_chr318_ep1,detail,ジュリエット,ロミ……<br>ビ！ ビィさん！？
 Japanese,scene_fate_chr318_ep1,detail,ビィ,そうだよ！<br>ビィだよ！<br>どうした！
 Japanese,scene_fate_chr318_ep1,detail,ジュリエット,……えっ？ あっ、あの……私！<br>なんか……変なこと口走ってました？
-Japanese,scene_fate_chr318_ep1,detail,ジュリエット,ね、ねぇ？<br>[ジータ]さん？
+Japanese,scene_fate_chr318_ep1,detail,ジュリエット,ね、ねぇ？<br>[플레이어]さん？
 Japanese,scene_fate_chr318_ep1,sel1_txt,,<span class='scene-font-katari'>なんか怖かった</span>
 Japanese,scene_fate_chr318_ep1,sel2_txt,,<span class='scene-font-katari'>ゲフンゲフン……</span>
 Japanese,scene_fate_chr318_ep1,detail,ジュリエット,こわ？ ……え……ええっ！？<br>す、すいません！<br>私ったら、いったい何を！？
-Japanese,scene_fate_chr318_ep1,detail,ジュリエット,[ジータ]さん！<br>私から少しずつ距離を<br>取らないで下さい！
+Japanese,scene_fate_chr318_ep1,detail,ジュリエット,[플레이어]さん！<br>私から少しずつ距離を<br>取らないで下さい！
 Japanese,scene_fate_chr318_ep1,detail,ジュリエット,な、なんですか！<br>その意味深な咳は！
-Japanese,scene_fate_chr318_ep1,detail,ジュリエット,[ジータ]さんってば！<br>目をそらさないで下さい！
+Japanese,scene_fate_chr318_ep1,detail,ジュリエット,[플레이어]さんってば！<br>目をそらさないで下さい！
 Japanese,scene_fate_chr318_ep1,detail,ビィ,いや……まぁその……な？<br>うん、大丈夫だって！<br>な、ルリア？
 Japanese,scene_fate_chr318_ep1,detail,ルリア,は、はい！ 大丈夫です！<br>気にすること無いです！<br>本当に大丈夫ですよ！
 Japanese,scene_fate_chr318_ep1,detail,ジュリエット,そこまで大丈夫って言われると<br>全然大丈夫ではない気が……
@@ -123,9 +123,9 @@ Japanese,scene_fate_chr318_ep1,detail,ルリア,わぁ～！<br>とっても楽�
 Japanese,scene_fate_chr318_ep1,detail,ジュリエット,ふふ……<br>今度は皆さんの冒険のお話を、<br>ゆっくり聞かせて下さい。
 Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>そうしてジュリエットと一行は、</span><br><span class='scene-font-katari'>見回りを終えて城へと戻る。</span>
 Japanese,scene_fate_chr318_ep1,detail,,<span class='scene-font-katari'>再会を果たした一行に</span><br><span class='scene-font-katari'>訪れる大きな試練を、</span><br><span class='scene-font-katari'>今はまだ誰も知る由も無い。</span>
-Japanese,scene_chr318_q1_s10,synopsis,,公務に没頭するジュリエットを心配する[ジータ]一行は、彼女に息抜きを提案する。ジュリエットは舞台を見たいと願っていたが、そのためにヴェローナを離れるわけにはいかないという。そこで[ジータ]はヴェローナに劇場を作ることを提案し、そのために劇作家のサオウに劇を書いてもらうことに。しかし、サオウの居場所がわからず、一行はひとまずシェロカルテの元へと向かう。
+Japanese,scene_chr318_q1_s10,synopsis,,公務に没頭するジュリエットを心配する[플레이어]一行は、彼女に息抜きを提案する。ジュリエットは舞台を見たいと願っていたが、そのためにヴェローナを離れるわけにはいかないという。そこで[플레이어]はヴェローナに劇場を作ることを提案し、そのために劇作家のサオウに劇を書いてもらうことに。しかし、サオウの居場所がわからず、一行はひとまずシェロカルテの元へと向かう。
 Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>ヴェローナを襲った様々な試練を</span><br><span class='scene-font-katari'>乗り越えたジュリエット。</span>
-Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]一行は、公務に没頭して</span><br><span class='scene-font-katari'>日々を忙しなく過ごす</span><br><span class='scene-font-katari'>ジュリエットの元を訪れていた。</span>
+Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行は、公務に没頭して</span><br><span class='scene-font-katari'>日々を忙しなく過ごす</span><br><span class='scene-font-katari'>ジュリエットの元を訪れていた。</span>
 Japanese,scene_chr318_q1_s10,detail,ビィ,おいおいジュリエット、<br>あんまり根を詰め過ぎると<br>体が参っちまうぜ？
 Japanese,scene_chr318_q1_s10,detail,ルリア,私、ジュリエットさんが<br>倒れちゃわないか、心配です。
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,皆さんからの温かいお気遣い、<br>心から感謝します。
@@ -144,7 +144,7 @@ Japanese,scene_chr318_q1_s10,detail,ジュリエット,ですが……演劇艇�
 Japanese,scene_chr318_q1_s10,detail,ビィ,だったら演劇艇のある場所へ<br>行けばいいんじゃねぇか？<br>オイラ達が連れてってやるぜ！
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,ありがとうございます。<br>でも、私だけ演劇を楽しむために<br>この地を離れることは、できません。
 Japanese,scene_chr318_q1_s10,detail,ルリア,う～ん……近くに劇場が<br>あればいいんですけどねぇ。
-Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>その時、[ジータ]が</span><br><span class='scene-font-katari'>ここに劇場を作ればいい、</span><br><span class='scene-font-katari'>と提案する。</span>
+Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>その時、[플레이어]が</span><br><span class='scene-font-katari'>ここに劇場を作ればいい、</span><br><span class='scene-font-katari'>と提案する。</span>
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,劇場を、作る……<br>このヴェローナに……？
 Japanese,scene_chr318_q1_s10,detail,ビィ,おお！<br>そりゃ名案じゃねぇか！
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,で、でも……<br>他に優先すべき事があるのでは……
@@ -158,7 +158,7 @@ Japanese,scene_chr318_q1_s10,detail,ビィ,よっしゃあ！<br>オイラ達に
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,ありがとうございます！<br>ですが……劇場はただの箱です。<br>問題は、そこで何を上演するか……
 Japanese,scene_chr318_q1_s10,detail,ビィ,作りながら考えたらダメなのか？
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,上演する演目に合わせて<br>劇場を設計したいので、<br>やはり事前に決まっていた方が……
-Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>再び口を開いた[ジータ]は、</span><br><span class='scene-font-katari'>劇作家のサオウに頼んでみては</span><br><span class='scene-font-katari'>どうかと提案する。</span>
+Japanese,scene_chr318_q1_s10,detail,,<span class='scene-font-katari'>再び口を開いた[플레이어]は、</span><br><span class='scene-font-katari'>劇作家のサオウに頼んでみては</span><br><span class='scene-font-katari'>どうかと提案する。</span>
 Japanese,scene_chr318_q1_s10,detail,ジュリエット,そ、そんなのとんでもありません！<br>あのサオウさんに依頼するなんて、<br>お、恐れ多くて！ とても……
 Japanese,scene_chr318_q1_s10,detail,ルリア,でも……<br>頼んでみないとわかりませんよ！
 Japanese,scene_chr318_q1_s10,detail,ビィ,そうだぜ！<br>挑戦する前から諦めるなって！<br>当たって砕けろだ！
@@ -171,9 +171,9 @@ Japanese,scene_chr318_q1_s10,detail,ルリア,うーん……<br>それは困り
 Japanese,scene_chr318_q1_s10,detail,ビィ,あ！ でもよろず屋なら<br>なんとかしてくれるんじゃねぇのか？
 Japanese,scene_chr318_q1_s10,detail,ルリア,そういえば！ サオウさんの<br>舞台のチケットをくれたのも<br>シェロさんでしたもんね！
 Japanese,scene_chr318_q1_s10,detail,ビィ,ひとまずよろず屋の所に<br>行ってみようぜ！
-Japanese,scene_chr318_q1_s10,detail,ジュリエット,は、はい！<br>よろしくお願いします！<br>[ジータ]さん！
-English,scene_fate_chr318_ep1,synopsis,,"[Djeeta] and company reunite with Juliet in Verona, and together they head into the city to greet the people. Juliet has a flashback about Romeo, and she begins to question her usefulness, unaware of the next trial she's about to face."
-English,scene_fate_chr318_ep1,detail,,[Djeeta] and company were dragged into a long-standing war between the Montagues and Capulets.
+Japanese,scene_chr318_q1_s10,detail,ジュリエット,は、はい！<br>よろしくお願いします！<br>[플레이어]さん！
+English,scene_fate_chr318_ep1,synopsis,,"[플레이어] and company reunite with Juliet in Verona, and together they head into the city to greet the people. Juliet has a flashback about Romeo, and she begins to question her usefulness, unaware of the next trial she's about to face."
+English,scene_fate_chr318_ep1,detail,,[플레이어] and company were dragged into a long-standing war between the Montagues and Capulets.
 English,scene_fate_chr318_ep1,detail,,"They met Romeo and Juliet, heirs to their respective houses, and helped them overcome their hardships while forging strong bonds."
 English,scene_fate_chr318_ep1,detail,,The crew returns to the land of the Capulets after receiving a letter from Princess Juliet.
 English,scene_fate_chr318_ep1,detail,,"Juliet and the crew reunite, and they head out together into the town."
@@ -257,13 +257,13 @@ English,scene_fate_chr318_ep1,detail,Vyrn,Juliet!
 English,scene_fate_chr318_ep1,detail,Juliet,Rome—<br>V-Vyrn?
 English,scene_fate_chr318_ep1,detail,Vyrn,That's my name! Vyrn! What's the matter with you?
 English,scene_fate_chr318_ep1,detail,Juliet,"Huh? Um, did I say anything weird just now?"
-English,scene_fate_chr318_ep1,detail,Juliet,"D-did I, [Djeeta]?"
+English,scene_fate_chr318_ep1,detail,Juliet,"D-did I, [플레이어]?"
 English,scene_fate_chr318_ep1,sel1_txt,,A little frightening.
 English,scene_fate_chr318_ep1,sel2_txt,,Cough...
 English,scene_fate_chr318_ep1,detail,Juliet,Huh? I'm scaring you? I'm sorry!<br>You want to know what's gotten into me?
-English,scene_fate_chr318_ep1,detail,Juliet,"Wait! Please don't back away from me, [Djeeta]!"
+English,scene_fate_chr318_ep1,detail,Juliet,"Wait! Please don't back away from me, [플레이어]!"
 English,scene_fate_chr318_ep1,detail,Juliet,What's that cough supposed to mean?
-English,scene_fate_chr318_ep1,detail,Juliet,[Djeeta]! Please don't look away!
+English,scene_fate_chr318_ep1,detail,Juliet,[플레이어]! Please don't look away!
 English,scene_fate_chr318_ep1,detail,Vyrn,"Well, uh, let's all just drop it, okay? It's fine, right, Lyria?"
 English,scene_fate_chr318_ep1,detail,Lyria,"Oh, yes! It's completely fine! You don't have to worry about it! Really!"
 English,scene_fate_chr318_ep1,detail,Juliet,"The more you insist it's fine, the more I start to think that it's not fine at all..."
@@ -296,9 +296,9 @@ English,scene_fate_chr318_ep1,detail,Lyria,Yay! I can't wait!
 English,scene_fate_chr318_ep1,detail,Juliet,Hehe. This time I'd like to hear all about your adventures.
 English,scene_fate_chr318_ep1,detail,,Juliet and the others end their stroll and return to the castle.
 English,scene_fate_chr318_ep1,detail,,No one could foresee the great trial that is to befall the reunited party.
-English,scene_chr318_q1_s10,synopsis,,"Juliet agrees with [Djeeta]'s suggestion to build a theater in Verona, but she believes a new play written by Bill the Bard is vital for its success. They decide to ask Sierokarte about the playwright's whereabouts."
+English,scene_chr318_q1_s10,synopsis,,"Juliet agrees with [플레이어]'s suggestion to build a theater in Verona, but she believes a new play written by Bill the Bard is vital for its success. They decide to ask Sierokarte about the playwright's whereabouts."
 English,scene_chr318_q1_s10,detail,,Juliet has overcome the many trials that have plagued Verona.
-English,scene_chr318_q1_s10,detail,,"[Djeeta] and company pay another visit to Juliet, who is busy with public affairs every day."
+English,scene_chr318_q1_s10,detail,,"[플레이어] and company pay another visit to Juliet, who is busy with public affairs every day."
 English,scene_chr318_q1_s10,detail,Vyrn,"Hey, Juliet, you're not doing your body any favors if you keep running yourself ragged like this."
 English,scene_chr318_q1_s10,detail,Lyria,"I'm worried that you might collapse, Juliet."
 English,scene_chr318_q1_s10,detail,Juliet,I appreciate your concern.
@@ -317,7 +317,7 @@ English,scene_chr318_q1_s10,detail,Juliet,Unfortunately the stage ship isn't sch
 English,scene_chr318_q1_s10,detail,Vyrn,"If they won't come to us, why don't we go to them? We'll take you there!"
 English,scene_chr318_q1_s10,detail,Juliet,"Thank you, but I can't possibly leave just so I can go enjoy a play."
 English,scene_chr318_q1_s10,detail,Lyria,Hrm. I wish there was a theater close by.
-English,scene_chr318_q1_s10,detail,,[Djeeta] pipes up and suggests that Verona should build its own theater.
+English,scene_chr318_q1_s10,detail,,[플레이어] pipes up and suggests that Verona should build its own theater.
 English,scene_chr318_q1_s10,detail,Juliet,Build a theater in Verona?
 English,scene_chr318_q1_s10,detail,Vyrn,Ooh! That's a great idea!
 English,scene_chr318_q1_s10,detail,Juliet,But there are other projects that should be prioritized.
@@ -331,7 +331,7 @@ English,scene_chr318_q1_s10,detail,Vyrn,Woo-hoo! We'll lend a hand too!
 English,scene_chr318_q1_s10,detail,Juliet,Thank you! A theater is nothing more than a box. The bigger problem is what to show in that box.
 English,scene_chr318_q1_s10,detail,Vyrn,Can't we think about it as we go?
 English,scene_chr318_q1_s10,detail,Juliet,"I want to design the theater based on the plays that will be performed there, so it's best to decide that first."
-English,scene_chr318_q1_s10,detail,,[Djeeta] suggests that they ask the great playwright Bill the Bard for help.
+English,scene_chr318_q1_s10,detail,,[플레이어] suggests that they ask the great playwright Bill the Bard for help.
 English,scene_chr318_q1_s10,detail,Juliet,Don't be ridiculous! To ask a playwright of such stature would be out of the question!
 English,scene_chr318_q1_s10,detail,Lyria,We won't know unless we ask!
 English,scene_chr318_q1_s10,detail,Vyrn,She's right! We can't give up before we even try! Let's go for broke!
@@ -344,4 +344,4 @@ English,scene_chr318_q1_s10,detail,Lyria,"Hmm, that's a problem."
 English,scene_chr318_q1_s10,detail,Vyrn,Oh! What if we ask the Knickknack Shack? I bet we could get some hints there!
 English,scene_chr318_q1_s10,detail,Lyria,"Come to think of it, Siero was the one who gave us those tickets to Bill the Bard's play!"
 English,scene_chr318_q1_s10,detail,Vyrn,Let's just swing by the Knickknack Shack for now!
-English,scene_chr318_q1_s10,detail,Juliet,"Okay! Lead the way, [Djeeta]!"
+English,scene_chr318_q1_s10,detail,Juliet,"Okay! Lead the way, [플레이어]!"

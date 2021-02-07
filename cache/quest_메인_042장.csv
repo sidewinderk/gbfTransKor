@@ -21,11 +21,11 @@ Japanese,"scene_cp42_q1_s10,4211",detail,ガンダルヴァ,そこで大人し�
 Japanese,"scene_cp42_q1_s10,4211",detail,,<span class='scene-font-katari'>それだけ言い残すと、</span><br><span class='scene-font-katari'>ガンダルヴァは乱暴に鍵を閉め、</span><br><span class='scene-font-katari'>牢から去って行った。</span>
 Japanese,"scene_cp42_q1_s10,4211",detail,モニカ,<span class='scene-font-kokoro'>（リーシャ……）</span>
 Japanese,"scene_cp42_q1_s10,4211",detail,モニカ,<span class='scene-font-kokoro'>（頼んだぞ、リーシャ</span><br><span class='scene-font-kokoro'>お前なら……必ず……）</span>
-Japanese,"scene_cp42_q2_s10,4221",synopsis,,<span class='scene-font-place'>アマルティア島</span>を訪れた[ジータ]達は、街の惨状を見て愕然とする。街が帝国軍に襲われたらしく、無残に破壊されてしまっていたのだ。やがて帝国軍は[ジータ]達の姿を発見すると、襲い掛かってくるのであった。
+Japanese,"scene_cp42_q2_s10,4221",synopsis,,<span class='scene-font-place'>アマルティア島</span>を訪れた[플레이어]達は、街の惨状を見て愕然とする。街が帝国軍に襲われたらしく、無残に破壊されてしまっていたのだ。やがて帝国軍は[플레이어]達の姿を発見すると、襲い掛かってくるのであった。
 Japanese,"scene_cp42_q2_s10,4221",detail,라캄,おいおいおいおいおい……<br>こりゃいったい、どういうことだ……？
 Japanese,"scene_cp42_q2_s10,4221",detail,オルキス,ぐちゃぐちゃ……
-Japanese,"scene_cp42_q2_s10,4221",detail,,<span class='scene-font-katari'>ビィの過去を求め、</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へとやって来た</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
-Japanese,"scene_cp42_q2_s10,4221",detail,,<span class='scene-font-katari'>しかし、かつての整然とした街並みは</span><br><span class='scene-font-katari'>無惨に破壊され、戦乱の爪痕が</span><br><span class='scene-font-katari'>[ジータ]一行を出迎えた。</span>
+Japanese,"scene_cp42_q2_s10,4221",detail,,<span class='scene-font-katari'>ビィの過去を求め、</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へとやって来た</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
+Japanese,"scene_cp42_q2_s10,4221",detail,,<span class='scene-font-katari'>しかし、かつての整然とした街並みは</span><br><span class='scene-font-katari'>無惨に破壊され、戦乱の爪痕が</span><br><span class='scene-font-katari'>[플레이어]一行を出迎えた。</span>
 Japanese,"scene_cp42_q2_s10,4221",detail,오이겐,ちっと見ねぇ間に、<br>ずいぶんと<br>様変わりしちまったじゃねぇか……
 Japanese,"scene_cp42_q2_s10,4221",detail,루리아,綺麗な街だったのに……<br>どうして……<br>いったい何があったんでしょうか？
 Japanese,"scene_cp42_q2_s10,4221",detail,카타리나,嫌な予感がするな……<br>それに何やら、<br>怪しげな気配がする……
@@ -63,7 +63,7 @@ Japanese,"scene_cp42_q3_s10,4231",detail,オルキス,優しい人……<br>ア�
 Japanese,"scene_cp42_q3_s10,4231",detail,オルキス,でも……ちょっと頼りない。<br>だから心配……
 Japanese,"scene_cp42_q3_s10,4231",detail,카타리나,ま、まぁ、確かにリーシャ殿は、<br>どこか危なっかしいところが<br>あるからな……
 Japanese,"scene_cp42_q3_s10,4231",detail,이오,っていうか、早く追いかけましょ！<br>この島に何があったのか、<br>教えてもらわないと！
-Japanese,"scene_cp42_q3_s20,4232",synopsis,,追い詰められたリーシャを危うい所で救った[ジータ]達。一行が街に現れた事に、リーシャは驚きを隠せないのであった。そして互いが事情を尋ねようとした所へ、駆けつけた帝国の援軍が襲いかかる。
+Japanese,"scene_cp42_q3_s20,4232",synopsis,,追い詰められたリーシャを危うい所で救った[플레이어]達。一行が街に現れた事に、リーシャは驚きを隠せないのであった。そして互いが事情を尋ねようとした所へ、駆けつけた帝国の援軍が襲いかかる。
 Japanese,"scene_cp42_q3_s20,4232",detail,帝国兵１,もう逃げ場はないぞ……<br>観念して頂こうか、リーシャ船団長……
 Japanese,"scene_cp42_q3_s20,4232",detail,帝国兵２,命まで取るつもりはない、と<br>中将閣下も仰せだ。<br>大人しく投降したらどうだ？
 Japanese,"scene_cp42_q3_s20,4232",detail,リーシャ,はぁ……はぁ……<br>何を馬鹿な……！
@@ -81,7 +81,7 @@ Japanese,"scene_cp42_q3_s20,4232",detail,이오,あと、あたし達、<br>教�
 Japanese,"scene_cp42_q3_s20,4232",detail,帝国兵１,ちっ……<br>しぶとい騎空士どもめ……！
 Japanese,"scene_cp42_q3_s20,4232",detail,帝国兵１,おーい！ こっちだ！<br>来てくれ！<br>挟み撃ちにするぞ！
 Japanese,"scene_cp42_q3_s20,4232",detail,라캄,どうやら、諸々の事情を聞くのは、<br>後にするしかねぇみたいだな。
-Japanese,"scene_cp42_q3_s20,4232",detail,루리아,ですね……<br>まずはこの場を切り抜けましょう！<br>[ジータ]！
+Japanese,"scene_cp42_q3_s20,4232",detail,루리아,ですね……<br>まずはこの場を切り抜けましょう！<br>[플레이어]！
 Japanese,"scene_cp42_q4_s10,4241",synopsis,,リーシャから話を聞こうとするものの、状況がそれを許さず、再び帝国兵の追手と行き合う事になる。安全な隠れ家に案内すると言って一行を連れ出すリーシャ。彼女によれば、秩序の騎空団の本部ですら安全ではないのだという。リーシャの導きに従い、一行は町外れへと足を向けるのであった。
 Japanese,"scene_cp42_q4_s10,4241",detail,リーシャ,あ、あなた達は……<br>どうしてこの島に？<br>フリーシア宰相の件は……？
 Japanese,"scene_cp42_q4_s10,4241",detail,リーシャ,あれ？<br>黒騎士とは別れたのですか？<br>それに女性がひとり足りないような……
@@ -98,7 +98,7 @@ Japanese,"scene_cp42_q4_s10,4241",detail,,<span class='scene-font-katari'>そう
 Japanese,"scene_cp42_q4_s10,4241",detail,비이,安全な場所って……<br>あの秩序の騎空団の<br>本部には行かねーのか？
 Japanese,"scene_cp42_q4_s10,4241",detail,リーシャ,それも含めて説明します……<br>だからいまは、付いて来てください。
 Japanese,"scene_cp42_q4_s20,4242",synopsis,,街の中心部から離れ、魔物の徘徊する中を進む一行。事情を尋ねるのだが、リーシャは口ごもってしまう。彼女の表情から読み取れるのは、今、<span class='scene-font-place'>アマルティア</span>が帝国の占領下にあるということだけだった。
-Japanese,"scene_cp42_q4_s20,4242",detail,,<span class='scene-font-katari'>リーシャの案内で、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>徐々に島の中心街から離れていく。</span>
+Japanese,"scene_cp42_q4_s20,4242",detail,,<span class='scene-font-katari'>リーシャの案内で、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>徐々に島の中心街から離れていく。</span>
 Japanese,"scene_cp42_q4_s20,4242",detail,카타리나,ここまで来ると帝国兵の姿は無いが、<br>代わりに魔物の数が増えてくるな……
 Japanese,"scene_cp42_q4_s20,4242",detail,リーシャ,いえ、油断はしないでください。<br>帝国は島の隅々まで<br>兵を配置しています。
 Japanese,"scene_cp42_q4_s20,4242",detail,카타리나,なに……？<br>それではまるでこの島が、<br>完全に帝国の占領下にあるようだが……
@@ -149,13 +149,13 @@ Japanese,"scene_cp42_q4_s30,4243",detail,リーシャ,ガンダルヴァはモ�
 Japanese,"scene_cp42_q4_s30,4243",detail,카타리나,つまり中枢を乗っ取られ、<br>残った少数で、<br>抵抗を試みている、ということか……
 Japanese,"scene_cp42_q4_s30,4243",detail,비이,おいおい……<br>こりゃ想像以上に<br>やべぇ状況なんじゃねぇのか……？
 Japanese,"scene_cp42_q4_s30,4243",detail,リーシャ,苦しい戦況なのは重々承知です。<br>しかし、諦めることなど……
-Japanese,"scene_cp42_q4_s30,4243",detail,루리아,ねぇ、[ジータ]……
+Japanese,"scene_cp42_q4_s30,4243",detail,루리아,ねぇ、[플레이어]……
 Japanese,"scene_cp42_q4_s30,4243",sel1_txt,,<span class='scene-font-katari'>力になるよ</span>
 Japanese,"scene_cp42_q4_s30,4243",sel2_txt,,<span class='scene-font-katari'>頑張れリーシャ！</span>
 Japanese,"scene_cp42_q4_s30,4243",detail,リーシャ,えっ……？
 Japanese,"scene_cp42_q4_s30,4243",detail,루리아,そうですっ！<br>同じ騎空士として、この状況を<br>見捨てておくなんて出来ません！
 Japanese,"scene_cp42_q4_s30,4243",detail,リーシャ,はぁ……<br>あ、ありがとうございます……<br>頑張ります……
-Japanese,"scene_cp42_q4_s30,4243",detail,루리아,違います！ [ジータ]！<br>そうじゃなくて……
+Japanese,"scene_cp42_q4_s30,4243",detail,루리아,違います！ [플레이어]！<br>そうじゃなくて……
 Japanese,"scene_cp42_q4_s30,4243",detail,루리아,私達……<br>リーシャさん達の<br>力になれないでしょうか？
 Japanese,"scene_cp42_q4_s30,4243",detail,카타리나,まぁ、確かに……<br>この事態が収拾しないことには、<br>私達の目的も達成できないからな。
 Japanese,"scene_cp42_q4_s30,4243",detail,リーシャ,そういえば……<br>あなた達はどうしてアマルティアに？
@@ -192,10 +192,10 @@ English,"scene_cp42_q1_s10,4211",detail,Gandharva,Well that and wait patiently f
 English,"scene_cp42_q1_s10,4211",detail,,"With a wry grin, Gandharva turns, locks the cell door, and leaves the jail."
 English,"scene_cp42_q1_s10,4211",detail,Monika,(Lecia...)
 English,"scene_cp42_q1_s10,4211",detail,Monika,"(I'm counting on you, Lecia. I know you can do it...)"
-English,"scene_cp42_q2_s10,4221",synopsis,,"[Djeeta] and the crew land on Amalthea Island to see the once beautiful town lying in shambles. Not long after, an imperial soldier spots them."
+English,"scene_cp42_q2_s10,4221",synopsis,,"[플레이어] and the crew land on Amalthea Island to see the once beautiful town lying in shambles. Not long after, an imperial soldier spots them."
 English,"scene_cp42_q2_s10,4221",detail,Rackam,"Whoa, whoa, whoa... What the hell happened here?"
 English,"scene_cp42_q2_s10,4221",detail,Orchis,All messed up...
-English,"scene_cp42_q2_s10,4221",detail,,[Djeeta] and the crew have come to Amalthea Island to research Vyrn's past.
+English,"scene_cp42_q2_s10,4221",detail,,[플레이어] and the crew have come to Amalthea Island to research Vyrn's past.
 English,"scene_cp42_q2_s10,4221",detail,,"But the once orderly streets are in utter shambles, leaving only the scars of a conflict to greet them."
 English,"scene_cp42_q2_s10,4221",detail,Eugen,This whole place got blown away in the blink of an eye...
 English,"scene_cp42_q2_s10,4221",detail,Lyria,It used to be so beautiful. Why... What's going on?
@@ -234,7 +234,7 @@ English,"scene_cp42_q3_s10,4231",detail,Orchis,"She's nice. When they took Apoll
 English,"scene_cp42_q3_s10,4231",detail,Orchis,But she was hopeless. So I'm worried...
 English,"scene_cp42_q3_s10,4231",detail,Katalina,"Well, Lecia does disregard danger to some degree, doesn't she?"
 English,"scene_cp42_q3_s10,4231",detail,Io,Forget all that! Let's go after her on the double! We need her to tell us what happened to this island!
-English,"scene_cp42_q3_s20,4232",synopsis,,"[Djeeta] and the crew narrowly rescue Lecia from danger. As they begin to question her, imperial reinforcements arrive and launch an attack."
+English,"scene_cp42_q3_s20,4232",synopsis,,"[플레이어] and the crew narrowly rescue Lecia from danger. As they begin to question her, imperial reinforcements arrive and launch an attack."
 English,"scene_cp42_q3_s20,4232",detail,Imperial Soldier 1,"There's nowhere left to run. It's time to surrender, Captain Lecia."
 English,"scene_cp42_q3_s20,4232",detail,Imperial Soldier 2,The lieutenant general has no intention of killing you. Why don't you just come quietly?
 English,"scene_cp42_q3_s20,4232",detail,Lecia,Pant... Pant... Don't be ridiculous!
@@ -252,7 +252,7 @@ English,"scene_cp42_q3_s20,4232",detail,Io,"And after that, we've got plenty of 
 English,"scene_cp42_q3_s20,4232",detail,Imperial Soldier 1,Tch... Damn stubborn skyfarers!
 English,"scene_cp42_q3_s20,4232",detail,Imperial Soldier 1,Heeey! Over here! Attack 'em from both sides!
 English,"scene_cp42_q3_s20,4232",detail,Rackam,Guess our Q and A sesh with Lecia's just gonna have to wait.
-English,"scene_cp42_q3_s20,4232",detail,Lyria,"Unfortunately... For now, we have to fight our way through! Be careful, [Djeeta]!"
+English,"scene_cp42_q3_s20,4232",detail,Lyria,"Unfortunately... For now, we have to fight our way through! Be careful, [플레이어]!"
 English,"scene_cp42_q4_s10,4241",synopsis,,Lecia informs the crew that she knows of a safe place on the island where they can talk in peace.
 English,"scene_cp42_q4_s10,4241",detail,Lecia,You guys... Why are you here? What happened with Prime Minister Freesia?
 English,"scene_cp42_q4_s10,4241",detail,Lecia,Huh? You got separated from the Black Knight? And that woman isn't with you now either...
@@ -269,7 +269,7 @@ English,"scene_cp42_q4_s10,4241",detail,,Lecia points to the outskirts of town.
 English,"scene_cp42_q4_s10,4241",detail,Vyrn,A safe place? You mean you're not going to the Crew of Enforcers headquarters?
 English,"scene_cp42_q4_s10,4241",detail,Lecia,I'll explain that too. But for now let's just go.
 English,"scene_cp42_q4_s20,4242",synopsis,,"The crew head further into the outskirts of the city, where there are fewer soldiers but more monsters."
-English,"scene_cp42_q4_s20,4242",detail,,"With Lecia guiding them, [Djeeta] and the crew move farther and farther from the center of town."
+English,"scene_cp42_q4_s20,4242",detail,,"With Lecia guiding them, [플레이어] and the crew move farther and farther from the center of town."
 English,"scene_cp42_q4_s20,4242",detail,Katalina,"I don't see any soldiers out here, but there are more than enough monsters to make up for their absence."
 English,"scene_cp42_q4_s20,4242",detail,Lecia,"True, but don't let your guard down. The empire's placed soldiers in every little nook and cranny of this island."
 English,"scene_cp42_q4_s20,4242",detail,Katalina,What? You make it sound as if the empire is occupying Amalthea...
@@ -320,13 +320,13 @@ English,"scene_cp42_q4_s30,4243",detail,Lecia,"After defeating Monika, he took o
 English,"scene_cp42_q4_s30,4243",detail,Katalina,"So to summarize, he's hijacked your headquarters, and the remaining forces are still resisting."
 English,"scene_cp42_q4_s30,4243",detail,Vyrn,Whoa now... This is startin' to sound more serious than I coulda imagined!
 English,"scene_cp42_q4_s30,4243",detail,Lecia,I'm fully aware that the odds are stacked against us. But I don't want to give up.
-English,"scene_cp42_q4_s30,4243",detail,Lyria,"Psst, [Djeeta]..."
+English,"scene_cp42_q4_s30,4243",detail,Lyria,"Psst, [플레이어]..."
 English,"scene_cp42_q4_s30,4243",sel1_txt,,We'll help you.
 English,"scene_cp42_q4_s30,4243",sel2_txt,,Good luck with that!
 English,"scene_cp42_q4_s30,4243",detail,Lecia,Huh?
 English,"scene_cp42_q4_s30,4243",detail,Lyria,"That's right! As fellow skyfarers, we can't abandon you in a situation like this!"
 English,"scene_cp42_q4_s30,4243",detail,Lecia,Sigh... Th-thank you... I'll do my best.
-English,"scene_cp42_q4_s30,4243",detail,Lyria,"No! [Djeeta], that's not what I meant..."
+English,"scene_cp42_q4_s30,4243",detail,Lyria,"No! [플레이어], that's not what I meant..."
 English,"scene_cp42_q4_s30,4243",detail,Lyria,Don't you think we could help Lecia and her crew?
 English,"scene_cp42_q4_s30,4243",detail,Katalina,"Well, I suppose... With the situation as it is now, we can't accomplish what we came here for."
 English,"scene_cp42_q4_s30,4243",detail,Lecia,Speaking of... Why did you come to Amalthea?

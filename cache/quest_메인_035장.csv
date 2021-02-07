@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp35_q1_s10,3511",synopsis,,エルステ帝国軍に囚われたオルキスがいるという王宮に踏み込んだ一行。黒騎士は王宮の中を見回し、彼女とオルキスがこの場所で過ごした日々を懐かしげに語る。[ジータ]達はオルキスを奪還すべく、帝国兵達がひしめく王宮を駆けるのであった。,엘스테 제국군에게 붙잡힌 오르키스가 갇혀있다는 왕궁에 쳐들어간 일행. 흑기사는 왕궁 안을 둘러보고는 그녀와 오르키스가 이곳에서 보냈던 나날을 그리운듯 이야기한다. [지타] 일행은 오르키스를 탈환하기 위해 제국군 병사들이 북적거리는 왕궁을 내달린다. 
-Japanese,"scene_cp35_q1_s10,3511",detail,,<span class='scene-font-katari'>ついに王宮に踏み込んだ</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>オルキスを探し、慎重に進む。,"<span class='scene-font-katari'>드디어 왕궁에 쳐들어간</span><br><span class='scene-font-katari'>[지타]일행은, </span><br><span class='scene-font-katari'> 오르키스를 찾아 신중히 나아간다. "
+Japanese,"scene_cp35_q1_s10,3511",synopsis,,エルステ帝国軍に囚われたオルキスがいるという王宮に踏み込んだ一行。黒騎士は王宮の中を見回し、彼女とオルキスがこの場所で過ごした日々を懐かしげに語る。[플레이어]達はオルキスを奪還すべく、帝国兵達がひしめく王宮を駆けるのであった。,엘스테 제국군에게 붙잡힌 오르키스가 갇혀있다는 왕궁에 쳐들어간 일행. 흑기사는 왕궁 안을 둘러보고는 그녀와 오르키스가 이곳에서 보냈던 나날을 그리운듯 이야기한다. [플레이어] 일행은 오르키스를 탈환하기 위해 제국군 병사들이 북적거리는 왕궁을 내달린다. 
+Japanese,"scene_cp35_q1_s10,3511",detail,,<span class='scene-font-katari'>ついに王宮に踏み込んだ</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>オルキスを探し、慎重に進む。,"<span class='scene-font-katari'>드디어 왕궁에 쳐들어간</span><br><span class='scene-font-katari'>[플레이어]일행은, </span><br><span class='scene-font-katari'> 오르키스를 찾아 신중히 나아간다. "
 Japanese,"scene_cp35_q1_s10,3511",detail,흑기사,この王宮も変わらんな……,이 왕궁도 변한게 없군……
 Japanese,"scene_cp35_q1_s10,3511",detail,흑기사,いや……<br>幾千を数えるエルステの歴史の前に、<br>１０年程度では刹那にもならんか……,아니다……<br>몇천을 넘어가는 엘스테의 역사를 앞에 두곤 <br>10년정도로는 찰나라고 할 수도 없겠구나……
 Japanese,"scene_cp35_q1_s10,3511",detail,루리아,黒騎士さんは、<br>ここに来たことがあるんですか？,"흑기사씨는,<br>이곳에 온 적이 있는건가요?"
@@ -9,8 +9,8 @@ Japanese,"scene_cp35_q1_s10,3511",detail,루리아,そうなんですね。<br>�
 Japanese,"scene_cp35_q1_s10,3511",detail,라캄,この中は人の気配がするな……<br>帝国の連中が、<br>うようよ居るみてぇだ。,"이 안쪽에 사람 기척이 느껴지는데……<br>제국 녀석들이,<br>우글거리고 있는 것 같군."
 Japanese,"scene_cp35_q1_s10,3511",detail,라캄,それで？<br>オルキスちゃんはこの王宮の、<br>どこに居るんだ？,"그래서?<br>오르키스는 이 왕궁 안,<br>어디에 있는거지? "
 Japanese,"scene_cp35_q1_s10,3511",detail,흑기사,流石にそこまではわからん……<br>くまなく探すしかないだろうな。,아무래도 그것까진 모르지……<br>구석구석 찾아볼 수 밖에 없을거야.
-Japanese,"scene_cp35_q1_s10,3511",detail,흑기사,まだ郷愁に立ち止まる余裕は無かったな。<br>進もう……<br>まずはこちらから探すぞ、[ジータ]。,아직 향수에 젖어있을 여유는 없었군.<br>가자……<br>우선 여기부터 찾아보자. [지타].
-Japanese,"scene_cp35_q1_s20,3512",synopsis,,オルキスを探して王宮を駆ける[ジータ]達であったが、不意に黒騎士は足を止めた。かつてオルキスと、二人で本を読んだ場所──黒騎士の大切な思い出が詰まった場所が、王宮の各所に今も変わらず残っている。その思い出の場所を踏みにじる帝国兵達へ、黒騎士は容赦なく斬りかかる。,"오르키스를 찾아서 왕궁을 달리는 [지타]일행이었지만, 갑자기 흑기사는 발을 멈췄다. 에전 오르키스와 둘이서 책을 읽었던 곳, 흑기사의 소중한 추억이 담겨있는 그 장소가 왕궁의 곳곳에 아직도 변함없이 남아있다. 그 추억의 장소를 짓밟는 제국 병사들에게 흑기사는 용서 없이 검을 휘둘러간다."
+Japanese,"scene_cp35_q1_s10,3511",detail,흑기사,まだ郷愁に立ち止まる余裕は無かったな。<br>進もう……<br>まずはこちらから探すぞ、[플레이어]。,아직 향수에 젖어있을 여유는 없었군.<br>가자……<br>우선 여기부터 찾아보자. [플레이어].
+Japanese,"scene_cp35_q1_s20,3512",synopsis,,オルキスを探して王宮を駆ける[플레이어]達であったが、不意に黒騎士は足を止めた。かつてオルキスと、二人で本を読んだ場所──黒騎士の大切な思い出が詰まった場所が、王宮の各所に今も変わらず残っている。その思い出の場所を踏みにじる帝国兵達へ、黒騎士は容赦なく斬りかかる。,"오르키스를 찾아서 왕궁을 달리는 [플레이어]일행이었지만, 갑자기 흑기사는 발을 멈췄다. 에전 오르키스와 둘이서 책을 읽었던 곳, 흑기사의 소중한 추억이 담겨있는 그 장소가 왕궁의 곳곳에 아직도 변함없이 남아있다. 그 추억의 장소를 짓밟는 제국 병사들에게 흑기사는 용서 없이 검을 휘둘러간다."
 Japanese,"scene_cp35_q1_s20,3512",detail,흑기사,…………,…………
 Japanese,"scene_cp35_q1_s20,3512",detail,오이겐,どうした？<br>急に立ち止まって……,왜 그래?<br>갑자기 멈춰서는……
 Japanese,"scene_cp35_q1_s20,3512",detail,흑기사,あの辺り……<br>そこで私は、<br>よく彼女と一緒に本を読んでいた……,"저기 저쪽……<br>저 곳에서 나는,<br>오르키스랑 책을 함께 읽곤 했었어……"
@@ -41,7 +41,7 @@ Japanese,"scene_cp35_q2_s10,3521",detail,루리아,じゃ、じゃあ、私は�
 Japanese,"scene_cp35_q2_s10,3521",detail,흑기사,エルステの出身ではない。<br>それだけは確かだ。,엘스테 출신은 아니야.<br>그것만은 분명하다. 
 Japanese,"scene_cp35_q2_s10,3521",detail,루리아,そう……ですか。,그런……가요.
 Japanese,"scene_cp35_q2_s10,3521",detail,흑기사,…………,…………
-Japanese,"scene_cp35_q2_s20,3522",synopsis,,ルリアとオルキスが持つ、星晶獣を操る力。それらを似て非なるものと黒騎士は断言する。黒騎士は、星晶獣が星の民によって作られたという事、オルキスの父親が星の民であったという事をあげ、オルキスの力は父親に由来するものであると推測する。しかし、オルキスの父がこの世を去った今、もはや確かめる術は無い。[ジータ]達は抱いた疑問を振り払うように先を急ぐ。,"루리아와 오르키스가 가진 성정수를 조종하는 힘, 그것을 비슷하면서도 다른것이라 흑기사는 단언한다. 흑기사는 성정수가 별의 민족에 의해 만들어졌다는 것, 오르키스의 아버지가 별의 민족이었다는 점을 말하며 오르키스의 힘은 아버지로부터 유래한 것이라 추측한다. 그러나, 오르키스의 아버지가 이 세상을 떠난 지금, 이제 확인할 방법은 없다. [지타]일행은 품고 있는 의문을 떨쳐버리려는 듯 길을 재촉한다. "
+Japanese,"scene_cp35_q2_s20,3522",synopsis,,ルリアとオルキスが持つ、星晶獣を操る力。それらを似て非なるものと黒騎士は断言する。黒騎士は、星晶獣が星の民によって作られたという事、オルキスの父親が星の民であったという事をあげ、オルキスの力は父親に由来するものであると推測する。しかし、オルキスの父がこの世を去った今、もはや確かめる術は無い。[플레이어]達は抱いた疑問を振り払うように先を急ぐ。,"루리아와 오르키스가 가진 성정수를 조종하는 힘, 그것을 비슷하면서도 다른것이라 흑기사는 단언한다. 흑기사는 성정수가 별의 민족에 의해 만들어졌다는 것, 오르키스의 아버지가 별의 민족이었다는 점을 말하며 오르키스의 힘은 아버지로부터 유래한 것이라 추측한다. 그러나, 오르키스의 아버지가 이 세상을 떠난 지금, 이제 확인할 방법은 없다. [플레이어]일행은 품고 있는 의문을 떨쳐버리려는 듯 길을 재촉한다. "
 Japanese,"scene_cp35_q2_s20,3522",detail,카타리나,しかし、それでいくと、黒騎士……<br>貴殿は、<br>二人の能力の正体をわかっているのか？,"하지만, 그렇다는것은 흑기사……<br>귀공은,<br>두 사람의 능력의 정체를 알고 있는건가?"
 Japanese,"scene_cp35_q2_s20,3522",detail,흑기사,少なくとも、<br>人形のほうの能力については、<br>だいたいの見当がついている。,"적어도,<br>인형 쪽의 능력에 대해서라면,<br>대충은 알고 있다."
 Japanese,"scene_cp35_q2_s20,3522",detail,로제타,あら、面白そうじゃない……<br>聞かせてもらえるかしら？,"어머, 재미있는걸……<br>들려줄 수 있을까?"
@@ -81,7 +81,7 @@ Japanese,"scene_cp35_q3_s10,3531",detail,흑기사,私が知っているのは�
 Japanese,"scene_cp35_q3_s10,3531",detail,흑기사,これはオルキスの父君から……<br>星の民の生き残り本人から聞いたことだ。<br>間違いはないだろうな。,이건 오르키스의 부군으로부터……<br>별의 민족의 생존자 본인에게 들은 사실이다.<br>틀림없을 것이다.
 Japanese,"scene_cp35_q3_s10,3531",detail,루리아,じゃあ……<br>じゃあ、私は……,"그러면……<br>그러면, 저는……"
 Japanese,"scene_cp35_q3_s10,3531",detail,흑기사,…………,…………
-Japanese,"scene_cp35_q3_s20,3532",synopsis,,ルリアは空の民でも星の民でもなく、おそらく生みの親さえいない、極めて異質な存在である──黒騎士が告げた事実は残酷だった。孤独感に押し潰されそうなルリアを救ったのは、騎空団の仲間達、そして[ジータ]の言葉であった。ルリアは勇気を取り戻し、決意も新たに先へと進む。,"루리아는 하늘의 민족도 별의 민족도 아닌 아마도 생육을 지닌 부모도 없는, 극히 이질적인 존재. 흑기사가 고한 사실은 잔혹했다. 고독감에 짓눌려버릴 것 같은 루리아를 구한 것은 기공단의 동료들, 그리고 [지타]의 말이었다. 루리아는 용기를 되찾고 결의를 새로 다지며 앞으로 나아간다."
+Japanese,"scene_cp35_q3_s20,3532",synopsis,,ルリアは空の民でも星の民でもなく、おそらく生みの親さえいない、極めて異質な存在である──黒騎士が告げた事実は残酷だった。孤独感に押し潰されそうなルリアを救ったのは、騎空団の仲間達、そして[플레이어]の言葉であった。ルリアは勇気を取り戻し、決意も新たに先へと進む。,"루리아는 하늘의 민족도 별의 민족도 아닌 아마도 생육을 지닌 부모도 없는, 극히 이질적인 존재. 흑기사가 고한 사실은 잔혹했다. 고독감에 짓눌려버릴 것 같은 루리아를 구한 것은 기공단의 동료들, 그리고 [플레이어]의 말이었다. 루리아는 용기를 되찾고 결의를 새로 다지며 앞으로 나아간다."
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,私は星の民でもなくて、<br>この世界の人でもなくて……,"나는 별의 민족도 아니고,<br>이 세계의 사람도 아니고……"
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,じゃあ……<br>じゃあ、私って何なんでしょう……？,"그러면……<br>그러면, 저는 뭘까요……?"
 Japanese,"scene_cp35_q3_s20,3532",detail,흑기사,ルリア……<br>確かにお前は、<br>誰とも違う異質な存在だ。,"루리아……<br>확실히 너는,<br>누구와도 다른 이질적인 존재다."
@@ -94,7 +94,7 @@ Japanese,"scene_cp35_q3_s20,3532",detail,흑기사,それとも何か？<br>お�
 Japanese,"scene_cp35_q3_s20,3532",detail,흑기사,そんな鏡みたいな奴しか、<br>お前は認められないのか？,"그런 거울같은 녀석이 아니면, <br>너는 인정하지 못하는건가?"
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,ち、違いますっ！<br>けど……,"아, 아니에요!<br>그래도……"
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,私……私は……<br>独りじゃないんですか……？,저……저는……<br>외톨이가 아닌건가요……?
-Japanese,"scene_cp35_q3_s20,3532",detail,비이,あったりまえじゃねぇか！<br>なぁ、そうだろ？<br>[ジータ]！,"당연하지!<br>어이, 그렇지?<br>[지타]!"
+Japanese,"scene_cp35_q3_s20,3532",detail,비이,あったりまえじゃねぇか！<br>なぁ、そうだろ？<br>[플레이어]！,"당연하지!<br>어이, 그렇지?<br>[플레이어]!"
 Japanese,"scene_cp35_q3_s20,3532",sel1_txt,,<span class='scene-font-katari'>みんながいるよ</span>,<span class='scene-font-katari'>모두가 있잖아</span>
 Japanese,"scene_cp35_q3_s20,3532",sel2_txt,,<span class='scene-font-katari'>独り占めしたいな</span>,<span class='scene-font-katari'>독차지하고 싶어</span>
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,そう……そうですよね！<br>そっか……,그……그렇죠！<br>그렇구나……
@@ -102,9 +102,9 @@ Japanese,"scene_cp35_q3_s20,3532",detail,루리아,ふふ……ごめんなさ�
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,大切な人達が、<br>周りにこんなにたくさん居るのに、<br>一人ぼっちなんて……,"소중한 사람들이,<br>주변에 이렇게 잔뜩 있는데,<br>외톨이라니……"
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,っ！？<br>な、なな……！？,"웃!?<br>이, 이게 무슨……!?"
 Japanese,"scene_cp35_q3_s20,3532",detail,흑기사,ほう、そうか……<br>やはり貴様は、<br>なかなか面白い奴だな。,"호오, 그렇군……<br>역시 네녀석은,<br>꽤 재밌는 녀석이로군."
-Japanese,"scene_cp35_q3_s20,3532",detail,비이,かぁーっ！<br>[ジータ]ってたまに、<br>とんでもなく大胆なこと言うよな！,"키야아~!<br>[지타]는 가끔,<br>말도 안되게 대담한 말을 한다니까!"
+Japanese,"scene_cp35_q3_s20,3532",detail,비이,かぁーっ！<br>[플레이어]ってたまに、<br>とんでもなく大胆なこと言うよな！,"키야아~!<br>[플레이어]는 가끔,<br>말도 안되게 대담한 말을 한다니까!"
 Japanese,"scene_cp35_q3_s20,3532",detail,비이,聞いてるこっちが、<br>顔を赤くしちまいそうだぜ。,"듣고 있는 이쪽이,<br>얼굴이 빨갛게 될 지경이라고."
-Japanese,"scene_cp35_q3_s20,3532",detail,카타리나,ルリア……[ジータ]だけじゃないぞ。<br>私とて、もう二度と<br>君のそばを離れるつもりはない。,"루리아……[지타]만이 아니야.<br>나 또한, 두번 다시는<br>네 곁을 떠나지 않을거야."
+Japanese,"scene_cp35_q3_s20,3532",detail,카타리나,ルリア……[플레이어]だけじゃないぞ。<br>私とて、もう二度と<br>君のそばを離れるつもりはない。,"루리아……[플레이어]만이 아니야.<br>나 또한, 두번 다시는<br>네 곁을 떠나지 않을거야."
 Japanese,"scene_cp35_q3_s20,3532",detail,라캄,ったく……<br>水くせぇじゃねぇかよ……なぁ！,나참……<br>섭섭하게 말이야……안그래!
 Japanese,"scene_cp35_q3_s20,3532",detail,이오,そうよ！<br>あたし達がいるのに、<br>一人ぼっちなんて……,"맞아!<br>우리들이 있는데,<br>외톨이라니……"
 Japanese,"scene_cp35_q3_s20,3532",detail,이오,今度そんなこと言ったら、<br>あたし、怒っちゃうんだから！,"또 그런 말 하면,<br>나 화낼거야!"
@@ -120,7 +120,7 @@ Japanese,"scene_cp35_q3_s20,3532",detail,흑기사,ふん……たまたま目�
 Japanese,"scene_cp35_q3_s20,3532",detail,루리아,ふふ……そうなんですね。,후후……그랬던거군요.
 Japanese,"scene_cp35_q3_s20,3532",detail,카타리나,…………,…………
 Japanese,"scene_cp35_q3_s20,3532",detail,흑기사,ふん……茶番はここまでだ。<br>向こうからゴーレムが近づいてきている。<br>油断していると、足元をすくわれるぞ。,"흥……소꿉놀이는 여기까지다. <br>건너편에서 골렘이 다가오고 있다.<br>방심하고 있으면, 허를 찔리게 될거다. "
-Japanese,"scene_cp35_q4_s10,3541",synopsis,,[ジータ]達は必死に王宮を探し回るのだが、そこはあまりにも広く、一向にオルキスが見つかる気配がない。焦る黒騎士へ、カタリナが疑念をぶつける。黒騎士が何か隠している事を感じ取ったカタリナは、自らが守るべき者のため、全てを知っておきたいのだという。,"[지타]일행은 필사적으로 왕궁 안을 찾아헤매지만 그곳은 너무나도 넓었고, 조금도 오르키스를 발견할 기색이 없다. 초조해하는 흑기사에게 카타리나는 의심을 보인다. 흑기사가 무언가를 숨기고 있는 것을 느낀 카타리나는 스스로가 지켜야 할 자를 위해 모든것을 알아두고 싶다고 말한다. "
+Japanese,"scene_cp35_q4_s10,3541",synopsis,,[플레이어]達は必死に王宮を探し回るのだが、そこはあまりにも広く、一向にオルキスが見つかる気配がない。焦る黒騎士へ、カタリナが疑念をぶつける。黒騎士が何か隠している事を感じ取ったカタリナは、自らが守るべき者のため、全てを知っておきたいのだという。,"[플레이어]일행은 필사적으로 왕궁 안을 찾아헤매지만 그곳은 너무나도 넓었고, 조금도 오르키스를 발견할 기색이 없다. 초조해하는 흑기사에게 카타리나는 의심을 보인다. 흑기사가 무언가를 숨기고 있는 것을 느낀 카타리나는 스스로가 지켜야 할 자를 위해 모든것을 알아두고 싶다고 말한다. "
 Japanese,"scene_cp35_q4_s10,3541",detail,흑기사,くそ……<br>そう広いわけではないんだが、<br>どうにも見つからんな……,"젠장……<br>그렇게 넓은것도 아닌데,<br>정말 안찾아지는군……"
 Japanese,"scene_cp35_q4_s10,3541",detail,흑기사,いっそ二手に分かれたほうが賢明か？<br>しらみ潰しに探していけば、<br>見つかるとは思うが……,"차라리 둘로 나누는 편이 현명할까?<br>이 잡듯이 샅샅이 뒤져보면,<br>찾을 수 있을 것 같은데……"
 Japanese,"scene_cp35_q4_s10,3541",detail,카타리나,黒騎士……<br>一つ……私の問いに答えてくれないか？,흑기사……<br>한가지……내 물음에 답해주지 않겠나?
@@ -160,7 +160,7 @@ Japanese,"scene_cp35_q4_s20,3542",detail,흑기사,それを決めるのは私�
 Japanese,"scene_cp35_q4_s20,3542",detail,카타리나,そう……だな……,그건……그렇지……
 Japanese,"scene_cp35_q4_s20,3542",detail,흑기사,ふん……<br>気落ちしている場合ではないぞ。,흥……<br>낙담하고 있을 때가 아니다.
 Japanese,"scene_cp35_q4_s20,3542",detail,흑기사,まだオルキスは見つかっていないのだ。<br>いましばらく、<br>貴様らの力を貸してもらうぞ！,"아직 오르키스를 찾지 못했다.<br>지금 당장은,<br>네 녀석들의 힘을 빌려줘야겠어!"
-Japanese,"scene_cp35_q4_s30,3543",synopsis,,古き王宮の中でオルキスを見つけるどころか、宰相フリーシアの気配さえ無い。オルキスが連れて行かれたのは、今[ジータ]らがいるラビ島とは別の場所ではないか、という可能性が[ジータ]達の頭をよぎる。オルキス奪還という目的が遠ざかり、黒騎士の焦りは募ってゆく。,"오랜 왕궁 안에서 오르키스를 찾아내기는 커녕 재상 프리시아의 기척조차 없다. 오르키스가 끌려간 것은 지금 [지타]일행이 있는 라비 섬이 아닌 다른 장소가 아닌가, 그런 가능성이 [지타] 일행의 머리에 맴돈다. 오르키스 탈환이라는 목적은 멀어져가고, 흑기사의 초조함은 심해져만 간다."
+Japanese,"scene_cp35_q4_s30,3543",synopsis,,古き王宮の中でオルキスを見つけるどころか、宰相フリーシアの気配さえ無い。オルキスが連れて行かれたのは、今[플레이어]らがいるラビ島とは別の場所ではないか、という可能性が[플레이어]達の頭をよぎる。オルキス奪還という目的が遠ざかり、黒騎士の焦りは募ってゆく。,"오랜 왕궁 안에서 오르키스를 찾아내기는 커녕 재상 프리시아의 기척조차 없다. 오르키스가 끌려간 것은 지금 [플레이어]일행이 있는 라비 섬이 아닌 다른 장소가 아닌가, 그런 가능성이 [플레이어] 일행의 머리에 맴돈다. 오르키스 탈환이라는 목적은 멀어져가고, 흑기사의 초조함은 심해져만 간다."
 Japanese,"scene_cp35_q4_s30,3543",detail,카타리나,…………,…………
 Japanese,"scene_cp35_q4_s30,3543",detail,흑기사,…………,…………
 Japanese,"scene_cp35_q4_s30,3543",detail,라캄,そ、それにしてもオルキスちゃん、<br>なかなか見つかんねぇな！<br>どっかに隠れてやがるのか？,"그, 그건 그렇고 오르키스, <br>되게 찾기 힘드네!<br>어디 막 숨어있는거 아니야?"
@@ -168,8 +168,8 @@ Japanese,"scene_cp35_q4_s30,3543",detail,이오,オルキスちゃんだけじ�
 Japanese,"scene_cp35_q4_s30,3543",detail,비이,まさかとは思うけどよぅ……<br>もしかして、<br>あいつら、この島には……,"설마 그러진 않겠지만……<br>혹시,<br>그녀석들, 이 섬에는……"
 Japanese,"scene_cp35_q4_s30,3543",detail,흑기사,…………,…………
 Japanese,"scene_cp35_q4_s30,3543",detail,비이,ひぃっ！？,히익!?
-Japanese,"scene_cp35_q4_s30,3543",detail,루리아,と、とにかくもう少し<br>探してみましょう！<br>ねっ！ [ジータ]！,"아, 아무튼 조금 더<br>찾아보자!<br>응? [지타]!"
-Japanese,"scene_cp35_q4_s30,3543",detail,,<span class='scene-font-katari'>オルキスを探し、</span><br><span class='scene-font-katari'>王宮の中を彷徨い続ける</span><br><span class='scene-font-katari'>[ジータ]一行。</span>,"<span class='scene-font-katari'>오르키스를 찾아서,</span><br><span class='scene-font-katari'>왕궁 안을 끝없이 헤매는</span><br><span class='scene-font-katari'>[지타]일행.</span>"
+Japanese,"scene_cp35_q4_s30,3543",detail,루리아,と、とにかくもう少し<br>探してみましょう！<br>ねっ！ [플레이어]！,"아, 아무튼 조금 더<br>찾아보자!<br>응? [플레이어]!"
+Japanese,"scene_cp35_q4_s30,3543",detail,,<span class='scene-font-katari'>オルキスを探し、</span><br><span class='scene-font-katari'>王宮の中を彷徨い続ける</span><br><span class='scene-font-katari'>[플레이어]一行。</span>,"<span class='scene-font-katari'>오르키스를 찾아서,</span><br><span class='scene-font-katari'>왕궁 안을 끝없이 헤매는</span><br><span class='scene-font-katari'>[플레이어]일행.</span>"
 Japanese,"scene_cp35_q4_s30,3543",detail,,<span class='scene-font-katari'>しかし、その結果は思わしくなく、</span><br><span class='scene-font-katari'>黒騎士の顔には、</span><br><span class='scene-font-katari'>徐々に焦りの色が浮かび始めるのだった。</span>,"<span class='scene-font-katari'>그러나, 그 결과는 시원치가 않고,</span><br><span class='scene-font-katari'>흑기사의 얼굴에는,</span><br><span class='scene-font-katari'>서서히 초조한 기색이 떠오르기 시작했다.</span>"
 English,"scene_cp35_q1_s10,3511",synopsis,,"As the crew wanders the palace, the Black Knight reminisces about her days with Orchis."
 English,"scene_cp35_q1_s10,3511",detail,,The crew continues to tread carefully as they stalk the palace grounds.
@@ -181,7 +181,7 @@ English,"scene_cp35_q1_s10,3511",detail,Lyria,I see. I wonder what you two were 
 English,"scene_cp35_q1_s10,3511",detail,Rackam,I get the feelin' we aren't alone in here. Place is probably crawlin' with imperials.
 English,"scene_cp35_q1_s10,3511",detail,Rackam,So? Now what? Where in this palace is Orchis?
 English,"scene_cp35_q1_s10,3511",detail,Black Knight,I'm not a psychic. I don't know specifically where she's being held. All we can do is look.
-English,"scene_cp35_q1_s10,3511",detail,Black Knight,"And look we shall. Pick up the pace, everyone. You too, [Djeeta]."
+English,"scene_cp35_q1_s10,3511",detail,Black Knight,"And look we shall. Pick up the pace, everyone. You too, [플레이어]."
 English,"scene_cp35_q1_s20,3512",synopsis,,The Black Knight halts the crew's advance through the palace when they happen upon the room she and Orchis once used for reading.
 English,"scene_cp35_q1_s20,3512",detail,Black Knight,...
 English,"scene_cp35_q1_s20,3512",detail,Eugen,Somethin' wrong? You just stopped.
@@ -266,7 +266,7 @@ English,"scene_cp35_q3_s20,3532",detail,Black Knight,Or is it something else? Do
 English,"scene_cp35_q3_s20,3532",detail,Black Knight,"You won't recognize your friends, because they aren't your mirror image?"
 English,"scene_cp35_q3_s20,3532",detail,Lyria,N-no! Not at all! It's just...
 English,"scene_cp35_q3_s20,3532",detail,Lyria,I guess I'm... not alone...
-English,"scene_cp35_q3_s20,3532",detail,Vyrn,"You bet your blue hair you're not! Right, [Djeeta]?"
+English,"scene_cp35_q3_s20,3532",detail,Vyrn,"You bet your blue hair you're not! Right, [플레이어]?"
 English,"scene_cp35_q3_s20,3532",sel1_txt,,We’re all here for you!
 English,"scene_cp35_q3_s20,3532",sel2_txt,,We could be alone together.
 English,"scene_cp35_q3_s20,3532",detail,Lyria,You're right. Of course you're right.
@@ -274,9 +274,9 @@ English,"scene_cp35_q3_s20,3532",detail,Lyria,I'm sorry. I just got a little con
 English,"scene_cp35_q3_s20,3532",detail,Lyria,I can't believe I felt lonely even with this many wonderful people by my side.
 English,"scene_cp35_q3_s20,3532",detail,Lyria,Huh!
 English,"scene_cp35_q3_s20,3532",detail,Black Knight,Hah—you're interesting for sure.
-English,"scene_cp35_q3_s20,3532",detail,Vyrn,"Yikes! Sometimes [Djeeta] get's a little, uh, carried away!"
+English,"scene_cp35_q3_s20,3532",detail,Vyrn,"Yikes! Sometimes [플레이어] get's a little, uh, carried away!"
 English,"scene_cp35_q3_s20,3532",detail,Vyrn,"You're gonna make us all blush, Cap'n McFlirtypants!"
-English,"scene_cp35_q3_s20,3532",detail,Katalina,"Lyria, it's not just [Djeeta]. I won't leave your side either."
+English,"scene_cp35_q3_s20,3532",detail,Katalina,"Lyria, it's not just [플레이어]. I won't leave your side either."
 English,"scene_cp35_q3_s20,3532",detail,Rackam,"C'mon, Lyria! You gotta know us better by now!"
 English,"scene_cp35_q3_s20,3532",detail,Io,"That's right! We're here for you, so don't act like you're by yourself."
 English,"scene_cp35_q3_s20,3532",detail,Io,Start saying stuff like that again and I'll get mad at you!
@@ -340,6 +340,6 @@ English,"scene_cp35_q4_s30,3543",detail,Io,"Well not just Orchis, but that stupi
 English,"scene_cp35_q4_s30,3543",detail,Vyrn,"I sure hope not, but do you think they coulda left the island?"
 English,"scene_cp35_q4_s30,3543",detail,Black Knight,...
 English,"scene_cp35_q4_s30,3543",detail,Vyrn,Sorry!
-English,"scene_cp35_q4_s30,3543",detail,Lyria,"Let's just keep looking for a little longer, okay, [Djeeta]?"
-English,"scene_cp35_q4_s30,3543",detail,,[Djeeta] and the crew continue roaming the palace interior for signs of Orchis.
+English,"scene_cp35_q4_s30,3543",detail,Lyria,"Let's just keep looking for a little longer, okay, [플레이어]?"
+English,"scene_cp35_q4_s30,3543",detail,,[플레이어] and the crew continue roaming the palace interior for signs of Orchis.
 English,"scene_cp35_q4_s30,3543",detail,,"The Black Knight's scowl grows deeper as their search grows longer—but her patience, as the crew would soon learn, is not the only thing on trial."

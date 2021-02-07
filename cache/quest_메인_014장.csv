@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp14_q1_s10,1411",synopsis,,謎の少女、オルキスによろず屋に来た経緯を尋ねる<span>[ジータ]</span>一行。そこでロゼッタが騎空艇に居たオルキスを勝手に連れ出したことが判明し、オルキスを無事に帰すべく、再び黒騎士を探して森を進む。,"수수께끼의 소녀, 오르키스에 갑옷가게에 온 경위를 묻는 <span> [지타]</span> 일행.거기서 로제타가 기공정에 있던 오르키스를 마음대로 데려간 것이 판명되어, 오르키스를 무사히 돌려보내기 위해, 다시 흑기사를 찾아 숲을 나아간다."
+Japanese,"scene_cp14_q1_s10,1411",synopsis,,謎の少女、オルキスによろず屋に来た経緯を尋ねる<span>[플레이어]</span>一行。そこでロゼッタが騎空艇に居たオルキスを勝手に連れ出したことが判明し、オルキスを無事に帰すべく、再び黒騎士を探して森を進む。,"수수께끼의 소녀, 오르키스에 갑옷가게에 온 경위를 묻는 <span> [플레이어]</span> 일행.거기서 로제타가 기공정에 있던 오르키스를 마음대로 데려간 것이 판명되어, 오르키스를 무사히 돌려보내기 위해, 다시 흑기사를 찾아 숲을 나아간다."
 Japanese,"scene_cp14_q1_s10,1411",detail,,<span class='scene-font-katari'>黒騎士に連れられていた少女は、</span><br><span class='scene-font-katari'>何事もなかったかのように</span><br><span class='scene-font-katari'>食事を続けていた。</span>,<span class = 'scene-font-katari'> 흑기사에 이끌려 있던 소녀는 </ span> <br> <span class = 'scene-font-katari'> 아무 일도 없었던 것처럼 </ span > <br> <span class = 'scene-font-katari'> 식사를 계속했다. </ span>
 Japanese,"scene_cp14_q1_s10,1411",detail,？？？,もぐもぐ……,냠냠……
 Japanese,"scene_cp14_q1_s10,1411",detail,라캄,えー、なんだ……<br>嬢ちゃんはここで何してるんだ？,에~ 뭐야……<br>아가씨는 여기서 뭐하고 있어?
@@ -17,7 +17,7 @@ Japanese,"scene_cp14_q1_s10,1411",detail,카타리나,説明していただこ�
 Japanese,"scene_cp14_q1_s10,1411",detail,로제타,大した理由なんてないわ。<br>見慣れない騎空艇があるから、<br>その近くを散歩してたら……,"별 이유 없어.<br>낯선 기공정이 있어서,<br>그 근처를 산책하고 있었는데...."
 Japanese,"scene_cp14_q1_s10,1411",detail,로제타,その子が暇そうにしてたし、<br>可愛いからついつい連れて来ちゃった。,"그 아이가 한가한것 같았고,<br>귀여워서 나도 모르게 데려와버렸어."
 Japanese,"scene_cp14_q1_s10,1411",detail,로제타,てへ☆,테에☆
-Japanese,"scene_cp14_q1_s10,1411",detail,이오,……ねぇ、[ジータ]、<br>これ、あたしの知ってるのだと、<br>誘拐って言うと思うんだけど……,"……야, [지타], <br> 이거, 내가 아는 거라면, <br> 유괴라고 말할 것 같은데……"
+Japanese,"scene_cp14_q1_s10,1411",detail,이오,……ねぇ、[플레이어]、<br>これ、あたしの知ってるのだと、<br>誘拐って言うと思うんだけど……,"……야, [플레이어], <br> 이거, 내가 아는 거라면, <br> 유괴라고 말할 것 같은데……"
 Japanese,"scene_cp14_q1_s10,1411",detail,비이,いや、キッチリしっかり誘拐だぜ！<br>何してんだあんた！？,"아니, 확실히 유괴야!<br>뭐하는거야 너!?"
 Japanese,"scene_cp14_q1_s10,1411",detail,루리아,勝手に連れてきちゃったなら、<br>騎士さん心配してるんじゃ……,"멋대로 데려와버리면,<br>기사님 걱정하시지....."
 Japanese,"scene_cp14_q1_s10,1411",detail,オルキス,大丈夫、置手紙してきた……<br><span class='scene-font-bold scene-font-blue'>『謎のお姉さんに連れて行かれます』</span><br>って……,"괜찮아, 편지 두고 왔어……<br><span class='scene-font-bold scene-font-blue><수수께끼의 언니에게 끌려갑니다></span><br>라니……"
@@ -31,9 +31,9 @@ Japanese,"scene_cp14_q1_s20,1412",synopsis,,黒騎士を探すため道中を共
 Japanese,"scene_cp14_q1_s20,1412",detail,카타리나,まったく……<br>ロゼッタ、君はいったい、<br>何を考えているんだ？,"정말.....<br>로젯타, 넌 대체<br>무슨 생각을 하고 있는거야?"
 Japanese,"scene_cp14_q1_s20,1412",detail,카타리나,あの黒騎士の騎空艇から、<br>少女を誘拐してくるなど……,"저 흑기사의 기공정에서,<br>소녀를 유괴해 오는 등……"
 Japanese,"scene_cp14_q1_s20,1412",detail,로제타,まぁ、いいじゃない。<br>その分、森の案内くらいはするわ。,뭐 어때?그만큼 숲 안내정도는 하지.
-Japanese,"scene_cp14_q1_s20,1412",detail,루리아,ねぇねぇ、私、ルリア！<br>それでこっちが[ジータ]！<br>よろしくね、オルキスちゃん！,"야야, 나, 루리아! <br> 그래서 이쪽이 [지타]!<br>잘 부탁해, 오르키스!"
+Japanese,"scene_cp14_q1_s20,1412",detail,루리아,ねぇねぇ、私、ルリア！<br>それでこっちが[플레이어]！<br>よろしくね、オルキスちゃん！,"야야, 나, 루리아! <br> 그래서 이쪽이 [플레이어]!<br>잘 부탁해, 오르키스!"
 Japanese,"scene_cp14_q1_s20,1412",detail,オルキス,よろしく……って、なに？,잘 부탁한다……는 뭐야?
-Japanese,"scene_cp14_q1_s20,1412",detail,루리아,え？ えーっと……<br>な、なんだろう？ [ジータ]……,"에? 어디 보자……<br>나, 뭐지? [지타]……"
+Japanese,"scene_cp14_q1_s20,1412",detail,루리아,え？ えーっと……<br>な、なんだろう？ [플레이어]……,"에? 어디 보자……<br>나, 뭐지? [플레이어]……"
 Japanese,"scene_cp14_q1_s20,1412",detail,이오,これから友達になろうねってこと！<br>あたしはイオ、よろしくね。,"앞으로 친구가 되자는 것! <br> 나는 이오, 잘 부탁해."
 Japanese,"scene_cp14_q1_s20,1412",detail,オルキス,友達……これから……<br>私と……？,친구.... 이제부터....<br>나와....?
 Japanese,"scene_cp14_q1_s20,1412",detail,オルキス,ともだち……,친구……
@@ -68,10 +68,10 @@ Japanese,"scene_cp14_q2_s20,1422",detail,카타리나,ルリアはずいぶん�
 Japanese,"scene_cp14_q2_s20,1422",detail,라캄,感慨深そうな目してんなぁ……<br>娘に友達ができた親の気分か？,감개심장한 눈빛을 하고 있네……<br>딸에게 친구가 생긴 부모의 기분인가?
 Japanese,"scene_cp14_q2_s20,1422",detail,카타리나,……姉な。,……누나 말이지.
 Japanese,"scene_cp14_q2_s20,1422",detail,라캄,ああ、そうですか……,"아아, 그렇습니까……"
-Japanese,"scene_cp14_q2_s20,1422",detail,비이,けど、ルリアはずっと、<br>同じ年頃の友達が欲しいって言ってたし<br>一安心だな、[ジータ]。,"하지만, 루리아는 계속,<br>또래의 친구를 원한다고 말했고<br>일안심이네,[지타]."
+Japanese,"scene_cp14_q2_s20,1422",detail,비이,けど、ルリアはずっと、<br>同じ年頃の友達が欲しいって言ってたし<br>一安心だな、[플레이어]。,"하지만, 루리아는 계속,<br>또래의 친구를 원한다고 말했고<br>일안심이네,[플레이어]."
 Japanese,"scene_cp14_q2_s20,1422",detail,오이겐,さて……んじゃあ、オレたちゃ、<br>あの子らがのびのび出来るよう、<br>魔物を始末しちまうとすっか……,"자....음....그럼, 우리들은,<br>저 아이들이 뻗어나갈 수 있도록,<br>마물을 처치해 버리면 되는가......."
 Japanese,"scene_cp14_q2_s20,1422",detail,카타리나,ああ……<br>ルリアの安寧は私が守る……！<br>この剣にかけてな！,아아……<br>루리아의 안녕은 내가 지킨다……<br>이 검에 걸어라!
-Japanese,"scene_cp14_q3_s10,1431",synopsis,,次々と魔物を退ける<span>[ジータ]</span>一行のもとに、七曜の騎士のひとりである緋色の騎士、バラゴナが現れる。しかし、黒騎士とは協力関係にあるが仲間ではないと、バラゴナは戦闘の意思がないことを示す。,"차례차례로 마물을 물리치는 <span>[지타]</span>일행 밑에 칠요 기사 중 한 명인 주홍색 기사 바라고나가 나타난다.그러나 흑기사와는 협력관계이지만 동료가 아니라는 점, 바라고나는 전투 의사가 없음을 보여준다."
+Japanese,"scene_cp14_q3_s10,1431",synopsis,,次々と魔物を退ける<span>[플레이어]</span>一行のもとに、七曜の騎士のひとりである緋色の騎士、バラゴナが現れる。しかし、黒騎士とは協力関係にあるが仲間ではないと、バラゴナは戦闘の意思がないことを示す。,"차례차례로 마물을 물리치는 <span>[플레이어]</span>일행 밑에 칠요 기사 중 한 명인 주홍색 기사 바라고나가 나타난다.그러나 흑기사와는 협력관계이지만 동료가 아니라는 점, 바라고나는 전투 의사가 없음을 보여준다."
 Japanese,"scene_cp14_q3_s10,1431",detail,로제타,――相変わらず頼もしいわね。<br>さっき倒した魔物なんて、<br>かなりの大きさがあったんじゃない？,"-여전히 믿음직스럽네요.<br>아까 쓰러뜨린 마물이라니,<br>크게 크지 않았나?"
 Japanese,"scene_cp14_q3_s10,1431",detail,이오,ふふん……まだまだあたしは、<br>本気なんかじゃないけどねっ！<br>本気になったらもっと……,"흠……아직도 나는,<br>진심이 아니지만 말야!<br>진심이 된다면 더……"
 Japanese,"scene_cp14_q3_s10,1431",detail,？？？,おーい、大丈夫ですかー？,"야, 괜찮아요?"
@@ -88,7 +88,7 @@ Japanese,"scene_cp14_q3_s10,1431",detail,バラゴナ,黒騎士……？<br>あ�
 Japanese,"scene_cp14_q3_s10,1431",detail,バラゴナ,確かに協力関係にはありますが……<br>私は彼女の仲間というわけでは<br>ありませんね。,확실히 협력관계는 있습니다만……<br>저는 그녀의 동료라고 할 수 있는 건<br>
 Japanese,"scene_cp14_q3_s10,1431",detail,라캄,へぇ……<br>なんだよ、なかなか<br>話の分かる奴みたいじゃねぇか！,"에……<br> 뭐야, 꽤<br>이야기를 잘 알아듣는 녀석 같잖아!"
 Japanese,"scene_cp14_q3_s10,1431",detail,비이,そういうことなら、<br>オイラ達と一緒に行こうぜ！,"그렇다면,<br>오이라들과 함께 가자구!"
-Japanese,"scene_cp14_q3_s10,1431",detail,비이,この森には魔物がうじゃうじゃ居るし、<br>大勢で居たほうが心強いだろ！<br>なっ！ [ジータ]！,"이 숲에는 마물이 우글우글하고,<br>많은 사람이 있는 편이 든든하지!<br>나랏! [지타]!"
+Japanese,"scene_cp14_q3_s10,1431",detail,비이,この森には魔物がうじゃうじゃ居るし、<br>大勢で居たほうが心強いだろ！<br>なっ！ [플레이어]！,"이 숲에는 마물이 우글우글하고,<br>많은 사람이 있는 편이 든든하지!<br>나랏! [플레이어]!"
 Japanese,"scene_cp14_q3_s20,1432",synopsis,,バラゴナの柔らかな物腰に驚くカタリナは、かつて自身が帝国に身を置いていた頃、バラゴナが帝国最強の騎士と称されていたことを話す。,"바라고나의 부드러운 태도에 놀라는 카타리나는, 일찍이 자신이 제국에 몸담고 있을 무렵, 바라고나가 제국 최강의 기사라고 불리던 것을 말한다."
 Japanese,"scene_cp14_q3_s20,1432",detail,카타리나,それにしても意外だったな……<br>かの緋色の騎士が、<br>こうも柔和な人物だったとは……,"그렇다 치더라도 의외였군……<br>가의 주홍색 기사가,<br>이렇게도 유화한 인물이었다니……"
 Japanese,"scene_cp14_q3_s20,1432",detail,이오,あのお兄さん有名なの？<br>一応、騎士とは名乗ってるけど、<br>虫一匹殺せなさそう……,"저 오빠 유명해?일단, 기사라고는 자칭하고 있지만, <br> 벌레 한마리 못죽일것 같아……"
@@ -105,7 +105,7 @@ Japanese,"scene_cp14_q3_s20,1432",detail,루리아,そ、それって、<br>す�
 Japanese,"scene_cp14_q3_s20,1432",detail,카타리나,強いということだけではないが……<br>圧倒的な力を持っているのは確かだな。,강하다는 것만은 아니지만……<br>압도적인 힘을 가지고 있는 것은 확실하네.
 Japanese,"scene_cp14_q3_s20,1432",detail,카타리나,特に緋色の騎士は武芸に秀で、<br>私が帝国に居た時には、<br>帝国最強の騎士だと言われていたよ。,특히 주홍색 기사는 무예가 뛰어나 <br> 내가 제국에 있었을 때는 <br> 제국 최강의 기사라고 하더라.
 Japanese,"scene_cp14_q3_s20,1432",detail,이오,ふん、それならそれで良い機会ね……<br>帝国最強とやらに、<br>あたし達の力を見せつけてあげる！,"흥, 그렇다면 그것으로 좋은 기회네……<br>제국 최강자에게,<br>우리의 힘을 보여줄게!"
-Japanese,"scene_cp14_q4_s10,1441",synopsis,,ロゼッタと交わした会話から何かを読み取ったバラゴナはにわかに表情を険しくし、さらなる森の深部へと<span>[ジータ]</span>一行を案内する。,로제타와 나눈 대화에서 뭔가를 읽은 바라고나는 갑자기 험악한 표정을 지으며 숲 속 깊은 곳으로 <span>[지타]</span>일행을 안내한다.
+Japanese,"scene_cp14_q4_s10,1441",synopsis,,ロゼッタと交わした会話から何かを読み取ったバラゴナはにわかに表情を険しくし、さらなる森の深部へと<span>[플레이어]</span>一行を案内する。,로제타와 나눈 대화에서 뭔가를 읽은 바라고나는 갑자기 험악한 표정을 지으며 숲 속 깊은 곳으로 <span>[플레이어]</span>일행을 안내한다.
 Japanese,"scene_cp14_q4_s10,1441",detail,로제타,――そうだ、ねぇ、騎士様。<br>アタシ達、黒騎士を探してるんだけど<br>どこに居るか知らないかしら？,"-- 맞다, 저기 기사님. <br> 나 흑기사 찾는데 <br> 어디 있는지 모르나?"
 Japanese,"scene_cp14_q4_s10,1441",detail,バラゴナ,さぁ……気難しい方ですからね。<br>どこに居るのやら……,글쎄.... 까다로운 편이니까요.<br>어디에 있는지....
 Japanese,"scene_cp14_q4_s10,1441",detail,로제타,あら本当に？<br>だって騎士様……<br>さっき会ってたでしょう？ 黒騎士に。,어머 정말?<br>라니 기사님....<br>아까 봤잖아요? 흑기사한테
@@ -119,24 +119,24 @@ Japanese,"scene_cp14_q4_s10,1441",detail,バラゴナ,案内人……<br>……�
 Japanese,"scene_cp14_q4_s10,1441",detail,루리아,ふぇっ！？<br>は、はい、そうですけど……,"헉!?<br>는, 네, 그렇습니다만……"
 Japanese,"scene_cp14_q4_s10,1441",detail,バラゴナ,ふむ……<br>では、その隣に居る君が……,흠…<br>에서는 그 옆에 있는 네가…
 Japanese,"scene_cp14_q4_s10,1441",detail,バラゴナ,そうか……<br>雰囲気が父君に似ているな……<br>やはり血筋か……,그런가……<br>분위기가 부군과 비슷하군……<br>역시 핏줄인가……
-Japanese,"scene_cp14_q4_s10,1441",detail,비이,まさか……[ジータ]の親父さんを、<br>知ってるってのか！？,"설마……[지타]의 아버지를,<br>알고 있다는 거야!?"
+Japanese,"scene_cp14_q4_s10,1441",detail,비이,まさか……[플레이어]の親父さんを、<br>知ってるってのか！？,"설마……[플레이어]의 아버지를,<br>알고 있다는 거야!?"
 Japanese,"scene_cp14_q4_s10,1441",detail,バラゴナ,……わかりました。<br>そういうことなら、案内しましょう。<br>私に付いて来てください。,……알겠습니다.그런거라면 안내하겠습니다.<br>저를 따라오세요.
 Japanese,"scene_cp14_q4_s10,1441",detail,비이,あ！ おい！,아! 야!
 Japanese,"scene_cp14_q4_s10,1441",detail,로제타,ふふ……行きましょう？<br>せっかく<br>案内してくれるって言うんだもの。,후후.....가볼까요?<br>모처럼<br>안내해 준다고 하니까.
-Japanese,"scene_cp14_q4_s10,1441",detail,카타리나,彼の後を追おう、[ジータ]<br>いまの私達には恐らく、それが最善だ。,"그의 뒤를 쫓자, [지타]<br>지금의 우리에게는 아마도, 그것이 최선이다."
-Japanese,"scene_cp14_q4_s20,1442",synopsis,,バラゴナは自らが案内した森の深奥で<span>[ジータ]</span>一行に刃を向ける。しかし、敵対の意思はなく<span>[ジータ]</span>を試すためだと話すバラゴナに、一同は胸を借りる思いで応戦する。,바라고나는 자신이 안내한 숲속 깊은 곳에서 <span>[지타]</span>일행에게 칼을 겨눈다.그러나 적대의사가 아니라 <span>[지타]</span>를 시험하기 위해서라고 말하는 바라고나에게 모두는 가슴을 빌리는 심정으로 응전한다.
+Japanese,"scene_cp14_q4_s10,1441",detail,카타리나,彼の後を追おう、[플레이어]<br>いまの私達には恐らく、それが最善だ。,"그의 뒤를 쫓자, [플레이어]<br>지금의 우리에게는 아마도, 그것이 최선이다."
+Japanese,"scene_cp14_q4_s20,1442",synopsis,,バラゴナは自らが案内した森の深奥で<span>[플레이어]</span>一行に刃を向ける。しかし、敵対の意思はなく<span>[플레이어]</span>を試すためだと話すバラゴナに、一同は胸を借りる思いで応戦する。,바라고나는 자신이 안내한 숲속 깊은 곳에서 <span>[플레이어]</span>일행에게 칼을 겨눈다.그러나 적대의사가 아니라 <span>[플레이어]</span>를 시험하기 위해서라고 말하는 바라고나에게 모두는 가슴을 빌리는 심정으로 응전한다.
 Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,着きましたよ。<br>ここです……,도착했어요.<br>여기요……
 Japanese,"scene_cp14_q4_s20,1442",detail,이오,ここって言われても……,여기라고 해도……
 Japanese,"scene_cp14_q4_s20,1442",detail,오이겐,騎士さんよぉ……<br>道を間違えちゃいねぇか？<br>ここにゃオレ達以外に誰もいねぇぜ？,기사님아……<br> 길을 잘못 드는 거 아냐?여기에는 우리말고는 아무도 없네?
 Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,被害を出すわけにもいきませんから……<br>さぁ、武器を構えなさい。,"피해를 낼 수도 없으니……<br>자, 무기를 들어 올려라."
 Japanese,"scene_cp14_q4_s20,1442",detail,카타리나,どういうことだ……？<br>やはり帝国の騎士として我々を？,무슨 일이야……?<br>역시 제국의 기사로서 우리를?
 Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,帝国は関係ありません。<br>これは私の……<br>この世界の最強を背負う者の使命です。,제국은 관계없습니다.<br>이것은 나의……<br>이 세계의 최강을 짊어지는 자의 사명입니다.
-Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,[ジータ]、<br>君がルリアちゃんを連れている以上、<br>私は君達を試さなくてはならない。,"[지타],<br>네가 루리아를 데리고 있는 이상,<br>나는 너희들을 시험하지 않으면 안 된다."
+Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,[플레이어]、<br>君がルリアちゃんを連れている以上、<br>私は君達を試さなくてはならない。,"[플레이어],<br>네가 루리아를 데리고 있는 이상,<br>나는 너희들을 시험하지 않으면 안 된다."
 Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,どうぞ……遠慮は無用です。<br>全力でかかってきてください。,아무쪼록……사양하실 필요 없습니다.<br> 있는 힘을 다해 덤벼주세요.
 Japanese,"scene_cp14_q4_s20,1442",detail,라캄,全力って……<br>んなことしたら、どうなるか……,"전력이라니....<br>같은 짓을 하면, 어떻게 될까...."
 Japanese,"scene_cp14_q4_s20,1442",detail,バラゴナ,ご安心を。私は強いですから。<br>それこそ貴方達が<br>足元にも及ばないほどに……,안심하세요. 저는 강하니까요.<br>그야말로 당신들이<br>발밑에도 미치지 못할 정도로……
 Japanese,"scene_cp14_q4_s20,1442",detail,이오,そ、そこまで言われると、<br>ちょっとカチンとくるわ……,"그, 거기까지 말하면,<br>조금 화가 나……"
-Japanese,"scene_cp14_q4_s20,1442",detail,루리아,ど、どうするの？ [ジータ],어떻게 할 건데? [지타]
+Japanese,"scene_cp14_q4_s20,1442",detail,루리아,ど、どうするの？ [플레이어],어떻게 할 건데? [플레이어]
 Japanese,"scene_cp14_q4_s20,1442",sel1_txt,,<span class='scene-font-katari'>全力でやろう</span>,<span class = 'scene-font-katari'> 전력으로하자 </ span>
 Japanese,"scene_cp14_q4_s20,1442",sel2_txt,,<span class='scene-font-katari'>手加減しない</span>,<span class = 'scene-font-katari'> 손대중하지 </ span>
 Japanese,"scene_cp14_q4_s20,1442",detail,비이,あそこまで言われちゃあな！<br>オイラ達だって、<br>星晶獣を相手に戦ったりしてきたんだ！,"거기까지 말해버리면 안돼!<br>오이라들도,<br>성정수를 상대로 싸우거나 하고 왔어!"
@@ -144,9 +144,9 @@ Japanese,"scene_cp14_q4_s20,1442",detail,비이,見せてやろうぜ！<br>オ�
 Japanese,"scene_cp14_q4_s20,1442",detail,비이,向こうがそう言ってるんだもんな！<br>手加減しちゃあ、逆に失礼だぜ！,"그쪽이 그렇게 말하고 있잖아! <br> 적당히 봐주면, 오히려 실례야!"
 Japanese,"scene_cp14_q4_s20,1442",detail,카타리나,またとない機会だ……<br>この空の頂に立つ武人に、<br>全力で挑んでみようじゃないか！！,"다시없는 기회다……<br>이 하늘의 정상에 선 무인에게,<br>전력으로 도전해보자구!!"
 Japanese,"scene_cp14_q4_s20,1442",detail,オルキス,…………,…………
-Japanese,"scene_cp14_q4_s20,1442",detail,로제타,[ジータ]、貴方達は試されてるの。<br>だからアタシに見せて頂戴……,[지타] 너희들은 시험당하고 있어.<br>그러니까 나에게 보여줘……
+Japanese,"scene_cp14_q4_s20,1442",detail,로제타,[플레이어]、貴方達は試されてるの。<br>だからアタシに見せて頂戴……,[플레이어] 너희들은 시험당하고 있어.<br>그러니까 나에게 보여줘……
 Japanese,"scene_cp14_q4_s20,1442",detail,로제타,あの日……あの旅立ちに、<br>ルリアちゃんの手を取った覚悟を、ね。,"그 날……그 여행길에,<br>루리아의 손을 잡은 각오를, 말이야."
-Japanese,"scene_cp14_q4_s30,1443",synopsis,,<span>[ジータ]</span>の実力に満足したバラゴナは穏やかな笑みを浮かべて一同の前から去っていく。そして、<span>[ジータ]</span>のことを気に入ったロゼッタは、<span>[ジータ]</span>の旅に付いていくことを勝手に宣言するのだった。,"<span>[지타]</span>의 실력에 만족한 바라고나는 잔잔한 미소를 지으며 일동의 앞을 떠난다.그리고, <span>[지타]</span>를 마음에 든 로제타는, <span>[지타]</span>의 여행을 따라갈 것을 마음대로 선언하는 것이었다."
+Japanese,"scene_cp14_q4_s30,1443",synopsis,,<span>[플레이어]</span>の実力に満足したバラゴナは穏やかな笑みを浮かべて一同の前から去っていく。そして、<span>[플레이어]</span>のことを気に入ったロゼッタは、<span>[플레이어]</span>の旅に付いていくことを勝手に宣言するのだった。,"<span>[플레이어]</span>의 실력에 만족한 바라고나는 잔잔한 미소를 지으며 일동의 앞을 떠난다.그리고, <span>[플레이어]</span>를 마음에 든 로제타는, <span>[플레이어]</span>의 여행을 따라갈 것을 마음대로 선언하는 것이었다."
 Japanese,"scene_cp14_q4_s30,1443",detail,バラゴナ,……！,……！
 Japanese,"scene_cp14_q4_s30,1443",detail,로제타,……これは、予想外だわ。,"……이건, 예상 밖이야."
 Japanese,"scene_cp14_q4_s30,1443",detail,バラゴナ,これはこれは……！<br>なかなかどうして、大したものだ！,이건..! <br> 꽤 왜.. 대단해!
@@ -157,23 +157,23 @@ Japanese,"scene_cp14_q4_s30,1443",detail,バラゴナ,いつかまた、お会�
 Japanese,"scene_cp14_q4_s30,1443",detail,,<span class='scene-font-katari'>そう告げた緋色の騎士は、</span><br><span class='scene-font-katari'>穏やかな笑みを浮かべて去って行った。</span>,<span class='s cene-font-katari> 그렇게 말한 주홍빛 기사는 </span><br><span class='s cene-font-katari> 온화한 미소를 띠고 떠났다.</span>
 Japanese,"scene_cp14_q4_s30,1443",detail,라캄,――で？<br>結局、あんたは何者なんだよ？,--그래서?<br>결국 넌 누구니?
 Japanese,"scene_cp14_q4_s30,1443",detail,로제타,ふふふ……アタシの正体なんて、<br>知っても面白くないわ。<br>そんなことより……,"후후……나의 정체따위,<br>알아도 재미없어.<br>그런것보다……"
-Japanese,"scene_cp14_q4_s30,1443",detail,로제타,まさか緋色の騎士を退けるなんて……<br>アタシ、[ジータ]達のこと、<br>とっても気に入っちゃったわ！,"설마 진홍색 기사를 물리치다니……<br>나,[지타]들을,<br>정말 맘에 들어!"
+Japanese,"scene_cp14_q4_s30,1443",detail,로제타,まさか緋色の騎士を退けるなんて……<br>アタシ、[플레이어]達のこと、<br>とっても気に入っちゃったわ！,"설마 진홍색 기사를 물리치다니……<br>나,[플레이어]들을,<br>정말 맘에 들어!"
 Japanese,"scene_cp14_q4_s30,1443",detail,라캄,ああ、そりゃどうも……,"아아, 그거 정말……"
-Japanese,"scene_cp14_q4_s30,1443",detail,로제타,だから、これからは貴方達の旅に、<br>アタシも付いていくことにしたから。<br>よろしくね？ [ジータ]。,그래서 이제부터는 당신들의 여행을 <br> 나도 따라가기로 했으니까.<br>잘부탁해요? [지타]
+Japanese,"scene_cp14_q4_s30,1443",detail,로제타,だから、これからは貴方達の旅に、<br>アタシも付いていくことにしたから。<br>よろしくね？ [플레이어]。,그래서 이제부터는 당신들의 여행을 <br> 나도 따라가기로 했으니까.<br>잘부탁해요? [플레이어]
 Japanese,"scene_cp14_q4_s30,1443",detail,카타리나,なっ……！？<br>だ、断固お断りだぞ！<br>こんな得体の知れない者を……！,"나랏……!?<br>다,단호히 거절이야!<br>이런 정체 모를 놈을……！"
 Japanese,"scene_cp14_q4_s30,1443",detail,로제타,あら、いいじゃない。<br>長旅には華も必要でしょ？,"어머, 좋네.긴 여행에는 꽃도 필요하겠죠?"
 Japanese,"scene_cp14_q4_s30,1443",detail,이오,華なら間に合ってますー！<br>ねー？ ルリア。,꽃이라면 충분해요-!<br>예-? 루리아
-Japanese,"scene_cp14_q4_s30,1443",detail,루리아,そ、そうです！<br>……そうですよね？ [ジータ]。,"그, 맞아요!<br>…그렇죠? [지타]"
+Japanese,"scene_cp14_q4_s30,1443",detail,루리아,そ、そうです！<br>……そうですよね？ [플레이어]。,"그, 맞아요!<br>…그렇죠? [플레이어]"
 Japanese,"scene_cp14_q4_s30,1443",detail,로제타,大人の魅力が足りないって言ってるの。<br>わかるかしら？,어른의 매력이 부족하다는 거야.<br>알까?
 Japanese,"scene_cp14_q4_s30,1443",detail,오이겐,ははは！ そういうことなら、<br>おっさんとしちゃ大歓迎だなぁ、オイ。,하하하! 그런거라면 <br> 아저씨라고 하면 대환영이야. 어이.
 Japanese,"scene_cp14_q4_s30,1443",detail,카타리나,くっ……わ、私では、<br>大人の魅力不足ということか……,"큭...와, 난,<br>어른의 매력부족이란 말인가..."
 Japanese,"scene_cp14_q4_s30,1443",detail,라캄,あーあー<br>カタリナがショック受けてんぞー<br>泣いちまうぞ、これは。,아아-<br>카탈리나가 쇼크받고 있다고-<br>울어버린다 이건.
 Japanese,"scene_cp14_q4_s30,1443",detail,카타리나,<span class='scene-font-4'>ふ、ふざけるなっ！</span><br>このくらいのことで誰が泣くものか！,"<span class = 'scene-font-4'> 휴, 신나는 놀이가! </ span> <br>이 많은 것으로 누가 울 것인가!"
-Japanese,"scene_cp14_q4_s30,1443",detail,비이,……こりゃあ、しばらくの間は、<br>騎空艇の中が騒がしくなりそーだな。<br>なぁ、[ジータ]。,"...... 이건 아, 잠시 동안은 <br> 기공정 안이 소란스럽겠다. <br>구나, 지타]."
+Japanese,"scene_cp14_q4_s30,1443",detail,비이,……こりゃあ、しばらくの間は、<br>騎空艇の中が騒がしくなりそーだな。<br>なぁ、[플레이어]。,"...... 이건 아, 잠시 동안은 <br> 기공정 안이 소란스럽겠다. <br>구나, 지타]."
 Japanese,"scene_cp14_q4_s30,1443",detail,オルキス,……にぎやか。,...... 분주.
 Japanese,"scene_cp14_q4_s30,1443",detail,,<span class='scene-font-katari'>謎多き美女、ロゼッタは</span><br><span class='scene-font-katari'>あらゆる意見を押しきって、</span><br><span class='scene-font-katari'>一同と旅を共にすることとなった。</span>,<span class = 'scene-font-katari'> 수수께끼 많은 미녀 로제타는 </ span> <br> <span class = 'scene-font-katari'> 모든 의견을 눌러 잘라 </ span> <br > <span class = 'scene-font-katari'> 일동과 여행을 함께하게되었다. </ span>
-Japanese,"scene_cp14_q4_s30,1443",detail,,<span class='scene-font-katari'>新たな仲間を加え、</span><br><span class='scene-font-katari'>[ジータ]達は黒騎士の影を求め、</span><br><span class='scene-font-katari'>黒き森の更なる深部へと進むのだった。</span>,<span class = 'scene-font-katari'> 새로운 동료를 추가 </ span> <br> <span class = 'scene-font-katari'> 지타] 우리는 흑기사의 그림자를 찾아 < / span> <br> <span class = 'scene-font-katari'> 검은 숲의 더욱 깊은 나아가는 것이었다. </ span>
-English,"scene_cp14_q1_s10,1411",synopsis,,The hungry young girl introduces herself as Orchis and says that Rosetta brought her to the Knickknack Shack. [Djeeta] and the others set off again into the forest in order to return the girl to the Black Knight.
+Japanese,"scene_cp14_q4_s30,1443",detail,,<span class='scene-font-katari'>新たな仲間を加え、</span><br><span class='scene-font-katari'>[플레이어]達は黒騎士の影を求め、</span><br><span class='scene-font-katari'>黒き森の更なる深部へと進むのだった。</span>,<span class = 'scene-font-katari'> 새로운 동료를 추가 </ span> <br> <span class = 'scene-font-katari'> 지타] 우리는 흑기사의 그림자를 찾아 < / span> <br> <span class = 'scene-font-katari'> 검은 숲의 더욱 깊은 나아가는 것이었다. </ span>
+English,"scene_cp14_q1_s10,1411",synopsis,,The hungry young girl introduces herself as Orchis and says that Rosetta brought her to the Knickknack Shack. [플레이어] and the others set off again into the forest in order to return the girl to the Black Knight.
 English,"scene_cp14_q1_s10,1411",detail,,The Black Knight's young companion continues eating without a care in the world.
 English,"scene_cp14_q1_s10,1411",detail,???,"Yum, yum..."
 English,"scene_cp14_q1_s10,1411",detail,Rackam,"So, uh... What're you doing here, little miss?"
@@ -191,7 +191,7 @@ English,"scene_cp14_q1_s10,1411",detail,Katalina,Now I think we deserve an expla
 English,"scene_cp14_q1_s10,1411",detail,Rosetta,"No reason in particular! I saw an airship I hadn't seen before, so I took a stroll around it..."
 English,"scene_cp14_q1_s10,1411",detail,Rosetta,She looked dreadfully bored on deck. So... I brought her here!
 English,"scene_cp14_q1_s10,1411",detail,Rosetta,Hehe.
-English,"scene_cp14_q1_s10,1411",detail,Io,"Hey, [Djeeta]... Is it just me or is that kidnapping?"
+English,"scene_cp14_q1_s10,1411",detail,Io,"Hey, [플레이어]... Is it just me or is that kidnapping?"
 English,"scene_cp14_q1_s10,1411",detail,Vyrn,That's <span class='scene-font-italic'>totally</span> kidnapping! What do you think you're doing?
 English,"scene_cp14_q1_s10,1411",detail,Lyria,The Black Knight's going to be worried once she realizes Orchis is gone...
 English,"scene_cp14_q1_s10,1411",detail,Orchis,It's okay. I left a note saying a strange lady took me away.
@@ -200,14 +200,14 @@ English,"scene_cp14_q1_s10,1411",detail,Vyrn,"So, uh... Orchis? Do you know wher
 English,"scene_cp14_q1_s10,1411",detail,Orchis,The forest.<br>She said she had something to do deep inside the forest.
 English,"scene_cp14_q1_s10,1411",detail,Katalina,"To avoid any misunderstandings, I believe we should deliver Orchis to the Black Knight directly."
 English,"scene_cp14_q1_s10,1411",detail,Eugen,"Well, whatever the case, we've gotta find her as soon as possible. It's as simple as that!"
-English,"scene_cp14_q1_s10,1411",detail,,"With Orchis in tow, [Djeeta] and the others head back into the forest."
+English,"scene_cp14_q1_s10,1411",detail,,"With Orchis in tow, [플레이어] and the others head back into the forest."
 English,"scene_cp14_q1_s20,1412",synopsis,,"As they walk the forest path in search of the Black Knight, Lyria and Io chat with Orchis, who seems to be slowly opening up to them."
 English,"scene_cp14_q1_s20,1412",detail,Katalina,"My goodness, Rosetta... What in the skies were you thinking?"
 English,"scene_cp14_q1_s20,1412",detail,Katalina,How could you kidnap Orchis from the Black Knight's airship?
 English,"scene_cp14_q1_s20,1412",detail,Rosetta,What's so wrong with that? Tell you what: I'll guide you to where you need to go.
-English,"scene_cp14_q1_s20,1412",detail,Lyria,"It's a pleasure to meet you, Orchis! I'm Lyria and this is [Djeeta]!"
+English,"scene_cp14_q1_s20,1412",detail,Lyria,"It's a pleasure to meet you, Orchis! I'm Lyria and this is [플레이어]!"
 English,"scene_cp14_q1_s20,1412",detail,Orchis,What's a pleasure?
-English,"scene_cp14_q1_s20,1412",detail,Lyria,"Huh? Come to think of it, why do we say that when meeting people, [Djeeta]?"
+English,"scene_cp14_q1_s20,1412",detail,Lyria,"Huh? Come to think of it, why do we say that when meeting people, [플레이어]?"
 English,"scene_cp14_q1_s20,1412",detail,Io,Basically it means let's be friends! My name's Io and it's a pleasure to meet you!
 English,"scene_cp14_q1_s20,1412",detail,Orchis,You want to... be friends... with me?
 English,"scene_cp14_q1_s20,1412",detail,Orchis,Friends...
@@ -242,10 +242,10 @@ English,"scene_cp14_q2_s20,1422",detail,Katalina,Seems like Lyria's really openi
 English,"scene_cp14_q2_s20,1422",detail,Rackam,You look so proud. Like your daughter finally made a friend!
 English,"scene_cp14_q2_s20,1422",detail,Katalina,I think you mean <span class='scene-font-italic'>sister</span>.
 English,"scene_cp14_q2_s20,1422",detail,Rackam,Right. That's what I meant...
-English,"scene_cp14_q2_s20,1422",detail,Vyrn,"Lyria said she always wanted a friend her age, so good for her! Don't you agree, [Djeeta]?"
+English,"scene_cp14_q2_s20,1422",detail,Vyrn,"Lyria said she always wanted a friend her age, so good for her! Don't you agree, [플레이어]?"
 English,"scene_cp14_q2_s20,1422",detail,Eugen,Now then... We should take care of these monsters so the little lasses don't have to.
 English,"scene_cp14_q2_s20,1422",detail,Katalina,"Right. As long as I hold this sword, I won't allow any harm to come to Lyria!"
-English,"scene_cp14_q3_s10,1431",synopsis,,"After defeating the monsters, [Djeeta] and the others meet Baragona, the Scarlet Knight. Although he admits to having a partnership with the Black Knight, he says they aren't exactly friends."
+English,"scene_cp14_q3_s10,1431",synopsis,,"After defeating the monsters, [플레이어] and the others meet Baragona, the Scarlet Knight. Although he admits to having a partnership with the Black Knight, he says they aren't exactly friends."
 English,"scene_cp14_q3_s10,1431",detail,Rosetta,"Oh, you're all so dependable! That monster you just took care of was quite a big one!"
 English,"scene_cp14_q3_s10,1431",detail,Io,Ha! I haven't even gotten started yet! Just you wait and—
 English,"scene_cp14_q3_s10,1431",detail,???,Hello! Everyone okay over here?
@@ -263,8 +263,8 @@ English,"scene_cp14_q3_s10,1431",detail,Baragona,"The Black Knight? Ah, yes. Her
 English,"scene_cp14_q3_s10,1431",detail,Baragona,"We do have a partnership of sorts... But I would hesitate to call her a friend, per se."
 English,"scene_cp14_q3_s10,1431",detail,Rackam,Whew... Finally someone who knows what we're talking about!
 English,"scene_cp14_q3_s10,1431",detail,Vyrn,How about you come with us?
-English,"scene_cp14_q3_s10,1431",detail,Vyrn,"This forest is packed with all sorts of monsters, so the more the merrier! Right, [Djeeta]?"
-English,"scene_cp14_q3_s20,1432",synopsis,,Baragona's gentle demeanor takes Katalina by surprise. She tells [Djeeta] and the others that Baragona was known as the strongest knight in the empire.
+English,"scene_cp14_q3_s10,1431",detail,Vyrn,"This forest is packed with all sorts of monsters, so the more the merrier! Right, [플레이어]?"
+English,"scene_cp14_q3_s20,1432",synopsis,,Baragona's gentle demeanor takes Katalina by surprise. She tells [플레이어] and the others that Baragona was known as the strongest knight in the empire.
 English,"scene_cp14_q3_s20,1432",detail,Katalina,The Scarlet Knight certainly has a more... <span class='scene-font-italic'>gentle</span> personality than I was expecting.
 English,"scene_cp14_q3_s20,1432",detail,Io,"Is he famous or something? I mean, he says he's a knight, but he doesn't look like he'd hurt a fly."
 English,"scene_cp14_q3_s20,1432",detail,Katalina,Famous doesn't quite seem like an appropriate way to describe one of the Seven Luminaries.
@@ -294,24 +294,24 @@ English,"scene_cp14_q4_s10,1441",detail,Baragona,"A guide, you say? I see... The
 English,"scene_cp14_q4_s10,1441",detail,Lyria,"Eep! Y-yes, that's right..."
 English,"scene_cp14_q4_s10,1441",detail,Baragona,Hm... Then that means the person standing next to you...
 English,"scene_cp14_q4_s10,1441",detail,Baragona,"Ah, yes... You carry yourself like your father. The apple doesn't fall far from the tree, I suppose."
-English,"scene_cp14_q4_s10,1441",detail,Vyrn,Wait! You know [Djeeta]'s dad?
+English,"scene_cp14_q4_s10,1441",detail,Vyrn,Wait! You know [플레이어]'s dad?
 English,"scene_cp14_q4_s10,1441",detail,Baragona,Very well. I'll show you to where you to go. Follow me.
 English,"scene_cp14_q4_s10,1441",detail,Vyrn,Hey! I'm talking to you!
 English,"scene_cp14_q4_s10,1441",detail,Rosetta,"Shall we get going? He's offering to lead the way, after all."
-English,"scene_cp14_q4_s10,1441",detail,Katalina,"Let's follow him, [Djeeta]. This may be our best bet."
-English,"scene_cp14_q4_s20,1442",synopsis,,"After leading them deep into the forest, Baragona turns his sword on [Djeeta] and the crew out of a duty to test their strength."
+English,"scene_cp14_q4_s10,1441",detail,Katalina,"Let's follow him, [플레이어]. This may be our best bet."
+English,"scene_cp14_q4_s20,1442",synopsis,,"After leading them deep into the forest, Baragona turns his sword on [플레이어] and the crew out of a duty to test their strength."
 English,"scene_cp14_q4_s20,1442",detail,Baragona,We have arrived. This is the place...
 English,"scene_cp14_q4_s20,1442",detail,Io,Which place exactly?
 English,"scene_cp14_q4_s20,1442",detail,Eugen,"Beg your pardon, but could you have gotten us lost? There's no one here but us!"
 English,"scene_cp14_q4_s20,1442",detail,Baragona,I promise you'll leave intact...<br>So unsheathe your weapons.
 English,"scene_cp14_q4_s20,1442",detail,Katalina,What's going on here? Are you working for the empire after all?
 English,"scene_cp14_q4_s20,1442",detail,Baragona,The empire has no part in this. It's just the duty I'm given. A duty shared by those who wield the greatest might in the skies.
-English,"scene_cp14_q4_s20,1442",detail,Baragona,"[Djeeta], you've chosen Lyria as a companion. That fact alone means you must be tested."
+English,"scene_cp14_q4_s20,1442",detail,Baragona,"[플레이어], you've chosen Lyria as a companion. That fact alone means you must be tested."
 English,"scene_cp14_q4_s20,1442",detail,Baragona,Now come... And do not hold back.<br>I wish to see what you are capable of.
-English,"scene_cp14_q4_s20,1442",detail,Rackam,"Whoa! If [Djeeta] goes all out, then sparks are gonna fly!"
+English,"scene_cp14_q4_s20,1442",detail,Rackam,"Whoa! If [플레이어] goes all out, then sparks are gonna fly!"
 English,"scene_cp14_q4_s20,1442",detail,Baragona,Worry not. I'm quite strong. Stronger than you could ever hope to be...
 English,"scene_cp14_q4_s20,1442",detail,Io,"When he puts it that way, I kind of want to punch him in the face."
-English,"scene_cp14_q4_s20,1442",detail,Lyria,"Wh-what should we do, [Djeeta]?"
+English,"scene_cp14_q4_s20,1442",detail,Lyria,"Wh-what should we do, [플레이어]?"
 English,"scene_cp14_q4_s20,1442",sel1_txt,,"If he wants a fight, he'll get it."
 English,"scene_cp14_q4_s20,1442",sel2_txt,,He won't find mercy here.
 English,"scene_cp14_q4_s20,1442",detail,Vyrn,"Yeah, and you're really askin' for it, buddy! We fight primal beasts all the time, y'know!"
@@ -319,9 +319,9 @@ English,"scene_cp14_q4_s20,1442",detail,Vyrn,So we're gonna make you eat those w
 English,"scene_cp14_q4_s20,1442",detail,Vyrn,And that's just what he wants! We'd practically be insulting him if we held back!
 English,"scene_cp14_q4_s20,1442",detail,Katalina,"This is a once-in-a-lifetime chance. It's the greatest warrior in the skies, and he's allowing us to face him on even footing!"
 English,"scene_cp14_q4_s20,1442",detail,Orchis,...
-English,"scene_cp14_q4_s20,1442",detail,Rosetta,"You're being tested, [Djeeta]. All of you, in fact. So you'd better show me..."
+English,"scene_cp14_q4_s20,1442",detail,Rosetta,"You're being tested, [플레이어]. All of you, in fact. So you'd better show me..."
 English,"scene_cp14_q4_s20,1442",detail,Rosetta,Show me the very strength that led you to take Lyria's hand on that fateful day.
-English,"scene_cp14_q4_s30,1443",synopsis,,"Satisfied with [Djeeta]'s ability, Baragona smiles as he takes his leave. Rosetta decides to join the crew."
+English,"scene_cp14_q4_s30,1443",synopsis,,"Satisfied with [플레이어]'s ability, Baragona smiles as he takes his leave. Rosetta decides to join the crew."
 English,"scene_cp14_q4_s30,1443",detail,Baragona,...!
 English,"scene_cp14_q4_s30,1443",detail,Rosetta,That was certainly... unexpected.
 English,"scene_cp14_q4_s30,1443",detail,Baragona,"Well, well! I must say you're quite skilled!"
@@ -332,19 +332,19 @@ English,"scene_cp14_q4_s30,1443",detail,Baragona,I look forward to the day our p
 English,"scene_cp14_q4_s30,1443",detail,,"With these simple words, the Scarlet Knight leaves with a gentle grin on his face."
 English,"scene_cp14_q4_s30,1443",detail,Rackam,"So, lady...<br>You mind telling us who you are?"
 English,"scene_cp14_q4_s30,1443",detail,Rosetta,The answer to that question really isn't that interesting. Besides...
-English,"scene_cp14_q4_s30,1443",detail,Rosetta,"What's important here is that you managed to drive off the Scarlet Knight! I knew there was something I liked about you and your friends, [Djeeta]!"
+English,"scene_cp14_q4_s30,1443",detail,Rosetta,"What's important here is that you managed to drive off the Scarlet Knight! I knew there was something I liked about you and your friends, [플레이어]!"
 English,"scene_cp14_q4_s30,1443",detail,Rackam,Yeah... Thanks.
-English,"scene_cp14_q4_s30,1443",detail,Rosetta,"And that's why I've decided to tag along on your little journey. I'm quite looking forward to it, [Djeeta]!"
+English,"scene_cp14_q4_s30,1443",detail,Rosetta,"And that's why I've decided to tag along on your little journey. I'm quite looking forward to it, [플레이어]!"
 English,"scene_cp14_q4_s30,1443",detail,Katalina,What! We firmly decline that offer! We don't even know who you are!
 English,"scene_cp14_q4_s30,1443",detail,Rosetta,"Oh, come now. Would it really hurt to have a little extra beauty for this long journey of yours?"
 English,"scene_cp14_q4_s30,1443",detail,Io,"We've already got enough beauty, thank you very much! Right, Lyria?"
-English,"scene_cp14_q4_s30,1443",detail,Lyria,"R-right! Don't you agree, [Djeeta]?"
+English,"scene_cp14_q4_s30,1443",detail,Lyria,"R-right! Don't you agree, [플레이어]?"
 English,"scene_cp14_q4_s30,1443",detail,Rosetta,"I'm saying you need a little splash of... maturity, if you catch my drift."
 English,"scene_cp14_q4_s30,1443",detail,Eugen,"Ha-ha! If that's the case, then you've got this old man's stamp of approval!"
 English,"scene_cp14_q4_s30,1443",detail,Katalina,Is she saying I'm lacking... in maturity?
 English,"scene_cp14_q4_s30,1443",detail,Rackam,"Well, look at that! Katalina's so shocked I could knock her over with a feather!"
 English,"scene_cp14_q4_s30,1443",detail,Katalina,D-don't be stupid! Nobody's knocking anybody over with something like that!
-English,"scene_cp14_q4_s30,1443",detail,Vyrn,"Things on the airship should be more interesting with her around at least. Right, [Djeeta]?"
+English,"scene_cp14_q4_s30,1443",detail,Vyrn,"Things on the airship should be more interesting with her around at least. Right, [플레이어]?"
 English,"scene_cp14_q4_s30,1443",detail,Orchis,How lively...
 English,"scene_cp14_q4_s30,1443",detail,,"Rosetta, the mysterious beauty, ignores all dissenting opinions and joins the crew."
-English,"scene_cp14_q4_s30,1443",detail,,"With Orchis in tow, [Djeeta] and the crew travel deeper into the forest hoping to find a trace of the Black Knight."
+English,"scene_cp14_q4_s30,1443",detail,,"With Orchis in tow, [플레이어] and the crew travel deeper into the forest hoping to find a trace of the Black Knight."

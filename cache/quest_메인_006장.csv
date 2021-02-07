@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp6_q1_s10,611",synopsis,,ドランク、スツルムに誘拐されていた少女はよろず屋で目を覚まし、自らの名前をイオと名乗る。自分の師匠である大公を探しているというイオの話す手がかりを元に、<span>[ジータ]</span>一行は歩みを進める。,"드랑크, 스츠룸에 유괴되어 있던 소녀는 비틀거림에서 깨어나 자신의 이름을 이오라고 자칭한다.자신의 스승인 대공을 찾고 있다고 하는 이오가 말하는 단서를 바탕으로,<span>[지타]</span>일행은 걸음을 옮긴다."
-Japanese,"scene_cp6_q1_s10,611",detail,,<span class='scene-font-katari'>よろず屋で大公捜索の方針を練る</span><br><span class='scene-font-katari'>[ジータ]達の元へ</span><br><span class='scene-font-katari'>シェロが朗報を携えてやって来る。</span>,<span class='scene-font-katari> 갑옷가게에서 대공수색 방침을 짜다</span><br><span class='scene-font-katari>[지타]들 앞으로 </span><br><span'sclass=<span'scene-katari>셰로가 좋은소식을 들고 온다.
-Japanese,"scene_cp6_q1_s10,611",detail,셰로카르테,[ジータ]さん～<br>例の女の子、目を覚ましましたよ～<br>ほら～入って入って、怖くないよ～,"[지타] 씨~<br>예전의 여자애, 눈을 떴어요~<br>이봐~ 들어와봐, 안 무서워~"
+Japanese,"scene_cp6_q1_s10,611",synopsis,,ドランク、スツルムに誘拐されていた少女はよろず屋で目を覚まし、自らの名前をイオと名乗る。自分の師匠である大公を探しているというイオの話す手がかりを元に、<span>[플레이어]</span>一行は歩みを進める。,"드랑크, 스츠룸에 유괴되어 있던 소녀는 비틀거림에서 깨어나 자신의 이름을 이오라고 자칭한다.자신의 스승인 대공을 찾고 있다고 하는 이오가 말하는 단서를 바탕으로,<span>[플레이어]</span>일행은 걸음을 옮긴다."
+Japanese,"scene_cp6_q1_s10,611",detail,,<span class='scene-font-katari'>よろず屋で大公捜索の方針を練る</span><br><span class='scene-font-katari'>[플레이어]達の元へ</span><br><span class='scene-font-katari'>シェロが朗報を携えてやって来る。</span>,<span class='scene-font-katari> 갑옷가게에서 대공수색 방침을 짜다</span><br><span class='scene-font-katari>[플레이어]들 앞으로 </span><br><span'sclass=<span'scene-katari>셰로가 좋은소식을 들고 온다.
+Japanese,"scene_cp6_q1_s10,611",detail,셰로카르테,[플레이어]さん～<br>例の女の子、目を覚ましましたよ～<br>ほら～入って入って、怖くないよ～,"[플레이어] 씨~<br>예전의 여자애, 눈을 떴어요~<br>이봐~ 들어와봐, 안 무서워~"
 Japanese,"scene_cp6_q1_s10,611",detail,？？？,ど、どーも……<br>世話になったみたいね。<br>助かったわ。,"고, 고……<br>고마워요, 신세를 졌네요.<br>살았어"
 Japanese,"scene_cp6_q1_s10,611",detail,비이,よぉー、魔導士の小娘。<br>具合はどうだ？<br>怪我はないんだよな？,"어이구, 마도사의 아가씨.<br>상태는 어때?<br> 다친곳은 없지?"
 Japanese,"scene_cp6_q1_s10,611",detail,？？？,ひっ！？,히!?
@@ -10,26 +10,26 @@ Japanese,"scene_cp6_q1_s10,611",detail,비이,んだと！<br>オイラはトカ
 Japanese,"scene_cp6_q1_s10,611",detail,카타리나,二人とも落ち着け……私はカタリナ。<br>こっちのかわゆいのはビィだ。<br>君は？,둘다 침착해…… 나는 카타리나. <br> 이쪽의 귀여운 녀석은 비이다.<br>너는?
 Japanese,"scene_cp6_q1_s10,611",detail,이오,イオ……名前はイオだよ。<br>……あなた達はなんなの？,이오……이름은 이오야.<br>……당신들은 누구야?
 Japanese,"scene_cp6_q1_s10,611",detail,루리아,私、ルリア！<br>イオちゃん、よろしくです！,나 루리아야! 이오 잘 부탁해요!
-Japanese,"scene_cp6_q1_s10,611",detail,라캄,俺はラカムだ。<br>で、こいつが<br>俺たちの団長の[ジータ]だ。,"나는 라캄이다. <br>이고, 이 녀석이 <br> 우리 단장인 [지타]다."
+Japanese,"scene_cp6_q1_s10,611",detail,라캄,俺はラカムだ。<br>で、こいつが<br>俺たちの団長の[플레이어]だ。,"나는 라캄이다. <br>이고, 이 녀석이 <br> 우리 단장인 [플레이어]다."
 Japanese,"scene_cp6_q1_s10,611",detail,라캄,さて……で、どうしてイオちゃんは<br>こないだから俺たちの後を<br>つけまわしてたんだ？,자…그런데 왜 이오는<br>얼마 전부터 우리들의 뒤를<br>따라다닌거지?
 Japanese,"scene_cp6_q1_s10,611",detail,이오,……実はさ、街で偶然<br>あなた達の会話を聞いて……<br>大公様は、あたしの魔法の師匠なんだ。,"……사실은, 거리에서 우연히<br>너희들의 회화를 듣고……<br> 대공님은, 나의 마법의 스승이야."
 Japanese,"scene_cp6_q1_s10,611",detail,이오,師匠の行方がわからなくなって<br>あたし、居ても立ってもいられなくって<br>なにかできないかと思って……,"스승님의 행방을 알 수 없게 되어 <br> 나, 안절부절못하고<br>뭔가 할 수 없을까 하고……"
 Japanese,"scene_cp6_q1_s10,611",detail,비이,っても、手がかりも無いから、<br>大公府の奴と接触した<br>オイラ達をつけてた、ってわけか。,"그래도, 단서도 없으니까,<br>대공부의 녀석과 접촉한<br>우리들을 쫓아다닌 건가."
 Japanese,"scene_cp6_q1_s10,611",detail,이오,あ、でもさ、手がかりは掴めたわ。<br>あのニヤけ男に捕まってる時に<br>とある島の名前を聞いたんだ！,"아, 그래도 단서는 다 잡혔어.<br>그 히죽거리는남자에게 잡혀있을때<br>어떤 섬 이름을 물어봤어!"
-Japanese,"scene_cp6_q1_s10,611",detail,비이,よっしゃ！ [ジータ]、<br>グランサイファーを出そう！<br>その島へ行ってみようぜ！,좋아 좋아! [지타] <br> 그랑사이퍼를 내오자! <br> 그 섬으로 가보자구!
-Japanese,"scene_cp6_q1_s20,612",synopsis,,イオに導かれ空を進む<span>[ジータ]</span>一行。目指す先、廃棄鉱山の島を利用したエルステ帝国の秘密工場は、怪しげな雰囲気に包まれていた。,"이오의 이끌려 하늘을 나아가는 <span> [지타] </span> 한 장소.목적지, 폐기 광산의 섬을 이용한 엘스테 제국의 비밀 공장은, 수상한 분위기에 싸여 있었다."
+Japanese,"scene_cp6_q1_s10,611",detail,비이,よっしゃ！ [플레이어]、<br>グランサイファーを出そう！<br>その島へ行ってみようぜ！,좋아 좋아! [플레이어] <br> 그랑사이퍼를 내오자! <br> 그 섬으로 가보자구!
+Japanese,"scene_cp6_q1_s20,612",synopsis,,イオに導かれ空を進む<span>[플레이어]</span>一行。目指す先、廃棄鉱山の島を利用したエルステ帝国の秘密工場は、怪しげな雰囲気に包まれていた。,"이오의 이끌려 하늘을 나아가는 <span> [플레이어] </span> 한 장소.목적지, 폐기 광산의 섬을 이용한 엘스테 제국의 비밀 공장은, 수상한 분위기에 싸여 있었다."
 Japanese,"scene_cp6_q1_s20,612",detail,라캄,イオちゃんが聞いた島ってのは、<br>この針路から見ると……あれだな。,"이오가 들은 섬이라는것은,<br>이 침로에서 보면…….그것 같아."
 Japanese,"scene_cp6_q1_s20,612",detail,이오,帝国の秘密工場らしいよ。<br>師匠が帝国にさらわれたなら<br>そこに居る可能性、高いよね！,제국의 비밀공장인가봐. <br> 스승님이 제국에 납치당하셨다면 <br> 그곳에 있을 가능성이 높아!
 Japanese,"scene_cp6_q1_s20,612",detail,비이,なるほど、掘り尽くされた<br>廃鉱の島か。トンネルだらけだ。<br>秘密基地にはもってこいだな。,"과연, 파헤쳐진<br>폐광의 섬인가.터널 투성이다.비밀기지에는 안성맞춤이구나"
 Japanese,"scene_cp6_q1_s20,612",detail,카타리나,しかし、あの誘拐犯との<br>状況認識のズレはなんだったんだ……？<br>いまは手がかりを追うしかないが……,"그러나, 그 유괴범과의<br>상황 인식의 차이는 뭐야……?지금은 단서를 쫓을 수 밖에 없지만……"
 Japanese,"scene_cp6_q1_s20,612",detail,라캄,おっと、島の前になんかいるぜ？,"어라, 섬 앞에 뭐가 있어?"
 Japanese,"scene_cp6_q1_s20,612",detail,비이,まずは魔物退治だな！,일단 마물 퇴치야!
-Japanese,"scene_cp6_q2_s10,621",synopsis,,廃棄鉱山にたどり着いた<span>[ジータ]</span>一行。砂漠の魔物を蹴散らして進む中、大公が如何なる人物であったかを、弟子であるイオが語り始める。,"폐기 광산에 도착한 <span> [지타] </span> 한 줄.사막의 마물을 박차고 나아가는 가운데, 대공이 어떤 인물이었는지를, 제자인 이오가 이야기하기 시작한다."
+Japanese,"scene_cp6_q2_s10,621",synopsis,,廃棄鉱山にたどり着いた<span>[플레이어]</span>一行。砂漠の魔物を蹴散らして進む中、大公が如何なる人物であったかを、弟子であるイオが語り始める。,"폐기 광산에 도착한 <span> [플레이어] </span> 한 줄.사막의 마물을 박차고 나아가는 가운데, 대공이 어떤 인물이었는지를, 제자인 이오가 이야기하기 시작한다."
 Japanese,"scene_cp6_q2_s10,621",detail,라캄,着陸完了、係留完了～っと。<br>とりあえず、目立たないように<br>降ろしたつもりだがな。,착륙완료 계류완료~ 하고.일단 눈에 띄지 않게<br>내려보려고 했는데 말야.
 Japanese,"scene_cp6_q2_s10,621",detail,카타리나,用無き者は訪れない辺境の島だ。<br>見つかっていると思って<br>行動した方が良いだろう。,용무가 없는 사람은 찾지 않는 변방의 섬이다.<br>찾았다고 생각하고<br>행동하는 것이 좋다.
 Japanese,"scene_cp6_q2_s10,621",detail,라캄,相も変わらず、砂と岩、か。<br><span class='scene-font-place'>バルツ</span>はこんなんばっかだな。<br>,"변함없이, 모래와 바위, 인가.<br><spanclass='scene-font-place>발츠</span>는 이런 것뿐이군.< br >"
-Japanese,"scene_cp6_q2_s10,621",detail,이오,なんか成り行きで来ちゃったけどさ<br>[ジータ]達は帝国を追ってる<br>ってことは、腕は立つの？,"왠지 모르게 와버렸지만 말이야<br>[지타]들은 제국을 쫓고 있는<br>라는 건, 실력은 되는 거야?"
-Japanese,"scene_cp6_q2_s10,621",detail,루리아,イオちゃん、大丈夫ですっ！<br>[ジータ]も、カタリナも、ラカムも<br>すっごく強いんですよ？,"이오짱, 괜찮습니다!<br>[지타]도, 카타리나도, 라캄도<br>매우 강하다구요?"
+Japanese,"scene_cp6_q2_s10,621",detail,이오,なんか成り行きで来ちゃったけどさ<br>[플레이어]達は帝国を追ってる<br>ってことは、腕は立つの？,"왠지 모르게 와버렸지만 말이야<br>[플레이어]들은 제국을 쫓고 있는<br>라는 건, 실력은 되는 거야?"
+Japanese,"scene_cp6_q2_s10,621",detail,루리아,イオちゃん、大丈夫ですっ！<br>[플레이어]も、カタリナも、ラカムも<br>すっごく強いんですよ？,"이오짱, 괜찮습니다!<br>[플레이어]도, 카타리나도, 라캄도<br>매우 강하다구요?"
 Japanese,"scene_cp6_q2_s10,621",detail,이오,へぇー……なら、いいけどね。,"에~……라면, 괜찮지만."
 Japanese,"scene_cp6_q2_s10,621",detail,루리아,ねぇねぇ、イオちゃん<br>大公様ってどんな方なんですか？,저기 이오양<br> 대공님은 어떤 분이에요?
 Japanese,"scene_cp6_q2_s10,621",detail,이오,師匠は……大雑把で、テキトーで、<br>忘れっぽくて、だらしがなくて……<br>でも……とても温かい人。,"스승은……대략적인 성격으로, 즉석에서,<br>잊을 줄 알고, 칠칠치 못해서……<br>에서도……매우 따뜻한 사람."
@@ -39,14 +39,14 @@ Japanese,"scene_cp6_q2_s10,621",detail,이오,えへへ……<br>でも、本当
 Japanese,"scene_cp6_q2_s10,621",detail,이오,あたしに初めて見せてくれた魔法だって<br>魔法って言いながら、<br>あれは手品だったんじゃないかな……,"나에게 처음으로 보여준 마법이라고<br>마법이라고 말하면서,<br>그건 마술이었던거 같아....."
 Japanese,"scene_cp6_q2_s10,621",detail,이오,でも、そのちんけな魔法は、<br>落ち込んでたあたしを、<br>心の底から笑顔にしてくれた……,"그렇지만, 그 작은 마법은,<br>침울해 있던 나를,<br>마음의 밑바닥으로부터 웃는 얼굴로 만들어 주었다……"
 Japanese,"scene_cp6_q2_s10,621",detail,이오,だから、<br>いつかこの人みたいになりたい、って<br>あたしはそう思ったんだ。,"그래서,<br>언젠가 이사람처럼 되고싶다, 라고<br>나는 그렇게 생각했어."
-Japanese,"scene_cp6_q2_s20,622",synopsis,,砂漠の魔物に囲まれる<span>[ジータ]</span>一行は、イオを守りながら戦おうとするが、イオは大公の弟子の魔導士である誇りにかけて自らも戦おうとする。,사막의 마물에 둘러싸인 <span>[지타]</span>일행은 이오를 지키며 싸우려하지만 이오는 대공의 제자 마도사라는 자부심을 걸고 자신도 싸우려고 한다.
+Japanese,"scene_cp6_q2_s20,622",synopsis,,砂漠の魔物に囲まれる<span>[플레이어]</span>一行は、イオを守りながら戦おうとするが、イオは大公の弟子の魔導士である誇りにかけて自らも戦おうとする。,사막의 마물에 둘러싸인 <span>[플레이어]</span>일행은 이오를 지키며 싸우려하지만 이오는 대공의 제자 마도사라는 자부심을 걸고 자신도 싸우려고 한다.
 Japanese,"scene_cp6_q2_s20,622",detail,라캄,おっと……<br>おしゃべりしてる暇はなさそうだぜ！,이런....<br>수다 떨 시간은 없을 것 같아!
 Japanese,"scene_cp6_q2_s20,622",detail,카타리나,空気が変わったな。<br>魔物のお出ましか！,공기가 바뀌었네.<br> 마물이 나오셨군요!
-Japanese,"scene_cp6_q2_s20,622",detail,비이,おい、[ジータ]！<br>こっちからも魔物だ！,야 [지타]! <br> 이쪽도 마물이다!
+Japanese,"scene_cp6_q2_s20,622",detail,비이,おい、[플레이어]！<br>こっちからも魔物だ！,야 [플레이어]! <br> 이쪽도 마물이다!
 Japanese,"scene_cp6_q2_s20,622",detail,루리아,<span class='scene-font-4'>イオちゃん、こっちです！</span><br><span class='scene-font-4'>こっちに隠れててください！</span>,<span class='scene-font-4>이오양 이쪽입니다!</span><br><span class='scene-font-4>이쪽으로 숨으세요!</span>
 Japanese,"scene_cp6_q2_s20,622",detail,이오,へ、平気よ！<br>これでも魔導士だもん。<br>魔物なんか蹴散らしてやるんだから！,헤~괜찮아! 이래도 마도사인걸?<br>마물따위 걷어차버리니까!
 Japanese,"scene_cp6_q2_s20,622",detail,라캄,おいおい、無茶すんじゃねぇぞ。<br>ガキンチョ！,"어이 어이, 엉뚱한 짓 하지마.<br>가킨쵸!"
-Japanese,"scene_cp6_q3_s10,631",synopsis,,廃鉱の入口を見つけた<span>[ジータ]</span>一行は、大公を見つける決意を改めて固め、放棄された採掘場へと踏み入れる。,폐광의 입구를 발견한 <span>[지타]</span>일행은 대공을 찾기로 마음을 굳히고 포기된 채굴장으로 들어간다.
+Japanese,"scene_cp6_q3_s10,631",synopsis,,廃鉱の入口を見つけた<span>[플레이어]</span>一行は、大公を見つける決意を改めて固め、放棄された採掘場へと踏み入れる。,폐광의 입구를 발견한 <span>[플레이어]</span>일행은 대공을 찾기로 마음을 굳히고 포기된 채굴장으로 들어간다.
 Japanese,"scene_cp6_q3_s10,631",detail,비이,おい、こっち！<br>上手く隠してあるけど<br>廃鉱の入り口っぽいぜ！,야 이쪽! <br> 잘 숨겼는데 <br> 폐광 입구 같은데?!
 Japanese,"scene_cp6_q3_s10,631",detail,카타리나,ここから先は敵地だ。<br>イオ、危険があるかもしれない。<br>気を付けてな？,"여기서부터는 적지다.<br>이오, 위험이 있을지도 몰라.<br> 조심해?"
 Japanese,"scene_cp6_q3_s10,631",detail,이오,う、うん！<br>……これでも魔導士だしね！<br>足手まといにはならないよ。,"으,응!<br>……이래도 마도사니까!<br>꼬리가 잡히지는 않아."
@@ -67,9 +67,9 @@ Japanese,"scene_cp6_q3_s10,631",detail,루리아,<span class='scene-font-kokoro'
 Japanese,"scene_cp6_q3_s10,631",detail,라캄,ふぅ……<br>これだからガキは苦手だぜ……,후……<br> 이래서 굴은 못써……
 Japanese,"scene_cp6_q3_s10,631",detail,이오,<span class='scene-font-4'>はぁ！？</span><br><span class='scene-font-4'>いまなんか言った！？</span>,<span class='scene-font-4'>네!?<br>지금 뭐라고 말했어!?</span>
 Japanese,"scene_cp6_q3_s10,631",detail,라캄,言ってねぇよ、お姫様。,말 안 해 공주야
-Japanese,"scene_cp6_q3_s10,631",detail,비이,まぁ、オイラと[ジータ]が<br>なんとかしてやるから見てろって！<br>どーんと任せときな！,"뭐, 오이라와 [지타]가<br>어떻게든 해줄테니까 봐주라고!<br>둥~ 맡겨줘!"
-Japanese,"scene_cp6_q3_s10,631",detail,이오,うん……トカゲはともかく、<br>[ジータ]は頼りにしてるわ。<br>師匠を……よろしくね。,"응……도마뱀은 둘째치고,<br>[지타]는 의지하고 있어.<br>스승을……잘부탁해."
-Japanese,"scene_cp6_q3_s20,632",synopsis,,廃鉱の奥深くに広がる研究施設の禍々しさに<span>[ジータ]</span>一行は戦慄し、大公の加担していた研究とは何だったのか思案を巡らせる。,폐광 깊숙이 펼쳐진 연구시설의 불길함에 <span>[지타]</span>일행은 전율에 빠져 대공이 가담했던 연구란 무엇이었는지 궁리한다.
+Japanese,"scene_cp6_q3_s10,631",detail,비이,まぁ、オイラと[플레이어]が<br>なんとかしてやるから見てろって！<br>どーんと任せときな！,"뭐, 오이라와 [플레이어]가<br>어떻게든 해줄테니까 봐주라고!<br>둥~ 맡겨줘!"
+Japanese,"scene_cp6_q3_s10,631",detail,이오,うん……トカゲはともかく、<br>[플레이어]は頼りにしてるわ。<br>師匠を……よろしくね。,"응……도마뱀은 둘째치고,<br>[플레이어]는 의지하고 있어.<br>스승을……잘부탁해."
+Japanese,"scene_cp6_q3_s20,632",synopsis,,廃鉱の奥深くに広がる研究施設の禍々しさに<span>[플레이어]</span>一行は戦慄し、大公の加担していた研究とは何だったのか思案を巡らせる。,폐광 깊숙이 펼쳐진 연구시설의 불길함에 <span>[플레이어]</span>일행은 전율에 빠져 대공이 가담했던 연구란 무엇이었는지 궁리한다.
 Japanese,"scene_cp6_q3_s20,632",detail,비이,そろそろ終点らしいぜ？,슬슬 종점이라던데?
 Japanese,"scene_cp6_q3_s20,632",detail,라캄,しかし、なんだぁ？ ここは。<br>なんの研究をしてるんだ？,근데 뭐야? 여기는 <br> 무슨 연구를 하고 있는거야?
 Japanese,"scene_cp6_q3_s20,632",detail,이오,師匠は、<br>これを手伝っていたの……？,"스승은,<br>이것을 돕고 있었니……?"
@@ -80,7 +80,7 @@ Japanese,"scene_cp6_q3_s20,632",detail,라캄,ありえねぇ話じゃねぇが�
 Japanese,"scene_cp6_q3_s20,632",detail,라캄,それならこんな場所で、<br>ひっそり研究する必要は、<br>なかったんじゃねぇのか？,그렇다면 이런 곳에서 <br> 조용히 연구할 필요는 <br> 없었던 거 아닌가?
 Japanese,"scene_cp6_q3_s20,632",detail,라캄,何か、人にバレちゃ<br>マズイ研究をしてたのだけは、<br>間違いねぇだろうな……,"뭔가, 다른 사람에게 들키면<br>머즈이 연구를 하고 있었던 것만은,<br>틀림없겠지……"
 Japanese,"scene_cp6_q3_s20,632",detail,비이,おい！<br>ボーっとするんじゃねぇぜ！<br>魔物だ！！,야!<br>멍 때리지마!<br>마물이다!!
-Japanese,"scene_cp6_q4_s10,641",synopsis,,廃鉱を進む<span>[ジータ]</span>一行の前に、ついにエルステ帝国最高権力者である黒騎士が姿を現す。しかし、その黒騎士の口から、帝国も大公を探していることを告げられる。,폐광을 나아가는 <span>[지타]</span> 일행 앞에 마침내 에르스테 제국 최고 권력자인 흑기사가 모습을 드러낸다.그러나 그 흑기사의 입에서 제국도 대공을 찾고 있다는 말이 나온다.
+Japanese,"scene_cp6_q4_s10,641",synopsis,,廃鉱を進む<span>[플레이어]</span>一行の前に、ついにエルステ帝国最高権力者である黒騎士が姿を現す。しかし、その黒騎士の口から、帝国も大公を探していることを告げられる。,폐광을 나아가는 <span>[플레이어]</span> 일행 앞에 마침내 에르스테 제국 최고 권력자인 흑기사가 모습을 드러낸다.그러나 그 흑기사의 입에서 제국도 대공을 찾고 있다는 말이 나온다.
 Japanese,"scene_cp6_q4_s10,641",detail,카타리나,！！ こ、この圧倒的な威圧感は……<br>馬鹿な……まさか……！？,"이, 이 압도적인 위압감은....<br>바보같다....설마....!?"
 Japanese,"scene_cp6_q4_s10,641",detail,？？？,うろたえるな、女。<br>貴様とてかつては、<br>我が帝国の名を負っていたのだろう？,"당황하지마, 여자.<br>네녀석도 예전에는,<br>우리 제국의 이름을 가지고 있었겠지?"
 Japanese,"scene_cp6_q4_s10,641",detail,카타리나,やはりそうか……！<br>なぜ貴様がここにいる！！,역시 그런가!!<br>왜 네가 여기에 있어!!
@@ -100,10 +100,10 @@ Japanese,"scene_cp6_q4_s10,641",detail,카타리나,大公がルリアを狙っ�
 Japanese,"scene_cp6_q4_s10,641",detail,흑기사,そうだ。私が謁見したとき大公閣下は、<br>既に何かに憑りつかれている様だった。,참. 내가 알현했을 때 대공각하는 <br> 이미 무엇에 홀린 듯 했다.
 Japanese,"scene_cp6_q4_s10,641",detail,흑기사,酷い顔であったよ。<br>血走った目ばかりが<br>妙に精気を発していた。,비참한 얼굴이었어.<br> 핏발선 눈만이<br>이상하게 정기를 발했어.
 Japanese,"scene_cp6_q4_s10,641",detail,흑기사,星晶の術……<br>大公はそれに固執していたな。<br>私の人形同様、ルリアも狙われるぞ？,성정술…<br> 대공은 그것을 고집했네.내 인형처럼 루리아도 노려볼만 하잖아?
-Japanese,"scene_cp6_q4_s10,641",detail,라캄,おい！ [ジータ]！<br>機械の魔物だ！<br>例の奴が入り口から……,야! [지타]! <br> 기계의 마물이다!<br> 예의 그 녀석이 입구에서……
+Japanese,"scene_cp6_q4_s10,641",detail,라캄,おい！ [플레이어]！<br>機械の魔物だ！<br>例の奴が入り口から……,야! [플레이어]! <br> 기계의 마물이다!<br> 예의 그 녀석이 입구에서……
 Japanese,"scene_cp6_q4_s10,641",detail,흑기사,ふん、言ったそばから……<br>せっかちな大公サマだ。<br>,"흥, 말하자마자……<br>성급한 대공 사마귀다.< br >"
 Japanese,"scene_cp6_q4_s10,641",detail,흑기사,ルリアと運命を共にする者よ。<br>また会おう……つまらぬ事では死ぬな。,루리아와 운명을 함께 할 자여.<br>다시 만나……부질하게는 죽지 말라.
-Japanese,"scene_cp6_q4_s10,641",detail,비이,だー！ あいつ、手伝えってんだ！<br>[ジータ]！<br>とにかく、騎空艇まで戻るぞ！,저녀석 도와주라는 거야!<br>[지타]!<br>어쨌든 기공정으로 돌아가자!
+Japanese,"scene_cp6_q4_s10,641",detail,비이,だー！ あいつ、手伝えってんだ！<br>[플레이어]！<br>とにかく、騎空艇まで戻るぞ！,저녀석 도와주라는 거야!<br>[플레이어]!<br>어쨌든 기공정으로 돌아가자!
 Japanese,"scene_cp6_q4_s20,642",synopsis,,襲い来る機械の魔物が大公の差し金であると告げられ、イオは弟子である自分の存在も忘れてしまったのかと涙し、悲痛な声で機械の魔物に呼びかける。,"덮쳐오는 기계의 마물이 대공의 사환이라는 말을 듣고, 이오는 제자인 자신의 존재도 잊어버렸는지 눈물을 흘리며, 비통한 목소리로 기계의 마물에게 호소한다."
 Japanese,"scene_cp6_q4_s20,642",detail,이오,さっきの話が本当なら<br>あの機械の魔物を……師匠が？<br>どうして……どうして師匠がそんな……,아까의 이야기가 정말이라면<br>저 기계의 마물을……스승님이?<br> 어째서……어째서 스승이 그런……
 Japanese,"scene_cp6_q4_s20,642",detail,라캄,落ち着け、ガキンチョ！<br>あんな胡散臭いヤツの言うことは……,"침착해, 꼬맹이 초!<br> 저런 수상쩍은 녀석이 하는 말은……"
@@ -120,14 +120,14 @@ Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ どこに居るの！？
 Japanese,"scene_cp6_q4_s20,642",detail,이오,何をしてるの……？<br>早く帰ってきてよ……,뭐하고 있어……?빨리 돌아와……
 Japanese,"scene_cp6_q4_s20,642",detail,루리아,イオちゃん！<br>だめ！ このままじゃ危ないです！,이오짱!<br>안돼! 이러다 위험해요!
 Japanese,"scene_cp6_q4_s20,642",detail,이오,師匠！ もう帰ろう！<br><span class='scene-font-4'>ねぇってば！！</span>,스승님! 그만 돌아가자!<br><span class='scene-font-4> 야라니까!!</span>
-Japanese,"scene_cp6_q4_s20,642",detail,비이,チクショウ！<br>[ジータ]！<br>とにかくあいつを急いで倒すぜ！！,칙쇼!<br>[지타]!<br>어쨌든 저 녀석을 서둘러 쓰러뜨릴거야!!
+Japanese,"scene_cp6_q4_s20,642",detail,비이,チクショウ！<br>[플레이어]！<br>とにかくあいつを急いで倒すぜ！！,칙쇼!<br>[플레이어]!<br>어쨌든 저 녀석을 서둘러 쓰러뜨릴거야!!
 Japanese,"scene_cp6_q4_s30,643",synopsis,,なんとか機械の魔物は退けるが、もう大公に声が届かないことを悲しむイオ。しかし、イオの声に機械の魔物がわずかに反応したことに気付いていたルリアが優しく励ます。,"어떻게든 기계의 마물은 물리치지만, 이미 대공에게 소리가 닿지 않는 것을 슬퍼한다이오.그러나 이오의 목소리에 기계의 마물이 살짝 반응한것을 눈치챈 루리아가 부드럽게 격려합니다."
 Japanese,"scene_cp6_q4_s30,643",detail,비이,……みんな、無事か？<br>ヘヘ、なかなかの強敵だったな。,"……모두, 무사한가?<br> 헤헤, 상당한 강적이었어."
 Japanese,"scene_cp6_q4_s30,643",detail,라캄,イオは無事か？,이오는 무사한가?
 Japanese,"scene_cp6_q4_s30,643",detail,이오,ぐすっ……ぐすっ。,큭큭... 큭큭.
 Japanese,"scene_cp6_q4_s30,643",detail,카타리나,無事だ、ここに居る。,"무사하다, 여기 있다."
 Japanese,"scene_cp6_q4_s30,643",detail,라캄,ふぅ……怪我はねぇみてぇだな。<br>ったく、これだからガキンチョは……,후……부상은 없는 것 같네.<br> 정말 이래서 꼬맹이는……
-Japanese,"scene_cp6_q4_s30,643",detail,비이,こりゃぁ、仕切り直しだな。<br>一旦、街に帰るか。<br>なぁ？ [ジータ],이거 다시 시작이네.일단 시내로 가볼까?[지타]
+Japanese,"scene_cp6_q4_s30,643",detail,비이,こりゃぁ、仕切り直しだな。<br>一旦、街に帰るか。<br>なぁ？ [플레이어],이거 다시 시작이네.일단 시내로 가볼까?[플레이어]
 Japanese,"scene_cp6_q4_s30,643",detail,이오,ぐすっ……師匠……<br>あたしの声、もう届かないんだ……,"푹....스승....<br> 내 목소리, 이젠 닿지 않아...."
 Japanese,"scene_cp6_q4_s30,643",detail,루리아,イオちゃん……そんなことないです。<br>イオちゃんの声は、きっと届いてます。,이오짱……그렇지 않습니다.이오짱의 목소리는 잘 도착했습니다.
 Japanese,"scene_cp6_q4_s30,643",detail,루리아,<span class='scene-font-kokoro'>（イオちゃんの声に反応して</span><br><span class='scene-font-kokoro'>機械の魔物に施された魔法が</span><br><span class='scene-font-kokoro'>微かに反応していた……だから）</span>,<span class='scene-font-kokoro>(이오짱의 목소리에 반응하여</span><br><span class='scene-font-kokoro> 기계의 미물에 제거된 마법이</span><br><span class='scene-font-kokoro>에 부착된 마법이다.
@@ -135,9 +135,9 @@ Japanese,"scene_cp6_q4_s30,643",detail,루리아,大丈夫！ また機械の魔
 Japanese,"scene_cp6_q4_s30,643",detail,이오,うん……<br>ありがと、ルリア……,"응……<br>고마워, 루리아……"
 Japanese,"scene_cp6_q4_s30,643",detail,,<span class='scene-font-katari'>大公失踪の真実への一歩は、</span><br><span class='scene-font-katari'>イオにとって辛いものとなった。</span>,<span class='scene-font-katari> 대공 실종의 진실을 향한 한 걸음은 </span><br><span class='scene-font-katari>이오에게 괴로운 것이 되었다.</span>
 Japanese,"scene_cp6_q4_s30,643",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>ルリアが機械の魔物に得た違和感は</span><br><span class='scene-font-katari'>確かにイオを勇気づけるのだった。</span>,< span class = ' scene - font - katari ' > しかし 、 < / span > < br > < span class = ' scene - font - katari ' > ルリ ア が 機械 の 魔物 に 得た 違和 感 は < / span > < br > < span class = ' scene - font - katari ' > 確か に イオ を 勇気 づける の だった 。 < / span >
-English,"scene_cp6_q1_s10,611",synopsis,,"The unconscious girl wakes up and tells the crew that her name is Io and she's looking for her master, Archduke Tzaka. This new clue brings [Djeeta] and company one step closer to the archduke."
-English,"scene_cp6_q1_s10,611",detail,,[Djeeta] and company are at the Knickknack Shack deciding on their next steps for finding the archduke. Siero shows up to deliver some good news.
-English,"scene_cp6_q1_s10,611",detail,Sierokarte,"That mage you found has woken up, [Djeeta]! Right this way! No need to be scared!"
+English,"scene_cp6_q1_s10,611",synopsis,,"The unconscious girl wakes up and tells the crew that her name is Io and she's looking for her master, Archduke Tzaka. This new clue brings [플레이어] and company one step closer to the archduke."
+English,"scene_cp6_q1_s10,611",detail,,[플레이어] and company are at the Knickknack Shack deciding on their next steps for finding the archduke. Siero shows up to deliver some good news.
+English,"scene_cp6_q1_s10,611",detail,Sierokarte,"That mage you found has woken up, [플레이어]! Right this way! No need to be scared!"
 English,"scene_cp6_q1_s10,611",detail,???,N-nice to meet you. It seems like you saved me. Thanks.
 English,"scene_cp6_q1_s10,611",detail,Vyrn,Hey there! How're you feeling? Any aches or pains?
 English,"scene_cp6_q1_s10,611",detail,???,Eeek!
@@ -146,26 +146,26 @@ English,"scene_cp6_q1_s10,611",detail,Vyrn,"I don't know where this misconceptio
 English,"scene_cp6_q1_s10,611",detail,Katalina,"There, there, you two. My name's Katalina. This little guy is Vyrn. And you?"
 English,"scene_cp6_q1_s10,611",detail,Io,Io... My name is Io. What about the rest of you?
 English,"scene_cp6_q1_s10,611",detail,Lyria,"I'm Lyria! Nice to meet you, Io!"
-English,"scene_cp6_q1_s10,611",detail,Rackam,"Name's Rackam. And this here's our leader, [Djeeta]."
+English,"scene_cp6_q1_s10,611",detail,Rackam,"Name's Rackam. And this here's our leader, [플레이어]."
 English,"scene_cp6_q1_s10,611",detail,Rackam,"Now then, Io. Care to explain why you've been following us around?"
 English,"scene_cp6_q1_s10,611",detail,Io,"Well, the thing is, I happened to overhear you guys talking about the archduke in town, and... I'm his apprentice."
 English,"scene_cp6_q1_s10,611",detail,Io,I couldn't bear to just sit around after my master went missing. I wanted to do something.
 English,"scene_cp6_q1_s10,611",detail,Vyrn,Lemme guess. You saw us meet with the guy from the duchy and figured you'd follow us around until you found some clues.
 English,"scene_cp6_q1_s10,611",detail,Io,I actually have a clue. A very specific clue. That weirdo who kidnapped me mentioned the name of a very specific island!
-English,"scene_cp6_q1_s10,611",detail,Vyrn,"All right then! [Djeeta], let's set a course to the island and check things out."
-English,"scene_cp6_q1_s20,612",synopsis,,"Guided by Io, [Djeeta] and company head to an old mining island that has been repurposed into a secret factory complex by the Erste Empire."
+English,"scene_cp6_q1_s10,611",detail,Vyrn,"All right then! [플레이어], let's set a course to the island and check things out."
+English,"scene_cp6_q1_s20,612",synopsis,,"Guided by Io, [플레이어] and company head to an old mining island that has been repurposed into a secret factory complex by the Erste Empire."
 English,"scene_cp6_q1_s20,612",detail,Rackam,We're right on course. The island Io heard about should be right over... there.
 English,"scene_cp6_q1_s20,612",detail,Io,"They say the empire has a bunch of secret factories here. If the archduke was kidnapped by them, there's a good chance this is where he's being cooped up."
 English,"scene_cp6_q1_s20,612",detail,Vyrn,Looks like some kind of old mining island! Tunnels everywhere you look. What better place for a secret base?
 English,"scene_cp6_q1_s20,612",detail,Katalina,I'm still not sure what to make of that situation with Io's kidnapping... Right now we can only look for clues.
 English,"scene_cp6_q1_s20,612",detail,Rackam,Hm? Looks like we've got company waiting for us in front of the island.
 English,"scene_cp6_q1_s20,612",detail,Vyrn,Let's bust these monsters!
-English,"scene_cp6_q2_s10,621",synopsis,,"[Djeeta] and company land near the old mines. As the company battles its way through the monsters of the desert, Io talks about Archduke Tzaka."
+English,"scene_cp6_q2_s10,621",synopsis,,"[플레이어] and company land near the old mines. As the company battles its way through the monsters of the desert, Io talks about Archduke Tzaka."
 English,"scene_cp6_q2_s10,621",detail,Rackam,Landing complete... And mooring successful. That shouldn't have called too much attention to us.
 English,"scene_cp6_q2_s10,621",detail,Katalina,The empire knows people don't come here for the scenery. We should assume they're on to us.
 English,"scene_cp6_q2_s10,621",detail,Rackam,"Sand, rocks, and more sand... Is that all there is in Valtz?"
-English,"scene_cp6_q2_s10,621",detail,Io,"[Djeeta], I know we just sort of ended up here, but you have to be strong if you're fighting the empire. You... <span class='scene-font-italic'>are</span> strong, right?"
-English,"scene_cp6_q2_s10,621",detail,Lyria,"Don't worry, Io! [Djeeta], Katalina, and Rackam are all super strong!"
+English,"scene_cp6_q2_s10,621",detail,Io,"[플레이어], I know we just sort of ended up here, but you have to be strong if you're fighting the empire. You... <span class='scene-font-italic'>are</span> strong, right?"
+English,"scene_cp6_q2_s10,621",detail,Lyria,"Don't worry, Io! [플레이어], Katalina, and Rackam are all super strong!"
 English,"scene_cp6_q2_s10,621",detail,Io,If you say so... I suppose it's fine.
 English,"scene_cp6_q2_s10,621",detail,Lyria,"Hey, Io, what kind of person is the archduke?"
 English,"scene_cp6_q2_s10,621",detail,Io,"Well... he's sloppy, slobby, and forgetful. But he has a heart of gold."
@@ -175,14 +175,14 @@ English,"scene_cp6_q2_s10,621",detail,Io,"Yeah, but I'm warning you that he's re
 English,"scene_cp6_q2_s10,621",detail,Io,The first time he showed me his magic he kept calling it a secret spell. But thinking back... it was just a simple magic trick.
 English,"scene_cp6_q2_s10,621",detail,Io,"I was incredibly sad about something at the time, but that cheap little trick made me smile from ear to ear."
 English,"scene_cp6_q2_s10,621",detail,Io,That's when I decided... I was going to be like him someday.
-English,"scene_cp6_q2_s20,622",synopsis,,"Surrounded by desert monsters, [Djeeta] and company attempt to protect Io in battle, but she insists on fighting as a proud magical disciple of the archduke."
+English,"scene_cp6_q2_s20,622",synopsis,,"Surrounded by desert monsters, [플레이어] and company attempt to protect Io in battle, but she insists on fighting as a proud magical disciple of the archduke."
 English,"scene_cp6_q2_s20,622",detail,Rackam,Whoops... Looks like this is no time for chitchat!
 English,"scene_cp6_q2_s20,622",detail,Katalina,Something feels different here... We've got monsters!
-English,"scene_cp6_q2_s20,622",detail,Vyrn,"Hey, [Djeeta]! There are monsters coming from over here too!"
+English,"scene_cp6_q2_s20,622",detail,Vyrn,"Hey, [플레이어]! There are monsters coming from over here too!"
 English,"scene_cp6_q2_s20,622",detail,Lyria,"This way, Io! You can hide over here!"
 English,"scene_cp6_q2_s20,622",detail,Io,"I'll be fine. I'm a mage, you know. I can wipe the floor with a monster or two any day!"
 English,"scene_cp6_q2_s20,622",detail,Rackam,"Don't go biting off more than you can chew, kiddo!"
-English,"scene_cp6_q3_s10,631",synopsis,,"After discovering the entrance to an abandoned mine, [Djeeta] and company are filled with determination to find the archduke."
+English,"scene_cp6_q3_s10,631",synopsis,,"After discovering the entrance to an abandoned mine, [플레이어] and company are filled with determination to find the archduke."
 English,"scene_cp6_q3_s10,631",detail,Vyrn,"Over here! They tried really hard to hide it, but it looks like this is the entrance to some abandoned mines!"
 English,"scene_cp6_q3_s10,631",detail,Katalina,"From here on out, we're entering enemy territory. Io, this could be dangerous. You have to be careful..."
 English,"scene_cp6_q3_s10,631",detail,Io,O-okay! But I'm still a mage. I won't hold you back.
@@ -203,9 +203,9 @@ English,"scene_cp6_q3_s10,631",detail,Lyria,"(Hey, what about me?)"
 English,"scene_cp6_q3_s10,631",detail,Rackam,Sigh... This is exactly why I can't stand kids.
 English,"scene_cp6_q3_s10,631",detail,Io,Excuse me? What did you just say?
 English,"scene_cp6_q3_s10,631",detail,Rackam,"Not a word, Your Highness."
-English,"scene_cp6_q3_s10,631",detail,Vyrn,"Just you wait, Io! Me and [Djeeta] have things under control. Just leave it to us!"
-English,"scene_cp6_q3_s10,631",detail,Io,"Okay... I dunno about the lizard, but I'm counting on you, [Djeeta]. Please... find my master."
-English,"scene_cp6_q3_s20,632",synopsis,,[Djeeta] and company are chilled to discover a sprawling research facility deep in the mine. They contemplate what research the archduke might have taken part in.
+English,"scene_cp6_q3_s10,631",detail,Vyrn,"Just you wait, Io! Me and [플레이어] have things under control. Just leave it to us!"
+English,"scene_cp6_q3_s10,631",detail,Io,"Okay... I dunno about the lizard, but I'm counting on you, [플레이어]. Please... find my master."
+English,"scene_cp6_q3_s20,632",synopsis,,[플레이어] and company are chilled to discover a sprawling research facility deep in the mine. They contemplate what research the archduke might have taken part in.
 English,"scene_cp6_q3_s20,632",detail,Vyrn,This looks like the end of the line!
 English,"scene_cp6_q3_s20,632",detail,Rackam,What in the world is this place? Are they doing some kind of research here?
 English,"scene_cp6_q3_s20,632",detail,Io,And has my master been helping them out here?
@@ -216,7 +216,7 @@ English,"scene_cp6_q3_s20,632",detail,Rackam,"I guess it's not out of the questi
 English,"scene_cp6_q3_s20,632",detail,Rackam,And why would the empire need to hide out here to do research?
 English,"scene_cp6_q3_s20,632",detail,Rackam,"Whatever they've been doing here, they definitely didn't want anyone finding out."
 English,"scene_cp6_q3_s20,632",detail,Vyrn,"Hey, this is no time to chat! We've gotta deal with these monsters!"
-English,"scene_cp6_q4_s10,641",synopsis,,"As [Djeeta] and company progress through the abandoned mine, they encounter the Black Knight, the highest authority of the Erste Empire, who tells them that the empire is also searching for the archduke."
+English,"scene_cp6_q4_s10,641",synopsis,,"As [플레이어] and company progress through the abandoned mine, they encounter the Black Knight, the highest authority of the Erste Empire, who tells them that the empire is also searching for the archduke."
 English,"scene_cp6_q4_s10,641",detail,Katalina,"This dark, heavy feeling... No. It can't be!"
 English,"scene_cp6_q4_s10,641",detail,???,"Don't lose your head, woman. You once bore the name of my empire, did you not?"
 English,"scene_cp6_q4_s10,641",detail,Katalina,"I should have known... What are you doing here, Black Knight?"
@@ -236,10 +236,10 @@ English,"scene_cp6_q4_s10,641",detail,Katalina,"The archduke is targeting Lyria,
 English,"scene_cp6_q4_s10,641",detail,Black Knight,Yes. His Excellency seemed obsessed with something when I last held an audience with him.
 English,"scene_cp6_q4_s10,641",detail,Black Knight,He had this truly awful look on his face. His eyes were completely bloodshot and yet strangely full of energy.
 English,"scene_cp6_q4_s10,641",detail,Black Knight,Primal crystal technology... The archduke was clinging to it. Lyria will be targeted just like my doll.
-English,"scene_cp6_q4_s10,641",detail,Rackam,"More mechanical monsters just showed up, [Djeeta]! They must have come in from the entrance."
+English,"scene_cp6_q4_s10,641",detail,Rackam,"More mechanical monsters just showed up, [플레이어]! They must have come in from the entrance."
 English,"scene_cp6_q4_s10,641",detail,Black Knight,Speak of the devil. The archduke wastes no time...
 English,"scene_cp6_q4_s10,641",detail,Black Knight,You share Lyria's fate... Which means we shall meet again. May you be spared a meaningless death.
-English,"scene_cp6_q4_s10,641",detail,Vyrn,"That knight could at least try helping us out! Let's head back to the airship for now, [Djeeta]!"
+English,"scene_cp6_q4_s10,641",detail,Vyrn,"That knight could at least try helping us out! Let's head back to the airship for now, [플레이어]!"
 English,"scene_cp6_q4_s20,642",synopsis,,"Upon learning that the mechanical monsters are the archduke's creations, Io grows despondent, calling out to the archduke in an attempt to reach him."
 English,"scene_cp6_q4_s20,642",detail,Io,"If what she was saying is true, my master must have created those machines. But why? Why would he do such a thing?"
 English,"scene_cp6_q4_s20,642",detail,Rackam,"Calm your pigtails, kiddo! You're not about to believe what some suspicious knight has to say, are you?"
@@ -256,14 +256,14 @@ English,"scene_cp6_q4_s20,642",detail,Io,"Where are you, Master?"
 English,"scene_cp6_q4_s20,642",detail,Io,Hurry up and come home...
 English,"scene_cp6_q4_s20,642",detail,Lyria,Io! Stop! You're going to get hurt!
 English,"scene_cp6_q4_s20,642",detail,Io,Master! Let's go home! Come on!
-English,"scene_cp6_q4_s20,642",detail,Vyrn,"Let's beat these things and get out of here, [Djeeta]! And fast!"
+English,"scene_cp6_q4_s20,642",detail,Vyrn,"Let's beat these things and get out of here, [플레이어]! And fast!"
 English,"scene_cp6_q4_s30,643",synopsis,,"Despite emerging victorious, Io is crushed that her voice no longer seems capable of reaching the archduke. But Lyria notices a slight change from the mechanical monster and consoles Io."
 English,"scene_cp6_q4_s30,643",detail,Vyrn,Everyone okay? Those guys were pretty tough!
 English,"scene_cp6_q4_s30,643",detail,Rackam,Is Io all right?
 English,"scene_cp6_q4_s30,643",detail,Io,Sniff... Sob...
 English,"scene_cp6_q4_s30,643",detail,Katalina,She's unharmed.
 English,"scene_cp6_q4_s30,643",detail,Rackam,Whew... She doesn't look hurt at least. Kids are such a pain.
-English,"scene_cp6_q4_s30,643",detail,Vyrn,"Well, we're back to square one. Let's head into town. Sound good to you, [Djeeta]?"
+English,"scene_cp6_q4_s30,643",detail,Vyrn,"Well, we're back to square one. Let's head into town. Sound good to you, [플레이어]?"
 English,"scene_cp6_q4_s30,643",detail,Io,"Sob... Oh, Master... You can't even hear me anymore..."
 English,"scene_cp6_q4_s30,643",detail,Lyria,"That's not true, Io. Your voice is reaching him. I'm sure of it."
 English,"scene_cp6_q4_s30,643",detail,Lyria,"(When Io called out to her master earlier, those machine monsters reacted to her...)"

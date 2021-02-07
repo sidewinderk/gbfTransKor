@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_cp53_q1_s10,5311",synopsis,,エルステ帝国上層部は戦果報告の会議を開いていた。ガンダルヴァ中将、フュリアス少将による不甲斐ない報告を聞き、皇帝ロキは皆を煽る。ロキは狂気じみた笑みを浮かべながら、さらなる混沌と戦禍の拡大を望むのだった。
 Japanese,"scene_cp53_q1_s10,5311",detail,,<span class='scene-font-katari'>その場には</span><br><span class='scene-font-katari'>エルステ帝国の上層部が一堂に会し、</span><br><span class='scene-font-katari'>一人ひとり報告を述べていた。</span>
-Japanese,"scene_cp53_q1_s10,5311",detail,,<span class='scene-font-katari'>エルステ帝国中将ガンダルヴァは、</span><br><span class='scene-font-katari'>報告書を手に、</span><span class='scene-font-place'>アマルティア</span><span class='scene-font-katari'>島での</span><br><span class='scene-font-katari'>[ジータ]一行との激突を語る。</span>
+Japanese,"scene_cp53_q1_s10,5311",detail,,<span class='scene-font-katari'>エルステ帝国中将ガンダルヴァは、</span><br><span class='scene-font-katari'>報告書を手に、</span><span class='scene-font-place'>アマルティア</span><span class='scene-font-katari'>島での</span><br><span class='scene-font-katari'>[플레이어]一行との激突を語る。</span>
 Japanese,"scene_cp53_q1_s10,5311",detail,ガンダルヴァ,――ってのがまぁ、<br>この件の顛末だな。
 Japanese,"scene_cp53_q1_s10,5311",detail,ガンダルヴァ,えー、で……なんだ……<br>我々は、かの騎空団との衝突後、<br>速やかに撤退し……？
 Japanese,"scene_cp53_q1_s10,5311",detail,ガンダルヴァ,ちっ……回りくどい書き方しやがって。<br>もっとわかりやすく<br>書けってんだよな……
@@ -48,7 +48,7 @@ Japanese,"scene_cp53_q1_s10,5311",detail,フリーシア,ちっ……
 Japanese,"scene_cp53_q1_s10,5311",detail,,<span class='scene-font-katari'>新たな支配者は、</span><br><span class='scene-font-katari'>悪意に満ちた新たな世界を標榜する。</span>
 Japanese,"scene_cp53_q1_s10,5311",detail,,<span class='scene-font-katari'>火種となるべく</span><br><span class='scene-font-katari'>エルステの前に敷かれたその道標に、</span><br><span class='scene-font-katari'>フリーシアは歯噛みするのだった。</span>
 Japanese,"scene_cp53_q2_s10,5321",synopsis,,黒騎士アポロニアは、宰相フリーシアによって隠蔽された真実を探るべく、エルステ帝国の首都がある<span class=‘scene-font-place’>アガスティア</span>へと向かうことを決める。敵の懐に飛び込む無謀を一行は止めるが、アポロニアはそれを聞かず、一行も途中までの道を共にすることになる。一行は移動を始めるが、この時、アポロニアは密かに魔晶の欠片を懐へ入れるのだった。
-Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>ユグドラシル・マリスを退け、</span><br><span class='scene-font-katari'>[ジータ]一行はそのコアを、</span><br><span class='scene-font-katari'>魔晶の力から解放する。</span>
+Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>ユグドラシル・マリスを退け、</span><br><span class='scene-font-katari'>[플레이어]一行はそのコアを、</span><br><span class='scene-font-katari'>魔晶の力から解放する。</span>
 Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>コアから切り離された</span><br><span class='scene-font-katari'>黒い結晶が散らばる中、</span><br><span class='scene-font-katari'>ドランクは自らが掴んだ情報を明かす。</span>
 Japanese,"scene_cp53_q2_s10,5321",detail,드랑크,あの宰相サンったら、<br>まだまだ隠し事が<br>あるみたいなんだよね！
 Japanese,"scene_cp53_q2_s10,5321",detail,흑기사,ふん……隠し事、か。<br>貴様の働きに、<br>期待していないわけではないが……
@@ -92,22 +92,22 @@ Japanese,"scene_cp53_q2_s10,5321",detail,로제타,力の残滓に惹かれて�
 Japanese,"scene_cp53_q2_s10,5321",detail,로제타,お話の続きは<br>グランサイファーに<br>戻ってからにしましょ？
 Japanese,"scene_cp53_q2_s10,5321",detail,드랑크,もう！<br>これからってとこなんだけどなぁ～！
 Japanese,"scene_cp53_q2_s10,5321",detail,스츠룸,ふん……もったいつけて、<br>さっさと話さないからだ。<br>ほら、行くぞ。
-Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>連れ立ってグランサイファーへと</span><br><span class='scene-font-katari'>歩き始める。</span>
+Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>連れ立ってグランサイファーへと</span><br><span class='scene-font-katari'>歩き始める。</span>
 Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>踏み出した黒騎士の一歩に、</span><br><span class='scene-font-katari'>散らばっていた禍々しい結晶が当たる。</span>
 Japanese,"scene_cp53_q2_s10,5321",detail,흑기사,魔晶、か……
 Japanese,"scene_cp53_q2_s10,5321",detail,흑기사,…………
 Japanese,"scene_cp53_q2_s10,5321",detail,루리아,どうしたんですか？ 黒騎士さん。<br>もうみんな行っちゃいましたよ？
 Japanese,"scene_cp53_q2_s10,5321",detail,흑기사,ああ、いや……大丈夫だ。
-Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>黒騎士はそう応じると、</span><br><span class='scene-font-katari'>足を速めて、</span><br><span class='scene-font-katari'>[ジータ]達に合流する。</span>
+Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>黒騎士はそう応じると、</span><br><span class='scene-font-katari'>足を速めて、</span><br><span class='scene-font-katari'>[플레이어]達に合流する。</span>
 Japanese,"scene_cp53_q2_s10,5321",detail,,<span class='scene-font-katari'>その懐には人知れず、</span><br><span class='scene-font-katari'>散らばっていた魔晶の欠片を、</span><br><span class='scene-font-katari'>忍ばせているのだった。</span>
-Japanese,"scene_cp53_q2_s20,5322",synopsis,,グランサイファーへ戻った[ジータ]一行はドランクの話を聞く。それによると、最近、エルステ帝国の首都がある<span class=‘scene-font-place’>アガスティア</span>へ多量の物資が流れているらしく、ドランクは新兵器の開発を疑っているという。真偽を確かめるべく一行は<span class=‘scene-font-place’>アガスティア</span>へ舵を切る。
+Japanese,"scene_cp53_q2_s20,5322",synopsis,,グランサイファーへ戻った[플레이어]一行はドランクの話を聞く。それによると、最近、エルステ帝国の首都がある<span class=‘scene-font-place’>アガスティア</span>へ多量の物資が流れているらしく、ドランクは新兵器の開発を疑っているという。真偽を確かめるべく一行は<span class=‘scene-font-place’>アガスティア</span>へ舵を切る。
 Japanese,"scene_cp53_q2_s20,5322",detail,,<span class='scene-font-katari'>グランサイファーに</span><br><span class='scene-font-katari'>たどり着いた一行は、</span><br><span class='scene-font-katari'>ドランクが掴んだという情報を聞く。</span>
 Japanese,"scene_cp53_q2_s20,5322",detail,드랑크,ここ最近、帝都で<br>どーも怪しい動きがあるんだよねぇ。
 Japanese,"scene_cp53_q2_s20,5322",detail,드랑크,ほら、クロム鋼とかさ？<br>普通はなかなか使わないようなものが、<br>ガンガン帝都に流れてて……
 Japanese,"scene_cp53_q2_s20,5322",detail,드랑크,帝国は<span class='scene-font-place'>アガスティア</span>で、<br>何か新しい兵器開発を<br>始めたんじゃないか、って……
 Japanese,"scene_cp53_q2_s20,5322",detail,흑기사,ふん……<br>連中がまたロクでもないことを<br>始めたということか……
 Japanese,"scene_cp53_q2_s20,5322",detail,라캄,ともあれ、それなら、<br>行先に変更はねぇな？
-Japanese,"scene_cp53_q2_s20,5322",detail,라캄,乗りかかった船ってやつだ。<br><span class='scene-font-place'>アガスティア</span>の近くまでなら、<br>送ってやろうぜ？ [ジータ]？
+Japanese,"scene_cp53_q2_s20,5322",detail,라캄,乗りかかった船ってやつだ。<br><span class='scene-font-place'>アガスティア</span>の近くまでなら、<br>送ってやろうぜ？ [플레이어]？
 Japanese,"scene_cp53_q2_s20,5322",detail,카타리나,危険には違いないが、<br>帝国の動向も気になるからな……
 Japanese,"scene_cp53_q2_s20,5322",detail,라캄,うっし！ んじゃあ、<br><span class='scene-font-place'>アガスティア</span>に向けて全速前進だ！<br>魔物なんざ蹴散らしていくぞ！
 Japanese,"scene_cp53_q3_s10,5331",synopsis,,エルステ帝国宰相フリーシアは、ひとりの男から帝都で進行中の計画について報告を受けていた。順調な進捗に満足そうなフリーシアに対し、男は思いとどまるよう説得を試みる。しかしフリーシアの決意は固く、男は一つの決意を固めるのだった。
@@ -186,13 +186,13 @@ Japanese,"scene_cp53_q3_s10,5331",detail,폼메른,わ、吾輩達が……<br><
 Japanese,"scene_cp53_q3_s10,5331",detail,폼메른,吾輩達が……<br>そんなものを、<br><span class='scene-font-place'>アガスティア</span>に……
 Japanese,"scene_cp53_q3_s10,5331",detail,,<span class='scene-font-katari'>自らが指令を受けこなした仕事の</span><br><span class='scene-font-katari'>本当の意味に、</span><br><span class='scene-font-katari'>ポンメルンは恐れ慄く。</span>
 Japanese,"scene_cp53_q3_s10,5331",detail,,<span class='scene-font-katari'>しかし、それと同時にその胸中には、</span><br><span class='scene-font-katari'>抱いた恐れに対し、</span><br><span class='scene-font-katari'>一つの決意が芽吹きつつあるのだった。</span>
-Japanese,"scene_cp53_q4_s10,5341",synopsis,,[ジータ]達の乗るグランサイファーはついに<span class=‘scene-font-place’>アガスティア島</span>の周囲まで辿り着く。しかし、<span class=‘scene-font-place’>アガスティア島</span>には帝国の戦艦が群れを成していた。
+Japanese,"scene_cp53_q4_s10,5341",synopsis,,[플레이어]達の乗るグランサイファーはついに<span class=‘scene-font-place’>アガスティア島</span>の周囲まで辿り着く。しかし、<span class=‘scene-font-place’>アガスティア島</span>には帝国の戦艦が群れを成していた。
 Japanese,"scene_cp53_q4_s10,5341",detail,흑기사,見えて来たな……<br>あれがエルステ帝国の首都を有する、<br><span class='scene-font-place'>アガスティア島</span>だ。
 Japanese,"scene_cp53_q4_s10,5341",detail,루리아,あれが……<br>エルステ帝国の……
 Japanese,"scene_cp53_q4_s10,5341",detail,비이,おいおい……<br>あの周りに浮いてる黒いのって、<br>まさか……
 Japanese,"scene_cp53_q4_s10,5341",detail,リーシャ,恐らくは帝国の戦艦ですね……<br>なにせあそこは、<br>帝国の心臓部ですから……
 Japanese,"scene_cp53_q4_s10,5341",detail,라캄,とはいえ、<br>射程距離まではまだ少しあるはずだ。<br>もうちょい近づいてみようじゃねぇか。
-Japanese,"scene_cp53_q4_s20,5342",synopsis,,[ジータ]達の乗るグランサイファーは、戦艦からの砲撃が届かないギリギリのところまで<span class=‘scene-font-place’>アガスティア島</span>へ接近する。するとルリアとオルキスは<span class=‘scene-font-place’>アガスティア島</span>から暴走直前の星晶獣にも似た異様な力を感じると告げる。
+Japanese,"scene_cp53_q4_s20,5342",synopsis,,[플레이어]達の乗るグランサイファーは、戦艦からの砲撃が届かないギリギリのところまで<span class=‘scene-font-place’>アガスティア島</span>へ接近する。するとルリアとオルキスは<span class=‘scene-font-place’>アガスティア島</span>から暴走直前の星晶獣にも似た異様な力を感じると告げる。
 Japanese,"scene_cp53_q4_s20,5342",detail,라캄,ふむ……<br>まぁ、この辺りがギリギリだな。
 Japanese,"scene_cp53_q4_s20,5342",detail,,<span class='scene-font-katari'>ラカムは帝国戦艦との距離を</span><br><span class='scene-font-katari'>慎重に測りながら、</span><br><span class='scene-font-katari'>グランサイファーを操る。</span>
 Japanese,"scene_cp53_q4_s20,5342",detail,라캄,これ以上近づくと、<br>向こうもこっちに気付くだろうぜ。
@@ -217,9 +217,9 @@ Japanese,"scene_cp53_q4_s20,5342",detail,라캄,おいおい、待てって…�
 Japanese,"scene_cp53_q4_s20,5342",detail,로제타,けど、あまり悠長にしている時間も<br>無いようね……
 Japanese,"scene_cp53_q4_s20,5342",detail,로제타,何に惹かれてるのかわからないけど……<br>この辺り、やけに魔物が多いわ。
 Japanese,"scene_cp53_q4_s20,5342",detail,오이겐,ちっ……<br>キナ臭くなってきやがったなぁ、<br>おい……
-Japanese,"scene_cp53_q4_s20,5342",detail,카타리나,ひとまずは魔物を<br>蹴散らしてから考えよう……<br>さぁ、構えろ！ [ジータ]！
+Japanese,"scene_cp53_q4_s20,5342",detail,카타리나,ひとまずは魔物を<br>蹴散らしてから考えよう……<br>さぁ、構えろ！ [플레이어]！
 Japanese,"scene_cp53_q4_s30,5343",synopsis,,<span class=‘scene-font-place’>アガスティア島</span>の異様な力を気にするルリアを見て、黒騎士アポロニアとドランクは少数選抜による島内潜入を提案する。広く顔が知られていない者を選別し、まず一行は近くの離島へと降り立つ。
-Japanese,"scene_cp53_q4_s30,5343",detail,,<span class='scene-font-katari'>[ジータ]一行は魔物を追い払い、</span><br><span class='scene-font-katari'>改めて</span><span class='scene-font-place'>アガスティア島</span><span class='scene-font-katari'>の様子を伺う。</span>
+Japanese,"scene_cp53_q4_s30,5343",detail,,<span class='scene-font-katari'>[플레이어]一行は魔物を追い払い、</span><br><span class='scene-font-katari'>改めて</span><span class='scene-font-place'>アガスティア島</span><span class='scene-font-katari'>の様子を伺う。</span>
 Japanese,"scene_cp53_q4_s30,5343",detail,흑기사,それで？<br>貴様らはいったいどうしたいんだ？
 Japanese,"scene_cp53_q4_s30,5343",detail,루리아,私は……気になります。<br>この気配が、いったい何なのか……<br>危ないものじゃないのかどうか……
 Japanese,"scene_cp53_q4_s30,5343",detail,라캄,けど、<br>これ以上グランサイファーを近づけちゃ、<br>間違いなく連中に見つかっちまうぜ？
@@ -229,7 +229,7 @@ Japanese,"scene_cp53_q4_s30,5343",detail,드랑크,はいはーい！<br>それ�
 Japanese,"scene_cp53_q4_s30,5343",detail,드랑크,だって、君達が君達だって、<br>バレなきゃ特に危なくはないでしょ？
 Japanese,"scene_cp53_q4_s30,5343",detail,비이,まぁ、そりゃそうなんだけどよ……
 Japanese,"scene_cp53_q4_s30,5343",detail,오이겐,そうさなぁ……<br>メンバーを考えりゃ、<br>そう無茶な話でもねぇの……か？
-Japanese,"scene_cp53_q4_s30,5343",detail,,<span class='scene-font-katari'>[ジータ]は服装や</span><br><span class='scene-font-katari'>元々の立場などから</span><br><span class='scene-font-katari'>それぞれ二手に分かれる。</span>
+Japanese,"scene_cp53_q4_s30,5343",detail,,<span class='scene-font-katari'>[플레이어]は服装や</span><br><span class='scene-font-katari'>元々の立場などから</span><br><span class='scene-font-katari'>それぞれ二手に分かれる。</span>
 Japanese,"scene_cp53_q4_s30,5343",detail,라캄,ってぇわけで、俺と……
 Japanese,"scene_cp53_q4_s30,5343",detail,카타리나,私と……
 Japanese,"scene_cp53_q4_s30,5343",detail,リーシャ,私と……
@@ -254,7 +254,7 @@ Japanese,"scene_cp53_q4_s30,5343",detail,,<span class='scene-font-katari'>黒騎
 Japanese,"scene_cp53_q4_s30,5343",detail,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の離島に降り立ち、</span><br><span class='scene-font-katari'>一行は帝都への潜入を試みるのだった。</span>
 English,"scene_cp53_q1_s10,5311",synopsis,,"The higher-ups of Erste Empire have gathered to give their reports on their military efforts. After hearing the disappointing results from his subordinates, Emperor Loki incites them to spread chaos across the Sky Realm in the name of the empire."
 English,"scene_cp53_q1_s10,5311",detail,,"The higher-ups of the Erste Empire are all assembled in one room, each giving their reports."
-English,"scene_cp53_q1_s10,5311",detail,,Lieutenant General Gandharva speaks next about the clash with [Djeeta] and the crew on Amalthea Island.
+English,"scene_cp53_q1_s10,5311",detail,,Lieutenant General Gandharva speaks next about the clash with [플레이어] and the crew on Amalthea Island.
 English,"scene_cp53_q1_s10,5311",detail,Gandharva,"Right, and here are the details."
 English,"scene_cp53_q1_s10,5311",detail,Gandharva,"Hmm... Let's see... 'Following the conflict with the skyfarers in question, a prompt withdrawal was necessitated...'"
 English,"scene_cp53_q1_s10,5311",detail,Gandharva,Tch! Who wrote this thing? I told 'em to keep it plain and simple.
@@ -301,7 +301,7 @@ English,"scene_cp53_q1_s10,5311",detail,Freesia,Tch...
 English,"scene_cp53_q1_s10,5311",detail,,The new ruler advocates a new world brimming with malice.
 English,"scene_cp53_q1_s10,5311",detail,,Freesia grinds her teeth at the scorched-earth doctrine Erste is about to adopt.
 English,"scene_cp53_q2_s10,5321",synopsis,,"The Black Knight decides to infiltrate the imperial capital Agastia despite her criminal status. As she walks back to the Grandcypher with the rest of the crew, she secretly pockets a fragment of dark essence."
-English,"scene_cp53_q2_s10,5321",detail,,"Beating back Yggdrasil Malice, [Djeeta]'s crew releases the dark essence from the core."
+English,"scene_cp53_q2_s10,5321",detail,,"Beating back Yggdrasil Malice, [플레이어]'s crew releases the dark essence from the core."
 English,"scene_cp53_q2_s10,5321",detail,,"As the black crystal shatters, Drang reveals information he has been withholding."
 English,"scene_cp53_q2_s10,5321",detail,Drang,Looks like Ms. Prime Minister's still got secrets up her sleeves!
 English,"scene_cp53_q2_s10,5321",detail,Black Knight,"Humph. Is that so? And here I was expecting something from your efforts, but..."
@@ -345,7 +345,7 @@ English,"scene_cp53_q2_s10,5321",detail,Rosetta,Monsters are being drawn to the 
 English,"scene_cp53_q2_s10,5321",detail,Rosetta,"Let's continue our discussion after we return to the Grandcypher, shall we?"
 English,"scene_cp53_q2_s10,5321",detail,Drang,"Aw, come on! I was just getting to the good part!"
 English,"scene_cp53_q2_s10,5321",detail,Sturm,"Humph... It's because you fail to get straight to the point. Come on, let's go."
-English,"scene_cp53_q2_s10,5321",detail,,[Djeeta] and the others start walking toward the Grandcypher.
+English,"scene_cp53_q2_s10,5321",detail,,[플레이어] and the others start walking toward the Grandcypher.
 English,"scene_cp53_q2_s10,5321",detail,,A crunch comes from an ominous crystal beneath the Black Knight's foot.
 English,"scene_cp53_q2_s10,5321",detail,Black Knight,Dark essence?
 English,"scene_cp53_q2_s10,5321",detail,Black Knight,...
@@ -354,7 +354,7 @@ English,"scene_cp53_q2_s10,5321",detail,Black Knight,Oh... It's nothing.
 English,"scene_cp53_q2_s10,5321",detail,,The Black Knight quickens her step to rejoin the group.
 English,"scene_cp53_q2_s10,5321",detail,,"Unbeknownst to the others, there is now a fragment of dark essence concealed among them."
 English,"scene_cp53_q2_s20,5322",synopsis,,"Back at the Grandcypher, Drang suspects the empire is developing a new weapon based on the influx of raw materials coming into Agastia, which happens to be their next destination."
-English,"scene_cp53_q2_s20,5322",detail,,[Djeeta] and company listen to the rest of what Drang has to say once they reach the Grandcypher.
+English,"scene_cp53_q2_s20,5322",detail,,[플레이어] and company listen to the rest of what Drang has to say once they reach the Grandcypher.
 English,"scene_cp53_q2_s20,5322",detail,Drang,All sorts of shady dealing's been happening in the imperial capital lately.
 English,"scene_cp53_q2_s20,5322",detail,Drang,"You know gold nuggets? Stuff like that isn't normally used all that much, but now it's flooding in like crazy."
 English,"scene_cp53_q2_s20,5322",detail,Drang,Makes me think the empire is developing some kind of new weapon in Agastia or something.
@@ -470,7 +470,7 @@ English,"scene_cp53_q4_s20,5342",detail,Rackam,"Hey, hold on... Are you really t
 English,"scene_cp53_q4_s20,5342",detail,Rosetta,It doesn't seem like we have much time to sit and think it through though.
 English,"scene_cp53_q4_s20,5342",detail,Rosetta,"I'm not sure if something's drawing them here, but there are an awful lot of monsters around."
 English,"scene_cp53_q4_s20,5342",detail,Eugen,Tch... Guess we got a fight on our hands.
-English,"scene_cp53_q4_s20,5342",detail,Katalina,"Let's take care of the monsters before we think about anything else. Brace yourself, [Djeeta]!"
+English,"scene_cp53_q4_s20,5342",detail,Katalina,"Let's take care of the monsters before we think about anything else. Brace yourself, [플레이어]!"
 English,"scene_cp53_q4_s30,5343",synopsis,,Drang suggests choosing a few members to infiltrate Agastia in order to investigate the strange presence felt by Lyria. The infiltration team then disembarks on a small island just off the main island of Agastia.
 English,"scene_cp53_q4_s30,5343",detail,,"After dealing with the monsters, the crew once again turn their attention to Agastia Island."
 English,"scene_cp53_q4_s30,5343",detail,Black Knight,Well? What do you all intend to do then?
@@ -482,7 +482,7 @@ English,"scene_cp53_q4_s30,5343",detail,Drang,Idea here! What if we go in undete
 English,"scene_cp53_q4_s30,5343",detail,Drang,"I mean, it's you guys we're talkin' about, so it won't be that dangerous as long as you don't get caught, right?"
 English,"scene_cp53_q4_s30,5343",detail,Vyrn,"I guess you could say that, but..."
 English,"scene_cp53_q4_s30,5343",detail,Eugen,"Right... As long as we've got the right personnel, nothin's impossible, eh?"
-English,"scene_cp53_q4_s30,5343",detail,,[Djeeta] takes each member's attire and station into consideration while dividing everyone into two groups.
+English,"scene_cp53_q4_s30,5343",detail,,[플레이어] takes each member's attire and station into consideration while dividing everyone into two groups.
 English,"scene_cp53_q4_s30,5343",detail,Rackam,So me...
 English,"scene_cp53_q4_s30,5343",detail,Katalina,Me...
 English,"scene_cp53_q4_s30,5343",detail,Lecia,Me...

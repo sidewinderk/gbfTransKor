@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp54_q1_s10,5411",synopsis,,帝都へ潜入するため離島へ降り立った[ジータ]一行は、必要以上に気を張っていた。そんな一行を見て、ドランクは緊張をほぐそうとおどけてみせる。
+Japanese,"scene_cp54_q1_s10,5411",synopsis,,帝都へ潜入するため離島へ降り立った[플레이어]一行は、必要以上に気を張っていた。そんな一行を見て、ドランクは緊張をほぐそうとおどけてみせる。
 Japanese,"scene_cp54_q1_s10,5411",detail,흑기사,…………
 Japanese,"scene_cp54_q1_s10,5411",detail,오이겐,…………
 Japanese,"scene_cp54_q1_s10,5411",detail,루리아,ドキドキ……
@@ -18,7 +18,7 @@ Japanese,"scene_cp54_q1_s10,5411",detail,스츠룸,…………
 Japanese,"scene_cp54_q1_s10,5411",detail,스츠룸,いくぞ……<br>深い森じゃないが、はぐれたら面倒。
 Japanese,"scene_cp54_q1_s10,5411",detail,드랑크,あっ！ いま誤魔化した！<br>ねぇ、スツルム殿！<br>いま誤魔化したよねぇ！？
 Japanese,"scene_cp54_q1_s10,5411",detail,이오,改めて思うけど……<br>本当にこのメンバーで<br>大丈夫なのかしら……
-Japanese,"scene_cp54_q1_s20,5412",synopsis,,[ジータ]一行は先を急ぐ。ビィは緊張した面持ちの黒騎士アポロニアを気遣うが、彼女はいつも通りだという。確かにアポロニアは常に硬い表情をしており、ルリアはかける言葉を迷うのだった。
+Japanese,"scene_cp54_q1_s20,5412",synopsis,,[플레이어]一行は先を急ぐ。ビィは緊張した面持ちの黒騎士アポロニアを気遣うが、彼女はいつも通りだという。確かにアポロニアは常に硬い表情をしており、ルリアはかける言葉を迷うのだった。
 Japanese,"scene_cp54_q1_s20,5412",detail,흑기사,…………
 Japanese,"scene_cp54_q1_s20,5412",detail,비이,な、なぁ、黒騎士……
 Japanese,"scene_cp54_q1_s20,5412",detail,흑기사,なんだ？
@@ -31,16 +31,16 @@ Japanese,"scene_cp54_q1_s20,5412",detail,흑기사,私はこれでいつも通�
 Japanese,"scene_cp54_q1_s20,5412",detail,루리아,…………
 Japanese,"scene_cp54_q1_s20,5412",detail,오이겐,思ってることがわかりにくいのは、<br>昔からだったよなぁ……
 Japanese,"scene_cp54_q1_s20,5412",detail,오이겐,ま、昔はもちっと、<br>可愛げがあったけどよ。
-Japanese,"scene_cp54_q1_s20,5412",detail,루리아,わ、私、黒騎士さんは、<br>いまでも可愛いと思いますっ！<br>ねっ？ [ジータ]！
+Japanese,"scene_cp54_q1_s20,5412",detail,루리아,わ、私、黒騎士さんは、<br>いまでも可愛いと思いますっ！<br>ねっ？ [플레이어]！
 Japanese,"scene_cp54_q1_s20,5412",detail,흑기사,……っ！？
 Japanese,"scene_cp54_q1_s20,5412",detail,로제타,ふふ……<br>アタシから見れば、<br>まだまだみーんな可愛いお子様だわ。
 Japanese,"scene_cp54_q1_s20,5412",detail,흑기사,馬鹿なことを言ってるなよ……<br>足を止めるな、先を急ぐぞ。
-Japanese,"scene_cp54_q2_s10,5421",synopsis,,[ジータ]一行は離島を進む。まだまだ続く道のりにうんざりするオイゲンであったが、スツルムはもう心配ないという。ここから少し先にある小さな村まで行けば、帝都行きの騎空艇が出ており、帝都へひとっ飛びだとドランクは説明する。
-Japanese,"scene_cp54_q2_s10,5421",detail,,<span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の郊外を、</span><br><span class='scene-font-katari'>エルステ帝国帝都へと向け進む</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp54_q2_s10,5421",synopsis,,[플레이어]一行は離島を進む。まだまだ続く道のりにうんざりするオイゲンであったが、スツルムはもう心配ないという。ここから少し先にある小さな村まで行けば、帝都行きの騎空艇が出ており、帝都へひとっ飛びだとドランクは説明する。
+Japanese,"scene_cp54_q2_s10,5421",detail,,<span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>の郊外を、</span><br><span class='scene-font-katari'>エルステ帝国帝都へと向け進む</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp54_q2_s10,5421",detail,,<span class='scene-font-katari'>少し開けた場所に出ると、</span><br><span class='scene-font-katari'>黒騎士は辺りを見回し、</span><br><span class='scene-font-katari'>一息をつく。</span>
 Japanese,"scene_cp54_q2_s10,5421",detail,흑기사,ふむ……<br>ひとまず順調に<br>行程を消化出来ているな。
 Japanese,"scene_cp54_q2_s10,5421",detail,흑기사,幸いまだこの辺りは人気も少ないが……<br>帝都に近づくにつれ、<br>当然、人は多くなる。
-Japanese,"scene_cp54_q2_s10,5421",detail,흑기사,むしろここからが本番だ。<br>気を抜くなよ、[ジータ]。
+Japanese,"scene_cp54_q2_s10,5421",detail,흑기사,むしろここからが本番だ。<br>気を抜くなよ、[플레이어]。
 Japanese,"scene_cp54_q2_s10,5421",detail,오이겐,しかし……<br>このペースだと帝都に着くのは、<br>いつになるんだ？
 Japanese,"scene_cp54_q2_s10,5421",detail,오이겐,まだそれらしい影も見えねぇし、<br>ずいぶん長い道のりに<br>なりそうだなぁ、おい……
 Japanese,"scene_cp54_q2_s10,5421",detail,스츠룸,心配ない……<br>帝都まで延々歩き続ける必要はない。
@@ -51,8 +51,8 @@ Japanese,"scene_cp54_q2_s10,5421",detail,흑기사,ふん……<br>その程度�
 Japanese,"scene_cp54_q2_s10,5421",detail,흑기사,ましてや、<br>あの女が隠していることを探るなど、<br>夢のまた夢だ。
 Japanese,"scene_cp54_q2_s10,5421",detail,이오,それにルリアとオルキスの言ってた、<br>変な感じも気になるものね……
 Japanese,"scene_cp54_q2_s10,5421",detail,루리아,まだハッキリとはわからないけど……<br>とにかく嫌な予感だけはするんです。
-Japanese,"scene_cp54_q2_s10,5421",detail,루리아,すごく不気味な、嫌な予感が……<br>だから急ぎましょう、[ジータ]。
-Japanese,"scene_cp54_q2_s20,5422",synopsis,,[ジータ]一行が歩みを進めていると、あれだけ対立してきたのに、よく大切なオルキスを預けてくれたものだ、とビィはアポロニアに疑問を投げかける。それに対しアポロニアは、信頼しているからだと素っ気なく返すが、自身も何かしらの心境の変化を感じているのだった。
+Japanese,"scene_cp54_q2_s10,5421",detail,루리아,すごく不気味な、嫌な予感が……<br>だから急ぎましょう、[플레이어]。
+Japanese,"scene_cp54_q2_s20,5422",synopsis,,[플레이어]一行が歩みを進めていると、あれだけ対立してきたのに、よく大切なオルキスを預けてくれたものだ、とビィはアポロニアに疑問を投げかける。それに対しアポロニアは、信頼しているからだと素っ気なく返すが、自身も何かしらの心境の変化を感じているのだった。
 Japanese,"scene_cp54_q2_s20,5422",detail,이오,いまごろ、<br>オルキス達は何してるかしら……<br>魔物とかに襲われなきゃいいけど……
 Japanese,"scene_cp54_q2_s20,5422",detail,비이,姐さんもラカムもリーシャもいるし、<br>そのへんは大丈夫じゃねーか？
 Japanese,"scene_cp54_q2_s20,5422",detail,루리아,ですね！<br>３人とも、<br>とっても頼りになりますから！
@@ -66,9 +66,9 @@ Japanese,"scene_cp54_q2_s20,5422",detail,흑기사,だから距離を置く良�
 Japanese,"scene_cp54_q2_s20,5422",detail,비이,へぇ……！ それってもしかして、<br>オルキスに情が湧いてきた、<br>ってことじゃねーのか？
 Japanese,"scene_cp54_q2_s20,5422",detail,흑기사,ふん……<br>どうだかな……
 Japanese,"scene_cp54_q2_s20,5422",detail,,<span class='scene-font-katari'>黒騎士は顔を背けるものの、</span><br><span class='scene-font-katari'>決してビィの言葉を</span><br><span class='scene-font-katari'>否定することはなかった。</span>
-Japanese,"scene_cp54_q2_s20,5422",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>帝都へと至る道を進む。</span>
-Japanese,"scene_cp54_q3_s10,5431",synopsis,,[ジータ]一行が帝都へ向かう中、グランサイファーに残った面々は気が気でなかった。特にルリアと常に共にあったカタリナは落ち着きなく右往左往と歩き回ってしまう。ラカム、リーシャ、オルキスはそんな彼女を[ジータ]達がついているから大丈夫だと励ます。しかしこの時、グランサイファーに一隻の怪しい小型艇が近づいていた。
-Japanese,"scene_cp54_q3_s10,5431",detail,,<span class='scene-font-katari'>[ジータ]達が、</span><br><span class='scene-font-katari'>順調に帝都へと向かっていた</span><br><span class='scene-font-katari'>その頃……</span>
+Japanese,"scene_cp54_q2_s20,5422",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>帝都へと至る道を進む。</span>
+Japanese,"scene_cp54_q3_s10,5431",synopsis,,[플레이어]一行が帝都へ向かう中、グランサイファーに残った面々は気が気でなかった。特にルリアと常に共にあったカタリナは落ち着きなく右往左往と歩き回ってしまう。ラカム、リーシャ、オルキスはそんな彼女を[플레이어]達がついているから大丈夫だと励ます。しかしこの時、グランサイファーに一隻の怪しい小型艇が近づいていた。
+Japanese,"scene_cp54_q3_s10,5431",detail,,<span class='scene-font-katari'>[플레이어]達が、</span><br><span class='scene-font-katari'>順調に帝都へと向かっていた</span><br><span class='scene-font-katari'>その頃……</span>
 Japanese,"scene_cp54_q3_s10,5431",detail,,<span class='scene-font-katari'>グランサイファーでは、</span><br><span class='scene-font-katari'>カタリナが忙しなく</span><br><span class='scene-font-katari'>辺りを歩き回っていた。</span>
 Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,…………
 Japanese,"scene_cp54_q3_s10,5431",detail,라캄,やれやれ……<br>なかなか珍しい光景だな、こりゃ……
@@ -81,11 +81,11 @@ Japanese,"scene_cp54_q3_s10,5431",detail,라캄,まぁ……<br>この旅が始�
 Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,…………
 Japanese,"scene_cp54_q3_s10,5431",detail,オルキス,カタリナ……
 Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,ん？ な、なんだ……？
-Japanese,"scene_cp54_q3_s10,5431",detail,オルキス,ルリアには、<br>[ジータ]が付いてる。<br>だから、きっと大丈夫……
+Japanese,"scene_cp54_q3_s10,5431",detail,オルキス,ルリアには、<br>[플레이어]が付いてる。<br>だから、きっと大丈夫……
 Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,…………
 Japanese,"scene_cp54_q3_s10,5431",detail,라캄,ははっ！ 違いねぇな！<br>オルキスちゃんのほうが、<br>カタリナよりはるかに冷静じゃねぇか。
 Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,し、仕方がないだろう！<br>こういう状況には、<br>あまり慣れていないのだからな……
-Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,いや、しかし……君の言う通りだな。<br>ルリアには[ジータ]が、<br>付いているんだ……
+Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,いや、しかし……君の言う通りだな。<br>ルリアには[플레이어]が、<br>付いているんだ……
 Japanese,"scene_cp54_q3_s10,5431",detail,リーシャ,それに、他にも仲間がいますから……<br>ルリアはきっと大丈夫ですよ。
 Japanese,"scene_cp54_q3_s10,5431",detail,카타리나,そうだな……<br>むしろ、こんなに取り乱していては、<br>ルリアに笑われてしまうな。
 Japanese,"scene_cp54_q3_s10,5431",detail,라캄,しかし……<br>黒騎士と離れた、ってのに、<br>オルキスちゃんはずいぶん冷静だな？
@@ -106,8 +106,8 @@ Japanese,"scene_cp54_q3_s10,5431",detail,라캄,念のため、<br>もうちょ�
 Japanese,"scene_cp54_q3_s10,5431",detail,オルキス,…………
 Japanese,"scene_cp54_q3_s10,5431",detail,,<span class='scene-font-katari'>ラカムは舵を切り、</span><br><span class='scene-font-katari'>謎の小型艇から距離を置くよう</span><br><span class='scene-font-katari'>グランサイファーを動かす。</span>
 Japanese,"scene_cp54_q3_s10,5431",detail,,<span class='scene-font-katari'>しかし、謎の小型艇は確実に、</span><br><span class='scene-font-katari'>グランサイファーとの距離を</span><br><span class='scene-font-katari'>詰めつつあるのだった。</span>
-Japanese,"scene_cp54_q4_s10,5441",synopsis,,[ジータ]一行は帝都行きの騎空艇に乗るため小さな村へと急ぐ。しかし哨戒中の帝国兵に見つかり尋問を受けてしまう。突然の出来事に面食らうルリア達であったが、ロゼッタのきっぱりとした物言いでこれを切り抜け、警戒心を強めつつ先を急ぐ。
-Japanese,"scene_cp54_q4_s10,5441",detail,,<span class='scene-font-katari'>エルステ帝国帝都へ向け、</span><br><span class='scene-font-place'>アガスティア島</span><span class='scene-font-katari'>を進む</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp54_q4_s10,5441",synopsis,,[플레이어]一行は帝都行きの騎空艇に乗るため小さな村へと急ぐ。しかし哨戒中の帝国兵に見つかり尋問を受けてしまう。突然の出来事に面食らうルリア達であったが、ロゼッタのきっぱりとした物言いでこれを切り抜け、警戒心を強めつつ先を急ぐ。
+Japanese,"scene_cp54_q4_s10,5441",detail,,<span class='scene-font-katari'>エルステ帝国帝都へ向け、</span><br><span class='scene-font-place'>アガスティア島</span><span class='scene-font-katari'>を進む</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp54_q4_s10,5441",detail,,<span class='scene-font-katari'>一行は帝都に向かう騎空艇に乗るため、</span><br><span class='scene-font-katari'>近くの集落を目指す。</span>
 Japanese,"scene_cp54_q4_s10,5441",detail,드랑크,さぁって！<br>ここまで来ればあとちょっとだよん！
 Japanese,"scene_cp54_q4_s10,5441",detail,드랑크,乗合の騎空艇に乗っちゃえば、<br>帝都まではひとっ飛びで……
@@ -120,12 +120,12 @@ Japanese,"scene_cp54_q4_s10,5441",detail,帝国兵１,辺境の村とはいえ�
 Japanese,"scene_cp54_q4_s10,5441",detail,,<span class='scene-font-katari'>それだけ言い残すと、</span><br><span class='scene-font-katari'>帝国兵達は哨戒を続けるように、</span><br><span class='scene-font-katari'>森の奥へと去っていった。
 Japanese,"scene_cp54_q4_s10,5441",detail,루리아,はわぁ……<br>び、びっくりしました……
 Japanese,"scene_cp54_q4_s10,5441",detail,오이겐,まぁ、辺境とはいえ、<br>ここも<span class='scene-font-place'>アガスティア</span>の一部だからな。<br>兵士ぐらいは居て当然ってか……
-Japanese,"scene_cp54_q4_s10,5441",detail,오이겐,こりゃ気が抜けねぇなぁ、おい……<br>注意して進もうぜ、<br>[ジータ]……
-Japanese,"scene_cp54_q4_s20,5442",synopsis,,[ジータ]一行はついに村へ到着する。しかし、不意にルリアの変装用ヴェールが外れてしまい、正体が露見してしまう。一斉に集結する帝国兵に覚悟を決める一行。帝国兵は新兵器を投入し、一行に挑む。
-Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>無事、近くの集落へとたどり着いた</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,"scene_cp54_q4_s10,5441",detail,오이겐,こりゃ気が抜けねぇなぁ、おい……<br>注意して進もうぜ、<br>[플레이어]……
+Japanese,"scene_cp54_q4_s20,5442",synopsis,,[플레이어]一行はついに村へ到着する。しかし、不意にルリアの変装用ヴェールが外れてしまい、正体が露見してしまう。一斉に集結する帝国兵に覚悟を決める一行。帝国兵は新兵器を投入し、一行に挑む。
+Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>無事、近くの集落へとたどり着いた</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>一行は住人達に、</span><br><span class='scene-font-katari'>帝都へと向かう</span><br><span class='scene-font-katari'>乗合の騎空艇について尋ねる。</span>
 Japanese,"scene_cp54_q4_s20,5442",detail,村人,ああ、<br>帝都までなら、<br>ちょうどいま出発のがあるけど……
-Japanese,"scene_cp54_q4_s20,5442",detail,이오,ええっ！？ い、いま！？<br>急ぎましょ！<br>ルリア！ [ジータ]！
+Japanese,"scene_cp54_q4_s20,5442",detail,이오,ええっ！？ い、いま！？<br>急ぎましょ！<br>ルリア！ [플레이어]！
 Japanese,"scene_cp54_q4_s20,5442",detail,루리아,あわわ……！<br>ま、待ってください！<br>まだドランクさん達が……
 Japanese,"scene_cp54_q4_s20,5442",detail,村人,待った待った！<br>兵隊さんが優先だから、<br>いまからじゃ空きが……
 Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>思わず伸ばした村人の手が、</span><br><span class='scene-font-katari'>ルリアが身に着けていた</span><br><span class='scene-font-katari'>変装用のベールに引っかかる。</span>
@@ -137,14 +137,14 @@ Japanese,"scene_cp54_q4_s20,5442",detail,帝国兵１,おいそこ、どうし�
 Japanese,"scene_cp54_q4_s20,5442",detail,帝国兵２,うん……？<br>その蒼い髪は……まさか！？
 Japanese,"scene_cp54_q4_s20,5442",detail,루리아,えっ？ あ……
 Japanese,"scene_cp54_q4_s20,5442",detail,흑기사,ちっ……マズイな。
-Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>[ジータ]達の周囲に、</span><br><span class='scene-font-katari'>にわかに帝国兵達が集まり始める。</span>
+Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>[플레이어]達の周囲に、</span><br><span class='scene-font-katari'>にわかに帝国兵達が集まり始める。</span>
 Japanese,"scene_cp54_q4_s20,5442",detail,帝国兵２,貴様ら……<br>機密の少女と手配犯共だな……？<br>その蒼い髪が何よりの証拠だ！
 Japanese,"scene_cp54_q4_s20,5442",detail,드랑크,あっちゃー……<br>とうとう気づかれちゃった<br>みたいだねぇ……
 Japanese,"scene_cp54_q4_s20,5442",detail,스츠룸,ふん……<br>気付かれたからには、<br>やることは一つだ。
 Japanese,"scene_cp54_q4_s20,5442",detail,루리아,うぅ……<br>ごめんなさい、私のせいで……
 Japanese,"scene_cp54_q4_s20,5442",detail,이오,ルリアのせいじゃないわよ！<br>そもそもルリアが悪いことして<br>追われてるわけじゃないんだから！
 Japanese,"scene_cp54_q4_s20,5442",detail,비이,とはいえ、<br>この状況はかなりヤバそうだぜ……
-Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>集まった帝国兵達は、</span><br><span class='scene-font-katari'>隙間なく[ジータ]達を取り囲む。</span>
+Japanese,"scene_cp54_q4_s20,5442",detail,,<span class='scene-font-katari'>集まった帝国兵達は、</span><br><span class='scene-font-katari'>隙間なく[플레이어]達を取り囲む。</span>
 Japanese,"scene_cp54_q4_s20,5442",detail,帝国兵１,ふん……<br>俺達をそこらの兵士と<br>一緒にするなよ……
 Japanese,"scene_cp54_q4_s20,5442",detail,帝国兵１,おい！ あれを持ってこい！<br>いますぐだ！
 Japanese,"scene_cp54_q4_s20,5442",detail,흑기사,ほう……<br>また何か新しいおもちゃでも、<br>持ち出してくるつもりか？
@@ -157,7 +157,7 @@ Japanese,"scene_cp54_q4_s20,5442",detail,이오,な……なによ、これ…�
 Japanese,"scene_cp54_q4_s20,5442",detail,로제타,魔晶による変身ではなさそうね……<br>純粋な兵器、ってとこかしら？
 Japanese,"scene_cp54_q4_s20,5442",detail,제국병,そうだ！<br>この鋼鉄の鎧こそが、<br>やがて帝国の主力兵器となる！
 Japanese,"scene_cp54_q4_s20,5442",detail,제국병,貴様らはその栄えある<br>最初の犠牲者にしてやろう！
-Japanese,"scene_cp54_q4_s30,5443",synopsis,,帝国の新兵器を撃退する[ジータ]一行。帝国兵はただちに軍本部へ伝令を向かわせるが、しかし突如現れた帝国軍大将アダムがこれを中止させ、さらにそこに居合わせた兵達を一掃してしまう。困惑する一行を前に、彼はエルステの息の根を止めて欲しいと願い出る。一方グランサイファーでも、予想外の事態が起きているのだった。
+Japanese,"scene_cp54_q4_s30,5443",synopsis,,帝国の新兵器を撃退する[플레이어]一行。帝国兵はただちに軍本部へ伝令を向かわせるが、しかし突如現れた帝国軍大将アダムがこれを中止させ、さらにそこに居合わせた兵達を一掃してしまう。困惑する一行を前に、彼はエルステの息の根を止めて欲しいと願い出る。一方グランサイファーでも、予想外の事態が起きているのだった。
 Japanese,"scene_cp54_q4_s30,5443",detail,제국병,く、くそっ！！<br>やはりまだ実戦での使用は<br>厳しいか……！？
 Japanese,"scene_cp54_q4_s30,5443",detail,흑기사,ふん……<br>所詮はおもちゃに過ぎんか……
 Japanese,"scene_cp54_q4_s30,5443",detail,로제타,むしろ問題は、<br>そっちじゃないかもしれないわね……
@@ -236,16 +236,16 @@ English,"scene_cp54_q1_s20,5412",detail,Black Knight,And what if this is how I a
 English,"scene_cp54_q1_s20,5412",detail,Lyria,...
 English,"scene_cp54_q1_s20,5412",detail,Eugen,"It's always been hard to figure out what goes on her head, ya know."
 English,"scene_cp54_q1_s20,5412",detail,Eugen,At least back then she had the cuteness of an innocent child.
-English,"scene_cp54_q1_s20,5412",detail,Lyria,"W-well, I think she looks just as cute now. Right, [Djeeta]?"
+English,"scene_cp54_q1_s20,5412",detail,Lyria,"W-well, I think she looks just as cute now. Right, [플레이어]?"
 English,"scene_cp54_q1_s20,5412",detail,Black Knight,...!
 English,"scene_cp54_q1_s20,5412",detail,Rosetta,Heehee... You all still look like lovely little children to me.
 English,"scene_cp54_q1_s20,5412",detail,Black Knight,This is fool's talk... Do not tarry. We must keep moving.
 English,"scene_cp54_q2_s10,5421",synopsis,,"Eugen grows impatient with how long it's taking to get to Agastia, but Drang reassures him that they can soon fly the rest of the way on an airship."
-English,"scene_cp54_q2_s10,5421",detail,,[Djeeta] and the others continue toward Agastia.
+English,"scene_cp54_q2_s10,5421",detail,,[플레이어] and the others continue toward Agastia.
 English,"scene_cp54_q2_s10,5421",detail,,They reach a somewhat open area. The Black Knight surveys the immediate surroundings and lets out a small breath.
 English,"scene_cp54_q2_s10,5421",detail,Black Knight,"Hm. We're doing well for now, but there's still plenty that can go wrong."
 English,"scene_cp54_q2_s10,5421",detail,Black Knight,"Fortunately this area is sparsely populated, but that will change as we near the capital."
-English,"scene_cp54_q2_s10,5421",detail,Black Knight,"This is where the real trial begins. Do not drop your guard, [Djeeta]."
+English,"scene_cp54_q2_s10,5421",detail,Black Knight,"This is where the real trial begins. Do not drop your guard, [플레이어]."
 English,"scene_cp54_q2_s10,5421",detail,Eugen,"So, how long's it gonna take to get there at this pace, anyway?"
 English,"scene_cp54_q2_s10,5421",detail,Eugen,"We haven't even caught a glimpse of it yet. This trek's gettin' pretty long, ain't it?"
 English,"scene_cp54_q2_s10,5421",detail,Sturm,Don't worry. We won't have to walk forever to get there.
@@ -256,7 +256,7 @@ English,"scene_cp54_q2_s10,5421",detail,Black Knight,"Humph. If it were that eas
 English,"scene_cp54_q2_s10,5421",detail,Black Knight,And finding out what that woman is hiding would be impossible.
 English,"scene_cp54_q2_s10,5421",detail,Io,Or that weird feeling Lyria and Orchis got.
 English,"scene_cp54_q2_s10,5421",detail,Lyria,"I still don't understand it clearly, but it's definitely a bad feeling."
-English,"scene_cp54_q2_s10,5421",detail,Lyria,"That's why we need to hurry, [Djeeta]."
+English,"scene_cp54_q2_s10,5421",detail,Lyria,"That's why we need to hurry, [플레이어]."
 English,"scene_cp54_q2_s20,5422",synopsis,,"Vyrn asks Apollonia why she has entrusted the crew with Orchis. The Black Knight curtly claims she trusts the crew, but it appears something inside her has changed as well."
 English,"scene_cp54_q2_s20,5422",detail,Io,I wonder what Orchis and the others are doing now... I hope they're safe from monsters...
 English,"scene_cp54_q2_s20,5422",detail,Vyrn,"Katalina, Rackam, and Lecia are with her, so it'll be fine, right?"
@@ -286,11 +286,11 @@ English,"scene_cp54_q3_s10,5431",detail,Rackam,Probably because those two haven'
 English,"scene_cp54_q3_s10,5431",detail,Katalina,...
 English,"scene_cp54_q3_s10,5431",detail,Orchis,Katalina...
 English,"scene_cp54_q3_s10,5431",detail,Katalina,Hm? Y-yes?
-English,"scene_cp54_q3_s10,5431",detail,Orchis,Lyria is with [Djeeta]. So she'll be all right.
+English,"scene_cp54_q3_s10,5431",detail,Orchis,Lyria is with [플레이어]. So she'll be all right.
 English,"scene_cp54_q3_s10,5431",detail,Katalina,...
 English,"scene_cp54_q3_s10,5431",detail,Rackam,Haha! Check it out. Orchis is more composed than Katalina.
 English,"scene_cp54_q3_s10,5431",detail,Katalina,It is what it is! I'm not accustomed to being in this situation...
-English,"scene_cp54_q3_s10,5431",detail,Katalina,But what you said is true. Lyria is with [Djeeta].
+English,"scene_cp54_q3_s10,5431",detail,Katalina,But what you said is true. Lyria is with [플레이어].
 English,"scene_cp54_q3_s10,5431",detail,Lecia,And she's with other comrades too. Lyria's in good hands.
 English,"scene_cp54_q3_s10,5431",detail,Katalina,You are correct. I imagine Lyria would laugh to see me fretting like this.
 English,"scene_cp54_q3_s10,5431",detail,Rackam,"But how come you're holding up so well, Orchis? You're separated from the Black Knight too."
@@ -311,8 +311,8 @@ English,"scene_cp54_q3_s10,5431",detail,Rackam,Maybe we should put a bit more di
 English,"scene_cp54_q3_s10,5431",detail,Orchis,...
 English,"scene_cp54_q3_s10,5431",detail,,Rackam takes the helm of the Grandcypher and steers them away from the small ship.
 English,"scene_cp54_q3_s10,5431",detail,,"However, the unknown ship is closing the gap between them."
-English,"scene_cp54_q4_s10,5441",synopsis,,"[Djeeta] and the others hurry toward a village to take an airship into the capital, but they are suddenly accosted by imperial soldiers. Rosetta manages to defuse the situation but everyone goes on high alert."
-English,"scene_cp54_q4_s10,5441",detail,,[Djeeta] and the others are still a ways from the capital.
+English,"scene_cp54_q4_s10,5441",synopsis,,"[플레이어] and the others hurry toward a village to take an airship into the capital, but they are suddenly accosted by imperial soldiers. Rosetta manages to defuse the situation but everyone goes on high alert."
+English,"scene_cp54_q4_s10,5441",detail,,[플레이어] and the others are still a ways from the capital.
 English,"scene_cp54_q4_s10,5441",detail,,They've almost reached the village to secure passage aboard an airship.
 English,"scene_cp54_q4_s10,5441",detail,Drang,Won't be long now! Just a little farther!
 English,"scene_cp54_q4_s10,5441",detail,Drang,"Once we get aboard that airship, we'll be a stone's throw from the capital."
@@ -325,12 +325,12 @@ English,"scene_cp54_q4_s10,5441",detail,Imperial Soldier 1,"Even if this is a re
 English,"scene_cp54_q4_s10,5441",detail,,"With nothing left to add, the soldiers disappear into the forest, perhaps to continue patrols."
 English,"scene_cp54_q4_s10,5441",detail,Lyria,I'm sorry! I wasn't expecting that at all.
 English,"scene_cp54_q4_s10,5441",detail,Eugen,"Well, these boonies are still a part of Agastia, remember? We oughta expect to run into soldiers."
-English,"scene_cp54_q4_s10,5441",detail,Eugen,"Now's not the time to be dropping our guard. Keep your eyes peeled, [Djeeta]."
-English,"scene_cp54_q4_s20,5442",synopsis,,"[Djeeta] and the others finally arrive at the village, but Lyria is discovered by imperial soldiers when her disguise is accidentally knocked off. A battle against the empire's newest arsenal ensues."
+English,"scene_cp54_q4_s10,5441",detail,Eugen,"Now's not the time to be dropping our guard. Keep your eyes peeled, [플레이어]."
+English,"scene_cp54_q4_s20,5442",synopsis,,"[플레이어] and the others finally arrive at the village, but Lyria is discovered by imperial soldiers when her disguise is accidentally knocked off. A battle against the empire's newest arsenal ensues."
 English,"scene_cp54_q4_s20,5442",detail,,The infiltration team arrives at the village at long last.
 English,"scene_cp54_q4_s20,5442",detail,,They ask the villagers about the airship to the capital.
 English,"scene_cp54_q4_s20,5442",detail,Villager,"If it's the airship you be wantin', it's gettin' ready for takeoff."
-English,"scene_cp54_q4_s20,5442",detail,Io,What! Now? We have to hurry! Lyria! [Djeeta]!
+English,"scene_cp54_q4_s20,5442",detail,Io,What! Now? We have to hurry! Lyria! [플레이어]!
 English,"scene_cp54_q4_s20,5442",detail,Lyria,Oh dear! W-wait! Drang and the others are still—
 English,"scene_cp54_q4_s20,5442",detail,Villager,"Hold your horses! The soldiers have priority, so any empty spaces are—"
 English,"scene_cp54_q4_s20,5442",detail,,"The villager waves his hand carelessly, accidentally catching Lyria's disguise."
@@ -342,7 +342,7 @@ English,"scene_cp54_q4_s20,5442",detail,Imperial Soldier 1,"Hey, what's going on
 English,"scene_cp54_q4_s20,5442",detail,Imperial Soldier 2,Is that... blue hair? Wait a minute!
 English,"scene_cp54_q4_s20,5442",detail,Lyria,Huh? Uh-oh...
 English,"scene_cp54_q4_s20,5442",detail,Black Knight,Tch... This isn't good.
-English,"scene_cp54_q4_s20,5442",detail,,[Djeeta]'s party is suddenly surrounded by imperial soldiers.
+English,"scene_cp54_q4_s20,5442",detail,,[플레이어]'s party is suddenly surrounded by imperial soldiers.
 English,"scene_cp54_q4_s20,5442",detail,Imperial Soldier 2,"You're those wanted criminals, and she must be the classified girl... Her blue hair's a dead giveaway!"
 English,"scene_cp54_q4_s20,5442",detail,Drang,Whoopsie... Looks like our cover's blown.
 English,"scene_cp54_q4_s20,5442",detail,Sturm,Humph. There's only one way out of this.
@@ -380,7 +380,7 @@ English,"scene_cp54_q4_s30,5443",detail,Adam,Understood. I would like you to rec
 English,"scene_cp54_q4_s30,5443",detail,Imperial Soldier 1,"Sir? Um, affirmative..."
 English,"scene_cp54_q4_s30,5443",detail,,The soldiers disperse with haste to comply with the order.
 English,"scene_cp54_q4_s30,5443",detail,Io,Did he just call that guy <span class='scene-font-italic'>General</span>?
-English,"scene_cp54_q4_s30,5443",detail,Black Knight,General Adam of the Erste Imperial Army has asked [Djeeta] and company to bring an end to the empire.
+English,"scene_cp54_q4_s30,5443",detail,Black Knight,General Adam of the Erste Imperial Army has asked [플레이어] and company to bring an end to the empire.
 English,"scene_cp54_q4_s30,5443",detail,Eugen,"Great... So after you tangle with a major general and a lieutenant general, a general pops out..."
 English,"scene_cp54_q4_s30,5443",detail,Black Knight,"No, I would say we more or less charged at him."
 English,"scene_cp54_q4_s30,5443",detail,Black Knight,"As commander of the nation's defenses, he wouldn't thoughtlessly leave his post in Agastia."

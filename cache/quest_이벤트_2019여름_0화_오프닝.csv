@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt190627_cp0_q1_s10,synopsis,,夏の初め、[ジータ]達から夏のバカンスに誘われたハールート、マールート、アズラエル、イスラフィル。相談する４人のもとに、ひとりの女性が訪れる。一方、ある街の裏路地のバーで、借金を返す為に働くサリエルにひとりの男性が声を掛ける。更に一方、沖合の海では海中に不穏な影が潜んでいるのだった。,"여름이 시작되고, [지타] 일행으로부터 여름 바캉스에 초대된 하루트, 마루트, 아즈라엘, 이스라필. 서로 대화 중인 4명의 곁에, 한명의 여성이 찾아온다. 한편, 어느 마을의 뒷골목 바에서, 빚을 갚기 위해 일하는 사리엘에서 한명의 남성이 말을 건다. 또 한편, 인근 바다의 물 속에서는 불온한 그림자가 숨어있었다."
+Japanese,scene_evt190627_cp0_q1_s10,synopsis,,夏の初め、[플레이어]達から夏のバカンスに誘われたハールート、マールート、アズラエル、イスラフィル。相談する４人のもとに、ひとりの女性が訪れる。一方、ある街の裏路地のバーで、借金を返す為に働くサリエルにひとりの男性が声を掛ける。更に一方、沖合の海では海中に不穏な影が潜んでいるのだった。,"여름이 시작되고, [플레이어] 일행으로부터 여름 바캉스에 초대된 하루트, 마루트, 아즈라엘, 이스라필. 서로 대화 중인 4명의 곁에, 한명의 여성이 찾아온다. 한편, 어느 마을의 뒷골목 바에서, 빚을 갚기 위해 일하는 사리엘에서 한명의 남성이 말을 건다. 또 한편, 인근 바다의 물 속에서는 불온한 그림자가 숨어있었다."
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>新緑の葉が生い茂り、</span><br><span class='scene-font-katari'>風が暑気を孕んできた頃のこと……</span>,"<span class='scene-font-katari'>푸른 초목이 우거지고, 바람이 열기를 띠기 시작했을 즈음의 일이었다.</span>"
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>とある島ではツリーハウスを建て、</span><br><span class='scene-font-katari'>樹上の生活を始めた少女達がいた。</span>,<span class='scene-font-katari'>어떤 섬에 트리 하우스를 세우고 나무 위에서의 생활을 시작한 소녀들이 있었다.</span>
 Japanese,scene_evt190627_cp0_q1_s10,detail,,<span class='scene-font-katari'>彼女達は</span><span class='scene-font-spword'>『天司』</span><span class='scene-font-katari'>という、</span><br><span class='scene-font-katari'>約二千年前に造られた星晶獣だった。</span>,"<span class='scene-font-katari'>그녀들은 </span><span class='scene-font-spword'>「천사」</span><span class='scene-font-katari'>로, 약 2천년 전에 만들어진 성정수였다.</span>"
@@ -104,7 +104,7 @@ Japanese,scene_evt190627_cp0_q1_s10,detail,청년,…………,…………
 Japanese,scene_evt190627_cp0_q1_s10,detail,미녀,何……？<br>なんなのこの……ねえ……,What.... What is this...<br>(뭐... 뭐야 이건... 응...?)
 Japanese,scene_evt190627_cp0_q1_s10,detail,미녀,まさか……,It can't be...<br>(말도 안 돼...)
 Japanese,scene_evt190627_cp0_q1_s10,detail,미녀,<span class='scene-font-4'>きゃあぁぁぁ！？</span>,<span class='scene-font-4'>Aaaaah!</span> <br> <span class='scene-font-4'>꺄아아아아아！？</span>
-English,scene_evt190627_cp0_q1_s10,synopsis,,"Early in the summer, [Djeeta] and the crew invite Halluel, Malluel, Azrael, and Israfel on vacation. At the same time, Sariel is laboring in a basement bar to repay his debts. Meanwhile, an ominous specter lurks just off the coast."
+English,scene_evt190627_cp0_q1_s10,synopsis,,"Early in the summer, [플레이어] and the crew invite Halluel, Malluel, Azrael, and Israfel on vacation. At the same time, Sariel is laboring in a basement bar to repay his debts. Meanwhile, an ominous specter lurks just off the coast."
 English,scene_evt190627_cp0_q1_s10,detail,,The first shoots of pale greenery have matured into a verdant canopy. A summery breeze rustles through.
 English,scene_evt190627_cp0_q1_s10,detail,,"High above the forest floor of this island, a group of women have built a tree house, which serves as their home."
 English,scene_evt190627_cp0_q1_s10,detail,,They are archangels—primal beasts created approximately two millennia ago.

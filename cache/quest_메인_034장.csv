@@ -1,10 +1,10 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp34_q1_s10,3411",synopsis,,半ば強引に老婆の家に招待される[ジータ]一行。まさか帝国の罠ではないかと疑いつつも、老婆を護衛しつつ家へと向かう。,"반 강제로 노파의 집에 초대된 [지타]일행. 혹시나 제국의 함정이 아닐까하고 의심하면서도, 노파를 호위하며 집으로 향한다."
+Japanese,"scene_cp34_q1_s10,3411",synopsis,,半ば強引に老婆の家に招待される[플레이어]一行。まさか帝国の罠ではないかと疑いつつも、老婆を護衛しつつ家へと向かう。,"반 강제로 노파의 집에 초대된 [플레이어]일행. 혹시나 제국의 함정이 아닐까하고 의심하면서도, 노파를 호위하며 집으로 향한다."
 Japanese,"scene_cp34_q1_s10,3411",detail,카타리나,い、いや……<br>だから、私達には予定が……！,"아, 아니……<br>그러니까, 우리들에겐 예정이……！"
 Japanese,"scene_cp34_q1_s10,3411",detail,아주머니,まぁ、そう言わずに！<br>アポロちゃん達に命を救われて、<br>何もお礼をしないなんて……,"어머, 사양하지 말고! <br>아폴로 일행덕에 목숨을 건졌는데, <br>감사를 표하지 않을 수 없지……"
 Japanese,"scene_cp34_q1_s10,3411",detail,아주머니,それに申し訳ないんだけど、<br>家までの道で、<br>また魔物が出たらと思うと……,"그리고 면목 없지만,  <br>집 까지 가는 길에, <br>또 마물이 튀어나올 걸 생각하면……"
 Japanese,"scene_cp34_q1_s10,3411",detail,카타리나,う……,으……
-Japanese,"scene_cp34_q1_s10,3411",detail,,<span class='scene-font-katari'>[ジータ]一行は引きずられるように、</span><br><span class='scene-font-katari'>窮地を救った老婆の家へと</span><br><span class='scene-font-katari'>招待されていた。</span>,"<span class='scene-font-katari'>[지타] 일행은 끌려가듯, </span><br><span class='scene-font-katari'> 구해준 노파의 집으로 </span><br><span class='scene-font-katari'>초대 받고 있었다.</span>"
+Japanese,"scene_cp34_q1_s10,3411",detail,,<span class='scene-font-katari'>[플레이어]一行は引きずられるように、</span><br><span class='scene-font-katari'>窮地を救った老婆の家へと</span><br><span class='scene-font-katari'>招待されていた。</span>,"<span class='scene-font-katari'>[플레이어] 일행은 끌려가듯, </span><br><span class='scene-font-katari'> 구해준 노파의 집으로 </span><br><span class='scene-font-katari'>초대 받고 있었다.</span>"
 Japanese,"scene_cp34_q1_s10,3411",detail,라캄,なぁ……<br>これは何かの罠とかじゃあないよな？,저기……<br>이거 뭔가 꿍꿍이가 있는 건 아니겠지?
 Japanese,"scene_cp34_q1_s10,3411",detail,흑기사,それはない。<br>確かにあのご婦人は私も知っている。,"그런 건 없을터.<br>분명, 저 부인은 나도 아는 사람이다."
 Japanese,"scene_cp34_q1_s10,3411",detail,흑기사,それに私は、<br>「黒騎士」として過ごしている間、<br>鎧を外したことはなかったからな。,"거기에, <br> 「흑기사」로서 지내는 동안, <br> 갑옷을 벗은 적은 없으니까 말이다."
@@ -12,7 +12,7 @@ Japanese,"scene_cp34_q1_s10,3411",detail,흑기사,いまの私の姿を見て�
 Japanese,"scene_cp34_q1_s10,3411",detail,이오,ところで……<br>さっきの話、<br>後で詳しく教えてくれるのよね？,"그런데 말이야……<br>조금 전의 이야기, <br>나중에 자세하게 가르쳐 줄거지?"
 Japanese,"scene_cp34_q1_s10,3411",detail,흑기사,案ずるな……<br>それよりいまは話しを合わせておけ。<br>下手に大騒ぎしたほうが面倒だ。,보채지 마라……<br>그것보다 지금은 말을 맞춰 두도록 하지.<br>어줍잖게 소란을 피우면 더 귀찮아진다.
 Japanese,"scene_cp34_q1_s10,3411",detail,아주머니,さぁさぁ、こちらですよ！<br>ふふ……家に着いたら、<br>どんなご馳走を出してあげようかねぇ。,"자자, 여기에요! <br>후후……집에 도착하면, <br>어떤 음식을 대접하는게 좋을까나."
-Japanese,"scene_cp34_q1_s20,3412",synopsis,,老婆の家へと向かう道すがら、[ジータ]達は彼女から思いがけない話を聞くことになる。過去のオルキスは天真爛漫で、およそ人形と呼ばれるような性格ではなかった事や、そんなオルキスの親友であったという在りし日の黒騎士について、老婆は懐かしげに語るのだった。,"노파의 집으로 향하는 도중, [지타]일행은 그녀에게서 생각지도 못한 이야기를 듣게 된다. 과거, 오르키스는 천진난만하며, 인형이라 불리울만한 성격이 아니었다는 것이나, 그런 오르키스의 친구이기도 했던 지난날의 흑기사에 대하여, 노파는 그리움을 담아 이야기 했다."
+Japanese,"scene_cp34_q1_s20,3412",synopsis,,老婆の家へと向かう道すがら、[플레이어]達は彼女から思いがけない話を聞くことになる。過去のオルキスは天真爛漫で、およそ人形と呼ばれるような性格ではなかった事や、そんなオルキスの親友であったという在りし日の黒騎士について、老婆は懐かしげに語るのだった。,"노파의 집으로 향하는 도중, [플레이어]일행은 그녀에게서 생각지도 못한 이야기를 듣게 된다. 과거, 오르키스는 천진난만하며, 인형이라 불리울만한 성격이 아니었다는 것이나, 그런 오르키스의 친구이기도 했던 지난날의 흑기사에 대하여, 노파는 그리움을 담아 이야기 했다."
 Japanese,"scene_cp34_q1_s20,3412",detail,루리아,ね、ねぇ……お婆ちゃん……,"저, 저기……아주머니……"
 Japanese,"scene_cp34_q1_s20,3412",detail,아주머니,うん？ なんだい？,응? 왜 그러니?
 Japanese,"scene_cp34_q1_s20,3412",detail,루리아,あの……エルステ王国の王女様……<br>オルキス様って、<br>どんな子だったんですか？,"저기……에르스테 왕국의 왕녀님……<br>오르키스 님은, <br>어떤 아이였나요?"
@@ -51,7 +51,7 @@ Japanese,"scene_cp34_q2_s20,3422",detail,흑기사,しかし……<br>真実は�
 Japanese,"scene_cp34_q2_s20,3422",detail,카타리나,黒騎士……？,흑기사……？
 Japanese,"scene_cp34_q2_s20,3422",detail,아주머니,さぁさ、もうすぐですよ！<br>もうちょっとだけ、<br>頑張ってちょうだいね。,"자, 저기에요!<br>조금만 더, <br>힘내 주렴."
 Japanese,"scene_cp34_q3_s10,3431",synopsis,,老婆の家の一室に集まった一行。そこで、黒騎士は過去を静かに語り出した。母親との死別をきっかけに故郷アウギュステを離れ、エルステ王国に渡り、王女オルキスと出逢った時の事。オルキスと、その両親との関わりが、黒騎士にとってかけがえのない大切な物であった事。かつての親友オルキスを取り戻すためには手段を選ばぬと語り、黒騎士は口を閉ざした。翌朝、一行は新たな決意を胸に王宮へと向かう。,"노파의 집에서 한 방에 모인 일행. 거기서 흑기사는 과거를 조용히 이야기하기 시작했다. 모친과의 사별한 것을 계기로, 고향인 아우규스테를 떠나, 에르스테 왕국을 전전하며, 왕녀 오르키스와 만났을 때의 이야기들. 오르키스와 그녀의 양친과의 만남이 흑기사에게 있어 그 무엇보다 소중했었다는 것. 일찍이 친우였던 오르키스를 되찾기 위하여 수단을 가리지 않았다는 것을 이야기 하고서, 흑기사는 입을 다물었다. 다음 날 아침, 일행은 새로이 결의를 다지고 왕궁으로 향했다."
-Japanese,"scene_cp34_q3_s10,3431",detail,,<span class='scene-font-katari'>その夜、老婆からの歓待を受けた</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>とある一室に集まっていた。</span>,"<span class='scene-font-katari'>그날 밤, 노파에게 환대를 받은</span><br><span class='scene-font-katari'>[지타]일행은, </span><br><span class='scene-font-katari'>어느 한 방에 모여 있었다.</span>"
+Japanese,"scene_cp34_q3_s10,3431",detail,,<span class='scene-font-katari'>その夜、老婆からの歓待を受けた</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>とある一室に集まっていた。</span>,"<span class='scene-font-katari'>그날 밤, 노파에게 환대를 받은</span><br><span class='scene-font-katari'>[플레이어]일행은, </span><br><span class='scene-font-katari'>어느 한 방에 모여 있었다.</span>"
 Japanese,"scene_cp34_q3_s10,3431",detail,카타리나,さぁ、話してもらおうか。<br>黒騎士……貴殿の知る真実をな。,"자, 이야기 해주실까. <br>흑기사……네가 알고 있는 진실을."
 Japanese,"scene_cp34_q3_s10,3431",detail,루리아,…………,…………
 Japanese,"scene_cp34_q3_s10,3431",detail,흑기사,そうだな……<br>どこから話したものか……,그래……<br>어디서 부터 이야기하면 좋을까……
@@ -77,12 +77,12 @@ Japanese,"scene_cp34_q3_s10,3431",detail,흑기사,オルキスと共に過ご�
 Japanese,"scene_cp34_q3_s10,3431",detail,흑기사,女王陛下達から受けた恩……<br>彼女と過ごした幸せな時間……<br>私はそれを決して忘れない。,여왕폐하에게 받은 은혜……<br>오르키스와 보냈던 행복한 시간……<br>나는 그것을 절대 잊지 않아.
 Japanese,"scene_cp34_q3_s10,3431",detail,흑기사,だから私は彼女を……<br>オルキスを取り戻すためなら<br>いかなる犠牲も払う……そう決めたのだ。,"그러니 나는, 그녀를……<br>오르키스를 되찾기 위해서라면<br>어떠한 희생이라도 감수하겠다……그렇게 결심했다."
 Japanese,"scene_cp34_q3_s10,3431",detail,,<span class='scene-font-katari'>その日、黒騎士が</span><br><span class='scene-font-katari'>それ以上を語ることはなかった。</span>,"<span class='scene-font-katari'>그 날, 흑기사가</span><br><span class='scene-font-katari'>그 이상 말하는 일은 없었다.</span>"
-Japanese,"scene_cp34_q3_s10,3431",detail,,<span class='scene-font-katari'>そうして[ジータ]一行は朝を迎え、</span><br><span class='scene-font-katari'>王宮へ向け、再び歩みを進める。</span>,"<span class='scene-font-katari'>그리고[지타]일행은 아침을 맞이하여,</span><br><span class='scene-font-katari'>왕궁을 향하여, 다시금 걷기 시작했다.</span>"
+Japanese,"scene_cp34_q3_s10,3431",detail,,<span class='scene-font-katari'>そうして[플레이어]一行は朝を迎え、</span><br><span class='scene-font-katari'>王宮へ向け、再び歩みを進める。</span>,"<span class='scene-font-katari'>그리고[플레이어]일행은 아침을 맞이하여,</span><br><span class='scene-font-katari'>왕궁을 향하여, 다시금 걷기 시작했다.</span>"
 Japanese,"scene_cp34_q3_s10,3431",detail,카타리나,…………
 Japanese,"scene_cp34_q3_s10,3431",detail,이오,うう……<br>昨日の話、色々気になっちゃって、<br>よく寝られなかったわ……
 Japanese,"scene_cp34_q3_s10,3431",detail,로제타,ふふ……寝不足はお肌の天敵よ。<br>レディを目指すのなら、<br>覚えておかなくちゃね。
 Japanese,"scene_cp34_q3_s10,3431",detail,로제타,それに、<br>今日こそはあの王宮に<br>乗り込むことになるでしょうね。
-Japanese,"scene_cp34_q3_s10,3431",detail,로제타,油断は出来ないわ。<br>気を引き締めて進みましょう。<br>[ジータ]。
+Japanese,"scene_cp34_q3_s10,3431",detail,로제타,油断は出来ないわ。<br>気を引き締めて進みましょう。<br>[플레이어]。
 Japanese,"scene_cp34_q3_s20,3432",synopsis,,オルキスに起きた異変について語る黒騎士。星晶獣にまつわる事件によって、オルキスは成長する事がなくなり、人形のようになってしまったという。天真爛漫だった過去のオルキスの姿を取り戻すための方法はあるが、オルキス本人がいなければ叶わぬことと語る黒騎士。黒騎士の目的を知った一行は、オルキス奪還のため王宮を目指す。
 Japanese,"scene_cp34_q3_s20,3432",detail,루리아,黒騎士さん……<br>昨日黒騎士さんが話してくれたことは、<br>全て真実なんですか？
 Japanese,"scene_cp34_q3_s20,3432",detail,흑기사,もちろん。<br>オルキスについては、<br>あのご婦人も言っていた通りだ。
@@ -109,8 +109,8 @@ Japanese,"scene_cp34_q3_s20,3432",detail,흑기사,案ずるな……方法は�
 Japanese,"scene_cp34_q3_s20,3432",detail,흑기사,いま貴様らに、<br>その方法を話すことは出来ない。
 Japanese,"scene_cp34_q3_s20,3432",detail,흑기사,だが少なくとも、<br>あの人形を取り戻すということでは、<br>いまの我々の目的は一致している。
 Japanese,"scene_cp34_q3_s20,3432",detail,흑기사,雌雄を決するならば、<br>人形を取り返した後だ。<br>まずは進むぞ……あの王宮へとな。
-Japanese,"scene_cp34_q4_s10,3441",synopsis,,進撃を続ける[ジータ]一行。王宮も目前というところで、周辺に配備された帝国兵達が襲いかかる。
-Japanese,"scene_cp34_q4_s10,3441",detail,,<span class='scene-font-katari'>遠目から見ていた王宮に近づき、</span><br><span class='scene-font-katari'>[ジータ]一行は息を呑む。</span>
+Japanese,"scene_cp34_q4_s10,3441",synopsis,,進撃を続ける[플레이어]一行。王宮も目前というところで、周辺に配備された帝国兵達が襲いかかる。
+Japanese,"scene_cp34_q4_s10,3441",detail,,<span class='scene-font-katari'>遠目から見ていた王宮に近づき、</span><br><span class='scene-font-katari'>[플레이어]一行は息を呑む。</span>
 Japanese,"scene_cp34_q4_s10,3441",detail,루리아,ここに……<br>オルキスちゃんが……
 Japanese,"scene_cp34_q4_s10,3441",detail,흑기사,恐らくな……<br>どうだ、ルリア。<br>何か感じるか？
 Japanese,"scene_cp34_q4_s10,3441",detail,루리아,えと……<br>いまのところ、何も……
@@ -118,8 +118,8 @@ Japanese,"scene_cp34_q4_s10,3441",detail,제국병,なんだお前らは……�
 Japanese,"scene_cp34_q4_s10,3441",detail,오이겐,流石にこの周りにゃあ、<br>帝国の連中も居るってわけか。
 Japanese,"scene_cp34_q4_s10,3441",detail,제국병,そうか！<br>貴様ら指名手配の……！
 Japanese,"scene_cp34_q4_s10,3441",detail,오이겐,悪ぃがここは通してもらうぜ。<br>オレ達はその王宮の中に<br>用があるんでな！
-Japanese,"scene_cp34_q4_s20,3442",synopsis,,帝国兵達を退けた[ジータ]達だったが、いざ王宮へ乗り込まんとしたところへ巨大なゴーレムが立ちはだかる。黒騎士はゴーレムを一瞥し、フリーシアが防衛を任せるからには油断ならぬ相手と一行へ告げた。オルキスのいる王宮を目の前にして退くはずもなく、[ジータ]達は強大な守護者へと戦いを挑むのであった。
-Japanese,"scene_cp34_q4_s20,3442",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>王宮を守る兵士達を退ける。</span>
+Japanese,"scene_cp34_q4_s20,3442",synopsis,,帝国兵達を退けた[플레이어]達だったが、いざ王宮へ乗り込まんとしたところへ巨大なゴーレムが立ちはだかる。黒騎士はゴーレムを一瞥し、フリーシアが防衛を任せるからには油断ならぬ相手と一行へ告げた。オルキスのいる王宮を目の前にして退くはずもなく、[플레이어]達は強大な守護者へと戦いを挑むのであった。
+Japanese,"scene_cp34_q4_s20,3442",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>王宮を守る兵士達を退ける。</span>
 Japanese,"scene_cp34_q4_s20,3442",detail,라캄,うし……！<br>これで後は乗り込むだけか……！
 Japanese,"scene_cp34_q4_s20,3442",detail,흑기사,いや、まだだ……<br>来るぞ……構えろ！
 Japanese,"scene_cp34_q4_s20,3442",detail,라캄,なにっ！？
@@ -130,7 +130,7 @@ Japanese,"scene_cp34_q4_s20,3442",detail,오이겐,ちっ……<br>まだこん�
 Japanese,"scene_cp34_q4_s20,3442",detail,흑기사,ふん……<br>老いぼれの身には連戦は厳しいか？
 Japanese,"scene_cp34_q4_s20,3442",detail,오이겐,けっ……馬鹿言うんじゃねぇ。<br>年季の違う戦いってやつを<br>見せてやらぁ！
 Japanese,"scene_cp34_q4_s20,3442",detail,흑기사,あの女がここの守護を任せるくらいだ。<br>このゴーレムは間違いなく強い。<br>油断するなよ……！
-Japanese,"scene_cp34_q4_s30,3443",synopsis,,防衛の要に兵士を用いず、ゴーレムを配備していた事に疑問を抱くイオ。黒騎士曰く、星の民が使役した星晶獣に敗北するまで、ゴーレムは最強の兵器として君臨していたという。その製造に長けていたエルステにとって、ゴーレムは国の象徴ともいえる存在なのだと黒騎士は語った。そんなエルステの盛衰を見守ってきた王宮へと、[ジータ]達は足を踏み入れるのであった。
+Japanese,"scene_cp34_q4_s30,3443",synopsis,,防衛の要に兵士を用いず、ゴーレムを配備していた事に疑問を抱くイオ。黒騎士曰く、星の民が使役した星晶獣に敗北するまで、ゴーレムは最強の兵器として君臨していたという。その製造に長けていたエルステにとって、ゴーレムは国の象徴ともいえる存在なのだと黒騎士は語った。そんなエルステの盛衰を見守ってきた王宮へと、[플레이어]達は足を踏み入れるのであった。
 Japanese,"scene_cp34_q4_s30,3443",detail,ゴーレム,…………
 Japanese,"scene_cp34_q4_s30,3443",detail,라캄,ふぅ……<br>これで今度こそ、後は乗り込むだけか。
 Japanese,"scene_cp34_q4_s30,3443",detail,이오,けど、<br>どうして兵隊さんじゃなくて、<br>わざわざゴーレムを置いてたのかしら？
@@ -145,14 +145,14 @@ Japanese,"scene_cp34_q4_s30,3443",detail,이오,ふぅん……<br>エルステ�
 Japanese,"scene_cp34_q4_s30,3443",detail,흑기사,そうだ……<br>だからゴーレムは<br>エルステにとって欠かせない存在なのだ。
 Japanese,"scene_cp34_q4_s30,3443",detail,흑기사,さて……無駄話が過ぎたな。<br>もう障害はない。<br>このまま王宮に乗り込むぞ。
 Japanese,"scene_cp34_q4_s30,3443",detail,흑기사,恐らくだが<br>フリーシアが待ち構えている……<br>決して気を抜くんじゃないぞ。
-Japanese,"scene_cp34_q4_s30,3443",detail,,<span class='scene-font-katari'>古き都の王宮に、</span><br><span class='scene-font-katari'>[ジータ]一行はついに、</span><br><span class='scene-font-katari'>足を踏み入れる。</span>
+Japanese,"scene_cp34_q4_s30,3443",detail,,<span class='scene-font-katari'>古き都の王宮に、</span><br><span class='scene-font-katari'>[플레이어]一行はついに、</span><br><span class='scene-font-katari'>足を踏み入れる。</span>
 Japanese,"scene_cp34_q4_s30,3443",detail,,<span class='scene-font-katari'>その最奥には何が待つのか。</span><br><span class='scene-font-katari'>この時、それを知る者は、</span><br><span class='scene-font-katari'>誰一人として居ないのだった。</span>
 English,"scene_cp34_q1_s10,3411",synopsis,,The crew reluctantly decide to accompany the old woman back to her home.
 English,"scene_cp34_q1_s10,3411",detail,Katalina,"No, really, we have an urgent matter we must attend to."
 English,"scene_cp34_q1_s10,3411",detail,Old Woman,"That much is clear, but I have to thank Apollo and her friends for saving me."
 English,"scene_cp34_q1_s10,3411",detail,Old Woman,But I think more monsters might show up on the way to my house. So if you wouldn't mind...
 English,"scene_cp34_q1_s10,3411",detail,Katalina,Uh...
-English,"scene_cp34_q1_s10,3411",detail,,"More for the safety of the old woman than anything else, [Djeeta] reluctantly accepts the invitation on behalf of the crew."
+English,"scene_cp34_q1_s10,3411",detail,,"More for the safety of the old woman than anything else, [플레이어] reluctantly accepts the invitation on behalf of the crew."
 English,"scene_cp34_q1_s10,3411",detail,Rackam,"Was just thinkin', but you don't think this is some kinda trap, right?"
 English,"scene_cp34_q1_s10,3411",detail,Black Knight,No way. This woman knows me as Apollonia.
 English,"scene_cp34_q1_s10,3411",detail,Black Knight,But she wouldn't know my armor or my status as the Black Knight.
@@ -177,7 +177,7 @@ English,"scene_cp34_q2_s20,3422",detail,Black Knight,It's just... I can't let ev
 English,"scene_cp34_q2_s20,3422",detail,Katalina,Black Knight?
 English,"scene_cp34_q2_s20,3422",detail,Old Woman,We're almost there! Just a little more!
 English,"scene_cp34_q3_s10,3431",synopsis,,The Black Knight opens up about her past. She recounts how Orchis and the royal family took care of her when she was orphaned and sent to Erste. Now she'll do anything to repay that favor.
-English,"scene_cp34_q3_s10,3431",detail,,That night [Djeeta] and the crew gather in one room of the old woman's house.
+English,"scene_cp34_q3_s10,3431",detail,,That night [플레이어] and the crew gather in one room of the old woman's house.
 English,"scene_cp34_q3_s10,3431",detail,Katalina,"So, Black Knight. Tell us the truth."
 English,"scene_cp34_q3_s10,3431",detail,Lyria,...
 English,"scene_cp34_q3_s10,3431",detail,Black Knight,I suppose I will. Where should I even start...
@@ -208,7 +208,7 @@ English,"scene_cp34_q3_s10,3431",detail,Katalina,...
 English,"scene_cp34_q3_s10,3431",detail,Io,Grumble... I couldn't stop thinking about everything the Black Knight said. I couldn't sleep at all.
 English,"scene_cp34_q3_s10,3431",detail,Rosetta,Not getting enough sleep is the worst thing you can do for your skin.
 English,"scene_cp34_q3_s10,3431",detail,Rosetta,"But anyway, today is the day we infiltrate the palace, correct?"
-English,"scene_cp34_q3_s10,3431",detail,Rosetta,"We'll have to stay on our toes. Now let's be off, [Djeeta]."
+English,"scene_cp34_q3_s10,3431",detail,Rosetta,"We'll have to stay on our toes. Now let's be off, [플레이어]."
 English,"scene_cp34_q3_s20,3432",synopsis,,"The Black Knight reveals that Orchis stopped growing due to an incident involving a primal beast. In hopes of restoring Orchis to her former self, the crew presses on toward the palace."
 English,"scene_cp34_q3_s20,3432",detail,Lyria,"Black Knight, everything you said yesterday... Was it the truth?"
 English,"scene_cp34_q3_s20,3432",detail,Black Knight,Of course. And that woman's account of Orchis was accurate as well.
@@ -245,7 +245,7 @@ English,"scene_cp34_q4_s10,3441",detail,Eugen,Hah. Shoulda known there'd be more
 English,"scene_cp34_q4_s10,3441",detail,Imperial Soldier,I remember! You're all on the most wanted list!
 English,"scene_cp34_q4_s10,3441",detail,Eugen,"Apologies for the rough treatment we're about to put you through, friends. But we need to get through!"
 English,"scene_cp34_q4_s20,3442",synopsis,,"After the crew fight off the imperial soldiers, a golem appears to block their path."
-English,"scene_cp34_q4_s20,3442",detail,,[Djeeta] and the crew finish driving back the remaining palace guards.
+English,"scene_cp34_q4_s20,3442",detail,,[플레이어] and the crew finish driving back the remaining palace guards.
 English,"scene_cp34_q4_s20,3442",detail,Rackam,All right! Now all that's left to do is get inside!
 English,"scene_cp34_q4_s20,3442",detail,Black Knight,"No, not yet! Something's coming! Get ready!"
 English,"scene_cp34_q4_s20,3442",detail,Rackam,What!
@@ -271,5 +271,5 @@ English,"scene_cp34_q4_s30,3443",detail,Io,"Huh, so that's what the Erste Kingdo
 English,"scene_cp34_q4_s30,3443",detail,Black Knight,Yes. Now you understand the importance of golems to the people of Erste.
 English,"scene_cp34_q4_s30,3443",detail,Black Knight,I think that makes for enough chitchat. Nothing stands in our way now—let's head in.
 English,"scene_cp34_q4_s30,3443",detail,Black Knight,"Just an assumption, but Freesia is probably ready for us. Do not let your guard down for even a moment."
-English,"scene_cp34_q4_s30,3443",detail,,[Djeeta] and the crew look around the ancient palace with a sense of wonder as they enter.
+English,"scene_cp34_q4_s30,3443",detail,,[플레이어] and the crew look around the ancient palace with a sense of wonder as they enter.
 English,"scene_cp34_q4_s30,3443",detail,,"With the threat of Freesia looming in the background, they press on as one."

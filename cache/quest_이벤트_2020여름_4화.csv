@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_evt200628_cp4_q1_s10,7556411",synopsis,,一行は巨大樹クラゲを退治し、混乱を未然に防ぐ。レッドラックは大食い大会の午後の部の開始が迫ってきたため先に会場に向かい、[ジータ]達は巨大樹クラゲの後処理を請け負う。レッドラックが会場に向かう途中、気合いが入りすぎてよろめくといった場面に一行は笑いつつ、レッドラックを元気に見送るのだった。,"일행은 거대 나무 해파리를 퇴차히고, 혼란을 미연에 방지한다. 레드락은 많이 먹기 대회 오후부 시작시간이 임박하여 먼저 대회장으로 향한다. [지타] 일행은 거대 나무 해파리의 후처리를 맡는다. 레드락이 대회장에 향하던 도중, 기합이 너무 들어가 비틀 하는 장면에 일행은 웃음지으며 레드락을 건강하게 배웅했다."
+Japanese,"scene_evt200628_cp4_q1_s10,7556411",synopsis,,一行は巨大樹クラゲを退治し、混乱を未然に防ぐ。レッドラックは大食い大会の午後の部の開始が迫ってきたため先に会場に向かい、[플레이어]達は巨大樹クラゲの後処理を請け負う。レッドラックが会場に向かう途中、気合いが入りすぎてよろめくといった場面に一行は笑いつつ、レッドラックを元気に見送るのだった。,"일행은 거대 나무 해파리를 퇴차히고, 혼란을 미연에 방지한다. 레드락은 많이 먹기 대회 오후부 시작시간이 임박하여 먼저 대회장으로 향한다. [플레이어] 일행은 거대 나무 해파리의 후처리를 맡는다. 레드락이 대회장에 향하던 도중, 기합이 너무 들어가 비틀 하는 장면에 일행은 웃음지으며 레드락을 건강하게 배웅했다."
 Japanese,"scene_evt200628_cp4_q1_s10,7556411",detail,거대나무해파리,────！！,────！！
 Japanese,"scene_evt200628_cp4_q1_s10,7556411",detail,코루루,隙あり、でごんす！,빈틈이외다!
 Japanese,"scene_evt200628_cp4_q1_s10,7556411",detail,거대나무해파리,────……！,────……！
@@ -105,7 +105,7 @@ Japanese,"scene_evt200628_cp4_q2_s10,7556421",detail,마슈,<span class='scene-f
 Japanese,"scene_evt200628_cp4_q2_s10,7556421",detail,마슈,<span class='scene-font-4'>最後に勝つんは、ワシじゃッ！</span>,<span class='scene-font-4'>결국엔 내가 이길 거다!</span>
 Japanese,"scene_evt200628_cp4_q2_s10,7556421",detail,사회자,追い込みをかけるレッドラック選手！<br>その背中を見据え、<br>猛追を見せるマッシュ選手！,막판 스퍼트에 들어간 레드락 선수! 그리고 그에 못지않은 맹추격을 보여주는 마슈 선수!
 Japanese,"scene_evt200628_cp4_q2_s10,7556421",detail,사회자,果たして、勝負の行方は……！,이 승부는 과연 어떻게 될까요!
-Japanese,"scene_evt200628_cp4_q3_s10,7556431",synopsis,,午後の部の勝者はマッシュだった。思わぬ結果に動揺するも、[ジータ]がレッドラックの異変に気付いた。レッドラックは巨大樹クラゲとの戦いの際にコルルを庇って怪我を負っていたのだ。やがてマッシュが現れ、敗退したレッドラックを嘲った。コルルはレッドラックに助けられた恩を返さんと、レッドラックに代わって優勝すると宣言するのだった。,오후부의 승자는 마슈였다. 예상 밖의 결과에 동요 하던 [지타]가 레드락의 이변을 알아차린다. 레드락은 거대 나무 해파리와의 싸움에서 코루루를 감싸 부상을 입고 있었던 것이다. 이윽고 마슈가 나타나 탈락한 레드락을 비웃었다. 코루루는 레드락에게 받은 도움을 갚기위해 레드락 대신 우승하겠다고 선언하는 것이었다.
+Japanese,"scene_evt200628_cp4_q3_s10,7556431",synopsis,,午後の部の勝者はマッシュだった。思わぬ結果に動揺するも、[플레이어]がレッドラックの異変に気付いた。レッドラックは巨大樹クラゲとの戦いの際にコルルを庇って怪我を負っていたのだ。やがてマッシュが現れ、敗退したレッドラックを嘲った。コルルはレッドラックに助けられた恩を返さんと、レッドラックに代わって優勝すると宣言するのだった。,오후부의 승자는 마슈였다. 예상 밖의 결과에 동요 하던 [플레이어]가 레드락의 이변을 알아차린다. 레드락은 거대 나무 해파리와의 싸움에서 코루루를 감싸 부상을 입고 있었던 것이다. 이윽고 마슈가 나타나 탈락한 레드락을 비웃었다. 코루루는 레드락에게 받은 도움을 갚기위해 레드락 대신 우승하겠다고 선언하는 것이었다.
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,,<span class='scene-font-katari'>司会者により午後の部終了の</span><br><span class='scene-font-katari'>合図が告げられた瞬間、</span><br><span class='scene-font-katari'>ざわめきに包まれる会場。</span>,"<span class='scene-font-katari'>사회자가 오후부 종료 사인을 외친 순간, 회장에 술렁거림이 일었다.</span>"
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,,<span class='scene-font-katari'>ざわつく観客達を代弁するように、</span><br><span class='scene-font-katari'>司会者がゆっくりと口を開く。</span>,<span class='scene-font-katari'>그런 관객들을 대변하듯이 사회자가 천천히 입을 열었다.</span>
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,사회자,この場にいる多くの皆様の心中、<br>お察しいたします。,여기 계시는 많은 분들의 심정을 이해합니다.
@@ -138,7 +138,7 @@ Japanese,"scene_evt200628_cp4_q3_s10,7556431",sel1_txt,,<span class='scene-font-
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",sel2_txt,,<span class='scene-font-katari'>おかしい</span>,<span class='scene-font-katari'>이상한데</span>
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,비이,嘘ってどういうこった？<br>まさかおっさんが、オイラ達に<br>隠し事してるってのか？,거짓말이라니 무슨소리야? 설마 아저씨가 우리들에 뭔가 숨기고있다고?
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,비이,おかしいって、腹壊したことがか？<br>でもおっさんも人間だし、<br>あんだけ食ってりゃ体調崩しても……,"이상하다니, 배탈난 거? 하지만 아저씨도 인간이니까 그만큼이나 먹으면 그럴 수 있..."
-Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,,<span class='scene-font-katari'>[ジータ]は首を横に振り、</span><br><span class='scene-font-katari'>レッドラックが押さえているのは</span><br><span class='scene-font-katari'>胃の辺りではなく脇腹だと指摘する。</span>,<span class='scene-font-katari'>[지타]는 고개를 흔들며 레드락이 손으로 누르고 있던 곳은 위 쪽이 아니라 옆구리였다고 지적했다.</span>
+Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,,<span class='scene-font-katari'>[플레이어]は首を横に振り、</span><br><span class='scene-font-katari'>レッドラックが押さえているのは</span><br><span class='scene-font-katari'>胃の辺りではなく脇腹だと指摘する。</span>,<span class='scene-font-katari'>[플레이어]는 고개를 흔들며 레드락이 손으로 누르고 있던 곳은 위 쪽이 아니라 옆구리였다고 지적했다.</span>
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,레드락,……っ！,...!
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,비이,言われてみりゃあ……<br>おっさん、何か他に理由あんのか？,"듣고 보니 그렇네... 아저씨, 뭐 다른 이유라도 있었어?"
 Japanese,"scene_evt200628_cp4_q3_s10,7556431",detail,레드락,おいおい、馬鹿言うなよ。<br>胃袋がでかくなって……ほら、なんだ？<br>脇腹が圧迫されてっつうのか……？,"에이, 무슨 말도 안 되는 소릴. 위가 늘어나는 바람에 그 뭐냐.... 옆구리를 압박했다고 해야 되나?"
@@ -483,7 +483,7 @@ English,"scene_evt200628_cp4_q3_s10,7556431",sel1_txt,,You sure nothing else hap
 English,"scene_evt200628_cp4_q3_s10,7556431",sel2_txt,,More like strange.
 English,"scene_evt200628_cp4_q3_s10,7556431",detail,Vyrn,Whazzat mean? You sayin' he's hiding something from us?
 English,"scene_evt200628_cp4_q3_s10,7556431",detail,Vyrn,"I mean it is a little weird, but... the big guy's still mortal, y'know? Maybe he ate too much or pulled a muscle."
-English,"scene_evt200628_cp4_q3_s10,7556431",detail,,"[Djeeta] directs Vyrn's gaze not at Redluck's stomach, but rather his side."
+English,"scene_evt200628_cp4_q3_s10,7556431",detail,,"[플레이어] directs Vyrn's gaze not at Redluck's stomach, but rather his side."
 English,"scene_evt200628_cp4_q3_s10,7556431",detail,Redluck,...!
 English,"scene_evt200628_cp4_q3_s10,7556431",detail,Vyrn,"Huh... Big guy, you <span class='scene-font-italic'>sure</span> nothing else is wrong?"
 English,"scene_evt200628_cp4_q3_s10,7556431",detail,Redluck,"I said what I said, didn't I? The swelling you see here... It's what happens when you eat too much and pressure pools on one side."

@@ -20,9 +20,9 @@ Japanese,"scene_cp52_q1_s10,5211",detail,로제타,アタシは仮契約のよ�
 Japanese,"scene_cp52_q1_s10,5211",detail,로제타,正真正銘ルーマシーの守り神……<br>あの子と島は互いに影響し合い、<br>あの子が崩壊すれば島も崩れ去る……
 Japanese,"scene_cp52_q1_s10,5211",detail,비이,んなことになったら、<br>オイラ達もただじゃすまねーよな……
 Japanese,"scene_cp52_q1_s10,5211",detail,로제타,そう……<br>だから絶対に、<br>あの子に崩壊なんてさせない……
-Japanese,"scene_cp52_q1_s10,5211",detail,로제타,行きましょう……[ジータ]さん。<br>アタシ達の手で、<br>最悪の結末を変えるために。
-Japanese,"scene_cp52_q1_s20,5212",synopsis,,森が禍々しい気配に包まれる中、[ジータ]一行はドランク、スツルム達と合流する。彼らは無事黒騎士を見つけていたが、黒騎士は希望を失ったショックから人形のようになってしまっていた。島に迫る危機を共有し、一行はドランク、スツルム、黒騎士を仲間に加えて森を進む。
-Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>禍々しい気配に包まれる森を進みながら、</span><br><span class='scene-font-katari'>ユグドラシルのコアを目指す。</span>
+Japanese,"scene_cp52_q1_s10,5211",detail,로제타,行きましょう……[플레이어]さん。<br>アタシ達の手で、<br>最悪の結末を変えるために。
+Japanese,"scene_cp52_q1_s20,5212",synopsis,,森が禍々しい気配に包まれる中、[플레이어]一行はドランク、スツルム達と合流する。彼らは無事黒騎士を見つけていたが、黒騎士は希望を失ったショックから人形のようになってしまっていた。島に迫る危機を共有し、一行はドランク、スツルム、黒騎士を仲間に加えて森を進む。
+Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>禍々しい気配に包まれる森を進みながら、</span><br><span class='scene-font-katari'>ユグドラシルのコアを目指す。</span>
 Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>しかし、その途中、</span><br><span class='scene-font-katari'>カタリナは辺りを見回し、</span><br><span class='scene-font-katari'>皆を制止したのだった。</span>
 Japanese,"scene_cp52_q1_s20,5212",detail,카타리나,待て……足音だ。<br>誰かこちらに向かってくるぞ……
 Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>一行はそれぞれ武器を構えるが……</span>
@@ -48,12 +48,12 @@ Japanese,"scene_cp52_q1_s20,5212",detail,オルキス,アポロ……
 Japanese,"scene_cp52_q1_s20,5212",detail,흑기사,…………
 Japanese,"scene_cp52_q1_s20,5212",detail,스츠룸,ただ……さっきも言ったように、<br>ひとまず命に別状はない。
 Japanese,"scene_cp52_q1_s20,5212",detail,스츠룸,それより……この状態はなんだ？<br>森全体がおかしくなってる……<br>いったい何が起きてる？
-Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ユグドラシル・マリスの</span><br><span class='scene-font-katari'>目覚めについて説明する。</span>
+Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ユグドラシル・マリスの</span><br><span class='scene-font-katari'>目覚めについて説明する。</span>
 Japanese,"scene_cp52_q1_s20,5212",detail,드랑크,そう……<br>それじゃあ、早いとこ<br>この島を出ないとねぇ～
 Japanese,"scene_cp52_q1_s20,5212",detail,스츠룸,どうやって……？
-Japanese,"scene_cp52_q1_s20,5212",detail,드랑크,えっ！？<br>あ、そっか……僕達、<br>[ジータ]さんの艇でここまで……
+Japanese,"scene_cp52_q1_s20,5212",detail,드랑크,えっ！？<br>あ、そっか……僕達、<br>[플레이어]さんの艇でここまで……
 Japanese,"scene_cp52_q1_s20,5212",detail,로제타,アタシ達は、<br>あの子を止めるまで、<br>この島を離れるつもりはないけど……
-Japanese,"scene_cp52_q1_s20,5212",detail,로제타,そうよね？<br>[ジータ]さん？
+Japanese,"scene_cp52_q1_s20,5212",detail,로제타,そうよね？<br>[플레이어]さん？
 Japanese,"scene_cp52_q1_s20,5212",sel1_txt,,<span class='scene-font-katari'>もちろん</span>
 Japanese,"scene_cp52_q1_s20,5212",sel2_txt,,<span class='scene-font-katari'>見捨てられない</span>
 Japanese,"scene_cp52_q1_s20,5212",detail,스츠룸,馬鹿か……
@@ -65,11 +65,11 @@ Japanese,"scene_cp52_q1_s20,5212",detail,비이,おうさ！<br>お人好しだ�
 Japanese,"scene_cp52_q1_s20,5212",detail,リーシャ,残念ですが……<br>私達に<br>意思を変えるつもりはありません。
 Japanese,"scene_cp52_q1_s20,5212",detail,드랑크,んじゃまぁ……<br>君達と一緒に頑張るのが、<br>一番得策かなぁ……ねぇ？ スツルム殿。
 Japanese,"scene_cp52_q1_s20,5212",detail,스츠룸,ふん……
-Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>[ジータ]一行はこうして、</span><br><span class='scene-font-katari'>ドランク、スツルム、黒騎士と合流し、</span><br><span class='scene-font-katari'>魔物を蹴散らしながら森を進む。</span>
+Japanese,"scene_cp52_q1_s20,5212",detail,,<span class='scene-font-katari'>[플레이어]一行はこうして、</span><br><span class='scene-font-katari'>ドランク、スツルム、黒騎士と合流し、</span><br><span class='scene-font-katari'>魔物を蹴散らしながら森を進む。</span>
 Japanese,"scene_cp52_q2_s10,5221",synopsis,,何にも反応を示さない黒騎士に必死に話しかけるオルキス。オイゲンはその健気な姿を痛ましく思いながらも、オルキスと共に決して諦めない決意を固める。
 Japanese,"scene_cp52_q2_s10,5221",detail,オルキス,アポロ……<br>どこか痛いところはない……？
 Japanese,"scene_cp52_q2_s10,5221",detail,흑기사,…………
-Japanese,"scene_cp52_q2_s10,5221",detail,オルキス,私……<br>アポロと離ればなれになってから、<br>[ジータ]達と旅をしてて……
+Japanese,"scene_cp52_q2_s10,5221",detail,オルキス,私……<br>アポロと離ればなれになってから、<br>[플레이어]達と旅をしてて……
 Japanese,"scene_cp52_q2_s10,5221",detail,흑기사,…………
 Japanese,"scene_cp52_q2_s10,5221",detail,オルキス,ひとりで森にいる間……<br>辛くなかった……？<br>寂しくなかった……？
 Japanese,"scene_cp52_q2_s10,5221",detail,흑기사,…………
@@ -111,8 +111,8 @@ Japanese,"scene_cp52_q2_s20,5222",detail,オルキス,ありがとう……<br>�
 Japanese,"scene_cp52_q2_s20,5222",detail,흑기사,……――っ。
 Japanese,"scene_cp52_q2_s20,5222",detail,,<span class='scene-font-katari'>その瞬間、</span><br><span class='scene-font-katari'>わずかに黒騎士に表情が戻る。</span>
 Japanese,"scene_cp52_q2_s20,5222",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>それは誰にも気づかれることなく</span><br><span class='scene-font-katari'>再び黒騎士は人形のように佇むのだった。</span>
-Japanese,"scene_cp52_q3_s20,5231",synopsis,,ユグドラシルのコアへと近づき、その害意に満ちた気配に戦慄する[ジータ]一行。そんな一行に、ユグドラシル・マリスに操られた帝国兵達が牙を剥く。襲いかかる刃から放心状態の黒騎士を庇うオイゲン。幸いひどい怪我にはならず、オイゲンは「これくらい父親らしいことはしないとな」と豪快に笑う。
-Japanese,"scene_cp52_q3_s20,5231",detail,,<span class='scene-font-katari'>[ジータ]一行は森を駆け、</span><br><span class='scene-font-katari'>ついにコアへと近づいていく。</span>
+Japanese,"scene_cp52_q3_s20,5231",synopsis,,ユグドラシルのコアへと近づき、その害意に満ちた気配に戦慄する[플레이어]一行。そんな一行に、ユグドラシル・マリスに操られた帝国兵達が牙を剥く。襲いかかる刃から放心状態の黒騎士を庇うオイゲン。幸いひどい怪我にはならず、オイゲンは「これくらい父親らしいことはしないとな」と豪快に笑う。
+Japanese,"scene_cp52_q3_s20,5231",detail,,<span class='scene-font-katari'>[플레이어]一行は森を駆け、</span><br><span class='scene-font-katari'>ついにコアへと近づいていく。</span>
 Japanese,"scene_cp52_q3_s20,5231",detail,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>その害意に満ちた強烈な気配に、</span><br><span class='scene-font-katari'>自然と一歩一歩が慎重なものになる。</span>
 Japanese,"scene_cp52_q3_s20,5231",detail,라캄,もうかなり近いな……<br>気配だけで潰されちまいそうだぜ……
 Japanese,"scene_cp52_q3_s20,5231",detail,로제타,コアから溢れた力が、<br>周囲にも影響しているようね……<br>ここはもうまともな空間じゃないわ。
@@ -163,9 +163,9 @@ Japanese,"scene_cp52_q3_s20,5231",detail,로제타,だからいまは、<br>あ�
 Japanese,"scene_cp52_q3_s20,5231",detail,？？？,…………
 Japanese,"scene_cp52_q3_s20,5231",detail,라캄,ったく……<br>また面倒なのが出てきたな……
 Japanese,"scene_cp52_q3_s20,5231",detail,오이겐,だが……<br>こういうのが出て来るってこたぁ、<br>そんだけコアが近ぇってことだろ。
-Japanese,"scene_cp52_q3_s20,5231",detail,로제타,その通り……<br>ここで足踏みなんてしてられないわ。<br>いくわよ！ [ジータ]さん！
-Japanese,"scene_cp52_q4_s20,5241",synopsis,,ついにユグドラシル・マリスと再び相見える[ジータ]一行。咆哮を上げるユグドラシル・マリスを、オルキスは自分自身を捧げて鎮めようとする。しかし、間一髪、黒騎士は正気を取り戻し、オルキスに迫る触手を剣で受け止める。一行は、オルキスへ想いをぶつけた黒騎士と共にユグドラシル・マリスへと挑む。
-Japanese,"scene_cp52_q4_s20,5241",detail,,<span class='scene-font-katari'>操られた帝国兵達も退け、</span><br><span class='scene-font-katari'>[ジータ]一行はついに、</span><br><span class='scene-font-katari'>ユグドラシル・マリスに再び相見える。</span>
+Japanese,"scene_cp52_q3_s20,5231",detail,로제타,その通り……<br>ここで足踏みなんてしてられないわ。<br>いくわよ！ [플레이어]さん！
+Japanese,"scene_cp52_q4_s20,5241",synopsis,,ついにユグドラシル・マリスと再び相見える[플레이어]一行。咆哮を上げるユグドラシル・マリスを、オルキスは自分自身を捧げて鎮めようとする。しかし、間一髪、黒騎士は正気を取り戻し、オルキスに迫る触手を剣で受け止める。一行は、オルキスへ想いをぶつけた黒騎士と共にユグドラシル・マリスへと挑む。
+Japanese,"scene_cp52_q4_s20,5241",detail,,<span class='scene-font-katari'>操られた帝国兵達も退け、</span><br><span class='scene-font-katari'>[플레이어]一行はついに、</span><br><span class='scene-font-katari'>ユグドラシル・マリスに再び相見える。</span>
 Japanese,"scene_cp52_q4_s20,5241",detail,ユグドラシル,…………
 Japanese,"scene_cp52_q4_s20,5241",detail,카타리나,くっ……<br>やはり凄まじい重圧だな……
 Japanese,"scene_cp52_q4_s20,5241",detail,루리아,でも……<br>もう本当に辛そうで……<br>限界、みたいです……
@@ -208,11 +208,11 @@ Japanese,"scene_cp52_q4_s20,5241",detail,라캄,そうだな……<br>俺達は�
 Japanese,"scene_cp52_q4_s20,5241",detail,로제타,ええ……<br>ビィ君の力で、<br>魔晶は抑えられるでしょうけど……
 Japanese,"scene_cp52_q4_s20,5241",detail,로제타,注がれてしまった有り余る力は、<br>一度、発散させるしかない……<br>そのためにはアタシ達が頑張らないとね。
 Japanese,"scene_cp52_q4_s20,5241",detail,비이,へへっ……！<br>この瞬間のために、<br>オイラ達は長いこと準備してきたんだ！
-Japanese,"scene_cp52_q4_s20,5241",detail,비이,やってやろうぜ！ [ジータ]！<br>もう負けたりしねぇ！<br>今度こそオイラ達の力を見せてやれ！！
-Japanese,"scene_cp52_q4_s30,5242",synopsis,,ユグドラシル・マリスを退け、ユグドラシルのコアを魔晶から解放する[ジータ]一行。ようやく禍々しい空気も晴れ、一行は安堵の息をつく。しかし、同時にその影では、フリーシアに命じられたポンメルン達によって、新たな事態が進行しつつあるのだった。
+Japanese,"scene_cp52_q4_s20,5241",detail,비이,やってやろうぜ！ [플레이어]！<br>もう負けたりしねぇ！<br>今度こそオイラ達の力を見せてやれ！！
+Japanese,"scene_cp52_q4_s30,5242",synopsis,,ユグドラシル・マリスを退け、ユグドラシルのコアを魔晶から解放する[플레이어]一行。ようやく禍々しい空気も晴れ、一行は安堵の息をつく。しかし、同時にその影では、フリーシアに命じられたポンメルン達によって、新たな事態が進行しつつあるのだった。
 Japanese,"scene_cp52_q4_s30,5242",detail,ユグドラシル,…………
 Japanese,"scene_cp52_q4_s30,5242",detail,ユグドラシル,――――
-Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>ユグドラシル・マリスを退け、</span><br><span class='scene-font-katari'>ついにそのコアを、</span><br><span class='scene-font-katari'>魔晶の力から解放する[ジータ]一行。</span>
+Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>ユグドラシル・マリスを退け、</span><br><span class='scene-font-katari'>ついにそのコアを、</span><br><span class='scene-font-katari'>魔晶の力から解放する[플레이어]一行。</span>
 Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>ビィの力によって、</span><br><span class='scene-font-katari'>魔晶はコアから切り離され……</span>
 Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>ユグドラシルは本来の姿を取り戻し、</span><br><span class='scene-font-katari'>魔晶は黒い結晶となって、</span><br><span class='scene-font-katari'>辺りに散らばったのだった。</span>
 Japanese,"scene_cp52_q4_s30,5242",detail,로제타,今度は……<br>今度こそは……<br>アタシは護ることが出来たのかしら……
@@ -231,7 +231,7 @@ Japanese,"scene_cp52_q4_s30,5242",detail,오이겐,おう！<br>何事もメリ�
 Japanese,"scene_cp52_q4_s30,5242",detail,스츠룸,そんなんだから、<br>お前らはいつまでたっても……
 Japanese,"scene_cp52_q4_s30,5242",detail,드랑크,もー！ スツルム殿ったら！<br>いまだけは大団円でいいじゃない！<br>ねぇ？ トカゲちゃん？
 Japanese,"scene_cp52_q4_s30,5242",detail,비이,だなっ！<br>ってだから、<br>オイラはトカゲじゃねーっつの！
-Japanese,"scene_cp52_q4_s30,5242",detail,드랑크,はいはい！<br>とにかくお疲れ！<br>[ジータ]さん！
+Japanese,"scene_cp52_q4_s30,5242",detail,드랑크,はいはい！<br>とにかくお疲れ！<br>[플레이어]さん！
 Japanese,"scene_cp52_q4_s30,5242",detail,드랑크,で！<br>そんなわけで実は朗報があってねぇ～
 Japanese,"scene_cp52_q4_s30,5242",detail,흑기사,なに……？
 Japanese,"scene_cp52_q4_s30,5242",detail,드랑크,いや、僕達ったら仕事熱心なわけ！<br>だから何か探ってこいなんて言われて、<br>手ぶらで帰ってくるわけないじゃない？
@@ -252,7 +252,7 @@ Japanese,"scene_cp52_q4_s30,5242",detail,제국병,この星晶獣は、<br>い�
 Japanese,"scene_cp52_q4_s30,5242",detail,폼메른,そこまでは吾輩も聞いてませんネェ……<br>ただ、我らが帝国に、<br>不可欠なものだとは仰ってましたが……
 Japanese,"scene_cp52_q4_s30,5242",detail,폼메른,<span class='scene-font-kokoro'>（宰相閣下は……</span><br><span class='scene-font-kokoro'>いったい何を</span><br><span class='scene-font-kokoro'>お考えなんですかネェ……）</span>
 Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>空を見上げ、</span><br><span class='scene-font-katari'>ため息交じりにポンメルンは思う。</span>
-Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>こうして[ジータ]一行が、</span><br><span class='scene-font-katari'>大きな障害を乗り越えた裏では、</span><br><span class='scene-font-katari'>新たな計画が動き始めているのだった。</span>
+Japanese,"scene_cp52_q4_s30,5242",detail,,<span class='scene-font-katari'>こうして[플레이어]一行が、</span><br><span class='scene-font-katari'>大きな障害を乗り越えた裏では、</span><br><span class='scene-font-katari'>新たな計画が動き始めているのだった。</span>
 English,"scene_cp52_q1_s10,5211",synopsis,,"As Yggdrasil Malice's reawakening approaches, the island begins to shake. Rosetta explains that if Yggdrasil is destroyed by the dark essence, the island will be destroyed with her."
 English,"scene_cp52_q1_s10,5211",detail,,"The whole island begins to tremble, signaling to the crew that Yggdrasil Malice's reawakening is closer."
 English,"scene_cp52_q1_s10,5211",detail,,"With the primal beast's power emanating throughout the forest, the crew race toward her core."
@@ -274,9 +274,9 @@ English,"scene_cp52_q1_s10,5211",detail,Rosetta,"I just made a temporary pact wi
 English,"scene_cp52_q1_s10,5211",detail,Rosetta,"As this island's protector, she's got a deeper connection to it. If one is destroyed, the other goes with it."
 English,"scene_cp52_q1_s10,5211",detail,Vyrn,"So if that dark essence stuff eats her up, then we're toast too?"
 English,"scene_cp52_q1_s10,5211",detail,Rosetta,Right. Which is why we have to make sure that doesn't happen.
-English,"scene_cp52_q1_s10,5211",detail,Rosetta,"Let's go, [Djeeta]. We have to prevent this calamity!"
-English,"scene_cp52_q1_s20,5212",synopsis,,"[Djeeta] and the crew run into Sturm and Drang, who reveal they've found the Black Knight. However, the Black Knight seems to be in a state of shock. Unable to leave the island without the Grandcypher, Sturm, Drang, and the Black Knight decide to follow [Djeeta]."
-English,"scene_cp52_q1_s20,5212",detail,,"[Djeeta] and the crew continue making their way toward Yggdrasil's core, through the forest that is now awash with the primal beast's power."
+English,"scene_cp52_q1_s10,5211",detail,Rosetta,"Let's go, [플레이어]. We have to prevent this calamity!"
+English,"scene_cp52_q1_s20,5212",synopsis,,"[플레이어] and the crew run into Sturm and Drang, who reveal they've found the Black Knight. However, the Black Knight seems to be in a state of shock. Unable to leave the island without the Grandcypher, Sturm, Drang, and the Black Knight decide to follow [플레이어]."
+English,"scene_cp52_q1_s20,5212",detail,,"[플레이어] and the crew continue making their way toward Yggdrasil's core, through the forest that is now awash with the primal beast's power."
 English,"scene_cp52_q1_s20,5212",detail,,"Along the way, Katalina turns around and tells the crew to stop."
 English,"scene_cp52_q1_s20,5212",detail,Katalina,Wait. Footsteps. Someone's coming...
 English,"scene_cp52_q1_s20,5212",detail,,The crew ready their weapons.
@@ -302,12 +302,12 @@ English,"scene_cp52_q1_s20,5212",detail,Orchis,Apollo...
 English,"scene_cp52_q1_s20,5212",detail,Black Knight,...
 English,"scene_cp52_q1_s20,5212",detail,Sturm,"Yes, but as I mentioned, there's no threat to her life."
 English,"scene_cp52_q1_s20,5212",detail,Sturm,"But more importantly, the forest seems like it's gone crazy. Know anything?"
-English,"scene_cp52_q1_s20,5212",detail,,[Djeeta] explains the connection between Yggdrasil Malice's reawakening and the terrifying situation on the island.
+English,"scene_cp52_q1_s20,5212",detail,,[플레이어] explains the connection between Yggdrasil Malice's reawakening and the terrifying situation on the island.
 English,"scene_cp52_q1_s20,5212",detail,Drang,"Uh-huuuh... Welp, looks like we should get off this island ASAP."
 English,"scene_cp52_q1_s20,5212",detail,Sturm,And how would we do that?
-English,"scene_cp52_q1_s20,5212",detail,Drang,"How! We would—oh, right... We came here on [Djeeta]'s airship..."
+English,"scene_cp52_q1_s20,5212",detail,Drang,"How! We would—oh, right... We came here on [플레이어]'s airship..."
 English,"scene_cp52_q1_s20,5212",detail,Rosetta,And we won't be leaving until we've stopped Yggdrasil.
-English,"scene_cp52_q1_s20,5212",detail,Rosetta,"Right, [Djeeta]?"
+English,"scene_cp52_q1_s20,5212",detail,Rosetta,"Right, [플레이어]?"
 English,"scene_cp52_q1_s20,5212",sel1_txt,,Right.
 English,"scene_cp52_q1_s20,5212",sel2_txt,,We won't abandon her.
 English,"scene_cp52_q1_s20,5212",detail,Sturm,Idiots...
@@ -319,11 +319,11 @@ English,"scene_cp52_q1_s20,5212",detail,Vyrn,Yeah! Call us whatever you want—w
 English,"scene_cp52_q1_s20,5212",detail,Lecia,"Unfortunately for you, our minds are made up."
 English,"scene_cp52_q1_s20,5212",detail,Drang,"Whew, what a hard bargain... I guess our safest bet is to stick with these guys. Right, Sturm?"
 English,"scene_cp52_q1_s20,5212",detail,Sturm,Humph.
-English,"scene_cp52_q1_s20,5212",detail,,"[Djeeta] signals for the group to leave. The crew begin their trek again, this time with the new members in tow."
+English,"scene_cp52_q1_s20,5212",detail,,"[플레이어] signals for the group to leave. The crew begin their trek again, this time with the new members in tow."
 English,"scene_cp52_q2_s10,5221",synopsis,,Orchis tries her hardest to get a reply from the unresponsive Black Knight.
 English,"scene_cp52_q2_s10,5221",detail,Orchis,"Apollo, are you hurt?"
 English,"scene_cp52_q2_s10,5221",detail,Black Knight,...
-English,"scene_cp52_q2_s10,5221",detail,Orchis,I... I've been traveling with [Djeeta] since I left you.
+English,"scene_cp52_q2_s10,5221",detail,Orchis,I... I've been traveling with [플레이어] since I left you.
 English,"scene_cp52_q2_s10,5221",detail,Black Knight,...
 English,"scene_cp52_q2_s10,5221",detail,Orchis,Being alone in the forest... Was it hard? Lonely?
 English,"scene_cp52_q2_s10,5221",detail,Black Knight,...
@@ -366,7 +366,7 @@ English,"scene_cp52_q2_s20,5222",detail,Black Knight,...
 English,"scene_cp52_q2_s20,5222",detail,,"In that instant, the Black Knight cracks a grin."
 English,"scene_cp52_q2_s20,5222",detail,,"But before anyone is able to catch sight of her fleeting smile, her face returns to a blank stupor."
 English,"scene_cp52_q3_s20,5231",synopsis,,"The closer the crew gets to Yggdrasil's core, the more they feel its malignant energy. Imperial soldiers, corrupted and manipulated by Malice to protect itself, appear and block the crew's path."
-English,"scene_cp52_q3_s20,5231",detail,,"[Djeeta] and the crew finally draw near the center of the forest, the location of Yggdrasil's core."
+English,"scene_cp52_q3_s20,5231",detail,,"[플레이어] and the crew finally draw near the center of the forest, the location of Yggdrasil's core."
 English,"scene_cp52_q3_s20,5231",detail,,"However, the waves of malicious energy emanating from the primal beast have become so strong that every step is a herculean effort."
 English,"scene_cp52_q3_s20,5231",detail,Rackam,We gotta be close now... Her power is incredible...
 English,"scene_cp52_q3_s20,5231",detail,Rosetta,The power flooding out from her core is affecting everything in the vicinity. Even the air is thick with it.
@@ -417,9 +417,9 @@ English,"scene_cp52_q3_s20,5231",detail,Rosetta,"If so, then they are now nothin
 English,"scene_cp52_q3_s20,5231",detail,???,...
 English,"scene_cp52_q3_s20,5231",detail,Rackam,"Welp, our problems keep pilin' up, don't they?"
 English,"scene_cp52_q3_s20,5231",detail,Eugen,"Yeah, well, think of it like a good omen—the more we run into these guys, the closer we're gettin' to the core."
-English,"scene_cp52_q3_s20,5231",detail,Rosetta,"Exactly. We can't be far now. Come on, [Djeeta]! Let's hurry!"
-English,"scene_cp52_q4_s20,5241",synopsis,,"When [Djeeta] and the crew find Yggdrasil Malice, Orchis offers herself to the primal beast. This causes the Black Knight to snap out of her catatonic state and save her old friend. The crew then prepares to fight against Yggdrasil Malice once again."
-English,"scene_cp52_q4_s20,5241",detail,,"After dispatching the corrupted soldiers, [Djeeta] and the crew finally come face-to-face with Yggdrasil Malice once more."
+English,"scene_cp52_q3_s20,5231",detail,Rosetta,"Exactly. We can't be far now. Come on, [플레이어]! Let's hurry!"
+English,"scene_cp52_q4_s20,5241",synopsis,,"When [플레이어] and the crew find Yggdrasil Malice, Orchis offers herself to the primal beast. This causes the Black Knight to snap out of her catatonic state and save her old friend. The crew then prepares to fight against Yggdrasil Malice once again."
+English,"scene_cp52_q4_s20,5241",detail,,"After dispatching the corrupted soldiers, [플레이어] and the crew finally come face-to-face with Yggdrasil Malice once more."
 English,"scene_cp52_q4_s20,5241",detail,Yggdrasil,...
 English,"scene_cp52_q4_s20,5241",detail,Katalina,Urgh... Her power is overwhelming...
 English,"scene_cp52_q4_s20,5241",detail,Lyria,But I think she's in pain. She's close to her breaking point...
@@ -462,7 +462,7 @@ English,"scene_cp52_q4_s20,5241",detail,Rackam,She's right! That's what we came 
 English,"scene_cp52_q4_s20,5241",detail,Rosetta,Vyrn should be able to suppress the dark essence's influence...
 English,"scene_cp52_q4_s20,5241",detail,Rosetta,But first we'll have to release the energy pent up inside the core. That's priority one.
 English,"scene_cp52_q4_s20,5241",detail,Vyrn,Hehe! No problem! This is the moment we've all been workin' so hard for!
-English,"scene_cp52_q4_s20,5241",detail,Vyrn,"C'mon, [Djeeta]! We're not gonna lose this time—show 'er what you can do!"
+English,"scene_cp52_q4_s20,5241",detail,Vyrn,"C'mon, [플레이어]! We're not gonna lose this time—show 'er what you can do!"
 English,"scene_cp52_q4_s30,5242",synopsis,,"The crew defeats Yggdrasil Malice and returns Yggdrasil to normal. While they're taking a well-deserved break, Pommern is busy working under Freesia's orders elsewhere in the forest."
 English,"scene_cp52_q4_s30,5242",detail,Yggdrasil,...
 English,"scene_cp52_q4_s30,5242",detail,Yggdrasil,...
@@ -485,7 +485,7 @@ English,"scene_cp52_q4_s30,5242",detail,Eugen,Right! All work and no play makes 
 English,"scene_cp52_q4_s30,5242",detail,Sturm,And that's why you guys will never learn...
 English,"scene_cp52_q4_s30,5242",detail,Drang,"C'mon, Sturm! What's a story without a little denouement? Right, little lizard?"
 English,"scene_cp52_q4_s30,5242",detail,Vyrn,A day-new-what? And I'm not a lizard!
-English,"scene_cp52_q4_s30,5242",detail,Drang,"Sure you're not! Anyway, good hustle out there, [Djeeta]!"
+English,"scene_cp52_q4_s30,5242",detail,Drang,"Sure you're not! Anyway, good hustle out there, [플레이어]!"
 English,"scene_cp52_q4_s30,5242",detail,Drang,"Now that things have calmed down a little, I've got some good news to share!"
 English,"scene_cp52_q4_s30,5242",detail,Black Knight,And that is?
 English,"scene_cp52_q4_s30,5242",detail,Drang,"Well, as you know, we're married to our work. If we're told to find something, we won't rest until we've found it."
@@ -506,4 +506,4 @@ English,"scene_cp52_q4_s30,5242",detail,Imperial Soldier,What kind of power does
 English,"scene_cp52_q4_s30,5242",detail,Pommern,"In truth, I didn't ask. All I know is that it is essential to the war effort. And that's all you need to know."
 English,"scene_cp52_q4_s30,5242",detail,Pommern,(What in the heavens could she be up to?)
 English,"scene_cp52_q4_s30,5242",detail,,"Pommern, taking a deep breath, looks into the distance and ponders the prime minister's motives."
-English,"scene_cp52_q4_s30,5242",detail,,"It seems that although [Djeeta] and the crew have overcome one major obstacle, another will soon rise to take its place."
+English,"scene_cp52_q4_s30,5242",detail,,"It seems that although [플레이어] and the crew have overcome one major obstacle, another will soon rise to take its place."

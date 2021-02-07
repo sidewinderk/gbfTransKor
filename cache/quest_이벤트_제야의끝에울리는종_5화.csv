@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt191228_cp5_q1_s10,synopsis,,一行が町に戻ると煩悩が充満し、町の住人達が煩悩にとり憑かれて騒ぎが起きていた。ジョヤと飛び去った男は上空におり、欲望に任せて煩悩が作る高熱の弾を四方八方に撃っていた。騒ぎの中で、男は[ジータ]達にジョヤの照準を合わせる。高熱の弾が撃たれたその時、見ているだけなのは嫌だとジョイが飛び出し、その身で高熱の弾を受け止める。
+Japanese,scene_evt191228_cp5_q1_s10,synopsis,,一行が町に戻ると煩悩が充満し、町の住人達が煩悩にとり憑かれて騒ぎが起きていた。ジョヤと飛び去った男は上空におり、欲望に任せて煩悩が作る高熱の弾を四方八方に撃っていた。騒ぎの中で、男は[플레이어]達にジョヤの照準を合わせる。高熱の弾が撃たれたその時、見ているだけなのは嫌だとジョイが飛び出し、その身で高熱の弾を受け止める。
 Japanese,scene_evt191228_cp5_q1_s10,detail,町の住人４,さっきから俺ばっかり<br>瓦礫を運んでるぼん！<br>少しはあんたも運べぼん！
 Japanese,scene_evt191228_cp5_q1_s10,detail,町の住人３,煩いぼん！<br>あんたこそもっとちゃきちゃき<br>運んだらどうなのよぼん！
 Japanese,scene_evt191228_cp5_q1_s10,detail,비이,こいつは大変だ！<br>町の人達が皆ぼんぼん言って<br>ケンカしてるぞ！
@@ -25,13 +25,13 @@ Japanese,scene_evt191228_cp5_q1_s10,detail,비이,お前がやったんだろ！
 Japanese,scene_evt191228_cp5_q1_s10,detail,強欲のライゾウ,<span class='scene-font-4'>なんやて、トカゲェー！</span><br>ほんまあったま来たでワレェ、ぼん！
 Japanese,scene_evt191228_cp5_q1_s10,detail,비이,ウヒッ！？
 Japanese,scene_evt191228_cp5_q1_s10,detail,,<span class='scene-font-katari'>理不尽に逆ギレした男は</span><br><span class='scene-font-katari'>ビィに照準を合わせる。</span>
-Japanese,scene_evt191228_cp5_q1_s10,detail,ユイシス,私があいつの攻撃を引きつけるわ！<br>[ジータ]はルリアさん達を連れて<br>先に逃げて。
+Japanese,scene_evt191228_cp5_q1_s10,detail,ユイシス,私があいつの攻撃を引きつけるわ！<br>[플레이어]はルリアさん達を連れて<br>先に逃げて。
 Japanese,scene_evt191228_cp5_q1_s10,detail,루리아,無茶ですよ！<br>山も吹き飛んじゃうような<br>攻撃なんですよ。
 Japanese,scene_evt191228_cp5_q1_s10,detail,ジョヤ,<span class='scene-font-4'>ゴォォーン……</span><br><span class='scene-font-4'>ゴォォーーン……</span>
 Japanese,scene_evt191228_cp5_q1_s10,detail,ジョイ,ジョヤ……
 Japanese,scene_evt191228_cp5_q1_s10,detail,ジョイ,キミノ、ヤクメハ、<br>ボンノーヲ、アツメル、コト。<br>ミンナノ、ココロヲ、マモル、コト。
 Japanese,scene_evt191228_cp5_q1_s10,detail,ジョイ,ドウヤッタラ、モトニ、モドル？<br>ジョヤ、オシエテ！ オネガイ！
-Japanese,scene_evt191228_cp5_q1_s10,detail,ユイシス,[ジータ]、逃げて！ 早く！
+Japanese,scene_evt191228_cp5_q1_s10,detail,ユイシス,[플레이어]、逃げて！ 早く！
 Japanese,scene_evt191228_cp5_q1_s10,detail,루리아,無理ですよ！<br>ユイシスさんを置いて逃げられません！
 Japanese,scene_evt191228_cp5_q1_s10,detail,ジョイ,ジョヤ、キミハ、サッキ、<br>「タスケテ」ト、イッタ。
 Japanese,scene_evt191228_cp5_q1_s10,detail,ジョイ,ジョイ、ジョヤヲ、タスケタイ！<br>ミテイル、ダケハ、モウ、イヤダ！
@@ -100,8 +100,8 @@ Japanese,scene_evt191228_cp5_q2_s10,detail,クビラ・ビカラ,いざ……参
 Japanese,scene_evt191228_cp5_q2_s10,detail,,<span class='scene-font-katari'>ふたりが展開した結界によって、</span><br><span class='scene-font-katari'>町の人達にとり憑いていた煩悩は</span><br><span class='scene-font-katari'>瞬く間に払われた。</span>
 Japanese,scene_evt191228_cp5_q2_s10,detail,루리아,大暴走の時もアニラさん達が<br>使ってるのを見ましたけど、<br>結界の効果って本当に凄いですね。
 Japanese,scene_evt191228_cp5_q2_s10,detail,ビカラ,町の中はこれでいいけど、<br>外で煩悩を浴びた人達も<br>いるかもしれない。
-Japanese,scene_evt191228_cp5_q2_s10,detail,クビラ,[ジータ]、私達は他に煩悩に<br>とり憑かれた人がいないか見てくるよ。
-Japanese,scene_evt191228_cp5_q2_s10,detail,,<span class='scene-font-katari'>[ジータ]は頼んだと頷くと、</span><br><span class='scene-font-katari'>ふたりは足早に町の外へ去っていった。</span>
+Japanese,scene_evt191228_cp5_q2_s10,detail,クビラ,[플레이어]、私達は他に煩悩に<br>とり憑かれた人がいないか見てくるよ。
+Japanese,scene_evt191228_cp5_q2_s10,detail,,<span class='scene-font-katari'>[플레이어]は頼んだと頷くと、</span><br><span class='scene-font-katari'>ふたりは足早に町の外へ去っていった。</span>
 Japanese,scene_evt191228_cp5_q3_s10,synopsis,,ジョイは霧に映し出された幻影を見る。不意に聞こえてきたジョヤの思念の声から、それはジョヤが作られた時の記憶だとわかる。かつて希望として作られ、人の役に立つことを誇りにしていたジョヤだったが、やがて煩悩の量が増えて暴走を繰り返すようになる。更に兵器に改造されたことで完全に人の脅威になってしまったというジョヤの嘆きを、ジョイは静かに聞いている。
 Japanese,scene_evt191228_cp5_q3_s10,detail,ジョイ,<span class='scene-font-4'>ウワァ～～～！！</span>
 Japanese,scene_evt191228_cp5_q3_s10,detail,ジョイ,トマラナイ、トマラナイ。<br>ジョイ、ドコニ、イクノ？
@@ -145,13 +145,13 @@ Japanese,scene_evt191228_cp5_q3_s10,detail,,<span class='scene-font-katari'>ま�
 Japanese,scene_evt191228_cp5_q3_s10,detail,,<span class='scene-font-katari'>その中を川面に浮かぶ木の葉のように</span><br><span class='scene-font-katari'>流されながら、ジョイはジョヤの言葉を</span><br><span class='scene-font-katari'>静かに聞いているのだった。</span>
 Japanese,scene_evt191228_cp5_q4_s10,synopsis,,クビラとビカラが町中から煩悩を払って戻ってくると、日はすっかり沈んでいた。ユイシスは捕まえた組頭の男から「アイツ」の情報を聞き出そうとするが、男はユイシスの魔具が目的で指示に従っていただけでアイツのことはよく知らないと答える。その回答に偽りはないと判断しユイシスが男にオトシマエをつけさせようとしたところ、突然空に漂った黒い霧が動き始めるのだった。
 Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>ジョイが霧の中で</span><br><span class='scene-font-katari'>ジョヤの</span><span class='scene-font-spword'>“声”</span><span class='scene-font-katari'>を聞いていた頃──</span>
-Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>クビラとビカラは島に残った煩悩を</span><br><span class='scene-font-katari'>すっかり払い、</span><br><span class='scene-font-katari'>[ジータ]達のもとに戻ってきた。</span>
+Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>クビラとビカラは島に残った煩悩を</span><br><span class='scene-font-katari'>すっかり払い、</span><br><span class='scene-font-katari'>[플레이어]達のもとに戻ってきた。</span>
 Japanese,scene_evt191228_cp5_q4_s10,detail,クビラ,<span class='scene-font-kokoro'>（いつの間にかすっかり</span><br><span class='scene-font-kokoro'>日も暮れちゃったな……）</span>
 Japanese,scene_evt191228_cp5_q4_s10,detail,クビラ,<span class='scene-font-kokoro'>（ジョヤの鐘撞きは</span><br><span class='scene-font-kokoro'>今夜やるはずだったけど、</span><br><span class='scene-font-kokoro'>さすがにもう難しいか……）</span>
 Japanese,scene_evt191228_cp5_q4_s10,detail,強欲のライゾウ,シクシク……<br>ワイのジョヤが消えてもた……
 Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>ジョヤで騒ぎを起こした男は</span><br><span class='scene-font-katari'>ユイシスによって拘束され、</span><br><span class='scene-font-katari'>石畳の上で正座をさせられている。</span>
 Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>煩悩を払われ、切り札のジョヤも</span><br><span class='scene-font-katari'>失った男は人が変わったように</span><br><span class='scene-font-katari'>シュンとしていた。</span>
-Japanese,scene_evt191228_cp5_q4_s10,detail,ビカラ,町の外ももう大丈夫だよ。<br>だから安心して、[ジータ]！
+Japanese,scene_evt191228_cp5_q4_s10,detail,ビカラ,町の外ももう大丈夫だよ。<br>だから安心して、[플레이어]！
 Japanese,scene_evt191228_cp5_q4_s10,detail,強欲のライゾウ,はぁ～……<br>まさか姉ちゃん達が十二神将やったとは<br>計算外やで、ほんまに。
 Japanese,scene_evt191228_cp5_q4_s10,detail,強欲のライゾウ,気づいとったら、お姫様から<br>目ぇ離したりせぇへんかったで。
 Japanese,scene_evt191228_cp5_q4_s10,detail,ユイシス,貴方の詰めの甘さが招いた結果です。<br>さて、そろそろ<br>唄ってもらいましょうか。
@@ -174,5 +174,5 @@ Japanese,scene_evt191228_cp5_q4_s10,detail,비이,な、なんだぁ！？
 Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>突然空が唸り声を上げるように、</span><br><span class='scene-font-katari'>ゴウゴウと低い音を響かせる。</span>
 Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>音は空の黒い霧からしており、</span><br><span class='scene-font-katari'>夜闇の中で霧全体が</span><br><span class='scene-font-katari'>奇妙に伸縮しているのが見てとれた。</span>
 Japanese,scene_evt191228_cp5_q4_s10,detail,クビラ,煩悩の気配が膨らんでいく……！<br>皆、気をつけて！
-Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>[ジータ]達は各々の得物を構え、</span><br><span class='scene-font-katari'>様子を窺う。</span>
-Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>何か大事件が起きるかもしれない。</span><br><span class='scene-font-katari'>生唾を呑み込み、[ジータ]は</span><br><span class='scene-font-katari'>どす黒い霧をじっと見据えるのだった。</span>
+Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]達は各々の得物を構え、</span><br><span class='scene-font-katari'>様子を窺う。</span>
+Japanese,scene_evt191228_cp5_q4_s10,detail,,<span class='scene-font-katari'>何か大事件が起きるかもしれない。</span><br><span class='scene-font-katari'>生唾を呑み込み、[플레이어]は</span><br><span class='scene-font-katari'>どす黒い霧をじっと見据えるのだった。</span>

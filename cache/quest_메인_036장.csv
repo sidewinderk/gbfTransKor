@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp36_q1_s10,3611",synopsis,,長い時間をかけ、王宮を探し回った[ジータ]達。だが、それも徒労に終わろうとしていた。宰相フリーシアが目指す場所がこの王宮の他にあるとは考えられず、黒騎士はひどく取り乱す。親友を取り戻す手段を失うという事が、彼女にとって何より恐ろしい事であった。,"긴 시간을 들여 왕궁을 찾아 헤맸던 [지타] 일행. 그러나, 그것도 헛수고로 끝나려는 참이었다. 재상 프리시아가 향하는 장소가 왕궁과는 다른 곳에 있다고는 생각지 못하고, 흑기사는 심하게 동요하고 만다. 친우를 되찾을 수단을 잃는다는 것이, 그녀에게는 무엇보다도 무서운 일이었던 것이다."
+Japanese,"scene_cp36_q1_s10,3611",synopsis,,長い時間をかけ、王宮を探し回った[플레이어]達。だが、それも徒労に終わろうとしていた。宰相フリーシアが目指す場所がこの王宮の他にあるとは考えられず、黒騎士はひどく取り乱す。親友を取り戻す手段を失うという事が、彼女にとって何より恐ろしい事であった。,"긴 시간을 들여 왕궁을 찾아 헤맸던 [플레이어] 일행. 그러나, 그것도 헛수고로 끝나려는 참이었다. 재상 프리시아가 향하는 장소가 왕궁과는 다른 곳에 있다고는 생각지 못하고, 흑기사는 심하게 동요하고 만다. 친우를 되찾을 수단을 잃는다는 것이, 그녀에게는 무엇보다도 무서운 일이었던 것이다."
 Japanese,"scene_cp36_q1_s10,3611",detail,흑기사,くそっ！<br>何故だ……なぜここに居ない！？,제기랄!<br>어째서……왜 여기 없는거지!?
 Japanese,"scene_cp36_q1_s10,3611",detail,,<span class='scene-font-katari'>エルステの古都メフォラシュの王宮に、</span><br><span class='scene-font-katari'>オルキスの姿を見つけられず、</span><br><span class='scene-font-katari'>黒騎士は恐慌状態に陥りつつあった。</span>,"<span class='scene-font-katari'>엘스테의 고도 메포라슈의 왕궁에,</span><br><span class='scene-font-katari'>오르키스의 모습은 찾을 수 없었고,</span><br><span class='scene-font-katari'>흑기사는 공황상태에 빠져들고 있었다.</span>"
 Japanese,"scene_cp36_q1_s10,3611",detail,라캄,まだ王宮を<br>くまなく探しきったわけじゃねぇが……,아직 왕궁을<br>모조리 싹 뒤져본 것 아니긴 한데……
@@ -7,7 +7,7 @@ Japanese,"scene_cp36_q1_s10,3611",detail,라캄,オルキスちゃんにしろ�
 Japanese,"scene_cp36_q1_s10,3611",detail,흑기사,あり得ない……<br>奴がここ以上に<br>執着する場所があるというのか！？,말도 안되는 일이야……<br>녀석이 이곳보다도<br>집착할 장소가 있단 말인가!?
 Japanese,"scene_cp36_q1_s10,3611",detail,오이겐,落ち着けアポロ……<br>まだ探してねぇ部屋もあるはずだ……,진정해라 아폴로……<br>아직 찾지 않은 방도 있을 테니……
 Japanese,"scene_cp36_q1_s10,3611",detail,흑기사,黙れッ！！<br>くそっ……必ずだ、<br>必ず見つけ出さなければ……！！,닥쳐!!<br>젠장……반드시야.<br>반드시 찾아내야만……!!
-Japanese,"scene_cp36_q1_s10,3611",detail,흑기사,頼む、[ジータ]……！<br>何としても、<br>あの人形を探し出してくれ！,"부탁한다, [지타]……!<br>어떻게 해서든,<br>그 인형을 찾아내줘!"
+Japanese,"scene_cp36_q1_s10,3611",detail,흑기사,頼む、[플레이어]……！<br>何としても、<br>あの人形を探し出してくれ！,"부탁한다, [플레이어]……!<br>어떻게 해서든,<br>그 인형을 찾아내줘!"
 Japanese,"scene_cp36_q1_s20,3612",synopsis,,オルキスの行方は依然として掴めなかった。焦る黒騎士へ、帝国軍の捜索隊が襲いかかる。,"오르키스의 행방은 여전히 파악할 수 없었다. 초조해하는 흑기사에게, 제국군의 수색대가 습격해온다."
 Japanese,"scene_cp36_q1_s20,3612",detail,제국병１,見つけたぞ、侵入者どもめ！<br>貴様らの命運もここで……,"찾았다, 침입자놈들!<br>네놈들의 명운도 여기서……"
 Japanese,"scene_cp36_q1_s20,3612",detail,제국병１,ぐふっ……！？,커흑……！?
@@ -17,8 +17,8 @@ Japanese,"scene_cp36_q1_s20,3612",detail,흑기사,ここに……<br>メフォ�
 Japanese,"scene_cp36_q1_s20,3612",detail,제국병２,ここに居たか侵入者め！<br>みんな、こっちだ！ 応援を頼む！,여기 있었군 침입자놈!<br>다들 이쪽이다! 증원을 부탁한다!
 Japanese,"scene_cp36_q1_s20,3612",detail,흑기사,チッ……<br>いまの私はすこぶる機嫌が悪い……,칫……<br>지금 나는 기분이 매우 좋지 않아……
 Japanese,"scene_cp36_q1_s20,3612",detail,흑기사,元よりないが、<br>いまの私に<br>慈悲など期待してくれるなよ！,"원래도 그런건 없었지만,<br>지금의 내게<br>자비같은건 기대하지 마라!"
-Japanese,"scene_cp36_q2_s10,3621",synopsis,,王宮内をくまなく探し回ったものの、結局オルキスを見つける事は叶わなかった。オルキスを連れたフリーシアが、一体どこへ向かったのか。そして、ルリアとオルキスを狙う意図は何なのか。深まるばかりの謎に歯噛みしつつ、[ジータ]達はラビ島からの脱出をはかる。,"왕궁 내부를 빈틈 없이 찾아다녔으나 결국 오르키스를 찾아내는 것은 이뤄지지 못했다. 오르키스를 데려간 프리시아는, 도대체 어디로 향한 것인가. 그리고, 루리아와 오르키스를 노리는 의도는 무엇인가. 깊어져가기만 하는 수수께끼에 이를 악물면서, [지타]일행은 비라 섬에서 탈출을 계획한다."
-Japanese,"scene_cp36_q2_s10,3621",detail,,<span class='scene-font-katari'>[ジータ]一行は黒騎士と共に、</span><br><span class='scene-font-katari'>王宮をくまなく探しまわったものの、</span><br><span class='scene-font-katari'>オルキスを見つけることは出来なかった。</span>,"<span class='scene-font-katari'>[지타]일행은 흑기사와 함께,</span><br><span class='scene-font-katari'>왕궁을 빈틈없이 찾아 헤맸으나,</span><br><span class='scene-font-katari'>오르키스를 찾아내지 못했다.</span>"
+Japanese,"scene_cp36_q2_s10,3621",synopsis,,王宮内をくまなく探し回ったものの、結局オルキスを見つける事は叶わなかった。オルキスを連れたフリーシアが、一体どこへ向かったのか。そして、ルリアとオルキスを狙う意図は何なのか。深まるばかりの謎に歯噛みしつつ、[플레이어]達はラビ島からの脱出をはかる。,"왕궁 내부를 빈틈 없이 찾아다녔으나 결국 오르키스를 찾아내는 것은 이뤄지지 못했다. 오르키스를 데려간 프리시아는, 도대체 어디로 향한 것인가. 그리고, 루리아와 오르키스를 노리는 의도는 무엇인가. 깊어져가기만 하는 수수께끼에 이를 악물면서, [플레이어]일행은 비라 섬에서 탈출을 계획한다."
+Japanese,"scene_cp36_q2_s10,3621",detail,,<span class='scene-font-katari'>[플레이어]一行は黒騎士と共に、</span><br><span class='scene-font-katari'>王宮をくまなく探しまわったものの、</span><br><span class='scene-font-katari'>オルキスを見つけることは出来なかった。</span>,"<span class='scene-font-katari'>[플레이어]일행은 흑기사와 함께,</span><br><span class='scene-font-katari'>왕궁을 빈틈없이 찾아 헤맸으나,</span><br><span class='scene-font-katari'>오르키스를 찾아내지 못했다.</span>"
 Japanese,"scene_cp36_q2_s10,3621",detail,흑기사,なぜだ……<br>どういうことだ……？,왜냐고……<br>도대체 어떻게 된 일이지……?
 Japanese,"scene_cp36_q2_s10,3621",detail,카타리나,参ったな……<br>これで手掛かりは無し、か……,"당했군……<br>이걸로 수확은 없음, 인가……"
 Japanese,"scene_cp36_q2_s10,3621",detail,이오,やっぱり、<br>エルステのいまの首都に<br>行ったんじゃないの？,"역시,<br>엘스테의 현재 수도로<br>간거 아니야?"
@@ -40,10 +40,10 @@ Japanese,"scene_cp36_q2_s10,3621",detail,카타리나,し、しかし、ビィ�
 Japanese,"scene_cp36_q2_s10,3621",detail,카타리나,このラビ島に降り立った時以上に、<br>侵入は容易ではないだろうな……,"이 라비섬에 상륙 했을 때 이상으로,<br>침입하는게 쉽지 않을거야……"
 Japanese,"scene_cp36_q2_s10,3621",detail,비이,うげっ……<br>そ、そっか、そうだよな……,"으윽……<br>그, 그렇구나, 그렇겠네……"
 Japanese,"scene_cp36_q2_s10,3621",detail,라캄,ともかく、オルキスちゃんが<br>ここに居ないとわかった以上、<br>留まってたってしょーがねぇ！,"아무튼,오르키스가<br>이곳에 없다는 것을 알아낸 이상,<br>여기 머물러봐야 될 일도 안되겠다!"
-Japanese,"scene_cp36_q2_s10,3621",detail,라캄,次にどこへ向かうかは、<br>ここを脱出してから考えようぜ！<br>なぁ！ [ジータ]！,"다음으로 어디로 갈지는,<br>여기를 탈출하고나서 생각하자!<br>괜찮지? [지타]!"
-Japanese,"scene_cp36_q2_s20,3622",synopsis,,王宮を脱出しようと走る[ジータ]達の前に立ちはだかる者がいた。秩序の騎空団の若き船長、リーシャであった。宰相フリーシアの行方を知っているという彼女は、情報の提供を条件に[ジータ]達との再戦を申し出る。秩序の騎空団員モニカが[ジータ]を認めた理由を知るため、剣を合わせたいのだという。グランサイファーで待つと言い残し、リーシャはその場を去るのであった。,"왕궁을 탈출하기 위해 달리는 [지타] 일행의 앞을 막아서는 자가 있었다. 질서의 기공단의 젊은 함장, 리샤였다. 재상 프리시아의 행방을 알고 있다고 밝힌 그녀는 정보의 제공을 조건으로 [지타] 일행과 재전(再戦)을 제안한다. 질서의 기공단원 모니카가 [지타]를 인정한 이유를 알기 위해 검을 맞대보고 싶다고. 그랑사이퍼에서 기다린다는 말을 남긴 채 리샤는 그 자리를 떠났다."
-Japanese,"scene_cp36_q2_s20,3622",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ラビ島を早々に脱出するため、</span><br><span class='scene-font-katari'>古都の王宮を走る。</span>,"<span class='scene-font-katari'>[지타] 일행은,</span><br><span class='scene-font-katari'>라비 섬을 빠르게 탈출하기 위해,</span><br><span class='scene-font-katari'>고도의 왕궁을 달린다.</span>"
-Japanese,"scene_cp36_q2_s20,3622",detail,,<span class='scene-font-katari'>そんな[ジータ]一行に、</span><br><span class='scene-font-katari'>背後から声をかける者がいた。</span>,"<span class='scene-font-katari'>그런 [지타] 일행의 배후에서,</span><br><span class='scene-font-katari'>말을 거는 자가 있었다.</span>"
+Japanese,"scene_cp36_q2_s10,3621",detail,라캄,次にどこへ向かうかは、<br>ここを脱出してから考えようぜ！<br>なぁ！ [플레이어]！,"다음으로 어디로 갈지는,<br>여기를 탈출하고나서 생각하자!<br>괜찮지? [플레이어]!"
+Japanese,"scene_cp36_q2_s20,3622",synopsis,,王宮を脱出しようと走る[플레이어]達の前に立ちはだかる者がいた。秩序の騎空団の若き船長、リーシャであった。宰相フリーシアの行方を知っているという彼女は、情報の提供を条件に[플레이어]達との再戦を申し出る。秩序の騎空団員モニカが[플레이어]を認めた理由を知るため、剣を合わせたいのだという。グランサイファーで待つと言い残し、リーシャはその場を去るのであった。,"왕궁을 탈출하기 위해 달리는 [플레이어] 일행의 앞을 막아서는 자가 있었다. 질서의 기공단의 젊은 함장, 리샤였다. 재상 프리시아의 행방을 알고 있다고 밝힌 그녀는 정보의 제공을 조건으로 [플레이어] 일행과 재전(再戦)을 제안한다. 질서의 기공단원 모니카가 [플레이어]를 인정한 이유를 알기 위해 검을 맞대보고 싶다고. 그랑사이퍼에서 기다린다는 말을 남긴 채 리샤는 그 자리를 떠났다."
+Japanese,"scene_cp36_q2_s20,3622",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ラビ島を早々に脱出するため、</span><br><span class='scene-font-katari'>古都の王宮を走る。</span>,"<span class='scene-font-katari'>[플레이어] 일행은,</span><br><span class='scene-font-katari'>라비 섬을 빠르게 탈출하기 위해,</span><br><span class='scene-font-katari'>고도의 왕궁을 달린다.</span>"
+Japanese,"scene_cp36_q2_s20,3622",detail,,<span class='scene-font-katari'>そんな[플레이어]一行に、</span><br><span class='scene-font-katari'>背後から声をかける者がいた。</span>,"<span class='scene-font-katari'>그런 [플레이어] 일행의 배후에서,</span><br><span class='scene-font-katari'>말을 거는 자가 있었다.</span>"
 Japanese,"scene_cp36_q2_s20,3622",detail,리샤,そんなに急いで……<br>どちらにいらっしゃるおつもりですか。,그렇게 서둘러서……<br>어디로 가려는 셈이신지요.
 Japanese,"scene_cp36_q2_s20,3622",detail,루리아,リーシャさん！？<br>どうして……？,리샤씨!?<br>왜 여기에……?
 Japanese,"scene_cp36_q2_s20,3622",detail,흑기사,小娘が何の用だ。<br>いまは貴様と遊んでやる暇は……,꼬마 계집애가 무슨 용무냐.<br>지금은 네녀석과 놀고 있을 시간이……
@@ -90,8 +90,8 @@ Japanese,"scene_cp36_q3_s10,3631",detail,로제타,あの子、覚悟を決め�
 Japanese,"scene_cp36_q3_s10,3631",detail,로제타,そういう子って、強いわよ。<br>きっと全てをアタシ達にぶつけてくるわ。,"그런 아이는, 강해.<br>분명 모든 것을 걸고 우리들에게 부딪혀오겠지."
 Japanese,"scene_cp36_q3_s10,3631",detail,흑기사,ふん……<br>私とて覚悟など、とうの昔に固めている。,흥……<br>나 역시 각오따윈 처음부터 굳어있었다.
 Japanese,"scene_cp36_q3_s10,3631",detail,흑기사,あの小娘に教えてやるさ……<br>背負っているものの<br>違いというものをな！,저 꼬마 계집에게 가르쳐주겠다……<br>짊어지고 있는 것이<br>차원이 다르다는 것을!
-Japanese,"scene_cp36_q3_s20,3632",synopsis,,王宮を脱出した[ジータ]達の前に、一人の老婆が現れる。幼い頃の黒騎士とオルキスを知る老婆であった。老婆は、オルキスを取り戻すために死線を潜る黒騎士を心配し、王宮へ向かっていたという。メフォラシュの住民達にとって、黒騎士と王家の血を引くオルキスはどちらも大切な存在である事と、この地が黒騎士の帰るべき場所である事を告げ、黒騎士を見送るのであった。,"왕궁을 탈출한 [지타] 일행 앞에, 한 노파가 나타난다. 오린 시절의 흑기사와 오르키스를 알고 있는 노파였다. 노파는 오르키스를 되찾기 위해 사선을 넘나드는 흑기사를 걱정하며 왕궁으로 가고 있었다고 한다. 메포라슈의 주민들 역시 흑기사와 왕가의 피를 잇는 오르키스는 둘 다 소중한 존재라는 것과, 이 땅이 흑기사가 돌아올 장소라는 말을 하며 흑기사를 배웅하는 것이었다."
-Japanese,"scene_cp36_q3_s20,3632",detail,,<span class='scene-font-katari'>王宮を抜け、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>メフォラシュの街を駆ける。</span>,"<span class='scene-font-katari'>왕궁을 빠져나와,</span><br><span class='scene-font-katari'>[지타] 일행은,</span><br><span class='scene-font-katari'>메포라슈의 마을을 달린다.</span>"
+Japanese,"scene_cp36_q3_s20,3632",synopsis,,王宮を脱出した[플레이어]達の前に、一人の老婆が現れる。幼い頃の黒騎士とオルキスを知る老婆であった。老婆は、オルキスを取り戻すために死線を潜る黒騎士を心配し、王宮へ向かっていたという。メフォラシュの住民達にとって、黒騎士と王家の血を引くオルキスはどちらも大切な存在である事と、この地が黒騎士の帰るべき場所である事を告げ、黒騎士を見送るのであった。,"왕궁을 탈출한 [플레이어] 일행 앞에, 한 노파가 나타난다. 오린 시절의 흑기사와 오르키스를 알고 있는 노파였다. 노파는 오르키스를 되찾기 위해 사선을 넘나드는 흑기사를 걱정하며 왕궁으로 가고 있었다고 한다. 메포라슈의 주민들 역시 흑기사와 왕가의 피를 잇는 오르키스는 둘 다 소중한 존재라는 것과, 이 땅이 흑기사가 돌아올 장소라는 말을 하며 흑기사를 배웅하는 것이었다."
+Japanese,"scene_cp36_q3_s20,3632",detail,,<span class='scene-font-katari'>王宮を抜け、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>メフォラシュの街を駆ける。</span>,"<span class='scene-font-katari'>왕궁을 빠져나와,</span><br><span class='scene-font-katari'>[플레이어] 일행은,</span><br><span class='scene-font-katari'>메포라슈의 마을을 달린다.</span>"
 Japanese,"scene_cp36_q3_s20,3632",detail,,<span class='scene-font-katari'>そんな折、</span><br><span class='scene-font-katari'>一行に声をかける小さな影があった。</span>,"<span class='scene-font-katari'>그 와중에,</span><br><span class='scene-font-katari'>일행에게 말을 거는 작은 그림자가 있었다.</span>"
 Japanese,"scene_cp36_q3_s20,3632",detail,お婆さん,アポロちゃんっ！,아폴로!
 Japanese,"scene_cp36_q3_s20,3632",detail,카타리나,貴方は……！,당신은…！
@@ -128,8 +128,8 @@ Japanese,"scene_cp36_q3_s20,3632",detail,루리아,はい……,네……
 Japanese,"scene_cp36_q3_s20,3632",detail,お婆さん,アポロちゃんのこと……<br>どうかよろしくお願いね。,아폴로를……<br>잘 부탁해도 되겠니?
 Japanese,"scene_cp36_q3_s20,3632",detail,루리아,……はいっ！,……네!
 Japanese,"scene_cp36_q3_s20,3632",detail,お婆さん,ん、良い返事だ。,"응, 좋은 대답이구나."
-Japanese,"scene_cp36_q3_s20,3632",detail,라캄,さぁ、行こうぜ、[ジータ]。<br>いくらなんでも、<br>あの黒騎士を一人にはしておけねぇ。,"자, 이제 가자. [지타].<br>아무리 그래도,<br>저 흑기사를 혼자 둘 수는 없어."
-Japanese,"scene_cp36_q4_s10,3641",synopsis,,「いつ帰ってこようと黒騎士を受け入れる」という老婆の言葉に、黒騎士は大きく心を乱されていた。[ジータ]達にとっても、今の黒騎士は頼れる味方である。いつか黒騎士が[ジータ]達に剣を向ける事がわかっていても、今は仲間として行動を共にする。そんな[ジータ]達に、黒騎士は少しだけ心を開いてみせるのだった。,"「언제 돌아오더라도 흑기사를 맞아주겠다」는 노파의 말에, 흑기사는 크게 동요하고 있었다. [지타]일행에게도, 지금의 흑기사는 의지할 수 있는 동료이다. 언젠가 흑기사가 [지타] 일행에게 검 끝을 향할 수 있다는 것을 알면서도, 지금은 동료로서 행동을 함께 한다. 그런 [지타] 일행에게, 흑기사는 조금이지만 마음을 열어주는 것이었다."
+Japanese,"scene_cp36_q3_s20,3632",detail,라캄,さぁ、行こうぜ、[플레이어]。<br>いくらなんでも、<br>あの黒騎士を一人にはしておけねぇ。,"자, 이제 가자. [플레이어].<br>아무리 그래도,<br>저 흑기사를 혼자 둘 수는 없어."
+Japanese,"scene_cp36_q4_s10,3641",synopsis,,「いつ帰ってこようと黒騎士を受け入れる」という老婆の言葉に、黒騎士は大きく心を乱されていた。[플레이어]達にとっても、今の黒騎士は頼れる味方である。いつか黒騎士が[플레이어]達に剣を向ける事がわかっていても、今は仲間として行動を共にする。そんな[플레이어]達に、黒騎士は少しだけ心を開いてみせるのだった。,"「언제 돌아오더라도 흑기사를 맞아주겠다」는 노파의 말에, 흑기사는 크게 동요하고 있었다. [플레이어]일행에게도, 지금의 흑기사는 의지할 수 있는 동료이다. 언젠가 흑기사가 [플레이어] 일행에게 검 끝을 향할 수 있다는 것을 알면서도, 지금은 동료로서 행동을 함께 한다. 그런 [플레이어] 일행에게, 흑기사는 조금이지만 마음을 열어주는 것이었다."
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,くっ……<br>私は……私はもう……<br>立ち止まれないのだ……！！,큭……<br>나는……나는 이제……<br>멈춰 설 수 없단 말이다……!!
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,私の手は汚れてしまった……！<br>もうあそこには帰れないというのに……<br>くそっ……！！,내 손은 더럽혀져 버렸다……！<br>이제 그곳으로는 돌아갈 수 없는데도……<br>제기랄……!!
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,もう私には何もない……<br>彼女を取り戻すまで……<br>私のこの手には……もう何も……,이제 내겐 아무것도 없다……<br>오르키스를 되찾을 때 까지는……<br>내 손에는……이제 아무것도……
@@ -149,9 +149,9 @@ Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,くそ……<br>ルリア、�
 Japanese,"scene_cp36_q4_s10,3641",detail,루리아,当然です。<br>だって私のそばにはいつだって、<br>私を強くしてくれる人がいますから。,"당연하죠.<br>그야 제 곁에는 언제나,<br>저를 강하게 해주는 사람이 있는걸요."
 Japanese,"scene_cp36_q4_s10,3641",detail,루리아,知ってますか？<br>一人じゃないって、<br>それだけで無敵なんです。,"알고 있나요?<br>혼자가 아니라는 건,<br>그 정도로 무적이라구요."
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,ふ……<br>お前だって、<br>それを知ったのは最近だろう？,"후……<br>너 역시,<br>그걸 깨달은건 최근의 일 아니었나?"
-Japanese,"scene_cp36_q4_s10,3641",detail,루리아,ふふっ……ですね。<br>でも、ようやく気付けました。<br>ありがとう、[ジータ]。,"후훗…… 맞아요.<br>그래도, 간신히 알아차릴 수 있었어요.<br>고마워. [지타]."
+Japanese,"scene_cp36_q4_s10,3641",detail,루리아,ふふっ……ですね。<br>でも、ようやく気付けました。<br>ありがとう、[플레이어]。,"후훗…… 맞아요.<br>그래도, 간신히 알아차릴 수 있었어요.<br>고마워. [플레이어]."
 Japanese,"scene_cp36_q4_s10,3641",detail,루리아,さぁ、行きましょう……<br>リーシャさんが……<br>オルキスちゃんが待ってます。,"자, 이제 가요……<br>리샤씨가……<br>오르키스가 기다려요."
-Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,だな……<br>[ジータ]には、<br>みっともない姿を見せてしまったな。,"그래……<br>[지타]에겐,<br>볼품없는 모습을 보이고 말았군."
+Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,だな……<br>[플레이어]には、<br>みっともない姿を見せてしまったな。,"그래……<br>[플레이어]에겐,<br>볼품없는 모습을 보이고 말았군."
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,さっきまでのことは忘れろ。<br>二度と思い出すんじゃないぞ。,아까 있었던 일은 잊어라.<br>두번 다시 떠올리지 말도록.
 Japanese,"scene_cp36_q4_s10,3641",sel1_txt,,<span class='scene-font-katari'>忘れる</span>,<span class='scene-font-katari'>잊을게</span>
 Japanese,"scene_cp36_q4_s10,3641",sel2_txt,,<span class='scene-font-katari'>忘れない</span>,<span class='scene-font-katari'>안 잊을래</span>
@@ -160,7 +160,7 @@ Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,貴様……ならば仕方�
 Japanese,"scene_cp36_q4_s10,3641",detail,루리아,だ、だめですよ！？<br>そんなことしちゃ！,"그, 그러면 안돼요!?<br>그런 짓을 해선!"
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,ふん……安心しろ。<br>半分ほどは冗談だ。,흥……안심해라.<br>반 정도는 농담이니까.
 Japanese,"scene_cp36_q4_s10,3641",detail,흑기사,さて……<br>それでは行こうか……<br>我々を待つ、決着の場へとな。,"자……<br>그러면 갈까.……<br>우리를 기다리는, 결착의 무대로."
-Japanese,"scene_cp36_q4_s20,3642",synopsis,,"リーシャの待つグランサイファーへと辿り着いた[지타]達。何やら覚悟を決めたらしいリーシャは,以前よりもはるかに強いとカタリナは言う。黒騎士もそれを感じ取り,強者と相対する心持ちで剣を抜く。黒騎士とリーシャ,二人の覚悟が衝突する。",리샤가 기다리는 그랑사이퍼에 도착한 [지타]일행. 아무래도 각오를 굳힌 것 같은 리샤는 이전보다도 아득히 강해졌다고 카타리나는 말한다. 흑기사도 그것을 느끼고는 강자와 상대하는 마음가짐으로 검을 뽑아든다. 흑기사와 리샤. 두 사람의 각오가 충돌한다.
+Japanese,"scene_cp36_q4_s20,3642",synopsis,,"リーシャの待つグランサイファーへと辿り着いた[플레이어]達。何やら覚悟を決めたらしいリーシャは,以前よりもはるかに強いとカタリナは言う。黒騎士もそれを感じ取り,強者と相対する心持ちで剣を抜く。黒騎士とリーシャ,二人の覚悟が衝突する。",리샤가 기다리는 그랑사이퍼에 도착한 [플레이어]일행. 아무래도 각오를 굳힌 것 같은 리샤는 이전보다도 아득히 강해졌다고 카타리나는 말한다. 흑기사도 그것을 느끼고는 강자와 상대하는 마음가짐으로 검을 뽑아든다. 흑기사와 리샤. 두 사람의 각오가 충돌한다.
 Japanese,"scene_cp36_q4_s20,3642",detail,리샤,来ましたね……<br>ちゃんと、逃げずに。,"오셨군요……<br>제대로, 도망치지 않고."
 Japanese,"scene_cp36_q4_s20,3642",detail,흑기사,ふん……<br>我々に逃げる要素が<br>あると思っていたのか？,흥……<br>우리들이 도망칠 요소가<br>있다고 생각했나?
 Japanese,"scene_cp36_q4_s20,3642",detail,리샤,いえ……<br>でも、逃げなかったその判断を、<br>賢明だとは思いません。,"아니요……<br>하지만, 도망치지 않은 그 판단을,<br>현명하다고는 생각하지 않습니다."
@@ -176,7 +176,7 @@ Japanese,"scene_cp36_q4_s20,3642",detail,흑기사,さぁ、剣を抜け……�
 Japanese,"scene_cp36_q4_s20,3642",detail,리샤,小娘ではありません……<br>私は……,꼬마 계집이 아닙니다……<br>나는……
 Japanese,"scene_cp36_q4_s20,3642",detail,리샤,私は……<br>秩序の騎空団第四騎空艇団、<br>船団長リーシャです！！,"나는……<br>질서의 기공단 제 4기공선단,<br>선단장 리샤입니다!!"
 Japanese,"scene_cp36_q4_s20,3642",detail,흑기사,ふふ……いい目だな。<br>強い決意が見える。,후후……좋은 눈이야.<br>강한 결의가 보이는군.
-Japanese,"scene_cp36_q4_s20,3642",detail,흑기사,だが……<br>私も負けるわけにはいかないのだ！<br>力を貸せ！ [ジータ]！,하지만……<br>나도 질 수는 없다!<br>힘을 빌려다오! [지타]！
+Japanese,"scene_cp36_q4_s20,3642",detail,흑기사,だが……<br>私も負けるわけにはいかないのだ！<br>力を貸せ！ [플레이어]！,하지만……<br>나도 질 수는 없다!<br>힘을 빌려다오! [플레이어]！
 Japanese,"scene_cp36_q4_s20,3642",detail,흑기사,ここは覚悟の戦場だ！<br>貴様の覚悟……<br>私の覚悟でねじ伏せてくれよう！,이곳은 각오의 전장이다!<br>네녀석의 각오……<br>나의 각오로 짓눌러주마!
 Japanese,"scene_cp36_q4_s30,3643",synopsis,,激しい戦いを繰り広げ、リーシャを倒した黒騎士。全力のぶつかり合いの果てに敗北したリーシャは、迷いの晴れたような笑顔を浮かべていた。約束通り、リーシャは宰相フリーシアの行く先を告げた。メネア皇国領ルーマシー群島、豊かな木々が生い茂る地である。,"격렬한 싸움이 이어진 끝에 리샤를 쓰러뜨린 흑기사. 전력을 다해 부딪힌 끝에 패배한 리샤는, 미련이 가신 미소를 짓고 있었다. 약속대로, 리샤는 재상 프리시아의 행선지를 말한다. 메네아 황국령 루마시 군도. 풍요로운 숲이 우거진 땅이었다."
 Japanese,"scene_cp36_q4_s30,3643",detail,리샤,はぁ……はぁ……<br>くっ……,하아……하아……<br>큭……
@@ -192,7 +192,7 @@ Japanese,"scene_cp36_q4_s30,3643",detail,리샤,人形……？<br>ああ、そ�
 Japanese,"scene_cp36_q4_s30,3643",detail,리샤,オルキスさんの所在については、<br>確かな情報はありませんが……,오르키스씨의 소재에 대해서는<br>확실한 정보는 없지만……
 Japanese,"scene_cp36_q4_s30,3643",detail,리샤,フリーシア宰相については<br>メネア皇国領の<span class='scene-font-place'>ルーマシー群島</span>にて、<br>その姿が目撃されています。,"프리시아 재상이라면<br>메네아 황국령의<span class='scene-font-place'>루마시 군도</span>에서,<br>그 모습이 목격되었어요."
 Japanese,"scene_cp36_q4_s30,3643",detail,카타리나,<span class='scene-font-place'>ルーマシー群島</span>……だと？,<span class='scene-font-place'>루마시 군도</span>……라고?
-Japanese,"scene_cp36_q4_s30,3643",detail,,<span class='scene-font-katari'>フリーシアが現れたという</span><br><span class='scene-font-katari'>その島の名に[ジータ]一行は、</span><br><span class='scene-font-katari'>驚きの表情を浮かべる。</span>,"<span class='scene-font-katari'>프리시아가 나타났다는</span><br><span class='scene-font-katari'>그 섬의 이름에[지타]일행은,</span><br><span class='scene-font-katari'>놀러운 표정을 짓는다.</span>"
+Japanese,"scene_cp36_q4_s30,3643",detail,,<span class='scene-font-katari'>フリーシアが現れたという</span><br><span class='scene-font-katari'>その島の名に[플레이어]一行は、</span><br><span class='scene-font-katari'>驚きの表情を浮かべる。</span>,"<span class='scene-font-katari'>프리시아가 나타났다는</span><br><span class='scene-font-katari'>그 섬의 이름에[플레이어]일행은,</span><br><span class='scene-font-katari'>놀러운 표정을 짓는다.</span>"
 Japanese,"scene_cp36_q4_s30,3643",detail,,<span class='scene-font-katari'>事態は混乱の一途をたどりながらも、</span><br><span class='scene-font-katari'>一つの決着に向け、</span><br><span class='scene-font-katari'>確かに動き出しているのだった。</span>,"<span class='scene-font-katari'>사태는 혼란함 일색으로 이어지면서도,</span><br><span class='scene-font-katari'>하나의 결착을 향해,</span><br><span class='scene-font-katari'>확실하게 움직이고 있었다.</span>"
 English,"scene_cp36_q1_s10,3611",synopsis,,"As the search for Orchis begins to seem futile, the Black Knight begins to seethe with anger."
 English,"scene_cp36_q1_s10,3611",detail,Black Knight,Dammit! Why! Why can't we find her!
@@ -202,7 +202,7 @@ English,"scene_cp36_q1_s10,3611",detail,Rackam,But there's no sign of Orchis or 
 English,"scene_cp36_q1_s10,3611",detail,Black Knight,Impossible... What other place would she have possibly taken her to?
 English,"scene_cp36_q1_s10,3611",detail,Eugen,"Calm down, Apollo. There are still some rooms we haven't—"
 English,"scene_cp36_q1_s10,3611",detail,Black Knight,"Dammit, shut up!<br>I swear, Orchis... I swear I'll find you."
-English,"scene_cp36_q1_s10,3611",detail,Black Knight,"Whatever it takes, [Djeeta], we must find that doll."
+English,"scene_cp36_q1_s10,3611",detail,Black Knight,"Whatever it takes, [플레이어], we must find that doll."
 English,"scene_cp36_q1_s20,3612",synopsis,,An imperial patrol finds an enraged Black Knight.
 English,"scene_cp36_q1_s20,3612",detail,Imperial Soldier 1,"We've got you now, intruders!"
 English,"scene_cp36_q1_s20,3612",detail,Imperial Soldier 1,Urgh!
@@ -263,7 +263,7 @@ English,"scene_cp36_q3_s20,3632",detail,Lyria,"Yes, ma'am?"
 English,"scene_cp36_q3_s20,3632",detail,Old Woman,Please take care of Apollo for us.
 English,"scene_cp36_q3_s20,3632",detail,Lyria,Yes ma'am!
 English,"scene_cp36_q3_s20,3632",detail,Old Woman,There's a good girl!
-English,"scene_cp36_q3_s20,3632",detail,Rackam,"Let's get outta here, [Djeeta]. We shouldn't let the Black Knight get too far ahead of us."
+English,"scene_cp36_q3_s20,3632",detail,Rackam,"Let's get outta here, [플레이어]. We shouldn't let the Black Knight get too far ahead of us."
 English,"scene_cp36_q4_s10,3641",synopsis,,Lyria and the Black Knight have a heartfelt conversation about the meaning of being allies.
 English,"scene_cp36_q4_s10,3641",detail,Black Knight,I can stay in Mephorash no longer!
 English,"scene_cp36_q4_s10,3641",detail,Black Knight,"After the atrocities I committed, I swore to never come back here—dammit!"
@@ -284,9 +284,9 @@ English,"scene_cp36_q4_s10,3641",detail,Black Knight,"Dammit.<br>Lyria, you're a
 English,"scene_cp36_q4_s10,3641",detail,Lyria,Yes. But that's because I have people by my side who make me strong.
 English,"scene_cp36_q4_s10,3641",detail,Lyria,"Guess what? If you're alone, then you won't be a match for anyone."
 English,"scene_cp36_q4_s10,3641",detail,Black Knight,Hah. You've only just discovered this.
-English,"scene_cp36_q4_s10,3641",detail,Lyria,Hehe. Yeah. I finally realized it thanks to [Djeeta].
+English,"scene_cp36_q4_s10,3641",detail,Lyria,Hehe. Yeah. I finally realized it thanks to [플레이어].
 English,"scene_cp36_q4_s10,3641",detail,Lyria,"Come on, let's go. Lecia is waiting. And so is Orchis."
-English,"scene_cp36_q4_s10,3641",detail,Black Knight,"You're right. And [Djeeta], I apologize for this disgraceful display."
+English,"scene_cp36_q4_s10,3641",detail,Black Knight,"You're right. And [플레이어], I apologize for this disgraceful display."
 English,"scene_cp36_q4_s10,3641",detail,Black Knight,Please forget about what you've just seen. Don't even dare remember it.
 English,"scene_cp36_q4_s10,3641",sel1_txt,,I’ll forget about it.
 English,"scene_cp36_q4_s10,3641",sel2_txt,,How could I forget?
@@ -295,7 +295,7 @@ English,"scene_cp36_q4_s10,3641",detail,Black Knight,Have it your way. I'll have
 English,"scene_cp36_q4_s10,3641",detail,Lyria,Th-that's not very nice!
 English,"scene_cp36_q4_s10,3641",detail,Black Knight,Relax. I was joking... kind of.
 English,"scene_cp36_q4_s10,3641",detail,Black Knight,It's time to get going. We shouldn't put this duel with Lecia on hold any longer.
-English,"scene_cp36_q4_s20,3642",synopsis,,"[Djeeta] and the crew make it back to the Grandcypher. There they meet Lecia, whose resolution is palpable before their rematch begins."
+English,"scene_cp36_q4_s20,3642",synopsis,,"[플레이어] and the crew make it back to the Grandcypher. There they meet Lecia, whose resolution is palpable before their rematch begins."
 English,"scene_cp36_q4_s20,3642",detail,Lecia,"You showed up. Didn't run away, huh?"
 English,"scene_cp36_q4_s20,3642",detail,Black Knight,Was there anything that suggested we would?
 English,"scene_cp36_q4_s20,3642",detail,Lecia,No. But I don't think it was necessarily a wise decision to not run.
@@ -311,7 +311,7 @@ English,"scene_cp36_q4_s20,3642",detail,Black Knight,Come now. Draw your sword�
 English,"scene_cp36_q4_s20,3642",detail,Lecia,I'm not a little girl.
 English,"scene_cp36_q4_s20,3642",detail,Lecia,"I am Lecia, Captain of the Fourth Fleet of the Crew of Enforcers!"
 English,"scene_cp36_q4_s20,3642",detail,Black Knight,I like that look in your eyes. What strong determination.
-English,"scene_cp36_q4_s20,3642",detail,Black Knight,"But I won't lose this battle. Come on, [Djeeta]!"
+English,"scene_cp36_q4_s20,3642",detail,Black Knight,"But I won't lose this battle. Come on, [플레이어]!"
 English,"scene_cp36_q4_s20,3642",detail,Black Knight,This is a battle of wills! And I promise you that my resolve will last longer than yours!
 English,"scene_cp36_q4_s30,3643",synopsis,,"After the Black Knight soundly defeats Lecia, the enforcer reveals Freesia's whereabouts."
 English,"scene_cp36_q4_s30,3643",detail,Lecia,Pant... Pant...

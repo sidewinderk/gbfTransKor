@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt191228_cp3_q1_s10,synopsis,,アジトに入ると地下からジョヤが発していると思われる煩悩の気配がし、[ジータ]達は地下を目指す。すると手下によって廊下に仕掛けられたトラップが発動され、落とし穴にビカラが落ちてしまう。ビカラを助けるためにジョイも穴に飛び込むが、人を乗せたままでは浮けずにゆっくりと降下していってしまう。一行はビカラ達を助けるためにも急いで地下へ向かう。
+Japanese,scene_evt191228_cp3_q1_s10,synopsis,,アジトに入ると地下からジョヤが発していると思われる煩悩の気配がし、[플레이어]達は地下を目指す。すると手下によって廊下に仕掛けられたトラップが発動され、落とし穴にビカラが落ちてしまう。ビカラを助けるためにジョイも穴に飛び込むが、人を乗せたままでは浮けずにゆっくりと降下していってしまう。一行はビカラ達を助けるためにも急いで地下へ向かう。
 Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>アジトの中ではどこかの部屋で</span><br><span class='scene-font-katari'>大きな機械が稼働しているらしく、</span><br><span class='scene-font-katari'>チェーンの回る音が常に響いていた。</span>
 Japanese,scene_evt191228_cp3_q1_s10,detail,루리아,外から見た時は普通のおうちくらいの<br>大きさだと思ってましたけど、<br>結構広そうですね。
 Japanese,scene_evt191228_cp3_q1_s10,detail,ビカラ,真下から煩悩の気配がするよ。<br>地下にも部屋があるみたいだ。
@@ -27,8 +27,8 @@ Japanese,scene_evt191228_cp3_q1_s10,detail,ユイシス,今助けるわ！
 Japanese,scene_evt191228_cp3_q1_s10,detail,ユイシス,はっ！
 Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ユイシスは謎の機械が自分達に</span><br><span class='scene-font-katari'>照準を合わせていることに気づき、</span><br><span class='scene-font-katari'>息を呑む。</span>
 Japanese,scene_evt191228_cp3_q1_s10,sel1_txt,,<span class='scene-font-katari'>させない！</span>
-Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>咄嗟に[ジータ]が飛び出し、</span><br><span class='scene-font-katari'>ユイシスを狙う機械を</span><br><span class='scene-font-katari'>一太刀に切り伏せた。</span>
-Japanese,scene_evt191228_cp3_q1_s10,detail,ユイシス,すみません、[ジータ]。<br>私の至らなさ故に……
+Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>咄嗟に[플레이어]が飛び出し、</span><br><span class='scene-font-katari'>ユイシスを狙う機械を</span><br><span class='scene-font-katari'>一太刀に切り伏せた。</span>
+Japanese,scene_evt191228_cp3_q1_s10,detail,ユイシス,すみません、[플레이어]。<br>私の至らなさ故に……
 Japanese,scene_evt191228_cp3_q1_s10,detail,루리아,今のうちにビカラちゃんを<br>引き上げましょう！
 Japanese,scene_evt191228_cp3_q1_s10,detail,クビラ,くっ、どうしよう？<br>ドーマウスがいる所まで<br>手が届かない……！
 Japanese,scene_evt191228_cp3_q1_s10,detail,ドーマウス,……っ！
@@ -56,8 +56,8 @@ Japanese,scene_evt191228_cp3_q1_s10,detail,ビカラ,わかったよ、クビラ
 Japanese,scene_evt191228_cp3_q1_s10,detail,ドーマウス,──ッ！
 Japanese,scene_evt191228_cp3_q1_s10,detail,ビカラ,来てくれるんだね。<br>きみがいると心強いよ。
 Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ビカラとドーマウスを乗せた</span><br><span class='scene-font-katari'>ジョイの高度は徐々に下がり、</span><br><span class='scene-font-katari'>闇に吸い込まれて見えなくなった。</span>
-Japanese,scene_evt191228_cp3_q1_s10,detail,ユイシス,行きましょう、[ジータ]。<br>急いで助けないと危険だわ。
-Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>[ジータ]は頷きを返すと、</span><br><span class='scene-font-katari'>地下への階段を探して出発した。</span>
+Japanese,scene_evt191228_cp3_q1_s10,detail,ユイシス,行きましょう、[플레이어]。<br>急いで助けないと危険だわ。
+Japanese,scene_evt191228_cp3_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]は頷きを返すと、</span><br><span class='scene-font-katari'>地下への階段を探して出発した。</span>
 Japanese,scene_evt191228_cp3_q2_s10,synopsis,,ジョイとともに落とし穴の底に着いたビカラは脱出ルートを探そうと周囲を調べ、通れそうなダクトを見つける。そして浮いたジョイを足場にして部屋の外に脱出すると、鍵を開けて全員を助け出す。そこへアジトで働く技師達が現れ、ジョイは自分の胴体の空洞にビカラを隠す。技師達はジョイを雇い主の制作物だと勘違いして、ビカラごとジョイを運んでいく。
 Japanese,scene_evt191228_cp3_q2_s10,detail,ビカラ,ようやく底に着いたか。<br>ここまで長かったね……
 Japanese,scene_evt191228_cp3_q2_s10,detail,,<span class='scene-font-katari'>ビカラはすっかり小さくなった</span><br><span class='scene-font-katari'>穴の入り口を見上げて、溜め息をつく。</span>
@@ -233,4 +233,4 @@ Japanese,scene_evt191228_cp3_q4_s20,detail,派手な格好の男,ワイはただ
 Japanese,scene_evt191228_cp3_q4_s20,detail,派手な格好の男,ほんでワレの変形するおもろい武器と<br>ワイが開発したド派手な武器の、<br>どっちが強いか決着つけるんじゃ！
 Japanese,scene_evt191228_cp3_q4_s20,detail,強欲のライゾウ,<span class='scene-font-4'>さぁ、勝負せんかい、ワレェ！</span><br>手ぇ抜いたらこの「強欲のライゾウ」が<br>骨砕けるまでどつき回したるぞ！
 Japanese,scene_evt191228_cp3_q4_s20,detail,クビラ,<span class='scene-font-4'>来る……！</span><br>ユイシスさん、私も手伝うよ！
-Japanese,scene_evt191228_cp3_q4_s20,detail,루리아,あの武器、なんだか危なそうです。<br>私達も戦いましょう、[ジータ]！
+Japanese,scene_evt191228_cp3_q4_s20,detail,루리아,あの武器、なんだか危なそうです。<br>私達も戦いましょう、[플레이어]！

@@ -1,5 +1,5 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr110_ep1,synopsis,,よろず屋の依頼を遂行していた[ジータ]達は、思いがけず剣士ジークフリートと再会する。かつて[ジータ]らと共に戦った彼は、魔物を倒して得た賞金を祖国復興のために送りつつ、毒で汚染された祖国を浄化するための手段を探しているという。祖国のために一人で戦うジークフリートの手助けをすべく、一行は彼を騎空団に引き入れた。
+Japanese,scene_fate_chr110_ep1,synopsis,,よろず屋の依頼を遂行していた[플레이어]達は、思いがけず剣士ジークフリートと再会する。かつて[플레이어]らと共に戦った彼は、魔物を倒して得た賞金を祖国復興のために送りつつ、毒で汚染された祖国を浄化するための手段を探しているという。祖国のために一人で戦うジークフリートの手助けをすべく、一行は彼を騎空団に引き入れた。
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>旅の途中、とある村を騒がす</span><br><span class='scene-font-katari'>黒い影と呼ばれる</span><br><span class='scene-font-katari'>不穏な存在の噂を聞いた一行。</span>
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>よろず屋から黒い影の</span><br><span class='scene-font-katari'>調査依頼を請け負った一行は、</span><br><span class='scene-font-katari'>件の村へと降り立つのだった。</span>
 Japanese,scene_fate_chr110_ep1,detail,ビィ,それで……<br>その黒い影ってのは<br>なんだってんだ？
@@ -10,11 +10,11 @@ Japanese,scene_fate_chr110_ep1,detail,ルリア,それは大変ですね……<b
 Japanese,scene_fate_chr110_ep1,detail,ビィ,ああ！ <br>黒い影だか何だか知らねぇけど、<br>オイラ達に任せとけってんだ！
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>そうして一行は、</span><br><span class='scene-font-katari'>黒い影が出没すると言われる</span><br><span class='scene-font-katari'>薄暗い森へと向かうのだった。</span>
 Japanese,scene_fate_chr110_ep1,detail,ビィ,ううぅ……<br>暗くて不気味な森だぜ……
-Japanese,scene_fate_chr110_ep1,detail,ルリア,は、はい……<br>ビィさん、[ジータ]……<br>あまり離れないでくださいね。
+Japanese,scene_fate_chr110_ep1,detail,ルリア,は、はい……<br>ビィさん、[플레이어]……<br>あまり離れないでくださいね。
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>その時……</span><br><span class='scene-font-katari'>近くで何者かの動く</span><br><span class='scene-font-katari'>気配を感じ取る一行。</span>
 Japanese,scene_fate_chr110_ep1,detail,ビィ,おい……見ろ！<br>あの木の陰に大剣を背負った<br>剣士がいるぞ……
 Japanese,scene_fate_chr110_ep1,detail,ルリア,あれが……黒い影……？<br>あっ！ 洞窟へ入って行きます！
-Japanese,scene_fate_chr110_ep1,detail,ビィ,よし……<br>気付かれないように<br>後をつけるぞ！ [ジータ]！
+Japanese,scene_fate_chr110_ep1,detail,ビィ,よし……<br>気付かれないように<br>後をつけるぞ！ [플레이어]！
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>黒い影の後を追って</span><br><span class='scene-font-katari'>洞窟の中へと進んでいく。</span>
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>黒い影の後をつけていくと、</span><br><span class='scene-font-katari'>一行は少し開けた空間に辿り着いた。</span>
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>気配を殺した一行は</span><br><span class='scene-font-katari'>物陰から、黒い影の</span><br><span class='scene-font-katari'>動向を窺っているのだが…</span>
@@ -96,28 +96,28 @@ Japanese,scene_fate_chr110_ep1,detail,ルリア,はい！ それに……<br>ジ
 Japanese,scene_fate_chr110_ep1,detail,ビィ,だから……<br>オイラ達も貝探しを一緒に手伝うから、<br>仲間になってくれねぇか？
 Japanese,scene_fate_chr110_ep1,detail,ビィ,おいおいおいおい！<br>な、なに言ってんだよ！<br>冗談だろ？
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,…………
-Japanese,scene_fate_chr110_ep1,detail,ルリア,待ってください……<br>[ジータ]の話には、<br>何か続きがありそうです！
-Japanese,scene_fate_chr110_ep1,detail,ビィ,おい……<br>嘘だって言ってくれよ！<br>なぁ！ [ジータ]！
+Japanese,scene_fate_chr110_ep1,detail,ルリア,待ってください……<br>[플레이어]の話には、<br>何か続きがありそうです！
+Japanese,scene_fate_chr110_ep1,detail,ビィ,おい……<br>嘘だって言ってくれよ！<br>なぁ！ [플레이어]！
 Japanese,scene_fate_chr110_ep1,sel1_txt,,<span class='scene-font-katari'>ジークフリートを放って置けない！</span>
 Japanese,scene_fate_chr110_ep1,sel2_txt,,<span class='scene-font-katari'>…………</span>
-Japanese,scene_fate_chr110_ep1,detail,ビィ,っ！？<br>[ジータ]……お前そこまで<br>ジークフリートのことを……
-Japanese,scene_fate_chr110_ep1,detail,ルリア,[ジータ]は、あの事件の後、何か<br>フェードラッヘの力になりたいって、<br>ずっと気にしてましたからね。
+Japanese,scene_fate_chr110_ep1,detail,ビィ,っ！？<br>[플레이어]……お前そこまで<br>ジークフリートのことを……
+Japanese,scene_fate_chr110_ep1,detail,ルリア,[플레이어]は、あの事件の後、何か<br>フェードラッヘの力になりたいって、<br>ずっと気にしてましたからね。
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,そういうことか……<br>それで、星の島を諦めるなどと<br>心にもないことを言ったのか。
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,ふっ……しかし……<br>お前も俺に似て……<br>なかなか口下手のようだな。
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,……どうした？<br>お前が黙ってしまっては、<br>何もわからん。
 Japanese,scene_fate_chr110_ep1,detail,ビィ,ジークフリートの言うとおりだぜ<br>だんまりのまんまじゃよう……<br>なぁ、ルリア？
-Japanese,scene_fate_chr110_ep1,detail,ルリア,たぶんですけど…… <br>私には[ジータ]の気持ちが、<br>なんとなくわかります……
-Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>ルリアは[ジータ]の瞳を</span><br><span class='scene-font-katari'>しばらくじっと見つめた後、</span><br><span class='scene-font-katari'>静かに話し始めた。</span>
-Japanese,scene_fate_chr110_ep1,detail,ルリア,[ジータ]は……<br>目の前で困っている人を<br>見捨ててまで……
+Japanese,scene_fate_chr110_ep1,detail,ルリア,たぶんですけど…… <br>私には[플레이어]の気持ちが、<br>なんとなくわかります……
+Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>ルリアは[플레이어]の瞳を</span><br><span class='scene-font-katari'>しばらくじっと見つめた後、</span><br><span class='scene-font-katari'>静かに話し始めた。</span>
+Japanese,scene_fate_chr110_ep1,detail,ルリア,[플레이어]は……<br>目の前で困っている人を<br>見捨ててまで……
 Japanese,scene_fate_chr110_ep1,detail,ルリア,星の島を目指すことに意味があるのか？<br>って、そう言いたいんだと思います……
-Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>ルリアの投げかけた言葉に</span><br><span class='scene-font-katari'>深く頷く[ジータ]。</span>
+Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>ルリアの投げかけた言葉に</span><br><span class='scene-font-katari'>深く頷く[플레이어]。</span>
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,そうか……<br>それがお前の導き出した答えか。
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,ふっ……しかし……<br>お前も俺に似て……<br>なかなか口下手のようだな。
-Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>ジークフリートは真剣な面持ちで</span><br><span class='scene-font-katari'>[ジータ]の瞳を見つめる。</span>
+Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>ジークフリートは真剣な面持ちで</span><br><span class='scene-font-katari'>[플레이어]の瞳を見つめる。</span>
 Japanese,scene_fate_chr110_ep1,detail,,<span class='scene-font-katari'>その瞳の奥に何かを感じ取る</span><br><span class='scene-font-katari'>彼は、意を決した様子で</span><br><span class='scene-font-katari'>ゆっくりと口を開いた。</span>
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,……わかった。<br>お前達の心は確かに伝わった。
 Japanese,scene_fate_chr110_ep1,detail,ジークフリート,こうして再会したのも何かの縁だろう。
-Japanese,scene_fate_chr110_ep1,detail,ジークフリート,[ジータ]、俺の貝探しを、<br>フェードラッヘの復興を……<br>お前達にも手伝って貰いたい。
+Japanese,scene_fate_chr110_ep1,detail,ジークフリート,[플레이어]、俺の貝探しを、<br>フェードラッヘの復興を……<br>お前達にも手伝って貰いたい。
 Japanese,scene_fate_chr110_ep1,detail,ビィ,ああ！ もちろんだぜ！<br>その方が一人で探すよりも<br>効率がいいと思うぜ！
 Japanese,scene_fate_chr110_ep1,detail,ルリア,はい！<br>シェロさんなら<br>何か知ってるかもしれませんしね！
 Japanese,scene_fate_chr110_ep1,detail,ビィ,それに……ジークフリートを<br>一人で放っておいたら、<br>また濡れ衣を着せられそうだしな！
@@ -133,7 +133,7 @@ Japanese,scene_chr110_q1_s10,detail,,<span class='scene-font-katari'>一行は�
 Japanese,scene_chr110_q1_s10,detail,ジークフリート,すまない……<br>また、俺のわがままで<br>急に目的地を変更してしまって。
 Japanese,scene_chr110_q1_s10,detail,ビィ,なんでぇなんでぇ！<br>貝の噂を聞いたら、真っ先に<br>確かめに行くって約束じゃねぇか！
 Japanese,scene_chr110_q1_s10,detail,ルリア,そうですよ！ それに……<br>ジークフリートさんには<br>いつも助けられてばかりで……
-Japanese,scene_chr110_q1_s10,detail,ルリア,こんな時ぐらい<br>何か力になりたいんです！<br>ねっ、[ジータ]！
+Japanese,scene_chr110_q1_s10,detail,ルリア,こんな時ぐらい<br>何か力になりたいんです！<br>ねっ、[플레이어]！
 Japanese,scene_chr110_q1_s10,detail,ジークフリート,ありがたい……<br>そう言ってくれると、<br>少しは気が楽になる。
 Japanese,scene_chr110_q1_s10,detail,ビィ,気にすんなって！<br>今度こそ……<br>お目当ての貝だといいなぁ！
 Japanese,scene_chr110_q1_s10,detail,ジークフリート,そうだな……思えば<br>お前達にも色々と迷惑をかけた。
@@ -147,7 +147,7 @@ Japanese,scene_chr110_q1_s10,detail,長老,元々、毒気に侵された<br>こ
 Japanese,scene_chr110_q1_s10,detail,長老,じゃが……<br>今ではその個体もずいぶん減って、<br>恐らく見つけるのも困難だろうな。
 Japanese,scene_chr110_q1_s10,detail,ジークフリート,なるほど……だが何故<br>キサガギウムは激減したんだ？
 Japanese,scene_chr110_q1_s10,detail,長老,……「あるモノ」が<br>湖に住み着いたせいで、<br>水源地帯の生態系が壊れてな……
-Japanese,scene_chr110_q1_s10,synopsis,,ジークフリートの祖国、フェードラッヘは毒によって汚染されていた。汚染の浄化の鍵となる貝についての情報を得て、[ジータ]達はとある村を訪れる。村人の話を聞くと、貝は近年その生息数が激減しているという。一行が詳しい事を聞こうとしたその時、村に魔物が入りこんだという知らせが届く。
+Japanese,scene_chr110_q1_s10,synopsis,,ジークフリートの祖国、フェードラッヘは毒によって汚染されていた。汚染の浄化の鍵となる貝についての情報を得て、[플레이어]達はとある村を訪れる。村人の話を聞くと、貝は近年その生息数が激減しているという。一行が詳しい事を聞こうとしたその時、村に魔物が入りこんだという知らせが届く。
 Japanese,scene_chr110_q1_s10,detail,長老,今では、この辺りの水も悪くなり<br>遠くの水源まで水を汲みに行く<br>ありさまだ……
 Japanese,scene_chr110_q1_s10,detail,ビィ,そうだったのか……<br>そりゃあ気の毒な話だぜ……
 Japanese,scene_chr110_q1_s10,detail,ジークフリート,しかし……<br>その「あるモノ」とは一体なんなんだ？<br>何か対策の余地はないのか？
@@ -166,9 +166,9 @@ Japanese,scene_chr110_q1_s10,detail,村人,ちょ、長老さま！<br>突然、
 Japanese,scene_chr110_q1_s10,detail,長老,何っ！？<br>ぐっ……また現れたか……<br>急いで腕の立つ者を集めるんだ！
 Japanese,scene_chr110_q1_s10,detail,ジークフリート,待て。<br>俺に任せておけ。
 Japanese,scene_chr110_q1_s10,detail,ルリア,あっ！<br>ジークフリートさん！
-Japanese,scene_chr110_q1_s10,detail,ビィ,よーし！<br>オイラ達も行くぜ！<br>[ジータ]！
+Japanese,scene_chr110_q1_s10,detail,ビィ,よーし！<br>オイラ達も行くぜ！<br>[플레이어]！
 Japanese,scene_chr110_q2_s10,synopsis,,ジークフリートが探していた貝を手に入れるためには、その生息地域の近くに住まう土地神を倒す必要があるという。「オドロさま」と呼ばれるその存在を村人達はひどく恐れたが、ジークフリートは貝を祖国に持ち帰るため、戦いを挑む事を決意する。
-Japanese,scene_chr110_q2_s10,detail,,<span class='scene-font-katari'>村の周囲に現れた魔物を</span><br><span class='scene-font-katari'>一蹴した[ジータ]一行。</span>
+Japanese,scene_chr110_q2_s10,detail,,<span class='scene-font-katari'>村の周囲に現れた魔物を</span><br><span class='scene-font-katari'>一蹴した[플레이어]一行。</span>
 Japanese,scene_chr110_q2_s10,detail,,<span class='scene-font-katari'>一行は、再び長老の元に</span><br><span class='scene-font-katari'>集まっているのだった。</span>
 Japanese,scene_chr110_q2_s10,detail,長老,なんと……<br>あの魔物達を一瞬で片付けて<br>しまうとは……
 Japanese,scene_chr110_q2_s10,detail,ビィ,へっへーん！<br>どんなもんだい！
@@ -193,11 +193,11 @@ Japanese,scene_chr110_q2_s10,detail,ジークフリート,ふっ……確かに�
 Japanese,scene_chr110_q2_s10,detail,ルリア,ジークフリートさん……
 Japanese,scene_chr110_q2_s10,detail,長老,どうしても行くのか……？
 Japanese,scene_chr110_q2_s10,detail,ジークフリート,ああ……<br>俺がこの村の……<br>くだらん因縁を断ち切ってやる。
-Japanese,scene_chr110_q2_s10,detail,ジークフリート,北の湖……だったな。<br>[ジータ]。<br>お前達はどうする？
+Japanese,scene_chr110_q2_s10,detail,ジークフリート,北の湖……だったな。<br>[플레이어]。<br>お前達はどうする？
 Japanese,scene_chr110_q2_s10,sel1_txt,,<span class='scene-font-katari'>望むところだ</span>
 Japanese,scene_chr110_q2_s10,sel2_txt,,<span class='scene-font-katari'>体が震えてきた</span>
 Japanese,scene_chr110_q2_s10,detail,ジークフリート,ふっ……<br>そう言うと思っていた。
-Japanese,scene_chr110_q2_s10,detail,ジークフリート,頼りにしているぞ……<br>[ジータ]。
+Japanese,scene_chr110_q2_s10,detail,ジークフリート,頼りにしているぞ……<br>[플레이어]。
 Japanese,scene_chr110_q2_s10,detail,ジークフリート,ははっ……<br>それは武者震いだな。<br>戦う準備ができている証拠だ。
 Japanese,scene_chr110_q2_s10,detail,ジークフリート,大丈夫だ。<br>戦闘が始まれば……<br>じきに震えも治まる。
 Japanese,scene_chr110_q2_s10,detail,ジークフリート,よし……<br>それでは出発だ。
@@ -215,23 +215,23 @@ Japanese,scene_chr110_q3_s10,detail,ジークフリート,気を抜くなよ…�
 Japanese,scene_chr110_q3_s10,detail,,<span class='scene-font-katari'>その時……</span><br><span class='scene-font-katari'>北の湖に足を踏み入れた一行に</span><br><span class='scene-font-katari'>猛々しい咆哮が襲い掛かった。</span>
 Japanese,scene_chr110_q3_s10,detail,ビィ,なっ！？<br>あ、あいつがオドロさまか！
 Japanese,scene_chr110_q3_s10,detail,ルリア,まさか……<br>あれが、オドロさまの正体……
-Japanese,scene_chr110_q3_s10,detail,ジークフリート,どうやら……<br>アイツがこの湖の主の様だな……<br>全力で迎え撃つぞ！ [ジータ]！
-Japanese,scene_chr110_q3_s20,synopsis,,かくして、目的の貝を手に入れたジークフリートは、かつて仕えていたカール王の元へと向かう。王は彼の功績を大いに讃え、再び仕えて欲しいと言葉をかける。しかしジークフリートは、貝を探す手助けをした[ジータ]達に恩返しをしたいという。王はその言葉を受け止め、ジークフリートを送り出す。「オドロさま」──狂暴な熊の土地神を見事討ち果たし、「熊殺し」という新たな通り名を得たジークフリートの旅はまだまだ続くのであった。
+Japanese,scene_chr110_q3_s10,detail,ジークフリート,どうやら……<br>アイツがこの湖の主の様だな……<br>全力で迎え撃つぞ！ [플레이어]！
+Japanese,scene_chr110_q3_s20,synopsis,,かくして、目的の貝を手に入れたジークフリートは、かつて仕えていたカール王の元へと向かう。王は彼の功績を大いに讃え、再び仕えて欲しいと言葉をかける。しかしジークフリートは、貝を探す手助けをした[플레이어]達に恩返しをしたいという。王はその言葉を受け止め、ジークフリートを送り出す。「オドロさま」──狂暴な熊の土地神を見事討ち果たし、「熊殺し」という新たな通り名を得たジークフリートの旅はまだまだ続くのであった。
 Japanese,scene_chr110_q3_s20,detail,,<span class='scene-font-katari'>「オドロさま」を倒した一行は、</span><br><span class='scene-font-katari'>村人達に別れを惜しまれつつ</span><br><span class='scene-font-katari'>キサガイ村を後にした。</span>
 Japanese,scene_chr110_q3_s20,detail,,<span class='scene-font-katari'>無事に「キサガギウム」を</span><br><span class='scene-font-katari'>譲ってもらった一行は、一路</span><br><span class='scene-font-katari'>フェードラッヘを目指す。</span>
-Japanese,scene_chr110_q3_s20,detail,カール,ジークフリート、[ジータ]！<br>久しぶりにそなた達の顔を見られて、<br>ワシは心底嬉しいぞ。
+Japanese,scene_chr110_q3_s20,detail,カール,ジークフリート、[플레이어]！<br>久しぶりにそなた達の顔を見られて、<br>ワシは心底嬉しいぞ。
 Japanese,scene_chr110_q3_s20,detail,カール,して……ジークフリート。<br>話とはなんだ？
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,はっ。
 Japanese,scene_chr110_q3_s20,detail,,<span class='scene-font-katari'>そう言うとジークフリートは、</span><br><span class='scene-font-katari'>キサガギウムを巡る旅の顛末を</span><br><span class='scene-font-katari'>カール王に訥々と語るのだった。</span>
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,これがその……<br>「キサガギウム」でございます。
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,これを穢れの強い水源に放てば、<br>「キサガギウム」が毒を喰らい<br>その土地の水は浄化されるそうです。
 Japanese,scene_chr110_q3_s20,detail,カール,なんと！<br>それは誠か！？
-Japanese,scene_chr110_q3_s20,detail,カール,ジークフリート、[ジータ]！<br>此度の一件、誠に大儀であった。
+Japanese,scene_chr110_q3_s20,detail,カール,ジークフリート、[플레이어]！<br>此度の一件、誠に大儀であった。
 Japanese,scene_chr110_q3_s20,detail,ビィ,へへっ！<br>ジークフリートのヤツは、旅先でも<br>いつもこの国のことを考えてるんだぜ。
 Japanese,scene_chr110_q3_s20,detail,カール,ジークフリート。<br>そなたこそ、真の忠臣……<br>そなた以上の忠臣はおらぬ……
 Japanese,scene_chr110_q3_s20,detail,カール,どうだ……<br>もう一度、私の元に仕えてはくれんか？
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,…………
-Japanese,scene_chr110_q3_s20,detail,ルリア,[ジータ]……<br>ジークフリートさん。<br>やっぱり国に戻っちゃうんでしょうか？
+Japanese,scene_chr110_q3_s20,detail,ルリア,[플레이어]……<br>ジークフリートさん。<br>やっぱり国に戻っちゃうんでしょうか？
 Japanese,scene_chr110_q3_s20,sel1_txt,,<span class='scene-font-katari'>それもいいのかも知れない</span>
 Japanese,scene_chr110_q3_s20,sel2_txt,,<span class='scene-font-katari'>もっと一緒に旅をしたかった</span>
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,ふっ……<br>俺の帰る場所は、王都だと<br>そういうことか……
@@ -239,7 +239,7 @@ Japanese,scene_chr110_q3_s20,detail,ジークフリート,お前の心遣いは�
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,ふっ……<br>俺の帰る場所は、騎空団だと<br>そういうことか……
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,お前の気持ちは分かった……<br>俺の心はもう決まっている。
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,陛下……<br>そのお言葉、私の身に余る光栄。
-Japanese,scene_chr110_q3_s20,detail,ジークフリート,謹んでお受けしたいところですが……<br>私には、[ジータ]に旅先で<br>世話になった恩を返す義理があります。
+Japanese,scene_chr110_q3_s20,detail,ジークフリート,謹んでお受けしたいところですが……<br>私には、[플레이어]に旅先で<br>世話になった恩を返す義理があります。
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,そこで、この者達の旅を……<br>最後まで見届けたいのですが……
 Japanese,scene_chr110_q3_s20,detail,ジークフリート,何卒……<br>お許しいただけないでしょうか？
 Japanese,scene_chr110_q3_s20,detail,,<span class='scene-font-katari'>ジークフリートの言葉を受け止めた</span><br><span class='scene-font-katari'>カールは、一つの答えを導き出す。</span>

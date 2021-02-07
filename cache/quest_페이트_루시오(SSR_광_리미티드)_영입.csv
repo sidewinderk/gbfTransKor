@@ -1,10 +1,10 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr344_ep1,synopsis,,空の底に広がると噂の『赤き地平』の芝居を観に、劇場を訪れた[ジータ]達。怪談仕立ての内容におびえるルリアやイオを笑い飛ばすラカムだったが、そこに謎の美青年が現れる。青年はこの物語は真実に迫っていると語り「世界の真実を教えよう」と[ジータ]に手を差し伸べてくる。青年はルシオと名乗り、正体を隠したまま騎空団に加わるのだった。
+Japanese,scene_fate_chr344_ep1,synopsis,,空の底に広がると噂の『赤き地平』の芝居を観に、劇場を訪れた[플레이어]達。怪談仕立ての内容におびえるルリアやイオを笑い飛ばすラカムだったが、そこに謎の美青年が現れる。青年はこの物語は真実に迫っていると語り「世界の真実を教えよう」と[플레이어]に手を差し伸べてくる。青年はルシオと名乗り、正体を隠したまま騎空団に加わるのだった。
 Japanese,scene_fate_chr344_ep1,detail,劇場の道化,<span class='scene-font-4'>――紳士淑女の皆様！</span><br><span class='scene-font-4'>ご静粛に！</span>
 Japanese,scene_fate_chr344_ep1,detail,劇場の道化,今宵、お集まりいただいた皆様に<br>ご覧に入れますのは、<br>かの、おぞましき伝承――
 Japanese,scene_fate_chr344_ep1,detail,劇場の道化,この空の底――『赤き地平』の<br>真実の物語に、ございます……！
 Japanese,scene_fate_chr344_ep1,detail,劇場の道化,お覚悟は宜しいですかな？<br>では、どうぞ、最後まで<br>その目をふさぐことのなきよう……！
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>ある劇場の興行が評判を呼んでいる</span><br><span class='scene-font-katari'>と聞き、観劇に訪れた</span><br><span class='scene-font-katari'>[ジータ]達。</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>ある劇場の興行が評判を呼んでいる</span><br><span class='scene-font-katari'>と聞き、観劇に訪れた</span><br><span class='scene-font-katari'>[플레이어]達。</span>
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>それは『空の底』にまつわる言い伝えを</span><br><span class='scene-font-katari'>題材にした、恐ろしいものであった……</span>
 Japanese,scene_fate_chr344_ep1,detail,ルリア,はわわわわわ……！<br>すすすすごかったですねねねね……！
 Japanese,scene_fate_chr344_ep1,detail,イオ,ふ、ふん！<br>あんなの子供だましじゃない！<br>ぜ、全然、怖くなんか……！
@@ -26,12 +26,12 @@ Japanese,scene_fate_chr344_ep1,detail,？？？,古より受け継がれし伝�
 Japanese,scene_fate_chr344_ep1,detail,？？？,もっとも未来を見通す力を持つのは<br>人のうち、ごく限られた者に<br>すぎません。
 Japanese,scene_fate_chr344_ep1,detail,？？？,そして、僅かに断片を知りえたとしても<br>人の一生では、その全容に迫ることなど<br>とてもできはしない……
 Japanese,scene_fate_chr344_ep1,detail,？？？,そのはずでした。これまでは……
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>劇場の暗闇から現れた青年は、</span><br><span class='scene-font-katari'>ゆっくりと、[ジータ]に</span><br><span class='scene-font-katari'>歩み寄った。</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>劇場の暗闇から現れた青年は、</span><br><span class='scene-font-katari'>ゆっくりと、[플레이어]に</span><br><span class='scene-font-katari'>歩み寄った。</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,かつて、これほど核心に迫った物語が<br>作られたためしはない……
 Japanese,scene_fate_chr344_ep1,detail,？？？,この世界が生まれて、それだけの時が<br>流れたということでしょう。
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>憂いを帯びた顔で、青年は</span><br><span class='scene-font-katari'>[ジータ]に手を差し伸べる――</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>憂いを帯びた顔で、青年は</span><br><span class='scene-font-katari'>[플레이어]に手を差し伸べる――</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,この世界に、危機が迫っている……
-Japanese,scene_fate_chr344_ep1,detail,？？？,君が望むなら、<br>私は、世界の真実を教えよう……<br>[ジータ]。
+Japanese,scene_fate_chr344_ep1,detail,？？？,君が望むなら、<br>私は、世界の真実を教えよう……<br>[플레이어]。
 Japanese,scene_fate_chr344_ep1,detail,劇場の客,…………
 Japanese,scene_fate_chr344_ep1,detail,観劇に来た令嬢,…………
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>人であふれるロビーに、静寂が落ちた。</span>
@@ -48,7 +48,7 @@ Japanese,scene_fate_chr344_ep1,detail,観劇に来た令嬢,いいえ、どう�
 Japanese,scene_fate_chr344_ep1,detail,観劇に来た令嬢,そんなもの押し付けようなんて<br>厚かましい方ですこと……！
 Japanese,scene_fate_chr344_ep1,detail,観劇に来た娘,<span class='scene-font-4'>なんですって……！？</span>
 Japanese,scene_fate_chr344_ep1,detail,ビィ,うわぁ……<br>あっちこっちで、<br>つかみ合いが起こってるぜ……
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>あっという間に、青年を中心に</span><br><span class='scene-font-katari'>人々は争い始めた。呆然と見守る</span><br><span class='scene-font-katari'>[ジータ]達。しかし……</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>あっという間に、青年を中心に</span><br><span class='scene-font-katari'>人々は争い始めた。呆然と見守る</span><br><span class='scene-font-katari'>[플레이어]達。しかし……</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,<span class='scene-font-4'>――おやめください！</span>
 Japanese,scene_fate_chr344_ep1,detail,ビィ,お、おい、兄ちゃん、<br>まさか、みんなを止める気かぁ？
 Japanese,scene_fate_chr344_ep1,detail,ラカム,いや、聞くわけねぇだろ。<br>ありゃ全員、完全に<br>頭に血が上っちまってんぞ……
@@ -78,39 +78,39 @@ Japanese,scene_fate_chr344_ep1,detail,イオ,あ、ちょっと、<br>置いて�
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>その時、群衆の中から</span><br><span class='scene-font-katari'>ハッキリと、あの青年の声が</span><br><span class='scene-font-katari'>聞こえた。</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,<span class='scene-font-4'>――待つんだ！</span><br>君たちは、知らなければならない……！
 Japanese,scene_fate_chr344_ep1,detail,？？？,『赤き地平』の真実について……！
-Japanese,scene_fate_chr344_ep1,detail,ビィ,ん？ どうしたんだよ、<br>[ジータ]？
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>その言葉に、</span><br><span class='scene-font-katari'>思わず振り返った[ジータ]。</span><br><span class='scene-font-katari'>しかし……</span>
+Japanese,scene_fate_chr344_ep1,detail,ビィ,ん？ どうしたんだよ、<br>[플레이어]？
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>その言葉に、</span><br><span class='scene-font-katari'>思わず振り返った[플레이어]。</span><br><span class='scene-font-katari'>しかし……</span>
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>駆けつけた劇場の用心棒たちが</span><br><span class='scene-font-katari'>群衆を取り囲み、彼の姿は</span><br><span class='scene-font-katari'>見えなくなっていた……</span>
-Japanese,scene_fate_chr344_ep1,detail,ビィ,なぁ、[ジータ]。<br>オイラ、ずっと<br>気になってたんだけどよ……
-Japanese,scene_fate_chr344_ep1,detail,ビィ,あのキラキラした兄ちゃん、<br>なんで[ジータ]の名前、<br>知ってたんだろうな？
+Japanese,scene_fate_chr344_ep1,detail,ビィ,なぁ、[플레이어]。<br>オイラ、ずっと<br>気になってたんだけどよ……
+Japanese,scene_fate_chr344_ep1,detail,ビィ,あのキラキラした兄ちゃん、<br>なんで[플레이어]の名前、<br>知ってたんだろうな？
 Japanese,scene_fate_chr344_ep1,detail,ルリア,あ！<br>そう言えば、<br>確かにそうですね……！
 Japanese,scene_fate_chr344_ep1,detail,ラカム,そこは、別に意外でもねぇだろ。
 Japanese,scene_fate_chr344_ep1,detail,ラカム,帝国とのいざこざで、<br>俺たちの騎空団は、そこそこ名が<br>知れてきてんだ。
-Japanese,scene_fate_chr344_ep1,detail,ラカム,団長の[ジータ]の名ぐれぇ<br>そこらの連中が知ってても<br>おかしくはねぇ、が……
-Japanese,scene_fate_chr344_ep1,detail,ビィ,ああ、問題は、<br>なんで[ジータ]に<br>近づいてきたかってことだぜ！
+Japanese,scene_fate_chr344_ep1,detail,ラカム,団長の[플레이어]の名ぐれぇ<br>そこらの連中が知ってても<br>おかしくはねぇ、が……
+Japanese,scene_fate_chr344_ep1,detail,ビィ,ああ、問題は、<br>なんで[플레이어]に<br>近づいてきたかってことだぜ！
 Japanese,scene_fate_chr344_ep1,detail,ビィ,さっきは結局、話の途中で、<br>ああいうことになっちまったしなぁ……
 Japanese,scene_fate_chr344_ep1,detail,イオ,ねぇ、あの人、ホントは<br>何を言いたかったのかなぁ？
 Japanese,scene_fate_chr344_ep1,detail,イオ,もしかして、すっごく<br>大事なことだったんじゃない？
-Japanese,scene_fate_chr344_ep1,detail,ラカム,ああ、そうだな。ひょっとして<br>[ジータ]の騎空団に<br>入れてくれって、言いたかったとか？
+Japanese,scene_fate_chr344_ep1,detail,ラカム,ああ、そうだな。ひょっとして<br>[플레이어]の騎空団に<br>入れてくれって、言いたかったとか？
 Japanese,scene_fate_chr344_ep1,detail,？？？,なるほど……<br>それは悪くない考えだ……！
 Japanese,scene_fate_chr344_ep1,detail,ビィ,うわっ！？<br>な、なんで、キラキラ兄ちゃんが<br>ここにいるんだよ……！？
 Japanese,scene_fate_chr344_ep1,detail,？？？,なんで、と申されましても……<br>ああ、理由、ですか？
-Japanese,scene_fate_chr344_ep1,detail,？？？,[ジータ]に、<br>先程の話の続きを、と……
+Japanese,scene_fate_chr344_ep1,detail,？？？,[플레이어]に、<br>先程の話の続きを、と……
 Japanese,scene_fate_chr344_ep1,detail,ラカム,俺たちは、どうやって入ったのかって<br>聞いてんだよ！
 Japanese,scene_fate_chr344_ep1,detail,ラカム,てめぇ、そこ動くなよ……！
 Japanese,scene_fate_chr344_ep1,detail,ラカム,あの騒ぎの後で、なんで平然と<br>ここにいやがる……？<br>てめぇ、何者だ？ 答えろ！
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>わずかな沈黙の後、</span><br><span class='scene-font-katari'>青年は、大きなため息をついた。</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,……まさか、君と話をすることが<br>こんなに大変だとは、<br>思いもしなかった……
 Japanese,scene_fate_chr344_ep1,detail,ラカム,あぁ！？ 何を言っ……
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>青年の呟きと同時に、</span><br><span class='scene-font-katari'>[ジータ]の視界が</span><br><span class='scene-font-katari'>ぐにゃりとゆがむ。</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>青年の呟きと同時に、</span><br><span class='scene-font-katari'>[플레이어]の視界が</span><br><span class='scene-font-katari'>ぐにゃりとゆがむ。</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,――心配は要らない。<br>これから、君が見るのは<br>私の記憶……
 Japanese,scene_fate_chr344_ep1,detail,？？？,そう、<br>世界の始まりの光景だ……
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>急激に遠ざかった意識が戻ってくる……</span><br><span class='scene-font-katari'>ゆっくりと、[ジータ]は</span><br><span class='scene-font-katari'>目を開けた。</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>急激に遠ざかった意識が戻ってくる……</span><br><span class='scene-font-katari'>ゆっくりと、[플레이어]は</span><br><span class='scene-font-katari'>目を開けた。</span>
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>そこは、雲海に包まれた世界だった……</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,『かつて、そこには無だけがあった。』
 Japanese,scene_fate_chr344_ep1,detail,？？？,『数えようもない時が流れた頃、<br>力ある者が飛来した。』
 Japanese,scene_fate_chr344_ep1,detail,？？？,そして、力ある者の<br>創造せし大地には、数多の生命が<br>あふれた……
-Japanese,scene_fate_chr344_ep1,detail,？？？,これは、世界が生まれた日の夜明けだ。<br>[ジータ]。
+Japanese,scene_fate_chr344_ep1,detail,？？？,これは、世界が生まれた日の夜明けだ。<br>[플레이어]。
 Japanese,scene_fate_chr344_ep1,detail,？？？,すべてが、まだひとつであった、<br>幸せな時代……
 Japanese,scene_fate_chr344_ep1,detail,？？？,しかし、神がその身を引き裂き<br>半身が、この世界を飛び去ったとき、<br>空の底に『赤き地平』が口を開ける……
 Japanese,scene_fate_chr344_ep1,detail,？？？,『赤き地平』――それは、<br>あらゆる混沌が住まう次元。
@@ -124,35 +124,35 @@ Japanese,scene_fate_chr344_ep1,detail,？？？,――――
 Japanese,scene_fate_chr344_ep1,detail,？？？,――そうして、長い長い歳月を<br>赤き地平と空の狭間で過ごし……
 Japanese,scene_fate_chr344_ep1,detail,？？？,力を蓄えた彼らは、ついに<br>パンデモニウムを伝い、空の世界へと<br>あふれ出ようとしている。
 Japanese,scene_fate_chr344_ep1,detail,？？？,私が、この世界に降り立ったのは<br>このことを、君に告げるため……
-Japanese,scene_fate_chr344_ep1,detail,？？？,彼らと戦うため、<br>どうか、君の力を貸してほしい、<br>[ジータ]。
+Japanese,scene_fate_chr344_ep1,detail,？？？,彼らと戦うため、<br>どうか、君の力を貸してほしい、<br>[플레이어]。
 Japanese,scene_fate_chr344_ep1,sel1_txt,,<span class='scene-font-katari'>わかった。力を貸そう</span>
 Japanese,scene_fate_chr344_ep1,sel2_txt,,<span class='scene-font-katari'>君は、何者だ……？</span>
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>彼の話にも、その力にも</span><br><span class='scene-font-katari'>あまりに謎は多すぎた――</span>
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>しかし何故か、彼の</span><br><span class='scene-font-katari'>告げたことはすべて真実だと</span><br><span class='scene-font-katari'>[ジータ]には、理解できた。</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>しかし何故か、彼の</span><br><span class='scene-font-katari'>告げたことはすべて真実だと</span><br><span class='scene-font-katari'>[플레이어]には、理解できた。</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,私の正体が、気になるか。<br>だが、今は、まだ明かす時ではない……
 Japanese,scene_fate_chr344_ep1,detail,？？？,それにたとえ、告げたとしても<br>今の君では、それを記憶に留めることは<br>できないだろう……
 Japanese,scene_fate_chr344_ep1,detail,？？？,いつか君が空を超え、星の海へ<br>たどり着く……２つの世界を<br>超えていく存在になった、その時――
 Japanese,scene_fate_chr344_ep1,detail,？？？,私は君に、本当の名を伝えよう。
 Japanese,scene_fate_chr344_ep1,detail,？？？,それでは、<br>答えにならないだろうか……？
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>彼の話にも、その力にも</span><br><span class='scene-font-katari'>あまりに謎は多すぎた――</span>
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>しかし何故か、彼の</span><br><span class='scene-font-katari'>告げたことはすべて真実だと</span><br><span class='scene-font-katari'>[ジータ]には、理解できた。</span>
-Japanese,scene_fate_chr344_ep1,detail,？？？,そうか……ありがとう、<br>[ジータ]。<br>私を信じてくれて……
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>しかし何故か、彼の</span><br><span class='scene-font-katari'>告げたことはすべて真実だと</span><br><span class='scene-font-katari'>[플레이어]には、理解できた。</span>
+Japanese,scene_fate_chr344_ep1,detail,？？？,そうか……ありがとう、<br>[플레이어]。<br>私を信じてくれて……
 Japanese,scene_fate_chr344_ep1,detail,？？？,彼ら、幽世の住人が動き出すのは、<br>もう少し、先の未来となるだろう……
 Japanese,scene_fate_chr344_ep1,detail,？？？,だが、それまで、私が人の世について<br>知らなければならないことは、<br>まだ多くあるようだ……
-Japanese,scene_fate_chr344_ep1,detail,？？？,しばらく、<br>君の騎空団に入れてくれ、<br>[ジータ]……
+Japanese,scene_fate_chr344_ep1,detail,？？？,しばらく、<br>君の騎空団に入れてくれ、<br>[플레이어]……
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>目を開けると、そこは</span><br><span class='scene-font-katari'>グランサイファーの甲板だった。</span>
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>先ほどの一幕など、なかったかのように</span><br><span class='scene-font-katari'>青年は、ラカム達と談笑している……</span>
-Japanese,scene_fate_chr344_ep1,detail,？？？,――[ジータ]のご好意で、<br>これから、お世話になります。
+Japanese,scene_fate_chr344_ep1,detail,？？？,――[플레이어]のご好意で、<br>これから、お世話になります。
 Japanese,scene_fate_chr344_ep1,detail,ラカム,ああ！ 宜しくな！
 Japanese,scene_fate_chr344_ep1,detail,イオ,ふふ～ん、元役者が団員になるなんて<br>うちも、豪華な顔ぶれになってきた<br>じゃない！
-Japanese,scene_fate_chr344_ep1,detail,ビィ,……ん？ どしたんだよ、<br>[ジータ]？ 変な顔して。
+Japanese,scene_fate_chr344_ep1,detail,ビィ,……ん？ どしたんだよ、<br>[플레이어]？ 変な顔して。
 Japanese,scene_fate_chr344_ep1,detail,ビィ,なんか、気になることでも<br>あんのかぁ？
-Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>これから君のことを、何と呼べばいい？</span><br><span class='scene-font-katari'>と、[ジータ]は、</span><br><span class='scene-font-katari'>『彼』に尋ねた。</span>
+Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>これから君のことを、何と呼べばいい？</span><br><span class='scene-font-katari'>と、[플레이어]は、</span><br><span class='scene-font-katari'>『彼』に尋ねた。</span>
 Japanese,scene_fate_chr344_ep1,detail,？？？,ああ、これは申し遅れました。<br>私のことは、そう……
 Japanese,scene_fate_chr344_ep1,detail,ルシオ,ルシオ、と。<br>そうお呼びください……
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>『人を知り、この世界をもっと、よく</span><br><span class='scene-font-katari'>知る』ため、騎空団に加わった</span><br><span class='scene-font-katari'>『元役者』ルシオ。</span>
 Japanese,scene_fate_chr344_ep1,detail,,<span class='scene-font-katari'>闇の中にいてさえ、光を放つような</span><br><span class='scene-font-katari'>彼の正体は、まだ謎に包まれている――</span>
-Japanese,scene_chr344_q1_s10,synopsis,,[ジータ]は夢の中で、雲海に包まれた夜明けの中にいた。夢の中で、ルシオは謎めいた声の主から「この世界を照らす光となれ」との命を受ける。これはルシオの記憶なのかと気付いた[ジータ]に、ルシオが告げる。「ついに幽世の者たちが動き出した……から目を離すな……」しかし、肝心の部分が聞き取れないまま、魔物の襲撃のために、夢は中断されてしまうのだった。
+Japanese,scene_chr344_q1_s10,synopsis,,[플레이어]は夢の中で、雲海に包まれた夜明けの中にいた。夢の中で、ルシオは謎めいた声の主から「この世界を照らす光となれ」との命を受ける。これはルシオの記憶なのかと気付いた[플레이어]に、ルシオが告げる。「ついに幽世の者たちが動き出した……から目を離すな……」しかし、肝心の部分が聞き取れないまま、魔物の襲撃のために、夢は中断されてしまうのだった。
 Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>それは、かつて見た景色。</span><br><span class='scene-font-katari'>世界が産声をあげた、</span><br><span class='scene-font-katari'>夜明けの光景だった……</span>
 Japanese,scene_chr344_q1_s10,detail,ルシオ,――主よ、ご下命を。<br>私は、何をすればよいのです？
 Japanese,scene_chr344_q1_s10,detail,ルシオ,お与えくださった、この命で<br>私に、何を為せとお望みなのです……？
@@ -170,21 +170,21 @@ Japanese,scene_chr344_q1_s10,detail,？？？,あるはずもない……！<br>
 Japanese,scene_chr344_q1_s10,detail,？？？,<span class='scene-font-4'>ギャアアア……！</span>
 Japanese,scene_chr344_q1_s10,detail,ルシオ,去れ……！
 Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>――ああ、これは『彼』の記憶だ。</span><br><span class='scene-font-katari'>以前と同じ……</span>
-Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>そう、[ジータ]が思った時。</span><br><span class='scene-font-katari'>突然、『彼』は</span><br><span class='scene-font-katari'>呼びかけてきた――</span>
-Japanese,scene_chr344_q1_s10,detail,ルシオ,[ジータ]。<br>『幽世』の者たちが動き出した……<br>どうか、くれぐれも……
+Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>そう、[플레이어]が思った時。</span><br><span class='scene-font-katari'>突然、『彼』は</span><br><span class='scene-font-katari'>呼びかけてきた――</span>
+Japanese,scene_chr344_q1_s10,detail,ルシオ,[플레이어]。<br>『幽世』の者たちが動き出した……<br>どうか、くれぐれも……
 Japanese,scene_chr344_q1_s10,detail,ルシオ,……から、目を離さぬよう……
-Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>……え？ </span><br><span class='scene-font-katari'>[ジータ]は、聞き返す……</span>
+Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>……え？ </span><br><span class='scene-font-katari'>[플레이어]は、聞き返す……</span>
 Japanese,scene_chr344_q1_s10,detail,ルシオ,……から、目を離さぬよう……
 Japanese,scene_chr344_q1_s10,detail,,<span class='scene-font-katari'>…………え？</span>
 Japanese,scene_chr344_q1_s10,detail,ルシオ,……すまない、もう時間が……
-Japanese,scene_chr344_q1_s10,detail,ビィ,ウッヒャアア……！<br>お、起きろ、[ジータ]……！
+Japanese,scene_chr344_q1_s10,detail,ビィ,ウッヒャアア……！<br>お、起きろ、[플레이어]……！
 Japanese,scene_chr344_q1_s10,detail,ビィ,どうやら、グランサイファーが<br>魔物に、襲われてるみたいだぜぇ……！
-English,scene_fate_chr344_ep1,synopsis,,"At a theater a young man calls out to [Djeeta] and claims to know the truth about the Crimson Horizon legend, but his handsome features get him tangled up in a fight. The young man later finds [Djeeta] on the Grandcypher, and through a memory explaining his goal to defend this world from the beasts of the Crimson Horizon, he convinces [Djeeta] to let him join the crew. He asks to be called Lucio, but will reveal nothing more about his true identity."
+English,scene_fate_chr344_ep1,synopsis,,"At a theater a young man calls out to [플레이어] and claims to know the truth about the Crimson Horizon legend, but his handsome features get him tangled up in a fight. The young man later finds [플레이어] on the Grandcypher, and through a memory explaining his goal to defend this world from the beasts of the Crimson Horizon, he convinces [플레이어] to let him join the crew. He asks to be called Lucio, but will reveal nothing more about his true identity."
 English,scene_fate_chr344_ep1,detail,Performer,Ladies and gentlemen!<br>Silence please!
 English,scene_fate_chr344_ep1,detail,Performer,"Thank you for joining us tonight to witness the reenactment of a bloodcurdling, yet true, tale."
 English,scene_fate_chr344_ep1,detail,Performer,The story of the bottom of the sky...<br>The Crimson Horizon!
 English,scene_fate_chr344_ep1,detail,Performer,Are you ready? Then I challenge you to watch until the very end without once covering your eyes!
-English,scene_fate_chr344_ep1,detail,,"Having heard excellent reviews, [Djeeta] and the crew visit a theater to watch a stage performance."
+English,scene_fate_chr344_ep1,detail,,"Having heard excellent reviews, [플레이어] and the crew visit a theater to watch a stage performance."
 English,scene_fate_chr344_ep1,detail,,The play is a terrifying tale based on the legend of the bottom of the sky.
 English,scene_fate_chr344_ep1,detail,Lyria,Oh w-w-wow! That p-p-play was amazing!
 English,scene_fate_chr344_ep1,detail,Io,Humph! That show was for babies! I w-w-wasn't scared at all!
@@ -206,12 +206,12 @@ English,scene_fate_chr344_ep1,detail,???,The legends of old have always been bas
 English,scene_fate_chr344_ep1,detail,???,It's simply that few people possess the power to peer into the mysteries of the future.
 English,scene_fate_chr344_ep1,detail,???,"Their lifetimes are mere fragments of the grand tapestry, which lies beyond mortal comprehension."
 English,scene_fate_chr344_ep1,detail,???,So it is. And so it has been.
-English,scene_fate_chr344_ep1,detail,,"From the shadows of the theater, a young man walks slowly up to [Djeeta]."
+English,scene_fate_chr344_ep1,detail,,"From the shadows of the theater, a young man walks slowly up to [플레이어]."
 English,scene_fate_chr344_ep1,detail,???,"In days gone by, a tale of such gravity would never have been made up."
 English,scene_fate_chr344_ep1,detail,???,Such is the vast span of time that has passed since the beginning of the world.
-English,scene_fate_chr344_ep1,detail,,"With sorrow in his eyes, the young man extends his hand toward [Djeeta]."
+English,scene_fate_chr344_ep1,detail,,"With sorrow in his eyes, the young man extends his hand toward [플레이어]."
 English,scene_fate_chr344_ep1,detail,???,A great crisis is facing us all.
-English,scene_fate_chr344_ep1,detail,???,"If you wish, I will tell you the truth about this world... [Djeeta]."
+English,scene_fate_chr344_ep1,detail,???,"If you wish, I will tell you the truth about this world... [플레이어]."
 English,scene_fate_chr344_ep1,detail,Theatergoer,...
 English,scene_fate_chr344_ep1,detail,Rich Lady,...
 English,scene_fate_chr344_ep1,detail,,A hush falls over the throng of people in the lobby.
@@ -228,7 +228,7 @@ English,scene_fate_chr344_ep1,detail,Rich Lady,"No, no, you must take this piece
 English,scene_fate_chr344_ep1,detail,Rich Lady,That silly girl must be out of her mind offering you a flower like that!
 English,scene_fate_chr344_ep1,detail,Young Lady,What did you say?
 English,scene_fate_chr344_ep1,detail,Vyrn,"Oh boy, they're coming at him from all sides!"
-English,scene_fate_chr344_ep1,detail,,"In a flash, a huge argument breaks out around the young man. [Djeeta] and the crew can only watch in silent awe."
+English,scene_fate_chr344_ep1,detail,,"In a flash, a huge argument breaks out around the young man. [플레이어] and the crew can only watch in silent awe."
 English,scene_fate_chr344_ep1,detail,???,Stop! Please!
 English,scene_fate_chr344_ep1,detail,Vyrn,Whoa! Don't tell me this guy is going to stop these folks all at once!
 English,scene_fate_chr344_ep1,detail,Rackam,"Yeah, they're all fired up. They're not even listening now."
@@ -258,39 +258,39 @@ English,scene_fate_chr344_ep1,detail,Io,Oh! Wait for me! Hey!
 English,scene_fate_chr344_ep1,detail,,"At that moment, the young man's voice can be heard clearly above the din of the crowd."
 English,scene_fate_chr344_ep1,detail,???,Wait! There's something you have to know!
 English,scene_fate_chr344_ep1,detail,???,I must tell you the truth about the Crimson Horizon!
-English,scene_fate_chr344_ep1,detail,Vyrn,"Huh? What's the matter, [Djeeta]?"
-English,scene_fate_chr344_ep1,detail,,[Djeeta] turns to look back at the young man.
+English,scene_fate_chr344_ep1,detail,Vyrn,"Huh? What's the matter, [플레이어]?"
+English,scene_fate_chr344_ep1,detail,,[플레이어] turns to look back at the young man.
 English,scene_fate_chr344_ep1,detail,,But the theater's security arrives and surrounds the brawling crowd. The young man vanishes from sight.
-English,scene_fate_chr344_ep1,detail,Vyrn,"Hey, [Djeeta], you know what? Something keeps bothering me..."
+English,scene_fate_chr344_ep1,detail,Vyrn,"Hey, [플레이어], you know what? Something keeps bothering me..."
 English,scene_fate_chr344_ep1,detail,Vyrn,How come that guy Spangles knew your name?
 English,scene_fate_chr344_ep1,detail,Lyria,"Gosh, you're right! That's sort of strange."
 English,scene_fate_chr344_ep1,detail,Rackam,"Come on, it's not such a stretch."
 English,scene_fate_chr344_ep1,detail,Rackam,"After all our struggles with the empire, we're a pretty well-known crew now."
 English,scene_fate_chr344_ep1,detail,Rackam,It's not too hard to imagine that some people might know our captain by name.
-English,scene_fate_chr344_ep1,detail,Vyrn,Maybe... But it's still weird the way he walked up to [Djeeta] like that.
+English,scene_fate_chr344_ep1,detail,Vyrn,Maybe... But it's still weird the way he walked up to [플레이어] like that.
 English,scene_fate_chr344_ep1,detail,Vyrn,And then the bickering started before he had a chance to finish what he was saying.
-English,scene_fate_chr344_ep1,detail,Io,"I wonder what he was trying to tell you, [Djeeta]..."
+English,scene_fate_chr344_ep1,detail,Io,"I wonder what he was trying to tell you, [플레이어]..."
 English,scene_fate_chr344_ep1,detail,Io,Maybe it was something super important.
 English,scene_fate_chr344_ep1,detail,Rackam,"Yeah. Maybe something like asking to join our crew, right?"
 English,scene_fate_chr344_ep1,detail,???,"Indeed, that's an interesting idea!"
 English,scene_fate_chr344_ep1,detail,Vyrn,"Huh? It's you! What are you doing here, Spangles?"
 English,scene_fate_chr344_ep1,detail,???,"What am I doing here? You mean, why have I come?"
-English,scene_fate_chr344_ep1,detail,???,"To finish giving [Djeeta] my message, of course."
+English,scene_fate_chr344_ep1,detail,???,"To finish giving [플레이어] my message, of course."
 English,scene_fate_chr344_ep1,detail,Rackam,"No, we mean how the heck did you get here!"
 English,scene_fate_chr344_ep1,detail,Rackam,"You just stay right where you are, buddy!"
 English,scene_fate_chr344_ep1,detail,Rackam,"What makes you think you can just breeze in after all that craziness before, huh? Just who are you anyway? Answer me!"
 English,scene_fate_chr344_ep1,detail,,"After a brief pause, the young man lets out a heavy sigh."
-English,scene_fate_chr344_ep1,detail,???,"I didn't expect it would be so hard to get to talk to you, [Djeeta]..."
+English,scene_fate_chr344_ep1,detail,???,"I didn't expect it would be so hard to get to talk to you, [플레이어]..."
 English,scene_fate_chr344_ep1,detail,Rackam,Hey! What'd you say?
-English,scene_fate_chr344_ep1,detail,,"The young man murmurs, and the world starts to warp strangely before [Djeeta]'s eyes."
+English,scene_fate_chr344_ep1,detail,,"The young man murmurs, and the world starts to warp strangely before [플레이어]'s eyes."
 English,scene_fate_chr344_ep1,detail,???,There's no cause for alarm. What you are about to see is a scene from my memory...
 English,scene_fate_chr344_ep1,detail,???,Of how the world looked at the very start.
-English,scene_fate_chr344_ep1,detail,,[Djeeta]'s eyes flutter open.
+English,scene_fate_chr344_ep1,detail,,[플레이어]'s eyes flutter open.
 English,scene_fate_chr344_ep1,detail,,A sea of clouds covers the world.
 English,scene_fate_chr344_ep1,detail,???,In the beginning there was only the void.
 English,scene_fate_chr344_ep1,detail,???,"But after an immeasurable amount of time, a being of great power arrived."
 English,scene_fate_chr344_ep1,detail,???,And life blossomed on the land that this great being created.
-English,scene_fate_chr344_ep1,detail,???,"This, [Djeeta], was the dawn of the world."
+English,scene_fate_chr344_ep1,detail,???,"This, [플레이어], was the dawn of the world."
 English,scene_fate_chr344_ep1,detail,???,It was yet undivided. And there was an era of great happiness.
 English,scene_fate_chr344_ep1,detail,???,"But then the gods rent the great being in two. One half fled this world, and at the bottom of the sky the Crimson Horizon was cast open."
 English,scene_fate_chr344_ep1,detail,???,The Crimson Horizon.<br>Another plane. The source of chaos in all its many forms.
@@ -304,35 +304,35 @@ English,scene_fate_chr344_ep1,detail,???,...!
 English,scene_fate_chr344_ep1,detail,???,And after ages of imprisonment in the Crimson Horizon on the edge of this rift in the sky...
 English,scene_fate_chr344_ep1,detail,???,"They're trying to spill out of Pandemonium into the Sky Realm, having amassed unimaginable power."
 English,scene_fate_chr344_ep1,detail,???,That is why I've come to this world. To give you this message.
-English,scene_fate_chr344_ep1,detail,???,"Will you help me, [Djeeta]? Will you lend your strength to the battle against these terrible fiends?"
+English,scene_fate_chr344_ep1,detail,???,"Will you help me, [플레이어]? Will you lend your strength to the battle against these terrible fiends?"
 English,scene_fate_chr344_ep1,sel1_txt,,All right. I'll do all I can.
 English,scene_fate_chr344_ep1,sel2_txt,,Just what are you exactly?
 English,scene_fate_chr344_ep1,detail,,His tale is full of unanswered questions and powers unthinkable...
-English,scene_fate_chr344_ep1,detail,,"But [Djeeta] knows deep down inside that it's the truth, and there's no avoiding the fight ahead."
+English,scene_fate_chr344_ep1,detail,,"But [플레이어] knows deep down inside that it's the truth, and there's no avoiding the fight ahead."
 English,scene_fate_chr344_ep1,detail,???,"You want to know more about me, do you? I'm afraid the time is not yet right..."
 English,scene_fate_chr344_ep1,detail,???,"Even if I were to tell you now, it would slip from your memory without a trace."
 English,scene_fate_chr344_ep1,detail,???,One day when you've surpassed the skies... When you've ventured beyond the stars...
 English,scene_fate_chr344_ep1,detail,???,Then I will tell you my real name.
 English,scene_fate_chr344_ep1,detail,???,Will you accept this answer for now?
 English,scene_fate_chr344_ep1,detail,,His tale is full of unanswered questions and powers unthinkable...
-English,scene_fate_chr344_ep1,detail,,"But [Djeeta] knows deep down inside that it's the truth, and there's no avoiding the fight ahead."
-English,scene_fate_chr344_ep1,detail,???,"Thank you, [Djeeta]. For believing in me..."
+English,scene_fate_chr344_ep1,detail,,"But [플레이어] knows deep down inside that it's the truth, and there's no avoiding the fight ahead."
+English,scene_fate_chr344_ep1,detail,???,"Thank you, [플레이어]. For believing in me..."
 English,scene_fate_chr344_ep1,detail,???,It is still some time into the future that these otherworldly beings will make their move.
 English,scene_fate_chr344_ep1,detail,???,But there is much I must learn about your world before that time comes.
-English,scene_fate_chr344_ep1,detail,???,"So please, [Djeeta], allow me to join your crew of skyfarers."
-English,scene_fate_chr344_ep1,detail,,[Djeeta] blinks and looks around to see the deck of the Grandcypher.
+English,scene_fate_chr344_ep1,detail,???,"So please, [플레이어], allow me to join your crew of skyfarers."
+English,scene_fate_chr344_ep1,detail,,[플레이어] blinks and looks around to see the deck of the Grandcypher.
 English,scene_fate_chr344_ep1,detail,,"The young man is laughing and chatting with Rackam and the others, as if none of the visions were real."
-English,scene_fate_chr344_ep1,detail,???,"Well, thanks to [Djeeta]'s magnanimous nature, I'm delighted to be able to say that I'll be joining you."
+English,scene_fate_chr344_ep1,detail,???,"Well, thanks to [플레이어]'s magnanimous nature, I'm delighted to be able to say that I'll be joining you."
 English,scene_fate_chr344_ep1,detail,Rackam,"Sure! Welcome aboard, my friend!"
 English,scene_fate_chr344_ep1,detail,Io,"With a former actor joining the ranks, we've gotten a pretty flashy lineup now, huh?"
-English,scene_fate_chr344_ep1,detail,Vyrn,"Hey. What's wrong, [Djeeta]? You look confused."
+English,scene_fate_chr344_ep1,detail,Vyrn,"Hey. What's wrong, [플레이어]? You look confused."
 English,scene_fate_chr344_ep1,detail,Vyrn,Something bothering you?
-English,scene_fate_chr344_ep1,detail,,[Djeeta] asks the young man what they should call him now that he's a member of the crew.
+English,scene_fate_chr344_ep1,detail,,[플레이어] asks the young man what they should call him now that he's a member of the crew.
 English,scene_fate_chr344_ep1,detail,???,"Ah, yes... I should have introduced myself properly before."
 English,scene_fate_chr344_ep1,detail,Lucio,Please call me... Lucio.
 English,scene_fate_chr344_ep1,detail,,"And so Lucio, a former actor perhaps, joins the crew to better understand people and learn about the world in turn..."
 English,scene_fate_chr344_ep1,detail,,"Radiating brilliance yet shrouded in mystery, like a faraway star in the night sky."
-English,scene_chr344_q1_s10,synopsis,,Inside a dream [Djeeta] visits another one of Lucio's memories and is warned that otherworldly beings have come to this world. Vyrn wakes [Djeeta] to say that monsters are attacking the Grandcypher.
+English,scene_chr344_q1_s10,synopsis,,Inside a dream [플레이어] visits another one of Lucio's memories and is warned that otherworldly beings have come to this world. Vyrn wakes [플레이어] to say that monsters are attacking the Grandcypher.
 English,scene_chr344_q1_s10,detail,,"The dawn of the world.<br>Even in its infancy, the landscape is wondrous, stretching out as far as the eye can see."
 English,scene_chr344_q1_s10,detail,Lucio,"Master, I await your command. What am I to do?"
 English,scene_chr344_q1_s10,detail,Lucio,For what reasons have you bestowed me with life?
@@ -350,12 +350,12 @@ English,scene_chr344_q1_s10,detail,???,Of course you haven't! Your master abando
 English,scene_chr344_q1_s10,detail,???,Aaagh!
 English,scene_chr344_q1_s10,detail,Lucio,Begone!
 English,scene_chr344_q1_s10,detail,,"A scene from the young man's memory plays out, just as it did once before."
-English,scene_chr344_q1_s10,detail,,"As [Djeeta] realizes what's happening, the young man begins to speak."
-English,scene_chr344_q1_s10,detail,Lucio,"[Djeeta], they've come. The otherworldly beings are here..."
+English,scene_chr344_q1_s10,detail,,"As [플레이어] realizes what's happening, the young man begins to speak."
+English,scene_chr344_q1_s10,detail,Lucio,"[플레이어], they've come. The otherworldly beings are here..."
 English,scene_chr344_q1_s10,detail,Lucio,Don't let... out of your sight...
-English,scene_chr344_q1_s10,detail,,"Unable to hear the message, [Djeeta] calls out."
+English,scene_chr344_q1_s10,detail,,"Unable to hear the message, [플레이어] calls out."
 English,scene_chr344_q1_s10,detail,Lucio,Don't let... out of your sight...
 English,scene_chr344_q1_s10,detail,,<span class='scene-font-italic'>I can't hear you...</span>
 English,scene_chr344_q1_s10,detail,Lucio,I'm sorry. There's no time left...
-English,scene_chr344_q1_s10,detail,Vyrn,"Whoa!<br>Wake up, [Djeeta]!"
+English,scene_chr344_q1_s10,detail,Vyrn,"Whoa!<br>Wake up, [플레이어]!"
 English,scene_chr344_q1_s10,detail,Vyrn,The Grandcypher's under attack and crawling with monsters!

@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp40_q1_s10,4011",synopsis,,ルリアの感覚を頼りに、[ジータ]らはとある朽ちかけた神殿へと辿り着いた。神殿の奥に潜む強大な力の気配に、かつてない死闘を予感する[ジータ]達。そしてそれぞれの思いを胸に、一行は神殿に踏み込むのであった。
-Japanese,"scene_cp40_q1_s10,4011",detail,,<span class='scene-font-katari'>ルリアの感じる力を辿り、</span><br><span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>とある朽ちかけた神殿にたどり着く。</span>
+Japanese,"scene_cp40_q1_s10,4011",synopsis,,ルリアの感覚を頼りに、[플레이어]らはとある朽ちかけた神殿へと辿り着いた。神殿の奥に潜む強大な力の気配に、かつてない死闘を予感する[플레이어]達。そしてそれぞれの思いを胸に、一行は神殿に踏み込むのであった。
+Japanese,"scene_cp40_q1_s10,4011",detail,,<span class='scene-font-katari'>ルリアの感じる力を辿り、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>とある朽ちかけた神殿にたどり着く。</span>
 Japanese,"scene_cp40_q1_s10,4011",detail,비이,こ、ここで間違いないんだよな？<br>ルリア……
 Japanese,"scene_cp40_q1_s10,4011",detail,루리아,はい……<br>この奥から強い力が……ん？
 Japanese,"scene_cp40_q1_s10,4011",detail,루리아,一つ……じゃない。<br>もう一つ……？<br>けど、何か変……
@@ -10,20 +10,20 @@ Japanese,"scene_cp40_q1_s10,4011",detail,이오,そ、そうよね！<br>ね？ 
 Japanese,"scene_cp40_q1_s10,4011",detail,로제타,ふふ……そうね。<br>イオちゃん、<br>そんな不安そうな顔しないで？
 Japanese,"scene_cp40_q1_s10,4011",detail,이오,だって……
 Japanese,"scene_cp40_q1_s10,4011",detail,오이겐,鬼が出るか蛇が出るか……<br>進んでみねぇことには、<br>わからねぇが……
-Japanese,"scene_cp40_q1_s10,4011",detail,카타리나,どうあっても、<br>ここが決戦の地になるな……<br>気を引き締めていこう、[ジータ]！
-Japanese,"scene_cp40_q1_s20,4012",synopsis,,神殿の中に満ちる異様な気配は、特別な力を持たぬ者にさえ感じ取る事ができた。世界そのものを丸ごと歪めるアーカーシャの力を確信し、[ジータ]達は決意も新たにフリーシアの元を目指す。
+Japanese,"scene_cp40_q1_s10,4011",detail,카타리나,どうあっても、<br>ここが決戦の地になるな……<br>気を引き締めていこう、[플레이어]！
+Japanese,"scene_cp40_q1_s20,4012",synopsis,,神殿の中に満ちる異様な気配は、特別な力を持たぬ者にさえ感じ取る事ができた。世界そのものを丸ごと歪めるアーカーシャの力を確信し、[플레이어]達は決意も新たにフリーシアの元を目指す。
 Japanese,"scene_cp40_q1_s20,4012",detail,라캄,すげぇな……<br>ここまで来ると俺でもわかるぜ……<br>明らかにこの先には、何かいやがる……
 Japanese,"scene_cp40_q1_s20,4012",detail,카타리나,ヒリヒリと<br>嫌な感覚がまとわりつくな……<br>さすがは星の民の最終兵器か……
 Japanese,"scene_cp40_q1_s20,4012",detail,흑기사,世界そのものを捻じ曲げるほどの化物だ。<br>本体が放つ力は、<br>おそらくこの比ではないぞ。
 Japanese,"scene_cp40_q1_s20,4012",detail,루리아,こんな……こんなの、<br>絶対に目覚めさせちゃいけない……！
-Japanese,"scene_cp40_q1_s20,4012",detail,루리아,オルキスちゃんを取り戻して、<br>絶対にあの人を止めましょう！<br>[ジータ]！
-Japanese,"scene_cp40_q2_s10,4021",synopsis,,神殿の奥へと進む[ジータ]達の前に無数の帝国兵達が押し寄せる。もはや退き下がる策など持たない一行は、真正面から戦いを挑むのであった。
+Japanese,"scene_cp40_q1_s20,4012",detail,루리아,オルキスちゃんを取り戻して、<br>絶対にあの人を止めましょう！<br>[플레이어]！
+Japanese,"scene_cp40_q2_s10,4021",synopsis,,神殿の奥へと進む[플레이어]達の前に無数の帝国兵達が押し寄せる。もはや退き下がる策など持たない一行は、真正面から戦いを挑むのであった。
 Japanese,"scene_cp40_q2_s10,4021",detail,제국병,来たな……<br>全隊構え！ 迎撃態勢をとれ！
 Japanese,"scene_cp40_q2_s10,4021",detail,帝国兵達,…………
 Japanese,"scene_cp40_q2_s10,4021",detail,오이겐,おっと……<br>こりゃまた大層な<br>お出迎えだなぁ、おい。
 Japanese,"scene_cp40_q2_s10,4021",detail,라캄,連中が湧いて出てくるってこたぁ、<br>いよいよここで、<br>間違いないみてぇだな！
 Japanese,"scene_cp40_q2_s10,4021",detail,흑기사,ふん……<br>決戦前の前哨戦だ……<br>派手に蹴散らすぞ！！
-Japanese,"scene_cp40_q2_s20,4022",synopsis,,[ジータ]らの猛攻に倒れてもなお立ち上がって抵抗する帝国兵達。その鬼気迫る戦いぶりは、帝国軍としての責任感ではなく、何かへの恐れから来るもののようであった。帝国兵達の背後にある「マリス」という存在と[ジータ]らの接触を阻止するべく、帝国兵達はなおも戦いを挑む。
+Japanese,"scene_cp40_q2_s20,4022",synopsis,,[플레이어]らの猛攻に倒れてもなお立ち上がって抵抗する帝国兵達。その鬼気迫る戦いぶりは、帝国軍としての責任感ではなく、何かへの恐れから来るもののようであった。帝国兵達の背後にある「マリス」という存在と[플레이어]らの接触を阻止するべく、帝国兵達はなおも戦いを挑む。
 Japanese,"scene_cp40_q2_s20,4022",detail,제국병,ぜぇ……はぁ……<br>く、くそ……<br>やはり強い……！
 Japanese,"scene_cp40_q2_s20,4022",detail,제국병,しかし……<br>ここで負けるわけには……！
 Japanese,"scene_cp40_q2_s20,4022",detail,흑기사,悪いが負けられないのは、<br>我々も同じだ。
@@ -47,7 +47,7 @@ Japanese,"scene_cp40_q3_s10,4031",detail,비이,なぁなぁ……<br>なんで�
 Japanese,"scene_cp40_q3_s10,4031",detail,카타리나,わからない……<br>何かに怯えているようだが……
 Japanese,"scene_cp40_q3_s10,4031",detail,카타리나,しかし……あれではまるで<br>上官である宰相殿に<br>怯えているような……
 Japanese,"scene_cp40_q3_s10,4031",detail,제국병,覚悟しろ、騎空士共！<br>お前達は必ず我々が打ち倒す！
-Japanese,"scene_cp40_q3_s20,4032",synopsis,,帝国兵達を打ち倒し、フリーシアへと迫る一行。追い詰められたはずの彼女の表情は狂気に歪み、恐ろしい哄笑を漏らすのであった。[ジータ]達に最終兵器「マリス」の存在を明かすフリーシア。帝国兵達を恐れさせた「マリス」とは、究極の魔晶によってフリーシアの完全なる下僕と化した星晶獣ユグドラシルだった。そして[ジータ]達に「マリス」──ユグドラシル・マリスが襲いかかる。
+Japanese,"scene_cp40_q3_s20,4032",synopsis,,帝国兵達を打ち倒し、フリーシアへと迫る一行。追い詰められたはずの彼女の表情は狂気に歪み、恐ろしい哄笑を漏らすのであった。[플레이어]達に最終兵器「マリス」の存在を明かすフリーシア。帝国兵達を恐れさせた「マリス」とは、究極の魔晶によってフリーシアの完全なる下僕と化した星晶獣ユグドラシルだった。そして[플레이어]達に「マリス」──ユグドラシル・マリスが襲いかかる。
 Japanese,"scene_cp40_q3_s20,4032",detail,제국병,ぐ……がふっ……
 Japanese,"scene_cp40_q3_s20,4032",detail,흑기사,さぁ……<br>これで残る兵士もあとわずかだ。
 Japanese,"scene_cp40_q3_s20,4032",detail,흑기사,今度こそ逃げ場はないぞ、フリーシア。<br>その人形を返してもらおう。
@@ -68,15 +68,15 @@ Japanese,"scene_cp40_q3_s20,4032",detail,루리아,こんな……<br>声すら�
 Japanese,"scene_cp40_q3_s20,4032",detail,루리아,こんな……<br>どうしてこんなことを……！？
 Japanese,"scene_cp40_q3_s20,4032",detail,<span class='scene-font-2'>ユグドラシル・マリス</span>,――――！！
 Japanese,"scene_cp40_q3_s20,4032",detail,비이,やべぇぞ！<br>あいつ、完全に<br>オイラ達を狙ってやがる！
-Japanese,"scene_cp40_q3_s20,4032",detail,라캄,やるしかねぇだろ……！<br>構えろ！ [ジータ]！
-Japanese,"scene_cp40_q3_s30,4033",synopsis,,星晶獣ユグドラシル・マリスの凄まじい力によって[ジータ]達は壊滅寸前に追い込まれた。膝を突く一行を前に、フリーシアの哄笑が響き渡る。
+Japanese,"scene_cp40_q3_s20,4032",detail,라캄,やるしかねぇだろ……！<br>構えろ！ [플레이어]！
+Japanese,"scene_cp40_q3_s30,4033",synopsis,,星晶獣ユグドラシル・マリスの凄まじい力によって[플레이어]達は壊滅寸前に追い込まれた。膝を突く一行を前に、フリーシアの哄笑が響き渡る。
 Japanese,"scene_cp40_q3_s30,4033",detail,,<span class='scene-font-katari'>突如顕現した星晶獣<br></span><span class='scene-font-katari'>ユグドラシル・マリスによって、</span><br><span class='scene-font-katari'>一行は壊滅寸前まで追い込まれていた。</span>
 Japanese,"scene_cp40_q3_s30,4033",detail,라캄,ぐふっ……<br>う、嘘だろ……
 Japanese,"scene_cp40_q3_s30,4033",detail,카타리나,くっ……<br>以前戦った星晶獣ユグドラシルとは、<br>比べ物にならないな……
 Japanese,"scene_cp40_q3_s30,4033",detail,이오,ちょっと……<br>こ、こんなのが居るなんて<br>聞いてないわよ！
 Japanese,"scene_cp40_q3_s30,4033",detail,フリーシア,素晴らしい……<br>星の力の模倣として始まった魔晶は、<br>ついに原典たる星の力を超えた……
 Japanese,"scene_cp40_q3_s30,4033",detail,フリーシア,あの憎き侵略者共を超えた……<br>空の民こそが真に優れた存在なのです！<br>くくく……はははははッ！！
-Japanese,"scene_cp40_q4_s10,4041",synopsis,,黒騎士は、ルリアをこの場に呼ぶための駒でしかなかった。ルリアとオルキス、世界を改変するための２つの鍵を揃えたフリーシアはオルキスにアーカーシャの起動を命ずる。そして世界を歪めようと力を解き放たんとした瞬間、オルキスの脳裡に浮かんだのは、[ジータ]達と過ごした思い出だった。オルキスに芽生えた迷いが[ジータ]らを解放した。うろたえるフリーシアの隙を突き、一行はルリアとオルキスを奪還する。
+Japanese,"scene_cp40_q4_s10,4041",synopsis,,黒騎士は、ルリアをこの場に呼ぶための駒でしかなかった。ルリアとオルキス、世界を改変するための２つの鍵を揃えたフリーシアはオルキスにアーカーシャの起動を命ずる。そして世界を歪めようと力を解き放たんとした瞬間、オルキスの脳裡に浮かんだのは、[플레이어]達と過ごした思い出だった。オルキスに芽生えた迷いが[플레이어]らを解放した。うろたえるフリーシアの隙を突き、一行はルリアとオルキスを奪還する。
 Japanese,"scene_cp40_q4_s10,4041",detail,제국병,ぐ……げふっ……<br>さ、宰相閣下……
 Japanese,"scene_cp40_q4_s10,4041",detail,제국병,お、恐れながら申し上げます……<br>先ほどの「マリス」の攻撃で、<br>我が軍にも多数の負傷者が……
 Japanese,"scene_cp40_q4_s10,4041",detail,フリーシア,それが？
@@ -133,9 +133,9 @@ Japanese,"scene_cp40_q4_s10,4041",detail,？？？,違う。
 Japanese,"scene_cp40_q4_s10,4041",detail,라캄,え？
 Japanese,"scene_cp40_q4_s10,4041",detail,オルキス,嬢ちゃん、じゃない……<br>私の名前は、オルキス。
 Japanese,"scene_cp40_q4_s10,4041",detail,루리아,……オルキスちゃんっていうんだ。
-Japanese,"scene_cp40_q4_s10,4041",detail,루리아,ねぇねぇ、私、ルリア！<br>それでこっちが[ジータ]！<br>よろしくね、オルキスちゃん！
+Japanese,"scene_cp40_q4_s10,4041",detail,루리아,ねぇねぇ、私、ルリア！<br>それでこっちが[플레이어]！<br>よろしくね、オルキスちゃん！
 Japanese,"scene_cp40_q4_s10,4041",detail,オルキス,よろしく……って、なに？
-Japanese,"scene_cp40_q4_s10,4041",detail,루리아,え？ えーっと……<br>な、なんだろう？ [ジータ]……
+Japanese,"scene_cp40_q4_s10,4041",detail,루리아,え？ えーっと……<br>な、なんだろう？ [플레이어]……
 Japanese,"scene_cp40_q4_s10,4041",detail,이오,これから友達になろうねってこと！<br>あたしはイオ、よろしくね。
 Japanese,"scene_cp40_q4_s10,4041",detail,オルキス,友達……これから……<br>私と……？
 Japanese,"scene_cp40_q4_s10,4041",detail,흑기사,ちっ……行くぞ、人形。
@@ -155,13 +155,13 @@ Japanese,"scene_cp40_q4_s10,4041",detail,フリーシア,なに……？
 Japanese,"scene_cp40_q4_s10,4041",detail,비이,ル、ルリアが元に戻ったぜ！
 Japanese,"scene_cp40_q4_s10,4041",detail,카타리나,ああ！<br>それに身体も動く！
 Japanese,"scene_cp40_q4_s10,4041",detail,라캄,い、いったい何が<br>起きてるってんだ……！？
-Japanese,"scene_cp40_q4_s10,4041",detail,카타리나,いまはとにかく二人を連れて、<br>ここを離れるんだ！ [ジータ]！
-Japanese,"scene_cp40_q4_s20,4042",synopsis,,危うい所でフリーシアの手を逃れた一行に、帝国兵達が決死の覚悟で追いすがる。満身創痍の[ジータ]達は、それを全力で迎え撃つのであった。
+Japanese,"scene_cp40_q4_s10,4041",detail,카타리나,いまはとにかく二人を連れて、<br>ここを離れるんだ！ [플레이어]！
+Japanese,"scene_cp40_q4_s20,4042",synopsis,,危うい所でフリーシアの手を逃れた一行に、帝国兵達が決死の覚悟で追いすがる。満身創痍の[플레이어]達は、それを全力で迎え撃つのであった。
 Japanese,"scene_cp40_q4_s20,4042",detail,제국병,くそっ！ 逃がすか！
 Japanese,"scene_cp40_q4_s20,4042",detail,라캄,あれだけの目に遭っても、<br>帝国は裏切れねぇってのか……
-Japanese,"scene_cp40_q4_s20,4042",detail,카타리나,悪いが手加減してやれる余裕はない！<br>一気に突破するぞ！<br>[ジータ]！
-Japanese,"scene_cp40_q4_s30,4043",synopsis,,フリーシアの操るユグドラシル・マリスに追い詰められ絶体絶命の[ジータ]達。その間に立ち塞がるように、謎の星晶獣が姿を現した。そして謎の星晶獣との衝突により、ユグドラシル・マリスは活動の限界を迎える。その隙をついて艇に雪崩れ込み、島からの脱出をはかる一行。しかし、ロゼッタはこの場に残るという。そしてロゼッタがビィに全てを託した瞬間、グランサイファーは自我を持ったかのように、ロゼッタを残して飛び立つのであった。
-Japanese,"scene_cp40_q4_s30,4043",detail,,<span class='scene-font-katari'>[ジータ]一行は、</span><br><span class='scene-font-katari'>ルリアとオルキスを連れ、</span><br><span class='scene-font-katari'>神殿の入口まで駆け戻る。</span>
+Japanese,"scene_cp40_q4_s20,4042",detail,카타리나,悪いが手加減してやれる余裕はない！<br>一気に突破するぞ！<br>[플레이어]！
+Japanese,"scene_cp40_q4_s30,4043",synopsis,,フリーシアの操るユグドラシル・マリスに追い詰められ絶体絶命の[플레이어]達。その間に立ち塞がるように、謎の星晶獣が姿を現した。そして謎の星晶獣との衝突により、ユグドラシル・マリスは活動の限界を迎える。その隙をついて艇に雪崩れ込み、島からの脱出をはかる一行。しかし、ロゼッタはこの場に残るという。そしてロゼッタがビィに全てを託した瞬間、グランサイファーは自我を持ったかのように、ロゼッタを残して飛び立つのであった。
+Japanese,"scene_cp40_q4_s30,4043",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ルリアとオルキスを連れ、</span><br><span class='scene-font-katari'>神殿の入口まで駆け戻る。</span>
 Japanese,"scene_cp40_q4_s30,4043",detail,루리아,カ、カタリナ……<br>私、いったい何を……？
 Japanese,"scene_cp40_q4_s30,4043",detail,オルキス,…………
 Japanese,"scene_cp40_q4_s30,4043",detail,카타리나,詳しい話は後だ！<br>とにかくいまはここから逃げ……
@@ -180,7 +180,7 @@ Japanese,"scene_cp40_q4_s30,4043",detail,<span class='scene-font-2'>ユグドラ
 Japanese,"scene_cp40_q4_s30,4043",detail,제국병,宰相閣下！<br>このままでは<br>ユグドラシルが崩壊します！
 Japanese,"scene_cp40_q4_s30,4043",detail,제국병,このまま、<br>ユグドラシル・マリスを<br>使い続けるのは危険です！
 Japanese,"scene_cp40_q4_s30,4043",detail,フリーシア,くそっ……！！
-Japanese,"scene_cp40_q4_s30,4043",detail,라캄,よくわかんねぇがチャンスだ！<br>このまま逃げるぞ！ [ジータ]！
+Japanese,"scene_cp40_q4_s30,4043",detail,라캄,よくわかんねぇがチャンスだ！<br>このまま逃げるぞ！ [플레이어]！
 Japanese,"scene_cp40_q4_s30,4043",detail,라캄,早くグランサイファーに乗れ！<br>すぐに離陸するぞ！
 Japanese,"scene_cp40_q4_s30,4043",detail,로제타,…………
 Japanese,"scene_cp40_q4_s30,4043",detail,카타리나,どうした？<br>ロゼッタも早く……
@@ -212,20 +212,20 @@ English,"scene_cp40_q1_s10,4011",detail,Io,"Y-yeah! Right, Rosetta?"
 English,"scene_cp40_q1_s10,4011",detail,Rosetta,"Hehe. Io, don't look so worried."
 English,"scene_cp40_q1_s10,4011",detail,Io,But...
 English,"scene_cp40_q1_s10,4011",detail,Eugen,"No tellin' what kinda nasties are waitin' for us in there, but we won't know for sure till we go in and see for ourselves."
-English,"scene_cp40_q1_s10,4011",detail,Katalina,"In any case, this is where our final battle with Freesia will take place. Don't falter now, [Djeeta]!"
+English,"scene_cp40_q1_s10,4011",detail,Katalina,"In any case, this is where our final battle with Freesia will take place. Don't falter now, [플레이어]!"
 English,"scene_cp40_q1_s20,4012",synopsis,,The strange presence filling the temple becomes perceptible to even the crew members without special instincts.
 English,"scene_cp40_q1_s20,4012",detail,Rackam,It's so crazy... Even I can tell there's definitely something waiting for us up ahead.
 English,"scene_cp40_q1_s20,4012",detail,Katalina,I can't shake this unpleasant sensation. It gives me chills... This is definitely the power of the Astrals' ultimate weapon.
 English,"scene_cp40_q1_s20,4012",detail,Black Knight,A monster so powerful it can distort the world itself... This overwhelming aura is nothing compared to its true capability.
 English,"scene_cp40_q1_s20,4012",detail,Lyria,"Then... Then we can't let it wake up, no matter what!"
-English,"scene_cp40_q1_s20,4012",detail,Lyria,"We have to rescue Orchis and put a stop to that woman, [Djeeta]!"
-English,"scene_cp40_q2_s10,4021",synopsis,,Countless imperial soldiers swarm [Djeeta] and the crew as they continue through the temple.
+English,"scene_cp40_q1_s20,4012",detail,Lyria,"We have to rescue Orchis and put a stop to that woman, [플레이어]!"
+English,"scene_cp40_q2_s10,4021",synopsis,,Countless imperial soldiers swarm [플레이어] and the crew as they continue through the temple.
 English,"scene_cp40_q2_s10,4021",detail,Imperial Soldier,"They're here.<br>Everyone, get into position! Prepare to intercept!"
 English,"scene_cp40_q2_s10,4021",detail,Imperial Soldiers,...
 English,"scene_cp40_q2_s10,4021",detail,Eugen,"Well, well. Look at that welcome party!"
 English,"scene_cp40_q2_s10,4021",detail,Rackam,"If these lowlifes are crawling out of the woodwork, then that must mean this is the right place!"
 English,"scene_cp40_q2_s10,4021",detail,Black Knight,Humph. The prelude to the finale. Hold nothing back!
-English,"scene_cp40_q2_s20,4022",synopsis,,"Despite being beaten by [Djeeta] and the crew time and time again, the imperial soldiers refuse to give up. They're scared of something called Malice."
+English,"scene_cp40_q2_s20,4022",synopsis,,"Despite being beaten by [플레이어] and the crew time and time again, the imperial soldiers refuse to give up. They're scared of something called Malice."
 English,"scene_cp40_q2_s20,4022",detail,Imperial Soldier,Gasp... Wheeze...<br>D-damn it... They're too strong!
 English,"scene_cp40_q2_s20,4022",detail,Imperial Soldier,But we can't lose to them!
 English,"scene_cp40_q2_s20,4022",detail,Black Knight,"Apologies, but we could say the same to you."
@@ -270,7 +270,7 @@ English,"scene_cp40_q3_s20,4032",detail,Lyria,This is awful... I can't even hear
 English,"scene_cp40_q3_s20,4032",detail,Lyria,Why... Why would you do this?
 English,"scene_cp40_q3_s20,4032",detail,Yggdrasil Malice,...!
 English,"scene_cp40_q3_s20,4032",detail,Vyrn,Oh crud! I don't like the way that thing is staring right at us!
-English,"scene_cp40_q3_s20,4032",detail,Rackam,"We'll have to fight it! Get ready, [Djeeta]!"
+English,"scene_cp40_q3_s20,4032",detail,Rackam,"We'll have to fight it! Get ready, [플레이어]!"
 English,"scene_cp40_q3_s30,4033",synopsis,,"Yggdrasil Malice continues to bear down on the crew, while Freesia laughs at their suffering."
 English,"scene_cp40_q3_s30,4033",detail,,The primal beast Yggdrasil Malice attacks the crew until they're driven to the brink of annihilation.
 English,"scene_cp40_q3_s30,4033",detail,Rackam,G'hah... Y-you gotta be kiddin'...
@@ -335,9 +335,9 @@ English,"scene_cp40_q4_s10,4041",detail,???,I'm not.
 English,"scene_cp40_q4_s10,4041",detail,Rackam,What?
 English,"scene_cp40_q4_s10,4041",detail,Orchis,I'm not a little miss. My name is Orchis.
 English,"scene_cp40_q4_s10,4041",detail,Lyria,"Orchis, you say?"
-English,"scene_cp40_q4_s10,4041",detail,Lyria,"It's a pleasure to meet you, Orchis! I'm Lyria and this is [Djeeta]!"
+English,"scene_cp40_q4_s10,4041",detail,Lyria,"It's a pleasure to meet you, Orchis! I'm Lyria and this is [플레이어]!"
 English,"scene_cp40_q4_s10,4041",detail,Orchis,What's a pleasure?
-English,"scene_cp40_q4_s10,4041",detail,Lyria,"Huh? Come to think of it, why do we say that when meeting people, [Djeeta]?"
+English,"scene_cp40_q4_s10,4041",detail,Lyria,"Huh? Come to think of it, why do we say that when meeting people, [플레이어]?"
 English,"scene_cp40_q4_s10,4041",detail,Io,Basically it means let's be friends! My name's Io and it's a pleasure to meet you!
 English,"scene_cp40_q4_s10,4041",detail,Orchis,You want to... be friends... with me?
 English,"scene_cp40_q4_s10,4041",detail,Black Knight,Tch... We're leaving.
@@ -357,13 +357,13 @@ English,"scene_cp40_q4_s10,4041",detail,Freesia,What?
 English,"scene_cp40_q4_s10,4041",detail,Vyrn,Lyria's back to normal!
 English,"scene_cp40_q4_s10,4041",detail,Katalina,Thank goodness! And she's moving!
 English,"scene_cp40_q4_s10,4041",detail,Rackam,What the hell just happened?
-English,"scene_cp40_q4_s10,4041",detail,Katalina,"Let's just focus on getting these two out of here, [Djeeta]!"
+English,"scene_cp40_q4_s10,4041",detail,Katalina,"Let's just focus on getting these two out of here, [플레이어]!"
 English,"scene_cp40_q4_s20,4042",synopsis,,"The crew escapes Freesia's clutches, but imperial soldiers are close on their heels."
 English,"scene_cp40_q4_s20,4042",detail,Imperial Soldier,Damn it! We won't let you escape!
 English,"scene_cp40_q4_s20,4042",detail,Rackam,"Despite how much they've been through, they just won't betray the empire, will they?"
-English,"scene_cp40_q4_s20,4042",detail,Katalina,"Sorry, but we don't have time to waste on you! Smash through them, [Djeeta]!"
+English,"scene_cp40_q4_s20,4042",detail,Katalina,"Sorry, but we don't have time to waste on you! Smash through them, [플레이어]!"
 English,"scene_cp40_q4_s30,4043",synopsis,,"Freesia orders Yggdrasil Malice to capture the fleeing skyfarers, but a mysterious primal beast appears and halts its rampage. This buys enough time for the crew to escape. Just as the Grandcypher is about to lift off, Rosetta announces that she must stay behind on the island."
-English,"scene_cp40_q4_s30,4043",detail,,"With Lyria and Orchis in tow, [Djeeta] and the crew make their way back to the entrance of the temple."
+English,"scene_cp40_q4_s30,4043",detail,,"With Lyria and Orchis in tow, [플레이어] and the crew make their way back to the entrance of the temple."
 English,"scene_cp40_q4_s30,4043",detail,Lyria,Katalina... What was I doing?
 English,"scene_cp40_q4_s30,4043",detail,Orchis,...
 English,"scene_cp40_q4_s30,4043",detail,Katalina,I'll spare you the details for now! First we flee!
@@ -382,7 +382,7 @@ English,"scene_cp40_q4_s30,4043",detail,Yggdrasil Malice,...!
 English,"scene_cp40_q4_s30,4043",detail,Imperial Soldier,"Your Excellency! At this rate, Yggdrasil will disintegrate!"
 English,"scene_cp40_q4_s30,4043",detail,Imperial Soldier,"If this keeps up, it'll be dangerous to keep using Yggdrasil Malice!"
 English,"scene_cp40_q4_s30,4043",detail,Freesia,Damn it!
-English,"scene_cp40_q4_s30,4043",detail,Rackam,"Whew! Looks like our lucky break! Let's get outta here, [Djeeta]!"
+English,"scene_cp40_q4_s30,4043",detail,Rackam,"Whew! Looks like our lucky break! Let's get outta here, [플레이어]!"
 English,"scene_cp40_q4_s30,4043",detail,Rackam,"Everyone, on board the Grandcypher now! We're takin' off pronto!"
 English,"scene_cp40_q4_s30,4043",detail,Rosetta,...
 English,"scene_cp40_q4_s30,4043",detail,Katalina,"Rosetta, what's wrong? Come quickly!"

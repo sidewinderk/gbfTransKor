@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_fate_chr050_ep1,synopsis,,ハーヴィンであるシャルロッテの依頼を受け、一行は共に山奥の村へ背を伸ばす薬を探しに行く。だがその薬でも、背を伸ばすことは叶わず、シャルロッテは星の力を頼りに一行の旅についていくことを決める。
-Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>ある街でシェロカルテから</span><br><span class='scene-font-katari'>山奥への探索の協力者を探している</span><br><span class='scene-font-katari'>という依頼を受けた[ジータ]一行。</span>
+Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>ある街でシェロカルテから</span><br><span class='scene-font-katari'>山奥への探索の協力者を探している</span><br><span class='scene-font-katari'>という依頼を受けた[플레이어]一行。</span>
 Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>依頼主が食事をとっているはずだ、</span><br><span class='scene-font-katari'>という酒場までやってくるが……</span>
 Japanese,scene_fate_chr050_ep1,detail,店員,お待たせしましたー！<br>こちら、お子様ランチになります！
 Japanese,scene_fate_chr050_ep1,detail,？？？,おお……！<br>こ、これはなかなか……
@@ -25,7 +25,7 @@ Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,むぅぅぅ！<br>付�
 Japanese,scene_fate_chr050_ep1,detail,ルリア,ああっ！<br>ご、ごめんなさいー！
 Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>酒場を飛び出したシャルロッテを</span><br><span class='scene-font-katari'>追いかける一行は、魔物達が巣食うと</span><br><span class='scene-font-katari'>言われる山道に差しかかる。</span>
 Japanese,scene_fate_chr050_ep1,detail,ビィ,こりゃあ、いったい……<br>それに、シャルロッテは<br>どこに行っちまったんだ？
-Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,[ジータ]殿！<br>自分はここであります！
+Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,[플레이어]殿！<br>自分はここであります！
 Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>倒された魔物達の山から、</span><br><span class='scene-font-katari'>シャルロッテが</span><br><span class='scene-font-katari'>ひょっこりと顔を出す。</span>
 Japanese,scene_fate_chr050_ep1,detail,ルリア,シャルロッテさん！<br>こ、これはいったい……
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,ああ、これは魔物が<br>集団で襲いかかってきたので<br>返り討ちにしてやったのであります。
@@ -36,8 +36,8 @@ Japanese,scene_fate_chr050_ep1,detail,ビィ,ん？ するってぇと……<br>
 Japanese,scene_fate_chr050_ep1,detail,ビィ,こんだけ強けりゃ、<br>ひとりでも十分、<br>山歩き出来るんじゃねぇのか？
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,い、いえ、それは……その……<br>自分ひとりでも、魔物や野盗なんかは<br>恐れるに足らないのでありますが……
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,その……どうにもこうにも……<br>そこにあるような段差が、<br>ひとりでは登れなくて……
-Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,それで……えと、[ジータ]殿。<br>自分を段差の上まで、<br>抱き上げてくれると助かるのですが……
-Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>こうして数々の難所を乗り越え、</span><br><span class='scene-font-katari'>目的の村へとたどり着く</span><br><span class='scene-font-katari'>[ジータ]一行。</span>
+Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,それで……えと、[플레이어]殿。<br>自分を段差の上まで、<br>抱き上げてくれると助かるのですが……
+Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>こうして数々の難所を乗り越え、</span><br><span class='scene-font-katari'>目的の村へとたどり着く</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
 Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>さっそくシャルロッテは、</span><br><span class='scene-font-katari'>この村の名産である、</span><br><span class='scene-font-katari'>とある薬について尋ねるが……</span>
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,む……無理なのですか？
 Japanese,scene_fate_chr050_ep1,detail,村人,ああ、確かにうちの村では<br>成長を促進する薬を<br>作ってるけど……
@@ -48,9 +48,9 @@ Japanese,scene_fate_chr050_ep1,detail,ルリア,よっぽど気にしてるみ�
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,くっ……<br>こっそり騎士団を抜け出してまで、<br>探しに来たというのに……
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,これでは……このままでは……<br>リュミエール聖騎士団団長として、<br>騎士団の威厳を取り戻すことも……
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,いや……そうか……<br>ならば賭けるべき望みは、<br>もはやただ一つ……！！
-Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,[ジータ]殿！<br>このシャルロッテも貴殿の旅に、<br>連れて行ってほしいであります！
+Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,[플레이어]殿！<br>このシャルロッテも貴殿の旅に、<br>連れて行ってほしいであります！
 Japanese,scene_fate_chr050_ep1,detail,ビィ,お、おいおいおい！<br>そりゃいったい、どういうつもりだ！？
-Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,[ジータ]殿の目指す先は、<br>星の島、イスタルシアと聞きました……
+Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,[플레이어]殿の目指す先は、<br>星の島、イスタルシアと聞きました……
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,空の世界の摂理に見放された自分は、<br>もはやこの世界の外の摂理、<br>星の力に頼るしかないのであります！
 Japanese,scene_fate_chr050_ep1,detail,ルリア,そ、そこまでして<br>身長を伸ばしたいんですか……？
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,これは……<br>自分ひとりの問題では<br>ないのであります……
@@ -60,12 +60,12 @@ Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,自分が笑われる�
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,だから、どうか……！<br>リュミエール聖騎士団の<br>威厳を保つためにも……！
 Japanese,scene_fate_chr050_ep1,sel1_txt,,<span class='scene-font-katari'>いいよ</span>
 Japanese,scene_fate_chr050_ep1,sel2_txt,,<span class='scene-font-katari'>一緒に行こう</span>
-Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,感謝するであります！<br>[ジータ]殿の騎空団に入る以上、<br>誠心誠意お仕えするでありますよ！
+Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,感謝するであります！<br>[플레이어]殿の騎空団に入る以上、<br>誠心誠意お仕えするでありますよ！
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,感謝するであります！<br>力を合わせ、必ずや<br>星の島にたどり着いてみせましょう！
 Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,まさか伝説の地、イスタルシアに<br>望みを賭けることになろうとは……<br>思いもよらなかったであります……
 Japanese,scene_fate_chr050_ep1,detail,ルリア,心配することはありませんよ！<br>みんなで一緒に頑張れば、<br>どこだってきっとたどり着けます！
-Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,ふふ……[ジータ]殿と居ると、<br>自分も不思議と、<br>そんな気持ちになれるであります！
-Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>小さな野望を大きく抱く聖騎士、</span><br><span class='scene-font-katari'>シャルロッテを</span><br><span class='scene-font-katari'>仲間に迎え入れた[ジータ]一行。</span>
+Japanese,scene_fate_chr050_ep1,detail,シャルロッテ,ふふ……[플레이어]殿と居ると、<br>自分も不思議と、<br>そんな気持ちになれるであります！
+Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>小さな野望を大きく抱く聖騎士、</span><br><span class='scene-font-katari'>シャルロッテを</span><br><span class='scene-font-katari'>仲間に迎え入れた[플레이어]一行。</span>
 Japanese,scene_fate_chr050_ep1,detail,,<span class='scene-font-katari'>遥かな空の果て、</span><br><span class='scene-font-katari'>星の島イスタルシアを目指す旅は、</span><br><span class='scene-font-katari'>こうして続いていくのだった。</span>
 Japanese,scene_chr050_q1_s10,synopsis,,シャルロッテの背を伸ばす方法は見つかっていなかった。ある村で食事をとりながら、聖騎士団として畏れられる存在になりたいと話すシャルロッテ。そんな一行は、森から魔物の集団が来ていると助けを求められる。
 Japanese,scene_chr050_q1_s10,detail,シャルロッテ,イスタルシアを目指す旅の途中でも、<br>背丈を伸ばす良い方法が<br>見つかればと思っていたのですが……
@@ -75,17 +75,17 @@ Japanese,scene_chr050_q1_s10,detail,シャルロッテ,しかし……
 Japanese,scene_chr050_q1_s10,detail,店員,お待たせしましたー！<br>えーと、お子様ランチのお客様は……
 Japanese,scene_chr050_q1_s10,detail,シャルロッテ,ぐぬぬ……<br>ほまれ高きその名を全空に轟かせる<br>リュミエール聖騎士団団長として……
 Japanese,scene_chr050_q1_s10,detail,シャルロッテ,リュミエール聖国の<br>力と栄光の象徴たる聖騎士団団長として<br>やはりあれくらいの身長はないと……！
-Japanese,scene_chr050_q1_s10,detail,,<span class='scene-font-katari'>シャルロッテと共に</span><br><span class='scene-font-katari'>イスタルシアへの旅を続ける</span><br><span class='scene-font-katari'>[ジータ]一行。
+Japanese,scene_chr050_q1_s10,detail,,<span class='scene-font-katari'>シャルロッテと共に</span><br><span class='scene-font-katari'>イスタルシアへの旅を続ける</span><br><span class='scene-font-katari'>[플레이어]一行。
 Japanese,scene_chr050_q1_s10,detail,,<span class='scene-font-katari'>途中、噂を頼り色々な村に寄ってみるが</span><br><span class='scene-font-katari'>シャルロッテの身長を伸ばす方法は、</span><br><span class='scene-font-katari'>一向に見つからないのだった。</span>
 Japanese,scene_chr050_q1_s10,detail,ビィ,けどよぅ、<br>色々言う奴らには<br>言わせておけばいいじゃねーか！
 Japanese,scene_chr050_q1_s10,detail,ビィ,いっくら聖騎士団だからって、<br>そんなに厳めしく構えるこたぁ<br>ねぇんじゃねーか？
 Japanese,scene_chr050_q1_s10,detail,シャルロッテ,いえ、聖騎士団は<br>誇り高く畏れられる存在でなくては<br>ならないのであります。
 Japanese,scene_chr050_q1_s10,detail,シャルロッテ,尊き御心の守護を司る者として、<br>あまり軽く見られるわけには……
 Japanese,scene_chr050_q1_s10,detail,村人,おい！ 誰か助けてくれ！<br>近くの森から魔物が、<br>集団で村に向かって来てやがる！
-Japanese,scene_chr050_q1_s10,detail,シャルロッテ,魔物が！？<br>[ジータ]殿！
-Japanese,scene_chr050_q1_s10,detail,ビィ,知らん顔するわけにゃあいかねぇよな！<br>行こうぜ！ [ジータ]！
+Japanese,scene_chr050_q1_s10,detail,シャルロッテ,魔物が！？<br>[플레이어]殿！
+Japanese,scene_chr050_q1_s10,detail,ビィ,知らん顔するわけにゃあいかねぇよな！<br>行こうぜ！ [플레이어]！
 English,scene_fate_chr050_ep1,synopsis,,"A Harvin named Charlotta asks the crew to help her find height-enhancement medicine, but it doesn't work on her, so she decides to join the crew and hopefully give the power of the Astrals a try."
-English,scene_fate_chr050_ep1,detail,,"In a certain city, [Djeeta] and the crew have received a request from Sierokarte to assist with an expedition deep in the mountains."
+English,scene_fate_chr050_ep1,detail,,"In a certain city, [플레이어] and the crew have received a request from Sierokarte to assist with an expedition deep in the mountains."
 English,scene_fate_chr050_ep1,detail,,"They come to a tavern where the client is supposedly having a meal, but the place is practically empty."
 English,scene_fate_chr050_ep1,detail,Staff,Thank you for waiting! Here's your little skyfarer's lunch!
 English,scene_fate_chr050_ep1,detail,???,Oh! This looks great!
@@ -110,7 +110,7 @@ English,scene_fate_chr050_ep1,detail,Charlotta,Grrr! I'm done with you people! I
 English,scene_fate_chr050_ep1,detail,Lyria,Oh no! I'm so sorry!
 English,scene_fate_chr050_ep1,detail,,"When Charlotta dashes out of the tavern, the crew follows her to a mountain road where monsters are said to nest."
 English,scene_fate_chr050_ep1,detail,Vyrn,"Whoa, what happened here? And where'd Charlotta go?"
-English,scene_fate_chr050_ep1,detail,Charlotta,[Djeeta]! I'm right here!
+English,scene_fate_chr050_ep1,detail,Charlotta,[플레이어]! I'm right here!
 English,scene_fate_chr050_ep1,detail,,Charlotta peeks out from behind a mountain of defeated monsters.
 English,scene_fate_chr050_ep1,detail,Lyria,Charlotta! What's going on here?
 English,scene_fate_chr050_ep1,detail,Charlotta,"Well, these monsters thought to attack me as a group. I only gave them their just deserts."
@@ -121,8 +121,8 @@ English,scene_fate_chr050_ep1,detail,Vyrn,So what do you even need our help for?
 English,scene_fate_chr050_ep1,detail,Vyrn,"From the looks of it, you're more than strong enough to go hiking on your own, right?"
 English,scene_fate_chr050_ep1,detail,Charlotta,"Yes... Well, no... Um... It's true that I have nothing to fear from monsters or bandits, but..."
 English,scene_fate_chr050_ep1,detail,Charlotta,"You see, there's an area that's a bit too steep for me to climb alone."
-English,scene_fate_chr050_ep1,detail,Charlotta,"So, [Djeeta]... I would appreciate it if you could, you know, give me a boost when the time calls for it."
-English,scene_fate_chr050_ep1,detail,,"After working their way past a number of treacherous areas, [Djeeta] and company finally reach the village Charlotta is interested in."
+English,scene_fate_chr050_ep1,detail,Charlotta,"So, [플레이어]... I would appreciate it if you could, you know, give me a boost when the time calls for it."
+English,scene_fate_chr050_ep1,detail,,"After working their way past a number of treacherous areas, [플레이어] and company finally reach the village Charlotta is interested in."
 English,scene_fate_chr050_ep1,detail,,"She wastes no time in asking about a certain medicine the village specializes in, but she's in for some disappointment."
 English,scene_fate_chr050_ep1,detail,Charlotta,Oh... So it's not possible?
 English,scene_fate_chr050_ep1,detail,Villager,"I mean, don't get me wrong, we do make a height-enhancement supplement here..."
@@ -133,9 +133,9 @@ English,scene_fate_chr050_ep1,detail,Lyria,She must feel really self-conscious a
 English,scene_fate_chr050_ep1,detail,Charlotta,Grrr... So all the trouble of sneaking away from the other knights was a waste of effort.
 English,scene_fate_chr050_ep1,detail,Charlotta,"The way things stand, how is a disgrace like me ever going to restore the honor of the Order of Holy Knights?"
 English,scene_fate_chr050_ep1,detail,Charlotta,But wait... There's still one last ray of hope!
-English,scene_fate_chr050_ep1,detail,Charlotta,[Djeeta]! I want you to take me with you on your journey!
+English,scene_fate_chr050_ep1,detail,Charlotta,[플레이어]! I want you to take me with you on your journey!
 English,scene_fate_chr050_ep1,detail,Vyrn,"Whoa, whoa, whoa! Where did <span class='scene-font-italic'>that</span> come from?"
-English,scene_fate_chr050_ep1,detail,Charlotta,"I've heard that [Djeeta] intends to find Estalucia, the Island of the Astrals."
+English,scene_fate_chr050_ep1,detail,Charlotta,"I've heard that [플레이어] intends to find Estalucia, the Island of the Astrals."
 English,scene_fate_chr050_ep1,detail,Charlotta,"If the will of this world has forsaken me, then I have no choice but to place my hopes in a power beyond this world—the Astrals!"
 English,scene_fate_chr050_ep1,detail,Lyria,"Wow, you really want to get taller, don't you?"
 English,scene_fate_chr050_ep1,detail,Charlotta,This is something that affects more than just me.
@@ -145,12 +145,12 @@ English,scene_fate_chr050_ep1,detail,Charlotta,"If they want to laugh at me, tha
 English,scene_fate_chr050_ep1,detail,Charlotta,So please! Help me protect the dignity of the Lumiel Holy Knights!
 English,scene_fate_chr050_ep1,sel1_txt,,You bet!
 English,scene_fate_chr050_ep1,sel2_txt,,We'll go to the end of the sky together.
-English,scene_fate_chr050_ep1,detail,Charlotta,"You have my gratitude! As a member of your crew, I shall serve you wholeheartedly, [Djeeta]!"
+English,scene_fate_chr050_ep1,detail,Charlotta,"You have my gratitude! As a member of your crew, I shall serve you wholeheartedly, [플레이어]!"
 English,scene_fate_chr050_ep1,detail,Charlotta,You have my gratitude! Let us join forces to reach the Island of the Astrals!
 English,scene_fate_chr050_ep1,detail,Charlotta,Though I never thought I'd have to pin my hopes on the legendary land of Estalucia...
 English,scene_fate_chr050_ep1,detail,Lyria,You have nothing to worry about! We can go anywhere as long as we work together!
-English,scene_fate_chr050_ep1,detail,Charlotta,"Hehe. As long as we have [Djeeta], I think you might be right."
-English,scene_fate_chr050_ep1,detail,,"Small of stature but large of ambition, the Holy Knight Charlotta joins [Djeeta]'s crew."
+English,scene_fate_chr050_ep1,detail,Charlotta,"Hehe. As long as we have [플레이어], I think you might be right."
+English,scene_fate_chr050_ep1,detail,,"Small of stature but large of ambition, the Holy Knight Charlotta joins [플레이어]'s crew."
 English,scene_fate_chr050_ep1,detail,,"Thus the journey to the end of the sky—and to Estalucia, the Island of the Astrals—continues."
 English,scene_chr050_q1_s10,synopsis,,"Charlotta has yet to find a way to grow taller, but she says she wants to become a symbol of the power and glory of the Order of Holy Knights. While she discusses this with the crew, a villager asks for help with a pack of monsters that has come out of the forest."
 English,scene_chr050_q1_s10,detail,Charlotta,"You know, I was hoping I might be able to find a way to increase my height during our journey to Estalucia..."
@@ -160,12 +160,12 @@ English,scene_chr050_q1_s10,detail,Charlotta,But...
 English,scene_chr050_q1_s10,detail,Shop Employee,Thank you for waiting! Um... Who ordered the little skyfarer's lunch?
 English,scene_chr050_q1_s10,detail,Charlotta,Grrr... As the leader of Lumiel's proud Order of Holy Knights...
 English,scene_chr050_q1_s10,detail,Charlotta,I need to be taller to become the sort of symbol of power and glory fit to represent the Holy Kingdom of Lumiel.
-English,scene_chr050_q1_s10,detail,,[Djeeta] and company continue their journey to Estalucia with Charlotta.
+English,scene_chr050_q1_s10,detail,,[플레이어] and company continue their journey to Estalucia with Charlotta.
 English,scene_chr050_q1_s10,detail,,"They follow rumors to various villages along the way, but they can't find a way to make Charlotta taller."
 English,scene_chr050_q1_s10,detail,Vyrn,Does it matter what people say about you? Just let 'em say what they're gonna!
 English,scene_chr050_q1_s10,detail,Vyrn,Do you really gotta obsess over dignity so much just because you're with the Order of Holy Knights?
 English,scene_chr050_q1_s10,detail,Charlotta,"Oh, but I must. As a holy knight, I must inspire pride and fear."
 English,scene_chr050_q1_s10,detail,Charlotta,I am a defender of justice; I must not be taken lightly.
 English,scene_chr050_q1_s10,detail,Villager,Hey! Somebody help! There's a pack of monsters from the forest heading toward our village.
-English,scene_chr050_q1_s10,detail,Charlotta,Monsters? [Djeeta]!
+English,scene_chr050_q1_s10,detail,Charlotta,Monsters? [플레이어]!
 English,scene_chr050_q1_s10,detail,Vyrn,We can't ignore this! Let's go!

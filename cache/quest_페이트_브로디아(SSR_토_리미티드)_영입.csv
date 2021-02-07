@@ -1,20 +1,20 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_fate_chr453_ep1,synopsis,,ある日の真夜中、自室で眠っている[ジータ]の前に天司ウリエルが現れ、弟子であるブローディアを旅に同行させてほしいと話す。ブローディアは、新たな脅威に備え[ジータ]と共に成長したいと申し出る。[ジータ]一行は、師匠と弟子なのに雰囲気が全然違うと笑いながらも、快く申し出を受け入れるのだった。
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ひっそりと静まり返った真夜中。</span><br><span class='scene-font-katari'>[ジータ]は騎空艇の自室で</span><br><span class='scene-font-katari'>すやすやと眠りについていた。</span>
+Japanese,scene_fate_chr453_ep1,synopsis,,ある日の真夜中、自室で眠っている[플레이어]の前に天司ウリエルが現れ、弟子であるブローディアを旅に同行させてほしいと話す。ブローディアは、新たな脅威に備え[플레이어]と共に成長したいと申し出る。[플레이어]一行は、師匠と弟子なのに雰囲気が全然違うと笑いながらも、快く申し出を受け入れるのだった。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ひっそりと静まり返った真夜中。</span><br><span class='scene-font-katari'>[플레이어]は騎空艇の自室で</span><br><span class='scene-font-katari'>すやすやと眠りについていた。</span>
 Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>しかし──</span>
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>静寂を切り裂くように起こった</span><br><span class='scene-font-katari'>地鳴りにより、[ジータ]は</span><br><span class='scene-font-katari'>ベッドから飛び起きた。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>静寂を切り裂くように起こった</span><br><span class='scene-font-katari'>地鳴りにより、[플레이어]は</span><br><span class='scene-font-katari'>ベッドから飛び起きた。</span>
 Japanese,scene_fate_chr453_ep1,detail,？？？,ハハハ……！<br>よぉ、特異点。目が覚めたか？
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[ジータ]は、</span><br><span class='scene-font-katari'>壁にもたれかかっている</span><br><span class='scene-font-katari'>屈強な男性を見てハッとする。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>壁にもたれかかっている</span><br><span class='scene-font-katari'>屈強な男性を見てハッとする。</span>
 Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>……ウリエル？</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,フフ……<br>この前は世話になったな。<br>ありがとよ。
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,まさか人間共に助けられるとは<br>夢にも思わなかったけどな。
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[ジータ]はウリエルの姿を</span><br><span class='scene-font-katari'>確認すると、今は夢に違いないと</span><br><span class='scene-font-katari'>二度寝しようとするが──</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]はウリエルの姿を</span><br><span class='scene-font-katari'>確認すると、今は夢に違いないと</span><br><span class='scene-font-katari'>二度寝しようとするが──</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,おいおい、<br>俺を無視するたぁ、<br>いい度胸じゃねぇか。
 Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>夢じゃないの？</span>
 Japanese,scene_fate_chr453_ep1,sel2_txt,,<span class='scene-font-katari'>え、本物！？</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,ハハハ……！<br>どんだけ、<br>俺の試練を恋しがってたんだ？
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,……ったくよぉ、<br>なんなら一勝負するか？<br>眠気を根こそぎ吹き飛ばしてやるぜ？
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[ジータ]は</span><br><span class='scene-font-katari'>豪快に笑い飛ばすウリエルを見て、</span><br><span class='scene-font-katari'>今が夢などではなく現実だと認識する。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>豪快に笑い飛ばすウリエルを見て、</span><br><span class='scene-font-katari'>今が夢などではなく現実だと認識する。</span>
 Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>──と同時に、</span><br><span class='scene-font-katari'>また新たな災厄が起きたのかと</span><br><span class='scene-font-katari'>不安を覚え、顔を曇らせた。</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,ったく……<br>そんなしけたツラすんな。<br>凶報を伝えに来たわけじゃねぇ。
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,天司長がな……仲間と高め合い、<br>庇い合い、個では到達できねぇ<br>力と覚悟に至った──
@@ -23,10 +23,10 @@ Japanese,scene_fate_chr453_ep1,detail,ウリエル,だから今日は、<br>そ�
 Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>仲間になりたいとか？</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,ハハハ……！<br>そいつも悪かねぇな。
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,でもよ、俺にも果たさなきゃならねぇ、<br>使命ってモンがあるんだ。<br>だからよ──
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>再び大きな揺れが起こると、</span><br><span class='scene-font-katari'>ウリエルは申し訳なさそうに</span><br><span class='scene-font-katari'>[ジータ]に微笑みかける。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>再び大きな揺れが起こると、</span><br><span class='scene-font-katari'>ウリエルは申し訳なさそうに</span><br><span class='scene-font-katari'>[플레이어]に微笑みかける。</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,ったく……
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,悪ぃ、ちょっと外まで頼むわ。
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[ジータ]を連れ、</span><br><span class='scene-font-katari'>外に出たウリエルは、</span><br><span class='scene-font-katari'>眼前に巻き起こった砂塵を睨みつけた。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]を連れ、</span><br><span class='scene-font-katari'>外に出たウリエルは、</span><br><span class='scene-font-katari'>眼前に巻き起こった砂塵を睨みつけた。</span>
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,バカヤロウ、とっとと出てこい。<br>騒々しい奴だな。
 Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ウリエルの声に反応したのか、</span><br><span class='scene-font-katari'>大気が震え、砂塵が収まっていくと</span><br><span class='scene-font-katari'>中から見覚えのある女性が姿を現した。</span>
 Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>ブローディア！</span>
@@ -36,7 +36,7 @@ Japanese,scene_fate_chr453_ep1,detail,ブローディア,ですが、わざわ�
 Japanese,scene_fate_chr453_ep1,detail,ウリエル,こういうもんはな、<br>俺から頼むのが筋ってもんだろう。
 Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>その時、騒ぎを聞きつけた</span><br><span class='scene-font-katari'>ルリアとビィが、慌てふためきながら</span><br><span class='scene-font-katari'>騎空艇の甲板へとやってくる。</span>
 Japanese,scene_fate_chr453_ep1,detail,ビィ,い、一体なんだってんだ！？
-Japanese,scene_fate_chr453_ep1,detail,ルリア,[ジータ]、大丈夫ですか？
+Japanese,scene_fate_chr453_ep1,detail,ルリア,[플레이어]、大丈夫ですか？
 Japanese,scene_fate_chr453_ep1,detail,ルリア,って……はわわっ！<br>ウ、ウリエルさん！
 Japanese,scene_fate_chr453_ep1,detail,ビィ,うん？ 隣の姉ちゃんは誰だ？
 Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>何が起きているのか分からず、</span><br><span class='scene-font-katari'>困惑するルリアとビィを見て、</span><br><span class='scene-font-katari'>ウリエルは豪快に笑う。</span>
@@ -99,9 +99,9 @@ Japanese,scene_fate_chr453_ep1,detail,ルリア,ウリエルさんとブロー�
 Japanese,scene_fate_chr453_ep1,detail,ブローディア,ふふ、さて、どうだろうな。
 Japanese,scene_fate_chr453_ep1,detail,ブローディア,何はともあれ、<br>皆、世話になるぞ。 <br>
 Japanese,scene_fate_chr453_ep1,detail,ルリア,はい！
-Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>こうして、新たなる脅威に備えるため、</span><br><span class='scene-font-katari'>[ジータ]一行の旅に</span><br><span class='scene-font-katari'>ブローディアが同行することになった。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>こうして、新たなる脅威に備えるため、</span><br><span class='scene-font-katari'>[플레이어]一行の旅に</span><br><span class='scene-font-katari'>ブローディアが同行することになった。</span>
 Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>だが、その危惧が、</span><br><span class='scene-font-katari'>近い将来現実のものとなるとは、</span><br><span class='scene-font-katari'>この時はまだ誰も知る由もなかった──</span>
-Japanese,scene_chr453_q1_s10,synopsis,,ある日、荷運びの依頼を受けた[ジータ]一行は、騎空艇で目的地に向かっていた。しかし、突如として積み荷が爆発し、損傷した騎空艇は小島に不時着することに。積み荷には時限装置が仕掛けられており、一行は命を狙われたと知る。その時、微かな地鳴りからブローディアは危険を察知、島からの脱出を急ぐよう告げる。だが、出し抜けに現れた機械兵が一行に襲い掛かるのだった。
+Japanese,scene_chr453_q1_s10,synopsis,,ある日、荷運びの依頼を受けた[플레이어]一行は、騎空艇で目的地に向かっていた。しかし、突如として積み荷が爆発し、損傷した騎空艇は小島に不時着することに。積み荷には時限装置が仕掛けられており、一行は命を狙われたと知る。その時、微かな地鳴りからブローディアは危険を察知、島からの脱出を急ぐよう告げる。だが、出し抜けに現れた機械兵が一行に襲い掛かるのだった。
 Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>荷運びの依頼を受けた一行は、</span><br><span class='scene-font-katari'>騎空艇を駆り、</span><br><span class='scene-font-katari'>目的地に向かっていた。</span>
 Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>しかし、山々が連なる小島の上空に</span><br><span class='scene-font-katari'>騎空艇が差しかかったその時──</span>
 Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>突如として、積み荷が爆発した。</span><br><span class='scene-font-katari'>それにより尾翼を損傷し、</span><br><span class='scene-font-katari'>騎空艇は錐揉みしながら墜落していく。</span>
@@ -132,24 +132,24 @@ Japanese,scene_chr453_q1_s10,detail,ラカム,なっ！ いつの間に現れや
 Japanese,scene_chr453_q1_s10,detail,ブローディア,汝は修理を頼む。<br>ここは、我々に任せてくれ。
 Japanese,scene_chr453_q1_s10,detail,ラカム,ああ、頼んだぜ！
 Japanese,scene_chr453_q1_s10,detail,ブローディア,特異点よ、抜かるな。
-Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>[ジータ]とブローディアは</span><br><span class='scene-font-katari'>機械兵を迎え撃つのだった。</span>
-English,scene_fate_chr453_ep1,synopsis,,"The primarch Uriel asks [Djeeta] to let his disciple Alexiel join the crew. Though amused by how this master and disciple are polar opposites in so many ways, the crew gladly accepts."
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>[플레이어]とブローディアは</span><br><span class='scene-font-katari'>機械兵を迎え撃つのだった。</span>
+English,scene_fate_chr453_ep1,synopsis,,"The primarch Uriel asks [플레이어] to let his disciple Alexiel join the crew. Though amused by how this master and disciple are polar opposites in so many ways, the crew gladly accepts."
 English,scene_fate_chr453_ep1,detail,,"The stars twinkle bright, and the crew of the Grandcypher has hunkered down for another peaceful night of rest."
 English,scene_fate_chr453_ep1,detail,,Or so they thought.
-English,scene_fate_chr453_ep1,detail,,"When the ship shakes with the sound of thunder, [Djeeta] jumps out of bed."
+English,scene_fate_chr453_ep1,detail,,"When the ship shakes with the sound of thunder, [플레이어] jumps out of bed."
 English,scene_fate_chr453_ep1,detail,???,Hahaha! Singularity. Are you awake?
-English,scene_fate_chr453_ep1,detail,,[Djeeta]'s eyes open wide at the sight of the bulky man leaning against the wall.
+English,scene_fate_chr453_ep1,detail,,[플레이어]'s eyes open wide at the sight of the bulky man leaning against the wall.
 English,scene_fate_chr453_ep1,sel1_txt,,Uriel?
 English,scene_fate_chr453_ep1,detail,Uriel,Haha. I'd like to thank you again for your help from before.
 English,scene_fate_chr453_ep1,detail,Uriel,Never dreamed I'd be saved by the likes of a mortal.
-English,scene_fate_chr453_ep1,detail,,"[Djeeta] blinks and stares at the figure, then goes back to sleep—must be another dream."
+English,scene_fate_chr453_ep1,detail,,"[플레이어] blinks and stares at the figure, then goes back to sleep—must be another dream."
 English,scene_fate_chr453_ep1,detail,Uriel,Hey! Don't ignore me!
 English,scene_fate_chr453_ep1,sel1_txt,,This isn't a dream?
 English,scene_fate_chr453_ep1,sel2_txt,,Y-you're real?
 English,scene_fate_chr453_ep1,detail,Uriel,Hahaha! Do you like my trial that much?
 English,scene_fate_chr453_ep1,detail,Uriel,Of course! Or would you like a battle to prove it? That ought to wake you up.
-English,scene_fate_chr453_ep1,detail,,"[Djeeta] realizes this is not dream, but reality."
-English,scene_fate_chr453_ep1,detail,,"At the same time, [Djeeta] fears that the primarch's visit could only mean a new calamity threatens the skies."
+English,scene_fate_chr453_ep1,detail,,"[플레이어] realizes this is not dream, but reality."
+English,scene_fate_chr453_ep1,detail,,"At the same time, [플레이어] fears that the primarch's visit could only mean a new calamity threatens the skies."
 English,scene_fate_chr453_ep1,detail,Uriel,Don't worry. I'm not here with ill tidings or whatnot.
 English,scene_fate_chr453_ep1,detail,Uriel,The supreme primarch says we need to learn more of your ways.
 English,scene_fate_chr453_ep1,detail,Uriel,"By working with your allies and strengthening your bonds, you gained power unobtainable on your own."
@@ -157,10 +157,10 @@ English,scene_fate_chr453_ep1,detail,Uriel,So today I've come with a request.
 English,scene_fate_chr453_ep1,sel1_txt,,Do you want to join our crew?
 English,scene_fate_chr453_ep1,detail,Uriel,Hahaha! Not a bad idea.
 English,scene_fate_chr453_ep1,detail,Uriel,But I've got my own duties to attend to. So in my stead—
-English,scene_fate_chr453_ep1,detail,,The ship rocks with another thunderous sound. Uriel winces at [Djeeta] apologetically.
+English,scene_fate_chr453_ep1,detail,,The ship rocks with another thunderous sound. Uriel winces at [플레이어] apologetically.
 English,scene_fate_chr453_ep1,detail,Uriel,Sigh...
 English,scene_fate_chr453_ep1,detail,Uriel,I'm sorry. Could we step out for a minute?
-English,scene_fate_chr453_ep1,detail,,"Uriel leads [Djeeta] outside, where a large cloud of dust greets them."
+English,scene_fate_chr453_ep1,detail,,"Uriel leads [플레이어] outside, where a large cloud of dust greets them."
 English,scene_fate_chr453_ep1,detail,Uriel,Get out here already. And lose the dust!
 English,scene_fate_chr453_ep1,sel1_txt,,null
 English,scene_fate_chr453_ep1,sel1_txt,,null
@@ -179,7 +179,7 @@ English,scene_fate_chr453_ep1,detail,Alexiel,"But, Master Uriel, you needn't hav
 English,scene_fate_chr453_ep1,detail,Uriel,It's better if I'm the one who asks for this sorta thing.
 English,scene_fate_chr453_ep1,detail,,"Just then, a flustered Lyria and Vyrn come out to see what's happened."
 English,scene_fate_chr453_ep1,detail,Vyrn,The heck's goin' on here?
-English,scene_fate_chr453_ep1,detail,Lyria,"[Djeeta], are you all right?"
+English,scene_fate_chr453_ep1,detail,Lyria,"[플레이어], are you all right?"
 English,scene_fate_chr453_ep1,detail,Lyria,Wha! It's Uriel!
 English,scene_fate_chr453_ep1,detail,Vyrn,Hm? Who's the other one?
 English,scene_fate_chr453_ep1,detail,,"Amused by the confusion on their faces, Uriel lets out a chortle."
@@ -275,4 +275,4 @@ English,scene_chr453_q1_s10,detail,Rackam,What the! When did these guys get here
 English,scene_chr453_q1_s10,detail,Alexiel,You take care of the repairs. Leave them to us.
 English,scene_chr453_q1_s10,detail,Rackam,All right. We're counting on you!
 English,scene_chr453_q1_s10,detail,Alexiel,Singularity. Stay sharp.
-English,scene_chr453_q1_s10,detail,,"Together, [Djeeta] and Alexiel battle the machina soldiers."
+English,scene_chr453_q1_s10,detail,,"Together, [플레이어] and Alexiel battle the machina soldiers."
