@@ -91,14 +91,18 @@ Lv* エアグレイブ,Lv* 에어 그레이브
 キュアポーション,큐어포션
 "所持数　<span class=""having-num"">*</span>","소지수　<span class=""having-num"">*</span>"
 "所持数　<span class=""having-num"">**</span>","소지수　<span class=""having-num"">**</span>"
-"所持数　<span class=""having-num"">***</span>","소지수　<span class=""having-num"">**</span>"
-"所持数　<span class=""having-num"">****</span>","소지수　<span class=""having-num"">**</span>"
+"所持数　<span class=""having-num"">***</span>","소지수　<span class=""having-num"">***</span>"
+"所持数　<span class=""having-num"">****</span>","소지수　<span class=""having-num"">****</span>"
 オールポーション,올 포션
 オールポーションを使用します,올 포션을 사용합니다
 "所持数　<span class=""having-num"">*</span>→<span class=""after-num"">*</span>","소지수　<span class=""having-num"">*</span>→<span class=""after-num"">*</span>"
 "所持数　<span class=""having-num"">**</span>→<span class=""after-num"">*</span>","소지수　<span class=""having-num"">**</span>→<span class=""after-num"">*</span>"
 "所持数　<span class=""having-num"">***</span>→<span class=""after-num"">**</span>","소지수　<span class=""having-num"">***</span>→<span class=""after-num"">**</span>"
 "所持数　<span class=""having-num"">***</span>→<span class=""after-num"">***</span>","소지수　<span class=""having-num"">***</span>→<span class=""after-num"">***</span>"
+"所持数　<span class=""having-num"">****</span>→<span class=""after-num"">***</span>","소지수　<span class=""having-num"">****</span>→<span class=""after-num"">***</span>"
+"所持数　<span class=""having-num"">****</span>→<span class=""after-num"">****</span>","소지수　<span class=""having-num"">****</span>→<span class=""after-num"">****</span>"
+"所持数　<span class=""having-num"">*****</span>→<span class=""after-num"">****</span>","소지수　<span class=""having-num"">*****</span>→<span class=""after-num"">****</span>"
+"所持数　<span class=""having-num"">*****</span>→<span class=""after-num"">*****</span>","소지수　<span class=""having-num"">*****</span>→<span class=""after-num"">*****</span>"
 戦闘に参加しているメンバー全員が<br>回復します,모든 전투에 참가하고 있는 멤버들이 <br>회복합니다.
 さぁさぁ、元気のでたところで奥義でブッ倒しちまえぃ！,"자자, 건강해진 참에 오의로 쓰러뜨려버려！"
 頼んだ！ このまま【攻撃】で一気に行くぞ！,맡겨뒀어! 이대로 【공격】으로 단숨에 간다！
