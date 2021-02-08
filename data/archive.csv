@@ -13814,14 +13814,18 @@ Lv* エアグレイブ,Lv* 에어 그레이브
 キュアポーション,큐어포션
 "所持数　<span class=""having-num"">*</span>","소지수　<span class=""having-num"">*</span>"
 "所持数　<span class=""having-num"">**</span>","소지수　<span class=""having-num"">**</span>"
-"所持数　<span class=""having-num"">***</span>","소지수　<span class=""having-num"">**</span>"
-"所持数　<span class=""having-num"">****</span>","소지수　<span class=""having-num"">**</span>"
+"所持数　<span class=""having-num"">***</span>","소지수　<span class=""having-num"">***</span>"
+"所持数　<span class=""having-num"">****</span>","소지수　<span class=""having-num"">****</span>"
 オールポーション,올 포션
 オールポーションを使用します,올 포션을 사용합니다
 "所持数　<span class=""having-num"">*</span>→<span class=""after-num"">*</span>","소지수　<span class=""having-num"">*</span>→<span class=""after-num"">*</span>"
 "所持数　<span class=""having-num"">**</span>→<span class=""after-num"">*</span>","소지수　<span class=""having-num"">**</span>→<span class=""after-num"">*</span>"
 "所持数　<span class=""having-num"">***</span>→<span class=""after-num"">**</span>","소지수　<span class=""having-num"">***</span>→<span class=""after-num"">**</span>"
 "所持数　<span class=""having-num"">***</span>→<span class=""after-num"">***</span>","소지수　<span class=""having-num"">***</span>→<span class=""after-num"">***</span>"
+"所持数　<span class=""having-num"">****</span>→<span class=""after-num"">***</span>","소지수　<span class=""having-num"">****</span>→<span class=""after-num"">***</span>"
+"所持数　<span class=""having-num"">****</span>→<span class=""after-num"">****</span>","소지수　<span class=""having-num"">****</span>→<span class=""after-num"">****</span>"
+"所持数　<span class=""having-num"">*****</span>→<span class=""after-num"">****</span>","소지수　<span class=""having-num"">*****</span>→<span class=""after-num"">****</span>"
+"所持数　<span class=""having-num"">*****</span>→<span class=""after-num"">*****</span>","소지수　<span class=""having-num"">*****</span>→<span class=""after-num"">*****</span>"
 戦闘に参加しているメンバー全員が<br>回復します,모든 전투에 참가하고 있는 멤버들이 <br>회복합니다.
 さぁさぁ、元気のでたところで奥義でブッ倒しちまえぃ！,"자자, 건강해진 참에 오의로 쓰러뜨려버려！"
 頼んだ！ このまま【攻撃】で一気に行くぞ！,맡겨뒀어! 이대로 【공격】으로 단숨에 간다！
@@ -14507,6 +14511,15 @@ APを回復しました。<br>        AP　***→***<br>        所持数　****
 未クリアクエストのため<br>消費したAPが返却されます,미클리어 퀘스트이므로<br>소비한 AP가 반환됩니다.
 タッチするとオートアタックが有効になります,터치하면 오토 어택이 유효해집니다
 軌跡の雫 新着情報,궤적의 물방울 신착 정보
+クリア報酬,클리어 보수
+初回クリア報酬,첫회 클리어 보수
+完勝報酬,완승 보수
+ミッション,미션
+ミッションを達成！,미션 달성!
+ミッション報酬,미션 보수
+エリア解放,지역 해방
+エリアTOPへ,에리어 TOP으로
+
 
 
 
@@ -15834,6 +15847,7 @@ BPは使用されませんでした,BP는 사용되지 않았습니다.
 所持数：**,소지수: **
 所持数：***,소지수: ***
 所持数：****,소지수: ****
+所持数：*****,소지수: *****
 制限なし,제한없음
 本日あと*個,금일 재고 *개
 本日あと**個,금일 재고 **개
@@ -16141,7 +16155,6 @@ Lv*** 黄龍・黒麒麟,Lv*** 황룡・흑기린
 <li>・報酬受け取り期間は「*/** **:**」までとなりますので、予めご注意ください。</li>                                <li>・報酬受け取り期間を過ぎてしまうと四象報酬を交換することができなくなります。</li>,<li>・보상수령 기간은「*/** **:**」까지이오니 사전에 주의해 주시기 바랍니다.</li>                                <li>・보상수령 기간이 지나면 사상 보상을 교환할 수 없게 됩니다.</li>
 ・報酬受け取り期間は「*/** **:**」までとなりますので、予めご注意ください。,・보상수령 기간은「*/** **:**」까지이오니 사전에<br>주의해 주시기 바랍니다.
 ・報酬受け取り期間を過ぎてしまうと四象報酬を交換することができなくなります。,・보상수령 기간이 지나면 사상 보상을 교환할 수 없게 됩니다.
-"<li>・데일리 미션은 오전 *:**에 갱신됩니다.</li>                                <li>・데일리 미션이 갱신되기 전까지 컴플리트 하지 못한 경우, 각 미션의 달성 상황은 다음날 인계됩니다.</li>"
 ・デイリーミッションは午前*:**に更新されます。,・데일리 미션은 오전 *:**에 갱신됩니다.
 ・デイリーミッションが更新されるまでにコンプリートできなかった場合、各ミッションの達成状況は翌日に引き継がれます。,"・데일리 미션이 갱신되기 전까지 컴플리트 하지 못한 경우, 각 미션의 달성 상황은 다음날 인계됩니다."
 難度：PROUD・PROUD＋,난이도：PROUD・PROUD＋
@@ -16330,6 +16343,8 @@ MVP報酬で<br>戦貨:古戦場を***枚獲得した!,MVP 보상으로<br>전�
 （所持数　*）,（소지수　*）
 （所持数　**）,（소지수　**）
 （所持数　***）,（소지수　***）
+（所持数　****）,（소지수　****）
+（所持数　*****）,（소지수　*****）
 設定する,설정한다
 グガランナ,구갈안나
 
