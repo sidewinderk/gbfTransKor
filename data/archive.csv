@@ -15959,6 +15959,14 @@ PPを<%= dungeon_point %>獲得しました！,PP를<%= dungeon_point %>획득�
 (ボーナス +*****),(보너스 +*****)
 (ボーナス +******),(보너스 +******)
 新アイテム入手,새아이템 입수
+ディール,딜
+ディールが完了しました,딜을 완료했습니다
+報酬獲得,보상획득
+"ディール済み<br>                                <span class=""txt-numbers"">***</span>","딜 완료<br>                                <span class=""txt-numbers"">***</span>"
+"ディール済み<br>                                <span class=""txt-numbers"">**</span>","딜 완료<br>                                <span class=""txt-numbers"">**</span>"
+"ディール済み<br>                                <span class=""txt-numbers"">*</span>","딜 완료<br>                                <span class=""txt-numbers"">*</span>"
+
+
 
 !멀티배틀
 救援依頼一覧,구원요청 목록
