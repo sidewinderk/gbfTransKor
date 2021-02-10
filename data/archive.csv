@@ -14625,7 +14625,7 @@ ID入力,ID입력
 バトル一覧,배틀 목록
 "第<span id=""txt-number-value"">****</span>話<br>更新!","제<span id=""txt-number-value"">****</span>화<br>갱신!"
 重要,중요
-下記の騎空団サポート効果が終了しました。<br />	<br />	<ul>		</ul>,이하의 기동단 서포트효과가 종료되었습니다.<br />	<br />	<ul>		</ul>
+下記の騎空団サポート効果が終了しました。<br />	<br />	<ul>		</ul>,이하의 기공단 서포트효과가 종료되었습니다.<br />        <br />        <ul>                </ul>
 下記のよろず屋サポート効果が終了しました。<br>	<br>	<ul>		</ul>,이하의 잡화상 서포트효과가 종료되었습니다.<br>	<br>	<ul>		</ul>
 "<% if(isLastChecked) { %><a href=""javascript:void(*);"" class=""btn-help-close"">閉じる</a><% } else { %><a href=""javascript:void(*);"" class=""btn-help-next btn-silent-se"">次へ</a><% } %>","<% if(isLastChecked) { %><a href=""javascript:void(*);"" class=""btn-help-close"">닫기</a><% } else { %><a href=""javascript:void(*);"" class=""btn-help-next btn-silent-se"">다음으로</a><% } %>"
 *分 *秒,*분 *초
@@ -14730,7 +14730,7 @@ APを回復しました。<br>        AP　***→***<br>        所持数　****
 クエスト撤退,퀘스트 철퇴
 撤退した場合、このクエストで獲得した<br>アイテム・経験値・ルピは入手できません,"철수할 경우, 이 퀘스트로 획득한<br>아이템, 경험치, 루피는 입수할 수 없습니다."
 未クリアクエストのため<br>消費したAPが返却されます,미클리어 퀘스트이므로<br>소비한 AP가 반환됩니다.
-タッチするとオートアタックが有効になります,터치하면 오토 어택이 유효해집니다
+タッチするとオートアタックが有効になります,터치하면 오토 어택이 켜집니다
 軌跡の雫 新着情報,궤적의 물방울 신착 정보
 クリア報酬,클리어 보수
 初回クリア報酬,첫회 클리어 보수
