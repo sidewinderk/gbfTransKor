@@ -17155,17 +17155,6 @@ OK
 第２部,제2부
 第３部,제3부
 ダイジェスト,다이제스트
-"<span class=""txt-message typist-container"" style=""color: rgb(***, ***, ***); font-family: inherit; height: auto;""><span class=""scene-font-katari"">一同はついに</span><br><span class=""scene-font-katari"">凄腕の操舵士と謳われる男、</span><br><span class=""scene-font-katari"">ラカムを見つける。</span></span>","<span class=""txt-message typist-container"" style=""color: rgb(***, ***, ***); font-family: inherit; height: auto;""><span class=""scene-font-katari"">일동은 마침내</span><br><span class=""scene-font-katari"">뛰어난 조타사로 불리는 사나이、</span><br><span class=""scene-font-katari"">라캄을 발견하다。</span></span>"
-"<span class=""scene-font-katari"">一同はついに</span><br><span class=""scene-font-katari"">凄腕の操舵士と謳われる男、</span><br><span class=""scene-font-katari"">ラカムを見つける。</span>","<span class=""scene-font-katari"">일동은 마침내</span><br><span class=""scene-font-katari"">뛰어난 조타사로 불리는 사나이、</span><br><span class=""scene-font-katari"">라캄을 발견하다。</span>"
-一同はついに,일동은 마침내
-凄腕の操舵士と謳われる男、,뛰어난 조타사로 불리는 사나이、
-ラカムを見つける。,라캄을 발견하다。
-"<span class=""scene-font-katari"">一同はついに</span><br><span class=""scene-font-katari"">凄腕の操舵士と謳われる男、</span><br><span class=""scene-font-katari"">ラカムを見つける。</span><br><br><br><br><br>","<span class=""scene-font-katari"">일동은 마침내</span><br><span class=""scene-font-katari"">뛰어난 조타사로 불리는 사나이、</span><br><span class=""scene-font-katari"">라캄을 발견하다。</span><br><br><br><br><br>"
-虚の穴,허공
-永久の決闘者,영원한 결투자
-よーし……<br>それじゃ次の実験だ！<br>試料にかける魔晶の負荷を倍に増やせ！,좋아...<br>그럼 다음 실험이다!<br>시료에 거는 마정의 부하를 배로 늘려라!
-フュリアス, 퓨리어스
-<span>フュリアス</span>,<span> 퓨리어스 </span>
 <ul>                <li>Limited Battleでは、救援、チャット、スタンプを送ることができません。</li>                <li>Limited Battleでは、能力UPや回復、敵への状態異常など、他の参戦者に影響するアビリティの効果は自分のパーティのみに有効となります。</li>                <li>MVPはありません。</li>                <li>エラー画面などからLimited Battleを撤退した場合、再度参加することはできません。</li>        </ul>,"<ul>                <li>Limited Battle에서는 구원, 채팅, 스탬프를 보낼 수 없습니다.</li>                <li>Limited Battle에서는 능력 UP 및 회복, 적 상태 이상 등 다른 참전자에게 영향을 주는 어빌리티의 효과는 자신의 파티에만 효과적입니다.</li>                <li>MVP는 없습니다.</li>                <li>에러 화면등에서 Limited Battle 을 철수한 경우, 다시 참가할 수 없습니다.</li>        </ul>"
 <ul>                <li>チャット、スタンプを送ることができません。</li>                <li>能力UPや回復、敵のステータス効果など、他の参戦者に影響するアビリティの効果は自分のパーティのみに有効となります。</li>        </ul>,"<ul>                <li>채팅, 스탬프를 보낼 수 없습니다.</li>                <li>능력 UP 및 회복, 적의 상태 효과 등, 다른 참전자에게 영향을 주는 어빌리티의 효과는 자신의 파티에만 유효합니다.</li>        </ul>"
 <ul>                <li>本バトルには、倒すことが出来ない敵が出現する場合があります。</li>                <li>バトルを終了する場合は、MENUから「撤退」を実行してください。</li>                <li>本バトルでは、アイテム・経験値・ルピを入手することはできません。</li>        </ul>,"<ul>                <li>본 배틀에서는 쓰러뜨릴 수 없는 적이 출현하는 경우가 있습니다.</li>                <li>배틀을 종료하려면 MENU에서 「철수」를 진행해 주세요.</li>                <li>본 배틀에서는 아이템, 경험치, 루피를 입수할 수 없습니다.</li>        </ul>"
@@ -17201,7 +17190,7 @@ OK
 
 ミッション成功！,미션 성공!
 難度★を*回クリア,난이도 ★를 *회 클리어
-ドレッドバラ―ジュ,드레드 바라지
+ドレッドバラ―ジュ,드레드 바라쥬
 ・騎空団で倒したボスの累計が一定数に到達すると、新たな難度のクエストが解放されます。,"・기공단에서 쓰러뜨린 보스의 누계가 일정 수에 도달하면, 새로운 난도의 퀘스트가 해방됩니다."
 ・クエスト解放報酬は、報酬受け取り期間中にイベントTOPに移動することで騎空団員全員が入手できます。,"・퀘스트 해방 보수는, 보상 수령 기간 중에 이벤트 TOP으로 이동하면 기공단원 전원이 입수할 수 있습니다."
 ・イベント開催時に騎空団に所属していないプレイヤーのみ、開催期間中の入団が可能です。,"・이벤트 개최시에 기공단에 소속되어 있지 않은 플레이어만, 개최 기간중에 입단이 가능합니다."
