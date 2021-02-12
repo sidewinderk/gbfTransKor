@@ -42,7 +42,7 @@ race-sd119ead0ab,race-sd119ead0ab.png
 type-s59daeab27c,type-s59daeab27c.png
 parts_small-s257ea2373b.png,parts_small-s257ea2373b.png
 parts-scd5cbbdb61.png,parts-scd5cbbdb61.png
-parts-sc3185cf923.png,parts-sc3185cf923.png
+
 
 !전투화면
 img/sp/cjs/raid_parts_attack.png,raid_parts_attack.png
@@ -62,6 +62,7 @@ img/sp/cjs/raid_appear_8100293.png,raid/raid_appear_8100293.png
 img/sp/cjs/raid_appear_8100383.png,raid/raid_appear_8100383.png
 
 !상점
+parts-sc3185cf923.png,parts-sc3185cf923.png
 img/sp/shop/index/thumbnail/01.png,shop/index/thumbnail/01.png
 img/sp/shop/index/thumbnail/02.png,shop/index/thumbnail/02.png
 img/sp/shop/index/thumbnail/05.png,shop/index/thumbnail/05.png
