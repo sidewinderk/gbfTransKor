@@ -1074,7 +1074,12 @@ Arcarum
 獲得条件<br>***種類の武器を入手,획득조건<br>*** 종류의 무기를 획득
 
 召喚石記録数:**,소환석 기록 수：**
-獲得条件：**種類の召喚石を入手,획득：** 종류의 소환석을 획득
+獲得条件：**種類の召喚石を入手,획득조건：** 종류의 소환석을 획득
+獲得条件<br>**種類の召喚石を入手,획득조건<br>** 종류의 소환석을 획득
+
+
+
+
 
 キャラレベル:***,캐릭터 레벨：***
 獲得条件：キャラクターのレベル合計を***にする,회득조건：캐릭터의 레벨의 합계가 ***이 된다
@@ -1233,14 +1238,14 @@ The Dragon Knights
 
 幸せって何だっけ,행복이란 무엇인가
 獲得条件：クエスト「幸福への導き所」をクリア,획득조건：퀘스트「행복으로 이끄는 곳」을 클리어
-
+,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 栄養そのものの味,영양의 풍미
-獲得条件：クエスト「偽りだらけの青春の１ページ」をクリア,획득조건：퀘스트「거짓투성이 청춘의 1페이지」를 클리어
+獲得条件：クエスト「偽りだらけの青春の１ページ」をクリア,획득조건：퀘스트「거짓투성이 청춘의 1페이지」를 클리어,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 
 朱,주 (朱)
-獲得条件：クエスト「六竜討伐戦「朱」」をクリア,획득조건：퀘스트「육룡토벌전「주」」를 클리어,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：クエスト「六竜討伐戦「朱」」をクリア,획득조건：퀘스트「육룡토벌전「주」」를 클리어
 
-碧,벽 (碧),,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+碧,벽 (碧)
 獲得条件：クエスト「六竜討伐戦「碧」」をクリア,획득조건：퀘스트「육룡토벌전「벽」」을 클리어
 
 金,금 (金)
@@ -1251,12 +1256,12 @@ The Dragon Knights
 
 白,백 (白)
 獲得条件：クエスト「六竜討伐戦「白」」をクリア,획득조건：퀘스트「육룡토벌전「백」」을 클리어
-
+,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 黒,흑 (黒)
 獲得条件：クエスト「六竜討伐戦「黒」」をクリア,획득조건：퀘스트「육룡토벌전「흑」」을 클리어
 
 富豪,부호
-全空の長者番付常連,모든 하늘의 부자 순위권자,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+全空の長者番付常連,모든 하늘의 부자 순위권자
 獲得条件<br>******ルピ所持,획득조건<br>******루피 소지
 獲得条件<br>********ルピ所持,획득조건<br>********루피 소지
 いっぱしの勝負師,실력있는 승부사
@@ -1278,12 +1283,12 @@ The Dragon Knights
 獲得条件<br>ダブルアップ*回目を達成,획득조건<br>더블업 *회차 달성
 獲得条件<br>ダブルアップ**回目を達成,획득조건<br>더블업 **회차 달성
 光り輝く剣の使い手,빛나는 검의 사용자
-眩き光を放つ宝剣の使い手,눈부시게 빛나는 검의 사용자
+眩き光を放つ宝剣の使い手,눈부시게 빛나는 검의 사용자,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
 神々しき輝きの名剣の使い手,거룩하게 빛나는 검의 사용자
 ミカエル・フォロワー,미카엘 팔로워
 極まりし天司の名剣,대천사의 명검
 獲得条件<br>Sレア武器「ソード・オブ・ミカエル」を*回上限解放する,획득조건<br>SR 무기「소드・오브・미카엘」을 *회 상한해방
-獲得条件<br>SSレア武器「ソード・オブ・ミカエル」を入手,획득조건<br>SSR 무기「소드・오브・미카엘」을 획득,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+獲得条件<br>SSレア武器「ソード・オブ・ミカエル」を入手,획득조건<br>SSR 무기「소드・오브・미카엘」을 획득
 獲得条件<br>SSレア武器「赤き熾炎の剣」を入手,획득조건<br>SSR 무기「붉은 치염의 검」을 획득
 光り輝く杖の使い手,빛나는 지팡이의 사용자
 眩き光を放つ宝杖の使い手,눈부시게 빛나는 지팡이의 사용자
@@ -1305,14 +1310,14 @@ The Dragon Knights
 眩き光を放つ宝弓の使い手,눈부시게 빛나는 활의 사용자
 神々しき輝きの名弓の使い手,거룩하게 빛나는 활의 사용자
 ラファエル・フォロワー,라파엘 팔로워
-極まりし天司の名弓,대천사의 명궁
+極まりし天司の名弓,대천사의 명궁,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件<br>Sレア武器「リング・オブ・ラファエル」を*回上限解放する,획득조건<br>SR 무기「링・오브・라파엘」을 *회 상한해방
-獲得条件<br>SSレア武器「リング・オブ・ラファエル」を入手,획득조건<br>SSR 무기「링・오브・라파엘」을 획득
+獲得条件<br>SSレア武器「リング・オブ・ラファエル」を入手,획득조건<br>SSR 무기「링・오브・라파엘」을 획득,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件<br>SSレア武器「果てぬ風呼の魔弓」を入手,획득조건<br>SSR 무기「끝없는 바람의 마궁」을 획득
 光り輝く竪琴の使い手,빛나는 하프의 사용자
-眩き光を放つ宝琴の使い手,눈부시게 빛나는 하프의 사용자,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+眩き光を放つ宝琴の使い手,눈부시게 빛나는 하프의 사용자
 神々しき輝きの名琴の使い手,거룩하게 빛나는 하프의 사용자
-は～ま～・フォロワー,하～마～ 팔로워,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+は～ま～・フォロワー,하～마～ 팔로워
 極まりし天司の名琴,대천사의 명금
 獲得条件<br>Sレア武器「ハープ・オブ・ハルワアムル」を*回上限解放する,획득조건<br>SR 무기「하프・오브・하루와아무르」를 *회 상한해방
 獲得条件<br>SSレア武器「ハープ・オブ・ハルワアムル」を入手,획득조건<br>SSR 무기「하프・오브・하루와아무르」를 획득
@@ -1322,21 +1327,21 @@ The Dragon Knights
 悍ましき気色の禍鎌の使い手,꺼림직한 기운을 내뿜는 낫의 사용자
 べリアル・フォロワー,벨리알 팔로워
 極まりし堕天司の禍鎌,위험한 타천사의 불길한 낫
-獲得条件<br>Sレア武器「サイス・オブ・ベリアル」を*回上限解放する,획득조건<br>SR 무기「사이즈・오브・벨리알」을 *회 상한해방
+獲得条件<br>Sレア武器「サイス・オブ・ベリアル」を*回上限解放する,획득조건<br>SR 무기「사이즈・오브・벨리알」을 *회 상한해방,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件<br>SSレア武器「サイス・オブ・ベリアル」を入手,획득조건<br>SSR 무기「사이즈・오브・벨리알」을 획득
 獲得条件<br>SSレア武器「闇の子の歯牙」を入手,획득조건<br>SSR 무기「어둠의 자식의 이빨」를 획득
 
 獲得条件<br>アニマ、マグナアニマと名がつくアイテムを累計で*****個入手,"획득조건<br>아니마, 마그나 아니마 라고 이름붙은 아이템을 누계 *****개 획득"
-獲得条件<br>*******ルピ所持,획득조건<br>******* 루피 소지,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件<br>*******ルピ所持,획득조건<br>******* 루피 소지
 獲得条件：カジノでメダルを累計**万枚獲得する,획득조건：카지노에서 메달을 누계 **만개 획득한다
 獲得条件：ダブルアップ**回目を達成,획득조건：더블 탭 **회차 달성
 獲得条件<br>カジノでメダルを累計*万枚獲得する
-獲得条件<br>カジノでメダルを累計***万枚獲得する
+獲得条件<br>カジノでメダルを累計***万枚獲得する,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
 夢抱く者,꿈을 품은 자
 果てなき探究心,끝없는 탐구심
 獲得条件<br>パーティの戦力が****に到達,획득조건<br>파티의 전력이 ****에 도달
 獲得条件<br>パーティの戦力が*****に到達,획득조건<br>파티의 전력이 *****에 도달
-蒼の英雄,푸른영웅,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+蒼の英雄,푸른영웅,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 神威,신위
 蒼き巨星,푸른거성
 獲得条件<br>パーティの戦力が******に到達,획득조건<br>파티의 전력이 ******에 도달
@@ -1346,15 +1351,15 @@ The Dragon Knights
 
 
 
-業火の職人,업화의 장인,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+業火の職人,업화의 장인
 紅蓮の名工,홍련의 명공
 火属性に自信アリ,화속성에 자신있는
-獲得条件<br>火属性強化スキルLv**に到達,획득조건<br>화속성 강화스킬 Lv**에 도달
+獲得条件<br>火属性強化スキルLv**に到達,획득조건<br>화속성 강화스킬 Lv**에 도달,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 獲得条件<br>火属性強化スキルLv***に到達,획득조건<br>화속성 강화스킬 Lv***에 도달
 渦潮の職人,소용돌이의 장인
 霧氷の名工,무빙의 명공
 水属性に自信アリ,수속성에 자신있는
-獲得条件<br>水属性強化スキルLv**に到達,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+獲得条件<br>水属性強化スキルLv**に到達
 獲得条件<br>水属性強化スキルLv***に到達
 大地の職人,대지의 장인
 地裂の名工,지열의 명공
