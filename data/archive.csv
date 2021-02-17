@@ -7779,10 +7779,13 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 [誓いの義侠騎士],[맹세의 의협기사]
 ユイシス,유이시스
 
+破煌刃・絶影,파황날-절영
 破煌刃・絶影＋,파황날・절영＋
 "火属性ダメージ(特大)/自分に逆境効果　<span class=""text-blue"">◆追加効果：自分にバリア効果</span>","화속성 데미지 (특대)/자신에게 역경 효과　<span class=""text-blue"">◆추가 효과：자신에게 배리어 효과</span>"
+鬼哭啾々,귀곡추추
 鬼哭啾々＋,귀곡추추＋
 "<div class=""prt-text-small"">自分のHPを犠牲にして敵に火属性ダメージ/自分に被ダメージ無効<span class=""text-blue"">　◆追加効果:自分の他のアビリティが即時使用可能になる</span></div>","<div class=""prt-text-small"">자신의HP을 희생해서 적에게 화속성 데미지/자신이 받는 데미지 무효<span class=""text-blue"">　◆추가 효과 : 자신의 다른 어빌리티를 즉시 사용 가능</span></div>"
+暁闇,효암
 暁闇＋,효암＋
 "<div class=""prt-text-small"">ターゲットに関わらず*回火属性ダメージ/自分にカウンター効果(回避/*回)<span class=""text-blue"">　◆追加効果:自分に通常攻撃の与ダメージUP効果</span></div>","<div class=""prt-text-small"">타겟과 관계 없이 *회 화속성 데미지/자신에게 카운터 효과(회피/*회)<span class=""text-blue"">　◆추가 효과 : 자신의 통상 공격 데미지 UP 효과</span></div>"
 一刀命終,일도명종
@@ -11846,24 +11849,24 @@ START:DASH!!,START:DASH!!
 
 
 "!이르자(SSR,광속통상)"
-[動乱の指導者]
-イルザ
+[動乱の指導者],[혼란 속의 지도자]
+イルザ,이르자
 
-バースト・リムーバー
-バースト・リムーバー＋
-光属性ダメージ(特大)/自分のリンクアビリティが即時使用可能/軍資を*追加
-コールトゥアームズ
-コールトゥアームズ＋
-"<div class=""prt-text-small"">味方全体に闇属性ダメージ軽減効果/自分が陣地戦を展開　<span class=""text-blue"">◆陣地戦中、敵が特殊技を発動時自分に軍資を*追加</span></div>"
-ミッドナイト・ムーヴァー
-ミッドナイト・ムーヴァー＋
-"<div class=""prt-text-small"">味方全体に光属性追撃効果/自分が機動戦を展開　<span class=""text-blue"">◆機動戦中、味方が回避に成功したターン終了時自分に軍資を*追加</span></div>"
-ガンズラス
-"<div class=""prt-text-small"">敵全体に光属性ダメージ<br><span class=""text-blue"">陣地戦中：味方全体のHP回復/防御UP(累積)<br>機動戦中：味方全体の連続攻撃確率UP(累積)</span></div>"
-スイッチング・ウォーフェア
-"<div class=""prt-text-small"">陣地戦中は味方全体の防御UP/機動戦中は味方全体の回避率UP　<span class=""text-blue"">◆陣地戦と機動戦はどちらか一方のみ展開可能</span></div>"
-鬼教官の兵站術
-"<div class=""prt-text-small"">バトル開始時自分に軍資を*追加(最大*)　<span class=""text-blue"">◆ターン終了時に軍資を*消費してガンズラスを発動</span></div>"
+バースト・リムーバー,버스트 리무버
+バースト・リムーバー＋,버스트 리무버+
+光属性ダメージ(特大)/自分のリンクアビリティが即時使用可能/軍資を*追加,광속성 데미지(특대)/자신의 링크 어빌리티 쿨타임 초기화/군자를 1 추가
+コールトゥアームズ,콜 투 암즈
+コールトゥアームズ＋,콜 투 암즈+
+"<div class=""prt-text-small"">味方全体に闇属性ダメージ軽減効果/自分が陣地戦を展開　<span class=""text-blue"">◆陣地戦中、敵が特殊技を発動時自分に軍資を*追加</span></div>","<div class=""prt-text-small""> 아군 전체에 어둠속성 데미지 경감효과 / 자신이 진지전을 전개 <span class=""text-blue"">◆ 진지전 중 적이 특수기 발동 시 자신에게 군자를 * 추가 </span> </div>"
+ミッドナイト・ムーヴァー,미드나이트 무버
+ミッドナイト・ムーヴァー＋,미드나이트 무버+
+"<div class=""prt-text-small"">味方全体に光属性追撃効果/自分が機動戦を展開　<span class=""text-blue"">◆機動戦中、味方が回避に成功したターン終了時自分に軍資を*追加</span></div>","<div class=""prt-text-small"">아군 전체에 광속성 추격효과 / 자신이 기동전 전개 <span class=""text-blue"">◆기동전 중 아군이 회피에 성공한 턴 종료 시 자신에게 군자를 * 추가 </div>"
+ガンズラス,건즈 란스
+"<div class=""prt-text-small"">敵全体に光属性ダメージ<br><span class=""text-blue"">陣地戦中：味方全体のHP回復/防御UP(累積)<br>機動戦中：味方全体の連続攻撃確率UP(累積)</span></div>","<div class=""prt-text-small""> 적 전체에 광속성 데미지 <br> <span class=""text-blue""> 진지전 중: 아군 전체의 HP 회복/방어 UP(누적) <br> 기동전 중: 아군 전체의 연속 공격확률 UP(누적) </div>"
+スイッチング・ウォーフェア,스위칭 스페어
+"<div class=""prt-text-small"">陣地戦中は味方全体の防御UP/機動戦中は味方全体の回避率UP　<span class=""text-blue"">◆陣地戦と機動戦はどちらか一方のみ展開可能</span></div>","<div class=""prt-text-small""> 진지전 중에는 아군전체 방어 UP / 기동전 중에는 아군전체 회피율 UP <span class=""text-blue"">◆ 진지전과 기동전은 어느 한쪽만 전개 가능 </span> </div>"
+鬼教官の兵站術,귀신 교관의 병참술
+"<div class=""prt-text-small"">バトル開始時自分に軍資を*追加(最大*)　<span class=""text-blue"">◆ターン終了時に軍資を*消費してガンズラスを発動</span></div>","<div class=""prt-text-small"">배틀 시작시 자신에게 군자를 *추가(최대*) <span class=""text-blue"">◆턴 종료시 군자를 *소비하여 건즐 발동 </div>"
 
 
 "!이오(SSR,리미티드)"
