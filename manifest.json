@@ -16,6 +16,7 @@
     "options_page": "options.html",
     "permissions": [
         "activeTab",
+        "tabs",
         "storage",
         "webNavigation",
         "clipboardWrite"
