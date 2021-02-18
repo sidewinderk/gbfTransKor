@@ -1,0 +1,182 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt200128_cp0_q5_s10,synopsis,,アイザック達の出発を見守り、島を発った[플레이어]達。後日、バザラガに誘われて一緒に食事をとる[플레이어]達。バザラガの脳裏には出発間際のレイベリィの言葉が浮かぶ。バザラガの戦い方は、強さと脆さの表れであるらしい。グロウノスの暴走や機神化は、バザラガの隠れた望みを聞き届けた結果かもしれないと。だが強く脆い物は強靭で柔らかな物と合わさり欠点を克服する。ゆえに捨てた物ではないのだとも。
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>アイザック達を見送ったあと、</span><br><span class='scene-font-katari'>バザラガが[플레이어]の部屋を</span><br><span class='scene-font-katari'>訪れた。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,[플레이어]、少しいいだろうか？
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,急にすまない。<br>これから状況が大きく動きそうでな。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,今回の事で迷惑をかけた詫び……<br>というのもなんだが、<br>食事を奢らせてくれ。
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>[플레이어]とルリア、ビィを連れ、</span><br><span class='scene-font-katari'>バザラガは街をゆく。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,なにか希望はあるか？
+Japanese,scene_evt200128_cp0_q5_s10,sel1_txt,,<span class='scene-font-katari'>オムライス食べたい</span>
+Japanese,scene_evt200128_cp0_q5_s10,sel2_txt,,<span class='scene-font-katari'>“映え”なスイーツ食べたい</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……ああ。<br>カシウスと行った、あの店か。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,そうだな。<br>あれがちょうどいい。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,…………？
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,バエナ……？<br>それは島の名か？
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……すまない。<br>そういった事には疎いものでな。
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>そんな会話をしながら、</span><br><span class='scene-font-katari'>足は自然とカフェに向いていた。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……不思議と懐かしいものだな。<br>そう日は経っていないというのに。
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>[플레이어]とビィ、ルリアが</span><br><span class='scene-font-katari'>メニューを眺めるさまを、</span><br><span class='scene-font-katari'>バザラガは見守る。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>カシウス達を見送る直前、</span><br><span class='scene-font-katari'>ロケットの始動を待つ間の事を</span><br><span class='scene-font-katari'>思い出しながら──</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,ふむ……
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,む……？
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,封印武器と共生関係にあるお前は<br>興味深い。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,共生だと？
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,お前はグロウノスの力を使い、<br>グロウノスはお前の肉体を支えに<br>根の形を保っている。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,難儀なものだ。<br>いつ暴走を起こすか<br>わかったものではない。
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,グロウノスの機神化にしろ、か。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,ああ。付き合いがなかなか難しい。<br>封印武器は空の民が扱えるように<br>なっているそうだが……
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,完全ではないのかもしれんな。<br>イースターエッグの仕込みは<br>よほどの突貫作業だったのだろう。
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,もしくは、<br>願いを叶えようとしたのかもしれん。<br>お前の陰にある願いをな。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……俺の願いだと？
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,アイザックによれば、<br>封印武器は使用者の心情を汲むそうだ。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,…………
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,グロウノスは、<br>己の身を顧みない戦い方を<br>そう解釈したとも取れる。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,我を忘れて暴走させようと？
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,強大な敵として<br>立ちはだかる事も含めてな。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,…………
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……しかし、<br>それは真に望む事ではない。
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,共生関係にあるならば、<br>グロウノスもそれを理解するだろう。<br>お前の脆さと強さを。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,脆さ、か。
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,性質としては欠点ではない。<br>鉄は黒い物を取り込んで硬さを増すが<br>同時に脆くもなる。
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,しかし靭性に優れたものと合わされば、<br>単体では成しえぬ強さを得る。<br>騎空団や組織然りだ。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,…………？<br>何の話をしている？
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,残骸から作られたからこそ言うが、<br>その身も捨てた物ではないだろう。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……そうか。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,今日のお前は<br>ずいぶんと饒舌に話すものだな。
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,言っただろう、<br>機神と同化したお前に興味があった。<br>なにより、こうして──
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>そうこうしているうちに</span><br><span class='scene-font-katari'>ロケットが音を発し、</span><br><span class='scene-font-katari'>エンジンの始動を報せた。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,レイベリィ,念願叶って月へ出発できるからな。<br>浮ついているのかもしれん。<br>お前の望みも果たすがいい。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,ああ。<br>皆、無事に到着する事を願う。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,…………
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>[플레이어]達が食事を取る一方、</span><br><span class='scene-font-katari'>バザラガの手が止まっていた。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>それに気づいて、</span><br><span class='scene-font-katari'>声をかける[플레이어]。</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……あの小さな機械が話していた事を<br>ふと思い出してな。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,剣とは、柔と剛の鋼が合わさって<br>作られるそうだ。<br>人も同様だと。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,きっとお前達が、<br>皆の芯となるのだろう。
+Japanese,scene_evt200128_cp0_q5_s10,detail,バザラガ,……いや、大したことではない。<br>構わず食べていてくれ。
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>柔剛の鋼が剣を強くするように、</span><br><span class='scene-font-katari'>グロウノスの根がバザラガの体を</span><br><span class='scene-font-katari'>支えとしているように──</span>
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>己の心を支える者達の姿を、</span><br><span class='scene-font-katari'>バザラガは静かに見守っていた。</span>
+Japanese,scene_evt200128_cp0_q4_s10,synopsis,,アイザック達の出発を見守り、島を発った[플레이어]達。ゼタは、グランサイファーの甲板で出発間際のアイザックの言葉を思い出していた。アルベスの槍の力をさらに引き出すためには、強い感情がトリガーとなる、というのがアイザックの見解だった。ゼタの感情のピークにアルベスは反応し、機神に劣らぬ力を発揮すると。ゼタは自身にとって一番大切なのは何か、向き合わねばならないと感じているようだった。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,…………
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>アイザック達を見送り、</span><br><span class='scene-font-katari'>島を発った一行。</span><br><span class='scene-font-katari'>その航路にて──</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>艇の欄干に頬杖をついて</span><br><span class='scene-font-katari'>遠い目をするゼタの姿を見つけた。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,…………
+Japanese,scene_evt200128_cp0_q4_s10,sel1_txt,,<span class='scene-font-katari'>ゼタに声をかける</span>
+Japanese,scene_evt200128_cp0_q4_s10,sel2_txt,,<span class='scene-font-katari'>ゼタの脇腹をつつく</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,ん……[플레이어]。<br>どした？
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>普段のゼタと違い、</span><br><span class='scene-font-katari'>その笑顔はどこか儚げに見えた。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,あ、はは……<br>変なカンジした？ あたし。<br>ちょっとね、悩みごと。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,<span class='scene-font-4'>ん゛はっ！？</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>忍び寄ってもゼタは気付かぬ様子。</span><br><span class='scene-font-katari'>声をかけるかわりに、指先で</span><br><span class='scene-font-katari'>その脇腹をつついてみる。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……っ[플레이어]！？<br>もう、いきなり何！？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,あー……もぅ。<br>どこまで考えたか忘れちゃったじゃん。<br>こう見えてあたし、結構悩んでんのよ？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,さっき……<br>メガネ君が月に出発する前に、<br>アルベスを少しだけ見てくれてさ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,……さて、ヒヨコちゃん。<br>アルベスを見させてもらっていいかい？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,は？ いや、こっちはいいから<br>カシウス送ってあげてよ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,残念ながら、エンジンがあったまるまで<br>もう少し時間が必要でね。アルベスを<br>ちゃんと調べるには足りないけれど。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……じゃあ、お願い。<br>アイツの様子はどう？
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,安定したよ。<br>さすがは月の戦士だ。<br>生身で月面に出るだけあってタフだね。
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>そんな事を言いながら、</span><br><span class='scene-font-katari'>アイザックはアルベスを受け取り</span><br><span class='scene-font-katari'>調査を開始する。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,ええと、なるほど、なるほど……<br>さすがに封印武器は書式が違うなぁ……
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,なにか判りそう？
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,うーん……どうもアルベスは<br>君の体調を読み取ってそうだね。<br>心拍数、発汗、体温その他諸々。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,は……？ 体調？<br>あたしが風邪ひいた、とかも？
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,かもしれない。<br>あ、さすがにログまでは見てないよ？<br>僕はプライバシーを尊重する方だ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,ふぅん……<br>変なの。目的がぜんぜんわかんない。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,読むからには、君の体調を<br>何かのトリガーとして使うんだろうね。<br>それこそ、<span class='scene-font-spword'>“覚醒”</span>ってヤツのだ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,じゃあ、覚醒させたかったら<br>全力で走ってアルベスを使えば<br>可能性が出てくるってこと？
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,……というわけでもない気がするんだ。<br>何かが引っかかってて……
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,うーーーーん……<br>心拍、発汗……ええと……なんだ……
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>眉間にシワを寄せ、</span><br><span class='scene-font-katari'>頭をコツコツ叩きながら</span><br><span class='scene-font-katari'>アイザックは悩み始める。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,……もしかして<br>本当は感情を読ませたかったのか？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,はぁ、感情。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,月の人達は、感情をとことん廃した<br>超合理主義者ばかりって言い伝えでね。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,「迷子になって困ってるから」って、<br>対価も求めず助けてくれた、空の民の<br>感情が理解できなかったんだろう。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,だから心拍とかのデータを読んで<br>疑似的に感情をトリガーとして<br>覚醒するよう仕込んだのかもね。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,じゃあ、体調より気分か……<br>無我夢中だったしな、あの時。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,本当にアルベスが必要な時……<br>ヒヨコちゃんの感情のピークが<br>きっと覚醒に繋がるはずさ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……よくわかんないけど、<br>雰囲気は掴んだ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>そうこうしているうちに</span><br><span class='scene-font-katari'>ロケットが音を発し、</span><br><span class='scene-font-katari'>エンジンの始動を報せた。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,なにかのヒントになれば幸いだよ。<br>それじゃあ、僕は月に行ってくる。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,あ、ひとついい？<br>なんであたし、ヒヨコちゃんなワケ？
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,……金髪から連想したから。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,ええ……<br>ルリアちゃんは？
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,昔、蒼い羽のインコを見た事があって。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,あ、そ、そう……<br>まあいいか、ありがと。
+Japanese,scene_evt200128_cp0_q4_s10,detail,アイザック,ああ。<br>君達の仕事がダクトに進むことを<br>祈ってるよ。じゃ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,うん。カシウスをよろしくね。<br>じゃ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……だってさ。
+Japanese,scene_evt200128_cp0_q4_s10,sel1_txt,,<span class='scene-font-katari'>感情がカギ、か……</span>
+Japanese,scene_evt200128_cp0_q4_s10,sel2_txt,,<span class='scene-font-katari'>黄色いからヒヨコちゃんか……</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,ね。不思議でしょ？<br>合理主義者がひっくり返って<br>あたし達に武器を残すなんてさ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,自分達の武器を<br>現地の人間が使えるようにするって、<br>どんな気分だったんだろ？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,いざって時に機神と戦うため？<br>それって祖国を裏切ったってこと？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,なんか、<br>疑問がたっくさん出てきちゃってさ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……ふう。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,<span class='scene-font-4'>ぐはっ！？</span><br>そこ、拾わなくていい！<br>あたしはマジメな話してんの！
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……[플레이어]？<br>一応言っとくけど。<br>またヒヨコちゃんて呼んだら……
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,こうして<br>髪の毛ぐしゃぐしゃの刑だからね！<br>こんのーっっ！
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……ふう。
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>再び、遠い目をしはじめるゼタ。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,あたしの感情のピークか。<br>トリガーってなんだと思う？
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,仕事、報酬、ご飯、あと服とか？<br>プライド、見栄……[플레이어]達と<br>食事するのも好きだし。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,大事な物を取られそうになった時かな？<br>……って頭の中を<br>ずっとぐるぐるしててさ。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,……あはは。<br>自分のことって、<br>案外わかってないもんね。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,もうしばらく悩んでみるか……<br>自分と向き合ってみなきゃね。
+Japanese,scene_evt200128_cp0_q4_s10,detail,ゼタ,ベアみたいに、<br>アルベスと本当にわかりあえば<br>覚醒も自由になる……といいな。
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>手にしたアルベスを見つめ、</span><br><span class='scene-font-katari'>切なげに息をつくゼタ。</span>
+Japanese,scene_evt200128_cp0_q4_s10,detail,,<span class='scene-font-katari'>そんな風に悩む彼女を見るのは</span><br><span class='scene-font-katari'>[플레이어]にとって</span><br><span class='scene-font-katari'>初めてのことだった。</span>
+Japanese,scene_evt200128_cp0_q3_s10,synopsis,,月の機関からの通信を傍受。対象はフォッシルでの生活者。個体は不問。発信者は月へと帰還を果たしたエンジニア・アイザック。共に帰還を果たしたエージェント・カシウスに開頭処理が施され、脳が摘出、分析されているとの事。エンジニア・アイザックの音声からは恐怖と悲哀の感情が強く検出されました。エンジニア・アイザックは救援を求めています。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,あー……メーデー、メーデー<br>月の末裔のみんな、<br>誰か聞こえるかい？
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,ああ、届いてればいいなあ。<br>これを聞いてる君。君に多少でいい、<br>親切心がある事を祈るよ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,えー、こちらアイザック、<br>月の機関より通信中。<br>そう、無事に月に帰れたんだ、僕は。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,こっちでもいろいろあってね。<br>これから話す事を、ある人に<br>伝えてほしいんだ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,[플레이어]、ゼタ、バザラガ、<br>ベアトリクス、ユーステス、イルザ……<br>もう、この際グレイスでもいい。
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>月に到着した僕は、</span><br><span class='scene-font-gray'>すぐにカシウスと引き離されて</span><br><span class='scene-font-gray'>機関を案内されていたんだ。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,男,あれが帰還者カシウスか。<br>珪素比率が下がっている。<br>あれでは砕き甲斐がない。
+Japanese,scene_evt200128_cp0_q3_s10,detail,女,有機物がいっぱいで美味しそう。<br>美味しいもの食べてきたのね。
+Japanese,scene_evt200128_cp0_q3_s10,detail,青年,迷子のヤチマは<br>帰ってこれなかったねぇ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>すると──</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,男,む……帰還者、何を持ち込んだ？<br>異物の反応が出ている。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,え……僕！？<br>僕が持ち込んだのは、相棒と<br>このギアくらいで……
+Japanese,scene_evt200128_cp0_q3_s10,detail,青年,見えるよぉ……<br>別の世界から来たものだねぇ……<br>とってもサイケだよぉ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,男,別の世界だと？ 危険だ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,男,これか？ 異物は。<br>すぐに砕いて処理する。
+Japanese,scene_evt200128_cp0_q3_s10,detail,レイベリィ,…………！
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,ままま待ってくれ！<br>相棒は僕に必要なんだ！<br>破壊は勘弁してくれ！
+Japanese,scene_evt200128_cp0_q3_s10,detail,女,待って、デアン。<br>先に味見させて？<br>別の世界を味わってみたいわぁ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,青年,ファナ、レイベリィは<br>別っていうほどの世界じゃないねぇ……<br>元フォッシルの民だよぉ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,へ！？
+Japanese,scene_evt200128_cp0_q3_s10,detail,レイベリィ,…………
+Japanese,scene_evt200128_cp0_q3_s10,detail,ファナ,あら……<br>エルドが言ってたヤチマの友達？<br>ここに来たくて機神になったっていう。
+Japanese,scene_evt200128_cp0_q3_s10,detail,エルド,そうだよぉ……<br>子供の頃にヤチマと約束していたの、<br>僕、さっき見えたんだよぉ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,ファナ,質量保存の法則は正しかったのね。<br>ヤチマが消えれば他の物が帰ってくる。<br>わらしべのエントロピーよ。真理だわ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,レイベリィ,…………
+Japanese,scene_evt200128_cp0_q3_s10,detail,デアン,ならば帰還者、<br>何を持ち込んだ？<br>別の世界とは何だ、砕かせろ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,え……いや、<br>別の世界って言われても、<br>ちょっと僕には……
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,……別の世界？
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,心当たりがひとつ……<br>グレイスって人に、幽世の住人の<br>肉を食べさせられて……
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,すぐに吐き出したんだ。<br>だけど体に吸収は、<br>されたみたいだね……
+Japanese,scene_evt200128_cp0_q3_s10,detail,デアン,異物は帰還者の体内か。<br>帰還者を砕くわけにはいかない。<br>アドレナリンが余るな。
+Japanese,scene_evt200128_cp0_q3_s10,detail,ファナ,食べる許可、もらえないの？<br>食欲を満たしたいのに。
+Japanese,scene_evt200128_cp0_q3_s10,detail,エルド,どっちも、<br>しばらくは無理だねえ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,なにか、なにかがおかしかったんだ。<br>少しずついびつに思えてきて。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,そもそも、彼らは傷ついたカシウスの<br>心配ひとつしてなかった。<br>それが違和感として残っていて。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,僕に調べる権限はなかったけど、<br>裏技を持ってたから、違和感の正体を<br>知りたくて、調べたんだ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,<span class='scene-font-kokoro'>（グレイスが僕に幽世の住人の</span><br><span class='scene-font-kokoro'>肉を食わせたのは、まさか</span><br><span class='scene-font-kokoro'>カモフラージュのためだったのか？）</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,<span class='scene-font-kokoro'>（あの時もらった、この黒ずんだメス、</span><br><span class='scene-font-kokoro'>これを隠すために……）</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>混沌を読み取るとロクな事がない。</span><br><span class='scene-font-gray'>それはどんな機械でも同じだったよ。</span><br><span class='scene-font-gray'>混沌が触れれば何もかも誤作動する。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>グレイスがくれたメスに残った</span><br><span class='scene-font-gray'>混沌の残りカスが、権限のない僕に</span><br><span class='scene-font-gray'>扉を開ける力をくれたんだ。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,アイザック,…………！！
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>カシウスの部屋の鍵も、</span><br><span class='scene-font-gray'>混沌のおかげであっさり開いた。</span><br><span class='scene-font-gray'>中はひどい有様だったよ。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>……全て話す前に</span><br><span class='scene-font-gray'>ひとつ前置きをさせてほしい。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>カシウスが、月の剥片に送られた時に</span><br><span class='scene-font-gray'>使ったポッドの記録を見たが、そもそも</span><br><span class='scene-font-gray'>帰還を前提にしていなかった。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>僕がロケットの部品を受け取るための</span><br><span class='scene-font-gray'>コンテナと大差なくて……</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>……すまない。カシウスに何が起きたか</span><br><span class='scene-font-gray'>先延ばしにすべきじゃないね。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>カシウスの脳は摘出された。</span><br><span class='scene-font-gray'>彼自身に起きた変化と、</span><br><span class='scene-font-gray'>蒼い髪の少女の情報を得るために。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>機関は尋問するでもなく、</span><br><span class='scene-font-gray'>彼の脳に直接アクセスして</span><br><span class='scene-font-gray'>解析してるんだ。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>空の世界での生活で、</span><br><span class='scene-font-gray'>月の人達は様々に変化した。</span><br><span class='scene-font-gray'>“組織”を作ったり“敵”となったり。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>カシウスは、空での生活が</span><br><span class='scene-font-gray'>月の民に与える影響を見るための</span><br><span class='scene-font-gray'>サンプルだったんだ。</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>僕はこんな残酷な仕打ちのために</span><br><span class='scene-font-gray'>一族の思いを遂げたのか？</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>……あんまりだ。</span><br><span class='scene-font-gray'>耐えられない。</span><br><span class='scene-font-gray'>誰か、助けてくれ……</span>
+Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-katari'> </span><br><span class='scene-font-katari'> </span><br><span class='scene-font-katari'> ────To be continued.</span>

@@ -96,6 +96,78 @@ text_jp,,お前の王が<br>そうであったように！！,너의 왕이 <br>
 text_en,,Not like your king did!,너의 왕이 <br> 그랬듯이!!
 text_jp,,その……醜い口で！<br>あの方を語るなぁっ！！,그......추악한 입으로!<br> 그 분을 말하지마!!
 text_en,,Why you... How dare you speak of him!,그......추악한 입으로!<br> 그 분을 말하지마!!
+text_jp,,ノインの代わりにこれを使うか。<br>敵戦力から見て問題はない。<br>このまま制圧する。
+text_en,,"Even if I must use this weapon in place of Yek, the enemy is of no consequence."
+text_jp,,くそ、次から次へと……！<br>お前達、ほんとに怪我するぞ！？<br>イルザ教官に怒られるぞ！？
+text_en,,"Damn, they won't stop! Hey, soldiers! Ilsa's gonna be pissed when she sees the injury report!"
+text_jp,,この連中で最後だ。<br>正面の方は片付いたようだな。
+text_en,,They seem to be the last ones. The other fight appears to be wrapping up as well.
+condition_win,,戦いの記憶を呼び覚ましながら、<br>正体不明の敵を撃破せよ！
+text_jp,,こいつ、初めて戦うはずなのに、<br>そんな気がしない……<br>変な感じ！
+text_en,,"This is weird! We've never fought this thing before, so why does it feel like we have?"
+text_jp,,ああ。この違和感に<br>撃破の糸口がありそうだが……<br>考える時間をもらえそうにないな。
+text_en,,"Hm, its attacks may tell us why this feels like deja vu. Too bad we don't have time to think on it."
+text_jp,,初撃来るぞ。<br>備えろ。
+text_en,,Here it comes. Get ready.
+text_jp,,……思い出せない！<br>何か、ずいぶん前の……！<br>ねえ、バザラガ！
+text_en,,"Ugh, it's on the tip of my tongue! Something from our past... Right, Vaseraga?"
+text_jp,,敵から目をそらすな。<br>俺に見とれてどうする。
+text_en,,Stop daydreaming about me and focus on the enemy.
+text_jp,,見とれてないから！<br>ったく、あんたは……！
+text_en,,"The hell? Why would I wanna daydream about you, lunkhead!"
+text_jp,,奇妙な物だな。<br>お前のわめく声が<br>やけに懐かしい。
+text_en,,"I don't know how to put this, but your battle cries are eerily nostalgic."
+text_jp,,あー……ったく……！<br>胸がつかえる感じが<br>気持ち悪い……！
+text_en,,Ugh! Why'd you have to say that? Thanks for making things awkward!
+text_jp,,やっぱり……！<br>これって、あの時の！
+text_en,,I remember now! This is just like the time we fought those other two!
+text_jp,,ああ。<br>ならば攻め方も見えるな。<br>しかし、何故──
+text_en,,Yeah. I should be able to read its attacks now. But why—
+text_jp,,打開策があるなら実行に移せ。<br>考察は後だ。
+text_en,,"If you know a way to beat it, then do it. We can reminisce later."
+condition_win,,解放された封印武器の力で<br>機神ヤチマの苦痛に終止符を打て！
+text_jp,,驚いた、ルリアちゃんみたいな<br>こともできるんだ。<br>ずいぶん大げさにいじったのね。
+text_en,,I wasn't expecting her to have powers like Lyria's. She really did a number on herself.
+text_jp,,……ねえ、やっぱりあの子に<br>話は通じないの？
+text_en,,Are you sure we can't reason with her?
+text_jp,,ああ。もはや意識もあるまい。<br>残っているのは最期に抱いた<br>焦りと不安の感情だけだ。
+text_en,,Mm. She is no longer herself. Now she's running on instinct and fighting on borrowed time.
+text_jp,,俺達にできるのは<br>手を汚すことくらいだ。<br>断ち切ってやろう。この鎌でな。
+text_en,,All we can do is get our hands dirty. My scythe will be the one to carry out the deed.
+text_jp,,こいつ……なんて堅さだ！<br>私の武器だと歯が立たないぞ？
+text_en,,Why's she so strong! My weapon doesn't even make her flinch!
+text_jp,,封印武器じゃないと、効果は<br>期待薄って感じね。<br>あたし達で決めるしかないわね……
+text_en,,I guess seal weapons are the only way to go. It's up to us to finish this.
+text_jp,,……成れの果て、か。
+text_en,,Hm... A shell of one's former self...
+text_jp,,ガラにもない。<br>あたしが言った事<br>気にしてんの？
+text_en,,What's gotten in to you? Are you actually thinking about something I said?
+text_jp,,いや。俺には、頼れる<br>ウォッチドッグがついている。<br>小うるさい仔犬ではあるがな。
+text_en,,"Well, I shouldn't ignore the reliable watchdog following me around, yappy pupper she may be."
+text_jp,,ウォッチドッグって……番犬！？<br>あたしの事、目覚まし時計と<br>思わないでよ！？
+text_en,,Hey! I'm not your personal assistant! Got it?
+text_jp,,ぐうっ！？　やばいな……<br>こんなのもう一発くらったら<br>ひとたまりもないぞ？
+text_en,,"Oof! Take another hit like that, and we're toast!"
+text_jp,,その前に、あたしとバザラガで<br>止めるわよ。<br>そのための封印武器なんだから！
+text_en,,Vaseraga and I will stop her before that happens! That's why we've got seal weapons!
+text_jp,,おい、大丈夫かあ！？<br>危なくなったらお前のアビリティで<br>回復した方がいいぜ？
+text_en,,Yikes! Everyone okay? Maybe you should heal up before it's too late!
+text_jp,,くっそ……！　また来るぞ！<br>ゼタ、バザラガ！<br>気をつけろよ！
+text_en,,"Damn, here comes another attack! Zeta! Vaseraga! Watch yourselves!"
+text_jp,,ああ。<br>あと少しで力を解放できる。<br>それまでの間、持ちこたえてくれ。
+text_en,,Got it. Just hold out a little longer until I can release my power.
+text_jp,,ふん……！<br>こんな所でやられるか！<br>私は……私達は不滅だ！
+text_en,,Heh! I'm not going down in a place like this! Because I! Am! Invincible!
+text_jp,,動きは封じた。<br>ゼタ、バザラガ。行け。
+text_en,,"Her movements are sealed. Zeta, Vaseraga. Move in."
+text_jp,,あ……危ないだろユーステス！<br>私達を巻き込む気か！<br>何かするなら先に言ってくれよ！
+text_en,,"Were you trying to hit us, Eustace! Give us a warning at least!"
+text_jp,,だが、おかげで準備は整った。<br>いけるな、ゼタ。
+text_en,,"But thanks to him, I'm ready to go. I'm guessing you are too, Zeta."
+text_jp,,うん。いつもの呼吸で。<br>あたし達が終わらせてあげる。<br>……他に手があればよかったね。
+text_en,,"Yeah, as long as I'm breathing. There's no other way, so... let's finish this."
+text_jp,,アルベス、応えなさい！
+text_en,,Arvess! Hear my call!
 condition_win,,異形の化け物を撃破せよ！,이형의 괴물을 격파하자!
 condition_win,,敗北条件：煉󠄁獄杏寿郎の戦闘不能,패배조건：렌고쿠 코쥬로의 전투불능
 text_jp,,仲間には手出しさせん！,동료에게는 손대지 못한다!
