@@ -1,15 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-        if (request.data == 'updateCompleted') {
-            updateNotify.innerHTML = '업데이트 완료!';
-            window.setTimeout(function () {
-                if (!updateNotify.innerHTML.includes('업데이트 중')) {
-                    updateNotify.style.display = 'none';
-                }
-            }, 2000);
-        }
-    });
-
     (function () {
         chrome.tabs.query({
                 active: true,
@@ -82,40 +71,6 @@ document.addEventListener('DOMContentLoaded', function () {
     var clearScenes = document.getElementById('clearScenes');
     var downScenes = document.getElementById('downScenes');
     var copyScenes = document.getElementById('copyScenes');
-
-    var updateDBTexts = document.getElementById('updateDBTexts');
-    var updateDBImages = document.getElementById('updateDBImages');
-    var updateNotify = document.getElementById('update-notify');
-
-    updateDBTexts.onclick = function (element) {
-        updateNotify.style.display = 'block';
-        updateNotify.innerHTML = '업데이트 중...';
-        chrome.tabs.query({
-                active: true,
-                lastFocusedWindow: true
-            },
-            function (tabs) {
-                chrome.tabs.sendMessage(tabs[0].id, {
-                    data: 'updateDBTexts'
-                });
-            }
-        );
-    };
-
-    updateDBImages.onclick = function (element) {
-        updateNotify.style.display = 'block';
-        updateNotify.innerHTML = '업데이트 중...';
-        chrome.tabs.query({
-                active: true,
-                lastFocusedWindow: true
-            },
-            function (tabs) {
-                chrome.tabs.sendMessage(tabs[0].id, {
-                    data: 'updateDBImages'
-                });
-            }
-        );
-    };
 
     getBattleBtn.onclick = function (element) {
         chrome.storage.local.get(['battleFullInfo'], function (result) {

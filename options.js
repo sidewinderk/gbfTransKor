@@ -73,3 +73,50 @@ document.getElementById('customFont').onclick = function(element) {
     save_options();
 }
 document.addEventListener('DOMContentLoaded', restore_options);
+
+
+// Manual DB Update
+
+var updateDBTexts = document.getElementById('updateTextDB');
+var updateDBImages = document.getElementById('updateImageDB');
+var updateNotify = document.getElementById('update-notify');
+
+updateDBTexts.onclick = function (element) {
+    updateNotify.style.display = 'block';
+    updateNotify.innerHTML = '번역문 업데이트 중...';
+    chrome.tabs.query(
+        {url: ["http://game.granbluefantasy.jp/*", "http://gbf.game.mbga.jp/*"]},
+        function(tabs) {
+            tabs.forEach(function(tab) {
+                chrome.tabs.sendMessage(tab.id, {
+                    data: 'updateDBTexts'
+                });
+            });
+        }
+    );
+};
+
+updateDBImages.onclick = function (element) {
+    updateNotify.style.display = 'block';
+    updateNotify.innerHTML = '번역 이미지 업데이트 중...';
+    chrome.tabs.query(
+        {url: ["http://game.granbluefantasy.jp/*", "http://gbf.game.mbga.jp/*"]},
+        function(tabs) {
+            tabs.forEach(function(tab) {
+                chrome.tabs.sendMessage(tab.id, {
+                    data: 'updateDBImages'
+                });
+            });
+        }
+    );
+};
+chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+    if (request.data == 'updateCompleted') {
+        updateNotify.innerHTML = '업데이트 완료!';
+        window.setTimeout(function () {
+            if (!updateNotify.innerHTML.includes('업데이트 중')) {
+                updateNotify.style.display = 'none';
+            }
+        }, 2000);
+    }
+});

@@ -145,7 +145,14 @@
     <hr>
     <H2 style="font-family: 'NanumSquare';">번역 데이터베이스 설정</H2>
     데이터베이스 경로: <input type="text" id="origintext" value="https://sidewinderk.github.io/gbfTransKor" size="50" style="font-family: 'NanumSquare';"><br>
-    <button class="myButton" id="useLocalDB" style="height: 24px;width:140px">로컬 DB</button> <button class="myButton" id="useOnlineDB" style="height: 24px;width:140px">온라인 DB</button> <br> 로컬 데이터베이스는 초벌 번역 확인 및 개발 QA 과정에서 사용.
+    <button class="myButton" id="useLocalDB" style="height: 24px;width:140px">로컬 DB</button> <button class="myButton" id="useOnlineDB" style="height: 24px;width:140px">온라인 DB</button> <br> 로컬 데이터베이스는 초벌 번역 확인 및 개발 QA 과정에서 사용. <br>
+    <button class="myButton" id="updateTextDB" style="height: 24px;width:200px">번역문 수동 업데이트</button> <button class="myButton" id="updateImageDB" style="height: 24px;width:220px">번역 이미지 수동 업데이트</button> <br> 번역문은 약 1시간 간격으로, 번역 이미지는 24시간 간격으로 자동 업데이트를 진행함. <br>
+    <ul>
+        <li>"번역 이미지 업데이트" 는 10초 ~ 20초 내로 완료됨.</li>
+        <li>그랑블루 판타지에 접속해야 업데이트 버튼이 작동함.</li>
+        <li>업데이트가 계속 안이루어진다면 새로고침하고 다시 해보기.</li>
+    </ul>
+    <span class="disclaimer" style = "color : green; display:none;" id = "update-notify"></span>
     <hr>
     <H2 style="font-family: 'NanumSquare';">한국어 폰트 설정</H2>
     웹폰트 주소: <input type="text" id="fontaddr" value="src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff'); font-weight: normal; font-style: normal;" size="50" style="font-family: 'NanumSquare';">

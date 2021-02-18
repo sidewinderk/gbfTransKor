@@ -157,18 +157,15 @@
         </TR>
 
     </TABLE>
-    <br>
     <div id='translateModeWindow' style="display:none">
-        <button class="myButton" id="updateDBTexts">번역문 업데이트</button><br><br>
-        <button class="myButton" id="updateDBImages">번역 이미지 업데이트</button><br><br>
-        <span class="disclaimer">UI, 스토리 텍스트만 번역되길 바란다면 "번역문 업데이트" 버튼만 누르기.</span><br><br>
-        <span class="disclaimer">"번역 이미지 업데이트" 는 10초 ~ 20초 내로 완료됨.</span><br><br>
-        <span class="disclaimer">그랑블루 판타지에 접속해야 업데이트 버튼이 작동함.</span><br><br>
-        <span class="disclaimer">업데이트가 계속 안이루어진다면 새로고침하고 다시 해보기.</span><br><br>
-        <span class="disclaimer" style = "color : green; display:none;" id = "update-notify"></span>
-        <hr>
+        <!-- none -->
     </div>
+    <hr>
     <div id='extractModeWindow' style="display:none">
+        <span class="btntext">전체 텍스트</span><br><button id="getMisc">가져오기</button> <button id="copyMisc">복사</button>
+        <button id="downMisc">csv파일로 다운로드</button> <button id="cacheClearMisc">캐시 지우기</button><br>
+        <textarea id="otherscheck" rows="2">여기에 텍스트가 표시됩니다.</textarea>
+        <br>
         <span class="btntext">스토리 텍스트</span><br>
         <span id='scCodeSection'>
             <TABLE width="100%" height="100%" border="0" cellspacing="0">
@@ -192,20 +189,15 @@
         </span>
         <button id="getScenes">가져오기</button> <button id="copyScenes">복사</button> <button id="downScenes">csv파일로
             다운로드</button> <button id="clearScenes">캐시 지우기</button><br>
-        <textarea id="Scenes" rows="6">여기에 텍스트가 표시됩니다.</textarea>
+        <textarea id="Scenes" rows="2">여기에 텍스트가 표시됩니다.</textarea>
         <br>
         <span class="btntext">스토리 이름</span><br><button id="getName">가져오기</button> <button id="copyName">복사</button>
         <button id="downName">csv파일로 다운로드</button> <button id="cacheClearName">캐시 지우기</button><br>
-        <textarea id="namecheck" rows="4">여기에 텍스트가 표시됩니다.</textarea>
+        <textarea id="namecheck" rows="2">여기에 텍스트가 표시됩니다.</textarea>
         <br> 
         <span class="btntext">전투 텍스트</span><br><button id="getBattle">가져오기</button> <button id="copyBattle">복사</button>
         <button id="downBattle">csv파일로 다운로드</button> <button id="clearBattle">캐시 지우기</button><br>
-        <textarea id="battleText" rows="4">여기에 텍스트가 표시됩니다.</textarea>
-        <br>
-        
-        <span class="btntext">전체 텍스트</span><br><button id="getMisc">가져오기</button> <button id="copyMisc">복사</button>
-        <button id="downMisc">csv파일로 다운로드</button> <button id="cacheClearMisc">캐시 지우기</button><br>
-        <textarea id="otherscheck" rows="6">여기에 텍스트가 표시됩니다.</textarea>
+        <textarea id="battleText" rows="2">여기에 텍스트가 표시됩니다.</textarea>
         <br> <button id="update">모든 캐시 지우기</button>
     </div>
     <br>
