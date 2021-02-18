@@ -1,263 +1,263 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt200128_cp4_q1_s10,synopsis,,目的地の直前で機神もどきの襲撃を受けた[플레이어]達だったが、どうにかそれを撃退し、本部へと辿り着く。組織の本部は酷く破壊されており、他にも何かがいる事を予感させる。やがて傷ついた兵と出会い、イルザの部下だという彼から本部で何が起きたのかを聞くのだった。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,…………
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,…………
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>組織の本部があるという島に</span><br><span class='scene-font-katari'>近づくにつれ、その様子が徐々に</span><br><span class='scene-font-katari'>明らかになっていく。</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>穴だらけの建物は四方八方から</span><br><span class='scene-font-katari'>大砲を撃ち込まれたようでもあり、</span><br><span class='scene-font-katari'>内側から破られたようでもあり──</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,ゼタさん……？<br>大丈夫ですか？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,あ、うん。<br>あんまり、だけど。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,イルザさんを襲ったのが<br>さっきの星晶獣もどきだったとしたら、<br>なんか複雑だなって思ってさ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,あ、うん。<br>あんまり、だけど。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,イルザさんを襲ったのが<br>さっきの星晶獣もどきだったとしたら、<br>なんか複雑だなって思ってさ。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,ログノス島で出会った<br>風神と雷神を、<br>まぜこぜにしたような……
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,そう。<br>あたし達が集めた記録だよ？<br>それを使ってさ……
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,そう。<br>あたし達が集めた記録だよ？<br>それを使ってさ……
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,……私も複雑な気分です。<br>色んな星晶獣と出会ったことが<br>私を成長させてくれたと思いますし。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,[플레이어]やビィさん、<br>ゼタさんやバザラガさん……<br>みんなと出会えたことと、同じように。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,…………
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,星晶獣と出会う、か……<br>今思えば、あたしもルリアちゃんも<br>似たような事してたんだね。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,…………
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,星晶獣と出会う、か……<br>今思えば、あたしもルリアちゃんも<br>似たような事してたんだね。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,ああ……<br>たくさんの星晶獣と出会うために<br>旅をする……ということですか？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,うん。戦うのと力を借りるのじゃ、<br>目的は正反対だけど。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,うん。戦うのと力を借りるのじゃ、<br>目的は正反対だけど。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,……私達、実は<br>似た者同士だったんでしょうか？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,だとよかったのにね。組織も<br>ルリアちゃんみたいに優しければな。<br>最近は騒ぎを起こしてばっかで──
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザックの声,<span class='scene-font-4'>痛ってえ！？</span>
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,だとよかったのにね。組織も<br>ルリアちゃんみたいに優しければな。<br>最近は騒ぎを起こしてばっかで──
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작의 목소리,<span class='scene-font-4'>痛ってえ！？</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,<span class='scene-font-4'>はわっ！？</span>
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,<span class='scene-font-4'>うおっ！？</span><br>びっくりした！<br>何やってんの、あのメガネ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,いててて……<br>くっそ……！ 完全防備でもダメか！
-Japanese,scene_evt200128_cp4_q1_s10,detail,レイベリィ,だが、希望が見えたんじゃないか？
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ああ。やっぱりノインは<br>完全に死んでるわけじゃなさそうだ。<br>修理の余地が……
-Japanese,scene_evt200128_cp4_q1_s10,detail,ルリアとゼタ,…………
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ん？ や、やあ。<br>ヒヨコちゃんにインコちゃん。<br>どうしたんだい？
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,<span class='scene-font-4'>うおっ！？</span><br>びっくりした！<br>何やってんの、あのメガネ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,いててて……<br>くっそ……！ 完全防備でもダメか！
+Japanese,scene_evt200128_cp4_q1_s10,detail,레이베리,だが、希望が見えたんじゃないか？
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ああ。やっぱりノインは<br>完全に死んでるわけじゃなさそうだ。<br>修理の余地が……
+Japanese,scene_evt200128_cp4_q1_s10,detail,루리아와 제타,…………
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ん？ や、やあ。<br>ヒヨコちゃんにインコちゃん。<br>どうしたんだい？
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,あ、あの、怪我とか、大丈夫ですか？
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ははは……<br>まあ、危なかったけど大丈夫さ。<br>僕のギアは優秀でね。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,あんた、<br>でっかい悲鳴あげて何やってんの？
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ああ、これさ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ははは……<br>まあ、危なかったけど大丈夫さ。<br>僕のギアは優秀でね。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,あんた、<br>でっかい悲鳴あげて何やってんの？
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ああ、これさ。
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>そう言って、アイザックは</span><br><span class='scene-font-katari'>カシウスから預かった槍「ノイン」を</span><br><span class='scene-font-katari'>[플레이어]達に見せる。</span>
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ノインを修理できないかと思って色々と<br>試してみたんだけどさ、やっぱり<br>強力な生体認証がかかってて。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,下手に起動させようとすると防御機構が<br>働いて、即死レベルの大電流を放つ事が<br>わかったんだ。でもこれ裏を返せば──
-Japanese,scene_evt200128_cp4_q1_s10,detail,ルリアとゼタ,…………
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,あ……<br>ごめんよ、こういうの苦手かい？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,あー……<br>悪いけどはっきり言って苦手。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,そうだよね、ははは……<br>得意分野はつい話しすぎちゃってさ。<br>悪い癖だ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,要約すると、直す余地はあるけど<br>契約者のエージェント・カシウスが<br>いなきゃ修理もできないみたいだ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,ふぅん……
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ああ、すまない、すまない。<br>また説明が長かったかな。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,ううん。あたしの槍にも<br>似たような力があるよ。<br>契約者以外が触ったら燃える。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,……そりゃそうだ。君達の封印武器も、<br>ノインほどじゃないが、重要機器だよ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,いや待てよ。<br>なのにどうして空の民が<br>扱えてるんだ？ セキュリティは？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,その辺、あたしも知りたいんだ。<br>長い説明は割愛してほしいけど、<br>あたしの槍の事も調べられる？
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,まあ、見てみなきゃだけど……<br>何が知りたい？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,この槍が覚醒する条件。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,覚醒……覚醒。<br>具体的には<br>どういう状態だい？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,……火力が上がる。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,機神の形態は？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,とらない。<br>機神に化けた武器もあったけど──
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ノインを修理できないかと思って色々と<br>試してみたんだけどさ、やっぱり<br>強力な生体認証がかかってて。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,下手に起動させようとすると防御機構が<br>働いて、即死レベルの大電流を放つ事が<br>わかったんだ。でもこれ裏を返せば──
+Japanese,scene_evt200128_cp4_q1_s10,detail,루리아와 제타,…………
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,あ……<br>ごめんよ、こういうの苦手かい？
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,あー……<br>悪いけどはっきり言って苦手。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,そうだよね、ははは……<br>得意分野はつい話しすぎちゃってさ。<br>悪い癖だ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,要約すると、直す余地はあるけど<br>契約者のエージェント・カシウスが<br>いなきゃ修理もできないみたいだ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,ふぅん……
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ああ、すまない、すまない。<br>また説明が長かったかな。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,ううん。あたしの槍にも<br>似たような力があるよ。<br>契約者以外が触ったら燃える。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,……そりゃそうだ。君達の封印武器も、<br>ノインほどじゃないが、重要機器だよ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,いや待てよ。<br>なのにどうして空の民が<br>扱えてるんだ？ セキュリティは？
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,その辺、あたしも知りたいんだ。<br>長い説明は割愛してほしいけど、<br>あたしの槍の事も調べられる？
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,まあ、見てみなきゃだけど……<br>何が知りたい？
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,この槍が覚醒する条件。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,覚醒……覚醒。<br>具体的には<br>どういう状態だい？
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,……火力が上がる。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,機神の形態は？
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,とらない。<br>機神に化けた武器もあったけど──
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>ゼタは、アイザックに</span><br><span class='scene-font-katari'>これまで起きた封印武器にまつわる</span><br><span class='scene-font-katari'>奇妙な出来事を語り聞かせた。</span>
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,ええと……
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,君達の声に反応して、<br>力を発揮するのはまあわかる。<br>月由来の装置は大抵音声入力だ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,グロウノスが使用者の体を<br>乗っ取って支配権を得ようとしたのも、<br>機能としては理解できる。だが……
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,エムブラスクの声を聞いた？<br>アルベスが機神の形もとらずに<br>単体で機神を仕留める火力を出した？
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,全くもって不可解だ。<br>ダクトというよりナンセンスだよ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,あたしはあの火力を出す方法を<br>知りたいの。<br>無我夢中だったから覚えてなくて。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,オーケー、ノインを見るのと並行で<br>アルベスも見せてもらうよ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,レイベリィ,ああ。だがノインの修復の<br>目星を付けてからにしろ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,アイザック,やれやれ、常々思うけど<br>僕があと５人くらいいればいいのにね。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,ええと……
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,君達の声に反応して、<br>力を発揮するのはまあわかる。<br>月由来の装置は大抵音声入力だ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,グロウノスが使用者の体を<br>乗っ取って支配権を得ようとしたのも、<br>機能としては理解できる。だが……
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,エムブラスクの声を聞いた？<br>アルベスが機神の形もとらずに<br>単体で機神を仕留める火力を出した？
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,全くもって不可解だ。<br>ダクトというよりナンセンスだよ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,あたしはあの火力を出す方法を<br>知りたいの。<br>無我夢中だったから覚えてなくて。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,オーケー、ノインを見るのと並行で<br>アルベスも見せてもらうよ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,레이베리,ああ。だがノインの修復の<br>目星を付けてからにしろ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,아이작,やれやれ、常々思うけど<br>僕があと５人くらいいればいいのにね。
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>アルベスをレイベリィに咥えさせ、</span><br><span class='scene-font-katari'>再びノインの解析をはじめる</span><br><span class='scene-font-katari'>アイザック。</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>そして──</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>まだあるとされた時間もすぐに過ぎ、</span><br><span class='scene-font-katari'>一行は艇からドックに降り立った。</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>発着場に人はおらず、</span><br><span class='scene-font-katari'>一行を出迎えた者はいなかった。</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>本部に続くドアからは、</span><br><span class='scene-font-katari'>うっすらと煙が漏れ出ている。</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,ユーステス,……ひどい有様だ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,ゼタ,ここが本部……<br>何があったっていうの？
-Japanese,scene_evt200128_cp4_q1_s10,detail,ベアトリクス,色々壊れてるけど、燃えたり潰れたり、<br>凍ってたり斬られてたり……<br>跡がひとつじゃない……
-Japanese,scene_evt200128_cp4_q1_s10,detail,ベアトリクス,さっき倒した奴の他にも<br>たくさん星晶獣もどきが<br>いるってことか？
-Japanese,scene_evt200128_cp4_q1_s10,detail,バザラガ,ふむ……しかし<br>破壊の痕跡は線で繋がるな。<br>おそらく襲撃者は、ひとりだ。
+Japanese,scene_evt200128_cp4_q1_s10,detail,제타,ここが本部……<br>何があったっていうの？
+Japanese,scene_evt200128_cp4_q1_s10,detail,베아트릭스,色々壊れてるけど、燃えたり潰れたり、<br>凍ってたり斬られてたり……<br>跡がひとつじゃない……
+Japanese,scene_evt200128_cp4_q1_s10,detail,베아트릭스,さっき倒した奴の他にも<br>たくさん星晶獣もどきが<br>いるってことか？
+Japanese,scene_evt200128_cp4_q1_s10,detail,바자라가,ふむ……しかし<br>破壊の痕跡は線で繋がるな。<br>おそらく襲撃者は、ひとりだ。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ユーステス,手を変え品を変え、あらゆる手段で<br>攻撃するか。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ユーステス,まるで歩く武器庫だな。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ビィ,これまで、とんでもねえ力を持った<br>相手と戦ってきたけど、<br>歩く武器庫だなんて初めてだな……
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,……きっと、大丈夫です。<br>私達には、たくさんの星晶獣が<br>力を貸してくれますから。
-Japanese,scene_evt200128_cp4_q1_s10,detail,バザラガ,多種多様な力を持った相手に<br>対抗する手段は、こちらにも<br>あるということか。
-Japanese,scene_evt200128_cp4_q1_s10,detail,バザラガ,ユーステス。俺を先頭に<br>守護陣形を組む。<br>[플레이어]達を囲んで移動したい。
+Japanese,scene_evt200128_cp4_q1_s10,detail,바자라가,多種多様な力を持った相手に<br>対抗する手段は、こちらにも<br>あるということか。
+Japanese,scene_evt200128_cp4_q1_s10,detail,바자라가,ユーステス。俺を先頭に<br>守護陣形を組む。<br>[플레이어]達を囲んで移動したい。
 Japanese,scene_evt200128_cp4_q1_s10,detail,ユーステス,わかった。
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>そして一行は、バザラガが先導する形で</span><br><span class='scene-font-katari'>[플레이어]とルリアとビィを中心に</span><br><span class='scene-font-katari'>左右と後方を契約者が固めて移動する。</span>
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>やがて──</span>
-Japanese,scene_evt200128_cp4_q1_s10,detail,組織の兵,う、うう……
+Japanese,scene_evt200128_cp4_q1_s10,detail,조직의 병사,う、うう……
 Japanese,scene_evt200128_cp4_q1_s10,detail,ルリア,だ……大丈夫ですか！？
 Japanese,scene_evt200128_cp4_q1_s10,detail,ビィ,手ひどくやられたな、おい……<br>何があったんだよ？
-Japanese,scene_evt200128_cp4_q1_s10,detail,組織の兵,貴方達は、イルザ隊長の……<br>お知り合いですね……
-Japanese,scene_evt200128_cp4_q1_s10,detail,ベアトリクス,な、なあ！<br>カシウスとイルザ教官は<br>無事なのか！？
-Japanese,scene_evt200128_cp4_q1_s10,detail,組織の兵,わかりません……<br>隊は散り散りになってしまって……<br>例の旅行者も、行方不明で……
+Japanese,scene_evt200128_cp4_q1_s10,detail,조직의 병사,貴方達は、イルザ隊長の……<br>お知り合いですね……
+Japanese,scene_evt200128_cp4_q1_s10,detail,베아트릭스,な、なあ！<br>カシウスとイルザ教官は<br>無事なのか！？
+Japanese,scene_evt200128_cp4_q1_s10,detail,조직의 병사,わかりません……<br>隊は散り散りになってしまって……<br>例の旅行者も、行方不明で……
 Japanese,scene_evt200128_cp4_q1_s10,detail,ユーステス,中で何があったのか聞かせろ。
-Japanese,scene_evt200128_cp4_q1_s10,detail,組織の兵,ハイゼンベルク様の命のもと、<br>イルザ隊長から招集がかかりました。<br>そして……
+Japanese,scene_evt200128_cp4_q1_s10,detail,조직의 병사,ハイゼンベルク様の命のもと、<br>イルザ隊長から招集がかかりました。<br>そして……
 Japanese,scene_evt200128_cp4_q1_s10,detail,,<span class='scene-font-katari'>イルザ配下の兵は、</span><br><span class='scene-font-katari'>苦しげながらも</span><br><span class='scene-font-katari'>組織の本部に起きた事を語り始める。</span>
 Japanese,scene_evt200128_cp4_q2_s10,synopsis,,イルザ最後の通信の直前、イルザは幹部ハイゼンベルクに声をかけられる。「中枢が組織を裏切った」と告げ、兵の招集を命じるハイゼンベルク。彼の部下・マレーとともに兵を集め、イルザは中枢、組織の創立者のもとへと向かうのだった。
 Japanese,scene_evt200128_cp4_q2_s10,detail,ユーステス,<span class='scene-font-gray'>イルザ、そちらの動きは？</span>
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,月に行く計画があるなどとは思えん。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,最近の記録から遡り、数年分の<br>人・物・金の出入りを確認したが<br>怪しい所は見つからなかった。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,月に行く計画があるなどとは思えん。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,最近の記録から遡り、数年分の<br>人・物・金の出入りを確認したが<br>怪しい所は見つからなかった。
 Japanese,scene_evt200128_cp4_q2_s10,detail,ユーステス,<span class='scene-font-gray'>そうか。</span><br><span class='scene-font-gray'>僅かに帳尻が合わない箇所もないな？</span>
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,ああ。<br>年数をかけて裏金や物資を集めた<br>気配はない。改竄の形跡もだ。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,仮に何かあるとすれば、<br>個人の暴走によるものだろう。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,だが、到底考えられん。<br>単身、あの機神どもの<br>本拠地に飛び込むだと……？
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,ああ。<br>年数をかけて裏金や物資を集めた<br>気配はない。改竄の形跡もだ。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,仮に何かあるとすれば、<br>個人の暴走によるものだろう。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,だが、到底考えられん。<br>単身、あの機神どもの<br>本拠地に飛び込むだと……？
 Japanese,scene_evt200128_cp4_q2_s10,detail,ユーステス,<span class='scene-font-gray'>仮に兵の頭数が揃っていたとして</span><br><span class='scene-font-gray'>備えが不十分に過ぎる。</span>
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,ああ。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,ああ。
 Japanese,scene_evt200128_cp4_q2_s10,detail,ユーステス,<span class='scene-font-gray'>旅行者は？</span>
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,あちらに目立った動きはない。<br>旅行者は相変わらず<br>尋問室でウジ虫どもを振り回している。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,本格的に危害が及ぶのも時間の問題だ。<br>どうにか口実を作り、あの旅行者を<br>こちらで保護できるよう努める。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,あちらに目立った動きはない。<br>旅行者は相変わらず<br>尋問室でウジ虫どもを振り回している。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,本格的に危害が及ぶのも時間の問題だ。<br>どうにか口実を作り、あの旅行者を<br>こちらで保護できるよう努める。
 Japanese,scene_evt200128_cp4_q2_s10,detail,ユーステス,<span class='scene-font-gray'>頼む。</span>
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,……人が来た。切るぞ。
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,イルザ、非常事態だ。<br>隊を率いて私についてこい。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,ハイゼンベルク殿。<br>非常事態とは？
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,中枢が組織を裏切った。<br>単独で暴走状態にある。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,また組織の中核が暴走を？<br>アランドゥーズに続き、<br>またも創始者が……
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,これまでとは話が違う。<br>組織の創始者のひとりであり、<br>始祖ともいえる。
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,封印武器の発見者にして、<br>この組織を創立させた存在だ。
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,このままでは“敵”や機神と<br>戦うどころではない。止めに行く。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,……人が来た。切るぞ。
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,イルザ、非常事態だ。<br>隊を率いて私についてこい。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,ハイゼンベルク殿。<br>非常事態とは？
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,中枢が組織を裏切った。<br>単独で暴走状態にある。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,また組織の中核が暴走を？<br>アランドゥーズに続き、<br>またも創始者が……
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,これまでとは話が違う。<br>組織の創始者のひとりであり、<br>始祖ともいえる。
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,封印武器の発見者にして、<br>この組織を創立させた存在だ。
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,このままでは“敵”や機神と<br>戦うどころではない。止めに行く。
 Japanese,scene_evt200128_cp4_q2_s10,detail,？？？,失礼します。<br>イルザ殿の隊員を<br>全て招集しました。
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,ご苦労。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,……彼女は？
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,ご苦労。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,……彼女は？
 Japanese,scene_evt200128_cp4_q2_s10,detail,マレー,ふふ、はじめまして。<br>ハイゼンベルク殿直属の<br>マレーと申します。
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,紹介が遅れてすまない。<br>彼女は優秀な諜報員でな。<br>訓練後に私が才を見出したのだ。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,……よろしく。マレー殿。
-Japanese,scene_evt200128_cp4_q2_s10,detail,ハイゼンベルク,それでは向かうぞ。<br>組織の中枢のもとへ。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,了解しました。
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,いいかウジ虫ども！<br>ここを自宅と思って気を抜くなよ！<br>お前達の帰りを待つのは家族ではない！
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,そう、お前達が泣かせた彼女のパパだ！<br>当然ながらパパは猟銃を抱えている！<br>撃たれる前に弾丸でご挨拶するぞ！
-Japanese,scene_evt200128_cp4_q2_s10,detail,イルザ,<span class='scene-font-4'>隊列揃えろ！ 装備確認！</span><br><span class='scene-font-4'>目標、本部中枢！ 行進開始！</span>
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,紹介が遅れてすまない。<br>彼女は優秀な諜報員でな。<br>訓練後に私が才を見出したのだ。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,……よろしく。マレー殿。
+Japanese,scene_evt200128_cp4_q2_s10,detail,하이젠베르그,それでは向かうぞ。<br>組織の中枢のもとへ。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,了解しました。
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,いいかウジ虫ども！<br>ここを自宅と思って気を抜くなよ！<br>お前達の帰りを待つのは家族ではない！
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,そう、お前達が泣かせた彼女のパパだ！<br>当然ながらパパは猟銃を抱えている！<br>撃たれる前に弾丸でご挨拶するぞ！
+Japanese,scene_evt200128_cp4_q2_s10,detail,이르자,<span class='scene-font-4'>隊列揃えろ！ 装備確認！</span><br><span class='scene-font-4'>目標、本部中枢！ 行進開始！</span>
 Japanese,scene_evt200128_cp4_q2_s10,detail,組織の兵達,<span class='scene-font-4'>はっ！</span>
 Japanese,scene_evt200128_cp4_q2_s10,detail,,<span class='scene-font-katari'>100人あまりの兵達は、</span><br><span class='scene-font-katari'>ハイゼンベルクとマレー</span><br><span class='scene-font-katari'>そしてイルザを先頭に歩き出す。</span>
 Japanese,scene_evt200128_cp4_q2_s10,detail,,<span class='scene-font-katari'>本部の中枢、</span><br><span class='scene-font-katari'>組織の創立を決めた</span><br><span class='scene-font-katari'>全ての始まりのもとへ──</span>
 Japanese,scene_evt200128_cp4_q3_s10,synopsis,,兵を引き連れて中枢のもとへと向かうイルザは、ハイゼンベルクの部下であるマレーに話しかけられる。「人と人が争えば武器は発展を遂げ、いずれ機神も敵ではなくなる」という主張を聞き、イルザの胸にはマレーへの嫌悪感とハイゼンベルクへの疑念が芽生え始める。
-Japanese,scene_evt200128_cp4_q3_s10,detail,ハイゼンベルク,それで、隊の装備は？
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,命令の通り、すべて対星装備を。
-Japanese,scene_evt200128_cp4_q3_s10,detail,ハイゼンベルク,上出来だ。
-Japanese,scene_evt200128_cp4_q3_s10,detail,ハイゼンベルク,警戒を怠るな。<br>何かあれば<br>躊躇せず最大火力で攻撃しろ。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,了解しました。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,<span class='scene-font-kokoro'>（個人の暴走……</span><br><span class='scene-font-kokoro'>ハイゼンベルク殿は</span><br><span class='scene-font-kokoro'>そう言っていたが……）</span>
+Japanese,scene_evt200128_cp4_q3_s10,detail,하이젠베르그,それで、隊の装備は？
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,命令の通り、すべて対星装備を。
+Japanese,scene_evt200128_cp4_q3_s10,detail,하이젠베르그,上出来だ。
+Japanese,scene_evt200128_cp4_q3_s10,detail,하이젠베르그,警戒を怠るな。<br>何かあれば<br>躊躇せず最大火力で攻撃しろ。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,了解しました。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,<span class='scene-font-kokoro'>（個人の暴走……</span><br><span class='scene-font-kokoro'>ハイゼンベルク殿は</span><br><span class='scene-font-kokoro'>そう言っていたが……）</span>
 Japanese,scene_evt200128_cp4_q3_s10,detail,,<span class='scene-font-katari'>ふとイルザの頭を疑問がよぎる。</span>
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,<span class='scene-font-kokoro'>（相手が何者にしろ、個人を相手に</span><br><span class='scene-font-kokoro'>この人数と装備は過剰戦力もいい所だ。</span><br><span class='scene-font-kokoro'>しかし、その判断を見誤る人ではない）</span>
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,<span class='scene-font-kokoro'>（組織の中枢……</span><br><span class='scene-font-kokoro'>そこに一体何が……？）</span>
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,<span class='scene-font-kokoro'>（相手が何者にしろ、個人を相手に</span><br><span class='scene-font-kokoro'>この人数と装備は過剰戦力もいい所だ。</span><br><span class='scene-font-kokoro'>しかし、その判断を見誤る人ではない）</span>
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,<span class='scene-font-kokoro'>（組織の中枢……</span><br><span class='scene-font-kokoro'>そこに一体何が……？）</span>
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,ふふ。<br>さっきから何を悩んでいるの？
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,……中枢に行くのは初めてだ。<br>地形がわからない以上、これからの<br>動きを組み立てる必要がある。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,……中枢に行くのは初めてだ。<br>地形がわからない以上、これからの<br>動きを組み立てる必要がある。
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,心配いらないわ。<br>だって弾薬は十分にあるでしょう？<br>性能も上がっているし。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,ああ。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,方々の街を飛び回り、<br>多数の被害を出したグロウノス……
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,そしてハロウィンの祭りに現れた<br>機神セスラカらしき存在の出現……
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,あの一連の事件によって、機神の存在が<br>広く認知された。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,おかげで対星弾が一般に普及し<br>量産体制の確立と性能向上に繋がった。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,ああ。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,方々の街を飛び回り、<br>多数の被害を出したグロウノス……
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,そしてハロウィンの祭りに現れた<br>機神セスラカらしき存在の出現……
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,あの一連の事件によって、機神の存在が<br>広く認知された。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,おかげで対星弾が一般に普及し<br>量産体制の確立と性能向上に繋がった。
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,ええ。よく知っているわ。<br>あの戦いのおかげで、この空の武器は<br>大きく発展した……
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,……好ましい事ではない。<br>銃口が機神に向いているうちはいい。<br>人同士であれを撃ち合おうものなら……
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,……好ましい事ではない。<br>銃口が機神に向いているうちはいい。<br>人同士であれを撃ち合おうものなら……
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,あら、でも、そうなれば<br>今度はもっと性能のいい鎧が<br>作られるんじゃない？
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,人同士が争っていれば、装備が充実して<br>いずれ機神も敵ではなくなるのかも。<br>なんて。ふふ……
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,…………
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,<span class='scene-font-kokoro'>（……この女、反りが合わん。</span><br><span class='scene-font-kokoro'>月に対抗するには空で戦争を起こすのが</span><br><span class='scene-font-kokoro'>手っ取り早いとでもいうのか？）</span>
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,…………
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,<span class='scene-font-kokoro'>（……この女、反りが合わん。</span><br><span class='scene-font-kokoro'>月に対抗するには空で戦争を起こすのが</span><br><span class='scene-font-kokoro'>手っ取り早いとでもいうのか？）</span>
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,あら？<br>機嫌を損ねちゃったかな？
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,いや……ただ、そうならないために<br>封印武器の使い手がいるはずだと<br>思いはしたが。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,いや……ただ、そうならないために<br>封印武器の使い手がいるはずだと<br>思いはしたが。
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,でも、それだけだと<br>みんなを守れないでしょう？
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,……私が<br>戦争を肯定する理由にはならん。<br>払う犠牲が余りに多い。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,……私が<br>戦争を肯定する理由にはならん。<br>払う犠牲が余りに多い。
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,でも……要は、先の犠牲の数が<br>後の犠牲の数を下回ればいいのよ？
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,人命を数で測りたくはない。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,人命を数で測りたくはない。
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,ふふ、素敵。<br>封印武器の契約者に選ばれるだけの<br>ことはあるわね。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,どういう意味だ？
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,どういう意味だ？
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,きっとこの空には、貴方みたいな人に<br>救われて、感謝している人が<br>たくさんいるんだろうなって思ったの。
-Japanese,scene_evt200128_cp4_q3_s10,detail,ハイゼンベルク,……マレー<br>先ほどから無駄口が過ぎるぞ。
+Japanese,scene_evt200128_cp4_q3_s10,detail,하이젠베르그,……マレー<br>先ほどから無駄口が過ぎるぞ。
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,うふふ、失礼しました。<br>ただ、イルザさんと<br>ずっとお話ししてみたかったの。
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,…………
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,<span class='scene-font-kokoro'>（……このマレーという女、</span><br><span class='scene-font-kokoro'>なにか妙だ……</span><br><span class='scene-font-kokoro'>言動で何かを隠そうとしている）</span>
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,<span class='scene-font-kokoro'>（違和感の正体はなんだ？</span><br><span class='scene-font-kokoro'>ぎこちない利き腕の動きか？）</span>
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,…………
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,<span class='scene-font-kokoro'>（……このマレーという女、</span><br><span class='scene-font-kokoro'>なにか妙だ……</span><br><span class='scene-font-kokoro'>言動で何かを隠そうとしている）</span>
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,<span class='scene-font-kokoro'>（違和感の正体はなんだ？</span><br><span class='scene-font-kokoro'>ぎこちない利き腕の動きか？）</span>
 Japanese,scene_evt200128_cp4_q3_s10,detail,マレー,ふふ……<br>もしかしてイルザさんも<br>同じ気持ちだったりするのかな？
-Japanese,scene_evt200128_cp4_q3_s10,detail,イルザ,……ああ。<br>私も君に興味がわいてきた。<br>大いにな。
+Japanese,scene_evt200128_cp4_q3_s10,detail,이르자,……ああ。<br>私も君に興味がわいてきた。<br>大いにな。
 Japanese,scene_evt200128_cp4_q3_s10,detail,,<span class='scene-font-katari'>イルザは疑念を抱かずにはいられない。</span><br><span class='scene-font-katari'>マレーの物騒な言動──</span>
 Japanese,scene_evt200128_cp4_q3_s10,detail,,<span class='scene-font-katari'>そして、彼女を直属の部下として選んだ</span><br><span class='scene-font-katari'>ハイゼンベルクにも。</span>
 Japanese,scene_evt200128_cp4_q4_s10,synopsis,,中枢の居場所へと歩を進めるイルザ達。しかし中枢はそれを食い止めようと、機械の怪物をけしかけてくる。襲撃を受けて応戦するマレーを見て、イルザはその正体が敵・グレイスであると見抜く。幹部ハイゼンベルクが敵と通じていたと知ったイルザだったが、確信を持てども中枢の攻撃は激しく、グレイスへの協力を強いられることに。やがてイルザは機神もどきの攻撃によって安否不明になるのだった。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,…………
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,…………
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>ハイゼンベルクを先頭に</span><br><span class='scene-font-katari'>イルザ達は長い廊下を行く。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>その途中途中で黒い鉄扉に行き当たる。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,ハイゼンベルクだ。<br>中枢との謁見に来た。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,ハイゼンベルクだ。<br>中枢との謁見に来た。
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>声紋を認証。</span><br><span class='scene-font-gray'>若干の緊張がありますが</span><br><span class='scene-font-gray'>不測の事態ですか？</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,不測の事態はない。<br>久々の謁見で緊張している。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,不測の事態はない。<br>久々の謁見で緊張している。
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>敵性者の脅迫によるものではないと</span><br><span class='scene-font-gray'>判断しました。</span><br><span class='scene-font-gray'>開門します。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>扉に行き当たるたびにハイゼンベルクが</span><br><span class='scene-font-katari'>声をかけると、何者かが応え、</span><br><span class='scene-font-katari'>扉がひとりでに開いていった。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,この扉は……？
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,鍵を差す代わりに私の声を使う。<br>古くから使われている方式らしい。
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,中枢は用心深い。<br>鍵は盗めても声は盗めんからな。<br>合理的といえるだろう。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,…………
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-kokoro'>（私は……既視感を持っているのか？</span><br><span class='scene-font-kokoro'>だが、こんな仕組みを見た覚えはない。</span><br><span class='scene-font-kokoro'>なにか別の……）</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,この扉は……？
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,鍵を差す代わりに私の声を使う。<br>古くから使われている方式らしい。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,中枢は用心深い。<br>鍵は盗めても声は盗めんからな。<br>合理的といえるだろう。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,…………
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-kokoro'>（私は……既視感を持っているのか？</span><br><span class='scene-font-kokoro'>だが、こんな仕組みを見た覚えはない。</span><br><span class='scene-font-kokoro'>なにか別の……）</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>見上げれば、</span><br><span class='scene-font-katari'>眼のようなものがついた小さな機械が</span><br><span class='scene-font-katari'>イルザ達の行方を追っている。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-kokoro'>（私達を取り巻く未知の機械達……</span><br><span class='scene-font-kokoro'>これは、まるで……）</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-kokoro'>（私達を取り巻く未知の機械達……</span><br><span class='scene-font-kokoro'>これは、まるで……）</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>イルザの思考を阻むように、</span><br><span class='scene-font-katari'>耳障りな音が廊下に鳴り響いた。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>認証に失敗しました。</span><br><span class='scene-font-gray'>中枢が開門を拒否しています。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,その理由をお聞かせ願いたい。<br>中枢に繋いでくれ。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,その理由をお聞かせ願いたい。<br>中枢に繋いでくれ。
 Japanese,scene_evt200128_cp4_q4_s10,detail,中枢？,<span class='scene-font-gray'>ザ……ザザ……ジー……</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,中枢？,<span class='scene-font-gray'>旅行、者は。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,依然、尋問中とのことだ。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,依然、尋問中とのことだ。
 Japanese,scene_evt200128_cp4_q4_s10,detail,中枢？,<span class='scene-font-gray'>槍、は。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,所在は明らかではない。<br>事情を説明したい。<br>謁見を願う。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,所在は明らかではない。<br>事情を説明したい。<br>謁見を願う。
 Japanese,scene_evt200128_cp4_q4_s10,detail,中枢？,<span class='scene-font-gray'>旅旅旅旅行行行行行行行、者は。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,中枢、謁見を願う。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,中枢、謁見を願う。
 Japanese,scene_evt200128_cp4_q4_s10,detail,中枢？,<span class='scene-font-gray'>槍槍槍ヤヤヤヤヤヤヤヤ──</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,開門を。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,開門を。
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>中枢が開門を拒否しました。</span><br><span class='scene-font-gray'>幹部ハイゼンベルクの</span><br><span class='scene-font-gray'>声紋認証を解除します。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>再び耳障りな音が響き、</span><br><span class='scene-font-katari'>周囲が赤い光で満たされる。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,…………！？
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,…………！？
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>するとイルザ達の背後の扉が</span><br><span class='scene-font-katari'>大きな音をたてて閉まった。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,マレー,あらあら……<br>閉じ込められちゃった。
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,ち……っ！<br>あの死にぞこないめ！<br><span class='scene-font-4'>扉を開けろ！</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,ち……っ！<br>あの死にぞこないめ！<br><span class='scene-font-4'>扉を開けろ！</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>中枢は開門を拒否しました。</span><br><span class='scene-font-gray'>幹部ハイゼンベルクを</span><br><span class='scene-font-gray'>この場に封印します。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,イルザ！<br>扉に向け対星弾を放て！
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,イルザ！<br>扉に向け対星弾を放て！
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>この場は火気厳禁です。</span><br><span class='scene-font-gray'>真空消火、開始します。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>声が響くなり強い風が吹き、</span><br><span class='scene-font-katari'>その場の者達が耳を押さえる。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,まずい……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,まずい……！
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>鼓膜が外に引かれ、</span><br><span class='scene-font-katari'>周囲の音が遠く聞こえはじめた。</span><br><span class='scene-font-katari'>急激に空気が薄くなっているのだ。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-4'>撃てっ！</span><br><span class='scene-font-4'>扉を破壊しろ！</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,組織の兵,だ……駄目です！<br>弾が出ません！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-4'>撃てっ！</span><br><span class='scene-font-4'>扉を破壊しろ！</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,조직의 병사,だ……駄目です！<br>弾が出ません！
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>化学反応を抑制する</span><br><span class='scene-font-gray'>不活性化ガスの充填が完了しています。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,組織の兵,う……ぐっ……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,조직의 병사,う……ぐっ……！
 Japanese,scene_evt200128_cp4_q4_s10,detail,何者かの声,<span class='scene-font-gray'>抑制には代謝も含まれるため、</span><br><span class='scene-font-gray'>この場は生命の危険があります。</span><br><span class='scene-font-gray'>ただちに避難してください。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>その意味する所は不明であったが</span><br><span class='scene-font-katari'>薄い空気のせいか、満ちる瘴気のせいか</span><br><span class='scene-font-katari'>兵達は倒れていく。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,く……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,く……！
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>必死に意識を保ち、</span><br><span class='scene-font-katari'>銃を扉に向けて引き金を引こうとする</span><br><span class='scene-font-katari'>イルザだったが──</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,体に、力が……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,体に、力が……！
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>その視界は徐々に暗くなっていき──</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,マレー,ふぅ、危ない所ねえ……
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>バラバラになった扉が</span><br><span class='scene-font-katari'>派手な音をたてて床に散らばり、</span><br><span class='scene-font-katari'>再び強い風が吹く。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,ゲホッ……！<br>な、何が起きた……！？
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,ゲホッ……！<br>な、何が起きた……！？
 Japanese,scene_evt200128_cp4_q4_s10,detail,マレー,ふふ。せっかくここまで来たのに<br>全滅なんてダメよ？<br>死ぬのはこの先で。ね？
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,…………
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,…………
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>マレーが何かをして</span><br><span class='scene-font-katari'>扉を斬り刻み、外の空気を取り入れたと</span><br><span class='scene-font-katari'>悟るイルザ。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,これは……まさか……
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,これは……まさか……
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>扉の切り口を見て、イルザは震えだす。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,ゴホッ、ゴホッ……<br>ともかく、進むぞ……！<br>中枢の居場所まであと少しだ……
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,いえ、お待ちを。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,マレーといったな。<br>兜を取れ。<br>その顔、見せてもらおう。
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,ゴホッ、ゴホッ……<br>ともかく、進むぞ……！<br>中枢の居場所まであと少しだ……
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,いえ、お待ちを。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,マレーといったな。<br>兜を取れ。<br>その顔、見せてもらおう。
 Japanese,scene_evt200128_cp4_q4_s10,detail,マレー,あら……
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,イルザ。<br>先を急ぐのだ。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,この女は私の教え子を殺害した。<br>あの、ハロウィンの街で……！
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,答えろマレー！ 扉の切り口は、<br>両断された教え子の鎧と同じだ！<br>貴様、私達の敵だろう！
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,やめろイルザ！<br>今は優先すべきことがあるのだ！
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,ハイゼンベルク殿、<br>まさか貴方も敵と通じていたのですか！
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,イルザ。<br>先を急ぐのだ。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,この女は私の教え子を殺害した。<br>あの、ハロウィンの街で……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,答えろマレー！ 扉の切り口は、<br>両断された教え子の鎧と同じだ！<br>貴様、私達の敵だろう！
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,やめろイルザ！<br>今は優先すべきことがあるのだ！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,ハイゼンベルク殿、<br>まさか貴方も敵と通じていたのですか！
 Japanese,scene_evt200128_cp4_q4_s10,detail,マレー,もう……<br>変な所で尻尾を出しちゃった……
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,どうも、“敵”のグレイスです。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,…………！！
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,ねえ、イルザさん。<br>いったん怒るのはやめにしましょう？
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,何をぬけぬけと……！
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,あの人の犠牲は必要だったの。<br>この場にいるみんなのために。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,何のつもりか知らんが、<br>言ったはずだ。<br>私は人命を数で測ることなどしない。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,大事な教え子の命、<br>ここで償ってもらうぞ……！
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,ということは、この場のみんなの命も<br>軽視できないのよね？
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,無論だ。<br>この者達に何かあれば……
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,ね、だったら私を助けて？<br>敵から味方になってほしいの。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,は……？
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,ほら、あそこ。
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,どうも、“敵”のグレイスです。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,…………！！
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,ねえ、イルザさん。<br>いったん怒るのはやめにしましょう？
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,何をぬけぬけと……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,あの人の犠牲は必要だったの。<br>この場にいるみんなのために。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,何のつもりか知らんが、<br>言ったはずだ。<br>私は人命を数で測ることなどしない。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,大事な教え子の命、<br>ここで償ってもらうぞ……！
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,ということは、この場のみんなの命も<br>軽視できないのよね？
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,無論だ。<br>この者達に何かあれば……
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,ね、だったら私を助けて？<br>敵から味方になってほしいの。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,は……？
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,ほら、あそこ。
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>グレイスが振り返ると、</span><br><span class='scene-font-katari'>その目線の先には──</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,<span class='scene-font-2'>小型無人機の群れ</span>,────……
 Japanese,scene_evt200128_cp4_q4_s10,detail,巨大な機械,────……！！！
-Japanese,scene_evt200128_cp4_q4_s10,detail,グレイス,あらあら。困ったわ。<br>さすがにこの数は私ひとりじゃ大変。
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,この虫どもは月の！？<br>総員、陣形を整え迎撃しろ！
-Japanese,scene_evt200128_cp4_q4_s10,detail,組織の兵,は……はっ！
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-kokoro'>（そうか……思い出した。</span><br><span class='scene-font-kokoro'>見慣れぬ機械達に</span><br><span class='scene-font-kokoro'>既視感を抱いた理由……）</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-kokoro'>（月の剥片で、初めて月の勢力と</span><br><span class='scene-font-kokoro'>戦った時の事だ……！）</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-4'>撃てぇーーーッ！</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,글레이스,あらあら。困ったわ。<br>さすがにこの数は私ひとりじゃ大変。
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,この虫どもは月の！？<br>総員、陣形を整え迎撃しろ！
+Japanese,scene_evt200128_cp4_q4_s10,detail,조직의 병사,は……はっ！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-kokoro'>（そうか……思い出した。</span><br><span class='scene-font-kokoro'>見慣れぬ機械達に</span><br><span class='scene-font-kokoro'>既視感を抱いた理由……）</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-kokoro'>（月の剥片で、初めて月の勢力と</span><br><span class='scene-font-kokoro'>戦った時の事だ……！）</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-4'>撃てぇーーーッ！</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,組織の兵達,<span class='scene-font-4'>うおおおおおっ！</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,ハイゼンベルク,……もはや、なりふり構わずか。<br>まずい事になったな……
+Japanese,scene_evt200128_cp4_q4_s10,detail,하이젠베르그,……もはや、なりふり構わずか。<br>まずい事になったな……
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>銃弾と虫達の乱れ飛ぶ中、</span><br><span class='scene-font-katari'>イルザは伝声機を取り出し、</span><br><span class='scene-font-katari'>必死で呼びかける。</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,<span class='scene-font-4'>ユーステス！ ユーステス！</span><br><span class='scene-font-4'>応答しろ！</span>
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,旅行者の槍を死守しろ！<br>中枢の目的に確証はない、しかし！
-Japanese,scene_evt200128_cp4_q4_s10,detail,イルザ,中枢は機しん──
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,<span class='scene-font-4'>ユーステス！ ユーステス！</span><br><span class='scene-font-4'>応答しろ！</span>
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,旅行者の槍を死守しろ！<br>中枢の目的に確証はない、しかし！
+Japanese,scene_evt200128_cp4_q4_s10,detail,이르자,中枢は機しん──
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>命からがら逃げてきた兵にも</span><br><span class='scene-font-katari'>イルザ達の安否はわからないという。</span>
 Japanese,scene_evt200128_cp4_q4_s10,detail,,<span class='scene-font-katari'>長い通路の奥から流れてくる</span><br><span class='scene-font-katari'>硝煙の臭いに、一行は彼女達が</span><br><span class='scene-font-katari'>生存して戦い続けている事を祈る。</span>
