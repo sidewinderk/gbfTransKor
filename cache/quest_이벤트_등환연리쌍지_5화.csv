@@ -2,7 +2,7 @@ Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt210129_cp5_q1_s10,synopsis,,準備を整えた[플레이어]、ビィ、ルシウス、ネクタル、クシナ、ウグスは、ルリアとシンシャを艇に残し青願堂へと出発する。自分のせいでルリアも艇に残ることになってしまったと謝るシンシャに、ルリアは「お留守番も大事なお仕事なんです」と励まし、ふたりは互いの心配を吹き飛ばそうとするように笑顔を交わすのだった。,"준비를 갖춘 [플레이어], 비, 루시우스, 넥타르, 쿠시나, 우구스는 루리아와 신샤를 배에 남겨두고 청원당으로 출발한다. 자기 때문에 루리아도 배에 남게 됐다고 사과하는 신샤에게 루리아는 집을 봐주는 것도 중요한 일이라고 격려했고 두 사람은 서로의 걱정을 떨쳐 버리려는 듯 활짝 웃는 것이었다."
 Japanese,scene_evt210129_cp5_q1_s10,detail,,<span class='scene-font-katari'>ごうごうと、怖いくらいの風の音。</span><br><span class='scene-font-katari'>島を埋め尽くす真っ白な雪が</span><br><span class='scene-font-katari'>空からも足元からも舞い踊ります。</span>,"<span class='scene-font-katari'>휘이잉거리며 무섭게 울리는 바람 소리. 섬을 집어삼킬 듯 새하얀 눈이 하늘에서도, 발 옆에서도 불어왔습니다.</span>"
 Japanese,scene_evt210129_cp5_q1_s10,detail,,<span class='scene-font-katari'>でもいつも雪に包まれたこの島も、</span><br><span class='scene-font-katari'>時にはぶつかり合った風が一緒に消えて</span><br><span class='scene-font-katari'>吹雪が止むことがあるそうです。</span>,"<span class='scene-font-katari'>하지만 항상 눈에 휩싸여 있는 이 섬에도, 때로는 두 개의 바람이 맞부딪혀 사라지고 눈보라가 잦아드는 일이 있는 모양입니다.</span>"
-Japanese,scene_evt210129_cp5_q1_s10,detail,비이,そんじゃ、青願堂へ出発だな！<br>[플레이어]、ルシウス、<br>ネクタルも準備はできてるか？,그럼 청원당으로 출발하자! 다들 준비 끝났어?
+Japanese,scene_evt210129_cp5_q1_s10,detail,비,そんじゃ、青願堂へ出発だな！<br>[플레이어]、ルシウス、<br>ネクタルも準備はできてるか？,그럼 청원당으로 출발하자! 다들 준비 끝났어?
 Japanese,scene_evt210129_cp5_q1_s10,detail,루시우스,問題ない。,문제없다.
 Japanese,scene_evt210129_cp5_q1_s10,detail,넥타르,ネクタルも手抜かりなく。<br>……ルリア殿。<br>シンシャをよろしくお願いする。,"넥타르도 빠뜨린 건 없다. ...루리아 공, 신샤를 잘 부탁한다."
 Japanese,scene_evt210129_cp5_q1_s10,detail,루리아,はい！ シンシャさんと<br>みんなの帰りを待ってます！,네! 신샤 씨하고 같이 여러분이 돌아오기를 기다릴게요!
@@ -28,7 +28,7 @@ Japanese,scene_evt210129_cp5_q1_s10,detail,,<span class='scene-font-katari'>冷�
 Japanese,scene_evt210129_cp5_q1_s10,detail,,<span class='scene-font-katari'>だからふたりで笑顔をかわして、</span><br><span class='scene-font-katari'>お互いの心配を吹き飛ばします。</span><br><span class='scene-font-katari'>さぁ、お留守番スタートです！</span>,"<span class='scene-font-katari'>그러니 같이 웃으면서 서로의 불안을 날려버리는 거예요. 자, 당번 시작이에요!</span>"
 Japanese,scene_evt210129_cp5_q2_s10,synopsis,,青願堂へ向かう道中、ネクタルは自身の魔力の枯渇が進んでおり、自身に残された時間が多くないことを告げる。ここで明かした理由を尋ねられ、「[플레이어]殿達の親切心に付け込んでいる」と告げたネクタルは、一行にシンシャ達のことを託すのだった。,"청원당으로 향하는 도중 넥타르는 자신의 마력이 고갈되고 있어 자신에게 남은 시간이 많지 않음을 알린다. 여기서 밝힌 이유를 묻자, ""[플레이어] 공의 친절함을 이용하려 하고있다.""고 말한 넥타르는 일행에게 신샤 일행을 맡기는 것이었다."
 Japanese,scene_evt210129_cp5_q2_s10,detail,우구스,クシナがねー！<br>クシナについてきてって！<br>ユキをどけてくよーっていってる！,쿠시나가! 쿠시나 뒤에서 따라오래! 눈 치워준대!
-Japanese,scene_evt210129_cp5_q2_s10,detail,비이,おぉ、すげぇな！<br>力持ちなんだなぁ。<br>そういや車椅子も軽々押してたよな。,"오, 대단하다! 힘 엄청 세구나. 그러고 보니 휠체어도 가볍게 밀어줬었지."
+Japanese,scene_evt210129_cp5_q2_s10,detail,비,おぉ、すげぇな！<br>力持ちなんだなぁ。<br>そういや車椅子も軽々押してたよな。,"오, 대단하다! 힘 엄청 세구나. 그러고 보니 휠체어도 가볍게 밀어줬었지."
 Japanese,scene_evt210129_cp5_q2_s10,detail,쿠시나,…………♪,…………♪
 Japanese,scene_evt210129_cp5_q2_s10,detail,우구스,ぱわーけーじょしだから、クシナは！<br><span class='scene-font-2'>おこるとベチッてされる。いたい。</span>,쿠시나는 파워걸이거든! <span class='scene-font-2'>화나면 꿍 해. 아파.</span>
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,ウグス。クシナを<br>怒らせるようなことをしてはいけない。,"우구스, 쿠시나를 화나게 만드는 말은 하면 안 돼."
@@ -37,16 +37,16 @@ Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,クシナ。すまないが
 Japanese,scene_evt210129_cp5_q2_s10,detail,쿠시나,…………？,…………？
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,ネクタルの魔力は枯渇が進んでいる。<br>残された時間はあまり存在しない。,넥타르는 마력의 고갈이 진행되고 있다. 남은 시간은 얼마 존재하지 않아.
 Japanese,scene_evt210129_cp5_q2_s10,detail,쿠시나,…………！？,…………！？
-Japanese,scene_evt210129_cp5_q2_s10,detail,비이,お、おいおい！？<br>急になに言い出すんだよ！？,"자, 잠깐! 갑자기 무슨 말을 하는 거야?"
+Japanese,scene_evt210129_cp5_q2_s10,detail,비,お、おいおい！？<br>急になに言い出すんだよ！？,"자, 잠깐! 갑자기 무슨 말을 하는 거야?"
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,事実を。星晶獣に成り損なった時点で<br>ネクタルの命運は尽きていた。<br>長年に渡る実験の影響もある。,사실이다. 성정수가 되지 못한 시점에서 넥타르의 운명은 끝난 것이었다. 오랜 기간에 걸친 실험의 영향도 있다.
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,元より記憶も意識も失った身が<br>シンシャの言葉と魔力で<br>一時的に動いているだけに過ぎない。,처음부터 기억과 의식을 모두 잃었던 몸이 신샤의 말과 마력을 통해 일시적으로 움직이고 있는 것에 불과하다. 
 Japanese,scene_evt210129_cp5_q2_s10,detail,루시우스,その事情を何故、今話した？<br>俺達には関係がないだろう。,그 사정을 왜 지금 이야기한 거지? 우리와는 관계없지 않나.
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,[플레이어]殿とビィ殿、<br>ルシウス殿の親切心に付け込んでいる。,"[플레이어] 공과 비이 공, 루시우스 공의 친절함을 이용하려 하고 있다."
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,シンシャやクシナ、ウグスに<br>外の世界での生き方を<br>教えてくれるように。,"신샤와 쿠시나, 우구스에게 바깥 세상에서 살아가는 법을 가르쳐 주게끔 말이다."
 Japanese,scene_evt210129_cp5_q2_s10,detail,루시우스,貴様……,너...
-Japanese,scene_evt210129_cp5_q2_s10,detail,비이,ちょ、ちょっと待てよ！<br>いや、シンシャ達を放り出したり<br>[플레이어]がするわけねぇけど……,"자, 잠깐만! 아니, 물론 [플레이어]이 신샤랑 다른 애들을 내쫓거나 하지는 않겠지만..."
-Japanese,scene_evt210129_cp5_q2_s10,detail,비이,んなことより、遺言みてぇなこと<br>言うんじゃねぇって！,그보다도 유언같은 소리 하지 마!
-Japanese,scene_evt210129_cp5_q2_s10,detail,비이,桃源郷、<br>シンシャ達と一緒に行くって<br>さっき約束してたじゃねぇか！,신샤랑 다 같이 도원향에 가기로 약속했었잖아! 아까!
+Japanese,scene_evt210129_cp5_q2_s10,detail,비,ちょ、ちょっと待てよ！<br>いや、シンシャ達を放り出したり<br>[플레이어]がするわけねぇけど……,"자, 잠깐만! 아니, 물론 [플레이어]이 신샤랑 다른 애들을 내쫓거나 하지는 않겠지만..."
+Japanese,scene_evt210129_cp5_q2_s10,detail,비,んなことより、遺言みてぇなこと<br>言うんじゃねぇって！,그보다도 유언같은 소리 하지 마!
+Japanese,scene_evt210129_cp5_q2_s10,detail,비,桃源郷、<br>シンシャ達と一緒に行くって<br>さっき約束してたじゃねぇか！,신샤랑 다 같이 도원향에 가기로 약속했었잖아! 아까!
 Japanese,scene_evt210129_cp5_q2_s10,detail,우구스,そーだそーだ！<br>それに、シンシャのからだ、<br>ネクタルのわけみはいってるでしょ！,맞아 맞아! 그리고 신샤의 몸에는 넥타르의 분신이 들어가 있잖아!
 Japanese,scene_evt210129_cp5_q2_s10,detail,우구스,ネクタルいないと<br>シンシャいろいろなくなって<br>すごーくこまる！ いやでしょ！？,넥타르 없으면 신샤도 여기저기 없어져서 엄청 난감하잖아! 그럼 싫잖아!
 Japanese,scene_evt210129_cp5_q2_s10,detail,넥타르,シンシャに渡した分け身は<br>既にシンシャの魔力の浸透を受け<br>その体の一部になっている。,신샤에게 넘긴 분신은 이미 신샤의 마력이 침투해서 그 몸의 일부가 되었다.
@@ -62,7 +62,7 @@ Japanese,scene_evt210129_cp5_q2_s10,detail,루시우스,……行くぞ。,...�
 Japanese,scene_evt210129_cp5_q2_s10,detail,우구스,うぅ……,우우...
 Japanese,scene_evt210129_cp5_q2_s10,detail,루시우스,……道中の魔物の相手は<br>俺に任せておくんだな。,...도중에 나오는 마물들을 상대하는 건 내게 맡겨라.
 Japanese,scene_evt210129_cp5_q2_s10,detail,쿠시나,…………！,…………！
-Japanese,scene_evt210129_cp5_q2_s10,detail,비이,はー……素直じゃねぇよなぁ、<br>ルシウスってさ！<br>なぁ、[플레이어]！,"하아... 루시우스는 정말 솔직하지 못하다니까. 그치, [플레이어]?"
+Japanese,scene_evt210129_cp5_q2_s10,detail,비,はー……素直じゃねぇよなぁ、<br>ルシウスってさ！<br>なぁ、[플레이어]！,"하아... 루시우스는 정말 솔직하지 못하다니까. 그치, [플레이어]?"
 Japanese,scene_evt210129_cp5_q3_s10,synopsis,,艇でルリアと共に留守番をするシンシャは、改めて自分と一緒にいてくれたネクタル達のお陰で自分が自分でいられたのだと感じ、ネクタル達のためならどんなことでもしたいと考える。一方、青願堂へたどり着いた[플레이어]達を待ち受けていたのは、クスキとゴブリン達、そして他の実験体達だった。[플레이어]達は襲い掛かってくるゴブリンと実験体達を相手取る。,"배에서 루리아와 함께 집을 보는 ㅅ샤는 다시 한번 자신과 함께 있어준 넥타르 일행 덕분에 자신이 버틸 수 있었다는 생각이 들어, 넥타르 일행을 위해서라면 무슨 일이든 하고 싶어진다. 한편 청원당에 도착한 [플레이어] 일행을 기다리고 있던 것은 쿠스키와 고블린들, 그리고 다른 실험체들이었다. [플레이어] 일행은 덤벼드는 고블린과 실험체들을 상대한다."
 Japanese,scene_evt210129_cp5_q3_s10,detail,신샤,そうなんですね……<br>ルリアさんは、帝国の研究所に……,그랬군요... 루리아 씨도 제국의 연구소에...
 Japanese,scene_evt210129_cp5_q3_s10,detail,루리아,えへへ、だからシンシャさん達のこと<br>ひと事だと思えなくて。,"에헤헤, 그래서 여러분이 겪은 일이 남 일처럼 느껴지지 않았어요."
@@ -93,19 +93,19 @@ Japanese,scene_evt210129_cp5_q3_s10,detail,신샤,はいっ！ 任せてくだ�
 Japanese,scene_evt210129_cp5_q3_s10,detail,,<span class='scene-font-katari'>私にできることは本当に少なくて。</span><br><span class='scene-font-katari'>情けなくて、悲しいくらいで。</span>,<span class='scene-font-katari'>제가 할 수 있는 일은 거의 없어서 그게 한심하고 슬플 정도지만.</span>
 Japanese,scene_evt210129_cp5_q3_s10,detail,,<span class='scene-font-katari'>だけど、みんながそんな私を</span><br><span class='scene-font-katari'>青願堂から連れ出してくれたように、</span><br><span class='scene-font-katari'>私も──</span>,"<span class='scene-font-katari'>하지만 모두가 그런 저를 청원당에서 꺼내줬던 것처럼, 저도...</span>"
 Japanese,scene_evt210129_cp5_q3_s10,detail,우구스,みえたー！<br>あれ、あれがせーがんどー！,"보인다! 저거, 저게 청원당!"
-Japanese,scene_evt210129_cp5_q3_s10,detail,비이,んん……？<br>あの、なんか岩肌が<br>見えてるところか？,어어...? 저... 바위들 보이는 데 말야?
+Japanese,scene_evt210129_cp5_q3_s10,detail,비,んん……？<br>あの、なんか岩肌が<br>見えてるところか？,어어...? 저... 바위들 보이는 데 말야?
 Japanese,scene_evt210129_cp5_q3_s10,detail,넥타르,ゴブリン達が青願堂内部に<br>火を着けたせいで、<br>周囲の雪が溶けだしている。,고블린들이 청원당 내부에 불을 붙인 탓에 주변의 눈이 녹아내렸다. 
 Japanese,scene_evt210129_cp5_q3_s10,detail,루시우스,とはいえ、この寒さで<br>既にそれも凍り付いた、か。,그렇다고는 해도 이 추위 속에서 이미 다시 얼어붙은 건가.
 Japanese,scene_evt210129_cp5_q3_s10,detail,루시우스,経年のせいもあるのか<br>呆れるほど周囲に溶け込んでいるな。,세월이 오래된 탓도 있겠지만 무서울 정도로 주변과 동화되어 있군. 
 Japanese,scene_evt210129_cp5_q3_s10,detail,넥타르,ジョルハは迫害から逃れるため<br>青願堂を雪と地形に<br>隠れるよう建築した。,조르하는 박해를 피하기 위해 청원당을 눈과 지형 속에 숨겨지게끔 건축했다. 
-Japanese,scene_evt210129_cp5_q3_s10,detail,비이,案内してもらわなけりゃ<br>見つかったかどうか<br>怪しいな、こりゃ……,안내받지 못했다면 찾아낼 수 있었을지 의심스러울 정도네...
+Japanese,scene_evt210129_cp5_q3_s10,detail,비,案内してもらわなけりゃ<br>見つかったかどうか<br>怪しいな、こりゃ……,안내받지 못했다면 찾아낼 수 있었을지 의심스러울 정도네...
 Japanese,scene_evt210129_cp5_q3_s10,detail,루시우스,悪鬼共がまだ中にいるのか<br>確認しなければ。,악귀 놈들이 아직 안에 있는지 확인해야만 한다.
-Japanese,scene_evt210129_cp5_q3_s10,detail,비이,そうだな！<br>隠れて侵入できる場所を……,맞네! 그럼 숨어서 침투할 수 있는 곳ㅇ...
+Japanese,scene_evt210129_cp5_q3_s10,detail,비,そうだな！<br>隠れて侵入できる場所を……,맞네! 그럼 숨어서 침투할 수 있는 곳ㅇ...
 Japanese,scene_evt210129_cp5_q3_s10,detail,？？？,────,────
 Japanese,scene_evt210129_cp5_q3_s10,detail,쿠시나,…………！,…………！
 Japanese,scene_evt210129_cp5_q3_s10,detail,넥타르,────っ！,────！
 Japanese,scene_evt210129_cp5_q3_s10,detail,우구스,<span class='scene-font-4'>あー！ クスキー！！</span>,<span class='scene-font-4'>아! 쿠스키!</span>
-Japanese,scene_evt210129_cp5_q3_s10,detail,비이,おい、落ち着けよ！<br>仲間同士なんだろ！？,"이봐, 진정해! 너희들은 동료잖아!"
+Japanese,scene_evt210129_cp5_q3_s10,detail,비,おい、落ち着けよ！<br>仲間同士なんだろ！？,"이봐, 진정해! 너희들은 동료잖아!"
 Japanese,scene_evt210129_cp5_q3_s10,detail,쿠스키,チ……ガウ……！,아... 니야...!
 Japanese,scene_evt210129_cp5_q3_s10,detail,쿠시나,…………！？,…………！？
 Japanese,scene_evt210129_cp5_q3_s10,detail,쿠스키,アルジ……ノ、タメ……<br>オマエタチヲ……！！,"주인님... 을, 위해... 너희들을...!"
@@ -113,9 +113,9 @@ Japanese,scene_evt210129_cp5_q3_s10,detail,루시우스,チッ……！<br>こ�
 Japanese,scene_evt210129_cp5_q3_s10,detail,고블린 병사,シンニュウシャハッケン！<br>シンニュウシャハッケン！！,침입자 발견! 침입자 발견!!
 Japanese,scene_evt210129_cp5_q3_s10,detail,고블린 병사들,<span class='scene-font-4'>コロセ！ コロセ！！</span>,<span class='scene-font-4'>죽여라! 죽여라!</span>
 Japanese,scene_evt210129_cp5_q3_s10,detail,마물,グルルルル……,그르르르...
-Japanese,scene_evt210129_cp5_q3_s10,detail,비이,な、なんだぁ！？<br>ゴブリン以外もぞろぞろと……,"뭐, 뭐야? 고블린 말고도 줄줄이..."
+Japanese,scene_evt210129_cp5_q3_s10,detail,비,な、なんだぁ！？<br>ゴブリン以外もぞろぞろと……,"뭐, 뭐야? 고블린 말고도 줄줄이..."
 Japanese,scene_evt210129_cp5_q3_s10,detail,우구스,じっけんたいだ！<br>ウグスたちみたいな、<br>せーがんどーの……！,실험체야! 우구스네처럼 청원당에 있던...
-Japanese,scene_evt210129_cp5_q3_s10,detail,비이,はぁ！？ だったらコイツらも<br>ネクタル達の仲間か！？,뭐어? 그럼 이 녀석들도 넥타르네 동료야?
+Japanese,scene_evt210129_cp5_q3_s10,detail,비,はぁ！？ だったらコイツらも<br>ネクタル達の仲間か！？,뭐어? 그럼 이 녀석들도 넥타르네 동료야?
 Japanese,scene_evt210129_cp5_q3_s10,detail,넥타르,<span class='scene-font-4'>───違う！</span>,<span class='scene-font-4'>...아니다!</span>
 Japanese,scene_evt210129_cp5_q3_s10,detail,넥타르,同じ実験体であろうと、<br>ゴブリンに与するのであれば<br>ネクタル達の敵！,"같은 실험체였다고 해도, 고블린에게 가세한다면 넥타르 일행의 적이다!"
 Japanese,scene_evt210129_cp5_q3_s10,detail,넥타르,[플레이어]殿、ルシウス殿、<br>救うことなど考えず<br>斬り捨ててくれ！,"단장 공, 루시우스 공. 그들을 구하는 건 염두에 두지 말고 베어넘겨 다오! "

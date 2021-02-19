@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt201208_cp4_q1_s10,synopsis,,翌日、トルー村にライルを送り届けた炭治郎、禰豆子、義勇、善逸、[플레이어]達は、ライル達の面倒を見ているバルドと出会う。バルドはライルを見て動揺した様子で、一行が祠について尋ねると激しく拒絶し逃げ出してしまう。どうしたものかと一行が悩む中、義勇はバルドを追って飛び出していくのだった。,"다음날, 토르 마을에 라일를 데려다 준 탄지로, 네즈코, 기유, 젠이츠 및 [플레이어] 일행은 라일 남매를 돌봐주었다는 바르드와 만난다. 바르드는 라일을 보고 동요한 모습으로, 일행이 사당에 대해 묻자 격렬하게 거절하고 도망가 버린다. 어떻게 할 지 일행이 고민하는 가운데 기유는 바르드를 뒤쫓아 뛰어나가는 것이었다."
 Japanese,scene_evt201208_cp4_q1_s10,detail,,<span class='scene-font-katari'>──夜が明けた翌日。</span>,"<span class='scene-font-katari'>밤이 지나고, 다음날이 왔다.</span>"
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,ここがトルー村か。,여기가 트루 마을인가?
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,ここがトルー村か。,여기가 트루 마을인가?
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,…………,…………
 Japanese,scene_evt201208_cp4_q1_s10,detail,루리아,ライルくん、大丈夫ですか？,"라일 군, 괜찮아요?"
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,エリィは……,엘리는...
@@ -22,20 +22,20 @@ Japanese,scene_evt201208_cp4_q1_s10,detail,카마도 탄지로,村で情報を�
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,俺？,나?
 Japanese,scene_evt201208_cp4_q1_s10,detail,루리아,はい！ 私達、トルー村のことは<br>何も知りません。だから、<br>ライルくんが頼りです！,네! 저희는 트루 마을에 대해서 아무 것도 몰라요. 그러니까 라일 군을 믿을게요!
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,……うん、わかった。,...응. 알았어.
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,よし！<br>そうと決まれば、<br>まずはライルの家に行ってみるか！,좋아! 그렇게 됐으면 일단 라일네 집으로 가 볼까?
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,よし！<br>そうと決まれば、<br>まずはライルの家に行ってみるか！,좋아! 그렇게 됐으면 일단 라일네 집으로 가 볼까?
 Japanese,scene_evt201208_cp4_q1_s10,detail,루리아,ここがライルくんのお家ですね。,여기가 라일 군의 집이군요.
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,誰もいないみたいだけど、<br>その「おじさん」ってのは？,"아무도 없는 것 같은데. 그 ""아저씨""란 사람은?"
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,あの……ごめん。<br>俺、慌ててて忘れてたんだけど……,"저기, 미안해. 당황하는 바람에 까먹고 있었는데..."
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,おじさん、<br>まだ村に帰ってないかもしれない。<br>昨日から、兄島に行ってて……,"아저씨, 아직 마을에 안 돌아왔을지도 몰라. 어제 형님 섬에 갔거든..."
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,兄島って、隣の島だっけ？<br>俺や伊之助が最初に着いたところだ。,"형님 섬이라니, 옆에 있는 섬 말야? 나랑 이노스케가 처음에 떨어진 곳이네."
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,おじさんが留守だから<br>俺とエリィは村を抜け出して<br>祠に行ったんだ……,아저씨가 안 계셔서 나랑 엘리가 마을을 빠져나와서 사당으로 갔던 거야...
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,なるほど、そういうことか。<br>それじゃあまずは他の誰かに……,"아하, 그랬구나. 그럼 일단은 다른 누군가를 찾아서..."
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,なるほど、そういうことか。<br>それじゃあまずは他の誰かに……,"아하, 그랬구나. 그럼 일단은 다른 누군가를 찾아서..."
 Japanese,scene_evt201208_cp4_q1_s10,detail,토미오카 기유,ん……？,음...?
 Japanese,scene_evt201208_cp4_q1_s10,detail,？？？,ライル……どうして……！？,라일... 어떻게?
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,あれ？ おじさん？,어? 아저씨?
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,なんだ、いるじゃん。<br>帰ってきたのかな。,"뭐야, 있었네. 마침 돌아온 건가?"
 Japanese,scene_evt201208_cp4_q1_s10,detail,바르드,…………,…………
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,ちょうど良かったぜ！<br>オイラ達、おっさんに<br>聞きたいことがあって……,"마침 잘 됐다! 우리, 아저씨한테 묻고 싶은 게 있는데..."
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,ちょうど良かったぜ！<br>オイラ達、おっさんに<br>聞きたいことがあって……,"마침 잘 됐다! 우리, 아저씨한테 묻고 싶은 게 있는데..."
 Japanese,scene_evt201208_cp4_q1_s10,detail,바르드,ライル……<br>エリィは、どうしたんだ？,"라일, 엘리는 어떻게 됐지?"
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,<span class='scene-font-4'>ご、ごめんなさい……！</span><br>俺達、祠に行って、<br>それで、エリィは……,"<span class='scene-font-4'>죄, 죄송해요!</span> 저희, 사당에 갔었는데 거기서 엘리가..."
 Japanese,scene_evt201208_cp4_q1_s10,detail,바르드,祠を、開けたのか……？,사당을 연 거냐...?
@@ -50,14 +50,14 @@ Japanese,scene_evt201208_cp4_q1_s10,detail,카마도 탄지로,山でライル�
 Japanese,scene_evt201208_cp4_q1_s10,detail,바르드,……だから何だと言うんだ。,...그래서 뭐 어쨌다는 거냐.
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,タンジロウは、<br>俺を助けてくれたんだ！<br>それで、祠のことを知りたいって……,탄지로가 날 구해줬어! 그래서 사당에 대해 알고 싶다고...
 Japanese,scene_evt201208_cp4_q1_s10,detail,바르드,…………,…………
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,知ってること、何でもいいから<br>教えてくれよ！<br>幽世のこととか……,뭐든지 좋으니까 알고 있는 걸 가르쳐 줘! 유세에 대해서라던가...
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,知ってること、何でもいいから<br>教えてくれよ！<br>幽世のこととか……,뭐든지 좋으니까 알고 있는 걸 가르쳐 줘! 유세에 대해서라던가...
 Japanese,scene_evt201208_cp4_q1_s10,detail,바르드,<span class='scene-font-4'>っ、やめろ！</span><br>知らないと言っているだろう！！,"<span class='scene-font-4'>그, 그만!</span> 모른다고 했잖아!"
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,<span class='scene-font-4'>うわっ！</span><br><span class='scene-font-4'>逃げたぞ！？</span>,<span class='scene-font-4'>으아! 도망쳤어!</span>
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,<span class='scene-font-4'>うわっ！</span><br><span class='scene-font-4'>逃げたぞ！？</span>,<span class='scene-font-4'>으아! 도망쳤어!</span>
 Japanese,scene_evt201208_cp4_q1_s10,detail,루리아,い、いったいどうしたんでしょう？,대체 어떻게 된 거죠?
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,変だよ……<br>だってライルに祠のことを<br>教えたのはあの人なんだろ？,이상해... 라일한테 사당에 대해서 알려준 건 저 사람이라며?
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,うん、そうだけど……,"응, 맞아..."
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,それなら、どうしてあんなに<br>頑なに知らないって<br>言うんだ……？,그런데 왜 저렇게 단호하게 모른다고 하는 거지...?
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,村の外の人間には<br>言っちゃいけねぇとか……<br>何か事情があるのか？,마을 밖 사람한테는 말하면 안 된다던가... 무슨 사정이 있는 건가?
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,村の外の人間には<br>言っちゃいけねぇとか……<br>何か事情があるのか？,마을 밖 사람한테는 말하면 안 된다던가... 무슨 사정이 있는 건가?
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,わかんない……でも、そうだ。<br>他の人に話しちゃ駄目だって<br>言われてたんだった。,"모르겠어... 그런데, 맞아. 다른 사람한테 말하면 안 된다고 듣긴 했어."
 Japanese,scene_evt201208_cp4_q1_s10,detail,라일,それなのに、俺、<br>タンジロウ達に言っちゃった……！,그런데 내가 탄지로네한테 말해 버렸어...!
 Japanese,scene_evt201208_cp4_q1_s10,detail,루리아,ライルくん、大丈夫ですよ。<br>大変な状況なんですから<br>ライルくんは間違ってません。,"라일 군, 괜찮아요. 이런 큰일이 일어났으니까 라일 군이 잘못한 게 아니에요."
@@ -66,7 +66,7 @@ Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,まぁ、ど�
 Japanese,scene_evt201208_cp4_q1_s10,detail,카마도 탄지로,ああ。ここまできて、<br>関係ありませんってわけにはいかない。,그래. 여기까지 와서 상관없는 일이라고 할 수는 없어.
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,そもそも、俺達が元の場所に<br>帰れるかどうかの唯一の手がかりは<br>その祠なんだろ？,"애초에 우리가 원래 있던 곳으로 돌아갈 수 있을지 어떨지, 유일한 실마리가 그 사당인 거잖아?"
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,引き下がれるわけないよ。,물러설 수는 없다고.
-Japanese,scene_evt201208_cp4_q1_s10,detail,비이,でも、おっさんのあの様子じゃあ<br>素直に話してくれるかどうか……,하지만 아저씨의 저 상태를 봐서는 솔직하게 말해줄지 어떨지...
+Japanese,scene_evt201208_cp4_q1_s10,detail,비,でも、おっさんのあの様子じゃあ<br>素直に話してくれるかどうか……,하지만 아저씨의 저 상태를 봐서는 솔직하게 말해줄지 어떨지...
 Japanese,scene_evt201208_cp4_q1_s10,detail,아가츠마 젠이츠,あの人の音、冷たくて怖くて……<br>すごく頑なで、<br>良くない感じがするんだよな。,"저 사람의 소리, 차갑고 무서워. 엄청 완고하고 좋지 않은 느낌이 드는걸."
 Japanese,scene_evt201208_cp4_q1_s10,detail,토미오카 기유,簡単だ。,간단해.
 Japanese,scene_evt201208_cp4_q1_s10,detail,카마도 탄지로,冨岡さん？,토미오카 씨?
@@ -80,11 +80,11 @@ Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,そういうことを聞い
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,名前以上の情報を、<br>今お前に説明しても<br>意味があるとは思えない。,이름 외의 정보를 지금 네게 설명한다 해도 의미가 있으리라 생각되진 않는다.
 Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,<span class='scene-font-4'>冨岡さん！</span>,<span class='scene-font-4'>토미오카 씨!</span>
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,はぁっ……やっと追いつきました！,하아... 겨우 따라잡았어요!
-Japanese,scene_evt201208_cp4_q2_s10,detail,비이,兄ちゃん、速すぎるぜ！,"형님, 너무 빨라!"
+Japanese,scene_evt201208_cp4_q2_s10,detail,비,兄ちゃん、速すぎるぜ！,"형님, 너무 빨라!"
 Japanese,scene_evt201208_cp4_q2_s10,detail,아가츠마 젠이츠,きっちりおっさん捕まえてるし。<br>やっぱり柱ってすごいんだな……,아저씨도 확실히 붙잡아 놨고... 역시 주는 대단하구나...
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,ライルはどうした？,라일은 어디에 있지?
 Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,家で待っているように<br>言ってきました。,집에서 기다리고 있으라고 말하고 왔어요.
-Japanese,scene_evt201208_cp4_q2_s10,detail,비이,で、おっさんは<br>何かしゃべったか？,"그래서, 아저씨가 뭔가 말했어?"
+Japanese,scene_evt201208_cp4_q2_s10,detail,비,で、おっさんは<br>何かしゃべったか？,"그래서, 아저씨가 뭔가 말했어?"
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,いや、まだだ。,"아니, 아직이다."
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,うっ……,으윽...
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,俺達には、祠の情報が必要だ。,우리에겐 사당의 정보가 필요하다. 
@@ -96,14 +96,14 @@ Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,……やっぱ�
 Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,申し訳ないけど、<br>あなたは嘘をついてる。,미안하지만 당신은 거짓말을 하고 있어요.
 Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,……俺には、匂いでわかります。,...저는 냄새를 맡으면 알 수 있어요.
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,何を言って……,무슨 소리를...
-Japanese,scene_evt201208_cp4_q2_s10,detail,비이,頼むから、いい加減に<br>ちゃんと話してくれよ！,"부탁이야, 슬슬 얘기 좀 제대로 해 줘!"
+Japanese,scene_evt201208_cp4_q2_s10,detail,비,頼むから、いい加減に<br>ちゃんと話してくれよ！,"부탁이야, 슬슬 얘기 좀 제대로 해 줘!"
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,お願いします！<br>もう、村だけの問題じゃ<br>ないんです。,부탁드릴게요! 이미 이 마을만의 문제가 아니에요.
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,もしかしたら、世界が<br>危ないかもしれなくて……！,어쩌면 세계가 위험할지도 몰라요...!
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,世界……？,세계...?
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,<span class='scene-font-4'>くく……はははっ！</span><br>そりゃあ重畳だ！<br>俺は間違ってなかったんだ！,"<span class='scene-font-4'>크큭, 하하하!</span> 그거 잘 됐군. 난 틀리지 않았어!"
 Japanese,scene_evt201208_cp4_q2_s10,detail,아가츠마 젠이츠,え、急に何……！？,"가, 갑자기 뭐야...?"
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,世界なんて、<br>終わってしまえばいい。,세계같은 건 멸망해야 돼.
-Japanese,scene_evt201208_cp4_q2_s10,detail,비이,お、おい！<br>何、勝手なこと言ってんだよ！,"자, 잠깐! 무슨 소리를 하는 거야!"
+Japanese,scene_evt201208_cp4_q2_s10,detail,비,お、おい！<br>何、勝手なこと言ってんだよ！,"자, 잠깐! 무슨 소리를 하는 거야!"
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,こんな世界、どうだっていいんだ。<br>何もかも消えてしまえ……！,이런 세계는 어떻게 되든 상관없어. 다 사라져 버려...!
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,そんな……！,그런...!
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,くく……ははは……,크크... 하하하...
@@ -118,7 +118,7 @@ Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,私は何もできず、村
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,私から、大切な何もかもを<br>奪ったのはこの世界だ。,이 세계는 내게서 소중한 모든 것들을 빼앗아갔다.
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,だから私は世界を憎む。<br>滅びてしまえばいい。,그러니 나는 이 세계를 증오한다. 멸망해 버렸으면 좋겠어.
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,……とても、<br>とても悲しいことだと思います。<br>でも、だからって世界を……,정말... 정말 슬픈 이야기라고 생각해요. 하지만 그렇다고 해서 세계를...
-Japanese,scene_evt201208_cp4_q2_s10,detail,비이,そんなことしたら、<br>お前だって死んじまうんだぞ！？,그런 짓을 하면 너도 죽는단 말이야!
+Japanese,scene_evt201208_cp4_q2_s10,detail,비,そんなことしたら、<br>お前だって死んじまうんだぞ！？,그런 짓을 하면 너도 죽는단 말이야!
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,はっ！<br>むしろ望むところだな。,하! 오히려 바라던 바다.
 Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,ライルと妹はどうなるんですか？<br>あなた達は、家族のように<br>暮らしていたんじゃないのか！？,라일하고 그 동생은 어떡하라는 겁니까! 당신들은 가족처럼 살아왔던 거 아닌가요?
 Japanese,scene_evt201208_cp4_q2_s10,detail,바르드,……一緒に暮らしてはいた。<br>けれど家族ではない。<br>私の家族は……,...같이 살고는 있었지. 하지만 가족은 아냐. 내 가족은...
@@ -133,7 +133,7 @@ Japanese,scene_evt201208_cp4_q2_s10,detail,,<span class='scene-font-katari'>呆�
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,魔物に襲われて死ぬ人は<br>多いのか？,마물에게 습격당해 죽는 사람이 많은가?
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,そうですね……色んな人が<br>色んな対策をしてて、私達騎空士が<br>退治の依頼を受けたりもしますが……,"그렇죠... 많은 사람이 이런저런 대책을 세우고, 저희같은 기공사들이 퇴치 의뢰를 받기도 하지만..."
 Japanese,scene_evt201208_cp4_q2_s10,detail,루리아,でも、どうしても、<br>悲しい事故はなくなりません。,그래도 어찌할 수 없는 슬픈 사고가 끊이지 않아요.
-Japanese,scene_evt201208_cp4_q2_s10,detail,비이,オイラ達の仲間にも<br>家族や友達を魔物に殺されたって<br>やつはいるぜ。,우리 동료 중에도 가족이나 친구를 마물에게 살해당한 녀석들이 있어.
+Japanese,scene_evt201208_cp4_q2_s10,detail,비,オイラ達の仲間にも<br>家族や友達を魔物に殺されたって<br>やつはいるぜ。,우리 동료 중에도 가족이나 친구를 마물에게 살해당한 녀석들이 있어.
 Japanese,scene_evt201208_cp4_q2_s10,detail,카마도 탄지로,せっかく鬼のいない世界なのに……,혈귀도 없는 세계인데...
 Japanese,scene_evt201208_cp4_q2_s10,detail,아가츠마 젠이츠,世界が変わっても<br>やりきれない悲しいことが<br>たくさんあるんだな……,세상이 바뀌어도 어찌할 수 없는 슬픈 일이 잔뜩 있구나...
 Japanese,scene_evt201208_cp4_q2_s10,detail,토미오카 기유,ありふれた悲劇か……,흔하디흔한 비극이라...
@@ -315,8 +315,8 @@ Japanese,scene_evt201208_cp4_q4_s20,detail,렌고쿠 코쥬로,ルリアはど�
 Japanese,scene_evt201208_cp4_q4_s20,detail,메두사,まぁそうなんだけど、<br>休眠中の星晶獣は気配が<br>わかりにくいらしくて……,"뭐 그것도 그런데, 휴면중인 성정수의 기운은 알기가 힘든 것 같더라고..."
 Japanese,scene_evt201208_cp4_q4_s20,detail,루리아,め、め、メドゥーサちゃーん！<br>皆さーん！,"메, 메두사 씨! 여러분~!"
 Japanese,scene_evt201208_cp4_q4_s20,detail,렌고쿠 코쥬로,む！<br>噂をすれば、だな！,오! 호랑이도 제 말 하면 온다더니!
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,はぁ、はぁっ……！<br>やっと追いついたぜ！,하아... 하아... 겨우 따라잡았네!
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,と思ったら、戦闘中かよ！<br>空が赤くなったから<br>嫌な感じはしてたんだ。,"아니, 싸우고 있잖아? 하늘이 붉게 물들었길래 안 좋은 느낌이 들긴 했어."
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,はぁ、はぁっ……！<br>やっと追いついたぜ！,하아... 하아... 겨우 따라잡았네!
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,と思ったら、戦闘中かよ！<br>空が赤くなったから<br>嫌な感じはしてたんだ。,"아니, 싸우고 있잖아? 하늘이 붉게 물들었길래 안 좋은 느낌이 들긴 했어."
 Japanese,scene_evt201208_cp4_q4_s20,detail,메두사,<span class='scene-font-4'>おっそーい！</span><br>でもまぁ、いいトコロに来たわね！,<span class='scene-font-4'>늦었잖아!</span> 뭐 그래도 딱 좋을 때 왔어!
 Japanese,scene_evt201208_cp4_q4_s20,detail,나타쿠,村で情報は得られたか？,마을에서 정보는 얻었나?
 Japanese,scene_evt201208_cp4_q4_s20,detail,루리아,あ、はい！<br>少しですが……<br>でも今はそれより！,"아, 네! 얼마 안 되지만요... 지금은 그것보다!"
@@ -337,14 +337,14 @@ Japanese,scene_evt201208_cp4_q4_s20,detail,토미오카 기유,水の呼吸、�
 Japanese,scene_evt201208_cp4_q4_s20,detail,토미오카 기유,打ち潮！,들이친 파도!
 Japanese,scene_evt201208_cp4_q4_s20,detail,카마도 탄지로,冨岡さん、すみません！,"토미오카 씨, 죄송해요!"
 Japanese,scene_evt201208_cp4_q4_s20,detail,토미오카 기유,いいから集中しろ！,괜찮으니 집중해라!
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,謎の星晶獣に<br>幽世の化け物が山ほどなんて……,알 수 없는 성정수에다 유세의 괴물이 산더미처럼 있다니... 
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,謎の星晶獣に<br>幽世の化け物が山ほどなんて……,알 수 없는 성정수에다 유세의 괴물이 산더미처럼 있다니... 
 Japanese,scene_evt201208_cp4_q4_s20,detail,아가츠마 젠이츠,<span class='scene-font-4'>もう無理っ！</span><br>俺、本っ当に役に立たないから！<br>誰か守って！！,<span class='scene-font-4'>더 이상은 무리야!</span> 나 완전 도움 안 되거든! 누가 좀 지켜줘!
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,ゼンイツ落ち着け！,"젠이츠, 진정해!"
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,でも、この状況は……<br>どうすりゃいいんだ！？,하지만 이 상황... 어쩌면 좋지?
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,ゼンイツ落ち着け！,"젠이츠, 진정해!"
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,でも、この状況は……<br>どうすりゃいいんだ！？,하지만 이 상황... 어쩌면 좋지?
 Japanese,scene_evt201208_cp4_q4_s20,sel1_txt,,<span class='scene-font-katari'>まずは幽世の化け物を</span>,<span class='scene-font-katari'>일단 유세의 괴물을 잡자</span>
 Japanese,scene_evt201208_cp4_q4_s20,sel2_txt,,<span class='scene-font-katari'>星晶獣を警戒して</span>,<span class='scene-font-katari'>성정수를 경계하자</span>
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,つってもよぉ……！,그렇게 말해도 말이지!
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,数が多すぎるぜ！？,수가 너무 많잖아!?
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,つってもよぉ……！,그렇게 말해도 말이지!
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,数が多すぎるぜ！？,수가 너무 많잖아!?
 Japanese,scene_evt201208_cp4_q4_s20,detail,나타쿠,大元を締めなければ<br>キリがないぞ！,근본은 처리하지 않으면 끝이 없겠군!
 Japanese,scene_evt201208_cp4_q4_s20,detail,루리아,意識が混濁してるみたいです……<br>声が、まだ届かなくて……,의식이 혼탁한 모양이에요. 목소리가 아직 전해지질 않아요...
 Japanese,scene_evt201208_cp4_q4_s20,detail,메두사,寝起きが悪いタイプみたいね。<br>全く世話がやけるったら！,잠에서 잘 못 깨는 타입인가보네. 진짜 귀찮게 군다!
@@ -357,7 +357,7 @@ Japanese,scene_evt201208_cp4_q4_s20,detail,카마도 탄지로,なんて力だ�
 Japanese,scene_evt201208_cp4_q4_s20,detail,하시비라 이노스케,すげぇ……！<br><span class='scene-font-4'>すげぇ強ぇじゃねぇか</span><br><span class='scene-font-4'>あの４本腕！！</span>,<span class='scene-font-4'>엄청... 엄청 강하잖아 저 팔 네 개짜리!</span>
 Japanese,scene_evt201208_cp4_q4_s20,detail,하시비라 이노스케,<span class='scene-font-4'>おい！</span><br><span class='scene-font-4'>次は俺と勝負しろ！！</span>,<span class='scene-font-4'>야! 이번엔 나랑 싸우자!</span>
 Japanese,scene_evt201208_cp4_q4_s20,detail,？？？,ま、も……らねば……！,지켜야... 한다...!
-Japanese,scene_evt201208_cp4_q4_s20,detail,비이,うわぁっ！？<br>今度はこっちに……！？,으악! 이번엔 이 쪽으로...!
+Japanese,scene_evt201208_cp4_q4_s20,detail,비,うわぁっ！？<br>今度はこっちに……！？,으악! 이번엔 이 쪽으로...!
 Japanese,scene_evt201208_cp4_q4_s20,detail,아가츠마 젠이츠,<span class='scene-font-4'>嘘でしょーーーっ！？</span>,<span class='scene-font-4'>농담이지!?</span>
 Japanese,scene_evt201208_cp4_q4_s20,detail,아가츠마 젠이츠,伊之助が余計なこと<br>言うから怒ったんじゃない！？<br>何してくれてんだよ！！,이노스케가 쓸데없는 소릴 하니까 화난 거 아냐? 무슨 짓을 하는 거야!
 Japanese,scene_evt201208_cp4_q4_s20,detail,하시비라 이노스케,<span class='scene-font-4'>うるせー！</span><br><span class='scene-font-4'>ビビってんなら</span><br><span class='scene-font-4'>お前は下がってろ！</span>,<span class='scene-font-4'>시끄러워! 쫄았으면 넌 뒤로 빠져 있어!</span>
