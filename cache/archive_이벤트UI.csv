@@ -19,6 +19,8 @@ orig,kr
 イベントTOPにて、<br>「台詞集」が解放されました。,이벤트 TOP의<br>「대사집」이 해방되었습니다
 台詞集では、過去の同名イベント開催時に<br>イベントTOPで表示されていたキャラクター、<br>台詞、音声を確認することができます。,대사집에서는 이벤트 화면에 표시되었었던<br>캐릭터의 대사와 음성을 확인할 수 있습니다
 エクストラストーリー解放,엑스트라 스토리 해방
+下記のイベント限定エクストラクエストで手に入ります,아래의 이벤트 한정 엑스트라 퀘스트에서 획득할 수 있습니다
+
 
 !프롤로그
 プレイヤー名設定,플레이어명 설정
@@ -600,11 +602,13 @@ Lv*** ゴブリンプリンセス,Lv*** 고블린 프린세스
 新たなイベントクエスト<br>「エンディング」<br>が解放されました！,새로운 이벤트 퀘스트<br>「엔딩」<br>이 해방되었습니다!
 エクストラストーリー<br>							<span>「自己省察」</span><br>							<span>「滲む０と１の境界」</span><br>					が解放されました！,엑스트라 스토리<br>							<span>「자기성찰」</span><br>							<span>「번지는 ０과１의 경계」</span><br>					가 해방되었습니다！
 「Spaghetti Syndrome」<br>                                                「Spaghetti Syndrome（マルチバトル）」<br>「エクストラクエスト」にて、<br>クエストに挑戦可能となりました。,「Spaghetti Syndrome」<br>                                                「Spaghetti Syndrome（멀티배틀）」<br>「엑스트라 퀘스트」에서<br>퀘스트에 도전할 수 있습니다
-
+エクストラストーリー<br>							<span>「ﾆﾐｿﾗﾓﾆﾐｷ ｼﾆﾄｾﾁｶｿｸ」</span><br>					が解放されました！,엑스트라 스토리<br>                                                        <span>「Icnoming Phidcast」</span><br>                                        가 해방되었습니다！
 
 ノインが無いため、奥義を使用できない,노인이 없기 때문에 오의를 사용할 수 없다
 エムブラスクの剣が無いため、奥義を使用できない,엠브라스크의 검이 없기 때문에 오의를 사용할 수<br>없다
 
+
+!Spaghetti Syndrome 칭호
 獲得条件：帰還のメダリオンを累計で***個入手,획득조건：귀환의 메달리온을 누계 ***개 획득
 獲得条件<br>帰還のメダリオンを累計で***個入手,획득조건<br>귀환의 메달리온을 누계 ***개 획득
 
@@ -627,26 +631,26 @@ Lv*** ゴブリンプリンセス,Lv*** 고블린 프린세스
 
 合理や損得だけじゃ動かない,합리나 손득만으로는 나서지 않아
 獲得条件：「Spaghetti Syndrome」のエクストラクエストを合計*回クリア,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 *회 클리어
-獲得条件<br>「Spaghetti Syndrome」のエクストラクエストを合計*回クリア,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 *回クリア
+獲得条件<br>「Spaghetti Syndrome」のエクストラクエストを合計*回クリア,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 *회 클리어
 
 機械仕掛けの神殺し,기계장치의 신살자
-獲得条件：「Spaghetti Syndrome」のエクストラクエストを合計**回クリア,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 **回クリア
-獲得条件<br>「Spaghetti Syndrome」のエクストラクエストを合計**回クリア,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 **回クリア
+獲得条件：「Spaghetti Syndrome」のエクストラクエストを合計**回クリア,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 **회 클리어
+獲得条件<br>「Spaghetti Syndrome」のエクストラクエストを合計**回クリア,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 **회 클리어
 
 エンド・オブ・ライフケア,엔드 오브 라이프케어
-獲得条件：「Spaghetti Syndrome」のエクストラクエストを合計***回クリア,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 ***回クリア
-獲得条件<br>「Spaghetti Syndrome」のエクストラクエストを合計***回クリア,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 ***回クリア
+獲得条件：「Spaghetti Syndrome」のエクストラクエストを合計***回クリア,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 ***회 클리어
+獲得条件<br>「Spaghetti Syndrome」のエクストラクエストを合計***回クリア,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트를 합계 ***회 클리어
 
 うおおおおおおん！,우오오오오오옹！
-獲得条件：「Spaghetti Syndrome」のエクストラクエストで機星獣・風雷(HELL)を討伐,획득조건：「Spaghetti Syndrome」のエクストラクエストで機星獣・風雷(HELL)を討伐
-獲得条件<br>「Spaghetti Syndrome」のエクストラクエストで機星獣・風雷(HELL)を討伐,획득조건<br>「Spaghetti Syndrome」のエクストラクエストで機星獣・風雷(HELL)を討伐
+獲得条件：「Spaghetti Syndrome」のエクストラクエストで機星獣・風雷(HELL)を討伐,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트에서 기성수・풍뢰(HELL)를 토벌
+獲得条件<br>「Spaghetti Syndrome」のエクストラクエストで機星獣・風雷(HELL)を討伐,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트에서 기성수・풍뢰(HELL)를 토벌
 
-メーデー、メーデー,"메이데이, 메이데이"
-獲得条件：「Spaghetti Syndrome」の*つの追加エピソードをクリア,획득조건：「Spaghetti Syndrome」の*つの追加エピソードをクリア
-獲得条件<br>「Spaghetti Syndrome」の*つの追加エピソードをクリア,획득조건<br>「Spaghetti Syndrome」の*つの追加エピソードをクリア
+メーデー、メーデー,메이데이. 메이데이
+獲得条件：「Spaghetti Syndrome」の*つの追加エピソードをクリア,획득조건：「Spaghetti Syndrome」의 *개의 추가 에피소드를 클리어
+獲得条件<br>「Spaghetti Syndrome」の*つの追加エピソードをクリア,획득조건<br>「Spaghetti Syndrome」의 *개의 추가 에피소드를 클리어
 
-獲得条件：「Spaghetti Syndrome」のエクストラクエストで風神・雷神(MANIAC)を討伐,획득조건：「Spaghetti Syndrome」のエクストラクエストで風神・雷神(MANIAC)を討伐
-獲得条件<br>「Spaghetti Syndrome」のエクストラクエストで風神・雷神(MANIAC)を討伐,획득조건<br>「Spaghetti Syndrome」のエクストラクエストで風神・雷神(MANIAC)を討伐
+獲得条件：「Spaghetti Syndrome」のエクストラクエストで風神・雷神(MANIAC)を討伐,획득조건：「Spaghetti Syndrome」의 엑스트라 퀘스트에서 풍신・뇌신(MANIAC)을 토벌
+獲得条件<br>「Spaghetti Syndrome」のエクストラクエストで風神・雷神(MANIAC)を討伐,획득조건<br>「Spaghetti Syndrome」의 엑스트라 퀘스트에서 풍신・뇌신(MANIAC)을 토벌
 
 
 ・シングルバトル「Lv** 機星獣・風雷」,・싱글배틀 「Lv** 기성수・풍뢰」
@@ -656,15 +660,20 @@ Lv*** ゴブリンプリンセス,Lv*** 고블린 프린세스
 ・マルチバトル「機械仕掛けの獣」,・멀티배틀 「기계장치의 짐승」
 ・マルチバトル「月への帰還を望んだ少女」,・멀티배틀 「달로 돌아가길 바란 소녀」
 
+スキン「払暁に冥刃閃く」を<br>獲得しました！,스킨「잔야에 어두운 칼날이 번득인다」를<br>획득했습니다！
+※スキンの切り替えは、キャラ詳細画面<br>「スキン・POSE切り替え設定」から<br>行うことができます,※스킨변경은 캐릭터 상세보기<br>「스킨・POSE 변경 설정」에서<br>할 수 있습니다
+穿光のパトスを*個獲得！,천광의 파토스를 *개 획득！
+
+
+
+
+
 風躯,풍구
 雷鼓,뇌고
 輪風招来,윤풍초래
 風ノ暴竜,바람의 폭룡
 荒レ狂ウ海波,거친 파도
 雄渾タル咆哮,웅장한 포효
-
-
-
 
 
 
@@ -677,3 +686,46 @@ Lv*** ゴブリンプリンセス,Lv*** 고블린 프린세스
 "<span class=""prt-journal-update-npc-name"">グレイス</span><br>キャラクターがルリアノートに<br>登録されました！"
 "<span class=""prt-journal-update-npc-name"">ハイゼンベルク</span><br>キャラクターがルリアノートに<br>登録されました！"
 "<span class=""prt-journal-update-npc-name"">ヤチマ</span><br>キャラクターがルリアノートに<br>登録されました！"
+"<span class=""prt-journal-update-npc-name"">デアン</span><br>キャラクターがルリアノートに<br>登録されました！"
+"<span class=""prt-journal-update-npc-name"">ファナ</span><br>キャラクターがルリアノートに<br>登録されました！"
+"<span class=""prt-journal-update-npc-name"">エルド</span><br>キャラクターがルリアノートに<br>登録されました！"
+
+
+!Spaghetti Syndrome 대사집
+アイザック *,아이작 *
+アイザック 戦貨
+アイザック 討伐章
+アイザック 貢献度
+
+レイベリィ *
+レイベリィ 戦貨
+レイベリィ 討伐章
+レイベリィ 貢献度
+
+ゼタ *
+ゼタ 戦貨
+ゼタ 討伐章
+ゼタ 貢献度
+
+バザラガ *
+バザラガ 戦貨
+バザラガ 討伐章
+バザラガ 貢献度
+
+
+ベアトリクス 戦貨
+ベアトリクス 討伐章
+ベアトリクス 貢献度
+
+イルザ *
+イルザ 戦貨
+イルザ 討伐章
+イルザ 貢献度
+
+ユーステス *
+ユーステス 戦貨
+ユーステス 討伐章
+ユーステス 貢献度
+
+
+エージェント・カシウスは<br>どこにいるんだろうね。<br>すぐに見つかるといいなぁ。
