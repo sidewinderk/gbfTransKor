@@ -126,48 +126,48 @@ text_en,,Yeah. I should be able to read its attacks now. But why—,"그래.<br>
 text_jp,,打開策があるなら実行に移せ。<br>考察は後だ。,타개책이 있으면 실행에 옮겨라.<br>생각은 나중에 한다.
 text_en,,"If you know a way to beat it, then do it. We can reminisce later.",타개책이 있으면 실행에 옮겨라.<br>생각은 나중에 한다.
 condition_win,,解放された封印武器の力で<br>機神ヤチマの苦痛に終止符を打て！,해방된 봉인 무기의 힘으로<br>기신 야치마의 고통에 종지부를 찍어라!
-text_jp,,驚いた、ルリアちゃんみたいな<br>こともできるんだ。<br>ずいぶん大げさにいじったのね。,놀란 루리아 같은<br>도 할 수 있어.<br>엄청나게 만졌네.
-text_en,,I wasn't expecting her to have powers like Lyria's. She really did a number on herself.,놀란 루리아 같은<br>도 할 수 있어.<br>엄청나게 만졌네.
+text_jp,,驚いた、ルリアちゃんみたいな<br>こともできるんだ。<br>ずいぶん大げさにいじったのね。,"놀랐어, 루리아 같은 일도<br> 할 수 있는거야?<br>꽤나 많이 건드렸네."
+text_en,,I wasn't expecting her to have powers like Lyria's. She really did a number on herself.,"놀랐어, 루리아 같은 일도<br> 할 수 있는거야?<br>꽤나 많이 건드렸네."
 text_jp,,……ねえ、やっぱりあの子に<br>話は通じないの？,"...저기, 역시 저 애에게<br>말은 통하지 않는 거야?"
 text_en,,Are you sure we can't reason with her?,"...저기, 역시 저 애에게<br>말은 통하지 않는 거야?"
-text_jp,,ああ。もはや意識もあるまい。<br>残っているのは最期に抱いた<br>焦りと不安の感情だけだ。,아아. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
-text_en,,Mm. She is no longer herself. Now she's running on instinct and fighting on borrowed time.,아아. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
-text_jp,,俺達にできるのは<br>手を汚すことくらいだ。<br>断ち切ってやろう。この鎌でな。,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br> 끊어주자.이 낫으로 말이야.
-text_en,,All we can do is get our hands dirty. My scythe will be the one to carry out the deed.,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br> 끊어주자.이 낫으로 말이야.
-text_jp,,こいつ……なんて堅さだ！<br>私の武器だと歯が立たないぞ？,이 녀석……이 얼마나 딱딱해!<br>내 무기라면 당할 수가 없는데?
-text_en,,Why's she so strong! My weapon doesn't even make her flinch!,이 녀석……이 얼마나 딱딱해!<br>내 무기라면 당할 수가 없는데?
-text_jp,,封印武器じゃないと、効果は<br>期待薄って感じね。<br>あたし達で決めるしかないわね……,"봉인 무기가 아니면, 효과는<br>기대가 떨어진 느낌이야.<br>우리가 결정할 수 밖에 없네......"
-text_en,,I guess seal weapons are the only way to go. It's up to us to finish this.,"봉인 무기가 아니면, 효과는<br>기대가 떨어진 느낌이야.<br>우리가 결정할 수 밖에 없네......"
-text_jp,,……成れの果て、か。,"……된 끝이라, 라."
-text_en,,Hm... A shell of one's former self...,"……된 끝이라, 라."
-text_jp,,ガラにもない。<br>あたしが言った事<br>気にしてんの？,딸에게도 없어.<br>내가 한 말<br>신경쓰는 거야?
-text_en,,What's gotten in to you? Are you actually thinking about something I said?,딸에게도 없어.<br>내가 한 말<br>신경쓰는 거야?
+text_jp,,ああ。もはや意識もあるまい。<br>残っているのは最期に抱いた<br>焦りと不安の感情だけだ。,그래. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
+text_en,,Mm. She is no longer herself. Now she's running on instinct and fighting on borrowed time.,그래. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
+text_jp,,俺達にできるのは<br>手を汚すことくらいだ。<br>断ち切ってやろう。この鎌でな。,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br>끊어주자. 이 낫으로 말이야.
+text_en,,All we can do is get our hands dirty. My scythe will be the one to carry out the deed.,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br>끊어주자. 이 낫으로 말이야.
+text_jp,,こいつ……なんて堅さだ！<br>私の武器だと歯が立たないぞ？,이 녀석……엄청나게 딱딱해!<br>내 무기로는 전혀 안먹히는데?
+text_en,,Why's she so strong! My weapon doesn't even make her flinch!,이 녀석……엄청나게 딱딱해!<br>내 무기로는 전혀 안먹히는데?
+text_jp,,封印武器じゃないと、効果は<br>期待薄って感じね。<br>あたし達で決めるしかないわね……,"봉인 무기가 아니면, 효과가<br>떨어지는 느낌이야.<br>우리가 할 수 밖에 없겠네......"
+text_en,,I guess seal weapons are the only way to go. It's up to us to finish this.,"봉인 무기가 아니면, 효과가<br>떨어지는 느낌이야.<br>우리가 할 수 밖에 없겠네......"
+text_jp,,……成れの果て、か。,"……영락한 말로, 인가."
+text_en,,Hm... A shell of one's former self...,"……영락한 말로, 인가."
+text_jp,,ガラにもない。<br>あたしが言った事<br>気にしてんの？,덩치에 안맞게.<br>내가 한 말<br>신경쓰는 거야?
+text_en,,What's gotten in to you? Are you actually thinking about something I said?,덩치에 안맞게.<br>내가 한 말<br>신경쓰는 거야?
 text_jp,,いや。俺には、頼れる<br>ウォッチドッグがついている。<br>小うるさい仔犬ではあるがな。,아니. 나에게는 의지할 수 있는<br>워치독이 달려 있어.<br>작은 강아지이긴 하지만.
 text_en,,"Well, I shouldn't ignore the reliable watchdog following me around, yappy pupper she may be.",아니. 나에게는 의지할 수 있는<br>워치독이 달려 있어.<br>작은 강아지이긴 하지만.
-text_jp,,ウォッチドッグって……番犬！？<br>あたしの事、目覚まし時計と<br>思わないでよ！？,워치독이라니... 번견!?<br> 나 자명종이라고 <br> 생각하지마!?
-text_en,,Hey! I'm not your personal assistant! Got it?,워치독이라니... 번견!?<br> 나 자명종이라고 <br> 생각하지마!?
-text_jp,,ぐうっ！？　やばいな……<br>こんなのもう一発くらったら<br>ひとたまりもないぞ？,으윽!? 위험하네...<br>이런거 한 대 더 맞으면 <br>한 대도 버티지 못하네?
-text_en,,"Oof! Take another hit like that, and we're toast!",으윽!? 위험하네...<br>이런거 한 대 더 맞으면 <br>한 대도 버티지 못하네?
-text_jp,,その前に、あたしとバザラガで<br>止めるわよ。<br>そのための封印武器なんだから！,그전에 나랑 바자라가에서 <br> 그만둘래.<br>그것을 위한 봉인무기니까!
-text_en,,Vaseraga and I will stop her before that happens! That's why we've got seal weapons!,그전에 나랑 바자라가에서 <br> 그만둘래.<br>그것을 위한 봉인무기니까!
-text_jp,,おい、大丈夫かあ！？<br>危なくなったらお前のアビリティで<br>回復した方がいいぜ？,"어이, 괜찮을까!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋은데?"
-text_en,,Yikes! Everyone okay? Maybe you should heal up before it's too late!,"어이, 괜찮을까!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋은데?"
-text_jp,,くっそ……！　また来るぞ！<br>ゼタ、バザラガ！<br>気をつけろよ！,"굿소......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
-text_en,,"Damn, here comes another attack! Zeta! Vaseraga! Watch yourselves!","굿소......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
-text_jp,,ああ。<br>あと少しで力を解放できる。<br>それまでの間、持ちこたえてくれ。,아아.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br> 그때까지 버텨줘.
-text_en,,Got it. Just hold out a little longer until I can release my power.,아아.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br> 그때까지 버텨줘.
-text_jp,,ふん……！<br>こんな所でやられるか！<br>私は……私達は不滅だ！,흥...!<br>이런 곳에서 당하는구나!<br> 나는 ... 우리는 불멸이다!
-text_en,,Heh! I'm not going down in a place like this! Because I! Am! Invincible!,흥...!<br>이런 곳에서 당하는구나!<br> 나는 ... 우리는 불멸이다!
+text_jp,,ウォッチドッグって……番犬！？<br>あたしの事、目覚まし時計と<br>思わないでよ！？,워치독이라니... 번견!?<br>나를 자명종이라고<br>생각하지마!?
+text_en,,Hey! I'm not your personal assistant! Got it?,워치독이라니... 번견!?<br>나를 자명종이라고<br>생각하지마!?
+text_jp,,ぐうっ！？　やばいな……<br>こんなのもう一発くらったら<br>ひとたまりもないぞ？,으윽!? 위험하네...<br>이런거를 한 대 더 맞으면<br>잠시도 버티지 못할거라고?
+text_en,,"Oof! Take another hit like that, and we're toast!",으윽!? 위험하네...<br>이런거를 한 대 더 맞으면<br>잠시도 버티지 못할거라고?
+text_jp,,その前に、あたしとバザラガで<br>止めるわよ。<br>そのための封印武器なんだから！,그전에 나랑 바자라가가<br>멈출거야.<br>그걸 위한 봉인무기니까!
+text_en,,Vaseraga and I will stop her before that happens! That's why we've got seal weapons!,그전에 나랑 바자라가가<br>멈출거야.<br>그걸 위한 봉인무기니까!
+text_jp,,おい、大丈夫かあ！？<br>危なくなったらお前のアビリティで<br>回復した方がいいぜ？,"어이, 괜찮아!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋겠다구?"
+text_en,,Yikes! Everyone okay? Maybe you should heal up before it's too late!,"어이, 괜찮아!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋겠다구?"
+text_jp,,くっそ……！　また来るぞ！<br>ゼタ、バザラガ！<br>気をつけろよ！,"젠장......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
+text_en,,"Damn, here comes another attack! Zeta! Vaseraga! Watch yourselves!","젠장......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
+text_jp,,ああ。<br>あと少しで力を解放できる。<br>それまでの間、持ちこたえてくれ。,그래.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br>그때까지만 버텨줘.
+text_en,,Got it. Just hold out a little longer until I can release my power.,그래.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br>그때까지만 버텨줘.
+text_jp,,ふん……！<br>こんな所でやられるか！<br>私は……私達は不滅だ！,흥...!<br>이런 곳에서 당할 수 없지!<br> 나는... 우리는 불멸이다!
+text_en,,Heh! I'm not going down in a place like this! Because I! Am! Invincible!,흥...!<br>이런 곳에서 당할 수 없지!<br> 나는... 우리는 불멸이다!
 text_jp,,動きは封じた。<br>ゼタ、バザラガ。行け。,"움직임은 막았다.<br>제타, 바자라가. 가라."
 text_en,,"Her movements are sealed. Zeta, Vaseraga. Move in.","움직임은 막았다.<br>제타, 바자라가. 가라."
-text_jp,,あ……危ないだろユーステス！<br>私達を巻き込む気か！<br>何かするなら先に言ってくれよ！,아......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해줘!
-text_en,,"Were you trying to hit us, Eustace! Give us a warning at least!",아......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해줘!
-text_jp,,だが、おかげで準備は整った。<br>いけるな、ゼタ。,"하지만, 덕분에 준비는 갖추어졌다.<br> 갈 수 있어, 제타."
-text_en,,"But thanks to him, I'm ready to go. I'm guessing you are too, Zeta.","하지만, 덕분에 준비는 갖추어졌다.<br> 갈 수 있어, 제타."
+text_jp,,あ……危ないだろユーステス！<br>私達を巻き込む気か！<br>何かするなら先に言ってくれよ！,윽......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해달라고!
+text_en,,"Were you trying to hit us, Eustace! Give us a warning at least!",윽......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해달라고!
+text_jp,,だが、おかげで準備は整った。<br>いけるな、ゼタ。,"하지만, 덕분에 준비는 갖추어졌다.<br>자 가자, 제타."
+text_en,,"But thanks to him, I'm ready to go. I'm guessing you are too, Zeta.","하지만, 덕분에 준비는 갖추어졌다.<br>자 가자, 제타."
 text_jp,,うん。いつもの呼吸で。<br>あたし達が終わらせてあげる。<br>……他に手があればよかったね。,응. 언제나와 같은 호흡으로.<br> 우리가 끝내줄게.<br>…다른 방법이 있으면 좋았을걸.
 text_en,,"Yeah, as long as I'm breathing. There's no other way, so... let's finish this.",응. 언제나와 같은 호흡으로.<br> 우리가 끝내줄게.<br>…다른 방법이 있으면 좋았을걸.
-text_jp,,アルベス、応えなさい！,"알베스, 응답하세요!"
-text_en,,Arvess! Hear my call!,"알베스, 응답하세요!"
+text_jp,,アルベス、応えなさい！,"알베스, 응답해줘!"
+text_en,,Arvess! Hear my call!,"알베스, 응답해줘!"
 condition_win,,異形の化け物を撃破せよ！,이형의 괴물을 격파하자!
 condition_win,,敗北条件：煉󠄁獄杏寿郎の戦闘不能,패배조건：렌고쿠 코쥬로의 전투불능
 text_jp,,仲間には手出しさせん！,동료에게는 손대지 못한다!
