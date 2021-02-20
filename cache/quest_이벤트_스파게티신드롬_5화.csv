@@ -82,9 +82,9 @@ Japanese,scene_evt200128_cp5_q3_s10,detail,카시우스,……俺を解放しろ
 Japanese,scene_evt200128_cp5_q3_s10,detail,카시우스,俺も戦闘に参加する。<br>このままでは全滅するぞ。
 Japanese,scene_evt200128_cp5_q3_s10,detail,조직의 병사2,た、隊長！<br>今はひとりでも戦力を増やさねば！
 Japanese,scene_evt200128_cp5_q3_s10,detail,조직의 병사,……ああ。<br>中枢、旅行者の解放を。<br>拘束解除をお願いします。
-Japanese,scene_evt200128_cp5_q3_s10,detail,中枢,<span class='scene-font-gray'>旅行者を中央管理室へ。</span>
+Japanese,scene_evt200128_cp5_q3_s10,detail,중추,<span class='scene-font-gray'>旅行者を中央管理室へ。</span>
 Japanese,scene_evt200128_cp5_q3_s10,detail,조직의 병사,い、今はそれどころでは！
-Japanese,scene_evt200128_cp5_q3_s10,detail,中枢,<span class='scene-font-gray'>旅行者を中央管理室へ。</span><br><span class='scene-font-gray'>槍の所在を問う。</span>
+Japanese,scene_evt200128_cp5_q3_s10,detail,중추,<span class='scene-font-gray'>旅行者を中央管理室へ。</span><br><span class='scene-font-gray'>槍の所在を問う。</span>
 Japanese,scene_evt200128_cp5_q3_s10,detail,조직의 병사,いったい、どうしてしまったのだ……！<br>この数日、中枢に話が通じない……！
 Japanese,scene_evt200128_cp5_q3_s10,detail,機械の群れ,────……！！
 Japanese,scene_evt200128_cp5_q3_s10,detail,,<span class='scene-font-katari'>混乱の中、さらに多くの機械の群れが</span><br><span class='scene-font-katari'>兵とカシウスのもとへ押し寄せる。</span>
@@ -126,10 +126,10 @@ Japanese,scene_evt200128_cp5_q3_s10,detail,아이작,ああ。<br>だがこん�
 Japanese,scene_evt200128_cp5_q3_s10,detail,,<span class='scene-font-katari'>ひとまず撤退を選択した一行は、</span><br><span class='scene-font-katari'>グランサイファーで島を離れるべく</span><br><span class='scene-font-katari'>発着場へと向かう。</span>
 Japanese,scene_evt200128_cp5_q4_s10,synopsis,,[플레이어]達の戦いを覗き見る者がいた。それこそが組織の中枢であり、おぼつかない様子で独り言をつぶやく。ルリアが星晶獣を呼び出し、その力を借りる姿を見て、中枢はことさらに強い反応を見せる。やがて中枢は新たに機械の群れをけしかけ、ルリアを捕らえようとするも、カシウスがその盾となり、中枢に捕らわれてしまうのだった。
 Japanese,scene_evt200128_cp5_q4_s10,detail,コロッサス,────……！
-Japanese,scene_evt200128_cp5_q4_s10,detail,中枢,獣……レリっく……<br>調査の、脅威脅威脅威……
-Japanese,scene_evt200128_cp5_q4_s10,detail,中枢,おんなのコ……<br>レリック、データベース……？
-Japanese,scene_evt200128_cp5_q4_s10,detail,中枢,収集……私、役目……
-Japanese,scene_evt200128_cp5_q4_s10,detail,中枢,たたたタオす、蒼イ髪……！<br>任務、任任任任務務務務務……
+Japanese,scene_evt200128_cp5_q4_s10,detail,중추,獣……レリっく……<br>調査の、脅威脅威脅威……
+Japanese,scene_evt200128_cp5_q4_s10,detail,중추,おんなのコ……<br>レリック、データベース……？
+Japanese,scene_evt200128_cp5_q4_s10,detail,중추,収集……私、役目……
+Japanese,scene_evt200128_cp5_q4_s10,detail,중추,たたたタオす、蒼イ髪……！<br>任務、任任任任務務務務務……
 Japanese,scene_evt200128_cp5_q4_s10,detail,유스테스,イルザ。<br>中で何があった？
 Japanese,scene_evt200128_cp5_q4_s10,detail,이르자,私にわかるはずもない。<br>わかるのは肥溜めのフタが外れて<br>クソが飛び散ったことくらいだ。
 Japanese,scene_evt200128_cp5_q4_s10,detail,이르자,いや、敵と通じていた者がわかった。<br>ハイゼンベルク殿だ。<br>例のビン食い女の息がかかっていた。
@@ -157,7 +157,7 @@ Japanese,scene_evt200128_cp5_q4_s10,detail,카시우스,もうひとつ可能性
 Japanese,scene_evt200128_cp5_q4_s10,detail,카시우스,壁の中だ。
 Japanese,scene_evt200128_cp5_q4_s10,detail,베아트릭스,は……！？
 Japanese,scene_evt200128_cp5_q4_s10,detail,카시우스,天井、壁、床下……<br>囲まれているな。
-Japanese,scene_evt200128_cp5_q4_s10,detail,組織の兵達,…………！？
+Japanese,scene_evt200128_cp5_q4_s10,detail,조직의 병사들,…………！？
 Japanese,scene_evt200128_cp5_q4_s10,detail,,<span class='scene-font-katari'>カシウスの言葉に驚き、</span><br><span class='scene-font-katari'>周囲を見回す一行。</span>
 Japanese,scene_evt200128_cp5_q4_s10,detail,,<span class='scene-font-katari'>すると、あちこちから</span><br><span class='scene-font-katari'>岩のひび割れるような唸りが</span><br><span class='scene-font-katari'>響いてきた。</span>
 Japanese,scene_evt200128_cp5_q4_s10,detail,제타,……ったく、お次は何？
@@ -166,7 +166,7 @@ Japanese,scene_evt200128_cp5_q4_s10,detail,이르자,ふん……どこからク
 Japanese,scene_evt200128_cp5_q4_s10,detail,,<span class='scene-font-katari'>身構える一行。</span><br><span class='scene-font-katari'>すると四方から響いてきた</span><br><span class='scene-font-katari'>唸りは止み──</span>
 Japanese,scene_evt200128_cp5_q4_s10,detail,비,<span class='scene-font-4'>な……なんだこりゃあ！？</span>
 Japanese,scene_evt200128_cp5_q4_s10,detail,이르자,<span class='scene-font-4'>ひるむな！</span><br><span class='scene-font-4'>撃てぇーーーーっ！！</span>
-Japanese,scene_evt200128_cp5_q4_s10,detail,組織の兵達,<span class='scene-font-4'>おおおおおおおっ！！</span>
+Japanese,scene_evt200128_cp5_q4_s10,detail,조직의 병사들,<span class='scene-font-4'>おおおおおおおっ！！</span>
 Japanese,scene_evt200128_cp5_q4_s10,detail,,<span class='scene-font-katari'>一斉砲撃により破片となって散る</span><br><span class='scene-font-katari'>機械の塊だったが、それも構わず</span><br><span class='scene-font-katari'>次から次へと噴出する。</span>
 Japanese,scene_evt200128_cp5_q4_s10,detail,카시우스,なんだこれは……！<br>機関ですら、これほどの数を<br>有してはいないぞ……！
 Japanese,scene_evt200128_cp5_q4_s10,detail,카시우스,<span class='scene-font-4'>エンジニア！</span><br>ノインは起動したか！
