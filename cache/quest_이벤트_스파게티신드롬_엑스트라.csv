@@ -1,6 +1,6 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt200128_cp0_q5_s10,synopsis,,アイザック達の出発を見守り、島を発った[플레이어]達。後日、バザラガに誘われて一緒に食事をとる[플레이어]達。バザラガの脳裏には出発間際のレイベリィの言葉が浮かぶ。バザラガの戦い方は、強さと脆さの表れであるらしい。グロウノスの暴走や機神化は、バザラガの隠れた望みを聞き届けた結果かもしれないと。だが強く脆い物は強靭で柔らかな物と合わさり欠点を克服する。ゆえに捨てた物ではないのだとも。
-Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>アイザック達を見送ったあと、</span><br><span class='scene-font-katari'>バザラガが[플레이어]の部屋を</span><br><span class='scene-font-katari'>訪れた。</span>
+Japanese,scene_evt200128_cp0_q5_s10,synopsis,,アイザック達の出発を見守り、島を発った[플레이어]達。後日、バザラガに誘われて一緒に食事をとる[플레이어]達。バザラガの脳裏には出発間際のレイベリィの言葉が浮かぶ。バザラガの戦い方は、強さと脆さの表れであるらしい。グロウノスの暴走や機神化は、バザラガの隠れた望みを聞き届けた結果かもしれないと。だが強く脆い物は強靭で柔らかな物と合わさり欠点を克服する。ゆえに捨てた物ではないのだとも。,"아이작 일행의 출발을 지켜보다 섬을 떠난 [플레이어] 일행. 훗날 바자라가에게 초대받아 함께 식사를 하는 사람들. 바자라가의 뇌리에는 출발 직전 레이베리의 말이 떠오른다. 바자라가 싸우는 방법은 강함과 약함의 표현인 것 같다고 한다. 그로우노스의 폭주와 기신화는, 바자라가의 숨겨진 바람을 들어준 결과일지도 모른다고. 하지만 강하고 질긴 것은 강인하고 부드러운 것과 만나 결점을 극복한다. 그러므로, 버린 물건은 아닌 것이다."
+Japanese,scene_evt200128_cp0_q5_s10,detail,,<span class='scene-font-katari'>アイザック達を見送ったあと、</span><br><span class='scene-font-katari'>バザラガが[플레이어]の部屋を</span><br><span class='scene-font-katari'>訪れた。</span>,"<span class='scene-font-katari'>아이작 일행을 떠나보낸 후, 바자라가는 단장의 방을 방문했다.</span>"
 Japanese,scene_evt200128_cp0_q5_s10,detail,바자라가,[플레이어]、少しいいだろうか？
 Japanese,scene_evt200128_cp0_q5_s10,detail,바자라가,急にすまない。<br>これから状況が大きく動きそうでな。
 Japanese,scene_evt200128_cp0_q5_s10,detail,바자라가,今回の事で迷惑をかけた詫び……<br>というのもなんだが、<br>食事を奢らせてくれ。
@@ -133,19 +133,19 @@ Japanese,scene_evt200128_cp0_q3_s10,detail,아이작,えー、こちらアイザ
 Japanese,scene_evt200128_cp0_q3_s10,detail,아이작,こっちでもいろいろあってね。<br>これから話す事を、ある人に<br>伝えてほしいんだ。
 Japanese,scene_evt200128_cp0_q3_s10,detail,아이작,[플레이어]、ゼタ、バザラガ、<br>ベアトリクス、ユーステス、イルザ……<br>もう、この際グレイスでもいい。
 Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>月に到着した僕は、</span><br><span class='scene-font-gray'>すぐにカシウスと引き離されて</span><br><span class='scene-font-gray'>機関を案内されていたんだ。</span>
-Japanese,scene_evt200128_cp0_q3_s10,detail,男,あれが帰還者カシウスか。<br>珪素比率が下がっている。<br>あれでは砕き甲斐がない。
-Japanese,scene_evt200128_cp0_q3_s10,detail,女,有機物がいっぱいで美味しそう。<br>美味しいもの食べてきたのね。
-Japanese,scene_evt200128_cp0_q3_s10,detail,青年,迷子のヤチマは<br>帰ってこれなかったねぇ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,남자,あれが帰還者カシウスか。<br>珪素比率が下がっている。<br>あれでは砕き甲斐がない。
+Japanese,scene_evt200128_cp0_q3_s10,detail,여자,有機物がいっぱいで美味しそう。<br>美味しいもの食べてきたのね。
+Japanese,scene_evt200128_cp0_q3_s10,detail,청년,迷子のヤチマは<br>帰ってこれなかったねぇ……
 Japanese,scene_evt200128_cp0_q3_s10,detail,,<span class='scene-font-gray'>すると──</span>
-Japanese,scene_evt200128_cp0_q3_s10,detail,男,む……帰還者、何を持ち込んだ？<br>異物の反応が出ている。
+Japanese,scene_evt200128_cp0_q3_s10,detail,남자,む……帰還者、何を持ち込んだ？<br>異物の反応が出ている。
 Japanese,scene_evt200128_cp0_q3_s10,detail,아이작,え……僕！？<br>僕が持ち込んだのは、相棒と<br>このギアくらいで……
-Japanese,scene_evt200128_cp0_q3_s10,detail,青年,見えるよぉ……<br>別の世界から来たものだねぇ……<br>とってもサイケだよぉ……
-Japanese,scene_evt200128_cp0_q3_s10,detail,男,別の世界だと？ 危険だ。
-Japanese,scene_evt200128_cp0_q3_s10,detail,男,これか？ 異物は。<br>すぐに砕いて処理する。
+Japanese,scene_evt200128_cp0_q3_s10,detail,청년,見えるよぉ……<br>別の世界から来たものだねぇ……<br>とってもサイケだよぉ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,남자,別の世界だと？ 危険だ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,남자,これか？ 異物は。<br>すぐに砕いて処理する。
 Japanese,scene_evt200128_cp0_q3_s10,detail,레이베리,…………！
 Japanese,scene_evt200128_cp0_q3_s10,detail,아이작,ままま待ってくれ！<br>相棒は僕に必要なんだ！<br>破壊は勘弁してくれ！
-Japanese,scene_evt200128_cp0_q3_s10,detail,女,待って、デアン。<br>先に味見させて？<br>別の世界を味わってみたいわぁ。
-Japanese,scene_evt200128_cp0_q3_s10,detail,青年,ファナ、レイベリィは<br>別っていうほどの世界じゃないねぇ……<br>元フォッシルの民だよぉ……
+Japanese,scene_evt200128_cp0_q3_s10,detail,여자,待って、デアン。<br>先に味見させて？<br>別の世界を味わってみたいわぁ。
+Japanese,scene_evt200128_cp0_q3_s10,detail,청년,ファナ、レイベリィは<br>別っていうほどの世界じゃないねぇ……<br>元フォッシルの民だよぉ……
 Japanese,scene_evt200128_cp0_q3_s10,detail,아이작,へ！？
 Japanese,scene_evt200128_cp0_q3_s10,detail,레이베리,…………
 Japanese,scene_evt200128_cp0_q3_s10,detail,ファナ,あら……<br>エルドが言ってたヤチマの友達？<br>ここに来たくて機神になったっていう。
