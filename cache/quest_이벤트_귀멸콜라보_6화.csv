@@ -172,9 +172,9 @@ Japanese,scene_evt201208_cp6_q2_s10,detail,루리아,はい？,네?
 Japanese,scene_evt201208_cp6_q2_s10,detail,코쵸 시노부,すみません。<br>なんだか無理やりこちらの味方を<br>させてしまったようで……,죄송해요. 뭔가 억지로 저희 편을 들게 만든 것 같아서...
 Japanese,scene_evt201208_cp6_q2_s10,detail,루리아,無理やりなんかじゃありませんよ！<br>全部本心ですから。,억지로라뇨! 전부 제가 하고 싶어서 한 거예요.
 Japanese,scene_evt201208_cp6_q2_s10,detail,루리아,少しでもお役に立てたんだったら<br>私も嬉しいです！,조금이라도 도움이 되었다면 저도 기뻐요!
-Japanese,scene_evt201208_cp6_q2_s10,detail,코쵸 시노부,……ありがとうございます。<br>[플레이어]さんも、ビィさんも。,...감사합니다. 단장님하고 비이 씨도요.
+Japanese,scene_evt201208_cp6_q2_s10,detail,코쵸 시노부,……ありがとうございます。<br>[플레이어]さんも、ビィさんも。,...감사합니다. 단장님하고 비 씨도요.
 Japanese,scene_evt201208_cp6_q2_s10,detail,코쵸 시노부,あなた方は、とても優しいですね。,여러분은 정말 친절하시군요.
-Japanese,scene_evt201208_cp6_q3_s10,synopsis,,ついに一行は祠に辿り着く。ふたつの祠の間には赤い渦……幽世の門が存在していた。リョウメンスクナによれば、炭治郎達の世界と空の世界をごく短時間であれば繋ぐことが出来るという。その前に生贄として吸い込まれたエリィを救うべく、炭治郎、禰豆子、しのぶ、[플레이어]、ビィが幽世へと乗り込むのだった。,"결국 일행은 사당에 도착한다. 두 사당의 사이에는 붉은 소용돌이 ...... 유세의 문이 존재하고 있었다. 료멘스쿠나에 따르면 탄지로 일행의 세계와 하늘의 세계를 극히 단시간이면 연결 수 있다고 한다. 그 전에 제물로 빨려 들어간 에리를 구하기 위해 탄지로, 네즈코, 시노부, [플레이어],  비이가 유세로 들어가는 것이었다."
+Japanese,scene_evt201208_cp6_q3_s10,synopsis,,ついに一行は祠に辿り着く。ふたつの祠の間には赤い渦……幽世の門が存在していた。リョウメンスクナによれば、炭治郎達の世界と空の世界をごく短時間であれば繋ぐことが出来るという。その前に生贄として吸い込まれたエリィを救うべく、炭治郎、禰豆子、しのぶ、[플레이어]、ビィが幽世へと乗り込むのだった。,"결국 일행은 사당에 도착한다. 두 사당의 사이에는 붉은 소용돌이 ...... 유세의 문이 존재하고 있었다. 료멘스쿠나에 따르면 탄지로 일행의 세계와 하늘의 세계를 극히 단시간이면 연결 수 있다고 한다. 그 전에 제물로 빨려 들어간 에리를 구하기 위해 탄지로, 네즈코, 시노부, [플레이어],  비가 유세로 들어가는 것이었다."
 Japanese,scene_evt201208_cp6_q3_s10,detail,비,こ、これが幽世の門か……？,"이, 이게 유세의 문이야...?"
 Japanese,scene_evt201208_cp6_q3_s10,detail,,<span class='scene-font-katari'>深い山の生い茂る木々の間。</span>,<span class='scene-font-katari'>깊은 산 속에 우거진 나무들 사이</span>
 Japanese,scene_evt201208_cp6_q3_s10,detail,,<span class='scene-font-katari'>ふたつの古ぼけた祠の扉は開き、</span><br><span class='scene-font-katari'>その間の空間が赤く不気味に</span><br><span class='scene-font-katari'>渦を巻いていた。</span>,<span class='scene-font-katari'>낡아빠진 두 개의 사당은 문이 열려 있고 그 사이에 있는 공간이 붉고 기분나쁜 소용돌이를 만들고 있었다.</span>
@@ -235,7 +235,7 @@ Japanese,scene_evt201208_cp6_q3_s10,detail,,<span class='scene-font-katari'>意�
 Japanese,scene_evt201208_cp6_q3_s10,sel1_txt,,<span class='scene-font-katari'>ルリアは待ってて</span>,<span class='scene-font-katari'>루리아는 기다리고 있어</span>
 Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,<span class='scene-font-4'>ええっ！？</span><br>どうしてですか！？<br>私達は離れたら……,<span class='scene-font-4'>네?</span> 왜요? 저희는 떨어지면...
 Japanese,scene_evt201208_cp6_q3_s10,detail,비,確かに、お前等はあんまり遠くに<br>離れると、生命のリンクが<br>切れちまうんだぜ……？,맞아. 너희 너무 멀리 떨어지면 생명의 링크가 끊어지잖아.
-Japanese,scene_evt201208_cp6_q3_s10,detail,,<span class='scene-font-katari'>ビィの言葉に[플레이어]は</span><br><span class='scene-font-katari'>「わかってる」と頷く。</span>,"<span class='scene-font-katari'>비이의 말을 들은 [플레이어]은 ""알고 있다"" 고 고개를 끄덕였다.</span>"
+Japanese,scene_evt201208_cp6_q3_s10,detail,,<span class='scene-font-katari'>ビィの言葉に[플레이어]は</span><br><span class='scene-font-katari'>「わかってる」と頷く。</span>,"<span class='scene-font-katari'>비의 말을 들은 [플레이어]은 ""알고 있다"" 고 고개를 끄덕였다.</span>"
 Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,幽世はすごく怖くて<br>何があるかわからない場所です。,유세는 엄청 무섭고 무슨 일이 일어날지 모르는 곳이에요.
 Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,あなたがそんなところに行くのに、<br>私は待ってるだけなんて、<br>そんなの……！,"당신이 그런 곳에 가는데 저보고 기다리기만 하라니, 그런 건..."
 Japanese,scene_evt201208_cp6_q3_s10,sel1_txt,,<span class='scene-font-katari'>待ってて欲しいから</span>,<span class='scene-font-katari'>기다려 줬으면 좋겠어</span>
@@ -246,7 +246,7 @@ Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,ここであなたの名前
 Japanese,scene_evt201208_cp6_q3_s10,detail,,<span class='scene-font-katari'>[플레이어]はルリアの手を握り、</span><br><span class='scene-font-katari'>しっかりと頷いた。</span>,<span class='scene-font-katari'>[플레이어]은 루리아의 손을 잡은 채 힘차게 고개를 끄덕였다.</span>
 Japanese,scene_evt201208_cp6_q3_s10,detail,비,オイラが引っ張ってでも<br>連れて帰ってくるから<br>安心して待っててくれよ！,내가 질질 끌어서라도 데리고 올 테니까 안심하고 기다려!
 Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,はい！,네!
-Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,……でも、ビィさんはずるいです。<br>ひとりだけ[플레이어]に<br>ついて行くんですから……,...그치만 비이 씨 치사해요. 혼자서만 따라가다니...
+Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,……でも、ビィさんはずるいです。<br>ひとりだけ[플레이어]に<br>ついて行くんですから……,...그치만 비 씨 치사해요. 혼자서만 따라가다니...
 Japanese,scene_evt201208_cp6_q3_s10,detail,비,お、おい……,"그, 그게..."
 Japanese,scene_evt201208_cp6_q3_s10,detail,루리아,むぅ～……,우우...
 Japanese,scene_evt201208_cp6_q3_s10,detail,비,そんな目で見るなよ、ルリアぁ～！,"그런 눈으로 보지 마, 루리아~!"
@@ -308,7 +308,7 @@ Japanese,scene_evt201208_cp6_q4_s20,detail,비,ははっ！<br>手ぇ繋いで�
 Japanese,scene_evt201208_cp6_q4_s20,detail,코쵸 시노부,<span class='scene-font-2'>ええ、本当に。</span><br><span class='scene-font-2'>そうですね……</span>,"<span class='scene-font-2'>네, 정말 그렇네요...</span>"
 Japanese,scene_evt201208_cp6_q4_s20,detail,비,ん？<br>シノブ、何か言ったか？,"응? 시노부, 방금 뭐라고 했어?"
 Japanese,scene_evt201208_cp6_q4_s20,detail,코쵸 시노부,いえ、何も？<br>それより先を……,아뇨? 아무 말도요. 그보다 어서...
-Japanese,scene_evt201208_cp6_q4_s20,detail,카마도 탄지로,しのぶさん！<br>[플레이어]、ビィ！,"시노부 씨! [플레이어], 비이!"
+Japanese,scene_evt201208_cp6_q4_s20,detail,카마도 탄지로,しのぶさん！<br>[플레이어]、ビィ！,"시노부 씨! [플레이어], 비!"
 Japanese,scene_evt201208_cp6_q4_s20,detail,카마도 탄지로,いました、女の子が……！,여자아이 찾았어요!
 Japanese,scene_evt201208_cp6_q4_s20,detail,에리,…………,…………
 Japanese,scene_evt201208_cp6_q4_s20,detail,카마도 탄지로,動かない……,움직임이 없어...
@@ -403,7 +403,7 @@ Japanese,scene_evt201208_cp6_q4_s20,detail,코쵸 시노부,さぁ、私達は�
 Japanese,scene_evt201208_cp6_q4_s20,detail,카마도 탄지로,っ、そうだった！<br>禰豆子、箱に入れ！,"아, 그렇지! 네즈코, 상자로 들어가!"
 Japanese,scene_evt201208_cp6_q4_s20,detail,카마도 네즈코,…………！,…………！
 Japanese,scene_evt201208_cp6_q4_s20,detail,비,よーしっ！<br>行こうぜ！,좋았어! 가자!
-Japanese,scene_evt201208_cp6_q4_s20,detail,루리아,わあっ！！<br>ビィさん！<br>[플레이어]ーっ！！,와! 비이 씨! [플레이어]!
+Japanese,scene_evt201208_cp6_q4_s20,detail,루리아,わあっ！！<br>ビィさん！<br>[플레이어]ーっ！！,와! 비 씨! [플레이어]!
 Japanese,scene_evt201208_cp6_q4_s20,detail,아가츠마 젠이츠,<span class='scene-font-4'>炭治郎ーっ！！</span><br><span class='scene-font-4'>禰豆子ちゃーーーん！！</span>,<span class='scene-font-4'>탄지로! 네즈코쨔아앙!</span>
 Japanese,scene_evt201208_cp6_q4_s20,detail,비,ふぃ～やれやれ……<br>帰ってこれたぜ！,후우... 겨우 돌아왔어!
 Japanese,scene_evt201208_cp6_q4_s20,detail,코쵸 시노부,煉獄さんが斬り開いてくれた<br>おかげです。<br>助かりました。,렌고쿠 씨가 길을 열어주신 덕분이에요. 감사합니다.

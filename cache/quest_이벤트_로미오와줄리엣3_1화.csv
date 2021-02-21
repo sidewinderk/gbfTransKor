@@ -1,7 +1,7 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",synopsis,,神王モンタギューがヴェローナから消えて２年。ジュリエットを訪ねる道中、[플레이어]達はロミオの家を訪れる。新しい戯曲を執筆中だったロミオは一行を歓迎し、ヴェローナに新たに建てられた劇場、ローズ座での観劇へ誘う。楽しいひと時を過ごした後、ロミオと別れた一行は城にいるジュリエットのもとへ向かうのだった。,"신왕 몬태규가 베로나에서 사라진지 2년. 줄리엣을 찾아가던 도중, [플레이어] 일행은 로미오의 집에 들린다. 새로운 희곡을 집필중이었던 로미오는 일행을 환영하며, 베로나에 새롭게 지어진 극장, 로즈극장으로 일행을 초대한다. 즐거운 한 때를 보낸 뒤, 로미오와 헤어진 일행은 줄리엣에게 향하는 것이었다."
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,비,よぉロミオ！<br>会いにきたぜー！,어이 로미오! 우리 왔어!
-Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,루리아,あービィさん！<br>駄目ですよ、大きな声で<br>その名前を呼んだら！,"아, 비이 씨! 큰 소리로 그 이름을 부르면 안 되잖아요!"
+Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,루리아,あービィさん！<br>駄目ですよ、大きな声で<br>その名前を呼んだら！,"아, 비 씨! 큰 소리로 그 이름을 부르면 안 되잖아요!"
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,루리아,ね、コンデルさん。,그쵸? 콘델 씨.
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,로미오,ふふ、そんなに気にしなくても<br>平気だよ。大通りで叫ばれると<br>流石に困るけれど……,"하하, 그렇게 신경써주지 않아도 괜찮아. 아무래도 대로에서 큰 소리로 부르는 건 곤란하긴 하겠지만."
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,로미오,それより、会いに来てくれて<br>嬉しいよ、[플레이어]。,"그보다 만나러 와 줘서 고마워, [플레이어]."
@@ -49,7 +49,7 @@ Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,로미오,少し古い戯�
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,루리아,わぁ！<br>見たいです！,우와! 보고 싶어요!
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,로미오,あ、でも城に行くんだったな。<br>時間は大丈夫か？,"아, 그런데 성에 간다고 했었지. 시간은 괜찮겠어?"
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,비,問題ないぜ！<br>まだまだ約束まで時間はあるしな。,상관없어! 아직 약속시간까지 많이 남았거든.
-Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,,<span class='scene-font-katari'>ビィの言葉に[플레이어]も頷く。</span>,<span class='scene-font-katari'>[플레이어]도 비이의 말에 고개를 끄덕였다.</span>
+Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,,<span class='scene-font-katari'>ビィの言葉に[플레이어]も頷く。</span>,<span class='scene-font-katari'>[플레이어]도 비의 말에 고개를 끄덕였다.</span>
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,로미오,良かった。<br>それじゃあ支度をして<br>出かけよう。,다행이네. 그럼 준비하고 나가자.
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,주연배우,<span class='scene-font-4'>とんだ取り違えだ！</span><br>真実の恋は裏返り、<br>まるで馬鹿げた芝居じゃないか！,"<span class='scene-font-4'>이 무슨 엇갈림이란 말인가!</span> 진실한 사랑은 배반당하고, 그저 바보스러운 연극이나 다름없지 않은가!"
 Japanese,"scene_evt200829_cp1_q1_s10,7569111",detail,,<span class='scene-font-katari'>演じられていたのは愉快な喜劇だった。</span>,<span class='scene-font-katari'>그들이 보러 간 것은 유쾌한 희극이었다.</span>
@@ -120,7 +120,7 @@ Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,점장,店としても万�
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,손님,本当ねぇ。最近はもう、<br>おかしな揉め事が起こることもないし<br>いい国になったわ。,정말이라니까. 요샌 이상한 싸움이 일어나지도 않고 좋은 나라가 됐어.
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,루리아,うふふふ！,후후!
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,비,ルリア、何笑ってるんだよ。,"루리아, 뭐가 그렇게 웃겨?"
-Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,루리아,ビィさんだってにこにこしてます。,비이 씨도 히죽거리고 계시잖아요!
+Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,루리아,ビィさんだってにこにこしてます。,비 씨도 히죽거리고 계시잖아요!
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,비,ははっ！ だってよぉ、<br>ジュリエットが褒められると、<br>なんだかいい気分になるだろ？,"헤헤, 그치만 사람들이 줄리엣을 칭찬하니까 괜히 기분좋지 않아?"
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,루리아,ジュリエットさん、本当に<br>がんばってますからね。一生懸命、<br>国と国民の皆さんのことを考えてて……,줄리엣 씨는 열심히 노력하고 계시니까요. 나라와 국민들을 생각하면서 정말 열심히...
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,비,こうやって、皆が笑って<br>暮らしてるのを見ると、あいつの<br>がんばりの成果みたいで嬉しいよな！,"이렇게 모두가 웃으면서 즐겁게 살아가는 걸 보고 있으면, 그 녀석이 힘낸 결과처럼 느껴져서 기분이 좋아!"
@@ -143,7 +143,7 @@ Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,커플 여자,<span class='
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,커플 남자,おいおい、怒るなって。<br>冗談に決まってるだろ？,"아니 아니, 농담이야. 화내지 말라니까."
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,커플 여자,半分くらいは本気のくせに。,반쯤은 진심인거 다 알거든.
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,커플 남자,ははは……,아하하...
-Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,루리아,び、ビィさん！<br>聞きましたか！？,"비, 비이 씨! 방금 들으셨어요?"
+Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,루리아,び、ビィさん！<br>聞きましたか！？,"비, 비 씨! 방금 들으셨어요?"
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",detail,비,お、おう……<br>ジュリエットとパリスが……！？,응... 줄리엣이랑 파리스가?
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",sel1_txt,,<span class='scene-font-katari'>お似合いだよね</span>,<span class='scene-font-katari'>잘 어울리네</span>
 Japanese,"scene_evt200829_cp1_q2_s10,7569121",sel2_txt,,<span class='scene-font-katari'>そんなわけない</span>,<span class='scene-font-katari'>그럴 리가 없어</span>

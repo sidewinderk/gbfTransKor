@@ -14,7 +14,7 @@ Japanese,"scene_cp10_q1_s10,1011",detail,카타리나,彼女は……<br>私が�
 Japanese,"scene_cp10_q1_s10,1011",detail,루리아,むむっ……<br>私が知ってるより<br>もっと昔のカタリナを知ってる人……,음.....<br>내가 아는것보다<br>좀 더 옛날 카타리나를 아는사람.....
 Japanese,"scene_cp10_q1_s10,1011",detail,오이겐,知り合いなら丁度いい、<br>まだ帝国は<span class='scene-font-place'>アウギュステ</span>のどこかに<br>大軍を隠してるみてぇなんだ。,아는 사람이라면 딱 좋아.<br>아직도 제국은 <span class='scene-font-place>>아우귀스테</span>의 어딘가에<br>대군을 숨기고 있는 것 같아.
 Japanese,"scene_cp10_q1_s10,1011",detail,오이겐,そいつの場所を聞き出して……<br>……と、思ったが、<br>また魔物が寄ってきてるみてぇだな。,"그 녀석의 장소를 물어서……<br>……라고 생각했는데,<br>또 마물이 다가오고 있는 것 같군."
-Japanese,"scene_cp10_q1_s10,1011",detail,비이,いつもこうなのか？<br>これじゃおちおち話もしてらんねーぜ。,항상 이런가?<br>이래서는 차분히 이야기도 못 하겠네.
+Japanese,"scene_cp10_q1_s10,1011",detail,비,いつもこうなのか？<br>これじゃおちおち話もしてらんねーぜ。,항상 이런가?<br>이래서는 차분히 이야기도 못 하겠네.
 Japanese,"scene_cp10_q1_s10,1011",detail,오이겐,いや、言われてみりゃあ<br>確かにちょっと妙だな……<br>明らかにいつもより数が多い。,"아니, 들어보니 아 <br> 확실히 좀 묘하다……<br> 분명히 평소보다 수가 많다."
 Japanese,"scene_cp10_q1_s10,1011",detail,이오,ふん、なんだっていいよ……,"흥, 뭐든지 좋아……"
 Japanese,"scene_cp10_q1_s10,1011",detail,이오,このイオちゃんが<br>一網打尽にしてあげる！,이오짱이<br>일망타진해줄께!
@@ -62,13 +62,13 @@ Japanese,"scene_cp10_q2_s20,1022",detail,오이겐,さぁ、湿っぽい話は�
 Japanese,"scene_cp10_q3_s10,1031",synopsis,,一同はザニス高地へと近づくが、帝国軍の姿はなかなか見えてこない。そんな中、大きく場所を移動しても変わらないリヴァイアサンの気配に、ルリアは疑問を持つ。,"모두 자니스 고지에 접근하지만 제국군의 모습은 좀처럼 보이지 않는다.그런 가운데, 크게 장소를 이동해도 변하지 않는 리바이아상의 낌새에, 루리아는 의문을 가진다."
 Japanese,"scene_cp10_q3_s10,1031",detail,,<span class='scene-font-katari'>ファラから情報を聞き出した</span><br><span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>帝国軍の待つザニス高地へと向かう。</span>,<span class='scene-font-katari'>피라에게 정보를 얻어낸</span><br><span class='scene-font-katari'>[플레이어]일행은</span><br><span class='scene-font-katari'>제국군이 기다리는 자니스 고지로 향한다.。</span>
 Japanese,"scene_cp10_q3_s10,1031",detail,이오,わぁ……！<br>すごい！ 遠くに青く見えるあれ！<br>あれが<span class='scene-font-place'>アウギュステ</span>の海？,와……！<br>대박! 멀리 파랗게 보이는 저것! <br> 저것이 <span class='scene-font-place>> 아우귀스테 </span>의 바다?
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,イオは遠足気分だな……<br>持ってき過ぎたおやつは没収だぜ？,이오는 소풍 기분이네....<br>너무 가지고 온 간식은 빼앗아갈걸?
+Japanese,"scene_cp10_q3_s10,1031",detail,비,イオは遠足気分だな……<br>持ってき過ぎたおやつは没収だぜ？,이오는 소풍 기분이네....<br>너무 가지고 온 간식은 빼앗아갈걸?
 Japanese,"scene_cp10_q3_s10,1031",detail,이오,うっさい、トカゲ！<br>[플레이어]からも何か言ってよ！,짜증나 도마뱀! <br> [플레이어]한테도 뭐라고 해!
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,トカゲ言うな！<br>オイラのどこがトカゲだってんだ！？<br>なぁ、[플레이어]！,도마뱀 말하지마!<br>오이라의 어디가 도마뱀이라는거야!?<br> 야 [br]
-Japanese,"scene_cp10_q3_s10,1031",sel1_txt,,<span class='scene-font-katari'>ビィはトカゲじゃない</span>,<span class='scene-font-katari'>비이는 도마뱀이아니야</span>
+Japanese,"scene_cp10_q3_s10,1031",detail,비,トカゲ言うな！<br>オイラのどこがトカゲだってんだ！？<br>なぁ、[플레이어]！,도마뱀 말하지마!<br>오이라의 어디가 도마뱀이라는거야!?<br> 야 [br]
+Japanese,"scene_cp10_q3_s10,1031",sel1_txt,,<span class='scene-font-katari'>ビィはトカゲじゃない</span>,<span class='scene-font-katari'>비는 도마뱀이아니야</span>
 Japanese,"scene_cp10_q3_s10,1031",sel2_txt,,<span class='scene-font-katari'>尻尾とか鱗とか……</span>,<span class='scene-font-katari'>꼬리라던가 비늘이라던가……</span>
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,だよなだよな！ ほれ見ろ！<br>[플레이어]はそう言ってくれると<br>思ってたぜ！,그렇지? 봐봐! <br>[플레이어]는 그렇게 말해줄 거라고<br>생각했다구!
-Japanese,"scene_cp10_q3_s10,1031",detail,비이,オ、オイラ……<br>[플레이어]は味方だと思ってたぜ……,"오, 오이라……<br>[플레이어]는 아군이라고 생각했지……"
+Japanese,"scene_cp10_q3_s10,1031",detail,비,だよなだよな！ ほれ見ろ！<br>[플레이어]はそう言ってくれると<br>思ってたぜ！,그렇지? 봐봐! <br>[플레이어]는 그렇게 말해줄 거라고<br>생각했다구!
+Japanese,"scene_cp10_q3_s10,1031",detail,비,オ、オイラ……<br>[플레이어]は味方だと思ってたぜ……,"오, 오이라……<br>[플레이어]는 아군이라고 생각했지……"
 Japanese,"scene_cp10_q3_s10,1031",detail,카타리나,ははは、まぁまぁ。<br>ところでラカム、<br>何か怪しい影は見えるか？,"하하하 그저 그래.<br>그런데 라캄,<br>뭔가 수상한 그림자가 보이세요?"
 Japanese,"scene_cp10_q3_s10,1031",detail,라캄,いや、いまのところ<br>何も見えねぇな……<br>まさか嘘だったのか？,"아니, 지금으로선<br>아무것도 보이지 않네……<br>설마 거짓말이었나?"
 Japanese,"scene_cp10_q3_s10,1031",detail,오이겐,このザニス高地は広いからな。<br>まぁ、気長に構えるといい。,"이 자니스 고지는 넓으니까 말이야.뭐, 느긋하게 행동하면 좋아."
@@ -120,7 +120,7 @@ Japanese,"scene_cp10_q4_s20,1042",detail,퓨리어스,ああ、くそっ、う�
 Japanese,"scene_cp10_q4_s20,1042",detail,퓨리어스,喰われろよ……！<br>さぁ、出ておいで、ポチ！,먹어라!!<br>자 나와라 뽀찌!
 Japanese,"scene_cp10_q4_s20,1042",detail,마물,<span class='scene-font-5'>グオオォォッ！！</span>,<span class='scene-font-5'>쿠오오오옹！！</span>
 Japanese,"scene_cp10_q4_s20,1042",detail,이오,全然ポチって感じじゃないけど！？,전혀 뽐내는 느낌이 아닌데!?
-Japanese,"scene_cp10_q4_s20,1042",detail,비이,こんな隠し玉が残ってるなんて……<br>[플레이어]！ 油断するなよ！,이런 비밀의 비장의 카드가 남아 있다니……<br>[플레이어]! 방심하지 마!
+Japanese,"scene_cp10_q4_s20,1042",detail,비,こんな隠し玉が残ってるなんて……<br>[플레이어]！ 油断するなよ！,이런 비밀의 비장의 카드가 남아 있다니……<br>[플레이어]! 방심하지 마!
 Japanese,"scene_cp10_q4_s30,1043",synopsis,,魔物を退けた<span>[플레이어]</span>一行は、オイゲンにルリアの秘密を明かす。その内容に<span>[플레이어]</span>達の覚悟を知ったオイゲンは、自らも旅に同行したいと願い出る。,마물을 물리친 <span> [플레이어] </span> 일행은 오이겐에게 루리아의 비밀을 밝힌다.그 내용에 <span>[플레이어]</span>들의 각오를 알게 된 오이겐은 스스로도 여행에 동행하고 싶다는 요청을 한다.
 Japanese,"scene_cp10_q4_s30,1043",detail,마물,ウウゥ……,으으으....
 Japanese,"scene_cp10_q4_s30,1043",detail,,<span class='scene-font-katari'>魔物を退けた[플레이어]達は</span><br><span class='scene-font-katari'>オイゲンを連れて帝国軍を突破し</span><br><span class='scene-font-katari'>少し離れた位置に身を隠した。</span>,<span class='scene-font-katari>>마물을 물리친 [플레이어]들은 </span><br><span class='scene-font-katari>오이겐을 데리고 제국군을 돌파하여 </span><br><span'에 이르렀다.
