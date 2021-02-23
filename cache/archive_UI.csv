@@ -264,7 +264,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 反映する,반영한다
 セット一覧,세트 목록
 シンボルマーク変更,심볼마크 변경
-
+モバコイン,모바코인
 アビリティダメージ,어빌리티 데미지
 
 発動中のマスターボーナス,발동중인 마스터 보너스
@@ -2911,3 +2911,19 @@ Sレア以上の刀をエレメント化することで手に入ります。
 (所持数　**),(소지수　**)
 (所持数　***),(소지수　***)
 (所持数　****),(소지수　****)
+
+
+
+!가챠
+提供割合,제공비율
+"価格:****<span class=""txt-coin"">モバコイン</span>                                        <input id=""discount_id"" type=""hidden"" name=""discount_id"" value="""">                                        <input id=""discount_type"" type=""hidden"" name=""discount_type"" value="""">","가격:****<span class=""txt-coin"">모바코인</span>					<input id=""discount_id"" type=""hidden"" name=""discount_id"" value="""">					<input id=""discount_type"" type=""hidden"" name=""discount_type"" value="""">"
+"価格:<span class=""txt-default-price"">***</span><span class=""txt-coin"">モバコイン</span>						<input id=""discount_id"" type=""hidden"" name=""discount_id"" value=""*"">						<input id=""discount_type"" type=""hidden"" name=""discount_type"" value=""*"">","가격:<span class=""txt-default-price"">***</span><span class=""txt-coin"">모바코인</span>						<input id=""discount_id"" type=""hidden"" name=""discount_id"" value=""*"">						<input id=""discount_type"" type=""hidden"" name=""discount_type"" value=""*"">"
+毎朝*時にリセットされます。<br>,매일 아침 *시에 리셋됩니다.<br>
+所持チケット:*枚,보유티켓: *매
+所持チケット:**枚,보유티켓: **매
+所持チケット:***枚,보유티켓: ***매
+所持チケット:****枚,보유티켓: ****매
+必要数:***宝晶石,필요수: ***보정석
+必要数:****宝晶石,필요수: ****보정석
+ガチャヘルプへ,가챠 헬프로
+レア以上の武器や召喚石が出現する特別なガチャです。<br>取得した装備品やアイテムはプレゼントに送られます。,레어 이상의 무기와 소환석이 출현하는 특별한 가챠입니다.<br>취득하신 장비 및 아이템은 선물로 보내집니다.

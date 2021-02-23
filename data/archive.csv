@@ -12844,22 +12844,25 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 光り輝く竪琴の使い手,빛나는 하프의 주인
 眩き光を放つ宝琴の使い手,눈부시게 빛나는 보금의 주인
 神々しき輝きの名琴の使い手,거룩하게 빛나는 명금의 주인
-
-
+獲得条件：Sレア武器「ハープ・オブ・ハルワアムル」を*回上限解放する,획득조건：SR 무기「하프・오브・하루와아무르」를 *회 상한해방
+獲得条件<br>Sレア武器「ハープ・オブ・ハルワアムル」を*回上限解放する,획득조건<br>SR 무기「하프・오브・하루와아무르」를 *회 상한해방
 
 は～ま～・フォロワー,하～마～ 팔로워
-極まりし天司の名琴,대천사의 명금
-獲得条件<br>Sレア武器「ハープ・オブ・ハルワアムル」を*回上限解放する,획득조건<br>SR 무기「하프・오브・하루와아무르」를 *회 상한해방
+獲得条件：SSレア武器「ハープ・オブ・ハルワアムル」を入手,획득조건：SSR 무기「하프・오브・하루와아무르」를 획득
 獲得条件<br>SSレア武器「ハープ・オブ・ハルワアムル」を入手,획득조건<br>SSR 무기「하프・오브・하루와아무르」를 획득
+
+極まりし天司の名琴,궁극의 천사의 명금
+獲得条件：SSレア武器「永遠の知識求る竪琴」を入手,획득조건：SSR 무기「영원한 지식을 추구하는 하프」를 획득
 獲得条件<br>SSレア武器「永遠の知識求る竪琴」を入手,획득조건<br>SSR 무기「영원한 지식을 추구하는 하프」를 획득
 
 
-
 堕天司の鎌との出会い,타천사의 낫과의 만남
-獲得条件：Sレア武器「サイス・オブ・ベリアル」を入手,획득조건：SR 무기 「사이즈・오브・베리알」을 획득
-妖麗に輝く鎌の使い手,요려하게 빛나는 낫의 사용자
-妖しき光を放つ禍鎌の使い手,기이하게 빛나는 낫의 사용자
-悍ましき気色の禍鎌の使い手,꺼림직한 기운을 내뿜는 낫의 사용자
+獲得条件：Sレア武器「サイス・オブ・ベリアル」を入手,획득조건：SR 무기「사이즈・오브・베리알」을 획득
+獲得条件<br>Sレア武器「サイス・オブ・ベリアル」を入手,획득조건<br>「사이즈・오브・베리알」을 획득
+
+妖麗に輝く鎌の使い手,요려하게 빛나는 낫의 주인
+妖しき光を放つ禍鎌の使い手,기이하게 빛나는 화겸의 주인
+悍ましき気色の禍鎌の使い手,꺼림칙한 기운의 재앙낫의 주인
 べリアル・フォロワー,벨리알 팔로워
 極まりし堕天司の禍鎌,위험한 타천사의 불길한 낫
 獲得条件<br>Sレア武器「サイス・オブ・ベリアル」を*回上限解放する,획득조건<br>SR 무기「사이즈・오브・벨리알」을 *회 상한해방
@@ -13678,12 +13681,12 @@ I'm Back,I'm Back
 獲得条件：難度NORMALで「ジャスティス」を撃破,획득조건：난이도 NORMAL에서「저스티스」를 격파
 
 刑死者を従えし者,사형수를 따르는 자
-獲得条件：難度NORMALで「ザ・ハングドマン」を撃破,획득조건：난이도 NORMAL에서「행드맨」을 격파
+獲得条件：難度NORMALで「ザ・ハングドマン」を撃破,획득조건：난이도 NORMAL에서「행드맨」을 격파,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 
-死神を失わせし者,사신을 잃은 자
-獲得条件：難度NORMALで「デス」を撃破,획득조건：난이도 NORMAL에서「데스」를 격파,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+死神を失わせし者,사신을 잃은 자,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：難度NORMALで「デス」を撃破,획득조건：난이도 NORMAL에서「데스」를 격파
 
-節制をほどきし者,절제를 관둔 자,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+節制をほどきし者,절제를 관둔 자
 獲得条件：難度NORMALで「テンペランス」を撃破,획득조건：난이도 NORMAL에서「템퍼런스」를 격파
 
 悪魔を堕としし者,악마를 홀린 자
@@ -13696,10 +13699,10 @@ I'm Back,I'm Back
 獲得条件：難度NORMALで「ザ・スター」を撃破,획득조건：난이도 NORMAL에서「스타」를 격파
 
 月を眠らせし者,달을 잠재운 자
-獲得条件：難度NORMALで「ザ・ムーン」を撃破,획득조건：난이도 NORMAL에서「문」을 격파
+獲得条件：難度NORMALで「ザ・ムーン」を撃破,획득조건：난이도 NORMAL에서「문」을 격파,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 
 太陽を灼きし者,태양을 불태운 자
-獲得条件：難度NORMALで「ザ・サン」を撃破,획득조건：난이도 NORMAL에서「선」을 격파,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：難度NORMALで「ザ・サン」を撃破,획득조건：난이도 NORMAL에서「선」을 격파
 
 審判を翻しし者,심판을 뒤집은 자
 獲得条件：難度NORMALで「ジャッジメント」を撃破,획득조건：난이도 NORMAL에서「저지먼트」를 격파
@@ -13723,10 +13726,10 @@ I'm Back,I'm Back
 獲得条件：召喚石「テンペランス(Sレア)」を獲得する,획득조건：소환석「템퍼런스(SR)」를 획득한다
 
 悪魔を見つめし者,악마를 바라본 자
-獲得条件：召喚石「デビル(Sレア)」を獲得する,획득조건：소환석「데빌(SR)」을 획득한다
+獲得条件：召喚石「デビル(Sレア)」を獲得する,획득조건：소환석「데빌(SR)」을 획득한다,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
 
 塔を見つめし者,탑을 바라본 자
-獲得条件：召喚石「タワー(Sレア)」を獲得する,획득조건：소환석「타워(SR)」를 획득한다,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+獲得条件：召喚石「タワー(Sレア)」を獲得する,획득조건：소환석「타워(SR)」를 획득한다
 
 星を見つめし者,별을 바라본 자
 獲得条件：召喚石「スター(Sレア)」を獲得する,획득조건：소환석「스타(SR)」를 획득한다
@@ -13750,12 +13753,12 @@ Arcarum
 獲得条件：ルビガメの撃破,획득조건：루비거북을 격파
 
 アルデバランスレイヤー,알데바란 슬레이어
-獲得条件：アルデバランの撃破,획득조건：알데바란을 격파
+獲得条件：アルデバランの撃破,획득조건：알데바란을 격파,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 
-カストル＆ポルックススレイヤー,카스토르＆폴룩스 슬레이어
-獲得条件：カストルとポルックスの撃破,획득조건：카스토르와 폴룩스 격파,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+カストル＆ポルックススレイヤー,카스토르＆폴룩스 슬레이어,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：カストルとポルックスの撃破,획득조건：카스토르와 폴룩스 격파
 
-アーカルムの豪雄,아카룸의 영웅,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+アーカルムの豪雄,아카룸의 영웅
 獲得条件：ポイント・アクイラ(EXTREME)、ポイント・ベラトール(EXTREME)、ポイント・ケルサス(EXTREME)を踏破する,"획득조건：포인트・아퀼라(EXTREME), 포인트・벨라토르(EXTREME), 포인트・켈수스(EXTREME)를 답파한다"
 
 十の宿命を刻みし者,열 가지 숙명을 새긴 자
@@ -13767,37 +13770,37 @@ Arcarum
 祈祷師の石窟を越え,무녀의 석굴을 넘어서
 獲得条件：ポイント・ベラトール（EXTREME）祈祷師の石窟*-*を踏破
 
-ナルク廃坑を越え,나루크 폐갱을 넘어서
+ナルク廃坑を越え,나루크 폐갱을 넘어서,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件：ポイント・ケルサス（EXTREME）ナルク廃坑*-*を踏破
 
-正義に問われし者,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+正義に問われし者
 獲得条件：召喚石「ジャスティス(SSレア)」の上限解放段階を*段階目まで進める
 
 刑死者に問われし者
 獲得条件：召喚石「ハングドマン(SSレア)」の上限解放段階を*段階目まで進める
 
-死に問われし者
+死に問われし者,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
 獲得条件：召喚石「デス(SSレア)」の上限解放段階を*段階目まで進める
 
-節制に問われし者,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+節制に問われし者
 獲得条件：召喚石「テンペランス(SSレア)」の上限解放段階を*段階目まで進める
-
+,,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 悪魔に問われし者
 獲得条件：召喚石「デビル(SSレア)」の上限解放段階を*段階目まで進める
-,,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+
 塔に問われし者
-獲得条件：召喚石「タワー(SSレア)」の上限解放段階を*段階目まで進める
+獲得条件：召喚石「タワー(SSレア)」の上限解放段階を*段階目まで進める,,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 
 星に問われし者
-獲得条件：召喚石「スター(SSレア)」の上限解放段階を*段階目まで進める,,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+獲得条件：召喚石「スター(SSレア)」の上限解放段階を*段階目まで進める
 
 月に問われし者
 獲得条件：召喚石「ムーン(SSレア)」の上限解放段階を*段階目まで進める
 
-太陽に問われし者
+太陽に問われし者,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 獲得条件：召喚石「サン(SSレア)」の上限解放段階を*段階目まで進める
 
-審判に問われし者,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+審判に問われし者
 獲得条件：召喚石「ジャッジメント(SSレア)」の上限解放段階を*段階目まで進める
 
 正義に応えし者,정의에 응한 자
@@ -15743,6 +15746,9 @@ Lv*** ゴブリンプリンセス,Lv*** 고블린 프린세스
 調査記録,조사기록
 調査資料を閲覧する,조사자료를 열람한다
 組織,조직
+敵,적
+空の民,하늘의 민족
+月の民,달의 민족
 !기본버튼UI
 キャンセル,취소
 次へ進む,다음으로 진행
@@ -16008,7 +16014,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 反映する,반영한다
 セット一覧,세트 목록
 シンボルマーク変更,심볼마크 변경
-
+モバコイン,모바코인
 アビリティダメージ,어빌리티 데미지
 
 発動中のマスターボーナス,발동중인 마스터 보너스
@@ -18655,6 +18661,22 @@ Sレア以上の刀をエレメント化することで手に入ります。
 (所持数　**),(소지수　**)
 (所持数　***),(소지수　***)
 (所持数　****),(소지수　****)
+
+
+
+!가챠
+提供割合,제공비율
+"価格:****<span class=""txt-coin"">モバコイン</span>                                        <input id=""discount_id"" type=""hidden"" name=""discount_id"" value="""">                                        <input id=""discount_type"" type=""hidden"" name=""discount_type"" value="""">","가격:****<span class=""txt-coin"">모바코인</span>					<input id=""discount_id"" type=""hidden"" name=""discount_id"" value="""">					<input id=""discount_type"" type=""hidden"" name=""discount_type"" value="""">"
+"価格:<span class=""txt-default-price"">***</span><span class=""txt-coin"">モバコイン</span>						<input id=""discount_id"" type=""hidden"" name=""discount_id"" value=""*"">						<input id=""discount_type"" type=""hidden"" name=""discount_type"" value=""*"">","가격:<span class=""txt-default-price"">***</span><span class=""txt-coin"">모바코인</span>						<input id=""discount_id"" type=""hidden"" name=""discount_id"" value=""*"">						<input id=""discount_type"" type=""hidden"" name=""discount_type"" value=""*"">"
+毎朝*時にリセットされます。<br>,매일 아침 *시에 리셋됩니다.<br>
+所持チケット:*枚,보유티켓: *매
+所持チケット:**枚,보유티켓: **매
+所持チケット:***枚,보유티켓: ***매
+所持チケット:****枚,보유티켓: ****매
+必要数:***宝晶石,필요수: ***보정석
+必要数:****宝晶石,필요수: ****보정석
+ガチャヘルプへ,가챠 헬프로
+レア以上の武器や召喚石が出現する特別なガチャです。<br>取得した装備品やアイテムはプレゼントに送られます。,레어 이상의 무기와 소환석이 출현하는 특별한 가챠입니다.<br>취득하신 장비 및 아이템은 선물로 보내집니다.
 "!나루메아(SSR,암속통상)"
 [揺らぎの斬姫],[동요하는 참희]
 ナルメア,나루메아
