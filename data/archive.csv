@@ -12670,38 +12670,43 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 獲得条件<br>ポーカーでロイヤルストレートフラッシュを作る,획득조건<br>포커에서 로얄 스트레이트 플러시를 만든다
 
 手を下すまでもなかった,손 댈 필요도 없었다
-獲得条件：FREE BALLでBINGOする,획득조건：FREE BALL에서 BINGO된다
-獲得条件<br>FREE BALLでBINGOする,획득조건<br>FREE BALL에서 BINGO된다
+獲得条件：FREE BALLでBINGOする,획득조건：FREE BALL에서 BINGO가 된다
+獲得条件<br>FREE BALLでBINGOする,획득조건<br>FREE BALL에서 BINGO가 된다
 
 一番乗り！,일등！
 獲得条件：BINGOで*位を取る,획득조건：BINGO에서 *위가 된다
 獲得条件<br>BINGOで*位を取る,획득조건<br>BINGO에서 *위가 된다
 
 ヘブンリーボール,헤븐리 볼
-獲得条件：CHANCE BALLでBINGOする,획득조건：CHANCE BALL에서 BINGO된다
-獲得条件<br>CHANCE BALLでBINGOする,획득조건<br>CHANCE BALL에서 BINGO된다
+獲得条件：CHANCE BALLでBINGOする,획득조건：CHANCE BALL에서 BINGO가 된다
+獲得条件<br>CHANCE BALLでBINGOする,획득조건<br>CHANCE BALL에서 BINGO가 된다
 
-スーパービンゴ,슈퍼빙고
+スーパービンゴ,슈퍼 빙고
 獲得条件：SUPER BINGOをする,획득조건：SUPER BINGO에 당첨
+獲得条件<br>SUPER BINGOをする,획득조건<br>SUPER BINGO에 당첨
 
-
-
-,,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
-
-
-
-
-
-
-
-セラフィックウェポン,세라픽 웨폰
-
-
-
-
-
+!세라픽 웨폰 칭호
+セラフィックウェポン,세라픽 웨폰,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 四天司の剣との出会い,사천사의 검과의 만남
 獲得条件：Sレア武器「ソード・オブ・ミカエル」を入手,획득조건：SR 무기 「소드・오브・미카엘」을 획득
+獲得条件<br>Sレア武器「ソード・オブ・ミカエル」を入手,획득조건<br>SR 무기 「소드・오브・미카엘」을 획득
+
+光り輝く剣の使い手,빛나는 검의 주인
+眩き光を放つ宝剣の使い手,눈부시게 빛나는 보검의 주인
+神々しき輝きの名剣の使い手,거룩하게 빛나는 명검의 주인
+獲得条件：Sレア武器「ソード・オブ・ミカエル」を*回上限解放する,획득조간：SR 무기「소드・오브・미카엘」을 *회 상한해방
+獲得条件<br>Sレア武器「ソード・オブ・ミカエル」を*回上限解放する,획득조건<br>SR 무기「소드・오브・미카엘」을 *회 상한해방
+
+ミカエル・フォロワー,미카엘 팔로워
+極まりし天司の名剣,대천사의 명검
+
+獲得条件<br>SSレア武器「ソード・オブ・ミカエル」を入手,획득조건<br>SSR 무기「소드・오브・미카엘」을 획득
+獲得条件<br>SSレア武器「赤き熾炎の剣」を入手,획득조건<br>SSR 무기「붉은 치염의 검」을 획득
+
+
+
+
+
 
 四天司の杖との出会い,사천사의 지팡이와의 만남
 獲得条件：Sレア武器「ワンド・オブ・ガブリエル」を入手,획득조건：SR 무기 「완드・오브・가브리엘」을 획득
@@ -12715,12 +12720,12 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 天司の竪琴との出会い,천사의 하프와의 만남
 獲得条件：Sレア武器「ハープ・オブ・ハルワアムル」を入手,획득조건：SR 무기 「하프・오브・하루와아무르」을 획득
 
-堕天司の鎌との出会い,타천사의 낫과의 만남
+堕天司の鎌との出会い,타천사의 낫과의 만남,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ジョブ</option>,"
 獲得条件：Sレア武器「サイス・オブ・ベリアル」を入手,획득조건：SR 무기 「사이즈・오브・베리알」을 획득
 "<option data-category-id=""*"" value=""*"">トレジャー</option>"
 
 
-導きの士,인도자,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ジョブ</option>,"
+導きの士,인도자
 獲得条件：パーティの戦力が*****に到達,획득조건：파티의 전력이 *****에 도달
 
 覇空の士,패공의 인도자
@@ -13676,14 +13681,14 @@ The Dragon Knights
 インターセプター,인터셉터
 獲得条件：ディフェンドオーダーで１回防衛を成功させる
 
-策士,책사
+策士,책사,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件：防戦アイテムを**回使う,획득조건：방어전 아이템을 **회 사용
-
+,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 大将首
 獲得条件：ディフェンドオーダーのBOSSとエリアキーパーに**回勝利する
-,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+
 ディフェンダー：ランク２,디펜더：랭크２
-獲得条件：累計の防衛勲功が*****ポイントになる,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：累計の防衛勲功が*****ポイントになる
 
 バードウォッチャー,버드워처
 獲得条件：防衛戦「大怪鳥の再来」を１回クリア
@@ -13694,12 +13699,12 @@ The Dragon Knights
 マシーナリークラッカー,머시너리 크래커
 獲得条件：防衛戦「鉄のレコンキスタ」を１回クリア
 
-ジャイアントキラー,자이언트 킬러
+ジャイアントキラー,자이언트 킬러,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件：防衛戦「不滅の巨人」を１回クリア
 
 デプロイメントコンカー
 獲得条件：防衛戦「帝国の戦力展開」を１回クリア
-,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+
 オリビアキャプチャー,올리비아 캡처
 獲得条件：防衛戦「波打ち際の花嫁」を１回クリア
 
@@ -13721,12 +13726,12 @@ The Dragon Knights
 絶対的エース,절대적인 에이스
 獲得条件：所属グループが同日全ラウンドで*位達成(個人獲得制圧力****以上)
 
-覇空無双,패공무쌍
+覇空無双,패공무쌍,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
 獲得条件：所属グループが全日勝利する(同一イベント内、かつ個人獲得制圧力****以上)
 
 ポート・ブリーズ・エクスプローラー,포트・브리즈 익스플로러
 獲得条件：ポート・ブリーズ群島のフリークエストコンプリート,획득조건：포트・브리즈 군도의 프리 퀘스트를 전부 클리어
-,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+
 フレイメル・エクスプローラー,프레이멜 익스플로러
 獲得条件：バルツ公国のフリークエストコンプリート,획득조건：발츠 공국의 프리 퀘스트를 전부 클리어
 
@@ -13748,14 +13753,14 @@ The Dragon Knights
 アマルティア・エクスプローラー,아말티아 익스플로러
 獲得条件：アマルティア島のフリークエストコンプリート,획득조건：아말티아 섬의 프리 퀘스트를 전부 클리어
 
-メフォラシュ・エクスプローラー,메포라슈 익스플로러
+メフォラシュ・エクスプローラー,메포라슈 익스플로러,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 獲得条件：旧王都メフォラシュのフリークエストコンプリート,획득조건：구 왕도 메포라슈의 프리 퀘스트를 전부 클리어
-
+,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 ザンクティンゼル・エクスプローラー,장크틴젤 익스플로러
 獲得条件：ザンクティンゼルのフリークエストコンプリート,획득조건：장크틴젤의 프리 퀘스트를 전부 클리어
-,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+
 うまみ時々かゆみ
-獲得条件：クエスト「小生意気な珍味ソミニカ」をクリア,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：クエスト「小生意気な珍味ソミニカ」をクリア
 
 ループ・ザ・ループ,루프 더 루프
 獲得条件：クエスト「ぬいぐるみファミリー」をクリア,획득조건：퀘스트「봉제인형 가족」을 클리어
@@ -13765,21 +13770,21 @@ The Dragon Knights
 
 アラサー騎空士,30대 기공사
 獲得条件：クエスト「振り向けば アラサー女子」をクリア,획득조건：퀘스트「어느덧 30대를 넘긴 여자」를 클리어
-
+,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
 コウヨウハンター,단풍헌터
 獲得条件：クエスト「束の間の絶景」を*ターン以内にクリア,획득조건：퀘스트「짧은 순간의 절경」을 *턴 이내로 클리어
 
 三本の矢,세 개의 화살
-獲得条件：クエスト「涙を流したスーテラ姉様」をクリア,획득조건：퀘스트「눈물을 흘린 스테라 언니」를 클리어,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">セラフィックウェポン</option>,"
+獲得条件：クエスト「涙を流したスーテラ姉様」をクリア,획득조건：퀘스트「눈물을 흘린 스테라 언니」를 클리어
 
 獲得条件：クエスト「将とは何か、兵とは何か」をクリア,획득조건：퀘스트「장군이란 무엇인가、병사란 무엇인가」를 클리어
 
-幸せって何だっけ,행복이란 무엇인가
+幸せって何だっけ,행복이란 무엇인가,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
 獲得条件：クエスト「幸福への導き所」をクリア,획득조건：퀘스트「행복으로 이끄는 곳」을 클리어
 
 栄養そのものの味,영양의 풍미
 獲得条件：クエスト「偽りだらけの青春の１ページ」をクリア,획득조건：퀘스트「거짓투성이 청춘의 1페이지」를 클리어
-,,,,,,,,"<option data-category-id=""*"" value=""*"">ルピ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">カジノ</option>",,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">セラフィックウェポン</option>,"
+,,,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 朱,주 (朱)
 獲得条件：クエスト「六竜討伐戦「朱」」をクリア,획득조건：퀘스트「육룡토벌전「주」」를 클리어
 
@@ -13789,15 +13794,14 @@ The Dragon Knights
 金,금 (金)
 獲得条件：クエスト「六竜討伐戦「金」」をクリア,획득조건：퀘스트「육룡토벌전「금」」을 클리어
 
-翠,취 (翠),,,,,,,"<option data-category-id=""*"" value=""*"">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
+翠,취 (翠)
 獲得条件：クエスト「六竜討伐戦「翠」」をクリア,획득조건：퀘스트「육룡토벌전「취」」를 클리어
 
-白,백 (白)
+白,백 (白),,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 獲得条件：クエスト「六竜討伐戦「白」」をクリア,획득조건：퀘스트「육룡토벌전「백」」을 클리어
 
 黒,흑 (黒)
 獲得条件：クエスト「六竜討伐戦「黒」」をクリア,획득조건：퀘스트「육룡토벌전「흑」」을 클리어
-,,,,,,,,"<option data-category-id=""*"" value=""*"" selected="""">強化</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">Rank</option>",,,,,,,,"<option data-category-id=""*"" value=""*"">ジョブ</option>,"
 
 
 
@@ -13820,14 +13824,15 @@ The Dragon Knights
 
 
 
-光り輝く剣の使い手,빛나는 검의 사용자
-眩き光を放つ宝剣の使い手,눈부시게 빛나는 검의 사용자
-神々しき輝きの名剣の使い手,거룩하게 빛나는 검의 사용자
-ミカエル・フォロワー,미카엘 팔로워
-極まりし天司の名剣,대천사의 명검
-獲得条件<br>Sレア武器「ソード・オブ・ミカエル」を*回上限解放する,획득조건<br>SR 무기「소드・오브・미카엘」을 *회 상한해방
-獲得条件<br>SSレア武器「ソード・オブ・ミカエル」を入手,획득조건<br>SSR 무기「소드・오브・미카엘」을 획득
-獲得条件<br>SSレア武器「赤き熾炎の剣」を入手,획득조건<br>SSR 무기「붉은 치염의 검」을 획득
+
+
+
+
+
+
+
+
+
 光り輝く杖の使い手,빛나는 지팡이의 사용자
 眩き光を放つ宝杖の使い手,눈부시게 빛나는 지팡이의 사용자
 神々しき輝きの名杖の使い手,거룩하게 빛나는 지팡이의 사용자
