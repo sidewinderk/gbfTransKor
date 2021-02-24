@@ -979,8 +979,8 @@ EXLB解放アイテム,EXLB 해방 아이템
 
 
 全て,모두
-"<option value=""*"" selected="""">全て</option>			<option value=""*"">レア</option>			<option value=""*"">Sレア</option>			<option value=""*"">SSレア</option>			<option value=""*"">その他</option>","<option value=""*"" selected="""">모두</option>                        <option value=""*"">레어</option>                        <option value=""*"">SR</option>                        <option value=""*"">SSR</option>                        <option value=""*"">그외</option>"
-その他,그외
+"<option value=""*"" selected="""">全て</option>			<option value=""*"">レア</option>			<option value=""*"">Sレア</option>			<option value=""*"">SSレア</option>			<option value=""*"">その他</option>","<option value=""*"" selected="""">모두</option>                        <option value=""*"">레어</option>                        <option value=""*"">SR</option>                        <option value=""*"">SSR</option>                        <option value=""*"">그 외</option>"
+その他,그 외
 進行度 */*,진행도 */*
 
 !프로필
