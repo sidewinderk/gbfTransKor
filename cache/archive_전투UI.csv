@@ -121,7 +121,7 @@ CBダメージアップ(累積),CB 데미지 업(누적)
 
 !약체화 효과
 回復力DOWN,회복력 DOWN
-攻撃力DOWN,공격력DOWN
+攻撃力DOWN,"<span style=""font-size: 90%"">공격력DOWN</span>"
 攻撃DOWN(累積),공격 DOWN(누적)
 ダブルアタック確率DOWN,더블어택 확률 DOWN
 トリプルアタック確率DOWN,트리플어택 확률 DOWN

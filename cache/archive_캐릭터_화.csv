@@ -160,16 +160,15 @@ orig,kr
 [凄艶の射手],[처염의 사수]
 メーテラ,메테라
 
-デンス・キャレス＋,덴스・캬레스＋
+!덴스・케레스
 "火属性ダメージ(特大)<br><span class=""text-blue"">◆エーテリアルシール消費：追加ダメージ</span>","화속성 데미지(특대)<br><span class=""text-blue"">◆에테리얼 씰 소비：추가 데미지</span>"
-綺羅星＋,기라성＋
-"<div class=""prt-text-small"">ターゲットに関わらず*回単体ダメージ/自分にエーテリアルシール(*枚)</div>","<div class=""prt-text-small"">타겟과 관계없이 *회 단체 데미지/자신에게 에테리얼 씰(*장)</div>"
-飾り穿ち隼返し＋,허식을 꿰뚫는 매반환＋
+!기라성
+飾り穿ち隼返し＋,허식을 꿰뚫는 매 돌리기＋
 "<div class=""prt-text-small"">敵に火属性ダメージ/魅了効果<span class=""text-blue"">◆エーテリアルシール消費：スロウ効果追加</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지/매료 효과<span class=""text-blue"">◆에테리얼 씰 소비：슬로우 효과 추가</span></div>"
 金火彗降,금화혜강
-"<div class=""prt-text-small"">敵に*.*倍火属性ダメージ/金火彗降の発動により防御DOWN/敵対心UP(累積)<span class=""text-blue"">◆エーテリアルシール消費：防御DOWN/敵対心UPなし</span></div>","<div class=""prt-text-small"">적에게 *.*배 화속성 데미지/금화혜강의 발동에 의해 방어 DOWN/적대심 UP(누적)<span class=""text-blue"">◆에테리얼 씰 소비：방어 DOWN/적대심 UP 없음</span></div>"
-天才肌,천재적 자질
-弱体状態の敵に対して攻撃UP,약화 상태의 적을 상대로 공격 UP
+"<div class=""prt-text-small"">敵に*.*倍火属性ダメージ/金火彗降の発動により防御DOWN/敵対心UP(累積)<span class=""text-blue"">◆エーテリアルシール消費：防御DOWN/敵対心UPなし</span></div>","<div class=""prt-text-small"">적에게 *.*배 화속성 데미지 / 금화혜강의 발동에 의해 방어 DOWN / 적대심 UP(누적)<span class=""text-blue"">◆에테리얼 씰 소비：방어 DOWN/적대심 UP 없음</span></div>"
+天才肌,천재적인 기질
+弱体状態の敵に対して攻撃UP,약체화 상태의 적을 상대로 공격 UP
 完全たる魔導弓,완전한 마도궁
 エーテリアルシールを消費して火属性追撃効果,에테리얼 씰을 소비하고 화속성 추격 효과
 
@@ -202,7 +201,7 @@ orig,kr
 "<div class=""prt-text-small"">自分の連続攻撃確率UP(大)/防御DOWN/敵対心UP<br><span class=""text-blue"">◆再使用で効果がさらにUP</span></div>","<div class=""prt-text-small"">자신의 연속 공격 확률 UP(대)/방어 DOWN/적대심 UP<br><span class=""text-blue"">◆재사용으로 효과가 더욱 UP</span></div>"
 ネード・プナネ＋,네드・프나네＋
 "<div class=""prt-text-small"">自分の攻撃大幅UP(敵オーバードライブ時のみ/*回)/敵のモードゲージ減少量UP</div>","<div class=""prt-text-small"">자신의 공격 대폭 UP(적 오버 드라이브 시에만/*회)/적 모드 게이지 감소량 UP</div>"
-ライジング・スター,라이징・스타
+ライジング・スター,라이징 스타
 "自分に逆境効果　<span class=""text-blue"">◆自分のHPを最大値の**%消費</span>","자신에게 역경 효과　<span class=""text-blue"">◆자신의 HP 최대치의 **% 소비</span>"
 不滅の見切り,불멸의 단념
 自分の残りHPが少ないほどクリティカル確率UP/回避率UP,자신의 남은 HP가 적을 수록 크리티컬 확률 UP/회피율 UP
