@@ -1,0 +1,434 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt210226_cp1_q1_s10,synopsis,,カシウス達の救出作戦には、マキラ、ファラ、ユーリ、ヨダルラーハなど多くの団員が名乗りを上げた。拠点で月へ向かう騎空艇の建造を進める中、ユーステスは「敵」の妨害の可能性もある現状、月に行くのはリスクが高すぎると冷静に述べる。それに、イルザの部下で契約者候補のグウィンは焦りを見せて反論。どちらの言い分も正しく、事は慎重に、迅速に進める必要があった。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>電源投入、通信開始。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>通信先探索……終了。</span><br><span class='scene-font-gray'>音声データのデコード内容は</span><br><span class='scene-font-gray'>機関の中枢レベルに公開されます。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,？？？,<span class='scene-font-gray'>──なるほど、カシウス君のいる月は</span><br><span class='scene-font-gray'>うちゅうの先にあるのですか。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ルリア,<span class='scene-font-gray'>はい……すごく遠い所に、</span><br><span class='scene-font-gray'>カシウスさんはいるみたいで。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,？？？,<span class='scene-font-gray'>アイザック君が</span><br><span class='scene-font-gray'>助けてくれと言ってきた以上、</span><br><span class='scene-font-gray'>放っておくわけにも──</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>エンジニア・アイザック。</span><br><span class='scene-font-gray'>今回取得した音声の中には未知の人物が</span><br><span class='scene-font-gray'>含まれています。登録しますか？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,マキラって呼ばれてたっけ？<br>人物名、それで登録してくれ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>新規登録者、マキラ。</span><br><span class='scene-font-gray'>推定される種族、ハーヴィン族・女性。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,<span class='scene-font-gray'>私の研究が役に立つなら、ぜひぜひ、</span><br><span class='scene-font-gray'>[플레이어]君に協力させて</span><br><span class='scene-font-gray'>もらいます。どぞ、よしなに。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,<span class='scene-font-gray'>うちゅうに飛び出すほどの力に</span><br><span class='scene-font-gray'>耐えうる騎空艇の設計、</span><br><span class='scene-font-gray'>うけたまわりました。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,？？？,<span class='scene-font-gray'>か……カシウス殿が！？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,？？？,<span class='scene-font-gray'>月に帰れたと思ったら、</span><br><span class='scene-font-gray'>そんな目にあってたっすか……</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>エンジニア・アイザック。</span><br><span class='scene-font-gray'>今回取得した音声の中には未知の人物が</span><br><span class='scene-font-gray'>含まれています。登録しますか？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,えー……男性はユーリ、<br>女性はファラって言ってたっけ？<br>それで登録してくれ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,<span class='scene-font-gray'>解析の……サンプル……！？</span><br><span class='scene-font-gray'>畜生……許せねえ！</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,[플레이어]殿！<br>月への侵攻にあたっては<br>是非自分も部隊に加えてください！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,月の非道な輩をこの拳で──
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,落ち着くっすよユーリ。<br>そんなんだからカシウスに<br>瞬間湯沸かし器とか呼ばれるっす。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,く……！<br>と、ともかく自分にできる事が<br>あるなら尽力する次第です！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,自分もやるっすよ！<br>カタリナ先輩の後輩として<br>ここは見過ごせないっす！
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,あの食いしん坊の救出のために、<br>続々とまあ、志願者が集まるものだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,オペレータ３,あまりの数に驚いています。<br>……「敵」の息がかかった者は<br>いないでしょうか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,オペレータ３,特に、あの元帝国兵の男女……<br>信用できますか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,[플레이어]の目も節穴ではない。<br>問題ないだろう。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,どんな目を持っとっても<br>見えぬ時は見えんモンじゃ。<br>このワシのようにな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,貴方は……！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,この若い衆にお前さん達の事を<br>聞いての。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,……お前さん達が追うとる<br>「敵」とやらには、ワシも因縁がある。<br>一枚噛ませてもらうぞ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,ハイゼンベルクの始末……<br>貴方が請け負ってくれると？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,ワシの本命は他におってな。<br>まあ、釣れた外道も〆ておくか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,イルザ殿……かつて帝国軍を<br>脱走した身ではありますが、<br>仲間を救う決意に偽りはありません！
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,ああ。<br>君達の若さに投資しよう。<br>腕は立つようだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,今の老人の声も登録してくれ。<br>名前は会話の内容に従って、<br>ヨダルラーハだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>新規登録者４名。</span><br><span class='scene-font-gray'>紐づけられた情報を検索しますか？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,頼む。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>検索結果を表示します。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,順次、再生を。
+Japanese,scene_evt210226_cp1_q1_s10,detail,カシウス,──うちゅうへ？
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,はい。私、実はずっと研究してまして。
+Japanese,scene_evt210226_cp1_q1_s10,detail,カシウス,非合理的だな。ジェットやプロペラでは<br>大気圏外では推進力が得られん──
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,貴様ッ！ あれは貴様のような奴が<br>盗んでいいものではないッ！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,……またユーリがアツくなってるっす。<br>ほっといていいっすよ、カシウス。
+Japanese,scene_evt210226_cp1_q1_s10,detail,カシウス,興味深い。まるで瞬間湯沸かし器だ。<br>なるほど、月の感情制御は<br>無駄なエネルギー消費を抑え──
+Japanese,scene_evt210226_cp1_q1_s10,detail,カシウス,釣りの道具を忘れたか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,……いや。ちょいと気分が変わっての。<br>しばらく釣りはやらんわい。お前さんに<br>魚を食わせてやれなくて悪いが。
+Japanese,scene_evt210226_cp1_q1_s10,detail,カシウス,そうか。<br>ならば俺が代わりに釣ってこよう。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,む。気を使わせたかの。
+Japanese,scene_evt210226_cp1_q1_s10,detail,カシウス,お前の気分は知覚できない。<br>だから、いずれまた釣りを、<br>とだけ言っておこう。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,うむ。ワシも楽しみにしておこう。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アナウンス,<span class='scene-font-gray'>再生終了。これらのデータの扱いは？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,始点と終点にスライスポイントを追加、<br>いつもの通り、バックアップを。
+Japanese,scene_evt210226_cp1_q1_s10,detail,レイベリィ,精が出るな、アイザック。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,向こうも動き出したからね。
+Japanese,scene_evt210226_cp1_q1_s10,detail,レイベリィ,当初の想定よりも<br>動く団員の数が多いな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,カシウスはああ見えて、<br>社交的だったみたいだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,アイザック,実に……興味深いよ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,……報告は以上だ。団員達の多くが<br>旅行者達の救出に協力を申し出た。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,そうか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,マキラという者が<br>騎空艇を建造すると言っていたな。<br>拠点が必要ならば用意する。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,何？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,こちらにも利があるということだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,……敵の動きがあったのか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,ああ。「敵」勢力が一斉に姿を消した。<br>アイザックからの通信が傍受されたのと<br>ほぼ同時期だ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,お前達にかけられていた賞金を取り下げ<br>なんらかの準備に入ったようだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,魔術師を集め、大がかりな儀式の準備を<br>始めたという報告もある。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,儀式……[플레이어]達の<br>妨害を企んでいると？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,我々はそう踏んでいる。<br>敵がこの規模で動くならば、<br>奴らを一網打尽にするチャンスだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,……この機を逃しはせん。<br>お前達も、<br>我々の手の届く場所にいてくれ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,了解した。手配する。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,こちらで用意した拠点にて<br>イルザ隊と合流し、<br>戦闘準備と騎空艇の建造を進めろ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,あんたが集めた者達とイルザ隊、<br>どちらも信用できるのか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,ああ。皆、敵に一矢報いることだけを<br>考えて私のもとに集ったのだ。<br>身元含め、裏も取ってある。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,了解した。
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>ローナンから拠点の場所を聞き、</span><br><span class='scene-font-katari'>ユーステスは背を向ける。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,……ユーステス。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,なんだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,改めてお前に言う事ではないが……<br>機を見誤るなよ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,俺は無用な弾など撃たない。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,そうであろうともだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,了解した。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ローナン,頼むぞ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>そしてユーステスは</span><br><span class='scene-font-katari'>ローナンの隠れ家を去り、</span><br><span class='scene-font-katari'>提供された拠点へと向かった。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,ぐぐ……
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,……ユーリ、無理すんなっす。<br>この部品、ひとりで運ぶのは<br>自分が抱えてるくらいで限界っすよ？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,こ、この程度、隊長のしごきに<br>比べたら……ッ！
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,なんか、すみません。<br>調達部品、私が運ぶつもりだった<br>ぶんまで持ってもらっちゃって。
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>ローナンの用意した拠点にて、</span><br><span class='scene-font-katari'>[플레이어]の仲間達が</span><br><span class='scene-font-katari'>騎空艇の建造に勤しむ一方──</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,青年,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>続々と合流してくる組織の兵達が</span><br><span class='scene-font-katari'>ユーステスとのすれ違いざまに</span><br><span class='scene-font-katari'>小さく合図を送ってくる。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,<span class='scene-font-kokoro'>（……総力戦、か）</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>ローナンの命で多数の人員が動き、</span><br><span class='scene-font-katari'>ユーステスの知る中でも、</span><br><span class='scene-font-katari'>最大規模の作戦が始まろうとしていた。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>ひりつく街の空気を感じながら、</span><br><span class='scene-font-katari'>注意深く辺りを見回すユーステス。</span><br><span class='scene-font-katari'>すると──</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,<span class='scene-font-4'>お、おっと！？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,<span class='scene-font-4'>どへっ！？</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,お、おいファラ！<br>大丈夫か！？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,ぶ、ぶぶ部品を<br>ぶちまけてしまったっす！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,……って、あれ？<br>部品箱どこいったっすか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,ユーステス君、<br>箱をナイスキャッチです。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,あ、はは……めんぼくないっす……
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,拠点に向かうのか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,はっ！ 一通り調達は済みましたゆえ！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,ならば、このまま俺が持つ。<br>ユーリ、お前の部品も少し寄越せ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,い、いえ、自分は大丈夫であります！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,俺は平穏と静寂を望む。<br>部品をぶちまけて<br>騒音を立てない保証があるのか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,それは……はは……
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,ユーステス君の用事は<br>大丈夫なんですか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,地形の確認をしていただけだ。<br>荷運びが完了次第、再開する。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,地形っていうと……<br>狙撃のためとかっすか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,そうだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ,事前に狙撃に適した地点を絞り込み、<br>有事の際には迅速に配置に<br>つくのでありますね。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,敵が取りうる布陣と、狙撃地点間の<br>移動ルートも組み立てておく。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーリ・ファラ,おお……！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,マキラ,なるほど、街を見て<br>攻めと守りの設計図を<br>作る感じですか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,……そんなところだ。興味があるなら<br>イルザに聞け。教育は奴の領分だ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>調達部品もすぐに組み込まれ、</span><br><span class='scene-font-katari'>準備は着々と進む。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,……む。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ヨダルラーハ,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,<span class='scene-font-kokoro'>（ヨダルラーハといったか。</span><br><span class='scene-font-kokoro'>あの殺気、ただごとではないな）</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>拠点を置いた街に渦巻く思惑。</span><br><span class='scene-font-katari'>ユーステスはその動向を</span><br><span class='scene-font-katari'>静かに見守っていた。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ファラ,みんな、ただいまっす！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ビィ,お、マキラ達帰ってきたぜ。<br>仏頂面の兄ちゃんも一緒か。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,俺は部品を置いたらすぐ哨戒に戻る。<br>足りないものがあれば連絡しろ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,バザラガ,ふむ。さしあたって必要な部品は<br>揃ったな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,それで、<br>あのメガネ君が言ってたモノの<br>準備は間に合いそう？
+Japanese,scene_evt210226_cp1_q1_s10,detail,バザラガ,艇の組み立ての方は、決行日に<br>間に合うかどうかというところだな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,動力の方だが、現状こちらにあるのは<br>ヴァーサタイル……セスラカの残骸と<br>グロウノスの２体だ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,あのふやけエンジニアのいう通りに<br>万全を期すならば、もう１体は<br>必要なのだが。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,ゼタのアルベス、教官のニバス、<br>ユーステスのフラメクは<br>機神になる気配もないし……
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,私のエムブラスクは、<br>アランドゥーズに壊されたままだし……<br>くそ、どうにかならないのか……？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,……仮に３体の機神が揃ったとして。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ルリア,…………？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,あのふたりを、どう取り戻す？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,どうって……<br>そりゃ、月に乗り込んで<br>連れて帰ればいいんだろ？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,その具体的な策を聞いている。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,そんなの出たとこ勝負しかないだろ？<br>そもそも月がどんな場所かも<br>わかんないし。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,……やはり、現状リスクが高すぎる。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,ちょっとユーステス、それまさか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,ほ、ほっとけってのか！？<br>あいつら、大変な事に<br>なってるじゃないか！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,月はあまりに未知の部分が多い。<br>下手に乗り込むのが得策とは思えん。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,待ちなさいよ。<br>ここまで準備してんのに？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,出発日は周期的に訪れると聞く。<br>焦れば作戦も水の泡だ。次を待て。
+Japanese,scene_evt210226_cp1_q1_s10,detail,バザラガ,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,組織の兵,……あの。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,誰だ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,どうも。自分はグウィンです。
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,グウィンは私の部下だ。<br>レスターの次に、封印武器の<br>契約者候補に挙がっていた。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,相手の正体がわからないからこそ、<br>一度見とくっていうのも<br>あると思うんですけど、自分。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,二度目があるとは限らないとしてもか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,それは……
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,……はい。<br>二度目がないとも限らないんで。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,ずいぶんと豪華な捨て石だな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,な……！？<br>指くわえて待ってろってんですか！<br>失敗するとは限らないですよ！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,初弾を外す前提で挑むな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,…………！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q1_s10,detail,ビィ,<span class='scene-font-2'>……あの嬢ちゃん、</span><br><span class='scene-font-2'>度胸あんなあ……</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,<span class='scene-font-2'>ほんと。ユーステスに</span><br><span class='scene-font-2'>噛みつく新入りなんて</span><br><span class='scene-font-2'>あたし初めて見たよ。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,なあ、グウィンっていったっけ？<br>ちょっと落ち着いて、<br>肩の力抜いた方がいいぞ？
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,<span class='scene-font-4'>ベア先輩！</span><br>自分にだって、戦う理由があるんです！<br>親元離れて訓練続けたのだって……！
+Japanese,scene_evt210226_cp1_q1_s10,detail,バザラガ,ユーステスも考えあってのことだ。<br>いたずらに犠牲を出さないためにな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,……犠牲になる気もないです。<br><span class='scene-font-2'>ただ……急がないと……</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,ならば安全策を持ってこい。<br>……いや、違うな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ユーステス,まずは契約者として認められろ。<br>半人前を看取る身にもなれ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,はっ……！？ はんっ……！！！
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,ぐぐ……半人前って……！
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,やれやれ……
+Japanese,scene_evt210226_cp1_q1_s10,detail,バザラガ,気にするな。<br>ユーステスはああいう男だ。<br>常に最小限のリスクを選択する。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,あんな物言いだけど<br>悪い奴じゃないからさ。<br>そうカッカするなって。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,要は、全員無事に帰って来れる保証が<br>できてからにしろってことでしょ？
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,ああ。敵の動きを聞くに、<br>こちらの妨害を企てている可能性が高い<br>というのもある。
+Japanese,scene_evt210226_cp1_q1_s10,detail,バザラガ,月ばかり見ていては、<br>足元をとられかねんか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,でもさ……妨害って、何する気なんだ？<br>私達が月に行ったら、<br>あいつら困るのか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,さあ……何考えてるかわからないし。<br>特に、あのグレイスってヤツ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,グレイス……って、<br>噂は聞いてますけど、<br>そんなにヤバイ人なんですか？
+Japanese,scene_evt210226_cp1_q1_s10,detail,ゼタ,そうねえ。いっつもコソコソ<br>裏で動いてて、たぶん今回も<br>なんか仕掛けてくるんじゃない？
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,……戦う事になるんですかね。
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,ま、厄介な奴の相手は<br>契約者の私達に任せろ！
+Japanese,scene_evt210226_cp1_q1_s10,detail,ベアトリクス,だから、肩の力抜けよな～！
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,<span class='scene-font-4'>んひっ！？</span><br>く、くすぐったいっすよ！！
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,しかし……<br>これまで目立たなかったお前が<br>ずいぶんと前に出るようになったな。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,え……まあ。<br>カシウスさんと、アイザックさん、<br>月に行っちゃったじゃないですか。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,……自分は、月がサンプル欲しがってて<br>なおかつ誰かが向こうに<br>行っちゃったのはヤバいと思ってて。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,サンプルに誰かが連れて行かれる<br>可能性があるってことですよね？
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,それ、自分の<br>パパとママになるかもしれません。
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,ふん……ならば、そのパパとママの<br>ためにも、リスク回避は念頭に置け。
+Japanese,scene_evt210226_cp1_q1_s10,detail,グウィン,……了解です。
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>若き組織の兵グウィンは、</span><br><span class='scene-font-katari'>緊張の面持ちでその場を去る。</span>
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,まあ、あの半人前のいう通り、<br>状況が大きく変わったのも確かだ。
+Japanese,scene_evt210226_cp1_q1_s10,detail,イルザ,慎重に、そして迅速に<br>事を運ばねばならん。
+Japanese,scene_evt210226_cp1_q1_s10,detail,,<span class='scene-font-katari'>グウィンの小さな背中を見ながら</span><br><span class='scene-font-katari'>イルザはつぶやいた。</span>
+Japanese,scene_evt210226_cp1_q2_s10,synopsis,,[플레이어]達は、ローナンに拠点の奥へ案内される。そこには、かつて組織が鹵獲した機神アリアネンサが保管されていた。バザラガのグロウノス、再建中のセスラカと合わせれば月への推進力に事足りる。しかしアリアネンサはコアの一部を失っており、暴走の危険が高いという。一行はアリアネンサのコアを探しつつ、アリアネンサと契約するグウィンを鍛えることになるのだった。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,……皆、来たようだな。
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>組織の拠点の奥にて、[플레이어]、</span><br><span class='scene-font-katari'>マキラ、ビィ、ルリア、ユーステス、</span><br><span class='scene-font-katari'>そしてイルザが招集された。</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,状況はどうだ？
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,街の地形は把握した。<br>万一の敵襲にも対応は可能だ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,イルザ隊、大部分が集結しました。<br>現状、月へ向かうための騎空艇の建造に<br>協力しています。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,わかった。<br>皆、奥へ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>ローナンはうなずき、地下道の奥へと</span><br><span class='scene-font-katari'>歩いていく。</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,ビィ,……改まって話って、<br>なんなんだ？
+Japanese,scene_evt210226_cp1_q2_s10,detail,ルリア,ユーステスさんは<br>聞かされてるんですよね？
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,ああ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,マキラ,私達が呼ばれたって事は、<br>もしかして……
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>何も言わず</span><br><span class='scene-font-katari'>その後を行くユーステスの背中を</span><br><span class='scene-font-katari'>[플레이어]達は追う。</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,この奥に何が？
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,見せたいものがある。
+Japanese,scene_evt210226_cp1_q2_s10,detail,機神,────……
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,これは……！
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,イルザは見覚えがあるだろう。<br>機神アリアネンサだ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>はぁ！？</span><br>なんでそんなモンが<br>ここにあるってんだよ？
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,かつて敵との戦いで鹵獲した。<br>組織の本拠地に保管されていたものが<br>先のゴタゴタで紛失してな。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,ユーステスが手を尽くし、<br>ようやく回収できたのだ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,再建中のセスラカ、<br>バザラガとともにあるグロウノス、<br>そして……
+Japanese,scene_evt210226_cp1_q2_s10,detail,マキラ,これを合わせれば３体、ですね……
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,月へ行く推進力はこれで揃ったと<br>お前達に伝えておく。
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,それで、契約者候補のグウィンを<br>この拠点に召喚せよと<br>仰ったのですか。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,ああ。だがまだ奴には言うな。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,調査報告書によれば、アリアネンサは<br>コアの一部を失っており、<br>暴走の危険が極めて高いとある。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,これを呼び出した「敵」のひとりが<br>俺達の前で封印武器に食われただろう。
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,……なるほど。<br>まだグウィンに<br>触らせるわけにはいかんな。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,……本来であれば無事な封印武器を持つ<br>ゼタ、イルザ、ユーステスのいずれかに<br>任せたいところではあったが。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,アルベスもニバスも機神化の兆しはなく<br>フラメクは覚醒と呼ばれる<br>状態にも至っていない。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,武器との多重契約が及ぼす影響を<br>調べている時間もない。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,機神化の実績を持つアリアネンサを<br>あの候補者に託すほか、<br>現状は手がなくてな。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,月へ向かえる日は周期的に訪れる。<br>出発はこの機神のコアと<br>セスラカの制御が揃ってからだ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,それまであの半人前を鍛え、ついでに<br>無茶をしないよう見張っておけ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,了解した。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,[플레이어]達も、<br>見ていてくれるか。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ビィ,ああ。構わねえぜ！
+Japanese,scene_evt210226_cp1_q2_s10,detail,ビィ,……っても、ファラ達の仕事手伝ったり<br>色々あるから片手間になっちまうけど。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,それでいい。
+Japanese,scene_evt210226_cp1_q2_s10,detail,マキラ,あの、アリアネンサを<br>ちょっと見てっていいですか？<br>艇に積みこむ参考までに。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ローナン,ああ。しかし、触れんように<br>気を付けてくれ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>そうして、[플레이어]達は</span><br><span class='scene-font-katari'>ローナンの格納庫を後にした。</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,あの半人前、見どころは？
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,成績は優秀だ。<br>……アリアネンサとの戦いで<br>戦死したレスターの次にな。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,そうか。
+Japanese,scene_evt210226_cp1_q2_s10,detail,グウィン,ベア先輩！<br>自分にだって、戦う理由があるんです！<br>親元離れて訓練続けたのだって……！
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,…………
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,奴が何を目的に戦う気か知らんが、<br>焦ってまた騒ぎ始めたら俺に言え。
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,憎まれ役を引き受ける気か？
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,ああ。その後はお前が上手く収めろ。
+Japanese,scene_evt210226_cp1_q2_s10,detail,イルザ,わざわざ首を突っ込むとは珍しい。
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,月の思惑を妨害するためだ。<br>ほかに手がない以上、奴を失えん。
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>ユーステスの頭の中で、</span><br><span class='scene-font-katari'>自らの成すべき事とその手順は</span><br><span class='scene-font-katari'>組みあがっていた。</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>その思索の中で、</span><br><span class='scene-font-katari'>不意に頭をよぎる光景──</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,<span class='scene-font-kokoro'>（封印武器は──）</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,<span class='scene-font-kokoro'>（それぞれの使い手とともに変化し</span><br><span class='scene-font-kokoro'>得体のしれない力を振るう事がある。</span><br><span class='scene-font-kokoro'>その姿を、俺は何度も見てきた）</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,ユーステス,<span class='scene-font-kokoro'>（……フラメクは何を待っている？）</span>
+Japanese,scene_evt210226_cp1_q2_s10,detail,,<span class='scene-font-katari'>その胸にくすぶる静かな熱を感じながら</span><br><span class='scene-font-katari'>ユーステスは思索を巡らせる。</span>
+Japanese,scene_evt210226_cp1_q3_s10,synopsis,,早く一人前になりたいと悩むグウィンは、レンスの屋台で休息する[플레이어]達を見つける。グウィンはヨダルラーハに稽古をつけてもらいたいと考えていたが、ヨダルラーハは今長年の宿敵を追っており殺気立っている様子だった。すると代わりにレンスがグウィンに稽古をつけてくれる。[플레이어]達の応援を受けながら、グウィンは鍛錬に励むのだった。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-kokoro'>（鍛錬、鍛錬か……）</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>半人前を脱するための言葉を</span><br><span class='scene-font-katari'>反芻しながら</span><br><span class='scene-font-katari'>拠点へと戻る、そのさなか──</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラの声,<span class='scene-font-4'>ちょちょちょ！？</span><br>おっさん、ちょっと盛りすぎっす！<br>こんなに食べれないっすよ！
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,ん……
+Japanese,scene_evt210226_cp1_q3_s10,detail,屋台の主人,ンだよ、オマケだオマケ！<br>売れ残ったらもったいねえからよ。<br>[플레이어]らもほら、食え！
+Japanese,scene_evt210226_cp1_q3_s10,detail,ビィ,お、おお……<br>これまた焼き豚てんこ盛りだな……
+Japanese,scene_evt210226_cp1_q3_s10,detail,ルリア,んふふ、でも脂とろとろで<br>美味しい……
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,[플레이어]さん達、休憩中か……
+Japanese,scene_evt210226_cp1_q3_s10,detail,屋台の主人,あン？ 目ぇ合ったな兵隊さんよ。<br>金は要らねえ。俺様の焼豚丼<br>ちょっと試食してけや。な？
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,え……自分ですか？
+Japanese,scene_evt210226_cp1_q3_s10,detail,ユーリ,む……ああ、グウィン殿！
+Japanese,scene_evt210226_cp1_q3_s10,detail,屋台の主人,ンだ？ 知り合いかお前ら。
+Japanese,scene_evt210226_cp1_q3_s10,detail,屋台の主人,ジジイに稽古つけてもらいてえだぁ？
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,え、は、はぁ。そうなんです。<br>ヨダルラーハさんの噂を聞いて。<br>知り合いなんです？ レンスさん。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,今はこの通り、<br>利き手をやっちまって剣も握れねえ。<br>しかしだ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,何を隠そう、この俺様ァ、<br>ジジイの門下生よ。かつては<br>剣聖のタマゴとまで呼ばれたモンだ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,剣聖の……タマゴ……すご……
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,…………
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,ヘッ……<br>焼豚１枚オマケしとくわ。<br>悪いのに騙されんなよ？
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,え……は、どうも……
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラ,意外と照れ屋っすね、おっさん。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,<span class='scene-font-4'>ン……ンなこたねえよ！</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,ビィ,んで、メガネ嬢ちゃんは<br>なんだってヨダ爺ちゃんに<br>稽古つけてもらいてえんだ？
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,自分も早く契約者になりたいんですけど<br>実力が足りなくて……って相談したら<br>ヨダルラーハさんに見てもらえって。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,……なるほどな。<br>だが、あのジジイ、<br>ここんとこ都合が悪くてよ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,はあ。都合がですか。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,なにせ長年の宿敵ってヤツの<br>シッポ掴んだモンだから<br>ちょいと気が立っててな……
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,あー……<br>ほ、ほらよ、<br>ちょうどあそこ歩いてるぜ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ヨダルラーハ,…………
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,…………！！
+Japanese,scene_evt210226_cp1_q3_s10,detail,Side.W,…………！！
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>レンスの指差す先にいた</span><br><span class='scene-font-katari'>ヨダルラーハを見た瞬間、</span><br><span class='scene-font-katari'>空気が凍りつくような感覚に襲われる。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,ルリア,え？<br>どこですか？ ヨダルラーハさん。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ビィ,あー……今、ちらっと白いの見えたな。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,お、おお、わかるか？ アレ。<br>お、お、お、おっかねえだろ。<br>み、見るたびこっちがヒヤッとしてよ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラ,確かに老師、<br>前とは雰囲気違うっすけど……<br>そこまでっすか？
+Japanese,scene_evt210226_cp1_q3_s10,detail,ユーリ,……なんというか、<br>霧のように感じるというか。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ビィ,なあ[플레이어]。<br>オマエはなんか感じたか？
+Japanese,scene_evt210226_cp1_q3_s10,sel1_txt,,<span class='scene-font-katari'>気配が無い</span>
+Japanese,scene_evt210226_cp1_q3_s10,sel2_txt,,<span class='scene-font-katari'>殺気が凄い</span>
+Japanese,scene_evt210226_cp1_q3_s10,sel3_txt,,<span class='scene-font-katari'>死人のようだった</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,あ、ああ、なんかそんな感じよ。<br>いるんだかいねえんだか気配はねえし<br>なのに殺気だけがアレしてやがんだよ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,と、とにかくよ、ジジイが<br>あんなだから今はまあ、アレだ。<br>ちょっとアレした方がいいかもな。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,そうですか……
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,……あー、だがなんだ。アレだ。<br>俺様が屋台閉めたら、<br>ちと顔貸せるか？
+Japanese,scene_evt210226_cp1_q3_s10,detail,Side.W達,…………？
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>そしてしばしの後。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,その、ほんとにいいんです？
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,ヘッ、ビビってんなよ。<br>遠慮はいらねえぜ？
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>屋台を閉めたレンスが木刀を手に</span><br><span class='scene-font-katari'>グウィンと対峙していた。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラ,大丈夫なんすか、おっさん……
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,あ？ さすがの俺様も、ジジイの<br>手ほどきは全部忘れちゃいねえよ。<br>ほれ、打ってこい。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-4'>……たあっ！</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,ああ？<br>ンだよ、腰入ってねえぞ！
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,く……！
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,ったく……<br>強くなりてえ理由があんだろ？<br>じゃあお前の太刀筋ちゃんと見せろ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-kokoro'>（私は……！）</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,おっと！<br>へへ、悪くねえぞ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,このっ……！
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,相手の正体がわからないからこそ、<br>一度見とくっていうのも<br>あると思うんですけど、自分。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ユーステス,まずは契約者として認められろ。<br>半人前を看取る身にもなれ。
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,はっ……！？ はんっ……！！！
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-kokoro'>（アイザック、カシウス両名の救出、</span><br><span class='scene-font-kokoro'>そして月の探査……）</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-kokoro'>（その任務を果たすために、</span><br><span class='scene-font-kokoro'>強く……！ 手段を択ばず、</span><br><span class='scene-font-kokoro'>強くならなきゃいけないんだ……！）</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,ふぅん……？<br>こいつは──
+Japanese,scene_evt210226_cp1_q3_s10,detail,ユーリ,グウィン殿、なかなか腕が立つ……
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラ,ユーリ、年下に負けてないっすか？
+Japanese,scene_evt210226_cp1_q3_s10,detail,ユーリ,な……！？ そ、そんな事はないぞ！<br>親父と隊長に叩き込まれた剣術は<br>決して劣るものではない！
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラ,でも……なんとなくっすけど、<br>あの子の剣の振り方、<br>帝国式とは違うっすね。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ユーリ,グウィン殿の剣は、隊での運用を<br>前提としていない、個の攻め方……<br>という事だろうか。
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,<span class='scene-font-kokoro'>（あー……なるほどな）</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>グウィンの剣をいなしながら、</span><br><span class='scene-font-katari'>レンスの頭に考えが浮かぶ。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,<span class='scene-font-kokoro'>（ジジイの流派に似てんだな、</span><br><span class='scene-font-kokoro'>このガキの剣……）</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-4'>やあっ！</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,へへっ、甘いな！<br>ほれ、足払いだ！
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,痛……！<br>け、蹴った……！？
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,はっはっは！ 手も足も出さねえで<br>負けんのはもったいねえぞ！<br>……ってジジイが言ってたぜ？
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,<span class='scene-font-4'>このっ！</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,ビィ,頑張るなあ、あの嬢ちゃん。
+Japanese,scene_evt210226_cp1_q3_s10,detail,ルリア,ね、[플레이어]。<br>応援してあげましょう？
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>カシウスとアイザック救出のために</span><br><span class='scene-font-katari'>必要な、３体目の機神アリアネンサの</span><br><span class='scene-font-katari'>契約者となるべく修行するグウィン。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>月へと向かうピースのひとつが</span><br><span class='scene-font-katari'>その細腕にかかっているのだ。</span>
+Japanese,scene_evt210226_cp1_q3_s10,sel1_txt,,<span class='scene-font-katari'>がんばれー！</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,グウィン,…………！
+Japanese,scene_evt210226_cp1_q3_s10,detail,ファラ,おっさんも無理すんなっすよー！
+Japanese,scene_evt210226_cp1_q3_s10,detail,レンス,<span class='scene-font-4'>あぁ！？</span><br>ったく……！
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>現状、月へ向かうためのピースが</span><br><span class='scene-font-katari'>全て揃っているわけではない。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>いつ手に入るかもわからないそれを</span><br><span class='scene-font-katari'>待ちながら、一行は現状できるだけの</span><br><span class='scene-font-katari'>準備を進めるしかなかった。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>焦る気持ちを鎮め、あくまで</span><br><span class='scene-font-katari'>前向きでいようとするために、</span><br><span class='scene-font-katari'>少しだけ元気を振り絞る。</span>
+Japanese,scene_evt210226_cp1_q3_s10,detail,ヨダルラーハ,…………
+Japanese,scene_evt210226_cp1_q3_s10,detail,,<span class='scene-font-katari'>そんな[플레이어]達の姿を、</span><br><span class='scene-font-katari'>森に潜むヨダルラーハが</span><br><span class='scene-font-katari'>静かに見守っていた。</span>
+Japanese,scene_evt210226_cp1_q4_s10,synopsis,,日暮れまで鍛錬した後、グウィンは島の者達が立ち入らぬ地へ向かう。そこで待ち合わせていたのは「敵」のひとりグレイスだった。グウィンはグレイスの弟子であり、月からアイザックが送る記録媒体はグレイスからもたされたものだったのだ。グレイスと定期連絡のやりとりをして別れた後、グウィンは改めてアイザックとカシウスの救出を決意するのだった。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,はひ、はひ……っ……
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,へへ、ずいぶん頑張ったじゃねえか。<br>今日はここまでにすっか。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,あ、ありがとう、ございました……
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,おう。<br>屋台閉めた後なら、いつでも<br>相手してやっからよ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,,<span class='scene-font-katari'>日暮れ前まで手合わせは続き、</span><br><span class='scene-font-katari'>[플레이어]達とグウィンは</span><br><span class='scene-font-katari'>その場を後にした。</span>
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,剣が恋しくなったか、レンスよ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,<span class='scene-font-4'>うお！？</span><br><span class='scene-font-4'>ジ、ジジイ！？</span><br>お、お、お、驚かせんじゃねえ！
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,あまり気配を出せんもんでな。<br>気味が悪かろうが堪忍せい。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,……なあ。この島に<br>グレイスの姐さんがいるって噂、<br>マジなのか？
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,さあのう。<br>今のところ、あやつの姿は見えん。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,気味悪りぃのはそっちの方だぜ。<br>ンだって今んなってあちこちで<br>姐さんの噂聞くようになったんだ？
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,あるいは、グレイス自身が<br>触れ回っているのやもしれんの。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,なんのためにだよ？
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,はてさて、何を企んでいるものか。<br>聞くところによれば、<br>月と関係があるというが。
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,あやつの考えは、ついぞワシには<br>読めなんだ。しかし……
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,ロクな事ぁねえってのは確かだろうな。
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,……うむ。<br>お前さんと手合わせしとった<br>グウィンという娘っ子といい、のう。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,なあ、ジジイ。<br>やっぱ気づいたか？
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,まったく……<br>あれを見逃すほど耄碌しとらんわい。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,やっぱりかよ……<br>んで、追わねえって事は<br>しばらく泳がせとくのか？
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,うむ。後の先じゃ。<br>気づいとらんフリをして機を窺う。<br>みすみす逃すわけにもいかん。
+Japanese,scene_evt210226_cp1_q4_s10,detail,レンス,妙なところで孫弟子に会うもんだな。
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,孫弟子か。そうも言えよう。<br>グウィンとやらの剣はワシの流派。<br>それも、よりにもよって──
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ、こんにちは、グウィン。
+Japanese,scene_evt210226_cp1_q4_s10,detail,ヨダルラーハ,<span class='scene-font-gray'>グレイスの弟子とはのう。</span>
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,こんにちは、グレイス。
+Japanese,scene_evt210226_cp1_q4_s10,detail,,<span class='scene-font-katari'>島の者達が立ち入らぬ地で、</span><br><span class='scene-font-katari'>グレイスとグウィンは</span><br><span class='scene-font-katari'>待ち合わせていた。</span>
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ごめんなさいね、グウィン。<br>今日は渡せる記録媒体がないの。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,そっか。<br>セスラカの推進制御も<br>まだ見つかってないってことか。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ええ。きっとアイザックは<br>もう送ってくれたのだけど、<br>誰が受け取ったかはわからなくて。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,私のお友達に頼んで<br>方々に当たってもらっているから、<br>そのうち見つかるわ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,……うん。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ。浮かない顔。<br>どうしたのかな？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,「半人前は口を出すな」って<br>言われたの、まだ気にしてるの？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,ぐ……！<br>そ、それもあるけどさ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,グレイスが言ってたじゃん、<br>ヨダルラーハさんに教わってみろって。<br>今、都合が悪いみたいで。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,あらあら。<br>今も忙しい人なのねえ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,……え、顔見知り？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,うん？ 私のお師さんよ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,ヨダルラーハさんが？<br>……初めて聞いた。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ。そうだったかな？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,そうだよ。<br>強いわけだね。ヨダルラーハさんに<br>剣を教わってたなら。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,５、６年の付き合いだけど、<br>身の上話を初めて聞いたよ。<br>グレイスって何者なの？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,素性？ 貴方のお友達よ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,じゃあ、なんのために私の友達に<br>なろうと思ったの？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ひと目見て、<br>私達、似た者同士だなって思ったから。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,似た者同士ってだけで声をかけて、<br>私に剣を教えたの？<br>ほかに目的がないわけないよね。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ。もちろん。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,何が目的なの？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,世界平和。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ。本当よ？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,……うん。冗談に聞こえない。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,それも、あと一歩。<br>機関が本格的に動き始めた……<br>切り込むなら今ね。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,ねえ、大丈夫なの？<br>アイザックと、カシウスって人。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,それはわからないわねえ。<br>直接会ってみないと、白黒つかないわ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,でも、アイザックが<br>何度も通信を送ってきてるのは<br>ちょっと変ねぇ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,機関は極度の合理主義、だっけ？<br>助けを求める通信を、機関が<br>容認し続けてるのはおかしいよね。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ええ。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,……覚悟が必要？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,そうかも。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,私はそろそろ行くわね。<br>また、次の連絡の時に会いましょう？
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,あ、うん。また。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ。大事な事を忘れてた。<br>いつもの約束。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,グレイスの名前は出すな、でしょ？<br>わかってる。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グレイス,ふふ。よろしくね。<br>ばいばい。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,ばいばい。またね。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,…………
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,……なんとかして、契約者として<br>認められないと。
+Japanese,scene_evt210226_cp1_q4_s10,detail,アイザック,<span class='scene-font-gray'>……あんまりだ。</span><br><span class='scene-font-gray'>耐えられない。</span><br><span class='scene-font-gray'>誰か、助けてくれ……</span>
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,私が契約者にならなきゃ、<br>アイザックもカシウスも<br>助けに行けない。
+Japanese,scene_evt210226_cp1_q4_s10,detail,グウィン,……思い通りになんか、<br>させるもんか。
+Japanese,scene_evt210226_cp1_q4_s10,detail,,<span class='scene-font-katari'>小さな唇を強く結んで、</span><br><span class='scene-font-katari'>グウィンは歩き出す。</span>
