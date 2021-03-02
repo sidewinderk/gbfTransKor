@@ -103,7 +103,7 @@ orig,kr
 フィアンマ・ブルー,피안마・블루ー
 増幅状態に移行/即座にアビリティ再使用可能,증폭 상태로 전환/즉시 어빌리티 사용 가능
 ヴェローナの守護精霊,베로나의 수호 정령
-"<div class=""prt-text-small"">*ターン毎に英霊効果付与/ただし英霊効果がないとき攻撃力大幅DOWN　<span class=""text-blue"">◆英霊は通常攻撃で*消費</span></div>","<div class=""prt-text-small"">*턴마다 영령 효과 부여/그러나 영령 효과가 없을 때 공격력 대폭 DOWN　<span class=""text-blue"">◆영령은 통상 공격에 * 소비</span></div>"
+"<div class=""prt-text-small"">*ターン毎に英霊効果付与/ただし英霊効果がないとき攻撃力大幅DOWN　<span class=""text-blue"">◆英霊は通常攻撃で*消費</span></div>","<div class=""prt-text-small"">*턴마다 영령 효과 부여/그러나 영령 효과가 없을 때 공격력 대폭 DOWN　<span class=""text-blue"">◆영령은 일반공격에 * 소비</span></div>"
 英霊の加護,영령의 가호
 英霊効果時攻防UP,영령 효과 시 공방 UP
 
@@ -221,11 +221,11 @@ orig,kr
 ワン・トゥー・フリーフォール＋,원・투・프리폴＋
 "<div class=""prt-text-small"">敵全体に水属性ダメージ/攻防DOWN(累積)<br><span class=""text-blue"">◆コーヒーブレイク消費：*回発動</span></div>","<div class=""prt-text-small"">적 전체에게 수속성 데미지/공방 DOWN (누적)<br><span class=""text-blue"">◆커피 브레이크：*회 발동</span></div>"
 ランニングライツ,러닝 라이츠
-"<div class=""prt-text-small"">自分の連続攻撃確率UP/通常攻撃の与ダメージUP/水属性攻撃UP<br><span class=""text-blue"">◆コーヒーブレイク消費：効果を全体化</span></div>","<div class=""prt-text-small"">자신의 연속 공격 확률 UP/통상 공격 데미지 UP/수속성 공격 UP<br><span class=""text-blue"">◆커피 브레이크 소비：효과의 전체화</span></div>"
+"<div class=""prt-text-small"">自分の連続攻撃確率UP/通常攻撃の与ダメージUP/水属性攻撃UP<br><span class=""text-blue"">◆コーヒーブレイク消費：効果を全体化</span></div>","<div class=""prt-text-small"">자신의 연속 공격 확률 UP/일반공격 데미지 UP/수속성 공격 UP<br><span class=""text-blue"">◆커피 브레이크 소비：효과의 전체화</span></div>"
 想い出の味わい,추억의 맛
 "<div class=""prt-text-small"">弱体効果「睡眠」無効/*ターン毎に自分のHP回復/コーヒーブレイクを*付与</div>","<div class=""prt-text-small"">약체 효과 「수면」 무효/*턴 마다 자신의 HP 회복/커피 브레이크를 * 부여</div>"
 天司長のバカンス,천사장의 바캉스
-通常攻撃時にコーヒーブレイクを消費して水属性追撃効果,통상 공격 시 커피 브레이크를 소비해 수속성 추격 효과
+通常攻撃時にコーヒーブレイクを消費して水属性追撃効果,일반공격 시 커피 브레이크를 소비해 수속성 추격 효과
 
 
 !샤노와르(SSR)
@@ -389,7 +389,7 @@ orig,kr
 事象投影,사상 투영
 "水晶に事象を投影する　<span class=""text-blue"">◆映し出した色に応じて効果が変化</span>","수정에 사상을 투영　<span class=""text-blue"">◆비춘 색에 따라 효과가 변화</span>"
 未来予知,미래 예지
-味方全体が確率で敵の通常攻撃回避,아군 전체가 확률로 적의 통상 공격 회피
+味方全体が確率で敵の通常攻撃回避,아군 전체가 확률로 적의 일반공격 회피
 投影解放,투영해방
 投影された事象を解放する,투영된 사상을 해방한다
 
@@ -603,7 +603,7 @@ orig,kr
 オール・カミング＋＋,올・커밍＋＋
 味方の奥義ゲージを吸収して自分の奥義ゲージに変換/自分に高揚効果,아군의 오의 게이지를 흡수 해 자신의 오의 게이지로 변환/자신에게 고양 효과
 ザ・ワイルド＋,더・와일드＋
-ターン経過なしで通常攻撃を実行,턴 경과 없이 통상 공격을 실행
+ターン経過なしで通常攻撃を実行,턴 경과 없이 일반공격을 실행
 ノー・マーシー＋,노・머시＋
 "<div class=""prt-text-small"">自分のクリティカル確率UP/水属性追撃効果<br><span class=""text-blue"">◆タフガイ状態中フルメタル・ビィムを起動</span></div>","<div class=""prt-text-small"">자신의 크리티컬 확률 UP/수속성 추격 효과<br><span class=""text-blue"">◆터프가이 상태 중 풀메탈・빔을 기동</span></div>"
 オデッセイ,오디세이
@@ -692,7 +692,7 @@ orig,kr
 ディスラプション,디스럽션
 "<div class=""prt-text-small"">敵に*回水属性ダメージ/強化効果を*つ無効化　<span class=""text-blue"">◆玉水の刻印が*以上の時、*消費してこのアビリティが再度使用可能になる</span></div>","<div class=""prt-text-small"">적에게 *회 수속성 데미지/강화 효과를 *개 무효화　<span class=""text-blue"">◆옥수의 각인이 * 이상일 때, * 소비하여 이 어빌리티가 재사용 가능이 됨</span></div>"
 カワイイの神髄,귀여움의 진수
-水属性キャラが通常攻撃時にクリティカルが発動した場合、水属性追撃効果,"수속성 캐릭터가 통상 공격 시 크리티컬이 발동했다면, 수속성 추격 효과"
+水属性キャラが通常攻撃時にクリティカルが発動した場合、水属性追撃効果,"수속성 캐릭터가 일반공격 시 크리티컬이 발동했다면, 수속성 추격 효과"
 ビーチスタイルだよっ☆,비치 스타일이야 ☆
 "<div class=""prt-text-small"">水属性キャラがそれぞれの玉水の刻印の数に応じてクリティカル確率UP　<span class=""text-blue"">◆自分がサブメンバーにいる場合でも発動</span></div>","<div class=""prt-text-small"">수속성 캐릭터가 각각의 옥수의 각인의 수에 따라 크리티컬 확률 UP　<span class=""text-blue"">◆자신이 서브 멤버에 있을 때도 발동</span></div>"
 
