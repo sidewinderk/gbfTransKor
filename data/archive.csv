@@ -10728,14 +10728,14 @@ Lv** シルフ,Lv** 실프
 Lv** 組織兵,Lv** 조직의 병사
 Lv** 機神ヤチマ,Lv** 기신 야치마
 Lv** 機星獣・風雷,Lv** 기성수・풍뢰
-
-
-
-
-
-
-
-
+Lv?? カシウス？,Lv?? 카시우스？
+Lv?? 多脚型防衛戦闘機,Lv?? 다각형 방위 전투기
+充チル月
+裁キノ雷
+Lv** ファナ＆エルド,Lv** 파나＆엘드
+ここかなぁ……？,여긴가……？
+いただきまぁす……！,잘먹겠습니다……！
+いくよぉ……！！,간다……！！
 
 
 Lv** フロスト・クォーツ,Lv** 프로스트 쿼츠
@@ -19065,13 +19065,13 @@ Sレア以上の刀をエレメント化することで手に入ります。
 "価格:****<span class=""txt-coin"">モバコイン</span>                                        <input id=""discount_id"" type=""hidden"" name=""discount_id"" value="""">                                        <input id=""discount_type"" type=""hidden"" name=""discount_type"" value="""">","가격:****<span class=""txt-coin"">모바코인</span>					<input id=""discount_id"" type=""hidden"" name=""discount_id"" value="""">					<input id=""discount_type"" type=""hidden"" name=""discount_type"" value="""">"
 "価格:<span class=""txt-default-price"">***</span><span class=""txt-coin"">モバコイン</span>						<input id=""discount_id"" type=""hidden"" name=""discount_id"" value=""*"">						<input id=""discount_type"" type=""hidden"" name=""discount_type"" value=""*"">","가격:<span class=""txt-default-price"">***</span><span class=""txt-coin"">모바코인</span>						<input id=""discount_id"" type=""hidden"" name=""discount_id"" value=""*"">						<input id=""discount_type"" type=""hidden"" name=""discount_type"" value=""*"">"
 毎朝*時にリセットされます。<br>,매일 아침 *시에 리셋됩니다.<br>
-所持チケット:*枚,보유티켓: *장
-所持チケット:**枚,보유티켓: **장
-所持チケット:***枚,보유티켓: ***장
-所持チケット:****枚,보유티켓: ****장
-必要数:***宝晶石,필요수: ***보정석
-必要数:****宝晶石,필요수: ****보정석
-ガチャヘルプへ,가챠 헬프로
+所持チケット:*枚,보유티켓 : *장
+所持チケット:**枚,보유티켓 : **장
+所持チケット:***枚,보유티켓 : ***장
+所持チケット:****枚,보유티켓 : ****장
+必要数:***宝晶石,필요수 : *** 보정석
+必要数:****宝晶石,필요수 : **** 보정석
+ガチャヘルプへ,가챠 HELP로
 レア以上の武器や召喚石が出現する特別なガチャです。<br>取得した装備品やアイテムはプレゼントに送られます。,레어 이상의 무기와 소환석이 출현하는 특별한 가챠입니다.<br>획득하신 장비 및 아이템은 선물로 보내집니다.
 ・演出がスキップされた場合でもキャラ解放武器を入手していた場合、キャラを獲得しておりますので、編成をご確認ください。,"・연출이 건너뛰어졌을 경우에도 캐릭터 해방 무기를 입수한 경우, 캐릭터는 획득되므로 편성을 확인해 주십시오."
 ・同じキャラ解放武器を複数入手しても、同じキャラを重複して獲得することはできません。,"・같은 캐릭터 해방 무기를 복수 입수해도, 같은 캐릭터를 중복하여 획득할 수 없습니다."
