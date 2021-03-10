@@ -15163,6 +15163,13 @@ The Dragon Knights
 MVP報酬で<br>闇の戦貨を*枚獲得した!,MVP 보상으로<br>어둠의 전화를 *장 획득했다！
 MVP報酬で<br>闇の戦貨を**枚獲得した!,MVP 보상으로<br>어둠의 전화를 **장 획득했다！
 MVP報酬で<br>闇の戦貨を***枚獲得した!,MVP 보상으로<br>어둠의 전화를 ***장 획득했다！
+残り,앞으로
+RP・EXP*倍キャンペーン,RP・EXP*배 캠페인
+
+
+
+
+
 
 
 !프롤로그
@@ -16124,6 +16131,11 @@ Lv** 幽世の者,Lv** 유세의 존재
 特設ページへ,특설페이지
 好きなトコから削ってくれよな！,"<span class=""text-small"">원하는 부분부터 지워봐 !</span>"
 *つ揃うとアイテムが貰えるぜ！,"<span class=""text-small"">*개 모으면 아이템을 받을 수 있어 !</span>"
+当選アイテム,당첨 아이템
+スクラッチ履歴,스크래치 내역
+*th Anniversaryスクラッチへ,*th Anniversary 스크래치로
+*th Anniversaryスクラッチ,*th Anniversary 스크래치
+
 
 
 !7주년 기념 로그인
@@ -16450,7 +16462,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ上限 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 상한 +**%"
 
 通常攻撃時奥義ゲージ上昇,일반공격시 오의 게이지 상승
-
+*位,*위
 
 
 
@@ -17099,6 +17111,12 @@ EXLB解放アイテム,EXLB 해방 아이템
 所持数オーバー,소지수 초과
 所持数がいっぱいのため、<br>受け取ることができません。,소지수가 초과하여<br>받으실 수 없습니다
 売却,판매
+プレゼントリストへ,선물 리스트로
+
+
+
+
+
 
 !리스트
 "所持数<span class=""txt-possessed-weapon""></span>","소지수<span class=""txt-possessed-weapon""></span>"
