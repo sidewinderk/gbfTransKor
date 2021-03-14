@@ -11235,6 +11235,7 @@ Lv** フェンリル,Lv** 펜릴
 
 !아카룸 관련
 Lv** 光耀のボルカノン,Lv** 광요의 볼케이논
+Lv** カースドトレント,Lv** 커스드 트렌트
 !가웨인(SSR)
 [矜持の甲冑],[긍지의 갑주]
 ガウェイン,가웨인
@@ -14812,12 +14813,12 @@ I'm Back,I'm Back
 獲得条件<br>ポイント・ケルサス（HARD）輪廻峡*-*を踏破,획득조건<br>포인트・켈수스（HARD）윤회의 골짜기 *-*를 답파
 
 氷橋を駆け,얼음다리를 달려나간
-獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破
-獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破,獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破
+獲得条件：ポイント・ケルサス（HARD）氷橋*-*を踏破,획득조건：포인트・켈수스（HARD）얼음다리 *-*을 답파
+獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破,획득조건<br>포인트・켈수스（HARD）얼음다리 *-*을 답파
 
 飢餓道・高原地帯よりセフィラに挑む,굶주림의 길・고원지대에서 세피라에게 도전한
-獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破
-獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破,獲得条件<br>ポイント・ケルサス（HARD）氷橋*-*を踏破
+獲得条件：ポイント・ケルサス（HARD）セフィラ大平原*-*を踏破,획득조건：포인트・켈수스（HARD）세피라 대평원 *-*을 답파
+獲得条件<br>ポイント・ケルサス（HARD）セフィラ大平原*-*を踏破,획득조건<br>포인트・켈수스（HARD）세피라 대평원 *-*을 답파
 
 正義を裁きし者,정의를 재단하는 자
 獲得条件：難度NORMALで「ジャスティス」を撃破,획득조건：난이도 NORMAL에서「저스티스」를 격파
@@ -14833,7 +14834,7 @@ I'm Back,I'm Back
 
 節制をほどきし者,절제를 관둔 자
 獲得条件：難度NORMALで「テンペランス」を撃破,획득조건：난이도 NORMAL에서「템퍼런스」를 격파
-
+獲得条件<br>難度NORMALで「テンペランス」を撃破
 
 悪魔を堕としし者,악마를 홀린 자
 獲得条件：難度NORMALで「ザ・デビル」を撃破,획득조건：난이도 NORMAL에서「데빌」을 격파
@@ -18745,8 +18746,28 @@ BPは使用されませんでした,BP는 사용되지 않았습니다
 進行状況がリセットされました。,진행상황이 리셋되었습니다
 進行状況を記録し、探索を完了しました。,"진행상황을 기록하고, 탐색을 완료했습니다"
 アーカルムパスポートを使用することで<br>今回の続きから探索を開始できます。,아카룸 패스포트를 사용하여<br>이후의 탐색을 개시할 수 있습니다
-"<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        この場所に移動します<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동합니다<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
-"<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        この場所に移動します<br>                                                        TP *** → <span class=""txt-attention"">***</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			이 장소로 이동합니다<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">이동한다</div>					</div>	</div>	<div class=""prt-frame-foot""></div>"
+"この場所に移動します<br>                                                        TP *** → <span class=""txt-attention"">***</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","이 장소로 이동합니다<br>                                                        TP *** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
+"この場所に移動します<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","이 장소로 이동합니다<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">이동한다</div>					</div>	</div>	<div class=""prt-frame-foot""></div>"
+
+!아카룸 등장 마물
+光耀のボルカノン,광요의  볼케이논
+カースドトレント,커스드 트렌트
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !아카룸 목표
 クリア条件なし,클리어 조건 없음
@@ -18798,7 +18819,7 @@ BPは使用されませんでした,BP는 사용되지 않았습니다
 枕木がところどころ<br>欠けている,침목이 군데군데<br>파여 있다
 天井から吊られた<br>ロープが揺れている,천장에 매달린<br>로프가 흔들리고 있다
 鳥の群れが飛び去っていく,새들이 날아다니고 있다
-
+木々が風に吹かれて<br>揺れている,나무들이 바람에<br>흔들리고 있다
 
 
 !전화

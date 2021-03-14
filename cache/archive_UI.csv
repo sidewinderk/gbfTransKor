@@ -1954,8 +1954,28 @@ BPは使用されませんでした,BP는 사용되지 않았습니다
 進行状況がリセットされました。,진행상황이 리셋되었습니다
 進行状況を記録し、探索を完了しました。,"진행상황을 기록하고, 탐색을 완료했습니다"
 アーカルムパスポートを使用することで<br>今回の続きから探索を開始できます。,아카룸 패스포트를 사용하여<br>이후의 탐색을 개시할 수 있습니다
-"<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        この場所に移動します<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동합니다<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
-"<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        この場所に移動します<br>                                                        TP *** → <span class=""txt-attention"">***</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			이 장소로 이동합니다<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">이동한다</div>					</div>	</div>	<div class=""prt-frame-foot""></div>"
+"この場所に移動します<br>                                                        TP *** → <span class=""txt-attention"">***</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","이 장소로 이동합니다<br>                                                        TP *** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
+"この場所に移動します<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","이 장소로 이동합니다<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">이동한다</div>					</div>	</div>	<div class=""prt-frame-foot""></div>"
+
+!아카룸 등장 마물
+光耀のボルカノン,광요의  볼케이논
+カースドトレント,커스드 트렌트
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !아카룸 목표
 クリア条件なし,클리어 조건 없음
@@ -2007,7 +2027,7 @@ BPは使用されませんでした,BP는 사용되지 않았습니다
 枕木がところどころ<br>欠けている,침목이 군데군데<br>파여 있다
 天井から吊られた<br>ロープが揺れている,천장에 매달린<br>로프가 흔들리고 있다
 鳥の群れが飛び去っていく,새들이 날아다니고 있다
-
+木々が風に吹かれて<br>揺れている,나무들이 바람에<br>흔들리고 있다
 
 
 !전화
