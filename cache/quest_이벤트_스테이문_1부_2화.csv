@@ -1,148 +1,148 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt210226_cp2_q1_s20,synopsis,,グウィンがレンスの手ほどきを受けた翌日。[플레이어]達がレンスの屋台で話していると、突然グレイスが現れ攻撃を仕掛けてくる。ヨダルラーハが割り込みグレイスと戦いを繰り広げるが、さらに「月への道標」を求める幽世の者達が、グレイスを追って現れる。機神に化けた幽世の者達に一行が囲まれた時、ゼタ、バザラガ、ベアトリクス、そして機神グロウノスが駆け付けるのだった。
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>グウィンがレンスの手ほどきを受けた</span><br><span class='scene-font-katari'>その翌日。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……そうか。<br>艇の建設は順調に終わりそうか。<br>なによりだ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,まあ、あくまでガワだけですけど。<br>動力になる機神の仕組みを、<br>まだ私はあまりわかってないので。
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,アイザックから送られてきた<br>設計図を書き出すのも<br>時間がかかるからな……
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,おまけに記述は複雑怪奇だ。<br>片手間に読むわけにもいかんだろう。
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,そですね……<br>おまけにすごい量あるので。
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,あ、でもですね。ひとつ<br>思いついたんです。ユーステス君が<br>言ってた、リスクの軽減方法。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,……なに？
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>するとマキラは、山になった研究資料を</span><br><span class='scene-font-katari'>かきわけ、いくつかのファイルを</span><br><span class='scene-font-katari'>拾い上げる。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,機神を動力化するにあたって、<br>アイザック君もいろいろと<br>研究していたみたいで。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,続けてくれ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,ええと……<br>すみっこの<br>走り書きにあったんですけど。
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,<span class='scene-font-italic scene-font-blue'>「覚醒→神経順応レベルの閾値超え」</span><br><span class='scene-font-italic scene-font-blue'>「閾値超で精神共鳴反応」</span><span class='scene-font-italic scene-font-blue'>「共鳴距離は</span><br><span class='scene-font-italic scene-font-blue'>長く、月での遠隔運用が可能？」</span>と。
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……神経順応？
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,精神共鳴……
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,私も最初は何が書いてあるのか<br>さっぱりだったんですけど……
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,あ、バザラガ君。<br>ちょっといいです？
-Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,む……
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,ええと、実験したくてですね。
-Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,……ああ、構わんが。
-Japanese,scene_evt210226_cp2_q1_s20,detail,<span class='scene-font-1'>イルザ・ユーステス</span>,…………
-Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,神経順応と精神共鳴の結果、<br>何が起こるか、見てみようと<br>思います。
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……残る課題は、<br>セスラカの推進制御の入手と、<br>アリアネンサ絡みの解決か。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,例の半人前は？
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,[플레이어]達と稽古だそうだ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,そうか。
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,封印武器との契約は危険が伴う。<br>果たして、この短期間で十分に力をつけ<br>契約者たりうるかどうか。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,半端な力で契約すれば、<br>ヤツも無事では済まん。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,次の候補者を探すだけの時間はない。<br>慎重に頼む。
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,お互いにな。
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……さて。
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>マキラから渡された機神研究の報告書を</span><br><span class='scene-font-katari'>眺めるイルザ。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,私は、遠隔操縦とやらの準備も<br>進めておくとしよう。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유리,…………
-Japanese,scene_evt210226_cp2_q1_s20,detail,파라,…………
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,ンだよお前ら、ここ来るなり<br>たるんだ顔しやがって。
-Japanese,scene_evt210226_cp2_q1_s20,detail,유리,し、失礼しました！<br>すべきことはあれど、<br>できることがなく……
-Japanese,scene_evt210226_cp2_q1_s20,detail,파라,艇の組み立てが<br>大方終わっちゃったっすからね。
-Japanese,scene_evt210226_cp2_q1_s20,detail,비,どうしようもねえのはわかってても、<br>なかなか堪えるな、この状況……
-Japanese,scene_evt210226_cp2_q1_s20,detail,루리아,はい……<br>なんていうか、歯がゆいですね。
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>月へ行く手段は足りず、</span><br><span class='scene-font-katari'>アイザックからの通信もないため、</span><br><span class='scene-font-katari'>月の状況はわからない。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>仲間に危機が迫っているのは確かで、</span><br><span class='scene-font-katari'>しかし何もできることがなく。</span><br><span class='scene-font-katari'>疲労が蓄積しはじめていた。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,んじゃあ、そこのチビと一緒に<br>俺様が稽古つけてやろうか。<br>なんもしねえよりマシだろ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,もぐもぐ……
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,で、どうだチビ。<br>俺様から一本取れそうか？
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,もが。
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,へえ……自信ありそうじゃねえか。<br>稽古に備えてたっぷり食っとけよ？
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,もぐもぐ……
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,お前らも、シケたツラしてねえで<br>腹になんか入れとけ。<br>大盛りにしてやっからよ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,女性の声,すみません、一杯もらえるかしら？
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,らっしゃい、タレの味は──
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら奇遇。<br>久しぶりね、レンス君。
-Japanese,scene_evt210226_cp2_q1_s20,detail,Side.W達,…………！！！
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,あ……あァ！？ 姐さん！？
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら、どうしたの？ そんな顔して。<br>ばったり会うと思わなかった？
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,ど……どし……
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ふふ。どうしてかな。<br>貴方達がお月様に行くと<br>私達が困っちゃうの。
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>グウィンに小さく笑みを向け、</span><br><span class='scene-font-katari'>口を開かぬよう促すグレイス。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,だから色々動いてて。大変。<br>それでね、お腹すいちゃって──
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,…………！！
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら、お師さんまで！
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,<span class='scene-font-4'>てめえら伏せろ！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,Side.W達,<span class='scene-font-4'>ひっ……！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,ち……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,相変わらず目端が利くのう、グレイス。
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ふふ……お久しぶりです。<br>何年振りかしら？
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,<span class='scene-font-4'>ここで会ったが百年目よ！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,비,な、な、なんだってんだいきなりよ！
-Japanese,scene_evt210226_cp2_q1_s20,detail,루리아,びっくりしました……<br>あ、あんなヨダルラーハさん……
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ね、お師さん。<br>お願いがあるのだけれど。
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,ならばあの世で聞こう！
-Japanese,scene_evt210226_cp2_q1_s20,detail,파라,あんな老師、<br>は……初めて見たっす……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,유리,[플레이어]殿、ここは離れましょう！<br>どちらに巻き込まれるか！
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,<span class='scene-font-kokoro'>（グレイス……！？</span><br><span class='scene-font-kokoro'>なんで……）</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,<span class='scene-font-4'>ボサっとすんなチビ！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,あっ……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あらあら。<br>もう、みんな怖がってるじゃない。<br>お師さんがそんな顔するからよ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,ワシにはお前の首しか見えん。<br>神妙にせい。
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ね、そんなことよりお師さん。<br>力を貸してもらえない？
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,<span class='scene-font-4'>ぬあぁッ！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あのね、私も──
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,く……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,私も色々大変なの。<br>命を狙われてて。
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,……そりゃあ命も狙われよう。<br>その糸で何人を斬った、<br>グレイス。
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,うん？ 必要なぶんだけよ？
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,…………
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,でも死んでしまった人は戻らないわ。<br>大事なのはもっと別のことよ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら。<br>追いつかれちゃった。
-Japanese,scene_evt210226_cp2_q1_s20,detail,？？？,…………
-Japanese,scene_evt210226_cp2_q1_s20,detail,비,あ、ありゃあまさか……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,루리아,<span class='scene-font-4'>機神さん……！？</span><br>あ、あんなにたくさん……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あとの事はお願いね、<br>[플레이어]さん。
-Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,逃がさんぞグレイス！
-Japanese,scene_evt210226_cp2_q1_s20,detail,機神？,ムゥゥゥ……
-Japanese,scene_evt210226_cp2_q1_s20,detail,機神？,<span class='scene-font-4'>オオオオオオオッ！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,유리,<span class='scene-font-4'>うおっ！？</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,機神？,あの女の仲間か、お前達は……<br>ならば約束通り我らに差し出せ……
-Japanese,scene_evt210226_cp2_q1_s20,detail,機神？,<span class='scene-font-4'>月への道標をなァァ……！！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,つ、月への……！？
-Japanese,scene_evt210226_cp2_q1_s20,detail,機神？,しらを切ったところで無駄よ……
-Japanese,scene_evt210226_cp2_q1_s20,detail,機神？,貴様らを幽世に落とせば<br>その記憶、我らのものとなるのだ……
-Japanese,scene_evt210226_cp2_q1_s20,detail,비,こ……こいつら<br>幽世の連中だって！？<br>機神に化けてんのか！？
-Japanese,scene_evt210226_cp2_q1_s20,detail,파라,ず、ずいぶんたくさん<br>出てきたっすね……！
-Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,囲まれちまってんな……<br>どうにか逃げ道を──
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>──その時。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,な……これは……！？
-Japanese,scene_evt210226_cp2_q1_s20,detail,グロウノス,ﾁｶｶﾁｿﾉ ﾓﾁﾐｲﾅﾋｲｽ ﾄﾅｿｿｲﾄﾄﾊﾅﾘ.
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>黒い機神が突如として現れ、</span><br><span class='scene-font-katari'>爆炎で幽世の者達を焼き払った。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,グロウノス,ﾐｲﾅｽﾁﾘ ｿﾗﾐﾐｲｿｶﾆﾗﾐ ﾅﾐﾄｶﾁｺﾘｲ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｶﾆﾓｲﾗﾅｶ ｲｽｽﾗｽ ﾁﾊｶｲｽ 3 ﾁｶｶｲﾓｾｶﾄ. ﾄｸﾅｶｶﾆﾐｷ ｼﾗﾃﾐ.
-Japanese,scene_evt210226_cp2_q1_s20,detail,グロウノス,────……
-Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>そして、その動作は停止した。</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,제타,<span class='scene-font-4'>アルベス！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,베아트릭스,<span class='scene-font-4'>食らえええええっ！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,제타,お待たせ、みんな。
-Japanese,scene_evt210226_cp2_q1_s20,detail,베아트릭스,ふふん。もう安心していいぞ！
-Japanese,scene_evt210226_cp2_q1_s20,detail,비,姉ちゃん達！<br>どうしたんだその恰好！
-Japanese,scene_evt210226_cp2_q1_s20,detail,제타,いいでしょ。これはね──
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,封印武器との共鳴を<br>高めるものか。
-Japanese,scene_evt210226_cp2_q1_s20,detail,제타,……は？ なんでそれを？
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,目的は違えど、手段は同じという事よ。<br>我らと貴様らのな。
-Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,<span class='scene-font-4'>ぬうん！</span>
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,ち……！
+Japanese,scene_evt210226_cp2_q1_s20,synopsis,,グウィンがレンスの手ほどきを受けた翌日。[플레이어]達がレンスの屋台で話していると、突然グレイスが現れ攻撃を仕掛けてくる。ヨダルラーハが割り込みグレイスと戦いを繰り広げるが、さらに「月への道標」を求める幽世の者達が、グレイスを追って現れる。機神に化けた幽世の者達に一行が囲まれた時、ゼタ、バザラガ、ベアトリクス、そして機神グロウノスが駆け付けるのだった。,"그윈이 렌스의 수련을 받은 다음날. [플레이어] 일행이 렌스의 포장마차에서 이야기하고 있는데, 갑자기 그레이스가 나타나 공격을 가한다. 요달라하가 끼어들어 그레이스와 싸움을 벌이지만 다시 달로 가는 방법을 찾는 유세의 자들이 그레이스를 따라 나타난다. 기신으로 변장한 유세의 자들에게 일행이 둘러싸였을 때 제타, 바자라가, 베아트릭스, 그리고 기신 그로노스가 달려오는 것이었다."
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>グウィンがレンスの手ほどきを受けた</span><br><span class='scene-font-katari'>その翌日。</span>,<span class='scene-font-katari'>그윈이 렌스와 대련한 다음날이었다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……そうか。<br>艇の建設は順調に終わりそうか。<br>なによりだ。,...그래. 배의 건조는 순조롭게 끝날 것 같다고? 다행이군.
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,まあ、あくまでガワだけですけど。<br>動力になる機神の仕組みを、<br>まだ私はあまりわかってないので。,"뭐, 어디까지나 겉부분 뿐이지만요. 저는 동력이 되는 기신의 구조에 대해서는 아직 잘 모르거든요."
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,アイザックから送られてきた<br>設計図を書き出すのも<br>時間がかかるからな……,아이작이 보낸 설계도를 정서하는 데에도 시간이 걸리니 어쩔 수 없지.
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,おまけに記述は複雑怪奇だ。<br>片手間に読むわけにもいかんだろう。,게다가 기술된 내용은 복잡하고 기괴하기 짝이 없어. 가볍게 훑어보기도 힘들지 않나.
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,そですね……<br>おまけにすごい量あるので。,그렇죠... 심지어 양도 엄청나고요.
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,あ、でもですね。ひとつ<br>思いついたんです。ユーステス君が<br>言ってた、リスクの軽減方法。,"아, 그래도 하나 생각난 게 있어요. 유스테스 군이 말한, 리스크를 경감하는 방법이요."
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,……なに？,...뭐라고?
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>するとマキラは、山になった研究資料を</span><br><span class='scene-font-katari'>かきわけ、いくつかのファイルを</span><br><span class='scene-font-katari'>拾い上げる。</span>,<span class='scene-font-katari'>그러자 마키라는 산처럼 쌓인 연구자료를 헤집더니 몇 개의 파일을 집어들었다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,機神を動力化するにあたって、<br>アイザック君もいろいろと<br>研究していたみたいで。,"기신을 동력화하는 데에 있어서, 아이작 군도 여러 가지로 연구를 하고 있었던 모양이더라고요."
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,続けてくれ。,계속 말해 봐라.
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,ええと……<br>すみっこの<br>走り書きにあったんですけど。,으음... 구석에 날려 쓴 필기가 있었는데요.
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,<span class='scene-font-italic scene-font-blue'>「覚醒→神経順応レベルの閾値超え」</span><br><span class='scene-font-italic scene-font-blue'>「閾値超で精神共鳴反応」</span><span class='scene-font-italic scene-font-blue'>「共鳴距離は</span><br><span class='scene-font-italic scene-font-blue'>長く、月での遠隔運用が可能？」</span>と。,<span class='scene-font-italic scene-font-blue'>「각성→신경 순응 레벨의 역치 초월」</span><br><span class='scene-font-italic scene-font-blue'>「역치 초월에 따른 정신 공명 반응」</span><span class='scene-font-italic scene-font-blue'>「공명거리가 길기 때문에 달에서의 원거리 운용 가능?」</span>이라고요.
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……神経順応？,...신경 순응?
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,精神共鳴……,정신 공명...
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,私も最初は何が書いてあるのか<br>さっぱりだったんですけど……,저도 처음에는 무슨 말이 쓰여있는 건지 전혀 알 수가 없었는데요...
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,あ、バザラガ君。<br>ちょっといいです？,"아, 바자라가 군. 잠깐 괜찮을까요?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,む……,음...?
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,ええと、実験したくてですね。,그... 실험을 해 보고 싶은데요.
+Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,……ああ、構わんが。,...그래. 상관없다.
+Japanese,scene_evt210226_cp2_q1_s20,detail,<span class='scene-font-1'>이루자・유스테스</span>,…………,…………
+Japanese,scene_evt210226_cp2_q1_s20,detail,마키라,神経順応と精神共鳴の結果、<br>何が起こるか、見てみようと<br>思います。,신경 순응과 정신 공명의 결과로 무슨 일이 일어나는지 한번 볼까 해요.
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……残る課題は、<br>セスラカの推進制御の入手と、<br>アリアネンサ絡みの解決か。,"...남은 문제는 세스라카의 추진 제어 알고리즘 입수, 그리고 아리아넨사 관련 문제를 해결하는 건가."
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,例の半人前は？,그 되다 만 녀석은?
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,[플레이어]達と稽古だそうだ。,[플레이어] 일행과 수련하는 듯하더군.
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,そうか。,그래.
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,封印武器との契約は危険が伴う。<br>果たして、この短期間で十分に力をつけ<br>契約者たりうるかどうか。,봉인무기와의 계약에는 위험이 뒤따른다. 과연 이 단기간에 충분히 힘을 길러 계약자가 될 수 있을지 어떨지.
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,半端な力で契約すれば、<br>ヤツも無事では済まん。,어중간한 힘으로 계약한다면 녀석도 무사하지 못할 거야.
+Japanese,scene_evt210226_cp2_q1_s20,detail,유스테스,次の候補者を探すだけの時間はない。<br>慎重に頼む。,다음 후보자를 찾을 정도의 시간은 없으니 신중하길 부탁한다.
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,お互いにな。,피차 마찬가지지.
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,……さて。,...그럼.
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>マキラから渡された機神研究の報告書を</span><br><span class='scene-font-katari'>眺めるイルザ。</span>,<span class='scene-font-katari'>이루자는 마키라가 넘겨준 기신 연구 보고서를 바라보았다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,이루자,私は、遠隔操縦とやらの準備も<br>進めておくとしよう。,내 쪽에서는 원격 조종이라는 것의 준비도 진행해 두겠다.
+Japanese,scene_evt210226_cp2_q1_s20,detail,유리,…………,…………
+Japanese,scene_evt210226_cp2_q1_s20,detail,파라,…………,…………
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,ンだよお前ら、ここ来るなり<br>たるんだ顔しやがって。,"뭐야, 너희들. 여기 올 때마다 표정 풀어져가지고."
+Japanese,scene_evt210226_cp2_q1_s20,detail,유리,し、失礼しました！<br>すべきことはあれど、<br>できることがなく……,"시, 실례했습니다! 해야 하는 일은 있지만, 할 수 있는 일이 없어서..."
+Japanese,scene_evt210226_cp2_q1_s20,detail,파라,艇の組み立てが<br>大方終わっちゃったっすからね。,배를 만드는 일이 거의 다 끝나버렸거든요.
+Japanese,scene_evt210226_cp2_q1_s20,detail,비,どうしようもねえのはわかってても、<br>なかなか堪えるな、この状況……,"어쩔 수 없다는 건 알고 있지만 이 상황, 꽤 답답하네..."
+Japanese,scene_evt210226_cp2_q1_s20,detail,루리아,はい……<br>なんていうか、歯がゆいですね。,"맞아요... 뭐라고 할까, 안타까워요."
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>月へ行く手段は足りず、</span><br><span class='scene-font-katari'>アイザックからの通信もないため、</span><br><span class='scene-font-katari'>月の状況はわからない。</span>,<span class='scene-font-katari'>달에 가기 위한 수단은 아직 부족하지만 아이작에게서 오던 통신이 끊겨서 달이 어떤 상황인지 알 수 없었다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>仲間に危機が迫っているのは確かで、</span><br><span class='scene-font-katari'>しかし何もできることがなく。</span><br><span class='scene-font-katari'>疲労が蓄積しはじめていた。</span>,"<span class='scene-font-katari'>동료에게 위험이 닥쳤다는 것은 자명하나 아무것도 할 수 있는 일이 없다는, 그런 종류의 피로가 축적되기 시작하고 있었다.</span>"
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,んじゃあ、そこのチビと一緒に<br>俺様が稽古つけてやろうか。<br>なんもしねえよりマシだろ。,그럼 이 몸께서 저기 꼬맹이랑 같이 단련시켜 줄까? 아무것도 안 하는 것보단 낫잖아.
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,もぐもぐ……,우물우물...
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,で、どうだチビ。<br>俺様から一本取れそうか？,"어때, 꼬맹아. 이 몸한테 한 방 날릴 수 있을 것 같아?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,もが。,우물.
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,へえ……自信ありそうじゃねえか。<br>稽古に備えてたっぷり食っとけよ？,오호... 자신있어 보이는데? 단련에 대비해서 잔뜩 먹어 둬라.
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,もぐもぐ……,우물우물...
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,お前らも、シケたツラしてねえで<br>腹になんか入れとけ。<br>大盛りにしてやっからよ。,너희도 시원찮은 표정 집어치우고 배에 뭐라도 넣어 둬. 곱빼기로 줄 테니까.
+Japanese,scene_evt210226_cp2_q1_s20,detail,여성의 목소리,すみません、一杯もらえるかしら？,"저기요, 한 그릇 주실래요?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,らっしゃい、タレの味は──,"어서 옵셔, 소스 맛ㅇ..."
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら奇遇。<br>久しぶりね、レンス君。,"어머, 우연이다. 오랜만이야, 렌스 군."
+Japanese,scene_evt210226_cp2_q1_s20,detail,[플레이어]일행,…………！！！,…………！！！
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,あ……あァ！？ 姐さん！？,누... 누님!?
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら、どうしたの？ そんな顔して。<br>ばったり会うと思わなかった？,"어머, 표정이 왜 그래? 이렇게 갑자기 만날 줄 몰랐어?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,ど……どし……,"어, 어째ㅅ..."
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ふふ。どうしてかな。<br>貴方達がお月様に行くと<br>私達が困っちゃうの。,"후후, 어째서 왔을까? 당신들이 달에 가면 우리가 곤란하거든."
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>グウィンに小さく笑みを向け、</span><br><span class='scene-font-katari'>口を開かぬよう促すグレイス。</span>,<span class='scene-font-katari'>그레이스는 그윈을 향해 작게 미소지으며 입을 열지 못하게끔 압력을 주었다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,だから色々動いてて。大変。<br>それでね、お腹すいちゃって──,덕분에 이런저런 일 처리하느라 힘들어. 그랬더니 배가 고프길래...
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,…………！！,…………！！
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら、お師さんまで！,"어머, 스승님까지!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,<span class='scene-font-4'>てめえら伏せろ！</span>,"<span class='scene-font-4'>얘들아, 엎드려!</span>"
+Japanese,scene_evt210226_cp2_q1_s20,detail,[플레이어]일행,<span class='scene-font-4'>ひっ……！</span>,<span class='scene-font-4'>히익...!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,ち……！,쳇...!
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,相変わらず目端が利くのう、グレイス。,"여전히 눈치가 빠르구나, 그레이스."
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ふふ……お久しぶりです。<br>何年振りかしら？,후후... 오랜만이에요. 오늘 무슨 날인가?
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,<span class='scene-font-4'>ここで会ったが百年目よ！</span>,<span class='scene-font-4'>네 목숨 받아갈 날이다!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,비,な、な、なんだってんだいきなりよ！,"뭐, 뭔데 뭐야 갑자기!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,루리아,びっくりしました……<br>あ、あんなヨダルラーハさん……,"까, 깜짝 놀랐어요. 요달라하 씨의 저런 모습이라니..."
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ね、お師さん。<br>お願いがあるのだけれど。,"저기, 스승님. 부탁이 있는데."
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,ならばあの世で聞こう！,그럼 저 세상에서 들으마!
+Japanese,scene_evt210226_cp2_q1_s20,detail,파라,あんな老師、<br>は……初めて見たっす……！,"사, 사부께서 저러시는 건 처음 봤어요...!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,유리,[플레이어]殿、ここは離れましょう！<br>どちらに巻き込まれるか！,"[플레이어]님, 일단 떨어지죠! 어느 쪽에 휘말릴지 모릅니다!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,<span class='scene-font-kokoro'>（グレイス……！？</span><br><span class='scene-font-kokoro'>なんで……）</span>,<span class='scene-font-gray'>(그레이스..? 어째서...)</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,<span class='scene-font-4'>ボサっとすんなチビ！</span>,"<span class='scene-font-4'>꼬맹아, 멍때리지 마!</span>"
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,あっ……！,아...!
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あらあら。<br>もう、みんな怖がってるじゃない。<br>お師さんがそんな顔するからよ。,어머나. 스승님이 그런 표정을 지으니까 다들 겁먹었잖아.
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,ワシにはお前の首しか見えん。<br>神妙にせい。,나한테는 네 목밖에 안 보인다. 얌전히 있어라.
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,ね、そんなことよりお師さん。<br>力を貸してもらえない？,"저기, 스승님. 그보다 좀 도와줄 수 있어?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,<span class='scene-font-4'>ぬあぁッ！</span>,<span class='scene-font-4'>하아앗!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あのね、私も──,"있잖아, 나도──"
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,く……！,큭...!
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,私も色々大変なの。<br>命を狙われてて。,나도 여러가지로 난감해졌거든. 내 목숨 노리는 녀석들도 있고.
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,……そりゃあ命も狙われよう。<br>その糸で何人を斬った、<br>グレイス。,"...그야 노려질 만도 하지. 지금까지 그 실로 몇 명이나 베었냐, 그레이스."
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,うん？ 必要なぶんだけよ？,응? 꼭 필요한 만큼만 베었는데.
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,…………,…………
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,でも死んでしまった人は戻らないわ。<br>大事なのはもっと別のことよ。,하지만 이미 죽은 사람은 돌아오지 않아. 중요한 문제는 따로 있지.
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あら。<br>追いつかれちゃった。,"어머, 따라잡혔네."
+Japanese,scene_evt210226_cp2_q1_s20,detail,？？？,…………,…………
+Japanese,scene_evt210226_cp2_q1_s20,detail,비,あ、ありゃあまさか……！,"저, 저건 설마...!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,루리아,<span class='scene-font-4'>機神さん……！？</span><br>あ、あんなにたくさん……！,"<span class='scene-font-4'>기신...!?</span> 저, 저렇게 많이...!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,그레이스,あとの事はお願いね、<br>[플레이어]さん。,"남은 일은 부탁할게, [플레이어]님."
+Japanese,scene_evt210226_cp2_q1_s20,detail,요달라하,逃がさんぞグレイス！,"그레이스, 어딜 도망치나!"
+Japanese,scene_evt210226_cp2_q1_s20,detail,기신?,ムゥゥゥ……,무우우...
+Japanese,scene_evt210226_cp2_q1_s20,detail,기신?,<span class='scene-font-4'>オオオオオオオッ！</span>,<span class='scene-font-4'>오오오오!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,유리,<span class='scene-font-4'>うおっ！？</span>,<span class='scene-font-4'>으악!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,기신?,あの女の仲間か、お前達は……<br>ならば約束通り我らに差し出せ……,너희들은 그 여자의 동료인가... 그렇다면 약속대로 우리에게 내놓거라...
+Japanese,scene_evt210226_cp2_q1_s20,detail,기신?,<span class='scene-font-4'>月への道標をなァァ……！！</span>,<span class='scene-font-4'>달을 향한 방법을...!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,그윈,つ、月への……！？,"다, 달로 가는...?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,기신?,しらを切ったところで無駄よ……,모르는 척해도 소용없다...
+Japanese,scene_evt210226_cp2_q1_s20,detail,기신?,貴様らを幽世に落とせば<br>その記憶、我らのものとなるのだ……,너희를 유세에 떨어뜨리면 그 기억도 우리 것이 되니...
+Japanese,scene_evt210226_cp2_q1_s20,detail,비,こ……こいつら<br>幽世の連中だって！？<br>機神に化けてんのか！？,"이, 이 자식들 유세 녀석들인가? 기신으로 변한 거야?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,파라,ず、ずいぶんたくさん<br>出てきたっすね……！,엄청 많이 튀어나왔네요...!
+Japanese,scene_evt210226_cp2_q1_s20,detail,렌스,囲まれちまってんな……<br>どうにか逃げ道を──,포위당했어... 어떻게든 도망칠 길을 ㅊ──
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>──その時。</span>,<span class='scene-font-katari'>──그때였다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,な……これは……！？,이... 이건!?
+Japanese,scene_evt210226_cp2_q1_s20,detail,그로우노스,ﾁｶｶﾁｿﾉ ﾓﾁﾐｲﾅﾋｲｽ ﾄﾅｿｿｲﾄﾄﾊﾅﾘ.,Cattka anemvure cessucsluf.
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>黒い機神が突如として現れ、</span><br><span class='scene-font-katari'>爆炎で幽世の者達を焼き払った。</span>,<span class='scene-font-katari'>갑자기 검은 기신이 튀어나오더니 폭염을 내뿜으며 유세의 존재들을 불태웠다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,그로우노스,ﾐｲﾅｽﾁﾘ ｿﾗﾐﾐｲｿｶﾆﾗﾐ ﾅﾐﾄｶﾁｺﾘｲ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｶﾆﾓｲﾗﾅｶ ｲｽｽﾗｽ ﾁﾊｶｲｽ 3 ﾁｶｶｲﾓｾｶﾄ. ﾄｸﾅｶｶﾆﾐｷ ｼﾗﾃﾐ.,Reluan niononcect satunbel. Ernoncectgin. Ernoncectgin. Ernoncectgin. Muetuto rerro aterf 3 sapttemt. Tushgint wond.
+Japanese,scene_evt210226_cp2_q1_s20,detail,그로우노스,────……,────……
+Japanese,scene_evt210226_cp2_q1_s20,detail,,<span class='scene-font-katari'>そして、その動作は停止した。</span>,<span class='scene-font-katari'>그리고 동작을 멈췄다.</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,제타,<span class='scene-font-4'>アルベス！</span>,<span class='scene-font-4'>알베스!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,베아트릭스,<span class='scene-font-4'>食らえええええっ！</span>,<span class='scene-font-4'>먹어라!!!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,제타,お待たせ、みんな。,"다들, 기다렸지?"
+Japanese,scene_evt210226_cp2_q1_s20,detail,베아트릭스,ふふん。もう安心していいぞ！,헤헹. 이제 안심해도 돼!
+Japanese,scene_evt210226_cp2_q1_s20,detail,비,姉ちゃん達！<br>どうしたんだその恰好！,누님들! 그 옷은 뭐야?
+Japanese,scene_evt210226_cp2_q1_s20,detail,제타,いいでしょ。これはね──,괜찮지? 이건──
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,封印武器との共鳴を<br>高めるものか。,봉인무기와의 공명을 높여주는 물건인가.
+Japanese,scene_evt210226_cp2_q1_s20,detail,제타,……は？ なんでそれを？,...어? 어떻게 그걸?
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,目的は違えど、手段は同じという事よ。<br>我らと貴様らのな。,"너희나 우리나, 목적은 다르나 수단은 같다는 뜻이다."
+Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,<span class='scene-font-4'>ぬうん！</span>,<span class='scene-font-4'>흐음!</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,ち……！,쳇...!
 Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,一歩遅れた。<br>皆、無事で何よりだ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,ほう、ほう、ほう……！<br>先の機神はお前が操ったか！<br>そこまで！ ほぉ！
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,ほう、ほう、ほう……！<br>先の機神はお前が操ったか！<br>そこまで！ ほぉ！
 Japanese,scene_evt210226_cp2_q1_s20,detail,바자라가,何やら訳知り顔だな。
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,くひひ……！<br>ちょうどよいわ。<br>この場で全て貰い受けるぞ。
-Japanese,scene_evt210226_cp2_q1_s20,detail,幽世の者,<span class='scene-font-4'>死ねぃ！</span>
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,くひひ……！<br>ちょうどよいわ。<br>この場で全て貰い受けるぞ。
+Japanese,scene_evt210226_cp2_q1_s20,detail,유세에서 온 자,<span class='scene-font-4'>死ねぃ！</span>
 Japanese,scene_evt210226_cp2_q2_s10,synopsis,,幽世の者達をひとまず退けた一行。バザラガ達は封印武器とのつながりを強化する新たな装備を身に着けていた。月に機神のみを送り込み、機神を遠隔操作して救出作戦を行うため、データを取るのだという。月への移動手段を奪おうと拠点に襲い来る幽世の者達の対処をイルザに任せ、一行はグレイスを追う組と幽世の者達から街を守る組に分かれ戦いに赴くのだった。
-Japanese,scene_evt210226_cp2_q2_s10,detail,幽世の者,く、はは……！<br>なかなかのものだ……<br>それがあれば……
-Japanese,scene_evt210226_cp2_q2_s10,detail,幽世の者,月への道標、いずれ……<br>我らが、手に……
+Japanese,scene_evt210226_cp2_q2_s10,detail,유세에서 온 자,く、はは……！<br>なかなかのものだ……<br>それがあれば……
+Japanese,scene_evt210226_cp2_q2_s10,detail,유세에서 온 자,月への道標、いずれ……<br>我らが、手に……
 Japanese,scene_evt210226_cp2_q2_s10,detail,제타,……あいつら、あたし達の<br>新しい装備が<br>なんなのか知ってるの？
 Japanese,scene_evt210226_cp2_q2_s10,detail,바자라가,あの口ぶりを見るに、<br>そのようだ。
 Japanese,scene_evt210226_cp2_q2_s10,detail,베아트릭스,嘘だろ？<br>なんで筒抜けになってんだよ？
 Japanese,scene_evt210226_cp2_q2_s10,detail,그윈,……その、ゼタ先輩達の装備って<br>なんなんです？ 組織の支給？<br>自分は初めて見る奴ですけど。
 Japanese,scene_evt210226_cp2_q2_s10,detail,루리아,え、ええと……<br>それに……
-Japanese,scene_evt210226_cp2_q2_s10,detail,グロウノス,────……
+Japanese,scene_evt210226_cp2_q2_s10,detail,그로우노스,────……
 Japanese,scene_evt210226_cp2_q2_s10,detail,루리아,あの機神さん、<br>どうしてここにいるんでしょう？
 Japanese,scene_evt210226_cp2_q2_s10,detail,바자라가,……話せば長くなるが。
 Japanese,scene_evt210226_cp2_q2_s10,detail,바자라가,…………
-Japanese,scene_evt210226_cp2_q2_s10,detail,グロウノス,ｲﾄｶﾁｺﾘﾆﾄｸﾆﾐｷ ﾐｲﾅｽﾁﾘ ｿﾗﾐﾐｲｿｶﾆﾗﾐ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｸﾁﾐｼﾄｸﾁﾉｲ ｿﾗﾓｾﾘｲｶｲ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ﾗｾｲｽﾁｶﾆﾗﾐﾁﾘ.
+Japanese,scene_evt210226_cp2_q2_s10,detail,그로우노스,ｲﾄｶﾁｺﾘﾆﾄｸﾆﾐｷ ﾐｲﾅｽﾁﾘ ｿﾗﾐﾐｲｿｶﾆﾗﾐ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｸﾁﾐｼﾄｸﾁﾉｲ ｿﾗﾓｾﾘｲｶｲ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ｽｲｿﾗﾐﾐｲｿｶﾆﾐｷ. ﾗｾｲｽﾁｶﾆﾗﾐﾁﾘ.
 Japanese,scene_evt210226_cp2_q2_s10,detail,마키라,おお、いい感じですバザラガ君。<br>起動できてますね。
 Japanese,scene_evt210226_cp2_q2_s10,detail,제타,ねえ、マキラちゃん話って……
-Japanese,scene_evt210226_cp2_q2_s10,detail,グロウノス,"ｶｲﾄｶ ﾏﾗﾆﾐｶ: ﾉﾐｲｲ. ｻ-ﾁｻﾆﾄ 10°, ﾝ-ﾁｻﾆﾄ 10°, ﾂ-ﾁｻﾆﾄ 10°."
+Japanese,scene_evt210226_cp2_q2_s10,detail,그로우노스,"ｶｲﾄｶ ﾏﾗﾆﾐｶ: ﾉﾐｲｲ. ｻ-ﾁｻﾆﾄ 10°, ﾝ-ﾁｻﾆﾄ 10°, ﾂ-ﾁｻﾆﾄ 10°."
 Japanese,scene_evt210226_cp2_q2_s10,detail,제타,……何やってんの？
 Japanese,scene_evt210226_cp2_q2_s10,detail,마키라,これですか。皆さんが月に<br>行かなくても、カシウス君達を助けに<br>行くための実験です。
 Japanese,scene_evt210226_cp2_q2_s10,detail,베아트릭스,私達が月に行かなくても……？
@@ -325,7 +325,7 @@ Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,ええ。怖い魔物が
 Japanese,scene_evt210226_cp2_q4_s10,detail,女性,た……助けてください！<br>私には３人の息子が……！<br>街に戻らないと！
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,知ってるわ。<br>「イチゴの王子様」でしょ？
 Japanese,scene_evt210226_cp2_q4_s10,detail,女性,え……
-Japanese,scene_evt210226_cp2_q4_s10,detail,幽世の者,う……ぐ……
+Japanese,scene_evt210226_cp2_q4_s10,detail,유세에서 온 자,う……ぐ……
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,ふふ。残念でした。<br>もう何回も聞いたもの。
 Japanese,scene_evt210226_cp2_q4_s10,detail,女性２,<span class='scene-font-4'>ひいいいっ！？</span>
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,あら。
@@ -333,11 +333,11 @@ Japanese,scene_evt210226_cp2_q4_s10,detail,男性,な……なんてことを…
 Japanese,scene_evt210226_cp2_q4_s10,detail,,<span class='scene-font-katari'>幽世の者を両断したグレイスを見て、</span><br><span class='scene-font-katari'>街から避難してきたらしき人々が</span><br><span class='scene-font-katari'>悲鳴をあげる。</span>
 Japanese,scene_evt210226_cp2_q4_s10,detail,男性,あの女性が何を──
 Japanese,scene_evt210226_cp2_q4_s10,detail,女性２,<span class='scene-font-4'>あ、あなた！</span>
-Japanese,scene_evt210226_cp2_q4_s10,detail,幽世の者,う……ぐ……
+Japanese,scene_evt210226_cp2_q4_s10,detail,유세에서 온 자,う……ぐ……
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,ふふ。<br>もうなりふり構ってられないのね。
-Japanese,scene_evt210226_cp2_q4_s10,detail,幽世の者,よこ……せ……
+Japanese,scene_evt210226_cp2_q4_s10,detail,유세에서 온 자,よこ……せ……
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,ダメよ。私が貴方達に<br>月への道標を<br>本当にあげると思った？
-Japanese,scene_evt210226_cp2_q4_s10,detail,幽世の者,謀った……か……
+Japanese,scene_evt210226_cp2_q4_s10,detail,유세에서 온 자,謀った……か……
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,あちこちでアイザックからの通信を<br>集めてくれて感謝してるわ。<br>ありがとう。
 Japanese,scene_evt210226_cp2_q4_s10,detail,男の子,なんで……<br>なんでパパとママを！
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,うん？ 必要だったからよ。<br>どうせ、もう街で死んでいたわ。
@@ -354,7 +354,7 @@ Japanese,scene_evt210226_cp2_q4_s10,detail,組織の兵１,<span class='scene-fo
 Japanese,scene_evt210226_cp2_q4_s10,detail,그레이스,やだ危ない。<br>あの子を<br>巻き込んじゃうところだったわ。
 Japanese,scene_evt210226_cp2_q4_s10,detail,組織の兵１,<span class='scene-font-4'>第２射構え！</span>
 Japanese,scene_evt210226_cp2_q4_s10,detail,,<span class='scene-font-katari'>組織の兵達の掃射を</span><br><span class='scene-font-katari'>難なく防ぐグレイス。</span>
-Japanese,scene_evt210226_cp2_q4_s10,detail,Side.W達,…………
+Japanese,scene_evt210226_cp2_q4_s10,detail,[플레이어]일행,…………
 Japanese,scene_evt210226_cp2_q4_s10,detail,유리,あ……あれだけの掃射を受けて<br>かすり傷ひとつないとは……！
 Japanese,scene_evt210226_cp2_q4_s10,detail,파라,噂には聞いてたっすけど、<br>とんでもない相手っすね……
 Japanese,scene_evt210226_cp2_q4_s10,detail,렌스,前からヤバい人だったがよ、<br>こりゃあ輪をかけてんじゃねえか……！

@@ -1,12 +1,12 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt210303_cp5_q1_s10,synopsis,,[플레이어]達が神経接続した機神達は、長い時間をかけてついに月に接近する。イルザの号令に合わせ、グロウノス、アリアネンサ、セスラカは月への着陸を開始。同時に月にある敵の拠点から攻撃が開始され、静寂の中で戦いが始まるのだった。
 Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,Confirm target approach.
-Japanese,scene_evt210303_cp5_q1_s10,detail,グロウノス,Target approach confirmed.
+Japanese,scene_evt210303_cp5_q1_s10,detail,그로우노스,Target approach confirmed.
 Japanese,scene_evt210303_cp5_q1_s10,detail,アリアネンサ,Target approach confirmed.
 Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]達が</span><br><span class='scene-font-katari'>その心を宿した機神が</span><br><span class='scene-font-katari'>闇に飛び込み、長い時間が過ぎて。</span>
 Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>機神達が月の接近を告げた。</span><br><span class='scene-font-katari'>空の世界から見上げるよりも、</span><br><span class='scene-font-katari'>はるかにそれは大きく見えた。</span>
 Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,Cross-checking distance<br>to landing zone.<br>Over.
-Japanese,scene_evt210303_cp5_q1_s10,detail,グロウノス,Affirmative.
+Japanese,scene_evt210303_cp5_q1_s10,detail,그로우노스,Affirmative.
 Japanese,scene_evt210303_cp5_q1_s10,detail,アリアネンサ,Affirmative.
 Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,No data abnormalities detected.<br>Landing sequence can proceed<br>as planned.
 Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ１,軌道修正 マイナス3。
@@ -121,7 +121,7 @@ Japanese,scene_evt210303_cp5_q3_s10,detail,アリアネンサ,Updating map data.
 Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,……いけますね。<br>あそこから入りましょう。
 Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>光の軌跡をたどって、</span><br><span class='scene-font-katari'>一行は月面に口をあけた</span><br><span class='scene-font-katari'>洞窟へと向かう。</span>
 Japanese,scene_evt210303_cp5_q3_s10,detail,セスラカ,Hull damage 99.89% repaired.
-Japanese,scene_evt210303_cp5_q3_s10,detail,グロウノス,All damage incurred in previous skirmish repaired.
+Japanese,scene_evt210303_cp5_q3_s10,detail,그로우노스,All damage incurred in previous skirmish repaired.
 Japanese,scene_evt210303_cp5_q3_s10,detail,アリアネンサ,Locator recharged. Ready for redeployment.
 Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>時折流れる</span><br><span class='scene-font-katari'>機神達のやりとりを聞きながら、</span><br><span class='scene-font-katari'>砂埃をたてて歩んでいく。</span>
 Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>不気味な静寂の中、一行は</span><br><span class='scene-font-katari'>洞窟へと踏み込んだ。</span>
@@ -129,7 +129,7 @@ Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,ここに、カシウス
 Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,[플레이어]、グウィン。<br>奪還を焦るなよ。
 Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,ええ。月の企みの調査もありますし<br>機神を壊されないよう<br>気をつけましょう。
 Japanese,scene_evt210303_cp5_q3_s10,detail,アナウンス,<span class='scene-font-gray'>機神の帰還を確認。識別名、</span><br><span class='scene-font-gray'>セスラカ、グロウノス、アリアネンサ。</span>
-Japanese,scene_evt210303_cp5_q3_s10,detail,Side.W達,…………！
+Japanese,scene_evt210303_cp5_q3_s10,detail,[플레이어]일행,…………！
 Japanese,scene_evt210303_cp5_q3_s10,detail,アナウンス,<span class='scene-font-gray'>おかえりなさい。</span><br><span class='scene-font-gray'>収集したデータの共有のため、</span><br><span class='scene-font-gray'>整備区画へと向かっ──</span>
 Japanese,scene_evt210303_cp5_q3_s10,detail,アイザックの声,<span class='scene-font-gray'>──やあ、よく来てくれたね。</span>
 Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,アイザックか……！<br>無事だったのだな。
