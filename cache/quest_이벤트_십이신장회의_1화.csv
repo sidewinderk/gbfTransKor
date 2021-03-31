@@ -1,29 +1,29 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt210329_cp1_q1_s10,synopsis,,[플레이어]達と港で分かれたアニラ、アンチラ、マキラ、ヴァジラ、クビラ、ビカラ、シャトラはスーパーリゾートアロハスでフライデーと再会する。施設には他の神将から欠席の連絡が届いており、会議は７人で行うことに。フライデーは十二神将に接客担当のホテルウーマン・ティアレをつけ、最高のおもてなしを約束するのだった。,"[플레이어]일행과 항구에서 헤어진 아니라, 안치라, 마키라, 바지라, 쿠비라, 비카라, 샤토라는 슈퍼리조트 알로하스에서 프라이데이와 재회한다. 시설에는 다른 신장으로부터 결석의 연락이 도착해 있었고, 회의는 7명이서 실시하기로 한다. 프라이데이는 십이신장에게 접객 담당으로 호텔리어 티아레를 붙여주며 최고의 대접을 약속하는 것이었다."
-Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]達と港で別れ、</span><br><span class='scene-font-katari'>手紙に記された場所へ向けて</span><br><span class='scene-font-katari'>十二神将は町外れへ向かう。</span>,"<span class='scene-font-katari'>[플레이어]일행과 헤어진후,</span><br><span class='scene-font-katari'>편지에 적힌 곳을 향해</span><br><span class='scene-font-katari'>십이신장은 마을 밖으로 향했다.</span>"
-Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>ほどなくして現れた巨大な施設に入ると</span><br><span class='scene-font-katari'>一行は満面の笑みのフライデーと</span><br><span class='scene-font-katari'>久しぶりの再会を果たすのだった。</span>,<span class='scene-font-katari'>얼마 안 가서 나타난 거대한 시설에 들어간 </span><br><span class='scene-font-katari'>일행은 웃음이 만연한 프라이데이와</span><br><span class='scene-font-katari'>오랜만에 재회하게 되었다.</span>
+Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]達と港で別れ、</span><br><span class='scene-font-katari'>手紙に記された場所へ向けて</span><br><span class='scene-font-katari'>十二神将は町外れへ向かう。</span>,"<span class='scene-font-katari'>십이신장은 [플레이어]일행과 헤어진후,</span><br><span class='scene-font-katari'>편지에 적힌 곳을 향해 </span><br><span class='scene-font-katari'>마을 밖으로 나갔다.</span>"
+Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>ほどなくして現れた巨大な施設に入ると</span><br><span class='scene-font-katari'>一行は満面の笑みのフライデーと</span><br><span class='scene-font-katari'>久しぶりの再会を果たすのだった。</span>,"<span class='scene-font-katari'>얼마 지나지 않아서 거대한 시설이 나타났고, </span><br><span class='scene-font-katari'>그 곳에서 일행은 환한 미소를 짓는 프라이데이와</span><br><span class='scene-font-katari'>오랜만에 재회하게 되었다.</span>"
 Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>しかし……</span>,<span class='scene-font-katari'>하지만……</span>
 Japanese,scene_evt210329_cp1_q1_s10,detail,아니라,まさか欠席とは……！！,설마 결석일 줄이야……！！
-Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>フライデーから渡されたのは</span><br><span class='scene-font-katari'>他の神将からそれぞれ届いた</span><br><span class='scene-font-katari'>欠席を申し出る手紙だった。</span>,<span class='scene-font-katari'>프라이데이로 부터 전달 받은 것은 각각의 신장으로부터 결석을 요청하는 내용의 편지였다.</span>
-Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,ここへ直接便りが届いたのよ。<br>勝手に封を開けるわけにはいかないし、<br>欠席の連絡だなんて知らなかったわ。,"여기로 직접 편지가 도착했어.<br>멋대로 개봉할 수는 없고,<br>결석했다는 연락인 줄 몰랐어."
-Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,こんなことなら光に透かしてでも、私が<br>先に中を読んでおくべきだったわね。<br>それなら連絡も間に合ったはず……,"이런 거라면 빛에 비춰서라도, 내가 먼저 안을 읽어뒀어야 했나봐.<br>그러면 연락도 늦지 않았을 텐데……"
+Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>フライデーから渡されたのは</span><br><span class='scene-font-katari'>他の神将からそれぞれ届いた</span><br><span class='scene-font-katari'>欠席を申し出る手紙だった。</span>,<span class='scene-font-katari'>프라이데이로 부터 전달 받은 것은<br> 각각의 신장으로부터 온 결석을 요청하는 내용의 편지였다.</span>
+Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,ここへ直接便りが届いたのよ。<br>勝手に封を開けるわけにはいかないし、<br>欠席の連絡だなんて知らなかったわ。,"여기로 직접 편지가 도착했어.<br>멋대로 개봉할 수는 없어서,<br>결석했다는 연락인 줄 몰랐어."
+Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,こんなことなら光に透かしてでも、私が<br>先に中を読んでおくべきだったわね。<br>それなら連絡も間に合ったはず……,"이런 거라면 빛에 비춰서라도, <br>내가 먼저 내용을 읽어 봤어야 했나봐.<br>그러면 연락도 늦지 않았을 텐데……"
 Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,いや、会議をする必要はあるからな。<br>どの道変わらなかったと思うぞ。,"아니, 회의를 할 필요는 있으니까.<br>어차피 다르지 않았을 거라 생각해."
-Japanese,scene_evt210329_cp1_q1_s10,detail,쿠비라,まぁ仕方ないよ、アニラ。<br>それぞれ事情はあるみたいだし。<br>気を取り直してがんばろう？,뭐 어쩔 수 없지. 아니라.<br>각각의 사정은 있는 것 같고.<br>마음잡고 힘내자?
+Japanese,scene_evt210329_cp1_q1_s10,detail,쿠비라,まぁ仕方ないよ、アニラ。<br>それぞれ事情はあるみたいだし。<br>気を取り直してがんばろう？,뭐 어쩔 수 없지. 아니라.<br>각각의 사정은 있는 것 같고.<br>마음잡고 힘내자구?
 Japanese,scene_evt210329_cp1_q1_s10,detail,아니라,そうじゃのう……<br>全員そろって会議をしたかったが……,그렇군……<br>전원 모여서 회의를 하고 싶었지만…….
 Japanese,scene_evt210329_cp1_q1_s10,detail,비카라,それにしても久しぶりだね、<br>フライデー！<br>元気にしてたかい？,"그건 그렇고 오랜만이네,<br>프라이데이!<br>잘 지내고 있어?"
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,ええ！<br>あなた達も元気そうね！<br>[플레이어]さん達は最近どうかしら？,그렇지!<br>너희들도 건강해 보이네!<br>[플레이어]씨 들은 요즘 어떻게 지내니?
 Japanese,scene_evt210329_cp1_q1_s10,detail,안치라,みんな変わりありませんよ！<br>フライデーさんに<br>よろしくと言ってました！,모두 변함이 없어요!<br>프라이데이 씨에게<br>안부를 전해 달라고 했어요!
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,まぁ！ それはよかったわ！,아하! 그거 다행이네!
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,[플레이어]さんにもアロハスを<br>見てもらいたかったのよねぇ……,[플레이어]씨에게도 알로하스를 봐주고 싶었어...
-Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,いきなり旅に出るなんて言って<br>心配かけちゃっているでしょうし……,갑자기 여행을 떠난다고 해서<br>걱정끼쳐 버렸을 테고...
+Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,いきなり旅に出るなんて言って<br>心配かけちゃっているでしょうし……,내가 갑자기 여행을 떠난다고 해서<br>걱정끼쳐 버렸을 테고...
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,アロハス自慢の、<br>あのプレミアムなモニュメントの感想も<br>是非是非いただきたかったわ……,"알로하스 자랑의,<br>프리미엄 기념물의 감상도<br>꼭 꼭 듣고 싶었어……"
-Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>フライデーの視線は</span><br><span class='scene-font-katari'>ロビーの中央にあるエビフライ型の</span><br><span class='scene-font-katari'>巨大なモニュメントにあった。</span>,<span class='scene-font-katari'> 프라이데이의 시선은 </span> <br> <span class='scene-font-katari'> 로비 중앙에 있는 새우튀김 모양의 </span> <br> <span class='scene-font-katari'>  조각상을 향해 있었다.
+Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>フライデーの視線は</span><br><span class='scene-font-katari'>ロビーの中央にあるエビフライ型の</span><br><span class='scene-font-katari'>巨大なモニュメントにあった。</span>,<span class='scene-font-katari'> 프라이데이의 시선은 </span> <br> <span class='scene-font-katari'> 로비 중앙에 있는 새우튀김 모양의 </span> <br> <span class='scene-font-katari'>  기념물을 향했다.</span>
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,形は変えても、プレミアムフライデーの<br>精神は決して死んでいない。<br>あのモニュメントはその証なの！,모양은 바뀌어도 프리미엄 프라이데이의<br>정신은 결코 죽지 않았다.<br>이 기념물은 그 증거야!
 Japanese,scene_evt210329_cp1_q1_s10,detail,마키라,そいえば……<br>シャトラ君はフライデー君と<br>初対面だよね？,그러고보니...<br>샤토라군은 프라이데이와<br>초면이지?
 Japanese,scene_evt210329_cp1_q1_s10,detail,샤토라,うん。<br>はじめまして……<br>丑神宮の主、シャトラだよ……？,"응. 처음뵙겠습니다……<br>소신궁의 주인, 샤토라야……?"
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,はじめまして。フライデーよ！<br>皆の人生を豊かにするために<br>極上の休息を提供しているの！,처음 뵙겠습니다. 프라이데이야!<br>모두의 삶을 풍요롭게 하기 위해<br>최고의 휴식을 제공하고 있어!
-Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,今年の歳神様に会えるなんて光栄だわ！,올해의 세신님을 만나게 되다니 영광이야!
-Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,[플레이어]さんには以前から<br>なにかとお世話になっているの。<br>彼は私の良き理解者ってところね！,[플레이어]씨에게는 이전부터 <br>여러모로 신세를 지고 있어. 그사람은 나의 좋은 이해자가 되어준 사람이야!
+Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,今年の歳神様に会えるなんて光栄だわ！,올해의 '세신'님을 만나게 되다니 영광이야!
+Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,[플레이어]さんには以前から<br>なにかとお世話になっているの。<br>彼は私の良き理解者ってところね！,[플레이어]씨에게는 이전부터 <br>여러모로 신세를 지고 있어. 그사람은 나의 좋은 이해자가 되어준 사람이었어!
 Japanese,scene_evt210329_cp1_q1_s10,detail,샤토라,王子さまが……？,왕자님이……？
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,え？ 王子様？,응？ 왕자님？
 Japanese,scene_evt210329_cp1_q1_s10,detail,마키라,シャトラ君はずっと探していた<br>王子さまを見つけたんだよね。<br>それが[플레이어]君だと。,샤토라군은 계속 찾아오고 있던 <br>왕자님을 발견했어. <br>그게 [플레이어]군 이라는군.
@@ -32,7 +32,7 @@ Japanese,scene_evt210329_cp1_q1_s10,detail,샤토라,あの、フライデーさ
 Japanese,scene_evt210329_cp1_q1_s10,detail,샤토라,もしかして……<br>恋のライバル、出現……？,"혹시……<br>사랑의 라이벌, 출현……?"
 Japanese,scene_evt210329_cp1_q1_s10,detail,쿠비라,あー……<br>そんなに深い意味はないはずだから、<br>気にしないでいいと思うよ。,"아-…<br>그렇게 깊은 의미는 없을 테니까,<br>신경 쓰지 않아도 된다고 생각해."
 Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>クビラがシャトラをなだめる一方、</span><br><span class='scene-font-katari'>アンチラは興味深げに</span><br><span class='scene-font-katari'>周囲をきょろきょろと見回していた。</span>,"<span class='scene-font-katari'>쿠비라가 샤토라를 달래는 한편,</span><br><span class='scene-font-katari'>안치라는 흥미롭게</span><br><span class='scene-font-katari'>주위를 둘러 보았다.</span>"
-Japanese,scene_evt210329_cp1_q1_s10,detail,안치라,ここ……本当にでっかいですよね。<br>スーパーリゾート……えっと……,여기 ...... 정말 크구나! <br>슈퍼 리조트 ......그러니까...
+Japanese,scene_evt210329_cp1_q1_s10,detail,안치라,ここ……本当にでっかいですよね。<br>スーパーリゾート……えっと……,여기 ...... 정말 크구나! <br>슈퍼 리조트 ......뭐시기...
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,スーパーリゾートアロハスよ！,슈퍼리조트 알로하스야!
 Japanese,scene_evt210329_cp1_q1_s10,detail,프라이데이,プレミアムフライデーとはまたちがう、<br>人々の生活を豊かにするための、<br>もうひとつの答えというわけ！,"프리미엄 프라이데이와 또 다른, <br>사람들의 생활을 풍요롭게 하기 위한, <br>또 하나의 대답인 셈이지!"
 Japanese,scene_evt210329_cp1_q1_s10,detail,비카라,すごいよ、フライデー！<br>こんな大きな建物まで造るなんて<br>びっくりしちゃった！,"대단해, 프라이데이!<br>이런 큰 건물까지 만들다니<br>깜짝 놀랐어!"
@@ -73,29 +73,29 @@ Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>ヴ�
 Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,<span class='scene-font-4'>あはははははっ！</span><br>驚かせてごめんな！,<span class='scene-font-4'>아하하하핫！</span><br>놀래켜서 미안해！
 Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,この前、艇の中で見つけた紙芝居の<br>台詞を思い出して<br>急にやってみたくなったんだ！,저번에 배 안에서 봤던 그림연극의 <br>대사가 생각나서 <br>갑자기 해보고 싶어졌어!
 Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,なんとか戦隊なんとかジャー……<br>だったか？,무슨무슨 전대 무슨레인져……<br>였나?
-Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,でも、見事にバラバラだったな！,"그렇지만, 훌륭하게 제각각이었어!"
+Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,でも、見事にバラバラだったな！,"그렇지만, 엄청나게 제각각이었어!"
 Japanese,scene_evt210329_cp1_q1_s10,detail,마키라,それは当然だと思うよ。,그건 당연하다고 생각해.
 Japanese,scene_evt210329_cp1_q1_s10,detail,안치라,急に言われても無理だよ……,갑자기 물어보면 대답하는건 무리라구……
 Japanese,scene_evt210329_cp1_q1_s10,detail,비카라,そういうのは<br>事前に決めておかないとね！,그런건<br>사전에 결정해 두지 않으면 안되죠!
 Japanese,scene_evt210329_cp1_q1_s10,detail,샤토라,よかったぁ……<br>わたしだけ忘れてたのかなって……,다행이다.......<br>나만 잊은건줄 알았어....
 Japanese,scene_evt210329_cp1_q1_s10,detail,쿠비라,そもそも７人じゃそろってないから……,원래 7명이서 모이지 않았으니까…….
 Japanese,scene_evt210329_cp1_q1_s10,detail,바지라,あはははっ！<br>ごめんごめん！,아하하핫!<br>미안미안!
-Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>７人の姦しい女子達によって</span><br><span class='scene-font-katari'>ホテルのロビーは途端に華やいだ。</span>,<span class='scene-font-katari'>７명의 떠뜰썩한 여자들로 인해 </span><br><span class='scene-font-katari'>호텔의 로비는 순식간에 화사해 졌다.</span>
+Japanese,scene_evt210329_cp1_q1_s10,detail,,<span class='scene-font-katari'>７人の姦しい女子達によって</span><br><span class='scene-font-katari'>ホテルのロビーは途端に華やいだ。</span>,<span class='scene-font-katari'>７명의 떠뜰썩한 여자아이들로 인해 </span><br><span class='scene-font-katari'>호텔의 로비는 순식간에 화사해 졌다.</span>
 Japanese,scene_evt210329_cp1_q1_s10,detail,티아레,<span class='scene-font-4'>ぷっ……あっはっはっはっは！</span><br>きみ達、サイコー！<br>あはははははははははははっ！,<span class='scene-font-4'>훗……아하하하핫！</span><br>너희들 최고야ー！<br>아하하하하하！
 Japanese,scene_evt210329_cp1_q1_s10,detail,티아레,ふふふ、十二神将って<br>こんなに面白い子達だったんだ。<br>最高のおもてなしを約束するね！,"후후후, 12신장이란<br>이렇게 재미있는 아이들이었구나.<br>최고의 환대를 약속할게!"
 Japanese,scene_evt210329_cp1_q1_s10,detail,아니라,ゴホン……<br>せっかくの申し出じゃが、<br>我らの目的はあくまで会議なのでな。,"크흠……<br>모처럼의 제의지만,<br>우리의 목적은 어디까지나 회의이니까."
 Japanese,scene_evt210329_cp1_q1_s10,detail,티아레,会議……？,회의...?
-Japanese,scene_evt210329_cp1_q2_s10,synopsis,,ティアレに案内された会議室で早速会議を始めようとするアニラ達だったが、マキラの姿が無いことに気づく。迷子になったのではとアニラ達が探しに向かうと、マキラは施設の制御室の観察に夢中になっていた。会議室に連れ戻し、改めて会議を始めようとするアニラ達。しかし今度はヴァジラの姿が見当たらないことに気づき、またも探しにでかけるのだった。,티아레의 안내를 받은 회의실에서 막 회의를 시작하려는 아니라 일행은 마키라의 모습이 없다는 것을 알게 된다.길을 잃었을까봐 아니라 일행이 찾으러 나가자 마키라는 시설 제어실 관찰에 열중하고 있었다 .회의실로 데려가 다시 회의를 시작하려는 아니라일행. 그러나 이번에는 바지라의 모습이 보이지 않는다는 것을 깨닫고 다시 찾는 것이었다.
+Japanese,scene_evt210329_cp1_q2_s10,synopsis,,ティアレに案内された会議室で早速会議を始めようとするアニラ達だったが、マキラの姿が無いことに気づく。迷子になったのではとアニラ達が探しに向かうと、マキラは施設の制御室の観察に夢中になっていた。会議室に連れ戻し、改めて会議を始めようとするアニラ達。しかし今度はヴァジラの姿が見当たらないことに気づき、またも探しにでかけるのだった。,티아레의 안내를 받은 회의실에서 막 회의를 시작하려는 아니라 일행은 마키라의 모습이 없다는 것을 알게 된다.길을 잃었을까봐 걱정 한 일행이 찾으러 나가자 마키라는 시설 제어실 관찰에 열중하고 있었다 .회의실로 데려가 다시 회의를 시작하려는 아니라일행. 그러나 이번에는 바지라의 모습이 보이지 않는다는 것을 깨닫고 다시 찾는 것이었다.
 Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>ティアレに案内された会議室は</span><br><span class='scene-font-katari'>広々としており、快適そのものだった。</span>,<span class='scene-font-katari'>티아레에게 안내 받아 도착한 회의실은 넓고 쾌적하기 그지 없었다.</span>
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,せっかくアロハスに来たのに<br>やることが会議でいいの？,모처럼 알로하스에 왔는데<br>할 일이 회의라니 괜찮은 거야?
 Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,私達がここに来た目的ですから。,우리들이 여기 온 목적이거든.
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,まじめなんだねぇ……,성실하구나……
-Japanese,scene_evt210329_cp1_q2_s10,detail,비카라,ところでフライデーはいま<br>なにをしてるんだい？,그런데 프라이데이는 지금<br>뭐하는거야?
+Japanese,scene_evt210329_cp1_q2_s10,detail,비카라,ところでフライデーはいま<br>なにをしてるんだい？,그런데 프라이데이는 지금<br>뭐 하고있어?
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,いろいろだよ。<br>オーナーにはオーナーとしての<br>お仕事がたくさんあるの。,여러가지야.<br>오너에게는 오너로서의<br>일이 많이 있어.
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,アロハスはお客様を癒す施設だけど、<br>オーナーは従業員の働きすぎにも<br>常に気を配ってるから忙しいんだ。,"알로하스는 고객을 치유하는 시설이지만,<br>오너는 종업원의 과로에도<br>항상 신경 쓰기 때문에 바빠."
-Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,私はここで働けるだけで十分幸せだから<br>できればオーナーにはもっと<br>楽をしてほしいんだけどねぇ……,나는 여기서 일할 수 있는 것만으로도 충분히 행복하니까<br>가능하다면 오너는 좀 더<br>편하게 있어 줬으면 하는데 말이야……
+Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,私はここで働けるだけで十分幸せだから<br>できればオーナーにはもっと<br>楽をしてほしいんだけどねぇ……,"나는 여기서 일할 수 있는 것만으로도 충분히<br> 행복하니까, 가능하다면 오너는 좀 더<br>편하게 있어 줬으면 하는데 말이야……"
 Japanese,scene_evt210329_cp1_q2_s10,detail,바지라,フライデーは相変わらずだな。,프라이데이는 여전하구나.
-Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,ねえねえ！<br>お姉さんにしてほしいことない？<br>あ、ジュースでも持ってこよっか？,"있잖아!<br>언니가 해줬으면 하는거 없어?아,  주스라도 가져올까?"
+Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,ねえねえ！<br>お姉さんにしてほしいことない？<br>あ、ジュースでも持ってこよっか？,"있잖아!<br>언니가 해줬으면 하는거 없어? 아,  주스라도 가져올까?"
 Japanese,scene_evt210329_cp1_q2_s10,detail,안치라,ありがとうございます、ティアレさん。<br>でも、まずは会議に集中したいので……,"감사합니다, 티아레씨.<br>그래도, 우선은 회의에 집중하고 싶어서……."
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,そっかぁ……,그렇구나……
 Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>肩を落としたティアレに対し、</span><br><span class='scene-font-katari'>アニラが小さく手をあげた。</span>,<span class='scene-font-katari'>어깨가 축 처진 티아레에게、</span><br><span class='scene-font-katari'>아니라가 작게 손을 들었다.</span>
@@ -126,23 +126,23 @@ Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>シ�
 Japanese,scene_evt210329_cp1_q2_s10,detail,안치라,あれ？ 本当ですね……<br>シャトラさんの言うとおり、<br>マッキィがどこにもいません……,"어? 정말이네요……<br>샤토라씨의 말대로,<br>마키라가 어디에도 없습니다……"
 Japanese,scene_evt210329_cp1_q2_s10,detail,비카라,というか、<br>しばらくマキラを見てなくない？,"어떡하지,<br>잠시 마키라를 찾아 보지 않을래?"
 Japanese,scene_evt210329_cp1_q2_s10,detail,아니라,ロビーまでは一緒にいた気がするが、<br>部屋ではどうじゃったかのう……？,"로비까지는 함께 있었던 것 같은데,<br>방에서는 어떻게 되었었더라……?"
-Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,ひょっとして……迷子になってる？,혹시...미아가 되었어?
-Japanese,scene_evt210329_cp1_q2_s10,detail,바지라,みんなでマキを探しに行こう！<br>心細くて不安がってるかもしれない！,다같이 마키를 찾으러 가자!<br>걱정하고 불안해 할지도 몰라!
+Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,ひょっとして……迷子になってる？,혹시...미아가 되었나?
+Japanese,scene_evt210329_cp1_q2_s10,detail,바지라,みんなでマキを探しに行こう！<br>心細くて不安がってるかもしれない！,다같이 마키를 찾으러 가자!<br>혼자서 불안해 할지도 몰라!
 Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>十二神将はマキラを探しに</span><br><span class='scene-font-katari'>会議室を飛び出した。</span>,<span class='scene-font-katari'>십이신장은 마키라를 찾으러 </span><br><span class='scene-font-katari'>회의실을 뛰쳐나갔다。</span>
 Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>一方、その頃……</span>,"<span class='scene-font-katari'>한 편, 그 무렵……</span>"
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,えっとぉ……マキラちゃん、<br>そんなの見て楽しい？,저기...... 마키라쨩<br>그런거 보면 즐거워?
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,なるほどです……<br>ガス灯や排水、空調なんかも<br>ここで一括管理してるのですね……,"과연 그렇군요……<br>가스등이나 배수, 공기조절 등도<br>여기서 일괄 관리하고 있군요……"
-Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,興味深い……<br>こんな大きな施設の<br>制御室を観察できるなんて幸運です……,흥미로운 ......<br>이런 큰 시설의 <br>제어실을 관찰할 수 있다니 행운입니다 ......
-Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,故障した場合も<br>館内のどこが壊れたか、ある程度、<br>すぐに把握できるんですね……,"고장난 경우도<br>관내의 어디가 망가졌는지, 어느 정도,<br>바로 파악할 수 있군요……"
+Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,興味深い……<br>こんな大きな施設の<br>制御室を観察できるなんて幸運です……,흥미롭군 ......<br>이런 큰 시설의 <br>제어실을 관찰할 수 있다니 행운입니다 ......
+Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,故障した場合も<br>館内のどこが壊れたか、ある程度、<br>すぐに把握できるんですね……,"고장난 경우도<br>시설 내의 어디가 망가졌는지, 어느 정도,<br>바로 파악할 수 있군요……"
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,ねぇ、マキラちゃん……？,"저기요, 마키라쨩...?"
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,そですね……目盛りを見るに、<br>ここはかなり大量の水を<br>扱ってるみたいですが……,"그렇구나…눈금을 보니,<br>여기는 꽤 많은 물을<br>취급하는 것 같은데요……"
-Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,え？<br>うん……そりゃあね。<br>だってアロハスには──,"네?<br>응…그건 뭐,<br> 알로하스에는--"
+Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,え？<br>うん……そりゃあね。<br>だってアロハスには──,"응?<br>으응…그건 뭐,<br> 알로하스에는--"
 Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,あ、こんなところにいた！,"아, 이런 데 있다니!"
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,あ、クビラ君……,"아, 쿠비라군……"
 Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,もう……<br>マキラちゃん、<br>私達がここに来た理由、覚えてる？,정말....<br>마키라쨩<br>우리가 여기 온 이유 기억나니?
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,あ、ごめんなさい。<br>すっかり夢中になってたみたい……<br>ちょっぴりのつもりだったのに……,"아, 미안해요.<br>너무 푹 빠졌던 것 같아……<br>잠깐만 보려고 그랬는데……"
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,あはははは……ごめんね～……<br>ここの設備機器が見たいって頼まれて<br>つい連れてきちゃったんだ～,아하하하하..미안해~ 이 곳의 설비기기를 보고 싶다고 해서 나도 모르게 데려왔어~
-Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,こちらこそすみません。<br>マキラちゃんは機械に目がなくって……,저야말로 죄송합니다.<br> 마키라쨩은 기계에 사족을 못써서...
+Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,こちらこそすみません。<br>マキラちゃんは機械に目がなくって……,저희야 말로 죄송합니다.<br> 마키라쨩은 기계에 사족을 못써서...
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,ありがとうございます。<br>とっても楽しめました。,감사합니다<br> 매우 즐거웠습니다.
 Japanese,scene_evt210329_cp1_q2_s10,detail,티아레,どういたしまして！<br>でもできれば、お姉さんは<br>施設の表側を楽しんでほしいな！,"천만에요!<br>그래도 가능하다면, 언니는<br>시설 앞면을 즐겨줬으면 좋겠는데!"
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,そですね。<br>善処します。,그렇군요.<br>선처하겠습니다.
@@ -150,18 +150,18 @@ Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,それじゃ、戻ろっか
 Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>クビラは</span><br><span class='scene-font-katari'>名残惜しそうなマキラを連れて</span><br><span class='scene-font-katari'>会議室へ戻った。</span>,<span class='scene-font-katari'>쿠비라는</span><br><span class='scene-font-katari'>아쉬워하는 마키라를 데리고</span><br><span class='scene-font-katari'>회의실로 돌아갔다。</span>
 Japanese,scene_evt210329_cp1_q2_s10,detail,샤토라,もぉ～……マキラちゃん、<br>心配したんだよ……？<br>でも見つかってよかった……,차암～……마키라<br>걱정했다구……？<br>그래도 찾아서 다행이야
 Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,ごめんね、シャトラ君。<br>つい夢中になっちゃった。<br>ここはすごくおもしろい施設かも。,"미안해, 샤토라군<br>나도 모르게 푹 빠져 버렸어<br>여기는 굉장히 재미있는 시설일지도."
-Japanese,scene_evt210329_cp1_q2_s10,detail,아니라,それでは今度こそ始めるかの。<br>我らが話し合わなくてはならない議題は<br>てんこもりじゃ。,그럼 이번에야 말로 시작하지.<br>우리가 논의해야 할 의제는<br>어마어마 하다구.
+Japanese,scene_evt210329_cp1_q2_s10,detail,아니라,それでは今度こそ始めるかの。<br>我らが話し合わなくてはならない議題は<br>てんこもりじゃ。,그럼 이번에야 말로 시작하지.<br>우리가 논의해야 할 의제들은<br>어마어마 하다구.
 Japanese,scene_evt210329_cp1_q2_s10,detail,안치라,ちょっと待って。<br>ヴァジィが戻ってないみたいだよ？,잠깐만.<br>바지라가 안 돌아온 것 같은데?
 Japanese,scene_evt210329_cp1_q2_s10,detail,비카라,おや？<br>さっき全員でこの部屋を出て<br>マキラを探しにいったよね？,뭐?<br>아까 다같이 이 방을 나가서<br>마키라를 찾으러 갔었지?
-Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,そでしたか……<br>ヴァジラ君、私を探すため<br>ホテル中を駆け回ってるのかも……,"그랬구나……<br>바지라군, 나를 찾기 위해<br>호텔 안을 뛰어다니는 건지도……"
+Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,そでしたか……<br>ヴァジラ君、私を探すため<br>ホテル中を駆け回ってるのかも……,"그랬구나……<br>바지라군, 나를 찾기 위해<br>아직 호텔 안을 뛰어다니는 건지도……"
 Japanese,scene_evt210329_cp1_q2_s10,detail,쿠비라,うーん……<br>この施設って広いから、<br>どこかで迷っちゃってるのかな。,"음……<br>이 시설은 넓으니까,<br>어디선가 헤매고 있는걸까."
-Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,すみません……<br>私、ヴァジラ君を探してくるね。<br>ご迷惑をおかけしたので……,"죄송합니다……<br>저, 바지라 군을 찾아 올게요.<br>폐를 끼쳤으니까요……"
-Japanese,scene_evt210329_cp1_q2_s10,detail,아니라,いや、皆で一緒に探そうかの。<br>バラバラに動くとまた<br>同じことになるかもしれぬ。,"아니, 모두 함께 찾아볼까.<br>제각각 움직이다 보면 또<br>똑같이 될지도 몰라."
+Japanese,scene_evt210329_cp1_q2_s10,detail,마키라,すみません……<br>私、ヴァジラ君を探してくるね。<br>ご迷惑をおかけしたので……,미안해……<br>내가 바지라 군을 찾아 올게.<br>민폐를 끼쳤으니까……
+Japanese,scene_evt210329_cp1_q2_s10,detail,아니라,いや、皆で一緒に探そうかの。<br>バラバラに動くとまた<br>同じことになるかもしれぬ。,"아니, 모두 함께 찾아 보도록 하자.<br>제각각 움직이다 보면 <br>또 똑같이 될지도 몰라."
 Japanese,scene_evt210329_cp1_q2_s10,detail,,<span class='scene-font-katari'>こうして十二神将はまたも</span><br><span class='scene-font-katari'>はぐれた仲間を探しに</span><br><span class='scene-font-katari'>部屋を出るのだった。</span>,<span class='scene-font-katari'>이렇게 십이신장은 잃어버린 동료를 찾으러 다시 회의실에서 나오는 것있다.</span>
-Japanese,scene_evt210329_cp1_q3_s10,synopsis,,ヴァジラは、スーパーリゾートアロハスの屋内型プールで犬達とじゃれあっていた。子犬達がプールに駆けていってしまい、そのまま遊んでしまったらしい。結局、会議の開催は明日でも遅くないということになり、十二神将はプールで遊ぶことにするのだった。,바질라는 슈퍼 리조트 알로하스의 실내 수영장에서 개들과 장난을 치고 있었다.개들이 풀장에 뛰어 들어버려 그대로 놀아버린 것 같다.결국 회의 개최는 내일로 연기하기로 하고 십이신장은 수영장에서 놀기로 했다.
+Japanese,scene_evt210329_cp1_q3_s10,synopsis,,ヴァジラは、スーパーリゾートアロハスの屋内型プールで犬達とじゃれあっていた。子犬達がプールに駆けていってしまい、そのまま遊んでしまったらしい。結局、会議の開催は明日でも遅くないということになり、十二神将はプールで遊ぶことにするのだった。,바지라는 슈퍼 리조트 알로하스의 실내 수영장에서 개들과 장난을 치고 있었다.개들이 풀장에 뛰어 들어버려 그대로 놀아버린 것 같다.결국 회의 개최는 내일로 연기하기로 하고 십이신장은 수영장에서 놀기로 했다.
 Japanese,scene_evt210329_cp1_q3_s10,detail,샤토라,ヴァジラちゃん、いないね……<br>お外に行っちゃった……？,"바지라쨩, 없네……<br>밖으로 나가 버렸나……?"
-Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,いくらなんでも<br>外を探しはせんと思うがの……,아무리 그래도 밖을 찾지는 않을거라고 생각하는데…….
-Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,ところでシャトラよ、<br>初めての歳神はどうじゃ？<br>母君のように立派に務められそうかの？,"그런데 샤토라여,<br>처음 올해의 담당 세신을 맡아보니 어때?<br>어머님처럼 훌륭하게 해낼 수 있을 것 같은가?"
+Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,いくらなんでも<br>外を探しはせんと思うがの……,아무리 그래도 밖으로 찾으러 가진 않을거라고 생각하는데…….
+Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,ところでシャトラよ、<br>初めての歳神はどうじゃ？<br>母君のように立派に務められそうかの？,"그건 그렇고 바지라여,  <br>처음으로 해보는 '세신'의 임무는어떠한가 <br>모친처럼 훌륭하게 할 수 있을 것 같은가?"
 Japanese,scene_evt210329_cp1_q3_s10,detail,샤토라,うん……<br>たくさんがんばってるよ……？<br>[플레이어]さまも見つけたもん……,응……<br>많이 노력하고 있어……?<br>[플레이어]님도 찾았는걸……
 Japanese,scene_evt210329_cp1_q3_s10,detail,샤토라,うししし……♪<br>あとは[플레이어]さまと結婚して、<br>ママみたいに素敵な家庭を作れば……,"우시시……♪<br>그리고는[플레이어]님과 결혼해서,<br>엄마처럼 멋진 가정을 만들면……"
 Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,そ、そうか……<br>そなたの心意気は伝わってくるのう。,"그, 그렇군……<br>그대의 마음가짐은 전해져 오는구나."
@@ -177,29 +177,29 @@ Japanese,scene_evt210329_cp1_q3_s10,detail,샤토라,やったぁ……♪<br>�
 Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,<span class='scene-font-kokoro'>（あ、あれ……？</span><br><span class='scene-font-kokoro'>なんだか、とんでもない約束を</span><br><span class='scene-font-kokoro'>してしまったような……）</span>,"<span class='scene-font-kokoro'>（어, 어라……？</span><br><span class='scene-font-kokoro'>뭔가, 엉뚱한 약속을</span><br><span class='scene-font-kokoro'>해버린것 같은데……）</span>"
 Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,さてと……<br>まずはこの会議を<br>無事に成功させるところからじゃの！,그건 그렇고……<br>우선은 이 회의를<br>무사히 성공시키는 것 부터야!
 Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,う、うん！<br>早くヴァジラちゃんを見つけて<br>十二神将会議を始めないとね！,"으, 응!<br>빨리 바지라쨩을 찾아서<br>십이신장회의를 시작해야겠네!"
-Japanese,scene_evt210329_cp1_q3_s10,detail,안치라,ねぇ！<br>ヴァジィいたよ！<br>こっちこっち！,야!<br>바지라 있어!<br>이쪽 이쪽!
-Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,お、ようやく見つかったか。<br>どれ、みんなで<br>ヴァジラを迎えにいこうかの。,"아, 드디어 찾았네?<br>어디, 모두 <br>바지라를 데리러 갈까?"
-Japanese,scene_evt210329_cp1_q3_s10,detail,,<span class='scene-font-katari'>アニラ達が</span><br><span class='scene-font-katari'>アンチラの手招きに応じて</span><br><span class='scene-font-katari'>場所を移すと……</span>,<span class='scene-font-katari'>아니라 일행이</span><br><span class='scene-font-katari'>안치라의 손끝을 따라서 </span><br><span class='scene-font-katari'>바라본 장소에는……</span>
-Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,<span class='scene-font-4'>あはははははっ！</span><br>やったな～！？,<span class='scene-font-4'>아하하하하！</span><br>그렇게 했지～！？
+Japanese,scene_evt210329_cp1_q3_s10,detail,안치라,ねぇ！<br>ヴァジィいたよ！<br>こっちこっち！,여기!<br>바지라가 있어!<br>이쪽! 이쪽!
+Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,お、ようやく見つかったか。<br>どれ、みんなで<br>ヴァジラを迎えにいこうかの。,"아, 드디어 찾았나 보네?<br>그럼, 모두 <br>바지라를 데리러 갈까?"
+Japanese,scene_evt210329_cp1_q3_s10,detail,,<span class='scene-font-katari'>アニラ達が</span><br><span class='scene-font-katari'>アンチラの手招きに応じて</span><br><span class='scene-font-katari'>場所を移すと……</span>,<span class='scene-font-katari'>아니라 일행이</span><br><span class='scene-font-katari'>안치라의 손끝을 따라서 </span><br><span class='scene-font-katari'>바라본 곳에는……</span>
+Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,<span class='scene-font-4'>あはははははっ！</span><br>やったな～！？,<span class='scene-font-4'>아하하하하！</span><br>그렇게 했겠다～！？
 Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,<span class='scene-font-4'>お返しだ！</span><br><span class='scene-font-4'>そ～れっ！</span>,<span class='scene-font-4'>반격이다！</span><br><span class='scene-font-4'>이얍！</span>
 Japanese,scene_evt210329_cp1_q3_s10,detail,강아지들,<span class='scene-font-4'>きゃん！ きゃん！</span>,<span class='scene-font-4'>멍！ 멍！</span>
 Japanese,scene_evt210329_cp1_q3_s10,detail,가루쟈나,…………,…………
-Japanese,scene_evt210329_cp1_q3_s10,detail,,<span class='scene-font-katari'>足首が浸かるほどの浅いプールで</span><br><span class='scene-font-katari'>ヴァジラは犬達とじゃれあっていた。</span>,<span class='scene-font-katari'>발목이 잠길 정도의 얕은 풀장에서</span><br><span class='scene-font-katari'>바지라는 개들과 장난을 치고 있었다</span>
-Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,そうか！ 楽しいか～！<br>あはははは──,그렇지！ 재미있지～?！<br>아하하하하──
+Japanese,scene_evt210329_cp1_q3_s10,detail,,<span class='scene-font-katari'>足首が浸かるほどの浅いプールで</span><br><span class='scene-font-katari'>ヴァジラは犬達とじゃれあっていた。</span>,<span class='scene-font-katari'>발목이 잠길 정도의 얕은 풀장에서</span><br><span class='scene-font-katari'>바지라는 강아지들과 장난을 치고 있었다</span>
+Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,そうか！ 楽しいか～！<br>あはははは──,그래！ 재미있니～?！<br>아하하하하──
 Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,<span class='scene-font-4'>……はっ！？</span>,<span class='scene-font-4'>……앗！？</span>
 Japanese,scene_evt210329_cp1_q3_s10,detail,6 명,じー……,빤ー히……
 Japanese,scene_evt210329_cp1_q3_s10,detail,마키라,ヴァジラ君……,바지라군……
 Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,ち、ちがう……ちがうんだ……,"아, 아니야……아니라구……"
 Japanese,scene_evt210329_cp1_q3_s10,detail,안치라,なにがちがうの？ ヴァジィ。,뭐가 아닌데? 바지라?
-Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,じゅ、十二神将会議があるから<br>学ぶこともあると思って<br>今回、３匹を特別に連れてきたんだ……,"시, 십이신장회의가 있으니깐<br>배울것게 있을거라고 생각해서<br>이번에, 3마리를 특별히 데리고왔어……."
-Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,でもプールを見た途端、<br>一目散に走っていってしまってな……<br>わ、わしとガルは止めたんだ……,"그렇지만 풀장을 본 순간,<br> 쏜살같이 달려가 버렸어……<br>와, 나하고 가루쟈나는 말리려고 했어……."
+Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,じゅ、十二神将会議があるから<br>学ぶこともあると思って<br>今回、３匹を特別に連れてきたんだ……,"시, 십이신장회의가 있으니깐<br>배울게 있을거라고 생각해서<br>이번에, 3마리를 특별히 데리고왔어……."
+Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,でもプールを見た途端、<br>一目散に走っていってしまってな……<br>わ、わしとガルは止めたんだ……,"그렇지만 풀장을 본 순간,<br> 쏜살같이 달려가 버렸어……<br>와, 나하고 가루쟈나는 말리려고 했는데……."
 Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,ほう……？<br>止めてるようには見えなかったがの……,호오......?<br>말리려고 하는 것 같지는않아 보였는데......
 Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,<span class='scene-font-4'>ひうっ！？</span>,<span class='scene-font-4'>히익！？</span>
 Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,<span class='scene-font-2'>ガ、ガル……！</span><br><span class='scene-font-2'>アニラ姉は怒らせると怖いんだぞ……</span>,<span class='scene-font-2'>가、가루쟈나……！</span><br><span class='scene-font-2'>아니라 언니는 화나면 무섭다구……</span>
 Japanese,scene_evt210329_cp1_q3_s10,detail,가루쟈나,…………,…………
 Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,<span class='scene-font-4'>ま、まぁまぁ！</span><br>今日は着いたばかりだし、<br>会議はもう明日にするのはどう？,"<span class='scene-font-4'>자, 자！</span><br>오늘은 이제 막 도착한 참이니까<br>회의는 내일 하는게 어때？"
 Japanese,scene_evt210329_cp1_q3_s10,detail,마키라,明日？,내일?
-Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,そう！ 今日はもう<br>けっこう時間経っちゃったでしょ？<br>明日からでも遅くないと思わない？,맞아! 오늘은 벌써<br>시간이 많이 지났지?내일부터라도 늦지 않을거라고 생각하지 않아?
+Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,そう！ 今日はもう<br>けっこう時間経っちゃったでしょ？<br>明日からでも遅くないと思わない？,맞아! 오늘은 벌써<br>시간이 많이 지났지? 내일부터라도 늦지 않을거라고 생각하지 않아?
 Japanese,scene_evt210329_cp1_q3_s10,detail,비카라,クビラに賛成！<br>それにこんな大きな<br>プールを前にしたらさ……,쿠비라 의견에 찬성!<br>게다가 이렇게 큰 수영장을 눈 앞에 두고 서는……
 Japanese,scene_evt210329_cp1_q3_s10,detail,,<span class='scene-font-katari'>屋内型のプールでは</span><br><span class='scene-font-katari'>大勢の客が思い思いに</span><br><span class='scene-font-katari'>水と戯れていた。</span>,<span class='scene-font-katari'>실내형 수영장에는</span><br><span class='scene-font-katari'>많은 사람들이 </span><br><span class='scene-font-katari'>물놀이를 하고 있었다.</span>
 Japanese,scene_evt210329_cp1_q3_s10,detail,샤토라,おっきぃね……♪<br>とっても気持ちよさそう……,크네……♪<br>매우 기분 좋은 것 같아…….
@@ -215,21 +215,21 @@ Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,実は……私も持って
 Japanese,scene_evt210329_cp1_q3_s10,detail,바지라,ん？ 水着か？<br>わしも持ってきてるぞ。,어? 수영복?<br>나도 가져왔어.
 Japanese,scene_evt210329_cp1_q3_s10,detail,마키라,私も持ってきたよ。<br>念のため。,나도 가져왔어.<br>만일을 위해.
 Japanese,scene_evt210329_cp1_q3_s10,detail,샤토라,わたしもぉ……,나도.......
-Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,<span class='scene-font-4'>なんじゃと！？</span><br>どうして皆、水着を持ってきておる？,<span class='scene-font-4'>뭐라고！？</span><br>어째서 모두들 수영복을 가지고 온거야？
+Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,<span class='scene-font-4'>なんじゃと！？</span><br>どうして皆、水着を持ってきておる？,<span class='scene-font-4'>뭐라고！？</span><br>어째서 모두들 수영복을 가지고 온 것인가？
 Japanese,scene_evt210329_cp1_q3_s10,detail,쿠비라,あはは……だってもらった手紙に<br><span class='scene-font-place'>アウギュステ</span>がどうのって<br>書いてあったし……,아하하... 왜냐하면 받은 편지에<br><span class='scene-font-place'> 아우규스테</span>가 어쩌구 저쩌구 <br>적혀 있었고......
 Japanese,scene_evt210329_cp1_q3_s10,detail,비카라,ひょっとしたら<br>必要になるかもって思っちゃうよね！,어쩌면<br>필요하게 될지도 모른다고 생각했어!
-Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,ぐぬぬぬ……<br>遊び気分も否定はせぬが、<br>我らの目的はあくまで会議じゃぞ？,"으으으……<br>놀고 싶은 마음도 부정은 하지 않겠지만,<br>우리의 목적은 어디까지나 회의잖아?"
+Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,ぐぬぬぬ……<br>遊び気分も否定はせぬが、<br>我らの目的はあくまで会議じゃぞ？,"으으으……<br>놀고 싶은 마음도 부정은 하지 않겠지만,<br>우리의 목적은 어디까지나 회의지 않은가?"
 Japanese,scene_evt210329_cp1_q3_s10,detail,마키라,うん……<br>アニラ君の言うことはもっともだね。<br>それじゃ、水着は持ってきてないの？,"음......<br>아니라군의 말은 지당하군.<br>그럼, 아니라는 수영복 안 가져온거야?"
 Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,…………,…………
-Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,持ってきてないとは言わんがの？,안 가져왔다고는 말 안했다구...?
+Japanese,scene_evt210329_cp1_q3_s10,detail,아니라,持ってきてないとは言わんがの？,가져오지 않았다고는 말하지 안했네만...?
 Japanese,scene_evt210329_cp1_q3_s10,detail,6 명,持ってきてるんだ……,가져왔구나…….
-Japanese,scene_evt210329_cp1_q4_s10,synopsis,,屋内型プールをそれぞれ満喫する十二神将。そんな中、アニラは「[플레이어]が依頼を頑張っている中、遊んでいると気が引ける」と浮かない顔。しかしクビラの言葉とプールを楽しむ他の十二神将を見て、「ワーケーション」に励むべく気持ちを切り替えて遊びに繰り出す。こうして十二神将は、明日からがんばる、という思いを胸に刻み遊ぶのだった。,"실내형 수영장을 각각 만끽하는 12신장.그 중, 아니라는 「[플레이어]는 의뢰를 열심히 하고 있는데, 우리는 놀고 있으면 기분이 안 좋을것 같다」라고 침울해 한다.하지만 쿠비라의 말과 수영장을 즐기는 다른 열두 신장을 보며 「워케이션」이라는 마음을 가지고 놀이에 나선다.이렇게 십이신장은 내일부터 열심히 하겠다는 생각을 가슴에 새기고 노는 것이었다."
+Japanese,scene_evt210329_cp1_q4_s10,synopsis,,屋内型プールをそれぞれ満喫する十二神将。そんな中、アニラは「[플레이어]が依頼を頑張っている中、遊んでいると気が引ける」と浮かない顔。しかしクビラの言葉とプールを楽しむ他の十二神将を見て、「ワーケーション」に励むべく気持ちを切り替えて遊びに繰り出す。こうして十二神将は、明日からがんばる、という思いを胸に刻み遊ぶのだった。,"실내형 수영장을 각각 만끽하는 12신장. 그 중, 아니라는 「[플레이어]는 의뢰를 열심히 하고 있는데, 우리는 놀고 있으면 기분이 좋지 않을 것 같다」라고 침울해 한다. 하지만 쿠비라의 말과 수영장을 즐기는 다른 열두 신장을 보며 「워케이션」이라는 마음을 가지고 놀이에 나선다. 이렇게 십이신장은 내일부터 열심히 하겠다는 생각을 마음에 새기고 노는 것이었다."
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>大きなプールの一角に</span><br><span class='scene-font-katari'>少女達の笑い声が咲く。</span>,<span class='scene-font-katari'>큰 풀장의 한 모퉁이에</span><br><span class='scene-font-katari'>소녀들의 웃음 소리가 울려퍼진다</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,안치라,<span class='scene-font-4'>それっ！</span>,<span class='scene-font-4'>이얏！</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,바지라,<span class='scene-font-4'>うわっぷ……！</span>,<span class='scene-font-4'>우와아……！</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,바지라,あははははははっ！<br>外は寒いのにここはあったかくて<br>水遊びが気持ちいいなぁ～！,아하하하하핫! 밖에 추운데 여기는 따뜻해서 물놀이가 기분좋아~!
 Japanese,scene_evt210329_cp1_q4_s10,detail,안치라,えへへっ、十二神将のみんなで<br>こんな風にプールで遊べるなんて<br>思ってもみなかったよ！,"에헤헷, 12신장 모두와 수영장에서 이렇게 놀 수 있다니<br>생각도 못했어!"
-Japanese,scene_evt210329_cp1_q4_s10,detail,바지라,わしもだ！<br>あとでフライデーに<br>お礼を言わないとな！,나도야!<br>나중에 프라이데이에<br>감사의 말을 해야지!
+Japanese,scene_evt210329_cp1_q4_s10,detail,바지라,わしもだ！<br>あとでフライデーに<br>お礼を言わないとな！,나도야!<br>나중에 프라이데이에<br>감사의 말을 해야겠네!
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>水をかけあうアンチラとヴァジラを</span><br><span class='scene-font-katari'>同じ浮き輪に乗るマキラとシャトラは</span><br><span class='scene-font-katari'>のんびりと眺めていた。</span>,<span class='scene-font-katari'>서로에게 물을 뿌리는 안치라와 바지라를 여유롭게 튜브를 타는 마키라와 샤토라가 바라 보았다.</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,마키라,この流れるプールっていうの、<br>どうやって流れを作ってるんだろ？,이 흐르는 수영장이라는 건<br>어떻게 흐름을 만드는거지?
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>大きな空間をふんだんに使って</span><br><span class='scene-font-katari'>ぐるりと一周するプールの仕組みに</span><br><span class='scene-font-katari'>マキラは興味津々の様子である。</span>,<span class='scene-font-katari'>커다란 공간을 사용해서て</span><br><span class='scene-font-katari'>빙글하고 한바퀴 도는 수영장의 구조에</span><br><span class='scene-font-katari'>마키라는 흥미진진한 모습이었다</span>
@@ -249,10 +249,10 @@ Japanese,scene_evt210329_cp1_q4_s10,detail,샤토라,わたしを……<br>あ�
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>以来、シャトラは[플레이어]の</span><br><span class='scene-font-katari'>花嫁となるべく、修行しながら、</span><br><span class='scene-font-katari'>ハネムーン気分で旅を共にしている。</span>,"<span class='scene-font-katari'>이후, 샤토라는 [플레이어]의</span><br><span class='scene-font-katari'>신부가 될수 있도록 수행하면서</span><br><span class='scene-font-katari'>신혼여행 같은 기분으로 함께 여행을 하는 것이었다.</span>"
 Japanese,scene_evt210329_cp1_q4_s10,detail,마키라,ふふ、シャトラ君は本当に<br>[플레이어]君のことが<br>大好きだね。,후후、샤토라군은 정말로 <br>[플레이어]군을 <br>좋아하는 구나.
 Japanese,scene_evt210329_cp1_q4_s10,detail,샤토라,うししし……♪,우시시시……♪
-Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>夢見心地のマキラと</span><br><span class='scene-font-katari'>シャトラを乗せたまま、</span><br><span class='scene-font-katari'>浮き輪は２周目に入った。</span>,<span class='scene-font-katari'>꿈 결 같은 기분의 마키라와</span><br><span class='scene-font-katari'>シ샤토라를 태운채</span><br><span class='scene-font-katari'>튜브는 두바퀴째 흘러가고 있었다</span>
-Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>そんな彼女達を</span><br><span class='scene-font-katari'>アニラはプール際で眺めていた。</span>,<span class='scene-font-katari'>そんな彼女達を</span><br><span class='scene-font-katari'>アニラはプール際で眺めていた。</span>
+Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>夢見心地のマキラと</span><br><span class='scene-font-katari'>シャトラを乗せたまま、</span><br><span class='scene-font-katari'>浮き輪は２周目に入った。</span>,<span class='scene-font-katari'>꿈 결 같은 기분의 마키라와</span><br><span class='scene-font-katari'>샤토라를 태운채</span><br><span class='scene-font-katari'>튜브는 두바퀴째 흘러가고 있었다</span>
+Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>そんな彼女達を</span><br><span class='scene-font-katari'>アニラはプール際で眺めていた。</span>,<span class='scene-font-katari'>그런 그녀들을 </span><br><span class='scene-font-katari'>아니라는 수영장의 가장자리에서 바라보고 있었다。</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,くふふふ……<br>このような楽しい遊び場があるとはの！,크흐흐흐……<br>이런 재밌는 놀이터가 있다니!
-Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,しかし、それにしても……<br>[플레이어]殿達のことを思うと、<br>我らがこうして遊んでいるのは……,"그러나, 그렇다 치더라도……<br>[플레이어]공들을 생각하면,<br>우리가 이렇게 놀고 있는 것은……"
+Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,しかし、それにしても……<br>[플레이어]殿達のことを思うと、<br>我らがこうして遊んでいるのは……,"그건 그렇다 치더라도……<br>[플레이어]공들을 생각하면,<br>우리만 이렇게 놀고 있는 것은……"
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>アニラが考え込む一方、</span><br><span class='scene-font-katari'>彼女の後方にある</span><br><span class='scene-font-katari'>人ひとり分ほどの大きさの穴から……</span>,<span class='scene-font-katari'>아니라가 생각에 빠져있는 한편、</span><br><span class='scene-font-katari'>그녀의 뒤쪽에 있는 </span><br><span class='scene-font-katari'>사람정도의 크기의 구멍에서……</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,비카라,<span class='scene-font-4'>わーいッ！！</span>,<span class='scene-font-4'>와-이！！</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,<span class='scene-font-4'>きゃああぁぁぁっ！！</span>,<span class='scene-font-4'>꺄아아아！！</span>
@@ -263,24 +263,24 @@ Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,ゲホ……ゲホッ……
 Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,一体何事じゃ……？<br>ふたりはどこから現れたのじゃ？,도대체 무슨 일이야……?<br>둘은 어디서 나타난거야?
 Japanese,scene_evt210329_cp1_q4_s10,detail,비카라,これこれ！ この滑り台！<br>ウォータースライダー<br>っていうんだって！,이거 이거! 이 미끄럼틀! <br> 워터슬라이더 <br>라고 한대!
 Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,くふ……くふふふ……<br>ぽっかり穴が空いておると思ったら<br>そのような遊具じゃったとはのう……,크 …크흠…<br>구멍이 뻥 뚫려있는 줄 알았더니<br>그런 놀이기구였구나…….
-Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,それはさておき、ビカラよ。<br>ネズ耳がなくなっておるぞ。,"그건 그렇다 치고, 비카라여.<br>꼬투리 귀가 없어졌다네."
+Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,それはさておき、ビカラよ。<br>ネズ耳がなくなっておるぞ。,"그건 그렇다 치고, 비카라여.<br>생쥐 귀가 없어졌다네."
 Japanese,scene_evt210329_cp1_q4_s10,detail,비카라,<span class='scene-font-4'>あ……あぁっ！？</span><br>と、飛び込んだ勢いで<br>外れちゃったみたいです……,"<span class='scene-font-4'>아……아앗！？</span><br>무, 물에 뛰어들 때에 <br>빠졌나 봐요……"
 Japanese,scene_evt210329_cp1_q4_s10,detail,비카라,ささ、探さなくちゃ……！<br>あれがないと……あ、あたし……<br>あたし……ダメなんです……,"차, 찾지 못하면……！<br>그게 없으면……나、나는……<br>나……안돼요……"
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>ビカラは着け耳を探すため</span><br><span class='scene-font-katari'>先ほど飛び込んだあたりに</span><br><span class='scene-font-katari'>戻っていった。</span>,<span class='scene-font-katari'>비카라는 착용했던 귀를 찾기 위해</span><br><span class='scene-font-katari'>조금전 뛰어 든 근처로</span><br><span class='scene-font-katari'>돌아갔다.</span>
-Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,アニラはなにをしてたの？,아니라는 뭐하고 있어?
+Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,アニラはなにをしてたの？,아니라는 뭐하고 있었어?
 Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,なにということもないが、<br>[플레이어]殿のことを考えておった。<br>次の依頼主のもとへ向かったじゃろう？,"별 일 아니지만,<br>[플레이어]공을 생각하고 있었다네.<br>다음 의뢰주에게 갔지 않은가?"
-Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,こうして遊んでおると<br>無性に気が引けてしまってのう……,이렇게 놀고 있으면<br>괜히 주눅이 들어서 말이야……
+Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,こうして遊んでおると<br>無性に気が引けてしまってのう……,이렇게 놀고 있으면<br>괜히 미안한 마음이 들어서 말이야……
 Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,うん……確かにそうだね。<br>でも明日から会議に専念しようって<br>さっきみんなで話し合ったじゃない。,음……확실히 그렇네. 그래도 내일부터 회의에 전념하자고 아까 다같이 논의했잖아.
 Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,そうじゃの……<br>我はこういう切り替えが<br>得意ではないのかもしれぬ。,그렇다마는……<br>나는 이런 전환을<br>잘하지 못하는 건지도 몰라.
 Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,アニラはそういうところが<br>不器用なのかもね。<br>でも──,아니라는 그런 점이<br>서투른 건지도 모르겠네요.<br>그래도--
-Japanese,scene_evt210329_cp1_q4_s10,detail,바지라,なぁ、いまのはなんだ？<br>それって遊べるのか？,"야, 뭐야 방금?<br>그거 탈 수 있어?"
+Japanese,scene_evt210329_cp1_q4_s10,detail,바지라,なぁ、いまのはなんだ？<br>それって遊べるのか？,"아, 뭐야 방금?<br>그거 탈 수 있어?"
 Japanese,scene_evt210329_cp1_q4_s10,detail,안치라,うわぁ、これ滑り台だ！<br>プールにあるなんてびっくり！<br>ボクもやってみたいな！,우와 이거 미끄럼틀이다!<br>수영장에 있다니 놀라워!<br>나도 해보고 싶어!
 Japanese,scene_evt210329_cp1_q4_s10,detail,마키라,私も。<br>それ、興味あるなぁ。<br>どういう造りなんだろ？,"나도.<br>그거, 흥미롭네.<br>어떤 구조일까?"
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>ビカラとクビラの様子を見ていたらしく</span><br><span class='scene-font-katari'>ウォータースライダーのふもとに</span><br><span class='scene-font-katari'>十二神将が集まった。</span>,<span class='scene-font-katari'>비카라와 쿠비라의 모습을 보고 있었던 듯</span><br><span class='scene-font-katari'>워터슬라이더의 근처에</span><br><span class='scene-font-katari'>십이신장이 모였다.</span>
 Japanese,scene_evt210329_cp1_q4_s10,detail,샤토라,わぁ……！ 本物の<br>うぉーたーすらいだーだぁ……♪,와...! 진짜<br>워터슬라이더다..♪
 Japanese,scene_evt210329_cp1_q4_s10,detail,마키라,知ってたの、シャトラ君？,알고 있었어 샤토라 군?
 Japanese,scene_evt210329_cp1_q4_s10,detail,샤토라,うん。絵物語では、<br>デートの「てっぱん」だよ……？,"응. 그림이야기에서는,<br>데이트의 「정석」이야……?"
-Japanese,scene_evt210329_cp1_q4_s10,detail,샤토라,えっとね、ばしゃーんってなって、<br>水着がとれちゃわないように、<br>気をつけないとダメなの……,"그러니까 말이야, 첨벙거려서,<br>수영복이 벗겨지지 않도록,<br>조심하지 않으면 안 돼……."
+Japanese,scene_evt210329_cp1_q4_s10,detail,샤토라,えっとね、ばしゃーんってなって、<br>水着がとれちゃわないように、<br>気をつけないとダメなの……,"그러니까 말이야, 풍덩~하고,<br>수영복이 벗겨지지 않도록,<br>조심하지 않으면 안 돼……."
 Japanese,scene_evt210329_cp1_q4_s10,detail,마키라,そうなんだ……<br>じゃあ、水着がとれない滑り方、<br>一緒に考えてみようか。,"그렇구나……<br>그럼, 수영복이 벗겨지지 않게 잘타는 방법,<br>함께 생각해 볼까."
 Japanese,scene_evt210329_cp1_q4_s10,detail,비카라,それじゃあ、みんなで滑ろっか！,그럼 우리 다 같이 타보자!
 Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,ふふふ……<br>みんなこんなに楽しんでるんだし、<br>今日はお休みにしようよ？,"후후후……<br>모두 이렇게 즐기고 있고,<br>오늘은 쉬자구?"
@@ -290,4 +290,4 @@ Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,まぁ神将同士で<br>�
 Japanese,scene_evt210329_cp1_q4_s10,detail,아니라,うむ！<br>では我もウォータースライダーとやらを<br>楽しむとするかのう！,음!<br>그러면 우리도 워터슬라이더 라던가 하는것을 즐겨 보세나!
 Japanese,scene_evt210329_cp1_q4_s10,detail,쿠비라,うん！<br>そうしようよ！,응!<br>그렇게하자!
 Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>こうして十二神将は</span><br><span class='scene-font-katari'>ひとまず会議の予定を先送りにし、</span><br><span class='scene-font-katari'>この日は遊びに興じることにした。</span>,"<span class='scene-font-katari'>이렇게 십이신장은 </span><br><span class='scene-font-katari'>일단 회의 일정을 미루고,</span><br><span class='scene-font-katari'>오늘은 놀기로 했다.</span>"
-Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>明日からがんばる。</span><br><span class='scene-font-katari'>その思いを胸に刻み……</span>,<span class='scene-font-katari'>내일부터는 열심히 해야지. </span><br><span class='scene-font-katari'>그 생각을 마음에 새기고……</span>
+Japanese,scene_evt210329_cp1_q4_s10,detail,,<span class='scene-font-katari'>明日からがんばる。</span><br><span class='scene-font-katari'>その思いを胸に刻み……</span>,<span class='scene-font-katari'>내일부터는 열심히 해야지. 라는</span><br><span class='scene-font-katari'>그 생각을 마음에 새기고……</span>
