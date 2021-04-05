@@ -203,206 +203,206 @@ Japanese,"scene_tutorial03,041",detail,비,だから……行こうぜ！<br>[�
 Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>不思議な少女と魂を共有した事により</span><br><span class='scene-font-katari'>特殊な力を得た[플레이어]は</span><br><span class='scene-font-katari'>故郷をあとにする。</span>,<span class='scene-font-katari'>신기한 소녀와 영혼을 공유한 것으로</span><br><span class='scene-font-katari'>특별한 힘을 얻은 [플레이어]는</span><br><span class='scene-font-katari'>고향을 뒤로 한다.</span>
 Japanese,"scene_tutorial03,041",detail,,<span class='scene-font-katari'>無限の果てに待つ父を想う</span><br><span class='scene-font-katari'>[플레이어]の髪を</span><br><span class='scene-font-katari'>一陣の蒼い風が優しく撫でた。</span>,"<span class='scene-font-katari'>무한의 끝에 기다리는, 아버지를 생각하는</span><br><span class='scene-font-katari'>[플레이어]의 머리를, 불어온 </span><br><span class='scene-font-katari'>푸른 바람이 부드럽게 쓰다듬어주었다.</span>"
 
-English,"scene_tutorial00,011",synopsis,,"Inspired by their father's letter, a young dreamer seeks the end of the sky. But on preparing to depart, a warship appears in the village along with a mysterious girl seeking aid.",아버지가 남긴 편지에 이끌려 하늘의 끝으로 여행을 떠나려는 소년(소녀). 그 순간 마을에 전함이 나타나고 수수께끼의 소녀가 도움을 청한다.
-English,"scene_tutorial00,011",detail,,"In a world abandoned by the gods, a lone dragon remained.","<span class='scene-font-katari'>신에게 버림받은 그 세계에는,</span><br><span class='scene-font-katari'>용 하나가 남아있었다.</span>"
-English,"scene_tutorial00,011",detail,,"Bahamut, ruler of creation through destruction, sought to refine the realm the gods left behind into a richer, more bountiful place.","파괴에 의한 창조를 관장하는 용, 바하무트는 신이 버리고간 왕국을 풍요로운 장소로 가꾸고 있었다."
-English,"scene_tutorial00,011",detail,,But the arrival of invaders from beyond the sky—the Astrals—brought an end to his plans.,"그러나 하늘 저편에서 온 침략자들, 즉 아스트랄스의 도착은 그의 계획에 종지부를 찍었다."
-English,"scene_tutorial00,011",detail,,The Astrals used creatures of terrible power known as primal beasts to bring the sky under their control. Long did the skies belong to the stars.,"아스트랄인들은 성정수로 알려진 무서운 힘의 생물들을 이용해 하늘을 그들의 지배하에 두었다. 그러자, 오랫동안 하늘은 별들의 것이 되었다."
-English,"scene_tutorial00,011",detail,,But the skydwellers bided their time and learned from their foes. Eventually they fought to take back the skies in a conflict that would come to be known as the War.,그러나 하늘의 주민들은 그들의 시간을 벌어가며 적들로부터 배웠다. 결국 그들은 하늘을 되찾기 위해 싸웠고 패공전쟁이라 알려지게 되었다.
-English,"scene_tutorial00,011",detail,,"And here we find the Sky Realm, now a world of fragmented lands floating in a sea of clouds.","이후, 여기서 우리는 구름의 바다에 떠 있는 조각난 땅의 세계인 하늘 왕국을 발견한다."
-English,"scene_tutorial00,011",detail,,"A new tale is about to begin here, spanning the skies and the stars alike...",하늘과 별을 아우르는 새로운 이야기가 여기서 시작되려 한다...
-English,"scene_tutorial00,011",detail,Vyrn,"Say, are you serious about leavin' the village?",야~ 너 정말 마을을 떠날 생각이야?
-English,"scene_tutorial00,011",detail,Vyrn,"Sure, your dad wrote about the end of the sky in his letter, but getting there might as well be impossible...","아무리 아버지의 편지에 있었다고 해도 하늘 끝이라니, 그런 장소, 도달할 수 있을리가…"
-English,"scene_tutorial00,011",sel1_txt,,I know we can reach it!,분명 갈 수 있을거야!
-English,"scene_tutorial00,011",sel2_txt,,I have a plan.,계획이 있어
-English,"scene_tutorial00,011",detail,Vyrn,Oh! You mean with the Sky Map? The thingy the Astrals put together centuries ago?,아! 하늘 지도를 말하는거야? 하늘의 백성이 수백 년 전에 썼다는 그거?
-English,"scene_tutorial00,011",detail,Vyrn,"If we had something like that, we could go anywhere! But you know that map's just something out of a fairy tale...","그야, 그게 있으면, 어디라도 갈지도 모르지만. 그런건 동화 이야기겠지..."
-English,"scene_tutorial00,011",detail,Vyrn,"Real or not, there's no stopping you once you've made up your mind. Beats hanging around this sleepy village anyway!","뭐, 아무리 말을 해봤자 안들을거겠지만 말야. 이런 마을에서 조용히 사는것보다는 훨씬 재미있을것같은데! 헤헤."
-English,"scene_tutorial00,011",detail,Vyrn,Huh?<br>Whoa! Hang on a minute! What was that?,음? 기다려! 뭐야?!
-English,"scene_tutorial00,011",detail,Vyrn,That's... a battleship! What's it doing here in the middle of nowhere?,저건...전함인가? 이런 시골에!
-English,"scene_tutorial00,011",detail,Vyrn,No way! What's going on here? I just heard something explode!,뭐야?! 방금 뭔가 터졌어!
-English,"scene_tutorial00,011",detail,???,...,...
-English,"scene_tutorial00,011",sel1_txt,,I just saw a flash over by the forest...,지금 뭔가 빛났어...
-English,"scene_tutorial00,011",detail,Vyrn,What do you think it was? A part of the ship?,뭐라고? 전함의 부품인가?
-English,"scene_tutorial00,011",detail,Vyrn,Hoo boy... What if that sets the whole forest on fire?,그게...숲에 떨어저서 불이라고 난다면...
-English,"scene_tutorial00,011",sel1_txt,,We'd better check it out!,확인하러 가보자!
-English,"scene_tutorial00,011",detail,Vyrn,Whatever fell from that battleship should be over... here.,"군함에서 뭔가 떨어졌다면, 아마 이 근처에……"
-English,"scene_tutorial00,011",detail,???,Eek!,꺄아!
-English,"scene_tutorial00,011",detail,Mysterious Girl,Ouch...,아야야...
-English,"scene_tutorial00,011",detail,Mysterious Girl,...!,...!
-English,"scene_tutorial00,011",detail,Vyrn,Who's the girl? Never seen her around here before.,"뭐야, 이 아가씨.본 적이 없는 얼굴이네……"
-English,"scene_tutorial00,011",sel1_txt,,"Are you okay? You're not hurt, are you?",괜찮아? 다친 곳은 없어?
-English,"scene_tutorial00,011",detail,Mysterious Girl,P-please! S-save me!,"아! 저기! 도, 도와주세요"
-English,"scene_tutorial00,011",detail,Vyrn,H-hey... That's a big request to spring on someone!,이봐 이봐... 대체 어떻게 된거야?
-English,"scene_tutorial00,011",detail,Gruff Voice,You there! Halt!<br>Drop your sword! Hands in the air!,거기 멈춰! 검을 발 밑에 두고 두 손을 들어!
-English,"scene_tutorial00,011",detail,Mysterious Girl,Gasp!,앗!
-English,"scene_tutorial00,011",detail,,"Soldiers in pursuit of the girl show up. Their armor suggests they are with the villainous Erste Empire, which employs military might to force kingdoms throughout the skies to their knees.","소녀를 따라 나타난 것은, 무력으로 다른 나라들을 지배하려는 악명이 자자한 ‘엘스테 제국’의 병사들이었다."
-English,"scene_tutorial00,011",detail,Vyrn,Who are you guys? Are you trying to pick a fight?,"뭐, 뭐야? 너네들 우리랑 해보겠다는거야?!"
-English,"scene_tutorial00,011",detail,Imperial Soldier,"If your life means anything to you, you'll cooperate and hand over that girl.",목숨이 아깝다면 순순히 저 여자 아이를 이쪽으로 넘겨라.
-English,"scene_tutorial00,011",detail,,The soldier's words are not the kind heard in peaceful lands.,명백한 적의와 살의에 겁먹은 소녀는 거절 의사를 보인다.
-English,"scene_tutorial00,011",detail,Mysterious Girl,N-no!,시...싫어!
-English,"scene_tutorial00,011",detail,Imperial Soldier,You heard me! Hand her over! You don't want to force my hand.,소녀를 이쪽으로 넘겨! 거칠게 굴고 싶지 않아!
-English,"scene_tutorial00,011",sel1_txt,,She asked for our help!,도와달라고 들었으니 가만히 있을 수 없어!
-English,"scene_tutorial00,011",sel2_txt,,Like we can trust you!,너희들을 믿을 수 없어!
-English,"scene_tutorial00,011",detail,Vyrn,That's right! We can't just do what you say when she's shakin' like a leaf over here!,맞아 맞아! 너네들 멋대로 말하지말라구! 애가 무서워 하잖아!
-English,"scene_tutorial00,011",detail,Imperial Soldier,"So that's how we're gonna play it, huh? Don't say I didn't warn you!",칫...귀찮게시리... 나중에 후회하지 말라고!
-English,"scene_tutorial00,011",detail,,...!,...!
-English,"scene_tutorial01,021",synopsis,,"Two elite soldiers are pursuing the mysterious girl named Lyria. The knight Katalina tries to protect her, while Captain Pommern attempts to do harm to the girl and young dreamer alike.",수수께끼의 소녀 루리아를 쫓기위해 두 명의 정예 병사가 모습을 나타낸다. 여기사 카타리나는 루리아를 지키려 하지만 폼메른 대위는 루리아를 포함해 전원에게 위해를 가하려 한다.
-English,"scene_tutorial01,021",detail,Imperial Soldier,Argh! Why you little...,아악...! 애새끼 주제에!
-English,"scene_tutorial01,021",detail,,...,...
-English,"scene_tutorial01,021",detail,Vyrn,"Betcha weren't expecting that, huh? You can only dream of matching my pal's sword skills!",어때! 정말 역시나야! 홀딱 반해버릴 검솜씨구만!
-English,"scene_tutorial01,021",detail,Imperial Soldier,Curses... This isn't over!,빌어먹을... 이대로 끝났다고 생각하지 마라!
-English,"scene_tutorial01,021",detail,Vyrn,A friend of his? Stay sharp!,더 있어!? 조심해!
-English,"scene_tutorial01,021",detail,Knight,Lyria! Are you all right?,루리아! 무사하니?
-English,"scene_tutorial01,021",detail,Mysterious Girl,Katalina! I... I...,카타리나... 나... 나는...
-English,"scene_tutorial01,021",detail,Knight,Thank goodness she hasn't been injured. Have you two been protecting her?,다친 곳은 없는 것 같군. 너희가 루리아를 지켜줬니?
-English,"scene_tutorial01,021",detail,Vyrn,"I guess you could say that! They were after us too, so we just did what came naturally.","지킨다고 할까. 그치? 그 병사들, 우리들도 공격하려 하니까... "
-English,"scene_tutorial01,021",detail,Mysterious Girl,"You should have seen it, Katalina! This hero saved me! It was so... heroic!","저기! 저! 저 사람, 나를 도와줘서…너무 멋있었거든!"
-English,"scene_tutorial01,021",detail,Knight,"Is that so? Well, I'm just glad you're safe.",그렇구나.. 어쨌든 무사해서 다행이야.
-English,"scene_tutorial01,021",detail,Vyrn,"So, um... Who are you guys exactly?",그건 그렇고 말이야...너희들은 대체 뭐야?
-English,"scene_tutorial01,021",detail,Vyrn,Doesn't seem like you're friends with those jerks from earlier.,아까 그 녀석들의 동료처럼 보이지는 않는데 말야.
-English,"scene_tutorial01,021",detail,Katalina,"Ah, yes, how rude of me. My name is Katalina Aryze.",실례했다. 나는 카타리나 아리제라고 해.
-English,"scene_tutorial01,021",detail,Katalina,And this is Lyria. I can't thank you enough for saving her.,이 아이는 루리아. 도와줘서 정말로 고마워.
-English,"scene_tutorial01,021",detail,Katalina,"If you don't mind, could you tell me your name as well?",너도....괜찮다면 이름을 가르쳐주지 않을래?
-English,"scene_tutorial01,021",detail,Vyrn,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?,나는 뷔야! 그런데 두 사람은 어디서 온 거야? 저 병사들에게 쫓기고 있는 건가?
-English,"scene_tutorial01,021",detail,Lyria,"W-where? Well, uh...","어, 어디서 부터 말해야... 저어..."
-English,"scene_tutorial01,021",detail,Katalina,That's right...<br>We... were being chased.,"그렇다, 쫓기고 있다."
-English,"scene_tutorial01,021",detail,Katalina,"Which is why we need to get out of here before more of them show up, and—",여기는 위험해. 또 그 병사들이 오겠지. 너희들은 빨리-
-English,"scene_tutorial01,021",detail,???,Lieutenant Katalina!,카타리나 중위!
-English,"scene_tutorial01,021",detail,???,"I do say. Did I give the order for you to stop and smell the roses out here, Lieutenant?",이런곳에서 무~슨 딴전을 부리는 거예요? 중위라는 자가 단독행동인가요?
-English,"scene_tutorial01,021",detail,Katalina,"C-Captain Pommern! Terribly sorry, sir. I'll return Lyria to the ship immediatel—","폼메른 대위님...! 저, 정말로 죄송합니다. 즉시 루리아를 데리고 전함으로..."
-English,"scene_tutorial01,021",detail,Pommern,"Enough of these lies! You're the one who spirited her away from the ship, are you not?",정말 거짓말이 뻔하군요! 소녀를 놓친건 당신이죠?
-English,"scene_tutorial01,021",detail,Pommern,I do say! To defy the mighty Erste Empire requires profound bravery... and profound <span class='scene-font-italic'>stupidity</span>.,"위대한 에르스테 제국에 반하다니, 배짱이 좋네요!"
-English,"scene_tutorial01,021",detail,Katalina,...,...
-English,"scene_tutorial01,021",detail,Pommern,You knew the classified nature of the girl's existence when we placed her in your protection.,기밀 사항인 저 소녀의 관찰역을 맡았으면서. 이 처사! 재상 각하가 얼마나 실망하실지...
-English,"scene_tutorial01,021",detail,Pommern,"Which means you must surely be aware of the gravity of your actions, yes?",당신이라면 일의 중대함을 이해하고 있을텐데요!?
-English,"scene_tutorial01,021",detail,Pommern,We need that girl to command the primals. To assist in her escape demands a grave punishment indeed!,성정수를 제어하기 위해서 그 소녀는 필수불가결하니까요! 배임은 중죄겠죠?
-English,"scene_tutorial01,021",detail,Katalina,Captain... I simply thought it too dangerous for us to attempt using the power of the primal beasts.,"대위... 성정수를 우리 인간이, 그것도 군사적으로 그 힘을 이용한다고 말하는 것은 너무 위험한건 아닐지."
-English,"scene_tutorial01,021",detail,Katalina,The primals are a legacy of the Astrals... Terrifying weapons that set the skies ablaze during the War.,성정수는 별의 백성의 유산... 과거 대전에서 하늘을 불태웠던 무서운 무기입니다.
-English,"scene_tutorial01,021",detail,Katalina,There's still much we don't know about them. To wield their power is—,"그 힘이나 정체는 아직 모르는 것이 많으며, 사람의 손으로 제어하기에는-"
-English,"scene_tutorial01,021",detail,Pommern,Don't change the subject!,화제를 돌리지 않았으면 좋겠네요!
-English,"scene_tutorial01,021",detail,Pommern,I do say... I've had quite enough of your insipid drivel. It's time to do what we came here for.,정말이지... 더이상 하찮은 일에 시간을 소비하고 싶지 않군요... 빠르게 처리하도록 할까요...
-English,"scene_tutorial01,021",detail,Pommern,Bweheheh... Who will weep for this pathetic backwater burg? No one! We shall destroy it!,"쿳쿠쿠쿠... 여기 이정도의 변방이라면,마을 통째로 지워버리면 발이 닿는 일은 없을태니까요!"
-English,"scene_tutorial01,021",detail,Vyrn,Excuse me?,뭐라고? 
-English,"scene_tutorial01,021",detail,Pommern,"I'll rid this place of anyone who opposes us! For I do say, the power to control the primals belongs to the Empire!",방해자는 배제할 수 밖에 없어요! 성정수를 거느리는 힘은 제국의 것이니까요!
-English,"scene_tutorial01,021",detail,Pommern,Release the Hydra!,<span class='scene-font-4'> 히드라를 풀어버리세요! </span>
-English,"scene_tutorial01,021",detail,Imperial Soldier,Sir!,알겠습니다!
-English,"scene_tutorial01,021",detail,Katalina,The Hydra? It can't be!,히드라...? 설마!
-English,"scene_tutorial01,021",detail,Pommern,"It can, Lieutenant! And all so that you may take <span class='scene-font-italic'>proper</span> responsibility for your actions!",그 설마입니다요. 중위님! 중위에게도 합당한 책임을 지게 할태니까요!
-English,"scene_tutorial01,021",detail,Imperial Soldier,Use the Hydra! Spread out in formation to keep them from running!,히드라를 풀어! 저놈들이 못도망가게 후방에 진을 쳐!
-English,"scene_tutorial01,021",detail,Hydra,Groooar!,<span class='scene-font-4'>그아아아아앗!</span>
-English,"scene_tutorial01,021",detail,Vyrn,Where'd this crazy monster come from! Did that beard-twirlin' doofus bring it with him?,이런 괴물 어디에서...!? 저 수염 아저씨가 데려온건가!?
-English,"scene_tutorial01,021",detail,Lyria,Katalina!,카타리나!
-English,"scene_tutorial01,021",detail,Katalina,"You really intend to burn this island to the ground, don't you?",정말로... 이 섬째 몽땅 태워 버릴 셈인가?
-English,"scene_tutorial01,021",detail,Katalina,Is that how far the Empire's willing to go to use Lyria's power as their own?,그렇게까지 하면서 제국은 루리아의 힘을 이용하려는 것인가!
-English,"scene_tutorial01,021",detail,Pommern,"I believe we've explained this before, Lieutenant. With her power as a foundation, the Empire will rule the skies.",그러니까 그렇다고 말하고 있자나요. 제국이 하늘의 지배자가 되기 위한 주춧돌로서 필요하니깐요.
-English,"scene_tutorial01,021",detail,Pommern,We came to this island to research its primal shrine...,그 연구의 일환으로 이 섬에 있는 성정의 사당을 찾으러 온것인데요...
-English,"scene_tutorial01,021",detail,Pommern,But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>,설마 그걸 틈타서 탈주를 꾀하다니 초장부터 좌절한 기분이에요!
-English,"scene_tutorial01,021",detail,Lyria,"Katalina, I'm sorry... This is all because I asked you to take me outside...",카타리나... 미안해. 내가 멋대로 여기서 나가고 싶다고 말하는 바람에...
-English,"scene_tutorial01,021",detail,Katalina,"Lyria, I promised to show you the outside world. And no matter what happens, I'll stand by that promise.",루리아. 내가 바깥 세계를 보여주겠다고 약속했잖아. 약속을 꼭 지켜주겠어.
-English,"scene_tutorial01,021",detail,Hydra,Grrr!,크르르르...
-English,"scene_tutorial01,021",detail,[플레이어],...!,...!
-English,"scene_tutorial01,021",detail,Vyrn,Hold on... You're not actually thinking about tangling with that thing!,어이어이... 정말로 저 녀석이랑 한판 하겠다고?
-English,"scene_tutorial01,021",sel1_txt,,We have to save them!,도와야 해!
-English,"scene_tutorial01,021",sel2_txt,,It's now or never!,할 수 밖에 없어!
-English,"scene_tutorial01,021",detail,Pommern,I do say! It seems none of you are willing to accept reality!,"흥...! 이 녀석이나 저 녀석이나, 현실이라는 것이 보이지 않는 것 같군요..."
-English,"scene_tutorial01,021",detail,Pommern,Hydra! Dispose of this miserable little moppet!,히드라아! 일단 저기 애송이부터 처리하세요!
-English,"scene_tutorial01,021",detail,Pommern,May the tot serve as a fitting example of what happens when you defy the Empire!,피의 축제에 올려버리세요!
-English,"scene_tutorial01,021",detail,Hydra,Groooar!,크르르르!!
-English,"scene_tutorial01,021",detail,[플레이어],...!,...!
-English,"scene_tutorial01,021",detail,[플레이어],...,...
-English,"scene_tutorial01,021",detail,Vyrn,"Whoa! <span class='nickname'></span>!<br>H-hang in there, buddy!","앗!? 야! 저, 정신 차려. 야!"
-English,"scene_tutorial01,021",detail,Pommern,Bweheheh! How utterly pitiful!,크크크크! 얼마나 딱한가!
-English,"scene_tutorial01,021",detail,Katalina,"An innocent civilian, and a child at that... Pommern! Just how far have you fallen!","미, 민간인, 그것도 아이를... 폼메룬! 네놈, 어디까지 썩어있나!?"
-English,"scene_tutorial01,021",detail,Vyrn,"Hey, <span class='nickname'></span>! Stop kidding around! Say something! Anything!","야, 거짓말이지? 농담이지? 대답해, 야! 야!"
-English,"scene_tutorial01,021",detail,Lyria,Everything's... all right...,....괜..찮아...
-English,"scene_tutorial01,021",detail,Pommern,I do say! What is this light?,이 빛은....!?
-English,"scene_tutorial01,021",detail,Vyrn,Look... The shrine's primal crystal is reacting... What is she doing?,성정의 사당이 반응하고 있어. 이 아가씨가 무엇을...?
-English,"scene_tutorial01,021",detail,Pommern,Oh ho... We heard the shrine here was special...,호....! 저것이 바로 예의 사당이었던 거군요.
-English,"scene_tutorial01,021",detail,Pommern,B-but what in the skies is this?,"그, 그런데.... 이것은 도대체?"
-English,"scene_tutorial01,021",detail,Lyria,Don't worry now...,괜찮아요....
-English,"scene_tutorial01,021",detail,Lyria,<span class='nickname'></span>... I bestow my power on you!,나의 힘... 당신에게 맡기겠습니다...!
-English,"scene_tutorial02,031",synopsis,,Lyria reveals how she pried [플레이어] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [플레이어] and Lyria's souls are now permanently intertwined.,폼메른 대위가 내보낸 히드라에 의해 치명상을 입은 [플레이어]. 루리아와 생명을 공유하게 함으로써 생명을 구해낸 루리아. [플레이어]는 루리아와 말 그대로 일심동체가 된다.
-English,"scene_tutorial02,031",detail,Lyria,Primeval dragon...,태초의 용...
-English,"scene_tutorial02,031",detail,Lyria,Child of flames and darkness...,불꽃과 어둠의 아이...
-English,"scene_tutorial02,031",detail,Lyria,Thy name is...,너의 이름은-
-English,"scene_tutorial02,031",detail,Lyria,Bahamut!,바하무트!
-English,"scene_tutorial02,031",detail,Bahamut,Roooar!,오오오오!!!
-English,"scene_tutorial02,031",detail,Hydra,Gwaarrgh...,크아...아아...
-English,"scene_tutorial02,031",detail,Pommern,What? It can't be! How could my beloved Hydra be annihilated with a single attack!,"앗!? 이, 이럴수가! 히드라가 일격에 당해버렸다구!?"
-English,"scene_tutorial02,031",detail,Pommern,"No! No, no, no! It can't be! I refuse to believe it!","아뇨, 아뇨, 아뇨! 이럴 수가 없단 말이에요! "
-English,"scene_tutorial02,031",detail,WaWa,...,...
-English,"scene_tutorial02,031",detail,Vyrn,"Hey! Now's our chance! Let's get outta here, [플레이어]!",야! 지금이야! [플레이어]! 여기를 떠나자!
-English,"scene_tutorial02,031",detail,Katalina,"This way, [플레이어]! We have to get those wounds treated immediately!","이쪽이다! [플레이어]! 의식은 분명한 것 같지만, 빨리 상처를 치료하지 않으면...!!"
-English,"scene_tutorial02,031",detail,,"Thanks to Lyria's mysterious powers, [플레이어] was able to summon a primal beast and defeat the Hydra.",수수께끼의 소녀 루리아의 힘으로 성정수를 소환하고 히드라를 무찔렀다.
-English,"scene_tutorial02,031",detail,,"The group takes advantage of the confusion to slip away. With Katalina acting as a guide, they escape the forest.",폼메른 대위가 당황하고 있는 틈을 파고들어 카타리나의 유도로 숲 밖으로 탈출을 하였다.
-English,"scene_tutorial02,031",detail,Vyrn,Huff... Huff... I think we managed to lose the beard-twirlin' doofus...,하아...하아... 아까 수염 아저씨한태서 어떻게든 도망쳤나?
-English,"scene_tutorial02,031",detail,Vyrn,That primal beast... You said its name is Bahamut? You managed to awaken a primal?,아까 그 성정수. 바하무트라고 했어? 자고있던 성정수가 깨어난건가?
-English,"scene_tutorial02,031",detail,Vyrn,I thought the Astrals were the only ones who could control them.,근데 성정수는 별의 민족 밖에 다룰 수 없을 테고...
-English,"scene_tutorial02,031",detail,Vyrn,"Besides, weren't the primals all wiped out hundreds of years ago during the War?",원래 성정수는 수백 년 전에 패공전쟁에서 전멸하지 않았어?
-English,"scene_tutorial02,031",detail,Katalina,Lyria's power makes it possible. She's the only one who can control them... besides the Astrals.,루리아의 힘이다. 이 아이는 별의 민족만 따르는 성정수를 조종할 수 있다.
-English,"scene_tutorial02,031",detail,Lyria,...,...
-English,"scene_tutorial02,031",detail,Katalina,And it would appear that's not all she can do...,이것도 루리아의 힘일까..
-English,"scene_tutorial02,031",detail,,The deep flesh wounds from the Hydra's claws have vanished from [플레이어].,히드라로부터 찢긴 옷 안으로 들여다보이는 [플레이어]의 상처는 어디에서도 찾아볼 수 없었다.
-English,"scene_tutorial02,031",detail,Katalina,Are you okay? Any pain or discomfort?,괜찮니? 위화감 같은것 느끼는 건 없니?
-English,"scene_tutorial02,031",sel1_txt,,I seem to be fine.,괜찮은 것 같아요
-English,"scene_tutorial02,031",sel2_txt,,Nothing feels strange.,딱히 위화감은 없어요
-English,"scene_tutorial02,031",detail,Lyria,Katalina... [플레이어] risked life and limb to save me...,카타리나... [플레이어]는 목숨을 걸고 나를 구해줬어...
-English,"scene_tutorial02,031",detail,Lyria,"But as a result, [플레이어] suffered horribly. Seeing [플레이어]'s vital flame begin to flicker and weaken, I decided to link our beings...",나 때문에 [플레이어]는 생명의 빛을 잃었어. 그래서 나랑 생명을 링크시킨거야.
-English,"scene_tutorial02,031",detail,Lyria,To repay [플레이어] in kind!,이번에는 내가 [플레이어]를 돕기 위해서...!
-English,"scene_tutorial02,031",detail,Katalina,What!,아!
-English,"scene_tutorial02,031",detail,Lyria,That's right. From now on our souls are permanently intertwined...,"그래, 이제부터 나와  [플레이어]는 말 그대로 일심동체"
-English,"scene_tutorial02,031",detail,Lyria,[플레이어] and I now share the same life force.,나와 [플레이어]는 하나의 생명을 공유하게 돼...
-English,"scene_tutorial02,031",detail,Lyria,I hope you're not mad... It was my only choice.,"미안해요, [플레이어]. 불편한 몸이 되어버려서. 하지만 그때는 이렇게 하는 수 밖에..."
-English,"scene_tutorial02,031",sel1_txt,,Thanks for saving me!,구해줘서 고마워
-English,"scene_tutorial02,031",detail,Lyria,...,...
-English,"scene_tutorial02,031",detail,Lyria,"By the way, I didn't summon that primal just by myself.",그리고 아까 소환은 저만의 힘이 아닙니다
-English,"scene_tutorial02,031",detail,Lyria,"Bahamut seems to have appeared to protect you, [플레이어]... To lend you strength.","성정수 바하무트는 [플레이어]를 지키듯 나타나서, 오히려 힘을 빌려주었다고나 할까..."
-English,"scene_tutorial02,031",detail,Vyrn,No way... That's incredible! I always knew [플레이어] was something special!,"굉장하구나! 나, [플레이어]는 예전부터 할땐 하는 녀석이라고 생각했었어!"
-English,"scene_tutorial02,031",detail,Imperial Soldier,"Hey, I've found them! They're over here!","어이, 여기있다! 이쪽이야!"
-English,"scene_tutorial02,031",detail,Vyrn,"Rats... Didn't take long for his cronies to show up. Are you good to go, [플레이어]?",증원에 들켜버린것 같네. 할 수 있겠어? [플레이어]
-English,"scene_tutorial02,031",detail,Katalina,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.,한번 죽다 살아난 몸이다. 무리는 하는게 아니야. 여기는 내가...!
-English,"scene_tutorial02,031",detail,Vyrn,"Are you sure? I mean, aren't you working for them?",괜찮아? 너 일단 그 제국의 기사 아니야?
-English,"scene_tutorial02,031",detail,Katalina,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape.",이야기는 들었었지? 나는 제국을 배신하고 루리아가 도망칠 수 있도록 도와줬어. 
-English,"scene_tutorial02,031",detail,Katalina,I'll save the rest for later.<br>Now get ready! They're here!,"이야기는 나중에! 자, 준비하자! 적이 온다!"
-English,"scene_tutorial03,041",synopsis,,"Concluding that they'll be captured if they linger any longer, [플레이어] and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, [플레이어] begins a journey to the end of the sky.",<span class='scene-font-place'>장크틴젤</span>에 머물러 있으면 머지않아 쫓길 수 있다고 판단한 일행은 소형정을 타고 섬을 떠난다. 수수께끼 많은 소녀 루리아와 함께 [플레이어]의 하늘의 끝을 향한 여행이 시작되었다.
-English,"scene_tutorial03,041",detail,Katalina,"Ngh... If we stay here, it's only a matter of time before they back us into a corner.",쿳.. 여기 있으면 몰리는건 시간문제인가...
-English,"scene_tutorial03,041",detail,Katalina,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!,어쩔 수 없어! 이 섬을 떠나야해! 내가 소형정을 준비해놨어!
-English,"scene_tutorial03,041",detail,Vyrn,"Looks like your dream of skyfaring's coming true faster than we thought, [플레이어]! Better brace yourself!","생각보다 빠르게 너의 꿈이 이루어지잖아, [플레이어]! 각오 해야겠네!"
-English,"scene_tutorial03,041",sel1_txt,,I'm ready for anything!,각오는 되있어!
-English,"scene_tutorial03,041",sel2_txt,,"Shouldn't you brace yourself, Vyrn?",뷔야말로 괜찮아?
-English,"scene_tutorial03,041",detail,Vyrn,Ha ha! You sure know how to roll with the punches. Just like your dad!,헤헷! 변함없이 밝은 녀석이잖아! 그런 점은 아버지랑 꼭 닮았다구!
-English,"scene_tutorial03,041",detail,Vyrn,Ha ha! Who do you think you're talkin' to?,헤헷! 날 만만하게 보면 곤란해!
-English,"scene_tutorial03,041",detail,Vyrn,"If anyone here was born to fly, it's me!",나야말로 언제든지 하늘로 날아갈 준비는 되어 있다구!
-English,"scene_tutorial03,041",detail,Lyria,"Hey, Katalina. Vyrn and [플레이어] seem like best friends, don't you think?",후훗... 카타리나. 저 둘은 정말 사이가 좋아보이네.
-English,"scene_tutorial03,041",detail,Katalina,They do indeed.,"아, 그렇네. 그런데..."
-English,"scene_tutorial03,041",detail,Katalina,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently.",순진하게 떠드는 뷔를 보고있으면 기분이 왠지 평온해져.
-English,"scene_tutorial03,041",detail,Lyria,"You've always liked cute little animals, right, Katalina?",카타리나는 예전부터 작은 동물이라던가 보들보들한것을 정말 좋아하는것같애.
-English,"scene_tutorial03,041",detail,Katalina,Yes... But this is no time to daydream!,"응... 아, 이야기 하고 있을 때가 아니야!"
-English,"scene_tutorial03,041",detail,Katalina,Let's go. The ship's this way!,어서 가자. 소형정은 이쪽이야!
-English,"scene_tutorial03,041",sel1_txt,,Got it!,네!
-English,"scene_tutorial03,041",detail,Vyrn,"Our time to shine's arrived at last, [플레이어]!",드디어 이 순간이 왔구나 [플레이어]!
-English,"scene_tutorial03,041",detail,Lyria,"I guess it's a new beginning for us both then, [플레이어]!","후훗, 앞으로 잘부탁드립니다. [플레이어]!"
-English,"scene_tutorial03,041",detail,,The gang boards a small imperial airship and sets sail from [플레이어]'s secluded island home.,[플레이어]들은 카타리나가 타고 온 제국의 소형정에 올라타고 고향을 떠났다.
-English,"scene_tutorial03,041",detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope.","무한하다고 생각되는 금빛 운해를 앞에 두고 일행은 불안해하지 않고, 신기하게도 포근한 희망이 가득했다."
-English,"scene_tutorial03,041",detail,Vyrn,The sky! We're flying through the sky!,하늘이다! 우리들 하늘을 날고있다고!
-English,"scene_tutorial03,041",detail,Vyrn,"Hey, Katalina! Where are we headed in this thing?","야, 카타리나! 이제 우리들은 어디로 가지?"
-English,"scene_tutorial03,041",detail,Katalina,"Good question... You're headed for the end of the sky, right, [플레이어]?",글쎄... [플레이어]는 하늘의 끝을 목표로 하고 있었지?
-English,"scene_tutorial03,041",detail,Katalina,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy.",하늘의 끝... 별의 섬 이스탈시아. 별의 민족이 살고 있다는 전설의 섬이다. 험난한 여행이 될지도 몰라.
-English,"scene_tutorial03,041",detail,Vyrn,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, [플레이어]?",알고있다구! 그런건 알고있어! 그치? [플레이어]!
-English,"scene_tutorial03,041",detail,Katalina,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms.",그래. 그렇다면 일단 공역을 분단시키고있는 영역을 넘어야겠네.
-English,"scene_tutorial03,041",detail,Katalina,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.,내 목적이기도 하네. 이 파타 그랑데 공역은 에르스테 제국의 세력권이니까.
-English,"scene_tutorial03,041",detail,Lyria,But the sky's so vast... Are they really going to come after us?,이렇게 하늘이 넓은데... 제국은 쫓아올까?
-English,"scene_tutorial03,041",detail,Katalina,I'm certain they will... But you needn't worry. The sky is boundless!,분명 쫓아올거야... 그래도 걱정할 건 없어. 하늘은 무한하니까!
-English,"scene_tutorial03,041",detail,Katalina,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us.",파타 그랑데 공역 밖으로 나가면 제국도 더 이상 따라오진 못할 거야.
-English,"scene_tutorial03,041",detail,Vyrn,Sounds like we're in for the long haul!,어쨌든 긴 여행이 될 것 같네.
-English,"scene_tutorial03,041",detail,Katalina,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited.",하늘의 끝을 향한 여행인가... 왠지 모르게 설레는 것 같아.
-English,"scene_tutorial03,041",detail,Katalina,First things first. We need to get our supplies in order.,우선은 여행의 준비를 갖추도록 할까.
-English,"scene_tutorial03,041",detail,Katalina,"If we head to a large town, there should be a general store that caters to airship crews.",도시에는 기공단을 도와주는 상점들이 있을 거야.
-English,"scene_tutorial03,041",detail,Katalina,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.,여기부터라면 가까운 데는... 포트 브리즈 일거야. 발츠 공국이라면 틀림없이 요리집이 있을 거야.
-English,"scene_tutorial03,041",detail,Lyria,I can't believe it... I'm on a journey to a new world!,이제... 새로운 세계로 여행을 떠나는거네요!
-English,"scene_tutorial03,041",detail,Lyria,"With Katalina, Vyrn, [플레이어], and maybe even more people we'll meet along the way.",카타리나랑 뷔랑... [플레이어]랑... 아니 어쩌면 더 많은 사람들이랑!
-English,"scene_tutorial03,041",detail,Vyrn,We'll probably make plenty of new friends! I can't wait to see who we run into!,친구들을 많이 사귈수 있을지도 몰라! 무엇이 기다리고 있는지 따위는 가보지 않으면 모르겠지만!
-English,"scene_tutorial03,041",detail,Vyrn,"So let's get this adventure to the end of the sky started, [플레이어]!",가자! [플레이어]. 여기가 하늘의 끝으로 가는 여행의 시작이야!
-English,"scene_tutorial03,041",detail,,"[플레이어]'s soul now one with Lyria's, the time has come to bid farewell to home.",신기한 소녀와 영혼을 공유함으로써 특수한 힘을 얻은 [플레이어]는 고향을 떠난다.
-English,"scene_tutorial03,041",detail,,"As though sent by [플레이어]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair.",그 끝에서 기다리는 아버지를 생각하는 [플레이어]의 머리를 한 줄기의 푸른 바람이 부드럽게 어루만졌다.
+English,"scene_tutorial00,011",synopsis,,"Inspired by their father's letter, a young dreamer seeks the end of the sky. But on preparing to depart, a warship appears in the village along with a mysterious girl seeking aid.","아버지가 남긴 편지에 이끌려, 하늘의 끝으로 여행을 떠나려던 소년(소녀). 하지만, 동시에 마을에는 전함이 나타나고, 수수께끼의 소녀가 도움을 청해온다."
+English,"scene_tutorial00,011",detail,,"In a world abandoned by the gods, a lone dragon remained.","<span class='scene-font-katari'>――신에게 버림받은 그 세계에는,</span><br><span class='scene-font-katari'>한 용의 모습이 있었다.</span>"
+English,"scene_tutorial00,011",detail,,"Bahamut, ruler of creation through destruction, sought to refine the realm the gods left behind into a richer, more bountiful place.","<span class='scene-font-katari'>파괴에 의한 창조를 관장하는 용, 바하무트는</span><br><span class='scene-font-katari'>자신의 사명에 따라, 남겨진 세계를</span><br><span class='scene-font-katari'>더욱 다채로운 세계로 진화시켰다.</span>"
+English,"scene_tutorial00,011",detail,,But the arrival of invaders from beyond the sky—the Astrals—brought an end to his plans.,"<span class='scene-font-katari'>하지만 그곳에, 침략자가 나타난다.</span><br><span class='scene-font-katari'>하늘의 끝, 저편의 세계에서 나타난 그들은</span><br><span class='scene-font-spword'>별의 민족</span><span class='scene-font-katari'>라고 불렸다.</span>"
+English,"scene_tutorial00,011",detail,,The Astrals used creatures of terrible power known as primal beasts to bring the sky under their control. Long did the skies belong to the stars.,"<span class='scene-font-spword'>별의 민족</span><span class='scene-font-katari'>은 별의 짐승, 성정수를 사용해,</span><br><span class='scene-font-katari'>눈 깜빡할 순간에 세계를 손안에 넣어,</span><br><span class='scene-font-katari'>하늘은 오랜 시간동안 별의 것이 되었다.</span>"
+English,"scene_tutorial00,011",detail,,But the skydwellers bided their time and learned from their foes. Eventually they fought to take back the skies in a conflict that would come to be known as the War.,"<span class='scene-font-katari'>하지만, 하늘의 민족은 학습해,</span><br><span class='scene-font-katari'>이윽고 오만한 별로부터 세계를 되찾는다.</span><br><span class='scene-font-katari'>후에 그 전쟁은 패공전쟁이라고 불렸다――</span>"
+English,"scene_tutorial00,011",detail,,"And here we find the Sky Realm, now a world of fragmented lands floating in a sea of clouds.","<span class='scene-font-katari'>여기는, 미완성의 대지가 운해를 떠도는</span><br><span class='scene-font-katari'>신이 내버린 「하늘의 세계」.</span>"
+English,"scene_tutorial00,011",detail,,"A new tale is about to begin here, spanning the skies and the stars alike...","<span class='scene-font-katari'>지금 시작하는</span><br><span class='scene-font-katari'>하늘과 별을 떠도는 새로운 이야기.</span><br><span class='scene-font-katari'>아득히 아득한 여행길, 그 출발에 축복을――</span>"
+English,"scene_tutorial00,011",detail,비,"Say, are you serious about leavin' the village?","――어이어이.<br>너, 진짜로<br>마을을 떠날 생각이야?"
+English,"scene_tutorial00,011",detail,비,"Sure, your dad wrote about the end of the sky in his letter, but getting there might as well be impossible...","아무리 아빠의 편지가 있었다곤 해도<br>하늘의 끝이라니,<br>그런 장소, 도착할 수 있을 지......"
+English,"scene_tutorial00,011",sel1_txt,,I know we can reach it!,<span class='scene-font-katari'>분명 도착할 수 있어</span>
+English,"scene_tutorial00,011",sel2_txt,,I have a plan.,<span class='scene-font-katari'>제대로 계획을 짜뒀어</span>
+English,"scene_tutorial00,011",detail,비,Oh! You mean with the Sky Map? The thingy the Astrals put together centuries ago?,"아아......<span class='scene-font-spword'>완전한 지도</span>인가?<br>그 몇백년도 전에,<br><span class='scene-font-spword'>별의 민족</span>이 기록했다고 하는......"
+English,"scene_tutorial00,011",detail,비,"If we had something like that, we could go anywhere! But you know that map's just something out of a fairy tale...","그야, 그런게 있으면, 어디든<br>갈 수 있을지 모르겠지만말야.<br>그런 거, 너무 옛날 이야기 라고?"
+English,"scene_tutorial00,011",detail,비,"Real or not, there's no stopping you once you've made up your mind. Beats hanging around this sleepy village anyway!","뭐, 한번 말을 꺼내면 듣질 않으니.<br>이런 마을에서 조용히 사는 것보다는<br>훨씬 재밌을거 같지만 말야! 헤헤."
+English,"scene_tutorial00,011",detail,비,Huh?<br>Whoa! Hang on a minute! What was that?,"응......?<br>자, 잠깐잠깐잠깐!<br>뭐야, 저건!?"
+English,"scene_tutorial00,011",detail,비,That's... a battleship! What's it doing here in the middle of nowhere?,저건...... 어딘가의 나라의 전함인가!?<br>어째서 이런 시골에!
+English,"scene_tutorial00,011",detail,비,No way! What's going on here? I just heard something explode!,"흐에!? 뭐, 뭐야!?<br>지금 뭔가 폭발했다고!"
+English,"scene_tutorial00,011",detail,,...,──……
+English,"scene_tutorial00,011",sel1_txt,,I just saw a flash over by the forest...,"<span class='scene-font-katari'>지금, 뭔가 빛났어......</span>"
+English,"scene_tutorial00,011",detail,비,What do you think it was? A part of the ship?,뭐라고?<br>불 붙은 군함의 부품 같은건가?
+English,"scene_tutorial00,011",detail,비,Hoo boy... What if that sets the whole forest on fire?,그게......<br>만약 불이 붙은 채로<br>숲에 떨어진다면......
+English,"scene_tutorial00,011",sel1_txt,,We'd better check it out!,<span class='scene-font-katari'>확인해보자!</span>
+English,"scene_tutorial00,011",detail,비,Whatever fell from that battleship should be over... here.,"군함으로부터 무언가가 떨어졌다면,<br>아마, 이 주변에......"
+English,"scene_tutorial00,011",detail,？？？,Eek!,<span class='scene-font-4'>꺄앗!</span>
+English,"scene_tutorial00,011",detail,수수께끼의 소녀,Ouch...,아파라......
+English,"scene_tutorial00,011",detail,수수께끼의 소녀,...!,............!
+English,"scene_tutorial00,011",detail,비,Who's the girl? Never seen her around here before.,"뭐, 뭐야 이 아가씨.<br>본 적 없는 얼굴이네......"
+English,"scene_tutorial00,011",sel1_txt,,"Are you okay? You're not hurt, are you?",<span class='scene-font-katari'>괜찮아? 다친 데는 없어?</span>
+English,"scene_tutorial00,011",detail,수수께끼의 소녀,P-please! S-save me!,"......저, 저기!<br>도, 도와주세요!"
+English,"scene_tutorial00,011",detail,비,H-hey... That's a big request to spring on someone!,"어, 어이어이......<br>대체 무슨 일이야?"
+English,"scene_tutorial00,011",detail,남자의 목소리,You there! Halt!<br>Drop your sword! Hands in the air!,"거기 있는 너, 멈춰라!<br>검을 바닥에 두고 양손을 들어라!"
+English,"scene_tutorial00,011",detail,수수께끼의 소녀,Gasp!,읏!!
+English,"scene_tutorial00,011",detail,,"Soldiers in pursuit of the girl show up. Their armor suggests they are with the villainous Erste Empire, which employs military might to force kingdoms throughout the skies to their knees.","<span class='scene-font-katari'>소녀를 쫓아 나타난 것은,</span><br><span class='scene-font-katari'>무력으로 다른 나라들을 지배하려고 하는</span><br><span class='scene-font-katari'>악명 높은「에르스테 제국」의 병사 였다.</span>"
+English,"scene_tutorial00,011",detail,비,Who are you guys? Are you trying to pick a fight?,"뭐, 뭐야 네 녀석들!<br>한 판 붙어 보자는 거야!?"
+English,"scene_tutorial00,011",detail,제국병,"If your life means anything to you, you'll cooperate and hand over that girl.","목숨이 아까우면, 얌전히,<br>그 소녀를 이쪽에 넘기라는거다."
+English,"scene_tutorial00,011",detail,,The soldier's words are not the kind heard in peaceful lands.,"<span class='scene-font-katari'>명백한 적의와 살의에 마주해,</span><br><span class='scene-font-katari'>겁내는 소녀는 거절의 의사를 보인다.</span>"
+English,"scene_tutorial00,011",detail,수수께끼의 소녀,N-no!,시......싫어......!
+English,"scene_tutorial00,011",detail,제국병,You heard me! Hand her over! You don't want to force my hand.,"자, 그 소녀를 놓아줘라.<br>거친 수단은 쓰고 싶지 않아."
+English,"scene_tutorial00,011",sel1_txt,,She asked for our help!,<span class='scene-font-katari'>도와달라는데 내버려 둘 수는 없어!</span>
+English,"scene_tutorial00,011",sel2_txt,,Like we can trust you!,<span class='scene-font-katari'>믿을 수 없어!</span>
+English,"scene_tutorial00,011",detail,비,That's right! We can't just do what you say when she's shakin' like a leaf over here!,"그래 그래!<br>제멋대로 말하고 말이야!<br>이 아가씨, 엄청 겁먹고 있다고!"
+English,"scene_tutorial00,011",detail,제국병,"So that's how we're gonna play it, huh? Don't say I didn't warn you!","칫...... 귀찮군, 완력행사로 간다.<br>애송아, 나중에 후회하지 말라고!"
+English,"scene_tutorial00,011",detail,,...!,――――！
+English,"scene_tutorial01,021",synopsis,,"Two elite soldiers are pursuing the mysterious girl named Lyria. The knight Katalina tries to protect her, while Captain Pommern attempts to do harm to the girl and young dreamer alike.","수수께끼의 소녀, 루리아를 쫓아서, 두 명의 군인이 모습을 드러낸다. 여기사인 카타리나는 루리아를 지키려고 하지만, 폼메른 대위는 소년(소녀)을/를 포함해서 루리아에게 위해를 가하려고 한다."
+English,"scene_tutorial01,021",detail,제국병,Argh! Why you little...,"크학......!<br>애송이 주제에, 이 녀석......!"
+English,"scene_tutorial01,021",detail,,...,............
+English,"scene_tutorial01,021",detail,비,"Betcha weren't expecting that, huh? You can only dream of matching my pal's sword skills!",어떠냐!<br>역시나야~!<br>반할 거 같은 검 실력이야!
+English,"scene_tutorial01,021",detail,제국병,Curses... This isn't over!,제길......<br>이대로 끝날 거라고 생각하지마라......!
+English,"scene_tutorial01,021",detail,비,A friend of his? Stay sharp!,동료인가!?<br>조심해!
+English,"scene_tutorial01,021",detail,여기사,Lyria! Are you all right?,<span class='scene-font-4'>――루리아! 괜찮아!?</span>
+English,"scene_tutorial01,021",detail,수수께끼의 소녀,Katalina! I... I...,카타리나!<br>저......저......
+English,"scene_tutorial01,021",detail,여기사,Thank goodness she hasn't been injured. Have you two been protecting her?,다친 데는 없는거 같구나.<br>너희들이 루리아를 지켜준 건가?
+English,"scene_tutorial01,021",detail,비,"I guess you could say that! They were after us too, so we just did what came naturally.","지킨다랄까, 그치?<br>저 병사들 우리들도<br>노리고 있었으니......"
+English,"scene_tutorial01,021",detail,수수께끼의 소녀,"You should have seen it, Katalina! This hero saved me! It was so... heroic!","저기, 저기!<br>저 사람, 저를 도와줘서......<br>엄청 멋졌어요!"
+English,"scene_tutorial01,021",detail,여기사,"Is that so? Well, I'm just glad you're safe.","그런가......<br>아무튼, 무사해서 다행이다."
+English,"scene_tutorial01,021",detail,비,"So, um... Who are you guys exactly?","음, 그래서 말인데......<br>당신들은 대체 뭐야?"
+English,"scene_tutorial01,021",detail,비,Doesn't seem like you're friends with those jerks from earlier.,아까 그 녀석들의 동료는<br>아닌것 같지만 말야.
+English,"scene_tutorial01,021",detail,카타리나,"Ah, yes, how rude of me. My name is Katalina Aryze.",실례했다.<br>나는 카타리나・알리제 라고 한다.
+English,"scene_tutorial01,021",detail,카타리나,And this is Lyria. I can't thank you enough for saving her.,이 아이는 루리아.<br>도와줘서 고맙다.<br>나도 고맙다는 말을 하고 싶군.
+English,"scene_tutorial01,021",detail,카타리나,"If you don't mind, could you tell me your name as well?",너도......<br>괜찮다면 이름을 알려주지 않겠는가.
+English,"scene_tutorial01,021",detail,비,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?,"나는 비 라고 해!<br>그래서, 둘은 어디에서 온거야?<br>그 병사에게 쫓기고 있는거야?"
+English,"scene_tutorial01,021",detail,루리아,"W-where? Well, uh...","어, 어디에서?<br>어어......"
+English,"scene_tutorial01,021",detail,카타리나,That's right...<br>We... were being chased.,"............<br>그렇다, 쫓기고 있지."
+English,"scene_tutorial01,021",detail,카타리나,"Which is why we need to get out of here before more of them show up, and—","그래서, 여기는 위험하다.<br>또 그 병사들이 오겠지.<br>너희들은 어서――"
+English,"scene_tutorial01,021",detail,？？？,Lieutenant Katalina!,<span class='scene-font-4'>카타리나 중위!</span>
+English,"scene_tutorial01,021",detail,？？？,"I do say. Did I give the order for you to stop and smell the roses out here, Lieutenant?",어~째서 이런 곳에서<br>딴짓을 하고 있는걸까요~?<br>중위씩이나 되는 사람이 단독행동 입니까~?
+English,"scene_tutorial01,021",detail,카타리나,"C-Captain Pommern! Terribly sorry, sir. I'll return Lyria to the ship immediatel—","폼메른 대위......!<br>죄, 죄송합니다.<br>즉시 루리아의 보호를......"
+English,"scene_tutorial01,021",detail,폼메른,"Enough of these lies! You're the one who spirited her away from the ship, are you not?",정말이지 뻔뻔하군요~!<br>소녀를 풀어준 것은 당신이죠~?
+English,"scene_tutorial01,021",detail,폼메른,I do say! To defy the mighty Erste Empire requires profound bravery... and profound <span class='scene-font-italic'>stupidity</span>.,"위대한 에르스테 제국에게<br>반항하려 하다니, 좋은 배짱이군요~!"
+English,"scene_tutorial01,021",detail,카타리나,...,............
+English,"scene_tutorial01,021",detail,폼메른,You knew the classified nature of the girl's existence when we placed her in your protection.,기밀의 소녀의 관찰역을 받았으면서<br>이 처사!<br>재상 각하가 얼마나 실망하실지......
+English,"scene_tutorial01,021",detail,폼메른,"Which means you must surely be aware of the gravity of your actions, yes?",당신이라면 이번 일의 중대함을<br>이해하고 있을텐데 말이죠~!?
+English,"scene_tutorial01,021",detail,폼메른,We need that girl to command the primals. To assist in her escape demands a grave punishment indeed!,성정수를 제어하기 위해서는<br>그 소녀는 필요불가결이니까요~!<br>......배임은 중죄입니다~?
+English,"scene_tutorial01,021",detail,카타리나,Captain... I simply thought it too dangerous for us to attempt using the power of the primal beasts.,"대위......성정수를 저희들 인간이,<br>그것도 군사에 그 힘을 이용하려고<br>하는 것은 너무 위험할 것 같습니다......"
+English,"scene_tutorial01,021",detail,카타리나,The primals are a legacy of the Astrals... Terrifying weapons that set the skies ablaze during the War.,성정수는 <span class='scene-font-spword'>별의 민족</span>의 유산......<br>과거의 대전에서 하늘을 불태웠던<br>무시무시한 병기 입니다.
+English,"scene_tutorial01,021",detail,카타리나,There's still much we don't know about them. To wield their power is—,"그 힘이나 정체에 대해선<br>아직 모르것도 많고,<br>사람이 제어하기에는――"
+English,"scene_tutorial01,021",detail,폼메른,Don't change the subject!,말을 돌리지 말아줬으면 좋겠군요~!
+English,"scene_tutorial01,021",detail,폼메른,I do say... I've had quite enough of your insipid drivel. It's time to do what we came here for.,정말이지......이 이상 하찮은 일에<br>시간을 소비하고 싶지 않군요~<br>잽싸게 하도록 할까요......
+English,"scene_tutorial01,021",detail,폼메른,Bweheheh... Who will weep for this pathetic backwater burg? No one! We shall destroy it!,큭큭큭큭......이 정도의 변경이면<br>마을채로 없애버리면<br>꼬리가 잡힐 일은 없으니까 말이죠~!
+English,"scene_tutorial01,021",detail,비,Excuse me?,뭐라고......!?
+English,"scene_tutorial01,021",detail,폼메른,"I'll rid this place of anyone who opposes us! For I do say, the power to control the primals belongs to the Empire!",방해하는 자는 배제할 뿐~!!<br>성정수를 다스리는 힘은<br>제국의 것이니까 말이죠~!
+English,"scene_tutorial01,021",detail,폼메른,Release the Hydra!,<span class='scene-font-4'>히드라를 꺼내세요~~~!!!</span>
+English,"scene_tutorial01,021",detail,제국병,Sir!,<span class='scene-font-4'>넵!</span>
+English,"scene_tutorial01,021",detail,카타리나,The Hydra? It can't be!,히드라......?<br>설마!
+English,"scene_tutorial01,021",detail,폼메른,"It can, Lieutenant! And all so that you may take <span class='scene-font-italic'>proper</span> responsibility for your actions!","그 설마입니다, 중위~!<br>당신에게도 착실히<br>책임을 물어야 하니 말이죠~!"
+English,"scene_tutorial01,021",detail,제국병,Use the Hydra! Spread out in formation to keep them from running!,히드라를 사용한다!<br>산개해서 후방에 진을 펼쳐라!
+English,"scene_tutorial01,021",detail,히드라,Groooar!,<span class='scene-font-4'>그오오오오!!</span>
+English,"scene_tutorial01,021",detail,비,Where'd this crazy monster come from! Did that beard-twirlin' doofus bring it with him?,이런 괴물이 어디서......!?<br>저 수염 아저씨가<br>데려온거야!?
+English,"scene_tutorial01,021",detail,루리아,Katalina!,카타리나......!
+English,"scene_tutorial01,021",detail,카타리나,"You really intend to burn this island to the ground, don't you?",정말로......<br>이 섬채로 불태워 버릴 셈인가.
+English,"scene_tutorial01,021",detail,카타리나,Is that how far the Empire's willing to go to use Lyria's power as their own?,그렇게 까지 해서 루리아의 힘을<br>이용하려고 하는 것인가!? 제국은!
+English,"scene_tutorial01,021",detail,폼메른,"I believe we've explained this before, Lieutenant. With her power as a foundation, the Empire will rule the skies.",그러니까 그렇다고 말하고 있잖아요~<br>제국이 모든 하늘의 지배자가 되기 위한<br>주춧돌로써 필요하니까 말이죠~
+English,"scene_tutorial01,021",detail,폼메른,We came to this island to research its primal shrine...,"그 연구의 일환으로써,<br>이 섬에 있는<br>성정의 사당을 찾으러 온 것입니다만......"
+English,"scene_tutorial01,021",detail,폼메른,But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>,설마 그 틈을 타서 탈주를 계획하다니<br>시작부터 망쳐버린 기분이라구요~!
+English,"scene_tutorial01,021",detail,루리아,"Katalina, I'm sorry... This is all because I asked you to take me outside...","카타리나......<br>미안해요, 제가 억지를<br>부린 탓에 이런 일이......"
+English,"scene_tutorial01,021",detail,카타리나,"Lyria, I promised to show you the outside world. And no matter what happens, I'll stand by that promise.",루리아.<br>바깥 세계를 보여주겠다고 약속했었지.<br>반드시 약속은 지켜내보이겠어.
+English,"scene_tutorial01,021",detail,히드라,Grrr!,<span class='scene-font-4'>그르르르!!</span>
+English,"scene_tutorial01,021",detail,<span class='nickname'></span>,...!,!!
+English,"scene_tutorial01,021",detail,비,Hold on... You're not actually thinking about tangling with that thing!,"어이어이......<br>붙는다는 거야, 저 녀석이랑!?"
+English,"scene_tutorial01,021",sel1_txt,,We have to save them!,<span class='scene-font-katari'>도와야해!</span>
+English,"scene_tutorial01,021",sel2_txt,,It's now or never!,<span class='scene-font-katari'>할 수 밖에 없어!</span>
+English,"scene_tutorial01,021",detail,폼메른,I do say! It seems none of you are willing to accept reality!,"흥……！<br>이 녀석이고 저 녀석이고, 현실이라는 게<br>보이지 않는 것 같네요……"
+English,"scene_tutorial01,021",detail,폼메른,Hydra! Dispose of this miserable little moppet!,<span class='scene-font-4'>히드라~~！</span><br><span class='scene-font-4'>먼저 그 애송이부터다！</span>
+English,"scene_tutorial01,021",detail,폼메른,May the tot serve as a fitting example of what happens when you defy the Empire!,<span class='scene-font-4'>피의 축제를</span><br><span class='scene-font-4'>열어버리세요~！</span>
+English,"scene_tutorial01,021",detail,히드라,Groooar!,<span class='scene-font-4'>그르르오오오오！！</span>
+English,"scene_tutorial01,021",detail,[플레이어],...!,<span class='scene-font-5'>！！</span>
+English,"scene_tutorial01,021",detail,[플레이어],...,우으――……
+English,"scene_tutorial01,021",detail,비,"Whoa! <span class='nickname'></span>!<br>H-hang in there, buddy!","앗！？<br>어이！ <span class='nickname'></span>！<br>저, 정신차려봐, 어이！"
+English,"scene_tutorial01,021",detail,폼메른,Bweheheh! How utterly pitiful!,크크크큭！<br>정말 싱겁군요~……！
+English,"scene_tutorial01,021",detail,카타리나,"An innocent civilian, and a child at that... Pommern! Just how far have you fallen!","미, 민간인, 그것도 어린아이를……<br>폼메른！<br>네 놈、얼마나 썩어빠진거냐！？"
+English,"scene_tutorial01,021",detail,비,"Hey, <span class='nickname'></span>! Stop kidding around! Say something! Anything!","어이、<span class='nickname'></span>！<br>거, 거짓말이지？ 농담이지？<br>대답해봐, 응? 어이！"
+English,"scene_tutorial01,021",detail,루리아,Everything's... all right...,……괜찮……아요..
+English,"scene_tutorial01,021",detail,폼메른,I do say! What is this light?,그 빛은……！？
+English,"scene_tutorial01,021",detail,비,Look... The shrine's primal crystal is reacting... What is she doing?,마을 사당의 성정이……반응하고 있어.<br>이 아가씨……！
+English,"scene_tutorial01,021",detail,폼메른,Oh ho... We heard the shrine here was special...,호오……！<br>이게 그 사당이었던 거군요~……
+English,"scene_tutorial01,021",detail,폼메른,B-but what in the skies is this?,하、하지만……<br>이건 대체~~……！？
+English,"scene_tutorial01,021",detail,루리아,Don't worry now...,괜찮아……
+English,"scene_tutorial01,021",detail,루리아,<span class='nickname'></span>... I bestow my power on you!,<span class='nickname'></span>……<br>나의 힘……당신에게 맡깁니다……！
+English,"scene_tutorial02,031",synopsis,,Lyria reveals how she pried [플레이어] from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. [플레이어] and Lyria's souls are now permanently intertwined.,폼메른 대위가 내보낸 히드라에 의해 치명상을 입은 <span>[플레이어]</span>을/를 자신과 동기시키는 것으로 목숨을 구했다고 밝히는 루리아. <span>[플레이어]</span>은/는 루리아와 말 그대로 일심동체가 된다.
+English,"scene_tutorial02,031",detail,루리아,Primeval dragon...,기원의 용……
+English,"scene_tutorial02,031",detail,루리아,Child of flames and darkness...,어둠의 불꽃의 아이……
+English,"scene_tutorial02,031",detail,루리아,Thy name is...,당신의 이름은――
+English,"scene_tutorial02,031",detail,루리아,Bahamut!,――바하무트！！
+English,"scene_tutorial02,031",detail,바하무트,Roooar!,<span class='scene-font-4'>오오오오오오！！！</span>
+English,"scene_tutorial02,031",detail,히드라,Gwaarrgh...,쿠아……아아……！
+English,"scene_tutorial02,031",detail,폼메른,What? It can't be! How could my beloved Hydra be annihilated with a single attack!,"<span class='scene-font-4'>뭣！？</span><br>마, 말도 안 돼! 히드라가 일격에<br>당해버리다니~！？"
+English,"scene_tutorial02,031",detail,폼메른,"No! No, no, no! It can't be! I refuse to believe it!",말도 안 돼! 말도 안돼 말도 안돼~！<br>이건 말도 안 돼！ 라구요~！！
+English,"scene_tutorial02,031",detail,[플레이어],...,…………
+English,"scene_tutorial02,031",detail,비,"Hey! Now's our chance! Let's get outta here, [플레이어]!","어, 어이！지금이야！<br>[플레이어]！ 여기를 벗어나자！！"
+English,"scene_tutorial02,031",detail,카타리나,"This way, [플레이어]! We have to get those wounds treated immediately!",이쪽이다！ [플레이어]！<br>의식은 제대로 돌아온 것 같지만、<br>어서 상처를 치료해야해……！！
+English,"scene_tutorial02,031",detail,,"Thanks to Lyria's mysterious powers, [플레이어] was able to summon a primal beast and defeat the Hydra.","<span class='scene-font-katari'>수수께끼의 소녀 루리아의 힘으로</span><br><span class='scene-font-katari'>성정수를 소환하여, 히드라를</span><br><span class='scene-font-katari'>무찌른 [플레이어].</span>"
+English,"scene_tutorial02,031",detail,,"The group takes advantage of the confusion to slip away. With Katalina acting as a guide, they escape the forest.","<span class='scene-font-katari'>제국의 남자가 당황하고있는</span><br><span class='scene-font-katari'>틈을 타, 카타리나의 유도로</span><br><span class='scene-font-katari'>숲의 밖으로 탈주한 것이었다.</span>"
+English,"scene_tutorial02,031",detail,비,Huff... Huff... I think we managed to lose the beard-twirlin' doofus...,하아……하아……<br>아까 그 수염아저씨로부터<br>어떻게든 도망친거 같네……？
+English,"scene_tutorial02,031",detail,비,That primal beast... You said its name is Bahamut? You managed to awaken a primal?,아까 그……성정수、<br>바하무트라고 했었나？<br>잠 들어있던 성정이 각성했단말이야？
+English,"scene_tutorial02,031",detail,비,I thought the Astrals were the only ones who could control them.,그래도 성정수는<br><span class='scene-font-spword'>별의 민족</span>만이 조종할 수 있다고 했는데……
+English,"scene_tutorial02,031",detail,비,"Besides, weren't the primals all wiped out hundreds of years ago during the War?",애초에 성정수는<br>몇 백년이나 전의 패공전쟁에서<br>전멸한거 아니었어？
+English,"scene_tutorial02,031",detail,카타리나,Lyria's power makes it possible. She's the only one who can control them... besides the Astrals.,루리아의 힘이다.<br>이 아이는 <span class='scene-font-spword'>별의 민족</span>밖에 따르지 않는<br>성정수를 조종할 수 있다.
+English,"scene_tutorial02,031",detail,루리아,...,…………
+English,"scene_tutorial02,031",detail,카타리나,And it would appear that's not all she can do...,"그리고……<br>""이것""도 루리아의 힘인 것인가……"
+English,"scene_tutorial02,031",detail,,The deep flesh wounds from the Hydra's claws have vanished from [플레이어].,<span class='scene-font-katari'>옷 속으로 보이는 [플레이어]의 피부는</span><br><span class='scene-font-katari'>히드라에게 당했을 상처가</span><br><span class='scene-font-katari'>사라져있었다.</span>
+English,"scene_tutorial02,031",detail,카타리나,Are you okay? Any pain or discomfort?,괜찮은가……？<br>고통은？ 몸에 위화감은 없는가？
+English,"scene_tutorial02,031",sel1_txt,,I seem to be fine.,<span class='scene-font-katari'>그러고보니 괜찮은거 같아</span>
+English,"scene_tutorial02,031",sel2_txt,,Nothing feels strange.,<span class='scene-font-katari'>특별히 위화감은 없어</span>
+English,"scene_tutorial02,031",detail,루리아,Katalina... [플레이어] risked life and limb to save me...,카타리나……<br>[플레이어]는 목숨을 걸고、<br>나를 지켜줬어……
+English,"scene_tutorial02,031",detail,루리아,"But as a result, [플레이어] suffered horribly. Seeing [플레이어]'s vital flame begin to flicker and weaken, I decided to link our beings...","그래도, 그것 때문에 심한 상처를 입어서<br>[플레이어]의 생명은 빛을 잃었어……<br>그래서, 나 자신의 생명과 링크시켰어."
+English,"scene_tutorial02,031",detail,루리아,To repay [플레이어] in kind!,이번엔 내가<br>[플레이어]를 돕기위해서……！！
+English,"scene_tutorial02,031",detail,카타리나,What!,<span class='scene-font-4'>뭣！？</span>
+English,"scene_tutorial02,031",detail,루리아,That's right. From now on our souls are permanently intertwined...,"그래, 이제부터 나와 [플레이어]는<br>말 그대로 일심동체."
+English,"scene_tutorial02,031",detail,루리아,[플레이어] and I now share the same life force.,나와 [플레이어]는<br>하나의 생명을 공유하게 돼……
+English,"scene_tutorial02,031",detail,루리아,I hope you're not mad... It was my only choice.,미안해요、[플레이어]……<br>불편한 몸이 되어버려서……<br>그래도、그 때는 이렇게 할 수 밖에……
+English,"scene_tutorial02,031",sel1_txt,,Thanks for saving me!,<span class='scene-font-katari'>고마워</span>
+English,"scene_tutorial02,031",detail,루리아,...,…………읏
+English,"scene_tutorial02,031",detail,루리아,"By the way, I didn't summon that primal just by myself.",그리고、아까 그 소환은<br>저 혼자의 힘으로 한게 아니에요.
+English,"scene_tutorial02,031",detail,루리아,"Bahamut seems to have appeared to protect you, [플레이어]... To lend you strength.",그 성정수――바하무트는<br>[플레이어]를 지키기 위해서 나타나서、<br>오히려 힘을 빌려줬다고 할까……
+English,"scene_tutorial02,031",detail,비,No way... That's incredible! I always knew [플레이어] was something special!,깜짝 놀랐어……대단하군!<br>나、[플레이어]는<br>옛날부터 굉장한 녀석이라고 생각했었다고！
+English,"scene_tutorial02,031",detail,제국병,"Hey, I've found them! They're over here!",<span class='scene-font-4'>어이、여기 있어！ 이쪽이다！</span>
+English,"scene_tutorial02,031",detail,비,"Rats... Didn't take long for his cronies to show up. Are you good to go, [플레이어]?",칫……<br>증원 온 녀석들에게 들켜버렸네……<br>싸울 수 있어？ [플레이어]！
+English,"scene_tutorial02,031",detail,카타리나,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.,일단은 치명상을 입었으니、<br>무리하지 않는게 좋아.<br>여기는 내가……！
+English,"scene_tutorial02,031",detail,비,"Are you sure? I mean, aren't you working for them?",괜찮아？ 당신、일단은<br>그 제국의 기사잖아？
+English,"scene_tutorial02,031",detail,카타리나,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape.",듣고 있었잖아？<br>내가 제국을 배신하고<br>루리아를 도망치게 했다.
+English,"scene_tutorial02,031",detail,카타리나,I'll save the rest for later.<br>Now get ready! They're here!,"이야기는 나중에！<br>자, 준비해라！ 적이 온다！"
+English,"scene_tutorial03,041",synopsis,,"Concluding that they'll be captured if they linger any longer, [플레이어] and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, [플레이어] begins a journey to the end of the sky.",<span class='scene-font-place'>장크틴젤</span>에 머물러있었다가는 곧 붙잡히게 될 것이라고 판단하여、<span>[플레이어]</span> 일행은 소형정으로 섬을 떠난다. 수수께끼가 많은 소녀 루리아와 함께、<span>[플레이어]</span>의 하늘 끝을 향하는 여행이 시작되었다.
+English,"scene_tutorial03,041",detail,카타리나,"Ngh... If we stay here, it's only a matter of time before they back us into a corner.",큭……<br>여기 계속 있다가는、<br>붙잡히는건 시간 문제인가……
+English,"scene_tutorial03,041",detail,카타리나,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!,어쩔수 없다！<br>이 섬을 떠나자！<br>소형정을 준비해뒀어！
+English,"scene_tutorial03,041",detail,비,"Looks like your dream of skyfaring's coming true faster than we thought, [플레이어]! Better brace yourself!",결과적이긴해도、네가 꿈꾸던<br>하늘 여행의 시작이로군！<br>마음 단단히 먹으라고！
+English,"scene_tutorial03,041",sel1_txt,,I'm ready for anything!,<span class='scene-font-katari'>각오는 이미 해뒀어</span>
+English,"scene_tutorial03,041",sel2_txt,,"Shouldn't you brace yourself, Vyrn?",<span class='scene-font-katari'>비야말로 괜찮아？</span>
+English,"scene_tutorial03,041",detail,비,Ha ha! You sure know how to roll with the punches. Just like your dad!,헤헷！<br>여전히 대단한 녀석이로군！<br>그런 점은 아버지를 쏙 빼닮았다고！
+English,"scene_tutorial03,041",detail,비,Ha ha! Who do you think you're talkin' to?,헤헤！<br>얕보면 곤란하지！
+English,"scene_tutorial03,041",detail,비,"If anyone here was born to fly, it's me!",나야말로、<br>언제라도 하늘로 나갈 준비가<br>되있었으니까 말야！
+English,"scene_tutorial03,041",detail,루리아,"Hey, Katalina. Vyrn and [플레이어] seem like best friends, don't you think?",후훗……저기、카타리나.<br>저 둘 정말 사이가 좋은 것 같아.
+English,"scene_tutorial03,041",detail,카타리나,They do indeed.,그래、그렇 것 같아。<br>그렇지만……
+English,"scene_tutorial03,041",detail,카타리나,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently.",천진난만하게 떠드는 비를 보고 있으면<br>정말 평온한 기분이 돼.
+English,"scene_tutorial03,041",detail,루리아,"You've always liked cute little animals, right, Katalina?","카타리나는 전부터 좋아했으니까.<br>작은 동물이라던가, 푹신푹신한 거라던가……"
+English,"scene_tutorial03,041",detail,카타리나,Yes... But this is no time to daydream!,그래……아니、<br>온화하게 있을 상황이 아니었지！
+English,"scene_tutorial03,041",detail,카타리나,Let's go. The ship's this way!,자、가자.<br>배는 이쪽이다！
+English,"scene_tutorial03,041",sel1_txt,,Got it!,<span class='scene-font-katari'>알았어！</span>
+English,"scene_tutorial03,041",detail,비,"Our time to shine's arrived at last, [플레이어]!",드디어 때가 됐어！<br>[플레이어]！
+English,"scene_tutorial03,041",detail,루리아,"I guess it's a new beginning for us both then, [플레이어]!",후훗、앞으로<br>잘부탁드릴게요.<br>[플레이어].
+English,"scene_tutorial03,041",detail,,The gang boards a small imperial airship and sets sail from [플레이어]'s secluded island home.,"<span class='scene-font-katari'>[플레이어] 일행은 카타리나가 타고왔던</span><br><span class='scene-font-katari'>제국의 소형정에 타,</span><br><span class='scene-font-katari'>고향、갇혀있던 섬을 탈주했다.</span>"
+English,"scene_tutorial03,041",detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope.",<span class='scene-font-katari'>무한히 펼쳐진 금색 구름바다를 앞에두고</span><br><span class='scene-font-katari'>일행의 가슴 속엔 불안한 마음 없이、</span><br><span class='scene-font-katari'>신기하게도 따뜻한 희망이 가득차 있었다.</span>
+English,"scene_tutorial03,041",detail,비,The sky! We're flying through the sky!,하늘이야！<br>하늘을 날고있어！ 우리들！
+English,"scene_tutorial03,041",detail,비,"Hey, Katalina! Where are we headed in this thing?",어이어이！<br>앞으로 이 배로<br>우리들은 어디로 가는거야？
+English,"scene_tutorial03,041",detail,카타리나,"Good question... You're headed for the end of the sky, right, [플레이어]?",그렇네……<br>[플레이어]가 향하는 곳은<br>하늘의 끝이었었지？
+English,"scene_tutorial03,041",detail,카타리나,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy.",하늘의 끝……<span class='scene-font-spword'>별의 섬 이스탈시아</span>인가.<br><span class='scene-font-spword'>별의 민족</span>이 살고있다고 하는 전설의 섬이다.<br>험한 여행이 될지도 몰라.
+English,"scene_tutorial03,041",detail,비,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, [플레이어]?",알고있다고！<br>그런거 알고도 남는다고！<br>그치！ [플레이어]！
+English,"scene_tutorial03,041",detail,카타리나,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms.",그런가……<br>그렇다면、먼저 공역을 분단하고있는<br>장류역을 넘어야한다.
+English,"scene_tutorial03,041",detail,카타리나,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.,그리고 그건 우리들의 목적과도 잘 맞지.<br>이 파타・그랑데 공역은<br>에르스테제국의 세력권이니까.
+English,"scene_tutorial03,041",detail,루리아,But the sky's so vast... Are they really going to come after us?,이렇게 하늘이 넓은데……<br>제국이 쫓아올까？
+English,"scene_tutorial03,041",detail,카타리나,I'm certain they will... But you needn't worry. The sky is boundless!,분명 쫓아올거야……<br>그렇지만 걱정할거 없어.<br>어쨋든 하늘은 무한하니까！
+English,"scene_tutorial03,041",detail,카타리나,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us.",파타・그랑데 공역의 밖으로 나가면、<br>제국도 더는 쫓아오지 못할거야.
+English,"scene_tutorial03,041",detail,비,Sounds like we're in for the long haul!,무엇이 되었든、<br>어쨋든 긴 여행이 될것 같네.
+English,"scene_tutorial03,041",detail,카타리나,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited.",그래。나 스스로도 급한 출발이지만<br>하늘의 끝을 목표로하는 여행인가……<br>뭔가 두근두근해지는군.
+English,"scene_tutorial03,041",detail,카타리나,First things first. We need to get our supplies in order.,그렇지만、먼저<br>여행할 채비를 단단히 할까.
+English,"scene_tutorial03,041",detail,카타리나,"If we head to a large town, there should be a general store that caters to airship crews.",커다란 마을에는、<br>기공단을 도와주는 만물상이 있을 거다.
+English,"scene_tutorial03,041",detail,카타리나,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.,여기서부터라면 가까운 곳은……<br><span class='scene-font-place'>포트・브리즈</span>인가、<span class='scene-font-place'>발츠 공국</span>이라면、<br>만물상이 반드시 있겠지.
+English,"scene_tutorial03,041",detail,루리아,I can't believe it... I'm on a journey to a new world!,앞으로……<br>새로운 세계로 여행을 떠나는 거네요.
+English,"scene_tutorial03,041",detail,루리아,"With Katalina, Vyrn, [플레이어], and maybe even more people we'll meet along the way.",카타리나와 비 그리고……<br>[플레이어]……으응<br>어쩌면、더 많은 사람들과.
+English,"scene_tutorial03,041",detail,비,We'll probably make plenty of new friends! I can't wait to see who we run into!,새로운 만남도 있을지도 모르지！<br>뭐가 기다리고 있을지、<br>가봐야 알 수 있겠지만！
+English,"scene_tutorial03,041",detail,비,"So let's get this adventure to the end of the sky started, [플레이어]!",그러니까……가자고！[플레이어]。<br>여기가 하늘 저편으로의 여행의 시작이야!!
+English,"scene_tutorial03,041",detail,,"[플레이어]'s soul now one with Lyria's, the time has come to bid farewell to home.",<span class='scene-font-katari'>신기한 소녀와 영혼을 공유한 것으로</span><br><span class='scene-font-katari'>특별한 힘을 얻은 [플레이어]는</span><br><span class='scene-font-katari'>고향을 뒤로 한다.</span>
+English,"scene_tutorial03,041",detail,,"As though sent by [플레이어]'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair.","<span class='scene-font-katari'>무한의 끝에 기다리는, 아버지를 생각하는</span><br><span class='scene-font-katari'>[플레이어]의 머리를, 불어온 </span><br><span class='scene-font-katari'>푸른 바람이 부드럽게 쓰다듬어주었다.</span>"
