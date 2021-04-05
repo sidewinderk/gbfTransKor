@@ -33,7 +33,7 @@ Japanese,"scene_cp39_q1_s20,3912",detail,라캄,ん？<br>悪ぃ、何か言っ�
 Japanese,"scene_cp39_q1_s20,3912",detail,로제타,何でもないわ。<br>早く先へ進みましょう。<br>一つの決着が……アタシ達を待ってるわ。
 Japanese,"scene_cp39_q2_s10,3921",synopsis,,立ちふさがる無数のゴーレムを打ち倒し、先へと進む一行。かつて星の民の居留地であったこの場所を守護していたのは、エルステ王国が星の民に提供していたゴーレムであったのだという。以前、オルキスがこの辺りの匂いを懐かしいと語っていた事を知り、驚きを隠せない黒騎士。感情を失って久しいオルキスが、この地のゴーレムから故郷の空気を感じ取ったのだという事を、複雑な表情で受け止める黒騎士であった。
 Japanese,"scene_cp39_q2_s10,3921",detail,이오,はああぁぁっ！！
-Japanese,"scene_cp39_q2_s10,3921",detail,ゴーレム,――――！！
+Japanese,"scene_cp39_q2_s10,3921",detail,골렘,――――！！
 Japanese,"scene_cp39_q2_s10,3921",detail,이오,ふぅ……<br>なんだってこんなにたくさん、<br>ゴーレムが出てくるのかしら……
 Japanese,"scene_cp39_q2_s10,3921",detail,흑기사,お前は私の話を聞いていなかったのか？<br>この辺りは、かつて<br>星の民の居留地となっていた遺跡だ。
 Japanese,"scene_cp39_q2_s10,3921",detail,흑기사,その居留地を提供していたのは、<br>他でもないエルステ王国だからな。
@@ -102,7 +102,7 @@ Japanese,"scene_cp39_q3_s20,3932",detail,로제타,だから、決して諦め�
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ねっ？<br>ロゼッタおねーさんからの<br>オ・ネ・ガ・イ☆
 Japanese,"scene_cp39_q3_s20,3932",detail,로제타,ふふ……忘れないでね。<br>絶対に……
 Japanese,"scene_cp39_q4_s10,3941",synopsis,,遺跡を守るゴーレム達の攻撃は激しさを増し、一行は、自分達がフリーシアの元へと近づいているであろう事を予感する。さらに一歩踏み出さんとする一行を制止する黒騎士。フリーシアとの決着をつける前に、黒騎士は全てを話しておきたいという。果たして、黒騎士の真の目的とは。
-Japanese,"scene_cp39_q4_s10,3941",detail,ゴーレム,――――！
+Japanese,"scene_cp39_q4_s10,3941",detail,골렘,――――！
 Japanese,"scene_cp39_q4_s10,3941",detail,라캄,ちっ……<br>出てくるゴーレムの数が、<br>明らかに増えてきてやがるぜ……
 Japanese,"scene_cp39_q4_s10,3941",detail,카타리나,それだけ、<br>遺跡の中でも重要度の高い場所に<br>近づいているということなのだろう。
 Japanese,"scene_cp39_q4_s10,3941",detail,카타리나,ゴーレム全ての相手をしていたのでは<br>キリがない……<br>早く先へ進むとしよう。
@@ -161,164 +161,164 @@ Japanese,"scene_cp39_q4_s30,3943",detail,흑기사,相対することになる�
 Japanese,"scene_cp39_q4_s30,3943",detail,,<span class='scene-font-katari'>昏い野望を秘めた瞳を伏せながら、</span><br><span class='scene-font-katari'>黒騎士はぽつりとそう漏らす。</span>
 Japanese,"scene_cp39_q4_s30,3943",detail,,<span class='scene-font-katari'>この時、[플레이어]一行はまだ、</span><br><span class='scene-font-katari'>黒騎士が迎える結末を、</span><br><span class='scene-font-katari'>知る由もないのだった。</span>
 
-English,"scene_cp39_q1_s10,3911",synopsis,,"Lyria says she senses a power deep in the forest. Suspecting that it might be Freesia, the crew decides to check it out."
-English,"scene_cp39_q1_s10,3911",detail,,"After defeating two primal beasts, [플레이어] and the crew attempt to corner Freesia."
-English,"scene_cp39_q1_s10,3911",detail,,"But they are hindered by scores of soldiers, and as a result, the prime minister is able to give them the slip."
-English,"scene_cp39_q1_s10,3911",detail,Black Knight,Damn it. I suppose even the weakest soldiers are at least good for forming a wall.
-English,"scene_cp39_q1_s10,3911",detail,Rosetta,"Judging from the number of them she brought here, I imagine this was her plan all along."
-English,"scene_cp39_q1_s10,3911",detail,Rackam,So we're fine for the time being.
-English,"scene_cp39_q1_s10,3911",detail,Rackam,But what do we do next? Retreat? Press on?
-English,"scene_cp39_q1_s10,3911",detail,Vyrn,"If I had to guess, I'd say the prime minister isn't gonna apologize and just let Lyria go!"
-English,"scene_cp39_q1_s10,3911",detail,Black Knight,"Agreed. Besides, if we retreat now, then we won't be able to rescue that doll."
-English,"scene_cp39_q1_s10,3911",detail,Black Knight,"But the part that I can't stomach—she turned her back on us. And for that, I'll rip her to shreds!"
-English,"scene_cp39_q1_s10,3911",detail,Katalina,One thing's for sure: it wouldn't be wise of us to put this off and leave her to her own devices.
-English,"scene_cp39_q1_s10,3911",detail,Katalina,But how do we follow her? We have no idea which way she went.
-English,"scene_cp39_q1_s10,3911",detail,Lyria,I might have an idea.
-English,"scene_cp39_q1_s10,3911",detail,Lyria,I've been sensing this really strong power for a little while now. It's deep in the forest.
-English,"scene_cp39_q1_s10,3911",detail,Black Knight,It could be Akasha's power.
-English,"scene_cp39_q1_s10,3911",detail,Eugen,"If that's so, then she's probably right there with it."
-English,"scene_cp39_q1_s10,3911",detail,Black Knight,Aye. Both Freesia and the doll.
-English,"scene_cp39_q1_s10,3911",detail,Vyrn,Then it's decided. We settle our score with the empire right here on this island!
+English,"scene_cp39_q1_s10,3911",synopsis,,"Lyria says she senses a power deep in the forest. Suspecting that it might be Freesia, the crew decides to check it out.","숲 깊은 쪽에서 힘이 느껴진다는 루리아의 말에, 프리시아일지도 모른다고 판단한 일행은 그 기척을 확인해 보기로 결정한다."
+English,"scene_cp39_q1_s10,3911",detail,,"After defeating two primal beasts, [플레이어] and the crew attempt to corner Freesia.","<span class='scene-font-katari'>두 성정수를 물리친 뒤,</span><br><span class='scene-font-katari'>[플레이어]와 일행은 </span><br><span class='scene-font-katari'>프리시아를 겨우 궁지에 몰아 넣을 수 있었다.</span>"
+English,"scene_cp39_q1_s10,3911",detail,,"But they are hindered by scores of soldiers, and as a result, the prime minister is able to give them the slip.","<span class='scene-font-katari'>하지만,</span><br><span class='scene-font-katari'>이는 병사들의 방해로 수포로 돌아갔고,</span><br><span class='scene-font-katari'>일행은 결국 프리시아를 놓치고 말았다.</span>"
+English,"scene_cp39_q1_s10,3911",detail,흑기사,Damn it. I suppose even the weakest soldiers are at least good for forming a wall.
+English,"scene_cp39_q1_s10,3911",detail,로제타,"Judging from the number of them she brought here, I imagine this was her plan all along."
+English,"scene_cp39_q1_s10,3911",detail,라캄,So we're fine for the time being.
+English,"scene_cp39_q1_s10,3911",detail,라캄,But what do we do next? Retreat? Press on?
+English,"scene_cp39_q1_s10,3911",detail,비,"If I had to guess, I'd say the prime minister isn't gonna apologize and just let Lyria go!"
+English,"scene_cp39_q1_s10,3911",detail,흑기사,"Agreed. Besides, if we retreat now, then we won't be able to rescue that doll."
+English,"scene_cp39_q1_s10,3911",detail,흑기사,"But the part that I can't stomach—she turned her back on us. And for that, I'll rip her to shreds!"
+English,"scene_cp39_q1_s10,3911",detail,카타리나,One thing's for sure: it wouldn't be wise of us to put this off and leave her to her own devices.
+English,"scene_cp39_q1_s10,3911",detail,카타리나,But how do we follow her? We have no idea which way she went.
+English,"scene_cp39_q1_s10,3911",detail,루리아,I might have an idea.
+English,"scene_cp39_q1_s10,3911",detail,루리아,I've been sensing this really strong power for a little while now. It's deep in the forest.
+English,"scene_cp39_q1_s10,3911",detail,흑기사,It could be Akasha's power.
+English,"scene_cp39_q1_s10,3911",detail,오이겐,"If that's so, then she's probably right there with it."
+English,"scene_cp39_q1_s10,3911",detail,흑기사,Aye. Both Freesia and the doll.
+English,"scene_cp39_q1_s10,3911",detail,비,Then it's decided. We settle our score with the empire right here on this island!
 English,"scene_cp39_q1_s20,3912",synopsis,,"As the crew heads deeper into the forest, Rosetta finds the scent of the trees nostalgic. She comments that this will be the last time she'll ever have such a feeling."
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,Hmm...
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,"Goodness, the scent in this area really takes me back..."
-English,"scene_cp39_q1_s20,3912",detail,Katalina,Huh? Isn't this our first time traveling to these parts?
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,Haha. For you maybe. The trees in this area are a little different from the other trees in the forest.
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,"They're quite nostalgic for me—or rather, you could almost say they're like a part of me."
-English,"scene_cp39_q1_s20,3912",detail,Lyria,"Do you have special memories of this forest, Rosetta?"
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,I do. This place might as well be my hometown.
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,I feel like I've come home at last.
-English,"scene_cp39_q1_s20,3912",detail,Rackam,Hehe. You're the type to get homesick? Didn't expect that from you!
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,Maybe I am. Even I can get sentimental about some things.
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,Ah... I'm sure this is the last time I'll get to feel this way.
-English,"scene_cp39_q1_s20,3912",detail,Rackam,"What? Sorry, didn't catch that."
-English,"scene_cp39_q1_s20,3912",detail,Rosetta,"It's nothing, really. Come, let's hurry on. Our finale awaits us."
+English,"scene_cp39_q1_s20,3912",detail,로제타,Hmm...
+English,"scene_cp39_q1_s20,3912",detail,로제타,"Goodness, the scent in this area really takes me back..."
+English,"scene_cp39_q1_s20,3912",detail,카타리나,Huh? Isn't this our first time traveling to these parts?
+English,"scene_cp39_q1_s20,3912",detail,로제타,Haha. For you maybe. The trees in this area are a little different from the other trees in the forest.
+English,"scene_cp39_q1_s20,3912",detail,로제타,"They're quite nostalgic for me—or rather, you could almost say they're like a part of me."
+English,"scene_cp39_q1_s20,3912",detail,루리아,"Do you have special memories of this forest, Rosetta?"
+English,"scene_cp39_q1_s20,3912",detail,로제타,I do. This place might as well be my hometown.
+English,"scene_cp39_q1_s20,3912",detail,로제타,I feel like I've come home at last.
+English,"scene_cp39_q1_s20,3912",detail,라캄,Hehe. You're the type to get homesick? Didn't expect that from you!
+English,"scene_cp39_q1_s20,3912",detail,로제타,Maybe I am. Even I can get sentimental about some things.
+English,"scene_cp39_q1_s20,3912",detail,로제타,Ah... I'm sure this is the last time I'll get to feel this way.
+English,"scene_cp39_q1_s20,3912",detail,라캄,"What? Sorry, didn't catch that."
+English,"scene_cp39_q1_s20,3912",detail,로제타,"It's nothing, really. Come, let's hurry on. Our finale awaits us."
 English,"scene_cp39_q2_s10,3921",synopsis,,"As the crew move through the forest, they battle an endless amount of golems. The Black Knight is surprised to hear that Orchis had once reacted to the scent of these golems."
-English,"scene_cp39_q2_s10,3921",detail,Io,Aaah!
-English,"scene_cp39_q2_s10,3921",detail,Golem,...!
-English,"scene_cp39_q2_s10,3921",detail,Io,Whew... What's with all the golems here?
-English,"scene_cp39_q2_s10,3921",detail,Black Knight,Weren't you listening to me before? These are the ruins of the old Astral settlement.
-English,"scene_cp39_q2_s10,3921",detail,Black Knight,Who do you think offered them such a place? None other than the Erste Kingdom.
-English,"scene_cp39_q2_s10,3921",detail,Black Knight,Offering them golems for self-defense would have been the right thing to do.
-English,"scene_cp39_q2_s10,3921",detail,Io,I knooow! I heard you the first time!
-English,"scene_cp39_q2_s10,3921",detail,Io,"Oh, but that means..."
-English,"scene_cp39_q2_s10,3921",detail,Io,"Back in the Lumacie ruins, when Orchis said the smell reminded her of the past, I bet she was talking about these golems."
-English,"scene_cp39_q2_s10,3921",detail,Rackam,"Yeah, she did say that, didn't she?"
-English,"scene_cp39_q2_s10,3921",detail,Rackam,"Even though she can't remember a thing about her own history, she had a reaction to the smell."
-English,"scene_cp39_q2_s10,3921",detail,Black Knight,The doll?
-English,"scene_cp39_q2_s10,3921",detail,Eugen,Yeah. We all assumed Orchis must've been born here in Lumacie.
-English,"scene_cp39_q2_s10,3921",detail,Black Knight,Indeed...
+English,"scene_cp39_q2_s10,3921",detail,이오,Aaah!
+English,"scene_cp39_q2_s10,3921",detail,골렘,...!
+English,"scene_cp39_q2_s10,3921",detail,이오,Whew... What's with all the golems here?
+English,"scene_cp39_q2_s10,3921",detail,흑기사,Weren't you listening to me before? These are the ruins of the old Astral settlement.
+English,"scene_cp39_q2_s10,3921",detail,흑기사,Who do you think offered them such a place? None other than the Erste Kingdom.
+English,"scene_cp39_q2_s10,3921",detail,흑기사,Offering them golems for self-defense would have been the right thing to do.
+English,"scene_cp39_q2_s10,3921",detail,이오,I knooow! I heard you the first time!
+English,"scene_cp39_q2_s10,3921",detail,이오,"Oh, but that means..."
+English,"scene_cp39_q2_s10,3921",detail,이오,"Back in the Lumacie ruins, when Orchis said the smell reminded her of the past, I bet she was talking about these golems."
+English,"scene_cp39_q2_s10,3921",detail,라캄,"Yeah, she did say that, didn't she?"
+English,"scene_cp39_q2_s10,3921",detail,라캄,"Even though she can't remember a thing about her own history, she had a reaction to the smell."
+English,"scene_cp39_q2_s10,3921",detail,흑기사,The doll?
+English,"scene_cp39_q2_s10,3921",detail,오이겐,Yeah. We all assumed Orchis must've been born here in Lumacie.
+English,"scene_cp39_q2_s10,3921",detail,흑기사,Indeed...
 English,"scene_cp39_q2_s20,3922",synopsis,,"While reminiscing about Orchis, Lyria promises that she'll save her no matter what."
-English,"scene_cp39_q2_s20,3922",detail,Lyria,"Sorry, Orchis... We promised we'd search for the truth about ourselves together."
-English,"scene_cp39_q2_s20,3922",detail,Lyria,So... I swear I'll come find you. Just wait for me...
-English,"scene_cp39_q2_s20,3922",detail,Black Knight,I believe you lot once traveled here to Lumacie with the doll.
-English,"scene_cp39_q2_s20,3922",detail,Black Knight,What was her condition like at that time?
-English,"scene_cp39_q2_s20,3922",detail,Vyrn,"Her condition? I guess she was a little weird, but other than that, she was a perfectly normal girl!"
-English,"scene_cp39_q2_s20,3922",detail,Lyria,"Yes. She was troubled, because she didn't know anything about herself. Kind of like me."
-English,"scene_cp39_q2_s20,3922",detail,Lyria,"We were going to be great friends. At least, that's what I thought."
-English,"scene_cp39_q2_s20,3922",detail,Black Knight,You and the doll?
-English,"scene_cp39_q2_s20,3922",detail,Lyria,Yes! I swear I'll save her! So we can talk with each other once again...
-English,"scene_cp39_q2_s20,3922",detail,Lyria,"It doesn't have be to anything special. We'll laugh together, eat together..."
-English,"scene_cp39_q2_s20,3922",detail,Lyria,I just want to get to know her. I want to be her friend. That's why I won't give up!
-English,"scene_cp39_q2_s20,3922",detail,Vyrn,"Hehe! That's the spirit! Right, [플레이어]?"
-English,"scene_cp39_q2_s20,3922",detail,Black Knight,...
+English,"scene_cp39_q2_s20,3922",detail,루리아,"Sorry, Orchis... We promised we'd search for the truth about ourselves together."
+English,"scene_cp39_q2_s20,3922",detail,루리아,So... I swear I'll come find you. Just wait for me...
+English,"scene_cp39_q2_s20,3922",detail,흑기사,I believe you lot once traveled here to Lumacie with the doll.
+English,"scene_cp39_q2_s20,3922",detail,흑기사,What was her condition like at that time?
+English,"scene_cp39_q2_s20,3922",detail,비,"Her condition? I guess she was a little weird, but other than that, she was a perfectly normal girl!"
+English,"scene_cp39_q2_s20,3922",detail,루리아,"Yes. She was troubled, because she didn't know anything about herself. Kind of like me."
+English,"scene_cp39_q2_s20,3922",detail,루리아,"We were going to be great friends. At least, that's what I thought."
+English,"scene_cp39_q2_s20,3922",detail,흑기사,You and the doll?
+English,"scene_cp39_q2_s20,3922",detail,루리아,Yes! I swear I'll save her! So we can talk with each other once again...
+English,"scene_cp39_q2_s20,3922",detail,루리아,"It doesn't have be to anything special. We'll laugh together, eat together..."
+English,"scene_cp39_q2_s20,3922",detail,루리아,I just want to get to know her. I want to be her friend. That's why I won't give up!
+English,"scene_cp39_q2_s20,3922",detail,비,"Hehe! That's the spirit! Right, [플레이어]?"
+English,"scene_cp39_q2_s20,3922",detail,흑기사,...
 English,"scene_cp39_q3_s10,3931",synopsis,,Rosetta tells Io that one day she will need to support the crew in their time of need.
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Hey, Io... Do you have a moment?"
-English,"scene_cp39_q3_s10,3931",detail,Io,Huh? What's up? Why are you getting all serious?
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Oh it's nothing important... But, here, come a little closer."
-English,"scene_cp39_q3_s10,3931",detail,Io,Geez... Fine...
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Hehe. So, Io, what would you say are the qualifications for being a proper lady?"
-English,"scene_cp39_q3_s10,3931",detail,Io,Huh? That's a pretty random question.
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,Go ahead. Answer it.
-English,"scene_cp39_q3_s10,3931",detail,Io,"Huff... Well, they have to be pretty and cool. And I guess a little bit on the tall side."
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Hmm. Yes, those things are all well and good, but you're missing something important."
-English,"scene_cp39_q3_s10,3931",detail,Io,Something important?
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,That's right. A proper lady is someone who can support everyone. And I need you to become a woman like that.
-English,"scene_cp39_q3_s10,3931",detail,Io,Support everyone? But what could I do—they can support themselves just fine.
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,No. There will come a day when everyone will come up against a wall.
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,"When that day comes, I believe that only you will be able to help them. Only you will be able to lead them."
-English,"scene_cp39_q3_s10,3931",detail,Io,Me?
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,Yes. So don't forget. You need to become a proper lady with the power to reinforce this crew.
-English,"scene_cp39_q3_s10,3931",detail,Io,Got it...
-English,"scene_cp39_q3_s10,3931",detail,Io,"Wait a sec! If you know so much, then why don't you help everyone yourself, Rosetta?"
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,Sorry... All I am capable of doing is entrusting you with this task.
-English,"scene_cp39_q3_s10,3931",detail,Io,Rosetta?
-English,"scene_cp39_q3_s10,3931",detail,Rosetta,"Well then, shall we be off? I'd love to stand around and chat some more, but at this rate, the others will leave us behind."
+English,"scene_cp39_q3_s10,3931",detail,로제타,"Hey, Io... Do you have a moment?"
+English,"scene_cp39_q3_s10,3931",detail,이오,Huh? What's up? Why are you getting all serious?
+English,"scene_cp39_q3_s10,3931",detail,로제타,"Oh it's nothing important... But, here, come a little closer."
+English,"scene_cp39_q3_s10,3931",detail,이오,Geez... Fine...
+English,"scene_cp39_q3_s10,3931",detail,로제타,"Hehe. So, Io, what would you say are the qualifications for being a proper lady?"
+English,"scene_cp39_q3_s10,3931",detail,이오,Huh? That's a pretty random question.
+English,"scene_cp39_q3_s10,3931",detail,로제타,Go ahead. Answer it.
+English,"scene_cp39_q3_s10,3931",detail,이오,"Huff... Well, they have to be pretty and cool. And I guess a little bit on the tall side."
+English,"scene_cp39_q3_s10,3931",detail,로제타,"Hmm. Yes, those things are all well and good, but you're missing something important."
+English,"scene_cp39_q3_s10,3931",detail,이오,Something important?
+English,"scene_cp39_q3_s10,3931",detail,로제타,That's right. A proper lady is someone who can support everyone. And I need you to become a woman like that.
+English,"scene_cp39_q3_s10,3931",detail,이오,Support everyone? But what could I do—they can support themselves just fine.
+English,"scene_cp39_q3_s10,3931",detail,로제타,No. There will come a day when everyone will come up against a wall.
+English,"scene_cp39_q3_s10,3931",detail,로제타,"When that day comes, I believe that only you will be able to help them. Only you will be able to lead them."
+English,"scene_cp39_q3_s10,3931",detail,이오,Me?
+English,"scene_cp39_q3_s10,3931",detail,로제타,Yes. So don't forget. You need to become a proper lady with the power to reinforce this crew.
+English,"scene_cp39_q3_s10,3931",detail,이오,Got it...
+English,"scene_cp39_q3_s10,3931",detail,이오,"Wait a sec! If you know so much, then why don't you help everyone yourself, Rosetta?"
+English,"scene_cp39_q3_s10,3931",detail,로제타,Sorry... All I am capable of doing is entrusting you with this task.
+English,"scene_cp39_q3_s10,3931",detail,이오,Rosetta?
+English,"scene_cp39_q3_s10,3931",detail,로제타,"Well then, shall we be off? I'd love to stand around and chat some more, but at this rate, the others will leave us behind."
 English,"scene_cp39_q3_s20,3932",synopsis,,"While heading deeper into the forest, Rosetta reveals that she knows [플레이어]'s father."
 English,"scene_cp39_q3_s20,3932",detail,,The crew is marching through the forest when Rosetta draws close to [플레이어].
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"Excuse me. I can't really say as much as I'd like, but would you listen to me for a bit?"
+English,"scene_cp39_q3_s20,3932",detail,로제타,"Excuse me. I can't really say as much as I'd like, but would you listen to me for a bit?"
 English,"scene_cp39_q3_s20,3932",sel1_txt,,Sure thing.
 English,"scene_cp39_q3_s20,3932",sel2_txt,,You’re really close.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,Thank you. I imagine this might come off as confusing.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,But there's something I want to tell you.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"No, no... You're not getting away from me. After all, we won't be able to be this close for very much longer."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"You see... The truth is I know your father, [플레이어]."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,I'm sorry I kept it from you all this time—I'm not able to tell you everything.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"You're a lot like your father, [플레이어]. I'm sure you'll make a wonderful skyfarer."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,There's no doubt in my mind that you'll reach the end of the sky.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,And that's why I need you to know something.
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"The longer our journey goes, the more you will find yourself struggling again and again, caught between the sky and Astral realms."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"But remember this: no matter your predicament, you can overcome it, [플레이어]."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"Together with your friends, no matter the adversity—I'm sure you can find a happy ending."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,"So never give up. As long as you continue on, a path will always reveal itself."
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,Promise your good friend Rosetta you won't give up?
-English,"scene_cp39_q3_s20,3932",detail,Rosetta,Hehe. Good. Don't forget now.
+English,"scene_cp39_q3_s20,3932",detail,로제타,Thank you. I imagine this might come off as confusing.
+English,"scene_cp39_q3_s20,3932",detail,로제타,But there's something I want to tell you.
+English,"scene_cp39_q3_s20,3932",detail,로제타,"No, no... You're not getting away from me. After all, we won't be able to be this close for very much longer."
+English,"scene_cp39_q3_s20,3932",detail,로제타,"You see... The truth is I know your father, [플레이어]."
+English,"scene_cp39_q3_s20,3932",detail,로제타,I'm sorry I kept it from you all this time—I'm not able to tell you everything.
+English,"scene_cp39_q3_s20,3932",detail,로제타,"You're a lot like your father, [플레이어]. I'm sure you'll make a wonderful skyfarer."
+English,"scene_cp39_q3_s20,3932",detail,로제타,There's no doubt in my mind that you'll reach the end of the sky.
+English,"scene_cp39_q3_s20,3932",detail,로제타,And that's why I need you to know something.
+English,"scene_cp39_q3_s20,3932",detail,로제타,"The longer our journey goes, the more you will find yourself struggling again and again, caught between the sky and Astral realms."
+English,"scene_cp39_q3_s20,3932",detail,로제타,"But remember this: no matter your predicament, you can overcome it, [플레이어]."
+English,"scene_cp39_q3_s20,3932",detail,로제타,"Together with your friends, no matter the adversity—I'm sure you can find a happy ending."
+English,"scene_cp39_q3_s20,3932",detail,로제타,"So never give up. As long as you continue on, a path will always reveal itself."
+English,"scene_cp39_q3_s20,3932",detail,로제타,Promise your good friend Rosetta you won't give up?
+English,"scene_cp39_q3_s20,3932",detail,로제타,Hehe. Good. Don't forget now.
 English,"scene_cp39_q4_s10,3941",synopsis,,The crew encounter more and more golems as they delve deeper into the forest.
-English,"scene_cp39_q4_s10,3941",detail,Golem,...!
-English,"scene_cp39_q4_s10,3941",detail,Rackam,Tch. More and more golems keep poppin' up outta the woodwork.
-English,"scene_cp39_q4_s10,3941",detail,Katalina,That just means we're getting close to a really important place within these ruins.
-English,"scene_cp39_q4_s10,3941",detail,Katalina,"But if we try to fight each and every golem, we'll be here forever. Let's move on."
+English,"scene_cp39_q4_s10,3941",detail,골렘,...!
+English,"scene_cp39_q4_s10,3941",detail,라캄,Tch. More and more golems keep poppin' up outta the woodwork.
+English,"scene_cp39_q4_s10,3941",detail,카타리나,That just means we're getting close to a really important place within these ruins.
+English,"scene_cp39_q4_s10,3941",detail,카타리나,"But if we try to fight each and every golem, we'll be here forever. Let's move on."
 English,"scene_cp39_q4_s10,3941",detail,,"[플레이어] and the crew begin walking, but they notice the Black Knight doesn't budge."
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,...
-English,"scene_cp39_q4_s10,3941",detail,Vyrn,What's the matter? Don't tell me you're tired!
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,Not a bit.
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,"This is the point of no return. If we go any further, we'll have to settle things with Freesia."
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,Which is why I need to tell you all something.
-English,"scene_cp39_q4_s10,3941",detail,Katalina,Tell us something?
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,Yes. You should know my objective and the entirety of my plan.
-English,"scene_cp39_q4_s10,3941",detail,Katalina,So you finally feel like talking.
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,Humph. It has nothing to do with your complaints.
-English,"scene_cp39_q4_s10,3941",detail,Black Knight,But first—this area is swamped with enemies. We need to take them out first.
+English,"scene_cp39_q4_s10,3941",detail,흑기사,...
+English,"scene_cp39_q4_s10,3941",detail,비,What's the matter? Don't tell me you're tired!
+English,"scene_cp39_q4_s10,3941",detail,흑기사,Not a bit.
+English,"scene_cp39_q4_s10,3941",detail,흑기사,"This is the point of no return. If we go any further, we'll have to settle things with Freesia."
+English,"scene_cp39_q4_s10,3941",detail,흑기사,Which is why I need to tell you all something.
+English,"scene_cp39_q4_s10,3941",detail,카타리나,Tell us something?
+English,"scene_cp39_q4_s10,3941",detail,흑기사,Yes. You should know my objective and the entirety of my plan.
+English,"scene_cp39_q4_s10,3941",detail,카타리나,So you finally feel like talking.
+English,"scene_cp39_q4_s10,3941",detail,흑기사,Humph. It has nothing to do with your complaints.
+English,"scene_cp39_q4_s10,3941",detail,흑기사,But first—this area is swamped with enemies. We need to take them out first.
 English,"scene_cp39_q4_s20,3942",synopsis,,"The Black Knight reveals her true objective. She wants to sacrifice Lyria to save Orchis, even if it means becoming an enemy to the crew once again."
 English,"scene_cp39_q4_s20,3942",detail,,"Ducking into a safe corner of the ruins, the crew begins listening intently to the Black Knight."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"As I said before, my objective is to return Orchis to normal."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,But I've yet to go into the particulars of how this plan will work. Correct?
-English,"scene_cp39_q4_s20,3942",detail,Katalina,Yes. You've mentioned that Lyria and Orchis in her current form are necessary however.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,They are. So I'll get right to the point—
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"For the plan to be successful, both Lyria and that doll might potentially need to be sacrificed."
-English,"scene_cp39_q4_s20,3942",detail,Lyria,...!
-English,"scene_cp39_q4_s20,3942",detail,Katalina,Come again?
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"[플레이어], you should be familiar with Lyria's power."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,She once used her ability to bring you back from the brink of death. Isn't that right?
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,Behind that very ability lies another secret: it's true nature.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"You see, it allows Lyria to unconsciously transfer a piece of her soul into a recipient."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"By using that ability on a soulless body, one could implant Lyria's personality and soul into it."
-English,"scene_cp39_q4_s20,3942",detail,Rackam,"What! So, you're sayin'... There would be two Lyrias?"
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"Not in the slightest. All that would be transferred is her personality. So far as I know, her memories wouldn't carry over."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,To summarize—I will use Lyria's power to reproduce Orchis's true personality.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"And then transfer the soul to that doll—that is to say, transfer the soul to Orchis's body."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"Although Orchis won't have her memories from before, we will at least be able to restore her personality."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,There you have it. My entire plan.
-English,"scene_cp39_q4_s20,3942",detail,Katalina,That's insane. I could never let you do such a thing!
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,Whether you want me to or not makes no difference to me.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,She has lost her soul and become an unchanging doll devoid of emotion.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,To get back that smile she once had. To restore Orchis to the princess the people of Erste need... I'm left with no other option.
-English,"scene_cp39_q4_s20,3942",detail,Lyria,...
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,Soon we will have to cross swords with Freesia.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"Until we've retrieved the doll, we share a common goal."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,"However. The moment I obtain her, I will become your enemy."
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,Curse me as heartless if you must. But know that I <span class='scene-font-italic'>will</span> get Orchis back.
-English,"scene_cp39_q4_s20,3942",detail,Black Knight,This is something that neither I nor your crew can negotiate. So I won't expect you to back down either.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"As I said before, my objective is to return Orchis to normal."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,But I've yet to go into the particulars of how this plan will work. Correct?
+English,"scene_cp39_q4_s20,3942",detail,카타리나,Yes. You've mentioned that Lyria and Orchis in her current form are necessary however.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,They are. So I'll get right to the point—
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"For the plan to be successful, both Lyria and that doll might potentially need to be sacrificed."
+English,"scene_cp39_q4_s20,3942",detail,루리아,...!
+English,"scene_cp39_q4_s20,3942",detail,카타리나,Come again?
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"[플레이어], you should be familiar with Lyria's power."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,She once used her ability to bring you back from the brink of death. Isn't that right?
+English,"scene_cp39_q4_s20,3942",detail,흑기사,Behind that very ability lies another secret: it's true nature.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"You see, it allows Lyria to unconsciously transfer a piece of her soul into a recipient."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"By using that ability on a soulless body, one could implant Lyria's personality and soul into it."
+English,"scene_cp39_q4_s20,3942",detail,라캄,"What! So, you're sayin'... There would be two Lyrias?"
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"Not in the slightest. All that would be transferred is her personality. So far as I know, her memories wouldn't carry over."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,To summarize—I will use Lyria's power to reproduce Orchis's true personality.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"And then transfer the soul to that doll—that is to say, transfer the soul to Orchis's body."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"Although Orchis won't have her memories from before, we will at least be able to restore her personality."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,There you have it. My entire plan.
+English,"scene_cp39_q4_s20,3942",detail,카타리나,That's insane. I could never let you do such a thing!
+English,"scene_cp39_q4_s20,3942",detail,흑기사,Whether you want me to or not makes no difference to me.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,She has lost her soul and become an unchanging doll devoid of emotion.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,To get back that smile she once had. To restore Orchis to the princess the people of Erste need... I'm left with no other option.
+English,"scene_cp39_q4_s20,3942",detail,루리아,...
+English,"scene_cp39_q4_s20,3942",detail,흑기사,Soon we will have to cross swords with Freesia.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"Until we've retrieved the doll, we share a common goal."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,"However. The moment I obtain her, I will become your enemy."
+English,"scene_cp39_q4_s20,3942",detail,흑기사,Curse me as heartless if you must. But know that I <span class='scene-font-italic'>will</span> get Orchis back.
+English,"scene_cp39_q4_s20,3942",detail,흑기사,This is something that neither I nor your crew can negotiate. So I won't expect you to back down either.
 English,"scene_cp39_q4_s30,3943",synopsis,,"Lyria asks the Black Knight why she would put herself at a disadvantage by revealing her plot. The Black Knight answers that although her priorities are different, she simply wished to be honest with the crew."
 English,"scene_cp39_q4_s30,3943",detail,,"After the crew drives another round of encroaching golems away, Lyria turns to the Black Knight to speak."
-English,"scene_cp39_q4_s30,3943",detail,Lyria,"Um, Black Knight..."
-English,"scene_cp39_q4_s30,3943",detail,Black Knight,"How surprising. Knowing what you do about my plan, I thought you would despise me enough to not speak to me."
-English,"scene_cp39_q4_s30,3943",detail,Lyria,Why did you choose to tell us about your plan when you did?
-English,"scene_cp39_q4_s30,3943",detail,Lyria,"If you hadn't said anything, you could have taken us by surprise right after getting Orchis back."
-English,"scene_cp39_q4_s30,3943",detail,Lyria,But that's not what you did. So why?
-English,"scene_cp39_q4_s30,3943",detail,Black Knight,"Hmm. Why indeed. To be perfectly honest, even I don't understand why."
-English,"scene_cp39_q4_s30,3943",detail,Black Knight,It's true... This mission is not something that I can compromise.
-English,"scene_cp39_q4_s30,3943",detail,Black Knight,However I felt it best to be honest with all of you.
-English,"scene_cp39_q4_s30,3943",detail,Black Knight,"I thought to myself, even if we must fight, I wish to do so fairly and under no pretense. And when we part, it will be clean."
+English,"scene_cp39_q4_s30,3943",detail,루리아,"Um, Black Knight..."
+English,"scene_cp39_q4_s30,3943",detail,흑기사,"How surprising. Knowing what you do about my plan, I thought you would despise me enough to not speak to me."
+English,"scene_cp39_q4_s30,3943",detail,루리아,Why did you choose to tell us about your plan when you did?
+English,"scene_cp39_q4_s30,3943",detail,루리아,"If you hadn't said anything, you could have taken us by surprise right after getting Orchis back."
+English,"scene_cp39_q4_s30,3943",detail,루리아,But that's not what you did. So why?
+English,"scene_cp39_q4_s30,3943",detail,흑기사,"Hmm. Why indeed. To be perfectly honest, even I don't understand why."
+English,"scene_cp39_q4_s30,3943",detail,흑기사,It's true... This mission is not something that I can compromise.
+English,"scene_cp39_q4_s30,3943",detail,흑기사,However I felt it best to be honest with all of you.
+English,"scene_cp39_q4_s30,3943",detail,흑기사,"I thought to myself, even if we must fight, I wish to do so fairly and under no pretense. And when we part, it will be clean."
 English,"scene_cp39_q4_s30,3943",detail,,"Although the Black Knight's eyes are filled with bitter ambition, her gaze settles on the floor."
 English,"scene_cp39_q4_s30,3943",detail,,"[플레이어] and the crew watch her, unaware of what fate she truly wished for."
