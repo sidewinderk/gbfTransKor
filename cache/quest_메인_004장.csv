@@ -1,352 +1,352 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp4_q1_s10,411",synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>[플레이어]</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。,루리아의 힘에 의해 성정수 티아마트를 낫게하고、<span class='scene-font-place'>포트・브리즈</span>를 덮친 폭풍을 멈추는 것을 결의한 <span>[플레이어]</span> 일행. 루리아가 느낀다는 성정수의 숨결을 의지하여、티아마트의 곁으로 향한다.
-Japanese,"scene_cp4_q1_s10,411",detail,,<span class='scene-font-katari'>ルリアが感じるという、</span><br><span class='scene-font-katari'>星の力と星晶獣の息吹を頼りに、</span><br><span class='scene-font-katari'>[플레이어]は嵐の中を進む。</span>,<span class='scene-font-katari'>루리아가 느끼는、</span><br><span class='scene-font-katari'>별의 힘과 성정수의 숨결에 의지하여、</span><br><span class='scene-font-katari'>[플레이어]는 폭풍 속으로 나아간다.</span>
-Japanese,"scene_cp4_q1_s10,411",detail,루리아,近いです……どんどん強くなってる。,가까워요……점점 강해지고있어요.
-Japanese,"scene_cp4_q1_s10,411",detail,라캄,頼んだぜ、嬢ちゃん……<br>嬢ちゃんのことは、<br>俺が命をかけても守りぬくからよ！,힘내라고、아가씨……<br>아가씨는、<br>내가 목숨걸고서라도 지켜줄테니까！
+Japanese,"scene_cp4_q1_s10,411",synopsis,,ルリアの力によって星晶獣ティアマトを治め、<span class='scene-font-place'>ポート・ブリーズ</span>を襲う嵐を止めることを決意した<span>[플레이어]</span>一行。ルリアが感じるという星晶獣の息吹を頼りに、ティアマトの元へと向かっていく。,루리아의 힘에 의해 성정수 티아마트를 원래대로 되돌려 놓고、<span class='scene-font-place'>포트 브리즈</span>를 덮친 폭풍을 멈추겠다고 결의한 <span>[플레이어]</span> 일행. 루리아가 느낀다는 성정수의 숨결에 의지하여、티아마트의 곁으로 향한다.
+Japanese,"scene_cp4_q1_s10,411",detail,,<span class='scene-font-katari'>ルリアが感じるという、</span><br><span class='scene-font-katari'>星の力と星晶獣の息吹を頼りに、</span><br><span class='scene-font-katari'>[플레이어]は嵐の中を進む。</span>,<span class='scene-font-katari'>루리아가 느끼는、</span><br><span class='scene-font-katari'>별의 힘과 성정수의 숨결에 의지하여、</span><br><span class='scene-font-katari'>[플레이어] 일행은 폭풍 속으로 나아간다.</span>
+Japanese,"scene_cp4_q1_s10,411",detail,루리아,近いです……どんどん強くなってる。,가까워요……점점 강해지고 있어요.
+Japanese,"scene_cp4_q1_s10,411",detail,라캄,頼んだぜ、嬢ちゃん……<br>嬢ちゃんのことは、<br>俺が命をかけても守りぬくからよ！,힘내라고、아가씨……<br>아가씨는、<br>내가 목숨을 걸고서라도 지켜줄 테니까！
 Japanese,"scene_cp4_q1_s10,411",detail,카타리나,ふふっ、それは私の役目だぞ？,후훗、그건 내 역할이라고？
-Japanese,"scene_cp4_q1_s10,411",detail,비,おいおい！<br>[플레이어]を忘れちゃ困るぜ！<br>意外に頼りになるんだからな！,어이어이！<br>[플레이어]를 잊어버리면 곤란하지！<br>의외로 의지가 되니까말야！
+Japanese,"scene_cp4_q1_s10,411",detail,비,おいおい！<br>[플레이어]を忘れちゃ困るぜ！<br>意外に頼りになるんだからな！,어이어이！<br>[플레이어]를 잊어버리면 곤란하지！<br>의외로 의지가 되니까 말야！
 Japanese,"scene_cp4_q1_s10,411",sel1_txt,,<span class='scene-font-katari'>意外は余計だ</span>,<span class='scene-font-katari'>의외는 빼자</span>
 Japanese,"scene_cp4_q1_s10,411",sel2_txt,,<span class='scene-font-katari'>が、頑張ります……</span>,<span class='scene-font-katari'>최、최선을 다하겠습니다……</span>
 Japanese,"scene_cp4_q1_s10,411",detail,비,にゃはははっ！ 悪ぃ悪ぃ！<br>いまじゃすっかり、<br>頼れる戦士の顔つきだよな！,냐하하핫！ 미안미안！<br>이젠 완전히、<br>믿음직한 전사같이 됐지！
-Japanese,"scene_cp4_q1_s10,411",detail,라캄,おいおい、そんなに縮こまるなよ。<br>[플레이어]は良い目をしてる……,어이어이、그렇게 쫄지마라고.<br>[플레이어]는 좋은 눈빛을 하고 있어……
-Japanese,"scene_cp4_q1_s10,411",detail,라캄,[플레이어]はリーダーの素質があるぜ。<br>騎空団でも旗揚げすりゃ、<br>きっと頼れる団長になるさ。,[플레이어]는 리더의 소질이 있어.<br>기공단 같은걸 만들면、<br>분명 듬직한 단장이 될거야.
+Japanese,"scene_cp4_q1_s10,411",detail,라캄,おいおい、そんなに縮こまるなよ。<br>[플레이어]は良い目をしてる……,어이어이、그렇게 쫄지 말라고.<br>[플레이어]는 좋은 눈빛을 하고 있어……
+Japanese,"scene_cp4_q1_s10,411",detail,라캄,[플레이어]はリーダーの素質があるぜ。<br>騎空団でも旗揚げすりゃ、<br>きっと頼れる団長になるさ。,[플레이어]는 리더의 소질이 있어.<br>기공단 같은 걸 만들면、<br>분명 듬직한 단장이 될 거야.
 Japanese,"scene_cp4_q1_s10,411",detail,마물,グオォォ！,그오오오！
 Japanese,"scene_cp4_q1_s10,411",detail,카타리나,おっと、魔物のお出ましだな。<br>皆、気を引き締めていくぞ！,어이쿠、마물이 나타났군.<br>모두、정신 차리고 가자고！
-Japanese,"scene_cp4_q1_s20,412",synopsis,,嵐の中を進む<span>[플레이어]</span>一行の前に、道を阻むように、再び帝国兵が立ちふさがる。,폭풍 속을 나아가는 <span>[플레이어]</span> 일행의 앞에、길을 막는 것 처럼、다시 제국병이 가로막는다.
-Japanese,"scene_cp4_q1_s20,412",detail,라캄,ちっ……<br>帝国の連中も<br>まだ俺達を邪魔するつもりみてぇだな。,쳇……<br>제국 녀석들도<br>아직 우리들을 방해할 생각인거 같군.
-Japanese,"scene_cp4_q1_s20,412",detail,비,魔物を倒したと思ったら、<br>今度は帝国の兵士か……！,마물을 쓰더뜨리니、<br>이번엔 제국 병사냐……！
-Japanese,"scene_cp4_q1_s20,412",detail,비,しつこいというか……<br>仕事熱心というか……,끈질기달까……<br>참 열심히 일 한달까……
-Japanese,"scene_cp4_q1_s20,412",detail,카타리나,<span class='scene-font-place'>エルステ帝国</span>では、<br>上官の命令は絶対だからな。,<span class='scene-font-place'>에르스테 제국</span>에선、<br>상관의 명령이 절대적이니까말이지.
-Japanese,"scene_cp4_q1_s20,412",detail,카타리나,帝国の兵士よ……<br>私怨はないが、私達も退けないんだ。<br>手加減は期待するなよ……！,제국의 병사들이여……<br>사적인 원한은 없지만、우리들도 물러설 수 없다.<br>봐줄거라고 생각하지마라……！
-Japanese,"scene_cp4_q2_s10,421",synopsis,,<span>[플레이어]</span>一行の前に再び姿を現すドランクとスツルム。ふたりは命を救われた礼として<span>[플레이어]</span>達だけなら嵐から逃がしてやると申し出るが、<span class='scene-font-place'>ポート・ブリーズ</span>を守る覚悟を固めたラカムはこれを拒否する。,<span>[플레이어]</span> 일행의 앞에 다시 모습을 드러낸 드랑크와 스츠룸. 두사람은 목숨을 구해준 보답으로 <span>[플레이어]</span> 일행만이라면 폭풍 밖으로 도망칠 수 있도록 도와주겠다고 말하지만、<span class='scene-font-place'>포트・브리즈</span>를 지킬 각오를 다진 라캄에게 거부된다.
-Japanese,"scene_cp4_q2_s10,421",detail,드랑크,<span class='scene-font-4'>――いやっほー！ おひさ～！</span>,<span class='scene-font-4'>――이얏호ー！ 올만～！</span>
+Japanese,"scene_cp4_q1_s20,412",synopsis,,嵐の中を進む<span>[플레이어]</span>一行の前に、道を阻むように、再び帝国兵が立ちふさがる。,폭풍 속을 나아가는 <span>[플레이어]</span> 일행의 앞을 다시 제국병이 가로막는다.
+Japanese,"scene_cp4_q1_s20,412",detail,라캄,ちっ……<br>帝国の連中も<br>まだ俺達を邪魔するつもりみてぇだな。,쳇……<br>제국 녀석들도<br>아직 우리들을 방해할 생각인 것 같군.
+Japanese,"scene_cp4_q1_s20,412",detail,비,魔物を倒したと思ったら、<br>今度は帝国の兵士か……！,마물을 쓰러트리니、<br>이번엔 제국 병사냐……！
+Japanese,"scene_cp4_q1_s20,412",detail,비,しつこいというか……<br>仕事熱心というか……,끈질기달까……<br>참 열심히 일한달까……
+Japanese,"scene_cp4_q1_s20,412",detail,카타리나,<span class='scene-font-place'>エルステ帝国</span>では、<br>上官の命令は絶対だからな。,<span class='scene-font-place'>에르스테 제국</span>에선、<br>상관의 명령이 절대적이니 말이지.
+Japanese,"scene_cp4_q1_s20,412",detail,카타리나,帝国の兵士よ……<br>私怨はないが、私達も退けないんだ。<br>手加減は期待するなよ……！,제국의 병사들이여……<br>사적인 원한은 없지만、우리들도 물러설 수 없다.<br>봐줄 거라고 생각하지 마라……！
+Japanese,"scene_cp4_q2_s10,421",synopsis,,<span>[플레이어]</span>一行の前に再び姿を現すドランクとスツルム。ふたりは命を救われた礼として<span>[플레이어]</span>達だけなら嵐から逃がしてやると申し出るが、<span class='scene-font-place'>ポート・ブリーズ</span>を守る覚悟を固めたラカムはこれを拒否する。,<span>[플레이어]</span> 일행의 앞에 다시 모습을 드러낸 드랑크와 스츠룸. 두사람은 목숨을 구해준 보답으로 <span>[플레이어]</span> 일행만이라면 폭풍 밖으로 도망칠 수 있도록 도와주겠다고 말하지만、<span class='scene-font-place'>포트 브리즈</span>를 지킬 각오를 다진 라캄은 그 제안을 거절한다.
+Japanese,"scene_cp4_q2_s10,421",detail,드랑크,<span class='scene-font-4'>――いやっほー！ おひさ～！</span>,<span class='scene-font-4'>――이얏호～！ 올만～！</span>
 Japanese,"scene_cp4_q2_s10,421",detail,카타리나,お前は……！<br>どうしてここに？<br>まさか、また私達を狙って……！？,네 녀석은……！<br>왜 여기에 있나？<br>설마、또 우리들을 노리고……！？
-Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,違う……勘違いするな。,아니야……착각하지마라.
-Japanese,"scene_cp4_q2_s10,421",detail,드랑크,そうそう～<br>僕達さ、君らに命を救われてるじゃん？<br>だから、恩返しがしたくってさぁ～,그래그래～<br>우리들말야、너희한테 목숨을 빚졌잖아？<br>그래서、보답을 해주려고말야～
-Japanese,"scene_cp4_q2_s10,421",detail,루리아,そんな……あれはその、<br>恩を売るつもりじゃなくて、その……<br>ねぇ？ [플레이어],그럴필요는……그때는 그、<br>딱히 은혜를 배풀려던게 아니라、그……<br>그렇죠？ [플레이어]
+Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,違う……勘違いするな。,아니야……착각하지 마라.
+Japanese,"scene_cp4_q2_s10,421",detail,드랑크,そうそう～<br>僕達さ、君らに命を救われてるじゃん？<br>だから、恩返しがしたくってさぁ～,그래그래～<br>우리들 말야、너희한테 목숨을 빚졌잖아？<br>그래서、보답을 해주려고 말야～
+Japanese,"scene_cp4_q2_s10,421",detail,루리아,そんな……あれはその、<br>恩を売るつもりじゃなくて、その……<br>ねぇ？ [플레이어],그럴 필요는……그때는 그、<br>딱히 은혜를 베풀려던 게 아니라、그……<br>그렇죠？ [플레이어]
 Japanese,"scene_cp4_q2_s10,421",detail,드랑크,ん～！ お嬢ちゃんは優しいねぇ！<br>優しい子には飴ちゃんを……,음～！ 아가씨는 상냥하네！<br>상냥한 아이에게는 사탕을……
-Japanese,"scene_cp4_q2_s10,421",detail,드랑크,<span class='scene-font-4'>痛って！？</span><br>スツルム殿！ なんで刺すの！？,<span class='scene-font-4'>아파앗！？</span><br>스츠룸 나리！ 왜 짜르는거야！？
+Japanese,"scene_cp4_q2_s10,421",detail,드랑크,<span class='scene-font-4'>痛って！？</span><br>スツルム殿！ なんで刺すの！？,<span class='scene-font-4'>아파앗！？</span><br>스츠룸 나리！ 왜 짜르는 거야！？
 Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,来い……今度はあたし達が、<br>お前らの命を助けてやる。,와라……이번엔 우리들이、<br>너희들의 목숨을 구해주지.
 Japanese,"scene_cp4_q2_s10,421",detail,라캄,どういうことだ……？,무슨 뜻이지……？
 Japanese,"scene_cp4_q2_s10,421",detail,드랑크,いやね？<br>君達がやろうとしてることって、<br>どれだけ危ないかわかってる？,아니 글쎄？<br>너희들이 하려고 하는 일 말야、<br>얼마나 위험한 일인지 알아?
 Japanese,"scene_cp4_q2_s10,421",detail,카타리나,危険性や、望みの薄さは<br>理解しているつもりだ……,위험성이나、승산이 크지 않다는 점은<br>이해하고 있다……
-Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,理解できてない……<br>とても正気とは思えない。,이해할 수 없어……<br>아무리봐도 제정신이라고는 생각 못하겠어.
-Japanese,"scene_cp4_q2_s10,421",detail,드랑크,そうそう、<br>そこで君達には恩があるからさ。,그래그래、<br>그래서 우리한텐 갚아야 할 빚이 있으니까.
-Japanese,"scene_cp4_q2_s10,421",detail,드랑크,君達だけでも、<br>帝国の戦艦に密航させて、<br>逃がしてあげよっかな、って思ってね。,너희들 만이라도、<br>제국의 전함에 밀항시켜서、<br>도망치게 해줄까나、하고 생각했지.
-Japanese,"scene_cp4_q2_s10,421",detail,비,恩を返すって、そういうことか……,보답을 하겠다는게、그런 말이었나……
-Japanese,"scene_cp4_q2_s10,421",detail,라캄,申し出はありがたいが……<br>もう俺らは逃げねぇよ、<br>なぁ？ [플레이어]もそうだろ？,그렇게 말해준건 고맙지만……<br>우리들은 이제 도망치지 않아、<br>그렇지？ [플레이어]도 그렇잖아？
-Japanese,"scene_cp4_q2_s10,421",detail,라캄,守りたいものが増えちまったんだ。<br>グランサイファーだけじゃねぇ……<br>街の奴らも……この島も……,지켜야 할 것이 늘어버려서 말야.<br>그랑사이퍼 뿐만이 아냐……<br>마을 녀석들도……이 섬도……
+Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,理解できてない……<br>とても正気とは思えない。,이해할 수 없어……<br>아무리 봐도 제정신이라고는 생각 못하겠어.
+Japanese,"scene_cp4_q2_s10,421",detail,드랑크,そうそう、<br>そこで君達には恩があるからさ。,그래그래、<br>그래도 우리한테는 갚아야 할 빚이 있으니까.
+Japanese,"scene_cp4_q2_s10,421",detail,드랑크,君達だけでも、<br>帝国の戦艦に密航させて、<br>逃がしてあげよっかな、って思ってね。,너희들만이라도、<br>제국의 전함에 밀항시켜서、<br>도망치게 해줄까나、하고 생각했지.
+Japanese,"scene_cp4_q2_s10,421",detail,비,恩を返すって、そういうことか……,보답을 하겠다는 게、그런 말이었나……
+Japanese,"scene_cp4_q2_s10,421",detail,라캄,申し出はありがたいが……<br>もう俺らは逃げねぇよ、<br>なぁ？ [플레이어]もそうだろ？,그렇게 말해준 건 고맙지만……<br>우리들은 이제 도망치지 않아、<br>그렇지？ [플레이어]도 그렇잖아？
+Japanese,"scene_cp4_q2_s10,421",detail,라캄,守りたいものが増えちまったんだ。<br>グランサイファーだけじゃねぇ……<br>街の奴らも……この島も……,지켜야 할 것이 늘어버려서 말야.<br>그랑사이퍼뿐만이 아냐……<br>마을 녀석들도……이 섬도……
 Japanese,"scene_cp4_q2_s10,421",detail,라캄,何一つ失いたくねぇ。<br>だから……俺はもう逃げやしねぇよ。,무엇 하나 잃고 싶지 않아.<br>그러니……나는 더는 도망치지 않아.
 Japanese,"scene_cp4_q2_s10,421",detail,카타리나,同意だな……<br>非道が為されようとしているのに、<br>ただ見ているだけなど、性に合わない。,동의하지……<br>도리에 맞지 않는 일이 일어나려는데、<br>그저 바라보고만 있는 것은、성에 맞지 않는다.
-Japanese,"scene_cp4_q2_s10,421",detail,루리아,私達にはできることがあるんだから……<br>だから……頑張らなきゃ！,저희들은 할 수 있는 일이 있으니까……<br>그러니까……힘내야해요！
+Japanese,"scene_cp4_q2_s10,421",detail,루리아,私達にはできることがあるんだから……<br>だから……頑張らなきゃ！,저희들은 할 수 있는 일이 있으니까……<br>그러니까……힘내야 해요！
 Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,……馬鹿ばっかりだな。,……바보들뿐이군.
 Japanese,"scene_cp4_q2_s10,421",detail,드랑크,とかなんとか言ってぇ～！<br>スツルム殿も嫌いじゃないでしょ？<br>こういう奴ら……,그런식으로 말해도～！<br>스츠룸 나리도 싫지는 않잖아？<br>이런 녀석ㄷ……
 Japanese,"scene_cp4_q2_s10,421",detail,드랑크,<span class='scene-font-4'>痛てッ！ 痛いって！</span>,<span class='scene-font-4'>아파앗！ 아프다고！</span>
-Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,だ、黙れ！<br>黙らないと、その口縫い合わせるぞ！,다、닥쳐！<br>닥치지 않으면、그 입을 꿰매버린다！
+Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,だ、黙れ！<br>黙らないと、その口縫い合わせるぞ！,다、닥쳐！<br>닥치지 않으면、그 입을 꿰매 버린다！
 Japanese,"scene_cp4_q2_s10,421",detail,카타리나,ひとまずはそういうわけだ……<br>私達は先へ進むよ。,여튼 그렇게 되었으니……<br>우리들은 계속 가겠다.
 Japanese,"scene_cp4_q2_s10,421",detail,스츠룸,ふん……,흐음……
-Japanese,"scene_cp4_q2_s10,421",detail,드랑크,うんうん、<br>それじゃ、僕達は逃げるけど、<br>頑張ってねぇ～！,응응、<br>그럼、우리들은 도망갈테지만、<br>힘내～！
+Japanese,"scene_cp4_q2_s10,421",detail,드랑크,うんうん、<br>それじゃ、僕達は逃げるけど、<br>頑張ってねぇ～！,응응、<br>그럼、우리들은 도망갈 테지만、<br>힘내～！
 Japanese,"scene_cp4_q2_s10,421",detail,카타리나,騒がしい連中だったな……,소란스러운 녀석들이었군……
 Japanese,"scene_cp4_q2_s10,421",detail,라캄,ああ、<br>ちょいと気が抜けちまったが、<br>ここからが本番だ……いくぞ！,그래、<br>쬐끔 힘이 빠져버렸지만、<br>이제부터 시작이다……가자！
-Japanese,"scene_cp4_q2_s20,422",synopsis,,星晶獣ティアマトの起こす嵐に、魔物達がより狂暴化していることにルリアが気づく。一層の用心をして、<span>[플레이어]</span>一行は先へ進む。,성정수 티아마트가 일으킨 폭풍으로、마물들이 더욱 광폭화되었다는 것을 루리아가 깨닫는다. 지금까지 이상으로 조심하며、<span>[플레이어]</span> 일행은 앞으로 나아간다.
+Japanese,"scene_cp4_q2_s20,422",synopsis,,星晶獣ティアマトの起こす嵐に、魔物達がより狂暴化していることにルリアが気づく。一層の用心をして、<span>[플레이어]</span>一行は先へ進む。,성정수 티아마트가 일으킨 폭풍 탓에 마물들이 더욱 광폭화 되었다는 것을 루리아가 깨닫는다. 지금까지 이상으로 조심하며、<span>[플레이어]</span> 일행은 앞으로 나아간다.
 Japanese,"scene_cp4_q2_s20,422",detail,루리아,嵐のせいかな……<br>魔物さん達が、いつもより怖い……,폭풍 때문인지……<br>마물들이、평소보다 무서워……
 Japanese,"scene_cp4_q2_s20,422",detail,카타리나,星晶獣の起こす嵐だ……<br>瘴流域に近い力を、<br>持っているのかもしれないな。,성정수가 일으킨 폭풍이다……<br>장류역에 가까운 힘을、<br>가지고 있는 걸지도 모르겠군.
 Japanese,"scene_cp4_q2_s20,422",detail,비,街に居る連中も危ねーかもしれないな！<br>急ごうぜ！,마을에 있는 녀석들도 위험할지도 모르겠네！<br>서두르자고！
-Japanese,"scene_cp4_q2_s20,422",detail,라캄,ああ、時間がねぇのは、百も承知だ。<br>魔物なんぞ、さっさとブッ飛ばすぞ！,그래、시간이 없는건、충분히 알고있다.<br>마물들 따위、제깍제깍 날려버리자고！
-Japanese,"scene_cp4_q3_s10,431",synopsis,,最もティアマトの気配が強いという場所にたどり着く<span>[플레이어]</span>一行。しかし、そこに嵐の大星晶獣の姿はなく、待ち構えていたフュリアスによって、ティアマト暴走の原因を告げられる。,티아마트의 기색이 가장 강하다는 장소에 도착한 <span>[플레이어]</span> 일행. 하지만、그곳엔 폭풍의 대성정수의 모습은 없고、기다리고있던 퓨리어스에 의해、티아마트 폭주의 원인을 알게되는 것이었다.
-Japanese,"scene_cp4_q3_s10,431",detail,루리아,――ここ、ここが一番、<br>ティアマトの気配が強い……,――여기、여기가 가장、<br>티아마트의 기색이 강해요……
+Japanese,"scene_cp4_q2_s20,422",detail,라캄,ああ、時間がねぇのは、百も承知だ。<br>魔物なんぞ、さっさとブッ飛ばすぞ！,그래、시간이 없는 건、알고있다.<br>마물들 따위、제깍제깍 날려버리자고！
+Japanese,"scene_cp4_q3_s10,431",synopsis,,最もティアマトの気配が強いという場所にたどり着く<span>[플레이어]</span>一行。しかし、そこに嵐の大星晶獣の姿はなく、待ち構えていたフュリアスによって、ティアマト暴走の原因を告げられる。,티아마트의 기운이 가장 강하다는 장소에 도착한 <span>[플레이어]</span> 일행. 하지만、그곳에는 폭풍의 대성정수의 모습은 없었고、일행을 기다리고 있던 퓨리어스에 의해、티아마트 폭주의 원인을 알게 되는 것이었다.
+Japanese,"scene_cp4_q3_s10,431",detail,루리아,――ここ、ここが一番、<br>ティアマトの気配が強い……,――여기、여기가 가장、<br>티아마트의 기운이 강해요……
 Japanese,"scene_cp4_q3_s10,431",detail,라캄,ここって……<br>おいおい、マジかよ？,여기라니……<br>어이어이、진짜야？
-Japanese,"scene_cp4_q3_s10,431",detail,,<span class='scene-font-katari'>ルリアの力を頼りに辿り着いたのは、</span><br><span class='scene-font-katari'>騎空艇グランサイファーの</span><br><span class='scene-font-katari'>鎮座する草原だった。</span>,<span class='scene-font-katari'>루리아의 힘을 따라 도착한 곳은、</span><br><span class='scene-font-katari'>기공정 그랑사이퍼가</span><br><span class='scene-font-katari'>자리잡고 있는 언덕이었다.</span>
-Japanese,"scene_cp4_q3_s10,431",detail,비,んー、でもよぅ、<br>ここ、グランサイファー以外には、<br>なんにも……,음ー、그래도말야、<br>여기、그랑사이퍼 이외에는、<br>아무것도……
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,あれれ～？<br>なんだい、君ら、<br>まさかティアマトを止めに来たの？,어라라～？<br>뭐야、너희들、<br>설마 타이마트를 막으러 온거야？
-Japanese,"scene_cp4_q3_s10,431",detail,라캄,帝国の……！？<br>てめぇ、ここで何してやがる！？,제국의……！？<br>이자식、여기서 뭐 하고 있어！？
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,なんだっていいだろ……<br>そんなことより、<br>君達はまだ抵抗するわけ？,뭘 하든 상관없잖아……<br>그런 것 보다、<br>너희들 아직도 저항하고 있는거야？
+Japanese,"scene_cp4_q3_s10,431",detail,,<span class='scene-font-katari'>ルリアの力を頼りに辿り着いたのは、</span><br><span class='scene-font-katari'>騎空艇グランサイファーの</span><br><span class='scene-font-katari'>鎮座する草原だった。</span>,<span class='scene-font-katari'>루리아의 안내를 따라 도착한 곳은、</span><br><span class='scene-font-katari'>기공정 그랑사이퍼가</span><br><span class='scene-font-katari'>자리잡고 있는 언덕이었다.</span>
+Japanese,"scene_cp4_q3_s10,431",detail,비,んー、でもよぅ、<br>ここ、グランサイファー以外には、<br>なんにも……,음～、그래도 말야、<br>여기、그랑사이퍼 이외에는、<br>아무것도……
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,あれれ～？<br>なんだい、君ら、<br>まさかティアマトを止めに来たの？,어라라～？<br>뭐야、너희들、<br>설마 티아마트를 막으러 온 거야？
+Japanese,"scene_cp4_q3_s10,431",detail,라캄,帝国の……！？<br>てめぇ、ここで何してやがる！？,제국의……！？<br>이 자식、여기서 뭘 하고 있는 거냐！？
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,なんだっていいだろ……<br>そんなことより、<br>君達はまだ抵抗するわけ？,뭘 하든 상관없잖아……<br>그런 것보다、<br>너희들 아직도 저항하고 있는 거야？
 Japanese,"scene_cp4_q3_s10,431",detail,카타리나,当たり前だ……<br>この状況を、<br>放っておけるわけがないだろう。,당연하지……<br>이 상황을、<br>가만히 둘 수는 없으니까.
 Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,ふぅーん……<br>言っておくけどさぁ、<br>これは自業自得なんだよ？,흐응……<br>말해두겠지만、<br>이건 자업자득이라구？
 Japanese,"scene_cp4_q3_s10,431",detail,비,自業自得だって！？<br>お前らがティアマトを、<br>暴走させたんじゃねーのかよ！,자업자득이라고！？<br>너희들이 티아마트를、<br>폭주 시켰잖아！
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,そうだね……それは間違いない。<br>ただ、ボクは引き金を引いただけだ。<br>弾はすでに込められてたんだよ。,그렇지……그건 틀리지 않아.<br>그저、나는 방아쇠를 당긴 것 뿐이다.<br>총알은 이미 장전되어있었던거야.
-Japanese,"scene_cp4_q3_s10,431",detail,카타리나,どういうことだ……<br>貴様、何が言いたい！？,무슨 일을……<br>이자식、뭘 말하고 싶나！？
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,ティアマトはすでに、<br>限界だったってことさ。,티아마트는 이미、<br>한계였다는 거다.
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,この群島の連中は、<br>昔っから豊かな風の恩恵を受けてきた。,이 군도에 사는 녀석들은、<br>옛날부터 온화한 바람의 보은을 받고있었다.
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,けどね……<br>それは無償のものじゃなかったんだ。,하지만……<br>그건 공짜로 주어지는게 아니었던거지.
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,その代償は支払われぬまま、<br>ティアマトの中に溜まっていった……<br>ずっと前から危うい状態だったんだ。,그 대가는 지불되지않고、<br>티아마트 안에서 쌓이고 있었다……<br>훨씬 옛날부터 위험한 상태였다고.
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,そうだね……それは間違いない。<br>ただ、ボクは引き金を引いただけだ。<br>弾はすでに込められてたんだよ。,그렇지……그건 맞는 말이야.<br>하지만 나는 그저、방아쇠를 당긴 것뿐이야.<br>총알은 이미 장전되어 있었던 거야.
+Japanese,"scene_cp4_q3_s10,431",detail,카타리나,どういうことだ……<br>貴様、何が言いたい！？,무슨 일을……<br>이 자식、뭘 말하고 싶은 거냐！？
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,ティアマトはすでに、<br>限界だったってことさ。,티아마트는 이미、<br>한계였다는 거지.
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,この群島の連中は、<br>昔っから豊かな風の恩恵を受けてきた。,이 군도에 사는 녀석들은、<br>옛날부터 온화한 바람의 보은을 받고 있었어.
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,けどね……<br>それは無償のものじゃなかったんだ。,하지만……<br>그건 공짜로 주어지는 게 아니었던 거지.
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,その代償は支払われぬまま、<br>ティアマトの中に溜まっていった……<br>ずっと前から危うい状態だったんだ。,그 대가는 지불되지 않았고、<br>티아마트 안에서 쌓이고 있었다……<br>훨씬 옛날부터 위험한 상태였다고.
 Japanese,"scene_cp4_q3_s10,431",detail,루리아,そこを……帝国が……,거기에……제국이……
-Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,ま、そんなとこだね。<br>ボクはもうウチの戦艦で逃げるけど……,뭐、그런거였지.<br>나는 이제 우리 전함으로 도망칠껀데……
+Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,ま、そんなとこだね。<br>ボクはもうウチの戦艦で逃げるけど……,뭐、그런 거였지.<br>나는 이제 우리 전함으로 도망칠 건데……
 Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,それでも、もしティアマトを<br>止めるって言うなら……,그래도、만약 티아마트를<br>멈추겠다고 말한다면……
 Japanese,"scene_cp4_q3_s10,431",detail,퓨리어스,<span class='scene-font-4'>ふぎゅッ！？</span>,<span class='scene-font-4'>후갹！？</span>
 Japanese,"scene_cp4_q3_s10,431",detail,라캄,長々とうるせぇんだよ、てめぇは。,너무 길어、시끄럽다고、네놈은.
 Japanese,"scene_cp4_q3_s10,431",detail,라캄,どんな事情があろうと、<br>俺はもう決めたんだ……<br>この島を……街の連中を守るってな！！,무슨 이유가 있다고 해도、<br>나는 이미 마음을 정했어……<br>이 섬을……마을 녀석들을 지키겠다고 말야！！
-Japanese,"scene_cp4_q3_s10,431",detail,라캄,後戻りはしねぇ！<br>邪魔をするってんなら、<br>片っ端から俺が撃ち抜いてやるぜ！,번복할 수는 없어！<br>방해하겠다면、<br>조각하나 남기지 않고 쏴주겠어！
-Japanese,"scene_cp4_q3_s20,432",synopsis,,ティアマトの気配を探るが、なかなかその姿を見つけることができない。そんな中、ティアマトは地上ではなく空にいるのではないかとルリアが気づく。,티아마트의 기색을 찾아보지만、그 모습을 잘 찾을 수 없었다. 그러던 도중、티아마트는 지상이 아닌 하늘에 있지 않을까 하고 루리아는 깨닫는다.
-Japanese,"scene_cp4_q3_s20,432",detail,카타리나,グランサイファーの周りの兵士は、<br>これで粗方片付いたか？,그랑사이퍼 주변의 병사는、<br>이걸로 대강 정리가된건가？
-Japanese,"scene_cp4_q3_s20,432",detail,비,け、けどよぅ……<br>これだけ動き回っても、<br>やっぱりティアマトなんて居ないぜ？,그、그래도말야……<br>이렇게 왔다갔다 해봤는데도、<br>역시 티아마트 같은건 없다구？
+Japanese,"scene_cp4_q3_s10,431",detail,라캄,後戻りはしねぇ！<br>邪魔をするってんなら、<br>片っ端から俺が撃ち抜いてやるぜ！,번복할 수는 없어！<br>방해하겠다면、<br>조각하나 남기지 않고 쏴 주겠어！
+Japanese,"scene_cp4_q3_s20,432",synopsis,,ティアマトの気配を探るが、なかなかその姿を見つけることができない。そんな中、ティアマトは地上ではなく空にいるのではないかとルリアが気づく。,티아마트의 기운을 찾아보지만、그 모습을 찾을 수 없다. 그러던 도중、루리아는 티아마트가 지상이 아닌 하늘에 있을 것이라는 깨달음을 얻는다.
+Japanese,"scene_cp4_q3_s20,432",detail,카타리나,グランサイファーの周りの兵士は、<br>これで粗方片付いたか？,그랑사이퍼 주변의 병사는<br>이걸로 대강 정리가 된 건가？
+Japanese,"scene_cp4_q3_s20,432",detail,비,け、けどよぅ……<br>これだけ動き回っても、<br>やっぱりティアマトなんて居ないぜ？,그、그래도 말야……<br>이렇게 왔다갔다 해봤는데도、<br>역시 티아마트 같은 건 없다구？
 Japanese,"scene_cp4_q3_s20,432",detail,루리아,あ、あの……その……<br>も、もしかしてなんですけど……,저、그……저……<br>호、혹시나 해서 하는 말인데……
 Japanese,"scene_cp4_q3_s20,432",detail,비,ん？ なんだよ、ルリア。,응？ 무슨 일이야、루리아.
-Japanese,"scene_cp4_q3_s20,432",detail,루리아,もしかしてティアマトは……<br>上に居るんじゃないでしょうか……,혹시 티아마트는……<br>위에 있는게 아닐까요……
+Japanese,"scene_cp4_q3_s20,432",detail,루리아,もしかしてティアマトは……<br>上に居るんじゃないでしょうか……,혹시 티아마트는……<br>위에 있는 게 아닐까요……
 Japanese,"scene_cp4_q3_s20,432",detail,라캄,上……？<br>,위……？<br>
 Japanese,"scene_cp4_q3_s20,432",detail,,――……,――……
 Japanese,"scene_cp4_q3_s20,432",detail,라캄,まさか、空か！？,설마、하늘인가！？
-Japanese,"scene_cp4_q3_s20,432",detail,카타리나,確かめよう……<br>そのためにはまず、<br>帝国の兵士どもを蹴散らすぞ！！,확인해보자……<br>그러려면 먼저、<br>제국 병사를 쫓아버려야겠지！！
-Japanese,"scene_cp4_q4_s10,441",synopsis,,空高くに座するティアマトに万策尽きたかと思われたその時、ついにラカムは再び舵を握る。呼応する騎空艇グランサイファーは再びその翼に風を受け、<span>[플레이어]</span>一行をティアマトの元へと導く。,하늘 높은 곳에 자리 잡은 티아마트에게 쓸 수 있는 모든 방법을 다 써봤다고 생각하는 그 때、결국 라캄은 다시 키를 쥔다. 호응하는 기공정 그랑사이퍼는 그 날개에 다시 한번 바람을 받아、<span>[플레이어]</span> 일행을 티아마트가 있는 곳으로 인도한다.
-Japanese,"scene_cp4_q4_s10,441",detail,루리아,ううん……やっぱり、<br>お空に居ると思います、ティアマト。,으응……역시、<br>하늘에 있을거라고 생각해요、티아마트.
+Japanese,"scene_cp4_q3_s20,432",detail,카타리나,確かめよう……<br>そのためにはまず、<br>帝国の兵士どもを蹴散らすぞ！！,확인해보자……<br>그러려면 먼저、<br>제국 병사를 쫓아 버려야겠지！！
+Japanese,"scene_cp4_q4_s10,441",synopsis,,空高くに座するティアマトに万策尽きたかと思われたその時、ついにラカムは再び舵を握る。呼応する騎空艇グランサイファーは再びその翼に風を受け、<span>[플레이어]</span>一行をティアマトの元へと導く。,하늘 높은 곳에 자리 잡은 티아마트에게 쓸 수 있는 모든 방법을 다 써봤다고 생각하는 그 때、결국 라캄은 다시 키를 쥔다. 기공정 그랑사이퍼는 그 날개에 다시 한번 바람을 받아、<span>[플레이어]</span> 일행을 티아마트가 있는 곳으로 인도한다.
+Japanese,"scene_cp4_q4_s10,441",detail,루리아,ううん……やっぱり、<br>お空に居ると思います、ティアマト。,으응……역시、<br>하늘에 있을 거라고 생각해요、티아마트는.
 Japanese,"scene_cp4_q4_s10,441",detail,카타리나,空か……まいったな……<br>まさかここで、手詰まりになるとは……,하늘인가……곤란하군……<br>설마 여기서、벽에 부딪힐 줄이야……
 Japanese,"scene_cp4_q4_s10,441",detail,라캄,いいや……まだ手はあるぜ！<br>みんな！ グランサイファーに乗れ！,아니……아직 방법이 있다고！<br>모두！ 그랑사이퍼에 타！
-Japanese,"scene_cp4_q4_s10,441",detail,비,乗ってみたけど……<br>なぁ、ラカム、<br>こいつ、飛べるのか？,타봤지만……<br>있잖아、라캄、<br>이녀석、날 수 있어？
+Japanese,"scene_cp4_q4_s10,441",detail,비,乗ってみたけど……<br>なぁ、ラカム、<br>こいつ、飛べるのか？,타봤지만……<br>있잖아、라캄、<br>이 녀석、날 수 있어？
 Japanese,"scene_cp4_q4_s10,441",detail,비,この艇ってラカムが前に……,이 배는 전에 라캄이……
 Japanese,"scene_cp4_q4_s10,441",detail,라캄,ああ……<br>前に俺が、墜落させちまった艇だ……,그래……<br>전에 내가、추락시켰던 배다……
-Japanese,"scene_cp4_q4_s10,441",detail,라캄,だがな、<br>俺が空を怖がってただけで、<br>こいつはずっと待ち続けてたんだ。,하지만 말야、<br>내가 하늘을 무서워했을뿐이고、<br>이녀석은 계속 기다렸던거야.
-Japanese,"scene_cp4_q4_s10,441",detail,라캄,それを感じる……いまならわかる。<br>こいつは飛べるぜ……どこだろうとな！,그걸 느껴……지금이라면 알아.<br>이녀석은 날 수 있어……어디라도 말이지！
-Japanese,"scene_cp4_q4_s10,441",detail,,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-katari'>ラカムは力強く舵を手に取る。</span>,<span class='scene-font-katari'>그렇게 말하곤、</span><br><span class='scene-font-katari'>라캄은 힘세게 키를 잡았다.</span>
-Japanese,"scene_cp4_q4_s10,441",detail,라캄,悪ぃ……待たせたな。<br>俺は戻って来たぜ……<br>だから導けよ……俺を、この空に！！,미안……기다리게했구나.<br>내가 돌아왔어……<br>그러니까 이끌어줘……나를、이 하늘로！！
+Japanese,"scene_cp4_q4_s10,441",detail,라캄,だがな、<br>俺が空を怖がってただけで、<br>こいつはずっと待ち続けてたんだ。,하지만 말야、<br>내가 하늘을 무서워 했을 뿐이고、<br>이 녀석은 계속 기다렸던 거야.
+Japanese,"scene_cp4_q4_s10,441",detail,라캄,それを感じる……いまならわかる。<br>こいつは飛べるぜ……どこだろうとな！,그걸 느껴……지금이라면 알아.<br>이 녀석은 날 수 있어……어디라도 말이지！
+Japanese,"scene_cp4_q4_s10,441",detail,,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-katari'>ラカムは力強く舵を手に取る。</span>,<span class='scene-font-katari'>그렇게 말하곤、</span><br><span class='scene-font-katari'>라캄은 굳세게 키를 잡았다.</span>
+Japanese,"scene_cp4_q4_s10,441",detail,라캄,悪ぃ……待たせたな。<br>俺は戻って来たぜ……<br>だから導けよ……俺を、この空に！！,미안……기다리게 했구나.<br>내가 돌아 왔어……<br>그러니까 이끌어줘……나를、이 하늘로！！
 Japanese,"scene_cp4_q4_s10,441",detail,카타리나,う、動き出した……！？,우、움직였어……！？
-Japanese,"scene_cp4_q4_s10,441",detail,루리아,やった！<br>ラカムさんの想いが通じたんですね！,와 해냈어요！<br>라캄씨의 마음이 통했어요！
-Japanese,"scene_cp4_q4_s10,441",detail,비,だな！<br>これでティアマトのとこまで、<br>一直線だぜ！,그런거같네！<br>이걸로 티아마트가 있는 곳 까지、<br>일직선이라고！
-Japanese,"scene_cp4_q4_s10,441",detail,라캄,さぁ、待ってろよ、ティアマト！！<br><span class='scene-font-place'>ポート・ブリーズ</span>住人の底力、<br>見せてやるぜ！！,자、기다려라、티아마트！！<br><span class='scene-font-place'>포트・브리즈</span> 주민의 저력、<br>보여주겠어！！
-Japanese,"scene_cp4_q4_s20,442",synopsis,,ついに<span>[플레이어]</span>一行は大星晶獣ティアマトと相対する。自我を失うまでに暴走したティアマトに、ラカムと<span>[플레이어]</span>達は最後の勝負を挑む。,결국 <span>[플레이어]</span> 일행은 대성정수 티아마트와 대면한다. 자아를 잃을 정도로 폭주해버린 티아마트에게、라캄과 <span>[플레이어]</span> 일행은 최후의 승부에 도전한다.
+Japanese,"scene_cp4_q4_s10,441",detail,루리아,やった！<br>ラカムさんの想いが通じたんですね！,와 해냈어요！<br>라캄 씨의 마음이 통했어요！
+Japanese,"scene_cp4_q4_s10,441",detail,비,だな！<br>これでティアマトのとこまで、<br>一直線だぜ！,그런 것 같네！<br>이걸로 티아마트가 있는 곳까지、<br>일직선이라고！
+Japanese,"scene_cp4_q4_s10,441",detail,라캄,さぁ、待ってろよ、ティアマト！！<br><span class='scene-font-place'>ポート・ブリーズ</span>住人の底力、<br>見せてやるぜ！！,자、기다려라、티아마트！！<br><span class='scene-font-place'>포트 브리즈</span> 주민의 저력을、<br>보여 주겠어！！
+Japanese,"scene_cp4_q4_s20,442",synopsis,,ついに<span>[플레이어]</span>一行は大星晶獣ティアマトと相対する。自我を失うまでに暴走したティアマトに、ラカムと<span>[플레이어]</span>達は最後の勝負を挑む。,결국 <span>[플레이어]</span> 일행은 대 성정수 티아마트와 대면한다. 자아를 잃을 정도로 폭주해버린 티아마트를 상대로、라캄과 <span>[플레이어]</span> 일행은 최후의 승부에 도전한다.
 Japanese,"scene_cp4_q4_s20,442",detail,티아마트,ガ……グ……,가……그……
 Japanese,"scene_cp4_q4_s20,442",detail,카타리나,これが……ティアマト……,이것이……티아마트……
-Japanese,"scene_cp4_q4_s20,442",detail,루리아,そんな……<br>自我もほとんど失ってる……<br>ここまで暴走が激しいなんて……,그런……<br>자아를 거의 잃어버렸어요……<br>여기까지 폭주가 심할줄이야……
+Japanese,"scene_cp4_q4_s20,442",detail,루리아,そんな……<br>自我もほとんど失ってる……<br>ここまで暴走が激しいなんて……,그런……<br>자아를 거의 잃어버렸어요……<br>여기까지 폭주가 심할 줄이야……
 Japanese,"scene_cp4_q4_s20,442",detail,루리아,このままじゃ……<br>とても私の力じゃ、どうにも……,이대로라면……<br>제 힘으로는、어떻게……
 Japanese,"scene_cp4_q4_s20,442",detail,비,んなっ！？<br>じゃ、じゃあ、<br>オイラ達はどうすりゃ……,뭐！？<br>그럼、그럼、<br>우리들은 어떻게 해야……
-Japanese,"scene_cp4_q4_s20,442",detail,라캄,心配すんな……<br>嬢ちゃん、ティアマトがもう少し<br>大人しくなりゃいいのか？,걱정하지마라……<br>아가씨、티아마트가 조금만<br>얌전해지면 되는건가？
+Japanese,"scene_cp4_q4_s20,442",detail,라캄,心配すんな……<br>嬢ちゃん、ティアマトがもう少し<br>大人しくなりゃいいのか？,걱정하지 마라……<br>아가씨、티아마트가 조금만<br>얌전해지면 되는 건가？
 Japanese,"scene_cp4_q4_s20,442",detail,루리아,うん……<br>そうすれば、きっと……,응……<br>그렇게 되면、분명……
 Japanese,"scene_cp4_q4_s20,442",detail,라캄,なら、ここからは、<br>俺達の領分だな……,그럼、여기서부턴、<br>우리들의 영역이군……
 Japanese,"scene_cp4_q4_s20,442",detail,카타리나,ラカム！ どうするつもりだ！？<br>危険だ！ ティアマトに近づくな！,라캄！ 어쩔 셈이지！？<br>위험해！ 티아마트에게 가까이 가지마라！
-Japanese,"scene_cp4_q4_s20,442",detail,루리아,待ってカタリナ！<br>お願い……<br>ここはラカムさんに任せてあげて……！,기다려 카타리나！<br>부탁이야……<br>여기선 라캄씨에게 맡겨줘……！
+Japanese,"scene_cp4_q4_s20,442",detail,루리아,待ってカタリナ！<br>お願い……<br>ここはラカムさんに任せてあげて……！,기다려 카타리나！<br>부탁이야……<br>여기선 라캄 씨에게 맡겨줘……！
 Japanese,"scene_cp4_q4_s20,442",detail,라캄,なぁ、ティアマトよ……<br>聞いたぜ？ お前が暴走した理由。,여어、티아마트여……<br>들었다고？ 네가 폭주한 이유.
-Japanese,"scene_cp4_q4_s20,442",detail,라캄,<span class='scene-font-place'>ポート・ブリーズ</span>が<br>風に恵まれたのは、<br>全部お前のおかげだったんだってな。,<span class='scene-font-place'>포트・브리즈</span>가<br>바람의 은혜를 받고있는 것은、<br>전부 네 덕분이었다고하더라.
+Japanese,"scene_cp4_q4_s20,442",detail,라캄,<span class='scene-font-place'>ポート・ブリーズ</span>が<br>風に恵まれたのは、<br>全部お前のおかげだったんだってな。,<span class='scene-font-place'>포트 브리즈</span>가<br>바람의 은혜를 받고 있는 것은、<br>전부 네 덕분이었다고 하더라.
 Japanese,"scene_cp4_q4_s20,442",detail,티아마트,風……ワタシ、ノ……,바라……내、가……
-Japanese,"scene_cp4_q4_s20,442",detail,라캄,迷信か何かだと思ってたぜ……<br>悪ぃな……確かに俺達は、<br>お前に対する感謝が足りなかった。,미신이나 뭐 그런거라고 생각했었다고……<br>미안하군……확실히 우리들은、<br>너에게 감사하는 마음이 부족했었다.
-Japanese,"scene_cp4_q4_s20,442",detail,라캄,けどな……そうは言っても、<br>俺が……俺達が抱えてるもんは、<br>そう簡単に捨てられやしねぇんだ。,그래도말야……그렇다곤해도、<br>내가……우리들이 품고있는 걸、<br>그리 간단히 버릴 수는 없어.
-Japanese,"scene_cp4_q4_s20,442",detail,라캄,守りてぇ……<br>守らなきゃいけねぇもんがある。<br>だから俺はもう退かねぇよ。,지키고싶은……<br>지키지 않으면 안되는 것이 있어.<br>그래서 나는 이제 물러설 수 없어.
+Japanese,"scene_cp4_q4_s20,442",detail,라캄,迷信か何かだと思ってたぜ……<br>悪ぃな……確かに俺達は、<br>お前に対する感謝が足りなかった。,미신이나 뭐 그런 거라고 생각 했었다고……<br>미안하군……확실히 우리들은、<br>너에게 감사하는 마음이 부족했었다.
+Japanese,"scene_cp4_q4_s20,442",detail,라캄,けどな……そうは言っても、<br>俺が……俺達が抱えてるもんは、<br>そう簡単に捨てられやしねぇんだ。,그래도 말야……그렇다곤 해도、<br>내가……우리들이 품고 있는 걸、<br>그리 간단히 버릴 수는 없어.
+Japanese,"scene_cp4_q4_s20,442",detail,라캄,守りてぇ……<br>守らなきゃいけねぇもんがある。<br>だから俺はもう退かねぇよ。,지키고 싶은……<br>지키지 않으면 안 되는 것이 있어.<br>그래서 나는 이제 물러설 수 없어.
 Japanese,"scene_cp4_q4_s20,442",detail,라캄,逃げねぇし、退かねぇ……<br>後ずさりもしねぇ……<br>お互い、譲れないんだろ？,도망치지 않고、물러서지도 않아……<br>뒷걸음질 치지 않아……<br>서로、양보할 수는 없잖아？
 Japanese,"scene_cp4_q4_s20,442",detail,티아마트,…………,…………
-Japanese,"scene_cp4_q4_s20,442",detail,라캄,だったら……<br>ぶつかろうぜ、全力でさ。,그렇다면……<br>부딪혀보자고、전력으로.
+Japanese,"scene_cp4_q4_s20,442",detail,라캄,だったら……<br>ぶつかろうぜ、全力でさ。,그렇다면……<br>부딪혀 보자고、전력으로.
 Japanese,"scene_cp4_q4_s20,442",detail,라캄,やろうぜ……正々堂々真剣勝負だ！<br>神だか星晶獣だか知らねぇが、<br>遠慮なんかすんじゃねぇぞ！！,해보자고……정정당당 진검승부다！<br>신이라던가 성정수라던가 모르겠지만、<br>사양따위 하지말라고！！
 Japanese,"scene_cp4_q4_s20,442",detail,티아마트,<span class='scene-font-4'>グガ……ガアアァァアァッ！！</span>,<span class='scene-font-4'>구가……가아아아아아아앗！！</span>
-Japanese,"scene_cp4_q4_s30,443",synopsis,,ティアマトを治めた<span>[플레이어]</span>一行は、群島から手を振るシェロを見つけ、よろず屋に届けられたという手紙を受け取る。その手紙の内容に、今度は<span class='scene-font-place'>バルツ公国</span>へと針路を取る。,티아마트를 낫게한 <span>[플레이어]</span> 일행은、군도에서 손을 흔드는 셰로를 발견하고、만물상이 받은 편지를 넘겨받는다. 그 편지의 내용으로、이번엔 <span class='scene-font-place'>발츠 공국</span>으로 진로를 정한다.
+Japanese,"scene_cp4_q4_s30,443",synopsis,,ティアマトを治めた<span>[플레이어]</span>一行は、群島から手を振るシェロを見つけ、よろず屋に届けられたという手紙を受け取る。その手紙の内容に、今度は<span class='scene-font-place'>バルツ公国</span>へと針路を取る。,티아마트를 낫게 한 <span>[플레이어]</span> 일행은、군도에서 손을 흔드는 셰로를 발견하고、만물상이 건넨 편지를 넘겨받는다. 그 편지의 내용을 따라、이번엔 <span class='scene-font-place'>발츠 공국</span>으로 진로를 정한다.
 Japanese,"scene_cp4_q4_s30,443",detail,라캄,はぁ……はぁ……<br>ったく……<br>なかなかやるじゃねぇか……,하아……하아……<br>나참……<br>제법 하잖아……
 Japanese,"scene_cp4_q4_s30,443",detail,루리아,もう、大丈夫です……<br>溢れていたティアマトの力は、<br>私が吸収しました……,이제、괜찮아요……<br>넘치고 있던 티아마트의 힘은、<br>제가 흡수했어요……
 Japanese,"scene_cp4_q4_s30,443",detail,루리아,これでティアマトは、<br>自分を取り戻すはずです……,이걸로 티아마트는、<br>자아를 되찾을 거에요……
 Japanese,"scene_cp4_q4_s30,443",detail,카타리나,……ん？<br>ルリア、<br>その手に持っているものはなんだ？,……응？<br>루리아、<br>지금 손에 들고 있는 건 뭐지？
 Japanese,"scene_cp4_q4_s30,443",detail,루리아,え？ あれ？<br>いつの間に……<br>なんだろう、これ……,응？ 어라？<br>어느새……<br>뭐지、이거……
-Japanese,"scene_cp4_q4_s30,443",detail,비,こいつぁ……<span class='scene-font-spword'>空図の欠片</span>じゃねぇか！,"이녀석은……<span class='scene-font-spword'>공도의 파편*</span>이잖아！<br><span class='scene-font-1'>(*空図の欠片, 하늘지도(空図)의 조각)</span>"
+Japanese,"scene_cp4_q4_s30,443",detail,비,こいつぁ……<span class='scene-font-spword'>空図の欠片</span>じゃねぇか！,이 녀석은……<span class='scene-font-spword'>공도의 파편</span>이잖아！<br><span class='scene-font-1'>(하늘지도(空図)의 조각)</span>
 Japanese,"scene_cp4_q4_s30,443",detail,비,前に[플레이어]の親父さんに<br>見せてもらったのと同じだ……<br>間違いねぇぜ！,전에 [플레이어] 아버지가<br>보여줬던 것과 같아……<br>분명해！
 Japanese,"scene_cp4_q4_s30,443",detail,카타리나,これが<span class='scene-font-spword'>空図の欠片</span>……<br>これがあれば、<br>帝国の魔の手からルリアを……！,이게 <span class='scene-font-spword'>공도의 파편</span>……<br>이게 있으면、<br>제국의 마수로부터 루리아를……！
 Japanese,"scene_cp4_q4_s30,443",detail,라캄,おっ！ 空が晴れてきたな！,오오！ 하늘이 개고 있어！
 Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>雲の切れ間から差し込む光は、</span><br><span class='scene-font-katari'>天からの祝福のように、</span><br><span class='scene-font-katari'>グランサイファーを照らした。</span>,<span class='scene-font-katari'>구름을 뚫고 비치는 햇살은、</span><br><span class='scene-font-katari'>하늘이 축복하는 것처럼、</span><br><span class='scene-font-katari'>그랑사이퍼를 비췄다.</span>
-Japanese,"scene_cp4_q4_s30,443",detail,카타리나,ふぅ……<br>これで一段落かな。<br>お疲れ様、[플레이어],후우……<br>이걸로 일닥란인가.<br>수고했어、[플레이어]
-Japanese,"scene_cp4_q4_s30,443",detail,라캄,さて……それで？<br>お前らはどこに行きたいんだ？,자아……그래서？<br>너희들 어디로 가고싶어？
-Japanese,"scene_cp4_q4_s30,443",detail,비,お？ なんだよ、急に。<br>このまま、<br>連れてってくれるってのか？,응？ 뭐야、갑자기.<br>이대로、<br>데려다 주겠다는거야？
-Japanese,"scene_cp4_q4_s30,443",detail,라캄,まぁな……<br>やっぱり空は良いなぁ、って思ってよ。,뭐 그렇지……<br>역시 하늘은 좋구나、하고 생각했어.
-Japanese,"scene_cp4_q4_s30,443",detail,라캄,お前らと一緒なら、<br>もう二度と<br>空を捨てずに済む気がするんだ。,너희들고 함께라면、<br>이제 두번 다시<br>하늘을 버리지 않아도 될 거 같은 느낌이 들어.
-Japanese,"scene_cp4_q4_s30,443",detail,라캄,それに、<br>グランサイファーも[플레이어]を、<br>気に入っちまったみてぇだしな。,거기에、<br>그랑사이퍼도 [플레이어]를、<br>맘에 들어하는 것 같고 말이지.
+Japanese,"scene_cp4_q4_s30,443",detail,카타리나,ふぅ……<br>これで一段落かな。<br>お疲れ様、[플레이어],후우……<br>이걸로 일단락인가.<br>수고했어、[플레이어]
+Japanese,"scene_cp4_q4_s30,443",detail,라캄,さて……それで？<br>お前らはどこに行きたいんだ？,자아……그래서？<br>너희들 어디로 가고 싶어？
+Japanese,"scene_cp4_q4_s30,443",detail,비,お？ なんだよ、急に。<br>このまま、<br>連れてってくれるってのか？,응？ 뭐야、갑자기.<br>이대로、<br>데려다 주겠다는 거야？
+Japanese,"scene_cp4_q4_s30,443",detail,라캄,まぁな……<br>やっぱり空は良いなぁ、って思ってよ。,뭐 그렇지……<br>역시 하늘은 좋구나、하고 생각 했어.
+Japanese,"scene_cp4_q4_s30,443",detail,라캄,お前らと一緒なら、<br>もう二度と<br>空を捨てずに済む気がするんだ。,너희들과 함께라면、<br>이제 두 번 다시<br>하늘을 버리지 않아도 될 거 같은 느낌이 들어.
+Japanese,"scene_cp4_q4_s30,443",detail,라캄,それに、<br>グランサイファーも[플레이어]を、<br>気に入っちまったみてぇだしな。,거기에、<br>그랑사이퍼도 [플레이어]를、<br>맘에 들어 하는 것 같고 말이지.
 Japanese,"scene_cp4_q4_s30,443",detail,라캄,こうなりゃ、この俺が責任もって、<br>どこへだって連れてってやるよ！！<br>それこそ空の果てまででもな！,이렇게 되면、이 내가 책임을 가지고、<br>어디로든 데려다 주지！！<br>그게 설사 하늘의 끝이라고 해도 말이지！
 Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>ラカムの言葉に沸いた[플레이어]達は</span><br><span class='scene-font-katari'>遥かな空へと針路を向ける。</span>,<span class='scene-font-katari'>라캄의 발언에 끓어오른 [플레이어] 일행은</span><br><span class='scene-font-katari'>아득한 하늘로 진로를 향한다.</span>
 Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>街の上空を通りがかったその時、</span><br><span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>地上で手を振る小さな影を見つけた。</span>,<span class='scene-font-katari'>마을 위를 지나가던 무렵、</span><br><span class='scene-font-katari'>[플레이어]는、</span><br><span class='scene-font-katari'>지상에서 손을 흔드는 작은 사람 모습을 발견했다.</span>
 Japanese,"scene_cp4_q4_s30,443",detail,비,んん？<br>ありゃあ、よろず屋じゃねぇか？,으음？<br>저거、만물상 아냐？
-Japanese,"scene_cp4_q4_s30,443",detail,라캄,シェロが……？<br>あれ？ あいつ手に何か持ってるぜ？,셰로가……？<br>어라？ 저녀석 손에 뭔가 들고있는데？
+Japanese,"scene_cp4_q4_s30,443",detail,라캄,シェロが……？<br>あれ？ あいつ手に何か持ってるぜ？,셰로가……？<br>어라？ 저 녀석 손에 뭔가 들고있는데？
 Japanese,"scene_cp4_q4_s30,443",detail,카타리나,何か用があるのかもしれない……<br>一度降りて、話を聞いてみよう。,뭔가 할말이 있는 걸지도 몰라……<br>한번 내려서、이야기를 들어보자.
 Japanese,"scene_cp4_q4_s30,443",detail,셰로카르테,――いや～<br>今回のことは本当に助かりました～,――정말로～<br>이번 일은 정말 큰 도움이 되었어요～
-Japanese,"scene_cp4_q4_s30,443",detail,카타리나,いや、私達も帝国の非道を、<br>見過ごすことはできなかったからな……,아니、우리들도 제국의、<br>도리에 맞지 않는 일을、<br>못 본 채 할 수는 없었으니까……
+Japanese,"scene_cp4_q4_s30,443",detail,카타리나,いや、私達も帝国の非道を、<br>見過ごすことはできなかったからな……,아니、우리들도 제국의、<br>도리에 맞지 않는 일을、<br>못 본 체 할 수는 없었으니까……
 Japanese,"scene_cp4_q4_s30,443",detail,카타리나,ところで、<br>先ほど手を振っていたのは、<br>何かあったのか？,그런데、<br>아까 손을 흔들고 있던 건、<br>무슨 일이었나？
-Japanese,"scene_cp4_q4_s30,443",detail,셰로카르테,そうそう～<br>[플레이어]さん宛てに<br>手紙を預かってたんですよ～,맞다맞다～<br>[플레이어]씨 앞으로온<br>편지를 맡아두고 있었어요～
+Japanese,"scene_cp4_q4_s30,443",detail,셰로카르테,そうそう～<br>[플레이어]さん宛てに<br>手紙を預かってたんですよ～,맞다 맞다～<br>[플레이어]씨 앞으로 온<br>편지를 맡아두고 있었어요～
 Japanese,"scene_cp4_q4_s30,443",detail,루리아,お手紙？<br>[플레이어]の故郷からでしょうか……,편지요？<br>[플레이어]의 고향에서 보낸걸까요……
 Japanese,"scene_cp4_q4_s30,443",detail,셰로카르테,いえ～<br>なんだか怪しい二人組が、<br>直接置いて行ったんです～,아니요～<br>뭔가 수상한 2인조가、<br>직접 전해주고 갔었어요～
 Japanese,"scene_cp4_q4_s30,443",detail,셰로카르테,なんでも、<br>恩返しだとかって～,뭔가、<br>보답이라던가 하면서～
 Japanese,"scene_cp4_q4_s30,443",detail,라캄,恩返しって……<br>それじゃ、<br>あいつらからの手紙か？,보답이라니……<br>그럼、<br>그녀석들이 쓴 편지인가？
 Japanese,"scene_cp4_q4_s30,443",detail,비,さぁなぁ……<br>とりあえず、開けてみようぜ！,글쎄……<br>일단、열어보자구！
-Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>その手紙の内容は、</span><br><span class='scene-font-katari'>これ以上ないほど簡潔だった。</span>,<span class='scene-font-katari'>그 편지의 내용은、</span><br><span class='scene-font-katari'>더 없을 정도로 간결했다.</span>
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>その手紙の内容は、</span><br><span class='scene-font-katari'>これ以上ないほど簡潔だった。</span>,<span class='scene-font-katari'>그 편지의 내용은、</span><br><span class='scene-font-katari'>더없이 간결했다.</span>
 Japanese,"scene_cp4_q4_s30,443",detail,라캄,<span class='scene-font-gray'>『</span><span class='scene-font-place'>バルツ公国</span><span class='scene-font-gray'>へ行け』</span>か……<br>なんだこりゃ？,<span class='scene-font-gray'>『</span><span class='scene-font-place'>발츠 공국</span><span class='scene-font-gray'>으로 가라』</span>인가……<br>뭐지 이거？
-Japanese,"scene_cp4_q4_s30,443",detail,카타리나,<span class='scene-font-place'>バルツ公国</span>か……<br>確か、この近くのドラフの島だな。<br>鉄鋼業で栄えていたはずだ。,<span class='scene-font-place'>발츠 공국</span>인가……<br>분명、이 근처에 있는 드라프의 섬이었지.<br>철강산업으로 번영했었다고하지.
+Japanese,"scene_cp4_q4_s30,443",detail,카타리나,<span class='scene-font-place'>バルツ公国</span>か……<br>確か、この近くのドラフの島だな。<br>鉄鋼業で栄えていたはずだ。,<span class='scene-font-place'>발츠 공국</span>인가……<br>분명、이 근처에 있는 드라프의 섬이었지.<br>철강산업으로 번영했었다고 하지.
 Japanese,"scene_cp4_q4_s30,443",detail,비,恩返しってこたぁ、<br>手紙の内容は、オイラ達にとって、<br>プラスになるってことだよな？,보답이라고 했으니、<br>편지 내용이、우리들에게 있어서、<br>플러스가 된다는 거겠지？
-Japanese,"scene_cp4_q4_s30,443",detail,비,ってことは、<br><span class='scene-font-place'>バルツ</span>に向かったほうがいいのか？,라는 말은、<br><span class='scene-font-place'>발츠</span>로 가는게 좋은건가？
-Japanese,"scene_cp4_q4_s30,443",detail,카타리나,わからないな……<br>彼らをそこまで、<br>信用していいものか……,모르겠군……<br>그들은 거기까지、<br>믿어도 되는 것일지……
+Japanese,"scene_cp4_q4_s30,443",detail,비,ってことは、<br><span class='scene-font-place'>バルツ</span>に向かったほうがいいのか？,그 말은、<br><span class='scene-font-place'>발츠</span>로 가는게 좋은 건가？
+Japanese,"scene_cp4_q4_s30,443",detail,카타리나,わからないな……<br>彼らをそこまで、<br>信用していいものか……,모르겠군……<br>그들은 거기까지、<br>믿어도 되는 건지……
 Japanese,"scene_cp4_q4_s30,443",detail,루리아,あの人達のことはわからないけど……<br>でも、このお手紙、気になりませんか？,그 사람들은 잘 모르겠지만……<br>그래도、그 편지、신경쓰이지 않아요？
 Japanese,"scene_cp4_q4_s30,443",detail,비,そりゃぁ、こう書かれちゃなぁ……<br>[플레이어]も気になるだろ？,거야、이렇게 적어뒀으니 말이지……<br>[플레이어]도 신경쓰이지？
-Japanese,"scene_cp4_q4_s30,443",detail,라캄,なら決まりだな！<br>空の旅ってのは、<br>好奇心で針路を決めるもんだぜ！,그럼 결정됐군！<br>하늘 여행이란건、<br>호기심으로 진로를 결정하는거라고！
-Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>手紙の言葉に、</span><br><span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと舵を切る。</span>,<span class='scene-font-katari'>편지에 적힌 말로、</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-place'>발츠 공국</span><span class='scene-font-katari'>으로 키를 돌린다.</span>
-Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>そこでは、</span><br><span class='scene-font-katari'>空と星にまつわる更なる事件が、</span><br><span class='scene-font-katari'>[플레이어]を待ち受けるのだった。</span>,<span class='scene-font-katari'>거기엔、</span><br><span class='scene-font-katari'>한층 더 하늘과 별에 얽힌  사건이、</span><br><span class='scene-font-katari'>[플레이어]를 기다리고 있었다.</span>
+Japanese,"scene_cp4_q4_s30,443",detail,라캄,なら決まりだな！<br>空の旅ってのは、<br>好奇心で針路を決めるもんだぜ！,그럼 결정됐군！<br>하늘 여행이란 건、<br>호기심으로 진로를 결정하는 거라고！
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>手紙の言葉に、</span><br><span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>へと舵を切る。</span>,<span class='scene-font-katari'>편지에 적힌 말을 따라、</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-place'>발츠 공국</span><span class='scene-font-katari'>으로 키를 돌린다.</span>
+Japanese,"scene_cp4_q4_s30,443",detail,,<span class='scene-font-katari'>そこでは、</span><br><span class='scene-font-katari'>空と星にまつわる更なる事件が、</span><br><span class='scene-font-katari'>[플레이어]を待ち受けるのだった。</span>,<span class='scene-font-katari'>거기엔、</span><br><span class='scene-font-katari'>한층 더 깊이<br>하늘과 별에 얽힌  사건이、</span><br><span class='scene-font-katari'>[플레이어]를 기다리고 있었다.</span>
 Japanese,"scene_cp4_q4_s30,443",detail,스츠룸,――以上が……今回の顛末です。<br>手紙は指示どおりに、<br>よろず屋に託してまいりました。,――이상이……이번 일의 전말입니다.<br>편지는 지시대로、<br>만물상에게 부탁해두었습니다.
 Japanese,"scene_cp4_q4_s30,443",detail,？？？,ご苦労……<br>ドランク、それでフュリアスの容体は？,수고했다……<br>드랑크、그래서 퓨리어스의 모습은？
 Japanese,"scene_cp4_q4_s30,443",detail,드랑크,問題ないみたいですねぇ～<br>いやぁ、魔晶ってすごいなぁ～！,문제 없는 것 같네요～<br>이야、마정은 대단해～！
 Japanese,"scene_cp4_q4_s30,443",detail,？？？,当然だ……<br>無論、代償は伴うがな……,당연하지……<br>물론、대가는 따르지만……
-Japanese,"scene_cp4_q4_s30,443",detail,？？？,全ては順調に進んでいる。<br>計画が動き出した以上……<br>あとは時間の問題だ。,모든 것이 순조롭게 진행되고있군.<br>계획이 실행된 이상……<br>남은 것은 시간 문제다.
-Japanese,"scene_cp4_q4_s30,443",detail,？？？,必ず……必ず取り返してみせる。<br>もうしばらくの辛抱だ……<br>待っていてくれ、オルキス……,반드시……반드시 되찾아내겠어.<br>조금만 더 참으면된다……<br>기다려줘、오르키스……
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,全ては順調に進んでいる。<br>計画が動き出した以上……<br>あとは時間の問題だ。,모든 것이 순조롭게 진행되고있군.<br>계획이 실행된 이상……<br>이제 시간 문제다.
+Japanese,"scene_cp4_q4_s30,443",detail,？？？,必ず……必ず取り返してみせる。<br>もうしばらくの辛抱だ……<br>待っていてくれ、オルキス……,반드시……반드시 되찾아내겠어.<br>조금만 더 참으면 된다……<br>기다려줘、오르키스……
 Japanese,"scene_cp4_q4_s30,443",detail,？？？,…………,…………
 
-English,"scene_cp4_q1_s10,411",synopsis,,"Using her power to sense primal beasts, Lyria guides [플레이어] and the others toward Tiamat."
-English,"scene_cp4_q1_s10,411",detail,,"[플레이어] and the others march on, trusting in Lyria's ability to sense primal beasts and the power of the stars."
-English,"scene_cp4_q1_s10,411",detail,Lyria,We're close... It's getting stronger and stronger.
-English,"scene_cp4_q1_s10,411",detail,Rackam,"We're counting on you, little miss. I'll do whatever it takes to keep you safe!"
-English,"scene_cp4_q1_s10,411",detail,Katalina,"Trying to seize my job, are we?"
-English,"scene_cp4_q1_s10,411",detail,Vyrn,Hey! [플레이어] can put up a good defense too! Don't let these puny arms fool ya!
-English,"scene_cp4_q1_s10,411",sel1_txt,,"Well, that's rude!"
-English,"scene_cp4_q1_s10,411",sel2_txt,,I'll do what I can...
-English,"scene_cp4_q1_s10,411",detail,Vyrn,Ha-ha-ha! I'm just kidding! You look like a real fighter already!
-English,"scene_cp4_q1_s10,411",detail,Rackam,"Don't get all timid now, [플레이어]! You've got the makings of a real leader."
-English,"scene_cp4_q1_s10,411",detail,Rackam,"Your eyes have a spark to them! When you're the captain of a real crew, everyone's going to look up to you."
-English,"scene_cp4_q1_s10,411",detail,Monster,Groaaar!
-English,"scene_cp4_q1_s10,411",detail,Katalina,"Looks like we've got monsters though. Time to focus, everyone!"
-English,"scene_cp4_q1_s20,412",synopsis,,"As [플레이어] and the others march through the storm, imperial soldiers block their path once more."
-English,"scene_cp4_q1_s20,412",detail,Rackam,Tch! Looks like the empire hasn't given up on getting in our way.
-English,"scene_cp4_q1_s20,412",detail,Vyrn,"Just when we defeat the monsters, a group of imperial soldiers decides to show up!"
-English,"scene_cp4_q1_s20,412",detail,Vyrn,Either they don't know when to quit... or they <span class='scene-font-italic'>really</span> love their job.
-English,"scene_cp4_q1_s20,412",detail,Katalina,"For soldiers of the Erste Empire, a superior officer's orders are absolute."
-English,"scene_cp4_q1_s20,412",detail,Katalina,I hold no grudge against you soldiers! But we won't back down and we won't go easy on you!
-English,"scene_cp4_q2_s10,421",synopsis,,"As thanks for sparing them, Drang and Sturm offer [플레이어] and the others a chance to escape the island. But the help is refused as [플레이어] and the others are determined to stay and protect Port Breeze."
-English,"scene_cp4_q2_s10,421",detail,Drang,Yoo-hoo! Long time no see!
-English,"scene_cp4_q2_s10,421",detail,Katalina,What are you doing here? Are you seriously planning to attack us again?
-English,"scene_cp4_q2_s10,421",detail,Sturm,No. Don't get the wrong idea.
-English,"scene_cp4_q2_s10,421",detail,Drang,"Indubitably! You guys saved our lives, right? We'd simply like to return the favor."
-English,"scene_cp4_q2_s10,421",detail,Lyria,"We weren't expecting to get anything in return when we helped you out... Right, [플레이어]?"
-English,"scene_cp4_q2_s10,421",detail,Drang,Right-o! You're a real sweetheart! So sweet that you deserve this candy-
-English,"scene_cp4_q2_s10,421",detail,Drang,Ow! Sturm!
-English,"scene_cp4_q2_s10,421",detail,Sturm,Follow us. This time we'll be the ones saving your lives.
-English,"scene_cp4_q2_s10,421",detail,Rackam,What are you talking about?
-English,"scene_cp4_q2_s10,421",detail,Drang,"Well... You <span class='scene-font-italic'>do</span> understand how much danger you're about to put yourselves in, don't you?"
-English,"scene_cp4_q2_s10,421",detail,Katalina,We understand full well that the odds are stacked against us.
-English,"scene_cp4_q2_s10,421",detail,Sturm,Obviously you don't. You must be out of your minds.
-English,"scene_cp4_q2_s10,421",detail,Drang,"You can say that again! But we owe you guys, you know."
-English,"scene_cp4_q2_s10,421",detail,Drang,So I was thinking we could let you escape by stowing away on an imperial battleship.
-English,"scene_cp4_q2_s10,421",detail,Vyrn,That's what you mean by returning the favor?
-English,"scene_cp4_q2_s10,421",detail,Rackam,"I appreciate the offer, but we're not running. Isn't that right, [플레이어]?"
-English,"scene_cp4_q2_s10,421",detail,Rackam,We've got more things to protect now. Not just the Grandcypher... but the townspeople and this island.
-English,"scene_cp4_q2_s10,421",detail,Rackam,I don't want to lose any of them. So I'm not running away.
-English,"scene_cp4_q2_s10,421",detail,Katalina,Agreed. I refuse to sit back and watch while innocents suffer.
-English,"scene_cp4_q2_s10,421",detail,Lyria,We have the power to do something about it... so we have to try!
-English,"scene_cp4_q2_s10,421",detail,Sturm,You're all fools.
-English,"scene_cp4_q2_s10,421",detail,Drang,"Oh, don't be like that, Sturm! You like this sort of thing deep down, righ—"
-English,"scene_cp4_q2_s10,421",detail,Drang,"Ow! Owwie, ow, ow!"
-English,"scene_cp4_q2_s10,421",detail,Sturm,"Silence! If you don't shut your mouth, I'll seal it shut myself!"
-English,"scene_cp4_q2_s10,421",detail,Katalina,"Well, that being what it is, we're going on ahead."
-English,"scene_cp4_q2_s10,421",detail,Sturm,Humph!
-English,"scene_cp4_q2_s10,421",detail,Drang,Okie-dokie! We're getting out of here. So good luck!
-English,"scene_cp4_q2_s10,421",detail,Katalina,What an obnoxious pair...
-English,"scene_cp4_q2_s10,421",detail,Rackam,"Yeah. I'm kinda worn out, but this is where things get serious. Let's go!"
-English,"scene_cp4_q2_s20,422",synopsis,,Lyria notices that the storm has made the monsters more frenzied than usual.
-English,"scene_cp4_q2_s20,422",detail,Lyria,"Maybe it's because of the storm, but the monsters are scarier than usual."
-English,"scene_cp4_q2_s20,422",detail,Katalina,This storm is caused by a primal beast. It may have as much force as the Grim Basin itself.
-English,"scene_cp4_q2_s20,422",detail,Vyrn,The folks back in town could be in danger too! We've gotta hurry this up!
-English,"scene_cp4_q2_s20,422",detail,Rackam,Trust me—I know we're pressed for time. Let's tear up these monsters and get going!
-English,"scene_cp4_q3_s10,431",synopsis,,"[플레이어] and the others arrive back at the Grandcypher, where Tiamat's presence is strongest. General Furias is there waiting."
-English,"scene_cp4_q3_s10,431",detail,Lyria,It's here.<br>This is where Tiamat's presence is the strongest...
-English,"scene_cp4_q3_s10,431",detail,Rackam,Here's where... Hang on! Are you serious?
-English,"scene_cp4_q3_s10,431",detail,,Lyria uses her powers to lead the group to the grasslands where the Grandcypher rests.
-English,"scene_cp4_q3_s10,431",detail,Vyrn,Hm... But the Grandcypher's the only thing around here.
-English,"scene_cp4_q3_s10,431",detail,Furias,Now look who's here... Don't tell me you've come to stop Tiamat!
-English,"scene_cp4_q3_s10,431",detail,Rackam,It's that imperial brat! What're you doing here?
-English,"scene_cp4_q3_s10,431",detail,Furias,I don't see how that matters. You still intend to resist us?
-English,"scene_cp4_q3_s10,431",detail,Katalina,Of course. We have no choice but to intervene.
-English,"scene_cp4_q3_s10,431",detail,Furias,Hm... Then you have no one to blame but yourselves for what happens next!
-English,"scene_cp4_q3_s10,431",detail,Vyrn,What're you talkin' about? You're the ones who set off Tiamat!
-English,"scene_cp4_q3_s10,431",detail,Furias,That much is true... But all I did was pull the trigger. The gun was already loaded...
-English,"scene_cp4_q3_s10,431",detail,Katalina,What are you trying to say?
-English,"scene_cp4_q3_s10,431",detail,Furias,Tiamat was already at wits' end.
-English,"scene_cp4_q3_s10,431",detail,Furias,For ages the people of this archipelago have reaped the bounty of these winds.
-English,"scene_cp4_q3_s10,431",detail,Furias,But that bounty came with a price.
-English,"scene_cp4_q3_s10,431",detail,Furias,"As that price continued to go unpaid, Tiamat slowly inched closer to the edge..."
-English,"scene_cp4_q3_s10,431",detail,Lyria,And then the empire arrived...
-English,"scene_cp4_q3_s10,431",detail,Furias,"In a nutshell, yes. I'm just about to escape on one of our battleships..."
-English,"scene_cp4_q3_s10,431",detail,Furias,But if you claim you want to stop Tiamat...
-English,"scene_cp4_q3_s10,431",detail,Furias,Ouch!
-English,"scene_cp4_q3_s10,431",detail,Rackam,Cut to the chase already!
-English,"scene_cp4_q3_s10,431",detail,Rackam,I've already made up my mind. I'll protect this island... and the people who live here!
-English,"scene_cp4_q3_s10,431",detail,Rackam,"There's no turning back! Stand in our way, and we'll blast right through you!"
-English,"scene_cp4_q3_s20,432",synopsis,,"With no sign of the primal beast in the area, Lyria realizes that Tiamat may be in the sky above them."
-English,"scene_cp4_q3_s20,432",detail,Katalina,That should take care of most of the soldiers surrounding the Grandcypher.
-English,"scene_cp4_q3_s20,432",detail,Vyrn,We've been all over the place and there's still no sign of Tiamat though!
-English,"scene_cp4_q3_s20,432",detail,Lyria,"Well, I was thinking...<br>And this is just an idea, but..."
-English,"scene_cp4_q3_s20,432",detail,Vyrn,"Hm? What is it, Lyria?"
-English,"scene_cp4_q3_s20,432",detail,Lyria,Isn't it possible that Tiamat is above us?
-English,"scene_cp4_q3_s20,432",detail,Rackam,You mean...
-English,"scene_cp4_q3_s20,432",detail,,...
-English,"scene_cp4_q3_s20,432",detail,Rackam,In the sky?
-English,"scene_cp4_q3_s20,432",detail,Katalina,Let's take a look... after we deal with the rest of these imperial soldiers!
-English,"scene_cp4_q4_s10,441",synopsis,,"Rackam has [플레이어] and the others board the Grandcypher. After he takes the helm, the airship begins to fly."
-English,"scene_cp4_q4_s10,441",detail,Lyria,Hm... I just know it. Tiamat's above us in the sky.
-English,"scene_cp4_q4_s10,441",detail,Katalina,The sky... I can't believe we've come this far just to hit a dead end.
-English,"scene_cp4_q4_s10,441",detail,Rackam,"No, there's still a way. Everyone, board the Grandcypher!"
-English,"scene_cp4_q4_s10,441",detail,Vyrn,"Okay, we're on the airship. But can it fly?"
-English,"scene_cp4_q4_s10,441",detail,Vyrn,"After all, you were just saying earlier..."
-English,"scene_cp4_q4_s10,441",detail,Rackam,Yeah. This is the airship I crashed...
-English,"scene_cp4_q4_s10,441",detail,Rackam,"I was afraid of the sky for a long, long time. But the Grandcypher was waiting for me all along..."
-English,"scene_cp4_q4_s10,441",detail,Rackam,I can feel it. This airship'll go the distance for us!
-English,"scene_cp4_q4_s10,441",detail,,Rackam grips the helm tightly.
-English,"scene_cp4_q4_s10,441",detail,Rackam,"Sorry to keep you waiting, but I'm back now... And I'm following your lead into the sky!"
-English,"scene_cp4_q4_s10,441",detail,Katalina,We're moving!
-English,"scene_cp4_q4_s10,441",detail,Lyria,He did it! Rackam got through to the airship!
-English,"scene_cp4_q4_s10,441",detail,Vyrn,Sure seems like it! Now to set a direct course to Tiamat!
-English,"scene_cp4_q4_s10,441",detail,Rackam,"Here we come, Tiamat! We'll show you what the people of Port Breeze can do!"
-English,"scene_cp4_q4_s20,442",synopsis,,[플레이어] and the others steel themselves for a showdown against the primal beast Tiamat.
-English,"scene_cp4_q4_s20,442",detail,Tiamat,Gragh... Raghhh!
-English,"scene_cp4_q4_s20,442",detail,Katalina,So this is Tiamat...
-English,"scene_cp4_q4_s20,442",detail,Lyria,Oh no... She's practically lost her senses! I can't believe she was pushed this far.
-English,"scene_cp4_q4_s20,442",detail,Lyria,At this rate... my power won't be enough.
-English,"scene_cp4_q4_s20,442",detail,Vyrn,Huh? Then what are we supposed to do?
-English,"scene_cp4_q4_s20,442",detail,Rackam,Don't you worry. We just need to calm Tiamat down a bit. Right?
-English,"scene_cp4_q4_s20,442",detail,Lyria,Yes. I'm sure I can do something after that.
-English,"scene_cp4_q4_s20,442",detail,Rackam,"In that case, it's our turn to act."
-English,"scene_cp4_q4_s20,442",detail,Katalina,"What in the world are you planning, Rackam? It's too dangerous! Don't go anywhere near Tiamat!"
-English,"scene_cp4_q4_s20,442",detail,Lyria,"Wait, Katalina! Let's let Rackam handle this!"
-English,"scene_cp4_q4_s20,442",detail,Rackam,"Hey, Tiamat. We heard all about it. The reason you went on a rampage, that is."
-English,"scene_cp4_q4_s20,442",detail,Rackam,Heard you're the one responsible for blessing Port Breeze with these winds...
-English,"scene_cp4_q4_s20,442",detail,Tiamat,My... winds...
-English,"scene_cp4_q4_s20,442",detail,Rackam,I've gotta apologize. I always thought you were a myth. Never gave you the thanks you deserve.
-English,"scene_cp4_q4_s20,442",detail,Rackam,That being said... there are some things we just can't give up.
-English,"scene_cp4_q4_s20,442",detail,Rackam,There are things I want to protect... That I have to protect. So I'm not backing down anymore.
-English,"scene_cp4_q4_s20,442",detail,Rackam,"I'm not gonna run, and I'm not gonna hide. Neither of us can afford to compromise, can we?"
-English,"scene_cp4_q4_s20,442",detail,Tiamat,...
-English,"scene_cp4_q4_s20,442",detail,Rackam,So we're gonna have to butt heads... with everything we've got!
-English,"scene_cp4_q4_s20,442",detail,Rackam,Let's do this fair and square! Whether you're a god or a primal beast or whatever! No holding back!
-English,"scene_cp4_q4_s20,442",detail,Tiamat,Gragh... Raghhh!
-English,"scene_cp4_q4_s30,443",synopsis,,"After Tiamat is defeated, Rackam decides to become the helmsman for [플레이어] and the others. Sierokarte gives the newly formed crew a letter that says to go to the Valtz Duchy."
-English,"scene_cp4_q4_s30,443",detail,Rackam,Whew!<br>Not bad. Not bad at all...
-English,"scene_cp4_q4_s30,443",detail,Lyria,Everything's going to be all right. I absorbed Tiamat's overflowing energy.
-English,"scene_cp4_q4_s30,443",detail,Lyria,She should return to her senses now.
-English,"scene_cp4_q4_s30,443",detail,Katalina,"Lyria, what's that in your hand?"
-English,"scene_cp4_q4_s30,443",detail,Lyria,Huh? Where did this come from?
-English,"scene_cp4_q4_s30,443",detail,Vyrn,That's a piece of the sky map!
-English,"scene_cp4_q4_s30,443",detail,Vyrn,"It's just like the one your dad had, [플레이어]!"
-English,"scene_cp4_q4_s30,443",detail,Katalina,So this is a sky map piece? With this we can keep Lyria out of the empire's grasp...
-English,"scene_cp4_q4_s30,443",detail,Rackam,Hey! The sky's cleared up!
-English,"scene_cp4_q4_s30,443",detail,,"The sun shines through the gaps in the clouds, illuminating the Grandcypher as if heaven itself has given its blessing."
-English,"scene_cp4_q4_s30,443",detail,Katalina,"Whew. Nice work, [플레이어]. I'd say we've earned ourselves a break."
-English,"scene_cp4_q4_s30,443",detail,Rackam,So where do you guys wanna go?
-English,"scene_cp4_q4_s30,443",detail,Vyrn,Oh? Does this mean you'll take us with you?
-English,"scene_cp4_q4_s30,443",detail,Rackam,"Sure, why not? No place better than the skies, I figure."
-English,"scene_cp4_q4_s30,443",detail,Rackam,"And with you guys around, something tells me I won't part with the skies again."
-English,"scene_cp4_q4_s30,443",detail,Rackam,"Besides, the Grandcypher seems to have taken a liking to you, [플레이어]."
-English,"scene_cp4_q4_s30,443",detail,Rackam,Leave it to me and I'll take you anywhere you wanna go! Even the end of the sky!
-English,"scene_cp4_q4_s30,443",detail,,"With a helmsman having joined them, [플레이어] and a newly formed crew set a course for the farthest reaches of the sky."
-English,"scene_cp4_q4_s30,443",detail,,"While flying over the town, [플레이어] spots a tiny figure waving from the ground."
-English,"scene_cp4_q4_s30,443",detail,Vyrn,"Hm? Well, if it isn't Sierokarte!"
-English,"scene_cp4_q4_s30,443",detail,Rackam,Siero? What's she got in her hand?
-English,"scene_cp4_q4_s30,443",detail,Katalina,She may need something from us. Let's go down and hear what she has to say.
-English,"scene_cp4_q4_s30,443",detail,Sierokarte,Oh goodness! You've been an enormous help to everyone!
-English,"scene_cp4_q4_s30,443",detail,Katalina,"Well, we couldn't exactly turn a blind eye to the empire's injustice."
-English,"scene_cp4_q4_s30,443",detail,Katalina,"Anyway, we saw you waving at us. Did you need something?"
-English,"scene_cp4_q4_s30,443",detail,Sierokarte,"Oh, that's right! I received a letter addressed to [플레이어], you see!"
-English,"scene_cp4_q4_s30,443",detail,Lyria,"A letter? Is it from your hometown, [플레이어]?"
-English,"scene_cp4_q4_s30,443",detail,Sierokarte,Nope! A somewhat suspicious duo delivered it by hand.
-English,"scene_cp4_q4_s30,443",detail,Sierokarte,They said they absolutely had to return a favor...
-English,"scene_cp4_q4_s30,443",detail,Rackam,Return a favor? Then I bet it's from those two.
-English,"scene_cp4_q4_s30,443",detail,Vyrn,Who knows? Let's open it and find out!
-English,"scene_cp4_q4_s30,443",detail,,The letter couldn't be shorter.
-English,"scene_cp4_q4_s30,443",detail,Rackam,"Go to the Valtz Duchy, it says...<br>What's this about?"
-English,"scene_cp4_q4_s30,443",detail,Katalina,The Valtz Duchy? It's a nearby Draph island known for its booming steel industry.
-English,"scene_cp4_q4_s30,443",detail,Vyrn,"If they're trying to return a favor, I guess that means there's something good waiting for us over there."
-English,"scene_cp4_q4_s30,443",detail,Vyrn,Should we go to Valtz then?
-English,"scene_cp4_q4_s30,443",detail,Katalina,I don't know. Can we really afford to trust those two?
-English,"scene_cp4_q4_s30,443",detail,Lyria,"They do seem a little suspicious, but doesn't the letter make you curious?"
-English,"scene_cp4_q4_s30,443",detail,Vyrn,"Well yeah! This message is cryptic. You're curious too, right, [플레이어]?"
-English,"scene_cp4_q4_s30,443",detail,Rackam,Then it's decided! We'll let our curiosity guide us through the sky!
-English,"scene_cp4_q4_s30,443",detail,,"Having settled on the next destination, [플레이어] and the crew set off for the Valtz Duchy."
-English,"scene_cp4_q4_s30,443",detail,,Another tale of the sky and stars waits for [플레이어] there...
-English,"scene_cp4_q4_s30,443",detail,Sturm,"And that's all. We entrusted the letter to the Knickknack Shack, as per your instructions."
-English,"scene_cp4_q4_s30,443",detail,???,Good work.<br>Now Drang... How does Furias seem to be faring?
-English,"scene_cp4_q4_s30,443",detail,Drang,"No problems that I've seen! My, dark essence certainly is something to behold, isn't it?"
-English,"scene_cp4_q4_s30,443",detail,???,"Naturally. Its use comes at a cost, however..."
-English,"scene_cp4_q4_s30,443",detail,???,Everything is going according to plan. It's only a matter of time now.
-English,"scene_cp4_q4_s30,443",detail,???,"I'll get you back no matter what. Just hold on a little longer for me, Orchis..."
-English,"scene_cp4_q4_s30,443",detail,???,...
+English,"scene_cp4_q1_s10,411",synopsis,,"Using her power to sense primal beasts, Lyria guides [플레이어] and the others toward Tiamat.",루리아의 힘에 의해 성정수 티아마트를 원래대로 되돌려 놓고、<span class='scene-font-place'>포트 브리즈</span>를 덮친 폭풍을 멈추겠다고 결의한 <span>[플레이어]</span> 일행. 루리아가 느낀다는 성정수의 숨결에 의지하여、티아마트의 곁으로 향한다.
+English,"scene_cp4_q1_s10,411",detail,,"[플레이어] and the others march on, trusting in Lyria's ability to sense primal beasts and the power of the stars.",<span class='scene-font-katari'>루리아가 느끼는、</span><br><span class='scene-font-katari'>별의 힘과 성정수의 숨결에 의지하여、</span><br><span class='scene-font-katari'>[플레이어] 일행은 폭풍 속으로 나아간다.</span>
+English,"scene_cp4_q1_s10,411",detail,Lyria,We're close... It's getting stronger and stronger.,가까워요……점점 강해지고 있어요.
+English,"scene_cp4_q1_s10,411",detail,Rackam,"We're counting on you, little miss. I'll do whatever it takes to keep you safe!",힘내라고、아가씨……<br>아가씨는、<br>내가 목숨을 걸고서라도 지켜줄 테니까！
+English,"scene_cp4_q1_s10,411",detail,Katalina,"Trying to seize my job, are we?",후훗、그건 내 역할이라고？
+English,"scene_cp4_q1_s10,411",detail,Vyrn,Hey! [플레이어] can put up a good defense too! Don't let these puny arms fool ya!,어이어이！<br>[플레이어]를 잊어버리면 곤란하지！<br>의외로 의지가 되니까 말야！
+English,"scene_cp4_q1_s10,411",sel1_txt,,"Well, that's rude!",<span class='scene-font-katari'>의외는 빼자</span>
+English,"scene_cp4_q1_s10,411",sel2_txt,,I'll do what I can...,<span class='scene-font-katari'>최、최선을 다하겠습니다……</span>
+English,"scene_cp4_q1_s10,411",detail,Vyrn,Ha-ha-ha! I'm just kidding! You look like a real fighter already!,냐하하핫！ 미안미안！<br>이젠 완전히、<br>믿음직한 전사같이 됐지！
+English,"scene_cp4_q1_s10,411",detail,Rackam,"Don't get all timid now, [플레이어]! You've got the makings of a real leader.",어이어이、그렇게 쫄지 말라고.<br>[플레이어]는 좋은 눈빛을 하고 있어……
+English,"scene_cp4_q1_s10,411",detail,Rackam,"Your eyes have a spark to them! When you're the captain of a real crew, everyone's going to look up to you.",[플레이어]는 리더의 소질이 있어.<br>기공단 같은 걸 만들면、<br>분명 듬직한 단장이 될 거야.
+English,"scene_cp4_q1_s10,411",detail,Monster,Groaaar!,그오오오！
+English,"scene_cp4_q1_s10,411",detail,Katalina,"Looks like we've got monsters though. Time to focus, everyone!",어이쿠、마물이 나타났군.<br>모두、정신 차리고 가자고！
+English,"scene_cp4_q1_s20,412",synopsis,,"As [플레이어] and the others march through the storm, imperial soldiers block their path once more.",폭풍 속을 나아가는 <span>[플레이어]</span> 일행의 앞을 다시 제국병이 가로막는다.
+English,"scene_cp4_q1_s20,412",detail,Rackam,Tch! Looks like the empire hasn't given up on getting in our way.,쳇……<br>제국 녀석들도<br>아직 우리들을 방해할 생각인 것 같군.
+English,"scene_cp4_q1_s20,412",detail,Vyrn,"Just when we defeat the monsters, a group of imperial soldiers decides to show up!",마물을 쓰러트리니、<br>이번엔 제국 병사냐……！
+English,"scene_cp4_q1_s20,412",detail,Vyrn,Either they don't know when to quit... or they <span class='scene-font-italic'>really</span> love their job.,끈질기달까……<br>참 열심히 일한달까……
+English,"scene_cp4_q1_s20,412",detail,Katalina,"For soldiers of the Erste Empire, a superior officer's orders are absolute.",<span class='scene-font-place'>에르스테 제국</span>에선、<br>상관의 명령이 절대적이니 말이지.
+English,"scene_cp4_q1_s20,412",detail,Katalina,I hold no grudge against you soldiers! But we won't back down and we won't go easy on you!,제국의 병사들이여……<br>사적인 원한은 없지만、우리들도 물러설 수 없다.<br>봐줄 거라고 생각하지 마라……！
+English,"scene_cp4_q2_s10,421",synopsis,,"As thanks for sparing them, Drang and Sturm offer [플레이어] and the others a chance to escape the island. But the help is refused as [플레이어] and the others are determined to stay and protect Port Breeze.",<span>[플레이어]</span> 일행의 앞에 다시 모습을 드러낸 드랑크와 스츠룸. 두사람은 목숨을 구해준 보답으로 <span>[플레이어]</span> 일행만이라면 폭풍 밖으로 도망칠 수 있도록 도와주겠다고 말하지만、<span class='scene-font-place'>포트 브리즈</span>를 지킬 각오를 다진 라캄은 그 제안을 거절한다.
+English,"scene_cp4_q2_s10,421",detail,Drang,Yoo-hoo! Long time no see!,<span class='scene-font-4'>――이얏호～！ 올만～！</span>
+English,"scene_cp4_q2_s10,421",detail,Katalina,What are you doing here? Are you seriously planning to attack us again?,네 녀석은……！<br>왜 여기에 있나？<br>설마、또 우리들을 노리고……！？
+English,"scene_cp4_q2_s10,421",detail,Sturm,No. Don't get the wrong idea.,아니야……착각하지 마라.
+English,"scene_cp4_q2_s10,421",detail,Drang,"Indubitably! You guys saved our lives, right? We'd simply like to return the favor.",그래그래～<br>우리들 말야、너희한테 목숨을 빚졌잖아？<br>그래서、보답을 해주려고 말야～
+English,"scene_cp4_q2_s10,421",detail,Lyria,"We weren't expecting to get anything in return when we helped you out... Right, [플레이어]?",그럴 필요는……그때는 그、<br>딱히 은혜를 베풀려던 게 아니라、그……<br>그렇죠？ [플레이어]
+English,"scene_cp4_q2_s10,421",detail,Drang,Right-o! You're a real sweetheart! So sweet that you deserve this candy-,음～！ 아가씨는 상냥하네！<br>상냥한 아이에게는 사탕을……
+English,"scene_cp4_q2_s10,421",detail,Drang,Ow! Sturm!,<span class='scene-font-4'>아파앗！？</span><br>스츠룸 나리！ 왜 짜르는 거야！？
+English,"scene_cp4_q2_s10,421",detail,Sturm,Follow us. This time we'll be the ones saving your lives.,와라……이번엔 우리들이、<br>너희들의 목숨을 구해주지.
+English,"scene_cp4_q2_s10,421",detail,Rackam,What are you talking about?,무슨 뜻이지……？
+English,"scene_cp4_q2_s10,421",detail,Drang,"Well... You <span class='scene-font-italic'>do</span> understand how much danger you're about to put yourselves in, don't you?",아니 글쎄？<br>너희들이 하려고 하는 일 말야、<br>얼마나 위험한 일인지 알아?
+English,"scene_cp4_q2_s10,421",detail,Katalina,We understand full well that the odds are stacked against us.,위험성이나、승산이 크지 않다는 점은<br>이해하고 있다……
+English,"scene_cp4_q2_s10,421",detail,Sturm,Obviously you don't. You must be out of your minds.,이해할 수 없어……<br>아무리 봐도 제정신이라고는 생각 못하겠어.
+English,"scene_cp4_q2_s10,421",detail,Drang,"You can say that again! But we owe you guys, you know.",그래그래、<br>그래도 우리한테는 갚아야 할 빚이 있으니까.
+English,"scene_cp4_q2_s10,421",detail,Drang,So I was thinking we could let you escape by stowing away on an imperial battleship.,너희들만이라도、<br>제국의 전함에 밀항시켜서、<br>도망치게 해줄까나、하고 생각했지.
+English,"scene_cp4_q2_s10,421",detail,Vyrn,That's what you mean by returning the favor?,보답을 하겠다는 게、그런 말이었나……
+English,"scene_cp4_q2_s10,421",detail,Rackam,"I appreciate the offer, but we're not running. Isn't that right, [플레이어]?",그렇게 말해준 건 고맙지만……<br>우리들은 이제 도망치지 않아、<br>그렇지？ [플레이어]도 그렇잖아？
+English,"scene_cp4_q2_s10,421",detail,Rackam,We've got more things to protect now. Not just the Grandcypher... but the townspeople and this island.,지켜야 할 것이 늘어버려서 말야.<br>그랑사이퍼뿐만이 아냐……<br>마을 녀석들도……이 섬도……
+English,"scene_cp4_q2_s10,421",detail,Rackam,I don't want to lose any of them. So I'm not running away.,무엇 하나 잃고 싶지 않아.<br>그러니……나는 더는 도망치지 않아.
+English,"scene_cp4_q2_s10,421",detail,Katalina,Agreed. I refuse to sit back and watch while innocents suffer.,동의하지……<br>도리에 맞지 않는 일이 일어나려는데、<br>그저 바라보고만 있는 것은、성에 맞지 않는다.
+English,"scene_cp4_q2_s10,421",detail,Lyria,We have the power to do something about it... so we have to try!,저희들은 할 수 있는 일이 있으니까……<br>그러니까……힘내야 해요！
+English,"scene_cp4_q2_s10,421",detail,Sturm,You're all fools.,……바보들뿐이군.
+English,"scene_cp4_q2_s10,421",detail,Drang,"Oh, don't be like that, Sturm! You like this sort of thing deep down, righ—",그런식으로 말해도～！<br>스츠룸 나리도 싫지는 않잖아？<br>이런 녀석ㄷ……
+English,"scene_cp4_q2_s10,421",detail,Drang,"Ow! Owwie, ow, ow!",<span class='scene-font-4'>아파앗！ 아프다고！</span>
+English,"scene_cp4_q2_s10,421",detail,Sturm,"Silence! If you don't shut your mouth, I'll seal it shut myself!",다、닥쳐！<br>닥치지 않으면、그 입을 꿰매 버린다！
+English,"scene_cp4_q2_s10,421",detail,Katalina,"Well, that being what it is, we're going on ahead.",여튼 그렇게 되었으니……<br>우리들은 계속 가겠다.
+English,"scene_cp4_q2_s10,421",detail,Sturm,Humph!,흐음……
+English,"scene_cp4_q2_s10,421",detail,Drang,Okie-dokie! We're getting out of here. So good luck!,응응、<br>그럼、우리들은 도망갈 테지만、<br>힘내～！
+English,"scene_cp4_q2_s10,421",detail,Katalina,What an obnoxious pair...,소란스러운 녀석들이었군……
+English,"scene_cp4_q2_s10,421",detail,Rackam,"Yeah. I'm kinda worn out, but this is where things get serious. Let's go!",그래、<br>쬐끔 힘이 빠져버렸지만、<br>이제부터 시작이다……가자！
+English,"scene_cp4_q2_s20,422",synopsis,,Lyria notices that the storm has made the monsters more frenzied than usual.,성정수 티아마트가 일으킨 폭풍 탓에 마물들이 더욱 광폭화 되었다는 것을 루리아가 깨닫는다. 지금까지 이상으로 조심하며、<span>[플레이어]</span> 일행은 앞으로 나아간다.
+English,"scene_cp4_q2_s20,422",detail,Lyria,"Maybe it's because of the storm, but the monsters are scarier than usual.",폭풍 때문인지……<br>마물들이、평소보다 무서워……
+English,"scene_cp4_q2_s20,422",detail,Katalina,This storm is caused by a primal beast. It may have as much force as the Grim Basin itself.,성정수가 일으킨 폭풍이다……<br>장류역에 가까운 힘을、<br>가지고 있는 걸지도 모르겠군.
+English,"scene_cp4_q2_s20,422",detail,Vyrn,The folks back in town could be in danger too! We've gotta hurry this up!,마을에 있는 녀석들도 위험할지도 모르겠네！<br>서두르자고！
+English,"scene_cp4_q2_s20,422",detail,Rackam,Trust me—I know we're pressed for time. Let's tear up these monsters and get going!,그래、시간이 없는 건、알고있다.<br>마물들 따위、제깍제깍 날려버리자고！
+English,"scene_cp4_q3_s10,431",synopsis,,"[플레이어] and the others arrive back at the Grandcypher, where Tiamat's presence is strongest. General Furias is there waiting.",티아마트의 기운이 가장 강하다는 장소에 도착한 <span>[플레이어]</span> 일행. 하지만、그곳에는 폭풍의 대성정수의 모습은 없었고、일행을 기다리고 있던 퓨리어스에 의해、티아마트 폭주의 원인을 알게 되는 것이었다.
+English,"scene_cp4_q3_s10,431",detail,Lyria,It's here.<br>This is where Tiamat's presence is the strongest...,――여기、여기가 가장、<br>티아마트의 기운이 강해요……
+English,"scene_cp4_q3_s10,431",detail,Rackam,Here's where... Hang on! Are you serious?,여기라니……<br>어이어이、진짜야？
+English,"scene_cp4_q3_s10,431",detail,,Lyria uses her powers to lead the group to the grasslands where the Grandcypher rests.,<span class='scene-font-katari'>루리아의 안내를 따라 도착한 곳은、</span><br><span class='scene-font-katari'>기공정 그랑사이퍼가</span><br><span class='scene-font-katari'>자리잡고 있는 언덕이었다.</span>
+English,"scene_cp4_q3_s10,431",detail,Vyrn,Hm... But the Grandcypher's the only thing around here.,음～、그래도 말야、<br>여기、그랑사이퍼 이외에는、<br>아무것도……
+English,"scene_cp4_q3_s10,431",detail,Furias,Now look who's here... Don't tell me you've come to stop Tiamat!,어라라～？<br>뭐야、너희들、<br>설마 티아마트를 막으러 온 거야？
+English,"scene_cp4_q3_s10,431",detail,Rackam,It's that imperial brat! What're you doing here?,제국의……！？<br>이 자식、여기서 뭘 하고 있는 거냐！？
+English,"scene_cp4_q3_s10,431",detail,Furias,I don't see how that matters. You still intend to resist us?,뭘 하든 상관없잖아……<br>그런 것보다、<br>너희들 아직도 저항하고 있는 거야？
+English,"scene_cp4_q3_s10,431",detail,Katalina,Of course. We have no choice but to intervene.,당연하지……<br>이 상황을、<br>가만히 둘 수는 없으니까.
+English,"scene_cp4_q3_s10,431",detail,Furias,Hm... Then you have no one to blame but yourselves for what happens next!,흐응……<br>말해두겠지만、<br>이건 자업자득이라구？
+English,"scene_cp4_q3_s10,431",detail,Vyrn,What're you talkin' about? You're the ones who set off Tiamat!,자업자득이라고！？<br>너희들이 티아마트를、<br>폭주 시켰잖아！
+English,"scene_cp4_q3_s10,431",detail,Furias,That much is true... But all I did was pull the trigger. The gun was already loaded...,그렇지……그건 맞는 말이야.<br>하지만 나는 그저、방아쇠를 당긴 것뿐이야.<br>총알은 이미 장전되어 있었던 거야.
+English,"scene_cp4_q3_s10,431",detail,Katalina,What are you trying to say?,무슨 일을……<br>이 자식、뭘 말하고 싶은 거냐！？
+English,"scene_cp4_q3_s10,431",detail,Furias,Tiamat was already at wits' end.,티아마트는 이미、<br>한계였다는 거지.
+English,"scene_cp4_q3_s10,431",detail,Furias,For ages the people of this archipelago have reaped the bounty of these winds.,이 군도에 사는 녀석들은、<br>옛날부터 온화한 바람의 보은을 받고 있었어.
+English,"scene_cp4_q3_s10,431",detail,Furias,But that bounty came with a price.,하지만……<br>그건 공짜로 주어지는 게 아니었던 거지.
+English,"scene_cp4_q3_s10,431",detail,Furias,"As that price continued to go unpaid, Tiamat slowly inched closer to the edge...",그 대가는 지불되지 않았고、<br>티아마트 안에서 쌓이고 있었다……<br>훨씬 옛날부터 위험한 상태였다고.
+English,"scene_cp4_q3_s10,431",detail,Lyria,And then the empire arrived...,거기에……제국이……
+English,"scene_cp4_q3_s10,431",detail,Furias,"In a nutshell, yes. I'm just about to escape on one of our battleships...",뭐、그런 거였지.<br>나는 이제 우리 전함으로 도망칠 건데……
+English,"scene_cp4_q3_s10,431",detail,Furias,But if you claim you want to stop Tiamat...,그래도、만약 티아마트를<br>멈추겠다고 말한다면……
+English,"scene_cp4_q3_s10,431",detail,Furias,Ouch!,<span class='scene-font-4'>후갹！？</span>
+English,"scene_cp4_q3_s10,431",detail,Rackam,Cut to the chase already!,너무 길어、시끄럽다고、네놈은.
+English,"scene_cp4_q3_s10,431",detail,Rackam,I've already made up my mind. I'll protect this island... and the people who live here!,무슨 이유가 있다고 해도、<br>나는 이미 마음을 정했어……<br>이 섬을……마을 녀석들을 지키겠다고 말야！！
+English,"scene_cp4_q3_s10,431",detail,Rackam,"There's no turning back! Stand in our way, and we'll blast right through you!",번복할 수는 없어！<br>방해하겠다면、<br>조각하나 남기지 않고 쏴 주겠어！
+English,"scene_cp4_q3_s20,432",synopsis,,"With no sign of the primal beast in the area, Lyria realizes that Tiamat may be in the sky above them.",티아마트의 기운을 찾아보지만、그 모습을 찾을 수 없다. 그러던 도중、루리아는 티아마트가 지상이 아닌 하늘에 있을 것이라는 깨달음을 얻는다.
+English,"scene_cp4_q3_s20,432",detail,Katalina,That should take care of most of the soldiers surrounding the Grandcypher.,그랑사이퍼 주변의 병사는<br>이걸로 대강 정리가 된 건가？
+English,"scene_cp4_q3_s20,432",detail,Vyrn,We've been all over the place and there's still no sign of Tiamat though!,그、그래도 말야……<br>이렇게 왔다갔다 해봤는데도、<br>역시 티아마트 같은 건 없다구？
+English,"scene_cp4_q3_s20,432",detail,Lyria,"Well, I was thinking...<br>And this is just an idea, but...",저、그……저……<br>호、혹시나 해서 하는 말인데……
+English,"scene_cp4_q3_s20,432",detail,Vyrn,"Hm? What is it, Lyria?",응？ 무슨 일이야、루리아.
+English,"scene_cp4_q3_s20,432",detail,Lyria,Isn't it possible that Tiamat is above us?,혹시 티아마트는……<br>위에 있는 게 아닐까요……
+English,"scene_cp4_q3_s20,432",detail,Rackam,You mean...,위……？<br>
+English,"scene_cp4_q3_s20,432",detail,,...,――……
+English,"scene_cp4_q3_s20,432",detail,Rackam,In the sky?,설마、하늘인가！？
+English,"scene_cp4_q3_s20,432",detail,Katalina,Let's take a look... after we deal with the rest of these imperial soldiers!,확인해보자……<br>그러려면 먼저、<br>제국 병사를 쫓아 버려야겠지！！
+English,"scene_cp4_q4_s10,441",synopsis,,"Rackam has [플레이어] and the others board the Grandcypher. After he takes the helm, the airship begins to fly.",하늘 높은 곳에 자리 잡은 티아마트에게 쓸 수 있는 모든 방법을 다 써봤다고 생각하는 그 때、결국 라캄은 다시 키를 쥔다. 기공정 그랑사이퍼는 그 날개에 다시 한번 바람을 받아、<span>[플레이어]</span> 일행을 티아마트가 있는 곳으로 인도한다.
+English,"scene_cp4_q4_s10,441",detail,Lyria,Hm... I just know it. Tiamat's above us in the sky.,으응……역시、<br>하늘에 있을 거라고 생각해요、티아마트는.
+English,"scene_cp4_q4_s10,441",detail,Katalina,The sky... I can't believe we've come this far just to hit a dead end.,하늘인가……곤란하군……<br>설마 여기서、벽에 부딪힐 줄이야……
+English,"scene_cp4_q4_s10,441",detail,Rackam,"No, there's still a way. Everyone, board the Grandcypher!",아니……아직 방법이 있다고！<br>모두！ 그랑사이퍼에 타！
+English,"scene_cp4_q4_s10,441",detail,Vyrn,"Okay, we're on the airship. But can it fly?",타봤지만……<br>있잖아、라캄、<br>이 녀석、날 수 있어？
+English,"scene_cp4_q4_s10,441",detail,Vyrn,"After all, you were just saying earlier...",이 배는 전에 라캄이……
+English,"scene_cp4_q4_s10,441",detail,Rackam,Yeah. This is the airship I crashed...,그래……<br>전에 내가、추락시켰던 배다……
+English,"scene_cp4_q4_s10,441",detail,Rackam,"I was afraid of the sky for a long, long time. But the Grandcypher was waiting for me all along...",하지만 말야、<br>내가 하늘을 무서워 했을 뿐이고、<br>이 녀석은 계속 기다렸던 거야.
+English,"scene_cp4_q4_s10,441",detail,Rackam,I can feel it. This airship'll go the distance for us!,그걸 느껴……지금이라면 알아.<br>이 녀석은 날 수 있어……어디라도 말이지！
+English,"scene_cp4_q4_s10,441",detail,,Rackam grips the helm tightly.,<span class='scene-font-katari'>그렇게 말하곤、</span><br><span class='scene-font-katari'>라캄은 굳세게 키를 잡았다.</span>
+English,"scene_cp4_q4_s10,441",detail,Rackam,"Sorry to keep you waiting, but I'm back now... And I'm following your lead into the sky!",미안……기다리게 했구나.<br>내가 돌아 왔어……<br>그러니까 이끌어줘……나를、이 하늘로！！
+English,"scene_cp4_q4_s10,441",detail,Katalina,We're moving!,우、움직였어……！？
+English,"scene_cp4_q4_s10,441",detail,Lyria,He did it! Rackam got through to the airship!,와 해냈어요！<br>라캄 씨의 마음이 통했어요！
+English,"scene_cp4_q4_s10,441",detail,Vyrn,Sure seems like it! Now to set a direct course to Tiamat!,그런 것 같네！<br>이걸로 티아마트가 있는 곳까지、<br>일직선이라고！
+English,"scene_cp4_q4_s10,441",detail,Rackam,"Here we come, Tiamat! We'll show you what the people of Port Breeze can do!",자、기다려라、티아마트！！<br><span class='scene-font-place'>포트 브리즈</span> 주민의 저력을、<br>보여 주겠어！！
+English,"scene_cp4_q4_s20,442",synopsis,,[플레이어] and the others steel themselves for a showdown against the primal beast Tiamat.,결국 <span>[플레이어]</span> 일행은 대 성정수 티아마트와 대면한다. 자아를 잃을 정도로 폭주해버린 티아마트를 상대로、라캄과 <span>[플레이어]</span> 일행은 최후의 승부에 도전한다.
+English,"scene_cp4_q4_s20,442",detail,Tiamat,Gragh... Raghhh!,가……그……
+English,"scene_cp4_q4_s20,442",detail,Katalina,So this is Tiamat...,이것이……티아마트……
+English,"scene_cp4_q4_s20,442",detail,Lyria,Oh no... She's practically lost her senses! I can't believe she was pushed this far.,그런……<br>자아를 거의 잃어버렸어요……<br>여기까지 폭주가 심할 줄이야……
+English,"scene_cp4_q4_s20,442",detail,Lyria,At this rate... my power won't be enough.,이대로라면……<br>제 힘으로는、어떻게……
+English,"scene_cp4_q4_s20,442",detail,Vyrn,Huh? Then what are we supposed to do?,뭐！？<br>그럼、그럼、<br>우리들은 어떻게 해야……
+English,"scene_cp4_q4_s20,442",detail,Rackam,Don't you worry. We just need to calm Tiamat down a bit. Right?,걱정하지 마라……<br>아가씨、티아마트가 조금만<br>얌전해지면 되는 건가？
+English,"scene_cp4_q4_s20,442",detail,Lyria,Yes. I'm sure I can do something after that.,응……<br>그렇게 되면、분명……
+English,"scene_cp4_q4_s20,442",detail,Rackam,"In that case, it's our turn to act.",그럼、여기서부턴、<br>우리들의 영역이군……
+English,"scene_cp4_q4_s20,442",detail,Katalina,"What in the world are you planning, Rackam? It's too dangerous! Don't go anywhere near Tiamat!",라캄！ 어쩔 셈이지！？<br>위험해！ 티아마트에게 가까이 가지마라！
+English,"scene_cp4_q4_s20,442",detail,Lyria,"Wait, Katalina! Let's let Rackam handle this!",기다려 카타리나！<br>부탁이야……<br>여기선 라캄 씨에게 맡겨줘……！
+English,"scene_cp4_q4_s20,442",detail,Rackam,"Hey, Tiamat. We heard all about it. The reason you went on a rampage, that is.",여어、티아마트여……<br>들었다고？ 네가 폭주한 이유.
+English,"scene_cp4_q4_s20,442",detail,Rackam,Heard you're the one responsible for blessing Port Breeze with these winds...,<span class='scene-font-place'>포트 브리즈</span>가<br>바람의 은혜를 받고 있는 것은、<br>전부 네 덕분이었다고 하더라.
+English,"scene_cp4_q4_s20,442",detail,Tiamat,My... winds...,바라……내、가……
+English,"scene_cp4_q4_s20,442",detail,Rackam,I've gotta apologize. I always thought you were a myth. Never gave you the thanks you deserve.,미신이나 뭐 그런 거라고 생각 했었다고……<br>미안하군……확실히 우리들은、<br>너에게 감사하는 마음이 부족했었다.
+English,"scene_cp4_q4_s20,442",detail,Rackam,That being said... there are some things we just can't give up.,그래도 말야……그렇다곤 해도、<br>내가……우리들이 품고 있는 걸、<br>그리 간단히 버릴 수는 없어.
+English,"scene_cp4_q4_s20,442",detail,Rackam,There are things I want to protect... That I have to protect. So I'm not backing down anymore.,지키고 싶은……<br>지키지 않으면 안 되는 것이 있어.<br>그래서 나는 이제 물러설 수 없어.
+English,"scene_cp4_q4_s20,442",detail,Rackam,"I'm not gonna run, and I'm not gonna hide. Neither of us can afford to compromise, can we?",도망치지 않고、물러서지도 않아……<br>뒷걸음질 치지 않아……<br>서로、양보할 수는 없잖아？
+English,"scene_cp4_q4_s20,442",detail,Tiamat,...,…………
+English,"scene_cp4_q4_s20,442",detail,Rackam,So we're gonna have to butt heads... with everything we've got!,그렇다면……<br>부딪혀 보자고、전력으로.
+English,"scene_cp4_q4_s20,442",detail,Rackam,Let's do this fair and square! Whether you're a god or a primal beast or whatever! No holding back!,해보자고……정정당당 진검승부다！<br>신이라던가 성정수라던가 모르겠지만、<br>사양따위 하지말라고！！
+English,"scene_cp4_q4_s20,442",detail,Tiamat,Gragh... Raghhh!,<span class='scene-font-4'>구가……가아아아아아아앗！！</span>
+English,"scene_cp4_q4_s30,443",synopsis,,"After Tiamat is defeated, Rackam decides to become the helmsman for [플레이어] and the others. Sierokarte gives the newly formed crew a letter that says to go to the Valtz Duchy.",티아마트를 낫게 한 <span>[플레이어]</span> 일행은、군도에서 손을 흔드는 셰로를 발견하고、만물상이 건넨 편지를 넘겨받는다. 그 편지의 내용을 따라、이번엔 <span class='scene-font-place'>발츠 공국</span>으로 진로를 정한다.
+English,"scene_cp4_q4_s30,443",detail,Rackam,Whew!<br>Not bad. Not bad at all...,하아……하아……<br>나참……<br>제법 하잖아……
+English,"scene_cp4_q4_s30,443",detail,Lyria,Everything's going to be all right. I absorbed Tiamat's overflowing energy.,이제、괜찮아요……<br>넘치고 있던 티아마트의 힘은、<br>제가 흡수했어요……
+English,"scene_cp4_q4_s30,443",detail,Lyria,She should return to her senses now.,이걸로 티아마트는、<br>자아를 되찾을 거에요……
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Lyria, what's that in your hand?",……응？<br>루리아、<br>지금 손에 들고 있는 건 뭐지？
+English,"scene_cp4_q4_s30,443",detail,Lyria,Huh? Where did this come from?,응？ 어라？<br>어느새……<br>뭐지、이거……
+English,"scene_cp4_q4_s30,443",detail,Vyrn,That's a piece of the sky map!,이 녀석은……<span class='scene-font-spword'>공도의 파편</span>이잖아！<br><span class='scene-font-1'>(하늘지도(空図)의 조각)</span>
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"It's just like the one your dad had, [플레이어]!",전에 [플레이어] 아버지가<br>보여줬던 것과 같아……<br>분명해！
+English,"scene_cp4_q4_s30,443",detail,Katalina,So this is a sky map piece? With this we can keep Lyria out of the empire's grasp...,이게 <span class='scene-font-spword'>공도의 파편</span>……<br>이게 있으면、<br>제국의 마수로부터 루리아를……！
+English,"scene_cp4_q4_s30,443",detail,Rackam,Hey! The sky's cleared up!,오오！ 하늘이 개고 있어！
+English,"scene_cp4_q4_s30,443",detail,,"The sun shines through the gaps in the clouds, illuminating the Grandcypher as if heaven itself has given its blessing.",<span class='scene-font-katari'>구름을 뚫고 비치는 햇살은、</span><br><span class='scene-font-katari'>하늘이 축복하는 것처럼、</span><br><span class='scene-font-katari'>그랑사이퍼를 비췄다.</span>
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Whew. Nice work, [플레이어]. I'd say we've earned ourselves a break.",후우……<br>이걸로 일단락인가.<br>수고했어、[플레이어]
+English,"scene_cp4_q4_s30,443",detail,Rackam,So where do you guys wanna go?,자아……그래서？<br>너희들 어디로 가고 싶어？
+English,"scene_cp4_q4_s30,443",detail,Vyrn,Oh? Does this mean you'll take us with you?,응？ 뭐야、갑자기.<br>이대로、<br>데려다 주겠다는 거야？
+English,"scene_cp4_q4_s30,443",detail,Rackam,"Sure, why not? No place better than the skies, I figure.",뭐 그렇지……<br>역시 하늘은 좋구나、하고 생각 했어.
+English,"scene_cp4_q4_s30,443",detail,Rackam,"And with you guys around, something tells me I won't part with the skies again.",너희들과 함께라면、<br>이제 두 번 다시<br>하늘을 버리지 않아도 될 거 같은 느낌이 들어.
+English,"scene_cp4_q4_s30,443",detail,Rackam,"Besides, the Grandcypher seems to have taken a liking to you, [플레이어].",거기에、<br>그랑사이퍼도 [플레이어]를、<br>맘에 들어 하는 것 같고 말이지.
+English,"scene_cp4_q4_s30,443",detail,Rackam,Leave it to me and I'll take you anywhere you wanna go! Even the end of the sky!,이렇게 되면、이 내가 책임을 가지고、<br>어디로든 데려다 주지！！<br>그게 설사 하늘의 끝이라고 해도 말이지！
+English,"scene_cp4_q4_s30,443",detail,,"With a helmsman having joined them, [플레이어] and a newly formed crew set a course for the farthest reaches of the sky.",<span class='scene-font-katari'>라캄의 발언에 끓어오른 [플레이어] 일행은</span><br><span class='scene-font-katari'>아득한 하늘로 진로를 향한다.</span>
+English,"scene_cp4_q4_s30,443",detail,,"While flying over the town, [플레이어] spots a tiny figure waving from the ground.",<span class='scene-font-katari'>마을 위를 지나가던 무렵、</span><br><span class='scene-font-katari'>[플레이어]는、</span><br><span class='scene-font-katari'>지상에서 손을 흔드는 작은 사람 모습을 발견했다.</span>
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"Hm? Well, if it isn't Sierokarte!",으음？<br>저거、만물상 아냐？
+English,"scene_cp4_q4_s30,443",detail,Rackam,Siero? What's she got in her hand?,셰로가……？<br>어라？ 저 녀석 손에 뭔가 들고있는데？
+English,"scene_cp4_q4_s30,443",detail,Katalina,She may need something from us. Let's go down and hear what she has to say.,뭔가 할말이 있는 걸지도 몰라……<br>한번 내려서、이야기를 들어보자.
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,Oh goodness! You've been an enormous help to everyone!,――정말로～<br>이번 일은 정말 큰 도움이 되었어요～
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Well, we couldn't exactly turn a blind eye to the empire's injustice.",아니、우리들도 제국의、<br>도리에 맞지 않는 일을、<br>못 본 체 할 수는 없었으니까……
+English,"scene_cp4_q4_s30,443",detail,Katalina,"Anyway, we saw you waving at us. Did you need something?",그런데、<br>아까 손을 흔들고 있던 건、<br>무슨 일이었나？
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,"Oh, that's right! I received a letter addressed to [플레이어], you see!",맞다 맞다～<br>[플레이어]씨 앞으로 온<br>편지를 맡아두고 있었어요～
+English,"scene_cp4_q4_s30,443",detail,Lyria,"A letter? Is it from your hometown, [플레이어]?",편지요？<br>[플레이어]의 고향에서 보낸걸까요……
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,Nope! A somewhat suspicious duo delivered it by hand.,아니요～<br>뭔가 수상한 2인조가、<br>직접 전해주고 갔었어요～
+English,"scene_cp4_q4_s30,443",detail,Sierokarte,They said they absolutely had to return a favor...,뭔가、<br>보답이라던가 하면서～
+English,"scene_cp4_q4_s30,443",detail,Rackam,Return a favor? Then I bet it's from those two.,보답이라니……<br>그럼、<br>그녀석들이 쓴 편지인가？
+English,"scene_cp4_q4_s30,443",detail,Vyrn,Who knows? Let's open it and find out!,글쎄……<br>일단、열어보자구！
+English,"scene_cp4_q4_s30,443",detail,,The letter couldn't be shorter.,<span class='scene-font-katari'>그 편지의 내용은、</span><br><span class='scene-font-katari'>더없이 간결했다.</span>
+English,"scene_cp4_q4_s30,443",detail,Rackam,"Go to the Valtz Duchy, it says...<br>What's this about?",<span class='scene-font-gray'>『</span><span class='scene-font-place'>발츠 공국</span><span class='scene-font-gray'>으로 가라』</span>인가……<br>뭐지 이거？
+English,"scene_cp4_q4_s30,443",detail,Katalina,The Valtz Duchy? It's a nearby Draph island known for its booming steel industry.,<span class='scene-font-place'>발츠 공국</span>인가……<br>분명、이 근처에 있는 드라프의 섬이었지.<br>철강산업으로 번영했었다고 하지.
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"If they're trying to return a favor, I guess that means there's something good waiting for us over there.",보답이라고 했으니、<br>편지 내용이、우리들에게 있어서、<br>플러스가 된다는 거겠지？
+English,"scene_cp4_q4_s30,443",detail,Vyrn,Should we go to Valtz then?,그 말은、<br><span class='scene-font-place'>발츠</span>로 가는게 좋은 건가？
+English,"scene_cp4_q4_s30,443",detail,Katalina,I don't know. Can we really afford to trust those two?,모르겠군……<br>그들은 거기까지、<br>믿어도 되는 건지……
+English,"scene_cp4_q4_s30,443",detail,Lyria,"They do seem a little suspicious, but doesn't the letter make you curious?",그 사람들은 잘 모르겠지만……<br>그래도、그 편지、신경쓰이지 않아요？
+English,"scene_cp4_q4_s30,443",detail,Vyrn,"Well yeah! This message is cryptic. You're curious too, right, [플레이어]?",거야、이렇게 적어뒀으니 말이지……<br>[플레이어]도 신경쓰이지？
+English,"scene_cp4_q4_s30,443",detail,Rackam,Then it's decided! We'll let our curiosity guide us through the sky!,그럼 결정됐군！<br>하늘 여행이란 건、<br>호기심으로 진로를 결정하는 거라고！
+English,"scene_cp4_q4_s30,443",detail,,"Having settled on the next destination, [플레이어] and the crew set off for the Valtz Duchy.",<span class='scene-font-katari'>편지에 적힌 말을 따라、</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-place'>발츠 공국</span><span class='scene-font-katari'>으로 키를 돌린다.</span>
+English,"scene_cp4_q4_s30,443",detail,,Another tale of the sky and stars waits for [플레이어] there...,<span class='scene-font-katari'>거기엔、</span><br><span class='scene-font-katari'>한층 더 깊이<br>하늘과 별에 얽힌  사건이、</span><br><span class='scene-font-katari'>[플레이어]를 기다리고 있었다.</span>
+English,"scene_cp4_q4_s30,443",detail,Sturm,"And that's all. We entrusted the letter to the Knickknack Shack, as per your instructions.",――이상이……이번 일의 전말입니다.<br>편지는 지시대로、<br>만물상에게 부탁해두었습니다.
+English,"scene_cp4_q4_s30,443",detail,???,Good work.<br>Now Drang... How does Furias seem to be faring?,수고했다……<br>드랑크、그래서 퓨리어스의 모습은？
+English,"scene_cp4_q4_s30,443",detail,Drang,"No problems that I've seen! My, dark essence certainly is something to behold, isn't it?",문제 없는 것 같네요～<br>이야、마정은 대단해～！
+English,"scene_cp4_q4_s30,443",detail,???,"Naturally. Its use comes at a cost, however...",당연하지……<br>물론、대가는 따르지만……
+English,"scene_cp4_q4_s30,443",detail,???,Everything is going according to plan. It's only a matter of time now.,모든 것이 순조롭게 진행되고있군.<br>계획이 실행된 이상……<br>이제 시간 문제다.
+English,"scene_cp4_q4_s30,443",detail,???,"I'll get you back no matter what. Just hold on a little longer for me, Orchis...",반드시……반드시 되찾아내겠어.<br>조금만 더 참으면 된다……<br>기다려줘、오르키스……
+English,"scene_cp4_q4_s30,443",detail,???,...,…………
