@@ -1,8 +1,8 @@
 0,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[플레이어]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。,드디어 마을 코 앞까지 도착한 <span>[플레이어]</span> 일행. 그 때、 에르스테 제국 전함에서는 장군 퓰리어스가 드랑크와 스츠룸에게 짜증을 내면서도、 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다.
+Japanese,"scene_cp3_q1_s10,311",synopsis,,ついに街の目前まで迫る<span>[플레이어]</span>一行。その頃、エルステ帝国の戦艦では、将軍フュリアスがドランクとスツルムに苛立ちを見せながらも、順調な計画に邪悪な笑みを浮かべていた。,드디어 마을 코 앞까지 도착한 <span>[플레이어]</span> 일행. 그 때、 에르스테 제국 전함에서는 장군 퓨리어스가 드랑크와 슈투름에게 짜증을 내면서도、 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다.
 Japanese,"scene_cp3_q1_s10,311",detail,,<span class='scene-font-place'>エルステ帝国</span><span class='scene-font-katari'>が誇る戦艦の一室。</span><br><span class='scene-font-katari'>そこではひとりの将軍が、</span><br><span class='scene-font-katari'>批難の声を上げていた。</span>,<span class='scene-font-place'>에르스테 제국</span><span class='scene-font-katari'>이 자랑하는 전함의 객실.</span><br><span class='scene-font-katari'>그 곳에선 한 장군이</span><br><span class='scene-font-katari'>비난의 목소리를 높이고 있었다.</span>
 Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,<span class='scene-font-4'>なんで！？</span><br><span class='scene-font-4'>ねぇねぇねぇ、なんでなの！？</span>,<span class='scene-font-4'>어째서！ ？</span><br><span class='scene-font-4'>어？ 어？ 어？、어째서냐고！ ？</span>
-Japanese,"scene_cp3_q1_s10,311",detail,스츠룸,将軍閣下……申し訳ありません。,장군 각하……죄송합니다.
+Japanese,"scene_cp3_q1_s10,311",detail,슈투름,将軍閣下……申し訳ありません。,장군 각하……죄송합니다.
 Japanese,"scene_cp3_q1_s10,311",detail,드랑크,ごめんねぇ～<br>あいつら、意外と強くってさぁ～,미안해～<br>걔들、생각보다 세더라구～
 Japanese,"scene_cp3_q1_s10,311",detail,퓨리어스,誰か！<br>こいつらの首、<br>すぐにはねちゃってくんない！？,이봐！ <br>이 녀석들의 목、<br>모두 베어버려！
 Japanese,"scene_cp3_q1_s10,311",detail,제국병,将軍閣下……<br>彼らは黒騎士様の勅令で<br>動いておりますゆえ……,장군 각하……<br>그들은 흑기사 님의 칙령으로<br>움직이고 있기 때문에……
@@ -63,7 +63,7 @@ Japanese,"scene_cp3_q2_s20,322",detail,라캄,何百年も前からの言い伝�
 Japanese,"scene_cp3_q2_s20,322",detail,루리아,います……いますよ、絶対に。<br>ティアマトは、この島に……<br>[플레이어]にも……わかりますか？,있어요……있어요、확실히.<br>티아마트는、이 섬에……<br>[플레이어]도……느껴지나요？
 Japanese,"scene_cp3_q2_s20,322",detail,라캄,お、おい、嬢ちゃん？<br>どうしたんだよ、急に。,어、어이、아가씨？<br>어떻게 된거야、갑자기.
 Japanese,"scene_cp3_q2_s20,322",detail,루리아,聞こえるんです……<br>それに感じる……<br>吹き荒ぶ風の、強大な星の力を……,들려와요……<br>그리고 느껴져요……<br>세차게 부는 바람의、강대한 별의 힘이……
-Japanese,"scene_cp3_q3_s10,331",synopsis,,街の住人を連れ、<span>[플레이어]</span>一行は嵐から逃れるための脱出艇がある洞窟へと急ぐ。しかし、洞窟には、まるでこの状況を先読みしていたかのように、フュリアス率いる帝国軍が待ち構えていた。,마을 주민을 데리고、<span>[플레이어]</span>일행은 폭풍에서 벗어나기 위해 탈출용 비공정이 있는 동굴로 서두른다. 하지만、동굴에는 마치 이 상태를 예지한 것처럼、퓰리어스가 이끄는 제국군이 기다리고 있었다.
+Japanese,"scene_cp3_q3_s10,331",synopsis,,街の住人を連れ、<span>[플레이어]</span>一行は嵐から逃れるための脱出艇がある洞窟へと急ぐ。しかし、洞窟には、まるでこの状況を先読みしていたかのように、フュリアス率いる帝国軍が待ち構えていた。,마을 주민을 데리고、<span>[플레이어]</span>일행은 폭풍에서 벗어나기 위해 탈출용 비공정이 있는 동굴로 서두른다. 하지만、동굴에는 마치 이 상태를 예지한 것처럼、퓨리어스가 이끄는 제국군이 기다리고 있었다.
 Japanese,"scene_cp3_q3_s10,331",detail,,<span class='scene-font-katari'>徐々に強くなる嵐の中、</span><br><span class='scene-font-katari'>街の住人を連れた一同は、</span><br><span class='scene-font-katari'>脱出艇のある渓谷へと辿り着いた。</span>,<span class='scene-font-katari'>계속해서 강해지는 폭풍 속에서、</span><br><span class='scene-font-katari'>마을 주민과 함께 이동하던 일동은、</span><br><span class='scene-font-katari'>마침내 탈출용 비공정이 있는 골짜기에 도착한다.</span>
 Japanese,"scene_cp3_q3_s10,331",detail,비,こいつが脱出艇だな！,이 녀석이 탈출용 비공정인가！
 Japanese,"scene_cp3_q3_s10,331",detail,루리아,これなら、<br>街の人もみんな乗れそうですね！,이거라면、<br>마을 사람들 모두가 탈 수 있겠어요！
@@ -95,7 +95,7 @@ Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,知りたい？ 知りたい
 Japanese,"scene_cp3_q3_s20,332",detail,퓨리어스,だから、まぁ、せいぜい頑張れば？,그러니까、뭐어、부디 힘내줘？
 Japanese,"scene_cp3_q3_s20,332",detail,카타리나,外道が……！！<br>[플레이어]！ 止めてくれるなよ……,악독한 놈이……！ ！ <br>[플레이어]！  날 막지 마라……
 Japanese,"scene_cp3_q3_s20,332",detail,카타리나,奴の手の者など……<br>この私が叩き切ってくれる！！,녀석의 부하는……<br>내가 직접 날려 버리겠어！ ！
-Japanese,"scene_cp3_q4_s10,341",synopsis,,フュリアスの手によって脱出艇が破壊され、街の住人と共に絶体絶命の状況へと追い込まれる<span>[플레이어]</span>一行。そんな中、嵐の原因は星晶獣ティアマトであることを知る。,퓰리어스의 손에 의해 탈출용 비공정이 폭발하고、마을 주민과 함께 절체절명의 상태에 몰린 <span>[플레이어]</span> 일행. 그런 도중、폭풍의 원인이 성정수 티아마트였다는 것을 알게 된다.
+Japanese,"scene_cp3_q4_s10,341",synopsis,,フュリアスの手によって脱出艇が破壊され、街の住人と共に絶体絶命の状況へと追い込まれる<span>[플레이어]</span>一行。そんな中、嵐の原因は星晶獣ティアマトであることを知る。,퓨리어스의 손에 의해 탈출용 비공정이 폭발하고、마을 주민과 함께 절체절명의 상태에 몰린 <span>[플레이어]</span> 일행. 그런 도중、폭풍의 원인이 성정수 티아마트였다는 것을 알게 된다.
 Japanese,"scene_cp3_q4_s10,341",detail,퓨리어스,――やるねぇ！<br>うんうん、やっぱり君達って、<br>見所があるなぁ。,――제법이네！ <br>응응、역시 너희들、<br>장래성이 있네.
 Japanese,"scene_cp3_q4_s10,341",detail,라캄,黙れ！ 今度はてめぇの番だぞ！,닥쳐라！  이번엔 네 차례라고！
 Japanese,"scene_cp3_q4_s10,341",detail,라캄,嵐がこれ以上強くなる前に、<br>街のみんなをどこかに、<br>避難させねぇと……,폭풍이 이 이상 강해지기 전에、<br>마을 모두를 어딘가에、<br>피난시켜야……
@@ -152,10 +152,10 @@ Japanese,"scene_cp3_q4_s30,343",detail,루리아,行きましょう、ラカム�
 Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>ルリアの決意に、</span><br><span class='scene-font-katari'>一筋の希望の光が差し込む。</span>,<span class='scene-font-katari'>루리아의 결의로、</span><br><span class='scene-font-katari'>한줄기 희망의 빛이 비춘다.</span>
 Japanese,"scene_cp3_q4_s30,343",detail,,<span class='scene-font-katari'>その輝きを頼りに、</span><br><span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>ティアマトの元へと向かう。</span>,<span class='scene-font-katari'>그 빛에 의지하여、</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>티아마트가 있는 곳으로 향한다.</span>
 
-English,"scene_cp3_q1_s10,311",synopsis,,"Major General Furias is angry that Sturm and Drang failed to stop [플레이어] and the others, but his plan is still unfolding.",드디어 마을 코 앞까지 도착한 <span>[플레이어]</span> 일행. 그 때、 에르스테 제국 전함에서는 장군 퓰리어스가 드랑크와 스츠룸에게 짜증을 내면서도、 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다.
+English,"scene_cp3_q1_s10,311",synopsis,,"Major General Furias is angry that Sturm and Drang failed to stop [플레이어] and the others, but his plan is still unfolding.",드디어 마을 코 앞까지 도착한 <span>[플레이어]</span> 일행. 그 때、 에르스테 제국 전함에서는 장군 퓨리어스가 드랑크와 슈투름에게 짜증을 내면서도、 순조롭게 진행되는 계획에 사악한 미소를 보이고 있었다.
 English,"scene_cp3_q1_s10,311",detail,,"On an Erste Empire warship, a major general barks at two lackeys who've just returned.",<span class='scene-font-place'>에르스테 제국</span><span class='scene-font-katari'>이 자랑하는 전함의 객실.</span><br><span class='scene-font-katari'>그 곳에선 한 장군이</span><br><span class='scene-font-katari'>비난의 목소리를 높이고 있었다.</span>
 English,"scene_cp3_q1_s10,311",detail,퓨리어스,How'd this happen? Why and how and why!,<span class='scene-font-4'>어째서！ ？</span><br><span class='scene-font-4'>어？ 어？ 어？、어째서냐고！ ？</span>
-English,"scene_cp3_q1_s10,311",detail,스츠룸,"My apologies, sir. We have no excuse.",장군 각하……죄송합니다.
+English,"scene_cp3_q1_s10,311",detail,슈투름,"My apologies, sir. We have no excuse.",장군 각하……죄송합니다.
 English,"scene_cp3_q1_s10,311",detail,드랑크,Sorry! They were way stronger than we thought they'd be!,미안해～<br>걔들、생각보다 세더라구～
 English,"scene_cp3_q1_s10,311",detail,퓨리어스,Someone execute these fools! Immediately!,이봐！ <br>이 녀석들의 목、<br>모두 베어버려！
 English,"scene_cp3_q1_s10,311",detail,제국병,"Sir, these two are under the command of the Black Knight...",장군 각하……<br>그들은 흑기사 님의 칙령으로<br>움직이고 있기 때문에……
@@ -216,7 +216,7 @@ English,"scene_cp3_q2_s20,322",detail,라캄,Tiamat's legend has been around for
 English,"scene_cp3_q2_s20,322",detail,루리아,"Tiamat's here on the island. I'm sure of it. You can sense it too, right, [플레이어]?",있어요……있어요、확실히.<br>티아마트는、이 섬에……<br>[플레이어]도……느껴지나요？
 English,"scene_cp3_q2_s20,322",detail,라캄,"What's gotten into you all of a sudden, little miss?",어、어이、아가씨？<br>어떻게 된거야、갑자기.
 English,"scene_cp3_q2_s20,322",detail,루리아,I can hear it... I can feel it. The power of the stars courses through the wind...,들려와요……<br>그리고 느껴져요……<br>세차게 부는 바람의、강대한 별의 힘이……
-English,"scene_cp3_q3_s10,331",synopsis,,Everyone reaches the escape airship only to find imperial soldiers waiting for them.,마을 주민을 데리고、<span>[플레이어]</span>일행은 폭풍에서 벗어나기 위해 탈출용 비공정이 있는 동굴로 서두른다. 하지만、동굴에는 마치 이 상태를 예지한 것처럼、퓰리어스가 이끄는 제국군이 기다리고 있었다.
+English,"scene_cp3_q3_s10,331",synopsis,,Everyone reaches the escape airship only to find imperial soldiers waiting for them.,마을 주민을 데리고、<span>[플레이어]</span>일행은 폭풍에서 벗어나기 위해 탈출용 비공정이 있는 동굴로 서두른다. 하지만、동굴에는 마치 이 상태를 예지한 것처럼、퓨리어스가 이끄는 제국군이 기다리고 있었다.
 English,"scene_cp3_q3_s10,331",detail,,"The storm grows in strength, but everyone finally reaches the valley where the escape airship is located.",<span class='scene-font-katari'>계속해서 강해지는 폭풍 속에서、</span><br><span class='scene-font-katari'>마을 주민과 함께 이동하던 일동은、</span><br><span class='scene-font-katari'>마침내 탈출용 비공정이 있는 골짜기에 도착한다.</span>
 English,"scene_cp3_q3_s10,331",detail,비,Looks like we found it!,이 녀석이 탈출용 비공정인가！
 English,"scene_cp3_q3_s10,331",detail,루리아,And it's big enough for all of us to board!,이거라면、<br>마을 사람들 모두가 탈 수 있겠어요！
@@ -248,7 +248,7 @@ English,"scene_cp3_q3_s20,332",detail,퓨리어스,"You want to know? Burning wi
 English,"scene_cp3_q3_s20,332",detail,퓨리어스,So go ahead. Give it your best shot!,그러니까、뭐어、부디 힘내줘？
 English,"scene_cp3_q3_s20,332",detail,카타리나,"You fiend!<br>Listen, [플레이어], don't try and stop me!",악독한 놈이……！ ！ <br>[플레이어]！  날 막지 마라……
 English,"scene_cp3_q3_s20,332",detail,카타리나,I'll defeat his flunkies myself!,녀석의 부하는……<br>내가 직접 날려 버리겠어！ ！
-English,"scene_cp3_q4_s10,341",synopsis,,Major General Furias admits to sending Tiamat into a rampage that is brewing a storm to sink the islands. Katalina decides to get everyone back to town.,퓰리어스의 손에 의해 탈출용 비공정이 폭발하고、마을 주민과 함께 절체절명의 상태에 몰린 <span>[플레이어]</span> 일행. 그런 도중、폭풍의 원인이 성정수 티아마트였다는 것을 알게 된다.
+English,"scene_cp3_q4_s10,341",synopsis,,Major General Furias admits to sending Tiamat into a rampage that is brewing a storm to sink the islands. Katalina decides to get everyone back to town.,퓨리어스의 손에 의해 탈출용 비공정이 폭발하고、마을 주민과 함께 절체절명의 상태에 몰린 <span>[플레이어]</span> 일행. 그런 도중、폭풍의 원인이 성정수 티아마트였다는 것을 알게 된다.
 English,"scene_cp3_q4_s10,341",detail,퓨리어스,Not bad! Hm... I guess you idiots might have some redeeming qualities after all!,――제법이네！ <br>응응、역시 너희들、<br>장래성이 있네.
 English,"scene_cp3_q4_s10,341",detail,라캄,"Shut it! You're next, pal!",닥쳐라！  이번엔 네 차례라고！
 English,"scene_cp3_q4_s10,341",detail,라캄,"With you out of the way, we'll get the townsfolk to safety before this storm gets worse!",폭풍이 이 이상 강해지기 전에、<br>마을 모두를 어딘가에、<br>피난시켜야……
