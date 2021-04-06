@@ -1,0 +1,267 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp21_q1_s10,2111",synopsis,,"<span>[플레이어]</span>たちはグランサイファーを修理するため,一路ガロンゾへ舵を切る。しかし,深い霧の中を進むグランサイファーは限界を訴え,一行は不時着するための島を探すのだった。","<span>[플레이어]</span>들은 그랑사이퍼를 수리하기 위해 일로 갈론조로 방향을 튼다.그러나 짙은 안개를 뚫고 나아가는 그랜사이퍼는 한계를 하소연했고, 일행은 불시착하기 위한 섬을 찾는 것이었다."
+Japanese,"scene_cp21_q1_s10,2111",detail,,"<span class='scene-font-katari'>グランサイファーを修理するため</span><br><span class='scene-font-katari'>[플레이어]一行は,</span><br><span class='scene-font-katari'>一路,ガロンゾを目指す。</span>","<span class = 'scene-font-katari'> 그란 사이퍼를 수리하기 위해 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행은 </ span> <br> <span class = 'scene-font-katari'> 일로, 가론조을 목표로한다. </ span>"
+Japanese,"scene_cp21_q1_s10,2111",detail,,"<span class='scene-font-katari'>しかし,突如針路を覆った霧に,</span><br><span class='scene-font-katari'>一行は視界を奪われていた。</span>",<span class='scene-font-katari> 그러나 갑자기 침로를 가린 안개에 </span><br><span class='scene-font-katari> 일행은 시야를 빼앗기고 있었다.</span>
+Japanese,"scene_cp21_q1_s10,2111",detail,오이겐,おいおい……こりゃマズイな……,어이구야.... 이건 안되겠네....
+Japanese,"scene_cp21_q1_s10,2111",detail,라캄,やっぱりか?<br>さっきから俺も<br>怪しい音がしてるとは思ってたが……,역시인가?<br>아까부터 나도<br>수상한 소리가 난다고는 생각했지만……
+Japanese,"scene_cp21_q1_s10,2111",detail,이오,なになに? どうしたの?<br>ふたりして難しい顔しちゃって。,왜왜왜왜왜왜왜왜왜왜왜왜왜왜왜왜왜왜왜왜?둘이서 곤란하게 얼굴을 해버려서.
+Japanese,"scene_cp21_q1_s10,2111",detail,라캄,グランサイファーの動力部が<br>悲鳴を上げてやがるんだ。<br>どうも限界かもしれねぇぞ……,그랜사이퍼 동력부가 <br> 비명을 지르며 난리야.<br>아무래도 한계일지도 몰라……
+Japanese,"scene_cp21_q1_s10,2111",detail,비,"えぇぇっ!?<br>限界って……どうすんだよ!?<br>こ,このまま墜落しちまうのか!?","엣!?<br>한계라니……어쩌자는 거야!?<br>이, 이대로 추락해 버리는 건가!?"
+Japanese,"scene_cp21_q1_s10,2111",detail,오이겐,"どこかに着陸できりゃあいいんだが……<br>こうも霧が濃くっちゃ,<br>島を探すこともできゃしねぇ。","어딘가에 착륙할 수 있다면 다행인데……<br>이렇게 안개가 짙으면,<br>섬을 찾을 수도 없고."
+Japanese,"scene_cp21_q1_s10,2111",detail,로제타,あら……<br>それならこれは朗報かもしれないわね。,어라……<br>그렇다면 이건 희소식일지도 모르겠네.
+Japanese,"scene_cp21_q1_s10,2111",detail,카타리나,どうした? 島が見えたのか?,왜? 섬이 보였어?
+Japanese,"scene_cp21_q1_s10,2111",detail,로제타,"いいえ……でもほら,<br>魔物がこっちに向かってきてるわ。","아니오……하지만 봐봐,<br>마물이 이쪽을 향해오고 있어."
+Japanese,"scene_cp21_q1_s10,2111",detail,로제타,"ということは,<br>魔物が巣を作れるくらいの島なら,<br>近くにあるんじゃないかしら?",그렇다면 <br> 마물이 둥지를 틀 수 있는 정도의 섬이라면 <br> 근처에 있지 않을까요?
+Japanese,"scene_cp21_q1_s10,2111",detail,루리아,"なるほどです!<br>でも,まずは,<br>魔物さんの相手をしなくっちゃですね!","그렇군요!<br>하지만, 우선은,<br>마물씨를 상대하지 않으면 안되겠네요!"
+Japanese,"scene_cp21_q1_s10,2111",detail,로제타,"ふふふ……そうね,その通りだわ。<br>さぁ,行くわよ,[플레이어]!","후후…… 그래, 맞아. <br> 자, 갈게. [플레이어]!"
+Japanese,"scene_cp21_q1_s20,2112",synopsis,,"小さな島を発見し,着陸の準備を進める<span>[플레이어]</span>たちに魔物の残党が襲いかかる。",작은 섬을 발견하고 착륙을 준비하는 <span>[플레이어]</span>들에게 마물의 잔당이 덤벼든다.
+Japanese,"scene_cp21_q1_s20,2112",detail,라캄,ぃよっしゃ!!<br>ロゼッタの予想は当たったみたいだな!<br>島が見えてきたぜ!,이야샤!!<br>로젯타의 예상은 적중된것 같네!<br>섬이 보이기 시작했다구!
+Japanese,"scene_cp21_q1_s20,2112",detail,로제타,ふふ……<br>なんだか素敵な雰囲気の島じゃない。,후후…<br> 왠지 멋진 분위기의 섬이잖아.
+Japanese,"scene_cp21_q1_s20,2112",detail,오이겐,"小せぇ島だが……<br>まぁ,騎空艇を降ろすにゃあ十分だ。<br>あの島に着陸するぞ!","작은 섬이지만……<br>뭐, 기공정을 내리기에 충분해.저 섬에 착륙한다!"
+Japanese,"scene_cp21_q1_s20,2112",detail,비,っておい!<br>まだ魔物が残ってやがるぞ!<br>このままじゃ危ねぇ!,그건 그렇고 말야! <br> 아직 마물이 남아있어! <br> 이대로는 위험해!
+Japanese,"scene_cp21_q1_s20,2112",detail,라캄,"ちっ……着陸態勢に入ったら,<br>どうしたって無防備になる……<br>その前に片づけるぞ!!","쳇……착륙 태세에 들어가면,<br>어떻게든 무방비가 된다……<br>그전에 치워버리겠어!!"
+Japanese,"scene_cp21_q2_s10,2121",synopsis,,"グランサイファーに応急措置を施し,再び旅立つ一行だったが,どういう訳か同じ地点へと戻されてしまう。霧の中に浮かぶ小さな島に囚われた一行は,星晶獣の気配を感じ取り調査へと乗り出すのだった。",그랜사이퍼에게 응급조치를 하고 다시 길을 떠나는 일행이었지만 어쩌다 같은 지점으로 되돌아가고 만다.안개 속에 떠 있는 작은 섬에 갇힌 일행은 성정수의 낌새를 감지하고 조사에 나서는 것이었다.
+Japanese,"scene_cp21_q2_s10,2121",detail,,"<span class='scene-font-katari'>霧の中に浮かぶ小さな島に,</span><br><span class='scene-font-katari'>グランサイファーを着陸させた</span><br><span class='scene-font-katari'>[플레이어]一行。</span>",<span class = 'scene-font-katari'> 안개 속에 떠오르는 작은 섬 </ span> <br> <span class = 'scene-font-katari'> 그란 사이퍼를 착륙시킨 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행. </ span>
+Japanese,"scene_cp21_q2_s10,2121",detail,,"<span class='scene-font-katari'>さっそくグランサイファーには,</span><br><span class='scene-font-katari'>応急処置が施され,</span><br><span class='scene-font-katari'>一行は再び霧の空へと飛び立つが……</span>","<span class='scene-font-katari> 즉시 그랜사이퍼는 </span><br><span class='scene-font-katari>로 응급처치를 하고, </span><span><span class='scene-font-katari>로 다시 날아간다……</span>sclass>"
+Japanese,"scene_cp21_q2_s10,2121",detail,이오,どーして島から出らんないのよー!!,어째서 섬에서 나올수 없는거야!!
+Japanese,"scene_cp21_q2_s10,2121",detail,카타리나,"先ほどから何度空へ出ても,<br>この地点に戻ってきてしまうが……<br>いったい何が起きているんだ?","아까부터 몇 번을 하늘에 나와도,<br>이 지점으로 돌아와 버리는데……<br>도대체 무슨 일이 일어나고 있는 것일까?"
+Japanese,"scene_cp21_q2_s10,2121",detail,오이겐,"わからねぇな……<br>応急処置とはいえグランサイファーは,<br>ちゃんと直ってるんだが……","모르겠어……<br>응급처치라고는 해도 그랜사이퍼는,<br>잘 고쳐지고 있지만……"
+Japanese,"scene_cp21_q2_s10,2121",detail,루리아,"ねぇ,[플레이어]……<br>この島,星晶獣の気配がします……","저기, [플레이어]……<br>이 섬, 성정수의 기미가 보입니다……"
+Japanese,"scene_cp21_q2_s10,2121",detail,루리아,それも巨大な……<br>すごく強い気配が……,그것도 거대한 ......<br>굉장히 강한 기색이 ......
+Japanese,"scene_cp21_q2_s10,2121",detail,비,"やれやれ……<br>こりゃあ,厄介なことに<br>なっちまったかもしれねぇぞ……","맙소사……<br>이것 참, 귀찮게<br>되어 버렸을지도 몰라……"
+Japanese,"scene_cp21_q2_s10,2121",detail,라캄,"いや……<br>もしかしたらグランサイファーが,<br>まだ不調なのかもしれねぇ。","아니……<br>어쩌면 그랜사이퍼가,<br>아직 좋지 않은걸지도 몰라."
+Japanese,"scene_cp21_q2_s10,2121",detail,카타리나,"とはいえここは,<br>情報が欲しいところだな……","그렇다고는 해도 여기는,<br>정보가 갖고 싶은 곳이야……"
+Japanese,"scene_cp21_q2_s10,2121",detail,오이겐,"うっし,そんじゃあ,<br>オレとラカムはここに残って,<br>グランサイファーの調整を続ける。",그럼 <br>나와 라캄은 여기에 남아서 <br> 그랜사이퍼의 조정을 계속하겠다.
+Japanese,"scene_cp21_q2_s10,2121",detail,오이겐,"お前らは,この島の住人でも探して,<br>情報を集めてきてくんねぇか?",너희들은 이 섬에 사는 사람이라도 찾아서<br>정보를 모아올래?
+Japanese,"scene_cp21_q2_s10,2121",detail,이오,"しょーがないわねぇ……<br>でも,魔物が出たときは,<br>ちゃんと一緒に戦ってよね?","어쩔 수 없지……<br>하지만, 마물이 나왔을 때는,<br>짱과 함께 싸웠지?"
+Japanese,"scene_cp21_q2_s10,2121",detail,라캄,おーおー! 任しとけ!<br>どこに居ようと駆けつけてやらぁ!,오-오-! 맡아둬! 어디에 있든 달려가버려!
+Japanese,"scene_cp21_q2_s10,2121",detail,로제타,"それじゃ行きましょ,[플레이어]。<br>この島はゾクゾクする匂いがするの……<br>楽しみで待ちきれなくなっちゃうわ。",그럼 갑시다. [플레이어].<br>이 섬은 오싹한 냄새가 나……<br>기대돼서 기다릴 수 없게 돼.
+Japanese,"scene_cp21_q2_s20,2122",synopsis,,"霧の立ち込める小さな島で,<span>[플레이어]</span>たちは信じがたいものを目にする。ゾンビや幽霊の存在に怯えるルリアをなだめつつ,一行は先を急ぐのだった。",안개 자욱한 작은 섬에서 <span>[플레이어]</span>들은 믿기 힘든 것들을 보게 된다.좀비와 유령의 존재에 겁먹은 루리아를 달래며 일행은 서두르는 것이었다.
+Japanese,"scene_cp21_q2_s20,2122",detail,이오,"……ッ!!<br>ね,ねぇねぇ,[플레이어]……<br>アンタ,いまの見た……?","......앗!!<br>말야, 야, [플레이어]……<br>안타, 방금 봤어……?"
+Japanese,"scene_cp21_q2_s20,2122",sel1_txt,,<span class='scene-font-katari'>見た……</span>,<span class = 'scene-font-katari'> 본 ... </ span>
+Japanese,"scene_cp21_q2_s20,2122",sel2_txt,,<span class='scene-font-katari'>なにも見てない!!</span>,<span class = 'scene-font-katari'> 아무것도 보지 않았다! ! </ span>
+Japanese,"scene_cp21_q2_s20,2122",detail,루리아,"な,なに言ってるんですか!!<br>[플레이어]まで……!","뭐, 무슨 소리입니까!!<br>[플레이어]까지……!"
+Japanese,"scene_cp21_q2_s20,2122",detail,루리아,私達はなにも見てないです!<br>ちょっとゾンビっぽい魔物さんなんて<br>ぜぇぇったいに見てないですー!!,우린 아무것도 안 봤어요!좀비같은 마물씨따위<br>전혀 안보고있어요-!!
+Japanese,"scene_cp21_q2_s20,2122",detail,루리아,"で,ですよねっ!!<br>もう,イオちゃんったら,<br>なに言ってるんですか?","그래서 말이지요!!<br>이오양은,<br>무슨 소리죠?"
+Japanese,"scene_cp21_q2_s20,2122",detail,루리아,"さっきのゾンビっぽい魔物さんは,<br>絶対に見間違いです……<br>そうです,見間違いに決まってます……","아까의 좀비같은 마물씨는,<br>절대로 잘못봤습니다……<br>그렇습니다, 잘못 본게 틀림없습니다……"
+Japanese,"scene_cp21_q2_s20,2122",detail,카타리나,"ル,ルリア……<br>まずは落ち着こう,な?","루, 루리아……<br>우선은 침착하자, 그렇지?"
+Japanese,"scene_cp21_q2_s20,2122",detail,로제타,ふふふ……<br>怯えるルリアちゃんも可愛いわぁ……,후후후……<br>겁먹은 루리아도 귀여워……
+Japanese,"scene_cp21_q2_s20,2122",detail,루리아,"うぅ……<br>そ,そんなこと言われても,<br>全然嬉しくないです……","으……<br>그, 그런 말을 들어도,<br>전혀 기쁘지 않아요……"
+Japanese,"scene_cp21_q2_s20,2122",detail,비,"なにを見たにせよ,<br>用心して進むっきゃねぇな……<br>[플레이어]! 気ぃ抜くなよ!","무엇을 보았든,<br>조심해서 나아갈 수는 없어……<br>[플레이어]! 너무 방심하지 마!"
+Japanese,"scene_cp21_q3_s10,2131",synopsis,,"不気味な島を彷徨う<span>[플레이어]</span>たちは小さな村を発見する。村の住人から情報を得ようと,一行は立ち込める霧の中,先を急ぐのだった。",섬뜩한 섬을 방황하는 <span>[플레이어]</span>들은 작은 마을을 발견한다.마을 주민에게 정보를 얻으려고 일행은 자욱한 안개 속에서 서두르는 것이었다.
+Japanese,"scene_cp21_q3_s10,2131",detail,비,"おっ!<br>なぁなぁ! [플레이어]!<br>あれ,見えるか?",오!<br>나네! [플레이어]! <br> 저거 보이냐?
+Japanese,"scene_cp21_q3_s10,2131",detail,루리아,なんにも見えませんー!!<br>ゾンビもお化けも見たくないですー!,아무것도 안보여요-!!<br>좀비도 보고싶지않아요-!!
+Japanese,"scene_cp21_q3_s10,2131",detail,비,"やれやれ,違うっての……<br>なぁ,ありゃあ村じゃねぇか?<br>いくつか家が集まってるぜ?","맙소사, 아니라구……<br>야, 마을이잖아?<br>몇 집들이 모여있는데?"
+Japanese,"scene_cp21_q3_s10,2131",detail,카타리나,"明かりがついている……<br>どうやら,<br>廃村ということもなさそうだな。","불이 켜져있어……<br>아무래도,<br>폐촌이라고 하는 것도 아닌 것 같네."
+Japanese,"scene_cp21_q3_s10,2131",detail,이오,"村が見つかったってだけで,<br>こんなにホッとするものなのね……","마을을 찾았다는 것만으로,<br>이렇게 안심하는구나……"
+Japanese,"scene_cp21_q3_s10,2131",detail,로제타,"あら,安心するのはまだ早いわよ?<br>立ち込める霧,襲い来るゾンビ……<br>とくれば当然,村の住人は……!","어머, 안심하는 것은 아직 일러요?<br>자욱한 안개, 덮쳐오는 좀비……<br>라고 하면 당연히, 마을 주민은……!"
+Japanese,"scene_cp21_q3_s10,2131",detail,루리아,あぅ……あぅ……,으으으으으으으으으으으으으으으으으....
+Japanese,"scene_cp21_q3_s10,2131",detail,이오,"ちょ,ちょっと大丈夫ルリア!?<br>しっかりしなさいよ!","자, 조금 괜찮아 루리아!?<br>정신차려!"
+Japanese,"scene_cp21_q3_s10,2131",detail,카타리나,"ロゼッタ……<br>ルリアを脅かすのは,<br>もうそろそろ止めにしてくれないか?","로젯타……<br>루리아를 위협하는 것은,<br>이제 슬슬 그만해주지 않을래?"
+Japanese,"scene_cp21_q3_s10,2131",detail,로제타,"うふふ,ごめんなさい。<br>ルリアちゃんが<br>あんまり可愛いから,つい。",우후후 죄송해요루리아가 너무 귀여우니까 그만
+Japanese,"scene_cp21_q3_s10,2131",detail,비,"ともかく村へ行ってみようぜ!<br>村の住人から話を聞きゃあ,<br>何かわかるかもしんねーしな!","아무튼 마을에 가보자구! 마을 주민으로부터 이야기를 들으면,<br>뭔지 알지도 모르구!"
+Japanese,"scene_cp21_q3_s20,2132",synopsis,,"<span>[플레이어]</span>たちを迎え入れたのは,ゾンビと化した村の住人だった。どうやら,百年前に現れた星晶獣が原因らしいと,ゾンビ姿の住人は明るく告げるのだった。",<span>[플레이어]</span>들을 영입한 것은 좀비로 변한 마을 주민이었다.아무래도 백년 전에 나타난 성정수가 원인인 것 같다고 좀비 차림의 거주자는 환하게 말하는 것이었다.
+Japanese,"scene_cp21_q3_s20,2132",detail,村人１,"おお! いらっしゃい!<br>旅の人だね?<br>いやぁ,珍しいなぁ!",오! 어서오세요!<br>여행자네?이야~ 신기하네!
+Japanese,"scene_cp21_q3_s20,2132",detail,村人２,さぁさぁ!<br>そんなところに立ってないで!<br>こちらへどうぞ!,자자!<br>그런데 서있지 마!이쪽으로 오세요!
+Japanese,"scene_cp21_q3_s20,2132",detail,카타리나,"ま,まさか……<br>ロゼッタの言っていたことが<br>当たるとはな……",뭐 설마...<br>로젯타가 말한게<br>맞을줄이야....
+Japanese,"scene_cp21_q3_s20,2132",detail,루리아,"カ,カタリナ! なに言ってるの?<br>みんな顔色が悪いのは,<br>風邪が流行ってるからなんですよね!?","카, 카타리나! 무슨 소리야?<br>모두 안색이 나쁜 이유는,<br>감기가 유행하기 때문이죠!?"
+Japanese,"scene_cp21_q3_s20,2132",detail,村人３,流行り病なら以前はありましたけど……<br>いまは病気知らずですよ!<br>何しろ死んでますからね!,유행병이라면 이전에는 있었습니다만……<br>지금은 병을 몰라요!<br>어쨌든 죽었으니까요!
+Japanese,"scene_cp21_q3_s20,2132",detail,루리아,"あぅ……じゃあ,じゃあ……えと……",아……그럼……저어……
+Japanese,"scene_cp21_q3_s20,2132",detail,카타리나,"ルリア,諦めよう……<br>目の前の現実を受け入れるんだ。","루리아, 포기하자……<br> 눈앞의 현실을 받아들이는 거야."
+Japanese,"scene_cp21_q3_s20,2132",detail,이오,"が,頑張ってルリア!<br>しばらくすれば,きっと慣れるわよ!","하지만, 힘내 루리아!<br>조금만 지나면, 분명 익숙해질거야!"
+Japanese,"scene_cp21_q3_s20,2132",detail,로제타,"ふふ……慣れたところで,<br>この状況が異常なのは,<br>変わらないわ……","후후……익숙해졌자,<br>이 상황이 비정상인 것은,<br>변하지않아……"
+Japanese,"scene_cp21_q3_s20,2132",detail,로제타,この島でいったい何が起きてるのか……<br>誰か詳しく教えていただけるかしら?,이 섬에 도대체 무슨 일이 일어나고 있는지……<br>누군가 자세히 말해줄 수 있을까?
+Japanese,"scene_cp21_q3_s20,2132",detail,村人１,いやなに単純な話さ!<br>百年も前だったかなぁ……,얼마나 단순한 이야기야!백년이나 전이였나……
+Japanese,"scene_cp21_q3_s20,2132",detail,村人１,"突然,見たこともない星晶獣が,<br>ふらぁっと霧の中から現れて,<br>島に居座るようになってね。",갑자기 본적도 없는 별정수가<br>훌쩍 안개속에서 나타나<br>섬에 눌러앉게 되더군요.
+Japanese,"scene_cp21_q3_s20,2132",detail,村人１,"それ以来,島では<br>生き物が死ぬってことがなくなり,<br>みんな何らかの形で残っちまってるのさ。","그 이후, 섬에서는<br>생물이 죽는 것이 없어지고,<br>모두가 어떠한 형태로든 남아있지."
+Japanese,"scene_cp21_q3_s20,2132",detail,村人２,"でもまぁ,ゾンビや幽霊ってのも,<br>そう悪いことばかりじゃないから,<br>みんな楽しくやってるわ!","그래도 뭐, 좀비나 유령같은 것도,<br>그렇게 나쁜 것 만이 아니니까,<br>모두 즐겁게 하고 있어!"
+Japanese,"scene_cp21_q3_s20,2132",detail,카타리나,なんと前向きな……<br>人として見習いたくなる生き様だな!,얼마나 긍정적인지…<br>사람으로서 본받고싶어지는 삶의 모습인가!
+Japanese,"scene_cp21_q3_s20,2132",detail,비,"いや,これ,<br>生き様って言っていいのか……?","아니, 이거,<br>산다고 말해도 되는거야……?"
+Japanese,"scene_cp21_q3_s20,2132",detail,이오,"でもこれで,<br>あたし達がやるべきことは<br>ハッキリしたわね!","하지만 이것으로,<br>우리가 해야할 일은<br>확실히 했어!"
+Japanese,"scene_cp21_q3_s20,2132",detail,이오,"島から出られないのも,<br>きっとその星晶獣が原因よ!",섬에서 나올 수 없는 것도 <br> 분명 그 성정수가 원인일 거야!
+Japanese,"scene_cp21_q3_s20,2132",detail,이오,"さっさと魔物を蹴散らして,<br>そいつに会いに行ってみましょ!","빨리빨리 요물을 걷어차고,<br> 그녀석을 만나러 가봅시다!"
+Japanese,"scene_cp21_q4_s10,2141",synopsis,,"島にとり憑く星晶獣について村人に尋ねる一行は,ひとりの少女の噂を耳にする。星晶獣を呼び寄せたと噂される少女に事情を聞くため,<span>[플레이어]</span>たちは,丘の上の怪しい館へ向かうのだった。",섬에 둘러싸인 성정수에 대해 마을 사람들에게 묻는 일행은 한 소녀의 소문을 듣는다.성정수를 불러들였다고 소문난 소녀에게 사정을 듣기 위해 <span>[플레이어]</span>들은 언덕 위의 수상한 관으로 향하는 것이었다.
+Japanese,"scene_cp21_q4_s10,2141",detail,,"<span class='scene-font-katari'>島にとり憑く星晶獣について,</span><br><span class='scene-font-katari'>村人に尋ねていく[플레이어]一行。</span>",<span class='scene-font-katari> 섬에 씌우는 성정수에 대해 </span><br><span class='scene-font-katari> 마을 사람들에게 물어보는 [플레이어] 한 줄.</span>
+Japanese,"scene_cp21_q4_s10,2141",detail,,"<span class='scene-font-katari'>すると,</span><br><span class='scene-font-katari'>多くの村人がとある少女にまつわる</span><br><span class='scene-font-katari'>噂話を口にした。</span>",<span class = 'scene-font-katari'>하면 </ span> <br> <span class = 'scene-font-katari'> 많은 마을 사람들이 어느 소녀에 얽힌 </ span> <br> <span class = 'scene-font-katari'> 소문을 입에 담았다. </ span>
+Japanese,"scene_cp21_q4_s10,2141",detail,村人,見えますか?<br>あの丘の上の館に<br>住んでいる女の子なんですが……,보이시나요?<br>저 언덕위의 저택에<br>살고있는 여자아이입니다만……
+Japanese,"scene_cp21_q4_s10,2141",detail,비,ずいぶんでっけぇ館だけど……<br>なんだか怪しい雰囲気だな……,대단히 큰 관이지만……<br>왠지 수상한 분위기네……
+Japanese,"scene_cp21_q4_s10,2141",detail,村人,"あの館の周囲には,<br>館を守るように魔物が<br>徘徊しているんです。",저 관의 주위에는 <br> 관을 지키도록 마물이<br> 배회하고 있답니다.
+Japanese,"scene_cp21_q4_s10,2141",detail,村人,"館にひとりで居る女の子を,<br>村の者も気にかけているのですが,<br>魔物のおかげで近づけず……","관에 혼자 있는 여자애를 <br>마을사람도 걱정하고 있습니다만, <br>마물덕분에 접근하지 못하고...."
+Japanese,"scene_cp21_q4_s10,2141",detail,村人,"いつのまにやら,<br>星晶獣は彼女が呼び寄せた,<br>なんて噂まで広まっていて……","어느새,<br>성정수는 그녀가 불러들였다,<br>라는 소문까지 퍼져있어서......."
+Japanese,"scene_cp21_q4_s10,2141",detail,카타리나,"なるほどな……<br>それでますます彼女は,<br>孤立を深めているというわけか……","과연군....<br>그래서 더욱더 그녀는,<br>고립이 깊어지고 있다고 하는 것인가....."
+Japanese,"scene_cp21_q4_s10,2141",detail,村人,まさか!<br>もし星晶獣を呼んだのが彼女だとしても<br>彼女を恨むような者はいませんよ!,설마!<br>만약 성정수를 부른 것이 그녀라고 해도<br>그녀를 원망하는 사람은 없을 거에요!
+Japanese,"scene_cp21_q4_s10,2141",detail,이오,"死んでるっていうのに,<br>あれだけ元気な村の人達を見ちゃうと,<br>説得力があるわね……","죽어있는데 <br> 그렇게 건강한 마을사람들을 보면,<br>설득력이 있어……"
+Japanese,"scene_cp21_q4_s10,2141",detail,루리아,"それじゃさっそく,<br>あの館に行ってみましょう!<br>何かわかるかもしれません!","그럼,<br>저 관으로 가봅시다!뭔지 알 것 같아요!"
+Japanese,"scene_cp21_q4_s10,2141",detail,비,おっ!<br>もう大丈夫なのか? ルリア。,앗!<br>이제 괜찮아? 루리아
+Japanese,"scene_cp21_q4_s10,2141",detail,루리아,慣れました!<br>もう私に怖いものなんてありません!,익숙해졌어요!<br>이제 나에게 무서운게 어딨어요!
+Japanese,"scene_cp21_q4_s10,2141",detail,로제타,いまそこに首のない血まみれの男が……,지금 거기에 목이 없는 피투성이의 남자가……
+Japanese,"scene_cp21_q4_s10,2141",detail,루리아,ひぅっ!?,힛!?
+Japanese,"scene_cp21_q4_s10,2141",detail,카타리나,ロゼッタ!<br>ルリアを脅かすのは<br>止めてくれと何度言えば……,로젯타!<br>루리아를 위협하는 것은<br>멈춰달라고 몇 번 말해야……
+Japanese,"scene_cp21_q4_s10,2141",detail,로제타,"ふふ,ごめんなさい。<br>でもこれはアタシなりの<br>愛情表現なのよ?",후후 미안해요.<br>하지만 이건 내나름의<br>애정표현이야?
+Japanese,"scene_cp21_q4_s10,2141",detail,비,"やれやれ……<br>とにかく行こうぜ,[플레이어]。<br>目指すは,あの怪しい館だ!","맙소사……<br>어쨌든 가자, [플레이어].<br>목표는, 저 수상한 관이다!"
+Japanese,"scene_cp21_q4_s20,2142",synopsis,,"館を目指す一行の前に,スツルム＆ドランクが姿を現す。どうやら,幽霊船の星晶獣セレストに眠るお宝が目的のようだ。ドランクのふざけた様子に呆れる一行の行く手に魔物が立ち塞がる。","관을 향한 일행의 앞에, 스툴름&드렁크가 모습을 나타낸다.아무래도 유령선 별 정수 셀레스트의 잠자는 보물이 목적인 것 같다.드렁크의 장난치는 모습에 질리는 일행의 앞길에 마물이 선다."
+Japanese,"scene_cp21_q4_s20,2142",detail,로제타,"館に近づくにつれ,<br>強い魔物が増えてくるわね……<br>よほど大事なものを守ってるみたい。",관에 가까워질수록 <br> 강한 마물이 많아지네……<br> 상당히 중요한 것을 지키고 있는 것 같아.
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"大事なもの……大事なものねぇ……<br>それってやっぱり,<br>お宝だったりするわけかなぁ?",소중한 것.... 소중한 것이야....<br>그건 역시 <br>보배이기도 한걸까?
+Japanese,"scene_cp21_q4_s20,2142",detail,로제타,さぁ……って誰よアナタ。<br>いつの間に……?,자……라니 누구야 당신.<br>언제사이에……?
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"やぁやぁやぁ! 綺麗なおねーさん!<br>僕はドランクっていうんだけどねぇ,<br>以後お見知りおきを……痛ってぇ!?","안녕! 이쁜언니!<br>나는 드렁크라고 하는데,<br>이후 아는척...아파!?"
+Japanese,"scene_cp21_q4_s20,2142",detail,슈투름,誰彼かまわず鼻の下を伸ばすな。<br>……刺すぞ。,누구를 막론하고 코밑을 펴지 마라.<br>…찌른다
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"それ,ぶっすり刺してから言う!?","그거, 푹 찌르고 나서 말하자!?"
+Japanese,"scene_cp21_q4_s20,2142",detail,비,またお前らかよ……<br>今度はなんだってんだ?,또 너희들이야……<br>이번에는 뭐라고?
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"いやね?<br>この島にとり憑いてる星晶獣……<br>あれ,セレストっていうんだけどさ……","싫지? <br> 이 섬에 홀린 성정수……<br> 그거, 셀레스트라고 하는데……"
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"幽霊船の星晶獣,セレストには,<br>お宝の伝説があるんだよねぇ!<br>ってことでお宝探しってわけ!","유령선의 성정수, 셀레스트에는 <br> 보물의 전설이 있어.<br>이라는 것으로 보물찾기!"
+Japanese,"scene_cp21_q4_s20,2142",detail,카타리나,"宝探しとはいえ,<br>よくまぁ,こんな恐ろしい島に<br>来るつもりになったものだな……","보물찾기라고는 하지만,<br>잘도 뭐, 이런 무서운 섬에<br>오기로 했구나……"
+Japanese,"scene_cp21_q4_s20,2142",detail,슈투름,意味不明……恐ろしい? 何が?,의미불명.....무서워? 뭐가?
+Japanese,"scene_cp21_q4_s20,2142",detail,비,"何がって,お前……<br>この島は住人も魔物も,<br>ゾンビだらけじゃねーか!","머라니, 너……<br>이 섬에는 거주자도 마물도,<br>좀비 투성이잖아!"
+Japanese,"scene_cp21_q4_s20,2142",detail,슈투름,馬鹿……あれは風邪をひいて<br>顔色が悪いだけだ。,바보…그건 감기에 걸려서<br>안색이 나쁠 뿐이다.
+Japanese,"scene_cp21_q4_s20,2142",detail,슈투름,ドランクもそう言っていた。<br>……そうだろう? ドランク。,드렁크도 그랬다.<br>……그렇지? 드렁크
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"いや,あれはゾンビだよねぇ!<br>誰がどう見たって,<br>ゾンビにしか見えな……痛てッ!?","아니, 저건 좀비지!<br>누가 어떻게 봐도,<br>좀비로밖에 보이지않아...아파!?"
+Japanese,"scene_cp21_q4_s20,2142",detail,슈투름,"ドランク貴様! またかっ! このっ!<br>どれだけあたしをおちょくれば,<br>気が済むんだっ!",드렁크 네 놈! 또냐! 이 녀석!<br>얼마나 나를 놀려야<br>마음이 풀리는거야!
+Japanese,"scene_cp21_q4_s20,2142",detail,드랑크,"ぐへっ!? ちょ,痛いって!<br>そんなぶすぶす刺さないで!<br>穴だらけになるから! ぐほっ!?","큭큭!? 자, 아프다고!<br>그런 푹푹 찌르지 마!구멍투성이가 되니까! 쿨럭!?"
+Japanese,"scene_cp21_q4_s20,2142",detail,루리아,"あわわわ……<br>ド,ドランクさんが<br>みるみる蜂の巣に……","당황해……<br>드, 드렁크씨가<br> 순식간에 벌집으로……"
+Japanese,"scene_cp21_q4_s20,2142",detail,이오,"はぁ……<br>こんな馬鹿放っておいて,<br>さっさと進みましょ?","하아……<br>이런 바보 내버려두고,<br>얼른 넘어가죠?"
+Japanese,"scene_cp21_q4_s20,2142",detail,이오,"ほら,魔物が来てるわ!<br>油断大敵よ! [플레이어]!","이봐, 마물이 와있어!<br>방심대적이야! [플레이어]!"
+Japanese,"scene_cp21_q4_s30,2143",synopsis,,"魔物を退けた一行は館の前に佇む少女を発見する。霧の中に佇む少女は,その瞳に語られぬ真実を宿し,敵意をむき出しにして<span>[플레이어]</span>たちを迎えるのだった。",마물을 물리친 일행은 관 앞에 서 있는 소녀를 발견한다.안개 속에 서 있는 소녀는 그 눈동자에 말할 수 없는 진실을 담아 적의를 드러내고 <span>[플레이어]</span>들을 맞이하는 것이었다.
+Japanese,"scene_cp21_q4_s30,2143",detail,비,"なぁ,おい! あそこ!<br>館の前に誰かいるぜ!<br>女の子だ!","야, 야! 저기!<br>관 앞에 누군가 있다!<br>여자아이다!"
+Japanese,"scene_cp21_q4_s30,2143",detail,???,"よく来たな,<br>霧の外より訪れし者ども。","잘 왔구나,<br>안개 밖에서 온 사람들."
+Japanese,"scene_cp21_q4_s30,2143",detail,카타리나,君が……<br>村の人達が噂していた……?,네가……<br>마을 사람들이 소문냈어……?
+Japanese,"scene_cp21_q4_s30,2143",detail,???,"噂?<br>ああ,おそらくそれは事実だ。","소문?<br>아, 아마 그건 사실일거야."
+Japanese,"scene_cp21_q4_s30,2143",detail,???,"不死の幽霊船……星晶獣セレスト。<br>それをこの島に呼び寄せたのは,<br>この私だ……",불사의 유령선……성정수 셀레스트. <br> 그것을 이 섬에 불러들인 것은 <br> 이 나다……
+Japanese,"scene_cp21_q4_s30,2143",detail,루리아,"そんな……<br>でも,どうして……?","그런……<br>하지만, 어째서……?"
+Japanese,"scene_cp21_q4_s30,2143",detail,드랑크,"は,はは……!<br>聞いていた通りだねぇ!<br>本当に……そのままだ……","하, 하하……!<br>들은 대로네!<br> 정말로……그대로다……"
+Japanese,"scene_cp21_q4_s30,2143",detail,???,"ふん……あの村の連中から,<br>何を聞いたかは知らないが……<br>私はお前達を歓迎するぞ。",흠…저 마을 친구들한테서 <br> 무엇을 들었는지는 모르지만……<br> 난 너희들을 환영할거야.
+Japanese,"scene_cp21_q4_s30,2143",detail,???,だから……いますぐここを去れ。<br>そして二度と私の館に近づくな。,그러니까……지금 당장 여기를 떠나라.<br>그리고 두 번 다시 나의 집에 다가가지 마라.
+Japanese,"scene_cp21_q4_s30,2143",detail,,"<span class='scene-font-katari'>霧の中に佇む少女は,</span><br><span class='scene-font-katari'>敵意をむき出しにして</span><br><span class='scene-font-katari'>[플레이어]一行を迎える。</span>",<span class = 'scene-font-katari'> 안개 속에 자리 잡은 소녀는 </ span> <br> <span class = 'scene-font-katari'> 적의를 노출하고 </ span> <br > <span class = 'scene-font-katari'> 지타] 일행을 맞이한다. </ span>
+Japanese,"scene_cp21_q4_s30,2143",detail,,"<span class='scene-font-katari'>しかし,</span><br><span class='scene-font-katari'>その瞳には確かに,</span><br><span class='scene-font-katari'>語られぬ真実の欠片を秘めていた。</span>",<span class = 'scene-font-katari'> 그러나 </ span> <br> <span class = 'scene-font-katari'> 그 눈동자는 확실히 </ span> <br> <span class = 'scene-font-katari'> 말씀없는 진실의 조각을 가지고 있었다. </ span>
+English,"scene_cp21_q1_s10,2111",synopsis,,"While on the way to Golonzo for repairs, the Grandcypher is engulfed by a thick fog and the power unit begins to die out. [플레이어] and the crew are forced to search for a nearby island and make an emergency landing."
+English,"scene_cp21_q1_s10,2111",detail,,"[플레이어] and the crew set off for Golonzo, where the Grandcypher can be repaired."
+English,"scene_cp21_q1_s10,2111",detail,,"But a thick fog suddenly appears, blocking visibility all around them."
+English,"scene_cp21_q1_s10,2111",detail,Eugen,Hey... This looks bad.
+English,"scene_cp21_q1_s10,2111",detail,Rackam,You said it. And now I'm starting to hear a weird noise...
+English,"scene_cp21_q1_s10,2111",detail,Io,What is it? What's the matter? You're both looking really grumpy!
+English,"scene_cp21_q1_s10,2111",detail,Rackam,The Grandcypher's power unit is making a screeching noise. It might be tapped out.
+English,"scene_cp21_q1_s10,2111",detail,Vyrn,No way! Tapped out? What do we do? Are we going to crash?
+English,"scene_cp21_q1_s10,2111",detail,Eugen,"We should be all right if we land somewhere. This fog's pretty thick though, so it's gonna be hard to find an island."
+English,"scene_cp21_q1_s10,2111",detail,Rosetta,"Oh, really? In that case I might have some good news!"
+English,"scene_cp21_q1_s10,2111",detail,Katalina,What is it? Did you see an island somewhere?
+English,"scene_cp21_q1_s10,2111",detail,Rosetta,No... But I see monsters coming our way.
+English,"scene_cp21_q1_s10,2111",detail,Rosetta,"Which means that if they've made a lair somewhere, it should be on a nearby island."
+English,"scene_cp21_q1_s10,2111",detail,Lyria,"I get it! But first we need to fight off these monsters, right?"
+English,"scene_cp21_q1_s10,2111",detail,Rosetta,"My thoughts exactly. Let's do it, [플레이어]!"
+English,"scene_cp21_q1_s20,2112",synopsis,,"[플레이어] and the crew spot an island, but before they can land, more monsters begin to attack."
+English,"scene_cp21_q1_s20,2112",detail,Rackam,All right! Looks like Rosetta was on the money! I can see an island!
+English,"scene_cp21_q1_s20,2112",detail,Rosetta,This island has a wonderful feel to it!
+English,"scene_cp21_q1_s20,2112",detail,Eugen,"It's tiny, but plenty big enough for our airship to make a landing. Let's head on down!"
+English,"scene_cp21_q1_s20,2112",detail,Vyrn,But wait! There are monsters left! We can't land just yet!
+English,"scene_cp21_q1_s20,2112",detail,Rackam,Tch... We're defenseless during landing. So we've got to get rid of them first!
+English,"scene_cp21_q2_s10,2121",synopsis,,"[플레이어] and the crew try to take off but keep ending up back where they started. Sensing a primal beast on the island, the crew decides to explore."
+English,"scene_cp21_q2_s10,2121",detail,,[플레이어] and the crew land on a tiny island that has appeared out of the mist.
+English,"scene_cp21_q2_s10,2121",detail,,"After some temporary repairs are made, they try to take off again into the foggy sky."
+English,"scene_cp21_q2_s10,2121",detail,Io,Hey! How come we can't get off this island?
+English,"scene_cp21_q2_s10,2121",detail,Katalina,"We keep taking off into the air, but we end up coming back where we started every time. What's going on?"
+English,"scene_cp21_q2_s10,2121",detail,Eugen,"Beats me... I'll admit that our patchwork repairs aren't perfect, but the Grandcypher should be good to go."
+English,"scene_cp21_q2_s10,2121",detail,Lyria,"Hey, [플레이어], I can sense a primal beast on the island."
+English,"scene_cp21_q2_s10,2121",detail,Lyria,Its aura is huge and really powerful!
+English,"scene_cp21_q2_s10,2121",detail,Vyrn,"Well, that's just great... This is turning into a real sticky situation."
+English,"scene_cp21_q2_s10,2121",detail,Rackam,Yep. And we might need to take a harder look at the Grandcypher in order to fix it.
+English,"scene_cp21_q2_s10,2121",detail,Katalina,But first I'd like to know more about our surroundings...
+English,"scene_cp21_q2_s10,2121",detail,Eugen,Got it. Then me and Rackam will stay here with the Grandcypher for repairs.
+English,"scene_cp21_q2_s10,2121",detail,Eugen,So how about you find some islanders who can fill us in on this place?
+English,"scene_cp21_q2_s10,2121",detail,Io,"Fine. But if we run into a swarm of monsters, you'd better come back us up!"
+English,"scene_cp21_q2_s10,2121",detail,Rackam,"Yes, ma'am! Leave it to us! We'll come find you wherever you are!"
+English,"scene_cp21_q2_s10,2121",detail,Rosetta,"Now let's go, [플레이어]! There's an exciting chill in the air here... And I can't wait to find out what it is!"
+English,"scene_cp21_q2_s20,2122",synopsis,,"As [플레이어] and the crew walk through the island, they catch a glimpse of something frightening. They continue on while trying to calm Lyria who is spooked by zombies and ghosts."
+English,"scene_cp21_q2_s20,2122",detail,Io,"...!<br>Hey, [플레이어], did you see that?"
+English,"scene_cp21_q2_s20,2122",sel1_txt,,I saw it...
+English,"scene_cp21_q2_s20,2122",sel2_txt,,Nope!
+English,"scene_cp21_q2_s20,2122",detail,Lyria,"Not you too, [플레이어]! What are you saying?"
+English,"scene_cp21_q2_s20,2122",detail,Lyria,We didn't see anything just now! No zombie-looking monster or anything like it!
+English,"scene_cp21_q2_s20,2122",detail,Lyria,"R-right! What are you saying, Io?"
+English,"scene_cp21_q2_s20,2122",detail,Lyria,"That zombie-looking monster just now was all in your imagination! Yep, no way it was real..."
+English,"scene_cp21_q2_s20,2122",detail,Katalina,"Lyria! Let's just calm down a bit, all right?"
+English,"scene_cp21_q2_s20,2122",detail,Rosetta,"My, my... You're cute when you're scared, Lyria."
+English,"scene_cp21_q2_s20,2122",detail,Lyria,"You know, saying things like that doesn't really help..."
+English,"scene_cp21_q2_s20,2122",detail,Vyrn,"Whatever we saw or didn't see just goes to show we've gotta be careful. Keep your eyes peeled, [플레이어]!"
+English,"scene_cp21_q3_s10,2131",synopsis,,"[플레이어] and the crew see a village up ahead. They hurry through the mist, hoping to talk to the people who live there."
+English,"scene_cp21_q3_s10,2131",detail,Vyrn,"Whoa! Hey, [플레이어]! You see that?"
+English,"scene_cp21_q3_s10,2131",detail,Lyria,I'm not even trying to look! I don't wanna see any zombies or ghosts!
+English,"scene_cp21_q3_s10,2131",detail,Vyrn,"Good grief... Enough with the zombies! Anyway, does that look like a village to you? I see a bunch of houses over there."
+English,"scene_cp21_q3_s10,2131",detail,Katalina,And there are lights... So it must not be a ghost town.
+English,"scene_cp21_q3_s10,2131",detail,Io,I never thought I'd feel so happy to find a village...
+English,"scene_cp21_q3_s10,2131",detail,Rosetta,But it's too soon to say! Zombies could attack from out of the fog... only to find that they're the villagers!
+English,"scene_cp21_q3_s10,2131",detail,Lyria,Eep...
+English,"scene_cp21_q3_s10,2131",detail,Io,"Hey! You okay, Lyria? Get a hold of yourself!"
+English,"scene_cp21_q3_s10,2131",detail,Katalina,Rosetta... Why don't you give it a rest and stop scaring Lyria?
+English,"scene_cp21_q3_s10,2131",detail,Rosetta,So sorry! She's just so adorable that I couldn't help myself!
+English,"scene_cp21_q3_s10,2131",detail,Vyrn,Let's go check out the village! We can talk to the people who live there and get some helpful information!
+English,"scene_cp21_q3_s20,2132",synopsis,,"[플레이어] and the crew are welcomed by the villagers, who turn out to be zombies. They learn that a primal beast appeared one hundred years before, causing all living things on the island to never die completely."
+English,"scene_cp21_q3_s20,2132",detail,Villager 1,Oh! Welcome! Are you travelers? Don't see them often!
+English,"scene_cp21_q3_s20,2132",detail,Villager 2,"Now, now! Don't just stand there! Come this way!"
+English,"scene_cp21_q3_s20,2132",detail,Katalina,It can't be... What Rosetta was saying turned out to be true!
+English,"scene_cp21_q3_s20,2132",detail,Lyria,"Katalina, what are you saying? Clearly there's a flu going around, and that's why everyone looks so pale, right?"
+English,"scene_cp21_q3_s20,2132",detail,Villager 3,"We've seen our share of plagues in the past, but now we're immune to sickness! We're actually dead, you see!"
+English,"scene_cp21_q3_s20,2132",detail,Lyria,Ah... D-dead... you s-say...
+English,"scene_cp21_q3_s20,2132",detail,Katalina,"Lyria, no more excuses. You've got to face the truth right in front of you."
+English,"scene_cp21_q3_s20,2132",detail,Io,"You can do it, Lyria! Just give it a while and you'll get used to it!"
+English,"scene_cp21_q3_s20,2132",detail,Rosetta,"Even so, that doesn't change the fact that this is a strange situation."
+English,"scene_cp21_q3_s20,2132",detail,Rosetta,What's happened to this island? Would you mind telling us?
+English,"scene_cp21_q3_s20,2132",detail,Villager 1,It's a simple story really! Must've been about a hundred years ago now...
+English,"scene_cp21_q3_s20,2132",detail,Villager 1,"A primal beast we'd never seen before suddenly appeared out of the mist, and it's stayed ever since."
+English,"scene_cp21_q3_s20,2132",detail,Villager 1,"Since then, no living things on the island have died completely. Instead they live on in some form or another."
+English,"scene_cp21_q3_s20,2132",detail,Villager 2,"But, you know, being a zombie or a ghost isn't all that bad. We're all making the most of it!"
+English,"scene_cp21_q3_s20,2132",detail,Katalina,What an incredible outlook you have! If only everyone could be inspired to live on the bright side!
+English,"scene_cp21_q3_s20,2132",detail,Vyrn,"Wait, is 'live' a good word choice here?"
+English,"scene_cp21_q3_s20,2132",detail,Io,"Either way, it sounds like we've figured out what we need to do now!"
+English,"scene_cp21_q3_s20,2132",detail,Io,Obviously the reason we can't leave the island is because of that primal beast!
+English,"scene_cp21_q3_s20,2132",detail,Io,Let's defeat some monsters and find the primal!
+English,"scene_cp21_q4_s10,2141",synopsis,,[플레이어] and the crew ask the villagers about the island's primal beast and learn of a girl living in a mansion on a hill. They head for the mansion to find out more about the girl who's rumored to have summoned the primal beast.
+English,"scene_cp21_q4_s10,2141",detail,,[플레이어] and the crew ask each of the villagers what they know about the island's primal beast.
+English,"scene_cp21_q4_s10,2141",detail,,"With every conversation, a rumor about a young girl comes up."
+English,"scene_cp21_q4_s10,2141",detail,Villager,Can you see it over there? The mansion on the hill is where the girl lives.
+English,"scene_cp21_q4_s10,2141",detail,Vyrn,It looks huge! And mighty creepy too...
+English,"scene_cp21_q4_s10,2141",detail,Villager,There are monsters that prowl around the mansion to protect it.
+English,"scene_cp21_q4_s10,2141",detail,Villager,"We villagers were curious about her, seeing that she lives all alone. But we couldn't get close because of the monsters."
+English,"scene_cp21_q4_s10,2141",detail,Villager,"Soon enough, there were rumors that she was the one who summoned the primal beast here."
+English,"scene_cp21_q4_s10,2141",detail,Katalina,"I see... And because of that, you've become more and more bitter towards to her."
+English,"scene_cp21_q4_s10,2141",detail,Villager,"Not at all! Even if she did summon the primal beast, no one here would hold a grudge against her!"
+English,"scene_cp21_q4_s10,2141",detail,Io,Hard to argue with a dead person who's as lively as she is...
+English,"scene_cp21_q4_s10,2141",detail,Lyria,"Well, first let's head over to that mansion! We might found out something there."
+English,"scene_cp21_q4_s10,2141",detail,Vyrn,"Ah! Are you feeling okay now, Lyria?"
+English,"scene_cp21_q4_s10,2141",detail,Lyria,I've gotten used to it! I'm not scared of anything anymore!
+English,"scene_cp21_q4_s10,2141",detail,Rosetta,Is that a headless man covered in blood over there?
+English,"scene_cp21_q4_s10,2141",detail,Lyria,Eep!
+English,"scene_cp21_q4_s10,2141",detail,Katalina,Rosetta! I thought I asked you to stop teasing Lyria!
+English,"scene_cp21_q4_s10,2141",detail,Rosetta,So sorry! But it's just one way I like to show my affection!
+English,"scene_cp21_q4_s10,2141",detail,Vyrn,"Oh boy... Let's go already, [플레이어]! To the creepy mansion!"
+English,"scene_cp21_q4_s20,2142",synopsis,,"On the way to the mansion, [플레이어] and the crew run into Sturm and Drang. The two are searching for treasure hidden within the island's primal beast, a ghost ship named Celeste. Monsters soon rush in to block their path."
+English,"scene_cp21_q4_s20,2142",detail,Rosetta,The monsters are getting stronger as we get closer to the mansion. Like they're protecting something precious...
+English,"scene_cp21_q4_s20,2142",detail,Drang,"Something precious... Something precious, you say? Maybe hidden treasure?"
+English,"scene_cp21_q4_s20,2142",detail,Rosetta,"I suppose, but—who are you? When did you get here?"
+English,"scene_cp21_q4_s20,2142",detail,Drang,"Well, well! Hello there, pretty lady! The name's Drang and it's a pleasure to make your—ow!"
+English,"scene_cp21_q4_s20,2142",detail,Sturm,Stop acting so shameless... Or I'll poke you.
+English,"scene_cp21_q4_s20,2142",detail,Drang,Shouldn't you warn me? <span class='scene-font-italic'>Before</span> you poke me?
+English,"scene_cp21_q4_s20,2142",detail,Vyrn,"Well, look who it is... What is it this time, guys?"
+English,"scene_cp21_q4_s20,2142",detail,Drang,"You see, there's this primal beast named Celeste here on this island."
+English,"scene_cp21_q4_s20,2142",detail,Drang,And supposedly it's a ghost ship that has legendary treasure hidden inside it. So we've come treasure hunting!
+English,"scene_cp21_q4_s20,2142",detail,Katalina,You must be pretty gung ho about some treasure to come to a creepy island like this.
+English,"scene_cp21_q4_s20,2142",detail,Sturm,I don't get it. What's creepy? Something around here?
+English,"scene_cp21_q4_s20,2142",detail,Vyrn,You mean you don't know? All the people and monsters on the island are zombies!
+English,"scene_cp21_q4_s20,2142",detail,Sturm,"Don't be stupid. Clearly there's a flu going around, and that's why everyone looks so pale."
+English,"scene_cp21_q4_s20,2142",detail,Sturm,That's what I heard from Drang. Go on and tell them.
+English,"scene_cp21_q4_s20,2142",detail,Drang,"Nah, those were definitely zombies! No matter how you look at it, those were some undead—ow!"
+English,"scene_cp21_q4_s20,2142",detail,Sturm,You jerk! Pulling pranks again? What's it gonna take for you to quit joking around?
+English,"scene_cp21_q4_s20,2142",detail,Drang,Agh! Wait! Ow! You're poking me full of holes! Ah!
+English,"scene_cp21_q4_s20,2142",detail,Lyria,Oh dear... You look like you've run into a swarm of bees...
+English,"scene_cp21_q4_s20,2142",detail,Io,Let's just leave these clowns behind and keep going!
+English,"scene_cp21_q4_s20,2142",detail,Io,"And look! Monsters are coming! Stay focused, [플레이어]!"
+English,"scene_cp21_q4_s30,2143",synopsis,,[플레이어] and the others receive a cold welcome from a girl standing in front of the mansion. The girl appears to be keeping an unspoken secret.
+English,"scene_cp21_q4_s30,2143",detail,Vyrn,"Hey, look over there! There's someone in front of the mansion! And it's a girl!"
+English,"scene_cp21_q4_s30,2143",detail,???,"Welcome, people from beyond the mist."
+English,"scene_cp21_q4_s30,2143",detail,Katalina,Are you the girl the villagers have rumored about?
+English,"scene_cp21_q4_s30,2143",detail,???,"Rumored? Oh... Yes, and I imagine the rumors are true."
+English,"scene_cp21_q4_s30,2143",detail,???,The undead ghost ship and primal beast Celeste... It was I who summoned it to this island.
+English,"scene_cp21_q4_s30,2143",detail,Lyria,Really? But why?
+English,"scene_cp21_q4_s30,2143",detail,Drang,Ha-ha! It was all true... Down to the very last detail...
+English,"scene_cp21_q4_s30,2143",detail,???,"Humph. I don't know what you heard from the people in the village, but I gladly welcome you here..."
+English,"scene_cp21_q4_s30,2143",detail,???,But now you need to leave. And don't come near my mansion ever again.
+English,"scene_cp21_q4_s30,2143",detail,,"In the heavy mist, [플레이어] and the others receive a cold welcome from the young girl."
+English,"scene_cp21_q4_s30,2143",detail,,"Despite the fog it was clear to see that her eyes harbor a secret, unspoken truth."

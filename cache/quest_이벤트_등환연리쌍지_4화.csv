@@ -1,0 +1,187 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt210129_cp4_q1_s10,synopsis,,狼はルシウスとネクタルの攻撃を受け撤退した。ルシウスは狼相手に思うところがある様子のネクタル達に事情があることを察し、ネクタル達を艇まで案内するのだった。,늑대는 루시우스와 넥타르의 공격을 받고 물러났다. 루시우스는 늑대를 상대로 생각하는 바가 있는 듯한 모습의 넥타르 일행에게 사정이 있음을 알아차리고 넥타르 일행을 배까지 안내하는 것이었다.
+Japanese,scene_evt210129_cp4_q1_s10,detail,,<span class='scene-font-katari'>いまはいま！ まっただなか！</span><br><span class='scene-font-katari'>そとのせかいは、まっしろやみ！</span><br><span class='scene-font-katari'>なんにもみえない、からだはさむい！</span>,<span class='scene-font-katari'>지금 어떤상황이냐면요! 나와보니 바깥 세상은 새하얀 어둠! 아무 것도 안 보이고 몸은 덜덜 떨리고!</span>
+Japanese,scene_evt210129_cp4_q1_s10,detail,,<span class='scene-font-katari'>だけどとーげんきょーへスタコラだー！</span><br><span class='scene-font-katari'>げんきいっぱい、ゆめいっぱい！</span><br><span class='scene-font-katari'>せっかくそのはずだったのに……</span>,"<span class='scene-font-katari'>그치만 도원향으로 고고! 기운차게, 희망차게! 나아가려던 참이었는데...</span>"
+Japanese,scene_evt210129_cp4_q1_s10,detail,,<span class='scene-font-katari'>おそわれちゃって、さーたいへん！！</span><br><span class='scene-font-katari'>であったまっくろおにーさん、</span><br><span class='scene-font-katari'>ミカタかなー？ テキだったりして……</span>,<span class='scene-font-katari'>공격당하는 바람에 완전 큰일! 방금 만난 새카만 형은 아군일 걸까? 적이면 어쩌지...</span>
+Japanese,scene_evt210129_cp4_q1_s10,detail,루시우스,<span class='scene-font-4'>はぁああっ！！</span>,<span class='scene-font-4'>하아앗!</span>
+Japanese,scene_evt210129_cp4_q1_s10,detail,？？？,グゥウウ……！,그으으……！
+Japanese,scene_evt210129_cp4_q1_s10,detail,쿠시나,…………！！,…………！！
+Japanese,scene_evt210129_cp4_q1_s10,detail,넥타르,クシナ。<br>……好きにさせてやるべきだ。,쿠시나. ...마음대로 하게 내버려 둬.
+Japanese,scene_evt210129_cp4_q1_s10,detail,우구스,そんなー……なんでー……,그런... 그치만...
+Japanese,scene_evt210129_cp4_q1_s10,detail,루시우스,…………<br>貴様ら。この島の状況に<br>詳しいと見て、間違いないな？,"..... 너희들, 이 섬의 상황을 잘 알고 있는 거 맞겠지?"
+Japanese,scene_evt210129_cp4_q1_s10,detail,신샤,え、えっと……,"그, 그게..."
+Japanese,scene_evt210129_cp4_q1_s10,detail,넥타르,シンシャ、ここはネクタルが。,"신샤, 넥타르가 대답하겠습니다. "
+Japanese,scene_evt210129_cp4_q1_s10,detail,넥타르,貴公が何を求めるかにも依るが、<br>ある程度は説明出来るかと。 <br>,귀공이 무엇을 원하는지에 달렸으나 어느 정도라면 설명 가능할 거다.
+Japanese,scene_evt210129_cp4_q1_s10,detail,루시우스,良し。<br>ならばついてこい、<br>ここで長話をするのはバカバカしい。,좋아. 그렇다면 따라와라. 이런 곳에서 길게 이야기를 하는 건 멍청한 짓이니.
+Japanese,scene_evt210129_cp4_q1_s10,detail,우구스,さむいもんねー,그치. 추우니까.
+Japanese,scene_evt210129_cp4_q1_s10,detail,,<span class='scene-font-katari'>まっくろくんはつよーいけんし！</span><br><span class='scene-font-katari'>こわいかなっておもったけど、</span><br><span class='scene-font-katari'>けっこーやさしいひとかもね。</span>,<span class='scene-font-katari'>새카만 형은 엄청 센 검사! 무서울 줄 알았는데 어쩌면 꽤 상냥한 사람일지도.</span>
+Japanese,scene_evt210129_cp4_q1_s10,detail,,<span class='scene-font-katari'>はじめましてのそとのせかい、</span><br><span class='scene-font-katari'>みんなでぼうけんできるかなー……</span>,<span class='scene-font-katari'>처음 만난 바깥 세상에서 다 같이 모험할 수 있을까...?</span>
+Japanese,scene_evt210129_cp4_q1_s10,detail,,<span class='scene-font-katari'>あっ！ ヨワキはダメダメ！</span><br><span class='scene-font-katari'>ぜったいみんなで</span><br><span class='scene-font-katari'>ぼうけんするぞー！ おー！</span>,<span class='scene-font-katari'>아! 약한 소리 하면 안 돼! 반드시 다 함께 모험하자! 아자!</span>
+Japanese,scene_evt210129_cp4_q2_s10,synopsis,,艇にて、ネクタル達から事情を聞く[플레이어]一行。ネクタルから星晶獣の気配がわずかにするというルリアに、ネクタルは自身が星晶獣の成り損ないであると明かす。その後、自分達に襲い掛かってきた狼が仲間であることを話したウグス達は、クスキがジョルハやゴブリンに何かをされたのではないかと考えクスキを迎えに行こうと提案するのだった。,배에서 넥타르 일행으로부터 사정을 듣는 [플레이어] 일행. 넥타르에게서 성정수의 기운이 살짝 느껴진다는 루리아에게 넥타르는 자신이 성정수가 되지 못한 실패작임을 밝힌다. 그 후 자신에게 덤벼든 늑대가 동료임을 말한 우구스는 쿠스키가 조르하나 고블린에게 무언가를 당한 것은 아닐까 생각하며 쿠스키를 데리러 가자고 제안하는 것이었다.
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,覇空戦争時代に作られた<br>非人道的兵器の研究を<br>現在も続ける者達、か……,패공전쟁시대에 만들어진 비인도적 병기의 연구를 현재도 지속하고 있는 자들이라...
+Japanese,scene_evt210129_cp4_q2_s10,detail,비,<span class='scene-font-spword'>星の民</span>がもう一度空の世界を<br>支配しようとやってくるかも……<br>ってのは、わからなくもねぇけど……,"<span class='scene-font-spword'>별의 민족</span>이 다시 한 번 하늘의 세계를 지배하려고 할지도 모른다라, 뭐 이해는 가는데..."
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,戦後、空の民からも忌避され<br>放浪者となったジョルハは、それ故に<br>自分達の掲げる正義に固執している。,"전후, 하늘의 민족들에게서 배척당하며 방랑자가 된 조르하는 그 때문인지 자신들이 표방하는 정의에 고착하고 있다."
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,青願堂のジョルハは生物の加工、<br>もしくは生物から取り出した<br>魔力の加工を専門としていたようだ。,"청원당의 조르하는 생물의 가공, 또는 생물에게서 뽑아낸 마력의 가공이 전문 분야라는 듯하다."
+Japanese,scene_evt210129_cp4_q2_s10,detail,루리아,生物の……,생물의...
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,そこの娘……シンシャ、だったか。<br>歩行もままならないのは<br>そのせいか。,거기 여자... 신샤라고 했나. 제대로 걷지 못하는 것은 그 때문인가?
+Japanese,scene_evt210129_cp4_q2_s10,detail,신샤,……はい。<br>あの、でもネクタルが<br>私に義手や義足をくれたから……,"...네. 아, 하지만 넥타르가 저한테 의수랑 의족을 만들어 줘서... "
+Japanese,scene_evt210129_cp4_q2_s10,detail,,<span class='scene-font-katari'>少しだけ、見せるのは怖い。</span><br><span class='scene-font-katari'>でもこれは、ネクタルが私を</span><br><span class='scene-font-katari'>救ってくれた証拠でもあるから。</span>,<span class='scene-font-katari'>보여주는 건 조금 무서워. 하지만 이건 넥타르가 나를 구해줬다는 증거이기도 하니까. </span>
+Japanese,scene_evt210129_cp4_q2_s10,detail,신샤,腕だけじゃなくて、<br>色々なところを<br>ネクタルが助けてくれたんです。,팔뿐만 아니라 여러 가지로 넥타르에게 도움받았어요. 
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,これ……は……,이건...
+Japanese,scene_evt210129_cp4_q2_s10,detail,루리아,色々なところ、って……,여러 가지라니...
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,ネクタル……<br>随分と事情に詳しいようだが、<br>……貴様もジョルハの一員か？,넥타르. 여러 사정에 꽤 밝은 모양이다만... 너도 조르하의 일원인가?
+Japanese,scene_evt210129_cp4_q2_s10,detail,쿠시나,…………！！,…………！！
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,クシナ。誤認も致し方ない。,"쿠시나, 오해받는다 해도 어쩔 수 없다."
+Japanese,scene_evt210129_cp4_q2_s10,detail,루리아,あの……ネクタルさんも、<br>ジョルハの人達に実験……<br>されてたんじゃ……？,저기... 넥타르 씨도 조르하 사람들한테 실험... 당하신 거 아닌가요?
+Japanese,scene_evt210129_cp4_q2_s10,detail,루리아,ネクタルさんから星晶獣の気配を<br>感じるんですけど、とっても薄くて。<br>だから……,넥타르 씨에게서 성정수의 기운이 느껴지긴 하는데... 엄청 희미하거든요. 그래서...
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,気配が薄いのも道理。<br>ネクタルは星晶獣の成り損ないで、<br>ジョルハの研究素材だ。,"기운이 희미할 수밖에. 넥타르는 성정수가 되지 못한 실패작으로, 조르하의 연구소재다."
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,ちがうー！<br>そざい『だった』の！<br>いまはちがうー！,"아니야! 소재""였던"" 거지! 지금은 아냐!"
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,みんなでとーげんきょーいく！<br>もーせーがんどーもないし！！,다 함께 도원향 갈 거야! 이제 청원당도 없으니까!
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,待て！ 青願堂が無い、<br>とはどういうことだ？,잠깐! 청원당이 없다니 무슨 소리냐!
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,んーとねー、なんか、<br>ギャッギャッ！ ってゆーのが<br>せーがんどーもやした。,"음... 그게, 뭐지? 갸아갸아! 하는 게 청원당 불태웠어."
+Japanese,scene_evt210129_cp4_q2_s10,detail,비,ギャッギャッ……,갸아갸아... 
+Japanese,scene_evt210129_cp4_q2_s10,detail,비,……ってそりゃゴブリンじゃねぇか！？,...그거 고블린 아냐!?
+Japanese,scene_evt210129_cp4_q2_s10,detail,쿠시나,…………？,…………？
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,貴様ら、ゴブリンを知らないのか？<br>……いや、初めて外に出たのなら<br>それも当然だな。,"너희들, 고블린을 모르는 건가? ...아니지, 처음으로 밖에 나온 거라면 그게 당연하겠군."
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,青願堂を燃やしたということは<br>ジョルハとゴブリンは<br>敵対しているというわけか。,청원당을 불태웠다는 말은 조르하와 고블린이 서로 적대하고 있다는 뜻인가. 
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,ネクタルが青願堂に設置した<br>分け身から、<br>断片的な情報は得ている。,넥타르가 청원당에 설치한 분신에게서 단편적인 정보를 얻고 있다.
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,貴公らがゴブリンと呼ぶ種族は<br>ジョルハの祖が生み出した<br>戦術兵器だったようだ。,귀공들이 고블린이라고 부르는 종족은 조르하의 선조가 만들어낸 전술병기였던 듯하다. 
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,兵器……だと！？<br>あの悪鬼共を<span class='scene-font-spword'>星の民</span>ですらなく<br>空の民が生み出したというのか！？,병기라고...? 그 악귀들을 만들어낸 게 <span class='scene-font-spword'>별의 민족</span>이 아닌 하늘의 민족이라는 거냐!?
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,覇空戦争の時代には、<br>今のジョルハ以上の所業であっても<br>非道とは見做されなかった。,패공전쟁이 벌어졌던 시대에는 지금의 조르하가 하는 짓보다 더한 짓도 비인간적 행위로 간주되지 않았다. 
+Japanese,scene_evt210129_cp4_q2_s10,detail,루리아,ひどい……戦争、だったんですね……,엄청난 전쟁... 이었던 거군요...
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,ゴブリン？ がニンゲンキライも<br>しかたないかなーって<br>ウグスおもう。,우구스는 고블린? 이 인간 싫어한다고 해도 어쩔 수 없다고 생각해.
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,ウグスもじっけんキライー……<br>ジョルハもキライ。,우구스도 실험 싫어. 조르하도 싫어.
+Japanese,scene_evt210129_cp4_q2_s10,detail,신샤,ウグス……,우구스...
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,あ！ でもウグスは<br>ニンゲンキライちがうよ！？<br>シンシャもニンゲンだし！,"아, 그치만 우구스는 인간이 싫은 거 아냐! 신샤도 인간이니까!"
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,ニンゲンもー、マモノもー <br>なんでもそー！<br>いいやつとわるいやついる！,인간이든 마물이든 뭐든 그래! 좋은 녀석 있고 나쁜 녀석 있어!
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,シンシャもネクタルもクシナもー<br>……あとあと、クスキも！<br>いーやつ！ だとおもう……,신샤도 넥타르도 쿠시나도... 그리고 그리고 쿠스키도! 좋은 녀석이야! 라고 생각해...
+Japanese,scene_evt210129_cp4_q2_s10,detail,신샤,クスキ……<br>なにがあったのかな。<br>私達に攻撃するなんて……,쿠스키... 무슨 일이 있었떤 걸까. 우리를 공격하다니...
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,クスキというのは<br>貴様らを追っていた狼か。,쿠스키라는 건 너희들을 쫓아오던 늑대 말이냐.
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,ああ。潜伏形態は小柄な姿で<br>潜入や偵察を行い、<br>戦闘形態は貴公も目にした通りだ。,"그래. 잠복형태일 때는 작은 몸집으로 잠입이나 정찰을 수행하고, 전투형태일 때는 귀공들이 본 대로다."
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,青願堂の所持する実験体の中では<br>完成度が高いと<br>見做されていたようだった。,청원당이 소지한 실험체들 중에는 완성도가 높은 편이라고 간주되었던 듯하다.
+Japanese,scene_evt210129_cp4_q2_s10,detail,쿠시나,…………,…………
+Japanese,scene_evt210129_cp4_q2_s10,detail,신샤,そうだね……青願堂が襲われた時に、<br>ジョルハのひとに何かされたのかも……,그래... 청원당이 습격당했을 때 조르하 사람한테 무슨 짓을 당한 걸지도...
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,あるいは、ゴブリンかもしれん。,아니면 고블린일지도 모른다.
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,そこの鳥が言っていたように、<br>ゴブリンにもニンゲンに<br>友好的な者はいた。,"거기 새가 말했던 것처럼, 고블린 중에도 인간에게 우호적인 자가 있었다. "
+Japanese,scene_evt210129_cp4_q2_s10,detail,루리아,ミニゴブちゃんですね！,미니고브쨩 말이군요!
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,ああ。奴がゴブリン達に<br>攫われた際、一時的に<br>様子がおかしくなっていただろう。,그래. 녀석이 고블린들에게 잡혀갔을 때 일시적으로 상태가 이상해진 적이 있었지? 
+Japanese,scene_evt210129_cp4_q2_s10,detail,비,あっ！ そういやそうだな……<br>クスキって奴もミニゴブみたいに<br>ゴブリンに何かされちまったのかも……,아! 그러고 보니 그렇네... 쿠스키란 녀석도 미니고브처럼 고블린한테 무슨 짓을 당한 걸지도...
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,そーだよ！ どっちかがやった！<br>クスキはいーやつだから！<br>シンシャにケガさせよーとしないから！,그래! 누가 무슨 짓 한 거야! 쿠스키는 좋은 녀석이니까! 신샤를 다치게 할 리 없으니까!
+Japanese,scene_evt210129_cp4_q2_s10,detail,우구스,ネクタル、クスキむかえにいこー？<br>とーげんきょーは<br>みんなでいくでしょ！,"넥타르, 쿠스키 데리러 가자. 도원향은 다 함께 가는 거잖아!"
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,…………,…………
+Japanese,scene_evt210129_cp4_q2_s10,detail,비,もしクスキって奴を迎えに行くなら<br>オイラ達もある意味ありがてぇよな、<br>[플레이어]？,"혹시 쿠스키란 녀석을 데리러 가려는 거라면 우리로선 고마운 일이겠는걸, 그치?"
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,青願堂の位置を我々は知らん。<br>場所を教えて貰うのでも構わんが、<br>案内がいるならばそれが最善だな。,"우리는 청원당의 위치를 모른다. 장소를 가르쳐 주기만 해도 된다만, 안내인이 있다면 그게 최선이겠지."
+Japanese,scene_evt210129_cp4_q2_s10,detail,루시우스,どうだ？,어떤가?
+Japanese,scene_evt210129_cp4_q2_s10,detail,넥타르,それは……,그건...
+Japanese,scene_evt210129_cp4_q3_s10,synopsis,,ルリアの提案で、今後のことを決める前に休息を取ることにした一行。ルリアはシンシャ達が安心できるようにもてなし、美味しいお茶やお菓子、暖かな寝床にウグス達は喜ぶ。シンシャ達が休んだ後、ネクタルは一行にシンシャ達を保護してくれた礼を述べ、青願堂への案内を買って出るのだった。,"루리아의 제안으로 향후를 결정하기 전 휴식을 취하기로 한 일행. 루리아는 신샤가 안심할 수 있도록 대접하며 맛있는 차와 과자, 따뜻한 잠자리에 우구스는 기뻐한다. 신샤가 잠든 후 넥타르는 일행에게 자신들을 보호해 준 감사의 인사를 전하고 청원당으로 안내를 자청하는 것이었다."
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,あ、あのっ！ これからのことを<br>早く決めなくちゃいけないのは<br>そうなんですけど……！,"저, 저기! 물론 지금부터 어떻게 할지도 빨리 정해야만 하겠지만요...!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,まずはルシウスさんもネクタルさん達も<br>体を温めた方がいいと思います！<br>雪を落としただけじゃダメですよ！,우선은 루시우스 씨랑 넥타르 씨 일행의 몸을 녹이는 게 좋을 거 같아요! 그냥 눈을 털어내기만 하는 걸로는 부족해요!
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,あっ！ そうだな！？<br>悪ぃ、この島のこと全然知らねぇから<br>つい話し込んじまって。,"아! 그러게! 미안해, 이 섬에 대해서 전혀 몰라서 계속 이야기하고 있었네."
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,ルシウスのためにお湯も<br>沸かしてあるしな！<br>タライに入れて足湯したらどうだ？,루시우스 쓰라고 뜨거운 물 데워 놨거든! 양동이에 넣어서 족욕이라도 하면 어떨까?
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,[플레이어]、<br>私、お茶を淹れてきますね！,"[플레이어], 저는 차 끓여 올게요!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>手伝うよ、と言って</span><br><span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>私と一緒に台所へ。</span>,<span class='scene-font-katari'>그 사람은 도와줄까? 라고 물으며 저와 함께 부엌으로 왔어요.</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>ポットにお茶の葉とお湯を注いで</span><br><span class='scene-font-katari'>お茶ができるのを待ちながら、</span><br><span class='scene-font-katari'>私は棚のお菓子を手に取りました。</span>,"<span class='scene-font-katari'>티팟에 찻잎과 뜨거운 물을 부은 후, 차가 우러날 때까지 기다리며 저는 찬장에 있던 과자를 꺼냈어요. </span>"
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,これがいいかな……<br>ふぇ？ [플레이어]なんでしょう？,이게 좋으려나...? 어? [플레이어] 왜 그래요?
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,とっておきじゃないの、ですか？,아껴둔 거 아니냐고요?
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,えへへ、とっておきだから<br>シンシャさん達に食べてほしくて。,"에헤헤, 아껴뒀던 거니까 신샤 씨랑 여러분이 드셨으면 해서요."
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,お話を聞いてたら……<br>カタリナに会う前のことを<br>思い出しちゃったんです。,이야기를 듣고 있으니 카타리나와 만나기 전이 떠오르더라고요.
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,ひとりぼっちで、暗くて寂しくて……<br>でも私はあそこが暗いことも、<br>寂しいって気持ちも知らなかった。,"혼자 어두운 곳에서 외롭게... 그치만 저는 거기가 어둡다는 사실도, 외롭다는 감정도 몰랐어요."
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,カタリナが私を外に出してくれて、<br>[플레이어]に出会えて……<br>たくさん素敵なことを知りました。,"카타리나가 저를 밖으로 꺼내 주고, 당신과 만나서.. 세상에 멋진 일이 많다는 사실을 알았죠."
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,だから、シンシャさん達にも<br>素敵なものがいっぱいあるよって<br>伝えたくなっちゃったんです。,그러니까 신샤 씨와 친구들한테도 이 세상에 멋진 게 잔뜩 있다는 걸 전해주고 싶어졌어요.
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,美味しいものは、<br>ほとんどの人が美味しいって<br>思えるから丁度いいかなって！,대부분의 사람들이 맛있는 건 맛있다고 느낄 수 있으니까 마침 좋을 것 같아서요!
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>[플레이어]は優しく微笑んで、</span><br><span class='scene-font-katari'>一番綺麗なカップに</span><br><span class='scene-font-katari'>紅茶を注いでくれました。</span>,<span class='scene-font-katari'>[플레이어]은 부드러운 미소를 지으며 가장 예쁜 컵에 홍차를 따라 주었어요.</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>悲しいこと、辛いこと、苦しいこと。</span><br><span class='scene-font-katari'>たくさんあったし、</span><br><span class='scene-font-katari'>きっとこれからもあるけれど。</span>,"<span class='scene-font-katari'>슬픈 일, 힘든 일, 괴로운 일들은 지금까지도 잔뜩 있었고 앞으로도 계속 있겠지만,</span>"
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>それだけじゃない、ってことが</span><br><span class='scene-font-katari'>きっと大切なんだと思うんです。</span>,<span class='scene-font-katari'>그것뿐만이 아니라는 게 분명 중요한 점일 거예요.</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,<span class='scene-font-4'>もがー！！</span>,<span class='scene-font-4'>푸하!!</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,쿠시나,…………,…………
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,ウグス、ウグス！<br>お行儀よく、ね？<br>ルリアさんにもお礼を言わなくちゃ。,"우구스, 우구스! 예의바르게 굴어야지? 루리아 씨랑 다른 분들한테 감사하다고 말하고."
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,もぐもぐ……ごくっ……,우물우물... 꿀꺽.
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,はーい！<br>ありがとールリア、おいしー！,"네에~ 고마워! 루리아, 맛있어!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,えへへ、どういたしまして。<br>気に入ってもらえて<br>良かったです！,에헤헤... 별 말씀을요. 마음에 드셨다니 다행이에요!
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,まだありますから<br>シンシャさん達も<br>遠慮しないでくださいね。,아직 많으니까 신샤 씨랑 다른 분들도 사양 말고 드세요.
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,ありがとうございます、ルリアさん。<br>それに[플레이어]さんも<br>こんなに親切にしていただいて……,"고맙습니다, 루리아 씨. 그리고 [플레이어]님도 이렇게 친절하게 대해 주시다니..."
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,まっ、[플레이어]は<br>変わった連中には慣れてるからな！,"뭐, [플레이어]은 특이한 녀석들과 어울리는 데 익숙하거든!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,島を出るなら騎空艇が要るだろ？<br>依頼が終わったら近くの島まで<br>一緒に行こうぜ。,섬을 떠날 거면 기공정 필요하지? 의뢰 끝나면 우리 근처 섬까지 데려다 줄게.
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,案内するしないはともかく、<br>ここでゆっくりしてってくれよな！<br>なんせ外は吹雪だしさ。,"안내해 주든 못 해주든, 일단은 여기서 푹 쉬어! 바깥에는 눈보라가 몰아치니까."
+Japanese,scene_evt210129_cp4_q3_s10,detail,쿠시나,…………,…………
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,クシナもありがとーって！,쿠시나도 고맙대!
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,……クシナ、どーして<br>じぶんでいわない？,"...쿠시나, 왜 직접 말하지 않는 거야?"
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,ウグス。クシナはネクタル達と<br>会話をする際は、シンシャの魔力を<br>介した感応を利用している。,우구스. 쿠시나는 우리와 이야기할 때 신샤의 마력을 매개로 한 감응을 이용하고 있다.
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,クシナの喉はヒトの言語を<br>発声することに向いていない。,쿠시나의 성대는 인간의 언어를 발음하는 데 적합하지 않으니까.
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,えー！ しらなかった！,그래? 몰랐어!
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,ウグスにはクシナの<br>お喋りのしかたが<br>当たり前だったもんね。,우구스는 쿠시나가 그런 식으로 말하는 게 당연했을 테니까.
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,ねー！,맞아!
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,ふふ……,후후...
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>外の世界には味方もいるって、</span><br><span class='scene-font-katari'>上手く伝えられたかは</span><br><span class='scene-font-katari'>わからないけれど……</span>,<span class='scene-font-katari'>바깥 세상에도 아군이 있다는 걸 제대로 전할 수 있었는지는 모르겠지만...</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>シンシャさんやクシナさんの</span><br><span class='scene-font-katari'>緊張が少し緩んだみたいで、</span><br><span class='scene-font-katari'>私はなんだかほっとしました。</span>,<span class='scene-font-katari'>신샤 씨나 쿠시나 씨의 긴장이 좀 풀린 것 같아서 저도 마음이 놓였답니다. </span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,皆さんはこのお部屋を<br>使ってください。<br>もし足りないものとかあったら……,여러분은 이 방을 쓰시면 돼요. 혹시 뭐 필요하신 게 있으면...
+Japanese,scene_evt210129_cp4_q3_s10,detail,쿠시나,…………！,…………！
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,<span class='scene-font-4'>なんだこれ！？</span><br><span class='scene-font-4'>すごい！ フカフカ！</span>,<span class='scene-font-4'>이거 뭐야? 우와! 푹신푹신!</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,もしかして……<br>ウ、ウグスだめだよ……！<br>おふとんの上で跳ねちゃ……！,"혹시... 우, 우구스, 그러면 안 돼! 침대 위에서 뛰다니..."
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,ウグス、こちらへ。,"우구스, 이리 와."
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,はっ……！ わかった！<br>こいつ、<br>フカフカのおーさまか！？,앗... 알았어! 이건 푹신푹신 왕인 거지?
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,いや、ただのベッドだけど……,"아니, 그냥 침대인데..."
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,ビィ、ウグスをだまそーったって<br>そーはいかない！ べっどはかたい！<br>しゅじゅつとかするときつかう！,"비, 우구스를 속이려도 해도 소용없어! 침대는 딱딱한 거야! 수술할 때 쓰는 거라구!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,いや寝るためのベッドだぜ！？,"아니, 잘 때 쓰는 거잖아?!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,つーかこれで毛布足りるか？<br>寒いしもう一枚要るかもなぁ。,그런데 이불은 이거면 충분하려나? 추우니까 한 장 더 있어야 할지도.
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,<span class='scene-font-4'>もーいちまい！？</span><br>さらにフカフカする！？<br>うそでしょ！？,<span class='scene-font-4'>한 장 더?</span> 더 푹신푹신해져? 진짜?
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,ふかふかなのは枕もなんですよ！<br>これを使えば<br>ぐっすり眠れるんです！,베개도 푹신푹신해요! 이걸 쓰면 푹 잘 수 있을 거예요!
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,わかった……<br>ウグス、もうねてる……！<br>ゆめみてるとこだ……！！,알았어... 우구스는 이미 잠든 거야... 꿈을 꾸고 있는 거야...!
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,ウグス。ウグスは起きている。<br>夢見心地かもしれないが。,"우구스, 우구스는 깨어 있다. 꿈처럼 느껴질지도 모르겠다만."
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,ゆめではなく……おいしーもの、<br>フカフカのおーさまあって……<br>みんなやさしい……,꿈이 아니라니... 맛있는 거에 푹신푹신 왕님도 있고 다들 친절한데...
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,<span class='scene-font-4'>グランサイファー</span><br><span class='scene-font-4'>とーげんきょーでは！？</span>,<span class='scene-font-4'>그랑사이퍼는 도원향인 거야!?</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,いや、グランサイファーは<br>騎空艇だぜ。,아니? 그랑사이퍼는 기공정인데.
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,<span class='scene-font-4'>ふむー！？</span>,<span class='scene-font-4'>음!?</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,비,つーか、とーげんきょー？<br>ってなんだ？,그보다 도원향? 이 뭔데?
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,とーげんきょーはねー！<br>あったかくてーおいしーものあって、<br>いたいもくるしーもないとこ！,"도원향은 말이지! 따듯하고 맛있는 것도 많고, 아프지도 않고 괴롭지도 않은 곳이야!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,ええと……すっごく素敵な場所、<br>って意味……でいいですかね？,어... 엄청 멋진 곳.... 이라는 의미인 건가요?
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,そう！ それ！！<br>ウグスたちはみんなで<br>とーげんきょーいく！,맞아! 그래! 우구스네는 다 같이 도원향에 갈 거야!
+Japanese,scene_evt210129_cp4_q3_s10,detail,쿠시나,…………,…………
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,そとでられたから！<br>とーげんきょーもいける！<br>ゆめはかなう、かなうぞー！,"밖으로 나왔으니까! 도원향에도 갈 수 있어! 꿈이 이뤄질 거야, 이뤄지는 거야!"
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,そうだね……もしかしたら、<br>本当に……,그러게... 어쩌면 진짜로...
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,…………,…………
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,シンシャ。[플레이어]殿達の<br>気遣いに従い、休んでください。,"신샤, 단장 공의 배려를 받아들여 쉬시죠."
+Japanese,scene_evt210129_cp4_q3_s10,detail,쿠시나,…………！,…………！
+Japanese,scene_evt210129_cp4_q3_s10,detail,우구스,そーだねー、いろいろあったし！<br>むりすると、またシンシャ<br>ねつでるかもだから！,맞아! 많은 일이 있었으니까! 혹시 무리하면 또 열 오를지도 몰라!
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,シンシャさん、こっちへどうぞ！<br>ええと、枕が向こうなので、<br>そう！ そうやって体を倒して……,"신샤 씨, 이리 오세요! 어... 베개는 이 쪽이니까요... 그래요! 그렇게 몸을 눕히고..."
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>シンシャさんをクシナさんと一緒に</span><br><span class='scene-font-katari'>お布団へ案内して、私も今日は</span><br><span class='scene-font-katari'>シンシャさん達と同じ部屋で眠ります。</span>,"<span class='scene-font-katari'>신샤 씨와 쿠시나 씨 일행을 침대로 안내해드린 후, 저도 오늘은 같은 방에서 자기로 했어요.</span>"
+Japanese,scene_evt210129_cp4_q3_s10,detail,,<span class='scene-font-katari'>大変な目にあった皆さんが、</span><br><span class='scene-font-katari'>いい夢を見られますように……</span>,<span class='scene-font-katari'>힘든 일을 겪은 여러분이 좋은 꿈을 꾸었으면 좋겠어요...</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,루리아,すー……すー……,쿨... 쿨...
+Japanese,scene_evt210129_cp4_q3_s10,detail,신샤,……くぅ……,쿠울...
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,[플레이어]殿、ルシウス殿。<br>まずはシンシャの保護に<br>お礼申し上げる。,"[플레이어] 공, 루시우스 공. 우선 신샤를 보호해 준 것에 감사한다."
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,青願堂へはこのネクタルが<br>クシナ、ウグスと共に<br>方々をお連れする。,"청원당에는 이 넥타르가 쿠시나, 우구스와 함께 동행하도록 하겠다."
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,シンシャは<br>この艇へ残すということか？,신샤는 이 배에 남기고 가겠다는 건가?
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,はい。<br>[플레이어]殿が<br>それで構わなければ。,"그래, [플레이어] 공이 그래도 상관없다면."
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,シンシャは雪の中を行軍するには<br>体調が不安なので。,신샤는 눈 속을 걷기에는 몸 상태가 불안하다.
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,それはそうだな。<br>……短期間で随分と信頼されたな、<br>[플레이어]？,"그건 그렇지. ...단기간에 꽤나 신뢰받게 된 모양인데, [플레이어]?"
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,それで、お前の方はどうだ。<br>留守中に騎空艇が奪われるという<br>可能性もなくはないが。,그럼 네 쪽은 어쩔 거지. 자리를 비운 사이 기공정이 습격당할 가능성도 없지는 않다만.
+Japanese,scene_evt210129_cp4_q3_s10,sel1_txt,,<span class='scene-font-katari'>シンシャをひとりには出来ない</span>,<span class='scene-font-katari'>신샤를 혼자 둘 수는 없어</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,いずれにせよシンシャには<br>世話をする者が必要、だと？<br>……それは、そうだな。,뭐가 됐든 신샤를 돌봐줄 사람이 필요하다는 건가? ...그것도 그렇군.
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,歩くことは出来るようだが<br>長い距離は不可能。魔力で感知が<br>出来るとしても目は見えない……,"걸을 수는 있는 모양이다만 멀리 갈 수는 없고, 마력으로 탐지가 가능하다고는 하나 눈은 보이지 않고... "
+Japanese,scene_evt210129_cp4_q3_s10,sel1_txt,,<span class='scene-font-katari'>ルリアに一緒にいてもらおう</span>,<span class='scene-font-katari'>루리아랑 같이 있으면 돼</span>
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,騎空艇の番も兼ねて、<br>ルリアに<br>留守番を頼むつもり、か……,기공정 당번을 겸해 루리아를 남겨둘 생각인 건가...
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,[플레이어]がそう言うなら<br>俺に否はない。<br>妥当な落としどころだろう。,[플레이어]이 그렇게 말한다면 나는 반대하지 않겠다. 타당한 제안인 것 같군.
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,[플레이어]殿、<br>シンシャへの気遣いに感謝する。<br>吹雪が弱まり次第、出立としよう。,"[플레이어] 공, 신샤를 신경써 줘서 고맙다. 눈보라가 약해지면 바로 떠나도록 하지."
+Japanese,scene_evt210129_cp4_q3_s10,detail,넥타르,青願堂にはネクタルの分け身が<br>幾つか残されている。<br>迷うことはない。,청원당에는 넥타르의 분신이 몇 개 남아있다. 헤맬 일은 없을 거다.
+Japanese,scene_evt210129_cp4_q3_s10,detail,루시우스,<span class='scene-font-kokoro'>（待っていろ、悪鬼共……！</span><br><span class='scene-font-kokoro'>その尾を必ず掴んでやる……！）</span>,"<span class='scene-font-kokoro'>(기다려라, 악귀 녀석들... 그 꼬리를 반드시 잡아채 주마...!)</span>"
+Japanese,scene_evt210129_cp4_q4_s10,synopsis,,青願堂を制圧したゴブリンプリンセスは、先代ゴブリンキングのために空の世界を手中に収めるべく次の手を進めていた。魔力を無尽蔵に汲み出すことができるというシンシャを攫ってくるようクスキに命じ、クスキは粛々とその命に従う様子を見せるのだった。,청원당을 제압한 고블린 프린세스는 선대 고블린 킹을 위해 하늘 세상을 손에 넣기 위한 수를 진행하고 있었다. 마력을 무궁무진하게 퍼낼 수 있다는 신샤를 잡아오라고 명령바은 쿠스키는 숙연하게 그 명령을 따르는 모습을 보였다.
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>むかし、むかし……いいえ、</span><br><span class='scene-font-katari'>ワラワにとってはつい先日のよう。</span>,"<span class='scene-font-katari'>옛날 옛날, 아니. 내게 있어선 얼마 되지 않은 것처럼 느껴지는군.</span>"
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>メネア皇国の虐げられし御子は</span><br><span class='scene-font-katari'>ゴブリンの王として『王冠』を戴き</span><br><span class='scene-font-katari'>華々しく世界へと宣戦布告された。</span>,"<span class='scene-font-katari'>메네아 황국의 학대받던 황자는 고블린의 왕으로서 ""왕관""을 쓰고 세상을 향해 화려하게 선전포고했다. </span>"
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>嗚呼、勇壮なる我らが王！</span><br><span class='scene-font-katari'>ワラワが命を捧げるに相応しき御方！</span><br><span class='scene-font-katari'>空の世界を手中に収めるべき至尊の君！</span>,"<span class='scene-font-katari'>아아, 용맹한 우리의 왕이여! 내 목숨을 바치기에 합당한 분이여! 하늘의 세계를 그 손에 넣어 마땅한 지존이시여!</span>"
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>ヒトに敗れようとも誇り高く、</span><br><span class='scene-font-katari'>自決を選ばれたあの方に</span><br><span class='scene-font-katari'>ワラワは『王冠』を託された。</span>,"<span class='scene-font-katari'>인간에게 패배하고도 고고하게 자결을 선택한 그 분에게서 나는 ""왕관""을 불려받았다. </span>"
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>ワラワは残されたゴブリン達と共に</span><br><span class='scene-font-katari'>新たなる王を選んだ……</span><br><span class='scene-font-katari'>不敗の王、進撃の将となる者を。</span>,"<span class='scene-font-katari'>나는 남겨진 고블린들과 함께 새로운 왕을 선택했다... 불패의 왕, 진격의 장수가 될 자를.</span>"
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>けれどワラワの最愛は永遠にあの御方。</span><br><span class='scene-font-katari'>ニンゲンの世をゴブリンの世に変えるは</span><br><span class='scene-font-katari'>あの御方に捧げるため！</span>,<span class='scene-font-katari'>허나 나의 사랑은 영원히 그 분이다. 인간의 세계를 고블린의 세계로 바꾸려는 것은 그 분에게 바치기 위해서다!</span>
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,そのために、『王冠』の情報を葬り去り<br>意趣返しにあのニンゲン達が作った<br>玩具を使ってはみたけれど……,"그걸 위해 ""왕관""의 정보를 묻어버리고, 보복삼아 그 인간들이 만든 완구를 써 보긴 했다만..."
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,ジョルハも被造物も質が落ちたものね。<br>尻尾を巻いて逃げ帰ってくるだなんて。,조르하나 그 피조물이나 질이 떨어지는구나. 꼬리를 말고 도망칠 만도 해. 
+Japanese,scene_evt210129_cp4_q4_s10,detail,쿠스키,モウシワケ……アリマセン。<br>アルジ。,죄송... 합니다. 주인님.
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,あのニンゲンの娘、<br>無尽蔵に魔力を汲み出すことが<br>出来るのならワラワ達にも有用だわ。,"그 인간 여자아이, 무진장의 마력을 퍼올릴 수 있다고 하던데. 그렇다면 우리에게도 유용하겠어."
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,お前と共に、<br>壊れるまでは使ってあげる。<br>早く持って帰っておいでなさい。,너와 함께 망가질 때까지 사용해 주마. 어서 데리고 오너라.
+Japanese,scene_evt210129_cp4_q4_s10,detail,쿠스키,アリガタキ、シアワセ……,그저 감사할... 따름입니다...
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,ジョルハの始祖が作った『王冠』には<br>それまでの所有者の技能や知識が<br>蓄積されると言うけれど……,"조르하의 시조가 만든 ""왕관""에는 지금까지의 소유자가 보유한 기능과 지식이 축적된다고 하지만..."
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,やはり、ワラワ達の王が<br>特別だったのでしょうね。,역시 우리 왕이 특별했던 거겠지. 
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,それ故にワラワ達は<br>新たな種族へと<br>進化することが叶った……！,그렇기에 우리는 새로운 종족으로 진화할 수 있었어...! 
+Japanese,scene_evt210129_cp4_q4_s10,detail,고블린 병사,ワレラノ王！<br>ゴブリンキングバンザイ！！,우리의 왕! 고블린 킹 만세!
+Japanese,scene_evt210129_cp4_q4_s10,detail,고블린 병사들,<span class='scene-font-4'>バンザーイ！！ バンザーイ！！</span>,<span class='scene-font-4'>만세! 만세!</span>
+Japanese,scene_evt210129_cp4_q4_s10,detail,<span class='scene-font-2'>고블린 프린세스</span>,<span class='scene-font-2'>……万歳……</span>,<span class='scene-font-2'>...만세...</span>
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>この命尽きるまで、</span><br><span class='scene-font-katari'>ワラワはアナタの遺した</span><br><span class='scene-font-katari'>愛し子達のため力を振るいます。</span>,<span class='scene-font-katari'>이 목숨이 다할 때까지 나는 당신이 남긴 사랑스런 아이들을 위해 힘을 발휘할 것입니다.</span>
+Japanese,scene_evt210129_cp4_q4_s10,detail,,<span class='scene-font-katari'>だから今しばらくお待ちくださいませ。</span><br><span class='scene-font-katari'>必ず勝利のご報告を差し上げ、以後</span><br><span class='scene-font-katari'>永久に御身のお世話をいたします……</span>,<span class='scene-font-katari'>그러니 조금만 더 기다려 주세요. 반드시 승리한 후 영원히 당신을 섬기도록 하겠습니다...</span>

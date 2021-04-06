@@ -1,0 +1,295 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp22_q1_s10,2211",synopsis,,"星晶獣セレストを呼び寄せたと告白する少女は,自らが幽霊であることを明かし,<span>[플레이어]</span>たちにこの島を去るように迫る。星晶獣の影響でこの島を離れることのできない一行と,幽霊船のお宝を求めるスツルム＆ドランクは,情報を得るため逃げる少女を必死に追うのだった。",성정수 셀레스트를 불러들였다고 고백하는 소녀는 스스로 유령임을 밝히고 <span>[플레이어]</span>들에게 이 섬을 떠나라고 강요한다.성정수의 영향으로 이 섬을 떠날 수 없는 일행과 유령선 보물을 구하는 스툴름&드렁크는 정보를 얻기 위해 도망치는 소녀를 필사적으로 쫓는 것이었다.
+Japanese,"scene_cp22_q1_s10,2211",detail,,"<span class='scene-font-katari'>館の前に佇む少女は,</span><br><span class='scene-font-katari'>自らが星晶獣セレストを</span><br><span class='scene-font-katari'>呼び寄せたと告白する。</span>",<span class = 'scene-font-katari'> 관 앞에 자리 잡은 소녀는 </ span> <br> <span class = 'scene-font-katari'> 스스로가 성정수 셀레스트 </ span> <br> <span class = 'scene-font-katari'> 초청했다고 고백한다. </ span>
+Japanese,"scene_cp22_q1_s10,2211",detail,,"<span class='scene-font-katari'>しかし,それ以上を語ることはなく,</span><br><span class='scene-font-katari'>[플레이어]一行に,</span><br><span class='scene-font-katari'>この場を去るよう迫るのだった。</span>",<span class = 'scene-font-katari'> 그러나 그 이상을 말하는 것은 아니라 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행 </ span > <br> <span class = 'scene-font-katari'>이 자리를 떠나도록 강요했다. </ span>
+Japanese,"scene_cp22_q1_s10,2211",detail,???,聞こえなかったのか?<br>ここを去れと私は言ったんだ。,못 들었어?<br>여기를 떠나라고 난 말했다구.
+Japanese,"scene_cp22_q1_s10,2211",detail,카타리나,"いや,しかし……<br>私達にも事情があってだな……","아니, 하지만……<br>우리에게도 사정이 있어서……"
+Japanese,"scene_cp22_q1_s10,2211",detail,카타리나,"君が呼び寄せたという星晶獣……<br>セレストのおかげで私達の騎空艇が,<br>この島から飛び立てないんだ。",네가 불러들였다는 성정수……<br> 셀레스트 덕분에 우리 기공정이 <br> 이 섬에서 날아오르지 못한단 말이야.
+Japanese,"scene_cp22_q1_s10,2211",detail,???,"知ったことか……<br>お前達が勝手に来て,<br>勝手に捕まったんだろ?",아시다니……<br>너희가 마음대로 오고<br>멋대로 잡혔지?
+Japanese,"scene_cp22_q1_s10,2211",detail,드랑크,"はいはいはーい!<br>それじゃ,セレストのお宝伝説について<br>教えてもらってもいいですかね!","네네네!<br>그럼, 셀레스트의 보물전설에 대해<br>알려줘도 될까요!"
+Japanese,"scene_cp22_q1_s10,2211",detail,???,お宝……?<br>聞いたこともないな。,보물……?<br>들어본적도 없네.
+Japanese,"scene_cp22_q1_s10,2211",detail,슈투름,それは困る……<br>ここまで足を運んでおいて<br>収穫無しというわけにはいかない。,그것은 곤란하다……<br>여기까지 발길을 옮겨 놓고<br>수확이 없다고는 할 수 없다.
+Japanese,"scene_cp22_q1_s10,2211",detail,???,"困る,なら……どうするんだ?","곤란해, 그렇다면……어쩌지?"
+Japanese,"scene_cp22_q1_s10,2211",detail,슈투름,"決まってる……<br>余裕ぶっていられるのも,<br>いまのうちだぞ……!!","정해져 있어……<br>여유부리는 척 할 수 있는 것도,<br>지금 집이야……!!"
+Japanese,"scene_cp22_q1_s10,2211",detail,드랑크,わぁぁ! ちょっとスツルム殿!?<br>刃物は止めようよぉ! ね?<br>相手はただの子供だよ?,와! 약간 스툴룸도노!?칼은 그만넣자! 그치? <br> 상대는 그냥 어린애일뿐이야?
+Japanese,"scene_cp22_q1_s10,2211",detail,???,"はん……<br>刃物などで,<br>私を傷つけることは出来ない……","한……<br>칼등으로,<br>나를 다치게 할 수는 없어……"
+Japanese,"scene_cp22_q1_s10,2211",detail,???,"なにせ私も例に漏れず,<br>実体というものを持たないからな……!","아무튼 나도 예외없이,<br>실체라는 것은 가지고 있지 않으니까……!"
+Japanese,"scene_cp22_q1_s10,2211",detail,슈투름,"幽霊か……<br>ちっ,面倒な……","유령인가……<br>쳇, 귀찮아……"
+Japanese,"scene_cp22_q1_s10,2211",detail,루리아,"あ,あの!<br>私からも,その……いいですか?","아, 저기요! <br> 나도, 그... 괜찮나요?"
+Japanese,"scene_cp22_q1_s10,2211",detail,???,なんだ……?,뭐야……?
+Japanese,"scene_cp22_q1_s10,2211",detail,루리아,"あの……貴女はどうして,<br>星晶獣セレストを呼び寄せたんですか?",저기... 귀하께서는 왜 <br> 성정수 셀레스트를 부르셨습니까?
+Japanese,"scene_cp22_q1_s10,2211",detail,???,……っ!?<br>それを知ってどうする?,……앗!?<br>그걸 알아서 뭐할까?
+Japanese,"scene_cp22_q1_s10,2211",detail,루리아,"どうもしません……ただ知りたいんです。<br>どうして貴女が,<br>そんなに寂しそうな目をしてるのか。",어떻게 안해요.... 그냥 알고 싶어요.<br>왜 너가 <br> 그렇게 외로운 눈빛을 하고있는걸까?
+Japanese,"scene_cp22_q1_s10,2211",detail,???,"ふん……<br>その答えが知りたければ,<br>私を捕まえてみろ。",흠…<br>그 답이 궁금하면 <br>날 잡아봐라.
+Japanese,"scene_cp22_q1_s10,2211",detail,???,"もちろん……私も,<br>ただ逃げるつもりはないがな。","물론……나도,<br>단지 도망칠 생각은 없지만."
+Japanese,"scene_cp22_q1_s10,2211",detail,비,"魔物が一斉にこっちに……!?<br>あの嬢ちゃん,<br>まさか魔物を従えてるのか!?","마물이 일제히 이쪽으로....!?<br>그 아가씨,<br>설마 마물을 거느리고 있는건가!?"
+Japanese,"scene_cp22_q1_s10,2211",detail,카타리나,どうあれいまは彼女を追おう!<br>いくぞ! [플레이어]!,어떻든 지금은 그녀를 쫓자!<br>간다! [플레이어]
+Japanese,"scene_cp22_q1_s20,2212",synopsis,,"必死に少女を追いかける<span>[플레이어]</span>たちは,やがて少女の悲しい過去を知ることとなる。しかし少女は魔物をけしかけ,再び一行の前から姿を消すのだった。","필사적으로 소녀를 뒤쫓는 <span>[플레이어]</span>들은, 곧 소녀의 슬픈 과거를 알게 된다.그러나 소녀는 마물을 걷어차고 다시 일행 앞에서 사라지는 것이었다."
+Japanese,"scene_cp22_q1_s20,2212",detail,루리아,"待ってくださーい!<br>私,絶対に諦めませんからねー!",기다려주세요!<br>나 절대 포기하지 않을꺼예요!
+Japanese,"scene_cp22_q1_s20,2212",detail,???,ちっ……<br>しつこい連中だ……!,쳇……<br>끈질긴 자들이다……!
+Japanese,"scene_cp22_q1_s20,2212",detail,이오,"どうやったらこの島から,<br>出られるのか教えなさいよー!","어떻게 하면 이 섬에서,<br>나갈 수 있는지 가르쳐 줘요!"
+Japanese,"scene_cp22_q1_s20,2212",detail,드랑크,"じゃ,ついでに,<br>セレストのお宝伝説についても……",그럼 내친김에 <br> 셀레스트의 보물전설에 대해서도……
+Japanese,"scene_cp22_q1_s20,2212",detail,???,"ええい,うるさい! 黙れ!<br>お前らが知って何になる!?",에이 시끄러워! 입 닥쳐!<br>너희들이 알아서 뭐가 되겠어!?
+Japanese,"scene_cp22_q1_s20,2212",detail,???,"誰がどうしようと,<br>私の妹はもう……!!","누가 어떻게 하든, <br> 내 여동생은 이제...!!"
+Japanese,"scene_cp22_q1_s20,2212",detail,로제타,"あら,貴女,妹さんがいたのね。<br>さぞや可愛い子なんじゃない?","어머, 당신, 여동생이 있었군요. <br> 필시 귀여운 아이였지?"
+Japanese,"scene_cp22_q1_s20,2212",detail,???,"ああ……自慢の妹だ。<br>とはいえもう,私より年上だろう……<br>もし生きていれば……な。","아아……자랑하는 여동생이다.<br>라고는 해도 이미, 나보다 연상일거야……<br>만약 살아있다면……말야."
+Japanese,"scene_cp22_q1_s20,2212",detail,카타리나,"もし生きていれば……?<br>あやふやな言い方だが,<br>それはいったい……?","만약 살아있다면……?애매모호한 말투지만,<br>그건 도대체……?"
+Japanese,"scene_cp22_q1_s20,2212",detail,???,"ふん……<br>私の事に気を取られる前に,<br>自分の心配をしたらどうだ?",흠…<br>나에 정신 팔리기 전에 <br>자기 걱정을 하는게 어때?
+Japanese,"scene_cp22_q1_s20,2212",detail,???,"今度の魔物は,<br>そう簡単にやられはしないぞ!",이번 마물은 <br> 그렇게 쉽게 당하지는 않을거야!
+Japanese,"scene_cp22_q2_s10,2221",synopsis,,"霧の中,姿をくらませた少女を見失う<span>[플레이어]</span>たち。しかし,どこからか情報を得たドランクの助言により,少女の思い入れのある崖の存在を知る。",안개 속 사라진 소녀를 잃어버리는 <span> [플레이어] </span>들.하지만 어디선가 정보를 얻은 드렁크의 조언에 따라 소녀의 의미 있는 절벽의 존재를 알게 된다.
+Japanese,"scene_cp22_q2_s10,2221",detail,비,"くそぅ! 見失ったぜ!<br>あんにゃろう,どこ行ったんだ?","큰일났다! 잃어버렸다구! 안뇽로, 어디간거야?"
+Japanese,"scene_cp22_q2_s10,2221",detail,카타리나,"土地勘がないせいもあるが……<br>霧でこうも視界が悪いと,<br>あの子を探すのも一苦労だな。","토지 감각이 없는 탓도 있지만……<br>안개 때문에 이렇게 시야가 나쁘면,<br>저 아이 찾는 것도 상당한 고생이네."
+Japanese,"scene_cp22_q2_s10,2221",detail,로제타,"ましてやあの子は,<br>この村の子供だものね……<br>かくれんぼじゃ勝ち目はないわ。",하물며 저 애는 <br> 이 마을 아이니까……<br> 숨바꼭질로는 승산이 없어.
+Japanese,"scene_cp22_q2_s10,2221",detail,이오,"どうする?<br>闇雲に探したって,<br>見つかりっこないと思うけど……","어떻게 하지?<br>갑자기 찾아봤자,<br>찾을 리가 없다고 생각하지만……"
+Japanese,"scene_cp22_q2_s10,2221",detail,드랑크,"んー? そうだなぁ～<br>適当に探してれば,<br>そのうち見つかるんじゃないの～?","응? 그렇네~<br>적당히 찾다보면,<br>그러다가 발견되는거 아냐~?"
+Japanese,"scene_cp22_q2_s10,2221",detail,드랑크,ほら!<br>そこの茂みとか怪しくない?<br>どう? 何かいそう?,자!<br>거기의 수풀이라던지 수상하지 않니?<br> 어때? 뭐가 있을 것 같아?
+Japanese,"scene_cp22_q2_s10,2221",detail,슈투름,いいから黙って探せ……,괜찮으니까 잠자코 찾아라……
+Japanese,"scene_cp22_q2_s10,2221",detail,슈투름,あのガキ……<br>幽霊だろうと何だろうと<br>知ったことか……目にモノ見せてやる。,저 꼬맹이……<br>유령일 거라고<br>알게 뭐야……눈으로 물건을 보여줄게
+Japanese,"scene_cp22_q2_s10,2221",detail,비,"やれやれ……<br>結局,地道に探し続けるしかねーのか?","맙소사……<br>결국, 착실하게 계속 찾을 수 밖에 없는 건가?"
+Japanese,"scene_cp22_q2_s10,2221",detail,드랑크,"そうそう! そういえば,<br>あの子の行きそうな場所,<br>教えてもらってたんだよねぇ～!","맞아맞아! 그러고보니,<br>그 애가 갈것 같은 장소<br>알려줬었지!"
+Japanese,"scene_cp22_q2_s10,2221",detail,드랑크,"ほら,見える?<br>あの崖はあの子にとって,<br>思い入れがあるみたいで……痛てッ!?","저기, 보여?<br>저 벼랑은 저애에게 있어서,<br>관념이 있는것 같아서……아파!?"
+Japanese,"scene_cp22_q2_s10,2221",detail,슈투름,"いつもいつも……<br>どうして,そういう大事な情報を,<br>先に言わないんだ……!?","언제나 언제나……<br> 어째서, 그러한 중요한 정보를,<br>먼저 말하지 않는거야……?!"
+Japanese,"scene_cp22_q2_s10,2221",detail,드랑크,"痛ってぇ!?<br>待って! 待ってスツルム殿!!<br>僕,なんで刺されてるの!?",아프다고!?<br>기다려! 스툴름전!!<br>나 왜 찔려!?
+Japanese,"scene_cp22_q2_s10,2221",detail,드랑크,割と褒められること<br>したと思うんだけど……痛って!?,비교적 칭찬받았던 것<br>한 것 같은데……아프다니!?
+Japanese,"scene_cp22_q2_s10,2221",detail,슈투름,言うのが遅いんだ! 毎回毎回!,말이 느리구나! 매회 매회!
+Japanese,"scene_cp22_q2_s10,2221",detail,비,"よっしゃ!<br>とにかくこれで,<br>あの子を探す目星がついたな!",앗싸!<br>어쨌든 이제 <br>저 아이를 찾는다는 생각이 드네!
+Japanese,"scene_cp22_q2_s10,2221",detail,루리아,"あの子の目,<br>すごく寂しそうな色をしてました……","그 아이의 눈,<br>굉장히 쓸쓸해 보이는 색을 띄고있었습니다."
+Japanese,"scene_cp22_q2_s10,2221",detail,루리아,きっと何かあるんだと思います……<br>行きましょう! [플레이어]!<br>あの子のことをもっと知るために!,분명 뭔가 있을거라 생각해요. 갑시다! [플레이어]!<br>그 아이를 더 알기 위해서!
+Japanese,"scene_cp22_q2_s20,2222",synopsis,,"少女の元にたどり着いた<span>[플레이어]</span>たちに,観念したように打ち明けられたのは悲しい過去。不治の病を患った妹との別れ……そして,流行り病によってひとり残された少女のたった一つの願いが,星晶獣セレストを呼び寄せたのだと,少女は語るのだった。","소녀에게 도착한 <span>[플레이어]</span>들에게, 관념한 것처럼 털어놓을 수 있었던 것은 슬픈 과거.불치병을 앓은 여동생과의 이별……그리고 유행병에 의해 홀로 남겨진 소녀의 단 하나의 소원이 성 정수 셀레스트를 불러모은 것이라고 소녀는 말하는 것이었다."
+Japanese,"scene_cp22_q2_s20,2222",detail,???,まさかここまで来るとは……<br>どうしてこの場所を?,설마 여기까지 올 줄이야……<br> 어째서 이곳을?
+Japanese,"scene_cp22_q2_s20,2222",detail,드랑크,んっふー!<br>ちょぉっと特別な情報網があってねぇ!,음후!<br> 좀 특별한 정보망이 있어!
+Japanese,"scene_cp22_q2_s20,2222",detail,???,お前……? どこかで……?,너……? 어디선가……?
+Japanese,"scene_cp22_q2_s20,2222",detail,루리아,"教えてください!<br>貴女は……妹さんのために,<br>セレストを呼び寄せたんですか?",알려주세요!<br>당신은...여동생분을 위해서<br>셀레스트님을 부른건가요?
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"妹は……不治の病を患っていた。<br>治療するためには,<br>この島を出なくてはならなかったが……",여동생은 ……불치의 병을 앓고 있었다.치료하기 위해서는 이 섬을 나가야 했는데....
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"当時の騎空艇の技術は,<br>本当,可笑しいくらい未熟で……<br>無事に航行出来るかは五分五分だった。","당시의 기공정의 기술은,<br>정말 이상할 정도로 미숙해서……<br>무사히 항행할 수 있을지는 반반이었다."
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"それでもあの子は行くしかなかった。<br>だから,あの子はこの島を出て<br>……それっきりだ。","그래도 걔는 갈 수밖에 없었어<br>그러니까, 그 아이는 이 섬을 떠나<br>…그것 뿐이다."
+Japanese,"scene_cp22_q2_s20,2222",detail,카타리나,"じゃあ,君は<br>その妹さんを甦らせるために,<br>セレストを……","그럼, 너는<br>그 여동생을 되살리기 위해,<br>셀레스트를……"
+Japanese,"scene_cp22_q2_s20,2222",detail,???,はん……そんなわけないだろ。<br>あの子ならきっと生きてる。<br>あの子がそう簡単に死ぬわけがあるか。,한…그럴 리가 없잖아.<br>그 아이라면 분명 살아있을거야.<br> 그애가 그렇게 쉽게 죽을리가 있나?
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"身体は弱かったけど,<br>私よりも肝の据わった子だった……<br>何があっても,あの子なら生きてるよ。","몸은 약했지만, <br> 나보다 담대한 아이였어……<br>무슨 일이 있어도, 그 아이라면 살아있어."
+Japanese,"scene_cp22_q2_s20,2222",detail,이오,"じゃ,じゃあなんで!?<br>なんでアンタは,<br>星晶獣を呼んだりなんて……","그럼 왜!?<br> 왜 너는,<br>성정수를 부르거나……."
+Japanese,"scene_cp22_q2_s20,2222",detail,???,それはもっとありふれた理由だ……<br>本当に……<br>なんてことない願いだったんだ……,그건 더 흔한 이유야 ....<br> 정말로 ....<br>따위 없는 소원이었어 ......
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"なぁ……家族に<br>また名前を呼んでほしいというのは,<br>そんなに贅沢な願いだと思うか?",야……가족들에게<br>또이름을불러달라는건<br>그렇게호사스러운소망이라고생각하냐?
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"私が望んだたった一言は,<br>こんなにも<br>許されないものだったのかな……","내가 바랬던 단 한마디는,<br>이렇게도<br>용서받지못한것이었을까......"
+Japanese,"scene_cp22_q2_s20,2222",detail,로제타,"家族に……?<br>それじゃあ,貴女……<br>貴女の家族は……","가족에게……?<br>그럼, 당신……<br>당신의 가족은……"
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"死んだよ,全員,流行り病で……<br>私を残して,眠るように死んでいった。","죽었어. 전원, 유행병이라....<br>나를 남겨두고, 자듯이 죽어갔어."
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"そして,私自身も<br>流行り病に蝕まれながら,願ったんだ。<br>また家族に名前を呼んでほしいって……","그리고 나 자신도 <br>유행병에 좀먹으며, 바랬다.<br>또 가족들에게 이름을 불러달라고……"
+Japanese,"scene_cp22_q2_s20,2222",detail,???,そうしてあいつが……<br>セレストが現れたんだ。,그렇게 해서 그 녀석이…<br>셀레스트가 나타났지.
+Japanese,"scene_cp22_q2_s20,2222",detail,비,"で,でもよぅ……<br>村の人が言ってた<br>セレストの能力じゃ……","그래서, 그래도……<br>마을 사람이 말했던<br>셀레스트의 능력으로는……"
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"そうだ……<br>セレストには死を奪う力はあっても,<br>生を与える力はない。","그렇다……<br>셀레스트에게는 죽음을 빼앗는 힘은 있어도,<br>생을 줄 힘은 없다."
+Japanese,"scene_cp22_q2_s20,2222",detail,???,だから結局……<br>私の家族は甦らなかった……<br>だから私は……ひとりぼっちなんだ。,그러니까 결국...<br> 나의 가족은 되살아나지 않았다……<br>그래서 나는……외톨이야.
+Japanese,"scene_cp22_q2_s20,2222",detail,루리아,そんな……そんなこと……!,그런.... 그런 것....!
+Japanese,"scene_cp22_q2_s20,2222",detail,???,"さぁ,昔話はお終いだ。<br>ここから先の相手は,<br>私のとっておきの魔物だ……覚悟しろ!","자, 옛날이야기는 끝장이야.지금부터의 상대는,<br>나의 소중한 마물이다……각오하라!"
+Japanese,"scene_cp22_q3_s10,2231",synopsis,,"放っておいてほしいと言う少女のために,一行とドランクたちは星晶獣に立ち向かう事を決意する。しかし少女は,再び<span>[플레이어]</span>たちの元から逃げ出してしまうのだった。","내버려 두라는 소녀를 위해 일행과 드렁크들은 성정수에게 맞서기로 결심한다.그러나 소녀는, 다시<span>[플레이어]</span>들의 곁에서 도망쳐 버리는 것이었다."
+Japanese,"scene_cp22_q3_s10,2231",detail,???,"ぜぇ……はぁ……<br>お,お前ら,いい加減にしろよ!<br>私は全て話したはずだぞ!","......하아……<br>오, 너희들, 적당히 해!<br>난 다 말했을거야!"
+Japanese,"scene_cp22_q3_s10,2231",detail,???,"セレストの財宝については,<br>本当に知らない!",셀레스트의재보에대해서는<br>정말몰라!
+Japanese,"scene_cp22_q3_s10,2231",detail,???,"この島から出たいのなら,<br>セレストにそう伝えておく!<br>だからもう私を放っておいてくれ!",이 섬에서 나가고 싶다면 <br> 셀레스트에게 그렇게 전해줘! <br> 그러니까 이제 날 내버려둬!
+Japanese,"scene_cp22_q3_s10,2231",detail,루리아,出来ません! そんなの!<br>だって貴女は私達に<br>話してくれたじゃないですか!,할 수 없어요! 그런거! <br> 왜냐면 당신은 우리에게 <br> 말해줬잖아요!
+Japanese,"scene_cp22_q3_s10,2231",detail,루리아,"妹さんのこと……家族のこと……<br>なのに放っておくなんて,<br>私にはもう出来ません!","여동생을...가족의 일...<br>인데 내버려두다니,<br>난 이제 못하겠어요!"
+Japanese,"scene_cp22_q3_s10,2231",detail,드랑크,"ま,乗りかかった船ってやつだねぇ～<br>このまま帰るっていうのも,<br>後味悪いし～","뭐, 새로 시작한 배라는 놈이군~<br>이대로 돌아간다고 해도, 뒷맛이 안좋고~"
+Japanese,"scene_cp22_q3_s10,2231",detail,슈투름,"馬鹿馬鹿しい……<br>あたしはこんな面倒なガキに,<br>これ以上付き合いきれないぞ……","어처구니없다....<br>나는 이런 귀찮은 꼬마를,<br>더이상 사귈수가 없어......."
+Japanese,"scene_cp22_q3_s10,2231",detail,드랑크,"って言うくせに,<br>ここを離れようとしないんだから,<br>ホント素直じゃな……痛ってぇ!?","라고 말하는 주제에,<br>여기를 떠나려고 하지 않으니까,<br>정말 솔직하지마……아파!?"
+Japanese,"scene_cp22_q3_s10,2231",detail,???,面倒な奴らだ……!<br>後悔しても知らないぞ……!!,귀찮은 녀석들이다...! 후회해도 몰라...!!
+Japanese,"scene_cp22_q3_s10,2231",detail,비,くっ……<br>また魔物をけしかけてきやがった!<br>[플레이어]! あの子を追うぞ!,큭……<br>또 마물을 부추겨 왔다!<br>[플레이어]! 쟤 쫓아가!
+Japanese,"scene_cp22_q3_s20,2232",synopsis,,"一行は少女を孤独から救うため,必死に後を追うのだった。",일행은 소녀를 고독에서 구하기 위해 필사적으로 뒤를 쫓는 것이었다.
+Japanese,"scene_cp22_q3_s20,2232",detail,카타리나,"くっ,見失ったか……!<br>今度はいったいどこを探せば……","이크, 잃어버렸나……!<br>이번엔 대체 어디를 찾아야...."
+Japanese,"scene_cp22_q3_s20,2232",detail,로제타,"探すまでもないんじゃない?<br>ほら,あれ……","찾을 것도 없지 않아?<br>이봐, 저거……"
+Japanese,"scene_cp22_q3_s20,2232",detail,이오,魔物達が……<br>明らかに何かを守ってるわね。,마물들이....<br>분명히 무언가를 지키고 있군.
+Japanese,"scene_cp22_q3_s20,2232",detail,로제타,"ふふふ……そういうこと。<br>魔物達はあの子と,<br>よほど仲が良いみたいね。","후후……그런거야.<br>마물들은 그애랑,<br>상당히 사이가 좋은가봐."
+Japanese,"scene_cp22_q3_s20,2232",detail,루리아,"ごめんなさい……<br>きっと魔物さん達は,<br>友達を守ろうとしてるんですよね。",미안해요....<br>틀림없이 마물상들은 <br>친구를 지키려고 하는 거겠죠.
+Japanese,"scene_cp22_q3_s20,2232",detail,루리아,"でも,あの子は,<br>おっきな勘違いをしてるから……<br>だから,それを教えてあげなくちゃ!","그렇지만, 저 아이는,<br>큰 착각을 하고 있으니까……<br>그러니까, 그것을 가르쳐 주지 않으면!"
+Japanese,"scene_cp22_q4_s10,2241",synopsis,,"何らかの情報を持つであろうドランクだったが,スツルムの問いをはぐらかし,多くを語ることはなかった。","어떠한 정보를 가질 만한 드렁크였지만, 스툴름의 물음을 얼버무려, 많은 것을 말할 것은 없었다."
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,"ドランク……<br>お前,何を知ってるんだ?",드렁크……<br>너 뭘 알아?
+Japanese,"scene_cp22_q4_s10,2241",detail,드랑크,ん～?<br>なんのことかなぁ?,응~?<br>무슨 말이지?
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,"はぐらかすな……<br>お前はあのガキの幽霊について,<br>何か知っているんだろう?",얼버무리지마……<br>넌 그 꼬마 유령에 대해<br>뭔가 알고 있지?
+Japanese,"scene_cp22_q4_s10,2241",detail,드랑크,あっらー! 気付いちゃった?<br>僕もまだまだ演技力が足りないなぁ!,아차! 눈치챘나?나도 아직 연기력이 부족해!
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,お前は……<br>ときどき何をしでかすかわからない。,너는…<br>가끔 무슨 짓을 저지를지 몰라.
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,"もし……もしもだ,<br>また何か危険な事をしようとしてるなら<br>あたしにも一言……","만약....만약 말이다,<br>또 뭔가 위험한 일을 하려고 한다면<br>나에게도 한마디...."
+Japanese,"scene_cp22_q4_s10,2241",detail,드랑크,大丈夫だって～!<br>今回はそんなつもりないからさぁ!,괜찮다니까~! 이번엔 그럴 생각이 없으니까!!
+Japanese,"scene_cp22_q4_s10,2241",detail,드랑크,危ない事は一切ナシ!<br>だから安心してよねぇ～!,위험한 일은 일절 없어!<br>그러니까 안심해~!
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,そうか……ならいい。,그런가……라면 좋다.
+Japanese,"scene_cp22_q4_s10,2241",detail,드랑크,"なになに～?<br>スツルム殿ったら,<br>もしかして僕のこと心配……痛って!?","뭐라고~?<br>s turm전은,<br>혹시 날 걱정...아파!?"
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,"お前の身の危険は,<br>あたしの身の危険でもある……<br>あたしはあたしが大事なだけだ。","너의 신변의 위험은,<br>나의 신변의 위험이기도 해……<br>나는 내가 소중할 뿐이다."
+Japanese,"scene_cp22_q4_s10,2241",detail,슈투름,いくぞ……<br>まだあいつらと一緒に行くんだろう。,간다……<br> 아직 그녀석들과 함께 가는거지?
+Japanese,"scene_cp22_q4_s10,2241",detail,드랑크,あ! 待って待ってスツルム殿!<br>置いてかないでよねぇ～!,아! 기다려 기다려 스츠름전! <br> 놓고 가지마!
+Japanese,"scene_cp22_q4_s20,2242",synopsis,,"星晶獣セレストを呼び寄せたことを悔やむ少女に,誰も恨んでなどいないと伝える<span>[플레이어]</span>たち。しかし,長い間孤独だった少女の心にその言葉は届くこと無く,少女は再び魔物を仕掛けるのだった。",성정수 셀레스트를 불러들인 것을 후회하는 소녀에게 아무도 원망하지 않겠다고 전하는 <span>[플레이어]</span>들.그러나 오랫동안 고독했던 소녀의 마음에 그 말이 닿지 않자 소녀는 다시 마물을 들이대는 것이었다.
+Japanese,"scene_cp22_q4_s20,2242",detail,루리아,ふふ……やっと見つけました。,후후.....겨우 찾았습니다.
+Japanese,"scene_cp22_q4_s20,2242",detail,???,"放っておいてくれ,と,<br>確かに言ったはずだ……","내버려둬, 라고,<br>분명히 말했을거야……"
+Japanese,"scene_cp22_q4_s20,2242",detail,루리아,"放っておけないし,<br>放っておきません……<br>誰も貴女をひとりになんてしません!","내버려 둘 수도 없고,<br>두지 않을 거예요……<br>아무도 당신을 혼자 두지 않을 거예요!"
+Japanese,"scene_cp22_q4_s20,2242",detail,???,"黙れ!!<br>私の家族は,私を残して,<br>みんな去ってしまった!","입닥쳐!!<br>나의 가족은, 나를 남겨두고,<br>모두 떠나버렸어!"
+Japanese,"scene_cp22_q4_s20,2242",detail,???,村人も<br>セレストを呼び寄せてしまった私を<br>疎ましく思ってることだろう……,마을사람도 <br> 셀레스트(셀레스트)를 불러당겨버린 나를 <br> 역겹게 생각하고있겠지……
+Japanese,"scene_cp22_q4_s20,2242",detail,???,"お前達だって!!<br>私がセレストを呼びさえしなければ,<br>島に閉じ込められることもなかった!",너희들이라고!!<br>내가 셀레스트들을 부르지만 않았다면 <br>섬에 갇히는 일도 없었다!
+Japanese,"scene_cp22_q4_s20,2242",detail,???,"願ってはいけなかったんだ……!!<br>もう一度,たった一度でいいから,<br>名前を呼んでほしいなどと……!!","바라지 말았어야 했어...!!<br>한번 더,<br>이름을 불러달라는 등...!!"
+Japanese,"scene_cp22_q4_s20,2242",detail,루리아,"違うよ……私達も,村の人達も……<br>誰も貴女を恨んだりしてない……<br>そうだよね? [플레이어]。","아니야……우리도, 마을사람들도……<br>아무도 너를 원망하지 않아……<br>그렇지? [플레이어]"
+Japanese,"scene_cp22_q4_s20,2242",detail,루리아,貴女はずっとずっと<br>ひとりぼっちなんかじゃないんだよ……<br>だから……!!,너는 계속<br>혼자인게 아니야....<br>이니까....!!
+Japanese,"scene_cp22_q4_s20,2242",detail,???,"う,うるさいうるさいうるさい!!<br>黙れぇぇぇッ!!",시끄러워 시끄러워 시끄러워!!<br>입 다물어라!!
+Japanese,"scene_cp22_q4_s20,2242",detail,비,"ッ!?<br>ま,また魔物が……!!","얍!?<br>마, 또 마물이……!!"
+Japanese,"scene_cp22_q4_s20,2242",detail,비,こいつぁ大物だ!<br>構えろ! [플레이어]!,이 녀석 월척이다!<br>자세워라! [플레이어]
+Japanese,"scene_cp22_q4_s30,2243",synopsis,,"百年もの間,誰にも呼ばれることのなかった名前を,少女は忘れてしまっていたが,ドランクにより「フェリ」と名付けられる。新たな名前を受け入れた少女は晴れやかな気持ちで,星晶獣セレストと決別し,村を解放する決意を固めるのだった。",소녀는 백년 동안 누구에게도 불리지 않은 이름을 잊어버렸다가 드렁크에 의해 '페리'라는 이름이 붙는다.새 이름을 받아들인 소녀는 맑은 마음으로 성정수 셀레스트와 결별하고 마을을 해방할 결의를 다지는 것이었다.
+Japanese,"scene_cp22_q4_s30,2243",detail,루리아,"これで,私達は貴女を<br>ひとりぼっちになんかしないって,<br>わかってくれましたか……?","이제, 우리들은 당신을<br>외톨이가 되지않는다고,<br>알아주었나요……?"
+Japanese,"scene_cp22_q4_s30,2243",detail,???,"それはわかった……<br>だが,村人達が私を恨んでいないとは,<br>とてもじゃないが……","그건 알겠다....<br>지만 마을사람들이 나를 원망하지 않고 있다니,<br>도저히 아니지만...."
+Japanese,"scene_cp22_q4_s30,2243",detail,루리아,"じゃあ,それは私達と一緒に,<br>確かめに行きましょう。<br>断る理由はありませんよね?",그럼 그건 우리랑 같이 <br> 확인하러 가요.굳이 거절할 이유가 없겠죠?
+Japanese,"scene_cp22_q4_s30,2243",detail,???,う……,우……
+Japanese,"scene_cp22_q4_s30,2243",detail,루리아,"ふふふ……それじゃ,<br>貴女の名前を<br>教えてもらってもいいですか?",후후.....그럼<br>당신의 이름을<br>알려주실수있나요?
+Japanese,"scene_cp22_q4_s30,2243",detail,???,"名前は……忘れてしまった。<br>この百年,<br>誰にも呼ばれることがなかったからな。","이름은…….잊어 버렸다.<br>지난 백년,<br>아무에게도 불려질 일이 없었으니까."
+Japanese,"scene_cp22_q4_s30,2243",detail,???,"それに家族が呼んでくれないのなら,<br>私に名前なんて必要ない……","게다가 가족이 불러주지 않는다면,<br>나에게 이름따윈 필요없어……"
+Japanese,"scene_cp22_q4_s30,2243",detail,루리아,"私は貴女の家族じゃないけど……<br>私は貴女の名前を呼びます。<br>だから,名前は必要なんです。","난 당신의 가족이 아니지만....<br>난 당신의 이름을 부르겠습니다.<br>이래서, 이름은 필요한거에요."
+Japanese,"scene_cp22_q4_s30,2243",detail,드랑크,"はいは～い! それならさぁ!<br>「フェリ」ちゃん,なんてのはどう?<br>可愛いと思うんだよねぇ～!",안녕! 그렇다면 말이야!<br><페리>양 어떤 거 어때?<br>귀엽다고 생각해~!
+Japanese,"scene_cp22_q4_s30,2243",detail,비,おいおい!<br>そんないきなり新しい名前を<br>提案されても……,어이 어이!<br>그렇게 갑자기 새로운 이름을<br>제안해도.......
+Japanese,"scene_cp22_q4_s30,2243",detail,???,"いや,いい……<br>何故だか妙に懐かしい……<br>[플레이어]はどう思う?","아니, 좋아……<br>왠지 묘하게 그리워……<br>[플레이어]는 어떻게 생각해?"
+Japanese,"scene_cp22_q4_s30,2243",sel1_txt,,<span class='scene-font-katari'>似合うと思う</span>,<span class = 'scene-font-katari'> 어울린다고 생각 </ span>
+Japanese,"scene_cp22_q4_s30,2243",sel2_txt,,<span class='scene-font-katari'>可愛い名前だ</span>,<span class = 'scene-font-katari'> 귀여운 이름이다 </ span>
+Japanese,"scene_cp22_q4_s30,2243",detail,???,ふふ……<br>[플레이어]もそう思ってくれるなら<br>何の不満もないな。,후후……<br>[플레이어]도 그렇게 생각해 준다면<br>아무 불만도 없겠네.
+Japanese,"scene_cp22_q4_s30,2243",detail,???,"か,可愛いか……<br>んん……いや,そうか,<br>いまの私は幼いままだったな。","귀여운가...<br>응...아니, 그렇구나,<br>지금의 나는 어린채로였구나."
+Japanese,"scene_cp22_q4_s30,2243",detail,フェリ,フェリ……悪くないな。<br>なんだか生まれ変わった気分だ。,필리... 나쁘지 않은데?왠지 새로 태어난 기분이야.
+Japanese,"scene_cp22_q4_s30,2243",detail,루리아,フェリちゃん!,페리짱!
+Japanese,"scene_cp22_q4_s30,2243",detail,フェリ,ん? なんだ?,어? 뭐야?
+Japanese,"scene_cp22_q4_s30,2243",detail,루리아,ふふふ……なんでもないです。<br>呼んだだけですよ。,후후…아무것도 아니에요.<br>불렀을 뿐입니다.
+Japanese,"scene_cp22_q4_s30,2243",detail,,"<span class='scene-font-katari'>新たな名前を受け入れた少女は,</span><br><span class='scene-font-katari'>晴れやかな顔で一同を見回す。</span>",<span class='scene-font-katari> 새로운 이름을 받아들인 소녀는 </span><br><span class='scene-font-katari>밝은 얼굴로 일동을 둘러본다.</span>
+Japanese,"scene_cp22_q4_s30,2243",detail,,"<span class='scene-font-katari'>そして,自らの責任を果たすべく,</span><br><span class='scene-font-katari'>少女は星晶獣セレストと決別し,</span><br><span class='scene-font-katari'>村を解放する決意を固めるのだった。</span>",<span class='scene-font-katari'그리고 스스로 책임을 다하도록</span><br><span class='scene-font-katari'>소녀는 별 정수 세레스토와 결별하고</span><br><span class='scene-font-katari'>마을을 해방할 결심을 굳히는 것이었다.</span>
+English,"scene_cp22_q1_s10,2211",synopsis,,"Stuck on the island due to Celeste's power, [플레이어] and the crew beg the girl for help. Meanwhile Drang and Sturm press for leads on the legendary treasure. The girl then reveals that she's a ghost and invites them all on a dangerous chase."
+English,"scene_cp22_q1_s10,2211",detail,,[플레이어] and the others stand before the mansion with a girl who claims that she summoned Celeste to the island.
+English,"scene_cp22_q1_s10,2211",detail,,"But she refuses to say anything more, urging them to retreat."
+English,"scene_cp22_q1_s10,2211",detail,???,Did you hear me? I told you to leave.
+English,"scene_cp22_q1_s10,2211",detail,Katalina,"But, you see, we sort of need your help..."
+English,"scene_cp22_q1_s10,2211",detail,Katalina,"You say you summoned Celeste, and now that primal beast is keeping our airship from leaving the island."
+English,"scene_cp22_q1_s10,2211",detail,???,"What's that have to do with me? You came here of your own accord, so it's your own fault."
+English,"scene_cp22_q1_s10,2211",detail,Drang,My turn! My turn! How about some details about Celeste's legendary treasure?
+English,"scene_cp22_q1_s10,2211",detail,???,Treasure? Never heard anything like that.
+English,"scene_cp22_q1_s10,2211",detail,Sturm,Now that's a problem. We didn't come this far to leave empty-handed.
+English,"scene_cp22_q1_s10,2211",detail,???,"A problem, huh? So what do you plan to do?"
+English,"scene_cp22_q1_s10,2211",detail,Sturm,There's only one thing to do... And that's to wipe that smirk off your face!
+English,"scene_cp22_q1_s10,2211",detail,Drang,"Whoa! Let's cool it, Sturm! Put that blade away, all right? She's just a kid after all!"
+English,"scene_cp22_q1_s10,2211",detail,???,Ha. You could never hurt me with a sword...
+English,"scene_cp22_q1_s10,2211",detail,???,"Like everything else on this island, I'm a bit supernatural!"
+English,"scene_cp22_q1_s10,2211",detail,Sturm,You're a ghost? Tch... What a disappointment.
+English,"scene_cp22_q1_s10,2211",detail,Lyria,"Well, actually.... can I ask you something really quick?"
+English,"scene_cp22_q1_s10,2211",detail,???,What is it?
+English,"scene_cp22_q1_s10,2211",detail,Lyria,"Well, why exactly did you summon Celeste in the first place?"
+English,"scene_cp22_q1_s10,2211",detail,???,...!<br>What's it to you?
+English,"scene_cp22_q1_s10,2211",detail,Lyria,"Nothing, I guess. I was just curious... about why you look so sad."
+English,"scene_cp22_q1_s10,2211",detail,???,"Humph! If you really want to know, then you'll have to catch me first."
+English,"scene_cp22_q1_s10,2211",detail,???,Of course... I won't make it easy for you!
+English,"scene_cp22_q1_s10,2211",detail,Vyrn,Monsters are headed this way! Is she really controlling them all?
+English,"scene_cp22_q1_s10,2211",detail,Katalina,"Either way, we've got to catch her! Let's go, [플레이어]!"
+English,"scene_cp22_q1_s20,2212",synopsis,,"While chasing after the girl, [플레이어] and the others hear a little about the girl's painful past. But before long, more monsters begin to attack."
+English,"scene_cp22_q1_s20,2212",detail,Lyria,"Please come back! If you don't, we'll never stop chasing you!"
+English,"scene_cp22_q1_s20,2212",detail,???,Tch... You guys just don't know when to give up!
+English,"scene_cp22_q1_s20,2212",detail,Io,How about you just tell us how to get off this island!
+English,"scene_cp22_q1_s20,2212",detail,Drang,"And while you're at it, maybe something about Celeste's treasure too..."
+English,"scene_cp22_q1_s20,2212",detail,???,"Oh, enough already! No more questions! Nothing would change even if you knew!"
+English,"scene_cp22_q1_s20,2212",detail,???,No one can do anything about her now. About my little sister...
+English,"scene_cp22_q1_s20,2212",detail,Rosetta,"Ah, so you have a sister? She must be as cute as you are!"
+English,"scene_cp22_q1_s20,2212",detail,???,Yes... A little sister anyone could be proud of. But she'd be older than me now... if she's still alive.
+English,"scene_cp22_q1_s20,2212",detail,Katalina,If she's still alive? That's a curious thing to say. What do you mean?
+English,"scene_cp22_q1_s20,2212",detail,???,Humph! How about worrying about yourselves first before getting carried away?
+English,"scene_cp22_q1_s20,2212",detail,???,You won't defeat my monsters so easily this time!
+English,"scene_cp22_q2_s10,2221",synopsis,,"[플레이어] and the others lose sight of the girl, but Drang offers a clue to finding her. He reveals that the cliff nearby is special to the girl."
+English,"scene_cp22_q2_s10,2221",detail,Vyrn,Oh no! We've lost her! Where could she have gone?
+English,"scene_cp22_q2_s10,2221",detail,Katalina,"With the thickness of this fog and walking unfamiliar territory, the search will be difficult."
+English,"scene_cp22_q2_s10,2221",detail,Rosetta,And we're in the middle of her turf. There's no way we'll win this game of hide and seek.
+English,"scene_cp22_q2_s10,2221",detail,Io,What should we do? We won't find her just walking around in the dark and the fog.
+English,"scene_cp22_q2_s10,2221",detail,Drang,"Hm... I've got an idea! If we stop for a minute and take a look around, we might just see her!"
+English,"scene_cp22_q2_s10,2221",detail,Drang,Look over there! Doesn't that bush seem out of place? What do you think? Is it worth a look?
+English,"scene_cp22_q2_s10,2221",detail,Sturm,We're looking so shut your trap already!
+English,"scene_cp22_q2_s10,2221",detail,Sturm,That kid—ghost or whatever she is—needs to learn a lesson...
+English,"scene_cp22_q2_s10,2221",detail,Vyrn,Oh boy... Is looking around the only thing we can do?
+English,"scene_cp22_q2_s10,2221",detail,Drang,That reminds me! I heard about a place where she likes to hang out!
+English,"scene_cp22_q2_s10,2221",detail,Drang,See that cliff there? I heard that place is pretty special to her and—ow!
+English,"scene_cp22_q2_s10,2221",detail,Sturm,Here we go again! Why didn't you say something earlier?
+English,"scene_cp22_q2_s10,2221",detail,Drang,"Ow! Wait! Wait a minute, Sturm! Why are you stabbing me this time?"
+English,"scene_cp22_q2_s10,2221",detail,Drang,I thought you'd pat me on the back for being so help—ow!
+English,"scene_cp22_q2_s10,2221",detail,Sturm,You keep things from me until the last minute! <span class='scene-font-italic'>Every</span> time!
+English,"scene_cp22_q2_s10,2221",detail,Vyrn,All right! At least we have a clue to finding her now!
+English,"scene_cp22_q2_s10,2221",detail,Lyria,That girl was hiding a deep sorrow in her eyes...
+English,"scene_cp22_q2_s10,2221",detail,Lyria,"So there must be a reason why. Let's go, [플레이어]! We'll find her and talk to her!"
+English,"scene_cp22_q2_s20,2222",synopsis,,[플레이어] and the others find the girl who then reveals her past. She says that her sister left the island to be treated for an incurable disease. Later she lost the rest of her family to sickness. She says Celeste was summoned in answer to her only wish.
+English,"scene_cp22_q2_s20,2222",detail,???,I never thought you'd find me here... How did you know about this place?
+English,"scene_cp22_q2_s20,2222",detail,Drang,"Heh-heh! I have my sources, you see!"
+English,"scene_cp22_q2_s20,2222",detail,???,Have we... met somewhere?
+English,"scene_cp22_q2_s20,2222",detail,Lyria,Please tell us! Did you summon Celeste for your little sister?
+English,"scene_cp22_q2_s20,2222",detail,???,My sister was suffering from an incurable disease. But the only way to get treatment was to leave the island...
+English,"scene_cp22_q2_s20,2222",detail,???,At that time airship technology was laughably primitive. It was a gamble as to whether or not you'd survive the trip.
+English,"scene_cp22_q2_s20,2222",detail,???,But it was my sister's only hope. So she left the island... and I haven't heard from her since.
+English,"scene_cp22_q2_s20,2222",detail,Katalina,So you called Celeste to bring your sister back to life?
+English,"scene_cp22_q2_s20,2222",detail,???,Ha! Of course not! I'm sure she's still alive. She'd never die that easily.
+English,"scene_cp22_q2_s20,2222",detail,???,"She might've been weak, but she was more stubborn than I am. She could endure anything."
+English,"scene_cp22_q2_s20,2222",detail,Io,So how'd it end up here? How did you summon a primal beast?
+English,"scene_cp22_q2_s20,2222",detail,???,It was just a stupid thing really... Just a silly wish...
+English,"scene_cp22_q2_s20,2222",detail,???,I just... I just wanted to hear my family call my name again. Is that such a bad thing?
+English,"scene_cp22_q2_s20,2222",detail,???,I didn't think that wanting to hear that one word would cause all this...
+English,"scene_cp22_q2_s20,2222",detail,Rosetta,"Family, you say? So... right now your family is where?"
+English,"scene_cp22_q2_s20,2222",detail,???,They're gone. All of them died in a plague... leaving me all alone.
+English,"scene_cp22_q2_s20,2222",detail,???,"So when I too became ill, I made a wish. A wish that I could hear my family call my name once again..."
+English,"scene_cp22_q2_s20,2222",detail,???,That's when Celeste appeared.
+English,"scene_cp22_q2_s20,2222",detail,Vyrn,"But according to the villagers, Celeste's powers don't work like that..."
+English,"scene_cp22_q2_s20,2222",detail,???,"They're right. Celeste has the power to steal death, but not to bring things back to life."
+English,"scene_cp22_q2_s20,2222",detail,???,So in the end I couldn't get my family back. And I've had to face my loneliness ever since.
+English,"scene_cp22_q2_s20,2222",detail,Lyria,That's... That's just awful...
+English,"scene_cp22_q2_s20,2222",detail,???,"It's the end of the story too! I've got my most prized monster here, so I hope you're ready!"
+English,"scene_cp22_q3_s10,2231",synopsis,,"The girls tells everyone to leave her alone, but [플레이어] and the others refuse, hoping to help her. She runs away and a new chase begins."
+English,"scene_cp22_q3_s10,2231",detail,???,<span class='scene-font-italic'>Pant... Pant...</span> Give up already! I've told you everything I know!
+English,"scene_cp22_q3_s10,2231",detail,???,I don't even know about any sort of treasure Celeste has!
+English,"scene_cp22_q3_s10,2231",detail,???,"If you want to get off this island, then I'll tell Celeste! So just leave me alone!"
+English,"scene_cp22_q3_s10,2231",detail,Lyria,No! We can't do that! Not after all you've told us!
+English,"scene_cp22_q3_s10,2231",detail,Lyria,About your little sister... About your family... We can't just leave you like this!
+English,"scene_cp22_q3_s10,2231",detail,Drang,We came this far after all! Leaving now would feel kind of pointless.
+English,"scene_cp22_q3_s10,2231",detail,Sturm,"This is silly... I, for one, have had enough of this annoying kid."
+English,"scene_cp22_q3_s10,2231",detail,Drang,"You say that, but I don't see you trying to leave! Just admit that you're—ow!"
+English,"scene_cp22_q3_s10,2231",detail,???,What a bunch of pests... Don't come crying to me when you get hurt!
+English,"scene_cp22_q3_s10,2231",detail,Vyrn,"Yikes! She sent monsters this way! [플레이어], we gotta follow that girl!"
+English,"scene_cp22_q3_s20,2232",synopsis,,"[플레이어] and the others continue chasing after the girl, hoping to rescue her from her loneliness."
+English,"scene_cp22_q3_s20,2232",detail,Katalina,We've lost her... Where should we look now?
+English,"scene_cp22_q3_s20,2232",detail,Rosetta,Seems we don't really need to look far! Just over there...
+English,"scene_cp22_q3_s20,2232",detail,Io,You can see the monsters are protecting something.
+English,"scene_cp22_q3_s20,2232",detail,Rosetta,Exactly. It's clear that she and the monsters get along pretty well.
+English,"scene_cp22_q3_s20,2232",detail,Lyria,I feel bad... Those monsters have just been trying to protect their friend the whole time.
+English,"scene_cp22_q3_s20,2232",detail,Lyria,But I think there's been a big misunderstanding with that girl! We need to talk to her!
+English,"scene_cp22_q4_s10,2241",synopsis,,"Sturm presses Drang about what he knows of the girl. He admits he knows something, but assures her that he hasn't planned anything dangerous."
+English,"scene_cp22_q4_s10,2241",detail,Sturm,"Drang, what do you know about all this?"
+English,"scene_cp22_q4_s10,2241",detail,Drang,Hm? About all what?
+English,"scene_cp22_q4_s10,2241",detail,Sturm,"Don't play dumb. You know something about this ghost girl, don't you?"
+English,"scene_cp22_q4_s10,2241",detail,Drang,Huh? You noticed! Looks like my acting needs a bit more practice!
+English,"scene_cp22_q4_s10,2241",detail,Sturm,Look... I can't really tell what you're up to sometimes.
+English,"scene_cp22_q4_s10,2241",detail,Sturm,"But maybe... Just maybe next time when you decide to do something dangerous, you'll tell me first."
+English,"scene_cp22_q4_s10,2241",detail,Drang,Don't you worry! I'm not planning on doing anything dangerous this time!
+English,"scene_cp22_q4_s10,2241",detail,Drang,There's absolutely <span class='scene-font-italic'>nothing</span> dangerous about it! You can rest easy!
+English,"scene_cp22_q4_s10,2241",detail,Sturm,Really? Okay then...
+English,"scene_cp22_q4_s10,2241",detail,Drang,"Don't tell me! You're still really worried about me, aren't you—ow!"
+English,"scene_cp22_q4_s10,2241",detail,Sturm,Whatever puts you in danger puts me in danger. I only care about myself!
+English,"scene_cp22_q4_s10,2241",detail,Sturm,"Now let's go. We're sticking with them a little longer, right?"
+English,"scene_cp22_q4_s10,2241",detail,Drang,"Hey! Wait up, Sturm! Don't leave me behind!"
+English,"scene_cp22_q4_s20,2242",synopsis,,The girl regrets summoning Celeste and believes everyone despises her for it. But Lyria assures her that no one hates her. The girl refuses to believe these words and sends more monsters to attack.
+English,"scene_cp22_q4_s20,2242",detail,Lyria,We finally found you!
+English,"scene_cp22_q4_s20,2242",detail,???,I'm pretty sure I told you to leave me alone...
+English,"scene_cp22_q4_s20,2242",detail,Lyria,We can't leave you alone and we won't. Nobody should be left on their own!
+English,"scene_cp22_q4_s20,2242",detail,???,Lies! My family abandoned me. Everyone disappeared!
+English,"scene_cp22_q4_s20,2242",detail,???,And even the villagers despise me because they think I summoned Celeste...
+English,"scene_cp22_q4_s20,2242",detail,???,"I bet you do too! If I hadn't summoned Celeste, you wouldn't be trapped on this island!"
+English,"scene_cp22_q4_s20,2242",detail,???,I should never have made that wish! But all I wanted was to hear someone speak my name once more...
+English,"scene_cp22_q4_s20,2242",detail,Lyria,"You're wrong though... No one hates you. Not us or the villagers. Isn't that right, [플레이어]?"
+English,"scene_cp22_q4_s20,2242",detail,Lyria,"All this time, you were never really alone. That's why—"
+English,"scene_cp22_q4_s20,2242",detail,???,"No! No, no, no! I've heard enough!"
+English,"scene_cp22_q4_s20,2242",detail,Vyrn,...!<br>More monsters?
+English,"scene_cp22_q4_s20,2242",detail,Vyrn,"And there's a big one up ahead! Get ready, [플레이어]!"
+English,"scene_cp22_q4_s30,2243",synopsis,,"The ghost girl admits to having forgotten her name long ago, so Drang suggests the name Ferry. She likes the name and resolves to rid the island of Celeste to free the village."
+English,"scene_cp22_q4_s30,2243",detail,Lyria,Do you finally understand now that we don't want to leave you all alone?
+English,"scene_cp22_q4_s30,2243",detail,???,I get it... But it's hard to believe that the villagers don't hate me.
+English,"scene_cp22_q4_s30,2243",detail,Lyria,"Then why don't you come with us and visit the village? There's no reason not to, right?"
+English,"scene_cp22_q4_s30,2243",detail,???,Well...
+English,"scene_cp22_q4_s30,2243",detail,Lyria,"Before we go, could you tell us your name?"
+English,"scene_cp22_q4_s30,2243",detail,???,My name? I don't remember... No one's used it for at least a hundred years.
+English,"scene_cp22_q4_s30,2243",detail,???,"And since I had no family, I figured I didn't need a name anymore..."
+English,"scene_cp22_q4_s30,2243",detail,Lyria,"I know I don't count as family, but I want to use your name! So now you'll need one!"
+English,"scene_cp22_q4_s30,2243",detail,Drang,"Oh, yeah! In that case, how about the name Ferry? I think it's cute!"
+English,"scene_cp22_q4_s30,2243",detail,Vyrn,Hold it there! You can't just give somebody a new name willy-nilly.
+English,"scene_cp22_q4_s30,2243",detail,???,"Wait. I like it... It feels strangely familiar for some reason. But what do you think, [플레이어]?"
+English,"scene_cp22_q4_s30,2243",sel1_txt,,It suits you!
+English,"scene_cp22_q4_s30,2243",sel2_txt,,It's a cute name!
+English,"scene_cp22_q4_s30,2243",detail,???,"Well, if you think it's good, [플레이어], then I've no complaints."
+English,"scene_cp22_q4_s30,2243",detail,???,"You think it's c-cute? Hm... I mean, you could say that. I still look like a kid and all..."
+English,"scene_cp22_q4_s30,2243",detail,Ferry,Ferry... It's not bad! I feel like I've been reborn!
+English,"scene_cp22_q4_s30,2243",detail,Lyria,"Oh, Ferry!"
+English,"scene_cp22_q4_s30,2243",detail,Ferry,Hm? What is it?
+English,"scene_cp22_q4_s30,2243",detail,Lyria,It's nothing! I was just trying out your name.
+English,"scene_cp22_q4_s30,2243",detail,,The girl is brimming with happiness about her new name as she looks around at everyone.
+English,"scene_cp22_q4_s30,2243",detail,,"With a desire to take responsibility for her mistake, Ferry resolves to rid the island of Celeste and free the village."

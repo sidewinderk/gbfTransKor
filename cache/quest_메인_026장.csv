@@ -1,0 +1,207 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp26_q1_s10,2611",synopsis,,"謎の少年を連れ去られ,困惑する<span>[플레이어]</span>一行。少年を帝国から助け出すため,一行は帝国の戦艦が停泊しているであろう港へと急ぐ。",의문의 소년을 납치당하고 당황하는 <span> [플레이어] </span> 한 줄.소년을 제국에서 구출하기 위해 일행은 제국의 전함이 정박해 있을 항구로 서두른다.
+Japanese,"scene_cp26_q1_s10,2611",detail,이오,"ど,どーしよー!?<br>あたし達,どうすればいいわけ!?<br>","어, 어떡해!?<br>우리, 어떻게 하면 좋은거야!?< br >"
+Japanese,"scene_cp26_q1_s10,2611",detail,,"<span class='scene-font-katari'>謎の少年を連れ去られ,</span><br><span class='scene-font-katari'>[플레이어]一行を取り巻く状況は</span><br><span class='scene-font-katari'>混迷を極めていた。</span><br>",<span class = 'scene-font-katari'> 수수께끼의 소년을 끌려 </ span> <br> <span class = 'scene-font-katari'> [플레이어] 일행을 둘러싼 상황은 </ span> <br> <span class = 'scene-font-katari'> 혼미를 지극히 있었다. </ span> <br>
+Japanese,"scene_cp26_q1_s10,2611",detail,오이겐,"油断してたぜ……<br>まさか無関係の奴を,<br>さらって行くたぁな……","방심하고 있었어……<br>설마 관계없는 녀석을,<br>채어 갔겠지……"
+Japanese,"scene_cp26_q1_s10,2611",detail,카타리나,"卑劣極まりないが,<br>私達には効果的な作戦だ……","비열하기 짝이 없지만,<br>우리에게는 효과적인 작전이다……"
+Japanese,"scene_cp26_q1_s10,2611",detail,카타리나,"無関係だからこそ,<br>巻き込んでしまった以上,<br>絶対に見捨てるわけにはいかないからな。",무관하기 때문에 <br> 말려들게 한 이상 <br> 절대로 버릴 수 없으니까.
+Japanese,"scene_cp26_q1_s10,2611",detail,라캄,グランサイファーが<br>このままじゃ島を出られないってのも<br>気になるぜ。,그랜사이퍼가<br>이대로는 섬을 나갈 수 없다는 것도<br>궁금해.
+Japanese,"scene_cp26_q1_s10,2611",detail,라캄,"それに,<br>あいつが言っていた,<br>約束っつーのもな……",게다가 <br> 그 녀석이 말했던 <br> 약속이라는 것도 말이지……
+Japanese,"scene_cp26_q1_s10,2611",detail,비,"となりゃあ,<br>帝国からあいつを,<br>取り戻すっきゃねーな!","그렇게 되면,<br>제국으로부터 그 녀석을,<br>되돌려주는거야!"
+Japanese,"scene_cp26_q1_s10,2611",detail,루리아,"あの人,私についても<br>何か知ってるみたいだったし……<br>早く助けに行きましょう!","저 사람, 나에 대해서도<br>뭔가 알고 있는 것 같던데……<br>빨리 도우러 갑시다!"
+Japanese,"scene_cp26_q1_s10,2611",detail,라캄,連中の居場所は……<br>おそらく例の戦艦か。<br>港へ急ぐぞ! [플레이어]!,그 사람들의 거처는……<br>아마도 예의 전함인가.항구로 서둘러라! [플레이어]!
+Japanese,"scene_cp26_q1_s20,2612",synopsis,,"帝国の者達が居るということは,オルキスもこの島に来ているのかもしれない,と期待するルリア。しかし,先ほど謎の少年を連れ去った場に黒騎士の姿がなかったことに疑念を抱く。",제국의 사람들이 있다는 것은 오르키스도 이 섬에 와 있을지도 모른다고 기대하는 루리아. 하지만 조금 전에 의문의 소년을 데리고 간 장소에 흑기사의 모습이 없었던 것에 의심이 든다.
+Japanese,"scene_cp26_q1_s20,2612",detail,루리아,はぁ……,하아……
+Japanese,"scene_cp26_q1_s20,2612",detail,카타리나,"どうした,ルリア?<br>緊張しているのか?",왜 루리아? 긴장되니?
+Japanese,"scene_cp26_q1_s20,2612",detail,루리아,"うん……帝国の人が来てるってことは,<br>もしかしたら,<br>オルキスちゃんも……","응……제국 사람이 와 있다는 것은, <br> 어쩌면, <br> 오르키스도……"
+Japanese,"scene_cp26_q1_s20,2612",detail,카타리나,それは……<br>確かにその可能性もあり得るな。,그건……<br>확실히 그럴 가능성도 없지.
+Japanese,"scene_cp26_q1_s20,2612",detail,카타리나,"しかし,先ほどの場に,<br>黒騎士が居なかったことが<br>気にかかる……",하지만 아까 그 자리에 <br> 흑기사가 없었다는 것이 <br> 마음에 걸려……
+Japanese,"scene_cp26_q1_s20,2612",detail,카타리나,"それに,どうして今頃になって,<br>エルステ帝国の宰相が,<br>わざわざ私達の前に……","게다가 어째서 이맘때에야 <br> 에르스테 제국의 재상이,<br>일부러 우리 앞에……"
+Japanese,"scene_cp26_q1_s20,2612",detail,루리아,"んん……<br>悩んでたってしょうがないよね。<br>行ってみれば,きっとわかる……","음……<br>고민해도 소용없지.<br>가보면, 분명히 알 수 있어……"
+Japanese,"scene_cp26_q1_s20,2612",detail,카타리나,"ふっ……それもそうだな。<br>ともかくいまは,先へ進もう!",훗…그것도 그렇군.어쨌든 지금은 앞으로 나아가자!
+Japanese,"scene_cp26_q2_s10,2621",synopsis,,"自身に「久しぶり」と語りかけた少年をなんとか思い出そうとするラカム。しかし,思い出は靄がかかったように淡く,どうにも彼の存在を思い出すことが出来ない。",자신에게 「오랜만이야」라고 말을 건 소년을 어떻게든 생각해 내려고 하는 라캄.그러나 추억은 안개가 낀 듯 희미하여 도무지 그의 존재를 생각해 낼 수가 없다.
+Japanese,"scene_cp26_q2_s10,2621",detail,라캄,"ちっ……ダメだな,<br>やっぱり思い出せねぇ……","쳇...안되겠네,<br>역시 생각나질않아..."
+Japanese,"scene_cp26_q2_s10,2621",detail,이오,思い出せないって……<br>あの男の子のこと?,기억나지 않는다니……<br>그 남자애 말하는 거야?
+Japanese,"scene_cp26_q2_s10,2621",detail,라캄,"ああ……<br>あいつ,久しぶりって言ってたろ?<br>だから俺の知り合いだと思うんだが……","아아……<br>그녀석, 오랜만이라고 말했지?<br>그러니까 내가 아는 사람이라고 생각하지만……"
+Japanese,"scene_cp26_q2_s10,2621",detail,오이겐,"ラカムの知り合いでも<br><span class='scene-font-place'>ガロンゾ</span>で知り合ったってんなら,<br>オレが覚えてても不思議じゃねぇが……","라캄이 아는 사람이라도<br><span class='scene-font-place'>가론조</span>에서 알았다면,<br>내가 기억해도 이상하지 않을텐데……"
+Japanese,"scene_cp26_q2_s10,2621",detail,오이겐,"しっかし,オレも記憶にねぇなぁ……<br>あんな風変りなガキ,<br>一度見たら忘れそうにねぇんだが……","확실해, 나도 기억에 없어……<br>저런 별난 애들,<br>한번 보면 잊을것 같지 않은데……"
+Japanese,"scene_cp26_q2_s10,2621",detail,라캄,"こうなりゃ,<br>どういう知り合いだったか<br>直接本人に聞くしかねぇよな……","이렇게 되면,<br>어떤 아는 사람이었는지<br>직접 본인에게 물어볼 수 밖에 없네……"
+Japanese,"scene_cp26_q2_s10,2621",detail,이오,"それ……もの凄く気まずいわよ。<br>あの子とそういう話するなら,<br>あたしの居ないとこでやってね?","그거……굉장히 어색해.<br>그 애와 그런 이야기를 할거면,<br>나 없는 곳에서 해?"
+Japanese,"scene_cp26_q2_s10,2621",detail,라캄,"あー,くそ!<br>戦艦に着く前に,<br>絶対に思い出してやらぁ!",아 빌어먹을! 전함에 도착하기 전에 꼭 기억해야겠어!
+Japanese,"scene_cp26_q2_s20,2622",synopsis,,"謎の少年のことを思い出すことが出来ないラカム。しかし,ラカムには引っかかっているものがあり,少年が口にした約束という言葉から,少しずつ思い出を甦らせていく。","수수께끼의 소년을 떠올릴 수 없는 라캄그러나 라캄은 걸린 것이 있는데, 소년이 내뱉은 약속이란 말에서 서서히 추억을 되살려 나간다."
+Japanese,"scene_cp26_q2_s20,2622",detail,라캄,"けど,確かに何かが<br>引っかかってるんだよな……",하지만 분명히 뭔가가<br>걸려있어……
+Japanese,"scene_cp26_q2_s20,2622",detail,라캄,"思い出せねぇ……<br>けど,何かを忘れてる,<br>ってことは覚えてんだ……","생각이 안나...<br>하지만, 무언가를 잊고 있어,<br>라는 것은 기억하고 있어..."
+Japanese,"scene_cp26_q2_s20,2622",detail,라캄,この島で大切な何かを……<br>大切な約束を……あいつと?,이 섬에서 소중한 무엇인가를……<br>소중한 약속을……그녀석과?
+Japanese,"scene_cp26_q2_s20,2622",detail,마물,グオオオォォッ!!,응어어어엇!!
+Japanese,"scene_cp26_q2_s20,2622",detail,라캄,ったく……<br>本当に間の悪い連中だな……,정말이지....<br>정말 형편없는 사람들이군....
+Japanese,"scene_cp26_q2_s20,2622",detail,라캄,"生憎,いまはお前らに,<br>構ってる余裕はねぇんだ……<br>蹴散らすぞ! [플레이어]!",공교롭게도 지금은 너희들에게 <br> 신경쓸 여유가 없어……<br> 걷어차 버릴거야! [플레이어]
+Japanese,"scene_cp26_q3_s10,2631",synopsis,,"道中,少年の存在について疑問を抱くビィ。幼い頃のラカムと知り合いだったという少年が,どうしていまも少年の姿なのか,一行の中で答えが出ることはなかった。",가는 길에 소년의 존재에 대해 의문을 품은 비.어린 시절 라캄과 알고 지냈다는 소년이 왜 아직도 소년의 모습인지 일행 중 답이 나오지 않았다.
+Japanese,"scene_cp26_q3_s10,2631",detail,비,"ん……?<br>な,なぁなぁ,<br>ちょいとおかしくねぇか?","응……?<br>뭐,뭐야,<br>좀 이상하지 않아?"
+Japanese,"scene_cp26_q3_s10,2631",detail,라캄,ん? 何がだよ?,어? 뭐가?
+Japanese,"scene_cp26_q3_s10,2631",detail,비,"だってよぅ,<br>ラカムがこの島に来たのは<br>ずいぶん小っちぇ頃だったんだろ?",그게 <br> 라캄이 이 섬에 온건 <br> 아주 어릴적이었잖아?
+Japanese,"scene_cp26_q3_s10,2631",detail,비,"ってことは,<br>その頃のラカムの知り合いは,<br>ラカムと変わらない歳か年上だろ?","그럼,<br>그 무렵의 라캄의 아는 사람은,<br>라캄과 다르지 않은 나이 또는 연상이지?"
+Japanese,"scene_cp26_q3_s10,2631",detail,비,"けどあいつ……<br>どう見たって,せいぜい<br>イオくらいの歳にしか見えなかったぜ?","그치만 그녀석……<br>어떻게 봐도, 겨우<br>이오정도의 나이로밖에 보이지 않았어?"
+Japanese,"scene_cp26_q3_s10,2631",detail,카타리나,"い,言われてみればそうだな……<br>どうしてこんな単純なことに<br>いままで気付かなかったのか……","이, 듣고보니 그렇군...<br> 어째서 이런 단순한 것을<br>지금까지 알아차리지 못했던 것일까..."
+Japanese,"scene_cp26_q3_s10,2631",detail,루리아,"で,でもあの人,<br>イオちゃんと同じくらいの歳とは<br>思えなかったです……",근데 그사람 이오랑 동갑내기라고는 생각못했어요.......
+Japanese,"scene_cp26_q3_s10,2631",detail,루리아,"あの落ち着いた雰囲気とか,<br>話し方とか……","저 차분한 분위기라던가,<br>말투라던가……"
+Japanese,"scene_cp26_q3_s10,2631",detail,이오,"ちょっと,<br>それ,どういう意味かしら……?","잠깐,<br>그거 무슨 의미일까……?"
+Japanese,"scene_cp26_q3_s10,2631",detail,루리아,"あ,えと……<br>す,すごく大人びてたなー<br>って意味です!","아, 음……<br>스, 굉장히 어른스러웠네-<br>라는 의미입니다!"
+Japanese,"scene_cp26_q3_s10,2631",detail,루리아,"あの,え～っと!<br>イオちゃんが<br>子供っぽいなんて思ってないですよ!",저기 에~~~<br>이오가<br>어린아이 같다고는 생각하지않아요!
+Japanese,"scene_cp26_q3_s10,2631",detail,이오,もう!<br>口で言っちゃってるじゃない!,진짜!<br>입으로 말하고 있잖아!
+Japanese,"scene_cp26_q3_s10,2631",detail,오이겐,それも助け出して本人に<br>聞くしかねぇだろうな……,그것도 구해서 본인에게<br>물어볼 수 밖에 없겠지……
+Japanese,"scene_cp26_q3_s10,2631",detail,오이겐,"約束を果たさなきゃ,<br>グランサイファーが飛び立てねぇ,<br>ってことも含めて……な。","약속을 지키지 않으면,<br>그랜사이퍼가 날아오르지 못해,<br>라는 것을 포함해……."
+Japanese,"scene_cp26_q3_s20,2632",synopsis,,"停泊する帝国の戦艦を見つける<span>[플레이어]</span>一行。中へと忍び込むべく,周囲を見張る警備兵達の隙をついて進む。","정박할 제국의 전함을 찾는 <span> [플레이어] </span> 한 줄안으로 잠입할 수 있도록, 주위를 감시하는 경비병들의 틈을 타 나아간다."
+Japanese,"scene_cp26_q3_s20,2632",detail,라캄,あれが帝国の戦艦だな……<br>あの中か……,저것이 제국의 전함이로구나....<br> 저 안인가....
+Japanese,"scene_cp26_q3_s20,2632",detail,이오,案外あっさり見つかったわね。,의외로 간단하게 발견되었네.
+Japanese,"scene_cp26_q3_s20,2632",detail,오이겐,そりゃあ小せぇ島だからな。,그야 코세지마니까.
+Japanese,"scene_cp26_q3_s20,2632",detail,오이겐,"立ち寄る騎空艇こそ多いが,<br>島自体は他に比べりゃ,<br>小せぇもんさ。",기공정 들르는 게 더 많지만 <br>섬 자체는 다른 곳에 비하면 <br> 작게는 먼데.
+Japanese,"scene_cp26_q3_s20,2632",detail,카타리나,"当然だが,<br>戦艦の周りには警備兵が居るな……<br>まずはあれを片づけなくてはなるまい。","당연하지만,<br>전함 주위에는 경비병이 있었군....<br>우선은 저걸 정리해야겠지."
+Japanese,"scene_cp26_q3_s20,2632",detail,비,よっしゃ!<br>こうなりゃ先手必勝だぜ!<br>相手の隙をついてやれ!,앗싸!<br>이렇게 되면 선수필승이라구!<br>상대의 틈을 타라구!
+Japanese,"scene_cp26_q4_s10,2641",synopsis,,"帝国の戦艦へと忍び込んだ<span>[플레이어]</span>一行。ルリアの言う怪しい気配をたどって進むと,因縁の相手であるポンメルン大尉が一行を待ち構えていた。",제국의 전함으로 잠입한 <span> [플레이어] </span> 일행.루리아가 말한 수상한 낌새를 따라가자 인연 상대인 폰메른 대위가 일행을 기다리고 있었다.
+Japanese,"scene_cp26_q4_s10,2641",detail,라캄,"戦艦に乗り込んだはいいが……<br>あいつはいったい,<br>どこに居るんだ?",전함에 올라탄 건 좋은데……<br>그 녀석은 도대체 <br>어디에 있는 거야?
+Japanese,"scene_cp26_q4_s10,2641",detail,루리아,"んと……<br>なんだか怪しい気配が,<br>向こうのほうから……","뭔가....<br>왠지 수상한 기색이,<br>저쪽으로부터...."
+Japanese,"scene_cp26_q4_s10,2641",detail,비,"あ,怪しい気配って……","아, 수상한 낌새라니……"
+Japanese,"scene_cp26_q4_s10,2641",detail,라캄,"だが,他に手がかりもねぇ……<br>ともかく行ってみるぞ!","하지만, 그 밖에 단서도 없어……<br>어쨌든 가 보자!"
+Japanese,"scene_cp26_q4_s10,2641",detail,폼메른,"クッククク……<br>やっぱり,<br>来やがったですネェ……","쿡쿡쿡....<br>역시,<br>왔습니다네......."
+Japanese,"scene_cp26_q4_s10,2641",detail,???,"おやおや,これはすごいねぇ。<br>破竹の勢いというやつだ。","야, 이거 대단하네.<br>파죽지세라는 놈이다."
+Japanese,"scene_cp26_q4_s10,2641",detail,오이겐,"どうやらここで<br>当たりだったみてぇだなぁ,おい。","아무래도 여기서 <br> 당첨이 된 것 같군, 어이."
+Japanese,"scene_cp26_q4_s10,2641",detail,폼메른,"宰相閣下から預かった以上,<br>そう簡単に,<br>渡すわけにはいきませんからネェ……","재상각하로부터 맡은 이상,<br>그렇게 간단하게,<br>넘길 수는 없으니까요……."
+Japanese,"scene_cp26_q4_s10,2641",detail,폼메른,"まずは我らがエルステ帝国が誇る,<br>精兵達の相手をしてもらいますよォ!",우선은 우리가 에르스테 제국이 자랑하는 <br> 정병들의 상대가 될거예요!!
+Japanese,"scene_cp26_q4_s20,2642",synopsis,,"ポンメルン率いる帝国兵達を蹴散らす<span>[플레이어]</span>一行。追い詰められたポンメルンは魔晶によって自らの姿を変貌させ,<span>[플레이어]</span>一行へと襲い掛かってくる。","폼메른이 이끄는 제국병들을 휘젓는 <span> [플레이어] </span> 한 줄.궁지에 몰린 퐁메른은 마정에 의해 스스로의 모습을 변모시켜,<span>[플레이어]</span>일행으로 습격한다."
+Japanese,"scene_cp26_q4_s20,2642",detail,비,"へへっ!<br>あの程度の兵隊が,<br>いまさら相手になるかってんだ!","헤헷!<br>그정도의 군대가,<br>이제와서 상대가 되겠냐구!"
+Japanese,"scene_cp26_q4_s20,2642",detail,폼메른,くっ……<br>宰相閣下を失望させるわけには<br>いきませんからネェ……,큭....<br>재상각하를 실망시킬수는<br>없으니까요.........
+Japanese,"scene_cp26_q4_s20,2642",detail,폼메른,"貴様らは私自ら,<br>返り討ちにしてあげますよォォッ!!",당신들은 저 스스로 <br>돌려주기 해드릴게요오오!!
+Japanese,"scene_cp26_q4_s20,2642",detail,폼메른,"いまッ! ここでッ!!<br>カタリナ中尉への復讐も,<br>果たさせてもらいますよォォォッ!!",이제!! 여기서!!<br>카탈리나중위에게도 복수를<br>이루겠습니다!!
+Japanese,"scene_cp26_q4_s20,2642",detail,라캄,"けっ……<br>一度,<span class='scene-font-place'>アウギュステ</span>で目にしてる以上,<br>同じネタじゃあ,驚かねぇぜ!","결코...<br>한번,<span class='scene-font-place'>아우귀스테</span>에서 본 이상,<br>같은 소재라면, 놀라지 않을거야!"
+Japanese,"scene_cp26_q4_s20,2642",detail,카타리나,"油断は出来ないぞ。<br>魔晶の力は,<br>計り知れないものがあるからな……","방심할 수 없다.마정의 힘은,<br> 헤아릴 수 없는 것이 있으니까……"
+Japanese,"scene_cp26_q4_s20,2642",detail,오이겐,はん……<br>的がデカくなったってぇだけの話だぜ。,한……<br> 과녁이 커졌다는 것뿐의 이야기지.
+Japanese,"scene_cp26_q4_s20,2642",detail,오이겐,こんなに狙いやすい獲物もねぇ!<br>仕留めるぞ! [플레이어]!,이렇게 노리기 쉬운 사냥감도 없다구!<br> 죽여버릴거야! [플레이어]
+Japanese,"scene_cp26_q4_s30,2643",detail,폼메른,ぬぅぅ……!<br>魔晶の出力をあげたものの<br>身体がついてこないとは……,느……!<br>마정의 출력을 올렸는데<br>신체가 따라오지 않다니……
+Japanese,"scene_cp26_q4_s30,2643",detail,카타리나,"待て! ポンメルン!<br>ここで因縁は,<br>終わらせてもらうぞ!",기다려! 폰메른!<br>여기서 인연은<br>끝내주마!
+Japanese,"scene_cp26_q4_s30,2643",detail,폼메른,馬鹿おっしゃイィィイィ!!,바보말씀 예이!!
+Japanese,"scene_cp26_q4_s30,2643",detail,카타리나,なにっ!?<br>剣が届かないだと……!,뭐라고!?<br>검이 도착하지 않는다고……!
+Japanese,"scene_cp26_q4_s30,2643",synopsis,,"ポンメルンを倒し謎の少年を救い出す<span>[플레이어]</span>一行。ラカムが少年に全ての疑問を投げかけると,少年はそれに答えるように,自らが艇造りの星晶獣であり,グランサイファーの製作者であることを明かすのだった。",폼메른을 쓰러뜨리고 의문의 소년을 구해내는 <span> [플레이어] </span> 한 줄.라캄이 소년에게 모든 의문을 던지자 소년은 그에 답하듯 스스로 정을 만든 별정수이자 그랜사이퍼의 제작자임을 밝히는 것이었다.
+Japanese,"scene_cp26_q4_s30,2643",detail,폼메른,こんなところで死ぬワケにはァァ!<br>いかないんですよォォォォッ!!,이런 곳에서 죽는 이유는 헉!가지않아요오오오오오오!!
+Japanese,"scene_cp26_q4_s30,2643",detail,폼메른,さらばですネェ逆賊共ォォォ!<br>次は命は無いと思いなさいィィ!!,잘 있겠네요 （）네 역적공호! 다음에는 목숨은 없을거라 생각하세요!
+Japanese,"scene_cp26_q4_s30,2643",detail,,"<span class='scene-font-katari'>ポンメルンを退けた一行は,</span><br><span class='scene-font-katari'>無事,謎の少年を助け出した。</span>","<span class='scene-font-katari'>퐁메른을 물리친 일행은 </span><br><span class='scene-font-katari'> 무사, 수수께끼의 소년을 구해냈다.</span>"
+Japanese,"scene_cp26_q4_s30,2643",detail,???,"ありがとう,ラカム,[플레이어]。<br>君達なら,<br>必ず助けに来てくれると思っていたよ。","고마워, 라캄. [플레이어].<br>너희들이라면 <br>꼭 도우러 올거라고 생각했어."
+Japanese,"scene_cp26_q4_s30,2643",detail,라캄,"ああ,いや……","아아, 아니……"
+Japanese,"scene_cp26_q4_s30,2643",detail,라캄,"なぁ……<br>お前は俺とは,<br>どういう知り合いなんだ?","야……<br>너는 나와는,<br>어떻게 아는 사이니?"
+Japanese,"scene_cp26_q4_s30,2643",detail,라캄,"この島……<span class='scene-font-place'>ガロンゾ</span>で,<br>俺達は会ったことがあるのか?",이 섬...<span class='scene-font-place'>가론조</span>에서 <br> 우린 만난 적이 있는가?
+Japanese,"scene_cp26_q4_s30,2643",detail,???,"そうだね……<br><span class='scene-font-place'>ガロンゾ</span>は僕達の出会いの地であり,<br>同時に約束の地だ。",그래……<br><span class='scene-font-place>가론조</span>는 우리 만남의 땅이고 <br> 동시에 약속의 땅이다.
+Japanese,"scene_cp26_q4_s30,2643",detail,라캄,"なぁ……<br>けど,そうするとおかしいんだよ。","야……<br>하지만, 그렇게 하면 이상해."
+Japanese,"scene_cp26_q4_s30,2643",detail,라캄,俺が<span class='scene-font-place'>ガロンゾ</span>に来たのは<br>俺がまだ小せぇガキの頃だ。,내가 <span class='scene-font-place'>가론조</span>에 온것은 <br>내가 아직 어린 초기의 시절이다.
+Japanese,"scene_cp26_q4_s30,2643",detail,라캄,"その頃,<br>いまどう見てもガキのお前は,<br>まだ生まれてもいねぇんじゃねぇか?","그 때,<br>지금 아무리 봐도 애기인 너는,<br>아직 태어나도 괜찮지 않냐?"
+Japanese,"scene_cp26_q4_s30,2643",detail,???,"ふふ……<br>そんなことはないよ,ラカム。","후후……<br>그렇지 않아, 라캄."
+Japanese,"scene_cp26_q4_s30,2643",detail,???,確かに君が大人になるまで……<br>それはとても長い年月だね。,확실히 네가 어른이 될 때까지……<br> 정말 긴 세월이야.
+Japanese,"scene_cp26_q4_s30,2643",detail,???,"けど,悠久を超える僕達星晶獣にとって,<br>それくらいの歳月は,<br>あっという間なのさ。",하지만 유구함을 넘는 우리 성정수에게 있어서 <br> 그 정도의 세월은 <br> 순식간이야.
+Japanese,"scene_cp26_q4_s30,2643",detail,???,"もちろん……それでも僕は<br>約束が果たされる日を,<br>心待ちにしていたんだけどね。",물론……그래도 나는<br>약속이 이루어지는 날을<br>마음으로 기다리고 있었지만 말이야.
+Japanese,"scene_cp26_q4_s30,2643",detail,카타리나,"なっ……<br>き,君はいま,なんと……?","나랏...<br>키, 너는 지금, 무어라고……?"
+Japanese,"scene_cp26_q4_s30,2643",detail,오이겐,"オレの聞き間違いじゃなきゃあ,<br>いま,星晶獣って……","내가 잘못 들은 게 아니라면, <br> 지금, 성정수라니……"
+Japanese,"scene_cp26_q4_s30,2643",detail,???,そうか……<br>改めての自己紹介が必要だったね。,그렇구나…<br>또다른 자기소개가 필요했네.
+Japanese,"scene_cp26_q4_s30,2643",detail,ノア,僕はノア。<br>艇造りを司る星晶獣であり……<br>騎空艇グランサイファーの製作者だ。,나는 노아. <br> 배 만들기를 관장하는 성정수이자……<br> 기공정 그랜사이퍼의 제작자다.
+Japanese,"scene_cp26_q4_s30,2643",detail,,"<span class='scene-font-katari'>少年の告げる正体に,</span><br><span class='scene-font-katari'>言葉を失う[플레이어]一行。</span>",<span class = 'scene-font-katari'> 소년이 말한다 정체에 </ span> <br> <span class = 'scene-font-katari'> 말을 잃는다 [플레이어] 일행. </ span>
+Japanese,"scene_cp26_q4_s30,2643",detail,,"<span class='scene-font-katari'>しかし,驚く一行のすぐ後ろには,</span><br><span class='scene-font-katari'>軍靴の音が</span><br><span class='scene-font-katari'>高らかに迫りつつあるのだった。</span>",<span class = 'scene-font-katari'> 그러나 놀라운 일행의 바로 뒤에 </ span> <br> <span class = 'scene-font-katari'> 군화 소리가 </ span> < br> <span class = 'scene-font-katari'> 소리 높이 다가오고있는 것이었다. </ span>
+English,"scene_cp26_q1_s10,2611",synopsis,,[플레이어] and the crew discuss why the empire took custody of the mysterious boy.
+English,"scene_cp26_q1_s10,2611",detail,Io,Wh-what do we do now!
+English,"scene_cp26_q1_s10,2611",detail,,[플레이어] and the crew find themselves dumfounded after the mysterious boy is captured.
+English,"scene_cp26_q1_s10,2611",detail,Eugen,We were careless... And somebody with no connection to us paid the price for it...
+English,"scene_cp26_q1_s10,2611",detail,Katalina,It was a despicable strategy. But a highly effective one.
+English,"scene_cp26_q1_s10,2611",detail,Katalina,"Even if he's not part of our crew, we can't just abandon him after getting him into this mess."
+English,"scene_cp26_q1_s10,2611",detail,Rackam,Don't forget he said somethin' about the Grandcypher being stuck on the island.
+English,"scene_cp26_q1_s10,2611",detail,Rackam,And not to mention whatever he was talkin' about when he referred to a promise...
+English,"scene_cp26_q1_s10,2611",detail,Vyrn,What are we waitin' for then! Let's go get him back!
+English,"scene_cp26_q1_s10,2611",detail,Lyria,"Yes, we need to hurry and go rescue him! After all, he seemed like he knew something about me too."
+English,"scene_cp26_q1_s10,2611",detail,Rackam,"Hmm... They probably took him back to their battleship. C'mon, [플레이어]! To the port!"
+English,"scene_cp26_q1_s20,2612",synopsis,,Lyria wonders if she'll be able to see Orchis again.
+English,"scene_cp26_q1_s20,2612",detail,Lyria,Sigh...
+English,"scene_cp26_q1_s20,2612",detail,Katalina,"What's wrong, Lyria? Feeling anxious?"
+English,"scene_cp26_q1_s20,2612",detail,Lyria,"It's just... if the empire's here, then that means maybe Orchis is here too..."
+English,"scene_cp26_q1_s20,2612",detail,Katalina,Well that certainly is possible.
+English,"scene_cp26_q1_s20,2612",detail,Katalina,But it is strange that the Black Knight wasn't with the other imperial officers earlier...
+English,"scene_cp26_q1_s20,2612",detail,Katalina,And why would the prime minister of the Erste Empire herself suddenly appear before us?
+English,"scene_cp26_q1_s20,2612",detail,Lyria,That worries me too. We'll just have to go and find out.
+English,"scene_cp26_q1_s20,2612",detail,Katalina,Sigh. You're right. We've got no choice but to move forward for now.
+English,"scene_cp26_q2_s10,2621",synopsis,,Rackam tries to remember who the mysterious boy could be.
+English,"scene_cp26_q2_s10,2621",detail,Rackam,"Tch... Dammit, I just can't remember..."
+English,"scene_cp26_q2_s10,2621",detail,Io,Can't remember? You mean who that boy was?
+English,"scene_cp26_q2_s10,2621",detail,Rackam,"Aye... He said, it's been a long time. That means I met him in the past, right?"
+English,"scene_cp26_q2_s10,2621",detail,Eugen,"Well if you met him in Golonzo, then I should be able to remember him too..."
+English,"scene_cp26_q2_s10,2621",detail,Eugen,"But alas, no memory of him at all. And no one would forget a weird kid like that."
+English,"scene_cp26_q2_s10,2621",detail,Rackam,That leaves us no choice. Guess we'll have to ask him face to face.
+English,"scene_cp26_q2_s10,2621",detail,Io,"Geez, this sounds like it's gonna be super awkward. Make sure you talk to him when I'm not there, okay?"
+English,"scene_cp26_q2_s10,2621",detail,Rackam,Ah dammit! Gotta remember who he is before we get to the battleship!
+English,"scene_cp26_q2_s20,2622",synopsis,,Rackam's memories slowly start to return.
+English,"scene_cp26_q2_s20,2622",detail,Rackam,Yeah... I think we must've had some kinda connection...
+English,"scene_cp26_q2_s20,2622",detail,Rackam,"Even if I can't remember what it was, at least I know that I've forgotten <span class='scene-font-italic'>something</span>."
+English,"scene_cp26_q2_s20,2622",detail,Rackam,Something important... Was it a promise? With him?
+English,"scene_cp26_q2_s20,2622",detail,Monster,Groar!
+English,"scene_cp26_q2_s20,2622",detail,Rackam,For crying out—you jerks always show up at the wrong time.
+English,"scene_cp26_q2_s20,2622",detail,Rackam,"We don't have time to play around. Let's make this quick, [플레이어]!"
+English,"scene_cp26_q3_s10,2631",synopsis,,Vyrn wonders why Rackam's acquaintance looks so young.
+English,"scene_cp26_q3_s10,2631",detail,Vyrn,"Hey, doesn't anyone else think it's weird?"
+English,"scene_cp26_q3_s10,2631",detail,Rackam,Huh? What?
+English,"scene_cp26_q3_s10,2631",detail,Vyrn,"That, you know, Rackam was really little when he came to this island."
+English,"scene_cp26_q3_s10,2631",detail,Vyrn,"So if he met somebody back then, wouldn't they have been around his age?"
+English,"scene_cp26_q3_s10,2631",detail,Vyrn,"But that guy, well, doesn't he look like he's right around the same age as Io?"
+English,"scene_cp26_q3_s10,2631",detail,Katalina,"Now that you mention it, yes. I wonder why I hadn't noticed something so obvious."
+English,"scene_cp26_q3_s10,2631",detail,Lyria,But I don't think he's Io's age.
+English,"scene_cp26_q3_s10,2631",detail,Lyria,"He's really calm, and he doesn't talk like a kid."
+English,"scene_cp26_q3_s10,2631",detail,Io,"Hey now, what exactly are you getting at?"
+English,"scene_cp26_q3_s10,2631",detail,Lyria,"Um, like, I mean he's really mature!"
+English,"scene_cp26_q3_s10,2631",detail,Lyria,B-but it's not like you're really immature or anything!
+English,"scene_cp26_q3_s10,2631",detail,Io,"Humph! I can tell what you really mean, you know!"
+English,"scene_cp26_q3_s10,2631",detail,Eugen,Nothin' else we can do but rescue the lad and ask him ourselves.
+English,"scene_cp26_q3_s10,2631",detail,Eugen,"Besides, if we don't figure out what he meant by that promise, then the Grandcypher's not goin' anywhere anytime soon."
+English,"scene_cp26_q3_s20,2632",synopsis,,[플레이어] and the crew approach the imperial battleship.
+English,"scene_cp26_q3_s20,2632",detail,Rackam,"There's the imperial battleship. So we're headed inside of that, huh..."
+English,"scene_cp26_q3_s20,2632",detail,Io,It was way easier to find than you'd think.
+English,"scene_cp26_q3_s20,2632",detail,Eugen,"Well, this <span class='scene-font-italic'>is</span> a tiny island after all."
+English,"scene_cp26_q3_s20,2632",detail,Eugen,"Sure lots of airships are always passin' through, but compare it to any other island, and it's just a minnow."
+English,"scene_cp26_q3_s20,2632",detail,Katalina,There are guards around the battleship. We're going to have to do something about them first.
+English,"scene_cp26_q3_s20,2632",detail,Vyrn,Let's hit 'em before they see us comin'!
+English,"scene_cp26_q4_s10,2641",synopsis,,"[플레이어] and the crew manage to board the imperial battleship, where they find Pommern waiting for them."
+English,"scene_cp26_q4_s10,2641",detail,Rackam,"Getting on to the ship is one thing, but finding that kid is whole 'nother problem."
+English,"scene_cp26_q4_s10,2641",detail,Lyria,Um... I feel something strange coming from over there...
+English,"scene_cp26_q4_s10,2641",detail,Vyrn,A strange feeling?
+English,"scene_cp26_q4_s10,2641",detail,Rackam,"If that's the only hint we've got, we might as well follow it. C'mon, let's check it out!"
+English,"scene_cp26_q4_s10,2641",detail,Pommern,Hahaha... You came. Just as I suspected you would.
+English,"scene_cp26_q4_s10,2641",detail,???,"Ah, now here's a sight for sore eyes."
+English,"scene_cp26_q4_s10,2641",detail,Eugen,Looks like our mark was here after all.
+English,"scene_cp26_q4_s10,2641",detail,Pommern,"Yes, but you won't be taking him. The prime minister herself entrusted him to me, you see."
+English,"scene_cp26_q4_s10,2641",detail,Pommern,First you'll have to go through my elite troops—the very pride of the Erste Empire!
+English,"scene_cp26_q4_s20,2642",synopsis,,"After [플레이어] and the crew force Pommern into a corner, the imperial officer transforms using dark essence."
+English,"scene_cp26_q4_s20,2642",detail,Vyrn,Those guys were s'posed to be your elite troops?
+English,"scene_cp26_q4_s20,2642",detail,Pommern,I cannot disappoint the prime minister...
+English,"scene_cp26_q4_s20,2642",detail,Pommern,"This is where I beat you at your own game, skyfarers!"
+English,"scene_cp26_q4_s20,2642",detail,Pommern,"And Lieutenant Katalina, make no<br>mistake—this is where I'll exact my revenge!"
+English,"scene_cp26_q4_s20,2642",detail,Rackam,"Ugh... Didn't you say the same kinda crap back in Auguste? Didn't matter then, and it doesn't matter now!"
+English,"scene_cp26_q4_s20,2642",detail,Katalina,"Don't underestimate him. He's using dark essence, so there's no telling what he's capable of."
+English,"scene_cp26_q4_s20,2642",detail,Eugen,"Yeah, but on the other hand, it's like our target got a lot bigger."
+English,"scene_cp26_q4_s20,2642",detail,Eugen,"This'll be as easy as hittin' the broad side of an airship! Let's rumble, [플레이어]!"
+English,"scene_cp26_q4_s30,2643",synopsis,,"[플레이어] and the crew rescue the mysterious boy, who finally reveals his true nature."
+English,"scene_cp26_q4_s30,2643",detail,Pommern,I suppose my body couldn't handle the dark essence when pushed to its limits...
+English,"scene_cp26_q4_s30,2643",detail,Katalina,Pommern! Don't you run! This is where I put an end to all of this!
+English,"scene_cp26_q4_s30,2643",detail,Pommern,What sheer foolishness!
+English,"scene_cp26_q4_s30,2643",detail,Katalina,Argh! My blade won't pierce him!
+English,"scene_cp26_q4_s30,2643",detail,Pommern,I will not die here! No way!
+English,"scene_cp26_q4_s30,2643",detail,Pommern,"Know this, treacherous insects! The next time we meet, your lives will be forfeit!"
+English,"scene_cp26_q4_s30,2643",detail,,"As Pommern turns tail and dashes away, the crew hurries over to the mysterious boy."
+English,"scene_cp26_q4_s30,2643",detail,???,"Thank you, Rackam. Oh, and [플레이어] too. I knew that you would come to rescue me."
+English,"scene_cp26_q4_s30,2643",detail,Rackam,"Yeah, well..."
+English,"scene_cp26_q4_s30,2643",detail,Rackam,"Look, I gotta ask... How do we know each other?"
+English,"scene_cp26_q4_s30,2643",detail,Rackam,Was it here? Did we meet here on Golonzo?
+English,"scene_cp26_q4_s30,2643",detail,???,That's right. Golonzo is both where we met and where we made a promise.
+English,"scene_cp26_q4_s30,2643",detail,Rackam,"Huh. Well, if that's the truth, isn't it odd?"
+English,"scene_cp26_q4_s30,2643",detail,Rackam,"I mean, I came to Golonzo when I was just a little kid."
+English,"scene_cp26_q4_s30,2643",detail,Rackam,But you're a kid now—how could we have met? You wouldn't have even been born yet.
+English,"scene_cp26_q4_s30,2643",detail,???,"Haha. I believe you've misunderstood the situation, Rackam."
+English,"scene_cp26_q4_s30,2643",detail,???,Many moons and stars have passed while you've grown into an adult. That is certainly true.
+English,"scene_cp26_q4_s30,2643",detail,???,"But for us immortal primal beasts, such a span of time is nothing more than an instant."
+English,"scene_cp26_q4_s30,2643",detail,???,"Nonetheless, I have been awaiting the day when you would keep your promise."
+English,"scene_cp26_q4_s30,2643",detail,Katalina,What did you just say?
+English,"scene_cp26_q4_s30,2643",detail,Eugen,"If these ol' ears are still workin', I coulda sworn you said you're a primal beast..."
+English,"scene_cp26_q4_s30,2643",detail,???,"Ah, it seems I should introduce—well—reintroduce myself."
+English,"scene_cp26_q4_s30,2643",detail,Noa,"I am Noa, a primal beast who specializes in shipmaking and the creator of the Grandcypher."
+English,"scene_cp26_q4_s30,2643",detail,,[플레이어] and the crew find themselves at a loss for words as the boy reveals his true nature.
+English,"scene_cp26_q4_s30,2643",detail,,"Despite their shock, the sound of military boots stampeding through the battleship draws ever closer."
