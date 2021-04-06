@@ -1,119 +1,119 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp37_q1_s10,3711",synopsis,,宰相を追って<span class='scene-font-place'>ルーマシー群島</span>へ向かうも、宰相が<span class='scene-font-place'>ルーマシー群島</span>に何の用があるのか、一行は疑問を抱く。それに答えようとする黒騎士の言葉を遮り、ロゼッタは<span class='scene-font-place'>ルーマシー群島</span>に星の民の遺跡があることを明かす。何故そのことを知っているのか黒騎士は訝しむが、ロゼッタはいつもの調子で煙に巻くのだった。,"재상을 쫓아<span class='scene-font-place'>루마시 군도</span>로 향하면서도, 재상이<span class='scene-font-place'>루마시 군도</span>에서 무엇을 하려 하는지, 일행은 의문을 품는다. 그것에 대답하려 하는 흑기사의 말을 가로막은 로제타는<span class='scene-font-place'>루마시 군도</span>에 별의 백성의 유적이 있다는 사실을 밝힌다. 어떻게 그 사실을 알고 있는지 흑기사는 수상히 여기지만 로제타는 언제나처럼 적당한 말로 둘러대며 일행의 입을 막아버리는 것이었다."
+Japanese,"scene_cp37_q1_s10,3711",synopsis,,"宰相を追って<span class='scene-font-place'>ルーマシー群島</span>へ向かうも,宰相が<span class='scene-font-place'>ルーマシー群島</span>に何の用があるのか,一行は疑問を抱く。それに答えようとする黒騎士の言葉を遮り,ロゼッタは<span class='scene-font-place'>ルーマシー群島</span>に星の民の遺跡があることを明かす。何故そのことを知っているのか黒騎士は訝しむが,ロゼッタはいつもの調子で煙に巻くのだった。","재상을 쫓아<span class='scene-font-place'>루마시 군도</span>로 향하면서도, 재상이<span class='scene-font-place'>루마시 군도</span>에서 무엇을 하려 하는지, 일행은 의문을 품는다. 그것에 대답하려 하는 흑기사의 말을 가로막은 로제타는<span class='scene-font-place'>루마시 군도</span>에 별의 백성의 유적이 있다는 사실을 밝힌다. 어떻게 그 사실을 알고 있는지 흑기사는 수상히 여기지만 로제타는 언제나처럼 적당한 말로 둘러대며 일행의 입을 막아버리는 것이었다."
 Japanese,"scene_cp37_q1_s10,3711",detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>リーシャからの情報を元に</span><br><span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>へと向かっていた。</span>,<span class='scene-font-katari'>[플레이어] 일행은</span><br><span class='scene-font-katari'>리샤에게 받은 정보를 토대로</span><br><span class='scene-font-place'>루마시 군도</span><span class='scene-font-katari'>로 향하고 있었다.</span>
-Japanese,"scene_cp37_q1_s10,3711",detail,이오,ねぇねぇ……<br>だけど、どうしてあの宰相さんは、<br><span class='scene-font-place'>ルーマシー</span>なんかに用があるのかしら？,"저기저기……<br>그런데, 그 재상씨는,<br><span class='scene-font-place'>루마시</span>같은 곳에 뭘 하러 간 걸까?"
-Japanese,"scene_cp37_q1_s10,3711",detail,이오,<span class='scene-font-place'>ルーマシー</span>って確か、<br>木しかないような、<br>ド田舎だったと思うけど……,"<span class='scene-font-place'>루마시</span>는 분명,<br>나무 밖에 없는 것 같은,<br>촌동네였다고 생각하는데……"
-Japanese,"scene_cp37_q1_s10,3711",detail,라캄,だよなぁ……<br>帝国の重要な拠点がある、<br>ってわけじゃなさそうだし……,"그렇지……<br>제국의 중요한 거점이 있다던가,<br>그런것도 아닐텐데……"
-Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,正直、私も困惑している……<br>しかし、<br>思い当たる節がないわけではない。,"솔직히, 나도 곤혹스럽다……<br>하지만,<br>짚이는 게 있긴 해."
-Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,<span class='scene-font-place'>ルーマシー群島</span>は確かに、<br>そのほとんどが木に覆われているが、<br>森の最深部には……,"<span class='scene-font-place'>루마시 군도</span>는 분명,<br>그 대부분이 나무로 둘러싸여있지만, <br>숲의 최심부에는……"
-Japanese,"scene_cp37_q1_s10,3711",detail,로제타,星の民の遺跡がある……でしょ？,별의 민족의 유적이 있다……는거지?
-Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,……！<br>貴様……なぜ知っている？,……！<br>네녀석……어떻게 알고 있지?
+Japanese,"scene_cp37_q1_s10,3711",detail,이오,"ねぇねぇ……<br>だけど,どうしてあの宰相さんは,<br><span class='scene-font-place'>ルーマシー</span>なんかに用があるのかしら?","저기저기……<br>그런데, 그 재상씨는,<br><span class='scene-font-place'>루마시</span>같은 곳에 뭘 하러 간 걸까?"
+Japanese,"scene_cp37_q1_s10,3711",detail,이오,"<span class='scene-font-place'>ルーマシー</span>って確か,<br>木しかないような,<br>ド田舎だったと思うけど……","<span class='scene-font-place'>루마시</span>는 분명,<br>나무 밖에 없는 것 같은,<br>촌동네였다고 생각하는데……"
+Japanese,"scene_cp37_q1_s10,3711",detail,라캄,"だよなぁ……<br>帝国の重要な拠点がある,<br>ってわけじゃなさそうだし……","그렇지……<br>제국의 중요한 거점이 있다던가,<br>그런것도 아닐텐데……"
+Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,"正直,私も困惑している……<br>しかし,<br>思い当たる節がないわけではない。","솔직히, 나도 곤혹스럽다……<br>하지만,<br>짚이는 게 있긴 해."
+Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,"<span class='scene-font-place'>ルーマシー群島</span>は確かに,<br>そのほとんどが木に覆われているが,<br>森の最深部には……","<span class='scene-font-place'>루마시 군도</span>는 분명,<br>그 대부분이 나무로 둘러싸여있지만, <br>숲의 최심부에는……"
+Japanese,"scene_cp37_q1_s10,3711",detail,로제타,星の民の遺跡がある……でしょ?,별의 민족의 유적이 있다……는거지?
+Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,……!<br>貴様……なぜ知っている?,……!<br>네녀석……어떻게 알고 있지?
 Japanese,"scene_cp37_q1_s10,3711",detail,로제타,やぁねぇ……<br>怖い顔しないで頂戴。,아이참……<br>무서운 얼굴 하지 말아줄래.
-Japanese,"scene_cp37_q1_s10,3711",detail,로제타,あの森の中でのことで、<br>アタシが知らないことは何もないの。<br>ただそれだけよ。,그 숲 속이라면<br>내가 모르는 건 아무것도 없어.<br>단지 그것 뿐이야.
+Japanese,"scene_cp37_q1_s10,3711",detail,로제타,"あの森の中でのことで,<br>アタシが知らないことは何もないの。<br>ただそれだけよ。",그 숲 속이라면<br>내가 모르는 건 아무것도 없어.<br>단지 그것 뿐이야.
 Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,ふん……<br>やはり貴様はどうにも食えんな。,흥……<br>역시 네녀석은 방심할 수 없는 녀석이군.
-Japanese,"scene_cp37_q1_s10,3711",detail,로제타,いい女っていうのは、<br>そう簡単には<br>美味しくいただけないものよ。,"좋은 여자라는게,<br>그렇게 간단히<br>방심하게 놔두지는 않는 법이라서."
-Japanese,"scene_cp37_q1_s10,3711",detail,로제타,そのタイミングをね、<br>ちゃーんと自分で分かっておくの。,"그 타이밍을 있지,<br>제대로 자기가 알아 둬야하는거야."
-Japanese,"scene_cp37_q1_s10,3711",detail,로제타,だから大丈夫……<br>アタシだっていつまでも、<br>全てを秘密にしておくつもりはないわ。,"그러니까 괜찮아……<br>나 역시 언제까지고,<br>모든 것을 비밀에 부쳐둘 생각은 없어서."
+Japanese,"scene_cp37_q1_s10,3711",detail,로제타,"いい女っていうのは,<br>そう簡単には<br>美味しくいただけないものよ。","좋은 여자라는게,<br>그렇게 간단히<br>방심하게 놔두지는 않는 법이라서."
+Japanese,"scene_cp37_q1_s10,3711",detail,로제타,"そのタイミングをね,<br>ちゃーんと自分で分かっておくの。","그 타이밍을 있지,<br>제대로 자기가 알아 둬야하는거야."
+Japanese,"scene_cp37_q1_s10,3711",detail,로제타,"だから大丈夫……<br>アタシだっていつまでも,<br>全てを秘密にしておくつもりはないわ。","그러니까 괜찮아……<br>나 역시 언제까지고,<br>모든 것을 비밀에 부쳐둘 생각은 없어서."
 Japanese,"scene_cp37_q1_s10,3711",detail,흑기사,…………,…………
-Japanese,"scene_cp37_q1_s20,3712",synopsis,,以前<span class='scene-font-place'>ルーマシー群島</span>を訪れた際、ロゼッタが黒騎士と面識のある様子だったことを思い出すビィ。ロゼッタはあの時の行動にも思惑があったことを明かし、古い約束がある、と口にする。,"이전 <span class='scene-font-place'>루마시 군도</span>에 방문했을 때 로제타가 흑기사와 면식이 있던 것 처럼 보인 것을 기억해내는 비. 로제타는 그 때의 행동에도 의도가 있었다는 사실을 밝히고, 오래된 약속이 있다는 말을 했다."
-Japanese,"scene_cp37_q1_s20,3712",detail,비,そういや、前に<span class='scene-font-place'>ルーマシー</span>に来たとき<br>黒騎士とロゼッタは、<br>知り合いっぽかったよな。,"그러고보니, 전에<span class='scene-font-place'>루마시</span>에 왔을 때<br>흑기사랑 로제타는,<br>아는 사이 같긴 했어."
-Japanese,"scene_cp37_q1_s20,3712",detail,카타리나,む……言われてみればそうだったな。<br>二人は以前から面識があったのか？,음……듣고 보니 그렇군.<br>두 사람은 이전부터 면식이 있던건가?
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,ふふ……<br>ちょっと一言では言えない仲よね？<br>ねぇ？ 黒騎士さん。,후후……<br>좀 한마디로는 정리가 안되는 관계인데.<br>그치? 흑기사씨.
-Japanese,"scene_cp37_q1_s20,3712",detail,흑기사,知り合い、というほどのものでもない。<br>ただ、名前と顔を知っていた程度だ。,"아는 사이, 라 할 만한 수준은 아니다.<br>다만 이름과 얼굴을 알고 있던 정도다."
-Japanese,"scene_cp37_q1_s20,3712",detail,흑기사,この女は神出鬼没な上、<br>目的というものが、<br>まったく読めんからな……,"이 여자는 신출귀몰한데다,<br>목적이라는걸<br>전혀 읽어낼 수가 없으니……"
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,女心は空の底よりも深くって、<br>そうそう理解出来るものじゃないの。,"여심은 저 하늘 바닥보다도 깊다니깐,<br>그렇게 쉽게 이해할 수 있는게 아니야."
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,けど、アタシだって、<br>ただ自由気ままに<br>動いてるわけじゃないんだから。,"그래도 나 역시,<br>그냥 내 마음 내키는대로<br>움직이고 있기만 한건 아니거든."
-Japanese,"scene_cp37_q1_s20,3712",detail,비,<span class='scene-font-place'>ルーマシー</span>で、<br>勝手にオルキスを<br>連れ出したりしてたけど……,"<span class='scene-font-place'>루마시</span>에서,<br>마음대로 오르키스를<br>데리고 나오고 그랬지만……"
-Japanese,"scene_cp37_q1_s20,3712",detail,비,あれにもちゃんと、<br>考えがあったってのかよ？,"그것 역시 어떤,<br>생각이 있었던거였어?"
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,そうね……<br>もちろん、ただ楽しいからで<br>動くこともあるけど……,"그랬지……<br>물론, 그냥 즐거우니까<br>움직일 때도 있었지만……"
+Japanese,"scene_cp37_q1_s20,3712",synopsis,,"以前<span class='scene-font-place'>ルーマシー群島</span>を訪れた際,ロゼッタが黒騎士と面識のある様子だったことを思い出すビィ。ロゼッタはあの時の行動にも思惑があったことを明かし,古い約束がある,と口にする。","이전 <span class='scene-font-place'>루마시 군도</span>에 방문했을 때 로제타가 흑기사와 면식이 있던 것 처럼 보인 것을 기억해내는 비. 로제타는 그 때의 행동에도 의도가 있었다는 사실을 밝히고, 오래된 약속이 있다는 말을 했다."
+Japanese,"scene_cp37_q1_s20,3712",detail,비,"そういや,前に<span class='scene-font-place'>ルーマシー</span>に来たとき<br>黒騎士とロゼッタは,<br>知り合いっぽかったよな。","그러고보니, 전에<span class='scene-font-place'>루마시</span>에 왔을 때<br>흑기사랑 로제타는,<br>아는 사이 같긴 했어."
+Japanese,"scene_cp37_q1_s20,3712",detail,카타리나,む……言われてみればそうだったな。<br>二人は以前から面識があったのか?,음……듣고 보니 그렇군.<br>두 사람은 이전부터 면식이 있던건가?
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,ふふ……<br>ちょっと一言では言えない仲よね?<br>ねぇ? 黒騎士さん。,후후……<br>좀 한마디로는 정리가 안되는 관계인데.<br>그치? 흑기사씨.
+Japanese,"scene_cp37_q1_s20,3712",detail,흑기사,"知り合い,というほどのものでもない。<br>ただ,名前と顔を知っていた程度だ。","아는 사이, 라 할 만한 수준은 아니다.<br>다만 이름과 얼굴을 알고 있던 정도다."
+Japanese,"scene_cp37_q1_s20,3712",detail,흑기사,"この女は神出鬼没な上,<br>目的というものが,<br>まったく読めんからな……","이 여자는 신출귀몰한데다,<br>목적이라는걸<br>전혀 읽어낼 수가 없으니……"
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,"女心は空の底よりも深くって,<br>そうそう理解出来るものじゃないの。","여심은 저 하늘 바닥보다도 깊다니깐,<br>그렇게 쉽게 이해할 수 있는게 아니야."
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,"けど,アタシだって,<br>ただ自由気ままに<br>動いてるわけじゃないんだから。","그래도 나 역시,<br>그냥 내 마음 내키는대로<br>움직이고 있기만 한건 아니거든."
+Japanese,"scene_cp37_q1_s20,3712",detail,비,"<span class='scene-font-place'>ルーマシー</span>で,<br>勝手にオルキスを<br>連れ出したりしてたけど……","<span class='scene-font-place'>루마시</span>에서,<br>마음대로 오르키스를<br>데리고 나오고 그랬지만……"
+Japanese,"scene_cp37_q1_s20,3712",detail,비,"あれにもちゃんと,<br>考えがあったってのかよ?","그것 역시 어떤,<br>생각이 있었던거였어?"
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,"そうね……<br>もちろん,ただ楽しいからで<br>動くこともあるけど……","그랬지……<br>물론, 그냥 즐거우니까<br>움직일 때도 있었지만……"
 Japanese,"scene_cp37_q1_s20,3712",detail,로제타,約束があるの……<br>もうずいぶん前にした約束なんだけどね。,약속한게 있어……<br>이제 꽤 옛날에 했던 약속이지만.
-Japanese,"scene_cp37_q1_s20,3712",detail,루리아,約束……ですか？<br>それって……,약속……이요?<br>그건……
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,ふふ……<br>残念だけど、<br>詳しくは教えてあげられないわ。,"후후……<br>미안하지만,<br>자세히는 가르쳐줄 수 없어."
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,これは、<br>いまアタシが語っていいことじゃない。<br>まだ、その時じゃない……,"이건,<br>지금 내가 말해도 되는 내용이 아니야.<br>아직, 그 때가 아니야……"
-Japanese,"scene_cp37_q1_s20,3712",detail,로제타,それよりも、<br>いまはいまで<br>ちゃんとすべきことがあるわ。,"그것보다,<br>지금은 지금 나름<br>확실히 해둬야 할 게 있어."
+Japanese,"scene_cp37_q1_s20,3712",detail,루리아,約束……ですか?<br>それって……,약속……이요?<br>그건……
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,"ふふ……<br>残念だけど,<br>詳しくは教えてあげられないわ。","후후……<br>미안하지만,<br>자세히는 가르쳐줄 수 없어."
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,"これは,<br>いまアタシが語っていいことじゃない。<br>まだ,その時じゃない……","이건,<br>지금 내가 말해도 되는 내용이 아니야.<br>아직, 그 때가 아니야……"
+Japanese,"scene_cp37_q1_s20,3712",detail,로제타,"それよりも,<br>いまはいまで<br>ちゃんとすべきことがあるわ。","그것보다,<br>지금은 지금 나름<br>확실히 해둬야 할 게 있어."
 Japanese,"scene_cp37_q1_s20,3712",detail,로제타,アタシ達には時間がないんだから……<br>魔物なんて<br>さっさと片付けちゃいましょう。,우리들에겐 시간이 없으니까……<br>마물같은건<br>얼른 치워버리자.
-Japanese,"scene_cp37_q2_s10,3721",synopsis,,星の民の遺跡がどうして<span class='scene-font-place'>ルーマシー群島</span>にあるのか、疑問を抱くオイゲン。その問いに対し黒騎士は、<span class='scene-font-place'>ルーマシー群島</span>は元々エルステ王国の領土であり、空に残った星の民に居留地としてエルステ王国が提供していたことを、事もなげに明かす。,"별의 민족의 유적이 어째서<span class='scene-font-place'>루마시 군도</span>에 있는지, 의문을 품는 오이겐. 그 물음에 대해 흑기사는,<span class='scene-font-place'>루마시 군도</span>는 원래 엘스테 왕국의 영토이며, 엘스테 왕국이 하늘에 남은 별의 민족에게 거주지로서 제공하고 있었다는 사실을 태연스레 밝힌다."
-Japanese,"scene_cp37_q2_s10,3721",detail,오이겐,しかし、星の民の遺跡か……<br>なんだって<span class='scene-font-place'>ルーマシー</span>の森に、<br>そんなもンがあるんだか……,"하지만, 별의 민족의 유적이라……<br>왜 <span class='scene-font-place'>루마시</span>의 숲에,<br>그런게 있는 건지……"
+Japanese,"scene_cp37_q2_s10,3721",synopsis,,"星の民の遺跡がどうして<span class='scene-font-place'>ルーマシー群島</span>にあるのか,疑問を抱くオイゲン。その問いに対し黒騎士は,<span class='scene-font-place'>ルーマシー群島</span>は元々エルステ王国の領土であり,空に残った星の民に居留地としてエルステ王国が提供していたことを,事もなげに明かす。","별의 민족의 유적이 어째서<span class='scene-font-place'>루마시 군도</span>에 있는지, 의문을 품는 오이겐. 그 물음에 대해 흑기사는,<span class='scene-font-place'>루마시 군도</span>는 원래 엘스테 왕국의 영토이며, 엘스테 왕국이 하늘에 남은 별의 민족에게 거주지로서 제공하고 있었다는 사실을 태연스레 밝힌다."
+Japanese,"scene_cp37_q2_s10,3721",detail,오이겐,"しかし,星の民の遺跡か……<br>なんだって<span class='scene-font-place'>ルーマシー</span>の森に,<br>そんなもンがあるんだか……","하지만, 별의 민족의 유적이라……<br>왜 <span class='scene-font-place'>루마시</span>의 숲에,<br>그런게 있는 건지……"
 Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,ふん……<br>貴様も少しは歴史を学ぶことだな。,흥……<br>네녀석도 조금은 역사를 배워야겠군.
-Japanese,"scene_cp37_q2_s10,3721",detail,오이겐,はっはっは！ いや、悪ぃなぁ！<br>座ってお勉強、ってのは、<br>どーにも昔から苦手でよ！,"핫핫하! 아,미안하구만!<br>앉아서 공부라니,<br>아무래도 옛날부터 서툴러서 말이야!"
-Japanese,"scene_cp37_q2_s10,3721",detail,오이겐,それに比べて、<br>お前は小っちぇ頃から、<br>本を読むのが好きだったよな……,"그에 비해,<br>너는 어렸을 적 부터,<br>책을 읽는걸 좋아했었지……"
-Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,ちっ……<br>いまさら思い出話をされようと、<br>乗ってやるつもりはないぞ。,"칫……<br>이제와서 추억 이야기를 하려 해봤자,<br>어울려줄 생각은 없다."
-Japanese,"scene_cp37_q2_s10,3721",detail,비,な、なぁ……<br>それで、なんだって星の民の遺跡が、<br><span class='scene-font-place'>ルーマシー</span>にあるんだよ？,"어,어이……<br>그래서,어째서 별의 민족의 유적이,<br><span class='scene-font-place'>루마시</span>에 있는거냐고?"
+Japanese,"scene_cp37_q2_s10,3721",detail,오이겐,"はっはっは! いや,悪ぃなぁ!<br>座ってお勉強,ってのは,<br>どーにも昔から苦手でよ!","핫핫하! 아,미안하구만!<br>앉아서 공부라니,<br>아무래도 옛날부터 서툴러서 말이야!"
+Japanese,"scene_cp37_q2_s10,3721",detail,오이겐,"それに比べて,<br>お前は小っちぇ頃から,<br>本を読むのが好きだったよな……","그에 비해,<br>너는 어렸을 적 부터,<br>책을 읽는걸 좋아했었지……"
+Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,"ちっ……<br>いまさら思い出話をされようと,<br>乗ってやるつもりはないぞ。","칫……<br>이제와서 추억 이야기를 하려 해봤자,<br>어울려줄 생각은 없다."
+Japanese,"scene_cp37_q2_s10,3721",detail,비,"な,なぁ……<br>それで,なんだって星の民の遺跡が,<br><span class='scene-font-place'>ルーマシー</span>にあるんだよ?","어,어이……<br>그래서,어째서 별의 민족의 유적이,<br><span class='scene-font-place'>루마시</span>에 있는거냐고?"
 Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,それを説明するには<br><span class='scene-font-place'>ルーマシー群島</span>の歴史に<br>触れる必要がある。,그걸 설명하려면<br><span class='scene-font-place'>루마시 군도</span>의 역사를<br>알아야 할 필요가 있다.
-Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,<span class='scene-font-place'>ルーマシー</span>の歴史か……<br>見ての通り未開の地だからな、<br>あまり歴史はなかったように思うが……,"<span class='scene-font-place'>루마시</span>의 역사……<br>보는 바와 같이 미개척된 땅이니까,<br>그렇게 역사는 없었다고 생각하는데……"
-Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,そういえば、<br><span class='scene-font-place'>ルーマシー</span>はいまでこそ<br>メネア皇国領だが……,"그러고보니,<br><span class='scene-font-place'>루마시</span>는 지금은<br>메네아 황국령이다만……"
-Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,確か以前は、<br>エルステ帝国の領土だったな？,"분명 이전에는,<br>엘스테 제국의 영토였지?"
-Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,その通り……<br><span class='scene-font-place'>ルーマシー群島</span>は、<br>エルステ王国時代からの領土だ。,"그렇다……<br><span class='scene-font-place'>루마시 군도</span>는,<br>엘스테 왕국시대부터의 영토다."
-Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,覇空戦争後、<br>空に残った星の民達を<br>エルステ王国が保護し……,"패공전쟁 후,<br>하늘에 남은 별의 민족들을 엘스테왕국이 보호해서……"
+Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,"<span class='scene-font-place'>ルーマシー</span>の歴史か……<br>見ての通り未開の地だからな,<br>あまり歴史はなかったように思うが……","<span class='scene-font-place'>루마시</span>의 역사……<br>보는 바와 같이 미개척된 땅이니까,<br>그렇게 역사는 없었다고 생각하는데……"
+Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,"そういえば,<br><span class='scene-font-place'>ルーマシー</span>はいまでこそ<br>メネア皇国領だが……","그러고보니,<br><span class='scene-font-place'>루마시</span>는 지금은<br>메네아 황국령이다만……"
+Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,"確か以前は,<br>エルステ帝国の領土だったな?","분명 이전에는,<br>엘스테 제국의 영토였지?"
+Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,"その通り……<br><span class='scene-font-place'>ルーマシー群島</span>は,<br>エルステ王国時代からの領土だ。","그렇다……<br><span class='scene-font-place'>루마시 군도</span>는,<br>엘스테 왕국시대부터의 영토다."
+Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,"覇空戦争後,<br>空に残った星の民達を<br>エルステ王国が保護し……","패공전쟁 후,<br>하늘에 남은 별의 민족들을 엘스테왕국이 보호해서……"
 Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,秘密裏に<span class='scene-font-place'>ルーマシー群島</span>を<br>居留地として提供していたのだ。,비밀리에<span class='scene-font-place'>루마시 군도</span>를<br>거줒로서 제공하고 있던 것이다.
 Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,それをエルステの国力が<br>衰退した機を見計らって<br>メネアの連中が占領していってな……,그걸 엘스테의 국력이<br>쇠퇴한 틈을 파고들어<br>메네아 녀석들이 점령해버려선……
 Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,まったく……<br>メネアの連中は価値もわからんくせに<br>領土だけはやたらと……,나 참……<br>메네아 녀석들은 가치도 모르는 주제에<br>영토만 괜히……
-Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,ちょ、ちょっと待て！<br>いま当たり前のように話していたが、<br>いくつか聞き捨てならないことが……,"자, 잠깐 기다려!<br>지금 당연하다는 듯 이야기하고 있지만,<br>몇가지 흘려들을 수 없는 내용이……"
+Japanese,"scene_cp37_q2_s10,3721",detail,카타리나,"ちょ,ちょっと待て!<br>いま当たり前のように話していたが,<br>いくつか聞き捨てならないことが……","자, 잠깐 기다려!<br>지금 당연하다는 듯 이야기하고 있지만,<br>몇가지 흘려들을 수 없는 내용이……"
 Japanese,"scene_cp37_q2_s10,3721",detail,흑기사,知りたいのなら教えてやる。<br>ただ先に魔物を片づけるぞ。<br>少々群れを成してやってきたようだ……,알고 싶다면 가르쳐주지.<br>다만 먼저 마물을 쓰러뜨리자.<br>약간 무리지어 온 것 같군……
-Japanese,"scene_cp37_q2_s20,3722",synopsis,,空の世界への侵略者である星の民とエルステ王国が、友好的な関係を結んでいた事に驚きを隠せない一行。覇空戦争の後も空に残った星の民がいると聞き、星の島への手がかりを期待するが、黒騎士いわく、数十年前にはすでにほとんどの星の民が居なくなってしまっていたのだという。,"하늘의 세계에 침략자로서 나타난 별의 민족과 엘스테 왕국이 우호적인 관계를 맺고 있다는 사실에 놀람을 감추지 못하는 일행. 패공전쟁 후에도 하늘에 남아있던 별의 민족이 있다는 사실을 듣고 별의 섬으로 가는 단서를 기대하지만 흑기사 말하길, 수십년 전에는 이미 대부분의 별의 민족이 없어져버렸다고 한다."
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,エルステは以前から、<br>星の民とは友好的な関係を<br>結んでいたのだ。,"엘스테는 이전부터,<br>별의 민족과는 우호적인 관계를<br>맺고 있었다."
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,まぁ、無論、<br>星の民はこの世界の侵略者だからな、<br>秘密裏にではあるが……,"뭐, 물론,<br>별의 민족은 이 세계의 침략자니까,<br>비밀리이긴 했지만……"
-Japanese,"scene_cp37_q2_s20,3722",detail,카타리나,オルキスのご両親が、<br>ある意味、<br>その友好関係の象徴というわけか……,"오르키스의 양친께서,<br>어떤 의미로는,<br>그 우호관계의 상징인 셈인가……"
-Japanese,"scene_cp37_q2_s20,3722",detail,카타리나,しかし、<br>空に残った星の民というのは……,"하지만,<br>하늘에 남은 별의 민족이라는건……"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,覇空戦争の後、全ての星の民が、<br>空の果てへと帰っていった、<br>というわけではないらしくてな。,"패공전쟁이 끝난 후, 모든 별의 민족이,<br>하늘의 끝으로 돌아갔다,<br>는 것은 아니라는 모양이라서."
-Japanese,"scene_cp37_q2_s20,3722",detail,루리아,じゃ、じゃあ！<br>いまもどこかに……<br>この空のどこかに星の民が……？,"그, 그러면!<br>지금도 어딘가에……<br>이 하늘 어딘가에 별의 민족이……?"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,いや、それはない。<br>私が知る限り、オルキスの父君が、<br>空に残る最後の星の民だったらしい。,"아니, 그건 아니야.<br>내가 아는 한, 오르키스의 부군이,<br>하늘에 남은 최후의 별의 민족이었다고 해."
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,空に残った星の民達は、<br>数十年前にはすでに、<br>オルキスの父君だけとなり……,"하늘에 남은 별의 민족들은,<br>수십년 전에는 이미,<br>오르키스의 부군만이 남게 되서……"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,この<span class='scene-font-place'>ルーマシー</span>の居留地を捨て、<br>エルステの<span class='scene-font-place'>メフォラシュ</span>に<br>移り住んでいたからな。,"여기<span class='scene-font-place'>루마시</span>에 있는 주거지를 버리고,<br>엘스테의 <span class='scene-font-place'>메포라슈</span>로<br> 이전해서 살게 되었으니까."
-Japanese,"scene_cp37_q2_s20,3722",detail,이오,そこでその人は、<br>オルキスのお母さんと、<br>恋に落ちた、ってことなのね！,"거기서 그 사람은,<br>오르키스의 어머니와,<br>사랑에 빠졌다, 그거지!"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,そうだな。<br>なかなかその関係を認めてもらうのも、<br>苦労したそうだが……,"그렇게 되는군.<br>꽤 그 관계를 인정받기까지도,<br>고생이 많았다고 들었다만……"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,む……いや、待て。<br>そういえば確か、まだ他にも<br>星の民の生き残りがいたな……,"음……아니, 기다려.<br>그러고보면 분명히, 아직 또 다른<br>별의 민족의 생존자가 있었군……"
-Japanese,"scene_cp37_q2_s20,3722",detail,비,本当か！？<br>もしそいつに会えりゃ、<br>一気に空の果てまで……,"정말이야!?<br>만약 그녀석과 만날 수 있다면,<br>한번에 하늘 끝까지……"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,いや……<br>そいつがいま、<br>どこに居るのかは私も知らん。,"아니……<br>그 녀석이 지금,<br>어디에 있는지는 나도 모른다."
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,オルキスの父君には、<br>弟が一人いたらしくてな……,"오르키스의 부군에겐,<br>남동생이 한명 있었다고 하던데……"
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,しかし、その弟は、<br>オルキスのご両親の仲に反発し、<br>姿を消してしまったらしい。,"하지만 그 남동생은,<br>오르키스의 양친의 관계에 반발해서,<br>모습을 감춰버렸다는 모양이다."
-Japanese,"scene_cp37_q2_s20,3722",detail,루리아,そんな人がいたんですね……<br>いまは何をしているんでしょうか？,그런 사람이 있었군요……<br>지금은 무엇을 하고 있을까요?
+Japanese,"scene_cp37_q2_s20,3722",synopsis,,"空の世界への侵略者である星の民とエルステ王国が,友好的な関係を結んでいた事に驚きを隠せない一行。覇空戦争の後も空に残った星の民がいると聞き,星の島への手がかりを期待するが,黒騎士いわく,数十年前にはすでにほとんどの星の民が居なくなってしまっていたのだという。","하늘의 세계에 침략자로서 나타난 별의 민족과 엘스테 왕국이 우호적인 관계를 맺고 있다는 사실에 놀람을 감추지 못하는 일행. 패공전쟁 후에도 하늘에 남아있던 별의 민족이 있다는 사실을 듣고 별의 섬으로 가는 단서를 기대하지만 흑기사 말하길, 수십년 전에는 이미 대부분의 별의 민족이 없어져버렸다고 한다."
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"エルステは以前から,<br>星の民とは友好的な関係を<br>結んでいたのだ。","엘스테는 이전부터,<br>별의 민족과는 우호적인 관계를<br>맺고 있었다."
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"まぁ,無論,<br>星の民はこの世界の侵略者だからな,<br>秘密裏にではあるが……","뭐, 물론,<br>별의 민족은 이 세계의 침략자니까,<br>비밀리이긴 했지만……"
+Japanese,"scene_cp37_q2_s20,3722",detail,카타리나,"オルキスのご両親が,<br>ある意味,<br>その友好関係の象徴というわけか……","오르키스의 양친께서,<br>어떤 의미로는,<br>그 우호관계의 상징인 셈인가……"
+Japanese,"scene_cp37_q2_s20,3722",detail,카타리나,"しかし,<br>空に残った星の民というのは……","하지만,<br>하늘에 남은 별의 민족이라는건……"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"覇空戦争の後,全ての星の民が,<br>空の果てへと帰っていった,<br>というわけではないらしくてな。","패공전쟁이 끝난 후, 모든 별의 민족이,<br>하늘의 끝으로 돌아갔다,<br>는 것은 아니라는 모양이라서."
+Japanese,"scene_cp37_q2_s20,3722",detail,루리아,"じゃ,じゃあ!<br>いまもどこかに……<br>この空のどこかに星の民が……?","그, 그러면!<br>지금도 어딘가에……<br>이 하늘 어딘가에 별의 민족이……?"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"いや,それはない。<br>私が知る限り,オルキスの父君が,<br>空に残る最後の星の民だったらしい。","아니, 그건 아니야.<br>내가 아는 한, 오르키스의 부군이,<br>하늘에 남은 최후의 별의 민족이었다고 해."
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"空に残った星の民達は,<br>数十年前にはすでに,<br>オルキスの父君だけとなり……","하늘에 남은 별의 민족들은,<br>수십년 전에는 이미,<br>오르키스의 부군만이 남게 되서……"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"この<span class='scene-font-place'>ルーマシー</span>の居留地を捨て,<br>エルステの<span class='scene-font-place'>メフォラシュ</span>に<br>移り住んでいたからな。","여기<span class='scene-font-place'>루마시</span>에 있는 주거지를 버리고,<br>엘스테의 <span class='scene-font-place'>메포라슈</span>로<br> 이전해서 살게 되었으니까."
+Japanese,"scene_cp37_q2_s20,3722",detail,이오,"そこでその人は,<br>オルキスのお母さんと,<br>恋に落ちた,ってことなのね!","거기서 그 사람은,<br>오르키스의 어머니와,<br>사랑에 빠졌다, 그거지!"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"そうだな。<br>なかなかその関係を認めてもらうのも,<br>苦労したそうだが……","그렇게 되는군.<br>꽤 그 관계를 인정받기까지도,<br>고생이 많았다고 들었다만……"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"む……いや,待て。<br>そういえば確か,まだ他にも<br>星の民の生き残りがいたな……","음……아니, 기다려.<br>그러고보면 분명히, 아직 또 다른<br>별의 민족의 생존자가 있었군……"
+Japanese,"scene_cp37_q2_s20,3722",detail,비,"本当か!?<br>もしそいつに会えりゃ,<br>一気に空の果てまで……","정말이야!?<br>만약 그녀석과 만날 수 있다면,<br>한번에 하늘 끝까지……"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"いや……<br>そいつがいま,<br>どこに居るのかは私も知らん。","아니……<br>그 녀석이 지금,<br>어디에 있는지는 나도 모른다."
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"オルキスの父君には,<br>弟が一人いたらしくてな……","오르키스의 부군에겐,<br>남동생이 한명 있었다고 하던데……"
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"しかし,その弟は,<br>オルキスのご両親の仲に反発し,<br>姿を消してしまったらしい。","하지만 그 남동생은,<br>오르키스의 양친의 관계에 반발해서,<br>모습을 감춰버렸다는 모양이다."
+Japanese,"scene_cp37_q2_s20,3722",detail,루리아,そんな人がいたんですね……<br>いまは何をしているんでしょうか?,그런 사람이 있었군요……<br>지금은 무엇을 하고 있을까요?
 Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,さぁな……<br>一切話は聞かないが……,글쎄다……<br>전혀 소식을 듣지 않았지만……
-Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,ともかく、無駄話はここまでだ。<br>じきに<span class='scene-font-place'>ルーマシー</span>に着く頃合いだろう。<br>油断するなよ、[플레이어]。,"어찌되었건, 쓸데없는 이야기는 여기까지다.<br>곧 <span class='scene-font-place'>루마시</span>에 도착할 때가 되었을 거다.<br>방심하지 마라. [플레이어]."
-Japanese,"scene_cp37_q3_s10,3731",synopsis,,<span class='scene-font-place'>ルーマシー群島</span>へと降り立ち、一行はエルステ帝国宰相フリーシアの行方を追う。一行は、まずは<span class='scene-font-place'>ルーマシー群島</span>で宰相の姿を見たという秩序の騎空団の団員の元へと向かう。,"<span class='scene-font-place'>루마시 군도</span>에 내려서서, 일행은 엘스테 제국 재상 프리시아의 행방을 쫓는다. 일행은, 우선은<span class='scene-font-place'>루마시 군도</span>에서 재상의 모습을 보았다는 질서의 기사단의 단원이 있는 곳으로 향한다."
+Japanese,"scene_cp37_q2_s20,3722",detail,흑기사,"ともかく,無駄話はここまでだ。<br>じきに<span class='scene-font-place'>ルーマシー</span>に着く頃合いだろう。<br>油断するなよ,[플레이어]。","어찌되었건, 쓸데없는 이야기는 여기까지다.<br>곧 <span class='scene-font-place'>루마시</span>에 도착할 때가 되었을 거다.<br>방심하지 마라. [플레이어]."
+Japanese,"scene_cp37_q3_s10,3731",synopsis,,"<span class='scene-font-place'>ルーマシー群島</span>へと降り立ち,一行はエルステ帝国宰相フリーシアの行方を追う。一行は,まずは<span class='scene-font-place'>ルーマシー群島</span>で宰相の姿を見たという秩序の騎空団の団員の元へと向かう。","<span class='scene-font-place'>루마시 군도</span>에 내려서서, 일행은 엘스테 제국 재상 프리시아의 행방을 쫓는다. 일행은, 우선은<span class='scene-font-place'>루마시 군도</span>에서 재상의 모습을 보았다는 질서의 기사단의 단원이 있는 곳으로 향한다."
 Japanese,"scene_cp37_q3_s10,3731",detail,,<span class='scene-font-katari'>鬱蒼とした木々が生い茂る</span><br><span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>へと降り立った</span><br><span class='scene-font-katari'>[플레이어]一行。</span>,<span class='scene-font-katari'>울창한 나무들이 무성한</span><br><span class='scene-font-place'>루마시 군도</span><span class='scene-font-katari'>에 상륙한</span><br><span class='scene-font-katari'>[플레이어] 일행.</span>
-Japanese,"scene_cp37_q3_s10,3731",detail,,<span class='scene-font-katari'>森は以前と変わることなく、</span><br><span class='scene-font-katari'>ただ静かに一行を出迎えた。</span>,"<span class='scene-font-katari'>숲은 이전과 다를 바 없이,</span><br><span class='scene-font-katari'>그저 조용히 일행을 맞이했다.</span>"
-Japanese,"scene_cp37_q3_s10,3731",detail,로제타,本当、変わらないわ……この森は。<br>それがこの島の、<br>良いところでもあるんだけどね。,"정말, 변한게 없어……이 숲은.<br>그게 이 섬의,<br>좋은 점이기도 하지만 말야."
-Japanese,"scene_cp37_q3_s10,3731",detail,라캄,さて……<br>それで、どうやってここから、<br>宰相サンを探す？,"자 그럼……<br>그래서, 어떻게 여기서,<br>재상씨를 찾지?"
-Japanese,"scene_cp37_q3_s10,3731",detail,라캄,闇雲に探すには、<br>この森はちょっと広すぎるぜ……,"무작정 찾아다니기엔,<br>이 숲은 좀 너무 넓잖아……"
-Japanese,"scene_cp37_q3_s10,3731",detail,카타리나,まずは宰相殿の姿を見たという、<br>秩序の騎空団の者を探そう。,"우선은 재상공의 모습을 보았다는,<br>질서의 기사단원을 찾아보자."
-Japanese,"scene_cp37_q3_s10,3731",detail,카타리나,目撃者がいるのなら、<br>その本人から話を聞くのが<br>一番確実だろうからな。,"목격자가 있다면,<br>그 본인에게 이야기를 듣는 것이<br>가장 확실할 테니까."
-Japanese,"scene_cp37_q3_s20,3732",synopsis,,<span class='scene-font-place'>ルーマシー群島</span>の森で、初めて[플레이어]達と会ったときのことを懐かしがるロゼッタ。あれ以来潜り抜けた死線を想い、一行は再び訪れた地で自分達の成長を予感する。,"<span class='scene-font-place'>루마시 군도</span>의 숲에서, 처음으로 [플레이어]일행과 만났을 때를 그리워하는 로제타. 그 이래로 함께 빠져나온 사선을 생각하며 일행은 다시 돌아온 땅에서 자신들의 성장을 예감한다."
-Japanese,"scene_cp37_q3_s20,3732",detail,로제타,ふふ……なんだか懐かしいわね。<br>[플레이어]に初めて会ったのも<br>この辺りだったかしら？,후후……어쩐지 그리운걸.<br>[플레이어]랑 처음 만났던 곳도<br>이 근처였을까?
-Japanese,"scene_cp37_q3_s20,3732",detail,비,あんときは本当にびっくりしたぜ……<br>いきなり声をかけてくるんだもんな！,그때는 정말 깜짝 놀랐다고……<br>느닷없이 말을 걸어왔었잖아!
-Japanese,"scene_cp37_q3_s20,3732",detail,로제타,可愛い子を見たら、<br>少しいじわるしたくなっちゃったのよ。<br>ごめんなさいね。,"귀여운 아이를 보면,<br>좀 괴롭혀주고 싶어지기 마련이잖아.<br>미안해."
-Japanese,"scene_cp37_q3_s20,3732",detail,카타리나,以前に<span class='scene-font-place'>ルーマシー</span>を訪れたのが、<br>もうずいぶん昔のことに思えるな……,이전에<span class='scene-font-place'>루마시</span>에 들렀던 것이<br>벌써 꽤 옛날처럼 느껴지는군……
-Japanese,"scene_cp37_q3_s20,3732",detail,라캄,あれから色々あったもんなぁ……<br>何べん死にかけたか、<br>数える気にもならねぇぜ……,"그 후로 여러가지 있었지……<br>몇번이나 죽을 뻔 했는지,<br>셀 엄두도 안난다……"
-Japanese,"scene_cp37_q3_s20,3732",detail,로제타,けど、くぐった死線の数は、<br>それだけ強くなったってことだわ。,"그래도, 뛰어넘어온 사선의 숫자는,<br>그만큼 강해졌다는 뜻이기도 해."
-Japanese,"scene_cp37_q3_s20,3732",detail,로제타,前は苦戦した相手も、<br>きっといまなら<br>簡単に倒せるんじゃない？,"전에는 고전했던 상대도,<br>분명 지금이라면<br>간단히 쓰러뜨릴 수 있는거 아니야?"
-Japanese,"scene_cp37_q3_s20,3732",detail,라캄,へへっ……んじゃまぁ、<br>そうであることを祈って、<br>とっとと先へ進むとするか！,"헤헷……그럼 뭐,<br>그러기를 기도하면서,<br>후딱 앞으로 나아가볼까!"
-Japanese,"scene_cp37_q4_s10,3741",synopsis,,<span class='scene-font-place'>ルーマシー群島</span>に自分達が降り立ったにも関わらず、監視しているはずの秩序の騎空団の者が姿を見せないことを訝しむ黒騎士。リーシャの情報を信用しつつも一行は用心して森を進む。,"<span class='scene-font-place'>루마시 군도</span>에 자신들이 상륙했음에도 불구하고, 감시하고 있어야 할 질서의 기공단원의 모습이 보이지 않는 것을 수상해하는 흑기사. 리샤의 정보를 신용하면서도 일행은 조심히 숲을 나아간다."
+Japanese,"scene_cp37_q3_s10,3731",detail,,"<span class='scene-font-katari'>森は以前と変わることなく,</span><br><span class='scene-font-katari'>ただ静かに一行を出迎えた。</span>","<span class='scene-font-katari'>숲은 이전과 다를 바 없이,</span><br><span class='scene-font-katari'>그저 조용히 일행을 맞이했다.</span>"
+Japanese,"scene_cp37_q3_s10,3731",detail,로제타,"本当,変わらないわ……この森は。<br>それがこの島の,<br>良いところでもあるんだけどね。","정말, 변한게 없어……이 숲은.<br>그게 이 섬의,<br>좋은 점이기도 하지만 말야."
+Japanese,"scene_cp37_q3_s10,3731",detail,라캄,"さて……<br>それで,どうやってここから,<br>宰相サンを探す?","자 그럼……<br>그래서, 어떻게 여기서,<br>재상씨를 찾지?"
+Japanese,"scene_cp37_q3_s10,3731",detail,라캄,"闇雲に探すには,<br>この森はちょっと広すぎるぜ……","무작정 찾아다니기엔,<br>이 숲은 좀 너무 넓잖아……"
+Japanese,"scene_cp37_q3_s10,3731",detail,카타리나,"まずは宰相殿の姿を見たという,<br>秩序の騎空団の者を探そう。","우선은 재상공의 모습을 보았다는,<br>질서의 기사단원을 찾아보자."
+Japanese,"scene_cp37_q3_s10,3731",detail,카타리나,"目撃者がいるのなら,<br>その本人から話を聞くのが<br>一番確実だろうからな。","목격자가 있다면,<br>그 본인에게 이야기를 듣는 것이<br>가장 확실할 테니까."
+Japanese,"scene_cp37_q3_s20,3732",synopsis,,"<span class='scene-font-place'>ルーマシー群島</span>の森で,初めて[플레이어]達と会ったときのことを懐かしがるロゼッタ。あれ以来潜り抜けた死線を想い,一行は再び訪れた地で自分達の成長を予感する。","<span class='scene-font-place'>루마시 군도</span>의 숲에서, 처음으로 [플레이어]일행과 만났을 때를 그리워하는 로제타. 그 이래로 함께 빠져나온 사선을 생각하며 일행은 다시 돌아온 땅에서 자신들의 성장을 예감한다."
+Japanese,"scene_cp37_q3_s20,3732",detail,로제타,ふふ……なんだか懐かしいわね。<br>[플레이어]に初めて会ったのも<br>この辺りだったかしら?,후후……어쩐지 그리운걸.<br>[플레이어]랑 처음 만났던 곳도<br>이 근처였을까?
+Japanese,"scene_cp37_q3_s20,3732",detail,비,あんときは本当にびっくりしたぜ……<br>いきなり声をかけてくるんだもんな!,그때는 정말 깜짝 놀랐다고……<br>느닷없이 말을 걸어왔었잖아!
+Japanese,"scene_cp37_q3_s20,3732",detail,로제타,"可愛い子を見たら,<br>少しいじわるしたくなっちゃったのよ。<br>ごめんなさいね。","귀여운 아이를 보면,<br>좀 괴롭혀주고 싶어지기 마련이잖아.<br>미안해."
+Japanese,"scene_cp37_q3_s20,3732",detail,카타리나,"以前に<span class='scene-font-place'>ルーマシー</span>を訪れたのが,<br>もうずいぶん昔のことに思えるな……",이전에<span class='scene-font-place'>루마시</span>에 들렀던 것이<br>벌써 꽤 옛날처럼 느껴지는군……
+Japanese,"scene_cp37_q3_s20,3732",detail,라캄,"あれから色々あったもんなぁ……<br>何べん死にかけたか,<br>数える気にもならねぇぜ……","그 후로 여러가지 있었지……<br>몇번이나 죽을 뻔 했는지,<br>셀 엄두도 안난다……"
+Japanese,"scene_cp37_q3_s20,3732",detail,로제타,"けど,くぐった死線の数は,<br>それだけ強くなったってことだわ。","그래도, 뛰어넘어온 사선의 숫자는,<br>그만큼 강해졌다는 뜻이기도 해."
+Japanese,"scene_cp37_q3_s20,3732",detail,로제타,"前は苦戦した相手も,<br>きっといまなら<br>簡単に倒せるんじゃない?","전에는 고전했던 상대도,<br>분명 지금이라면<br>간단히 쓰러뜨릴 수 있는거 아니야?"
+Japanese,"scene_cp37_q3_s20,3732",detail,라캄,"へへっ……んじゃまぁ,<br>そうであることを祈って,<br>とっとと先へ進むとするか!","헤헷……그럼 뭐,<br>그러기를 기도하면서,<br>후딱 앞으로 나아가볼까!"
+Japanese,"scene_cp37_q4_s10,3741",synopsis,,"<span class='scene-font-place'>ルーマシー群島</span>に自分達が降り立ったにも関わらず,監視しているはずの秩序の騎空団の者が姿を見せないことを訝しむ黒騎士。リーシャの情報を信用しつつも一行は用心して森を進む。","<span class='scene-font-place'>루마시 군도</span>에 자신들이 상륙했음에도 불구하고, 감시하고 있어야 할 질서의 기공단원의 모습이 보이지 않는 것을 수상해하는 흑기사. 리샤의 정보를 신용하면서도 일행은 조심히 숲을 나아간다."
 Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,妙だな……,묘하군……
-Japanese,"scene_cp37_q4_s10,3741",detail,비,んん？<br>どうしたってんだよ？<br>そんな難しい顔して……,응응?<br>무슨 일인데 그래?<br>그렇게 어려운 얼굴 하고……
-Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,おかしいとは思わないのか？<br>我々が島に上陸したにも関わらず、<br>誰も姿を現さない。,"이상하다고 생각하지 않나?<br>우리들이 섬에 상륙했는데도 불구하고,<br>아무도 모습을 보이지 않는군."
-Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,帝国兵はまだしも、<br>人の出入りを監視しているはずの、<br>秩序の騎空団の連中すら現れない……,"제국병은 그렇다 치고,<br>사람의 출입을 감시하고 있을,<br>질서의 기공단 단원들조차 나타나지 않아……"
-Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,つまり静かすぎる……<br>いったい何がどうなっている……？,즉 너무 조용해……<br>도대체 뭐가 어떻게 된거지……?
-Japanese,"scene_cp37_q4_s10,3741",detail,오이겐,言われてみりゃそうだが……<br>まさかあの秩序の騎空団の嬢ちゃんに、<br>担がれたってのか？,"듣고 보니 그렇다만……<br>설마 그 질서의 기공단의 아가씨가,<br>우릴 속였다는 말인가?"
-Japanese,"scene_cp37_q4_s10,3741",detail,카타리나,それはないんじゃないか？<br>そういう策を弄するような人物には<br>見えなかったが……,그건 아니지 않을까?<br>그런 책략을 부릴만한 인물로는<br>보이지 않았는데……
-Japanese,"scene_cp37_q4_s10,3741",detail,로제타,ともかく用心して進みましょう。<br>アタシ達の与り知らない何かが、<br>この島で起きているのかもしれないわ。,"어찌되었든 조심히 나아가는게 좋겠어.<br>우리들이 알지 못하는 무언가가,<br>이 섬에서 일어나고 있는지도 몰라."
-Japanese,"scene_cp37_q4_s20,3742",synopsis,,秩序の騎空団の駐在所に近づくが、一行は不審な気配を感じ取る。ただならぬ気配と敵意に一行は警戒を高める。,질서의 기공단의 주재소에 다가가면서 일행은 수상한 기척을 느낀다. 심상치 않은 기척과 적의를 느낀 일행은 경계를 시작한다.
-Japanese,"scene_cp37_q4_s20,3742",detail,카타리나,リーシャ殿の話では、<br>秩序の騎空団の駐在所があるのは<br>この先のはずだが……,"리샤 공의 이야기에 따르면,<br>질서의 기공단의 주재소가 있는 곳은<br>이 앞일텐데……"
-Japanese,"scene_cp37_q4_s20,3742",detail,카타리나,確かに、何か妙な気配がするな……<br>得体の知れない何かが、<br>待ち受けているような……,"확실히 뭔가 묘한 기척이 느껴지는군……<br>정체를 알 수 없는 무언가가,<br>기다리고 있는것만 같은……"
-Japanese,"scene_cp37_q4_s20,3742",detail,오이겐,どんな奴が待ってるのか知らねぇが、<br>この気配は、<br>ただ者じゃねぇなぁ、おい。,"어떤 녀석이 기다리고 있는진 모르겠지만,<br>이 기척은,<br>보통 녀석이 아니겠어. 어이."
-Japanese,"scene_cp37_q4_s20,3742",detail,라캄,けど、話は通ってるんだろ？<br>だったら、<br>そんなに警戒する必要は……,"그래도, 이야기는 다 되있는거 아냐?<br>그러면,<br>그렇게까지 경계할 필요는……"
+Japanese,"scene_cp37_q4_s10,3741",detail,비,んん?<br>どうしたってんだよ?<br>そんな難しい顔して……,응응?<br>무슨 일인데 그래?<br>그렇게 어려운 얼굴 하고……
+Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,"おかしいとは思わないのか?<br>我々が島に上陸したにも関わらず,<br>誰も姿を現さない。","이상하다고 생각하지 않나?<br>우리들이 섬에 상륙했는데도 불구하고,<br>아무도 모습을 보이지 않는군."
+Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,"帝国兵はまだしも,<br>人の出入りを監視しているはずの,<br>秩序の騎空団の連中すら現れない……","제국병은 그렇다 치고,<br>사람의 출입을 감시하고 있을,<br>질서의 기공단 단원들조차 나타나지 않아……"
+Japanese,"scene_cp37_q4_s10,3741",detail,흑기사,つまり静かすぎる……<br>いったい何がどうなっている……?,즉 너무 조용해……<br>도대체 뭐가 어떻게 된거지……?
+Japanese,"scene_cp37_q4_s10,3741",detail,오이겐,"言われてみりゃそうだが……<br>まさかあの秩序の騎空団の嬢ちゃんに,<br>担がれたってのか?","듣고 보니 그렇다만……<br>설마 그 질서의 기공단의 아가씨가,<br>우릴 속였다는 말인가?"
+Japanese,"scene_cp37_q4_s10,3741",detail,카타리나,それはないんじゃないか?<br>そういう策を弄するような人物には<br>見えなかったが……,그건 아니지 않을까?<br>그런 책략을 부릴만한 인물로는<br>보이지 않았는데……
+Japanese,"scene_cp37_q4_s10,3741",detail,로제타,"ともかく用心して進みましょう。<br>アタシ達の与り知らない何かが,<br>この島で起きているのかもしれないわ。","어찌되었든 조심히 나아가는게 좋겠어.<br>우리들이 알지 못하는 무언가가,<br>이 섬에서 일어나고 있는지도 몰라."
+Japanese,"scene_cp37_q4_s20,3742",synopsis,,"秩序の騎空団の駐在所に近づくが,一行は不審な気配を感じ取る。ただならぬ気配と敵意に一行は警戒を高める。",질서의 기공단의 주재소에 다가가면서 일행은 수상한 기척을 느낀다. 심상치 않은 기척과 적의를 느낀 일행은 경계를 시작한다.
+Japanese,"scene_cp37_q4_s20,3742",detail,카타리나,"リーシャ殿の話では,<br>秩序の騎空団の駐在所があるのは<br>この先のはずだが……","리샤 공의 이야기에 따르면,<br>질서의 기공단의 주재소가 있는 곳은<br>이 앞일텐데……"
+Japanese,"scene_cp37_q4_s20,3742",detail,카타리나,"確かに,何か妙な気配がするな……<br>得体の知れない何かが,<br>待ち受けているような……","확실히 뭔가 묘한 기척이 느껴지는군……<br>정체를 알 수 없는 무언가가,<br>기다리고 있는것만 같은……"
+Japanese,"scene_cp37_q4_s20,3742",detail,오이겐,"どんな奴が待ってるのか知らねぇが,<br>この気配は,<br>ただ者じゃねぇなぁ,おい。","어떤 녀석이 기다리고 있는진 모르겠지만,<br>이 기척은,<br>보통 녀석이 아니겠어. 어이."
+Japanese,"scene_cp37_q4_s20,3742",detail,라캄,"けど,話は通ってるんだろ?<br>だったら,<br>そんなに警戒する必要は……","그래도, 이야기는 다 되있는거 아냐?<br>그러면,<br>그렇게까지 경계할 필요는……"
 Japanese,"scene_cp37_q4_s20,3742",detail,흑기사,いや……<br>警戒を解くべきではなさそうだ……,아니……<br>경계를 풀어선 안될 것 같군……
-Japanese,"scene_cp37_q4_s20,3742",detail,흑기사,明らかな敵意を感じる……<br>決して油断するんじゃないぞ、<br>[플레이어]。,명백한 적의를 느낀다……<br>절대 방심하지 말도록.<br>[플레이어].
-Japanese,"scene_cp37_q4_s30,3743",synopsis,,一行は秩序の騎空団の駐在所にたどり着くが、そこには倒れ伏す団員達と不気味な笑みを湛える宰相フリーシアの姿があった。自分達がフリーシアにおびき寄せられたことを知り、一行は臨戦態勢を取る。,"일행은 질서의 기공단의 주재소에 도달하지만, 그곳에는 쓰러져있는 단원들과 섬뜩한 미소를 짓고 있는 재상 프리시아의 모습이 있었다. 자신들이 프리시아에게 유인당했다는 것을 알고, 일행은 임전태세를 취한다."
-Japanese,"scene_cp37_q4_s30,3743",detail,,<span class='scene-font-katari'>慎重に進みながら、</span><br><span class='scene-font-katari'>一行はついに秩序の騎空団の駐在所を</span><br><span class='scene-font-katari'>その視界に収める。</span>,"<span class='scene-font-katari'>신중히 나아가면서,</span><br><span class='scene-font-katari'>일행은 드디어 질서의 기공단의 주재소를</span><br><span class='scene-font-katari'>그 시계에 담는다.</span>"
-Japanese,"scene_cp37_q4_s30,3743",detail,질서의 기공단원,く……ぐはっ……<br>に、逃げろ……,"크……크학……<br>도,도망쳐……"
+Japanese,"scene_cp37_q4_s20,3742",detail,흑기사,"明らかな敵意を感じる……<br>決して油断するんじゃないぞ,<br>[플레이어]。",명백한 적의를 느낀다……<br>절대 방심하지 말도록.<br>[플레이어].
+Japanese,"scene_cp37_q4_s30,3743",synopsis,,"一行は秩序の騎空団の駐在所にたどり着くが,そこには倒れ伏す団員達と不気味な笑みを湛える宰相フリーシアの姿があった。自分達がフリーシアにおびき寄せられたことを知り,一行は臨戦態勢を取る。","일행은 질서의 기공단의 주재소에 도달하지만, 그곳에는 쓰러져있는 단원들과 섬뜩한 미소를 짓고 있는 재상 프리시아의 모습이 있었다. 자신들이 프리시아에게 유인당했다는 것을 알고, 일행은 임전태세를 취한다."
+Japanese,"scene_cp37_q4_s30,3743",detail,,"<span class='scene-font-katari'>慎重に進みながら,</span><br><span class='scene-font-katari'>一行はついに秩序の騎空団の駐在所を</span><br><span class='scene-font-katari'>その視界に収める。</span>","<span class='scene-font-katari'>신중히 나아가면서,</span><br><span class='scene-font-katari'>일행은 드디어 질서의 기공단의 주재소를</span><br><span class='scene-font-katari'>그 시계에 담는다.</span>"
+Japanese,"scene_cp37_q4_s30,3743",detail,질서의 기공단원,"く……ぐはっ……<br>に,逃げろ……","크……크학……<br>도,도망쳐……"
 Japanese,"scene_cp37_q4_s30,3743",detail,프리시아,おや……<br>ようやくご到着のようですね。,이런……<br>드디어 도착하신 것 같네요.
-Japanese,"scene_cp37_q4_s30,3743",detail,흑기사,フリーシア……！！,프리시아……!!
+Japanese,"scene_cp37_q4_s30,3743",detail,흑기사,フリーシア……!!,프리시아……!!
 Japanese,"scene_cp37_q4_s30,3743",detail,제국병,…………,…………
-Japanese,"scene_cp37_q4_s30,3743",detail,카타리나,こ、これはいったい……？,"이, 이건 도대체……？"
-Japanese,"scene_cp37_q4_s30,3743",detail,라캄,ちっ……<br>こりゃどう考えても、<br>見たまんまだろうぜ……,"칫……<br>이건 아무리 생각해도,<br>보이는 그대로구만……"
-Japanese,"scene_cp37_q4_s30,3743",detail,라캄,どうやら俺達は、<br>まんまとここまで、<br>おびき寄せられちまったみてぇだ……！,"아무래도 우리들은,<br>보기 좋게 여기까지,<br>유인당해버린 것 같군……!"
-Japanese,"scene_cp37_q4_s30,3743",detail,,<span class='scene-font-katari'>エルステ帝国宰相フリーシアは、</span><br><span class='scene-font-katari'>不気味な余裕を湛え、</span><br><span class='scene-font-katari'>[플레이어]一行と相対する。</span>,"<span class='scene-font-katari'>엘스테 제국재상 프리시아는,</span><br><span class='scene-font-katari'>기분나쁜 여유를 드러내며,</span><br><span class='scene-font-katari'>[플레이어]일행을 상대한다.</span>"
-Japanese,"scene_cp37_q4_s30,3743",detail,,<span class='scene-font-katari'>一行はほどなくして、</span><br><span class='scene-font-katari'>その笑みの理由を</span><br><span class='scene-font-katari'>知ることになるのだった。</span>,"<span class='scene-font-katari'>일행은 머지 않아,</span><br><span class='scene-font-katari'>그 미소의 이유를</span><br><span class='scene-font-katari'>알게 되는 것이었다.</span>"
+Japanese,"scene_cp37_q4_s30,3743",detail,카타리나,"こ,これはいったい……?","이, 이건 도대체……?"
+Japanese,"scene_cp37_q4_s30,3743",detail,라캄,"ちっ……<br>こりゃどう考えても,<br>見たまんまだろうぜ……","칫……<br>이건 아무리 생각해도,<br>보이는 그대로구만……"
+Japanese,"scene_cp37_q4_s30,3743",detail,라캄,"どうやら俺達は,<br>まんまとここまで,<br>おびき寄せられちまったみてぇだ……!","아무래도 우리들은,<br>보기 좋게 여기까지,<br>유인당해버린 것 같군……!"
+Japanese,"scene_cp37_q4_s30,3743",detail,,"<span class='scene-font-katari'>エルステ帝国宰相フリーシアは,</span><br><span class='scene-font-katari'>不気味な余裕を湛え,</span><br><span class='scene-font-katari'>[플레이어]一行と相対する。</span>","<span class='scene-font-katari'>엘스테 제국재상 프리시아는,</span><br><span class='scene-font-katari'>기분나쁜 여유를 드러내며,</span><br><span class='scene-font-katari'>[플레이어]일행을 상대한다.</span>"
+Japanese,"scene_cp37_q4_s30,3743",detail,,"<span class='scene-font-katari'>一行はほどなくして,</span><br><span class='scene-font-katari'>その笑みの理由を</span><br><span class='scene-font-katari'>知ることになるのだった。</span>","<span class='scene-font-katari'>일행은 머지 않아,</span><br><span class='scene-font-katari'>그 미소의 이유를</span><br><span class='scene-font-katari'>알게 되는 것이었다.</span>"
 English,"scene_cp37_q1_s10,3711",synopsis,,"The crew head to the Lumacie Archipelago in pursuit of the Prime Minister. Even though Rosetta reveals that she knows quite a bit about the forests of Lumacie, she won't answer how."
 English,"scene_cp37_q1_s10,3711",detail,,"Armed with new information from Lecia, [플레이어] and the crew head to the Lumacie Archipelago."
 English,"scene_cp37_q1_s10,3711",detail,Io,"You guys, do you think the Prime Minister has some business at the Lumacie Archipelago?"
