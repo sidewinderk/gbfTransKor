@@ -1,359 +1,358 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_cp41_q1_s10、4111,synopsis,,フリーシア率いる帝国軍は、謎の星晶獣の出現により<span class='scene-font-place'>ルーマシー群島</span>からの撤退を余儀なくされていた。帝国軍の総攻撃を物ともせず、切り札のユグドラシル・マリスさえも抑えつける星晶獣の存在にフリーシアが歯噛みする所へ、アガスティアからの伝令が入る。アガスティアで何か事件が起きた事を知ったフリーシアは、軍をその場に残して急遽アガスティアへと向かうのであった。,"갑작스레 나타난 미지의 성정수 탓에 제국병단은 <span class='scene-font-place""> 루마시 군도</span>에서 철수할 수밖에 없었다. 이에 프리시아가 격노하고 있던 중、 제국의 수도인 아가스티아에서 보내 온 전령이 도착한다. 아가스티아에서 무언가 사건이 일어났음을 알게 된 프리시아는 서둘러 수도로 향한다."
-Japanese,scene_cp41_q1_s10、4111,detail,,<span class='scene-font-katari'>その戦艦には</span><br><span class='scene-font-katari'>彼女の苛立ちを表すがごとく</span><br><span class='scene-font-katari'>激しい攻撃の音が鳴り響いていた。</span>,<span class='scene-font-katari'>제국의 전함、</span><br><span class='scene-font-katari'>재상의 격노한 목소리가</span><br><span class='scene-font-katari'>폭발음과 뒤섞여 울려 퍼지고 있다.</span>
-Japanese,scene_cp41_q1_s10、4111,detail,,――――!!,――――!!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,我が敵を滅ぼせ!<br>星晶獣共よ!,해치워 버리세요!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,アドウェルサも全機起動させろ!<br>あらゆる兵装の使用を許可します!,애드웰사를 구동하세요!<br>모든 병기의 사용을 허가합니다!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,何としても……<br>なんとしてもあの棘を<br>焼き尽くすのです!,어떻게 해서든지…<br>저 가시들을 전부 태워버리세요!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,何なんだあの星晶獣は……!!<br>どこから出てきた……?<br>何故マリスを抑えることが出来る!?,대체 저 성정수는<br>어디서 나타난 거지?<br>어떻게 마리스를……
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,あまつさえ我々を<span class='scene-font-place'>ルーマシー</span>から<br>引きずり出すとは……<br>島の守護神にでもなったつもりか!?,게다가、 우리를<span class='scene-font-place'>루마시</span>에서<br>몰아내려고 하고 있잖아?<br>섬의 수호신이라도 된다는 건가?!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,あと一歩……<br>真の世界がこの手の届く位置に<br>あったというのに……!!,더 나은 세계가、<br>바로 눈 앞에 있었는데!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,あの騎空団を追った部隊は、<br>まだ戻らないのですか!?,기공단놈들의 추적을 맡은<br>병단은 아직인가요?
-Japanese,scene_cp41_q1_s10、4111,detail,제국병1,はっ!<br>お、恐れながら申し上げます!,각하!<br>소、 송구스러운 말씀이지만……
-Japanese,scene_cp41_q1_s10、4111,detail,제국병1,手配犯達の騎空艇が<br>想像以上の性能であり、<br>先ほど見失ったとの連絡が……,수배자들이 탄 기공정이、<br>예상 이상의 성능인 듯 합니다.<br>조금 전 놓쳤다는 연락이……
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,ちっ……!<br>役立たず共が……!!,이 쓸모 없는 것들…!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,オルキスもルリアも奪われ、<br>アーカーシャの眠る<span class='scene-font-place'>ルーマシー群島</span>には<br>降り立つことすら出来ない……,"오르키스와 루리아는 도망쳤고、<br>아카샤가 잠들어 있는<span class='scene-font-place""> 루마시 군도</span>에는 <br> 내려갈 수조차 없게 되었다니…"
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,厄介な事態になりましたね……<br>何から対処すべきか……,상황이 귀찮게 되었네요、<br>무엇부터 손 봐야 할지……
-Japanese,scene_cp41_q1_s10、4111,detail,제국병2,フ、フリーシア宰相閣下!<br>お耳に入れたいことが……!,ㅈ、 재상 각하!<br>전령이 왔습니다!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,何です?<br>いまそれどころでは……,무슨 용무죠?<br>내 시간을 낭비하는 거라면…
-Japanese,scene_cp41_q1_s10、4111,detail,,<span class='scene-font-katari'>伝令係の兵士は慌てた様子で、</span><br><span class='scene-font-katari'>何事かをフリーシアに耳打ちする。</span>,<span class='scene-font-katari'>겁에 질린 군단병은、</span><br><span class='scene-font-katari'>서둘러 프리시아의 귀에 무언가를 속삭인다.</span>
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,なに……?<br>間違いないのですか? それは。,뭐?<br>확실한가요?
-Japanese,scene_cp41_q1_s10、4111,detail,제국병2,はっ!<br>アガスティアの軍本部からの、<br>連絡になりますので……,옛! 각하!<br>아가스티아 쪽에서<br>온 소식입니다!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,ちっ……<br>何故こういう時に限って、<br>面倒事が……!,쯧、<br>꼭 이럴 때<br>귀찮은 일이……
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,貴方達は全戦力をもって、<br>棘への攻撃を続けなさい。<br>よろしいですね?,계속 해서 최대 화력으로<br>저 성정수를 공격하세요.<br>알겠나요?
-Japanese,scene_cp41_q1_s10、4111,detail,제국병2,はっ!,예、 각하!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,私は一度島を離れます。<br>誰か高速艇を用意しなさい。,잠시 볼 일이 있으니、<br>쾌속정을 준비하세요.
-Japanese,scene_cp41_q1_s10、4111,detail,제국병3,はっ! ただちに!,시행하겠습니다!
-Japanese,scene_cp41_q1_s10、4111,detail,프리시아,くそ……<br>あの男……<br>いったいどういうつもりだ……?,쯧、 대체 무슨 꿍꿍이기에…
-Japanese,scene_cp41_q2_s10、4121,synopsis,,驚異の力を振るうユグドラシル・マリスに追われ、命からがら<span class='scene-font-place'>ルーマシー群島</span>を離れた[플레이어]達。その面持ちは一様に沈痛であった。島に残したロゼッタとアポロニアの事を思い、胸を痛める一行。しかし、彼女らを助け出そうにもユグドラシル・マリスを撃破する策は無い。やがて各々は、ふたりの救出の是非を巡って衝突を始めるのだった。,[플레이어]와 일행은 무사히 유그드라실・마리스로부터 도망치지만、 기뻐할 새도 없이 섬에 남은 로제타와 흑기사를 구출할 계획을 도모하기 시작한다.
-Japanese,scene_cp41_q2_s10、4121,detail,루리아,…………,……
-Japanese,scene_cp41_q2_s10、4121,detail,비,…………,……
-Japanese,scene_cp41_q2_s10、4121,detail,라캄,ここまで来りゃあ……<br>さすがにもう、<br><span class='scene-font-place'>ルーマシー</span>は見えねぇな……,꽤나 멀리까지 왔네.<br>여기서는、<br><span class='scene-font-place'>루마시</span>가 잘 보이지도 않을 정도야.
-Japanese,scene_cp41_q2_s10、4121,detail,이오,ねぇ……<br>それで、あたし達……<br>これからどうするの?,저기、 그러니까…<br>이제 어떻게 할 생각이야?
-Japanese,scene_cp41_q2_s10、4121,detail,,<span class='scene-font-katari'>間一髪、</span><br><span class='scene-font-katari'>ユグドラシル・マリスによる全滅を免れ、</span><br><span class='scene-font-katari'>空へと漕ぎ出した[플레이어]一行。</span>,<span class='scene-font-katari'>간발의 차이로、</span><br><span class='scene-font-katari'>유그드라실・마리스로부터</span><br><span class='scene-font-katari'>목숨을 구한 [플레이어]와 일행.</span>
-Japanese,scene_cp41_q2_s10、4121,detail,,<span class='scene-font-katari'>しかし、一行は皆一様に</span><br><span class='scene-font-katari'>暗い顔をしていた。</span>,<span class='scene-font-katari'>그러나 모두들 침통한 기색이</span><br><span class='scene-font-katari'>얼굴에 서려 있었다.</span>
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,…………,……
-Japanese,scene_cp41_q2_s10、4121,detail,오이겐,…………,……
-Japanese,scene_cp41_q2_s10、4121,detail,오르키스,ねぇ……その……,어… 저기…
-Japanese,scene_cp41_q2_s10、4121,detail,이오,うん?<br>なぁに? オルキス。,응?<br>왜 그래、 오르키스?
-Japanese,scene_cp41_q2_s10、4121,detail,오르키스,あの……アポロ……は?<br>アポロは……どうなったの?,저기、 아폴로는… 어디 있어?<br>무슨 일이라도 있는 거야?
-Japanese,scene_cp41_q2_s10、4121,detail,이오,っ……!<br>それは……,아、 그게…<br>그러니까……
-Japanese,scene_cp41_q2_s10、4121,detail,라캄,あの神殿から逃げる時に<br>はぐれちまったな……<br>無事でいるといいが……,신전에서 도망쳐 나올 때 흩어졌어.<br>무사하길 바라야겠지만……
-Japanese,scene_cp41_q2_s10、4121,detail,오이겐,なぁ……<br>いまからでも遅くねぇ、<br>引き返さねぇか? [플레이어]……,이봐、 [플레이어].<br>지금이라도 늦지 않았으니、<br>돌아가지 않겠나?
-Japanese,scene_cp41_q2_s10、4121,detail,오이겐,アポロの奴、<br>きっとまだ<span class='scene-font-place'>ルーマシー</span>に……,아폴로라면、<br>아직도 <span class='scene-font-place'>루마시</span>에 있을 테고……
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,しかし……<br>何の対策も講じずに戻るのは危険だ。,하지만、 계획 없이 돌아가는 건<br>너무 무모해.
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,ユグドラシル・マリスは、<br>完全に私達の力を超えていた……,유그드라실 마리스는<br>현재의 우리에게는<br>너무 강한 적이고.
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,このまま<span class='scene-font-place'>ルーマシー</span>に戻っては、<br>みすみすフリーシアに、<br>捕まりに行くようなものだ……,지금 루마시에 돌아가는 건、<br>프리시아 손아귀에、<br>제발로 걸어 들어가는 것과 다름 없겠지.
-Japanese,scene_cp41_q2_s10、4121,detail,오이겐,だからって、ほっとけってのか!?<br>それに、<br><span class='scene-font-place'>ルーマシー</span>にはロゼッタも……!,그래서 이대로 있자는 겐가!<br>로제타는 어쩔 셈이지?<br>그녀도 버릴 생각인가?
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,私とて放っておくつもりはない!<br>仲間を……ロゼッタを、<br>あのままにしておくつもりは……!
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,しかし、いまの私達では、<br>とてもあの化物には勝てない!<br>それはオイゲンもわかるだろう!?,그런 뜻이 아니잖나!<br>동료를、 특히 로제타를…<br>그렇게 남겨둘 수는 없어.
-Japanese,scene_cp41_q2_s10、4121,detail,오이겐,話になんねぇな!<br>オレぁひとりでも行くぞ……,하지만 지금 당장、<br>그 성정수를 물리칠 방법도 없지.<br>그건 알고 있을 텐데、 오이겐.
-Japanese,scene_cp41_q2_s10、4121,detail,오이겐,ここでアポロを見捨てるくらいなら、<br>いっそあの化物に、<br>ひとりで突っ込んだほうが……,그딴 걸 신경이나 쓸 것 같으냐!<br>안 되겠다면 나 혼자도…
-Japanese,scene_cp41_q2_s10、4121,detail,카타리나,オイゲンッ!!,여기 앉아 손가락이나 빨고 있으니、<br>혼자서라도 그놈과 싸우는 게 낫지.
-Japanese,scene_cp41_q2_s10、4121,detail,라캄,ああ、くそっ!<br>ここで俺らが仲間割れして、<br>どーすんだよ!?,오이겐!
-Japanese,scene_cp41_q2_s10、4121,detail,이오,…………,젠장、 정신들 좀 차려!<br>지금 우리끼리 싸운다고 나아지는 것도 아니고.
-Japanese,scene_cp41_q3_s10、4131,synopsis,,騎空団の面々の諍いを悲しげに見つめるイオ。彼女の頭の中では、<span class='scene-font-place'>ルーマシー</span>でロゼッタにかけられた言葉が巡っていた。「団が壁にぶつかった時、支えになるのはイオちゃんだけ──」イオは、ロゼッタに託された役割を思い出し、勇気を出し、悲しみを振り切って全員を止めに入る。そしてたまらず泣き出したイオを見て、団の面々は冷静さを取り戻したのであった。,……
-Japanese,scene_cp41_q3_s10、4131,detail,이오,…………,"카타리나와 오이겐의 싸움을 안타깝게 바라보는 이오. 그녀의 머릿속에서는 span class='scene-font-place""> 루마시</span>에서 로제타가 남긴 말이 맴돈다. 그 말에 용기를 얻은 이오는、 일행들을 말리기 위해 앞으로 나선다. 결국 참다 못해 울음을 터트린 이오를 보며、 일행들은 다시 침착함을 되찾는다."
-Japanese,scene_cp41_q3_s10、4131,detail,로제타,貴方はみんなを支えてあげられる<br>立派なレディになって頂戴。,……
-Japanese,scene_cp41_q3_s10、4131,detail,로제타,いつかみんなが、<br>大きな壁にぶつかる時が来るわ。,훌륭한 레이디는<br>모두를 지탱해줄 수 있는 사람이야.<br>그리고 나는 이오가、<br>그런 사람이 되어 주었으면 좋겠어.
-Japanese,scene_cp41_q3_s10、4131,detail,로제타,その時、みんなを支えられるのは、<br>みんなを引っ張ることが出来るのは、<br>きっとイオちゃんだけなの。,아니、<br>언젠가 모두들 거대한 벽에 가로 막히는 날이 올 거야.
-Japanese,scene_cp41_q3_s10、4131,detail,로제타,だから覚えておいて。<br>イオちゃんは立派なレディとして、<br>みんなを支えてあげられる、ってことを。,그때가 왔을 때、<br>모두를 도울 수 있는 건 이오、 너뿐이야.<br>너만이 모두를 끌어 줄 수 있어.
-Japanese,scene_cp41_q3_s10、4131,detail,이오,…………,그러니 기억하렴.<br>너는 모두를 지킬 수 있을 만큼<br>강한、 훌륭한 레이디가 되어야 해.
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,ラカム!<br>いますぐグランサイファーを<br>ルーマシーに戻してくれ!,……
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,オイゲン!<br>死にたいのか貴殿は!?,라캄!<br>그랑사이퍼를 돌려、<br>루마시로 돌아가세!
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,のうのうと<br>生きてられるわけねぇだろ!?,오이겐!<br>죽고 싶기라도 한 건가!
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,アポロはオレの……<br>オレのたったひとりの娘なんだ……!,내가 그 애를 남겨둔 채<br>살 수나 있을 것 같은가!
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,だからといって……!,아폴로는…<br>그 애는、 내 외동딸이란 말일세!
-Japanese,scene_cp41_q3_s10、4131,detail,이오,ねぇ! ちょっと聞いて!<br>オイゲンもカタリナも!,하지만 그렇다고 해서—
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,…………,오이겐! 카타리나!<br>그만 좀 싸우고 내 말 좀 들어 봐!
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,…………,……
-Japanese,scene_cp41_q3_s10、4131,detail,루리아,イオちゃん……?,……
-Japanese,scene_cp41_q3_s10、4131,detail,이오,とりあえず落ち着きましょーよ。<br>ふたりとも、<br>頭に血が上っちゃってるもの。,이오?
-Japanese,scene_cp41_q3_s10、4131,detail,이오,そんな状態で、<br>この先のこと考えたって<br>良い案なんて絶対に浮かびっこないわ。,지금은 제발 진정 좀 해.<br>둘 다 머리 끝까지 화가 나 있잖아!
-Japanese,scene_cp41_q3_s10、4131,detail,이오,だからほら、<br>ご飯食べたりとかして、<br>一息つきましょ? ね?,그런 상태에서 의논해봤자、<br>좋은 계획은 떠오르지 않을 거야.
-Japanese,scene_cp41_q3_s10、4131,detail,루리아,そ……そうです!<br>イオちゃんの言う通りです!<br>まずはご飯でも食べましょう!,그러니까、<br>우선 밥도 좀 먹고、 한숨 돌리기부터 하자.<br>응?
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,い、いや、しかしな……,맞아요、 이오의 말대로 해요. 우선… 식사부터 하자구요!
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,ああ……<br>とてもじゃないが、<br>そんなことをしている暇は……,아、 아니.<br>지금은 아무 것도……
-Japanese,scene_cp41_q3_s10、4131,detail,이오,だから落ち着けって言ってんの!<br>いま、あたし達が<br>バラバラになってどうするのよ!?,하…<br>지금은 정말<br>그럴 시간이 없으니까…
-Japanese,scene_cp41_q3_s10、4131,detail,이오,確かにあの「マリス」とかってのは、<br>すっごく強かったわよ!,지금이야말로 그럴 시간이야!<br>서로 싸워대기만 해서는<br>아무 것도 할 수 없다구!
-Japanese,scene_cp41_q3_s10、4131,detail,이오,でも、だからなに!?<br>相手が強いなら、あたし達も<br>みんなで強くなればいいじゃない!,그래、 나도 알아.<br>마리스인가 하는 건 굉장히 강했지.
-Japanese,scene_cp41_q3_s10、4131,detail,이오,みんな一緒なら、<br>もう二度と<br>あんなのに負けたりしないわ!,그렇지만、 그래서 뭐?<br>상대가 강하다면、<br>우리도 그만큼 강해지면 되잖아!
-Japanese,scene_cp41_q3_s10、4131,detail,이오,みんなが……!<br>みんなが一緒なら……<br>一緒じゃないと……,우리가 함께 한다면、<br>다시는 그렇게 지지 않을 거라구!
-Japanese,scene_cp41_q3_s10、4131,detail,이오,みんな一緒じゃないと、<br>あんな化物、<br>きっと勝てないわよ……,그러니까、 우리가…<br>우리가 함께 하면…
-Japanese,scene_cp41_q3_s10、4131,detail,이오,みんな一緒じゃないと……<br>きっともう……<br>二度とロゼッタに……,그러지 않으면、<br>절대 그걸 물리칠 수<br>없을 거구…
-Japanese,scene_cp41_q3_s10、4131,detail,이오,ロゼッタに……ひっく……<br>あ、会えなく……なっちゃう……,우리가 물리치지 못하면、<br>그러면…<br>로제타를……
-Japanese,scene_cp41_q3_s10、4131,detail,이오,いや……<br>あたし……ひっく、そんなのいや……<br>また……またロゼッタに会いたい……,다시는 로제타를<br>볼 수 없을지도 몰라…
-Japanese,scene_cp41_q3_s10、4131,detail,이오,だから……ぐすっ……<br>け、喧嘩なんて……しないでよぉ……!<br>ぐすっ、っく……うぅぅ……,흑… 그런 건 싫어、<br>로제타가 보고 싶단 말야…
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,イオ……,그러니까、 흑、 <br>제발 그만들 싸우고…
-Japanese,scene_cp41_q3_s10、4131,detail,루리아,イオちゃん……,이오…
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,っ……!<br>オレぁこんな子供に、<br>なに言わせてんだろうな……,이오…
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,すまねぇ! イオ!<br>確かにオレぁ、ちぃっとばかり、<br>頭に血が上ってたみてぇだ……,이런…어른이 되어서는、<br>애 앞에서 못볼 꼴을 보였구만.
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,カタリナ……<br>さっきは怒鳴っちまって、<br>悪かったな……,그래、 이오!<br>네 말이 맞다.<br>내가 잠깐 정신을 잃었어…
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,いや、こちらこそ、すまない……<br>私も冷静さを欠いていたようだ……,그리고 카타리나、<br>큰 소리 내서 미안하네.
-Japanese,scene_cp41_q3_s10、4131,detail,오르키스,ね、ねぇ……,아니、<br>사과해야 할 건、 오히려 내 쪽이지.<br>미안하다.
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,うん? どうした?,저、 저기…
-Japanese,scene_cp41_q3_s10、4131,detail,오르키스,アポロは……どうなるの?<br>[플레이어]達は……<br>アポロを……,응? 무슨 일이라도?
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,助ける、必ずな。<br>そうだろう? オイゲン。,아폴로는 어디 있는 거야?<br>아폴로를…구해 줄 거야?
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,ああ……<br>だが確かに、何の策も無く戻っても<br>意味はねぇんだ。,물론이지.<br>그렇지 않습니까、 오이겐?
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,いま死ぬ気で突っ込んでも、<br>オレの気は晴れるかもしれねぇが、<br>結局、アポロは助けられねぇ。,그래、<br>하지만 자네가 말했 듯이、<br>계획 없이 돌아갈 순 없지.
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,いまオレがすべきことは、<br>感情のままに動くことじゃねぇ……,당장 죽을 각오로 뛰어들어도、<br>내 속은 풀릴지 모르겠지만<br>아폴로를 구할 수는 없을 테니.
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,本当に助けたいなら、<br>いまの自分を殺してでも、<br>冷静になんなくっちゃあな……,지금 내가 해야 할 건、<br>감정을 따라<br>움직이는 게 아니다.
-Japanese,scene_cp41_q3_s10、4131,detail,카타리나,必ず戻ってこよう……<br>そして、必ず助け出すんだ……<br>ロゼッタも、黒騎士も……,그 애를 정말 구하고 싶으면、<br>무작정 덤벼들지 말고<br>침착해져야 해.
-Japanese,scene_cp41_q3_s10、4131,detail,오이겐,ま、あいつは腐っても<br>オレの娘だからな!<br>そう簡単にくたばりゃしねぇさ!,반드시 돌아가서、<br>로제타와 흑기사를 구해내겠다고<br>맹세하지.
-Japanese,scene_cp41_q3_s10、4131,detail,이오,う、うん……<br>ぐす……,뭐、 썩어도 준치라고、<br>그 애는 내 딸이니까.<br>쉽게 쓰러지진 않을 게다!
-Japanese,scene_cp41_q3_s10、4131,detail,라캄,ったく……<br>気持ちはわかるけどよ、<br>何も泣くことはねぇだろ、泣くことは。,으응…<br>흑……
-Japanese,scene_cp41_q3_s10、4131,detail,이오,う、うっさいわね!<br>ちょっと目にゴミが入っただけよ!,참나、<br>마음은 알겠지만、<br>울 것까진 없잖아?
-Japanese,scene_cp41_q3_s10、4131,detail,라캄,おいおい……<br>あんだけ号泣しといて、<br>そりゃねぇんじゃねぇか?,시、 시끄러워!<br>눈에 뭐가 들어간 것뿐이거든!
-Japanese,scene_cp41_q3_s10、4131,detail,이오,うるさい、ばかぁ!!,어이구、 그러셔?<br>훌쩍거리는 거나 멈추고 말하시지?
-Japanese,scene_cp41_q3_s10、4131,detail,루리아,ふふ……なんだかやっと、<br>いつもの雰囲気に戻りましたね。<br>ねぇ? ビィさん、[플레이어]……,시끄럽댔잖아、 멍청아!
-Japanese,scene_cp41_q3_s10、4131,detail,비,んっ?<br>あ、ああ……,후후…<br>이제야 평소처럼 돌아왔네요.<br>그렇죠、 [플레이어]、 비?
-Japanese,scene_cp41_q3_s10、4131,detail,루리아,ビィさん?<br>どうしたんですか?<br>難しい顔してますけど……,뭐라고?<br>아、 응、 그렇지…
-Japanese,scene_cp41_q3_s10、4131,detail,비,ああ……<br>実はオイラ、さっきから……,비?<br>무슨 일 있어요?<br>심각해 보이는데…
-Japanese,scene_cp41_q3_s10、4131,detail,마물,<span class='scene-font-5'>グオオォォッ!!</span>,그러니까、<br>사실은—
-Japanese,scene_cp41_q3_s10、4131,detail,라캄,おっと……<br>和んでる場合じゃなかったな!<br>気合入れていくぜ! [플레이어]!,<span class='scene-font-5'>그오오오!!</span>
-Japanese,scene_cp41_q4_s10、4141,synopsis,,団結を取り戻した騎空団の面々は、得られた少ない情報から「マリス」の力の秘密を探る。魔晶の力を無理に注がれ、壊れる寸前の状態で運用されていると結論し、胸を痛めるルリアとオルキス。彼女らの想いを受け、<span class='scene-font-place'>ルーマシー群島</span>への帰還を一層強く心に決める一行であった。,이런、 방심하면 안 되겠네! 집중하자고、 [플레이어]!
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,さて……<br>まず私達には、<br>越えなければならない相手がいる。,다시 하나가 된 기공단은、 가지고 있는 정보에서 ‘마리스’의 비밀을 찾고자 한다. 마정의 힘이 무리하게 가해져 현재 유그드라실은 무너지기 직전의 상태라는 결론을 내고 루리아와 오르키스는 가슴 아파 한다. 일행은 다시 한 번 반드시 <span class='scene-font-place'>루마시 군도</span>로 돌아갈 것을 굳게 다짐한다.
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,魔晶によって作り出された星晶獣……<br>いや、もはや星晶獣と<br>呼んでいいのかもわからないが……,자、 그럼.<br>우선은 물리쳐야 할 적에 집중하지.
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,ともかく、<br>ロゼッタと黒騎士を救い出すには、<br>「マリス」を攻略する必要がある。,마정으로 조종당하고 있는 성정수…<br>아니、 지금 시점에서는 성정수라고 부르는 게<br>적절치 않겠지만.
-Japanese,scene_cp41_q4_s10、4141,detail,오이겐,信じらんねぇ強さの化物だったが……<br>ありゃ結局、なんなんだ?,어쨌든、<br>로제타와 흑기사를 구하기 위해서는<br>마리스에 대한 전략이 필요하다.
-Japanese,scene_cp41_q4_s10、4141,detail,루리아,ロゼッタさんは、<br>ユグドラシルのコアに魔晶の力が<br>注がれてる、って言ってました……,믿을 수 없을 정도로 강한 놈이었다만、<br>대체 정체가 뭐지?
-Japanese,scene_cp41_q4_s10、4141,detail,라캄,つまり、<br>星晶獣をさらに魔晶で、<br>強化してるってわけか……,로제타는 유그드라실의 코어에、<br>마정의 힘이 주입됐다고 말했어요…
-Japanese,scene_cp41_q4_s10、4141,detail,루리아,はい……<br>でも、ロゼッタさんは、<br>こうも言ってました……,그러니까、 뭐야.<br>그 마정인가 하는 게、<br>성정수를 더 강하게 한다는 거지?
-Japanese,scene_cp41_q4_s10、4141,detail,루리아,あの子はもう<br>壊れる寸前なの、って……,네…<br>하지만 로제타는 다른 말도 했어요.
-Japanese,scene_cp41_q4_s10、4141,detail,루리아,きっとユグドラシルに、<br>受け止めきれないほどたくさんの力が、<br>無理に注がれてるんだと思います。,그 성정수는、<br>무너지기 직전이라고요.
-Japanese,scene_cp41_q4_s10、4141,detail,오르키스,ごめんなさい……,유그드라실에게<br>무리하게 많은 힘이 가해져서、<br>점점 망가지고 있는 것 같아요.
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,うん?<br>どうしたんだ? 突然……,미안해…
-Japanese,scene_cp41_q4_s10、4141,detail,오르키스,私が目覚めさせなければ……<br>眠ったままだったなら……,응?<br>갑자기 무슨 소리야?
-Japanese,scene_cp41_q4_s10、4141,detail,오르키스,ユグドラシルはきっと、<br>酷い目に遭わずにすんだから……,내가 깨우지 않았다면…<br>계속 잠들어 있었더라면……
-Japanese,scene_cp41_q4_s10、4141,detail,루리아,…………,유그드라실도、<br>이런 일을 겪지 않았을 텐데.
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,そうだな……<br>では、私達と一緒に、<br>謝りに行こうじゃないか。,……
-Japanese,scene_cp41_q4_s10、4141,detail,오르키스,え……?,그렇군、<br>그렇다면 우리와 함께 사과하러 가자.
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,オルキス……君がそう思うのなら、<br>謝るべき相手は私達じゃない。<br>そうだろう?,응?
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,もう一度<span class='scene-font-place'>ルーマシー</span>へ行って、<br>ユグドラシルに謝ろう。<br>心を込めて、な。,오르키스、 네가 그렇게 생각한다고 해도、<br>사과할 상대는 우리가 아니야.
-Japanese,scene_cp41_q4_s10、4141,detail,오르키스,う、うん……!,그러니 <span class='scene-font-place'>루마시</span>로 돌아가서、<br>유그드라실에게 직접 함께 사과하자.
-Japanese,scene_cp41_q4_s10、4141,detail,카타리나,ふふ……<br><span class='scene-font-place'>ルーマシー</span>に戻らねばならない理由が、<br>また一つ増えてしまったな。,으응…
-Japanese,scene_cp41_q4_s10、4141,detail,오이겐,ああ……だからオレ達は、<br>立ち止まってるわけにゃ<br>いかねぇんだ……!,후후、<br><span class='scene-font-place'>루마시</span>로 돌아 가야 할<br>이유가 하나 더 늘었군.
-Japanese,scene_cp41_q4_s20、4142,synopsis,,ロゼッタ曰く、ユグドラシル・マリスを自壊から救うための鍵はビィにあるという。しかし、ビィ自身には心当たりが無いらしい。ビィは[플레이어]の父親に拾われる以前の記憶を失っているため、情報源を他に求める一行。そして、空域の外にまで活動範囲を持つという秩序の騎空団であれば情報を持っている可能性があると結論した一行は、秩序の騎空団の本拠地<span class='scene-font-place'>アマルティア島</span>を目指すのであった。,그래、 그러니 이렇게<br>가만히 있을 수는 없지!
-Japanese,scene_cp41_q4_s20、4142,detail,라캄,しかしなぁ……<br>それで俺達はどう戦えばいいんだ?,"일행은 유그드라실・마리스를 구할 열쇠가 비에게 있다는 로제타의 말의 의미를 찾기 위해 머리를 맞댄다. 하지만 비는 [플레이어]의 아버지와 만나기 전 기억이 없는 상태. 고민하던 일행은 공역 바깥까지 활동 범위로 두고 있다는 질서의 기공단이라면 정보를 가지고 있을 수 있겠다고 결론 내리고 해당 기공단의 본거지인 <span class='scene-font-place""> 아말테이아 섬 </span>으로 향한다."
-Japanese,scene_cp41_q4_s20、4142,detail,라캄,まずはその、<br>力の注がれてるコアとやらを<br>探し出しゃいいのか?,자、 다 좋은데…<br>어떻게 싸워야 하지?
-Japanese,scene_cp41_q4_s20、4142,detail,이오,でも、どう考えても、<br>そのコアにたどり着く前に、<br>襲ってくるわよね……,그 코어라는 걸<br>먼저 찾아야 하나?
-Japanese,scene_cp41_q4_s20、4142,detail,루리아,うーん……<br>でも、あの力はもうユグドラシル自身と<br>完全に混ざり合ってるようでした……,그래. 하지만 우리가 낌새를 보이면、<br>저쪽에서 먼저<br>코어에 도착하기도 전에 공격해 오겠지.
-Japanese,scene_cp41_q4_s20、4142,detail,루리아,だから、ユグドラシルから、<br>魔晶の力を分離させないと、<br>ダメかもしれません……,음、 마정의 힘은 이미<br>유그드라실에게 완전히<br>흡수된 것 같았어요.
-Japanese,scene_cp41_q4_s20、4142,detail,오이겐,それは、<br>ルリアやオルキスの能力じゃ、<br>どうにもならねぇのか?,그러니 그걸 먼저<br>분리할 방법을 찾아야…
-Japanese,scene_cp41_q4_s20、4142,detail,오르키스,わからない……<br>やったことがない、から……,루리아나 오르키스의 힘으로는<br>뭐、 어떻게 할 수 없나?
-Japanese,scene_cp41_q4_s20、4142,detail,카타리나,そういえば……<br>ロゼッタはビィ君に言伝をしていたな?<br>あの子を救う力がある、と……,모르겠어…<br>해 본 적이 없으니까…
-Japanese,scene_cp41_q4_s20、4142,detail,비,それなんだけどよぅ……<br>オイラ、島を出てから、<br>ずっと考えてて……,그러고 보니、<br>분명 로제타가 비에게 성정수를 구할<br>힘이 있다고 했었지.<br>무언가 떠오르는 건 없나?
-Japanese,scene_cp41_q4_s20、4142,detail,비,でも、わかんねぇんだ……<br>ロゼッタが、<br>オイラに何を言いたかったのか……,그거 말인데、<br>섬을 떠난 이후로<br>쭉 생각해봤거든…
-Japanese,scene_cp41_q4_s20、4142,detail,라캄,ってことは……<br>ビィはロゼッタの言ってたことには、<br>身に覚えがない、ってことなのか?,근데 전혀 모르겠어.<br>로제타는 무슨 말을<br>하고 싶었던 걸까?
-Japanese,scene_cp41_q4_s20、4142,detail,비,いや、<br>身に覚えがないわけでも<br>ねーんだけどよぅ……,그러니까、<br>로제타가 한 말에<br>짚이는 구석이 없단 소리야?
-Japanese,scene_cp41_q4_s20、4142,detail,비,実はオイラ……<br>[플레이어]の親父さんに<br>拾われる前の記憶が全くねーんだ。,아니、 그런 건 아니지만…
-Japanese,scene_cp41_q4_s20、4142,detail,비,だからオイラ、もしかしたら……<br>記憶を失う前は……,사실은…<br>나、 [플레이어]의 아버지와 만나기 전의<br>기억은 하나도 없어.
-Japanese,scene_cp41_q4_s20、4142,sel1_txt,,<span class='scene-font-katari'>トカゲだったのかも</span>,그러니까、 어쩌면…<br>기억을 잃기 전에、 나는…
-Japanese,scene_cp41_q4_s20、4142,sel2_txt,,<span class='scene-font-katari'>凄い奴だったのかも</span>,<span class='scene-font-katari'>도마뱀이었을지도 몰라.</span>
-Japanese,scene_cp41_q4_s20、4142,detail,비,んなっ!?<br>そんなわけねーに決まってんだろ!,<span class='scene-font-katari'>무언가 대단했을지도 몰라.</span>
-Japanese,scene_cp41_q4_s20、4142,detail,비,っていうか、<br>真面目な話をしてんだから、<br>茶化すんじゃねぇやいっ!,뭐야!?<br>도마뱀이 아니라고、<br>수천 번은 말했잖아!
-Japanese,scene_cp41_q4_s20、4142,detail,이오,このトカゲが?<br>うーん……<br>ちょっと信じがたいわね……,그리고 모처럼<br>진지한 얘기를 하고 있는데、<br>농담 하지 말라구!
-Japanese,scene_cp41_q4_s20、4142,detail,비,だからオイラは、<br>トカゲじゃねぇって、<br>言ってんじゃねーか!,이 도마뱀이?<br>음…<br>믿기 어려운 얘기네.
-Japanese,scene_cp41_q4_s20、4142,detail,이오,でも、生まれの記憶は無いんでしょ?<br>もしかしたら、<br>元々は本当にトカゲだったのかも……,그러니까、 이 몸은、 <span class='scene-font-italic'>도마뱀이 아니라니까</span>!
-Japanese,scene_cp41_q4_s20、4142,detail,비,んなっ!?<br>そ、そんなわけ……,하지만 태어난 때도<br>기억하지 못하는 거잖아?<br>어쩌면 정말 도마뱀일 수도 있다구.
-Japanese,scene_cp41_q4_s20、4142,detail,카타리나,ま、まぁまぁ!<br>ともかく、ビィ君の出生については、<br>情報を集める必要がありそうだな。,이봐! 그럴 리가 있겠냐!
-Japanese,scene_cp41_q4_s20、4142,detail,라캄,情報収集か……<br>となりゃあ、向かう先は……,저기、 잠깐만.<br>어찌 되었든、 비의 태생에 대한 정보를<br>더 모아야 할 것 같아.
-Japanese,scene_cp41_q4_s20、4142,sel1_txt,,<span class='scene-font-katari'>歴史ある国</span>,정보수집이라.<br>그러면、 역시 그곳으로…
-Japanese,scene_cp41_q4_s20、4142,sel2_txt,,<span class='scene-font-katari'>空域を越える組織</span>,<span class='scene-font-katari'>긴 역사를 가진 나라가 좋겠지.</span>
-Japanese,scene_cp41_q4_s20、4142,detail,오르키스,歴史のある国……エルステ?,<span class='scene-font-katari'>공역을 넘나드는 조직이 좋겠지.</span>
-Japanese,scene_cp41_q4_s20、4142,detail,카타리나,確かにエルステの歴史は、<br>覇空戦争以前にまで遡るようだが……,긴 역사가 있는 나라라면…<br>에르스테 같은?
-Japanese,scene_cp41_q4_s20、4142,detail,오이겐,いまのオレ達にゃあ、<br>とてもじゃねぇが近づけねぇな。,에르스테의 역사가<br>패공전쟁 이전부터<br>시작되는 건 사실이지만…
-Japanese,scene_cp41_q4_s20、4142,detail,이오,あっ!<br>ねぇねぇ、それなら、<br>秩序の騎空団はどう?,지금 상황에서 그곳으로 가는 건、<br>불구덩이에 뛰어드는 거나 다름 없지.
-Japanese,scene_cp41_q4_s20、4142,detail,이오,あそこなら色んな情報がありそうだし、<br>基本的には悪い人達じゃないんだから、<br>きっと協力してくれるわよ!,아!<br>그러면 질서의 기공단은 어때?
-Japanese,scene_cp41_q4_s20、4142,detail,카타리나,なるほど……<br>確かにビィ君がファータグランデで<br>生まれたとは限らないからな……,꽤 많은 정보를 가지고 있다던데.<br>그리고 꽤 좋은 사람들이니까、<br>분명 협력해 줄 거야!
-Japanese,scene_cp41_q4_s20、4142,detail,오이겐,となりゃあ、向かう先は……,그렇군…<br>확실히、 비가 파타그랑데에서<br>태어났다고 단언할 수는 없지.
-Japanese,scene_cp41_q4_s20、4142,detail,라캄,秩序の騎空団か……<br>なかなか悪くない判断なんじゃねぇか?,그렇다면 역시…
-Japanese,scene_cp41_q4_s20、4142,detail,카타리나,だな……<br>それに秩序の騎空団のほうも、<br>帝国の動きは気になるところだろう。,질서의 기공단이라、<br>꽤 좋은 판단인데!
-Japanese,scene_cp41_q4_s20、4142,detail,이오,もう帝国っていうか、<br>あの宰相さんの動き、<br>って感じだけどね……,동의한다.<br>그리고、 그쪽에서도도 제국의 움직임은<br>신경 쓰고 있겠지.
-Japanese,scene_cp41_q4_s20、4142,detail,라캄,そんなら行先は決まったな!<br>秩序の騎空団の<br><span class='scene-font-place'>アマルティア島</span>に向かって全速前進だ!,제국의 움직임이라기보단、<br>그 재상의 움직임이겠지만.
-Japanese,scene_cp41_q4_s30、4143,synopsis,,[플레이어]らが<span class='scene-font-place'>アマルティア島</span>へと舵を取ったその頃、秩序の騎空団の重鎮モニカは、<span class='scene-font-place'>アマルティア</span>の牢獄に囚われていた。<span class='scene-font-place'>アマルティア</span>で起きた異変を止める事ができるのはリーシャひとりであるとつぶやくモニカ。モニカはリーシャに希望を託し、牢獄の中で静かに祈りを捧げるのであった。,그러면 목적지는 정해졌네!<br>질서의 기공단 본거지인 <span class='scene-font-place'>아말테이아<span>섬으로、<br>전속력으로 간다!
-Japanese,scene_cp41_q4_s30、4143,detail,,<span class='scene-font-katari'>[플레이어]一行が、</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へと向かい始めた頃。</span>,"[플레이어]와 일행이 <span class='scene-font-place""> 아말테이아 섬</span>으로 방향을 돌린 그때、 모니카는 홀로 감옥에서 기도를 올리고 있었다."
-Japanese,scene_cp41_q4_s30、4143,detail,,<span class='scene-font-katari'>秩序の騎空団第四騎空艇団の</span><br><span class='scene-font-katari'>本部が置かれる第四庁舎の牢獄では、</span><br><span class='scene-font-katari'>モニカがひとり、祈りを捧げていた。</span>,"<span class='scene-font-katari"">[플레이어]와 일행은、 </span> <br> <span class='scene-font-place""> 아말테이아 섬 </span> <span class='scene-font-katar>으로 향한다.</span>"
-Japanese,scene_cp41_q4_s30、4143,detail,모니카,…………,"<span class='scene-font-katari"">그때、 질서의 기공단 제4기공단의 본부가 위치한 제4청사의 감옥에서</span><br><span class='scene-font-katar>모니카는 홀로 기도를 올리고 있었다.</span>"
-Japanese,scene_cp41_q4_s30、4143,detail,모니카,<span class='scene-font-kokoro'>（リーシャ……</span><br><span class='scene-font-kokoro'>絶対に無理はするんじゃないぞ……）</span>,……
-Japanese,scene_cp41_q4_s30、4143,detail,모니카,<span class='scene-font-kokoro'>（いまやお前は我々に残された、</span><br><span class='scene-font-kokoro'>たった一つの希望なのだから……）</span>,(리샤…절대로 무리하지 마.)
-,,,,,(지금 우리에게 남은 희망은…너뿐이니까…….)
+Japanese,"scene_cp41_q1_s10,4111",synopsis,,フリーシア率いる帝国軍は、謎の星晶獣の出現により<span class='scene-font-place'>ルーマシー群島</span>からの撤退を余儀なくされていた。帝国軍の総攻撃を物ともせず、切り札のユグドラシル・マリスさえも抑えつける星晶獣の存在にフリーシアが歯噛みする所へ、アガスティアからの伝令が入る。アガスティアで何か事件が起きた事を知ったフリーシアは、軍をその場に残して急遽アガスティアへと向かうのであった。,"갑작스레 나타난 미지의 성정수 탓에 제국병단은 <span class='scene-font-place""> 루마시 군도</span>에서 철수할 수밖에 없었다. 이에 프리시아가 격노하고 있던 중, 제국의 수도인 아가스티아에서 보내 온 전령이 도착한다. 아가스티아에서 무언가 사건이 일어났음을 알게 된 프리시아는 서둘러 수도로 향한다."
+Japanese,"scene_cp41_q1_s10,4111",detail,,<span class='scene-font-katari'>その戦艦には</span><br><span class='scene-font-katari'>彼女の苛立ちを表すがごとく</span><br><span class='scene-font-katari'>激しい攻撃の音が鳴り響いていた。</span>,"<span class='scene-font-katari'>제국의 전함,</span><br><span class='scene-font-katari'>재상의 격노한 목소리가</span><br><span class='scene-font-katari'>폭발음과 뒤섞여 울려 퍼지고 있다.</span>"
+Japanese,"scene_cp41_q1_s10,4111",detail,,――――！！,――――!!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,我が敵を滅ぼせ！<br>星晶獣共よ！,해치워 버리세요!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,アドウェルサも全機起動させろ！<br>あらゆる兵装の使用を許可します！,애드웰사를 구동하세요!<br>모든 병기의 사용을 허가합니다!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,何としても……<br>なんとしてもあの棘を<br>焼き尽くすのです！,어떻게 해서든지…<br>저 가시들을 전부 태워버리세요!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,何なんだあの星晶獣は……！！<br>どこから出てきた……？<br>何故マリスを抑えることが出来る！？,대체 저 성정수는<br>어디서 나타난 거지?<br>어떻게 마리스를……
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,あまつさえ我々を<span class='scene-font-place'>ルーマシー</span>から<br>引きずり出すとは……<br>島の守護神にでもなったつもりか！？,"게다가, 우리를<span class='scene-font-place'>루마시</span>에서<br>몰아내려고 하고 있잖아?<br>섬의 수호신이라도 된다는 건가?!"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,あと一歩……<br>真の世界がこの手の届く位置に<br>あったというのに……！！,"더 나은 세계가,<br>바로 눈 앞에 있었는데!"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,あの騎空団を追った部隊は、<br>まだ戻らないのですか！？,기공단놈들의 추적을 맡은<br>병단은 아직인가요?
+Japanese,"scene_cp41_q1_s10,4111",detail,제국병１,はっ！<br>お、恐れながら申し上げます！,"각하!<br>소, 송구스러운 말씀이지만……"
+Japanese,"scene_cp41_q1_s10,4111",detail,제국병１,手配犯達の騎空艇が<br>想像以上の性能であり、<br>先ほど見失ったとの連絡が……,"수배자들이 탄 기공정이,<br>예상 이상의 성능인 듯 합니다.<br>조금 전 놓쳤다는 연락이……"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,ちっ……！<br>役立たず共が……！！,이 쓸모 없는 것들…!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,オルキスもルリアも奪われ、<br>アーカーシャの眠る<span class='scene-font-place'>ルーマシー群島</span>には<br>降り立つことすら出来ない……,"오르키스와 루리아는 도망쳤고,<br>아카샤가 잠들어 있는<span class='scene-font-place""> 루마시 군도</span>에는 <br> 내려갈 수조차 없게 되었다니…"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,厄介な事態になりましたね……<br>何から対処すべきか……,"상황이 귀찮게 되었네요,<br>무엇부터 손 봐야 할지……"
+Japanese,"scene_cp41_q1_s10,4111",detail,제국병２,フ、フリーシア宰相閣下！<br>お耳に入れたいことが……！,"ㅈ, 재상 각하!<br>전령이 왔습니다!"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,何です？<br>いまそれどころでは……,무슨 용무죠?<br>내 시간을 낭비하는 거라면…
+Japanese,"scene_cp41_q1_s10,4111",detail,,<span class='scene-font-katari'>伝令係の兵士は慌てた様子で、</span><br><span class='scene-font-katari'>何事かをフリーシアに耳打ちする。</span>,"<span class='scene-font-katari'>겁에 질린 군단병은,</span><br><span class='scene-font-katari'>서둘러 프리시아의 귀에 무언가를 속삭인다.</span>"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,なに……？<br>間違いないのですか？ それは。,뭐?<br>확실한가요?
+Japanese,"scene_cp41_q1_s10,4111",detail,제국병２,はっ！<br>アガスティアの軍本部からの、<br>連絡になりますので……,옛! 각하!<br>아가스티아 쪽에서<br>온 소식입니다!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,ちっ……<br>何故こういう時に限って、<br>面倒事が……！,"쯧,<br>꼭 이럴 때<br>귀찮은 일이……"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,貴方達は全戦力をもって、<br>棘への攻撃を続けなさい。<br>よろしいですね？,계속 해서 최대 화력으로<br>저 성정수를 공격하세요.<br>알겠나요?
+Japanese,"scene_cp41_q1_s10,4111",detail,제국병２,はっ！,"예, 각하!"
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,私は一度島を離れます。<br>誰か高速艇を用意しなさい。,"잠시 볼 일이 있으니,<br>쾌속정을 준비하세요."
+Japanese,"scene_cp41_q1_s10,4111",detail,제국병３,はっ！ ただちに！,시행하겠습니다!
+Japanese,"scene_cp41_q1_s10,4111",detail,프리시아,くそ……<br>あの男……<br>いったいどういうつもりだ……？,"쯧, 대체 무슨 꿍꿍이기에…"
+Japanese,"scene_cp41_q2_s10,4121",synopsis,,驚異の力を振るうユグドラシル・マリスに追われ、命からがら<span class='scene-font-place'>ルーマシー群島</span>を離れた[플레이어]達。その面持ちは一様に沈痛であった。島に残したロゼッタとアポロニアの事を思い、胸を痛める一行。しかし、彼女らを助け出そうにもユグドラシル・マリスを撃破する策は無い。やがて各々は、ふたりの救出の是非を巡って衝突を始めるのだった。,"[플레이어]와 일행은 무사히 유그드라실・마리스로부터 도망치지만, 기뻐할 새도 없이 섬에 남은 로제타와 흑기사를 구출할 계획을 도모하기 시작한다."
+Japanese,"scene_cp41_q2_s10,4121",detail,루리아,…………,……
+Japanese,"scene_cp41_q2_s10,4121",detail,비,…………,……
+Japanese,"scene_cp41_q2_s10,4121",detail,라캄,ここまで来りゃあ……<br>さすがにもう、<br><span class='scene-font-place'>ルーマシー</span>は見えねぇな……,"꽤나 멀리까지 왔네.<br>여기서는,<br><span class='scene-font-place'>루마시</span>가 잘 보이지도 않을 정도야."
+Japanese,"scene_cp41_q2_s10,4121",detail,이오,ねぇ……<br>それで、あたし達……<br>これからどうするの？,"저기, 그러니까…<br>이제 어떻게 할 생각이야?"
+Japanese,"scene_cp41_q2_s10,4121",detail,,<span class='scene-font-katari'>間一髪、</span><br><span class='scene-font-katari'>ユグドラシル・マリスによる全滅を免れ、</span><br><span class='scene-font-katari'>空へと漕ぎ出した[플레이어]一行。</span>,"<span class='scene-font-katari'>간발의 차이로,</span><br><span class='scene-font-katari'>유그드라실・마리스로부터</span><br><span class='scene-font-katari'>목숨을 구한 [플레이어]와 일행.</span>"
+Japanese,"scene_cp41_q2_s10,4121",detail,,<span class='scene-font-katari'>しかし、一行は皆一様に</span><br><span class='scene-font-katari'>暗い顔をしていた。</span>,<span class='scene-font-katari'>그러나 모두들 침통한 기색이</span><br><span class='scene-font-katari'>얼굴에 서려 있었다.</span>
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,…………,……
+Japanese,"scene_cp41_q2_s10,4121",detail,오이겐,…………,……
+Japanese,"scene_cp41_q2_s10,4121",detail,오르키스,ねぇ……その……,어… 저기…
+Japanese,"scene_cp41_q2_s10,4121",detail,이오,うん？<br>なぁに？ オルキス。,"응?<br>왜 그래, 오르키스?"
+Japanese,"scene_cp41_q2_s10,4121",detail,오르키스,あの……アポロ……は？<br>アポロは……どうなったの？,"저기, 아폴로는… 어디 있어?<br>무슨 일이라도 있는 거야?"
+Japanese,"scene_cp41_q2_s10,4121",detail,이오,っ……！<br>それは……,"아, 그게…<br>그러니까……"
+Japanese,"scene_cp41_q2_s10,4121",detail,라캄,あの神殿から逃げる時に<br>はぐれちまったな……<br>無事でいるといいが……,신전에서 도망쳐 나올 때 흩어졌어.<br>무사하길 바라야겠지만……
+Japanese,"scene_cp41_q2_s10,4121",detail,오이겐,なぁ……<br>いまからでも遅くねぇ、<br>引き返さねぇか？ [플레이어]……,"이봐, [플레이어].<br>지금이라도 늦지 않았으니,<br>돌아가지 않겠나?"
+Japanese,"scene_cp41_q2_s10,4121",detail,오이겐,アポロの奴、<br>きっとまだ<span class='scene-font-place'>ルーマシー</span>に……,"아폴로라면,<br>아직도 <span class='scene-font-place'>루마시</span>에 있을 테고……"
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,しかし……<br>何の対策も講じずに戻るのは危険だ。,"하지만, 계획 없이 돌아가는 건<br>너무 무모해."
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,ユグドラシル・マリスは、<br>完全に私達の力を超えていた……,유그드라실 마리스는<br>현재의 우리에게는<br>너무 강한 적이고.
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,このまま<span class='scene-font-place'>ルーマシー</span>に戻っては、<br>みすみすフリーシアに、<br>捕まりに行くようなものだ……,"지금 루마시에 돌아가는 건,<br>프리시아 손아귀에,<br>제발로 걸어 들어가는 것과 다름 없겠지."
+Japanese,"scene_cp41_q2_s10,4121",detail,오이겐,だからって、ほっとけってのか！？<br>それに、<br><span class='scene-font-place'>ルーマシー</span>にはロゼッタも……！,그래서 이대로 있자는 겐가!<br>로제타는 어쩔 셈이지?<br>그녀도 버릴 생각인가?
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,私とて放っておくつもりはない！<br>仲間を……ロゼッタを、<br>あのままにしておくつもりは……！,"그런 뜻이 아니잖나!<br>동료를, 특히 로제타를…<br>그렇게 남겨둘 수는 없어."
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,しかし、いまの私達では、<br>とてもあの化物には勝てない！<br>それはオイゲンもわかるだろう！？,"하지만 지금 당장,<br>그 성정수를 물리칠 방법도 없지.<br>그건 알고 있을 텐데, 오이겐."
+Japanese,"scene_cp41_q2_s10,4121",detail,오이겐,話になんねぇな！<br>オレぁひとりでも行くぞ……,그딴 걸 신경이나 쓸 것 같으냐!<br>안 되겠다면 나 혼자도…
+Japanese,"scene_cp41_q2_s10,4121",detail,오이겐,ここでアポロを見捨てるくらいなら、<br>いっそあの化物に、<br>ひとりで突っ込んだほうが……,"여기 앉아 손가락이나 빨고 있으니,<br>혼자서라도 그놈과 싸우는 게 낫지."
+Japanese,"scene_cp41_q2_s10,4121",detail,카타리나,オイゲンッ！！,오이겐!
+Japanese,"scene_cp41_q2_s10,4121",detail,라캄,ああ、くそっ！<br>ここで俺らが仲間割れして、<br>どーすんだよ！？,"젠장, 정신들 좀 차려!<br>지금 우리끼리 싸운다고 나아지는 것도 아니고."
+Japanese,"scene_cp41_q2_s10,4121",detail,이오,…………,……
+Japanese,"scene_cp41_q3_s10,4131",synopsis,,騎空団の面々の諍いを悲しげに見つめるイオ。彼女の頭の中では、<span class='scene-font-place'>ルーマシー</span>でロゼッタにかけられた言葉が巡っていた。「団が壁にぶつかった時、支えになるのはイオちゃんだけ──」イオは、ロゼッタに託された役割を思い出し、勇気を出し、悲しみを振り切って全員を止めに入る。そしてたまらず泣き出したイオを見て、団の面々は冷静さを取り戻したのであった。,"카타리나와 오이겐의 싸움을 안타깝게 바라보는 이오. 그녀의 머릿속에서는 span class='scene-font-place""> 루마시</span>에서 로제타가 남긴 말이 맴돈다. 그 말에 용기를 얻은 이오는, 일행들을 말리기 위해 앞으로 나선다. 결국 참다 못해 울음을 터트린 이오를 보며, 일행들은 다시 침착함을 되찾는다."
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,…………,……
+Japanese,"scene_cp41_q3_s10,4131",detail,로제타,貴方はみんなを支えてあげられる<br>立派なレディになって頂戴。,"훌륭한 레이디는<br>모두를 지탱해줄 수 있는 사람이야.<br>그리고 나는 이오가,<br>그런 사람이 되어 주었으면 좋겠어."
+Japanese,"scene_cp41_q3_s10,4131",detail,로제타,いつかみんなが、<br>大きな壁にぶつかる時が来るわ。,"아니,<br>언젠가 모두들 거대한 벽에 가로 막히는 날이 올 거야."
+Japanese,"scene_cp41_q3_s10,4131",detail,로제타,その時、みんなを支えられるのは、<br>みんなを引っ張ることが出来るのは、<br>きっとイオちゃんだけなの。,"그때가 왔을 때,<br>모두를 도울 수 있는 건 이오, 너뿐이야.<br>너만이 모두를 끌어 줄 수 있어."
+Japanese,"scene_cp41_q3_s10,4131",detail,로제타,だから覚えておいて。<br>イオちゃんは立派なレディとして、<br>みんなを支えてあげられる、ってことを。,"그러니 기억하렴.<br>너는 모두를 지킬 수 있을 만큼<br>강한, 훌륭한 레이디가 되어야 해."
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,…………,……
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,ラカム！<br>いますぐグランサイファーを<br>ルーマシーに戻してくれ！,"라캄!<br>그랑사이퍼를 돌려,<br>루마시로 돌아가세!"
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,オイゲン！<br>死にたいのか貴殿は！？,오이겐!<br>죽고 싶기라도 한 건가!
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,のうのうと<br>生きてられるわけねぇだろ！？,내가 그 애를 남겨둔 채<br>살 수나 있을 것 같은가!
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,アポロはオレの……<br>オレのたったひとりの娘なんだ……！,"아폴로는…<br>그 애는, 내 외동딸이란 말일세!"
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,だからといって……！,하지만 그렇다고 해서—
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,ねぇ！ ちょっと聞いて！<br>オイゲンもカタリナも！,오이겐! 카타리나!<br>그만 좀 싸우고 내 말 좀 들어 봐!
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,…………,……
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,…………,……
+Japanese,"scene_cp41_q3_s10,4131",detail,루리아,イオちゃん……？,이오?
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,とりあえず落ち着きましょーよ。<br>ふたりとも、<br>頭に血が上っちゃってるもの。,지금은 제발 진정 좀 해.<br>둘 다 머리 끝까지 화가 나 있잖아!
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,そんな状態で、<br>この先のこと考えたって<br>良い案なんて絶対に浮かびっこないわ。,"그런 상태에서 의논해봤자,<br>좋은 계획은 떠오르지 않을 거야."
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,だからほら、<br>ご飯食べたりとかして、<br>一息つきましょ？ ね？,"그러니까,<br>우선 밥도 좀 먹고, 한숨 돌리기부터 하자.<br>응?"
+Japanese,"scene_cp41_q3_s10,4131",detail,루리아,そ……そうです！<br>イオちゃんの言う通りです！<br>まずはご飯でも食べましょう！,"맞아요, 이오의 말대로 해요. 우선… 식사부터 하자구요!"
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,い、いや、しかしな……,"아, 아니.<br>지금은 아무 것도……"
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,ああ……<br>とてもじゃないが、<br>そんなことをしている暇は……,하…<br>지금은 정말<br>그럴 시간이 없으니까…
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,だから落ち着けって言ってんの！<br>いま、あたし達が<br>バラバラになってどうするのよ！？,지금이야말로 그럴 시간이야!<br>서로 싸워대기만 해서는<br>아무 것도 할 수 없다구!
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,確かにあの「マリス」とかってのは、<br>すっごく強かったわよ！,"그래, 나도 알아.<br>마리스인가 하는 건 굉장히 강했지."
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,でも、だからなに！？<br>相手が強いなら、あたし達も<br>みんなで強くなればいいじゃない！,"그렇지만, 그래서 뭐?<br>상대가 강하다면,<br>우리도 그만큼 강해지면 되잖아!"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,みんな一緒なら、<br>もう二度と<br>あんなのに負けたりしないわ！,"우리가 함께 한다면,<br>다시는 그렇게 지지 않을 거라구!"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,みんなが……！<br>みんなが一緒なら……<br>一緒じゃないと……,"그러니까, 우리가…<br>우리가 함께 하면…"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,みんな一緒じゃないと、<br>あんな化物、<br>きっと勝てないわよ……,"그러지 않으면,<br>절대 그걸 물리칠 수<br>없을 거구…"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,みんな一緒じゃないと……<br>きっともう……<br>二度とロゼッタに……,"우리가 물리치지 못하면,<br>그러면…<br>로제타를……"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,ロゼッタに……ひっく……<br>あ、会えなく……なっちゃう……,다시는 로제타를<br>볼 수 없을지도 몰라…
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,いや……<br>あたし……ひっく、そんなのいや……<br>また……またロゼッタに会いたい……,"흑… 그런 건 싫어,<br>로제타가 보고 싶단 말야…"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,だから……ぐすっ……<br>け、喧嘩なんて……しないでよぉ……！<br>ぐすっ、っく……うぅぅ……,"그러니까, 흑, <br>제발 그만들 싸우고…"
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,イオ……,이오…
+Japanese,"scene_cp41_q3_s10,4131",detail,루리아,イオちゃん……,이오…
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,っ……！<br>オレぁこんな子供に、<br>なに言わせてんだろうな……,"이런…어른이 되어서는,<br>애 앞에서 못볼 꼴을 보였구만."
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,すまねぇ！ イオ！<br>確かにオレぁ、ちぃっとばかり、<br>頭に血が上ってたみてぇだ……,"그래, 이오!<br>네 말이 맞다.<br>내가 잠깐 정신을 잃었어…"
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,カタリナ……<br>さっきは怒鳴っちまって、<br>悪かったな……,"그리고 카타리나,<br>큰 소리 내서 미안하네."
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,いや、こちらこそ、すまない……<br>私も冷静さを欠いていたようだ……,"아니,<br>사과해야 할 건, 오히려 내 쪽이지.<br>미안하다."
+Japanese,"scene_cp41_q3_s10,4131",detail,오르키스,ね、ねぇ……,"저, 저기…"
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,うん？ どうした？,응? 무슨 일이라도?
+Japanese,"scene_cp41_q3_s10,4131",detail,오르키스,アポロは……どうなるの？<br>[플레이어]達は……<br>アポロを……,아폴로는 어디 있는 거야?<br>아폴로를…구해 줄 거야?
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,助ける、必ずな。<br>そうだろう？ オイゲン。,"물론이지.<br>그렇지 않습니까, 오이겐?"
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,ああ……<br>だが確かに、何の策も無く戻っても<br>意味はねぇんだ。,"그래,<br>하지만 자네가 말했 듯이,<br>계획 없이 돌아갈 순 없지."
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,いま死ぬ気で突っ込んでも、<br>オレの気は晴れるかもしれねぇが、<br>結局、アポロは助けられねぇ。,"당장 죽을 각오로 뛰어들어도,<br>내 속은 풀릴지 모르겠지만<br>아폴로를 구할 수는 없을 테니."
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,いまオレがすべきことは、<br>感情のままに動くことじゃねぇ……,"지금 내가 해야 할 건,<br>감정을 따라<br>움직이는 게 아니다."
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,本当に助けたいなら、<br>いまの自分を殺してでも、<br>冷静になんなくっちゃあな……,"그 애를 정말 구하고 싶으면,<br>무작정 덤벼들지 말고<br>침착해져야 해."
+Japanese,"scene_cp41_q3_s10,4131",detail,카타리나,必ず戻ってこよう……<br>そして、必ず助け出すんだ……<br>ロゼッタも、黒騎士も……,"반드시 돌아가서,<br>로제타와 흑기사를 구해내겠다고<br>맹세하지."
+Japanese,"scene_cp41_q3_s10,4131",detail,오이겐,ま、あいつは腐っても<br>オレの娘だからな！<br>そう簡単にくたばりゃしねぇさ！,"뭐, 썩어도 준치라고,<br>그 애는 내 딸이니까.<br>쉽게 쓰러지진 않을 게다!"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,う、うん……<br>ぐす……,으응…<br>흑……
+Japanese,"scene_cp41_q3_s10,4131",detail,라캄,ったく……<br>気持ちはわかるけどよ、<br>何も泣くことはねぇだろ、泣くことは。,"참나,<br>마음은 알겠지만,<br>울 것까진 없잖아?"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,う、うっさいわね！<br>ちょっと目にゴミが入っただけよ！,"시, 시끄러워!<br>눈에 뭐가 들어간 것뿐이거든!"
+Japanese,"scene_cp41_q3_s10,4131",detail,라캄,おいおい……<br>あんだけ号泣しといて、<br>そりゃねぇんじゃねぇか？,"어이구, 그러셔?<br>훌쩍거리는 거나 멈추고 말하시지?"
+Japanese,"scene_cp41_q3_s10,4131",detail,이오,うるさい、ばかぁ！！,"시끄럽댔잖아, 멍청아!"
+Japanese,"scene_cp41_q3_s10,4131",detail,루리아,ふふ……なんだかやっと、<br>いつもの雰囲気に戻りましたね。<br>ねぇ？ ビィさん、[플레이어]……,"후후…<br>이제야 평소처럼 돌아왔네요.<br>그렇죠, [플레이어], 비?"
+Japanese,"scene_cp41_q3_s10,4131",detail,비,んっ？<br>あ、ああ……,"뭐라고?<br>아, 응, 그렇지…"
+Japanese,"scene_cp41_q3_s10,4131",detail,루리아,ビィさん？<br>どうしたんですか？<br>難しい顔してますけど……,비?<br>무슨 일 있어요?<br>심각해 보이는데…
+Japanese,"scene_cp41_q3_s10,4131",detail,비,ああ……<br>実はオイラ、さっきから……,"그러니까,<br>사실은—"
+Japanese,"scene_cp41_q3_s10,4131",detail,마물,<span class='scene-font-5'>グオオォォッ！！</span>,<span class='scene-font-5'>그오오오!!</span>
+Japanese,"scene_cp41_q3_s10,4131",detail,라캄,おっと……<br>和んでる場合じゃなかったな！<br>気合入れていくぜ！ [플레이어]！,"이런, 방심하면 안 되겠네! 집중하자고, [플레이어]!"
+Japanese,"scene_cp41_q4_s10,4141",synopsis,,団結を取り戻した騎空団の面々は、得られた少ない情報から「マリス」の力の秘密を探る。魔晶の力を無理に注がれ、壊れる寸前の状態で運用されていると結論し、胸を痛めるルリアとオルキス。彼女らの想いを受け、<span class='scene-font-place'>ルーマシー群島</span>への帰還を一層強く心に決める一行であった。,"다시 하나가 된 기공단은, 가지고 있는 정보에서 ‘마리스’의 비밀을 찾고자 한다. 마정의 힘이 무리하게 가해져 현재 유그드라실은 무너지기 직전의 상태라는 결론을 내고 루리아와 오르키스는 가슴 아파 한다. 일행은 다시 한 번 반드시 <span class='scene-font-place'>루마시 군도</span>로 돌아갈 것을 굳게 다짐한다."
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,さて……<br>まず私達には、<br>越えなければならない相手がいる。,"자, 그럼.<br>우선은 물리쳐야 할 적에 집중하지."
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,魔晶によって作り出された星晶獣……<br>いや、もはや星晶獣と<br>呼んでいいのかもわからないが……,"마정으로 조종당하고 있는 성정수…<br>아니, 지금 시점에서는 성정수라고 부르는 게<br>적절치 않겠지만."
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,ともかく、<br>ロゼッタと黒騎士を救い出すには、<br>「マリス」を攻略する必要がある。,"어쨌든,<br>로제타와 흑기사를 구하기 위해서는<br>마리스에 대한 전략이 필요하다."
+Japanese,"scene_cp41_q4_s10,4141",detail,오이겐,信じらんねぇ強さの化物だったが……<br>ありゃ結局、なんなんだ？,"믿을 수 없을 정도로 강한 놈이었다만,<br>대체 정체가 뭐지?"
+Japanese,"scene_cp41_q4_s10,4141",detail,루리아,ロゼッタさんは、<br>ユグドラシルのコアに魔晶の力が<br>注がれてる、って言ってました……,"로제타는 유그드라실의 코어에,<br>마정의 힘이 주입됐다고 말했어요…"
+Japanese,"scene_cp41_q4_s10,4141",detail,라캄,つまり、<br>星晶獣をさらに魔晶で、<br>強化してるってわけか……,"그러니까, 뭐야.<br>그 마정인가 하는 게,<br>성정수를 더 강하게 한다는 거지?"
+Japanese,"scene_cp41_q4_s10,4141",detail,루리아,はい……<br>でも、ロゼッタさんは、<br>こうも言ってました……,네…<br>하지만 로제타는 다른 말도 했어요.
+Japanese,"scene_cp41_q4_s10,4141",detail,루리아,あの子はもう<br>壊れる寸前なの、って……,"그 성정수는,<br>무너지기 직전이라고요."
+Japanese,"scene_cp41_q4_s10,4141",detail,루리아,きっとユグドラシルに、<br>受け止めきれないほどたくさんの力が、<br>無理に注がれてるんだと思います。,"유그드라실에게<br>무리하게 많은 힘이 가해져서,<br>점점 망가지고 있는 것 같아요."
+Japanese,"scene_cp41_q4_s10,4141",detail,오르키스,ごめんなさい……,미안해…
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,うん？<br>どうしたんだ？ 突然……,응?<br>갑자기 무슨 소리야?
+Japanese,"scene_cp41_q4_s10,4141",detail,오르키스,私が目覚めさせなければ……<br>眠ったままだったなら……,내가 깨우지 않았다면…<br>계속 잠들어 있었더라면……
+Japanese,"scene_cp41_q4_s10,4141",detail,오르키스,ユグドラシルはきっと、<br>酷い目に遭わずにすんだから……,"유그드라실도,<br>이런 일을 겪지 않았을 텐데."
+Japanese,"scene_cp41_q4_s10,4141",detail,루리아,…………,……
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,そうだな……<br>では、私達と一緒に、<br>謝りに行こうじゃないか。,"그렇군,<br>그렇다면 우리와 함께 사과하러 가자."
+Japanese,"scene_cp41_q4_s10,4141",detail,오르키스,え……？,응?
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,オルキス……君がそう思うのなら、<br>謝るべき相手は私達じゃない。<br>そうだろう？,"오르키스, 네가 그렇게 생각한다고 해도,<br>사과할 상대는 우리가 아니야."
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,もう一度<span class='scene-font-place'>ルーマシー</span>へ行って、<br>ユグドラシルに謝ろう。<br>心を込めて、な。,"그러니 <span class='scene-font-place'>루마시</span>로 돌아가서,<br>유그드라실에게 직접 함께 사과하자."
+Japanese,"scene_cp41_q4_s10,4141",detail,오르키스,う、うん……！,으응…
+Japanese,"scene_cp41_q4_s10,4141",detail,카타리나,ふふ……<br><span class='scene-font-place'>ルーマシー</span>に戻らねばならない理由が、<br>また一つ増えてしまったな。,"후후,<br><span class='scene-font-place'>루마시</span>로 돌아 가야 할<br>이유가 하나 더 늘었군."
+Japanese,"scene_cp41_q4_s10,4141",detail,오이겐,ああ……だからオレ達は、<br>立ち止まってるわけにゃ<br>いかねぇんだ……！,"그래, 그러니 이렇게<br>가만히 있을 수는 없지!"
+Japanese,"scene_cp41_q4_s20,4142",synopsis,,ロゼッタ曰く、ユグドラシル・マリスを自壊から救うための鍵はビィにあるという。しかし、ビィ自身には心当たりが無いらしい。ビィは[플레이어]の父親に拾われる以前の記憶を失っているため、情報源を他に求める一行。そして、空域の外にまで活動範囲を持つという秩序の騎空団であれば情報を持っている可能性があると結論した一行は、秩序の騎空団の本拠地<span class='scene-font-place'>アマルティア島</span>を目指すのであった。,"일행은 유그드라실・마리스를 구할 열쇠가 비에게 있다는 로제타의 말의 의미를 찾기 위해 머리를 맞댄다. 하지만 비는 [플레이어]의 아버지와 만나기 전 기억이 없는 상태. 고민하던 일행은 공역 바깥까지 활동 범위로 두고 있다는 질서의 기공단이라면 정보를 가지고 있을 수 있겠다고 결론 내리고 해당 기공단의 본거지인 <span class='scene-font-place""> 아말테이아 섬 </span>으로 향한다."
+Japanese,"scene_cp41_q4_s20,4142",detail,라캄,しかしなぁ……<br>それで俺達はどう戦えばいいんだ？,"자, 다 좋은데…<br>어떻게 싸워야 하지?"
+Japanese,"scene_cp41_q4_s20,4142",detail,라캄,まずはその、<br>力の注がれてるコアとやらを<br>探し出しゃいいのか？,그 코어라는 걸<br>먼저 찾아야 하나?
+Japanese,"scene_cp41_q4_s20,4142",detail,이오,でも、どう考えても、<br>そのコアにたどり着く前に、<br>襲ってくるわよね……,"그래. 하지만 우리가 낌새를 보이면,<br>저쪽에서 먼저<br>코어에 도착하기도 전에 공격해 오겠지."
+Japanese,"scene_cp41_q4_s20,4142",detail,루리아,うーん……<br>でも、あの力はもうユグドラシル自身と<br>完全に混ざり合ってるようでした……,"음, 마정의 힘은 이미<br>유그드라실에게 완전히<br>흡수된 것 같았어요."
+Japanese,"scene_cp41_q4_s20,4142",detail,루리아,だから、ユグドラシルから、<br>魔晶の力を分離させないと、<br>ダメかもしれません……,그러니 그걸 먼저<br>분리할 방법을 찾아야…
+Japanese,"scene_cp41_q4_s20,4142",detail,오이겐,それは、<br>ルリアやオルキスの能力じゃ、<br>どうにもならねぇのか？,"루리아나 오르키스의 힘으로는<br>뭐, 어떻게 할 수 없나?"
+Japanese,"scene_cp41_q4_s20,4142",detail,오르키스,わからない……<br>やったことがない、から……,모르겠어…<br>해 본 적이 없으니까…
+Japanese,"scene_cp41_q4_s20,4142",detail,카타리나,そういえば……<br>ロゼッタはビィ君に言伝をしていたな？<br>あの子を救う力がある、と……,"그러고 보니,<br>분명 로제타가 비에게 성정수를 구할<br>힘이 있다고 했었지.<br>무언가 떠오르는 건 없나?"
+Japanese,"scene_cp41_q4_s20,4142",detail,비,それなんだけどよぅ……<br>オイラ、島を出てから、<br>ずっと考えてて……,"그거 말인데,<br>섬을 떠난 이후로<br>쭉 생각해봤거든…"
+Japanese,"scene_cp41_q4_s20,4142",detail,비,でも、わかんねぇんだ……<br>ロゼッタが、<br>オイラに何を言いたかったのか……,근데 전혀 모르겠어.<br>로제타는 무슨 말을<br>하고 싶었던 걸까?
+Japanese,"scene_cp41_q4_s20,4142",detail,라캄,ってことは……<br>ビィはロゼッタの言ってたことには、<br>身に覚えがない、ってことなのか？,"그러니까,<br>로제타가 한 말에<br>짚이는 구석이 없단 소리야?"
+Japanese,"scene_cp41_q4_s20,4142",detail,비,いや、<br>身に覚えがないわけでも<br>ねーんだけどよぅ……,"아니, 그런 건 아니지만…"
+Japanese,"scene_cp41_q4_s20,4142",detail,비,実はオイラ……<br>[플레이어]の親父さんに<br>拾われる前の記憶が全くねーんだ。,"사실은…<br>나, [플레이어]의 아버지와 만나기 전의<br>기억은 하나도 없어."
+Japanese,"scene_cp41_q4_s20,4142",detail,비,だからオイラ、もしかしたら……<br>記憶を失う前は……,"그러니까, 어쩌면…<br>기억을 잃기 전에, 나는…"
+Japanese,"scene_cp41_q4_s20,4142",sel1_txt,,<span class='scene-font-katari'>トカゲだったのかも</span>,<span class='scene-font-katari'>도마뱀이었을지도 몰라.</span>
+Japanese,"scene_cp41_q4_s20,4142",sel2_txt,,<span class='scene-font-katari'>凄い奴だったのかも</span>,<span class='scene-font-katari'>무언가 대단했을지도 몰라.</span>
+Japanese,"scene_cp41_q4_s20,4142",detail,비,んなっ！？<br>そんなわけねーに決まってんだろ！,"뭐야!?<br>도마뱀이 아니라고,<br>수천 번은 말했잖아!"
+Japanese,"scene_cp41_q4_s20,4142",detail,비,っていうか、<br>真面目な話をしてんだから、<br>茶化すんじゃねぇやいっ！,"그리고 모처럼<br>진지한 얘기를 하고 있는데,<br>농담 하지 말라구!"
+Japanese,"scene_cp41_q4_s20,4142",detail,이오,このトカゲが？<br>うーん……<br>ちょっと信じがたいわね……,이 도마뱀이?<br>음…<br>믿기 어려운 얘기네.
+Japanese,"scene_cp41_q4_s20,4142",detail,비,だからオイラは、<br>トカゲじゃねぇって、<br>言ってんじゃねーか！,"그러니까, 이 몸은, <span class='scene-font-italic'>도마뱀이 아니라니까</span>!"
+Japanese,"scene_cp41_q4_s20,4142",detail,이오,でも、生まれの記憶は無いんでしょ？<br>もしかしたら、<br>元々は本当にトカゲだったのかも……,하지만 태어난 때도<br>기억하지 못하는 거잖아?<br>어쩌면 정말 도마뱀일 수도 있다구.
+Japanese,"scene_cp41_q4_s20,4142",detail,비,んなっ！？<br>そ、そんなわけ……,이봐! 그럴 리가 있겠냐!
+Japanese,"scene_cp41_q4_s20,4142",detail,카타리나,ま、まぁまぁ！<br>ともかく、ビィ君の出生については、<br>情報を集める必要がありそうだな。,"저기, 잠깐만.<br>어찌 되었든, 비의 태생에 대한 정보를<br>더 모아야 할 것 같아."
+Japanese,"scene_cp41_q4_s20,4142",detail,라캄,情報収集か……<br>となりゃあ、向かう先は……,"정보수집이라.<br>그러면, 역시 그곳으로…"
+Japanese,"scene_cp41_q4_s20,4142",sel1_txt,,<span class='scene-font-katari'>歴史ある国</span>,<span class='scene-font-katari'>긴 역사를 가진 나라가 좋겠지.</span>
+Japanese,"scene_cp41_q4_s20,4142",sel2_txt,,<span class='scene-font-katari'>空域を越える組織</span>,<span class='scene-font-katari'>공역을 넘나드는 조직이 좋겠지.</span>
+Japanese,"scene_cp41_q4_s20,4142",detail,오르키스,歴史のある国……エルステ？,긴 역사가 있는 나라라면…<br>에르스테 같은?
+Japanese,"scene_cp41_q4_s20,4142",detail,카타리나,確かにエルステの歴史は、<br>覇空戦争以前にまで遡るようだが……,에르스테의 역사가<br>패공전쟁 이전부터<br>시작되는 건 사실이지만…
+Japanese,"scene_cp41_q4_s20,4142",detail,오이겐,いまのオレ達にゃあ、<br>とてもじゃねぇが近づけねぇな。,"지금 상황에서 그곳으로 가는 건,<br>불구덩이에 뛰어드는 거나 다름 없지."
+Japanese,"scene_cp41_q4_s20,4142",detail,이오,あっ！<br>ねぇねぇ、それなら、<br>秩序の騎空団はどう？,아!<br>그러면 질서의 기공단은 어때?
+Japanese,"scene_cp41_q4_s20,4142",detail,이오,あそこなら色んな情報がありそうだし、<br>基本的には悪い人達じゃないんだから、<br>きっと協力してくれるわよ！,"꽤 많은 정보를 가지고 있다던데.<br>그리고 꽤 좋은 사람들이니까,<br>분명 협력해 줄 거야!"
+Japanese,"scene_cp41_q4_s20,4142",detail,카타리나,なるほど……<br>確かにビィ君がファータグランデで<br>生まれたとは限らないからな……,"그렇군…<br>확실히, 비가 파타그랑데에서<br>태어났다고 단언할 수는 없지."
+Japanese,"scene_cp41_q4_s20,4142",detail,오이겐,となりゃあ、向かう先は……,그렇다면 역시…
+Japanese,"scene_cp41_q4_s20,4142",detail,라캄,秩序の騎空団か……<br>なかなか悪くない判断なんじゃねぇか？,"질서의 기공단이라,<br>꽤 좋은 판단인데!"
+Japanese,"scene_cp41_q4_s20,4142",detail,카타리나,だな……<br>それに秩序の騎空団のほうも、<br>帝国の動きは気になるところだろう。,"동의한다.<br>그리고, 그쪽에서도도 제국의 움직임은<br>신경 쓰고 있겠지."
+Japanese,"scene_cp41_q4_s20,4142",detail,이오,もう帝国っていうか、<br>あの宰相さんの動き、<br>って感じだけどね……,"제국의 움직임이라기보단,<br>그 재상의 움직임이겠지만."
+Japanese,"scene_cp41_q4_s20,4142",detail,라캄,そんなら行先は決まったな！<br>秩序の騎空団の<br><span class='scene-font-place'>アマルティア島</span>に向かって全速前進だ！,"그러면 목적지는 정해졌네!<br>질서의 기공단 본거지인 <span class='scene-font-place'>아말테이아<span>섬으로,<br>전속력으로 간다!"
+Japanese,"scene_cp41_q4_s30,4143",synopsis,,[플레이어]らが<span class='scene-font-place'>アマルティア島</span>へと舵を取ったその頃、秩序の騎空団の重鎮モニカは、<span class='scene-font-place'>アマルティア</span>の牢獄に囚われていた。<span class='scene-font-place'>アマルティア</span>で起きた異変を止める事ができるのはリーシャひとりであるとつぶやくモニカ。モニカはリーシャに希望を託し、牢獄の中で静かに祈りを捧げるのであった。,"[플레이어]와 일행이 <span class='scene-font-place""> 아말테이아 섬</span>으로 방향을 돌린 그때, 모니카는 홀로 감옥에서 기도를 올리고 있었다."
+Japanese,"scene_cp41_q4_s30,4143",detail,,<span class='scene-font-katari'>[플레이어]一行が、</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へと向かい始めた頃。</span>,"<span class='scene-font-katari"">[플레이어]와 일행은, </span> <br> <span class='scene-font-place""> 아말테이아 섬 </span> <span class='scene-font-katar>으로 향한다.</span>"
+Japanese,"scene_cp41_q4_s30,4143",detail,,<span class='scene-font-katari'>秩序の騎空団第四騎空艇団の</span><br><span class='scene-font-katari'>本部が置かれる第四庁舎の牢獄では、</span><br><span class='scene-font-katari'>モニカがひとり、祈りを捧げていた。</span>,"<span class='scene-font-katari"">그때, 질서의 기공단 제4기공단의 본부가 위치한 제4청사의 감옥에서</span><br><span class='scene-font-katar>모니카는 홀로 기도를 올리고 있었다.</span>"
+Japanese,"scene_cp41_q4_s30,4143",detail,모니카,…………,……
+Japanese,"scene_cp41_q4_s30,4143",detail,모니카,<span class='scene-font-kokoro'>（リーシャ……</span><br><span class='scene-font-kokoro'>絶対に無理はするんじゃないぞ……）</span>,(리샤…절대로 무리하지 마.)
+Japanese,"scene_cp41_q4_s30,4143",detail,모니카,<span class='scene-font-kokoro'>（いまやお前は我々に残された、</span><br><span class='scene-font-kokoro'>たった一つの希望なのだから……）</span>,(지금 우리에게 남은 희망은…너뿐이니까…….)
 
-English,scene_cp41_q1_s10、4111,synopsis,,Freesia is angered after the mysterious primal beast forces the imperial army to withdraw from the Lumacie Archipelago. A messenger arrives with news from Agastia、 the capital of the empire、 forcing Freesia to disengage the primal and leave.,"갑작스레 나타난 미지의 성정수 탓에 제국병단은 <span class='scene-font-place""> 루마시 군도</span>에서 철수할 수밖에 없었다. 이에 프리시아가 격노하고 있던 중、 제국의 수도인 아가스티아에서 보내 온 전령이 도착한다. 아가스티아에서 무언가 사건이 일어났음을 알게 된 프리시아는 서둘러 수도로 향한다."
-English,scene_cp41_q1_s10、4111,detail,,The sounds of battle echo throughout the warship、 as its commander lashes out in irritation.,<span class='scene-font-katari'>제국의 전함、</span><br><span class='scene-font-katari'>재상의 격노한 목소리가</span><br><span class='scene-font-katari'>폭발음과 뒤섞여 울려 퍼지고 있다.</span>
-English,scene_cp41_q1_s10、4111,detail,,...!,――――!!
-English,scene_cp41_q1_s10、4111,detail,Freesia,I will utterly destroy you、 primal beast!,해치워 버리세요!
-English,scene_cp41_q1_s10、4111,detail,Freesia,Fully activate Adversa! Permission granted to use all available weapons!,애드웰사를 구동하세요!<br>모든 병기의 사용을 허가합니다!
-English,scene_cp41_q1_s10、4111,detail,Freesia,Do whatever it takes... Whatever it takes to burn that thorn to ash!,어떻게 해서든지…<br>저 가시들을 전부 태워버리세요!
-English,scene_cp41_q1_s10、4111,detail,Freesia,What the hell is that primal beast? Where did it come from? How is it suppressing Malice?,대체 저 성정수는<br>어디서 나타난 거지?<br>어떻게 마리스를……
-English,scene_cp41_q1_s10、4111,detail,Freesia,And furthermore、 does it think it can kick us out of Lumacie? Do you consider yourself the god of the this island now! Is that it!,게다가、 우리를<span class='scene-font-place'>루마시</span>에서<br>몰아내려고 하고 있잖아?<br>섬의 수호신이라도 된다는 건가?!
-English,scene_cp41_q1_s10、4111,detail,Freesia,Just one more step... A better world was within my grasp!,더 나은 세계가、<br>바로 눈 앞에 있었는데!
-English,scene_cp41_q1_s10、4111,detail,Freesia,The troops that went after the skyfarers、 aren't they back yet?,기공단놈들의 추적을 맡은<br>병단은 아직인가요?
-English,scene_cp41_q1_s10、4111,detail,Imperial Soldier 1,Ma'am! W-with all due respect...,각하!<br>소、 송구스러운 말씀이지만……
-English,scene_cp41_q1_s10、4111,detail,Imperial Soldier 1,The fugitive's airship is more capable than we anticipated. We've lost sight of them...,수배자들이 탄 기공정이、<br>예상 이상의 성능인 듯 합니다.<br>조금 전 놓쳤다는 연락이……
-English,scene_cp41_q1_s10、4111,detail,Freesia,Ugh! You're all useless!,이 쓸모 없는 것들…!
-English,scene_cp41_q1_s10、4111,detail,Freesia,They took Orchis and Lyria、 and now I can't even land on Lumacie where Akasha lies dormant.,"오르키스와 루리아는 도망쳤고、<br>아카샤가 잠들어 있는<span class='scene-font-place""> 루마시 군도</span>에는 <br> 내려갈 수조차 없게 되었다니…"
-English,scene_cp41_q1_s10、4111,detail,Freesia,This situation has become far too complicated. What should I address first?,상황이 귀찮게 되었네요、<br>무엇부터 손 봐야 할지……
-English,scene_cp41_q1_s10、4111,detail,Imperial Soldier 2,Prime Minister Freesia! I have a message!,ㅈ、 재상 각하!<br>전령이 왔습니다!
-English,scene_cp41_q1_s10、4111,detail,Freesia,What is this about? If you're wasting my time、 so help you...,무슨 용무죠?<br>내 시간을 낭비하는 거라면…
-English,scene_cp41_q1_s10、4111,detail,,The panicked soldier whispers something in Freesia's ear.,<span class='scene-font-katari'>겁에 질린 군단병은、</span><br><span class='scene-font-katari'>서둘러 프리시아의 귀에 무언가를 속삭인다.</span>
-English,scene_cp41_q1_s10、4111,detail,Freesia,What? Are you certain?,뭐?<br>확실한가요?
-English,scene_cp41_q1_s10、4111,detail,Imperial Soldier 2,Yes ma'am! This message was received from Agastia's main army!,옛! 각하!<br>아가스티아 쪽에서<br>온 소식입니다!
-English,scene_cp41_q1_s10、4111,detail,Freesia,Argh! Of all the times to get saddled with a bunch of nonsense!,쯧、<br>꼭 이럴 때<br>귀찮은 일이……
-English,scene_cp41_q1_s10、4111,detail,Freesia,All of you continue attacking that primal's thorns with full strength. Understood?,계속 해서 최대 화력으로<br>저 성정수를 공격하세요.<br>알겠나요?
-English,scene_cp41_q1_s10、4111,detail,Imperial Soldier 2,Yes ma'am!,예、 각하!
-English,scene_cp41_q1_s10、4111,detail,Freesia,I must leave the island for a bit. Prepare our fastest cruiser.,잠시 볼 일이 있으니、<br>쾌속정을 준비하세요.
-English,scene_cp41_q1_s10、4111,detail,Imperial Soldier 3,At once、 ma'am!,시행하겠습니다!
-English,scene_cp41_q1_s10、4111,detail,Freesia,Damn it... Just what is that man planning?,쯧、 대체 무슨 꿍꿍이기에…
-English,scene_cp41_q2_s10、4121,synopsis,,[플레이어] and the crew are happy to be alive after their encounter with Yggdrasil Malice、 but emotions are strained as they discuss returning to Lumacie to retrieve the Black Knight and Rosetta.,[플레이어]와 일행은 무사히 유그드라실・마리스로부터 도망치지만、 기뻐할 새도 없이 섬에 남은 로제타와 흑기사를 구출할 계획을 도모하기 시작한다.
-English,scene_cp41_q2_s10、4121,detail,Lyria,...,……
-English,scene_cp41_q2_s10、4121,detail,Vyrn,...,……
-English,scene_cp41_q2_s10、4121,detail,Rackam,Look how far out we are. Can't even see Lumacie anymore.,꽤나 멀리까지 왔네.<br>여기서는、<br><span class='scene-font-place'>루마시</span>가 잘 보이지도 않을 정도야.
-English,scene_cp41_q2_s10、4121,detail,Io,Hey、 so... What's the plan from now?,저기、 그러니까…<br>이제 어떻게 할 생각이야?
-English,scene_cp41_q2_s10、4121,detail,,[플레이어] and the crew managed to escape annihilation at the hands of Yggdrasil Malice.,<span class='scene-font-katari'>간발의 차이로、</span><br><span class='scene-font-katari'>유그드라실・마리스로부터</span><br><span class='scene-font-katari'>목숨을 구한 [플레이어]와 일행.</span>
-English,scene_cp41_q2_s10、4121,detail,,But every last one of them looks completely devastated.,<span class='scene-font-katari'>그러나 모두들 침통한 기색이</span><br><span class='scene-font-katari'>얼굴에 서려 있었다.</span>
-English,scene_cp41_q2_s10、4121,detail,Katalina,...,……
-English,scene_cp41_q2_s10、4121,detail,Eugen,...,……
-English,scene_cp41_q2_s10、4121,detail,Orchis,Um... Ah...,어… 저기…
-English,scene_cp41_q2_s10、4121,detail,Io,Huh? What is it、 Orchis?,응?<br>왜 그래、 오르키스?
-English,scene_cp41_q2_s10、4121,detail,Orchis,Um... Where's... Apollo? What happened to Apollo?,저기、 아폴로는… 어디 있어?<br>무슨 일이라도 있는 거야?
-English,scene_cp41_q2_s10、4121,detail,Io,Ah! Well、 you see...,아、 그게…<br>그러니까……
-English,scene_cp41_q2_s10、4121,detail,Rackam,We got separated when we were escapin' the temple. Sure hope she's okay...,신전에서 도망쳐 나올 때 흩어졌어.<br>무사하길 바라야겠지만……
-English,scene_cp41_q2_s10、4121,detail,Eugen,You know、 [플레이어]、 it's not too late to turn back.,이봐、 [플레이어].<br>지금이라도 늦지 않았으니、<br>돌아가지 않겠나?
-English,scene_cp41_q2_s10、4121,detail,Eugen,Knowin' her、 I'm sure she's still on Lumacie.,아폴로라면、<br>아직도 <span class='scene-font-place'>루마시</span>에 있을 테고……
-English,scene_cp41_q2_s10、4121,detail,Katalina,But it's too dangerous to go back without a plan.,하지만、 계획 없이 돌아가는 건<br>너무 무모해.
-English,scene_cp41_q2_s10、4121,detail,Katalina,Yggdrasil Malice is way too strong for us to handle.,유그드라실 마리스는<br>현재의 우리에게는<br>너무 강한 적이고.
-English,scene_cp41_q2_s10、4121,detail,Katalina,Returning to Lumacie now would be asking for Freesia to capture us on the spot.,지금 루마시에 돌아가는 건、<br>프리시아 손아귀에、<br>제발로 걸어 들어가는 것과 다름 없겠지.
-English,scene_cp41_q2_s10、4121,detail,Eugen,So you'd rather just abandon her! And what about Rosetta! She's there too、 you know!,그래서 이대로 있자는 겐가!<br>로제타는 어쩔 셈이지?<br>그녀도 버릴 생각인가?
-English,scene_cp41_q2_s10、4121,detail,Katalina,I have no intention of abandoning anyone! I couldn't leave a friend—much less Rosetta—alone like that!,그런 뜻이 아니잖나!<br>동료를、 특히 로제타를…<br>그렇게 남겨둘 수는 없어.
-English,scene_cp41_q2_s10、4121,detail,Katalina,But as it stands now、 there's no way we can beat that monster! Surely you understand that、 Eugen?,하지만 지금 당장、<br>그 성정수를 물리칠 방법도 없지.<br>그건 알고 있을 텐데、 오이겐.
-English,scene_cp41_q2_s10、4121,detail,Eugen,Who gives a crap! I'll go by myself if I have to...,그딴 걸 신경이나 쓸 것 같으냐!<br>안 되겠다면 나 혼자도…
-English,scene_cp41_q2_s10、4121,detail,Eugen,I'll fight that damn monster alone if I have to—that'd be better than sittin' here twiddlin' my thumbs.,여기 앉아 손가락이나 빨고 있으니、<br>혼자서라도 그놈과 싸우는 게 낫지.
-English,scene_cp41_q2_s10、4121,detail,Katalina,Eugen!,오이겐!
-English,scene_cp41_q2_s10、4121,detail,Rackam,Damn it、 people! The last thing we need right now is to fight amongst ourselves!,젠장、 정신들 좀 차려!<br>지금 우리끼리 싸운다고 나아지는 것도 아니고.
-English,scene_cp41_q2_s10、4121,detail,Io,...,……
-English,scene_cp41_q3_s10、4131,synopsis,,Io can't stand watching Katalina and Eugen argue. When she voices her frustration、 the other members of the crew begin to regain their composure.,"카타리나와 오이겐의 싸움을 안타깝게 바라보는 이오. 그녀의 머릿속에서는 span class='scene-font-place""> 루마시</span>에서 로제타가 남긴 말이 맴돈다. 그 말에 용기를 얻은 이오는、 일행들을 말리기 위해 앞으로 나선다. 결국 참다 못해 울음을 터트린 이오를 보며、 일행들은 다시 침착함을 되찾는다."
-English,scene_cp41_q3_s10、4131,detail,Io,...,……
-English,scene_cp41_q3_s10、4131,detail,Rosetta,A proper lady is someone who can support everyone. And I need you to become a woman like that.,훌륭한 레이디는<br>모두를 지탱해줄 수 있는 사람이야.<br>그리고 나는 이오가、<br>그런 사람이 되어 주었으면 좋겠어.
-English,scene_cp41_q3_s10、4131,detail,Rosetta,No. There will come a day when everyone will come up against a wall.,아니、<br>언젠가 모두들 거대한 벽에 가로 막히는 날이 올 거야.
-English,scene_cp41_q3_s10、4131,detail,Rosetta,When that day comes、 Io、 I believe that only you will be able to help them. Only you will be able to lead them.,그때가 왔을 때、<br>모두를 도울 수 있는 건 이오、 너뿐이야.<br>너만이 모두를 끌어 줄 수 있어.
-English,scene_cp41_q3_s10、4131,detail,Rosetta,So don't forget. You need to become a proper lady with the power to reinforce this crew.,그러니 기억하렴.<br>너는 모두를 지킬 수 있을 만큼<br>강한、 훌륭한 레이디가 되어야 해.
-English,scene_cp41_q3_s10、4131,detail,Io,...,……
-English,scene_cp41_q3_s10、4131,detail,Eugen,Rackam! Take the Grandcypher and get back to Lumacie on the double!,라캄!<br>그랑사이퍼를 돌려、<br>루마시로 돌아가세!
-English,scene_cp41_q3_s10、4131,detail,Katalina,Eugen、 do you have a death wish!,오이겐!<br>죽고 싶기라도 한 건가!
-English,scene_cp41_q3_s10、4131,detail,Eugen,You think I could live out the rest of my life leavin' her there!,내가 그 애를 남겨둔 채<br>살 수나 있을 것 같은가!
-English,scene_cp41_q3_s10、4131,detail,Eugen,Apollo... Apollo is my only daughter!,아폴로는…<br>그 애는、 내 외동딸이란 말일세!
-English,scene_cp41_q3_s10、4131,detail,Katalina,But that doesn't mean you have to—,하지만 그렇다고 해서—
-English,scene_cp41_q3_s10、4131,detail,Io,Hey! Eugen、 Katalina! Both of you just listen!,오이겐! 카타리나!<br>그만 좀 싸우고 내 말 좀 들어 봐!
-English,scene_cp41_q3_s10、4131,detail,Eugen,...,……
-English,scene_cp41_q3_s10、4131,detail,Katalina,...,……
-English,scene_cp41_q3_s10、4131,detail,Lyria,Io?,이오?
-English,scene_cp41_q3_s10、4131,detail,Io,For now let's just all calm down. You're both starting to lose it!,지금은 제발 진정 좀 해.<br>둘 다 머리 끝까지 화가 나 있잖아!
-English,scene_cp41_q3_s10、4131,detail,Io,If we try and force a plan、 we'll never come up with something rational.,그런 상태에서 의논해봤자、<br>좋은 계획은 떠오르지 않을 거야.
-English,scene_cp41_q3_s10、4131,detail,Io,So let's just eat something and take a breather、 okay? Okay?,그러니까、<br>우선 밥도 좀 먹고、 한숨 돌리기부터 하자.<br>응?
-English,scene_cp41_q3_s10、4131,detail,Lyria,Yeah... She's right! Let's have something to eat!,맞아요、 이오의 말대로 해요. 우선… 식사부터 하자구요!
-English,scene_cp41_q3_s10、4131,detail,Eugen,N-no. I can't...,아、 아니.<br>지금은 아무 것도……
-English,scene_cp41_q3_s10、4131,detail,Katalina,Sigh... We really don't have the time to just—,하…<br>지금은 정말<br>그럴 시간이 없으니까…
-English,scene_cp41_q3_s10、4131,detail,Io,This is exactly why we need to rest! What'll we do if we can't agree on something when push comes to shove!,지금이야말로 그럴 시간이야!<br>서로 싸워대기만 해서는<br>아무 것도 할 수 없다구!
-English,scene_cp41_q3_s10、4131,detail,Io,Okay、 yeah、 it's true that Malice-whatever was super strong!,그래、 나도 알아.<br>마리스인가 하는 건 굉장히 강했지.
-English,scene_cp41_q3_s10、4131,detail,Io,But so what? If our enemy is strong、 that just means we need to get stronger!,그렇지만、 그래서 뭐?<br>상대가 강하다면、<br>우리도 그만큼 강해지면 되잖아!
-English,scene_cp41_q3_s10、4131,detail,Io,If we all just work together、 we'll never lose like that again!,우리가 함께 한다면、<br>다시는 그렇게 지지 않을 거라구!
-English,scene_cp41_q3_s10、4131,detail,Io,That's why we've... We've got to stay united...,그러니까、 우리가…<br>우리가 함께 하면…
-English,scene_cp41_q3_s10、4131,detail,Io,We've got no chance against that monster unless we do.,그러지 않으면、<br>절대 그걸 물리칠 수<br>없을 거구…
-English,scene_cp41_q3_s10、4131,detail,Io,And if we can't beat it、 then... Rosetta...,우리가 물리치지 못하면、<br>그러면…<br>로제타를……
-English,scene_cp41_q3_s10、4131,detail,Io,We'll never be able to fly with Rosetta again...,다시는 로제타를<br>볼 수 없을지도 몰라…
-English,scene_cp41_q3_s10、4131,detail,Io,Sob... I can't imagine that. I want to meet up with her again.,흑… 그런 건 싫어、<br>로제타가 보고 싶단 말야…
-English,scene_cp41_q3_s10、4131,detail,Io,So that's why—sniff—we can't bicker like this... Sob...,그러니까、 흑、 <br>제발 그만들 싸우고…
-English,scene_cp41_q3_s10、4131,detail,Katalina,Io...,이오…
-English,scene_cp41_q3_s10、4131,detail,Lyria,Io...,이오…
-English,scene_cp41_q3_s10、4131,detail,Eugen,Good grief、 this kid's more of an adult than either of us right now.,이런…어른이 되어서는、<br>애 앞에서 못볼 꼴을 보였구만.
-English,scene_cp41_q3_s10、4131,detail,Eugen,Sorry、 Io! You're right. Guess I lost my cool...,그래、 이오!<br>네 말이 맞다.<br>내가 잠깐 정신을 잃었어…
-English,scene_cp41_q3_s10、4131,detail,Eugen,And Katalina、 sorry for yelling at you.,그리고 카타리나、<br>큰 소리 내서 미안하네.
-English,scene_cp41_q3_s10、4131,detail,Katalina,No、 no. I should be the one to apologize. I allowed myself to get flustered.,아니、<br>사과해야 할 건、 오히려 내 쪽이지.<br>미안하다.
-English,scene_cp41_q3_s10、4131,detail,Orchis,U-um...,저、 저기…
-English,scene_cp41_q3_s10、4131,detail,Katalina,Mm? What's wrong?,응? 무슨 일이라도?
-English,scene_cp41_q3_s10、4131,detail,Orchis,What will happen to Apollo? Will you all save her?,아폴로는 어디 있는 거야?<br>아폴로를…구해 줄 거야?
-English,scene_cp41_q3_s10、4131,detail,Katalina,We absolutely will. Right、 Eugen?,물론이지.<br>그렇지 않습니까、 오이겐?
-English,scene_cp41_q3_s10、4131,detail,Eugen,Yep. But like you said、 there's no point in goin' back without a plan.,그래、<br>하지만 자네가 말했 듯이、<br>계획 없이 돌아갈 순 없지.
-English,scene_cp41_q3_s10、4131,detail,Eugen,Even if I feel like divin' back in guns blazin'、 it might make me feel better、 but that won't save Apollo.,당장 죽을 각오로 뛰어들어도、<br>내 속은 풀릴지 모르겠지만<br>아폴로를 구할 수는 없을 테니.
-English,scene_cp41_q3_s10、4131,detail,Eugen,I shouldn't let my emotions get the better of me.,지금 내가 해야 할 건、<br>감정을 따라<br>움직이는 게 아니다.
-English,scene_cp41_q3_s10、4131,detail,Eugen,If I really want to save her、 I should calm down and try not to get myself killed.,그 애를 정말 구하고 싶으면、<br>무작정 덤벼들지 말고<br>침착해져야 해.
-English,scene_cp41_q3_s10、4131,detail,Katalina,I swear we'll go back for Rosetta and the Black Knight. And then we'll see to it that they're rescued safely.,반드시 돌아가서、<br>로제타와 흑기사를 구해내겠다고<br>맹세하지.
-English,scene_cp41_q3_s10、4131,detail,Eugen,Even if she's a little bit rotten、 she's my daughter、 so I know she won't kick the bucket that easy!,뭐、 썩어도 준치라고、<br>그 애는 내 딸이니까.<br>쉽게 쓰러지진 않을 게다!
-English,scene_cp41_q3_s10、4131,detail,Io,You're right... Sniff...,으응…<br>흑……
-English,scene_cp41_q3_s10、4131,detail,Rackam,Sheesh、 I know how you feel、 but this ain't nothing to cry over、 got it?,참나、<br>마음은 알겠지만、<br>울 것까진 없잖아?
-English,scene_cp41_q3_s10、4131,detail,Io,Shut up! There was something in my eye、 that's all!,시、 시끄러워!<br>눈에 뭐가 들어간 것뿐이거든!
-English,scene_cp41_q3_s10、4131,detail,Rackam,What now? After all that blubberin'、 you really think I believe that?,어이구、 그러셔?<br>훌쩍거리는 거나 멈추고 말하시지?
-English,scene_cp41_q3_s10、4131,detail,Io,I said shut up、 you dummy!,시끄럽댔잖아、 멍청아!
-English,scene_cp41_q3_s10、4131,detail,Lyria,Hehe. Kinda feels like things are back to normal、 aren't they、 [플레이어]、 Vyrn?,후후…<br>이제야 평소처럼 돌아왔네요.<br>그렇죠、 [플레이어]、 비?
-English,scene_cp41_q3_s10、4131,detail,Vyrn,What's 'at? Oh、 um、 yeah...,뭐라고?<br>아、 응、 그렇지…
-English,scene_cp41_q3_s10、4131,detail,Lyria,Vyrn? What's the matter? You look so serious...,비?<br>무슨 일 있어요?<br>심각해 보이는데…
-English,scene_cp41_q3_s10、4131,detail,Vyrn,Well、 the truth is、 I was just—,그러니까、<br>사실은—
-English,scene_cp41_q3_s10、4131,detail,Monster,Graaagh!,<span class='scene-font-5'>그오오오!!</span>
-English,scene_cp41_q3_s10、4131,detail,Rackam,Welp、 we shouldn't have let our guard down! Get ready to rock、 [플레이어]!,이런、 방심하면 안 되겠네! 집중하자고、 [플레이어]!
-English,scene_cp41_q4_s10、4141,synopsis,,Lyria and Orchis describe Yggdrasil's current state—overloaded with dark essence and on the verge of collapse. The crew grows even more impatient to return to Lumacie.,다시 하나가 된 기공단은、 가지고 있는 정보에서 ‘마리스’의 비밀을 찾고자 한다. 마정의 힘이 무리하게 가해져 현재 유그드라실은 무너지기 직전의 상태라는 결론을 내고 루리아와 오르키스는 가슴 아파 한다. 일행은 다시 한 번 반드시 <span class='scene-font-place'>루마시 군도</span>로 돌아갈 것을 굳게 다짐한다.
-English,scene_cp41_q4_s10、4141,detail,Katalina,Let's get started. First we should focus on the foe we need to overcome.,자、 그럼.<br>우선은 물리쳐야 할 적에 집중하지.
-English,scene_cp41_q4_s10、4141,detail,Katalina,It's a primal beast awakened with dark essence. Well、 at this point、 perhaps calling it a primal beast is not really fitting.,마정으로 조종당하고 있는 성정수…<br>아니、 지금 시점에서는 성정수라고 부르는 게<br>적절치 않겠지만.
-English,scene_cp41_q4_s10、4141,detail,Katalina,Anyway、 in order to save Rosetta and the Black Knight、 we'll need a strategy to defeat Malice.,어쨌든、<br>로제타와 흑기사를 구하기 위해서는<br>마리스에 대한 전략이 필요하다.
-English,scene_cp41_q4_s10、4141,detail,Eugen,It was a monster with unbelievable strength. But what made it like that?,믿을 수 없을 정도로 강한 놈이었다만、<br>대체 정체가 뭐지?
-English,scene_cp41_q4_s10、4141,detail,Lyria,Rosetta said that Yggdrasil's core was overloaded with the dark essence's power...,로제타는 유그드라실의 코어에、<br>마정의 힘이 주입됐다고 말했어요…
-English,scene_cp41_q4_s10、4141,detail,Rackam,In other words、 that essence stuff is making the primal stronger、 eh?,그러니까、 뭐야.<br>그 마정인가 하는 게、<br>성정수를 더 강하게 한다는 거지?
-English,scene_cp41_q4_s10、4141,detail,Lyria,Yes... But she said one more thing.,네…<br>하지만 로제타는 다른 말도 했어요.
-English,scene_cp41_q4_s10、4141,detail,Lyria,That the primal's on the brink of collapse.,그 성정수는、<br>무너지기 직전이라고요.
-English,scene_cp41_q4_s10、4141,detail,Lyria,I think Yggdrasil was filled with too much power、 and now it's ripping her apart.,유그드라실에게<br>무리하게 많은 힘이 가해져서、<br>점점 망가지고 있는 것 같아요.
-English,scene_cp41_q4_s10、4141,detail,Orchis,I'm sorry...,미안해…
-English,scene_cp41_q4_s10、4141,detail,Katalina,Hm? What's this so suddenly?,응?<br>갑자기 무슨 소리야?
-English,scene_cp41_q4_s10、4141,detail,Orchis,If only I hadn't awakened it... If only it had stayed asleep...,내가 깨우지 않았다면…<br>계속 잠들어 있었더라면……
-English,scene_cp41_q4_s10、4141,detail,Orchis,Then Yggdrasil would never have been through any of this.,유그드라실도、<br>이런 일을 겪지 않았을 텐데.
-English,scene_cp41_q4_s10、4141,detail,Lyria,...,……
-English,scene_cp41_q4_s10、4141,detail,Katalina,You're right... Then we'll just have to go and apologize to her、 won't we?,그렇군、<br>그렇다면 우리와 함께 사과하러 가자.
-English,scene_cp41_q4_s10、4141,detail,Orchis,Huh?,응?
-English,scene_cp41_q4_s10、4141,detail,Katalina,Orchis. If that's how you feel、 then we ought to apologize. Don't you think so?,오르키스、 네가 그렇게 생각한다고 해도、<br>사과할 상대는 우리가 아니야.
-English,scene_cp41_q4_s10、4141,detail,Katalina,Let's go back to Lumacie and let Yggdrasil know how sorry we are.,그러니 <span class='scene-font-place'>루마시</span>로 돌아가서、<br>유그드라실에게 직접 함께 사과하자.
-English,scene_cp41_q4_s10、4141,detail,Orchis,O-okay!,으응…
-English,scene_cp41_q4_s10、4141,detail,Katalina,Hehe. I guess that's just one more reason we have to return.,후후、<br><span class='scene-font-place'>루마시</span>로 돌아 가야 할<br>이유가 하나 더 늘었군.
-English,scene_cp41_q4_s10、4141,detail,Eugen,Aye. So no sense lollygaggin'! Let's get on with it!,그래、 그러니 이렇게<br>가만히 있을 수는 없지!
-English,scene_cp41_q4_s20、4142,synopsis,,The crew ponders what Rosetta meant when she said that Vyrn was the key to saving Yggdrasil. They set a course for Amalthea Island to ask the Crew of Enforcers for any information they may be willing to share.,"일행은 유그드라실・마리스를 구할 열쇠가 비에게 있다는 로제타의 말의 의미를 찾기 위해 머리를 맞댄다. 하지만 비는 [플레이어]의 아버지와 만나기 전 기억이 없는 상태. 고민하던 일행은 공역 바깥까지 활동 범위로 두고 있다는 질서의 기공단이라면 정보를 가지고 있을 수 있겠다고 결론 내리고 해당 기공단의 본거지인 <span class='scene-font-place""> 아말테이아 섬 </span>으로 향한다."
-English,scene_cp41_q4_s20、4142,detail,Rackam,So how are we supposed to fight it?,자、 다 좋은데…<br>어떻게 싸워야 하지?
-English,scene_cp41_q4_s20、4142,detail,Rackam,I guess we should find its corrupted core thing、 right?,그 코어라는 걸<br>먼저 찾아야 하나?
-English,scene_cp41_q4_s20、4142,detail,Io,Yeah、 but no matter how we approach it、 we'll get attacked before we can get to its core.,그래. 하지만 우리가 낌새를 보이면、<br>저쪽에서 먼저<br>코어에 도착하기도 전에 공격해 오겠지.
-English,scene_cp41_q4_s20、4142,detail,Lyria,Umm... Not to mention it seemed like Yggdrasil had already absorbed all of the dark essence's power.,음、 마정의 힘은 이미<br>유그드라실에게 완전히<br>흡수된 것 같았어요.
-English,scene_cp41_q4_s20、4142,detail,Lyria,So we might have to separate it from her somehow...,그러니 그걸 먼저<br>분리할 방법을 찾아야…
-English,scene_cp41_q4_s20、4142,detail,Eugen,Can't you or Orchis do somethin' like that with your powers?,루리아나 오르키스의 힘으로는<br>뭐、 어떻게 할 수 없나?
-English,scene_cp41_q4_s20、4142,detail,Orchis,I don't know. I've never done it before.,모르겠어…<br>해 본 적이 없으니까…
-English,scene_cp41_q4_s20、4142,detail,Katalina,Come to think of it... When Rosetta told you that she thought you could save the primal、 did it sound like she was passing on a message of some sort?,그러고 보니、<br>분명 로제타가 비에게 성정수를 구할<br>힘이 있다고 했었지.<br>무언가 떠오르는 건 없나?
-English,scene_cp41_q4_s20、4142,detail,Vyrn,About that... I've been thinkin' about it ever since we left Lumacie...,그거 말인데、<br>섬을 떠난 이후로<br>쭉 생각해봤거든…
-English,scene_cp41_q4_s20、4142,detail,Vyrn,But I just don't get it. What was Rosetta really trying to tell me?,근데 전혀 모르겠어.<br>로제타는 무슨 말을<br>하고 싶었던 걸까?
-English,scene_cp41_q4_s20、4142,detail,Rackam,In other words... You've got no idea what Rosetta meant?,그러니까、<br>로제타가 한 말에<br>짚이는 구석이 없단 소리야?
-English,scene_cp41_q4_s20、4142,detail,Vyrn,No、 that's not quite it...,아니、 그런 건 아니지만…
-English,scene_cp41_q4_s20、4142,detail,Vyrn,The truth is... I don't remember anything that happened before [플레이어]'s dad picked me up.,사실은…<br>나、 [플레이어]의 아버지와 만나기 전의<br>기억은 하나도 없어.
-English,scene_cp41_q4_s20、4142,detail,Vyrn,So it's possible that... Maybe before I lost my memories、 I was—,그러니까、 어쩌면…<br>기억을 잃기 전에、 나는…
-English,scene_cp41_q4_s20、4142,sel1_txt,,Probably a lizard.,<span class='scene-font-katari'>도마뱀이었을지도 몰라.</span>
-English,scene_cp41_q4_s20、4142,sel2_txt,,Probably really awesome.,<span class='scene-font-katari'>무언가 대단했을지도 몰라.</span>
-English,scene_cp41_q4_s20、4142,detail,Vyrn,Wha! We've already been over this a thousand times!,뭐야!?<br>도마뱀이 아니라고、<br>수천 번은 말했잖아!
-English,scene_cp41_q4_s20、4142,detail,Vyrn,Quit messin' with me while I'm tryin' to have a serious conversation!,그리고 모처럼<br>진지한 얘기를 하고 있는데、<br>농담 하지 말라구!
-English,scene_cp41_q4_s20、4142,detail,Io,This lizard? Uh... That's kinda hard to believe.,이 도마뱀이?<br>음…<br>믿기 어려운 얘기네.
-English,scene_cp41_q4_s20、4142,detail,Vyrn,For the love of—<span class='scene-font-italic'>I ain't no stinkin' lizard</span>!,그러니까、 이 몸은、 <span class='scene-font-italic'>도마뱀이 아니라니까</span>!
-English,scene_cp41_q4_s20、4142,detail,Io,But you don't remember where or when you were born right? Maybe you really are a gecko or something.,하지만 태어난 때도<br>기억하지 못하는 거잖아?<br>어쩌면 정말 도마뱀일 수도 있다구.
-English,scene_cp41_q4_s20、4142,detail,Vyrn,Hey! Of course not!,이봐! 그럴 리가 있겠냐!
-English,scene_cp41_q4_s20、4142,detail,Katalina,Look、 everyone! In either case、 we'll have to gather more information about Vyrn's origins.,저기、 잠깐만.<br>어찌 되었든、 비의 태생에 대한 정보를<br>더 모아야 할 것 같아.
-English,scene_cp41_q4_s20、4142,detail,Rackam,Research、 eh? In that case、 we should pay a visit to—,정보수집이라.<br>그러면、 역시 그곳으로…
-English,scene_cp41_q4_s20、4142,sel1_txt,,A country with a long history,<span class='scene-font-katari'>긴 역사를 가진 나라가 좋겠지.</span>
-English,scene_cp41_q4_s20、4142,sel2_txt,,A group that knows about other skydoms,<span class='scene-font-katari'>공역을 넘나드는 조직이 좋겠지.</span>
-English,scene_cp41_q4_s20、4142,detail,Orchis,A country with a long history... Like Erste?,긴 역사가 있는 나라라면…<br>에르스테 같은?
-English,scene_cp41_q4_s20、4142,detail,Katalina,It is true that Erste's history stretches back to before the War.,에르스테의 역사가<br>패공전쟁 이전부터<br>시작되는 건 사실이지만…
-English,scene_cp41_q4_s20、4142,detail,Eugen,But headin' there now would be like jumpin' out of the pan and into the fire.,지금 상황에서 그곳으로 가는 건、<br>불구덩이에 뛰어드는 거나 다름 없지.
-English,scene_cp41_q4_s20、4142,detail,Io,Ah! What if we visited the Crew of Enforcers?,아!<br>그러면 질서의 기공단은 어때?
-English,scene_cp41_q4_s20、4142,detail,Io,They seem like they'd have a lot of info、 and they're basically good people、 so I bet they'd help us!,꽤 많은 정보를 가지고 있다던데.<br>그리고 꽤 좋은 사람들이니까、<br>분명 협력해 줄 거야!
-English,scene_cp41_q4_s20、4142,detail,Katalina,That's true... It is entirely possible that Vyrn was born outside of Phantagrande.,그렇군…<br>확실히、 비가 파타그랑데에서<br>태어났다고 단언할 수는 없지.
-English,scene_cp41_q4_s20、4142,detail,Eugen,Which means、 we should direct a course toward—,그렇다면 역시…
-English,scene_cp41_q4_s20、4142,detail,Rackam,The Crew of Enforcers、 eh? Not a bad idea at all!,질서의 기공단이라、<br>꽤 좋은 판단인데!
-English,scene_cp41_q4_s20、4142,detail,Katalina,Agreed. Besides、 I bet the Crew of Enforcers has taken an interest in the empire's actions.,동의한다.<br>그리고、 그쪽에서도도 제국의 움직임은<br>신경 쓰고 있겠지.
-English,scene_cp41_q4_s20、4142,detail,Io,Not sure if I would call them all of the empire's actions... More like just the prime minister's...,제국의 움직임이라기보단、<br>그 재상의 움직임이겠지만.
-English,scene_cp41_q4_s20、4142,detail,Rackam,Then our destination is decided! Full speed ahead to Amalthea Island and the Crew of Enforcers!,그러면 목적지는 정해졌네!<br>질서의 기공단 본거지인 <span class='scene-font-place'>아말테이아<span>섬으로、<br>전속력으로 간다!
-English,scene_cp41_q4_s30、4143,synopsis,,As the crew heads for Amalthea Island、 Monika sits alone in a jail cell.,"[플레이어]와 일행이 <span class='scene-font-place""> 아말테이아 섬</span>으로 방향을 돌린 그때、 모니카는 홀로 감옥에서 기도를 올리고 있었다."
-English,scene_cp41_q4_s30、4143,detail,,[플레이어] and the crew are heading toward Amalthea Island.,"<span class='scene-font-katari"">[플레이어]와 일행은、 </span> <br> <span class='scene-font-place""> 아말테이아 섬 </span> <span class='scene-font-katar>으로 향한다.</span>"
-English,scene_cp41_q4_s30、4143,detail,,But at their destination、 in a jail cell located in the Fourth Hall of the Crew of Enforcers' base、 Monika sits alone.,"<span class='scene-font-katari"">그때、 질서의 기공단 제4기공단의 본부가 위치한 제4청사의 감옥에서</span><br><span class='scene-font-katar>모니카는 홀로 기도를 올리고 있었다.</span>"
-English,scene_cp41_q4_s30、4143,detail,Monika,...,……
-English,scene_cp41_q4_s30、4143,detail,Monika,(Lecia... You better not overdo it.),(리샤…절대로 무리하지 마.)
-English,scene_cp41_q4_s30、4143,detail,Monika,(Because、 right now、 you're our last remaining hope.),(지금 우리에게 남은 희망은…너뿐이니까…….)
+English,"scene_cp41_q1_s10,4111",synopsis,,"Freesia is angered after the mysterious primal beast forces the imperial army to withdraw from the Lumacie Archipelago. A messenger arrives with news from Agastia, the capital of the empire, forcing Freesia to disengage the primal and leave.","갑작스레 나타난 미지의 성정수 탓에 제국병단은 <span class='scene-font-place""> 루마시 군도</span>에서 철수할 수밖에 없었다. 이에 프리시아가 격노하고 있던 중, 제국의 수도인 아가스티아에서 보내 온 전령이 도착한다. 아가스티아에서 무언가 사건이 일어났음을 알게 된 프리시아는 서둘러 수도로 향한다."
+English,"scene_cp41_q1_s10,4111",detail,,"The sounds of battle echo throughout the warship, as its commander lashes out in irritation.","<span class='scene-font-katari'>제국의 전함,</span><br><span class='scene-font-katari'>재상의 격노한 목소리가</span><br><span class='scene-font-katari'>폭발음과 뒤섞여 울려 퍼지고 있다.</span>"
+English,"scene_cp41_q1_s10,4111",detail,,...!,――――!!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,"I will utterly destroy you, primal beast!",해치워 버리세요!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,Fully activate Adversa! Permission granted to use all available weapons!,애드웰사를 구동하세요!<br>모든 병기의 사용을 허가합니다!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,Do whatever it takes... Whatever it takes to burn that thorn to ash!,어떻게 해서든지…<br>저 가시들을 전부 태워버리세요!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,What the hell is that primal beast? Where did it come from? How is it suppressing Malice?,대체 저 성정수는<br>어디서 나타난 거지?<br>어떻게 마리스를……
+English,"scene_cp41_q1_s10,4111",detail,Freesia,"And furthermore, does it think it can kick us out of Lumacie? Do you consider yourself the god of the this island now! Is that it!","게다가, 우리를<span class='scene-font-place'>루마시</span>에서<br>몰아내려고 하고 있잖아?<br>섬의 수호신이라도 된다는 건가?!"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,Just one more step... A better world was within my grasp!,"더 나은 세계가,<br>바로 눈 앞에 있었는데!"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,"The troops that went after the skyfarers, aren't they back yet?",기공단놈들의 추적을 맡은<br>병단은 아직인가요?
+English,"scene_cp41_q1_s10,4111",detail,Imperial Soldier 1,Ma'am! W-with all due respect...,"각하!<br>소, 송구스러운 말씀이지만……"
+English,"scene_cp41_q1_s10,4111",detail,Imperial Soldier 1,The fugitive's airship is more capable than we anticipated. We've lost sight of them...,"수배자들이 탄 기공정이,<br>예상 이상의 성능인 듯 합니다.<br>조금 전 놓쳤다는 연락이……"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,Ugh! You're all useless!,이 쓸모 없는 것들…!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,"They took Orchis and Lyria, and now I can't even land on Lumacie where Akasha lies dormant.","오르키스와 루리아는 도망쳤고,<br>아카샤가 잠들어 있는<span class='scene-font-place""> 루마시 군도</span>에는 <br> 내려갈 수조차 없게 되었다니…"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,This situation has become far too complicated. What should I address first?,"상황이 귀찮게 되었네요,<br>무엇부터 손 봐야 할지……"
+English,"scene_cp41_q1_s10,4111",detail,Imperial Soldier 2,Prime Minister Freesia! I have a message!,"ㅈ, 재상 각하!<br>전령이 왔습니다!"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,"What is this about? If you're wasting my time, so help you...",무슨 용무죠?<br>내 시간을 낭비하는 거라면…
+English,"scene_cp41_q1_s10,4111",detail,,The panicked soldier whispers something in Freesia's ear.,"<span class='scene-font-katari'>겁에 질린 군단병은,</span><br><span class='scene-font-katari'>서둘러 프리시아의 귀에 무언가를 속삭인다.</span>"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,What? Are you certain?,뭐?<br>확실한가요?
+English,"scene_cp41_q1_s10,4111",detail,Imperial Soldier 2,Yes ma'am! This message was received from Agastia's main army!,옛! 각하!<br>아가스티아 쪽에서<br>온 소식입니다!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,Argh! Of all the times to get saddled with a bunch of nonsense!,"쯧,<br>꼭 이럴 때<br>귀찮은 일이……"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,All of you continue attacking that primal's thorns with full strength. Understood?,계속 해서 최대 화력으로<br>저 성정수를 공격하세요.<br>알겠나요?
+English,"scene_cp41_q1_s10,4111",detail,Imperial Soldier 2,Yes ma'am!,"예, 각하!"
+English,"scene_cp41_q1_s10,4111",detail,Freesia,I must leave the island for a bit. Prepare our fastest cruiser.,"잠시 볼 일이 있으니,<br>쾌속정을 준비하세요."
+English,"scene_cp41_q1_s10,4111",detail,Imperial Soldier 3,"At once, ma'am!",시행하겠습니다!
+English,"scene_cp41_q1_s10,4111",detail,Freesia,Damn it... Just what is that man planning?,"쯧, 대체 무슨 꿍꿍이기에…"
+English,"scene_cp41_q2_s10,4121",synopsis,,"[플레이어] and the crew are happy to be alive after their encounter with Yggdrasil Malice, but emotions are strained as they discuss returning to Lumacie to retrieve the Black Knight and Rosetta.","[플레이어]와 일행은 무사히 유그드라실・마리스로부터 도망치지만, 기뻐할 새도 없이 섬에 남은 로제타와 흑기사를 구출할 계획을 도모하기 시작한다."
+English,"scene_cp41_q2_s10,4121",detail,Lyria,...,……
+English,"scene_cp41_q2_s10,4121",detail,Vyrn,...,……
+English,"scene_cp41_q2_s10,4121",detail,Rackam,Look how far out we are. Can't even see Lumacie anymore.,"꽤나 멀리까지 왔네.<br>여기서는,<br><span class='scene-font-place'>루마시</span>가 잘 보이지도 않을 정도야."
+English,"scene_cp41_q2_s10,4121",detail,Io,"Hey, so... What's the plan from now?","저기, 그러니까…<br>이제 어떻게 할 생각이야?"
+English,"scene_cp41_q2_s10,4121",detail,,[플레이어] and the crew managed to escape annihilation at the hands of Yggdrasil Malice.,"<span class='scene-font-katari'>간발의 차이로,</span><br><span class='scene-font-katari'>유그드라실・마리스로부터</span><br><span class='scene-font-katari'>목숨을 구한 [플레이어]와 일행.</span>"
+English,"scene_cp41_q2_s10,4121",detail,,But every last one of them looks completely devastated.,<span class='scene-font-katari'>그러나 모두들 침통한 기색이</span><br><span class='scene-font-katari'>얼굴에 서려 있었다.</span>
+English,"scene_cp41_q2_s10,4121",detail,Katalina,...,……
+English,"scene_cp41_q2_s10,4121",detail,Eugen,...,……
+English,"scene_cp41_q2_s10,4121",detail,Orchis,Um... Ah...,어… 저기…
+English,"scene_cp41_q2_s10,4121",detail,Io,"Huh? What is it, Orchis?","응?<br>왜 그래, 오르키스?"
+English,"scene_cp41_q2_s10,4121",detail,Orchis,Um... Where's... Apollo? What happened to Apollo?,"저기, 아폴로는… 어디 있어?<br>무슨 일이라도 있는 거야?"
+English,"scene_cp41_q2_s10,4121",detail,Io,"Ah! Well, you see...","아, 그게…<br>그러니까……"
+English,"scene_cp41_q2_s10,4121",detail,Rackam,We got separated when we were escapin' the temple. Sure hope she's okay...,신전에서 도망쳐 나올 때 흩어졌어.<br>무사하길 바라야겠지만……
+English,"scene_cp41_q2_s10,4121",detail,Eugen,"You know, [플레이어], it's not too late to turn back.","이봐, [플레이어].<br>지금이라도 늦지 않았으니,<br>돌아가지 않겠나?"
+English,"scene_cp41_q2_s10,4121",detail,Eugen,"Knowin' her, I'm sure she's still on Lumacie.","아폴로라면,<br>아직도 <span class='scene-font-place'>루마시</span>에 있을 테고……"
+English,"scene_cp41_q2_s10,4121",detail,Katalina,But it's too dangerous to go back without a plan.,"하지만, 계획 없이 돌아가는 건<br>너무 무모해."
+English,"scene_cp41_q2_s10,4121",detail,Katalina,Yggdrasil Malice is way too strong for us to handle.,유그드라실 마리스는<br>현재의 우리에게는<br>너무 강한 적이고.
+English,"scene_cp41_q2_s10,4121",detail,Katalina,Returning to Lumacie now would be asking for Freesia to capture us on the spot.,"지금 루마시에 돌아가는 건,<br>프리시아 손아귀에,<br>제발로 걸어 들어가는 것과 다름 없겠지."
+English,"scene_cp41_q2_s10,4121",detail,Eugen,"So you'd rather just abandon her! And what about Rosetta! She's there too, you know!",그래서 이대로 있자는 겐가!<br>로제타는 어쩔 셈이지?<br>그녀도 버릴 생각인가?
+English,"scene_cp41_q2_s10,4121",detail,Katalina,I have no intention of abandoning anyone! I couldn't leave a friend—much less Rosetta—alone like that!,"그런 뜻이 아니잖나!<br>동료를, 특히 로제타를…<br>그렇게 남겨둘 수는 없어."
+English,"scene_cp41_q2_s10,4121",detail,Katalina,"But as it stands now, there's no way we can beat that monster! Surely you understand that, Eugen?","하지만 지금 당장,<br>그 성정수를 물리칠 방법도 없지.<br>그건 알고 있을 텐데, 오이겐."
+English,"scene_cp41_q2_s10,4121",detail,Eugen,Who gives a crap! I'll go by myself if I have to...,그딴 걸 신경이나 쓸 것 같으냐!<br>안 되겠다면 나 혼자도…
+English,"scene_cp41_q2_s10,4121",detail,Eugen,I'll fight that damn monster alone if I have to—that'd be better than sittin' here twiddlin' my thumbs.,"여기 앉아 손가락이나 빨고 있으니,<br>혼자서라도 그놈과 싸우는 게 낫지."
+English,"scene_cp41_q2_s10,4121",detail,Katalina,Eugen!,오이겐!
+English,"scene_cp41_q2_s10,4121",detail,Rackam,"Damn it, people! The last thing we need right now is to fight amongst ourselves!","젠장, 정신들 좀 차려!<br>지금 우리끼리 싸운다고 나아지는 것도 아니고."
+English,"scene_cp41_q2_s10,4121",detail,Io,...,……
+English,"scene_cp41_q3_s10,4131",synopsis,,"Io can't stand watching Katalina and Eugen argue. When she voices her frustration, the other members of the crew begin to regain their composure.","카타리나와 오이겐의 싸움을 안타깝게 바라보는 이오. 그녀의 머릿속에서는 span class='scene-font-place""> 루마시</span>에서 로제타가 남긴 말이 맴돈다. 그 말에 용기를 얻은 이오는, 일행들을 말리기 위해 앞으로 나선다. 결국 참다 못해 울음을 터트린 이오를 보며, 일행들은 다시 침착함을 되찾는다."
+English,"scene_cp41_q3_s10,4131",detail,Io,...,……
+English,"scene_cp41_q3_s10,4131",detail,Rosetta,A proper lady is someone who can support everyone. And I need you to become a woman like that.,"훌륭한 레이디는<br>모두를 지탱해줄 수 있는 사람이야.<br>그리고 나는 이오가,<br>그런 사람이 되어 주었으면 좋겠어."
+English,"scene_cp41_q3_s10,4131",detail,Rosetta,No. There will come a day when everyone will come up against a wall.,"아니,<br>언젠가 모두들 거대한 벽에 가로 막히는 날이 올 거야."
+English,"scene_cp41_q3_s10,4131",detail,Rosetta,"When that day comes, Io, I believe that only you will be able to help them. Only you will be able to lead them.","그때가 왔을 때,<br>모두를 도울 수 있는 건 이오, 너뿐이야.<br>너만이 모두를 끌어 줄 수 있어."
+English,"scene_cp41_q3_s10,4131",detail,Rosetta,So don't forget. You need to become a proper lady with the power to reinforce this crew.,"그러니 기억하렴.<br>너는 모두를 지킬 수 있을 만큼<br>강한, 훌륭한 레이디가 되어야 해."
+English,"scene_cp41_q3_s10,4131",detail,Io,...,……
+English,"scene_cp41_q3_s10,4131",detail,Eugen,Rackam! Take the Grandcypher and get back to Lumacie on the double!,"라캄!<br>그랑사이퍼를 돌려,<br>루마시로 돌아가세!"
+English,"scene_cp41_q3_s10,4131",detail,Katalina,"Eugen, do you have a death wish!",오이겐!<br>죽고 싶기라도 한 건가!
+English,"scene_cp41_q3_s10,4131",detail,Eugen,You think I could live out the rest of my life leavin' her there!,내가 그 애를 남겨둔 채<br>살 수나 있을 것 같은가!
+English,"scene_cp41_q3_s10,4131",detail,Eugen,Apollo... Apollo is my only daughter!,"아폴로는…<br>그 애는, 내 외동딸이란 말일세!"
+English,"scene_cp41_q3_s10,4131",detail,Katalina,But that doesn't mean you have to—,하지만 그렇다고 해서—
+English,"scene_cp41_q3_s10,4131",detail,Io,"Hey! Eugen, Katalina! Both of you just listen!",오이겐! 카타리나!<br>그만 좀 싸우고 내 말 좀 들어 봐!
+English,"scene_cp41_q3_s10,4131",detail,Eugen,...,……
+English,"scene_cp41_q3_s10,4131",detail,Katalina,...,……
+English,"scene_cp41_q3_s10,4131",detail,Lyria,Io?,이오?
+English,"scene_cp41_q3_s10,4131",detail,Io,For now let's just all calm down. You're both starting to lose it!,지금은 제발 진정 좀 해.<br>둘 다 머리 끝까지 화가 나 있잖아!
+English,"scene_cp41_q3_s10,4131",detail,Io,"If we try and force a plan, we'll never come up with something rational.","그런 상태에서 의논해봤자,<br>좋은 계획은 떠오르지 않을 거야."
+English,"scene_cp41_q3_s10,4131",detail,Io,"So let's just eat something and take a breather, okay? Okay?","그러니까,<br>우선 밥도 좀 먹고, 한숨 돌리기부터 하자.<br>응?"
+English,"scene_cp41_q3_s10,4131",detail,Lyria,Yeah... She's right! Let's have something to eat!,"맞아요, 이오의 말대로 해요. 우선… 식사부터 하자구요!"
+English,"scene_cp41_q3_s10,4131",detail,Eugen,N-no. I can't...,"아, 아니.<br>지금은 아무 것도……"
+English,"scene_cp41_q3_s10,4131",detail,Katalina,Sigh... We really don't have the time to just—,하…<br>지금은 정말<br>그럴 시간이 없으니까…
+English,"scene_cp41_q3_s10,4131",detail,Io,This is exactly why we need to rest! What'll we do if we can't agree on something when push comes to shove!,지금이야말로 그럴 시간이야!<br>서로 싸워대기만 해서는<br>아무 것도 할 수 없다구!
+English,"scene_cp41_q3_s10,4131",detail,Io,"Okay, yeah, it's true that Malice-whatever was super strong!","그래, 나도 알아.<br>마리스인가 하는 건 굉장히 강했지."
+English,"scene_cp41_q3_s10,4131",detail,Io,"But so what? If our enemy is strong, that just means we need to get stronger!","그렇지만, 그래서 뭐?<br>상대가 강하다면,<br>우리도 그만큼 강해지면 되잖아!"
+English,"scene_cp41_q3_s10,4131",detail,Io,"If we all just work together, we'll never lose like that again!","우리가 함께 한다면,<br>다시는 그렇게 지지 않을 거라구!"
+English,"scene_cp41_q3_s10,4131",detail,Io,That's why we've... We've got to stay united...,"그러니까, 우리가…<br>우리가 함께 하면…"
+English,"scene_cp41_q3_s10,4131",detail,Io,We've got no chance against that monster unless we do.,"그러지 않으면,<br>절대 그걸 물리칠 수<br>없을 거구…"
+English,"scene_cp41_q3_s10,4131",detail,Io,"And if we can't beat it, then... Rosetta...","우리가 물리치지 못하면,<br>그러면…<br>로제타를……"
+English,"scene_cp41_q3_s10,4131",detail,Io,We'll never be able to fly with Rosetta again...,다시는 로제타를<br>볼 수 없을지도 몰라…
+English,"scene_cp41_q3_s10,4131",detail,Io,Sob... I can't imagine that. I want to meet up with her again.,"흑… 그런 건 싫어,<br>로제타가 보고 싶단 말야…"
+English,"scene_cp41_q3_s10,4131",detail,Io,So that's why—sniff—we can't bicker like this... Sob...,"그러니까, 흑, <br>제발 그만들 싸우고…"
+English,"scene_cp41_q3_s10,4131",detail,Katalina,Io...,이오…
+English,"scene_cp41_q3_s10,4131",detail,Lyria,Io...,이오…
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"Good grief, this kid's more of an adult than either of us right now.","이런…어른이 되어서는,<br>애 앞에서 못볼 꼴을 보였구만."
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"Sorry, Io! You're right. Guess I lost my cool...","그래, 이오!<br>네 말이 맞다.<br>내가 잠깐 정신을 잃었어…"
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"And Katalina, sorry for yelling at you.","그리고 카타리나,<br>큰 소리 내서 미안하네."
+English,"scene_cp41_q3_s10,4131",detail,Katalina,"No, no. I should be the one to apologize. I allowed myself to get flustered.","아니,<br>사과해야 할 건, 오히려 내 쪽이지.<br>미안하다."
+English,"scene_cp41_q3_s10,4131",detail,Orchis,U-um...,"저, 저기…"
+English,"scene_cp41_q3_s10,4131",detail,Katalina,Mm? What's wrong?,응? 무슨 일이라도?
+English,"scene_cp41_q3_s10,4131",detail,Orchis,What will happen to Apollo? Will you all save her?,아폴로는 어디 있는 거야?<br>아폴로를…구해 줄 거야?
+English,"scene_cp41_q3_s10,4131",detail,Katalina,"We absolutely will. Right, Eugen?","물론이지.<br>그렇지 않습니까, 오이겐?"
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"Yep. But like you said, there's no point in goin' back without a plan.","그래,<br>하지만 자네가 말했 듯이,<br>계획 없이 돌아갈 순 없지."
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"Even if I feel like divin' back in guns blazin', it might make me feel better, but that won't save Apollo.","당장 죽을 각오로 뛰어들어도,<br>내 속은 풀릴지 모르겠지만<br>아폴로를 구할 수는 없을 테니."
+English,"scene_cp41_q3_s10,4131",detail,Eugen,I shouldn't let my emotions get the better of me.,"지금 내가 해야 할 건,<br>감정을 따라<br>움직이는 게 아니다."
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"If I really want to save her, I should calm down and try not to get myself killed.","그 애를 정말 구하고 싶으면,<br>무작정 덤벼들지 말고<br>침착해져야 해."
+English,"scene_cp41_q3_s10,4131",detail,Katalina,I swear we'll go back for Rosetta and the Black Knight. And then we'll see to it that they're rescued safely.,"반드시 돌아가서,<br>로제타와 흑기사를 구해내겠다고<br>맹세하지."
+English,"scene_cp41_q3_s10,4131",detail,Eugen,"Even if she's a little bit rotten, she's my daughter, so I know she won't kick the bucket that easy!","뭐, 썩어도 준치라고,<br>그 애는 내 딸이니까.<br>쉽게 쓰러지진 않을 게다!"
+English,"scene_cp41_q3_s10,4131",detail,Io,You're right... Sniff...,으응…<br>흑……
+English,"scene_cp41_q3_s10,4131",detail,Rackam,"Sheesh, I know how you feel, but this ain't nothing to cry over, got it?","참나,<br>마음은 알겠지만,<br>울 것까진 없잖아?"
+English,"scene_cp41_q3_s10,4131",detail,Io,"Shut up! There was something in my eye, that's all!","시, 시끄러워!<br>눈에 뭐가 들어간 것뿐이거든!"
+English,"scene_cp41_q3_s10,4131",detail,Rackam,"What now? After all that blubberin', you really think I believe that?","어이구, 그러셔?<br>훌쩍거리는 거나 멈추고 말하시지?"
+English,"scene_cp41_q3_s10,4131",detail,Io,"I said shut up, you dummy!","시끄럽댔잖아, 멍청아!"
+English,"scene_cp41_q3_s10,4131",detail,Lyria,"Hehe. Kinda feels like things are back to normal, aren't they, [플레이어], Vyrn?","후후…<br>이제야 평소처럼 돌아왔네요.<br>그렇죠, [플레이어], 비?"
+English,"scene_cp41_q3_s10,4131",detail,Vyrn,"What's 'at? Oh, um, yeah...","뭐라고?<br>아, 응, 그렇지…"
+English,"scene_cp41_q3_s10,4131",detail,Lyria,Vyrn? What's the matter? You look so serious...,비?<br>무슨 일 있어요?<br>심각해 보이는데…
+English,"scene_cp41_q3_s10,4131",detail,Vyrn,"Well, the truth is, I was just—","그러니까,<br>사실은—"
+English,"scene_cp41_q3_s10,4131",detail,Monster,Graaagh!,<span class='scene-font-5'>그오오오!!</span>
+English,"scene_cp41_q3_s10,4131",detail,Rackam,"Welp, we shouldn't have let our guard down! Get ready to rock, [플레이어]!","이런, 방심하면 안 되겠네! 집중하자고, [플레이어]!"
+English,"scene_cp41_q4_s10,4141",synopsis,,Lyria and Orchis describe Yggdrasil's current state—overloaded with dark essence and on the verge of collapse. The crew grows even more impatient to return to Lumacie.,"다시 하나가 된 기공단은, 가지고 있는 정보에서 ‘마리스’의 비밀을 찾고자 한다. 마정의 힘이 무리하게 가해져 현재 유그드라실은 무너지기 직전의 상태라는 결론을 내고 루리아와 오르키스는 가슴 아파 한다. 일행은 다시 한 번 반드시 <span class='scene-font-place'>루마시 군도</span>로 돌아갈 것을 굳게 다짐한다."
+English,"scene_cp41_q4_s10,4141",detail,Katalina,Let's get started. First we should focus on the foe we need to overcome.,"자, 그럼.<br>우선은 물리쳐야 할 적에 집중하지."
+English,"scene_cp41_q4_s10,4141",detail,Katalina,"It's a primal beast awakened with dark essence. Well, at this point, perhaps calling it a primal beast is not really fitting.","마정으로 조종당하고 있는 성정수…<br>아니, 지금 시점에서는 성정수라고 부르는 게<br>적절치 않겠지만."
+English,"scene_cp41_q4_s10,4141",detail,Katalina,"Anyway, in order to save Rosetta and the Black Knight, we'll need a strategy to defeat Malice.","어쨌든,<br>로제타와 흑기사를 구하기 위해서는<br>마리스에 대한 전략이 필요하다."
+English,"scene_cp41_q4_s10,4141",detail,Eugen,It was a monster with unbelievable strength. But what made it like that?,"믿을 수 없을 정도로 강한 놈이었다만,<br>대체 정체가 뭐지?"
+English,"scene_cp41_q4_s10,4141",detail,Lyria,Rosetta said that Yggdrasil's core was overloaded with the dark essence's power...,"로제타는 유그드라실의 코어에,<br>마정의 힘이 주입됐다고 말했어요…"
+English,"scene_cp41_q4_s10,4141",detail,Rackam,"In other words, that essence stuff is making the primal stronger, eh?","그러니까, 뭐야.<br>그 마정인가 하는 게,<br>성정수를 더 강하게 한다는 거지?"
+English,"scene_cp41_q4_s10,4141",detail,Lyria,Yes... But she said one more thing.,네…<br>하지만 로제타는 다른 말도 했어요.
+English,"scene_cp41_q4_s10,4141",detail,Lyria,That the primal's on the brink of collapse.,"그 성정수는,<br>무너지기 직전이라고요."
+English,"scene_cp41_q4_s10,4141",detail,Lyria,"I think Yggdrasil was filled with too much power, and now it's ripping her apart.","유그드라실에게<br>무리하게 많은 힘이 가해져서,<br>점점 망가지고 있는 것 같아요."
+English,"scene_cp41_q4_s10,4141",detail,Orchis,I'm sorry...,미안해…
+English,"scene_cp41_q4_s10,4141",detail,Katalina,Hm? What's this so suddenly?,응?<br>갑자기 무슨 소리야?
+English,"scene_cp41_q4_s10,4141",detail,Orchis,If only I hadn't awakened it... If only it had stayed asleep...,내가 깨우지 않았다면…<br>계속 잠들어 있었더라면……
+English,"scene_cp41_q4_s10,4141",detail,Orchis,Then Yggdrasil would never have been through any of this.,"유그드라실도,<br>이런 일을 겪지 않았을 텐데."
+English,"scene_cp41_q4_s10,4141",detail,Lyria,...,……
+English,"scene_cp41_q4_s10,4141",detail,Katalina,"You're right... Then we'll just have to go and apologize to her, won't we?","그렇군,<br>그렇다면 우리와 함께 사과하러 가자."
+English,"scene_cp41_q4_s10,4141",detail,Orchis,Huh?,응?
+English,"scene_cp41_q4_s10,4141",detail,Katalina,"Orchis. If that's how you feel, then we ought to apologize. Don't you think so?","오르키스, 네가 그렇게 생각한다고 해도,<br>사과할 상대는 우리가 아니야."
+English,"scene_cp41_q4_s10,4141",detail,Katalina,Let's go back to Lumacie and let Yggdrasil know how sorry we are.,"그러니 <span class='scene-font-place'>루마시</span>로 돌아가서,<br>유그드라실에게 직접 함께 사과하자."
+English,"scene_cp41_q4_s10,4141",detail,Orchis,O-okay!,으응…
+English,"scene_cp41_q4_s10,4141",detail,Katalina,Hehe. I guess that's just one more reason we have to return.,"후후,<br><span class='scene-font-place'>루마시</span>로 돌아 가야 할<br>이유가 하나 더 늘었군."
+English,"scene_cp41_q4_s10,4141",detail,Eugen,Aye. So no sense lollygaggin'! Let's get on with it!,"그래, 그러니 이렇게<br>가만히 있을 수는 없지!"
+English,"scene_cp41_q4_s20,4142",synopsis,,The crew ponders what Rosetta meant when she said that Vyrn was the key to saving Yggdrasil. They set a course for Amalthea Island to ask the Crew of Enforcers for any information they may be willing to share.,"일행은 유그드라실・마리스를 구할 열쇠가 비에게 있다는 로제타의 말의 의미를 찾기 위해 머리를 맞댄다. 하지만 비는 [플레이어]의 아버지와 만나기 전 기억이 없는 상태. 고민하던 일행은 공역 바깥까지 활동 범위로 두고 있다는 질서의 기공단이라면 정보를 가지고 있을 수 있겠다고 결론 내리고 해당 기공단의 본거지인 <span class='scene-font-place""> 아말테이아 섬 </span>으로 향한다."
+English,"scene_cp41_q4_s20,4142",detail,Rackam,So how are we supposed to fight it?,"자, 다 좋은데…<br>어떻게 싸워야 하지?"
+English,"scene_cp41_q4_s20,4142",detail,Rackam,"I guess we should find its corrupted core thing, right?",그 코어라는 걸<br>먼저 찾아야 하나?
+English,"scene_cp41_q4_s20,4142",detail,Io,"Yeah, but no matter how we approach it, we'll get attacked before we can get to its core.","그래. 하지만 우리가 낌새를 보이면,<br>저쪽에서 먼저<br>코어에 도착하기도 전에 공격해 오겠지."
+English,"scene_cp41_q4_s20,4142",detail,Lyria,Umm... Not to mention it seemed like Yggdrasil had already absorbed all of the dark essence's power.,"음, 마정의 힘은 이미<br>유그드라실에게 완전히<br>흡수된 것 같았어요."
+English,"scene_cp41_q4_s20,4142",detail,Lyria,So we might have to separate it from her somehow...,그러니 그걸 먼저<br>분리할 방법을 찾아야…
+English,"scene_cp41_q4_s20,4142",detail,Eugen,Can't you or Orchis do somethin' like that with your powers?,"루리아나 오르키스의 힘으로는<br>뭐, 어떻게 할 수 없나?"
+English,"scene_cp41_q4_s20,4142",detail,Orchis,I don't know. I've never done it before.,모르겠어…<br>해 본 적이 없으니까…
+English,"scene_cp41_q4_s20,4142",detail,Katalina,"Come to think of it... When Rosetta told you that she thought you could save the primal, did it sound like she was passing on a message of some sort?","그러고 보니,<br>분명 로제타가 비에게 성정수를 구할<br>힘이 있다고 했었지.<br>무언가 떠오르는 건 없나?"
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,About that... I've been thinkin' about it ever since we left Lumacie...,"그거 말인데,<br>섬을 떠난 이후로<br>쭉 생각해봤거든…"
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,But I just don't get it. What was Rosetta really trying to tell me?,근데 전혀 모르겠어.<br>로제타는 무슨 말을<br>하고 싶었던 걸까?
+English,"scene_cp41_q4_s20,4142",detail,Rackam,In other words... You've got no idea what Rosetta meant?,"그러니까,<br>로제타가 한 말에<br>짚이는 구석이 없단 소리야?"
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,"No, that's not quite it...","아니, 그런 건 아니지만…"
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,The truth is... I don't remember anything that happened before [플레이어]'s dad picked me up.,"사실은…<br>나, [플레이어]의 아버지와 만나기 전의<br>기억은 하나도 없어."
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,"So it's possible that... Maybe before I lost my memories, I was—","그러니까, 어쩌면…<br>기억을 잃기 전에, 나는…"
+English,"scene_cp41_q4_s20,4142",sel1_txt,,Probably a lizard.,<span class='scene-font-katari'>도마뱀이었을지도 몰라.</span>
+English,"scene_cp41_q4_s20,4142",sel2_txt,,Probably really awesome.,<span class='scene-font-katari'>무언가 대단했을지도 몰라.</span>
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,Wha! We've already been over this a thousand times!,"뭐야!?<br>도마뱀이 아니라고,<br>수천 번은 말했잖아!"
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,Quit messin' with me while I'm tryin' to have a serious conversation!,"그리고 모처럼<br>진지한 얘기를 하고 있는데,<br>농담 하지 말라구!"
+English,"scene_cp41_q4_s20,4142",detail,Io,This lizard? Uh... That's kinda hard to believe.,이 도마뱀이?<br>음…<br>믿기 어려운 얘기네.
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,For the love of—<span class='scene-font-italic'>I ain't no stinkin' lizard</span>!,"그러니까, 이 몸은, <span class='scene-font-italic'>도마뱀이 아니라니까</span>!"
+English,"scene_cp41_q4_s20,4142",detail,Io,But you don't remember where or when you were born right? Maybe you really are a gecko or something.,하지만 태어난 때도<br>기억하지 못하는 거잖아?<br>어쩌면 정말 도마뱀일 수도 있다구.
+English,"scene_cp41_q4_s20,4142",detail,Vyrn,Hey! Of course not!,이봐! 그럴 리가 있겠냐!
+English,"scene_cp41_q4_s20,4142",detail,Katalina,"Look, everyone! In either case, we'll have to gather more information about Vyrn's origins.","저기, 잠깐만.<br>어찌 되었든, 비의 태생에 대한 정보를<br>더 모아야 할 것 같아."
+English,"scene_cp41_q4_s20,4142",detail,Rackam,"Research, eh? In that case, we should pay a visit to—","정보수집이라.<br>그러면, 역시 그곳으로…"
+English,"scene_cp41_q4_s20,4142",sel1_txt,,A country with a long history,<span class='scene-font-katari'>긴 역사를 가진 나라가 좋겠지.</span>
+English,"scene_cp41_q4_s20,4142",sel2_txt,,A group that knows about other skydoms,<span class='scene-font-katari'>공역을 넘나드는 조직이 좋겠지.</span>
+English,"scene_cp41_q4_s20,4142",detail,Orchis,A country with a long history... Like Erste?,긴 역사가 있는 나라라면…<br>에르스테 같은?
+English,"scene_cp41_q4_s20,4142",detail,Katalina,It is true that Erste's history stretches back to before the War.,에르스테의 역사가<br>패공전쟁 이전부터<br>시작되는 건 사실이지만…
+English,"scene_cp41_q4_s20,4142",detail,Eugen,But headin' there now would be like jumpin' out of the pan and into the fire.,"지금 상황에서 그곳으로 가는 건,<br>불구덩이에 뛰어드는 거나 다름 없지."
+English,"scene_cp41_q4_s20,4142",detail,Io,Ah! What if we visited the Crew of Enforcers?,아!<br>그러면 질서의 기공단은 어때?
+English,"scene_cp41_q4_s20,4142",detail,Io,"They seem like they'd have a lot of info, and they're basically good people, so I bet they'd help us!","꽤 많은 정보를 가지고 있다던데.<br>그리고 꽤 좋은 사람들이니까,<br>분명 협력해 줄 거야!"
+English,"scene_cp41_q4_s20,4142",detail,Katalina,That's true... It is entirely possible that Vyrn was born outside of Phantagrande.,"그렇군…<br>확실히, 비가 파타그랑데에서<br>태어났다고 단언할 수는 없지."
+English,"scene_cp41_q4_s20,4142",detail,Eugen,"Which means, we should direct a course toward—",그렇다면 역시…
+English,"scene_cp41_q4_s20,4142",detail,Rackam,"The Crew of Enforcers, eh? Not a bad idea at all!","질서의 기공단이라,<br>꽤 좋은 판단인데!"
+English,"scene_cp41_q4_s20,4142",detail,Katalina,"Agreed. Besides, I bet the Crew of Enforcers has taken an interest in the empire's actions.","동의한다.<br>그리고, 그쪽에서도도 제국의 움직임은<br>신경 쓰고 있겠지."
+English,"scene_cp41_q4_s20,4142",detail,Io,Not sure if I would call them all of the empire's actions... More like just the prime minister's...,"제국의 움직임이라기보단,<br>그 재상의 움직임이겠지만."
+English,"scene_cp41_q4_s20,4142",detail,Rackam,Then our destination is decided! Full speed ahead to Amalthea Island and the Crew of Enforcers!,"그러면 목적지는 정해졌네!<br>질서의 기공단 본거지인 <span class='scene-font-place'>아말테이아<span>섬으로,<br>전속력으로 간다!"
+English,"scene_cp41_q4_s30,4143",synopsis,,"As the crew heads for Amalthea Island, Monika sits alone in a jail cell.","[플레이어]와 일행이 <span class='scene-font-place""> 아말테이아 섬</span>으로 방향을 돌린 그때, 모니카는 홀로 감옥에서 기도를 올리고 있었다."
+English,"scene_cp41_q4_s30,4143",detail,,[플레이어] and the crew are heading toward Amalthea Island.,"<span class='scene-font-katari"">[플레이어]와 일행은, </span> <br> <span class='scene-font-place""> 아말테이아 섬 </span> <span class='scene-font-katar>으로 향한다.</span>"
+English,"scene_cp41_q4_s30,4143",detail,,"But at their destination, in a jail cell located in the Fourth Hall of the Crew of Enforcers' base, Monika sits alone.","<span class='scene-font-katari"">그때, 질서의 기공단 제4기공단의 본부가 위치한 제4청사의 감옥에서</span><br><span class='scene-font-katar>모니카는 홀로 기도를 올리고 있었다.</span>"
+English,"scene_cp41_q4_s30,4143",detail,Monika,...,……
+English,"scene_cp41_q4_s30,4143",detail,Monika,(Lecia... You better not overdo it.),(리샤…절대로 무리하지 마.)
+English,"scene_cp41_q4_s30,4143",detail,Monika,"(Because, right now, you're our last remaining hope.)",(지금 우리에게 남은 희망은…너뿐이니까…….)
