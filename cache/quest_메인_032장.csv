@@ -1,297 +1,297 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp32_q1_s10,3211",synopsis,,"オルキスを救出すべく,アマルティア島からの脱出をはかる[플레이어]一行。グランサイファーまであと一歩という所で,秩序の騎空団のリーシャが戦いを挑んで来るのであった。","오르키스를 구출할 수 있도록, 아마르티아섬으로부터의 탈출을 도모하는 [플레이어] 일행.그랜사이퍼까지 한 걸음만 더 남으면 질서의 기공단의 리샤가 싸움을 걸어오는 것이었다."
-Japanese,"scene_cp32_q1_s10,3211",detail,,"<span class='scene-font-katari'>[플레이어]一行は,</span><br><span class='scene-font-katari'>オルキスを助け出すため,</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>からの脱出を試みる。</span>","<span class='scene-font-katari'>[플레이어] 일행은,</span><br><span class='scene-font-katari'>오르키스를 구하기 위해,</span><br><span class='scene-font-place'>아마르티아 섬</span><span class='scene-font-katari'>탈출을 시도하다。</span>"
-Japanese,"scene_cp32_q1_s10,3211",detail,,"<span class='scene-font-katari'>[플레이어]一行は,</span><br><span class='scene-font-katari'>停泊してあるグランサイファーへと,</span><br><span class='scene-font-katari'>順調に近づいていたが……</span>","<span class='scene-font-katari'>[플레이어] 일행은,</span><br><span class='scene-font-katari'>정박해있는 그랜사이퍼로,</span><br><span class='scene-font-katari'>순조롭게 다가오고 있었는데……</span>"
-Japanese,"scene_cp32_q1_s10,3211",detail,リーシャ,"ここまでです。<br>警告します。<br>大人しく,このまま引き返しなさい。","여기까지입니다.<br>경고하겠습니다.<br>얌전히, 이대로 되돌아가세요."
-Japanese,"scene_cp32_q1_s10,3211",detail,흑기사,貴様か……<br>あのチビはどうした?,네 놈인가……<br>그 꼬마는 왜?
-Japanese,"scene_cp32_q1_s10,3211",detail,リーシャ,それを答える必要はありません。,그걸 대답할 필요는 없어요.
-Japanese,"scene_cp32_q1_s10,3211",detail,흑기사,"我々を確実に止めるため,<br>二手に分かれて張っていたのか……<br>賢明な判断だな。",우리를 확실히 멈추게 하기 위해 <br> 두 패로 나뉘어 있었던건가……<br> 현명한 판단이야.
-Japanese,"scene_cp32_q1_s10,3211",detail,リーシャ,"だから!<br>モニカさんについては,<br>貴方達に何も言うつもりは……","그러니까!<br>모니카씨에 대해서는,<br>당신들에게 아무말도 할 생각은……"
-Japanese,"scene_cp32_q1_s10,3211",detail,흑기사,"しかし,片方がこれでは,<br>二手に分かれた意味がないな……","그러나, 한쪽이 이래서는,<br>두개로 나누어진 의미가 없네……"
-Japanese,"scene_cp32_q1_s10,3211",detail,흑기사,"貴様が少々の仲間を連れたところで,<br>私を止めることなど到底出来ないぞ?","네가 잠깐 동료를 데리고 간다고 해서, <br> 나를 막을 수는 도저히 없는데?"
-Japanese,"scene_cp32_q1_s10,3211",detail,リーシャ,このっ……!,이놈....!
-Japanese,"scene_cp32_q1_s10,3211",detail,비,おいこら!<br>挑発してどうすんだよ!?,야 임마!<br>도발하면 어떡해!?
-Japanese,"scene_cp32_q1_s10,3211",detail,흑기사,"案ずるな……<br>あの手の小娘は,<br>逆上したほうが隙が生まれる。","걱정하지마……<br> 그런 종류의 계집애는,<br> 흥분하는 편이 틈이 생겨."
-Japanese,"scene_cp32_q1_s10,3211",detail,흑기사,"無論……<br>あの小娘に私を止められないというのは,<br>紛れもない事実だがな。","물론……<br>그 계집애가 나를 말릴 수 없다는 것은,<br>틀림없는 사실이지만."
-Japanese,"scene_cp32_q1_s10,3211",detail,リーシャ,"くっ……!<br>その言葉,撤回させてあげるんだから!",큭...!<br> 그 말 철회시켜주는거야!
-Japanese,"scene_cp32_q1_s10,3211",detail,リーシャ,"秩序の騎空士達よ! 私に続け!<br>碧の騎士の名において,<br>奴らを捕縛せよ!",질서의 기공사들이여! 나에게 따르라! <br> 벽의 기사 이름으로 <br> 놈들을 포박하라!
-Japanese,"scene_cp32_q1_s20,3212",synopsis,,"秩序の騎空団の名にかけて[플레이어]らを逃がすわけにはいかないと言うリーシャ。自らが秩序を乱す存在になってしまった事実を突き付けられ,うろたえる一行だったが,秩序の中で救えるのは秩序に沿った者だけだと,黒騎士は秩序の騎空団に弓引く覚悟を語った。",질서의 기공단의 이름으로 그들을 놓칠 수 없다는 리샤. 스스로가 질서를 어지럽히는 존재가 되어버린 사실을 들춰내 당황하는 일행이었지만 질서 속에서 구할 수 있는 것은 질서에 입각한 자뿐이라고 흑기사는 질서의 기공단에 활을 쏘겠다는 각오를 밝혔다.
-Japanese,"scene_cp32_q1_s20,3212",detail,リーシャ,くっ……逃がすわけには……<br>父の名に娘の私が<br>泥を塗るわけにはいかない……!,쳇……놓칠수는……<br>아버지의 이름에 딸인 내가<br>흙을 칠할수는 없어……!
-Japanese,"scene_cp32_q1_s20,3212",detail,카타리나,リーシャ殿……<br>私達は<br>争いを望んでいるわけじゃないんだ。,리샤전…….<br>우리는<br>싸움을 원하는 게 아니야.
-Japanese,"scene_cp32_q1_s20,3212",detail,카타리나,だからここは目をつぶって<br>私達を通してくれないか?,그러니까 여긴 눈 감고<br>우리를 지나가게 해주지 않을래?
-Japanese,"scene_cp32_q1_s20,3212",detail,카타리나,"どうやら黒騎士の罪状にも,<br>色々と誤解や陰謀があるようだし……","아무래도 흑기사의 죄상에도,<br>여러가지 오해와 음모가 있는것 같고……"
-Japanese,"scene_cp32_q1_s20,3212",detail,リーシャ,それを決めるのは貴方達ではない!<br>私が……私達が秩序の騎空団なんだ!,그걸 결정하는 건 너희가 아니야! <br> 내가…… 우리가 질서의 기공단이야!
-Japanese,"scene_cp32_q1_s20,3212",detail,リーシャ,秩序を司る者として……<br>私は絶対に<br>屈するわけにはいかないの!,질서를 관장하는 사람으로서....<br>나는 절대로<br>굴할 수 없어!
-Japanese,"scene_cp32_q1_s20,3212",detail,秩序の騎空団員１,"そ,そうだ……<br>リーシャ船長の言う通りだ!<br>俺達は負けるわけにはいかない!",그래그래…<br>리샤 선장의 말대로다!우린 질 수 없어!
-Japanese,"scene_cp32_q1_s20,3212",detail,秩序の騎空団員２,ここは通さんぞ……絶対にだ!,여기는 지나간다……꼭이다!
-Japanese,"scene_cp32_q1_s20,3212",detail,이오,"ちょ,ちょっと!<br>これじゃまるで,<br>あたし達が悪者みたいじゃない!","자, 잠깐!<br>이러면 꼭,<br>우리가 나쁜 놈같잖아!"
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"自覚がなかったのか?<br>私の手を取った時点で,<br>貴様らは立派な悪の一味だ。",자각이 없었나?<br>내 손을 잡은 시점에서 <br> 네놈들은 훌륭한 악의 일당이다.
-Japanese,"scene_cp32_q1_s20,3212",detail,이오,"ちょっ……!<br>そ,そうかもしれないけど……!","잠깐....!<br>그,그,그,그럴지도 모르지만....!"
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"助けたいのだろう? あの人形を。<br>世界の秩序に従っていて,<br>思いのままに何かを救えると思うな。",도와주고 싶은거지? 저 인형을 <br> 세계의 질서에 따라가고 <br> 마음대로 무언가를 구할 수 있다고 생각하지 마라.
-Japanese,"scene_cp32_q1_s20,3212",detail,루리아,っ……!,헉...!
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"秩序の中にあって救えるのは,<br>秩序に沿った者だけだ。",질서 안에서 구할 수 있는 사람은 <br> 질서에 따르는 자뿐이다.
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"秩序の外に目を向けるのなら……<br>手を差し伸べるのなら……<br>その時点で,秩序は我々の敵だ。",질서 밖으로 눈을 돌린다면……<br>손을 뻗친다면……<br>그 시점에서 질서는 우리의 적이다.
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"よもや,<br>その程度の覚悟もなく,<br>私の誘いに乗ったのではあるまいな?",설마<br>그정도의 각오도 없이<br>내 꼬임에 넘어간건 아니겠지?
-Japanese,"scene_cp32_q1_s20,3212",sel1_txt,,<span class='scene-font-katari'>覚悟はある</span>,<span class='scene-font-katari'>각오는 있다</span>
-Japanese,"scene_cp32_q1_s20,3212",sel2_txt,,<span class='scene-font-katari'>それでも助けたい</span>,<span class='scene-font-katari'>그래도 돕고 싶다</span>
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"ふ……<br>やはり私の目に,<br>狂いはなかったようだな。","후…<br>역시 내 눈에,<br>틀림은 없었던것 같군."
-Japanese,"scene_cp32_q1_s20,3212",detail,루리아,"う,うん……!<br>私もオルキスちゃんを助けたい……<br>そのためなら……!","으,응……!<br>나도 오르키스를 돕고 싶어……<br>그러기 위해서라면……!"
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"そういうわけだ……<br>悪いな,小娘,我々は止まらないぞ。","그런거야……<br>나쁘네, 계집애, 우리는 멈추지 않아."
-Japanese,"scene_cp32_q1_s20,3212",detail,リーシャ,くっ……黒騎士……!<br>よくも[플레이어]達まで<br>誑かして……!!,큭...흑기사...!<br> 용케도 [플레이어]달까지<br> 달래고....!!
-Japanese,"scene_cp32_q1_s20,3212",detail,흑기사,"ふん……何とでも言え。<br>しかし,我々は強いぞ。<br>貴様らに我々が止められるか……!!",흠.... 뭐라고 말하라.<br>그러나 우리는 강하다.<br>너희들이 우리를 말릴수 있을까....!!
-Japanese,"scene_cp32_q2_s10,3221",synopsis,,"リーシャ率いる秩序の騎空団を撃退し,その場を去ろうとした一行。しかし,今度はそこへ帝国軍が立ちはだかる。駆けつけたザカ大公とともに,帝国兵達と戦いを繰り広げるのであった。",리샤가 이끄는 질서의 기공단을 물리치고 그 자리를 떠나려던 일행.그러나 이번에는 그곳을 제국군이 가로막는다.달려온 자카 대공과 함께 제국병들과 전투를 벌이는 것이었다.
-Japanese,"scene_cp32_q2_s10,3221",detail,リーシャ,"はぁ……はぁ……<br>ま,負けるわけには……","하아……하아……<br>마, 질 수는……"
-Japanese,"scene_cp32_q2_s10,3221",detail,루리아,リーシャさん……,리샤씨……
-Japanese,"scene_cp32_q2_s10,3221",detail,로제타,"ルリアちゃん,<br>いまアタシ達から,<br>彼女にかけられる言葉はないわ。","루리아,<br>지금 내가 너한테서<br>그녀에게 걸어줄말은 없어"
-Japanese,"scene_cp32_q2_s10,3221",detail,로제타,"少しでも彼女を思うのなら,<br>先に進むしかないの。<br>早くこの島を出るのよ。",조금이라도 그녀를 생각한다면 <br> 앞으로 나아갈 수 밖에 없어 <br> 빨리 이 섬을 떠나라.
-Japanese,"scene_cp32_q2_s10,3221",detail,흑기사,"ロゼッタの言う通りだな。<br>邪魔者はあらかた片付いたようだし,<br>少しでも情けをかけるなら……","로제타 말이 맞네<br>방해자는 거의 정리가 된것 같고,<br>조금이라도 자비를 베풀자면……"
-Japanese,"scene_cp32_q2_s10,3221",detail,제국병,"お前を狙っているのが,<br>秩序の騎空団だけだと思うなよ!",너를 노리고 있는게 <br> 질서의 기공단뿐이라고 생각하지마!
-Japanese,"scene_cp32_q2_s10,3221",detail,흑기사,なっ……!?,나랏...!?
-Japanese,"scene_cp32_q2_s10,3221",detail,자카 대공,はああぁぁッ!!,하아아아악!!
-Japanese,"scene_cp32_q2_s10,3221",detail,제국병,くっ……!,큭...!
-Japanese,"scene_cp32_q2_s10,3221",detail,자카 대공,"やれやれ……<br>お主ともあろう者が,<br>こうも簡単に隙を突かれるとはのう。",맙소사…<br>주인이라는 자가 <br>이렇게도 간단하게 허점을 찔릴 줄이야.
-Japanese,"scene_cp32_q2_s10,3221",detail,이오,師匠!?,스승님!?
-Japanese,"scene_cp32_q2_s10,3221",detail,자카 대공,"おお,イオ……<br>心配になって<br>様子を見に来たのじゃが……","오, 이오……<br>걱정이 되서<br>상태를 보러 온 거지만……"
-Japanese,"scene_cp32_q2_s10,3221",detail,자카 대공,"さぁ,構えよ,[플레이어]<br>今度は帝国兵じゃ……<br>休んでいる暇などないぞ!","자, 자세를 취해라. [플레이어]<br>이번엔 제국병이라……<br>쉴 틈이 없어!"
-Japanese,"scene_cp32_q2_s20,3222",synopsis,,"[플레이어]らをかばうザカ大公に,リーシャが憎悪の視線を向ける。バルツ公国も無事では済まないという言葉を一笑に伏し,[플레이어]達に先を急がせた。その身を案ずるイオへ,ザカ大公は不敵な笑みを向け,またもその身を囮として残すのであった。","[플레이어] 일들을 두둔하는 자카 대공에게, 리샤가 증오의 시선을 돌린다.발츠 공국도 무사할 수 없다는 말에 웃음을 머금고, [플레이어]들에게 길을 재촉했다.그 몸을 걱정하는 이오에게, 자카 대공은 겁없는 미소를 지으며, 또 그 몸을 미끼로 남기는 것이었다."
-Japanese,"scene_cp32_q2_s20,3222",detail,リーシャ,"大公閣下!<br>どうして貴方まで,<br>逃亡者に手を貸すのですか!?",대공각하!<br>왜 당신까지<br>도망자에게 도움을 주나요!?
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,何のことじゃ?,무슨 일이야?
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,わしはアマルティア島を襲った<br>悪しき帝国兵の<br>相手をしているだけじゃよ。,난 아마르티아 섬을 습격한 <br>나쁜 제국병의 <br>상대를 하고 있을 뿐이야.
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,しかしまぁ……<br>見ての通り混戦しているからのう……,그러나 뭐...<br>보다시피 혼전하고 있으니까 말이야...
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,"意図せず,<br>秩序の騎空団の者を<br>巻き込んでしまったかもしれんが……","의도하지 않게,<br>질서의 기공단의 사람을<br>말아 버렸을지도 모르지만……"
-Japanese,"scene_cp32_q2_s20,3222",detail,リーシャ,大公閣下……<br>バルツ公国も<br>ただでは済まないかもしれませんよ……,대공각하.....<br>발츠공국도<br>그냥은 넘어가지 않을지도 몰라요.....
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,"はっ! 言うてくれる!<br>しかし,ドラフの民を侮るでないぞ!",헉! 말해줄래?<br>그러나 드라프의 백성을 얕잡아보지 말라구!
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,"[플레이어]……<br>ここはわしに任せて,<br>先に行くのじゃ……",[플레이어]……<br>여기는 나에게 맡기고 <br>먼저 가는거다……
-Japanese,"scene_cp32_q2_s20,3222",detail,이오,師匠! でも……!,스승님! 그렇지만……!
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,"あの者の意志は強い……<br>そうそう諦めてはくれぬぞ?<br>だから,ここはわしに任せるのじゃ。","그 자의 의지는 강하다……<br> 그렇게 포기하지는 않겠지?<br>그러니까, 여기는 나에게 맡기는 거야."
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,"安心せい。<br>わしとて,ただの老いぼれではない。<br>お主らが行くまでの時間くらいは稼ごう。","안심입니다. <br> 나도, 그냥 늙어빠진것이 아니다.<br>너희들이 갈때까지 시간정도는 벌자."
-Japanese,"scene_cp32_q2_s20,3222",detail,이오,師匠……,스승……
-Japanese,"scene_cp32_q2_s20,3222",detail,흑기사,大公閣下……<br>お言葉に甘えさせてもらうぞ。,대공각하……<br>말씀에 응석부리겠다.
-Japanese,"scene_cp32_q2_s20,3222",detail,라캄,"ああ……<br>イオ,いまはそうするしかねぇ……","아아……<br>이오, 지금은 그렇게 할 수 밖에 없어……"
-Japanese,"scene_cp32_q2_s20,3222",detail,이오,っ……うんっ! わかってる!<br>師匠! 絶対無理しちゃダメだからね!,헉...흠! 알아!<br>스승님! 절대 무리하면 안되니까!
-Japanese,"scene_cp32_q2_s20,3222",detail,자카 대공,"ふふふ……<br>弟子が師匠に言う言葉か,それが。","후후……<br>제자가 스승에게 하는 말인가, 그게."
-Japanese,"scene_cp32_q2_s20,3222",detail,비,よしっ……!<br>行こうぜ!<br>残りは帝国兵だけだ!,좋아……!<br>가자!<br>남은 사람은 제국병뿐이다!
-Japanese,"scene_cp32_q3_s10,3231",synopsis,,"追手を振り切り,グランサイファーも間近に迫った時,ポンメルン率いる帝国軍が現れ,立ちふさがるのであった。",추격자를 뿌리치고 그랜사이퍼도 임박한 때에 폰메른이 이끄는 제국군이 나타나 가로막는 것이었다.
-Japanese,"scene_cp32_q3_s10,3231",detail,오이겐,"ふぅ……<br>帝国の連中も,<br>だいぶ振り切ったか……?","후……<br>제국 무리들도,<br>많이 끊었나……?"
-Japanese,"scene_cp32_q3_s10,3231",detail,폼메른,"待つんですネェェェッ!!<br>私がいることを,<br>忘れてもらっては困りますよォォォッ!",기다릴께요~~~~~<br>제가 있는것을<br>잊어주시면 곤란해요~~~
-Japanese,"scene_cp32_q3_s10,3231",detail,카타리나,くっ……<br>ポンメルン……!,큭……<br>퐁메룬……!
-Japanese,"scene_cp32_q3_s10,3231",detail,폼메른,ずいぶん好き勝手に<br>やってくれてるようですネェ……,꽤 자기 좋을대로<br>해 주고 있는 것 같습니다 넵......
-Japanese,"scene_cp32_q3_s10,3231",detail,폼메른,秩序の騎空団では<br>止められなかったようですが……,질서의 기공단에서는<br>못말린것 같은데……
-Japanese,"scene_cp32_q3_s10,3231",detail,폼메른,ここで我々が<br>貴様らの旅を終わらせてあげますネェェ!,여기서 우리가<br>님들의 여행을 끝내줄게요!
-Japanese,"scene_cp32_q3_s10,3231",detail,라캄,ったく……<br>厄介な奴が残ってやがったぜ!,정말이지……<br>귀찮은 녀석이 남아서 그랬어!
-Japanese,"scene_cp32_q3_s10,3231",detail,라캄,"なんであれ,<br>グランサイファーはもう目の前だ!<br>ここで負けるわけにはいかねぇぞ!",어찌됐건 <br> 그랜사이퍼는 이제 코앞이다!여기서 질 순 없어!
-Japanese,"scene_cp32_q3_s20,3232",synopsis,,"魔晶の力によって変化したポンメルン相手に,単身戦いを挑む黒騎士。[플레이어]らは,周囲の帝国兵を倒すべく剣を振るうのであった。",마정의 힘에 의해 변화한 폼메른 상대에게 단신 싸움을 거는 흑기사. [플레이어]들은 주위의 제국병을 쓰러뜨릴 수 있도록 검을 휘두르는 것이었다.
-Japanese,"scene_cp32_q3_s20,3232",detail,폼메른,"クックック……<br>そろそろ真打登場,<br>といったところですかネェ……","쿡크....<br>슬슬 인기척 등장,<br>이라고나 할까요????"
-Japanese,"scene_cp32_q3_s20,3232",detail,폼메른,"魔晶の力は不滅なんですよォォォッ!<br>今度こそ,<br>覚悟してもらいますネェェェッ!!",마정의 힘은 불멸인거에요오오오오오오오오오오오오오오오오!! 이번에야말로 각오하게 될꺼야오~~
-Japanese,"scene_cp32_q3_s20,3232",detail,비,くっそぉー!<br>あと少しだってのに!,큭큭-!<br>조금 남았는데!
-Japanese,"scene_cp32_q3_s20,3232",detail,루리아,頑張りましょう! [플레이어]!<br>なんとかここを切り抜けて……,파이팅 합시다! [플레이어]!<br>어떻게든 여기를 뚫고 나가……
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,いい……貴様らは下がっていろ。,좋아……네놈들은 물러서 있어라.
-Japanese,"scene_cp32_q3_s20,3232",detail,루리아,へ……?,어……?
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,"久しいな,ポンメルン……","오래됐군, 폼메룬……"
-Japanese,"scene_cp32_q3_s20,3232",detail,폼메른,"く,黒騎士……閣下。",흑기사……각하.
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,もはや私は追放された身だ。<br>閣下だなどと呼ぶ必要はない。,나는 이미 추방당한 몸이다.<br> 각하라고 부를 필요는 없다.
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,それに貴様は<br>私の抹殺を命令されて来たんだろう?<br>畏まってどうする?,게다가 너는<br>나의 말살을 명령받고 왔지?<br>외면 어떻게 하지?
-Japanese,"scene_cp32_q3_s20,3232",detail,폼메른,"ぐっ……<br>そ,その通りですネェ!<br>この場で全員まとめて……","끄응……<br>그, 맞습니다네!<br>이 자리에서 전원 정리해……"
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,"それで貴様……<br>魔晶があれば,容易く私を<br>抹殺出来るなどとほざいたそうだが……",그래서 네 놈……<br>마정이 있으면 쉽게 나를<br>말살시킬 수 있다고 비웃었다고 하는데……
-Japanese,"scene_cp32_q3_s20,3232",detail,폼메른,うぐっ……,으윽……
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,試してみるか……?,시험해볼까……?
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,"この私の剣で,<br>憐れに叩き潰される覚悟は<br>出来ているんだろうなぁ!!",이 나의 검으로 <br> 측은함에 때려부술 각오는<br> 되어있겠지!!
-Japanese,"scene_cp32_q3_s20,3232",detail,폼메른,"くっ……!<br>う,受けて立ちますよォォォッ!!","헉...!<br>우, 받고 일어나요오오오오오오!!"
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,ふん……決まりだな。<br>こいつは私の獲物だ。,흠……. 결정됐군.<br>이놈은 내 사냥감이야.
-Japanese,"scene_cp32_q3_s20,3232",detail,흑기사,貴様らは雑魚相手に油断しないよう<br>せいぜい気を付けることだ。,너희들은 송사리 상대에게 방심하지 않도록 <br> 기껏 조심해야 한다.
-Japanese,"scene_cp32_q3_s20,3232",detail,비,"あっ,おい!<br>何なんだあいつ……","앗, 어이!<br>뭐야 그녀석……"
-Japanese,"scene_cp32_q3_s20,3232",detail,로제타,"ふふっ……頼もしい限りじゃない。<br>さぁ,アタシ達も<br>気を抜いてるわけにはいかないわよ!","후훗… 믿음직스럽기 그지없다.<br> 자, 우리들도<br> 긴장을 늦출 수는 없어!"
-Japanese,"scene_cp32_q4_s10,3241",synopsis,,"[플레이어]らが帝国兵と戦っている間に,黒騎士はポンメルンを下していた。帝国軍を撃退した一行は,グランサイファーへと向かうのであった。","[플레이어] 등이 제국병과 싸우고 있는 동안, 흑기사는 폼메른을 내리고 있었다.제국군을 물리친 일행은 그랜사이퍼로 향하는 것이었다."
-Japanese,"scene_cp32_q4_s10,3241",detail,제국병,くっ……!,큭...!
-Japanese,"scene_cp32_q4_s10,3241",detail,카타리나,よし! こちらは片付いたぞ!<br>黒騎士は……,좋아! 이쪽은 정리되었다!<br>흑기사는...
-Japanese,"scene_cp32_q4_s10,3241",detail,흑기사,ふん……遅すぎる。<br>ずいぶん待たされたぞ。,흠…너무 늦었어.<br> 꽤 많이 기다렸어.
-Japanese,"scene_cp32_q4_s10,3241",detail,라캄,"なっ……お前,<br>あの魔晶を使ったポンメルンを……","나.... 너, <br> 저 마정을 사용한 퐁메룬을...."
-Japanese,"scene_cp32_q4_s10,3241",detail,흑기사,"あんなもの私の敵ではない。<br>２,３斬りつけたら,<br>尻尾を巻いて逃げて行ったわ。","저런 건 내 적이 아니야.<br>2,3참을 베자,<br>꼬리를 감고 도망갔어."
-Japanese,"scene_cp32_q4_s10,3241",detail,이오,"く,黒騎士って……<br>偉そうにしてるだけじゃなくて,<br>すっごく強かったのね……","흑기사라니....<br>잘난척하는것 뿐만이 아니라,<br>굉장히 강했구나...."
-Japanese,"scene_cp32_q4_s10,3241",detail,흑기사,"奴が弱すぎただけだ。<br>この島で最も恐るべきは,<br>あんな魔晶に頼った連中ではない。",녀석이 너무 약했을 뿐이야.<br> 이 섬에서 가장 무서운 것은 <br> 저런 마정에 의지한 무리가 아니다.
-Japanese,"scene_cp32_q4_s10,3241",detail,흑기사,"行くぞ。<br>この島の本当の真打が登場する前に,<br>とっとと騎空艇に乗り込むんだ。","가자.<br>이 섬의 진짜 진타가 등장하기 전에,<br>얼른 기공정에 올라탈거야."
-Japanese,"scene_cp32_q4_s20,3242",synopsis,,"グランサイファーに乗り込もうとした一行だったが,そこへモニカとリーシャの率いる秩序の騎空団が現れた。何が何でも黒騎士を逃がすわけにはいかないという秩序の騎空団との,最後の戦いが始まる。",그랜사이퍼에 올라타려던 일행이었는데 그때 모니카와 리샤가 이끄는 질서의 기공단이 나타났다.무조건 흑기사를 놓칠 수는 없다는 질서의 기공단과의 마지막 싸움이 시작된다.
-Japanese,"scene_cp32_q4_s20,3242",detail,라캄,"よし! 見えたぜ!<br>すぐに離陸の準備をするから,<br>お前らは中に……",좋아! 보였다구!<br>곧 이륙준비를 할테니까<br>너희들은 안에......
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,残念だがそこまでだ。<br>全員動くな。,아쉽지만 거기까지다.<br>모두 움직이지마.
-Japanese,"scene_cp32_q4_s20,3242",detail,リーシャ,…………,…………
-Japanese,"scene_cp32_q4_s20,3242",detail,흑기사,ついにお出ましか……<br>秩序の騎空団のエースが……!,드디어 행차하셨습니까?……<br>질서의 기공단의 에이스가……!
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,まずはここまでたどり着いた<br>貴公らの実力と幸運を褒めよう。,먼저 이곳에 도착한 <br>귀공들의 실력과 행운을 칭찬한다.
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,"いかに特殊な状況だったとはいえ,<br>ここまで逃げおおせたのは<br>黒騎士……お前が初めてだ。","아무리 특수한 상황이었다고는 해도,<br>여기까지 도망칠 수 있었던 것은<br>흑기사……네가 처음이다."
-Japanese,"scene_cp32_q4_s20,3242",detail,흑기사,ふん……<br>お褒めに預かり光栄だな。,흠…<br>칭찬을 받아 영광이네.
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,"しかし,<br>私が来た以上,ここで終わりだ。<br>貴公らにこの先は無い。",하지만<br>내가 온 이상 여기서 끝이다.<br>귀공들에게 앞은 없다.
-Japanese,"scene_cp32_q4_s20,3242",detail,リーシャ,"これが最後の警告です。<br>このまま踵を返して,<br>建物の中に戻りなさい。",이제 마지막 경고입니다. <br> 이대로 돌아서 <br> 건물 안으로 들어가세요.
-Japanese,"scene_cp32_q4_s20,3242",detail,흑기사,ふん……,흠……
-Japanese,"scene_cp32_q4_s20,3242",detail,이오,"ちょ,ちょっと!<br>あんたは師匠が足止めしてるはずで……<br>まさか師匠を……!?","자, 잠깐!<br>너는 스승님이 발이 묶여 있을 테고……<br>설마 스승을……!?"
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,"ザカ大公には,<br>少々大人しくなってもらった。","자카 대공에게는,<br>조금 얌전해졌다."
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,"無論,我々は秩序の騎空団だからな。<br>大公の命に別状はない。<br>その点は安心するといい。",물론 우리는 질서의 기공단이니까.<br> 대공의 생명에는 지장이 없다.<br>그 점은 안심해도 좋다.
-Japanese,"scene_cp32_q4_s20,3242",detail,오이겐,しかし……<br>この場を譲ってくれるつもりは<br>全くねぇみてぇだなぁ……,하지만……<br>이 자리를 양보해 줄 생각은<br>전혀 없는 것 같아.그렇구나……
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,当然だ!<br>黒騎士は渡さない……<br>エルステ帝国にも殺させない……,당연하지!<br>흑기사는 넘기지 않아……<br>에르스테 제국도 죽이지 않아……
-Japanese,"scene_cp32_q4_s20,3242",detail,モニカ,"全てを有耶無耶になどさせない……!<br>黒騎士には,<br>生きて裁きを受けてもらう!","모든것을 흐지부지 시키지 않는다……!<br>흑기사에게는,<br>살아서 재판을 받게한다!"
-Japanese,"scene_cp32_q4_s20,3242",detail,흑기사,ふん……<br>相変わらず頭の固い連中だな。,흠…<br>여전히 머리가 딱딱한 친구들이군.
-Japanese,"scene_cp32_q4_s20,3242",detail,흑기사,"[플레이어]……<br>こいつらが,最後にして最大の関門だ。",[플레이어]……<br>이놈들이 마지막 최대의 관문이다.
-Japanese,"scene_cp32_q4_s20,3242",detail,루리아,"行きましょう,[플레이어]……<br>オルキスちゃんを助けるために,<br>私達は進まなくちゃいけないんです!!","갑시다. [플레이어]……<br>얼키스짱을 돕기 위해서,<br>우리는 전진하지 않으면 안됩니다!!"
-Japanese,"scene_cp32_q4_s30,3243",synopsis,,"モニカとリーシャを退け,[플레이어]達はアマルティア島から飛び立った。[플레이어]達が島から離れた後,モニカとリーシャは,ただひとり残ったザカ大公へ,黒騎士の抱える真実について問うのであった。","모니카와 리샤를 물리치고 [플레이어]들은 아마르티아 섬에서 날아올랐다.[플레이어]들이 섬을 떠난 후, 모니카와 리샤는 홀로 남은 자카 대공에게 흑기사가 안고 있는 진실에 대해 묻는 것이었다."
-Japanese,"scene_cp32_q4_s30,3243",detail,,"<span class='scene-font-katari'>リーシャ,モニカを退けた</span><br><span class='scene-font-katari'>[플레이어]一行は,</span><br><span class='scene-font-katari'>無事グランサイファーへと乗り込む。</span>","<span class='scene-font-katari'>리샤, 모니카를 물리쳤다</span><br><span class='scene-font-katari'>[플레이어] 일행은,</span><br><span class='scene-font-katari'>무사히 그랜사이퍼에 올라타다。</span>"
-Japanese,"scene_cp32_q4_s30,3243",detail,,"<span class='scene-font-katari'>そして,オルキスが待つという,</span><br><span class='scene-font-katari'>古き街<span class='scene-font-place'>メフォラシュ</span>へと</span><br><span class='scene-font-katari'>飛び立って行った。</span>","<span class='scene-font-katari'>그리고 오르키스가 기다린다는う,</span><br><span class='scene-font-katari'>옛 거리<span class='scene-font-place'>메호라슈</span>로</span><br><span class='scene-font-katari'>날아올라갔다。</span>"
-Japanese,"scene_cp32_q4_s30,3243",detail,자카 대공,"あいたた……あ奴らめ……<br>老いぼれと相対しているというのに,<br>手加減というものをせんからに……","아야타……저놈들……<br>늙은이들과 상대하고 있다고 하는데,<br>손대중이라는 것을 하기 때문에……"
-Japanese,"scene_cp32_q4_s30,3243",detail,モニカ,"大公閣下が相手では,<br>いかに私と言えど,<br>手加減をしている余裕などなくてな。",대공각하가 상대라면 <br> 아무리 나라고 해도 <br> 조절할 여유가 없어서 말이야.
-Japanese,"scene_cp32_q4_s30,3243",detail,자카 대공,おお……<br>どうじゃ? 奴らはどうなった?,오오……<br>어떤가? 놈들은 어떻게 됐어?
-Japanese,"scene_cp32_q4_s30,3243",detail,リーシャ,"私とモニカさんを退けて,<br>飛び立って行きました……","나와 모니카씨를 물리치고,<br>날아갔읍니다......"
-Japanese,"scene_cp32_q4_s30,3243",detail,자카 대공,"はっはっは! そうかそうか!<br>いやはや,なんとも愉快な連中じゃ!","헉헉! 그런가! <br> 아니, 정말 유쾌한 사람들이네!"
-Japanese,"scene_cp32_q4_s30,3243",detail,リーシャ,全然愉快じゃないですっ!,전혀 유쾌하지 않아요!
-Japanese,"scene_cp32_q4_s30,3243",detail,リーシャ,"はぁ……結局,戦闘はモニカさんに<br>頼ってばっかりだし……<br>私,向いてないのかなぁ……","하아... 결국, 전투는 모니카씨에게<br>의지하기만 하고...<br>나, 적성에 맞지 않는걸까...."
-Japanese,"scene_cp32_q4_s30,3243",detail,モニカ,"こらこら,<br>一度や二度の失敗で投げ出そうとするな。","이 녀석들, <br> 한두 번의 실패로 포기하려 들지 마라."
-Japanese,"scene_cp32_q4_s30,3243",detail,リーシャ,ううぅー……,으윽……
-Japanese,"scene_cp32_q4_s30,3243",detail,モニカ,"さて,ザカ大公……<br>黒騎士と彼らは行ってしまったが……<br>貴公には,まだ聞くことがある。","그런데, 자카 대공……<br>흑기사와 그들은 가버렸지만……<br>귀공에게는, 아직 물어볼 것이 있다."
-Japanese,"scene_cp32_q4_s30,3243",detail,자카 대공,"ふむ……わしに答えられることなら,<br>喜んで答えよう。","흠…내게 대답할 수 있는 것이라면,<br>기꺼이 대답하자."
-Japanese,"scene_cp32_q4_s30,3243",detail,モニカ,"我々にも教えてほしい……<br>いったい黒騎士は,<br>どんな真実を抱えていたのだ?",우리에게도 가르쳐 주었으면 한다…<br>도대체 흑기사는 <br>어떤 진실을 안고 있었던 것일까?
-Japanese,"scene_cp32_q4_s30,3243",detail,,"<span class='scene-font-katari'>[플레이어]一行は,</span><br><span class='scene-font-katari'>冒険の舞台を新たな島へと移していく。</span>","<span class='scene-font-katari'>[플레이어] 일행은,</span><br><span class='scene-font-katari'>모험의 무대를 새로운 섬으로 옮겨 간다。</span>"
-Japanese,"scene_cp32_q4_s30,3243",detail,,"<span class='scene-font-katari'>その後ろには,少しずつだが,</span><br><span class='scene-font-katari'>真実に触れた勇気ある者達が</span><br><span class='scene-font-katari'>続いていくのだった。</span>","<span class='scene-font-katari'>그 뒤에는 조금씩이지만,</span><br><span class='scene-font-katari'>진실을 마주할 용기있는 자들이</span><br><span class='scene-font-katari'>이어지는 것이었다。</span>"
-English,"scene_cp32_q1_s10,3211",synopsis,,"Just as the crew is about to reach the Grandcypher, they are stopped by Lecia and her enforcers."
-English,"scene_cp32_q1_s10,3211",detail,,The crew continue their escape from Amalthea Island to rescue Orchis.
-English,"scene_cp32_q1_s10,3211",detail,,On the way to the Grandcypher they bump into a familiar face.
-English,"scene_cp32_q1_s10,3211",detail,Lecia,I won't permit you to go any further. This is a warning—give her back now.
-English,"scene_cp32_q1_s10,3211",detail,Black Knight,Just you? Where's your tiny friend?
-English,"scene_cp32_q1_s10,3211",detail,Lecia,I do not have to answer that.
-English,"scene_cp32_q1_s10,3211",detail,Black Knight,I see. You split into two groups so that you would be certain to stop us. A wise maneuver.
-English,"scene_cp32_q1_s10,3211",detail,Lecia,I've told you already! I won't tell you anything about Monika or where she might be!
-English,"scene_cp32_q1_s10,3211",detail,Black Knight,"Be that as it may, only you are here now. Splitting into two groups means nothing."
-English,"scene_cp32_q1_s10,3211",detail,Black Knight,You cannot possibly stop me with so few backing you up.
-English,"scene_cp32_q1_s10,3211",detail,Lecia,Why you...
-English,"scene_cp32_q1_s10,3211",detail,Vyrn,Hey! Stop tryin' to just pick a fight!
-English,"scene_cp32_q1_s10,3211",detail,Black Knight,Calm yourself. We'll create a break in their formation by confusing this woman.
-English,"scene_cp32_q1_s10,3211",detail,Black Knight,"But of course, it's not as if she has the ability to stop me anyway."
-English,"scene_cp32_q1_s10,3211",detail,Lecia,Tch! I'm going to make you eat those words!
-English,"scene_cp32_q1_s10,3211",detail,Lecia,"Crew of Enforcers! Follow me! In the name of the Blue Knight, I will capture you!"
-English,"scene_cp32_q1_s20,3212",synopsis,,"As the crew continues the confrontation with Lecia, the Black Knight calls [플레이어]'s resolve into question."
-English,"scene_cp32_q1_s20,3212",detail,Lecia,Tch... I won't let you escape. I won't bring shame to my father's name!
-English,"scene_cp32_q1_s20,3212",detail,Katalina,"Lecia, we don't want to fight."
-English,"scene_cp32_q1_s20,3212",detail,Katalina,"So, please. Just look the other way and let us through."
-English,"scene_cp32_q1_s20,3212",detail,Katalina,Not to mention that there are many questions concerning the charges against the Black Knight.
-English,"scene_cp32_q1_s20,3212",detail,Lecia,"You are not the ones who decide that! That's us, the Crew of Enforcers! That's our job!"
-English,"scene_cp32_q1_s20,3212",detail,Lecia,"As skyfarers charged with maintaining order, we won't yield to anyone!"
-English,"scene_cp32_q1_s20,3212",detail,Enforcer 1,That's right. It's just like Captain Lecia says! We won't be defeated!
-English,"scene_cp32_q1_s20,3212",detail,Enforcer 2,You're not gettin' through! No way!
-English,"scene_cp32_q1_s20,3212",detail,Io,W-wait a minute! Do they think we're the bad guys!
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,"Are you that dense? As soon as you became my ally, you became enemies of their crew."
-English,"scene_cp32_q1_s20,3212",detail,Io,But—grr. I guess you have a point.
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,"You still want to rescue that doll, don't you? Don't think for a second that you can abide by this world's order and save anything."
-English,"scene_cp32_q1_s20,3212",detail,Lyria,...!
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,The only ones that are saved by order are those that are controlled by order.
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,The moment you abandon order—or even dip a toe outside of that order—then order has abandoned you.
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,If you are not truly prepared then do not come with me.
-English,"scene_cp32_q1_s20,3212",sel1_txt,,I am ready.
-English,"scene_cp32_q1_s20,3212",sel2_txt,,I want to rescue Orchis.
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,So I don't seem crazy to you after all.
-English,"scene_cp32_q1_s20,3212",detail,Lyria,"Yes, I want to rescue Orchis too! I'll do anything!"
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,"Then it's settled. Sorry, Little Miss Enforcer. You won't be stopping us today."
-English,"scene_cp32_q1_s20,3212",detail,Lecia,Black Knight! How dare you trick this crew!
-English,"scene_cp32_q1_s20,3212",detail,Black Knight,Humph. Say whatever you'd like. But talk is cheap—if you think you can stop us then show me!
-English,"scene_cp32_q2_s10,3221",synopsis,,"After the crew beats back Lecia and her enforcers, imperials soldiers appear to try to prevent the crew from leaving. Tzaka the Great shows up to assist them."
-English,"scene_cp32_q2_s10,3221",detail,Lecia,Huff... huff...<br>We... can't lose...
-English,"scene_cp32_q2_s10,3221",detail,Lyria,Lecia...
-English,"scene_cp32_q2_s10,3221",detail,Rosetta,"Lyria, there's nothing else we can say to her."
-English,"scene_cp32_q2_s10,3221",detail,Rosetta,The best thing we can do for her is to hurry and leave this island.
-English,"scene_cp32_q2_s10,3221",detail,Black Knight,"Rosetta is correct. We've beat these pests, so if you extend even a little empathy—"
-English,"scene_cp32_q2_s10,3221",detail,Imperial Soldier,The Crew of Enforcers isn't the only force hunting you!
-English,"scene_cp32_q2_s10,3221",detail,Black Knight,...!
-English,"scene_cp32_q2_s10,3221",detail,Tzaka the Great,Haaah!
-English,"scene_cp32_q2_s10,3221",detail,Imperial Soldier,Tch!
-English,"scene_cp32_q2_s10,3221",detail,Tzaka the Great,"Well, well... I thought I taught you better than to leave yourself open."
-English,"scene_cp32_q2_s10,3221",detail,Io,Master!
-English,"scene_cp32_q2_s10,3221",detail,Tzaka the Great,"Yes, Io. I was worried about your escape, so I came to see how things were proceeding."
-English,"scene_cp32_q2_s10,3221",detail,Tzaka the Great,"More imperials are coming, [플레이어]. Get in position!"
-English,"scene_cp32_q2_s20,3222",synopsis,,Tzaka the Great distracts Lecia and the remaining enforcers long enough for the crew to make their escape.
-English,"scene_cp32_q2_s20,3222",detail,Lecia,The archduke! Why is someone like you helping fugitives?
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,What do you mean?
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,"I'm simply fighting these wicked imperial soldiers, who have unjustly raided Amalthea Island."
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,"But, as you can see, this battle is utter chaos."
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,So my fists might have inadvertently found an enforcer or two during the fight.
-English,"scene_cp32_q2_s20,3222",detail,Lecia,"Archduke, your involvement may not bode well for the people of the Valtz Duchy..."
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,"Ah, you don't say! Well I wouldn't underestimate the people of Valtz, if I were you."
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,[플레이어]. Go ahead. I'll take care of things here.
-English,"scene_cp32_q2_s20,3222",detail,Io,Master!
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,"There's a strong will inside of this one, so let somebody else with a hard head help you out."
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,"Don't fret. My hair might have gone grey, but I can buy you enough time to escape."
-English,"scene_cp32_q2_s20,3222",detail,Io,Master...
-English,"scene_cp32_q2_s20,3222",detail,Black Knight,Archduke... You do us a great honor.
-English,"scene_cp32_q2_s20,3222",detail,Rackam,"Aye, Io. This is all we can manage for now."
-English,"scene_cp32_q2_s20,3222",detail,Io,"R-right! I know! Master, don't do anything stupid, okay!"
-English,"scene_cp32_q2_s20,3222",detail,Tzaka the Great,Haha. Is that something a pupil should say to her master?
-English,"scene_cp32_q2_s20,3222",detail,Vyrn,All right! Let's get rid of these last imperial bad guys and get outta here!
-English,"scene_cp32_q3_s10,3231",synopsis,,The crew is almost to the Grandcypher when Pommern blocks their path.
-English,"scene_cp32_q3_s10,3231",detail,Eugen,Whew... Looks like we've finally shaken those imperials.
-English,"scene_cp32_q3_s10,3231",detail,Pommern,"Halt, I do say! It seems you've forgotten about me!"
-English,"scene_cp32_q3_s10,3231",detail,Katalina,"Urgh, Pommern!"
-English,"scene_cp32_q3_s10,3231",detail,Pommern,"You rabble just do whatever you please, don't you?"
-English,"scene_cp32_q3_s10,3231",detail,Pommern,Not even the Crew of Enforcers were able to stop you.
-English,"scene_cp32_q3_s10,3231",detail,Pommern,But this is where we stop your journey cold!
-English,"scene_cp32_q3_s10,3231",detail,Rackam,Grr... How many times do we have to swat this bug?
-English,"scene_cp32_q3_s10,3231",detail,Rackam,The Grandcypher is just ahead! We're not gonna lose here!
-English,"scene_cp32_q3_s20,3232",synopsis,,"Pommern uses the power of the dark essence to transform, but the Black Knight chooses to face off against him by herself."
-English,"scene_cp32_q3_s20,3232",detail,Pommern,Hahaha. I believe it's time for the main event.
-English,"scene_cp32_q3_s20,3232",detail,Pommern,The power of the dark essence never wanes! This time I will take victory!
-English,"scene_cp32_q3_s20,3232",detail,Vyrn,Grr! This jerk again! We're so close!
-English,"scene_cp32_q3_s20,3232",detail,Lyria,"[플레이어], do your best! I know we can get through this."
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,"All of you, back down."
-English,"scene_cp32_q3_s20,3232",detail,Lyria,Huh?
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,"It's been a while, eh, Pommern?"
-English,"scene_cp32_q3_s20,3232",detail,Pommern,Y-your Eminence...
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,I am an exile. You can stop with the titles.
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,Didn't you come here with orders to assassinate me? Well? Will you obey them?
-English,"scene_cp32_q3_s20,3232",detail,Pommern,Y-yes! That's right! Now that I have you all where I want you—
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,"I should mention that I've heard how you said, ever so plainly, that you could wipe me out with the dark essence."
-English,"scene_cp32_q3_s20,3232",detail,Pommern,Gulp...
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,Shall we test this theory?
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,Are you ready to endure a pathetic defeat?
-English,"scene_cp32_q3_s20,3232",detail,Pommern,I-I accept your challenge!
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,Hah. Then it's on. I'll take on this fool.
-English,"scene_cp32_q3_s20,3232",detail,Black Knight,"The rest of you, watch out and don't get caught off guard."
-English,"scene_cp32_q3_s20,3232",detail,Vyrn,"Hey! We're not amateurs, you know!"
-English,"scene_cp32_q3_s20,3232",detail,Rosetta,"Let's not rely on her for everything. Come on, now's not the time to lose focus!"
-English,"scene_cp32_q4_s10,3241",synopsis,,The crew finishes off the imperial soldiers and finally heads back to the Grandcypher.
-English,"scene_cp32_q4_s10,3241",detail,Imperial Soldier,H'ugh!
-English,"scene_cp32_q4_s10,3241",detail,Katalina,"All right, that's the last of them. How is the Black Knight—"
-English,"scene_cp32_q4_s10,3241",detail,Black Knight,Humph. Took you long enough. I've been waiting forever.
-English,"scene_cp32_q4_s10,3241",detail,Rackam,How did you take down Pommern so fast? He was using that dark essence stuff.
-English,"scene_cp32_q4_s10,3241",detail,Black Knight,"The essence didn't make him even remotely a match for me. After two or three slashes, he turned tail and ran away."
-English,"scene_cp32_q4_s10,3241",detail,Io,"Black Knight, I guess you really can back up your arrogance. You're really strong."
-English,"scene_cp32_q4_s10,3241",detail,Black Knight,"No. He was just weak. Fools who rely on dark essence aren't the ones who should be feared. Not on this island, at least."
-English,"scene_cp32_q4_s10,3241",detail,Black Knight,We're going. We need to leave before the real threat shows herself.
-English,"scene_cp32_q4_s20,3242",synopsis,,Monika comes to support Lecia and stop the Black Knight from escaping Amalthea Island.
-English,"scene_cp32_q4_s20,3242",detail,Rackam,"There it is! I'll get her ready for liftoff, so you all head—"
-English,"scene_cp32_q4_s20,3242",detail,Monika,"Sadly you aren't going anywhere. All of you, halt."
-English,"scene_cp32_q4_s20,3242",detail,Lecia,...
-English,"scene_cp32_q4_s20,3242",detail,Black Knight,So the Crew of Enforcer's secret weapon is finally making her grand appearance.
-English,"scene_cp32_q4_s20,3242",detail,Monika,First allow me to praise your skill and good fortune that allowed you to make it this far.
-English,"scene_cp32_q4_s20,3242",detail,Monika,"Even though this is a bit of a special circumstance, you, Black Knight, are the very first to escape. Well, almost escape."
-English,"scene_cp32_q4_s20,3242",detail,Black Knight,What an honor to receive such praise.
-English,"scene_cp32_q4_s20,3242",detail,Monika,"Now that I'm here, you can expect to see your cell again soon. There's nowhere to run."
-English,"scene_cp32_q4_s20,3242",detail,Lecia,This is your final warning. Stop resisting and come back to the compound with us.
-English,"scene_cp32_q4_s20,3242",detail,Black Knight,Humph.
-English,"scene_cp32_q4_s20,3242",detail,Io,Hold on! My master should have stopped you in your tracks! What did you do with him?
-English,"scene_cp32_q4_s20,3242",detail,Monika,"I had to, ahem, negotiate with Archduke Tzaka."
-English,"scene_cp32_q4_s20,3242",detail,Monika,"But I assure you his life is not in danger. We are the Crew of Enforcers, and you have our word on that."
-English,"scene_cp32_q4_s20,3242",detail,Eugen,Looks like you're gonna start some more of these negotiations with us...
-English,"scene_cp32_q4_s20,3242",detail,Monika,Absolutely! You won't hand over the Black Knight. And we can't allow the Erste Empire to kill her.
-English,"scene_cp32_q4_s20,3242",detail,Monika,Let me be absolutely clear—we are going to take the Black Knight alive. And she will face justice.
-English,"scene_cp32_q4_s20,3242",detail,Black Knight,"Pfft. Just as bullheaded as ever, I see."
-English,"scene_cp32_q4_s20,3242",detail,Black Knight,"[플레이어], these two are our greatest obstacle yet."
-English,"scene_cp32_q4_s20,3242",detail,Lyria,"Let's go, [플레이어]. We have to keep going. We have to keep going for Orchis!"
-English,"scene_cp32_q4_s30,3243",synopsis,,"The crew has set a course for Mephorash, leaving Tzaka the Great back on Amalthea Island. Lecia and Monika have some questions for the archduke."
-English,"scene_cp32_q4_s30,3243",detail,,"Having defeated Lecia and Monika, the crew boards the Grandcypher."
-English,"scene_cp32_q4_s30,3243",detail,,"They chart a course for the ancient city of Mephorash, where Orchis is waiting."
-English,"scene_cp32_q4_s30,3243",detail,Tzaka the Great,"You know, you both could've gone a bit easier on an old man."
-English,"scene_cp32_q4_s30,3243",detail,Monika,"I wouldn't do you such a dishonor, Archduke. And besides, you weren't so far from beating me."
-English,"scene_cp32_q4_s30,3243",detail,Tzaka the Great,"Hah. Anyway, what happened to Io's crew?"
-English,"scene_cp32_q4_s30,3243",detail,Lecia,"After they defeated Monika and I, they just flew away."
-English,"scene_cp32_q4_s30,3243",detail,Tzaka the Great,"Hahaha! Well, they certainly are a pleasant bunch!"
-English,"scene_cp32_q4_s30,3243",detail,Lecia,I didn't find anything pleasant about them!
-English,"scene_cp32_q4_s30,3243",detail,Lecia,Sigh. Monika was the only one that could put up a fight. Maybe I'm not cut out for this.
-English,"scene_cp32_q4_s30,3243",detail,Monika,"Hey now, if you get knocked off the horse, you have to get back on, right?"
-English,"scene_cp32_q4_s30,3243",detail,Lecia,Grumble...
-English,"scene_cp32_q4_s30,3243",detail,Monika,"So, Archduke Tzaka. The Black Knight and that crew might have gotten away, but we still have some questions for you."
-English,"scene_cp32_q4_s30,3243",detail,Tzaka the Great,"If it's something I can answer, I'll be happy to oblige."
-English,"scene_cp32_q4_s30,3243",detail,Monika,"I need you to tell me, what is the truth surrounding the Black Knight?"
-English,"scene_cp32_q4_s30,3243",detail,,The crew has once again sought out a new island as part of their ongoing journey.
-English,"scene_cp32_q4_s30,3243",detail,,"As they continue soaring through the skies, the truth begins to reveal itself little by little."
+Japanese,scene_cp32_q1_s10、3211,synopsis,,オルキスを救出すべく、アマルティア島からの脱出をはかる[플레이어]一行。グランサイファーまであと一歩という所で、秩序の騎空団のリーシャが戦いを挑んで来るのであった。,오르키스를 구출할 수 있도록、 아마르티아섬으로부터의 탈출을 도모하는 [플레이어] 일행.그랜사이퍼까지 한 걸음만 더 남으면 질서의 기공단의 리샤가 싸움을 걸어오는 것이었다.
+Japanese,scene_cp32_q1_s10、3211,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>オルキスを助け出すため、</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>からの脱出を試みる。</span>,<span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>오르키스를 구하기 위해、</span><br><span class='scene-font-place'>아마르티아 섬</span><span class='scene-font-katari'>탈출을 시도하다。</span>
+Japanese,scene_cp32_q1_s10、3211,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>停泊してあるグランサイファーへと、</span><br><span class='scene-font-katari'>順調に近づいていたが……</span>,<span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>정박해있는 그랜사이퍼로、</span><br><span class='scene-font-katari'>순조롭게 다가오고 있었는데……</span>
+Japanese,scene_cp32_q1_s10、3211,detail,リーシャ,ここまでです。<br>警告します。<br>大人しく、このまま引き返しなさい。,여기까지입니다.<br>경고하겠습니다.<br>얌전히、 이대로 되돌아가세요.
+Japanese,scene_cp32_q1_s10、3211,detail,흑기사,貴様か……<br>あのチビはどうした?,네 놈인가……<br>그 꼬마는 왜?
+Japanese,scene_cp32_q1_s10、3211,detail,リーシャ,それを答える必要はありません。,그걸 대답할 필요는 없어요.
+Japanese,scene_cp32_q1_s10、3211,detail,흑기사,我々を確実に止めるため、<br>二手に分かれて張っていたのか……<br>賢明な判断だな。,우리를 확실히 멈추게 하기 위해 <br> 두 패로 나뉘어 있었던건가……<br> 현명한 판단이야.
+Japanese,scene_cp32_q1_s10、3211,detail,リーシャ,だから!<br>モニカさんについては、<br>貴方達に何も言うつもりは……,그러니까!<br>모니카씨에 대해서는、<br>당신들에게 아무말도 할 생각은……
+Japanese,scene_cp32_q1_s10、3211,detail,흑기사,しかし、片方がこれでは、<br>二手に分かれた意味がないな……,그러나、 한쪽이 이래서는、<br>두개로 나누어진 의미가 없네……
+Japanese,scene_cp32_q1_s10、3211,detail,흑기사,貴様が少々の仲間を連れたところで、<br>私を止めることなど到底出来ないぞ?,네가 잠깐 동료를 데리고 간다고 해서、 <br> 나를 막을 수는 도저히 없는데?
+Japanese,scene_cp32_q1_s10、3211,detail,リーシャ,このっ……!,이놈....!
+Japanese,scene_cp32_q1_s10、3211,detail,비,おいこら!<br>挑発してどうすんだよ!?,야 임마!<br>도발하면 어떡해!?
+Japanese,scene_cp32_q1_s10、3211,detail,흑기사,案ずるな……<br>あの手の小娘は、<br>逆上したほうが隙が生まれる。,걱정하지마……<br> 그런 종류의 계집애는、<br> 흥분하는 편이 틈이 생겨.
+Japanese,scene_cp32_q1_s10、3211,detail,흑기사,無論……<br>あの小娘に私を止められないというのは、<br>紛れもない事実だがな。,물론……<br>그 계집애가 나를 말릴 수 없다는 것은、<br>틀림없는 사실이지만.
+Japanese,scene_cp32_q1_s10、3211,detail,リーシャ,くっ……!<br>その言葉、撤回させてあげるんだから!,큭...!<br> 그 말 철회시켜주는거야!
+Japanese,scene_cp32_q1_s10、3211,detail,リーシャ,秩序の騎空士達よ! 私に続け!<br>碧の騎士の名において、<br>奴らを捕縛せよ!,질서의 기공사들이여! 나에게 따르라! <br> 벽의 기사 이름으로 <br> 놈들을 포박하라!
+Japanese,scene_cp32_q1_s20、3212,synopsis,,秩序の騎空団の名にかけて[플레이어]らを逃がすわけにはいかないと言うリーシャ。自らが秩序を乱す存在になってしまった事実を突き付けられ、うろたえる一行だったが、秩序の中で救えるのは秩序に沿った者だけだと、黒騎士は秩序の騎空団に弓引く覚悟を語った。,질서의 기공단의 이름으로 그들을 놓칠 수 없다는 리샤. 스스로가 질서를 어지럽히는 존재가 되어버린 사실을 들춰내 당황하는 일행이었지만 질서 속에서 구할 수 있는 것은 질서에 입각한 자뿐이라고 흑기사는 질서의 기공단에 활을 쏘겠다는 각오를 밝혔다.
+Japanese,scene_cp32_q1_s20、3212,detail,リーシャ,くっ……逃がすわけには……<br>父の名に娘の私が<br>泥を塗るわけにはいかない……!,쳇……놓칠수는……<br>아버지의 이름에 딸인 내가<br>흙을 칠할수는 없어……!
+Japanese,scene_cp32_q1_s20、3212,detail,카타리나,リーシャ殿……<br>私達は<br>争いを望んでいるわけじゃないんだ。,리샤전…….<br>우리는<br>싸움을 원하는 게 아니야.
+Japanese,scene_cp32_q1_s20、3212,detail,카타리나,だからここは目をつぶって<br>私達を通してくれないか?,그러니까 여긴 눈 감고<br>우리를 지나가게 해주지 않을래?
+Japanese,scene_cp32_q1_s20、3212,detail,카타리나,どうやら黒騎士の罪状にも、<br>色々と誤解や陰謀があるようだし……,아무래도 흑기사의 죄상에도、<br>여러가지 오해와 음모가 있는것 같고……
+Japanese,scene_cp32_q1_s20、3212,detail,リーシャ,それを決めるのは貴方達ではない!<br>私が……私達が秩序の騎空団なんだ!,그걸 결정하는 건 너희가 아니야! <br> 내가…… 우리가 질서의 기공단이야!
+Japanese,scene_cp32_q1_s20、3212,detail,リーシャ,秩序を司る者として……<br>私は絶対に<br>屈するわけにはいかないの!,질서를 관장하는 사람으로서....<br>나는 절대로<br>굴할 수 없어!
+Japanese,scene_cp32_q1_s20、3212,detail,秩序の騎空団員１,そ、そうだ……<br>リーシャ船長の言う通りだ!<br>俺達は負けるわけにはいかない!,그래그래…<br>리샤 선장의 말대로다!우린 질 수 없어!
+Japanese,scene_cp32_q1_s20、3212,detail,秩序の騎空団員２,ここは通さんぞ……絶対にだ!,여기는 지나간다……꼭이다!
+Japanese,scene_cp32_q1_s20、3212,detail,이오,ちょ、ちょっと!<br>これじゃまるで、<br>あたし達が悪者みたいじゃない!,자、 잠깐!<br>이러면 꼭、<br>우리가 나쁜 놈같잖아!
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,自覚がなかったのか?<br>私の手を取った時点で、<br>貴様らは立派な悪の一味だ。,자각이 없었나?<br>내 손을 잡은 시점에서 <br> 네놈들은 훌륭한 악의 일당이다.
+Japanese,scene_cp32_q1_s20、3212,detail,이오,ちょっ……!<br>そ、そうかもしれないけど……!,잠깐....!<br>그、그、그、그럴지도 모르지만....!
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,助けたいのだろう? あの人形を。<br>世界の秩序に従っていて、<br>思いのままに何かを救えると思うな。,도와주고 싶은거지? 저 인형을 <br> 세계의 질서에 따라가고 <br> 마음대로 무언가를 구할 수 있다고 생각하지 마라.
+Japanese,scene_cp32_q1_s20、3212,detail,루리아,っ……!,헉...!
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,秩序の中にあって救えるのは、<br>秩序に沿った者だけだ。,질서 안에서 구할 수 있는 사람은 <br> 질서에 따르는 자뿐이다.
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,秩序の外に目を向けるのなら……<br>手を差し伸べるのなら……<br>その時点で、秩序は我々の敵だ。,질서 밖으로 눈을 돌린다면……<br>손을 뻗친다면……<br>그 시점에서 질서는 우리의 적이다.
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,よもや、<br>その程度の覚悟もなく、<br>私の誘いに乗ったのではあるまいな?,설마<br>그정도의 각오도 없이<br>내 꼬임에 넘어간건 아니겠지?
+Japanese,scene_cp32_q1_s20、3212,sel1_txt,,<span class='scene-font-katari'>覚悟はある</span>,<span class='scene-font-katari'>각오는 있다</span>
+Japanese,scene_cp32_q1_s20、3212,sel2_txt,,<span class='scene-font-katari'>それでも助けたい</span>,<span class='scene-font-katari'>그래도 돕고 싶다</span>
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,ふ……<br>やはり私の目に、<br>狂いはなかったようだな。,후…<br>역시 내 눈에、<br>틀림은 없었던것 같군.
+Japanese,scene_cp32_q1_s20、3212,detail,루리아,う、うん……!<br>私もオルキスちゃんを助けたい……<br>そのためなら……!,으、응……!<br>나도 오르키스를 돕고 싶어……<br>그러기 위해서라면……!
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,そういうわけだ……<br>悪いな、小娘、我々は止まらないぞ。,그런거야……<br>나쁘네、 계집애、 우리는 멈추지 않아.
+Japanese,scene_cp32_q1_s20、3212,detail,リーシャ,くっ……黒騎士……!<br>よくも[플레이어]達まで<br>誑かして……!!,큭...흑기사...!<br> 용케도 [플레이어]달까지<br> 달래고....!!
+Japanese,scene_cp32_q1_s20、3212,detail,흑기사,ふん……何とでも言え。<br>しかし、我々は強いぞ。<br>貴様らに我々が止められるか……!!,흠.... 뭐라고 말하라.<br>그러나 우리는 강하다.<br>너희들이 우리를 말릴수 있을까....!!
+Japanese,scene_cp32_q2_s10、3221,synopsis,,リーシャ率いる秩序の騎空団を撃退し、その場を去ろうとした一行。しかし、今度はそこへ帝国軍が立ちはだかる。駆けつけたザカ大公とともに、帝国兵達と戦いを繰り広げるのであった。,리샤가 이끄는 질서의 기공단을 물리치고 그 자리를 떠나려던 일행.그러나 이번에는 그곳을 제국군이 가로막는다.달려온 자카 대공과 함께 제국병들과 전투를 벌이는 것이었다.
+Japanese,scene_cp32_q2_s10、3221,detail,リーシャ,はぁ……はぁ……<br>ま、負けるわけには……,하아……하아……<br>마、 질 수는……
+Japanese,scene_cp32_q2_s10、3221,detail,루리아,リーシャさん……,리샤씨……
+Japanese,scene_cp32_q2_s10、3221,detail,로제타,ルリアちゃん、<br>いまアタシ達から、<br>彼女にかけられる言葉はないわ。,루리아、<br>지금 내가 너한테서<br>그녀에게 걸어줄말은 없어
+Japanese,scene_cp32_q2_s10、3221,detail,로제타,少しでも彼女を思うのなら、<br>先に進むしかないの。<br>早くこの島を出るのよ。,조금이라도 그녀를 생각한다면 <br> 앞으로 나아갈 수 밖에 없어 <br> 빨리 이 섬을 떠나라.
+Japanese,scene_cp32_q2_s10、3221,detail,흑기사,ロゼッタの言う通りだな。<br>邪魔者はあらかた片付いたようだし、<br>少しでも情けをかけるなら……,로제타 말이 맞네<br>방해자는 거의 정리가 된것 같고、<br>조금이라도 자비를 베풀자면……
+Japanese,scene_cp32_q2_s10、3221,detail,제국병,お前を狙っているのが、<br>秩序の騎空団だけだと思うなよ!,너를 노리고 있는게 <br> 질서의 기공단뿐이라고 생각하지마!
+Japanese,scene_cp32_q2_s10、3221,detail,흑기사,なっ……!?,나랏...!?
+Japanese,scene_cp32_q2_s10、3221,detail,자카 대공,はああぁぁッ!!,하아아아악!!
+Japanese,scene_cp32_q2_s10、3221,detail,제국병,くっ……!,큭...!
+Japanese,scene_cp32_q2_s10、3221,detail,자카 대공,やれやれ……<br>お主ともあろう者が、<br>こうも簡単に隙を突かれるとはのう。,맙소사…<br>주인이라는 자가 <br>이렇게도 간단하게 허점을 찔릴 줄이야.
+Japanese,scene_cp32_q2_s10、3221,detail,이오,師匠!?,스승님!?
+Japanese,scene_cp32_q2_s10、3221,detail,자카 대공,おお、イオ……<br>心配になって<br>様子を見に来たのじゃが……,오、 이오……<br>걱정이 되서<br>상태를 보러 온 거지만……
+Japanese,scene_cp32_q2_s10、3221,detail,자카 대공,さぁ、構えよ、[플레이어]<br>今度は帝国兵じゃ……<br>休んでいる暇などないぞ!,자、 자세를 취해라. [플레이어]<br>이번엔 제국병이라……<br>쉴 틈이 없어!
+Japanese,scene_cp32_q2_s20、3222,synopsis,,[플레이어]らをかばうザカ大公に、リーシャが憎悪の視線を向ける。バルツ公国も無事では済まないという言葉を一笑に伏し、[플레이어]達に先を急がせた。その身を案ずるイオへ、ザカ大公は不敵な笑みを向け、またもその身を囮として残すのであった。,[플레이어] 일들을 두둔하는 자카 대공에게、 리샤가 증오의 시선을 돌린다.발츠 공국도 무사할 수 없다는 말에 웃음을 머금고、 [플레이어]들에게 길을 재촉했다.그 몸을 걱정하는 이오에게、 자카 대공은 겁없는 미소를 지으며、 또 그 몸을 미끼로 남기는 것이었다.
+Japanese,scene_cp32_q2_s20、3222,detail,リーシャ,大公閣下!<br>どうして貴方まで、<br>逃亡者に手を貸すのですか!?,대공각하!<br>왜 당신까지<br>도망자에게 도움을 주나요!?
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,何のことじゃ?,무슨 일이야?
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,わしはアマルティア島を襲った<br>悪しき帝国兵の<br>相手をしているだけじゃよ。,난 아마르티아 섬을 습격한 <br>나쁜 제국병의 <br>상대를 하고 있을 뿐이야.
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,しかしまぁ……<br>見ての通り混戦しているからのう……,그러나 뭐...<br>보다시피 혼전하고 있으니까 말이야...
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,意図せず、<br>秩序の騎空団の者を<br>巻き込んでしまったかもしれんが……,의도하지 않게、<br>질서의 기공단의 사람을<br>말아 버렸을지도 모르지만……
+Japanese,scene_cp32_q2_s20、3222,detail,リーシャ,大公閣下……<br>バルツ公国も<br>ただでは済まないかもしれませんよ……,대공각하.....<br>발츠공국도<br>그냥은 넘어가지 않을지도 몰라요.....
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,はっ! 言うてくれる!<br>しかし、ドラフの民を侮るでないぞ!,헉! 말해줄래?<br>그러나 드라프의 백성을 얕잡아보지 말라구!
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,[플레이어]……<br>ここはわしに任せて、<br>先に行くのじゃ……,[플레이어]……<br>여기는 나에게 맡기고 <br>먼저 가는거다……
+Japanese,scene_cp32_q2_s20、3222,detail,이오,師匠! でも……!,스승님! 그렇지만……!
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,あの者の意志は強い……<br>そうそう諦めてはくれぬぞ?<br>だから、ここはわしに任せるのじゃ。,그 자의 의지는 강하다……<br> 그렇게 포기하지는 않겠지?<br>그러니까、 여기는 나에게 맡기는 거야.
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,安心せい。<br>わしとて、ただの老いぼれではない。<br>お主らが行くまでの時間くらいは稼ごう。,안심입니다. <br> 나도、 그냥 늙어빠진것이 아니다.<br>너희들이 갈때까지 시간정도는 벌자.
+Japanese,scene_cp32_q2_s20、3222,detail,이오,師匠……,스승……
+Japanese,scene_cp32_q2_s20、3222,detail,흑기사,大公閣下……<br>お言葉に甘えさせてもらうぞ。,대공각하……<br>말씀에 응석부리겠다.
+Japanese,scene_cp32_q2_s20、3222,detail,라캄,ああ……<br>イオ、いまはそうするしかねぇ……,아아……<br>이오、 지금은 그렇게 할 수 밖에 없어……
+Japanese,scene_cp32_q2_s20、3222,detail,이오,っ……うんっ! わかってる!<br>師匠! 絶対無理しちゃダメだからね!,헉...흠! 알아!<br>스승님! 절대 무리하면 안되니까!
+Japanese,scene_cp32_q2_s20、3222,detail,자카 대공,ふふふ……<br>弟子が師匠に言う言葉か、それが。,후후……<br>제자가 스승에게 하는 말인가、 그게.
+Japanese,scene_cp32_q2_s20、3222,detail,비,よしっ……!<br>行こうぜ!<br>残りは帝国兵だけだ!,좋아……!<br>가자!<br>남은 사람은 제국병뿐이다!
+Japanese,scene_cp32_q3_s10、3231,synopsis,,追手を振り切り、グランサイファーも間近に迫った時、ポンメルン率いる帝国軍が現れ、立ちふさがるのであった。,추격자를 뿌리치고 그랜사이퍼도 임박한 때에 폰메른이 이끄는 제국군이 나타나 가로막는 것이었다.
+Japanese,scene_cp32_q3_s10、3231,detail,오이겐,ふぅ……<br>帝国の連中も、<br>だいぶ振り切ったか……?,후……<br>제국 무리들도、<br>많이 끊었나……?
+Japanese,scene_cp32_q3_s10、3231,detail,폼메른,待つんですネェェェッ!!<br>私がいることを、<br>忘れてもらっては困りますよォォォッ!,기다릴께요~~~~~<br>제가 있는것을<br>잊어주시면 곤란해요~~~
+Japanese,scene_cp32_q3_s10、3231,detail,카타리나,くっ……<br>ポンメルン……!,큭……<br>퐁메룬……!
+Japanese,scene_cp32_q3_s10、3231,detail,폼메른,ずいぶん好き勝手に<br>やってくれてるようですネェ……,꽤 자기 좋을대로<br>해 주고 있는 것 같습니다 넵......
+Japanese,scene_cp32_q3_s10、3231,detail,폼메른,秩序の騎空団では<br>止められなかったようですが……,질서의 기공단에서는<br>못말린것 같은데……
+Japanese,scene_cp32_q3_s10、3231,detail,폼메른,ここで我々が<br>貴様らの旅を終わらせてあげますネェェ!,여기서 우리가<br>님들의 여행을 끝내줄게요!
+Japanese,scene_cp32_q3_s10、3231,detail,라캄,ったく……<br>厄介な奴が残ってやがったぜ!,정말이지……<br>귀찮은 녀석이 남아서 그랬어!
+Japanese,scene_cp32_q3_s10、3231,detail,라캄,なんであれ、<br>グランサイファーはもう目の前だ!<br>ここで負けるわけにはいかねぇぞ!,어찌됐건 <br> 그랜사이퍼는 이제 코앞이다!여기서 질 순 없어!
+Japanese,scene_cp32_q3_s20、3232,synopsis,,魔晶の力によって変化したポンメルン相手に、単身戦いを挑む黒騎士。[플레이어]らは、周囲の帝国兵を倒すべく剣を振るうのであった。,마정의 힘에 의해 변화한 폼메른 상대에게 단신 싸움을 거는 흑기사. [플레이어]들은 주위의 제국병을 쓰러뜨릴 수 있도록 검을 휘두르는 것이었다.
+Japanese,scene_cp32_q3_s20、3232,detail,폼메른,クックック……<br>そろそろ真打登場、<br>といったところですかネェ……,쿡크....<br>슬슬 인기척 등장、<br>이라고나 할까요????
+Japanese,scene_cp32_q3_s20、3232,detail,폼메른,魔晶の力は不滅なんですよォォォッ!<br>今度こそ、<br>覚悟してもらいますネェェェッ!!,마정의 힘은 불멸인거에요오오오오오오오오오오오오오오오오!! 이번에야말로 각오하게 될꺼야오~~
+Japanese,scene_cp32_q3_s20、3232,detail,비,くっそぉー!<br>あと少しだってのに!,큭큭-!<br>조금 남았는데!
+Japanese,scene_cp32_q3_s20、3232,detail,루리아,頑張りましょう! [플레이어]!<br>なんとかここを切り抜けて……,파이팅 합시다! [플레이어]!<br>어떻게든 여기를 뚫고 나가……
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,いい……貴様らは下がっていろ。,좋아……네놈들은 물러서 있어라.
+Japanese,scene_cp32_q3_s20、3232,detail,루리아,へ……?,어……?
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,久しいな、ポンメルン……,오래됐군、 폼메룬……
+Japanese,scene_cp32_q3_s20、3232,detail,폼메른,く、黒騎士……閣下。,흑기사……각하.
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,もはや私は追放された身だ。<br>閣下だなどと呼ぶ必要はない。,나는 이미 추방당한 몸이다.<br> 각하라고 부를 필요는 없다.
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,それに貴様は<br>私の抹殺を命令されて来たんだろう?<br>畏まってどうする?,게다가 너는<br>나의 말살을 명령받고 왔지?<br>외면 어떻게 하지?
+Japanese,scene_cp32_q3_s20、3232,detail,폼메른,ぐっ……<br>そ、その通りですネェ!<br>この場で全員まとめて……,끄응……<br>그、 맞습니다네!<br>이 자리에서 전원 정리해……
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,それで貴様……<br>魔晶があれば、容易く私を<br>抹殺出来るなどとほざいたそうだが……,그래서 네 놈……<br>마정이 있으면 쉽게 나를<br>말살시킬 수 있다고 비웃었다고 하는데……
+Japanese,scene_cp32_q3_s20、3232,detail,폼메른,うぐっ……,으윽……
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,試してみるか……?,시험해볼까……?
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,この私の剣で、<br>憐れに叩き潰される覚悟は<br>出来ているんだろうなぁ!!,이 나의 검으로 <br> 측은함에 때려부술 각오는<br> 되어있겠지!!
+Japanese,scene_cp32_q3_s20、3232,detail,폼메른,くっ……!<br>う、受けて立ちますよォォォッ!!,헉...!<br>우、 받고 일어나요오오오오오오!!
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,ふん……決まりだな。<br>こいつは私の獲物だ。,흠……. 결정됐군.<br>이놈은 내 사냥감이야.
+Japanese,scene_cp32_q3_s20、3232,detail,흑기사,貴様らは雑魚相手に油断しないよう<br>せいぜい気を付けることだ。,너희들은 송사리 상대에게 방심하지 않도록 <br> 기껏 조심해야 한다.
+Japanese,scene_cp32_q3_s20、3232,detail,비,あっ、おい!<br>何なんだあいつ……,앗、 어이!<br>뭐야 그녀석……
+Japanese,scene_cp32_q3_s20、3232,detail,로제타,ふふっ……頼もしい限りじゃない。<br>さぁ、アタシ達も<br>気を抜いてるわけにはいかないわよ!,후훗… 믿음직스럽기 그지없다.<br> 자、 우리들도<br> 긴장을 늦출 수는 없어!
+Japanese,scene_cp32_q4_s10、3241,synopsis,,[플레이어]らが帝国兵と戦っている間に、黒騎士はポンメルンを下していた。帝国軍を撃退した一行は、グランサイファーへと向かうのであった。,[플레이어] 등이 제국병과 싸우고 있는 동안、 흑기사는 폼메른을 내리고 있었다.제국군을 물리친 일행은 그랜사이퍼로 향하는 것이었다.
+Japanese,scene_cp32_q4_s10、3241,detail,제국병,くっ……!,큭...!
+Japanese,scene_cp32_q4_s10、3241,detail,카타리나,よし! こちらは片付いたぞ!<br>黒騎士は……,좋아! 이쪽은 정리되었다!<br>흑기사는...
+Japanese,scene_cp32_q4_s10、3241,detail,흑기사,ふん……遅すぎる。<br>ずいぶん待たされたぞ。,흠…너무 늦었어.<br> 꽤 많이 기다렸어.
+Japanese,scene_cp32_q4_s10、3241,detail,라캄,なっ……お前、<br>あの魔晶を使ったポンメルンを……,나.... 너、 <br> 저 마정을 사용한 퐁메룬을....
+Japanese,scene_cp32_q4_s10、3241,detail,흑기사,あんなもの私の敵ではない。<br>２、３斬りつけたら、<br>尻尾を巻いて逃げて行ったわ。,저런 건 내 적이 아니야.<br>2、3참을 베자、<br>꼬리를 감고 도망갔어.
+Japanese,scene_cp32_q4_s10、3241,detail,이오,く、黒騎士って……<br>偉そうにしてるだけじゃなくて、<br>すっごく強かったのね……,흑기사라니....<br>잘난척하는것 뿐만이 아니라、<br>굉장히 강했구나....
+Japanese,scene_cp32_q4_s10、3241,detail,흑기사,奴が弱すぎただけだ。<br>この島で最も恐るべきは、<br>あんな魔晶に頼った連中ではない。,녀석이 너무 약했을 뿐이야.<br> 이 섬에서 가장 무서운 것은 <br> 저런 마정에 의지한 무리가 아니다.
+Japanese,scene_cp32_q4_s10、3241,detail,흑기사,行くぞ。<br>この島の本当の真打が登場する前に、<br>とっとと騎空艇に乗り込むんだ。,가자.<br>이 섬의 진짜 진타가 등장하기 전에、<br>얼른 기공정에 올라탈거야.
+Japanese,scene_cp32_q4_s20、3242,synopsis,,グランサイファーに乗り込もうとした一行だったが、そこへモニカとリーシャの率いる秩序の騎空団が現れた。何が何でも黒騎士を逃がすわけにはいかないという秩序の騎空団との、最後の戦いが始まる。,그랜사이퍼에 올라타려던 일행이었는데 그때 모니카와 리샤가 이끄는 질서의 기공단이 나타났다.무조건 흑기사를 놓칠 수는 없다는 질서의 기공단과의 마지막 싸움이 시작된다.
+Japanese,scene_cp32_q4_s20、3242,detail,라캄,よし! 見えたぜ!<br>すぐに離陸の準備をするから、<br>お前らは中に……,좋아! 보였다구!<br>곧 이륙준비를 할테니까<br>너희들은 안에......
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,残念だがそこまでだ。<br>全員動くな。,아쉽지만 거기까지다.<br>모두 움직이지마.
+Japanese,scene_cp32_q4_s20、3242,detail,リーシャ,…………,…………
+Japanese,scene_cp32_q4_s20、3242,detail,흑기사,ついにお出ましか……<br>秩序の騎空団のエースが……!,드디어 행차하셨습니까?……<br>질서의 기공단의 에이스가……!
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,まずはここまでたどり着いた<br>貴公らの実力と幸運を褒めよう。,먼저 이곳에 도착한 <br>귀공들의 실력과 행운을 칭찬한다.
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,いかに特殊な状況だったとはいえ、<br>ここまで逃げおおせたのは<br>黒騎士……お前が初めてだ。,아무리 특수한 상황이었다고는 해도、<br>여기까지 도망칠 수 있었던 것은<br>흑기사……네가 처음이다.
+Japanese,scene_cp32_q4_s20、3242,detail,흑기사,ふん……<br>お褒めに預かり光栄だな。,흠…<br>칭찬을 받아 영광이네.
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,しかし、<br>私が来た以上、ここで終わりだ。<br>貴公らにこの先は無い。,하지만<br>내가 온 이상 여기서 끝이다.<br>귀공들에게 앞은 없다.
+Japanese,scene_cp32_q4_s20、3242,detail,リーシャ,これが最後の警告です。<br>このまま踵を返して、<br>建物の中に戻りなさい。,이제 마지막 경고입니다. <br> 이대로 돌아서 <br> 건물 안으로 들어가세요.
+Japanese,scene_cp32_q4_s20、3242,detail,흑기사,ふん……,흠……
+Japanese,scene_cp32_q4_s20、3242,detail,이오,ちょ、ちょっと!<br>あんたは師匠が足止めしてるはずで……<br>まさか師匠を……!?,자、 잠깐!<br>너는 스승님이 발이 묶여 있을 테고……<br>설마 스승을……!?
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,ザカ大公には、<br>少々大人しくなってもらった。,자카 대공에게는、<br>조금 얌전해졌다.
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,無論、我々は秩序の騎空団だからな。<br>大公の命に別状はない。<br>その点は安心するといい。,물론 우리는 질서의 기공단이니까.<br> 대공의 생명에는 지장이 없다.<br>그 점은 안심해도 좋다.
+Japanese,scene_cp32_q4_s20、3242,detail,오이겐,しかし……<br>この場を譲ってくれるつもりは<br>全くねぇみてぇだなぁ……,하지만……<br>이 자리를 양보해 줄 생각은<br>전혀 없는 것 같아.그렇구나……
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,当然だ!<br>黒騎士は渡さない……<br>エルステ帝国にも殺させない……,당연하지!<br>흑기사는 넘기지 않아……<br>에르스테 제국도 죽이지 않아……
+Japanese,scene_cp32_q4_s20、3242,detail,モニカ,全てを有耶無耶になどさせない……!<br>黒騎士には、<br>生きて裁きを受けてもらう!,모든것을 흐지부지 시키지 않는다……!<br>흑기사에게는、<br>살아서 재판을 받게한다!
+Japanese,scene_cp32_q4_s20、3242,detail,흑기사,ふん……<br>相変わらず頭の固い連中だな。,흠…<br>여전히 머리가 딱딱한 친구들이군.
+Japanese,scene_cp32_q4_s20、3242,detail,흑기사,[플레이어]……<br>こいつらが、最後にして最大の関門だ。,[플레이어]……<br>이놈들이 마지막 최대의 관문이다.
+Japanese,scene_cp32_q4_s20、3242,detail,루리아,行きましょう、[플레이어]……<br>オルキスちゃんを助けるために、<br>私達は進まなくちゃいけないんです!!,갑시다. [플레이어]……<br>얼키스짱을 돕기 위해서、<br>우리는 전진하지 않으면 안됩니다!!
+Japanese,scene_cp32_q4_s30、3243,synopsis,,モニカとリーシャを退け、[플레이어]達はアマルティア島から飛び立った。[플레이어]達が島から離れた後、モニカとリーシャは、ただひとり残ったザカ大公へ、黒騎士の抱える真実について問うのであった。,모니카와 리샤를 물리치고 [플레이어]들은 아마르티아 섬에서 날아올랐다.[플레이어]들이 섬을 떠난 후、 모니카와 리샤는 홀로 남은 자카 대공에게 흑기사가 안고 있는 진실에 대해 묻는 것이었다.
+Japanese,scene_cp32_q4_s30、3243,detail,,<span class='scene-font-katari'>リーシャ、モニカを退けた</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>無事グランサイファーへと乗り込む。</span>,<span class='scene-font-katari'>리샤、 모니카를 물리쳤다</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>무사히 그랜사이퍼에 올라타다。</span>
+Japanese,scene_cp32_q4_s30、3243,detail,,<span class='scene-font-katari'>そして、オルキスが待つという、</span><br><span class='scene-font-katari'>古き街<span class='scene-font-place'>メフォラシュ</span>へと</span><br><span class='scene-font-katari'>飛び立って行った。</span>,<span class='scene-font-katari'>그리고 오르키스가 기다린다는う、</span><br><span class='scene-font-katari'>옛 거리<span class='scene-font-place'>메호라슈</span>로</span><br><span class='scene-font-katari'>날아올라갔다。</span>
+Japanese,scene_cp32_q4_s30、3243,detail,자카 대공,あいたた……あ奴らめ……<br>老いぼれと相対しているというのに、<br>手加減というものをせんからに……,아야타……저놈들……<br>늙은이들과 상대하고 있다고 하는데、<br>손대중이라는 것을 하기 때문에……
+Japanese,scene_cp32_q4_s30、3243,detail,モニカ,大公閣下が相手では、<br>いかに私と言えど、<br>手加減をしている余裕などなくてな。,대공각하가 상대라면 <br> 아무리 나라고 해도 <br> 조절할 여유가 없어서 말이야.
+Japanese,scene_cp32_q4_s30、3243,detail,자카 대공,おお……<br>どうじゃ? 奴らはどうなった?,오오……<br>어떤가? 놈들은 어떻게 됐어?
+Japanese,scene_cp32_q4_s30、3243,detail,リーシャ,私とモニカさんを退けて、<br>飛び立って行きました……,나와 모니카씨를 물리치고、<br>날아갔읍니다......
+Japanese,scene_cp32_q4_s30、3243,detail,자카 대공,はっはっは! そうかそうか!<br>いやはや、なんとも愉快な連中じゃ!,헉헉! 그런가! <br> 아니、 정말 유쾌한 사람들이네!
+Japanese,scene_cp32_q4_s30、3243,detail,リーシャ,全然愉快じゃないですっ!,전혀 유쾌하지 않아요!
+Japanese,scene_cp32_q4_s30、3243,detail,リーシャ,はぁ……結局、戦闘はモニカさんに<br>頼ってばっかりだし……<br>私、向いてないのかなぁ……,하아... 결국、 전투는 모니카씨에게<br>의지하기만 하고...<br>나、 적성에 맞지 않는걸까....
+Japanese,scene_cp32_q4_s30、3243,detail,モニカ,こらこら、<br>一度や二度の失敗で投げ出そうとするな。,이 녀석들、 <br> 한두 번의 실패로 포기하려 들지 마라.
+Japanese,scene_cp32_q4_s30、3243,detail,リーシャ,ううぅー……,으윽……
+Japanese,scene_cp32_q4_s30、3243,detail,モニカ,さて、ザカ大公……<br>黒騎士と彼らは行ってしまったが……<br>貴公には、まだ聞くことがある。,그런데、 자카 대공……<br>흑기사와 그들은 가버렸지만……<br>귀공에게는、 아직 물어볼 것이 있다.
+Japanese,scene_cp32_q4_s30、3243,detail,자카 대공,ふむ……わしに答えられることなら、<br>喜んで答えよう。,흠…내게 대답할 수 있는 것이라면、<br>기꺼이 대답하자.
+Japanese,scene_cp32_q4_s30、3243,detail,モニカ,我々にも教えてほしい……<br>いったい黒騎士は、<br>どんな真実を抱えていたのだ?,우리에게도 가르쳐 주었으면 한다…<br>도대체 흑기사는 <br>어떤 진실을 안고 있었던 것일까?
+Japanese,scene_cp32_q4_s30、3243,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>冒険の舞台を新たな島へと移していく。</span>,<span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>모험의 무대를 새로운 섬으로 옮겨 간다。</span>
+Japanese,scene_cp32_q4_s30、3243,detail,,<span class='scene-font-katari'>その後ろには、少しずつだが、</span><br><span class='scene-font-katari'>真実に触れた勇気ある者達が</span><br><span class='scene-font-katari'>続いていくのだった。</span>,<span class='scene-font-katari'>그 뒤에는 조금씩이지만、</span><br><span class='scene-font-katari'>진실을 마주할 용기있는 자들이</span><br><span class='scene-font-katari'>이어지는 것이었다。</span>
+English,scene_cp32_q1_s10、3211,synopsis,,Just as the crew is about to reach the Grandcypher、 they are stopped by Lecia and her enforcers.
+English,scene_cp32_q1_s10、3211,detail,,The crew continue their escape from Amalthea Island to rescue Orchis.
+English,scene_cp32_q1_s10、3211,detail,,On the way to the Grandcypher they bump into a familiar face.
+English,scene_cp32_q1_s10、3211,detail,Lecia,I won't permit you to go any further. This is a warning—give her back now.
+English,scene_cp32_q1_s10、3211,detail,Black Knight,Just you? Where's your tiny friend?
+English,scene_cp32_q1_s10、3211,detail,Lecia,I do not have to answer that.
+English,scene_cp32_q1_s10、3211,detail,Black Knight,I see. You split into two groups so that you would be certain to stop us. A wise maneuver.
+English,scene_cp32_q1_s10、3211,detail,Lecia,I've told you already! I won't tell you anything about Monika or where she might be!
+English,scene_cp32_q1_s10、3211,detail,Black Knight,Be that as it may、 only you are here now. Splitting into two groups means nothing.
+English,scene_cp32_q1_s10、3211,detail,Black Knight,You cannot possibly stop me with so few backing you up.
+English,scene_cp32_q1_s10、3211,detail,Lecia,Why you...
+English,scene_cp32_q1_s10、3211,detail,Vyrn,Hey! Stop tryin' to just pick a fight!
+English,scene_cp32_q1_s10、3211,detail,Black Knight,Calm yourself. We'll create a break in their formation by confusing this woman.
+English,scene_cp32_q1_s10、3211,detail,Black Knight,But of course、 it's not as if she has the ability to stop me anyway.
+English,scene_cp32_q1_s10、3211,detail,Lecia,Tch! I'm going to make you eat those words!
+English,scene_cp32_q1_s10、3211,detail,Lecia,Crew of Enforcers! Follow me! In the name of the Blue Knight、 I will capture you!
+English,scene_cp32_q1_s20、3212,synopsis,,As the crew continues the confrontation with Lecia、 the Black Knight calls [플레이어]'s resolve into question.
+English,scene_cp32_q1_s20、3212,detail,Lecia,Tch... I won't let you escape. I won't bring shame to my father's name!
+English,scene_cp32_q1_s20、3212,detail,Katalina,Lecia、 we don't want to fight.
+English,scene_cp32_q1_s20、3212,detail,Katalina,So、 please. Just look the other way and let us through.
+English,scene_cp32_q1_s20、3212,detail,Katalina,Not to mention that there are many questions concerning the charges against the Black Knight.
+English,scene_cp32_q1_s20、3212,detail,Lecia,You are not the ones who decide that! That's us、 the Crew of Enforcers! That's our job!
+English,scene_cp32_q1_s20、3212,detail,Lecia,As skyfarers charged with maintaining order、 we won't yield to anyone!
+English,scene_cp32_q1_s20、3212,detail,Enforcer 1,That's right. It's just like Captain Lecia says! We won't be defeated!
+English,scene_cp32_q1_s20、3212,detail,Enforcer 2,You're not gettin' through! No way!
+English,scene_cp32_q1_s20、3212,detail,Io,W-wait a minute! Do they think we're the bad guys!
+English,scene_cp32_q1_s20、3212,detail,Black Knight,Are you that dense? As soon as you became my ally、 you became enemies of their crew.
+English,scene_cp32_q1_s20、3212,detail,Io,But—grr. I guess you have a point.
+English,scene_cp32_q1_s20、3212,detail,Black Knight,You still want to rescue that doll、 don't you? Don't think for a second that you can abide by this world's order and save anything.
+English,scene_cp32_q1_s20、3212,detail,Lyria,...!
+English,scene_cp32_q1_s20、3212,detail,Black Knight,The only ones that are saved by order are those that are controlled by order.
+English,scene_cp32_q1_s20、3212,detail,Black Knight,The moment you abandon order—or even dip a toe outside of that order—then order has abandoned you.
+English,scene_cp32_q1_s20、3212,detail,Black Knight,If you are not truly prepared then do not come with me.
+English,scene_cp32_q1_s20、3212,sel1_txt,,I am ready.
+English,scene_cp32_q1_s20、3212,sel2_txt,,I want to rescue Orchis.
+English,scene_cp32_q1_s20、3212,detail,Black Knight,So I don't seem crazy to you after all.
+English,scene_cp32_q1_s20、3212,detail,Lyria,Yes、 I want to rescue Orchis too! I'll do anything!
+English,scene_cp32_q1_s20、3212,detail,Black Knight,Then it's settled. Sorry、 Little Miss Enforcer. You won't be stopping us today.
+English,scene_cp32_q1_s20、3212,detail,Lecia,Black Knight! How dare you trick this crew!
+English,scene_cp32_q1_s20、3212,detail,Black Knight,Humph. Say whatever you'd like. But talk is cheap—if you think you can stop us then show me!
+English,scene_cp32_q2_s10、3221,synopsis,,After the crew beats back Lecia and her enforcers、 imperials soldiers appear to try to prevent the crew from leaving. Tzaka the Great shows up to assist them.
+English,scene_cp32_q2_s10、3221,detail,Lecia,Huff... huff...<br>We... can't lose...
+English,scene_cp32_q2_s10、3221,detail,Lyria,Lecia...
+English,scene_cp32_q2_s10、3221,detail,Rosetta,Lyria、 there's nothing else we can say to her.
+English,scene_cp32_q2_s10、3221,detail,Rosetta,The best thing we can do for her is to hurry and leave this island.
+English,scene_cp32_q2_s10、3221,detail,Black Knight,Rosetta is correct. We've beat these pests、 so if you extend even a little empathy—
+English,scene_cp32_q2_s10、3221,detail,Imperial Soldier,The Crew of Enforcers isn't the only force hunting you!
+English,scene_cp32_q2_s10、3221,detail,Black Knight,...!
+English,scene_cp32_q2_s10、3221,detail,Tzaka the Great,Haaah!
+English,scene_cp32_q2_s10、3221,detail,Imperial Soldier,Tch!
+English,scene_cp32_q2_s10、3221,detail,Tzaka the Great,Well、 well... I thought I taught you better than to leave yourself open.
+English,scene_cp32_q2_s10、3221,detail,Io,Master!
+English,scene_cp32_q2_s10、3221,detail,Tzaka the Great,Yes、 Io. I was worried about your escape、 so I came to see how things were proceeding.
+English,scene_cp32_q2_s10、3221,detail,Tzaka the Great,More imperials are coming、 [플레이어]. Get in position!
+English,scene_cp32_q2_s20、3222,synopsis,,Tzaka the Great distracts Lecia and the remaining enforcers long enough for the crew to make their escape.
+English,scene_cp32_q2_s20、3222,detail,Lecia,The archduke! Why is someone like you helping fugitives?
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,What do you mean?
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,I'm simply fighting these wicked imperial soldiers、 who have unjustly raided Amalthea Island.
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,But、 as you can see、 this battle is utter chaos.
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,So my fists might have inadvertently found an enforcer or two during the fight.
+English,scene_cp32_q2_s20、3222,detail,Lecia,Archduke、 your involvement may not bode well for the people of the Valtz Duchy...
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,Ah、 you don't say! Well I wouldn't underestimate the people of Valtz、 if I were you.
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,[플레이어]. Go ahead. I'll take care of things here.
+English,scene_cp32_q2_s20、3222,detail,Io,Master!
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,There's a strong will inside of this one、 so let somebody else with a hard head help you out.
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,Don't fret. My hair might have gone grey、 but I can buy you enough time to escape.
+English,scene_cp32_q2_s20、3222,detail,Io,Master...
+English,scene_cp32_q2_s20、3222,detail,Black Knight,Archduke... You do us a great honor.
+English,scene_cp32_q2_s20、3222,detail,Rackam,Aye、 Io. This is all we can manage for now.
+English,scene_cp32_q2_s20、3222,detail,Io,R-right! I know! Master、 don't do anything stupid、 okay!
+English,scene_cp32_q2_s20、3222,detail,Tzaka the Great,Haha. Is that something a pupil should say to her master?
+English,scene_cp32_q2_s20、3222,detail,Vyrn,All right! Let's get rid of these last imperial bad guys and get outta here!
+English,scene_cp32_q3_s10、3231,synopsis,,The crew is almost to the Grandcypher when Pommern blocks their path.
+English,scene_cp32_q3_s10、3231,detail,Eugen,Whew... Looks like we've finally shaken those imperials.
+English,scene_cp32_q3_s10、3231,detail,Pommern,Halt、 I do say! It seems you've forgotten about me!
+English,scene_cp32_q3_s10、3231,detail,Katalina,Urgh、 Pommern!
+English,scene_cp32_q3_s10、3231,detail,Pommern,You rabble just do whatever you please、 don't you?
+English,scene_cp32_q3_s10、3231,detail,Pommern,Not even the Crew of Enforcers were able to stop you.
+English,scene_cp32_q3_s10、3231,detail,Pommern,But this is where we stop your journey cold!
+English,scene_cp32_q3_s10、3231,detail,Rackam,Grr... How many times do we have to swat this bug?
+English,scene_cp32_q3_s10、3231,detail,Rackam,The Grandcypher is just ahead! We're not gonna lose here!
+English,scene_cp32_q3_s20、3232,synopsis,,Pommern uses the power of the dark essence to transform、 but the Black Knight chooses to face off against him by herself.
+English,scene_cp32_q3_s20、3232,detail,Pommern,Hahaha. I believe it's time for the main event.
+English,scene_cp32_q3_s20、3232,detail,Pommern,The power of the dark essence never wanes! This time I will take victory!
+English,scene_cp32_q3_s20、3232,detail,Vyrn,Grr! This jerk again! We're so close!
+English,scene_cp32_q3_s20、3232,detail,Lyria,[플레이어]、 do your best! I know we can get through this.
+English,scene_cp32_q3_s20、3232,detail,Black Knight,All of you、 back down.
+English,scene_cp32_q3_s20、3232,detail,Lyria,Huh?
+English,scene_cp32_q3_s20、3232,detail,Black Knight,It's been a while、 eh、 Pommern?
+English,scene_cp32_q3_s20、3232,detail,Pommern,Y-your Eminence...
+English,scene_cp32_q3_s20、3232,detail,Black Knight,I am an exile. You can stop with the titles.
+English,scene_cp32_q3_s20、3232,detail,Black Knight,Didn't you come here with orders to assassinate me? Well? Will you obey them?
+English,scene_cp32_q3_s20、3232,detail,Pommern,Y-yes! That's right! Now that I have you all where I want you—
+English,scene_cp32_q3_s20、3232,detail,Black Knight,I should mention that I've heard how you said、 ever so plainly、 that you could wipe me out with the dark essence.
+English,scene_cp32_q3_s20、3232,detail,Pommern,Gulp...
+English,scene_cp32_q3_s20、3232,detail,Black Knight,Shall we test this theory?
+English,scene_cp32_q3_s20、3232,detail,Black Knight,Are you ready to endure a pathetic defeat?
+English,scene_cp32_q3_s20、3232,detail,Pommern,I-I accept your challenge!
+English,scene_cp32_q3_s20、3232,detail,Black Knight,Hah. Then it's on. I'll take on this fool.
+English,scene_cp32_q3_s20、3232,detail,Black Knight,The rest of you、 watch out and don't get caught off guard.
+English,scene_cp32_q3_s20、3232,detail,Vyrn,Hey! We're not amateurs、 you know!
+English,scene_cp32_q3_s20、3232,detail,Rosetta,Let's not rely on her for everything. Come on、 now's not the time to lose focus!
+English,scene_cp32_q4_s10、3241,synopsis,,The crew finishes off the imperial soldiers and finally heads back to the Grandcypher.
+English,scene_cp32_q4_s10、3241,detail,Imperial Soldier,H'ugh!
+English,scene_cp32_q4_s10、3241,detail,Katalina,All right、 that's the last of them. How is the Black Knight—
+English,scene_cp32_q4_s10、3241,detail,Black Knight,Humph. Took you long enough. I've been waiting forever.
+English,scene_cp32_q4_s10、3241,detail,Rackam,How did you take down Pommern so fast? He was using that dark essence stuff.
+English,scene_cp32_q4_s10、3241,detail,Black Knight,The essence didn't make him even remotely a match for me. After two or three slashes、 he turned tail and ran away.
+English,scene_cp32_q4_s10、3241,detail,Io,Black Knight、 I guess you really can back up your arrogance. You're really strong.
+English,scene_cp32_q4_s10、3241,detail,Black Knight,No. He was just weak. Fools who rely on dark essence aren't the ones who should be feared. Not on this island、 at least.
+English,scene_cp32_q4_s10、3241,detail,Black Knight,We're going. We need to leave before the real threat shows herself.
+English,scene_cp32_q4_s20、3242,synopsis,,Monika comes to support Lecia and stop the Black Knight from escaping Amalthea Island.
+English,scene_cp32_q4_s20、3242,detail,Rackam,There it is! I'll get her ready for liftoff、 so you all head—
+English,scene_cp32_q4_s20、3242,detail,Monika,Sadly you aren't going anywhere. All of you、 halt.
+English,scene_cp32_q4_s20、3242,detail,Lecia,...
+English,scene_cp32_q4_s20、3242,detail,Black Knight,So the Crew of Enforcer's secret weapon is finally making her grand appearance.
+English,scene_cp32_q4_s20、3242,detail,Monika,First allow me to praise your skill and good fortune that allowed you to make it this far.
+English,scene_cp32_q4_s20、3242,detail,Monika,Even though this is a bit of a special circumstance、 you、 Black Knight、 are the very first to escape. Well、 almost escape.
+English,scene_cp32_q4_s20、3242,detail,Black Knight,What an honor to receive such praise.
+English,scene_cp32_q4_s20、3242,detail,Monika,Now that I'm here、 you can expect to see your cell again soon. There's nowhere to run.
+English,scene_cp32_q4_s20、3242,detail,Lecia,This is your final warning. Stop resisting and come back to the compound with us.
+English,scene_cp32_q4_s20、3242,detail,Black Knight,Humph.
+English,scene_cp32_q4_s20、3242,detail,Io,Hold on! My master should have stopped you in your tracks! What did you do with him?
+English,scene_cp32_q4_s20、3242,detail,Monika,I had to、 ahem、 negotiate with Archduke Tzaka.
+English,scene_cp32_q4_s20、3242,detail,Monika,But I assure you his life is not in danger. We are the Crew of Enforcers、 and you have our word on that.
+English,scene_cp32_q4_s20、3242,detail,Eugen,Looks like you're gonna start some more of these negotiations with us...
+English,scene_cp32_q4_s20、3242,detail,Monika,Absolutely! You won't hand over the Black Knight. And we can't allow the Erste Empire to kill her.
+English,scene_cp32_q4_s20、3242,detail,Monika,Let me be absolutely clear—we are going to take the Black Knight alive. And she will face justice.
+English,scene_cp32_q4_s20、3242,detail,Black Knight,Pfft. Just as bullheaded as ever、 I see.
+English,scene_cp32_q4_s20、3242,detail,Black Knight,[플레이어]、 these two are our greatest obstacle yet.
+English,scene_cp32_q4_s20、3242,detail,Lyria,Let's go、 [플레이어]. We have to keep going. We have to keep going for Orchis!
+English,scene_cp32_q4_s30、3243,synopsis,,The crew has set a course for Mephorash、 leaving Tzaka the Great back on Amalthea Island. Lecia and Monika have some questions for the archduke.
+English,scene_cp32_q4_s30、3243,detail,,Having defeated Lecia and Monika、 the crew boards the Grandcypher.
+English,scene_cp32_q4_s30、3243,detail,,They chart a course for the ancient city of Mephorash、 where Orchis is waiting.
+English,scene_cp32_q4_s30、3243,detail,Tzaka the Great,You know、 you both could've gone a bit easier on an old man.
+English,scene_cp32_q4_s30、3243,detail,Monika,I wouldn't do you such a dishonor、 Archduke. And besides、 you weren't so far from beating me.
+English,scene_cp32_q4_s30、3243,detail,Tzaka the Great,Hah. Anyway、 what happened to Io's crew?
+English,scene_cp32_q4_s30、3243,detail,Lecia,After they defeated Monika and I、 they just flew away.
+English,scene_cp32_q4_s30、3243,detail,Tzaka the Great,Hahaha! Well、 they certainly are a pleasant bunch!
+English,scene_cp32_q4_s30、3243,detail,Lecia,I didn't find anything pleasant about them!
+English,scene_cp32_q4_s30、3243,detail,Lecia,Sigh. Monika was the only one that could put up a fight. Maybe I'm not cut out for this.
+English,scene_cp32_q4_s30、3243,detail,Monika,Hey now、 if you get knocked off the horse、 you have to get back on、 right?
+English,scene_cp32_q4_s30、3243,detail,Lecia,Grumble...
+English,scene_cp32_q4_s30、3243,detail,Monika,So、 Archduke Tzaka. The Black Knight and that crew might have gotten away、 but we still have some questions for you.
+English,scene_cp32_q4_s30、3243,detail,Tzaka the Great,If it's something I can answer、 I'll be happy to oblige.
+English,scene_cp32_q4_s30、3243,detail,Monika,I need you to tell me、 what is the truth surrounding the Black Knight?
+English,scene_cp32_q4_s30、3243,detail,,The crew has once again sought out a new island as part of their ongoing journey.
+English,scene_cp32_q4_s30、3243,detail,,As they continue soaring through the skies、 the truth begins to reveal itself little by little.

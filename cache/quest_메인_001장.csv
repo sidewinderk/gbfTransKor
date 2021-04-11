@@ -1,340 +1,340 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,"<span class='scene-font-place'>ザンクティンゼル</span>を発ち,風に導かれるまま新たな島へと流れ着いた<span>[플레이어]</span>一行。<span>[플레이어]</span>の乗ってきた騎空艇は不時着し,大破してしまうが,そこへ現れたひとりの男が<span>[플레이어]</span>へと助言を与える。","<span class='scene-font-place'>장크틴젤</span>을 떠나,바람이 이끄는 대로 새로운 섬에 도달한 <span>[플레이어]</span>일행. 하지만 <span>[플레이어]</span>일행이 타고 온 기공정은 불시착하는 바람에 완전히 부서져 버리는데,마침 그곳에 나타난 한 남자가 <span>[플레이어]</span>에게 조언을 준다."
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"<span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を飛び立った一同は</span><br><span class='scene-font-katari'>旅の支度を整えるべく,</span><br><span class='scene-font-katari'>近隣の島へと向かっていた。</span>","<span class='scene-font-place'>장그틴젤</span><span class='scene-font-katari'>을 날아오른 일행은</span><br><span class='scene-font-katari'>여행 준비를 갖추기 위해,</span><br><span class='scene-font-katari'>인근의 섬으로 가고 있었다.</span>"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"<span class='scene-font-katari'>しかし,カタリナの不慣れな操縦に,</span><br><span class='scene-font-katari'>騎空艇は悲鳴と黒煙を上げ,</span><br><span class='scene-font-katari'>急激にその高度を下げていく。</span>","<span class='scene-font-katari'>그러나 카타리나의 서투른 조종 탓에,</span><br><span class='scene-font-katari'>기공정은 굉음과 검은 연기를 내며,</span><br><span class='scene-font-katari'>추락하고 있다.</span>"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"<span class='scene-font-katari'>緑の草原に柔らかな風が遊ぶこの地で</span><br><span class='scene-font-katari'>空の果てへと至る,</span><br><span class='scene-font-katari'>[플레이어]の物語が始まりを告げる。</span>",<span class='scene-font-katari'>너른 초원에 부드러운 바람이 불어 오는 이 땅에서</span><br><span class='scene-font-katari'>하늘 끝에 이르는</span><br><span class='scene-font-katari'>[플레이어]의 이야기가 시작을 알린다</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"けほっ……<br>み,みんな無事か?<br>ルリアは……?",콜록……<br>모두 무사한가?<br>루리아는……?
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,루리아,平気だよ……けほっ。<br>[플레이어]は大丈夫ですか?,괜찮아……콜록콜록.<br>[플레이어]는 괜찮나요?
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel1_txt,,<span class='scene-font-katari'>なんとか……</span>,<span class='scene-font-katari'>어떻게든…..</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",sel2_txt,,<span class='scene-font-katari'>立てそうにない……</span>,<span class='scene-font-katari'>설 수 없을 것 같아……</span>
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,루리아,"よかったぁ……<br>すごい揺れだったから,<br>怪我してないか心配で……","다행이네요……<br>굉장히 흔들렸으니까,<br>다친 줄 알았어요……"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,伊達に修行はしてないぜ!<br>だよなっ! [플레이어]!,멋으로 수행을 하고 있는 게 아니야!<br>그치! [플레이어]!
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"なに言ってんだよ,[플레이어]!<br>これくらいで立てなくなるほど,<br>やわな奴じゃないだろ!","무슨 소리야,[플레이어]!<br>이까짓것 때문에 설 수 없을 정도로,<br>약한 놈은 아니잖아!"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,しっかし……<br>何がどうなったんだ?<br>墜落したのか? オイラ達。,그런데……<br>뭐가 어떻게 된 거야?<br>추락한 거야?
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"面目ない……<br>騎空艇の操縦が,<br>まさかここまで難しいとは……","면목 없군……<br>기공정의 조종이,<br>이렇게까지 어려울 줄이야……"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"――おいおいおい,なんだこりゃ?","――어이, 어이, 이게 다 뭐야?"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"<span class='scene-font-katari'>一同が乗ってきた艇を見やると,</span><br><span class='scene-font-katari'>その傍らには</span><br><span class='scene-font-katari'>見知らぬ男が立っていた。</span>","<span class='scene-font-katari'>목소리가 들리는 쪽을,</span><br><span class='scene-font-katari'>그 옆에는 낯선 남자가 서 있었다.</span>"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"ったく,ひでぇことしやがるな……<br>動力部が爆発したのか……?<br>うわっ,竜骨も割れてやがる……","정말이지,위험한  짓들을 해대는구만……<br>동력부가 폭발한 건가……?<br>우왓, 용골도 깨져 버렸어……"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"これじゃもう,どう修理したって<br>こいつは二度と空には出られねぇぜ?<br>なぁ……アンタ達が乗って来たのか?","이래서는 이제,어떻게 수리해도<br>이놈은 두 번 다시 하늘로 날 수 가 없겠는데?<br>이봐……너희가 타고 온 거야?"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,そうだが……君は?,그렇긴 한데…당신은?
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"なんだ……アンタ達騎空団なのか?<br>っても,人数を見る限り,<br>駆け出しってとこか……","뭐야……너희들 기공단인가?<br>그런데,인원수를 보면,<br>이제 막 시작한 참인가……"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"騎空団か……いいかもな!<br>オイラ達で騎空団を,<br>旗揚げしちまうってのも!",기공단이라……그거 좋겠네!<br>우리들끼리 기공단을<br>세우는 거야!
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"なぁ,[플레이어]!<br>親父さんも<span class='scene-font-spword'>星の島</span>へ行く前は,<br>騎空団を率いてたって言ってたぜ!","어이,[플레이어]!<br>너희 아버지도 <span class='scene-font-spword'>별의 섬</span>에 가기 전에는,<br>기공단을 이끌었다고 말했었어!"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"はっ……やめとけやめとけ。<br>騎空艇を飛ばすには,<br>特別な技術が必要なんだぞ?","참나……그만둬.<br>기공정을 띄우려면,<br>특별한 기술이 필요하다고."
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"仮にも騎空団を名乗るってんなら,<br>操舵士のひとりでも仲間にしてから<br>名乗るこったな。","기공단이라고 자칭하고 싶으면,<br>조타수 한 명이라도 동료로 삼지 그래."
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"<span class='scene-font-katari'>それだけ言い残すと,</span><br><span class='scene-font-katari'>謎の男は[플레이어]の前から</span><br><span class='scene-font-katari'>去って行った。</span>","<span class='scene-font-katari'>그렇게 말을 남기고,</span><br><span class='scene-font-katari'>의문의 사나이는 [플레이어] 앞에서 떠났다.</span>"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"操舵士か……<br>確かに,空の旅を続けるのなら<br>不可欠な人員だな……","조타수, 그래.<br>확실히,여행을 계속하려면<br>꼭 필요하겠군."
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"っていうか,<br>何だったんだ? あいつ。<br>言うだけ言ってどっか行きやがって……","그보다, 뭐야? 그 녀석.<br>자기 할 말만 하고 어딘가 가 버렸어…"
-Japanese,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"さぁな。<br>ともかく,いまは街を目指そう。<br>そこで旅の支度を整えられるはずだ。","글쎄… <br>어쨌든,지금은 마을로 가자.<br>거기서 여행 채비를 할 수 있을 거야."
-Japanese,"scene_cp1_q1_s20,112",synopsis,,"街に向かう道中,<span>[플레이어]</span>一行はカタリナの知識を借りて,自分達の置かれている状況や,今後の旅に必要なものを整理する。","마을을 향하며,<span>[플레이어]</span>일행은 카타리나의 말을 따라,상황을 정리하고 여행을 준비하기 시작한다."
-Japanese,"scene_cp1_q1_s20,112",detail,비,街が見えてきたぜ!<br>結構デカい街だな!,마을이 보이기 시작 했어!<br>꽤 큰 마을이네!
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"風に流されてきたことを考えると,<br>ここは<span class='scene-font-place'>ポート・ブリーズ群島</span>の主島,<br>エインガナ島だろう。","바람에 떠밀려온 걸로 봐서,<br>여기는 <span class='scene-font-place'>포트 브리즈 군도</span>의 주도,<br>에인가나 섬 일거야."
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"この群島は交易が盛んなんだ。<br>街まで行けば,<br>手に入らないものはないだろうな。","이 군도는 교역이 왕성하거든.<br>마을까지 가면,<br>뭐든지 구할 수 있을 거야."
-Japanese,"scene_cp1_q1_s20,112",detail,루리아,"ねぇねぇ,カタリナ<br>お空の旅って,なにが必要なのかな?","저기,카타리나<br>하늘을 여행 하려면 무엇이 필요할까?"
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"そうだな……<br>まず私達は,兎にも角にも,<br>瘴流域を突破しなければならない。","그렇지……<br>먼저 우리는, 이러니 저러니 해도 우선 <span class='scene-font-place'>장류역</span>을 통과해야 해."
-Japanese,"scene_cp1_q1_s20,112",detail,루리아,"あ! 知ってる! それ!<br>えーっと……なんだか怖いものが,<br>ズバーンって空を区切ってるんだよね?",아! 알아! 그거!<br>음…… 뭔가 무서운 것이 하늘을 <br>슈욱 하고 조각 내버리는 그거지?
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"その通りだ。<br>瘴気の満ちる一帯,瘴流域が,<br>世界をいくつかの空域に分断している。","바로 그거야. 독기로 가득찬 일대, 장류역이 세계를 여러 공역으로 구분하고 있지."
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,ここ<span class='scene-font-place'>ポート・ブリーズ群島</span>を含む空域は<br>ファータ・グランデ空域と呼ばれ……<br><span class='scene-font-place'>エルステ帝国</span>の勢力圏でもある。,여기 <span class='scene-font-place'>포트 브리즈 군도</span>를 포함한 공역은<br>파타 그란데 공역이라고 불리고……<br><span class='scene-font-place'>에르스테 제국</span>의 세력권이기도 하지.
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"私の講義をちゃんと聞いていたんだな。<br>偉いぞ,ルリア。","내 수업을 잘 듣고 있었구나.<br>기특하구나, 루리아."
-Japanese,"scene_cp1_q1_s20,112",detail,루리아,"えへへ～!<br>ねぇねぇ,トカゲさん!<br>私,褒められちゃいました!","에헤헤～!<br>저기,도마뱀씨!<br>나,칭찬받았어!"
-Japanese,"scene_cp1_q1_s20,112",detail,비,"だからオイラは,<br>トカゲじゃねーっつの!","그러니까 나는,<br>도마뱀이 아니라구!"
-Japanese,"scene_cp1_q1_s20,112",detail,비,"それで?<br>その瘴流域を突破するには,<br>いったい何が必要だってんだ?","그래서?<br>그 장류역을 돌파하려면,<br>도대체 뭐가 필요한 거야?"
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"大きく分けて,ふたつ。<br>移動手段と,<span class='scene-font-spword'>空図</span>だ。","크게 두 가지,<br>이동 수단과,<span class='scene-font-spword'>하늘지도(공도)</span>다."
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"移動手段とは主に騎空艇のことだな。<br>しかし,素人の操縦では<br>非常に危険だと身に染みてわかった……","이동 수단이란 건 주로 기공정을 말해.<br>하지만,초보자의 조종으로는<br>매우 위험하다는 것을 뼈저리게 깨달았지……"
-Japanese,"scene_cp1_q1_s20,112",detail,비,"あんな不時着してちゃぁ,<br>命がいくつあっても足りないもんな……","저렇게 조종하면,<br>목숨이 몇 개 있어도 모자랄 걸……"
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"ああ,だから私達は<br>騎空艇の操縦を生業とする者……<br>操舵士を仲間にする必要がある。","그래,그래서 우리는<br>기공정의 조종을 생업으로 하는……<br>조타수를 동료로 삼아야 해."
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"そして,<br>その騎空艇で進むべき,<br>航路を記したもの……それが<span class='scene-font-spword'>空図</span>だ。","그리고<br>그 기공정으로 나아가야 할 ,<br>항로가 기록된 지도…… 그게 <span class='scene-font-spword'>하늘지도</span>이다."
-Japanese,"scene_cp1_q1_s20,112",detail,루리아,"それがあれば,瘴流域を抜けられるの?",그게 있으면 장류역을 뚫고 갈 수 있어?
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"むしろ,<span class='scene-font-spword'>空図</span>無しで瘴流域に挑むのは<br>自殺行為に等しい。<br>……一握りの化物を除いて,な。","오히려,<span class='scene-font-spword'>하늘지도</span>없이 장류역에 도전하는 것은<br>자살행위나 다름없어.<br>……소수의 괴물들에게는 다르겠지만."
-Japanese,"scene_cp1_q1_s20,112",detail,비,"けどよぅ,<span class='scene-font-spword'>空図</span>はバラバラになってて,<br>各島の守護神みたいな<br>大星晶獣が持ってるんだろ?","하지만,<span class='scene-font-spword'>하늘지도</span>는 뿔뿔이 흩어져 있고,<br>각 섬의 수호신 같은<br>대 성정수가 가지고 있지?"
-Japanese,"scene_cp1_q1_s20,112",detail,카타리나,"そう言われているな……<br>まぁ,要するに私達は,<br>前途多難極まりないわけだ……",그렇게들 알려져 있더군…… 일이 복잡하게 되었네…
-Japanese,"scene_cp1_q1_s20,112",detail,마물,グオォォ!,그오오오!
-Japanese,"scene_cp1_q1_s20,112",detail,비,"っと,出やがったぜ! 魔物だ!<br>長い道のりになるのは間違いねぇが,<br>まずは目の前の敵から片付けねぇとな!","마물이 나왔다구! <br>먼 길이 되는 것은 틀림없지만,<br>우선은 눈 앞의 적부터 정리 해 버리자!"
-Japanese,"scene_cp1_q2_s10,121",synopsis,,"街に着いた<span>[플레이어]</span>一行は操舵士を仲間にすべく,旅の世話をしてくれるよろず屋へと向かう。街の操舵士達は皆出払っているという中,名前の上がったとある男を訪ねるため,アンガド高原を目指す。","마을에 도착한<span>[플레이어]</span>일행은 조타수를 동료로 삼기 위해 만물상을 운영하고 있는 셰로카르테를 만난다. 그들은 섬에 남아 있는 조타수가 단 한 명이라는 이야기를 듣고, 그를 찾으러 나간다."
-Japanese,"scene_cp1_q2_s10,121",detail,,"<span class='scene-font-katari'>[플레이어]一行は空を渡る手段を求め,</span><br><span class='scene-font-katari'>騎空団の旅支度を整えてくれるという</span><br><span class='scene-font-katari'>よろず屋に来ていた。</span>","<span class='scene-font-katari'>[플레이어]일행은 하늘을 건널 수단을 찾던 와중,</span><br><span class='scene-font-katari'>기공단의 여정에 도움을 준다는</span><br><span class='scene-font-katari'>해결사의 집에 도착하였다.</span>"
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,いらっしゃ～い!<br>ご用件はなんですか～?,어서오세~요!<br>필요하신 게 있나요?
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,"旅に必要な道具の手配から,<br>仕事の仲介,騎空士の斡旋まで,<br>よろず屋シェロちゃんにおまかせ～","여행에 필요한 도구 준비부터,<br>일자리 알선,기공사 알선까지,<br>해결사 셰로쨩에게 맡겨줘～"
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,"旅の準備なら,<br>よろず屋によろ～ず!<br>うぷぷぷぷ……","여행 준비라면,<br>해결사의 집에서 해~결!<br>우후후후……"
-Japanese,"scene_cp1_q2_s10,121",detail,루리아,こんなちっちゃい子なのに<br>お店を切り盛りしてるなんて……<br>偉いですね!,이렇게 작은 아이인데<br>가게를 꾸려 나간다니……<br>대단하네요!
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,ちっちっち～<br>人を見かけで判断しちゃいけませんよ～,히히히～<br>사람을 겉모습으로 판단하면 안 돼요~
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,"こう見えて,<br>海千山千百戦練磨の商人なんですから～<br>甘く見てると痛い目見ちゃいますよ～?",이래 봬도<br>산전수전 백전연승의 상인이니까요~<br>얕보면 큰 코 다칠 거예요~?
-Japanese,"scene_cp1_q2_s10,121",detail,카타리나,"ははは……頼もしいな。<br>ところで店主,私達は<br>空を渡る手段が欲しいのだが……","하하하…… 믿음직스럽네.<br>근데 점장,우리들은<br>하늘을 지나갈 수단이 필요한데……"
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,密航ですか～?<br>それならいまキャンペーンが……,밀항인가요～?<br>그렇다면 지금……
-Japanese,"scene_cp1_q2_s10,121",detail,카타리나,"い,いや,違う!<br>私達は操舵士を<br>仲間にしたくてここに来たんだ。","아,아니야,달라!<br>우리들은 조타수를<br>구하고 있어서 여기 온 거야."
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,"操舵士さんですか～<br>うーん……残念ですけど,<br>出払ってる方がほとんどですね～","조타수 인가요~ <br>음…… 아쉽지만, <br>거의 다들 이미 나가 계신단 말이죠~"
-Japanese,"scene_cp1_q2_s10,121",detail,셰로카르테,忙しい時期なんで～<br>腕の良い操舵士は<br>どこでも引っ張りだこなんですよ～,바쁜 시기라서~ <br>솜씨가 좋은 조타수는<br>어디에서든 인기쟁이란 말이죠~
-Japanese,"scene_cp1_q2_s10,121",detail,루리아,そうなんですか……<br>どうしよう……,그런가요……<br>어쩔까요……
-Japanese,"scene_cp1_q2_s10,121",detail,마을사람1,"なぁ,操舵士ってんなら,<br>あいつがいいんじゃねぇか?","저기, 조타수라면, <br>저 녀석이 좋지 않을까?"
-Japanese,"scene_cp1_q2_s10,121",detail,마을사람2,"あいつって,ラカムのこと?<br>確かに腕もいいし,<br>暇そうにしてたけど……","저 녀석이라니, 라캄? <br>확실히 실력도 좋고,<br>한가해 보이긴 했다만……"
-Japanese,"scene_cp1_q2_s10,121",detail,마을사람3,"ああ,だってあいつはもう……","아아, 그치만 그 녀석은 더 이상……"
-Japanese,"scene_cp1_q2_s10,121",detail,마을사람1,"気が変わってるかもしれないだろ!<br>なぁ,トカゲ,<br>お前もそう思うよな?","마음이 바뀌었을지도 모르잖아!<br>어이, 도마뱀, <br>너도 그렇게 생각하지?"
-Japanese,"scene_cp1_q2_s10,121",detail,비,"いや,オイラに聞かれても困るぜ……<br>っていうか,トカゲゆーな! 噛むぞ!","아니, 나한테 물어봐도 곤란하다고……<br>그리고, 도마뱀이라고 부르지마! 물어버린다!"
-Japanese,"scene_cp1_q2_s10,121",detail,카타리나,"ははは,落ち着けビィくん。<br>怒っていても可愛いぞ?","하하하, 진정해 비군.<br>화내고 있어도 귀엽다고."
-Japanese,"scene_cp1_q2_s10,121",detail,비,"ううう,うっせー!<br>それでその,<br>ラカムって奴はどこにいるんだよ?","시,시끄러~!<br>그래서,<br>그 라캄이란 녀석은 어디에 있는 거야?"
-Japanese,"scene_cp1_q2_s10,121",detail,마을사람1,"あいつはいつも,<br>街の外をひとりでぶらぶらしてるよ。",그 녀석은 항상 <br>마을 밖에서 혼자 놀고 있어.
-Japanese,"scene_cp1_q2_s10,121",detail,마을사람1,"アンガド高原にある騎空艇の近くだ。<br>すぐに見つかるとは思うが……<br>魔物も出る場所だ,用心しろよ。",아마 안가도 고원에 있는 비공정 근처에 있을 거야.<br>금방 찾을 수 있겠지만……<br>마물도 나타나는 곳이니 조심해.
-Japanese,"scene_cp1_q2_s10,121",detail,루리아,"行ってみましょう,[플레이어]<br>どんな人か,<br>まずは会ってみてからです!",바로 가요! [플레이어]!<br>어떤 사람인지는<br>만나보면 알 수있을 거예요!
-Japanese,"scene_cp1_q2_s20,122",synopsis,,"アンガド高原にあるという騎空艇を目指して進む<span>[플레이어]</span>一行。しかし,カタリナは騎空艇が高原に置かれているという状況に疑問を持つ。","안가도 고원에 있다는 비공정을 목표로 이동하는 <span>[플레이어]</span>일행. 그러나, 카타리나는 비공정이 고원에 놓여있는 상황에 의문을 가진다."
-Japanese,"scene_cp1_q2_s20,122",detail,비,騎空艇……<br>なかなか見えてこねーな。,비공정……<br>좀처럼 보이지 않네.
-Japanese,"scene_cp1_q2_s20,122",detail,카타리나,この草原に騎空艇か……妙な話だな。,이 초원에 비공정이라……이상한 이야기네.
-Japanese,"scene_cp1_q2_s20,122",detail,루리아,"妙って?<br>だって,私達の乗ってきた騎空艇だって<br>いまは草原に置いてあると思うけど……","이상해?<br>그래도, 우리가 타고 온 비공정도<br>지금은 초원에 놓여져 있는 것 같은데……"
-Japanese,"scene_cp1_q2_s20,122",detail,카타리나,"くっ……そ,それは,<br>墜落し……させてしまったからな……","큿……그, 그건<br>추락……시켜 버렸으니까……"""
-Japanese,"scene_cp1_q2_s20,122",detail,카타리나,"騎空艇というのは<br>通常,島の外縁や高所の桟橋に<br>停泊するものなんだ。",기공정은<br>섬의 외곽이나 높은 곳의 선착장에<br>정박하는 것이 보통이야.
-Japanese,"scene_cp1_q2_s20,122",detail,비,"なんだかんだと考えるより,<br>行ってみるのが一番に決まってらぁ!<br>どんどん先に進もうぜ!",어쩌고 저쩌고 하는 것보다<br>직접 가보는게 최고야!<br>조금씩 앞으로 나아가자구!
-Japanese,"scene_cp1_q3_s10,131",synopsis,,"ラカムという操舵士を仲間にすべく,高原の騎空艇を目指す<span>[플레이어]</span>一行。しかし,辿り着いたその場所に彼の姿はなく,<span>[플레이어]</span>達はエルステ帝国の一団を見つけ街に迫る危機を知る。","라캄이라는 이름의 하는 조타수를 동료로 삼기 위해 고원의 기공정으로 향하는<span>[플레이어]</span>일행. 그러나, 도착한 장소에 그의 모습은 없었다.<span>[플레이어]</span>일행은 에르스테 제국의 무리를 발견하고 다가올 위기를 직감한다."
-Japanese,"scene_cp1_q3_s10,131",detail,비,――こいつが……<br>街の奴が言ってた騎空艇か?,――이놈이……<br>그 녀석이 말했던 비공정인가?
-Japanese,"scene_cp1_q3_s10,131",detail,카타리나,そのようだが……<br>これはまるで……,그런 것 같지만……<br>이건 마치……
-Japanese,"scene_cp1_q3_s10,131",detail,루리아,墜落してそのままって感じですね。,추락하고서 그대로 내버려 둔 느낌이네요
-Japanese,"scene_cp1_q3_s10,131",detail,카타리나,"これがラカムとやらの,<br>愛機というわけではないのか……?<br>いったいなにが……",라캄이라는 사람이<br>애용하는 비공정이 아닌가……?<br>도대체 ……
-Japanese,"scene_cp1_q3_s10,131",detail,카타리나,"むっ!?<br>マズイな……[플레이어],見えるか?<br><span class='scene-font-place'>エルステ帝国</span>の軍隊だ。","앗!?<br>위험해……[플레이어],저기 보여?<br><span class='scene-font-place'>에르스테 제국</span>의 군대다."
-Japanese,"scene_cp1_q3_s10,131",detail,비,向こうはまだ<br>こっちに気づいてないみたいだぜ?<br>隠れようぜ! まだ間に合う!,저쪽은 아직<br>이쪽을 못 알아 챈 것 같은데?<br>숨자! 아직 늦지 않았어!
-Japanese,"scene_cp1_q3_s10,131",detail,???,"あーあーあー,面倒くさいなぁー<br>ねぇ,これ本当にボク必要?","아~ 귀찮네~<br>야,이거 정말 내가 필요한거야?"
-Japanese,"scene_cp1_q3_s10,131",detail,제국병１,フュリアス将軍閣下……<br><span class='scene-font-place'>ポート・ブリーズ群島</span>は<br>以前から我々の支配を拒んでおり……,퓨리어스 장군 각하……<br><span class='scene-font-place'>포트 브리즈 군도</span>는<br>예전부터 우리의 지배를 거부하고 있기에……
-Japanese,"scene_cp1_q3_s10,131",detail,퓨리어스,"知ってるよ! 馬鹿にしてんの?<br>ちっ……あーもうイライラするなぁ。<br>誰かこいつ,お仕置き部屋連れてって。",알고 있어! 내가 바보인 줄 알아?<br>칫……아~ 짜증 나.<br>이 자식 감옥에 가둬 버려.
-Japanese,"scene_cp1_q3_s10,131",detail,제국병１,"ひっ!?<br>フュ,フュリアス将軍!<br>先ほどの非礼は謹んでお詫びし……","감옥!?<br>퓨,퓨리어스 장군님!<br>아까의 무례는 삼가 사죄 드립……"
-Japanese,"scene_cp1_q3_s10,131",detail,퓨리어스,"黙れよ……<br>その首,この場ではねようか?<br>もういらないよね? ね?","닥쳐……<br>그 목, 이 자리에서 잘라줄까?<br>이제 필요없지? 그치?"""
-Japanese,"scene_cp1_q3_s10,131",detail,제국병１,"そ,そんな……","그,그런……"""
-Japanese,"scene_cp1_q3_s10,131",detail,퓨리어스,それでー?<br><span class='scene-font-place'>エルステ帝国</span>に抵抗する馬鹿どもを<br>どうする計画なんだっけ?,그래서~?<br><span class='scene-font-place'>감히 에르스테 제국</span>에 저항하는 놈들을<br>어떻게 할 계획이었지?
-Japanese,"scene_cp1_q3_s10,131",detail,제국병２,"はっ……<br>すでに兵を各所に配置し,<br>準備は整っております。",네……<br>이미 군사를 곳곳에 배치하여<br>준비는 되어 있습니다.
-Japanese,"scene_cp1_q3_s10,131",detail,제국병２,"閣下の一声があれば,<br>すぐにでも街を<br>壊滅させてご覧に入れましょう。",각하께서 한마디만 하시면<br>지금 당장이라도 마을을<br>괴멸시킬 수 있습니다.
-Japanese,"scene_cp1_q3_s10,131",detail,카타리나,<span class='scene-font-4'>――ふざけるなッ!!</span>,<span class='scene-font-4'>――까불지마!!</span>
-Japanese,"scene_cp1_q3_s10,131",detail,퓨리어스,あ? 誰だい? 君。,하? 넌 누구야?
-Japanese,"scene_cp1_q3_s10,131",detail,루리아,"カ,カタリナ!<br>せっかく隠れてたのに……","카, 카타리나!<br>모처럼 숨어있었는데……"
-Japanese,"scene_cp1_q3_s10,131",detail,카타리나,先ほどから黙って聞いていれば<br><span class='scene-font-4'>……この外道が!!</span>,아까부터 잠자코 듣고 있자니<br><span class='scene-font-4'>……이 외도가!</span>
-Japanese,"scene_cp1_q3_s10,131",detail,카타리나,"帝国の支配への抵抗を理由に,<br>街を滅ぼすなど,<br>許されるわけがないだろう!!",제국의 지배에 저항한다는 이유만으로<br>마을을 멸망시키겠다니…<br>말이 된다고 생각하나?!
-Japanese,"scene_cp1_q3_s10,131",detail,제국병２,"こ,こいつら,<br>機密の少女と,<br>それを持ち出した護衛の……!?",이 녀석들<br>기밀인 소녀와<br>그를 탈출시킨 호위……!?
-Japanese,"scene_cp1_q3_s10,131",detail,비,"ああもう!<br>姐さんの気持ちはわからなくないけど,<br>ここは堪えてほしかったぜ!","아아, 정말!<br>누님의 마음은 알 수 없지만<br>여기서는 참았으면 좋겠어!"
-Japanese,"scene_cp1_q3_s10,131",detail,비,逃げるぞ!<br>ルリア! 姐さん! [플레이어]!<br>ここで捕まるわけにはいかねぇぜ!,도망치자!<br>루리아! 누님! [플레이어]!<br>여기서 잡힐 수는 없지!
-Japanese,"scene_cp1_q3_s20,132",synopsis,,"騎士としてあるべき姿を理解しつつも抑えきれないカタリナの正義感を垣間見つつ,<span>[플레이어]</span>一行は街の者に危機を伝える決意を新たにする。",기사로서의 모습을 이해하면서도 억제할 수 없는 카타리나의 정의감을 엿보았던 <span>[플레이어]</span>일행은 마을 사람들에게 위기를 전하는 결의를 다진다.
-Japanese,"scene_cp1_q3_s20,132",detail,카타리나,――申し訳ない。,――정말 미안하다.
-Japanese,"scene_cp1_q3_s20,132",detail,루리아,"もういいよ,カタリナ。<br>あの人達に怒ってたのは,<br>カタリナだけじゃないもん。","이제 됐어,카타리나.<br>그 사람들에게 화난 건<br>카타리나 뿐만이 아니야"
-Japanese,"scene_cp1_q3_s20,132",detail,루리아,"むしろ,<br>カタリナが怒ってくれて<br>すっきりした……ね? [플레이어]。",오히려<br>카타리나가 화내 줘서<br>시원해졌어……그쵸? [플레이어]
-Japanese,"scene_cp1_q3_s20,132",detail,카타리나,"あのような非道を目の前にすると,<br>つい熱くなってしまうんだ……",저런 악인을 눈 앞에 두면<br>결국 화를 내버리고 말아……
-Japanese,"scene_cp1_q3_s20,132",detail,카타리나,"騎士たるもの,<br>常に冷静であろうとは,<br>思っているのだが……",기사라면<br>항상 냉정해야 한다고<br>생각하고 있는데……
-Japanese,"scene_cp1_q3_s20,132",detail,비,"しかし,<br>とんでもねぇこと聞いちまったな……",그건 그렇고<br>말도 안 되는 소리를 듣고 말았네……
-Japanese,"scene_cp1_q3_s20,132",detail,루리아,"ですね……<br>帝国が攻めてくるって,<br>何とかして街の人達に伝えないと……!",음……<br>제국이 쳐들어온다는 걸<br>어떻게든 마을 사람들에게 전해야……!
-Japanese,"scene_cp1_q3_s20,132",detail,비,だな!<br>まずは追ってきてる帝国の兵士を<br>なんとかしねぇと!,그렇겠지!<br>우선은 따라오고 있는 제국 병사를 어떻게든 해야지!
-Japanese,"scene_cp1_q4_s10,141",synopsis,,"エルステ帝国の一団と交戦する<span>[플레이어]</span>一行。数の利に押され,<span>[플레이어]</span>達は苦しい戦いを強いられる。しかし,帝国の将軍が高原の騎空艇を破壊しようとしたその時,空を裂く一撃が将軍を貫いた。","에르스테 제국의 군사들과 교전하는<span>[플레이어]</span>일행. 숫자에 밀려 <span>[플레이어]</span>일행은 힘든 싸움을 하게 된다. 그러나, 제국의 장군이 고원의 비공정을 파괴하려고 한 그때, 하늘을 찢는 일격이 장군을 멈추게 한다."
-Japanese,"scene_cp1_q4_s10,141",detail,카타리나,"むっ? こ,ここは……","뭣? 이, 이곳은…"
-Japanese,"scene_cp1_q4_s10,141",detail,루리아,"逃げ回ってるうちに,<br>もとの騎空艇のそばまで,<br>戻って来ちゃった……",도망치고 있는 도중에<br>원래의 비공정 근처까지<br>돌아와 버렸어……
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,"あれ!?<br>なんだい,<br>戻ってきてくれたの?",어라!?<br>어째서<br>돌아왔지?
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,"嬉しいなぁ!<br>君達ってウチの国から,<br>指名手配を受けてるんだってね!",기쁜데!<br>너희들 말야~ 우리 제국의<br>지명수배 대상이라구!
-Japanese,"scene_cp1_q4_s10,141",detail,???,"将軍サマ,ご機嫌だねぇ～<br>いいねぇ～<br>こういう時の彼は嫌いじゃないなぁ～",장군님 기분이 좋아보이네～<br>좋아요～<br>이럴 때의 장군님은 싫지 않아요～
-Japanese,"scene_cp1_q4_s10,141",detail,???,黙れ……立場をわきまえろ。,닥쳐…… 주제 파악 좀 해.
-Japanese,"scene_cp1_q4_s10,141",detail,비,くそっ……しつこい連中だぜ!,젠장……짜증나는 놈들이라구!
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,ねぇねぇねぇ!<br>なんで戻ってきたの?,저기 있잖아!<br>왜 돌아왔어?
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,"もしかしてさぁ,<br>あの艇で逃げようとか思ってた?<br>あたり? ねぇねぇ!","혹시 말야,<br>그 배로 도망갈까 생각했었어?<br>내가 맞췄지? 말해봐!"
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,"ぎゃははははは!!<br>こんなボロ艇,飛べるわけねーだろ!",으하하하하하하!!<br>이런 고물로 날 수 있을 리가 없잖아!
-Japanese,"scene_cp1_q4_s10,141",detail,카타리나,やはりあの艇は<br>飛べる状態ではないのか……?,역시 그 배는<br>날 수 있는 상태가 아닌가……?
-Japanese,"scene_cp1_q4_s10,141",detail,카타리나,"上手く使えればと,<br>少しは思っていたが……",잘만 하면<br>날 수 있을 거라 생각하고 있었는데……
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,こんな! こんなボロ艇がさぁ!<br>空を? ぎゃははははは!!,이런! 이런 고물이!<br>하늘을? 으하하하하하!!
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,"あー,でも,いいや,<br>念には念を入れておこうか。<br>おい,誰でもいい,この艇ぶっ壊せ。","아~,하지만,됐어,<br>혹시 모르니까,<br>야,아무나 빨리 이 비공정을 부숴버려."
-Japanese,"scene_cp1_q4_s10,141",detail,루리아,"え? そんな……<br>そんな大きな傷だって無いし,<br>修理すればきっと……",에? 그런……<br>그렇게 큰 손상도 아니고<br>수리하면 분명……
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,飛ばれちゃ困るんだよなぁ!!<br>おい! 誰か早く……,그러니까 날아가면 곤란하다고!<br>어이! 아무나 빨리……
-Japanese,"scene_cp1_q4_s10,141",detail,퓨리어스,<span class='scene-font-5'>ふぎゃっ!?</span>,<span class='scene-font-5'>후갸!?</span>
-Japanese,"scene_cp1_q4_s10,141",detail,???,"ったく,<br>ボロだとかなんだとか,<br>好き勝手言いやがって……",정말이지<br>남의 배를<br>제멋대로 말하고……
-Japanese,"scene_cp1_q4_s10,141",detail,???,"おい,そこのチビ!<br>俺の艇になにしようとしやがる!!","어이, 거기 꼬마!<br>내 비공정에 뭘 하려고 하는 거야!!"
-Japanese,"scene_cp1_q4_s10,141",detail,비,"おい,あいつ!<br>不時着したオイラ達に,<br>色々言って去ってった奴じゃねーか!?","어이, 저 사람!<br>우리가 불시착 했을 때<br>말을 걸어왔던 사람이잖아!?"
-Japanese,"scene_cp1_q4_s10,141",detail,제국병２,"なんだ貴様は!<br>貴様,こいつらの仲間か!?","뭐야 너는!<br>네놈, 이놈들의 동료인가!?"
-Japanese,"scene_cp1_q4_s10,141",detail,???,"は?<br>いやいやいやいや,え? なに?<br>どういうこと?",허?<br>아니아니아니아니아니아니? 뭐라고?<br>무슨 말이야?
-Japanese,"scene_cp1_q4_s10,141",detail,제국병２,問答無用だ! ひっ捕らえろ!,문답무용! 잡아라!
-Japanese,"scene_cp1_q4_s10,141",detail,카타리나,マズイぞ!<br>あの男も追われている!,큰일났다!<br>저 남자도 쫓기고 있다!
-Japanese,"scene_cp1_q4_s10,141",detail,비,"ってもオイラ達も逃げねーと!<br>今度こそ,<br>道に迷ってる余裕はねーぞ!",하지만 우리들도 도망가야지!<br>이번에야 말로<br>길을 헤매고 있을 여유는 없다구!
-Japanese,"scene_cp1_q4_s20,142",synopsis,,"エルステ帝国の兵士達に追い詰められ,絶体絶命の危機に瀕したその時,<span>[플레이어]</span>達に助言を与えた謎の男が救いの手を差し伸べる。","에르스테 제국의 병사들에게 쫓겨 절체절명의 위기에 처한 그때, <span>[플레이어]</span>일행에게 조언을 해 준 수수께끼의 남자가 구원의 손길을 내민다."
-Japanese,"scene_cp1_q4_s20,142",detail,루리아,どうしよう……追い詰められてる!,어떡하지……따라잡히고 있어요!
-Japanese,"scene_cp1_q4_s20,142",detail,카타리나,万事休すといったところか……,이제 끝인가…
-Japanese,"scene_cp1_q4_s20,142",detail,???,"おい,てめぇら! こっちだ!","어이, 너희들! 이쪽이다!"
-Japanese,"scene_cp1_q4_s20,142",detail,비,あんたは!?,너는!?
-Japanese,"scene_cp1_q4_s20,142",detail,???,こっちに俺の隠れ家がある!<br>案内するからついて来い!,이쪽에 내 은신처가 있어!<br>안내할 테니까 따라와!
-Japanese,"scene_cp1_q4_s20,142",detail,비,"だ,そうだぜ!<br>[플레이어]!<br>あいつを追おう!",그래!<br>[플레이어]!<br>저 놈을 따라가자!
-Japanese,"scene_cp1_q4_s20,142",detail,제국병２,<span class='scene-font-4'>逃がすものか!</span>,<span class='scene-font-4'>놓칠까보냐!</span>
-Japanese,"scene_cp1_q4_s30,143",synopsis,,"謎の男に助けられた<span>[플레이어]</span>一行は,男の隠れ家である地下教会で,この男こそが凄腕の操舵士と謳われるラカムであることを知る。",수수께끼의 남자에게 도움을 받은 <span>[플레이어]</span> 일행은 남자의 은신처에서 이 남자야말로 엄청난 실력의 조타수로 명성이 자자한 라캄임을 알게 된다.
-Japanese,"scene_cp1_q4_s30,143",detail,???,"ふぅ……<br>帝国はもう,<br>探すのを諦めたみたいだぜ。",후우……<br>제국은<br>찾는 걸 포기한 것 같아.
-Japanese,"scene_cp1_q4_s30,143",detail,카타리나,"かたじけない……<br>いまといい,不時着したときといい……<br>助けられてばかりだな。",고맙다……<br>지금도 불시착했을 때도……<br>도움을 받기만 하네.
-Japanese,"scene_cp1_q4_s30,143",detail,라캄,"ったく……<br>俺はラカムってんだが,<br>アンタ達は何者なんだ?",정말이지……<br>나는 라캄이라고 하는데<br>너희들은 누구야?
-Japanese,"scene_cp1_q4_s30,143",detail,,"<span class='scene-font-katari'>[플레이어]達は,</span><br><span class='scene-font-katari'>自分達の置かれている状況を説明した。</span>",<span class='scene-font-katari'>[플레이어] 일행은</span><br><span class='scene-font-katari'>자신들이 처한 상황을 설명했다.</span>
-Japanese,"scene_cp1_q4_s30,143",detail,비,"ま,そーいうわけで,<br>オイラ達には,<br>操舵士の仲間が必要なんだ!","뭐, 그런 이유로<br>우리들은<br>조타수 동료가 필요해!"
-Japanese,"scene_cp1_q4_s30,143",detail,라캄,へぇ……そりゃ大変なこって。,헤에……그거 큰일이네.
-Japanese,"scene_cp1_q4_s30,143",detail,카타리나,"まさか君が,<br>街で名を聞いたラカムだったとはな。<br>いや……これも何かの縁か。",설마 네가<br>그 라캄일 줄은 몰랐는데.<br>아니……이것도 인연인가.
-Japanese,"scene_cp1_q4_s30,143",detail,루리아,あの……<br>急なお願いなのはわかってるんですけど<br>私達の……仲間になってくれませんか?,저기……<br>갑작스런 부탁인 건 알고 있습지만<br>우리의……동료가 되어주지 않겠습니까?
-Japanese,"scene_cp1_q4_s30,143",detail,라캄,ああ……断る。,아아……거절한다
-Japanese,"scene_cp1_q4_s30,143",detail,비,"えっ!?<br>だって,不時着したときも,<br>あんなに親切に……",엣!?<br>불시착했을 때도<br>그렇게 친절하게……
-Japanese,"scene_cp1_q4_s30,143",detail,라캄,"あれは,<br>艇が可哀想だったから言っただけだ。",그건<br>비공정이 불쌍해서 한 말이야.
-Japanese,"scene_cp1_q4_s30,143",detail,라캄,それにな……俺は空を捨てたんだ。<br>もう二度と空は飛ばねぇ……<br>舵を握ることもねぇだろうよ。,게다가 말이야……나는 하늘을 버렸어<br>이제 두 번 다시 하늘을 날지 않아……<br>다시는 키를 잡을 일도 없을 거야.
-Japanese,"scene_cp1_q4_s30,143",detail,,"<span class='scene-font-katari'>そう語るラカムの表情は硬く,</span><br><span class='scene-font-katari'>その拒否の裏側にある真意を,</span><br><span class='scene-font-katari'>決して見せようとはしていなかった。",<span class='scene-font-katari'>그렇게 말하는 라캄의 표정은 굳어 있었고</span><br><span class='scene-font-katari'>그 거절 뒤에 있는 진의를</span><br><span class='scene-font-katari'>결코 보여주려 하지 않았다.</span>
-Japanese,"scene_cp1_q4_s30,143",detail,퓨리어스,ぐ……が……,으……윽……
-Japanese,"scene_cp1_q4_s30,143",detail,???,"あーらーらー<br>将軍サマ,大丈夫なのこれ?<br>当たり所悪いんじゃないの? これ。","아~아~아~<br>장군님, 괜찮아 이거?<br>안 좋은 곳 맞은 거 아니야? 이거."
-Japanese,"scene_cp1_q4_s30,143",detail,???,"心配いらない……<br>聞いてるだろ,こいつは大丈夫だ。<br>少し時間は必要みたいだけどな。",걱정할 필요 없어……<br>이 녀석은 괜찮아<br>조금 시간은 필요하겠지만.
-Japanese,"scene_cp1_q4_s30,143",detail,???,"そういやそうだっけ?<br>とはいえ,しばらく起きないなら,<br>僕達の出番かな?","아 그래?<br>그렇지만, 당분간 일어나지 않는다면<br>우리의 차례인가?"
-Japanese,"scene_cp1_q4_s30,143",detail,???,だろうな……,그렇겠지……
-Japanese,"scene_cp1_q4_s30,143",detail,???,"そっかそっか,うんうん。<br>お金は貰っちゃってるし,<br>それ相応のお仕事はしないとねっ!","그렇구나, 응응<br>돈은 받아버렸고<br>걸맞는 일을 하지 않으면 안돼!"
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,synopsis,,<span class='scene-font-place'>ザンクティンゼル</span>を発ち、風に導かれるまま新たな島へと流れ着いた<span>[플레이어]</span>一行。<span>[플레이어]</span>の乗ってきた騎空艇は不時着し、大破してしまうが、そこへ現れたひとりの男が<span>[플레이어]</span>へと助言を与える。,<span class='scene-font-place'>장크틴젤</span>을 떠나、바람이 이끄는 대로 새로운 섬에 도달한 <span>[플레이어]</span>일행. 하지만 <span>[플레이어]</span>일행이 타고 온 기공정은 불시착하는 바람에 완전히 부서져 버린다. 그때、 마침 그곳에 나타난 한 남자가 <span>[플레이어]</span>에게 조언을 준다.
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,,<span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を飛び立った一同は</span><br><span class='scene-font-katari'>旅の支度を整えるべく、</span><br><span class='scene-font-katari'>近隣の島へと向かっていた。</span>,<span class='scene-font-place'>장그틴젤</span><span class='scene-font-katari'>을 벗어난 일행은</span><br><span class='scene-font-katari'>여행 준비를 갖추기 위해、</span><br><span class='scene-font-katari'>인근의 섬으로 향한다.</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,,<span class='scene-font-katari'>しかし、カタリナの不慣れな操縦に、</span><br><span class='scene-font-katari'>騎空艇は悲鳴と黒煙を上げ、</span><br><span class='scene-font-katari'>急激にその高度を下げていく。</span>,<span class='scene-font-katari'>그러나 카타리나의 서투른 조종 탓에、</span><br><span class='scene-font-katari'>기공정은 굉음과 검은 연기를 내며、</span><br><span class='scene-font-katari'>추락한다.</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,,<span class='scene-font-katari'>緑の草原に柔らかな風が遊ぶこの地で</span><br><span class='scene-font-katari'>空の果てへと至る、</span><br><span class='scene-font-katari'>[플레이어]の物語が始まりを告げる。</span>,<span class='scene-font-katari'>너른 초원 위로 부드러운 바람이 내달리는 이곳에서、</span><br><span class='scene-font-katari'>하늘 끝에 이르기 위한</span><br><span class='scene-font-katari'>[플레이어]의 이야기가 시작된다.</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,けほっ……<br>み、みんな無事か?<br>ルリアは……?,콜록……<br>모두 무사한가?<br>루리아는……?
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,루리아,平気だよ……けほっ。<br>[플레이어]は大丈夫ですか?,괜찮아요……콜록콜록.<br>[플레이어]는 괜찮나요?
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,sel1_txt,,<span class='scene-font-katari'>なんとか……</span>,<span class='scene-font-katari'>어떻게든…..</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,sel2_txt,,<span class='scene-font-katari'>立てそうにない……</span>,<span class='scene-font-katari'>설 수 없을 것 같아……</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,루리아,よかったぁ……<br>すごい揺れだったから、<br>怪我してないか心配で……,다행이네요……<br>굉장히 흔들렸으니까、<br>다친 줄 알았어요……
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,비,伊達に修行はしてないぜ!<br>だよなっ! [플레이어]!,멋으로 수행을 하고 있는 게 아니야!<br>그치! [플레이어]!
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,비,なに言ってんだよ、[플레이어]!<br>これくらいで立てなくなるほど、<br>やわな奴じゃないだろ!,무슨 소리야、 [플레이어]!<br>이 정도 일로 쓰러질 정도로、<br>약한 놈은 아니잖아!
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,비,しっかし……<br>何がどうなったんだ?<br>墜落したのか? オイラ達。,그런데……<br>뭐가 어떻게 된 거야?<br>추락한 거야?
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,面目ない……<br>騎空艇の操縦が、<br>まさかここまで難しいとは……,면목 없군……<br>기공정의 조종이、<br>이렇게까지 어려울 줄이야……
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,???,――おいおいおい、なんだこりゃ?,――어이、 어이. 이게 다 뭐야?
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,,<span class='scene-font-katari'>一同が乗ってきた艇を見やると、</span><br><span class='scene-font-katari'>その傍らには</span><br><span class='scene-font-katari'>見知らぬ男が立っていた。</span>,<span class='scene-font-katari'>목소리가 들리는 쪽을 보자、</span><br><span class='scene-font-katari'>낯선 남자가 서 있었다.</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,???,ったく、ひでぇことしやがるな……<br>動力部が爆発したのか……?<br>うわっ、竜骨も割れてやがる……,정말이지、 위험한  짓들을 해대는구만……<br>동력부가 폭발한 건가……?<br>우왓、 용골도 깨져 버렸어……
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,???,これじゃもう、どう修理したって<br>こいつは二度と空には出られねぇぜ?<br>なぁ……アンタ達が乗って来たのか?,이래서는 이제、어떻게 수리해도<br>이놈은 두 번 다시 하늘로 날 수 없겠는데?<br>이봐…… 너희 비공정이야?
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,そうだが……君は?,그렇긴 한데…당신은?
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,???,なんだ……アンタ達騎空団なのか?<br>っても、人数を見る限り、<br>駆け出しってとこか……,뭐야……너희들、 기공단인가?<br>인원수를 보면、<br>이제 막 시작한 참인가……
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,비,騎空団か……いいかもな!<br>オイラ達で騎空団を、<br>旗揚げしちまうってのも!,기공단이라……그거 좋겠네!<br>우리들끼리 기공단을<br>만드는 거야!
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,비,なぁ、[플레이어]!<br>親父さんも<span class='scene-font-spword'>星の島</span>へ行く前は、<br>騎空団を率いてたって言ってたぜ!,어이、 [플레이어]!<br>너희 아버지도 <span class='scene-font-spword'>별의 섬</span>에 가기 전에는、<br>기공단을 이끌었다고 말했었잖아!
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,???,はっ……やめとけやめとけ。<br>騎空艇を飛ばすには、<br>特別な技術が必要なんだぞ?,참나…… 그만 둬.<br>기공정을 띄우려면、<br>특별한 기술이 필요하다고.
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,???,仮にも騎空団を名乗るってんなら、<br>操舵士のひとりでも仲間にしてから<br>名乗るこったな。,기공단이라고 자칭하고 싶으면、<br>조타수 한 명이라도 동료로 삼지 그래.
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,,<span class='scene-font-katari'>それだけ言い残すと、</span><br><span class='scene-font-katari'>謎の男は[플레이어]の前から</span><br><span class='scene-font-katari'>去って行った。</span>,<span class='scene-font-katari'>그런 말을 남기고、</span><br><span class='scene-font-katari'>의문의 남자는 [플레이어] 앞에서 떠났다.</span>
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,操舵士か……<br>確かに、空の旅を続けるのなら<br>不可欠な人員だな……,조타수、 그래.<br>확실히、여행을 계속하려면<br>꼭 필요하겠군.
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,비,っていうか、<br>何だったんだ? あいつ。<br>言うだけ言ってどっか行きやがって……,그보다、 뭐야? 그 녀석.<br>자기 할 말만 하고 어딘가 가 버렸어…
+Japanese,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,さぁな。<br>ともかく、いまは街を目指そう。<br>そこで旅の支度を整えられるはずだ。,글쎄… <br>어쨌든、지금은 마을로 가자.<br>거기서 여행 채비를 할 수 있을 거야.
+Japanese,scene_cp1_q1_s20、112,synopsis,,街に向かう道中、<span>[플레이어]</span>一行はカタリナの知識を借りて、自分達の置かれている状況や、今後の旅に必要なものを整理する。,<span>[플레이어]</span>일행은 카타리나의 말을 따라、 상황을 정리하고 여행을 준비하기 시작한다.
+Japanese,scene_cp1_q1_s20、112,detail,비,街が見えてきたぜ!<br>結構デカい街だな!,마을이 보여!<br>꽤 큰 마을이네!
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,風に流されてきたことを考えると、<br>ここは<span class='scene-font-place'>ポート・ブリーズ群島</span>の主島、<br>エインガナ島だろう。,아마도、 여기는 <span class='scene-font-place'>포트 브리즈 군도</span>의 주도、<br>에인가나 섬 일거야.
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,この群島は交易が盛んなんだ。<br>街まで行けば、<br>手に入らないものはないだろうな。,이 근처는 교역이 왕성하지<br>마을까지 가면、<br>뭐든지 구할 수 있을 거야.
+Japanese,scene_cp1_q1_s20、112,detail,루리아,ねぇねぇ、カタリナ<br>お空の旅って、なにが必要なのかな?,저기、 카타리나<br>하늘을 여행 하려면 무엇이 필요한가요?
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,そうだな……<br>まず私達は、兎にも角にも、<br>瘴流域を突破しなければならない。,그렇지……<br>먼저 우리는、 우선 <span class='scene-font-place'>장류역</span>을 통과해야 해.
+Japanese,scene_cp1_q1_s20、112,detail,루리아,あ! 知ってる! それ!<br>えーっと……なんだか怖いものが、<br>ズバーンって空を区切ってるんだよね?,아! 알아! 그거!<br>음…… 뭔가 무서운 것이 하늘을 <br>슈욱 하고 나누고 있는 그거지?
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,その通りだ。<br>瘴気の満ちる一帯、瘴流域が、<br>世界をいくつかの空域に分断している。,바로 그거야. 독기로 가득찬 일대、 장류역이 세계를 여러 공역으로 구분하고 있지.
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,ここ<span class='scene-font-place'>ポート・ブリーズ群島</span>を含む空域は<br>ファータ・グランデ空域と呼ばれ……<br><span class='scene-font-place'>エルステ帝国</span>の勢力圏でもある。,여기 <span class='scene-font-place'>포트 브리즈 군도</span>를 포함한 공역은<br>파타 그랑데 공역이라고 불리고……<br><span class='scene-font-place'>에르스테 제국</span>의 세력권이기도 해요.
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,私の講義をちゃんと聞いていたんだな。<br>偉いぞ、ルリア。,내 수업을 잘 듣고 있었구나.<br>기특하구나、 루리아.
+Japanese,scene_cp1_q1_s20、112,detail,루리아,えへへ～!<br>ねぇねぇ、トカゲさん!<br>私、褒められちゃいました!,헤헤～!<br>저기、 도마뱀 씨!<br>저、 칭찬 받았어요!
+Japanese,scene_cp1_q1_s20、112,detail,비,だからオイラは、<br>トカゲじゃねーっつの!,그러니까 나는、<br>도마뱀이 아니라구!
+Japanese,scene_cp1_q1_s20、112,detail,비,それで?<br>その瘴流域を突破するには、<br>いったい何が必要だってんだ?,그래서?<br>그 장류역을 돌파하려면、<br>도대체 뭐가 필요한 거야?
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,大きく分けて、ふたつ。<br>移動手段と、<span class='scene-font-spword'>空図</span>だ。,크게 두 가지、<br>이동 수단과、<span class='scene-font-spword'>하늘 지도</span>다.
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,移動手段とは主に騎空艇のことだな。<br>しかし、素人の操縦では<br>非常に危険だと身に染みてわかった……,이동 수단이란 건 주로 기공정을 말해.<br>하지만、 초보자의 조종으로는<br>매우 위험하다는 것을 뼈저리게 깨달았지……
+Japanese,scene_cp1_q1_s20、112,detail,비,あんな不時着してちゃぁ、<br>命がいくつあっても足りないもんな……,저렇게 조종하면、<br>목숨이 몇 개 있어도 모자랄 걸……
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,ああ、だから私達は<br>騎空艇の操縦を生業とする者……<br>操舵士を仲間にする必要がある。,그래、 그래서 우리는<br>기공정의 조종을 생업으로 하는……<br>조타수를 동료로 삼아야 해.
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,そして、<br>その騎空艇で進むべき、<br>航路を記したもの……それが<span class='scene-font-spword'>空図</span>だ。,그리고 그 기공정으로 나아가야 할、<br>항로가 기록된 지도……<br>그게 <span class='scene-font-spword'>하늘지도</span>다.
+Japanese,scene_cp1_q1_s20、112,detail,루리아,それがあれば、瘴流域を抜けられるの?,그게 있으면<br>장류역을 뚫고 갈 수 있어?
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,むしろ、<span class='scene-font-spword'>空図</span>無しで瘴流域に挑むのは<br>自殺行為に等しい。<br>……一握りの化物を除いて、な。,오히려、<span class='scene-font-spword'>하늘 지도</span>없이 장류역에 도전하는 것은<br>자살행위나 다름 없어.<br>……소수의 괴물들에게는 다르겠지만.
+Japanese,scene_cp1_q1_s20、112,detail,비,けどよぅ、<span class='scene-font-spword'>空図</span>はバラバラになってて、<br>各島の守護神みたいな<br>大星晶獣が持ってるんだろ?,하지만、<span class='scene-font-spword'>하늘 지도</span>는 뿔뿔이 흩어져 있고、<br>각 섬의 수호신 같은<br>대 성정수가 가지고 있는 거지?
+Japanese,scene_cp1_q1_s20、112,detail,카타리나,そう言われているな……<br>まぁ、要するに私達は、<br>前途多難極まりないわけだ……,그렇게들 알려져 있더군……<br>일이 복잡하게 되었어.
+Japanese,scene_cp1_q1_s20、112,detail,마물,グオォォ!,그오오오!
+Japanese,scene_cp1_q1_s20、112,detail,비,っと、出やがったぜ! 魔物だ!<br>長い道のりになるのは間違いねぇが、<br>まずは目の前の敵から片付けねぇとな!,마물이 나왔다구! <br>먼 길이 되는 것은 틀림없지만、<br>우선은 눈 앞의 적부터 정리 해 버리자!
+Japanese,scene_cp1_q2_s10、121,synopsis,,街に着いた<span>[플레이어]</span>一行は操舵士を仲間にすべく、旅の世話をしてくれるよろず屋へと向かう。街の操舵士達は皆出払っているという中、名前の上がったとある男を訪ねるため、アンガド高原を目指す。,마을에 도착한<span>[플레이어]</span>일행은 조타수를 동료로 삼기 위해 만물상을 운영하고 있는 셰로카르테를 만난다. 그들은 섬에 남아 있는 조타수가 단 한 명이라는 이야기를 듣고、 그를 찾으러 나간다.
+Japanese,scene_cp1_q2_s10、121,detail,,<span class='scene-font-katari'>[플레이어]一行は空を渡る手段を求め、</span><br><span class='scene-font-katari'>騎空団の旅支度を整えてくれるという</span><br><span class='scene-font-katari'>よろず屋に来ていた。</span>,<span class='scene-font-katari'>[플레이어]일행은 하늘을 건널 수단을 찾던 중、</span><br><span class='scene-font-katari'>기공단의 여정에 도움을 준다는</span><br><span class='scene-font-katari'>해결사의 집에 도착하였다.</span>
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,いらっしゃ～い!<br>ご用件はなんですか～?,어서오세~요!<br>필요하신 게 있나요?
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,旅に必要な道具の手配から、<br>仕事の仲介、騎空士の斡旋まで、<br>よろず屋シェロちゃんにおまかせ～,여행에 필요한 도구 준비부터、<br>일자리 알선、 기공사 알선까지、<br>해결사 셰로쨩에게 맡겨 주세요～
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,旅の準備なら、<br>よろず屋によろ～ず!<br>うぷぷぷぷ……,여행 준비라면、<br>해결사의 집에서 해~결!<br>우후후후……
+Japanese,scene_cp1_q2_s10、121,detail,루리아,こんなちっちゃい子なのに<br>お店を切り盛りしてるなんて……<br>偉いですね!,이렇게 작은 아이인데<br>가게를 꾸려 나간다니……<br>대단하네요!
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,ちっちっち～<br>人を見かけで判断しちゃいけませんよ～,히히히～<br>사람을 겉모습으로 판단하면 안 돼요~
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,こう見えて、<br>海千山千百戦練磨の商人なんですから～<br>甘く見てると痛い目見ちゃいますよ～?,이래 봬도<br>산전수전 백전연승의 상인이니까요~<br>얕보면 큰코 다칠 거예요~?
+Japanese,scene_cp1_q2_s10、121,detail,카타리나,ははは……頼もしいな。<br>ところで店主、私達は<br>空を渡る手段が欲しいのだが……,하하하…… 믿음직스럽네.<br>근데 점장、 우리들은<br>하늘을 건널 수단이 필요한데……
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,密航ですか～?<br>それならいまキャンペーンが……,밀항인가요～?<br>그렇다면 지금……
+Japanese,scene_cp1_q2_s10、121,detail,카타리나,い、いや、違う!<br>私達は操舵士を<br>仲間にしたくてここに来たんだ。,아、 아니야、 달라!<br>우리들은 조타수를<br>구하고 있어서 여기 온 거야.
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,操舵士さんですか～<br>うーん……残念ですけど、<br>出払ってる方がほとんどですね～,조타수인가요~ <br>음…… 아쉽지만、 <br>거의 다들 이미 나가 계신단 말이죠~
+Japanese,scene_cp1_q2_s10、121,detail,셰로카르테,忙しい時期なんで～<br>腕の良い操舵士は<br>どこでも引っ張りだこなんですよ～,바쁜 시기라서~ <br>솜씨가 좋은 조타수는<br>어디에서든 인기쟁이란 말이죠~
+Japanese,scene_cp1_q2_s10、121,detail,루리아,そうなんですか……<br>どうしよう……,그런가요……<br>어쩌죠……
+Japanese,scene_cp1_q2_s10、121,detail,마을사람1,なぁ、操舵士ってんなら、<br>あいつがいいんじゃねぇか?,저기、 조타수라면、 <br>그 녀석이 좋지 않을까?
+Japanese,scene_cp1_q2_s10、121,detail,마을사람2,あいつって、ラカムのこと?<br>確かに腕もいいし、<br>暇そうにしてたけど……,그 녀석이라니、 라캄?<br>확실히 실력도 좋고、<br>한가해 보이긴 했지만……
+Japanese,scene_cp1_q2_s10、121,detail,마을사람3,ああ、だってあいつはもう……,아아、 그치만 그 녀석은 더 이상……
+Japanese,scene_cp1_q2_s10、121,detail,마을사람1,気が変わってるかもしれないだろ!<br>なぁ、トカゲ、<br>お前もそう思うよな?,마음이 바뀌었을지도 모르잖아!<br>어이、 도마뱀、 <br>너도 그렇게 생각하지?
+Japanese,scene_cp1_q2_s10、121,detail,비,いや、オイラに聞かれても困るぜ……<br>っていうか、トカゲゆーな! 噛むぞ!,아니、 나한테 물어봐도 곤란하다고……<br>그리고、 도마뱀이라고 부르지마! 물어버린다!
+Japanese,scene_cp1_q2_s10、121,detail,카타리나,ははは、落ち着けビィくん。<br>怒っていても可愛いぞ?,하하하、 진정해 비 군.<br>화내고 있어도 귀엽다고.
+Japanese,scene_cp1_q2_s10、121,detail,비,ううう、うっせー!<br>それでその、<br>ラカムって奴はどこにいるんだよ?,시、시끄러~!<br>그래서、<br>그 라캄이란 녀석은 어디에 있는 거야?
+Japanese,scene_cp1_q2_s10、121,detail,마을사람1,あいつはいつも、<br>街の外をひとりでぶらぶらしてるよ。,그 녀석은 항상<br>마을 밖에 혼자 머무르고 있어.
+Japanese,scene_cp1_q2_s10、121,detail,마을사람1,アンガド高原にある騎空艇の近くだ。<br>すぐに見つかるとは思うが……<br>魔物も出る場所だ、用心しろよ。,아마 안가도 고원에 있는 비공정 근처에 있을 거야.<br>금방 찾을 수 있겠지만……<br>마물도 나타나는 곳이니 조심해.
+Japanese,scene_cp1_q2_s10、121,detail,루리아,行ってみましょう、[플레이어]<br>どんな人か、<br>まずは会ってみてからです!,바로 가요! [플레이어]!<br>어떤 사람인지는<br>만나보면 알 수 있을 거예요!
+Japanese,scene_cp1_q2_s20、122,synopsis,,アンガド高原にあるという騎空艇を目指して進む<span>[플레이어]</span>一行。しかし、カタリナは騎空艇が高原に置かれているという状況に疑問を持つ。,안가도 고원에 있다는 비공정을 향해 움직이는 <span>[플레이어]</span>일행. 그러나、 카타리나는 비공정이 고원에 놓여있는 상황에 의문을 가진다.
+Japanese,scene_cp1_q2_s20、122,detail,비,騎空艇……<br>なかなか見えてこねーな。,비공정……<br>좀처럼 보이지 않네.
+Japanese,scene_cp1_q2_s20、122,detail,카타리나,この草原に騎空艇か……妙な話だな。,이 초원에 비공정이라……이상한 이야기네.
+Japanese,scene_cp1_q2_s20、122,detail,루리아,妙って?<br>だって、私達の乗ってきた騎空艇だって<br>いまは草原に置いてあると思うけど……,이상해?<br>그래도、 우리가 타고 온 비공정도<br>지금은 초원에 놓여져 있는 것 같은데……
+Japanese,scene_cp1_q2_s20、122,detail,카타리나,くっ……そ、それは、<br>墜落し……させてしまったからな……,"큿……그、 그건<br>추락……시켜 버렸으니까……"""
+Japanese,scene_cp1_q2_s20、122,detail,카타리나,騎空艇というのは<br>通常、島の外縁や高所の桟橋に<br>停泊するものなんだ。,기공정은<br>섬의 외곽이나 높은 곳의 선착장에<br>정박하는 것이 보통이야.
+Japanese,scene_cp1_q2_s20、122,detail,비,なんだかんだと考えるより、<br>行ってみるのが一番に決まってらぁ!<br>どんどん先に進もうぜ!,말로 하는 것보다<br>직접 가보는 게 최고야!<br>어서 가자구!
+Japanese,scene_cp1_q3_s10、131,synopsis,,ラカムという操舵士を仲間にすべく、高原の騎空艇を目指す<span>[플레이어]</span>一行。しかし、辿り着いたその場所に彼の姿はなく、<span>[플레이어]</span>達はエルステ帝国の一団を見つけ街に迫る危機を知る。,라캄이라는 이름의 하는 조타수를 동료로 삼기 위해 고원의 기공정으로 향하는<span>[플레이어]</span>일행. 그러나、 도착한 장소에 그의 모습은 없었다.<span>[플레이어]</span>일행은 에르스테 제국의 무리를 발견하고 다가올 위기를 직감한다.
+Japanese,scene_cp1_q3_s10、131,detail,비,――こいつが……<br>街の奴が言ってた騎空艇か?,――이게……<br>그 녀석이 말했던 비공정인가?
+Japanese,scene_cp1_q3_s10、131,detail,카타리나,そのようだが……<br>これはまるで……,그런 것 같지만……<br>이건 마치……
+Japanese,scene_cp1_q3_s10、131,detail,루리아,墜落してそのままって感じですね。,추락하고서 그대로 내버려 둔 느낌이네요.
+Japanese,scene_cp1_q3_s10、131,detail,카타리나,これがラカムとやらの、<br>愛機というわけではないのか……?<br>いったいなにが……,라캄이라는 사람이<br>애용하는 비공정이 아닌가……?<br>도대체 ……
+Japanese,scene_cp1_q3_s10、131,detail,카타리나,むっ!?<br>マズイな……[플레이어]、見えるか?<br><span class='scene-font-place'>エルステ帝国</span>の軍隊だ。,앗!?<br>위험해……[플레이어]、 저기 보여?<br><span class='scene-font-place'>에르스테 제국</span>의 군대다.
+Japanese,scene_cp1_q3_s10、131,detail,비,向こうはまだ<br>こっちに気づいてないみたいだぜ?<br>隠れようぜ! まだ間に合う!,저쪽은 아직<br>이쪽을 못 알아 챈 것 같은데?<br>숨자! 아직 늦지 않았어!
+Japanese,scene_cp1_q3_s10、131,detail,???,あーあーあー、面倒くさいなぁー<br>ねぇ、これ本当にボク必要?,아~ 귀찮네~<br>야、 이거 정말 내가 나서야 하는 거야?
+Japanese,scene_cp1_q3_s10、131,detail,제국병１,フュリアス将軍閣下……<br><span class='scene-font-place'>ポート・ブリーズ群島</span>は<br>以前から我々の支配を拒んでおり……,퓨리어스 각하……<br><span class='scene-font-place'>포트 브리즈 군도</span>는<br>예전부터 우리의 지배를 거부하고 있기에……
+Japanese,scene_cp1_q3_s10、131,detail,퓨리어스,知ってるよ! 馬鹿にしてんの?<br>ちっ……あーもうイライラするなぁ。<br>誰かこいつ、お仕置き部屋連れてって。,알고 있어! 내가 바보인 줄 알아?<br>칫……아~ 짜증 나.<br>이 자식 감옥에 가둬 버려.
+Japanese,scene_cp1_q3_s10、131,detail,제국병１,ひっ!?<br>フュ、フュリアス将軍!<br>先ほどの非礼は謹んでお詫びし……,감옥!?<br>퓨、 퓨리어스 장군님!<br>아까의 무례는 삼가 사죄 드립……
+Japanese,scene_cp1_q3_s10、131,detail,퓨리어스,黙れよ……<br>その首、この場ではねようか?<br>もういらないよね? ね?,닥쳐……<br>그 목、 이 자리에서 잘라줄까?<br>이제 필요없지? 그치?
+Japanese,scene_cp1_q3_s10、131,detail,제국병１,そ、そんな……,그、 그런……
+Japanese,scene_cp1_q3_s10、131,detail,퓨리어스,それでー?<br><span class='scene-font-place'>エルステ帝国</span>に抵抗する馬鹿どもを<br>どうする計画なんだっけ?,그래서~?<br><span class='scene-font-place'>감히 에르스테 제국</span>에 저항하는 놈들을<br>어떻게 할 계획이었지?
+Japanese,scene_cp1_q3_s10、131,detail,제국병２,はっ……<br>すでに兵を各所に配置し、<br>準備は整っております。,네……<br>이미 군사를 곳곳에 배치하였고<br>준비는 되어 있습니다.
+Japanese,scene_cp1_q3_s10、131,detail,제국병２,閣下の一声があれば、<br>すぐにでも街を<br>壊滅させてご覧に入れましょう。,각하께서 한마디만 하시면<br>지금 당장이라도 마을을<br>괴멸시킬 수 있습니다.
+Japanese,scene_cp1_q3_s10、131,detail,카타리나,<span class='scene-font-4'>――ふざけるなッ!!</span>,<span class='scene-font-4'>――까불지마!!</span>
+Japanese,scene_cp1_q3_s10、131,detail,퓨리어스,あ? 誰だい? 君。,하? 넌 누구야?
+Japanese,scene_cp1_q3_s10、131,detail,루리아,カ、カタリナ!<br>せっかく隠れてたのに……,카、 카타리나!<br>모처럼 숨어있었는데……
+Japanese,scene_cp1_q3_s10、131,detail,카타리나,先ほどから黙って聞いていれば<br><span class='scene-font-4'>……この外道が!!</span>,아까부터 잠자코 듣고 있자니<br><span class='scene-font-4'>……이 외도가!</span>
+Japanese,scene_cp1_q3_s10、131,detail,카타리나,帝国の支配への抵抗を理由に、<br>街を滅ぼすなど、<br>許されるわけがないだろう!!,제국의 지배에 저항한다는 이유만으로<br>마을을 멸망시키겠다니…<br>말이 된다고 생각하나?!
+Japanese,scene_cp1_q3_s10、131,detail,제국병２,こ、こいつら、<br>機密の少女と、<br>それを持ち出した護衛の……!?,이 녀석들<br>기밀인 소녀와<br>그를 탈출시킨 호위……!?
+Japanese,scene_cp1_q3_s10、131,detail,비,ああもう!<br>姐さんの気持ちはわからなくないけど、<br>ここは堪えてほしかったぜ!,아아、 정말!<br>누님의 마음은 알 수 없지만<br>여기서는 참았으면 좋겠어!
+Japanese,scene_cp1_q3_s10、131,detail,비,逃げるぞ!<br>ルリア! 姐さん! [플레이어]!<br>ここで捕まるわけにはいかねぇぜ!,도망치자!<br>루리아! 누님! [플레이어]!<br>여기서 잡힐 수는 없지!
+Japanese,scene_cp1_q3_s20、132,synopsis,,騎士としてあるべき姿を理解しつつも抑えきれないカタリナの正義感を垣間見つつ、<span>[플레이어]</span>一行は街の者に危機を伝える決意を新たにする。,기사로서의 모습을 이해하면서도 억제할 수 없는 카타리나의 정의감을 엿보았던 <span>[플레이어]</span>일행은 마을 사람들에게 위기를 전하는 결의를 다진다.
+Japanese,scene_cp1_q3_s20、132,detail,카타리나,――申し訳ない。,――정말 미안하다.
+Japanese,scene_cp1_q3_s20、132,detail,루리아,もういいよ、カタリナ。<br>あの人達に怒ってたのは、<br>カタリナだけじゃないもん。,이제 됐어요、 카타리나.<br>그 사람들에게 화난 건<br>카타리나 뿐만이 아니니까요.
+Japanese,scene_cp1_q3_s20、132,detail,루리아,むしろ、<br>カタリナが怒ってくれて<br>すっきりした……ね? [플레이어]。,오히려<br>카타리나가 화내 줘서<br>시원해졌어요…… 그쵸? [플레이어]
+Japanese,scene_cp1_q3_s20、132,detail,카타리나,あのような非道を目の前にすると、<br>つい熱くなってしまうんだ……,저런 악인을 눈 앞에 두면<br>결국 화를 내버리고 말아……
+Japanese,scene_cp1_q3_s20、132,detail,카타리나,騎士たるもの、<br>常に冷静であろうとは、<br>思っているのだが……,기사라면<br>항상 냉정해야 한다고<br>생각하고 있는데……
+Japanese,scene_cp1_q3_s20、132,detail,비,しかし、<br>とんでもねぇこと聞いちまったな……,그건 그렇고<br>말도 안 되는 소리를 듣고 말았네……
+Japanese,scene_cp1_q3_s20、132,detail,루리아,ですね……<br>帝国が攻めてくるって、<br>何とかして街の人達に伝えないと……!,음……<br>제국이 쳐들어온다는 걸<br>어떻게든 마을 사람들에게 전해야……!
+Japanese,scene_cp1_q3_s20、132,detail,비,だな!<br>まずは追ってきてる帝国の兵士を<br>なんとかしねぇと!,그렇겠지!<br>우선은 따라오고 있는 제국 병사를 어떻게든 해야지!
+Japanese,scene_cp1_q4_s10、141,synopsis,,エルステ帝国の一団と交戦する<span>[플레이어]</span>一行。数の利に押され、<span>[플레이어]</span>達は苦しい戦いを強いられる。しかし、帝国の将軍が高原の騎空艇を破壊しようとしたその時、空を裂く一撃が将軍を貫いた。,에르스테 제국의 군사들과 교전하는<span>[플레이어]</span>일행. 숫자에 밀려 <span>[플레이어]</span>일행은 힘든 싸움을 하게 된다. 그러나、 제국의 장군이 고원의 비공정을 파괴하려고 한 그때、 하늘을 찢는 일격이 장군을 멈추게 한다.
+Japanese,scene_cp1_q4_s10、141,detail,카타리나,むっ? こ、ここは……,뭣? 이、 이곳은…
+Japanese,scene_cp1_q4_s10、141,detail,루리아,逃げ回ってるうちに、<br>もとの騎空艇のそばまで、<br>戻って来ちゃった……,도망치고 있는 도중에<br>원래의 비공정 근처까지<br>돌아와 버렸어……
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,あれ!?<br>なんだい、<br>戻ってきてくれたの?,어라!?<br>어째서<br>돌아왔지?
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,嬉しいなぁ!<br>君達ってウチの国から、<br>指名手配を受けてるんだってね!,기쁜데!<br>너희들 말야~ 우리 제국의<br>지명수배 대상이라구!
+Japanese,scene_cp1_q4_s10、141,detail,???,将軍サマ、ご機嫌だねぇ～<br>いいねぇ～<br>こういう時の彼は嫌いじゃないなぁ～,장군님 기분이 좋아보이네～<br>좋아요～<br>이럴 때의 장군님은 싫지 않아요～
+Japanese,scene_cp1_q4_s10、141,detail,???,黙れ……立場をわきまえろ。,닥쳐…… 주제 파악 좀 해.
+Japanese,scene_cp1_q4_s10、141,detail,비,くそっ……しつこい連中だぜ!,젠장……짜증나는 놈들이라구!
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,ねぇねぇねぇ!<br>なんで戻ってきたの?,저기 있잖아!<br>왜 돌아왔어?
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,もしかしてさぁ、<br>あの艇で逃げようとか思ってた?<br>あたり? ねぇねぇ!,혹시 말야、<br>그 배로 도망갈까 생각했었어?<br>내가 맞췄지? 말해봐!
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,ぎゃははははは!!<br>こんなボロ艇、飛べるわけねーだろ!,으하하하하하하!!<br>이런 고물로 날 수 있을 리가 없잖아!
+Japanese,scene_cp1_q4_s10、141,detail,카타리나,やはりあの艇は<br>飛べる状態ではないのか……?,역시 그 배는<br>날 수 있는 상태가 아닌가……?
+Japanese,scene_cp1_q4_s10、141,detail,카타리나,上手く使えればと、<br>少しは思っていたが……,잘만 하면<br>날 수 있을 거라 생각하고 있었는데……
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,こんな! こんなボロ艇がさぁ!<br>空を? ぎゃははははは!!,이런! 이런 고물이!<br>하늘을? 으하하하하하!!
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,あー、でも、いいや、<br>念には念を入れておこうか。<br>おい、誰でもいい、この艇ぶっ壊せ。,아~ 하지만、 됐어.<br>혹시 모르니까.<br>야、 아무나 이 비공정、 부숴버려.
+Japanese,scene_cp1_q4_s10、141,detail,루리아,え? そんな……<br>そんな大きな傷だって無いし、<br>修理すればきっと……,에? 그런……<br>그렇게 큰 손상도 아니고<br>수리하면 분명……
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,飛ばれちゃ困るんだよなぁ!!<br>おい! 誰か早く……,그러니까 날아가면 곤란하다고!<br>어이! 아무나 빨리……
+Japanese,scene_cp1_q4_s10、141,detail,퓨리어스,<span class='scene-font-5'>ふぎゃっ!?</span>,<span class='scene-font-5'>후갸!?</span>
+Japanese,scene_cp1_q4_s10、141,detail,???,ったく、<br>ボロだとかなんだとか、<br>好き勝手言いやがって……,정말이지<br>남의 배에<br>제멋대로 말하고……
+Japanese,scene_cp1_q4_s10、141,detail,???,おい、そこのチビ!<br>俺の艇になにしようとしやがる!!,어이、 거기 꼬마!<br>내 비공정에 뭘 하려고 하는 거야!
+Japanese,scene_cp1_q4_s10、141,detail,비,おい、あいつ!<br>不時着したオイラ達に、<br>色々言って去ってった奴じゃねーか!?,어이、 저 사람!<br>우리가 불시착 했을 때<br>말을 걸어왔던 사람이잖아!?
+Japanese,scene_cp1_q4_s10、141,detail,제국병２,なんだ貴様は!<br>貴様、こいつらの仲間か!?,뭐야 너는!<br>네놈、 이놈들의 동료인가!?
+Japanese,scene_cp1_q4_s10、141,detail,???,は?<br>いやいやいやいや、え? なに?<br>どういうこと?,허?<br>아니아니아니아니아니아니? 뭐라고?<br>무슨 말이야?
+Japanese,scene_cp1_q4_s10、141,detail,제국병２,問答無用だ! ひっ捕らえろ!,문답무용! 잡아라!
+Japanese,scene_cp1_q4_s10、141,detail,카타리나,マズイぞ!<br>あの男も追われている!,큰일났다!<br>저 남자도 쫓기고 있다!
+Japanese,scene_cp1_q4_s10、141,detail,비,ってもオイラ達も逃げねーと!<br>今度こそ、<br>道に迷ってる余裕はねーぞ!,하지만 우리들도 도망가야지!<br>이번에야 말로<br>길을 헤매고 있을 여유는 없다구!
+Japanese,scene_cp1_q4_s20、142,synopsis,,エルステ帝国の兵士達に追い詰められ、絶体絶命の危機に瀕したその時、<span>[플레이어]</span>達に助言を与えた謎の男が救いの手を差し伸べる。,에르스테 제국의 병사들에게 쫓겨 절체절명의 위기에 처한 그때、 <span>[플레이어]</span>일행에게 조언을 해 준 수수께끼의 남자가 구원의 손길을 내민다.
+Japanese,scene_cp1_q4_s20、142,detail,루리아,どうしよう……追い詰められてる!,어떡하지…… 따라잡히고 있어요!
+Japanese,scene_cp1_q4_s20、142,detail,카타리나,万事休すといったところか……,이제 끝인가…
+Japanese,scene_cp1_q4_s20、142,detail,???,おい、てめぇら! こっちだ!,어이、 너희들! 이쪽이다!
+Japanese,scene_cp1_q4_s20、142,detail,비,あんたは!?,너는!?
+Japanese,scene_cp1_q4_s20、142,detail,???,こっちに俺の隠れ家がある!<br>案内するからついて来い!,이쪽에 내 은신처가 있어!<br>안내할 테니까 따라와!
+Japanese,scene_cp1_q4_s20、142,detail,비,だ、そうだぜ!<br>[플레이어]!<br>あいつを追おう!,그래!<br>[플레이어]!<br>저 놈을 따라가자!
+Japanese,scene_cp1_q4_s20、142,detail,제국병２,<span class='scene-font-4'>逃がすものか!</span>,<span class='scene-font-4'>놓칠까보냐!</span>
+Japanese,scene_cp1_q4_s30、143,synopsis,,謎の男に助けられた<span>[플레이어]</span>一行は、男の隠れ家である地下教会で、この男こそが凄腕の操舵士と謳われるラカムであることを知る。,수수께끼의 남자에게 도움을 받은 <span>[플레이어]</span> 일행은 남자의 은신처에서 이 남자야말로 엄청난 실력의 조타수로 명성이 자자한 라캄임을 알게 된다.
+Japanese,scene_cp1_q4_s30、143,detail,???,ふぅ……<br>帝国はもう、<br>探すのを諦めたみたいだぜ。,후우……<br>제국은<br>찾는 걸 포기한 것 같아.
+Japanese,scene_cp1_q4_s30、143,detail,카타리나,かたじけない……<br>いまといい、不時着したときといい……<br>助けられてばかりだな。,고맙다……<br>지금도 불시착했을 때도……<br>도움을 받기만 하네.
+Japanese,scene_cp1_q4_s30、143,detail,라캄,ったく……<br>俺はラカムってんだが、<br>アンタ達は何者なんだ?,정말이지……<br>나는 라캄이라고 하는데<br>너희들은 누구야?
+Japanese,scene_cp1_q4_s30、143,detail,,<span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>自分達の置かれている状況を説明した。</span>,<span class='scene-font-katari'>[플레이어] 일행은</span><br><span class='scene-font-katari'>자신들이 처한 상황을 설명했다.</span>
+Japanese,scene_cp1_q4_s30、143,detail,비,ま、そーいうわけで、<br>オイラ達には、<br>操舵士の仲間が必要なんだ!,뭐、 그런 이유로<br>우리들은<br>조타수 동료가 필요해!
+Japanese,scene_cp1_q4_s30、143,detail,라캄,へぇ……そりゃ大変なこって。,헤에…… 그거 큰일이네.
+Japanese,scene_cp1_q4_s30、143,detail,카타리나,まさか君が、<br>街で名を聞いたラカムだったとはな。<br>いや……これも何かの縁か。,설마 네가<br>그 라캄일 줄은 몰랐는데.<br>아니……이것도 인연인가.
+Japanese,scene_cp1_q4_s30、143,detail,루리아,あの……<br>急なお願いなのはわかってるんですけど<br>私達の……仲間になってくれませんか?,저기……<br>갑작스런 부탁인 건 알고 있지만…<br>저희 동료가 되어주시지 않겠어요?
+Japanese,scene_cp1_q4_s30、143,detail,라캄,ああ……断る。,아아…… 거절한다.
+Japanese,scene_cp1_q4_s30、143,detail,비,えっ!?<br>だって、不時着したときも、<br>あんなに親切に……,엣!?<br>불시착했을 때도<br>그렇게 친절하게……
+Japanese,scene_cp1_q4_s30、143,detail,라캄,あれは、<br>艇が可哀想だったから言っただけだ。,그건<br>비공정이 불쌍해서 한 말이야.
+Japanese,scene_cp1_q4_s30、143,detail,라캄,それにな……俺は空を捨てたんだ。<br>もう二度と空は飛ばねぇ……<br>舵を握ることもねぇだろうよ。,게다가 말이야……나는 하늘을 버렸어.<br>이제 두 번 다시 하늘을 날지 않아……<br>다시는 키를 잡을 일도 없을 거야.
+Japanese,scene_cp1_q4_s30、143,detail,,<span class='scene-font-katari'>そう語るラカムの表情は硬く、</span><br><span class='scene-font-katari'>その拒否の裏側にある真意を、</span><br><span class='scene-font-katari'>決して見せようとはしていなかった。,<span class='scene-font-katari'>그렇게 말하는 라캄의 표정은 굳어 있었고</span><br><span class='scene-font-katari'>그 거절 뒤에 있는 진의를</span><br><span class='scene-font-katari'>결코 보여주려 하지 않았다.</span>
+Japanese,scene_cp1_q4_s30、143,detail,퓨리어스,ぐ……が……,으……윽……
+Japanese,scene_cp1_q4_s30、143,detail,???,あーらーらー<br>将軍サマ、大丈夫なのこれ?<br>当たり所悪いんじゃないの? これ。,아~아~아~<br>장군님、 괜찮아 이거?<br>안 좋은 곳 맞은 거 아니야? 이거.
+Japanese,scene_cp1_q4_s30、143,detail,???,心配いらない……<br>聞いてるだろ、こいつは大丈夫だ。<br>少し時間は必要みたいだけどな。,걱정할 필요 없어……<br>이 녀석은 괜찮아<br>조금 시간은 필요하겠지만.
+Japanese,scene_cp1_q4_s30、143,detail,???,そういやそうだっけ?<br>とはいえ、しばらく起きないなら、<br>僕達の出番かな?,아 그래?<br>그렇지만、 당분간 일어나지 않는다면 <br>우리 차례인가?
+Japanese,scene_cp1_q4_s30、143,detail,???,だろうな……,그렇겠지……
+Japanese,scene_cp1_q4_s30、143,detail,???,そっかそっか、うんうん。<br>お金は貰っちゃってるし、<br>それ相応のお仕事はしないとねっ!,그렇구나、 응응<br>돈은 받아버렸고<br>걸맞는 일을 하지 않으면 안 되겠네!
 
-English,"scene_tutorial_scene_cp1_q1_s10,111",synopsis,,[플레이어] and the others crash-land on an island. A mysterious man appears and gives them a piece of advice.,"<span class='scene-font-place'>장크틴젤</span>을 떠나,바람이 이끄는 대로 새로운 섬에 도달한 <span>[플레이어]</span>일행. 하지만 <span>[플레이어]</span>일행이 타고 온 기공정은 불시착하는 바람에 완전히 부서져 버리는데,마침 그곳에 나타난 한 남자가 <span>[플레이어]</span>에게 조언을 준다."
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"Having departed Zinkenstill, [플레이어] and the others head for a nearby island to prepare for the coming journey.","<span class='scene-font-place'>장그틴젤</span><span class='scene-font-katari'>을 날아오른 일행은</span><br><span class='scene-font-katari'>여행 준비를 갖추기 위해,</span><br><span class='scene-font-katari'>인근의 섬으로 가고 있었다.</span>"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,But Katalina's inexperienced piloting causes the airship to sputter and smoke before suddenly losing altitude.,"<span class='scene-font-katari'>그러나 카타리나의 서투른 조종 탓에,</span><br><span class='scene-font-katari'>기공정은 굉음과 검은 연기를 내며,</span><br><span class='scene-font-katari'>추락하고 있다.</span>"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,It's here on the gusty green fields below where the sky-wide tale of [플레이어] begins...,<span class='scene-font-katari'>너른 초원에 부드러운 바람이 불어 오는 이 땅에서</span><br><span class='scene-font-katari'>하늘 끝에 이르는</span><br><span class='scene-font-katari'>[플레이어]의 이야기가 시작을 알린다</span>
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"Is everyone all right?<br>What about you, Lyria?",콜록……<br>모두 무사한가?<br>루리아는……?
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,루리아,"I'm fine... Are you okay, [플레이어]?",괜찮아……콜록콜록.<br>[플레이어]는 괜찮나요?
-English,"scene_tutorial_scene_cp1_q1_s10,111",sel1_txt,,Just barely...,<span class='scene-font-katari'>어떻게든…..</span>
-English,"scene_tutorial_scene_cp1_q1_s10,111",sel2_txt,,I don't think I can stand!,<span class='scene-font-katari'>설 수 없을 것 같아……</span>
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,루리아,That's a relief... The airship shook so much that I thought you might've been hurt.,"다행이네요……<br>굉장히 흔들렸으니까,<br>다친 줄 알았어요……"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"We've done training tougher than that! Right, [플레이어]?",멋으로 수행을 하고 있는 게 아니야!<br>그치! [플레이어]!
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"What are you moaning about, [플레이어]? You're not gonna let a knock like that keep you down!","무슨 소리야,[플레이어]!<br>이까짓것 때문에 설 수 없을 정도로,<br>약한 놈은 아니잖아!"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,But what happened? Did we just drop out of the sky?,그런데……<br>뭐가 어떻게 된 거야?<br>추락한 거야?
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,I'm sorry... I never imagined piloting an airship would be so difficult.,"면목 없군……<br>기공정의 조종이,<br>이렇게까지 어려울 줄이야……"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"Whoa, whoa, whoa! What do we have here?","――어이, 어이, 이게 다 뭐야?"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,"A stranger has suddenly appeared next to the airship, inspecting it carefully.","<span class='scene-font-katari'>목소리가 들리는 쪽을,</span><br><span class='scene-font-katari'>그 옆에는 낯선 남자가 서 있었다.</span>"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"You've really done a job on her. I reckon you've blown the power unit... Look, the keel's cracked too!","정말이지,위험한  짓들을 해대는구만……<br>동력부가 폭발한 건가……?<br>우왓, 용골도 깨져 버렸어……"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,Repairs aren't gonna get this thing flying again. So... is this your airship?,"이래서는 이제,어떻게 수리해도<br>이놈은 두 번 다시 하늘로 날 수 가 없겠는데?<br>이봐……너희가 타고 온 거야?"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"Well, yes, but... who are you?",그렇긴 한데…당신은?
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"I get it. You're an airship crew, right? But by the looks of you, you can't have been around for long...","뭐야……너희들 기공단인가?<br>그런데,인원수를 보면,<br>이제 막 시작한 참인가……"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,A crew? That's not a bad idea! How about we all form a crew?,기공단이라……그거 좋겠네!<br>우리들끼리 기공단을<br>세우는 거야!
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"Hey, [플레이어]! Before your dad left for Estalucia, he led an airship crew, you know!","어이,[플레이어]!<br>너희 아버지도 <span class='scene-font-spword'>별의 섬</span>에 가기 전에는,<br>기공단을 이끌었다고 말했었어!"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,Ha! You can forget that! It's clear you don't have an expert among you to pilot an airship.,"참나……그만둬.<br>기공정을 띄우려면,<br>특별한 기술이 필요하다고."
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,???,"If you plan on calling yourself a crew, you need at least one helmsman on board before anything gets started.","기공단이라고 자칭하고 싶으면,<br>조타수 한 명이라도 동료로 삼지 그래."
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,,The mystery man turns and walks away without another word.,"<span class='scene-font-katari'>그렇게 말을 남기고,</span><br><span class='scene-font-katari'>의문의 사나이는 [플레이어] 앞에서 떠났다.</span>"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"A helmsman, eh? He's right. If we plan to continue this journey, we're surely going to need one.","조타수, 그래.<br>확실히,여행을 계속하려면<br>꼭 필요하겠군."
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,비,"Sure, sure. But what's with that guy? Saying his piece and leaving just like that...","그보다, 뭐야? 그 녀석.<br>자기 할 말만 하고 어딘가 가 버렸어…"
-English,"scene_tutorial_scene_cp1_q1_s10,111",detail,카타리나,"Who knows? In any case, we should find a town and prepare for the journey to come.","글쎄… <br>어쨌든,지금은 마을로 가자.<br>거기서 여행 채비를 할 수 있을 거야."
-English,"scene_cp1_q1_s20,112",synopsis,,"While on the way to town, Katalina explains to [플레이어] and the others what they need for the journey ahead.","마을을 향하며,<span>[플레이어]</span>일행은 카타리나의 말을 따라,상황을 정리하고 여행을 준비하기 시작한다."
-English,"scene_cp1_q1_s20,112",detail,비,Hey! I can see a town! It's huge!,마을이 보이기 시작 했어!<br>꽤 큰 마을이네!
-English,"scene_cp1_q1_s20,112",detail,카타리나,"If my guess is correct, then we're on Eingana, the main island of the Port Breeze Archipelago.","바람에 떠밀려온 걸로 봐서,<br>여기는 <span class='scene-font-place'>포트 브리즈 군도</span>의 주도,<br>에인가나 섬 일거야."
-English,"scene_cp1_q1_s20,112",detail,카타리나,These islands do a fair bit of trade. A trip to town should get us everything we need.,"이 군도는 교역이 왕성하거든.<br>마을까지 가면,<br>뭐든지 구할 수 있을 거야."
-English,"scene_cp1_q1_s20,112",detail,루리아,"And after that, Katalina, what'll we need to do next on our journey?","저기,카타리나<br>하늘을 여행 하려면 무엇이 필요할까?"
-English,"scene_cp1_q1_s20,112",detail,카타리나,Good question. First we have to get through the Grim Basin.,"그렇지……<br>먼저 우리는, 이러니 저러니 해도 우선 <span class='scene-font-place'>장류역</span>을 통과해야 해."
-English,"scene_cp1_q1_s20,112",detail,루리아,"Oh, I've heard of that! It's the scary thing that splits the sky into pieces, right?",아! 알아! 그거!<br>음…… 뭔가 무서운 것이 하늘을 <br>슈욱 하고 조각 내버리는 그거지?
-English,"scene_cp1_q1_s20,112",detail,카타리나,Exactly. It's filled with a dangerous miasma and divides the sky into different skydoms.,"바로 그거야. 독기로 가득찬 일대, 장류역이 세계를 여러 공역으로 구분하고 있지."
-English,"scene_cp1_q1_s20,112",detail,카타리나,"Port Breeze is part of the Phantagrande Skydom, which is mostly under the control of the Erste Empire.",여기 <span class='scene-font-place'>포트 브리즈 군도</span>를 포함한 공역은<br>파타 그란데 공역이라고 불리고……<br><span class='scene-font-place'>에르스테 제국</span>의 세력권이기도 하지.
-English,"scene_cp1_q1_s20,112",detail,카타리나,"And it seems you've been paying attention to my geography lessons, Lyria. I'm proud of you.","내 수업을 잘 듣고 있었구나.<br>기특하구나, 루리아."
-English,"scene_cp1_q1_s20,112",detail,루리아,"Hee-hee! You hear that, Lizzie?","에헤헤～!<br>저기,도마뱀씨!<br>나,칭찬받았어!"
-English,"scene_cp1_q1_s20,112",detail,비,How many times do I have to tell you? I ain't no lizard!,"그러니까 나는,<br>도마뱀이 아니라구!"
-English,"scene_cp1_q1_s20,112",detail,비,So? What do we need to get through this Grim Basin?,"그래서?<br>그 장류역을 돌파하려면,<br>도대체 뭐가 필요한 거야?"
-English,"scene_cp1_q1_s20,112",detail,카타리나,"We need two things, broadly speaking: transport and a map.","크게 두 가지,<br>이동 수단과,<span class='scene-font-spword'>하늘지도(공도)</span>다."
-English,"scene_cp1_q1_s20,112",detail,카타리나,Our transport's got to be an airship. But we can't have an amateur at the helm. That I know for sure...,"이동 수단이란 건 주로 기공정을 말해.<br>하지만,초보자의 조종으로는<br>매우 위험하다는 것을 뼈저리게 깨달았지……"
-English,"scene_cp1_q1_s20,112",detail,비,I saw my life flash before my eyes when we made that landing.,"저렇게 조종하면,<br>목숨이 몇 개 있어도 모자랄 걸……"
-English,"scene_cp1_q1_s20,112",detail,카타리나,We'll need a helmsman to join us... And they'll have to have some real know-how.,"그래,그래서 우리는<br>기공정의 조종을 생업으로 하는……<br>조타수를 동료로 삼아야 해."
-English,"scene_cp1_q1_s20,112",detail,카타리나,We also need something that shows the route to take. And that's the sky map.,"그리고<br>그 기공정으로 나아가야 할 ,<br>항로가 기록된 지도…… 그게 <span class='scene-font-spword'>하늘지도</span>이다."
-English,"scene_cp1_q1_s20,112",detail,루리아,So we can get through the basin with just those things?,그게 있으면 장류역을 뚫고 갈 수 있어?
-English,"scene_cp1_q1_s20,112",detail,카타리나,More like we couldn't come even close to it without them. And then there's the monsters...,"오히려,<span class='scene-font-spword'>하늘지도</span>없이 장류역에 도전하는 것은<br>자살행위나 다름없어.<br>……소수의 괴물들에게는 다르겠지만."
-English,"scene_cp1_q1_s20,112",detail,비,"On top of that, the sky map is scattered across islands, right? With a great primal beast guarding each one?","하지만,<span class='scene-font-spword'>하늘지도</span>는 뿔뿔이 흩어져 있고,<br>각 섬의 수호신 같은<br>대 성정수가 가지고 있지?"
-English,"scene_cp1_q1_s20,112",detail,카타리나,That's what they say. I think we've got ourselves a hard road ahead...,그렇게들 알려져 있더군…… 일이 복잡하게 되었네…
-English,"scene_cp1_q1_s20,112",detail,마물,Groaaar!,그오오오!
-English,"scene_cp1_q1_s20,112",detail,비,"Whoa! We've got a monster too!<br>There may be a hard road ahead, but first things first!","마물이 나왔다구! <br>먼 길이 되는 것은 틀림없지만,<br>우선은 눈 앞의 적부터 정리 해 버리자!"
-English,"scene_cp1_q2_s10,121",synopsis,,[플레이어] and the others meet Sierokarte who runs the Knickknack Shack. They learn of the one remaining helmsman on the island and go out in search of him.,"마을에 도착한<span>[플레이어]</span>일행은 조타수를 동료로 삼기 위해 만물상을 운영하고 있는 셰로카르테를 만난다. 그들은 섬에 남아 있는 조타수가 단 한 명이라는 이야기를 듣고, 그를 찾으러 나간다."
-English,"scene_cp1_q2_s10,121",detail,,[플레이어] and the others stop by the Knickknack Shack to prepare for their journey across the sky.,"<span class='scene-font-katari'>[플레이어]일행은 하늘을 건널 수단을 찾던 와중,</span><br><span class='scene-font-katari'>기공단의 여정에 도움을 준다는</span><br><span class='scene-font-katari'>해결사의 집에 도착하였다.</span>"
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,Welcome! How can I help you this lovely day?,어서오세~요!<br>필요하신 게 있나요?
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,"Journeys, jobs, or skyfarers' hearts!<br>Leave it all to Sierokarte!","여행에 필요한 도구 준비부터,<br>일자리 알선,기공사 알선까지,<br>해결사 셰로쨩에게 맡겨줘～"
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,Need some items to fill your pack?<br>Come on by the Knickknack Shack! Hee-hee...,"여행 준비라면,<br>해결사의 집에서 해~결!<br>우후후후……"
-English,"scene_cp1_q2_s10,121",detail,루리아,You run this place all by yourself? That's very impressive for someone your size!,이렇게 작은 아이인데<br>가게를 꾸려 나간다니……<br>대단하네요!
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,"Now, now! Never judge a book by its cover!",히히히～<br>사람을 겉모습으로 판단하면 안 돼요~
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,I'm an entrepreneur extraordinaire!<br>Underestimate me? I wouldn't dare!,이래 봬도<br>산전수전 백전연승의 상인이니까요~<br>얕보면 큰 코 다칠 거예요~?
-English,"scene_cp1_q2_s10,121",detail,카타리나,"You sound quite reliable! Anyway, shopkeep, we're trying to find a way across the sky...","하하하…… 믿음직스럽네.<br>근데 점장,우리들은<br>하늘을 지나갈 수단이 필요한데……"
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,"Stowaways, eh? You're in luck since I've got a sale on people-sized luggage...",밀항인가요～?<br>그렇다면 지금……
-English,"scene_cp1_q2_s10,121",detail,카타리나,No! You've got us wrong! We're looking for a helmsman to join us.,"아,아니야,달라!<br>우리들은 조타수를<br>구하고 있어서 여기 온 거야."
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,"A helmsman, eh? Hm... I'm afraid most of them are out on other business.","조타수 인가요~ <br>음…… 아쉽지만, <br>거의 다들 이미 나가 계신단 말이죠~"
-English,"scene_cp1_q2_s10,121",detail,셰로카르테,"It's the busy season, you know! Every helmsman worth their salt gets snatched right up!",바쁜 시기라서~ <br>솜씨가 좋은 조타수는<br>어디에서든 인기쟁이란 말이죠~
-English,"scene_cp1_q2_s10,121",detail,루리아,Really? What do we do now?,그런가요……<br>어쩔까요……
-English,"scene_cp1_q2_s10,121",detail,마을사람1,They're looking for a helmsman. What about... you-know-who?,"저기, 조타수라면, <br>저 녀석이 좋지 않을까?"
-English,"scene_cp1_q2_s10,121",detail,마을사람2,"You-know-who? You mean Rackam? I mean, he <span class='scene-font-italic'>is</span> good, and he's got some serious time on his hands...","저 녀석이라니, 라캄? <br>확실히 실력도 좋고,<br>한가해 보이긴 했다만……"
-English,"scene_cp1_q2_s10,121",detail,마을사람3,But I hear he's given up on airships.,"아아, 그치만 그 녀석은 더 이상……"
-English,"scene_cp1_q2_s10,121",detail,마을사람1,"Well he might've changed his mind!<br>Isn't that right, lizard?","마음이 바뀌었을지도 모르잖아!<br>어이, 도마뱀, <br>너도 그렇게 생각하지?"
-English,"scene_cp1_q2_s10,121",detail,비,"Well, I dunno abou—Wait! Quit calling me a lizard! You wanna get bit?","아니, 나한테 물어봐도 곤란하다고……<br>그리고, 도마뱀이라고 부르지마! 물어버린다!"
-English,"scene_cp1_q2_s10,121",detail,카타리나,"Settle down, Vyrn! You only get cuter when you're mad.","하하하, 진정해 비군.<br>화내고 있어도 귀엽다고."
-English,"scene_cp1_q2_s10,121",detail,비,"Oooh! Just cut it out!<br>Anyway, where can we find this Rackam guy?","시,시끄러~!<br>그래서,<br>그 라캄이란 녀석은 어디에 있는 거야?"
-English,"scene_cp1_q2_s10,121",detail,마을사람1,He's always on the outskirts of town doing who knows what.,그 녀석은 항상 <br>마을 밖에서 혼자 놀고 있어.
-English,"scene_cp1_q2_s10,121",detail,마을사람1,Check near the airship in the Angads Highlands. Don't think you'll have trouble finding him... or monsters. So be careful!,아마 안가도 고원에 있는 비공정 근처에 있을 거야.<br>금방 찾을 수 있겠지만……<br>마물도 나타나는 곳이니 조심해.
-English,"scene_cp1_q2_s10,121",detail,루리아,"It's worth a shot, [플레이어]! We can figure out what kind of guy he is once we meet him!",바로 가요! [플레이어]!<br>어떤 사람인지는<br>만나보면 알 수있을 거예요!
-English,"scene_cp1_q2_s20,122",synopsis,,[플레이어] and the others set out in search of the airship on the Angads Highlands. But Katalina has her doubts as to whether they'll actually find one.,"안가도 고원에 있다는 비공정을 목표로 이동하는 <span>[플레이어]</span>일행. 그러나, 카타리나는 비공정이 고원에 놓여있는 상황에 의문을 가진다."
-English,"scene_cp1_q2_s20,122",detail,비,If there's an airship here... I'm not seeing it.,비공정……<br>좀처럼 보이지 않네.
-English,"scene_cp1_q2_s20,122",detail,카타리나,An airship on the highlands... Sounds odd to me.,이 초원에 비공정이라……이상한 이야기네.
-English,"scene_cp1_q2_s20,122",detail,루리아,Odd? I don't know... Our ship is on the highlands right now too.,"이상해?<br>그래도, 우리가 타고 온 비공정도<br>지금은 초원에 놓여져 있는 것 같은데……"
-English,"scene_cp1_q2_s20,122",detail,카타리나,"Ah! Well, that's because it crashed. Or should I say... <span class='scene-font-italic'>I</span> crashed it.","큿……그, 그건<br>추락……시켜 버렸으니까……"""
-English,"scene_cp1_q2_s20,122",detail,카타리나,Airships normally anchor at the jutties on an island or the outskirts.,기공정은<br>섬의 외곽이나 높은 곳의 선착장에<br>정박하는 것이 보통이야.
-English,"scene_cp1_q2_s20,122",detail,비,But are we gonna just stand here talkin' about it? Let's get moving!,어쩌고 저쩌고 하는 것보다<br>직접 가보는게 최고야!<br>조금씩 앞으로 나아가자구!
-English,"scene_cp1_q3_s10,131",synopsis,,[플레이어] and the others find an airship in the highlands as well as a group of imperial soldiers about to threaten the town.,"라캄이라는 이름의 하는 조타수를 동료로 삼기 위해 고원의 기공정으로 향하는<span>[플레이어]</span>일행. 그러나, 도착한 장소에 그의 모습은 없었다.<span>[플레이어]</span>일행은 에르스테 제국의 무리를 발견하고 다가올 위기를 직감한다."
-English,"scene_cp1_q3_s10,131",detail,비,So is this the airship the townspeople were talking about?,――이놈이……<br>그 녀석이 말했던 비공정인가?
-English,"scene_cp1_q3_s10,131",detail,카타리나,"It seems that way, but...",그런 것 같지만……<br>이건 마치……
-English,"scene_cp1_q3_s10,131",detail,루리아,It looks like it crashed here a while ago.,추락하고서 그대로 내버려 둔 느낌이네요
-English,"scene_cp1_q3_s10,131",detail,카타리나,Could this really be Rackam's airship? What happened to it?,라캄이라는 사람이<br>애용하는 비공정이 아닌가……?<br>도대체 ……
-English,"scene_cp1_q3_s10,131",detail,카타리나,"Ah! We've got trouble... You see them too, right, [플레이어]? They're soldiers of the Erste Empire.","앗!?<br>위험해……[플레이어],저기 보여?<br><span class='scene-font-place'>에르스테 제국</span>의 군대다."
-English,"scene_cp1_q3_s10,131",detail,비,They haven't spotted us yet. We need to hide! Now!,저쪽은 아직<br>이쪽을 못 알아 챈 것 같은데?<br>숨자! 아직 늦지 않았어!
-English,"scene_cp1_q3_s10,131",detail,???,"Oooh, this is so aggravating! Do I really have to be here for this?","아~ 귀찮네~<br>야,이거 정말 내가 필요한거야?"
-English,"scene_cp1_q3_s10,131",detail,제국병１,"General Furias, Port Breeze has a history of resisting the empire, you see...",퓨리어스 장군 각하……<br><span class='scene-font-place'>포트 브리즈 군도</span>는<br>예전부터 우리의 지배를 거부하고 있기에……
-English,"scene_cp1_q3_s10,131",detail,퓨리어스,I know that! Are you some sort of wise guy? Tch... Now you've ruined my mood. Somebody take him to the torture chamber!,알고 있어! 내가 바보인 줄 알아?<br>칫……아~ 짜증 나.<br>이 자식 감옥에 가둬 버려.
-English,"scene_cp1_q3_s10,131",detail,제국병１,Eek! General Furias! I apologize for my earlier insolence!,"감옥!?<br>퓨,퓨리어스 장군님!<br>아까의 무례는 삼가 사죄 드립……"
-English,"scene_cp1_q3_s10,131",detail,퓨리어스,"Cease your yapping... Or maybe you could do without a head! You don't seem to use it much, now do you?","닥쳐……<br>그 목, 이 자리에서 잘라줄까?<br>이제 필요없지? 그치?"""
-English,"scene_cp1_q3_s10,131",detail,제국병１,But... I...,"그,그런……"""
-English,"scene_cp1_q3_s10,131",detail,퓨리어스,So? How fares the plan to deal with those idiot conspirators?,그래서~?<br><span class='scene-font-place'>감히 에르스테 제국</span>에 저항하는 놈들을<br>어떻게 할 계획이었지?
-English,"scene_cp1_q3_s10,131",detail,제국병２,Sir! The troops are in place. Everything's ready to go.,네……<br>이미 군사를 곳곳에 배치하여<br>준비는 되어 있습니다.
-English,"scene_cp1_q3_s10,131",detail,제국병２,"Simply give the word, sir, and you'll be audience to the town's magnificent destruction.",각하께서 한마디만 하시면<br>지금 당장이라도 마을을<br>괴멸시킬 수 있습니다.
-English,"scene_cp1_q3_s10,131",detail,카타리나,Not if I have a say!,<span class='scene-font-4'>――까불지마!!</span>
-English,"scene_cp1_q3_s10,131",detail,퓨리어스,Oh? And who are you?,하? 넌 누구야?
-English,"scene_cp1_q3_s10,131",detail,루리아,Katalina! We're supposed to be <span class='scene-font-italic'>hiding</span>!,"카, 카타리나!<br>모처럼 숨어있었는데……"
-English,"scene_cp1_q3_s10,131",detail,카타리나,I've been listening to what you plan to do. And it's heinous!,아까부터 잠자코 듣고 있자니<br><span class='scene-font-4'>……이 외도가!</span>
-English,"scene_cp1_q3_s10,131",detail,카타리나,How dare you destroy a town for simply resisting the empire! I won't stand for it!,제국의 지배에 저항한다는 이유만으로<br>마을을 멸망시키겠다니…<br>말이 된다고 생각하나?!
-English,"scene_cp1_q3_s10,131",detail,제국병２,Unbelievable. It's the girl we held captive and the guard who helped her escape...,이 녀석들<br>기밀인 소녀와<br>그를 탈출시킨 호위……!?
-English,"scene_cp1_q3_s10,131",detail,비,"Oh, gimme a break! We get your point, Knightalina, but you couldn't wait till later to make it?","아아, 정말!<br>누님의 마음은 알 수 없지만<br>여기서는 참았으면 좋겠어!"
-English,"scene_cp1_q3_s10,131",detail,비,"Time to run, guys! No way we're getting caught here!",도망치자!<br>루리아! 누님! [플레이어]!<br>여기서 잡힐 수는 없지!
-English,"scene_cp1_q3_s20,132",synopsis,,[플레이어] and the others must find a way to warn the townspeople of the impending danger.,기사로서의 모습을 이해하면서도 억제할 수 없는 카타리나의 정의감을 엿보았던 <span>[플레이어]</span>일행은 마을 사람들에게 위기를 전하는 결의를 다진다.
-English,"scene_cp1_q3_s20,132",detail,카타리나,I sincerely apologize...,――정말 미안하다.
-English,"scene_cp1_q3_s20,132",detail,루리아,"It's okay, Katalina. You're not the only one who's upset!","이제 됐어,카타리나.<br>그 사람들에게 화난 건<br>카타리나 뿐만이 아니야"
-English,"scene_cp1_q3_s20,132",detail,루리아,"Besides, it was neat how you stuck it to them like that! Right, [플레이어]?",오히려<br>카타리나가 화내 줘서<br>시원해졌어……그쵸? [플레이어]
-English,"scene_cp1_q3_s20,132",detail,카타리나,"Seeing such injustice just... riles me up, I guess.",저런 악인을 눈 앞에 두면<br>결국 화를 내버리고 말아……
-English,"scene_cp1_q3_s20,132",detail,카타리나,"I know a knight must always keep a level head, but in this case...",기사라면<br>항상 냉정해야 한다고<br>생각하고 있는데……
-English,"scene_cp1_q3_s20,132",detail,비,"It's tough to keep it together when you hear something like that, huh?",그건 그렇고<br>말도 안 되는 소리를 듣고 말았네……
-English,"scene_cp1_q3_s20,132",detail,루리아,You said it. And we've got to find a way to warn the townspeople too!,음……<br>제국이 쳐들어온다는 걸<br>어떻게든 마을 사람들에게 전해야……!
-English,"scene_cp1_q3_s20,132",detail,비,Yeah! But first we gotta do something about these imperial soldiers on our tails!,그렇겠지!<br>우선은 따라오고 있는 제국 병사를 어떻게든 해야지!
-English,"scene_cp1_q4_s10,141",synopsis,,"[플레이어] and the others run into the soldiers again who've brought new friends. Furias attempts to destroy the grounded airship, but he's stopped by a mysterious man.","에르스테 제국의 군사들과 교전하는<span>[플레이어]</span>일행. 숫자에 밀려 <span>[플레이어]</span>일행은 힘든 싸움을 하게 된다. 그러나, 제국의 장군이 고원의 비공정을 파괴하려고 한 그때, 하늘을 찢는 일격이 장군을 멈추게 한다."
-English,"scene_cp1_q4_s10,141",detail,카타리나,Hm? Wait a second...,"뭣? 이, 이곳은…"
-English,"scene_cp1_q4_s10,141",detail,루리아,"After all that running around, we're back where we started!",도망치고 있는 도중에<br>원래의 비공정 근처까지<br>돌아와 버렸어……
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,"Oh? Well now, look who's back!",어라!?<br>어째서<br>돌아왔지?
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,"You've made me the happiest general in the world! You see, the empire's given orders to capture you!",기쁜데!<br>너희들 말야~ 우리 제국의<br>지명수배 대상이라구!
-English,"scene_cp1_q4_s10,141",detail,???,"My, my, I've never seen you in such high spirits, sir! Why, you almost manage to pass for likable!",장군님 기분이 좋아보이네～<br>좋아요～<br>이럴 때의 장군님은 싫지 않아요～
-English,"scene_cp1_q4_s10,141",detail,???,Shut it. And learn your place already.,닥쳐…… 주제 파악 좀 해.
-English,"scene_cp1_q4_s10,141",detail,비,Good grief! Now they've brought more of their buddies around!,젠장……짜증나는 놈들이라구!
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,So tell me! What brings you back?,저기 있잖아!<br>왜 돌아왔어?
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,"Let me guess! You were thinking of hopping on that airship and scuttling away, right? Did I guess it?","혹시 말야,<br>그 배로 도망갈까 생각했었어?<br>내가 맞췄지? 말해봐!"
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,Ha-ha-ha! This beat-up hunk of junk couldn't fly an inch!,으하하하하하하!!<br>이런 고물로 날 수 있을 리가 없잖아!
-English,"scene_cp1_q4_s10,141",detail,카타리나,I had a feeling it wasn't fit to fly...,역시 그 배는<br>날 수 있는 상태가 아닌가……?
-English,"scene_cp1_q4_s10,141",detail,카타리나,But I was hoping there might be a way still.,잘만 하면<br>날 수 있을 거라 생각하고 있었는데……
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,You think it can fly? This scrap heap? Ha-ha-ha!,이런! 이런 고물이!<br>하늘을? 으하하하하하!!
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,"Still, you can never be too careful...<br>So destroy the airship! Someone! Anyone!","아~,하지만,됐어,<br>혹시 모르니까,<br>야,아무나 빨리 이 비공정을 부숴버려."
-English,"scene_cp1_q4_s10,141",detail,루리아,But why? It's hardly damaged so if we just fix it up a little...,에? 그런……<br>그렇게 큰 손상도 아니고<br>수리하면 분명……
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,Why would I let you do a thing like that? Now hurry up and <span class='scene-font-italic'>destroy it</span> before I—,그러니까 날아가면 곤란하다고!<br>어이! 아무나 빨리……
-English,"scene_cp1_q4_s10,141",detail,퓨리어스,Ouch!,<span class='scene-font-5'>후갸!?</span>
-English,"scene_cp1_q4_s10,141",detail,???,"Scrap heap, huh? Can't have you shooting your mouth off like that...",정말이지<br>남의 배를<br>제멋대로 말하고……
-English,"scene_cp1_q4_s10,141",detail,???,"Hey, short stuff! What are you trying to do to my airship?","어이, 거기 꼬마!<br>내 비공정에 뭘 하려고 하는 거야!!"
-English,"scene_cp1_q4_s10,141",detail,비,Whoa! That's the weird guy we talked to after the crash!,"어이, 저 사람!<br>우리가 불시착 했을 때<br>말을 걸어왔던 사람이잖아!?"
-English,"scene_cp1_q4_s10,141",detail,제국병２,Who are you? One of their cohorts?,"뭐야 너는!<br>네놈, 이놈들의 동료인가!?"
-English,"scene_cp1_q4_s10,141",detail,???,"What? Wait, wait, wait! A cohort? I think you've got me wrong here!",허?<br>아니아니아니아니아니아니? 뭐라고?<br>무슨 말이야?
-English,"scene_cp1_q4_s10,141",detail,제국병２,Too late! Arrest this man!,문답무용! 잡아라!
-English,"scene_cp1_q4_s10,141",detail,카타리나,This is bad! Now they're after him!,큰일났다!<br>저 남자도 쫓기고 있다!
-English,"scene_cp1_q4_s10,141",detail,비,"But we've gotta run, guys! And not in a circle this time!",하지만 우리들도 도망가야지!<br>이번에야 말로<br>길을 헤매고 있을 여유는 없다구!
-English,"scene_cp1_q4_s20,142",synopsis,,"Cornered by imperial soldiers, [플레이어] and the others seem doomed until the mysterious man appears again to give them a hand.","에르스테 제국의 병사들에게 쫓겨 절체절명의 위기에 처한 그때, <span>[플레이어]</span>일행에게 조언을 해 준 수수께끼의 남자가 구원의 손길을 내민다."
-English,"scene_cp1_q4_s20,142",detail,루리아,Oh no! They're closing in on us!,어떡하지……따라잡히고 있어요!
-English,"scene_cp1_q4_s20,142",detail,카타리나,This might be the end...,이제 끝인가…
-English,"scene_cp1_q4_s20,142",detail,???,Hey! Over here!,"어이, 너희들! 이쪽이다!"
-English,"scene_cp1_q4_s20,142",detail,비,It's you again!,너는!?
-English,"scene_cp1_q4_s20,142",detail,???,I've got a hideout! And I'll take you there so follow me.,이쪽에 내 은신처가 있어!<br>안내할 테니까 따라와!
-English,"scene_cp1_q4_s20,142",detail,비,"C'mon, [플레이어]! Let's follow him!",그래!<br>[플레이어]!<br>저 놈을 따라가자!
-English,"scene_cp1_q4_s20,142",detail,제국병２,Cowards! You won't get away from us!,<span class='scene-font-4'>놓칠까보냐!</span>
-English,"scene_cp1_q4_s30,143",synopsis,,"[플레이어] and the others learn that the mysterious man is actually Rackam, but he refuses to be their helmsman.",수수께끼의 남자에게 도움을 받은 <span>[플레이어]</span> 일행은 남자의 은신처에서 이 남자야말로 엄청난 실력의 조타수로 명성이 자자한 라캄임을 알게 된다.
-English,"scene_cp1_q4_s30,143",detail,???,Whew... Looks like they finally gave up on the search.,후우……<br>제국은<br>찾는 걸 포기한 것 같아.
-English,"scene_cp1_q4_s30,143",detail,카타리나,"We're in your debt. After the crash and even up against soldiers, you've helped us countless times.",고맙다……<br>지금도 불시착했을 때도……<br>도움을 받기만 하네.
-English,"scene_cp1_q4_s30,143",detail,라캄,You can say that again! The name's Rackam. How about you?,정말이지……<br>나는 라캄이라고 하는데<br>너희들은 누구야?
-English,"scene_cp1_q4_s30,143",detail,,[플레이어] and the others introduce themselves and tell him how they came to be stranded.,<span class='scene-font-katari'>[플레이어] 일행은</span><br><span class='scene-font-katari'>자신들이 처한 상황을 설명했다.</span>
-English,"scene_cp1_q4_s30,143",detail,비,And that's why we gotta find ourselves a helmsman!,"뭐, 그런 이유로<br>우리들은<br>조타수 동료가 필요해!"
-English,"scene_cp1_q4_s30,143",detail,라캄,Wow... Sounds like you're in a pickle.,헤에……그거 큰일이네.
-English,"scene_cp1_q4_s30,143",detail,카타리나,And to think all along you were the helmsman we were looking for. This can't be mere coincidence.,설마 네가<br>그 라캄일 줄은 몰랐는데.<br>아니……이것도 인연인가.
-English,"scene_cp1_q4_s30,143",detail,루리아,"I know this might seem a bit sudden to ask, but could you join us?",저기……<br>갑작스런 부탁인 건 알고 있습지만<br>우리의……동료가 되어주지 않겠습니까?
-English,"scene_cp1_q4_s30,143",detail,라캄,Nope. I'll pass.,아아……거절한다
-English,"scene_cp1_q4_s30,143",detail,비,Really? But you were so nice to us when we crashed...,엣!?<br>불시착했을 때도<br>그렇게 친절하게……
-English,"scene_cp1_q4_s30,143",detail,라캄,I just felt sorry for that poor airship.,그건<br>비공정이 불쌍해서 한 말이야.
-English,"scene_cp1_q4_s30,143",detail,라캄,"Besides, I've given up on the sky. I'll never pilot an airship again...",게다가 말이야……나는 하늘을 버렸어<br>이제 두 번 다시 하늘을 날지 않아……<br>다시는 키를 잡을 일도 없을 거야.
-English,"scene_cp1_q4_s30,143",detail,,Rackam's expression turns stiff as he struggles to conceal his true feelings on the matter.,<span class='scene-font-katari'>그렇게 말하는 라캄의 표정은 굳어 있었고</span><br><span class='scene-font-katari'>그 거절 뒤에 있는 진의를</span><br><span class='scene-font-katari'>결코 보여주려 하지 않았다.</span>
-English,"scene_cp1_q4_s30,143",detail,퓨리어스,Agh...,으……윽……
-English,"scene_cp1_q4_s30,143",detail,???,Oh my! Is our little general gonna be all right? Does he need his mommy to come kiss his boo-boos?,"아~아~아~<br>장군님, 괜찮아 이거?<br>안 좋은 곳 맞은 거 아니야? 이거."
-English,"scene_cp1_q4_s30,143",detail,???,"No need to worry. He said he's fine, didn't he? All he needs is some time to rest.",걱정할 필요 없어……<br>이 녀석은 괜찮아<br>조금 시간은 필요하겠지만.
-English,"scene_cp1_q4_s30,143",detail,???,"Well, I don't think he's getting up any time soon. Which means it's our time to shine!","아 그래?<br>그렇지만, 당분간 일어나지 않는다면<br>우리의 차례인가?"
-English,"scene_cp1_q4_s30,143",detail,???,Guess so...,그렇겠지……
-English,"scene_cp1_q4_s30,143",detail,???,"Yes, indeed! We're getting paid, aren't we? That's as good a reason to work as any!","그렇구나, 응응<br>돈은 받아버렸고<br>걸맞는 일을 하지 않으면 안돼!"
+English,scene_tutorial_scene_cp1_q1_s10、111,synopsis,,[플레이어] and the others crash-land on an island. A mysterious man appears and gives them a piece of advice.,<span class='scene-font-place'>장크틴젤</span>을 떠나、바람이 이끄는 대로 새로운 섬에 도달한 <span>[플레이어]</span>일행. 하지만 <span>[플레이어]</span>일행이 타고 온 기공정은 불시착하는 바람에 완전히 부서져 버린다. 그때、 마침 그곳에 나타난 한 남자가 <span>[플레이어]</span>에게 조언을 준다.
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,,Having departed Zinkenstill、 [플레이어] and the others head for a nearby island to prepare for the coming journey.,<span class='scene-font-place'>장그틴젤</span><span class='scene-font-katari'>을 벗어난 일행은</span><br><span class='scene-font-katari'>여행 준비를 갖추기 위해、</span><br><span class='scene-font-katari'>인근의 섬으로 향한다.</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,,But Katalina's inexperienced piloting causes the airship to sputter and smoke before suddenly losing altitude.,<span class='scene-font-katari'>그러나 카타리나의 서투른 조종 탓에、</span><br><span class='scene-font-katari'>기공정은 굉음과 검은 연기를 내며、</span><br><span class='scene-font-katari'>추락한다.</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,,It's here on the gusty green fields below where the sky-wide tale of [플레이어] begins...,<span class='scene-font-katari'>너른 초원 위로 부드러운 바람이 내달리는 이곳에서、</span><br><span class='scene-font-katari'>하늘 끝에 이르기 위한</span><br><span class='scene-font-katari'>[플레이어]의 이야기가 시작된다.</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,Is everyone all right?<br>What about you、 Lyria?,콜록……<br>모두 무사한가?<br>루리아는……?
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,루리아,I'm fine... Are you okay、 [플레이어]?,괜찮아요……콜록콜록.<br>[플레이어]는 괜찮나요?
+English,scene_tutorial_scene_cp1_q1_s10、111,sel1_txt,,Just barely...,<span class='scene-font-katari'>어떻게든…..</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,sel2_txt,,I don't think I can stand!,<span class='scene-font-katari'>설 수 없을 것 같아……</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,루리아,That's a relief... The airship shook so much that I thought you might've been hurt.,다행이네요……<br>굉장히 흔들렸으니까、<br>다친 줄 알았어요……
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,비,We've done training tougher than that! Right、 [플레이어]?,멋으로 수행을 하고 있는 게 아니야!<br>그치! [플레이어]!
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,비,What are you moaning about、 [플레이어]? You're not gonna let a knock like that keep you down!,무슨 소리야、 [플레이어]!<br>이 정도 일로 쓰러질 정도로、<br>약한 놈은 아니잖아!
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,비,But what happened? Did we just drop out of the sky?,그런데……<br>뭐가 어떻게 된 거야?<br>추락한 거야?
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,I'm sorry... I never imagined piloting an airship would be so difficult.,면목 없군……<br>기공정의 조종이、<br>이렇게까지 어려울 줄이야……
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,???,Whoa、 whoa、 whoa! What do we have here?,――어이、 어이. 이게 다 뭐야?
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,,A stranger has suddenly appeared next to the airship、 inspecting it carefully.,<span class='scene-font-katari'>목소리가 들리는 쪽을 보자、</span><br><span class='scene-font-katari'>낯선 남자가 서 있었다.</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,???,You've really done a job on her. I reckon you've blown the power unit... Look、 the keel's cracked too!,정말이지、 위험한  짓들을 해대는구만……<br>동력부가 폭발한 건가……?<br>우왓、 용골도 깨져 버렸어……
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,???,Repairs aren't gonna get this thing flying again. So... is this your airship?,이래서는 이제、어떻게 수리해도<br>이놈은 두 번 다시 하늘로 날 수 없겠는데?<br>이봐…… 너희 비공정이야?
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,Well、 yes、 but... who are you?,그렇긴 한데…당신은?
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,???,I get it. You're an airship crew、 right? But by the looks of you、 you can't have been around for long...,뭐야……너희들、 기공단인가?<br>인원수를 보면、<br>이제 막 시작한 참인가……
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,비,A crew? That's not a bad idea! How about we all form a crew?,기공단이라……그거 좋겠네!<br>우리들끼리 기공단을<br>만드는 거야!
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,비,Hey、 [플레이어]! Before your dad left for Estalucia、 he led an airship crew、 you know!,어이、 [플레이어]!<br>너희 아버지도 <span class='scene-font-spword'>별의 섬</span>에 가기 전에는、<br>기공단을 이끌었다고 말했었잖아!
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,???,Ha! You can forget that! It's clear you don't have an expert among you to pilot an airship.,참나…… 그만 둬.<br>기공정을 띄우려면、<br>특별한 기술이 필요하다고.
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,???,If you plan on calling yourself a crew、 you need at least one helmsman on board before anything gets started.,기공단이라고 자칭하고 싶으면、<br>조타수 한 명이라도 동료로 삼지 그래.
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,,The mystery man turns and walks away without another word.,<span class='scene-font-katari'>그런 말을 남기고、</span><br><span class='scene-font-katari'>의문의 남자는 [플레이어] 앞에서 떠났다.</span>
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,A helmsman、 eh? He's right. If we plan to continue this journey、 we're surely going to need one.,조타수、 그래.<br>확실히、여행을 계속하려면<br>꼭 필요하겠군.
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,비,Sure、 sure. But what's with that guy? Saying his piece and leaving just like that...,그보다、 뭐야? 그 녀석.<br>자기 할 말만 하고 어딘가 가 버렸어…
+English,scene_tutorial_scene_cp1_q1_s10、111,detail,카타리나,Who knows? In any case、 we should find a town and prepare for the journey to come.,글쎄… <br>어쨌든、지금은 마을로 가자.<br>거기서 여행 채비를 할 수 있을 거야.
+English,scene_cp1_q1_s20、112,synopsis,,While on the way to town、 Katalina explains to [플레이어] and the others what they need for the journey ahead.,<span>[플레이어]</span>일행은 카타리나의 말을 따라、 상황을 정리하고 여행을 준비하기 시작한다.
+English,scene_cp1_q1_s20、112,detail,비,Hey! I can see a town! It's huge!,마을이 보여!<br>꽤 큰 마을이네!
+English,scene_cp1_q1_s20、112,detail,카타리나,If my guess is correct、 then we're on Eingana、 the main island of the Port Breeze Archipelago.,아마도、 여기는 <span class='scene-font-place'>포트 브리즈 군도</span>의 주도、<br>에인가나 섬 일거야.
+English,scene_cp1_q1_s20、112,detail,카타리나,These islands do a fair bit of trade. A trip to town should get us everything we need.,이 근처는 교역이 왕성하지<br>마을까지 가면、<br>뭐든지 구할 수 있을 거야.
+English,scene_cp1_q1_s20、112,detail,루리아,And after that、 Katalina、 what'll we need to do next on our journey?,저기、 카타리나<br>하늘을 여행 하려면 무엇이 필요한가요?
+English,scene_cp1_q1_s20、112,detail,카타리나,Good question. First we have to get through the Grim Basin.,그렇지……<br>먼저 우리는、 우선 <span class='scene-font-place'>장류역</span>을 통과해야 해.
+English,scene_cp1_q1_s20、112,detail,루리아,Oh、 I've heard of that! It's the scary thing that splits the sky into pieces、 right?,아! 알아! 그거!<br>음…… 뭔가 무서운 것이 하늘을 <br>슈욱 하고 나누고 있는 그거지?
+English,scene_cp1_q1_s20、112,detail,카타리나,Exactly. It's filled with a dangerous miasma and divides the sky into different skydoms.,바로 그거야. 독기로 가득찬 일대、 장류역이 세계를 여러 공역으로 구분하고 있지.
+English,scene_cp1_q1_s20、112,detail,카타리나,Port Breeze is part of the Phantagrande Skydom、 which is mostly under the control of the Erste Empire.,여기 <span class='scene-font-place'>포트 브리즈 군도</span>를 포함한 공역은<br>파타 그랑데 공역이라고 불리고……<br><span class='scene-font-place'>에르스테 제국</span>의 세력권이기도 해요.
+English,scene_cp1_q1_s20、112,detail,카타리나,And it seems you've been paying attention to my geography lessons、 Lyria. I'm proud of you.,내 수업을 잘 듣고 있었구나.<br>기특하구나、 루리아.
+English,scene_cp1_q1_s20、112,detail,루리아,Hee-hee! You hear that、 Lizzie?,헤헤～!<br>저기、 도마뱀 씨!<br>저、 칭찬 받았어요!
+English,scene_cp1_q1_s20、112,detail,비,How many times do I have to tell you? I ain't no lizard!,그러니까 나는、<br>도마뱀이 아니라구!
+English,scene_cp1_q1_s20、112,detail,비,So? What do we need to get through this Grim Basin?,그래서?<br>그 장류역을 돌파하려면、<br>도대체 뭐가 필요한 거야?
+English,scene_cp1_q1_s20、112,detail,카타리나,We need two things、 broadly speaking: transport and a map.,크게 두 가지、<br>이동 수단과、<span class='scene-font-spword'>하늘 지도</span>다.
+English,scene_cp1_q1_s20、112,detail,카타리나,Our transport's got to be an airship. But we can't have an amateur at the helm. That I know for sure...,이동 수단이란 건 주로 기공정을 말해.<br>하지만、 초보자의 조종으로는<br>매우 위험하다는 것을 뼈저리게 깨달았지……
+English,scene_cp1_q1_s20、112,detail,비,I saw my life flash before my eyes when we made that landing.,저렇게 조종하면、<br>목숨이 몇 개 있어도 모자랄 걸……
+English,scene_cp1_q1_s20、112,detail,카타리나,We'll need a helmsman to join us... And they'll have to have some real know-how.,그래、 그래서 우리는<br>기공정의 조종을 생업으로 하는……<br>조타수를 동료로 삼아야 해.
+English,scene_cp1_q1_s20、112,detail,카타리나,We also need something that shows the route to take. And that's the sky map.,그리고 그 기공정으로 나아가야 할、<br>항로가 기록된 지도……<br>그게 <span class='scene-font-spword'>하늘지도</span>다.
+English,scene_cp1_q1_s20、112,detail,루리아,So we can get through the basin with just those things?,그게 있으면<br>장류역을 뚫고 갈 수 있어?
+English,scene_cp1_q1_s20、112,detail,카타리나,More like we couldn't come even close to it without them. And then there's the monsters...,오히려、<span class='scene-font-spword'>하늘 지도</span>없이 장류역에 도전하는 것은<br>자살행위나 다름 없어.<br>……소수의 괴물들에게는 다르겠지만.
+English,scene_cp1_q1_s20、112,detail,비,On top of that、 the sky map is scattered across islands、 right? With a great primal beast guarding each one?,하지만、<span class='scene-font-spword'>하늘 지도</span>는 뿔뿔이 흩어져 있고、<br>각 섬의 수호신 같은<br>대 성정수가 가지고 있는 거지?
+English,scene_cp1_q1_s20、112,detail,카타리나,That's what they say. I think we've got ourselves a hard road ahead...,그렇게들 알려져 있더군……<br>일이 복잡하게 되었어.
+English,scene_cp1_q1_s20、112,detail,마물,Groaaar!,그오오오!
+English,scene_cp1_q1_s20、112,detail,비,Whoa! We've got a monster too!<br>There may be a hard road ahead、 but first things first!,마물이 나왔다구! <br>먼 길이 되는 것은 틀림없지만、<br>우선은 눈 앞의 적부터 정리 해 버리자!
+English,scene_cp1_q2_s10、121,synopsis,,[플레이어] and the others meet Sierokarte who runs the Knickknack Shack. They learn of the one remaining helmsman on the island and go out in search of him.,마을에 도착한<span>[플레이어]</span>일행은 조타수를 동료로 삼기 위해 만물상을 운영하고 있는 셰로카르테를 만난다. 그들은 섬에 남아 있는 조타수가 단 한 명이라는 이야기를 듣고、 그를 찾으러 나간다.
+English,scene_cp1_q2_s10、121,detail,,[플레이어] and the others stop by the Knickknack Shack to prepare for their journey across the sky.,<span class='scene-font-katari'>[플레이어]일행은 하늘을 건널 수단을 찾던 중、</span><br><span class='scene-font-katari'>기공단의 여정에 도움을 준다는</span><br><span class='scene-font-katari'>해결사의 집에 도착하였다.</span>
+English,scene_cp1_q2_s10、121,detail,셰로카르테,Welcome! How can I help you this lovely day?,어서오세~요!<br>필요하신 게 있나요?
+English,scene_cp1_q2_s10、121,detail,셰로카르테,Journeys、 jobs、 or skyfarers' hearts!<br>Leave it all to Sierokarte!,여행에 필요한 도구 준비부터、<br>일자리 알선、 기공사 알선까지、<br>해결사 셰로쨩에게 맡겨 주세요～
+English,scene_cp1_q2_s10、121,detail,셰로카르테,Need some items to fill your pack?<br>Come on by the Knickknack Shack! Hee-hee...,여행 준비라면、<br>해결사의 집에서 해~결!<br>우후후후……
+English,scene_cp1_q2_s10、121,detail,루리아,You run this place all by yourself? That's very impressive for someone your size!,이렇게 작은 아이인데<br>가게를 꾸려 나간다니……<br>대단하네요!
+English,scene_cp1_q2_s10、121,detail,셰로카르테,Now、 now! Never judge a book by its cover!,히히히～<br>사람을 겉모습으로 판단하면 안 돼요~
+English,scene_cp1_q2_s10、121,detail,셰로카르테,I'm an entrepreneur extraordinaire!<br>Underestimate me? I wouldn't dare!,이래 봬도<br>산전수전 백전연승의 상인이니까요~<br>얕보면 큰코 다칠 거예요~?
+English,scene_cp1_q2_s10、121,detail,카타리나,You sound quite reliable! Anyway、 shopkeep、 we're trying to find a way across the sky...,하하하…… 믿음직스럽네.<br>근데 점장、 우리들은<br>하늘을 건널 수단이 필요한데……
+English,scene_cp1_q2_s10、121,detail,셰로카르테,Stowaways、 eh? You're in luck since I've got a sale on people-sized luggage...,밀항인가요～?<br>그렇다면 지금……
+English,scene_cp1_q2_s10、121,detail,카타리나,No! You've got us wrong! We're looking for a helmsman to join us.,아、 아니야、 달라!<br>우리들은 조타수를<br>구하고 있어서 여기 온 거야.
+English,scene_cp1_q2_s10、121,detail,셰로카르테,A helmsman、 eh? Hm... I'm afraid most of them are out on other business.,조타수인가요~ <br>음…… 아쉽지만、 <br>거의 다들 이미 나가 계신단 말이죠~
+English,scene_cp1_q2_s10、121,detail,셰로카르테,It's the busy season、 you know! Every helmsman worth their salt gets snatched right up!,바쁜 시기라서~ <br>솜씨가 좋은 조타수는<br>어디에서든 인기쟁이란 말이죠~
+English,scene_cp1_q2_s10、121,detail,루리아,Really? What do we do now?,그런가요……<br>어쩌죠……
+English,scene_cp1_q2_s10、121,detail,마을사람1,They're looking for a helmsman. What about... you-know-who?,저기、 조타수라면、 <br>그 녀석이 좋지 않을까?
+English,scene_cp1_q2_s10、121,detail,마을사람2,You-know-who? You mean Rackam? I mean、 he <span class='scene-font-italic'>is</span> good、 and he's got some serious time on his hands...,그 녀석이라니、 라캄?<br>확실히 실력도 좋고、<br>한가해 보이긴 했지만……
+English,scene_cp1_q2_s10、121,detail,마을사람3,But I hear he's given up on airships.,아아、 그치만 그 녀석은 더 이상……
+English,scene_cp1_q2_s10、121,detail,마을사람1,Well he might've changed his mind!<br>Isn't that right、 lizard?,마음이 바뀌었을지도 모르잖아!<br>어이、 도마뱀、 <br>너도 그렇게 생각하지?
+English,scene_cp1_q2_s10、121,detail,비,Well、 I dunno abou—Wait! Quit calling me a lizard! You wanna get bit?,아니、 나한테 물어봐도 곤란하다고……<br>그리고、 도마뱀이라고 부르지마! 물어버린다!
+English,scene_cp1_q2_s10、121,detail,카타리나,Settle down、 Vyrn! You only get cuter when you're mad.,하하하、 진정해 비 군.<br>화내고 있어도 귀엽다고.
+English,scene_cp1_q2_s10、121,detail,비,Oooh! Just cut it out!<br>Anyway、 where can we find this Rackam guy?,시、시끄러~!<br>그래서、<br>그 라캄이란 녀석은 어디에 있는 거야?
+English,scene_cp1_q2_s10、121,detail,마을사람1,He's always on the outskirts of town doing who knows what.,그 녀석은 항상<br>마을 밖에 혼자 머무르고 있어.
+English,scene_cp1_q2_s10、121,detail,마을사람1,Check near the airship in the Angads Highlands. Don't think you'll have trouble finding him... or monsters. So be careful!,아마 안가도 고원에 있는 비공정 근처에 있을 거야.<br>금방 찾을 수 있겠지만……<br>마물도 나타나는 곳이니 조심해.
+English,scene_cp1_q2_s10、121,detail,루리아,It's worth a shot、 [플레이어]! We can figure out what kind of guy he is once we meet him!,바로 가요! [플레이어]!<br>어떤 사람인지는<br>만나보면 알 수 있을 거예요!
+English,scene_cp1_q2_s20、122,synopsis,,[플레이어] and the others set out in search of the airship on the Angads Highlands. But Katalina has her doubts as to whether they'll actually find one.,안가도 고원에 있다는 비공정을 향해 움직이는 <span>[플레이어]</span>일행. 그러나、 카타리나는 비공정이 고원에 놓여있는 상황에 의문을 가진다.
+English,scene_cp1_q2_s20、122,detail,비,If there's an airship here... I'm not seeing it.,비공정……<br>좀처럼 보이지 않네.
+English,scene_cp1_q2_s20、122,detail,카타리나,An airship on the highlands... Sounds odd to me.,이 초원에 비공정이라……이상한 이야기네.
+English,scene_cp1_q2_s20、122,detail,루리아,Odd? I don't know... Our ship is on the highlands right now too.,이상해?<br>그래도、 우리가 타고 온 비공정도<br>지금은 초원에 놓여져 있는 것 같은데……
+English,scene_cp1_q2_s20、122,detail,카타리나,Ah! Well、 that's because it crashed. Or should I say... <span class='scene-font-italic'>I</span> crashed it.,"큿……그、 그건<br>추락……시켜 버렸으니까……"""
+English,scene_cp1_q2_s20、122,detail,카타리나,Airships normally anchor at the jutties on an island or the outskirts.,기공정은<br>섬의 외곽이나 높은 곳의 선착장에<br>정박하는 것이 보통이야.
+English,scene_cp1_q2_s20、122,detail,비,But are we gonna just stand here talkin' about it? Let's get moving!,말로 하는 것보다<br>직접 가보는 게 최고야!<br>어서 가자구!
+English,scene_cp1_q3_s10、131,synopsis,,[플레이어] and the others find an airship in the highlands as well as a group of imperial soldiers about to threaten the town.,라캄이라는 이름의 하는 조타수를 동료로 삼기 위해 고원의 기공정으로 향하는<span>[플레이어]</span>일행. 그러나、 도착한 장소에 그의 모습은 없었다.<span>[플레이어]</span>일행은 에르스테 제국의 무리를 발견하고 다가올 위기를 직감한다.
+English,scene_cp1_q3_s10、131,detail,비,So is this the airship the townspeople were talking about?,――이게……<br>그 녀석이 말했던 비공정인가?
+English,scene_cp1_q3_s10、131,detail,카타리나,It seems that way、 but...,그런 것 같지만……<br>이건 마치……
+English,scene_cp1_q3_s10、131,detail,루리아,It looks like it crashed here a while ago.,추락하고서 그대로 내버려 둔 느낌이네요.
+English,scene_cp1_q3_s10、131,detail,카타리나,Could this really be Rackam's airship? What happened to it?,라캄이라는 사람이<br>애용하는 비공정이 아닌가……?<br>도대체 ……
+English,scene_cp1_q3_s10、131,detail,카타리나,Ah! We've got trouble... You see them too、 right、 [플레이어]? They're soldiers of the Erste Empire.,앗!?<br>위험해……[플레이어]、 저기 보여?<br><span class='scene-font-place'>에르스테 제국</span>의 군대다.
+English,scene_cp1_q3_s10、131,detail,비,They haven't spotted us yet. We need to hide! Now!,저쪽은 아직<br>이쪽을 못 알아 챈 것 같은데?<br>숨자! 아직 늦지 않았어!
+English,scene_cp1_q3_s10、131,detail,???,Oooh、 this is so aggravating! Do I really have to be here for this?,아~ 귀찮네~<br>야、 이거 정말 내가 나서야 하는 거야?
+English,scene_cp1_q3_s10、131,detail,제국병１,General Furias、 Port Breeze has a history of resisting the empire、 you see...,퓨리어스 각하……<br><span class='scene-font-place'>포트 브리즈 군도</span>는<br>예전부터 우리의 지배를 거부하고 있기에……
+English,scene_cp1_q3_s10、131,detail,퓨리어스,I know that! Are you some sort of wise guy? Tch... Now you've ruined my mood. Somebody take him to the torture chamber!,알고 있어! 내가 바보인 줄 알아?<br>칫……아~ 짜증 나.<br>이 자식 감옥에 가둬 버려.
+English,scene_cp1_q3_s10、131,detail,제국병１,Eek! General Furias! I apologize for my earlier insolence!,감옥!?<br>퓨、 퓨리어스 장군님!<br>아까의 무례는 삼가 사죄 드립……
+English,scene_cp1_q3_s10、131,detail,퓨리어스,Cease your yapping... Or maybe you could do without a head! You don't seem to use it much、 now do you?,닥쳐……<br>그 목、 이 자리에서 잘라줄까?<br>이제 필요없지? 그치?
+English,scene_cp1_q3_s10、131,detail,제국병１,But... I...,그、 그런……
+English,scene_cp1_q3_s10、131,detail,퓨리어스,So? How fares the plan to deal with those idiot conspirators?,그래서~?<br><span class='scene-font-place'>감히 에르스테 제국</span>에 저항하는 놈들을<br>어떻게 할 계획이었지?
+English,scene_cp1_q3_s10、131,detail,제국병２,Sir! The troops are in place. Everything's ready to go.,네……<br>이미 군사를 곳곳에 배치하였고<br>준비는 되어 있습니다.
+English,scene_cp1_q3_s10、131,detail,제국병２,Simply give the word、 sir、 and you'll be audience to the town's magnificent destruction.,각하께서 한마디만 하시면<br>지금 당장이라도 마을을<br>괴멸시킬 수 있습니다.
+English,scene_cp1_q3_s10、131,detail,카타리나,Not if I have a say!,<span class='scene-font-4'>――까불지마!!</span>
+English,scene_cp1_q3_s10、131,detail,퓨리어스,Oh? And who are you?,하? 넌 누구야?
+English,scene_cp1_q3_s10、131,detail,루리아,Katalina! We're supposed to be <span class='scene-font-italic'>hiding</span>!,카、 카타리나!<br>모처럼 숨어있었는데……
+English,scene_cp1_q3_s10、131,detail,카타리나,I've been listening to what you plan to do. And it's heinous!,아까부터 잠자코 듣고 있자니<br><span class='scene-font-4'>……이 외도가!</span>
+English,scene_cp1_q3_s10、131,detail,카타리나,How dare you destroy a town for simply resisting the empire! I won't stand for it!,제국의 지배에 저항한다는 이유만으로<br>마을을 멸망시키겠다니…<br>말이 된다고 생각하나?!
+English,scene_cp1_q3_s10、131,detail,제국병２,Unbelievable. It's the girl we held captive and the guard who helped her escape...,이 녀석들<br>기밀인 소녀와<br>그를 탈출시킨 호위……!?
+English,scene_cp1_q3_s10、131,detail,비,Oh、 gimme a break! We get your point、 Knightalina、 but you couldn't wait till later to make it?,아아、 정말!<br>누님의 마음은 알 수 없지만<br>여기서는 참았으면 좋겠어!
+English,scene_cp1_q3_s10、131,detail,비,Time to run、 guys! No way we're getting caught here!,도망치자!<br>루리아! 누님! [플레이어]!<br>여기서 잡힐 수는 없지!
+English,scene_cp1_q3_s20、132,synopsis,,[플레이어] and the others must find a way to warn the townspeople of the impending danger.,기사로서의 모습을 이해하면서도 억제할 수 없는 카타리나의 정의감을 엿보았던 <span>[플레이어]</span>일행은 마을 사람들에게 위기를 전하는 결의를 다진다.
+English,scene_cp1_q3_s20、132,detail,카타리나,I sincerely apologize...,――정말 미안하다.
+English,scene_cp1_q3_s20、132,detail,루리아,It's okay、 Katalina. You're not the only one who's upset!,이제 됐어요、 카타리나.<br>그 사람들에게 화난 건<br>카타리나 뿐만이 아니니까요.
+English,scene_cp1_q3_s20、132,detail,루리아,Besides、 it was neat how you stuck it to them like that! Right、 [플레이어]?,오히려<br>카타리나가 화내 줘서<br>시원해졌어요…… 그쵸? [플레이어]
+English,scene_cp1_q3_s20、132,detail,카타리나,Seeing such injustice just... riles me up、 I guess.,저런 악인을 눈 앞에 두면<br>결국 화를 내버리고 말아……
+English,scene_cp1_q3_s20、132,detail,카타리나,I know a knight must always keep a level head、 but in this case...,기사라면<br>항상 냉정해야 한다고<br>생각하고 있는데……
+English,scene_cp1_q3_s20、132,detail,비,It's tough to keep it together when you hear something like that、 huh?,그건 그렇고<br>말도 안 되는 소리를 듣고 말았네……
+English,scene_cp1_q3_s20、132,detail,루리아,You said it. And we've got to find a way to warn the townspeople too!,음……<br>제국이 쳐들어온다는 걸<br>어떻게든 마을 사람들에게 전해야……!
+English,scene_cp1_q3_s20、132,detail,비,Yeah! But first we gotta do something about these imperial soldiers on our tails!,그렇겠지!<br>우선은 따라오고 있는 제국 병사를 어떻게든 해야지!
+English,scene_cp1_q4_s10、141,synopsis,,[플레이어] and the others run into the soldiers again who've brought new friends. Furias attempts to destroy the grounded airship、 but he's stopped by a mysterious man.,에르스테 제국의 군사들과 교전하는<span>[플레이어]</span>일행. 숫자에 밀려 <span>[플레이어]</span>일행은 힘든 싸움을 하게 된다. 그러나、 제국의 장군이 고원의 비공정을 파괴하려고 한 그때、 하늘을 찢는 일격이 장군을 멈추게 한다.
+English,scene_cp1_q4_s10、141,detail,카타리나,Hm? Wait a second...,뭣? 이、 이곳은…
+English,scene_cp1_q4_s10、141,detail,루리아,After all that running around、 we're back where we started!,도망치고 있는 도중에<br>원래의 비공정 근처까지<br>돌아와 버렸어……
+English,scene_cp1_q4_s10、141,detail,퓨리어스,Oh? Well now、 look who's back!,어라!?<br>어째서<br>돌아왔지?
+English,scene_cp1_q4_s10、141,detail,퓨리어스,You've made me the happiest general in the world! You see、 the empire's given orders to capture you!,기쁜데!<br>너희들 말야~ 우리 제국의<br>지명수배 대상이라구!
+English,scene_cp1_q4_s10、141,detail,???,My、 my、 I've never seen you in such high spirits、 sir! Why、 you almost manage to pass for likable!,장군님 기분이 좋아보이네～<br>좋아요～<br>이럴 때의 장군님은 싫지 않아요～
+English,scene_cp1_q4_s10、141,detail,???,Shut it. And learn your place already.,닥쳐…… 주제 파악 좀 해.
+English,scene_cp1_q4_s10、141,detail,비,Good grief! Now they've brought more of their buddies around!,젠장……짜증나는 놈들이라구!
+English,scene_cp1_q4_s10、141,detail,퓨리어스,So tell me! What brings you back?,저기 있잖아!<br>왜 돌아왔어?
+English,scene_cp1_q4_s10、141,detail,퓨리어스,Let me guess! You were thinking of hopping on that airship and scuttling away、 right? Did I guess it?,혹시 말야、<br>그 배로 도망갈까 생각했었어?<br>내가 맞췄지? 말해봐!
+English,scene_cp1_q4_s10、141,detail,퓨리어스,Ha-ha-ha! This beat-up hunk of junk couldn't fly an inch!,으하하하하하하!!<br>이런 고물로 날 수 있을 리가 없잖아!
+English,scene_cp1_q4_s10、141,detail,카타리나,I had a feeling it wasn't fit to fly...,역시 그 배는<br>날 수 있는 상태가 아닌가……?
+English,scene_cp1_q4_s10、141,detail,카타리나,But I was hoping there might be a way still.,잘만 하면<br>날 수 있을 거라 생각하고 있었는데……
+English,scene_cp1_q4_s10、141,detail,퓨리어스,You think it can fly? This scrap heap? Ha-ha-ha!,이런! 이런 고물이!<br>하늘을? 으하하하하하!!
+English,scene_cp1_q4_s10、141,detail,퓨리어스,Still、 you can never be too careful...<br>So destroy the airship! Someone! Anyone!,아~ 하지만、 됐어.<br>혹시 모르니까.<br>야、 아무나 이 비공정、 부숴버려.
+English,scene_cp1_q4_s10、141,detail,루리아,But why? It's hardly damaged so if we just fix it up a little...,에? 그런……<br>그렇게 큰 손상도 아니고<br>수리하면 분명……
+English,scene_cp1_q4_s10、141,detail,퓨리어스,Why would I let you do a thing like that? Now hurry up and <span class='scene-font-italic'>destroy it</span> before I—,그러니까 날아가면 곤란하다고!<br>어이! 아무나 빨리……
+English,scene_cp1_q4_s10、141,detail,퓨리어스,Ouch!,<span class='scene-font-5'>후갸!?</span>
+English,scene_cp1_q4_s10、141,detail,???,Scrap heap、 huh? Can't have you shooting your mouth off like that...,정말이지<br>남의 배에<br>제멋대로 말하고……
+English,scene_cp1_q4_s10、141,detail,???,Hey、 short stuff! What are you trying to do to my airship?,어이、 거기 꼬마!<br>내 비공정에 뭘 하려고 하는 거야!
+English,scene_cp1_q4_s10、141,detail,비,Whoa! That's the weird guy we talked to after the crash!,어이、 저 사람!<br>우리가 불시착 했을 때<br>말을 걸어왔던 사람이잖아!?
+English,scene_cp1_q4_s10、141,detail,제국병２,Who are you? One of their cohorts?,뭐야 너는!<br>네놈、 이놈들의 동료인가!?
+English,scene_cp1_q4_s10、141,detail,???,What? Wait、 wait、 wait! A cohort? I think you've got me wrong here!,허?<br>아니아니아니아니아니아니? 뭐라고?<br>무슨 말이야?
+English,scene_cp1_q4_s10、141,detail,제국병２,Too late! Arrest this man!,문답무용! 잡아라!
+English,scene_cp1_q4_s10、141,detail,카타리나,This is bad! Now they're after him!,큰일났다!<br>저 남자도 쫓기고 있다!
+English,scene_cp1_q4_s10、141,detail,비,But we've gotta run、 guys! And not in a circle this time!,하지만 우리들도 도망가야지!<br>이번에야 말로<br>길을 헤매고 있을 여유는 없다구!
+English,scene_cp1_q4_s20、142,synopsis,,Cornered by imperial soldiers、 [플레이어] and the others seem doomed until the mysterious man appears again to give them a hand.,에르스테 제국의 병사들에게 쫓겨 절체절명의 위기에 처한 그때、 <span>[플레이어]</span>일행에게 조언을 해 준 수수께끼의 남자가 구원의 손길을 내민다.
+English,scene_cp1_q4_s20、142,detail,루리아,Oh no! They're closing in on us!,어떡하지…… 따라잡히고 있어요!
+English,scene_cp1_q4_s20、142,detail,카타리나,This might be the end...,이제 끝인가…
+English,scene_cp1_q4_s20、142,detail,???,Hey! Over here!,어이、 너희들! 이쪽이다!
+English,scene_cp1_q4_s20、142,detail,비,It's you again!,너는!?
+English,scene_cp1_q4_s20、142,detail,???,I've got a hideout! And I'll take you there so follow me.,이쪽에 내 은신처가 있어!<br>안내할 테니까 따라와!
+English,scene_cp1_q4_s20、142,detail,비,C'mon、 [플레이어]! Let's follow him!,그래!<br>[플레이어]!<br>저 놈을 따라가자!
+English,scene_cp1_q4_s20、142,detail,제국병２,Cowards! You won't get away from us!,<span class='scene-font-4'>놓칠까보냐!</span>
+English,scene_cp1_q4_s30、143,synopsis,,[플레이어] and the others learn that the mysterious man is actually Rackam、 but he refuses to be their helmsman.,수수께끼의 남자에게 도움을 받은 <span>[플레이어]</span> 일행은 남자의 은신처에서 이 남자야말로 엄청난 실력의 조타수로 명성이 자자한 라캄임을 알게 된다.
+English,scene_cp1_q4_s30、143,detail,???,Whew... Looks like they finally gave up on the search.,후우……<br>제국은<br>찾는 걸 포기한 것 같아.
+English,scene_cp1_q4_s30、143,detail,카타리나,We're in your debt. After the crash and even up against soldiers、 you've helped us countless times.,고맙다……<br>지금도 불시착했을 때도……<br>도움을 받기만 하네.
+English,scene_cp1_q4_s30、143,detail,라캄,You can say that again! The name's Rackam. How about you?,정말이지……<br>나는 라캄이라고 하는데<br>너희들은 누구야?
+English,scene_cp1_q4_s30、143,detail,,[플레이어] and the others introduce themselves and tell him how they came to be stranded.,<span class='scene-font-katari'>[플레이어] 일행은</span><br><span class='scene-font-katari'>자신들이 처한 상황을 설명했다.</span>
+English,scene_cp1_q4_s30、143,detail,비,And that's why we gotta find ourselves a helmsman!,뭐、 그런 이유로<br>우리들은<br>조타수 동료가 필요해!
+English,scene_cp1_q4_s30、143,detail,라캄,Wow... Sounds like you're in a pickle.,헤에…… 그거 큰일이네.
+English,scene_cp1_q4_s30、143,detail,카타리나,And to think all along you were the helmsman we were looking for. This can't be mere coincidence.,설마 네가<br>그 라캄일 줄은 몰랐는데.<br>아니……이것도 인연인가.
+English,scene_cp1_q4_s30、143,detail,루리아,I know this might seem a bit sudden to ask、 but could you join us?,저기……<br>갑작스런 부탁인 건 알고 있지만…<br>저희 동료가 되어주시지 않겠어요?
+English,scene_cp1_q4_s30、143,detail,라캄,Nope. I'll pass.,아아…… 거절한다.
+English,scene_cp1_q4_s30、143,detail,비,Really? But you were so nice to us when we crashed...,엣!?<br>불시착했을 때도<br>그렇게 친절하게……
+English,scene_cp1_q4_s30、143,detail,라캄,I just felt sorry for that poor airship.,그건<br>비공정이 불쌍해서 한 말이야.
+English,scene_cp1_q4_s30、143,detail,라캄,Besides、 I've given up on the sky. I'll never pilot an airship again...,게다가 말이야……나는 하늘을 버렸어.<br>이제 두 번 다시 하늘을 날지 않아……<br>다시는 키를 잡을 일도 없을 거야.
+English,scene_cp1_q4_s30、143,detail,,Rackam's expression turns stiff as he struggles to conceal his true feelings on the matter.,<span class='scene-font-katari'>그렇게 말하는 라캄의 표정은 굳어 있었고</span><br><span class='scene-font-katari'>그 거절 뒤에 있는 진의를</span><br><span class='scene-font-katari'>결코 보여주려 하지 않았다.</span>
+English,scene_cp1_q4_s30、143,detail,퓨리어스,Agh...,으……윽……
+English,scene_cp1_q4_s30、143,detail,???,Oh my! Is our little general gonna be all right? Does he need his mommy to come kiss his boo-boos?,아~아~아~<br>장군님、 괜찮아 이거?<br>안 좋은 곳 맞은 거 아니야? 이거.
+English,scene_cp1_q4_s30、143,detail,???,No need to worry. He said he's fine、 didn't he? All he needs is some time to rest.,걱정할 필요 없어……<br>이 녀석은 괜찮아<br>조금 시간은 필요하겠지만.
+English,scene_cp1_q4_s30、143,detail,???,Well、 I don't think he's getting up any time soon. Which means it's our time to shine!,아 그래?<br>그렇지만、 당분간 일어나지 않는다면 <br>우리 차례인가?
+English,scene_cp1_q4_s30、143,detail,???,Guess so...,그렇겠지……
+English,scene_cp1_q4_s30、143,detail,???,Yes、 indeed! We're getting paid、 aren't we? That's as good a reason to work as any!,그렇구나、 응응<br>돈은 받아버렸고<br>걸맞는 일을 하지 않으면 안 되겠네!

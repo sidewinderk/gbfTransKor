@@ -1,281 +1,281 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp11_q1_s10,1111",synopsis,,"<span class='scene-font-place'>アウギュステ</span>軍の本隊と帝国軍が交戦する中,ルリアは先ほどから感じていた気配から強烈な感情を読み取る。しかし,それは空腹を訴えるもので,一同は安全な場所へと移動を始める。",<span class = 'scene-font-place'> 아우귀스테 </ span> 군의 본대와 제국군이 교전 중 루리아는 방금 전부터 느끼고 있었다 기색에서 강렬한 감정을 읽을 수 있습니다. 하지만 배고픔을 호소하는 일행은 안전한 장소로 이동을 시작한다.
-Japanese,"scene_cp11_q1_s10,1111",detail,,<span class='scene-font-katari'>オイゲン達の連絡を受けて</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>軍の本隊も到着し</span><br><span class='scene-font-katari'>辺りは混沌とした様相を呈していた。</span>,<span class = 'scene-font-katari'> 오이겐들의 연락을 받고 </ span> <br> <span class = 'scene-font-place'> 아우규스테 </ span> <span class = 'scene- font-katari '> 군의 본대도 도착 </ span> <br> <span class ='scene-font-katari '> 주변은 혼란 양상을 보이고 있었다. </ span>
-Japanese,"scene_cp11_q1_s10,1111",detail,이오,"どどど,どうしようっ!?<br>なんだか一気に,大変なことに……!","어떻게 하지!?<br>왠지 단번에, 큰일이 났어……!"
-Japanese,"scene_cp11_q1_s10,1111",detail,오이겐,"慌てんじゃねぇよ,嬢ちゃん。<br><span class='scene-font-place'>アウギュステ</span>の本隊が来たからには<br>もう安心だ。","당황하지마, 아가씨.<br><span class='scene-font-place>>아우귀스테</span>본대가 왔으니<br>이제 안심이다."
-Japanese,"scene_cp11_q1_s10,1111",detail,오이겐,ここは連中に任せておけば<br>じきに片が付くと思うぜ。,이곳은 동료들에게 맡겨두면 <br> 곧 처리가 될 거야.
-Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,"そうか……<br>ならば,私達は黒騎士を探そう。<br>この状況では,おそらくそれが……",그래……<br>그럼 우린 흑기사를 찾자.<br>이 상황에선 아마 그게……
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,"――待って,カタリナ。<br>さっきから,何か変な感じがする……","--기다려, 카타리나.<br>아까부터, 뭔가 이상한 느낌이 들어……"
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,"怖いことが起こりそう……<br>何かが……ものすごく怒ってる……<br>それに,すごく強い感情が……","무서운 일이 일어날 것 같아……<br> 뭔가가……굉장히 화가 나 있어……<br> 게다가, 굉장히 강한 감정이……"
-Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,"なに……?<br>それはまさか,<br>リヴァイアサンが……!?","뭐……?<br>그건 설마,<br>리바이아산이……!?"
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,お……,오……
-Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,お?,어?
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,おなかへった……,배고파……
-Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,…………,…………
-Japanese,"scene_cp11_q1_s10,1111",detail,이오,"あ,そういえばあたしも,<br>ちょっとお腹すいてきたかも……","아, 그러고보니 나도 <br> 조금 배가 고파진걸지도……"
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,<span class='scene-font-4'>ちーがーいーまーすー!</span>,<span class='scene-font-4'>틀ー리ー다ー구ー요ー!</span>
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,"リヴァイアサンの気配を探ってたら,<br>そう感じて……","리바이아산의 낌새를 챘더니,<br>그렇게 느껴져……"
-Japanese,"scene_cp11_q1_s10,1111",detail,비,"いや,腹が減るのは,<br>悪いことじゃないと思うぜ?<br>なぁ,[플레이어]?","아니, 배가 고픈 게 나쁜 건 아닌 것 같은데?<br> 야, [br]?"
-Japanese,"scene_cp11_q1_s10,1111",sel1_txt,,<span class='scene-font-katari'>ご飯にしよう</span>,<span class = 'scene-font-katari'> 밥하자 </ span>
-Japanese,"scene_cp11_q1_s10,1111",sel2_txt,,<span class='scene-font-katari'>食べ過ぎは良くない</span>,<span class = 'scene-font-katari'> 과식은 좋지 않다 </ span>
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,もー! [플레이어]まで!,-![지ー타]까지!
-Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,"ははは,いいじゃないか。<br>よく食べよく寝る子は<br>よく育つと言うしな。","하하, 좋잖아?<br>잘 먹는 잘 자는 아이는<br>잘 자란다고 하네."
-Japanese,"scene_cp11_q1_s10,1111",detail,루리아,"だから私は,<br>食いしん坊じゃないですー!","그래서 나는,<br>먹보지 않습니다!"
-Japanese,"scene_cp11_q1_s10,1111",detail,카타리나,"まぁまぁ,なんにせよ,<br>そろそろ休憩を<br>取ったほうがいいだろう。","뭐 뭐 뭐에,<br>이제 휴식을<br> 취하는 게 좋을 것이다."
-Japanese,"scene_cp11_q1_s10,1111",detail,라캄,"うっし!<br>んじゃ,とりあえずは,<br>安全な場所を確保しに行こうぜ!",호소하라!<br>그럼 일단은<br>안전한 장소를 확보하러 갈까?
-Japanese,"scene_cp11_q1_s20,1112",synopsis,,"軍勢同士のぶつかり合いから少し離れた場所で,<span>[플레이어]</span>一行は休憩を取るが,そうしている間にも魔物は容赦なく襲いかかってくる。","군대끼리의 싸움에서 조금 떨어진 지점에서<span>[지ー타]</span>일행은 휴식을 취하지만, 그 사이에도 마물은 가차 없이 번진다."
-Japanese,"scene_cp11_q1_s20,1112",detail,루리아,別にお腹がすいてたわけじゃ<br>ないはずなんだけど……もぐもぐ。,별로 배가 고팠던 것은<br> 않을 것인데……냠냠.
-Japanese,"scene_cp11_q1_s20,1112",detail,비,とかなんとか言いつつ<br>食うには食うんだな。,라거나 뭔가 말하면서<br> 먹기는 먹는구나.
-Japanese,"scene_cp11_q1_s20,1112",detail,카타리나,集中しすぎて<br>体力を消耗したのだろう。<br>しっかり食べて回復するといい。,집중하고<br>체력을 소모했을 것이다.<br>확실히 먹고 회복하면 된다.
-Japanese,"scene_cp11_q1_s20,1112",detail,오이겐,"マイペースな連中だなぁ,おい。<br><span class='scene-font-2'>こいつら,いつもこんな感じなのか?</span>","마이 페이스 한 무리네 야,<br><span class='scene-font-2'>이 녀석들, 언제나 이런 느낌인가?</span>"
-Japanese,"scene_cp11_q1_s20,1112",detail,이오,あたしが知ってる限りでは<br>だいたいこんな感じ……,내가 알고 있는 한에서는<br>대체로 이런 느낌...
-Japanese,"scene_cp11_q1_s20,1112",detail,마물들,<span class='scene-font-4'>グオォォォン!</span>,<span class='scene-font-4'>크와아아앙!</span>
-Japanese,"scene_cp11_q1_s20,1112",detail,라캄,"おっと,休憩はここまでみたいだ。<br>また魔物どもがお出ましだぜ!","이런, 휴식은 여기까지인 것 같아.<br>또 마물들이!"
-Japanese,"scene_cp11_q2_s10,1121",synopsis,,"<span class='scene-font-place'>アウギュステ</span>と帝国の戦闘から距離を取る<span>[플레이어]</span>一行。しかし,どれだけ離れようとも執拗に<span>[플레이어]</span>達を追ってくる一団があった。","<span class='scene-font-place>> 아우귀스테</span>과 제국의 전투에서 거리를 두는 <span>[플레이어]</span> 한 줄.그러나, 아무리 떨어져 있어도 집요하게<span>[플레이어]</span>들을 쫓아오는 일단이 있었다."
-Japanese,"scene_cp11_q2_s10,1121",detail,오이겐,これだけ離れりゃ<br>帝国と<span class='scene-font-place'>アウギュステ</span>の戦闘に<br>巻き込まれることもねぇだろ。,이만큼 떨어져 있으면 <br> 제국과 <span class='scene-font-place>> 아우귀스테 </span> 전투에 <br> 말려들지도 않잖아.
-Japanese,"scene_cp11_q2_s10,1121",detail,라캄,"その代わり,<br>魔物がうようよいるけどな。",그대신 <br>마물이 득실거리는데 말야.
-Japanese,"scene_cp11_q2_s10,1121",detail,이오,"ね,ねぇ……<br>そんな簡単な話じゃ<br>済まないみたいだけど……",저기 말이야……<br>그렇게 간단한 이야기로는<br>미안한 것 같지만……
-Japanese,"scene_cp11_q2_s10,1121",detail,비,"くっ……<br>近づいてくる一団があるなぁ。<br>ありゃ,帝国軍か?","응……<br>다가오는 일단이 있네.<br>라니, 제국군인가?"
-Japanese,"scene_cp11_q2_s10,1121",detail,카타리나,とりあえずは距離を取ろう。<br>戦意がないことがわかれば<br>向こうも深追いはしないはずだ。,일단 거리를 두자.<br>전의가 없음을 알면<br>그쪽도 깊은 추격은 하지 않을 것이다.
-Japanese,"scene_cp11_q2_s10,1121",detail,루리아,あれ……?<br>この近づいてくる気配……<br>前にもどこかで……,어라……?<br>이 다가오는 기미……<br>앞에도 어딘가에서……
-Japanese,"scene_cp11_q2_s20,1122",synopsis,,"帝国のある一団に狙われる<span>[플레이어]</span>一行。それはエルステ帝国の軍規に照らし合わせても異端な行動だとカタリナは語る。さらに魔物も現れ,<span>[플레이어]</span>一行は苦しい戦いを余儀なくされる。",제국의 한 무리의 노림을 받는 <span> [플레이어] </span> 일행.그것은 에르스테 제국의 군기에 비추어도 이단한 행동이라고 카타리나는 말한다. 게다가 마물도 나타나 <span>[플레이어]</span>일행은 고통스러운 싸움을 피할 수 없게 된다.
-Japanese,"scene_cp11_q2_s20,1122",detail,제국병,<span class='scene-font-4'>……!</span>,< span   class = ' scene - font - 4 ' > …… ! < / span >
-Japanese,"scene_cp11_q2_s20,1122",detail,비,"おい,姐さん!<br>あいつら,明らかにオイラ達を<br>狙ってきてるぜ!?",야 누나!<br>저녀석들 분명 오빠들을<br>노려오는거지?!
-Japanese,"scene_cp11_q2_s20,1122",detail,카타리나,"どういうことなんだ……?<br>帝国では,戦闘意志のない者の<br>深追いは厳禁だったはず……","어떻게 된 거야……?<br>제국에서는, 전투 의지가 없는 자의<br>깊은 추격은 엄금이었을 것이다……"
-Japanese,"scene_cp11_q2_s20,1122",detail,라캄,"まずいな……<br>見ろよ,向こうからは<br>魔物が近づいて来てやがる。","큰일이네……<br>봐라, 저쪽에서는<br>마물이 다가오고 있어."
-Japanese,"scene_cp11_q2_s20,1122",detail,카타리나,"挟まれたか……!<br>[플레이어],<br>どちらを先に片づける!?","끼였나……!<br>[플레이어],<br>어느 쪽을 먼저 정리할래!?"
-Japanese,"scene_cp11_q2_s20,1122",detail,이오,"どっちだっていいじゃない!<br>どうせ,どっちを選ぼうと<br>どっちとも戦うことになるんでしょ?","어느쪽이라도 상관없잖아!<br>어차피,어느쪽을 선택하든<br>어느쪽과도 싸우게되는거지?"
-Japanese,"scene_cp11_q2_s20,1122",detail,비,"って,もう選んでる余裕は<br>ないみたいだぜ!<br>[플레이어]! まずは魔物からだ!","라고, 이제 선택할 여유는<br>없는 것 같아!<br>[플레이어]! 우선은 마물부터야!"
-Japanese,"scene_cp11_q3_s10,1131",synopsis,,"執拗に<span>[플레이어]</span>一行を追う一団は,かつて<span class='scene-font-place'>ザンクティンゼル</span>でルリアとカタリナに逃げられたポンメルン大尉が率いるものだと発覚する。復讐に燃えるポンメルンは兵と共に<span>[플레이어]</span>一行に襲いかかる。",집요하게 <span>[플레이어]</span>일행을 쫓는 일단은 과거 <spanclass='scene-font-place>>장크틴젤</span>로 루리아와 카탈리나에게 도망친 폼메른 대위가 이끄는 것으로 발각된다.복수에 불타는 퐁메른은 군인과 함께 <span> [플레이어]</span> 일행에게 덤벼든다.
-Japanese,"scene_cp11_q3_s10,1131",detail,카타리나,"あの一団,執拗に追ってくるな……<br>何か私達に恨みでもあるのか……?","저 일단, 집요하게 쫓아오지 마라……<br>뭔가 우리에게 원망이라도 있는 거야……?"
-Japanese,"scene_cp11_q3_s10,1131",detail,???,その通りですねェ!<br>カタリナ中尉ィィィ!,맞네요!<br>카탈리나 중위!
-Japanese,"scene_cp11_q3_s10,1131",detail,루리아,"そ,その声は……","그, 그 소리는……"
-Japanese,"scene_cp11_q3_s10,1131",detail,비,なっ!?<br>テメェはルリアと姐さんに<br>初めて会った日の……!,헉!?<br>테메는 루리아와 누나를<br>처음만났던날...!
-Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,<span class='scene-font-place'>ザンクティンゼル</span>以来ですねェ!<br>憎たらしい裏切者どもォ!,<span class='scene-font-place>>장크틴젤</span>이래 요!<br> 얄미운 배신자들이오!
-Japanese,"scene_cp11_q3_s10,1131",detail,카타리나,ポンメルン大尉!?,폰메른 대위!?
-Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,"貴方にそう呼ばれるのも,<br>懐かしいですねェ……","당신에게 그렇게 불리는 것도,<br>그리워요……"
-Japanese,"scene_cp11_q3_s10,1131",detail,카타리나,なぜここに!<br>まさかルリアを取り返すため……!?,어째서 여기에!<br>설마 루리아를 되찾기 위해서……?!
-Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,"ルリアァ?<br>ああ,そんなもの<br>もうどうでもいいんですよねェ。","루리아?<br>아, 그런거<br>이제 아무래도 상관없는거죠?"
-Japanese,"scene_cp11_q3_s10,1131",detail,카타리나,"な,なら,どうしてここに……<br>私達を狙ってきたのか!","뭐, 그렇다면 어째서 여기에……<br>우리를 노리고 온 것인가!"
-Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,簡単な質問ですねェ……<br>どうして吾輩がここにいるか?<br>それは……,간단한 질문이네요....<br> 어째서 내가 여기있습니까?그것은……
-Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,<span class='scene-font-4'>復讐スルためですねェェッ!</span>,<span class='scene-font-4>>복수슬때문이네요!!</span>
-Japanese,"scene_cp11_q3_s10,1131",detail,폼메른,絶対に逃がしはしませんからねェ!<br>覚悟してくださいよォッ!,절대로 놓치지 않을테니까요!<br>각오하세요!
-Japanese,"scene_cp11_q3_s10,1131",detail,라캄,くっ……<br>なんか面倒な奴が出てきやがったな……,읏……<br>왠지 귀찮은 녀석이 나왔군……
-Japanese,"scene_cp11_q3_s10,1131",detail,이오,どんな因縁か知らないけど……<br>やられるわけにはいかないんだから!<br>突破させてもらうからねっ!,어떤 인연인지는 모르지만……<br>당할 수는 없으니까!<br>돌파하고 말거야!
-Japanese,"scene_cp11_q3_s20,1132",synopsis,,"<span>[플레이어]</span>一行の前に黒騎士とフュリアスが再び姿を現す。そしてフュリアスは,帝国が海を腐らせながら開発していた兵器アドウェルサは,すでに完成させ自らの戦艦に搭載したことを告げる。",<span> [플레이어] </span> 일행 앞에 흑기사와 퓨리아스가 다시 모습을 드러낸다. 그리고 퓨리아스는 제국이 바다를 썩혀가며 개발하고 있던 병기 애드웰사는 이미 완성시켜 자신의 전함에 탑재했음을 알린다.
-Japanese,"scene_cp11_q3_s20,1132",detail,카타리나,"帝国兵と魔物を<br>同時に相手にしていたのでは,<br>そういつまでももたないぞ……","제국병과 마물을<br>동시에 상대하고 있는 것은,<br>그렇게 언제까지나 지탱할수 없어……"
-Japanese,"scene_cp11_q3_s20,1132",detail,흑기사,"ふん……あの負け犬の執念も,<br>なかなか大したものじゃないか。",흠…저 패배자의 집념도 <br> 꽤 대단한데.
-Japanese,"scene_cp11_q3_s20,1132",detail,라캄,てめぇは……!,넌……!
-Japanese,"scene_cp11_q3_s20,1132",detail,퓨리어스,"おや? おやおやおやぁー?<br>もう逃げないのかな?<br>もっと頑張ってよ,退屈しちゃうよ?","오야? 오야오야~?<br>이제 도망가지 않는건가?<br> 더 열심히 해, 심심해."
-Japanese,"scene_cp11_q3_s20,1132",detail,오이겐,"<span class='scene-font-2'>まったく,うるせぇ若造だ……</span><br><span class='scene-font-2'>少しゃ自分で戦ってみたらどうだ?</span>",<span class='scene-font-2> 정말이지 시끄러워애송이다……</span><br><spanclass='scene-font-2> 약간 직접 싸워보는게 어때?</span>
-Japanese,"scene_cp11_q3_s20,1132",detail,퓨리어스,"やだよ,そんなの気持ち悪い。<br>それにもう,そろそろここは<br>丸ごとなくなっちゃうからね。","싫어, 그런 거 징그러워.<br>그리고 이제 슬슬 이곳은<br> 통째로 없어지니까."
-Japanese,"scene_cp11_q3_s20,1132",detail,루리아,丸ごと……なくなっちゃう?,통째로……사라져 버려?
-Japanese,"scene_cp11_q3_s20,1132",detail,퓨리어스,そう!<br>君達が研究所を<br>壊してくれたんだってね?,그래!<br>너희가 연구소를<br>부셔줬다면서?
-Japanese,"scene_cp11_q3_s20,1132",detail,퓨리어스,"でも,マニヤーニ環礁の兵器……<br>アドウェルサはもう完成して<br>ボクの戦艦に載ってるんだ。","하지만, 마니야니 환초의 병기……<br>아드웰사는 이미 완성해서<br>나의 전함에 실려있어."
-Japanese,"scene_cp11_q3_s20,1132",detail,라캄,なんだと……!?,뭐라고.....!?
-Japanese,"scene_cp11_q3_s20,1132",detail,퓨리어스,早く君達に使ってあげたいけど……<br>トドメはポンちゃんに<br>譲ってあげなくちゃね。,빨리 너희에게 써주고 싶은데...<br>토도메는 폰에게<br>양보해줘야겠지?
-Japanese,"scene_cp11_q3_s20,1132",detail,퓨리어스,"さぁ,ボクにできるのは<br>君達を追い詰めるところまでだ!<br>だから,魔物ごときにやられないでね?","자, 내가 할 수 있는 것은<br>너희를 몰아붙이는 것 까지다!<br>그러니까, 마물처럼 당하지 말아요?"
-Japanese,"scene_cp11_q4_s10,1141",synopsis,,"追い詰められる<span>[플레이어]</span>一行を前に,フュリアスはアドウェルサを使って<span class='scene-font-place'>アウギュステ</span>を島ごと消滅させる指示を出す。しかし,そこに現れた伝令は,帝国の戦艦が次々と海に飲まれていると告げた。",막다른 골목에 몰린 <span>[플레이어]</span>일행을 앞두고 퓨리아스는 어드웰사를 사용해 <spanclass='scene-font-place>>아우귀스테</span>를 섬마다 소멸시키라는 지시를 내린다.하지만 그곳에 나타난 전령은 제국의 전함들이 속속 바다에 휩쓸리고 있다고 고했다.
-Japanese,"scene_cp11_q4_s10,1141",detail,폼메른,どうやら貴様達の悪運も<br>ここまでのようですねェ!,그럭저럭 당신들의 악운도 여기까지인 것 같네요!
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,"いやぁ,君達頑張ったねー!<br>でも,残念,もう終わりだよ。","이야~ 너희들 열심히 했다!<br>하지만, 아쉽다. 이제 끝이야."
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,"もう島ごと消す準備もしておこうか!<br>誰か,アドウェルサの起動を!",이제 섬마다 끌 준비도 해둘까!<br>누군가 애드웰사 부팅을!
-Japanese,"scene_cp11_q4_s10,1141",detail,비,"くそぅ……<br>[플레이어],<br>こりゃ,絶体絶命ってやつだぜ……","이런....<br>[플레이어],<br>이건,절체절명이라는 녀석이야......"
-Japanese,"scene_cp11_q4_s10,1141",detail,루리아,"そんな……<br>うそ……だめ,だよ……<br>そんなの……",그런……<br>거짓말……안돼.……<br>그런 거……
-Japanese,"scene_cp11_q4_s10,1141",detail,카타리나,"ルリア,心配するな……<br>帝国の兵器など,なんとでも……","루리아, 걱정하지마....<br>제국의 병기등, 어떻게든...."
-Japanese,"scene_cp11_q4_s10,1141",detail,루리아,"<span class='scene-font-4'>違うのっ!</span><br>て,帝国の人達が……!<br>みんな飲まれて……!",<span class = 'scene-font-4'> 차이 정액! </ span> <br> て 제국의 사람들이 ......! <br> 모두 마셔 ......!
-Japanese,"scene_cp11_q4_s10,1141",detail,흑기사,<span class='scene-font-2'>……そろそろか。</span>,<span class = 'scene-font-2'> ... 이제 하나. </ span>
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,<span class='scene-font-4'>聞こえなかったのか!?</span><br><span class='scene-font-4'>なぜ誰も動かないっ!?</span><br>早くこの島を……,<span class = 'scene-font-4'> 들리지 않았던 것일까! ? </ span> <br> <span class = 'scene-font-4'> 왜 아무도 움직이지 않아! ? </ span> <br> 빨리이 섬을 ......
-Japanese,"scene_cp11_q4_s10,1141",detail,제국병,<span class='scene-font-4'>フュリアス将軍閣下!</span><br><span class='scene-font-4'>伝令が来ています!</span>,<span class = 'scene-font-4'> 퓨리어스 장군 각하! </ span> <br> <span class = 'scene-font-4'> 전령이 온다! </ span>
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,あ? なに? ……はぁ?<br>撤退しろって? 馬鹿じゃないの?,아? 뭐? ......하아? <br> 철수하라고? 바보 아냐?
-Japanese,"scene_cp11_q4_s10,1141",detail,제국병,"し,しかし!<br>海に係留していた我が軍の戦艦が,<br>半数以上,海に飲まれています!",하지만!<br>바다에 계류되어 있던 아군의 전함이<br>반수 이상 바다에 휩쓸리고 있습니다!
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,なにそれ……,그게 뭐야……
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,<span class='scene-font-4'>どういうことだよ!?</span>,<span class = 'scene-font-4'> 무슨 일이야! ? </ span>
-Japanese,"scene_cp11_q4_s10,1141",detail,퓨리어스,くそっ! 戦艦に戻るぞ!<br>準備しろ!,젠장! 다시 전함으로 돌아간다! <br> 준비해라!
-Japanese,"scene_cp11_q4_s10,1141",detail,폼메른,あっ! 将軍閣下!?,앗! 쇼군 각하!?
-Japanese,"scene_cp11_q4_s10,1141",detail,라캄,"……状況はよくわからんが,<br>これはチャンスだぜ!","……상황은 잘 모르겠지만, <br> 이건 찬스다!"
-Japanese,"scene_cp11_q4_s10,1141",detail,카타리나,"ああ……<br>[플레이어]! 混乱に乗じて,<br>この場を脱出するぞ!",아아……<br>[플레이어]! 혼란을 틈타 <br>이 자리를 탈출할 것이다!
-Japanese,"scene_cp11_q4_s20,1142",synopsis,,"黒騎士の問いにルリアは,リヴァイアサンが海と同化していたその身を癒すため,帝国の戦艦を飲みこんだのだと告げる。戦慄する一同だが,そこへ執念に囚われた狂乱のポンメルンが襲いかかってくる。",흑기사의 물음에 루리아는 리바이아상이 바다와 동화된 몸을 달래기 위해 제국의 전함을 집어삼킨 것이라고 말한다.전율하는 일동이지만 거기에 집념에 사로잡힌 광란의 폼메른이 덮친다.
-Japanese,"scene_cp11_q4_s20,1142",detail,이오,はぁ……はぁ……,하아... 하아...
-Japanese,"scene_cp11_q4_s20,1142",detail,이오,"だ,だけど,<br>帝国の艇が飲まれたって<br>いったい何があったの?","그런데,<br>제국의 선박을 집어삼켰다고<br>도대체 무슨일이 있었던거야?"
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"違うな,<br>むしろ,海に飲まれたというより<br>海に喰われた,と言ったほうが正しい。","아니야,<br>오히려 바다에 먹혔다기보다<br>바다에 먹혔다고 하는 편이 옳다."
-Japanese,"scene_cp11_q4_s20,1142",detail,비,黒騎士!,흑기사!
-Japanese,"scene_cp11_q4_s20,1142",detail,???,…………,…………
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"ルリア,お前ならもう<br>全てわかってるんじゃないのか?","루리아, 너라면 벌써<br>다 알고 있지 않을까?"
-Japanese,"scene_cp11_q4_s20,1142",detail,루리아,"……き,きっと<br>私が感じた飢えは<br>リヴァイアサンのだったんです。","……기, 분명<br>제가 느낀 굶주림은<br>리바이아산이었죠."
-Japanese,"scene_cp11_q4_s20,1142",detail,루리아,"だから,きっと<br>リヴァイアサンが艇を食べたんだ……","그래서, 분명<br>리바이아상이 배를 잡아먹은거야……"
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"その通りだ。<br>リヴァイアサンは長い間姿を変え,<br>海と同化して,海に力を与えていた。",<br> 리버이아산은 오랫동안 모습을 바꾸었고 <br> 바다와 동화하여 바다에 힘을 실어주었다.
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"しかし,腐敗によるダメージは<br>回復力の限界を超え,<br>艇を喰うことでそれを補おうとした。","그러나 부패에 의한 피해는 <br> 회복력의 한계를 넘어, <br>정을 먹음으로써 그것을 보충하고자 했다."
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"おかげで,<br>リヴァイアサンの気が<br>いままでよりハッキリしている。",덕분에 리바이아산의 기운이 더 맑아졌다.
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,顕現も時間の問題だろう。<br>まったく馬鹿な連中だったが……<br>下衆は下衆なりに役に立ってくれたよ。,현현도 시간문제일 것이다.정말이지 바보같은 패거리였지만....<br> 하중은 하중 나름대로 도움이 되었어.
-Japanese,"scene_cp11_q4_s20,1142",detail,오이겐,海が……<br>リヴァイアサンが艇を喰っただと……?,바다가……<br>리바이아산이 배를 먹었다고……?
-Japanese,"scene_cp11_q4_s20,1142",detail,오이겐,"て,てめぇ……!<br>自分が何やったかわかってんのか!?<br><span class='scene-font-place'>アウギュステ</span>にとって,海は……!",너....!<br>자신이 뭘한건지 알고있는거야?!<br><span class='scene-font-place>>아우귀스테</span>에게 바다는……!
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"<span class='scene-font-4'>黙れ,下衆が!</span><br>貴様こそ自らの咎を置いて<br>何を吼えている? 恥を知ることだな。",<span class='scene-font-4> 닥쳐라 하중이! </span><br> 네 놈이야말로 스스로 허물을 두고 <br> 무슨 소리를 짖고 있니? 부끄러운 줄 아는구나.
-Japanese,"scene_cp11_q4_s20,1142",detail,흑기사,"まったく不愉快だ……<br>行くぞ,人形。<br>我々にも役割がある。","정말 불쾌하다…<br>간다, 인형.<br>우리에게도 역할이 있다."
-Japanese,"scene_cp11_q4_s20,1142",detail,???,…………,…………
-Japanese,"scene_cp11_q4_s20,1142",detail,비,"あっ!<br>おい,待て!","앗!<br>야, 기다려!"
-Japanese,"scene_cp11_q4_s20,1142",detail,폼메른,待つのは貴様らですネェ!<br>こうなったら最後の手段ですよォ……,기다리는건 당신들이에요!<br>이렇게 되면 최후의 수단이죠~~
-Japanese,"scene_cp11_q4_s20,1142",detail,폼메른,この私がッ! 直々にッ!<br>引導を渡してあげますねェェェッ!,여기 제가 바로!!<br>인도를 전해드릴게요!!
-Japanese,"scene_cp11_q4_s20,1142",detail,비,"な,なんだこいつ!?<br>変身しやがった!","뭐, 이녀석!?변신을 했다!"
-Japanese,"scene_cp11_q4_s20,1142",detail,폼메른,これが<span class='scene-font-place'>エルステ帝国</span>が誇る<br>星晶研究の到達点……<br>魔晶の力なんですよォォォォッ!!,이것이 <span class='scene-font-place>>에르스테 제국</span>이 자랑하는 <br>성정연구의 도달점……<br>마정의 힘이죠오오오오오오오오!!
-Japanese,"scene_cp11_q4_s20,1142",detail,폼메른,"貴様らなど,完膚なきまでに<br>叩き潰してあげますからねェェェッ!!","당신들, 철저하게<br>두들겨 패줄테니까!!"
-Japanese,"scene_cp11_q4_s20,1142",detail,라캄,"ちっ……しつこい野郎だ。<br>[플레이어]!<br>いい加減,白黒つけてやろうぜ!",제기랄... 끈질긴 놈이다.<br>[플레이어]!<br>적당히 흑백을 가려주자!
-Japanese,"scene_cp11_q4_s30,1143",synopsis,,"ポンメルンを退けた<span>[플레이어]</span>一行だが,このままではリヴァイアサンは<span class='scene-font-place'>アウギュステ列島</span>をも飲みこんでしまう。リヴァイアサンの暴走を止めるため,一行は強い気配のあるアウギュステ大瀑布へと向かう。","폼메른을 물리친 <span>[플레이어]</span>일행이지만, 이대로라면 리버이아산은 <spanclass='scene-font-place>>아우귀스테 열도</span>도 삼켜버린다.리버이아산의 폭주를 막기 위해 일행은 강력한 기색이 있는 아우귀스테 대폭포로 향한다."
-Japanese,"scene_cp11_q4_s30,1143",detail,폼메른,"グ,ガ……グフッ……","구, 가.... 구훗......."
-Japanese,"scene_cp11_q4_s30,1143",detail,폼메른,"こ,これで済んだと<br>思わないことですねェ……","이, 이걸로 끝났다고 <br> 생각하지 않는군요……"
-Japanese,"scene_cp11_q4_s30,1143",detail,폼메른,"次に会った時が,<br>貴様らの最後ですねェ……<br>首を洗って待ってるといいですよォッ!",다음에 만났을때가 <br> 네놈들의 마지막이군요....<br>목을 씻고 기다리면 좋겠어요 윽!
-Japanese,"scene_cp11_q4_s30,1143",detail,,"<span class='scene-font-katari'>負傷した身体を引きずって,</span><br><span class='scene-font-katari'>ポンメルンは帝国軍本隊を追うように</span><br><span class='scene-font-katari'>去って行った。</span>",<span class = 'scene-font-katari'> 부상당한 몸을 끌고 </ span> <br> <span class = 'scene-font-katari'> 뽄메룬는 제국군 본대를 쫓 듯이 </ span > <br> <span class = 'scene-font-katari'> 떠났다. </ span>
-Japanese,"scene_cp11_q4_s30,1143",detail,라캄,ふぅ……これで帝国の連中は<br>軒並み<span class='scene-font-place'>アウギュステ</span>から<br>逃げてったみてぇだな。,후……이것으로 제국 친구들은 <br> 일제히 <span class='scene-font-place>> 아우귀스테 </span>에서 <br> 도망을 간 모양이군.
-Japanese,"scene_cp11_q4_s30,1143",detail,오이겐,"そりゃ当然だろう……<br>やばいことになってるぜ,こいつァ。","그야 당연하지……<br>위험하게 됐어, 이녀석."
-Japanese,"scene_cp11_q4_s30,1143",detail,오이겐,さっき仲間から伝令があった。<br>無人島がいくつか<br>海に飲まれた……喰われたってよ。,아까 동료로부터 전령이 있었다.<br> 무인도를 몇 개<br>바다에 마셨다……먹혔다네.
-Japanese,"scene_cp11_q4_s30,1143",detail,이오,"ど,どれだけ大喰らいなの,<br>リヴァイアサンは……<br>太ってから後悔しても遅いのに……","얼마나 많이 먹었길래,<br>리바이아상은...<br>뚱뚱하게 살찌고 나서 후회해도 늦었을텐데......"
-Japanese,"scene_cp11_q4_s30,1143",detail,비,"リヴァイアサンほどの<br>大星晶獣だ……<br>そりゃもう,底なしだろうぜ。",리바이아산만큼의<br>대성정수다……<br>그건 이제 끝도 없겠지.
-Japanese,"scene_cp11_q4_s30,1143",detail,카타리나,このままでは<br>人の住む島も危ないな……,이대로는<br>사람이 사는 섬도 위험해……
-Japanese,"scene_cp11_q4_s30,1143",detail,루리아,"……止めよう。<br>ううん,止めます……!<br>ですよね? [플레이어]。","멈추자.<br>아니, 멈추겠습니다……!<br>그렇죠? [플레이어]"
-Japanese,"scene_cp11_q4_s30,1143",detail,카타리나,そうか……!<br>リヴァイアサンはおそらく<br>ダメージによって暴走状態にある。,그런가……!<br>리바이아산은 아마<br>데미지에 의해서 폭주 상태에 있을 것이다.
-Japanese,"scene_cp11_q4_s30,1143",detail,카타리나,"それをルリアの力で,<br>治めてしまえば……","그것을 루리아의 힘으로,<br>다스려버리면……"
-Japanese,"scene_cp11_q4_s30,1143",detail,카타리나,"……いや,しかし,<br>リヴァイアサンはいったい<br>どこに居るんだ?","……아니, 그런데,<br>리바이아산은 도대체<br>어디에 있는거야?"
-Japanese,"scene_cp11_q4_s30,1143",detail,루리아,"わかるよ,カタリナ……<br>ずっとぼんやりしてた気配が<br>いまは一つに集まってる……","알아, 카타리나……<br>계속 희미해진 기색이<br>지금은 하나로 모여있어……"
-Japanese,"scene_cp11_q4_s30,1143",detail,루리아,向こう……<br>あっちのほうに強い気配がある!,저쪽……<br>저쪽에 강한 기색이 있어!
-Japanese,"scene_cp11_q4_s30,1143",detail,오이겐,"向こうと言やぁ……<br>そうだな,<br><span class='scene-font-place'>アウギュステ大瀑布</span>のあるあたりか。",저쪽이라고 해야하나...<br> 글쎄 <br><spanclass='scene-font-place>>아우귀스테 대폭포</span>이 있는 근처인가.
-Japanese,"scene_cp11_q4_s30,1143",detail,라캄,"決まりだな。<br>行こうぜ,この島を救いに。","결정됐군.<br>가자, 이 섬을 구하러."
-Japanese,"scene_cp11_q4_s30,1143",detail,,<span class='scene-font-katari'>いまや</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を滅ぼす</span><br><span class='scene-font-katari'>厄災となった大星晶獣は</span><br><span class='scene-font-katari'>瀑布にその巨体を顕現させつつあった。</span>,<span class = 'scene-font-katari'> 이제 </ span> <span class = 'scene-font-place'> 아우규스테 </ span> <span class = 'scene-font-katari'>를 멸 </ span> <br> <span class = 'scene-font-katari'> 厄災되었다 대성 晶獣는 </ span> <br> <span class = 'scene-font-katari'> 폭포에 그 거체 를 발현시키고 있었다. </ span>
-English,"scene_cp11_q1_s10,1111",synopsis,,"As the Auguste and imperial forces clash, Lyria begins to sense something intense from Leviathan: hunger. It's decided that they move to a safer location."
-English,"scene_cp11_q1_s10,1111",detail,,"After receiving a report from Eugen and company, Auguste's calvary arrives to give backup. The island seems to have devolved into chaos."
-English,"scene_cp11_q1_s10,1111",detail,Io,What do we do! H-how did this happen so fast?
-English,"scene_cp11_q1_s10,1111",detail,Eugen,"Easy there, little miss. It'll be okay. The Auguste cavalry's here."
-English,"scene_cp11_q1_s10,1111",detail,Eugen,Leave it to them. They'll have things cleared up in no time.
-English,"scene_cp11_q1_s10,1111",detail,Katalina,"In that case, we should look for the Black Knight. Given the situation, that's<br>probably—"
-English,"scene_cp11_q1_s10,1111",detail,Lyria,"Wait, Katalina. I've been sensing something strange for a while now."
-English,"scene_cp11_q1_s10,1111",detail,Lyria,I think something bad is going to happen. There's a deep rumbling within me...
-English,"scene_cp11_q1_s10,1111",detail,Katalina,Could that be... Leviathan?
-English,"scene_cp11_q1_s10,1111",detail,Lyria,Oh...
-English,"scene_cp11_q1_s10,1111",detail,Katalina,Oh?
-English,"scene_cp11_q1_s10,1111",detail,Lyria,It was just hunger.
-English,"scene_cp11_q1_s10,1111",detail,Katalina,...
-English,"scene_cp11_q1_s10,1111",detail,Io,"I could grab a bite too, now that you mention it."
-English,"scene_cp11_q1_s10,1111",detail,Lyria,That's not what I meant.
-English,"scene_cp11_q1_s10,1111",detail,Lyria,"I searched for Leviathan, and hunger is what I felt!"
-English,"scene_cp11_q1_s10,1111",detail,Vyrn,"Hey now. Nothing wrong with being hungry. Right, [플레이어]?"
-English,"scene_cp11_q1_s10,1111",sel1_txt,,We'll eat later.
-English,"scene_cp11_q1_s10,1111",sel2_txt,,Let's eat now.
-English,"scene_cp11_q1_s10,1111",detail,Lyria,"I <span class='scene-font-italic'>told</span> you I'm not hungry, [플레이어]!"
-English,"scene_cp11_q1_s10,1111",detail,Katalina,It's fine! You're a growing girl after all!
-English,"scene_cp11_q1_s10,1111",detail,Lyria,I told you I'm not hungry!
-English,"scene_cp11_q1_s10,1111",detail,Katalina,"Well, we should probably take a little break anyway."
-English,"scene_cp11_q1_s10,1111",detail,Rackam,"That's the spirit! Let's find ourselves a nice, safe spot to set up camp!"
-English,"scene_cp11_q1_s20,1112",synopsis,,[플레이어] and the others move away from the frenzy of the battle to try and find a place to rest. But they end up finding a group of hostile monsters instead.
-English,"scene_cp11_q1_s20,1112",detail,Lyria,"I'm not all that hungry, but I might as well.. Nom, nom."
-English,"scene_cp11_q1_s20,1112",detail,Vyrn,All that protesting and yet here you are eating anyway.
-English,"scene_cp11_q1_s20,1112",detail,Katalina,You must be exhausted after all that concentrating on Leviathan. Eat up and get some of that energy back.
-English,"scene_cp11_q1_s20,1112",detail,Eugen,They act like they're on vacation or something. Are they always like this?
-English,"scene_cp11_q1_s20,1112",detail,Io,"Yeah. I mean, as far as I know anyway..."
-English,"scene_cp11_q1_s20,1112",detail,Monsters,Grooaar!
-English,"scene_cp11_q1_s20,1112",detail,Rackam,Whoops. Looks like break time's over. We've got monsters coming our way!
-English,"scene_cp11_q2_s10,1121",synopsis,,"[플레이어] and the others try to distance themselves from the opposing armies, but one group of soldiers refuses to be left behind."
-English,"scene_cp11_q2_s10,1121",detail,Eugen,We should be able to avoid getting caught up in the fighting if we stay this far back.
-English,"scene_cp11_q2_s10,1121",detail,Rackam,"Yeah, but then we have to deal with swarms of monsters instead."
-English,"scene_cp11_q2_s10,1121",detail,Io,Er... It looks like we're gonna have to deal with more than just that.
-English,"scene_cp11_q2_s10,1121",detail,Vyrn,Uh-oh... We've got troops creeping up on us. Think they're from the empire?
-English,"scene_cp11_q2_s10,1121",detail,Katalina,We need to get out of here either way. They likely won't chase us too far if they see we don't intend to fight them.
-English,"scene_cp11_q2_s10,1121",detail,Lyria,Hm? There's something drawing closer... and it's weirdly familiar...
-English,"scene_cp11_q2_s20,1122",synopsis,,"[플레이어] and the others are being tailed by a group of imperial troops, which Katalina notes is a violation of the empire's code. The appearance of monsters forces the crew into a bitter fight."
-English,"scene_cp11_q2_s20,1122",detail,Imperial Agent,...!
-English,"scene_cp11_q2_s20,1122",detail,Vyrn,"Hey, Katalina! They're clearly tailing us!"
-English,"scene_cp11_q2_s20,1122",detail,Katalina,What do they think they're doing? Imperial soldiers are forbidden from chasing retreating enemies...
-English,"scene_cp11_q2_s20,1122",detail,Rackam,This isn't good... Looks like we have monsters coming from the other side.
-English,"scene_cp11_q2_s20,1122",detail,Katalina,"We're trapped! Which should we take care of first, [플레이어]?"
-English,"scene_cp11_q2_s20,1122",detail,Io,Who cares? We're gonna have to fight both of 'em eventually!
-English,"scene_cp11_q2_s20,1122",detail,Vyrn,"I think the choice's been made for us already, [플레이어]! Monsters first!"
-English,"scene_cp11_q3_s10,1131",synopsis,,"The group of soldiers chasing [플레이어] and the others is led by Captain Pommern. Having let Lyria and Katalina slip through his fingers on Zinkenstill, the enraged captain has set his sights on revenge."
-English,"scene_cp11_q3_s10,1131",detail,Katalina,Those guys aren't giving up... Do you think they have a grudge to settle with us?
-English,"scene_cp11_q3_s10,1131",detail,???,"Why yes, yes we do, my dear Lieutenant!"
-English,"scene_cp11_q3_s10,1131",detail,Lyria,I-I know that voice...
-English,"scene_cp11_q3_s10,1131",detail,Vyrn,You were there when we met Lyria and Katalina!
-English,"scene_cp11_q3_s10,1131",detail,Pommern,"Indeed I was! This is our first encounter since Zinkenstill, you vile turncoats!"
-English,"scene_cp11_q3_s10,1131",detail,Katalina,Captain Pommern?
-English,"scene_cp11_q3_s10,1131",detail,Pommern,"Ah, how long has it been since you called me that..."
-English,"scene_cp11_q3_s10,1131",detail,Katalina,Why are you here? I'll never let you have Lyria!
-English,"scene_cp11_q3_s10,1131",detail,Pommern,"Lyria, you say? Oh, no. I'm quite finished with that."
-English,"scene_cp11_q3_s10,1131",detail,Katalina,So why are you here? Why are you chasing us?
-English,"scene_cp11_q3_s10,1131",detail,Pommern,What a simple question! I am here for-
-English,"scene_cp11_q3_s10,1131",detail,Pommern,<span class='scene-font-italic'>Revenge most sweet</span>!
-English,"scene_cp11_q3_s10,1131",detail,Pommern,Prepare yourselves! You won't be scampering away from me <span class='scene-font-italic'>this</span> time!
-English,"scene_cp11_q3_s10,1131",detail,Rackam,Ugh. Another annoying weirdo for us to take down...
-English,"scene_cp11_q3_s10,1131",detail,Io,I don't care what you want with them... but I'm not gonna stand here and take it! We're breaking through!
-English,"scene_cp11_q3_s20,1132",synopsis,,"[플레이어] and the others once again find themselves face-to-face with Furias and the Black Knight. Furias boasts about Adversa, the empire's latest and greatest weapon, which has already been loaded onto his battleship."
-English,"scene_cp11_q3_s20,1132",detail,Katalina,"With all these imperial dogs and monsters all over us, we can't hold out forever..."
-English,"scene_cp11_q3_s20,1132",detail,Black Knight,Humph... That old fool can be quite tenacious when he sets his mind to it.
-English,"scene_cp11_q3_s20,1132",detail,Rackam,What'd you say?
-English,"scene_cp11_q3_s20,1132",detail,Furias,"Hm? What have we here? Are you trapped? You are, aren't you? Someone do something interesting before I die of boredom!"
-English,"scene_cp11_q3_s20,1132",detail,Eugen,"If yer feeling bored, why don't you take us on yourself?"
-English,"scene_cp11_q3_s20,1132",detail,Furias,"Staining my hands? Gross. Besides, this place is already finished."
-English,"scene_cp11_q3_s20,1132",detail,Lyria,What do you mean finished?
-English,"scene_cp11_q3_s20,1132",detail,Furias,"You'll see soon enough! You ruined our research lab! Oh, yes, you did!"
-English,"scene_cp11_q3_s20,1132",detail,Furias,But the weapon we found in Magnani Reef... It's finished now. And it's on my beautiful battleship.
-English,"scene_cp11_q3_s20,1132",detail,Rackam,Say what?
-English,"scene_cp11_q3_s20,1132",detail,Furias,"Oh, I would just looove the chance to show it to you... but unfortunately I have to leave you in the care of old Pommy here."
-English,"scene_cp11_q3_s20,1132",detail,Furias,"My only job is to make sure you don't get away! So don't let those monsters get you, okay?"
-English,"scene_cp11_q4_s10,1141",synopsis,,"With [플레이어] and the others trapped, Furias boasts of his plans to use Adversa to destroy the Auguste Isles. But a messenger shows up and tells Furias that his battleships are being swallowed by the sea one by one."
-English,"scene_cp11_q4_s10,1141",detail,Pommern,It seems that your bad deeds have finally caught up to you!
-English,"scene_cp11_q4_s10,1141",detail,Furias,"Bravo, guys! Fantastic show! But too bad. So sad. This is the end of the line."
-English,"scene_cp11_q4_s10,1141",detail,Furias,Time to get rid of this unsightly island! Somebody activate Adversa!
-English,"scene_cp11_q4_s10,1141",detail,Vyrn,"Argh... Looks like this might really be the end, [플레이어]."
-English,"scene_cp11_q4_s10,1141",detail,Lyria,No... This can't be happening...
-English,"scene_cp11_q4_s10,1141",detail,Katalina,"Don't worry, Lyria. Whatever this weapon of theirs is, I'm sure it's nothing to—"
-English,"scene_cp11_q4_s10,1141",detail,Lyria,No! I mean the imperials! They're being swallowed up!
-English,"scene_cp11_q4_s10,1141",detail,Black Knight,It's time.
-English,"scene_cp11_q4_s10,1141",detail,Furias,Didn't you hear me? Why aren't you moving? We need to hurry up and finish this—
-English,"scene_cp11_q4_s10,1141",detail,Imperial Soldier,Sir! I have orders from the empire!
-English,"scene_cp11_q4_s10,1141",detail,Furias,"What's this? Come again? What do they mean, <span class='scene-font-italic'>retreat</span>? What are they? Stupid?"
-English,"scene_cp11_q4_s10,1141",detail,Imperial Soldier,"B-but, sir! More than half the airships we've anchored have been swallowed up by the sea!"
-English,"scene_cp11_q4_s10,1141",detail,Furias,What is the meaning of this?
-English,"scene_cp11_q4_s10,1141",detail,Furias,Blast!
-English,"scene_cp11_q4_s10,1141",detail,Furias,Back to the battleship! We've got work to do!
-English,"scene_cp11_q4_s10,1141",detail,Pommern,G-General?
-English,"scene_cp11_q4_s10,1141",detail,Rackam,"I'm not sure what's going on, but we've got a chance now!"
-English,"scene_cp11_q4_s10,1141",detail,Katalina,"Agreed. [플레이어], let's take advantage of the confusion to escape!"
-English,"scene_cp11_q4_s20,1142",synopsis,,"Lyria comes to understand that Leviathan and the sea are one and the same, and that Leviathan swallowed the airships to heal itself. An enraged Pommern attacks the crew."
-English,"scene_cp11_q4_s20,1142",detail,Io,Huff... Huff...
-English,"scene_cp11_q4_s20,1142",detail,Io,Why are the empire's airships getting swallowed up by the sea?
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,"No, it'd be more accurate to say they were eaten."
-English,"scene_cp11_q4_s20,1142",detail,Vyrn,Black Knight!
-English,"scene_cp11_q4_s20,1142",detail,???,...
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,"I do believe you understand now. Don't you, Lyria?"
-English,"scene_cp11_q4_s20,1142",detail,Lyria,Y-yes. The hunger I've been feeling was... Leviathan's.
-English,"scene_cp11_q4_s20,1142",detail,Lyria,Which means that Leviathan's the one who ate the airships...
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,Precisely. Leviathan has been changing for quite some time now. Becoming one with the sea. Giving it power.
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,But the damage done to it by the sea's pollution was too much for it to recover from on its own. It compensated by eating the airships.
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,"And having done that, Leviathan is now stronger than ever before."
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,It was only a matter of time until it manifested. What a flock of fools... but even scum can be useful from time to time.
-English,"scene_cp11_q4_s20,1142",detail,Eugen,The sea... Leviathan ate the airships?
-English,"scene_cp11_q4_s20,1142",detail,Eugen,You blasted fool! Do you have any idea what you've done? The sea is everything to Auguste!
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,"Quiet, worm! Do you intend to place the blame at my feet? Have you no shame?"
-English,"scene_cp11_q4_s20,1142",detail,Black Knight,"Disgusting. Come, my dear. We have our part to play."
-English,"scene_cp11_q4_s20,1142",detail,???,...
-English,"scene_cp11_q4_s20,1142",detail,Vyrn,Hey! Wait!
-English,"scene_cp11_q4_s20,1142",detail,Pommern,"No, <span class='scene-font-italic'>you</span> wait! You've left me with no choice..."
-English,"scene_cp11_q4_s20,1142",detail,Pommern,I'll perform your last rites myself!
-English,"scene_cp11_q4_s20,1142",detail,Vyrn,What the? He just transformed!
-English,"scene_cp11_q4_s20,1142",detail,Pommern,This is what the empire has been working toward... Behold the power of dark essence!
-English,"scene_cp11_q4_s20,1142",detail,Pommern,I'll crush every last one of you to dust!
-English,"scene_cp11_q4_s20,1142",detail,Rackam,"Tch... Talk about stubborn. Let's go, [플레이어]! It's time to show them what the good guys can do!"
-English,"scene_cp11_q4_s30,1143",synopsis,,"[플레이어] and the others defeat Pommern, but it's only a matter of time until Leviathan swallows the Auguste Isles. Lyria senses power from Auguste Falls, so they head there to try to quell Leviathan's rage."
-English,"scene_cp11_q4_s30,1143",detail,Pommern,Grgh... Cough...
-English,"scene_cp11_q4_s30,1143",detail,Pommern,This isn't over...
-English,"scene_cp11_q4_s30,1143",detail,Pommern,"Next time, my face will be the last thing you see. Prepare yourself to meet your maker!"
-English,"scene_cp11_q4_s30,1143",detail,,"With a pained look on his face, Pommern flees in the direction of the imperial army."
-English,"scene_cp11_q4_s30,1143",detail,Rackam,Whew... Looks like the empire's fleeing Auguste en masse.
-English,"scene_cp11_q4_s30,1143",detail,Eugen,Of course they are. This is a whopper of a situation.
-English,"scene_cp11_q4_s30,1143",detail,Eugen,"I just got word from one of my comrades. A lot of unpopulated islands are being swallowed by the sea... Or eaten, I guess."
-English,"scene_cp11_q4_s30,1143",detail,Io,"This Leviathan's a serious eater. Once it realizes how much weight it's gonna put on, it'll be too late!"
-English,"scene_cp11_q4_s30,1143",detail,Vyrn,This is Leviathan we're talking about here. I don't think it's <span class='scene-font-italic'>ever</span> gonna stop eating.
-English,"scene_cp11_q4_s30,1143",detail,Katalina,Which means the populated islands are in danger too.
-English,"scene_cp11_q4_s30,1143",detail,Lyria,"We need to stop it. No, we <span class='scene-font-italic'>will</span> stop it! Right, [플레이어]?"
-English,"scene_cp11_q4_s30,1143",detail,Katalina,Now I get it... The damage done to Leviathan by all that pollution is what sent it into a frenzy!
-English,"scene_cp11_q4_s30,1143",detail,Katalina,Perhaps Lyria can use her power to subdue it...
-English,"scene_cp11_q4_s30,1143",detail,Katalina,"But we have to figure out where Leviathan is first, don't we?"
-English,"scene_cp11_q4_s30,1143",detail,Lyria,"I can feel it, Katalina... Its power seemed scattered before, but now it's focused in a single place."
-English,"scene_cp11_q4_s30,1143",detail,Lyria,Over there... I can sense its presence over there!
-English,"scene_cp11_q4_s30,1143",detail,Eugen,That's where Auguste Falls is.
-English,"scene_cp11_q4_s30,1143",detail,Rackam,There you have it. Off we go to save the islands!
-English,"scene_cp11_q4_s30,1143",detail,,"The great primal beast Leviathan is now a calamity threatening Auguste, and it has taken form in the massive falls, fierce and ferocious."
+Japanese,scene_cp11_q1_s10、1111,synopsis,,<span class='scene-font-place'>アウギュステ</span>軍の本隊と帝国軍が交戦する中、ルリアは先ほどから感じていた気配から強烈な感情を読み取る。しかし、それは空腹を訴えるもので、一同は安全な場所へと移動を始める。,<span class = 'scene-font-place'> 아우귀스테 </ span> 군의 본대와 제국군이 교전 중 루리아는 방금 전부터 느끼고 있었다 기색에서 강렬한 감정을 읽을 수 있습니다. 하지만 배고픔을 호소하는 일행은 안전한 장소로 이동을 시작한다.
+Japanese,scene_cp11_q1_s10、1111,detail,,<span class='scene-font-katari'>オイゲン達の連絡を受けて</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>軍の本隊も到着し</span><br><span class='scene-font-katari'>辺りは混沌とした様相を呈していた。</span>,<span class = 'scene-font-katari'> 오이겐들의 연락을 받고 </ span> <br> <span class = 'scene-font-place'> 아우규스테 </ span> <span class = 'scene- font-katari '> 군의 본대도 도착 </ span> <br> <span class ='scene-font-katari '> 주변은 혼란 양상을 보이고 있었다. </ span>
+Japanese,scene_cp11_q1_s10、1111,detail,이오,どどど、どうしようっ!?<br>なんだか一気に、大変なことに……!,어떻게 하지!?<br>왠지 단번에、 큰일이 났어……!
+Japanese,scene_cp11_q1_s10、1111,detail,오이겐,慌てんじゃねぇよ、嬢ちゃん。<br><span class='scene-font-place'>アウギュステ</span>の本隊が来たからには<br>もう安心だ。,당황하지마、 아가씨.<br><span class='scene-font-place>>아우귀스테</span>본대가 왔으니<br>이제 안심이다.
+Japanese,scene_cp11_q1_s10、1111,detail,오이겐,ここは連中に任せておけば<br>じきに片が付くと思うぜ。,이곳은 동료들에게 맡겨두면 <br> 곧 처리가 될 거야.
+Japanese,scene_cp11_q1_s10、1111,detail,카타리나,そうか……<br>ならば、私達は黒騎士を探そう。<br>この状況では、おそらくそれが……,그래……<br>그럼 우린 흑기사를 찾자.<br>이 상황에선 아마 그게……
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,――待って、カタリナ。<br>さっきから、何か変な感じがする……,--기다려、 카타리나.<br>아까부터、 뭔가 이상한 느낌이 들어……
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,怖いことが起こりそう……<br>何かが……ものすごく怒ってる……<br>それに、すごく強い感情が……,무서운 일이 일어날 것 같아……<br> 뭔가가……굉장히 화가 나 있어……<br> 게다가、 굉장히 강한 감정이……
+Japanese,scene_cp11_q1_s10、1111,detail,카타리나,なに……?<br>それはまさか、<br>リヴァイアサンが……!?,뭐……?<br>그건 설마、<br>리바이아산이……!?
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,お……,오……
+Japanese,scene_cp11_q1_s10、1111,detail,카타리나,お?,어?
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,おなかへった……,배고파……
+Japanese,scene_cp11_q1_s10、1111,detail,카타리나,…………,…………
+Japanese,scene_cp11_q1_s10、1111,detail,이오,あ、そういえばあたしも、<br>ちょっとお腹すいてきたかも……,아、 그러고보니 나도 <br> 조금 배가 고파진걸지도……
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,<span class='scene-font-4'>ちーがーいーまーすー!</span>,<span class='scene-font-4'>틀ー리ー다ー구ー요ー!</span>
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,リヴァイアサンの気配を探ってたら、<br>そう感じて……,리바이아산의 낌새를 챘더니、<br>그렇게 느껴져……
+Japanese,scene_cp11_q1_s10、1111,detail,비,いや、腹が減るのは、<br>悪いことじゃないと思うぜ?<br>なぁ、[플레이어]?,아니、 배가 고픈 게 나쁜 건 아닌 것 같은데?<br> 야、 [br]?
+Japanese,scene_cp11_q1_s10、1111,sel1_txt,,<span class='scene-font-katari'>ご飯にしよう</span>,<span class = 'scene-font-katari'> 밥하자 </ span>
+Japanese,scene_cp11_q1_s10、1111,sel2_txt,,<span class='scene-font-katari'>食べ過ぎは良くない</span>,<span class = 'scene-font-katari'> 과식은 좋지 않다 </ span>
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,もー! [플레이어]まで!,-![지ー타]까지!
+Japanese,scene_cp11_q1_s10、1111,detail,카타리나,ははは、いいじゃないか。<br>よく食べよく寝る子は<br>よく育つと言うしな。,하하、 좋잖아?<br>잘 먹는 잘 자는 아이는<br>잘 자란다고 하네.
+Japanese,scene_cp11_q1_s10、1111,detail,루리아,だから私は、<br>食いしん坊じゃないですー!,그래서 나는、<br>먹보지 않습니다!
+Japanese,scene_cp11_q1_s10、1111,detail,카타리나,まぁまぁ、なんにせよ、<br>そろそろ休憩を<br>取ったほうがいいだろう。,뭐 뭐 뭐에、<br>이제 휴식을<br> 취하는 게 좋을 것이다.
+Japanese,scene_cp11_q1_s10、1111,detail,라캄,うっし!<br>んじゃ、とりあえずは、<br>安全な場所を確保しに行こうぜ!,호소하라!<br>그럼 일단은<br>안전한 장소를 확보하러 갈까?
+Japanese,scene_cp11_q1_s20、1112,synopsis,,軍勢同士のぶつかり合いから少し離れた場所で、<span>[플레이어]</span>一行は休憩を取るが、そうしている間にも魔物は容赦なく襲いかかってくる。,군대끼리의 싸움에서 조금 떨어진 지점에서<span>[지ー타]</span>일행은 휴식을 취하지만、 그 사이에도 마물은 가차 없이 번진다.
+Japanese,scene_cp11_q1_s20、1112,detail,루리아,別にお腹がすいてたわけじゃ<br>ないはずなんだけど……もぐもぐ。,별로 배가 고팠던 것은<br> 않을 것인데……냠냠.
+Japanese,scene_cp11_q1_s20、1112,detail,비,とかなんとか言いつつ<br>食うには食うんだな。,라거나 뭔가 말하면서<br> 먹기는 먹는구나.
+Japanese,scene_cp11_q1_s20、1112,detail,카타리나,集中しすぎて<br>体力を消耗したのだろう。<br>しっかり食べて回復するといい。,집중하고<br>체력을 소모했을 것이다.<br>확실히 먹고 회복하면 된다.
+Japanese,scene_cp11_q1_s20、1112,detail,오이겐,マイペースな連中だなぁ、おい。<br><span class='scene-font-2'>こいつら、いつもこんな感じなのか?</span>,마이 페이스 한 무리네 야、<br><span class='scene-font-2'>이 녀석들、 언제나 이런 느낌인가?</span>
+Japanese,scene_cp11_q1_s20、1112,detail,이오,あたしが知ってる限りでは<br>だいたいこんな感じ……,내가 알고 있는 한에서는<br>대체로 이런 느낌...
+Japanese,scene_cp11_q1_s20、1112,detail,마물들,<span class='scene-font-4'>グオォォォン!</span>,<span class='scene-font-4'>크와아아앙!</span>
+Japanese,scene_cp11_q1_s20、1112,detail,라캄,おっと、休憩はここまでみたいだ。<br>また魔物どもがお出ましだぜ!,이런、 휴식은 여기까지인 것 같아.<br>또 마물들이!
+Japanese,scene_cp11_q2_s10、1121,synopsis,,<span class='scene-font-place'>アウギュステ</span>と帝国の戦闘から距離を取る<span>[플레이어]</span>一行。しかし、どれだけ離れようとも執拗に<span>[플레이어]</span>達を追ってくる一団があった。,<span class='scene-font-place>> 아우귀스테</span>과 제국의 전투에서 거리를 두는 <span>[플레이어]</span> 한 줄.그러나、 아무리 떨어져 있어도 집요하게<span>[플레이어]</span>들을 쫓아오는 일단이 있었다.
+Japanese,scene_cp11_q2_s10、1121,detail,오이겐,これだけ離れりゃ<br>帝国と<span class='scene-font-place'>アウギュステ</span>の戦闘に<br>巻き込まれることもねぇだろ。,이만큼 떨어져 있으면 <br> 제국과 <span class='scene-font-place>> 아우귀스테 </span> 전투에 <br> 말려들지도 않잖아.
+Japanese,scene_cp11_q2_s10、1121,detail,라캄,その代わり、<br>魔物がうようよいるけどな。,그대신 <br>마물이 득실거리는데 말야.
+Japanese,scene_cp11_q2_s10、1121,detail,이오,ね、ねぇ……<br>そんな簡単な話じゃ<br>済まないみたいだけど……,저기 말이야……<br>그렇게 간단한 이야기로는<br>미안한 것 같지만……
+Japanese,scene_cp11_q2_s10、1121,detail,비,くっ……<br>近づいてくる一団があるなぁ。<br>ありゃ、帝国軍か?,응……<br>다가오는 일단이 있네.<br>라니、 제국군인가?
+Japanese,scene_cp11_q2_s10、1121,detail,카타리나,とりあえずは距離を取ろう。<br>戦意がないことがわかれば<br>向こうも深追いはしないはずだ。,일단 거리를 두자.<br>전의가 없음을 알면<br>그쪽도 깊은 추격은 하지 않을 것이다.
+Japanese,scene_cp11_q2_s10、1121,detail,루리아,あれ……?<br>この近づいてくる気配……<br>前にもどこかで……,어라……?<br>이 다가오는 기미……<br>앞에도 어딘가에서……
+Japanese,scene_cp11_q2_s20、1122,synopsis,,帝国のある一団に狙われる<span>[플레이어]</span>一行。それはエルステ帝国の軍規に照らし合わせても異端な行動だとカタリナは語る。さらに魔物も現れ、<span>[플레이어]</span>一行は苦しい戦いを余儀なくされる。,제국의 한 무리의 노림을 받는 <span> [플레이어] </span> 일행.그것은 에르스테 제국의 군기에 비추어도 이단한 행동이라고 카타리나는 말한다. 게다가 마물도 나타나 <span>[플레이어]</span>일행은 고통스러운 싸움을 피할 수 없게 된다.
+Japanese,scene_cp11_q2_s20、1122,detail,제국병,<span class='scene-font-4'>……!</span>,< span   class = ' scene - font - 4 ' > …… ! < / span >
+Japanese,scene_cp11_q2_s20、1122,detail,비,おい、姐さん!<br>あいつら、明らかにオイラ達を<br>狙ってきてるぜ!?,야 누나!<br>저녀석들 분명 오빠들을<br>노려오는거지?!
+Japanese,scene_cp11_q2_s20、1122,detail,카타리나,どういうことなんだ……?<br>帝国では、戦闘意志のない者の<br>深追いは厳禁だったはず……,어떻게 된 거야……?<br>제국에서는、 전투 의지가 없는 자의<br>깊은 추격은 엄금이었을 것이다……
+Japanese,scene_cp11_q2_s20、1122,detail,라캄,まずいな……<br>見ろよ、向こうからは<br>魔物が近づいて来てやがる。,큰일이네……<br>봐라、 저쪽에서는<br>마물이 다가오고 있어.
+Japanese,scene_cp11_q2_s20、1122,detail,카타리나,挟まれたか……!<br>[플레이어]、<br>どちらを先に片づける!?,끼였나……!<br>[플레이어]、<br>어느 쪽을 먼저 정리할래!?
+Japanese,scene_cp11_q2_s20、1122,detail,이오,どっちだっていいじゃない!<br>どうせ、どっちを選ぼうと<br>どっちとも戦うことになるんでしょ?,어느쪽이라도 상관없잖아!<br>어차피、어느쪽을 선택하든<br>어느쪽과도 싸우게되는거지?
+Japanese,scene_cp11_q2_s20、1122,detail,비,って、もう選んでる余裕は<br>ないみたいだぜ!<br>[플레이어]! まずは魔物からだ!,라고、 이제 선택할 여유는<br>없는 것 같아!<br>[플레이어]! 우선은 마물부터야!
+Japanese,scene_cp11_q3_s10、1131,synopsis,,執拗に<span>[플레이어]</span>一行を追う一団は、かつて<span class='scene-font-place'>ザンクティンゼル</span>でルリアとカタリナに逃げられたポンメルン大尉が率いるものだと発覚する。復讐に燃えるポンメルンは兵と共に<span>[플레이어]</span>一行に襲いかかる。,집요하게 <span>[플레이어]</span>일행을 쫓는 일단은 과거 <spanclass='scene-font-place>>장크틴젤</span>로 루리아와 카탈리나에게 도망친 폼메른 대위가 이끄는 것으로 발각된다.복수에 불타는 퐁메른은 군인과 함께 <span> [플레이어]</span> 일행에게 덤벼든다.
+Japanese,scene_cp11_q3_s10、1131,detail,카타리나,あの一団、執拗に追ってくるな……<br>何か私達に恨みでもあるのか……?,저 일단、 집요하게 쫓아오지 마라……<br>뭔가 우리에게 원망이라도 있는 거야……?
+Japanese,scene_cp11_q3_s10、1131,detail,???,その通りですねェ!<br>カタリナ中尉ィィィ!,맞네요!<br>카탈리나 중위!
+Japanese,scene_cp11_q3_s10、1131,detail,루리아,そ、その声は……,그、 그 소리는……
+Japanese,scene_cp11_q3_s10、1131,detail,비,なっ!?<br>テメェはルリアと姐さんに<br>初めて会った日の……!,헉!?<br>테메는 루리아와 누나를<br>처음만났던날...!
+Japanese,scene_cp11_q3_s10、1131,detail,폼메른,<span class='scene-font-place'>ザンクティンゼル</span>以来ですねェ!<br>憎たらしい裏切者どもォ!,<span class='scene-font-place>>장크틴젤</span>이래 요!<br> 얄미운 배신자들이오!
+Japanese,scene_cp11_q3_s10、1131,detail,카타리나,ポンメルン大尉!?,폰메른 대위!?
+Japanese,scene_cp11_q3_s10、1131,detail,폼메른,貴方にそう呼ばれるのも、<br>懐かしいですねェ……,당신에게 그렇게 불리는 것도、<br>그리워요……
+Japanese,scene_cp11_q3_s10、1131,detail,카타리나,なぜここに!<br>まさかルリアを取り返すため……!?,어째서 여기에!<br>설마 루리아를 되찾기 위해서……?!
+Japanese,scene_cp11_q3_s10、1131,detail,폼메른,ルリアァ?<br>ああ、そんなもの<br>もうどうでもいいんですよねェ。,루리아?<br>아、 그런거<br>이제 아무래도 상관없는거죠?
+Japanese,scene_cp11_q3_s10、1131,detail,카타리나,な、なら、どうしてここに……<br>私達を狙ってきたのか!,뭐、 그렇다면 어째서 여기에……<br>우리를 노리고 온 것인가!
+Japanese,scene_cp11_q3_s10、1131,detail,폼메른,簡単な質問ですねェ……<br>どうして吾輩がここにいるか?<br>それは……,간단한 질문이네요....<br> 어째서 내가 여기있습니까?그것은……
+Japanese,scene_cp11_q3_s10、1131,detail,폼메른,<span class='scene-font-4'>復讐スルためですねェェッ!</span>,<span class='scene-font-4>>복수슬때문이네요!!</span>
+Japanese,scene_cp11_q3_s10、1131,detail,폼메른,絶対に逃がしはしませんからねェ!<br>覚悟してくださいよォッ!,절대로 놓치지 않을테니까요!<br>각오하세요!
+Japanese,scene_cp11_q3_s10、1131,detail,라캄,くっ……<br>なんか面倒な奴が出てきやがったな……,읏……<br>왠지 귀찮은 녀석이 나왔군……
+Japanese,scene_cp11_q3_s10、1131,detail,이오,どんな因縁か知らないけど……<br>やられるわけにはいかないんだから!<br>突破させてもらうからねっ!,어떤 인연인지는 모르지만……<br>당할 수는 없으니까!<br>돌파하고 말거야!
+Japanese,scene_cp11_q3_s20、1132,synopsis,,<span>[플레이어]</span>一行の前に黒騎士とフュリアスが再び姿を現す。そしてフュリアスは、帝国が海を腐らせながら開発していた兵器アドウェルサは、すでに完成させ自らの戦艦に搭載したことを告げる。,<span> [플레이어] </span> 일행 앞에 흑기사와 퓨리아스가 다시 모습을 드러낸다. 그리고 퓨리아스는 제국이 바다를 썩혀가며 개발하고 있던 병기 애드웰사는 이미 완성시켜 자신의 전함에 탑재했음을 알린다.
+Japanese,scene_cp11_q3_s20、1132,detail,카타리나,帝国兵と魔物を<br>同時に相手にしていたのでは、<br>そういつまでももたないぞ……,제국병과 마물을<br>동시에 상대하고 있는 것은、<br>그렇게 언제까지나 지탱할수 없어……
+Japanese,scene_cp11_q3_s20、1132,detail,흑기사,ふん……あの負け犬の執念も、<br>なかなか大したものじゃないか。,흠…저 패배자의 집념도 <br> 꽤 대단한데.
+Japanese,scene_cp11_q3_s20、1132,detail,라캄,てめぇは……!,넌……!
+Japanese,scene_cp11_q3_s20、1132,detail,퓨리어스,おや? おやおやおやぁー?<br>もう逃げないのかな?<br>もっと頑張ってよ、退屈しちゃうよ?,오야? 오야오야~?<br>이제 도망가지 않는건가?<br> 더 열심히 해、 심심해.
+Japanese,scene_cp11_q3_s20、1132,detail,오이겐,<span class='scene-font-2'>まったく、うるせぇ若造だ……</span><br><span class='scene-font-2'>少しゃ自分で戦ってみたらどうだ?</span>,<span class='scene-font-2> 정말이지 시끄러워애송이다……</span><br><spanclass='scene-font-2> 약간 직접 싸워보는게 어때?</span>
+Japanese,scene_cp11_q3_s20、1132,detail,퓨리어스,やだよ、そんなの気持ち悪い。<br>それにもう、そろそろここは<br>丸ごとなくなっちゃうからね。,싫어、 그런 거 징그러워.<br>그리고 이제 슬슬 이곳은<br> 통째로 없어지니까.
+Japanese,scene_cp11_q3_s20、1132,detail,루리아,丸ごと……なくなっちゃう?,통째로……사라져 버려?
+Japanese,scene_cp11_q3_s20、1132,detail,퓨리어스,そう!<br>君達が研究所を<br>壊してくれたんだってね?,그래!<br>너희가 연구소를<br>부셔줬다면서?
+Japanese,scene_cp11_q3_s20、1132,detail,퓨리어스,でも、マニヤーニ環礁の兵器……<br>アドウェルサはもう完成して<br>ボクの戦艦に載ってるんだ。,하지만、 마니야니 환초의 병기……<br>아드웰사는 이미 완성해서<br>나의 전함에 실려있어.
+Japanese,scene_cp11_q3_s20、1132,detail,라캄,なんだと……!?,뭐라고.....!?
+Japanese,scene_cp11_q3_s20、1132,detail,퓨리어스,早く君達に使ってあげたいけど……<br>トドメはポンちゃんに<br>譲ってあげなくちゃね。,빨리 너희에게 써주고 싶은데...<br>토도메는 폰에게<br>양보해줘야겠지?
+Japanese,scene_cp11_q3_s20、1132,detail,퓨리어스,さぁ、ボクにできるのは<br>君達を追い詰めるところまでだ!<br>だから、魔物ごときにやられないでね?,자、 내가 할 수 있는 것은<br>너희를 몰아붙이는 것 까지다!<br>그러니까、 마물처럼 당하지 말아요?
+Japanese,scene_cp11_q4_s10、1141,synopsis,,追い詰められる<span>[플레이어]</span>一行を前に、フュリアスはアドウェルサを使って<span class='scene-font-place'>アウギュステ</span>を島ごと消滅させる指示を出す。しかし、そこに現れた伝令は、帝国の戦艦が次々と海に飲まれていると告げた。,막다른 골목에 몰린 <span>[플레이어]</span>일행을 앞두고 퓨리아스는 어드웰사를 사용해 <spanclass='scene-font-place>>아우귀스테</span>를 섬마다 소멸시키라는 지시를 내린다.하지만 그곳에 나타난 전령은 제국의 전함들이 속속 바다에 휩쓸리고 있다고 고했다.
+Japanese,scene_cp11_q4_s10、1141,detail,폼메른,どうやら貴様達の悪運も<br>ここまでのようですねェ!,그럭저럭 당신들의 악운도 여기까지인 것 같네요!
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,いやぁ、君達頑張ったねー!<br>でも、残念、もう終わりだよ。,이야~ 너희들 열심히 했다!<br>하지만、 아쉽다. 이제 끝이야.
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,もう島ごと消す準備もしておこうか!<br>誰か、アドウェルサの起動を!,이제 섬마다 끌 준비도 해둘까!<br>누군가 애드웰사 부팅을!
+Japanese,scene_cp11_q4_s10、1141,detail,비,くそぅ……<br>[플레이어]、<br>こりゃ、絶体絶命ってやつだぜ……,이런....<br>[플레이어]、<br>이건、절체절명이라는 녀석이야......
+Japanese,scene_cp11_q4_s10、1141,detail,루리아,そんな……<br>うそ……だめ、だよ……<br>そんなの……,그런……<br>거짓말……안돼.……<br>그런 거……
+Japanese,scene_cp11_q4_s10、1141,detail,카타리나,ルリア、心配するな……<br>帝国の兵器など、なんとでも……,루리아、 걱정하지마....<br>제국의 병기등、 어떻게든....
+Japanese,scene_cp11_q4_s10、1141,detail,루리아,<span class='scene-font-4'>違うのっ!</span><br>て、帝国の人達が……!<br>みんな飲まれて……!,<span class = 'scene-font-4'> 차이 정액! </ span> <br> て 제국의 사람들이 ......! <br> 모두 마셔 ......!
+Japanese,scene_cp11_q4_s10、1141,detail,흑기사,<span class='scene-font-2'>……そろそろか。</span>,<span class = 'scene-font-2'> ... 이제 하나. </ span>
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,<span class='scene-font-4'>聞こえなかったのか!?</span><br><span class='scene-font-4'>なぜ誰も動かないっ!?</span><br>早くこの島を……,<span class = 'scene-font-4'> 들리지 않았던 것일까! ? </ span> <br> <span class = 'scene-font-4'> 왜 아무도 움직이지 않아! ? </ span> <br> 빨리이 섬을 ......
+Japanese,scene_cp11_q4_s10、1141,detail,제국병,<span class='scene-font-4'>フュリアス将軍閣下!</span><br><span class='scene-font-4'>伝令が来ています!</span>,<span class = 'scene-font-4'> 퓨리어스 장군 각하! </ span> <br> <span class = 'scene-font-4'> 전령이 온다! </ span>
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,あ? なに? ……はぁ?<br>撤退しろって? 馬鹿じゃないの?,아? 뭐? ......하아? <br> 철수하라고? 바보 아냐?
+Japanese,scene_cp11_q4_s10、1141,detail,제국병,し、しかし!<br>海に係留していた我が軍の戦艦が、<br>半数以上、海に飲まれています!,하지만!<br>바다에 계류되어 있던 아군의 전함이<br>반수 이상 바다에 휩쓸리고 있습니다!
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,なにそれ……,그게 뭐야……
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,<span class='scene-font-4'>どういうことだよ!?</span>,<span class = 'scene-font-4'> 무슨 일이야! ? </ span>
+Japanese,scene_cp11_q4_s10、1141,detail,퓨리어스,くそっ! 戦艦に戻るぞ!<br>準備しろ!,젠장! 다시 전함으로 돌아간다! <br> 준비해라!
+Japanese,scene_cp11_q4_s10、1141,detail,폼메른,あっ! 将軍閣下!?,앗! 쇼군 각하!?
+Japanese,scene_cp11_q4_s10、1141,detail,라캄,……状況はよくわからんが、<br>これはチャンスだぜ!,……상황은 잘 모르겠지만、 <br> 이건 찬스다!
+Japanese,scene_cp11_q4_s10、1141,detail,카타리나,ああ……<br>[플레이어]! 混乱に乗じて、<br>この場を脱出するぞ!,아아……<br>[플레이어]! 혼란을 틈타 <br>이 자리를 탈출할 것이다!
+Japanese,scene_cp11_q4_s20、1142,synopsis,,黒騎士の問いにルリアは、リヴァイアサンが海と同化していたその身を癒すため、帝国の戦艦を飲みこんだのだと告げる。戦慄する一同だが、そこへ執念に囚われた狂乱のポンメルンが襲いかかってくる。,흑기사의 물음에 루리아는 리바이아상이 바다와 동화된 몸을 달래기 위해 제국의 전함을 집어삼킨 것이라고 말한다.전율하는 일동이지만 거기에 집념에 사로잡힌 광란의 폼메른이 덮친다.
+Japanese,scene_cp11_q4_s20、1142,detail,이오,はぁ……はぁ……,하아... 하아...
+Japanese,scene_cp11_q4_s20、1142,detail,이오,だ、だけど、<br>帝国の艇が飲まれたって<br>いったい何があったの?,그런데、<br>제국의 선박을 집어삼켰다고<br>도대체 무슨일이 있었던거야?
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,違うな、<br>むしろ、海に飲まれたというより<br>海に喰われた、と言ったほうが正しい。,아니야、<br>오히려 바다에 먹혔다기보다<br>바다에 먹혔다고 하는 편이 옳다.
+Japanese,scene_cp11_q4_s20、1142,detail,비,黒騎士!,흑기사!
+Japanese,scene_cp11_q4_s20、1142,detail,???,…………,…………
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,ルリア、お前ならもう<br>全てわかってるんじゃないのか?,루리아、 너라면 벌써<br>다 알고 있지 않을까?
+Japanese,scene_cp11_q4_s20、1142,detail,루리아,……き、きっと<br>私が感じた飢えは<br>リヴァイアサンのだったんです。,……기、 분명<br>제가 느낀 굶주림은<br>리바이아산이었죠.
+Japanese,scene_cp11_q4_s20、1142,detail,루리아,だから、きっと<br>リヴァイアサンが艇を食べたんだ……,그래서、 분명<br>리바이아상이 배를 잡아먹은거야……
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,その通りだ。<br>リヴァイアサンは長い間姿を変え、<br>海と同化して、海に力を与えていた。,<br> 리버이아산은 오랫동안 모습을 바꾸었고 <br> 바다와 동화하여 바다에 힘을 실어주었다.
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,しかし、腐敗によるダメージは<br>回復力の限界を超え、<br>艇を喰うことでそれを補おうとした。,그러나 부패에 의한 피해는 <br> 회복력의 한계를 넘어、 <br>정을 먹음으로써 그것을 보충하고자 했다.
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,おかげで、<br>リヴァイアサンの気が<br>いままでよりハッキリしている。,덕분에 리바이아산의 기운이 더 맑아졌다.
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,顕現も時間の問題だろう。<br>まったく馬鹿な連中だったが……<br>下衆は下衆なりに役に立ってくれたよ。,현현도 시간문제일 것이다.정말이지 바보같은 패거리였지만....<br> 하중은 하중 나름대로 도움이 되었어.
+Japanese,scene_cp11_q4_s20、1142,detail,오이겐,海が……<br>リヴァイアサンが艇を喰っただと……?,바다가……<br>리바이아산이 배를 먹었다고……?
+Japanese,scene_cp11_q4_s20、1142,detail,오이겐,て、てめぇ……!<br>自分が何やったかわかってんのか!?<br><span class='scene-font-place'>アウギュステ</span>にとって、海は……!,너....!<br>자신이 뭘한건지 알고있는거야?!<br><span class='scene-font-place>>아우귀스테</span>에게 바다는……!
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,<span class='scene-font-4'>黙れ、下衆が!</span><br>貴様こそ自らの咎を置いて<br>何を吼えている? 恥を知ることだな。,<span class='scene-font-4> 닥쳐라 하중이! </span><br> 네 놈이야말로 스스로 허물을 두고 <br> 무슨 소리를 짖고 있니? 부끄러운 줄 아는구나.
+Japanese,scene_cp11_q4_s20、1142,detail,흑기사,まったく不愉快だ……<br>行くぞ、人形。<br>我々にも役割がある。,정말 불쾌하다…<br>간다、 인형.<br>우리에게도 역할이 있다.
+Japanese,scene_cp11_q4_s20、1142,detail,???,…………,…………
+Japanese,scene_cp11_q4_s20、1142,detail,비,あっ!<br>おい、待て!,앗!<br>야、 기다려!
+Japanese,scene_cp11_q4_s20、1142,detail,폼메른,待つのは貴様らですネェ!<br>こうなったら最後の手段ですよォ……,기다리는건 당신들이에요!<br>이렇게 되면 최후의 수단이죠~~
+Japanese,scene_cp11_q4_s20、1142,detail,폼메른,この私がッ! 直々にッ!<br>引導を渡してあげますねェェェッ!,여기 제가 바로!!<br>인도를 전해드릴게요!!
+Japanese,scene_cp11_q4_s20、1142,detail,비,な、なんだこいつ!?<br>変身しやがった!,뭐、 이녀석!?변신을 했다!
+Japanese,scene_cp11_q4_s20、1142,detail,폼메른,これが<span class='scene-font-place'>エルステ帝国</span>が誇る<br>星晶研究の到達点……<br>魔晶の力なんですよォォォォッ!!,이것이 <span class='scene-font-place>>에르스테 제국</span>이 자랑하는 <br>성정연구의 도달점……<br>마정의 힘이죠오오오오오오오오!!
+Japanese,scene_cp11_q4_s20、1142,detail,폼메른,貴様らなど、完膚なきまでに<br>叩き潰してあげますからねェェェッ!!,당신들、 철저하게<br>두들겨 패줄테니까!!
+Japanese,scene_cp11_q4_s20、1142,detail,라캄,ちっ……しつこい野郎だ。<br>[플레이어]!<br>いい加減、白黒つけてやろうぜ!,제기랄... 끈질긴 놈이다.<br>[플레이어]!<br>적당히 흑백을 가려주자!
+Japanese,scene_cp11_q4_s30、1143,synopsis,,ポンメルンを退けた<span>[플레이어]</span>一行だが、このままではリヴァイアサンは<span class='scene-font-place'>アウギュステ列島</span>をも飲みこんでしまう。リヴァイアサンの暴走を止めるため、一行は強い気配のあるアウギュステ大瀑布へと向かう。,폼메른을 물리친 <span>[플레이어]</span>일행이지만、 이대로라면 리버이아산은 <spanclass='scene-font-place>>아우귀스테 열도</span>도 삼켜버린다.리버이아산의 폭주를 막기 위해 일행은 강력한 기색이 있는 아우귀스테 대폭포로 향한다.
+Japanese,scene_cp11_q4_s30、1143,detail,폼메른,グ、ガ……グフッ……,구、 가.... 구훗.......
+Japanese,scene_cp11_q4_s30、1143,detail,폼메른,こ、これで済んだと<br>思わないことですねェ……,이、 이걸로 끝났다고 <br> 생각하지 않는군요……
+Japanese,scene_cp11_q4_s30、1143,detail,폼메른,次に会った時が、<br>貴様らの最後ですねェ……<br>首を洗って待ってるといいですよォッ!,다음에 만났을때가 <br> 네놈들의 마지막이군요....<br>목을 씻고 기다리면 좋겠어요 윽!
+Japanese,scene_cp11_q4_s30、1143,detail,,<span class='scene-font-katari'>負傷した身体を引きずって、</span><br><span class='scene-font-katari'>ポンメルンは帝国軍本隊を追うように</span><br><span class='scene-font-katari'>去って行った。</span>,<span class = 'scene-font-katari'> 부상당한 몸을 끌고 </ span> <br> <span class = 'scene-font-katari'> 뽄메룬는 제국군 본대를 쫓 듯이 </ span > <br> <span class = 'scene-font-katari'> 떠났다. </ span>
+Japanese,scene_cp11_q4_s30、1143,detail,라캄,ふぅ……これで帝国の連中は<br>軒並み<span class='scene-font-place'>アウギュステ</span>から<br>逃げてったみてぇだな。,후……이것으로 제국 친구들은 <br> 일제히 <span class='scene-font-place>> 아우귀스테 </span>에서 <br> 도망을 간 모양이군.
+Japanese,scene_cp11_q4_s30、1143,detail,오이겐,そりゃ当然だろう……<br>やばいことになってるぜ、こいつァ。,그야 당연하지……<br>위험하게 됐어、 이녀석.
+Japanese,scene_cp11_q4_s30、1143,detail,오이겐,さっき仲間から伝令があった。<br>無人島がいくつか<br>海に飲まれた……喰われたってよ。,아까 동료로부터 전령이 있었다.<br> 무인도를 몇 개<br>바다에 마셨다……먹혔다네.
+Japanese,scene_cp11_q4_s30、1143,detail,이오,ど、どれだけ大喰らいなの、<br>リヴァイアサンは……<br>太ってから後悔しても遅いのに……,얼마나 많이 먹었길래、<br>리바이아상은...<br>뚱뚱하게 살찌고 나서 후회해도 늦었을텐데......
+Japanese,scene_cp11_q4_s30、1143,detail,비,リヴァイアサンほどの<br>大星晶獣だ……<br>そりゃもう、底なしだろうぜ。,리바이아산만큼의<br>대성정수다……<br>그건 이제 끝도 없겠지.
+Japanese,scene_cp11_q4_s30、1143,detail,카타리나,このままでは<br>人の住む島も危ないな……,이대로는<br>사람이 사는 섬도 위험해……
+Japanese,scene_cp11_q4_s30、1143,detail,루리아,……止めよう。<br>ううん、止めます……!<br>ですよね? [플레이어]。,멈추자.<br>아니、 멈추겠습니다……!<br>그렇죠? [플레이어]
+Japanese,scene_cp11_q4_s30、1143,detail,카타리나,そうか……!<br>リヴァイアサンはおそらく<br>ダメージによって暴走状態にある。,그런가……!<br>리바이아산은 아마<br>데미지에 의해서 폭주 상태에 있을 것이다.
+Japanese,scene_cp11_q4_s30、1143,detail,카타리나,それをルリアの力で、<br>治めてしまえば……,그것을 루리아의 힘으로、<br>다스려버리면……
+Japanese,scene_cp11_q4_s30、1143,detail,카타리나,……いや、しかし、<br>リヴァイアサンはいったい<br>どこに居るんだ?,……아니、 그런데、<br>리바이아산은 도대체<br>어디에 있는거야?
+Japanese,scene_cp11_q4_s30、1143,detail,루리아,わかるよ、カタリナ……<br>ずっとぼんやりしてた気配が<br>いまは一つに集まってる……,알아、 카타리나……<br>계속 희미해진 기색이<br>지금은 하나로 모여있어……
+Japanese,scene_cp11_q4_s30、1143,detail,루리아,向こう……<br>あっちのほうに強い気配がある!,저쪽……<br>저쪽에 강한 기색이 있어!
+Japanese,scene_cp11_q4_s30、1143,detail,오이겐,向こうと言やぁ……<br>そうだな、<br><span class='scene-font-place'>アウギュステ大瀑布</span>のあるあたりか。,저쪽이라고 해야하나...<br> 글쎄 <br><spanclass='scene-font-place>>아우귀스테 대폭포</span>이 있는 근처인가.
+Japanese,scene_cp11_q4_s30、1143,detail,라캄,決まりだな。<br>行こうぜ、この島を救いに。,결정됐군.<br>가자、 이 섬을 구하러.
+Japanese,scene_cp11_q4_s30、1143,detail,,<span class='scene-font-katari'>いまや</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>を滅ぼす</span><br><span class='scene-font-katari'>厄災となった大星晶獣は</span><br><span class='scene-font-katari'>瀑布にその巨体を顕現させつつあった。</span>,<span class = 'scene-font-katari'> 이제 </ span> <span class = 'scene-font-place'> 아우규스테 </ span> <span class = 'scene-font-katari'>를 멸 </ span> <br> <span class = 'scene-font-katari'> 厄災되었다 대성 晶獣는 </ span> <br> <span class = 'scene-font-katari'> 폭포에 그 거체 를 발현시키고 있었다. </ span>
+English,scene_cp11_q1_s10、1111,synopsis,,As the Auguste and imperial forces clash、 Lyria begins to sense something intense from Leviathan: hunger. It's decided that they move to a safer location.
+English,scene_cp11_q1_s10、1111,detail,,After receiving a report from Eugen and company、 Auguste's calvary arrives to give backup. The island seems to have devolved into chaos.
+English,scene_cp11_q1_s10、1111,detail,Io,What do we do! H-how did this happen so fast?
+English,scene_cp11_q1_s10、1111,detail,Eugen,Easy there、 little miss. It'll be okay. The Auguste cavalry's here.
+English,scene_cp11_q1_s10、1111,detail,Eugen,Leave it to them. They'll have things cleared up in no time.
+English,scene_cp11_q1_s10、1111,detail,Katalina,In that case、 we should look for the Black Knight. Given the situation、 that's<br>probably—
+English,scene_cp11_q1_s10、1111,detail,Lyria,Wait、 Katalina. I've been sensing something strange for a while now.
+English,scene_cp11_q1_s10、1111,detail,Lyria,I think something bad is going to happen. There's a deep rumbling within me...
+English,scene_cp11_q1_s10、1111,detail,Katalina,Could that be... Leviathan?
+English,scene_cp11_q1_s10、1111,detail,Lyria,Oh...
+English,scene_cp11_q1_s10、1111,detail,Katalina,Oh?
+English,scene_cp11_q1_s10、1111,detail,Lyria,It was just hunger.
+English,scene_cp11_q1_s10、1111,detail,Katalina,...
+English,scene_cp11_q1_s10、1111,detail,Io,I could grab a bite too、 now that you mention it.
+English,scene_cp11_q1_s10、1111,detail,Lyria,That's not what I meant.
+English,scene_cp11_q1_s10、1111,detail,Lyria,I searched for Leviathan、 and hunger is what I felt!
+English,scene_cp11_q1_s10、1111,detail,Vyrn,Hey now. Nothing wrong with being hungry. Right、 [플레이어]?
+English,scene_cp11_q1_s10、1111,sel1_txt,,We'll eat later.
+English,scene_cp11_q1_s10、1111,sel2_txt,,Let's eat now.
+English,scene_cp11_q1_s10、1111,detail,Lyria,I <span class='scene-font-italic'>told</span> you I'm not hungry、 [플레이어]!
+English,scene_cp11_q1_s10、1111,detail,Katalina,It's fine! You're a growing girl after all!
+English,scene_cp11_q1_s10、1111,detail,Lyria,I told you I'm not hungry!
+English,scene_cp11_q1_s10、1111,detail,Katalina,Well、 we should probably take a little break anyway.
+English,scene_cp11_q1_s10、1111,detail,Rackam,That's the spirit! Let's find ourselves a nice、 safe spot to set up camp!
+English,scene_cp11_q1_s20、1112,synopsis,,[플레이어] and the others move away from the frenzy of the battle to try and find a place to rest. But they end up finding a group of hostile monsters instead.
+English,scene_cp11_q1_s20、1112,detail,Lyria,I'm not all that hungry、 but I might as well.. Nom、 nom.
+English,scene_cp11_q1_s20、1112,detail,Vyrn,All that protesting and yet here you are eating anyway.
+English,scene_cp11_q1_s20、1112,detail,Katalina,You must be exhausted after all that concentrating on Leviathan. Eat up and get some of that energy back.
+English,scene_cp11_q1_s20、1112,detail,Eugen,They act like they're on vacation or something. Are they always like this?
+English,scene_cp11_q1_s20、1112,detail,Io,Yeah. I mean、 as far as I know anyway...
+English,scene_cp11_q1_s20、1112,detail,Monsters,Grooaar!
+English,scene_cp11_q1_s20、1112,detail,Rackam,Whoops. Looks like break time's over. We've got monsters coming our way!
+English,scene_cp11_q2_s10、1121,synopsis,,[플레이어] and the others try to distance themselves from the opposing armies、 but one group of soldiers refuses to be left behind.
+English,scene_cp11_q2_s10、1121,detail,Eugen,We should be able to avoid getting caught up in the fighting if we stay this far back.
+English,scene_cp11_q2_s10、1121,detail,Rackam,Yeah、 but then we have to deal with swarms of monsters instead.
+English,scene_cp11_q2_s10、1121,detail,Io,Er... It looks like we're gonna have to deal with more than just that.
+English,scene_cp11_q2_s10、1121,detail,Vyrn,Uh-oh... We've got troops creeping up on us. Think they're from the empire?
+English,scene_cp11_q2_s10、1121,detail,Katalina,We need to get out of here either way. They likely won't chase us too far if they see we don't intend to fight them.
+English,scene_cp11_q2_s10、1121,detail,Lyria,Hm? There's something drawing closer... and it's weirdly familiar...
+English,scene_cp11_q2_s20、1122,synopsis,,[플레이어] and the others are being tailed by a group of imperial troops、 which Katalina notes is a violation of the empire's code. The appearance of monsters forces the crew into a bitter fight.
+English,scene_cp11_q2_s20、1122,detail,Imperial Agent,...!
+English,scene_cp11_q2_s20、1122,detail,Vyrn,Hey、 Katalina! They're clearly tailing us!
+English,scene_cp11_q2_s20、1122,detail,Katalina,What do they think they're doing? Imperial soldiers are forbidden from chasing retreating enemies...
+English,scene_cp11_q2_s20、1122,detail,Rackam,This isn't good... Looks like we have monsters coming from the other side.
+English,scene_cp11_q2_s20、1122,detail,Katalina,We're trapped! Which should we take care of first、 [플레이어]?
+English,scene_cp11_q2_s20、1122,detail,Io,Who cares? We're gonna have to fight both of 'em eventually!
+English,scene_cp11_q2_s20、1122,detail,Vyrn,I think the choice's been made for us already、 [플레이어]! Monsters first!
+English,scene_cp11_q3_s10、1131,synopsis,,The group of soldiers chasing [플레이어] and the others is led by Captain Pommern. Having let Lyria and Katalina slip through his fingers on Zinkenstill、 the enraged captain has set his sights on revenge.
+English,scene_cp11_q3_s10、1131,detail,Katalina,Those guys aren't giving up... Do you think they have a grudge to settle with us?
+English,scene_cp11_q3_s10、1131,detail,???,Why yes、 yes we do、 my dear Lieutenant!
+English,scene_cp11_q3_s10、1131,detail,Lyria,I-I know that voice...
+English,scene_cp11_q3_s10、1131,detail,Vyrn,You were there when we met Lyria and Katalina!
+English,scene_cp11_q3_s10、1131,detail,Pommern,Indeed I was! This is our first encounter since Zinkenstill、 you vile turncoats!
+English,scene_cp11_q3_s10、1131,detail,Katalina,Captain Pommern?
+English,scene_cp11_q3_s10、1131,detail,Pommern,Ah、 how long has it been since you called me that...
+English,scene_cp11_q3_s10、1131,detail,Katalina,Why are you here? I'll never let you have Lyria!
+English,scene_cp11_q3_s10、1131,detail,Pommern,Lyria、 you say? Oh、 no. I'm quite finished with that.
+English,scene_cp11_q3_s10、1131,detail,Katalina,So why are you here? Why are you chasing us?
+English,scene_cp11_q3_s10、1131,detail,Pommern,What a simple question! I am here for-
+English,scene_cp11_q3_s10、1131,detail,Pommern,<span class='scene-font-italic'>Revenge most sweet</span>!
+English,scene_cp11_q3_s10、1131,detail,Pommern,Prepare yourselves! You won't be scampering away from me <span class='scene-font-italic'>this</span> time!
+English,scene_cp11_q3_s10、1131,detail,Rackam,Ugh. Another annoying weirdo for us to take down...
+English,scene_cp11_q3_s10、1131,detail,Io,I don't care what you want with them... but I'm not gonna stand here and take it! We're breaking through!
+English,scene_cp11_q3_s20、1132,synopsis,,[플레이어] and the others once again find themselves face-to-face with Furias and the Black Knight. Furias boasts about Adversa、 the empire's latest and greatest weapon、 which has already been loaded onto his battleship.
+English,scene_cp11_q3_s20、1132,detail,Katalina,With all these imperial dogs and monsters all over us、 we can't hold out forever...
+English,scene_cp11_q3_s20、1132,detail,Black Knight,Humph... That old fool can be quite tenacious when he sets his mind to it.
+English,scene_cp11_q3_s20、1132,detail,Rackam,What'd you say?
+English,scene_cp11_q3_s20、1132,detail,Furias,Hm? What have we here? Are you trapped? You are、 aren't you? Someone do something interesting before I die of boredom!
+English,scene_cp11_q3_s20、1132,detail,Eugen,If yer feeling bored、 why don't you take us on yourself?
+English,scene_cp11_q3_s20、1132,detail,Furias,Staining my hands? Gross. Besides、 this place is already finished.
+English,scene_cp11_q3_s20、1132,detail,Lyria,What do you mean finished?
+English,scene_cp11_q3_s20、1132,detail,Furias,You'll see soon enough! You ruined our research lab! Oh、 yes、 you did!
+English,scene_cp11_q3_s20、1132,detail,Furias,But the weapon we found in Magnani Reef... It's finished now. And it's on my beautiful battleship.
+English,scene_cp11_q3_s20、1132,detail,Rackam,Say what?
+English,scene_cp11_q3_s20、1132,detail,Furias,Oh、 I would just looove the chance to show it to you... but unfortunately I have to leave you in the care of old Pommy here.
+English,scene_cp11_q3_s20、1132,detail,Furias,My only job is to make sure you don't get away! So don't let those monsters get you、 okay?
+English,scene_cp11_q4_s10、1141,synopsis,,With [플레이어] and the others trapped、 Furias boasts of his plans to use Adversa to destroy the Auguste Isles. But a messenger shows up and tells Furias that his battleships are being swallowed by the sea one by one.
+English,scene_cp11_q4_s10、1141,detail,Pommern,It seems that your bad deeds have finally caught up to you!
+English,scene_cp11_q4_s10、1141,detail,Furias,Bravo、 guys! Fantastic show! But too bad. So sad. This is the end of the line.
+English,scene_cp11_q4_s10、1141,detail,Furias,Time to get rid of this unsightly island! Somebody activate Adversa!
+English,scene_cp11_q4_s10、1141,detail,Vyrn,Argh... Looks like this might really be the end、 [플레이어].
+English,scene_cp11_q4_s10、1141,detail,Lyria,No... This can't be happening...
+English,scene_cp11_q4_s10、1141,detail,Katalina,Don't worry、 Lyria. Whatever this weapon of theirs is、 I'm sure it's nothing to—
+English,scene_cp11_q4_s10、1141,detail,Lyria,No! I mean the imperials! They're being swallowed up!
+English,scene_cp11_q4_s10、1141,detail,Black Knight,It's time.
+English,scene_cp11_q4_s10、1141,detail,Furias,Didn't you hear me? Why aren't you moving? We need to hurry up and finish this—
+English,scene_cp11_q4_s10、1141,detail,Imperial Soldier,Sir! I have orders from the empire!
+English,scene_cp11_q4_s10、1141,detail,Furias,What's this? Come again? What do they mean、 <span class='scene-font-italic'>retreat</span>? What are they? Stupid?
+English,scene_cp11_q4_s10、1141,detail,Imperial Soldier,B-but、 sir! More than half the airships we've anchored have been swallowed up by the sea!
+English,scene_cp11_q4_s10、1141,detail,Furias,What is the meaning of this?
+English,scene_cp11_q4_s10、1141,detail,Furias,Blast!
+English,scene_cp11_q4_s10、1141,detail,Furias,Back to the battleship! We've got work to do!
+English,scene_cp11_q4_s10、1141,detail,Pommern,G-General?
+English,scene_cp11_q4_s10、1141,detail,Rackam,I'm not sure what's going on、 but we've got a chance now!
+English,scene_cp11_q4_s10、1141,detail,Katalina,Agreed. [플레이어]、 let's take advantage of the confusion to escape!
+English,scene_cp11_q4_s20、1142,synopsis,,Lyria comes to understand that Leviathan and the sea are one and the same、 and that Leviathan swallowed the airships to heal itself. An enraged Pommern attacks the crew.
+English,scene_cp11_q4_s20、1142,detail,Io,Huff... Huff...
+English,scene_cp11_q4_s20、1142,detail,Io,Why are the empire's airships getting swallowed up by the sea?
+English,scene_cp11_q4_s20、1142,detail,Black Knight,No、 it'd be more accurate to say they were eaten.
+English,scene_cp11_q4_s20、1142,detail,Vyrn,Black Knight!
+English,scene_cp11_q4_s20、1142,detail,???,...
+English,scene_cp11_q4_s20、1142,detail,Black Knight,I do believe you understand now. Don't you、 Lyria?
+English,scene_cp11_q4_s20、1142,detail,Lyria,Y-yes. The hunger I've been feeling was... Leviathan's.
+English,scene_cp11_q4_s20、1142,detail,Lyria,Which means that Leviathan's the one who ate the airships...
+English,scene_cp11_q4_s20、1142,detail,Black Knight,Precisely. Leviathan has been changing for quite some time now. Becoming one with the sea. Giving it power.
+English,scene_cp11_q4_s20、1142,detail,Black Knight,But the damage done to it by the sea's pollution was too much for it to recover from on its own. It compensated by eating the airships.
+English,scene_cp11_q4_s20、1142,detail,Black Knight,And having done that、 Leviathan is now stronger than ever before.
+English,scene_cp11_q4_s20、1142,detail,Black Knight,It was only a matter of time until it manifested. What a flock of fools... but even scum can be useful from time to time.
+English,scene_cp11_q4_s20、1142,detail,Eugen,The sea... Leviathan ate the airships?
+English,scene_cp11_q4_s20、1142,detail,Eugen,You blasted fool! Do you have any idea what you've done? The sea is everything to Auguste!
+English,scene_cp11_q4_s20、1142,detail,Black Knight,Quiet、 worm! Do you intend to place the blame at my feet? Have you no shame?
+English,scene_cp11_q4_s20、1142,detail,Black Knight,Disgusting. Come、 my dear. We have our part to play.
+English,scene_cp11_q4_s20、1142,detail,???,...
+English,scene_cp11_q4_s20、1142,detail,Vyrn,Hey! Wait!
+English,scene_cp11_q4_s20、1142,detail,Pommern,No、 <span class='scene-font-italic'>you</span> wait! You've left me with no choice...
+English,scene_cp11_q4_s20、1142,detail,Pommern,I'll perform your last rites myself!
+English,scene_cp11_q4_s20、1142,detail,Vyrn,What the? He just transformed!
+English,scene_cp11_q4_s20、1142,detail,Pommern,This is what the empire has been working toward... Behold the power of dark essence!
+English,scene_cp11_q4_s20、1142,detail,Pommern,I'll crush every last one of you to dust!
+English,scene_cp11_q4_s20、1142,detail,Rackam,Tch... Talk about stubborn. Let's go、 [플레이어]! It's time to show them what the good guys can do!
+English,scene_cp11_q4_s30、1143,synopsis,,[플레이어] and the others defeat Pommern、 but it's only a matter of time until Leviathan swallows the Auguste Isles. Lyria senses power from Auguste Falls、 so they head there to try to quell Leviathan's rage.
+English,scene_cp11_q4_s30、1143,detail,Pommern,Grgh... Cough...
+English,scene_cp11_q4_s30、1143,detail,Pommern,This isn't over...
+English,scene_cp11_q4_s30、1143,detail,Pommern,Next time、 my face will be the last thing you see. Prepare yourself to meet your maker!
+English,scene_cp11_q4_s30、1143,detail,,With a pained look on his face、 Pommern flees in the direction of the imperial army.
+English,scene_cp11_q4_s30、1143,detail,Rackam,Whew... Looks like the empire's fleeing Auguste en masse.
+English,scene_cp11_q4_s30、1143,detail,Eugen,Of course they are. This is a whopper of a situation.
+English,scene_cp11_q4_s30、1143,detail,Eugen,I just got word from one of my comrades. A lot of unpopulated islands are being swallowed by the sea... Or eaten、 I guess.
+English,scene_cp11_q4_s30、1143,detail,Io,This Leviathan's a serious eater. Once it realizes how much weight it's gonna put on、 it'll be too late!
+English,scene_cp11_q4_s30、1143,detail,Vyrn,This is Leviathan we're talking about here. I don't think it's <span class='scene-font-italic'>ever</span> gonna stop eating.
+English,scene_cp11_q4_s30、1143,detail,Katalina,Which means the populated islands are in danger too.
+English,scene_cp11_q4_s30、1143,detail,Lyria,We need to stop it. No、 we <span class='scene-font-italic'>will</span> stop it! Right、 [플레이어]?
+English,scene_cp11_q4_s30、1143,detail,Katalina,Now I get it... The damage done to Leviathan by all that pollution is what sent it into a frenzy!
+English,scene_cp11_q4_s30、1143,detail,Katalina,Perhaps Lyria can use her power to subdue it...
+English,scene_cp11_q4_s30、1143,detail,Katalina,But we have to figure out where Leviathan is first、 don't we?
+English,scene_cp11_q4_s30、1143,detail,Lyria,I can feel it、 Katalina... Its power seemed scattered before、 but now it's focused in a single place.
+English,scene_cp11_q4_s30、1143,detail,Lyria,Over there... I can sense its presence over there!
+English,scene_cp11_q4_s30、1143,detail,Eugen,That's where Auguste Falls is.
+English,scene_cp11_q4_s30、1143,detail,Rackam,There you have it. Off we go to save the islands!
+English,scene_cp11_q4_s30、1143,detail,,The great primal beast Leviathan is now a calamity threatening Auguste、 and it has taken form in the massive falls、 fierce and ferocious.

@@ -1,305 +1,305 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,"scene_cp9_q1_s10,911",synopsis,,"ザカ大公の話から,黒騎士を追って降り立った<span class='scene-font-place'>アウギュステ列島</span>で,ルリアは不思議な気配を感じ取る。しかし,それを確かめる間もなく,謎の傭兵が一同に襲いかかってきた。",사카 대공의 말에서 흑기사를 쫓아 내려선 <span class='scene-font-place>> 아우귀스테 열도</span>에서 루리아는 이상한 기색을 감지한다.그러나 확인할 틈도 없이 의문의 용병들이 모두 덤벼들었다.
-Japanese,"scene_cp9_q1_s10,911",detail,,<span class='scene-font-katari'>黒騎士を追って辿り着いた</span><br><span class='scene-font-place'>アウギュステ列島</span><span class='scene-font-katari'>。</span>,<span class='scene-font-katari'>흑기사를 쫓아 다다른 곳은</span><br><span class='scene-font-place'>아우귀스테열도</span><span class='scene-font-katari'>。</span>
-Japanese,"scene_cp9_q1_s10,911",detail,,<span class='scene-font-katari'>そこは清らかな水を湛える</span><br><span class='scene-font-katari'>近代的な都市群だった。</span>,<span class='scene-font-katari'>그곳은 맑은 물로 가득 찬</span><br><span class='scene-font-katari'>근대적인 도시들이었다。</span>
-Japanese,"scene_cp9_q1_s10,911",detail,이오,うわー! うわー! なにこれっ!<br>なんでこんなに水があるの?<br>これが海ってやつ!?,우와! 우와! 이거 뭐야! <br> 왜 이렇게 물이 있어?<br>이게 바다라는 거야!?
-Japanese,"scene_cp9_q1_s10,911",detail,라캄,"おい,ガキンチョ。<br>はしゃぐのはほどほどにしとけよ。<br>はぐれて泣いても知らねぇぜ?","야, 꼬마야.<br>떠드는건 적당히 해둬.<br>떨어져 울어도 모르지?"
-Japanese,"scene_cp9_q1_s10,911",detail,이오,泣ーきーまーせーんー!,"울지 마, 안 울어요!"
-Japanese,"scene_cp9_q1_s10,911",detail,이오,"ねぇ,あっちも見に行こっ!",야 저쪽도 보러 가자!
-Japanese,"scene_cp9_q1_s10,911",detail,루리아,"う,うん……","으, 응……"
-Japanese,"scene_cp9_q1_s10,911",detail,카타리나,"どうした,ルリア?<br><span class='scene-font-place'>アウギュステ</span>に着いてから<br>ずっと難しい顔をしているが……","어떻게 된거야, 루리아?<br><spanclass='scene-font-place>>아우귀스테</span>에 도착해서<br>계속 어려운 얼굴을 하고 있지만……"
-Japanese,"scene_cp9_q1_s10,911",detail,루리아,うん……えっとね?<br>ずっと星晶獣の気配がするんだけど<br>それがなんだか変な感じで……,음…음…음?<br>계속 성정수의 기미가 보이는데<br>그게 왠지 이상한 느낌이 들어서…….
-Japanese,"scene_cp9_q1_s10,911",detail,비,星晶獣?<br>っても……このへんにゃ<br>何にも見えねーぜ?,성정수?<br>도……이쯤에는<br>아무것도 보이지 않지?
-Japanese,"scene_cp9_q1_s10,911",detail,카타리나,そうだな……<br>気になると言えばむしろ<br>辺りに漂う腐敗したような臭いだが……,글쎄……<br>궁금하다고 하면 오히려<br>주변에 감도는 부패한 듯한 냄새지만……
-Japanese,"scene_cp9_q1_s10,911",detail,비,"そういや,そんな臭いもするな。<br><span class='scene-font-place'>アウギュステ</span>は名産品が<br>発酵食品だったりするのか?","그래 아니, 그런 냄새도 나네.<br><span class='scene-font-place>>아우귀스테</span>는 명산품이 <br>발효식품이었는가?"
-Japanese,"scene_cp9_q1_s10,911",detail,루리아,"う～ん,なんて言うんだろ?<br>遠いのに近いような……<br>居るのに居ないような……",음 뭐라고 하지?<br> 먼데 가까운 것 같은……<br>있는데 없는 것 같은……
-Japanese,"scene_cp9_q1_s10,911",detail,???,"――おい,貴様らッ!<br>そこで何をしている!?","--야, 네놈랏!<br>거기서 뭐하고 있어!?"
-Japanese,"scene_cp9_q1_s10,911",detail,비,うわっ!?<br>なんだこいつら!?,으악!?<br>뭐야 이 녀석들!?
-Japanese,"scene_cp9_q1_s10,911",detail,카타리나,所属はわからないが……<br>どうやら私達に対して<br>好意的な感情は持っていないようだ。,소속은 모르겠지만……<br>아무래도 우리에 대해<br>호의적인 감정은 가지고 있지 않은 것 같다.
-Japanese,"scene_cp9_q1_s10,911",detail,비,冷静に分析してる場合じゃねーぜ!<br>逃げるぞ! [플레이어]!,냉정하게 분석할 때가 아니야!<br>도망가자! [플레이어]
-Japanese,"scene_cp9_q1_s20,912",synopsis,,"逃げ場を失った<span>[플레이어]</span>一行。そこへ謎の傭兵達の隊長として,ひとりの老兵が姿を現す。その顔を見て,ラカムは驚きの声を上げるのだった。",도망갈 곳을 잃은 <span> [플레이어] </span> 일행.그곳에 의문의 용병들의 대장으로서 노병 한 명이 모습을 드러낸다.그 얼굴을 보고 라캄은 놀라움의 목소리를 높이는 것이었다.
-Japanese,"scene_cp9_q1_s20,912",detail,라캄,"ちっ,囲まれたか……!","쳇, 둘러싸였나……!"
-Japanese,"scene_cp9_q1_s20,912",detail,용병,大人しくしていろ。<br>じきに我々の隊長が――,얌전히 있어라.<br>곧 우리 대장이 --
-Japanese,"scene_cp9_q1_s20,912",detail,???,"うーい,ご苦労さん。<br>妙な連中を捕まえたんだって?","야, 수고했어.이상한 무리를 잡았다며?"
-Japanese,"scene_cp9_q1_s20,912",detail,용병,"はっ!<br>海岸から上陸し,<br>市街への侵入を試みていたようで……","헉!<br>해안으로부터 상륙해,<br>시가로의 침입을 시도하고 있던 것 같아서……"
-Japanese,"scene_cp9_q1_s20,912",detail,???,んな堅苦しくすんなって。<br>どうせゴロツキの<br>集まりみてぇなもんなんだからよ。,그렇게 딱딱하게 살지 말라고.<br>어차피 빈둥빈둥하는<br>모여보고 싶으니까.
-Japanese,"scene_cp9_q1_s20,912",detail,???,んで?<br>お前らがその侵入者……,왜?<br>너희가 그 침입자……
-Japanese,"scene_cp9_q1_s20,912",detail,???,"……って,おいおい,冗談だろ?","……라니, 어이, 농담이지?"
-Japanese,"scene_cp9_q1_s20,912",detail,라캄,そりゃこっちのセリフだぜ……<br>こんなとこで何してやがんだ?<br>オイゲンのおっさんよぉ……,그건 이쪽의 대사지……<br>이런데서 뭐해?<br> 오이겐의 아저씨여……
-Japanese,"scene_cp9_q1_s20,912",detail,카타리나,"ラ,ラカム……<br>君はこの御仁と知り合いなのか?","라, 라캄……<br>너는 이 분과 아는 사이인가?"
-Japanese,"scene_cp9_q1_s20,912",detail,오이겐,<span class='scene-font-place'>ポート・ブリーズ</span>以来じゃねぇか……<br>グランサイファーはどうなった?<br>ちゃんと飛んだか?,<span class='scene-font-place>> 포트 브리즈</span>이래 아닌가……<br> 그랜사이퍼는 어떻게 됐어?<br>잘날았니?
-Japanese,"scene_cp9_q1_s20,912",detail,오이겐,"お? なんだラカムてめぇ,<br>美人さん連れやがって……<br>まさか,嫁か! お前が!?","어? 뭐야 라카무네,<br>미인분을 데리고......<br>설마 며느리냐! 네가!?"
-Japanese,"scene_cp9_q1_s20,912",detail,카타리나,"<span class='scene-font-4'>なっ!!</span><br><span class='scene-font-4'>ち,違う! 断じて違う!!</span>","< span class = ' scene - font - 4 ' > な っ !! < / span > < br > < span class = ' scene - font - 4 ' > ち , 違う ! 断じて 違う !! < / span >"
-Japanese,"scene_cp9_q1_s20,912",detail,이오,ラカムにカタリナは<br>もったいなさ過ぎよ。<br>ねールリア?,라캄에 카타리나 너무 아까워.<br> 네루리아?
-Japanese,"scene_cp9_q1_s20,912",detail,오이겐,そこの三人は子供か?<br>結婚して子供までできたってんなら<br>一報よこせよ!,거기 셋은 아이인가?결혼해서 아이까지 생겼다면<br> 소식좀 전해라!
-Japanese,"scene_cp9_q1_s20,912",detail,이오,"なっ……!<br>ち,違うわよっ! ねぇっ!?<br>早く誤解を解いて! ラカム!!","나랏……!<br>치, 틀려! 야!?<br>빨리 오해 풀어줘! 라캄!!"
-Japanese,"scene_cp9_q1_s20,912",detail,루리아,"カタリナがお母さん……<br>ふふっ,ちょっといいかも……","카타리나가 엄마...<br>훗, 좀 괜찮은 것 같아..."
-Japanese,"scene_cp9_q1_s20,912",detail,카타리나,"わ,私は……<br>そんな歳に見えるというのか……","와, 나는...<br>그런나이로 보인다는건가..."
-Japanese,"scene_cp9_q1_s20,912",detail,마물들,<span class='scene-font-4'>グオォォォン!</span>,< span class = ' scene - font - 4 ' > グオォォォン ! < / span >
-Japanese,"scene_cp9_q1_s20,912",detail,라캄,ヘッ。<br>誤解を解きたいのはやまやまだが<br>そうも言ってられなさそうだぜ?,헤헷.<br>오해를 풀고 싶은 마음은 굴뚝같지만<br>그렇게도 말할 수 없을 것 같은데?
-Japanese,"scene_cp9_q1_s20,912",detail,오이겐,おっと……<br>魔物が団体さんでお出ましだな!<br>ワリィが手伝ってもらうとすっか!,이런....<br>마물이 단체로 나오셨군!와리가 도와준다면 정말?
-Japanese,"scene_cp9_q2_s10,921",synopsis,,"ラカムの知人であり,<span class='scene-font-place'>アウギュステ</span>を守る傭兵達の隊長を務めるオイゲンに事情を話し,解放される<span>[플레이어]</span>一行。そこで一行は,<span class='scene-font-place'>アウギュステ</span>が現在,エルステ帝国と戦争状態にあることを聞かされる。",라캄의 지인이자 <span class='scene-font-place>> 아우귀스테 </span>을 지키는 용병들의 대장을 맡고 있는 오이겐에게 사정을 이야기하고 풀려나는 <span>[플레이어]</span> 일행.여기에서 일행은 <span class='scene-font-place>> 아우귀스테</span>가 현재 엘스테 제국과 전쟁 상태에 있다는 질문을 받는다.
-Japanese,"scene_cp9_q2_s10,921",detail,,"<span class='scene-font-katari'>[플레이어]達はオイゲンに,帝国に</span><br><span class='scene-font-katari'>追われている理由は隠しつつ,空図集め</span><br><span class='scene-font-katari'>の旅をしていることを説明した。</span>",<span class='scene-font-katari'>[플레이어]들은 오이겐에게 제국에 </span><br><span class='span class='scene-font-katari>쫓기고 있는 이유는 숨기면서 빈 그림 </span><brass><span class><span class><spane-font-katari>를 설명했다.
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"ファータ・グランデ空域を抜けるために,<br>空図が必要ねぇ……<br>ずいぶん難儀な旅じゃねぇか。","파타 그란데 공역을 빠져나가기 위해서,<br>공도가 필요해……<br>굉장히 어려운 여행이잖아."
-Japanese,"scene_cp9_q2_s10,921",detail,비,"ふふん……<br>けど,オイラ達の目指す場所は<br>この空域の外の,さらに先だからな!",흠…<br>하지만 나들이 목표로 하는 장소는<br>이 공역 밖 더 앞이니까!
-Japanese,"scene_cp9_q2_s10,921",detail,비,ファータ・グランデ空域を<br>抜けるくらいで<br>難儀だなんて言ってらんねーぜ!,파타그란데 공역을<br>빠질정도로<br>어렵다고 말할수없어!
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,あん?<br>ファータ・グランデのさらに先だと?<br>ってぇと……どこだったかな……,어?<br>파타 그란데보다 먼저라고?<br>라니……어디였더라……
-Japanese,"scene_cp9_q2_s10,921",detail,카타리나,"違うんだ,オイゲン。<br>[플레이어]の目指す空は,<br>そんなところで収まってはいない。","달라 오이겐. <br>[플레이어]가 목표로 하는 하늘은,<br>그런 곳에 머물고 있지는 않다."
-Japanese,"scene_cp9_q2_s10,921",detail,비,"オイラ達の目的地は,<br>空の果て,<span class='scene-font-spword'>星の島イスタルシア</span>だぜ!",나들의 목적지는 <br> 하늘 끝 <span class='scene-font-spword> 별의 섬 이스타르시아 </span> 이라구!
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,<span class='scene-font-spword'>イスタルシア</span>……?,< span class = ' scene - font - spword ' > イスタルシア < / span > …… ?
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"……くくく,はははははっ!<br>大きく出るじゃねぇか,<br>てめぇら!!","....크크크크크크크크크, 하하하하하하크!<br>크게 나오잖아,<br>테메라!!<br>크게 나오잖아<br>테메라!!"
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"<span class='scene-font-spword'>星の島</span>か……<br>そりゃいいな,最高だぜ。<br>騎空士なら誰もが憧れる,夢の世界だ。","<span class='scene-font-spword> 별의 섬</span> 인가……<br>그럼 좋겠다, 최고지.<br>기공사라면 누구나 꿈꾸는 꿈의 세계다."
-Japanese,"scene_cp9_q2_s10,921",detail,비,夢じゃねーっつーの!<br>なぁ! [플레이어]!<br>オイラ達は絶対に辿り着いてみせるぜ!,꿈이 아니라고!<br>야! [플레이어]!<br>나들은 반드시 도착하고야 말거야!
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,わかったわかった……<br>だいたい事情は飲みこめたぜ。,알겠어 알겠어……<br>대략 사정은 삼켰지.
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"すまねぇなぁ,<br>問答無用でとっ捕まえちまってよ。","미안하네,<br>문답무용해서 붙잡아둬."
-Japanese,"scene_cp9_q2_s10,921",detail,카타리나,"しかし,驚きだ……<br><span class='scene-font-place'>アウギュステ</span>でラカムの知人が<br>傭兵をやっているとはな。",하지만 놀랍다....<br><span class='scene-font-place>>아우귀스테</span>에서 라캄의 지인이<br>용병을 하고 있다니..
-Japanese,"scene_cp9_q2_s10,921",detail,카타리나,"グランサイファーの修理に<br>手を貸してくれた御仁というのは,<br>オイゲン,貴方のことだったのだな。","그랑사이퍼 수리에<br>도움을 준 분은 <br> 오이겐, 당신 말이로군."
-Japanese,"scene_cp9_q2_s10,921",detail,라캄,"<span class='scene-font-place'>ポート・ブリーズ</span>を去って,<br>何してんのかと思ってたけど,<br>なんでまた傭兵なんかやってんだ?",<span class='scene-font-place>> 포트 브리즈</span>를 떠나서 <br> 뭐하나 싶었는데 <br> 왜 또 용병이야?
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,あー? そりゃアレだ。<br><span class='scene-font-place'>アウギュステ</span>はいま戦争してんだよ。<br>かの大帝国エルステとな。,아? 그건 그렇다.<br><span class='scene-font-place>>아우귀스테</span>는 지금 전쟁중이야.<br>가의 대제국 엘스테가 말이야.
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"何かと手が必要らしくてな,<br>騎空艇の修理をしたり,<br>魔物と戦ったりと大忙しだ。","이것저것 일손이 필요할것 같아서,<br>기공정을 수리하고,<br>마물과 싸우느라 정신이 없었어."
-Japanese,"scene_cp9_q2_s10,921",detail,루리아,"<span class='scene-font-place'>エルステ帝国</span>……<br>やっぱり,あの黒い騎士さんが,<br>何かしようとしてるってことかな……?","<span class='scene-font-place>>에르스테 제국</span>……<br>역시, 저 검은 기사님이,<br>뭔가를 하려고 한다는 건가……?"
-Japanese,"scene_cp9_q2_s10,921",detail,카타리나,"やはりファータ・グランデ空域では,<br>どこへ行こうとも<br>帝国の影がある,か……","역시 파타 그란데 공역에서는,<br>어디를 가든<br>제국의 그림자가 있는,가……"
-Japanese,"scene_cp9_q2_s10,921",detail,비,"なぁ,おっさん。<br>そうは言っても<br>ここらは随分平和に見えるぜ?",야 아저씨.<br>그렇게 말해도<br>이쯤 꽤 평화로워 보이는데?
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"ばっかおめぇ,<br>オレみてぇな老いぼれが<br>前線にいるわけねぇだろうがよ?","나만 너,<br>나같은 늙은이가<br>전선에 있는건 아니지?"
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,オレ達の仕事は<br>主力部隊に代わって<br>沿岸を魔物やら何やらから守ることよ。,우리가 하는 일은<br>주력 부대를 대신해<br>해안을 마물이라든가 뭐라든가 지키는 일이야.
-Japanese,"scene_cp9_q2_s10,921",detail,이오,ふーん。<br>こんなおじいちゃんで<br>本当に島を守れるわけ?,흥.<br>이런할아버지로<br>정말섬을지킬수있다고?
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,くははは!<br>そりゃ違ぇねぇ!<br>,크하하하!<br>그건 틀렸네!< br >
-Japanese,"scene_cp9_q2_s10,921",detail,오이겐,"ほれ,向こうに魔物が出たってよ。<br>非力なジジイに代わって,<br>さくさくっと退治してきてくれ。","자, 저쪽에 마물이 나왔대.<br>비력한 지지이를 대신해서 <br>사삭사삭 퇴치해다오."
-Japanese,"scene_cp9_q2_s10,921",detail,이오,"……え? ちょ,ちょっと!<br>なんでそうなるの!?","……에? 자, 잠깐!<br>왜 그러는 거야!?"
-Japanese,"scene_cp9_q2_s10,921",detail,라캄,ヘヘッ……<br>昔から面倒な仕事を押し付けるのが<br>得意なイヤなおっさんだぜ!,헤헷……<br>옛날부터 귀찮은 일을 떠맡기는 게<br>잘하는 싫은 아저씨야!
-Japanese,"scene_cp9_q2_s20,922",synopsis,,"オイゲンの口車に乗せられ<span class='scene-font-place'>アウギュステ</span>の沿岸に現れる魔物の退治を手伝うが,魔物の脅威にさらされながらも戦争を続ける<span class='scene-font-place'>アウギュステ</span>に,<span>[플레이어]</span>一行は疑問を持つ。",오이겐의 감언이설에 속아 <span class='scene-font-place>> 아우귀스테</span>의 연안에 나타나는 마물 퇴치를 돕지만 마물의 위협을 받으면서도 전쟁을 계속하는 <span class='scene-font-place>></span><span><span>은 </span>에 있는 </spane>아우귀스테</span></span>에 속는다.
-Japanese,"scene_cp9_q2_s20,922",detail,오이겐,"おう,ご苦労さん。<br>なんだよてめぇら,<br>なかなか腕は立つじゃねぇか。","오, 수고했어.<br>뭐야,<br> 꽤 실력은 좋은데."
-Japanese,"scene_cp9_q2_s20,922",detail,이오,ふふんっ!<br>当然でしょ?<br><span class='scene-font-place'>バルツ</span>の女は強いんだから!,흠! 당연하지?<br><span class='scene-font-place>>발츠</span>의 여자는 강하거든!
-Japanese,"scene_cp9_q2_s20,922",detail,오이겐,"お? 嬢ちゃんは<span class='scene-font-place'>バルツ</span>出身か。<br>けど油断は禁物だぜ?<br>ほれ,まだその辺にも残ってら。","어? 아가씨는<span class='scene-font-place>>발츠</span>출신인가??<br>하지만 방심은 금물이라구!<br>봐, 아직 그 근처에도 남아있어."
-Japanese,"scene_cp9_q2_s20,922",detail,이오,ひゃんっ!?,힝!?
-Japanese,"scene_cp9_q2_s20,922",detail,카타리나,"大丈夫,<br>所詮は取るに足らない小物だ。",괜찮아 <br> 결국은 하찮은 소품이야.
-Japanese,"scene_cp9_q2_s20,922",detail,카타리나,"しかし,それにしても危ないな。<br>これだけ魔物が発生するというのに……<br>戦争などしている場合じゃないだろう?",하지만 그래도 위험하네.<br>이만큼 마물이 발생하는데……<br>전쟁하고 있을 때가 아니지?
-Japanese,"scene_cp9_q2_s20,922",detail,오이겐,"そいつぁまぁ,なんだ……<br>やむに已まれぬ事情ってのが,な……","그 녀석 뭐, 뭐야……<br> 어쩔 수 없는 사정이라는 것이, 말이지……"
-Japanese,"scene_cp9_q2_s20,922",detail,마물,<span class='scene-font-4'>グオォォォン!</span>,< span class = ' scene - font - 4 ' > グオォォォン ! < / span >
-Japanese,"scene_cp9_q2_s20,922",detail,오이겐,"ほれ,まだ大物が残ってやがらぁ。<br>面倒な話は後回しだぜ。","거봐, 아직 거물이 남아서 그래.귀찮은 이야기는 뒷전이야"
-Japanese,"scene_cp9_q3_s10,931",synopsis,,"<span>[플레이어]</span>一行に,オイゲンは<span class='scene-font-place'>アウギュステ</span>と帝国の争いの発端を語る。帝国の兵器開発によって腐ってしまった海を取り戻すため,オイゲンは決意を新たにする。",<span>[플레이어]</span>일행에게 오이겐은 <spanclass='scene-font-place>>아우귀스테</span>와 제국의 싸움의 발단을 말한다.오이겐은 제국의 무기 개발로 썩어버린 바다를 되찾기 위해 결의를 다진다.
-Japanese,"scene_cp9_q3_s10,931",detail,카타리나,"――つまり,<br>帝国の兵器開発の影響で<br><span class='scene-font-place'>アウギュステ</span>の海が腐り……","-- 즉,<br>제국의 무기개발의 영향으로<br><spanclass='scene-font-place>>아우귀스테</span>의 바다가 썩고...."
-Japanese,"scene_cp9_q3_s10,931",detail,카타리나,"それを巡って<br>両者は戦争状態に突入した,と。<br>……そういうわけなのか?","그것을 둘러싸고<br>양자는 전쟁 상태에 돌입했다, 라고.<br>……그런 이유인가?"
-Japanese,"scene_cp9_q3_s10,931",detail,오이겐,"おう,美人で腕も立つ上に<br>頭の回転も速いたぁ<br>ケチのつけようがねぇなぁ,おい。","어이구, 미인이고 팔도 일구고 <br> 머리의 회전도 빨라 <br> 구두쇠가 붙을래야 안 돼, 어이."
-Japanese,"scene_cp9_q3_s10,931",detail,카타리나,"えっ!?<br>……そ,そうか……?","엣!?<br>......소, 그래……?"
-Japanese,"scene_cp9_q3_s10,931",detail,이오,"ねぇ,さっきから何か忘れてない?<br>レディはカタリナだけじゃないけど?","저기, 아까부터 뭔가 잊은 거 없어?레디는 카타리나뿐이 아닌데?"
-Japanese,"scene_cp9_q3_s10,931",detail,루리아,"はいはいっ!<br>わ,私もっ! 私もレディですっ!","네네!<br>와, 저도 레디에요!"
-Japanese,"scene_cp9_q3_s10,931",detail,오이겐,"嬢ちゃん達はまぁ……<br>10年もしたらまたおいで,な?","아가씨들은 뭐....<br>10년이나 지나면 또 와, 그지?"
-Japanese,"scene_cp9_q3_s10,931",detail,이오,ぐぬぬぬ……,투덜투덜……
-Japanese,"scene_cp9_q3_s10,931",detail,이오,<span class='scene-font-4'>子供扱いするなっつーの!</span>,<span class='scene-font-4> 어린애 취급하지 말란 말이야!</span>
-Japanese,"scene_cp9_q3_s10,931",detail,루리아,"ねぇねぇ,[플레이어],<br>私は10年もいらないですよね? ね?","야야 [플레이어],<br>난 10년도 필요없죠?그쵸?"
-Japanese,"scene_cp9_q3_s10,931",detail,라캄,"しかし,海を腐らせるなんて<br>帝国はどういう兵器を<br>作ってるってんだ?",그런데 바다를 썩히다니<br>제국은 무슨병기를<br>만든다는거지?
-Japanese,"scene_cp9_q3_s10,931",detail,오이겐,"さぁなぁ。<br>ただ,これ以上の海の腐敗は<br>止めなくちゃならねぇ。","글쎄 말이야.<br>단지, 더 이상의 바다의 부패는<br>멈추지 않으면 안돼."
-Japanese,"scene_cp9_q3_s10,931",detail,오이겐,"それだけはこの島の連中,<br>誰もが思ってるってぇことさな。","그것만은 이 섬의 친구들, <br>누구나 생각하고 있다는 것이야."
-Japanese,"scene_cp9_q3_s20,932",synopsis,,"オイゲンに良いように使われながら,星晶獣の気配を探る<span>[플레이어]</span>一行。しかし,ルリアでも正体を掴めないでいると,海を腐らせている兵器開発の実験場が見つかったという連絡が入る。",오이겐에 잘 쓰이면서 별정수의 기색을 살핀다 <span> [플레이어] </span> 한 줄.하지만 루리아에서도 정체를 찾지 못하고 있으면 바다를 썩이고 있는 무기개발 실험장이 발견됐다는 연락이 온다.
-Japanese,"scene_cp9_q3_s20,932",detail,오이겐,"いやぁ,お前らいると<br>沿岸警備が楽でいいなぁ!",이야~ 너희들 있으면<br> 해안경비가 편해서 좋겠다!!
-Japanese,"scene_cp9_q3_s20,932",detail,카타리나,"……おい,ラカム,<br>何かいいように,<br>使われている気がするんだが……?","……야, 라캄, <br> 뭔가 좋게 <br> 사용되고 있는 것 같은데……?"
-Japanese,"scene_cp9_q3_s20,932",detail,라캄,"昔っから,なんかあのおっさんには,<br>逆らえなくてなぁ……<br>周りを振り回すのが得意というか……",예전부터 왠지 저 아저씨는 <br>거스를 수 없어서 말이야……<br>주위를 휘두르는 것이 특기랄까……
-Japanese,"scene_cp9_q3_s20,932",detail,이오,"ねぇ,[플레이어]<br>ルリアのほうはどう?",야 [플레이어]<br>루리아 쪽은 어때?
-Japanese,"scene_cp9_q3_s20,932",detail,이오,星晶獣の気配について<br>何か新しいことはわかった?,성정수의 기척에 대해<br>뭔가 새로운 것은 알아냈니?
-Japanese,"scene_cp9_q3_s20,932",detail,루리아,"[플레이어],星晶獣の気配は<br>さっきまでと変わらないです。<br>ずぅっと,ぼんやりしてる感じ。",[플레이어] 성정수의 기색은 <br> 조금 전과 다르지 않아요.<br>계속 멍한 느낌.
-Japanese,"scene_cp9_q3_s20,932",detail,비,"うし!<br>じゃあ,適当なタイミングで<br>おっさんの目を盗んで……","우치!<br>자, 적당한 타이밍에<br>아저씨의 눈을 피해……"
-Japanese,"scene_cp9_q3_s20,932",detail,오이겐,"おう,トカゲ,<br>何をこそこそしてんだ?","어이구 도마뱀, <br> 뭘 속닥거리냐?"
-Japanese,"scene_cp9_q3_s20,932",detail,비,"んえっ!<br>ななな,なんでもないぜっ!?<br>なぁ!? [플레이어]!?","엥!<br>나,아무것도아니야!?<br>야!? [플레이어]!?"
-Japanese,"scene_cp9_q3_s20,932",detail,비,<span class='scene-font-4'>っていうか!</span><br>オイラはトカゲじゃないからな!<br>そこんとこ間違えるんじゃねーぜ!,<span class='scene-font-4>라고 할까!</span><br>나는 도마뱀이 아니니까!<br>거기서 틀리지마!
-Japanese,"scene_cp9_q3_s20,932",detail,오이겐,"そうなのか?<br>んなことより,<br>さっき仲間から連絡があった。","그래?<br>는것보다,<br>방금 동료로부터 연락이 왔다."
-Japanese,"scene_cp9_q3_s20,932",detail,오이겐,"海が腐る原因になってる,<br>兵器開発の実験場が見つかったとよ。<br>オレたちも行くぞ,トカゲ!",바다가 썩는 원인이 되고 있는 <br> 무기개발 실험장이 발견되었다고 해. <br> 우리도 갈게 도마뱀!
-Japanese,"scene_cp9_q3_s20,932",detail,비,だから!<br>オイラはトカゲじゃないって……!,그러니까!<br>나는 도마뱀이 아니라고……!
-Japanese,"scene_cp9_q3_s20,932",detail,카타리나,ビィくん! 急がないと<br>オイゲンが先に行ってしまうぞ!,비군! 서두르지 않으면 <br> 오이겐이 먼저 가버려!
-Japanese,"scene_cp9_q3_s20,932",detail,비,"くっ……<br>覚えてろ,あのおっさん……","헉……<br>두고 보자, 저 아저씨……"
-Japanese,"scene_cp9_q4_s10,941",synopsis,,"海が腐る原因になっている帝国の実験場へと向かう一同。その道中,オイゲンの口から<span class='scene-font-place'>アウギュステ</span>の守り神でもある星晶獣,リヴァイアサンの存在を聞く。","바다가 썩는 원인이 된 제국의 실험장으로 가는 내내 오이겐의 입을 통해 <span class='scene-font-place> 아우귀스테 </span>의 수호신인 별정수, 리버이아산의 존재를 듣는다."
-Japanese,"scene_cp9_q4_s10,941",detail,비,ぐぇ……<br>だんだん臭いが強くなってるな。,구어……<br> 점점 냄새가 강해지고 있네.
-Japanese,"scene_cp9_q4_s10,941",detail,라캄,それだけ腐臭の原因に<br>近づいてるってことだろ。,그만큼 부취의 원인에<br>가까워지고 있다는 거잖아.
-Japanese,"scene_cp9_q4_s10,941",detail,카타리나,"ときにオイゲン……<br>貴方は,何か<span class='scene-font-place'>アウギュステ</span>にまつわる<br>星晶獣の伝説を知らないだろうか?",때마침 오이겐……<br>당신은 무엇인가<spanclass='scene-font-place>>아우귀스테</span>에 얽힌<br>성정수의 전설을 모르는가?
-Japanese,"scene_cp9_q4_s10,941",detail,오이겐,"星晶獣の伝説?<br>ああ,空図は各島の大星晶獣が<br>守ってるっつーあれか?","성정수의 전설?<br>아아, 공도는 각 섬의 대성정수가<br>지킨다고?"
-Japanese,"scene_cp9_q4_s10,941",detail,오이겐,"星晶獣……なんだろうな,たぶんよ。<br>この<span class='scene-font-place'>アウギュステ</span>には,リヴァイアサン<br>っつー守り神がいるんだ。","성정수……뭐겠지, 아마. <br> 이 <span class='scene-font-place>> 아우귀스테</span>에는 리버이아산<br>라는 수비신이 있지."
-Japanese,"scene_cp9_q4_s10,941",detail,오이겐,リヴァイアサンのおかげで<br><span class='scene-font-place'>アウギュステ</span>の海は<br>特別な力を持っててな……,리바이아산 덕분에<br><spanclass='scene-font-place>>아우귀스테</span>의 바다는<br>특별한 힘을 가지고 있어……
-Japanese,"scene_cp9_q4_s10,941",detail,비,リヴァイアサン……,리바이아산……
-Japanese,"scene_cp9_q4_s10,941",detail,비,"当たりだぜ,<br>そいつは水の大星晶獣だ!","맞잖아,<br>그녀석은 물의 대성정수다!"
-Japanese,"scene_cp9_q4_s10,941",detail,라캄,"オイゲン,意外と詳しいな。<br><span class='scene-font-place'>アウギュステ</span>に来て長いのか?",오이겐 은근 잘 아는데?<br><span class='scene-font-place>>아우귀스테</span>에 온지 오래됐나?
-Japanese,"scene_cp9_q4_s10,941",detail,오이겐,"ばっか野郎,オレぁここの出身だ。<br>地元の事となりゃ,そりゃあ<br>詳しいに決まってるじゃねぇか。","멍청이 녀석, 나 여기 출신이다.<br>그 고장 이야기 하자면, 그야 말로 잘 알고 있지 않겠어?"
-Japanese,"scene_cp9_q4_s10,941",detail,라캄,"えっ!?<br>おっさんは野獣に育てられた,<br>野生児だって聞いてたぜ?",헉!?<br>아저씨는 야수가 키운<br>야생아라고 하던데?
-Japanese,"scene_cp9_q4_s10,941",detail,오이겐,"……ラカム,<br>魔物を片付けたら次はテメェだ,<br>首を洗って待ってるんだな。","……라캄,<br>마물을 치웠더니 다음은 테뫼다,<br>목을 씻고 기다리고 있네."
-Japanese,"scene_cp9_q4_s20,942",synopsis,,"帝国の兵器開発の実験場へと辿り着く一同。しかし,そこには作りかけの兵器が放置されており,その警備の手薄さを訝しんでいると,実験場を守っていたらしき魔物が一同に襲いかかってきた。","제국의 병기 개발 실험장에 도착하는데, 그 곳에는 만든 병기들이 방치되어 있고, 그 경비가 허술한 것을 의심하고 있자, 실험장을 지키고 있던 마물들이 모두 덤벼들었다."
-Japanese,"scene_cp9_q4_s20,942",detail,이오,"ねぇ,こっちー!<br>なんかおっきいのがあるんだけど……","저기, 이쪽!<br>왠지 큰것이 있는데……"
-Japanese,"scene_cp9_q4_s20,942",detail,카타리나,これは……!,이건……!
-Japanese,"scene_cp9_q4_s20,942",detail,오이겐,間違いねぇな。<br>こいつが帝国の新兵器だ。<br>作りかけみてぇだけどよ。,틀림없어. <br> 이 녀석이 제국의 신병기다.만들어낸것 같지만요.
-Japanese,"scene_cp9_q4_s20,942",detail,라캄,その割には手薄だな。<br>いらなくなって捨ててったのか?,그에 비해서는 허술하군.필요없어져서 버린거야?
-Japanese,"scene_cp9_q4_s20,942",detail,오이겐,"んなわきゃねぇだろう。<br>これを作るのに,<br>帝国はドンパチやってんだぞ?",없으면 없겠지.<br>이걸 만드는데 <br> 제국은 어이가 없네?
-Japanese,"scene_cp9_q4_s20,942",detail,카타리나,確かに腑に落ちない点があるな……<br>この警備の甘さ……まさか罠か?,확실히 납득이 가지 않는 점이 있네……<br>이 경비의 허술함……설마 함정인가?
-Japanese,"scene_cp9_q4_s20,942",detail,비,"な,なぁなぁ,<br>たぶん,そういう心配は<br>必要ないと思うぜ?",뭐..뭐..<br>아마도 그런 걱정은<br>필요없을걸?
-Japanese,"scene_cp9_q4_s20,942",detail,카타리나,"ん?<br>どうした,ビィくん,<br>なにか見つけ――","응?<br>웬일이야, 비군,<br>뭔가 찾아-"
-Japanese,"scene_cp9_q4_s20,942",detail,???,<span class='scene-font-4'>――――!!</span>,< span class = ' scene - font - 4 ' > ---- !! < / span >
-Japanese,"scene_cp9_q4_s20,942",detail,이오,いるじゃん!<br>ちゃんと守ってる奴!<br>しかもこっち来てるしー!,있잖아! <br> 잘 지키는 녀석! <br> 게다가 여기도 오고!
-Japanese,"scene_cp9_q4_s20,942",detail,라캄,"イオ,慌てんな!<br>[플레이어],オイゲンのおっさんに<br>俺達の力を見せつけてやろうぜ!",이오 당황하지마!<br>[플레이어] 오이겐 아저씨께<br>우리의 힘을 보여주자!
-Japanese,"scene_cp9_q4_s30,943",synopsis,,"実験場を守る魔物を退ける<span>[플레이어]</span>一行。しかし,ルリアが密かに抱える胸騒ぎは,暗雲のように大きく成長しつつあった。",실험장을 지키는 마물을 물리치는 <span> [플레이어] </span> 한 줄.그러나 루리아가 비밀리에 안고 있는 설렘은 먹구름처럼 크게 성장해 가고 있었다.
-Japanese,"scene_cp9_q4_s30,943",detail,이오,"ふぅ……<br>こ,これで終わり?<br>もう出てこないよね?","후……<br>이, 이걸로 끝이야?<br>이제 안나오겠지?"
-Japanese,"scene_cp9_q4_s30,943",detail,라캄,"ったく,ビビってんじゃねぇぜ。<br>何が出てこようと,<br>俺達なら何の問題もないだろ?","정말이지 겁먹은 거 아니야.<br>뭐가 나오든,<br>우리라면 아무 문제가 없겠지?"
-Japanese,"scene_cp9_q4_s30,943",detail,이오,"そ,そうだけど……","그, 그렇긴 하지만……"
-Japanese,"scene_cp9_q4_s30,943",detail,오이겐,"これがいまのラカム達の力か……<br>[플레이어],この騎空団の団長は<br>テメェだったな?","이것이 지금의 라캄들의 힘인가……<br>[플레이어], 이 기공단의 단장은<br>테뫼였네?"
-Japanese,"scene_cp9_q4_s30,943",detail,오이겐,"ぼんやりしてる割にやるじゃねぇか,<br>見直したぜ。","멍하니 있는 것 치고는 하잖아,<br>다시 봤어."
-Japanese,"scene_cp9_q4_s30,943",sel1_txt,,<span class='scene-font-katari'>ありがとう</span>,<span class='scene-font-katari'>고마워</span>
-Japanese,"scene_cp9_q4_s30,943",sel2_txt,,<span class='scene-font-katari'>まだまだだよ</span>,<span class='scene-font-katari'>아직 멀었다구</span>
-Japanese,"scene_cp9_q4_s30,943",detail,비,"[플레이어]が人に認められると,<br>オイラも嬉しくなるな!<br>これが親心ってやつか?",[플레이어]가 다른 사람에게 인정받으면 <br> 나두 기뻐지지마!<br>이게 부모 마음이라는 거야?
-Japanese,"scene_cp9_q4_s30,943",detail,비,"かぁーっ!<br>相変わらず[플레이어]は厳しいな!<br>素直に喜んでも,いいと思うぜ?","캇!<br>여전히 [플레이어]는 어렵네!<br>솔직하게 기뻐해도, 좋다고 생각해."
-Japanese,"scene_cp9_q4_s30,943",detail,카타리나,"さて……<br>腐敗の原因は排除したわけだし,<br>これで海は元に戻るのか?","이제...<br>부패의 원인은 배제한 것이고,<br>이것으로 바다는 원래대로 돌아가는 것인가?"
-Japanese,"scene_cp9_q4_s30,943",detail,오이겐,"ああ,<br>リヴァイアサンの力が,<br>ここの海にゃ宿ってる。","아아,<br>리바이아산의힘이<br>여기바다에는담겨있네."
-Japanese,"scene_cp9_q4_s30,943",detail,오이겐,人も自然も癒す力だ……<br>じきにいつもの<span class='scene-font-place'>アウギュステ</span>に戻るさ。,사람도 자연도 치유하는 힘이다……<br>곧 언제나와 같은 <span class='scene-font-place> 아우귀스테</span>으로 돌아갈 거야.
-Japanese,"scene_cp9_q4_s30,943",detail,비,あとは帝国の軍を追っ払えば<br>万事解決ってやつだな!,이제 제국의 군을 물리치면<br>만사 해결이라는 녀석이야!
-Japanese,"scene_cp9_q4_s30,943",detail,오이겐,"お,そういや,さっき<br>この辺りで帝国の兵を捕まえた<br>とかって話を耳にしたが……","오, 그래 아니, 아까<br>이 근처에서 제국의 병사를 잡았다<br>라는 이야기를 들었는데……"
-Japanese,"scene_cp9_q4_s30,943",detail,루리아,"ねぇ,[플레이어]。<br>これで本当にこの島の<br>お水は元に戻るんでしょうか?",야 [플레이어]<br>이러면 정말 이 섬의<br>물은 원래대로 돌아가는건가요?
-Japanese,"scene_cp9_q4_s30,943",detail,루리아,"嫌な予感がします……<br>ううん,帝国がどうとかって<br>そういうことじゃなくって……","느낌이 안좋아요....<br>아니, 제국이 어떻다고<br>그런게아니라........"
-Japanese,"scene_cp9_q4_s30,943",detail,루리아,何か……<br>もっと大きな何かが……,무엇인가……<br>더 큰 무엇인가가……
-Japanese,"scene_cp9_q4_s30,943",detail,,<span class='scene-font-katari'>言葉にならない不安がルリアを襲う。</span><br><span class='scene-font-katari'>その言い知れぬ焦燥は</span><br><span class='scene-font-katari'>暗雲のごとく大きく成長しつつあった。</span>,<span class='scene-font-katari>> 말로 표현할 수 없는 불안이 루리아를 엄습한다.</span><br><span class='scene-font-katari>그 말할 수 없는 초조함은 </span><br><spane-font-katari>먹구름처럼 커져가고 있었다。
-English,"scene_cp9_q1_s10,911",synopsis,,"Following their conversation with Tzaka the Great, the crew arrives at the Auguste Isles in pursuit of the Black Knight. Lyria feels a strange presence, but a mysterious agent attacks the party before she can ascertain where it's coming from."
-English,"scene_cp9_q1_s10,911",detail,,"In pursuit of the Black Knight, the crew soon arrives at the Auguste Isles."
-English,"scene_cp9_q1_s10,911",detail,,There they find a cluster of cities overflowing with crystal clear water.
-English,"scene_cp9_q1_s10,911",detail,Io,Wow! Wow! What is this? Why is there water everywhere? Is this the... <span class='scene-font-italic'>ocean</span>?
-English,"scene_cp9_q1_s10,911",detail,Rackam,"Hey, kid, could you take it down a couple notches? Or don't. Just don't come crying to me if you get lost."
-English,"scene_cp9_q1_s10,911",detail,Io,I'm <span class='scene-font-italic'>not</span> going to cry!
-English,"scene_cp9_q1_s10,911",detail,Io,Now let's go look over there!
-English,"scene_cp9_q1_s10,911",detail,Lyria,S-sure...
-English,"scene_cp9_q1_s10,911",detail,Katalina,"What's wrong, Lyria? You've had this serious look on your face ever since we arrived."
-English,"scene_cp9_q1_s10,911",detail,Lyria,"Um, well... I'm sensing a primal beast here, but... something about it feels off."
-English,"scene_cp9_q1_s10,911",detail,Vyrn,A primal beast? I don't see anything even slightly beastly around here!
-English,"scene_cp9_q1_s10,911",detail,Katalina,"If there's anything worthy of investigation, it's that rotten stench wafting through the air."
-English,"scene_cp9_q1_s10,911",detail,Vyrn,"Yeah, I'm smelling that too. Are fermented foods a local specialty on Auguste or something?"
-English,"scene_cp9_q1_s10,911",detail,Lyria,How do I describe what I'm sensing? It's like it's far away but close... Here but... not.
-English,"scene_cp9_q1_s10,911",detail,???,"Hey, you over there! What are you doing?"
-English,"scene_cp9_q1_s10,911",detail,Vyrn,"Whoa, what's your problem?"
-English,"scene_cp9_q1_s10,911",detail,Katalina,"I don't know their affiliation, but they certainly don't seem friendly. To us anyway."
-English,"scene_cp9_q1_s10,911",detail,Vyrn,"We don't have time to analyze the situation! Let's get out of here, [플레이어]!"
-English,"scene_cp9_q1_s20,912",synopsis,,"A group of agents surrounds the crew. Just when it seems like there's nowhere to run, Rackam is surprised to see an old friend of his leading the agents."
-English,"scene_cp9_q1_s20,912",detail,Rackam,We're surrounded!
-English,"scene_cp9_q1_s20,912",detail,Agent,"Stand down. Our captain will be here soon, and—"
-English,"scene_cp9_q1_s20,912",detail,???,"Good work out there today, boys. So you caught that shady group of characters, eh?"
-English,"scene_cp9_q1_s20,912",detail,Agent,"Yes, sir! It appears they made landfall from the coast and were attempting to infiltrate town."
-English,"scene_cp9_q1_s20,912",detail,???,"No need to be so formal. We're dealing with a bunch of two-rupie thugs, from the look of things."
-English,"scene_cp9_q1_s20,912",detail,???,"So? You were trying to sneak into town, when—"
-English,"scene_cp9_q1_s20,912",detail,???,Wait a second. Is this for real?
-English,"scene_cp9_q1_s20,912",detail,Rackam,"Took the words right out of my mouth. What are you doing here? Aren't you getting a little old for this, Eugen?"
-English,"scene_cp9_q1_s20,912",detail,Katalina,R-Rackam? Is this gentleman an acquaintance of yours?
-English,"scene_cp9_q1_s20,912",detail,Eugen,Haven't seen you since I was last at Port Breeze... Whatever happened to the Grandcypher? Did you eventually get her flying?
-English,"scene_cp9_q1_s20,912",detail,Eugen,"And looky here, Rackam! Who's this stunning friend of yours? Wait... you didn't get <span class='scene-font-italic'>married</span>, did you?"
-English,"scene_cp9_q1_s20,912",detail,Katalina,What? No! Absolutely not!
-English,"scene_cp9_q1_s20,912",detail,Io,"Katalina would be wasted on Rackam anyway. Right, Lyria?"
-English,"scene_cp9_q1_s20,912",detail,Eugen,"And these three are your kids? If you got married and even had kids, you could've at least told me!"
-English,"scene_cp9_q1_s20,912",detail,Io,"We're <span class='scene-font-italic'>not</span> his kids! Hurry up and correct him, Rackam!"
-English,"scene_cp9_q1_s20,912",detail,Lyria,So Katalina's our mom? Hee hee... That'd be nice...
-English,"scene_cp9_q1_s20,912",detail,Katalina,S-surely I don't look <span class='scene-font-italic'>that</span> old... Do I?
-English,"scene_cp9_q1_s20,912",detail,Monsters,Grooaar!
-English,"scene_cp9_q1_s20,912",detail,Rackam,"Heh. Trust me, I'd love to clear up this little misunderstanding, but it doesn't look like we've got time to chat right now."
-English,"scene_cp9_q1_s20,912",detail,Eugen,"Goodness... Look at all those monsters! Lend me a hand, everyone!"
-English,"scene_cp9_q2_s10,921",synopsis,,"Following their conversation with Tzaka the Great, the crew arrives at the Auguste Isles in pursuit of the Black Knight. Lyria feels a strange presence, but a mysterious agent attacks the party before she can ascertain where it's coming from."
-English,"scene_cp9_q2_s10,921",detail,,[플레이어] and crew tell Eugen about their journey to collect the pieces of the sky map while doing their best to avoid mentioning the imperial forces chasing them.
-English,"scene_cp9_q2_s10,921",detail,Eugen,"So you need the sky map to get out of Phantagrande Skydom... Sounds like you've got a long, hard road ahead of you."
-English,"scene_cp9_q2_s10,921",detail,Vyrn,Heheh... Our destination's way beyond Phantagrande!
-English,"scene_cp9_q2_s10,921",detail,Vyrn,Compared to that there's nothing long or hard about gettin' outta this neck of the woods!
-English,"scene_cp9_q2_s10,921",detail,Eugen,"Oh? Way beyond Phantagrande, you say? Er... Mind being a little more specific?"
-English,"scene_cp9_q2_s10,921",detail,Katalina,"We can't, Eugen. [플레이어]'s destination can't be pinned down that easily."
-English,"scene_cp9_q2_s10,921",detail,Vyrn,"Our ultimate destination is the end of the sky: Estalucia, the Island of the Astrals!"
-English,"scene_cp9_q2_s10,921",detail,Eugen,Estalucia?
-English,"scene_cp9_q2_s10,921",detail,Eugen,"Heheh... Bwahaha! Dreaming big, are we, kids?"
-English,"scene_cp9_q2_s10,921",detail,Eugen,"The Island of the Astrals, huh? That's fantastic. Any skyfarer would kill to find that dream world."
-English,"scene_cp9_q2_s10,921",detail,Vyrn,"It's not a dream! Right, [플레이어]? We're gonna find it, no ifs, ands, or buts!"
-English,"scene_cp9_q2_s10,921",detail,Eugen,"Right, right... I think I get the size of what you're dealing with now. Roughly."
-English,"scene_cp9_q2_s10,921",detail,Eugen,Sorry for catching you first and asking questions later.
-English,"scene_cp9_q2_s10,921",detail,Katalina,"I must say though, this is quite the surprise. I never imagined we'd encounter an acquaintance of Rackam's working as an agent on Auguste."
-English,"scene_cp9_q2_s10,921",detail,Katalina,"Eugen must be the one who lent you a hand with repairs to the Grandcypher originally, eh, Rackam?"
-English,"scene_cp9_q2_s10,921",detail,Rackam,"I've been wondering what you were up to ever since you left Port Breeze, but what brought you back to working as an agent?"
-English,"scene_cp9_q2_s10,921",detail,Eugen,"Huh? Well, you know, Auguste is at war right now. With the Erste Empire, that is."
-English,"scene_cp9_q2_s10,921",detail,Eugen,They need all the help they can get repairing airships and dealing with monsters.
-English,"scene_cp9_q2_s10,921",detail,Lyria,The Erste Empire... I guess the Black Knight really is up to something here...
-English,"scene_cp9_q2_s10,921",detail,Katalina,The empire seems to have their claws deep within every corner of the skydom.
-English,"scene_cp9_q2_s10,921",detail,Vyrn,"This place looks pretty peaceful to me, gramps. Where's the war?"
-English,"scene_cp9_q2_s10,921",detail,Eugen,Gimme a break. You think they'd stick a decrepit old-timer like me on the front lines?
-English,"scene_cp9_q2_s10,921",detail,Eugen,Our job is to cover for the main troops by protecting the coast from monsters... and whatever else happens to show up.
-English,"scene_cp9_q2_s10,921",detail,Io,Hm... Do you really have what it takes to protect the island? You're so... old!
-English,"scene_cp9_q2_s10,921",detail,Eugen,Hahaha! Let there be no doubt about <span class='scene-font-italic'>that</span>!
-English,"scene_cp9_q2_s10,921",detail,Eugen,"Anyway! We've got monsters incoming. Do this feeble old man a favor and shoo them away for me, will you?"
-English,"scene_cp9_q2_s10,921",detail,Io,Huh? H-hey! Why's that our job all of a sudden?
-English,"scene_cp9_q2_s10,921",detail,Rackam,"Heheh... When it comes to making other people do his more irritating work for him, Eugen's a pro!"
-English,"scene_cp9_q2_s20,922",synopsis,,Eugen convinces the crew to help him exterminate the monsters that appeared on the Auguste coastline. The crew can't help but wonder why the empire and Auguste are fighting each other when monsters are running rampant.
-English,"scene_cp9_q2_s20,922",detail,Eugen,Oho! Excellent work. Who knew you kids were all so talented?
-English,"scene_cp9_q2_s20,922",detail,Io,"Heheh! But of course! Valtz women are raised to be tough, you know!"
-English,"scene_cp9_q2_s20,922",detail,Eugen,"Ah, so you're from Valtz, little miss? Then I'm sure they taught you to never let your guard down... especially against monsters like that one right there!"
-English,"scene_cp9_q2_s20,922",detail,Io,Eep!
-English,"scene_cp9_q2_s20,922",detail,Katalina,No need to worry. Just a tiny little whelp.
-English,"scene_cp9_q2_s20,922",detail,Katalina,"Still, it seems pretty dangerous to be waging a war when there are so many monsters around."
-English,"scene_cp9_q2_s20,922",detail,Eugen,We... don't really have a choice in the matter unfortunately.
-English,"scene_cp9_q2_s20,922",detail,Monster,Grooaar!
-English,"scene_cp9_q2_s20,922",detail,Eugen,"Anyway, let's save the small talk for later. There are still a few big ones left."
-English,"scene_cp9_q3_s10,931",synopsis,,"Eugen tells the crew how the war between Auguste and the empire broke out, and he renews his determination to rescue the ocean from the empire's pollution."
-English,"scene_cp9_q3_s10,931",detail,Katalina,"So in short, the empire's making new weapons and polluting the oceans here along the way."
-English,"scene_cp9_q3_s10,931",detail,Katalina,And that's how both sides ended up at war with each other. Is that about the size of it?
-English,"scene_cp9_q3_s10,931",detail,Eugen,"So on top of your ravishing looks, you're quick-witted and skilled in combat to boot? You've really got all the bases covered!"
-English,"scene_cp9_q3_s10,931",detail,Katalina,Y-you think so?
-English,"scene_cp9_q3_s10,931",detail,Io,"Aren't you forgetting someone? Katalina's not the only lady here, you know!"
-English,"scene_cp9_q3_s10,931",detail,Lyria,Yeah! A-and don't forget me! I'm a lady too!
-English,"scene_cp9_q3_s10,931",detail,Eugen,I'd say you two have got a good... ten years to go yet.
-English,"scene_cp9_q3_s10,931",detail,Io,Grr...
-English,"scene_cp9_q3_s10,931",detail,Io,Quit treating us like children!
-English,"scene_cp9_q3_s10,931",detail,Lyria,"Hey, [플레이어], you don't think I need another ten years, do you?"
-English,"scene_cp9_q3_s10,931",detail,Rackam,"Just what kind of crazy weapon is the empire making, and why do they need to pollute the oceans to do it?"
-English,"scene_cp9_q3_s10,931",detail,Eugen,Hard to say. But we have to stop them before things get even worse.
-English,"scene_cp9_q3_s10,931",detail,Eugen,I'm sure everyone who lives here in Auguste would agree with that in a heartbeat.
-English,"scene_cp9_q3_s20,932",synopsis,,"[플레이어] and company search for signs of a primal beast, but Lyria struggles to ascertain its true form. The crew then gets word that the location of the empire's weapons testing site has been discovered."
-English,"scene_cp9_q3_s20,932",detail,Eugen,Patrolling the coast is a cinch with you kids around!
-English,"scene_cp9_q3_s20,932",detail,Katalina,"Hey, Rackam. Do you feel like he might be... using us?"
-English,"scene_cp9_q3_s20,932",detail,Rackam,"Ever since we met way back when, I've found it hard to disobey him... Or maybe he's just good at manipulating others. I dunno."
-English,"scene_cp9_q3_s20,932",detail,Io,"Hey, [플레이어], how's Lyria doing?"
-English,"scene_cp9_q3_s20,932",detail,Io,Has she picked up any new signs of the primal beast's presence?
-English,"scene_cp9_q3_s20,932",detail,Lyria,It hasn't changed for a while. It seems very... sluggish.
-English,"scene_cp9_q3_s20,932",detail,Vyrn,Okay then! We'll wait for just the right moment to sneak away from the geezer...
-English,"scene_cp9_q3_s20,932",detail,Eugen,"Hey, lizard, what are you muttering about?"
-English,"scene_cp9_q3_s20,932",detail,Vyrn,"N-nothing! Right, [플레이어]?"
-English,"scene_cp9_q3_s20,932",detail,Vyrn,"More importantly! I am <span class='scene-font-italic'>not</span> a lizard! If you get anything right, make sure it's that!"
-English,"scene_cp9_q3_s20,932",detail,Eugen,Are you sure? Forget that for now though. I just got word from a buddy of mine.
-English,"scene_cp9_q3_s20,932",detail,Eugen,"Apparently they've found the weapons testing site responsible for polluting the ocean. Let's get over there, lizard!"
-English,"scene_cp9_q3_s20,932",detail,Vyrn,Are you seriously gonna make me repeat myself? What part of me looks like a—
-English,"scene_cp9_q3_s20,932",detail,Katalina,"Vyrn! If you don't hurry, Eugen's going to leave us behind!"
-English,"scene_cp9_q3_s20,932",detail,Vyrn,Ngh... I'm gonna remember this...
-English,"scene_cp9_q4_s10,941",synopsis,,"The crew heads toward the empire's weapons testing site. Eugen explains the importance of Leviathan, the primal beast that protects Auguste."
-English,"scene_cp9_q4_s10,941",detail,Vyrn,Ugh... The stench is getting stronger.
-English,"scene_cp9_q4_s10,941",detail,Rackam,We must be getting closer to the source of the pollution.
-English,"scene_cp9_q4_s10,941",detail,Katalina,"By the way, Eugen... You wouldn't happen to be aware of the local legends pertaining to primal beasts, would you?"
-English,"scene_cp9_q4_s10,941",detail,Eugen,"Local legends... Oh, like the one about how pieces of the sky map are protected by great primal beasts scattered across the skydom?"
-English,"scene_cp9_q4_s10,941",detail,Eugen,There may be something to it... Here on Auguste we have a guardian deity called Leviathan.
-English,"scene_cp9_q4_s10,941",detail,Eugen,It's all thanks to that primal beast that Auguste's waters possess a special power...
-English,"scene_cp9_q4_s10,941",detail,Vyrn,Leviathan...
-English,"scene_cp9_q4_s10,941",detail,Vyrn,Bingo! That thing must be the great primal beast of water!
-English,"scene_cp9_q4_s10,941",detail,Rackam,"You sure seem knowledgeable about this, Eugen. Been here a while?"
-English,"scene_cp9_q4_s10,941",detail,Eugen,"I was born here, dummy. Everyone who lives here has heard the tale."
-English,"scene_cp9_q4_s10,941",detail,Rackam,Huh? But I heard you were raised by wolves in the wilderness!
-English,"scene_cp9_q4_s10,941",detail,Eugen,"Just you wait, Rackam. Once I clear out these monsters, you're next."
-English,"scene_cp9_q4_s20,942",synopsis,,"[플레이어] and company reach the empire's weapons testing site but find a half-finished weapon left unattended. While they wonder why security is so lax, monsters that seem to be protecting the site attack them."
-English,"scene_cp9_q4_s20,942",detail,Io,"Over here, everyone! There's some kind of huge... something."
-English,"scene_cp9_q4_s20,942",detail,Katalina,What <span class='scene-font-italic'>is</span> that?
-English,"scene_cp9_q4_s20,942",detail,Eugen,"This is a new imperial weapon, no mistake about it. Looks half-finished though."
-English,"scene_cp9_q4_s20,942",detail,Rackam,It still seems surprisingly quiet around here. Did they decide to abandon it?
-English,"scene_cp9_q4_s20,942",detail,Eugen,"I highly doubt that. The empire's always yelling at someone to finish making this, you know."
-English,"scene_cp9_q4_s20,942",detail,Katalina,This doesn't add up. And considering the lack of security... Is this a trap?
-English,"scene_cp9_q4_s20,942",detail,Vyrn,"I think that might be the least of our worries, guys!"
-English,"scene_cp9_q4_s20,942",detail,Katalina,"Hm? What's the matter, Vyrn? Did you find someth—"
-English,"scene_cp9_q4_s20,942",detail,???,...!
-English,"scene_cp9_q4_s20,942",detail,Io,So something <span class='scene-font-italic'>was</span> guarding this place! And it's coming our way!
-English,"scene_cp9_q4_s20,942",detail,Rackam,"Stay calm, Io! [플레이어], let's show Eugen what we can do!"
-English,"scene_cp9_q4_s30,943",synopsis,,[플레이어] and company defeat the monsters protecting the testing site. But there's a sick sense of unease growing in the pit of Lyria's stomach.
-English,"scene_cp9_q4_s30,943",detail,Io,"Whew... W-was that the last of them? The monsters are all gone now, right?"
-English,"scene_cp9_q4_s30,943",detail,Rackam,Quit shaking in your little boots. We can handle anything that comes our way!
-English,"scene_cp9_q4_s30,943",detail,Io,"Y-yeah, I guess you're right..."
-English,"scene_cp9_q4_s30,943",detail,Eugen,"You've found yourself a tough little crew, Rackam. I take it you're the leader of this ragtag operation, [플레이어]?"
-English,"scene_cp9_q4_s30,943",detail,Eugen,"For a spacy, unfocused upstart, you're not bad. Better than I thought anyway."
-English,"scene_cp9_q4_s30,943",sel1_txt,,Thanks.
-English,"scene_cp9_q4_s30,943",sel2_txt,,I've still got a long way to go.
-English,"scene_cp9_q4_s30,943",detail,Vyrn,"When people praise [플레이어], it makes me happy too! This must be what a parent feels when their child makes it in the world!"
-English,"scene_cp9_q4_s30,943",detail,Vyrn,"You're always so hard on yourself, [플레이어]! You can just say thanks when people compliment you, y'know!"
-English,"scene_cp9_q4_s30,943",detail,Katalina,"Now that we've removed the source of the pollution, will the ocean return to normal?"
-English,"scene_cp9_q4_s30,943",detail,Eugen,It will. The ocean here is filled with Leviathan's power.
-English,"scene_cp9_q4_s30,943",detail,Eugen,It's a power that can heal both people and nature alike. Auguste will be back to normal in no time.
-English,"scene_cp9_q4_s30,943",detail,Vyrn,"All that's left is to send the empire packing, and Auguste's as good as saved!"
-English,"scene_cp9_q4_s30,943",detail,Eugen,"Come to think of it, I overheard someone saying they'd caught some imperial agents earlier..."
-English,"scene_cp9_q4_s30,943",detail,Lyria,"Hey, [플레이어], do you really think this will turn the water here back to normal?"
-English,"scene_cp9_q4_s30,943",detail,Lyria,I'm sensing something bad... and it doesn't have anything to do with the empire.
-English,"scene_cp9_q4_s30,943",detail,Lyria,It feels... bigger than them somehow...
-English,"scene_cp9_q4_s30,943",detail,,Lyria is overcome with an anxiety she finds difficult to explain. An indescribable restlessness wells up within her like a gathering storm.
+Japanese,scene_cp9_q1_s10、911,synopsis,,ザカ大公の話から、黒騎士を追って降り立った<span class='scene-font-place'>アウギュステ列島</span>で、ルリアは不思議な気配を感じ取る。しかし、それを確かめる間もなく、謎の傭兵が一同に襲いかかってきた。,사카 대공의 말에서 흑기사를 쫓아 내려선 <span class='scene-font-place>> 아우귀스테 열도</span>에서 루리아는 이상한 기색을 감지한다.그러나 확인할 틈도 없이 의문의 용병들이 모두 덤벼들었다.
+Japanese,scene_cp9_q1_s10、911,detail,,<span class='scene-font-katari'>黒騎士を追って辿り着いた</span><br><span class='scene-font-place'>アウギュステ列島</span><span class='scene-font-katari'>。</span>,<span class='scene-font-katari'>흑기사를 쫓아 다다른 곳은</span><br><span class='scene-font-place'>아우귀스테열도</span><span class='scene-font-katari'>。</span>
+Japanese,scene_cp9_q1_s10、911,detail,,<span class='scene-font-katari'>そこは清らかな水を湛える</span><br><span class='scene-font-katari'>近代的な都市群だった。</span>,<span class='scene-font-katari'>그곳은 맑은 물로 가득 찬</span><br><span class='scene-font-katari'>근대적인 도시들이었다。</span>
+Japanese,scene_cp9_q1_s10、911,detail,이오,うわー! うわー! なにこれっ!<br>なんでこんなに水があるの?<br>これが海ってやつ!?,우와! 우와! 이거 뭐야! <br> 왜 이렇게 물이 있어?<br>이게 바다라는 거야!?
+Japanese,scene_cp9_q1_s10、911,detail,라캄,おい、ガキンチョ。<br>はしゃぐのはほどほどにしとけよ。<br>はぐれて泣いても知らねぇぜ?,야、 꼬마야.<br>떠드는건 적당히 해둬.<br>떨어져 울어도 모르지?
+Japanese,scene_cp9_q1_s10、911,detail,이오,泣ーきーまーせーんー!,울지 마、 안 울어요!
+Japanese,scene_cp9_q1_s10、911,detail,이오,ねぇ、あっちも見に行こっ!,야 저쪽도 보러 가자!
+Japanese,scene_cp9_q1_s10、911,detail,루리아,う、うん……,으、 응……
+Japanese,scene_cp9_q1_s10、911,detail,카타리나,どうした、ルリア?<br><span class='scene-font-place'>アウギュステ</span>に着いてから<br>ずっと難しい顔をしているが……,어떻게 된거야、 루리아?<br><spanclass='scene-font-place>>아우귀스테</span>에 도착해서<br>계속 어려운 얼굴을 하고 있지만……
+Japanese,scene_cp9_q1_s10、911,detail,루리아,うん……えっとね?<br>ずっと星晶獣の気配がするんだけど<br>それがなんだか変な感じで……,음…음…음?<br>계속 성정수의 기미가 보이는데<br>그게 왠지 이상한 느낌이 들어서…….
+Japanese,scene_cp9_q1_s10、911,detail,비,星晶獣?<br>っても……このへんにゃ<br>何にも見えねーぜ?,성정수?<br>도……이쯤에는<br>아무것도 보이지 않지?
+Japanese,scene_cp9_q1_s10、911,detail,카타리나,そうだな……<br>気になると言えばむしろ<br>辺りに漂う腐敗したような臭いだが……,글쎄……<br>궁금하다고 하면 오히려<br>주변에 감도는 부패한 듯한 냄새지만……
+Japanese,scene_cp9_q1_s10、911,detail,비,そういや、そんな臭いもするな。<br><span class='scene-font-place'>アウギュステ</span>は名産品が<br>発酵食品だったりするのか?,그래 아니、 그런 냄새도 나네.<br><span class='scene-font-place>>아우귀스테</span>는 명산품이 <br>발효식품이었는가?
+Japanese,scene_cp9_q1_s10、911,detail,루리아,う～ん、なんて言うんだろ?<br>遠いのに近いような……<br>居るのに居ないような……,음 뭐라고 하지?<br> 먼데 가까운 것 같은……<br>있는데 없는 것 같은……
+Japanese,scene_cp9_q1_s10、911,detail,???,――おい、貴様らッ!<br>そこで何をしている!?,--야、 네놈랏!<br>거기서 뭐하고 있어!?
+Japanese,scene_cp9_q1_s10、911,detail,비,うわっ!?<br>なんだこいつら!?,으악!?<br>뭐야 이 녀석들!?
+Japanese,scene_cp9_q1_s10、911,detail,카타리나,所属はわからないが……<br>どうやら私達に対して<br>好意的な感情は持っていないようだ。,소속은 모르겠지만……<br>아무래도 우리에 대해<br>호의적인 감정은 가지고 있지 않은 것 같다.
+Japanese,scene_cp9_q1_s10、911,detail,비,冷静に分析してる場合じゃねーぜ!<br>逃げるぞ! [플레이어]!,냉정하게 분석할 때가 아니야!<br>도망가자! [플레이어]
+Japanese,scene_cp9_q1_s20、912,synopsis,,逃げ場を失った<span>[플레이어]</span>一行。そこへ謎の傭兵達の隊長として、ひとりの老兵が姿を現す。その顔を見て、ラカムは驚きの声を上げるのだった。,도망갈 곳을 잃은 <span> [플레이어] </span> 일행.그곳에 의문의 용병들의 대장으로서 노병 한 명이 모습을 드러낸다.그 얼굴을 보고 라캄은 놀라움의 목소리를 높이는 것이었다.
+Japanese,scene_cp9_q1_s20、912,detail,라캄,ちっ、囲まれたか……!,쳇、 둘러싸였나……!
+Japanese,scene_cp9_q1_s20、912,detail,용병,大人しくしていろ。<br>じきに我々の隊長が――,얌전히 있어라.<br>곧 우리 대장이 --
+Japanese,scene_cp9_q1_s20、912,detail,???,うーい、ご苦労さん。<br>妙な連中を捕まえたんだって?,야、 수고했어.이상한 무리를 잡았다며?
+Japanese,scene_cp9_q1_s20、912,detail,용병,はっ!<br>海岸から上陸し、<br>市街への侵入を試みていたようで……,헉!<br>해안으로부터 상륙해、<br>시가로의 침입을 시도하고 있던 것 같아서……
+Japanese,scene_cp9_q1_s20、912,detail,???,んな堅苦しくすんなって。<br>どうせゴロツキの<br>集まりみてぇなもんなんだからよ。,그렇게 딱딱하게 살지 말라고.<br>어차피 빈둥빈둥하는<br>모여보고 싶으니까.
+Japanese,scene_cp9_q1_s20、912,detail,???,んで?<br>お前らがその侵入者……,왜?<br>너희가 그 침입자……
+Japanese,scene_cp9_q1_s20、912,detail,???,……って、おいおい、冗談だろ?,……라니、 어이、 농담이지?
+Japanese,scene_cp9_q1_s20、912,detail,라캄,そりゃこっちのセリフだぜ……<br>こんなとこで何してやがんだ?<br>オイゲンのおっさんよぉ……,그건 이쪽의 대사지……<br>이런데서 뭐해?<br> 오이겐의 아저씨여……
+Japanese,scene_cp9_q1_s20、912,detail,카타리나,ラ、ラカム……<br>君はこの御仁と知り合いなのか?,라、 라캄……<br>너는 이 분과 아는 사이인가?
+Japanese,scene_cp9_q1_s20、912,detail,오이겐,<span class='scene-font-place'>ポート・ブリーズ</span>以来じゃねぇか……<br>グランサイファーはどうなった?<br>ちゃんと飛んだか?,<span class='scene-font-place>> 포트 브리즈</span>이래 아닌가……<br> 그랜사이퍼는 어떻게 됐어?<br>잘날았니?
+Japanese,scene_cp9_q1_s20、912,detail,오이겐,お? なんだラカムてめぇ、<br>美人さん連れやがって……<br>まさか、嫁か! お前が!?,어? 뭐야 라카무네、<br>미인분을 데리고......<br>설마 며느리냐! 네가!?
+Japanese,scene_cp9_q1_s20、912,detail,카타리나,<span class='scene-font-4'>なっ!!</span><br><span class='scene-font-4'>ち、違う! 断じて違う!!</span>,< span class = ' scene - font - 4 ' > な っ !! < / span > < br > < span class = ' scene - font - 4 ' > ち 、 違う ! 断じて 違う !! < / span >
+Japanese,scene_cp9_q1_s20、912,detail,이오,ラカムにカタリナは<br>もったいなさ過ぎよ。<br>ねールリア?,라캄에 카타리나 너무 아까워.<br> 네루리아?
+Japanese,scene_cp9_q1_s20、912,detail,오이겐,そこの三人は子供か?<br>結婚して子供までできたってんなら<br>一報よこせよ!,거기 셋은 아이인가?결혼해서 아이까지 생겼다면<br> 소식좀 전해라!
+Japanese,scene_cp9_q1_s20、912,detail,이오,なっ……!<br>ち、違うわよっ! ねぇっ!?<br>早く誤解を解いて! ラカム!!,나랏……!<br>치、 틀려! 야!?<br>빨리 오해 풀어줘! 라캄!!
+Japanese,scene_cp9_q1_s20、912,detail,루리아,カタリナがお母さん……<br>ふふっ、ちょっといいかも……,카타리나가 엄마...<br>훗、 좀 괜찮은 것 같아...
+Japanese,scene_cp9_q1_s20、912,detail,카타리나,わ、私は……<br>そんな歳に見えるというのか……,와、 나는...<br>그런나이로 보인다는건가...
+Japanese,scene_cp9_q1_s20、912,detail,마물들,<span class='scene-font-4'>グオォォォン!</span>,< span class = ' scene - font - 4 ' > グオォォォン ! < / span >
+Japanese,scene_cp9_q1_s20、912,detail,라캄,ヘッ。<br>誤解を解きたいのはやまやまだが<br>そうも言ってられなさそうだぜ?,헤헷.<br>오해를 풀고 싶은 마음은 굴뚝같지만<br>그렇게도 말할 수 없을 것 같은데?
+Japanese,scene_cp9_q1_s20、912,detail,오이겐,おっと……<br>魔物が団体さんでお出ましだな!<br>ワリィが手伝ってもらうとすっか!,이런....<br>마물이 단체로 나오셨군!와리가 도와준다면 정말?
+Japanese,scene_cp9_q2_s10、921,synopsis,,ラカムの知人であり、<span class='scene-font-place'>アウギュステ</span>を守る傭兵達の隊長を務めるオイゲンに事情を話し、解放される<span>[플레이어]</span>一行。そこで一行は、<span class='scene-font-place'>アウギュステ</span>が現在、エルステ帝国と戦争状態にあることを聞かされる。,라캄의 지인이자 <span class='scene-font-place>> 아우귀스테 </span>을 지키는 용병들의 대장을 맡고 있는 오이겐에게 사정을 이야기하고 풀려나는 <span>[플레이어]</span> 일행.여기에서 일행은 <span class='scene-font-place>> 아우귀스테</span>가 현재 엘스테 제국과 전쟁 상태에 있다는 질문을 받는다.
+Japanese,scene_cp9_q2_s10、921,detail,,<span class='scene-font-katari'>[플레이어]達はオイゲンに、帝国に</span><br><span class='scene-font-katari'>追われている理由は隠しつつ、空図集め</span><br><span class='scene-font-katari'>の旅をしていることを説明した。</span>,<span class='scene-font-katari'>[플레이어]들은 오이겐에게 제국에 </span><br><span class='span class='scene-font-katari>쫓기고 있는 이유는 숨기면서 빈 그림 </span><brass><span class><span class><spane-font-katari>를 설명했다.
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,ファータ・グランデ空域を抜けるために、<br>空図が必要ねぇ……<br>ずいぶん難儀な旅じゃねぇか。,파타 그랑데 공역을 빠져나가기 위해서、<br>공도가 필요해……<br>굉장히 어려운 여행이잖아.
+Japanese,scene_cp9_q2_s10、921,detail,비,ふふん……<br>けど、オイラ達の目指す場所は<br>この空域の外の、さらに先だからな!,흠…<br>하지만 나들이 목표로 하는 장소는<br>이 공역 밖 더 앞이니까!
+Japanese,scene_cp9_q2_s10、921,detail,비,ファータ・グランデ空域を<br>抜けるくらいで<br>難儀だなんて言ってらんねーぜ!,파타그란데 공역을<br>빠질정도로<br>어렵다고 말할수없어!
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,あん?<br>ファータ・グランデのさらに先だと?<br>ってぇと……どこだったかな……,어?<br>파타 그랑데보다 먼저라고?<br>라니……어디였더라……
+Japanese,scene_cp9_q2_s10、921,detail,카타리나,違うんだ、オイゲン。<br>[플레이어]の目指す空は、<br>そんなところで収まってはいない。,달라 오이겐. <br>[플레이어]가 목표로 하는 하늘은、<br>그런 곳에 머물고 있지는 않다.
+Japanese,scene_cp9_q2_s10、921,detail,비,オイラ達の目的地は、<br>空の果て、<span class='scene-font-spword'>星の島イスタルシア</span>だぜ!,나들의 목적지는 <br> 하늘 끝 <span class='scene-font-spword> 별의 섬 이스타르시아 </span> 이라구!
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,<span class='scene-font-spword'>イスタルシア</span>……?,< span class = ' scene - font - spword ' > イスタルシア < / span > …… ?
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,……くくく、はははははっ!<br>大きく出るじゃねぇか、<br>てめぇら!!,....크크크크크크크크크、 하하하하하하크!<br>크게 나오잖아、<br>테메라!!<br>크게 나오잖아<br>테메라!!
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,<span class='scene-font-spword'>星の島</span>か……<br>そりゃいいな、最高だぜ。<br>騎空士なら誰もが憧れる、夢の世界だ。,<span class='scene-font-spword> 별의 섬</span> 인가……<br>그럼 좋겠다、 최고지.<br>기공사라면 누구나 꿈꾸는 꿈의 세계다.
+Japanese,scene_cp9_q2_s10、921,detail,비,夢じゃねーっつーの!<br>なぁ! [플레이어]!<br>オイラ達は絶対に辿り着いてみせるぜ!,꿈이 아니라고!<br>야! [플레이어]!<br>나들은 반드시 도착하고야 말거야!
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,わかったわかった……<br>だいたい事情は飲みこめたぜ。,알겠어 알겠어……<br>대략 사정은 삼켰지.
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,すまねぇなぁ、<br>問答無用でとっ捕まえちまってよ。,미안하네、<br>문답무용해서 붙잡아둬.
+Japanese,scene_cp9_q2_s10、921,detail,카타리나,しかし、驚きだ……<br><span class='scene-font-place'>アウギュステ</span>でラカムの知人が<br>傭兵をやっているとはな。,하지만 놀랍다....<br><span class='scene-font-place>>아우귀스테</span>에서 라캄의 지인이<br>용병을 하고 있다니..
+Japanese,scene_cp9_q2_s10、921,detail,카타리나,グランサイファーの修理に<br>手を貸してくれた御仁というのは、<br>オイゲン、貴方のことだったのだな。,그랑사이퍼 수리에<br>도움을 준 분은 <br> 오이겐、 당신 말이로군.
+Japanese,scene_cp9_q2_s10、921,detail,라캄,<span class='scene-font-place'>ポート・ブリーズ</span>を去って、<br>何してんのかと思ってたけど、<br>なんでまた傭兵なんかやってんだ?,<span class='scene-font-place>> 포트 브리즈</span>를 떠나서 <br> 뭐하나 싶었는데 <br> 왜 또 용병이야?
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,あー? そりゃアレだ。<br><span class='scene-font-place'>アウギュステ</span>はいま戦争してんだよ。<br>かの大帝国エルステとな。,아? 그건 그렇다.<br><span class='scene-font-place>>아우귀스테</span>는 지금 전쟁중이야.<br>가의 대제국 엘스테가 말이야.
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,何かと手が必要らしくてな、<br>騎空艇の修理をしたり、<br>魔物と戦ったりと大忙しだ。,이것저것 일손이 필요할것 같아서、<br>기공정을 수리하고、<br>마물과 싸우느라 정신이 없었어.
+Japanese,scene_cp9_q2_s10、921,detail,루리아,<span class='scene-font-place'>エルステ帝国</span>……<br>やっぱり、あの黒い騎士さんが、<br>何かしようとしてるってことかな……?,<span class='scene-font-place>>에르스테 제국</span>……<br>역시、 저 검은 기사님이、<br>뭔가를 하려고 한다는 건가……?
+Japanese,scene_cp9_q2_s10、921,detail,카타리나,やはりファータ・グランデ空域では、<br>どこへ行こうとも<br>帝国の影がある、か……,역시 파타 그랑데 공역에서는、<br>어디를 가든<br>제국의 그림자가 있는、가……
+Japanese,scene_cp9_q2_s10、921,detail,비,なぁ、おっさん。<br>そうは言っても<br>ここらは随分平和に見えるぜ?,야 아저씨.<br>그렇게 말해도<br>이쯤 꽤 평화로워 보이는데?
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,ばっかおめぇ、<br>オレみてぇな老いぼれが<br>前線にいるわけねぇだろうがよ?,나만 너、<br>나같은 늙은이가<br>전선에 있는건 아니지?
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,オレ達の仕事は<br>主力部隊に代わって<br>沿岸を魔物やら何やらから守ることよ。,우리가 하는 일은<br>주력 부대를 대신해<br>해안을 마물이라든가 뭐라든가 지키는 일이야.
+Japanese,scene_cp9_q2_s10、921,detail,이오,ふーん。<br>こんなおじいちゃんで<br>本当に島を守れるわけ?,흥.<br>이런할아버지로<br>정말섬을지킬수있다고?
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,くははは!<br>そりゃ違ぇねぇ!<br>,크하하하!<br>그건 틀렸네!< br >
+Japanese,scene_cp9_q2_s10、921,detail,오이겐,ほれ、向こうに魔物が出たってよ。<br>非力なジジイに代わって、<br>さくさくっと退治してきてくれ。,자、 저쪽에 마물이 나왔대.<br>비력한 지지이를 대신해서 <br>사삭사삭 퇴치해다오.
+Japanese,scene_cp9_q2_s10、921,detail,이오,……え? ちょ、ちょっと!<br>なんでそうなるの!?,……에? 자、 잠깐!<br>왜 그러는 거야!?
+Japanese,scene_cp9_q2_s10、921,detail,라캄,ヘヘッ……<br>昔から面倒な仕事を押し付けるのが<br>得意なイヤなおっさんだぜ!,헤헷……<br>옛날부터 귀찮은 일을 떠맡기는 게<br>잘하는 싫은 아저씨야!
+Japanese,scene_cp9_q2_s20、922,synopsis,,オイゲンの口車に乗せられ<span class='scene-font-place'>アウギュステ</span>の沿岸に現れる魔物の退治を手伝うが、魔物の脅威にさらされながらも戦争を続ける<span class='scene-font-place'>アウギュステ</span>に、<span>[플레이어]</span>一行は疑問を持つ。,오이겐의 감언이설에 속아 <span class='scene-font-place>> 아우귀스테</span>의 연안에 나타나는 마물 퇴치를 돕지만 마물의 위협을 받으면서도 전쟁을 계속하는 <span class='scene-font-place>></span><span><span>은 </span>에 있는 </spane>아우귀스테</span></span>에 속는다.
+Japanese,scene_cp9_q2_s20、922,detail,오이겐,おう、ご苦労さん。<br>なんだよてめぇら、<br>なかなか腕は立つじゃねぇか。,오、 수고했어.<br>뭐야、<br> 꽤 실력은 좋은데.
+Japanese,scene_cp9_q2_s20、922,detail,이오,ふふんっ!<br>当然でしょ?<br><span class='scene-font-place'>バルツ</span>の女は強いんだから!,흠! 당연하지?<br><span class='scene-font-place>>발츠</span>의 여자는 강하거든!
+Japanese,scene_cp9_q2_s20、922,detail,오이겐,お? 嬢ちゃんは<span class='scene-font-place'>バルツ</span>出身か。<br>けど油断は禁物だぜ?<br>ほれ、まだその辺にも残ってら。,어? 아가씨는<span class='scene-font-place>>발츠</span>출신인가??<br>하지만 방심은 금물이라구!<br>봐、 아직 그 근처에도 남아있어.
+Japanese,scene_cp9_q2_s20、922,detail,이오,ひゃんっ!?,힝!?
+Japanese,scene_cp9_q2_s20、922,detail,카타리나,大丈夫、<br>所詮は取るに足らない小物だ。,괜찮아 <br> 결국은 하찮은 소품이야.
+Japanese,scene_cp9_q2_s20、922,detail,카타리나,しかし、それにしても危ないな。<br>これだけ魔物が発生するというのに……<br>戦争などしている場合じゃないだろう?,하지만 그래도 위험하네.<br>이만큼 마물이 발생하는데……<br>전쟁하고 있을 때가 아니지?
+Japanese,scene_cp9_q2_s20、922,detail,오이겐,そいつぁまぁ、なんだ……<br>やむに已まれぬ事情ってのが、な……,그 녀석 뭐、 뭐야……<br> 어쩔 수 없는 사정이라는 것이、 말이지……
+Japanese,scene_cp9_q2_s20、922,detail,마물,<span class='scene-font-4'>グオォォォン!</span>,< span class = ' scene - font - 4 ' > グオォォォン ! < / span >
+Japanese,scene_cp9_q2_s20、922,detail,오이겐,ほれ、まだ大物が残ってやがらぁ。<br>面倒な話は後回しだぜ。,거봐、 아직 거물이 남아서 그래.귀찮은 이야기는 뒷전이야
+Japanese,scene_cp9_q3_s10、931,synopsis,,<span>[플레이어]</span>一行に、オイゲンは<span class='scene-font-place'>アウギュステ</span>と帝国の争いの発端を語る。帝国の兵器開発によって腐ってしまった海を取り戻すため、オイゲンは決意を新たにする。,<span>[플레이어]</span>일행에게 오이겐은 <spanclass='scene-font-place>>아우귀스테</span>와 제국의 싸움의 발단을 말한다.오이겐은 제국의 무기 개발로 썩어버린 바다를 되찾기 위해 결의를 다진다.
+Japanese,scene_cp9_q3_s10、931,detail,카타리나,――つまり、<br>帝国の兵器開発の影響で<br><span class='scene-font-place'>アウギュステ</span>の海が腐り……,-- 즉、<br>제국의 무기개발의 영향으로<br><spanclass='scene-font-place>>아우귀스테</span>의 바다가 썩고....
+Japanese,scene_cp9_q3_s10、931,detail,카타리나,それを巡って<br>両者は戦争状態に突入した、と。<br>……そういうわけなのか?,그것을 둘러싸고<br>양자는 전쟁 상태에 돌입했다、 라고.<br>……그런 이유인가?
+Japanese,scene_cp9_q3_s10、931,detail,오이겐,おう、美人で腕も立つ上に<br>頭の回転も速いたぁ<br>ケチのつけようがねぇなぁ、おい。,어이구、 미인이고 팔도 일구고 <br> 머리의 회전도 빨라 <br> 구두쇠가 붙을래야 안 돼、 어이.
+Japanese,scene_cp9_q3_s10、931,detail,카타리나,えっ!?<br>……そ、そうか……?,엣!?<br>......소、 그래……?
+Japanese,scene_cp9_q3_s10、931,detail,이오,ねぇ、さっきから何か忘れてない?<br>レディはカタリナだけじゃないけど?,저기、 아까부터 뭔가 잊은 거 없어?레디는 카타리나뿐이 아닌데?
+Japanese,scene_cp9_q3_s10、931,detail,루리아,はいはいっ!<br>わ、私もっ! 私もレディですっ!,네네!<br>와、 저도 레디에요!
+Japanese,scene_cp9_q3_s10、931,detail,오이겐,嬢ちゃん達はまぁ……<br>10年もしたらまたおいで、な?,아가씨들은 뭐....<br>10년이나 지나면 또 와、 그지?
+Japanese,scene_cp9_q3_s10、931,detail,이오,ぐぬぬぬ……,투덜투덜……
+Japanese,scene_cp9_q3_s10、931,detail,이오,<span class='scene-font-4'>子供扱いするなっつーの!</span>,<span class='scene-font-4> 어린애 취급하지 말란 말이야!</span>
+Japanese,scene_cp9_q3_s10、931,detail,루리아,ねぇねぇ、[플레이어]、<br>私は10年もいらないですよね? ね?,야야 [플레이어]、<br>난 10년도 필요없죠?그쵸?
+Japanese,scene_cp9_q3_s10、931,detail,라캄,しかし、海を腐らせるなんて<br>帝国はどういう兵器を<br>作ってるってんだ?,그런데 바다를 썩히다니<br>제국은 무슨병기를<br>만든다는거지?
+Japanese,scene_cp9_q3_s10、931,detail,오이겐,さぁなぁ。<br>ただ、これ以上の海の腐敗は<br>止めなくちゃならねぇ。,글쎄 말이야.<br>단지、 더 이상의 바다의 부패는<br>멈추지 않으면 안돼.
+Japanese,scene_cp9_q3_s10、931,detail,오이겐,それだけはこの島の連中、<br>誰もが思ってるってぇことさな。,그것만은 이 섬의 친구들、 <br>누구나 생각하고 있다는 것이야.
+Japanese,scene_cp9_q3_s20、932,synopsis,,オイゲンに良いように使われながら、星晶獣の気配を探る<span>[플레이어]</span>一行。しかし、ルリアでも正体を掴めないでいると、海を腐らせている兵器開発の実験場が見つかったという連絡が入る。,오이겐에 잘 쓰이면서 별정수의 기색을 살핀다 <span> [플레이어] </span> 한 줄.하지만 루리아에서도 정체를 찾지 못하고 있으면 바다를 썩이고 있는 무기개발 실험장이 발견됐다는 연락이 온다.
+Japanese,scene_cp9_q3_s20、932,detail,오이겐,いやぁ、お前らいると<br>沿岸警備が楽でいいなぁ!,이야~ 너희들 있으면<br> 해안경비가 편해서 좋겠다!!
+Japanese,scene_cp9_q3_s20、932,detail,카타리나,……おい、ラカム、<br>何かいいように、<br>使われている気がするんだが……?,……야、 라캄、 <br> 뭔가 좋게 <br> 사용되고 있는 것 같은데……?
+Japanese,scene_cp9_q3_s20、932,detail,라캄,昔っから、なんかあのおっさんには、<br>逆らえなくてなぁ……<br>周りを振り回すのが得意というか……,예전부터 왠지 저 아저씨는 <br>거스를 수 없어서 말이야……<br>주위를 휘두르는 것이 특기랄까……
+Japanese,scene_cp9_q3_s20、932,detail,이오,ねぇ、[플레이어]<br>ルリアのほうはどう?,야 [플레이어]<br>루리아 쪽은 어때?
+Japanese,scene_cp9_q3_s20、932,detail,이오,星晶獣の気配について<br>何か新しいことはわかった?,성정수의 기척에 대해<br>뭔가 새로운 것은 알아냈니?
+Japanese,scene_cp9_q3_s20、932,detail,루리아,[플레이어]、星晶獣の気配は<br>さっきまでと変わらないです。<br>ずぅっと、ぼんやりしてる感じ。,[플레이어] 성정수의 기색은 <br> 조금 전과 다르지 않아요.<br>계속 멍한 느낌.
+Japanese,scene_cp9_q3_s20、932,detail,비,うし!<br>じゃあ、適当なタイミングで<br>おっさんの目を盗んで……,우치!<br>자、 적당한 타이밍에<br>아저씨의 눈을 피해……
+Japanese,scene_cp9_q3_s20、932,detail,오이겐,おう、トカゲ、<br>何をこそこそしてんだ?,어이구 도마뱀、 <br> 뭘 속닥거리냐?
+Japanese,scene_cp9_q3_s20、932,detail,비,んえっ!<br>ななな、なんでもないぜっ!?<br>なぁ!? [플레이어]!?,엥!<br>나、아무것도아니야!?<br>야!? [플레이어]!?
+Japanese,scene_cp9_q3_s20、932,detail,비,<span class='scene-font-4'>っていうか!</span><br>オイラはトカゲじゃないからな!<br>そこんとこ間違えるんじゃねーぜ!,<span class='scene-font-4>라고 할까!</span><br>나는 도마뱀이 아니니까!<br>거기서 틀리지마!
+Japanese,scene_cp9_q3_s20、932,detail,오이겐,そうなのか?<br>んなことより、<br>さっき仲間から連絡があった。,그래?<br>는것보다、<br>방금 동료로부터 연락이 왔다.
+Japanese,scene_cp9_q3_s20、932,detail,오이겐,海が腐る原因になってる、<br>兵器開発の実験場が見つかったとよ。<br>オレたちも行くぞ、トカゲ!,바다가 썩는 원인이 되고 있는 <br> 무기개발 실험장이 발견되었다고 해. <br> 우리도 갈게 도마뱀!
+Japanese,scene_cp9_q3_s20、932,detail,비,だから!<br>オイラはトカゲじゃないって……!,그러니까!<br>나는 도마뱀이 아니라고……!
+Japanese,scene_cp9_q3_s20、932,detail,카타리나,ビィくん! 急がないと<br>オイゲンが先に行ってしまうぞ!,비군! 서두르지 않으면 <br> 오이겐이 먼저 가버려!
+Japanese,scene_cp9_q3_s20、932,detail,비,くっ……<br>覚えてろ、あのおっさん……,헉……<br>두고 보자、 저 아저씨……
+Japanese,scene_cp9_q4_s10、941,synopsis,,海が腐る原因になっている帝国の実験場へと向かう一同。その道中、オイゲンの口から<span class='scene-font-place'>アウギュステ</span>の守り神でもある星晶獣、リヴァイアサンの存在を聞く。,바다가 썩는 원인이 된 제국의 실험장으로 가는 내내 오이겐의 입을 통해 <span class='scene-font-place> 아우귀스테 </span>의 수호신인 별정수、 리버이아산의 존재를 듣는다.
+Japanese,scene_cp9_q4_s10、941,detail,비,ぐぇ……<br>だんだん臭いが強くなってるな。,구어……<br> 점점 냄새가 강해지고 있네.
+Japanese,scene_cp9_q4_s10、941,detail,라캄,それだけ腐臭の原因に<br>近づいてるってことだろ。,그만큼 부취의 원인에<br>가까워지고 있다는 거잖아.
+Japanese,scene_cp9_q4_s10、941,detail,카타리나,ときにオイゲン……<br>貴方は、何か<span class='scene-font-place'>アウギュステ</span>にまつわる<br>星晶獣の伝説を知らないだろうか?,때마침 오이겐……<br>당신은 무엇인가<spanclass='scene-font-place>>아우귀스테</span>에 얽힌<br>성정수의 전설을 모르는가?
+Japanese,scene_cp9_q4_s10、941,detail,오이겐,星晶獣の伝説?<br>ああ、空図は各島の大星晶獣が<br>守ってるっつーあれか?,성정수의 전설?<br>아아、 공도는 각 섬의 대성정수가<br>지킨다고?
+Japanese,scene_cp9_q4_s10、941,detail,오이겐,星晶獣……なんだろうな、たぶんよ。<br>この<span class='scene-font-place'>アウギュステ</span>には、リヴァイアサン<br>っつー守り神がいるんだ。,성정수……뭐겠지、 아마. <br> 이 <span class='scene-font-place>> 아우귀스테</span>에는 리버이아산<br>라는 수비신이 있지.
+Japanese,scene_cp9_q4_s10、941,detail,오이겐,リヴァイアサンのおかげで<br><span class='scene-font-place'>アウギュステ</span>の海は<br>特別な力を持っててな……,리바이아산 덕분에<br><spanclass='scene-font-place>>아우귀스테</span>의 바다는<br>특별한 힘을 가지고 있어……
+Japanese,scene_cp9_q4_s10、941,detail,비,リヴァイアサン……,리바이아산……
+Japanese,scene_cp9_q4_s10、941,detail,비,当たりだぜ、<br>そいつは水の大星晶獣だ!,맞잖아、<br>그녀석은 물의 대성정수다!
+Japanese,scene_cp9_q4_s10、941,detail,라캄,オイゲン、意外と詳しいな。<br><span class='scene-font-place'>アウギュステ</span>に来て長いのか?,오이겐 은근 잘 아는데?<br><span class='scene-font-place>>아우귀스테</span>에 온지 오래됐나?
+Japanese,scene_cp9_q4_s10、941,detail,오이겐,ばっか野郎、オレぁここの出身だ。<br>地元の事となりゃ、そりゃあ<br>詳しいに決まってるじゃねぇか。,멍청이 녀석、 나 여기 출신이다.<br>그 고장 이야기 하자면、 그야 말로 잘 알고 있지 않겠어?
+Japanese,scene_cp9_q4_s10、941,detail,라캄,えっ!?<br>おっさんは野獣に育てられた、<br>野生児だって聞いてたぜ?,헉!?<br>아저씨는 야수가 키운<br>야생아라고 하던데?
+Japanese,scene_cp9_q4_s10、941,detail,오이겐,……ラカム、<br>魔物を片付けたら次はテメェだ、<br>首を洗って待ってるんだな。,……라캄、<br>마물을 치웠더니 다음은 테뫼다、<br>목을 씻고 기다리고 있네.
+Japanese,scene_cp9_q4_s20、942,synopsis,,帝国の兵器開発の実験場へと辿り着く一同。しかし、そこには作りかけの兵器が放置されており、その警備の手薄さを訝しんでいると、実験場を守っていたらしき魔物が一同に襲いかかってきた。,제국의 병기 개발 실험장에 도착하는데、 그 곳에는 만든 병기들이 방치되어 있고、 그 경비가 허술한 것을 의심하고 있자、 실험장을 지키고 있던 마물들이 모두 덤벼들었다.
+Japanese,scene_cp9_q4_s20、942,detail,이오,ねぇ、こっちー!<br>なんかおっきいのがあるんだけど……,저기、 이쪽!<br>왠지 큰것이 있는데……
+Japanese,scene_cp9_q4_s20、942,detail,카타리나,これは……!,이건……!
+Japanese,scene_cp9_q4_s20、942,detail,오이겐,間違いねぇな。<br>こいつが帝国の新兵器だ。<br>作りかけみてぇだけどよ。,틀림없어. <br> 이 녀석이 제국의 신병기다.만들어낸것 같지만요.
+Japanese,scene_cp9_q4_s20、942,detail,라캄,その割には手薄だな。<br>いらなくなって捨ててったのか?,그에 비해서는 허술하군.필요없어져서 버린거야?
+Japanese,scene_cp9_q4_s20、942,detail,오이겐,んなわきゃねぇだろう。<br>これを作るのに、<br>帝国はドンパチやってんだぞ?,없으면 없겠지.<br>이걸 만드는데 <br> 제국은 어이가 없네?
+Japanese,scene_cp9_q4_s20、942,detail,카타리나,確かに腑に落ちない点があるな……<br>この警備の甘さ……まさか罠か?,확실히 납득이 가지 않는 점이 있네……<br>이 경비의 허술함……설마 함정인가?
+Japanese,scene_cp9_q4_s20、942,detail,비,な、なぁなぁ、<br>たぶん、そういう心配は<br>必要ないと思うぜ?,뭐..뭐..<br>아마도 그런 걱정은<br>필요없을걸?
+Japanese,scene_cp9_q4_s20、942,detail,카타리나,ん?<br>どうした、ビィくん、<br>なにか見つけ――,응?<br>웬일이야、 비군、<br>뭔가 찾아-
+Japanese,scene_cp9_q4_s20、942,detail,???,<span class='scene-font-4'>――――!!</span>,< span class = ' scene - font - 4 ' > ---- !! < / span >
+Japanese,scene_cp9_q4_s20、942,detail,이오,いるじゃん!<br>ちゃんと守ってる奴!<br>しかもこっち来てるしー!,있잖아! <br> 잘 지키는 녀석! <br> 게다가 여기도 오고!
+Japanese,scene_cp9_q4_s20、942,detail,라캄,イオ、慌てんな!<br>[플레이어]、オイゲンのおっさんに<br>俺達の力を見せつけてやろうぜ!,이오 당황하지마!<br>[플레이어] 오이겐 아저씨께<br>우리의 힘을 보여주자!
+Japanese,scene_cp9_q4_s30、943,synopsis,,実験場を守る魔物を退ける<span>[플레이어]</span>一行。しかし、ルリアが密かに抱える胸騒ぎは、暗雲のように大きく成長しつつあった。,실험장을 지키는 마물을 물리치는 <span> [플레이어] </span> 한 줄.그러나 루리아가 비밀리에 안고 있는 설렘은 먹구름처럼 크게 성장해 가고 있었다.
+Japanese,scene_cp9_q4_s30、943,detail,이오,ふぅ……<br>こ、これで終わり?<br>もう出てこないよね?,후……<br>이、 이걸로 끝이야?<br>이제 안나오겠지?
+Japanese,scene_cp9_q4_s30、943,detail,라캄,ったく、ビビってんじゃねぇぜ。<br>何が出てこようと、<br>俺達なら何の問題もないだろ?,정말이지 겁먹은 거 아니야.<br>뭐가 나오든、<br>우리라면 아무 문제가 없겠지?
+Japanese,scene_cp9_q4_s30、943,detail,이오,そ、そうだけど……,그、 그렇긴 하지만……
+Japanese,scene_cp9_q4_s30、943,detail,오이겐,これがいまのラカム達の力か……<br>[플레이어]、この騎空団の団長は<br>テメェだったな?,이것이 지금의 라캄들의 힘인가……<br>[플레이어]、 이 기공단의 단장은<br>테뫼였네?
+Japanese,scene_cp9_q4_s30、943,detail,오이겐,ぼんやりしてる割にやるじゃねぇか、<br>見直したぜ。,멍하니 있는 것 치고는 하잖아、<br>다시 봤어.
+Japanese,scene_cp9_q4_s30、943,sel1_txt,,<span class='scene-font-katari'>ありがとう</span>,<span class='scene-font-katari'>고마워</span>
+Japanese,scene_cp9_q4_s30、943,sel2_txt,,<span class='scene-font-katari'>まだまだだよ</span>,<span class='scene-font-katari'>아직 멀었다구</span>
+Japanese,scene_cp9_q4_s30、943,detail,비,[플레이어]が人に認められると、<br>オイラも嬉しくなるな!<br>これが親心ってやつか?,[플레이어]가 다른 사람에게 인정받으면 <br> 나두 기뻐지지마!<br>이게 부모 마음이라는 거야?
+Japanese,scene_cp9_q4_s30、943,detail,비,かぁーっ!<br>相変わらず[플레이어]は厳しいな!<br>素直に喜んでも、いいと思うぜ?,캇!<br>여전히 [플레이어]는 어렵네!<br>솔직하게 기뻐해도、 좋다고 생각해.
+Japanese,scene_cp9_q4_s30、943,detail,카타리나,さて……<br>腐敗の原因は排除したわけだし、<br>これで海は元に戻るのか?,이제...<br>부패의 원인은 배제한 것이고、<br>이것으로 바다는 원래대로 돌아가는 것인가?
+Japanese,scene_cp9_q4_s30、943,detail,오이겐,ああ、<br>リヴァイアサンの力が、<br>ここの海にゃ宿ってる。,아아、<br>리바이아산의힘이<br>여기바다에는담겨있네.
+Japanese,scene_cp9_q4_s30、943,detail,오이겐,人も自然も癒す力だ……<br>じきにいつもの<span class='scene-font-place'>アウギュステ</span>に戻るさ。,사람도 자연도 치유하는 힘이다……<br>곧 언제나와 같은 <span class='scene-font-place> 아우귀스테</span>으로 돌아갈 거야.
+Japanese,scene_cp9_q4_s30、943,detail,비,あとは帝国の軍を追っ払えば<br>万事解決ってやつだな!,이제 제국의 군을 물리치면<br>만사 해결이라는 녀석이야!
+Japanese,scene_cp9_q4_s30、943,detail,오이겐,お、そういや、さっき<br>この辺りで帝国の兵を捕まえた<br>とかって話を耳にしたが……,오、 그래 아니、 아까<br>이 근처에서 제국의 병사를 잡았다<br>라는 이야기를 들었는데……
+Japanese,scene_cp9_q4_s30、943,detail,루리아,ねぇ、[플레이어]。<br>これで本当にこの島の<br>お水は元に戻るんでしょうか?,야 [플레이어]<br>이러면 정말 이 섬의<br>물은 원래대로 돌아가는건가요?
+Japanese,scene_cp9_q4_s30、943,detail,루리아,嫌な予感がします……<br>ううん、帝国がどうとかって<br>そういうことじゃなくって……,느낌이 안좋아요....<br>아니、 제국이 어떻다고<br>그런게아니라........
+Japanese,scene_cp9_q4_s30、943,detail,루리아,何か……<br>もっと大きな何かが……,무엇인가……<br>더 큰 무엇인가가……
+Japanese,scene_cp9_q4_s30、943,detail,,<span class='scene-font-katari'>言葉にならない不安がルリアを襲う。</span><br><span class='scene-font-katari'>その言い知れぬ焦燥は</span><br><span class='scene-font-katari'>暗雲のごとく大きく成長しつつあった。</span>,<span class='scene-font-katari>> 말로 표현할 수 없는 불안이 루리아를 엄습한다.</span><br><span class='scene-font-katari>그 말할 수 없는 초조함은 </span><br><spane-font-katari>먹구름처럼 커져가고 있었다。
+English,scene_cp9_q1_s10、911,synopsis,,Following their conversation with Tzaka the Great、 the crew arrives at the Auguste Isles in pursuit of the Black Knight. Lyria feels a strange presence、 but a mysterious agent attacks the party before she can ascertain where it's coming from.
+English,scene_cp9_q1_s10、911,detail,,In pursuit of the Black Knight、 the crew soon arrives at the Auguste Isles.
+English,scene_cp9_q1_s10、911,detail,,There they find a cluster of cities overflowing with crystal clear water.
+English,scene_cp9_q1_s10、911,detail,Io,Wow! Wow! What is this? Why is there water everywhere? Is this the... <span class='scene-font-italic'>ocean</span>?
+English,scene_cp9_q1_s10、911,detail,Rackam,Hey、 kid、 could you take it down a couple notches? Or don't. Just don't come crying to me if you get lost.
+English,scene_cp9_q1_s10、911,detail,Io,I'm <span class='scene-font-italic'>not</span> going to cry!
+English,scene_cp9_q1_s10、911,detail,Io,Now let's go look over there!
+English,scene_cp9_q1_s10、911,detail,Lyria,S-sure...
+English,scene_cp9_q1_s10、911,detail,Katalina,What's wrong、 Lyria? You've had this serious look on your face ever since we arrived.
+English,scene_cp9_q1_s10、911,detail,Lyria,Um、 well... I'm sensing a primal beast here、 but... something about it feels off.
+English,scene_cp9_q1_s10、911,detail,Vyrn,A primal beast? I don't see anything even slightly beastly around here!
+English,scene_cp9_q1_s10、911,detail,Katalina,If there's anything worthy of investigation、 it's that rotten stench wafting through the air.
+English,scene_cp9_q1_s10、911,detail,Vyrn,Yeah、 I'm smelling that too. Are fermented foods a local specialty on Auguste or something?
+English,scene_cp9_q1_s10、911,detail,Lyria,How do I describe what I'm sensing? It's like it's far away but close... Here but... not.
+English,scene_cp9_q1_s10、911,detail,???,Hey、 you over there! What are you doing?
+English,scene_cp9_q1_s10、911,detail,Vyrn,Whoa、 what's your problem?
+English,scene_cp9_q1_s10、911,detail,Katalina,I don't know their affiliation、 but they certainly don't seem friendly. To us anyway.
+English,scene_cp9_q1_s10、911,detail,Vyrn,We don't have time to analyze the situation! Let's get out of here、 [플레이어]!
+English,scene_cp9_q1_s20、912,synopsis,,A group of agents surrounds the crew. Just when it seems like there's nowhere to run、 Rackam is surprised to see an old friend of his leading the agents.
+English,scene_cp9_q1_s20、912,detail,Rackam,We're surrounded!
+English,scene_cp9_q1_s20、912,detail,Agent,Stand down. Our captain will be here soon、 and—
+English,scene_cp9_q1_s20、912,detail,???,Good work out there today、 boys. So you caught that shady group of characters、 eh?
+English,scene_cp9_q1_s20、912,detail,Agent,Yes、 sir! It appears they made landfall from the coast and were attempting to infiltrate town.
+English,scene_cp9_q1_s20、912,detail,???,No need to be so formal. We're dealing with a bunch of two-rupie thugs、 from the look of things.
+English,scene_cp9_q1_s20、912,detail,???,So? You were trying to sneak into town、 when—
+English,scene_cp9_q1_s20、912,detail,???,Wait a second. Is this for real?
+English,scene_cp9_q1_s20、912,detail,Rackam,Took the words right out of my mouth. What are you doing here? Aren't you getting a little old for this、 Eugen?
+English,scene_cp9_q1_s20、912,detail,Katalina,R-Rackam? Is this gentleman an acquaintance of yours?
+English,scene_cp9_q1_s20、912,detail,Eugen,Haven't seen you since I was last at Port Breeze... Whatever happened to the Grandcypher? Did you eventually get her flying?
+English,scene_cp9_q1_s20、912,detail,Eugen,And looky here、 Rackam! Who's this stunning friend of yours? Wait... you didn't get <span class='scene-font-italic'>married</span>、 did you?
+English,scene_cp9_q1_s20、912,detail,Katalina,What? No! Absolutely not!
+English,scene_cp9_q1_s20、912,detail,Io,Katalina would be wasted on Rackam anyway. Right、 Lyria?
+English,scene_cp9_q1_s20、912,detail,Eugen,And these three are your kids? If you got married and even had kids、 you could've at least told me!
+English,scene_cp9_q1_s20、912,detail,Io,We're <span class='scene-font-italic'>not</span> his kids! Hurry up and correct him、 Rackam!
+English,scene_cp9_q1_s20、912,detail,Lyria,So Katalina's our mom? Hee hee... That'd be nice...
+English,scene_cp9_q1_s20、912,detail,Katalina,S-surely I don't look <span class='scene-font-italic'>that</span> old... Do I?
+English,scene_cp9_q1_s20、912,detail,Monsters,Grooaar!
+English,scene_cp9_q1_s20、912,detail,Rackam,Heh. Trust me、 I'd love to clear up this little misunderstanding、 but it doesn't look like we've got time to chat right now.
+English,scene_cp9_q1_s20、912,detail,Eugen,Goodness... Look at all those monsters! Lend me a hand、 everyone!
+English,scene_cp9_q2_s10、921,synopsis,,Following their conversation with Tzaka the Great、 the crew arrives at the Auguste Isles in pursuit of the Black Knight. Lyria feels a strange presence、 but a mysterious agent attacks the party before she can ascertain where it's coming from.
+English,scene_cp9_q2_s10、921,detail,,[플레이어] and crew tell Eugen about their journey to collect the pieces of the sky map while doing their best to avoid mentioning the imperial forces chasing them.
+English,scene_cp9_q2_s10、921,detail,Eugen,So you need the sky map to get out of Phantagrande Skydom... Sounds like you've got a long、 hard road ahead of you.
+English,scene_cp9_q2_s10、921,detail,Vyrn,Heheh... Our destination's way beyond Phantagrande!
+English,scene_cp9_q2_s10、921,detail,Vyrn,Compared to that there's nothing long or hard about gettin' outta this neck of the woods!
+English,scene_cp9_q2_s10、921,detail,Eugen,Oh? Way beyond Phantagrande、 you say? Er... Mind being a little more specific?
+English,scene_cp9_q2_s10、921,detail,Katalina,We can't、 Eugen. [플레이어]'s destination can't be pinned down that easily.
+English,scene_cp9_q2_s10、921,detail,Vyrn,Our ultimate destination is the end of the sky: Estalucia、 the Island of the Astrals!
+English,scene_cp9_q2_s10、921,detail,Eugen,Estalucia?
+English,scene_cp9_q2_s10、921,detail,Eugen,Heheh... Bwahaha! Dreaming big、 are we、 kids?
+English,scene_cp9_q2_s10、921,detail,Eugen,The Island of the Astrals、 huh? That's fantastic. Any skyfarer would kill to find that dream world.
+English,scene_cp9_q2_s10、921,detail,Vyrn,It's not a dream! Right、 [플레이어]? We're gonna find it、 no ifs、 ands、 or buts!
+English,scene_cp9_q2_s10、921,detail,Eugen,Right、 right... I think I get the size of what you're dealing with now. Roughly.
+English,scene_cp9_q2_s10、921,detail,Eugen,Sorry for catching you first and asking questions later.
+English,scene_cp9_q2_s10、921,detail,Katalina,I must say though、 this is quite the surprise. I never imagined we'd encounter an acquaintance of Rackam's working as an agent on Auguste.
+English,scene_cp9_q2_s10、921,detail,Katalina,Eugen must be the one who lent you a hand with repairs to the Grandcypher originally、 eh、 Rackam?
+English,scene_cp9_q2_s10、921,detail,Rackam,I've been wondering what you were up to ever since you left Port Breeze、 but what brought you back to working as an agent?
+English,scene_cp9_q2_s10、921,detail,Eugen,Huh? Well、 you know、 Auguste is at war right now. With the Erste Empire、 that is.
+English,scene_cp9_q2_s10、921,detail,Eugen,They need all the help they can get repairing airships and dealing with monsters.
+English,scene_cp9_q2_s10、921,detail,Lyria,The Erste Empire... I guess the Black Knight really is up to something here...
+English,scene_cp9_q2_s10、921,detail,Katalina,The empire seems to have their claws deep within every corner of the skydom.
+English,scene_cp9_q2_s10、921,detail,Vyrn,This place looks pretty peaceful to me、 gramps. Where's the war?
+English,scene_cp9_q2_s10、921,detail,Eugen,Gimme a break. You think they'd stick a decrepit old-timer like me on the front lines?
+English,scene_cp9_q2_s10、921,detail,Eugen,Our job is to cover for the main troops by protecting the coast from monsters... and whatever else happens to show up.
+English,scene_cp9_q2_s10、921,detail,Io,Hm... Do you really have what it takes to protect the island? You're so... old!
+English,scene_cp9_q2_s10、921,detail,Eugen,Hahaha! Let there be no doubt about <span class='scene-font-italic'>that</span>!
+English,scene_cp9_q2_s10、921,detail,Eugen,Anyway! We've got monsters incoming. Do this feeble old man a favor and shoo them away for me、 will you?
+English,scene_cp9_q2_s10、921,detail,Io,Huh? H-hey! Why's that our job all of a sudden?
+English,scene_cp9_q2_s10、921,detail,Rackam,Heheh... When it comes to making other people do his more irritating work for him、 Eugen's a pro!
+English,scene_cp9_q2_s20、922,synopsis,,Eugen convinces the crew to help him exterminate the monsters that appeared on the Auguste coastline. The crew can't help but wonder why the empire and Auguste are fighting each other when monsters are running rampant.
+English,scene_cp9_q2_s20、922,detail,Eugen,Oho! Excellent work. Who knew you kids were all so talented?
+English,scene_cp9_q2_s20、922,detail,Io,Heheh! But of course! Valtz women are raised to be tough、 you know!
+English,scene_cp9_q2_s20、922,detail,Eugen,Ah、 so you're from Valtz、 little miss? Then I'm sure they taught you to never let your guard down... especially against monsters like that one right there!
+English,scene_cp9_q2_s20、922,detail,Io,Eep!
+English,scene_cp9_q2_s20、922,detail,Katalina,No need to worry. Just a tiny little whelp.
+English,scene_cp9_q2_s20、922,detail,Katalina,Still、 it seems pretty dangerous to be waging a war when there are so many monsters around.
+English,scene_cp9_q2_s20、922,detail,Eugen,We... don't really have a choice in the matter unfortunately.
+English,scene_cp9_q2_s20、922,detail,Monster,Grooaar!
+English,scene_cp9_q2_s20、922,detail,Eugen,Anyway、 let's save the small talk for later. There are still a few big ones left.
+English,scene_cp9_q3_s10、931,synopsis,,Eugen tells the crew how the war between Auguste and the empire broke out、 and he renews his determination to rescue the ocean from the empire's pollution.
+English,scene_cp9_q3_s10、931,detail,Katalina,So in short、 the empire's making new weapons and polluting the oceans here along the way.
+English,scene_cp9_q3_s10、931,detail,Katalina,And that's how both sides ended up at war with each other. Is that about the size of it?
+English,scene_cp9_q3_s10、931,detail,Eugen,So on top of your ravishing looks、 you're quick-witted and skilled in combat to boot? You've really got all the bases covered!
+English,scene_cp9_q3_s10、931,detail,Katalina,Y-you think so?
+English,scene_cp9_q3_s10、931,detail,Io,Aren't you forgetting someone? Katalina's not the only lady here、 you know!
+English,scene_cp9_q3_s10、931,detail,Lyria,Yeah! A-and don't forget me! I'm a lady too!
+English,scene_cp9_q3_s10、931,detail,Eugen,I'd say you two have got a good... ten years to go yet.
+English,scene_cp9_q3_s10、931,detail,Io,Grr...
+English,scene_cp9_q3_s10、931,detail,Io,Quit treating us like children!
+English,scene_cp9_q3_s10、931,detail,Lyria,Hey、 [플레이어]、 you don't think I need another ten years、 do you?
+English,scene_cp9_q3_s10、931,detail,Rackam,Just what kind of crazy weapon is the empire making、 and why do they need to pollute the oceans to do it?
+English,scene_cp9_q3_s10、931,detail,Eugen,Hard to say. But we have to stop them before things get even worse.
+English,scene_cp9_q3_s10、931,detail,Eugen,I'm sure everyone who lives here in Auguste would agree with that in a heartbeat.
+English,scene_cp9_q3_s20、932,synopsis,,[플레이어] and company search for signs of a primal beast、 but Lyria struggles to ascertain its true form. The crew then gets word that the location of the empire's weapons testing site has been discovered.
+English,scene_cp9_q3_s20、932,detail,Eugen,Patrolling the coast is a cinch with you kids around!
+English,scene_cp9_q3_s20、932,detail,Katalina,Hey、 Rackam. Do you feel like he might be... using us?
+English,scene_cp9_q3_s20、932,detail,Rackam,Ever since we met way back when、 I've found it hard to disobey him... Or maybe he's just good at manipulating others. I dunno.
+English,scene_cp9_q3_s20、932,detail,Io,Hey、 [플레이어]、 how's Lyria doing?
+English,scene_cp9_q3_s20、932,detail,Io,Has she picked up any new signs of the primal beast's presence?
+English,scene_cp9_q3_s20、932,detail,Lyria,It hasn't changed for a while. It seems very... sluggish.
+English,scene_cp9_q3_s20、932,detail,Vyrn,Okay then! We'll wait for just the right moment to sneak away from the geezer...
+English,scene_cp9_q3_s20、932,detail,Eugen,Hey、 lizard、 what are you muttering about?
+English,scene_cp9_q3_s20、932,detail,Vyrn,N-nothing! Right、 [플레이어]?
+English,scene_cp9_q3_s20、932,detail,Vyrn,More importantly! I am <span class='scene-font-italic'>not</span> a lizard! If you get anything right、 make sure it's that!
+English,scene_cp9_q3_s20、932,detail,Eugen,Are you sure? Forget that for now though. I just got word from a buddy of mine.
+English,scene_cp9_q3_s20、932,detail,Eugen,Apparently they've found the weapons testing site responsible for polluting the ocean. Let's get over there、 lizard!
+English,scene_cp9_q3_s20、932,detail,Vyrn,Are you seriously gonna make me repeat myself? What part of me looks like a—
+English,scene_cp9_q3_s20、932,detail,Katalina,Vyrn! If you don't hurry、 Eugen's going to leave us behind!
+English,scene_cp9_q3_s20、932,detail,Vyrn,Ngh... I'm gonna remember this...
+English,scene_cp9_q4_s10、941,synopsis,,The crew heads toward the empire's weapons testing site. Eugen explains the importance of Leviathan、 the primal beast that protects Auguste.
+English,scene_cp9_q4_s10、941,detail,Vyrn,Ugh... The stench is getting stronger.
+English,scene_cp9_q4_s10、941,detail,Rackam,We must be getting closer to the source of the pollution.
+English,scene_cp9_q4_s10、941,detail,Katalina,By the way、 Eugen... You wouldn't happen to be aware of the local legends pertaining to primal beasts、 would you?
+English,scene_cp9_q4_s10、941,detail,Eugen,Local legends... Oh、 like the one about how pieces of the sky map are protected by great primal beasts scattered across the skydom?
+English,scene_cp9_q4_s10、941,detail,Eugen,There may be something to it... Here on Auguste we have a guardian deity called Leviathan.
+English,scene_cp9_q4_s10、941,detail,Eugen,It's all thanks to that primal beast that Auguste's waters possess a special power...
+English,scene_cp9_q4_s10、941,detail,Vyrn,Leviathan...
+English,scene_cp9_q4_s10、941,detail,Vyrn,Bingo! That thing must be the great primal beast of water!
+English,scene_cp9_q4_s10、941,detail,Rackam,You sure seem knowledgeable about this、 Eugen. Been here a while?
+English,scene_cp9_q4_s10、941,detail,Eugen,I was born here、 dummy. Everyone who lives here has heard the tale.
+English,scene_cp9_q4_s10、941,detail,Rackam,Huh? But I heard you were raised by wolves in the wilderness!
+English,scene_cp9_q4_s10、941,detail,Eugen,Just you wait、 Rackam. Once I clear out these monsters、 you're next.
+English,scene_cp9_q4_s20、942,synopsis,,[플레이어] and company reach the empire's weapons testing site but find a half-finished weapon left unattended. While they wonder why security is so lax、 monsters that seem to be protecting the site attack them.
+English,scene_cp9_q4_s20、942,detail,Io,Over here、 everyone! There's some kind of huge... something.
+English,scene_cp9_q4_s20、942,detail,Katalina,What <span class='scene-font-italic'>is</span> that?
+English,scene_cp9_q4_s20、942,detail,Eugen,This is a new imperial weapon、 no mistake about it. Looks half-finished though.
+English,scene_cp9_q4_s20、942,detail,Rackam,It still seems surprisingly quiet around here. Did they decide to abandon it?
+English,scene_cp9_q4_s20、942,detail,Eugen,I highly doubt that. The empire's always yelling at someone to finish making this、 you know.
+English,scene_cp9_q4_s20、942,detail,Katalina,This doesn't add up. And considering the lack of security... Is this a trap?
+English,scene_cp9_q4_s20、942,detail,Vyrn,I think that might be the least of our worries、 guys!
+English,scene_cp9_q4_s20、942,detail,Katalina,Hm? What's the matter、 Vyrn? Did you find someth—
+English,scene_cp9_q4_s20、942,detail,???,...!
+English,scene_cp9_q4_s20、942,detail,Io,So something <span class='scene-font-italic'>was</span> guarding this place! And it's coming our way!
+English,scene_cp9_q4_s20、942,detail,Rackam,Stay calm、 Io! [플레이어]、 let's show Eugen what we can do!
+English,scene_cp9_q4_s30、943,synopsis,,[플레이어] and company defeat the monsters protecting the testing site. But there's a sick sense of unease growing in the pit of Lyria's stomach.
+English,scene_cp9_q4_s30、943,detail,Io,Whew... W-was that the last of them? The monsters are all gone now、 right?
+English,scene_cp9_q4_s30、943,detail,Rackam,Quit shaking in your little boots. We can handle anything that comes our way!
+English,scene_cp9_q4_s30、943,detail,Io,Y-yeah、 I guess you're right...
+English,scene_cp9_q4_s30、943,detail,Eugen,You've found yourself a tough little crew、 Rackam. I take it you're the leader of this ragtag operation、 [플레이어]?
+English,scene_cp9_q4_s30、943,detail,Eugen,For a spacy、 unfocused upstart、 you're not bad. Better than I thought anyway.
+English,scene_cp9_q4_s30、943,sel1_txt,,Thanks.
+English,scene_cp9_q4_s30、943,sel2_txt,,I've still got a long way to go.
+English,scene_cp9_q4_s30、943,detail,Vyrn,When people praise [플레이어]、 it makes me happy too! This must be what a parent feels when their child makes it in the world!
+English,scene_cp9_q4_s30、943,detail,Vyrn,You're always so hard on yourself、 [플레이어]! You can just say thanks when people compliment you、 y'know!
+English,scene_cp9_q4_s30、943,detail,Katalina,Now that we've removed the source of the pollution、 will the ocean return to normal?
+English,scene_cp9_q4_s30、943,detail,Eugen,It will. The ocean here is filled with Leviathan's power.
+English,scene_cp9_q4_s30、943,detail,Eugen,It's a power that can heal both people and nature alike. Auguste will be back to normal in no time.
+English,scene_cp9_q4_s30、943,detail,Vyrn,All that's left is to send the empire packing、 and Auguste's as good as saved!
+English,scene_cp9_q4_s30、943,detail,Eugen,Come to think of it、 I overheard someone saying they'd caught some imperial agents earlier...
+English,scene_cp9_q4_s30、943,detail,Lyria,Hey、 [플레이어]、 do you really think this will turn the water here back to normal?
+English,scene_cp9_q4_s30、943,detail,Lyria,I'm sensing something bad... and it doesn't have anything to do with the empire.
+English,scene_cp9_q4_s30、943,detail,Lyria,It feels... bigger than them somehow...
+English,scene_cp9_q4_s30、943,detail,,Lyria is overcome with an anxiety she finds difficult to explain. An indescribable restlessness wells up within her like a gathering storm.
