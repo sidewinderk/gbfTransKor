@@ -13583,24 +13583,24 @@ START:DASH!!,START:DASH!!
 
 
 !줄리엣(SSR)
-[聖王女]
-ジュリエット
+[聖王女],[성왕녀]
+ジュリエット,줄리엣
 
-サルヴァツィオーネ・ルーチェ
-サルヴァツィオーネ・ルーチェ＋
-"光属性ダメージ(特大)　<span class=""text-blue"">◆英霊を*消費して追加ダメージ</span>"
-フルミネ・ビアンコ
-フルミネ・ビアンコ＋
-"<div class=""prt-text-small"">味方全体に光属性攻撃UP/闇属性ダメージカット(**%)<span class=""text-blue"">◆英霊効果の時敵の光属性防御DOWN</span></div>"
-ヴァンジェーロ
-ヴァンジェーロ＋
-"<div class=""prt-text-small"">味方単体に防御UP/活性効果<span class=""text-blue"">◆英霊効果の時バリア効果追加</span></div>"
-シエロ・デラ・グラツィア
-"英霊を回復する<br><span class=""text-blue"">◆奥義ゲージを**％消費</span>"
-ヴェローナの守護精霊
-"<div class=""prt-text-small"">*ターン毎に英霊効果付与/ただし英霊効果がないとき攻撃力大幅DOWN　<span class=""text-blue"">◆英霊は通常攻撃・アビリティ使用で*消費</span></div>"
-英霊の加護
-英霊効果時攻防UP
+サルヴァツィオーネ・ルーチェ,살바치오네・루체
+サルヴァツィオーネ・ルーチェ＋,살바치오네・루체+
+"光属性ダメージ(特大)　<span class=""text-blue"">◆英霊を*消費して追加ダメージ</span>","광속성 데미지(특대)　<span class=""text-blue"">◆영령을 * 소비하여 추가 데미지</span>"
+フルミネ・ビアンコ,풀미네・비앙코
+フルミネ・ビアンコ＋,풀미네・비앙코+
+"<div class=""prt-text-small"">味方全体に光属性攻撃UP/闇属性ダメージカット(**%)<span class=""text-blue"">◆英霊効果の時敵の光属性防御DOWN</span></div>","<div class=""prt-text-small"">아군 전체에 광속성 공격 UP/암속성 데미지 컷(**%)<span class=""text-blue"">◆영령효과일 때 적의 광속성 방어 DOWN</span></div>"
+ヴァンジェーロ,반젤로
+ヴァンジェーロ＋,반젤로+
+"<div class=""prt-text-small"">味方単体に防御UP/活性効果<span class=""text-blue"">◆英霊効果の時バリア効果追加</span></div>","<div class=""prt-text-small"">아군 한명의 방어 UP/활성 효과<span class=""text-blue"">◆영령효과일 때 배리어 효과 추가</span></div>"
+シエロ・デラ・グラツィア,시엘로・델라・그라치아
+"英霊を回復する<br><span class=""text-blue"">◆奥義ゲージを**％消費</span>","영령을 회복한다<br><span class=""text-blue"">◆오의 게이지를 **％ 소비</span>"
+ヴェローナの守護精霊,베로나의 수호영령
+"<div class=""prt-text-small"">*ターン毎に英霊効果付与/ただし英霊効果がないとき攻撃力大幅DOWN　<span class=""text-blue"">◆英霊は通常攻撃・アビリティ使用で*消費</span></div>","<div class=""prt-text-small"">*턴 마다 영령효과 부여/단 영령효과가 없을 때 공격력 대폭 DOWN　<span class=""text-blue"">◆영령은 통상공격・어빌리티 사용 시 * 소비</span></div>"
+英霊の加護,영령의 가호
+英霊効果時攻防UP,영령효과 시 공방 UP
 
 
 "!코난(SSR,명탐정코난콜라보)"
