@@ -176,7 +176,7 @@ orig,kr
 光属性ダメージ(特大)/仮面の呪い効果時追加ダメージ/自分に仮面の呪い効果,광속성 데미지(특대)/가면의 저주 효과일 때 추가 데미지/자신에게 가면의 저주 효과
 活冑符・改弐,활주부・개이
 活冑符・改弐＋,활주부・개이＋
-"<div class=""prt-text-small"">自分の被ダメージ無効/*ターンの間仮面の呪いを受ける<span class=""text-blue"">◆自分のHPを最大値の**%消費</span></div>","<div class=""prt-text-small"">자신의 피데미지 무효/*턴간 가면의 저주를 받는다<span class=""text-blue"">◆자신의 HP를 최대치의 **% 소비</span></div>"
+"<div class=""prt-text-small"">自分の被ダメージ無効/*ターンの間仮面の呪いを受ける<span class=""text-blue"">◆自分のHPを最大値の**%消費</span></div>","<div class=""prt-text-small"">자신의 피데미지 무효/*턴동안 가면의 저주를 받는다<span class=""text-blue"">◆자신의 HP를 최대치의 **% 소비</span></div>"
 砕鎧符・肆重,쇄개부・사중
 砕鎧符・肆重＋,쇄개부・사중＋
 敵に光属性ダメージ/防御DOWN(累積),적에게 광속성 데미지/방어 DOWN(누적)
