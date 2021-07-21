@@ -273,10 +273,10 @@ orig,kr
 "<div class=""prt-text-small"">敵全体に光属性ダメージ/攻防DOWN(累積)<span class=""text-blue"">◆エーテリアルシール消費：*回発動</span></div>","<div class=""prt-text-small"">적 전체에 광속성 데미지 / 공방 DOWN(누적)　<span class=""text-blue"">◆에테리얼 씰 소비：*회 발동</span></div>"
 
 ハートシーカー,하트 시커
-"<div class=""prt-text-small"">自分の連続攻撃確率UP/回避率UP/回避時に奥義ゲージUP(**%)<span class=""text-blue"">◆エーテリアルシール消費：効果を全体化</span></div>","<div class=""prt-text-small"">자신의 연속공격 확률 UP / 회피율 UP / 회피시 오의 게이지 UP(**%)　<span class=""text-blue"">◆에테리얼 씰 소비：효과를 전체화</span></div>"
+"<div class=""prt-text-small"">自分の連続攻撃確率UP/回避率UP/回避時に奥義ゲージUP(**%)<span class=""text-blue"">◆エーテリアルシール消費：効果を全体化</span></div>","<div class=""prt-text-small"">자신의 연속공격 확률 UP / 회피율 UP / 회피 시 오의 게이지 UP(**%)　<span class=""text-blue"">◆에테리얼 씰 소비：효과를 전체화</span></div>"
 
 トゥインクリング・クリスマス,트윙클링 크리스마스
-敵のターゲットにされやすいが回避率UP/回避時に敵に光属性ダメージ/自分にエーテリアルシール(*枚),적에게 타겟이 되기 쉽지만 회피율 UP / 회피시 적에게 광속성 데미지 / 자신에게 에테리얼 씰(*개)
+敵のターゲットにされやすいが回避率UP/回避時に敵に光属性ダメージ/自分にエーテリアルシール(*枚),적에게 타겟이 되기 쉽지만 회피율 UP / 회피 시 적에게 광속성 데미지 / 자신에게 에테리얼 씰(*개)
 
 完全たる魔導弓,완전한 마도궁
 エーテリアルシールを消費して光属性追撃効果,에테리얼 씰을 소비하여 광속성 추격 효과
@@ -766,7 +766,7 @@ START:DASH!!,START:DASH!!
 "<div class=""prt-text-small"">ターゲットに関わらず*回光属性ダメージ/効果中必ず連続攻撃/敵対心大幅UP</div>","<div class=""prt-text-small"">타겟에 상관없이 *회 광속성 데미지/효과중 반드시 연속공격/적대심 대폭UP</div>"
 レイストライク,레이 스트라이크
 レイストライク＋,레이 스트라이크 +
-"<div class=""prt-text-small"">敵に*～*倍光属性ダメージ/回避率UP<br><span class=""text-blue"">◆回避時追加効果：敵に光属性ダメージ<span></span></span></div>","<div class=""prt-text-small"">적에게 *～*배 광속성 데미지/회피율UP<br><span class=""text-blue"">◆회피시 추가 효과：적에게 광속성 데미지<span></span></span></div>"
+"<div class=""prt-text-small"">敵に*～*倍光属性ダメージ/回避率UP<br><span class=""text-blue"">◆回避時追加効果：敵に光属性ダメージ<span></span></span></div>","<div class=""prt-text-small"">적에게 *～*배 광속성 데미지/회피율UP<br><span class=""text-blue"">◆회피 시 추가 효과：적에게 광속성 데미지<span></span></span></div>"
 ラストウィッシュ,라스트 위시
 "<div class=""prt-text-small"">敵に光属性ダメージ/光属性キャラ全体を特殊強化(攻防UP)/HP吸収効果付与</div>","<div class=""prt-text-small"">적에게 광속성 데미지/광속성 전체를 특수강화(공방UP)/HP흡수효과 부여</div>"
 調停の涙,조정의 눈물

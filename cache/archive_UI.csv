@@ -983,7 +983,7 @@ EXLB解放アイテム,EXLB 해방 아이템
 フェイトエピソード解放条件,페이트 에피소드 해방조건
 フェイトエピソード解放,페이트 에피소드 해방
 フェイトエピソードがあります！,페이트 에피소드가 있습니다！
-
+次のフェイトエピソードをクリアすることで<br>アビリティを習得できます。,다음 페이트 에피소드를 클리어하면<br>어빌리티를 습득할 수 있습니다
 
 全て,모두
 "<option value=""*"" selected="""">全て</option>			<option value=""*"">レア</option>			<option value=""*"">Sレア</option>			<option value=""*"">SSレア</option>			<option value=""*"">その他</option>","<option value=""*"" selected="""">모두</option>                        <option value=""*"">레어</option>                        <option value=""*"">SR</option>                        <option value=""*"">SSR</option>                        <option value=""*"">그 외</option>"
@@ -1438,8 +1438,8 @@ Rank***に達していないため<br>このクエストを開始することが
 奥義,오의
 アビリティ,어빌리티
 エピソード解放率,에피소드 해방률
-"<div class=""txt-recast"">																					使用間隔: *ターン																													</div>									<div class=""txt-recast start-recast"">																			</div>","<div class=""txt-recast"">																					사용간격: *턴																													</div>									<div class=""txt-recast start-recast"">																			</div>"
-"<div class=""txt-recast"">																					使用間隔: **ターン																													</div>									<div class=""txt-recast start-recast"">																			</div>","<div class=""txt-recast"">																					사용간격: **턴																													</div>									<div class=""txt-recast start-recast"">																			</div>"
+"<div class=""txt-recast"">																					使用間隔: *ターン																													</div>									<div class=""txt-recast start-recast"">																			</div>","<div class=""txt-recast"">                                                                                                                                                                        사용간격 : *턴                                                                                                                                                                                                                                        </div>                                                                        <div class=""txt-recast start-recast"">                                                                                                                                                        </div>"
+"<div class=""txt-recast"">																					使用間隔: **ターン																													</div>									<div class=""txt-recast start-recast"">																			</div>","<div class=""txt-recast"">                                                                                                                                                                        사용간격 : **턴                                                                                                                                                                                                                                        </div>                                                                        <div class=""txt-recast start-recast"">                                                                                                                                                        </div>"
 使用間隔: *ターン,사용간격 : *턴
 使用間隔: **ターン,사용간격 : **턴
 "エピソード解放率<span class=""txt-progress-rate"">*</span>%","에피소드 해방률<span class=""txt-progress-rate"">*</span>%"
@@ -1481,18 +1481,18 @@ Rank***に達していないため<br>このクエストを開始することが
 攻撃力：****,공격력：****
 攻撃力：*****,공격력：*****
 
+人物詳細へ,인물상세로
+
+
+
+
+
+
 !캐릭터 상한해방
 キャラ上限解放,캐릭터 상한해방
 キャラ詳細に戻る,캐릭터 상세로 돌아간다
 必要素材,필요한 소재
 "合成費用　<span class=""txt-cost-num"">****</span>					ルピ<br>					所持ルピ　*******ルピ","합성비용　<span class=""txt-cost-num"">****</span>                                        루피<br>                                        소지루피　******* 루피"
-
-
-
-
-
-
-
 
 
 
