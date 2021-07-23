@@ -8,7 +8,7 @@ orig,kr
 灼滅・破天道,작멸・파천도
 敵全体に*倍火属性ダメージ/日暈効果,적 전체에 *배 화속성 데미지/햇무리 효과
 瞬撃・印可掌,순격・인가장
-"<div class=""prt-text-small"">カウンター効果(回避・被ダメージ/*回)/即座に奥義発動可能　<span class=""text-blue"">◆古今無双流のレベルが最大まで上昇</span></div>","<div class=""prt-text-small"">카운터 효과(회피・피격시/*회)/즉시 오의 발동 가능　<span class=""text-blue"">◆고금무쌍류의 레벨이 최대치까지 상승</span></div>"
+"<div class=""prt-text-small"">カウンター効果(回避・被ダメージ/*回)/即座に奥義発動可能　<span class=""text-blue"">◆古今無双流のレベルが最大まで上昇</span></div>","<div class=""prt-text-small"">카운터 효과(회피・피격시/*회)/즉시 오의 발동가능　<span class=""text-blue"">◆고금무쌍류의 레벨이 최대치까지 상승</span></div>"
 真・無明白天,진・무명백천
 "<div class=""prt-text-small"">味方全体の火属性攻撃UP/ダブルアタック確率UP　<span class=""text-blue"">◆効果中ターン終了時に古今無双流のレベルが*上昇</span></div>","<div class=""prt-text-small"">아군 전체의 화속성 공격UP/더블어택 확률UP　<span class=""text-blue"">◆효과 중 턴 종료시 고금무쌍류 레벨이 *상승</span></div>"
 古今無双流,고금무쌍류
@@ -303,7 +303,7 @@ orig,kr
 転応＋,호응＋ (転応)
 "<div class=""prt-text-small"">敵に火属性ダメージ/自分に逆境効果<br><span class=""text-blue"">◆自分の残りHPが少ないほどダメージUP</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지 / 자신에게 역경 효과<br><span class=""text-blue"">◆자신의 남은 HP가 적을수록 데미지 UP</span></div>"
 軻遇突智,예우돌지
-自分が即座に奥義発動可能/他のアビリティが即時使用可能になる/吸収効果,자신이 즉시 오의 발동 가능 / 다른 어빌리티가 즉시 사용 가능 / 흡수 효과
+自分が即座に奥義発動可能/他のアビリティが即時使用可能になる/吸収効果,자신이 즉시 오의 발동가능 / 다른 어빌리티가 즉시 사용 가능 / 흡수 효과
 豪放磊落,호방뇌락
 防御力が高いが敵のターゲットにされやすい/一度だけ戦闘不能にならずにHP*で耐える,방어력이 높지만 적의 대상이 되기 쉬움 / 한번만 전투 불능이 되지 않고 HP *로 견딘다
 
@@ -715,7 +715,7 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 二炎の連鎖＋,쌍염의 연쇄＋
 "<div class=""prt-text-small"">敵に火属性ダメージ/暗闇効果/灼熱効果<br><span class=""text-blue"">◆暗闇状態の敵に最大CT増加/灼熱状態の敵に命中率DOWN</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지/암흑 효과/작열 효과<br><span class=""text-blue"">◆암흑 상태의 적에게 최대 CT 증가/작열 상태의 적에게 명중률 DOWN</span></div>"
 虹花の日輪・改,무지개꽃의 일륜・改
-"<div class=""prt-text-small"">敵に火属性ダメージ/自分が即座に奥義発動可能/他のアビリティが即時使用可能になる</div>","<div class=""prt-text-small"">적에게 화속성 데미지/자신이 즉시 오의 발동 가능/다른 어빌리티 즉시 사용 가능</div>"
+"<div class=""prt-text-small"">敵に火属性ダメージ/自分が即座に奥義発動可能/他のアビリティが即時使用可能になる</div>","<div class=""prt-text-small"">적에게 화속성 데미지/자신이 즉시 오의 발동가능/다른 어빌리티 즉시 사용 가능</div>"
 母の愛した花,어머니가 사랑한 꽃
 暗闇状態かつ灼熱状態の敵に対して奥義性能UP,암흑 상태이며 작열 상태인 적에 대한 오의 성능 UP
 陽だまりの魔導士,양지의 마도사

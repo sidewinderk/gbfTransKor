@@ -244,7 +244,7 @@ orig,kr
 風属性ダメージ(特大)/自分のアビリティ再使用間隔を*ターン短縮,풍속성 데미지(특대)/자신의 어빌리티 재사용 간격을 *턴 단축
 コンティニュウム,컨티뉴엄
 コンティニュウム＋,컨티뉴엄＋
-"<div class=""prt-text-small"">自分が即座に奥義発動可能/クリティカル確率UP　<span class=""text-blue"">◆最大HPの**%を消費</span></div>","<div class=""prt-text-small"">자신이 즉시 오의 발동 가능/크리티컬 확률 UP　<span class=""text-blue"">◆최대 HP의 **%를 소비</span></div>"
+"<div class=""prt-text-small"">自分が即座に奥義発動可能/クリティカル確率UP　<span class=""text-blue"">◆最大HPの**%を消費</span></div>","<div class=""prt-text-small"">자신이 즉시 오의 발동가능/크리티컬 확률 UP　<span class=""text-blue"">◆최대 HP의 **%를 소비</span></div>"
 ライトセイヴィアー,라이트 세이비어
 ライトセイヴィアー＋,라이트 세이비어＋
 "<div class=""prt-text-small"">ターゲットに関わらず*回単体ダメージ<span class=""text-blue"">◆使用する度に攻撃回数UP(最大**回)</span></div>","<div class=""prt-text-small"">타겟에 무관하게 *회 단일 데미지<span class=""text-blue"">◆사용할 때마다 공격 횟수 UP(최대**회)</span></div>"
@@ -559,7 +559,7 @@ Vフィールド,V필드
 エンブレーマ,엠블레마
 エンブレーマ＋,엠블레마＋
 エンブレーマ＋＋,엠블레마＋＋
-"<div class=""prt-text-small"">自分が即座に奥義発動可能/奥義性能UP(*回)/剣光Lvが*上昇(最大*)</div>","<div class=""prt-text-small"">자신이 즉시 오의 발동 가능/오의 성능 UP(*회)/검광 레벨이 * 상승(최대 *)</div>"
+"<div class=""prt-text-small"">自分が即座に奥義発動可能/奥義性能UP(*回)/剣光Lvが*上昇(最大*)</div>","<div class=""prt-text-small"">자신이 즉시 오의 발동가능/오의 성능 UP(*회)/검광 레벨이 * 상승(최대 *)</div>"
 インフィニート・クレアーレ,인피니트 클레아레
 インフィニート・クレアーレ＋,인피니트 클레아레＋
 インフィニート・クレアーレ＋＋,인피니트 클레아레＋＋
@@ -629,7 +629,7 @@ Vフィールド,V필드
 "<div class=""prt-text-small"">三幕を*消費して自分の攻撃大幅UP　<span class=""text-blue"">◆奥義ゲージ***％消費でターン進行時に攻撃行動を*回行う</span></div>","<div class=""prt-text-small"">삼막을 * 소비하여 자신의 공격 대폭 UP　<span class=""text-blue"">◆오의 게이지를 ***％ 소비하여 턴 진행 시에 공격행동을 *회 행한다</span></div>"
 両模糊,양모호
 両模糊＋,양모호＋
-"<div class=""prt-text-small"">自分が即座に奥義発動可能/奥義性能UP(*回)<br><span class=""text-blue"">◆最大HP**％減少</span></div>","<div class=""prt-text-small"">자신이 즉시 오의 발동 가능/오의 성능 UP(*회)<br><span class=""text-blue"">◆최대 HP**％ 감소</span></div>"
+"<div class=""prt-text-small"">自分が即座に奥義発動可能/奥義性能UP(*回)<br><span class=""text-blue"">◆最大HP**％減少</span></div>","<div class=""prt-text-small"">자신이 즉시 오의 발동가능/오의 성능 UP(*회)<br><span class=""text-blue"">◆최대 HP**％ 감소</span></div>"
 段漠,단막
 "自分に三幕を*付与<br><span class=""text-blue"">◆三幕が無い時のみ使用可能</span>","자신에게 삼막을 * 부여<br><span class=""text-blue"">◆삼막이 없을 때만 사용 가능</span>"
 三幕八場,삼막팔장
