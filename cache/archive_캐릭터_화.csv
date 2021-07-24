@@ -654,7 +654,7 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 
 フォースグラウンド,포스 그라운드
 フォースグラウンド＋,포스 그라운드＋
-"火属性ダメージ(極大)/強化効果を*つ無効化　<span class=""text-blue"">◆奥義ゲージが***%の時のみ使用可能</span>","화속성데미지(극대)/강화효과를 *개 무효화　<span class=""text-blue"">◆오의 게이지가 ***%일때만 사용가능</span>"
+"火属性ダメージ(極大)/強化効果を*つ無効化　<span class=""text-blue"">◆奥義ゲージが***%の時のみ使用可能</span>","화속성데미지(극대)/강화효과를 *개 무효화　<span class=""text-blue"">◆오의 게이지가 ***%일때만 사용 가능</span>"
 絶閃,절섬
 絶閃＋,절섬＋
 敵に火属性ダメージ/自分に高揚効果,적에게 화속성데미지/자신에게 고양효과
@@ -662,9 +662,9 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 シェルター＋,셸터＋
 敵全体に火属性ダメージ/自分の防御**倍UP,적 전체에게 화속성데미지/자신의 방어가 **배 UP
 スタンバイモード,스탠바이 모드
-"<div class=""prt-text-small"">スタンバイモードに移行し自分の弱体効果を全て回復/奥義ゲージUP(***%)　<span class=""text-blue"">◆ヒートLvが*の時のみ使用可能</span></div>","<div class=""prt-text-small"">스탠바이 모드로 전환하여 자신의 약화 효과를 전부 회복 / 오의 게이지 UP(***%)　<span class=""text-blue"">◆히트 Lv이 *일때만 사용가능</span></div>"
+"<div class=""prt-text-small"">スタンバイモードに移行し自分の弱体効果を全て回復/奥義ゲージUP(***%)　<span class=""text-blue"">◆ヒートLvが*の時のみ使用可能</span></div>","<div class=""prt-text-small"">스탠바이 모드로 전환하여 자신의 약화 효과를 전부 회복 / 오의 게이지 UP(***%)　<span class=""text-blue"">◆히트 Lv이 *일때만 사용 가능</span></div>"
 炎熱の機甲,염열의 기갑
-"<div class=""prt-text-small"">奥義ゲージ最大値***/ヒートLvに応じて攻撃UP/防御DOWN　<span class=""text-blue"">◆ヒートLvは毎ターン*上昇(最大*)/奥義ゲージが***%の時のみ奥義使用可能</span></div>","<div class=""prt-text-small"">오의 게이지 최대치***/히트Lv에 따라 공격UP/방어DOWN　<span class=""text-blue"">◆히트Lv은 매턴 *상승(최대*)/오의 게이지가 ***%일때만 오의사용가능</span></div>"
+"<div class=""prt-text-small"">奥義ゲージ最大値***/ヒートLvに応じて攻撃UP/防御DOWN　<span class=""text-blue"">◆ヒートLvは毎ターン*上昇(最大*)/奥義ゲージが***%の時のみ奥義使用可能</span></div>","<div class=""prt-text-small"">오의 게이지 최대치***/히트Lv에 따라 공격UP/방어DOWN　<span class=""text-blue"">◆히트Lv은 매턴 *상승(최대*)/오의 게이지가 ***%일때만 오의사용 가능</span></div>"
 使命の鋼,사명의 강철
 "<div class=""prt-text-small"">スタンバイモードでターン終了時、「プロミネンス・リアクター」を発動し敵全体に*倍火属性ダメージ/灼熱効果/味方全体の火属性攻撃UP/自分が戦闘不能になる</div>","<div class=""prt-text-small"">스탠바이 모드로 턴 종료시, 「프로미넌스・리액터」가 발동하여 적 전체에 *배 화속성데미지/작열효과/아군 전체의 화속성공격UP/자신이 전투불능이 된다</div>"
 
@@ -812,7 +812,7 @@ G線上のシンデレラ＋,G선상의 신데렐라＋
 [赫き炎刀],[붉은 염도]
 煉󠄁獄杏寿郎,렌고쿠 코쥬로
 炎の呼吸 玖ノ型・煉󠄁獄,화염의 호흡 9형・연옥
-"火属性ダメージ(極大)/炎の呼吸 壱ノ型・不知火が即時使用可能　<span class=""text-blue"">◆練気効果を消費して発動</span>","화속성 데미지(극대) / 화염의 호흡 1형・부지화를 즉시 사용가능 <span class=""text-blue"">◆연기 효과를 소비하여 발동</span>"
+"火属性ダメージ(極大)/炎の呼吸 壱ノ型・不知火が即時使用可能　<span class=""text-blue"">◆練気効果を消費して発動</span>","화속성 데미지(극대) / 화염의 호흡 1형・부지화를 즉시 사용 가능 <span class=""text-blue"">◆연기 효과를 소비하여 발동</span>"
 炎の呼吸 壱ノ型・不知火,화염의 호흡 1형・부지화
 敵に火属性ダメージ/自分が効果中必ずトリプルアタック,적에게 화속성 데미지 / 자신은 효과 중<br>반드시 트리플 어택
 "<div class=""txt-recast"">使用間隔：*ターン</div><div class=""txt-recast start-recast""></div>","<div class=""txt-recast"">사용간격：*턴</div><div class=""txt-recast start-recast""></div>"
