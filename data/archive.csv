@@ -4931,15 +4931,15 @@ HPが高い程奥義ダメージUP　◆メイン装備時/主人公のみ
 "<span class=""txt-summon-level"">Lv ***</span> カグヤ","<span class=""txt-summon-level"">Lv ***</span> 카구야"
 "<span class=""txt-summon-level"">Lv **</span> カグヤ","<span class=""txt-summon-level"">Lv **</span> 카구야"
 "<span class=""txt-summon-level"">Lv *</span> カグヤ","<span class=""txt-summon-level"">Lv *</span> 카구야"
-パーティ全体に自動復活効果(*回)/バトルメンバーのHPが少ないほどダブルアタック確率UP/アイテムドロップ率が**%UP,파티원 모두에게 자동부활 효과(*회)/배틀 멤버의 HP가 적을수록 더블어택 확률 UP/아이템 드랍률 **%UP
-パーティ全体に自動復活効果(*回)/連続攻撃確率UP/アイテムドロップ率と獲得経験値が**%UP,파티원 모두에게 자동부활 효과 (*회)/연속공격 확률UP/아이템 드랍률과 경험치 획득량 **%UP
+パーティ全体に自動復活効果(*回)/バトルメンバーのHPが少ないほどダブルアタック確率UP/アイテムドロップ率が**%UP,파티 전체에게 자동부활 효과(*회) / 배틀 멤버의 HP가 적을수록 더블어택 확률 UP / 아이템 드랍률 **% UP
+パーティ全体に自動復活効果(*回)/連続攻撃確率UP/アイテムドロップ率と獲得経験値が**%UP,파티 전체에게 자동부활 효과 (*회) / 연속공격 확률 UP / 아이템 드랍률・경험치 획득량 **% UP
 
-ジ・オーダー・グランデ,디・오더・그랑데
-"<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv ***</span> 디・오더・그랑데"
-"<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv **</span> 디・오더・그랑데"
-"<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv *</span> 디・오더・그랑데"
-バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP,배틀 멤버의 속성이 *종류 이상이면 공격력 ***%UP
-バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP/防御力**%UP,배틀 멤버의 속성이 *종류 이상이면 공격력 ***%UP/방어력 **%UP
+ジ・オーダー・グランデ,디 오더 그랑데
+"<span class=""txt-summon-level"">Lv ***</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv ***</span> 디 오더 그랑데"
+"<span class=""txt-summon-level"">Lv **</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv **</span> 디 오더 그랑데"
+"<span class=""txt-summon-level"">Lv *</span> ジ・オーダー・グランデ","<span class=""txt-summon-level"">Lv *</span> 디 오더 그랑데"
+バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP,배틀 멤버의 속성이 *종류 이상이면 공격력 ***% UP
+バトルメンバーの属性が*つ以上異なるとき攻撃力***%UP/防御力**%UP,배틀 멤버의 속성이 *종류 이상이면 공격력 ***% UP / 방어력 **% UP
 
 !사상
 
@@ -12641,6 +12641,14 @@ Lv** 六眼蝶,Lv** 여섯 눈 나비
 Lv** オーガヤンマ,Lv** 오거 잠자리
 Lv** ボーンネイル,Lv** 본 네일
 Lv** グレイブディガー,Lv** 그레이브디거
+Lv** 操られた帝国兵,Lv** 조종당하는 제국병
+Lv** 鬼将怒涛のジェレミア,Lv** 귀장노도 제레미아
+
+
+
+
+
+
 
 Lv** ロッド,Lv** 로드
 Lv** 試作型二八式歩行戦車,Lv** 시작형 이팔식 보행전차
@@ -18652,7 +18660,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							回復力 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_**""></div>                                                        </div>                                                        회복력 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ抑制 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							오버드라이브 억제 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ時の敵からの被ダメージ減少 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        오버드라이브 상태의 적에게 받는 데미지 감소 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 검일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 검이면 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が短剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 단검일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が槍の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 창일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が斧の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도끼일 때, 메인무기 공격력 UP +*%"
@@ -22790,6 +22798,8 @@ JPを消費してジョブを取得しますか？,JP를 소비하여 직업을 
 能力強化に戻る,능력강화로 돌아간다
 習得する,습득
 能力リセット,능력 리셋
+代表的なアビリティ,대표적인 어빌리티
+使用間隔:*ターン,사용간격 : *턴
 
 このジョブの得意武器,이 직업의 특기무기
 ウェポンマスター Lv**,웨폰마스터 Lv**
@@ -22818,6 +22828,7 @@ JPを消費してジョブを取得しますか？,JP를 소비하여 직업을 
 トリプルアタック確率+*%,트리플 어택 확률+*%
 トリプルアタック確率+**％,트리플 어택 확률+**％
 トレジャーハント成功確率+*%,트레저 헌트 성공확률+*%
+トレジャーハント成功確率+*％,트레저 헌트 성공확률+*％
 弱体耐性+*%,약화 내성+*%
 弱体成功率+*%,약화 성공률+*%
 回復力+*%,회복력+*%
@@ -23100,9 +23111,11 @@ EXアビリティ解除,EX 어빌리티 해제
 
 
 !레이더 스킬
+レイダーのアビリティ,레이더의 어빌리티
 トレジャーハントII,트레저 헌트 II
 トリックステップ,트릭스텝
 敵がオーバードライブ時にモードゲージを減少,적이 오버드라이브 상태일때 모드 게이지를 감소
+"トレジャーハントII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
 
 !호크아이 스킬
@@ -23492,7 +23505,7 @@ Lvに応じて攻撃性能とアビリティ性能が上昇し、確率でター
 パーパチュアル・モーション,퍼페츄얼 모션
 "<div class=""prt-text-small"">通常攻撃時にマシンセル*消費/マシンセルが付与されている時、以下の効果を得る<br><span class=""text-blue"">剣装備時：攻撃性能UP<br>銃装備時：通常攻撃後敵全体に自属性ダメージ</span></div>","<div class=""prt-text-small"">일반공격시 머신 셀 *개 소비 / 머신 셀이 있을 때 이하의 효과를 얻는다<br><span class=""text-blue"">검 장비시：공격 성능 UP<br>총 장비시：일반공격 후 적 전체에게 자신의 속성 데미지</span></div>"
 "オーグメント・マギア<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","어그먼트 마기아<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-レリックバスターをLv**にする,렐릭 버스터를 Lv**으로 올린다
+レリックバスターをLv**にする,렐릭 버스터 Lv**에 습득가능
 
 !EX 1
 !알케미스트 스킬
