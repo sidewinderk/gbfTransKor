@@ -18652,10 +18652,10 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 発動中のマスターボーナス,발동중인 마스터 보너스
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							攻撃力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        공격력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							攻撃力 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        공격력 +**%"
-"<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        防御力 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +*%"
+"<div class=""txt-value"">						<div class=""symbol bonus_*""></div>						<div class=""title"">トレジャーハント成功確率</div>													<div class=""value"">+*%</div>											</div>","<div class=""txt-value"">						<div class=""symbol bonus_*""></div>						<div class=""title"">트레저 헌트 성공확률</div>													<div class=""value"">+*%</div>											</div>"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							防御力 +**%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							방어력 +**%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダブルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							더블어택 확률 +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							トリプルアタック確率 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							트리플어택 확률 +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							トリプルアタック確率 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        트리플 어택 확률 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							ダメージ上限UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        데미지 상한UP +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							アビリティダメージ +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 +**%"
@@ -18669,18 +18669,21 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ抑制 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							오버드라이브 억제 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							オーバードライブ時の敵からの被ダメージ減少 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        오버드라이브 상태의 적에게 받는 데미지 감소 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 검이면 메인무기 공격력 UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が短剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 단검일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が短剣の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 단검이면 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が槍の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 창일 때, 메인무기 공격력 UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が斧の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도끼일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が斧の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도끼면 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が杖の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 지팡이일 때, 메인무기 공격력 UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が銃の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 총일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が銃の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 총이면 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が弓の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 활일 때, 메인무기 공격력 UP +*%"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が楽器の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 악기일 때, 메인무기 공격력 UP +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が楽器の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 악기면 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							メイン武器が刀の時、メイン武器の攻撃力UP +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        메인무기가 도일 때, 메인무기 공격력 UP +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							通常攻撃時奥義ゲージ上昇 +*","<div class=""txt-value"">								<div class=""symbol bonus_**""></div>							</div>							일반공격시 오의 게이지 상승 +*"
-"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP最大時防御力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        HP최대시 방어력 +*%"
+"<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							HP最大時防御力 +*%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        HP 최대면 방어력 +*%"
 "<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							アビリティダメージ上限 +*%","<div class=""txt-value"">								<div class=""symbol bonus_*""></div>							</div>							어빌리티 데미지 상한 +*%"
 "<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        アビリティダメージ上限 +**%","<div class=""txt-value"">                                                                <div class=""symbol bonus_*""></div>                                                        </div>                                                        어빌리티 데미지 상한 +**%"
+
+
+
 
 通常攻撃時奥義ゲージ上昇,일반공격시 오의 게이지 상승
 *位,*위
@@ -18959,7 +18962,7 @@ AD（外部リンクへジャンプします）,AD（외부링크로 점프합�
 売却価格,판매가격
 売却確認,판매확인
 レア以上の召喚石を<br>売却しようとしています！,R 이상의 소환석을<br>판매하려고 합니다！
-
+素材決定,소재결정
 素材時のスキルLv強化量,강화시 스킬 Lv 최대치
 ***%にならない時に追加しよう。,***%가 안될때 추가하자
 特殊な武器を強化する時に活用しよう。,특수한 무기를 강화할 때 활용하자
@@ -22662,10 +22665,10 @@ Dエンジェル・オリヴィエＨＬ,D엔젤・올리비에 HL
 多彩な属性攻撃を武器に、確実に敵の弱点を狙い撃つ。攻撃タイプのジョブ。,다양한 속성 공격을 사용해 확실하게 적의 약점을 노린다. 공격 타입의 직업
 
 レイダー,레이더
-
+戦うことだけでなく、敵からお宝を奪うことに長ける。バランスタイプのジョブ,싸움 뿐만 아니라 적에게서 보물을 빼앗는데도 능숙하다. 밸런스 타입의 직업
 
 アルカナソード,아르카나 소드
-状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。,상황에 맞춰 전술을 바꿔 아군을 엄호한다. 특수 타입의 작업
+状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。,상황에 맞춰 전술을 바꿔 다재다능하게 아군을 지원한다. 특수 타입의 작업
 
 クンフー,쿵푸
 あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。,"모든 체술을 마스터해, 단신으로 적과 맞선다. 공격 타입의 직업"
@@ -22829,7 +22832,7 @@ JPを消費してジョブを取得しますか？,JP를 소비하여 직업을 
 
 防御力+*%,방어력+*%
 防御力+**%,방어력+**%
-
+"<div class=""symbol bonus_*""></div>							</div>							防御力 +*%						</div>","<div class=""symbol bonus_*""></div>							</div>							방어력 +*%						</div>"
 ダブルアタック確率+*%,더블어택 확률+*%
 ダブルアタック確率+**%,더블어택 확률+**%
 ダブルアタック確率+**％,더블어택 확률+**％
@@ -22849,7 +22852,7 @@ JPを消費してジョブを取得しますか？,JP를 소비하여 직업을 
 
 メイン武器が弓の時、メイン武器の攻撃力UP+*%,메인무기가 활이면 메인무기의 공격력 UP+*%
 メイン武器が剣の時、メイン武器の攻撃力UP+*%,메인무기가 검이면 메인무기의 공격력 UP+*%
-
+"メイン武器が剣の時、メイン武器の攻撃力UP<span class=""value"">+*%</span>","메인무기가 검이면 메인무기의 공격력 UP<span class=""value"">+*%</span>"
 
 
 スキン選択,스킨선택
