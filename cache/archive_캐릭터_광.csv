@@ -489,7 +489,7 @@ START:DASH!!,START:DASH!!
 自分に高揚効果/被ダメージ無効(*回),자신에게 고양 효과 / 받는 데미지 무효(*회)
 
 ソード・オブ・リュミエール,소드 오브 뤼미에르
-"<div class=""prt-text-small"">ターゲットに関わらず**回光属性ダメージ<br><span class=""text-blue"">◆聖騎士Lvが*上昇</span></div>","<div class=""prt-text-small"">타겟에 관계없이 **회 광속성 데미지<br><span class=""text-blue"">◆성기사 Lv이 * 상승</span></div>"
+"<div class=""prt-text-small"">ターゲットに関わらず**回光属性ダメージ<br><span class=""text-blue"">◆聖騎士Lvが*上昇</span></div>","<div class=""prt-text-small"">타깃에 관계없이 **회 광속성 데미지<br><span class=""text-blue"">◆성기사 Lv이 * 상승</span></div>"
 
 高潔なる舞闘,고결한 무투
 "<div class=""prt-text-small"">聖騎士Lvに応じて攻撃UP/ダメージ上限UP/連続攻撃確率UP<br><span class=""text-blue"">◆聖騎士Lvは毎ターン*上昇し、被ダメージで*減少(最大*)</span></div>","<div class=""prt-text-small"">성기사 Lv에 대응하여 공격 UP / 데미지 상한 UP / 연속공격 확률 UP<br><span class=""text-blue"">◆성기사 Lv은 매 턴 * 상승하며, 데미지를 받으면 * 감소(최대 *)</span></div>"
@@ -862,23 +862,27 @@ START:DASH!!,START:DASH!!
 
 
 !쿠비라(SSR)
-[北北西の守護神]
-クビラ
+[北北西の守護神],[북북서의 수호신]
+クビラ,쿠비라
 
-金牙神然
-金牙神然＋
-光属性ダメージ(特大)/自分のHP回復/臥猪の矛を得る
-迅雷風烈
-迅雷風烈＋
-敵全体に光属性ダメージ/光属性防御DOWN/自分に大烈風効果
-猪突猛進
-猪突猛進＋
-"<div class=""prt-text-small"">敵に光属性ダメージ/味方全体の連続攻撃確率UP/通常攻撃の与ダメージUP効果<span class=""text-blue"">　◆使用回数に応じて強化効果の性能UP(最大*回)</span></div>"
-英華発外
+金牙神然,금아신연
+金牙神然＋,금아신연＋
+光属性ダメージ(特大)/自分のHP回復/臥猪の矛を得る,광속성 데미지(특대) / 자신의 HP 회복 / 와저의 창을 획득
+
+迅雷風烈,신뢰풍열
+迅雷風烈＋,신뢰풍열＋
+敵全体に光属性ダメージ/光属性防御DOWN/自分に大烈風効果,적 전체에게 광속성 데미지 / 광속성 방어 DOWN / 자신에게 대열풍 효과
+
+猪突猛進,저돌맹진
+猪突猛進＋,저돌맹진＋
+"<div class=""prt-text-small"">敵に光属性ダメージ/味方全体の連続攻撃確率UP/通常攻撃の与ダメージUP効果<span class=""text-blue"">　◆使用回数に応じて強化効果の性能UP(最大*回)</span></div>","<div class=""prt-text-small"">적에게 광속성 데미지 / 아군 전체의 연속공격 확률 UP / 일반공격의 데미지 UP 효과<span class=""text-blue"">　◆사용횟수에 따라 강화효과의 성능 UP(최대*回)</span></div>"
+
+英華発外,영화발외
 "<div class=""prt-text-small"">自分にカウンター効果(被ダメージ/*回)/敵対心UP/被ダメージの回数に応じて奥義ゲージUP(*%/最大**%)</div>"
-猪突・上宝沁金ノ撃槍
+
+猪突・上宝沁金ノ撃槍,저돌・상보심금의 격창
 奥義ゲージが溜まりにくいが通常攻撃の与ダメージが高い/最大HPUP
-亥神宮の主
+亥神宮の主,해신궁의 주인
 "<div class=""prt-text-small"">通常攻撃とカウンター回数に応じて「臥猪の矛」を得る(*段階)　<span class=""text-blue"">◆*段階変化したターン終了時に猪突猛進が発動し「臥猪の矛」をリセット</span></div>"
 
 
