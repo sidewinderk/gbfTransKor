@@ -1,0 +1,575 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",synopsis,,研究と駆除というそれぞれの目的の為、サメを探す海洋学者とサメハンター。海洋学者とサメハンターはもともと夫婦だったが、サメに対する立場の違いから別れたのだという。険悪な雰囲気のふたりを心配した一行は、ふたりに協力するため共に小型船で沖を目指す。一行が賑やかに交流する中、海面に何かの影を発見した船長が、「サメが出た」と悲鳴を上げるのだった。,"연구와 소탕이라는 각각의 목적을 위해, 상어를 찾는 해양학자와 상어 헌터. 해양학자와 상어헌터는 원래 부부였지만, 상어에 대한 입장의 차이로 인해 헤어졌다고한다. 험악한 분위기인 두사람을 걱정한 일행은, 둘에게 협력하기 위해 소형배로 바다를 향한다. 일행이 활기차게 교류하는 가운데, 해면에서 무언가의 그림자를 발견한 선장이 ""상어가 나타났다""하고 비명을 지르는 것이었다."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,でも鎧なんて剣呑だなぁ。<br>自責の念があるのはわかるけどさ。,그런데 이 더위에 갑옷이라니 힘들어 보이네. 자제하고 싶은 마음은 알겠는데 말이지.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,はぁ……<br>君等に何か迷惑でも？,뭐...? 그래서 너희한테 피해가는 거라도 있나?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,見ててちょっと窮屈かも。<br>バカンスなのに趣がなさすぎるわ。,보고만 있어도 답답해 보여. 바캉스인데 너무 분위기 없다.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,あはは！<br>また天司長に言いたい放題だぜ！,아하하! 또 천사장한테 막말한다!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,私はいいと思いますよ？<br>浜辺の我慢大会にピッタリです！,전 괜찮은 것 같은데요? 해변에서 누가 제일 잘 버티나 대회 참가자 같아요!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,皆ぁ見て見て♪<br>あっちもこっちも海になったよ！,"다들, 이거 봐! 여기도 저기도 다 바다밖에 없어!"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,陸地が水平線に沈んだ……<br>こういう景色は昔と一緒だ。,육지가 수평선에 잠겼어... 이런 풍경은 옛날하고 똑같네.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,絶景だろう。<br>貸船屋の間でもとっておきの航路でね。,절경이지? 낚싯배들 사이에서도 가장 인기있는 항로야.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,え～っと……<br>そこのおふたりさんもどうだい？,어... 그쪽 두 분은 어때?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,…………,…………
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,…………,…………
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,あ～あ……<br>気まずいねえ……,으음... 어색하구만...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,沖の指定場所がほぼ一緒で、<br>適当に相席を組んだんだが……<br>まさか元夫婦だったなんてよ？,지정한 좌표가 거의 비슷하길래 적당히 합승시켰더니만... 설마 이혼한 부부였을 줄이야.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,,<span class='scene-font-katari'>その小型船には天司と堕天司、</span><br><span class='scene-font-katari'>そしてなぜか一行も乗り合わせていた。</span>,"<span class='scene-font-katari'>이 소형선에는 천사와 타천사, 그리고 어째서인지는 몰라도 단장 일행이 함께 타고 있었다.</span>"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,,<span class='scene-font-katari'>というのもサメを巡り、</span><br><span class='scene-font-katari'>駆除する者と研究する者の対立が、</span><br><span class='scene-font-katari'>明らかに不安を掻き立てるもので……</span>,"<span class='scene-font-katari'>상어를 퇴치하려는 자와 연구하려는 자의 대립이 명백한 불안을 이끌어내고 있었기 때문에,</span>"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,,<span class='scene-font-katari'>そこでひとまず屋台はルシオに任せ、</span><br><span class='scene-font-katari'>両者に協力する形になったのだった。</span>,<span class='scene-font-katari'>당분간 노점은 루시오에게 맡기기로 한 후 양쪽을 중재하기 위해 개입한 것이었다.</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,う～んと……<br>鎧の留め具はこのあたりか？,으음... 갑옷 매듭이 여기쯤인가?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,あ、よせ！<br>無理に脱がせてどうする気だ！,"아, 하지 마! 왜 억지로 벗기려는 거야!"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,まぁちょっと涼んでみろよ。<br>ここをこうすりゃあいいのか？,시원하게 좀 있으라는 거지. 여길 이렇게 풀면 되는 거야?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,痛ッ……<br>よせと言っている！<br>仮に脱がせても水着がないだろう！,아얏... 하지 말라니까! 그리고 벗었다고 쳐도 수영복이 없잖아!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,俺は脱がん……！<br>世界が引っ繰り返っても脱がんぞ！,난 안 벗어... 세계가 뒤집혀도 절대 안 벗어!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,はぁ？<br>なんだよノリ悪ぃなあ……<br>そこまで意地になる事か？,뭐...? 진짜 분위기 안 맞춰주네... 이게 그렇게 고집부릴 일이야?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,折角あの争乱のあと、<br>色々わかりあえたと思ったのによ。,그 난리를 겪으면서 겨우 서로를 이해하게 됐다고 생각했는데 말야.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,む……<br>それとこれとは……,윽... 그건 그거고 이건...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,わかったよ、のりわるふぉん。<br>オイラ他のヤツと遊んで来よっと。,알았어. 고집쟁이폰. 난 다른 애들하고 놀아야지.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,ビィ……,비...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,…………,…………
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,少々意地になっていたか……<br>だが贖罪をする身で水着など……,내 고집이 좀 심했나... 하지만 속죄하는 몸으로 수영복을 걸칠 수는 없...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,隙アリだぜ！<br>一気に攻め込むぞ[플레이어]！,빈틈 발견! 지금이야!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,何ッ……！？,뭐...!?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,비,<span class='scene-font-4'>おりゃあぁぁぁ！</span>,<span class='scene-font-4'>으랴아아!</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,산달폰,<span class='scene-font-4'>うおぉぉぉ──！？</span>,<span class='scene-font-4'>으어어!?</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,うん？<br>ビィさん達が何か騒いでますね。<br>サメさんが見つかったのかなぁ？,어? 비 씨 쪽이 왠지 소란스러운데요. 상어가 나타난 걸까요?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,心配無用さ。<br>あっちにはサンダルフォンもいるんだ。<br>僕達は僕達でアバンチュールといこう。,걱정할 거 없어. 저 쪽에는 산달폰도 있잖아. 우리는 우리끼리 아방튀르*를 즐기자고.<br> <span class='scene-font-katari'>(Aventure: 불장난)</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,あばんちゅーる……？,아방튀...르요?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,フフフ……<br>でもその水着姿は本当にいいね。<br>君という原石を惹き立たせてる。,후후후... 그 수영복 입은 모습 정말 좋다. 너라는 원석을 잘 빛내주고 있어.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,水飛沫を浴びた長い髪も、<br>太陽の光を反射する白い肌も、<br>人々の視線を掴んで離さない。,"물보라를 덮어쓴 긴 머리도, 태양빛을 반사하는 하얀 피부도 사람의 시선을 끌어들여 놓아주질 않네. "
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,もちろん僕の心もね？,물론 내 마음도 말이지.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,はわ……？<br>ありがとうございます……？,하와...? 고맙습니다...?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,ピンと来ないかい？<br>君は本当に磨き甲斐がある。,이해가 잘 안 가? 너는 정말 갈고닦는 보람이 있어.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,えっと……<br>でもは～さんの水着も素敵ですね。<br>元々スタイルいいなぁと思ってて！,어... 그치만 하루씨 수영복도 멋져요. 원래부터 몸매 좋으시다고 생각했지만요!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,光栄だね。<br>僕の身体に興味を持って貰えるとは。,영광인걸. 내 몸에 흥미를 가져 주다니 말야.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,きょ、興味というか……,"흐, 흥미라기보단..."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,あ、あはは！<br>友達にはもちろん興味ありますよ！<br>そういえば郵便屋さんは順調に──,"아, 아하하! 물론 친구들에겐 흥미 있죠. 그러고 보니 택배 쪽은 잘 되어가고 계ㅅ..."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,触ってごらん。,만져 볼래?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,さわ……？,만져요...?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,君が興味のある箇所を知りたいんだ。<br>例えば僕の好きなルリアのラインは……,네가 흥미있어하는 부분을 알고 싶어. 예를 들면 나는 루리아의 이 라인이...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,<span class='scene-font-4'>ひゃはあ！？</span>,<span class='scene-font-4'>끼야악!?</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,あはは、ごめんごめん！<br>でも肌の質感も想像以上だね。,"아하하, 미안 미안! 하지만 상상보다 더 피부 감촉이 좋네."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,はうぅ……<br>は～さんひどいですよぅ……<br>なんだか今日は意地悪です。,하우우... 하루 씨 너무해요... 오늘따라 장난이 심하시네요.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,フフフ、本当にごめんよ。<br>原石には摩擦が必要でね。,"후후후, 진짜 미안. 원석은 연마해줘야 하거든."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,하루트,時に丁寧に時に大胆に……<br>様々な刺激を与えて光り輝かせるんだ。,"때로는 정성스럽게, 때로는 대담하게... 다양한 자극을 주면서 빛을 내게 하는 거야."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,루리아,そんなこと知りません……,그런 거 몰라요...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,サリたんサリたん♪<br>あっちでトビウオが跳ねたよ！,"사리, 사리! 저기서 날치가 날았어!"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,トビウオ……？,날치...?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,わぁお！<br>イカとタコが並んで泳いでるねえ。<br>仲がいいねえ。,와아! 오징어하고 문어가 나란히 헤엄치고 있네. 사이가 좋구나.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,お互い捕食している……,서로를 먹어치우고 있어...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,ビックリマンボー！<br>ウオノタユウがついてきてるよ！<br>ちょっとウリエル様に似てるね？,깜짝 놀랐복치~! 걔복치가 따라오고 있어! 우리엘 님이랑 좀 닮지 않았어?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,うん……<br>消息を断ってごめん、ウリエル……,"응... 연락 안 해서 미안해, 우리엘..."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,あ、離れてった。<br>きっと許すって意味だねえ。,"아, 다른 데로 갔다. 분명 괜찮다는 의미일 거야."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,良かった……,다행이야...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,君はとても賢い。<br>海洋生物についてなんでも知っている。,넌 정말 똑똑하구나. 해양생물에 대해서 뭐든지 알고 있네.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,たまたまだよぉ。<br>アズは図鑑を読んで勉強中なんだ。,어쩌다 그렇게 된 거야. 아즈는 도감을 보면서 공부하고 있거든.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,まだ途中なんだけど、<br>空の世界の事がわかっておもちょいよ♪,아직 공부중이긴 하지만 하늘의 세계에 대해 알 수 있어서 재미쪄!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,そう……<br>君達はリミッターが効いていないのか。,그래... 너희는 리미터가 걸리지 않은 거야?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,でもなぜ？<br>どうして？<br>どうすれば僕も知性を……,하지만 왜? 어째서지? 어떻게 하면 나도 지성을... 
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,彼の真意を……,그의 진의를...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,およよ？<br>サリたん何か悩んでる？,"어라라? 사리, 뭐 고민 있어?"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,아즈라엘,アズはバカだから自信ないけど……<br>今度イスが起きたら聞いてみようか？,아즈는 바보라서 자신 없지만... 다음에 이스 일어나면 물어봐 줄까?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,사리엘,ありがとう……,고마워...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,<span class='scene-font-4'>なんだってんだよ！</span><br>何年も前の話をいつまでも！,<span class='scene-font-4'>그게 어쨌다는 거야!</span> 몇 년이나 된 이야기를 아직까지 들먹이고!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,怒鳴らないで。<br>あなたの価値観が変わったか確認よ。,소리지르지 마. 당신의 가치관이 바뀐 건지 확인하는 거야.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,偉そうに……<br>サメハンターを野蛮みたいに言うな！,잘난 척은... 상어 헌터가 야만스럽다는 듯이 말하지 마.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,あなたこそ。<br>学者は現実を見ない頭お花畑だなんて！,당신이야말로. 학자는 현실을 보지 않고 머리속이 꽃밭이라고 했지!
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,<span class='scene-font-4'>その言葉は謝ったろ！</span>,<span class='scene-font-4'>그 말에 대해선 사과했잖아!</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,<span class='scene-font-4'>その謝罪は断ったわ！</span>,<span class='scene-font-4'>그리고 사과 안 받는다고도 했지!</span>
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,そこまで♪<br>また話がズレてきたわ。,거기까지~ 또 이야기가 이상한 데로 흐르기 시작했어.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,つまりおふたりは……<br>サメを狩る男とサメを愛する女の、<br>禁断のカップルだったという事ね。,즉 두 분은 상어를 잡는 남자와 상어를 사랑하는 여자가 만난 금단의 커플이었다는 얘기구나.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,お互い変わると信じて、<br>でも男は駆除を止めず、<br>女は研究を基に保護活動を始めた？,서로가 바뀔 거라고 믿었지만 남자는 사냥을 멈추지 않았고 여자는 연구를 기초로 보호활동을 시작했다 이거야?
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,あぁ。<br>出会った頃はもっと普通だった。<br>徐々に虐待とかなんとか非難を……,그래. 만났을 때는 좀 더 평범했어. 점점 학대가 어쩌고 비난하기 시작하더니...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,ちょっと待って。<br>先に言ったのはあなたでしょう。<br>保護活動を偽善だとかなんとか……,잠깐 기다려. 먼저 시작한 건 당신이잖아. 보호활동이 위선이라느니 뭐라느니...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,重要な争点ね。<br>仕事について口を出さないルールは、<br>付き合いたての時期に決めたのよね。,중요한 쟁점이네. 서로의 일에 대해서 언급하지 않는다는 룰은 연애하던 시절에 정했던 거랬지.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,でも最初の結婚記念日に口が滑って、<br>そこから口論が増えていったんだわ。,"하지만 첫 결혼기념일에 말실수가 나왔고, 그 때부터 언쟁이 늘어났다고도 했고."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,あ、あの日は酔っ払ってて……<br>雰囲気で冗談だとわかるだろ！,"그, 그 날엔 취해서... 그냥 분위기 타고 한 농담이었다는 거 알잖아!"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,本気でも冗談でも許せない。<br>なんのためのルールなのよ。,농담이든 진담이든 용서 못 해. 뭘 위해서 룰이 있는데.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,상어 헌터,お互い話のアレで多少は言ってたろ。<br>だいたいルールは君が先に破ってる。<br>その時は何も言わずに黙ってたけど……,피차 이야기하다가 조금씩 실수했잖아. 애초에 룰은 네가 먼저 깼어. 그 땐 그냥 아무 말도 안 했는데...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,해양학자,はぁ？<br>何年も前の話を今更指摘？<br>ずっと黙ってて頂戴。,뭐라고? 몇 년 전 얘기를 이제와서 꺼내? 계속 아무 말도 하지 마시지 그래.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,마루트,新情報？<br>聞きたい聞きた～い♪<br>人間社会についてもっと知りたいわ。,"새로운 정보? 들려줘, 들려줘~ 인간 사회에 대해서 더 알고 싶어."
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,オイオイ……<br>ハイスクールの遠足より賑やかだぜ。,이봐... 고등학교 수학여행보다 더 난리가 났는데.
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,商工会には逆らえねえが、<br>適当に客を捌いてりゃあこうなるか。,상공회의 알선을 거절할 수는 없었겠지만 적당히 사람을 태우면 이렇게 된다니까...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,今後は地道にきっちりと──,다음에는 착실하게 제대로...
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,<span class='scene-font-4'>ヒィ！？</span><br>出た出た出た……,"<span class='scene-font-4'>히익!?</span> 나왔어, 나왔어 나왔어!"
+Japanese,"scene_evt190627_cp2_q1_s10,7428211",detail,선장,<span class='scene-font-4'>サメが出たぞぉ！？</span>,<span class='scene-font-4'>상어 나왔어!!!</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",synopsis,,現れた海洋生物を注意深く観察する一行。しかし海洋生物に敵意は無く、海洋学者の知識から、サメとは別種であることがわかる。海洋生物と交流する中で、その正体は一部の人々の間で「イルカ」と呼ばれている種であることに思い当たる一行。しかし一行が陸に戻ろうとすると、突如巨大なサメ「ブルース」が現れ、船長を飲みこんでしまうのだった。,"나타난 해양생물을 깊게 관찰하는 일행, 그러나 해양 생물에 적대감은 없었고, 해양학자의 지식으로부터 상어와는 다른 종이라는 것을 알 수 있었다. 해양 생물과 교류하는 가운데, 그 정체는 일부 사람들 사이에서 '돌고래' 라고 하는 종이었다는걸 짐작하는 일행. 그러나 일행이 육지로 돌아가려고하자, 갑자기 거대상어 '브루스'가 나타나 선장을 삼켜버리는 것이었다."
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,,<span class='scene-font-katari'>船長の悲鳴を聞き、</span><br><span class='scene-font-katari'>船首に走った一行。</span><br><span class='scene-font-katari'>するとそこにいたのは……</span>,<span class='scene-font-katari'>선장의 비명을 듣고 일행은 선수로 달려갔다. 그러자 그 곳에는...</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,하루트,う～ん……<br>この海洋生物がサメかい？,으음... 저 해양생물이 상어야?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,마루트,えっと……<br>毎年浜辺を騒がせる害獣？,그... 매년 해변을 어지럽힌다는 유해 생물?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,…………,…………
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양생물,きゅ～い♪,뀨이~
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,아즈라엘,きゅ～い♪,뀨~이!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,루리아,あはは、きゅ～い♪,"아하하, 뀨이~"
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,사리엘,獰猛には見えない……<br>この様子は敵意というより好意？,사나워 보이지는 않는데... 저 모습은 적의라기보단 호의?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,そのとおりね。<br>仕草を見ても私達に興味津々だわ。,그 말대로야. 행동을 봐도 우리한테 흥미가 많은 모양이야.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,비,一体どうなってるんだぁ？<br>サメにも色々な性格のヤツがいるのか？,대체 어떻게 된 거야? 상어도 다양한 성격을 가진 녀석들이 있는 건가?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,待て……<br>油断するな。,기다려... 방심하지 마라.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,サメは狡猾で知能が高いんだ。<br>この愛嬌も演技かもしれない。,상어는 교활하고 지능이 높다. 저 친한 척도 연기일지도 몰라.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,サリエル、散弾銃を出せ。,"사리엘, 산탄총을 꺼내와."
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,ちょっと！<br>この子が私達に襲いかかる？<br>目の前の現実を見なさいよ！,잠깐만! 저 애가 지금 우리를 덮치려고 하고 있어? 눈 앞의 현실을 보란 말이야!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,<span class='scene-font-4'>サリエル！</span>,<span class='scene-font-4'>사리엘!</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,사리엘,…………,…………
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양생물,きゅ～い？,뀨~이?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,사리엘,敵意は本当にないと思う……<br>君が言っていたサメと違って。,적의는 정말 없다고 생각해. 네가 말했던 상어하고는 달리.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,荷物係が俺に意見するのかよ？,짐꾼이 나한테 충고하는 거야?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,意地を張るのもいいが、<br>サメの生態は詳細不明なんだろう？,고집은 알겠지만 상어의 생태는 불명이잖나?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,姿形が似ていようとも、<br>その役割はまるで異なる場合もある。,모습이 비슷하다고 해도 그 역할이 전혀 다른 경우도 있다.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,사리엘,天司と堕天司のように……？,천사하고 타천사처럼...?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,笑わせるなよ。<br>さっき海に落ちてた癖に真顔で諭すな。,웃기지 마. 아깐 바다에 빠졌던 주제에 진지한 얼굴로 설교하지 말라고.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,そのつもりはないよ。<br>だが本当にサメなのか知る必要がある。<br>ここは専門家である学者の出番だろう。,설교할 생각은 없어. 하지만 정말로 상어인지 알아볼 필요가 있겠지. 여기선 전문가인 학자가 나설 차례 아닌가?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,ほう……<br>プロの仕事に口を挟むのか？<br>アンタには多少の責任が発生するぜ？,호오... 프로가 하는 일에 끼어들 생각인가? 당신도 책임져야 할 텐데?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,あぁ。<br>駆除の際は付き合おう。,그래. 해치워야 한다면 거들도록 하지.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,サリエル。<br>君の羽に再生の兆候は？,사리엘. 날개가 재생되는 징조는 있나?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,사리엘,うぅん。<br>今の僕は飛ぶ事も……<br>でも最低限の力は残っている。,"아니, 지금의 나는 날 수도 없어... 하지만 조금의 힘은 남아 있어."
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,そうか。<br>では只の害獣など問題にならん。,그렇군. 그럼 평범한 유해생물 정도로는 문제가 되지 않겠군.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,素人ってのは怖いねえ……<br>まぁその威勢は買ってやるがな。,초보자는 이래서 무섭다니까. 뭐 그 자신감만은 인정하겠다만.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,あ～……<br>悪いが俺も口を挟んでいいか？<br>そろそろ陸に上がる時間だぜ。,아... 미안한데 나도 좀 끼어들어도 될까? 슬슬 육지로 돌아갈 시간이야.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,次の予約があるんだよ。<br>こちとら年に一度の稼ぎ時でね──,다음 예약이 있거든. 우리도 연중 한번뿐인 성수기라서 말이지...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,結論は出たわ。,결론은 나왔어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,この距離で観察すると一目瞭然……<br>完全にサメとは別種の海洋生物よ。,이 거리에서 관찰했으니 틀림없어... 완전히 상어와 다른 종의 해양생물이야.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,なんだと？<br>根拠はなんだ？,뭐라고? 근거는 있나?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,側面を見て。<br>サメにはある筈のエラがないわ。<br>つまり呼吸の方法が違ってるの。,측면을 봐. 상어에 있어야 할 아가미가 없어. 즉 호흡방법이 다르다는 얘기지.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,あと尾ビレもわかりやすいわね。<br>サメは縦方向に広がってるけど、<br>この種は横に広がってるでしょう？,그리고 꼬리지느러미도 명확한 증거야. 상어는 수직으로 뻗어 있지만 이 종은 수평으로 퍼져 있잖아.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,ただの個体差という理屈では、<br>ここまでの相違点を説明できないわ。,단순한 개체별 차이라고 하기엔 이 정도로 차이가 날 수 없어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,,<span class='scene-font-katari'>サメと似た別種の海洋生物──</span><br><span class='scene-font-katari'>その存在は空の人々にとって曖昧で、</span><br><span class='scene-font-katari'>ハッキリと区別は出来ていなかった。</span>,<span class='scene-font-katari'>상어와 비슷한 다른 종의 해양생물. 그 존재들은 차이가 애매해서 하늘의 민족들은 그들을 확실히 구분하지 못한 상태였다.</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,,<span class='scene-font-katari'>学術的な差異も未知だったが、</span><br><span class='scene-font-katari'>その生息域に近い住民などは、</span><br><span class='scene-font-katari'>感覚で呼び名を変えて認識しており……</span>,"<span class='scene-font-katari'>학술적인 차이도 아직 밝혀내지 못한 상태였지만,  그들이 사는 영역의 주민들은 둘을 다른 이름으로 구별해서 부르고 있었다.</span>"
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,,<span class='scene-font-katari'>[플레이어]達もまた、</span><br><span class='scene-font-katari'>その存在を知る団員と話をする中で、</span><br><span class='scene-font-katari'>すでに認識はあった事に思い当たる。</span>,<span class='scene-font-katari'>[플레이어] 일행 또한 그 존재를 아는 단원과 이야기하던 중 들은 적 있는 종이라는 것을 떠올려냈다.</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,そうだったの……<br>フィールドワーク不足だったわ……,그랬구나... 필드 워크 부족이야.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,비,でもなるほどなぁ。<br>さすが海洋学者だぜ！,하지만 역시 해양학자구나!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,하루트,空の常識が覆る新発見だよ。<br>あらゆる図鑑を書き換える程のね！,하늘의 상식이 뒤집힐 만한 대발견이야! 수많은 도감을 다시 써야 될 정도라고!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,ウフフ。<br>私が初めて見て虜になった生物も、<br>本当はこっちの別種だったのかも。,후후. 내가 처음 보고 반해버린 생물은 사실은 이 종이었을지도 모르겠어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,마루트,きっとそうね。<br>アズのキグルミはこっちに似てるもの。,분명히 그랬을 거야. 아즈 인형옷도 이 쪽이랑 닮았는걸.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,別種……,다른 종이라고...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,さてマーティン？<br>まだ反論する元気はある？,"그래서, 마틴? 아직도 반론할 생각이야?"
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,ハッ……<br>なんてザマだよ。,흥... 이게 무슨 꼴인지.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,マーティン……？,마틴?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,とすると俺は今まで、<br>この別種も狩っちまってた訳だ……,그렇다고 하면 난 지금까지 이 다른 종도 같이 잡아버렸다는 얘기잖아...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,何がプロだよ。<br>無害なヤツを撃ってイイ気になって……,어디가 프로라는 거야... 무해한 녀석을 쏴버리고 의기양양했다니...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,学者も混同する見た目なんだろう？<br>君も責務を果たすため必死だった筈だ。<br>あまり卑屈になっても良い事はないぞ。,학자도 혼동할 정도로 외견이 비슷하잖아? 너도 임무를 수행하기 위해서 필사적이었을 거고. 자기 자신을 질책해 봤자 좋을 게 없어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,비,オイラも同感だぜ。<br>ひねだるふぉんが言うと説得力あるな！,나도 동감이야. 비꼼달폰이 말하니까 더 설득력있는걸!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,む……<br>この後はどうするつもりだ？,큭... 이제 어떻게 할 생각이지?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,俺達の用は済んだ……<br>浜辺で見た魚影はこの別種だろう。,우린 상관 없어졌어. 해변에서 봤던 그림자는 이 다른 종이었겠지.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,私達も予定変更よ。<br>ひとまず別種の存在を前提に、<br>過去の資料の整理が必要だわ。,우리도 예정 변경이야. 우선 다른 종의 존재를 전제로 해서 과거의 자료를 정리할 필요가 있어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,はいよ。<br>時間きっかりで助かるぜ。,알았어. 시간 딱 맞춰줘서 고마워. 
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,嬢ちゃん達！<br>その別種とバイバイの時間だぜ！,아가씨들! 그 친구한테 바이바이할 시간이야!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양생물,きゅいきゅ～い♪,뀨이뀨~이!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,아즈라엘,きゅいきゅきゅきゅ？,뀨이뀨뀨뀨?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양생물,きゅっきゅっきゅう！,뀨뀨뀨!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,루리아,きゅ～い？<br>きゅるきゅっきゅう？,뀨~이? 뀨류뀨뀨?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,산달폰,なぜ意思疎通できている……？,어떻게 의사소통하고 있는 거지?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,비,あはは！<br>まぁなんか雰囲気だろ。<br>でも別種のヤツもずいぶん懐いてるぜ。,아하하! 뭐 분위기같은 걸로 아는 거겠지. 그나저나 저 다른 종이라는 녀석 되게 잘 따르네.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양생물,きゅうぅぅぅ……,뀨우우...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,아즈라엘,イルカ？<br>あなたイルカっていうんだね！,돌고래? 너 돌고래라고 하는구나!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,イルカ……？<br>まさか本当に言葉がわかるの？,돌고래...? 설마 진짜로 말이 통하는 거야?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,아즈라엘,うぅん。<br>でも頭の中でちょっと聞こえたよ。,아니. 하지만 머리 속에 뭔가 들렸어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,하루트,僕も聞こえた。<br>星晶獣の気配に近い感覚機能かなぁ。,나도 들었어. 성정수의 기운에 가까운 감각기능일까?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,마루트,たぶん音波かも。<br>彼等独自の伝達方法があるみたいね。,어쩌면 음파일지도. 그들 특유의 전달방법인 모양이야.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,돌고래,きゅ～い！,뀨~이!
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,うん……？<br>反対側の海面にも魚影が見えたぞ？<br>音波ってので仲間でも呼んだのか？,음...? 반대쪽 해수면에도 물고기 그림자가 보이는데? 음파라는 걸로 친구를 부른 건가?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,参ったねえ……<br>このまま旋回すると当たっちまうぜ。,큰일인걸... 이대로 선회하면 부딪치겠어.
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,お～い！<br>イルカちゃん達よお！<br>ちょっとそこをどいて貰えるか──,어~이! 돌고래 님들! 잠깐 거기 좀 비켜 줄...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어,<span class='scene-font-4'>Sharrrrrk！</span>,<span class='scene-font-4'>Sharrrrk!</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,선장,<span class='scene-font-4'>ぬわあぁぁぁ──！？</span>,<span class='scene-font-4'>으아아아아!?</span>
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,비,うわぁ！<br>なんかでかいのが出て来たぞぉ！？,으아! 뭔가 커다란 게 튀어나왔는데?
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,해양학자,船長さんが一口で……！<br>あの巨大な個体はまさか……,선장님이 한입에 먹혔어...! 저 거대한 생물은 설마...
+Japanese,"scene_evt190627_cp2_q2_s10,7428221",detail,상어 헌터,ブルース──,브루스...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",synopsis,,自在に泳ぎ回り、一行を翻弄するブルース。海洋学者達の保護等に追われる中、逃げ遅れたイルカを気にかけたアズラエルもブルースに飲みこまれてしまう。そのままブルースは潜水して逃走してしまい、一行はアズラエルと船長を救出する為の策を練るのだった。,"자유자재로 헤엄쳐 다니며 일행을 농락하는 브루스. 해양학자 및 일행을 보호하는 등의 연유로 쫓기던 도중, 늦게 도망친 돌고래를 걱정한 아즈라엘도 브루스에게 삼켜져 버린다. 그대로 브루스는 잠수하여 도주해버려, 일행은 아즈라엘과 선장을 구출하기 위한 대책을 짜는 것이었다."
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,,<span class='scene-font-katari'>新種の海洋生物イルカと交流する中、</span><br><span class='scene-font-katari'>突如として巨大なサメが一行を襲う。</span>,<span class='scene-font-katari'>새로운 해양 생물 돌고래와 교류하던 중에 갑자기 거대한 상어가 일행을 덮쳤다.</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,,<span class='scene-font-katari'>その個体こそ史上最悪の害獣であり、</span><br><span class='scene-font-katari'>マーティンの怨敵のブルースだった。</span>,<span class='scene-font-katari'>그것은 사상 최악의 유해 생물이자 마틴의 숙적인 브루스였다.</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,브루스,<span class='scene-font-4'>Sharrrrrk！</span>,<span class='scene-font-4'>Sharrrrrk！</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,루리아,<span class='scene-font-4'>きゃあぁぁぁ！？</span>,<span class='scene-font-4'>꺄아아!??</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,비,クソぉ！<br>海に潜ったり飛び出て来たり……<br>想像以上に厄介だぜ！,젠장... 바다에 잠겼다가 날아올랐다가... 생각보다 더 상대하기 힘들어!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,本当に頭が回る……！<br>自分の利点を完璧にわかってるんだ。,진짜 머리 좋은데...! 자기가 유리한 점을 완벽하게 파악하고 있구나.
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,[플레이어]達！<br>ひとまず僕に掴まって！<br>重量オーバーだけど空に避難するよ！,[플레이어]! 그리고 너희들! 우선 날 붙잡아! 중량 오버지만 하늘을 날아서 피난하는 거야!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,마루트,エレンとマーティンは私よ！<br>いったん態勢を立て直さないと──,엘렌하고 마틴은 나한테 붙어! 일단 태세를 정비해야...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,ブルースよ……<br>今年も暑い夏の到来だなぁオイ？,"브루스... 올해도 뜨거운 여름의 시작이군, 그렇지?"
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,해양학자,マーティン！？,마틴?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,さぁ開幕だ！<br>お前の終生のライバルがここにいるぞ！,"자, 개막이다. 네 최고의 라이벌이 여기에 있다!"
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,브루스,<span class='scene-font-4'>Sharrrrrk！</span>,<span class='scene-font-4'>Sharrrrrk！</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,弾いた！？<br>去年より胸板が盛り上がってやがる……,튕겨냈잖아? 작년보다 가슴 가죽이 더 두꺼워졌군...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,サリエル！<br>徹甲弾の用意だ！,사리엘! 철갑탄을 준비해라!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,사리엘,うん……<br>この弾で合ってる？,응... 이 탄 맞아?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,サンキュ！<br>お前は荷物を守ってろ。<br>絶対前に出て来るなよ？,땡큐! 넌 짐 지키고 있어. 절대 앞으로 나오면 안 된다?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,사리엘,僕は誰も葬らないでいいの？,난 아무도 안 죽여도 돼?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,冗談を言ってる場合か！<br>お前は俺が守ってやる。<br>そっちの兄ちゃんは空に避難を──,농담하고 있을 때가 아냐! 넌 내가 지켜 줄게. 그 쪽 형씨도 하늘로 날아서 도망쳐...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,…………,…………
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,さすがに落ち着いてるな……<br>俺に啖呵を切った度胸は本物だったか！,확실히 침착한걸. 나한테 충고하면서 했던 말은 진심이었던 모양이지?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,ぼええええ……,우우으으윽...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,…………,…………
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,아즈라엘,背中さすりさすり♪<br>サンちゃん顔が真っ青だねえ。,등 쓰담쓰담... 산쨩 얼굴이 새파랗네...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,アズ……！<br>君も飛んで避難するんだ！,아즈...! 너도 빨리 날아서 도망쳐!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,마루트,ちょっと待って……<br>まさかアズの羽もまだ再生できてない？,잠깐 기다려... 혹시 아즈 날개도 아직 재생 안 된 거 아냐?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,돌고래,きゅ～い……！,뀨~이...!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,아즈라엘,およ？<br>あなたも避難するヒマがなかった？,어라? 너도 도망갈 시간이 없었어?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,아즈라엘,でもここにいると危険だよ。<br>急がないとブルースのごはんだよ──,그치만 여기 있으면 위험해. 어서 도망치지 않으면 브루스 밥이 될 거...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,브루스,<span class='scene-font-4'>Sharrrrrk！</span>,<span class='scene-font-4'>Sharrrrrk！</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,아즈라엘,およよ？,어라라?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,…………ッ！？,...!?
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,<span class='scene-font-4'>アズゥゥゥ！？</span>,아즈!!!!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,마루트,なんてこと……<br>今度はアズも一口で……,이럴 수가... 이번엔 아즈를 한 입에...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,브루스,<span class='scene-font-4'>Sharrrrrk……</span>,<span class='scene-font-4'>Sharrrrrk……</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,해양학자,諦めないで！<br>まだ猶予はある……<br>魚類に咀嚼する習慣はない筈よ！,포기하지 마! 아직 시간이 있어... 어류는 먹이를 씹어서 삼키지 않아!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,상어 헌터,まるっと胃袋に収める訳か！<br>確かに無傷と言えば無傷だぜ……！,그대로 위장에 들어갔다는 소린가! 그야 상처가 없을만도 하겠군...!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,クソ……！<br>奴の腹を捌いてふたりを救助するぞ……,젠장...! 놈의 배를 가르고 두 사람을 구출해내는 거다...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,브루스,<span class='scene-font-4'>Sharrrk──</span>,<span class='scene-font-4'>Sharrrk──</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,비,あ……！<br>アイツ潜って行っちまったぞ！？,아...! 저 녀석 잠수해 버렸어!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,사리엘,逃走……？<br>こっちの敵意が強まったから……,도주...? 우리 쪽 적의가 강해진 걸 느끼고...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,루리아,待って……！<br>アズさん達を返して！,기다려! 아즈 씨랑 선장님을 돌려줘!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,<span class='scene-font-4'>ウオォォォ！</span>,<span class='scene-font-4'>우오오오!</span>
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,브루스,…………──,…………──
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,해양학자,光が届いてないわ……<br>なんていう潜水速度なの……,빛이 닿질 않아... 엄청난 잠수속도야...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,急いで後を追うぞ！<br>絶対にアズ達を取り戻す！,어서 뒤를 쫓자! 아즈네를 반드시 구해내야 해!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,僕は二度と……<br>友達を失ったりするもんか！,나는 두 번 다시... 친구를 잃을 수 없어!
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,마루트,は～ちゃん……<br>でも海の中ではあまりにも不利よ……<br>人質が増えて更に救助が困難になる。,하쨩... 그치만 바다 속에서는 너무 불리해... 인질이 늘어나면 구하는 게 더 힘들어져.
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,하루트,で、でも……！,"하, 하지만..."
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,사리엘,勝ち目の薄い戦闘は、<br>戦略を立てて覆せる。,승산이 옅은 전투는 전략을 세워서 뒤집는다.
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,戦略か……<br>この突然の襲撃も奴の計算……,전략이라... 이 갑작스러운 습격도 놈의 계산 내겠지...
+Japanese,"scene_evt190627_cp2_q3_s10,7428231",detail,산달폰,まるでどこかの狡知を思わせるが、<br>とすると奴が次に選択する行動は──,마치 어딘가의 교지가 생각나는군... 그렇다면 놈이 다음에 취할 행동은...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",synopsis,,浜辺ではルシオが屋台の店番をしていたが、そこに逃走してきたブルースが現れる。ブルースを追ってサンダルフォンも浜辺に戻るが、ブルースは隙を突いてルシオをも飲みこんで逃走してしまう。その後[플레이어]達はブルース対策のため開かれる商工会の緊急会議に出席することになるが、サンダルフォンは過去に<span class='scene-font-place'>アウギュステ</span>を襲った罪悪感から、その場に残るのだった。,"해변에서 노점을 지키고있던 루시오에게 도망쳐온 브루스가 나타난다. 브루스를 쫓아 산달폰도 해변에 돌아오지만, 브루스는 틈을 노려 루시오도 삼키고 도주해버린다. 그 후, [플레이어] 일행은 브루스 대책을 위해 열리는 상공회의 긴급 회의에 참석하게 되는데, 산달폰은 과거에 <span class='scene-font-place'>아우규스테</span>를 덮친 죄악감에, 그 자리에 남는 것이었다."
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,,<span class='scene-font-katari'>ブルースが逃走を図り、</span><br><span class='scene-font-katari'>一行が対策を練っている頃……</span>,"<span class='scene-font-katari'>브루스가 도주를 꾀하고, 일행은 그 대책을 짜내기에 여념없던 시각이었다.</span>"
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,,<span class='scene-font-katari'>浜辺の隅にある屋台では、</span><br><span class='scene-font-katari'>有り得ない程の行列が出来ていた。</span>,<span class='scene-font-katari'>해변 끝에 있는 노점에는 상상도 못 할 정도로 줄이 늘어서 있었다.</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,ご注文のリンゴジュース10杯です。<br>かき氷10個は少々お時間を頂きますね。,주문하신 사과 주스 10잔입니다. 빙수 10개는 조금 더 기다려 주세요.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오의 팬,は～い♪<br>では待ってる間にルシオ様の御顔……<br>もっと間近で見ててもいいですか？,네~에! 그럼 기다리는 중에 루시오님의 얼굴을 조금 더 가까이서 봐도 괜찮을까요?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,構いませんよ。<br>どうぞ御堪能を。,물론이죠. 마음껏 감상하세요.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오의 팬,ありがとうございます♪,감사합니다~
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,<span class='scene-font-2'>루시오의 고참 팬</span>,ちょっとぉ！<br>大量注文はずるいわよ！<br>この行列が見えないの？,잠깐! 대량주문은 반칙이야! 이 줄이 안 보여?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오의 팬,私だってずっと並んでたんだもん。<br>一番前の特等席で堪能するために！,나도 계속 기다렸단 말이야. 가장 앞쪽 특등석에서 감상하기 위해서!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,<span class='scene-font-2'>루시오의 고참 팬</span>,お店の迷惑も考えなさいよ。<br>かき氷10個なんて重労働よ。<br>ほんとにわかファンは困るわ……,가게에 폐 끼치는 것도 생각 좀 하시지. 빙수 10개라니 무슨 중노동이야. 이래서 신참들은 안된다니까...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오의 팬,はぁ？<br>あなた古参のつもり？<br>私は三周目なんですけど！,뭐? 지금 고참이라고 텃세부리는 거야? 난 줄 서는거 세 번째거든!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,おふたりとも。<br>私を巡って争わないで頂きたい。,두 분. 저를 두고 다투지 마시길 바랍니다.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,行列では遠目に見る私を。<br>先頭では間近に見る私を。<br>視点の変化にも価値はあるものです。,"줄을 서실 때는 멀리서 보는 저를, 맨 앞에서는 가까이서 보는 저를 감상하세요. 시점의 변화에도 가치가 있는 거랍니다."
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,閉店まで通って頂いて構いません。<br>私は減るものではありませんので。,폐점할 때까지 계속 오셔도 괜찮습니다. 저는 닳지 않으니까요.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,팬 일동,は～い♪,네~에!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,브루스,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,팬 일동,<span class='scene-font-4'>きゃあぁぁぁ！</span>,<span class='scene-font-4'>꺄아!!</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,うん……？<br>あの海洋生物は……,음...? 저 해양생물은...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,브루스,<span class='scene-font-4'>Sharrrk……！</span>,<span class='scene-font-4'>Sharrrk……！</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,その巨体は異常進化ですね。<br>サンちゃん達を撒いて来たのですか？,그 거대한 몸을 보니 돌연변이인 모양이군요. 산쨩 일행을 따돌리고 온 겁니까?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,브루스,Shark……？,Shark……？
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,別に敵対するつもりはありませんよ。<br>空に生きる者には各々の正義がある。,딱히 당신과 적대할 생각은 없습니다. 하늘을 살아가는 자들에게는 모두 각자의 정의가 있죠.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,ただ私は屋台を預かっている身であり、<br>人々を脅かす行為は営業妨害なのです。,"다만 저는 노점을 맡고 있는 몸이고, 사람들을 위협하는 행위는 영업방해입니다."
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,速やかに退散を。<br>摂理の因果の流るるままに──,빠른 퇴장 부탁합니다. 섭리의 인과가 흐르는 대로...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,브루스,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,…………,…………
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,브루스,<span class='scene-font-4'>Sharrrk……！？</span>,<span class='scene-font-4'>Sharrrk……！？</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,相応の猶予は与えた筈です。,분명 충분히 시간을 드렸습니다.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,では速やかに済ませますね。<br>お客様を待たせているので──,그러면 빠르게 끝내죠. 손님들이 기다리고 계시니...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,待て！,기다려!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,サンちゃん……？,산쨩...?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,はぁ……はぁ……<br>奴の胃袋にはアズラエル達がいる！<br>まだ生きている筈だ！,하아... 하아... 녀석의 위 속에 아즈라엘과 다른 인간이 있어! 아직 살아있을 거다!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,なるほど。<br>先に救助せねば攻撃は出来ないと？,그렇군요. 먼저 구조하지 않으면 공격할 수 없다는 건가요?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,俺の失態だ……<br>ルシオは観光客の避難誘導を頼む！,내 실책이다... 루시오 너는 관광객들의 피난을 유도해 다오!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,…………,…………
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,ルシオ？<br>何をボーッと……,루시오? 왜 멍하니...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,フフフ……<br>思わぬ感動に少々浸っていたのです。<br>サンちゃんが初めて私の名を呼んだ。,후후후... 잠시 뜻밖의 감동에 잠겨 있었습니다. 산쨩이 처음으로 제 이름을 부르다니.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,…………！<br>貴様は馬鹿か！？,"...! 너, 멍청이 아냐?"
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,今日は御赤飯ですね。<br>一千年モノのワインも添えて。,오늘은 팥밥을 먹어야겠네요. 천 년간 보관한 와인도 곁들여서.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오,サンちゃんはアルコールを──,산쨩은 알콜을...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,브루스,<span class='scene-font-4'>Sharrrk！</span>,<span class='scene-font-4'>Sharrrk！</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오의 목소리,嗜む──,즐기시는지...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,お……,이...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,<span class='scene-font-4'>大馬鹿者ォォォ！？</span>,<span class='scene-font-4'>이 멍청한 녀석!!!!!</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,비,なんてこった……<br>ルシオまでアイツの胃袋かよ……,그럴 수가... 루시오도 녀석의 뱃속에 들어갔다니...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,하루트,その後ブルースは再び逃走か……<br>まだ付近に潜んでるんだろうけど……,그 뒤에 브루스는 다시 도망쳤나... 아직 근처에 숨어있겠지만...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,商工会の判断で被害は伏せている。<br>確かに他の観光客は無傷ではあるが……,상공회의 판단으로 이 상황에 대해서는 숨기고 있다. 분명 다른 관광객들에겐 피해가 없었다만...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,상점 점원,ほんと大迫力だったなぁ！<br>俺が第一発見者なんだぜ！,진짜 박력이 엄청났어! 내가 처음 발견했다니까!
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루시오의 팬,でもいい土産話が出来たわ。<br>後は商工会がなんとかするわよ。,좋은 이야깃거리가 생겼어. 이젠 상공회가 어떻게든 하겠지.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,<span class='scene-font-2'>루시오의 고참 팬</span>,いつの間にか閉まってたけど、<br>明日も屋台にルシオ様いるかなぁ？,"어느 샌가 문이 닫혀 있던데, 루시오 님은 내일도 노점에 계시려나?"
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,루리아,あまり危機感がないですね……<br>本当に危険だと思うんですけど……,위기감이 별로 없네요... 진짜 위험한 상황인 것 같은데요...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,상어 헌터,[플레이어]。<br>悪いが一緒に来て貰えないか？<br>商工会が緊急会議するんだと。,[플레이어]. 미안하지만 같이 와 줄 수 있겠나? 상공회에서 긴급회의를 한다는군.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,해양학자,私とマーティンは専門家として……<br>あなたは災厄を救った英雄として。<br>実は凄腕の騎空士さんだったのね？,나하고 마틴은 전문가로서... 당신은 재액에서 세상을 구한 영웅으로서. 사실 엄청난 실력의 기공사라면서?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,…………,…………
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,[플레이어]。<br>会議は任せたぞ。<br>商工会の判断で俺達の戦略も決まる。,"[플레이어], 회의 잘 부탁한다. 상공회의 판단에 따라 우리 전략이 정해질 거다."
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,마루트,がんばってね！<br>私達は船の修理をするわ。<br>ブルースのせいであちこち傷んでて。,힘내! 우리는 배를 수리하고 있을게. 브루스 때문에 여기저기 떨어져나갔어.
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,사리엘,ん……<br>僕は荷物の整備をする。<br>サンダルフォンはどうする？,음... 난 장비를 정비할게. 산달폰은 어떻게 할 거야?
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,산달폰,俺は……,나는...
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,,<span class='scene-font-katari'>商工会の招致により、</span><br><span class='scene-font-katari'>[플레이어]は緊急会議に向かった。</span>,<span class='scene-font-katari'>단장은 상공회의 초청을 받고 긴급 회의에 참석하러 떠났다.</span>
+Japanese,"scene_evt190627_cp2_q4_s10,7428241",detail,,<span class='scene-font-katari'>その背を眺めるサンダルフォンは、</span><br><span class='scene-font-katari'>かつての罪が脳裏をかすめるのだった。</span>,그 등을 지켜보던 산달폰의 가슴 속에는 이전에 지었던 죄가 스쳐 지나갔다.
+English,"scene_evt190627_cp2_q1_s10,7428211",synopsis,,"The shark hunter and the oceanographer—one seeks to exterminate ocean life and the other, research it. The two were originally husband and wife but ultimately separated due to irreconcilable differences in their relationships to sharks. Concerned about the ill will between the erstwhile couple, the party steps in to mediate. Soon after the group sets sail, their rental boat's skipper sees an ominous form and warns of a shark attack."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,"I think you're going a bit overboard on the penance, wearing armor in this heat."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,Sigh... Am I in any way imposing on you?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,It hurts to look at you. A suit of armor doesn't exactly cry vacation after all.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,Ahaha! The supreme primarch's gettin' an earful again!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,I think his armor's fine. It's like he's doing a beach endurance challenge!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"Look, everyone, look! There's water all around us!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,The land has sunk below the horizon. This sight reminds me of days gone by.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,"It's something to behold, ain't it? This passage is a favorite for hired ships."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,Sooo... You two still alive back there?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,"Ah... Not feelin' real talkative, I see..."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,"You both gave me more or less the same coordinates, so I figured why not sail you out together. But you used to be husband and wife, eh?"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,,"The archangels, fallen angel, and [플레이어]'s crew are sailing on the tiny ship."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,,A simmering conflict between the researcher and shark slayer threatens to become more than just awkward.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,,"The crew has therefore stepped in to mediate, leaving Lucio to tend to the food stand."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,Hm... Are these the fasteners for your armor?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,Stop that this instant! What do you mean trying to undress me without permission!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,You oughta let the breeze cool you down a bit. Am I doin' this right?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,"Ouch! I already asked you to stop! Even if I were to remove my armor, I don't have any swim trunks!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,"I have no intention of relaxing my dress code, no matter what the reason!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,Huh? What a killjoy... Do you really have to be so stubborn?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,And here I thought we were finally starting to understand each other after that battle.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,"Ngh... That was then, and this is now."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,"Okay, Wallflowerphon—you win. I'm gonna go hang out with someone else now."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,Vyrn...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,Perhaps I'm being too obstinate... But summer levity and swimwear hardly seem appropriate for someone who has yet to atone for his sins...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,"Now's our chance! Let's get 'im, [플레이어]!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,What—
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Vyrn,Rah!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sandalphon,Aaaugh!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,Huh? What are they shouting about over there? I wonder if they spotted a shark.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,"Sandalphon's with them, so there shouldn't be anything to worry about. Now, I believe I promised you a style consultation."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,A... consultation?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,Hehehe... You're adorable in that swimsuit. It makes you shine like the gem you are.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,"Your long locks catch the sea spray, your fair skin reflects the sun—who could pull their eyes away?"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,I know I can't.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,"Wow... Thanks, I think?"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,Don't you think so? You have so much untapped potential.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,"Um... Your swimsuit's pretty too, Hal. You've always had a nice figure!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,I'm honored that you'd take an interest in my looks.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,"O-oh, well... I mean..."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,"Aha-ha-ha... Of course I'm interested in my friends. Speaking of which, how has APS—"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,Tell me more.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,Huh?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,"Tell me more about my figure. I'm eager to hear your opinion, Lyria..."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,Eeeek!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,"Ahaha, sorry, sorry! You looked so flustered, I thought a little ice cube would cool you down."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,"Sigh... I can't believe you, Hal. You're being such a bully today..."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,Hehehe... I'm really sorry. It just takes a bit of friction to polish a gem.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Halluel,"Or maybe I should say, it takes a little grit for an oyster to produce a pearl?"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Lyria,Whatever you say...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"Sarry, Sarry! I just saw a flying fish over that way!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,Flying fish?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"Ooh, that squid and octopus are swimming together. They must be good friends."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,Each is hunting the other...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,There's a hola mola! And—see—a rising sunfish right behind it! Doesn't that one remind you of Uriel?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,"Yes...<br>Uriel, I'm so sorry for never contacting you..."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"Ah, they went different ways. It must mean they don't want to hurt each other."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,Good...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,You're very smart. A treasure trove of facts on sea creatures.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,It's nothing special. I've been studying a field guide.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"I've still got a lot to learn, but it's really interesting learning about the Sky Realm."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,I see... Wait—aren't your limiters working?
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,Why? How? What can I do to become smarter...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,And really understand him...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"Hey, what's got you tied up in knots, Sarry?"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Azrael,"I'm a dummy, so I can't say much, but... How about we ask Iss when she gets up?"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Sariel,Thank you...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,The hell are you trying to say? That was years ago!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,Don't shout at me. I only wanted to know if your way of thinking had evolved.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,Get off your high horse... And quit acting like shark hunters are a buncha no-good roughnecks!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,That's rich. Remind me who called scientists a bunch of ivory tower idealists.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,I apologized for that!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,Well I didn't accept it!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,Time out! This conversation is falling apart.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,You two were a star-crossed couple: the man who hunts sharks and the woman who loves them.
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,"Each hoped the other would change. But he wouldn't stop exterminating sharks, and her research made her protect them."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,"Yeah. Everything was normal at first. But then she started saying it was animal abuse, stuff like that."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,"Hold it right there. You were the one who started it, saying conservation work was hypocritical."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,"This is a big point of disagreement. Back when you were dating, you agreed not to criticize each other's jobs."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,"But you let something slip out on your first anniversary, and that's when the arguments really took off."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,I was totally soused that day... You know that was only a joke!
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,"No matter what it was, it was unacceptable. It undermined our whole agreement."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Shark Hunter,"We both slipped up now and then in the heat of the moment. But you broke the rule first. I didn't say anything at the time, but..."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Oceanographer,"Huh? Then why are you dredging it up now, years later? Go ahead and take it to your grave."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Malluel,"Ooh, new info! Lemme hear, lemme hear! I wanna learn more about mortal society."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,"Oi, oi! High schoolers on a class outin' aren't as loud as you."
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,There ain't no fightin' the chamber of commerce... But if only they'd be more selective about customers...
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,Guess I'll just have to start—
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,"Eek! Look out, look out, look out!"
+English,"scene_evt190627_cp2_q1_s10,7428211",detail,Skipper,Shark!
+English,"scene_evt190627_cp2_q2_s10,7428221",synopsis,,"The party members closely observe the creature that appeared in the sea. From its friendliness, the oceanographer is able to deduce that it's a member of another species: the dolphin. The boat attempts to return to shore when Old Bruce shows himself and swallows the boat's skipper in a single gulp."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,,"Hearing the skipper's cries, the party runs to the bow of the ship."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Halluel,Hm... Is that sea creature a shark?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Malluel,Oh... You mean the dangerous animals that make such a disturbance every year?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sea Creature,Squeee!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Azrael,Squeee!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Lyria,"Ahaha, squeee!"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sariel,It doesn't seem fierce... It's more friendly than hostile.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,You're right. Its behavior suggests it's more curious about us than anything else.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Vyrn,I don't get it. I guess sharks have lots of different personalities.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,Not so fast... We need to stay alert.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,Sharks are cunning beasts. Any signs of affection you see are just a clever ruse.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,"Sariel, get the shotgun."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,"Hey! She's not attacking us, is she? You need to trust your eyes!"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,Sariel!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sariel,...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sea Creature,Squeee?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sariel,It's really not hostile at all... This doesn't seem like the sharks you described.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,"Did I ask for your opinion, caddie?"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,"You're just being stubborn. The finer points of shark biology and behavior are still largely unknown, aren't they?"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,It's possible for creatures to look similar but have different roles.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sariel,Like archangels and fallen angels?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,What a joke. Are you going to lecture me after falling headfirst into the brine?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,Not at all. But we need to figure out if this is actually a shark. The expertise of a scientist could come in useful.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,"Heh... Now you're telling a pro how to do his work? If something goes wrong, it'll be on your head too."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,"Very well. In that eventuality, I'll accompany you on the hunt."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,Sariel. Are your wings showing any sign of regrowth?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sariel,No... Flying's out of the question for now. But I do have a bit of power left.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,All right. Then the creature shouldn't pose us any real threat.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,You amateurs are terrifying... But you've got guts if nothing else.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,"Ah... Sorry for interruptin', but we're about to reach the shore soon."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,"This is the busiest time o' year, and I've got another booking."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,I've reached a conclusion.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,"At this distance it couldn't be clearer—whatever that creature is, it's not a shark."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,"Oh, really? And where's your proof?"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,Look at its sides. It doesn't have the gills that a shark would. That means it must breathe through another mechanism.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,"The tail fin is another obvious difference—sharks' fins are vertical, but this species' is horizontal. See?"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,Those differences are too big to explain away as individual variations.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,,"Skydwellers do not readily distinguish the shark from this other marine species, and the two have long been treated as interchangeable."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,,"Though residents of the beach colloquially refer to the other species by a different name, official taxonomies recognize no difference between it and the shark."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,,"While conferring with knowledgeable crew members, [플레이어]'s party learns that the distinction between species is not entirely new."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,I see... Our fieldwork's been inadequate...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Vyrn,How 'bout that! That's an oceanographer for ya!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Halluel,A discovery like this could turn the sky upside down. Every field guide around will have to be rewritten!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,Teehee... The sea creature I fell in love with at first sight might actually have been of this species.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Malluel,"Probably, huh? Az's costume looks like this one after all."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,A different species...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,"So then, Martin? Still have it in you to argue?"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,Hah... What the hell.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,Martin?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,This means that I've been hunting both species until now...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,Some pro I am... All full of myself over killing a bunch of harmless creatures...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,They look similar enough to confuse even scientists. You were determined to carry out your duty. Nothing good will come from you beating yourself up.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Vyrn,"Yeah, you're right. And coming from Grumplephon, you know it's true!"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,Ngh... What do you plan to do next?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,We're done here. This is the species that was swimming near the beach.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,"We're going to be changing our plans too. Assuming that there are two different species, we're going to have to reevaluate our past research materials."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,Time to set sail! Thanks for stickin' to the timetable.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,Lasses! Time to wish your friend farewell!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sea Creature,Squee-squeee!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Azrael,Sq-sq-squeee?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sea Creature,Squ-squ-squeee?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Lyria,Squeee? Squ-squiqueee?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sandalphon,How are you communicating with it?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Vyrn,Ahaha! You can just sorta tell what it's thinking. It seems real friendly.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Sea Creature,Squooo...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Azrael,Dolphin? Your name's Dolphin!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,Dolphin? Do you really understand what it's saying?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Azrael,"Nope, but I can kinda hear something in my head."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Halluel,I heard it too. I wonder if it has something like a primal beast's aura.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Malluel,It could be sound waves. These creatures seem to have their own way of communicating.
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Dolphin,Squeee!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,Hm? There's another fishy form off to port side. Did it summon its mates with those sound waves?
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,"Bloody hell... If we pivot now, we'll ram right into them."
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,"Oi, Dolphin! Move out of the way, would you?"
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark,Sharrrrrk!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Skipper,Ngwaaaah!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Vyrn,Whoa! That thing's hunormous!
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Oceanographer,It swallowed the skipper whole! Could that giant really be...
+English,"scene_evt190627_cp2_q2_s10,7428221",detail,Shark Hunter,Old Bruce...
+English,"scene_evt190627_cp2_q3_s10,7428231",synopsis,,"Old Bruce effortlessly plies the sea, confounding the crew. While Azrael is paying attention to the dolphin that failed to escape, Old Bruce swallows the archangel whole and then dives deep below the surface. The others devise a plan to rescue Azrael and the skipper."
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,,The crew members are communicating with a dolphin when a colossal shark attacks without warning.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,,"It is Old Bruce, Martin's archenemy and one of history's most threatening animals."
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Old Bruce,Sharrrrrk!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Lyria,Eeek!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Vyrn,"Geez! That thing keeps leaping outta the water, then hiding underneath the waves... Who'da thought it'd be so tricky?"
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,It's making me dizzy! It really knows how to make the most of its abilities.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,[플레이어] and everyone! Grab onto me! Don't worry about the weight—we're evacuating!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Malluel,I'll take Ellen and Martin! We have to regroup or else...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,"Old Bruce... It's another scorcher this year, huh?"
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Oceanographer,Martin?
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,I'm gonna end you! Look up at your last and best opponent!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Old Bruce,Sharrrrrk!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,It ricocheted! He's even buffer than he was last year.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,Sariel! Hand me the armor-piercing rounds.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sariel,Mm... These ones?
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,"Thank you! Watch my gear, and whatever you do, stay back."
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sariel,I really don't have to kill anyone then?
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,"This is no time for humor! I'll protect you. And you there, you evacuate with the others."
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,You're certainly calm. I guess you weren't all talk when you mouthed off to me earlier.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,Bleeegh...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Azrael,"Rubbie, rubbie, feel better tummy... Your face is so pale..."
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,Az! Hurry up and fly!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Malluel,"Hold on... Your wings <span class='scene-font-italic'>have</span> grown back, haven't they, Az?"
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Dolphin,Squeee?
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Azrael,Oyo? You didn't have time to escape either?
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Azrael,But it's dangerous here. You're going to be chow for Old Bruce.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Old Bruce,Sharrrrrk!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Azrael,Oyoyo?
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,...!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,Aaaaz!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Malluel,I don't believe it... Az got swallowed whole too...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Old Bruce,Sharrrrrk...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Oceanographer,Don't give up! We still have time... Fish typically don't chew their prey!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Shark Hunter,You mean it just goes right into their bellies! So now they're still safe inside Old Bruce...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,Blast! I'll slice his gut open to rescue them...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Old Bruce,Sharrrk—
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Vyrn,Ah! It's diving deeper into the sea!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sariel,Is he fleeing? Maybe he sensed our hostility...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Lyria,Wait! Give back Az and the skipper!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,Hrraahhh!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Old Bruce,...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Oceanographer,He's already deeper than light can reach... So fast...
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,I'm following him! We're going to get Az back no matter what!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,There's no way I'm losing my friend again!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Malluel,Hal! You're terrible in the water... And another hostage would only make the rescue harder.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Halluel,B-but!
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sariel,A strategy could help us snatch victory from the jaws of defeat.
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,"Strategy, eh? Is this ambush a calculated move on Old Bruce's part?"
+English,"scene_evt190627_cp2_q3_s10,7428231",detail,Sandalphon,Reminds me of a certain serpent... Which gives me an idea what this shark will do next...
+English,"scene_evt190627_cp2_q4_s10,7428241",synopsis,,"Lucio is holding down the food stall when Old Bruce rears his head once more. Sandalphon pursues the beast, but he is unable to prevent Old Bruce from swallowing Lucio in an unguarded moment. [플레이어] and company attend an emergency session of the chamber of commerce; Sandalphon, however, abstains because of his guilt for attacking Auguste in days past."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,,"As Old Bruce attempts to escape, the party members put together a plan."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,,"Meanwhile a long, snaking line has formed in front of a food stand at one corner of the beach."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Here are the ten apple juices you ordered. The ten shaved ices will be a bit longer.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio Fan,Okay! Can I get a little closer and gaze at you while you make them?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Of course. Please enjoy yourself.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio Fan,Thank you so much!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Senior Lucio Fan,Are you for real! How can you order that much stuff? Can't you see the line?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio Fan,I waited my turn just like everybody else... And now I'm gonna enjoy the best seat in the house.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Senior Lucio Fan,Think about the hassle you're causing the staff. Ten shaved ices? That's straight-up hard labor. You newbie fans really need to learn a lesson...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio Fan,"Huh? You think you're some kind of OG? This is my third time in line, you know!"
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,"Please, you two. I beg you not to squabble over me."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,"While in line, you can gaze on me from afar; while ordering, you can admire me from up close. Each position has its own merits."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,You're welcome to keep returning until closing time. Looking never hurt anyone after all.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Fans,Yooou got it!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Old Bruce,Sharrrk!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Fans,Eeek!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Hm? That sea creature...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Old Bruce,Sharrrk!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Some sort of abnormal mutation must have produced this giant. I wonder if it ended up scattering Sandy and the others.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Old Bruce,Sharrrk?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,"I bear no ill will toward you. Like any other creature of the sky, you move as your nature commands you."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,"But as the acting manager of this food stall, I must say that your behavior represents a threat to our customers and our business."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Take your leave at once—go wherever fate would take you.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Old Bruce,Sharrrk!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Old Bruce,Sharrrk...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,You have received generous notice.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,I'll be quick about this. My customers are waiting.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,Wait!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Sandy?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,Huff... Huff... That creature swallowed Azrael and a skydweller—but they should still be alive in its stomach!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,I see. You mean we need to rescue them before attacking?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,It was a foolish mistake on my part. Please lead the vacationers to safety.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,Lucio? What are you daydreaming—
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Hahaha... I was luxuriating in my sudden good fortune. You called me by name for the first time.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,...!<br>What sort of idiocy is that?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Tonight's dinner will have to be red beans and rice. And I have the perfect bottle to accompany it. I've been saving it for a thousand years.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,"Sandy, do you—"
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Old Bruce,Sharrrk!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio,Drink?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,You...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,You complete ignoramus!
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Vyrn,What the heck... Now Lucio's in his belly too...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Halluel,"Old Bruce swam away after that, huh... He probably didn't go far, but..."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,"The chamber of commerce has decided to keep those incidents under wraps. It's true that no other visitors were harmed, but still..."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Shop Staff,"That thing just about blew my mind when I saw it! And I saw it first, you know!"
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lucio Fan,This'll make for a good story if nothing else. I know the chamber of commerce can handle things from here.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Senior Lucio Fan,I guess the shop closed down during the commotion. I wonder if Lucio is coming back tomorrow?
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Lyria,"They don't seem very worried, do they? Even though it's actually dangerous..."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Shark Hunter,"[플레이어]. Sorry, but would you come with me? The chamber of commerce is holding an emergency session."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Oceanographer,Martin and I will speak as experts... And you'll attend as the hero who saved the day. I hear you're actually a renowned skyfarer.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,"[플레이어], go attend the meeting. Their decisions will determine our strategy."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Malluel,Good luck! We'll be patching up the ship. It's all beat up thanks to Old Bruce.
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sariel,"Ngh... I'll get the gear in order. What are you going to do, Sandalphon?"
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,Sandalphon,I...
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,,"At the behest of the chamber of commerce, [플레이어] heads to the emergency meeting."
+English,"scene_evt190627_cp2_q4_s10,7428241",detail,,"Sandalphon watches the captain go, guilt for his past actions rising in his breast."
