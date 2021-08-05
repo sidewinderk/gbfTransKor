@@ -12101,9 +12101,9 @@ ATKシール
 進行状況がリセットされました。,진행상황이 리셋되었습니다
 進行状況を記録し、探索を完了しました。,"진행상황을 기록하고, 탐색을 완료했습니다"
 アーカルムパスポートを使用することで<br>今回の続きから探索を開始できます。,아카룸 패스포트를 사용하여<br>이후의 탐색을 개시할 수 있습니다
-"この場所に移動します<br>                                                        TP *** → <span class=""txt-attention"">***</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>","이 장소로 이동합니다<br>                                                        TP *** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
+"<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP *** → <span class=""txt-attention"">***</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동합니다<br>                                                        TP *** → <span class=""txt-attention"">***</span><br>                                <div class=""btn-move-division"">移動する</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 
-この場所に移動します,이 장소로 이동합니다
+
 
 
 !아카룸 등장 마물
