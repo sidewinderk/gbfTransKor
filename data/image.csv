@@ -79,6 +79,8 @@ img/sp/raid/ui_button_attack_cancel/button_attack_cancel.png,button_attack_cance
 img/sp/raid/ui_special_skip/special_skip_on.png,special_skip_on.png
 img/sp/raid/ui_special_skip/special_skip_off.png,special_skip_off.png
 
+!전투 결과
+result/bonus/icon_x150,result/icon_x150.png
 
 
 !멀티배틀 타이틀
@@ -88,6 +90,16 @@ img/sp/cjs/raid_appear_8100333.png,raid/raid_appear_8100333.png
 img/sp/cjs/raid_appear_8100263.png,raid/raid_appear_8100263.png
 img/sp/cjs/raid_appear_8100293.png,raid/raid_appear_8100293.png
 img/sp/cjs/raid_appear_8100383.png,raid/raid_appear_8100383.png
+!사상멀티배틀 타이틀
+img/sp/cjs/raid_appear_8100523.png,raid/raid_appear_8100523.png
+img/sp/cjs/raid_appear_8100873.png,raid/raid_appear_8100873.png
+img/sp/cjs/raid_appear_8100803.png,raid/raid_appear_8100803.png
+img/sp/cjs/raid_appear_8100533.png,raid/raid_appear_8100533.png
+img/sp/cjs/raid_appear_8100723.png,raid/raid_appear_8100723.png
+
+
+
+
 
 !상점
 parts-sc3185cf923.png,parts-sc3185cf923.png
@@ -178,6 +190,7 @@ arcarum_map_next_stage,arcarum_map_next_stage.png
 event/common/advent/parts-s8cccc2bb67,event/common/advent/parts-s8cccc2bb67.png
 event/common/advent/event_top,event/common/advent/event_top.png
 banner/events/advent/banner_event_start_1,banner/events/advent/banner_event_start_1.png
+result/event/advent/point_rate_20,result/point_rate_20.png
 
 !고전장
 event/common/teamraid/parts-s772715d29a,event/common/teamraid/parts-s772715d29a.png
