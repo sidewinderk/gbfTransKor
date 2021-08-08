@@ -190,7 +190,13 @@ arcarum_map_next_stage,arcarum_map_next_stage.png
 event/common/advent/parts-s8cccc2bb67,event/common/advent/parts-s8cccc2bb67.png
 event/common/advent/event_top,event/common/advent/event_top.png
 banner/events/advent/banner_event_start_1,banner/events/advent/banner_event_start_1.png
-result/event/advent/point_rate_20,result/point_rate_20.png
+result/event/advent/point_rate_20,event/common/advent/point_rate_20.png
+event/common/advent/assets/other/list_raid_2040068000_ex_2.png,event/common/advent/list_raid_2040068000_ex_2.png
+event/common/advent/assets/other/list_raid_advent_highlevel_on.png,event/common/advent/list_raid_advent_highlevel_on.png
+esult/event/advent/point_rate_90,event/common/advent/point_rate_90.png
+
+
+
 
 !고전장
 event/common/teamraid/parts-s772715d29a,event/common/teamraid/parts-s772715d29a.png
