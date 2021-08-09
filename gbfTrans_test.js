@@ -1602,6 +1602,7 @@ var updateDBTexts = async function () {
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
+    imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
     battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
     dbNextUpdateTime_text = new Date();
     dbNextUpdateTime_text.setHours(dbNextUpdateTime_text.getHours() + 1, 0, 0, 0);
