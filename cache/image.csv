@@ -175,17 +175,18 @@ arcarum/top/dungeon/pop/pop_dungeon_6,arcarum/top/dungeon/pop/pop_dungeon_6.png
 arcarum/top/dungeon/pop/pop_dungeon_7,arcarum/top/dungeon/pop/pop_dungeon_7.png
 arcarum/top/dungeon/pop/pop_dungeon_8,arcarum/top/dungeon/pop/pop_dungeon_8.png
 arcarum/top/dungeon/pop/pop_dungeon_9,arcarum/top/dungeon/pop/pop_dungeon_9.png
-arcarum_map_status,arcarum_map_status.png
-arcarum_map_mission_1,arcarum_map_mission_1.png
-arcarum_map_mission_2,arcarum_map_mission_2.png
-arcarum_map_mission_3,arcarum_map_mission_3.png
-arcarum_map_mission_4,arcarum_map_mission_4.png
-arcarum_map_mission_5,arcarum_map_mission_5.png
+arcarum_map_status,arcarum/arcarum_map_status.png
+arcarum_map_mission_1,arcarum/arcarum_map_mission_1.png
+arcarum_map_mission_2,arcarum/arcarum_map_mission_2.png
+arcarum_map_mission_3,arcarum/arcarum_map_mission_3.png
+arcarum_map_mission_4,arcarum/arcarum_map_mission_4.png
+arcarum_map_mission_5,arcarum/arcarum_map_mission_5.png
+arcarum_result_clear,arcarum/arcarum_result_clear.png
 parts-sa3a5f784a8,parts-sa3a5f784a8.png
 bg_stage_clear,bg_stage_clear.png
-arcarum_map_complete_2,arcarum_map_complete_2.png
-arcarum_map_complete,arcarum_map_complete.png
-arcarum_map_next_stage,arcarum_map_next_stage.png
+arcarum_map_complete_2,arcarum/arcarum_map_complete_2.png
+arcarum_map_complete,arcarum/arcarum_map_complete.png
+arcarum_map_next_stage,arcarum/arcarum_map_next_stage.png
 
 !사상강림
 event/common/advent/parts-s8cccc2bb67,event/common/advent/parts-s8cccc2bb67.png
@@ -199,7 +200,7 @@ parts-sdd6687a0e6,event/common/advent/parts-sdd6687a0e6.png
 
 event/common/advent/assets/other/list_raid_advent_highlevel_on.png,event/common/advent/list_raid_advent_highlevel_on.png
 esult/event/advent/point_rate_90,event/common/advent/point_rate_90.png
-parts_advanced-sfd25a584a4,event/common/advent/parts_advanced-sfd25a584a4.png
+
 
 
 
