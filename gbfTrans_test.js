@@ -2645,6 +2645,14 @@ var ImageObserver = new MutationObserver(function (mutations) {
                 // walkDownTreeSrc(mutation.target, GetTranslatedImage, imageBlobs);
             });
         }
+        
+        var plain_images = doc.querySelectorAll('[class$="bg"], [class$="logo"], [class$="header"], [class$="feature"]');
+        if (plain_images) {
+            plain_images.forEach(image => {
+                walkDownTreeSrc(image, GetTranslatedImage, imageBlobsUrl);
+                // walkDownTreeSrc(mutation.target, GetTranslatedImage, imageBlobs);
+            });
+        }
     }
     ObserverImage();
 });
