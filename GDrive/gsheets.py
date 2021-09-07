@@ -5,7 +5,7 @@
 
 import contextlib, csv, os
 from apiclient.discovery import build  # pip3 install google-api-python-client
-skipsheets = ['archive','quest','name','image','battle']
+skipsheets = ['archive','quest','name','image','battle', 'conjunction']
 savepath = "../cache/"
 
 SHEET = '1LQiu94RhA5gRlcOja0oMrtRKfql14yCvJZlpa25xvi0'

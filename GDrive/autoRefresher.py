@@ -1,7 +1,7 @@
 import gsheets
 import mergesheets
 
-listOfFiles = ["archive", "name", "quest", "image","battle"]
+listOfFiles = ["archive", "name", "quest", "image","battle", "conjuction"]
 
 if(__name__ == '__main__'):
     for sht in gsheets.SHEETS:
