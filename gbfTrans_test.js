@@ -42,7 +42,7 @@ var dbDef = {
     dbCon: null,
     dbName: 'gbfTransKorDB',
     dbStoreName: 'gbfTransKorStore',
-    dbUpgradeNeeded: true,
+    dbUpgradeNeeded: false,
     //dbVer 값은 소수점 불가. 정수값만 가능. 
     //이 값은 개발자가 임의로 사용자의 DB를 강제로 삭제하고 새로운 DB로 업그레이드하게 하고싶을때 값을 올림.
     dbVer: 3 //만약 이 값을 올렸다면 반드시 script() 함수 내에도 있는 dbDef 객체도 맞춰서 수정해주기바람!!!
