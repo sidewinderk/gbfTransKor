@@ -15,7 +15,7 @@ var generalConfig = {
     defaultFontName: "NanumSquare"
 };
 var doc = document;
-var isVerboseMode = true;
+var isVerboseMode = false;
 var doImageSwap = true;
 var doBattleTrans = true;
 var transMode = true;
@@ -25,6 +25,7 @@ var ObserverList = [];
 var questJson = false;
 var nameJson = false;
 var archiveJson = false;
+var conjunctionJson = false;
 var imageJson = false;
 var imageBlobs = [];
 var imageBlobsUrl = [];
@@ -1473,6 +1474,7 @@ var createDB = async function () {
             questJson,
             nameJson,
             archiveJson,
+            conjunctionJson,
             imageJson,
             battleJson,
             imageBlobs,
@@ -1510,6 +1512,7 @@ var getDB = async function () {
             questJson = requestResult.questJson;
             nameJson = requestResult.nameJson;
             archiveJson = requestResult.archiveJson;
+            conjunctionJson = requestResult.conjunctionJson;
             imageJson = requestResult.imageJson;
             battleJson = requestResult.battleJson;
             imageBlobs = requestResult.imageBlobs;
@@ -1602,6 +1605,7 @@ var updateDBTexts = async function () {
     questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
     nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
     archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
+    conjunctionJson = parseCsv(await request(generalConfig.origin + '/data/conjunction.csv'));
     imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
     battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
     dbNextUpdateTime_text = new Date();
@@ -1619,6 +1623,7 @@ var updateDBTexts = async function () {
                 questJson,
                 nameJson,
                 archiveJson,
+                conjunctionJson,
                 imageJson,
                 battleJson,
                 imageBlobs,
@@ -1675,6 +1680,7 @@ var updateDBImages = async function () {
                 questJson,
                 nameJson,
                 archiveJson,
+                conjunctionJson,
                 imageJson,
                 battleJson,
                 imageBlobs,
@@ -1722,6 +1728,7 @@ async function InitList() {
         questJson = parseCsv(await request(generalConfig.origin + '/data/quest.csv'));
         nameJson = parseCsv(await request(generalConfig.origin + '/data/name.csv'));
         archiveJson = parseCsv(await request(generalConfig.origin + '/data/archive.csv'));
+        conjunctionJson = parseCsv(await request(generalConfig.origin + '/data/conjunction.csv'));
         imageJson = parseCsv(await request(generalConfig.origin + '/data/image.csv'));
         battleJson = parseCsv(await request(generalConfig.origin + '/data/battle.csv'));
         imageBlobs = [];
@@ -1975,25 +1982,96 @@ async function InitList() {
 function translate(stext, jsonFile) {
     // Translation part for story text
     var transText = '';
+    var transTexts = [];
+    isContainConjuction = false;
+    isTranslatedByOrdinaryDB = false;
     PrintLog(`traslate taken: ${stext}`);
 
+    // First, Lookup the oridinary DB
     jsonFile.some(function (item) {
         if (item.kr) {
             if (stext.length == item.orig.length) {
                 if ((stext == item.orig)) {
                     PrintLog(`GET:${item.kr}`);
                     transText = item.kr;
-
+                    returnValue = true;
                     if (transText.includes(generalConfig.defaultName)) {
                         var resultUserName = getTransDefaultUserName(userName);
                         transText = transText.split(generalConfig.defaultName).join(resultUserName);
                     }
-
+                    isTranslatedByOrdinaryDB = true;
                     return true;
                 }
             }
         }
     });
+
+    // Translate for conjuction text only
+    if(!isTranslatedByOrdinaryDB && conjunctionJson){
+        conjunctionJson.some(function (item) {
+            if (item.kr) {
+                if (stext.length > item.orig.length) {
+                    if ((transTexts.length < 1) && 
+                        (stext.includes(item.orig))) {
+                            // First case
+                            PrintLog(`Conjuction check GET:${item.kr}`);
+                            transTexts = stext.split(item.orig);
+                            if (transTexts[0].length < 1){
+                                // If this text was the first word or text in the scentence,
+                                // Replace the first 'blank' item
+                                transTexts.splice(0, 1, item.kr);
+                            }
+                            else{
+                                // or just put between 2 texts.
+                                transTexts.splice(1, 0, item.kr);
+                            }
+                            isContainConjuction = true;
+                    }
+                    else{
+                        for (var component of transTexts) {
+                            if(component.includes(item.orig)){
+                                // Second and after
+                                templist = component.split(item.orig);
+                                if (templist[0].length < 1){
+                                    // If this text was the first word or text in the scentence,
+                                    // Replace the first 'blank' item
+                                    transTexts.splice(transTexts.indexOf(component), 1, item.kr, templist[1]);
+                                }
+                                else{
+                                    // or just put between 2 texts.
+                                    transTexts.splice(transTexts.indexOf(component), 1, templist[0], item.kr, templist[1]);
+                                }
+                                
+                            }
+                        };
+                    }
+                }
+            }
+        });
+    }
+    if (isContainConjuction) {
+        // If conjuction translation was performed, the target text is changed to array - transTexts
+        for (var component of transTexts) {
+            tempText = component;
+            jsonFile.some(function (item) {
+                if (item.kr) {
+                    if (component.length == item.orig.length) {
+                        if ((component == item.orig)) {
+                            PrintLog(`GET:${item.kr}`);
+                            tempText = item.kr;
+                            returnValue = true;
+                            if (tempText.includes(generalConfig.defaultName)) {
+                                var resultUserName = getTransDefaultUserName(userName);
+                                tempText = tempText.split(generalConfig.defaultName).join(resultUserName);
+                            }
+                            return true;
+                        }
+                    }
+                }
+            });
+            transText = transText + tempText;
+        }
+    }
 
     if (transText) {
         if (transText.length > 0) {
@@ -2522,7 +2600,7 @@ var sceneObserver = new MutationObserver(function (mutations) {
 
     });
 
-    console.log(cachedSceneData);
+    // console.log(cachedSceneData);
     //줄거리 창 번역에 어려움이 있음.
     //DB 원문에 남캐로 시작하면 소년, 여캐로 시작하면 소녀로 변화무쌍하게 입력되어있음.
     //그런 경우를 다 커버하기위해 단순히 처리함.
@@ -2646,7 +2724,7 @@ var ImageObserver = new MutationObserver(function (mutations) {
             });
         }
         
-        var plain_images = doc.querySelectorAll('[class$="bg"], [class$="logo"], [class$="header"], [class$="feature"], [class$="btn-thumbnail"]');
+        var plain_images = doc.querySelectorAll('[class$="bg"], [class$="logo"], [class$="header"], [class$="feature"]');
         if (plain_images) {
             plain_images.forEach(image => {
                 walkDownTreeSrc(image, GetTranslatedImage, imageBlobsUrl);

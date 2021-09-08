@@ -2559,10 +2559,30 @@ function translate(stext, jsonFile) {
     var transText = '';
     var transTexts = [];
     isContainConjuction = false;
+    isTranslatedByOrdinaryDB = false;
     PrintLog(`traslate taken: ${stext}`);
 
+    // First, Lookup the oridinary DB
+    jsonFile.some(function (item) {
+        if (item.kr) {
+            if (stext.length == item.orig.length) {
+                if ((stext == item.orig)) {
+                    PrintLog(`GET:${item.kr}`);
+                    transText = item.kr;
+                    returnValue = true;
+                    if (transText.includes(generalConfig.defaultName)) {
+                        var resultUserName = getTransDefaultUserName(userName);
+                        transText = transText.split(generalConfig.defaultName).join(resultUserName);
+                    }
+                    isTranslatedByOrdinaryDB = true;
+                    return true;
+                }
+            }
+        }
+    });
+
     // Translate for conjuction text only
-    if(conjunctionJson){
+    if(!isTranslatedByOrdinaryDB && conjunctionJson){
         conjunctionJson.some(function (item) {
             if (item.kr) {
                 if (stext.length > item.orig.length) {
@@ -2604,27 +2624,7 @@ function translate(stext, jsonFile) {
             }
         });
     }
-    if (!isContainConjuction) {
-        // Prevent crash if the conjuction DB is not loaded.
-        // Usually happend when the page is just updated. (NEED TO FIX)
-        jsonFile.some(function (item) {
-            if (item.kr) {
-                if (stext.length == item.orig.length) {
-                    if ((stext == item.orig)) {
-                        PrintLog(`GET:${item.kr}`);
-                        transText = item.kr;
-                        returnValue = true;
-                        if (transText.includes(generalConfig.defaultName)) {
-                            var resultUserName = getTransDefaultUserName(userName);
-                            transText = transText.split(generalConfig.defaultName).join(resultUserName);
-                        }
-                        return true;
-                    }
-                }
-            }
-        });
-    }
-    else{
+    if (isContainConjuction) {
         // If conjuction translation was performed, the target text is changed to array - transTexts
         for (var component of transTexts) {
             tempText = component;
