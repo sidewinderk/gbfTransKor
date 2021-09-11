@@ -56,6 +56,7 @@ parts-s2b180a301e,parts-s2b180a301e.png
 parts-s614aeaa76e,parts-s614aeaa76e.png
 parts_advanced-sfd25a584a4,parts_advanced-sfd25a584a4.png
 parts_mypage-s7c84ec51e1,parts_mypage-s7c84ec51e1.png
+parts_btn-sf8a1c6e2ee,parts_btn-sf8a1c6e2ee.png
 
 !가챠
 gacha/btntext/text_legend10,gacha/btntext/text_legend10.png
@@ -93,6 +94,7 @@ img/sp/cjs/raid_appear_8100293.png,raid/raid_appear_8100293.png
 img/sp/cjs/raid_appear_8100383.png,raid/raid_appear_8100383.png
 img/sp/cjs/raid_appear_7300213,raid/raid_appear_7300213.png
 img/sp/cjs/raid_appear_8100733,raid/raid_appear_8100733.png
+img/sp/cjs/raid_appear_7300393,raid/raid_appear_7300393.png
 !사상멀티배틀 타이틀
 img/sp/cjs/raid_appear_8100523.png,raid/raid_appear_8100523.png
 img/sp/cjs/raid_appear_8100873.png,raid/raid_appear_8100873.png
@@ -189,6 +191,7 @@ arcarum/top/dungeon/pop/pop_dungeon_7,arcarum/top/dungeon/pop/pop_dungeon_7.png
 arcarum/top/dungeon/pop/pop_dungeon_8,arcarum/top/dungeon/pop/pop_dungeon_8.png
 arcarum/top/dungeon/pop/pop_dungeon_9,arcarum/top/dungeon/pop/pop_dungeon_9.png
 
+
 arcarum_map_status,arcarum/arcarum_map_status.png
 arcarum_map_mission_1,arcarum/arcarum_map_mission_1.png
 arcarum_map_mission_2,arcarum/arcarum_map_mission_2.png
@@ -202,6 +205,7 @@ arcarum_map_complete_2,arcarum/arcarum_map_complete_2.png
 arcarum_map_complete,arcarum/arcarum_map_complete.png
 arcarum_map_next_stage,arcarum/arcarum_map_next_stage.png
 arcarum_map_appear_specialenemy_text1,arcarum/arcarum_map_appear_specialenemy_text1.png
+arcarum_map_appear_enemy,arcarum/arcarum_map_appear_enemy.png
 
 !사상강림
 event/common/advent/parts-s8cccc2bb67,event/common/advent/parts-s8cccc2bb67.png
