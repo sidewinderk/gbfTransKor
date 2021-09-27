@@ -5219,7 +5219,8 @@ CBダメージアップ(累積),CB 데미지 업(누적)
 奥義ゲージ－*%,오의 게이지－*%
 奥義ゲージ＋*%,오의 게이지＋*%
 ブロック,블록
-
+ターゲット固定,타겟 고정
+に発動中のステータス効果,에게 발동중인 스테이터스 효과
 
 "!강화효과(아군에게부여, 한정)"
 虎眼,호안
@@ -5256,6 +5257,7 @@ CBダメージアップ(累積),CB 데미지 업(누적)
 防御力DOWN,방어력DOWN
 防御DOWN(累積),방어 DOWN(누적)
 弱体耐性DOWN,약화 내성 DOWN
+弱体耐性DOWN(累積),약화 내성 DOWN(누적)
 毒,독
 灼熱,작열
 腐敗,부패
@@ -18763,10 +18765,10 @@ ID入力,ID입력
 "ルピ <span class=""txt-reward-plus"">+**</span>","루피 <span class=""txt-reward-plus"">+**</span>"
 "ルピ <span class=""txt-reward-plus"">+***</span>","루피 <span class=""txt-reward-plus"">+***</span>"
 "ルピ <span class=""txt-reward-plus"">+****</span>","루피 <span class=""txt-reward-plus"">+****</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+*</span>","기적의 물방울 <span class=""txt-reward-plus"">+*</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+**</span>","기적의 물방울 <span class=""txt-reward-plus"">+**</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+***</span>","기적의 물방울 <span class=""txt-reward-plus"">+***</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+****</span>","기적의 물방울 <span class=""txt-reward-plus"">+****</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+*</span>","궤적의 물방울 <span class=""txt-reward-plus"">+*</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+**</span>","궤적의 물방울 <span class=""txt-reward-plus"">+**</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+***</span>","궤적의 물방울 <span class=""txt-reward-plus"">+***</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+****</span>","궤적의 물방울 <span class=""txt-reward-plus"">+****</span>"
 前回のAP消費量 *（うち繰り越し *）,지난 AP소비량 *（중 이월치 *）
 前回のAP消費量 **（うち繰り越し *）,지난 AP소비량 **（중 이월치 *）
 前回のAP消費量 ***（うち繰り越し *）,지난 AP소비량 ***（중 이월치 *）
@@ -20509,6 +20511,17 @@ PPを<%= dungeon_point %>獲得しました！,PP를<%= dungeon_point %>획득�
 "ディール済み<br>                                <span class=""txt-numbers"">***</span>","딜 완료<br>                                <span class=""txt-numbers"">***</span>"
 "ディール済み<br>                                <span class=""txt-numbers"">**</span>","딜 완료<br>                                <span class=""txt-numbers"">**</span>"
 "ディール済み<br>                                <span class=""txt-numbers"">*</span>","딜 완료<br>                                <span class=""txt-numbers"">*</span>"
+ディールする報酬を選択してください。<br>                最も大きな数値を出した者が獲得権を得ます。<br>                また、ディールできるアイテムは*つのみとなります。
+"終了まで<span class=""cnt-deal-timer"">*分 **秒</span>"
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23279,6 +23292,7 @@ Lv** ゼピュロス,Lv** 제퓨로스
 オーバードライブ発動！<br>敵が強力な技の発動準備に入った！,오버드라이브 발동！<br>적이 강력한 기술의 발동준비에 들어갔다！
 オーバードライブ発動！<br>敵が強力な技の発動準備に入った！<br>発動までのCTが短縮された！,오버드라이브 발동！<br>적이 강력한 기술의 발동준비에 들어갔다！<br>발동까지의 CT가 단축되었다！
 ブレイク発生！<br>敵が技を使用できなくなった！<br>さらに味方のダブル・トリプルアタック発動率アップ！,"브레이크 발생！<br>적이 기술을 쓸 수 없게 되었다！<br>게다가, 아군의 더블・트리플어택 발동률 업！"
+→強化効果消去の効果,→강화효과 소거의 효과
 !캐릭터 디테일 수정에 대한 예시
 !나중에 충분히 데이터가 쌓이면 수정하거나 지울 것임
 

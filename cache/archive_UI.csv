@@ -113,10 +113,10 @@ ID入力,ID입력
 "ルピ <span class=""txt-reward-plus"">+**</span>","루피 <span class=""txt-reward-plus"">+**</span>"
 "ルピ <span class=""txt-reward-plus"">+***</span>","루피 <span class=""txt-reward-plus"">+***</span>"
 "ルピ <span class=""txt-reward-plus"">+****</span>","루피 <span class=""txt-reward-plus"">+****</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+*</span>","기적의 물방울 <span class=""txt-reward-plus"">+*</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+**</span>","기적의 물방울 <span class=""txt-reward-plus"">+**</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+***</span>","기적의 물방울 <span class=""txt-reward-plus"">+***</span>"
-"軌跡の雫 <span class=""txt-reward-plus"">+****</span>","기적의 물방울 <span class=""txt-reward-plus"">+****</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+*</span>","궤적의 물방울 <span class=""txt-reward-plus"">+*</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+**</span>","궤적의 물방울 <span class=""txt-reward-plus"">+**</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+***</span>","궤적의 물방울 <span class=""txt-reward-plus"">+***</span>"
+"軌跡の雫 <span class=""txt-reward-plus"">+****</span>","궤적의 물방울 <span class=""txt-reward-plus"">+****</span>"
 前回のAP消費量 *（うち繰り越し *）,지난 AP소비량 *（중 이월치 *）
 前回のAP消費量 **（うち繰り越し *）,지난 AP소비량 **（중 이월치 *）
 前回のAP消費量 ***（うち繰り越し *）,지난 AP소비량 ***（중 이월치 *）
@@ -1859,6 +1859,17 @@ PPを<%= dungeon_point %>獲得しました！,PP를<%= dungeon_point %>획득�
 "ディール済み<br>                                <span class=""txt-numbers"">***</span>","딜 완료<br>                                <span class=""txt-numbers"">***</span>"
 "ディール済み<br>                                <span class=""txt-numbers"">**</span>","딜 완료<br>                                <span class=""txt-numbers"">**</span>"
 "ディール済み<br>                                <span class=""txt-numbers"">*</span>","딜 완료<br>                                <span class=""txt-numbers"">*</span>"
+ディールする報酬を選択してください。<br>                最も大きな数値を出した者が獲得権を得ます。<br>                また、ディールできるアイテムは*つのみとなります。
+"終了まで<span class=""cnt-deal-timer"">*分 **秒</span>"
+
+
+
+
+
+
+
+
+
 
 
 
