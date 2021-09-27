@@ -18729,6 +18729,7 @@ TOPページに戻る,TOP페이지로 돌아간다
 風,풍
 光,광
 闇,암
+ガチャチケット,가챠티켓
 **音順,**음순
 ア行,아행
 カ行,카행
@@ -20511,15 +20512,15 @@ PPを<%= dungeon_point %>獲得しました！,PP를<%= dungeon_point %>획득�
 "ディール済み<br>                                <span class=""txt-numbers"">***</span>","딜 완료<br>                                <span class=""txt-numbers"">***</span>"
 "ディール済み<br>                                <span class=""txt-numbers"">**</span>","딜 완료<br>                                <span class=""txt-numbers"">**</span>"
 "ディール済み<br>                                <span class=""txt-numbers"">*</span>","딜 완료<br>                                <span class=""txt-numbers"">*</span>"
-ディールする報酬を選択してください。<br>                最も大きな数値を出した者が獲得権を得ます。<br>                また、ディールできるアイテムは*つのみとなります。
-"終了まで<span class=""cnt-deal-timer"">*分 **秒</span>"
-
-
-
-
-
-
-
+ディールする報酬を選択してください。<br>                最も大きな数値を出した者が獲得権を得ます。<br>                また、ディールできるアイテムは*つのみとなります。,"딜 할 보상을 선택해주세요.<br>                가장 큰 수치를 낸 사람이 보상을 획득할 수 있습니다.<br>                또, 딜 할 수 있는 아이템은 *개 뿐입니다."
+"終了まで<span class=""cnt-deal-timer"">*分 **秒</span>","종료까지<span class=""cnt-deal-timer"">*분 **초</span>"
+"終了まで<span class=""cnt-deal-timer"">*分 *秒</span>","종료까지<span class=""cnt-deal-timer"">*분 *초</span>"
+"終了まで<span class=""cnt-deal-timer"">**秒</span>","종료까지<span class=""cnt-deal-timer"">**초</span>"
+"終了まで<span class=""cnt-deal-timer"">*秒</span>","종료까지<span class=""cnt-deal-timer"">*초</span>"
+報酬選択,보상선택
+"ディール済み<br>				<span class=""txt-numbers"">***</span>","딜 완료<br>				<span class=""txt-numbers"">***</span>"
+"ディール済み<br>                                <span class=""txt-numbers"">**</span>","딜 완료<br>                                <span class=""txt-numbers"">**</span>"
+"ディール済み<br>                                <span class=""txt-numbers"">*</span>","딜 완료<br>                                <span class=""txt-numbers"">*</span>"
 
 
 
