@@ -1,0 +1,283 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt211015_cp2_q1_s10,synopsis,,土方、沖田と兵器について調査を進める[플레이어]。目撃証言をもとにした絵と沖田の閃きから、兵器が「ネオアームストロングサイクロンジェットアームストロング砲」であることがわかる。一行は兵器について知っている人物を探し始めるのだった。
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>土方と沖田の協力を得て、</span><br><span class='scene-font-katari'>兵器について調査を進めていた。</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>そんな中、土方が</span><br><span class='scene-font-katari'>シェロカルテにあることを質問する。</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,兵器についてだが、<br>現状でなにか情報はあるのか？
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,それがですね～<br>現状たいした情報は<br>集まってなくてですね～……
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,あるのは空に浮かぶ兵器を<br>一瞬だけ目撃した人のお話をもとに<br>描かれた絵ぐらいでして～……
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,情報としちゃ十分だ。<br>どんな兵器なのかわかれば、<br>探しやすくもなる。
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,その絵ってのは<br>どんなやつなんだ？<br>見せてくれよ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,はい～……<br>これなんですけど～……
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,うーん……<br>普通の大砲だな。<br>これが浮かんでたのか……？
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,不思議ですね……<br>でもこの大砲<br>どこにも特徴がないような……
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ちっ、<br>これじゃ手掛かりにはならねェ……
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,……土方さん。<br>これ、アレですぜィ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,あ？ 見たことあんのか？
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,ええ……こりゃあ<br>アレしかありませんよ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,だからアレってなんだよ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,<span class='scene-font-spword'>ネオアームストロングサイクロン</span><br><span class='scene-font-spword'>ジェットアームストロング砲</span>。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,<span class='scene-font-4'>はァ！？</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,この兵器のこと、<br>兄ちゃん知ってんのか！？
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,俺達の世界じゃ、<br>大体みんなしってる代物でィ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,待て待て待て、あんなんじゃねーだろ、<br>ネオアームストロングサイクロン<br>ジェットアームストロング砲は。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,これじゃただの大砲だっての。
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,そうですねィ、なーんか足りねーな。<br>完成度低っけーなオイ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,そういわれてみるとそうだな。<br>完成度低い気がしてきたな。
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,うーん……完成度低い気が……<br>さみしい気がします……
+Japanese,scene_evt211015_cp2_q1_s10,sel1_txt,,<span class='scene-font-katari'>完成度低っけーなオイ</span>
+Japanese,scene_evt211015_cp2_q1_s10,sel2_txt,,<span class='scene-font-katari'>みんな落ち着いて</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,お、やっぱ[플레이어]も<br>そう思うかィ？
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,なんか足りねェんだよな。<br>……ああ、そうだ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,ああ、そうだ。<br>玉が足りねェんだ。<br>ほら両方に丸書くと……
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>沖田はシェロカルテからペンを借り、</span><br><span class='scene-font-katari'>大砲の両脇に玉をひとつずつ</span><br><span class='scene-font-katari'>書き足した。</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,これで完成。
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,<span class='scene-font-4'>おお！！</span><br>なんでそんなこと思いつくんだ？<br>天才じゃねぇか！
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,そうだこれこれ。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ネオアームストロングサイクロン<br>ジェットアームストロング砲は<br>こうじゃなきゃな。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,とにかくこれについて<br>しってる奴がいねェか、<br>探さねェとな。
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,落ち着くも何も、<br>俺達は正気でィ。<br>ねェ土方さん。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,おう……だが、<br>こりゃアレだ、<br>何かパーツが足りねーんだ。玉か？
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,それだけじゃねェですぜィ。<br>翼も付け足さねぇと。
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,<span class='scene-font-4'>翼！？</span><br>て、天才ですか……？
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,確かにこの大砲に<br>翼が付いたら……<br>かっこよくなるかも……
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]は一行のノリに</span><br><span class='scene-font-katari'>ついていけずに肩をすくめる。</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,とにかくこれについて<br>しってる奴がいねェか、<br>探さねェとな。
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,すみません～<br>よろしくお願いします～！
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ま、慣れてるから問題ねェよ。<br>さて、捜査開始といくか。
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,よろしくお願いします、<br>ヒジカタさん！
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,さっさと行けよ、土方さん。
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,<span class='scene-font-4'>総悟！</span><br>テメーも一緒に行くんだよ！
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,へーい。
+Japanese,scene_evt211015_cp2_q2_s10,synopsis,,一方、工場では、銀時が食事の礼としておじさんの力になる、と申し出る。おじさんは遠慮するも、家族に愛想を尽かされ、仕事もクビになってしまったことを吐露する。そんな中ささやかな夢を見つけたが、他人様に迷惑をかけてまで叶えるものではない、と諦めるおじさん。しかし銀時達の励ましを受け、おじさんは夢を叶えるため再び奮起、銀時達にある依頼をするのだった。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ふぅ～食った食った……<br>腹いっぱいになるまで<br>食ったのなんていつ以来だよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,ゲップゥゥゥ～……<br>こんなにたくさん<br>食べられたの、生まれて初めてアル。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ウソつけテメー<br>家でもたいてい<br>腹パンッパンにしてるだろーが。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,銀ちゃんこそウソネ。<br>あんなひもじい家でまともな<br>食事にありついたことなんてないアル。
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,ふたりともそれぐらいにして。<br>おじさんの前だよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,皆さんは……<br>とても仲が良いのですね。<br>ご家族……ですか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,ああ、僕達は万事屋銀ちゃんっていう、<br>何でも屋を営んでて……
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,でも、そうですね。<br>家族みたいなもんです。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ふふふ……そうですか。<br>皆さんが……羨ましいです。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,…………
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なぁ、オッさん。<br>さっきも言ったが俺達、<br>万事屋やってんだ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なんか悩みがあるなら言ってみな。<br>飯の礼だ、<br>協力してやるぜ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,お金が欲しいとか<br>仕事が欲しいとかはダメアル！<br>私達が欲しいぐらいネ！
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ありがとうございます。<br>けど、大丈夫です。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,私の悩みなんて、<br>ありふれててたいしたことない……<br>話すようなことじゃありませんから。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,オッさん……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,すこし……<br>風に当たってきます。<br>皆様はゆっくりしていってください。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,たく……どこが大丈夫なんだか。<br>今にも消えちまいそうな<br>背中じゃねェか。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,オッさんがもったいぶっても<br>どこにも需要無いアル。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,とっとと吐いてしまえば<br>楽になるのに……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……ふぅ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なーに黄昏ちゃってんの、オッさん。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,み、皆さん……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,思い詰めてんだろ？<br>見りゃわかるさ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ですが、私の悩みは<br>本当にありふれていて……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ありふれた悩み抱えて<br>どこが悪りーよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,え……？
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,俺だって悩みぐれー<br>いっぱい抱えてるよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,大好きなパフェが<br>一週間にひとつしか食えねーとか……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,パチンコで全部すっちまって<br>今月も家賃払えねーとか。
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,アンタのは<br>全部自業自得ですけどね……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,どーでもいい悩みでも、<br>ひとりで抱えてたら辛くなっちまう。<br>だからガス抜きは大事なんだよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,万事屋さん……
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,話せる限りでいいので、<br>話してみてください。<br>きっと気持ちが楽になりますよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,さっき言ってた、夢の跡ってのと……<br>コイツが関係してんのか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,,<span class='scene-font-katari'>銀時はそう言うと、</span><br><span class='scene-font-katari'>懐から小さな機械人形を</span><br><span class='scene-font-katari'>取り出した。</span>
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そ、それはどこで……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,アンタが料理してる間、<br>暇だったからよ。ちょっと<br>部屋を歩いてたら見つけた。
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,す、すみません。<br>こっそり歩き回っちゃって……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,いえ、大丈夫です。<br>隠していたつもりは<br>ありませんから。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,何個も大事そうに<br>しまってたみてーだけど……<br>ここはおもちゃの工場かなんかか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,趣味で作っていたんです。<br>子供たちのために……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,子供達……<br>アンタ所帯持ちだったの。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,元、ですけどね。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そうか、悪ィな。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,いえ、お気になさらず……<br>可愛くて元気な子達でした……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,私にとって……<br>かけがえのない宝物でしたよ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,どうして過去形アルか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……失ってしまったんです。<br>いい年して仕事ばかりで……<br>家族のことなんか気にかけず……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,気が付いたころには<br>妻に愛想をつかされて……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ガキ連れて出てったってわけか。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ええ……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,どうして……大切なものは<br>失ってから気が付くんでしょうね……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,みんなそうさ。<br>失ってから大切なモンに気がつく。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ええ……ですが後悔してももう遅い。<br>ならば仕事に一筋になろうと……<br>そう決めたのですが……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,所属する組織から<br>クビを言い渡されまして……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,それからはその日暮らしをしながら、<br>子供達に想いを馳せて……あの子達に<br>いつか会えたらと思って……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ずっとおもちゃを作り続けてるんです。<br>バカですよね……
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,おじさん……
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ただ、こんな私でも、<br>ささやかな夢を見つけることが<br>できたんです。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,年甲斐もなく、<br>追いかけたいと思えた夢を……<br>もう私には、それしかなかった。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,けど……諦めました。
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,どうしてですか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,これ以上他人様に<br>迷惑をかけてまで……<br>叶える夢じゃないんです。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そう気が付いたんです。<br>……それだけのお話です。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,すみません、長々と……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,いーんじゃねェの？
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,え？
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,最後まで追っかけてみろよ。<br>オッさんが<br>人生失くして見つけたモンだ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,他人様だろうが、仏様だろうが……<br>少しの迷惑ぐらい目ェ瞑ってくれるさ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そう、ですかね……
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,そうネ。<br>それにもったいないアル。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,もったいない……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そうだ、もったいねェ。<br>他に失っちまったモンは<br>不可抗力かもしれねェが……
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,アンタは今、<br>最後の希望を自ら<br>手放そうとしてる。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そいつが何よりもったいねェ。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,…………
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,まだ足掻けるんじゃねーか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……ありがとう。
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,皆さんに出会えてよかったです。<br>もう一度だけ……<br>夢を追いかけようかと、思います。
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,よし、その調子だ。<br>目に生気が宿ってきたな。
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,銀ちゃんとは大違いネ。<br>オッさん、目が輝いてるアル！
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ふふふ……
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,僕達に応援できることがあったら、<br>なんでも言ってください！<br>できることは手を貸しますから！
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,では……お言葉に甘えて……<br>万事屋さんにお仕事を頼めますか？
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,おう、なんでも言ってくれ。
+Japanese,scene_evt211015_cp2_q3_s10,synopsis,,探し物の依頼を受けた銀時達は島中を駆け巡り、探し物である大砲の筒を見つける。工場に持ち帰るとおじさんは喜び、残りの部品を組み合わせる。完成したのはネオアームストロングサイクロンジェットアームストロング砲だった。「これでこの世界を滅ぼすという夢を叶えられます！」と歓喜するおじさんの言葉に、銀時達は唖然とするのだった。
+Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>モブおじさんから頼まれた</span><br><span class='scene-font-gray'>お仕事は、あるものを探して工場に</span><br><span class='scene-font-gray'>もってきてほしい、というものだった。</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>僕達は必死に島中を駆け巡って</span><br><span class='scene-font-gray'>おじさんの探し物を探しに、</span><br><span class='scene-font-gray'>島の果ての山に来た。</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>けど……</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,ふぅ。<br>いいことした後の労働ってのは、<br>気持ちいいもんだな、なぁ、新八。
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,めっちゃ気持ちいいネ！<br>そのまま昼寝したい<br>気分アル！ なぁ、新八。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>働いてから言えェ！</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,さっきからふたりとも<br>横になって<br>ゴロゴロしてるだけだろーがァ！
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,だってぇ～……<br>ごはん食べた後だしぃ<br>眠くなっちゃってぇ……
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,「寝る子は育つ」いうアル。<br>昼寝は大事ネ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>子供か！！</span><br>神楽ちゃんはさておき、<br>銀さん、アンタは歳考えてくださいよ！
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,あ、お前そういうこと言う？
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,歳なんて考えるほど取ってないけど？<br>銀さん、<br>心はいつだって少年なんだけど？
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,ああ、そうですか。<br>もういいですよ。<br>僕だけでも真面目に働きますから……
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,でも働く必要、もうないネ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,何言ってんの！？<br>おじさんあんなに励まして<br>放っとくつもり！？
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,最後まで聞くアル。<br>ほら、あそこ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,えっ……あ！<br>あれ……おじさんの探し物！？
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,探し物……これ、ですよね……？<br>なんだろう、大砲の筒……？
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,しかしこれ……<br>どっかで見たことがあるような……
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,うーん……なんか<br>作った記憶があるネ……<br>うーーーーん……
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,と、とりあえず運びましょう……
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,おーい、オッさん。<br>持ってきたアルよ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ありがとうございます！<br>おお……いつ見ても美しい……
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,あ、あの……<br>これって……？
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,これは私の夢……
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ネオアームストロングサイクロン<br>ジェットアームストロング砲です。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>エエエエエ！？</span><br><span class='scene-font-4'>こ、これがァ！？</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,バカ言ってんじゃねーよ。これのどこが<br>ネオアームストロングサイクロン<br>ジェットアームストロング砲だよ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,ただの大砲ネ！！ ネオアーム<br>ストロングサイクロンジェット<br>アームストロング砲を舐めんなヨ！
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,え……万事屋さん達もネオアーム<br>ストロングサイクロンジェット<br>アームストロング砲をご存知で？
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,そりゃもう有名アル。<br>しらないのはそこの眼鏡ぐらいネ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>ウソでしょ！？</span><br>やっぱみんなしってるのォ！？<br>やっぱ実在するのあの猥褻物ゥ！？
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,前も言ったけど、<br>これそういうんじゃないからね。
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,立派なネオアームストロング<br>サイクロンジェット<br>アームストロング砲だからね？
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,思春期の男子はすーぐ<br>棒みたらチンを想像するんだから。
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,最低アル。<br>コラボしてまでなに想像してるネ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,昔、ただの猥褻物って、<br>アンタらも認めてたでしょうが！！<br>僕は忘れてないからな！！
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,しかしこれがネオアームストロング<br>サイクロンジェット<br>アームストロング砲ねぇ？
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,完成度低っけーなオイ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,まぁまぁ落ち着いて……<br>そこのおふたり、隅にある<br>玉を転がしてきてもらえますか。
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,玉を……？<br>おう、これか？
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,なんかすごい<br>嫌な予感するんですけど……
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,これどうするアルか！ オッさん！
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,そのまま筒を玉で挟んでください！
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>おいィィィィ！！！</span><br>絶対最悪のフォルムになるだろそれ！<br>やめろやめろォォォォ！
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,おお……いーんじゃねェの？<br>なかなか完成度高まったんじゃねェの？
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ふふふ、そうでしょうそうでしょう。<br>実は試射した際にあまりの威力に<br>砲と玉が分離してしまいまして……
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,それで砲だけ山の方に<br>あったんですね……
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,いや、おかしくない？<br>どうやったら砲だけ飛んでくの？
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,うーん……<br>でもこれじゃ普通アル。<br>これだけじゃ物足りないネ……
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,オッさん、せっかくだし<br>翼つけてみるといいネ！
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ほう、翼！<br>天才ですか！？
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>バカだよ！</span><br><span class='scene-font-4'>ただのバカの発想だよ！！</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,では、さっそくちょうどいい<br>試作していた鋼の翼があるので……
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,なんでちょうどよくあるのォ！？
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,おお……そうか……！<br>この形か……！<br>この形が私の追い求めていた姿……！
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,完成度高っけーなオイ。
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,滑り台もつけたかったけど、<br>流石になかったアル……
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>あってたまるか！！</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ありがとうございます、<br>万事屋の皆さん！
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,これさえあれば！<br>夢を追いかけるどころか、<br>叶えることができるはずです！
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,わぁ、本当ですか。<br>よかっ──
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ついに、叶えられます！<br>この世界を滅ぼすという夢を！
+Japanese,scene_evt211015_cp2_q3_s10,detail,３人,え……？
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,……は？
+Japanese,scene_evt211015_cp2_q4_s10,synopsis,,銀時達がグランブルーファンタジーの世界にやってくる原因となった空の亀裂は、おじさんによって生み出されたものだった。自分達の励ましで世界を滅ぼす計画を再始動させてしまった事実に動揺し、とりあえず工場から逃げ出そうとする銀時。しかしその時、工場に土方、沖田、[플레이어]達が乗り込んでくるのだった。
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,あれ、聞き間違いかな～？<br>えーっと聞き間違いだよな。
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,うん、聞き間違いアル。<br>きっと聞き間違いネ。
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,でも一応、もう一度……<br>確認、しましょうか……？<br>あの、おじさん……？
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,はい？
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,おじさんの夢って……？
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,私を認めないこの腐った世界を、<br>人を、国をすべて滅ぼすことです。
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>いやァァァァァ！</span><br>聞き間違いじゃなかったァァァァァ！<br>しかもより具体的になってるゥゥゥゥ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,どうしてアルか！ どうして急に<br>世界を滅ぼすとか言い始めるアルか！<br>あんなにオッさん優しかったのに！
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,そうですよ、おじさん。<br>目を覚ましてください！
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,覚めてますよ。<br>皆様が目覚めさせてくれたんです。<br>もう一度、この夢を目指すために。
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,この世界なんて間違ってるんです。<br>全部全部間違ってるんです……
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,だから全部消してやるんです。<br>この手で……
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,この、ネオアームストロング<br>サイクロンジェット<br>アームストロング砲で！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,待て待て……<br>他人様に迷惑がかかる夢って……
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,世界を滅ぼすんですもんねぇ！<br>そりゃ迷惑かかりますよねぇ！？
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,ええ、なので躊躇していたんですが……<br>万事屋さん達のおかげで<br>吹っ切れました。
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,少しぐらい迷惑かけたって、<br>大丈夫、でしたよね！<br>ちょっと滅ぼすだけですし！
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,どこが少しだァァァァ！ なにちょっと<br>コーヒーこぼしちゃいましたみたいな<br>テンションで言ってんだァァァァ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,ネオアームストロング<br>サイクロンジェット<br>アームストロング砲の力を使えば……
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,この世界の次元に穴をあけられる……
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,ふふふ、完成度の低い状態で<br>空に亀裂をいれたぐらいなんだ……<br>きっとすごいことになるぞ……
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,えっ！？ ちょっと待って！？<br>オッさんが空に亀裂入れたの！？
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,初めてあった時に言ってた、<br>亀裂の調査って、<br>ウソってことですか！？
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,はい。
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,<span class='scene-font-4'>はいじゃねーよ！</span><br>なにさらっとウソついてんだよ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,おい、オッさん！<br>お前のせいアルか！？
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,私達がここにいるの、<br>お前のせいアルか！？
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,はい。
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,<span class='scene-font-4'>だからはいじゃねーヨ！</span><br>いい笑顔で<br>何肯定してるアルか！
+Japanese,scene_evt211015_cp2_q4_s10,detail,おじさん,さて……こうしちゃいられない。<br>すぐに作戦を決行せねば……<br>では、私はこちらで……
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>何！？</span><br><span class='scene-font-4'>何が起きるのォ！？</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,,<span class='scene-font-katari'>工場の床の一部が駆動し、</span><br><span class='scene-font-katari'>おじさんと兵器が、</span><br><span class='scene-font-katari'>徐々に地下へと下降していく。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,,<span class='scene-font-katari'>銀時達がおじさんを止めようとするも、</span><br><span class='scene-font-katari'>おじさんたちは地下深くへ姿を消した。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,３人,…………
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,ぎ、銀さん……<br>どうするんですか……？<br>これ、僕達のせいですか……？
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,このままじゃ私達のせいで……<br>コラボ先の世界が滅んでしまうアル……
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,まだ[플레이어]にすら<br>会えてないのに！<br>この世界滅びちゃうネ！！
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,<span class='scene-font-4'>い、いやだァァァァァ！！</span><br>せめてルリアちゃんとかビィ君に<br>会いたかったァァァァァ！！
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,私もお空の旅したかったアル！！！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,ふたりとも落ち着け！<br>あのオッさんの面思い出せ。
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,すごくモブだったアル……
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,そうだ。すごくモブだっただろ？<br>あんなモブ顔に何かできると思うか？<br>しかも兵器がただの猥褻物ときた。
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,あ、猥褻物って認めた。
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,この世界があんなモンで<br>滅ぶわけないだろ。
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,でもオッさん<br>すごく自信にあふれてたアル……
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,そりゃアレだ。<br>ちょっとハイになってるだけだ。<br>すぐに冷静になるさ。
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,本当アルか……？<br>世界滅びないアルか……？
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,おう、大丈──
+Japanese,scene_evt211015_cp2_q4_s10,detail,システム音,<span class='scene-font-gray'>これよりネオアームストロング</span><br><span class='scene-font-gray'>サイクロンジェット</span><br><span class='scene-font-gray'>アームストロング砲の試射を開始。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,システム音,<span class='scene-font-gray'>射撃準備用意完了。</span><br><span class='scene-font-gray'>出力５％。</span><br><span class='scene-font-gray'>３・２・１。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,システム音,<span class='scene-font-gray'>発射。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,,<span class='scene-font-katari'>耳を劈く破裂音が響いてから</span><br><span class='scene-font-katari'>しばらくして、地鳴りが轟く。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,,<span class='scene-font-katari'>銀時達が慌てて、</span><br><span class='scene-font-katari'>音の聞こえたほうを</span><br><span class='scene-font-katari'>窓からのぞく。</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,３人,…………
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,おい、新八……<br>あそこ……
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,ネオアームストロング<br>サイクロンジェット<br>アームストロング砲があった山だよな。
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,見間違いかな？<br>更地になってねェ？<br>いや、元々更地だったか……？
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,あ、あはは……<br>確かに、元々更地だったかも……
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,何言ってるネ。<br>さっきまで山あったアル。<br>今消し飛んだネ。
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>いやアアアアア！</span><br><span class='scene-font-4'>なァァんで言っちゃうかな</span><br><span class='scene-font-4'>コイツァァァァァ！</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,<span class='scene-font-4'>山が消し飛んだァ！？</span><br>たった５％の力で！？ 100％<br>だとどうなっちゃうのォォ！？
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,お、おおおお、お落ち着けェ……<br>逃げよう！ 早く逃げよう！
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,逃げてどうするんですかァ！？<br>おじさん止めないとマズいですよ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>バカ野郎！</span><br>ここにいるところを<br>見られてみろ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,オッさん焚きつけて、<br>世界を滅ぼす手助けをしたって、<br>思われちゃうかもしれねーだろ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,神楽,事実、そうアル。
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,だってしらなかったんだもん！<br>おじさんの夢が世界滅ぼすことなんて<br>しらなかったんだもん！
+Japanese,scene_evt211015_cp2_q4_s10,detail,志村新八,なにが「もん」だ！！<br>いい大人が恥ずかしい！！<br>逃げるなんてダメですよ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,わかった、とりあえず離れよう！<br>それからどうするか考えよう！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,ここにいるのを<br>誰かに見られるわけには──
+Japanese,scene_evt211015_cp2_q4_s10,detail,ビィ,<span class='scene-font-4'>おらぁ、おとなしくしろぉ！</span><br>ここに犯人がいるって<br>もうわかってんだぞ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>いやァァァァァァ！</span><br>最悪のタイミングゥゥゥゥ！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>って、あァ！？</span>
+Japanese,scene_evt211015_cp2_q4_s10,detail,土方十四郎,<span class='scene-font-4'>御用改めである！</span><br>テメーか、次元の亀裂を作った奴は。
+Japanese,scene_evt211015_cp2_q4_s10,detail,土方十四郎,神妙にお縄につき──
+Japanese,scene_evt211015_cp2_q4_s10,detail,土方十四郎,あァ？
+Japanese,scene_evt211015_cp2_q4_s10,detail,沖田総悟,あれ、旦那？
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,<span class='scene-font-4'>はァァァ！？</span><br>どーして俺達じゃなくて！
+Japanese,scene_evt211015_cp2_q4_s10,detail,坂田銀時,テメーらが<br>[플레이어]と合流してんだァァァァ！
