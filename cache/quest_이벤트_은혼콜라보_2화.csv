@@ -1,168 +1,168 @@
 Language,SceneCode,Type,Name,Origin,Korean
 Japanese,scene_evt211015_cp2_q1_s10,synopsis,,土方、沖田と兵器について調査を進める[플레이어]。目撃証言をもとにした絵と沖田の閃きから、兵器が「ネオアームストロングサイクロンジェットアームストロング砲」であることがわかる。一行は兵器について知っている人物を探し始めるのだった。,"히지카타, 오키타와 병기에 대한 조사를 진행하는 [플레이어]. 목격 증언을 토대로 한 그림과 오키타의 번뜩임으로 무기가 네오 암스트롱 사이클론 제트 암스트롱포임을 알 수 있었다. 일행은 무기에 대해 알고 있는 인물을 찾기 시작하는 것이었다."
-Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>土方と沖田の協力を得て、</span><br><span class='scene-font-katari'>兵器について調査を進めていた。</span>
-Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>そんな中、土方が</span><br><span class='scene-font-katari'>シェロカルテにあることを質問する。</span>
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,兵器についてだが、<br>現状でなにか情報はあるのか？
-Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,それがですね～<br>現状たいした情報は<br>集まってなくてですね～……
-Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,あるのは空に浮かぶ兵器を<br>一瞬だけ目撃した人のお話をもとに<br>描かれた絵ぐらいでして～……
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,情報としちゃ十分だ。<br>どんな兵器なのかわかれば、<br>探しやすくもなる。
-Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,その絵ってのは<br>どんなやつなんだ？<br>見せてくれよ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,はい～……<br>これなんですけど～……
-Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,うーん……<br>普通の大砲だな。<br>これが浮かんでたのか……？
-Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,不思議ですね……<br>でもこの大砲<br>どこにも特徴がないような……
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ちっ、<br>これじゃ手掛かりにはならねェ……
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,……土方さん。<br>これ、アレですぜィ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,あ？ 見たことあんのか？
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,ええ……こりゃあ<br>アレしかありませんよ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,だからアレってなんだよ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,<span class='scene-font-spword'>ネオアームストロングサイクロン</span><br><span class='scene-font-spword'>ジェットアームストロング砲</span>。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,<span class='scene-font-4'>はァ！？</span>
-Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,この兵器のこと、<br>兄ちゃん知ってんのか！？
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,俺達の世界じゃ、<br>大体みんなしってる代物でィ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,待て待て待て、あんなんじゃねーだろ、<br>ネオアームストロングサイクロン<br>ジェットアームストロング砲は。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,これじゃただの大砲だっての。
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,そうですねィ、なーんか足りねーな。<br>完成度低っけーなオイ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,そういわれてみるとそうだな。<br>完成度低い気がしてきたな。
-Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,うーん……完成度低い気が……<br>さみしい気がします……
-Japanese,scene_evt211015_cp2_q1_s10,sel1_txt,,<span class='scene-font-katari'>完成度低っけーなオイ</span>
-Japanese,scene_evt211015_cp2_q1_s10,sel2_txt,,<span class='scene-font-katari'>みんな落ち着いて</span>
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,お、やっぱ[플레이어]も<br>そう思うかィ？
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,なんか足りねェんだよな。<br>……ああ、そうだ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,ああ、そうだ。<br>玉が足りねェんだ。<br>ほら両方に丸書くと……
-Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>沖田はシェロカルテからペンを借り、</span><br><span class='scene-font-katari'>大砲の両脇に玉をひとつずつ</span><br><span class='scene-font-katari'>書き足した。</span>
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,これで完成。
-Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,<span class='scene-font-4'>おお！！</span><br>なんでそんなこと思いつくんだ？<br>天才じゃねぇか！
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,そうだこれこれ。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ネオアームストロングサイクロン<br>ジェットアームストロング砲は<br>こうじゃなきゃな。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,とにかくこれについて<br>しってる奴がいねェか、<br>探さねェとな。
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,落ち着くも何も、<br>俺達は正気でィ。<br>ねェ土方さん。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,おう……だが、<br>こりゃアレだ、<br>何かパーツが足りねーんだ。玉か？
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,それだけじゃねェですぜィ。<br>翼も付け足さねぇと。
-Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,<span class='scene-font-4'>翼！？</span><br>て、天才ですか……？
-Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,確かにこの大砲に<br>翼が付いたら……<br>かっこよくなるかも……
-Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]は一行のノリに</span><br><span class='scene-font-katari'>ついていけずに肩をすくめる。</span>
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,とにかくこれについて<br>しってる奴がいねェか、<br>探さねェとな。
-Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,すみません～<br>よろしくお願いします～！
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ま、慣れてるから問題ねェよ。<br>さて、捜査開始といくか。
-Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,よろしくお願いします、<br>ヒジカタさん！
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,さっさと行けよ、土方さん。
-Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,<span class='scene-font-4'>総悟！</span><br>テメーも一緒に行くんだよ！
-Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,へーい。
-Japanese,scene_evt211015_cp2_q2_s10,synopsis,,一方、工場では、銀時が食事の礼としておじさんの力になる、と申し出る。おじさんは遠慮するも、家族に愛想を尽かされ、仕事もクビになってしまったことを吐露する。そんな中ささやかな夢を見つけたが、他人様に迷惑をかけてまで叶えるものではない、と諦めるおじさん。しかし銀時達の励ましを受け、おじさんは夢を叶えるため再び奮起、銀時達にある依頼をするのだった。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ふぅ～食った食った……<br>腹いっぱいになるまで<br>食ったのなんていつ以来だよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,ゲップゥゥゥ～……<br>こんなにたくさん<br>食べられたの、生まれて初めてアル。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ウソつけテメー<br>家でもたいてい<br>腹パンッパンにしてるだろーが。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,銀ちゃんこそウソネ。<br>あんなひもじい家でまともな<br>食事にありついたことなんてないアル。
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,ふたりともそれぐらいにして。<br>おじさんの前だよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,皆さんは……<br>とても仲が良いのですね。<br>ご家族……ですか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,ああ、僕達は万事屋銀ちゃんっていう、<br>何でも屋を営んでて……
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,でも、そうですね。<br>家族みたいなもんです。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ふふふ……そうですか。<br>皆さんが……羨ましいです。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,…………
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なぁ、オッさん。<br>さっきも言ったが俺達、<br>万事屋やってんだ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なんか悩みがあるなら言ってみな。<br>飯の礼だ、<br>協力してやるぜ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,お金が欲しいとか<br>仕事が欲しいとかはダメアル！<br>私達が欲しいぐらいネ！
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ありがとうございます。<br>けど、大丈夫です。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,私の悩みなんて、<br>ありふれててたいしたことない……<br>話すようなことじゃありませんから。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,オッさん……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,すこし……<br>風に当たってきます。<br>皆様はゆっくりしていってください。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,たく……どこが大丈夫なんだか。<br>今にも消えちまいそうな<br>背中じゃねェか。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,オッさんがもったいぶっても<br>どこにも需要無いアル。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,とっとと吐いてしまえば<br>楽になるのに……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……ふぅ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なーに黄昏ちゃってんの、オッさん。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,み、皆さん……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,思い詰めてんだろ？<br>見りゃわかるさ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ですが、私の悩みは<br>本当にありふれていて……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ありふれた悩み抱えて<br>どこが悪りーよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,え……？
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,俺だって悩みぐれー<br>いっぱい抱えてるよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,大好きなパフェが<br>一週間にひとつしか食えねーとか……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,パチンコで全部すっちまって<br>今月も家賃払えねーとか。
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,アンタのは<br>全部自業自得ですけどね……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,どーでもいい悩みでも、<br>ひとりで抱えてたら辛くなっちまう。<br>だからガス抜きは大事なんだよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,万事屋さん……
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,話せる限りでいいので、<br>話してみてください。<br>きっと気持ちが楽になりますよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,さっき言ってた、夢の跡ってのと……<br>コイツが関係してんのか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,,<span class='scene-font-katari'>銀時はそう言うと、</span><br><span class='scene-font-katari'>懐から小さな機械人形を</span><br><span class='scene-font-katari'>取り出した。</span>
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そ、それはどこで……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,アンタが料理してる間、<br>暇だったからよ。ちょっと<br>部屋を歩いてたら見つけた。
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,す、すみません。<br>こっそり歩き回っちゃって……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,いえ、大丈夫です。<br>隠していたつもりは<br>ありませんから。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,何個も大事そうに<br>しまってたみてーだけど……<br>ここはおもちゃの工場かなんかか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,趣味で作っていたんです。<br>子供たちのために……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,子供達……<br>アンタ所帯持ちだったの。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,元、ですけどね。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そうか、悪ィな。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,いえ、お気になさらず……<br>可愛くて元気な子達でした……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,私にとって……<br>かけがえのない宝物でしたよ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,どうして過去形アルか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……失ってしまったんです。<br>いい年して仕事ばかりで……<br>家族のことなんか気にかけず……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,気が付いたころには<br>妻に愛想をつかされて……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ガキ連れて出てったってわけか。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ええ……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,どうして……大切なものは<br>失ってから気が付くんでしょうね……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,みんなそうさ。<br>失ってから大切なモンに気がつく。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ええ……ですが後悔してももう遅い。<br>ならば仕事に一筋になろうと……<br>そう決めたのですが……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,所属する組織から<br>クビを言い渡されまして……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,それからはその日暮らしをしながら、<br>子供達に想いを馳せて……あの子達に<br>いつか会えたらと思って……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ずっとおもちゃを作り続けてるんです。<br>バカですよね……
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,おじさん……
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ただ、こんな私でも、<br>ささやかな夢を見つけることが<br>できたんです。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,年甲斐もなく、<br>追いかけたいと思えた夢を……<br>もう私には、それしかなかった。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,けど……諦めました。
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,どうしてですか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,これ以上他人様に<br>迷惑をかけてまで……<br>叶える夢じゃないんです。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そう気が付いたんです。<br>……それだけのお話です。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,すみません、長々と……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,いーんじゃねェの？
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,え？
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,最後まで追っかけてみろよ。<br>オッさんが<br>人生失くして見つけたモンだ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,他人様だろうが、仏様だろうが……<br>少しの迷惑ぐらい目ェ瞑ってくれるさ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そう、ですかね……
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,そうネ。<br>それにもったいないアル。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,もったいない……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そうだ、もったいねェ。<br>他に失っちまったモンは<br>不可抗力かもしれねェが……
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,アンタは今、<br>最後の希望を自ら<br>手放そうとしてる。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そいつが何よりもったいねェ。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,…………
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,まだ足掻けるんじゃねーか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……ありがとう。
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,皆さんに出会えてよかったです。<br>もう一度だけ……<br>夢を追いかけようかと、思います。
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,よし、その調子だ。<br>目に生気が宿ってきたな。
-Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,銀ちゃんとは大違いネ。<br>オッさん、目が輝いてるアル！
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ふふふ……
-Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,僕達に応援できることがあったら、<br>なんでも言ってください！<br>できることは手を貸しますから！
-Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,では……お言葉に甘えて……<br>万事屋さんにお仕事を頼めますか？
-Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,おう、なんでも言ってくれ。
-Japanese,scene_evt211015_cp2_q3_s10,synopsis,,探し物の依頼を受けた銀時達は島中を駆け巡り、探し物である大砲の筒を見つける。工場に持ち帰るとおじさんは喜び、残りの部品を組み合わせる。完成したのはネオアームストロングサイクロンジェットアームストロング砲だった。「これでこの世界を滅ぼすという夢を叶えられます！」と歓喜するおじさんの言葉に、銀時達は唖然とするのだった。
-Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>モブおじさんから頼まれた</span><br><span class='scene-font-gray'>お仕事は、あるものを探して工場に</span><br><span class='scene-font-gray'>もってきてほしい、というものだった。</span>
-Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>僕達は必死に島中を駆け巡って</span><br><span class='scene-font-gray'>おじさんの探し物を探しに、</span><br><span class='scene-font-gray'>島の果ての山に来た。</span>
-Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>けど……</span>
-Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,ふぅ。<br>いいことした後の労働ってのは、<br>気持ちいいもんだな、なぁ、新八。
-Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,めっちゃ気持ちいいネ！<br>そのまま昼寝したい<br>気分アル！ なぁ、新八。
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>働いてから言えェ！</span>
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,さっきからふたりとも<br>横になって<br>ゴロゴロしてるだけだろーがァ！
-Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,だってぇ～……<br>ごはん食べた後だしぃ<br>眠くなっちゃってぇ……
-Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,「寝る子は育つ」いうアル。<br>昼寝は大事ネ。
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>子供か！！</span><br>神楽ちゃんはさておき、<br>銀さん、アンタは歳考えてくださいよ！
-Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,あ、お前そういうこと言う？
-Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,歳なんて考えるほど取ってないけど？<br>銀さん、<br>心はいつだって少年なんだけど？
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,ああ、そうですか。<br>もういいですよ。<br>僕だけでも真面目に働きますから……
-Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,でも働く必要、もうないネ。
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,何言ってんの！？<br>おじさんあんなに励まして<br>放っとくつもり！？
-Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,最後まで聞くアル。<br>ほら、あそこ。
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,えっ……あ！<br>あれ……おじさんの探し物！？
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,探し物……これ、ですよね……？<br>なんだろう、大砲の筒……？
-Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,しかしこれ……<br>どっかで見たことがあるような……
-Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,うーん……なんか<br>作った記憶があるネ……<br>うーーーーん……
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,と、とりあえず運びましょう……
-Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,おーい、オッさん。<br>持ってきたアルよ。
-Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ありがとうございます！<br>おお……いつ見ても美しい……
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,あ、あの……<br>これって……？
-Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,これは私の夢……
-Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ネオアームストロングサイクロン<br>ジェットアームストロング砲です。
-Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>エエエエエ！？</span><br><span class='scene-font-4'>こ、これがァ！？</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>土方と沖田の協力を得て、</span><br><span class='scene-font-katari'>兵器について調査を進めていた。</span>,<span class='scene-font-katari'>[플레이어] 일행은 히지카타와 오키타의 조력을 얻어 병기에 대해 조사해나가고 있었다.</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>そんな中、土方が</span><br><span class='scene-font-katari'>シェロカルテにあることを質問する。</span>,"<span class='scene-font-katari'>그러던 중, 히지카타가 셰로카르테에게 질문을 했다.</span>"
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,兵器についてだが、<br>現状でなにか情報はあるのか？,"병기에 대해서 말인데, 현 상황에서 뭔가 다른 정보는 없나?"
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,それがですね～<br>現状たいした情報は<br>集まってなくてですね～……,그게 말이죠~ 지금은 별다른 정보가 들어오질 않았어요~
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,あるのは空に浮かぶ兵器を<br>一瞬だけ目撃した人のお話をもとに<br>描かれた絵ぐらいでして～……,있는 거라곤 하늘에 떠 있던 병기를 한순간 목격했던 사람의 이야기를 토대로 그려진 그림 정도인데요~ 
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,情報としちゃ十分だ。<br>どんな兵器なのかわかれば、<br>探しやすくもなる。,충분한 정보야. 어떤 병기인지를 알 수 있다면 찾기도 쉬우니까. 
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,その絵ってのは<br>どんなやつなんだ？<br>見せてくれよ。,어떤 그림인데? 보여줘.
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,はい～……<br>これなんですけど～……,네에~ 이런 건데요...
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,うーん……<br>普通の大砲だな。<br>これが浮かんでたのか……？,으음... 평범한 대포네. 이게 떠 있었다는 건가?
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,不思議ですね……<br>でもこの大砲<br>どこにも特徴がないような……,"신기하네요. 그런데 이 대포, 특징이랄 게 없는 듯한데요."
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ちっ、<br>これじゃ手掛かりにはならねェ……,"쳇, 이래선 실마리가 잡히지 않겠군."
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,……土方さん。<br>これ、アレですぜィ。,"...히지카타 씨, 이거 그겁니다."
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,あ？ 見たことあんのか？,뭐? 본 적 있는 거냐?
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,ええ……こりゃあ<br>アレしかありませんよ。,네... 이건 그거밖에 없습니다.
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,だからアレってなんだよ。,그러니까 그게 뭔데.
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,<span class='scene-font-spword'>ネオアームストロングサイクロン</span><br><span class='scene-font-spword'>ジェットアームストロング砲</span>。,<span class='scene-font-spword'>네오 암스트롱 사이클론 제트 암스트롱 포</span>.
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,<span class='scene-font-4'>はァ！？</span>,<span class='scene-font-4'>뭐!?</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,この兵器のこと、<br>兄ちゃん知ってんのか！？,형님은 이 병기가 뭔지 아는 거야!?
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,俺達の世界じゃ、<br>大体みんなしってる代物でィ。,우리 세계에선 대부분 알고 있는 물건이죠.
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,待て待て待て、あんなんじゃねーだろ、<br>ネオアームストロングサイクロン<br>ジェットアームストロング砲は。,"잠깐잠깐, 네오 암스트롱 사이클론 제트 암스트롱 포는 이런 거 아니잖아."
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,これじゃただの大砲だっての。,이건 평범한 대포라고.
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,そうですねィ、なーんか足りねーな。<br>完成度低っけーなオイ。,그러게요. 뭔가 부족하군요. 완성도 낮잖냐 짜샤.
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,そういわれてみるとそうだな。<br>完成度低い気がしてきたな。,그 말을 들으니 그렇네. 완성도가 낮은 거 같은 느낌이 들어.
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,うーん……完成度低い気が……<br>さみしい気がします……,으음... 완성도가 낮은 느낌... 외로운 느낌이 들어요.
+Japanese,scene_evt211015_cp2_q1_s10,sel1_txt,,<span class='scene-font-katari'>完成度低っけーなオイ</span>,완성도 낮잖냐 짜샤
+Japanese,scene_evt211015_cp2_q1_s10,sel2_txt,,<span class='scene-font-katari'>みんな落ち着いて</span>,다들 진정해
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,お、やっぱ[플레이어]も<br>そう思うかィ？,"아, 역시 [플레이어]님도 그렇게 생각하심까?"
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,なんか足りねェんだよな。<br>……ああ、そうだ。,"뭔가가 부족해. ...아, 그거네."
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,ああ、そうだ。<br>玉が足りねェんだ。<br>ほら両方に丸書くと……,"아, 그래. 구슬이 없네. 이 양쪽에 이렇게 둥글게..."
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>沖田はシェロカルテからペンを借り、</span><br><span class='scene-font-katari'>大砲の両脇に玉をひとつずつ</span><br><span class='scene-font-katari'>書き足した。</span>,<span class='scene-font-katari'>오키타는 셰로카르테에게서 펜을 가져가더니 대포 양 사이드에 구슬을 하나씩 그려넣었다.</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,これで完成。,이걸로 완성.
+Japanese,scene_evt211015_cp2_q1_s10,detail,ビィ,<span class='scene-font-4'>おお！！</span><br>なんでそんなこと思いつくんだ？<br>天才じゃねぇか！,<span class='scene-font-4'>오!</span> 어떻게 그런 생각을 해냈어? 천재 아냐?
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,そうだこれこれ。,그래. 이거야 이거.
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ネオアームストロングサイクロン<br>ジェットアームストロング砲は<br>こうじゃなきゃな。,네오 암스트롱 사이클론 제트 암스트롱 포는 이래야지.
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,とにかくこれについて<br>しってる奴がいねェか、<br>探さねェとな。,아무튼 이거에 대해 아는 녀석 없는지 찾아봐야겠군.
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,落ち着くも何も、<br>俺達は正気でィ。<br>ねェ土方さん。,진정이고 뭐고 우리는 제정신임다. 그쵸 히지카타씨?
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,おう……だが、<br>こりゃアレだ、<br>何かパーツが足りねーんだ。玉か？,"그래……하지만, 이건 그거야, 뭔가 부품이 부족해. 구슬인가?"
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,それだけじゃねェですぜィ。<br>翼も付け足さねぇと。,그것만은 아님다. 날개도 붙여야.
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,<span class='scene-font-4'>翼！？</span><br>て、天才ですか……？,"<span class='scene-font-4"">날개!?/span>라니, 천재이신가요……?"
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,確かにこの大砲に<br>翼が付いたら……<br>かっこよくなるかも……,확실히.. 이 대포에 날개가 달리면.... 멋있어 질지도 몰라요...
+Japanese,scene_evt211015_cp2_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]は一行のノリに</span><br><span class='scene-font-katari'>ついていけずに肩をすくめる。</span>,<span class='scene-font-katari'>[플레이어]는 일행의 흐름을 따라가지 못하고 어깨를 으쓱한다.</span>
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,とにかくこれについて<br>しってる奴がいねェか、<br>探さねェとな。,"어쨌든 이것에 대해 아는 사람이 있는지, 찾아보자고."
+Japanese,scene_evt211015_cp2_q1_s10,detail,シェロカルテ,すみません～<br>よろしくお願いします～！,죄송합니다~ 잘 부탁드립니다~!
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,ま、慣れてるから問題ねェよ。<br>さて、捜査開始といくか。,"뭐, 익숙하니까 괜찮아. 그럼 조사를 개시해 보실까."
+Japanese,scene_evt211015_cp2_q1_s10,detail,ルリア,よろしくお願いします、<br>ヒジカタさん！,"잘 부탁드려요, 히지카타 씨!"
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,さっさと行けよ、土方さん。,"빨리 가십쇼, 히지카타 씨."
+Japanese,scene_evt211015_cp2_q1_s10,detail,土方十四郎,<span class='scene-font-4'>総悟！</span><br>テメーも一緒に行くんだよ！,<span class='scene-font-4'>소고!</span> 네놈도 같이 가는 거야!
+Japanese,scene_evt211015_cp2_q1_s10,detail,沖田総悟,へーい。,예~이.
+Japanese,scene_evt211015_cp2_q2_s10,synopsis,,一方、工場では、銀時が食事の礼としておじさんの力になる、と申し出る。おじさんは遠慮するも、家族に愛想を尽かされ、仕事もクビになってしまったことを吐露する。そんな中ささやかな夢を見つけたが、他人様に迷惑をかけてまで叶えるものではない、と諦めるおじさん。しかし銀時達の励ましを受け、おじさんは夢を叶えるため再び奮起、銀時達にある依頼をするのだった。,"한편, 공장에서는 긴토키가 식사에 대한 예로 아저씨를 돕자고 제의한다. 아저씨는 사양하지만 가족들에게 버림받고 일도 그만두게 되었음을 토로한다. 그러던 중 자그마한 꿈을 발견했지만 남에게 폐를 끼치면서까지 이룰 수 있는 것이 아니라고 단념하는 아저씨. 그러나 긴토키 일행의 격려를 받고 아저씨는 꿈을 이루기 위해 다시 분발하여 긴토키 일행에게 어떤 부탁을 하는 것이었다."
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ふぅ～食った食った……<br>腹いっぱいになるまで<br>食ったのなんていつ以来だよ。,후우~ 잘 먹었다. 이렇게 배부를 때까지 먹은 게 얼마만이지.
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,ゲップゥゥゥ～……<br>こんなにたくさん<br>食べられたの、生まれて初めてアル。,"꺼억~ 이렇게 잔뜩 먹은 건 태어나서 처음이다, 해."
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ウソつけテメー<br>家でもたいてい<br>腹パンッパンにしてるだろーが。,"뻥 치지 마, 짜샤. 집에서도 웬만하면 배 빵빵해질 때까지 잔뜩 먹잖아."
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,銀ちゃんこそウソネ。<br>あんなひもじい家でまともな<br>食事にありついたことなんてないアル。,"긴쨩이야말로 뻥 치네. 그런 빈곤한 집에서 제대로 된 밥 얻어먹은 적 없다, 해."
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,ふたりともそれぐらいにして。<br>おじさんの前だよ。,"둘 다 적당히 해요, 아저씨 계시잖아요."
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,皆さんは……<br>とても仲が良いのですね。<br>ご家族……ですか？,여러분은 대단히 사이가 좋으시군요. 가족 분들... 인가요?
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,ああ、僕達は万事屋銀ちゃんっていう、<br>何でも屋を営んでて……,"아, 저희는 해결사 긴쨩이라고, 말하자면 심부름 센터같은 걸 하고 있어요."
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,でも、そうですね。<br>家族みたいなもんです。,그치만... 그렇네요. 가족같은 거죠.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ふふふ……そうですか。<br>皆さんが……羨ましいです。,후후... 그런가요. 여러분이 부럽네요.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,…………,…………
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なぁ、オッさん。<br>さっきも言ったが俺達、<br>万事屋やってんだ。,저기 아저씨. 방금 전에도 말했지만 우리 해결사거든.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なんか悩みがあるなら言ってみな。<br>飯の礼だ、<br>協力してやるぜ。,뭔가 고민이라도 있으면 말해 봐. 밥도 얻어먹었으니 도와줄게.
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,お金が欲しいとか<br>仕事が欲しいとかはダメアル！<br>私達が欲しいぐらいネ！,"돈이 필요하다던가 일이 필요하다던가 하는 건 안 된다, 해! 오히려 우리가 필요하니까."
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ありがとうございます。<br>けど、大丈夫です。,감사합니다. 하지만 괜찮습니다.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,私の悩みなんて、<br>ありふれててたいしたことない……<br>話すようなことじゃありませんから。,제 고민같은 건 너무 흔해빠져서 이야기할 가치도 없는 거니까요.
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,オッさん……,아저씨...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,すこし……<br>風に当たってきます。<br>皆様はゆっくりしていってください。,잠시 바람 좀 쐬고 오겠습니다. 여러분은 편히 쉬고 계세요.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,たく……どこが大丈夫なんだか。<br>今にも消えちまいそうな<br>背中じゃねェか。,하여간... 괜찮긴 어디가 괜찮아. 당장이라도 어딘가로 사라질 듯한 뒷모습을 해 가지고. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,オッさんがもったいぶっても<br>どこにも需要無いアル。,"아저씨가 사연 있는 척해봤자 어차피 수요 없다, 해."
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,とっとと吐いてしまえば<br>楽になるのに……,빨리 불면 편해질 수 있을 텐데...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……ふぅ。,...후우.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,なーに黄昏ちゃってんの、オッさん。,"왜 그렇게 시들시들해, 아저씨."
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,み、皆さん……,"여, 여러분..."
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,思い詰めてんだろ？<br>見りゃわかるさ。,고민이 있는 거지? 보면 알아. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ですが、私の悩みは<br>本当にありふれていて……,그치만 제 고민은 정말 흔해빠진 거라서...
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ありふれた悩み抱えて<br>どこが悪りーよ。,흔해빠진 고민이라는 게 무슨 문제야.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,え……？,네...?
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,俺だって悩みぐれー<br>いっぱい抱えてるよ。,나도 고민같은 건 잔뜩 안고 있어.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,大好きなパフェが<br>一週間にひとつしか食えねーとか……,"완전 좋아하는 파르페를 일주일에 하나밖에 먹지 못한다던가,"
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,パチンコで全部すっちまって<br>今月も家賃払えねーとか。,파칭코에서 죄다 날리는 바람에 이번달도 집세 못 낸다던가. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,アンタのは<br>全部自業自得ですけどね……,당신 고민은 전부 자업자득인데요. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,どーでもいい悩みでも、<br>ひとりで抱えてたら辛くなっちまう。<br>だからガス抜きは大事なんだよ。,아무것도 아닌 고민이라고 해도 혼자 껴안고 있으면 더 괴로워져. 그러니 털어놓는 것도 중요하지. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,万事屋さん……,해결사 씨...
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,話せる限りでいいので、<br>話してみてください。<br>きっと気持ちが楽になりますよ。,그냥 말씀만 하셔도 되니까 털어놓아 보세요. 분명 마음이 편해질 거예요.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,さっき言ってた、夢の跡ってのと……<br>コイツが関係してんのか？,아까 말했던 꿈의 흔적이라는 거랑 이거랑 관계 있어?
+Japanese,scene_evt211015_cp2_q2_s10,detail,,<span class='scene-font-katari'>銀時はそう言うと、</span><br><span class='scene-font-katari'>懐から小さな機械人形を</span><br><span class='scene-font-katari'>取り出した。</span>,<span class='scene-font-katari'>긴토키는 그렇게 말하며 품에서 작은 기계 인형을 꺼내들었다.</span>
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そ、それはどこで……,"그, 그건 어디서..."
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,アンタが料理してる間、<br>暇だったからよ。ちょっと<br>部屋を歩いてたら見つけた。,당신이 요리하는 사이에 심심하길래 여기저기 돌아다니다 발견했어.
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,す、すみません。<br>こっそり歩き回っちゃって……,죄송합니다. 몰래 돌아다녀서...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,いえ、大丈夫です。<br>隠していたつもりは<br>ありませんから。,"아뇨, 괜찮습니다. 숨기려고 했던 건 아니니까요."
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,何個も大事そうに<br>しまってたみてーだけど……<br>ここはおもちゃの工場かなんかか？,몇 개씩이나 소중하게 보관되어 있던데... 여긴 장난감 공장이나 뭐 그런 거였나?
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,趣味で作っていたんです。<br>子供たちのために……,취미로 만들고 있었습니다. 아이들을 위해서...
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,子供達……<br>アンタ所帯持ちだったの。,아이들... 당신 가족이 있었어?
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,元、ですけどね。,예전에는 말이죠.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そうか、悪ィな。,"아, 그래. 미안."
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,いえ、お気になさらず……<br>可愛くて元気な子達でした……,"아닙니다, 신경쓰지 마세요. 귀엽고 활발한 아이들이었죠."
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,私にとって……<br>かけがえのない宝物でしたよ。,제겐 무엇과도 바꿀 수 없는 보물이었습니다. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,どうして過去形アルか？,"왜 과거형이냐, 해?"
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……失ってしまったんです。<br>いい年して仕事ばかりで……<br>家族のことなんか気にかけず……,...잃어버렸거든요. 이 나이를 먹고서도 일만 하면서 가족들은 돌보지도 않다가...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,気が付いたころには<br>妻に愛想をつかされて……,정신이 들고 보니 아내가 저한테 완전히 정이 떨어졌는지...
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,ガキ連れて出てったってわけか。,애들 데리고 나가 버렸다 이건가.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ええ……,예...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,どうして……大切なものは<br>失ってから気が付くんでしょうね……,소중한 것들은 왜 잃고 나서야 깨닫게 되는 걸까요.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,みんなそうさ。<br>失ってから大切なモンに気がつく。,누구나 그래. 잃어버린 후에야 소중했다는 걸 알게 되지. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ええ……ですが後悔してももう遅い。<br>ならば仕事に一筋になろうと……<br>そう決めたのですが……,"맞습니다. 하지만 후회해도 이미 늦었죠. 그렇다면 일에라도 집중하자고 생각했는데,"
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,所属する組織から<br>クビを言い渡されまして……,소속되어 있던 조직에서 잘리는 바람에...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,それからはその日暮らしをしながら、<br>子供達に想いを馳せて……あの子達に<br>いつか会えたらと思って……,그로부터는 그날 벌어 그날 먹고 살면서 아이들을 생각했죠. 언젠가 만날 수 있었으면 하고...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ずっとおもちゃを作り続けてるんです。<br>バカですよね……,계속 장난감을 만들고 있었습니다. 바보같죠?
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,おじさん……,아저씨...
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ただ、こんな私でも、<br>ささやかな夢を見つけることが<br>できたんです。,다만 이런 저라도 작은 꿈을 찾을 수는 있었습니다.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,年甲斐もなく、<br>追いかけたいと思えた夢を……<br>もう私には、それしかなかった。,나잇살 먹은 보람도 없이 쫓아가고 싶었던 꿈. 제게 남은 건 그것밖에 없었죠.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,けど……諦めました。,하지만... 포기했습니다.
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,どうしてですか？,어째서인가요?
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,これ以上他人様に<br>迷惑をかけてまで……<br>叶える夢じゃないんです。,이 이상 다른 사람들에게 폐를 끼쳐가면서 이룰 만한 꿈이 아니라서요.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そう気が付いたんです。<br>……それだけのお話です。,문득 깨닫게 되더군요. ...그냥 그런 이야기입니다.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,すみません、長々と……,죄송합니다. 이야기가 길었죠.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,いーんじゃねェの？,해도 되지 않아?
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,え？,예?
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,最後まで追っかけてみろよ。<br>オッさんが<br>人生失くして見つけたモンだ。,마지막까지 쫓아가 보라고. 아저씨가 인생을 잃고 나서 찾아낸 거잖아.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,他人様だろうが、仏様だろうが……<br>少しの迷惑ぐらい目ェ瞑ってくれるさ。,주변사람들도 그 정도 작은 민폐는 눈감아 주겠지. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,そう、ですかね……,그럴까요...
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,そうネ。<br>それにもったいないアル。,"맞아! 그리고 아깝다, 해. "
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,もったいない……,아깝다라...
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そうだ、もったいねェ。<br>他に失っちまったモンは<br>不可抗力かもしれねェが……,"그래, 아까워. 이미 잃어버린 다른 것들은 불가항력이라고 해도,"
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,アンタは今、<br>最後の希望を自ら<br>手放そうとしてる。,당신은 지금 최후의 희망을 직접 떠나보내려 하고 있잖아.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,そいつが何よりもったいねェ。,그게 무엇보다 아까운 거야. 
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,…………,…………
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,まだ足掻けるんじゃねーか？,좀 더 발버둥쳐 보지 그래?
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,……ありがとう。,...고맙습니다.
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,皆さんに出会えてよかったです。<br>もう一度だけ……<br>夢を追いかけようかと、思います。,여러분과 만나서 다행입니다. 한 번만 더... 꿈을 쫓아가 볼까 싶습니다.
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,よし、その調子だ。<br>目に生気が宿ってきたな。,그래. 그 자세야. 눈에 생기가 돌아왔네.
+Japanese,scene_evt211015_cp2_q2_s10,detail,神楽,銀ちゃんとは大違いネ。<br>オッさん、目が輝いてるアル！,"긴쨩하고는 완전 다르네. 아저씨, 눈이 반짝거린다, 해!"
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,ふふふ……,후후후...
+Japanese,scene_evt211015_cp2_q2_s10,detail,志村新八,僕達に応援できることがあったら、<br>なんでも言ってください！<br>できることは手を貸しますから！,저희가 할 수 있는 일이 있으면 뭐든지 말씀하세요! 가능한 일이라면 도와드릴게요!
+Japanese,scene_evt211015_cp2_q2_s10,detail,おじさん,では……お言葉に甘えて……<br>万事屋さんにお仕事を頼めますか？,그럼 말씀대로... 해결사 분들께 일을 좀 부탁드려도 될까요?
+Japanese,scene_evt211015_cp2_q2_s10,detail,坂田銀時,おう、なんでも言ってくれ。,그럼. 뭐든지 말만 해.
+Japanese,scene_evt211015_cp2_q3_s10,synopsis,,探し物の依頼を受けた銀時達は島中を駆け巡り、探し物である大砲の筒を見つける。工場に持ち帰るとおじさんは喜び、残りの部品を組み合わせる。完成したのはネオアームストロングサイクロンジェットアームストロング砲だった。「これでこの世界を滅ぼすという夢を叶えられます！」と歓喜するおじさんの言葉に、銀時達は唖然とするのだった。,"의뢰를 받은 긴토키 일행은 섬을 돌아다니며 찾고있던 대포의 통을 발견한다. 공장에 가져가니 아저씨는 기뻐하며 나머지 부품을 조합한다. 완성된 것은 네오암스트롱사이클론 제트암스트롱포였다. ""이만하면 이 세상을 멸망시키겠다는 꿈을 이룰 수 있습니다!""라고 환희하는 아저씨의 말에 긴토키 일행은 아연실색하는 것이었다."
+Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>モブおじさんから頼まれた</span><br><span class='scene-font-gray'>お仕事は、あるものを探して工場に</span><br><span class='scene-font-gray'>もってきてほしい、というものだった。</span>,<span class='scene-font-gray'>엑스트라 아저씨한테 부탁받은 일은 어떤 물건을 찾아내어 공장으로 가져와 달라는 것이었다.</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>僕達は必死に島中を駆け巡って</span><br><span class='scene-font-gray'>おじさんの探し物を探しに、</span><br><span class='scene-font-gray'>島の果ての山に来た。</span>,"<span class='scene-font-gray'>우리들은 필사적으로 섬 전체를 돌며 아저씨가 부탁한 물건을 찾아다녔고, 그러다 섬 끝에 있는 산까지 왔다.</span>"
+Japanese,scene_evt211015_cp2_q3_s10,detail,,<span class='scene-font-gray'>けど……</span>,<span class='scene-font-gray'>하지만...</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,ふぅ。<br>いいことした後の労働ってのは、<br>気持ちいいもんだな、なぁ、新八。,"후우. 착한 일 하고 난 후의 노동이란 기분이 좋구만. 안 그러냐, 신파치?"
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,めっちゃ気持ちいいネ！<br>そのまま昼寝したい<br>気分アル！ なぁ、新八。,"엄청 기분 좋아! 이대로 낮잠 자고 싶은 정도다, 해! 안 그래, 신파치?"
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>働いてから言えェ！</span>,<span class='scene-font-4'>일하고 나서 말하라고!!!</span>
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,さっきからふたりとも<br>横になって<br>ゴロゴロしてるだけだろーがァ！,아까부터 너희 둘 다 드러누워서 뒹굴고 있을 뿐이잖아! 
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,だってぇ～……<br>ごはん食べた後だしぃ<br>眠くなっちゃってぇ……,그치만 밥 먹은 후라서 졸리단 말야...
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,「寝る子は育つ」いうアル。<br>昼寝は大事ネ。,"""잘 자는 아이가 쑥쑥 큰다""는 말도 있다, 해. 낮잠은 중요하다, 해. "
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>子供か！！</span><br>神楽ちゃんはさておき、<br>銀さん、アンタは歳考えてくださいよ！,"<span class='scene-font-4'>너희가 애냐?!</span> 카구라쨩은 그렇다치고 긴상, 당신은 나이를 좀 생각하시지!"
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,あ、お前そういうこと言う？,"어, 그런 소리 하기야?"
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,歳なんて考えるほど取ってないけど？<br>銀さん、<br>心はいつだって少年なんだけど？,"생각할 만큼 나이 많이 안 먹었거든? 긴상, 마음만은 항상 소년이거든?"
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,ああ、そうですか。<br>もういいですよ。<br>僕だけでも真面目に働きますから……,"아, 그러세요. 됐어요 그럼. 저 혼자만이라도 성실하게 일할 테니까..."
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,でも働く必要、もうないネ。,"그치만 더 이상 일할 필요 없다, 해."
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,何言ってんの！？<br>おじさんあんなに励まして<br>放っとくつもり！？,무슨 소리야! 아저씨를 그렇게 격려해 놓고 내팽개칠 생각이야?
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,最後まで聞くアル。<br>ほら、あそこ。,"마지막까지 들어라, 해. 저기 봐."
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,えっ……あ！<br>あれ……おじさんの探し物！？,어... 아! 저건... 아저씨가 찾던 것?
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,探し物……これ、ですよね……？<br>なんだろう、大砲の筒……？,찾던 거... 이거 맞죠? 이게 뭐지. 대포 포신...?
+Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,しかしこれ……<br>どっかで見たことがあるような……,그나저나 이거 어디서 본 적 있는 것 같은데...
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,うーん……なんか<br>作った記憶があるネ……<br>うーーーーん……,"으음... 뭔가 만든 기억이 있다, 해. 으음..."
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,と、とりあえず運びましょう……,"이, 일단은 가져가죠..."
+Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,おーい、オッさん。<br>持ってきたアルよ。,"어이~ 아저씨. 가져왔다, 해."
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ありがとうございます！<br>おお……いつ見ても美しい……,감사합니다! 아아... 언제 봐도 아름다워...
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,あ、あの……<br>これって……？,저기... 이게 뭐죠?
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,これは私の夢……,이것은 저의 꿈... 
+Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,ネオアームストロングサイクロン<br>ジェットアームストロング砲です。,네오 암스트롱 사이클론 제트 암스트롱 포입니다. 
+Japanese,scene_evt211015_cp2_q3_s10,detail,志村新八,<span class='scene-font-4'>エエエエエ！？</span><br><span class='scene-font-4'>こ、これがァ！？</span>,"<span class='scene-font-4'>네에에에!? 이, 이게요?</span>"
 Japanese,scene_evt211015_cp2_q3_s10,detail,坂田銀時,バカ言ってんじゃねーよ。これのどこが<br>ネオアームストロングサイクロン<br>ジェットアームストロング砲だよ。
 Japanese,scene_evt211015_cp2_q3_s10,detail,神楽,ただの大砲ネ！！ ネオアーム<br>ストロングサイクロンジェット<br>アームストロング砲を舐めんなヨ！
 Japanese,scene_evt211015_cp2_q3_s10,detail,おじさん,え……万事屋さん達もネオアーム<br>ストロングサイクロンジェット<br>アームストロング砲をご存知で？
