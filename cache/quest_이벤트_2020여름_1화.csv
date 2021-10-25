@@ -1,0 +1,488 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",synopsis,,大食い大会の予選当日。[플레이어]一行は会場である<span class='scene-font-place'>アウギュステ</span>に降り立ち、大会参加者であるレッドラック、ルリア、コルル、アーミラ、レオナを連れて、大会前の余暇を自由に過ごしていた。やがてシェロカルテが挨拶がてら、ルール説明を行うため呼びかけにやって来る。一行はシェロカルテに案内されて会場に向かうのだった。,"많이 먹기 대회 예선 당일. [플레이어] 일행은 대회장소인 <span class='scene-font-place'>아우규스테</span>에 내려, 대회 참가자인 래드락, 루리아, 코루루, 아미라, 리오나와 함께 대회전의 여가를 자유롭게 보내고 있었다. 이윽고, 셰로카르테가 인사를 겸하여 규칙 설명을 하기 위해 말을 걸어온다. 일행은 셰로카르테에게 안내를 받으며 대회장을 향했다."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>シェロカルテの訪問から数日後。</span>,<span class='scene-font-katari'>셰로카르테가 방문한 후 며칠이 지났다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>大食い大会に参加するため、会場である</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>のビーチを訪れていた。</span>,<span class='scene-font-katari'>[플레이어] 일행은</span><br><span class='scene-font-katari'>많이 먹기 대회에 참가하기 위해 </span><br><span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'> 비치에 와 있었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>は観光地として名高く、</span><br><span class='scene-font-katari'>一行は大会前の空き時間、各々</span><br><span class='scene-font-katari'>羽を伸ばしていた。</span>,"<span class='scene-font-place'>아우규스테</span><span class='scene-font-katari'>는 관광지로도 유명한 곳이었기 때문에,</span><br><span class='scene-font-katari'>일행은 대회가 시작하기 전의 시간을 틈타 </span><br><span class='scene-font-katari'>각자 여유를 즐겼다.</span>"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,ほぇ～！<br>デッカイでごんす！,오~ <br>엄청 넓소이다!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,이오,でしょでしょ！<br>この水の中に、数え切れないくらい<br>たくさんの生き物が棲んでるのよ。,"그치 그치? <br>이 물 속에, 물고기들이 세지도 못할 만큼 <br>엄청 많이 살고 있어."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,たくさんの……<br>これが、海……！,엄청 많이... <br>이게 바다...!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>コルル──</span><br><span class='scene-font-katari'>空腹で行き倒れていた彼女と出会い、</span><br><span class='scene-font-katari'>闘技場で日銭を稼いでいると知るが……</span>,<span class='scene-font-katari'>코루루──</span><br><span class='scene-font-katari'>배가 고파 쓰러져 있던 코루루와 만난 [플레이어]은 </span><br><span class='scene-font-katari'>그녀가 격투장에서 돈을 벌며 살아가고 있다는</span><br><span class='scene-font-katari'>사실을 알게 되었다. </span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>一行が雇い主のピンハネを指摘し、</span><br><span class='scene-font-katari'>縁を切って身寄りがなくなった彼女を</span><br><span class='scene-font-katari'>団に迎え入れたのだった。</span>,<span class='scene-font-katari'>이후 그녀를 고용하고 있던 사람이 </span><br><span class='scene-font-katari'>돈을 빼돌리고 있다는 사실을 알게되어</span><br><span class='scene-font-katari'>갈 곳이 없어진 그녀를 단으로 받아들이게 </span><br><span class='scene-font-katari'>된 것이었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,イオ！<br>もっと海に近付き申さぬか！,이오! <br>바다에 더 가깝게 가 봐도 괜찮겠소이까?
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,이오,いいけど、樹クラゲには気を付けてね。<br>まだウロウロしてるみたいだから。,"괜찮은데, 나무 해파리 조심해. <br>또 여기저기 떠다니고 있다는 모양이니까."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,無論！,물론이외다!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>コルルは快活に返事をして</span><br><span class='scene-font-katari'>海に近付くと、緩やかな波が</span><br><span class='scene-font-katari'>足元に打ち寄せる。</span>,"<span class='scene-font-katari'>밝게 대답한 코루루가 바다 근처로 다가서자, </span><br><span class='scene-font-katari'>부드러운 파도가 그녀의 발밑으로 밀려들었다.</span>"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,お、おおおお……！？<br>ひんやり冷たくて、<br>と～っても気持ちいいでごんす！,"어, 어어어어...! <br>서늘하고 차갑고, <br>엄~청 기분이 좋소이다!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,이오,ふふ、泳ぐと<br>も～っと気持ちいいわよ！,"후후, 수영하면 <br>더 엄~청 기분 좋아!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,ふむ、ならば早速……！,"음, 그럼 지금 바로...!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,이오,あっ、コルル！？<br>いきなり飛び込んだら──,"어, 코루루!? <br>그렇게 갑자기 뛰어들면──"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,～～～～～～っ！！？,~~~~~~~!!?
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>コルルは海水のしょっぱさに</span><br><span class='scene-font-katari'>面食らい、飛び上がって</span><br><span class='scene-font-katari'>すぐさま浜辺に戻ってくる。</span>,<span class='scene-font-katari'>코루루는 짠 바닷물에 깜짝 놀라 뛰쳐나오더니</span><br><span class='scene-font-katari'>후다닥 모래밭으로 돌아왔다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,けほっ、けほっ……<br>お、驚き申した……,"쿨럭, 쿨럭.... <br>까, 깜짝 놀랐소이다..."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,이오,だから言ったのに……<br>海には塩分が混じってて、<br>川とか湖とは違うんだから。,그러니까 말했잖아...<br>바다에는 염분이 섞여 있어서 <br>강이나 호수하고는 다르거든.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,코루루,これほど奇怪な環境で生きる<br>生物がいるとは……<br>海は不思議がいっぱいであり申す！,이렇게 기괴한 환경에서 살아가는 <br>생물들이 있다니... <br>바다에는 신비함이 가득하외다!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>コルルは海の神秘に魅入られ、</span><br><span class='scene-font-katari'>無邪気に目を輝かせる。</span>,<span class='scene-font-katari'>코루루는 바다의 신비함에 매료되어 </span><br><span class='scene-font-katari'>눈을 천진난만하게 반짝거렸다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>その近くでは、もうひとりの少女が</span><br><span class='scene-font-katari'>初めて見る海に</span><br><span class='scene-font-katari'>茫然と立ち尽くしていた。</span>,<span class='scene-font-katari'>그 곁에는 또 한 명의 소녀가 </span><br><span class='scene-font-katari'>처음 보는 바다의 모습에 멍하니 서 있었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,大きい……これが、海……,크다... 이게 바다구나...
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,마물,────……,────……
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,あ……<br>ねえ、キミ。<br>ヘルヘイムへの行き方、わかった？,"아... 저기, 네미. <br>헬헤임에 어떻게 가는지는 알아냈어?"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,마물,────……,────……
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,そう……<br>みんな聞いたことなかった……<br>ありがとう。,그렇구나... <br>다들 들어본 적도 없다고 했다고? <br>고마워.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,……な、なあ、アーミラ。<br>あんま変なのと<br>関わり合うもんじゃねぇぜ？,"...저, 저기 아미라. <br>저런 이상한 녀석들은 가까이하지 않는 게 좋아."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,どうして？ みんな親切だった。<br>ヘルヘイムは知らないけど<br>美味しいものはたくさん知ってるって。,왜? 다들 친절하던데.<br>헬헤임이 어딘지는 모르지만 <br>맛있는 건 잔뜩 알고 있댔어.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>アーミラ──</span><br><span class='scene-font-katari'>ある日突然、空から現れて</span><br><span class='scene-font-katari'>[플레이어]達の艇に落下した少女。</span>,<span class='scene-font-katari'>아미라──</span><br><span class='scene-font-katari'>어느 날 하늘에서 [플레이어]의 기공정 위로 떨어진 소녀였다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>母親に会うべく、</span><br><span class='scene-font-katari'>母親が待つヘルヘイムという場所を</span><br><span class='scene-font-katari'>探し求めていたところ……</span>,"<span class='scene-font-katari'>그녀는 자신을 기다리고 있는 어머니를 만나기</span><br><span class='scene-font-katari'>위해 헬헤임이라는 장소를 찾아다니고 있었는데,</span>"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>かつて[플레이어]の父が</span><br><span class='scene-font-katari'>ヘルヘイムの場所を語っていたと知り、</span><br><span class='scene-font-katari'>一行の旅に同行したのだった。</span>,<span class='scene-font-katari'>[플레이어]의 아버지가</span><br><span class='scene-font-katari'>전에 헬헤임이라는 장소에 대해 말했다는 이야기를 </span><br><span class='scene-font-katari'>듣고 일행과 함께 여행하게 된 것이었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,見て、カニもくれた。,이거 봐. 게도 받았어.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,게,…………,…………
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,お、おう……,"어, 그래..."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,あむっ！,우적!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,って、おい！<br>食べちまうのかよ！？,"야, 야! <br>그걸 그렇게 먹냐!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,아미라,もぐもぐ……<br>かたい……たべづらい……,우물우물... <br>딱딱해... 먹기 힘들어.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,ったく……<br>そりゃ火ぃ通して<br>殻むいて食うもんだからよ……,하아... <br>그야 그건 굽거나 찐 다음에 <br>껍질 벗기고 먹는 거니까...
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레오나,あはは……<br>大会前なのに、皆自由だね。,아하하... <br>대회 시작 전인데 다들 여유가 넘치네.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레오나,私なんて、始まる前から<br>緊張して落ち着かないのに……,난 시작하기도 전부터 <br>긴장되어서 견딜 수가 없는데.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>レオナ──</span><br><span class='scene-font-katari'>イデルバ王国にて、義理の弟カイン</span><br><span class='scene-font-katari'>率いる部隊の副官を務める女性である。</span>,<span class='scene-font-katari'>레오나──</span><br><span class='scene-font-katari'>그녀는 이데르바 왕국에서 의동생인 카인이</span><br><span class='scene-font-katari'>이끄는 부대의 부관을 맡고 있는 여성이었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>一行がナル・グランデ空域に降り立ち、</span><br><span class='scene-font-katari'>カインに保護されたのをきっかけに、</span><br><span class='scene-font-katari'>レオナとも縁を築いたのだった。</span>,<span class='scene-font-katari'>일행이 나루 그랑데 공역에 떨어졌을 때</span><br><span class='scene-font-katari'>카인에게 보호받은 것을 계기로</span><br><span class='scene-font-katari'>레오나와도 친해지게 된 것이었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,あいつらは別に、優勝目指してる<br>ってワケじゃねぇからな。,저 녀석들은 딱히 우승을 목표로<br>하고 있는 것도 아니니까.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,レオナの姐さんだって、<br>よく食うって理由で<br>他の団員から勧められただけだろ？,레오나 누님도 그저 잘 먹는다는 이유로<br>다른 단원들한테 추천받은 것뿐이지 않아?
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레오나,そうなんだけど……<br>真面目に参加してる人達を見てたら、<br>遊び半分って感じが申し訳なくて……,그건 그런데...<br>진지하게 참가하고 있는 사람들을 보니까<br>반쯤 장난삼아 왔던 것이 괜히 머쓱해져서...
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,루리아,そんなことありませんよ！<br>シェロさんも、楽しむことが<br>一番だって言ってましたから！,그러실 거 없어요!<br>셰로 씨도 즐기는 것이 제일 중요하다고 했는걸요!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,루리아,私も参加しますし、<br>一緒に楽しみましょう！<br>レオナさん！,저도 참가하니까 같이 즐겨봐요!<br>레오나 씨!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레오나,……うん、そうだね。<br>楽しい思い出作ろっか、ルリアちゃん。,"...응, 그래야지.<br>즐거운 추억을 만들자, 루리아쨩."
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,はははっ、それでいいんじゃねぇか？<br>勝負事でも楽しむって気持ちは<br>大事だぞ？,"하하하, 그러면 된 거 아니겠나!<br>승부에 있어서도 즐기는 마음가짐이 중요한 거야!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,それに、優勝は<br>俺がもらってくからな！,그리고 이 승리는<br>내가 가져갈 거다!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,おお、おっさん！<br>やっぱおっさんも参加すんだな！,"어, 아저씨!<br>역시 아저씨도 참가하는구나!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,あったりめぇだろ！<br>大食い大会って聞いて<br>黙ってられるかってんだ！,당연하지!<br>많이 먹기 대회라는 말을 듣고<br>가만히 있을 수 있겠나!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>レッドラック──</span><br><span class='scene-font-katari'>フードファイターとして名を馳せる、</span><br><span class='scene-font-katari'>ゼエン教の僧侶。</span>,<span class='scene-font-katari'>레드락──</span><br><span class='scene-font-katari'>그는 푸드 파이터로 이름높은 제엔교의 승려였다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>僧侶ながら、大食い大会と聞いては</span><br><span class='scene-font-katari'>各地を飛び回り賞金を荒稼ぎしている</span><br><span class='scene-font-katari'>豪快な人物である。</span>,<span class='scene-font-katari'>승려라고는 하지만 많이 먹기 대회라는 소리만</span><br><span class='scene-font-katari'>들으면 부리나케 뛰어가 상금을 타내곤 하는</span><br><span class='scene-font-katari'>호쾌한 인물이었다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,まさか、あの伝説の大会が復活たぁ<br>思ってもみなかったなぁ。,설마 그 전설의 대회가 부활할 거라고는<br>생각도 못 해봤군.
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,フードファイターにとっちゃ<br>夢にまで見た舞台……<br>腕が鳴るってもんだ！！,푸드 파이터로서 꿈에 그리던 무대...<br>가슴이 벅차오르는걸!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,관광객 남성,なあ、おい！<br>あれってレッドラックじゃないか！,저기 봐!<br>저거 레드락 아냐?
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>レッドラックに気付いた観光客が</span><br><span class='scene-font-katari'>興奮気味に声を上げ、他の観光客も</span><br><span class='scene-font-katari'>レッドラックに視線を向ける。</span>,"<span class='scene-font-katari'>레드락을 알아본 관광객이 흥분한 듯이 소리를 지르자, 다른 관광객들도 레드락을 향해 시선을 돌렸다.</span>"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,관광객 남자아이,ホントだー！<br>頑張ってね、レッドラック！,"진짜다!<br>레드락, 힘내요!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,관광객 여성,優勝、期待してるわね～！,우승하길 기대할게!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,<span class='scene-font-4'>おーうおう！</span><br><span class='scene-font-4'>期待してろしてろ！</span>,<span class='scene-font-4'>그래그래~</span><br><span class='scene-font-4'>기대하고 있어들!</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,루리아,わぁ～！<br>すごい人気ですね！,우와~ <br>엄청 인기 많으시네요!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,やっぱその世界じゃ<br>かなり有名なんだな、おっさん！,"아저씨,<br>역시 이 업계에서는 유명한 사람이었구나!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,<span class='scene-font-4'>だっはっは！ まぁな！</span>,<span class='scene-font-4'>아하하! 뭐 그렇지!</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,레드락,俺は、勝つぜ！<br>お前達はその目でしっかり<br>俺の晴れ舞台を見届けてくれや！,난 이길 거다!<br>너희들은 그 눈으로 내가 이기는 모습을<br>똑똑히 지켜봐 줘!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,셰로카르테,皆さ～ん！<br>来ていただけたんですね～,여러부~운!<br>와 주셨군요~
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,おう、よろず屋！<br>もちろん約束だからな！,"오, 만물상!<br>당연하지. 약속한 거잖아!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,셰로카르테,すみませ～ん。<br>準備に手間取ってしまい、<br>ご挨拶が遅れてしまいました～,죄송해요~<br>준비하느라 시간이 걸려서<br>인사드리는 게 늦었네요~
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,루리아,いえいえ！<br>今回は誘っていただいて<br>ありがとうございます！,아니에요!<br>이번에는 이렇게 초대해 주셔서 감사합니다!
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,셰로카르테,こちらこそ～<br>皆さんのご活躍、期待していますよ～,저야말로요~<br>여러분이 활약하시는 모습을 기대할게요~
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,셰로카르테,そろそろルールの説明を始めますので、<br>会場へお越しください～,그럼 슬슬 룰을 설명할 테니까<br>회장으로 와 주세요~
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,비,よーし[플레이어]！<br>オイラ達も行くとしようぜ！<br>,"좋았어 [플레이어],<br>우리도 가자!"
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>[플레이어]達の呼びかけで、</span><br><span class='scene-font-katari'>自由時間を終えて集まってくる</span><br><span class='scene-font-katari'>大食い大会の参加者達。</span>,<span class='scene-font-katari'>[플레이어]은 많이 먹기 대회 멤버들을 불러</span><br><span class='scene-font-katari'>이제 가야 할 시간임을 알렸다.</span>
+Japanese,"scene_evt200628_cp1_q1_s10,7556111",detail,,<span class='scene-font-katari'>シェロカルテに案内され、</span><br><span class='scene-font-katari'>一行は会場に向かうのだった。</span>,<span class='scene-font-katari'>일행은 셰로카르테가 안내하는 회장으로 향했다.</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",synopsis,,大会は予選、本戦、決勝戦の３日間行われ、優勝者には<span class='scene-font-place'>アウギュステ</span>の名産セットが贈呈されると発表される。それを聞いて悩まし気に唸るレッドラックは、大食い大会で手にした賞金を貧しい子供達に寄付する活動を行っており、その事実をルリアやビィに打ち明けられて気恥ずかしい様子を見せる。そんな賑やかな雰囲気の中、突然荒々しい声が一行に向けられるのだった。,"대회는 예선, 본선, 결승 총 3일간 진행되며 우승자에게는 <span class='scene-font-place'>아우규스테</span>의 특산물세트가 증정된다고 발표된다. 그것을 듣고 괴로운듯 신음한 레드락은 많이 먹기 대회에서 얻은 상금을 그동안 가난한 아이들에게 기부했던 것을 루리아와 비를 통해 알려져 부끄러워하는 모습을 보인다. 그런 활기찬 분위기 속에서, 일행에게 갑자기 거친 목소리가 들렸다."
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>一行が街に設置された会場に</span><br><span class='scene-font-katari'>到着すると、今大会の参加者達が</span><br><span class='scene-font-katari'>続々と集まっていた。</span>,<span class='scene-font-katari'>일행이 마을에 설치된 회장에 도착했을 때는</span><br><span class='scene-font-katari'>이번 대회의 참가자들도 속속 모여들던 참이었다.</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,こ、この人達、<br>全員参加者ですか……！？,"이, 이 사람들이 <br>다 참가자인가요...?"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,비,すっげぇ数だな……<br>ざっと1000人はいるか？,장난 아니게 많다... <br>대충 천 명쯤 있나?
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,<span class='scene-font-4'>いいねぇいいねぇ！</span><br>ライバルは多いほど燃えるってもんだ！,<span class='scene-font-4'>좋구만 좋아!</span><br>라이벌이 많을수록 불타오르는 법이지!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,<span class='scene-font-2'>대회 참가자 남성1</span>,おい、見ろよあれ。<br>レッドラックだ。,"어이, 저기 봐. <br>레드락이야."
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,<span class='scene-font-2'>대회 참가자 남성2</span>,やっぱりあいつも参加するのか。<br>チッ……こりゃ優勝は確定だな。,역시 저 녀석도 참가하는구만. <br>쳇... 이거 우승은 결정됐네.
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,？？？,ふん……,흠...
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,皆さ～ん！<br>ご注目願います～！,여러분~ <br>주목해 주세요~
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,この度は、大変お暑い中<br>お集まりいただき<br>誠にありがとうございます～,이번에는 이렇게 뜨거운 날씨에도 <br>참가해 주셔서 <br>정말 감사합니다~
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,あの伝説の大会の復活～！<br>というわけで、皆さん<br>盛り上がっていますか～？,"그 전설의 대회가 부활하다니, <br>다들 기대 많이 되시죠~?"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",sel1_txt,,<span class='scene-font-katari'>おーっ！</span>,<span class='scene-font-katari'>네~에!</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,おうよ！ もちろんだぜ！,그럼! 당연하지!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,코루루,お、おー！ でごんす！,"네, 네~에~"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,아미라,お腹すいた……,배 고프다...
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레오나,<span class='scene-font-4'>おー！</span>,<span class='scene-font-4'>네에~</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,おー！ です！,네에에!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,ではでは～<br>これからルールを説明いたしますので、<br>少々お静かに願います～,그러면~ 이제부터 룰을 설명드릴 테니 <br>잠시 조용히 해 주세요~
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>会場の熱気が収まったところで、</span><br><span class='scene-font-katari'>シェロカルテはルール説明を始める。</span>,<span class='scene-font-katari'>회장의 열기가 가라앉는 것을 확인한 셰로카르테는</span><br><span class='scene-font-katari'>룰에 대해 설명하기 시작했다.</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,今大会は<br>予選、本戦、決勝の<br>３日間で行われます～,"본 대회는<br>예선, 본선, 결승.<br>3일간에 걸쳐서 개최됩니다~"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,予選では、こちらが設定した基準を<br>超えた量を食べられた方が<br>本戦進出となります～,예선에서는 저희가 설정한 기준<br>이상의 양을 드신 모든 분이<br>본선에 진출하게 됩니다~
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,本戦では午前の部と午後の部に<br>分かれていただき、それぞれの部で<br>１位の方が決勝進出となります～,"본선에서는 오전부와 오후부로 나눠져서,<br>각각의 부에서 1위를 하신 분이<br>결승에 진출하시게 됩니다~"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,決勝は一騎打ち、<br>見事勝利された方が栄冠を<br>手にすることになります～,"결승은 일대일 승부로 진행되고,<br>승리를 쟁취하신 분이<br>영예의 관을 쓰시게 됩니다~"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,なお、優勝者には<br>優勝トロフィーと合わせて<br>こちらをご用意しております～,"또한 우승자를 위해서는 우승 트로피,<br>그리고 이것을 준비했습니다~!"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>シェロカルテが</span><br><span class='scene-font-katari'>台の上に被せてあった布を外すと、</span><br><span class='scene-font-katari'>竹皿に乗った山盛りの海産物が現れる。</span>,"<span class='scene-font-katari'>셰로카르테가 무대 위에 덮여 있던 천을 걷어내자,</span><br><span class='scene-font-katari'>대나무 접시 위에 산처럼 쌓인 해산물의 모습이 나타났다.</span>"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,<span class='scene-font-place'>アウギュステ</span>の名産セットです～<br>自腹で購入すると、結構お高いですよ～,<span class='scene-font-place'>아우규스테</span> 특산물 세트입니다~ <br>직접 구입하시려면 꽤 가격이 나간답니다~
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,셰로카르테,というわけで皆さん、<br>優勝目指して頑張ってくださいね～,"그러니 여러분,<br>우승을 목표로 열심히 노력해 주세요~"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,わぁ～！<br>シェロさんが言ってた豪華な賞品って<br>あれだったんですね！,우와~<br>셰로 씨가 말했던 호화로운 상품이라는 게<br>저거였군요!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,코루루,ごくり……あれが噂に名高い<br><span class='scene-font-place'>アウギュステ</span>の海の幸……<br>美味しそうでごんす！,꿀꺽... 저게 소문 자자한<br><span class='scene-font-place'>아우규스테</span>의 해산물 특선...<br>맛있을 것 같소이다!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,아미라,私がいちばん食べれば……<br>あの魚が食べれる……！,내가 제일 많이 먹으면...<br>저 물고기를 먹을 수 있어...!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레오나,ナル・グランデでは見かけない<br>海産物がいっぱい……<br>私も食べてみたいな。,나루 그랑데에서는 본 적 없는 해산물이<br>잔뜩 있네... 나도 먹어보고 싶다.
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>山盛りの海産物を目にして、</span><br><span class='scene-font-katari'>胸を躍らせる参加者達。</span>,<span class='scene-font-katari'>참가자들은 산처럼 쌓인 해산물을 보자</span><br><span class='scene-font-katari'>가슴이 두근거리는 것을 느꼈다.</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>しかしレッドラックだけは</span><br><span class='scene-font-katari'>豪華な賞品に目もくれず、</span><br><span class='scene-font-katari'>悩ましげに唇を曲げている。</span>,"<span class='scene-font-katari'>그러나 레드락만은 호화로운 상품에</span><br><span class='scene-font-katari'>눈길도 주지 않은 채,어딘가 고민스러운 듯</span><br><span class='scene-font-katari'>입술을 비틀고 있었다.</span>"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,うーん、生もんか……<br>贅沢ってのはわかっちゃいるが、<br>欲を言やぁ金がよかったな……,으음... 날것이라.<br>호화로운 상품이긴 하지만<br>개인적인 욕심으로는 돈이 더 좋았을 텐데 말야...
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,비,そうか？<br><span class='scene-font-place'>アウギュステ</span>の名産の宣伝にもなるし、<br>いいアイデアだと思うぜ？,그래?<br><span class='scene-font-place'>아우규스테</span>의 특산물을 선전하는 것도 되니까<br>좋은 아이디어 같은데?
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,そういうことじゃねぇんだ。<br>現金のほうが、なんつぅか……<br>色々使い道があるだろ？,그런 문제가 아냐.<br>현금 쪽이 더... 뭐냐...<br>쓸 데가 많잖아?
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>妙に恥ずかしそうに答える</span><br><span class='scene-font-katari'>レッドラックを見て、</span><br><span class='scene-font-katari'>ルリアは何かに気付いたように笑う。</span>,<span class='scene-font-katari'>뭔가 쑥스러운 듯이 대답하는 레드락을 본</span><br><span class='scene-font-katari'>루리아는 알겠다는 듯이 웃었다.</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,ふふっ、私わかっちゃいましたよ。<br>レッドラックさん。,"후후, 저 알 것 같아요.<br>레드락 씨."
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,孤児院に寄付するために、<br>お金のほうがありがたいんですよね？,고아원에 기부하려면<br>돈으로 주는 편이 낫다는 뜻이시죠?
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,비,ああ！ そういやおっさんは、<br>フードファイトで稼いだ金を<br>寄付してんだったな！,"아! 그러고 보니 아저씨,<br>푸드 파이트로 번 돈을 기부하고 있었지!"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,비,えーと、なんつったっけ……？<br>『世界中に、おなかを空かせて<br>泣いてるやつが一人もいない世界……』,"어... 뭐라고 했더라?<br>""배고파하며 우는 녀석이 한 명도 없는 세상을 위해ㅅ..."""
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,<span class='scene-font-4'>だー！ やめろやめろ！</span><br>大勢の前で言われると<br>小っ恥ずかしいだろぉが！,<span class='scene-font-4'>으아~! 그만 그만!</span><br>이렇게 많은 사람들 앞에서 말하니까 부끄럽잖냐!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,ったく、お前達は……<br>いい大人をからかいやがって。,너희들 진짜...<br>어른을 놀리는 거 아냐.
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,비,ははっ、悪ぃ悪ぃ！,"아하하, 미안해!"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,코루루,お腹を空かせた人が……<br>いない世界……,배고파하는 사람이 없는 세상...
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,うん？ どした嬢ちゃん？<br>俺の顔に何かついてるか？,"응? 아가씨, 왜 그래?<br>내 얼굴에 뭐라도 묻었어?"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,코루루,あ、いや……<br>何もあり申さぬ……！,"아, 아니...<br>아무 것도 아니외다...!"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,ま、賞金が出ようが出まいが、<br>手を抜くつもりは一切ねぇがな。,"뭐, 상금이 나오든 안 나오든<br>봐줄 생각은 전혀 없어."
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,お前達には悪ぃが、<br>この大会の優勝だけは譲れねぇ。,너희들한테는 미안하지만<br>이 대회 우승은 넘겨주지 않을 거다.
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,頑張ってくださいね、<br>レッドラックさん！,"열심히 하세요, 레드락 씨!"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,おいおい、俺達は一応<br>敵同士なんだぞ？,저기 말이다...<br>우리 일단은 라이벌 관계잖냐.
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,もっとこう、私も負けません<br>みてぇな気合いぶつけてもらわねぇと<br>調子狂っちまうんだがな……,좀 더 뭐냐... 나도 안 질 거다!<br>하는 식으로 나와주지 않으면<br>나도 기합이 안 오르는데...
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,레드락,まぁ、ルリアらしいっちゃらしいか。<br>なんにせよ、お互い正々堂々<br>戦おうじゃねぇか！,뭐 루리아다우니 어쩔 수 없다만.<br>아무튼 서로 정정당당히 싸우는 거다!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,루리아,はい！ 私も頑張ります！,네! 저도 열심히 할게요!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>レッドラックは気楽に告げて笑い、</span><br><span class='scene-font-katari'>つられて賑やかに笑い合う一行。</span>,"<span class='scene-font-katari'>레드락이 기분 좋게 말하며 웃어제끼자,</span><br><span class='scene-font-katari'>일행도 그를 따라 밝게 웃었다.</span>"
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>しかし……</span>,<span class='scene-font-katari'>그러나...</span>
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,거친 목소리,<span class='scene-font-4'>おうおう！</span><br>随分余裕じゃのう！,<span class='scene-font-4'>어허~!</span><br>꽤나 여유로우신데!
+Japanese,"scene_evt200628_cp1_q2_s10,7556121",detail,,<span class='scene-font-katari'>その賑やかさに水を差すように、</span><br><span class='scene-font-katari'>一行に荒々しい声が</span><br><span class='scene-font-katari'>向けられるのだった。</span>,"<span class='scene-font-katari'>시끌벅적하던 분위기에 찬물을 끼얹듯,</span><br><span class='scene-font-katari'>일행을 향해 거친 목소리가 날아들었다.</span>"
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",synopsis,,一行の前に現れたのは、極潰しのマッシュと名乗るフードファイターだった。マッシュはレッドラックと因縁があるようで、レッドラックが楽しげに笑う姿を見て、やる気があるのかと突っかかる。レッドラックは日和っていると貶され、マッシュと激しく口論する。一行はふたりを宥めつつ、ふたりの熱意を目の当たりにして緊張を覚えるのだった。,"일행의 앞에 나타난 것은 짓뭉개는 마슈라고 자칭하는 푸드 파이터였다. 마슈는 레드락와 인연이 있는 것 처럼, 레드락이이 즐거운듯이 웃고있는 모습을 보고 할 마음이 있냐고 힐난한다. 레드락은 의욕이 없는거냐는 마슈의 말에 반응하여 격렬한 설전을 펼친다. 일행은 둘을 달래며, 두사람의 열의를 눈앞에 두고 긴장했다."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,？？？,さっすが常勝のチャンピオン様は<br>ゆとりがあってええのう！<br>ワシらなんぞ眼中無いゆうことかい！,역~시 늘 승리하는 챔피언님께서는<br>여유가 있으시구만!<br>우리같은 건 안중에도 없다는 건가?
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,,<span class='scene-font-katari'>現れた荒々しい巨躯の男は</span><br><span class='scene-font-katari'>がなり立てながら、</span><br><span class='scene-font-katari'>レッドラックをひと睨みする。</span>,<span class='scene-font-katari'>그들 앞에 나타난 거구의 남자가</span><br><span class='scene-font-katari'>거칠게 말을 내뱉으며</span><br><span class='scene-font-katari'>레드락을 노려보았다.</span>
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,비,なんだぁコイツ？<br>喧嘩腰で噛みついてきやがってよぉ。,이 녀석은 뭐야?<br>싸우자는 듯이 말꼬리 잡고 늘어지네.
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,ちっ、やっぱりてめぇか。,"쳇, 역시 네놈이었나."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,비,おっさん、知り合いか？,"아저씨, 아는 사람이야?"
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,ああ、腹立たしいことにな。,그래. 짜증나게도 말이다.
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,こいつは、マッシュ。<br>その筋じゃ有名なフードファイターだ。,이 녀석은 마슈.<br>이 쪽에서는 유명한 푸드 파이터야.
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,極潰しのマッシュたぁワシのことよ！<br>よう覚えとくんじゃの！,"이 몸은 ""짓뭉개는"" 마슈라고 한다!<br>잘 기억해 둬라!"
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,루리아,は、はぁ……,아... 어...
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,おう、レッドラック！<br>今日こそは負かしちゃるけぇ、<br>覚悟せいよ！,"어이, 레드락.<br>오늘에야말로 널 짓뭉개주마.<br>각오해 둬!"
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,はっ！<br>そのセリフも聞き飽きたぜ！,"하, 그 대사는 슬슬 질렸거든!"
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,루리아,はわわ……<br>すごく仲が悪そうです……,하와와...<br>엄청 사이 나빠 보이시네요...
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,비,なんか因縁あるみてぇだけど、<br>ふたりはライバルってやつか？,뭔가 사연이라도 있는 모양인데.<br>라이벌같은 거야?
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,まさか。<br>いっつもこいつが勝手に<br>突っかかってくるだけだ。,설마.<br>이 녀석이 항상 멋대로 물고늘어질 뿐이다.
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,ほぉ、言ってくれるのう。,허... 말 다했냐?
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,,<span class='scene-font-katari'>うっすら青筋を立てたマッシュは</span><br><span class='scene-font-katari'>睨みを利かせながら、レッドラックに</span><br><span class='scene-font-katari'>ずいと顔を近付ける。</span>,<span class='scene-font-katari'>가늘게 핏대를 세운 마슈는</span><br><span class='scene-font-katari'>레드락을 계속 노려보며 그에게 얼굴을 들이댔다.</span>
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,ガキどもとワイワイ騒ぎよって……<br>ヤル気あるんかいの？ おん！,꼬맹이들하고 신나서 까불기나 하고...<br>할 맘은 있냐? 어?
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,おい……そりゃ聞き捨てならねぇな。<br>だぁれが日和ってるって？,이봐... 그 말은 넘겨들을 수가 없군.<br>누가 적당히 한다는 거냐?
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,<span class='scene-font-4'>おどれに決まっとろうが！</span>,당연히 네놈 얘기지!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,俺はフードファイトに命懸けてんだ！<br>遊びじゃねぇんだよ！,난 푸드 파이트에 목숨을 걸었어!<br>놀고 있는 게 아니라고!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,ワシもタマくらい懸けとるわい！<br>偉っそうに言いよって！,나도 알 걸고 하는 거다!<br>건방지게 잘난 척은!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,<span class='scene-font-4'>んだとぉ！</span>,<span class='scene-font-4'>뭐라고?</span>
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,<span class='scene-font-4'>なんじゃあ！</span>,<span class='scene-font-4'>뭐가!</span>
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,비,お、おい、落ち着けって！<br>周りのやつらも<br>ビビっちまってるからよ！,"자, 잠깐만. 좀 진정해!<br>주변에 있는 녀석들도 다 쫄았잖아!"
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,っと、悪ぃ……<br>少し熱くなっちまったな。,"이런, 미안하군...<br>잠깐 흥분한 모양이야."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,ふん……,흥...
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,だがよぉ、マッシュ。<br>これだけは言わせてもらうぜ。,하지만 마슈.<br>이거 하나는 말해 두마.
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,今まで数え切れねぇほど大会を<br>制覇してきた俺だが……,나는 지금까지 셀 수도 없을 정도로<br>많은 대회를 제패해 왔지만...
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,この大会で勝たねぇことには、<br>真のフードファイターは名乗れねぇ！<br>今まで以上に、俺はマジだぜ！,이 대회에서 승리하지 못하면<br>진정한 푸드 파이터라고 말할 수 없어!<br>나는 그 어느때보다도 진심이다!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,そがぁなこと、ワシも同じじゃ！<br>それにワシには、<br>優勝を届けたい人がおるけんの！,그런 건 나도 마찬가지야!<br>게다가 내겐 꼭 우승을 선물해주고 싶은 사람이 있단 말이다!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,ほぅ、そりゃ意外だな。<br>てめぇが他人のために気張る奴たぁ<br>思わなかったぜ。,"오호, 그거 의외로군.<br>네놈이 다른 사람을 위해서 노력하는 놈일 거라곤<br>상상도 못 했는데."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,まぁそうだわな。<br>お互い負けられねぇ理由があって<br>当然か。,하긴 그러시겠지.<br>피차 절대 질 수 없는 이유가<br>하나쯤 있는 게 당연하지.
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,だったら、あとは料理の前で<br>語るしかねぇか……<br>俺達はフードファイターだからな！,그럼 남은 얘기는<br>요리 앞에서 할 수밖에 없겠군.<br>우린 푸드 파이터니까!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,마슈,<span class='scene-font-4'>当然じゃあ！</span><br>ぶち倒したるわい！,<span class='scene-font-4'>당연하지!</span><br>때려눕혀 주마!
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,,<span class='scene-font-katari'>マッシュは荒々しく言葉を吐き捨て、</span><br><span class='scene-font-katari'>周囲の人間をかき分けて去っていく。</span>,<span class='scene-font-katari'>마슈는 거칠게 소리지른 후</span><br><span class='scene-font-katari'>주변에 있던 인파를 헤치며 멀어져갔다.</span>
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,はん、上等だぜ。,"흥, 바라던 바다."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,레드락,なぁ[플레이어]、<br>ちょいとひとりにさせてもらうぜ。<br>またあとでな。,"이봐, [플레이어]<br>잠깐 혼자서 좀 있어야겠다.<br>나중에 보자."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,,<span class='scene-font-katari'>レッドラックはひと言断りを入れ、</span><br><span class='scene-font-katari'>真剣な表情で</span><br><span class='scene-font-katari'>マッシュとは逆方向に去っていく。</span>,<span class='scene-font-katari'>레드락은 그렇게 말한 후 진지한 표정으로</span><br><span class='scene-font-katari'>마슈가 사라진 반대방향을 향해 걸어갔다.</span>
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,비,な、なんかとんでもねぇもん<br>見ちまったな……,"뭐, 뭔가 엄청난 광경을 목격했네..."
+Japanese,"scene_evt200628_cp1_q3_s10,7556131",detail,,<span class='scene-font-katari'>レッドラックとマッシュの</span><br><span class='scene-font-katari'>凄みのあるぶつかり合いに、</span><br><span class='scene-font-katari'>一行は緊張を覚えるのだった。</span>,<span class='scene-font-katari'>레드락과 마슈의 무시무시한 충돌을 지켜본 일행은</span><br><span class='scene-font-katari'>저절로 긴장할 수밖에 없었다.</span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",synopsis,,[플레이어]とビィがシェロカルテに運営の手伝いを頼まれ見回りをしていると、シャルロッテに出会う。シャルロッテは、セワスチアンが大会の料理人を務めると聞いて急遽大会への参加を決めたという。さらにルシオと、軽装姿のセワスチアンが現れ、賑やかな雰囲気に包まれる。やがて予選の時間が迫り、[플레이어]とビィは団員達の応援に向かうのだった。,"운영측인 셰로카르테의 부탁으로 순찰을 하고 있던 [플레이어] 와 비는 샤를롯데와 만난다. 샤를롯데는 세바스찬이 대회의 요리사를 맡게 되었다는 것을 듣고 급하게 대회 참가를 결정했다고한다. 거기에 루시오와 가벼운 복장의 세바스찬이 나타나, 떠들썩한 분위기가 된다. 이윽고 예선시간이 다가와, [플레이어]와 비는 단원들을 응원하기위해 이동했다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>レッドラックとマッシュの一悶着の後、</span><br><span class='scene-font-katari'>[플레이어]はルリア達と別れ、</span><br><span class='scene-font-katari'>ビィと連れ立って浜辺を歩いていた。</span>,"<span class='scene-font-katari'>레드락과 마슈가 한판 벌인 후,</span><br><span class='scene-font-katari'>루리아 일행과 헤어진 [플레이어]는</span><br><span class='scene-font-katari'>비와 함께 해변가를 걷고 있었다.</span>"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,まさかあんなに熱くなるなんてなぁ。<br>おっさんがあそこまで本気だなんて<br>思わなかったぜ。,설마 그렇게 흥분할 줄이야.<br>아저씨가 그렇게까지 진심이라고는<br>생각도 못 했어.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,よろず屋の言ってた通りだったな。<br>本気で参加してるやつらも<br>結構いるってわけだ。,만물상 말대로네.<br>진지하게 참가하는 녀석들도 꽤 많은가봐.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,そう考えると、オイラ達は<br>こっちの役回りでよかったかもな。,그렇게 생각하니<br>이 일로 돌려지게 되어서 다행이다.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,おや？<br>[플레이어]殿とビィ殿では<br>ありませんか。<br>,어라?<br>[플레이어]님하고 비 공 아니십니까.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,心なしか表情が硬そうに<br>見えるであります。<br>何かあったでありますか？,기분탓인지는 몰라도<br>표정이 딱딱해 보이십니다.<br>무슨 일이라도 있으셨습니까?
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>シャルロッテ──</span><br><span class='scene-font-katari'>リュミエール聖騎士団の</span><br><span class='scene-font-katari'>団長を務める騎士である。</span>,<span class='scene-font-katari'>샤를로테──</span><br><span class='scene-font-katari'>그녀는 류미엘 성기사단의 단장을 맡고 있는</span><br><span class='scene-font-katari'>기사였다.</span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>威厳のない自らの低身長に悩み、</span><br><span class='scene-font-katari'>身長を伸ばす方法を求めて旅をしていた</span><br><span class='scene-font-katari'>途中、一行と出会ったのだった。</span>,<span class='scene-font-katari'>위엄을 주기 힘든 자신의 작은 키에 고민하며</span><br><span class='scene-font-katari'>키를 늘리는 방법을 찾아 여행하다가</span><br><span class='scene-font-katari'>일행과 만나게 된 것이었다.</span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,ああ、まぁ、ちょっとな。<br>そういうお前はテンション高そうに<br>見えるけど、何かあったのか？,"어, 뭐 조금.<br>그러는 너는 뭔가 하이해 보이네.<br>무슨 일 있었어?"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,自分もつい先ほど、大会に<br>エントリーしたのであります。<br>今から気合い十分でありますよ！,저도 조금 전에<br>대회 참가신청을 마친 참입니다.<br>지금부터 기합 팍 넣고 있습니다!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,[플레이어]殿が相手でも<br>正々堂々、真剣勝負であります！<br>,[플레이어]님이 상대라고 해도<br>정정당당하게 전력으로 승부할 겁니다!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,あー……そりゃ悪ぃな。<br>オイラと[플레이어]は<br>参加すんのやめちまったんだ。<br>,아... 그거 미안하게 됐어.<br>나랑 [플레이어]는 참가 안 하기로 했거든.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,えっ？<br>それはまた、いったい何が……？,네?<br>어떻게 된 일입니까...?
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,実は、ついさっきよろず屋に<br>手伝い頼まれちまってよ。,사실은 아까 만물상한테<br>도와달라고 부탁받았어.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>レッドラックとマッシュが去った</span><br><span class='scene-font-katari'>後のこと……</span>,<span class='scene-font-katari'>레드락과 마슈가 사라진 직후의 일이었다. </span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>想像以上の大会の盛況ぶりで</span><br><span class='scene-font-katari'>人手が足りず、手を貸してほしいと</span><br><span class='scene-font-katari'>シェロカルテから打診があり……</span>,"<span class='scene-font-katari'>상상 이상으로 대회가 성황인 탓에</span><br><span class='scene-font-katari'>일손이 딸린다며, 일을 도와줬으면 한다는</span><br><span class='scene-font-katari'>셰로카르테의 부탁이 있었다.</span>"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>大会を心待ちにしていたルリアを除き、</span><br><span class='scene-font-katari'>いつでも手伝いに動けるよう</span><br><span class='scene-font-katari'>ふたりだけ参加を取りやめたと告げる。</span>,<span class='scene-font-katari'>그래서 대회를 잔뜩 기대하고 있던</span><br><span class='scene-font-katari'>루리아를 제외한 두 사람은 언제든지 일을</span><br><span class='scene-font-katari'>도울 수 있도록 참가를 취소하기로 한 것이었다.</span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,オイラ達は参加でも応援でも、<br>どっちでもよかったからな。<br>よろず屋も大変そうだったしよ。,우리는 참가하는 쪽이든 응원하는 쪽이든<br>별로 상관없었거든.<br>만물상도 바빠 보였고 말야.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,なるほど、そういう事情なら<br>仕方がないでありますね。,"그랬군요, 그런 사정이 있었다면<br>어쩔 수 없겠군요."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,つーか、シャルロッテは<br>大食いに興味あったのかよ？<br>参加するって初耳だぜ？,그런데 샤를로테도 많이 먹기에 관심있었어?<br>참가한다는 얘기는 처음 듣네.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,自分も、最初は参加する予定は<br>なかったであります。,저도 처음에는 참가할 예정이<br>아니었습니다.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,しかし！ 今大会の料理人に<br>じいやが抜擢されたと聞き、<br>これは参加せねば、と！,그러나! 이번 대회의 요리사로<br>할아범이 발탁되었다는 소리를 듣자<br>꼭 참가해야겠다는 생각이 들더군요!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,セワスのじいちゃんが抜擢？<br>そりゃすっげぇな！,세바스 할아버지가 발탁됐어?<br>그거 대단한데!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,なんでも、樹クラゲを活かせる<br>凄腕の料理人ということで、<br>じいやに白羽の矢が立ったとか……,"나무 해파리의 맛을 살려낼 수 있는<br>몇 안 되는 요리사라서, 할아범이<br>특별히 뽑혔다던가 뭐라던가..."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,さすがは、じいや！<br>自分も鼻が高いであります！,역시 할아범입니다!<br>저도 으쓱해지는군요!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,<span class='scene-font-2'>세바스찬의 목소리</span>,ほほほ、お嬢様に<br>そのように言っていただけるとは、<br>光栄の限りでございますね。,"하하하, 아가씨가<br>그렇게 말씀해 주시니<br>그저 영광일 따름입니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,よぉ、セワスのじいちゃん！ <br>料理人任されたって聞いたぜ！<br>すっげぇ──,"어, 세바스 할아버지!<br>요리사 맡기로 했다면서?<br>대단ㅎ..."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,<span class='scene-font-4'>って、ええっ！？</span>,"<span class='scene-font-4'>으, 으억!?</span>"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,おや、鳩が豆鉄砲を食らったような<br>顔をされていますが、<br>どうかなさいましたかな？,"이런, 아닌 밤중에<br>홍두깨라도 본 듯한 표정이군요.<br>무슨 일 있으셨습니까?"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>セワスチアン──</span><br><span class='scene-font-katari'>シャルロッテに久しく仕える、</span><br><span class='scene-font-katari'>義に厚く礼節を知る老紳士。</span>,"<span class='scene-font-katari'>세바스찬──</span><br><span class='scene-font-katari'>그는 오랫동안 샤를로테를 모셨으며,</span><br><span class='scene-font-katari'>의리가 넘치고 예의바른 노신사였다.</span>"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>一見穏やかに見えるものの、</span><br><span class='scene-font-katari'>リュミエール聖騎士団遊撃隊隊長という</span><br><span class='scene-font-katari'>厳粛な肩書きを持つ人物なのだが……</span>,<span class='scene-font-katari'>겉보기에는 온화해 보이지만</span><br><span class='scene-font-katari'>류미엘 성기사단 유격부대 대장이라는</span><br><span class='scene-font-katari'>엄숙한 지위를 가진 인물이기도 했다. 그러나...</span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,どうしたはこっちのセリフだっての！<br>なんだよ、その格好は！？,"무슨 일 있었냐니, 내가 할 대사거든!<br>옷차림이 왜 그래?"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,皆さんの賑やかな雰囲気に<br>触発されましてね。<br>私もたまには羽目を外そうかと♪,여러분의 활기찬 모습에 영향을 받았습니다.<br>저도 가끔은 분위기를 바꿔볼까 싶었죠.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,ふふ、似合いますかな？,"하하, 어울리나요?"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,いや変わり過ぎだろ！<br>いつもの雰囲気と真逆じゃねぇか！,"아니, 아무리 그래도 너무 바꿨는데!<br>평소랑 분위기가 완전 반대잖아!"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,実は今まで秘密にしておりましたが、<br>この姿こそ私の本当の姿なのです。,"사실 지금까지는 비밀로 했었습니다만,<br>이 모습이 저의 진정한 모습입니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,お嬢様に仕える普段の私は、<br>世を忍ぶ仮の姿……,아가씨를 모시는 평소의 저는<br>세간의 눈을 의식한 가짜죠.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,俗に言うパリピ、という人種でして。<br>こう見えて昔はブイブイ<br>言わせていたのですぞ。,실은 흔히 말하는 파리피<span class='scene-font-1'>*</span>에 속합니다.<br>이래봬도 옛날에는 꽤 놀았답니다.<br><br><span class='scene-font-1'>*Party people</span>
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,熱いビーチで数々の浮き名を流し、<br><span class='scene-font-spword'>“真夏の猟犬”</span>と呼ばれておりましたな。,"뜨거운 비치 위에 이름을 날리며<br><span class='scene-font-spword'>""한여름의 사냥개""</span>라고 불렸죠."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,めちゃくちゃ嘘臭ぇけど、<br>セワスのじいちゃんは<br>どこまで本気かわかんねぇからな……,"뻔히 보이는 거짓말이라는 건 알겠는데 말야, <br>세바스 할부지는 어디까지가 진심인지<br>알 수가 없다니까..."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,ほほほ、冗談はさておき……,"하하하, 농담은 여기까지 하고..."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,このサングラスが<br>チャームポイントでしてね。<br>ある方に勧められたのですが。,이 선글라스가 차밍 포인트랍니다.<br>어떤 분이 추천해주셨죠.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,ある方……？,어떤 분...?
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,フフ、私です。,"후후, 접니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,お前かよ！,너였냐!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,お近づきの記念に、<br>お揃いにしてはと思いまして。,친해지게 된 기념으로<br>같은 걸 착용해 보면 어떨까 싶어서요.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,ったく、お前はさりげなーく<br>どっかで絡んでやがるなぁ。,하여간 넌 항상 쥐도새도모르게<br>어딘가에 얽혀 있다니까.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,ってか、セワスのじいちゃんとルシオの<br>組み合わせ、珍しくねぇか？ <br>いつの間に知り合ったんだよ。,"그보다도, 세바스 할아버지랑 루시오가 콤비라니<br>신기한데?<br>어느 사이에 친해진 거야?"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,話に聞く「リュミエールグルメ」……<br>ひとさじ口にすれば寿命をも延ばすと<br>耳にしたもので。,"이야기로만 듣던 ""류미엘 구르메""...<br>한 입만 먹으면 수명까지도 늘어난다고<br>들었습니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,私はその神秘を知りたく思い<br>セワスチアンさんにご挨拶を。,그 신비에 대해 알아보고 싶었기에<br>세바스찬 씨에게 인사드리게 되었습니다.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,また小難しいこと言ってんなぁ……<br>よくわかんねぇけど、<br>結局その神秘はわかったのかよ？,또 뭔가 어려운 소릴 하는구만...<br>잘은 모르겠지만 그래서 그 신비인지 뭔지는<br>알아냈어?
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,いえ、残念ながら。,아뇨. 안타깝지만.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,こればかりは、<br>手ほどきをして習得出来るものでは<br>ありませんからね。,이것만큼은<br>가르쳐 준다고 해서 쉽게 익힐 수 있는 것이<br>아니라서 말입니다.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,数多の知識や経験を積み重ね、<br>自然とその領域に至るもの……<br>それがリュミエールグルメの極意です。,"수많은 지식과 경험을 쌓아올린 끝에,<br>자연스럽게 그 영역에 도달하게 되는 것.<br>그것이 류미엘 구르메의 극의입니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,なるほど……<br>ならば100年を費やす覚悟をもって<br>挑みましょう。,그렇군요...<br>그럼 100년정도 들일 각오를 하고<br>도전하겠습니다.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,これはこれは。<br>面白いことをおっしゃる。,이런 이런.<br>재미있는 소리를 하시는군요.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,루시오,フフ……,후후...
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,おっと、世間話も<br>そろそろにいたしましょう。<br>私も料理に取りかからねば。,"이런, 이야기는 이쯤 해야겠군요.<br>저는 이제 요리를 하러 가야겠습니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,とは言え、予選に関しては<br>私はお手伝いなのですがね。,하지만 예선에서는<br>저도 보조 역할입니다.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,そうなのか？<br>じゃあ誰がメインで料理作るんだよ？,그래?<br>그럼 누가 메인 요리산데?
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,それは本番までのお楽しみです。<br>私から言えるのは、貴方達の<br>お知り合いということだけでしょうか。,그건 직접 알게 될 때까지 기대해 주시죠.<br>제가 알려드릴 수 있는 건 여러분이<br>잘 아시는 분이라는 것 정도겠군요.
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,세바스찬,さて皆さん、そろそろ<br>大会が始まるお時間ですぞ。,"자 여러분, 슬슬<br>대회가 시작될 시간입니다."
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,샤를로테,あっ、そうでありました！<br>急ぐであります！,"아, 그렇네요!<br>서둘러야 합니다!"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,비,オイラ達も行こうぜ、[플레이어]！<br>よろず屋に頼まれた時間まで、<br>まだ少し空いてるからよ！<br>,우리도 가자 [플레이어]!<br> 만물상이 부탁한 시간까지 아직 조금 남았으니까!
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>[플레이어]はビィに頷き返し、</span><br><span class='scene-font-katari'>セワスチアンとルシオに別れを告げる。</span>,"<span class='scene-font-katari'>[플레이어]는 비에게 고개를 끄덕인 후,</span><br><span class='scene-font-katari'>세바스찬과 루시오에게 작별인사를 했다.</span>"
+Japanese,"scene_evt200628_cp1_q4_s10,7556141",detail,,<span class='scene-font-katari'>シャルロッテは予選会場に、</span><br><span class='scene-font-katari'>[플레이어]とビィは観客席に</span><br><span class='scene-font-katari'>急ぐのだった。</span>,"<span class='scene-font-katari'>그렇게 샤를로테는 예선 회장으로,</span><br><span class='scene-font-katari'>단장과 비는 관객석으로 향했다.</span>"
+
+English,"scene_evt200628_cp1_q1_s10,7556111",synopsis,,"[플레이어] and company arrive in Auguste, ready for fun. With a bit of free time to spend, competition participants Redluck, Lyria, Kolulu, Amira, and Leona bask in the nice weather. Sierokarte comes to welcome them, then urges the group to head to the arena for the explanation of the rules."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,A few days have passed since Siero's invitation.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,[플레이어] and crew arrive to see Auguste's beach bustling with activity. An area is sectioned off to host the competition.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Tourists crowd the other parts of the beach. The crew takes the opportunity to relax before the festivities begin.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,"Golly, the ocean is gargantuan!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,Right? It's teeming with aquatic life too.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Amazing... I've never seen anything like this before.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,The crew first encountered Kolulu passed out from hunger on the side of a road. They learned she survived day-to-day by fighting in an underground fight club.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"After discovering that her custodian was skimming her earnings, Kolulu left the fight club and joined the crew."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Io! Let's view the ocean from a closer vantage!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"Sure, sure. Just watch out for lumber jellies, okay? Apparently there are a few still hanging around."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Naturally!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"With a bright grin, Kolulu approaches the water and watches as gentle waves wash over her feet."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Oh! Oh golly! The water's so cool and refreshing!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"Haha, why don't you try going for a swim? I promise it'll feel even better then!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Very well. I shall dive right in!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"Wait, what? You can't just—"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,...!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,One taste of the salty water is enough to send Kolulu scrambling back up the beach.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,Hack... Cough... Th-that was unexpected.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Io,"I told you seawater's salty, didn't I? Unlike rivers and lakes."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Kolulu,And creatures actually live in these strange conditions? The sea is truly fascinating!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Kolulu gazes with innocent wonder at the blue expanse before them.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"Beside her, another girl stares wide-eyed at the ocean for the first time."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,The ocean... is so big...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Monster,...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,"Ah... Hey, you. Do you know how to get to Helheim?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Monster,...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,Oh... Nobody ever knows. Thanks anyway.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Uh, Amira. Did nobody ever tell you not to talk to... er, strangers?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,No? Everybody's nice. They told me about the good food here. Too bad they don't know about Helheim though.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,One day Amira fell out of the clear blue sky and landed on the Grandcypher.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"She is looking for her mother, who is waiting in a place called Helheim."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"After learning that [플레이어]'s father might know where Helheim is, she joined the crew on their journey through the sky."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,Look. There's a crab.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Crab,...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,Uh... And?
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,Munch!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,Whoa! You're gonna bite down on it just like that?
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Amira,"Crunch, chew... It's hard... Tough to eat."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,That's 'cause you're supposed to cook it over a fire and shell it first. Sheesh...
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,Ahaha... I'm surprised how relaxed you all are before the big competition.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,Completely the opposite of me at the moment.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"Leona is an adjutant in Idelva's army. Though she never officially married into the family, she is considered by all to be Cain's sister-in-law."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,The crew met her through Cain after he helped them in the Nalhegrande Skydom.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,What's there to be worried 'bout? It's not like we're seriously going for the win.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"We invited you to chow down, you know?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,"I do, but it almost feels rude to take the event lightly after seeing the serious competitors."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,Don't worry! Siero said that the most important thing is having a good time!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,"So don't be so nervous, okay? I'm excited to eat with you, Leona!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Leona,"You're right. I should focus on the fun, shouldn't I? Let's enjoy ourselves, Lyria."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,Hahaha! Nobody said you can't have fun while going for the win!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,And the win is gonna be mine!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Heya, big guy! Guess there's no way you'd be missing out on this, huh?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,Do you even need to ask? This competition's got my name written all over it!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Redluck is both a Zeyen monk and a competitive eater chasing after fame.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"A monk unlike any other, he travels around winning competitions, prize money, and glory."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,Never thought I'd live to see the day they brought it back.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,"It's like a dream come true, and I don't intend on letting this chance pass me by!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Male Spectator,Look there! Isn't that Redluck?
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,Curious passersby overhear the man's exclamation and look in Redluck's direction.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Little Spectator,"It really is! Good luck, Mister Redluck!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Female Spectator,We'll be rooting for you!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,"Thank you, thank you! I'll put on a good show!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,Everyone sure loves you!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Can't say I'm surprised. The competition enthusiasts must know everything about ya, huh?"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,"Hahaha, maybe."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Redluck,They know me well enough to know I'm gonna win at least! Just you watch!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,"Hello, everyone! I see you all made it without a problem."
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Heya, Siero! Wouldn't miss this for the world!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,I'm sorry I couldn't greet you earlier. I've been so busy with preparations.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Lyria,That's all right. We're thankful enough for the invitation alone!
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,Thank <span class='scene-font-italic'>you</span> for participating. I'm eager to see how you do.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Sierokarte,"Speaking of which, it's almost time for the explanation of the rules. You should head over soon!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,Vyrn,"Gotcha! C'mon, [플레이어]!"
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,[플레이어] gathers the crew members and informs them that it's time to go.
+English,"scene_evt200628_cp1_q1_s10,7556111",detail,,"Following Sierokarte's directions, the group heads for the competition center."
+English,"scene_evt200628_cp1_q2_s10,7556121",synopsis,,"The competition will be split into three rounds over three days: first is a preliminary round, then an elimination round, and last is the final round. The winner will receive a set of Auguste's finest seafood specialties. Everyone except Redluck expresses excitement at the grand prize, and Vyrn and Lyria hypothesize that it's because Redluck uses the prize money from his competitions to feed starving children. As Redluck grows embarrassed, an unfamiliar voice barges into the conversation."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,"The crew arrives at the competition stage alongside a mass of other contestants. More and more people enter, and soon the area is filled."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Are all these people here to eat?
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,Holy moly... There's gotta be at least a thousand people.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"The more, the merrier! No fun if it's not a challenge!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Competitor 1,"Yo, look at that guy. He's gotta be Redluck."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Competitor 2,"The rumors were true then. Tch, no point competing now."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,???,Hmph.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,Ahem! If I could have your attention please.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,Thank you all for attending despite the sweltering weather.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,I hope everyone's as excited as I am for the revival of this legendary event! Can everyone make some noise!
+English,"scene_evt200628_cp1_q2_s10,7556121",sel1_txt,,Yeeeeah!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,Whoo! All right!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,Y-yeah!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Amira,I'm hungry.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Leona,Yes!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Yaaay!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"With that out of the way, let's go over the rules!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,"The stadium quiets down, and Sierokarte clears her throat one more time."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"There are three stages to this competition: a preliminary round, an elimination round, and a championship round. The rounds are split over the course of the next three days."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,The preliminary round requires contestants to eat a set minimum in order to advance to the elimination round.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,The elimination round is split into two brackets: one in the morning and one in the afternoon. The winner of each bracket moves on to the final round.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,Our champion is then decided by a one-on-one showdown. It's going to be a match for the ages!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"Of course, we can't forget the grand prize! Feast your eyes on what we've got prepped!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,She lifts the sheet off a nearby pedestal to reveal an enormous platter stacked high with seafood.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"A set of Auguste's finest—rich not only in flavor, but also in price! Only one can take home this rare luxury!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Sierokarte,"But which one of you is it going to be? Good luck, everyone!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Wow! So that's the prize Siero mentioned!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,Gulp... A bundle of Auguste's ocean delights... It looks so good!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Amira,"If I eat the most, I can eat all that fish!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Leona,To be able to taste cuisine unknown to Nalhegrande... That sure would be nice.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,A competitive spirit grows in the crowd as the prize draws every eye to its glistening edibles.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,Only Redluck appears unimpressed. He purses his lips and frowns.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"A set prize, huh? I get that it's fancy or whatever, but I sure would've preferred rupies instead."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"It's pretty good advertising though, showcasin' Auguste's specialties. What's wrong with that?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Nothing, it's just... Money's got more uses."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,"He coughs and glances away. Lyria peers up at him, a look of recognition crossing her face."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Hehe! I think I know what you're saying.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,"If it was money, you could donate it to the orphanage, right?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"Oh yeah! You always send your prize money to them, don'tcha?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"Shoulda figured, what with that spiel about 'making the world a place where no one ever has to starve' or whatever."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,Stop! Stop right there! It's embarrassing when you're shouting it in front of a crowd!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Sheesh, you kids should know better than to mess with your elders..."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Vyrn,"Haha, couldn't resist! Sorry!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,A world where no one ever has to starve...
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"What's that? Did you say something, kiddo?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Kolulu,"Oh, no, it's nothing!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Well, I'm not giving up the victory just 'cause there's no money."
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"And I'm not letting you guys win either, no matter how much you want the food. Sorry, not sorry!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,"That's okay. I hope you do well, Redluck!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"Whoa, whoa, I thought you wanted to win yourself. Why're you cheering me on?"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,You should be telling me how you're gonna put up a fight and get some blood-pumping tension going.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Redluck,"But I guess that's not your style, eh? Let's do this fair and square, and have a good time!"
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,Lyria,Of course! We're going to eat as much as we can!
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,The crew members exchange smiles and laughter as they look forward to the coming days.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,But a new face interrupts the merrymaking.
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,???,Ya really think you can win with that kinda half-hearted attitude?
+English,"scene_evt200628_cp1_q2_s10,7556121",detail,,His wild voice roars above the din and crashes down like a wave.
+English,"scene_evt200628_cp1_q3_s10,7556131",synopsis,,"The unexpected obtruder reveals himself to be Mash the Smasher, another pro competitive eater. He taunts Redluck, calling his pride as a competitive eater into question, and the two begin to trade harsh barbs. The others can only watch the exchange in uneasy silence."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,???,"Suppose a guy like you, who's used to winning, wouldn't bother paying attention to his opponents!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"Barging his way into their conversation, a burly man shouts at the crew and glares at Redluck."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,Who the heck is this guy? He tryna pick a fight?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Tch. Figured you'd show up.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,You know him?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,I wish I didn't. But yeah.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,That's Mash. Another competitive eater with his own following.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"Mash the Smasher is the name, and don't you forget it!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Lyria,Uh... huh...
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"You're goin' down this time, Redluck! Mark my words!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"Hah, that's the hundredth time I've heard that! Surprised you haven't given up yet!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Lyria,Oh no... You don't seem to get along very well.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,Sounds like you've got some history. Is he a rival or something?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"You kidding? Guy's a pest I can't shake off, that's all."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,S'that what you think of me?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"Mash marches up to Redluck and leans into his personal space, their faces nearly touching."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,Big words for a fellow goofing off with a buncha kids. Hah!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Yeah? I don't want to hear that from someone who ain't devoted to the profession.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,Like you're any better than I am!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,You think I'm not giving a hundred and ten percent when I compete? I'm committed to every bite!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"Oh, look at Mister High-and-Mighty! Just gonna assume I don't throw my soul into every bite too?"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,What'd you say to me?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,You heard me! Or are ya deaf?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,"O-okay, can we time out for a sec? You're kinda causing a scene..."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Sorry... Didn't mean to lose my cool.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,...
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"Mash, let me just say this."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"I may have conquered countless tournaments and contests, but..."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,I can't call myself a pro if I don't win this title! Victory here is everything to me!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,"The same goes for me! There are people I've gotta make proud, and I ain't resting until I do!"
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"You, actually caring about others' opinions? Color me surprised."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,We've both got our own reasons to win then.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,So enough speaking with our mouths. Let's do what we do best... and see who can stomach more on the main stage!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Mash,Now you're speaking my language! Hope you're ready to lose!
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"As fast as he had arrived, Mash turns away and disappears into the crowd."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,Psh. Bring it on.
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Redluck,"[플레이어], I'm gonna go clear my head. Catch you later."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,"Redluck leaves in the opposite direction, his face deadly serious."
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,Vyrn,What... just happened?
+English,"scene_evt200628_cp1_q3_s10,7556131",detail,,Vyrn's question meets silence as the others try to process what they just witnessed.
+English,"scene_evt200628_cp1_q4_s10,7556141",synopsis,,"[플레이어] and Vyrn decide to withdraw from the competition to help Sierokarte. As they walk around, they run into Charlotta. She informs the two that she has entered the competition as Sevastien is one of the chefs preparing food for each round. Sevastien himself appears in Lucio-inspired attire alongside Lucio, and the group enjoys friendly conversation before it is time for the preliminary round to start."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Following Redluck and Mash's confrontation, [플레이어] and Vyrn part with Lyria and the others to head to the beach."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,That sure threw me for a loop. Never seen the big guy so serious before.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Siero wasn't kidding when she mentioned how much people cared about this event, huh?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Almost makes me feel relieved to be stuck with this job instead.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"Why, if it isn't [플레이어] and Vyrn!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,You appear to be discussing a weighty subject. Is something the matter?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,Charlotta serves as captain of the Lumiel Order of Holy Knights.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"She is searching for a way to rectify her short height, and met the crew during her travels."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Kinda, sorta. What about you? You look a bit antsy."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"Just moments ago, I entered myself into the eating competition!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"I shall approach this duel of sustenance without hesitation, even if you are my opponent, [플레이어]!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Er... Sorry to burst your bubble, but me and [플레이어] had to drop out."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,What? But why?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"The Knickknack Shack needs us on deck for the next few days, y'see."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"After the altercation between Redluck and Mash, Sierokarte approached the crew."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"She explained that the competition attracted far more people than expected, which left the staff shorthanded."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Vyrn and [플레이어] decided to step down from the contest and offer their assistance, so that Lyria and the others could focus on their food."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Siero really needed the help, and we don't mind cheering from the sidelines, so we figured we could let the others have their fun."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,I see. A most noble sacrifice.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"I gotta say, I didn't think you'd be interested in joining the fun too. Since when did you care about serious eating?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"In all honesty, I didn't originally intend to compete."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"However, I could not resist once I discovered that Sevastien was selected to prepare the food!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"He's one of the chefs? Wow, everyone's gonna be in for a treat!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,To be recognized as one of the few who can utilize lumber jelly to its fullest potential...
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,Sevastien is truly skilled! I could not be prouder of his feats!
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Hohoho! I am flattered to hear such praise from you.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Heya, Sevastien! Grats on bein' hired to cook—"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Wait, what the heck!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Is something the matter? You appear simply gobsmacked.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,Sevastien is an elderly gentleman who serves Charlotta and upholds the same principles of justice.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Though he appears to be simply her butler, in truth he serves as the archpraetor of the Lumiel Order of Holy Knights."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,That's because I am! What's with that getup?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"I, too, long for relaxation and wish to join the revelry."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"It's quite suitable for the occasion, isn't it?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,There's a difference between taking a load off and completely changin' character!
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"So you say, but this is my true form. I apologize for keeping it hidden until now."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,The devoted servant you've always known is but a mask.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,I was an avid partygoer and troublemaker once upon a time.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"The beaches were my playgrounds, and I roamed without restraint."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"This sounds like one tall tale, but I can't tell if you're kidding or not..."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Hoho! Joking aside...
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"I am quite fond of these sunglasses, though I never would have picked them out myself."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,So then who did?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,That would be me.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Seriously?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,"It's to commemorate our blossoming friendship. What could be more heartfelt than a matching accessory, after all?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Seems to me like you're doing your own thing like always.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"Wait, did you say friendship? You guys are friends? Since when?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,I heard that a single taste of the Lumiel Gourmand's food was enough to prolong one's life.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,"I wished to know the secret behind such masterful work, and so I approached Sevastien."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"That's one way to start a conversation, I guess... Did you learn anything in the end?"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,Unfortunately not.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,It is not a secret that can be simply learned from another.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Rather, it is the natural result of experience and accumulating knowledge... The Lumiel Gourmand is nothing more, nothing less."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,Fascinating. Perhaps I will attempt a hundred years of study and see where the experience takes me.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,Now that is an intriguing idea.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Lucio,Hehe.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Oh dear, I'm afraid we'll have to continue this another time. I must get to cooking."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Though I won't be directing the kitchen for the preliminaries, I still have a role to fulfill."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,Who's in charge if you're not then?
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,You are acquainted with them. But I shall leave the answer to your imagination until the main event.
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Sevastien,"Which should be starting soon, if I recall correctly."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Charlotta,"Oh, that's right! I should hurry over!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,Vyrn,"We've got some time before we gotta meet up with Siero, right? Let's go take a look, [플레이어]!"
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,"Charlotta, Vyrn, and [플레이어] part with Sevastien and Lucio."
+English,"scene_evt200628_cp1_q4_s10,7556141",detail,,Charlotta heads for the participants' area while Vyrn and [플레이어] claim seats in the stands.
