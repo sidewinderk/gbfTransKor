@@ -481,14 +481,14 @@ EXアビリティ解除,EX 어빌리티 해제
 ブレイクアサシン,브레이크 어새신
 自分の攻撃大幅UP(敵ブレイク時のみ/*回),자신의 공격 대폭 UP(적이 브레이크 상태일 때/*회)
 トレジャーハント,트레저 헌트
-敵のアイテムドロップ率UP(*回),적의 아이템 드랍율 UP(*회)
+敵のアイテムドロップ率UP(*回),적의 아이템 드롭률 UP(*회)
 おたから狙い,보물 사냥꾼
 トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP,트레저 헌트 성공확률 UP / 트레헌 Lv이 높을수록 공격 UP
 "ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","브레이크 어새신<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 "トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 トレジャーハント成功確率+**％,트레저 헌트 성공확률+**％
 ブレイク状態の敵への攻撃力が上昇した状態,브레이크 상태의 적에게 공격력이 상승된 상태
-アイテムドロップ率が上昇した状態,아이템 드랍율이 상승한 상태
+アイテムドロップ率が上昇した状態,아이템 드롭률이 상승한 상태
 "トレジャーハント成功確率<span class=""value"">+*%</span>","트레저 헌트 성공확률<span class=""value"">+*%</span>"
 "オーバードライブ抑制<span class=""value"">+*%</span>","오버드라이브 억제<span class=""value"">+*%</span>"
 
@@ -521,7 +521,7 @@ EXアビリティ解除,EX 어빌리티 해제
 ブレイクアサシンIII,브레이크 어새신 III
 自分の攻撃大幅UP(敵ブレイク時のみ/*回)/クリティカル確率UP,자신의 공격 대폭 UP(적이 브레이크 상태일 때/*회) / 크리티컬 확률 UP
 トレジャーハントIV,트레저 헌트 IV
-"<div class=""prt-text-small"">敵に自属性ダメージ/敵のアイテムドロップ率UP(*回) <span class=""text-blue"">◆トレハンLvに応じてダメージ性能UP</span></div>","<div class=""prt-text-small"">적에게 자신의 속성 데미지 / 아이템 드랍율 UP(*회) <span class=""text-blue"">◆트레헌 Lv에 따라 데미지 성능 UP</span></div>"
+"<div class=""prt-text-small"">敵に自属性ダメージ/敵のアイテムドロップ率UP(*回) <span class=""text-blue"">◆トレハンLvに応じてダメージ性能UP</span></div>","<div class=""prt-text-small"">적에게 자신의 속성 데미지 / 아이템 드롭률 UP(*회) <span class=""text-blue"">◆트레헌 Lv에 따라 데미지 성능 UP</span></div>"
 ホワイトスモーク,화이트 스모크
 ルピフリップ,루피 플립
 "敵に無属性ダメージ  <span class=""text-blue"">◆ルピを消費</span>","적에게 무속성 데미지  <span class=""text-blue"">◆루피를 소비</span>"
