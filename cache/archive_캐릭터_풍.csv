@@ -251,7 +251,7 @@ orig,kr
 レフトセイヴィアー,레프트 세이비어
 "<div class=""prt-text-small"">ターゲットに関わらず*回単体ダメージ　<span class=""text-blue"">◆使用する度に攻撃回数UP(最大**回)</span></div>","<div class=""prt-text-small"">타겟에 무관하게 *회 단일 데미지　<span class=""text-blue"">◆사용할 때마다 공격 횟수 UP(최대 **회)</span></div>"
 自動迎撃毛刃,자동 요격 칼날
-残りHPが少ないほどカウンター確率UP/アビリティダメージ上限UP,남은 HP가 적을 수록 카운터 확률 UP / 어빌리티 데미지 상한 UP
+残りHPが少ないほどカウンター確率UP/アビリティダメージ上限UP,남은 HP가 적을수록 카운터 확률 UP / 어빌리티 데미지 상한 UP
 黄金の艶めき,황금의 반짝임
 被ダメージ時に稀にアビリティ再使用間隔を*ターン短縮/ダメージアビリティの使用回数に応じて攻撃UP(最大**回),데미지를 입었을 때 어빌리티 재사용 간격을 *턴 단축/데미지 어빌리티의 사용 횟수에 따라 공격 UP(최대 **회)
 
@@ -523,7 +523,7 @@ Vフィールド,V필드
 パワー・クエスト,파워 퀘스트
 パワー・クエスト＋,파워 퀘스트＋
 パワー・クエスト＋＋,파워 퀘스트＋＋
-"<div class=""prt-text-small"">敵に風属性ダメージ/自分に逆境効果<br><span class=""text-blue"">◆自分の残りHPが少ないほどダメージUP</span></div>","<div class=""prt-text-small"">적에게 풍속성 데미지/자신에게 역경 효과<br><span class=""text-blue"">◆자신의 남은 HP가 적을 수록 데미지 UP</span></div>"
+"<div class=""prt-text-small"">敵に風属性ダメージ/自分に逆境効果<br><span class=""text-blue"">◆自分の残りHPが少ないほどダメージUP</span></div>","<div class=""prt-text-small"">적에게 풍속성 데미지/자신에게 역경 효과<br><span class=""text-blue"">◆자신의 남은 HP가 적을수록 데미지 UP</span></div>"
 ハート・オブ・ア・ドラゴン,하트 오브 어 드래곤
 "<div class=""prt-text-small"">味方単体に自分の最大HPの**%分のバリア効果(最大****)　<span class=""text-blue"">◆自分のHPを最大値の**%消費</span></div>","<div class=""prt-text-small"">아군 1체에게 자신의 최대 HP의 **%만큼 배리어 효과(최대****)　<span class=""text-blue"">◆자신의 HP를 최대치의 **% 소비</span></div>"
 真龍の鉤爪,진룡의 발톱
