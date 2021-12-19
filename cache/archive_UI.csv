@@ -3501,8 +3501,8 @@ Class*のジョブを*つ獲得する,Class* 작업을 *개 획득한다
 
 ベータ・リベレイション,베타 리베레이션
 アビリティのダメージ上限上昇,어빌리티의 데미지 상한 상승
-"<div style=""color: #ffa***;margin-bottom: *px;"">奥義効果に以下の効果を追加</div><div style=""color:#ffff*f;"">敵に自属性ダメージ</div>","<div style=""color: #ffa***;margin-bottom: *px;"">오의 효과에 이하의 효과를 추가</div><div style=""color:#ffff*f;"">적에게 자속성 데미지</div>"
-敵に自属性ダメージ,적에게 자속성 데미지
+"<div style=""color: #ffa***;margin-bottom: *px;"">奥義効果に以下の効果を追加</div><div style=""color:#ffff*f;"">敵に自属性ダメージ</div>","<div style=""color: #ffa***;margin-bottom: *px;"">오의 효과에 이하의 효과를 추가</div><div style=""color:#ffff*f;"">적에게 자신의 속성 데미지</div>"
+敵に自属性ダメージ,적에게 자신의 속성 데미지
 
 永遠拒絶の太刀の<br>武器スキルを変更します,영원거절의 태도의<br>무기 스킬을 변경합니다
 
