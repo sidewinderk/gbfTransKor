@@ -3334,7 +3334,7 @@ C.C.,C.C.
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP *** → <span class=""txt-attention"">**</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동한다<br>                                                        TP *** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP ** → <span class=""txt-attention"">**</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동한다<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 "<div class=""txt-stage-message"">視線を感じる……</div>","<div class=""txt-stage-message"">시선이 느껴진다……</div>"
-
+"<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">風が冷たくなってきた</div>"
 
 
 
