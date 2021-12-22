@@ -3322,7 +3322,7 @@ C.C.,C.C.
 名イベント開催時に<br>イベントTOPで表示されていたキャラクター、<br>台詞、音声を確認することができます。</div>
 
 "イベントTOPにて、<br>「台詞集」が解放されました。                <div class=""txt-orange txt-caution"">台詞集では、過去の同名イベント開催時に<br>イベントTOPで表示されていたキャラクター、<br>台詞、音声を確認することができます。</div>","이벤트 TOP에서, <br>「대사집」이 해방되었습니다<div class=""txt-orange txt-caution"">대사집에서는 캐릭터, 대사, 음성을 확인할 수 있습니다</div>"
-
+星土の結晶の採掘に挑戦,성토의 결정 채굴
 星土の結晶の採掘に挑戦,성토의 결정 채굴에 도전하자
 属性岩から星土の結晶を削り出せ！,속성암에서 성토의 결정을 채굴하자！
 「星土の結晶」採集,「성토의 결정」채집
@@ -3337,8 +3337,8 @@ C.C.,C.C.
 "<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">날씨가 쌀쌀해졌다</div>"
 "<div class=""txt-stage-message"">渇いた空に<br>鳥の声が響いている</div>","<div class=""txt-stage-message"">맑은 하늘에<br>새소리가 울려 퍼지고 있다</div>"
 "<div class=""txt-stage-message"">雲が地を覆い<br>にわかに不安を掻きたてた</div>","<div class=""txt-stage-message"">구름이 땅을 뒤덮어<br>불안감을 부추긴다</div>"
-
-
+"<div class=""txt-stage-message"">晴れ渡った空が鏡となり<br>人間の小ささを写している</div>","<div class=""txt-stage-message"">맑게 갠 하늘이 거울이<br>사람이 얼마나 작은지를 느낀다</div>"
+"<div class=""txt-stage-message"">風の音、砂を蹴る音だけが<br>存在感を示している</div>","<div class=""txt-stage-message"">바람 소리와 모래 위를 걷는<br>소리만 들려온다</div>"
 
 
 
@@ -10413,6 +10413,7 @@ Lv** アルゼンタム,Lv** 아르젠텀
 Lv** 軍艦蟹,Lv** 군함게
 Lv** クラーケン,Lv** 크라켄
 Lv** ゴースト,Lv** 고스트
+ゾンビ,좀비
 Lv** ゾンビ,Lv** 좀비
 Lv** インプ,Lv** 임프
 Lv** バジリスク,Lv** 바실리스크
@@ -10598,7 +10599,7 @@ Lv** ヒッポラーヴァ,Lv** 히포 라바
 バルバル,바르발
 Lv** バルバル,Lv** 바르발
 ビッグフット,빅풋
-
+Lv** ビッグフット,Lv** 빅풋
 
 
 
