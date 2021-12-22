@@ -168,7 +168,9 @@ orig,kr
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP *** → <span class=""txt-attention"">**</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동한다<br>                                                        TP *** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP ** → <span class=""txt-attention"">**</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동한다<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 "<div class=""txt-stage-message"">視線を感じる……</div>","<div class=""txt-stage-message"">시선이 느껴진다……</div>"
-"<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">風が冷たくなってきた</div>"
+"<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">날씨가 쌀쌀해졌다</div>"
+"<div class=""txt-stage-message"">渇いた空に<br>鳥の声が響いている</div>","<div class=""txt-stage-message"">맑은 하늘에<br>새소리가 울려 퍼지고 있다</div>"
+"<div class=""txt-stage-message"">雲が地を覆い<br>にわかに不安を掻きたてた</div>","<div class=""txt-stage-message"">구름이 땅을 뒤덮어<br>불안감을 부추긴다</div>"
 
 
 
@@ -178,9 +180,7 @@ orig,kr
 
 
 
-
-
-Lv** バルバルを討伐,Lv** 바르바르를 토벌
+Lv** バルバルを討伐,Lv** 바르발을 토벌
 
 決まったぜー！<br>一撃だ！,해냈다！<br>한방에 끝냈어！
 
@@ -201,10 +201,10 @@ Lv** バルバルを討伐,Lv** 바르바르를 토벌
 
 
 
-
-
-
-
+!별의 짐승의 레저넌스 칭호
+姉妹の絆,자매의 인연
+獲得条件：ゴルゴーンのメダリオンを累計で***個入手,획득조건：고르곤의 메달리온을 누계 ***개 획득
+獲得条件<br>ゴルゴーンのメダリオンを累計で***個入手,획득조건<br>고르곤의 메달리온을 누계 ***개 획득
 
 
 

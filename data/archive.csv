@@ -1366,8 +1366,8 @@ CTが溜まらず、特殊技が発動できない状態,CT가 모이지 않으�
 ナルメアの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"나루메아의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
 サンダルフォンの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"산달폰의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
 ハレゼナの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"하레제나의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
-
-
+シャトラの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"샤토라의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
+コルワの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"코르와의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
 
 
 
@@ -3334,7 +3334,9 @@ C.C.,C.C.
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP *** → <span class=""txt-attention"">**</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동한다<br>                                                        TP *** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"">			この場所に移動します<br>							TP ** → <span class=""txt-attention"">**</span><br>				<div class=""btn-move-division"">移動する</div>					</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"">                        이 장소로 이동한다<br>                                                        TP ** → <span class=""txt-attention"">**</span><br>                                <div class=""btn-move-division"">이동한다</div>                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 "<div class=""txt-stage-message"">視線を感じる……</div>","<div class=""txt-stage-message"">시선이 느껴진다……</div>"
-"<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">風が冷たくなってきた</div>"
+"<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">날씨가 쌀쌀해졌다</div>"
+"<div class=""txt-stage-message"">渇いた空に<br>鳥の声が響いている</div>","<div class=""txt-stage-message"">맑은 하늘에<br>새소리가 울려 퍼지고 있다</div>"
+"<div class=""txt-stage-message"">雲が地を覆い<br>にわかに不安を掻きたてた</div>","<div class=""txt-stage-message"">구름이 땅을 뒤덮어<br>불안감을 부추긴다</div>"
 
 
 
@@ -3344,9 +3346,7 @@ C.C.,C.C.
 
 
 
-
-
-Lv** バルバルを討伐,Lv** 바르바르를 토벌
+Lv** バルバルを討伐,Lv** 바르발을 토벌
 
 決まったぜー！<br>一撃だ！,해냈다！<br>한방에 끝냈어！
 
@@ -3367,10 +3367,10 @@ Lv** バルバルを討伐,Lv** 바르바르를 토벌
 
 
 
-
-
-
-
+!별의 짐승의 레저넌스 칭호
+姉妹の絆,자매의 인연
+獲得条件：ゴルゴーンのメダリオンを累計で***個入手,획득조건：고르곤의 메달리온을 누계 ***개 획득
+獲得条件<br>ゴルゴーンのメダリオンを累計で***個入手,획득조건<br>고르곤의 메달리온을 누계 ***개 획득
 
 
 
@@ -10578,9 +10578,9 @@ Lv** 鬼将怒涛のジェレミア,Lv** 귀장노도 제레미아
 Lv** ラウンドウルフ,Lv** 라운드 울프
 Lv?? ラウンドウルフ,Lv?? 라운드 울프
 Lv** ワイルドウルフ,Lv** 와일드 울프
-
+スラッシャー,슬래셔
 Lv?? スラッシャー,Lv?? 슬래셔
-
+Lv** スラッシャー,Lv** 슬래셔
 Lv** ロッド,Lv** 로드
 Lv** 試作型二八式歩行戦車,Lv** 시작형 이팔식 보행전차
 Lv** SG-** ゴンザレス,Lv** SG-** 곤잘레스
@@ -10591,15 +10591,15 @@ Lv** フェンリル,Lv** 펜리르
 
 フレイムドレイク,플레임 드레이크
 Lv** フレイムドレイク,Lv** 플레임 드레이크
-
 ラフレシア,라플레시아
 Lv** ラフレシア,Lv** 라플레시아
-
 ヒッポラーヴァ,히포 라바
 Lv** ヒッポラーヴァ,Lv** 히포 라바
+バルバル,바르발
+Lv** バルバル,Lv** 바르발
+ビッグフット
 
 !고전장 몬스터
-
 Lv** アウズンブラ,Lv** 아우둠블라
 
 
