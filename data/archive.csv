@@ -1363,6 +1363,7 @@ CTが溜まらず、特殊技が発動できない状態,CT가 모이지 않으�
 タヴィーナの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"타비나의<br>Lv이 상한에 도달했습니다。<br>상한해방하여, 더욱 강화합시다！"
 フィルレインの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"필레인의<br>Lv이 상한에 도달했습니다。<br>상한해방하여, 더욱 강화합시다！"
 ルシオの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"루시오의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
+"ルシオの<br><span class=""txt-orange"">アビリティ習得クエスト</span>となる<br>フェイトエピソードが解放されました！","루시오의<br><span class=""txt-orange"">어빌리티 습득 퀘스트</span><br>페이트 에피소드가 해방되었습니다！"
 ベアトリクスの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"베아트릭스의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
 ナルメアの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"나루메아의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
 サンダルフォンの<br>Lvが上限に達しました。<br>上限解放を行い、さらなる強化をしましょう！,"산달폰의<br>Lv이 상한에 도달했습니다<br>상한해방하여, 더욱 강화합시다！"
@@ -3326,7 +3327,7 @@ C.C.,C.C.
 "イベントTOPにて、<br>「台詞集」が解放されました。                <div class=""txt-orange txt-caution"">台詞集では、過去の同名イベント開催時に<br>イベントTOPで表示されていたキャラクター、<br>台詞、音声を確認することができます。</div>","이벤트 TOP에서, <br>「대사집」이 해방되었습니다<div class=""txt-orange txt-caution"">대사집에서는 캐릭터, 대사, 음성을 확인할 수 있습니다</div>"
 "<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"" data-division-id=""*"">																																			<div class=""btn-stage-minigame"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">星土の結晶の採掘</div><div class=""txt-stage-minigame"">属性岩から星土の結晶を削り出せ！</div></div>																			</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"" data-division-id=""*"">                                                                                                                                                                                                                                                                                        <div class=""btn-stage-minigame"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">성토의 결정 채굴</div><div class=""txt-stage-minigame"">속성암에서 성토의 결정을 채굴하자！</div></div>                                                                                                                                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 星土の結晶の採掘に挑戦,성토의 결정 채굴에 도전하자
-属性岩から星土の結晶を削り出せ！,속성암에서 성토의 결정을 채굴하자！
+
 「星土の結晶」採集,「성토의 결정」채집
 古戦場跡の荒野 <span>*-*</span>,옛 고전장의 황야 <span>*-*</span>
 一度クリアしたステージはスキップが可能となります。,한 번 클리어한 스테이지는 스킵 가능합니다
@@ -3339,9 +3340,9 @@ C.C.,C.C.
 "<div class=""txt-stage-message"">風が冷たくなってきた</div>","<div class=""txt-stage-message"">날씨가 쌀쌀해졌다</div>"
 "<div class=""txt-stage-message"">渇いた空に<br>鳥の声が響いている</div>","<div class=""txt-stage-message"">맑은 하늘에<br>새소리가 울려 퍼지고 있다</div>"
 "<div class=""txt-stage-message"">雲が地を覆い<br>にわかに不安を掻きたてた</div>","<div class=""txt-stage-message"">구름이 땅을 뒤덮어<br>불안감을 부추긴다</div>"
-"<div class=""txt-stage-message"">晴れ渡った空が鏡となり<br>人間の小ささを写している</div>","<div class=""txt-stage-message"">맑게 갠 하늘이 거울이 되어<br>사람이 정말 작다고 느낀다</div>"
+"<div class=""txt-stage-message"">晴れ渡った空が鏡となり<br>人間の小ささを写している</div>","<div class=""txt-stage-message"">맑게 갠 하늘을 보니<br>사람은 정말 작다고 느낀다</div>"
 "<div class=""txt-stage-message"">風の音、砂を蹴る音だけが<br>存在感を示している</div>","<div class=""txt-stage-message"">바람 소리와 모래 위를 걷는<br>소리만 들려온다</div>"
-星土の結晶の採掘,성토의 결정 채굴
+
 
 
 
@@ -10696,6 +10697,22 @@ Lv** ジオ,Lv** 지오
 
 Lv** シアエガ,Lv** 크아이가
 Lv** オールド・マローダー,Lv** 올드 머로더
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lv** イウィヤ,Lv** 이위야
 !가웨인(SSR)
 [矜持の甲冑],[긍지의 갑주]
 ガウェイン,가웨인
