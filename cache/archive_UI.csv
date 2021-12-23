@@ -42,7 +42,7 @@ orig,kr
 TOPページに戻る,TOP페이지로 돌아간다
 同意する,동의한다
 
-!기본공통UI
+!기본공통 UI
 発動条件：,발동조건：
 重要,중요
 このお話のあらすじ,이 이야기의 줄거리
@@ -133,7 +133,8 @@ ID入力,ID입력
 前回のAP消費量 ****（うち繰り越し ****）,지난 AP소비량 ****（중 이월치 ****）
 前回のAP消費量 *****（うち繰り越し ****）,지난 AP소비량 *****（중 이월치 ****）
 前回のAP消費量 *****（うち繰り越し *****）,지난 AP소비량 *****（중 이월치 *****）
-
+"<div class=""prt-popup-header"">新着情報</div>        <div class=""prt-popup-body"">                <div class=""txt-popup-body"">                                * 人のフレンドと<br>*人の他プレイヤーのサポートに選ばれました。                <div class=""prt-reward-box"">                <div class=""prt-lupi-bonus"">ルピ <span class=""txt-reward-plus"">+*</span></div><br>                                        <div class=""prt-drop-bonus"">軌跡の雫 <span class=""txt-reward-plus"">+*</span></div><br>                                                <div class=""txt-consume"">前回のAP/AAP消費量 **（うち繰り越し **）</div>                                                        </div></div>                        </div>        <div class=""prt-popup-footer"">                                                <div class=""btn-usual-ok""></div>        </div>","<div class=""prt-popup-header"">신규정보</div>        <div class=""prt-popup-body"">                <div class=""txt-popup-body"">                                * 명의 친구와<br>그 외 *명의 플레이어 서포터로 선정되었습니다。                <div class=""prt-reward-box"">                <div class=""prt-lupi-bonus"">루피<span class=""txt-reward-plus"">+*</span></div><br>                                        <div class=""prt-drop-bonus"">軌跡の雫 <span class=""txt-reward-plus"">+*</span></div><br>                                                <div class=""txt-consume"">이전의 AP/AAP 소비량 **（이월 **）</div>                                                        </div></div>                        </div>        <div class=""prt-popup-footer"">                                                <div class=""btn-usual-ok""></div>        </div>"
+不明,불명
 注意事項,주의사항
 イベント・キャンペーン,이벤트 캠페인
 お知らせ・アップデート,공지・업데이트
@@ -3288,8 +3289,8 @@ Sレア以上の刀をエレメント化することで手に入ります。
 
 
 
-!스카이스코프
-スカイスコープ,스카이스코프
+!스카이 스코프
+スカイスコープ,스카이 스코프
 ミッション達成で武勲・栄誉の輝きを手に入れよう！<br>輝きはショップで武器やアイテムと交換可能！,미션달성으로 무훈·영예의 반짝임을 손에 넣자!<br>반짝임은 가게에서 무기나 아이템과 교환 가능!
 目標を設定しよう！,목표를 설정하자!
 仲間にしたいキャラや手に入れたい装備、<br>目指したい編成を選んで「目標設定」しよう！,"동료로 하고 싶은 캐릭터나 손에 넣고 싶은 장비, <br> 목표로 하고 싶은 편성을 선택하여 「목표 설정」하자!"
@@ -3318,7 +3319,7 @@ Sレア以上の刀をエレメント化することで手に入ります。
 未解放,미달성
 ミッションをお気に入りに登録する,미션을 즐겨찾기에 등록한다
 スカイスコープチュートリアルを完了する,스카이 스코프 튜토리얼을 완료한다
-フレンド申請をする,프렌드 신청을 한다
+フレンド申請をする,친구 신청을 한다
 騎空団に所属する,기공단에 소속된다
 推しキャラを設定する,최애 캐릭터를 설정한다
 サポート召喚石を設定する,서포트 소환석을 설정한다
