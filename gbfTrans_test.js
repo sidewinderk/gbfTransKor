@@ -2081,15 +2081,14 @@ function translate(stext, jsonFile) {
             isContainsBrTag = true;
         }
         if (isContainsBrTag){
-            stext = stext.replace("\t","");
             transTexts = stext.split("<br>");
             for (var component of transTexts) {
                 tempText = component.trim();
                 PrintLog(`Before:${tempText}`);
                 jsonFile.some(function (item) {
                     if (item.kr) {
-                        if (component.length == item.orig.length) {
-                            if ((component == item.orig)) {
+                        if (tempText.length == item.orig.length) {
+                            if ((tempText == item.orig)) {
                                 PrintLog(`GET:${item.kr}`);
                                 tempText = item.kr;
                                 returnValue = true;
