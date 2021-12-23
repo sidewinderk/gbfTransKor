@@ -2523,6 +2523,38 @@ function GetTranslatedImage(node, csv) {
     }
 }
 
+function GetTranslatedImageNoClass(node, csv) {
+    var imageInput = node.currentSrc;
+    var textInput = node.innerHTML.replace(/(\r\n|\n|\r)/gm, '').trim();
+    var translatedText = '';
+    if (!imageInput) return;
+    if (imageInput.includes(generalConfig.origin)) return;
+    if (
+        (!imageInput.includes('png') && !imageInput.includes('jpg')) ||
+        imageInput.includes('/ui/') ||
+        imageInput.includes('/raid/') ||
+        imageInput.includes('/number/')
+    )
+        return;
+    if (
+        textInput.includes('img class') ||
+        // || (textInput.includes("img src"))
+        textInput.includes('figure class') ||
+        textInput.includes('li class') ||
+        textInput.includes('a class')
+    )
+        return;
+    PrintLog(`GetTranslatedImageNoClass: Send Image URL:${imageInput}`);
+    if (transMode && doImageSwap)
+        translatedText = GetTranslatedImageURL(imageInput, csv);
+    if (translatedText.length > 0) {
+        // When it founds the translated text
+        PrintLog(`GetTranslatedImageNoClass: Take translated URL:${translatedText}`);
+        node.setAttribute('src', translatedText);
+    }
+}
+
+
 function GetTranslatedImageDIV(node, csv) {
     if (node.className) {
         var passOrNot = true;
@@ -2756,6 +2788,15 @@ var ImageObserver = new MutationObserver(function (mutations) {
         if (global_banner) {
             global_banner.forEach(image => {
                 walkDownTreeSrc(image, GetTranslatedImage, imageBlobsUrl);
+                // walkDownTreeSrc(mutation.target, GetTranslatedImage, imageBlobs);
+            });
+        }
+        
+        var buttons = doc.querySelectorAll('img');
+        if (buttons) {
+            buttons.forEach(image => {
+                GetTranslatedImageNoClass(image, imageBlobsUrl);
+                // walkDownTreeSrc(image, GetTranslatedImageNoClass, imageBlobsUrl);
                 // walkDownTreeSrc(mutation.target, GetTranslatedImage, imageBlobs);
             });
         }
