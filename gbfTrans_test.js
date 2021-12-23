@@ -2793,7 +2793,7 @@ var ImageObserver = new MutationObserver(function (mutations) {
             });
         }
         
-        var buttons = doc.querySelectorAll('img');
+        var buttons = doc.querySelectorAll('img:not([class])');
         if (buttons) {
             buttons.forEach(image => {
                 GetTranslatedImageNoClass(image, imageBlobsUrl);
