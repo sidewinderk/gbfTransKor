@@ -3343,6 +3343,7 @@ C.C.,C.C.
 "<div class=""txt-stage-message"">雲が地を覆い<br>にわかに不安を掻きたてた</div>","<div class=""txt-stage-message"">구름이 땅을 뒤덮어<br>불안감을 부추긴다</div>"
 "<div class=""txt-stage-message"">晴れ渡った空が鏡となり<br>人間の小ささを写している</div>","<div class=""txt-stage-message"">맑게 갠 하늘을 보니<br>사람은 정말 작다고 느낀다</div>"
 "<div class=""txt-stage-message"">風の音、砂を蹴る音だけが<br>存在感を示している</div>","<div class=""txt-stage-message"">바람 소리와 모래 위를 걷는<br>소리만 들려온다</div>"
+"<div class=""txt-stage-message"">かつての戦乱の痕跡が<br>至る所に残されている</div>","<div class=""txt-stage-message"">예전 전쟁의 상흔이<br>여기저기에 남겨져 있다</div>"
 
 
 チェックポイントに到達しました。<br><br>進行状況を記録して探索を終了し、<br>イベントTOPへ戻りますか？,체크 포인트에 도달했습니다<br><br>진행 상황을 기록하고 탐색을 종료하고、<br>이벤트 TOP으로 돌아갈까요？
@@ -16262,7 +16263,7 @@ LBを割り振ることで、ジョブを強化することができます。,LB
 
 
 通常攻撃時奥義ゲージ上昇,일반공격시 오의 게이지 상승
-*位,*위
+
 
 
 
