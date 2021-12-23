@@ -3325,10 +3325,11 @@ C.C.,C.C.
 名イベント開催時に<br>イベントTOPで表示されていたキャラクター、<br>台詞、音声を確認することができます。</div>
 
 "イベントTOPにて、<br>「台詞集」が解放されました。                <div class=""txt-orange txt-caution"">台詞集では、過去の同名イベント開催時に<br>イベントTOPで表示されていたキャラクター、<br>台詞、音声を確認することができます。</div>","이벤트 TOP에서, <br>「대사집」이 해방되었습니다<div class=""txt-orange txt-caution"">대사집에서는 캐릭터, 대사, 음성을 확인할 수 있습니다</div>"
-"<div class=""prt-frame-head""></div>	<div class=""prt-frame-main"">		<div class=""prt-division-list"" data-division-id=""*"">																																			<div class=""btn-stage-minigame"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">星土の結晶の採掘</div><div class=""txt-stage-minigame"">属性岩から星土の結晶を削り出せ！</div></div>																			</div>	</div>	<div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"" data-division-id=""*"">                                                                                                                                                                                                                                                                                        <div class=""btn-stage-minigame"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">성토의 결정 채굴</div><div class=""txt-stage-minigame"">속성암에서 성토의 결정을 채굴하자！</div></div>                                                                                                                                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
+"<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"" data-division-id=""*"">                                                                                                                                                                                                                                                                                        <div class=""btn-stage-minigame"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">星土の結晶の採掘</div><div class=""txt-stage-minigame"">属性岩から星土の結晶を削り出せ！</div></div>                                                                                                                                                        </div>        </div>        <div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"" data-division-id=""*"">                                                                                                                                                                                                                                                                                        <div class=""btn-stage-minigame"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">성토의 결정 채굴</div><div class=""txt-stage-minigame"">속성암에서 성토의 결정을 채굴하자！</div></div>                                                                                                                                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
+"<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"" data-division-id=""*"">                                                                                                                                                                                                                                                                                        <div class=""btn-stage-minigame release"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">星土の結晶の採掘</div><div class=""txt-stage-minigame"">属性岩から星土の結晶を削り出せ！</div></div>                                                                                                                                                        </div>        </div>        <div class=""prt-frame-foot""></div>","<div class=""prt-frame-head""></div>        <div class=""prt-frame-main"">                <div class=""prt-division-list"" data-division-id=""*"">                                                                                                                                                                                                                                                                                        <div class=""btn-stage-minigame release"" data-origin-id=""******"" data-use-tp=""*""><img class=""img-stage-minigame"" src=""http://game-a*.granbluefantasy.jp/assets/img/sp/quest/assets/board/****_treasureraid***.png"" alt=""****_treasureraid***""><div class=""txt-stage-title-minigame"">성토의 결정 채굴</div><div class=""txt-stage-minigame"">속성암에서 성토의 결정을 채굴하자！</div></div>                                                                                                                                                        </div>        </div>        <div class=""prt-frame-foot""></div>"
 星土の結晶の採掘に挑戦,성토의 결정 채굴에 도전하자
 星土の結晶の採掘,성토의 결정 채굴
-「星土の結晶」採集,「성토의 결정」채집
+「星土の結晶」採集,「성토의 결정」채취
 古戦場跡の荒野 <span>*-*</span>,옛 고전장의 황야 <span>*-*</span>
 一度クリアしたステージはスキップが可能となります。,한 번 클리어한 스테이지는 스킵 가능합니다
 古戦場跡の荒野,옛 고전장의 황야
@@ -3343,14 +3344,25 @@ C.C.,C.C.
 "<div class=""txt-stage-message"">晴れ渡った空が鏡となり<br>人間の小ささを写している</div>","<div class=""txt-stage-message"">맑게 갠 하늘을 보니<br>사람은 정말 작다고 느낀다</div>"
 "<div class=""txt-stage-message"">風の音、砂を蹴る音だけが<br>存在感を示している</div>","<div class=""txt-stage-message"">바람 소리와 모래 위를 걷는<br>소리만 들려온다</div>"
 
+
+チェックポイントに到達しました。<br><br>進行状況を記録して探索を終了し、<br>イベントTOPへ戻りますか？,체크 포인트에 도달했습니다<br><br>진행 상황을 기록하고 탐색을 종료하고、<br>이벤트 TOP으로 돌아갈까요？
+
+
+!속성암 채굴 관련
 属性岩を発見した！,속성암을 발견했다！
-準備はいいですか？<br>頑張りましょう！,준비됐어요?<br>우리 힘내요！
-あ、岩にひびが<br>入りましたよ！,아、바위에 금이 갔어요！
 属性岩を攻撃！,속성암을 공격！
 属性岩に亀裂が入った！,속성암에 균열이 생겼다！
-ふふん！　やっとやる気が<br>出て来たみたいね！,후훗！　이제야 진짜 실력을<br>보여주려나 보네！
 属性岩が砕けた！,속성암이 부서졌다！
-やったわね！　アンタに<br>頼んだ甲斐があったわ。,대단해！　너한테<br>부탁하길 잘했어
+→****ダメージを与えた！,→ **** 데미지를 주었다！
+
+
+準備はいいですか？<br>頑張りましょう！,준비됐나요?<br>우리 힘내요！
+あ、岩にひびが<br>入りましたよ！,아、바위에 금이 갔어요！
+よぉし！<br>張り切って行こうぜ！,좋아！<br>시작하자구！
+あ、ひびが入ったわね。<br>この調子よ！,아、금이 갔네<br>잘하고있어！
+ふふん！　やっとやる気が<br>出て来たみたいね！,후훗！　이제야 진짜 실력을<br>보여주려나 보네！
+やったわね！　アンタに<br>頼んだ甲斐があったわ。,대단한걸！　너한테<br>부탁하길 잘했어
+ふふふ、流石ですね！<br>何が採れましたか？,후후후、대단해요！<br>뭘 발견했어요？
 決まったぜー！<br>一撃だ！,해냈다！<br>한방에 끝냈어！
 Lv** バルバルを討伐,Lv** 바르발을 토벌
 星土の結晶獲得,성토의 결정 획득
@@ -3359,7 +3371,7 @@ Lv** バルバルを討伐,Lv** 바르발을 토벌
 "<span class=""txt-yellow"">星土の結晶を**個 GET！</span>","<span class=""txt-yellow"">성토의 결정을 **개 GET！</span>"
 進行状況を登録し、探索を完了しました。,"진행상황을 등록하고, 탐색을 완료했습니다"
 採掘した星土の結晶,채굴한 성토의 결정
-エクストラクエストをクリアし挑戦回数を増やすことで、今回の続きから探索を開始できます。,"엑스트라 퀘스트를 클리어해 도전 횟수를 늘리면, 이어서 탐색할 수 있습니다"
+エクストラクエストをクリアし挑戦回数を増やすことで、今回の続きから探索を開始できます。,"엑스트라 퀘스트를 클리어해 도전 횟수를 늘리면,<br>이어서 탐색할 수 있습니다"
 
 エクストラクエストを*回クリアすると<br>探索クエスト「古戦場跡の荒野」の<br>挑戦可能回数が*回増加します。,엑스트라 퀘스트를 *회 클리어하면<br>탐색 퀘스트「옛 고전장의 황야」의<br>도전 가능 횟수가 *회 증가합니다
 エクストラクエストをクリアして<br>探索クエストに挑戦しよう！,엑스트라 퀘스트를 클리어하고<br>탐색 퀘스트에 도전하자！
@@ -3367,8 +3379,8 @@ Lv** バルバルを討伐,Lv** 바르발을 토벌
 探索情報,탐색정보
 古戦場跡の荒野を探索し、<br>星土の結晶を集めて報酬と交換しよう！,옛 고전장의 황야를 탐험하고<br>성토의 결정을 모아 보상과 교환하자！
 
-→****ダメージを与えた！,→ **** 데미지를 주었다！
-チェックポイントに到達しました。<br><br>進行状況を記録して探索を終了し、<br>イベントTOPへ戻りますか？,체크 포인트에 도달했습니다<br><br>진행 상황을 기록하고 탐색을 종료하고、<br>이벤트 TOP으로 돌아갈까요？
+
+
 
 !별의 짐승의 레저넌스 칭호
 姉妹の絆,자매의 인연
@@ -15348,7 +15360,7 @@ RP・EXP*倍キャンペーン,RP・EXP *배 캠페인
 イベントストーリーはルリアノートから<br>いつでもお楽しみいただくことができます。,이벤트 스토리는 루리아 노트에서<br>언제든지 즐길 수 있습니다.
 イベントマルチバトルを<br>*回クリアしよう！,이벤트 멀티배틀을<br>*회 클리어하자！
 "<span class=""txt-progress-num"">*</span> / *回","<span class=""txt-progress-num"">*</span> / *회"
-
+イベントTOP,이벤트 TOP
 
 !프롤로그
 プレイヤー名設定,플레이어명 설정
