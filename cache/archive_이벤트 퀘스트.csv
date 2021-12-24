@@ -174,11 +174,11 @@ orig,kr
 "<div class=""txt-stage-message"">雲が地を覆い<br>にわかに不安を掻きたてた</div>","<div class=""txt-stage-message"">구름이 땅을 뒤덮어<br>불안감을 부추긴다</div>"
 "<div class=""txt-stage-message"">晴れ渡った空が鏡となり<br>人間の小ささを写している</div>","<div class=""txt-stage-message"">맑게 갠 하늘을 보니<br>사람은 정말 작다고 느낀다</div>"
 "<div class=""txt-stage-message"">風の音、砂を蹴る音だけが<br>存在感を示している</div>","<div class=""txt-stage-message"">바람 소리와 모래 위를 걷는<br>소리만 들려온다</div>"
-"<div class=""txt-stage-message"">かつての戦乱の痕跡が<br>至る所に残されている</div>","<div class=""txt-stage-message"">예전 전쟁의 상흔이<br>여기저기에 남겨져 있다</div>"
-
+"<div class=""txt-stage-message"">かつての戦乱の痕跡が<br>至る所に残されている</div>","<div class=""txt-stage-message"">과거 전란의 흔적이<br>곳곳에 남아있다</div>"
+"<div class=""txt-stage-message"">斜面から<br>小石が転がってきた</div>","<div class=""txt-stage-message"">경사면에서<br>작은 돌이 굴러왔다</div>"
+"<div class=""txt-stage-message"">崩れた砦の瓦礫に<br>足をとられてしまいそうだ</div>","<div class=""txt-stage-message"">무너진 성채의 잔해가<br>널브러져 있다</div>"
 
 チェックポイントに到達しました。<br><br>進行状況を記録して探索を終了し、<br>イベントTOPへ戻りますか？,체크 포인트에 도달했습니다<br><br>진행 상황을 기록하고 탐색을 종료하고、<br>이벤트 TOP으로 돌아갈까요？
-
 
 !속성암 채굴 관련
 属性岩を発見した！,속성암을 발견했다！
@@ -192,7 +192,7 @@ orig,kr
 あ、岩にひびが<br>入りましたよ！,아、바위에 금이 갔어요！
 よぉし！<br>張り切って行こうぜ！,좋아！<br>시작하자구！
 あ、ひびが入ったわね。<br>この調子よ！,아、금이 갔네<br>잘하고있어！
-ふふん！　やっとやる気が<br>出て来たみたいね！,후훗！ 이제 진짜 실력을<br>보여주려나 보네！
+ふふん！　やっとやる気が<br>出て来たみたいね！,후훗！ 이제 진짜 실력을<br>보여주려는거지？
 やったわね！　アンタに<br>頼んだ甲斐があったわ。,대단한걸！ 너한테<br>부탁하길 잘했어
 ふふふ、流石ですね！<br>何が採れましたか？,후후후、대단해요！<br>뭘 발견했어요？
 決まったぜー！<br>一撃だ！,해냈다！<br>한방에 끝냈어！
@@ -203,9 +203,9 @@ orig,kr
 やればできるんじゃない！,잘하는걸～！
 すげぇ沢山採掘できたんじゃ<br>ねぇか？　やったな！,엄청 많이 채굴했네？<br>　잘했어！
 ごくり……<br>スゲェ気合だな……！,오오……<br>엄청난 녀석이네……！
-ほらっ！<br>一気に決めちゃいなさい！,자！<br>한번에 끝내버려！
+ほらっ！<br>一気に決めちゃいなさい！,자！<br>단번에 끝내버리라구！
 おお？　こりゃあ<br>いけそうじゃねぇか！？,어？ 이건<br>한방에 끝낼 수 있겠는데！？
-はわっ……！<br>私、少し離れてますね！,하왓……！<br>저、조금 떨어져있을게요！
+はわっ……！<br>私、少し離れてますね！,하왓……！<br>저는 조금 떨어져있을게요！
 
 
 
@@ -217,6 +217,7 @@ Lv** バルバルを討伐,Lv** 바르발을 토벌
 "合計<span class=""txt-score-color"">**</span>個採掘しました！","합계 <span class=""txt-score-color"">**</span>개 채굴했습니다！"
 "合計<span class=""txt-score-color"">***</span>個採掘しました！","합계 <span class=""txt-score-color"">***</span>개 채굴했습니다！"
 "<span class=""txt-yellow"">星土の結晶を**個 GET！</span>","<span class=""txt-yellow"">성토의 결정을 **개 GET！</span>"
+"<span class=""txt-yellow"">星土の結晶を***個 GET！</span>","<span class=""txt-yellow"">성토의 결정을 ***개 GET！</span>"
 進行状況を登録し、探索を完了しました。,"진행상황을 등록하고, 탐색을 완료했습니다"
 採掘した星土の結晶,채굴한 성토의 결정
 エクストラクエストをクリアし挑戦回数を増やすことで、今回の続きから探索を開始できます。,"엑스트라 퀘스트를 클리어해 도전 횟수를 늘리면,<br>이어서 탐색할 수 있습니다"
