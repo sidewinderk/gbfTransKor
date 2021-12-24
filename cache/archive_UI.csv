@@ -133,7 +133,8 @@ ID入力,ID입력
 前回のAP消費量 ****（うち繰り越し ****）,지난 AP소비량 ****（중 이월치 ****）
 前回のAP消費量 *****（うち繰り越し ****）,지난 AP소비량 *****（중 이월치 ****）
 前回のAP消費量 *****（うち繰り越し *****）,지난 AP소비량 *****（중 이월치 *****）
-"<div class=""prt-popup-header"">新着情報</div>        <div class=""prt-popup-body"">                <div class=""txt-popup-body"">                                * 人のフレンドと<br>*人の他プレイヤーのサポートに選ばれました。                <div class=""prt-reward-box"">                <div class=""prt-lupi-bonus"">ルピ <span class=""txt-reward-plus"">+*</span></div><br>                                        <div class=""prt-drop-bonus"">軌跡の雫 <span class=""txt-reward-plus"">+*</span></div><br>                                                <div class=""txt-consume"">前回のAP/AAP消費量 **（うち繰り越し **）</div>                                                        </div></div>                        </div>        <div class=""prt-popup-footer"">                                                <div class=""btn-usual-ok""></div>        </div>","<div class=""prt-popup-header"">신규정보</div>        <div class=""prt-popup-body"">                <div class=""txt-popup-body"">                                * 명의 친구와<br>그 외 *명의 플레이어 서포터로 선정되었습니다。                <div class=""prt-reward-box"">                <div class=""prt-lupi-bonus"">루피<span class=""txt-reward-plus"">+*</span></div><br>                                        <div class=""prt-drop-bonus"">軌跡の雫 <span class=""txt-reward-plus"">+*</span></div><br>                                                <div class=""txt-consume"">이전의 AP/AAP 소비량 **（이월 **）</div>                                                        </div></div>                        </div>        <div class=""prt-popup-footer"">                                                <div class=""btn-usual-ok""></div>        </div>"
+
+
 不明,불명
 注意事項,주의사항
 イベント・キャンペーン,이벤트 캠페인
@@ -2244,6 +2245,7 @@ BPは使用されませんでした,BP는 사용되지 않았습니다
 ** 宝晶石,** 보정석
 *** 宝晶石,*** 보정석
 **** 宝晶石,**** 보정석
+宝晶石 × **,보정석 × **
 ** ルピ,** 루피
 *** ルピ,*** 루피
 **** ルピ,**** 루피
