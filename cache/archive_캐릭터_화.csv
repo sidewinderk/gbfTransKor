@@ -158,11 +158,12 @@ orig,kr
 
 "!메테라(SSR,화속통상)"
 [凄艶の射手],[처염의 사수]
-メーテラ,메테라
-
-!덴스・케레스
+メーテラ,메테라,,,"광속성 데미지(특대)<br><span class=""text-blue"">◆에테리얼 씰 소비：추가 데미지</span>"
+デンス・キャレス,덴스・케레스
+デンス・キャレス＋,덴스・케레스+
 "火属性ダメージ(特大)<br><span class=""text-blue"">◆エーテリアルシール消費：追加ダメージ</span>","화속성 데미지(특대)<br><span class=""text-blue"">◆에테리얼 씰 소비：추가 데미지</span>"
-!기라성
+綺羅星,기라성
+綺羅星＋,기라성+
 飾り穿ち隼返し＋,허식을 꿰뚫는 매 돌리기＋
 "<div class=""prt-text-small"">敵に火属性ダメージ/魅了効果<span class=""text-blue"">◆エーテリアルシール消費：スロウ効果追加</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지/매료 효과<span class=""text-blue"">◆에테리얼 씰 소비：슬로우 효과 추가</span></div>"
 金火彗降,금화혜강
@@ -399,15 +400,15 @@ orig,kr
 [エンド・オブ・ザ],[엔드 오브 더]
 アオイドス,아오이도스
 
-Heavens On Fire＋
+
 火属性ダメージ(特大)/自分のテンションUP,화속성 데미지(특대) / 자신의 텐션 UP
-Judgment Night＋
+
 自分のテンションUP,자신의 텐션 UP
-Bloody Garden＋
+
 自分の連続攻撃確率UP/敵対心大幅UP,자신의 연속 공격 확률 UP/적대심 대폭 UP
-Legendary Warriors
+
 味方全体のテンションUP,아군 전체의 텐션 UP
-Killing Wing
+
 稀にカウンター効果(回避/*回),드물게 카운터 효과(회피/*회)
 
 
