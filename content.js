@@ -2587,20 +2587,37 @@ function translate(stext, jsonFile) {
         conjunctionJson.some(function (item) {
             if (item.kr) {
                 if (stext.length > item.orig.length) {
-                    if ((transTexts.length < 1) && // array `transTexts` is not defined yet.
+                    // array `transTexts` is not defined yet.
+                    if ((transTexts.length < 1) && 
                         (stext.includes(item.orig))) {
                             // First case
                             PrintLog(`Conjuction check GET:${item.kr}`);
-                            stext.split(item.orig).forEach( function(textValue){
-                                if (textValue.length > 0){
-                                    transTexts.push(textValue);
-                                    transTexts.push(item.kr);
+                            
+                            tempTransTexts = stext.split(item.orig);
+                            arrayindex = 0;
+                            // First text only case, ["", "some text"]
+                            if(tempTransTexts[0].length < 1){
+                                transTexts.push(item.kr);
+                                arrayindex = 1;
+                            }
+                            if( !arrayindex // No first text only case
+                             || (arrayindex && (tempTransTexts.length > 2))) // or longer than 2
+                             {
+                                for(let iTemp = arrayindex; iTemp < tempTransTexts.length; iTemp++){
+                                    if (tempTransTexts[iTemp].length > 0){
+                                        transTexts.push(tempTransTexts[iTemp]);
+                                        transTexts.push(item.kr);
+                                    }
                                 }
-                            });
+                            }
+                            else { // first text only case && length == 2
+                                transTexts.push(tempTransTexts[1]);
+                            }
                             isContainConjuction = true;
                             isTranslatedByConjunctionDB = true;
                     }
-                    else{ // array `transTexts` is defined already.
+                    else{
+                        // array `transTexts` is defined already.
                         for (var component of transTexts) {
                             if(component.includes(item.orig)){
                                 // Second and after
