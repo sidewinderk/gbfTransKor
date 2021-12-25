@@ -2012,7 +2012,8 @@ function translate(stext, jsonFile) {
         conjunctionJson.some(function (item) {
             if (item.kr) {
                 if (stext.length > item.orig.length) {
-                    if ((transTexts.length < 1) && // array `transTexts` is not defined yet.
+                    // array `transTexts` is not defined yet.
+                    if ((transTexts.length < 1) && 
                         (stext.includes(item.orig))) {
                             // First case
                             PrintLog(`Conjuction check GET:${item.kr}`);
@@ -2025,7 +2026,8 @@ function translate(stext, jsonFile) {
                             isContainConjuction = true;
                             isTranslatedByConjunctionDB = true;
                     }
-                    else{ // array `transTexts` is defined already.
+                    else{ 
+                        // array `transTexts` is defined already.
                         for (var component of transTexts) {
                             if(component.includes(item.orig)){
                                 // Second and after
