@@ -2012,24 +2012,22 @@ function translate(stext, jsonFile) {
         conjunctionJson.some(function (item) {
             if (item.kr) {
                 if (stext.length > item.orig.length) {
+                    // array `transTexts` is not defined yet.
                     if ((transTexts.length < 1) && 
                         (stext.includes(item.orig))) {
                             // First case
                             PrintLog(`Conjuction check GET:${item.kr}`);
-                            transTexts = stext.split(item.orig);
-                            if (transTexts[0].length < 1){
-                                // If this text was the first word or text in the scentence,
-                                // Replace the first 'blank' item
-                                transTexts.splice(0, 1, item.kr);
-                            }
-                            else{
-                                // or just put between 2 texts.
-                                transTexts.splice(1, 0, item.kr);
-                            }
+                            stext.split(item.orig).forEach( function(textValue){
+                                if (textValue.length > 0){
+                                    transTexts.push(textValue);
+                                    transTexts.push(item.kr);
+                                }
+                            });
                             isContainConjuction = true;
                             isTranslatedByConjunctionDB = true;
                     }
-                    else{
+                    else{ 
+                        // array `transTexts` is defined already.
                         for (var component of transTexts) {
                             if(component.includes(item.orig)){
                                 // Second and after
@@ -2043,7 +2041,6 @@ function translate(stext, jsonFile) {
                                     // or just put between 2 texts.
                                     transTexts.splice(transTexts.indexOf(component), 1, templist[0], item.kr, templist[1]);
                                 }
-                                isTranslatedByConjunctionDB = true;
                             }
                         };
                     }
