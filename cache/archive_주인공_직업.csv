@@ -938,6 +938,7 @@ Lvに応じて攻撃性能とアビリティ性能が上昇し、確率でター
 "<div class=""prt-text-small"">通常攻撃時にマシンセル*消費/マシンセルが付与されている時、以下の効果を得る<br><span class=""text-blue"">剣装備時：攻撃性能UP<br>銃装備時：通常攻撃後敵全体に自属性ダメージ</span></div>","<div class=""prt-text-small"">일반공격시 머신 셀 *개 소비 / 머신 셀이 있을 때 이하의 효과를 얻는다<br><span class=""text-blue"">검 장비시：공격 성능 UP<br>총 장비시：일반공격 후 적 전체에게 자신의 속성 데미지</span></div>"
 "オーグメント・マギア<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","어그먼트 마기아<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 レリックバスターをLv**にする,렐릭 버스터 Lv**에 습득가능
+マシンセル,머신 셀
 
 !EX 1
 !알케미스트 스킬
