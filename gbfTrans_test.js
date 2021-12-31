@@ -2026,7 +2026,7 @@ function translate(stext, jsonFile) {
                                 arrayindex = 1;
                             }
                             if( !arrayindex // No first text only case
-                             || (arrayindex && (tempTransTexts.length > 2))) // or longer than 2
+                             || (arrayindex && (tempTransTexts.length > 3))) // or longer than 2
                              {
                                 for(let iTemp = arrayindex; iTemp < tempTransTexts.length; iTemp++){
                                     if (tempTransTexts[iTemp].length > 0){
