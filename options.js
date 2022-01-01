@@ -5,6 +5,7 @@ function save_options() {
     var ImageSwap = document.getElementById('doImageSwap').checked;
     var BattleTrans = document.getElementById('doBattleTranslation').checked;
     var fontCurrent = document.getElementById('fontaddr').value;
+    var fontEngNumCurrent = document.getElementById('EngNumFont').checked;
     var nonTransTextCurrent = document.getElementById('ignoreTranslatedText').checked;
     chrome.storage.local.set({
         verboseMode: verboseModeCurrent,
@@ -12,6 +13,7 @@ function save_options() {
         imageswap: ImageSwap,
         battleobserver: BattleTrans,
         userFont: fontCurrent,
+        fontEngNum: fontEngNumCurrent,
         nonTransText: nonTransTextCurrent
     }, function() {
         // Update status to let user know options were saved.
@@ -27,7 +29,7 @@ function save_options() {
 // stored in chrome.storage.
 function restore_options() {
     // Use default value extractMode = true.
-    chrome.storage.local.get(['verboseMode', 'origin', 'imageswap', 'battleobserver', 'userFont', 'nonTransText'], function(items) {
+    chrome.storage.local.get(['verboseMode', 'origin', 'imageswap', 'battleobserver', 'userFont', 'fontEngNum', 'nonTransText'], function(items) {
         document.getElementById('isVerbose').checked = items.verboseMode;
         if(items.origin){
             document.getElementById('origintext').value = items.origin;
@@ -35,6 +37,7 @@ function restore_options() {
         document.getElementById('doImageSwap').checked = items.imageswap;
         document.getElementById('doBattleTranslation').checked = items.battleobserver;
         document.getElementById('fontaddr').value = items.userFont;
+        document.getElementById('EngNumFont').checked = items.fontEngNum;
         document.getElementById('ignoreTranslatedText').checked = items.nonTransText;
     });
 }
@@ -70,6 +73,9 @@ document.getElementById('additionalFont1').onclick = function(element) {
     save_options();
 }
 document.getElementById('customFont').onclick = function(element) {
+    save_options();
+}
+document.getElementById('EngNumFont').onclick = function(element) {
     save_options();
 }
 document.addEventListener('DOMContentLoaded', restore_options);

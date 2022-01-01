@@ -12,7 +12,8 @@ var generalConfig = {
     // defaultTransNameMale: "[그랑]", // Default translated user name
     // defaultTransNameFemale: "[지타]",
     defaultFont: "src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff'); font-weight: normal; font-style: normal;",
-    defaultFontName: "NanumSquare"
+    defaultFontName: "NanumSquare",
+    dontApplyFontEngNum: false
 };
 var doc = document;
 var isVerboseMode = false;
@@ -2041,6 +2042,7 @@ async function InitList() {
         'translateMode',
         'userFont',
         'userFontName',
+        'fontEngNum',
         'nonTransText'
     ]);
     if (chromeOptions.sceneFullInfo)
@@ -2070,11 +2072,18 @@ async function InitList() {
     }
     if (chromeOptions.userFont)
         generalConfig.defaultFont = chromeOptions.userFont;
+    if (chromeOptions.fontEngNum)
+        generalConfig.dontApplyFontEngNum = chromeOptions.fontEngNum;
 
 
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
-    @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+AC00-D7AF;}`;
+    @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+AC00-D7AF;`;
+    if (generalConfig.dontApplyFontEngNum){
+        styles = styles + " unicode-range: U+0030-0039; unicode-range: U+0041-005A; unicode-range: U+0061-007A;";
+    }
+    styles = styles + "}";
+    console.log(styles);
     if (!initialize) {
         PrintLog("Initialized");
         var styleSheet = doc.createElement('style');
