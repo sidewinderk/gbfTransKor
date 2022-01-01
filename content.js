@@ -2585,7 +2585,7 @@ function translate(stext, jsonFile) {
     // Translate for conjuction text only
     if(!isTranslatedByOrdinaryDB && conjunctionJson){
         conjunctionJson.some(function (item) {
-            if (item.kr) {
+            if (item.kr && (item.orig.length > 0)) {
                 if (stext.length > item.orig.length) {
                     // array `transTexts` is not defined yet.
                     if ((transTexts.length < 1) && 
@@ -2595,18 +2595,24 @@ function translate(stext, jsonFile) {
                             
                             tempTransTexts = stext.split(item.orig);
                             arrayindex = 0;
+                            isTranslationUsed = 0; // Check if the translation is occurred.
                             // First text only case, ["", "some text"]
                             if(tempTransTexts[0].length < 1){
                                 transTexts.push(item.kr);
                                 arrayindex = 1;
+                                PrintLog(`Only one: ${item.kr}, all: ${tempTransTexts}`);
                             }
                             if( !arrayindex // No first text only case
                              || (arrayindex && (tempTransTexts.length > 3))) // or longer than 2
                              {
                                 for(let iTemp = arrayindex; iTemp < tempTransTexts.length; iTemp++){
                                     if (tempTransTexts[iTemp].length > 0){
+                                        PrintLog(`Loop ${iTemp}: ${item.kr}, orig: ${stext}, all: ${tempTransTexts}`);
                                         transTexts.push(tempTransTexts[iTemp]);
-                                        transTexts.push(item.kr);
+                                        if(!tempTransTexts[iTemp].includes("</span>") || !isTranslationUsed){
+                                            transTexts.push(item.kr);
+                                            isTranslationUsed = isTranslationUsed + 1;
+                                        }
                                     }
                                 }
                             }
