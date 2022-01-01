@@ -2565,7 +2565,7 @@ function translate(stext, jsonFile) {
 
     // First, Lookup the oridinary DB
     jsonFile.some(function (item) {
-        if (item.kr) {
+        if (item.kr && item.orig) {
             if (stext.length == item.orig.length) {
                 if ((stext == item.orig)) {
                     PrintLog(`GET:${item.kr}`);
@@ -2585,7 +2585,7 @@ function translate(stext, jsonFile) {
     // Translate for conjuction text only
     if(!isTranslatedByOrdinaryDB && conjunctionJson){
         conjunctionJson.some(function (item) {
-            if (item.kr && (item.orig.length > 0)) {
+            if (item.kr && item.orig) {
                 if (stext.length > item.orig.length) {
                     // array `transTexts` is not defined yet.
                     if ((transTexts.length < 1) && 
@@ -2600,14 +2600,13 @@ function translate(stext, jsonFile) {
                             if(tempTransTexts[0].length < 1){
                                 transTexts.push(item.kr);
                                 arrayindex = 1;
-                                PrintLog(`Only one: ${item.kr}, all: ${tempTransTexts}`);
+                                isTranslationUsed = isTranslationUsed + 1;
                             }
                             if( !arrayindex // No first text only case
                              || (arrayindex && (tempTransTexts.length > 3))) // or longer than 2
                              {
                                 for(let iTemp = arrayindex; iTemp < tempTransTexts.length; iTemp++){
                                     if (tempTransTexts[iTemp].length > 0){
-                                        PrintLog(`Loop ${iTemp}: ${item.kr}, orig: ${stext}, all: ${tempTransTexts}`);
                                         transTexts.push(tempTransTexts[iTemp]);
                                         if(!tempTransTexts[iTemp].includes("</span>") || !isTranslationUsed){
                                             transTexts.push(item.kr);
@@ -2649,7 +2648,7 @@ function translate(stext, jsonFile) {
         for (var component of transTexts) {
             tempText = component;
             jsonFile.some(function (item) {
-                if (item.kr) {
+                if (item.kr && item.orig) {
                     if (component.length == item.orig.length) {
                         if ((component == item.orig)) {
                             PrintLog(`GET:${item.kr}`);
