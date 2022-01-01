@@ -2667,39 +2667,45 @@ function translate(stext, jsonFile) {
         }
     }
 
-    // if(!isTranslatedByOrdinaryDB &&!isTranslatedByConjunctionDB){
-    //     isContainsBrTag = false;
-    //     if(stext.includes("<br>")){
-    //         isContainsBrTag = true;
-    //     }
-    //     if (isContainsBrTag){
-    //         transTexts = stext.split("<br>");
-    //         for (var component of transTexts) {
-    //             tempText = component.trim();
-    //             PrintLog(`Before:${tempText}`);
-    //             jsonFile.some(function (item) {
-    //                 if (item.kr) {
-    //                     if (tempText.length == item.orig.length) {
-    //                         if ((tempText == item.orig)) {
-    //                             PrintLog(`GET:${item.kr}`);
-    //                             tempText = item.kr;
-    //                             returnValue = true;
-    //                             if (tempText.includes(generalConfig.defaultName)) {
-    //                                 var resultUserName = getTransDefaultUserName(userName);
-    //                                 tempText = tempText.split(generalConfig.defaultName).join(resultUserName);
-    //                             }
-    //                             return true;
-    //                         }
-    //                     }
-    //                 }
-    //             });
-    //             PrintLog(`After:${tempText}`);
-    //             if(tempText.length>0){
-    //                 transText = transText + tempText + "<br>";
-    //             }
-    //         }
-    //     }
-    // }
+    if(!isTranslatedByOrdinaryDB &&!isTranslatedByConjunctionDB){
+        isTranslationUsed = 0;
+        isContainsBrTag = false;
+        if(stext.includes("<br>")){
+            if(stext.split("<br>").length < 5){
+                isContainsBrTag = true;
+            }
+        }
+        if (isContainsBrTag){
+            transTexts = stext.split("<br>");
+            PrintLog(`BR Orig:${stext}, split: ${transTexts}`);
+            for (var component of transTexts) {
+                tempText = component.trim();
+                if(tempText.length>0){
+                    PrintLog(`BR Before:${tempText}`);
+                    jsonFile.some(function (item) {
+                        if (item.kr && item.orig) {
+                            if (tempText.length == item.orig.length) {
+                                if ((tempText == item.orig)) {
+                                    PrintLog(`GET:${item.kr}`);
+                                    tempText = item.kr;
+                                    returnValue = true;
+                                    if (tempText.includes(generalConfig.defaultName)) {
+                                        var resultUserName = getTransDefaultUserName(userName);
+                                        tempText = tempText.split(generalConfig.defaultName).join(resultUserName);
+                                    }
+                                    isTranslationUsed = isTranslationUsed + 1;
+                                    return true;
+                                }
+                            }
+                        }
+                    });
+                    PrintLog(`BR After:${tempText}`);
+                    if(isTranslationUsed > 0)
+                        transText = transText + tempText + "<br>";
+                }
+            }
+        }
+    }
 
     if (transText) {
         if (transText.length > 0) {
