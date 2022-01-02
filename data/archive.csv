@@ -8533,16 +8533,16 @@ Lost prince
 
 フォロー・ユア・ハート,팔로우 유어 하트
 フォロー・ユア・ハート＋,팔로우 유어 하트＋
-"<div class=""prt-text-small"">味方全体にそれぞれの最大HPの**%分のバリア効果(最大****)<br><span class=""text-blue"">◆味方全体のHPを最大値の**%消費</span></div>","<span style=""font-size: 90%"">아군 전체에게 각자의 최대 HP **%의 배리어 효과 (최대 ****)<br><span class=""text-blue"">◆아군 전체의 HP를 최대치의 **% 소비</span>"
+"<div class=""prt-text-small"">味方全体にそれぞれの最大HPの**%分のバリア効果(最大****)<br><span class=""text-blue"">◆味方全体のHPを最大値の**%消費</span></div>","<div class=""prt-text-small"">아군 전체에게 각자의 최대 HP **%의 배리어 효과 (최대 ****)<br><span class=""text-blue"">◆아군 전체의 HP를 최대치의 **% 소비</span></div>"
 
 ディアドラの仁愛,디아드라의 인애
 ディアドラの仁愛＋,디아드라의 인애＋
-"<div class=""prt-text-small"">味方全体の火属性攻撃UP/弱体効果を*つ回復/甘露の数に応じてHPを回復<br><span class=""text-blue"">◆甘露を全て消費</span></div>","아군 전체의 화속성 공격 UP / 약화 효과를 *개 회복 / 감로의 수에 따라 HP를 회복<br><span class=""text-blue"">◆감로를 모두 소비</span>"
+"<div class=""prt-text-small"">味方全体の火属性攻撃UP/弱体効果を*つ回復/甘露の数に応じてHPを回復<br><span class=""text-blue"">◆甘露を全て消費</span></div>","<div class=""prt-text-small"">아군 전체의 화속성 공격 UP / 약화 효과를 *개 회복 / 감로의 수에 따라 HP를 회복<br><span class=""text-blue"">◆감로를 모두 소비</span></div>"
 
 メロウ・クエスト,멜로우 퀘스트
-"<div class=""prt-text-small"">甘露の数に応じて敵に最大**倍火属性ダメージ/強化効果を*つ無効化<br><span class=""text-blue"">◆甘露を全て消費</span></div>","<span style=""font-size: 90%"">감로의 수에 따라 적에게 최대 **배 화속성 데미지 / 강화 효과를 *개 무효화 <span class=""text-blue"">◆감로를 모두 소비</span></div>"
+"<div class=""prt-text-small"">甘露の数に応じて敵に最大**倍火属性ダメージ/強化効果を*つ無効化<br><span class=""text-blue"">◆甘露を全て消費</span></div>","<span style=""font-size: 90%"">감로의 수에 따라 적에게 최대 **배 화속성 데미지 / 강화 효과를 *개 무효화<br><span class=""text-blue"">◆감로를 모두 소비</span></div>"
 真龍からの贈り物,진룡의 선물
-"<div class=""prt-text-small"">自分が被ターゲット時甘露を*つ追加(最大*)/自分が瀕死状態になったターンの終了時、一度だけ火属性キャラのHPを全回復</div>","<div class=""prt-text-small"">자신이 데미지를 받으면 감로를 *개 추가(최대*) / 자신이 빈사 상태가 된 턴 종료시, 한 번만 화속성 캐릭터의 HP를 전부 획복</div>"
+"<div class=""prt-text-small"">自分が被ターゲット時甘露を*つ追加(最大*)/自分が瀕死状態になったターンの終了時、一度だけ火属性キャラのHPを全回復</div>","<div class=""prt-text-small"">자신이 데미지를 받으면 감로를 *개 추가(최대*) / 자신이 빈사 상태가 된 턴 종료시, 한 번만 화속성 캐릭터의 HP를 전부 회복</div>"
 ふたりだけのお茶会,둘만의 다과회
 バリアが付与されている味方に火属性追撃効果,배리어가 부여된 아군에게 화속성 추격 효과
 
