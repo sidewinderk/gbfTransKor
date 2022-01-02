@@ -8446,13 +8446,15 @@ Lost prince
 ベアトリクス,베아트릭스
 イモータル・アソールト,이모탈 어썰트
 イモータル・アソールト＋,이모탈 어썰트＋
-火属性ダメージ(特大)/自分の火属性攻撃UP,화속성 데미지(특대) / 자신에게 화속성 공격 UP
-ネード・シニネ＋,네드 시니네＋
-"<div class=""prt-text-small"">自分の連続攻撃確率UP(大)/防御DOWN/敵対心UP<br><span class=""text-blue"">◆再使用で効果がさらにUP</span></div>","<div class=""prt-text-small"">자신의 연속 공격 확률 UP(대) / 방어 DOWN / 적대심 UP<br><span class=""text-blue"">◆재사용으로 효과가 더욱 UP</span></div>"
-ネード・プナネ＋,네드 프나네＋
-"<div class=""prt-text-small"">自分の攻撃大幅UP(敵オーバードライブ時のみ/*回)/敵のモードゲージ減少量UP</div>","<div class=""prt-text-small"">자신의 공격 대폭 UP(적이 오버드라이브일 경우/*회) / 적 모드 게이지 감소량 UP</div>"
+火属性ダメージ(特大)/敵の全ての攻撃を回避(*回),화속성 데미지(특대) / 적의 모든 공격을 회피(*회)
+ネード・シニネ,네이드 시니네
+ネード・シニネ＋,네이드 시니네＋
+"<div class=""prt-text-small"">自分のトリプルアタック確率UP/防御DOWN<br><span class=""text-blue"">◆再使用で効果がさらにUP</span></div>","<div class=""prt-text-small"">자신의 트리플 어택 확률 UP / 방어 DOWN<br><span class=""text-blue"">◆재사용으로 효과가 더욱 UP</span></div>"
+ネード・プナネ,네이드 프나네
+ネード・プナネ＋,네이드 프나네＋
+"<div class=""prt-text-small"">自分の攻撃大幅UP(*回)/不死身効果(*回)/敵のモードゲージ減少量UP</div>"
 ライジング・スター,라이징 스타
-"自分に逆境効果　<span class=""text-blue"">◆自分のHPを最大値の**%消費</span>","자신에게 역경 효과　<span class=""text-blue"">◆자신의 HP 최대치의 **% 소비</span>"
+
 不滅の見切り,불멸의 단념
 自分の残りHPが少ないほどクリティカル確率UP/回避率UP,자신의 남은 HP가 적을수록 크리티컬 확률 UP / 회피율 UP
 ちょっとタンマ！,잠깐 타임！
