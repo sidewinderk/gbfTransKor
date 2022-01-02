@@ -2140,7 +2140,7 @@ EXリミットボーナス,EX리미트 보너스
 タフガイ,터프가이
 "<div class=""prt-text-small"">タフガイ状態中攻防大幅UP/敵対心UP/奥義ダメージ上限UP/弱体無効　<span class=""text-blue"">◆毎ターン奥義ゲージを消費してタフガイ状態を維持</span></div>","<div class=""prt-text-small"">터프가이 상태에서 공방 대폭 UP/적대심 UP/오의 데미지 상한 UP/약체 무효　<span class=""text-blue"">◆매 턴 오의 게이지를 소비하고 터프가이 상태를 유지</span></div>"
 ボーダーライン,보더라인
-自分のHPが少ないほど防御UP,자신의 HP이 적을수록 방어 UP
+
 
 
 "!카타리나(SSR,리미티드)"
@@ -8531,14 +8531,14 @@ Lost prince
 
 フォロー・ユア・ハート,팔로우 유어 하트
 フォロー・ユア・ハート＋,팔로우 유어 하트＋
-"<div class=""prt-text-small"">味方全体にそれぞれの最大HPの**%分のバリア効果(最大****)<br><span class=""text-blue"">◆味方全体のHPを最大値の**%消費</span></div>","<div class=""prt-text-small"">아군 전체에게 각자의 최대 HP **%의 배리어 효과 (최대 ****)<br><span class=""text-blue"">◆아군 전체의 HP를 최대치의 **% 소비</span></div>"
+"<div class=""prt-text-small"">味方全体にそれぞれの最大HPの**%分のバリア効果(最大****)<br><span class=""text-blue"">◆味方全体のHPを最大値の**%消費</span></div>","<span style=""font-size: 90%"">아군 전체에게 각자의 최대 HP **%의 배리어 효과 (최대 ****)<br><span class=""text-blue"">◆아군 전체의 HP를 최대치의 **% 소비</span></div>"
 
 ディアドラの仁愛,디아드라의 인애
 ディアドラの仁愛＋,디아드라의 인애＋
 "<div class=""prt-text-small"">味方全体の火属性攻撃UP/弱体効果を*つ回復/甘露の数に応じてHPを回復<br><span class=""text-blue"">◆甘露を全て消費</span></div>","아군 전체의 화속성 공격 UP / 약화 효과를 *개 회복 / 감로의 수에 따라 HP를 회복<br><span class=""text-blue"">◆감로를 모두 소비</span></div>"
 
 メロウ・クエスト,멜로우 퀘스트
-"<div class=""prt-text-small"">甘露の数に応じて敵に最大**倍火属性ダメージ/強化効果を*つ無効化<br><span class=""text-blue"">◆甘露を全て消費</span></div>","<div class=""prt-text-small"">감로의 수에 따라 적에게 최대 **배 화속성 데미지 / 강화 효과를 *개 무효화 <span class=""text-blue"">◆감로를 모두 소비</span></div>"
+"<div class=""prt-text-small"">甘露の数に応じて敵に最大**倍火属性ダメージ/強化効果を*つ無効化<br><span class=""text-blue"">◆甘露を全て消費</span></div>","<span style=""font-size: 90%"">감로의 수에 따라 적에게 최대 **배 화속성 데미지 / 강화 효과를 *개 무효화 <span class=""text-blue"">◆감로를 모두 소비</span></div>"
 真龍からの贈り物,진룡의 선물
 "<div class=""prt-text-small"">自分が被ターゲット時甘露を*つ追加(最大*)/自分が瀕死状態になったターンの終了時、一度だけ火属性キャラのHPを全回復</div>","<div class=""prt-text-small"">자신이 데미지를 받으면 감로를 *개 추가(최대*) / 자신이 빈사 상태가 된 턴 종료시, 한 번만 화속성 캐릭터의 HP를 전부 획복</div>"
 ふたりだけのお茶会,둘만의 다과회
@@ -8671,7 +8671,7 @@ Lost prince
 自分のクリティカル確率UP/ダメージ上限UP,자신의 크리티컬 확률 UP / 데미지 상한 UP
 
 鳴神,천둥
-"<div class=""prt-text-small"">敵全体に火属性ダメージ/自分の攻撃UP(累積)　<span class=""text-blue"">◆敵の数が多いほどダメージUP</span></div>","적 전체에게 화속성 데미지 / 자신의 공격 UP(누적)　<span class=""text-blue"">◆적의 수가 많을수록 데미지 UP</span>"
+"<div class=""prt-text-small"">敵全体に火属性ダメージ/自分の攻撃UP(累積)　<span class=""text-blue"">◆敵の数が多いほどダメージUP</span></div>","적 전체에게 화속성 데미지 / 자신의 공격 UP(누적)<br><span class=""text-blue"">◆적의 수가 많을수록 데미지 UP</span>"
 
 絶えない闘志,끝없는 투지
 敵の攻撃行動のターゲットになった場合にダブルアタック確率UP(累積),적의 공격대상이 되었을 경우 더블어택 확률 UP(누적)
@@ -8701,16 +8701,21 @@ Lost prince
 G線上のシンデレラ,G선상의 신데렐라
 G線上のシンデレラ＋,G선상의 신데렐라＋
 敵に火属性ダメージ(特大)/味方全体の火属性攻撃UP/HP回復,적에게 화속성 데미지(특대) / 아군 전체의 화속성 공격 UP / HP 회복
-ハグしよ？＋,허그할래?＋
+
+ハグしよ？,허그할래？
+ハグしよ？＋,허그할래？＋
 味方全体の全属性ダメージカット(**%),아군 전체의 모든 속성 데미지 컷 (**%)
+
 ブッブーですわ,뿟뿌～예요
 ブッブーですわ＋,뿟뿌～예요＋
 敵全体の攻撃DOWN/防御DOWN,적 전체의 공격 DOWN / 방어 DOWN
+
 シャイニー！,샤이니！
 味方全体の奥義ゲージUP(**％),아군 전체의 오의 게이지 UP (**％)
-未熟DREAMER,미숙 DREAMER
+
+未熟DREAMER,미숙한 DREAMER
 味方全体の弱体効果無効(*回),아군 전체의 약화 효과 무효 (*회)
-浦の星女学院3年生,우라노호시 여학원 3학년
+浦の星女学院*年生,우라노호시 여학원 3학년
 自分のHPが少ないほど防御UP,자신의 HP가 적을수록 방어 UP
 
 
