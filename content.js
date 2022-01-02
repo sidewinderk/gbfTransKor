@@ -2078,12 +2078,13 @@ async function InitList() {
 
     // Use custom font
     var styles = `@font-face {font-family: 'CustomFont';src: url('http://game-a.granbluefantasy.jp/assets/font/basic_alphabet.woff') format('woff');}
-    @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+AC00-D7AF;`;
+    @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+AC00-D7AF; `;
     if (generalConfig.dontApplyFontEngNum){
-        styles = styles + " unicode-range: U+0030-0039; unicode-range: U+0041-005A; unicode-range: U+0061-007A;";
+        styles = styles + `} @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+0030-0039;`;
+        styles = styles + `} @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+0041-005A;`;
+        styles = styles + `} @font-face {font-family: 'CustomFont';${generalConfig.defaultFont}; unicode-range: U+0061-007A;`;
     }
-    styles = styles + "}";
-    console.log(styles);
+    styles = styles + `}`;
     if (!initialize) {
         PrintLog("Initialized");
         var styleSheet = doc.createElement('style');
