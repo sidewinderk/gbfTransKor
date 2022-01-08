@@ -9038,18 +9038,18 @@ Lost prince
 火属性ダメージ(特大)/レイジングアームDXによる強化効果を*ターン延長,화속성 데미지(특대) / 레이징 암드 DX에 의한 강화 효과를 *턴 연장
 
 ムンちゃんこっち来て！,문쨩 이쪽이야！
-"<div class=""prt-text-small"">自分にムンちゃんこっち来て！効果　<span class=""text-blue"">◆効果中は様々な条件でムンちゃんがアビーをサポートしてくれる</span></div>"
+"<div class=""prt-text-small"">自分にムンちゃんこっち来て！効果　<span class=""text-blue"">◆効果中は様々な条件でムンちゃんがアビーをサポートしてくれる</span></div>","<div class=""prt-text-small"">자신에게 문쨩 이쪽이야！효과　<span class=""text-blue"">◆효과 중 조건을 충족하면 문쨩이 아비를 서포트한다</span></div>"
 
 レイジングアームDX,레이징 암드 DX
-"<div class=""prt-text-small"">自分の攻撃UP(特大)/ダメージ上限UP/連続攻撃確率UP　<span class=""text-blue"">◆自分のHPが**%以上の時ストレングス効果追加</span></div>"
+"<div class=""prt-text-small"">自分の攻撃UP(特大)/ダメージ上限UP/連続攻撃確率UP　<span class=""text-blue"">◆自分のHPが**%以上の時ストレングス効果追加</span></div>","<div class=""prt-text-small"">자신의 공격 UP(특대) / 데미지 상한 UP / 연속공격 확률 UP　<span class=""text-blue"">◆자신의 HP가 **% 이상일 때 스트렝스 효과 추가</span></div>"
 
 ムンちゃん撲殺パンチ,문쨩 박살펀치
-敵に火属性ダメージ/最大CT増加/自分が即座に奥義発動可能
+敵に火属性ダメージ/最大CT増加/自分が即座に奥義発動可能,적에게 화속성 데미지 / 최대 CT 증가 / 자신이 즉시 오의 발동 가능
 
 ぶった斬る！,베어버린다！
-攻撃開始時にストレングスが付与されている時、奥義性能UP/再生効果
+攻撃開始時にストレングスが付与されている時、奥義性能UP/再生効果,공격시 스트렝스가 부여되어 있을 경우 오의 성능 UP / 재생 효과
 マップタツパワー,양단 파워
-アビーの残りHPが多いほど味方全体の攻撃が大きくUP
+アビーの残りHPが多いほど味方全体の攻撃が大きくUP,아비의 남은 HP가 많을수록 아군 전체의 공격이 크게 UP
 
 
 !바자라가(SSR / 통상)
@@ -9057,23 +9057,30 @@ Lost prince
 
 
 デストロイ・ムーン,디스트로이 문
-"<div class=""prt-text-small"">火属性ダメージ(極大)/ノー・ペインが即時使用可能/自分のHPを最大値の**％回復　<span class=""text-blue"">◆瀕死状態の時のみ発動可能</span></div>"
+"<div class=""prt-text-small"">火属性ダメージ(極大)/ノー・ペインが即時使用可能/自分のHPを最大値の**％回復　<span class=""text-blue"">◆瀕死状態の時のみ発動可能</span></div>","<div class=""prt-text-small"">화속성 데미지(극대) / 노 페인을 즉시 사용 가능 / 자신의 HP를 최대치의 **％ 회복　<span class=""text-blue"">◆빈사 상태일 때만 발동 가능</span></div>"
 
 敵全体に火属性ダメージ/自分の奥義ゲージUP(**%)/HP回復,적 전체에게 화속성 데미지 / 자신의 오의 게이지 UP(**%) / HP 회복
 
 ノー・ペイン,노 페인
-"<div class=""prt-text-small"">自分に逆境効果/防御UP/かばう効果(全体)/ガッツ効果<br><span class=""text-blue"">◆自分のHPを最大値の**％消費</span></div>"
+"<div class=""prt-text-small"">自分に逆境効果/防御UP/かばう効果(全体)/ガッツ効果<br><span class=""text-blue"">◆自分のHPを最大値の**％消費</span></div>","<div class=""prt-text-small"">자신에게 역경 효과 / 방어 UP / 감싸기 효과(전체) / 거츠 효과<br><span class=""text-blue"">◆자신의 HP를 최대치의 **％ 소비</span></div>"
 
-リベレ・メラン
-"<div class=""prt-text-small"">自分の攻撃性能大幅UP/通常攻撃時、敵に防御DOWN(累積)<br><span class=""text-blue"">◆奥義ゲージを***％消費</span></div>"
+リベレ・メラン,리베레 멜란
+"<div class=""prt-text-small"">自分の攻撃性能大幅UP/通常攻撃時、敵に防御DOWN(累積)<br><span class=""text-blue"">◆奥義ゲージを***％消費</span></div>","<div class=""prt-text-small"">자신의 공격 성능 대폭 UP / 일반공격시 적의 방어 DOWN(누적)<br><span class=""text-blue"">◆오의 게이지를 ***％ 소비</span></div>"
 
-グロウノスの共鳴
-奥義ゲージが溜まりにくいが防御大幅UP/敵が特殊技を発動時、大鎌グロウノスが発動
-魂を蝕む刃
-"<div class=""prt-text-small"">瀕死状態ではない時、弱体効果無効/強化効果が無効化されない/瀕死状態の時、ターン終了時に大鎌グロウノスが発動</div>"
+グロウノスの共鳴,그로우노스의 공명
+奥義ゲージが溜まりにくいが防御大幅UP/敵が特殊技を発動時、大鎌グロウノスが発動,오의 게이지를 모으기 어렵지만 방어 대폭 UP / 적의 특수기 발동시 거대 낫 그로우노스를 발동
+魂を蝕む刃,영혼을 좀먹는 칼날
+"<div class=""prt-text-small"">瀕死状態ではない時、弱体効果無効/強化効果が無効化されない/瀕死状態の時、ターン終了時に大鎌グロウノスが発動</div>","<div class=""prt-text-small"">빈사 상태가 아닐 경우 약화 효과 무효 / 강화 효과가 무효화 되지 않음 / 빈사 상태일 때 턴 종료시 거대 낫 그로우노스를 발동</div>"
 
 
 !시온(SSR / 통상)
+
+
+
+
+
+
+
 
 
 !미란다(SSR / 통상)
