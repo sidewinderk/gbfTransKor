@@ -270,7 +270,7 @@ orig,kr
 太陽信仰,태양신앙
 ザルハメリナの残りHPが少ないほど味方全体の攻撃が大きくUP,자루하메리나의 남은 HP가 적을수록 아군 전체의 공격이 크게 UP
 直射日光回避,직사광선 회피
-"<div class=""prt-text-small"">火属性キャラがそれぞれの業火の刻印の数に応じて風属性ダメージ軽減<br><span class=""text-blue"">◆自分がサブメンバーにいる場合でも発動</span></div>","<div class=""prt-text-small"">화속성 캐릭터 각자의 업화의 각인의 수에 따라 풍속성 데미지 경감<br><span class=""text-blue"">◆자신이 서브 멤버에 있어도 발동</span></div>"
+"<div class=""prt-text-small"">火属性キャラがそれぞれの業火の刻印の数に応じて風属性ダメージ軽減<br><span class=""text-blue"">◆自分がサブメンバーにいる場合でも発動</span></div>","<div class=""prt-text-small"">화속성 캐릭터 각자의 업화의 각인의 수에 따라 풍속성 데미지 경감<br><span class=""text-blue"">◆자신이 서브 멤버여도 발동</span></div>"
 
 
 !아오이도스(SSR / 통상)
@@ -720,21 +720,21 @@ orig,kr
 
 
 夜桜散花,야앵산화
-"<div class=""prt-text-small"">火属性ダメージ(特大)/自分のアビリティ再使用間隔を*ターン短縮　<span class=""text-blue"">◆パーティの得意武器「刀」のキャラの数に応じて追加ダメージ(最大*回)</span></div>"
+"<div class=""prt-text-small"">火属性ダメージ(特大)/自分のアビリティ再使用間隔を*ターン短縮　<span class=""text-blue"">◆パーティの得意武器「刀」のキャラの数に応じて追加ダメージ(最大*回)</span></div>","<div class=""prt-text-small"">화속성 데미지(특대) / 자신의 어빌리티 재사용 간격을 *턴 단축　<span class=""text-blue"">◆파티의 특기무기가 「도」인 캐릭터의 수에 따라 추가 데미지(최대 *회)</span></div>"
 
 茶柱繚乱,차주요란
 敵に火属性ダメージ/攻防DOWN(累積)/自分の連続攻撃確率UP(累積),적에게 화속성 데미지 / 공방 DOWN(누적) / 자신의 연속공격 확률 UP(누적)
 
 天麩羅閃,천부라섬
-"<div class=""prt-text-small"">敵に火属性ダメージ/自分が効果中必ずトリプルアタック　<span class=""text-blue"">◆奥義ゲージを**％消費して、ターン進行時に攻撃行動を*回行う</span></div>"
+"<div class=""prt-text-small"">敵に火属性ダメージ/自分が効果中必ずトリプルアタック　<span class=""text-blue"">◆奥義ゲージを**％消費して、ターン進行時に攻撃行動を*回行う</span></div>","<div class=""prt-text-small"">적에게 화속성 데미지 / 자신이 효과 중 반드시 트리플 어택　<span class=""text-blue"">◆오의 게이지를 **％ 소비해 턴 진행시 공격 행동을 *회 실행</span></div>"
 
 寿司三昧,수사삼매
 
 
 ボンサイ流,본사이류
-"<div class=""prt-text-small"">奥義ゲージ最大値***/装備している「刀」の数に応じて以下の効果を順に得る(攻撃UP/防御UP/奥義ゲージ上昇量UP/奥義性能UP/ダメージ上限UP)</div>"
+"<div class=""prt-text-small"">奥義ゲージ最大値***/装備している「刀」の数に応じて以下の効果を順に得る(攻撃UP/防御UP/奥義ゲージ上昇量UP/奥義性能UP/ダメージ上限UP)</div>","<div class=""prt-text-small"">오의 게이지 최대치 *** / 장비한 「도」의 수에 따라 이하의 효과를 얻는다(공방 UP / 오의 게이지 상승량 UP / 오의 성능 UP / 데미지 상한 UP)</div>"
 追憶の郷里,추억의 고향
-"<div class=""prt-text-small"">チェインバースト発生時、味方全体の火属性攻撃UP<br><span class=""text-blue"">◆チェイン数に応じて性能強化/自分がサブメンバーにいる場合でも発動</span></div>"
+"<div class=""prt-text-small"">チェインバースト発生時、味方全体の火属性攻撃UP<br><span class=""text-blue"">◆チェイン数に応じて性能強化/自分がサブメンバーにいる場合でも発動</span></div>","<div class=""prt-text-small"">체인버스트 발생시 아군 전체의 화속성 공격 UP<br><span class=""text-blue"">◆체인 수에 따라 성능 강화 / 자신이 서브 멤버여도 발동</span></div>"
 
 
 
