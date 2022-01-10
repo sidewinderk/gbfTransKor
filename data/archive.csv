@@ -5047,8 +5047,8 @@ CBダメージ上限UP,CB 데미지상한UP
 畏怖,외포
 ラグナロクフィールド,라그나로크 필드
 調律,조율
-禁呪の対価,금주의 제물
-裁きの炎,심판의 화염
+禁呪の対価,금주의대가
+裁きの炎,심판의화염
 氷結,빙결
 アイスライズアウト,아이스라이즈 아웃
 強圧,강압
@@ -5069,8 +5069,8 @@ CBダメージ上限UP,CB 데미지상한UP
 グラビティ,그래비티
 気絶,기절
 恐怖,공포
-ブレイク延長・時間,브레이크 연장 시간
-ブレイク延長・ダメージ,브레이크 연장 데미지
+ブレイク延長・時間,브레이크연장・시간
+ブレイク延長・ダメージ,브레이크연장・데미지
 火の印,불의 인
 水の印,물의 인
 土の印,흙의 인
@@ -5126,14 +5126,15 @@ CBダメージ上限UP,CB 데미지상한UP
 光属性攻撃UP(累積),광속성공격UP(누적)
 闇属性攻撃UP(累積),암속성공격UP(누적)
 命中率DOWN,명중률DOWN
-最大HP DOWN,최대 HP DOWN
-最大HP DOWN(累積),최대 HP DOWN(누적)
+最大HP DOWN,최대HP DOWN
+最大HP DOWN(累積),최대HP DOWN(누적)
 
 トレハンLv.**,보물사냥Lv.**
 トレハンLv.*,보물사냥Lv.*
 被ダメージ上昇,받는데미지상승
 攻撃大幅DOWN,공격대폭DOWN
 防御大幅DOWN,방어대폭DOWN
+刑死,사형
 
 !어빌리티 효과
 火属性の被ダメージに対する防御力が減少した状態(累積),화속성의 받는 데미지에 대한 방어력이 감소한 상태(누적)
@@ -5246,7 +5247,7 @@ EXゲージ,EX게이지
 追撃,추격
 
 ためる,모으기
-火属性追加ダメージ,화속성 추가 데미지
+火属性追加ダメージ,화속성 추가데미지
 連続攻撃確率UP,연속공격확률UP
 あしらってあげますよ！,대접해 줄게요!
 Vトリガー,V 트리거
@@ -5259,9 +5260,9 @@ Vトリガー,V 트리거
 落夢,낙몽
 不死の王の招き,불사왕의 인도
 衰弱,쇠약
-女神の試練,여신의 시련
+女神の試練,여신의시련
 回避率UP,회피율UP
-被回復上限UP,피회복 상한 UP
+被回復上限UP,피회복상한UP
 仮面の呪い,가면의 저주
 目隠し,눈가리기
 クロスフェード,크로스페이드
@@ -22632,9 +22633,10 @@ Lv** ゼピュロス,Lv** 제퓨로스
 !직업이름/설명
 !클래스 1
 
+!파이터 관련
 ファイター,파이터
 剣や斧の扱いに長け、高い攻撃力を生かした戦いが得意な攻撃タイプのジョブ。,검과 도끼를 잘 다루며 높은 공격력을 살린 싸움이 특기인 공격 타입의 직업
-!파이터 스킬
+
 ファイターのアビリティ,파이터의 어빌리티
 ウェポンバースト,웨폰 버스트
 レイジ,레이지
@@ -22647,9 +22649,10 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "攻撃力<span class=""value"">+*%</span>","공격력<span class=""value"">+*%</span>"
 
 
+!나이트 관련
 ナイト,나이트
 甲冑に身を包み、堅固な守りで仲間を助けるパーティの守護神。防御タイプのジョブ。,갑옷을 두르고 견고한 수비로 동료를 돕는 파티의 수호신. 방어 타입의 직업
-!나이트 스킬
+
 ナイトのアビリティ,나이트의 어빌리티
 ファランクス,팔랑크스
 参戦者の全属性ダメージカット(**%),참전자의 모든 속성 데미지 컷(**%)
@@ -22662,58 +22665,281 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "防御力<span class=""value"">+*%</span>","방어력<span class=""value"">+*%</span>"
 
 
-
+!프리스트 관련
 プリースト,프리스트
 癒しの力を使い、戦いをサポートするアビリティを得意とする回復タイプのジョブ。,치유의 힘을 사용해 전투를 서포트하는 회복 타입의 직업
+
+プリーストのアビリティ,프리스트의 어빌리티
+ヒールオール,힐 올
+参戦者のHPを回復(小),참전자의 HP를 회복(소)
+オーラ,오라
+参戦者の防御UP(小),참전자의 방어 UP(소)
+回復力+**％,회복력+**％
+"オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","오라<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+慈悲,자비
+回復効果UP/回復上限UP,회복 효과 UP / 회복 상한 UP
+防御力が上昇した状態,방어력이 상승한 상태
+"回復力<span class=""value"">+*%</span>","회복력<span class=""value"">+*%</span>"
+
+
+!위자드 관련
 ウィザード,위자드
 大自然の精霊と契約し、属性攻撃を得意とする魔導士。攻撃タイプのジョブ。,대자연의 정령과 계약해 속성공격을 사용하는 마도사. 공격 타입 직업
+
+ウィザードのアビリティ,위자드의 어빌리티
+エーテルブラスト,에테르 블래스트
+敵に*～*倍自属性ダメージ,적에게 *～*배 자신의 속성 데미지
+ファイア,파이어
+敵全体に火属性ダメージ(小),적 전체에게 화속성 데미지(소)
+アイス,아이스
+敵全体に水属性ダメージ(小),적 전체에게 수속성 데미지(소)
+精霊の加護,정령의 가호
+アビリティダメージUP,어빌리티 데미지 UP
+アビリティダメージ+**％,어빌리티 데미지+**％
+"アビリティダメージ<span class=""value"">+*%</span>","어빌리티 데미지<span class=""value"">+*%</span>"
+
+
+!시프 관련
 シーフ,시프
 トリッキーなアビリティと独自の戦法で敵を追い詰める。バランスタイプのジョブ。,트리키한 어빌리티와 독자적인 전법으로 적을 몰아붙이는 밸런스 타입의 직업
+
+シーフのアビリティ,시프의 어빌리티
+ブレイクアサシン,브레이크 어새신
+自分の攻撃大幅UP(敵ブレイク時のみ/*回),자신의 공격 대폭 UP(적이 브레이크 상태일 때 / *회)
+トレジャーハント,트레저 헌트
+敵のアイテムドロップ率UP(*回),적의 아이템 드롭률 UP(*회)
+おたから狙い,보물 사냥꾼
+トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP,트레저 헌트 성공확률 UP / 트레헌 Lv이 높을수록 공격 UP
+"ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","브레이크 어새신<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+トレジャーハント成功確率+**％,트레저 헌트 성공확률+**％
+ブレイク状態の敵への攻撃力が上昇した状態,브레이크 상태의 적에게 공격력이 상승된 상태
+アイテムドロップ率が上昇した状態,아이템 드롭률이 상승한 상태
+"トレジャーハント成功確率<span class=""value"">+*%</span>","트레저 헌트 성공확률<span class=""value"">+*%</span>"
+"オーバードライブ抑制<span class=""value"">+*%</span>","오버드라이브 억제<span class=""value"">+*%</span>"
+
+
+!인핸서 관련
 エンハンサー,인핸서
 アビリティで敵や味方の状態を操り、戦闘を有利に進める。特殊タイプのジョブ。,어빌리티로 적과 아군의 상태를 조종하여 전투를 유리하게 만드는 특수 타입의 직업
+
+エンハンサーのアビリティ,인핸서의 어빌리티
+ディレイ,딜레이
+敵に自属性ダメージ/スロウ効果,적에게 자신의 속성 데미지 / 슬로우 효과
+エレメンタルフォース,엘레멘탈 포스
+参戦者のアビリティダメージUP(小),참전자의 어빌리티 데미지 UP(소)
+サボタージ,사보타주
+弱体成功率UP,약화 성공률 UP
+"エレメンタルフォース<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","엘레멘탈 포스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+弱体成功率+**％,약화 성공률+**％
+アビリティダメージが上昇した状態,어빌리티 데미지가 상승한 상태
+"弱体成功率<span class=""value"">+*%</span>","약화 성공률<span class=""value"">+*%</span>"
+"弱体耐性<span class=""value"">+*%</span>","약화 내성<span class=""value"">+*%</span>"
+
+
+!그래플러 관련
 グラップラー,그래플러
 己が拳に全てを込め、防御を犠牲にしようとも攻め続ける。攻撃タイプのジョブ。,자신의 주먹에 모든 것을 담아 방어를 포기하고 공격을 이어가는 공격 타입의 직업
+
+グラップラーのアビリティ,그래플러의 어빌리티
+カウンター,카운터
+カウンター効果(回避/*回)/自分の攻撃UP,카운터 효과(회피/*회) / 자신의 공격UP
+捨身の型,필사의 자세
+自分の攻撃UP(大)/防御DOWN,자신의 공격 UP(대) / 방어 DOWN
+防御力が減少した状態(回復不可),방어력이 감소한 상태(회복불가)
+虎襲の構え,맹호의 자세
+"カウンター<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","카운터<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"捨身の型<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","필사의 자세<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!레인저 관련
 レンジャー,레인저
 俊敏な動きで攻撃を掻い潜り、敵集団を的確に射抜く。バランスタイプのジョブ。,민첩한 움직임으로 공격을 회피하고 적들을 정확히 꿰뚫는 밸런스 타입의 직업
+
+レンジャーのアビリティ,레인저의 어빌리티
+ライトウェイト,라이트 웨이트
+アローレイン,애로우 레인
+敵全体に自属性ダメージ,적 전체에게 자신의 속성 데미지
+精密射撃,정밀사격
+"ライトウェイト<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","라이트 웨이트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+効果中の被ダメージと弱体効果を無効化する状態,효과 중 받는 데미지와 약화 효과를 무효화하는 상태
+攻撃力+***,공격력+***
+アビリティダメージ+*％,어빌리티 데미지+*％
+
+
+!하피스트 관련
 ハーピスト,하피스트
-さまざまな詩曲で味方を支援し、その美しい歌声には敵すらも聞き惚れてしまう。特殊タイプのジョブ。,다양한 시곡으로 아군을 지원하며 아름다운 목소리로 적을 사로잡는다. 특수 타입의 직업
+さまざまな詩曲で味方を支援し、その美しい歌声には敵すらも聞き惚れてしまう。特殊タイプのジョブ。,다양한 연주로 아군을 지원하며 아름다운 목소리로 적을 사로잡는다. 특수 타입의 직업
+
+ハーピストのアビリティ,하피스트의 어빌리티
+オーヴァチュア,오버츄어
+味方全体の回復性能UP　★楽器装備時に性能UP,아군 전체의 회복 성능 UP ★악기 장비시 성능 UP
+チャームボイス,챰 보이스
+敵に魅了効果　★楽器装備時に性能UP,적에게 매료 효과　★악기 장비시 성능 UP
+カンタービレ,칸타빌레
+オーバードライブ時の敵からの被ダメージ減少,오버드라이브 상태의 적에게 받는 데미지 감소
+"オーヴァチュア<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","오버츄어<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"チャームボイス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","챰 보이스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+防御力+*％,방어력+*％
+弱体耐性+*％,약화 내성+*％
+回復アビリティの回復量が上昇した状態(累積),회복 어빌리티의 회복량이 상승한 상태(누적)
+回復アビリティの回復上限が上昇した状態(累積),회복 어빌리티의 회복 상한이 상승한 상태(누적)
+
+
+!랜서 관련
 ランサー,랜서
 槍と斧を巧みに振るい、修練を重ねた技で戦場を変幻自在に駆ける。攻撃タイプのジョブ。,창과 도끼를 능숙하게 휘두르며 수련을 거듭해 익힌 기술로 전장을 달린다. 공격 타입의 직업
 
+ランサーのアビリティ,랜서의 어빌리티
+リードドライブ,리드 드라이브
+"敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span>","적에게 자신의 속성 데미지<br><span class=""text-blue"">창：브레이크 상태를 유지<br>도끼：모드 게이지 감소</span>"
+デュアルインパルス,듀얼 임펄스
+"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(小)<br>斧：敵のダブルアタック確率DOWN(小)</span></div>","<div class=""prt-text-small"">효과중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(소)<br>도끼：적의 더블어택 확률 DOWN(소)</span></div>"
+ヴォリショナル,볼리셔널
+槍装備時に攻撃UP<br>斧装備時に防御UP,창 장비시 공격 UP<br>도끼 장비시 방어 UP
+"リードドライブ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","리드 드라이브<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"デュアルインパルス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","듀얼 임펄스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+ダブルアタック確率+*％,더블어택 확률+*％
+"ダブルアタック確率<span class=""value"">+*%</span>","더블어택 확률<span class=""value"">+*%</span>"
+ブレイク時間が延長している状態,브레이크 시간이 연장되어 있는 상태
+
+
 !클래스 2
+
+!워리어 관련
 ウォーリア,워리어
 味方を強化しつつ敵の守りを削ぎ、超ヘビー級の一撃を見舞う。攻撃タイプのジョブ。,아군을 강화하고 적의 방어를 깎아내어 초헤비급 일격을 가한다. 공격 타입의 직업
 
-フォートレス,포트리스
-巨大な盾で要塞の如く守りを固め、反撃のチャンスを作る。防御タイプのジョブ。,거대한 방패로 요새와 같은 방어력으로 반격의 기회를 만든다. 방어 타입의 직업
+ウォーリアのアビリティ,워리어의 어빌리티
+レイジII,레이지 II
+参戦者の攻撃UP(中),참전자의 공격 UP(중)
+アーマーブレイク,아머 브레이크
+敵に自属性ダメージ/防御DOWN,적에게 자신의 속성 데미지 / 방어 DOWN
+"レイジII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","레이지 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"アーマーブレイク<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","아머 브레이크<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
+
+!포트리스 관련
+フォートレス,포트리스
+巨大な盾で要塞の如く守りを固め、反撃のチャンスを作る。防御タイプのジョブ。,거대한 방패로 요새같은 방어력으로 반격의 기회를 만든다. 방어 타입의 직업
+
+フォートレスのアビリティ,포트리스의 어빌리티
+ドライブバーストII,드라이브 버스트 II
+センチュリオン,센츄리온
+自分の被ダメージ無効(*回)/攻撃DOWN,자신이 받는 데미지 무효(*회) / 공격 DOWN
+"センチュリオン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","센츄리온<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!클레릭 관련
 クレリック,클레릭
 癒しの力だけでなく、強力な光の攻撃呪文で戦いを援護する。回復タイプのジョブ。,치유의 힘뿐 아니라 강력한 빛의 공격 주문으로 싸움을 지원한다. 회복 타입의 직업
+クレリック Lv**,클레릭 Lv**
 
+クレリックのアビリティ,클레릭의 어빌리티
+クリアオール,클리어 올
+参戦者の弱体効果を*つ回復,참전자의 약화 효과를 *개 회복
+シャイニング,샤이닝
+敵全体に光属性ダメージ(中),적 전체에게 광속성 데미지(중)
+
+
+!소서러 관련
 ソーサラー,소서러
 多彩な属性攻撃を武器に、確実に敵の弱点を狙い撃つ。攻撃タイプのジョブ。,다양한 속성 공격을 사용해 확실하게 적의 약점을 노린다. 공격 타입의 직업
+ソーサラー Lv**,소서러 Lv**
 
+ソーサラーのアビリティ,소서러의 어빌리티
+ブラインド,블라인드
+敵に暗闇効果,적에게 암흑 효과
+"ブラインド<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","블라인드<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!레이더 관련
 レイダー,레이더
 戦うことだけでなく、敵からお宝を奪うことに長ける。バランスタイプのジョブ,싸움 뿐만 아니라 적에게서 보물을 빼앗는데도 능숙하다. 밸런스 타입의 직업
+レイダー Lv**,레이더 Lv**
 
+レイダーのアビリティ,레이더의 어빌리티
+トレジャーハントII,트레저 헌트 II
+トリックステップ,트릭스텝
+敵がオーバードライブ時にモードゲージを減少,적이 오버드라이브 상태일때 모드 게이지를 감소
+"トレジャーハントII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!아르카나 소드 관련
 アルカナソード,아르카나 소드
 状況に合わせて戦術を変え、オールマイティに味方を援護する。特殊タイプのジョブ。,상황에 맞춰 전술을 바꿔 다재다능하게 아군을 지원한다. 특수 타입의 작업
+アルカナソード Lv**,아르카나 소드 Lv**
 
+アルカナソードのアビリティ,아르카나 소드의 어빌리티
+エレメンタルフォースII,엘레멘탈 포스 II
+参戦者のアビリティダメージUP(大),참전자의 어빌리티 데미지 UP(대)
+クイック,퀵
+味方全体の連続攻撃確率UP,아군 전체의 연속공격 확률 UP
+"エレメンタルフォースII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","엘레멘탈 포스 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"クイック<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","퀵<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!쿵푸 관련
 クンフー,쿵푸
 あらゆる体術をマスターし、単身、敵へと立ち向かう。攻撃タイプのジョブ。,"모든 체술을 마스터해, 단신으로 적과 맞선다. 공격 타입의 직업"
+クンフー Lv**,쿵푸 Lv**
 
+クンフーのアビリティ,쿵푸의 어빌리티
+捨身の型II,필사의 자세 II
+自分の攻撃UP(特大)/防御DOWN,자신의 공격 UP(특대) / 방어DOWN
+内功,내공
+自分のHPを回復/防御UP,자신의 HP를 회복 / 방어 UP
+カウンターII,카운터 II
+"捨身の型II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","필사의 자세 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"内功<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","내공<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!명사수 관련
 マークスマン,명사수
 アウトレンジのエキスパートで、弱体した敵への追い撃ちとなる強撃を叩きこむ。バランスタイプのジョブ。,아웃레인지의 전문가로 약해진 적을 추격해 강력한 일격을 날린다. 밸런스 타입의 직업
+マークスマン Lv**,명사수 Lv**
 
+マークスマンのアビリティ,명사수의 어빌리티
+アローレインII,애로우 레인 II
+敵全体に自属性ダメージ/攻撃DOWN(小),적 전체에게 자신의 속성 데미지 / 공격 DOWN(소)
+ハードライン,하드라인
+弱体状態の敵に大ダメージ,약화 상태의 적에게 큰 데미지
+"アローレインII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","애로우 레인 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+!민스트럴 관련
 ミンストレル,민스트럴
 美しい歌声で味方を癒し、敵の戦意を奪うことで戦局を意のままに操る。特殊タイプのジョブ。,아름다운 노랫소리로 아군을 치유하고 적의 전의를 빼앗아 싸움을 생각대로 조종한다. 특수 타입의 직업
+ミンストレル Lv**,민스트럴 Lv**
 ミンストレルのコンプリートボーナス,민스트럴 컴플리트 보너스
 ミンストレルのLimit Bonusが<br>解禁されました！,민스트럴 Limit Bonus가<br>해금되었습니다！
 ミンストレルのジョブスキンが<br>変更できるようになりました！<br><br>ジョブ詳細画面より変更できます。,민스트럴의 직업 스킨을<br>변경가능합니다！<br><br>직업 상세화면에서 변경가능합니다
 
+チャームボイスII,챰 보이스 II
+ミンストレルソング,민스트럴 송
+味方全体に再生効果　★楽器装備時に性能UP,아군 전체에게 재생 효과　★악기 장비시 성능 UP
+
+
 
 ドラグーン,드라군
 一撃必殺のタイミングを窺い、奥義発動に合わせて一気に畳み掛ける。攻撃タイプのジョブ。,"일격필살의 타이밍을 노려, 오의로 단숨에 공격한다. 공격 타입의 직업"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !클래스 3
 ウェポンマスター,웨폰마스터
@@ -22868,9 +23094,9 @@ Job LvがMAXになりました。,Job Lv이 MAX가 되었습니다
 スキン変更解禁,스킨변경 해금
 このジョブの得意武器,이 직업의 특기무기
 ウェポンマスター Lv**,웨폰마스터 Lv**
-ミンストレル Lv**,민스트럴 Lv**
+
 ドラグーン Lv**,드라군 Lv**
-レイダー Lv**,레이더 Lv**
+
 剣聖 Lv**,검성 Lv**
 
 地絶のパルヴァライズ,지절의 파르바라이즈
@@ -22952,14 +23178,14 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 
 
 
-!워리어 스킬
-ウォーリアのアビリティ,워리어의 어빌리티
-レイジII,레이지 II
-参戦者の攻撃UP(中),참전자의 공격 UP(중)
-アーマーブレイク,아머 브레이크
-敵に自属性ダメージ/防御DOWN,적에게 자신의 속성 데미지 / 방어 DOWN
-"レイジII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","레이지II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"アーマーブレイク<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","아머 브레이크<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
+
 
 
 !웨폰마스터 스킬
@@ -23019,12 +23245,12 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 
 
 
-!포트리스 스킬
-フォートレスのアビリティ,포트리스의 어빌리티
-ドライブバーストII,드라이브 버스트 II
-センチュリオン,센츄리온
-自分の被ダメージ無効(*回)/攻撃DOWN,자신이 받는 데미지 무효(*회) / 공격 DOWN
-"センチュリオン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","센츄리온<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
 
 
 !홀리세이버 스킬
@@ -23059,26 +23285,26 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 守護騎士の証 ×**,수호기사의 증표 ×**
 
 
-!프리스트 스킬
-プリースト,프리스트
-プリーストのアビリティ,프리스트의 어빌리티
-ヒールオール,힐 올
-参戦者のHPを回復(小),참전자의 HP를 회복(소)
-オーラ,오라
-参戦者の防御UP(小),참전자의 방어 UP(소)
-回復力+**％,회복력+**％
-"オーラ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","오라<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-慈悲,자비
-回復効果UP/回復上限UP,회복 효과 UP / 회복 상한 UP
-防御力が上昇した状態,방어력이 상승한 상태
-"回復力<span class=""value"">+*%</span>","회복력<span class=""value"">+*%</span>"
 
-!클레릭 스킬
-クレリックのアビリティ,클레릭의 어빌리티
-クリアオール,클리어 올
-参戦者の弱体効果を*つ回復,참전자의 약화 효과를 *개 회복
-シャイニング,샤이닝
-敵全体に光属性ダメージ(中),적 전체에게 광속성 데미지(중)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !비숍 스킬
 ビショップ,비숍
@@ -23112,24 +23338,24 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 
 
 
-!위자드 스킬
-ウィザードのアビリティ,위자드의 어빌리티
-エーテルブラスト,에테르 블래스트
-敵に*～*倍自属性ダメージ,적에게 *～*배 자신의 속성 데미지
-ファイア,파이어
-敵全体に火属性ダメージ(小),적 전체에게 화속성 데미지(소)
-アイス,아이스
-敵全体に水属性ダメージ(小),적 전체에게 수속성 데미지(소)
-精霊の加護,정령의 가호
-アビリティダメージUP,어빌리티 데미지 UP
-アビリティダメージ+**％,어빌리티 데미지+**％
-"アビリティダメージ<span class=""value"">+*%</span>","어빌리티 데미지<span class=""value"">+*%</span>"
 
-!소서러 스킬
-ソーサラーのアビリティ,소서러의 어빌리티
-ブラインド,블라인드
-敵に暗闇効果,적에게 암흑 효과
-"ブラインド<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","블라인드<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !허밋 스킬
 ハーミットのアビリティ,허밋의 어빌리티
@@ -23166,29 +23392,29 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 魔導士の証 ×**,마도사의 증표×**
 
 
-!시프 스킬
-シーフのアビリティ,시프의 어빌리티
-ブレイクアサシン,브레이크 어새신
-自分の攻撃大幅UP(敵ブレイク時のみ/*回),자신의 공격 대폭 UP(적이 브레이크 상태일 때 / *회)
-トレジャーハント,트레저 헌트
-敵のアイテムドロップ率UP(*回),적의 아이템 드롭률 UP(*회)
-おたから狙い,보물 사냥꾼
-トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP,트레저 헌트 성공확률 UP / 트레헌 Lv이 높을수록 공격 UP
-"ブレイクアサシン<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","브레이크 어새신<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"トレジャーハント<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-トレジャーハント成功確率+**％,트레저 헌트 성공확률+**％
-ブレイク状態の敵への攻撃力が上昇した状態,브레이크 상태의 적에게 공격력이 상승된 상태
-アイテムドロップ率が上昇した状態,아이템 드롭률이 상승한 상태
-"トレジャーハント成功確率<span class=""value"">+*%</span>","트레저 헌트 성공확률<span class=""value"">+*%</span>"
-"オーバードライブ抑制<span class=""value"">+*%</span>","오버드라이브 억제<span class=""value"">+*%</span>"
 
 
-!레이더 스킬
-レイダーのアビリティ,레이더의 어빌리티
-トレジャーハントII,트레저 헌트 II
-トリックステップ,트릭스텝
-敵がオーバードライブ時にモードゲージを減少,적이 오버드라이브 상태일때 모드 게이지를 감소
-"トレジャーハントII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","트레저 헌트 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 !호크아이 스킬
@@ -23224,28 +23450,28 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 
 
 
-!인핸서 스킬
-エンハンサーのアビリティ,인핸서의 어빌리티
-ディレイ,딜레이
-敵に自属性ダメージ/スロウ効果,적에게 자신의 속성 데미지 / 슬로우 효과
-エレメンタルフォース,엘레멘탈 포스
-参戦者のアビリティダメージUP(小),참전자의 어빌리티 데미지 UP(소)
-サボタージ,사보타주
-弱体成功率UP,약화 성공률 UP
-"エレメンタルフォース<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","엘레멘탈 포스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-弱体成功率+**％,약화 성공률+**％
-アビリティダメージが上昇した状態,어빌리티 데미지가 상승한 상태
-"弱体成功率<span class=""value"">+*%</span>","약화 성공률<span class=""value"">+*%</span>"
-"弱体耐性<span class=""value"">+*%</span>","약화 내성<span class=""value"">+*%</span>"
 
-!아르카나 소드 스킬
-アルカナソードのアビリティ,아르카나 소드의 어빌리티
-エレメンタルフォースII,엘레멘탈 포스 II
-参戦者のアビリティダメージUP(大),참전자의 어빌리티 데미지 UP(대)
-クイック,퀵
-味方全体の連続攻撃確率UP,아군 전체의 연속공격 확률 UP
-"エレメンタルフォースII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","엘레멘탈 포스 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"クイック<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","퀵<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !다크펜서 스킬
 ダークフェンサーのアビリティ,다크펜서의 어빌리티
@@ -23287,27 +23513,27 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 魔剣士の証 ×**,마검사의 증표 ×**
 
 
-!그래플러 스킬
-グラップラーのアビリティ,그래플러의 어빌리티
-カウンター,카운터
-カウンター効果(回避/*回)/自分の攻撃UP,카운터 효과(회피/*회) / 자신의 공격UP
-捨身の型,필사의 자세
-自分の攻撃UP(大)/防御DOWN,자신의 공격 UP(대) / 방어 DOWN
-防御力が減少した状態(回復不可),방어력이 감소한 상태(회복불가)
-虎襲の構え,맹호의 자세
-"カウンター<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","카운터<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"捨身の型<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","필사의 자세<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
 
 
-!쿵푸 스킬
-クンフーのアビリティ,쿵푸의 어빌리티
-捨身の型II,필사의 자세 II
-自分の攻撃UP(特大)/防御DOWN,자신의 공격 UP(특대) / 방어DOWN
-内功,내공
-自分のHPを回復/防御UP,자신의 HP를 회복 / 방어 UP
-カウンターII,카운터 II
-"捨身の型II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","필사의 자세 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"内功<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","내공<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 !오거 스킬
@@ -23340,25 +23566,25 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 攻撃UP/一度だけ戦闘不能にならずにHP*で耐える,공격UP/딱 한 번 전투불능이 되지 않고 HP *로 버틴다
 
 
-!레인저 스킬
-レンジャーのアビリティ,레인저의 어빌리티
-ライトウェイト,라이트 웨이트
-アローレイン,애로우 레인
-敵全体に自属性ダメージ,적 전체에게 자신의 속성 데미지
-精密射撃,정밀사격
-"ライトウェイト<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","라이트 웨이트<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-効果中の被ダメージと弱体効果を無効化する状態,효과 중 받는 데미지와 약화 효과를 무효화하는 상태
-攻撃力+***,공격력+***
-アビリティダメージ+*％,어빌리티 데미지+*％
 
 
-!명사수 스킬
-マークスマンのアビリティ,명사수의 어빌리티
-アローレインII,애로우 레인 II
-敵全体に自属性ダメージ/攻撃DOWN(小),적 전체에게 자신의 속성 데미지 / 공격 DOWN(소)
-ハードライン,하드라인
-弱体状態の敵に大ダメージ,약화 상태의 적에게 대 데미지
-"アローレインII<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","애로우 레인 II<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23388,26 +23614,26 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 
 
 
-!하피스트 스킬
-ハーピストのアビリティ,하피스트의 어빌리티
-オーヴァチュア,오버츄어
-味方全体の回復性能UP　★楽器装備時に性能UP,아군 전체의 회복 성능 UP ★악기 장비시 성능 UP
-チャームボイス,챰 보이스
-敵に魅了効果　★楽器装備時に性能UP,적에게 매료 효과　★악기 장비시 성능 UP
-カンタービレ,칸타빌레
-オーバードライブ時の敵からの被ダメージ減少,오버드라이브 상태의 적에게 받는 데미지 감소
-"オーヴァチュア<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","오버츄어<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"チャームボイス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","챰 보이스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-防御力+*％,방어력+*％
-弱体耐性+*％,약화 내성+*％
-回復アビリティの回復量が上昇した状態(累積),회복 어빌리티의 회복량이 상승한 상태(누적)
-回復アビリティの回復上限が上昇した状態(累積),회복 어빌리티의 회복 상한이 상승한 상태(누적)
 
-!민스트럴 스킬
 
-チャームボイスII,챰 보이스 II
-ミンストレルソング,민스트럴 송
-味方全体に再生効果　★楽器装備時に性能UP,아군 전체에게 재생 효과　★악기 장비시 성능 UP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 !슈퍼스타 스킬
@@ -23437,19 +23663,19 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 
 
 
-!랜서 스킬
-ランサーのアビリティ,랜서의 어빌리티
-リードドライブ,리드 드라이브
-"敵に自属性ダメージ<br><span class=""text-blue"">槍：ブレイク状態を維持<br>斧：モードゲージ減少</span>","적에게 자신의 속성 데미지<br><span class=""text-blue"">창：브레이크 상태를 유지<br>도끼：모드 게이지 감소</span>"
-デュアルインパルス,듀얼 임펄스
-"<div class=""prt-text-small"">効果中必ず連続攻撃<br><span class=""text-blue"">槍：参戦者のダブルアタック確率UP(小)<br>斧：敵のダブルアタック確率DOWN(小)</span></div>","<div class=""prt-text-small"">효과중 반드시 연속공격<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(소)<br>도끼：적의 더블어택 확률 DOWN(소)</span></div>"
-ヴォリショナル,볼리셔널
-槍装備時に攻撃UP<br>斧装備時に防御UP,창 장비시 공격 UP<br>도끼 장비시 방어 UP
-"リードドライブ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","리드 드라이브<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"デュアルインパルス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","듀얼 임펄스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-ダブルアタック確率+*％,더블어택 확률+*％
-"ダブルアタック確率<span class=""value"">+*%</span>","더블어택 확률<span class=""value"">+*%</span>"
-ブレイク時間が延長している状態,브레이크 시간이 연장되어 있는 상태
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !드라군 스킬
 ドラグーンのアビリティ,드라군의 어빌리티
