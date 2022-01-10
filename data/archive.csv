@@ -22631,15 +22631,38 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "!이 예시에는 없는데, 스킬 효과도 퍼오면 좋을듯"
 !직업이름/설명
 !클래스 1
+
 ファイター,파이터
 剣や斧の扱いに長け、高い攻撃力を生かした戦いが得意な攻撃タイプのジョブ。,검과 도끼를 잘 다루며 높은 공격력을 살린 싸움이 특기인 공격 타입의 직업
-
-
-
+!파이터 스킬
+ファイターのアビリティ,파이터의 어빌리티
+ウェポンバースト,웨폰 버스트
+レイジ,레이지
+参戦者の攻撃UP(小),참전자의 공격 UP(소)
+アサルトステップ,어설트 스텝
+ダブルアタック確率UP,더블어택 확률 UP
+攻撃力+****,공격력+****
+"レイジ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","레이지<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"攻撃力<span class=""value"">+***</span>","공격력<span class=""value"">+***</span>"
+"攻撃力<span class=""value"">+*%</span>","공격력<span class=""value"">+*%</span>"
 
 
 ナイト,나이트
 甲冑に身を包み、堅固な守りで仲間を助けるパーティの守護神。防御タイプのジョブ。,갑옷을 두르고 견고한 수비로 동료를 돕는 파티의 수호신. 방어 타입의 직업
+!나이트 스킬
+ナイトのアビリティ,나이트의 어빌리티
+ファランクス,팔랑크스
+参戦者の全属性ダメージカット(**%),참전자의 모든 속성 데미지 컷(**%)
+ドライブバースト,드라이브 버스트
+オーバードライブ時の敵に*倍自属性ダメージ,오버드라이브 상태의 적에게 *배 자신의 속성 데미지
+大盾,큰 방패
+確率で全属性ダメージカット(**%),확률로 모든 속성 데미지 컷(**%)
+防御力+**％,방어력+**％
+"ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","팔랑크스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
+"防御力<span class=""value"">+*%</span>","방어력<span class=""value"">+*%</span>"
+
+
+
 プリースト,프리스트
 癒しの力を使い、戦いをサポートするアビリティを得意とする回復タイプのジョブ。,치유의 힘을 사용해 전투를 서포트하는 회복 타입의 직업
 ウィザード,위자드
@@ -22916,17 +22939,17 @@ EXアビリティ解除,EX 어빌리티 해제
 JOB Lv**で<br>Limit Bonusが解禁され<br>能力を強化できます。,JOB Lv**에<br>Limit Bonus가 해방되어<br>능력을 강화할 수 있습니다.
 JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB Lv**에<br>Master Level가 해방되어<br>능력을 강화할 수 있습니다.
 
-!파이터 스킬
-ファイターのアビリティ,파이터의 어빌리티
-ウェポンバースト,웨폰 버스트
-レイジ,레이지
-参戦者の攻撃UP(小),참전자의 공격 UP(소)
-アサルトステップ,어설트 스텝
-ダブルアタック確率UP,더블어택 확률 UP
-攻撃力+****,공격력+****
-"レイジ<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","레이지<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"攻撃力<span class=""value"">+***</span>","공격력<span class=""value"">+***</span>"
-"攻撃力<span class=""value"">+*%</span>","공격력<span class=""value"">+*%</span>"
+
+
+
+
+
+
+
+
+
+
+
 
 
 !워리어 스킬
@@ -22983,17 +23006,17 @@ JOB Lv**で<br>Master Levelが解禁され<br>能力を強化できます。,JOB
 自分が即座に奥義発動可能/攻撃UP/チェインバーストダメージUP/奥義性能UP(*回),자신이 즉시 오의 발동가능 / 공격 UP / 체인 버스트 데미지 UP/오의 성능UP(*회)
 
 
-!나이트 스킬
-ナイトのアビリティ,나이트의 어빌리티
-ファランクス,팔랑크스
-参戦者の全属性ダメージカット(**%),참전자의 모든 속성 데미지 컷(**%)
-ドライブバースト,드라이브 버스트
-オーバードライブ時の敵に*倍自属性ダメージ,오버드라이브 상태의 적에게 *배 자신의 속성 데미지
-大盾,큰 방패
-確率で全属性ダメージカット(**%),확률로 모든 속성 데미지 컷(**%)
-防御力+**％,방어력+**％
-"ファランクス<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>","팔랑크스<div class=""btn-ability-effect-info"" data-ability-index=""*""></div>"
-"防御力<span class=""value"">+*%</span>","방어력<span class=""value"">+*%</span>"
+
+
+
+
+
+
+
+
+
+
+
 
 
 !포트리스 스킬
