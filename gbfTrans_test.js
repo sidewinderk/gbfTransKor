@@ -2033,7 +2033,8 @@ function translate(stext, jsonFile) {
                                 for(let iTemp = arrayindex; iTemp < tempTransTexts.length; iTemp++){
                                     if (tempTransTexts[iTemp].length > 0){
                                         transTexts.push(tempTransTexts[iTemp]);
-                                        if(!tempTransTexts[iTemp].includes("</span>") || !isTranslationUsed){
+                                        if((tempTransTexts[iTemp].slice(-1) != ">" && !tempTransTexts[iTemp].includes("<br>") && !isTranslationUsed)
+                                        || !isTranslationUsed){
                                             transTexts.push(item.kr);
                                             isTranslationUsed = isTranslationUsed + 1;
                                         }
