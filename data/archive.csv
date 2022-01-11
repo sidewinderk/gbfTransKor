@@ -23044,7 +23044,7 @@ Lv** ゼピュロス,Lv** 제퓨로스
 ファランクスII,팔랑크스 II
 "参戦者の全属性ダメージカット(**%)                        <div class=""txt-ability-recast"">使用間隔: *ターン</div>","참전자의 모든 속성 데미지 컷(**%)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ドライブバーストIII,드라이브 버스트 III
-"オーバードライブ時の敵に*倍自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","오버드라이브 상태의 적에게 *배 自属性 데미지                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
+"オーバードライブ時の敵に*倍自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","오버드라이브 상태의 적에게 *배 자신의 속성 데미지                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 かばう,감싸기
 自分にかばう効果,자신에게 감싸기 효과
 "自分にかばう効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","자신에게 감싸기 효과                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
@@ -23073,12 +23073,12 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "参戦者のHPを回復(中)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","참전자의 HP를 회복(중)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ディスペル,디스펠
 敵の強化効果を*つ無効化,적의 강화 효과를 *개 무효화
-"敵の強化効果を*つ無効化			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","敵の強化効果を*개 무효화                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
+"敵の強化効果を*つ無効化			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적의 강화 효과를 *개 무효화                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 リヴァイヴ,리바이브
 味方単体を復活,아군 한 명을 부활
 "味方単体を復活			<div class=""txt-ability-recast"">使用間隔: **ターン</div>","아군 한 명을 부활                        <div class=""txt-ability-recast"">사용간격 : **턴</div>"
 ベール,베일
-"味方全体の弱体効果無効(*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","味方全体の약화 効果無効(*회)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
+"味方全体の弱体効果無効(*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 전체의 약화 효과 무효(*회)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ホワイトウォール,화이트 월
 "味方全体にバリア効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 전체에게 배리어 효과                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 救済の光,구제의 빛
