@@ -23074,10 +23074,10 @@ Lv** ゼピュロス,Lv** 제퓨로스
 ブレイクアサシンII,브레이크 어새신 II
 
 トレジャーハントIII,트레저 헌트 III
-"敵のアイテムドロップ率UP(*回)                        <div class=""txt-ability-recast"">使用間隔: *ターン</div>","적의 アイテムドロップ率UP(*回)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
+"敵のアイテムドロップ率UP(*回)                        <div class=""txt-ability-recast"">使用間隔: *ターン</div>","적의 아이템 드롭률 UP(*회)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 デッドリーエイム,데들리 에임
 自分のトリプルアタック確率UP,자신의 트리플 어택 확률 UP
-"自分のトリプルアタック確率UP			<div class=""txt-ability-recast"">使用間隔: **ターン</div>","자신의 トリプルアタック確率UP                        <div class=""txt-ability-recast"">사용간격 : **턴</div>"
+"自分のトリプルアタック確率UP			<div class=""txt-ability-recast"">使用間隔: **ターン</div>","자신의 트리플 어택 확률 UP                        <div class=""txt-ability-recast"">사용간격 : **턴</div>"
 
 ブレイクキープ,브레이크 킵
 敵のブレイク状態を維持  ★トレハンLvに応じて性能上昇,적의 브레이크 상태를 유지 ★트레헌 Lv에 따라 성능 상승
@@ -23179,7 +23179,7 @@ Lv** ゼピュロス,Lv** 제퓨로스
 
 オーヴァチュアII,오버츄어 II
 参戦者の回復性能UP(累積)　★楽器装備時に性能UP,참전자의 회복 성능 UP(누적)　★악기 장비시 성능 UP
-"参戦者の回復性能UP(累積)　★楽器装備時に性能UP			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","참전자의 회복 성능 UP(누적)　★楽器装備時に性能UP                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
+"参戦者の回復性能UP(累積)　★楽器装備時に性能UP			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","참전자의 회복 성능 UP(누적)　★악기 장비시 성능 UP                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ソウルピルファー,소울필퍼
 敵全体の弱体耐性DOWN/味方全体の弱体耐性UP　★楽器装備時に性能UP,적 전체의 약화 내성 DOWN / 아군 전체의 약화 내성 UP　★악기 장비시 성능 UP
 ソング・オブ・グランデ,송 오브 그랑데
@@ -23204,12 +23204,13 @@ Lv** ゼピュロス,Lv** 제퓨로스
 
 リードドライブII,리드 드라이브 II
 デュアルインパルスIII,듀얼 임펄스 III
-"<div class=""prt-text-small"">効果中必ずトリプルアタック<br><span class=""text-blue"">槍：参戦者の連続攻撃確率UP(大)<br>斧：敵の連続攻撃確率DOWN(大)</span></div>","<div class=""prt-text-small"">효과 중 반드시 트리플어택<br><span class=""text-blue"">창：참전자의 더블어택 확률 UP(대)<br>도끼：적의 더블어택 확률 DOWN(대)</span></div>"
-槍：参戦者の連続攻撃確率UP(大)<br>斧：敵の連続攻撃確率DOWN(大),창：참전자의 連続攻撃確率UP(大)<br>도끼：적의 連続攻撃確率DOWN(大)
+"<div class=""prt-text-small"">効果中必ずトリプルアタック<br><span class=""text-blue"">槍：参戦者の連続攻撃確率UP(大)<br>斧：敵の連続攻撃確率DOWN(大)</span></div>","<div class=""prt-text-small"">효과 중 반드시 트리플어택<br><span class=""text-blue"">창：참전자의 연속공격 확률 UP(대)<br>도끼：적의 연속공격 확률 DOWN(대)</span></div>"
+槍：参戦者の連続攻撃確率UP(大)<br>斧：敵の連続攻撃確率DOWN(大),창：참전자의 연속공격 확률 UP(대)<br>도끼：적의 연속공격 확률 DOWN(대)
 レゾナンスサージ,레저넌스 서지
 敵に自属性ダメージ/自分のアビリティダメージUP(累積),적에게 자신의 속성 데미지 / 자신의 어빌리티 데미지 UP(누적)
 
 ランドグリース,란드그리드
+"敵の防御DOWN			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적의 방어 DOWN                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 エインフェリアル,에인헤랴르
 "毎ターン攻撃力UP　<span class=""text-blue"">◆被ダメージで解除</span>","매 턴 공격력 UP　<span class=""text-blue"">◆데미지를 받으면 해제</span>"
 "毎ターン攻撃力UP　<span class=""text-blue"">◆被ダメージで解除</span>			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","매 턴 공격력 UP　<span class=""text-blue"">◆被ダメージで解除</span>                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
@@ -23229,8 +23230,8 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "効果中、奥義がコンパニオンウェポンの奥義に変化/奥義ダメージUP(*回)<br><span class=""text-blue"">◆コンパニオンウェポン装備時のみ使用可能</span>","효과 중 오의가 컴패니언 웨폰의 오의로 변화 / 오의 데미지 UP(*회)<br><span class=""text-blue"">◆컴패니언 웨폰 장비시에만 사용 가능 </span>"
 奥義がコンパニオンウェポンの奥義に変化する状態(消去不可),오의가 컴패니언 웨폰의 오의로 변화하는 상태(소거불가)
 ツインサーキュラー,트윈 서큘러
-敵全体に*回自属性ダメージ,적 전체에게 *회 자신의 속성 데미지
-"敵全体に*回自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 *회 자신의 속성 데미지                        <div class=""txt-ability-recast"">사용간격 : *턴</div>",,"<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+敵全体に*回自属性ダメージ,적 전체에게 *회 자신의 속성 데미지,,"<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"敵全体に*回自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 *회 자신의 속성 데미지                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ディストリーム,디스트림
 "<div class=""prt-text-small"">敵に*回弱点属性ダメージ<br><span class=""text-blue"">◆コンパニオンウェポン装備時：攻撃回数*倍</span></div>","<div class=""prt-text-small"">적에게 *회 약점 속성 데미지<br><span class=""text-blue"">◆컴패니언 웨폰 장비시：공격 횟수 *배</span></div>"
 二刀流,이도류
