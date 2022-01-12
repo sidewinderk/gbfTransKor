@@ -5,7 +5,10 @@ orig,kr
 ルピ,루피
 
 金綬の贈り物,금색끈 선물상자
-
+必要数　***宝晶石,필요수　*** 보정석
+必要数　****宝晶石,필요수　**** 보정석
+必要数　*****宝晶石,필요수　***** 보정석
+"<select class=""num-set"">                                                                                                                                                <option value=""*"" style=""color: black;"">*</option>                                                                                                                                                                                                <option value=""*"" style=""color: black;"">*</option>                                                                                                                                                                                                <option value=""*"" style=""color: black;"">*</option>                                                                                                                                                                                                <option value=""*"" style=""color: black;"">*</option>                                                                                                                                                                                                <option value=""*"" style=""color: black;"">*</option>                                                                                                                                                                                                <option value=""*"" style=""color: black;"">*</option>                                                                                                                        </select>                                個","<select class=""num-set"">																		<option value=""*"" style=""color: black;"">*</option>																								<option value=""*"" style=""color: black;"">*</option>																								<option value=""*"" style=""color: black;"">*</option>																								<option value=""*"" style=""color: black;"">*</option>																								<option value=""*"" style=""color: black;"">*</option>																								<option value=""*"" style=""color: black;"">*</option>															</select>				개"
 
 !회복・육성 아이템
 エリクシール,엘릭실
@@ -63,8 +66,10 @@ Sレアまでのキャラクターを上限解放させます,SR 이하의 캐�
 緋紅の杯,붉은 성배
 召喚石の経験値が*****上昇します,소환석의 경험치가 ***** 상승합니다
 名工の鍛冶台,장인의 모루
+
 ジェム,젬
-LBやトレジャーに代わり、リミットボーナスの能力強化や覚醒Lvアップに使用できます。,"LB나 트레저를 대신해, 리미트 보너스의 능력강화 및 각성 Lv 업에 사용할 수 있다"
+LBやトレジャーに代わり、リミットボーナスの能力強化や覚醒Lvアップに使用できます。,LB나 트레저를 대신해 리미트 보너스의<br>능력강화 및 각성 Lv 업에 사용할 수 있다
+
 ラズベリーチョコケーキ,라즈베리 초코케이크
 武器の経験値が***上昇します,무기의 경험치가 *** 상승합니다
 キャラクターの経験値が**上昇します,캐릭터의 경험치가 ** 상승합니다
