@@ -23093,7 +23093,7 @@ Lv** ゼピュロス,Lv** 제퓨로스
 ホークアイのジョブスキンが<br>変更できるようになりました！<br><br>ジョブの見た目を変更できます。,호크아이의 직업 스킨을<br>변경가능합니다！<br><br>직업 외형을 변경할 수 있습니다
 
 ブレイクアサシンII,브레이크 어새신 II
-"自分の攻撃大幅UP(敵ブレイク時のみ/*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","자신의 공격大幅UP(敵ブレイク時のみ/*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"自分の攻撃大幅UP(敵ブレイク時のみ/*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","자신의 공격大幅UP(적이 브레이크 상태일 때/*回)                        <div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 トレジャーハントIII,트레저 헌트 III
 "敵のアイテムドロップ率UP(*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적의 아이템 드롭률 UP(*회)                        <div class=""txt-ability-recast"">사용 간격 : *턴</div>"
 デッドリーエイム,데들리 에임
@@ -23178,10 +23178,13 @@ Lv** ゼピュロス,Lv** 제퓨로스
 
 アローレインIII,애로우 레인 III
 敵全体に自属性ダメージ/攻撃DOWN(大),적 전체에게 자신의 속성 데미지 / 공격 DOWN(대)
+"敵全体に自属性ダメージ/攻撃DOWN(大)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 자신의 속성 ダメージ/攻撃DOWN(大)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 キルストリーク,킬 스트릭
 敵の弱体効果の数に応じて大ダメージ,적의 약화 효과 수에 따라 큰 데미지
+"敵の弱体効果の数に応じて大ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적의 약화 효과 수에応じて大ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 スタディエイム,스테디 에임
 敵にスタディエイムを付与/奥義ゲージUP,적에게 스테디 에임을 부여 / 오의 게이지 UP
+"敵にスタディエイムを付与/奥義ゲージUP			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적에게 스테디 エイムを付与/奥義ゲージUP			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 チェンジ,체인지
 自分とサブメンバーの一人を入れ替える,자신과 서브 멤버 한 명을 교체
 "自分とサブメンバーの一人を入れ替える			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","자신과 서브 멤버 한 명을 교체                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
@@ -23260,8 +23263,8 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "敵に*回弱点属性ダメージ<br><span class=""text-blue"">◆コンパニオンウェポン装備時：攻撃回数*倍</span>","적에게 *회 약점 속성 데미지<br><span class=""text-blue"">◆컴패니언 웨폰 장비시：공격 횟수 *배</span>"
 クロスガード,크로스 가드
 "味方全体の全属性ダメージ**%カット<br><span class=""text-blue"">◆コンパニオンウェポン装備時：自分にブロック効果追加</span>","아군 전체의 모든 속성 데미지 **% 컷<br><span class=""text-blue"">◆コンパニオンウェポン装備時：自分にブロック効果追加</span>"
-
-
+チェイスブレード,체이스 블레이드
+"効果中必ずトリプルアタック/自分に与ダメージ上昇効果<br><span class=""text-blue"">◆コンパニオンウェポン装備時のみ使用可能</span>","효과 중 반드시 트리플 어택 / 自分に与ダメージ上昇効果<br><span class=""text-blue"">◆コンパニオンウェポン装備時のみ使用可能</span>"
 
 
 二刀流,이도류
