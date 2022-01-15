@@ -23388,10 +23388,10 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "敵にスロウ効果/自分の攻撃UP/防御DOWN			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적에게 슬로우 효과 / 자신의 공격 UP / 방어 DOWN                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ガーディアン,가디언
 "自分の防御UP/敵対心UP　<span class=""text-blue"">◆奥義ゲージを**％消費</span>","자신의 방어 UP / 적대심 UP　<span class=""text-blue"">◆오의 게이지를 **％ 소비</span>"
-"自分の防御UP/敵対心UP　<span class=""text-blue"">◆奥義ゲージを**％消費</span>			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","자신의 방어 UP / 적대심 UP　<span class=""text-blue"">◆오의 게이지를 **％ 소비</span>                        <div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"自分の防御UP/敵対心UP　<span class=""text-blue"">◆奥義ゲージを**％消費</span>			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","자신의 방어 UP / 적대심 UP　<span class=""text-blue"">◆오의 게이지를 **％ 소비</span>                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 センチュリオンII,센츄리온 II
 味方単体の被ダメージ無効(*回),아군 한 명이 받는 데미지 무효(*회)
-"味方単体の被ダメージ無効(*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 한 명이 받는 데미지 無効(*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"味方単体の被ダメージ無効(*回)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 한 명이 받는 데미지 무효(*회)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 かばう使用時全属性ダメージカット(**%)/ファランクスIII使用時攻撃UP,감싸기 사용시 모든 속성 데미지 컷(**%) / 팔랑크스 III 사용시 공격 UP
 窮地への抗拒,궁지에 대한 항거
 確率で全属性ダメージカット(**%)/確率でターン開始時に自分の弱体効果を*つ回復,확률로 모든 속성 데미지 컷(**%) / 확률로 턴 시작시 자신의 약화 효과를 *개 회복
@@ -23412,7 +23412,7 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "参戦者のHPを回復(大)			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","참전자의 HP를 회복(대)                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 シャイニングII,샤이닝 II
 敵全体に光属性*.*～*倍ダメージ/「ホーリースパイク」付与,적 전체에게 광속성 *.*～*배 데미지 / 「홀리 스파이크」 부여
-"敵全体に光属性*.*～*倍ダメージ/「ホーリースパイク」付与			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 광속성 *.*～*배 데미지 / 「홀리 스파이크」付与                        <div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"敵全体に光属性*.*～*倍ダメージ/「ホーリースパイク」付与			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 광속성 *.*～*배 데미지 / 「홀리 스파이크」 부여                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ディスペル・シージ,디스펠 시지
 敵全体の強化効果を*つ無効化,적 전체의 강화 효과를 *개 무효화
 
