@@ -23416,10 +23416,10 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "敵全体に光属性*.*～*倍ダメージ/「ホーリースパイク」付与			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 광속성 *.*～*배 데미지 / 「홀리 스파이크」 부여                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 ディスペル・シージ,디스펠 시지
 敵全体の強化効果を*つ無効化,적 전체의 강화 효과를 *개 무효화
-"敵全体の強化効果を*つ無効化			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체의 강화 효과를 *つ無効化			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"敵全体の強化効果を*つ無効化			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체의 강화 효과를 *개 무효화                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 キュアーフェン,큐어 펜
 味方全体の弱体効果を*つ回復/バリア効果,아군 전체의 약화 효과를 *개 회복 / 배리어 효과
-"味方全体の弱体効果を*つ回復/バリア効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 전체의 약화 효과를 *つ回復/バリア効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"味方全体の弱体効果を*つ回復/バリア効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 전체의 약화 효과를 *개 회복 / 배리어 효과                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 希望の光,희망의 빛
 回復効果UP/回復上限UP/リヴァイヴの回復量UPとターン短縮/自動復活時の回復量UP/ヒールオールIII使用時攻撃UP,회복 효과 UP / 회복 상한 UP / 리바이브의 회복량 UP 및 턴 단축 / 자동 부활시의 회복량 UP / 힐 올 III 사용시 공격 UP
 不屈の説法,불굴의 설법
@@ -23438,7 +23438,7 @@ Lv** ゼピュロス,Lv** 제퓨로스
 
 ウォーロックのアビリティ,워록의 어빌리티
 エーテルブラストIII,에테르 블래스트 III
-"敵全体に*～*倍自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 *～*배 自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
+"敵全体に*～*倍自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 *～*배 자신의 속성 데미지                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 チェイサー,체이서
 味方全体に自属性追撃効果,아군 전체에게 자신의 속성 추격 효과
 
