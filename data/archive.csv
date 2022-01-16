@@ -23441,18 +23441,18 @@ Lv** ゼピュロス,Lv** 제퓨로스
 "敵全体に*～*倍自属性ダメージ			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체에게 *～*배 자신의 속성 데미지                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 チェイサー,체이서
 味方全体に自属性追撃効果,아군 전체에게 자신의 속성 추격 효과
-
+"味方全体に自属性追撃効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","아군 전체에게 자신의 속성 추격 効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 通常攻撃時に追加ダメージが発生する状態,일반공격시 추가 데미지가 발생하는 상태
 エーテルフラップ,에테르 플랩
 敵にエーテルフラップ効果,적에게 에테르 플랩 효과 부여
-
+"敵にエーテルフラップ効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적에게 에테르 플햅 효과 効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 エーテルブラストで大きなダメージを受けるようになった状態(エーテルブラストを受けると効果UP),에테르 블래스트로 큰 데미지를 받게된 상태
 ブラックヘイズ,블랙헤이즈
 敵全体の攻撃DOWN/防御DOWN/毒効果/暗闇効果,적 전체의 공격 DOWN / 방어 DOWN / 독 효과 / 암흑 효과
-
+"敵全体の攻撃DOWN/防御DOWN/毒効果/暗闇効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체의 공격 DOWN / 방어 DOWN / 毒効果/暗闇効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>"
 レプリケーションキャスト,레플리케이션 캐스트
 "<div class=""prt-text-small"">敵全体に自属性ダメージ/味方全体の奥義ゲージUP(**%)　<span class=""text-blue"">◆パーティの得意武器「杖」のキャラの数に応じて性能UP</span></div>","<div class=""prt-text-small"">적 전체에게 자신의 속성 데미지 / 아군 전체의 오의 게이지 UP(**%)　<span class=""text-blue"">◆파티의 특기무기가 「지팡이」인 캐릭터의 수에 따라 성능 UP</span></div>"
-
+"<div class=""prt-text-small"">敵全体に自属性ダメージ/味方全体の奥義ゲージUP(**%)　<span class=""text-blue"">◆パーティの得意武器「杖」のキャラの数に応じて性能UP</span></div>			<div class=""txt-ability-recast"">使用間隔: **ターン</div>","<div class=""prt-text-small"">적 전체에게 자신의 속성 ダメージ/味方全体の奥義ゲージUP(**%)　<span class=""text-blue"">◆パーティの得意武器「杖」のキャラの数に応じて性能UP</span></div>			<div class=""txt-ability-recast"">使用間隔: **ターン</div>"
 魔導の達士,마도의 달인
 アビリティダメージUP/フォーカスのアビリティダメージUP/ターン短縮,어빌리티 데미지 UP / 포커스의 어빌리티 데미지 UP / 턴 단축
 摂理の彼方,섭리의 너머
