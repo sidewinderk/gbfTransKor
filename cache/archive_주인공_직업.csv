@@ -806,14 +806,14 @@ orig,kr
 通常攻撃時に追加ダメージが発生する状態,일반공격시 추가 데미지가 발생하는 상태
 エーテルフラップ,에테르 플랩
 敵にエーテルフラップ効果,적에게 에테르 플랩 효과 부여
-"敵にエーテルフラップ効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적에게 에테르 플햅 효과 부여                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
+"敵にエーテルフラップ効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적에게 에테르 플랩 효과 부여                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 エーテルブラストで大きなダメージを受けるようになった状態(エーテルブラストを受けると効果UP),에테르 블래스트로 큰 데미지를 받게된 상태
 ブラックヘイズ,블랙헤이즈
 敵全体の攻撃DOWN/防御DOWN/毒効果/暗闇効果,적 전체의 공격 DOWN / 방어 DOWN / 독 효과 / 암흑 효과
 "敵全体の攻撃DOWN/防御DOWN/毒効果/暗闇効果			<div class=""txt-ability-recast"">使用間隔: *ターン</div>","적 전체의 공격 DOWN / 방어 DOWN / 독 효과 / 암흑 효과                        <div class=""txt-ability-recast"">사용간격 : *턴</div>"
 レプリケーションキャスト,레플리케이션 캐스트
 "<div class=""prt-text-small"">敵全体に自属性ダメージ/味方全体の奥義ゲージUP(**%)　<span class=""text-blue"">◆パーティの得意武器「杖」のキャラの数に応じて性能UP</span></div>","<div class=""prt-text-small"">적 전체에게 자신의 속성 데미지 / 아군 전체의 오의 게이지 UP(**%)　<span class=""text-blue"">◆파티의 특기무기가 「지팡이」인 캐릭터의 수에 따라 성능 UP</span></div>"
-"<div class=""prt-text-small"">敵全体に自属性ダメージ/味方全体の奥義ゲージUP(**%)　<span class=""text-blue"">◆パーティの得意武器「杖」のキャラの数に応じて性能UP</span></div>			<div class=""txt-ability-recast"">使用間隔: **ターン</div>","<div class=""prt-text-small"">적 전체에게 자신의 속성 데미지 / 아군 전체의 오의 게이지 UP(**%)　<span class=""text-blue"">◆파티의 특기무기가 「지팡이」のキャラの数に応じて性能UP</span></div>                        <div class=""txt-ability-recast"">使用間隔: **ターン</div>"
+"<div class=""prt-text-small"">敵全体に自属性ダメージ/味方全体の奥義ゲージUP(**%)　<span class=""text-blue"">◆パーティの得意武器「杖」のキャラの数に応じて性能UP</span></div>			<div class=""txt-ability-recast"">使用間隔: **ターン</div>","<div class=""prt-text-small"">적 전체에게 자신의 속성 데미지 / 아군 전체의 오의 게이지 UP(**%)　<span class=""text-blue"">◆ 파티의 특기무기가 「지팡이」인 캐릭터의 수에 따라 성능 UP</span></div>                        <div class=""txt-ability-recast"">사용간격 : **턴</div>"
 魔導の達士,마도의 달인
 アビリティダメージUP/フォーカスのアビリティダメージUP/ターン短縮,어빌리티 데미지 UP / 포커스의 어빌리티 데미지 UP / 턴 단축
 摂理の彼方,섭리의 너머
@@ -832,28 +832,22 @@ orig,kr
 
 ブレイクアサシンIII,브레이크 어새신 III
 自分の攻撃大幅UP(敵ブレイク時のみ/*回)/クリティカル確率UP,자신의 공격 대폭 UP(적이 브레이크 상태일 때/*회) / 크리티컬 확률 UP
+
 トレジャーハントIV,트레저 헌트 IV
 "<div class=""prt-text-small"">敵に自属性ダメージ/敵のアイテムドロップ率UP(*回) <span class=""text-blue"">◆トレハンLvに応じてダメージ性能UP</span></div>","<div class=""prt-text-small"">적에게 자신의 속성 데미지 / 아이템 드롭률 UP(*회) <span class=""text-blue"">◆트레헌 Lv에 따라 데미지 성능 UP</span></div>"
+
 ホワイトスモーク,화이트 스모크
+
 ルピフリップ,루피 플립
 "敵に無属性ダメージ  <span class=""text-blue"">◆ルピを消費</span>","적에게 무속성 데미지  <span class=""text-blue"">◆루피를 소비</span>"
+
 楼門五三桐,누문오삼동
 "<div class=""prt-text-small"">敵全体に強襲効果/トレハンLvに応じて味方全体に自属性追撃効果(最大**%)</div>","<div class=""prt-text-small"">적 전체에게 강습 효과 / 트레헌 Lv에 따라 아군 전체에게 자신의 속성 추격 효과(최대 **%)</div>"
+
 ブレイク状態の敵に対して発動する効果を受ける状態,브레이크 상태의 적에게 발동하는 효과가 발동되는 상태
 トレジャーエイム,트레저 에임
 トレジャーハント成功確率UP/トレハンLvが高いほど攻撃UP/ルピ獲得量UP,트레저 헌트 성공확률 UP / 트레헌 Lv이 높을수록 공격 UP / 루피 획득량 UP
 盗賊の証 ×**,도적의 증표 ×**
-
-
-
-
-
-
-
-
-
-
-
 
 
 !카오스루더 관련
@@ -879,6 +873,17 @@ orig,kr
 弱体成功率UP/弱体耐性UP,약화 성공률 UP / 약화 내성 UP
 
 魔剣士の証 ×**,마검사의 증표 ×**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
