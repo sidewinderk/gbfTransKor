@@ -1,0 +1,500 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",synopsis,,レッドラックはコルルとアーミラに、現状ではマッシュに勝てないと厳しい現実を突きつけつつ、フードファイトにおける技術を学べば勝機はあると説く。自分が勝負の前に野菜を食べていたのも技術の一例だと述べるレッドラック。コルルとアーミラは何も技術を知らないがゆえに伸びしろがあると勇気づけられ、レッドラックについて修行に出かけるのだった。,"레드락은 코루루와 아미라에게 지금은 마슈를 이길 수 없다는 가혹한 현실을 말하며, 푸드 파이터의 기술을 배우면 승기는 있다고 이야기한다. 자신이 승부 전에 야채를 먹고 있었던 것도 기술의 한 예라고 언급하는 레드락. 코루루와 아미라는 아무런 기술도 모르기 때문에 오히려 잠재력이 있다고 격려받고, 레드락과 수행을 나가는 것이었다."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,,<span class='scene-font-katari'>レッドラックからフードファイトの</span><br><span class='scene-font-katari'>指導を受けることになった</span><br><span class='scene-font-katari'>コルルとアーミラ。</span>,<span class='scene-font-katari'>코루루와 아미라는 레드락에게 푸드 파이트 강의를 받게 되었다.</span>
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,,<span class='scene-font-katari'>特訓を開始する前に、</span><br><span class='scene-font-katari'>ふたりはレッドラックから</span><br><span class='scene-font-katari'>厳しい現実を告げられる。</span>,"<span class='scene-font-katari'>특훈을 시작하기 전, 두 사람은 레드락에게서 현실적인 충고를 들었다.</span>"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,希望的観測を持たねぇよう、<br>はっきり言っておく。,희망적인 예상을 하지 않게끔 확실하게 말해 두마.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,今のままじゃ、お前達が<br>マッシュに勝てる可能性は<br>限りなくゼロだ。,지금 이대로라면 너희들이 마슈에게 이길 가능성은 한없이 제로에 가깝다.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,ひとつ聞くが、お前達は今日の本戦で<br>どれだけ力を出し切った？<br>もう食えねぇってくらい満腹だったか？,"하나 물어보지. 너희들, 오늘 본선에서 얼마나 실력을 발휘했냐? 더 이상 먹을 수 없을 정도로 배가 꽉 찼었어?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,もちろんでごんす！<br>全力で戦い申した！,물론이올시다! 전력을 다해 싸웠소이다!
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,아미라,お腹いっぱい、また食べたい！,배불렀어. 또 먹고 싶어!
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,だろうな。<br>だが、それじゃあ駄目だ。,그랬겠지. 하지만 그러면 안 돼.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,え？ なぜでごんす……？,어? 어째서 그렇소이까?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,全力で戦うなってことじゃねぇぞ。<br>俺が言いてぇのは、ゴールまでの<br>配分を間違えるなってことだ。,"전력을 다해 싸우지 말라는 소리가 아냐. 내가 하려는 말은, 골까지의 페이스 분배를 제대로 해야 한다는 거야."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,例えるなら登山と一緒だ。<br>ちなみにお前達、登山の経験は？,"비유하자면 등산과 마찬가지지. 그런데 너희, 등산해 본 적은 있어?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,未経験でごんす。,미경험이올시다.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,아미라,ない。,없어.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,俺は聖地巡礼で何度も<br>経験があるんだが、時々<br>もの凄く高ぇ場所があってな。,나는 성지를 순례하느라 몇 번이나 올라가본 적 있거든. 가끔은 엄청 높은 곳을 올랐지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,頂上まで登るのに何日もかかるんだが、<br>本当に大事なのはそのあと……<br>つまり山を下りる時だ。,"정상에 오르는 데만도 며칠씩 걸리는데, 중요한 건 그 뒤... 즉 산을 내려올 때야."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,中には、登るのに全力を出し切って<br>脚壊して山の頂上でお陀仏、<br>なんて奴もいる。,"개중에는 산을 오르느라 온 힘을 쓰고 다리를 다쳐서, 산 정상에서 저 세상으로 가는 녀석도 있지."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,生きて麓まで帰ってくる。<br>それが真のゴールってわけだ。,살아서 산 아래까지 내려오는 것. 그게 진정한 골이라는 얘기야.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,で、今回の大会のゴールは<br>言うまでもねぇ。優勝だ。,그리고 이번 대회의 골은 말할 것도 없이 우승이지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,今日の本戦で力を出し尽くして<br>明日の決勝で万全に戦えなけりゃ、<br>意味がねぇのさ。,오늘 본선에서 너무 힘을 쓴 나머지 내일 결승에서는 만전으로 임하지 못한다면 의미가 없어.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,しかし決勝に進む前に<br>負けてしまっては、元も子も……,하지만 결승에 오르기 전에 지면 본전도 못 찾지 않소이까.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,その通りだ。だからこそ<br>フードファイトってのは難しい。,그렇지. 그렇기 때문에 푸드 파이트란 건 어려워.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,フードファイターはそれをわかってる。<br>だから俺もあいつも限界を調整しながら<br>本気で戦ったってわけだ。,푸드 파이터는 그 점을 알고 있지. 그렇기 때문에 녀석이나 나나 한계를 조절해가면서 제대로 싸워왔던 거야.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,限界を、調整……？,한계를 조절...?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,だははっ、ちょっと難しいか！,"으하하, 좀 어려웠나?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,簡単に言やぁ、本当の限界よりも前に<br>意識的に限界の線を引くって感じだな。<br>いやこれも難しいか……？,"간단히 말하자면 진짜 한계점 앞에 의식적으로 한계선을 그어놓는다는 뜻이야. 아니, 이것도 어려운가...?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,まぁなんだ、要はあいつの限界は<br>まだ先があるってことだ。,"거 뭐냐, 요컨대 녀석의 한계는 아직 한참 멀었다는 뜻이지."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,今日の結果だけ見ても、<br>あいつはお前達ふたりよりも<br>多い量を食べてやがった。,오늘의 결과만 봐도 녀석은 너희 둘보다 훨씬 많이 먹어치웠어.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,限界まで食べたお前達と、<br>まだ限界が先にあるあいつ……<br>この意味がわかるな？,한계까지 먹었던 너희들과 아직 한계가 남아있는 그 녀석... 무슨 뜻인지 이해하겠지?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루・아미라,…………,…………
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,喧嘩っ早くて<br>ふざけたことぬかしやがる野郎だが、<br>あいつもちゃんと頭を使ってる。,"툭하면 시비걸고 아무 말이나 내뱉는 녀석이지만, 녀석도 착실히 머리를 쓰고 있어."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,フードファイトってのは頭脳戦だ。<br>肉体戦じゃねぇ。,푸드 파이트란 두뇌 싸움이야. 육탄전이 아니고. 
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,それを今回、お前達に教えてやる。,그걸 이번에 너희들에게 알려주도록 하지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,頭脳戦、でごんすか……,두뇌 싸움이란 말이외까...
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,아미라,ずのうせん、でごんすか。,두-뇌-싸움이란 말이외까.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,やっぱりか……<br>お前達、脳ミソこねくり回すの<br>苦手そうに見えっからなぁ。,"역시나... 너희들, 머리 짜내는 일은 못 할 것처럼 생기긴 했어."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,そうだな……<br>特訓に入る前に、ひとつ例を出すか。,그렇지... 특훈에 들어가기 전에 예를 하나 들어 볼까.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,実は今日の本戦前から、<br>俺はもう大食いのコツってのを<br>披露してた。,사실 난 오늘 본선 전부터 많이 먹는 비결을 선보였었지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,しかもお前達ふたりの前で、だ。<br>何かわかるか？,심지어 너희 둘 앞에서 말야. 뭔지 알겠어?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,,<span class='scene-font-katari'>コルルとアーミラは懸命に頭を捻るが、</span><br><span class='scene-font-katari'>やがて諦めて首を横に振る。</span>,"<span class='scene-font-katari'>코루루와 아미라는 신중하게 머리를 굴렸지만, 이윽고 포기했는지 고개를 좌우로 흔들었다.</span>"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,じゃあヒントだ。<br>休憩所で休んでた時、俺は何してた？,"그럼 힌트 줄게. 휴게실에서 쉬고 있을 때, 내가 뭐 했더라?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,……あっ！？,...아!
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,もぐもぐ、んぐ……,우물우물... 음...
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,勝負はすでに始まってんのさ。,승부는 이미 시작됐어.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,野菜を、食べており申した……？,야채를 먹고 있지 않았소이까...?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,正解だ。,정답이야.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,種明かしをするとな、<br>事前に野菜を食べておくことで<br>野菜が胃の中でクッションになんのさ。,"비결을 알려주자면, 미리 야채를 먹어 두면 야채가 위 안에서 쿠션 역할을 하게 되지."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,それで胃にかかる負担を<br>少しでも軽減しようって寸法よ。<br>ま、あくまで一例に過ぎねぇがな。,"그렇게 해서 위에 가해지는 부담을 조금이라도 경감시키는 방법이야. 뭐, 어디까지나 여러 방법 중 하나일 뿐이지만."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,つっても話で聞いてるだけじゃ<br>ピンと来ねぇだろうから、<br>とっておきの事実を教えてやる。,"아무튼 이야기를 듣는 것만으로는 느낌이 확 오지 않을 테니까, 아껴뒀던 사실을 가르쳐 주지."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,,<span class='scene-font-katari'>レッドラックは勿体ぶるように言うと、</span><br><span class='scene-font-katari'>コルルに向かってニカッと笑いかける。</span>,"<span class='scene-font-katari'>레드락은 대단한 이야기라도 하겠다는 듯이 그렇게 말한 후, 코루루를 향해 활짝 웃어보였다.</span>"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,実は嬢ちゃんは、とっくに<br>コツってのを使ってたんだぜ？,사실 아가씨는 이미 요령을 익히고 있었어.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,わたしが……？,내가....?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,本戦で頭がキーンってなった時、<br>痛みに対抗しようとして<br>あることをやっただろ？ 覚えてるか？,"본선에서 머리가 찡~ 하고 울렸을 때, 아픔을 참으려고 뭔가를 했었지? 기억나?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,え～と、こう……<br>息を止めて、グッと力強く<br>頭に力を入れ申して……,"어, 그러니까... 숨을 참고 머리에 힘을 꽉 줘서..."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,それだ。,그거야.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,へ……？,어...?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,嬢ちゃん達が感じた頭痛ってのは、<br>いわゆるアイスクリーム頭痛って奴だ。<br>冷てぇのを一気食いした時の定番でな。,"아가씨들이 느낀 두통은 흔히 아이스크림 두통이라고 불리는 놈인데, 차가운 걸 한꺼번에 많이 먹으면 어김없이 찾아오지."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,その仕組みは置いとくとして、<br>頭痛を緩和させる方法はいくつかある。,"그게 어떻게 된 건지는 차치하고, 두통을 완화시키는 방법이 몇 가지 있어."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,痛いところに冷たいもんを当てたり、<br>口の中の上っ側に舌を当てて<br>神経を温めたりとかな。,"아픈 곳에 차가운 걸 대기도 하고, 입천장에 혀를 대서 신경을 따듯하게 덥히는 방법도 있고."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,嬢ちゃんは偶然にも、<br>気張ったことで口の中が温められて<br>頭痛が引いたんだろ。,아가씨는 우연히도 머리에 힘을 주느라 입 안이 따듯해져서 두통이 가신 거겠지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,あの時は無我夢中で申したが……<br>ふむふむ、人体とは<br>不思議でごんすね……！,그 때는 아무 생각도 없었소이다만... 흐음. 인간의 몸이란 신기하외다...!
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,つっても、普通は頭痛が上回って<br>頭に力を込めるなんて荒業は<br>出来ねぇんだがな。,"그렇다곤 해도, 보통은 두통 때문에 머리에 힘을 주는 고육책은 못 쓰지."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,嬢ちゃんの特殊な体質や<br>生まれつきの我慢強さってのが、<br>運よく作用したってのもあるんだろ。,아가씨의 특수한 체질이랑 태어났을 때부터 지녔던 참을성이 운 좋게 작용한 거라고 할 수 있어.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,全てが偶然の結果だったかもしれねぇ。<br>だがそれもひっくるめて実力だ。,모든 게 우연의 결과였을지도 몰라. 하지만 그것 또한 실력이지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,コツひとつで勝ち負けが<br>ガラッと変わっちまう。<br>どうだ、面白いと思わねぇか？,"요령 하나로 이기고 지는 게 완전히 뒤집히는 거니까. 어때, 재미있지 않아?"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,コツを知れば、<br>わたしにも勝てる望みがある……<br>ということでごんすか？,요령을 알면 내게도 이길 희망이 있다는 뜻이외까?
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,そういうこった。,그런 뜻이야.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,,<span class='scene-font-katari'>コルルは優勝を掴もうとするように</span><br><span class='scene-font-katari'>ぎゅっと力強く手を握り締め、</span><br><span class='scene-font-katari'>レッドラックを見上げる。</span>,<span class='scene-font-katari'>코루루는 우승을 손에 넣겠다는 듯이 주먹에 힘을 주고는 레드락을 올려다보았다.</span>
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루,ぜひ、ご指導をお願い致す！,부디 지도 부탁드리외다!
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,おう！ もちろんだ！,그래! 당연하지!
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,お前達ふたりは<br>大食いのコツをまだなんにも知らない、<br>言わば原石みてぇなもんだ。,너희 둘은 많이 먹기의 요령을 아직 전혀 몰라. 말하자면 원석이라 실력이 늘 여지가 엄청나지.
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,つまり伸びしろが格段にある。<br>決勝まで１日しかねぇが、<br>出来る限りをお前達に叩き込もう。,"결승까지 하루밖에 안 남았지만, 가능한 한은 다 쑤셔박아 줄게."
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,嬢ちゃん達……いや、<br><span class='scene-font-4'>コルル！ アーミラ！</span>,"아가씨들... 아니,<br><span class='scene-font-4'>코루루! 아미라! </span>"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,레드락,<span class='scene-font-4'>修行開始だッ！</span><br><span class='scene-font-4'>俺についてこいッ！！</span>,<span class='scene-font-4'>수행 개시다! 날 따라와라!</span>
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,코루루・아미라,<span class='scene-font-4'>押忍！</span>,"<span class='scene-font-4'>네, 스승님!</span>"
+Japanese,"scene_evt200628_cp5_q1_s10,7556511",detail,,<span class='scene-font-katari'>闘志を滾らせるコルルとアーミラは、</span><br><span class='scene-font-katari'>レッドラックに連れられて</span><br><span class='scene-font-katari'>修行に出かけるのだった。</span>,<span class='scene-font-katari'>코루루와 아미라는 투지를 불태우며 레드락을 따라 수행하러 떠났다.</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",synopsis,,一行が夕飯の準備をしていると、レッドラックとコルルが誇らしげに修行を終えて戻って来る。アーミラについては修行が性格に合わず指導を諦めたという。やがてアーミラが帰ってくるなり眠ってしまい、一行はアーミラを部屋に運んだ後、夕食を済ませる。その後ルシオが合流し、一行は食後のデザートを口にしながら団欒のひと時を過ごすのだった。,"일행이 저녁을 준비하고 있으니, 레드락 및 코루루가 자랑스럽게 수행을 끝내고 돌아온다. 아미라는 수행이 성격에 맞지 않아 지도를 포기했다고 한다. 이윽고 아미라가 돌아오자마자 잠들어버려, 일행응 나미라를 방으로 옮긴 뒤 저녁식사를 마친다. 그 후 루시오가 합류해 일행은 디저트를 먹으며 단란한 시간을 보내는 것이었다."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>コルル達が修行に出かけて数刻、</span><br><span class='scene-font-katari'>陽もすっかり暮れた頃……</span>,"<span class='scene-font-katari'>코루루 일행이 수행에 나선지 몇 시간 후, 이미 해가 저물었을 때였다.</span>"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>一行が夕食の準備をしていると、</span><br><span class='scene-font-katari'>コルル達が修行を終えて帰ってくる。</span>,<span class='scene-font-katari'>다른 이들이 저녁준비를 하고 있자 코루루 일행이 수행을 끝마치고 돌아왔다.</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,코루루,いい匂いでごんす！,좋은 냄새이올시다!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,ちょうどよかったな！<br>修行に集中して腹がペコペコだぜ！,마침 잘 됐군! 수행에 집중하느라 배가 울리던 참이었어!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,세바스찬,もう少々お待ちください。<br>そろそろ仕上げにかかりますので。,잠시만 기다려 주시죠. 거의 다 되어갑니다.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,よぉ！<br>修行はバッチリだったか？,이봐! 수행은 잘 됐어?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,코루루,やれることはやり申した！,할 수 있는 건 했소이다!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,코루루,師匠の教えで、ひと回りもふた回りも<br>強くなれた気がするでごんす！,스승의 가르침 덕에 한껏 성장한 느낌이외다!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,師匠……？,스승...?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,恥ずかしいからやめてくれって<br>言ったんだがな……,부끄러우니까 그렇게 부르지 말라고 했는데...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,코루루,師匠は師匠でごんす！,스승은 스승이올시다!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,ってな具合だ。<br>石頭並みに頑固だぜ、こいつぁ。,"뭐 그렇게 된 거지. 돌머리만큼이나 완고하다니까, 이 녀석."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,ははっ、すっかり仲良しだな！,"헤헤, 완전히 친해졌네!"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,で、どんな修業したんだよ？<br>行き倒れ嬢ちゃんが自信満々なのを<br>見てっと、すげぇコツ教わったのか？,"그래서, 무슨 수행 했는데? 쓰러져 있던 아가씨가 이렇게 자신만만한 걸 보니 엄청난 기술이라도 배운 모양이지?"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,ま、それは明日のお楽しみってな。,뭐 그건 내일을 기대하셔.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,코루루,ふっふ～ん……<br>お楽しみで申す！,흐흐흥~ 기대되는구려!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,そう言われると<br>余計に気になっちまうけど……<br>じゃ、期待してるぜ！,그렇게 말하니까 괜히 더 신경쓰이는걸. 아무튼 기대하고 있을게!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,ああ、もちろん<br>行き倒れ嬢ちゃんだけじゃなくて<br>アーミラも期待して……,"아, 물론 쓰러져 있던 아가씨 말고 아미라도... "
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,ありゃ？<br>そういやアーミラのやつ<br>見当たらねぇな？,어라? 그러고 보니 아미라가 안 보이네?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,あー……<br>あいつはな……,아... 그 녀석은 말이지...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>顎髭をさすりながら</span><br><span class='scene-font-katari'>悩ましそうに言い淀むレッドラックに、</span><br><span class='scene-font-katari'>一行は不安を覚える。</span>,"<span class='scene-font-katari'>레드락이 턱수염을 문지르며 좀처럼 입을 열지 못하자, 일행은 불안해졌다.</span>"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",sel1_txt,,<span class='scene-font-katari'>アーミラの身に何か……？</span>,<span class='scene-font-katari'>아미라한테 무슨 일 있었어?</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",sel2_txt,,<span class='scene-font-katari'>まさか事故に……</span>,<span class='scene-font-katari'>설마 무슨 사고라도...</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,おいおい、まさか修行中に<br>ヤベェ怪我でもしちまったってのか？,"어이, 설마 수행하다가 어디 크게 다치기라도 한 거야?"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루리아,事故って……<br>溺れたとか、そういうことですか！？,사고라니……<br>너무 열심히했다...던가 뭐 그런건가요!?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,待て待て、お前達。<br>何か勘違いしてねぇか？,잠깐 잠깐. 너희들 뭔가 착각하고 있는 거 아냐?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,修業つっても、基本的な知識叩き込んで<br>あとは軽く実践をやってみた程度だ。<br>危険なことは何ひとつさせてねぇぞ。,수행이라곤 해도 기본적인 지식을 불어넣은 후에 가볍게 실전에 나섰을 뿐이야. 위험한 짓 시킨 거 없어.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,あいつの修行は、諦めたんだよ。,그 녀석 수행시키는 건 포기했지.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,諦めた？<br>アーミラのやつ、もしかして<br>ワガママでも言ったのか？,포기했다고? 아미라 녀석이 무슨 고집이라도 부렸어?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,いや、単純に向いてねぇって判断した。,"아니, 그냥 배우는 건 맞지 않겠다고 판단했어."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,最初はコルルと同じように<br>教えてたんだが、頭を使うのは<br>どうにも苦手らしくてな。,"처음엔 코루루랑 똑같이 가르쳐 줬는데, 머리를 쓰는 게 보통 힘든 게 아니어 보이더라고."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,本能で生きてるタイプっつうか、<br>余計なことを教えて混乱するほうが<br>効率下がっちまうって思ったのよ。,본능으로 살아가는 타입이라고 할까? 쓸데없는 걸 가르쳐서 혼란에 빠지면 효율만 떨어질 것 같았어.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,だからあいつには<br>自由気ままにやらせることに決めて、<br>途中で別れたんだよ。,그래서 녀석은 자기 마음대로 하라고 하고 도중에 헤어졌지. 
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,諦めちまったのは俺のほうだから、<br>それが悔しくってな。,내가 포기한다고 한 거니까 그게 좀 분하더라고.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,もっと上手い教え方がありゃ<br>よかったんだが……<br>そこんとこは俺の力不足だ。,더 잘 가르쳐주는 방법이 있었으면 좋았을 텐데... 그 부분은 내 능력 부족이야.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,だから暗そうな顔してたのかよ。<br>責任感じちまって。,그래서 어두운 얼굴을 하고 있었구나? 책임감 들어서.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루리아,でも理由がわかって安心しました！<br>何事もなかったならよかったです！,그치만 이유를 알았더니 안심되네요! 아무 일도 없어서 다행이에요!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,だな。<br>それにおっさんでも無理なら、<br>誰にも教えられねぇと思うぜ？,그러게. 그리고 아저씨한테도 무리라면 아무도 못 가르칠걸?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,だははっ、そうかい。<br>そう言われっと<br>少しは肩の荷が下りるよ。,"으하하, 그러냐. 그렇게 말해주니 어깨의 짐이 좀 덜어지는 기분이야."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,にしてもアーミラのやつ、<br>どこほっつき歩いてんだろうな？<br>もうすぐ夕飯だってのに。,"그나저나 아미라 녀석, 어딜 정처없이 쏘다니는 거야? 곧 저녁 먹을 시간인데."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,ああ、ちょいと気になるな。<br>暗くなる前に帰ってこいとは<br>言っておいたんだが……,"그래, 좀 신경쓰이는군. 어두워지기 전에 돌아오라고 말해두긴 했다만..."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,아미라,ふぁ～……ただいま……,하암... 나 왔어...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,おっ、噂をすれば。,"오, 호랑이도 제말하면 온다더니."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,遅かったじゃねぇか。<br>何やってたんだよ？,늦었네. 뭐 하다 왔어?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,아미라,うん……<br>くふぁ……,음... 흐암...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,お前、ずいぶん眠たそうだな……,너 엄청 졸려보이네...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,まぁ、ちゃんと帰ってきたんだから<br>理由はいいか。<br>もう夕飯だから、手洗ってこいよ。,아무튼 제때 돌아왔으니 뭘 했는지는 상관없겠지. 곧 저녁먹을 시간이니까 손 씻고 와.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,아미라,ご飯、いい……,밥... 안 먹어...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루리아,えっ！？<br>アーミラさんが！？,네? 아미라 씨가요?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,お前、大丈夫かよ！？<br>どっか頭でも打ったんじゃねぇか！？,너 괜찮아? 어디서 머리라도 부딪친 거 아냐?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,세바스찬,おや、この匂いと<br>その口元に付着した殻の破片……<br>カキですな。,"어라, 이 냄새랑 입가에 묻은 껍질 조각은... 굴이군요."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,세바스찬,おそらく大量に生息する岩礁を見つけ、<br>夢中で食べてしまったのでしょう。,아마 굴이 잔뜩 붙어있는 암초를 발견해서 정신없이 드신 거겠죠.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,아미라,お腹いっぱい……<br>楽しかった……,배불러... 즐거웠어...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루리아,ふふっ、アーミラさん<br>なんだか幸せそうですね。,후후. 아미라 씨 되게 행복해 보이세요.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,ん？<br>楽しかった……？,응? 즐거웠다고...?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,아미라,ぐぅ～……<br>むにゃむにゃ美味しかった……,후우.... 음냐음냐... 맛있었어...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,寝ちまいやがった。<br>……まぁいっか。,잠들어 버렸네. ...뭐 아무렴 어때.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>[플레이어]はビィやルリアとともに、</span><br><span class='scene-font-katari'>眠ってしまったアーミラを</span><br><span class='scene-font-katari'>彼女の部屋のベッドまで運ぶ。</span>,"<span class='scene-font-katari'>[플레이어]는 비, 루리아와 함께 잠든 아미라를 방에 데려가 침대에 눕혔다.</span>"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>その後、一行は夕食を済ませ……</span>,"<span class='scene-font-katari'>이후, 일행은 저녁식사를 끝마치고……</span>"
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>食後のデザートとして用意された</span><br><span class='scene-font-katari'>樹クラゲのゼリーアイスに</span><br><span class='scene-font-katari'>舌鼓を打っていた。</span>,<span class='scene-font-katari'>디저트로 나온 나무 해파리 젤리 아이스를 맛봤다.</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루리아,はわぁ～！<br>ひんやり食感とコリコリ食感が<br>すごく合いますね～！,하와~ 차가운 감촉이랑 오득거리는 식감이 엄청 잘 어울려요~
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,暑い夏には<br>持ってこいのデザートだな！,뜨거운 여름에 딱 맞는 디저트네!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,샤를로테,さすがはじいや。<br>どんな料理も絶品であります！,역시 할아범이군요. 어떤 요리든 최고입니다!
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,세바스찬,それはそれは。<br>ありがたいお言葉ですな。,이런. 칭찬의 말씀 감사합니다. 
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,세바스찬,他の皆さんの分も<br>すぐに用意いたしますので。,다른 분들 것도 곧 준비하도록 하죠.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,레드락,いや、俺はちょっくら<br>ひとりで晩酌してくるぜ。,"아니, 난 혼자 한 잔 하려고."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,코루루,わたしも……<br>ふわぁ～……お眠の時間でごんす……,저도... 후아암... 잘 시간이외다...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,세바스찬,おや、そうですか。<br>ではおかわりされる方は……,"이런, 그러신가요. 그럼 좀 더 드실 분은..."
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루시오,すみません、私にもひとつ<br>頂けますか？,실례합니다. 저도 한 그릇 받을 수 있을까요?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>外出から戻ってきたルシオが、</span><br><span class='scene-font-katari'>扉を閉めながら</span><br><span class='scene-font-katari'>セワスチアンに微笑みかける。</span>,<span class='scene-font-katari'>밖에 나갔다 온 루시오가 문을 닫으며 세바스찬을 향해 미소를 지어 보였다.</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,やっと帰ってきたか、ルシオ。<br>もうほとんど皆<br>食べ終わっちまったぜ？,이제야 왔어? 루시오. 다른 사람들은 벌써 거의 다 먹었는데.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루시오,お気遣いなく。<br>食事は済ませてきましたので。,저는 신경써주시지 않아도 됩니다. 식사는 이미 마쳤거든요.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,ならいいけどよ。<br>こんな時間まで何やってたんだ？,그럼 뭐 됐고. 이런 시간까지 뭐 하다 왔어?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루시오,あまり動いていませんでしたからね。<br>少々ハードな“運動”を。,요즘 별로 움직이질 않았거든요.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루시오,体型が崩れてしまうと、不敬だと<br>サンちゃんに叱られかねません。,체형이 무너지면 불경하다고 산쨩한테 혼나니까요.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,あー、確かに……<br>あいつなら言いそうだな。,아... 그러게. 그 녀석이라면 그런 소리 할만도 하지.
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,ならデザートも<br>食べないほうがいいんじゃねぇか？,그럼 디저트도 안 먹는 게 낫지 않아?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,루시오,デザートは別腹と言うでしょう？,디저트 들어갈 자리는 항상 있다고 하잖아요?
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,비,意味違ぇと思うんだけど……,그런 뜻으로 쓰는 말이 아닐텐데...
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>ルシオは口元に人差し指を当て、</span><br><span class='scene-font-katari'>にこりと微笑む。</span>,<span class='scene-font-katari'>루시오는 입가에 검지손가락을 갖다대며 싱긋 웃었다.</span>
+Japanese,"scene_evt200628_cp5_q2_s10,7556521",detail,,<span class='scene-font-katari'>ルシオも加わり、一行は</span><br><span class='scene-font-katari'>賑やかな夕食後のひと時を</span><br><span class='scene-font-katari'>過ごすのだった。</span>,<span class='scene-font-katari'>일행은 그의 합류로 떠들썩한 식후의 휴식시간을 보냈다.</span>
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",synopsis,,レッドラックは夕食後、甲板にてひとりで酒を飲んでいた。[플레이어]達はレッドラックのいつになく寂しげな姿に声をかけるのを躊躇うが、気配に気付かれてやむなく姿を見せる。気遣う一行にレッドラックはふと自分の夢を語り、今回の大会に懸けていた想いの強さを打ち明ける。レッドラックの本音を知った一行はコルルの優勝を願いつつ、贔屓せず応援しようと談笑するのだった。,"레드락은 저녁식사를 마치고 갑판에서 혼자 술을 마시고 있었다. [플레이어] 일행은 평소와 다른 레드락의 쓸쓸해 보이는 모습에 말을 걸기를 주저하지만, 기색을 눈치채여 모습을 보인다. 걱정하는 일행에게 레드락은 문득 자신의 꿈을 이야기하고, 이번 대회에 걸고 있던 각오를 털어놓는다. 레드락의 본심을 알게된 일행은 코루루의 우승을 기원하면서, 편애하지않고 응원하자고 담소하는 것이었다."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,ふぅ……風が気持ちいいねぇ。,후우... 바람이 기분좋구만.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>甲板の手すりに寄りかかり、</span><br><span class='scene-font-katari'>遠くを見つめながら酒を飲む</span><br><span class='scene-font-katari'>レッドラック。</span>,<span class='scene-font-katari'>갑판 난간에 기대선 레드락은 먼 곳을 바라보며 술을 홀짝였다.</span>
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>しかしその表情は愁いを帯びており、</span><br><span class='scene-font-katari'>いつも見慣れた活気や明るさは</span><br><span class='scene-font-katari'>影を潜めている。</span>,"<span class='scene-font-katari'>그러나 그 표정은 근심에 가득했고, 평소와 같은 쾌활함은 모습을 감춘 채였다.</span>"
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>そんなレッドラックの様子を、</span><br><span class='scene-font-katari'>[플레이어]達は物陰から</span><br><span class='scene-font-katari'>心配そうに窺っていた。</span>,<span class='scene-font-katari'>단장 일행은 그늘에 숨어 그런 레드락의 모습을 걱정스럽게 엿보고 있었다.</span>
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,ひとりで、って言うから<br>やっぱ気になって見に来たけどよ……,혼자 마신다고 하길래 신경쓰여서 와 봤더니만...
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,話しかけにくいですね……<br>なんだか別人みたいです……,말 걸기도 뭐하네요... 뭔가 다른 사람처럼 느껴져요...
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,やっぱ大会で負けちまったこと、<br>相当ショックだったんだな……,역시 대회에서 진 게 꽤나 쇼크였던 모양이야...
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,うん……？<br>誰かそこにいるのか？,응? 거기 누구 있어?
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>レッドラックが気配に</span><br><span class='scene-font-katari'>気付いて振り返り、一行は</span><br><span class='scene-font-katari'>気まずそうに物陰から姿を現す。</span>,"<span class='scene-font-katari'>레드락이 기척을 느끼고 돌아보자, 일행은 멋쩍은 듯이 그늘에서 모습을 드러냈다.</span>"
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,あはは……<br>こ、こんばんは……,"아하하... 아, 안녕하세요."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,なんだ、[플레이어]達か。<br>何か用か？,"뭐야, 너희들 아냐. 무슨 일 있어?"
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,いやぁ……<br>用っつーか、なんつーか……,"아니, 일이라고 할까... 그게..."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,ああ……なるほどな。<br>俺の様子が気がかりで<br>見に来たっつうことか。,아하... 알겠다. 내가 어쩌고 있나 신경쓰여서 보러 온 게구만.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,だってよぉ、気になるじゃねぇか。<br>おっさん、あんなに優勝したいって<br>気合い入ってたってのに……,"그치만 신경쓰였는걸. 아저씨, 우승하겠다고 단단히 마음먹었었는데..."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,おいおい、なぁに暗い顔してやがんだ？<br>お前達が気に病むことじゃねぇだろ？,"에이, 뭐 그렇게 어두운 얼굴을 하고 있어? 너희들이 걱정할 일도 아니잖아."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,そんなことありません！<br>レッドラックさんが悲しそうだと、<br>私も悲しいです……,그렇지 않아요! 레드락 씨가 슬퍼 보이시면 저도 슬픈걸요...
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,そうかい……<br>お前達らしいな。,그러냐. 너희들답구나.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>レッドラックは僅かに笑みを漏らすと、</span><br><span class='scene-font-katari'>ふと遠くを眺めてぽつりと呟く。</span>,<span class='scene-font-katari'>레드락은 희미하게 웃음짓더니 문득 먼 곳을 바라보며 불쑥 내뱉었다.</span>
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,……俺の、夢だったんだ。,...내 꿈이었어.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,先に言っとくが、この話は<br>嬢ちゃん達には黙っててくれよ？<br>頼むぜ？,미리 말해두지만 이 이야기는 아가씨들한테는 비밀로 해 주라. 알았지?
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,俺ぁ今回の大会に命懸けてた。<br>お前達の言う通り、負けた時は<br>正直言ってかなりショックだった。,"나는 이번 대회에 목숨을 걸었었어. 너희 말따마나, 졌을 때는 솔직히 엄청 충격이었지."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,今回の大会は、<br>樹クラゲ退治っつう名目で<br>突発的に開かれたもんだ。,이번 대회는 나무 해파리 퇴치라는 명목하에 일시적으로 열린 거였으니까.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,商業的に成功すりゃあ<br>来年も継続って話もあるだろうが、<br>ハナから期待はしちゃいねぇ。,"상업적으로 흥행하면 내년에도 열릴지 모른다는 이야기도 있지만, 그건 기대도 안 해."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,俺の人生、最初で最後……<br>そう覚悟して臨んだつもりだ。,내 인생 처음이자 마지막이라고... 그렇게 각오하고 덤볐던 거였거든.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,『おなかを空かせて泣いてるやつが<br>一人もいない世界』を目指すってのも、<br>もちろん理由のひとつだが……,"""배고파서 우는 녀석이 아무도 없는 세상""을 바라는 것도 물론 이유 중 하나다만..."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,俺ぁもっとシンプルに、<br>いちフードファイターとして<br>優勝を手にしたかった。,"더 단순하게, 그저 하나의 푸드파이터로서 우승하고 싶었다."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,夢ってのは格別にでけぇよな。<br>こんだけ図体がでっかくなっても、<br>夢はちっともちっちゃく見えねぇ。,꿈이라는건 참 큰 거라니까. 이만큼이나 덩치가 커졌는데도 꿈은 여전히 작아보이질 않으니.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,ガキの頃のまんまだ。<br>ずっと、ずっと輝いてやがる。,"어렸을 때의 크기 그대로야. 항상, 계속 반짝이고 있지."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,そのでっけぇもんに、あと少しで<br>手が届きそうだったんだ。<br>だからこそ、余計に悔しくてな。,조금만 더 하면 그렇게나 큰 꿈에 닿을 수 있었을 텐데. 그래서 괜히 더 분하더라고.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,おっさん……,아저씨...
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,<span class='scene-font-4'>だははっ！</span><br>つまらねぇことしゃべっちまったな！,<span class='scene-font-4'>으하하하!</span><br>재미없는 얘길 해버렸구만!
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,お前達の前だから、ついな！<br>あー恥ずかしいぜ！,너희 앞에선 무심코 말이 흘러나오네! 아~ 부끄러워!
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>照れ臭そうに笑うレッドラックを、</span><br><span class='scene-font-katari'>一行は微笑ましそうに眺める。</span>,<span class='scene-font-katari'>일행은 쑥스럽다는 듯이 웃어제끼는 레드락을 미소 띤 얼굴로 바라보았다.</span>
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,夢は、まだ終わりじゃありませんよ。,꿈은 아직 끝나지 않았어요.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,うん？,응?
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,だってコルルちゃんが、<br>レッドラックさんの意志を<br>受け継いだんですから。,왜냐면 코루루쨩이 레드락 씨의 의지를 이어받았으니까요.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,レッドラックさんが伸ばした手を<br>コルルちゃんが掴んで、コルルちゃんが<br>代わりに夢に向かって手を伸ばす……,"레드락 씨가 내민 손을 코루루쨩이 잡고, 코루루쨩이 꿈을 향해 손을 내밀고..."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,そうやって夢に届かなかった分を、<br>コルルちゃんが<br>きっと繋いでくれますよ。,그렇게 해서 닿지 못했던 거리를 코루루쨩이 대신 메워줄 거예요. 분명.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,だから、終わりじゃありません。,그러니까 끝난 게 아니에요.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,…………,…………
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,ははっ……そうだな。<br>全くもってルリアの言う通りだ。,하하... 그러게. 완전히 루리아 말대로야.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,俺にはまだ、嬢ちゃんを<br>見届ける義務があるんだったな！,내겐 아직 아가씨를 지켜볼 의무가 남아있었지!
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,アーミラも忘れんなよ。<br>あいつだって強敵だぜ。,아미라도 잊지 마. 그 녀석도 강적일 거야.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,ああ、もちろんだ。<br>あいつは俺でさえ計り知れねぇもんを<br>秘めてやがる。,"그래, 물론이지. 녀석은 나도 가늠할 수 없을 정도의 뭔가를 품고 있어."
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,레드락,場合によりゃあ俺でも……<br>マッシュと同等に、嬢ちゃんには<br>高い壁になるだろうな。,상황에 따라선 나조차도... 마슈가 그랬던 것처럼 아가씨 앞에 하나의 벽이 될지도 모르지.
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,비,まぁ、どっちが優勝しても<br>仲間だからオイラ達は嬉しいけどな。<br>皆で仲良く応援しようぜ！,"뭐, 누가 우승하든 우리 동료니까 행복하겠지만 말야. 다같이 사이좋게 응원하자!"
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,루리아,ふふっ、明日が楽しみですね！,"헤헤, 내일이 기대되네요!"
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>レッドラックの本音を聞き、</span><br><span class='scene-font-katari'>レッドラックと新たに絆を深める一行。</span>,<span class='scene-font-katari'>일행은 레드락의 본심을 들으며 그와 한층 더 깊은 교감을 쌓았다.</span>
+Japanese,"scene_evt200628_cp5_q3_s10,7556531",detail,,<span class='scene-font-katari'>再び晴れやかな笑顔が戻る</span><br><span class='scene-font-katari'>レッドラックと一行の談笑が</span><br><span class='scene-font-katari'>夜の静寂に響くのだった。</span>,<span class='scene-font-katari'>다시금 밝은 미소를 짓는 레드락과 일행의 말소리가 조용한 밤하늘 사이에 울려퍼졌다.</span>
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",synopsis,,コルルは甲板に向かう途中、図らずもレッドラックの本音を聞いてしまう。そこで突然アーミラに声をかけられ甲板に飛び出たコルルは、レッドラックに本音を聞いてしまったことを正直に打ち明け、改めて優勝への想いを強くする。コルルの熱意に感化されたか、アーミラも優勝への意気込みを見せ、ふたりは譲れない覚悟を胸に秘めて翌日の決勝戦に臨むのだった。,"코루루는 갑판으로 향하던 도중 우연히 레드락의 본심을 들어버린다. 거기서 아미라가 갑자기 말을 걸어 갑판으로 튀어나온 코루루는 레드락의 본심을 들었다는 것을 정직하게 고백하고, 다시한번 우승에 대한 각오를 강하게 다진다. 코루루의 열정에 감화되었는지, 아미라도 우승에 대한 의지를 보여, 둘은 양보할 수 없는 각오를 가슴에 품고 내일 있을 결승전에 임하는 것이었다."
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,…………,…………
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,,<span class='scene-font-katari'>甲板に続く扉の陰から、</span><br><span class='scene-font-katari'>コルルは図らずも</span><br><span class='scene-font-katari'>レッドラックの本音を聞いていた。</span>,"<span class='scene-font-katari'>갑판으로 이어지는 문틈에서, 코루루는 의도치 않게 레드락의 속마음을 듣고 있었다.</span>"
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,師匠……<br>それほど優勝を夢見て……,스승님... 그렇게 우승을 꿈꾸고 있었다니...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,やはりわたしは……<br>取り返しのつかないことを……,역시 난 돌이킬 수 없는 짓을 저질렀소이다...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,どうした？,왜 그래?
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,<span class='scene-font-4'>ほえっ！？</span>,<span class='scene-font-4'>으아!</span>
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,,<span class='scene-font-katari'>突然背後から声をかけられ、</span><br><span class='scene-font-katari'>コルルは驚きの余り</span><br><span class='scene-font-katari'>飛び跳ねるように甲板に転び出る。</span>,"<span class='scene-font-katari'>갑자기 등 뒤에서 들린 목소리에 깜짝 놀란 나머지, 코루루는 튀어나가듯 갑판에 굴러떨어졌다.</span>"
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,いたたた……,아야야야...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,大丈夫？,괜찮아?
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,し、心配には及び申さん……,"거, 걱정할 거 없소이다..."
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,,<span class='scene-font-katari'>コルルはアーミラの手を取って</span><br><span class='scene-font-katari'>立ち上がると、月の光を遮りながら</span><br><span class='scene-font-katari'>巨体が近付いてくる。</span>,"<span class='scene-font-katari'>코루루가 아미라의 손을 잡고 일어서자, 달빛을 가리며 거대한 그림자가 다가왔다.</span>"
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,嬢ちゃん達……聞いてたのか。,아가씨들... 듣고 있었어?
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,あ、いんやぁ……<br>そのぉ……,"아, 아니... 그게..."
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,緊張で寝付けずにいたら、皆さんの<br>賑やかな声が聞こえ申して……,"긴장 때문에 잠들지 못하던 참에, 여러분이 신나게 이야기하는 목소리가 들렸소이다..."
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,なんの話？,무슨 이야기?
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,비,おっさんの気持ちのあれこれだよ。<br>聞いてたんだろ？,아저씨의 이런저런 마음에 대한 이야기. 듣고 있지 않았어?
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,ううん。<br>私はおやつを探していた。,아니. 난 간식 찾고 있었어.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,…………,…………
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,嬢ちゃんに余計なもんを<br>背負わせちまうと思ったから、<br>聞かせたくなかったんだがな……,...... 아가씨한테 괜한 짐을 씌우는 것 같아서 들려주고 싶지 않았다만...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,…………,…………
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,もう隠す意味もねぇから、<br>正面切って言っちまうか。,이제 숨겨봤자 의미도 없으니 대놓고 말해버려야겠군.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,俺がショックだったのは確かだ。<br>あん時ぁさすがに俺も心が挫けかけた。,내가 쇼크를 받은 건 사실이야. 그때는 아무리 나라도 마음이 꺾일 뻔했지. 
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,俺の中の炎みてぇな熱い何かが<br>一気に萎んじまって、<br>目の前が真っ暗になりかけた。,내 마음 속의 불꽃같이 뜨거운 뭔가가 순식간에 시들어서 눈 앞이 시커매지더라고.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,だが、嬢ちゃんの熱意が、<br>俺の心に再び火を灯してくれたのさ。<br>まだ夢を諦めるには早ぇぞ、ってな。,하지만 아가씨의 열의가 내 마음에 다시 불꽃을 피워줬어. 아직 꿈을 포기하기엔 이르다고 말야.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,だからよ……<br>俺にもう一度、夢を見させてくれ。,그러니까... 다시 한 번 내게 꿈을 보게 해 줘.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,優勝した姿を俺に見せてくれ。<br>頼むぜ、コルル。,"우승한 모습을 내게 보여달라고. 부탁한다, 코루루."
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,師匠……,스승님...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,……わかり申した！<br>もう迷いは致さん！,알겠소이다. 더 이상 망설이지 않겠소이다!
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,全身全霊を懸け、<br>優勝を目指すでごんす！,온 힘을 다 바쳐서 우승을 노리리다!
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,레드락,おう！ その意気だ！,그래! 그 마음가짐이야!
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,優勝……,우승...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,もちろんでごんす！<br>アーミラが相手でも、<br>優勝だけは譲れないで申す！,물론이외다! 아미라 씨가 상대라도 우승만은 양보할 수 없소이다!
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,……私は負けない。,...나는 안 져.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,아미라,お母さんに……私の評判を届ける。,엄마한테 내 소문을 들려줄 거야.
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,アーミラ……,아미라...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,,<span class='scene-font-katari'>アーミラは静かにそう言い残し、</span><br><span class='scene-font-katari'>踵を返して艇の中に戻っていく。</span>,<span class='scene-font-katari'>아미라는 조용히 그 말만을 남긴 후 발길을 돌려 배 안으로 돌아갔다.</span>
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,譲れない気持ちは同じ……,양보할 수 없는 마음은 마찬가지...
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,코루루,それでも……<br><span class='scene-font-4'>わたしが必ず勝つでごんす！</span>,그렇다고 해도 <br><span class='scene-font-4'>내가 반드시 이길 것이외다!</span>
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,,<span class='scene-font-katari'>相対し、互いに負けられない理由を</span><br><span class='scene-font-katari'>ぶつけ合ったコルルとアーミラ。</span>,<span class='scene-font-katari'>코루루와 아미라의 질 수 없는 이유가 서로 맞붙었다.</span>
+Japanese,"scene_evt200628_cp5_q4_s10,7556541",detail,,<span class='scene-font-katari'>それぞれの覚悟を胸に秘め、</span><br><span class='scene-font-katari'>ふたりは翌日の決勝に臨むのだった。</span>,"<span class='scene-font-katari'>각자의 각오를 가슴 속에 품은 채, 두 사람은 다음 날의 결승에 임했다.</span>"
+
+English,"scene_evt200628_cp5_q1_s10,7556511",synopsis,,"Redluck warns Kolulu and Amira that they currently stand no chance against Mash. However, he says he can teach them eating techniques to give them a fighting chance. He gives them an example of a technique he did for a round: eating vegetables to provide a cushion for more food in his stomach. With a bit of enthusiastic encouragement, Redluck takes them away for training."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,,Redluck decides to train Kolulu and Amira to be better competitive eaters.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,,"But before training can start, he gives them a stern warning."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Don't think this is going to magically give you the win.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Especially considering that neither of you stands a chance against Mash as you both are.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"By the way, how much effort did you put into today's elimination round? Ate so much you feel like bursting?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"Yes, I gave it my all!"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Amira,"I'm full, but I want to eat again!"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Figured as much. That's no good.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,It isn't? Why?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Not saying that you shouldn't give it your all when you compete. But you gotta pace yourself before reaching the end goal.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Like climbing a mountain. Have either of you hiked up one before?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"I've never done it, no."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Amira,Nope.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,I've had my fair share of experience from pilgrimages. Had to go up huge slopes sometimes.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Took me days to get to the top of those, but the most important part wasn't getting up. It was coming down."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Saw too many people who spent all their energy going up, hurt themselves on the way, and died at the top."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,They forgot the end goal wasn't making it up. It was getting back to the foot of the mountain and making it out alive.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"The end goal for this competition is victory, obviously."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Giving everything you've got for the elimination round means you can't go all out for the final round.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"But if I lost before making it to the finals, what would be the point of conserving my energy?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Good question. That's what makes competitive eating hard, you see."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,But us pros know how to go hard without pushing past our limits.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,Without... pushing past our limits?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Gahaha! It's a hard concept to really grasp.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"To put it simply, you have to know where your limit is, keep that in mind, and watch that you don't cross that line. I guess that didn't clear it up either, huh?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,The point I'm trying to make is that Mash hasn't come close to his limit yet.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"You saw how much he ate today, yeah? He can eat ten times more than the both of you combined."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"The fact that he can still eat even more, but you two already hit your limits... Do you get what I'm hinting at?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu & Amira,...
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"He's hotheaded and never knows when to shut his mouth, but he still competes with the knowledge and skill of a pro."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Competitive eating comes down to that: using your head, not your stomach."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,That's my first lesson for you.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,Using my head...
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Amira,Using... my head?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Probably not your strong suits, judging by your reactions."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Let me give you an example then.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,I used a technique right before my turn in the afternoon bracket today.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Did it right in front of you two. Remember?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,,"Kolulu and Amira think for a moment, then shake their heads."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Okay, here's a hint. What was I doing in the break area?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,Oh!
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Munch, munch, chew..."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Part of the competition, of course."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,You were eating vegetables.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Bingo.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,The vegetables act as a cushion in your stomach if you eat them beforehand.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Helps relieve the feeling of the food weighing you down. That's just one technique though.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,I can tell talking about it isn't really giving you a concrete idea though. How about a more familiar example?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,,Redluck gives Kolulu a pointed look.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,You used a technique earlier.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,I did?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"When that jellato gave you a headache, you did something to combat the pain, yeah?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"Oh, um... I held my breath and focused really hard..."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,That's what I'm talking about.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,Huh?
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,That pain you felt is what we call a brain freeze. Always happens when you eat a ton of cold food at once.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Leaving aside the specifics of why it happens, there are other ways to deal with brain freezes."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"One way is to put something cold against where it hurts, then press your tongue to the roof of your mouth. It'll warm up your nerves."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"The idea is to warm your mouth back up, which is what you did by accident."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"I was so focused on trying to keep going that I didn't even notice... Hmmm, mortal bodies are strange indeed!"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Still, being able to focus through the pain at all is an impressive feat."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,That hardy physique of yours and the resilience from your upbringing combined with a little luck saved you there.
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"And while it was luck that got you through it, I can see the potential you have as well."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Do you see my point though? One technique can make or break your chances. Pretty crazy, huh?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"With the right technique, victory is possible. Am I correct to assume that?"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Yeah, that's right."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,,"Clenching her fists determinedly, Kolulu holds Redluck's gaze."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu,"Then please, teach me everything you know!"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,You got it!
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"You two are unpolished as they come, being complete beginners and whatnot."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"But that just means you have that much room to improve. We've only got a day to get you both ready, but we're going to make every second count."
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,"Kids... No, Kolulu, Amira!"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Redluck,Training starts now! Follow me!
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,Kolulu & Amira,"Sir, yes, sir!"
+English,"scene_evt200628_cp5_q1_s10,7556511",detail,,"With a fire lit beneath them, Kolulu and Amira trail after Redluck."
+English,"scene_evt200628_cp5_q2_s10,7556521",synopsis,,"As the crew works on the finishing touches for dinner, Redluck and Kolulu return from training. Amira arrives a little later, having been released from training earlier when Redluck realized that he couldn't help her. She is exhausted for unexplained reasons, and the crew has to carry her to bed. After the main course for dinner is eaten, Lucio joins the crew in time for dessert."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,The sun sets some hours after Redluck's coaching begins.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,The rest of the crew is preparing dinner when the trainee and trainer return.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Kolulu,Something smells great!
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Great timing, eh? I'm starving after all that work."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Sevastien,"If you could please wait a little longer, the final touches on dinner will be complete."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Heya, guys! How'd the crash course go?"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Kolulu,I accomplished as much as I could!
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Kolulu,"Thanks to Master's help, I'm leaps and bounds more prepared than before!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Master?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Embarrassing, I know. I told her to quit it, but she just wouldn't listen."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Kolulu,"Master is Master, and that's that!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,Head's harder than a rock in both senses.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Haha, you two are getting along like a house on fire!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,So what kinda training did you get up to? Musta taught her some crazy stuff if she's looking this confident.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,You'll just have to wait and see tomorrow.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Kolulu,Hehe... That's right!
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Now I'm really dying to know, but I guess I'll see. Can't wait!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Same goes for Amira...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Hold up, where is she?"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Ah, she's..."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,"Redluck hesitates to finish his sentence, stroking his beard awkwardly."
+English,"scene_evt200628_cp5_q2_s10,7556521",sel1_txt,,Did something happen to her?
+English,"scene_evt200628_cp5_q2_s10,7556521",sel2_txt,,Was there an accident?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"She didn't get seriously hurt while learning, right?"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lyria,An accident? Like... drowning or something?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Whoa, whoa, there's been a misunderstanding here."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,We didn't do anything dangerous. Just covered some knowledge and a bit of practical implementation.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Anyway, I took Amira out of the training."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Say what? Did she throw a fit or something?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Nah, nothing like that. Realized training wasn't for her, simple as that."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"She tried to follow along with Kolulu at the start, but she was having a hard time using her noggin."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Figured she's more the type to live by her instincts, and trying to mess with that was only going to confuse her and make things worse."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,So we let her leave to do her own thing after a bit.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"I was the one who gave up on her, as much as it pains me to admit."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,I don't know enough to be able to teach her.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"That explains the glum, guilty face."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lyria,But thank you for explaining to us. I'm just glad nothing serious happened.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Same here. And big guy? You don't give yourself enough credit. If you can't teach her, I don't think anybody can, so chin up!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Hahaha, you think so? Have to admit, takes a weight off my shoulders to hear it."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Would be nice to know where Amira wandered off to though. It's almost time to eat.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,I did tell her to come home before it got dark.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Amira,Yawn... I'm back...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Well, that's some timing."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,You're pretty late. What were you up to out there?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Amira,Mmm... Yawn...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Sheesh, you look ready to drop dead on your feet."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Guess as long as you're back safe and sound, that's what matters most. C'mon, go wash your hands. Dinner's almost ready."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Amira,Dinner... Yay...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lyria,"Oh my gosh, Amira!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Are you okay? Did you hit your head or something?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Sevastien,The peculiar smell and shell fragments around her lips appear to be the remnants of oysters.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Sevastien,Which means she most likely discovered a reef rich with them and gorged herself.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Amira,I'm so full... It was so fun...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lyria,"Haha, she looks incredibly happy."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Huh... What's so fun about eating oysters?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Amira,Gargle... Mmmm... Zzz...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,And she's out.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,[플레이어] carries Amira back to her room with Vyrn and Lyria's help.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,The rest of the crew then have dinner together.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,"After the main course, lumber jellato is brought out for dessert."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lyria,Mmm! The coldness and the firm texture are so good together!
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,A perfect treat for a hot summer day!
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Charlotta,"Your cooking once again exceeds expectations, Sevastien!"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Sevastien,Why thank you for your kind compliment.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Sevastien,"I have more prepared for everyone else, should you wish to partake."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Redluck,"Thanks for the offer, but I think I'll go off and have a drink by myself."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Kolulu,I'm... Yawn... Pretty sleepy...
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Sevastien,"Oh dear. In that case, if there's anyone who would like seconds..."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lucio,Pardon me. May I request a portion for myself?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,Lucio smiles at Sevastien as he closes the door behind himself.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Finally decided to show up, huh? Sorry, pal, but we've almost finished all the food off."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lucio,That is no issue whatsoever. I finished dining before I returned.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Works out then. Why the heck were you out so late?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lucio,"I haven't had many chances to exercise recently, therefore I decided to engage in a bit of intense activity."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lucio,"Sandy would scold me for being unseemly if I did not maintain my physical form, after all."
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,"Yeah, he probably would, wouldn't he?"
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Shouldn't you skip dessert then?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Lucio,There's always room for dessert. Isn't that how the saying goes?
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,Vyrn,Yep. Those were the last words of many brave dieters.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,Lucio puts a finger to his lips and winks.
+English,"scene_evt200628_cp5_q2_s10,7556521",detail,,"Night still young, the remaining crew members enjoy their desserts together."
+English,"scene_evt200628_cp5_q3_s10,7556531",synopsis,,"Redluck drinks alone on the deck of the ship after dinner. [플레이어], Vyrn, and Lyria watch him worriedly from a hidden spot, unsure of how to approach him, but he notices them anyway and beckons them over. The three express their concern, and Redluck speaks of both his dream for helping starving individuals, as well as his own personal desire to win the competition. However, now that his own chance is over, he resolves to wholeheartedly support Kolulu in her own victory."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Phew... Evening breeze sure feels nice.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,"Drink in hand, Redluck leans against the railing on the ship's deck and stares into the distance."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,His normally cheerful expression is clouded with melancholy.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,"From a hidden spot nearby, [플레이어] and friends watch worriedly over him."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,Definitely set some alarm bells off when he said he wanted to drink alone.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,How should we approach this? He almost seems like a different person.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,The shock of losing musta been more serious than he let on.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Hm... Is someone over there?
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,"Knowing the jig is up, the hidden crew members sheepishly emerge from their hiding spot."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,Ahaha... F-fancy seeing you here...
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"Oh, it's just you all. Did you need me for something?"
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,"Not exactly, but, uh..."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Ah. Came here to check on me then.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,"I mean, you were super into the whole competition, and winning, and..."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"Hey, no need to get upset. It's my loss, not yours."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,That doesn't mean we can't be sad too! It hurts to see you not happy...
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Is that right? Can't say I didn't expect that from you kids.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,Redluck smiles fondly for a moment before his expression turns somber.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,It was my dream.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"You can't tell anyone else this, all right? Especially not our championship competitors."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"But I was prepared to stake my life on this competition and, like you guessed, the shock of losing was hard."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,The only reason this competition happened was because of the situation with the lumber jellies.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"There's always a chance the event will be revived if this one is successful enough, but that's not a chance I can count on."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,So I went into this expecting it to be my first and last attempt at taking the title.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Part of why I wanted it so bad was to help create a world where no one ever has to starve.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"On the other hand, I simply wanted to win for myself as a competitive eater."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"Seems like such a small thing, right? But dreams are special things. Make anything seem gigantically significant."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Especially when it's one you've always chased after since you were a kid.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,And it was so close to coming true. I could feel it. That's why the loss hit me so hard.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,Big guy...
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Gahaha! Sorry to bore you with the long story.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Didn't mean to ramble like that. You guys are such good listeners!
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,Redluck laughs sheepishly while the others smile back.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,Your dream's not over yet though.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Hm?
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,"You've passed the torch to Kolulu, and she's going to run with it."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,"With your help, she's carrying your dreams forward."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,"Whatever you couldn't do alone before, she's there to help you finish."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,So... there's still hope.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,...
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"Haha... Didn't think of it that way, but you're absolutely right."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,Can't be moping around if I want to witness her seeing things through!
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,It's not gonna be easy with Amira there too. She's one tough cookie.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,"Right, right. She's got some mysterious abilities at work."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Redluck,I might've ended up having as much trouble with her as I did with Mash.
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Vyrn,"Well, Kolulu and Amira are both our friends, right? Doesn't matter to me which one wins—I'm ready to cheer 'em on!"
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,Lyria,"Hehe, tomorrow is going to be so much fun!"
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,"Their bonds deepened, the crew now understand Redluck better than before."
+English,"scene_evt200628_cp5_q3_s10,7556531",detail,,A new smile adorns Redluck's face as he takes comfort in his friends.
+English,"scene_evt200628_cp5_q4_s10,7556541",synopsis,,"Kolulu, unable to sleep, accidentally overhears Redluck's true feelings. Amira walks up and startles Kolulu, sending her tumbling onto the deck and revealing herself. Redluck speaks with her, and afterward Kolulu expresses her intent to win is stronger than ever. Amira and Kolulu both refuse to cede victory to the other and prepare themselves for an intense final round."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,,"Hidden behind a door leading out to the deck, Kolulu unexpectedly hears Redluck's heartfelt admission."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,"Master, you wished to win so badly..."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,And I... took that opportunity away from you.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,What are you doing?
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,Golly!
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,,Kolulu jumps at the unexpected voice from behind and falls through the door onto the deck.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,Owchies...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,Are you okay?
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,I-it's nothing worth worrying over.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,,"As Amira helps Kolulu up, a large shadow falls over the two."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,"So... You heard everything, I'm guessing."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,"Ah, um... Well..."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,I couldn't sleep because I was feeling antsy and then I heard your voices coming from the deck...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,What were you talking about?
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Vyrn,The big guy's feelings. Didn't you hear?
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,No. I was looking for snacks.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,I didn't want unnecessary pressure weighing you down. That's why I didn't want to tell you any of it.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,But cat's out of the bag now. May as well tell it to you directly.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,"The loss hurt, no doubt about it. It was paralyzing."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,"Felt like someone put out the fire in me, and I had no fuel to keep going."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,But seeing your determination reignited that fire. I realized it was too early to give up.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,So... show me my dream still has a chance to come true.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,"Go out and bring home the win. I believe in you, Kolulu."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,Master...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,Understood! I've made up my mind!
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,I shall eat with everything I've got and emerge victorious!
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Redluck,"Yeah, that's the attitude I want to see!"
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,Victory...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,"Of course I intend to take the victory, even if it's against you, Amira!"
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,I won't lose.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Amira,I have to become famous and make sure Mother hears about me.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,Amira...
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,,"With nothing else left to say, Amira turns and heads belowdecks."
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,We both have our reasons to come out on top.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,Kolulu,"However, I won't yield to anyone!"
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,,Both crew members' minds are made up.
+English,"scene_evt200628_cp5_q4_s10,7556541",detail,,"They steel themselves for the coming battle, knowing that only one person will claim the championship title."
