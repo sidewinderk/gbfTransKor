@@ -1,0 +1,418 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt200128_cp3_q1_s20,synopsis,,アイザック一族は代々、月に帰るために何百年もかけて「ロケット」なる乗り物を作ったが、その制御手段は月から提供を受ける必要があった。彼はカシウスの槍「ノイン」を使う気でいたが、それが壊れたと知って頭を抱える。しかし相棒の提案でノインを預かり、修理を試みる事に。そこへ組織の兵達が現れ、カシウスを奪おうと襲いかかる。困惑しながら迎え撃つ[플레이어]達。,"아이작 일족은 달로 돌아가기 위해 수백 년에 걸쳐 대를 이어 로켓이라는 탈 것을 만들었지만, 그 제어수단은 달에서 제공받을 필요가 있었다. 그는 카시우스의 창 「노인」을 사용할 생각으로 있었지만, 그것이 망가진 것을 알고 머리를 싸맨다. 그러나 파트너의 제안으로 노인을 맡아 수리를 시도하게 된다. 하지만, 거기에 조직의 병사들이 나타나 카시우스를 빼앗으려고 덤빈다. 곤혹스러워하며 맞서 싸우는 [플레이어] 일행."
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,やあ、兄弟。<br>また話せて嬉しいよ。,"안녕, 형제. 다시 이야기를 나눌 수 있어서 기쁘군."
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,お前の境遇について、<br>信憑性はあるが、<br>やはり信じがたい。,"네 처지에 대해서다만, 신빙성은 있으나 역시 믿기는 힘들다."
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,僕も月生まれの人と会う日が来るなんて<br>思ってなかったよ。,나도 달에서 태어난 사람하고 만나는 날이 올 줄은 상상도 못 했어.
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,どうやって月に行くつもりだ？,어떻게 달로 돌아갈 생각이지?
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,ロケットを使うのさ。<br>なんと自作だよ。,로켓을 쓸 거야. 무려 내가 직접 만들었다구.
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,何……！？,뭐라고...?
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,家系が代々エンジニアでね。<br>機関から部品を小分けで貰って、<br>何百年とかけて作り上げたんだ。,우리 집안은 대대로 엔지니어거든. 기관에서 받은 부품으로 몇백 년에 걸쳐 만들어 왔지.
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,……推進力は？,...추진력은 어떻게 할 거지?
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,苦労したのはまさにそこだよ。<br>向こうは燃料は貴重だって言って<br>結局送ってくれなかったからね。,그 부분이 제일 힘들었다니까. 저 쪽에서도 연료는 귀중하다면서 절대 안 보내줬거든.
+Japanese,scene_evt200128_cp3_q1_s20,detail,레이베리,十分な推進力を出す方法を模索するのに<br>これまた数百年を要したそうだ。,충분한 추진력을 얻는 방법을 모색하는 동안에 수백 년이나 흘렀다는 듯하다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,で、僕は魔晶を推進力に変える<br>エンジンを開発したよ。<br>テスト段階じゃ出力はばっちりだ。,그리고 내가 마정을 추진력으로 변환시키는 엔진을 개발했어. 테스트 단계지만 출력은 확실했지.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,あとは制御系だね。<br>さすがに手動操縦で<br>月に行くのは不可能で──,이젠 제어계통이 남았어. 아무래도 수동조작을 해서 달에 가는 것은 불가능하니까...
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,비,どうしたんだよ？<br>浮かねえ顔してさ。,왜 그래? 표정이 좋지 않네.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,月に帰るのかな、カシウスのヤツ……,카시우스 녀석... 달로 돌아가는 걸까?
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,まあ、本人がそれを望むなら<br>仕方ないとあたしは思うけど。,"뭐, 본인이 그걸 원한다면 어쩔 수 없지 않나? 내 생각엔 그래."
+Japanese,scene_evt200128_cp3_q1_s20,detail,바자라가,騎空団もそうだろう。<br>いつか別れは訪れる。,기공단도 마찬가지이지 않나. 언제가 됐든 이별은 찾아오기 마련이다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,こっちにいるのも、<br>月に帰るメドが立つまでって<br>言ってたもんな……,이 쪽에 있는 건 달로 돌아갈 수단을 찾을 때까지라고 말하긴 했었지...
+Japanese,scene_evt200128_cp3_q1_s20,sel1_txt,,<span class='scene-font-katari'>カシウスを引き留めよう</span>,<span class='scene-font-katari'>카시우스한테 가지 말라고 하자</span>
+Japanese,scene_evt200128_cp3_q1_s20,sel2_txt,,<span class='scene-font-katari'>送り出してあげよう</span>,<span class='scene-font-katari'>잘 가라고 보내 주자</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,[플레이어]……,[플레이어]……
+Japanese,scene_evt200128_cp3_q1_s20,detail,비,向こうじゃロクな食い物もねえって<br>話だったし、いっそこっちで暮らしても<br>いいんじゃねえかってオイラは思うぜ？,그쪽에는 제대로 된 음식도 없는 모양이니까 아예 여기서 살아 버려도 괜찮지 않나 싶은데 말야.
+Japanese,scene_evt200128_cp3_q1_s20,detail,루리아,そ、そうですよ！<br>月に帰ったっていい事ないですよ！,"마, 맞아요! 달에 돌아가도 좋을 거 없을 거라구요!"
+Japanese,scene_evt200128_cp3_q1_s20,detail,루리아,だって今までカシウスさん<br>ほったらかしに<br>されてたじゃないですか！,지금까지 카시우스 씨를 내버려뒀을 정도잖아요!
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,……まずは本人の意思を確認する。,……먼저 본인의 의견을 확인한다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,え？,응?
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,残留も帰還も強制はできん。<br>話はそれからだ。,잔루냐 귀환이냐 어느쪽도 강요할 수는 없다. 이야기는 거기서부터다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,まさかお前も、カシウスと別れるのが<br>寂しいのか……？,"설마 너도, 카시우스랑 헤어지는 게 아쉬운거야……？"
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>ユーステスの視線の先には、</span><br><span class='scene-font-katari'>寂しげな表情のルリアとビィ、</span><br><span class='scene-font-katari'>[플레이어]がいた。</span>,"<span class='scene-font-katari'>유스테스의 시선 끝에는 쓸쓸한 표정의 루리아와 비, [플레이어]가 있었다.</span>"
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작의 목소리,<span class='scene-font-4'>なんだってぇぇええええ！？</span>,<span class='scene-font-4'>뭐라고오!!!!!!!!!?</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>突如として響いた声に驚き、</span><br><span class='scene-font-katari'>カシウスとアイザックが話す部屋へと</span><br><span class='scene-font-katari'>駆け込む一行。</span>,<span class='scene-font-katari'>일행은 갑자기 울려퍼진 목소리에 깜짝 놀라 카시우스와 아이작이 이야기를 나누던 방으로 뛰쳐들어갔다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,ノ……ノインが壊れた！？,노...노인이 망가졌다고!?
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,ああ。壊れた。,그래. 망가졌다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,<span class='scene-font-4'>なんで！？</span>,<span class='scene-font-4'>왜!?</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,機神との戦闘の際にだ。<br>今では制御能力を失い、<br>ただの鉄の棒と変わらん。,기신과의 전투 때 망가졌지. 지금은 제어능력을 잃어 평범한 철봉이나 다름없다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,레이베리,……さぞ激戦だったんだろう。,...엄청난 격전이었던 모양이군.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,待ってくれ……<br>聞いてないぞ兄弟……<br>ノインが……そんな……,잠깐만... 친구. 그런 얘긴 못 들었는데... 노인이... 그럴 수가...
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,何事だ。,무슨 일이냐.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,どうもこうもないよ……<br>月に帰るには、乗り物を制御する<br>計算機がいるんだ。,무슨 일이긴... 달에 돌아가려면 탈것을 제어할 계산기가 필요하거든.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,こっちでは本体を作るのが限界でね。<br>だからノインの制御能力が<br>必要だったのに……,여기서 만들 수 있는 건 본체 정도야. 그래서 노인의 제어능력이 꼭 필요했는데...
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,壊れた。,망가졌다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,레이베리,当てが外れたな。<br>それだけの計算は、俺にも不可能だ。,믿을 곳이 없어졌군. 나로서는 그 정도의 계산은 불가능하다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,だはぁ……<br>どうしようか……,하아... 어떡하지...
+Japanese,scene_evt200128_cp3_q1_s20,detail,레이베리,ふむ……<br>カシウス。ノインをアイザックに<br>預けてみる気はないか？,흠... 카시우스. 노인을 아이작에게 맡겨 볼 생각은 없나?
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,僕に直せって！？<br>月の最新技術を！？,나한테 고치라고? 달 최신 기술인데?
+Japanese,scene_evt200128_cp3_q1_s20,detail,레이베리,仮にもダクトなエンジニアだろう？,덕트한 엔지니어라면서?
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,直せるのか？,고칠 수 있겠나?
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,そりゃあ、<br>見てみなきゃわからないよ。,"그야 뭐, 한번 보지 않으면 모르지."
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,ならば預けよう。,그렇다면 맡기도록 하겠다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,お前……<br>もう決めてたのか？<br>月に帰るって……,너... 달에 돌아가기로 정한 거야?
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,いや。<br>月へ帰還するかどうかは決めていない。<br>だが俺にはノインが必要だ。,아니. 달에 귀환할지는 정하지 않았다. 하지만 내겐 노인이 필요해.
+Japanese,scene_evt200128_cp3_q1_s20,detail,바자라가,その目的を聞かせてもらおう。,그게 왜 필요한지 목적을 들어야겠군.
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,グレイスとかいう女の襲撃に備えてだ。,그레이스라고 하는 여자의 습격에 대비하기 위해서다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,あの女の武器は防げん。<br>ならばノインで干渉し、<br>武器の動作そのものを封じる。,그 여자의 무기는 막아낼 수 없다. 그렇다면 노인으로 간섭해서 무기의 동작 자체를 봉인할 수밖에.
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,エンジニア。<br>お前が奴の仲間でないのなら<br>その協力はできるだろう？,"엔지니어, 네가 녀석의 동료가 아니라면 그 정도는 협력할 수 있겠지?"
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,……ああ。わかった。<br>何しでかすかわからないからね、<br>彼女は。,"...그래, 알았어. 그녀라면 무슨 짓을 저지를지 모르니까."
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,一族の教えに従って行動するよ。<br>「困ってる人を見過ごすな」ってね。,"가문에 내려오는 가르침을 따라야겠지. ""곤란한 사람을 보고 그냥 넘어가지 말라""는 가르침 말야. "
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,ただし、月に帰るかどうかも<br>検討しておいてくれよ、兄弟。,"단, 달에 돌아갈 것인지에 대해도 다시 검토해 줬으면 좋겠어, 형제."
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>そして、カシウスの槍「ノイン」は</span><br><span class='scene-font-katari'>アイザックに託される。</span>,"<span class='scene-font-katari'>그렇게 카시우스는 자신의 창 ""노인""을 아이작에게 맡기게 되었다. </span>"
+Japanese,scene_evt200128_cp3_q1_s20,detail,레이베리,内部を解析する。<br>俺がしばらく預かろう。,내부를 해석하겠다. 한동안 내가 맡도록 하지.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,長すぎて相棒の中には納まらないな。,너무 길어서 파트너 안에 수납할 수는 없겠는걸.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,……折りたためるのか？ これ。<br>ええと、こうして、こう……,"...이거 접을 수 있는 건가? 어, 그러니까 이렇게 해서..."
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,……それ、折りたためたのか。,그거 접을 수 있는 거였어?
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,俺も初めて知った。,나도 지금 알았다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,お前の大事な相棒じゃないのか！,네 소중한 파트너 아냐!?
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>そんなやりとりを眺めるユーステス。</span><br><span class='scene-font-katari'>その懐にある伝声機が着信を告げる。</span>,<span class='scene-font-katari'>유스테스는 그런 그들을 지켜보고 있었다. 그때 품 안의 전성기가 울리기 시작했다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,こちらユーステス。,유스테스다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 간부,<span class='scene-font-gray'>旅行者に聴取がしたい。これは急務だ。</span>,<span class='scene-font-gray'>여행자에게 듣고 싶은 것이 있다. 이것은 긴급임무다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,急かすな。トラブルがあった。<br>時間が必要だ。,재촉하지 마라. 트러블이 있었다. 시간이 필요해.
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 간부,<span class='scene-font-gray'>旅行者に聴取がしたい。これは急務だ。</span>,<span class='scene-font-gray'>여행자에게 듣고 싶은 것이 있다. 이것은 긴급임무다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,そもそも、その話は<br>今後ローナンを通せと告げたはずだ。,애초에 그 이야기는 앞으로 로난을 통해서 전하라고 말했을 텐데.
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 간부,<span class='scene-font-gray'>旅行者に聴取がしたい。これは急務だ。</span>,<span class='scene-font-gray'>여행자에게 듣고 싶은 것이 있다. 이것은 긴급임무다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,…………？,…………？
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 간부,<span class='scene-font-gray'>こっこここれは急務きゅきゅきゅ──</span>,<span class='scene-font-gray'>이이이이이것은 기기기기기긴급──</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,<span class='scene-font-kokoro'>（……伝声機の故障か？）</span>,<span class='scene-font-kokoro'>(...전성기가 고장난 건가?)</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>通信が中断し、</span><br><span class='scene-font-katari'>もう一度着信が告げられた。</span>,<span class='scene-font-katari'>통신이 중단되더니 다시 한 번 전성기가 울렸다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,こちらユーステス。,유스테스다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,이루자,<span class='scene-font-gray'>イルザだ。</span><br><span class='scene-font-gray'>あの癇癪玉は一体何をしでかした？</span>,"<span class='scene-font-gray'>이루자다. 덜렁이 녀석, 대체 무슨 짓을 저지른 거지?</span>"
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,何の話だ。,그게 무슨 말이냐.
+Japanese,scene_evt200128_cp3_q1_s20,detail,이루자,組織がお前達に兵を差し向けた。<br>指令を出したのは中枢……<br>つまり組織のトップらしい。,조직이 너희 쪽으로 병사를 보냈다. 지령을 내린 건 중추... 즉 조직의 톱이라는 듯하다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,……なるほど？,...그렇군.
+Japanese,scene_evt200128_cp3_q1_s20,detail,이루자,総員対星装備の一個小隊だ。<br>中枢は相当にお冠なのだろう。<br>癇癪玉が何かしでかしたのか？,전원이 대성장비를 갖춘 소대다. 중추는 상당히 화가 난 듯하군. 덜렁이 녀석이 무슨 짓이라도 했나?
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,いや。<br>それほどの問題は起こしていない。,아니. 그 정도의 문제는 일으키지 않았다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,이루자,そうか。ひとつ心配が晴れた。<br>とにかく、すぐにその場を離れろ。<br>出立記録からして、そろそろ到着する。,그런가. 일단은 안심이군. 아무튼 즉시 그곳을 떠라. 출발기록을 봤을 때 슬슬 도착할 즈음이다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,了解した。,알았다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>伝声機を切ったユーステスの耳には、</span><br><span class='scene-font-katari'>既に無数の軍靴の音が届いていた。</span>,<span class='scene-font-gray'>전성기를 끈 유스테스의 귀에 이미 수많은 군화 소리가 들리기 시작했다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,教官から連絡があった？<br>組織の兵がこっちに来てるって？,교관한테서 연락이 왔다고? 조직의 병사가 이 쪽으로 온단 말이야?
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,ああ。完全装備でな。<br>中枢が相当にお冠らしい。,그래. 완전무장한 채로 말이다. 중추는 상당히 화가 난 모양이다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,ベア？,베아?
+Japanese,scene_evt200128_cp3_q1_s20,detail,바자라가,何をした？,무슨 짓을 했지?
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,こ、こっちを見るなよ！<br>私は何もしてないぞ！,"이, 이쪽 보지 마! 나 아무 것도 안 했어!"
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,既に隊は建物を包囲したようだ。<br>俺が話をつける。下手に動くな。,이미 병사들이 건물 주위를 포위하고 있는 모양이다. 내가 이야기를 하러 가지. 함부로 움직이지 마라.
+Japanese,scene_evt200128_cp3_q1_s20,detail,바자라가,この者達は？,이 자들은 어떡하지?
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작 일행,あはは……,아하하....
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,組織はお前達を認識していないはずだ。<br>すぐ別室に移り、<br>折を見て知らぬ顔でここを離れろ。,조직은 너희들에 대해 인식하지 못했을 거다. 다른 방으로 이동한 후 눈치를 봐서 아무 것도 모르는 것처럼 나가라.
+Japanese,scene_evt200128_cp3_q1_s20,detail,아이작,す、すまないね！,"미, 미안해!"
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,[플레이어]達は<br>別の裏口から逃げてもらう？,[플레이어]네는 뒷문으로 도망치게 할까?
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,……向こうの出方次第だ。,...저쪽이 어떻게 나오느냐에 달렸다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,バザラガは[플레이어]達の前に立て。<br>ゼタ、奇襲に備えて後方を警戒しろ。,바자라가는 [플레이어] 일행의 앞에 서라. 제타는 기습에 대비해서 후방을 경계해라.
+Japanese,scene_evt200128_cp3_q1_s20,detail,바자라가,ああ。,그래.
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,了解。,알았어.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,ベアトリクス、お前は有事の際に<br>カシウスを迷子にさせるな。,"베아트릭스, 너는 무슨 일이 생겼을 때를 대비해서 카시우스를 잘 보고 있어라. 그가 미아가 되지 않도록."
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,ふふん！ 了解！<br>まかしておけって！,"헤헹, 알았어! 나한테 맡겨!"
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,なんだかお守りみたいで<br>複雑だけどな……,왠지 애 떠맡은 거 같아서 복잡한 기분이 들긴 하지만...
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,ならば俺も迷子にならないよう<br>ベアトリクスを監視する。,그렇다면 나도 베아트릭스가 미아가 되지 않도록 잘 감시하겠다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,はぁ！？ お、お前なあ！<br>立場わかってるか！？,뭐? 너 지금 니 입장을 알기는 해?
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>各々が態勢を整えるうちに、</span><br><span class='scene-font-katari'>宿のロビーに無数の足音が響く。</span>,"<span class='scene-font-katari'>각자 태세를 정비하고 있는 사이, 숙소 로비에 군홧발 소리가 울리기 시작했다.</span>"
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>やがて[플레이어]達のいる部屋に</span><br><span class='scene-font-katari'>兵達が入り込んできた。</span>,<span class='scene-font-katari'>이욱고 병사들은 [플레이어] 일행이 있는 방으로 들이닥쳤다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 병사,中枢の命によりカシウスを連行する。<br>引き渡してもらおう。,중추의 명령에 따라 카시우스를 연행한다. 그를 넘겨라.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,単なる聴取にしては強硬だな。<br>俺は中枢から「急がない」と聞いたが。,"단순히 이야기를 들으려고 한다기에는 강경한 대응이군. 중추는 내게 ""급하지 않다""고 했었다만."
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 병사,お前がグズグズしているから<br>中枢も痺れを切らしたのだ。,네가 질질 끌고 있으니 중추 쪽에서도 더 이상 참지 못한 거다.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,中枢は何かを隠している。<br>敵の息がかかっている可能性が高い。,중추는 뭔가를 숨기고 있다. 적의 입김이 닿아 있을 가능성이 높아.
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 병사,引き渡す気はないと？,넘길 생각이 없다는 건가?
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,先にローナンを説得するんだな。,그 전에 로난을 설득하도록 해라.
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 병사,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,…………,…………
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>兵達は銃を構えてみせるが、</span><br><span class='scene-font-katari'>全く動じる様子のない一行。</span>,"<span class='scene-font-katari'>병사는 총구를 내밀었지만, 일행은 전혀 움직이지 않았다.</span>"
+Japanese,scene_evt200128_cp3_q1_s20,detail,카시우스,ふむ。数が多い。,흠. 수가 많군.
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,お前を狙ってるんだよ。<br>下がってろ、カシウス。,"다 널 노리고 있는 거야. 물러서, 카시우스."
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,流石にあたし達に向けて<br>引き金なんて引けないでしょ？,아무리 그래도 우리한테 방아쇠를 당기지는 않을 거 아냐?
+Japanese,scene_evt200128_cp3_q1_s20,detail,바자라가,戦いを挑まれるのは構わんが、<br>こちらが手加減できる範囲で<br>頼みたいものだな。,싸움을 거는 건 좋다만 우리가 봐줘가며 싸울 수 있는 정도로만 해 줬으면 좋겠군.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,……もうひとつ釘を刺しておく。,한 가지 더 경고해 두마.
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,[플레이어]とルリア、<br>ビィに手を出せば、ただでは済まんぞ。,"[플레이어]와 루리아, 비에게 손대면 그냥 넘어가지 않겠다."
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 병사들,…………！,…………！
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>組織の精鋭４人が放つ気迫を前に</span><br><span class='scene-font-katari'>兵達は怯んだ様子を見せるも……</span>,<span class='scene-font-katari'>조직의 정예 네 명이 내뿜는 살기 앞에서 병사들은 겁먹은 기색을 보였다. 그러나...</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,조직의 병사,こ、これは中枢からの指令だ！<br>臆するな！ やれ！,"이, 이건 중추가 내린 명령이다! 겁먹지 마라! 해치워라!"
+Japanese,scene_evt200128_cp3_q1_s20,detail,제타,あ、ほんとに後ろからも来た。,"어, 진짜 뒤쪽에서도 들어왔네."
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>[플레이어]達の背後の窓を破り、</span><br><span class='scene-font-katari'>兵達が突入してくる。</span>,<span class='scene-font-katari'>병사들이 [플레이어] 뒤쪽에 있던 창문을 깨고 실내로 쳐들어왔다.</span>
+Japanese,scene_evt200128_cp3_q1_s20,detail,유스테스,俺とゼタ、バザラガで正面だ。,"나와 제타, 바자라가가 정면을 맡는다. "
+Japanese,scene_evt200128_cp3_q1_s20,detail,베아트릭스,私達で奇襲隊だな！<br>いくぞ[플레이어]！,우리가 기습한 쪽을 맡으면 되는 거지! 가자 [플레이어]!
+Japanese,scene_evt200128_cp3_q1_s20,detail,,<span class='scene-font-katari'>銃とナイフを構える兵達を</span><br><span class='scene-font-katari'>一行は二手に分かれて迎え撃つ。</span>,<span class='scene-font-katari'>일행은 둘로 갈라져 총과 나이프를 들이대는 병사들을 상대했다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,synopsis,,戦いの中、ユーステスは自分に下された「聴取をするためカシウスを本部に連れて来い」という命と、それを下した中枢に疑念を抱く。戦ううちに劣勢に立たされた組織の兵達は奇妙な機械を作動させた。すると封印武器が言う事を聞かなくなり、バザラガとカシウスが苦しんだ末に倒れてしまう。何が起きたのかもわからぬまま形勢逆転され、カシウスは組織の兵に捕らわれてしまうのだった。,"전투 중, 유스테스는 자신에게 내려진 ""청취를 하기 위해 카시우스를 본부로 데려오라""는 명령과 그것을 내린 중추에 의심을 품는다. 싸우는 동안 열세에 놓인 조직의 병사들은 이상한 기계를 작동시켰다. 그러자 봉인 무기가 말을 듣지 않고 바자라가와 카시우스가 고통스러워하다가 쓰러지고 만다. 무슨 일이 일어났는지도 모른 채 형세가 역전되어 카시우스는 조직의 병사들에게 사로잡히고 만 것이다."
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,ひるむな！ かかれ！,쫄지 마라! 계속 덤벼!
+Japanese,scene_evt200128_cp3_q1_s30,detail,카시우스,ﾁｿｶﾆﾋﾁｶｲ ｽｲﾊﾘｲｻ ﾄｶﾆﾓﾅﾘﾆ;ﾁｿｿｲﾘｲｽﾁｶｲ<br>ｾｽﾗｿｲﾄﾄﾆﾐｷ. ｲﾐｸﾁﾐｿﾆﾐｷ ｶﾁｿｶﾆﾘｲ ｾｲｽｿｲｾ<br>ｶﾆﾗﾐ;ﾄﾃﾆｶｿｸﾆﾐｷ ｶﾗ ｲｻｶｲﾐｼｲｼ ﾊﾗﾋ ﾓﾗｼｲ.,Vacittae fexrel mulitis; cacetereal spirescong. Hinnegcan tacetil pereptonic; tichwings of dexented Fov odem.
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사들,ぐあっ！？,크악!?
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>兵達の集中攻撃を受けるも、カシウスは</span><br><span class='scene-font-katari'>一筋縄でいく相手ではなかった。</span>,"<span class='scene-font-katari'>병사들의 집중공격을 받았지만, 카시우스는 그렇게 호락호락한 상대가 아니었다.</span>"
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>背中に目でもついているかのように、</span><br><span class='scene-font-katari'>振り返りもせず背後から襲う兵を倒し</span><br><span class='scene-font-katari'>無力化していく。</span>,<span class='scene-font-katari'>그는 마치 등 뒤에 눈이라도 달린 것처럼 돌아보지도 않고 뒤쪽에서 공격해오는 병사들을 쓰러뜨려 무력화시켰다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,ぐ……！,큭...!
+Japanese,scene_evt200128_cp3_q1_s30,detail,제타,ねえ、もうやめにしな？<br>あたし達だって<br>これ以上やりたくないよ。,이쯤 해 두지 않겠어? 우리도 이 이상 하고 싶지는 않아.
+Japanese,scene_evt200128_cp3_q1_s30,detail,베아트릭스,怪我するまでやったら<br>イルザ教官にどやされるぞ！？<br>私もお前達も！,다칠 때까지 하면 우리나 너희나 이루자 교관님한테 어떤 꼴을 당할지 알아?
+Japanese,scene_evt200128_cp3_q1_s30,detail,유스테스,[플레이어]、ルリア、ビィ。<br>怪我は？,"[플레이어], 루리아, 비. 다친 데는 없나?"
+Japanese,scene_evt200128_cp3_q1_s30,detail,비,だ……大丈夫だぜ！<br>お陰様でな！,"더, 덕분에 괜찮아!"
+Japanese,scene_evt200128_cp3_q1_s30,detail,루리아,あ、あの！<br>みなさん仲間なんですよね？<br>どうしてこんなこと……,"저, 저기! 여러분은 조직 동료분들이시죠? 왜 이런 짓을 하시는 건가요..."
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,言っただろう……<br>中枢の指令なのだ。<br>逆らうわけにはいかん……,이미 말했을 텐데. 중추의 명령이라고. 그걸 거스를 수는 없다.
+Japanese,scene_evt200128_cp3_q1_s30,detail,유스테스,中枢は何を焦っている？<br>通信での様子も妙だった。,중추는 왜 이렇게 서두르는 거지? 통신 상태도 이상하던데.
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,我々が知るはずもない……<br>ただ……,우리가 알 리가 있나. 다만...
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,任務を果たせなければ<br>我々の命がないのだ！,임무를 수행하지 않으면 우리 목숨이 위험하단 말이다!
+Japanese,scene_evt200128_cp3_q1_s30,detail,기계,<span class='scene-font-gray'>ｶｽﾁﾐﾄﾓﾆｶｶﾆﾐｷ ﾓﾁｿｸﾆﾐｲ-ｿﾘﾁﾄﾄ</span><br><span class='scene-font-gray'>ﾉﾆﾘﾘ ｿﾗﾓﾓﾁﾐｼ. ｶﾁｽｷｲｶ: ﾁﾘﾘ.</span>,<span class='scene-font-gray'>Margstintin camhine-slacs lilk mocdamn. Atgert: lal.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>後方に配された兵が何かをしたらしく</span><br><span class='scene-font-katari'>耳障りなノイズが周囲に響く。</span>,<span class='scene-font-katari'>뒤쪽에 배치되어 있던 병사가 무슨 짓을 했는지 듣기 싫은 노이즈가 주변에 울려퍼졌다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,제타,…………！？,…………！？
+Japanese,scene_evt200128_cp3_q1_s30,detail,유스테스,…………！？,…………！？
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>ゼタとユーステスの封印武器が</span><br><span class='scene-font-katari'>弾かれるようにして転がった。</span>,<span class='scene-font-katari'>제타와 유스테스의 봉인무기가 그에 반응하듯이 굴러떨어졌다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,바자라가,ぐ……！！,큭...!
+Japanese,scene_evt200128_cp3_q1_s30,detail,카시우스,これ……は……！？,이... 건...!?
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>バザラガとカシウスは胸を押さえ、</span><br><span class='scene-font-katari'>膝をつく。</span>,<span class='scene-font-katari'>바자라가와 카시우스는 가슴을 부여잡으며 그 자리에 무릎을 꿇었다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,베아트릭스,お、おい！<br>みんなどうした！？,"자, 잠깐! 다들 무슨 일이야?"
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,動くな。,움직이지 마라.
+Japanese,scene_evt200128_cp3_q1_s30,detail,베아트릭스,な……何をしたんだ！,무슨 짓을 한 거야!
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,お前が[플레이어]か。<br>人質は３人もいるのだ。言っておくが<br>カシウス以外の生死は問われていない。,네가 [플레이어]인가. 이 쪽에는 인질이 셋이나 있다. 미리 말해두지만 카시우스 외에는 생사를 묻지 않아도 좋다고 했다.
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>剣を握ったまま、[플레이어]は</span><br><span class='scene-font-katari'>ゼタ達に銃を向ける兵を睨み付ける。</span>,<span class='scene-font-katari'>[플레이어]는 검을 쥔 채로 제타 일행을 향해 총을 들이대는 병사들을 노려보았다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,対象を連行しろ。,대상을 연행하라.
+Japanese,scene_evt200128_cp3_q1_s30,detail,카시우스,く……！,큭...!
+Japanese,scene_evt200128_cp3_q1_s30,detail,베아트릭스,<span class='scene-font-4'>カシウスっ！</span>,<span class='scene-font-4'>카시우스!</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>ベアトリクスが伸ばした手を</span><br><span class='scene-font-katari'>一発の銃声が遮る。</span>,<span class='scene-font-katari'>베아트릭스가 손을 뻗자 총소리가 울렸다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,베아트릭스,…………！！,…………！！
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>足元に、機神の装甲をも貫く弾丸が</span><br><span class='scene-font-katari'>深々と開けた穴を見て</span><br><span class='scene-font-katari'>歯噛みするベアトリクス。</span>,발 밑에 기신의 장갑도 뚫을 수 있는 탄환이 깊게 박힌 것을 보고 베아트릭스는 이를 악물 수밖에 없었다.
+Japanese,scene_evt200128_cp3_q1_s30,detail,조직의 병사,次は当てる。<br>動くなよ。,다음에는 빗나가지 않는다. 움직이지 마라.
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>そして兵達は、虚ろな表情のカシウスを</span><br><span class='scene-font-katari'>連れ去っていった。</span>,<span class='scene-font-katari'>이윽고 병사들은 멍한 표정의 카시우스를 데리고 사라졌다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,아이작,…………,…………
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,あの者達が気になるか？,그 자들이 신경쓰이나?
+Japanese,scene_evt200128_cp3_q1_s30,detail,아이작,ああ。<br>僕を逃がすだなんて、<br>よっぽど危ないんだろう。,그래. 날 도망치게 하다니 어지간히 위험한 상황이겠지.
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,まさかあの修羅場に<br>戻ると言い出すのではではではでは──,설마 저 수라장으로 돌아가겠다고 하는 건 건 건 건 건──
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>耳障りなノイズが響いたかと思うと</span><br><span class='scene-font-katari'>レイベリィの様子が一変する。</span>,<span class='scene-font-katari'>듣기 싫은 노이즈가 울려퍼지나 싶더니 레이베리의 상태가 돌변했다.</span>
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,ででで<br>ではではははでででででで……,"건건건, 건건건건건건건..."
+Japanese,scene_evt200128_cp3_q1_s30,detail,아이작,相棒？<br>おい、どうした！,"파트너? 어이, 왜 그래!"
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,ｽｲｺﾗﾗｶ.,Betoor.
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,……強烈な信号でシステムが瞬断した。<br>人為的なものだな、これは。,...강렬한 신호 때문에 순간적으로 시스템이 멈췄다. 이건 인위적인 것이로군.
+Japanese,scene_evt200128_cp3_q1_s30,detail,아이작,君をジャミングでダウンさせたって！？<br>並大抵じゃ落ちないぞ、君は！,너한테 재밍을 걸어서 다운시켰다고? 넌 웬만한 수준으로는 다운되지 않잖아!
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,月の技術だろうな。<br>影響を受けたのは俺だけではあるまい。,달의 기술이겠지. 영향을 받은 건 나뿐만이 아닐 거다.
+Japanese,scene_evt200128_cp3_q1_s30,detail,아이작,……ということは、<br>ヒヨコちゃん達もか！？<br>やっぱり戻るぞ相棒！,"...그 말은 병아리 아가씨네도 영향을 받았을 거라는 거야? 파트너, 역시 돌아가야겠어!"
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,まさか助太刀に向かう気か？<br>戦闘は専門外だろう。,설마 가서 도와주기라도 하겠다는 건가? 전투는 네 특기가 아닐 텐데.
+Japanese,scene_evt200128_cp3_q1_s30,detail,아이작,それがうちの家訓だってば！<br>着くまでに、さっきのノイズのログを<br>出しといてくれ！,그게 우리 가훈이라니까! 가는 동안에 아까 들어온 노이즈 로그나 출력해 줘!
+Japanese,scene_evt200128_cp3_q1_s30,detail,레이베리,了解した。,알았다.
+Japanese,scene_evt200128_cp3_q1_s30,detail,,<span class='scene-font-katari'>そしてアイザックは踵を返し、</span><br><span class='scene-font-katari'>自分が捕らわれていた建屋へと</span><br><span class='scene-font-katari'>戻っていくのだった。</span>,<span class='scene-font-katari'>아이작은 오던 길을 되돌아가 자신이 묶여 있던 건물로 향했다.</span>
+Japanese,scene_evt200128_cp3_q2_s10,synopsis,,拘束されたカシウスは組織の輸送艇に乗せられ、中枢のもとへと運ばれていた。兵からそれを聞いた中枢はしきりに槍の所在を尋ねはじめる。様子のおかしい中枢に首を傾げる兵達。一方、アイザックとレイベリィは状況を分析する。兵達の使った奇妙な機械は旧世代の月の制御機器で、強力な信号によって月由来の存在を無力化するという。そんな物を持つ組織の実態に[플레이어]達は驚きを隠せない。,"구속된 카시우스는 조직의 수송정에 실려, 중추 쪽으로 운반되고 있었다. 병사에게 그 말을 들은 중추는 계속해서 창의 소재를 묻기 시작한다. 이상한 중추의 모습에 고개를 갸웃하는 병사들. 반면, 아이작과 레이베리는 상황을 분석한다. 병사들이 사용한 기묘한 기계는 구세대의 달 제어기기로 강력한 신호로 달에서 온 존재를 무력화시킨다고 한다. 그런 물건을 가진 조직의 실태에 [플레이어] 일행은 놀라움을 감추지 못한다."
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사2,旅行者の様子は？,여행자의 상태는 어떻지?
+Japanese,scene_evt200128_cp3_q2_s10,detail,카시우스,う……ぐ……,으... 윽...
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사,この様子ならしばらくは動けまい。<br>念のため、鎖を二重三重に巻いて<br>行動不能にしておけ。,이 상태라면 한동안 움직이지 못할 거다. 혹시 모르니 쇠사슬을 두세 겹 감아서 움직이지 못하도록 해 둬라.
+Japanese,scene_evt200128_cp3_q2_s10,detail,,<span class='scene-font-katari'>すると、伝声機が兵に着信を告げる。</span>,<span class='scene-font-katari'>그때 병사의 전성기가 울렸다.</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,중추,<span class='scene-font-gray'>状況を報告しろ。旅行者に聴取をする。</span>,<span class='scene-font-gray'>상황을 보고해라. 여행자를 청취한다.</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사,目標、捕縛しました。,목표를 포박했습니다.
+Japanese,scene_evt200128_cp3_q2_s10,detail,중추,<span class='scene-font-gray'>旅行者に聴取をする。槍は？</span>,<span class='scene-font-gray'>여행자를 청취한다. 창은?</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사,槍……ですか？,창이라고요...?
+Japanese,scene_evt200128_cp3_q2_s10,detail,중추,<span class='scene-font-gray'>旅行者に、あるはずだ。槍は？</span>,<span class='scene-font-gray'>여행자가 가지고 있다. 창은?</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사,いえ、そのような物を<br>持っている様子は。,"아뇨, 그런 것은 가지고 있지 않습니다."
+Japanese,scene_evt200128_cp3_q2_s10,detail,중추,<span class='scene-font-gray'>旅行者を急務だ。</span><br><span class='scene-font-gray'>聴取に槍をしたい。</span><br><span class='scene-font-gray'>槍を聴取しろ。</span>,<span class='scene-font-gray'>여행자에게 긴급 임무. 창에게 이야기를 듣고 싶다. 창을 청취해라.</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사,…………,…………
+Japanese,scene_evt200128_cp3_q2_s10,detail,,<span class='scene-font-katari'>兵の困惑をよそに、通信は切れる。</span>,<span class='scene-font-katari'>병사의 당황스러움을 무시하고 통신이 끊겼다.</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사2,中枢はなんと？,중추가 뭐라고 하던가요?
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사,槍がどうとか……<br>本人を取り調べるしかあるまい。,창이 뭐가 어쩌고 하던데... 본인에게 들을 수밖에 없겠군.
+Japanese,scene_evt200128_cp3_q2_s10,detail,조직의 병사2,おい、起きろ！,"어이, 일어나!"
+Japanese,scene_evt200128_cp3_q2_s10,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q2_s10,detail,바자라가,──以上が、あの中であった事だ。,──이상이 지금까지 있었던 일이다.
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,どうして、よりによって今なんだ……<br>エージェント・カシウスと<br>ようやく会えたっていうのに……,왜 하필이면 이런 때에... 겨우 에이전트 카시우스를 만났나 싶었는데...
+Japanese,scene_evt200128_cp3_q2_s10,detail,베아트릭스,……ああ。どうして今なんだ？<br>なんのためにカシウス連れてった？,그러게. 왜 지금이지? 뭘 하려고 카시우스를 데려간 걸까?
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,…………,…………
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,聴取のために本部に連れてくるよう<br>指令が出ていた。だが目的は別だろう。,명령대로라면 이야기를 듣기 위해 본부에 데려간다고 했다. 하지만 다른 목적이 있겠지.
+Japanese,scene_evt200128_cp3_q2_s10,detail,바자라가,聴取のためというには強硬すぎるな。,그저 이야기를 듣기 위해서라면 지나치게 강경한 대처로군.
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,ああ。優先度・重要度ともに低いという<br>話だったが、とてもそうは思えん。,"그래. 우선도도 중요도도 낮다고 했지만, 도저히 그래 보이지는 않는다."
+Japanese,scene_evt200128_cp3_q2_s10,detail,루리아,あ、あの……<br>組織の人達、カシウスさんに<br>何をする気なんでしょう……,"저, 저기... 조직 사람들은 카시우스 씨에게 무슨 짓을 하려는 걸까요..."
+Japanese,scene_evt200128_cp3_q2_s10,detail,제타,わかんないけど、<br>ロクな事じゃないのは確かね。<br>ユーステスにも隠してたんでしょ？,그건 우리도 몰라. 하지만 보나마나 좋지 않은 일이겠지. 유스테스한테까지 숨기고 있다며?
+Japanese,scene_evt200128_cp3_q2_s10,detail,바자라가,よほど後ろ暗いのだろうな。<br>どうする、ユーステス。,"어지간히 뒤가 구린 일인가 보군. 유스테스, 어떻게 할 거냐?"
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,あまりに動きがおかしい……,움직임이 너무나 이상하다...
+Japanese,scene_evt200128_cp3_q2_s10,detail,,<span class='scene-font-katari'>少し考え込む様子を見せる</span><br><span class='scene-font-katari'>ユーステス。</span>,<span class='scene-font-katari'>유스테스는 잠시 생각하는 듯한 모습을 보였다.</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,中枢に異議を申し立てるため、<br>本部へ向かう。<br>[플레이어]、艇での輸送を頼めるか？,"중추에게 이의를 제기하기 위해서라도 본부로 돌아간다. 단장, 배로 우리를 데려다줄 수 있겠나?"
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,このまま黙っていれば、俺の後ろ盾の<br>ローナンの失権に繋がりかねん。<br>今後の動きのためにも頼みたい。,이대로 가만히 있으면 내 방패인 로난이 실권하게 되는 사태로 이어질 거다. 앞으로의 활동을 위해서라도 부탁하고 싶군.
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,ならば俺達も同行すべきだ。<br>アイザック。,"아이작, 그렇다면 우리도 동행해야 한다."
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,ああ。どうやら僕達も役に立てそうだ。<br>エージェント・カシウスに何かあったら<br>困るからね。,그래. 우리도 도움이 될 수 있을 것 같아. 에이전트 카시우스에게 무슨 일이 생기면 곤란하기도 하고.
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,封印武器に、さっきのジャミングに、<br>先方は月の技術に通じてる。<br>なら、エンジニアの僕の出番もあるさ。,봉인무기에 아까 그 재밍까지... 상대방은 달의 기술을 사용하고 있어. 그렇다면 엔지니어인 내가 나설 차례겠지.
+Japanese,scene_evt200128_cp3_q2_s10,detail,제타,さっき何が起きたのか<br>わかってるってわけ？,아까 무슨 일이 생긴 건지 알고 있다는 말이야?
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,ああ。航路で説明しよう。,그래. 가는 길에 설명할게.
+Japanese,scene_evt200128_cp3_q2_s10,detail,베아트릭스,で、組織の連中、<br>何をしたんだ？<br>みんな急に動けなくなっただろ。,그래서 조직 녀석들은 무슨 짓을 한 건데? 갑자기 다들 못 움직였잖아.
+Japanese,scene_evt200128_cp3_q2_s10,detail,제타,……ていうか、どうしてベアだけ<br>平気だったわけ？<br>バザラガなんか倒れちゃったのに。,...그리고 왜 베아만 멀쩡했던 거야? 바자라가는 쓰러지기까지 했는데.
+Japanese,scene_evt200128_cp3_q2_s10,detail,바자라가,カシウスもだ。<br>俺からすればアレを受けて平気な方が<br>不思議なのだが。,카시우스도 마찬가지다. 내가 느끼기에는 그걸 맞고 태연하게 있는 쪽이 이상할 정도더군.
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,そこに関しては、<br>レイベリィに解説を求めたい。,그 부분에 대해서는 레이베리가 설명해 줄 거야.
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,俺が身をもって体験した事だが、<br>あれは月の装置が放った信号だ。<br>形式からしてかなり古い。,"내가 직접 이 몸으로 체험했다만, 그건 달의 장치에서 뿜어낸 신호다. 형식으로 봤을 때 꽤 오래됐더군."
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,月由来の機械をジャミングして<br>動作を強制停止させる。<br>いわばノインの遠い親戚だ。,달에서 온 기계들에게 재밍을 걸어 동작을 강제정지시키지. 말하자면 노인의 먼 친척같은 거다.
+Japanese,scene_evt200128_cp3_q2_s10,detail,유스테스,それで封印武器が<br>妙な挙動を見せたのか。,그래서 봉인무기가 이상한 행동을 보였던 건가.
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,カシウスは……<br>月の人達は体の一部を<br>機械化しているって言い伝えだからね。,카시우스는... 달에서 온 사람들은 몸의 일부를 기계화했다는 얘기를 들었어. 
+Japanese,scene_evt200128_cp3_q2_s10,detail,제타,バザラガも封印武器の影響を受けたから<br>あんなになったってワケね？,바자라가도 봉인무기의 영향을 받아서 그렇게 됐다는 거겠네?
+Japanese,scene_evt200128_cp3_q2_s10,detail,바자라가,厄介な物を用意していたものだな。<br>封印武器の契約者が反乱を起こすとでも<br>想定していたのか？,귀찮은 물건을 가지고 있군. 봉인무기의 계약자가 반란을 일으켰을 때를 상정해서 준비한 건가?
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,いや、恐らく違うな。<br>お前達の反乱を考慮に入れても、<br>あれは使わんだろう。,"아니, 아마 그건 아닐 거다. 너희가 반란을 일으켰다고 해도 저런 건 쓰지 않겠지."
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,停止信号のチェックサムが合わん。<br>恐らく電池切れだ。,정지신호의 체크섬이 맞지 않아.  아마도 배터리가 다 되었을 거다.
+Japanese,scene_evt200128_cp3_q2_s10,detail,바자라가,…………？,…………？
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,あー……要するに、<br>信号の発信中に燃料が切れて<br>最後まで発信できなかったと？,아... 말하자면 신호를 발신하던 중에 연료가 동나서 마지막까지 발신하지 못했다는 얘기지?
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,恐らくな。封印武器の対策として<br>用意していたのなら、あれを<br>あんな状態で使うわけがない。,아마도. 봉인무기 대책으로 준비해둔 거라면 그걸 그런 상태에서 쓰고 있을 리가 없지.
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,ノインから何世代も前の<br>制御機器か……たぶん僕のギアと<br>同世代の超ビンテージだね。,노인보다도 몇 세대나 전의 제어무기라... 아마 내 기어하고 비슷한 세대의 엄청 오래된 골동품이겠네.
+Japanese,scene_evt200128_cp3_q2_s10,detail,레이베리,これはまた奇遇なものだな。,우연치고는 신기하군.
+Japanese,scene_evt200128_cp3_q2_s10,detail,아이작,まったくだよ。,그러게 말야.
+Japanese,scene_evt200128_cp3_q2_s10,detail,,<span class='scene-font-katari'>カシウスを捕らえ、</span><br><span class='scene-font-katari'>何をしようというのか。</span>,<span class='scene-font-katari'>그들은 카시우스를 붙잡아 무엇을 하려는 것인가.</span>
+Japanese,scene_evt200128_cp3_q2_s10,detail,,<span class='scene-font-katari'>組織の目的を考えながら、</span><br><span class='scene-font-katari'>一行は本部へと向かう。</span>,<span class='scene-font-katari'>조직의 목적에 대해 궁금해하며 그들은 본부로 향했다.</span>
+Japanese,scene_evt200128_cp3_q3_s10,synopsis,,カシウスを取り戻そうと飛び立った一行は、本部に潜むイルザの内通によって「中枢が槍を欲している」と知る。カシウスに続きノインまで必要としているという状況から、「中枢は月に行く気なのか」と推測が立つ。兵達の対機神用装備が充実してきたとはいえ、依然として最大戦力は封印武器のはずである。果たして機神達の本拠地に行って中枢は何をする気なのか、一行の疑問は深まるばかりだった。,"카시우스를 되찾으려고 출발한 일행은, 본부에 숨어 있는 일행의 내통에 의해서  「중추가 창을 원하고 있다」라는 것을 알게 된다. 카시우스에 이어 노인까지 필요로 한다는 상황에서 중추는 달에 갈 생각이냐는 추측이 나온다. 병사들의 대 기신용 장비가 충실해졌다고는 하나, 여전히 최대 전력은 봉인무기일 터이다. 과연 기신들의 본거지로 가서 중추는 무엇을 하겠다는 것인지 일행의 궁금증은 깊어만 갔다."
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q3_s10,detail,,<span class='scene-font-katari'>拘束されたカシウスは</span><br><span class='scene-font-katari'>組織の兵達に取り囲まれていた。</span>,카시우스는 쇠사슬로 묶인 채 조직 병사들 사이에 둘러싸여 있었다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사2,旅行者。<br>槍について聞かせてもらおう。,여행자. 창에 대해서 말해라.
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,槍。長い柄の先に刃物を取り付けた<br>白兵戦用の武器だ。矛とよく似ているが<br>穂の取り付け方法によって区別される。,창. 긴 자루 끝에 칼날을 붙인 백병전용 무기이다. 미늘창과 비슷하지만 창날을 붙인 방법에 따라 구분할 수 있다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사2,槍の説明など求めていない！<br>その所在を問うているのだ！,창에 대해 설명하라는 얘기가 아냐! 어디에 뒀냐고 묻고 있는 거다!
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,ふむ……<br>それならば、心当たりがある。,흠... 그거라면 짐작가는 데가 있다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,この部屋に繋がる廊下に<br>立てかけてあっただろう。<br>全て品質は良好といえる。,이 방으로 이어지는 복도에 기대어져 있던데? 전부 질 좋아 보이는 물건이었다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사2,……はぐらかすな貴様！<br>貴様の持っていた槍だ！,"...이 자식, 얼렁뚱땅 넘어가지 마라! 네가 가지고 있던 창 말이다!"
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,俺は槍など所有してはいない。<br>前提として、俺の装備は全て支給品だ。<br>所有権が俺にあるわけではない。,나는 창을 소유하고 있지 않다. 우선 그 전제로 내 장비는 전부 지급품이다. 그 소유권은 내게 있지 않지.
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사2,<span class='scene-font-4'>だーかーらー！</span>,<span class='scene-font-4'>아 그러니까!!!!!</span>
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사,……は。<br>尋問を行ってはいますが要領を得ず……,...예. 심문을 계속하고는 있습니다만 도통 협조해주질 않아서...
+Japanese,scene_evt200128_cp3_q3_s10,detail,중추,<span class='scene-font-gray'>槍を急ぐ。</span><br><span class='scene-font-gray'>男を生かすに物理的な説得が構わない。</span>,<span class='scene-font-gray'>창을 서두른다. 남자를 살린다면 물리적인 설득이 상관없다.</span>
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사,物理的な説得、というと……,물리적인 설득이라고 하시면...
+Japanese,scene_evt200128_cp3_q3_s10,detail,중추,<span class='scene-font-gray'>火、水、刃物、虫、毒、</span><br><span class='scene-font-gray'>物理的、精神的が苦痛に提供する。</span><br><span class='scene-font-gray'>槍に早急する対処を求めよ。</span>,"<span class='scene-font-gray'>불, 물, 날붙이, 벌레, 독. 물리적, 정신적으로 고통을 제공한다. 창을 우선한 대처를 요구.</span>"
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사,つまり、拷問せよと。,즉 고문하라는 말씀이십니까.
+Japanese,scene_evt200128_cp3_q3_s10,detail,중추,<span class='scene-font-gray'>肯定しかねない。その手段に。</span>,<span class='scene-font-gray'>긍정한다. 그 수단으로.</span>
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사,……了解。,...알겠습니다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,,<span class='scene-font-katari'>返答ののちに伝声機は切れる。</span>,<span class='scene-font-katari'>답변을 하자 통신이 끊어졌다.</span>
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사2,中枢はなんと？,중추가 뭐라고 했습니까?
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사,手段を問わず尋問しろと。,수단을 가리지 말고 심문하라더군.
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,…………,…………
+Japanese,scene_evt200128_cp3_q3_s10,detail,카시우스,......ｾﾁﾆﾐﾉﾆﾘﾘｲｽ ﾁｿｶﾆﾋﾁｶｲ.,.....Vacittae praknilesil.
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사,しかし、中枢の様子がおかしい。<br>言葉がまぜこぜになったような……,그런데 중추의 상태가 이상해. 말투가 엉망이던데...
+Japanese,scene_evt200128_cp3_q3_s10,detail,조직의 병사2,かなり焦っているようだが、<br>一体何があったというのだ……？,꽤나 서두르고 있는 모양인데... 대체 무슨 일인 걸까?
+Japanese,scene_evt200128_cp3_q3_s10,detail,이루자,…………,…………
+Japanese,scene_evt200128_cp3_q3_s10,detail,,<span class='scene-font-katari'>カシウス取り調べの様子を見たイルザは</span><br><span class='scene-font-katari'>場所を変えて伝声機を取り出した。</span>,<span class='scene-font-katari'>카시우스의 심문을 지켜보고 있던 이루자는 장소를 바꿔 전성기를 꺼내들었다.</span>
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,<span class='scene-font-gray'>状況を頼む。</span>,<span class='scene-font-gray'>상황 설명 부탁한다.</span>
+Japanese,scene_evt200128_cp3_q3_s10,detail,이루자,カシウスは今のところ無事だ。<br>しかし中枢はウジ虫どもに<br>「手段を択ばず槍の所在を聞け」と。,"카시우스는 아직까진 무사하다. 하지만 중추의 구더기 놈들이 ""수단을 가리지 말고 창이 어디 있는지 알아내라"" 라더군."
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,……槍だと？,...창이라고?
+Japanese,scene_evt200128_cp3_q3_s10,detail,이루자,ああ。中枢はよほど槍が欲しいらしい。<br>ウジ虫どもに何をさせるかわからん。<br>中枢に異議を申し立てるなら急げ。,그래. 중추는 어지간히 창이 갖고 싶은 모양이다. 구더기들이 무슨 일을 벌일지 알 수 없어. 중추에게 이의를 제기할 생각이라면 서둘러라.
+Japanese,scene_evt200128_cp3_q3_s10,detail,이루자,尋問係は私の指揮下にはない連中だ。<br>私から多少の足止めはできても、<br>止めるには至らんからな。,심문 담당은 내가 지휘하지 않는 녀석들이다. 내가 다소 개입할 수 있을지는 몰라도 막는 것까지는 불가능하겠지.
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,了解した。<br>手間を取らせて悪いが、引き続き頼む。,알았다. 수고하게 해서 미안하지만 계속 부탁한다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,제타,組織の中枢が焦ってる？,조직 중추가 초조해하고 있다고?
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,ああ。旅行者の連行命令が来て以来、<br>指令が二転三転している。,그래. 여행자에게 연행 명령이 떨어진 이후로도 두 번 세 번씩 지령이 내려왔었다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,旅行者の槍を手に入れるために<br>死に物狂いと言った様子だ。,여행자의 창을 손에 넣기 위해서 필사적인 듯한 모습이더군.
+Japanese,scene_evt200128_cp3_q3_s10,detail,레이베리,ふむ……時が来た、ということか。,흠... 때가 되었다는 것인가.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,まさか……,설마...
+Japanese,scene_evt200128_cp3_q3_s10,detail,레이베리,そのまさかだろう。,그 설마가 맞을 거다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,ユーステス君、<br>エージェント・カシウスを<br>連れてこいって言われたのはいつだい？,유스테스 군. 에이전트 카시우스를 데려오라는 말이 나온 건 언제야?
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,２日前、夕刻だ。,이틀 전 저녁때다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,僕が月から通達を受けたのも<br>その時刻だ。,내가 달에서 보내온 통신을 받은 것도 그 때쯤이야.
+Japanese,scene_evt200128_cp3_q3_s10,detail,레이베리,同じ通達を、組織の中枢とやらが<br>傍受していた……そうとれるな。,조직의 중추라는 녀석들이 같은 내용을 도청했다고 생각할 수 있겠군.
+Japanese,scene_evt200128_cp3_q3_s10,detail,베아트릭스,……中枢はカシウスを、<br>月に帰したくなかったのか？,...중추는 카시우스를 달에 돌려보내고 싶지 않은 거야?
+Japanese,scene_evt200128_cp3_q3_s10,detail,레이베리,いや。中枢とやらは<br>月へ行こうとしているのかもしれん。,"아니, 중추 녀석들은 달에 가려고 하는 것일지도 모른다."
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,その根拠は？,그 근거는 뭐지?
+Japanese,scene_evt200128_cp3_q3_s10,detail,레이베리,エージェント・カシウスを<br>帰したくないなら、<br>あの場で殺害すれば済んだことだ。,에이전트 카시우스를 돌려보내고 싶지 않다면 그 자리에서 살해하면 끝날 일이니까.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,おまけに、槍……<br>ノインまで欲しがってるみたいだしね。,게다가 창... 노인을 원하는 것 같던데.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,だとしたら、<br>当面エージェント・カシウスは<br>無事なはずだよ。,그렇다면 당분간 에이전트 카시우스는 무사할 거야.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,さっきのジャミング装置もだけど<br>重要度の高い月の機械を使うときは<br>大抵、使用者の認証が入るんだ。,"아까 그 재밍 장치도 그렇고, 중요도 높은 달의 기계를 쓰려고 한다면 대체로 사용자의 인증이 필요하거든."
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,月に行くならノインの計算能力が<br>必要だ。ノインの起動には、当然、<br>カシウス本人の認証が要る。,달에 가려고 한다면 노인의 계산능력이 필요해. 노인을 기동하려면 당연히 카시우스 본인의 인증이 필요하고. 
+Japanese,scene_evt200128_cp3_q3_s10,detail,레이베리,見た限り、登録者は<br>エージェント・カシウスひとりだ。<br>あの男が死ねば月へは行けん。,이걸 보니 등록자는 에이전트 카시우스 한 사람뿐이다. 그 남자가 죽으면 달에 갈 수 없어.
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,その通りだ、相棒。そして、<br>先方がそれに気づかないハズがない。<br>新世代の認証の突破が難しい事もね。,"네 말대로야, 파트너. 그리고 저 쪽에서 그걸 깨닫지 못했을 리가 없어. 신세대 무기의 인증은 돌파하기가 어렵다는 것도 말야."
+Japanese,scene_evt200128_cp3_q3_s10,detail,아이작,ビンテージのマシンをハックして動かす<br>超ダクトなエンジニアが<br>向こうにはいるわけだから。,골동품 머신이라면 해킹시켜서 움직일 수 있는 엄청 덕트한 엔지니어가 저 쪽에 있는 모양이니까.
+Japanese,scene_evt200128_cp3_q3_s10,detail,베아트릭스,待ってくれ、どういうことだ？<br>月に乗り込むとして、<br>何する気なんだ？,"잠깐, 그게 무슨 소리야? 달에 가서 뭘 하려는 건데?"
+Japanese,scene_evt200128_cp3_q3_s10,detail,제타,月の連中と全面戦争、とか……,달 녀석들하고 전면전을 벌인다던가...
+Japanese,scene_evt200128_cp3_q3_s10,detail,바자라가,ありうるのか？<br>兵達の対機神用の装備が<br>整いはじめたとはいえ。,그게 말이 되나? 병사들의 대 기신용 장비가 갖춰지기 시작했다고는 해도...
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,しかし万全とはいえん。<br>依然、最大戦力は封印武器だ。,완전하다고는 할 수 없지. 여전히 최대의 전력은 봉인무기다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,유스테스,封印武器の契約者である俺達に<br>指令が下りてくる気配はなかった。,봉인무기의 계약자인 우리에게 명령이 내려올 기색은 업었다.
+Japanese,scene_evt200128_cp3_q3_s10,detail,제타,あたし達抜きで月に行っても、<br>機神相手に勝ち目はないのに……<br>だけど急いで月に行く？,우릴 빼고 달에 가면 기신을 상대해서 이길 수 없을 텐데.... 그런데도 서둘러서 달에 가려고 한다고?
+Japanese,scene_evt200128_cp3_q3_s10,detail,베아트릭스,ぐぐ……組織が何をしたいのか<br>全然わかんないぞ……<br>ある意味いつもの事だけど……,으으... 조직이 뭘 하고 싶은 건지 전혀 모르겠어. 하긴 언제나 그렇긴 하지만...
+Japanese,scene_evt200128_cp3_q4_s20,synopsis,,組織の本部では、中枢の意図を知った別の幹部が策を練っていた。兵達を動かし、中枢の思惑を止めようとしているようだ。一方、組織の本部へ航行中の[플레이어]達はイルザの連絡を通じて組織の内情を把握する。やはり月で戦う用意があるとは思えず、さらに疑問は深まる。するとイルザが突如として悲鳴をあげ、通信が途絶した。その身を案ずる一行のもとへ、巨大な機械らしきものが現れ、襲いかかった。,"조직의 본부에서는, 중추의 의도를 알게된 다른 간부가 대책을 짜고 있었다. 병사를 움직여 중추의 속셈을 막으려는 것 같다. 한편, 조직 본부로 항행 중인 [플레이어] 일행은 이루자의 연락을 통해 조직의 내정을 파악한다. 역시 달에서 싸울 의도라고는 생각되지 않고, 한층 더 의문은 깊어진다. 그러던 도중, 갑자기 이루자의 비명과 함께 통신이 두절됐다. 그런 이루자를 걱정하는 일행에게, 거대한 기계같은 자가 나타나 덤벼들었다."
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사,……状況は？<br>旅行者は槍の情報を吐いたか？,...상황은? 여행자는 창에 대한 정보를 불었나?
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사2,いえ、駄目です。<br>何をしてもどこ吹く風で……,아뇨. 무슨 짓을 해도 소용이 없습니다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,카시우스,ふむ……<br>ガラスのビンなど用意して、<br>何に使う気だ？,흠... 유리병을 준비하다니 뭘 하려는 생각이지?
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사3,……こうするんだ！,...이렇게 하려는 거다!
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>兵はカシウスの口へと</span><br><span class='scene-font-katari'>ビンをねじ込むと、</span><br><span class='scene-font-katari'>己の拳を撫でてみせる。</span>,"<span class='scene-font-katari'>병사는 카시우스의 입에 병을 밀어넣더니, 자신의 주먹을 쓰다듬었다.</span>"
+Japanese,scene_evt200128_cp3_q4_s20,detail,카시우스,もが……,으읍...
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사3,どうしても口を割らないというのなら、<br>このまま貴様の顔に一撃食らわせて<br>口の中をズタズタにしてやる！,무슨 짓을 해도 입을 열지 않을 생각이라면 이대로 네 얼굴에 주먹을 날려서 입 안을 갈기갈기 찢어 주마!
+Japanese,scene_evt200128_cp3_q4_s20,detail,카시우스,もご。,으읍.
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>当のカシウスは恐れる様子もない。</span><br><span class='scene-font-katari'>そればかりか──</span>,<span class='scene-font-katari'>그러나 카시우스 본인은 두려워하는 기색을 보이지 않았다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>バキンと派手な音をたてて</span><br><span class='scene-font-katari'>自らビンを噛み砕いてしまう。</span>,<span class='scene-font-katari'>오히려 시끄러운 소리와 함께 직접 병을 꽉 물어 깨뜨리고 말았다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,카시우스,もぐもぐ……,우물우물...
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사3,な……！？,...!?
+Japanese,scene_evt200128_cp3_q4_s20,detail,카시우스,ごくん。,꿀꺽.
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사3,<span class='scene-font-4'>飲み込んだだと！？</span><br>お、お前それ<br>なんともないのか！？,"<span class='scene-font-4'>그걸 먹었다고?</span> 너, 너 그래도 아무렇지도 않은 거야?"
+Japanese,scene_evt200128_cp3_q4_s20,detail,카시우스,助かった。ちょうど<br>珪素が不足していた所でな。これは<br>体の強度に関わる貴重な栄養源だ。,고맙다. 마침 규소가 부족하던 참이었거든. 이것은 신체 강도와 관련된 귀중한 영양소다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사,……ガラスのビンを食っただと？,...유리병을 먹었다고?
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사2,はい。<br>万が一にも殺すなと言われていますが、<br>生半可な手では、もう……,"네. 혹시라도 죽이지 말라는 얘기를 듣기는 했는데, 이미 어중간한 수단은 통하지 않는 상태라..."
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사,……わかった。<br>火と刃物を用意しろ。<br>効くかわからんが、毒もだ。,...알았다. 불과 칼을 준비해라. 먹힐지는 모르겠지만 독도.
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>情報を得るのか、</span><br><span class='scene-font-katari'>カシウスに苦痛を与えるのか、</span><br><span class='scene-font-katari'>その目的すら見失いかける兵達。</span>,<span class='scene-font-katari'>병사들은 이미 정보를 얻고 싶은 것인지 카시우스에게 고통을 주고 싶은 것인지 원래 목적조차 잊어버린 상태였다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,간부,…………,…………
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>その様子を影から盗み見る</span><br><span class='scene-font-katari'>ひとりの男がいた。</span>,<span class='scene-font-katari'>그리고 그런 상황을 몰래 훔쳐보는 한 남자가 있었다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,간부,いるか？,거기 있나?
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사4,ええ、ここに。,여기 있어.
+Japanese,scene_evt200128_cp3_q4_s20,detail,간부,中枢の動きは？,중추의 움직임은 어떻지?
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사4,[플레이어]達がカシウス救出に<br>動き出したことを察知して、<br>中枢は刺客を差し向けたわ。,[플레이어] 일행이 카시우스를 구출하려 나섰다는 것을 탐지한 중추에서는 자객을 보냈지. 
+Japanese,scene_evt200128_cp3_q4_s20,detail,간부,……いよいよ時が迫ったか。<br>こちらも動くぞ。,...드디어 때가 된 모양이군. 우리도 움직인다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사4,イルザ隊を動かすのね？,이루자 부대를 움직이려는 거지?
+Japanese,scene_evt200128_cp3_q4_s20,detail,간부,ああ。<br>中枢の思惑通りにはさせん。<br>私はそのためにあの隊を編成した。,그래. 중추가 마음대로 행동하게 놔둘 수는 없어. 나는 그걸 위해서 이 부대를 편성한 거다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,간부,兵達に招集をかけろ。<br>私からイルザへ指令を出す。,병사들을 소집해라. 내가 직접 이루자에게 명령을 내리지.
+Japanese,scene_evt200128_cp3_q4_s20,detail,조직의 병사4,ふふ、了解。,"후후, 알았어."
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,イルザ、そちらの動きは？,"이루자, 그쪽 움직임은 어떻지?"
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>月に行く計画があるなどとは思えん。</span>,<span class='scene-font-gray'>달에 가려는 계획이 있는 것 같지는 않다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>最近の記録から遡り、数年分の</span><br><span class='scene-font-gray'>人・物・金の出入りを確認したが</span><br><span class='scene-font-gray'>怪しい所は見つからなかった。</span>,"<span class='scene-font-gray'>최근의 기록을 거슬러 올라가며 수년 분의 사람/물건/돈의 흐름을 확인했지만, 수상한 점은 발견되지 않았다.</span>"
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,そうか。<br>僅かに帳尻が合わない箇所もないな？,그렇군. 희미하게 아귀가 맞지 않는 부분도 없나?
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>ああ。</span><br><span class='scene-font-gray'>年数をかけて裏金や物資を集めた</span><br><span class='scene-font-gray'>気配はない。改竄の形跡もだ。</span>,<span class='scene-font-gray'>그래. 몇 년에 걸쳐 비자금과 물자를 빼돌리는 듯한 기색은 보이지 않는군. 조작한 흔적도 없고.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>仮に何かあるとすれば、</span><br><span class='scene-font-gray'>個人の暴走によるものだろう。</span>,<span class='scene-font-gray'>만일 뭐가 있다고 한다면 개인이 폭주해서 벌이는 짓이겠지.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>だが、到底考えられん。</span><br><span class='scene-font-gray'>単身、あの機神どもの</span><br><span class='scene-font-gray'>本拠地に飛び込むだと……？</span>,<span class='scene-font-gray'>하지만 도저히 그럴 거라고는 생각되지 않는다. 혼자서 그 기신들의 본거지에 뛰어들겠다고?</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,仮に兵の頭数が揃っていたとして<br>備えが不十分に過ぎる。,설령 병사들을 충분히 모았다고 해도 대비가 너무도 불충분하다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>ああ。</span>,그렇지.
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,旅行者は？,여행자는?
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>あちらに目立った動きはない。</span><br><span class='scene-font-gray'>旅行者は相変わらず</span><br><span class='scene-font-gray'>尋問室でウジ虫どもを振り回している。</span>,<span class='scene-font-gray'>딱히 눈에 띄는 움직임은 없다. 여행자는 여전히 심문실에서 구더기들에게 휘둘리고 있는 중이지.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>本格的に危害が及ぶのも時間の問題だ。</span><br><span class='scene-font-gray'>どうにか口実を作り、あの旅行者を</span><br><span class='scene-font-gray'>こちらで保護できるよう努める。</span>,<span class='scene-font-gray'>본격적인 위해가 가해지는 것도 시간 문제일 뿐이다. 어떻게든 구실을 만들어 여행자를 이쪽에서 보호할 수 있도록 노력해 보겠다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,頼む。,부탁한다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>……人が来た。切るぞ。</span>,<span class='scene-font-gray'>...사람이 오는군. 끊는다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,남자의 목소리,<span class='scene-font-gray'>イルザ。……だ。</span><br><span class='scene-font-gray'>………………私に……い。</span>,<span class='scene-font-gray'>이루자. ....다. ....나와 ... ......해라.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>ハイゼンベルク殿……</span>,<span class='scene-font-gray'>하이젠베르크 님...</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>伝声機の切断間際、</span><br><span class='scene-font-katari'>僅かに漏れ聞こえた声に</span><br><span class='scene-font-katari'>ユーステスの眉が動く。</span>,"<span class='scene-font-katari'>통신이 끊어지는 순간, 희미하게 들려온 목소리를 듣고 유스테스의 눈썹이 움찔거렸다.</span>"
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,<span class='scene-font-kokoro'>（……ハイゼンベルクだと？</span><br><span class='scene-font-kokoro'>あの兵達……</span><br><span class='scene-font-kokoro'>封印武器への対抗部隊の設立者か）</span>,<span class='scene-font-kokoro'>(...하이젠베르크라고? 그 병사들... 봉인무기 대항부대의 설립자가 아닌가)</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,비,なあ、仏頂面の兄ちゃん。<br>目的地はわかったけど、<br>針路はホントにこっちでいいのか？,"저기, 무뚝뚝한 형님. 목적지는 알겠는데 침로 진짜 이대로 해도 괜찮겠어?"
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,ああ。イルザに兵達の動きを聞いた限り<br>本部への最短経路には<br>中枢の刺客がいるはずだ。,그래. 이루자에게 들은 병사들의 움직임을 생각해 보면 본부로 가는 최단경로에는 중추의 자객들이 기다리고 있을 거다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,そんなの蹴散らしちゃえばいいだろ？<br>カシウスが危ないんだしさ……,그냥 다 쓰러뜨려 버리면 되잖아? 지금 카시우스가 위험한 상황인데...
+Japanese,scene_evt200128_cp3_q4_s20,detail,바자라가,兵の展開規模もわからんからな。<br>いちいち相手にしていれば、かえって<br>時間を取られかねん。急がば回れだ。,병사들이 얼마나 있는지도 모르지 않나. 일일히 상대하고 있으면 오히려 시간이 더 걸릴 거다. 급할수록 돌아가라고 하지.
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,悠長な感じがしてあたしも嫌だけど、<br>仕方ないか……,나도 너무 느긋한 느낌이라 별로긴 하지만 어쩔 수 없겠네...
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,念のため交代で見張りをする。<br>他は今のうちに休息を取れ。,혹시 모르니 교대하면서 망을 보겠다. 다른 사람들은 지금 사이에 쉬어 두도록.
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,くそぉ……<br>休むったって気が休まらないよ……,제길... 쉰다고 하도 마음이 진정되질 않는걸...
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>ぼやくベアトリクスをなだめるも、</span><br><span class='scene-font-katari'>各々気が気でないのは確かだった。</span>,<span class='scene-font-katari'>그런 베아트릭스를 다독이는 다른 사람들도 마음이 무겁기는 마찬가지였다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>カシウスの安否、組織の中枢の思惑。</span><br><span class='scene-font-katari'>大きく動き始めた状況を考えるあまり</span><br><span class='scene-font-katari'>皆は食事の味も感じず時間経過を待つ。</span>,"<span class='scene-font-katari'>카시우스의 안부. 조직 중추의 꿍꿍이. 급변하는 상황에 대해 깊은 생각에 빠진 나머지, 그들은 식사가 무슨 맛인지도 느끼지 못한 채 시간이 지나가기만을 기다리고 있었다.</span>"
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>遠い雲の切れ間に</span><br><span class='scene-font-katari'>組織の艇の影が見え、</span><br><span class='scene-font-katari'>緊張が走る事もあったが──</span>,<span class='scene-font-katari'>머나먼 구름 사이로 조직의 배처럼 보이는 그림자가 보여 긴장하는 일도 있었다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>ユーステスの思惑通り、</span><br><span class='scene-font-katari'>中枢の刺客と遭遇する事はなかった。</span>,<span class='scene-font-katari'>그러나 유스테스의 예상대로 중추가 보낸 자객과 마주치게 되는 일은 없었다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>やがてグランサイファーは、</span><br><span class='scene-font-katari'>航路のおよそ８割９割を何事もなく飛び</span><br><span class='scene-font-katari'>目と鼻の先の本部に無事辿り着く──</span>,<span class='scene-font-katari'>이윽고 그랑사이퍼는 항로의 80% 이상을 별일 없이 항해한 후 본부에 거의 다 도착──</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>そう思っていた矢先のこと。</span>,<span class='scene-font-katari'>했다고 생각하던 때였다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자의 목소리,<span class='scene-font-gray scene-font-4'>ユーステス！ ユーステス！</span><br><span class='scene-font-gray scene-font-4'>応答しろ！</span>,<span class='scene-font-gray'>유스테스! 유스테스! 응답하라!</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,緊急通信……！？,긴급통신!?
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,イ……イルザさん！？<br>何があったの！？,이......이루자 씨!? 무슨 일이야!?
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>ユーステスの伝声機は、着信も告げずに</span><br><span class='scene-font-katari'>イルザの声を最大音量で流し始める。</span>,유스테스의 전성기가 착신을 알리는 진동도 없이 최대음량으로 이루자의 목소리를 흘려보내기 시작했다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray scene-font-4'>旅行者の槍を死守しろ！</span><br><span class='scene-font-gray'>中枢の目的に確証はない！ しかし！</span>,<span class='scene-font-gray scene-font-4'>여행자의 창을 사수해라!</span><br><span class='scene-font-gray'> 중추의 목적이 무엇인지는 아직 확증할 수 없다! 하지만!</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,이루자,<span class='scene-font-gray'>中枢はきし──</span>,<span class='scene-font-gray'>중추는 기ㅅ──</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,？？？,<span class='scene-font-gray'>────……</span>,<span class='scene-font-gray'>────……</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>イルザの声は衝撃音にかき消される。</span>,<span class='scene-font-katari'>이루자의 목소리가 커다란 폭발음과 함께 사라졌다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,루리아,ひっ……！？,에!?
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>伝声機は、それを最後に</span><br><span class='scene-font-katari'>雑音を流すだけとなった。</span>,<span class='scene-font-katari'>전성기는 그것을 끝으로 잡음만을 흘려보낼 뿐이었다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,…………！,…………！
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,な、なあ……ユーステス、<br>教官は！？ 教官はどうなったんだ！？<br>なあ！,"저, 저기 유스테스. 교관은? 교관은 어떻게 된 거야? 응?"
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,わからん。だが、通信が<br>できる状態でないのは確かだ。,나도 모른다. 하지만 통신이 가능한 상황이 아닌 것만은 확실하다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,……覚悟はしておけ。,...각오해 둬라.
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,…………ッッ！！！！,…………윽！！！！
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>拳を握りしめ、顔を真っ赤にして</span><br><span class='scene-font-katari'>ベアトリクスは声もなく震える。</span>,<span class='scene-font-katari'>베아트릭스는 빨개진 얼굴로 주먹을 꽉 쥐고 소리 없이 떨었다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타 일행,…………,…………
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스 일행,…………,…………
+Japanese,scene_evt200128_cp3_q4_s20,detail,비 일행,…………,…………
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>イルザからの通信が途切れてから、</span><br><span class='scene-font-katari'>しばらく誰も口を開けずにいた。</span>,<span class='scene-font-katari'>이루자가 보낸 통신이 끊긴 후로 일행은 한동안 아무 말도 꺼내지 못했다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,레이베리,……さて。これからどうする？,...그럼 이제부터 어떻게 할 생각이지?
+Japanese,scene_evt200128_cp3_q4_s20,detail,아이작,相棒……<br>また妙な所で口を挟むなって……,파트너... 또 이런 상황에 말을 꺼낸다니까...
+Japanese,scene_evt200128_cp3_q4_s20,detail,레이베리,だが、残り僅かな時間を使い<br>何かを伝えようとしたイルザの思いを<br>無駄にするのも合理的ではない。,하지만 얼마 안 되는 남은 시간을 써서라도 뭔가를 전달하려고 한 이루자의 의지가 무색해진다면 그것은 합리적이지 못한 행동이다.
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,お前っ……！<br>それじゃまるで教官が……！,너...! 그런 식으로 말하면 꼭 교관이...!
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,……ねえ、<br>あたし達に何を伝えようとしたの、<br>イルザさんは。,...있지. 이루자 씨는 우리한테 뭘 전하려고 했던 걸까?
+Japanese,scene_evt200128_cp3_q4_s20,detail,레이베리,俺に判る事はそう多くない。<br>ただ……,내가 알 수 있는 것은 많지 않다. 단지...
+Japanese,scene_evt200128_cp3_q4_s20,detail,레이베리,イルザを襲ったと思われる存在は、<br>何かをわめきながら<br>こちらに近づいてきている。,이루자를 습격했다고 생각되는 존재는 뭔가를 크게 외치며 이 쪽으로 다가오고 있군.
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>レイベリィの指す先に、</span><br><span class='scene-font-katari'>小さく影が見える。</span>,<span class='scene-font-katari'>레이베리가 가리킨 곳에 조그마한 그림자가 보였다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,유스테스,本部からの刺客か？,본부가 보낸 자객인가?
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>組織の兵達の襲撃に備え、</span><br><span class='scene-font-katari'>身構える一行。</span>,<span class='scene-font-katari'>일행은 조직 병사들의 습격에 대비하기 시작했다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,兵隊が何人来ようと、<br>私が蹴散らしてやるからな……！,병사 몇 명을 보내든 내가 다 쓰러뜨려 주겠어...!
+Japanese,scene_evt200128_cp3_q4_s20,detail,루리아,ううん……違います……<br>なにかもっと別の、<br>いやな物の気配が……！,아뇨... 아니에요. 이건 뭔가 다른... 기분나쁜 느낌이 들어요!
+Japanese,scene_evt200128_cp3_q4_s20,detail,？？？,────……！！！！,────……！！！！
+Japanese,scene_evt200128_cp3_q4_s20,detail,베아트릭스,機神……！？<br>あれが教官が言おうとしてた奴か！？,기신...? 저게 교관이 말하려고 했던 녀석인가?
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,なんだろ……<br>なんか変な感じがする……！,뭐지... 뭔가 이상한 느낌이 들어!
+Japanese,scene_evt200128_cp3_q4_s20,detail,？？？,────……！,────……！
+Japanese,scene_evt200128_cp3_q4_s20,detail,바자라가,ち……！,큭...!
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>機神と思しき敵は指先から</span><br><span class='scene-font-katari'>雷を放ち、バザラガを捉える。</span>,<span class='scene-font-katari'>기신처럼 보이는 적은 손 끝에서 번개를 내쏘아 바자라가를 붙잡았다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,ふん……！<br><span class='scene-font-4'>隙ありっ！</span>,흥...! <span class='scene-font-4'>지금이야!</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,？？？,────……！,────……！
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,うおっ！？,으아!?
+Japanese,scene_evt200128_cp3_q4_s20,detail,,<span class='scene-font-katari'>一撃を見舞おうとするゼタへ</span><br><span class='scene-font-katari'>敵は颶風を放ち、</span><br><span class='scene-font-katari'>その動きを封じる。</span>,<span class='scene-font-katari'>적은 빈틈을 노려 일격을 꽃아넣으려던 제타에게 돌풍을 날려보내 그녀의 움직임을 막았다.</span>
+Japanese,scene_evt200128_cp3_q4_s20,detail,제타,……やっぱり、なんか変な感じ！,...역시 뭔가 이상해!
+Japanese,scene_evt200128_cp3_q4_s20,detail,바자라가,ああ。<br>初めて戦う相手という気がしない。,그래. 처음 싸우는 상대라는 느낌이 들지 않는군.
+Japanese,scene_evt200128_cp3_q4_s20,detail,바자라가,違和感もあるが、正体を探るのは後だ。<br>迎撃するぞ。,위화감은 있지만 정체를 밝혀내는 것은 나중이다. 반격하자.
