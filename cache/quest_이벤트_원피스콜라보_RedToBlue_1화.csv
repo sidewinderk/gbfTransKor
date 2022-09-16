@@ -1,0 +1,193 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt220914_cp1_q1_s10,synopsis,,ある日、快晴の空を航行していた[플레이어]達の前に、巨大な積乱雲が現れる。その雲の中に、巨大な海月の姿を見る一行。やがてグランサイファーを眩しい光が包み込むと、[플레이어]達と甲板にいた仲間達は海月に吸い込まれてしまうのだった。
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>空──</span><br><span class='scene-font-katari'>どこまでも広がる一面の蒼。</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>そのただなかを一隻の騎空艇が飛び、</span><br><span class='scene-font-katari'>真夏の直射日光を一身に浴びている。</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>地平線には大きな積乱雲が立ち上り、</span><br><span class='scene-font-katari'>艇を歓迎する様にも拒む様にも見え、</span><br><span class='scene-font-katari'>空の世界は今日も冒険日和であった。</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あはは♪<br>風が心地いいぜ！<br>部屋にいるよりずっと涼めるぞ。
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,空気が澄んでて何だか生き返りますね！<br>今日は特に空の色が鮮やかに見えます。
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こういうのを味わえるのが、<br>騎空士の醍醐味だよなぁ。<br>冒険の御褒美みたいに思えて来るぜ。
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,なぁ[플레이어]！
+Japanese,scene_evt220914_cp1_q1_s10,sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>冒険万歳だね</span></span>
+Japanese,scene_evt220914_cp1_q1_s10,sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>苦労も多いけど……</span></span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,だよな！<br>さすが騎空団の団長だぜ！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,にしし！<br>団長って立場だと色々大変だよな。<br>まぁ次の島までは気楽にいこうぜ。
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ、ふたりとも。<br>あっちにも団員さん達がいますよ。<br>皆さんもここで涼んでるのかなぁ？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁほんとだぜ。<br>確かに何人か見えるけど……<br>日陰だと誰が誰だかわかんねえな。
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,そっちの奴は昼寝か？<br>こっちの奴は機械か何か弄ってて──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はあ？<br>船首にいるアイツは何で水着なんだよ？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あはは……<br>お肌を焼いてるとか……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおいバカンスかよ……<br>空の上ったって危険はあるだろ。
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,まぁでも今日は快晴ですので。<br>魔物とか近づいて来ても一目で──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お……？<br>何だぁ？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ……！<br>ふたりとも見てください！<br>変な雲が空を覆ってます！
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>ハッと頭上を見る[플레이어]。</span><br><span class='scene-font-katari'>そこには綿飴の様な雲が渦を巻き、</span><br><span class='scene-font-katari'>日を遮って空一面に広がっていた。</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,うひゃあ……！<br>こりゃあ積乱雲の類か……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,とっても大きいですね……<br>島が何個か収まっちゃうほど……
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,でもいつの間にここまで……<br>だってさっきまで快晴だったんだぜ？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う～ん……<br>この雲は本当に積乱雲──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウヒィッ……！<br>何だ、雷でも光ったのか？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こりゃあちょっとマズイな……<br>ここはひとまず嵐に備えようぜ！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,わ、わかりました！<br>私は洗濯ものを取り込んで来ます！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁ任せたぜ！<br>[플레이어]は団員達に指示を──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,て、ちょっと待てよ？<br>えっと、その、ルリア……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,何ですかビィさん？<br>急がないと雷が落ちてきちゃいますよ！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お、おう……<br>でも、お前、平気なのか……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ちょっとビィさん！<br>平気って何を言って──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,……うん？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-4'>はわぁ！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う、浮いてる？<br>私なんか、宙に浮いてませんか！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおい……！<br>いったい何が起きたってんだ？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,この現象も積乱雲のせいなのか？<br>[플레이어]は何か知ってるか──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,<span class='scene-font-4'>て、お前もかよ！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>いつの間にか[플레이어]も、</span><br><span class='scene-font-katari'>ルリアと同様フワフワ宙に浮いており、</span><br><span class='scene-font-katari'>もがいても足は空を切るばかりだった。</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ひゃい！<br>今度は何ですか……！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,わかんねえ……！<br>でもこりゃあ明らかに……<br>オイラ達を狙って当ててきたぞ！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,私達を狙って……？<br>そんなのまるで生きてるみたいな……
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>再び頭上を見る[플레이어]達。</span><br><span class='scene-font-katari'>すると雲の渦が徐々におさまり、</span><br><span class='scene-font-katari'>そこに浮かび上がってきたのは……</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はぁ……！？<br>この形はまさか……
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-spword'>“海月”</span>です……！<br>空を飛ぶ超巨大海月さんです！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウソだろ……！<br>空を飛ぶ超巨大海月？<br>そんなもん聞いた事ねえぞ？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,で、でもソックリですよ……！<br>本物かどうかわかりませんが──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ・ルリア,<span class='scene-font-4'>うわあぁぁぁ──！？</span><br><span class='scene-font-4'>はわあぁぁぁ──！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,騎空士達,────！？
+Japanese,scene_evt220914_cp1_q2_s10,synopsis,,[플레이어]、ルリア、ビィが目を覚ますと、そこは巨大な海月の胃の中だった。そこには胃酸の海にいくつもの島が浮かんでおり、仲間との合流や脱出方法に頭を悩ませる[플레이어]達。そんな中、同じように海月に吸い込まれたチョッパーとルフィが現れるのだった。
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>謎の巨大未確認飛行生物。</span><br><span class='scene-font-katari'>その海月にも似た存在が光を放ち、</span><br><span class='scene-font-katari'>甲板にいた騎空士達を吸い込んだ。</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>意識を失った[플레이어]は、</span><br><span class='scene-font-katari'>幾許かの時を経て目を覚ますと……</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,お……？<br>起きたか[플레이어]！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,良かったぁ……！<br>ひとまず安心ですね。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,おう！<br>三人とも何とか無事だったな。<br>オイラ達もさっき起きたばっかでよ。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,[플레이어]。<br>ここがどこだかわかりますか？
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>あたりを眺める[플레이어]。</span><br><span class='scene-font-katari'>目の前には海の様な水面が広がり、</span><br><span class='scene-font-katari'>遠目に幾つか大小の島々が見える。</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>柔らか過ぎる日の光に目を遣ると、</span><br><span class='scene-font-katari'>空は膜が掛かった様に滲んでおり……</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>その薄ぼんやりとした光景はまるで、</span><br><span class='scene-font-katari'>半透明の袋の内にでもいる様だった。</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,ここはきっと、<br>例の海月の“胃袋”だぜ。<br>オイラ達は餌だったんだ。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,この海に見えるのも胃酸か何か、<br>触るとピリピリするのはそのせいだな。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,でも他の事はまだわかんねえ。<br>何だって胃袋に島があるのか、<br>どうすりゃあ脱出できるのか……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,そうですね……<br>あと気になるのは他の団員さん達です。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,艇は吸い込まれていないみたいなので、<br>艇内にいた人達は平気だと思いますが、<br>甲板にいた人達はたぶん……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,間違いねえ。<br>吸い込まれる時あちこちで、<br>悲鳴が聞こえた気がするぜ。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,はい。<br>ですので脱出よりも先に、<br>皆さんを探さないと。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,そうだな。<br>ちょうど[플레이어]も起きたんだ。<br>脱出うんぬんは皆が揃って──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,待てよ？<br>皆この島にいるもんなのか？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ……<br>確かに他の島にいる場合も……<br>でも胃酸を泳いで渡るのはさすがに……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,骨も残んねえだろうなぁ……<br>この距離だとオイラが飛んでっても……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ・ルリア,う～ん……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,お……？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,ん……？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,ルリア？<br>何を見てるんだ？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ、いえ……<br>あっちの木陰に何か……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,よかった！<br>お前ら目が覚めて──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,わあ……！？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,かわいい……！<br>ふたりとも見てください！<br>コアラさんがいますよ！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,…………！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,こりゃあ驚いた……<br>普通に動物もいるんだなぁ。
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,でもコイツの顔はアレだな。<br>コアラってよりタヌキだろ。<br>初めて見る種類の珍獣だぜ。
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,…………！！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>誰がタヌキだ！！</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ・ルリア,<span class='scene-font-4'>喋った！？</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,さ、さっきから喋ってるだろ！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ、あの！<br>お話できるんですか！？<br>私達色々困ってて……！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,わわわ……！？<br>ちょ、ちょっと待てよ……！<br>そもそもお前らは──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,私達の他に漂流者を見てませんか？<br>皆さん一緒の騎空団の仲間なんです。<br>ただ他の島に着いた可能性もあって……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,お、おい、ルリア。<br>他の奴らが心配なのはわかるけどよ。<br>タヌキの奴明らかに困ってるぞ。
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,だから！<br>おれはタヌキじゃねェ！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,そんでお前、ちょっと落ち着けって……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,こ、こっちにくるなァ！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ……！<br>待って珍獣さん！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,ルリア！<br>ひとりで動いちゃ危険だぜ！<br>未知の場所では慎重に──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,うん？<br>何だぁ今の音は……？
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>肉だー！</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>うひゃあ！？</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,何だよコレ……！<br>まるで腕がゴムみたいに……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>待てー！</span><br><span class='scene-font-4'>今日の晩飯ィ！</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>うわぁ！</span><br>晩飯ってまさかオイラの事かよぉ！？<br>よく見ろ！ オイラを食っても──
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>うお────！</span>
+Japanese,scene_evt220914_cp1_q3_s10,synopsis,,話を聞こうとチョッパーを追いかけるルリアと、空腹のあまりビィを食べようとして追いかけるルフィ。[플레이어]が仲裁のために割って入ると、湖で水浴びをしていたナミが現れる。ナミは、自分達以外の漂流者の存在に衝撃を受けるのだった。
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>言葉を話す珍獣を追って、</span><br><span class='scene-font-katari'>森の中を走り回るルリア。</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>空腹のゴム人間が迫り、</span><br><span class='scene-font-katari'>森の中を飛び回るビィ。</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>予期せぬ状況に頭が追いつかぬまま、</span><br><span class='scene-font-katari'>その２組に追いすがって走っていた。</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,はぁはぁ……！
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,気絶してたから<br>とりあえず助けたけど……！
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,キクーダンってなんだ！？<br>まさか海軍の仲間じゃ<br>ねェだろうな！？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルリア,待って……！<br>私達はさっき目が覚めたばかりで……！<br>聞きたい事がいっぱいあるんです！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,はぁはぁ……！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,何だってんだよぉ……！<br>オイラを食ったって旨かねえぞ！？
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,気にすんな！<br>食ってから考える！
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,はぁはぁ……<br>駄目だ腹が減ってもう……
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,一体どこまで追って来るんだよ……<br>とんでもねェ奴に関わっちまったぞ……
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,はぁはぁ……<br>ほんとだぜ……<br>あの珍獣もゴム人間も何者なんだよ……
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,珍獣……？<br>あの羽が生えたトカゲの事か……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,違えよ……<br>オイラはドラゴンだぜ……<br>珍獣は角が生えたタヌキの事で──
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,ん……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,お……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ふたり,<span class='scene-font-4'>お、お前かよぉ！？</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,ふたり,追いついたー！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ふたり,<span class='scene-font-4'>お前達も一緒かよぉ！？</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>何とか追いついた[플레이어]。</span><br><span class='scene-font-katari'>そこには２組が湖の前で向き合って、</span><br><span class='scene-font-katari'>膠着状態に陥っている光景があった。</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>仲裁のために割って入ると、</span><br><span class='scene-font-katari'>ちょうど湖面に影が浮かび上がり……</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,ちょっとルフィ！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,ん……！？<br>おうナミか。どうした？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,言ったわよね！<br>お風呂の代わりに湖で泳いで来るって！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,ああ、<br>ちょっと晩飯を追っててよ！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,なぁチョッパー！
+Japanese,scene_evt220914_cp1_q3_s10,detail,チョッパー,晩飯？<br>何の話だ？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,いいから、とっとと出てけ──！！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,<span class='scene-font-4'>ぎゃあ！</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,うわぁ……<br>ゴム人間が一発でのびちまったぜ……
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルリア,すごいですね……<br>頬が真っ赤に膨らんで風船みたい……
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,平気平気。<br>この程度は掠り傷ですらないわよ、<br>海賊だもん。
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,あ、そっちの彼も同罪だから。<br>のぞき代は１0万ベリーで許してあげる。
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,って……<br>というか……あんた達は……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,チョッパー,あ、こいつらも漂流者だ。<br>さっき目が覚めたんだよ。
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,<span class='scene-font-4'>えーっ！？</span>
+Japanese,scene_evt220914_cp1_q4_s10,synopsis,,ルフィ達も数日前に海月に吸い込まれ、海月の胃袋──“胃世界”にやってきたという。胃世界には巨大な胃石が幾つか群島状に寄り集まっているようだった。ルフィ達は仲間を探すため胃酸の海を渡るイカダを作るつもりだと語り、[플레이어]達も共に力を合わせることにするのだった。
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>どたばたが収まり、</span><br><span class='scene-font-katari'>ひとまず浜辺に戻る２組の漂流者達。</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>彼等はルフィを船長とする海賊で、</span><br><span class='scene-font-spword'>“麦わらの一味”</span><span class='scene-font-katari'>と呼ばれており……</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>ほんの数日前、</span><br><span class='scene-font-katari'>[플레이어]達と同様に、</span><br><span class='scene-font-katari'>例の海月に遭ったという。</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,そっか……<br>ルリア達も災難だったわね。<br>私達も似た様な状況よ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,ナミさん達の仲間もあちこちに……？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,うん。<br>でもみんなを探そうって矢先に<br>ルフィがね。
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,謎の場所で謎のもんを拾い食いって、<br>そんなの腹を壊すに決まってんだろ。<br>お陰で今朝までず～っと立ち往生だ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,な、なるほどなぁ……<br>何日も飯が食えなかったせいで、<br>目の色を変えて追って来たのか。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,ししし！<br>悪かったなお前ら！
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,はぁ……<br>つまり私達もまだ仲間を探せてないの。<br>でも<span class='scene-font-spword'>“胃世界”</span>のどこかにはいる筈よ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,胃世界……？
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,海月の胃袋の呼び名だ。<br>ルフィが決めたんだぜ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,カッコイイだろ！<br>でも森とか湖とかさ。<br>細かい所はまだ決めてねェんだ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,お前らが記念に決めてもいいぞ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,いいんですか？<br>ありがとうございます！<br>がんばって考えますね。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,おいおい……<br>今はもっと他に考えるもんがあるだろ。<br>この胃世界についてとかよ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,はう、すみません……！<br>何だか冒険心が湧いてきちゃって。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,あはは！<br>思ったより肝が据わってる。<br>気にいったわルリア。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,あはは……<br>私も一応騎空士ですので。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,騎空士？<br>まぁこの胃世界について言えるのは……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,胃酸に浮いてる島みたいなのは全て、<br>いわゆる<span class='scene-font-spword'>“胃石”</span>だろうって事。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,胃石っていうのは、<br>胃袋に溜まった消化不良の餌とか、<br>体内の物質が色々固まったものね。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,その胃石が幾つか群島状に、<br>この一帯に寄り集まってるみたい。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,ふ～ん……？<br>いまオイラ達がいるココも胃石なのか？<br>木も草も生えてて普通の島に見えるぞ？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,きっと長い年月の中で、<br>餌ごと吸い込んだ動植物が根づいて、<br>独自の生態系を築いたんだと思うわ。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,そういえば……<br>確かに初めて見る植物ばかりです。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,私達にとってもそう。<br>この海月は世界中を巡ってるのかもね。<br>人間には想像も及ばない場所さえも。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,ま……<br>この数日の観測でわかったのは、<br>そんなとこかな。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,ありがとな！<br>お陰で色々わかったぜ。<br>このあとはどうするつもりなんだ？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,この胃石には数日いて、<br>まだ誰も見つかってねえとすると……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,ああ！<br>イカダを作って胃酸を渡る！<br>他の胃石で仲間を探すんだ！
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,サニー号が見つかるまでは<br>そうなるわね。この海月、人間だけ<br>吸い込んでたみたいだし、それしか……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,なるほどです！<br>皆さん海賊さんですもんね。<br>イカダもちょちょいのちょいで──
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,ルフィの看病のせいで、<br>まだ全然できてねェけどな。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,あ、あはは……<br>そうなんですね？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,でもそろそろ捜索を急がないと……<br>仮に食糧がない場所に漂流してた場合、<br>飲まず食わずだとさすがに限界だもん。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,問題ねェ。<br>こいつらの協力があれば半日で作れる。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,ん？<br>こいつらって……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,他に誰がいるんだよ。<br>お前らも仲間を探すんだろ。<br>力を合わせたほうが早ェに決まってる。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,な、[플레이어]？
+Japanese,scene_evt220914_cp1_q4_s10,sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>一緒にがんばろう</span></span>
+Japanese,scene_evt220914_cp1_q4_s10,sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>強引だなぁ……</span></span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,そうですね……！<br>ここで会ったのも何かの縁ですよね。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,さすが船長さんというか……<br>行動力と決断力がありますね。
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,ふふふ、決まり！<br>三人とも改めてよろしくね！
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,おー！<br>よろしくな！
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,<span class='scene-font-4'>よーし！</span><br>じゃあひとまず腹ごしらえだ！
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>ルフィ達と[플레이어]達は</span><br><span class='scene-font-katari'>僅かな備蓄食糧を用いて</span><br><span class='scene-font-katari'>食事をとり……</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>お互い見も知らぬ地の冒険譚を語り、</span><br><span class='scene-font-katari'>その活躍に喜び笑い親睦を深めると、</span><br><span class='scene-font-katari'>イカダを作る準備を始めるのだった。</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,？？？,…………
