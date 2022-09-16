@@ -1,56 +1,56 @@
 Language,SceneCode,Type,Name,Origin,Korean
-Japanese,scene_evt220914_cp1_q1_s10,synopsis,,ある日、快晴の空を航行していた[플레이어]達の前に、巨大な積乱雲が現れる。その雲の中に、巨大な海月の姿を見る一行。やがてグランサイファーを眩しい光が包み込むと、[플레이어]達と甲板にいた仲間達は海月に吸い込まれてしまうのだった。
-Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>空──</span><br><span class='scene-font-katari'>どこまでも広がる一面の蒼。</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>そのただなかを一隻の騎空艇が飛び、</span><br><span class='scene-font-katari'>真夏の直射日光を一身に浴びている。</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>地平線には大きな積乱雲が立ち上り、</span><br><span class='scene-font-katari'>艇を歓迎する様にも拒む様にも見え、</span><br><span class='scene-font-katari'>空の世界は今日も冒険日和であった。</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あはは♪<br>風が心地いいぜ！<br>部屋にいるよりずっと涼めるぞ。
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,空気が澄んでて何だか生き返りますね！<br>今日は特に空の色が鮮やかに見えます。
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こういうのを味わえるのが、<br>騎空士の醍醐味だよなぁ。<br>冒険の御褒美みたいに思えて来るぜ。
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,なぁ[플레이어]！
-Japanese,scene_evt220914_cp1_q1_s10,sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>冒険万歳だね</span></span>
-Japanese,scene_evt220914_cp1_q1_s10,sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>苦労も多いけど……</span></span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,だよな！<br>さすが騎空団の団長だぜ！
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,にしし！<br>団長って立場だと色々大変だよな。<br>まぁ次の島までは気楽にいこうぜ。
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ、ふたりとも。<br>あっちにも団員さん達がいますよ。<br>皆さんもここで涼んでるのかなぁ？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁほんとだぜ。<br>確かに何人か見えるけど……<br>日陰だと誰が誰だかわかんねえな。
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,そっちの奴は昼寝か？<br>こっちの奴は機械か何か弄ってて──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はあ？<br>船首にいるアイツは何で水着なんだよ？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あはは……<br>お肌を焼いてるとか……？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおいバカンスかよ……<br>空の上ったって危険はあるだろ。
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,まぁでも今日は快晴ですので。<br>魔物とか近づいて来ても一目で──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お……？<br>何だぁ？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ……！<br>ふたりとも見てください！<br>変な雲が空を覆ってます！
-Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>ハッと頭上を見る[플레이어]。</span><br><span class='scene-font-katari'>そこには綿飴の様な雲が渦を巻き、</span><br><span class='scene-font-katari'>日を遮って空一面に広がっていた。</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,うひゃあ……！<br>こりゃあ積乱雲の類か……？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,とっても大きいですね……<br>島が何個か収まっちゃうほど……
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,でもいつの間にここまで……<br>だってさっきまで快晴だったんだぜ？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う～ん……<br>この雲は本当に積乱雲──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウヒィッ……！<br>何だ、雷でも光ったのか？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こりゃあちょっとマズイな……<br>ここはひとまず嵐に備えようぜ！
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,わ、わかりました！<br>私は洗濯ものを取り込んで来ます！
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁ任せたぜ！<br>[플레이어]は団員達に指示を──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,て、ちょっと待てよ？<br>えっと、その、ルリア……？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,何ですかビィさん？<br>急がないと雷が落ちてきちゃいますよ！
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お、おう……<br>でも、お前、平気なのか……？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ちょっとビィさん！<br>平気って何を言って──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,……うん？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-4'>はわぁ！？</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う、浮いてる？<br>私なんか、宙に浮いてませんか！？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおい……！<br>いったい何が起きたってんだ？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,この現象も積乱雲のせいなのか？<br>[플레이어]は何か知ってるか──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,<span class='scene-font-4'>て、お前もかよ！？</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>いつの間にか[플레이어]も、</span><br><span class='scene-font-katari'>ルリアと同様フワフワ宙に浮いており、</span><br><span class='scene-font-katari'>もがいても足は空を切るばかりだった。</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ひゃい！<br>今度は何ですか……！？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,わかんねえ……！<br>でもこりゃあ明らかに……<br>オイラ達を狙って当ててきたぞ！？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,私達を狙って……？<br>そんなのまるで生きてるみたいな……
-Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>再び頭上を見る[플레이어]達。</span><br><span class='scene-font-katari'>すると雲の渦が徐々におさまり、</span><br><span class='scene-font-katari'>そこに浮かび上がってきたのは……</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はぁ……！？<br>この形はまさか……
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-spword'>“海月”</span>です……！<br>空を飛ぶ超巨大海月さんです！
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウソだろ……！<br>空を飛ぶ超巨大海月？<br>そんなもん聞いた事ねえぞ？
-Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,で、でもソックリですよ……！<br>本物かどうかわかりませんが──
-Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ・ルリア,<span class='scene-font-4'>うわあぁぁぁ──！？</span><br><span class='scene-font-4'>はわあぁぁぁ──！？</span>
-Japanese,scene_evt220914_cp1_q1_s10,detail,騎空士達,────！？
-Japanese,scene_evt220914_cp1_q2_s10,synopsis,,[플레이어]、ルリア、ビィが目を覚ますと、そこは巨大な海月の胃の中だった。そこには胃酸の海にいくつもの島が浮かんでおり、仲間との合流や脱出方法に頭を悩ませる[플레이어]達。そんな中、同じように海月に吸い込まれたチョッパーとルフィが現れるのだった。
+Japanese,scene_evt220914_cp1_q1_s10,synopsis,,ある日、快晴の空を航行していた[플레이어]達の前に、巨大な積乱雲が現れる。その雲の中に、巨大な海月の姿を見る一行。やがてグランサイファーを眩しい光が包み込むと、[플레이어]達と甲板にいた仲間達は海月に吸い込まれてしまうのだった。,어느 날 쾌청한 하늘을 항해하던 [플레이어] 일행 앞에 거대한 적란운이 나타난다. 그 구름 속에 거대한 해파리의 모습을 목격하는 일행. 이윽고 그랑사이퍼를 눈부신 빛이 감싸자 [플레이어] 일행과 갑판에 있던 동료들은 해파리에게 빨려 들어가 버리고 만다.
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>空──</span><br><span class='scene-font-katari'>どこまでも広がる一面の蒼。</span>,<span class='scene-font-katari'>하늘──</span><br><span class='scene-font-katari'>어디까지 이어진 일면의 파랑.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>そのただなかを一隻の騎空艇が飛び、</span><br><span class='scene-font-katari'>真夏の直射日光を一身に浴びている。</span>,<span class='scene-font-katari'>그 가운데를 한 척의 기공정이 날아、</span><br><span class='scene-font-katari'>한 여름의 직사광선을 한몸에 받고 있다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>地平線には大きな積乱雲が立ち上り、</span><br><span class='scene-font-katari'>艇を歓迎する様にも拒む様にも見え、</span><br><span class='scene-font-katari'>空の世界は今日も冒険日和であった。</span>,<span class='scene-font-katari'>지평선에는 커다란 적난운이 피어올라、</span><br><span class='scene-font-katari'>배를 환영하는 듯 마는 듯、</span><br><span class='scene-font-katari'>하늘 세계는 오늘도 모험하기 좋은 날이었다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あはは♪<br>風が心地いいぜ！<br>部屋にいるよりずっと涼めるぞ。,아하하♪<br>바람이 정말 기분 좋아！<br>방에 있는 것 보다 훨씬 시원해.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,空気が澄んでて何だか生き返りますね！<br>今日は特に空の色が鮮やかに見えます。,공기가 시원해서 뭐랄까 살 것 같아요！<br>오늘은 특히 하늘 색이 선명해 보여요.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こういうのを味わえるのが、<br>騎空士の醍醐味だよなぁ。<br>冒険の御褒美みたいに思えて来るぜ。,"이런 걸 맛 볼 수 있는 게、<br>기공사의 묘미겠지,<br>모험의 포상처럼 느껴져."
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,なぁ[플레이어]！,"그치, [플레이어]！"
+Japanese,scene_evt220914_cp1_q1_s10,sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>冒険万歳だね</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>모험 만세네</span></span>
+Japanese,scene_evt220914_cp1_q1_s10,sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>苦労も多いけど……</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>고생도 많이 하지만……</span></span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,だよな！<br>さすが騎空団の団長だぜ！,그렇지？！<br>역시 기공단의 단장이야！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,にしし！<br>団長って立場だと色々大変だよな。<br>まぁ次の島までは気楽にいこうぜ。,키히히！<br>단장이라는 위치에 있으면 여러모로 고생이지.<br>뭐 다음 섬까지는 편하게 지내자구.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ、ふたりとも。<br>あっちにも団員さん達がいますよ。<br>皆さんもここで涼んでるのかなぁ？,아、저기봐요.<br>저기에도 단원분들이 있어요.<br>모두 여기서 바람쐬는 걸까요？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁほんとだぜ。<br>確かに何人か見えるけど……<br>日陰だと誰が誰だかわかんねえな。,아아 정말이네.<br>확실히 몇 명 보이는데……<br>그늘 때문에 누가 누군지는 모르겠네.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,そっちの奴は昼寝か？<br>こっちの奴は機械か何か弄ってて──,저쪽의 녀녁은 낮잠인가？<br>이쪽 녀석은 기계인가 뭔가를 만지작 거리고──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はあ？<br>船首にいるアイツは何で水着なんだよ？,어？<br>선수에 있는 녀석은 왜 수영복이야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あはは……<br>お肌を焼いてるとか……？,아하하……<br>피부를 그을리고 있다거나……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおいバカンスかよ……<br>空の上ったって危険はあるだろ。,어이어이 바캉스냐구……<br>하늘 위라곤 해도 위험한 건 있잖아.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,まぁでも今日は快晴ですので。<br>魔物とか近づいて来ても一目で──,뭐 그래도 오늘은 쾌청해서<br>마물이 다가와도 한눈에──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お……？<br>何だぁ？,오……？<br>무슨일이야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ……！<br>ふたりとも見てください！<br>変な雲が空を覆ってます！,아……！<br>두 분 모두 저기를 봐주세요！<br>이상한 구름이 하늘을 덮고있어요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>ハッと頭上を見る[플레이어]。</span><br><span class='scene-font-katari'>そこには綿飴の様な雲が渦を巻き、</span><br><span class='scene-font-katari'>日を遮って空一面に広がっていた。</span>,<span class='scene-font-katari'>헉 하고 고개를 드는 [플레이어].</span><br><span class='scene-font-katari'>거기에는 솜사탕 같은 구름이 소용돌이 치며、</span><br><span class='scene-font-katari'>해를 가리고 하늘 일면에 펼쳐져있었다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,うひゃあ……！<br>こりゃあ積乱雲の類か……？,우왓……！<br>이거 적란운의 일종인가……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,とっても大きいですね……<br>島が何個か収まっちゃうほど……,정말로 크네요……<br>섬이 몇개는 들어갈 정도로……
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,でもいつの間にここまで……<br>だってさっきまで快晴だったんだぜ？,그래도 대체 어느새 여기까지……<br>바로 직전까지 쾌청했었다고？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う～ん……<br>この雲は本当に積乱雲──,으음……<br>이 구름은 정말로 적란운──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウヒィッ……！<br>何だ、雷でも光ったのか？,으익……！<br>뭐야、번개라도 친거야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こりゃあちょっとマズイな……<br>ここはひとまず嵐に備えようぜ！,이건 조금 위험한데……<br>지금은 일단 폭풍에 대비하자고！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,わ、わかりました！<br>私は洗濯ものを取り込んで来ます！,아、알겠어요！<br>저는 세탁물을 챙기러 갈게요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁ任せたぜ！<br>[플레이어]は団員達に指示を──,그래 부탁해！<br>[플레이어]는 단원들에게 지시를──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,て、ちょっと待てよ？<br>えっと、その、ルリア……？,엣、잠깐 기다려봐？<br>저기、그、루리아……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,何ですかビィさん？<br>急がないと雷が落ちてきちゃいますよ！,무슨일이에요 비 씨？<br>서두르지 않으면 번개가 떨어질거에요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お、おう……<br>でも、お前、平気なのか……？,으、응……<br>그래도、너、괜찮아……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ちょっとビィさん！<br>平気って何を言って──,잠깐 비 씨！<br>괜찮다니 무슨 소리를──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,……うん？,……응？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-4'>はわぁ！？</span>,<span class='scene-font-4'>하왓！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う、浮いてる？<br>私なんか、宙に浮いてませんか！？,떠、떠있어？<br>저 왠지、하늘에 떠있지 않나요！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおい……！<br>いったい何が起きたってんだ？,어이어이……！<br>대체 무슨 일이 일어나고 있는거야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,この現象も積乱雲のせいなのか？<br>[플레이어]は何か知ってるか──,이 현상도 적란운 때문인가？<br>[플레이어]는 뭔가 알고있──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,<span class='scene-font-4'>て、お前もかよ！？</span>,<span class='scene-font-4'>엣、너도냐고！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>いつの間にか[플레이어]も、</span><br><span class='scene-font-katari'>ルリアと同様フワフワ宙に浮いており、</span><br><span class='scene-font-katari'>もがいても足は空を切るばかりだった。</span>,<span class='scene-font-katari'>어느새 [플레이어]도、</span><br><span class='scene-font-katari'>루리아와 똑같이 둥둥 하늘에 떠있어、</span><br><span class='scene-font-katari'>발버둥 쳐도 발은 하늘을 가를 뿐이었다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ひゃい！<br>今度は何ですか……！？,꺅！<br>이번엔 뭔가요……！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,わかんねえ……！<br>でもこりゃあ明らかに……<br>オイラ達を狙って当ててきたぞ！？,모르겠어……！<br>그래도 이건 명백히……<br>우리들을 노리고 왔어！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,私達を狙って……？<br>そんなのまるで生きてるみたいな……,우리들을 노리고……？<br>그건 마치 살아있는 것 같은……
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>再び頭上を見る[플레이어]達。</span><br><span class='scene-font-katari'>すると雲の渦が徐々におさまり、</span><br><span class='scene-font-katari'>そこに浮かび上がってきたのは……</span>,<span class='scene-font-katari'>다시 머리 위를 본 [플레이어] 일행.</span><br><span class='scene-font-katari'>그러자 구름의 소용돌이가 서서히 가라앉고、</span><br><span class='scene-font-katari'>거기에서 떠오른 것은……</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はぁ……！？<br>この形はまさか……,헉……！？<br>이 형태는 설마……
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-spword'>“海月”</span>です……！<br>空を飛ぶ超巨大海月さんです！,<span class='scene-font-spword'>“해파리”</span>에요……！<br>하늘을 나는 초거대 해파리에요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウソだろ……！<br>空を飛ぶ超巨大海月？<br>そんなもん聞いた事ねえぞ？,말도안돼……！<br>하늘을 나는 초거대 해파리？<br>그런거 들어본 적도 없다고？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,で、でもソックリですよ……！<br>本物かどうかわかりませんが──,그、그래도 똑같아요……！<br>진짜인가 아닌가는 모르겠지만──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ・ルリア,<span class='scene-font-4'>うわあぁぁぁ──！？</span><br><span class='scene-font-4'>はわあぁぁぁ──！？</span>,<span class='scene-font-4'>우와아아아──！？</span><br><span class='scene-font-4'>하와아아아──！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,騎空士達,────！？,────！？
+Japanese,scene_evt220914_cp1_q2_s10,synopsis,,[플레이어]、ルリア、ビィが目を覚ますと、そこは巨大な海月の胃の中だった。そこには胃酸の海にいくつもの島が浮かんでおり、仲間との合流や脱出方法に頭を悩ませる[플레이어]達。そんな中、同じように海月に吸い込まれたチョッパーとルフィが現れるのだった。,[플레이어]、루리아、비가 눈을 뜨자、그곳은 거대한 해파리의 위 속이었다. 그곳은 위산 바다에 몇개의 섬이 떠있어、동료들과의 합류나 탈출 방법에 골치를 앓는  [플레이어] 일행. 그러던 중、같은 방식으로 해파리에 삼켜지는 쵸파와 루피가 나타는 것이었다.
 Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>謎の巨大未確認飛行生物。</span><br><span class='scene-font-katari'>その海月にも似た存在が光を放ち、</span><br><span class='scene-font-katari'>甲板にいた騎空士達を吸い込んだ。</span>
 Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>意識を失った[플레이어]は、</span><br><span class='scene-font-katari'>幾許かの時を経て目を覚ますと……</span>
 Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,お……？<br>起きたか[플레이어]！
