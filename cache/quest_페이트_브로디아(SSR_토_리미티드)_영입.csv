@@ -1,0 +1,278 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_fate_chr453_ep1,synopsis,,ある日の真夜中、自室で眠っている[플레이어]の前に天司ウリエルが現れ、弟子であるブローディアを旅に同行させてほしいと話す。ブローディアは、新たな脅威に備え[플레이어]と共に成長したいと申し出る。[플레이어]一行は、師匠と弟子なのに雰囲気が全然違うと笑いながらも、快く申し出を受け入れるのだった。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ひっそりと静まり返った真夜中。</span><br><span class='scene-font-katari'>[플레이어]は騎空艇の自室で</span><br><span class='scene-font-katari'>すやすやと眠りについていた。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>しかし──</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>静寂を切り裂くように起こった</span><br><span class='scene-font-katari'>地鳴りにより、[플레이어]は</span><br><span class='scene-font-katari'>ベッドから飛び起きた。</span>
+Japanese,scene_fate_chr453_ep1,detail,？？？,ハハハ……！<br>よぉ、特異点。目が覚めたか？
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>壁にもたれかかっている</span><br><span class='scene-font-katari'>屈強な男性を見てハッとする。</span>
+Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>……ウリエル？</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,フフ……<br>この前は世話になったな。<br>ありがとよ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,まさか人間共に助けられるとは<br>夢にも思わなかったけどな。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]はウリエルの姿を</span><br><span class='scene-font-katari'>確認すると、今は夢に違いないと</span><br><span class='scene-font-katari'>二度寝しようとするが──</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,おいおい、<br>俺を無視するたぁ、<br>いい度胸じゃねぇか。
+Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>夢じゃないの？</span>
+Japanese,scene_fate_chr453_ep1,sel2_txt,,<span class='scene-font-katari'>え、本物！？</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ハハハ……！<br>どんだけ、<br>俺の試練を恋しがってたんだ？
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,……ったくよぉ、<br>なんなら一勝負するか？<br>眠気を根こそぎ吹き飛ばしてやるぜ？
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>豪快に笑い飛ばすウリエルを見て、</span><br><span class='scene-font-katari'>今が夢などではなく現実だと認識する。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>──と同時に、</span><br><span class='scene-font-katari'>また新たな災厄が起きたのかと</span><br><span class='scene-font-katari'>不安を覚え、顔を曇らせた。</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ったく……<br>そんなしけたツラすんな。<br>凶報を伝えに来たわけじゃねぇ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,天司長がな……仲間と高め合い、<br>庇い合い、個では到達できねぇ<br>力と覚悟に至った──
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,そんな特異点のお前から<br>学ばなくちゃいけねぇ、<br>なんて言うわけだ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,だから今日は、<br>そのことで頼みがあってよ。
+Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>仲間になりたいとか？</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ハハハ……！<br>そいつも悪かねぇな。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,でもよ、俺にも果たさなきゃならねぇ、<br>使命ってモンがあるんだ。<br>だからよ──
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>再び大きな揺れが起こると、</span><br><span class='scene-font-katari'>ウリエルは申し訳なさそうに</span><br><span class='scene-font-katari'>[플레이어]に微笑みかける。</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ったく……
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,悪ぃ、ちょっと外まで頼むわ。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>[플레이어]を連れ、</span><br><span class='scene-font-katari'>外に出たウリエルは、</span><br><span class='scene-font-katari'>眼前に巻き起こった砂塵を睨みつけた。</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,バカヤロウ、とっとと出てこい。<br>騒々しい奴だな。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ウリエルの声に反応したのか、</span><br><span class='scene-font-katari'>大気が震え、砂塵が収まっていくと</span><br><span class='scene-font-katari'>中から見覚えのある女性が姿を現した。</span>
+Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>ブローディア！</span>
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,久しいな、特異点よ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,おい、俺が話をつけるって言ったろ？
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,ですが、わざわざウリエル様が<br>お越しにならなくとも、<br>我が直接、特異点に──
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,こういうもんはな、<br>俺から頼むのが筋ってもんだろう。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>その時、騒ぎを聞きつけた</span><br><span class='scene-font-katari'>ルリアとビィが、慌てふためきながら</span><br><span class='scene-font-katari'>騎空艇の甲板へとやってくる。</span>
+Japanese,scene_fate_chr453_ep1,detail,ビィ,い、一体なんだってんだ！？
+Japanese,scene_fate_chr453_ep1,detail,ルリア,[플레이어]、大丈夫ですか？
+Japanese,scene_fate_chr453_ep1,detail,ルリア,って……はわわっ！<br>ウ、ウリエルさん！
+Japanese,scene_fate_chr453_ep1,detail,ビィ,うん？ 隣の姉ちゃんは誰だ？
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>何が起きているのか分からず、</span><br><span class='scene-font-katari'>困惑するルリアとビィを見て、</span><br><span class='scene-font-katari'>ウリエルは豪快に笑う。</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ハハハ……！<br>ほら見ろ、起こしちまったじゃねぇか。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,蒼の少女と赤き竜か……
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,おい、ついでだ。<br>お前らにも説明してやるよ。
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ウリエルは</span><br><span class='scene-font-katari'>ルリアとビィを呼び寄せると、</span><br><span class='scene-font-katari'>歯に衣を着せずに話し始めた。</span>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,今日、尋ねて来たのはな、<br>お前らの旅に、こいつを<br>同行させてもらおうと思ってな。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,蒼の少女と赤き竜よ、<br>我が名はブローディア。<br>地のウリエル様の使徒だ。
+Japanese,scene_fate_chr453_ep1,detail,ルリア,しと……？
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,まぁ、簡単に言やぁ……<br>俺の弟子ってこった。
+Japanese,scene_fate_chr453_ep1,detail,ビィ,弟子？ 天司が弟子をとるのか？
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,まぁ、そもそもの始まりはな……
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,新たなる脅威に備えるために、<br>空の世界の一助となれる奴を<br>探してたんだ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,いやぁ、それで、<br>あっちこっち足を運んだんだが、<br>なかなかいい奴が見つかんなくてよ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,けど……遂に見つけたんだ。<br>俺の力とも相性がいい、<br>根性のある星晶獣を！
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,フフ……こいつの体からは、<br>強大な土の元素の力が<br>バンバン溢れ出てやがったんだぜ？
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,我はウリエル様と邂逅したその時……<br>天司という存在がいることを知った。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,天司と星晶獣と、それらの親とも言える<br><span class='scene-font-spword'>星の民</span>との関係を改めて知り、<br>世界の広さを知った。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,そして無謀にも挑んだのだ。<br>我の力が通じるのかを知りたくてな。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,だが…… <br>
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,ウリエル様には、<br>全く歯が立たなかった。
+Japanese,scene_fate_chr453_ep1,detail,ルリア,はわわ……
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,その後だ。<br>こいつが急に真剣な顔してよ、<br>弟子にしてくれって、頭下げてきてな。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,弱き者を護るためには、<br>強くならねばならない。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,そして何よりも……我は確信したのだ。<br>ウリエル様のもとでならば<br>それが叶うと。
+Japanese,scene_fate_chr453_ep1,detail,ビィ,ふぇ～、やっぱり天司って<br>すげーんだな…… <br>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ここまで言われたらよ、<br>応えてやんなきゃ悪ぃだろ？
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ハハ……まぁ、それに、<br>俺も目的が叶ったわけだしな。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ってことで、それ以来……<br>新たな脅威に備えるためによ、<br>試練を与え、面倒みてたってわけだ。
+Japanese,scene_fate_chr453_ep1,detail,ビィ,うん？<br>でもよぉ、そういうことなら……
+Japanese,scene_fate_chr453_ep1,detail,ビィ,ウリエルの傍にいた方が<br>いいんじゃねぇのか？ <br>
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,まぁ、<br>俺もちょいと忙しくなっちまってよ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,だから、しばらくの間、<br>お前達のところで<br>修行をしてもらおうってわけだ。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,ウリエル様から聞いたぞ？<br>先の<span class='scene-font-spword'>『災厄』</span>で<br>汝らは大役を果たしたと。
+Japanese,scene_fate_chr453_ep1,detail,ビィ,あん時は、ほんと大変だったぜ……
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,我は、ウリエル様の役に立つよう、<br>特異点と共に成長したいのだ。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,どうだろう……<br>頼みを聞いてもらえぬだろうか？
+Japanese,scene_fate_chr453_ep1,sel1_txt,,<span class='scene-font-katari'>もちろん！</span>
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,決断を感謝する。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,さすが特異点、話が早ぇ。<br>ありがとよ！
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,こいつは生真面目な奴だが、<br>お前達同様、お人よしだ。<br>仲良くしてやってくれ。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,あとはまぁ、お前らと一緒にいりゃ、<br>もう少し融通が<br>利くようになると思うんだがな……
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,…………
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,ま、その辺は期待しないで<br>待つとするか。
+Japanese,scene_fate_chr453_ep1,detail,ウリエル,とにかく頼んだぜ！ あばよっ！
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ウリエルは一行にそう言い残すと、</span><br><span class='scene-font-katari'>大気を震わせ、</span><br><span class='scene-font-katari'>砂塵の中へと消え去って行った。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>ブローディアはウリエルを見送ると、</span><br><span class='scene-font-katari'>一行に向き直り、</span><br><span class='scene-font-katari'>穏やかな笑顔を見せる。</span>
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,ウリエル様の信頼を裏切らぬよう、<br>汝を艱難辛苦から護り抜こう。<br>皆、宜しく頼む。
+Japanese,scene_fate_chr453_ep1,detail,ビィ,……ぷっ、ぎゃははっ！
+Japanese,scene_fate_chr453_ep1,detail,ルリア,ビィさんっ！？
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,赤き竜よ、何故笑うのだ？
+Japanese,scene_fate_chr453_ep1,detail,ビィ,だってよ、<br>すげぇ丁寧だから<br>面白くなっちまってよぉ！
+Japanese,scene_fate_chr453_ep1,detail,ビィ,ウリエルの弟子だってのに<br>全然違うんだもんな。
+Japanese,scene_fate_chr453_ep1,detail,ルリア,うふふ、確かにそうですね。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,ウリエル様は武勇に優れ、<br>信義に厚いからこそ、<br>感情で動くことも多い。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,そんなウリエル様を支えるためにも、<br>我は常に冷静であれと……<br>そう心がけているからな。
+Japanese,scene_fate_chr453_ep1,detail,ビィ,へぇ、そんなことも考えてんのか！<br>弟子ってのも大変なんだな。
+Japanese,scene_fate_chr453_ep1,detail,ルリア,ウリエルさんとブローディアさんも<br>四大元素のように、バランスを<br>とっているのかもしれませんね！
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,ふふ、さて、どうだろうな。
+Japanese,scene_fate_chr453_ep1,detail,ブローディア,何はともあれ、<br>皆、世話になるぞ。 <br>
+Japanese,scene_fate_chr453_ep1,detail,ルリア,はい！
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>こうして、新たなる脅威に備えるため、</span><br><span class='scene-font-katari'>[플레이어]一行の旅に</span><br><span class='scene-font-katari'>ブローディアが同行することになった。</span>
+Japanese,scene_fate_chr453_ep1,detail,,<span class='scene-font-katari'>だが、その危惧が、</span><br><span class='scene-font-katari'>近い将来現実のものとなるとは、</span><br><span class='scene-font-katari'>この時はまだ誰も知る由もなかった──</span>
+Japanese,scene_chr453_q1_s10,synopsis,,ある日、荷運びの依頼を受けた[플레이어]一行は、騎空艇で目的地に向かっていた。しかし、突如として積み荷が爆発し、損傷した騎空艇は小島に不時着することに。積み荷には時限装置が仕掛けられており、一行は命を狙われたと知る。その時、微かな地鳴りからブローディアは危険を察知、島からの脱出を急ぐよう告げる。だが、出し抜けに現れた機械兵が一行に襲い掛かるのだった。
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>荷運びの依頼を受けた一行は、</span><br><span class='scene-font-katari'>騎空艇を駆り、</span><br><span class='scene-font-katari'>目的地に向かっていた。</span>
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>しかし、山々が連なる小島の上空に</span><br><span class='scene-font-katari'>騎空艇が差しかかったその時──</span>
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>突如として、積み荷が爆発した。</span><br><span class='scene-font-katari'>それにより尾翼を損傷し、</span><br><span class='scene-font-katari'>騎空艇は錐揉みしながら墜落していく。</span>
+Japanese,scene_chr453_q1_s10,detail,ルリア,はわわっ！
+Japanese,scene_chr453_q1_s10,detail,ラカム,チッ、なんだってんだ！？
+Japanese,scene_chr453_q1_s10,detail,ラカム,お前ら、しっかり掴ってろよ！
+Japanese,scene_chr453_q1_s10,detail,ラカム,<span class='scene-font-4'>うおおぉぉっ！</span>
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>ラカムは巧みに舵を取り、</span><br><span class='scene-font-katari'>山の裾野に広がる荒野に</span><br><span class='scene-font-katari'>騎空艇を滑り込ませることに成功した。</span>
+Japanese,scene_chr453_q1_s10,detail,ビィ,ふぃ～、どうなることかと思ったぜ……
+Japanese,scene_chr453_q1_s10,detail,ラカム,おい、皆！ 大丈夫か？
+Japanese,scene_chr453_q1_s10,detail,ラカム,ったく……<br>なんで急に積み荷が爆発すんだよ？
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>訳が分からぬまま、</span><br><span class='scene-font-katari'>一行は騎空艇後部に乗せていた</span><br><span class='scene-font-katari'>積み荷の確認に向かう。</span>
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>そこには散らばった食料品だけでなく、</span><br><span class='scene-font-katari'>火薬の匂いと時限装置とみられる</span><br><span class='scene-font-katari'>煤けた金属片が見つかった。</span>
+Japanese,scene_chr453_q1_s10,detail,ルリア,……わ、私達は爆弾を<br>運んでたってことなんでしょうか？
+Japanese,scene_chr453_q1_s10,detail,ブローディア,それだけではない。<br>命を狙われたと言っていいだろう。
+Japanese,scene_chr453_q1_s10,detail,ルリア,そんな……
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>見ず知らずの依頼人に</span><br><span class='scene-font-katari'>恨まれるような理由が思い当たらず、</span><br><span class='scene-font-katari'>一行は一様に首を傾げる。</span>
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>その時、微かな地鳴りを耳にした</span><br><span class='scene-font-katari'>ブローディアは周囲の山々を見やり、</span><br><span class='scene-font-katari'>眉間に皺を寄せた。</span>
+Japanese,scene_chr453_q1_s10,detail,ブローディア,土の元素が活性化している……？
+Japanese,scene_chr453_q1_s10,detail,ビィ,ええっ？ ってことは……<br>前に起きた<span class='scene-font-spword'>『災厄』</span>の時みてーに、<br>島が空の底に落っこっちまうのか！？
+Japanese,scene_chr453_q1_s10,detail,ブローディア,いや、その心配には及ばない。<br>今、四大天司の御歴々は健在だ。<br>四大元素の均衡が崩れることはない。
+Japanese,scene_chr453_q1_s10,detail,ブローディア,だが……<br>特異点よ、この島は危険だ。<br>脱出を急ごう。
+Japanese,scene_chr453_q1_s10,detail,ラカム,あー……<br>そうしてぇのはやまやまなんだが、<br>尾翼の修理に少し時間をくれねぇか？
+Japanese,scene_chr453_q1_s10,detail,ラカム,幸い材料も人手も揃ってる。<br>出来るだけ早く、<br>グランサイファーを飛ばして見せるぜ。
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>騎空艇の修理を急ごうとした</span><br><span class='scene-font-katari'>一行だったが──</span>
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>いつのまにやら現れた機械兵によって、</span><br><span class='scene-font-katari'>騎空艇を包囲されていることに驚く。</span>
+Japanese,scene_chr453_q1_s10,detail,ラカム,なっ！ いつの間に現れやがったんだ？
+Japanese,scene_chr453_q1_s10,detail,ブローディア,汝は修理を頼む。<br>ここは、我々に任せてくれ。
+Japanese,scene_chr453_q1_s10,detail,ラカム,ああ、頼んだぜ！
+Japanese,scene_chr453_q1_s10,detail,ブローディア,特異点よ、抜かるな。
+Japanese,scene_chr453_q1_s10,detail,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-katari'>[플레이어]とブローディアは</span><br><span class='scene-font-katari'>機械兵を迎え撃つのだった。</span>
+English,scene_fate_chr453_ep1,synopsis,,"The primarch Uriel asks [플레이어] to let his disciple Alexiel join the crew. Though amused by how this master and disciple are polar opposites in so many ways, the crew gladly accepts."
+English,scene_fate_chr453_ep1,detail,,"The stars twinkle bright, and the crew of the Grandcypher has hunkered down for another peaceful night of rest."
+English,scene_fate_chr453_ep1,detail,,Or so they thought.
+English,scene_fate_chr453_ep1,detail,,"When the ship shakes with the sound of thunder, [플레이어] jumps out of bed."
+English,scene_fate_chr453_ep1,detail,???,Hahaha! Singularity. Are you awake?
+English,scene_fate_chr453_ep1,detail,,[플레이어]'s eyes open wide at the sight of the bulky man leaning against the wall.
+English,scene_fate_chr453_ep1,sel1_txt,,Uriel?
+English,scene_fate_chr453_ep1,detail,Uriel,Haha. I'd like to thank you again for your help from before.
+English,scene_fate_chr453_ep1,detail,Uriel,Never dreamed I'd be saved by the likes of a mortal.
+English,scene_fate_chr453_ep1,detail,,"[플레이어] blinks and stares at the figure, then goes back to sleep—must be another dream."
+English,scene_fate_chr453_ep1,detail,Uriel,Hey! Don't ignore me!
+English,scene_fate_chr453_ep1,sel1_txt,,This isn't a dream?
+English,scene_fate_chr453_ep1,sel2_txt,,Y-you're real?
+English,scene_fate_chr453_ep1,detail,Uriel,Hahaha! Do you like my trial that much?
+English,scene_fate_chr453_ep1,detail,Uriel,Of course! Or would you like a battle to prove it? That ought to wake you up.
+English,scene_fate_chr453_ep1,detail,,"[플레이어] realizes this is not dream, but reality."
+English,scene_fate_chr453_ep1,detail,,"At the same time, [플레이어] fears that the primarch's visit could only mean a new calamity threatens the skies."
+English,scene_fate_chr453_ep1,detail,Uriel,Don't worry. I'm not here with ill tidings or whatnot.
+English,scene_fate_chr453_ep1,detail,Uriel,The supreme primarch says we need to learn more of your ways.
+English,scene_fate_chr453_ep1,detail,Uriel,"By working with your allies and strengthening your bonds, you gained power unobtainable on your own."
+English,scene_fate_chr453_ep1,detail,Uriel,So today I've come with a request.
+English,scene_fate_chr453_ep1,sel1_txt,,Do you want to join our crew?
+English,scene_fate_chr453_ep1,detail,Uriel,Hahaha! Not a bad idea.
+English,scene_fate_chr453_ep1,detail,Uriel,But I've got my own duties to attend to. So in my stead—
+English,scene_fate_chr453_ep1,detail,,The ship rocks with another thunderous sound. Uriel winces at [플레이어] apologetically.
+English,scene_fate_chr453_ep1,detail,Uriel,Sigh...
+English,scene_fate_chr453_ep1,detail,Uriel,I'm sorry. Could we step out for a minute?
+English,scene_fate_chr453_ep1,detail,,"Uriel leads [플레이어] outside, where a large cloud of dust greets them."
+English,scene_fate_chr453_ep1,detail,Uriel,Get out here already. And lose the dust!
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,sel1_txt,,null
+English,scene_fate_chr453_ep1,detail,,"The dust cloud settles, and from it emerges the figure of a familiar young woman."
+English,scene_fate_chr453_ep1,sel1_txt,,Alexiel!
+English,scene_fate_chr453_ep1,detail,Alexiel,Singularity. It's been a while.
+English,scene_fate_chr453_ep1,detail,Uriel,"Hey, I told you <span class='scene-font-italic'>I'll</span> do the talking."
+English,scene_fate_chr453_ep1,detail,Alexiel,"But, Master Uriel, you needn't have deigned yourself to come here. I could have—"
+English,scene_fate_chr453_ep1,detail,Uriel,It's better if I'm the one who asks for this sorta thing.
+English,scene_fate_chr453_ep1,detail,,"Just then, a flustered Lyria and Vyrn come out to see what's happened."
+English,scene_fate_chr453_ep1,detail,Vyrn,The heck's goin' on here?
+English,scene_fate_chr453_ep1,detail,Lyria,"[플레이어], are you all right?"
+English,scene_fate_chr453_ep1,detail,Lyria,Wha! It's Uriel!
+English,scene_fate_chr453_ep1,detail,Vyrn,Hm? Who's the other one?
+English,scene_fate_chr453_ep1,detail,,"Amused by the confusion on their faces, Uriel lets out a chortle."
+English,scene_fate_chr453_ep1,detail,Uriel,Hahaha! Look! You woke them up!
+English,scene_fate_chr453_ep1,detail,Alexiel,The blue-haired girl and the red dragon...
+English,scene_fate_chr453_ep1,detail,Uriel,C'mon and join us. I'll explain.
+English,scene_fate_chr453_ep1,detail,,Uriel beckons the two over and begins to speak.
+English,scene_fate_chr453_ep1,detail,Uriel,I came today to ask if you would let this one join you on your travels.
+English,scene_fate_chr453_ep1,detail,Alexiel,"I am called Alexiel, disciple of the benevolent primarch Uriel."
+English,scene_fate_chr453_ep1,detail,Lyria,Disciple?
+English,scene_fate_chr453_ep1,detail,Uriel,Basically she follows me around and tries to be like me.
+English,scene_fate_chr453_ep1,detail,Vyrn,Didn't know you primarchs took disciples.
+English,scene_fate_chr453_ep1,detail,Uriel,"Well, it all began on my search for a countermeasure in case of a new threat."
+English,scene_fate_chr453_ep1,detail,Uriel,I scoured the world for one who could be worthy of the role.
+English,scene_fate_chr453_ep1,detail,Uriel,"It was no easy task. Far and wide I searched, but there were none fit for the task."
+English,scene_fate_chr453_ep1,detail,Uriel,That is... until I found her. A resilient primal whose powers perfectly compliment mine.
+English,scene_fate_chr453_ep1,detail,Uriel,Heh heh. Her body's bursting with the power of earth.
+English,scene_fate_chr453_ep1,detail,Alexiel,"When we chanced upon each other, I was made known of the existence of the primarchs."
+English,scene_fate_chr453_ep1,detail,Alexiel,"Finally the connection between the primarchs, primals, and our Astral creators became clear to me."
+English,scene_fate_chr453_ep1,detail,Alexiel,And I was fool enough to wonder if my power could rival that of theirs.
+English,scene_fate_chr453_ep1,detail,Alexiel,However...
+English,scene_fate_chr453_ep1,detail,Alexiel,I was no match for Master Uriel.
+English,scene_fate_chr453_ep1,detail,Lyria,Oh my...
+English,scene_fate_chr453_ep1,detail,Uriel,"After that, she bent the knee and asked to be my disciple."
+English,scene_fate_chr453_ep1,detail,Alexiel,One must be strong to protect the weak.
+English,scene_fate_chr453_ep1,detail,Alexiel,And I believed more than anything that Master Uriel could guide me to the realization of that ambition.
+English,scene_fate_chr453_ep1,detail,Vyrn,Whoa... Primarchs sure are something.
+English,scene_fate_chr453_ep1,detail,Uriel,And how could I refuse?
+English,scene_fate_chr453_ep1,detail,Uriel,"After all, I found what I was looking for, and what was the harm?"
+English,scene_fate_chr453_ep1,detail,Uriel,"So ever since, I've been training and preparing her in case another threat to the world comes along."
+English,scene_fate_chr453_ep1,detail,Vyrn,"Hm, but if that's the case..."
+English,scene_fate_chr453_ep1,detail,Vyrn,"Wouldn't it be better if she stayed with you, not us?"
+English,scene_fate_chr453_ep1,detail,Uriel,"Well, I've gotten a little more busy lately."
+English,scene_fate_chr453_ep1,detail,Uriel,"So I'll have to leave her under your care, if only for a while."
+English,scene_fate_chr453_ep1,detail,Alexiel,Master Uriel has spoken of your great deeds during the last calamity.
+English,scene_fate_chr453_ep1,detail,Vyrn,"A real nail-biter, that one was..."
+English,scene_fate_chr453_ep1,detail,Alexiel,"Please, I wish to grow under your guidance that I may be of greater use to Master Uriel."
+English,scene_fate_chr453_ep1,detail,Alexiel,What do you say? Will you grant our request?
+English,scene_fate_chr453_ep1,sel1_txt,,Of course!
+English,scene_fate_chr453_ep1,detail,Alexiel,You have my utmost gratitude.
+English,scene_fate_chr453_ep1,detail,Uriel,That's the singularity for you. Quick on the uptake.
+English,scene_fate_chr453_ep1,detail,Uriel,"She can be a little... <span class='scene-font-italic'>stiff</span> sometimes... but she's got a good heart, just like you guys."
+English,scene_fate_chr453_ep1,detail,Uriel,Hope she might get a little more flexible after spending some time with you though.
+English,scene_fate_chr453_ep1,detail,Alexiel,...
+English,scene_fate_chr453_ep1,detail,Uriel,But I'd best not get my hopes up.
+English,scene_fate_chr453_ep1,detail,Uriel,"Well, good luck! I'm off!"
+English,scene_fate_chr453_ep1,detail,,A gust of wind blows and Uriel disappears in a cloud of dust.
+English,scene_fate_chr453_ep1,detail,,"With Uriel gone, Alexiel turns to face the crew with a smile."
+English,scene_fate_chr453_ep1,detail,Alexiel,"Companions, as I have been entrusted by Master Uriel, I hereby swear to safeguard you through all manner of trial and tribulation."
+English,scene_fate_chr453_ep1,detail,Vyrn,Pfft! Ahahaha!
+English,scene_fate_chr453_ep1,detail,Lyria,Vyrn?
+English,scene_fate_chr453_ep1,detail,Alexiel,Red dragon. Why do you laugh?
+English,scene_fate_chr453_ep1,detail,Vyrn,Sorry! Just that he really wasn't kidding about you being all stiff!
+English,scene_fate_chr453_ep1,detail,Vyrn,"I mean, for a disciple of Uriel, you sure sound nothing like him."
+English,scene_fate_chr453_ep1,detail,Lyria,Hehe. I see your point.
+English,scene_fate_chr453_ep1,detail,Alexiel,"Master Uriel is great in battle and fervent in loyalty, so it is only natural that his actions are at times guided by emotion."
+English,scene_fate_chr453_ep1,detail,Alexiel,So I wish to support him—compliment his disposition—by always remaining composed and reserved.
+English,scene_fate_chr453_ep1,detail,Vyrn,Ooh. You're really taking this disciple thing to a whole new level.
+English,scene_fate_chr453_ep1,detail,Lyria,You and Uriel are like elements balancing each other out! You compliment each other perfectly!
+English,scene_fate_chr453_ep1,detail,Alexiel,Haha. I wonder how true that is.
+English,scene_fate_chr453_ep1,detail,Alexiel,At any rate I am in your care.
+English,scene_fate_chr453_ep1,detail,Lyria,Welcome aboard!
+English,scene_fate_chr453_ep1,detail,,"And so the crew gains a new member, Alexiel."
+English,scene_fate_chr453_ep1,detail,,The crew is in a jubilant mood as the seeds of chaos are silently sown.
+English,scene_chr453_q1_s10,synopsis,,"When explosives planted in cargo on the Grandcypher go off, the airship crash-lands on a small island. Faint rumbling of the earth warns Alexiel of impending danger, made evident by the machina soldiers that show up soon after."
+English,scene_chr453_q1_s10,detail,,The crew have undertaken a transportation assignment and are currently en route to their destination.
+English,scene_chr453_q1_s10,detail,,"When they come across a certain mountainous archipelago, however, the unthinkable happens."
+English,scene_chr453_q1_s10,detail,,Their cargo explodes. This damages the ship's wings and sends them spiraling into the island below.
+English,scene_chr453_q1_s10,detail,Lyria,Oh no!
+English,scene_chr453_q1_s10,detail,Rackam,Tsk. Not how I imagined today going!
+English,scene_chr453_q1_s10,detail,Rackam,"Hang on tight, guys! This is gonna get bumpy!"
+English,scene_chr453_q1_s10,detail,Rackam,Raaaaagh!
+English,scene_chr453_q1_s10,detail,,"With his piloting expertise, Rackam eases the ship onto the face of a mountain and slides it down the rocky slope until they come to a stop at the mountain's foot."
+English,scene_chr453_q1_s10,detail,Vyrn,Whew. Thought we were goners for a second there.
+English,scene_chr453_q1_s10,detail,Rackam,Everyone! You okay?
+English,scene_chr453_q1_s10,detail,Rackam,Sigh. And why the heck do we have cargo exploding?
+English,scene_chr453_q1_s10,detail,,The crew goes to the cargo bay to investigate what happened.
+English,scene_chr453_q1_s10,detail,,"Bits of food lie scattered on the ground, along with the smell of gunpowder and what looks like a metal device used to track time."
+English,scene_chr453_q1_s10,detail,Lyria,We... We were carrying bombs?
+English,scene_chr453_q1_s10,detail,Alexiel,"Not only that. I believe this was no mistake. Whoever did this, did so with murderous intent."
+English,scene_chr453_q1_s10,detail,Lyria,That's awful... Who would do such a thing?
+English,scene_chr453_q1_s10,detail,,The crew wonders. They'd never seen the client who hired them before; what could he possibly have against them?
+English,scene_chr453_q1_s10,detail,,The sound of thunder in the distance reaches Alexiel's ears. She looks to the encompassing mountains and furrows her brows.
+English,scene_chr453_q1_s10,detail,Alexiel,The elements of earth here are becoming roused...
+English,scene_chr453_q1_s10,detail,Vyrn,Huh? Don't tell me the island's gonna fall like with the last calamity?
+English,scene_chr453_q1_s10,detail,Alexiel,"No, no. There's no need to worry about that. Right now the tetra-elements are still in balance."
+English,scene_chr453_q1_s10,detail,Alexiel,"However... Singularity, this island is dangerous. We must leave posthaste."
+English,scene_chr453_q1_s10,detail,Rackam,"Sorry, I'd love to get outta here myself, but I'm gonna need some time to fix the wings."
+English,scene_chr453_q1_s10,detail,Rackam,Luckily we've got the materials and the hands needed. I'll try to get her up and flying as fast as I can.
+English,scene_chr453_q1_s10,detail,,The crew rushes to repair the ship.
+English,scene_chr453_q1_s10,detail,,"However, machina soldiers appear from out of nowhere and surround them."
+English,scene_chr453_q1_s10,detail,Rackam,What the! When did these guys get here?
+English,scene_chr453_q1_s10,detail,Alexiel,You take care of the repairs. Leave them to us.
+English,scene_chr453_q1_s10,detail,Rackam,All right. We're counting on you!
+English,scene_chr453_q1_s10,detail,Alexiel,Singularity. Stay sharp.
+English,scene_chr453_q1_s10,detail,,"Together, [플레이어] and Alexiel battle the machina soldiers."
