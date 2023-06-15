@@ -1,0 +1,319 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt210226_cp4_q1_s10,synopsis,,[플레이어]は機神と共鳴するための新たな装備を身に着け、グウィンと共に機神との契約を行う。アイザックからセスラカの推進制御も受信し、出発の準備が整うかと思われた時、セスラカのコアが欠けていることが判明する。かつて戦いの後、ゼタが空の底へ投げ捨てたものがコアだったとわかり頭を抱える一行。そこに声を掛けてきたのは、死んだはずのグレイスだった。
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>街で起きた幽世の者達、</span><br><span class='scene-font-katari'>そして敵グレイスとの戦いから</span><br><span class='scene-font-katari'>間もなく──</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>組織の面々が進めていた</span><br><span class='scene-font-katari'>カシウス救出作戦は、</span><br><span class='scene-font-katari'>次のフェーズに移行した。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,[플레이어],…………
+Japanese,scene_evt210226_cp4_q1_s10,detail,루리아,あっ！ 着替え、終わったんですね！<br>ふふ、かっこいいです！
+Japanese,scene_evt210226_cp4_q1_s10,detail,비,おお、<br>例の、機神と共鳴するためだかって<br>鎧、キマってんじゃねえか！
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>組織から支給された装備に身を包み、</span><br><span class='scene-font-katari'>少し照れくさい[플레이어]。</span><br><span class='scene-font-katari'>その一方で──</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,アリアネンサのコア、<br>取りつけ終了ですね。
+Japanese,scene_evt210226_cp4_q1_s10,detail,유스테스,……[플레이어]、グウィン。<br>契約を。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,…………
+Japanese,scene_evt210226_cp4_q1_s10,detail,바자라가,何か気になるか？
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,……ううん、ただ、[플레이어]を<br>組織に誘った時、いい武器もらえるよ、<br>って言ったの思い出して。
+Japanese,scene_evt210226_cp4_q1_s10,detail,바자라가,思わぬ形で叶ったわけか。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,ほんと、こんな形とはね。
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]はセスラカの前に、</span><br><span class='scene-font-katari'>グウィンはアリアネンサの前に立ち、</span><br><span class='scene-font-katari'>それぞれ機体に手をかざす。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,그윈,我、アリアネンサとの契約を望む。
+Japanese,scene_evt210226_cp4_q1_s10,sel1_txt,,<span class='scene-font-katari'>我、セスラカとの契約を望む</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,그윈,我が手に宿り、我とともにあれ。
+Japanese,scene_evt210226_cp4_q1_s10,sel1_txt,,<span class='scene-font-katari'>我が手に宿り、我とともにあれ</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,그윈,そして、汝の力を示せ。
+Japanese,scene_evt210226_cp4_q1_s10,sel1_txt,,<span class='scene-font-katari'>そして、汝の力を示せ</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>一瞬、視界に光る砂が舞った。</span><br><span class='scene-font-katari'>耳鳴りとともに、</span><br><span class='scene-font-katari'>わずかに意識が遠のき──</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>そして自覚する。</span><br><span class='scene-font-katari'>目の前の機神は、己が肉体の</span><br><span class='scene-font-katari'>一部であると。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,비,……どうなったんだ？
+Japanese,scene_evt210226_cp4_q1_s10,detail,이루자,ふたりとも生きている。<br>契約成功だ。
+Japanese,scene_evt210226_cp4_q1_s10,detail,베아트릭스,あはは！ すごいじゃん！<br>[플레이어]もグウィンも！
+Japanese,scene_evt210226_cp4_q1_s10,detail,루리아,なんだか、どきどきしました……
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,ではでは、さっそく<br>接続のテストといきましょうか。
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>周期的に訪れるという</span><br><span class='scene-font-katari'>出発のタイミングが近づき、</span><br><span class='scene-font-katari'>一行の動きは加速していた。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>月への移動手段を狙い、</span><br><span class='scene-font-katari'>敵、そして幽世の者達が動いている。</span><br><span class='scene-font-katari'>そのリスクを抱えたままにはできない。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>こうして、接続テストなどが行われ、</span><br><span class='scene-font-katari'>準備が着々と進んでいたその時──</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,아이작,<span class='scene-font-gray'>……お待たせ。セスラカの推進制御が</span><br><span class='scene-font-gray'>ようやく完成したよ。これで空から</span><br><span class='scene-font-gray'>月への軌道を計算できる。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,아이작,<span class='scene-font-gray'>穴あきカードに出力して、</span><br><span class='scene-font-gray'>通信機を通じて機神に読ませて</span><br><span class='scene-font-gray'>みてほしい。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,아이작,<span class='scene-font-gray'>それじゃあ、今からデータを送るよ。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>アイザックから推進制御を受信、</span><br><span class='scene-font-katari'>これを機神に書き込めば</span><br><span class='scene-font-katari'>出発の準備は整う。</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,,<span class='scene-font-katari'>そのはずであったが──</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,うーん……<br>なんか変です。
+Japanese,scene_evt210226_cp4_q1_s10,detail,이루자,というと？
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,セスラカに新しい制御を<br>書き込もうとするとですね……
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,ああ、やっぱり。<br>すぐ終わっちゃいます。
+Japanese,scene_evt210226_cp4_q1_s10,detail,이루자,ふむ……？
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,時間かかるはずなんです。<br>これだけたくさんの命令を<br>書き込むとなると。
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,もしかして、セスラカも<br>アリアネンサみたいに<br>コアが欠けてないです？
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,コア……核……？
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,あー……疲れた。<br>ボロボロに折れた剣が出てきたけど<br>これがコイツの核？
+Japanese,scene_evt210226_cp4_q1_s10,detail,이루자,敵の体が朽ちていく。<br>その剣が核で間違いないだろう。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,なら……また復活されても厄介だし。<br>こうね。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,……もしかして。
+Japanese,scene_evt210226_cp4_q1_s10,detail,바자라가,「こうね」と<br>空の底へ投げ捨てたアレか。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,う……
+Japanese,scene_evt210226_cp4_q1_s10,detail,베아트릭스,<span class='scene-font-4'>ウソだろ！？</span><br>ゼタが「こうね」って<br>捨てたアレがか！？
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,<span class='scene-font-4'>ベアまで！ </span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,……今になって必要になるなんて<br>あの時は思わなかったよ……
+Japanese,scene_evt210226_cp4_q1_s10,detail,유스테스,失ったコアを何かで代用できないか？
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,機神の素材を上手く加工すれば、<br>あるいはですが……
+Japanese,scene_evt210226_cp4_q1_s10,detail,마키라,コアの仕組みから見直さないとなので<br>ケッコウな時間がかかるかと。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,はぁー……最悪……<br>何やってんのあたし……
+Japanese,scene_evt210226_cp4_q1_s10,detail,바자라가,月の前に空の底で探してくるか。
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,それこそ何年かかるか……<br>いや、捨てたのあたしだけどさ……
+Japanese,scene_evt210226_cp4_q1_s10,detail,여성의 목소리,あらあら。<br>すごくお困りみたい。<br>どうしたの？
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,どうしたもこうしたも……
+Japanese,scene_evt210226_cp4_q1_s10,detail,제타,<span class='scene-font-4'>…………！？</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,그레이스,はぁい♪
+Japanese,scene_evt210226_cp4_q1_s10,detail,렌스,<span class='scene-font-4'>あ……！？</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,그윈,<span class='scene-font-4'>どうして……！？</span>
+Japanese,scene_evt210226_cp4_q1_s10,detail,그레이스,ふふ、来ちゃった。
+Japanese,scene_evt210226_cp4_q2_s10,synopsis,,現れたのは、グレイスの姿をとった幽世の者だった。幽世の者達は先の戦いで戦死した組織の兵達の姿をとって拠点へ侵入、空の底から探し出したセスラカのコアと共に、月への復讐に協力するよう一行を脅迫する。しかし部下を殺されたイルザはそれを一蹴。イルザの怒りの号令と激しい戦闘の音を聞きながら、コアを手に入れた[플레이어]達は急ぎ機神の打ち上げへ向かうのだった。
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,<span class='scene-font-4'>総員、構え！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,組織の兵達,<span class='scene-font-4'>はっ！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,ふふ。心配いらないわ。<br>だって私に武器なんてないもの。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,それより……見て？
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,探し物はこれじゃない？
+Japanese,scene_evt210226_cp4_q2_s10,detail,제타,なんで、あんたが……
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,私も、手段を選んでられないの。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,ねえ。ひとつお願いいいかな？<br>私達、力を合わせられないかと思って。
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,……何が狙いだ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,復讐よ。<br>私達のご先祖様を捨てた月の人達へ、<br>一矢報いるために。
+Japanese,scene_evt210226_cp4_q2_s10,detail,<span class='scene-font-2'>レンス・グウィン</span>,…………？
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,ねえグレイス。<br>本当に復讐が目的なの？
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,そのために私達は<br>敵と呼ばれる道を選んだのよ？
+Japanese,scene_evt210226_cp4_q2_s10,detail,렌스,……しっくりこねえな。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,あら。どうして？
+Japanese,scene_evt210226_cp4_q2_s10,detail,렌스,……何回聞いたって、<br>姐さんは「世界平和」って答えてたぜ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,…………
+Japanese,scene_evt210226_cp4_q2_s10,detail,렌스,てめえ誰だ？
+Japanese,scene_evt210226_cp4_q2_s10,detail,그레이스,困ったわねえ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,なりすましも楽じゃないですね。<br>やれやれ……
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,また貴様達か。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,でなきゃ、空の底から<br>わざわざコレを持ってなんか<br>これませんよ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,で、私、あの女の姿を<br>借りてはいましたが、<br>嘘は言ってませんからね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,力を合わせて月を倒しません？<br>色々と、こちらも思う所が<br>ありましてね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,베아트릭스,あれだけ街で大暴れしといて、<br>今さら何言ってんだ？
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,おや……
+Japanese,scene_evt210226_cp4_q2_s10,detail,,<span class='scene-font-katari'>肩をすくめ、幽世の者は</span><br><span class='scene-font-katari'>周囲の顔色をうかがう。</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,やっぱり協力は嫌ですか？
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,当然だろう。<br>貴様らに与する理由はない。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,……察してほしかったなあ。<br>私、言いましたよね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,復讐のためには<br>手段を選ばないと。
+Japanese,scene_evt210226_cp4_q2_s10,detail,제타,……またワラワラ出て来たわね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,<span class='scene-font-4'>グレイスは……！？</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,死にましたよ？<br>だから私は、彼女の姿と記憶を<br>リサイクルできたんです。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,…………！
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,私の部下達にも<br>なりすましていたようだが。<br>まさか……
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,ええ。先の戦いで死んだ連中の姿を<br>使ったんです。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,まさか我々を相手に<br>ひとりも戦死者が出なかったと<br>ほんとに思ってました？
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,…………
+Japanese,scene_evt210226_cp4_q2_s10,detail,,<span class='scene-font-katari'>イルザは目を閉じ、小さく息をつく。</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,[플레이어]、バザラガ、グウィン、<br>艇の建設と調整に携わる者は<br>マキラ殿と艇の格納庫へ向かえ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,베아트릭스,……教官？
+Japanese,scene_evt210226_cp4_q2_s10,detail,유스테스,下がっていろ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,제타,…………
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,秒を争う。こんな連中が出てきてはな。<br>この場は残った者達で収める。<br>さあ、向かうんだ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,……皆、いくぞ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,,<span class='scene-font-katari'>いやに落ち着いた様子のイルザに</span><br><span class='scene-font-katari'>内心恐ろしい物を感じながら、</span><br><span class='scene-font-katari'>一行はその場を後にする。</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,……そうか。気付かぬうちに戦死者が。<br>まあ、そうだろうな。<br>あの戦いでは、犠牲も出るだろう。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,おや。意外とドライな反応ですね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,皆、覚悟の上だろう。<br>他に行き場もない連中だ。<br>後悔はあるまい。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,だったら──
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,<span class='scene-font-4'>ぐ……！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,,<span class='scene-font-katari'>いつの間にか銃を抜いたイルザの弾丸が</span><br><span class='scene-font-katari'>幽世の者の足を撃ち抜き、</span><br><span class='scene-font-katari'>その言葉を遮った。</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,だったら何だ？
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,我々と──
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,<span class='scene-font-4'>がは……！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,発言を許可した覚えはない。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,<span class='scene-font-4'>あぐ……！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,君、少し黙っていてくれないか。
+Japanese,scene_evt210226_cp4_q2_s10,detail,유세에서 온 자,<span class='scene-font-4'>ごぁ……！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,ジェイク、サリバン、<br>リサ、イーガン……
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,レフリエサル、ザシレガ、カズミナ、<br>マルコ、ルイ、エレナ、ディアス……
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,以上11名の死と尊厳を<br>踏みにじる所業、<br>下手人どもの万死をもって返報とする！
+Japanese,scene_evt210226_cp4_q2_s10,detail,이루자,<span class='scene-font-4'>総員突撃！ 勦滅開始！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,組織の兵達,<span class='scene-font-4'>うおおおおおおっ！</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,비,うひっ！？<br>は……派手におっぱじめたな……！
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,……あんなに怒ったイルザ隊長、<br>自分は初めて見ました。
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,無理もあるまい。<br>俺もあの場に加わりたいくらいだ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,마키라,でも、うちゅう船が狙われている以上、<br>さっさと打ち上げないわけに<br>いかないですからね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,루리아,どうして狙うんでしょう？<br>幽世の人達、「復讐」って<br>言ってましたけど……
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,さあな。<br>月の者達と因縁でもあるのか……<br>俺達がそれを汲んでやる筋合もない。
+Japanese,scene_evt210226_cp4_q2_s10,detail,마키라,そですね。いかにも<br>裏切りそうな人（？）達ですし。
+Japanese,scene_evt210226_cp4_q2_s10,detail,마키라,おかげで材料はぜんぶ揃いましたけど。<br>これを機神に食べさせて、<br>アイザック君の制御を書きこんで──
+Japanese,scene_evt210226_cp4_q2_s10,detail,마키라,さっさと打ち上げちゃいましょう。<br>お月様にいる<br>カシウス君達が心配ですし。
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,しかし、都合よく<br>セスラカのコアが手に入ったものだな。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,…………
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,どうした、心配ごとか？
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,いえ。<br>あのグレイス……って人、<br>月へ行く方法、知ってたんですよね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,奴も月の末裔のひとりだ。<br>知っていても不思議ではないな。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,幽世の人達、グレイスが死んだから<br>グレイスの記憶をリサイクルして、<br>ここに来たって言ってましたよね。
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,……空の底に落ちた<br>セスラカのコアを持って、か。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,まさか、<br>そこまで計算してたんでしょうか、<br>グレイス……
+Japanese,scene_evt210226_cp4_q2_s10,detail,바자라가,さあな。<br>あの思考を理解しようとは思わん。<br>お前もそうしておけ。
+Japanese,scene_evt210226_cp4_q2_s10,detail,그윈,……はい。
+Japanese,scene_evt210226_cp4_q2_s10,detail,,<span class='scene-font-katari'>長い回廊を早足で歩き、</span><br><span class='scene-font-katari'>一行はやがて広間へと出る。</span>
+Japanese,scene_evt210226_cp4_q2_s10,detail,,<span class='scene-font-katari'>そこでは３体の機神が、</span><br><span class='scene-font-katari'>静かに起動命令を待っていた。</span>
+Japanese,scene_evt210226_cp4_q3_s10,synopsis,,イルザ達と、イルザが協力を要請していた他島の魔道士達により、幽世の者達は殲滅される。その後、セスラカに推進制御を書き込む間、ビィの提案で進空式を行うことに。皆それぞれの祈りを込めて機神にメッセージを書き込み、最後にベアトリクスが昔イルザに貰った筆記具をお守りとして機神に積み込む。やがて準備が整い、ついに月への道が開かれるのだった。
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,<span class='scene-font-4'>たあっ！</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,<span class='scene-font-4'>うりゃあっ！</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,유세에서 온 자,……なかなか、旗色が悪いですね。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,勝つつもりがあったとは驚きだな。
+Japanese,scene_evt210226_cp4_q3_s10,detail,유세에서 온 자,ならば見せてあげますよ。<br>こちらの切り札──
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,…………！
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>幽世の者が妙な仕草をするなり、</span><br><span class='scene-font-katari'>床から瘴気が溢れ出る。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>そして、醜悪な肉の塊が顔を出し、</span><br><span class='scene-font-katari'>中の目玉がイルザを見つめた。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,<span class='scene-font-4'>これは……！？</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,유세에서 온 자,鍵ですよ。幽世の門を開くためのね。<br>これを使って同胞達を──
+Japanese,scene_evt210226_cp4_q3_s10,detail,유세에서 온 자,<span class='scene-font-4'>な……！？</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,笑わせてくれるな。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,貴様らが<br>散々暴れ回ってくれたおかげで、<br>外の島からも協力を得られた。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,戦いの痕跡から貴様らの手口を調べ上げ<br>繋がった道を遮断する手は打った。<br>気付かなかったか？
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,人間の魔術を使うとは、回りくどい。<br>それゆえに一度は見逃したが……<br>タネがわかれば二度は通じん。
+Japanese,scene_evt210226_cp4_q3_s10,detail,유세에서 온 자,あ……あ……
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,靴が汚れた。拭かせてもらうぞ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>幽世の者の腹にイルザの靴が突き刺さり</span><br><span class='scene-font-katari'>開いた口は鉄のような掌に掴まれて</span><br><span class='scene-font-katari'>苦悶の声を押し込められる。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,貴様ら……<br>攻め方を見るに、死を恐れていないな。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,不死か不滅か知らんが<br>また来るか？ ん？<br>何度だって歓迎するとも。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,<span class='scene-font-4'>一度きりでは腹の虫が収まらん！</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>怒号とともに、幽世の者の首は</span><br><span class='scene-font-katari'>引きちぎられた。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,ファラ・ユーリ,<span class='scene-font-4'>ひっ！？</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,<span class='scene-font-2'>ゼタ・ベアトリクス</span>,…………
+Japanese,scene_evt210226_cp4_q3_s10,detail,유스테스,…………
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>そして、拠点の中に静寂が満ちる。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,勦滅完了だ。<br>……今回の所はな。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,イルザ隊、有志を募り<br>犠牲者11名の遺体を捜索！<br>私も艇を見送り次第合流する！
+Japanese,scene_evt210226_cp4_q3_s10,detail,組織の兵達,は……はっ！
+Japanese,scene_evt210226_cp4_q3_s10,detail,５人,…………
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,どうした？<br>拠点の守りは部下と魔道士に任せ、<br>[플레이어]達と合流するぞ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,유리,りょ……了解でありマすっ！
+Japanese,scene_evt210226_cp4_q3_s10,detail,파라,……声が裏返ってるっすよ、ユーリ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,あ……あんなの見たら、<br>しょうがないよな……な？
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,あはは……まあ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,유스테스,…………
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>──そして。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,마키라,ぴ・ぽ・ぱ……と。
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>──ﾄｶﾁｽｶ: ﾅﾄｲｽ ｺﾗﾗｶ ﾓﾗｼｲ.</span><br><span class='scene-font-gray'>ｽﾗﾓ ｿｸｲｿﾉ ﾗﾉ.</span><br><span class='scene-font-gray'>ﾊﾆｽﾓﾃﾁｽｲ ﾃｽﾆｶｲ ｾｽﾗｷｽｲﾄﾄ ﾄｶﾁｽｶ.</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>ｽﾗﾓ ｼﾗﾃﾐﾘﾗﾁｼﾆﾐｷ.......</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>.......</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,……大丈夫なの？<br>うんともすんとも言わないけど。
+Japanese,scene_evt210226_cp4_q3_s10,detail,마키라,今、機神が飛び方の<br>お勉強をしてるとこですね。<br>そんなに時間はかからないそうです。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,お勉強って……<br>内容忘れたりしたらどうするんだ？
+Japanese,scene_evt210226_cp4_q3_s10,detail,마키라,機神達は、一度覚えた事を<br>忘れないみたいですね。<br>記憶の仕組みがぜんぜん違うとか。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,……お前とはデキが違うな、癇癪玉。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,そ……それでも私は<br>座学も試験も全部突破したからな！
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>..................</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>ふとした瞬間に会話が途切れ、</span><br><span class='scene-font-katari'>機神の制御を書き込む機械へと</span><br><span class='scene-font-katari'>皆の視線が集中する。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>...........................</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,비,……ああ、そうだ。<br>なんかよ、進空式みたいなの<br>やっとかねえか？ ゲン担ぎっつうか。
+Japanese,scene_evt210226_cp4_q3_s10,detail,루리아,……いいですね！<br>ほら、ベアトリクスさんも<br>やってたじゃないですか！
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,ベアが……？<br>ああ、走艇でレースした時？
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,ピンキー・ベアハート・ポッピン・<br>ファイターの……？
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,ほら、艇に落書きしてさ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,もう！ 落書きっていうなよー！
+Japanese,scene_evt210226_cp4_q3_s10,detail,바자라가,……昔の艇乗りも、船体に<br>信条や守り神の顔を描いて<br>旅の成功を祈ったそうだ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,유스테스,描くなら使え。
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,塗料を持ってくるとは、<br>珍しく乗り気じゃないか。
+Japanese,scene_evt210226_cp4_q3_s10,detail,유스테스,手持無沙汰なだけだ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>ユーステスが持ち出した塗料と</span><br><span class='scene-font-katari'>筆を手に、皆がそれぞれの祈りをこめて</span><br><span class='scene-font-katari'>機神にメッセージを書き込んでいく。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,비,んーと……<span class='scene-font-italic scene-font-blue'>「勝つぜ」</span>！
+Japanese,scene_evt210226_cp4_q3_s10,detail,루리아,<span class='scene-font-italic scene-font-blue'>「がんばって」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,파라,<span class='scene-font-italic scene-font-blue'>「根性っす」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>....................................</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,유리,<span class='scene-font-italic scene-font-blue'>「正義ここにあり」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,<span class='scene-font-italic scene-font-blue'>「成功を祈る」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,바자라가,<span class='scene-font-italic scene-font-blue'>「取り戻す」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>....................................</span><br><span class='scene-font-gray'>.........</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,<span class='scene-font-italic scene-font-blue'>「帰ってこいカシウス」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,<span class='scene-font-italic scene-font-blue'>「敗北は即ち死に非ず。</span><br><span class='scene-font-italic scene-font-blue'>されど勝利は生者の他になし」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,유스테스,……<span class='scene-font-italic scene-font-blue'>「幸運を」</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>....................................</span><br><span class='scene-font-gray'>..................</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,……まだかかりそうか？
+Japanese,scene_evt210226_cp4_q3_s10,detail,마키라,はい、たぶん。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,それじゃあ……
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,……教官、これ、<br>あげてもいいか？
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,それは……
+Japanese,scene_evt210226_cp4_q3_s10,detail,제타,筆箱？
+Japanese,scene_evt210226_cp4_q3_s10,detail,이루자,……訓練生時代に使っていた<br>筆記用具か。まだ持っていたとは。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,ああ。教官からもらったやつだよ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,私、計算とか苦手だったし、<br>教官にむちゃくちゃ怒られたけど……
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,でもこれずっと使って、<br>諦めなかったから……<br>なんか、お守りみたいに思っててさ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,作戦が上手くいくように、<br>祈れるだけ……祈っときたくてさ……
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>沈黙の中、ふとした瞬間に、</span><br><span class='scene-font-katari'>皆が知らなかったカシウスの顔が</span><br><span class='scene-font-katari'>頭をよぎる。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>焦りを募らせても、どうしようもなく。</span><br><span class='scene-font-katari'>しかし、待つほかなくとも</span><br><span class='scene-font-katari'>待ち続けるのは苦しかった。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>動くのをやめればはじけてしまいそうな</span><br><span class='scene-font-katari'>気分で過ごす日々が、これでようやく</span><br><span class='scene-font-katari'>終わるのかもしれない。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,機械,<span class='scene-font-gray'>ﾊﾆｽﾓﾃﾁｽｲ ﾃｽﾆｶｲ ｿﾗﾓｾﾘｲｶｲｼ.</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,마키라,お勉強、終わりました。<br>艇に積んで、さっそく飛ばしましょう。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,[플레이어]、バザラガ、グウィン、<br>この期に及んで私にできる事が<br>こんなに無いのが悔しいよ。
+Japanese,scene_evt210226_cp4_q3_s10,detail,베아트릭스,頼んだぞ、カシウスと、<br>アイザックと、あのチビロボの事。
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>皆とうなずき合い、</span><br><span class='scene-font-katari'>[플레이어]達は機神とケーブルで</span><br><span class='scene-font-katari'>繋がれた椅子に腰かける。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>それぞれ、頭や手足に</span><br><span class='scene-font-katari'>大きなクリップを装着された。</span><br><span class='scene-font-katari'>その後、視界に変化が起き──</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,オペレータ１,<span class='scene-font-gray'>各員、機神への</span><br><span class='scene-font-gray'>神経接続を開始します。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>アイザックからのメッセージを受けて</span><br><span class='scene-font-katari'>ようやく。</span>
+Japanese,scene_evt210226_cp4_q3_s10,detail,,<span class='scene-font-katari'>長い時間をかけて、</span><br><span class='scene-font-katari'>月への道は開かれた。</span>
+Japanese,scene_evt210226_cp4_q4_s10,synopsis,,[플레이어]、バザラガ、グウィンが神経を接続した機神を乗せ、騎空艇は月へ向けて無事に飛び立つ。その様子を、月ではアイザックとω３のデアンが眺めていた。アイザックの助言があったからとはいえ、空の民の進歩や適応力に感心するデアン。アイザックはカシウスの脳のコピーを作り、空の生活の何がカシウスを変質させたのか調査を続けながら、[플레이어]達の到着を待つのだった。
+Japanese,scene_evt210226_cp4_q4_s10,detail,オペレータ１,<span class='scene-font-gray'>アルファ・ブラヴォ・ゴルフ</span><br><span class='scene-font-gray'>各機体、マキラ艇本体への</span><br><span class='scene-font-gray'>締結・固定・全て完了。確認よし。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,オペレータ２,<span class='scene-font-gray'>了解。視覚接続を開始。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,オペレータ２,<span class='scene-font-gray'>各機、状況を報告してください。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,그윈,<span class='scene-font-gray'>見えてます。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,바자라가,<span class='scene-font-gray'>こちらもだ。</span>
+Japanese,scene_evt210226_cp4_q4_s10,sel1_txt,,<span class='scene-font-katari'>同じく</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,オペレータ２,<span class='scene-font-gray'>了解。聴覚、触覚ともに接続。</span><br><span class='scene-font-gray'>ボディスケール、機体表面に合わせ</span><br><span class='scene-font-gray'>拡大開始します。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>体が引き伸ばされるような感覚に</span><br><span class='scene-font-katari'>若干の吐き気を覚えるが、</span><br><span class='scene-font-katari'>それもじきに慣れた。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,オペレータ１,各機、機体のイニシャライズを<br>開始してください。
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>手順に従い、手、腕、脚、首、腰と</span><br><span class='scene-font-katari'>順に力を込めて、機体の各所が</span><br><span class='scene-font-katari'>駆動する事を確認。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>わずかな時間、身じろぎして</span><br><span class='scene-font-katari'>また停止した機神を確認したマキラが</span><br><span class='scene-font-katari'>親指を立て、ゴーサインを出した。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,……これより、<br>カシウス、アイザック、レイベリィの<br>救出作戦を開始する。
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,機神３機を遠隔操縦し、月へ到着、<br>その後、艇に搭載した脱出ポッドで<br>救助者３名を離脱させる。
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,主要な作戦は以上だ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,<span class='scene-font-2'>バザラガ・グウィン</span>,<span class='scene-font-gray'>了解。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,<span class='scene-font-gray'>また、「敵」は何らかの</span><br><span class='scene-font-gray'>強大な兵器が月に存在する可能性を</span><br><span class='scene-font-gray'>示唆している。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,<span class='scene-font-gray'>月の状況を通じて</span><br><span class='scene-font-gray'>その情報を可能な限り掴んでくれ。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,<span class='scene-font-gray'>事と次第によれば、</span><br><span class='scene-font-gray'>この空の運命はお前達に託された</span><br><span class='scene-font-gray'>可能性もある。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,……頼んだぞ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,이루자,アルファ・ブラヴォ・ゴルフ、<br>各機推進機構に点火、<br>マキラ艇、発進せよ！
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>青白い光とともに、巨大な騎空艇は</span><br><span class='scene-font-katari'>ゆっくりとその機体を浮き上がらせる。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>木造の拠点は騎空艇に押し上げられ、</span><br><span class='scene-font-katari'>きしみながら崩れていく。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>蒼空が広がり、</span><br><span class='scene-font-katari'>艇の舳先からやや外れた場所には</span><br><span class='scene-font-katari'>白く浮かぶ月が見える。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,セスラカ,Thruster at max.
+Japanese,scene_evt210226_cp4_q4_s10,detail,그로우노스,Synchronizing<br>with Pyet-A's output.
+Japanese,scene_evt210226_cp4_q4_s10,detail,アリアネンサ,Following Pyet-A's lead.
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>轟音とともに拠点の残骸を</span><br><span class='scene-font-katari'>吹き飛ばしながら、艇は加速する。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>やがて空は蒼さを失い、</span><br><span class='scene-font-katari'>艇は深淵の闇へと飛び込んだ。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,……無事に、<br>大気圏を脱出できたみたいだね。
+Japanese,scene_evt210226_cp4_q4_s10,detail,레이베리,さすがだな、アイザック。<br>俺が生涯かけて成しえなかった事を<br>この短期間で達成させるとは。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,僕の一族だって何代もかけたさ。<br>あとは、機関の技術力のおかげだよ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,お前の助力があったとはいえ<br>驚異的な適応を見せるものだな。<br>フォッシルの者達は。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,そうだね。フォッシル側とこちらの<br>文明レベルのギャップは<br>あまりに大きかった。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,あのロケットも未熟なのは否めない。<br>けど、それでも彼らは重力圏を<br>脱出してみせた……
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,覇空戦争で、フォッシルの民が<br>レリックを退けたのもうなずけるね。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,機関の調査隊に現れた変化も<br>それに由来するものだろうか。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,現時点では結論が出せないな……<br>サンプルの解析がまだ足りないよ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,ふむ。<br>解析の状況は？
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,サンプル「エージェント・カシウス」の<br>脳のコピーは必要数を作り終わったよ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,これから、サンプルの記憶を<br>消したり足したり……どの出来事が<br>変質に繋がったかを仮想検証する。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,検証の指針は？
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,それぞれの脳に仮装空間を与えて<br>フォッシルで起きた各イベントへの<br>反応を見ようと思う。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,具体的には、<br>機神ヤチマとの戦闘で<br>フォッシルの民をかばうか否か。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,そして、空を離れる際の<br>対ストレス反応が起きるか否か。<br>指針になるのはこの２点かな。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,了解した。サンプルの<br>バックアップが完了しているならば<br>オリジナルはリサイクルに回すか？
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,あー……
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,念のため、オリジナルは<br>保管しておきたいな。<br>仮想環境だけだと不安だからね。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,了解した。<br>現状、問題はないだろう。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,デアン、オリジナルのリサイクルも<br>やっぱり分解漕に投入するのかい？
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,そうだ。廃棄物、排泄物と同様に<br>分解漕で分子レベルまで分解され<br>機関の資源として再利用される。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,なるほど。興味深いね。<br>僕の権限で見学はできるかい？
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,資源の循環は最高機密だ。<br>分解漕への立ち入り権限は、<br>ω３にも与えられていない。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,そうか……<br>エージェント・カシウスの分解処理は<br>見ておきたかったんだけど、残念だよ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,いずれ、お前になら<br>分解漕の閲覧だけでなく、<br>管理権限が与えられるはずだ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,お前の手で、機関は<br>最終目標へと向けて動き出した。<br>お前の貢献ははかりしれない。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,光栄だね。
+Japanese,scene_evt210226_cp4_q4_s10,detail,デアン,また来る。<br>フォッシル側に動きがあれば報告しろ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,ああ。よろしく頼むよ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,さて。次はと……<br>サンプル達の記憶をランダムで消去、<br>それから仮想検証だ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,なあ、レイベリィ。<br>サンプルのデータ消去は<br>どれくらい時間がかかる？
+Japanese,scene_evt210226_cp4_q4_s10,detail,레이베리,長く見積もって数日だな。<br>空を発った機神が届くまでには<br>完了するだろう。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,長いなあ……検証はそれからか。
+Japanese,scene_evt210226_cp4_q4_s10,detail,레이베리,ともあれ、今は待つのみだ。
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,……ああ。待つしかない。
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>アイザックとレイベリィが</span><br><span class='scene-font-katari'>眺めるモニターには、カシウスの記憶が</span><br><span class='scene-font-katari'>並んでいた。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,,<span class='scene-font-katari'>乱数に従い、カシウスの記憶を</span><br><span class='scene-font-katari'>コピーされた脳から、無作為に</span><br><span class='scene-font-katari'>記憶が消されていく。</span>
+Japanese,scene_evt210226_cp4_q4_s10,detail,아이작,…………
