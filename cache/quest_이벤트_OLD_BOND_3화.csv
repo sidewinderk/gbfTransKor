@@ -1,0 +1,174 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt211228_cp3_q1_s10,synopsis,,翌日の日の出より、ガレヲン審判のもとで[플레이어]とウィルナスの勝負が始まる。[플레이어]は旅に出る前島でやっていた畑仕事の経験を活かし丁寧に耕し、ウィルナスは力と体力に任せとてつもない勢いで耕していく。[플레이어]はルリアとビィのサポートを受け、ふたりが用意してくれた飲み物や昼食で適宜休憩をとりながら耕し続けるのだった。,"다음날의 일출, 갈레온 심판 하에 [플레이어]와 윌나스의 승부가 시작된다. [플레이어]는 여행을 떠나기 전 섬에서 하던 밭일의 경험을 살려 정성껏 경작하고, 윌나스는 힘과 체력에 맡겨 엄청난 기세로 경작해 간다. [플레이어]는 루리아와 비의 도움을 받아 두 사람이 준비해 준 음료수나 점심으로 적당히 휴식을 취하면서 계속 진행하는 것이었다."
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ウィルナスの試練を控える早朝──</span><br><span class='scene-font-katari'>まだ朝日も射さない暗い騎空艇の廊下を</span><br><span class='scene-font-katari'>ルリアとビィは静かに歩いていた。</span>,"<span class='scene-font-katari'>윌나스의 시련을 앞둔 이른 아침, 아직 해도 뜨지 않은 어두운 기공정 복도를 루리아와 비이가 조용히 걷고 있었다.</span>"
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ふたりは連れ立って厨房へやってくると</span><br><span class='scene-font-katari'>道具や食材をテーブルの上へ並べる。</span>,<span class='scene-font-katari'>그들은 함께 주방에 들어가더니 테이블 위에 각종 도구와 재료를 늘어놓았다.</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,チーズと、ベーコンと、卵と……<br>バゲットも使っちゃって<br>大丈夫だそうです！,치즈랑 베이컨이랑 달걀이랑... 바게트 써도 괜찮을 것 같아요!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,よし、ってことはサンドイッチだな！<br>オイラは何すればいい、ルリア？,"좋아. 그럼 샌드위치 만드는 거지? 난 뭐 하면 돼, 루리아?"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,バゲットを切ってもらうのと、<br>バターを練ってから<br>切った面に塗ってもらえますか？,"바게트 좀 썰어 주시고, 버터 부드럽게 휘저어서 자른 면에 발라 주실래요?"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,私は挟むものを作っていきますね！<br>ええと……あんまり失敗しないし、<br>ゆで卵を砕いて和えたやつにします。,저는 그 사이에 넣을 재료 준비할게요! 음... 삶은 달걀 으깨서 버무린 걸로 해야겠어요. 이거라면 실패할 일도 거의 없을 테니까.
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,バゲットの準備は任せとけ！<br>他にもオイラができそうなことあれば<br>言ってくれよな。,바게트 준비라면 나한테 맡겨! 그거 말고도 내가 할 수 있을만한 거 있으면 말해 줘.
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,はい！ 美味しいお弁当を作って、<br>[플레이어]が試練を<br>乗り越えるお手伝いをしましょう！,네! 맛있는 도시락 만들어서 [플레이어]가 시련을 돌파할 수 있도록 곁에서 돕자구요!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,へへ、チーズもたっぷり入れようぜ！<br>元気が出て腹に溜まる<br>サンドイッチにしねぇとな！,헤헤. 치즈도 잔뜩 넣자! 힘이 쑥쑥 솟아나올 샌드위치를 만드는 거야!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,あ！ そうだそうだ、<br>昔、近所の婆ちゃんが作ってくれた<br>飲み物も作れるな……,"아, 맞다! 예전 근처에 살던 할머니가 만들어 줬던 음료수도 만들 수 있겠는데..."
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,水分補給も大切ですもんね……！<br>準備万端にできるよう、<br>頑張りましょう、ビィさん！,"수분 보충도 중요하니까요! 제대로 준비할 수 있게끔 우리 열심히 해요, 비이 씨!"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,おうっ！,그래!
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ルリアとビィは頷き合い、</span><br><span class='scene-font-katari'>[플레이어]が目覚める前に</span><br><span class='scene-font-katari'>弁当の用意を進めていく。</span>,<span class='scene-font-katari'>루리아와 비이는 고개를 끄덕인 후 [플레이어]가 일어나기 전에 도시락을 준비하려고 서둘러 움직였다. </span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>夜明け前に起きた</span><br><span class='scene-font-katari'>[플레이어]は、ルリアとビィと共に</span><br><span class='scene-font-katari'>ウィルナスの待つ島へと向かった。</span>,"<span class='scene-font-katari'>이윽고 날이 새기 전에 일어난 [플레이어]는 루리아, 비이와 함께 윌나스가 기다리는 섬으로 향했다.</span>"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,感心、感心！<br>約定の時刻よりも<br>些かお早い御着きであるぞ！,"훌륭하구나, 훌륭해! 약속된 시각보다 상당히 빠르게 도착했군!"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,我等はル・オーを除けば<br>時間の感覚が希薄でなぁ。<br>つい時刻に関して緩くなる。,우리 중 루 오를 제외하고는 모두 시간 감각이 희박하거든. 시간과 관련해서는 상당히 느슨해지곤 하지.
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,時間感覚以外も<br>緩いような気はするけど……,시간감각 말고도 여러 가지로 느슨한 것 같은데...
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,取り敢えず、[플레이어]は<br>どこを耕せばいいんだ？,아무튼 [플레이어](이)가 어디를 갈면 되는데?
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,うむ！ 小川を境としよう！<br>岩は取り除いたつもりだが、<br>小石は見逃しているやもしれん。,음! 이 실개천을 경계로 삼자! 바위는 다 치워뒀다고 생각한다만 작은 돌은 놓쳤을지도 모르겠다.
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,その辺りの片付けも含めて<br>「耕す」ってことか……<br>道具はあるのか？,"그런 부분의 정리까지 포함해서 땅을 ""갈으라""는 건가... 도구는 있어?"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,おお、スキ？ だのクワ？ だの<br>ル・オーが用立ててくれたのでな！,그래. 가래? 니 괭이니 하는 것들을 루 오가 준비해 줬지!
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ウィルナスが手を振ると、</span><br><span class='scene-font-katari'>彼の足元に様々な道具が姿を現し</span><br><span class='scene-font-katari'>[플레이어]は使うものを選ぶ。</span>,"<span class='scene-font-katari'>윌나스가 손을 흔들자, 그의 발 밑에 다양한 도구들이 나타났기에 [플레이어]는 사용할 도구를 골랐다.</span>"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,畑を成す土として耕せているかどうか、<br>審判としてガレヲンを<br>呼んであるぞ！,밭으로 쓸 만큼 잘 갈았는지 어떤지 판정할 심판으로는 갈레온을 불렀다!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ガレヲン,定時。<br><span class='scene-font-kokoro'>（試練開始の時刻ですね。</span><br><span class='scene-font-kokoro'>準備はよろしいですか？）</span>,정시.<br><span class='scene-font-kokoro'>(시련 개시 시간이군요. 준비는 되셨나요?)</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,[플레이어]！<br>頑張ってくださいね……！,[플레이어]! 힘내세요...!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ガレヲン,開始。<br><span class='scene-font-kokoro'>（それでは、正々堂々……</span><br><span class='scene-font-kokoro'>勝負を始めてください）</span>,개시.<br><span class='scene-font-kokoro'>(그럼 정정당당하게... 승부 시작입니다)</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>ガレヲンの言葉に頷き、</span><br><span class='scene-font-katari'>[플레이어]はまず</span><br><span class='scene-font-katari'>自分が耕す範囲を見て回る。</span>,<span class='scene-font-katari'>갈레온의 말에 고개를 끄덕인 [플레이어]는 우선 자신이 갈아야 할 범위를 돌아보았다.</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,<span class='scene-font-4'>ふん、はぁ！</span>,"<span class='scene-font-4'>흐음, 하아!</span>"
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]が確認を済ませる間にも</span><br><span class='scene-font-katari'>ウィルナスは鍬を振りかぶり土に混じる</span><br><span class='scene-font-katari'>砂利を砕く勢いで開墾を始めた。</span>,<span class='scene-font-katari'>[플레이어]가 확인하는 사이에도 윌나스는 괭이를 휘둘러 땅에 섞인 자갈을 박살내며 땅을 갈아나가고 있었다.</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,<span class='scene-font-4'>うわっ！</span><br>すげぇ勢いだな……！,<span class='scene-font-4'>으아!</span> 엄청난 기세네...
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,うぅ、流石六竜さんです……！<br>[플레이어]、<br>勝てるでしょうか……,"우... 역시 육룡답네요. [플레이어], 이길 수 있을까요...?"
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]はかつての経験を</span><br><span class='scene-font-katari'>思い返しながら邪魔な石を除き</span><br><span class='scene-font-katari'>丁寧に土を掘り返していく。</span>,<span class='scene-font-katari'>[플레이어]는 옛 경험을 되살리며 방해되는 돌들을 치우고 정성스럽게 땅을 갈아엎었다.</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>戦闘とはまた異なる部位の負担を</span><br><span class='scene-font-katari'>身体にかけ、汗を搔きながら</span><br><span class='scene-font-katari'>[플레이어]は作業を進める。</span>,<span class='scene-font-katari'>전투할 때와는 다른 부위에 힘이 실리는 감각에 쉴새없이 땀이 흘렀다. </span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,おーい、[플레이어]！<br>そろそろ一回休憩して<br>水分とっとけよ！,어이~ [플레이어]! 슬슬 잠깐 쉬면서 수분 좀 보충해!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,ほら、近所の婆ちゃんが<br>よく作ってくれたのを真似して<br>飲み物作っといたぜ。懐かしいだろ？,자. 근처 할머니가 자주 만들어 주시던 음료수 만들어 왔어. 옛날 생각나지?
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>礼を言い、</span><br><span class='scene-font-katari'>ビィが渡してくれた水筒で</span><br><span class='scene-font-katari'>[플레이어]は喉を潤す。</span>,<span class='scene-font-katari'>[플레이어]는 감사를 표한 후 비이가 건네 준 수통으로 목을 축였다.</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,ルリアも飲むか？<br>蜂蜜とレモンと生姜のシロップを<br>水で割ったやつ！,루리아도 마실래? 꿀이랑 레몬이랑 생강 시럽을 물에 탄 거야!
+Japanese,scene_evt211228_cp3_q1_s10,sel1_txt,,<span class='scene-font-katari'>名前が長いねぇ</span>,<span class='scene-font-katari'>이름이 기네</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,仕方ねぇだろ、<br>婆ちゃんが名前つけてなかったから<br>わかんねぇし……,어쩔 수 없잖아. 할머니가 이름을 안 지어 줘서 뭔지 모르는걸...
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,[플레이어]とビィさんにとって<br>思い出の味なんですね……<br>いただきます！,[플레이어]와 비이씨의 추억이 서린 맛인 거군요... 잘 마실게요!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ルリア,わぁ、甘くて美味しいです～！<br>スッキリしてて<br>飲みやすいですね！,와~ 달고 맛있어요! 깔끔해서 마시기도 편하네요!
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,なんだっけな、レモンに入ってる<br>すっぱい成分？ が<br>疲れに効くとかなんとか……,"뭐래더라, 레몬을 넣었을 때의 신맛?이 피로 회복에 도움이 된다나..."
+Japanese,scene_evt211228_cp3_q1_s10,detail,ビィ,昼飯はルリアと弁当作ってきたからさ！<br>楽しみにして、作業頑張ってくれよな。,점심은 루리아가 도시락 만들어 왔어! 기대하면서 작업 열심히 해.
+Japanese,scene_evt211228_cp3_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]はビィとルリアに</span><br><span class='scene-font-katari'>笑顔を見せ、再び農具を手に</span><br><span class='scene-font-katari'>地面と向き合う。</span>,<span class='scene-font-katari'>[플레이어]는 비이와 루리아를 향해 웃어보인 후 다시 농기구를 들고 땅에 섰다.</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,ふむ……休憩か、<br>存外余裕があるのだなぁ。,흐음... 휴식이라. 의외로 여유롭군.
+Japanese,scene_evt211228_cp3_q1_s10,detail,ガレヲン,習熟。<br><span class='scene-font-kokoro'>（特異点は農作業の</span><br><span class='scene-font-kokoro'>経験者であるようですね）</span>,습숙.<br><span class='scene-font-4'>(특이점은 농사일 경험자인 모양이군요)</span>
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,先達、先達か！<br>おお、試練の果てが楽しみだ！,"선배, 선배란 말이지! 오오, 시련 결과가 기대되는걸!"
+Japanese,scene_evt211228_cp3_q1_s10,detail,ウィルナス,<span class='scene-font-4'>うぉおおおおおお！！</span>,<span class='scene-font-4'>우오오오오!!</span>
+Japanese,scene_evt211228_cp3_q2_s10,synopsis,,こまめに水分を取り、休憩を挟む[플레이어]はペースを落とすことなく作業を続ける。一方、人の身体に慣れないウィルナスは休むことなく耕し続け、熱中症になりかけ倒れてしまう。結果、島の開墾勝負は[플레이어]が勝利。ウィルナスは、か弱い身体ながらもそれ故に技術や文化を生み出す空の世界の人々を称賛するのだった。,"때때로 수분을 섭취하고, 휴식을 취하는 [플레이어] 은(는) 페이스를 늦추는 일 없이 작업을 계속한다. 반면 밭일에 낯선 윌나스는 쉴 새 없이 갈다가 열사병에 걸려 쓰러지고 만다. 결과, 섬의 개간 승부는 [플레이어] 이(가) 승리. 윌나스는 연약한 몸이면서도 그렇기 때문에 기술과 문화를 만들어내는 하늘의 주민들을 찬양하는 것이었다."
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>ルリアとビィ、そしてガレヲンが</span><br><span class='scene-font-katari'>見守る中で[플레이어]と</span><br><span class='scene-font-katari'>ウィルナスは作業を続ける。</span>,"<span class='scene-font-katari'>루리아와 비이, 갈레온이 지켜보는 사이 [플레이어]와 윌나스는 작업을 계속해나갔다.</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,苦悩。<br><span class='scene-font-kokoro'>（悩ましいものです……）</span>,고뇌.<br><span class='scene-font-kokoro'>(난감하군요...)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,どうかしましたか、ガレヲンさん？,"왜 그러세요, 갈레온 씨?"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,営為。<br><span class='scene-font-kokoro'>（本来、植物も動物も広い大地で</span><br><span class='scene-font-kokoro'>営みを送ることができたはず）</span>,영위.<br><span class='scene-font-kokoro'>(본디 식물이나 동물이나 훨씬 더 드넓은 대지에서 생활을 영위해나갈 수 있었을 겁니다.)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,毀損。<br><span class='scene-font-kokoro'>（しかし、創世の歪みは</span><br><span class='scene-font-kokoro'>空の世界の命から大地を奪いました）</span>,훼손.<br><span class='scene-font-kokoro'>(허나 창세의 뒤틀림이 하늘의 세계에 있는 생명에게서 대지를 빼앗았죠)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,ええと……オイラ達、<br>十分広い世界に<br>暮らしてると思うけど……？,어음... 우리 꽤 넓은 세계에서 잘 살고 있는 거 같은데...?
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,錯誤。<br><span class='scene-font-kokoro'>（それは今の世界のみを知るが故。</span><br><span class='scene-font-kokoro'>本来は分かたれた島ではなかった……）</span>,착오.<br><span class='scene-font-kokoro'>(그것은 지금의 세계만 알고 있기 때문입니다. 본래는 이렇게 조각난 섬이 아니었죠...)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,島じゃない……,섬이 아니었다고요...
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,埒外。<br><span class='scene-font-kokoro'>（想像することも難しいのですね。</span><br><span class='scene-font-kokoro'>世界を歩む哀れな命……）</span>,책외.<br><span class='scene-font-kokoro'>(상상하는 것조차 어려운 모양이군요. 세계를 걷는 가련한 생명이여...)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,祝福。<br><span class='scene-font-kokoro'>（せめて、祝福を贈りましょう）</span>,축복.<br><span class='scene-font-kokoro'>(축복이라도 내려 드리죠)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>ガレヲンはそっとルリアを抱き寄せ</span><br><span class='scene-font-katari'>その額へ口づけ、</span><br><span class='scene-font-katari'>続いてビィの頬へも唇を寄せた。</span>,<span class='scene-font-katari'>갈레온은 루리아를 살포시 껴안더니 그녀의 이마에 입맞춤했다. 이어서 비이의 이마 쪽으로 얼굴을 갖다댔다.</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,<span class='scene-font-4'>うわっ！？</span><br>だから、急にキスされたりしたら<br>びっくりするだろ！？,"<span class='scene-font-kokoro'>으어!</span> 아니, 갑자기 키스하면 깜짝 놀라잖아!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,恩寵。<br><span class='scene-font-kokoro'>（微かではありますが私に</span><br><span class='scene-font-kokoro'>出来る贈り物。遠慮は不要です）</span>,은총.<br><span class='scene-font-kokoro'>(미력하지만 제가 드릴 수 있는 선물. 사양할 거 없습니다)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,あーもぅ、六竜ってのは<br>なんでこう変な奴ばっか……,아... 진짜 육룡이란 애들은 왜 이렇게 이상한 녀석들만...
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,あっ！<br>ビィさん、[플레이어]が<br>休憩にするそうですよ。,아! 비이 씨. [플레이어]가 쉬려나 봐요.
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,おっと、じゃあそろそろ<br>昼飯にすっか！,"오, 그럼 슬슬 점심 먹을까?"
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>朝作ってきた弁当を持って</span><br><span class='scene-font-katari'>ルリアとビィは[플레이어]と共に</span><br><span class='scene-font-katari'>お昼ご飯を食べ始める。</span>,"<span class='scene-font-katari'>루리아와 비이, [플레이어]는 함께 아침에 만들어 온 도시락을 먹기 시작했다.</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,平穏。<br><span class='scene-font-kokoro'>（のどかな光景だこと……）</span>,평온.<br><span class='scene-font-kokoro'>(안온한 광경이군요...)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,騒音。<br><span class='scene-font-kokoro'>（やかましい音さえなければ、</span><br><span class='scene-font-kokoro'>ですが……）</span>,소음.<br><span class='scene-font-kokoro'>(저 거슬리는 소리만 없다면 말이죠...)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,<span class='scene-font-4'>ふん、はっ……</span><br><span class='scene-font-4'>ふん、はっ……</span>,<span class='scene-font-4'>흐으~ 하... 후~ 하...</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>こまめに水分を取り、休憩を挟むことで</span><br><span class='scene-font-katari'>[플레이어]は当初から</span><br><span class='scene-font-katari'>ペースを落とすことなく作業を続ける。</span>,<span class='scene-font-katari'>틈틈히 수분을 섭취하며 휴식을 취한 [플레이어]는 처음보다 그리 처지지 않는 속도로 작업을 이어나갔다.</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>しかし……</span>,<span class='scene-font-katari'>그러나...</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,えい、おう……<br>えい、……,"여엉, 차. 영..."
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,ぐ、うぅ……,그으으...
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>一方、ウィルナスは朝に比べ</span><br><span class='scene-font-katari'>酷く作業の速度が落ち始めていた。</span>,"<span class='scene-font-katari'>한편, 윌나스는 아침에 비해 작업 속도가 상당히 더뎌진 상태였다.</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,ぜい、はぁ……<br>なん、だ……これは……？,"하아, 하아... 뭐지 이건...?"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,ただの土を重く感じる……<br>しかしガレヲンが元素に<br>力を加えるはずもなし。,평범한 흙일 뿐인데 무겁게 느껴지는군. 하지만 갈레온이 원소에 힘을 불어넣은 건 아닐 터인데.
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,何故ただの木と鉄の組み合わせから<br>こうも痺れが伝わる……？<br>魔術も呪いもない、が……,어째서 나무와 철 덩어리에서 이런 저림이 느껴지는 거지? 마술도 아니고 저주도 아니고... 
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,ふん、はっ……！,"후우, 하아!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,…………,…………
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,ぐ、う……,"그, 으..."
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,<span class='scene-font-4'>あぁっ！？</span><br>ウィルナスさん、大丈夫ですか！？,"<span class='scene-font-4'>아앗!</span> 윌나스 씨, 괜찮으세요?"
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>倒れたウィルナスを心配し、</span><br><span class='scene-font-katari'>[플레이어]をビィに任せ</span><br><span class='scene-font-katari'>ルリアは六竜の『朱』へ駆けよる。</span>,"<span class='scene-font-katari'>윌나스가 쓰러지자, 루리아는 [플레이어]를 비이에게 맡긴 채 육룡의 ""주"" 곁으로 달려왔다.</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,<span class='scene-font-2'>大事、ない……</span>,"<span class='scene-font-2'>괜찮, 다...</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,でも、すっごく疲れて見えますよ。<br>……あれ？ なのに汗を<br>かいてないみたいです……？,그치만 엄청 피곤해 보이세요. 어라? 그런데 땀은 안 나는 것 같네요?
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,<span class='scene-font-4'>あっ！</span>,<span class='scene-font-4'>아!</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,ウィルナスさん！<br>駄目ですよ、お水を飲まないと<br>熱中症になっちゃうんです！,"윌나스 씨, 이러시면 안 돼요. 물을 마시지 않으면 열사병에 걸린다고요!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,<span class='scene-font-2'>ねっちゅう……？</span>,<span class='scene-font-2'>열사...?</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,そっか……ヒトに近い器で動くのは<br>慣れていないんですもんね。<br>知らなかったんですね……,그렇구나... 사람과 비슷한 그릇으로 움직이는 것에 익숙치 않아서 모르셨군요...
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,ウィルナスさん、木陰に入りましょう！,윌나스 씨. 그늘로 가요!
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>自らの体調に困惑するウィルナスを</span><br><span class='scene-font-katari'>ルリアは日陰へ導き、飲み物を与えて</span><br><span class='scene-font-katari'>看病してやる。</span>,<span class='scene-font-katari'>루리아는 자신의 몸 상태를 이해하지 못하고 있는 윌나스를 그늘로 데려가 물을 준 후 간병했다.</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,濡れタオルを当てておくと<br>少し楽だと思いますよ！,젖은 타올을 대고 있으면 조금 편하실 거예요!
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,<span class='scene-font-2'>面目ない……</span><br><span class='scene-font-2'>感謝、感謝だ……</span>,"<span class='scene-font-2'>면목없군... 감사, 감사한다...</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>ルリアがウィルナスの面倒を</span><br><span class='scene-font-katari'>見てやっているのを確認しつつ、</span><br><span class='scene-font-katari'>[플레이어]は作業を続ける。</span>,<span class='scene-font-katari'>루리아가 윌나스를 돌보는 것을 확인한 [플레이어]는 작업을 계속 이어나갔다.</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,定刻。<br><span class='scene-font-kokoro'>（そこまで。試練終了の刻限です）</span>,정각.<br><span class='scene-font-kokoro'>(여기까지. 시련 종료 시각입니다)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,ふぃ～……<br>お疲れ！ [플레이어]。,후우... 수고했어! [플레이어].
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,検分。<br><span class='scene-font-kokoro'>（結果を確認しましょう。</span><br><span class='scene-font-kokoro'>土の様子は……なるほど）</span>,검분.<br><span class='scene-font-kokoro'>(결과를 확인해 보죠. 흙의 상태는... 그렇군요)</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,ドキドキ……,두근두근...
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,待て待て、ガレヲン！<br>言うまでもあるまい！,"기다리게 기다려, 갈레온! 말할 것도 없어!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,どう見ても特異点の勝利よ！<br>仕事の細やかさも耕した範囲も<br>鼎のものと比べものにならん。,"누가 봐도 특이점의 승리야! 일의 섬세함이나 땅을 간 범위나, 전부 난 비교할 것도 못 돼."
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,いやはや、このように扱い辛い<br>ヒトの器を巧みに操り見事なものだ！<br>感服、感服。,"허허 참, 이렇게 다루기 힘든 인간의 몸을 그리 능숙하게 다루다니 훌륭하구만! 대단해, 대단해."
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,賞賛。<br><span class='scene-font-kokoro'>（そのようです。</span><br><span class='scene-font-kokoro'>特異点、試練を見事越えましたね）</span>,"칭찬.<br><span class='scene-font-kokoro'>(그렇답니다. 특이점, 시련을 뛰어넘었군요)</span>"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,やったな！<br>[플레이어]！,"해냈어, [플레이어]!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ルリア,すごいです[플레이어]～！,"[플레이어], 대단해요~!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ビィ,午後はほとんど休んでたけど、<br>ウィルナスは体、大丈夫なのか？,"오후에는 거의 쉬기만 하던데, 윌나스. 몸은 좀 괜찮아?"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,<span class='scene-font-4'>問題なし！</span><br>敢えてヒトの子に合わせやがったのが<br>原因なのでな！,<span class='scene-font-4'>문제 없다!</span> 되려 인간을 따라한 것이 원인이었으니!
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,魔力と元素漲れば、<br>疲労など敵ではない。<br>……いやだが、得難い経験だったぞ！,마력과 원소가 차오르면 피로같은 건 적이 못 되지. 허나 귀중한 경험이었다!
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,か弱き身なれど、いやそれ故に<br>技術を文化を生み出す……<br>ヒトの子、やはり天晴、天晴！,"연약한 몸이지만 그렇기에 기술과 문화를 만들어내는구나... 인간들은 역시 훌륭하다, 훌륭해!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,<span class='scene-font-4'>実にこの空の世界は面白い！</span><br>なぁガレヲン！,"<span class='scene-font-kokoro'>이 하늘의 세계는 실로 재미있지 않나!</span> 안 그런가, 갈레온?"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ガレヲン,…………,…………
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,特異点よ。<br>試練……いや、畑仕事に<br>付き合ってくれたこと、礼を言おう！,"특이점이여. 시련, 아니 밭일을 함께해 줘서 고맙다!"
+Japanese,scene_evt211228_cp3_q2_s10,detail,ウィルナス,いずれ食材が実れば<br>特異点の元へも届けるぞ。<br>楽しみにしやがれ！,언젠가 여기에 식재료가 열리면 특이점에게 보내도록 하지. 기대해도 좋아!
+Japanese,scene_evt211228_cp3_q2_s10,detail,,<span class='scene-font-katari'>ひとまず試練を乗り越え</span><br><span class='scene-font-katari'>安堵の息を吐く[플레이어]の背中を</span><br><span class='scene-font-katari'>ウィルナスは力強く叩いた。</span>,<span class='scene-font-katari'>하나의 시련을 돌파하고 안도의 한숨을 내쉬는 [플레이어]의 등을 윌나스가 힘차게 두들겼다.</span>
+Japanese,scene_evt211228_cp3_q2_s10,detail,ル・オー,これで、<br>試練もふたつを終えた……か。,이걸로 시련 두 개를 끝냈군요...
+Japanese,scene_evt211228_cp3_q2_s10,detail,ル・オー,…………,…………
+Japanese,scene_evt211228_cp3_q3_s10,synopsis,,次に[플레이어]に試練を課すのはル・オーだった。世界の歪みを放置すればやがて滅びを呼ぶ、と強い危機感を抱くル・オーは、竜の姿の自身と戦うという試練を[플레이어]に課す。六竜との一対一の戦いはあまりに[플레이어]に分が悪く、ビィとルリアは慄くが、[플레이어]はふたりを庇って武器を構えるのだった。,"다음으로 [플레이어]에게 시련을 부과하는 것은 루 오였다. 세계의 왜곡을 방치하면 곧 멸망을 부른다, 라고 강한 위기감을 안은 루 오는, 용의 모습의 자신과 싸우는 시련을 [플레이어]에게 부과한다. 육룡과의 일대일 전투는 너무 [플레이어]에게 불리하여, 비와 루리아는 염려했지만, [플레이어] 은(는) 두 사람을 감싸고 무기를 뽑는 것이었다."
+Japanese,scene_evt211228_cp3_q3_s10,detail,ねこ,にぁ……,냐아...
+Japanese,scene_evt211228_cp3_q3_s10,detail,,<span class='scene-font-katari'>昼に甲板で寝転がったまま</span><br><span class='scene-font-katari'>夜を迎えたねこは、</span><br><span class='scene-font-katari'>感じ取った気配に瞼を開ける。</span>,<span class='scene-font-katari'>낮부터 갑판에서 뒹굴다 밤을 맞이한 고양이는 문득 어떠한 기운을 느끼고 눈을 떴다.</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,私に手番が回ってきたのは<br>喜ぶべきことなのだろう、が……,내게 순서가 돌아온 것을 기쁘게 여겨야 하는 걸까...
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,フェディエルもウィルナスも<br>戯れが過ぎる。<br>何の危機感もないのか……！？,페디엘이나 윌나스나 장난이 심하군. 아무런 위기감도 없는 건가?
+Japanese,scene_evt211228_cp3_q3_s10,detail,ねこ,にゃー……,냐아...
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,ふたつに分かたれた後は言うに及ばず<br>創世がそもそも機能不全を<br>起こしていたのだ。,"둘로 갈라진 후에는 말할 것도 없고, 애초에 창세부터가 기능 부전을 일으킨 거다."
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,この世界はあまりに歪だ。<br>各所に吹き溜まりが生まれている……<br>看過すればいずれは滅びを呼ぶだろう。,이 세계는 너무나도 일그러졌다. 각지에 '웅덩이'가 만들어졌지... 간과했다간 언젠가 멸망을 부를 거다.
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,この状況で破壊の……<br>「空の神」は<br>何をのうのうと眠り込んでいる？,"이 상황에서도 파멸의... ""하늘의 신""은 뭘 느긋하게 잠들어 있는 거지?"
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,その機能を十全に果たさぬというのなら<br>我等六竜が力を得て<br>世界を正さねば……！,그 기능을 온전히 발휘할 생각이 없다면 우리 육룡이 그 힘을 얻어 세계를 바로잡아야 해...!
+Japanese,scene_evt211228_cp3_q3_s10,detail,,<span class='scene-font-katari'>強く拳を握ったル・オーは</span><br><span class='scene-font-katari'>夜の帳を睥睨する。</span>,<span class='scene-font-katari'>루 오는 주먹을 꽉 쥐며 밤의 장막을 흘겨보았다.</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,目覚めぬ神に永遠の眠りを<br>空の世界に夜明けを<br>もたらすことこそ私の仕事……！,"깨어나지 않는 신에게 영원한 잠을, 하늘의 세계에 아침을 가져다주는 것이 나의 책무...!"
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,……特異点。悪く思うな。,……특이점. 너무 나쁘게 생각하지 마라.
+Japanese,scene_evt211228_cp3_q3_s10,detail,ねこ,にゃん。,냐앙.
+Japanese,scene_evt211228_cp3_q3_s10,detail,ビィ,そんじゃ、次の試練の担当は<br>ル・オーなんだな！,오늘 시련 담당은 루 오구나!
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,如何にも。<br>このル・オーには、赤の仔竜の力を<br>得なければならない道理があるのだよ。,그렇다. 이 루 오에게는 붉은 용의 힘을 얻어야만 하는 이유가 있다.
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,故に、特異点。<br>私を阻もうと望むのなら……,그러니 특이점. 나를 막으려고 한다면...
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,<span class='scene-font-4'>その力全てをもって、</span><br><span class='scene-font-4'>私に挑んでくるがいい！！</span>,<span class='scene-font-4'>그 모든 힘을 펼쳐 내게 덤벼야 할 것이다!</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ビィ,<span class='scene-font-4'>んなっ！？</span>,<span class='scene-font-4'>으어!?</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ビィ,なんだぁ！？<br>いきなりノリが全然違うっていうか……,으어!? 뭐야! 갑자기 분위기 완전 다르잖아!
+Japanese,scene_evt211228_cp3_q3_s10,detail,,<span class='scene-font-katari'>戸惑いを隠せないでいる</span><br><span class='scene-font-katari'>[플레이어]に、</span><br><span class='scene-font-katari'>ル・オーが視線を向ける。</span>,<span class='scene-font-katari'>루 오는 당혹스러움을 감추지 못하는 [플레이어] 쪽으로 시선을 돌렸다.</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ルリア,<span class='scene-font-4'>きゃっ！？</span>,<span class='scene-font-4'>꺄악!</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,次は当てよう。<br>……さぁ特異点。<br>試練に挑むのか、否か！,"다음엔 제대로 맞출 것이다. 자, 특이점. 시련에 도전하겠느냐, 포기하겠느냐!"
+Japanese,scene_evt211228_cp3_q3_s10,detail,ルリア,[플레이어]……！,[플레이어]……！
+Japanese,scene_evt211228_cp3_q3_s10,detail,,<span class='scene-font-katari'>促された[플레이어]は</span><br><span class='scene-font-katari'>ルリアとビィを庇う形で</span><br><span class='scene-font-katari'>武器を構えル・オーに対峙した。</span>,<span class='scene-font-katari'>그의 재촉에 [플레이어]는 루리아와 비이를 감싸듯이 무기를 들고 루 오 앞에 섰다.</span>
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,それでいい。<br>邪魔立てはするな、<br>蒼の娘、赤の仔竜。,"그거면 된다. 푸른 소녀, 붉은 용. 방해하지 마라."
+Japanese,scene_evt211228_cp3_q3_s10,detail,ビィ,そんな……！,그런...!
+Japanese,scene_evt211228_cp3_q3_s10,detail,ビィ,いくらなんでも六竜と一対一なんて、<br>そんなのアリかよ……！,아무리 그래도 육룡이랑 일대일로 싸우라니.
+Japanese,scene_evt211228_cp3_q3_s10,detail,ビィ,そんなことになるくらいなら<br>オイラの力なんて……,그게 말이 돼? 그럴 바에야 차라리 내 힘같은 건...
+Japanese,scene_evt211228_cp3_q3_s10,detail,ル・オー,────！,────！
+Japanese,scene_evt211228_cp3_q4_s20,synopsis,,[플레이어]を案じたビィは、「力」を渡しても構わないとル・オーに主張する。しかしル・オーは、「力」を貯めることがビィの根幹であり、「力」を誰かに渡せばビィが機能停止、つまり死ぬ可能性があると告げる。そうでなくても今のままのビィではいられないだろうというル・オーの言葉に[플레이어]達は言葉を失い、[플레이어]はビィを守るためル・オーに立ち向かうのだった。,"[플레이어] 을(를) 걱정한 비이는 힘을 줘도 상관없다고 루 오에게 말한다. 그러나 루 오는, ""힘""을 모으는 것이 비이의 근간이며, ""힘""을 누군가에게 건네주면 비가 기능정지, 즉 죽을 가능성이 있다고 말한다. 그게 아니더라도 지금과 같은 비이로는 있을 수 없을 것이라는 루 오의 말에 [플레이어] 일행은 할 말을 잃고, [플레이어]는 비이를 지키기 위해 루 오와 맞서는 것이었다."
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,<span class='scene-font-4'>オォオオオオ！</span>,<span class='scene-font-4'>오오오오오!</span>
+Japanese,scene_evt211228_cp3_q4_s20,detail,,<span class='scene-font-katari'>六竜の『白』、ル・オーの試練──</span><br><span class='scene-font-katari'>それは、ル・オーとの</span><br><span class='scene-font-katari'>一対一の戦いだった。</span>,"<span class='scene-font-katari'>육룡의 ""백"", 루 오의 시련. 그것은 루 오와의 일대일 전투였다.</span>"
+Japanese,scene_evt211228_cp3_q4_s20,detail,,<span class='scene-font-katari'>これまで友好的な態度を示してきた</span><br><span class='scene-font-katari'>六竜達を思い、[플레이어]は</span><br><span class='scene-font-katari'>全力を出すべきなのかを迷う。</span>,<span class='scene-font-katari'>지금까지 우호적인 태도를 보여주던 육룡들을 떠올리며 [플레이어]는 전력을 다해야 할지 어떨지 망설이고 있었다.</span>
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,余裕を見せるな、特異点。<br>それとも自ら死へと<br>歩み寄ろうというのかね？,"여유 부리지 마라, 특이점. 아니면 스스로 죽음을 향해 걸어가려 하느냐?"
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,<span class='scene-font-4'>呆れたものだ！</span>,<span class='scene-font-4'>실망스럽군!</span>
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,[플레이어]……！！,[플레이어]……！！
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,<span class='scene-font-4'>止めろよル・オー！</span><br>そもそも、オイラはその「力」ってのを<br>くれてやっても構わねぇんだ！,"<span class='scene-font-4'>그만 해, 루 오!</span> 애초에 난 그 ""힘""이라는 걸 줘도 상관없단 말이야!"
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,こんな危ねぇことやる必要は……,이렇게 위험한 짓을 할 필요는...
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,……自らの終了を受け入れるか？,...스스로 끝을 받아들이려는 건가?
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,えっ……,뭐...?
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,「力」は「力」。<br>赤の仔竜自身とは言えまいが……,"""힘""은 ""힘"". 붉은 용 자신이라고는 할 수 없으나..."
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,「力」を身の内に蓄えることは<br>赤の仔竜の根幹たる機能だ。,"""힘""을 몸 안에 축적하는 것은 붉은 용의 근간을 이루는 기능이다."
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,なんだよ……<br>怖がらせるつもりなら、<br>はっきり言いやがれ！,뭐야... 겁먹게 만들지 말고 제대로 설명해 줘!
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,力を授与することが<br>君の機能の終着点。<br>つまり、機能停止を呼ぶ可能性がある。,힘을 수여하는 것이 네 기능의 종착점. 즉 기능 정지를 불러올 가능성이 있다.
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,機能……停止……,기능 정지...
+Japanese,scene_evt211228_cp3_q4_s20,detail,ルリア,それって、まさか……,그거 설마...
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,死だ。,죽음이지.
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,肉体が滅びずとも、<br>本来は授与対象ではない六竜に<br>力を与えることで機能不全が起こり……,육체가 무너지지 않는다 해도 본디 수여대상이 아닌 육룡에게 힘을 넘겨줌에 따라 기능 부전을 일으키고...
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,何らかの影響が赤の仔竜に<br>発生する確率は高い。身体の損壊、<br>記憶の喪失、感情の崩壊……,"어떠한 영향이 붉은 용에게 발생할 확률이 높다. 신체의 파손, 기억의 상실, 감정의 붕괴..."
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,いずれにせよ、<br>今ある赤の仔竜が<br>そのまま保たれはすまい。,어느 것이 되었든 지금의 붉은 용 그대로는 유지되지 않을 거다.
+Japanese,scene_evt211228_cp3_q4_s20,detail,,<span class='scene-font-katari'>哀れみを浮かべた</span><br><span class='scene-font-katari'>ル・オーの視線を受け、</span><br><span class='scene-font-katari'>[플레이어]は総毛立つ。</span>,<span class='scene-font-katari'>동정심을 띤 루 오의 시선을 받자 [플레이어]의 등에 오싹 소름이 돋았다.</span>
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,なんだよ……！<br>なんなんだよそれ……！,뭐야... 그게 뭔데! 
+Japanese,scene_evt211228_cp3_q4_s20,detail,ビィ,オイラ、全然そんなこと……,"나, 그런 얘긴 전혀..."
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,器が知る必要はない。<br>我等も知らせる必要はない。,그릇이 알 필요는 없지. 우리도 알릴 필요가 없고.
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,尤も、私の同格存在達が<br>告げなかったのはそれをさほど重要とは<br>思っていなかったからだろうが。,애초에 나와 동격의 존재가 그것을 알리지 않은 것은 그리 중요하지 않다고 생각해서일 거다.
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,砂粒ひとつと島ひとつの<br>区別もつかぬ者達が<br>失礼したようだな。,모래 한 알과 섬 하나의 차이를 인식하지 못하는 자들이 실례를 저지른 모양이군.
+Japanese,scene_evt211228_cp3_q4_s20,detail,ル・オー,私は君に敬意を表そう。<br>……六竜の力を示すことでね！,나는 네게 경의를 표하겠다... 육룡의 힘으로써 말이다!
