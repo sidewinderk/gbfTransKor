@@ -1,0 +1,193 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt220914_cp1_q1_s10,synopsis,,ある日、快晴の空を航行していた[플레이어]達の前に、巨大な積乱雲が現れる。その雲の中に、巨大な海月の姿を見る一行。やがてグランサイファーを眩しい光が包み込むと、[플레이어]達と甲板にいた仲間達は海月に吸い込まれてしまうのだった。,어느 날 쾌청한 하늘을 항해하던 [플레이어] 일행 앞에 거대한 적란운이 나타난다. 그 구름 속에 거대한 해파리의 모습을 목격하는 일행. 이윽고 그랑사이퍼를 눈부신 빛이 감싸자 [플레이어] 일행과 갑판에 있던 동료들은 해파리에게 빨려 들어가 버리고 만다.
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>空──</span><br><span class='scene-font-katari'>どこまでも広がる一面の蒼。</span>,<span class='scene-font-katari'>하늘──</span><br><span class='scene-font-katari'>어디까지 이어진 일면의 파랑.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>そのただなかを一隻の騎空艇が飛び、</span><br><span class='scene-font-katari'>真夏の直射日光を一身に浴びている。</span>,<span class='scene-font-katari'>그 가운데를 한 척의 기공정이 날아、</span><br><span class='scene-font-katari'>한 여름의 직사광선을 한몸에 받고 있다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>地平線には大きな積乱雲が立ち上り、</span><br><span class='scene-font-katari'>艇を歓迎する様にも拒む様にも見え、</span><br><span class='scene-font-katari'>空の世界は今日も冒険日和であった。</span>,<span class='scene-font-katari'>지평선에는 커다란 적난운이 피어올라、</span><br><span class='scene-font-katari'>배를 환영하는 듯 마는 듯、</span><br><span class='scene-font-katari'>하늘 세계는 오늘도 모험하기 좋은 날이었다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あはは♪<br>風が心地いいぜ！<br>部屋にいるよりずっと涼めるぞ。,아하하♪<br>바람이 정말 기분 좋아！<br>방에 있는 것 보다 훨씬 시원해.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,空気が澄んでて何だか生き返りますね！<br>今日は特に空の色が鮮やかに見えます。,공기가 시원해서 뭐랄까 살 것 같아요！<br>오늘은 특히 하늘 색이 선명해 보여요.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こういうのを味わえるのが、<br>騎空士の醍醐味だよなぁ。<br>冒険の御褒美みたいに思えて来るぜ。,"이런 걸 맛 볼 수 있는 게、<br>기공사의 묘미겠지,<br>모험의 포상처럼 느껴져."
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,なぁ[플레이어]！,"그치, [플레이어]！"
+Japanese,scene_evt220914_cp1_q1_s10,sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>冒険万歳だね</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>모험 만세네</span></span>
+Japanese,scene_evt220914_cp1_q1_s10,sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>苦労も多いけど……</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>고생도 많이 하지만……</span></span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,だよな！<br>さすが騎空団の団長だぜ！,그렇지？！<br>역시 기공단의 단장이야！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,にしし！<br>団長って立場だと色々大変だよな。<br>まぁ次の島までは気楽にいこうぜ。,키히히！<br>단장이라는 위치에 있으면 여러모로 고생이지.<br>뭐 다음 섬까지는 편하게 지내자구.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ、ふたりとも。<br>あっちにも団員さん達がいますよ。<br>皆さんもここで涼んでるのかなぁ？,아、저기봐요.<br>저기에도 단원분들이 있어요.<br>모두 여기서 바람쐬는 걸까요？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁほんとだぜ。<br>確かに何人か見えるけど……<br>日陰だと誰が誰だかわかんねえな。,아아 정말이네.<br>확실히 몇 명 보이는데……<br>그늘 때문에 누가 누군지는 모르겠네.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,そっちの奴は昼寝か？<br>こっちの奴は機械か何か弄ってて──,저쪽의 녀녁은 낮잠인가？<br>이쪽 녀석은 기계인가 뭔가를 만지작 거리고──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はあ？<br>船首にいるアイツは何で水着なんだよ？,어？<br>선수에 있는 녀석은 왜 수영복이야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あはは……<br>お肌を焼いてるとか……？,아하하……<br>피부를 그을리고 있다거나……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおいバカンスかよ……<br>空の上ったって危険はあるだろ。,어이어이 바캉스냐구……<br>하늘 위라곤 해도 위험한 건 있잖아.
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,まぁでも今日は快晴ですので。<br>魔物とか近づいて来ても一目で──,뭐 그래도 오늘은 쾌청해서<br>마물이 다가와도 한눈에──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お……？<br>何だぁ？,오……？<br>무슨일이야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,あ……！<br>ふたりとも見てください！<br>変な雲が空を覆ってます！,아……！<br>두 분 모두 저기를 봐주세요！<br>이상한 구름이 하늘을 덮고있어요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>ハッと頭上を見る[플레이어]。</span><br><span class='scene-font-katari'>そこには綿飴の様な雲が渦を巻き、</span><br><span class='scene-font-katari'>日を遮って空一面に広がっていた。</span>,<span class='scene-font-katari'>헉 하고 고개를 드는 [플레이어].</span><br><span class='scene-font-katari'>거기에는 솜사탕 같은 구름이 소용돌이 치며、</span><br><span class='scene-font-katari'>해를 가리고 하늘 일면에 펼쳐져있었다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,うひゃあ……！<br>こりゃあ積乱雲の類か……？,우왓……！<br>이거 적란운의 일종인가……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,とっても大きいですね……<br>島が何個か収まっちゃうほど……,정말로 크네요……<br>섬이 몇개는 들어갈 정도로……
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,でもいつの間にここまで……<br>だってさっきまで快晴だったんだぜ？,그래도 대체 어느새 여기까지……<br>바로 직전까지 쾌청했었다고？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う～ん……<br>この雲は本当に積乱雲──,으음……<br>이 구름은 정말로 적란운──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウヒィッ……！<br>何だ、雷でも光ったのか？,으익……！<br>뭐야、번개라도 친거야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,こりゃあちょっとマズイな……<br>ここはひとまず嵐に備えようぜ！,이건 조금 위험한데……<br>지금은 일단 폭풍에 대비하자고！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,わ、わかりました！<br>私は洗濯ものを取り込んで来ます！,아、알겠어요！<br>저는 세탁물을 챙기러 갈게요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,あぁ任せたぜ！<br>[플레이어]は団員達に指示を──,그래 부탁해！<br>[플레이어]는 단원들에게 지시를──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,て、ちょっと待てよ？<br>えっと、その、ルリア……？,엣、잠깐 기다려봐？<br>저기、그、루리아……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,何ですかビィさん？<br>急がないと雷が落ちてきちゃいますよ！,무슨일이에요 비 씨？<br>서두르지 않으면 번개가 떨어질거에요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,お、おう……<br>でも、お前、平気なのか……？,으、응……<br>그래도、너、괜찮아……？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ちょっとビィさん！<br>平気って何を言って──,잠깐 비 씨！<br>괜찮다니 무슨 소리를──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,……うん？,……응？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-4'>はわぁ！？</span>,<span class='scene-font-4'>하왓！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,う、浮いてる？<br>私なんか、宙に浮いてませんか！？,떠、떠있어？<br>저 왠지、하늘에 떠있지 않나요！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,おいおい……！<br>いったい何が起きたってんだ？,어이어이……！<br>대체 무슨 일이 일어나고 있는거야？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,この現象も積乱雲のせいなのか？<br>[플레이어]は何か知ってるか──,이 현상도 적란운 때문인가？<br>[플레이어]는 뭔가 알고있──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,<span class='scene-font-4'>て、お前もかよ！？</span>,<span class='scene-font-4'>엣、너도냐고！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>いつの間にか[플레이어]も、</span><br><span class='scene-font-katari'>ルリアと同様フワフワ宙に浮いており、</span><br><span class='scene-font-katari'>もがいても足は空を切るばかりだった。</span>,<span class='scene-font-katari'>어느새 [플레이어]도、</span><br><span class='scene-font-katari'>루리아와 똑같이 둥둥 하늘에 떠있어、</span><br><span class='scene-font-katari'>발버둥 쳐도 발은 하늘을 가를 뿐이었다.</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,ひゃい！<br>今度は何ですか……！？,꺅！<br>이번엔 뭔가요……！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,わかんねえ……！<br>でもこりゃあ明らかに……<br>オイラ達を狙って当ててきたぞ！？,모르겠어……！<br>그래도 이건 명백히……<br>우리들을 노리고 왔어！？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,私達を狙って……？<br>そんなのまるで生きてるみたいな……,우리들을 노리고……？<br>그건 마치 살아있는 것 같은……
+Japanese,scene_evt220914_cp1_q1_s10,detail,,<span class='scene-font-katari'>再び頭上を見る[플레이어]達。</span><br><span class='scene-font-katari'>すると雲の渦が徐々におさまり、</span><br><span class='scene-font-katari'>そこに浮かび上がってきたのは……</span>,<span class='scene-font-katari'>다시 머리 위를 본 [플레이어] 일행.</span><br><span class='scene-font-katari'>그러자 구름의 소용돌이가 서서히 가라앉고、</span><br><span class='scene-font-katari'>거기에서 떠오른 것은……</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,はぁ……！？<br>この形はまさか……,헉……！？<br>이 형태는 설마……
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,<span class='scene-font-spword'>“海月”</span>です……！<br>空を飛ぶ超巨大海月さんです！,<span class='scene-font-spword'>“해파리”</span>에요……！<br>하늘을 나는 초거대 해파리에요！
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ,ウソだろ……！<br>空を飛ぶ超巨大海月？<br>そんなもん聞いた事ねえぞ？,말도안돼……！<br>하늘을 나는 초거대 해파리？<br>그런거 들어본 적도 없다고？
+Japanese,scene_evt220914_cp1_q1_s10,detail,ルリア,で、でもソックリですよ……！<br>本物かどうかわかりませんが──,그、그래도 똑같아요……！<br>진짜인가 아닌가는 모르겠지만──
+Japanese,scene_evt220914_cp1_q1_s10,detail,ビィ・ルリア,<span class='scene-font-4'>うわあぁぁぁ──！？</span><br><span class='scene-font-4'>はわあぁぁぁ──！？</span>,<span class='scene-font-4'>우와아아아──！？</span><br><span class='scene-font-4'>하와아아아──！？</span>
+Japanese,scene_evt220914_cp1_q1_s10,detail,騎空士達,────！？,────！？
+Japanese,scene_evt220914_cp1_q2_s10,synopsis,,[플레이어]、ルリア、ビィが目を覚ますと、そこは巨大な海月の胃の中だった。そこには胃酸の海にいくつもの島が浮かんでおり、仲間との合流や脱出方法に頭を悩ませる[플레이어]達。そんな中、同じように海月に吸い込まれたチョッパーとルフィが現れるのだった。,[플레이어]、루리아、비가 눈을 뜨자、그곳은 거대한 해파리의 위 속이었다. 그곳은 위산 바다에 몇개의 섬이 떠있어、동료들과의 합류나 탈출 방법에 골치를 앓는  [플레이어] 일행. 그러던 중、같은 방식으로 해파리에 삼켜지는 쵸파와 루피가 나타는 것이었다.
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>謎の巨大未確認飛行生物。</span><br><span class='scene-font-katari'>その海月にも似た存在が光を放ち、</span><br><span class='scene-font-katari'>甲板にいた騎空士達を吸い込んだ。</span>,<span class='scene-font-katari'>수수께끼의 거대미확인 비행생물체.</span><br><span class='scene-font-katari'>그 해파리를 닮은 존재가 빛을 발했고、</span><br><span class='scene-font-katari'>갑판에 있던 기공사들을 집어삼켰다.</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>意識を失った[플레이어]は、</span><br><span class='scene-font-katari'>幾許かの時を経て目を覚ますと……</span>,<span class='scene-font-katari'>의식을 잃었던 [플레이어]는、</span><br><span class='scene-font-katari'>어느정도의 시간이 흐른 뒤 눈을 뜨고……</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,お……？<br>起きたか[플레이어]！,오……？<br>일어났어 [플레이어]！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,良かったぁ……！<br>ひとまず安心ですね。,다행이다……！<br>일단 안심이네요.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,おう！<br>三人とも何とか無事だったな。<br>オイラ達もさっき起きたばっかでよ。,그래！<br>세명 모두 어쨌든 다친 곳은 없었네.<br>우리들도 조금 전에 일어난 직후야.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,[플레이어]。<br>ここがどこだかわかりますか？,[플레이어].<br>여기가 어딘지 알 것 같나요？
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>あたりを眺める[플레이어]。</span><br><span class='scene-font-katari'>目の前には海の様な水面が広がり、</span><br><span class='scene-font-katari'>遠目に幾つか大小の島々が見える。</span>,<span class='scene-font-katari'>주변을 살펴보는 [플레이어].</span><br><span class='scene-font-katari'>눈 앞에는 바다 같은 수면이 펼쳐져있고、</span><br><span class='scene-font-katari'>저 멀리 여러개의 섬들이 보인다.</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>柔らか過ぎる日の光に目を遣ると、</span><br><span class='scene-font-katari'>空は膜が掛かった様に滲んでおり……</span>,<span class='scene-font-katari'>부드러운 햇빛에 눈을 돌리자、</span><br><span class='scene-font-katari'>하늘은 막이 덮혀있는 것 처럼 번져있고……</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,,<span class='scene-font-katari'>その薄ぼんやりとした光景はまるで、</span><br><span class='scene-font-katari'>半透明の袋の内にでもいる様だった。</span>,<span class='scene-font-katari'>그 희미한 광경은 마치、</span><br><span class='scene-font-katari'>반투명한 봉투 안에 있는 것 같았다.</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,ここはきっと、<br>例の海月の“胃袋”だぜ。<br>オイラ達は餌だったんだ。,여기는 분명、<br>그 해파리의 “위주머니”일거야.<br>우리들은 잡아먹힌거야.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,この海に見えるのも胃酸か何か、<br>触るとピリピリするのはそのせいだな。,이 바다 처럼 보이는 것도 위액인가 뭔가、<br>만지면 찌릿찌릿하는 것도 그것 때문일거야.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,でも他の事はまだわかんねえ。<br>何だって胃袋に島があるのか、<br>どうすりゃあ脱出できるのか……,그래도 다른 건 모르겠어.<br>왜 위주머니 안에 섬이 있는 건지、<br>어떻게 해야 탈출 할 수 있는지……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,そうですね……<br>あと気になるのは他の団員さん達です。,그렇네요……<br>그리고 신경쓰이는 건 다른 단원 분들이에요.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,艇は吸い込まれていないみたいなので、<br>艇内にいた人達は平気だと思いますが、<br>甲板にいた人達はたぶん……,배는 빨려들어오진 않은 것 같으니、<br>배 안에 있던 분들은 괜찮을 거라고 생각하지만、<br>갑판에 있던 분들은 아마도……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,間違いねえ。<br>吸い込まれる時あちこちで、<br>悲鳴が聞こえた気がするぜ。,아마 그럴거야.<br>빨려들어올 때 여기저기서、<br>비명소리가 들렸던 것 같아.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,はい。<br>ですので脱出よりも先に、<br>皆さんを探さないと。,네.<br>그러니까 탈출보다는 먼저、<br>모두를 찾아야 해요.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,そうだな。<br>ちょうど[플레이어]も起きたんだ。<br>脱出うんぬんは皆が揃って──,그렇겠네.<br>마침 [플레이어] 도 일어났으니.<br>탈출 어쩌구는 모두 모여서──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,待てよ？<br>皆この島にいるもんなのか？,잠깐？<br>모두 이 섬에 있는거야？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ……<br>確かに他の島にいる場合も……<br>でも胃酸を泳いで渡るのはさすがに……,아……<br>분명 다른 섬에 있을 수도……<br>그래도 위액을 헤엄치는 것은 아무래도……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,骨も残んねえだろうなぁ……<br>この距離だとオイラが飛んでっても……,뼈도 안남겠지……<br>이 거리라면 내가 날아간다고해도……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ・ルリア,う～ん……,으～음……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,お……？,오……？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,ん……？,응……？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,ルリア？<br>何を見てるんだ？,루리아？<br>뭘 보고 있는거야？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ、いえ……<br>あっちの木陰に何か……,아、아뇨……<br>저쪽 나무 그늘에 무언가……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,よかった！<br>お前ら目が覚めて──,다행이야！<br>너희들 눈을 떴──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,わあ……！？,와아……！？
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,かわいい……！<br>ふたりとも見てください！<br>コアラさんがいますよ！,귀여워……！<br>두분다 여기 봐주세요！<br>코알라씨가 있어요！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,…………！,…………！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,こりゃあ驚いた……<br>普通に動物もいるんだなぁ。,이건 놀랐는데……<br>평범하게 동물도 있구나.
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,でもコイツの顔はアレだな。<br>コアラってよりタヌキだろ。<br>初めて見る種類の珍獣だぜ。,그래도 이녀석 얼굴은 그거네.<br>코알라 라기보단 너구리겠지.<br>처음 보는 종류의 진수(珍獣)네.
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,…………！！,…………！！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>誰がタヌキだ！！</span>,<span class='scene-font-4'>누가 너구리냐！！</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ・ルリア,<span class='scene-font-4'>喋った！？</span>,<span class='scene-font-4'>말했어！？</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,さ、さっきから喋ってるだろ！,조、좀 전부터 말하고있었잖아！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ、あの！<br>お話できるんですか！？<br>私達色々困ってて……！,저、저기！<br>말 좀 나눌 수 있을까요！？<br>저희들 이런저런일로 곤란해서……！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,わわわ……！？<br>ちょ、ちょっと待てよ……！<br>そもそもお前らは──,와와와……！？<br>자、잠깐 기다려봐……！<br>애초에 너희들은──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,私達の他に漂流者を見てませんか？<br>皆さん一緒の騎空団の仲間なんです。<br>ただ他の島に着いた可能性もあって……,우리들 이외의 표류자를 못 보셨나요？<br>모두 기공단 동료에요.<br>그래도 다른 섬에 도착했을 가능성도 있는데……
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,お、おい、ルリア。<br>他の奴らが心配なのはわかるけどよ。<br>タヌキの奴明らかに困ってるぞ。,어、어이、루리아.<br>다른 녀석들이 걱정인 건 알겠는데.<br>너구리 녀석 어떻게 봐도 곤란해하고 있다고.
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,だから！<br>おれはタヌキじゃねェ！,그러니까！<br>나는 너구리가 아니라고！
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,そんでお前、ちょっと落ち着けって……,그래서 너、잠깐 진정해봐……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,こ、こっちにくるなァ！,여、여기에 오지마아！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ルリア,あ……！<br>待って珍獣さん！,아……！<br>기다려주세요 진수씨！
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,ルリア！<br>ひとりで動いちゃ危険だぜ！<br>未知の場所では慎重に──,루리아！<br>혼자서 움직이면 위험해！<br>미지의 장소에서 신중하게──
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,うん？<br>何だぁ今の音は……？,응？<br>뭐지 지금 소리는……？
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>肉だー！</span>,<span class='scene-font-4'>고기다ー！</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>うひゃあ！？</span>,<span class='scene-font-4'>우햐아！？</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,何だよコレ……！<br>まるで腕がゴムみたいに……,뭐야 이거……！<br>마치 팔이 고무 처럼……
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>待てー！</span><br><span class='scene-font-4'>今日の晩飯ィ！</span>,<span class='scene-font-4'>기다려ー！</span><br><span class='scene-font-4'>오늘의 저녁바압！</span>
+Japanese,scene_evt220914_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>うわぁ！</span><br>晩飯ってまさかオイラの事かよぉ！？<br>よく見ろ！ オイラを食っても──,<span class='scene-font-4'>우와아！</span><br>저녁밥이라니 설마 나를 말하는거야！？<br>잘 보라고！ 나를 먹어도──
+Japanese,scene_evt220914_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>うお────！</span>,<span class='scene-font-4'>우오────！</span>
+Japanese,scene_evt220914_cp1_q3_s10,synopsis,,話を聞こうとチョッパーを追いかけるルリアと、空腹のあまりビィを食べようとして追いかけるルフィ。[플레이어]が仲裁のために割って入ると、湖で水浴びをしていたナミが現れる。ナミは、自分達以外の漂流者の存在に衝撃を受けるのだった。,이야기를 들으려고 쵸파를 쫓아가는 루리아와 배고픈 나머지 비를 먹으려고 쫓아가는 루피. [플레이어]가 중재를 위해 사이에 끼어 들어가자 호수에서 머리를 감던 나미가 나타난다. 나미는 자신들 이외의 표류자의 존재에 충격을 받는 것이었다.
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>言葉を話す珍獣を追って、</span><br><span class='scene-font-katari'>森の中を走り回るルリア。</span>,<span class='scene-font-katari'>말을 할 수 있는 진수를 쫓아、</span><br><span class='scene-font-katari'>숲 속을 달리는 루리아.</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>空腹のゴム人間が迫り、</span><br><span class='scene-font-katari'>森の中を飛び回るビィ。</span>,<span class='scene-font-katari'>배가 고픈 고무인간에게 쫓겨、</span><br><span class='scene-font-katari'>숲 속을 날아가며 도망치는 비.</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>予期せぬ状況に頭が追いつかぬまま、</span><br><span class='scene-font-katari'>その２組に追いすがって走っていた。</span>,<span class='scene-font-katari'>[플레이어]는、</span><br><span class='scene-font-katari'>예상 못한 상황을 따라가지 못하고、</span><br><span class='scene-font-katari'>그 둘을 따라 달리고 있었다.</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,はぁはぁ……！,하아하아……！
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,気絶してたから<br>とりあえず助けたけど……！,기절해있으니까<br>일단 도와주긴했는데……！
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,キクーダンってなんだ！？<br>まさか海軍の仲間じゃ<br>ねェだろうな！？,기공단?이라니 대체 뭐야！？<br>설마 해군의 동료라던가<br>아니겠지！？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルリア,待って……！<br>私達はさっき目が覚めたばかりで……！<br>聞きたい事がいっぱいあるんです！,기다려요……！<br>우리들은 조금 전에 눈 뜬 직후라서……！<br>듣고 싶은게 가득 있어요！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,はぁはぁ……！,하아하아……！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,何だってんだよぉ……！<br>オイラを食ったって旨かねえぞ！？,어떻게 된거야……！<br>나를 먹어도 의미가 없다고！？
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,気にすんな！<br>食ってから考える！,신경쓰지마！<br>먹고 나서 생각한다！
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,はぁはぁ……<br>駄目だ腹が減ってもう……,하아하아……<br>틀렷어. 배가 고파서 이제……
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,一体どこまで追って来るんだよ……<br>とんでもねェ奴に関わっちまったぞ……,대체 어디까지 쫓아오는 거야……<br>말도 안되는 녀석한테 걸렸네……
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,はぁはぁ……<br>ほんとだぜ……<br>あの珍獣もゴム人間も何者なんだよ……,하아하아……<br>진짜그래……<br>그 진수도 고무인간도 대체 뭐야……
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,珍獣……？<br>あの羽が生えたトカゲの事か……？,진수……？<br>그 날개 달린 도마뱀 말이야……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,違えよ……<br>オイラはドラゴンだぜ……<br>珍獣は角が生えたタヌキの事で──,아냐……<br>나는 드래곤이라고……<br>진수는 뿔이 달린 너구리 말인데──
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,ん……？,응……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,お……？,어……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ふたり,<span class='scene-font-4'>お、お前かよぉ！？</span>,<span class='scene-font-4'>너、너였냐고！？</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,ふたり,追いついたー！,따라잡았다ー！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ふたり,<span class='scene-font-4'>お前達も一緒かよぉ！？</span>,<span class='scene-font-4'>너네들도 같이 왔냐고！？</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>何とか追いついた[플레이어]。</span><br><span class='scene-font-katari'>そこには２組が湖の前で向き合って、</span><br><span class='scene-font-katari'>膠着状態に陥っている光景があった。</span>,<span class='scene-font-katari'>어떻게든 따라잡은 [플레이어].</span><br><span class='scene-font-katari'>거기엔 두 그룹이 호수 앞에서 마주보고、</span><br><span class='scene-font-katari'>교착상태에 빠져있는 광경이 보였다.</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,,<span class='scene-font-katari'>仲裁のために割って入ると、</span><br><span class='scene-font-katari'>ちょうど湖面に影が浮かび上がり……</span>,<span class='scene-font-katari'>중재를 위해 사이에 끼어 들어간 그 때、</span><br><span class='scene-font-katari'>호수면에 그림자가 떠오르더니……</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,？？？,ちょっとルフィ！,잠깐 루피！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,ん……！？<br>おうナミか。どうした？,응……！？<br>오우 나미인가. 무슨일이야？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,言ったわよね！<br>お風呂の代わりに湖で泳いで来るって！,말했잖아！<br>목욕 대신에 호수에서 헤엄치고 오겠다고！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,ああ、<br>ちょっと晩飯を追っててよ！,아 그래、<br>마침 저녁밥을 쫓고있었어！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,なぁチョッパー！,그치 쵸파！
+Japanese,scene_evt220914_cp1_q3_s10,detail,チョッパー,晩飯？<br>何の話だ？,저녁밥？<br>무슨 이야기야？
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,いいから、とっとと出てけ──！！,됐으니까、빨리 나가──！！
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルフィ,<span class='scene-font-4'>ぎゃあ！</span>,<span class='scene-font-4'>으악！</span>
+Japanese,scene_evt220914_cp1_q3_s10,detail,ビィ,うわぁ……<br>ゴム人間が一発でのびちまったぜ……,우왓……<br>고무 인간이 한방에 나가떨어졌다고……
+Japanese,scene_evt220914_cp1_q3_s10,detail,ルリア,すごいですね……<br>頬が真っ赤に膨らんで風船みたい……,대단해요……<br>볼이 새빨갛게 부풀어올라서 풍선같아요……
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,平気平気。<br>この程度は掠り傷ですらないわよ、<br>海賊だもん。,괜찮아 괜찮아.<br>이정도는 별거 아니야、<br>해적이니까.
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,あ、そっちの彼も同罪だから。<br>のぞき代は１0万ベリーで許してあげる。,아、그쪽에 있는 그도 같은 죄니까.<br>엿본 벌금은 10만 베리로 용서해줄게.
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,って……<br>というか……あんた達は……？,아니……<br>잠깐……너희들은……？
+Japanese,scene_evt220914_cp1_q3_s10,detail,チョッパー,あ、こいつらも漂流者だ。<br>さっき目が覚めたんだよ。,아、이녀석들도 표류자야.<br>조금 전에 눈을 떴어.
+Japanese,scene_evt220914_cp1_q3_s10,detail,ナミ,<span class='scene-font-4'>えーっ！？</span>,<span class='scene-font-4'>에엣！？</span>
+Japanese,scene_evt220914_cp1_q4_s10,synopsis,,ルフィ達も数日前に海月に吸い込まれ、海月の胃袋──“胃世界”にやってきたという。胃世界には巨大な胃石が幾つか群島状に寄り集まっているようだった。ルフィ達は仲間を探すため胃酸の海を渡るイカダを作るつもりだと語り、[플레이어]達も共に力を合わせることにするのだった。,"루피 일행도 며칠 전에 해파리로 빨려 들어와 해파리의 위주머니──""위세계""에 왔다고 한다. 위세계에는 거대한 위석들이 여러 개의 섬 모양으로 모여 있는 듯했다. 루피들은 동료를 찾기 위해 위산 바다를 건너는 뗏목을 만들겠다고 했고, [플레이어] 일행도 함께 힘을 모으기로 했다."
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>どたばたが収まり、</span><br><span class='scene-font-katari'>ひとまず浜辺に戻る２組の漂流者達。</span>,<span class='scene-font-katari'>이런저런일이 마무리되어、</span><br><span class='scene-font-katari'>일단 해변으로 돌아가는 두 그룹의 표류자들.</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>彼等はルフィを船長とする海賊で、</span><br><span class='scene-font-spword'>“麦わらの一味”</span><span class='scene-font-katari'>と呼ばれており……</span>,<span class='scene-font-katari'>그들은 루피를 선장으로 하는 해적으로、</span><br><span class='scene-font-spword'>“밀짚모자 일당”</span><span class='scene-font-katari'>이라고 불리고……</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>ほんの数日前、</span><br><span class='scene-font-katari'>[플레이어]達と同様に、</span><br><span class='scene-font-katari'>例の海月に遭ったという。</span>,<span class='scene-font-katari'>요 며칠 전、</span><br><span class='scene-font-katari'>[플레이어] 일행과 똑같이、</span><br><span class='scene-font-katari'>예의 해파리를 만났다고 했다.</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,そっか……<br>ルリア達も災難だったわね。<br>私達も似た様な状況よ。,그렇구나……<br>루리아네도 큰일이었겠네.<br>우리들도 비슷한 상황이야.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,ナミさん達の仲間もあちこちに……？,나미씨의 동료도 여기저기에……？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,うん。<br>でもみんなを探そうって矢先に<br>ルフィがね。,응.<br>그래도 모두를 찾으려던 참에<br>루피가 말야.
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,謎の場所で謎のもんを拾い食いって、<br>そんなの腹を壊すに決まってんだろ。<br>お陰で今朝までず～っと立ち往生だ。,잘 모르는 곳에서 잘 모르는 걸 주워 먹더니、<br>거야 배탈이 나는게 당연하겠지.<br>덕분에 오늘 아침까지 계~속 꼼짝 못하고 있었지.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,な、なるほどなぁ……<br>何日も飯が食えなかったせいで、<br>目の色を変えて追って来たのか。,그、그렇구나……<br>며칠이나 밥을 못 먹어서、<br>눈에 불을 켜고 쫓아왔던건가.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,ししし！<br>悪かったなお前ら！,키키킥！<br>미안했어 너희들！
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,はぁ……<br>つまり私達もまだ仲間を探せてないの。<br>でも<span class='scene-font-spword'>“胃世界”</span>のどこかにはいる筈よ。,하아……<br>즉 우리들도 아직 동료를 찾고 있는 중이야.<br>그래도 <span class='scene-font-spword'>“위세계”</span>의 어딘가에는 있을 거야.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,胃世界……？,위세계……？
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,海月の胃袋の呼び名だ。<br>ルフィが決めたんだぜ。,해파리의 위주머니를 말하는거야.<br>루피가 이름붙였어.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,カッコイイだろ！<br>でも森とか湖とかさ。<br>細かい所はまだ決めてねェんだ。,멋있지！<br>그래도 숲이라던가 호수라던가말야.<br>세세한 부분은 아직 못 정했어.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,お前らが記念に決めてもいいぞ。,네가 기념으로 지어줘도 괜찮아.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,いいんですか？<br>ありがとうございます！<br>がんばって考えますね。,괜찮은가요？<br>고맙습니다！<br>열심히 생각해볼게요.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,おいおい……<br>今はもっと他に考えるもんがあるだろ。<br>この胃世界についてとかよ。,어이어이……<br>지금은 그거 말고 생각해야 할게 있잖아.<br>이 위세계에 대해서 라던가 말야.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,はう、すみません……！<br>何だか冒険心が湧いてきちゃって。,앗、죄송해요……！<br>뭔가 모험심이 떠올라서.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,あはは！<br>思ったより肝が据わってる。<br>気にいったわルリア。,아하하！<br>생각했던 것 보다 담력이 있는데?<br>맘에 들었어 루리아.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,あはは……<br>私も一応騎空士ですので。,아하하……<br>저도 일단은 기공사니까요.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,騎空士？<br>まぁこの胃世界について言えるのは……,기공사？<br>뭐 이 위세상에 대해서 말할 수 있는 건……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,胃酸に浮いてる島みたいなのは全て、<br>いわゆる<span class='scene-font-spword'>“胃石”</span>だろうって事。,위산에 떠있는 섬 같은 것들은 모두、<br>이른바 <span class='scene-font-spword'>“위석”</span>일 것이라는 것.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,胃石っていうのは、<br>胃袋に溜まった消化不良の餌とか、<br>体内の物質が色々固まったものね。,위석이란 건、<br>위주머니에 쌓인 소화불량인 먹이 라던지、<br>체내의 불순물이 섞여서 굳은 걸 말하는거야.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,その胃石が幾つか群島状に、<br>この一帯に寄り集まってるみたい。,그 위석이 몇개의 군도 같은 모양으로、<br>이 일대에 모여있는 것 같아.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,ふ～ん……？<br>いまオイラ達がいるココも胃石なのか？<br>木も草も生えてて普通の島に見えるぞ？,흐음……？<br>지금 우리들이 있는 여기도 위석이야？<br>나무랑 풀도 자라는게 평범한 섬처럼 보이는데？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,きっと長い年月の中で、<br>餌ごと吸い込んだ動植物が根づいて、<br>独自の生態系を築いたんだと思うわ。,분명 긴 세월이 흐르면서、<br>먹이째 빨아들인 동식물이 뿌리를 내려、<br>독자의 생태계를 만든거라고 생각해.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,そういえば……<br>確かに初めて見る植物ばかりです。,그러고보니……<br>확실히 처음 보는 식물들 뿐이에요.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,私達にとってもそう。<br>この海月は世界中を巡ってるのかもね。<br>人間には想像も及ばない場所さえも。,우리들이 봐도 그래.<br>이 해파리는 온세상을 떠도는 걸지도.<br>인간들은 상상도 할 수 없는 장소까지도.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,ま……<br>この数日の観測でわかったのは、<br>そんなとこかな。,뭐……<br>요 며칠간 관측해서 알게된 것은、<br>이정도려나.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,ありがとな！<br>お陰で色々わかったぜ。<br>このあとはどうするつもりなんだ？,고마워！<br>덕분에 여러가지 알게됐어.<br>이 다음엔 어떻게 할 예정이야？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,この胃石には数日いて、<br>まだ誰も見つかってねえとすると……,이 위석에서 며칠동안、<br>아직 아무도 발견하지 못했다고 한다면……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,ああ！<br>イカダを作って胃酸を渡る！<br>他の胃石で仲間を探すんだ！,그래！<br>뗏목을 만들어 위산을 건넌다！<br>다른 위석에서 동료들을 찾는거야！
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,サニー号が見つかるまでは<br>そうなるわね。この海月、人間だけ<br>吸い込んでたみたいだし、それしか……,써니호를 찾을 때 까지는<br>그래야겠네. 이 해파리、인간만<br>빨아들인 것 같고、그거 말곤……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,なるほどです！<br>皆さん海賊さんですもんね。<br>イカダもちょちょいのちょいで──,그렇군요！<br>모두 해적이니까요.<br>뗏목도 얍얍얍 하면──
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,ルフィの看病のせいで、<br>まだ全然できてねェけどな。,루피를 간병하느라、<br>아직 손도 못댔지만.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,あ、あはは……<br>そうなんですね？,아、아하하……<br>그렇겠죠？
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,でもそろそろ捜索を急がないと……<br>仮に食糧がない場所に漂流してた場合、<br>飲まず食わずだとさすがに限界だもん。,그래도 슬슬 탐색을 서둘러야해……<br>만약 식량이 없는 곳에 표류했다면、<br>아무것도 못먹었을 거고 곧 한계일거야.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,問題ねェ。<br>こいつらの協力があれば半日で作れる。,문제 없어.<br>이녀석들이 도와주면 반나절이면 만들 수 있어.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ビィ,ん？<br>こいつらって……,응？<br>이녀석들이라니……
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,他に誰がいるんだよ。<br>お前らも仲間を探すんだろ。<br>力を合わせたほうが早ェに決まってる。,달리 누가 있어.<br>너희도 동료를 찾고 있잖아.<br>힘을 합치는 게 더 빠른게 당연하지.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,な、[플레이어]？,그렇지、[플레이어]？
+Japanese,scene_evt220914_cp1_q4_s10,sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>一緒にがんばろう</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>함께 힘내자</span></span>
+Japanese,scene_evt220914_cp1_q4_s10,sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>強引だなぁ……</span></span>,<span class='scene-font-katari'><span class='scene-font-katari'>억지네……</span></span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,そうですね……！<br>ここで会ったのも何かの縁ですよね。,그래요……！<br>여기서 만난 것도 무언가의 인연이에요.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルリア,さすが船長さんというか……<br>行動力と決断力がありますね。,역시 선장님이라고나 할까……<br>행동력과 결단력이 있네요.
+Japanese,scene_evt220914_cp1_q4_s10,detail,ナミ,ふふふ、決まり！<br>三人とも改めてよろしくね！,후후후、결정！<br>세명 모두 다시끔 잘 부탁해！
+Japanese,scene_evt220914_cp1_q4_s10,detail,チョッパー,おー！<br>よろしくな！,그래ー！<br>잘 부탁해！
+Japanese,scene_evt220914_cp1_q4_s10,detail,ルフィ,<span class='scene-font-4'>よーし！</span><br>じゃあひとまず腹ごしらえだ！,<span class='scene-font-4'>좋아！</span><br>그럼 일단 배부터 채우고 볼까！
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>ルフィ達と[플레이어]達は</span><br><span class='scene-font-katari'>僅かな備蓄食糧を用いて</span><br><span class='scene-font-katari'>食事をとり……</span>,<span class='scene-font-katari'>루피 일행과 [플레이어] 일행은</span><br><span class='scene-font-katari'>적은 비축식량을 이용하여</span><br><span class='scene-font-katari'>식사를 하고……</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,,<span class='scene-font-katari'>お互い見も知らぬ地の冒険譚を語り、</span><br><span class='scene-font-katari'>その活躍に喜び笑い親睦を深めると、</span><br><span class='scene-font-katari'>イカダを作る準備を始めるのだった。</span>,<span class='scene-font-katari'>서로 본 적도 없는 땅의 모험에 대해 이야기하며、</span><br><span class='scene-font-katari'>그 활약에 기뻐하고 웃으며 친목을 다지고、</span><br><span class='scene-font-katari'>뗏목을 만들 준비를 시작했다.</span>
+Japanese,scene_evt220914_cp1_q4_s10,detail,？？？,…………,…………
