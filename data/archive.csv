@@ -14991,8 +14991,8 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 エクリブリウム＋,이퀄리브리엄+
 "<div class=""comment-m"">光属性ダメージ(特大)/自分のアビリティ再使用間隔を1ターン短縮　<span class=""text-blue"">◆アジャストヘイロー効果中、2回発動</span></div>"
 "光属性ダメージ(特大)/自分のアビリティ再使用間隔を1ターン短縮　<span class=""text-blue"">◆アジャストヘイロー効果中、2回発動</span></div>","광속성 데미지(특대)/자신의 어빌리티 재사용 대기시간 1턴 단축　<span class=""text-blue"">◆어져스트 헤일로 효과 중、2회 발동</span></div>"
-スウィープ・デトネーション,스윕・데토네이션
-スウィープ・デトネーション+,스윕・데토네이션+
+スウィープ・デトネーション,스윕 데토네이션
+スウィープ・デトネーション+,스윕 데토네이션+
 "<div class=""prt-text-small"">敵全体に6回全属性ダメージ/強化効果を1つ無効化<span class=""text-blue"">　◆アジャストヘイロー効果中、奥義発動時に発動</span></div>","<div class=""prt-text-small"">적 전체에 6회 전속성 데미지/강화효과를 1개 무효화<span class=""text-blue"">　◆어져스트 헤일로 효과 중、오의 발동시 발동</span></div>"
 ブラストイレース,블래스트 레이즈
 ブラストイレース+,블래스트 레이즈+
@@ -15002,7 +15002,7 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 願いの続き,소원의 연속
 "<div class=""prt-text-small"">敵の火・水・土・風・闇耐性を無視/敵の属性に関わらず弱点をつく/光属性キャラから回復や強化アビリティを受けるとアジャストヘイローの使用可能ターンと再使用間隔が1ターン短縮</div>","<div class=""prt-text-small"">적의 화・수・토・풍・암 내성을 무시/적의 속성에 상관없이 약점 부여/광속성 캐릭터로부터 회복 및 강화 어빌리티를 받으면 어져스트 헤일로의 사용 가능 턴과 재사용 간격이 1턴 감소</div>"
 旅路への入り口,여로의 입구
-"<div class=""comment-m""><div class=""prt-text-small"">アジャストヘイロー効果中、コスモスのHPが50％に近いほど光属性キャラの攻撃UP/防御UP/奥義性能UP/アビリティ性能UP</div></div>","<div class=""comment-m""><div class=""prt-text-small"">어져스트 헤일로 효과 중、코스모스의 HP가 50％에 근접할수록 광속성 캐릭터의 공격 UP/방어 UP/오의 성능 UP/어빌리티 성능 UP</div></div>"
+"<div class=""comment-m""><div class=""prt-text-small"">アジャストヘイロー効果中、コスモスのHPが50％に近いほど光属性キャラの攻撃UP/防御UP/奥義性能UP/アビリティ性能UP</div></div>","<div class=""comment-m""><div class=""prt-text-small"">어져스트 헤일로 효과 중, 코스모스의 HP가 50％에 근접할수록 광속성 캐릭터의 공격 UP/방어 UP/오의 성능 UP/어빌리티 성능 UP</div></div>"
 "<div class=""prt-flavor"">調停者としての役割を失った星の獣は、己の御使いの願いにより新たな存在として空の世界に顕現する。もう天秤を傾ける必要はない。彼女は今日も無垢なる世界の前途をその蒼と赤の目に焼き付ける。</div>","<div class=""prt-flavor"">調停者としての役割を失った星の獣は、己の御使いの願いにより新たな存在として空の世界に顕現する。もう天秤を傾ける必要はない。彼女は今日も無垢なる世界の前途をその蒼と赤の目に焼き付ける。</div>"
 コスモス,코스모스
 
@@ -15011,6 +15011,21 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 "!호루스(SSR,수영복)"
 ホルス,호루스
 [汀の光翼],[물가의 광익]
+ニスル・サギール,니스르 사기르
+ニスル・サギール+,니스르 사기르+
+"<span class=""prt-text-small"">光属性ダメージ(特大)/サマー・ハークムが発動　<span class=""text-blue"">◆ウジャドの目効果中、2回発動</span></span>","<span class=""prt-text-small"">광속성 데미지(특대)/사마 후쿰이 발동　<span class=""text-blue"">◆우자드의 눈 효과 중、2회 발동</span></span>"
+サマー・ハークム,사마 후쿰
+サマー・ハークム,사마 후쿰+
+"<div class=""prt-text-small"">敵に光属性ダメージ/攻防DOWN(累積)/ランダムな弱体効果を2つ付与<br><span class=""text-blue"">◆ウジャドの目効果中、2回発動</span></div>","<div class=""prt-text-small"">적에게 광속성 데미지/공방 DOWN(누적)/랜덤 약체효과를 2개 부여<br><span class=""text-blue"">◆우자드의 눈 효과 중, 2회 발동</span></div>"
+ラーミ・サハリーア,라미 사하리아
+ラーミ・サハリーア+,라미 사하리아+
+"<div class=""comment-m""><div class=""prt-text-small"">敵全体に3回光属性ダメージ/弱体耐性DOWN/連続攻撃確率DOWN/特殊技ダメージDOWN</div></div>","<div class=""comment-m""><div class=""prt-text-small"">적 전체에 3회 광속성 데미지/약체내성 DOWN/연속공격 확률 DOWN/특수기 데미지 DOWN</div></div>"
+サクロン・バラカト,사크론 바라케트
+"<div class=""comment-m""><div class=""prt-text-small"">光属性キャラが即座に奥義発動可能/フェイタルチェインゲージUP(100%)<br><span class=""text-blue"">◆ウジャドの目効果が付与されている時のみ使用可能</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">광속성 캐릭터가 즉시 오의 발동 가능/페이탈 체인 게이지 UP(100%)<br><span class=""text-blue"">◆우자드의 눈 효과가 부여되어 있을때만 사용 가능</span></div></div>"
+ウジャド・アルクーワ,우자드 알쿠바
+"<div class=""comment-m""><div class=""prt-text-small"">バトル開始時、自分にウジャドの目効果/チェインバースト「アセンション」発生時かフェイタルチェイン発動時、自分にウジャドの目効果/アビリティ再使用間隔を1ターン短縮　<span class=""text-blue"">◆ウジャドの目効果中、防御UP/弱体耐性UP/ターン終了時に味方全体のHPを回復/奥義ゲージUP(10%)</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">배틀 개시시、자신에게 우자드의 눈 효과/체인 버스트「어센션」이나 페이탈 체인 발동시、자신에게 우자드의 눈 효과 부여/어빌리티 재사용 시간 1턴 단축　<span class=""text-blue"">◆우자드의 눈 효과중、공방 UP/약체내성 UP/턴 종료시 아군 전체의 HP 회복/오의 게이지 UP(10%)</span></div></div>"
+黄金色の翼,황금색 날개
+"<div class=""comment-m""><div class=""prt-text-small"">自分が奥義発動時、ルムアLvが1上昇(最大10)　<span class=""text-blue"">◆ルムアLvに応じて奥義性能UP/チェインバーストの与ダメージUP/フェイタルチェインの与ダメージUP/ルムアLvが10の時、奥義ダメージ特殊上限UP</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">자신이 오의 발동시, 루무아 Lv이 1 상승(最大10)　<span class=""text-blue"">◆루무아 Lv에 따라 오의 성능 UP/체인 버스트의 데미지 UP/페이탈 체인의 데미지 UP/루무아 Lv가 10일때、오의 데미지 특수상한 UP</span></div></div>"
 !기본 칭호 UI
 名前変更,이름 변경
 称号・名前変更,칭호・이름 변경
