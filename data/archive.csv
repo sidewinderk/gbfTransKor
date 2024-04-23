@@ -13712,7 +13712,42 @@ Lvに応じて攻撃力、連続攻撃確率が上昇した状態(消去不可),
 イーウィヤ,이위야
 マッハ*＋,마하*+
 マッハ*,마하*
-"<div class=""comment-m"">風属性ダメージ(特大)/風速*メートルなのじゃ！が発動</div>"
+"<div class=""comment-m"">風属性ダメージ(特大)/風速***メートルなのじゃ！が発動</div>","<div class=""comment-m"">풍속성 데미지(특대)/풍속 222미터인 것이다냐!가 발동</div>"
+アッド・ラブル＋,어도러블+
+アッド・ラブル,어도러블
+"<div class=""prt-text-small"">自分以外の風属性キャラと敵全体に魅了効果/自分が敵の全ての攻撃を回避(*回)</div>","<div class=""prt-text-small"">자신 이외의 풍속성 캐릭터와 적 전체에게 매료 효과/자신이 적의 모든 공격을 회피(*回)</div>"
+風速222メートルなのじゃ！＋,풍속 222미터인 것이다냐! +
+風速222メートルなのじゃ！,풍속 222미터인 것이다냐!
+"<div class=""prt-text-small"">ターゲットに関わらず*回風属性ダメージ/敵全体の強化効果を*ターン短縮/自分の奥義ゲージUP(**%)</div>","<div class=""prt-text-small"">타겟에 관계없이 *회 풍속성 데미지/적 전체의 강화효과를 *턴 단축/자신의 오의 게이지 UP(**%)</div>"
+『翠』の恵風,『취』의 혜풍
+"<div class=""prt-text-small"">自分に『翠』の恵風効果/自分以外の風属性キャラにランダムで強化効果<span class=""text-blue"">　◆*回目の『翠』の恵風効果発動時に*度だけ風属性キャラに再攻撃効果/再使用不可</span></div>","<div class=""prt-text-small"">자신에게 『취』의 혜풍 효과/자신 이외의 풍속성 캐릭터에 랜덤 강화효과<span class=""text-blue"">　◆5번째 『취』의 혜풍 효과 발동시 1회만 풍속성 캐릭터에 재공격 효과/재사용 불가</span></div>"
+高貴で別格の存在なのじゃ！,고귀하고 특별한 존재인 것이다냐!
+"<div class=""comment-m""><div class=""prt-text-small"">弱体効果「魅了」無効/風属性キャラが魅了で攻撃行動を阻害されない/魅了効果中の風属性キャラのステータス大幅UP</div></div>","<div class=""comment-m""><div class=""prt-text-small"">약체효과 「매료」무효/풍속성 캐릭터가 매료로 공격을 방해받지 않는다/매료 효과 중 풍속성 캐릭터의 스태이터스 대폭 UP</div></div>"
+理外の『翠』,이외의 『취』
+"<div class=""prt-text-small"">フェイタルチェイン発動時、味方全体が必ずトリプルアタック(*回)/風属性追撃効果(*回)</div>","<div class=""prt-text-small"">페이탈 체인 발동시, 아군 전체가 반드시 트리플 어택(*회)/풍속성 추격 효과(*회)</div>"
+"<div class=""prt-flavor"">風の理であり、「翠」の名を冠する竜。想定された創世から減ずることなく、むしろいや増した風の元素の力を背景に強大な力を持つ。同時に、風の吹くまま気の向くままという性質を持ち合わせ、その様は外見通り正に猫。</div>"
+
+
+"!리치(SSR, 할로윈)"
+[祭演催縁災怨少女],[제연 최연 재연 소녀]
+ハロウィン・デッド・スクリーム＋,할로윈 데드 스크림+
+ハロウィン・デッド・スクリーム,할로윈 데드 스크림
+"<div class=""comment-m"">風属性ダメージ(特大)/自分の奥義ゲージUP(**%)/アビリティ再使用間隔を*ターン短縮</div>","<div class=""comment-m"">풍속성 데미지(특대)/자신의 오의 게이지 UP(20%)/어빌리티 재사용을 1턴 단축</div>"
+ホーンテッドスペクター＋,헌티드 스펙터+
+ホーンテッドスペクター,헌티드 스펙터
+"<div class=""prt-text-small"">敵全体に*回風属性ダメージ/強化効果を*つ無効化/攻防DOWN(累積)　<span class=""text-blue"">◆自分に付与されている弱体効果の数に応じて攻撃回数UP(最大**回)</span></div>","<div class=""prt-text-small"">적 전체에 6회 풍속성 데미지/강화 효과를 1개 무효화/공방 DOWN(누적)　<span class=""text-blue"">◆자신에게 부여된 약체효과의 수에 따라 공격 횟수 UP(최대 10회)</span></div>"
+ラズ・コラプション＋,라즈 커럽션+
+ラズ・コラプション,라즈 커럽션
+"<div class=""comment-m"">敵味方全体に土属性攻撃DOWN/風属性防御DOWN/毒効果/腐敗効果</div>","<div class=""comment-m"">적 전체의 토속성 공격 DOWN/풍속성 방어 DOWN/독 효과/부패 효과</div>"
+スプーキー・オブ・カース,스푸키 오브 커스
+"<div class=""comment-m"">自分に不死王の悪戯効果</div>",자신에게 불사왕의 못된 장난 효과 
+不死王の悪戯,불사왕의 못된 장난
+
+クリーピーナイト,크리피 나이트
+"<div class=""comment-m""><div class=""prt-text-small"">風属性キャラがそれぞれの弱体効果の数に応じて以下の効果を順に得る(一部のターンダメージを回復に変換/奥義ゲージ上昇量UP/攻撃UP/ダメージ上限UP)</div></div>","<div class=""comment-m""><div class=""prt-text-small"">풍속성 캐릭터가 약체 효과의 수에 따라 이하의 효과를 얻는다(일부 턴 데미지를 회복으로 전환/오의 게이지 상승량 UP/공격UP/데미지 상한 UP)</div></div>"
+ゴーストパレード,고스트 퍼레이드
+"<div class=""comment-m"">ターン終了時に奥義ゲージが**%以上の時、**%消費して敵全体に風属性ダメージ/スロウ効果</div>","<div class=""comment-m"">턴 종료시 오의 게이지가 50% 이상이면、30%를 소비해 적 전체에 풍속성 데미지/슬로우 효과</div>"
+"<div class=""prt-flavor"">仲間に担がれた星晶獣は、肝試しのために仮装民となる。人間達を恐怖に陥れてご満悦な少女であったが、思わぬ愛の奥深さに頭を抱えるのだった。</div>"
 "!노아(SSR,리미티드)"
 [空艇の導き手],[공정의 인도자]
 ノア,노아
@@ -14987,19 +15022,19 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 エクリブリウム,이퀄리브리엄
 エクリブリウム＋,이퀄리브리엄+
 
-"<div class=""comment-m"">光属性ダメージ(特大)/自分のアビリティ再使用間隔を1ターン短縮　<span class=""text-blue"">◆アジャストヘイロー効果中、2回発動</span></div>","광속성 데미지(특대)/자신의 어빌리티 재사용 대기시간 1턴 단축　<span class=""text-blue"">◆어져스트 헤일로 효과 중、2회 발동</span></div>"
+"<div class=""comment-m"">光属性ダメージ(特大)/自分のアビリティ再使用間隔を*ターン短縮　<span class=""text-blue"">◆アジャストヘイロー効果中、*回発動</span></div>","광속성 데미지(특대)/자신의 어빌리티 재사용 대기시간 1턴 단축　<span class=""text-blue"">◆어져스트 헤일로 효과 중、2회 발동</span></div>"
 スウィープ・デトネーション,스윕 데토네이션
 スウィープ・デトネーション+,스윕 데토네이션+
-"<div class=""prt-text-small"">敵全体に6回全属性ダメージ/強化効果を*つ無効化<span class=""text-blue"">　◆アジャストヘイロー効果中、奥義発動時に発動</span></div>","<div class=""prt-text-small"">적 전체에 6회 전속성 데미지/강화효과를 *개 무효화<span class=""text-blue"">　◆어져스트 헤일로 효과 중、오의 발동시 발동</span></div>"
+"<div class=""prt-text-small"">敵全体に*回全属性ダメージ/強化効果を*つ無効化<span class=""text-blue"">　◆アジャストヘイロー効果中、奥義発動時に発動</span></div>","<div class=""prt-text-small"">적 전체에 6회 전속성 데미지/강화효과를 *개 무효화<span class=""text-blue"">　◆어져스트 헤일로 효과 중、오의 발동시 발동</span></div>"
 ブラストイレース,블래스트 레이즈
 ブラストイレース+,블래스트 레이즈+
-"<div class=""prt-text-small"">敵に光属性ダメージ/連続攻撃確率DOWN(累積)/自分の奥義ゲージUP(20%)<span class=""text-blue"">　◆アジャストヘイロー効果中、通常攻撃後に発動</span></div>","<div class=""prt-text-small"">적에게 광속성 데미지/연속공격 확률 DOWN(누적)/자신의 오의 게이지 상승(20%)<span class=""text-blue"">　◆어져스트 헤일로 효과 중、통상공격 후 발동</span></div>"
+"<div class=""prt-text-small"">敵に光属性ダメージ/連続攻撃確率DOWN(累積)/自分の奥義ゲージUP(**%)<span class=""text-blue"">　◆アジャストヘイロー効果中、通常攻撃後に発動</span></div>","<div class=""prt-text-small"">적에게 광속성 데미지/연속공격 확률 DOWN(누적)/자신의 오의 게이지 상승(20%)<span class=""text-blue"">　◆어져스트 헤일로 효과 중、통상공격 후 발동</span></div>"
 アジャストヘイロー,어져스트 헤일로
 "<div class=""prt-text-small"">自分にアジャストヘイロー効果/即座に奥義発動可能/HPが最大値の半分になる/*ターンの間被ダメージ無効<span class=""text-blue"">　◆*回発動で他のアビリティが即時使用可能/同じダメージアビリティを連続*回まで使用可能追加</span></div>","<div class=""prt-text-small"">자신에게 어져스트 헤일로 효과/즉시 오의 발동 가능/HP가 최대치의 절반이 된다/*턴동안 받는 데미지를 무효화<span class=""text-blue"">　◆*회 발동으로 다른 어빌리티가 즉시 사용 가능/같은 데미지 어빌리티를 *회 연속 사용 가능 추가</span></div>"
 願いの続き,소원의 연속
 "<div class=""prt-text-small"">敵の火・水・土・風・闇耐性を無視/敵の属性に関わらず弱点をつく/光属性キャラから回復や強化アビリティを受けるとアジャストヘイローの使用可能ターンと再使用間隔が*ターン短縮</div>","<div class=""prt-text-small"">적의 화・수・토・풍・암 내성을 무시/적의 속성에 상관없이 약점 부여/광속성 캐릭터로부터 회복 및 강화 어빌리티를 받으면 어져스트 헤일로의 사용 가능 턴과 재사용 간격이 *턴 감소</div>"
 旅路への入り口,여로의 입구
-"<div class=""comment-m""><div class=""prt-text-small"">アジャストヘイロー効果中、コスモスのHPが50％に近いほど光属性キャラの攻撃UP/防御UP/奥義性能UP/アビリティ性能UP</div></div>","<div class=""comment-m""><div class=""prt-text-small"">어져스트 헤일로 효과 중, 코스모스의 HP가 50％에 근접할수록 광속성 캐릭터의 공격 UP/방어 UP/오의 성능 UP/어빌리티 성능 UP</div></div>"
+"<div class=""comment-m""><div class=""prt-text-small"">アジャストヘイロー効果中、コスモスのHPが**％に近いほど光属性キャラの攻撃UP/防御UP/奥義性能UP/アビリティ性能UP</div></div>","<div class=""comment-m""><div class=""prt-text-small"">어져스트 헤일로 효과 중, 코스모스의 HP가 50％에 근접할수록 광속성 캐릭터의 공격 UP/방어 UP/오의 성능 UP/어빌리티 성능 UP</div></div>"
 "<div class=""prt-flavor"">調停者としての役割を失った星の獣は、己の御使いの願いにより新たな存在として空の世界に顕現する。もう天秤を傾ける必要はない。彼女は今日も無垢なる世界の前途をその蒼と赤の目に焼き付ける。</div>","<div class=""prt-flavor"">중재자로서의 역할을 잃은 별의 짐승은 자신의 사자의 소원에 따라 새로운 존재로 하늘의 세계에 나타난다. 더 이상 저울추를 기울일 필요가 없다. 그녀는 오늘도 그 푸른 눈과 붉은 눈동자에 순결한 세상의 앞날을 비춘다.</div>"
 コスモス,코스모스
 
@@ -15016,13 +15051,34 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 "<div class=""prt-text-small"">敵に光属性ダメージ/攻防DOWN(累積)/ランダムな弱体効果を*つ付与<br><span class=""text-blue"">◆ウジャドの目効果中、*回発動</span></div>","<div class=""prt-text-small"">적에게 광속성 데미지/공방 DOWN(누적)/랜덤 약체효과를 *개 부여<br><span class=""text-blue"">◆우자드의 눈 효과 중, *회 발동</span></div>"
 ラーミ・サハリーア,라미 사하리아
 ラーミ・サハリーア+,라미 사하리아+
-"<div class=""comment-m""><div class=""prt-text-small"">敵全体に3回光属性ダメージ/弱体耐性DOWN/連続攻撃確率DOWN/特殊技ダメージDOWN</div></div>","<div class=""comment-m""><div class=""prt-text-small"">적 전체에 3회 광속성 데미지/약체내성 DOWN/연속공격 확률 DOWN/특수기 데미지 DOWN</div></div>"
+"<div class=""comment-m""><div class=""prt-text-small"">敵全体に*回光属性ダメージ/弱体耐性DOWN/連続攻撃確率DOWN/特殊技ダメージDOWN</div></div>","<div class=""comment-m""><div class=""prt-text-small"">적 전체에 3회 광속성 데미지/약체내성 DOWN/연속공격 확률 DOWN/특수기 데미지 DOWN</div></div>"
 サクロン・バラカト,사크론 바라케트
-"<div class=""comment-m""><div class=""prt-text-small"">光属性キャラが即座に奥義発動可能/フェイタルチェインゲージUP(100%)<br><span class=""text-blue"">◆ウジャドの目効果が付与されている時のみ使用可能</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">광속성 캐릭터가 즉시 오의 발동 가능/페이탈 체인 게이지 UP(100%)<br><span class=""text-blue"">◆우자드의 눈 효과가 부여되어 있을때만 사용 가능</span></div></div>"
+"<div class=""comment-m""><div class=""prt-text-small"">光属性キャラが即座に奥義発動可能/フェイタルチェインゲージUP(***%)<br><span class=""text-blue"">◆ウジャドの目効果が付与されている時のみ使用可能</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">광속성 캐릭터가 즉시 오의 발동 가능/페이탈 체인 게이지 UP(100%)<br><span class=""text-blue"">◆우자드의 눈 효과가 부여되어 있을때만 사용 가능</span></div></div>"
 ウジャド・アルクーワ,우자드 알쿠바
-"<div class=""comment-m""><div class=""prt-text-small"">バトル開始時、自分にウジャドの目効果/チェインバースト「アセンション」発生時かフェイタルチェイン発動時、自分にウジャドの目効果/アビリティ再使用間隔を1ターン短縮　<span class=""text-blue"">◆ウジャドの目効果中、防御UP/弱体耐性UP/ターン終了時に味方全体のHPを回復/奥義ゲージUP(10%)</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">배틀 개시시、자신에게 우자드의 눈 효과/체인 버스트「어센션」이나 페이탈 체인 발동시、자신에게 우자드의 눈 효과 부여/어빌리티 재사용 시간 1턴 단축　<span class=""text-blue"">◆우자드의 눈 효과중、공방 UP/약체내성 UP/턴 종료시 아군 전체의 HP 회복/오의 게이지 UP(10%)</span></div></div>"
+"<div class=""comment-m""><div class=""prt-text-small"">バトル開始時、自分にウジャドの目効果/チェインバースト「アセンション」発生時かフェイタルチェイン発動時、自分にウジャドの目効果/アビリティ再使用間隔を*ターン短縮　<span class=""text-blue"">◆ウジャドの目効果中、防御UP/弱体耐性UP/ターン終了時に味方全体のHPを回復/奥義ゲージUP(**%)</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">배틀 개시시、자신에게 우자드의 눈 효과/체인 버스트「어센션」이나 페이탈 체인 발동시、자신에게 우자드의 눈 효과 부여/어빌리티 재사용 시간 1턴 단축　<span class=""text-blue"">◆우자드의 눈 효과중、공방 UP/약체내성 UP/턴 종료시 아군 전체의 HP 회복/오의 게이지 UP(10%)</span></div></div>"
 黄金色の翼,황금색 날개
-"<div class=""comment-m""><div class=""prt-text-small"">自分が奥義発動時、ルムアLvが1上昇(最大10)　<span class=""text-blue"">◆ルムアLvに応じて奥義性能UP/チェインバーストの与ダメージUP/フェイタルチェインの与ダメージUP/ルムアLvが10の時、奥義ダメージ特殊上限UP</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">자신이 오의 발동시, 루무아 Lv이 1 상승(最大10)　<span class=""text-blue"">◆루무아 Lv에 따라 오의 성능 UP/체인 버스트의 데미지 UP/페이탈 체인의 데미지 UP/루무아 Lv가 10일때、오의 데미지 특수상한 UP</span></div></div>"
+"<div class=""comment-m""><div class=""prt-text-small"">自分が奥義発動時、ルムアLvが*上昇(最大**)　<span class=""text-blue"">◆ルムアLvに応じて奥義性能UP/チェインバーストの与ダメージUP/フェイタルチェインの与ダメージUP/ルムアLvが**の時、奥義ダメージ特殊上限UP</span></div></div>","<div class=""comment-m""><div class=""prt-text-small"">자신이 오의 발동시, 루무아 Lv이 1 상승(最大10)　<span class=""text-blue"">◆루무아 Lv에 따라 오의 성능 UP/체인 버스트의 데미지 UP/페이탈 체인의 데미지 UP/루무아 Lv가 10일때、오의 데미지 특수상한 UP</span></div></div>"
+ウジャドの目,우자드의 눈
+
+
+"!유니(SSR, 리미티드)"
+[調停のいとし子],[조정의 소중한 아이]
+ユニ,유니
+"<div class=""name-m"">インノートム・ユニバース＋</div>"
+"<div class=""name-m"">インノートム・ユニバース/div>"
+"<div class=""comment-m"">光属性ダメージ(特大)/リヴァイタライズが発動</div>"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
