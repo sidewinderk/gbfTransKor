@@ -1315,11 +1315,21 @@ Lvに応じて連続攻撃確率と回避率が上昇した状態(消去不可/L
 "!유니(SSR, 리미티드)"
 [調停のいとし子],[조정의 소중한 아이]
 ユニ,유니
-インノートム・ユニバース＋,이노툼 유니버스+
-インノートム・ユニバース,이노툼 유니버스
-"<div class=""comment-m"">光属性ダメージ(特大)/リヴァイタライズが発動</div>"
-リヴァイタライズ
-"<div class=""prt-text-small"">光属性キャラの奥義ゲージUP(**%)/HPを回復/弱体効果を*ターン短縮　<span class=""text-blue"">◆いとし子の願いを*増加</span></div>"
+インノートム・ユニバース＋,인노툼 유니버스+
+インノートム・ユニバース,인노툼 유니버스
+"<div class=""comment-m"">光属性ダメージ(特大)/リヴァイタライズが発動</div>",광속성 데미지(특대)/리바이탈라이즈가 발동
+リヴァイタライズ,리바이탈라이즈
+"<div class=""prt-text-small"">光属性キャラの奥義ゲージUP(**%)/HPを回復/弱体効果を*ターン短縮　<span class=""text-blue"">◆いとし子の願いを*増加</span></div>","<div class=""prt-text-small"">광속성 캐릭터의 오의 게이지 UP(**%)/HP를 회복/약체효과를 *턴 단축 <span class=""text-blue"">◆소중한 아이의 소원을 * 증가</span></div>"
+"シーズ・ザ・デイ,",시즈 더 데이
+"<div class=""prt-text-small"">自分以外の光属性キャラ単体のアビリティが即時使用可能/同じアビリティを連続*回まで発動可能　<span class=""text-blue"">◆いとし子の願いを*減少</span></div>","<div class=""prt-text-small"">자신 이외의 광속성 캐릭터 1체의 어빌리티 즉시 사용 가능/같은 어빌리티를 연속 *2회까지 발동 가능　<span class=""text-blue"">◆소중한 아이의 소원을 * 소모</span></div>"
+ヴィズ・ヴォロンタティス,비스 볼룬타티스
+"<div class=""prt-text-small"">解除可能な敵の予兆を中断させる/敵全体のCTをリセット<span class=""text-blue""><br>◆いとし子の願いを**減少</span></div>","<div class=""prt-text-small"">해제 가능한 적의 전조를 중단/적 전체의 CT를 초기화 <span class=""text-blue""><br>◆소중한 아이의 소원을 ** 소모</span></div>"
+ポルタ・プラーナ,포르타 플라나
+"<div class=""prt-text-small"">自分に調停の願い効果<span class=""text-blue""><br>◆いとし子の願いを**減少</span></div>","<div class=""prt-text-small"">자신에게 조정의 소원 효과<span class=""text-blue""><br>◆소중한 아이의 소원을 ** 소모</span></div>"
+いとし子の願い,소중한 아이의 소원
+調停の願い,조정의 소원
+
+
 
 
 
