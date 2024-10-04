@@ -1800,18 +1800,18 @@ Lvに応じて攻撃性能とアビリティ性能が上昇し、確率でター
 !야마토 계열
 ヤマト,야마토
 八塩折,야시오오리
-天十握剣,토츠카노츠루기
+天十握剣,텐토츠카노츠루기
 "<div class=""prt-text-small"">敵に**倍自属性ダメージ/連続攻撃確率DOWN(累積)<br><span class=""text-blue"">◆フェイタルチェイン発動時に即時使用可能になる/八塩折Lvが*の時、*回発動</span></div>","<div class=""prt-text-small"">적에게 **배 자속성 대미지/연속공격 확률 DOWN(누적)<br><span class=""text-blue"">◆페이탈 체인 발동시 즉시 사용 가능/야시오오리 Lv이 *일 때, *회 발동</span></div>"
 清祓乃神楽,키요시하라노카구라
-
-
-
-
-
-
-
-
-
+"<div class=""prt-text-small"">味方全体の連続攻撃確率UP<br><span class=""text-blue"">◆八塩折Lv*以上：自属性攻撃UP追加<br>八塩折Lv*：自属性追撃効果追加</span></div>","<div class=""prt-text-small"">아군 전체의 연속공격 확률 UP<br><span class=""text-blue"">◆야시오오리 Lv* 이상：자속성 공격 UP 추가<br>야시오오리 Lv*：자속성 추격 효과 추가</span></div>"
+八塩折之酒,야시오오리의 술
+"<div class=""prt-text-small"">フェイタルチェイン発動時と敵の予兆を中断時に八塩折Lvが*上昇(最大Lv*)<span class=""text-blue""> ◆八塩折Lvに応じて攻撃UP</span></div>","<div class=""prt-text-small"">페이탈 체인 발동시 또는 적의 전조 중단시 야시오오리 Lv이 *상승(최대 Lv*)<span class=""text-blue""> ◆야시오오리 Lv에 따라 공격 UP</span></div>"
+天導の標,하늘이 이끄는 표식
+"<div class=""prt-text-small"">敵が特殊技を使用時に、構え技の場合自分の攻撃大幅UP(*回)/詠唱技の場合フェイタルチェインゲージUP(**%)</div>","<div class=""prt-text-small"">敵が特殊技を使用時に、構え技の場合自分の攻撃大幅UP(*回)/詠唱技の場合フェイタルチェインゲージUP(**%)</div>"
+白雹乱流,백백난류
+"<div class=""prt-text-small"">フェイタルチェインゲージUP(**%)<span class=""text-blue""> ◆八塩折Lvに応じて味方全体の奥義ゲージUP</span></div>","<div class=""prt-text-small"">페이탈 체인 게이지 UP(**%)<span class=""text-blue""> ◆야시오오리 Lv에 따라 아군 전체의 오의게이지 UP</span></div>"
+岐首断剣,기수단검
+"<div class=""prt-text-small"">敵に*倍自属性ダメージ/敵の予兆解除条件を減少/八塩折Lvが*上昇 <span class=""text-blue"">◆予兆解除可能時のみ使用可能</span></div>","<div class=""prt-text-small"">적에게 *배 자속성 대미지/적의 전조해제 조건 감소/야시오오리 Lv이 *상승 <span class=""text-blue"">◆전조해제 가능시에만 사용가능</span></div>"
 
 
 
