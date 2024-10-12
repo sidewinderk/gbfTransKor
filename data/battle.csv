@@ -1,468 +1,468 @@
 Type,Name,Origin,Korean
-text_jp,,オ、オマエ……大丈夫なのかぁ！？,아앗! 너 괜찮아?
-text_jp,,んん～？致命傷を与えたと思ったの<br>ですがねェ……,음~? 치명상을 입힌줄<br>알았는데말이죠~
-text_jp,,まぁいいでしょう。<br>ヒドラ！ 可愛がってあげなさいィ！,뭐 됐어요.<br> 히드라! 해치워버리세요~!
-text_jp,,ぜ、全然効いてねぇぞ！？,"전, 전혀 효과가 없는데?"
-text_jp,,大丈夫です……！,괜찮아요...!
-text_jp,,どうしたんですかァ？<br>全然効いてませんネェ～,왜 그러죠~?<br> 전~혀 효과가 없는데요~
-text_jp,,野郎！ <br>…とにかく攻撃するしかねぇ！！,이 녀석! <br>…어쨌든 공격할 수 밖에 없어!!
-text_jp,,もう、飽きてきたですネェ…<br>そろそろ終わりにしなさいですネェ！,이제 질리네요~..<br>슬슬 끝내세요~!
-text_jp,,ば、万事休すかぁーッ！？<br>ちくしょう！！,이제 다 틀린건가!?<br>젠장!!
-text_jp,,準備ができました！<br>星晶の力…あなたに預けます！！,준비가됐어요!<br>성정의 힘...당신에게 맡길게요!!
+text_jp,#REF!,オ、オマエ……大丈夫なのかぁ！？,아앗! 너 괜찮아?
+text_jp,#REF!,んん～？致命傷を与えたと思ったの<br>ですがねェ……,음~? 치명상을 입힌줄<br>알았는데말이죠~
+text_jp,#REF!,まぁいいでしょう。<br>ヒドラ！ 可愛がってあげなさいィ！,뭐 됐어요.<br> 히드라! 해치워버리세요~!
+text_jp,#REF!,ぜ、全然効いてねぇぞ！？,"전, 전혀 효과가 없는데?"
+text_jp,#REF!,大丈夫です……！,괜찮아요...!
+text_jp,#REF!,どうしたんですかァ？<br>全然効いてませんネェ～,왜 그러죠~?<br> 전~혀 효과가 없는데요~
+text_jp,#REF!,野郎！ <br>…とにかく攻撃するしかねぇ！！,이 녀석! <br>…어쨌든 공격할 수 밖에 없어!!
+text_jp,#REF!,もう、飽きてきたですネェ…<br>そろそろ終わりにしなさいですネェ！,이제 질리네요~..<br>슬슬 끝내세요~!
+text_jp,#REF!,ば、万事休すかぁーッ！？<br>ちくしょう！！,이제 다 틀린건가!?<br>젠장!!
+text_jp,#REF!,準備ができました！<br>星晶の力…あなたに預けます！！,준비가됐어요!<br>성정의 힘...당신에게 맡길게요!!
 condition_win,,勝利条件,승리 조건
 condition_win,,？？？,？？？
 condition_lose,,ルリアの悲痛な叫びは誰にも届かない……
-text_jp,,どうして……<br>いったい何が……？
-text_en,,What? Why didn't anything happen?
-text_jp,,お願い……！　なんで……？<br>みんな、どうして……？
-text_en,,Please! Why won't they help me?
-text_jp,,私の声、<br>届かなくなっちゃったの……？
-text_en,,Can they not hear me anymore?
-text_jp,,どうしよう……！<br>そんな……<br>私、どうすれば……！？
-text_en,,Oh no! What should I do?
+text_jp,#REF!,どうして……<br>いったい何が……？
+text_en,#REF!,What? Why didn't anything happen?
+text_jp,#REF!,お願い……！　なんで……？<br>みんな、どうして……？
+text_en,#REF!,Please! Why won't they help me?
+text_jp,#REF!,私の声、<br>届かなくなっちゃったの……？
+text_en,#REF!,Can they not hear me anymore?
+text_jp,#REF!,どうしよう……！<br>そんな……<br>私、どうすれば……！？
+text_en,#REF!,Oh no! What should I do?
 condition_win,,ルリアは直接攻撃ができない……
 condition_win,,襲い来る獣を退けろ！,습격해온 짐승을 물리쳐라!
 condition_win,,敗北条件：いずれかのバトルメンバーの戦闘不能,패배 조건: 한명 이상의 배틀 멤버의 전투 불능
-text_jp,,どうすれば……。,어떻게 해야…….
-text_en,,What do we do...,어떻게 해야…….
-text_jp,,事情を聞くにはこの狼を<br>先に倒すしかない……か。,사정을 들으려면 이 늑대를<br>먼저 쓰러뜨릴 수 밖에 없겠…….군.
-text_en,,"From the looks of it, this wolf needs to be taken care of first.",사정을 들으려면 이 늑대를<br>먼저 쓰러뜨릴 수 밖에 없겠…….군.
-text_jp,,あー！　まっくろー！！<br>ネクタルも、だめー！,아! 새까만사람!!<br>넥타르도 안돼!
-text_en,,Ah! Weird guy in black! Nectar! Stop it!,아! 새까만사람!!<br>넥타르도 안돼!
-text_jp,,くっ……この鳥！！<br>邪魔をするな！,큭……이 새!!<br>방해하지마!
-text_en,,Damn bird... Don't get in the way!,큭……이 새!!<br>방해하지마!
-text_jp,,チッ……！　おい！<br>追い払う策はあるのか！？,쳇……! 어이!<br>쫓아낼 계책이 있는거야!?
-text_en,,"Tch! Hey, got any ideas to deal with this?",쳇……! 어이!<br>쫓아낼 계책이 있는거야!?
-text_jp,,…………！<br>（動きを止めて逃げよう！）,........!<br>(움직임을 멈추고 도망가자)
-text_en,,"...! (Seal his movements, then we make a break for it!)",........!<br>(움직임을 멈추고 도망가자)
-text_jp,,すまないが少し時間を稼ぎたい。<br>頼めるだろうか？,미안하지만 시간 좀 벌고 싶어. 부탁할 수 있을까?
-text_en,,"I apologize, but we need to buy some time. Can we ask this of you?",미안하지만 시간 좀 벌고 싶어. 부탁할 수 있을까?
-text_jp,,手間を掛けさせる……！<br>後で必ず話は聞かせて貰うぞ！,귀찮게 만드는군…… 나중에 꼭 이야기는 들려줘야겠어!
-text_en,,"Sure aren't shy about asking favors, huh? You better tell me everything you know after this!",귀찮게 만드는군…… 나중에 꼭 이야기는 들려줘야겠어!
-text_jp,,クシナ！　準備はいいな？,쿠시나! 준비됐지?
-text_en,,Kushina! Are you ready?,쿠시나! 준비됐지?
-text_jp,,…………！<br>（これで……！）,........!<br>(이걸로……!)
-text_en,,...! (Here we go!),........!<br>(이걸로……!)
+text_jp,#REF!,どうすれば……。,어떻게 해야…….
+text_en,#REF!,What do we do...,어떻게 해야…….
+text_jp,#REF!,事情を聞くにはこの狼を<br>先に倒すしかない……か。,사정을 들으려면 이 늑대를<br>먼저 쓰러뜨릴 수 밖에 없겠…….군.
+text_en,#REF!,"From the looks of it, this wolf needs to be taken care of first.",사정을 들으려면 이 늑대를<br>먼저 쓰러뜨릴 수 밖에 없겠…….군.
+text_jp,#REF!,あー！　まっくろー！！<br>ネクタルも、だめー！,아! 새까만사람!!<br>넥타르도 안돼!
+text_en,#REF!,Ah! Weird guy in black! Nectar! Stop it!,아! 새까만사람!!<br>넥타르도 안돼!
+text_jp,#REF!,くっ……この鳥！！<br>邪魔をするな！,큭……이 새!!<br>방해하지마!
+text_en,#REF!,Damn bird... Don't get in the way!,큭……이 새!!<br>방해하지마!
+text_jp,#REF!,チッ……！　おい！<br>追い払う策はあるのか！？,쳇……! 어이!<br>쫓아낼 계책이 있는거야!?
+text_en,#REF!,"Tch! Hey, got any ideas to deal with this?",쳇……! 어이!<br>쫓아낼 계책이 있는거야!?
+text_jp,#REF!,…………！<br>（動きを止めて逃げよう！）,........!<br>(움직임을 멈추고 도망가자)
+text_en,#REF!,"...! (Seal his movements, then we make a break for it!)",........!<br>(움직임을 멈추고 도망가자)
+text_jp,#REF!,すまないが少し時間を稼ぎたい。<br>頼めるだろうか？,미안하지만 시간 좀 벌고 싶어. 부탁할 수 있을까?
+text_en,#REF!,"I apologize, but we need to buy some time. Can we ask this of you?",미안하지만 시간 좀 벌고 싶어. 부탁할 수 있을까?
+text_jp,#REF!,手間を掛けさせる……！<br>後で必ず話は聞かせて貰うぞ！,귀찮게 만드는군…… 나중에 꼭 이야기는 들려줘야겠어!
+text_en,#REF!,"Sure aren't shy about asking favors, huh? You better tell me everything you know after this!",귀찮게 만드는군…… 나중에 꼭 이야기는 들려줘야겠어!
+text_jp,#REF!,クシナ！　準備はいいな？,쿠시나! 준비됐지?
+text_en,#REF!,Kushina! Are you ready?,쿠시나! 준비됐지?
+text_jp,#REF!,…………！<br>（これで……！）,........!<br>(이걸로……!)
+text_en,#REF!,...! (Here we go!),........!<br>(이걸로……!)
 condition_win,,悪鬼を率いるゴブリンプリンセスを倒せ！,악귀를 이끄는 고블린 프린세스를 쓰러뜨려라!
-text_jp,,兄さん、団長さん！<br>痺れ香の効果に気を付けて！,오빠! 단장님! <br> 마비향의 효과를 조심해!
-text_en,,Lucius! Captain! Watch out for the numbing agent!,오빠! 단장님! <br> 마비향의 효과를 조심해!
-text_jp,,全部片付くまでは<br>無理しちゃダメだよ！,다 정리될 때까지는<br>무리하면 안돼!
-text_en,,Don't do anything stupid before it's all cleaned up!,다 정리될 때까지는<br>무리하면 안돼!
-text_jp,,厄介な……。,귀찮군…….
-text_en,,"All right, all right...",귀찮군…….
-text_jp,,おまたせー！<br>ぜんぶ！　かたづいた！,기다렸지! <br> 전부! 정리했어!
-text_en,,There we go! The air's cleared up now! No more numbing!,기다렸지! <br> 전부! 정리했어!
-text_jp,,ありがとう！<br>これで全力を出せる！,고마워!<br>이것으로 전력으로 싸울 수 있어!
-text_en,,Thanks! Now we can let loose!,고마워!<br>이것으로 전력으로 싸울 수 있어!
-text_jp,,小癪な……！,건방진...!
-text_en,,Impudent brats!,건방진...!
-text_jp,,わー！？<br>ゴブリンきた！！,와!?<br>고블린 왔어!!
-text_en,,Waaah! Goblins!,와!?<br>고블린 왔어!!
-text_jp,,ウグス！　お前達は<br>この場を離れろ！,우구스! 너희들은<br>이 자리를 떠라!
-text_en,,Ugusu! You lot get out of here!,우구스! 너희들은<br>이 자리를 떠라!
-text_jp,,わかったー！！<br>きをつけてね！,알았어~!!<br>조심해!
-text_en,,Okay! Be careful!,알았어~!!<br>조심해!
-text_jp,,ふふ……愛し子達を、<br>王を奪われた痛み……。,"후후......사랑하는 자식들을,<br>왕을 빼앗긴 아픔......"
-text_en,, Hehe... The pain you've inflicted upon my beloved children and king...,"후후......사랑하는 자식들을,<br>왕을 빼앗긴 아픔......"
-text_jp,,ワラワが教えてあげる！,이 몸이 가르쳐 줄게!
-text_en,,I'll return it to you tenfold!,이 몸이 가르쳐 줄게!
-text_jp,,ティナ！！,티나!!
-text_en,,Teena!,티나!!
-text_jp,,大丈夫……！<br>これくらい平気だよ！,괜찮아...!<br>이정도 괜찮아!
-text_en,,I'm fine! This much is nothing!,괜찮아...!<br>이정도 괜찮아!
-text_jp,,…………,…………
-text_en,,...,...
-text_jp,,ふっ……あはははは！<br>その顔！,훗......하하하하하!<br>그 얼굴!
-text_en,,Hehe... Hahaha! What a lovely expression!,훗......하하하하하!<br>그 얼굴!
-text_jp,,ワラワ達が憎いと……<br>ワラワ達こそが悪と<br>思い込んだ醜い顔！,내가 밉다고....<br>우리들이야 말로 악이라고<br>믿는 추한 얼굴!
-text_en,,The scorn in your eyes—you truly believe we are the barbaric monsters!,내가 밉다고....<br>우리들이야 말로 악이라고<br>믿는 추한 얼굴!
-text_jp,,大嫌いだわ……本当に。<br>思い上がりよ、<br>ニンゲン！！,"너무 싫어......정말로.<br>잘난체 하지마,<br>인간!!"
-text_en,,"I detest you. I truly do. Your hubris will be your undoing, child of man!","너무 싫어......정말로.<br>잘난체 하지마,<br>인간!!"
-text_jp,,貴様……！,이 자식...!
-text_en,,You vile...,이 자식...!
-text_jp,,さぁ……誰から<br>殺してほしいの？,자…누구부터<br>죽여줄까?
-text_en,,Now... Who should I kill first?,자…누구부터<br>죽여줄까?
-text_jp,,ふん……余裕だな。<br>そうしている間に俺が<br>貴様の首を切り落とすぞ！,흥……여유롭군.<br> 그러는 동안 내가 <br> 네 놈의 목을 베겠다!
-text_en,,"Keep taking me that lightly, and you'll find your head lopped off soon enough.",흥……여유롭군.<br> 그러는 동안 내가 <br> 네 놈의 목을 베겠다!
-text_jp,,やってごらんなさい！<br>やれるものならね！,해보세요!<br>할 수만 있다면 말야!
-text_en,,I would love to see you try! Come then! Show me you mean it!,해보세요!<br>할 수만 있다면 말야!
-text_jp,,そんなものか！<br>貴様の恨みとやらは！,그정돈가!<br>네놈의 원망은!
-text_en,,Is that all your hatred can muster? Pathetic!,그정돈가!<br>네놈의 원망은!
-text_jp,,…………っ！！,...............!!
-text_en,,...!,...!
-text_jp,,来るがいい、悪鬼の姫！<br>俺は逃げも隠れもしない！,"자 와라, 악귀 공주!<br>나는 도망치지도 숨지도 않아!"
-text_en,,"Bring it, princess of the fiends! I won't run nor hide...","자 와라, 악귀 공주!<br>나는 도망치지도 숨지도 않아!"
-text_jp,,お前の王が<br>そうであったように！！,너의 왕이 <br> 그랬듯이!!
-text_en,,Not like your king did!,너의 왕이 <br> 그랬듯이!!
-text_jp,,その……醜い口で！<br>あの方を語るなぁっ！！,그......추악한 입으로!<br> 그 분을 말하지마!!
-text_en,,Why you... How dare you speak of him!,그......추악한 입으로!<br> 그 분을 말하지마!!
-text_jp,,ノインの代わりにこれを使うか。<br>敵戦力から見て問題はない。<br>このまま制圧する。,노인 대신 이걸 쓸까.<br>적 전력으로 봐서는 문제없다.<br>이대로 제압한다.
-text_en,,"Even if I must use this weapon in place of Yek, the enemy is of no consequence.",노인 대신 이걸 쓸까.<br>적 전력으로 봐서는 문제없다.<br>이대로 제압한다.
-text_jp,,くそ、次から次へと……！<br>お前達、ほんとに怪我するぞ！？<br>イルザ教官に怒られるぞ！？,"젠장, 계속해서....!<br>너희들, 정말 다친다구!?<br>이루자 교관에게 혼난다!?"
-text_en,,"Damn, they won't stop! Hey, soldiers! Ilsa's gonna be pissed when she sees the injury report!","젠장, 계속해서....!<br>너희들, 정말 다친다구!?<br>이루자 교관에게 혼난다!?"
-text_jp,,この連中で最後だ。<br>正面の方は片付いたようだな。,이 녀석들로 마지막이다.<br>정면은 정리가 된 것 같군.
-text_en,,They seem to be the last ones. The other fight appears to be wrapping up as well.,이 녀석들로 마지막이다.<br>정면은 정리가 된 것 같군.
+text_jp,#REF!,兄さん、団長さん！<br>痺れ香の効果に気を付けて！,오빠! 단장님! <br> 마비향의 효과를 조심해!
+text_en,#REF!,Lucius! Captain! Watch out for the numbing agent!,오빠! 단장님! <br> 마비향의 효과를 조심해!
+text_jp,#REF!,全部片付くまでは<br>無理しちゃダメだよ！,다 정리될 때까지는<br>무리하면 안돼!
+text_en,#REF!,Don't do anything stupid before it's all cleaned up!,다 정리될 때까지는<br>무리하면 안돼!
+text_jp,#REF!,厄介な……。,귀찮군…….
+text_en,#REF!,"All right, all right...",귀찮군…….
+text_jp,#REF!,おまたせー！<br>ぜんぶ！　かたづいた！,기다렸지! <br> 전부! 정리했어!
+text_en,#REF!,There we go! The air's cleared up now! No more numbing!,기다렸지! <br> 전부! 정리했어!
+text_jp,#REF!,ありがとう！<br>これで全力を出せる！,고마워!<br>이것으로 전력으로 싸울 수 있어!
+text_en,#REF!,Thanks! Now we can let loose!,고마워!<br>이것으로 전력으로 싸울 수 있어!
+text_jp,#REF!,小癪な……！,건방진...!
+text_en,#REF!,Impudent brats!,건방진...!
+text_jp,#REF!,わー！？<br>ゴブリンきた！！,와!?<br>고블린 왔어!!
+text_en,#REF!,Waaah! Goblins!,와!?<br>고블린 왔어!!
+text_jp,#REF!,ウグス！　お前達は<br>この場を離れろ！,우구스! 너희들은<br>이 자리를 떠라!
+text_en,#REF!,Ugusu! You lot get out of here!,우구스! 너희들은<br>이 자리를 떠라!
+text_jp,#REF!,わかったー！！<br>きをつけてね！,알았어~!!<br>조심해!
+text_en,#REF!,Okay! Be careful!,알았어~!!<br>조심해!
+text_jp,#REF!,ふふ……愛し子達を、<br>王を奪われた痛み……。,"후후......사랑하는 자식들을,<br>왕을 빼앗긴 아픔......"
+text_en,#REF!, Hehe... The pain you've inflicted upon my beloved children and king...,"후후......사랑하는 자식들을,<br>왕을 빼앗긴 아픔......"
+text_jp,#REF!,ワラワが教えてあげる！,이 몸이 가르쳐 줄게!
+text_en,#REF!,I'll return it to you tenfold!,이 몸이 가르쳐 줄게!
+text_jp,#REF!,ティナ！！,티나!!
+text_en,#REF!,Teena!,티나!!
+text_jp,#REF!,大丈夫……！<br>これくらい平気だよ！,괜찮아...!<br>이정도 괜찮아!
+text_en,#REF!,I'm fine! This much is nothing!,괜찮아...!<br>이정도 괜찮아!
+text_jp,#REF!,…………,…………
+text_en,#REF!,...,...
+text_jp,#REF!,ふっ……あはははは！<br>その顔！,훗......하하하하하!<br>그 얼굴!
+text_en,#REF!,Hehe... Hahaha! What a lovely expression!,훗......하하하하하!<br>그 얼굴!
+text_jp,#REF!,ワラワ達が憎いと……<br>ワラワ達こそが悪と<br>思い込んだ醜い顔！,내가 밉다고....<br>우리들이야 말로 악이라고<br>믿는 추한 얼굴!
+text_en,#REF!,The scorn in your eyes—you truly believe we are the barbaric monsters!,내가 밉다고....<br>우리들이야 말로 악이라고<br>믿는 추한 얼굴!
+text_jp,#REF!,大嫌いだわ……本当に。<br>思い上がりよ、<br>ニンゲン！！,"너무 싫어......정말로.<br>잘난체 하지마,<br>인간!!"
+text_en,#REF!,"I detest you. I truly do. Your hubris will be your undoing, child of man!","너무 싫어......정말로.<br>잘난체 하지마,<br>인간!!"
+text_jp,#REF!,貴様……！,이 자식...!
+text_en,#REF!,You vile...,이 자식...!
+text_jp,#REF!,さぁ……誰から<br>殺してほしいの？,자…누구부터<br>죽여줄까?
+text_en,#REF!,Now... Who should I kill first?,자…누구부터<br>죽여줄까?
+text_jp,#REF!,ふん……余裕だな。<br>そうしている間に俺が<br>貴様の首を切り落とすぞ！,흥……여유롭군.<br> 그러는 동안 내가 <br> 네 놈의 목을 베겠다!
+text_en,#REF!,"Keep taking me that lightly, and you'll find your head lopped off soon enough.",흥……여유롭군.<br> 그러는 동안 내가 <br> 네 놈의 목을 베겠다!
+text_jp,#REF!,やってごらんなさい！<br>やれるものならね！,해보세요!<br>할 수만 있다면 말야!
+text_en,#REF!,I would love to see you try! Come then! Show me you mean it!,해보세요!<br>할 수만 있다면 말야!
+text_jp,#REF!,そんなものか！<br>貴様の恨みとやらは！,그정돈가!<br>네놈의 원망은!
+text_en,#REF!,Is that all your hatred can muster? Pathetic!,그정돈가!<br>네놈의 원망은!
+text_jp,#REF!,…………っ！！,...............!!
+text_en,#REF!,...!,...!
+text_jp,#REF!,来るがいい、悪鬼の姫！<br>俺は逃げも隠れもしない！,"자 와라, 악귀 공주!<br>나는 도망치지도 숨지도 않아!"
+text_en,#REF!,"Bring it, princess of the fiends! I won't run nor hide...","자 와라, 악귀 공주!<br>나는 도망치지도 숨지도 않아!"
+text_jp,#REF!,お前の王が<br>そうであったように！！,너의 왕이 <br> 그랬듯이!!
+text_en,#REF!,Not like your king did!,너의 왕이 <br> 그랬듯이!!
+text_jp,#REF!,その……醜い口で！<br>あの方を語るなぁっ！！,그......추악한 입으로!<br> 그 분을 말하지마!!
+text_en,#REF!,Why you... How dare you speak of him!,그......추악한 입으로!<br> 그 분을 말하지마!!
+text_jp,#REF!,ノインの代わりにこれを使うか。<br>敵戦力から見て問題はない。<br>このまま制圧する。,노인 대신 이걸 쓸까.<br>적 전력으로 봐서는 문제없다.<br>이대로 제압한다.
+text_en,#REF!,"Even if I must use this weapon in place of Yek, the enemy is of no consequence.",노인 대신 이걸 쓸까.<br>적 전력으로 봐서는 문제없다.<br>이대로 제압한다.
+text_jp,#REF!,くそ、次から次へと……！<br>お前達、ほんとに怪我するぞ！？<br>イルザ教官に怒られるぞ！？,"젠장, 계속해서....!<br>너희들, 정말 다친다구!?<br>이루자 교관에게 혼난다!?"
+text_en,#REF!,"Damn, they won't stop! Hey, soldiers! Ilsa's gonna be pissed when she sees the injury report!","젠장, 계속해서....!<br>너희들, 정말 다친다구!?<br>이루자 교관에게 혼난다!?"
+text_jp,#REF!,この連中で最後だ。<br>正面の方は片付いたようだな。,이 녀석들로 마지막이다.<br>정면은 정리가 된 것 같군.
+text_en,#REF!,They seem to be the last ones. The other fight appears to be wrapping up as well.,이 녀석들로 마지막이다.<br>정면은 정리가 된 것 같군.
 condition_win,,戦いの記憶を呼び覚ましながら、<br>正体不明の敵を撃破せよ！,싸움의 기억을 되살리면서<br>정체 불명의 적을 격파하라!
-text_jp,,こいつ、初めて戦うはずなのに、<br>そんな気がしない……<br>変な感じ！,"이녀석, 처음 싸워보는 건데,<br>그런 생각이 들지 않아……<br>이상한 느낌!"
-text_en,,"This is weird! We've never fought this thing before, so why does it feel like we have?","이녀석, 처음 싸워보는 건데,<br>그런 생각이 들지 않아……<br>이상한 느낌!"
-text_jp,,ああ。この違和感に<br>撃破の糸口がありそうだが……<br>考える時間をもらえそうにないな。,아아. 이 위화감에<br>격파의 실마리가 있을 것 같은데…<br>생각할 시간을 얻지 못 할 것 같군.
-text_en,,"Hm, its attacks may tell us why this feels like deja vu. Too bad we don't have time to think on it.",아아. 이 위화감에<br>격파의 실마리가 있을 것 같은데…<br>생각할 시간을 얻지 못 할 것 같군.
-text_jp,,初撃来るぞ。<br>備えろ。,초격이 온다.<br>대비 해라.
-text_en,,Here it comes. Get ready.,초격이 온다.<br>대비 해라.
-text_jp,,……思い出せない！<br>何か、ずいぶん前の……！<br>ねえ、バザラガ！,"...기억이 나지 않아!<br> 뭔가, 오래전의...!<br>저기, 바자라가!"
-text_en,,"Ugh, it's on the tip of my tongue! Something from our past... Right, Vaseraga?","...기억이 나지 않아!<br> 뭔가, 오래전의...!<br>저기, 바자라가!"
-text_jp,,敵から目をそらすな。<br>俺に見とれてどうする。,적으로부터 눈을 돌리지마라.<br>나를 봐서 어쩌겠다는거지.
-text_en,,Stop daydreaming about me and focus on the enemy.,적으로부터 눈을 돌리지마라.<br>나를 봐서 어쩌겠다는거지.
-text_jp,,見とれてないから！<br>ったく、あんたは……！,"눈 안돌렸다고!<br>정말이지, 너는……!"
-text_en,,"The hell? Why would I wanna daydream about you, lunkhead!","눈 안돌렸다고!<br>정말이지, 너는……!"
-text_jp,,奇妙な物だな。<br>お前のわめく声が<br>やけに懐かしい。,기묘한 물건이군.<br>네녀석의 고함 소리가<br>무척 그립군.
-text_en,,"I don't know how to put this, but your battle cries are eerily nostalgic.",기묘한 물건이군.<br>네녀석의 고함 소리가<br>무척 그립군.
-text_jp,,あー……ったく……！<br>胸がつかえる感じが<br>気持ち悪い……！,아......정말이지......!<br>가슴이 막히는 느낌이<br>기분 나빠…!
-text_en,,Ugh! Why'd you have to say that? Thanks for making things awkward!,아......정말이지......!<br>가슴이 막히는 느낌이<br>기분 나빠…!
-text_jp,,やっぱり……！<br>これって、あの時の！,"역시......!<br>이건, 그 때의!"
-text_en,,I remember now! This is just like the time we fought those other two!,"역시......!<br>이건, 그 때의!"
-text_jp,,ああ。<br>ならば攻め方も見えるな。<br>しかし、何故──,"그래.<br>그렇다면 공략법도 보이는군.<br>그런데, 어째서──"
-text_en,,Yeah. I should be able to read its attacks now. But why—,"그래.<br>그렇다면 공략법도 보이는군.<br>그런데, 어째서──"
-text_jp,,打開策があるなら実行に移せ。<br>考察は後だ。,타개책이 있으면 실행에 옮겨라.<br>생각은 나중에 한다.
-text_en,,"If you know a way to beat it, then do it. We can reminisce later.",타개책이 있으면 실행에 옮겨라.<br>생각은 나중에 한다.
+text_jp,#REF!,こいつ、初めて戦うはずなのに、<br>そんな気がしない……<br>変な感じ！,"이녀석, 처음 싸워보는 건데,<br>그런 생각이 들지 않아……<br>이상한 느낌!"
+text_en,#REF!,"This is weird! We've never fought this thing before, so why does it feel like we have?","이녀석, 처음 싸워보는 건데,<br>그런 생각이 들지 않아……<br>이상한 느낌!"
+text_jp,#REF!,ああ。この違和感に<br>撃破の糸口がありそうだが……<br>考える時間をもらえそうにないな。,아아. 이 위화감에<br>격파의 실마리가 있을 것 같은데…<br>생각할 시간을 얻지 못 할 것 같군.
+text_en,#REF!,"Hm, its attacks may tell us why this feels like deja vu. Too bad we don't have time to think on it.",아아. 이 위화감에<br>격파의 실마리가 있을 것 같은데…<br>생각할 시간을 얻지 못 할 것 같군.
+text_jp,#REF!,初撃来るぞ。<br>備えろ。,초격이 온다.<br>대비 해라.
+text_en,#REF!,Here it comes. Get ready.,초격이 온다.<br>대비 해라.
+text_jp,#REF!,……思い出せない！<br>何か、ずいぶん前の……！<br>ねえ、バザラガ！,"...기억이 나지 않아!<br> 뭔가, 오래전의...!<br>저기, 바자라가!"
+text_en,#REF!,"Ugh, it's on the tip of my tongue! Something from our past... Right, Vaseraga?","...기억이 나지 않아!<br> 뭔가, 오래전의...!<br>저기, 바자라가!"
+text_jp,#REF!,敵から目をそらすな。<br>俺に見とれてどうする。,적으로부터 눈을 돌리지마라.<br>나를 봐서 어쩌겠다는거지.
+text_en,#REF!,Stop daydreaming about me and focus on the enemy.,적으로부터 눈을 돌리지마라.<br>나를 봐서 어쩌겠다는거지.
+text_jp,#REF!,見とれてないから！<br>ったく、あんたは……！,"눈 안돌렸다고!<br>정말이지, 너는……!"
+text_en,#REF!,"The hell? Why would I wanna daydream about you, lunkhead!","눈 안돌렸다고!<br>정말이지, 너는……!"
+text_jp,#REF!,奇妙な物だな。<br>お前のわめく声が<br>やけに懐かしい。,기묘한 물건이군.<br>네녀석의 고함 소리가<br>무척 그립군.
+text_en,#REF!,"I don't know how to put this, but your battle cries are eerily nostalgic.",기묘한 물건이군.<br>네녀석의 고함 소리가<br>무척 그립군.
+text_jp,#REF!,あー……ったく……！<br>胸がつかえる感じが<br>気持ち悪い……！,아......정말이지......!<br>가슴이 막히는 느낌이<br>기분 나빠…!
+text_en,#REF!,Ugh! Why'd you have to say that? Thanks for making things awkward!,아......정말이지......!<br>가슴이 막히는 느낌이<br>기분 나빠…!
+text_jp,#REF!,やっぱり……！<br>これって、あの時の！,"역시......!<br>이건, 그 때의!"
+text_en,#REF!,I remember now! This is just like the time we fought those other two!,"역시......!<br>이건, 그 때의!"
+text_jp,#REF!,ああ。<br>ならば攻め方も見えるな。<br>しかし、何故──,"그래.<br>그렇다면 공략법도 보이는군.<br>그런데, 어째서──"
+text_en,#REF!,Yeah. I should be able to read its attacks now. But why—,"그래.<br>그렇다면 공략법도 보이는군.<br>그런데, 어째서──"
+text_jp,#REF!,打開策があるなら実行に移せ。<br>考察は後だ。,타개책이 있으면 실행에 옮겨라.<br>생각은 나중에 한다.
+text_en,#REF!,"If you know a way to beat it, then do it. We can reminisce later.",타개책이 있으면 실행에 옮겨라.<br>생각은 나중에 한다.
 condition_win,,解放された封印武器の力で<br>機神ヤチマの苦痛に終止符を打て！,해방된 봉인 무기의 힘으로<br>기신 야치마의 고통에 종지부를 찍어라!
-text_jp,,驚いた、ルリアちゃんみたいな<br>こともできるんだ。<br>ずいぶん大げさにいじったのね。,"놀랐어, 루리아 같은 일도<br> 할 수 있는거야?<br>꽤나 많이 건드렸네."
-text_en,,I wasn't expecting her to have powers like Lyria's. She really did a number on herself.,"놀랐어, 루리아 같은 일도<br> 할 수 있는거야?<br>꽤나 많이 건드렸네."
-text_jp,,……ねえ、やっぱりあの子に<br>話は通じないの？,"...저기, 역시 저 애에게<br>말은 통하지 않는 거야?"
-text_en,,Are you sure we can't reason with her?,"...저기, 역시 저 애에게<br>말은 통하지 않는 거야?"
-text_jp,,ああ。もはや意識もあるまい。<br>残っているのは最期に抱いた<br>焦りと不安の感情だけだ。,그래. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
-text_en,,Mm. She is no longer herself. Now she's running on instinct and fighting on borrowed time.,그래. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
-text_jp,,俺達にできるのは<br>手を汚すことくらいだ。<br>断ち切ってやろう。この鎌でな。,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br>끊어주자. 이 낫으로 말이야.
-text_en,,All we can do is get our hands dirty. My scythe will be the one to carry out the deed.,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br>끊어주자. 이 낫으로 말이야.
-text_jp,,こいつ……なんて堅さだ！<br>私の武器だと歯が立たないぞ？,이 녀석……엄청나게 딱딱해!<br>내 무기로는 전혀 안먹히는데?
-text_en,,Why's she so strong! My weapon doesn't even make her flinch!,이 녀석……엄청나게 딱딱해!<br>내 무기로는 전혀 안먹히는데?
-text_jp,,封印武器じゃないと、効果は<br>期待薄って感じね。<br>あたし達で決めるしかないわね……,"봉인 무기가 아니면, 효과가<br>떨어지는 느낌이야.<br>우리가 할 수 밖에 없겠네......"
-text_en,,I guess seal weapons are the only way to go. It's up to us to finish this.,"봉인 무기가 아니면, 효과가<br>떨어지는 느낌이야.<br>우리가 할 수 밖에 없겠네......"
-text_jp,,……成れの果て、か。,"……영락한 말로, 인가."
-text_en,,Hm... A shell of one's former self...,"……영락한 말로, 인가."
-text_jp,,ガラにもない。<br>あたしが言った事<br>気にしてんの？,덩치에 안맞게.<br>내가 한 말<br>신경쓰는 거야?
-text_en,,What's gotten in to you? Are you actually thinking about something I said?,덩치에 안맞게.<br>내가 한 말<br>신경쓰는 거야?
-text_jp,,いや。俺には、頼れる<br>ウォッチドッグがついている。<br>小うるさい仔犬ではあるがな。,아니. 나에게는 의지할 수 있는<br>워치독이 달려 있어.<br>작은 강아지이긴 하지만.
-text_en,,"Well, I shouldn't ignore the reliable watchdog following me around, yappy pupper she may be.",아니. 나에게는 의지할 수 있는<br>워치독이 달려 있어.<br>작은 강아지이긴 하지만.
-text_jp,,ウォッチドッグって……番犬！？<br>あたしの事、目覚まし時計と<br>思わないでよ！？,워치독이라니... 번견!?<br>나를 자명종이라고<br>생각하지마!?
-text_en,,Hey! I'm not your personal assistant! Got it?,워치독이라니... 번견!?<br>나를 자명종이라고<br>생각하지마!?
-text_jp,,ぐうっ！？　やばいな……<br>こんなのもう一発くらったら<br>ひとたまりもないぞ？,으윽!? 위험하네...<br>이런거를 한 대 더 맞으면<br>잠시도 버티지 못할거라고?
-text_en,,"Oof! Take another hit like that, and we're toast!",으윽!? 위험하네...<br>이런거를 한 대 더 맞으면<br>잠시도 버티지 못할거라고?
-text_jp,,その前に、あたしとバザラガで<br>止めるわよ。<br>そのための封印武器なんだから！,그전에 나랑 바자라가가<br>멈출거야.<br>그걸 위한 봉인무기니까!
-text_en,,Vaseraga and I will stop her before that happens! That's why we've got seal weapons!,그전에 나랑 바자라가가<br>멈출거야.<br>그걸 위한 봉인무기니까!
-text_jp,,おい、大丈夫かあ！？<br>危なくなったらお前のアビリティで<br>回復した方がいいぜ？,"어이, 괜찮아!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋겠다구?"
-text_en,,Yikes! Everyone okay? Maybe you should heal up before it's too late!,"어이, 괜찮아!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋겠다구?"
-text_jp,,くっそ……！　また来るぞ！<br>ゼタ、バザラガ！<br>気をつけろよ！,"젠장......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
-text_en,,"Damn, here comes another attack! Zeta! Vaseraga! Watch yourselves!","젠장......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
-text_jp,,ああ。<br>あと少しで力を解放できる。<br>それまでの間、持ちこたえてくれ。,그래.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br>그때까지만 버텨줘.
-text_en,,Got it. Just hold out a little longer until I can release my power.,그래.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br>그때까지만 버텨줘.
-text_jp,,ふん……！<br>こんな所でやられるか！<br>私は……私達は不滅だ！,흥...!<br>이런 곳에서 당할 수 없지!<br> 나는... 우리는 불멸이다!
-text_en,,Heh! I'm not going down in a place like this! Because I! Am! Invincible!,흥...!<br>이런 곳에서 당할 수 없지!<br> 나는... 우리는 불멸이다!
-text_jp,,動きは封じた。<br>ゼタ、バザラガ。行け。,"움직임은 막았다.<br>제타, 바자라가. 가라."
-text_en,,"Her movements are sealed. Zeta, Vaseraga. Move in.","움직임은 막았다.<br>제타, 바자라가. 가라."
-text_jp,,あ……危ないだろユーステス！<br>私達を巻き込む気か！<br>何かするなら先に言ってくれよ！,윽......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해달라고!
-text_en,,"Were you trying to hit us, Eustace! Give us a warning at least!",윽......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해달라고!
-text_jp,,だが、おかげで準備は整った。<br>いけるな、ゼタ。,"하지만, 덕분에 준비는 갖추어졌다.<br>자 가자, 제타."
-text_en,,"But thanks to him, I'm ready to go. I'm guessing you are too, Zeta.","하지만, 덕분에 준비는 갖추어졌다.<br>자 가자, 제타."
-text_jp,,うん。いつもの呼吸で。<br>あたし達が終わらせてあげる。<br>……他に手があればよかったね。,응. 언제나와 같은 호흡으로.<br> 우리가 끝내줄게.<br>…다른 방법이 있으면 좋았을걸.
-text_en,,"Yeah, as long as I'm breathing. There's no other way, so... let's finish this.",응. 언제나와 같은 호흡으로.<br> 우리가 끝내줄게.<br>…다른 방법이 있으면 좋았을걸.
-text_jp,,アルベス、応えなさい！,"알베스, 응답해줘!"
-text_en,,Arvess! Hear my call!,"알베스, 응답해줘!"
+text_jp,#REF!,驚いた、ルリアちゃんみたいな<br>こともできるんだ。<br>ずいぶん大げさにいじったのね。,"놀랐어, 루리아 같은 일도<br> 할 수 있는거야?<br>꽤나 많이 건드렸네."
+text_en,#REF!,I wasn't expecting her to have powers like Lyria's. She really did a number on herself.,"놀랐어, 루리아 같은 일도<br> 할 수 있는거야?<br>꽤나 많이 건드렸네."
+text_jp,#REF!,……ねえ、やっぱりあの子に<br>話は通じないの？,"...저기, 역시 저 애에게<br>말은 통하지 않는 거야?"
+text_en,#REF!,Are you sure we can't reason with her?,"...저기, 역시 저 애에게<br>말은 통하지 않는 거야?"
+text_jp,#REF!,ああ。もはや意識もあるまい。<br>残っているのは最期に抱いた<br>焦りと不安の感情だけだ。,그래. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
+text_en,#REF!,Mm. She is no longer herself. Now she's running on instinct and fighting on borrowed time.,그래. 이젠 의식도 없겠지.<br>남은 건 마지막에 품은<br>초조함과 불안의 감정뿐이다.
+text_jp,#REF!,俺達にできるのは<br>手を汚すことくらいだ。<br>断ち切ってやろう。この鎌でな。,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br>끊어주자. 이 낫으로 말이야.
+text_en,#REF!,All we can do is get our hands dirty. My scythe will be the one to carry out the deed.,우리가 할 수 있는 건<br>손을 더럽히는 것 정도야.<br>끊어주자. 이 낫으로 말이야.
+text_jp,#REF!,こいつ……なんて堅さだ！<br>私の武器だと歯が立たないぞ？,이 녀석……엄청나게 딱딱해!<br>내 무기로는 전혀 안먹히는데?
+text_en,#REF!,Why's she so strong! My weapon doesn't even make her flinch!,이 녀석……엄청나게 딱딱해!<br>내 무기로는 전혀 안먹히는데?
+text_jp,#REF!,封印武器じゃないと、効果は<br>期待薄って感じね。<br>あたし達で決めるしかないわね……,"봉인 무기가 아니면, 효과가<br>떨어지는 느낌이야.<br>우리가 할 수 밖에 없겠네......"
+text_en,#REF!,I guess seal weapons are the only way to go. It's up to us to finish this.,"봉인 무기가 아니면, 효과가<br>떨어지는 느낌이야.<br>우리가 할 수 밖에 없겠네......"
+text_jp,#REF!,……成れの果て、か。,"……영락한 말로, 인가."
+text_en,#REF!,Hm... A shell of one's former self...,"……영락한 말로, 인가."
+text_jp,#REF!,ガラにもない。<br>あたしが言った事<br>気にしてんの？,덩치에 안맞게.<br>내가 한 말<br>신경쓰는 거야?
+text_en,#REF!,What's gotten in to you? Are you actually thinking about something I said?,덩치에 안맞게.<br>내가 한 말<br>신경쓰는 거야?
+text_jp,#REF!,いや。俺には、頼れる<br>ウォッチドッグがついている。<br>小うるさい仔犬ではあるがな。,아니. 나에게는 의지할 수 있는<br>워치독이 달려 있어.<br>작은 강아지이긴 하지만.
+text_en,#REF!,"Well, I shouldn't ignore the reliable watchdog following me around, yappy pupper she may be.",아니. 나에게는 의지할 수 있는<br>워치독이 달려 있어.<br>작은 강아지이긴 하지만.
+text_jp,#REF!,ウォッチドッグって……番犬！？<br>あたしの事、目覚まし時計と<br>思わないでよ！？,워치독이라니... 번견!?<br>나를 자명종이라고<br>생각하지마!?
+text_en,#REF!,Hey! I'm not your personal assistant! Got it?,워치독이라니... 번견!?<br>나를 자명종이라고<br>생각하지마!?
+text_jp,#REF!,ぐうっ！？　やばいな……<br>こんなのもう一発くらったら<br>ひとたまりもないぞ？,으윽!? 위험하네...<br>이런거를 한 대 더 맞으면<br>잠시도 버티지 못할거라고?
+text_en,#REF!,"Oof! Take another hit like that, and we're toast!",으윽!? 위험하네...<br>이런거를 한 대 더 맞으면<br>잠시도 버티지 못할거라고?
+text_jp,#REF!,その前に、あたしとバザラガで<br>止めるわよ。<br>そのための封印武器なんだから！,그전에 나랑 바자라가가<br>멈출거야.<br>그걸 위한 봉인무기니까!
+text_en,#REF!,Vaseraga and I will stop her before that happens! That's why we've got seal weapons!,그전에 나랑 바자라가가<br>멈출거야.<br>그걸 위한 봉인무기니까!
+text_jp,#REF!,おい、大丈夫かあ！？<br>危なくなったらお前のアビリティで<br>回復した方がいいぜ？,"어이, 괜찮아!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋겠다구?"
+text_en,#REF!,Yikes! Everyone okay? Maybe you should heal up before it's too late!,"어이, 괜찮아!?<br>위험해지면 너의 어빌리티로<br>회복하는 것이 좋겠다구?"
+text_jp,#REF!,くっそ……！　また来るぞ！<br>ゼタ、バザラガ！<br>気をつけろよ！,"젠장......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
+text_en,#REF!,"Damn, here comes another attack! Zeta! Vaseraga! Watch yourselves!","젠장......! 또 온다! <br> 제타, 바자라가! <br> 조심해!"
+text_jp,#REF!,ああ。<br>あと少しで力を解放できる。<br>それまでの間、持ちこたえてくれ。,그래.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br>그때까지만 버텨줘.
+text_en,#REF!,Got it. Just hold out a little longer until I can release my power.,그래.<br>이제 조금만 있으면 힘을 해방시킬 수 있다.<br>그때까지만 버텨줘.
+text_jp,#REF!,ふん……！<br>こんな所でやられるか！<br>私は……私達は不滅だ！,흥...!<br>이런 곳에서 당할 수 없지!<br> 나는... 우리는 불멸이다!
+text_en,#REF!,Heh! I'm not going down in a place like this! Because I! Am! Invincible!,흥...!<br>이런 곳에서 당할 수 없지!<br> 나는... 우리는 불멸이다!
+text_jp,#REF!,動きは封じた。<br>ゼタ、バザラガ。行け。,"움직임은 막았다.<br>제타, 바자라가. 가라."
+text_en,#REF!,"Her movements are sealed. Zeta, Vaseraga. Move in.","움직임은 막았다.<br>제타, 바자라가. 가라."
+text_jp,#REF!,あ……危ないだろユーステス！<br>私達を巻き込む気か！<br>何かするなら先に言ってくれよ！,윽......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해달라고!
+text_en,#REF!,"Were you trying to hit us, Eustace! Give us a warning at least!",윽......위험하잖아 유스테스!<br>우리들을 말려들게 할 생각이야!<br>뭔가 한다면 먼저 말해달라고!
+text_jp,#REF!,だが、おかげで準備は整った。<br>いけるな、ゼタ。,"하지만, 덕분에 준비는 갖추어졌다.<br>자 가자, 제타."
+text_en,#REF!,"But thanks to him, I'm ready to go. I'm guessing you are too, Zeta.","하지만, 덕분에 준비는 갖추어졌다.<br>자 가자, 제타."
+text_jp,#REF!,うん。いつもの呼吸で。<br>あたし達が終わらせてあげる。<br>……他に手があればよかったね。,응. 언제나와 같은 호흡으로.<br> 우리가 끝내줄게.<br>…다른 방법이 있으면 좋았을걸.
+text_en,#REF!,"Yeah, as long as I'm breathing. There's no other way, so... let's finish this.",응. 언제나와 같은 호흡으로.<br> 우리가 끝내줄게.<br>…다른 방법이 있으면 좋았을걸.
+text_jp,#REF!,アルベス、応えなさい！,"알베스, 응답해줘!"
+text_en,#REF!,Arvess! Hear my call!,"알베스, 응답해줘!"
 condition_win,,異形の化け物を撃破せよ！,이형의 괴물을 격파하자!
 condition_win,,敗北条件：煉󠄁獄杏寿郎の戦闘不能,패배조건：렌고쿠 코쥬로의 전투불능
-text_jp,,仲間には手出しさせん！,동료에게는 손대지 못한다!
-text_en,,You will not touch my comrades!,동료에게는 손대지 못한다!
+text_jp,#REF!,仲間には手出しさせん！,동료에게는 손대지 못한다!
+text_en,#REF!,You will not touch my comrades!,동료에게는 손대지 못한다!
 condition_win,,幽世の軍勢の進行を食い止めろ！,유세의 군세의 진행을 멈춰라!
 condition_win,,敗北条件：いずれかのキャラの戦闘不能,패배조건：어느 캐릭터든 전투불능
-text_jp,,強力な気配を感じます……！<br>気を付けてください！,강력한 기운이 느껴져요...! <br>조심하세요!
-text_en,,I can feel it... A powerful attack's coming! Be careful!,강력한 기운이 느껴져요...! <br>조심하세요!
-text_jp,,ここは任せろ。,여기는 맡겨둬라.
-text_en,,Leave the rest to me.,여기는 맡겨둬라.
-text_jp,,お、おい！　まだ出てくるぜ……！<br>この状況……どうすりゃいいんだ！？,"어,어이! 계속 튀어나오는데..?!  <br> 이 상황.. 어떻게 해야하는거야..?!"
-text_en,,Wh-what the! They just keep spawnin'! How are we supposed to end this nightmare?,"어,어이! 계속 튀어나오는데..?!  <br> 이 상황.. 어떻게 해야하는거야..?!"
-text_jp,,っ、大丈夫か！？,"읏, 괜찮아?!"
-text_en,,Are you okay!,"읏, 괜찮아?!"
-text_jp,,ちょっと私に見せて下さい。,잠깐 저에게 보여주세요.
-text_en,,Hold still now.,잠깐 저에게 보여주세요.
-text_jp,,凄いです！あれだけの傷が<br>一瞬で治っちゃいました……！,굉장해요! 그 많던 상처가<br>한번에 나았어요..!
-text_en,,What? All those injuries just vanished in an instant!,굉장해요! 그 많던 상처가<br>한번에 나았어요..!
-text_jp,,私は薬学に精通しているんです。,저는 약학에 정통해서요.
-text_en,,I know a thing or two about medicine.,저는 약학에 정통해서요.
-text_jp,,気を抜くな、まだ来るぞ！,"방심하지마라, 계속 온다!"
-text_en,,On your guard! This battle is not over!,"방심하지마라, 계속 온다!"
-text_jp,,かく……り……よ……<br>まも……らね…ば……！,유……세……<br>지켜……야…만……！
-text_en,,Defend... the... Other... world!,유……세……<br>지켜……야…만……！
-text_jp,,冨岡は援護を頼む！,토미오카는 원호를 부탁한다!
-text_en,,"Tomioka, we need your help!",토미오카는 원호를 부탁한다!
-text_jp,,ここを凌ぎきり、<br>一気に終わらせるぞ！,"여기를 견뎌내고, <br> 한번에 끝내버리자!"
-text_en,,"If we can hold out against this next attack, this battle is ours!","여기를 견뎌내고, <br> 한번에 끝내버리자!"
-text_jp,,援護する！,원호하겠다!
-text_en,,"I am with you, Nezha!",원호하겠다!
-text_jp,,ふふん！　アタシの魔眼を<br>お見舞いしてあげたわ！,헤엣! 내 마안을<br>먹여주겠어!
-text_en,,Hah! Gave 'em a taste of my petrifying glare!,헤엣! 내 마안을<br>먹여주겠어!
-text_jp,,今がチャンスよ！<br>やっちゃいなさい！,지금이 찬스야!<br>끝내버려!
-text_en,,Now's your chance! Finish this!,지금이 찬스야!<br>끝내버려!
-text_jp,,幽世の門って言うから<br>ビクビクしていたけど、<br>結構いけそうだな！,유세의 문이라고해서<br>쫄았는데<br>뭔가 될 것 같네!
-text_en,,"Man, I got kinda scared 'cause we're fightin' the Otherworld Gate and all, but this is easier than slicin' through pie!",유세의 문이라고해서<br>쫄았는데<br>뭔가 될 것 같네!
-text_jp,,…………<br>（すごく嫌な匂いがする……）,…………<br>（아주 싫은 냄새가 나……）
-text_en,,... (I smell danger...),…………<br>（아주 싫은 냄새가 나……）
-text_jp,,妙な術を食らったか……。,묘한 기술을 당했군...
-text_en,,What strange art is this...,묘한 기술을 당했군...
-text_jp,,ヤベェぞ！ ここは回復に<br>専念した方がいいんじゃねぇか？,위험해! 여기는 회복에<br>전념하는게 좋지 않을까?!
-text_en,,Uh-oh! We'd better patch ourselves up—and fast!,위험해! 여기는 회복에<br>전념하는게 좋지 않을까?!
-text_jp,,落ち着け、呼吸を整えろ……！<br>俺は、挫けない……！,"진정하고, 호흡을 정돈해...!<br>나는, 꺾이지않아...!"
-text_en,,Calm down... Steady your breathing... I won't let things end here!,"진정하고, 호흡을 정돈해...!<br>나는, 꺾이지않아...!"
-text_jp,,っ！？,！？
-text_en,,...!,！？
-text_jp,,刃を障壁のようなもので<br>弾いているようだな。,칼날을 장벽같은 것으로<br>튕겨내고 있는 것 같군.
-text_en,,It seems your blades are being deflected by some kind of barrier.,칼날을 장벽같은 것으로<br>튕겨내고 있는 것 같군.
-text_jp,,はっはー！　面白ぇ！<br>お前等、伊之助様に続けー！,"핫하-! 재밌어!<br>모두들, 이노스케님을 따라라-!"
-text_en,,"Haha! Things are getting interesting! Minions, after me!","핫하-! 재밌어!<br>모두들, 이노스케님을 따라라-!"
-text_jp,,す、すげぇ……。<br>障壁を破っちまったぜ……。,"괴,굉장해... <br> 장벽을 깨부셨어..."
-text_en,,What the... He just barreled through that force field like it was made of cardboard.,"괴,굉장해... <br> 장벽을 깨부셨어..."
-text_jp,,ワハハハハ！！,와하하하하!!
-text_en,,Muahahaha!,와하하하하!!
-text_jp,,おい！　気味悪ぃのが<br>広がってくぞ！？,어이! 이상한게<br>퍼지고있는데...?!
-text_en,,Hey! The sticky's spreading again!,어이! 이상한게<br>퍼지고있는데...?!
-text_jp,,ああぁぁぁどうしよう……<br>どうしよう炭治郎ぅぅぅ…… ,아아아아..어쩌지..<br>어쩌지 탄지로오오...
-text_en,,Waah... What do we do... What do we do... Tanjirooo...,아아아아..어쩌지..<br>어쩌지 탄지로오오...
-text_jp,,…… いや、大丈夫だ。<br>みんなで戦えば、必ず勝てる！,".... 아냐, 괜찮아. <br>모두와 함께 싸우면, 반드시 이길 수 있어!"
-text_en,,"We'll be fine. As long as we work together, there's nothing that can stop us!",".... 아냐, 괜찮아. <br>모두와 함께 싸우면, 반드시 이길 수 있어!"
-text_jp,,もっと、呼吸を<br>研ぎ澄ませるんだ……！,"더욱 더, 호흡을<br>가다듬는거야...!"
-text_en,,I have to focus my breathing more!,"더욱 더, 호흡을<br>가다듬는거야...!"
-text_jp,,良く踏みとどまった！<br>竈門少年達！,잘 내딛었다!<br>카마도 소년!
-text_en,,"You did well to hold out this long, Kamado!",잘 내딛었다!<br>카마도 소년!
-text_jp,,敵の術が解けましたね。<br>でも、まだ終わりじゃないようです。,"적의 기술이 풀렸네요. <br> 하지만, 아직 끝나지는 않은 것 같네요."
-text_en,,"Yes, its magic's faded. But it seems the fight still isn't over.","적의 기술이 풀렸네요. <br> 하지만, 아직 끝나지는 않은 것 같네요."
-text_jp,,正念場だ！　呼吸を意識しろ！<br>ここで終わらせるぞ！,중대국면이다! 호흡을 의식해라! <br> 여기서 끝내겠어!
-text_en,,Draw deep breaths and concentrate! This next blow will decide the battle!,중대국면이다! 호흡을 의식해라! <br> 여기서 끝내겠어!
-text_jp,,一気に片を付けましょう。,단번에 정리합시다.
-text_en,,We'll eradicate them all at once.,단번에 정리합시다.
-text_jp,,オイラ達も最後までみんなと<br>力を合わせて戦うぜ！,우리들도 마지막까지 모두와 함께<br>힘을 합쳐 싸우겠어!
-text_en,,We're with you to the very end!,우리들도 마지막까지 모두와 함께<br>힘을 합쳐 싸우겠어!
-text_jp,,呼吸を研ぎ澄ませろ……！<br>ここで必ず倒すんだ……！,호흡을 가다듬어라...! <br> 여기서 반드시 쓰러트리는거야....!
-text_en,,Come on... Focus your breathing! It's now or never!,호흡을 가다듬어라...! <br> 여기서 반드시 쓰러트리는거야....!
-text_jp,,逃がさんぞ！,놓치지 말아라!
-text_jp,,活路を切り開くぞ。<br>まずはコイツらを蹴散らす！,활로를 뚫겠다.<br>우선은 이 녀석들을 무찌르자!
-text_jp,,姐さんは【<span class='attribute2'>水属性</span>】だから<br>【<span class='attribute3'>土属性</span>】の敵の攻撃に弱いみてぇ<br>だな。,누님은 【<span class='attribute2'>물속성</span>】이니까<br>【<span class='attribute3'>흙속성</span>】의 적의 공격에 약해보여!
-text_jp,,そうだな……だが、異なる属性の君がいればこの窮地も脱せよう,"그렇지……하지만, 다른 속성의 네가 있으면 이 궁지도 벗어날 수 있겠지"
-text_jp,,仲間との属性の組み合わせも重要ってことだな！さぁ、いくぜぇ！,"동료와의 속성조합도 중요하다는 거네! 자, 가자!"
-text_jp,,連戦になる場合、勝利までの<br>戦闘回数はここで確認できる。,연전이 되는 경우 승리 할 때 까지의 <br> 전투 횟수는 여기서 확인 가능할 수 있어.
-text_jp,,この後にもさらに1回戦闘が<br>控えているな。,이 뒤로도 한차례 더 전투가<br>있군.
-text_jp,,けど、ここを切り抜ければ…！,그래도 여기를 돌파하면...!
-text_jp,,がんばりましょう！,힘내세요!
-text_jp,,追い詰めたぞ！,몰아붙였다!
-text_jp,,傷は大丈夫か？<br>私のアビリティで回復しておこう。,상처는 괜찮은가?<br>내 어빌리티로 회복해두는게 좋겠군.
-text_jp,,アビリティは戦闘で一定ターン経過<br>すると使用可能になる。,어빌리티는 전투에서 일정 턴이 경과<br>하면 다시 사용 가능하게 된다.
-text_jp,,温存することもできるが……<br>ここは念のため使っておこうか。,아껴 둘 수도 있지만……<br>여기에선 만약을 위해 사용해 둘까.
-text_jp,,よし、これでまだ戦える！,"좋아, 이걸로 더 싸울 수 있어!"
-text_jp,,さっさと片付けるぞ！,자 어서 정리해버리자고!
-text_jp,,はっ！,네!
-text_jp,,奥義の発動準備ができたようだな。 だが、ここは待ってくれ。,오의 발동 준비가 된 것 같군. 하지만 여기선 잠시 기다려줘.
-text_jp,,二人で同時に奥義を放ち、【チェインバースト】で一気に敵を葬る！,"둘이서 동시에 오의를 써서, 【체인버스트】를 통해 단번에 적을 해치우자!"
-text_jp,,奥義を放つかどうかは選ぶことができる。いまは【温存】してくれ。,오의를 쓸지 말지는 고를 수 있어. 지금은 【온존】해줘.
-text_jp,,よし、これでこのターンは君は奥義を温存することになる。 では行くぞ！,"좋아, 이제 이 턴엔 너는 오의를 온존하게 되었어. 자, 가자!"
-text_jp,,準備は整った！ 【温存】を解除してくれ！,준비가 되었어! 【온존】을 해제해줘!
-text_jp,,これで【攻撃】すれば、二人同時に奥義を放てる！ 仕掛けるぞ！,이제 【공격】하면 둘이 동시에 오의를 사용하게 된다! 가자!
-text_jp,,【チェインバースト】とやらで、蹴散らしちまえーぃ！！,【체인버스트】 라는 걸로 날려버려!!
-text_jp,,成功だ！【チェインバースト】は奥義を発動する人数が多いほど強力になるんだ。,성공이다! 【체인버스트】는 오의를 발동하는 인원수가 많을수록 강력해진다.
-text_jp,,また、属性は「最初の奥義」のものになる。,"그리고, 속성은 「최초의 오의」의 속성이 된다."
-text_jp,,今回は君が先に放ったので、【<span class='attribute4'>風属性</span>】の【チェインバースト】になったというワケだな。,"이번에는 네가 먼저 사용했으니까, 【<span class='attribute4'>풍속성</span>】의 【체인버스트】가 된거야."
-text_jp,,みんな、すごいです！ 一気にやっつけちゃいました！,다들 대단해요! 한번에 해치워버렸어요!
-text_jp,,ヴィーラちゃん激おこなんだけど……
-text_en,,"Vira's gone max cray-cray, guys..."
-text_jp,,オイオイオイオイ……<br>Doすんだよコレ……
-text_en,,What do we do? What do we do!
-text_jp,,ど、どうしたらいいんでしょう……
-text_en,,Oh dear... I don't know either...
-text_jp,,Ｄｏしろって、ルリぴっぴ。<br>Ｓｏするしかねえっしょ！
-text_en,,"Keep it cool, Lily-rad. We got this."
-text_jp,,とりま、<br>ポコパンキメる覚悟決めっから<br>オレっちに任せろ的な？
-text_en,,Just chill for now. Save up your skills for when things get dicey.
-text_jp,,りょ！
-text_en,,Word!
-text_jp,,お？なになになによ？<br>ッベェ雰囲気キてんじゃねーかコレ。
-text_en,,"Hm? Whoa, whoa, whoa. My trouble meter's going on the fritz, dudes."
-text_jp,,パネェ攻撃食らう寸前的な？
-text_en,,She's gonna hit us hard.
-text_jp,,チャラ男ロックオン的な？
-text_en,,And not in a good way.
-text_jp,,わ、私が防ぎます！<br>1度だけ、「恵みの風」で！
-text_en,,"I'll protect you! I can only do this once, but Rousing Wind should help us pull through!"
-text_jp,,神ってるわー<br>そんじゃあ、「恵みのゼーカー」<br>ヨロシャース。
-text_en,,"You angel-rollin' for real, Lyria. Aight, lay some of that Arousing Wind on us."
-text_jp,,パーペキにキメますんで！<br>見届けてください！
-text_en,,Gotcha!
-text_jp,,はうう……またあの攻撃が来たら…
-text_en,,Oh no... It's that attack again...
-text_jp,,ローアインおめ、<br>大事なアビリティ忘れてね？
-text_en,,Lowain. You thinking what I'm thinking?
-text_jp,,……あ！ピッカンキタコレ！
-text_en,,Awww-yeaaah!
-text_jp,,ナニナニ？Doいうこと？<br>気になるじゃーん、教えろじゃーん！
-text_en,,What? What? What're you guys thinking?
-text_jp,,☆★☆禁断の3アビ☆★☆<br>バイブスアゲて<br>ガチめにキメるしかねーっしょ
-text_en,,"My comradical comrades, 'tis time we ended this... with Totally Forbidden Skillz!"
-text_jp,,エモいわ……
-text_en,,"Oh, I... I knew that."
-text_jp,,いくぜダチ公！！<br>イーハーーーーーー！！！！
-text_en,,Let's do this! Yeaaa-hooo!
-text_jp,,頼りにしてます、ダチ公さん！<br>マジパネーション！
-text_en,,"Counting on you, brofams! We can do this!"
-text_jp,,痛めつけてやる！<br>覚悟しろ！,혼내 주겠다!<br>각오해라!
-text_jp,,クソッ！やるしかねぇようだぜぇ！<br>オマエの剣術なら勝てる！,젠장! 어쩔 수 없나!<br> 네 검술이라면 이길 수 있을거야!
-text_jp,,【攻撃】ボタンをタッチして<br>お見舞いしてやれぇ！！,【공격】버튼을 눌러서 <br> 한방 먹여주자구!
-text_jp,,効いてるぜ！この調子だぁ！,효과가 있어! 이대로 가자구!
-text_jp,,自分の攻撃が終わると、<br>次は敵の攻撃だ！気ィつけろぉ！,"네 공격이 끝나면,<br>다음은 적의 공격이야! 조심해!"
-text_jp,,敵の攻撃が終わればまた自分の番だ。よぉく憶えとけよぉ！<br>さぁ反撃だ！,"적의 공격이 끝나면 다시 네 차례야. <br>잘 기억해 둬!<br>자, 반격이다!"
-text_jp,,そうだ…属性ってのは知ってるよな？戦いを勝ち抜くには必須の知識だ！,"그래, 속성이라는 건 알지? 싸움에서 이기려면 필수적인 지식이야!"
-text_jp,,いまオマエは【<span class='attribute4'>風属性</span>】の武器を<br>装備しているな。と、なりゃぁ……,"지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있어, 그럼..."
-text_jp,,オマエの攻撃は【<span class='attribute3'>土属性</span>】の敵に<br>超！有利だぜぇ！,네 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
-text_jp,,あの剣を持った兵士！<br>アイツは【<span class='attribute3'>土属性</span>】だ！<br>アイツをタッチしてみなぁ！,저 검을 든 병사!<br> 저 녀석은 [<span class='attribute3'>흙속성</span>]이야!<br> 그 녀석을 터치해봐!
-text_jp,,よぉし！<br>これでアイツを狙い撃ちできるぜ！<br>さぁ、【攻撃】だぁ！,"좋아!<br>이것으로 저 녀석을 노려서 공격할 수 있어!<br>자, [공격]이야!"
-text_jp,,大ダメージだぜぇ！属性の相性で<br>こうも違いがでるなんてなぁ！,데미지가 큰데! 속성을 맞춰주는게<br>이렇게나 차이가 나다니!
-text_jp,,ちなみに、逆に【<span class='attribute3'>土属性</span>】の敵が<br> 【<span class='attribute4'>風属性</span>】のオマエを攻撃すると、<br> ダメージは軽減されるんだぜぇ！,"참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지가 경감되는 거야!"
-text_jp,,狙い撃ちする敵は、もう一度タッチ<br> すると解除されるぜ。でも、ここは<br> このままヤっちまえー！！,"노렸던 적은 한 번 더 터치<br>하면 해제될 거야. 하지만, 여기선<br> 이대로 끝내버리자!!"
-text_jp,,よっしゃぁー！<br> さっすがじゃねぇーか！<br> この調子であの槍野郎も倒すぞぉ！,아자!<br>역시 너야! 이 상태로 저 창을 든 녀석도 쓰러뜨릴거야!
-text_jp,,…なぁ、気づいたか？<br>敵のHPゲージの下にあるアレによぉ。,"...있잖아, 눈치 챘어?<br>적의 HP게이지 밑에 있는 저거 말야."
-text_jp,,アレが全部赤く光ると、<br> 敵が技を使ってくるぜぇ！<br>注意しろよぉ！,"저것이 전부 빨갛게 빛나면,<br>적이 기술을 사용해 온다구!<br>주의해!"
-text_jp,,お？奥義ゲージが溜まったな？<br>次に攻撃する時に【奥義】を<br>発動できるぜぇ！,어? 오의게이지가 쌓였네?<br>다음에 공격할 때 [오의]를<br>발동할 수 있어!
-text_jp,,奥義ゲージは自分が攻撃したり、<br>ダメージを受けると溜まるから<br>憶えとけよぉ。,"오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
-text_jp,,いけぇ！オマエの奥義で槍野郎に<br>トドメをさしてやれぇー！！,가자! 네 오의로 창을 든 녀석을<br>마무리해버려!!
-text_jp,,やったぜぇー！武装した兵士を<br>一度に二人も倒すなんて、<br>やるじゃねぇかよぉ！！,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
+text_jp,#REF!,強力な気配を感じます……！<br>気を付けてください！,강력한 기운이 느껴져요...! <br>조심하세요!
+text_en,#REF!,I can feel it... A powerful attack's coming! Be careful!,강력한 기운이 느껴져요...! <br>조심하세요!
+text_jp,#REF!,ここは任せろ。,여기는 맡겨둬라.
+text_en,#REF!,Leave the rest to me.,여기는 맡겨둬라.
+text_jp,#REF!,お、おい！　まだ出てくるぜ……！<br>この状況……どうすりゃいいんだ！？,"어,어이! 계속 튀어나오는데..?!  <br> 이 상황.. 어떻게 해야하는거야..?!"
+text_en,#REF!,Wh-what the! They just keep spawnin'! How are we supposed to end this nightmare?,"어,어이! 계속 튀어나오는데..?!  <br> 이 상황.. 어떻게 해야하는거야..?!"
+text_jp,#REF!,っ、大丈夫か！？,"읏, 괜찮아?!"
+text_en,#REF!,Are you okay!,"읏, 괜찮아?!"
+text_jp,#REF!,ちょっと私に見せて下さい。,잠깐 저에게 보여주세요.
+text_en,#REF!,Hold still now.,잠깐 저에게 보여주세요.
+text_jp,#REF!,凄いです！あれだけの傷が<br>一瞬で治っちゃいました……！,굉장해요! 그 많던 상처가<br>한번에 나았어요..!
+text_en,#REF!,What? All those injuries just vanished in an instant!,굉장해요! 그 많던 상처가<br>한번에 나았어요..!
+text_jp,#REF!,私は薬学に精通しているんです。,저는 약학에 정통해서요.
+text_en,#REF!,I know a thing or two about medicine.,저는 약학에 정통해서요.
+text_jp,#REF!,気を抜くな、まだ来るぞ！,"방심하지마라, 계속 온다!"
+text_en,#REF!,On your guard! This battle is not over!,"방심하지마라, 계속 온다!"
+text_jp,#REF!,かく……り……よ……<br>まも……らね…ば……！,유……세……<br>지켜……야…만……！
+text_en,#REF!,Defend... the... Other... world!,유……세……<br>지켜……야…만……！
+text_jp,#REF!,冨岡は援護を頼む！,토미오카는 원호를 부탁한다!
+text_en,#REF!,"Tomioka, we need your help!",토미오카는 원호를 부탁한다!
+text_jp,#REF!,ここを凌ぎきり、<br>一気に終わらせるぞ！,"여기를 견뎌내고, <br> 한번에 끝내버리자!"
+text_en,#REF!,"If we can hold out against this next attack, this battle is ours!","여기를 견뎌내고, <br> 한번에 끝내버리자!"
+text_jp,#REF!,援護する！,원호하겠다!
+text_en,#REF!,"I am with you, Nezha!",원호하겠다!
+text_jp,#REF!,ふふん！　アタシの魔眼を<br>お見舞いしてあげたわ！,헤엣! 내 마안을<br>먹여주겠어!
+text_en,#REF!,Hah! Gave 'em a taste of my petrifying glare!,헤엣! 내 마안을<br>먹여주겠어!
+text_jp,#REF!,今がチャンスよ！<br>やっちゃいなさい！,지금이 찬스야!<br>끝내버려!
+text_en,#REF!,Now's your chance! Finish this!,지금이 찬스야!<br>끝내버려!
+text_jp,#REF!,幽世の門って言うから<br>ビクビクしていたけど、<br>結構いけそうだな！,유세의 문이라고해서<br>쫄았는데<br>뭔가 될 것 같네!
+text_en,#REF!,"Man, I got kinda scared 'cause we're fightin' the Otherworld Gate and all, but this is easier than slicin' through pie!",유세의 문이라고해서<br>쫄았는데<br>뭔가 될 것 같네!
+text_jp,#REF!,…………<br>（すごく嫌な匂いがする……）,…………<br>（아주 싫은 냄새가 나……）
+text_en,#REF!,... (I smell danger...),…………<br>（아주 싫은 냄새가 나……）
+text_jp,#REF!,妙な術を食らったか……。,묘한 기술을 당했군...
+text_en,#REF!,What strange art is this...,묘한 기술을 당했군...
+text_jp,#REF!,ヤベェぞ！ ここは回復に<br>専念した方がいいんじゃねぇか？,위험해! 여기는 회복에<br>전념하는게 좋지 않을까?!
+text_en,#REF!,Uh-oh! We'd better patch ourselves up—and fast!,위험해! 여기는 회복에<br>전념하는게 좋지 않을까?!
+text_jp,#REF!,落ち着け、呼吸を整えろ……！<br>俺は、挫けない……！,"진정하고, 호흡을 정돈해...!<br>나는, 꺾이지않아...!"
+text_en,#REF!,Calm down... Steady your breathing... I won't let things end here!,"진정하고, 호흡을 정돈해...!<br>나는, 꺾이지않아...!"
+text_jp,#REF!,っ！？,！？
+text_en,#REF!,...!,！？
+text_jp,#REF!,刃を障壁のようなもので<br>弾いているようだな。,칼날을 장벽같은 것으로<br>튕겨내고 있는 것 같군.
+text_en,#REF!,It seems your blades are being deflected by some kind of barrier.,칼날을 장벽같은 것으로<br>튕겨내고 있는 것 같군.
+text_jp,#REF!,はっはー！　面白ぇ！<br>お前等、伊之助様に続けー！,"핫하-! 재밌어!<br>모두들, 이노스케님을 따라라-!"
+text_en,#REF!,"Haha! Things are getting interesting! Minions, after me!","핫하-! 재밌어!<br>모두들, 이노스케님을 따라라-!"
+text_jp,#REF!,す、すげぇ……。<br>障壁を破っちまったぜ……。,"괴,굉장해... <br> 장벽을 깨부셨어..."
+text_en,#REF!,What the... He just barreled through that force field like it was made of cardboard.,"괴,굉장해... <br> 장벽을 깨부셨어..."
+text_jp,#REF!,ワハハハハ！！,와하하하하!!
+text_en,#REF!,Muahahaha!,와하하하하!!
+text_jp,#REF!,おい！　気味悪ぃのが<br>広がってくぞ！？,어이! 이상한게<br>퍼지고있는데...?!
+text_en,#REF!,Hey! The sticky's spreading again!,어이! 이상한게<br>퍼지고있는데...?!
+text_jp,#REF!,ああぁぁぁどうしよう……<br>どうしよう炭治郎ぅぅぅ…… ,아아아아..어쩌지..<br>어쩌지 탄지로오오...
+text_en,#REF!,Waah... What do we do... What do we do... Tanjirooo...,아아아아..어쩌지..<br>어쩌지 탄지로오오...
+text_jp,#REF!,…… いや、大丈夫だ。<br>みんなで戦えば、必ず勝てる！,".... 아냐, 괜찮아. <br>모두와 함께 싸우면, 반드시 이길 수 있어!"
+text_en,#REF!,"We'll be fine. As long as we work together, there's nothing that can stop us!",".... 아냐, 괜찮아. <br>모두와 함께 싸우면, 반드시 이길 수 있어!"
+text_jp,#REF!,もっと、呼吸を<br>研ぎ澄ませるんだ……！,"더욱 더, 호흡을<br>가다듬는거야...!"
+text_en,#REF!,I have to focus my breathing more!,"더욱 더, 호흡을<br>가다듬는거야...!"
+text_jp,#REF!,良く踏みとどまった！<br>竈門少年達！,잘 내딛었다!<br>카마도 소년!
+text_en,#REF!,"You did well to hold out this long, Kamado!",잘 내딛었다!<br>카마도 소년!
+text_jp,#REF!,敵の術が解けましたね。<br>でも、まだ終わりじゃないようです。,"적의 기술이 풀렸네요. <br> 하지만, 아직 끝나지는 않은 것 같네요."
+text_en,#REF!,"Yes, its magic's faded. But it seems the fight still isn't over.","적의 기술이 풀렸네요. <br> 하지만, 아직 끝나지는 않은 것 같네요."
+text_jp,#REF!,正念場だ！　呼吸を意識しろ！<br>ここで終わらせるぞ！,중대국면이다! 호흡을 의식해라! <br> 여기서 끝내겠어!
+text_en,#REF!,Draw deep breaths and concentrate! This next blow will decide the battle!,중대국면이다! 호흡을 의식해라! <br> 여기서 끝내겠어!
+text_jp,#REF!,一気に片を付けましょう。,단번에 정리합시다.
+text_en,#REF!,We'll eradicate them all at once.,단번에 정리합시다.
+text_jp,#REF!,オイラ達も最後までみんなと<br>力を合わせて戦うぜ！,우리들도 마지막까지 모두와 함께<br>힘을 합쳐 싸우겠어!
+text_en,#REF!,We're with you to the very end!,우리들도 마지막까지 모두와 함께<br>힘을 합쳐 싸우겠어!
+text_jp,#REF!,呼吸を研ぎ澄ませろ……！<br>ここで必ず倒すんだ……！,호흡을 가다듬어라...! <br> 여기서 반드시 쓰러트리는거야....!
+text_en,#REF!,Come on... Focus your breathing! It's now or never!,호흡을 가다듬어라...! <br> 여기서 반드시 쓰러트리는거야....!
+text_jp,#REF!,逃がさんぞ！,놓치지 말아라!
+text_jp,#REF!,活路を切り開くぞ。<br>まずはコイツらを蹴散らす！,활로를 뚫겠다.<br>우선은 이 녀석들을 무찌르자!
+text_jp,#REF!,姐さんは【<span class='attribute2'>水属性</span>】だから<br>【<span class='attribute3'>土属性</span>】の敵の攻撃に弱いみてぇ<br>だな。,누님은 【<span class='attribute2'>물속성</span>】이니까<br>【<span class='attribute3'>흙속성</span>】의 적의 공격에 약해보여!
+text_jp,#REF!,そうだな……だが、異なる属性の君がいればこの窮地も脱せよう,"그렇지……하지만, 다른 속성의 네가 있으면 이 궁지도 벗어날 수 있겠지"
+text_jp,#REF!,仲間との属性の組み合わせも重要ってことだな！さぁ、いくぜぇ！,"동료와의 속성조합도 중요하다는 거네! 자, 가자!"
+text_jp,#REF!,連戦になる場合、勝利までの<br>戦闘回数はここで確認できる。,연전이 되는 경우 승리 할 때 까지의 <br> 전투 횟수는 여기서 확인 가능할 수 있어.
+text_jp,#REF!,この後にもさらに1回戦闘が<br>控えているな。,이 뒤로도 한차례 더 전투가<br>있군.
+text_jp,#REF!,けど、ここを切り抜ければ…！,그래도 여기를 돌파하면...!
+text_jp,#REF!,がんばりましょう！,힘내세요!
+text_jp,#REF!,追い詰めたぞ！,몰아붙였다!
+text_jp,#REF!,傷は大丈夫か？<br>私のアビリティで回復しておこう。,상처는 괜찮은가?<br>내 어빌리티로 회복해두는게 좋겠군.
+text_jp,#REF!,アビリティは戦闘で一定ターン経過<br>すると使用可能になる。,어빌리티는 전투에서 일정 턴이 경과<br>하면 다시 사용 가능하게 된다.
+text_jp,#REF!,温存することもできるが……<br>ここは念のため使っておこうか。,아껴 둘 수도 있지만……<br>여기에선 만약을 위해 사용해 둘까.
+text_jp,#REF!,よし、これでまだ戦える！,"좋아, 이걸로 더 싸울 수 있어!"
+text_jp,#REF!,さっさと片付けるぞ！,자 어서 정리해버리자고!
+text_jp,#REF!,はっ！,네!
+text_jp,#REF!,奥義の発動準備ができたようだな。 だが、ここは待ってくれ。,오의 발동 준비가 된 것 같군. 하지만 여기선 잠시 기다려줘.
+text_jp,#REF!,二人で同時に奥義を放ち、【チェインバースト】で一気に敵を葬る！,"둘이서 동시에 오의를 써서, 【체인버스트】를 통해 단번에 적을 해치우자!"
+text_jp,#REF!,奥義を放つかどうかは選ぶことができる。いまは【温存】してくれ。,오의를 쓸지 말지는 고를 수 있어. 지금은 【온존】해줘.
+text_jp,#REF!,よし、これでこのターンは君は奥義を温存することになる。 では行くぞ！,"좋아, 이제 이 턴엔 너는 오의를 온존하게 되었어. 자, 가자!"
+text_jp,#REF!,準備は整った！ 【温存】を解除してくれ！,준비가 되었어! 【온존】을 해제해줘!
+text_jp,#REF!,これで【攻撃】すれば、二人同時に奥義を放てる！ 仕掛けるぞ！,이제 【공격】하면 둘이 동시에 오의를 사용하게 된다! 가자!
+text_jp,#REF!,【チェインバースト】とやらで、蹴散らしちまえーぃ！！,【체인버스트】 라는 걸로 날려버려!!
+text_jp,#REF!,成功だ！【チェインバースト】は奥義を発動する人数が多いほど強力になるんだ。,성공이다! 【체인버스트】는 오의를 발동하는 인원수가 많을수록 강력해진다.
+text_jp,#REF!,また、属性は「最初の奥義」のものになる。,"그리고, 속성은 「최초의 오의」의 속성이 된다."
+text_jp,#REF!,今回は君が先に放ったので、【<span class='attribute4'>風属性</span>】の【チェインバースト】になったというワケだな。,"이번에는 네가 먼저 사용했으니까, 【<span class='attribute4'>풍속성</span>】의 【체인버스트】가 된거야."
+text_jp,#REF!,みんな、すごいです！ 一気にやっつけちゃいました！,다들 대단해요! 한번에 해치워버렸어요!
+text_jp,#REF!,ヴィーラちゃん激おこなんだけど……
+text_en,#REF!,"Vira's gone max cray-cray, guys..."
+text_jp,#REF!,オイオイオイオイ……<br>Doすんだよコレ……
+text_en,#REF!,What do we do? What do we do!
+text_jp,#REF!,ど、どうしたらいいんでしょう……
+text_en,#REF!,Oh dear... I don't know either...
+text_jp,#REF!,Ｄｏしろって、ルリぴっぴ。<br>Ｓｏするしかねえっしょ！
+text_en,#REF!,"Keep it cool, Lily-rad. We got this."
+text_jp,#REF!,とりま、<br>ポコパンキメる覚悟決めっから<br>オレっちに任せろ的な？
+text_en,#REF!,Just chill for now. Save up your skills for when things get dicey.
+text_jp,#REF!,りょ！
+text_en,#REF!,Word!
+text_jp,#REF!,お？なになになによ？<br>ッベェ雰囲気キてんじゃねーかコレ。
+text_en,#REF!,"Hm? Whoa, whoa, whoa. My trouble meter's going on the fritz, dudes."
+text_jp,#REF!,パネェ攻撃食らう寸前的な？
+text_en,#REF!,She's gonna hit us hard.
+text_jp,#REF!,チャラ男ロックオン的な？
+text_en,#REF!,And not in a good way.
+text_jp,#REF!,わ、私が防ぎます！<br>1度だけ、「恵みの風」で！
+text_en,#REF!,"I'll protect you! I can only do this once, but Rousing Wind should help us pull through!"
+text_jp,#REF!,神ってるわー<br>そんじゃあ、「恵みのゼーカー」<br>ヨロシャース。
+text_en,#REF!,"You angel-rollin' for real, Lyria. Aight, lay some of that Arousing Wind on us."
+text_jp,#REF!,パーペキにキメますんで！<br>見届けてください！
+text_en,#REF!,Gotcha!
+text_jp,#REF!,はうう……またあの攻撃が来たら…
+text_en,#REF!,Oh no... It's that attack again...
+text_jp,#REF!,ローアインおめ、<br>大事なアビリティ忘れてね？
+text_en,#REF!,Lowain. You thinking what I'm thinking?
+text_jp,#REF!,……あ！ピッカンキタコレ！
+text_en,#REF!,Awww-yeaaah!
+text_jp,#REF!,ナニナニ？Doいうこと？<br>気になるじゃーん、教えろじゃーん！
+text_en,#REF!,What? What? What're you guys thinking?
+text_jp,#REF!,☆★☆禁断の3アビ☆★☆<br>バイブスアゲて<br>ガチめにキメるしかねーっしょ
+text_en,#REF!,"My comradical comrades, 'tis time we ended this... with Totally Forbidden Skillz!"
+text_jp,#REF!,エモいわ……
+text_en,#REF!,"Oh, I... I knew that."
+text_jp,#REF!,いくぜダチ公！！<br>イーハーーーーーー！！！！
+text_en,#REF!,Let's do this! Yeaaa-hooo!
+text_jp,#REF!,頼りにしてます、ダチ公さん！<br>マジパネーション！
+text_en,#REF!,"Counting on you, brofams! We can do this!"
+text_jp,#REF!,痛めつけてやる！<br>覚悟しろ！,혼내 주겠다!<br>각오해라!
+text_jp,#REF!,クソッ！やるしかねぇようだぜぇ！<br>オマエの剣術なら勝てる！,젠장! 어쩔 수 없나!<br> 네 검술이라면 이길 수 있을거야!
+text_jp,#REF!,【攻撃】ボタンをタッチして<br>お見舞いしてやれぇ！！,【공격】버튼을 눌러서 <br> 한방 먹여주자구!
+text_jp,#REF!,効いてるぜ！この調子だぁ！,효과가 있어! 이대로 가자구!
+text_jp,#REF!,自分の攻撃が終わると、<br>次は敵の攻撃だ！気ィつけろぉ！,"네 공격이 끝나면,<br>다음은 적의 공격이야! 조심해!"
+text_jp,#REF!,敵の攻撃が終わればまた自分の番だ。よぉく憶えとけよぉ！<br>さぁ反撃だ！,"적의 공격이 끝나면 다시 네 차례야. <br>잘 기억해 둬!<br>자, 반격이다!"
+text_jp,#REF!,そうだ…属性ってのは知ってるよな？戦いを勝ち抜くには必須の知識だ！,"그래, 속성이라는 건 알지? 싸움에서 이기려면 필수적인 지식이야!"
+text_jp,#REF!,いまオマエは【<span class='attribute4'>風属性</span>】の武器を<br>装備しているな。と、なりゃぁ……,"지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있어, 그럼..."
+text_jp,#REF!,オマエの攻撃は【<span class='attribute3'>土属性</span>】の敵に<br>超！有利だぜぇ！,네 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
+text_jp,#REF!,あの剣を持った兵士！<br>アイツは【<span class='attribute3'>土属性</span>】だ！<br>アイツをタッチしてみなぁ！,저 검을 든 병사!<br> 저 녀석은 [<span class='attribute3'>흙속성</span>]이야!<br> 그 녀석을 터치해봐!
+text_jp,#REF!,よぉし！<br>これでアイツを狙い撃ちできるぜ！<br>さぁ、【攻撃】だぁ！,"좋아!<br>이것으로 저 녀석을 노려서 공격할 수 있어!<br>자, [공격]이야!"
+text_jp,#REF!,大ダメージだぜぇ！属性の相性で<br>こうも違いがでるなんてなぁ！,데미지가 큰데! 속성을 맞춰주는게<br>이렇게나 차이가 나다니!
+text_jp,#REF!,ちなみに、逆に【<span class='attribute3'>土属性</span>】の敵が<br> 【<span class='attribute4'>風属性</span>】のオマエを攻撃すると、<br> ダメージは軽減されるんだぜぇ！,"참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지가 경감되는 거야!"
+text_jp,#REF!,狙い撃ちする敵は、もう一度タッチ<br> すると解除されるぜ。でも、ここは<br> このままヤっちまえー！！,"노렸던 적은 한 번 더 터치<br>하면 해제될 거야. 하지만, 여기선<br> 이대로 끝내버리자!!"
+text_jp,#REF!,よっしゃぁー！<br> さっすがじゃねぇーか！<br> この調子であの槍野郎も倒すぞぉ！,아자!<br>역시 너야! 이 상태로 저 창을 든 녀석도 쓰러뜨릴거야!
+text_jp,#REF!,…なぁ、気づいたか？<br>敵のHPゲージの下にあるアレによぉ。,"...있잖아, 눈치 챘어?<br>적의 HP게이지 밑에 있는 저거 말야."
+text_jp,#REF!,アレが全部赤く光ると、<br> 敵が技を使ってくるぜぇ！<br>注意しろよぉ！,"저것이 전부 빨갛게 빛나면,<br>적이 기술을 사용해 온다구!<br>주의해!"
+text_jp,#REF!,お？奥義ゲージが溜まったな？<br>次に攻撃する時に【奥義】を<br>発動できるぜぇ！,어? 오의게이지가 쌓였네?<br>다음에 공격할 때 [오의]를<br>발동할 수 있어!
+text_jp,#REF!,奥義ゲージは自分が攻撃したり、<br>ダメージを受けると溜まるから<br>憶えとけよぉ。,"오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
+text_jp,#REF!,いけぇ！オマエの奥義で槍野郎に<br>トドメをさしてやれぇー！！,가자! 네 오의로 창을 든 녀석을<br>마무리해버려!!
+text_jp,#REF!,やったぜぇー！武装した兵士を<br>一度に二人も倒すなんて、<br>やるじゃねぇかよぉ！！,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
 
-test_en,,Pain is the least of your worries!,혼내 주겠다!<br>각오해라!
-test_en,,All right! Nothing to it but to do it! With your sword skills you can win this!,젠장! 어쩔 수 없나!<br> 네 검술이라면 이길 수 있을거야!
-test_en,,Tap Attack to take care of these goons!,【공격】버튼을 눌러서 <br> 한방 먹여주자구!
-test_en,,It's working! Keep it up!,효과가 있어! 이대로 가자구!
-test_en,,"After you attack, it's the enemy's turn. Watch out!","네 공격이 끝나면,<br>다음은 적의 공격이야! 조심해!"
-test_en,,"After the enemy's turn, you're up. Now strike back!","적의 공격이 끝나면 다시 네 차례야. 잘 기억해 둬!<br>자, 반격이다!"
-test_en,,"Hey, you know about elements, right? They're the key to winning battles!","그래, 속성이라는 건 알지? 싸움에서 이기려면 필수적인 지식이야!"
-test_en,,Right now you've equipped a wind weapon. That means...,"지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있어, 그럼..."
-test_en,,You can deal serious damage to earth enemies!,네 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
-test_en,,That soldier with the sword is earth! Try tapping him!,저 검을 든 병사!<br> 저 녀석은 [<span class='attribute3'>흙속성</span>]이야!<br> 그 녀석을 터치해봐!
-test_en,,"Good, now he's your target! Let's attack!","좋아!<br>이것으로 저 녀석을 노려서 공격할 수 있어!<br>자, [공격]이야!"
-test_en,,Now that's some serious damage! It helps to use the right element at the right time.,데미지가 큰데! 속성을 맞춰주는게<br>이렇게나 차이가 나다니!
-test_en,,"Since he's earth and you're wind, he can't damage you much.","참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지가 경감되는 거야!"
-test_en,,You can tap an enemy again to quit targeting it. But let's not change anything now.,"노렸던 적은 한 번 더 터치<br>하면 해제될 거야. 하지만, 여기선<br> 이대로 끝내버리자!!"
-test_en,,All right! That's the spirit! Now let's take down this spear guy!,아자!<br>역시 너야! 이 상태로 저 창을 든 녀석도 쓰러뜨릴거야!
-test_en,,"Hey, did you see those things under the enemy's HP gauge?","...있잖아, 눈치 챘어?<br>적의 HP게이지 밑에 있는 저거 말야."
-test_en,,"When all of those are flashing red, the enemy will make a charge attack! Be careful!","저것이 전부 빨갛게 빛나면,<br>적이 기술을 사용해 온다구!<br>주의해!"
-test_en,,"Hey, your charge bar is full. Next make a charge attack!",어? 오의게이지가 쌓였네?<br>다음에 공격할 때 [오의]를<br>발동할 수 있어!
-test_en,,"Remember, your charge bar fills up whenever you attack or receive damage.","오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
-test_en,,Let's go! Squash this guy with your charge attack!,가자! 네 오의로 창을 든 녀석을<br>마무리해버려!!
-test_en,,Alright! You took down those two guys with one hit!,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
+test_en,#REF!,Pain is the least of your worries!,혼내 주겠다!<br>각오해라!
+test_en,#REF!,All right! Nothing to it but to do it! With your sword skills you can win this!,젠장! 어쩔 수 없나!<br> 네 검술이라면 이길 수 있을거야!
+test_en,#REF!,Tap Attack to take care of these goons!,【공격】버튼을 눌러서 <br> 한방 먹여주자구!
+test_en,#REF!,It's working! Keep it up!,효과가 있어! 이대로 가자구!
+test_en,#REF!,"After you attack, it's the enemy's turn. Watch out!","네 공격이 끝나면,<br>다음은 적의 공격이야! 조심해!"
+test_en,#REF!,"After the enemy's turn, you're up. Now strike back!","적의 공격이 끝나면 다시 네 차례야. 잘 기억해 둬!<br>자, 반격이다!"
+test_en,#REF!,"Hey, you know about elements, right? They're the key to winning battles!","그래, 속성이라는 건 알지? 싸움에서 이기려면 필수적인 지식이야!"
+test_en,#REF!,Right now you've equipped a wind weapon. That means...,"지금 너는 [<span class='attribute4'>바람속성</span>]의 무기를<br>장비하고 있어, 그럼..."
+test_en,#REF!,You can deal serious damage to earth enemies!,네 공격은 [<span class='attribute3'>흙속성</span>]의 적에게<br>초! 유리해!
+test_en,#REF!,That soldier with the sword is earth! Try tapping him!,저 검을 든 병사!<br> 저 녀석은 [<span class='attribute3'>흙속성</span>]이야!<br> 그 녀석을 터치해봐!
+test_en,#REF!,"Good, now he's your target! Let's attack!","좋아!<br>이것으로 저 녀석을 노려서 공격할 수 있어!<br>자, [공격]이야!"
+test_en,#REF!,Now that's some serious damage! It helps to use the right element at the right time.,데미지가 큰데! 속성을 맞춰주는게<br>이렇게나 차이가 나다니!
+test_en,#REF!,"Since he's earth and you're wind, he can't damage you much.","참고로 반대로 [<span class='attribute3'>흙 속성</span>]의 적이<br> [<span class='attribute4'>풍 속성</span>]의 너를 공격하면,<br> 데미지가 경감되는 거야!"
+test_en,#REF!,You can tap an enemy again to quit targeting it. But let's not change anything now.,"노렸던 적은 한 번 더 터치<br>하면 해제될 거야. 하지만, 여기선<br> 이대로 끝내버리자!!"
+test_en,#REF!,All right! That's the spirit! Now let's take down this spear guy!,아자!<br>역시 너야! 이 상태로 저 창을 든 녀석도 쓰러뜨릴거야!
+test_en,#REF!,"Hey, did you see those things under the enemy's HP gauge?","...있잖아, 눈치 챘어?<br>적의 HP게이지 밑에 있는 저거 말야."
+test_en,#REF!,"When all of those are flashing red, the enemy will make a charge attack! Be careful!","저것이 전부 빨갛게 빛나면,<br>적이 기술을 사용해 온다구!<br>주의해!"
+test_en,#REF!,"Hey, your charge bar is full. Next make a charge attack!",어? 오의게이지가 쌓였네?<br>다음에 공격할 때 [오의]를<br>발동할 수 있어!
+test_en,#REF!,"Remember, your charge bar fills up whenever you attack or receive damage.","오의 게이지는 자신이 공격하거나,<br>피해를 입으면 쌓이니까<br>기억해둬."
+test_en,#REF!,Let's go! Squash this guy with your charge attack!,가자! 네 오의로 창을 든 녀석을<br>마무리해버려!!
+test_en,#REF!,Alright! You took down those two guys with one hit!,"해냈어! 무장한 병사를 한 번에 두 명이나 쓰러뜨리다니, <br> 제법이잖아?"
 condition_win,,勝利条件
 condition_win,,3ターン以内にゴリラを倒して印刷所へ急げ！
-text_jp,,こんな街中に<br>どうしてゴリラが……！？
-text_en,,What's a gorilla doing in the middle of the city?
-text_jp,,ただのゴリラじゃないわ……<br>そのゴリラ、喋るのよ！！
-text_en,,That's not just any gorilla. This one's a talking gorilla!
-text_jp,,ん……？<br>ハンサム・ゴリラ飲み過ぎた……?
-text_en,,Huh? Did I drink too much Handsome Gorilla?
-text_jp,,ダメだわ……！<br>今はゴリラしか描ける気がしない！
-text_en,,It's no use! I've got writer's gorilla!
-text_jp,,うほ～！
-text_en,,Ooh-ahh!
-text_jp,,うほ～い！
-text_en,,Ooh-ooh-ahh!
-text_jp,,（何もかもがゴリラに見える……）
-text_en,,(Everyone looks like a gorilla...)
-text_jp,,うぅ……<br>栄養分を取りすぎたせいか、<br>ゴリラが二重に見えます……！
-text_en,,"Urgh, I might've gone overboard with the supplements. I'm seeing double... gorillas, that is!"
-text_jp,,喋るゴリラとは珍しいですね～<br>なんとか森に帰さないと～……
-text_en,,"It's not every day you see a talking gorilla. Still, we need to return it to the forest somehow..."
-text_jp,,うほうほ～！
-text_en,,"Ooh-ooh, ahh-ahh!"
-text_jp,,ゴリラも気になるけれど……<br>今は時間がないわ！
-text_en,,I'm a bit concerned about that gorilla... but there's no time to lose!
-text_jp,,みんな、一気に終わらせるわよ！
-text_en,,"Come on, girls! Let's finish this in one go!"
-text_jp,,うほうほ～！！！
-text_en,,"Ooh-ooh, ahh-ahh!"
-text_jp,,ハンサム・ゴリラが効いてきた。<br>私達も反論を始めよう！
-text_en,,The Handsome Gorilla's kicking in. Time for our rebuttal!
-text_jp,,グオォォォ！
-text_en,,Groooar!
-text_jp,,うほ～？<br>うっほうほです～！
-text_en,,"Ooh? Ooh-ooh, ahh-ahh!"
-text_jp,,ここにいる人々の目は曇ってなど<br>いないよ。何を好み、創ろうと<br>それは人の自由なのだから。
-text_en,,The truth is clear to all of us. People are allowed to enjoy and create whatever they want.
-text_jp,,うほぉ！！！
-text_en,,Ooh-ooh!
-text_jp,,そうよ！私たちは誇りをもって<br>絵を描いているの！
-text_en,,Yeah! We take great pride in our art!
-text_jp,,うまくできているか不安になったり<br>批判が怖くなったりもするけど、<br>それを乗り越えてここにいるのよ！
-text_en,,We've all worried over if we did a good job or what criticism we might face. But we overcame that to be here today!
-text_jp,,うっ……この文化に興味のない人が<br>見たら正論だと思うような嫌な主張<br>だけどルナールさんたちなら……！
-text_en,,His claims might sound convincing to people who don't know any better. But I know they can prove him wrong!
-text_jp,,皆さん！<br>空の世界の文化のためにも<br>どうか負けないで……！
-text_en,,"Hang in there, ladies! The fate of the arts is in your hands!"
-text_jp,,うほ！<br>うほうほうほーーー！！！
-text_en,,"Ooh-ooh! Ooh-ooh, ahh-ahh!"
+text_jp,#REF!,こんな街中に<br>どうしてゴリラが……！？
+text_en,#REF!,What's a gorilla doing in the middle of the city?
+text_jp,#REF!,ただのゴリラじゃないわ……<br>そのゴリラ、喋るのよ！！
+text_en,#REF!,That's not just any gorilla. This one's a talking gorilla!
+text_jp,#REF!,ん……？<br>ハンサム・ゴリラ飲み過ぎた……?
+text_en,#REF!,Huh? Did I drink too much Handsome Gorilla?
+text_jp,#REF!,ダメだわ……！<br>今はゴリラしか描ける気がしない！
+text_en,#REF!,It's no use! I've got writer's gorilla!
+text_jp,#REF!,うほ～！
+text_en,#REF!,Ooh-ahh!
+text_jp,#REF!,うほ～い！
+text_en,#REF!,Ooh-ooh-ahh!
+text_jp,#REF!,（何もかもがゴリラに見える……）
+text_en,#REF!,(Everyone looks like a gorilla...)
+text_jp,#REF!,うぅ……<br>栄養分を取りすぎたせいか、<br>ゴリラが二重に見えます……！
+text_en,#REF!,"Urgh, I might've gone overboard with the supplements. I'm seeing double... gorillas, that is!"
+text_jp,#REF!,喋るゴリラとは珍しいですね～<br>なんとか森に帰さないと～……
+text_en,#REF!,"It's not every day you see a talking gorilla. Still, we need to return it to the forest somehow..."
+text_jp,#REF!,うほうほ～！
+text_en,#REF!,"Ooh-ooh, ahh-ahh!"
+text_jp,#REF!,ゴリラも気になるけれど……<br>今は時間がないわ！
+text_en,#REF!,I'm a bit concerned about that gorilla... but there's no time to lose!
+text_jp,#REF!,みんな、一気に終わらせるわよ！
+text_en,#REF!,"Come on, girls! Let's finish this in one go!"
+text_jp,#REF!,うほうほ～！！！
+text_en,#REF!,"Ooh-ooh, ahh-ahh!"
+text_jp,#REF!,ハンサム・ゴリラが効いてきた。<br>私達も反論を始めよう！
+text_en,#REF!,The Handsome Gorilla's kicking in. Time for our rebuttal!
+text_jp,#REF!,グオォォォ！
+text_en,#REF!,Groooar!
+text_jp,#REF!,うほ～？<br>うっほうほです～！
+text_en,#REF!,"Ooh? Ooh-ooh, ahh-ahh!"
+text_jp,#REF!,ここにいる人々の目は曇ってなど<br>いないよ。何を好み、創ろうと<br>それは人の自由なのだから。
+text_en,#REF!,The truth is clear to all of us. People are allowed to enjoy and create whatever they want.
+text_jp,#REF!,うほぉ！！！
+text_en,#REF!,Ooh-ooh!
+text_jp,#REF!,そうよ！私たちは誇りをもって<br>絵を描いているの！
+text_en,#REF!,Yeah! We take great pride in our art!
+text_jp,#REF!,うまくできているか不安になったり<br>批判が怖くなったりもするけど、<br>それを乗り越えてここにいるのよ！
+text_en,#REF!,We've all worried over if we did a good job or what criticism we might face. But we overcame that to be here today!
+text_jp,#REF!,うっ……この文化に興味のない人が<br>見たら正論だと思うような嫌な主張<br>だけどルナールさんたちなら……！
+text_en,#REF!,His claims might sound convincing to people who don't know any better. But I know they can prove him wrong!
+text_jp,#REF!,皆さん！<br>空の世界の文化のためにも<br>どうか負けないで……！
+text_en,#REF!,"Hang in there, ladies! The fate of the arts is in your hands!"
+text_jp,#REF!,うほ！<br>うほうほうほーーー！！！
+text_en,#REF!,"Ooh-ooh! Ooh-ooh, ahh-ahh!"
 condition_win,,一人も倒されることなく<br>ライゾウを撃破せよ！
-text_jp,,イーッヒヒヒヒ！！　どや？<br>ワイのド派手な武器の威力は！
-text_en,,"Yeeheehee! How do you like that, eh? Knocked your socks off, didn't it!"
-text_jp,,くっ……ふざけた見た目に反して、<br>威力は本物の様ですね……
-text_en,,Ngh... That gaudy hunk of junk packs a hell of a wallop.
-text_jp,,ユイシスさんが危ない！<br>助けないと……！
-text_en,,Yuisis is in trouble! We have to help her!
-text_jp,,なんやねん、ワレェ！？<br>邪魔する奴はしばき倒したるど！
-text_en,,"Out of my way, you ring-tailed piglet, or you'll be bacon!"
-text_jp,,クビラさん、助かったわ。<br>では、反撃と行かせてもらいます！
-text_en,,"Thank you, Kumbhira. Time for some payback!"
-text_jp,,イーッヒッヒッヒッヒ！！<br>ええなぁ！　ほんまに痺れるわぁ！<br>ほんならワイも本気で行くど！
-text_en,,Yeeheehee! That smarts! Guess I can really let you have it now!
-text_jp,,これがワイの武器の真骨頂や！<br>めでたい気分になってきたやろ、<br>ワレ？
-text_en,,"Behold my weapon's true power! Puts you right in the festive mood, doesn't it?"
-text_jp,,…………
-text_en,,...
-text_jp,,なんや、つれないのぅ、ワレ。<br>せやったらとっておきの技を<br>見せたるで！
-text_en,,"Wow, tough crowd. Well, let's see how my ace in the hole grabs you!"
-text_jp,,嫌な予感がする……<br>시데님、お願い！
-text_en,,"I've got a bad feeling about this... Your turn, 시데님!"
-text_jp,,시데님、準備が出来たわ。<br>こんなつまらない見世物は<br>早々に幕を引かないとね。
-text_en,,"I'm ready, 시데님. Time to shut down this clown's circus for good."
+text_jp,#REF!,イーッヒヒヒヒ！！　どや？<br>ワイのド派手な武器の威力は！
+text_en,#REF!,"Yeeheehee! How do you like that, eh? Knocked your socks off, didn't it!"
+text_jp,#REF!,くっ……ふざけた見た目に反して、<br>威力は本物の様ですね……
+text_en,#REF!,Ngh... That gaudy hunk of junk packs a hell of a wallop.
+text_jp,#REF!,ユイシスさんが危ない！<br>助けないと……！
+text_en,#REF!,Yuisis is in trouble! We have to help her!
+text_jp,#REF!,なんやねん、ワレェ！？<br>邪魔する奴はしばき倒したるど！
+text_en,#REF!,"Out of my way, you ring-tailed piglet, or you'll be bacon!"
+text_jp,#REF!,クビラさん、助かったわ。<br>では、反撃と行かせてもらいます！
+text_en,#REF!,"Thank you, Kumbhira. Time for some payback!"
+text_jp,#REF!,イーッヒッヒッヒッヒ！！<br>ええなぁ！　ほんまに痺れるわぁ！<br>ほんならワイも本気で行くど！
+text_en,#REF!,Yeeheehee! That smarts! Guess I can really let you have it now!
+text_jp,#REF!,これがワイの武器の真骨頂や！<br>めでたい気分になってきたやろ、<br>ワレ？
+text_en,#REF!,"Behold my weapon's true power! Puts you right in the festive mood, doesn't it?"
+text_jp,#REF!,…………
+text_en,#REF!,...
+text_jp,#REF!,なんや、つれないのぅ、ワレ。<br>せやったらとっておきの技を<br>見せたるで！
+text_en,#REF!,"Wow, tough crowd. Well, let's see how my ace in the hole grabs you!"
+text_jp,#REF!,嫌な予感がする……<br>시데님、お願い！
+text_en,#REF!,"I've got a bad feeling about this... Your turn, 시데님!"
+text_jp,#REF!,시데님、準備が出来たわ。<br>こんなつまらない見世物は<br>早々に幕を引かないとね。
+text_en,#REF!,"I'm ready, 시데님. Time to shut down this clown's circus for good."
 condition_win,,煩悩退散の術で<br>ユイシスから煩悩を払おう！
-text_jp,,このままじゃ……みんなを……<br>今のうちに逃げて……
-text_en,,"At this rate, I'll kill you all... You have to run!"
-text_jp,,安心して、ユイシスさん。<br>今私達が煩悩を払うから！
-text_en,,"Don't worry, Yuisis. We're going to banish those Kleshas!"
-text_jp,,悪いけど、시데님は<br>ユイシスの注意を引きつけて。<br>その間にクビラと煩悩を払うよ！
-text_en,,"시데님, you need to keep Yuisis distracted so we can perform the purification rite!"
-text_jp,,ありがとう、시데님。<br>その調子でユイシスさんの<br>相手をお願い！
-text_en,,"Thanks, 시데님. Keep her attention on you, okay?"
-text_jp,,術発動の準備が整うまで、<br>もう少しだけ頑張って！
-text_en,,We need a little more time to prepare. Hang in there!
-text_jp,,ううぅ、ああぁあぁぁぁーーー！！
-text_en,,Nngh... Aaaarrrgh!
-text_jp,,煩悩の気配が強まっている……！<br>시데님、気をつけて！<br>強い攻撃が来るよ！
-text_en,,"The Kleshas are intensifying, 시데님! She's about to do something big! Be careful!"
-text_jp,,ううぅ……
-text_en,,Hurgh...
-text_jp,,準備が整った！<br>術を発動するよ！
-text_en,,I'm ready! Here goes nothin'!
-text_jp,,私もいける！<br>早くユイシスさんを助けよう！
-text_en,,Me too! Let's get Yuisis back to normal!
-text_jp,,ジョイ、ジョヤノ、コト、<br>ゼッタイ、タスケル！
-text_en,,Joy will save Joya!
-text_jp,,うん！　皆で力を合わせて<br>ジョヤの暴走を止めよう！
-text_en,,"Right! If we work together, we can bring the Joya to its senses!"
-text_jp,,まずはぼく達から行くね！
-text_en,,We'll get this started!
-text_jp,,出番だよ！　ドーマウス！
-text_en,,"You're up, Dormouse!"
-text_jp,,くぅ……！<br>なんて強い煩悩なの！？
-text_en,,Urgh! Those Kleshas are so strong!
-text_jp,,ハワワッ！？<br>クビラ、ビカラ、시데님、<br>ダイジョーブ？
-text_en,,"Meep! Kumbhira, Vikala, 시데님, are you o-kay?"
-text_jp,,ジョイガ、ミンナヲ、タスケル！<br>ゴォォーーンンン！！！
-text_en,,Joy will save you! Gooonnnggg!
-text_jp,,ありがとう、ジョイくん！<br>これでいつも通り戦えそうだよ！
-text_en,,"Thanks, Joy! I should be able to fight at a hundred percent now!"
-text_jp,,ジョヤに集まった煩悩が<br>膨れ上がっている！？
-text_en,,The Kleshas around the Joya are expanding!
-text_jp,,ジョヤニ、モウ、<br>ワルイコト、サセナイ！<br>ジョヤハ、ジョイガ、トメル！
-text_en,,Joy won't let Joya do bad things anymore! Joy will stop it!
-text_jp,,ミンナデ、<br>「アケマシテオメデトー」ッテ、<br>イウタメニ！
-text_en,,"Let's all say Happy New Year"" together!"""
+text_jp,#REF!,このままじゃ……みんなを……<br>今のうちに逃げて……
+text_en,#REF!,"At this rate, I'll kill you all... You have to run!"
+text_jp,#REF!,安心して、ユイシスさん。<br>今私達が煩悩を払うから！
+text_en,#REF!,"Don't worry, Yuisis. We're going to banish those Kleshas!"
+text_jp,#REF!,悪いけど、시데님は<br>ユイシスの注意を引きつけて。<br>その間にクビラと煩悩を払うよ！
+text_en,#REF!,"시데님, you need to keep Yuisis distracted so we can perform the purification rite!"
+text_jp,#REF!,ありがとう、시데님。<br>その調子でユイシスさんの<br>相手をお願い！
+text_en,#REF!,"Thanks, 시데님. Keep her attention on you, okay?"
+text_jp,#REF!,術発動の準備が整うまで、<br>もう少しだけ頑張って！
+text_en,#REF!,We need a little more time to prepare. Hang in there!
+text_jp,#REF!,ううぅ、ああぁあぁぁぁーーー！！
+text_en,#REF!,Nngh... Aaaarrrgh!
+text_jp,#REF!,煩悩の気配が強まっている……！<br>시데님、気をつけて！<br>強い攻撃が来るよ！
+text_en,#REF!,"The Kleshas are intensifying, 시데님! She's about to do something big! Be careful!"
+text_jp,#REF!,ううぅ……
+text_en,#REF!,Hurgh...
+text_jp,#REF!,準備が整った！<br>術を発動するよ！
+text_en,#REF!,I'm ready! Here goes nothin'!
+text_jp,#REF!,私もいける！<br>早くユイシスさんを助けよう！
+text_en,#REF!,Me too! Let's get Yuisis back to normal!
+text_jp,#REF!,ジョイ、ジョヤノ、コト、<br>ゼッタイ、タスケル！
+text_en,#REF!,Joy will save Joya!
+text_jp,#REF!,うん！　皆で力を合わせて<br>ジョヤの暴走を止めよう！
+text_en,#REF!,"Right! If we work together, we can bring the Joya to its senses!"
+text_jp,#REF!,まずはぼく達から行くね！
+text_en,#REF!,We'll get this started!
+text_jp,#REF!,出番だよ！　ドーマウス！
+text_en,#REF!,"You're up, Dormouse!"
+text_jp,#REF!,くぅ……！<br>なんて強い煩悩なの！？
+text_en,#REF!,Urgh! Those Kleshas are so strong!
+text_jp,#REF!,ハワワッ！？<br>クビラ、ビカラ、시데님、<br>ダイジョーブ？
+text_en,#REF!,"Meep! Kumbhira, Vikala, 시데님, are you o-kay?"
+text_jp,#REF!,ジョイガ、ミンナヲ、タスケル！<br>ゴォォーーンンン！！！
+text_en,#REF!,Joy will save you! Gooonnnggg!
+text_jp,#REF!,ありがとう、ジョイくん！<br>これでいつも通り戦えそうだよ！
+text_en,#REF!,"Thanks, Joy! I should be able to fight at a hundred percent now!"
+text_jp,#REF!,ジョヤに集まった煩悩が<br>膨れ上がっている！？
+text_en,#REF!,The Kleshas around the Joya are expanding!
+text_jp,#REF!,ジョヤニ、モウ、<br>ワルイコト、サセナイ！<br>ジョヤハ、ジョイガ、トメル！
+text_en,#REF!,Joy won't let Joya do bad things anymore! Joy will stop it!
+text_jp,#REF!,ミンナデ、<br>「アケマシテオメデトー」ッテ、<br>イウタメニ！
+text_en,#REF!,"Let's all say Happy New Year"" together!"""
