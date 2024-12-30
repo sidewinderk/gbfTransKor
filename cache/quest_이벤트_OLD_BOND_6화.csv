@@ -1,0 +1,261 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt211228_cp6_q1_s10,synopsis,,ワムデュスの試練を終えた夜、[플레이어]の無事を願って思い悩むビィの前に、ガレヲンが現れる。ガレヲンは幽世の存在を滅ぼし大地を取り戻すという自身の使命を語り、ビィに「力」を譲ってほしいと願い出る。自分の「力」で[플레이어]の旅路の障害を取り除けるなら、とビィはガレヲンの願いを聞き入れ、「力」をガレヲンに譲り渡してしまうのだった。
+Japanese,scene_evt211228_cp6_q1_s10,detail,,<span class='scene-font-katari'>ワムデュスの試練を平和裏に終え、</span><br><span class='scene-font-katari'>ル・オーとの戦いの疲れを癒すため</span><br><span class='scene-font-katari'>[플레이어]は眠りに就いた。</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,,<span class='scene-font-katari'>その寝顔を見つめ物思いに耽っていた</span><br><span class='scene-font-katari'>ビィは、夜風に当たり気分を変えようと</span><br><span class='scene-font-katari'>甲板へ出たものの憂鬱に息を吐く。</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,…………
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,やめやめ！<br>ひとりで考えてるから<br>暗くなっちまうんだ。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,オイラも、今日はもう<br>[플레이어]と<br>一緒に寝ちまおう……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,懊悩。<br><span class='scene-font-kokoro'>（力の大小を問わず、思考を持てば</span><br><span class='scene-font-kokoro'>必ず苦悩するようですね）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-4'>うわっ！？</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,あぁ、びっくりした……ガレヲンかよ。<br>アンタ達、本当自由っていうか<br>こっちの都合を考えねぇっていうか……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,優先。<br><span class='scene-font-kokoro'>（個人の都合よりも重要視されるべき</span><br><span class='scene-font-kokoro'>事柄はあるものです）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,固有。<br><span class='scene-font-kokoro'>（いえ……貴方にとっては、これも</span><br><span class='scene-font-kokoro'>私の個人的な都合かもしれませんが）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,姿を現したってことは<br>なんか用なんだろ？ 話、聞くぜ。<br>驚いて目も覚めちまったし……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,感謝。<br><span class='scene-font-kokoro'>（ありがとう、赤の仔竜）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,あっ！ キスは要らねぇからな！
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,遺憾。<br><span class='scene-font-kokoro'>（それは残念です。</span><br><span class='scene-font-kokoro'>ともあれ、貴方に祝福あれ）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,なんでそんなにキスしたがるんだよ……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,不足。<br><span class='scene-font-kokoro'>（空の世界は本来あるべき形よりも</span><br><span class='scene-font-kokoro'>大地の力が弱まってしまっています）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,枯渇。<br><span class='scene-font-kokoro'>（この枯れた世界で生き抜かんとする</span><br><span class='scene-font-kokoro'>命へせめてもの祝福です）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,それ、ウィルナスの試練の時も<br>言ってたよな。空の世界の大地は<br>狭い、とかなんとか……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,不全。<br><span class='scene-font-kokoro'>（ええ。本来、この世界には</span><br><span class='scene-font-kokoro'>見渡す限りの大地があった）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,失策。<br><span class='scene-font-kokoro'>（けれどそれらは……幽世の存在に</span><br><span class='scene-font-kokoro'>占拠され、今も囚われたまま……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,幽世の存在……大地……？
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,ま、待ってくれよ！<br>もしかしてアンタが言ってるのって<br>赤き地平のことか？
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,恨事。<br><span class='scene-font-kokoro'>（ええ。創世神によって作られた命が</span><br><span class='scene-font-kokoro'>繁栄するはずだった場所です）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,応急。<br><span class='scene-font-kokoro'>（されどそれは叶わず、創世神は</span><br><span class='scene-font-kokoro'>島々を浮かべ代わりとしたのです）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,赤き地平……って、あの世だろ……？<br>植物も動物も、とても生きて行けそうな<br>場所とは思えねぇけど……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,災厄。<br><span class='scene-font-kokoro'>（幽世の存在に支配されていれば</span><br><span class='scene-font-kokoro'>そうもなりましょう）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,調伏。<br><span class='scene-font-kokoro'>（幽世の存在を滅ぼし大地を取り戻す。</span><br><span class='scene-font-kokoro'>それこそが私に課せられた使命……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,要求。<br><span class='scene-font-kokoro'>（その為にどうか、貴方の中の「力」を</span><br><span class='scene-font-kokoro'>譲ってはいただけませんか？）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,オイラの「力」……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ル・オー,肉体が滅びずとも、<br>本来は授与対象ではない六竜に<br>力を与えることで機能不全が起こり……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ル・オー,何らかの影響が赤の仔竜に<br>発生する確率は高い。身体の損壊、<br>記憶の喪失、感情の崩壊……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ル・オー,いずれにせよ、<br>今ある赤の仔竜が<br>そのまま保たれはすまい。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（ル・オーは嘘吐いてるって感じじゃ</span><br><span class='scene-font-kokoro'>なかった……「力」を渡したらオイラは</span><br><span class='scene-font-kokoro'>今のオイラじゃいられない……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（そんなの嫌だ！</span><br><span class='scene-font-kokoro'>絶対、嫌だぜ……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（……でも……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,あのさ……人間にとっては、<br><span class='scene-font-spword'>イスタルシア</span>への旅ってのは<br>本当に大変なことなんだ。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,承知。<br><span class='scene-font-kokoro'>（そうでしょうね。困難な道行を選ぶ</span><br><span class='scene-font-kokoro'>特異点の勇気を称賛します）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,ただでさえ大変なのに、<br>[플레이어]の旅には<br>とんでもねぇ横槍が山ほど入ってさ。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,幽世とか、堕天司とか、<br>あとはそれこそ、六竜とか……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,[플레이어]、<br>ただ親父さんに会いたいだけなのに<br>すっげぇ苦労してて……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,オイラは……相棒なのに、<br>なんにも……できなくて……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,だから……だからさ、<br>ガレヲンが[플레이어]の旅を<br>手助けしてくれるってんなら……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,オイラの「力」を、渡してもいい……<br>いや、渡した方が<br>いいんじゃねぇかなって思うんだ。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,肯定。<br><span class='scene-font-kokoro'>（少なくとも、幽世を滅ぼすことは</span><br><span class='scene-font-kokoro'>旅路の阻害を減らすことになります）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,矯正。<br><span class='scene-font-kokoro'>（そして世界を正すことは、特異点の</span><br><span class='scene-font-kokoro'>人生にとっても有意義であるはず……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,正しい世界とかそういうの、<br>正直オイラは全然わかんねぇよ。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,でも……オイラの中にあるっていう<br>「力」が、[플레이어]がこの先<br>楽しく生きてくために役立つなら……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,…………
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（[플레이어]……</span><br><span class='scene-font-kokoro'>もしオイラが何もかも</span><br><span class='scene-font-kokoro'>忘れちまったとしても……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（[플레이어]は、</span><br><span class='scene-font-kokoro'>きっと全部覚えててくれるよな？）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（</span><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-kokoro'>での毎日も、</span><br><span class='scene-font-kokoro'>旅に出てから今までのことも</span><br><span class='scene-font-kokoro'>全部、全部……）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,<span class='scene-font-kokoro'>（そうしてくれるなら、</span><br><span class='scene-font-kokoro'>オイラは……！）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,ガレヲン。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,憂慮。<br><span class='scene-font-kokoro'>（はい、赤の仔竜）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,オイラの「力」っての、<br>オマエにやるよ。
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,だから絶対に、幽世の存在を倒して……<br>そんで、[플레이어]の旅を<br>見守ってやってくれよな！
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,誓約。<br><span class='scene-font-kokoro'>（お約束しましょう）</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,……[플레이어]……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,いいぜ、じゃあ持って行ってくれ！<br>オイラの「力」ってヤツを！
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,────
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,────
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,うっ……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,────
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,[플레이어]……！
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,────
+Japanese,scene_evt211228_cp6_q1_s10,detail,,<span class='scene-font-katari'>ガレヲンの手が</span><br><span class='scene-font-katari'>ビィの胸の中へ吸い込まれ、</span><br><span class='scene-font-katari'>その指先は輝きを引き抜く。</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ビィ,あ……
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,…………
+Japanese,scene_evt211228_cp6_q1_s10,detail,,<span class='scene-font-katari'>意識を手放すビィを抱き留め、</span><br><span class='scene-font-katari'>ガレヲンは手にした「力」を</span><br><span class='scene-font-katari'>口へ運び飲み込んだ。</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,ガレヲン,…………！
+Japanese,scene_evt211228_cp6_q1_s10,detail,,<span class='scene-font-katari'>疲れからか深い眠りに落ちていた</span><br><span class='scene-font-katari'>[플레이어]は、不意に目を開く。</span>
+Japanese,scene_evt211228_cp6_q1_s10,sel1_txt,,<span class='scene-font-katari'>ビィ……？</span>
+Japanese,scene_evt211228_cp6_q1_s10,detail,,<span class='scene-font-katari'>ゆっくりと起き上がった</span><br><span class='scene-font-katari'>[플레이어]は周囲を見回すが、</span><br><span class='scene-font-katari'>部屋の中にビィの姿はなかった。</span>
+Japanese,scene_evt211228_cp6_q2_s10,synopsis,,翌朝、ビィの姿が見えず[플레이어]は悪い予感を覚える。すると突如、空から泥の雨が降り注ぐ。雨の向こうには竜の姿のガレヲンがいた。他の六竜達からガレヲンがビィを取り込み暴走していることを聞かされた一行は、六竜達の協力を得てビィを救出しに向かうのだった。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,あ！<br>[플레이어]、おはようございます。<br>疲れは取れましたか？
+Japanese,scene_evt211228_cp6_q2_s10,sel1_txt,,<span class='scene-font-katari'>ビィを見なかった？</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,今朝はまだ……あ、でも今日は一緒に<br>お洗濯をしましょうって<br>約束をしてるんです。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,だからビィさんも、<br>そろそろ甲板に<br>向かってると思いますよ！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,……[플레이어]？<br>なんだか顔色が悪いような……<br>もしかして、まだ具合が……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,え……悪い予感、ですか？<br>それは……
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>胸騒ぎを覚える[플레이어]を見て、</span><br><span class='scene-font-katari'>ルリアも表情を曇らせる。</span><br><span class='scene-font-katari'>ふたりは足早に甲板へと向かった。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（いいお天気！</span><br><span class='scene-font-kokoro'>これなら洗濯物もよく乾きそうね！）</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ねこ,にゃ。
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,猫さん、日向ぼっこできそうで<br>良かったね。
+Japanese,scene_evt211228_cp6_q2_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（洗濯物で遊んじゃダメだからね！）</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ねこ,にゃー
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウグス,もー、ねこじゆーすぎる……<br>ウグスはちゃんとおてつだいする！<br>まかせてシンシャ！
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,ふふ、ありがとうウグス。<br>ムゲンさんもお手伝い<br>ありがとうございます。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ムゲン,きくうてい、おじゃましてるます、から<br>おてつだい、あたりまえ。<br>なにする、よい？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウグス,ウグスも！<br>ウグスもなにしたらいー？
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,それじゃあ、まずは洗濯ひもを……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ネクタル,…………
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,ネクタル……？<br>どうかした？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ネクタル,はい、シンシャ。<br>……失礼します。
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,えっ？
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>ネクタルはシンシャの車椅子の</span><br><span class='scene-font-katari'>ハンドルを握りながら、</span><br><span class='scene-font-katari'>クシナ達へ屋根の下へ入るよう告げる。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（え？ どうして──）</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ねこ,うるるるるぅ……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ムゲン・ウグス,…………！
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>遅れて何かを察知したムゲンは、</span><br><span class='scene-font-katari'>ウグスと視線を交わしクシナと</span><br><span class='scene-font-katari'>ねこを抱き上げて屋根の下へ急ぐ。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,普通の……雨音じゃない……？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ムゲン,これ……ドロ！？
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>甲板へ出てきた</span><br><span class='scene-font-katari'>[플레이어]とルリアも、</span><br><span class='scene-font-katari'>広がる光景に目を見開く。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,<span class='scene-font-4'>泥の雨……！？</span><br>こんなお天気あるんでしょうか……？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ネクタル,いいえ、ルリア殿。<br>上空の島から落ちてきたのだと<br>仮定しても、この量は異常です。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウグス,でも、みわたすかぎり<br>ずーっとドロおちてきてる！<br>なんでなんでー？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ねこ,…………
+Japanese,scene_evt211228_cp6_q2_s10,detail,ムゲン,あれ、みて！
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>ムゲンは降りしきる泥の雨の向こうを</span><br><span class='scene-font-katari'>指さし、[플레이어]は目を凝らして</span><br><span class='scene-font-katari'>そこに在るものを捉えた。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,なにか……すごく、大きいものが……？<br>魔力も、とても……
+Japanese,scene_evt211228_cp6_q2_s10,sel1_txt,,<span class='scene-font-katari'>ガレヲン……！？</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（ガレヲン、って確か、まだ試練を</span><br><span class='scene-font-kokoro'>終わらせていない六竜よね……？）</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ネクタル,ガレヲンは、「土」の元素を生む六竜。<br>もしや、<br>この泥の雨と関係があるのでは。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ムゲン,ええと、これ、もしかして……<br>ガレヲンの、しれん……？
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>困惑する一同の中、目で見る代わりに</span><br><span class='scene-font-katari'>周囲の気配を探っていた</span><br><span class='scene-font-katari'>シンシャが息を飲む。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,待って……どうして、<br>この魔力、これは……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,シンシャさん……？
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,あの、大きなもの……<br>ガレヲンさんの魔力から<br>ビィさんの気配を感じるんです！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,<span class='scene-font-4'>えぇ！？</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,フェディエル,然にあろう！<br>ガレヲンめ、赤の仔竜の力を<br>飲み込みおったぞよ！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,<span class='scene-font-4'>フェディエルさん！？</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,鼎にワムデュス、ル・オーも<br>いらっしゃったぞ！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ムゲン,ビィちから、のんだ……<br>でもまだ、<br>しれんおわってない！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,赤の仔竜の合意なくば「力」の譲渡は<br>発動しないはずなのだがね。<br>何があったのか……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ワムデュス,今そこ、関係ないと思う。<br>問題はこの泥の雨。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,この変なお天気はやっぱり<br>ガレヲンさんが……？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,相違あるまい。<br>滴る泥で赤き地平を<br>溺れさせるつもりなのやもしれん。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,<span class='scene-font-4'>ええっ！？</span><br>そ、それってものすごく沢山の<br>泥の雨が必要なんじゃ……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,今のガレヲンならば可能だろうがね。<br>……とはいえこの様に雑な埋め立て、<br>空の世界に影響が出ない筈もない。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ワムデュス,ざっくり言うと、<br>ウォン暴走してる。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウグス,えー！？ ろくりゅうって、<br>すっごくすっごい<br>ドラゴンなんじゃないのー！？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウグス,なのにぼーそーするの！？
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,仰天、仰天。<br>赤の仔竜が吸い込んできた「力」が<br>それだけ多量だったというわけだ。
+Japanese,scene_evt211228_cp6_q2_s10,detail,フェディエル,それだけではあるまいて。恐らく、<br>空の世界における大地の力の影響が<br>ガレヲンが思うより更に弱いのであろ。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,本来あるべき状態よりも不足している<br>自覚はあっただろうが、<br>これ程までとはね。情けない……
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,あの……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ワムデュス,どした？
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,「力」を渡してしまったビィさんは<br>ご無事なんですか……？
+Japanese,scene_evt211228_cp6_q2_s10,detail,シンシャ,そんなに大きな「力」、<br>元々自分のものではないとしても<br>手放せば後遺症が残るはずです。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,さて。どうなっているものだか……
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>他人事のような口調に、</span><br><span class='scene-font-katari'>[플레이어]は思わず</span><br><span class='scene-font-katari'>ル・オーの襟首を掴む。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,この行動に何の意味があるのか<br>考え給えよ、特異点。我等六竜は<br>事態に対処しようとしている。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,そして少なくとも、ガレヲンは<br>強制的に赤の仔竜から<br>「力」を奪ったわけでは──
+Japanese,scene_evt211228_cp6_q2_s10,detail,シエテ,はいはーい！ そこまでそこまで！！
+Japanese,scene_evt211228_cp6_q2_s10,detail,シエテ,[플레이어]ちゃん、<br>ビィくんが心配なのはわかるけど<br>ちょっと落ち着こう。
+Japanese,scene_evt211228_cp6_q2_s10,detail,シエテ,助けられるものも助けられなくなる<br>っていうのは<br>間違いじゃないだろうしね。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,[플레이어]……
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>寄り添うルリアから気遣われ、</span><br><span class='scene-font-katari'>[플레이어]はル・オーから</span><br><span class='scene-font-katari'>手を放して一歩下がる。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,シエテ,いい子だね。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,はてさて、急を要するな！<br>泥の雨が空の世界を埋め尽くす前に<br>ガレヲンを止めなくては。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,今の有様を未だ眺め尽くしていない。<br>このままにはしておけん！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ワムデュス,んー……泥は水混じりだから。<br>ちょっと干渉できる。たぶん。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,我々は泥の雨への対処だろうね。<br>その間に根本的な原因を<br>排除しなくてはならないが。
+Japanese,scene_evt211228_cp6_q2_s10,detail,フェディエル,まぁ、まず間違いなく<br>ガレヲンはあの器の中に赤の仔竜ごと<br>「力」を取り込んでいるのであろ。
+Japanese,scene_evt211228_cp6_q2_s10,detail,フェディエル,器の中へ入り込み、<br>赤の仔竜を切り離せば<br>後はガレヲン自身がなんとかするぞよ。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,器の中か……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ワムデュス,元素どうしがケンカするから、<br>ワムたちはウォンの中に<br>入るとやばい。
+Japanese,scene_evt211228_cp6_q2_s10,sel1_txt,,<span class='scene-font-katari'>僕がビィを助けに行く！</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,フェディエル,そうなるであろうな！<br>赤の仔竜もまた、<br>特異点の番であるが故。
+Japanese,scene_evt211228_cp6_q2_s10,detail,ウィルナス,合点、合点。<br>泥の雨を鼎とワムデュスが散らし、<br>騎空艇が進む道を作りやがろう！
+Japanese,scene_evt211228_cp6_q2_s10,detail,ル・オー,準備が必要ならば急いで用立て給え、<br>特異点。<br>早ければ早い方がこちらも都合はいい。
+Japanese,scene_evt211228_cp6_q2_s10,detail,,<span class='scene-font-katari'>[플레이어]は頷き、</span><br><span class='scene-font-katari'>手早く仲間達の配置と</span><br><span class='scene-font-katari'>騎空艇の進路を定める。</span>
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,ビィさん……
+Japanese,scene_evt211228_cp6_q2_s10,detail,ルリア,今助けに行きますから、<br>待っていてくださいね……！
+Japanese,scene_evt211228_cp6_q3_s10,synopsis,,[플레이어]、ルリア、シエテ、ウグスがガレヲンの中に入り、ビィを連れ帰ることに。六竜達が泥の雨を遮る中、騎空艇でガレヲンの口に接近し、[플레이어]達はガレヲンの体内へと突入する。[플레이어]は一刻も早くビィを救出すべく駆け出すのだった。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ガレヲン,…………
+Japanese,scene_evt211228_cp6_q3_s10,detail,,<span class='scene-font-katari'>泥の雨の中、巨躯の六竜は</span><br><span class='scene-font-katari'>島々の狭間に佇む。</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,シエテ,うーん、一応動く様子はないけど……
+Japanese,scene_evt211228_cp6_q3_s10,detail,ル・オー,いずれ赤の仔竜の「力」への<br>適合が進めば動き始めるだろう。<br>標的は幽世の存在だろうが……
+Japanese,scene_evt211228_cp6_q3_s10,detail,シエテ,あの大きさじゃ、<br>歩きながらぶつかられたら小島なんか<br>空の底へ真っ逆さまだよねぇ……
+Japanese,scene_evt211228_cp6_q3_s10,detail,ネクタル,ガレヲンは現在停止していますが、<br>ビィ殿の力を御した暁には<br>動き出すことでしょう。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ネクタル,ガレヲンがいつ、それを可能とするのか<br>読めない以上、出来る限り早くビィ殿を<br>摘出・保護すべきです。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ムゲン,ガレヲン、でっかい。<br>たとえば、くちから<br>はいれる、おもう。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ムゲン,かまれる、あぶない。<br>だからムゲン、ガレヲンのくち<br>あける、させる！
+Japanese,scene_evt211228_cp6_q3_s10,detail,ルリア,私は[플레이어]と一緒に<br>ビィさんを助けに行きます！
+Japanese,scene_evt211228_cp6_q3_s10,detail,シエテ,じゃ、俺もそっちで。<br>逃げる時のために騎空艇は<br>ガレヲンのそばにいてほしいし……
+Japanese,scene_evt211228_cp6_q3_s10,detail,シエテ,ガレヲンが動いた時のために、<br>ムゲンとネクタルには<br>騎空艇で警戒を頼むね。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ネクタル,承知。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウグス,はーい！ はいはーい！！<br>ウグスは[플레이어]と<br>いっしょいくー！
+Japanese,scene_evt211228_cp6_q3_s10,detail,シンシャ,ウグスと私は、魔力で繋がっていて<br>離れていてもお話ができるんです。
+Japanese,scene_evt211228_cp6_q3_s10,detail,シンシャ,何かあった時に連絡が取れますし、<br>ウグスも一緒に連れて行ってください、<br>[플레이어]さん。
+Japanese,scene_evt211228_cp6_q3_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（勝手な行動しないで、ちゃんと</span><br><span class='scene-font-kokoro'>[플레이어]さんの言うこときくのよ）</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウグス,だいじょぶだいじょぶー！<br>わかってるから！
+Japanese,scene_evt211228_cp6_q3_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（本当かしら……）</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウグス,ウグスより、<br>ねこわかってないとおもう！
+Japanese,scene_evt211228_cp6_q3_s10,detail,ルリア,あれ？ そういえば猫さんは……
+Japanese,scene_evt211228_cp6_q3_s10,detail,シンシャ,さっきまで一緒だったんですけど、<br>騎空艇の中に戻ったみたいです。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウグス,はー……<br>ねこじゆー……
+Japanese,scene_evt211228_cp6_q3_s10,detail,ネクタル,猫が甲板から滑り落ちれば大事。<br>身の安全を自ら守っているのなら<br>十分役目は果たしている。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウグス,そーかなー……
+Japanese,scene_evt211228_cp6_q3_s10,detail,フェディエル,さてさて、特異点よ！<br>準備はできたのかや？
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウィルナス,泥の雨といえど速度を上げ<br>ぶち当たれば騎空艇を壊し得る！
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウィルナス,鼎達が飛沫を留める間に<br>突入しやがるのだぞ！
+Japanese,scene_evt211228_cp6_q3_s10,detail,ルリア,はいっ！<br>よろしくお願いします！
+Japanese,scene_evt211228_cp6_q3_s10,detail,ル・オー,ワムデュス、始め給え。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ワムデュス,いいよー
+Japanese,scene_evt211228_cp6_q3_s10,detail,ガレヲン,…………
+Japanese,scene_evt211228_cp6_q3_s10,detail,ワムデュス,特異点、いってらー
+Japanese,scene_evt211228_cp6_q3_s10,detail,,<span class='scene-font-katari'>ガレヲンへの対処のため</span><br><span class='scene-font-katari'>騎空艇を離れた六竜を見送り、</span><br><span class='scene-font-katari'>[플레이어]達も出立する。</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,ルリア,…………っ！
+Japanese,scene_evt211228_cp6_q3_s10,detail,,<span class='scene-font-katari'>口元へと突貫した騎空艇を</span><br><span class='scene-font-katari'>ガレヲンの牙が噛み砕こうとするが──</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,ムゲン,<span class='scene-font-4'>うぉおおおおおおおお！！</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,ネクタル,<span class='scene-font-4'>[플레이어]殿！</span><br><span class='scene-font-4'>ご武運を！</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,,<span class='scene-font-katari'>ムゲンが支えている間に、</span><br><span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>ガレヲンの体内へと突入した。</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,シエテ,身体の中、と言っても<br>洞窟みたいな感じだね。<br>生物とは違うってことかな。
+Japanese,scene_evt211228_cp6_q3_s10,detail,ルリア,[플레이어]、<br>足元が滑りますし<br>気を付けて進みま……
+Japanese,scene_evt211228_cp6_q3_s10,detail,,<span class='scene-font-katari'>注意を促すルリアの言葉が</span><br><span class='scene-font-katari'>終わるよりも早く、</span><br><span class='scene-font-katari'>[플레이어]は駆け出す。</span>
+Japanese,scene_evt211228_cp6_q3_s10,detail,ウグス,<span class='scene-font-4'>あー！？</span><br>[플레이어]、まってー！
+Japanese,scene_evt211228_cp6_q3_s10,detail,シエテ,気が逸って危なっかしいなぁ。<br>追いかけよう、<br>ルリアちゃん！ ウグス！
+Japanese,scene_evt211228_cp6_q3_s10,detail,ルリア,<span class='scene-font-4'>はいっ！</span>
+Japanese,scene_evt211228_cp6_q4_s20,synopsis,,ガレヲンの体内を進んでいると、ウグスが強い魔力を感知する。その方向へ向かうと、ビィのような形をした巨大な泥の塊を見つける。中にビィがいるかもしれない、と泥を切り崩そうとすると、泥の竜は一行を感知し攻撃を仕掛けてくる。さらにガレヲンが動き始め、一行はビィを切り離すため、そしてガレヲンを止めるために泥の竜に立ち向かう。
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>ビィの姿を求めて、</span><br><span class='scene-font-katari'>[플레이어]はガレヲンの内側を</span><br><span class='scene-font-katari'>駆ける。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,敵はいないみたいだけど……<br>[플레이어]ちゃん！<br>無茶したら危ないって！
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>制止の声に耳を貸さず</span><br><span class='scene-font-katari'>走る[플레이어]は、</span><br><span class='scene-font-katari'>足元の凸凹に足を取られてしまう。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ウグス,<span class='scene-font-4'>あー！</span><br>[플레이어]ころんだ！
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,だ、大丈夫ですか[플레이어]！？
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>転んだ[플레이어]に</span><br><span class='scene-font-katari'>追いついたルリアが</span><br><span class='scene-font-katari'>立ち上がりやすいよう手を差し伸べる。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,もう、泥だらけですよ！<br>[플레이어]。
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-gray'>あぁ、泥だらけじゃねぇか、</span><br><span class='scene-font-gray'>[플레이어]──</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>泥を拭ってくれるルリアを前に、</span><br><span class='scene-font-katari'>[플레이어]の脳裏を</span><br><span class='scene-font-katari'>古い記憶が過る。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,[플레이어]、<br>そろそろ休憩にしようぜ！
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,剣の訓練ったって、<br>そんなぶっ続けじゃ<br>却って身につかねぇよ。なっ？
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>父を追って旅に出る──</span><br><span class='scene-font-katari'>そう決意した幼い日の[플레이어]は</span><br><span class='scene-font-katari'>剣の修業に励んでいた。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>しかし決意したところで</span><br><span class='scene-font-katari'>幼い子供が急に大人になれる訳ではなく</span><br><span class='scene-font-katari'>[플레이어]は焦るばかりだった。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,一日でも早く親父さんを<br>追いかけたいって気持ちは<br>オイラだって同じだぜ！
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,でもさ、体を壊しちまったら<br>出られる旅にも出られなくなるだろ？
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,……わかってくれたか？
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,あぁ、泥だらけじゃねぇか、<br>[플레이어]！
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,拭ってやるから座れよな！<br>ほら、飲み物も飲んで……
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,……いつか必ず、旅に出ような。
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,親父さんに会うだけじゃなくてさ、<br>色んなところへ行って<br>色んなものを見ようぜ。
+Japanese,scene_evt211228_cp6_q4_s20,sel1_txt,,<span class='scene-font-katari'>一緒に？</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ビィ,一緒に！<br>当たり前だろ？<br>オイラは[플레이어]の相棒だぜ！
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>幼い日に交わした指切りを思い出し、</span><br><span class='scene-font-katari'>[플레이어]は今繋ぐ相手のない</span><br><span class='scene-font-katari'>自分の手を握る。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,[플레이어]。<br>必ず、ビィさんを助け出しましょう！
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>ルリアの言葉に頷き、</span><br><span class='scene-font-katari'>[플레이어]は今度こそ</span><br><span class='scene-font-katari'>探索を開始する。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ウグス,<span class='scene-font-4'>[플레이어]！</span><br>あっち、あっちからなんか<br>すっごいまりょくがながれてくる！
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,あっち……ってことは、<br>胸郭の方かな。<br>ルリアちゃんは何か感じる？
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,ううん、私は……<br>周り全部から魔力というか<br>気配を感じます。
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,周り全部……<br>この体も生物を<br>模してるんだとして……
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,ガレヲンの中を血液みたいに<br>ビィくんの「力」が循環してるなら<br>心臓に当たる場所が怪しいかもね。
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>[플레이어]達は脈打つ岩の</span><br><span class='scene-font-katari'>隙間をこじ開けるようにしながら</span><br><span class='scene-font-katari'>体内を進み心臓を目指す。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,？？？,…………
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,<span class='scene-font-4'>あぁっ！</span><br><span class='scene-font-4'>あれは……！</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ウグス,ビィ！ ……ビィ？
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>岩肌から生えるように佇む</span><br><span class='scene-font-katari'>泥で形作られた巨大なビィに</span><br><span class='scene-font-katari'>[플레이어]は呼び掛ける。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,応えはなし、か……
+Japanese,scene_evt211228_cp6_q4_s20,detail,ウグス,あのなか、ビィがいるのかな？
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,切り崩してみようか。
+Japanese,scene_evt211228_cp6_q4_s20,detail,？？？,…………！
+Japanese,scene_evt211228_cp6_q4_s20,detail,？？？,…………
+Japanese,scene_evt211228_cp6_q4_s20,detail,ウグス,<span class='scene-font-4'>わー！？</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,流石に、抵抗せずに<br>ビィくんを渡してくれたりは<br>しないってわけね……
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,<span class='scene-font-4'>きゃっ！？</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,ルリア,こ、この揺れ……<br>もしかして、ガレヲンさんが<br>動き出したんじゃ……！
+Japanese,scene_evt211228_cp6_q4_s20,detail,ウグス,<span class='scene-font-4'>わー！</span><br>しまが！<br>ちかくのしまがあぶないー！
+Japanese,scene_evt211228_cp6_q4_s20,detail,シエテ,ちょっと手荒になるけど……<br>急ごう[플레이어]ちゃん！
+Japanese,scene_evt211228_cp6_q4_s20,detail,,<span class='scene-font-katari'>ビィを切り離すため、</span><br><span class='scene-font-katari'>そしてガレヲンを止めるため</span><br><span class='scene-font-katari'>[플레이어]は武器を構える。</span>
+Japanese,scene_evt211228_cp6_q4_s20,detail,？？？,<span class='scene-font-4'>…………！</span>
