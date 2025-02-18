@@ -1,0 +1,157 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_fate_chr199_ep1,synopsis,,<span class='scene-font-place'>アルスター島</span>の復興を進めてきたヘルエス。だが彼女は[플레이어]一行を呼び出し、その旅に加わりたいと話す。ヘルエスは議会が元王女である自分に頼りすぎていることを懸念し、それを正すために島を出ようとしていた。以前の恩義を返すためにも[플레이어]に同行したいというヘルエスを一同は仲間として受け入れるのだった。
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>[플레이어]達は以前、旅の途中で</span><br><span class='scene-font-katari'>島を荒らす魔物達に悩む</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>を訪れた。</span>
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'> [플레이어]一行の協力を受け、</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>は</span><br><span class='scene-font-katari'>無事平和を取り戻したのだった。</span>
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>その時に知り合った、</span><br><span class='scene-font-katari'>魔物によって滅んだ王国の王女に</span><br><span class='scene-font-katari'>[플레이어]は呼び出された。</span>
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,よく来てくれました、皆さん。<br>ご足労に感謝します。
+Japanese,scene_fate_chr199_ep1,detail,ルリア,いえ！<br>またヘルエスさんに会えて嬉しいです。<br>あれから島の復興は進んでますか？
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ええ。幸いなことに<br>かつてアイルスト王国があった頃と<br>遜色ない賑わいを見せています。
+Japanese,scene_fate_chr199_ep1,detail,ビィ,そりゃあ良かった！<br>……で、オイラ達に何の用なんだ？<br>また魔物退治か？
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,いえ……貴方がたに頼みたいのは、<br>全く別のことです。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,私を貴方がたの旅へ<br>同行させて頂きたい。
+Japanese,scene_fate_chr199_ep1,detail,ルリア,ええっ！？ どうしてですか？<br>ヘルエスさんはこの島の人達に<br>頼りにされているのに……
+Japanese,scene_fate_chr199_ep1,detail,ルリア,ヘルエスさんが<br>いなくなってしまったら、<br>島の人達が困るんじゃ……？
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,正に、それこそが<br>私が島を出たい理由なのです。
+Japanese,scene_fate_chr199_ep1,detail,ビィ,んん？ どういうことだ？
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,この<span class='scene-font-place'>アルスター島</span>は長く<br>アイルスト王家によって<br>統治されてきました。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,我が父コノール王の失策により、<br>アイルスト王国は<br>魔物によって滅ぼされたわけですが……
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,その後、復興に当たって<br>街や村から有力者を集め方針を話し合う<br>議会を作ったのです。
+Japanese,scene_fate_chr199_ep1,detail,ルリア,だから、お城が会議所って<br>呼ばれるようになったんですね！
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ええ、ここが島の中心として<br>利便性が高い場所にあることは<br>間違いありませんから。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,話を戻しましょう。王家の跡継ぎが<br>国を治めるに足る器を持たない場合、<br>脅かされるのは国民です。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,父の行いによりそれを悟った<br>私と弟は王政を排し、<br>議会を主導してきました。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ですが議会は発足したばかりで<br>経験不足。故にか、皆が私を<br>あまりにも頼りすぎてしまう。
+Japanese,scene_fate_chr199_ep1,detail,ビィ,でもさ、それは当然じゃねぇか？<br>国だなんてドデカいもの、いきなり<br>どうにかしろって言われてもさ。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,勿論、最初はそれで良いのです。<br>誰しも始めは手本を求めるもの。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,しかし、いつまでも<br>そのままにはしておけません。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,彼等も実務能力は充分です。<br>後は経験を積み、判断力を養うだけ。<br>そのために、却って私は邪魔なのです。
+Japanese,scene_fate_chr199_ep1,detail,ビィ,う～ん、厳しいけど<br>島の人のためってことか……
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ええ。<br>私が手を離す時が来た、<br>ただそれだけのことです。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,貴方がたなら信頼が置ける。<br>それに以前の恩義を返したい。<br>私を旅に同行させて頂けませんか？
+Japanese,scene_fate_chr199_ep1,sel1_txt,,<span class='scene-font-katari'>いいよ、一緒に行こう</span>
+Japanese,scene_fate_chr199_ep1,sel2_txt,,<span class='scene-font-katari'>もっと安全な場所がいいんじゃない？</span>
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,感謝します、[플레이어]殿。<br>いや……[플레이어]殿。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,槍の腕には自信があります。<br>空の果てを目指す貴方がたの<br>力となりましょう。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ふふ……
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,実は、他国の依頼で行く<br>遠征以外で島を離れるのは<br>初めてです。
+Japanese,scene_fate_chr199_ep1,detail,ルリア,そうだったんですか？
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,ええ。<br>柄にもなく、気分が高揚します。
+Japanese,scene_fate_chr199_ep1,detail,ビィ,確かに……オイラ達は<br>星晶獣とも戦うしなぁ。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,私の技量が貴方がたに劣る、と？<br>ならばそれは実戦で確かめて下さい。
+Japanese,scene_fate_chr199_ep1,detail,ルリア,ヘルエスさんはとっても<br>頼りになりますけど、どうして<br>そんなに騎空団にこだわるんですか？
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,……私は、貴方がたの自由さに<br>感銘を受けたのです。私は任務以外で<br>島を出たことがありませんから。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,私も、一度は貴方がたのように<br>自由に生きてみたい。<br>そんな風に思ったのです。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,……折れてくれますか、<br>[플레이어]殿。<br>あなたの寛容に感謝します。
+Japanese,scene_fate_chr199_ep1,detail,ヘルエス,解らぬことも多々あるでしょう。<br>ご指導ご鞭撻を<br>よろしくお願いいたします。
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>こうして、亡国の王女</span><br><span class='scene-font-katari'>ヘルエスが騎空団に加わった。</span>
+Japanese,scene_fate_chr199_ep1,detail,,<span class='scene-font-katari'>頼りになる仲間として、</span><br><span class='scene-font-katari'>彼女は[플레이어]達の旅を</span><br><span class='scene-font-katari'>支えてくれることだろう。</span>
+Japanese,scene_chr199_q1_s10,synopsis,,旅の途中、<span class='scene-font-place'>アルスター島</span>へ立ち寄るヘルエスと[플레이어]一行。復興が進む街並みを満足そうに眺めているヘルエスの前に、突然、近衛兵達が押し寄せてくる。元上官であるヘルエスに一目会いたいがために自らの持ち場を離れた兵士達に対して、厳しく難詰するヘルエス。ヘルエスは兵士達の腕を確かめる為、稽古をつける。
+Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>旅の途中、</span><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>へ</span><br><span class='scene-font-katari'>立ち寄る[플레이어]一行。</span>
+Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>ヘルエスは、復興が進む街並みを</span><br><span class='scene-font-katari'>満足そうに眺めていた。</span>
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,素晴らしい……<br>街中に活気が満ち溢れています。
+Japanese,scene_chr199_q1_s10,detail,ルリア,そうですね！<br>前に私達が来たときよりも、<br>人でいっぱいです！
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,やはり、私とセルエルが<br>この国を離れて正解でした。
+Japanese,scene_chr199_q1_s10,detail,ビィ,へへっ……そんなこと言って<br>本当は寂しいんじゃねぇのか？
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,……ん？<br>何が寂しいのです？
+Japanese,scene_chr199_q1_s10,detail,ビィ,だってヘルエス達が治めてた国だぜ？<br>自分達がいなくても順調ってのは、<br>寂しくねぇのか？
+Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>ビィの言葉を受けたヘルエスは、</span><br><span class='scene-font-katari'>意外そうな表情を浮かべた後、</span><br><span class='scene-font-katari'>優しく微笑んだ。</span>
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,ふふ……<br>そんなことはありません。
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,むしろ、貴方がたと旅に出たことが<br>正しかったと証明され、<br>胸のつかえが取れた気分です。
+Japanese,scene_chr199_q1_s10,detail,ビィ,そんなもんかぁ？<br>まぁ、とにかくヘルエスが<br>嬉しそうで良かったぜ！
+Japanese,scene_chr199_q1_s10,detail,,<span class='scene-font-katari'>その時、一行に向かって</span><br><span class='scene-font-katari'>兵士達が押し寄せてきた。</span>
+Japanese,scene_chr199_q1_s10,detail,近衛兵１,あっ……ヘルエス様！<br>こちらにいらしたんですか！
+Japanese,scene_chr199_q1_s10,detail,近衛兵２,何故我々にひと声をかけて<br>くださらないんですか！
+Japanese,scene_chr199_q1_s10,detail,ルリア,わわわっ！<br>兵士さんがたくさん来ました！
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,……驚かせて申し訳ありません。<br>これらは元々、私の直属の<br>近衛隊の兵士でして……
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,それより貴様達……<br>持ち場はどうしたのです？
+Japanese,scene_chr199_q1_s10,detail,近衛兵１,えっ？ 持ち場……ですか？<br>少しぐらい離れても問題ありません！
+Japanese,scene_chr199_q1_s10,detail,近衛兵２,あの頃と違って、<br>街も平和になりました！<br>魔物なんて街の外にしか……
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,この大馬鹿者！！！<br>任務を途中で放棄するとは何事ですか？
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,勝手な自己判断で持ち場を離れるなと<br>あれほど教えたはずですが……<br>貴様達は何も学んでいないようですね。
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,街に……街に魔物の侵入を許して、<br>後悔してからでは遅いのですよ？
+Japanese,scene_chr199_q1_s10,detail,近衛兵１,……は、はいっ。<br>申し訳ありません……
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,私は貴様達を腑抜けに<br>育てた覚えはありません……
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,その様な体たらくで、<br>国家の守りが務まると<br>お思いですか？
+Japanese,scene_chr199_q1_s10,detail,近衛兵２,い、いえ！
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,平和になったのは良いことですが、<br>それを維持するためには<br>心と体を律することが肝要。
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,貴様達の腕が鈍っていないか、<br>私が直々に試してさしあげましょう！
+Japanese,scene_chr199_q1_s10,detail,近衛兵１,よろしくお願いします！
+Japanese,scene_chr199_q1_s10,detail,ヘルエス,良い機会です。<br>お付き合いください、<br>[플레이어]殿！
+English,scene_fate_chr199_ep1,synopsis,,"While overseeing the restoration of Alster Island, Heles calls for [플레이어]'s crew. When they arrive, she asks if she can join their ranks, stating that her continued presence on the island would hinder the progress of the new government."
+English,scene_fate_chr199_ep1,detail,,During their travels [플레이어] and company once stopped at Alster Island. There they discovered a society suffering from frequent monster attacks.
+English,scene_fate_chr199_ep1,detail,,The crew wasted no time in quelling the threat and brought peace back to the island.
+English,scene_fate_chr199_ep1,detail,,"Now they've returned to that very place, summoned by the princess whose kingdom was destroyed by the monsters."
+English,scene_fate_chr199_ep1,detail,Heles,Let me start by expressing my gratitude to all of you for coming here.
+English,scene_fate_chr199_ep1,detail,Lyria,"Not at all! We're happy to see you again, Heles. How's the rebuilding going?"
+English,scene_fate_chr199_ep1,detail,Heles,It's going well. The island is nearly as prosperous as it was back when the Irestill Kingdom still held firm.
+English,scene_fate_chr199_ep1,detail,Vyrn,That's great news! But why did you call us here? Are there more monsters to deal with?
+English,scene_fate_chr199_ep1,detail,Heles,No... I have an entirely different request for you this time.
+English,scene_fate_chr199_ep1,detail,Heles,I wish to accompany you on your journey.
+English,scene_fate_chr199_ep1,detail,Lyria,"What? But why? Heles, your people need you here as their princess!"
+English,scene_fate_chr199_ep1,detail,Lyria,"If you go, won't it leave the citizens of Alster with no one to turn to?"
+English,scene_fate_chr199_ep1,detail,Heles,It would. And that is the very reason I wish to leave this island.
+English,scene_fate_chr199_ep1,detail,Vyrn,Wha? What do you mean?
+English,scene_fate_chr199_ep1,detail,Heles,Alster Island has long been ruled by the Irestill royal family.
+English,scene_fate_chr199_ep1,detail,Heles,"But it was the negligence of my father, King Connor, that resulted in the destruction of Irestill Kingdom."
+English,scene_fate_chr199_ep1,detail,Heles,"As part of the reconstruction effort, we decided to rebuild the government as well, and installed a council composed of local leaders from across the land."
+English,scene_fate_chr199_ep1,detail,Lyria,"Oh, that's why the castle is called the Great Court, right?"
+English,scene_fate_chr199_ep1,detail,Heles,Precisely. The castle's location at the center of the island is the ideal location for the seat of government.
+English,scene_fate_chr199_ep1,detail,Heles,"But returning to the topic at hand. If the throne's successor doesn't possess the faculty to rule the kingdom, then it's the people who will suffer."
+English,scene_fate_chr199_ep1,detail,Heles,"Father exemplified this, so my brother and I renounced our claim to the throne and relinquished all control to the Great Court."
+English,scene_fate_chr199_ep1,detail,Heles,"But the Great Court has only just been created, and its members lack experience. Everyone is overly reliant on me..."
+English,scene_fate_chr199_ep1,detail,Vyrn,"Well, duh! Of course they rely on you! Your country is huge—and you guys just changed your whole government!"
+English,scene_fate_chr199_ep1,detail,Heles,I realize we're in the beginning stages. Even the most talented budding politicians would need an example under these circumstances.
+English,scene_fate_chr199_ep1,detail,Heles,But I can't let the country stagnate and remain in its current form.
+English,scene_fate_chr199_ep1,detail,Heles,The Great Court has plenty of ability. All they need is more experience with decision-making. And that makes me a hindrance.
+English,scene_fate_chr199_ep1,detail,Vyrn,"Um, that's kind of drastic, but if it's for the sake of the people..."
+English,scene_fate_chr199_ep1,detail,Heles,Yes. It's time for me to step away. There is nothing more to say on the matter.
+English,scene_fate_chr199_ep1,detail,Heles,I feel that I can trust you. And I owe you a debt of honor for what you did before. So will you take me with you on your journey?
+English,scene_fate_chr199_ep1,sel1_txt,,Sure! We'd love to have you!
+English,scene_fate_chr199_ep1,sel2_txt,,Shouldn't you be somewhere safer?
+English,scene_fate_chr199_ep1,detail,Heles,"Thank you, [플레이어]. Oh, sorry... Captain."
+English,scene_fate_chr199_ep1,detail,Heles,I'm confident in my abilities. Surely my spear will aid you in your journey to the end of the sky.
+English,scene_fate_chr199_ep1,detail,Heles,Haha...
+English,scene_fate_chr199_ep1,detail,Heles,"To be honest, I haven't actually ever left this island, unless you count political conferences and the like."
+English,scene_fate_chr199_ep1,detail,Lyria,Really?
+English,scene_fate_chr199_ep1,detail,Heles,"Yes... It's very unlike me to act this way, but I'm actually extremely excited to be leaving!"
+English,scene_fate_chr199_ep1,detail,Vyrn,"That's right... We do fight primal beasts and stuff, you know?"
+English,scene_fate_chr199_ep1,detail,Heles,Are you implying that I lack skill compared to you? Very well... Let us find out in open combat.
+English,scene_fate_chr199_ep1,detail,Lyria,"No, that's okay! We know how skilled you are. I guess it's just... Why do you want to be in our crew so badly?"
+English,scene_fate_chr199_ep1,detail,Heles,Your freedom has left a deep impression on me. Especially since I've never left the island of my own will.
+English,scene_fate_chr199_ep1,detail,Heles,"I'd like to experience that freedom, if only for a short time. That's why I want to join your crew!"
+English,scene_fate_chr199_ep1,detail,Heles,"Please accept my allegiance, [플레이어]. I truly appreciate your generosity."
+English,scene_fate_chr199_ep1,detail,Heles,"I have a lot to learn, so please teach me all you can."
+English,scene_fate_chr199_ep1,detail,,"Thus Heles, the princess of a ruined kingdom, joins the crew."
+English,scene_fate_chr199_ep1,detail,,"She quickly becomes a trusted ally of [플레이어] and the others, as they continue their journey across the sky."
+English,scene_chr199_q1_s10,synopsis,,"While visiting Alster Island, Heles and the crew are approached by some of Heles's former royal guard. She scolds them for abandoning their posts and then tests their skills in a mock fight."
+English,scene_chr199_q1_s10,detail,,"At Heles's request, the crew stops by Alster Island to check on its reconstruction progress."
+English,scene_chr199_q1_s10,detail,,"She walks through the streets, surveying the rebuilding efforts with satisfaction."
+English,scene_chr199_q1_s10,detail,Heles,Wonderful... The town is bustling once again!
+English,scene_chr199_q1_s10,detail,Lyria,It sure is! There are way more people here than the last time we visited!
+English,scene_chr199_q1_s10,detail,Heles,It seems that Seruel and I were right to leave the country.
+English,scene_chr199_q1_s10,detail,Vyrn,"Heh-heh... Maybe, but doesn't it make you a little sad?"
+English,scene_chr199_q1_s10,detail,Heles,Huh? Why would I be sad?
+English,scene_chr199_q1_s10,detail,Vyrn,"Well, this is the country you and your brother used to rule, right? Isn't it a bummer that it's doing so well without you?"
+English,scene_chr199_q1_s10,detail,,"Heles looks a little surprised at first, but then she smiles warmly."
+English,scene_chr199_q1_s10,detail,Heles,Haha... Of course not!
+English,scene_chr199_q1_s10,detail,Heles,"Actually, I'm happy that joining your crew was the right choice. I can rest easy now!"
+English,scene_chr199_q1_s10,detail,Vyrn,"You don't say! Well, as long as you're happy!"
+English,scene_chr199_q1_s10,detail,,The crew is suddenly approached by a group of guards.
+English,scene_chr199_q1_s10,detail,Royal Guard 1,Your Highness! There you are!
+English,scene_chr199_q1_s10,detail,Royal Guard 2,Why didn't you inform us that you'd be visiting?
+English,scene_chr199_q1_s10,detail,Lyria,Wow! That's a lot of soldiers!
+English,scene_chr199_q1_s10,detail,Heles,"I'm sorry to surprise you, Lyria. These soldiers were once members of my personal guard."
+English,scene_chr199_q1_s10,detail,Heles,What are you troops doing away from your post?
+English,scene_chr199_q1_s10,detail,Royal Guard 1,"Oh, our posts? It's fine for us to leave from time to time!"
+English,scene_chr199_q1_s10,detail,Royal Guard 2,"The town is much more peaceful nowadays! No monsters ever come in, and—"
+English,scene_chr199_q1_s10,detail,Heles,You irresponsible fools! Shirking your duty like that is a punishable offence!
+English,scene_chr199_q1_s10,detail,Heles,"How dare you abandon your assignments! I thought I taught you better, but it seems that you learned nothing."
+English,scene_chr199_q1_s10,detail,Heles,"If monsters attack the town, your apologies won't bring anyone's children back!"
+English,scene_chr199_q1_s10,detail,Royal Guard 1,"Yes, ma'am... My deepest apologies..."
+English,scene_chr199_q1_s10,detail,Heles,I don't recall training such fools to be my guardsmen...
+English,scene_chr199_q1_s10,detail,Heles,Do you think you can protect the kingdom if you act so carelessly?
+English,scene_chr199_q1_s10,detail,Royal Guard 2,"No, ma'am!"
+English,scene_chr199_q1_s10,detail,Heles,"It's good that the kingdom is peaceful now, but it takes tireless effort to safeguard that peace!"
+English,scene_chr199_q1_s10,detail,Heles,I'd better test you to make sure your fighting skills aren't as rusty as your sense of duty!
+English,scene_chr199_q1_s10,detail,Royal Guard 1,"Yes, ma'am!"
+English,scene_chr199_q1_s10,detail,Heles,"This is a good chance to test ourselves as well! Please help me, [플레이어]!"
