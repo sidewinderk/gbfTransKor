@@ -1,0 +1,197 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt210303_cp5_q1_s10,synopsis,,[플레이어]達が神経接続した機神達は、長い時間をかけてついに月に接近する。イルザの号令に合わせ、グロウノス、アリアネンサ、セスラカは月への着陸を開始。同時に月にある敵の拠点から攻撃が開始され、静寂の中で戦いが始まるのだった。
+Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,Confirm target approach.
+Japanese,scene_evt210303_cp5_q1_s10,detail,그로우노스,Target approach confirmed.
+Japanese,scene_evt210303_cp5_q1_s10,detail,アリアネンサ,Target approach confirmed.
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]達が</span><br><span class='scene-font-katari'>その心を宿した機神が</span><br><span class='scene-font-katari'>闇に飛び込み、長い時間が過ぎて。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>機神達が月の接近を告げた。</span><br><span class='scene-font-katari'>空の世界から見上げるよりも、</span><br><span class='scene-font-katari'>はるかにそれは大きく見えた。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,Cross-checking distance<br>to landing zone.<br>Over.
+Japanese,scene_evt210303_cp5_q1_s10,detail,그로우노스,Affirmative.
+Japanese,scene_evt210303_cp5_q1_s10,detail,アリアネンサ,Affirmative.
+Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,No data abnormalities detected.<br>Landing sequence can proceed<br>as planned.
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ１,軌道修正 マイナス3。
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ２,作戦識別A2E<br>第1ルートを維持、<br>以後226秒間安定します。
+Japanese,scene_evt210303_cp5_q1_s10,detail,イルザ,よし。現時刻をもって<br>フェーズセブンへ移行。<br>着陸シーケンスを開始せよ。
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ２,<span class='scene-font-gray'>了解。</span><br><span class='scene-font-gray'>月面着陸シーケンス開始。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ３,<span class='scene-font-gray'>ブースターユニットと</span><br><span class='scene-font-gray'>シーラーコンテナを分離します。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]の耳には、</span><br><span class='scene-font-katari'>拠点でのやりとりと、艇の固定部材が</span><br><span class='scene-font-katari'>外れゆく伝導音が同時に聞こえていた。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ１,<span class='scene-font-gray'>最終ブースターとの分離、</span><br><span class='scene-font-gray'>および投下準備完了。</span><br><span class='scene-font-gray'>カウントダウン開始。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ２,<span class='scene-font-gray'>シーラー各機、</span><br><span class='scene-font-gray'>着陸に備えて最終確認されたし。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,オペレータ３,<span class='scene-font-gray'>アルファ、ブラヴォ、</span><br><span class='scene-font-gray'>ゴルフ、いずれも異常なし。 </span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,イルザ,<span class='scene-font-gray'>これより、月面への侵攻を開始する！</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,イルザ,<span class='scene-font-gray'>シーラー全機、突入せよ！</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,イルザ,<span class='scene-font-gray'>……頼んだぞ、お前達。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>各機に組み込まれた</span><br><span class='scene-font-katari'>自動推進制御は間もなく終了する。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>灰色の月面が視界一杯に広がっていた。</span><br><span class='scene-font-katari'>ここからならば、自動推進に任せずとも</span><br><span class='scene-font-katari'>着地は可能だろう。そう思える程近く。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>月面に無数の光が灯った。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,Enemy fire incoming.<br>Damage to the hull projected<br>to be minimal.
+Japanese,scene_evt210303_cp5_q1_s10,detail,セスラカ,Engage evasive maneuvers?<br>Y/N
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>機神から問われ、</span><br><span class='scene-font-katari'>[플레이어]は即座に「回避不要」と</span><br><span class='scene-font-katari'>返答する。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>まばたき１回にも満たぬ時間での</span><br><span class='scene-font-katari'>やりとりを経て、機神達は視覚入力部を</span><br><span class='scene-font-katari'>腕で保護しながら降下する。</span>
+Japanese,scene_evt210303_cp5_q1_s10,detail,,<span class='scene-font-katari'>機体に響く伝導音を除けば</span><br><span class='scene-font-katari'>なにも聞こえぬ静寂の中、</span><br><span class='scene-font-katari'>戦いは始まっていた。</span>
+Japanese,scene_evt210303_cp5_q2_s20,synopsis,,アイザックとω３は、月の拠点で[플레이어]達を観察していた。月に無事着陸した[플레이어]達は空の世界と異なる環境に戸惑いながらも、襲い来る無人機を迎撃するのだった。
+Japanese,scene_evt210303_cp5_q2_s20,detail,アナウンス,<span class='scene-font-gray'>光学兵器照射。</span><br><span class='scene-font-gray'>敵機体、損害確認できず。</span>
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,……さすがにレーザーなんか<br>ものともしないなあ。
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,そうだねぇ……<br>昔の人は壊れない兵器を<br>造る気だったみたいだ……
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,でも、見えるよぉ……<br>機神はぜーんぶ、壊れるねぇ……
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,ああ。君達からすれば、<br>重装甲の機神は動きが鈍すぎる。<br>大した脅威にはならないだろう。
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,そうかぁ……<br>だから君は、<br>これから提案するんだねぇ……？
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,え？ ああ。<br>僕が切り出す前に<br>見ちゃったのか。
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,うん。見えたよぉ……<br>君に相談される未来が……<br>大丈夫。許可は下りるからねぇ……
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,そうか。<br>じゃあ、遠慮なくやらせてもらうよ。
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,コストを無駄にしなくて済むねぇ……<br>資源の組み立てにも<br>エネルギーを使うから……ら……
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,ら……ら……ら……らっ……<br>ああ……っう……
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,……エルド？
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,あぁーぁ……たまにね、<br>干渉しちゃうんだ。<br>君のノイズに……
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,ほら君。幽世の肉を食べたよねぇ……<br>あれが、僕の意識に<br>ノイズを送ってくるみたいで……
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,あ……ああ。あれか……<br>すまないね……
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,すまないねぇ……<br>すまないよぉ……
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,さっさと捨てろよその体。
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,…………！
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,じゃあ僕は……<br>君の提案を、<br>上に申請してくるねぇ……
+Japanese,scene_evt210303_cp5_q2_s20,detail,エルド,ノイズ……ノノのいっ……<br>あぅかっっ……ううー……<br>ういっ、幽世ぉ～……
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,…………
+Japanese,scene_evt210303_cp5_q2_s20,detail,レイベリィ,肝が冷えるな。
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,ああ。彼が何を見てるのか、さっぱり<br>判らないからね……僕のプライバシーは<br>守られてるのかいないのか……
+Japanese,scene_evt210303_cp5_q2_s20,detail,アナウンス,<span class='scene-font-gray'>敵機体、まもなく着陸します。</span>
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,……さて。次のプランといくか。<br>まずは……
+Japanese,scene_evt210303_cp5_q2_s20,detail,レイベリィ,無人機で迎撃か？
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,ビンゴだ、相棒。
+Japanese,scene_evt210303_cp5_q2_s20,detail,レイベリィ,了解した。
+Japanese,scene_evt210303_cp5_q2_s20,detail,アナウンス,<span class='scene-font-gray'>敵機、レーザー照射角から外れました。</span><br><span class='scene-font-gray'>オペレーター・レイベリィの要請承認。</span><br><span class='scene-font-gray'>無人機アの１号から順次出撃します。</span>
+Japanese,scene_evt210303_cp5_q2_s20,detail,アイザック,これで向こうはどう出てくるかな。
+Japanese,scene_evt210303_cp5_q2_s20,detail,レイベリィ,見物といこうか。
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,これが月、か……<br>砂漠か荒野と変わらんように見える。
+Japanese,scene_evt210303_cp5_q2_s20,detail,イルザ,<span class='scene-font-gray'>旅行で胸躍らせている時間など<br><span class='scene-font-gray'>１秒もないぞ。アイザックとの<br><span class='scene-font-gray'>合流地点へ急げ。
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,了解。
+Japanese,scene_evt210303_cp5_q2_s20,detail,グウィン,えー……っと。すいません、動く熱源が<br>結構あります。[플레이어]の<br>索敵結果と二重判定もとむ。
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,ふむ。グウィンと<br>[플레이어]で相違ないか。
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,マキラ。機体は俺のが<br>一番頑丈だったはずだな。
+Japanese,scene_evt210303_cp5_q2_s20,detail,マキラ,<span class='scene-font-gray'>あ、はい。</span><br><span class='scene-font-gray'>グロウノスは一番重いですし。</span><br><span class='scene-font-gray'>たぶん間違いないです。</span>
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,縦列でいくか。<br>俺が先頭、[플레이어]が最後尾、<br>グウィンは間に入れ。
+Japanese,scene_evt210303_cp5_q2_s20,detail,グウィン,了解っす。
+Japanese,scene_evt210303_cp5_q2_s20,detail,グウィン,……あの、てか、<br>ふたりとも、歩きづらくないっすか？<br>自分だけです？
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,同じくだ。ふわふわとして妙な感じだ。<br>勇んで乗り込んできたはいいが、<br>慣れるのに時間が必要だな。
+Japanese,scene_evt210303_cp5_q2_s20,detail,無人機,────……
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,あの機械どもを片付けて、<br>慣らし運転といくか。
+Japanese,scene_evt210303_cp5_q2_s20,detail,アリアネンサ,Enemy scan complete.
+Japanese,scene_evt210303_cp5_q2_s20,detail,アリアネンサ,Armament: weak. Durability: weak.<br>Threat level: trivial.<br>Combat risk is negligible.
+Japanese,scene_evt210303_cp5_q2_s20,detail,グウィン,アリアネンサもアレは脅威じゃないって<br>言ってますけど、<br>縦列のままでいきますか？
+Japanese,scene_evt210303_cp5_q2_s20,detail,バザラガ,ああ。隊列は崩すな。
+Japanese,scene_evt210303_cp5_q2_s20,detail,グウィン,了解です。
+Japanese,scene_evt210303_cp5_q3_s10,synopsis,,無人機が出て来た穴から敵の拠点に侵入した[플레이어]達。するとスピーカーを通じてアイザックが語りかけてくる。アイザックの無事を喜んだ一行だったが、アイザックは自分の任務が「データ収集と機神の回収である」とにべもなく告げる。アイザックが月に認められるため、皆を騙していたとわかり絶句する一行。そこに現れたのは、カシウスの姿をした大勢の「何か」だった。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アナウンス,<span class='scene-font-gray'>交戦結果を報告します。</span><br><span class='scene-font-gray'>派遣した無人機、大部分が撃墜。</span><br><span class='scene-font-gray'>全機撃墜のおそれがあります。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,……機神は型落ちだなんて言うけど、<br>ずいぶん高性能じゃないか。
+Japanese,scene_evt210303_cp5_q3_s10,detail,レイベリィ,だが、月の防衛に向かんのは<br>確かだな。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,そうなの。<br>侵略勢力は数で攻めてくるように<br>なったから。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,いたのか、ファナ。<br>こんな所で寄り道していて<br>いいのかい？
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,我慢できなくなっちゃった。<br>いいかしら？
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,……筋肉と神経は傷つけないでくれよ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,はぁい。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,それじゃ、いただきます。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,<span class='scene-font-4'>ぐ……！</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,美味しい……<br>ねえ、アイザックの腕って<br>どうしてこんなに美味しいの？
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,……さあ、僕に聞かれてもね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,栄養は支給食で十分なのに。<br>もっと食べたくなっちゃうの。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,帰還者は食べたら駄目？
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,駄目だよ。<br>まだ検討が終わってないんだ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,あの脳、美味しそう。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,あれは貴重なマスターだよ……<br>我慢してくれ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,分解漕に浸けるまでの辛抱ね。<br>いつ廃棄するの？
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,ちょっと読めないけど……<br>あと、２～３年はかかるよ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,ファナ,じゃあ、すぐね。<br>楽しみにしてるわ。<br>ごちそうさま。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,どういたしまして。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,…………
+Japanese,scene_evt210303_cp5_q3_s10,detail,レイベリィ,新しい包帯と、鎮痛剤だ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,悪いね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,レイベリィ,よく耐えられるな。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,……まあ、<br>痛みといっしょに気分は晴れるよ。<br>次の作戦の事もあるしね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,レイベリィ,無人機の戦闘データを元に、<br>各サンプルの比較検証に入るか。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,ああ。[플레이어]達のおかげで<br>全部いっぺんに済ませられる。<br>助かるね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,というわけで、<br>カの８号から17号まで出撃準備だ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,？？？,────……
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,<span class='scene-font-4'>おおっ！</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,えーっと、今ので最後っぽいです。
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,了解した。
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,あの機械が出てきた穴から<br>敵の拠点に侵入できるか？
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,ちょいお待ちを。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アリアネンサ,Activating locator.
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>アリアネンサの手から光る糸が伸び、</span><br><span class='scene-font-katari'>機械達の現れた穴へと</span><br><span class='scene-font-katari'>吸い込まれていく。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アリアネンサ,Updating map data.
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,……いけますね。<br>あそこから入りましょう。
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>光の軌跡をたどって、</span><br><span class='scene-font-katari'>一行は月面に口をあけた</span><br><span class='scene-font-katari'>洞窟へと向かう。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,セスラカ,Hull damage 99.89% repaired.
+Japanese,scene_evt210303_cp5_q3_s10,detail,그로우노스,All damage incurred in previous skirmish repaired.
+Japanese,scene_evt210303_cp5_q3_s10,detail,アリアネンサ,Locator recharged. Ready for redeployment.
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>時折流れる</span><br><span class='scene-font-katari'>機神達のやりとりを聞きながら、</span><br><span class='scene-font-katari'>砂埃をたてて歩んでいく。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>不気味な静寂の中、一行は</span><br><span class='scene-font-katari'>洞窟へと踏み込んだ。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,ここに、カシウスとアイザック、<br>レイベリィがいるんですね……
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,[플레이어]、グウィン。<br>奪還を焦るなよ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,ええ。月の企みの調査もありますし<br>機神を壊されないよう<br>気をつけましょう。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アナウンス,<span class='scene-font-gray'>機神の帰還を確認。識別名、</span><br><span class='scene-font-gray'>セスラカ、グロウノス、アリアネンサ。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,[플레이어]일행,…………！
+Japanese,scene_evt210303_cp5_q3_s10,detail,アナウンス,<span class='scene-font-gray'>おかえりなさい。</span><br><span class='scene-font-gray'>収集したデータの共有のため、</span><br><span class='scene-font-gray'>整備区画へと向かっ──</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザックの声,<span class='scene-font-gray'>──やあ、よく来てくれたね。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,アイザックか……！<br>無事だったのだな。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,<span class='scene-font-2'>この声が、アイザック……</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,どこにいる、アイザック。<br>お前とカシウス、レイベリィの<br>居場所を教えろ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザックの声,<span class='scene-font-gray'>それに答える権限がなくてね。</span><br><span class='scene-font-gray'>今の僕に許されているのは、</span><br><span class='scene-font-gray'>君達の迎撃だけなんだ。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,……何を言っている？
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,機関はフォッシルの民が秘めた<br>「可能性」に興味を持っていてね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,その「可能性」によって、君達が<br>機神すら己の力に変えたというデータは<br>大いに参考にさせてもらう。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,あと……僕の任務は実機データ収集と<br>機神の回収なんだけど、<br>さすがに無抵抗で手放す気はないよね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィンの声,<span class='scene-font-gray'>待って。あんた助けを呼んだんじゃ</span><br><span class='scene-font-gray'>なかったの？</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,……初めて聞く声だな。<br>組織の人かい？
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィンの声,<span class='scene-font-gray'>誰だっていいでしょ……！</span><br><span class='scene-font-gray'>あんた達のこと助けるために</span><br><span class='scene-font-gray'>ここまで来たんすけど。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,うん。だから助かったよ。<br>全データの収集と機神の回収、<br>どっちも完遂できそうだからね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィンの声,<span class='scene-font-gray'>助かったって……！</span><br><span class='scene-font-gray'>みんな頑張って、脱出用のポッドまで</span><br><span class='scene-font-gray'>大急ぎで用意したのに！</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,僕達がそのポッドを使って空に？<br>無茶言わないでくれ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィンの声,<span class='scene-font-gray'>は……！？</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,みたとこ耐久性は十分ありそうだけど<br>気密性は怪しいね。<br>急ごしらえだから仕方ないけどさ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,そんなものに入って外に出れば、<br>たちまち窒息して<br>空に着く前にあの世行きだよ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィンの声,<span class='scene-font-gray'>みんなのこと、騙したの……？</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,月に認めてもらうためには、<br>手段を選んでられなくてね。
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザック,そう、認めてもらえなきゃ<br>僕も即座に廃棄されてた。<br>帰って早々リサイクルなんて御免だよ。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,…………！
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザックの声,<span class='scene-font-gray'>君の話は終わりかい？</span><br><span class='scene-font-gray'>それじゃ、データ収集の続きを</span><br><span class='scene-font-gray'>させてもらうよ。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,アイザックの声,<span class='scene-font-gray'>第１陣、向かってくれ。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>アイザックの声に続いて</span><br><span class='scene-font-katari'>複数の足音が響く。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>ややあって、それは回廊の奥から</span><br><span class='scene-font-katari'>聞こえてきた。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,バザラガ,……敵と思しきものが<br>複数向かってきているな。
+Japanese,scene_evt210303_cp5_q3_s10,detail,グウィン,こ、これ……<br>[플레이어]さん、<br>ここに向かってきてるのって！
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>セスラカが表示した情報に</span><br><span class='scene-font-katari'>[플레이어]も目を疑う。</span><br><span class='scene-font-katari'>そこには──</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,セスラカ,敵接近。識別名“カの８号” “カの９号”<br>以下連番で同型素体の合計10体を確認。<br>共通識別名“カシウスシリーズ”。
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>再識別をかけても、</span><br><span class='scene-font-katari'>その内容に変化はない。</span><br><span class='scene-font-katari'>グウィンもまた同様だった。</span>
+Japanese,scene_evt210303_cp5_q3_s10,detail,,<span class='scene-font-katari'>無数の足音は、</span><br><span class='scene-font-katari'>着々とこちらに近づいてきていた。</span>
+Japanese,scene_evt210303_cp5_q4_s20,synopsis,,アイザックが一行にけしかけたのは、カシウスのクローン達だった。空の生活がカシウスに与えた影響を見るため、サンプルであるクローンの性能評価をしているのだ、と告げるアイザック。[플레이어]達はカシウスと同じ姿をしたクローン達と戦うことに躊躇うも、月の思い通りにさせるわけにはいかないと覚悟を決める。
+Japanese,scene_evt210303_cp5_q4_s20,detail,ベアトリクス,ど……どういう事だよ！？<br>「これから複数のカシウスと交戦」<br>って！
+Japanese,scene_evt210303_cp5_q4_s20,detail,グウィン,そ、それが……ああ……ぅ……
+Japanese,scene_evt210303_cp5_q4_s20,detail,イルザ,落ち着け。<br>ここには月側の音声しか届かん。<br>頭を整理して報告しろ。
+Japanese,scene_evt210303_cp5_q4_s20,detail,グウィン,か、カシウスは複製、<br>されてた、みたいで……
+Japanese,scene_evt210303_cp5_q4_s20,detail,ゼタ,はぁ……？<br>複製？ なにそれ？
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザック,言葉通りだよ。<br>彼の肉体と精神を複製して、<br>カシウスの軍隊を作ったんだ。
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザック,いわゆるクローン……<br>君達に馴染みのある言葉で言えば、<br>ホムンクルスを量産したんだよ。
+Japanese,scene_evt210303_cp5_q4_s20,detail,ゼタ,な……<br>なんでそんなこと！
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>説明したはずだよ。</span><br><span class='scene-font-gray'>エージェント・カシウスは空の生活での</span><br><span class='scene-font-gray'>影響を見るためのサンプルだったって。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>この戦闘を通じて評価したくてね。</span><br><span class='scene-font-gray'>彼が経験したことのうち、</span><br><span class='scene-font-gray'>何がどの性能に影響したのかを。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,ゼタ,サンプルだの性能だの、<br>カシウスをモノみたいに！<br>アンタ何言ってんの！？
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>ん……ああ、評価に使うのは<br><span class='scene-font-gray'>全部コピーだから安心してくれ。<br><span class='scene-font-gray'>マスターはちゃんと保管してあるよ。
+Japanese,scene_evt210303_cp5_q4_s20,detail,ゼタ,……いや、アンタ……そういう事<br>言うヤツじゃなかったじゃん……
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザック,…………
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザック,僕は僕のルーツに従った。<br>それだけだよ。
+Japanese,scene_evt210303_cp5_q4_s20,detail,,<span class='scene-font-katari'>回廊の奥から、</span><br><span class='scene-font-katari'>槍を携えた者達が現れる。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,カシウス？,────……
+Japanese,scene_evt210303_cp5_q4_s20,detail,バザラガ,…………
+Japanese,scene_evt210303_cp5_q4_s20,detail,,<span class='scene-font-katari'>その仕草と佇まいは</span><br><span class='scene-font-katari'>一行の知るカシウスそのものであり、</span><br><span class='scene-font-katari'>見知らぬ誰かのようでもあり──</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,グウィン,…………
+Japanese,scene_evt210303_cp5_q4_s20,detail,,<span class='scene-font-katari'>カシウスと特段の交流もなかった</span><br><span class='scene-font-katari'>グウィンでさえ、</span><br><span class='scene-font-katari'>攻撃に躊躇いがあった。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>もしかして、やりづらいかな。</span><br><span class='scene-font-gray'>あとはこっちでやるから、</span><br><span class='scene-font-gray'>機神の制御を手放してくれてもいいよ。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,バザラガ,……生憎、そうもいかん。<br>俺が相手をしよう。
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>単機じゃさすがに検証にならないよ。</span><br><span class='scene-font-gray'>[플레이어]と、もうひとりは</span><br><span class='scene-font-gray'>機神を手放す方向でいいかい？</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,グウィン,自分も、調査があるんで。<br>月はもうひとつ<br>何か企んでるんすよね？
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>……どうかな。</span><br><span class='scene-font-gray'>色んな計画が並行で走ってるから</span><br><span class='scene-font-gray'>なんとも言えないね。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,グウィン,じゃあ、あんたを張っ倒して<br>あとで全部吐いてもらうんで。
+Japanese,scene_evt210303_cp5_q4_s20,detail,アイザックの声,<span class='scene-font-gray'>ああ。是非そうしてくれ。</span>
+Japanese,scene_evt210303_cp5_q4_s20,detail,グウィン,腹立つ……！<br>わざわざここまで来て……！
+Japanese,scene_evt210303_cp5_q4_s20,detail,バザラガ,同感だな。
+Japanese,scene_evt210303_cp5_q4_s20,detail,バザラガ,……連中の思い通りになど、<br>させるものか。
