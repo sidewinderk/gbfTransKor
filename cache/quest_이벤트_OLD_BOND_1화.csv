@@ -1,0 +1,266 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt211228_cp1_q1_s10,synopsis,,[플레이어]達が連れ出されたほんの少し後のこと。シンシャ、ネクタル、クシナ、ウグスは食堂へ向かう途中、見慣れぬ猫が日向ぼっこをしているのを見つける。停泊した島から騎空艇に入り込んでしまったのかも、と[플레이어]に確認しに向かうが、私室に[플레이어]はいない様子。さらに晴れているのにも関わらず雷が鳴り始め、シンシャ達はおかしな天気に首をかしげるのだった。,"[플레이어] 일행이 끌려가고 조금 뒤. 신샤, 넥타르, 쿠시나, 우그스는 식당으로 가다가 낯선 고양이가 햇볕을 쬐고있는 것을 발견한다. 정박한 섬에서 기공정에 들어갔을지도 모르니 [플레이어]에게 확인하러 가지만, 개인실에는 [플레이어]는 없는 것으로 보였다. 거기에, 맑음에도 불구하고 천둥이 치기 시작했고, 신샤 일행은 이상한 날씨에 고개를 갸웃거리는 것이었다."
+Japanese,scene_evt211228_cp1_q1_s10,detail,,<span class='scene-font-katari'>騎空艇の[플레이어]の私室へ</span><br><span class='scene-font-katari'>フェディエルが現れた、</span><br><span class='scene-font-katari'>そのほんの少し後。</span>,<span class='scene-font-katari'>기공정 내 [플레이어]의 방에서 페디엘이 나타난 지 얼마 후의 일이었다.</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,,<span class='scene-font-katari'>順番に朝食を済ませる団員達の中、</span><br><span class='scene-font-katari'>シンシャ、ネクタル、クシナ、ウグスも</span><br><span class='scene-font-katari'>食堂へと向かう支度をしていた。</span>,"<span class='scene-font-katari'>단원들이 차례로 식사를 끝마치는 사이, 신샤와 넥타르, 쿠시나, 우구스도 식당으로 갈 준비를 하고 있었다.</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（これでよし！）</span>,"…………<br><span class='scene-font-kokoro'>(좋아, 다 됐어!)</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,ありがとう、クシナ。<br>髪の毛を整えてもらうの、<br>いつも任せきりでごめんね。,"고마워, 쿠시나. 항상 머리 묶는 거 도와줘서 고마워."
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（ふふ、シンシャの髪をとかすのは</span><br><span class='scene-font-kokoro'>私の特権だもの！）</span>,"…………<br><span class='scene-font-kokoro'>(후후, 신샤의 머리를 묶어주는 건 내 특권인걸!</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（ネクタルにだって譲らないんだから。</span><br><span class='scene-font-kokoro'>どう、今日も可愛くできたでしょ？）</span>,…………<br><span class='scene-font-kokoro'>(넥타르한테도 양보할 수 없어. 어때? 오늘도 귀엽게 됐지?)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,ああ、クシナ。<br>シンシャ、ネクタルは今の髪型が、<br>シンシャに似合うと考えます。,"그래, 쿠시나. 신샤, 넥타르는 지금 그 머리가 신샤에게 어울린다고 생각합니다."
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,ネクタルも、ありがとう。,넥타르도 고마워.
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（さて、そろそろ食堂に行った方が</span><br><span class='scene-font-kokoro'>いいわよね）</span>,…………<br><span class='scene-font-kokoro'>(그럼 슬슬 식당으로 가는 게 좋겠어)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,そうだね。<br>ウグス、毛づくろいできた？,그러게. 우구스. 깃털 정리는 끝났어?
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,ん～……<br>だいじょぶ……,웅... 괜찮아...
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（もう！ 全然大丈夫じゃないわよ！</span><br><span class='scene-font-kokoro'>ほら、背中ポヤポヤじゃない）</span>,…………<br><span class='scene-font-kokoro'>(어휴! 하나도 안 괜찮거든! 이거 봐. 등 쪽이 다 헝클어져 있잖아)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,んー……ウグス、<br>ポヤポヤでもフカフカだから……<br>へーきへーきぃ……,으음... 우구스는 털 헝클어져도 폭신폭신하니까 괜찮아...
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,ふふ、そうだね。<br>ウグスはいつもフカフカだもんね。,"후후, 그러게. 우구스는 늘 폭신폭신하지."
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,そー、フカフカはえらい！<br>ふわぁ……,그래. 폭신폭신한 건 대단해! 후아암...
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,でも、寝ぐせをつけたままだと<br>失礼にあたることもあるから……<br>毛づくろい、ちゃんとしよう？,그치만 제대로 정리하지 않으면 남들한테 실례일 수도 있으니까... 잘 다듬고 가자.
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,ウグス。食事を頂く立場の者が、<br>礼儀に欠けるべきではない。,우구스. 식사를 제공받는 입장이니 예의를 갖추지 않으면 안 돼.
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,美味しいご飯を作ってくれる<br>食堂の人も、だらしなく食べてたら<br>がっかりしちゃうものね。,맛있는 밥을 만들어 주는 식당 분들도 우구스가 깔끔하지 않은 모습으로 먹는 걸 보면 실망하실 거야.
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,うぅ、そっかー……<br>グランサイファーごはん、おいしーから<br>ウグスよりもっとずっとえらいし……,"으, 그런가... 그랑사이퍼에서 주는 밥은 맛있으니까 우구스보다 훨씬 대단해..."
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,ウグス、ねむいけど<br>けづくろいがんばる……,"우구스, 졸리지만 털 정리 열심히 할게..."
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,ウグス、その意気だ。,"우구스, 바로 그 자세다."
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（食堂の人を待たせるのも悪いし……</span><br><span class='scene-font-kokoro'>シンシャ、ウグスを膝に乗せて！）</span>,"…………<br><span class='scene-font-kokoro'>(식당 사람들을 너무 기다리게 하면 미안하니까... 신샤, 무릎에 우구스 태워 줘!)</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,うん！<br>ウグス、私の膝の上で<br>毛づくろいしていて。,응! 우구스. 내 무릎에서 털 정리해.
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,ありがとー、シンシャ。<br>クシナもくるまいすありがとー,고마워~ 신샤. 쿠시나도 휠체어 밀어줘서 고마워~
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（はいはい、眠そうだけど</span><br><span class='scene-font-kokoro'>落ちないように気を付けてよ？）</span>,…………<br><span class='scene-font-kokoro'>(그래 그래. 졸려 보이는데 떨어지지 않게 조심하고)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,はーい。,네~에. 
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,ポヤポヤなおった！ とおもう！<br>シンシャ、さわってみて！,"헝클어진 거 다 폈어! 아마도! 신샤, 만져 봐!"
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,ええと、この辺りかな……？<br>うん、綺麗に羽が揃ってるよ。<br>お疲れ様、ウグス。,"어... 이 근처인가? 응. 깃털 깔끔하게 정리됐다. 수고했어, 우구스."
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,えへー……,에헤...
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,<span class='scene-font-4'>あれ！？</span>,<span class='scene-font-4'>어라?</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,クシナ！<br>くるまいす、とめてとめて！<br>なんかおちてる！！,"쿠시나! 휠체어 멈춰 줘, 멈춰 줘! 뭔가 떨어져 있어!"
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………！？<br><span class='scene-font-kokoro'>（えっ！ どこ、どこ！？）</span>,…………！？<br><span class='scene-font-kokoro'>(뭐? 어디 어디?)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,あれは……敷物……？,저건... 깔개...?
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,敷物？ 洗濯ものが<br>風に飛ばされちゃったとかかな？,깔개? 빨래가 바람에 날려간 걸까?
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,んー……なんかね、けがわ？<br>だとおもう！<br>ウグスたしかめてくる！,음... 뭘까. 털가죽? 인 것 같아! 우구스가 확인해 볼래!
+Japanese,scene_evt211228_cp1_q1_s10,detail,？？？,…………,…………
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,あー！ これ！<br>これしってる！<br>ねこだー！,아! 이거! 이거 알아! 고양이야!
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,ししょのおねーさんにかりた<br>えほんにいた！<br>これはきっと、ねこ！！,책들고 다니는 누님한테 빌렸던 책에 있었어! 이거 분명 고양이야!
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,猫……あ、そっか。<br>[플레이어]さんが<br>飼ってるっていう猫さんかな？,"고양이... 아, 그렇구나. 단장님이 기르고 있다는 고양이인가?"
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………？<br><span class='scene-font-kokoro'>（その子は前に見たことがあるけど</span><br><span class='scene-font-kokoro'>毛色が違うような……？）</span>,"…………？<br><span class='scene-font-kokoro'>(그 아이는 전에 본 적 있는데, 털 색이 달랐던 것 같은데...?)</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,,<span class='scene-font-katari'>ウグスがみつけた猫は、</span><br><span class='scene-font-katari'>シンシャ達が近くで足を止めても</span><br><span class='scene-font-katari'>平気で日向ぼっこを続ける。</span>,<span class='scene-font-katari'>우구스가 발견한 고양이는 신샤 일행이 근처에서 발길을 멈춰도 태연하게 햇빛을 쬐고 있었다.</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ねこ,…………,…………
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,<span class='scene-font-4'>でっかい！</span>,<span class='scene-font-4'>크다!</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,シンシャ。ネクタルにも、<br>[플레이어]殿が飼養している猫とは<br>異なる個体に見えます。,신샤. 넥타르에게도 단장 공이 사육하고 있는 고양이와는 다른 개체로 보입니다.
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,もしかしたら、停泊した島の猫さんが<br>騎空艇に入り込んじゃったのかも……,어쩌면 정박했던 섬의 고양이가 기공정에 올라탄 걸지도...
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,であれば、食糧の勘定に<br>この猫の食餌は含まれていないのでは。<br>航行に支障があるやもしれません。,그렇다면 식량을 계산할 때 이 고양이의 먹이가 포함되어 있지 않았을 텐데요. 여행에 지장이 생길지도 모릅니다.
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,<span class='scene-font-4'>しょくじ！？</span><br>ごはんたりなくなるはダメ！！<br>ぜったいダメなやつ！,<span class='scene-font-4'>밥?</span> 밥 모자라는 건 싫어! 절대 안 돼!
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（食べ物は余裕を持って積んでいるとは</span><br><span class='scene-font-kokoro'>思うけど、確かめた方が無難よね）</span>,"…………<br><span class='scene-font-kokoro'>(음식은 여유있게 적재해 둘 거라고 생각하지만, 확인해 보는 게 좋겠지)</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,そうだね、それじゃあ猫さんと<br>[플레이어]さんの部屋へ行こう。,그러게. 그럼 고양이 씨하고 같이 단장님 방으로 가자.
+Japanese,scene_evt211228_cp1_q1_s10,detail,ねこ,…………,…………
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,むー、はなしきーてない！,우~ 우리 말 들은 척도 안 해!
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（猫って自由ね……）</span>,…………<br><span class='scene-font-kokoro'>(고양이는 자유롭구나...)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,せっかく日向ぼっこしてたのに<br>ごめんね、猫さん。……ネクタル、<br>猫さんを私の膝に乗せてもらえる？,"모처럼 햇빛 쬐고 있었는데 미안해, 고양이 씨. 넥타르... 고양이 씨를 내 무릎으로 올려줄 수 있을까?"
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,はい、シンシャ。,"네, 신샤."
+Japanese,scene_evt211228_cp1_q1_s10,detail,,<span class='scene-font-katari'>ネクタルは猫の傍らに膝をつき、</span><br><span class='scene-font-katari'>もふもふした体に手を伸ばす。</span>,<span class='scene-font-katari'>넥타르는 고양이 곁에 무릎을 꿇더니 복실복실한 몸에 손을 뻗었다.</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ねこ,…………！！,…………！！
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,猫。不法侵入はそちらの方だ。<br>大人しく従ってくれまいか。,고양이. 불법침입한 건 그쪽이다. 얌전히 우리를 따라와 다오.
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（言ってもわからないんじゃない？</span><br><span class='scene-font-kokoro'>よいしょっ……）</span>,…………<br><span class='scene-font-kokoro'>(말해도 못 알아듣는 거 아냐? 영차...)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,わぁ、ずっしり……！<br>よしよし……ふふ、ふわふわだね。,"와아, 묵직하다...! 착하지... 후후. 복실복실하네."
+Japanese,scene_evt211228_cp1_q1_s10,detail,,<span class='scene-font-katari'>クシナの手は拒まず、</span><br><span class='scene-font-katari'>シンシャの膝を占拠した猫は</span><br><span class='scene-font-katari'>撫でられ機嫌良さそうに目を細める。</span>,<span class='scene-font-katari'>쿠시나의 손에는 얌전히 안긴 고양이는 신샤의 무릎을 점령하고 그녀의 손길을 받으며 기분이 좋아진 듯이 눈을 가늘게 떴다.</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,ちぇ～<br>ウグス、シンシャのひざ<br>もっとのってたかった……,치~ 우구스도 신샤 무릎에 더 앉아있고 싶었어...
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（もう目が覚めたでしょ。</span><br><span class='scene-font-kokoro'>ほら、行くわよウグス！）</span>,"…………<br><span class='scene-font-kokoro'>(이제 잠 다 깼잖아? 자, 빨리 가자 우구스!)</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,おはようございます、<br>[플레이어]さん。<br>お部屋にいらっしゃいますか？,"좋은 아침이에요, [플레이어]님. 방에 계신가요?"
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,おはよー！<br>[플레이어]～<br>ごはんいっしょたべよー！,안녕~ [플레이어]! 같이 밥 먹자!
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,……あれー、へんじないね？,...어라? 대답 안 하네?
+Japanese,scene_evt211228_cp1_q1_s10,detail,ネクタル,[플레이어]殿は、<br>既に食堂かもしれません。<br>あちらへ──,[플레이어] 공은 이미 식당에 계실지도 모릅니다. 그쪽으로...
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,<span class='scene-font-4'>きゃっ！</span>,<span class='scene-font-4'>꺄악! </span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,あぁ、びっくりした……<br>雷……？,아... 깜짝 놀랐네. 천둥...?
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（あれ、でもさっきまで</span><br><span class='scene-font-kokoro'>晴れてたのに）</span>,"…………<br><span class='scene-font-kokoro'>(어라, 방금 전까지는 맑았었는데)</span>"
+Japanese,scene_evt211228_cp1_q1_s10,detail,ウグス,いまもはれてる！<br>はれててもカミナリ！,지금도 맑아! 맑은데 천둥 쳐!
+Japanese,scene_evt211228_cp1_q1_s10,detail,クシナ,…………<br><span class='scene-font-kokoro'>（変なお天気……）</span>,…………<br><span class='scene-font-kokoro'>(이상한 날씨네...)</span>
+Japanese,scene_evt211228_cp1_q1_s10,detail,シンシャ,晴れていても雨が降ることは<br>あるらしいのだけど……<br>雷、もあるのかな……？,맑은 날씨에도 비가 오는 일이 있다고 하던데... 천둥도 그런 걸까?
+Japanese,scene_evt211228_cp1_q1_s10,detail,ねこ,…………,…………
+Japanese,scene_evt211228_cp1_q2_s10,synopsis,,[플레이어]達は連れてこられてきた小島の屋台で、人間に化けた六竜達、及び六竜の動きを見張っていたシエテ、ムゲンと顔を合わせる。『朱』ウィルナス、『碧』ワムデュス、『金』ガレヲン、『白』ル・オーと戸惑いながらも交流する[플레이어]達。六竜達は、ある目的のために[플레이어]達を呼び出したようだった。,"[플레이어]들은 끌려온 작은 섬의 포장마차에서 인간으로 변한 육룡 일행 및 및 육룡의 움직임을 감시하던 시에테, 무겐과 만난다. [주] 윌나스, [벽] 웜듀스, [금] 갈레온, [백] 루・오와 어리둥절하면서도 교류하는 [플레이어] 일행.육룡 일행은 어떤 목적을 위해서 [플레이어]을(를) 호출한 것 같았다."
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,…………,…………
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,…………,…………
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>ファータ・グランデ空域内、</span><br><span class='scene-font-katari'>ヒトの駐留域を離れた</span><br><span class='scene-font-katari'>浮力消失点近くの低高度の小島──</span>,"<span class='scene-font-katari'>파타 그랑데 공역 내, 인간의 거주지에서 멀리 떨어진 곳. 부력소실점 근처의 저고도에 작은 섬이 있었다.</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>魔物の影すらない領域で</span><br><span class='scene-font-katari'>傾世没空の呼び水とも目される六竜、</span><br><span class='scene-font-katari'>『白』と『金』が対峙していた。</span>,"<span class='scene-font-katari'>마물의 모습조차 보이지 않는 영역에서 경세몰공*을 불러일으킬 계기라고 일컬어지는 육룡, ""백""과 ""금""이 대치하는 중이었다.</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,やれやれ……<br>少しご機嫌ナナメってだけで<br>空域のあちこちで雷が落ちるとはね。,이런... 기분 좀 나빠진 정도로 공역 여기저기에 천둥이 칠 줄이야.
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,あっちの方にも歩かれたらそれだけで<br>周りの気流に影響が出るし、<br>監視役ってのも楽じゃないなぁ……,어디로 걷기라도 하면 그것만으로 주변 기류에 영향이 가기도 하고. 감시역이라는것도 편하지 않구만...
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,ムゲンもそう思わない？,무겐도 그렇게 생각하지 않아?
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,でっかい……！<br>あれ、しまちがう、ホント？<br>シエテ。,"엄청 커...! 저거, 정말 섬 아냐? 시에테."
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,黄色いのが六竜の『白』ル・オー<br>岩の塊みたいなのが六竜の『金』<br>ガレヲンだね。,"노란 쪽이 육룡 중 ""백""인 루 오, 바위덩어리 같은 쪽이 육룡의 ""금""인 갈레온이야."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,そっか……ろくりゅう。<br>あれも、ドラゴン……,그렇구나... 육룡. 저것도 드래곤...
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,たとえばビィみたい、ちいさいも<br>あんなにでっかいも<br>ドラゴンよぶのは、なんで？,"예를 들면 비이같이 '작다'도, 저렇게 '크다'도 드래곤이라고 불러. 왜?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,ドラゴンってのはつまるところ、<br>とんでもない力を持つ存在を<br>ひっくるめた呼び名だからね。,드래곤이라는 건 즉 엄청난 힘을 가지고 있는 존재를 통틀어 부르는 이름이니까.
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,空の世界では、<br>その身に宿る力が強ければ強い程<br>創世神に姿が似通っていくから……,하늘의 세계에서는 그 몸에 깃든 힘이 강하면 강할수록 창세신의 모습과 비슷해지거든...
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,おっと！,이런!
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,また、ゆれるした！,"또 흔들림, 했어!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,う～ん、足踏みした程度で<br>周囲の島が揺れる、かぁ。,으음... 발을 내딛은 정도로 주변의 섬들이 흔들린단 말이지...
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,ガレヲンが土の元素に与える<br>影響は甚大みたいだけど……,"갈레온이 흙의 원소에 미치는 영향은 엄청난 모양이지만,"
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,こりゃいよいよ<br>六竜討伐に踏み切らないと<br>いけないやつかな～,이래서야 슬슬 육룡 토벌에 나서지 않으면 안 될지도 모르겠다~
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,ムゲン、がんばる。<br>ゆれる、つづくしたら<br>きっとみんなこまるから。,"무겐, 힘낼게. 흔들림, 계속되면 다들 곤란할 거야."
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,そうだねぇ、世界のためにも<br>お兄さん本気出しちゃおっかな～,그렇지. 세계를 위해서 이 형아도 진심을 발휘해야겠는걸~
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,<span class='scene-font-kokoro'>（ムゲンの全力が</span><br><span class='scene-font-kokoro'>どの程度のものなのか測るには</span><br><span class='scene-font-kokoro'>丁度いい、か……）</span>,<span class='scene-font-kokoro'>(무겐이 전력을 다하면 어느 정도인지를 알아보기에 마침 딱 좋겠군...)</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,……ん？,응...?
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,あれは……！,저건!
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,うわっ！？ どこだよここ！？,으아! 여긴 어디야?
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,来たことのない島……ですよね、<br>[플레이어]……？,"와본 적 없는 섬이에요... 그렇죠, [플레이어]?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,フェディエル,惚けておるのかや？<br>早うついて来るぞよ特異点！,"정신이 나가버린 건 아니겠지? 빨리 따라와, 특이점!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,はわわ、押さないでください～！,"하와와, 밀지 마세요~!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,シエテ！ あれ……！,시에테! 저건...
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,……[플레이어]ちゃん！？,...[플레이어]!?
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,それにあれは──<br>あんなところに屋台、あった？,게다가 저건... 저런 곳에 포장마차가 있었나?
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,さっき、まで、ない。<br>……と、おもう。,아까까지 없어. 라고 생각해.
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,ってことは、認識阻害か……<br>気を付けてたつもりだけど、<br>ホント六竜ってのはとんでもないね……,그렇다면 인식 방해인가... 나도 상당히 주의를 기울이고 있었는데 육룡들이란 정말 엄청나구만...
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,ええと、フェディエルさんが<br>私達を連れてきたかったのは<br>この屋台……なんでしょうか？,"저기, 페디엘 씨가 저희를 데려오고 싶었던 곳은 이 포장마차인 건가요...?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,なんも無い、だだっ広い草原に<br>なんだってポツンと<br>屋台なんてあるんだよ……,아무것도 없는 넓은 벌판에 왜 갑자기 이런 포장마차가 있는 거래...
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,<span class='scene-font-4'>あぁっ！？</span><br>見てください！ あれ！！,<span class='scene-font-4'>아!?</span> 저기 보세요! 저기!
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>草原に佇む屋台へと連れてこられた</span><br><span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>ルリアが指さす上空へ目を向ける。</span>,<span class='scene-font-katari'>초원에 덩그러니 놓인 포장마차로 안내받은 [플레이어]는 루리아가 가리키는 쪽의 하늘을 바라보았다.</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,あれは六竜のル・オー……<br>それにガレヲンまで！,저건 육룡 중 루 오... 그리고 갈레온도 있어요!
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,なんなんだ、この島……！？,이 섬은 대체 뭐지...?
+Japanese,scene_evt211228_cp1_q2_s10,detail,フェディエル,特異点、何を突っ立っておるのかや？<br>椅子があるであろ、<br>腰を掛けるぞよ。,특이점. 왜 가만히 서 있는 거야? 의자가 있잖아. 앉도록 해.
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,ま、待ってくれ！<br>本当に全く<br>状況が読めねぇっていうか……！,"자, 잠깐만! 진짜 무슨 상황인지 전혀 모르겠는데...!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>出来た！ 出来たぞ！！</span>,<span class='scene-font-4'>다 됐다! 다 됐어!</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>うわっ！？</span>,<span class='scene-font-4'>으아!?</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,あぁ、びっくりした……<br>急にでっけえ声出さないでくれよ！,"까, 깜짝 놀랐네... 갑자기 큰 소리를 내면 어떡해!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,おぉ、よくぞいらっしゃった！<br>座れ座れ、餌は出来たてを<br>召し上がるものである！,"오, 잘 왔다! 앉아 앉아. 먹이란 금방 만든 걸 먹어야 제맛이지!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,え、えっと、お邪魔します……？,"저, 저기... 실례합니다...?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,んー……どぞ。,응... 여기 앉아.
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>屋台の主らしき男に促された</span><br><span class='scene-font-katari'>[플레이어]達に、</span><br><span class='scene-font-katari'>少女がベンチの端へ寄り席を空ける。</span>,"<span class='scene-font-katari'>포장마차의 주인으로 보이는 남자가 [플레이어] 일행에게 자리를 권하자, 소녀가 벤치 끝으로 옮겨가며 자리를 만들어 주었다.</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,ありがとうございます！,감사합니다!
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,くるしゅうない。,신경쓸 거 없어. 
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,くるしゅうは、ないけど<br>お腹すいた……,신경쓸 건 없지만 배 고파...
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,暫し、暫し！<br>むしゃぶりつくならば<br>揃ってが良しだ！,"기다려라, 기다려! 달려들어 먹으려면 다 같이 모여서 먹어야지!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>主人らしき男は鍋とフライ返しを</span><br><span class='scene-font-katari'>打ち鳴らしながら屋根の下から出て</span><br><span class='scene-font-katari'>声を張り上げる。</span>,<span class='scene-font-katari'>주인으로 보이는 남자가 냄비와 뒤집개로 요란한 소리를 내며 포장마차 밖으로 나가더니 크게 소리질렀다.</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,<span class='scene-font-4'>ガレヲン！ ル・オー！</span><br><span class='scene-font-4'>飯時となった！</span><br><span class='scene-font-4'>召し上がりに戻れ！！</span>,<span class='scene-font-4'>갈레온! 루 오! 밥 먹을 시간이다! 먹으러 와라!</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ガレヲン,…………,…………
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,…………,…………
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,あれ、ガレヲンとル・オーの姿が<br>消えちゃいました……ね……？,"어라, 갈레온하고 루 오의 모습이 사라졌...네요?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,来臨。<br><span class='scene-font-kokoro'>（お邪魔しましょう）</span>,내림.<br><span class='scene-font-kokoro'>(실례합니다)</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>不意に姿を現した女性は、</span><br><span class='scene-font-katari'>[플레이어]の隣に腰を下ろすと</span><br><span class='scene-font-katari'>覗き込むように顔を近づける。</span>,<span class='scene-font-katari'>갑자기 모습을 드러낸 여자가 [플레이어] 곁에 앉더니 관찰하려는 듯이 얼굴을 가까이 들이댔다.</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,祝福。<br><span class='scene-font-kokoro'>（ともあれ、特異点へ祝福を）</span>,축복.<br><span class='scene-font-kokoro'>(여하튼 특이점에게 축복을)</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>身を引く暇もあらばこそ、</span><br><span class='scene-font-katari'>女性は[플레이어]の額へ</span><br><span class='scene-font-katari'>口づけた。</span>,"몸을 피할 사이도 없이, 여자는 [플레이어]의 이마에 입을 맞췄다."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,<span class='scene-font-4'>ああー！？</span>,<span class='scene-font-4'>에!?</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,<span class='scene-font-4'>な、な、なんで……っ！！</span>,"<span class='scene-font-4'>어, 어째서...!</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,僥倖。<br><span class='scene-font-kokoro'>（ご足労に感謝しましょう、</span><br><span class='scene-font-kokoro'>蒼の娘よ、赤の仔竜よ）</span>,"요행.<br><span class='scene-font-kokoro'>(먼 길을 와 주셔서 감사합니다. 푸른 소녀, 붉은 용이여)</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>泡を食っているルリアの額にも、</span><br><span class='scene-font-katari'>そして続いてビィの額へも</span><br><span class='scene-font-katari'>女性は口づけを贈る。</span>,"여자는 당황을 감추지 못하는 루리아의 이마에, 그리고 비이의 이마에도 입을 맞췄다."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,<span class='scene-font-4'>はわ……！</span>,<span class='scene-font-4'>하와....!</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,<span class='scene-font-4'>うわぁっ！？</span>,<span class='scene-font-4'>으아!?</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,重畳。<br><span class='scene-font-kokoro'>（こうして対面出来たことを</span><br><span class='scene-font-kokoro'>嬉しく思っています）</span>,중첩.<br><span class='scene-font-kokoro'>(이렇게 만나뵙게 되어 반갑습니다)</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,な、なんなんだこの姉ちゃん！？<br>なんか、声も耳に聞こえるのと<br>頭に入ってくるのが違う気がするし……,"이, 이 누님은 뭐야? 뭐랄가, 귀로 들리는 목소리랑 머리에 들어오는 목소리가 다른 느낌이 드는데..."
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,んん？ 何やって……,응? 뭘 하는 거ㅈ...
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,こそこそしていないで、<br>君達もこちらへ来給え。,숨어서 엿보지 말고 너희도 이쪽으로 와라.
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,っ……！,...!
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,いつ、のまに……！？,어느 새...!?
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-katari'>突如かたわらへ姿を現した青年に</span><br><span class='scene-font-katari'>身構える暇もなく、シエテとムゲンは</span><br><span class='scene-font-katari'>青年の魔力に飲み込まれた。</span>,"<span class='scene-font-katari'>갑자기 곁에 나타난 청년을 미처 경계할 사이도 없이, 시에테와 무겐은 청년의 마력 속으로 빨려들어갔다.</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,あいたた……<br>ちょっと運び方が乱暴じゃない！？,아야야... 옮겨주는 방식이 좀 난폭하지 않아?
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,あれ！？ シエテ！？<br>それにムゲンも……<br>なんでここにいるんだよ！,어? 시에테! 거기다 무겐까지... 왜 여기에 있는 거야?
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,いや、この人……いや、人じゃないか。<br>とにかくご招待されちゃってさ～,"그게, 이 사람... 아니지, 사람이 아닌가? 아무튼 초대를 받았거든~"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,こちらも、コソコソと<br>嗅ぎ回られていい気はしないのでね。<br>いっそ同席し給えよ。,이쪽으로서도 슬금슬금 눈치보며 돌아다니는 건 썩 기분이 좋지 않거든. 차라리 동석하시지.
+Japanese,scene_evt211228_cp1_q2_s10,detail,ムゲン,ええと……おじゃま、します……？,"어... 실례, 합니다...?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,応、応！<br>よくぞ来やがったな！<br>ワムデュス！ オヒヤを頼む。,"그래, 그래! 잘 왔다! 웜듀스! 물 좀 부탁하지."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ワムデュス,いいよー,알았어.
+Japanese,scene_evt211228_cp1_q2_s10,detail,,<span class='scene-font-spword'>『ワムデュス』</span><span class='scene-font-katari'>と呼ばれた少女が</span><br><span class='scene-font-katari'>軽く指を振ると、名々の前へ</span><br><span class='scene-font-katari'>氷で出来たグラスが現れた。</span>,"<span class='scene-font-katari'>""웜듀스""라고 불린 소녀가 가볍게 손가락을 튕기자 모든 일행 앞에 얼음으로 만들어진 컵이 나타났다.</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ワムデュス,どぞー,자~
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,あ、ありがとうございます……？<br>あの、今「ワムデュス」って……,"가, 감사합니다...? 어라? 지금 ""웜듀스""라고..."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ワムデュス,うん。<br>ワムはワムだよ。,응. 웜은 웜이야.
+Japanese,scene_evt211228_cp1_q2_s10,detail,シエテ,ってことは……他の人達もみんな、<br>六竜が人間に化けた姿……<br>ってことだよね。,그렇다는 말은... 다른 사람들도 다 육룡이 인간화된 모습이라는 거겠네.
+Japanese,scene_evt211228_cp1_q2_s10,detail,フェディエル,この六竜の『黒』、フェディエルの<br>在り方を眺めれば、自明の理であろ？,"이 육룡의 ""흑""인 페디엘의 모습을 보았다면 자명한 이치이지 않나?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,ヒトの姿を取ったとは言え、<br>そうもヒトに軽々しく交わるのも<br>どうかと思うのだがね。,인간의 모습을 빌렸다고는 하나 인간들과 그렇게 쉽게 얽히는 것은 어떤가 싶군.
+Japanese,scene_evt211228_cp1_q2_s10,detail,フェディエル,目が覚めたというのに<br>身を隠すなど、無駄極まりないぞよ！,"이미 눈을 떴으면서 몸을 숨기다니, 그야말로 쓸데없는 짓이기 그지없지!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,？？？,然り、然り。<br>今の空の有様、実に興味深い！,"그래, 그래. 이 하늘의 모습은 실로 흥미로워!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ウィルナス,六竜の『朱』ウィルナスは<br>ヒトが己の求むところを成し<br>空を移ろわせる姿を好ましく思う！,"육룡의 ""주"", 윌나스는 인간들이 스스로 원하는 바를 이루고 하늘을 바꿔나가는 것을 흐뭇하게 여긴다! "
+Japanese,scene_evt211228_cp1_q2_s10,detail,ガレヲン,金竜。<br><span class='scene-font-kokoro'>（六竜の『金』、ガレヲンも、</span><br><span class='scene-font-kokoro'>ウィルナスに同意しましょう）</span>,"금룡.<br><span class='scene-font-kokoro'>(육룡의 ""금"", 갈레온도 윌나스에게 동의합니다)</span>"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ガレヲン,賞賛。<br><span class='scene-font-kokoro'>（この空の世界で生きる全ての命に</span><br><span class='scene-font-kokoro'>幸いあれ。無論、特異点にも）</span>,찬성.<br><span class='scene-font-kokoro'>(이 하늘의 세계에 살아가는 모든 생명에게 축복이 함께하기를. 물론 특이점에게도)</span>
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,六竜の『白』、光のル・オーとしても<br>ヒトの生き抜く意志の強さを<br>認めぬわけにはいかないだろうね。,"육룡의 ""백"", 빛의 루 오로서도 인간들의 살아남기 위한 의지가 얼마나 강한지는 인정하지 않을 수 없겠지."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,その貪欲がいずれ自らだけでなく<br>空をも飲み込むこともまた、<br>警戒せずにはいられないが。,그 탐욕이 언젠가 자신들뿐만 아니라 하늘마저도 집어삼킬 것이라는 것 또한 경계해야만 하겠지만.
+Japanese,scene_evt211228_cp1_q2_s10,detail,ワムデュス,ルオ、これでもヒトほめてる。,루오는 지금 인간들 칭찬하는 거야.
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,お、おう……？<br>そうなのか……？,"어, 어어...? 그런 거야?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,フェディエル,所謂、素直でないという質ぞよ。<br>面倒なことよな。,요컨대 솔직하지 못한 성격이라는 거다. 성가신 일이지.
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,私を脚色し、都合の良い解釈を<br>流布しないで貰いたいのだがね……,날 각색시켜 제멋대로인 해석을 유포하는 건 삼가줬으면 한다만...
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,あれ？ フェディエルさん、<br>ワムデュスさん、ウィルナスさん、<br>ガレヲンさん、ル・オーさん……,"어라? 페디엘 씨, 웜듀스 씨, 윌나스 씨에 갈레온 씨, 루 오 씨..."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ルリア,これで５人ですよね。<br>最後のひとり……<br>六竜の『翠』は……？,"이걸로 다섯 분이시죠. 마지막 한 분, 육룡의 ""취""는 어디 계신가요...?"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,イーウィヤは風の気ままな気質故、<br>不在なのだよ。,이위야는 바람처럼 제멋대로인 기질이라 여기에 없다.
+Japanese,scene_evt211228_cp1_q2_s10,detail,ウィルナス,集まる義務がある訳でなし、<br>空を駆け己の楽しみを<br>探してやがるだろう！,모여야 하는 의무가 있는 것도 아니니 하늘을 가르며 자신의 즐거움을 찾아내는 것도 좋겠지!
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,わざわざ呼びだして、<br>オイラ達を歓迎してくれてるっぽいのは<br>解るけど……,일부러 불러내서 우리를 환영해 주고 있다는 건 알겠는데...
+Japanese,scene_evt211228_cp1_q2_s10,detail,ビィ,アンタ達、何考えてやがんだ？<br>なにせ暴れてるとこばっか見てきたから<br>警戒しちまうぜ……,"당신들, 무슨 생각인 거야? 지금까지 신나게 날뛰는 것만 봐 왔으니까 경계하게 되는걸..."
+Japanese,scene_evt211228_cp1_q2_s10,detail,ウィルナス,道理、道理。<br>顕現直後の振る舞いは<br>怪しまれるのも当然か！,"당연해, 당연하지! 현현 직후에 그런 행동을 했으니 의심받는 것도 당연해!"
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,目覚めの契機となった特異点に<br>挨拶のひとつもなくば<br>礼を失するだろう？,눈을 뜨게 된 계기인 특이점과 인사 하나도 나누지 않으면 실례이지 않겠나?
+Japanese,scene_evt211228_cp1_q2_s10,detail,ル・オー,勿論、それだけではないが──,물론 그뿐만은 아니다만...
+Japanese,scene_evt211228_cp1_q2_s10,detail,ガレヲン,…………,…………
+Japanese,scene_evt211228_cp1_q3_s10,synopsis,,六竜達は、自分達が世界の形を保つ圧であること、今の空の世界は本来想定された姿をしておらず、創世神が作った世界にはもっと多くの水や大地があるはずだったことを説明する。世界の歪みを正すために[플레이어]とビィを招いたというル・オーの言葉に、首をかしげるビィ。ル・オーはビィに、「我等の元へ下り給え」と告げるのだった。,"육룡 일행은 자신들이 세계의 형태를 유지하는 압력이라는 것, 지금의 하늘 세계는 본래 상정된 모습을 하고 있지 않으며, 창세신이 만든 세계에는 더 많은 물과 대지가 있었음을 설명한다. 세계의 왜곡을 바로잡기 위해 [플레이어]를 불렀다는 르・오의 말에 고개를 갸우뚱하는 비이. 르・오는 비이에게 ""우리에게 오라""고 말하는 것이었다."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,…………,…………
+Japanese,scene_evt211228_cp1_q3_s10,detail,ビィ,な、なんだよ……！,"그, 그 눈빛은 뭔데...!"
+Japanese,scene_evt211228_cp1_q3_s10,detail,ウィルナス,剣呑、剣呑。<br>好ましからざるぞ！,"험악하구만, 험악해! 그래서야 상대가 좋아할 리 있겠나!"
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,ぐむっ……,크윽...
+Japanese,scene_evt211228_cp1_q3_s10,detail,,<span class='scene-font-katari'>ビィを冷たく見下ろしていた</span><br><span class='scene-font-katari'>ル・オーの肩を掴み、ウィルナスが</span><br><span class='scene-font-katari'>強制的に席へ座らせる。</span>,<span class='scene-font-katari'>윌나스는 비이를 차갑게 내려다보고 있던 루 오의 어깨를 붙잡아 강제로 자리에 앉혔다.</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,ワムデュス,ケンカしにきたんじゃない。<br>ルオはたいど悪い。,싸우러 온 거 아냐. 루오 태도 나빠.
+Japanese,scene_evt211228_cp1_q3_s10,detail,ルリア,ケンカじゃないんですね……！<br>なら良かったです！,싸우는 게 아닌 거군요... 그럼 다행이네요!
+Japanese,scene_evt211228_cp1_q3_s10,detail,ルリア,リンドヴルムさんから<br>聞いた話だと、また戦うことに<br>なるかもと思ってたので……,린드블룸 씨한테 이야기를 들었을 때는 다시 싸우게 될지도 모른다고 생각했거든요...
+Japanese,scene_evt211228_cp1_q3_s10,detail,ビィ,リンドヴルムって真龍は、<br>アンタらが目覚めたら<br>空の世界が危ないって言ってたけど……,린드블룸이라는 진룡은 당신들이 깨어나면 하늘의 세계가 위험하다고 하던데...
+Japanese,scene_evt211228_cp1_q3_s10,detail,ガレヲン,道理。<br><span class='scene-font-kokoro'>（リンドヴルムの見解にも</span><br><span class='scene-font-kokoro'>一理あります）</span>,도리.<br><span class='scene-font-kokoro'>(린드블룸의 견해에는 일리가 있습니다)</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,フェディエル,此方らは世界が形を保つための圧、<br>空の元へ元素を生む楔。<br>創世の根幹である故に。,"우리는 세계가 형태를 유지하기 위한 압력, 이 하늘에 원소를 생성시키는 쐐기. 창세의 근간이기에."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ビィ,んん……？<br>そりゃ、どういう意味だ？,응...? 그게 무슨 뜻인데?
+Japanese,scene_evt211228_cp1_q3_s10,detail,ワムデュス,んー……泡は、丸いでしょ。<br>あれは水の圧がかかって丸くなってる。<br>空の世界が泡、ワムたちは水。,"음... 거품은 둥글잖아? 그건 물의 압력이 가해져서 둥글어지는 거야. 하늘의 세계는 거품, 우리들은 물. "
+Japanese,scene_evt211228_cp1_q3_s10,detail,ガレヲン,定義。<br><span class='scene-font-kokoro'>（創世の神が世界を形作った瞬間から、</span><br><span class='scene-font-kokoro'>世界の形を保つ理として私達が在る）</span>,정의.<br><span class='scene-font-kokoro'>(창세신이 세계를 만들어낸 순간부터 세계의 형태를 유지하기 위한 이치로서 우리가 존재합니다)</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,ガレヲン,波及。<br><span class='scene-font-kokoro'>（元素を生み出す私達の一挙手一投足が</span><br><span class='scene-font-kokoro'>世界へ大きな影響を与えます）</span>,파급.<br><span class='scene-font-kokoro'>(원소를 생성시키는 저희 일거수일투족이 세계에 거대한 영향을 끼치죠)</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,フェディエル,とはいえ此方達もまた、<br>世界の有様から<br>影響を受けるぞよ。,그렇다고는 하지만 우리 또한 세계의 모양에 영향을 받아.
+Japanese,scene_evt211228_cp1_q3_s10,detail,ガレヲン,相互。<br><span class='scene-font-kokoro'>（こうして今特異点と語り合う人格は</span><br><span class='scene-font-kokoro'>正にその影響より生まれ出でしもの）</span>,상호.<br><span class='scene-font-kokoro'>(이렇게 지금 특이점과 이야기하는 인격이 바로 그 영향을 받아 만들어진 것이니까요)</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,ウィルナス,少なくとも鼎は今ある空の姿を<br>好んでいるのでな！<br>赤一色に染めようとは思わん！,적어도 나는 지금 이 하늘의 모습이 마음에 든다! 붉은색으로 전부 물들이고 싶지는 않아!
+Japanese,scene_evt211228_cp1_q3_s10,detail,ウィルナス,ヒトの子の文化は実に興味深い。<br>燃え盛り焼き尽くす火を弱め、<br>様々に利用し文脈を与えやがった。,인간들의 문화는 실로 흥미롭지. 불타오르며 모든 것을 태우는 불을 약하게 만들어 다양하게 이용하며 문맥을 부여해 왔다.
+Japanese,scene_evt211228_cp1_q3_s10,detail,ウィルナス,<span class='scene-font-4'>特にこの料理！</span><br>微に入り細を穿つ妙技よ、<br>天晴、天晴。,"<span class='scene-font-4'>특히 이 요리!</span> 실로 섬세한 기술이 아닐 수 없어. 훌륭해, 훌륭해!"
+Japanese,scene_evt211228_cp1_q3_s10,detail,ワムデュス,空に生きてる命、<br>けっこーがんばってるよ。<br>えらいえらい。,하늘을 살아가는 생명들은 꽤 노력하고 있어. 대단해.
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,……まぁ、否定するつもりはない。<br>この歪んだ世界で生き延びたことには<br>敬意を払おう。,"...뭐, 부정할 생각은 없다. 이 일그러진 세계에서 살아남은 것에 경의를 표하지."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ルリア,歪んだ世界……ですか？<br>この空の世界が……,일그러진 세계... 인가요? 이 하늘의 세계는...
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,空の世界は<br>本来想定された姿をしていないのだよ。<br>これは創世の神による不手際だ。,하늘의 세계는 본디 상정되었던 모습이 아냐. 이건 창세신에 의한 실수다.
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,世界を形作る際に異物を取り除けず、<br>或いは在るべき楔を除外し、<br>よくぞ今の形に安定したものだ……,"세계를 형성할 때 이물질을 제거하지 못했고, 있었어야 할 쐐기도 제거된 채인데 잘도 이런 형태로 안정시켰다고 평할 수 있겠군."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ムゲン,あるべき……？,"있었어야, 할...?"
+Japanese,scene_evt211228_cp1_q3_s10,detail,ワムデュス,もっと水はたくさんあるし、<br>もっと地面もたくさんあった。<br>はず。,"물이 훨씬 더 많았어야 했고, 땅도 훨씬 더 많았어야 했어."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ガレヲン,不斉。<br><span class='scene-font-kokoro'>（けれどそのどちらも、</span><br><span class='scene-font-kokoro'>大きく制限されてしまった……）</span>,부제.<br><span class='scene-font-kokoro'>(하지만 양쪽 다 크게 제한되어 버리고 말았죠...)</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,ガレヲン,憐憫。<br><span class='scene-font-kokoro'>（このみすぼらしき世界で</span><br><span class='scene-font-kokoro'>生きる哀れな子等へ、祝福を）</span>,연민.<br><span class='scene-font-kokoro'>(이 빈약한 세상에서 살아가는 가여운 아이들에게 축복을)</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,,<span class='scene-font-katari'>ひざまずいたガレヲンは、</span><br><span class='scene-font-katari'>島の地面へ口づける。</span>,<span class='scene-font-katari'>무릎을 꿇은 갈레온은 땅에 입을 맞추었다.</span>
+Japanese,scene_evt211228_cp1_q3_s10,detail,ワムデュス,おおむね、ワムたちは<br>ヒトの味方。<br>安心していーよ。,우리는 대충 인간들 편이야. 안심해도 돼.
+Japanese,scene_evt211228_cp1_q3_s10,detail,シエテ,ヒトの味方、ねぇ……,인간들 편이라...
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,とはいえ、世界の歪みは<br>正されなければならない。,그렇다고는 하나 세계의 뒤틀림을 바로잡아야만 한다.
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,その為にフェディエルを通じ<br>君を招いたのだよ、特異点。<br>そして赤の仔竜……,"그러기 위해 페디엘을 통해 너희들을 초대했지. 특이점, 그리고 붉은 용이여..."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ビィ,オイラ……？<br>[플레이어]だけに<br>用があるってんじゃねぇのか……？,나...? [플레이어]한테만 용건 있는 거 아니었어?
+Japanese,scene_evt211228_cp1_q3_s10,detail,ル・オー,単刀直入に言おう。<br>赤の仔竜、<br>我等の元へ下り給え。,"단도직입적으로 말하마. 붉은 용, 우리에게 넘겨다오."
+Japanese,scene_evt211228_cp1_q3_s10,detail,ビィ,<span class='scene-font-4'>……はぁ！？</span>,<span class='scene-font-4'>...뭐!?</span>
+Japanese,scene_evt211228_cp1_q4_s10,synopsis,,六竜によれば、ビィは極めて特異な『器』であり、旅する中で世界に散らばる力を蓄えてきたという。その力を譲り受け、世界の歪みを正したいと述べるガレヲンとル・オー。その後ウィルナスとフェディエルの提案により、[플레이어]がビィの力を賭けた六竜の試練を受けることに。最初の試練を受け持つフェディエルが課した試練は、「デートを見せること」だった。,"육룡에 의하면, 비이는 지극히 특이한 「그릇」이며, 여행하는 가운데 세계에 흩어진 힘을 길러 왔다고 한다. 그 힘을 물려받아 세계의 왜곡을 바로잡겠다고 말하는 갈레온, 르·오. 그 후 윌나스와 페디엘의 제안에 의해, [플레이어]가 비이의 힘을 건 육룡의 시련을 받게 된다. 첫 번째 시련을 맡은 페디엘이 내린 시련은 데이트 보여주기였다."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,下りたまえ……<br>って、そりゃどういう意味だ？,넘겨달라니... 그게 무슨 뜻인데?
+Japanese,scene_evt211228_cp1_q4_s10,detail,,<span class='scene-font-katari'>警戒心を強めた[플레이어]は</span><br><span class='scene-font-katari'>怪訝な顔をするビィを</span><br><span class='scene-font-katari'>引き寄せ抱きしめる。</span>,<span class='scene-font-katari'>경계심이 발동한 [플레이어]는 이해가 안 간다는 표정의 비이를 잡아당겨 껴안았다.</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,ウィルナス,悪しからず、悪しからず。<br>睨みつけることもあるまい、<br>ル・オー,"진정하게, 진정해. 루 오, 그렇게 노려볼 거 없잖나."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,…………,…………
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,赤の仔竜。<br>君に自覚はないかもしれないが、<br>君は極めて特異な<span class='scene-font-spword'>『器』</span>なのだよ。,... 붉은 용.네게는 자각이 없을지도 모르지만 너는 극히 특이한 <span class='scene-font-spword'>『그릇』</span>이다.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,器……？,그릇...?
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,空を巡る旅の中で、<br>君は世界に散らばる力を<br>身の内に蓄えてきたのだ。,"하늘을 구석구석 여행하는 사이, 너는 세계에 흩어진 힘을 그 몸 안에 축적해 왔다."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,えっ……？,뭐...?
+Japanese,scene_evt211228_cp1_q4_s10,detail,ガレヲン,不随。<br><span class='scene-font-kokoro'>（貴方自身はその力を行使することは</span><br><span class='scene-font-kokoro'>叶わぬようですが……）</span>,불수.<br><span class='scene-font-kokoro'>(당신이 그 힘을 직접 행사하는 것은 불가능한 모양이지만...)</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,ガレヲン,闕乏。<br><span class='scene-font-kokoro'>（私達は、その力を譲り受け</span><br><span class='scene-font-kokoro'>成したいことがあるのです）</span>,궐핍.<br><span class='scene-font-kokoro'>(우리는 그 힘을 인수받아 이루고 싶은 것이 있습니다)</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,先程も述べた通り、この世界は<br>本来あるべき姿から歪んでしまった。,아까도 말했지만 이 세계는 원래 계획된 모양에서 일그러지고 말았다.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,私とガレヲンは、その歪みを<br>正すべきだと考えている。,나와 갈레온은 그 일그러짐을 바로잡아야 한다고 생각한다.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ガレヲン,調伏。<br><span class='scene-font-kokoro'>（大地を占拠する幽世の者達は、</span><br><span class='scene-font-kokoro'>滅ぼすべき存在です）</span>,조복.<br><span class='scene-font-kokoro'>(대지를 점거한 유세의 망령들은 사라져야만 할 존재들입니다)</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,幽世……,유세...
+Japanese,scene_evt211228_cp1_q4_s10,detail,ルリア,前に、ビィさんと私の力が<br>幽世の存在に<br>狙われたことがありましたよね……,예전에 저와 비이 씨의 힘을 유세의 존재들이 노린 적이 있었죠...
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,星晶獣を召喚できるルリアはともかく<br>なんでオイラを、って思ってたけど……,"성정수를 소환할 수 있는 루리아는 그렇다치고, 왜 날 노리나 했었는데..."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,幽世の連中も、六竜と同じで<br>オイラの中の「力」ってのを<br>欲しがってたのか……？,"유세 녀석들도 육룡들처럼 내 안에 있는 ""힘""이라는 걸 원한 거였어...?"
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,十分に考えられるだろうね。,충분히 생각할 수 있는 일이군.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,世界がどうとかはわからねぇけど、<br>幽世の連中には散々ひでぇ目に<br>あわされてきたし……,"세계가 어쩌고 하는 건 모르겠지만, 유세 녀석들에겐 그동안 이런저런 꼴을 많이 당했으니..."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,オイラには使えねぇってんなら、<br>その「力」を譲ってやったって<br>構やしねぇけど。,"내가 쓸 수 없는 거라면 그 ""힘""이라는 걸 넘겨줘도 상관없을 거 같은데."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ガレヲン,僥倖──<br><span class='scene-font-kokoro'>（それは何より──）</span>,요행.<br><span class='scene-font-kokoro'>(그거 다행이군요)</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,ウィルナス,<span class='scene-font-4'>待て、待て。</span><br>そう急くな、ル・オー、ガレヲン。,"<span class='scene-font-4'>기다리게, 기다려.</span> 그렇게 서두르지 마. 루 오, 갈레온."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ウィルナス,世界の楔たる鼎達が、<br>求めるからとただ一方的に得るのも<br>搾取というもの。,세계의 쐐기인 우리들이 가지고 싶다 해서 일방적으로 취하는 행위는 착취가 되는 거야.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ガレヲン,報奨。<br><span class='scene-font-kokoro'>（対価を渡すことが必要、</span><br><span class='scene-font-kokoro'>というわけですか？）</span>,보장.<br><span class='scene-font-kokoro'>(대가를 넘겨줘야 할 필요가 있다는 뜻인가요?)</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,赤の仔竜の力を賭けた試練を<br>特異点に与えるというのはどうかえ？,붉은 용의 힘을 걸고 특이점에게 시련을 부여하는 건 어떨까?
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,特異点の力、改めて己が眼にて<br>見極めるのも一興であろ？,특이점의 힘을 우리 눈으로 다시금 확인하는 것도 하나의 흥 아니겠어?
+Japanese,scene_evt211228_cp1_q4_s10,detail,ウィルナス,成程、成程。悪くない。<br>先立っての寝惚け眼での戦いでは<br>正しく特異点と対峙したとは言えまい！,"그렇구만, 그래. 나쁘지 않아. 잠이 덜 깬 눈으로 보았던 예전의 싸움에서는 특이점과 제대로 대치했다 말하기 힘드니 말이지!"
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,ワムデュス、ル・オー、ガレヲン。<br>異論は無かろうよな？,웜듀스、루 오、갈레온. 이견은 없겠지?
+Japanese,scene_evt211228_cp1_q4_s10,detail,ワムデュス,ワム的にはいいよ。,웜은 괜찮아.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ガレヲン,認可。<br><span class='scene-font-kokoro'>（特異点の承認が得られるのなら</span><br><span class='scene-font-kokoro'>私もその形で構いません）</span>,인가.<br><span class='scene-font-kokoro'>(특이점의 승인을 얻을 수 있다면 그 형태로도 좋습니다)</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,君達が意見を揃えているのなら、<br>敢えて反対を唱える意味も<br>なかろう。,너희들의 의견이 이미 모아졌다면 굳이 반대해 봤자 의미가 없겠지.
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,決まったな。<br>であれば先鋒は<br>此方が務めるとするぞよ。,정해졌군. 그럼 선봉은 내가 맡도록 하겠어.
+Japanese,scene_evt211228_cp1_q4_s10,detail,ルリア,試練……,시련...
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,六竜の『黒』、フェディエルより<br>特異点に課すは──,"육룡의 ""흑"", 페디엘이 특이점에게 내리는 시련은... "
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,<span class='scene-font-spword scene-font-4'>「でぇと」</span><span class='scene-font-4'>ぞよ！！</span>,"<span class='scene-font-4'>""데이트""</span>다!"
+Japanese,scene_evt211228_cp1_q4_s10,detail,ビィ,<span class='scene-font-4'>──はぁ！？ デートォ！？</span>,<span class='scene-font-4'>...뭐? 데이트!?</span>
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,うむ！<br>番は「でぇと」なるものを重ねて<br>灯を交え紡ぐのであろ？,"음! 짝이란 ""데이트""라는 것을 거듭하며 불꽃을 교환하여 이어나가는 거잖아?"
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,此方に「でぇと」を見せよ、<br>特異点！,"내게 ""데이트""라는 걸 보여다오, 특이점!"
+Japanese,scene_evt211228_cp1_q4_s10,detail,シエテ,デートの試練か……<br>いや、ある意味人間力を<br>問われるけどさぁ……,"데이트의 시련이라... 아니, 어떤 의미로는 인간다움을 시험받는 거라 할 수 있겠다만..."
+Japanese,scene_evt211228_cp1_q4_s10,detail,ル・オー,妙にやる気を見せたと思えば、<br>君は……,"이상할 정도로 의욕이 넘친다 싶었더니만, 너..."
+Japanese,scene_evt211228_cp1_q4_s10,detail,フェディエル,ふふん♪,흐흥~♪
+Japanese,scene_evt211228_cp1_q4_s10,detail,,<span class='scene-font-katari'>フェディエルに強引に連れてこられ、</span><br><span class='scene-font-katari'>そしてフェディエルに強引に</span><br><span class='scene-font-katari'>試練を課された[플레이어]。</span>,"<span class='scene-font-katari'>페디엘에 의해 억지로 끌려와, 다시 억지로 시련을 부여받은 [플레이어].</span>"
+Japanese,scene_evt211228_cp1_q4_s10,detail,,<span class='scene-font-katari'>思わぬ第一の試練の内容に、</span><br><span class='scene-font-katari'>[플레이어]は困惑気味の表情を</span><br><span class='scene-font-katari'>浮かべるのだった。</span>,<span class='scene-font-katari'>생각지도 못한 첫번째 시련의 내용에 [플레이어]는 난감한 표정을 지을 수밖에 없었다.</span>
