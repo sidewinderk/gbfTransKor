@@ -1,0 +1,371 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_cp33_q1_s10,3311",synopsis,,黒騎士と共に、オルキスが居るというラビ島の都市メフォラシュを目指す[플레이어]一行。だが、ラビ島はエルステ帝国の領地であり、帝国の戦艦が立ち入りを制限していた。ラビ島に近づいたグランサイファーに、帝国の戦艦から兵士が乗り込んでくる。,"흑기사와 함께 오르키스가 있다고 하는 라비섬의 도시 메포라슈를 목표로 하는 [플레이어] 일행.하지만, 라비섬은 엘스테 제국의 영지이며, 제국의 전함이 출입을 제한하고 있었다.라비 섬에 접근한 그란사이퍼에 제국 전함에서 병사들이 올라온다."
+Japanese,"scene_cp33_q1_s10,3311",detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>グランサイファーに黒騎士を乗せ、</span><br><span class='scene-font-katari'>一路、ラビ島を目指す。</span>,<span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>그랑사이퍼에 흑기사를 싣고、</span><br><span class='scene-font-katari'>일로 라비섬을 향해 가다。</span>
+Japanese,"scene_cp33_q1_s10,3311",detail,흑기사,…………,…………
+Japanese,"scene_cp33_q1_s10,3311",detail,루리아,…………,…………
+Japanese,"scene_cp33_q1_s10,3311",detail,비,…………,…………
+Japanese,"scene_cp33_q1_s10,3311",detail,이오,むぅぅ……,음……
+Japanese,"scene_cp33_q1_s10,3311",detail,카타리나,ふむ……,흠……
+Japanese,"scene_cp33_q1_s10,3311",detail,오이겐,…………,…………
+Japanese,"scene_cp33_q1_s10,3311",detail,로제타,ふふ……,후후……
+Japanese,"scene_cp33_q1_s10,3311",detail,라캄,あー、その……なんだ、<br>えっと……<span class='scene-font-place'>メフォラシュ</span>だっけか？<br>いま向かってんのはよ。,"아 그....뭐야,<br>에....<span class='scene-font-place'>메포라쉬</span>이었나?<br>지금 가고 있는 건요."
+Japanese,"scene_cp33_q1_s10,3311",detail,흑기사,そうだが……それが？,그렇지만……그것이?
+Japanese,"scene_cp33_q1_s10,3311",detail,라캄,どういう街なんだ？<br>俺は聞いたこともねぇが……<br>なぁ、カタリナは知ってるか？,"무슨 거리야?<br>난 들어보지도 못했는데……<br>야, 카타리나는 알아?"
+Japanese,"scene_cp33_q1_s10,3311",detail,카타리나,むっ？<br>ああ……すまない、聞いていなかった。<br>何の話だ？,"무?<br>아아……미안하다, 못들었다.<br> 무슨 소리지?"
+Japanese,"scene_cp33_q1_s10,3311",detail,라캄,おいおい、らしくねぇな……<br>どうしたってんだ？,어이 어이 답지 않네……<br>어떻게 된 거야?
+Japanese,"scene_cp33_q1_s10,3311",detail,카타리나,いや……,아니……
+Japanese,"scene_cp33_q1_s10,3311",detail,라캄,……？,……？
+Japanese,"scene_cp33_q1_s10,3311",detail,이오,あっ！<br>ねぇ、あれ！<br>あれ……帝国の戦艦じゃない？,앗!<br>야 저거!<br>저거……제국의 전함 아니야?
+Japanese,"scene_cp33_q1_s10,3311",detail,라캄,なにっ！？,뭐!?
+Japanese,"scene_cp33_q1_s10,3311",detail,제국병,そこの騎空艇！<br>この先の<span class='scene-font-place'>ラビ島</span>は我々エルステ帝国が<br>立ち入りを制限している！,그곳의 기공정!<br>앞의<spanclass='scene-font-place'>라비 섬</span>은 우리 엘스테 제국이<br>출입을 제한하고 있다!
+Japanese,"scene_cp33_q1_s10,3311",detail,제국병,寄港するのならば、<br>こちらに許可証を見せろ！<br>そうでないのならば即刻引き返せ！,"기항하려면,<br>이곳에 허가증을 보여줘라!그렇지 않다면 즉각 돌아가라!"
+Japanese,"scene_cp33_q1_s10,3311",detail,라캄,参ったな……<br>おい、どうする？<br>許可証なんて持ってねぇぞ？,"졌다……<br>야, 어떻게 할래?<br>허가증따윈 안가지고 다니니까?"
+Japanese,"scene_cp33_q1_s10,3311",detail,이오,それどころか、<br>そもそもあたし達自身、<br>お尋ね者よね……,"그러기는 커녕,<br>애초에 우리들 자신,<br>물건이네……"
+Japanese,"scene_cp33_q1_s10,3311",detail,카타리나,考えてみれば当然か……<br><span class='scene-font-place'>メフォラシュ</span>のある<span class='scene-font-place'>ラビ島</span>は<br>エルステ帝国の正式な領地だからな……,생각해보면 당연한가……<br><span class='scene-font-place'>메포라슈</span>이 있는 <span class='scene-font-place'>라비 섬</span>은 <br>엘스테 제국의 정식 영지니까……
+Japanese,"scene_cp33_q1_s10,3311",detail,비,って、納得してる場合じゃねぇぞ！<br>あいつら戦艦から、<br>こっちに乗り移ってきやがった！,라고 납득할 때가 아냐!그녀석 전함에서 여기로 옮겨타고 왔어!
+Japanese,"scene_cp33_q1_s20,3312",synopsis,,黒騎士は帝国兵が見ているのは島の出入りだけであること、島の中には兵士がいないことを明かす。[플레이어]達はルリアに説得されて黒騎士を信用し、この場を突破してラビ島に降りようとする。,"흑기사는 제국병들이 보는 것은 섬 출입뿐이라는 것을, 섬 안에는 병사가 없다는 것을 밝힌다.[플레이어]들은 루리아의 설득에 힘입어 흑기사를 믿고, 이 자리를 돌파해 라비 섬으로 내리려 한다."
+Japanese,"scene_cp33_q1_s20,3312",detail,오이겐,マズイな……戦艦は一隻じゃねぇ。<br>いちいち相手をしてたら<br>キリがねぇぞ！,이상해…… 전함은 한 척이 아니야.일일이 상대하다가는 끝도 없어!
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,全てを相手にする必要はない。<br>必要な分だけを叩けばいい。,모든 것을 상대할 필요는 없다.<br>필요한 만큼만 두드리면 된다.
+Japanese,"scene_cp33_q1_s20,3312",detail,오이겐,何か作戦があるのか？,무슨 작전이 있어?
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,策など要らん。<br>ここを強行突破し、<br>島に降りてしまえば事は済む。,계책이 필요없다.<br>여기를 강행돌파해서<br>섬에 내려버리면 일은 끝난다.
+Japanese,"scene_cp33_q1_s20,3312",detail,이오,黒騎士って、<br>思いの外熱い奴というか……<br>力技が好きよね。,"흑기사란,<br>뜻밖의 뜨거운 녀석이랄까……<br>역기를 좋아하지."
+Japanese,"scene_cp33_q1_s20,3312",detail,로제타,ふふ……いいじゃない。<br>アタシは彼女のこういう面、<br>嫌いじゃないわ。,후후... 좋잖아.<br>난 그녀의 이런 면을 <br> 싫어하지 않아.
+Japanese,"scene_cp33_q1_s20,3312",detail,카타리나,し、しかしだな！<br>この先の<span class='scene-font-place'>ラビ島</span>は帝国の領土だろう！？<br>島の中にはさらに兵達が……,"시, 하지만 말이다!<br>요 앞의 <span class='scene-font-place'> 라비 섬</span>은 제국의 영토일 것이다!?<br>섬 안에는 병사들이 더……"
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,安心しろ。<br>奴らが固めているのは出入りだけだ。<br>この島はそういう島だからな。,안심해라.<br>놈들이 굳혀있는건 출입뿐이야.이 섬은 그런 섬이니까.
+Japanese,"scene_cp33_q1_s20,3312",detail,카타리나,なに……？<br>どういうことだ？,뭐……?<br>무슨 말이야?
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,ふん……信じられんと言うのか？<br>かつてエルステ帝国を取り仕切っていた<br>この私の言葉が……,흠…믿을 수 있단 말인가?<br>일찍이 에르스테 제국을 총괄했던 <br> 이 나의 말이……
+Japanese,"scene_cp33_q1_s20,3312",detail,카타리나,それは……,그건……
+Japanese,"scene_cp33_q1_s20,3312",detail,루리아,こ、ここは黒騎士さんを<br>信じてみませんか！,"이, 여기는 흑기사님을<br> 믿어보시지 않겠습니까!"
+Japanese,"scene_cp33_q1_s20,3312",detail,카타리나,ルリア……？,루리아……?
+Japanese,"scene_cp33_q1_s20,3312",detail,루리아,きっと嘘じゃないです！<br>私……なんとなくだけど、<br>そんな気がします！,"분명 거짓말이 아니에요!저......왠지 모르지만,<br>그런 느낌이 듭니다!"
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,ふふ……<br>論理としてはめちゃくちゃだが、<br>それこそが本質だ。,"후후…<br>논리로서는 엉망이지만,<br>그게 바로 본질이다."
+Japanese,"scene_cp33_q1_s20,3312",detail,루리아,え？,엥?
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,いかなる理由を重ねようと、<br>信じられぬものは信じられない。<br>人とはそういうものだ。,어떤 이유로든 <br> 믿을 수 없는 것은 믿을 수 없다.<br>사람이란 그런 것이다.
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,さぁ、どうする？<br>この艇は私のものではないからな、<br>選択権はお前にある。,"자, 어떡해?<br>이 배는 내 것이 아니니까 <br> 선택권은 너에게 있다."
+Japanese,"scene_cp33_q1_s20,3312",sel1_txt,,<span class='scene-font-katari'>信じよう</span>,<span class='scene-font-katari'>믿어보자</span>
+Japanese,"scene_cp33_q1_s20,3312",sel2_txt,,<span class='scene-font-katari'>信じられない</span>,<span class='scene-font-katari'>믿지 못하겠다</span>
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,そうか……だが礼は言わんぞ。<br>私はこの選択の結果を、<br>何も保証してやれないからな。,그렇구나……하지만 답례는 하지 않겠다. <br> 나는 이 선택의 결과를 <br> 아무것도 보증해줄 수 없으니까.
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,賢明だな……しかし、ではどうする？<br>あの戦艦全ての<br>相手をすると言うのか？,"현명하다……하지만, 그럼 어떻게 하지?저 전함의 모든 <br>상대를 하겠다는 거야?"
+Japanese,"scene_cp33_q1_s20,3312",detail,비,悩んでる時間はねーみてぇだぜ！<br>連中、どんどん攻めてきやがる！,"고민하고 있는 시간은 없어- 보고 싶어!<br>친구들, 점점 공격해 온다!"
+Japanese,"scene_cp33_q1_s20,3312",detail,라캄,なんにせよ、<br>まずは艇を死守しなくっちゃあな！,"어쨌든,<br>우선은 정을 사수해야겠죠!"
+Japanese,"scene_cp33_q1_s20,3312",detail,라캄,黒騎士！<br>アンタにも手伝ってもらうぞ！,흑기사!<br>안타도 도와줘!
+Japanese,"scene_cp33_q1_s20,3312",detail,흑기사,無論だ。<br>この程度の雑魚、<br>私が一掃してくれる！,"물론이야.<br>이정도 잡어,<br>내가 싹쓸이 해줄게!"
+Japanese,"scene_cp33_q2_s10,3321",synopsis,,無事にラビ島へと降りることに成功した[플레이어]一行。一同は砂漠にバルツを思い出しながら、遺跡のような古い街並みを眺める。そんな[플레이어]達に、黒騎士は魔物に注意するよう警告するのだった。,"무사히 라비 섬으로 내려오는데 성공한 [플레이어] 일행모두는 사막에 발츠를 떠올리며 유적지 같은 낡은 거리 풍경을 바라본다.그런 [플레이어]들에게, 흑기사는 마물에 주의하도록 경고하는 것이었다."
+Japanese,"scene_cp33_q2_s10,3321",detail,,<span class='scene-font-katari'>黒騎士の言葉には</span><br><span class='scene-font-katari'>未だに含んでいるものがあり、</span><br><span class='scene-font-katari'>信じることに難色を示す者もいた。</span>,<span class='scene-font-katari'>흑기사의 말에는</span><br><span class='scene-font-katari'>아직 무엇인가 숨어 있는것 같아서、</span><br><span class='scene-font-katari'>믿는 것에 난색을 표하는 사람도 있었다。</span>
+Japanese,"scene_cp33_q2_s10,3321",detail,,<span class='scene-font-katari'>しかし、引き返すわけにもいかず、</span><br><span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>密かにラビ島へと降り立った。</span>,"<span class='scene-font-katari'>그러나 되돌아갈 수도 없고,</span><br><span class='scene-font-katari'>[플레이어] 일행은、</span><br><span class='scene-font-katari'>몰래 라비 섬으로 내려갔다.。</span>"
+Japanese,"scene_cp33_q2_s10,3321",detail,이오,ここが<span class='scene-font-place'>ラビ島</span>……<br>なんだかちょっと<span class='scene-font-place'>バルツ</span>に似てるわね。,여기가 <span class='scene-font-place'> 라비 섬</span>……<br> 왠지 좀 <span class='scene-font-place'> 발츠</span>와 비슷해.
+Japanese,"scene_cp33_q2_s10,3321",detail,비,<span class='scene-font-place'>バルツ</span>も砂ばっかだったもんなぁ。<br>しかもすっげぇ暑いし……<br>干からびるかと思ったぜ。,<span class='scene-font-place'> 발츠</span>도 모래였잖아.<br>게다가 엄청 더워서……<br>메마르는 줄 알았지.
+Japanese,"scene_cp33_q2_s10,3321",detail,이오,ふん……<br><span class='scene-font-place'>バルツ</span>の人達は、<br>あの暑さでへばるほどヤワじゃないの。,"흠…<br><span class='scene-font-place'>발츠</span>사람들은,<br>저 더위에 지칠만큼 위험하잖아."
+Japanese,"scene_cp33_q2_s10,3321",detail,이오,どっかの軟弱なトカゲとは<br>全然違うんだから！,어딘가의 연약한 도마뱀과는<br>전혀 다르니까!
+Japanese,"scene_cp33_q2_s10,3321",detail,비,んだとぉ！<br>オイラは軟弱じゃねーし、<br>トカゲでもねーっての！,"라고!<br>오이라는 연약하지도 않고,<br>도마뱀도 아니라고!"
+Japanese,"scene_cp33_q2_s10,3321",detail,로제타,ふふ……<br>こーら、喧嘩しないの。,"후후…<br>코야, 싸우지 않아."
+Japanese,"scene_cp33_q2_s10,3321",detail,라캄,しかし、<br>ホントに古い街だなぁ……<br>こりゃ、街ってより遺跡だぜ。,"하지만, <br> 정말로 오래된 거리구나……<br> 이건, 거리가 더 유적이네."
+Japanese,"scene_cp33_q2_s10,3321",detail,흑기사,ふん……<br>観光気分は結構だが、油断はするなよ。,"흠…<br>관광 기분은 괜찮지만, 방심은 하지마."
+Japanese,"scene_cp33_q2_s10,3321",detail,카타리나,だな……<br>現在の首都ではないとはいえ、<br>ここは帝国の領内なのだから……,"그렇지……<br>현재의 수도가 아니라고는 해도,<br>여기는 제국의 영내이니까……"
+Japanese,"scene_cp33_q2_s10,3321",detail,흑기사,いや……<br>その心配はまず必要ない。<br>それよりも……,아니……<br>그 걱정은 우선 필요 없다.<br> 그것보다……
+Japanese,"scene_cp33_q2_s10,3321",detail,마물,グオオオオッ！！,귀어어어어!!
+Japanese,"scene_cp33_q2_s10,3321",detail,오이겐,なるほどな……<br>こりゃあ、油断のならねぇ街だぜ。,그렇구나……<br>이건 방심하면 안 되는 거리네.
+Japanese,"scene_cp33_q2_s10,3321",detail,로제타,古い街だから、<br>防壁がほとんど、<br>機能してないのかもしれないわね。,오래되서 <br> 방벽이 거의 <br> 기능을 하지않는건지도 모르겠네.
+Japanese,"scene_cp33_q2_s10,3321",detail,로제타,ともかく、<br>餌食になってあげる必要はないわ。<br>応戦しましょう！ [플레이어]！,"어쨌든,<br>먹이가 되어줄 필요는 없어.<br>응전합시다! [플레이어]"
+Japanese,"scene_cp33_q2_s20,3322",synopsis,,[플레이어]一行は街の中央にある王宮を目指すことにする。道すがら、黒騎士はフリーシアの一族が代々エルステ王家に仕えてきたこと、エルステ帝国よりもエルステ王国を重要視していることを話す。,"[플레이어] 일행은 도시 중앙에 있는 왕궁을 목표로 하기로 한다.가는 길에 흑기사는 프리시아 일족이 대대로 엘스테 왕가를 섬겨왔다는 것, 엘스테 제국보다 엘스테 왕국을 더 중요하게 여긴다는 것을 말한다."
+Japanese,"scene_cp33_q2_s20,3322",detail,,<span class='scene-font-katari'>襲い来る魔物を始末し、</span><br><span class='scene-font-katari'>黒騎士は街の中央を指し示す。</span>,<span class='scene-font-katari'>덮쳐오는 마물을 처치하고、</span><br><span class='scene-font-katari'>흑기사는 도시의 한 가운데를 가리킨다。</span>
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,見えるか？<br>あれが、<br>エルステ王国時代に使われていた王宮だ。,보이니?<br>저곳이<br>엘스테왕국시대에쓰였던왕궁이다.
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,首都を<span class='scene-font-place'>アガスティア</span>に移して以来、<br>表向き、あそこには、<br>何もないことになっているが……,수도를 <span class='scene-font-place'>아가스티아</span>로 옮긴 이래 <br>겉으로 보면 그곳에는 <br>아무것도 없는 것으로 되어있지만....
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,フリーシアは恐らく、あそこに居る。<br>あの人形を連れてな。,프리시아는 아마도 그곳에 있을 것이다.<br>저 인형을 데리고 말이야.
+Japanese,"scene_cp33_q2_s20,3322",detail,이오,ねぇねぇ、<span class='scene-font-place'>アマルティア</span>でも聞いたけど、<br>どうしてフリーシアは、<br>こんな古い街に居るの？,저기 말이야 <span class='scene-font-place'> 아마르티아</span>에서도 들었는데 <br> 어째서 프리시아는 <br> 이런 오래된 거리에 있는거야?
+Japanese,"scene_cp33_q2_s20,3322",detail,이오,特に兵隊さんが多いわけでもないし……<br>この街に何があるっていうの？,딱히 군인이 많은 것도 아니고....<br> 이 거리에 뭐가 있다는 거야?
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,何もない……<br>それがこの街の良いところだ。,아무것도 없다……<br>그것이 이 거리의 좋은 점이다.
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,しかし、だ……<br>奴がここに居ると踏んだのには、<br>ちゃんとした理由がある。,"그러나, 말이다…<br>노가 여기에 있다고 밟은 것은,<br>정확한 이유가 있다."
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,フリーシアにとって意味があるのは、<br>エルステ帝国ではなく、<br>エルステ王国なのだ。,"프리시아에게 있어서 의미가 있는 것은,<br>에르스테 제국이 아니고,<br>에르스테 왕국이다."
+Japanese,"scene_cp33_q2_s20,3322",detail,이오,どーいうこと？<br>だってあの人は、<br>エルステ帝国の宰相さんなんでしょ？,무슨 말이야?<br>왜 저 사람은 <br>엘스테 제국의 재상이잖아?
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,いまはな。<br>元々あの女は、<br>エルステ王国の宰相だったのだ。,지금은 말이야.<br>원래 저 여자는 <br>에르스테 왕국의 재상이었어.
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,あの女の一族は、<br>代々エルステ王家に仕えてきたらしい。<br>数千年もの間、脈々とな。,저 여자의 일족은<br>대대로 엘스테 왕가를 섬겨왔대.<br> 수천 년 동안 맥맥이 살아가라.
+Japanese,"scene_cp33_q2_s20,3322",detail,카타리나,だから帝国の首都ではなく、<br>王国時代の首都を選ぶと睨んだ、<br>というわけか……,"그러니까 제국의 수도가 아니라,<br>왕국시대의 수도를 선택한다고 째려봤다,<br>라고 하는 건가……"
+Japanese,"scene_cp33_q2_s20,3322",detail,흑기사,そんなところだ。<br>さぁ、足を止めるな。<br>気を抜いていては魔物に食われるぞ。,그런 참이다.<br> 자 발을 멈추지 마라.<br> 방심하다간 마물에게 당한다.
+Japanese,"scene_cp33_q3_s10,3331",synopsis,,街の中に兵がいないことに疑問を持つ[플레이어]達に、黒騎士が理由を語る。帝国はこの島の秘密を守っており、外からの侵入だけでなく島民が外に出ることも阻んでいるのだという。そのことに憤るカタリナへ、黒騎士は自らの決意を語る。,거리 안에 병사가 없는 것에 의문을 갖는 [플레이어]들에게 흑기사가 이유를 말해준다.제국은 이 섬의 비밀을 지키고 있으며 외부의 침입은 물론 도민들도 밖으로 나가는 것을 막고 있다고 한다.이에 분노하는 카타리나에게 흑기사는 스스로의 결의를 말한다.
+Japanese,"scene_cp33_q3_s10,3331",detail,카타리나,しかし、<br>本当に街の中では兵を見ないな……<br>いったい、どういうことなんだ？,"하지만,<br>정말 거리에서는 군사를 보지 않는데……<br>도대체, 어떻게 된거야?"
+Japanese,"scene_cp33_q3_s10,3331",detail,카타리나,魔物も出るというのに、<br>島に降りてからというもの、<br>ほとんど兵の姿を見かけない……,"마물도 나온다고 하는데,<br>섬에 내려와서는,<br>거의 병사의 모습을 볼 수 없어……"
+Japanese,"scene_cp33_q3_s10,3331",detail,카타리나,本来ならば、<br>街中に現れた魔物など、<br>街を守る兵が始末するはずだが……,"본래라면,<br>거리에 나타난 마물등,<br>거리를 지키는 병사가 처치해야겠지만……"
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,ここに配備されている兵は、<br>街を守るために居るわけではない。,여기에 배치된 병사는 <br> 거리를 지키기 위해 있는 것이 아니다.
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,街の……住人達を<br>守ることが目的ではない。<br>街の秘密を守ることが目的なのだ。,거리의……주민들을<br>지키는 것이 목적은 아니다.<br> 거리의 비밀을 지키는 것이 목적인 것이다.
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,島の周囲を守る戦艦にしてもそうだ。<br>あれは島への侵入を阻むと同時に、<br>島から人を出さないためでもある。,섬 주위를 지키는 전함만 해도 그렇다.<br> 저것은 섬으로의 침입을 막는 동시에 <br> 섬에서 사람을 내보내지 않기 때문이기도 하다.
+Japanese,"scene_cp33_q3_s10,3331",detail,루리아,そんな……<br>じゃあ、ここの人達は……,"그런……<br>그럼, 여기 사람들은……"
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,島を出ることは出来ない。<br>エルステ帝国の許可無しにはな。,섬을 떠날 수 없다.<br>에르스테제국의 허가없이는 말이지.
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,まぁ……<br>許可が出た前例など、<br>少なくとも私は知らんがな。,"뭐....<br>허가가 난 전례같은건,<br>적어도 난 모르지만."
+Japanese,"scene_cp33_q3_s10,3331",detail,카타리나,つまりそれは……<br>エルステはこの街の住人達を、<br>見殺しにしているということか……？,"즉 그것은……<br>엘스테는 이 거리의 거주자들을,<br>못 본 체하고 있다는 것인가……?"
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,…………,…………
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,そうだな……<br>言い訳をするつもりはない。,그렇구나……<br>변명을 할 생각은 없다.
+Japanese,"scene_cp33_q3_s10,3331",detail,카타리나,貴様ッ……！,네놈....!
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,私を非道と罵りたくば、<br>好きにするといい……,"나를 무도하다고 욕하고 싶다면,<br>좋아하게 하면 돼……"
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,だがな……<br>私には何を犠牲にしようとも、<br>成し遂げねばらならぬ望みがあるのだ。,"하지만 말이야……<br>나에게는 무엇을 희생하더라도,<br>완성하지 않으면 안되는 희망이 있다."
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,どれだけ大切なものを……<br>大切な場所を失おうと……<br>私は必ず成し遂げねばならんのだ……,얼마나 소중한지……<br>소중한 장소를 잃으려고……<br>나는 반드시 완수해야만 한다……
+Japanese,"scene_cp33_q3_s10,3331",detail,루리아,黒騎士さん……？,흑기사님....?
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,オルキスのために……<br>彼女のために進み続ける、<br>私はそう決めたのだ。,"오르키스를 위해서……<br>그녀를 위해서 계속 나아간다,<br>나는 그렇게 결정한 것이다."
+Japanese,"scene_cp33_q3_s10,3331",detail,흑기사,そのためなら何だって捨ててやる。<br>誇りも、安らぎも、思い出も……<br>私自身の命さえもな。,"그러기 위해서라면 무엇이든지 버려주겠다.긍지도, 편안함도, 추억도……<br>나 자신의 생명조차도."
+Japanese,"scene_cp33_q3_s20,3332",synopsis,,重い空気の中、仲間達への謝罪を口にするオイゲン。黒騎士の言動や行動に責任を感じている彼を諌めるロゼッタは、既に黒騎士が親の手を離れ自立した存在であると語るのだった。,무거운 분위기 속에서 동료들에게 사과하는 오이겐.흑기사의 언행과 행동에 책임을 느끼고 있는 그를 간절한 로제타는 이미 흑기사가 부모의 손을 떠나 자립적인 존재라고 말하는 것이었다.
+Japanese,"scene_cp33_q3_s20,3332",detail,흑기사,…………,…………
+Japanese,"scene_cp33_q3_s20,3332",detail,카타리나,…………,…………
+Japanese,"scene_cp33_q3_s20,3332",detail,라캄,やれやれ……<br><span class='scene-font-place'>アマルティア</span>からこっち、<br>どうにもピリピリしてんな。,"맙소사…<br><span class='scene-font-place'>아마르티아</span>에서 이쪽,<br>아무래도 얼리버리네."
+Japanese,"scene_cp33_q3_s20,3332",detail,비,だよなぁ……<br>オイラ、息が詰まっちまいそうだぜ……,"그렇지……<br>오이라, 숨이 막힐 것 같아……"
+Japanese,"scene_cp33_q3_s20,3332",detail,이오,仕方ないじゃない。<br>だって、あたし達はいま、<br>あの黒騎士と一緒に居るのよ？,"어쩔 수 없잖아<br>왜냐면, 우리는 지금 <br> 저 흑기사와 함께 있는거야?"
+Japanese,"scene_cp33_q3_s20,3332",detail,이오,カタリナは特に、<br>色々と思うところもあるだろうし……<br>空気だって重くなっちゃうわよ。,"카타리나는 특히,<br>여러가지로 생각하는 부분도 있을테고……<br>공기도 무거워져."
+Japanese,"scene_cp33_q3_s20,3332",detail,오이겐,なんつーか、その……<br>すまねぇな。,"뭔가, 그……<br>미안하네."
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,ふふ……<br>貴方が謝ることじゃないわ。<br>あの子は全てを自分で決めたんだから。,후후……<br>당신이 사과할 일이 아니야.<br>그 아이는 모든 것을 스스로 결정했으니까.
+Japanese,"scene_cp33_q3_s20,3332",detail,오이겐,いや、しかしなぁ……<br>こんなんでもオレぁ、<br>アイツの親だからよ……,"아니, 하지만 말야……<br>이런데도 나,<br>그녀석의 부모니까……"
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,じゃあ……<br>あの子のやったこと全ての責任を<br>貴方が取るって言うの？,그럼……<br> 그애가 한 모든 일의 책임을<br>당신이 진다는 거야?
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,国を乗っ取り、侵略を進め……<br>たくさんの人達を犠牲にしてきた。,"나라를 빼앗아, 침략을 진행시켜……<br>많은 사람들을 희생시켜 왔다."
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,<span class='scene-font-place'>バルツ</span>の大公さんが言うように、<br>黒騎士は直接手を<br>下してなかったとしても……,<span class='scene-font-place'>발츠</span>의 대공님의 말처럼 <br>흑기사는 직접 손을<br>내리지 않았다고 해도……
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,あの子はそれを見届けてきた。<br>見殺しにしてきた。<br>その罪を……貴方に贖えるの？,걔는 그걸 지켜봤다.<br>본의 아니게 내버려두고 왔다.그 죄를…… 당신에게 속죄할 수 있는 거야?
+Japanese,"scene_cp33_q3_s20,3332",detail,오이겐,っ！<br>そ、それは……,"얍!<br>소, 그것은……"
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,ふふ……<br>意地悪言って、ごめんなさい。,"후후……<br>심술궂게 말해서, 미안해요."
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,でもね？<br>黒騎士だって、<br>いつまでも子供じゃないわ。,"하지만 말야?<br>흑기사래,<br>언제까지나 어린애는 아니야."
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,もう立派に……<br>親の貴方でも面倒が見きれないほど、<br>たくさんの事を成し遂げてきた。,"이제 훌륭하게……<br>부모인 당신이라도 돌볼 수 없을 만큼,<br>많은 일을 해냈다."
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,それが悪事であれ善事であれ、<br>とにかく彼女も、<br>色々なものを重ねてきたのよ。,그게 나쁜 일이든 좋은 일이든 <br> 하여튼 그녀도 <br> 여러가지 일을 거듭해 온 거야.
+Japanese,"scene_cp33_q3_s20,3332",detail,오이겐,…………,…………
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,それを認めてあげて、<br>その上で父親がすべきことって、<br>他にあるんじゃない？,그것을 인정해 주고 <br> 그 위에 아버지가 해야 될 일이<br> 또 있지 않을까?
+Japanese,"scene_cp33_q3_s20,3332",detail,오이겐,オレが……<br>すべきこと、か……,"내가....<br>해야 할 일, 인가...."
+Japanese,"scene_cp33_q3_s20,3332",detail,라캄,なぁ、ロゼッタ……<br>つくづく思うんだが、<br>あんた本当に何者なんだ？,"야, 로제타……<br>곰곰히 생각하는데,<br>너 정말 누구냐?"
+Japanese,"scene_cp33_q3_s20,3332",detail,라캄,もしかして……<br>オイゲンよりも年上なんじゃねぇのか？,혹시……<br> 오이겐보다 나이가 많은건 아닐까?
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,女性に歳を尋ねるのは、<br>無礼だと習わなかったのかしら？<br>……なんてね。,여자에게 나이를 묻는건 <br>무례하다고 배우지 않았니?<br>……뭐라고나 할까.
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,女の魅力は秘密の数だけ増すものよ。<br>イオちゃんも、<br>よーく覚えておいてね。,여자의 매력은 비밀의 숫자만큼 늘어나거든.<br>이오도 <br>잘 기억해둬.
+Japanese,"scene_cp33_q3_s20,3332",detail,이오,う、うん……！,"으,음……!"
+Japanese,"scene_cp33_q3_s20,3332",detail,로제타,ふふ……良いお返事。<br>それじゃあ、行きましょうか。<br>囚われのお姫様を救いに、ね……,"후후... 좋은 답변.<br>그럼, 갈까요?<br> 사로잡힌 공주를 구하러……"
+Japanese,"scene_cp33_q4_s10,3341",synopsis,,聞こえてきた悲鳴に素早く反応し、走り出す黒騎士。その行動に、一同は口ではどうあれ黒騎士も自分の国の者を大切に思っているのだと考える。そして、[플레이어]達も悲鳴の主を助けるために先急ぐのだった。,들려오는 비명소리에 빠르게 반응하며 달려나가는 흑기사. 그 행동에 모두들 말로는 어떻든 흑기사도 자기 나라 사람을 소중하게 생각하고 있다고 생각한다.그리고 [플레이어]들도 비명의 주인을 구하기 위해서 서두르는 것이었다.
+Japanese,"scene_cp33_q4_s10,3341",detail,？？？,ひぃぃッ！！,히잇!!
+Japanese,"scene_cp33_q4_s10,3341",detail,카타리나,っ！？<br>いまの悲鳴は……！？,헉!? <br> 지금의 비명은……?!
+Japanese,"scene_cp33_q4_s10,3341",detail,흑기사,向こうからだ！<br>行くぞ！ [플레이어]！,저쪽에서다!<br>간다! [플레이어]
+Japanese,"scene_cp33_q4_s10,3341",detail,라캄,えっ？ あ、おい！<br>行っちまった……,"엣? 아, 어이!<br>가버렸다……"
+Japanese,"scene_cp33_q4_s10,3341",detail,이오,あんなこと言ってたけど、<br>やっぱり黒騎士も自分の国の人は、<br>大事なのね。,"저런 말을 했는데, <br>역시 흑기사도 자기나라 사람은 <br> 소중해."
+Japanese,"scene_cp33_q4_s10,3341",detail,카타리나,そう……なのか？<br>というより、あれは……,"그래……인가?<br>이라기 보다, 저건……"
+Japanese,"scene_cp33_q4_s10,3341",detail,비,って、オイラ達も、<br>ぼやぼやしてる場合じゃねーぜ！,"뭐랄까, 오이라들도 <br> 멍하니 있을 때가 아냐!"
+Japanese,"scene_cp33_q4_s10,3341",detail,루리아,ですね！<br>行きましょう！ [플레이어]！,그래요! <br> 갑시다! [플레이어]
+Japanese,"scene_cp33_q4_s20,3342",synopsis,,黒騎士は、助けた老婆が自分のことを知っているそぶりを見せたことに焦る。そこへ魔物が現れると、彼女はこの島の民がどうなってもいいという前言を撤回したかのように、街を荒らす魔物への怒りを見せる。,흑기사는 도운 노파가 자신을 아는 내색을 하자 초조해한다.거기에 마물이 나타나자 그녀는 이 섬의 백성이 어떻게 되든 좋다는 전언을 철회한 듯 거리를 휩쓸고 다니는 마물에 대한 분노를 표출한다.
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,はあぁぁぁッ！！,하아아아악!!
+Japanese,"scene_cp33_q4_s20,3342",detail,마물,グギャ……,구갸……
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,はぁ……はぁ……,하아... 하아...
+Japanese,"scene_cp33_q4_s20,3342",detail,お婆さん,ありがとうございます、旅の方……,"감사합니다, 여행하시는 분……"
+Japanese,"scene_cp33_q4_s20,3342",detail,お婆さん,兵隊さん達は、<br>島の周りを守るばっかりで……<br>街には見向きもしてくれませんで……,"병정님들은,<br>섬주위를 지키기만하고...<br>거리에는 쳐다보지도않고..."
+Japanese,"scene_cp33_q4_s20,3342",detail,お婆さん,本当に、<br>なんとお礼を言ったらいいか……,"정말로,<br>뭐라고 감사의 말을 해야할지……"
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,いや、怪我は……,"아니, 다친 곳은……"
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,ッ！？,헉!?
+Japanese,"scene_cp33_q4_s20,3342",detail,비,んん？<br>どうしたんだよ、急にそっぽ向いて……,어?<br>왜그래? 갑자기 외면해버려서……
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,黙れ……さぁ、行くぞ。,"입닥쳐……자, 간다."
+Japanese,"scene_cp33_q4_s20,3342",detail,お婆さん,ああ！ お待ちください、旅の方！<br>大したものはお出しできませんが、<br>せめてうちでお礼を……,"아아! 기다려주세요. 여행자!<br>별것은 드릴수없지만,<br>최소한 저희집에서 답례를......."
+Japanese,"scene_cp33_q4_s20,3342",detail,お婆さん,ん？<br>貴方、どこかで……？,"어?<br>당신, 어딘가에서……?"
+Japanese,"scene_cp33_q4_s20,3342",detail,비,や、やべぇぞ……<br>もしかしてあの婆さん、<br>黒騎士だって気づいたんじゃ……,"이런, 큰일났다……<br>혹시 그 할머니 <br>흑기사라는 걸 눈치챈 건 아닌지……"
+Japanese,"scene_cp33_q4_s20,3342",detail,이오,で、でも、<br>あのゴツイ鎧の中身が女の人なんて、<br>誰も思わないわよ！？,"근데,<br>저 거위의 내용물이 여자라고는,<br>아무도 생각하지 않아!?"
+Japanese,"scene_cp33_q4_s20,3342",detail,라캄,確かにな……<br>けど、ここは帝国の領地だし、<br>鎧を外したこともあるのかもしれねぇ。,"확실해……<br>하지만, 이곳은 제국의 영지이고,<br>갑옷을 벗은 적도 있을지도 몰라."
+Japanese,"scene_cp33_q4_s20,3342",detail,마물,グオオオオッ！！,귀어어어어!!
+Japanese,"scene_cp33_q4_s20,3342",detail,お婆さん,ひぃっ！？,힛!?
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,ちっ……<br>まだ残っていたか！,쳇……<br>아직 남아 있었네!
+Japanese,"scene_cp33_q4_s20,3342",detail,흑기사,この街は、<br>貴様ら低俗な魔物ごときが<br>荒らして良い場所じゃあないッ！,이 거리는 <br> 네놈들 저속한 마물들이 <br> 휩쓸어서 좋은 장소가 아니야!
+Japanese,"scene_cp33_q4_s20,3342",detail,카타리나,ど、どういうことだ……？<br>さっき黒騎士は、<br>この街の住人は見殺しにする、と……,"무슨 일이야……?<br>아까 흑기사는,<br>이 거리의 거주자는 못 본 체한다, 라고……"
+Japanese,"scene_cp33_q4_s20,3342",detail,오이겐,ともかくやるっきゃねぇ！<br>いまはこのご婦人を助けるのが<br>最優先だ！,어쨌든 해야겠다!<br>지금은 이 부인을 돕는게<br>최우선이다!
+Japanese,"scene_cp33_q4_s30,3343",synopsis,,老婆は黒騎士の本名を親しげに呼び、１０年ぶりの再会だと喜ぶ。彼女はオルキスとも知り合いのようで、彼女はエルステ王国の王女様だと語る。黒騎士もそれを肯定し、オルキス王女は自分の親友だったことを明かすのだった。,"노파는 흑기사의 본명을 다정하게 부르며 10년 만의 재회라며 반긴다.그는 오르키스와도 아는 사이이고, 그는 에르스테 왕국의 공주라고 했다.흑기사도 이를 긍정했고 오르키스 공주는 자신의 절친이었음을 밝히는 것이었다."
+Japanese,"scene_cp33_q4_s30,3343",detail,마물,グギャ……,구갸……
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,ああ……やっぱり！<br>貴方は……！,아아……역시!<br>당신은……!
+Japanese,"scene_cp33_q4_s30,3343",detail,비,やべぇ……！<br>完全にバレちまったみてぇだぞ！,큰일났다……! 완전히 들킨 것 같아!
+Japanese,"scene_cp33_q4_s30,3343",detail,라캄,仕方ねぇ……<br>すぐにここから逃げ……,어쩔 수 없지……<br>바로 여기로부터 도망쳐……
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,アポロちゃん！<br>アポロニアちゃんじゃないのかい？<br>ねぇ、そうだろう？,"아폴로! 아폴로니아짱 아니야?<br>야, 그렇지?"
+Japanese,"scene_cp33_q4_s30,3343",detail,흑기사,…………,…………
+Japanese,"scene_cp33_q4_s30,3343",detail,이오,へ……？<br>おばーちゃん、<br>この人を知ってるの？,"에……？<br>아줌마,<br>이 사람을 알아?"
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,ああ……<br>ずいぶん久しぶりだがねぇ……,아아……<br>꽤 오랜만이네……
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,こんなに立派になって……<br>一目見ただけじゃあ、<br>誰だかわからなかったよ……,"이렇게 훌륭해져서....<br>한눈에 보는 것으로는,<br>누군지 몰랐어........"
+Japanese,"scene_cp33_q4_s30,3343",detail,흑기사,…………,…………
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,そうだねぇ……<br>１０年ぶりくらいかい？,글쎄……<br>10년만인가?
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,ああ、そうか……<br>ちょうどあの頃だったね。<br>オルキス様のことは本当に残念で……,"아아, 그래……<br>꼭 그 때였네.<br> 오르키스님은 정말로 유감이고..."
+Japanese,"scene_cp33_q4_s30,3343",detail,루리아,っ！？<br>オ、オルキスちゃんのことを<br>知ってるんですか！？,"헉!?<br>오, 오르키스를<br>알고있습니까?"
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,へ？<br>そりゃあ……<br>知っているも何も……,에?<br>그야아……<br>알고 있는 거나 아무것도……
+Japanese,"scene_cp33_q4_s30,3343",detail,お婆さん,オルキス様は、<br>このエルステの王女様じゃないか。,오르키스님은 <br> 이 엘스테의 공주님이잖아.
+Japanese,"scene_cp33_q4_s30,3343",detail,루리아,え……？,어……?
+Japanese,"scene_cp33_q4_s30,3343",detail,카타리나,な……！？<br>ど、どういうことだ！？<br>説明しろ！ 黒騎士！,"뭐...!?<br>도, 무슨 일이야!?<br> 설명해라! 흑기사!"
+Japanese,"scene_cp33_q4_s30,3343",detail,흑기사,このご婦人の言っていることに、<br>何一つ間違いはない。,"이 부인이 말하는 것에,<br>무엇 하나 틀린 것은 없다."
+Japanese,"scene_cp33_q4_s30,3343",detail,흑기사,オルキスは、<br>エルステ帝国の前身である、<br>エルステ王国の王女であり……,"오르키스는,<br>에르스테 제국의 전신인,<br>에르스테 왕국의 공주이며……"
+Japanese,"scene_cp33_q4_s30,3343",detail,흑기사,私の……<br>たった一人の親友だったんだ。,나의 ……<br>단 한 명의 친구였어.
+Japanese,"scene_cp33_q4_s30,3343",detail,,<span class='scene-font-katari'>告げられた真実に、</span><br><span class='scene-font-katari'>[플레이어]一行は言葉を失う。</span>,<span class='scene-font-katari'>고해받은 진실에、</span><br><span class='scene-font-katari'>[플레이어] 일행은 말을 잃다。</span>
+Japanese,"scene_cp33_q4_s30,3343",detail,,<span class='scene-font-katari'>しかし、古の都には、</span><br><span class='scene-font-katari'>[플레이어]達の知りえぬ、</span><br><span class='scene-font-katari'>さらなる真実が眠っているのだった。</span>,<span class='scene-font-katari'>그러나 옛 도읍지에는、</span><br><span class='scene-font-katari'>[플레이어]들의 알 수 없는、</span><br><span class='scene-font-katari'>또 다른 진실이 잠들어 있는 것이었다.。</span>
+English,"scene_cp33_q1_s10,3311",synopsis,,"The Grandcypher approaches Ravi Island, but the crew is stopped by an imperial battleship."
+English,"scene_cp33_q1_s10,3311",detail,,"With the Black Knight among the crew's company, they head for Ravi Island."
+English,"scene_cp33_q1_s10,3311",detail,Black Knight,...
+English,"scene_cp33_q1_s10,3311",detail,Lyria,...
+English,"scene_cp33_q1_s10,3311",detail,Vyrn,...
+English,"scene_cp33_q1_s10,3311",detail,Io,...
+English,"scene_cp33_q1_s10,3311",detail,Katalina,...
+English,"scene_cp33_q1_s10,3311",detail,Eugen,...
+English,"scene_cp33_q1_s10,3311",detail,Rosetta,...
+English,"scene_cp33_q1_s10,3311",detail,Rackam,"Um, sooo... It was Mephorash, right? Where we're headed?"
+English,"scene_cp33_q1_s10,3311",detail,Black Knight,Yes. Why?
+English,"scene_cp33_q1_s10,3311",detail,Rackam,"What kind of city is it? Never heard of it myself. You ever heard of it, Katalina?"
+English,"scene_cp33_q1_s10,3311",detail,Katalina,"Ah, no. Sorry... What are we talking about?"
+English,"scene_cp33_q1_s10,3311",detail,Rackam,"Oy, oy. You don't seem like yourself. What's up?"
+English,"scene_cp33_q1_s10,3311",detail,Katalina,Nothing...
+English,"scene_cp33_q1_s10,3311",detail,Rackam,...?
+English,"scene_cp33_q1_s10,3311",detail,Io,Hey! Check it out! Isn't that an imperial battleship?
+English,"scene_cp33_q1_s10,3311",detail,Rackam,What!
+English,"scene_cp33_q1_s10,3311",detail,Imperial Soldier,Skyfarers! Entrance into Ravi Island is restricted by the Erste Empire!
+English,"scene_cp33_q1_s10,3311",detail,Imperial Soldier,"If you want to land at the port, show your permit! Otherwise turn back immediately!"
+English,"scene_cp33_q1_s10,3311",detail,Rackam,Well this is a problem. We don't have a permit.
+English,"scene_cp33_q1_s10,3311",detail,Io,Never mind that—we're wanted skyfarers now...
+English,"scene_cp33_q1_s10,3311",detail,Katalina,"We should have expected this. Ravi Island, Mephorash included, is imperial territory."
+English,"scene_cp33_q1_s10,3311",detail,Vyrn,No time to dwell on it! They're already boardin' the Grandcypher from their battleship!
+English,"scene_cp33_q1_s20,3312",synopsis,,"The Black Knight informs the crew that, despite the air blockade, there isn't a military presence on the surface of Ravi Island."
+English,"scene_cp33_q1_s20,3312",detail,Eugen,Whew—look at all these battleships. There's no end in sight.
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,We don't have to take them all on. We strike only those that get in our way.
+English,"scene_cp33_q1_s20,3312",detail,Eugen,Oh? You got some way to get through 'em all?
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,I don't need a plan. We'll simply force our way through and land on the island.
+English,"scene_cp33_q1_s20,3312",detail,Io,"Black Knight, you're a pretty tough cookie. You really like taking things to the max, huh?"
+English,"scene_cp33_q1_s20,3312",detail,Rosetta,Hehe. Isn't it great? I personally like that side of her.
+English,"scene_cp33_q1_s20,3312",detail,Katalina,"But Ravi Island is imperial territory! If we land here, there will be more troops waiting for us!"
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,"Fear not. They've only fortified entry into the island. Once we land, it'll be a different story."
+English,"scene_cp33_q1_s20,3312",detail,Katalina,What? How so?
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,Do you doubt me? You seem to have forgotten that I once controlled the entire Erste Empire.
+English,"scene_cp33_q1_s20,3312",detail,Katalina,Well...
+English,"scene_cp33_q1_s20,3312",detail,Lyria,We should trust the Black Knight! She knows about these things!
+English,"scene_cp33_q1_s20,3312",detail,Katalina,Lyria?
+English,"scene_cp33_q1_s20,3312",detail,Lyria,She's not lying! I can feel it!
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,It's usually imprudent to trust raw instinct. But in this case you are correct.
+English,"scene_cp33_q1_s20,3312",detail,Lyria,Huh?
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,"No matter how many reasons you give, those who won't believe you won't believe you. It's human nature."
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,"So what will we do? This isn't my airship, so you decide."
+English,"scene_cp33_q1_s20,3312",sel1_txt,,We trust you.
+English,"scene_cp33_q1_s20,3312",sel2_txt,,We can't completely trust you.
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,I see. But I won't thank you—and I make no guarantee that the results from this decision will be pleasant.
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,How foolish. Are you going to fight all of those battleships?
+English,"scene_cp33_q1_s20,3312",detail,Vyrn,We don't have time to go back n' forth about it! The bad guys are comin' quick!
+English,"scene_cp33_q1_s20,3312",detail,Rackam,"Whatever happens, we gotta put some elbow grease into defendin' this airship!"
+English,"scene_cp33_q1_s20,3312",detail,Rackam,"And, Black Knight, you're going to help us too!"
+English,"scene_cp33_q1_s20,3312",detail,Black Knight,Of course. It will only take a moment to destroy all of this rabble!
+English,"scene_cp33_q2_s10,3321",synopsis,,The crew lands on Ravi Island and immediately learns about its unforgiving environment.
+English,"scene_cp33_q2_s10,3321",detail,,"Although not every member of the crew trusts the Black Knight, they find themselves embroiled in her scheme."
+English,"scene_cp33_q2_s10,3321",detail,,"And so, at the Black Knight's request, the crew makes a stealth-landing on Ravi Island."
+English,"scene_cp33_q2_s10,3321",detail,Io,"So this is Ravi Island, huh? It kind of reminds me of Valtz."
+English,"scene_cp33_q2_s10,3321",detail,Vyrn,You're right. This place is nothin' but sand too. And the heat—I'm dry as dragon bones over here!
+English,"scene_cp33_q2_s10,3321",detail,Io,"Pfft, people from Valtz aren't bothered by a little dumb heat."
+English,"scene_cp33_q2_s10,3321",detail,Io,We're totally different than some wimpy lizard!
+English,"scene_cp33_q2_s10,3321",detail,Vyrn,"What! I ain't no wimp, and I ain't no lizard!"
+English,"scene_cp33_q2_s10,3321",detail,Rosetta,"No fighting now, you two."
+English,"scene_cp33_q2_s10,3321",detail,Rackam,"Anybody else notice this is one ancient city? Well, ruins more like."
+English,"scene_cp33_q2_s10,3321",detail,Black Knight,"You can look around if you want, but don't get careless."
+English,"scene_cp33_q2_s10,3321",detail,Katalina,"Right. Although this place isn't the imperial capital anymore, we're still in Erste territory."
+English,"scene_cp33_q2_s10,3321",detail,Black Knight,"No, that's not what you need to be concerned about. More importantly—"
+English,"scene_cp33_q2_s10,3321",detail,Monster,Groar!
+English,"scene_cp33_q2_s10,3321",detail,Eugen,"Aye, you ain't kiddin'. No lettin' our hair down in this place, huh?"
+English,"scene_cp33_q2_s10,3321",detail,Rosetta,"It's quite an old city, so some of the fortifications have probably crumbled to dust."
+English,"scene_cp33_q2_s10,3321",detail,Rosetta,"Regardless, let's try not to become monster food. Let's drive them off, [플레이어]!"
+English,"scene_cp33_q2_s20,3322",synopsis,,"As [플레이어] and the crew make their way toward the palace in the center of the city, the Black Knight reveals a bit about Freesia's background."
+English,"scene_cp33_q2_s20,3322",detail,,"After disposing of the hostile monsters, the Black Knight leads the way to the center of the city."
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,See that? That is the palace of the former Erste Kingdom.
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,"Since the capital was moved to Agastia, it's gone largely unused. But that's only how it seems."
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,I believe Freesia is inside. With that doll.
+English,"scene_cp33_q2_s20,3322",detail,Io,"Hey, I asked this back in Amalthea, but why would Freesia stay in such a rundown city?"
+English,"scene_cp33_q2_s20,3322",detail,Io,There aren't even any soldiers on guard here. Is there anything in this city worth protecting?
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,There's nothing. That's the advantage of this location.
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,"However, I have a good reason to believe she's here."
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,"While the Erste Empire means nothing to Freesia, the Erste Kingdom, on the other hand, is everything to her."
+English,"scene_cp33_q2_s20,3322",detail,Io,Huh? Isn't she supposed to be the prime minister of the empire?
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,"She is now, yes. But before that she was a consul for the monarchy."
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,"Previously her clan had served the Erste royal family for generations, millennia even."
+English,"scene_cp33_q2_s20,3322",detail,Katalina,So she chose to come to the royal capital instead of the imperial one...
+English,"scene_cp33_q2_s20,3322",detail,Black Knight,Precisely. But keep your pace up. Slow down and you're monster bait.
+English,"scene_cp33_q3_s10,3331",synopsis,,"[플레이어] and the crew wonder why there is no military presence in the city. The Black Knight answers their questions, but this enrages Katalina."
+English,"scene_cp33_q3_s10,3331",detail,Katalina,We really haven't seen any trace of soldiers in the city. What is going on?
+English,"scene_cp33_q3_s10,3331",detail,Katalina,There have been so many monsters but zero soldiers since we've landed.
+English,"scene_cp33_q3_s10,3331",detail,Katalina,And ordinarily you'd expect soldiers to take care of any that make their way through the streets.
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,Any troops that are stationed here now aren't here for the city's protection.
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,At least it's not the city's people they're protecting—but rather it's the city's secrets.
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,"Which is also the true purpose of the battleships circling the island. Not only do they prevent anyone from trespassing, they keep anyone from leaving."
+English,"scene_cp33_q3_s10,3331",detail,Lyria,How awful... So the people here...
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,They can't leave this island. At least not without the empire's permission.
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,"That being said, I've never heard of such permission having ever been granted."
+English,"scene_cp33_q3_s10,3331",detail,Katalina,Are you suggesting the empire has just abandoned the people of this city? Left them to survive with no support?
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,...
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,Yes. There's no reason to make excuses.
+English,"scene_cp33_q3_s10,3331",detail,Katalina,You heartless—
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,"If denouncing me in such a way will help you feel better, go ahead."
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,But there is something that I must see done. Whatever the cost.
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,"No matter how important the sacrifice, it will be worth it in the end."
+English,"scene_cp33_q3_s10,3331",detail,Lyria,Black Knight...
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,I've decided to continue moving no matter what. For Orchis.
+English,"scene_cp33_q3_s10,3331",detail,Black Knight,"I'm willing to lose anything for that goal. My pride, my peace, my memories—even my own life."
+English,"scene_cp33_q3_s20,3332",synopsis,,"Eugen apologizes for the tension caused by the Black Knight, prompting Rosetta to lecture him on his true role as a parent."
+English,"scene_cp33_q3_s20,3332",detail,Black Knight,...
+English,"scene_cp33_q3_s20,3332",detail,Katalina,...
+English,"scene_cp33_q3_s20,3332",detail,Rackam,"Sheesh, what's with this tension? It's been this way since we left Amalthea."
+English,"scene_cp33_q3_s20,3332",detail,Vyrn,You ain't kiddin'.
+English,"scene_cp33_q3_s20,3332",detail,Io,Obviously. We're stuck with the Black Knight after all.
+English,"scene_cp33_q3_s20,3332",detail,Io,But it seems like Katalina's got the most on her mind... Sigh... It's so awkward now.
+English,"scene_cp33_q3_s20,3332",detail,Eugen,"Well, it's just... Sorry about my daughter..."
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,No need for apologies. She made her own path.
+English,"scene_cp33_q3_s20,3332",detail,Eugen,Even so—I'm her father.
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,So that means you have to take responsibility for everything she's done?
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"She took over a country, carried out invasions, and caused many lives to be lost."
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"Even if she didn't directly do these things, like the archduke would suggest, well..."
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,She certainly didn't stop them from happening. She left so many people out to dry. Will you atone for her crimes?
+English,"scene_cp33_q3_s20,3332",detail,Eugen,That's not what I meant...
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,Hehe. Sorry for teasing you.
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,But you know the Black Knight is no longer a child.
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,In fact she hasn't been a child for quite some time. It seems silly to try parenting her now that she's accomplished so much.
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"Well whether her accomplishments were for better or worse, she's experienced enough to be an adult several times over."
+English,"scene_cp33_q3_s20,3332",detail,Eugen,...
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"Once you've recognized that, there's one more thing you should be doing as her father, isn't there?"
+English,"scene_cp33_q3_s20,3332",detail,Eugen,Aye... Maybe you're right...
+English,"scene_cp33_q3_s20,3332",detail,Rackam,"Rosetta, I keep tryin' to figure you out, but who are you really?"
+English,"scene_cp33_q3_s20,3332",detail,Rackam,Givin' life advice like that—don't tell me you're actually older than Eugen?
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"Didn't you ever learn that it's rude to ask a lady her age? Hehe, the nerve..."
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"A woman's grace increases for every secret she keeps safe, Io. Keep that in mind!"
+English,"scene_cp33_q3_s20,3332",detail,Io,O-okay...
+English,"scene_cp33_q3_s20,3332",detail,Rosetta,"Good answer. Everyone, let's continue forward to save that little maiden in distress."
+English,"scene_cp33_q4_s10,3341",synopsis,,"When the crew hears a scream in the distance, the Black Knight is unexpectedly the first to respond to the cry."
+English,"scene_cp33_q4_s10,3341",detail,???,Hyaaa!
+English,"scene_cp33_q4_s10,3341",detail,Katalina,...!<br>Was that a scream?
+English,"scene_cp33_q4_s10,3341",detail,Black Knight,"It came from over there! Let's move, [플레이어]!"
+English,"scene_cp33_q4_s10,3341",detail,Rackam,"Hey! Wait! Damn, that woman moves fast."
+English,"scene_cp33_q4_s10,3341",detail,Io,"She can say some pretty mean stuff, but the Black Knight really cares about her country's people."
+English,"scene_cp33_q4_s10,3341",detail,Katalina,Do you really think so? But she said she would give up anything...
+English,"scene_cp33_q4_s10,3341",detail,Vyrn,What're we standin' around for! Let's go help!
+English,"scene_cp33_q4_s10,3341",detail,Lyria,"Right! Come on, [플레이어]!"
+English,"scene_cp33_q4_s20,3342",synopsis,,"The old woman seems to recognize the Black Knight, but the Black Knight is hesitant to acknowledge this fact."
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,Haaah!
+English,"scene_cp33_q4_s20,3342",detail,Monster,Gurgh...
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,Pant... pant...
+English,"scene_cp33_q4_s20,3342",detail,Old Woman,"Thank you, travelers."
+English,"scene_cp33_q4_s20,3342",detail,Old Woman,The soldiers here only guard the borders of our island. They won't even so much as step foot in the city.
+English,"scene_cp33_q4_s20,3342",detail,Old Woman,How can I ever thank you enough.
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,"It was nothing. No one was injured, so—"
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,...!
+English,"scene_cp33_q4_s20,3342",detail,Vyrn,Huh? Why'd you look away from this old lady?
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,Shut up. We need to move on.
+English,"scene_cp33_q4_s20,3342",detail,Old Woman,"Please wait! I can't offer you anything of value, but I can at least treat you to a little Mephorashian hospitality."
+English,"scene_cp33_q4_s20,3342",detail,Old Woman,"Wait. You, have we ever met?"
+English,"scene_cp33_q4_s20,3342",detail,Vyrn,Whoa... Does this old lady know the Black Knight somehow?
+English,"scene_cp33_q4_s20,3342",detail,Io,"But no one would've known who she was underneath her armor, right?"
+English,"scene_cp33_q4_s20,3342",detail,Rackam,"You'd think, but this is imperial territory, so what if she's taken her armor off around the locals?"
+English,"scene_cp33_q4_s20,3342",detail,Monster,Groar!
+English,"scene_cp33_q4_s20,3342",detail,Old Woman,Hyaaa!
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,Tch... There's some left!
+English,"scene_cp33_q4_s20,3342",detail,Black Knight,This city is no place for you filthy monsters!
+English,"scene_cp33_q4_s20,3342",detail,Katalina,What is going on? Didn't she say that she would even sacrifice the people of this city if that's what it took to save Orchis?
+English,"scene_cp33_q4_s20,3342",detail,Eugen,"Do as she does, not as she says! Let's help her protect this woman!"
+English,"scene_cp33_q4_s30,3343",synopsis,,"After the old woman calls out the Black Knight's real name, the crew learns that Orchis used to be the princess of the Erste Kingdom."
+English,"scene_cp33_q4_s30,3343",detail,Monster,Gurgh...
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,Ah! I knew it! You're her!
+English,"scene_cp33_q4_s30,3343",detail,Vyrn,Uh-oh! She definitely knows who you are!
+English,"scene_cp33_q4_s30,3343",detail,Rackam,No hidin' it now. Best we can do is make like a tree and—
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,"Apollo! You're Apollonia, aren't you?"
+English,"scene_cp33_q4_s30,3343",detail,Black Knight,...
+English,"scene_cp33_q4_s30,3343",detail,Io,"Huh? You know Apollonia, ma'am?"
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,"That's right. It's been such a long time, but yes."
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,You've really grown up. Couldn't tell who you were with just a glance.
+English,"scene_cp33_q4_s30,3343",detail,Black Knight,...
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,"I guess it's been, what, about ten years now?"
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,Ah... I guess that's when it happened. It's a shame what happened to Lady Orchis...
+English,"scene_cp33_q4_s30,3343",detail,Lyria,You know about Orchis?
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,"Yes, of course."
+English,"scene_cp33_q4_s30,3343",detail,Old Woman,Who wouldn't know Erste's beloved princess?
+English,"scene_cp33_q4_s30,3343",detail,Lyria,What...
+English,"scene_cp33_q4_s30,3343",detail,Katalina,"Wh-what do you mean! Explain this, Black Knight!"
+English,"scene_cp33_q4_s30,3343",detail,Black Knight,It's just as this woman says.
+English,"scene_cp33_q4_s30,3343",detail,Black Knight,"Before the Erste Emprie was founded, Orchis was the princess of the Erste Kingdom."
+English,"scene_cp33_q4_s30,3343",detail,Black Knight,And... my only friend...
+English,"scene_cp33_q4_s30,3343",detail,,"Faced with this new revelation, [플레이어] and the crew stand silent."
+English,"scene_cp33_q4_s30,3343",detail,,But they will soon come to find that even greater truths are waiting in the heart of the old capital.
