@@ -1,0 +1,812 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",synopsis,,大食い大会決勝戦当日。コルルはレッドラックの想いを引き継ぎ、決勝戦の舞台に上がる。コルルはマッシュの挑発にも動じず、「昨日のわたしとは違い申す！」と強気に対抗する。決勝戦の料理は樹クラゲのホットドッグ。マッシュはお題が見飽きるほど食べた料理だと知って勝利を確信するが、コルルもレッドラックから教わった技術を信じて勝負に臨むのだった。,"많이 먹기 대회 결승 당일. 코루루는 레드럭의 의지를 이어, 결승전 무대를 오른다. 쿠루루는 마슈의 도발에 동요하지 않고 ""어제의 나와는 다르외다!""라고 강하게 대항한다. 결승전 요리는 나무 해파리 핫도그. 마슈는 과제음식이 질릴만큼 먹어본 요리라는 걸 알고 승리를 확신하지만 코루루도 레드락에게 배운 기술을 믿고 승부에 임하는 것이었다."
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,,<span class='scene-font-katari'>大食い大会３日目。</span><br><span class='scene-font-katari'>決勝戦当日。</span>,"<span class='scene-font-katari'>많이 먹기 대회 3일째, 결승 당일날이 밝았다.</span>"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,,<span class='scene-font-katari'>会場内は優勝の瞬間を見届けようと</span><br><span class='scene-font-katari'>観客達が押し寄せ、大会一番の</span><br><span class='scene-font-katari'>熱気に包まれていた。</span>,<span class='scene-font-katari'>회장 안에는 우승하는 순간을 지켜보려는 관객들이 밀려들어 최고의 열기로 가득차 있었다.</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,<span class='scene-font-4'>さあ！</span><br>今大会も本日で最終日を迎えました！,<span class='scene-font-4'>자!</span><br>이번 대회도 오늘로 마지막입니다.
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,仰天、感動、波乱を呼び起こし、<br>過去の大会にも引けを取らぬ今大会！,"기겁과 감동, 파란을 불러일으키며 과거의 어떤 대회에도 지지 않을 정도였던 이번 대회!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,数多の涙と興奮を生んだ<br>熱き名場面の数々は、<br>後の世まで語り継がれることでしょう！,수많은 눈물과 흥분을 자아낸 각각의 뜨거운 명장면들은 후세까지 전해지며 길이 남을 것입니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,そして本日！<br>苛酷極まる戦いの果てに、<br>栄えある勝者が決定いたします！,그리고 오늘! 가혹하기 짝이 없는 싸움 끝에 영광스러운 승자가 결정됩니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,果たして栄光は誰の手に！<br>これより決勝戦の開幕です！,과연 그 영광은 누구의 손에 쥐어질 것인가! 지금부터 결승전을 시작합니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,それでは本日の主役！<br>決勝進出者の方々を<br>お呼びいたしましょう！,그럼 오늘의 주역! 결승 진출자 분들을 모셔보겠습니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,まずはこの方！<br>今大会のダークホースと称される、<br>予測不能の爆食少女！,우선 이 분! 이번 대회의 다크호스라고 칭해지는 예측불능의 폭식소녀!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,<span class='scene-font-4'>アーミラ選手ですッ！！</span>,<span class='scene-font-4'>아미라 선수입니다!</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,아미라,私がいちばん食べる……<br>評判、届ける……！,내가 가장 많이 먹을거야... 소문낼 거야...!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,비,おっ、アーミラだ！<br>今日もいい食いっぷり見せてくれよー！,"어, 아미라다! 오늘도 잔뜩 먹는 모습 보여줘~!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,予選から破竹の勢いで<br>勝ち上がって参りました<br>アーミラ選手！,예선부터 파죽지세로 이기고 올라온 아미라 선수! 
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,果たしてこの勢いのまま、一気に<br>優勝をかっさらってしまうのか！<br>要注目であります！,과연 그 기세 그대로 한번에 우승을 거머쥘 수 있을 것인가! 주목해 봐야겠습니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,続いてはこの方！<br>鋼の如き強固な精神を携え、<br>果敢に挑む不屈の小戦士！,이어서 이 분입니다! 강철처럼 단단한 정신을 지니고 과감하게 도전하는 불굴의 작은 전사! 
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,<span class='scene-font-4'>コルル選手ですッ！！</span>,<span class='scene-font-4'>코루루 선수입니다!</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,ふぅ……,후우...
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,이오,コルルー！<br>あんたなら出来るって<br>あたし、信じてるからー！,코루루! 난 너라면 해낼 수 있다고 믿어!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,레드락,泣いても笑ってもこれが最後だ！<br>修業の成果を見せてやれ！ コルル！,"울게 되든 웃게 되든 이게 마지막이다! 수행의 성과를 보여다오, 코루루!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,<span class='scene-font-kokoro'>（イオ、師匠……</span><br><span class='scene-font-kokoro'>皆の応援がはっきりと聞こえ申す……）</span>,"<span class='scene-font-kokoro'>(이오, 스승님... 응원해 주는 목소리가 똑똑히 들리외다...)</span>"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,<span class='scene-font-kokoro'>（わたしを信じてくれる人のために……</span><br><span class='scene-font-kokoro'>そして、わたしに夢を託した</span><br><span class='scene-font-kokoro'>師匠のために……！）</span>,<span class='scene-font-kokoro'>(날 믿어준 사람들을 위해서. 그리고 내게 꿈을 맡겨준 스승을 위해서...!)</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,狙うは優勝のみ、でごんす！,노리는 것은 우승뿐이올시다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,前日の本戦午前の部では<br>目を瞠る粘りの追い上げを見せました<br>コルル選手！,전날의 본선 오전부에서 눈을 의심케 할 정도의 추격전을 보여준 코루루 선수!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,小柄な身体に秘めた闘志は<br>誰よりも大きい！<br>限界を超えた根性で難敵を打ち破れ！,작은 몸집에 숨겨진 투지는 누구보다 큽니다! 한계를 뛰어넘은 근성으로 난적들을 쳐부수는 겁니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,最後はこの方！<br>今大会最大の番狂わせを起こしました<br>優勝候補筆頭の荒くれファイター！,"마지막으로 이 분입니다! 이번 대회 최대의 파란을 일으킨 유력한 우승후보, 거친 파이터!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,フードファイト界では最早お馴染み！<br>人は彼をこう呼ぶ……,푸드 파이터계에서는 이미 잘 알려졌죠! 사람들은 그를 이렇게 부릅니다...
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,<span class='scene-font-4'>極潰しのマッシュ選手ですッ！！</span>,"<span class='scene-font-4'>""짓뭉개는"" 마슈 선수입니다!</span>"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,<span class='scene-font-4'>っしゃあああああッ！！</span><br><span class='scene-font-4'>獲ったるどおぉぉッ！！</span>,<span class='scene-font-4'>읏샤아아아아! 다 잡아주마!!!</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈의 팬,<span class='scene-font-4'>マッシュ！</span><br><span class='scene-font-4'>マッシュ！！</span><br><span class='scene-font-4'>マッシュ！！！</span>,<span class='scene-font-4'>마슈! 마슈! 마슈!</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,さすがマッシュ選手！<br>空気が震えるほどの熱い声援が<br>会場中から飛び交っております！,역시 마슈 선수입니다! 대기가 흔들릴 정도의 뜨거운 성원이 회장 여기저기서 터져나오고 있습니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,人気、実力ともに断トツ！<br>やはり優勝はマッシュ選手で<br>揺るぎないのか！,인기나 실력이나 단연 압도적! 역시 우승은 마슈 선수인 걸까요?
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,ほう……ケツ割らんかったんかい。,오호... 꼬리 내리고 도망쳤을 줄 알았더니.
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,…………,…………
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,,<span class='scene-font-katari'>マッシュと目がかち合った瞬間、</span><br><span class='scene-font-katari'>コルルは対抗するように</span><br><span class='scene-font-katari'>力強くマッシュを見つめ返す。</span>,"<span class='scene-font-katari'>마슈와 눈이 마주친 순간, 코루루는 그에 맞서듯이 강하게 시선을 되돌려 주었다.</span>"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,おどれの度胸は認めたるわい。<br>じゃが、結果は変わらん。,네 배짱은 인정해 주마. 하지만 결과는 변하지 않아.
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,ワシの優勝した姿を<br>指しゃぶって見ときんさいや！<br>ガキらしゅうのう！ がっはっは！, 내가 우승하는 모습을 손가락이나 빨면서 지켜보시지! 꼬맹이답게 말이다! 크하하!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,言っておくでごんすが、<br>今日のわたしは<br>昨日のわたしとは違い申す！,미리 말해두오만 오늘의 나는 어제와 나는 다르외다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,油断していると、<br>足をすくわれるでごんすよ！,방심하다간 걸려 넘어질 것이외다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,아미라,いっぱい食べて、<br>私が勝つ。,잔뜩 먹고 내가 이길 거야.
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,ほう、おどれもか……<br>どいつもこいつも活きがええのう！,"오호, 너도 말이냐? 이 녀석이나 저 녀석이나 기운이 넘치는구만!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,<span class='scene-font-4'>上等じゃッ！</span><br>現実っちゅうモンを教えたるわいッ！,<span class='scene-font-4'>어디 해보자!</span><br>현실이라는 걸 똑똑히 깨우쳐 주마!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,おう、司会者さん。<br>あんまり観客を待たせたらアカンけぇ、<br>そろそろ始めようや。のう？,"이봐, 사회자 씨. 관객들을 너무 기다리게 하면 못 쓰지. 슬슬 시작하자고. 엉?"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,は、はい！<br>もちろんです！,"아, 예! 그래야죠!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,そ、それでは早速！<br>メニューを紹介させていただきます！,"그, 그럼 바로 메뉴를 소개하도록 하겠습니다!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,決勝戦のメニューは……こちら！,결승전 메뉴는 바로... 이겁니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,<span class='scene-font-4'>樹クラゲのホットドッグ、</span><br>でございます！,<span class='scene-font-4'>나무 해파리 핫도그</span><br>되겠습니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,大食い大会と言えば、やはり定番！<br>最もフードファイトの技術が試される<br>料理のひとつでございます！,역시 많이 먹기 대회라면 핫도그죠! 푸드파이터로서의 기술이 가장 시험되는 요리 중 하나입니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,今回の料理は、一般的に使用される<br>ソーセージに見立て、丸太状に成型した<br>樹クラゲを代用しております！,"이번 요리에는 일반적으로 사용되는 소시지처럼 보이지만, 둥그렇게 성형한 나무 해파리를 사용했습니다!"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,ソーセージとはまた違った食感と<br>魚介ベースのソースが食欲をそそる、<br>庶民的ながら極上の一品でございます！,소시지와는 또 다른 식감과 해산물을 베이스로 한 소스가 식욕을 돋웁니다. 서민적이지만 최고의 일품요리라 할 수 있겠습니다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,ホットドッグかい！<br>おどれら運がないのう！,핫도그라! 너희들 운이 없구만!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,ワシらフードファイターは<br>見飽きるほど食うとるけぇ、<br>コツは熟知しとるわい！,우리같은 푸드 파이터는 질릴만큼 먹어온 녀석이지.
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,優勝はもう決まったモンじゃのう！<br><span class='scene-font-4'>がっはっは！</span>,요령은 완전히 터득했고말고! 우승은 이미 정해졌구만! <br><span class='scene-font-4'>하하핫!</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,コツならば、<br>わたしも師匠から学んで<br>知っているでごんす！,요령이라면 나도 스승님한테 배워서 알고 있소이다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,知っとる？ よう言うわい！<br>たった１日の付け焼刃で<br>何ができよるんなら！,알고 있다고? 말은 잘 하네! 겨우 하루동안 벼락치기한 걸로 뭘 할 수 있다는 거야?
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,付け焼刃であることは否定し申さん。<br>しかし、わたしは師匠から教わった<br>勝ち方を信じるのみ！,벼락치기라는 건 부정하지 않겠소이다. 허나 나는 스승님에게 배운 방법을 믿을 뿐이외다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,코루루,結果は自ずとわかり申そう！,결과는 직접 느끼게 될 것이외다!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,ふん……こーへぇなガキじゃのう。<br>イライラさせよるわい、ホンマに……,흐음... 깜찍한 소릴 하는 꼬맹이구만. 진짜로 짜증나려고 하는데. 
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,마슈,<span class='scene-font-4'>ぶっ倒すッ！！</span>,<span class='scene-font-4'>쳐부숴 주마!</span>
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,,<span class='scene-font-katari'>係員が料理を運び終えると、</span><br><span class='scene-font-katari'>嵐の前の静けさのように</span><br><span class='scene-font-katari'>会場内が自然と静まり返る。</span>,"<span class='scene-font-katari'>진행요원이 요리 나르기를 마치자, 자연히 폭풍 전과 같은 고요함이 회장 전체를 뒤덮었다.</span>"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,長らくお待たせいたしました！<br>皆様、準備はよろしいでしょうか！,"오래 기다리셨습니다! 여러분, 준비 되셨습니까?"
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,세명,…………！,…………！
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,数十年ぶりに復活した今大会も<br>いよいよ大詰め！,십수년만에 부활한 이 대회도 드디어 끝을 앞두고 있습니다! 
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,伝説のチャンピオンの系譜に<br>名を連ねるのは、<br>果たしてどの選手なのか！,전설의 챔피언 계보에 이름을 올리는 것은 과연 어떤 선수일까요!
+Japanese,"scene_evt200628_cp6_q1_s10,7556611",detail,사회자,それでは決勝戦……スタートです！！,그러면 결승전... 스타트!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",synopsis,,決勝戦の開始と同時に、アーミラとマッシュは怒涛の勢いで料理を口に運んでいく。一方、コルルは冷静さを保ちながら大食いの技術を胸の内で反芻し、最適な戦法を心に描いて食べ進める。戦いの中、次第にマッシュのペースが乱れていく。しかし、マッシュは突然に水を一気飲みすると、ペースを取り戻してトップに躍り出る。コルルとアーミラは負けじとその背を追うのだった。,"결승전 시작과 동시에 아미라와 마슈는 노도의 기세로 요리를 입으로 가져간다. 한편, 코루루는 냉정함을 유지하며 많이 먹기 기술을 가슴속에서 되내이며 최적의 전법을 구상한뒤 먹기 시작한다. 싸움 속에서 점차 마슈의 페이스가 흐트러져 간다. 하지만 마슈는 갑자기 물을 한번에 들이키더니, 페이스를 되찾아 톱으로 뛰어 오른다. 코루루와 아미라는 질 수 없다는듯 그 뒤를 쫓는 것이었다."
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>司会者の合図をかき消すほどの声援で</span><br><span class='scene-font-katari'>埋め尽くされる会場内。</span>,<span class='scene-font-katari'>회장 안은 사회자의 신호가 묻혀 들리지 않을 정도의 함성소리로 뒤덮였다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>その声援を一斉に浴びながら、</span><br><span class='scene-font-katari'>アーミラとマッシュが同時に</span><br><span class='scene-font-katari'>飛びつくように料理に手を伸ばす。</span>,"<span class='scene-font-katari'>그 성원을 한 몸에 받으며, 아미라와 마슈는 달려들듯이 음식에 손을 뻗었다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,아미라,はむ、もぐもぐもぐ！<br>はむはむもぐもぐもぐはむ！,"우물, 냠냠냠냠! 우물우물 냠냠!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>どっせいッ！</span>,<span class='scene-font-4'>으랴아!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,<span class='scene-font-4'>おおーっと！</span><br>スタートダッシュを決めたのは<br>アーミラ選手とマッシュ選手！,<span class='scene-font-4'>오호!</span><br>스타트와 함께 아미라 선수와 마슈 선수가 뛰쳐나갑니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,アーミラ選手はひたすら料理を掴んでは<br>口に運び、マッシュ選手は料理を<br>ひとつに固めて口に放り込んでいく！,"아미라 선수는 그저 음식을 움켜쥐고 입에 집어넣는 한편, 마슈 선수는 요리를 하나로 뭉쳐서 입에 쑤셔넣습니다."
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,まさに物の怪の戦場！<br>しかしコルル選手は物怖じせず、<br>冷静に集中力を高めているようだ！,마치 신들린 듯한 모습이군요! 반면 코루루 선수는 그에 주눅들지 않고 냉정하게 집중력을 높이고 있는 모습입니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（ふぅ……よし！</span><br><span class='scene-font-kokoro'>師匠との修行を思い出すでごんす）</span>,<span class='scene-font-kokoro'>(후우... 좋아! 스승님과의 수행을 떠올리는 것이외다!)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（飲み水は最小限に。</span><br><span class='scene-font-kokoro'>水で胃の中を満たすのは</span><br><span class='scene-font-kokoro'>ご法度であり申す）</span>,<span class='scene-font-kokoro'>(물은 최소한도만 마시기. 물로 위를 채워버리면 안 된다고 했소이다.)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（咀嚼は最小限に。</span><br><span class='scene-font-kokoro'>噛む回数を減らし、</span><br><span class='scene-font-kokoro'>満腹感を抑えるでごんす）</span>,<span class='scene-font-kokoro'>(씹기도 최소한도로만. 씹는 횟수를 줄여 포만감을 억제하는 것이외다)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,いざ……いただくでごんす！,그럼... 먹어보겠소이다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>コルルは修行内容を思い返し、</span><br><span class='scene-font-katari'>蓄えた知識と照らし合わせながら</span><br><span class='scene-font-katari'>最適な方法を探り始める。</span>,<span class='scene-font-katari'>코루루는 수행했던 내용을 하나하나 생각해내어 쌓아온 지식과 맞춰가며 최적의 방법을 찾고 있었다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（棒状の樹クラゲ……</span><br><span class='scene-font-kokoro'>この長さのまま一気に飲み込んでは、</span><br><span class='scene-font-kokoro'>喉につっかえてしまうでごんす）</span>,<span class='scene-font-kokoro'>(봉처럼 가공된 나무 해파리... 이 길이를 한번에 삼키면 목에 걸려버릴 것이외다)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,ならば……！,그렇다면...!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>コルルはホットドッグから</span><br><span class='scene-font-katari'>樹クラゲだけを引き抜き、束にして</span><br><span class='scene-font-katari'>勢いよく半分に引き千切る。</span>,"<span class='scene-font-katari'>코루루는 핫도그에서 나무 해파리들만 집어낸 후, 한번에 모아 기세좋게 반으로 씹었다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,これで喉にもつっかえず、<br>短い分、咀嚼の負担が減り申した。<br>あとはこれを可能な限り詰め込み……,"이러면 목에도 걸리지 않고, 짧은만큼 씹는 부담도 줄어들 것이외다. 남은 건 이걸 가능한 한 밀어넣어서..."
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,……ごくん！<br>よし、この調子でごんす！,"...꿀꺽! 좋아, 이렇게 하면 되겠소이다!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>調子を掴んだコルルは、</span><br><span class='scene-font-katari'>樹クラゲを抜いて残された大量のパンに</span><br><span class='scene-font-katari'>すかさず目を向ける。</span>,<span class='scene-font-katari'>요령을 잡은 코루루는 곧이어 나무 해파리를 빼내고 남겨진 수많은 빵에 눈을 돌렸다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,パンも樹クラゲと同様に半分に。<br>しかし樹クラゲと異なり、パンは<br>ふっくらしていて横幅があり申す……,빵도 나무 해파리처럼 반씩... 하지만 나무 해파리와는 달리 부풀어올라 면적이 넓소이다.
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,このままではひとつ食すだけで<br>時間を取られ、口の中もパサパサに……<br>どうすれば……,이러다간 하나씩 먹는 데에 시간을 빼앗기는 데다가 목도 메일 것이외다. 어떻게 해야...
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>頭を抱えるコルルは、ふと</span><br><span class='scene-font-katari'>手元のコップを目にして閃く。</span>,<span class='scene-font-katari'>머리를 쥐어매던 코루루는 문득 곁에 있는 컵에 눈길을 주었다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-4'>そうでごんす！</span><br>水に浸せば、サイズが縮んで<br>パサパサも防ぎ申そう！,<span class='scene-font-4'>그렇구려!</span><br>물을 적시면 사이즈도 줄어들고 목도 덜 메일 것이외다! 
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,物は試し、でごんす！,그럼 시험해 보겠소이다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>コルルはパンをコップの水に浸し、</span><br><span class='scene-font-katari'>縮んで柔らかくなったそれを口に運んで</span><br><span class='scene-font-katari'>一気に飲み込む。</span>,"<span class='scene-font-katari'>코루루는 컵에 든 물을 빵에 적시고, 쭈그러들어 부드러워진 빵을 입에 넣은 후 단숨에 삼켰다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,ごくん……<br>よし、これならば！,"꿀꺽... 좋아, 이거라면...!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,あとは浸す水の量を調節し、<br>出来る限り胃の負担を減らすのみ！<br>一気に攻めるでごんす！,남은 건 적시는 물의 양을 조절해서 가능한 한 위에 부담을 줄이는 것뿐이외다! 쭉쭉 가겠소이다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>コルルは最適な戦法を見出し、</span><br><span class='scene-font-katari'>脇目も振らず料理を口に運んでいく。</span>,"<span class='scene-font-katari'>코루루는 최적의 전법을 찾아낸 후, 망설임없이 음식을 입으로 옮기기 시작했다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,コルル選手！<br>ようやく本格的に動き出した模様！,코루루 선수! 드디어 본격적으로 움직이기 시작한 모양입니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,しかしトップを走るマッシュ選手とは<br>すでに大きな差が開いている！<br>果たして逆転は可能なのか！,그러나 선두를 달리는 마슈 선수와는 이미 엄청난 차가 벌어져 있습니다! 과연 역전이 가능할 것인가!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-kokoro'>（余計な知恵つけよったようじゃが、</span><br><span class='scene-font-kokoro'>もう手遅れじゃ）</span>,<span class='scene-font-kokoro'>(쓸데없는 지혜나 쥐어짜내기는. 이미 늦었어.)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-kokoro'>（こんガキは構わんでええ。</span><br><span class='scene-font-kokoro'>厄介なんは、こいつじゃ）</span>,<span class='scene-font-kokoro'>(저 꼬맹이는 내버려둬도 돼. 문제는 이 녀석이지)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,아미라,もぐもぐもぐ！<br>はむもぐもぐはむはむはむ！,우물우물우물! 우적우적우물우물우물!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>一心不乱に料理を平らげるアーミラを、</span><br><span class='scene-font-katari'>マッシュは恨めしそうに睨みつける。</span>,<span class='scene-font-katari'>마슈는 정신없이 접시를 비워나가는 아미라를 얄밉다는 듯이 노려보았다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-kokoro'>（この２日ガバガバ食いよって、</span><br><span class='scene-font-kokoro'>やおい胃袋になったんか……）</span>,<span class='scene-font-kokoro'>(요 이틀새 잔뜩 먹어치운 덕분에 위장이 부드러워진 건가...)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>チッ、うずろうしいわい！</span>,"<span class='scene-font-4'>쳇, 짜증나는 녀석!</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>短期間の大食いで胃袋が柔らかくなった</span><br><span class='scene-font-katari'>アーミラの予期せぬ底力に、</span><br><span class='scene-font-katari'>苛立ちを募らせるマッシュ。</span>,"<span class='scene-font-katari'>짧은 기간에 많은 양을 먹어치운 탓에 위장이 부드러워진 아미라가 예상치 못한 저력을 보여주자, 마슈는 점점 더 짜증스러운 모습을 보이고 있었다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>初めは両者ともに並んでいたが、</span><br><span class='scene-font-katari'>アーミラの理論を無視した戦法につられ</span><br><span class='scene-font-katari'>マッシュのペースが徐々に乱れ始める。</span>,"<span class='scene-font-katari'>처음에는 둘 다 비슷한 페이스였으나, 아미라의 이론 따위는 무시한 전법에 덩달아 마슈의 페이스도 서서히 무너지기 시작했다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,クソッ……！<br>やりにくいガキじゃ……！,제길... 상대하기 힘든 꼬맹이구만...!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,<span class='scene-font-4'>あーっと！</span><br>これはなんということでしょう！,<span class='scene-font-4'>이런! </span><br>이게 어떻게 된 일인가요!마슈
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>なんなら！？</span>,<span class='scene-font-4'>뭔데?</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,ここに来てコルル選手が<br>凄まじい追い上げを見せております！,여기서 코루루 선수가 어마어마한 추격전을 보여주고 있습니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,この調子ならば！,이대로 가면!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,なんじゃと……！？,뭐...?
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>マッシュがアーミラに</span><br><span class='scene-font-katari'>気を取られている隙に、コルルは順調に</span><br><span class='scene-font-katari'>皿を積み上げてマッシュに迫っていた。</span>,"<span class='scene-font-katari'>마슈가 아미라에게 정신을 빼앗긴 사이, 코루루는 순조롭게 빈 접시를 쌓아올리며 마슈를 추격한 것이었다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,こん……ガキどもぉッ！！,이... 꼬맹이들이!!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>ぬぐあああああッ！！</span>,<span class='scene-font-4'>으아아아아!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,아미라,はむもぐもぐはむはむはむ！,우물우물우적우적우적!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,もぐもぐ、ごくん！<br>もぐもぐもぐ、ごくん！,"우물우물, 꿀꺽! 우물우물우물, 꿀꺽!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,コルル選手に焚きつけられたのか、<br>マッシュ選手とアーミラ選手が<br>ペースを上げていく！,코루루 선수에게 자극받은 걸까요? 마슈 선수와 아미라 선수가 페이스를 올립니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,しかしコルル選手も負けてはいない！<br>必死に食らいついていきます！,그러나 코루루 선수도 지지 않습니다! 필사적으로 먹어치웁니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>ほぼ横並びの混戦が繰り広げられたが、</span><br><span class='scene-font-katari'>その中で真っ先にペースを落としたのは</span><br><span class='scene-font-katari'>優勝候補筆頭のマッシュだった。</span>,"<span class='scene-font-katari'>거의 호각상태의 난전이 펼쳐지고 있었으나, 그 사이에서 제일 먼저 페이스를 떨어뜨린 것은 유력한 우승후보인 마슈였다.</span>"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,クソッ……！,제길...!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,な、なんと！<br>マッシュ選手の勢いが落ちている！,"이, 이런! 마슈 선수의 기세가 떨어지고 있습니다!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,アーミラ選手とコルル選手に<br>意識を割きすぎたせいか、完全に<br>自らのペースを見失っております！,"아미라 선수와 코루루 선수에게 정신이 팔린 탓인지, 자신의 페이스를 완전히 잃어버리고 말았습니다!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,長年、マッシュ選手の戦いぶりを<br>この目で見てきた私から見ても、<br>非常に珍しい光景であります！,오랜 기간 마슈 선수의 싸움을 이 눈으로 봐 왔던 제가 보기에도 대단히 희귀한 광경입니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-kokoro'>（ワシが、負けるんか……？</span><br><span class='scene-font-kokoro'>たかが素人のガキどもに……？）</span>,<span class='scene-font-kokoro'>(내가 지는 건가...? 이 아마추어 꼬맹이들한테?)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-kokoro'>（いや……方法はある。</span><br><span class='scene-font-kokoro'>じゃが、アレに手ぇ出しよったら</span><br><span class='scene-font-kokoro'>ワシはフードファイターとして……）</span>,<span class='scene-font-kokoro'>(아니... 방법은 있어. 하지만 거기에 손을 대면 나는 푸드 파이터로서...)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-kokoro'>（それでも、ワシは勝たんといけん！</span><br><span class='scene-font-kokoro'>あん人らが遠くから見とるんじゃ！）</span>,<span class='scene-font-kokoro'>(하지만 나는 이겨야 해! 그 사람들이 멀리서 바라보고 있어!)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,ワシは、ワシはのう……<br>負けるわけにはいかんのじゃあッ！！,"나는, 나는 말이다... 질 수 없다!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>マッシュは力強く叫ぶと、</span><br><span class='scene-font-katari'>突然コップを掴み、呷るように</span><br><span class='scene-font-katari'>水を一気に飲み干す。</span>,<span class='scene-font-katari'>마슈는 크게 소리지르더니 갑자기 컵을 들고 그 안의 물을 단숨에 들이켰다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,……っ！？,...!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（大食いにおいて、</span><br><span class='scene-font-kokoro'>意味もなく大量に水を飲むことは</span><br><span class='scene-font-kokoro'>自殺行為のはず……）</span>,<span class='scene-font-kokoro'>(많이 먹기에서 의미없이 물을 잔뜩 마시는 것은 자살행위일 터인데...)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（師匠と同じフードファイターならば、</span><br><span class='scene-font-kokoro'>その基本知識を知らぬはずがない……）</span>,<span class='scene-font-kokoro'>(스승님과 같은 푸드 파이터라면 그런 기본적인 지식도 모를 리가 없소이다)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,どういうことでごんすか……？,어떻게 된 것이외까...?
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>っしゃあッ！</span><br><span class='scene-font-4'>勝負はこっからじゃッ！！</span>,<span class='scene-font-4'>읏샤! 승부는 지금부터야!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,,<span class='scene-font-katari'>マッシュは気合いを入れ直すように</span><br><span class='scene-font-katari'>声を張り上げ、大食いを再開する。</span>,<span class='scene-font-katari'>마슈는 기합을 불어넣듯이 소리를 지르더니 다시 음식을 먹기 시작했다.</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>どらあああああッ！！</span>,<span class='scene-font-4'>으랴아아아!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,<span class='scene-font-4'>な、なんとなんと！</span><br>マッシュ選手のペースが<br>戻り始めました！,"<span class='scene-font-4'>이, 이게 무슨!</span><br>마슈 선수의 페이스가 원래대로 돌아왔습니다!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,まだ力を隠していたのか！<br>あるいはフードファイターとしての<br>底意地か！,아직 힘을 숨기고 있었던 걸까요? 아니면 푸드 파이터로서의 근성인 걸까요?
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,これは勝負の行方が<br>わからなくなって参りました！,이러면 승부의 행방을 알 수가 없겠군요!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,ま、まずいでごんす……！,"조, 좋지 않소이다...!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,아미라,負けない！<br>はむはむもぐもぐもぐもぐ！,안 질거야! 우물우물얌냠냠냠냠냠!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,コルル選手とアーミラ選手！<br>マッシュ選手を引き離そうと<br>さらにペースを上げていくが……！,코루루 선수와 아미라 선수! 마슈 선수를 떨쳐내기 위해 더욱더 페이스를 올립니다만...
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>うおらああああッ！！</span>,<span class='scene-font-4'>으라아아아아아!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,<span class='scene-font-4'>ああーっと！ ついに！</span><br>ついにマッシュ選手が<br>単独トップに躍り出ました！,오오! 드디어! 드디어 마슈 선수가 단독 선두에 올라섰습니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,独走のマッシュ選手！<br>この勢いにコルル選手とアーミラ選手は<br>ついていくことができない！,독주중인 마슈 선수! 코루루 선수와 아미라 선수는 이 기세를 따라잡지 못합니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈의 팬,<span class='scene-font-4'>マッシュ！</span><br><span class='scene-font-4'>マッシュ！！</span><br><span class='scene-font-4'>マッシュ！！！</span>,<span class='scene-font-4'>마슈! 마슈! 마슈!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,ここ一番のマッシュコール！<br>声援がマッシュ選手の背中を<br>後押しします！,지금까지 들어본 것중 가장 큰 응원소리입니다! 응원이 마슈 선수의 등을 밀어주고 있습니다!
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,制限時間も半分を過ぎました！<br>このままマッシュ選手の勝利が<br>決まってしまうのか！,제한시간은 반을 넘어섰습니다! 이대로 마슈 선수의 승리가 결정되는 걸까요?
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,아미라,はむはむはむ、負け……！<br>もぐもぐもぐ、ない……！,"우물우물우물, 지지... 우적우적우적, 않아...!"
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-kokoro'>（わたしが負けたら、</span><br><span class='scene-font-kokoro'>師匠の夢は……！）</span>,<span class='scene-font-kokoro'>(내가 진다면 스승님의 꿈이...!)</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,코루루,<span class='scene-font-4'>諦めないでごんす！</span>,<span class='scene-font-4'>포기하지 않겠소이다!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,마슈,<span class='scene-font-4'>ワシの勝ちじゃああぁッ！！</span>,<span class='scene-font-4'>내 승리다!!!</span>
+Japanese,"scene_evt200628_cp6_q2_s10,7556621",detail,사회자,マッシュ選手はすでに勝利を確信！<br>最後に笑うのは果たして誰なのか！,마슈 선수는 이미 승리를 확신하는 모습입니다! 최후에 웃는 것은 과연 누구일 것인가!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",synopsis,,マッシュの優勝は目前と思われた矢先、食料が尽きて中断というアクシデントが発生する。一行が再開を待っていると、突如アーミラが浮遊する謎の物体にしがみついて現れる。謎の物体の正体はカキフライと呼ばれる生物で、カキフライは地上の騒動に興奮して襲いかかってくる。大食い大会どころではない状況にレッドラックが立ち上がり、カキフライを迎え撃つ。,"마슈의 우승이 거의 확실시 되던 그 때, 음식이 다 떨어져 중단되는 사고가 발생한다. 일행이 재개를 기다리고 있던 도중, 갑자기 아미라가 부유하는 수수께끼의 생물에 매달려서 나타난다. 수수께끼의 생물의 정체는 ""카키후라이""라고 불리는 생물이었고, 카키후라이는 지상의 소동에 흥분하여 공격을 해온다. 많이 먹기 대회를 속행할 수 없는 상황에 레드락이 일어나 카키후라이를 맞선다."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>勝負も後半を迎え、</span><br><span class='scene-font-katari'>怒涛の勢いでトップの座に</span><br><span class='scene-font-katari'>のし上がるマッシュ。</span>,"<span class='scene-font-katari'>승부는 후반에 접어들었고, 마슈는 노도와 같은 기세로 선두에 올라섰다.</span>"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>その後もマッシュの勢いは衰えず、</span><br><span class='scene-font-katari'>マッシュの優勝は決定的かと思われた</span><br><span class='scene-font-katari'>その矢先だった。</span>,"<span class='scene-font-katari'>그 후로도 마슈의 기세는 꺼지질 않았고, 그의 승리가 결정된 것처럼 느껴지던 순간이었다.</span>"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,사회자,<span class='scene-font-4'>ストップ！</span><br><span class='scene-font-4'>ストーーップです！</span>,<span class='scene-font-4'>스톱! 스톱!!!</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,……？,……？
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,ほぇ……？,어라...?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,なんじゃあ？,뭐야?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>司会者の唐突な中断宣言に、</span><br><span class='scene-font-katari'>会場内は水を打ったように静まり返る。</span>,"<span class='scene-font-katari'>사회자의 갑작스런 중단 선언에, 회장 안은 찬물을 끼얹은 듯이 조용해졌다.</span>"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,사회자,アクシデントです！<br>たった今……提供する料理が<br>底を突いてしまいました！,"비상사태입니다! 조금 전, 제공되는 요리가 바닥을 드러내고 말았습니다!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,<span class='scene-font-4'>なんじゃと！？</span>,<span class='scene-font-4'>뭐라고?</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,な、ならば勝負は……！？,"그, 그럼 승부는..."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,사회자,少々お待ちください！<br>はい、ええ、あー、はい……,"잠시만 기다려 주십시오! 네, 아.... 음... 네..."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,사회자,ただいま、運営者の方と<br>協議いたしました！,방금 운영측과 협의를 마쳤습니다. 
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,사회자,その結果、休憩を挟み、<br>食材を改めて調達後に<br>再開することといたしました！,"그 결과, 휴식할 겸 식재료를 새로 조달한 후에 재개하는 것으로 결정되었습니다!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,ふん、命拾いしたのう。,"흥, 운도 좋구만."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,…………,…………
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,食べ物……もう、ない……？,먹을 거... 이제 없어?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,사회자,こちらの不手際により<br>ご迷惑をおかけいたしますが、<br>どうかご了承くださいませ！,저희 불찰로 폐를 끼쳐드려 죄송하지만 이해해 주시기 바랍니다!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>休憩に入り、一旦</span><br><span class='scene-font-katari'>[플레이어]達の元に戻ってくる</span><br><span class='scene-font-katari'>コルルとアーミラ。</span>,<span class='scene-font-katari'>휴식시간을 맞은 코루루와 아미라는 일단 단장 일행의 곁으로 돌아왔다.</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>しかしその表情は、</span><br><span class='scene-font-katari'>晴れやかと言うには程遠い。</span>,<span class='scene-font-katari'>그러나 그 표정은 밝다고 하기 힘들었다.</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,…………,…………
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,이오,コルル、元気出して！<br>まだ勝負は終わってないんだから！,"코루루, 기운 내! 아직 승부는 끝나지 않았어!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,イオの言う通りだ。<br>勝負ってのは最後まで<br>わからねぇもんだぞ。,이오 말대로다. 승부라는 건 마지막까지 알 수 없는 거야.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,お前は、俺が教えたコツを<br>本番でしっかり活かしてた。<br>俺ぁ感心したぜ。,너는 내가 가르쳐 준 요령을 제대로 살렸더구나. 자랑스럽다.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,しかし、このままでは……,하지만 이대로는...
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,お前の今の気持ちはわかる。<br>届きそうで届かないってのは辛ぇよな。,지금 네 마음은 이해한다. 곧 닿을 듯 닿지 않는 건 괴롭지.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,だが、マッシュの野郎が<br>一筋縄じゃいかねぇ相手だってのは<br>わかってたことだろ？,하지만 마슈 녀석이 쉽게 당할 상대가 아니라는 건 알고 있었잖냐?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,それは、そうでごんすが……,그야 그렇소이다만...
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,そもそもこの戦いは早食いじゃねぇ。<br>大食いだ。,애초에 이 싸움은 빨리 먹기가 아냐. 많이 먹기다.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,時間配分を計算して、<br>最後まで温存して一気に逆転を狙う<br>パターンはよくある。,시간 배분을 계산해서 마지막까지 힘을 남겨뒀다가 순식간에 역전을 노리는 패턴도 종종 보이지.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,運営側もその点を考慮して、<br>休憩を挟むっつう判断に<br>したんだろうぜ。,운영측은 그 점도 고려해서 휴식을 끼워넣는다는 판단을 한 걸거다.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,料理がなくなって終わりじゃあ、<br>配分考えてた奴が損しちまって<br>大会の趣旨が変わっちまうからな。,요리가 없어졌다고 해서 끝낸다면 페이스를 생각하던 녀석들이 손해를 봐서 대회의 취지가 바뀌어 버리니까 말이다.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,あいつがあの調子で最後まで<br>ガンガン飛ばせるって保証はねぇ。<br>諦めなけりゃ勝機はある。,녀석이 저런 상태로 마지막까지 계속 먹어치울 수 있다는 보장은 없어. 포기하지만 않으면 승기가 있을 거다.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,だから顔を上げろ。<br>自信を持て。,그러니 고개 들어. 자신감을 가지고.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,師匠……,스승님...
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,おうおう、青春ごっこかいな！<br>ワシも混ぜてくれんかの！,"어우, 뜨거운 청춘이구만! 나도 끼워 주시지 그래?"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>優越感を見せつけるように</span><br><span class='scene-font-katari'>やってきたマッシュを、レッドラックは</span><br><span class='scene-font-katari'>追い返すように睨みつける。</span>,<span class='scene-font-katari'>레드락은 스스로가 유리한 위치임을 뽐내듯 다가온 마슈를 내쫓으려는 듯이 노려보았다.</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,わざわざ敵のところまで<br>足を運んでくるたぁ、<br>てめぇもつくづく暇人だな。,일부러 적들이 있는 곳까지 행차하시다니 너도 어지간히 한가하구만.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,ビィが間違えた<br>暇潰しのマッシュってのも、<br>言い得て妙ってもんだぜ。,비가 잘못해서 말했던 빈둥대는 마슈라는 말이 딱 들어맞네.마슈
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,なんとでもほざいとれ。<br>なんぼデカい顔しようが、<br>勝負するんはガキどもじゃけぇ。,좋을 대로 떠드시지. 아무리 허세를 부려도 나랑 승부하는 건 꼬맹이들이니까.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,のう、嬢ちゃん？,안 그러냐? 아가씨.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,…………！,…………！
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,そうだな……<br>俺ぁとっくに外野の身だ。<br>これ以上出張るつもりはねぇよ。,그래... 나는 이미 장외에 있는 몸이지. 이 이상 나설 생각은 없어.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,だが、これだけは言っとくぜ。<br>こいつらを舐めてかかると、<br>てめぇが食われるってな。,하지만 이것만은 말해 두마. 이 녀석들을 깔보다간 네가 집어삼켜질 거다.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,<span class='scene-font-4'>がはははっ！</span><br>そりゃあ楽しみじゃ！,<span class='scene-font-4'>크하하하!</span><br>그거 기대되는데!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,마슈,まぁ、もうひとりのガキは<br>ケツ割りよったようじゃがの！,"뭐, 다른 꼬맹이는 꼬리 말고 도망간 모양이다만!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루리아,あれ？<br>アーミラさんがいません！,어라? 아미라 씨가 없어요!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,おいおい……<br>決勝の途中だってのに、<br>あいつどこ行っちまったんだ？,"이런... 그 녀석, 결승 도중에 어딜 간 거야?"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",sel1_txt,,<span class='scene-font-katari'>探しに行こう</span>,<span class='scene-font-katari'>찾아보러 가자</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",sel2_txt,,<span class='scene-font-katari'>遊びに行ったのかも</span>,<span class='scene-font-katari'>놀러 갔을지도 몰라</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루리아,はい！ もちろんです！,네! 그래야죠!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,主役が欠けてたんじゃ<br>始まらねぇもんな！,주역 없이는 진행이 안 되니까 말야!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,いやぁ……<br>アーミラも本気で優勝目指してるし、<br>今はそういう気分じゃねぇと思うぜ？,아니……<br>아미라도 진심으로 우승을 목표로하고 있으니 지금은 그럴 기분은 아니지 않을까?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,でも、能天気なアーミラなら<br>あり得なくもねぇか……？,"그래도, 덜렁거리는 아미라니까 전혀 아니라고 할수는 없나……？"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라의 목소리,……おーい！,...얘들아!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,ん？ 今アーミラの声が……,응? 방금 아미라 목소리가...
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라의 목소리,獲ったー！,잡았어!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,さっきより近いみてぇだけど……<br>どっから聞こえんだ？,아까보다 가까워진 것 같은데... 어디서 들리는 거지?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,<span class='scene-font-4'>あっ！ 上でごんす！</span>,<span class='scene-font-4'>아! 위쪽이올시다!</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,<span class='scene-font-4'>見て！ 貝！</span>,<span class='scene-font-4'>이거 봐! 조개!</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루리아,ア、アーミラさんが空を……！？,"아, 아미라 씨가... 하늘을 날고 있어?"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,あいつ何にしがみついてんだ！？<br>魔物か！？,저 녀석 뭐에 달라붙어 있는 거야? 마물인가?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,세바스찬,あれは……<span class='scene-font-spword'>“カキフライ”</span>ですね。,"저건...<span class='scene-font-spword'>""카키후라이*""</span>군요. <br><br> <span class='scene-font-spword'>*굴 튀김(fry), 날으는(fly) 굴</span>"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루리아,かき、ふらい……？,카키후라이...?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,세바스찬,その名の通り、空を飛ぶカキ。<br>カツウォヌスに並ぶ<br><span class='scene-font-place'>アウギュステ</span>の名産のひとつです。,그 이름처럼 하늘을 나는 굴입니다. 카츠오누스 못지않은 <span class='scene-font-place'>아우규스테</span> 명물의 하나죠.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,세바스찬,２枚貝をホイールのように回転させ<br>地上を滑走したり、<br>謎の力が作用して空を飛んだりと……,"두 개의 껍질을 휠처럼 회전시키며 땅 위를 활주하기도 하고, 의문의 힘을 발휘해서 하늘을 날기도 하고... "
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,세바스찬,未だ謎の多い生物でありますが、<br>生で食べても焼いても美味しい<br>食材でございます。,"지금도 의문점이 많은 생물입니다만, 생으로 먹든 구워먹든 맛있는 식재료입니다."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,세바스찬,私もぜひ一度食してみたいと<br>思っていましたが、あの様子では<br>捕獲するのも一苦労のようですね。,"저도 꼭 한번 먹어보고 싶었습니다만, 저런 상태라면 잡는 데에도 꽤나 수고가 들겠군요."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루리아,早くどうにかしないと！<br>アーミラさんが危ないです！,어서 어떻게든 해야 해요! 아미라 씨가 위험해요!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,それに観客達もな。<br>見ろ、パニックになってやがる。,"게다가 관객들도 위험해. 봐, 패닉에 빠졌어."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,관광객 남성2,<span class='scene-font-4'>逃げろー！</span><br>ここにいると危ないぞー！,<span class='scene-font-4'>도망쳐!</span> 여기 있으면 위험해!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,관광객 여성2,<span class='scene-font-4'>助けてー！ 誰かー！</span>,<span class='scene-font-4'>누가 좀 살려줘!</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,카키후라이,────ッ！,...!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>カキフライは人々の混乱に興奮し、</span><br><span class='scene-font-katari'>地上に向かって急降下する。</span>,<span class='scene-font-katari'>카키후라이는 사람들이 혼란에 빠진 모습을 보고 흥분했는지 지상을 향해 급강하했다.</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,わっ……！？,어...!?
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,へぶっ……！,으읍!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>急降下したカキフライの勢いに</span><br><span class='scene-font-katari'>耐え切れず振り落とされたアーミラは、</span><br><span class='scene-font-katari'>頭から砂浜に衝突する。</span>,<span class='scene-font-katari'>급강하하는 카키후라이의 기세를 따라잡지 못하고 떨쳐진 아미라는 머리부터 모래사장에 처박혔다.</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,っぱ！<br>げほげほっ！,푸하! 쿨럭쿨럭!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루리아,だ、大丈夫ですか！？<br>アーミラさん！,"아, 아미라 씨! 괜찮으세요?"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,あ……あんなもん<br>どうやって食ったんだよ！<br>このままじゃ会場ごとやべえぞ！,"저, 저런 걸 어떻게 먹은 거야! 이대로는 회장 전체가 위험해!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,아미라,任せて。私がやる……！,"맡겨줘, 내가 할게!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,카키후라이,────ッ！,...!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,비,<span class='scene-font-4'>ひゃあ！？</span><br>あ、あっぶねぇ……,"<span class='scene-font-4'>으악!</span> 크, 큰일날 뻔했네..."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,루시오,皆さん、私の後ろに。<br>あれに巻き込まれれば<br>挽肉にされかねません。,"여러분, 제 뒤로 숨으세요. 저기 휘말리면 갈린 고기가 될 겁니다."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,카키후라이,<span class='scene-font-4'>ギュィィィィン！</span>,<span class='scene-font-4'>...!</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,っ！？<br>来るでごんすか……！,? 오고 있소이다!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,,<span class='scene-font-katari'>カキフライの敵意を察知して</span><br><span class='scene-font-katari'>身構えるコルルだったが、すかさず</span><br><span class='scene-font-katari'>レッドラックが両者の間に割って入る。</span>,"<span class='scene-font-katari'>코루루는 카키후라이의 적의를 감지하고 자세를 취했지만, 곧바로 레드락이 둘 사이에 끼어들었다.</span>"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,ここは俺に任せな。,여긴 내게 맡겨.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,師匠！<br>わ、わたしも戦い申す……！,"스승님! 나, 나도 싸우겠소이다...!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,코루루,昨日のような失態は、二度と──,어제같은 일은 다시 벌일 수...
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,落ち着け、コルル。<br>お前の実力を疑ってるわけじゃねぇ。,"진정해라, 코루루. 네 실력을 의심하는 게 아냐."
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,お前の舞台はこのあとだろ。<br>無駄にエネルギーを使うこたぁねぇ。,네 무대는 여기가 아니잖아. 쓸데없는 체력을 낭비할 수는 없지.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,今回の俺ぁいいとこなしだからよ……<br>こっちで主役を張らせてもらうぜ！,이번에 나는 멋진 모습 보여줄 기회도 없었으니 여기서 주역을 맡도록 하지!
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,つうわけだから、[플레이어]は<br>他の連中と一緒に<br>観客達の避難誘導を頼むぜ。,그런 의미에서 단장은 다른 녀석들하고 함께 관객들이 피난하게끔 유도해 줘.
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,さあ、カキフライさんよ！<br>食うか食われるかの命懸けだ！,"자, 카키후라이 형씨! 먹느냐 먹히느냐, 목숨 걸고 싸워보자!"
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,레드락,<span class='scene-font-4'>かかってこいッ！</span>,<span class='scene-font-4'>덤벼라!</span>
+Japanese,"scene_evt200628_cp6_q3_s20,7556631",detail,카키후라이,<span class='scene-font-4'>ギュィィィィン！</span>,<span class='scene-font-4'>...!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",synopsis,,レッドラックはカキフライを撃退し、騒動が収束する。その後カキフライを食材とすることで決勝戦が再開する。しかしアーミラがカキフライに振り回された影響で気分が悪くなり、リタイアを余儀なくされる。アーミラは優勝を逃したことを悔しがるが、優勝するならコルルがいいと自らの想いを託す。コルルは多くの仲間達の想いを背負い、怒涛の追い上げを見せるのだった。,"레드락은 카키후라이를 퇴치하고 소동은 수그러든다. 그 이후 카키후라이를 식재료로 하여 결승전이 재개된다. 하지만 아미라는 카키후라이에게 휘둘러졌던 것 때문에 속이 나빠져, 어쩔 수 없이 기권하게된다. 아미라는 우승을 놓친 것을 아쉬워하지만, 코루루가 우승한다면 좋겠다고 자신의 생각을 전해준다. 코루루는 많은 동료들의 마음을 짊어지고, 노도의 추격을 보여주는 것이었다."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,카키후라이,<span class='scene-font-4'>ギュィィィィン！</span>,<span class='scene-font-4'>...!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,おっと、危ねぇ危ねぇ！,"이런, 위험하구만!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,,<span class='scene-font-katari'>貝殻が僅かに肌を掠め、摩擦熱により</span><br><span class='scene-font-katari'>火傷に似た痛みが走りつつも、</span><br><span class='scene-font-katari'>レッドラックは愉快そうに笑う。</span>,"<span class='scene-font-katari'>조개껍질이 아슬아슬하게 피부를 스치자, 그 마찰열으로 화상 비슷한 아픔이 느껴졌지만 레드락은 유쾌하다는 듯이 웃었다.</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,熱いじゃねぇか！<br>お前さんも食われたくねぇから、<br>そりゃあ必死になるよな！,뜨겁구만 뜨거워! 너도 먹히기 싫으니까 필사적일 수밖에 없겠지!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,だが悪ぃな……このあとの勝負にぁ<br>俺の夢もかかってる！<br>滅茶苦茶にされてたまるかよ！,이 뒤에 이어지는 승부에는 내 꿈이 걸려 있다! 네가 망치게 둘 수는 없어!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,大人しく食材になって、<br>俺の可愛い弟子の花道飾ってくれや！,얌전히 재료로 잡혀서 귀여운 제자의 앞길을 장식해 주시지!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,<span class='scene-font-4'>うおおおらああああッ！！</span>,<span class='scene-font-4'>으랴아아아아!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,카키후라이,<span class='scene-font-4'>────！</span>,<span class='scene-font-4'>────！</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,見てくれ通り、タフな野郎だ。<br>だが……,보이는 것처럼 터프한 녀석이야.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,<span class='scene-font-4'>これで、しめぇだあッ！！</span>,<span class='scene-font-4'>하지만... 이걸로 마무리하겠다!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,카키후라이,────……！,────……！
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,<span class='scene-font-4'>へっ！ どんなもんよ！</span>,<span class='scene-font-4'>하! 맛이 어떠냐!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,師匠！ さすがでごんす！,스승님! 역시 대단하시외다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,<span class='scene-font-4'>だっはっは！</span><br>ちぃと危なかったけどな！,<span class='scene-font-4'>으하하!</span> 살짝 위험하긴 했어! 
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,だが、こっちの役目は果たした。,하지만 이걸로 내 역할은 마쳤군.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,今度はコルル……<br>お前が役目を果たす番だ。,이번에 코루루... 네가 역할을 해낼 차례야.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,……っ！<br>もちろんでごんす！,...! 물론이외다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,ししょー！ 平気？,스승! 괜찮아?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,おう！ この通りよ！<br>今度は嘘じゃねぇぜ！,"그래, 보이는 대로다! 이번엔 거짓말 아냐!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,大騒ぎになった……,엄청 큰일이 벌어졌네...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루리아,いいんですよ、アーミラさん！<br>怪我人もいなかったことですし！,"괜찮아요, 아미라 씨! 다친 사람도 없으니까요!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,食材を調達しようとした結果だからな！<br>もう気にすんなって！,식재료를 조달하려고 한 거잖아? 신경쓸 거 없어!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,<span class='scene-font-4'>ああ！</span><br>終わりよければ全てよし、ってな！,<span class='scene-font-4'>그래!</span> 끝이 좋으면 다 잘 된거라고 하잖냐!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,ところで、<br>どうしてカキフライの居場所なんざ<br>知ってたんだ？,그런데 카키후라이가 어디 사는지는 어떻게 알았어?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,あの短時間で偶然見つけたって<br>わけでもねぇだろうし、<br>誰かに教えてもらったのか？,"그 짧은 시간에 우연히 발견했다고 생각하긴 힘든데, 누가 가르쳐준 거야?"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,昨日見つけた。<br>飛ぶの、ちょっと楽しくて。,어제 발견했어. 날아다니는 거 좀 재미있었거든.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,なるほど……<br>昨日の匂いは、普通のカキではなく<br>カキフライのものでしたか。,그랬군요... 어제 그 냄새는 평범한 굴이 아니라 카키후라이였던 겁니까.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,だから楽しいって言ってたのかよ。<br>食いもん食っただけにしちゃあ、<br>やけに眠そうだと思ったぜ。,그래서 즐거웠다는 말을 한 거구나. 그냥 먹기만 한것치고는 이상하게 졸려한다 싶었어.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,しっかし、こんな暴れん坊が<br>毎年ウヨウヨ生息してるってんだから、<br>地元のやつらは大変だな。,"그나저나 이렇게 날뛰는 녀석이 매년 득시글거리는 데서 산다니, 여기 녀석들도 힘들겠네."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,いえ、食されまいと暴れることはあれど<br>あれほど凶暴ではございません。<br>しかし一部、例外があるのです。,"아뇨, 안 먹히려고 날뛰는 일은 있어도 저렇게 흉폭하지는 않습니다. 하지만 일부의 예외가 존재하는 법이죠."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,あれは例外的に発生したもの……<br>とすると、カキフライの<br><span class='scene-font-spword'>“転換個体”</span>……ですか。,"저걸 예외적으로 발생한 것이라고 한다면... 카키후라이의 <span class='scene-font-spword'>""전환개체""</span>……일까요?"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,おそらくは。<br>いやはや、話には聞いておりましたが<br>これほどまでとは。,아마 그럴 겁니다. 허허 참. 이야기로 듣긴 했지만 이 정도일 줄이야.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,なあ、なんなんだ？<br>その転換個体って……,"저기, 그 전환개체라는 게 뭔데?"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,雌雄同体と申しましたかな。<br>カキフライは生育環境により<br>雌雄が入れ替わるとか。,자웅동체라고 하던가요. 카키후라이는 생육환경에 따라 암수가 뒤바뀐다고 하더군요.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,しゆう、どうたい……？,자웅... 동채?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,雄でもあり雌でもある、または<br>雄にも雌にも転換しうるということ、<br>カキフライの場合は後者でございます。,"수컷이면서 동시에 암컷인 것, 또는 수컷이든 암컷이든 전환가능한 개체를 말하죠. 카키후라이는 후자에 속합니다."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,お父さんにもお母さんにもなるとは、<br>実に神秘的な生態ですね。,"아버지도 어머니도 될 수 있다니, 실로 신비로운 생태로군요."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,お父さんが、お母さんに……？？<br>お母さんは、お父さんになる……？？？,"아빠가 엄마가 돼...? 엄마가, 아빠가 돼...?"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,余計ややこしくなってんじゃねぇか。<br>わざとじゃねぇだろうな？,쓸데없이 더 복잡해졌잖아... 일부러 그러는 건 아니지?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,フフ。世界の神秘は即座に<br>理解しがたいこともあります。<br>しかし……,후후. 세계의 신비 중에는 바로 이해하기 힘든 것도 있습니다. 허나...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,空飛ぶサメも見慣れたものでしょう。<br>雌雄の入れ替わる貝も、慣れてしまえば<br>そのようなものと認識できるはずです。,하늘을 나는 상어에는 이미 익숙해지지 않았습니까. 암수가 바뀌는 조개 또한 익숙해지고 나면 그런 게 있다고 인식할 수 있을 겁니다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,そう言われっと……そうなのか？,그렇게 말하니 그런가?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,んで、オスメスがなんだってんだよ？<br>なんのためにそんなことすんだ？,그런데 수컷이랑 암컷이 어쨌다고? 왜 그렇게 되는 건데?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,自身の生存と繁殖のためです。<br>生育環境が悪化し、危険が迫れば<br>種として適応を図ろうとする……,스스로의 생존과 번식을 위해서입니다. 생육환경이 악화되어 위험이 닥치면 생물종으로서 적응하려고 하는 거죠.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,去年はサメの騒動がありましたからね。<br>サメに餌を奪われ自らも狙われたことで<br>雌雄を転換、攻撃性と力を得たのでは？,"올해는 상어 소동이 없었지만 상어에게 먹이를 빼앗기고, 그 스스로도 노려지는 사이에 암수를 바꾸며 공격성과 힘을 얻은 것 아닐까요?"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,私もそう思います。,저도 그렇게 생각합니다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,まぁ詳しいことはサッパリだけど、<br>そういう不思議なやつらもいるんだな。,"뭐, 자세한 내용은 잘 모르겠지만 그런 이상한 녀석들이 있다는 거지."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,それにしても、その知識と洞察力……<br>やはり貴方、只者ではありませんね？,그나저나 그 지식과 통찰력... 역시 당신은 평범한 사람이 아니군요?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,フフ。買い被り過ぎですよ。<br>私は考え事の好きな、<br>ただの変わり者です。,"후후, 지나친 과찬이십니다. 저는 생각하는 걸 좋아할 뿐, 그냥 이상한 사람입니다."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,世の創造主は完全でありながら、<br>なぜ生命に限りを持たせたのか。<br>それは意図的か、偶発的か……,"이 세상의 창조주는 완전한 존재이면서 어째서 생명에 한계를 지운 것일까요. 그것은 의도적인 것인가, 우발적인 것인가..."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,生と死、陰と陽、雌雄もまた、<br>なぜ分かたれて対となったか……<br>神の差配に思いを巡らせるだけです。,"생과 사, 음과 양. 암수 또한 왜 나뉘어져 쌍을 이루게 된 것인가. 신의 일처리에 대해 사고하고 있었을 따름이죠."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,ほほほ、形而上学的言説ですな。<br>しかし貴方は、まるでその空想を<br>疑わぬものと認知しているご様子。,"하하하하, 형이상학적인 말씀이시군요. 하지만 당신은 마치 그러한 물음들을 의심할 여지도 없이 믿고 있는 것처럼 보이십니다."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,本当に不思議な方ですね。<br>一層、興味が湧いて参りました。,정말 독특하신 분이네요. 한층 더 흥미가 솟아올랐습니다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루시오,フフ。<br>いずれ珈琲を頂きながら、また。,후후. 언젠가 커피를 마시며 다시 이야기하시죠.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,それは良いですな。,그거 좋군요.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세바스찬,さて、食材も手に入りましたので<br>私は調理の準備をいたしましょうか。,"자, 식재료를 얻었으니 저는 요리를 준비해야겠습니다."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,おう、早めに頼むわい。<br>勝負はまだ終わってないけんの。,"그래, 빨리 부탁하지. 승부는 아직 끝나지 않았으니까."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,あっ、お前！<br>さっきまでいなかったくせに、<br>どこ行ってたんだよ！,"어, 너! 방금 전까지 없더니 어디 갔던 거야!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,決まっとろうが。<br>観客どもの避難誘導じゃ。,뻔하지. 관객 놈들 피난시키러 갔었다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,避難誘導？ お前が？,피난시키러? 니가?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,ワシらフードファイターは<br>客あっての商売じゃけぇ。<br>ワシを応援しとる奴らもおる。,우리 푸드파이터는 관객 장사야. 날 응원해주는 녀석들도 있고.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,人死にが出よって、<br>大会が中止んなっても困るけん。,인명피해가 나와서 대회 중지되기라도 하면 어떡하겠냐.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,おどれらとは、<br>きっちりフードファイトで<br>勝負つけなアカンからのう！,그리고 네놈들하고도 푸드 파이트로 제대로 승부를 지어야지!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,そういうことかよ。<br>てっきり逃げたのかと思ったけど、<br>ちょっと見直したぜ！,그런 거였어? 보나마나 도망쳤을 거라고 생각했는데 좀 다시 봤어!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,ふん……<br>おどれらがええ人ぶろうと、<br>手ぇは抜かんからのう。,흥... 네놈들이 좋은 인간들이라고 해도 봐주진 않을 거다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,褒め言葉なんぞいらん！<br>ワシが欲しいんは<br>チャンピオンの称号だけじゃ！,칭찬도 필요 없어! 내가 원하는 건 챔피언 칭호뿐이니까!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,<span class='scene-font-4'>ラストファイトじゃッ！！</span><br>今度こそ白黒つけたるわいッ！！,<span class='scene-font-4'>라스트 파이트다!</span> 이번에야말로 흑백을 가려주마!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,<span class='scene-font-4'>負けない！ 絶対に！</span>,"<span class='scene-font-4'>안 질거야, 절대로!</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-4'>受けて立つでごんす！</span>,<span class='scene-font-4'>그 승부 받아들이겠소이다!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,<span class='scene-font-4'>皆様！</span><br>長らくお待たせいたしました！,<span class='scene-font-4'>여러분!</span> 오래 기다리셨습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,料理の準備が整いましたので、<br>これより決勝戦を再開いたします！,요리 준비가 끝났으니 지금부터 결승전을 재개하도록 하겠습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,先ほどはカキフライの暴走という<br>ハプニングがございましたが……,"아까 카키후라이가 폭주하는 해프닝이 발생하긴 했습니다만,"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,それすらも、今大会を<br>より一層盛り上げるための<br>余興に過ぎなかったのかもしれません！,그조차도 이번 대회를 한층 더 끌어올려주기 위한 여흥에 지나지 않았을지도 모릅니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,ついに、今大会の覇者が決まる！<br>その瞬間を見逃すな！,드디어 이번 대회의 승리자가 결정됩니다! 그 순간을 놓치지 마세요!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,さて、本来ならば<br>ここでじっくり料理の紹介を<br>させていただくところですが……,"자, 원래대로라면 여기서 요리 소개를 충분히 드려야 하겠습니다만"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,今回は決勝の途中ということで、<br>手短にさせていただきます。,이번에는 결승 도중이니 짧게 설명하겠습니다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,選手の方々も、本番を今か今かと<br>うずうずしておられますので。,선수 여러분도 언제 시작할지 근질근질해하는 모습이니까요.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,ほう、わかっとるのう。,"오호, 잘 아네."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,<span class='scene-font-4'>メニューはこちら！</span>,<span class='scene-font-4'>메뉴는 이겁니다!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,その名も、カキフライフライバーガー！<br>その名の通りカキフライを油で揚げ、<br>バンズで挟んだ料理でございます！,그 이름하야 카키후라이 후라이 버거! 이름처럼 카키후라이를 기름에 튀겨 빵 사이에 끼운 요리 되겠습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,制限時間は残り僅か！<br>このカキフライフライバーガーを攻略し<br>栄光を手にするのは誰か！,제한시간은 얼마 남지 않았습니다! 이 카키후라이 후라이 버거를 공략하고 영광을 얻을 사람은 누구일까요!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자의 목소리,マッシュ選手がこのまま<br>独走を展開するのか！,마슈 선수가 이대로 독주를 계속할 것인가!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자의 목소리,あるいはコルル選手とアーミラ選手の<br>逆転劇が待っているのか！,아니면 코루루 선수와 아미라 선수의 역전극이 기다리고 있을 것인가!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,それでは、これが正真正銘最後の戦い！<br>ノンストップのラストファイトです！,"자, 이게 정진정명 마지막 승부입니다! 논스톱 라스트 파이트!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,세명,…………！,…………！
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,それでは決勝戦……リスタートです！！,그럼 결승전... 리스타트!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,<span class='scene-font-4'>ぬおらああああッ！！</span>,<span class='scene-font-4'>으아아아아아!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,合図と同時に<br>全力全開のマッシュ選手！,신호와 동시에 전력을 펼치는 마슈 선수!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,力を温存する気は欠片もない！<br>最後まで一気に駆け抜ける模様です！,힘을 보전할 생각은 전혀 없어 보입니다! 마지막까지 단숨에 달려나가려는 모양입니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,はむはむもぐもぐもぐもぐ！<br>もぐもぐもぐはむはむはむ！,우물우물우적우적! 우적우적우적우물우물!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,しかしアーミラ選手が<br>マッシュ選手の独走を許さない！<br>必死で背中を追いかけます！,그러나 아미라 선수가 마슈 선수를 독주하게 두지 않습니다! 필사적으로 뒤를 쫓고 있습니다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,要領はホットドッグと同じ……<br>この楕円形の揚げ物を半分に折り、<br>パンを水につけて……,"요령은 핫도그하고 마찬가지야... 이 타원형 튀김을 반으로 자르고, 빵에는 물을 적셔서..."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,む……！,으...!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,,<span class='scene-font-katari'>コルルがカキフライフライを</span><br><span class='scene-font-katari'>半分に千切った途端、とろりと柔らかい</span><br><span class='scene-font-katari'>カキフライが断面から垂れ落ちる。</span>,"<span class='scene-font-katari'>코루루가 카키후라이 후라이를 반으로 접은 순간, 접힌 단면에서 부드럽고 녹진한 카키후라이가 바닥으로 흘러내렸다.</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-kokoro'>（これでは、かえって</span><br><span class='scene-font-kokoro'>時間がかかってしまい申す……！）</span>,<span class='scene-font-kokoro'>(이러면 오히려 시간이 걸리지 않소이까...!)</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-kokoro'>（仕方ないでごんす……</span><br><span class='scene-font-kokoro'>揚げ物はそのまま、パンだけでも！）</span>,"<span class='scene-font-kokoro'>(어쩔 수 없소이다. 튀김은 그대로, 빵만이라도...!)</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-4'>いただくでごんす！</span>,<span class='scene-font-4'>잘 먹겠소이다!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,コルル選手、ようやく動き出す！<br>少々手間取ってしまったようだが、<br>ここから巻き返せるのか！,"코루루 선수, 드디어 움직입니다! 시간이 좀 들었는데요, 이제부터 뒤집을 수 있을까요?"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-kokoro'>（しかしこのままでは……</span><br><span class='scene-font-kokoro'>追いつくどころか、差を埋めることすら</span><br><span class='scene-font-kokoro'>不可能でごんす……！）</span>,<span class='scene-font-kokoro'>(하지만 이대로는... 따라잡기는커녕 차이를 메우는 것도 불가능하외다...!)</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-kokoro'>（何か……何か手は……！）</span>,"<span class='scene-font-kokoro'>(뭔가, 뭔가 수를...)</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,はむはむもぐもぐもぐもぐ！<br>もぐもぐもぐはむはむはむ！,우물우물우물우적우적! 우적우적우적우물우물!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,<span class='scene-font-4'>おーっと！ アーミラ選手！</span><br>ここに来てさらに<br>スピードを上げてきている！,<span class='scene-font-4'>오호! 아미라 선수!</span> 여기서 한층 더 스피드를 올리고 있습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,今にもマッシュ選手の背中を<br>捕らえようという勢いであります！,금방이라도 마슈 선수를 따라잡을 듯한 기세입니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,<span class='scene-font-4'>クソがッ！</span><br><span class='scene-font-4'>負けられるかいッ！</span>,<span class='scene-font-4'>망할! 어디 질까 보냐!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,マッシュ選手逃げる！ 逃げる！！<br>アーミラ選手迫る！ 迫る！！,마슈 선수 도망칩니다! 도망칩니다! 아미라 선수가 쫓습니다! 쫓습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,この勝負、どちらに軍配が上がる──,"이 승부, 과연 누가 이기게 될지..."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,うぷ……！,으윽...!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,<span class='scene-font-4'>ああーっと！？</span><br>アーミラ選手の手が突然止まりました！,<span class='scene-font-4'>어라?</span> 아미라 선수의 손이 갑자기 멈췄습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,アーミラ選手、口元を押さえている！<br>顔が真っ青です！,"아미라 선수, 입가를 움켜쥐고 있습니다. 얼굴이 새파랗군요!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,お腹、ぐるぐる……,배가 핑핑 돌아..
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,きき……気持ち悪い……,"기, 기분나빠..."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,ア、アーミラ選手！<br>机に突っ伏してしまいました！,"아, 아미라 선수! 책상에 엎드리고 말았습니다!"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,先ほどカキフライに振り回された影響が<br>爆食により誘発されたのでしょう！<br>完全にグロッキー状態であります！,방금 전에 카키후라이를 타고 돌았던 후유증이 폭식으로 인해 유발된 모양입니다! 완전히 그로기 상태에 빠졌습니다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,사회자,<span class='scene-font-4'>なんという不運ッ！</span><br><span class='scene-font-4'>なんという悲劇ッ！！</span>,<span class='scene-font-4'>이 무슨 불운인가!</span> 이 어찌 비극적이란 말인가!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-4'>アーミラ……！</span><br>大丈夫でごんすか！？,<span class='scene-font-4'>아미라……！</span><br>괜찮소이까?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,,<span class='scene-font-katari'>コルルは一瞬大食いのことも忘れ、</span><br><span class='scene-font-katari'>反射的にアーミラに駆け寄る。</span>,<span class='scene-font-katari'>코루루는 반사적으로 많이 먹기 대회중인 것도 잊고 아미라 곁으로 다가갔다.</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,キミ……,너...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,これ以上は身体に毒でごんす。<br>無理は致すな。,이 이상 먹으면 독이 될 것이외다. 무리는 금물이올시다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,私……負ける……？,나... 지는 거야?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,そういうことになり申そう……,그렇게 되겠소이다...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,<span class='scene-font-4'>嫌ッ！</span>,<span class='scene-font-4'>싫어!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,うぷ……！,우웩...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,,<span class='scene-font-katari'>アーミラは駄々をこねながら</span><br><span class='scene-font-katari'>料理を口に運ぼうとするが、</span><br><span class='scene-font-katari'>吐き気が彼女の意欲を阻害する。</span>,"<span class='scene-font-katari'>아미라는 억지를 부리며 요리를 입에 집어넣으려고 했지만, 솟아오르는 구역질이 그녀의 의욕을 가로막았다.</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,お母さん……,엄마...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,アーミラ……,아미라...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,悔しい……,분해...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,その気持ちはわかるでごんす。<br>わたしがアーミラと同じ立場ならば、<br>胸が張り裂けてしまい申そう。,그 기분은 이해하외다. 내가 아미라같은 입장이었다면 가슴이 갈기갈기 찢어졌을 것이외다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,…………,…………
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,キミが勝って……,네가 이겨줘.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,……！,……！
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,ししょー、一緒に特訓した……<br>だから、勝つならキミ……,"스승, 같이 훈련했어. 그러니까 이긴다면 네가 이겨."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,……うん。<br>わたしにとっても、アーミラは<br>ライバルであり友であり申した！,...응. 내게도 아미라는 라이벌이자 동료이올시다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,この大会が終わったら、<br>わたしも可能な限り<br>アーミラの母親探しを協力致そう。,이 대회가 끝나면 나도 가능한 한 아미라의 어머님을 찾는 데에 협력하겠소이다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,本当……？,진짜...?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,もちろんでごんす！<br>だから今は、ゆっくりと休むで申す！,물론이올시다! 그러니 지금은 푹 쉬시길 바라외다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,아미라,うん……,응...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,,<span class='scene-font-katari'>コルルは労るように少しだけ</span><br><span class='scene-font-katari'>アーミラの背中をさすると、</span><br><span class='scene-font-katari'>真剣な表情で自らの席に戻る。</span>,"<span class='scene-font-katari'>코루루는 다독이듯이 그녀의 등을 살짝 쓸더니, 진지한 표정으로 자신의 자리에 돌아갔다.</span>"
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,<span class='scene-font-4'>がはははっ！</span><br>これでワシの勝利は確実じゃのう！,<span class='scene-font-4'>크하하하!</span> 이걸로 내 승리가 확실해졌구만!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,一瞬ヒヤッとしたが、<br>おどれが逆転するんはもう無理じゃ！<br>大人しく諦めて──,"아까는 잠깐 오싹했었는데, 네가 이제 와서 역전하긴 글렀어! 얌전히 포기나 ㅎ..."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,勝負は最後までわからないでごんす。,승부는 마지막까지 모르는 것이외다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,おん？,앙?
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,わたしには、またひとつ<br>負けられない理由が増え申した！,내겐 질 수 없는 이유가 또 하나 늘었소이다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,わたしを友と呼び、応援し、<br>活躍に喜んでくれる者……,"나를 친구라 불러주고, 응원해주고, 활약을 기뻐해 주는 이..."
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,己の悔しさを心の奥底に押し隠し、<br>夢を託した者……,스스로의 분함을 마음 속 깊은 곳에 숨기고 꿈을 맡겨준 이...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,力の限り戦った末に、<br>惜しくも涙を呑んだ者……,있는 힘껏 싸운 끝에 분해서 눈물을 삼킨 이...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,そんな多くの者の想いを背負い、<br>わたしはここにいるでごんす！,그런 많은 이들의 마음을 등에 업고 나는 이 자리에 있는 것이외다!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,故に、わたしは絶対に<br><span class='scene-font-4'>負けるわけにはいき申さん！</span>,그러니 나는 절대로<br> <span class='scene-font-4'>질 수 없소이다!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,口だけはいっちょ前じゃのう……,입은 잘 돌아가는구만...
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,마슈,<span class='scene-font-4'>なら、結果で示さんかいッ！！</span>,<span class='scene-font-4'>그럼 어디 결과로 보여주시지!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,이오,<span class='scene-font-4'>コルルー！ 頑張ってー！</span><br><span class='scene-font-4'>ここが最後なんだから！</span>,<span class='scene-font-4'>코루루! 힘내! 여기가 마지막이야!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,루리아,あと少しです！ コルルちゃん！,조금만 더! 코루루쨩!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,비,皆、応援してるぜー！,다들 응원하고 있어!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",sel1_txt,,<span class='scene-font-katari'>頑張れー！</span>,<span class='scene-font-katari'>힘내!</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,コルル……<br>こんなにたくさんの奴が、<br>お前を応援してるんだぜ。,코루루... 이렇게 많은 녀석들이 널 응원하고 있다.
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,레드락,お前ならぜってぇ勝てる！<br>特大の番狂わせ、かましちまいな！,너라면 분명 이길 수 있어! 말도 안 되는 역전극을 선보여 줘!
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,<span class='scene-font-kokoro'>（皆の声援で、不思議と</span><br><span class='scene-font-kokoro'>力が湧いてくるでごんす……）</span>,<span class='scene-font-kokoro'>(모두가 응원해 주는 목소리에 이상하게 힘이 솟아오르는 것 같소이다...)</span>
+Japanese,"scene_evt200628_cp6_q4_s20,7556641",detail,코루루,最早、限界などあり申さん……<br><span class='scene-font-4'>必ず勝つでごんすッ！！</span>,더 이상 한계따위는 없소이다! 반드시 이길 것이외다!
+
+English,"scene_evt200628_cp6_q1_s10,7556611",synopsis,,"The final round commences, and Kolulu steps into the arena ready to win for herself and for Redluck. She warns Mash that she isn't the same person she was the day before, confident in the training she received. The food for the last round is lumber jelly dogs, a seafood version of the classic hot dog. As an experienced competitive eater who's eaten plenty of hot dogs, Mash believes his victory is secured."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,,Day three finally begins.
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,,"Spectators pack into the stadium, every person eager to catch the final showdown."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Today's the day! Who's ready to witness an epic conclusion to an epic contest!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"And what a contest it's been! There were tears, cheers, and, oh, the atmosphere! Enough to rival the competitions of yesteryear!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,The sweat and tears shed these three days will go down in history!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,But whose name will be the one celebrated in the history books—the one to overcome the final challenge?
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"We're about to find out, folks!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,It's time. Let's bring our contestants in!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"First, the dark horse who stampeded in with an explosive appetite!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Give it up for Amira!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Amira,I'm going to eat the most. Then I'll become famous.
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Vyrn,Amira! Show us what your appetite's made of!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,The force behind her bite definitely makes her a competitor to watch out for!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"But will that force be enough to carry her through the challenge ahead? We'll find out soon enough, folks!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"Next up, we've got a small warrior packed with resilience, persistence, and a will of steel!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Let's give a warm welcome to Kolulu!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,Whew...
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Io,Kolulu! I know you've got this!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Redluck,"No matter how it ends, this is it! Show us the results of your training, Kolulu!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,"(Io, Master... I can hear everyone's support for me clearly.)"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,(For all the people who believe in me... For the sake of Master's dream...)
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,I shall claim the title of champion!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,She knocked our socks off with her amazing comeback yesterday!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"And don't be fooled by her size, folks! She can easily outeat you or me—maybe she'll even outeat her opponents today!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"Last but not least, we've got our candidate voted most likely to stir up a storm and snatch the victory!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"You all know his name! It's the one, the only..."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Mash the Smasher!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,Raaaah! This competition's miiineee!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash Fans,Mash! Mash! Mash!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,And the crowd goes wiiiild! Can you feel the love?
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,His popularity isn't just for show! Will he be the one to claim his place in the competitive eating world?
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,Oho? Brave of you to show up.
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,...
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,,"The two competitors lock gazes, neither surrendering to the other."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,You've got spunk. I'll admit that much. But make no mistake: ya don't stand a chance.
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,"Watch and learn how a pro does it, brat! Gahaha!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,I'm not the same person I was twenty-four hours ago!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,Underestimate me and you'll regret it!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Amira,"The one who doesn't stand a chance is you, old man. I'm going to win."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,"Hah, you too? You brats sure are cocky!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,Fine by me! I'll just have to give you a taste of reality!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,"Hey, announcer guy. Get this thing started, will ya? I'm sure we're all tired of waiting."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"R-right, of course!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"You heard him, folks! Let's get today's dish on the table!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,I hope you're all ready for a great spin on a summer classic...
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Lumber jelly dogs!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,An eating competition just isn't complete without a classic hot dog round to really test a contestant's capabilities!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"As you might have expected, we've replaced the meat sausages in these dogs with lumber jelly ones!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"Along with the texture change, they've been flavored with a special seafood sauce! It's simple, yet classy!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,"Hot dogs, eh? You brats are done for!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,I've eaten more than ten lifetimes' worth of 'em! Ain't nobody know how to down hot dogs better than I do!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,May as well give up now! Gahaha!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,"If you're talking about techniques, then I've learned exactly what to do from Master!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,"Oh, you've learned, have ya? Don't tell me you seriously think a single-day crash course is enough!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,"I won't deny that my training was hasty. But Master showed me the path to victory, and I believe in him!"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Kolulu,You'll see soon enough!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,"Hmph, cheeky brat... You're startin' to piss me off."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Mash,I'm gonna crush ya!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,,"Staff members bring out the food, and the stadium goes deadly silent."
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"Sorry to keep you waiting, folks! Are we ready to get this show on the road?"
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Contestants,...!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Then let's bring this legendary competition to a close!
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,Who among these three will prove their worth and become our new champion?
+English,"scene_evt200628_cp6_q1_s10,7556611",detail,Announcer,"Competitors, on my mark! Ready... Start!"
+English,"scene_evt200628_cp6_q2_s10,7556621",synopsis,,"Amira and Mash eat at nearly identical paces, Kolulu not far behind once she puts into practice the techniques she learned. As Kolulu threatens to pull ahead, Mash suddenly chugs a cup of water and shovels down food at a renewed pace. Kolulu and Amira desperately attempt to catch up, but he continues to increase his lead."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,The erupting cheers from the stands almost drown out the announcer's voice.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"Amidst the chaos, Amira and Mash dive headfirst into the food."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Amira,"Chomp, munch, munch! Chomp, munch, munch, munch, chomp!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Hraaaah!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"Holy smokes, folks! Amira and Mash are already off!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Amira's hands are a blur! She's nonstop shoveling those dogs down! Mash is pummeling his portions into mush and devouring the remains!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,It's a feeding frenzy! But wait! Kolulu hasn't budged! Is she sharpening her senses—focusing her mind?
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,(Phew... Okay! I remember what Master taught me.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,(Drink a minimal amount of water. I absolutely cannot waste precious stomach space.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"(Don't chew too much. The less I chew, the less full I'll feel.)"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"All right, time to eat!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,Kolulu quietly sorts through the knowledge she's obtained and ponders the best technique to use.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,(Lumber jelly formed into long franks... I'll choke if I try to eat them all in one bite.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,In that case...
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"Kolulu pulls a bunch of lumber jelly dogs from their buns, then rips them all in half."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"Now I won't choke on them, and I won't have to chew as much! Just have to cram the little pieces into my mouth..."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"Gulp! Yes, I can do this!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"Confidence surging, Kolulu turns her attention to the remaining buns."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,Rip it in half like with the lumber jelly... But the bread is wider and fluffier...
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"If I try to eat it in one bite, I'll use up quite a bit of time, and my mouth will also dry out. So how..."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,Her eyes slowly drift over to a nearby cup as she thinks.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,That's it! Soaking it in water will decrease its size and remove the dryness!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,Now to test this theory.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,Kolulu dips the bread in and waits until it softens up before bringing it to her mouth.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,Gulp... This will work!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,Just have to adjust how much water to use so I don't fill up too fast. Let's speed up and keep it going!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"Strategy set, she steadily starts to eat jelly dog after jelly dog. The pressure of the watching audience fades away as her focus sharpens."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Kolulu's finally chomping down and making progress!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"But there's already a huge gap between her and Mash, who's in first place! Can she turn this around?"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,(So she really did waste her time learning a thing or two. But it's too late.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,(It's this other annoying brat I gotta watch out for.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Amira,"Munch, munch, munch! Chomp, munch, chomp, chomp, chomp!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,Mash's glare shifts to Amira as she scarfs down the food.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,(She ate so much damn food these past two days... Bet her stomach's stretched out to accommodate even more.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,"Tch, snotty punk!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"The more he thinks of Amira's latent ability to eat, the more his irritation grows."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"As he struggles to keep up with Amira's thoughtless face-stuffing, he completely forgets to pace himself like he usually would."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Damn it! Why's she gotta make things so difficult!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"Oh my goodness! What is happening, folks!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,What now?
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Kolulu is coming back strong! She's closing the gap!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,Just have to keep it going!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,You serious...
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"While Mash was fixated on Amira, Kolulu cleaned plate after plate. She is now neck and neck with the pro eater."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,These <span class='scene-font-italic'>brats!</span>
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Graaaah!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Amira,"Chomp, munch, munch, chomp, chomp!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"Munch, munch, gulp! Munch, munch, munch, gulp!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Are Amira and Mash feeling the pressure? They've suddenly picked up their paces!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,But Kolulu refuses to be left behind! She's gobbling down food like it's her last meal!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"The mad rush can only last for so long. However, the first to slow down is none other than competitive eating pro Mash."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Damn it...
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Wh-what's this? Mash is decelerating!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,His pacing is totally shot! Did the pressure get to him?
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"Folks, I've watched Mash for years, and I've never seen this before!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,(Am I... gonna lose? To a couple of tiny amateurs?)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,(No... There's a way out of this. If I use my last resort... Cast away my pride as a pro...)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,"(But I have to! I have to take home the victory for <span class='scene-font-italic'>them,</span> no matter what!)"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,I... I can't afford to lose!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,"Mash gives a loud yell, then grabs his cup of water and guzzles it."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,...!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,(He should know that drinking large quantities of water is the opposite of what you want to do.)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,"(He's a competitive eater like Master, isn't he? From what I've learned, it should be basic knowledge.)"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,Just what is he doing?
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,"Aight, now the party can really get started!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,,He gives a mighty roar and tears into his lumber jelly dogs once more.
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Graaaah!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"A-are you seeing what I'm seeing, folks? Mash is back and revving it up!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Was he pretending to fall behind? Or is this the spirit of a true competitive eater coming out with a vengeance?
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Who's going to win this? We just don't know anymore!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,This is not good...
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Amira,"I won't lose! Chomp, chomp, munch, munch, munch!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"Kolulu and Amira attempt to put some distance between them and Mash, but..."
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Hraaaaahhhh!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,Whooooaaa! Mash has taken the lead! He's leaving the other two in the dust!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,I don't think anyone can catch up to him now!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash Fan,Mash! Mash! Mash!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"The fans are going absolutely insane! There's a new wind in his sails, and it just won't stop!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"We're past the halfway mark, but I think Mash might just have the victory in his grasp!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Amira,"Chomp, chomp, chomp, I won't... Munch, munch, munch, lose!"
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,(I can't lose if I want to make Master's dream come true!)
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Kolulu,I won't give up!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Mash,Time to bring home the bacon!
+English,"scene_evt200628_cp6_q2_s10,7556621",detail,Announcer,"Mash is confident he'll finish first, but who will be the one laughing in the end?"
+English,"scene_evt200628_cp6_q3_s20,7556631",synopsis,,"Right when it seems that Mash has secured victory, the food stores run out, and the competition is put on hold. As everyone waits for more food to be prepared, Amira comes flying by overhead on top of an unidentified flying object, which turns out to be a dangerous sea creature called the deepflight oyster. When the oyster swoops down to attack the beach, Redluck asks it be left to him."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,The second half of the final round passes quickly as Mash pushes ahead with renewed vigor.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,His victory seems all but assured when the competition is suddenly forced to a halt.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Announcer,Stop! Stooop!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,...?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,Wha?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,Whazzat?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,The announcer's abrupt shout freezes everyone in the arena.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Announcer,"We have an emergency, folks! I can hardly believe it, but... we've run out of lumber jelly dogs!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,Say what!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,B-but the competition...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Announcer,Please excuse me for one moment!<br>Yes? Mhmm...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Announcer,"Folks, I just spoke with one of the administrators of the event!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Announcer,It seems that we're going to have an intermission for the time being as we check our food stores and resupply!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,"Hmph, how lucky for you brats. But yer defeat can only be delayed for so long."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,There's... no more food?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Announcer,"We sincerely apologize for the unexpected delay, but please bear with us as we sort the situation out!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,Kolulu and Amira meet back up with the crew for the duration of the intermission.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,"However, the mood is heavy."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Io,"Kolulu, keep your chin up! The battle's not over yet!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,Io's right. A competition's not over until it's over.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,You're doing well out there. Properly executing what I taught you. I'm proud of you.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,But I'm still going to lose at this rate.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"I get you. It's frustrating, right? Seeing how close you are and feeling like the goal's impossible to reach."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,But keep in mind Mash isn't an ordinary opponent. It's not going to be a walk in the park to face him.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,"I understand that, but..."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,Remember this isn't a battle of speed. It's about eating as much as you can.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,There are plenty of instances where eaters have carefully considered and calculated the amount of time they need to make a sudden comeback near the end.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"The organizers of this event understand that's a strategy people use, which is why they decided to go with an intermission and not end the contest outright."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,They can't give an advantage to the speed eaters. Otherwise this competition would lose all credibility.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"I know that guy ate crazy fast back there, but there's no guarantee he can keep it up forever. You still have a chance to win, so long as you don't give up."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,So stand up tall. Believe in yourself.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,Master...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,"Awww, havin' a little party and you didn't invite me?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,"Mash strolls up, a conceited smirk adorning his features. Redluck scowls in return."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"What are you doing here? Got nothing better to do, huh?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,Figure a <span class='scene-font-italic'>hasher</span> like you should be helping in the kitchen.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,"Say whatever you like. Get it all off your chest. At the end of the day, the ones in the arena are the brats, not you."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,"Right, little girl?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,...!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"Suppose you're not wrong. I am an outsider now, and I'll keep my nose out of your business."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"But let me say one last thing: you underestimate her, and you'll be the one eaten alive."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,Gahaha! I'd like to see her try!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Mash,Rather deal with her than the other brat anyway!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lyria,"Wait, where is Amira?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,You serious? Did she really run off when the competition could start back up any minute?
+English,"scene_evt200628_cp6_q3_s20,7556631",sel1_txt,,Let's go look for her!
+English,"scene_evt200628_cp6_q3_s20,7556631",sel2_txt,,Maybe she wanted to play around a bit.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lyria,"Yes, let's!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,"Show can't go on when it's missing one of its stars, right?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,You think so? She seemed pretty serious about winning last I checked.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,"Not sure she's about to go running off for fun, but... I guess this is Amira we're talking about."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Familiar Voice,Heeey!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,Huh? Did anybody else hear that? Kinda sounded like Amira...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Familiar Voice,I did it!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,Now she sounds even closer... Where the heck is she?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,Oh! Above us!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,Look! It's a shell!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lyria,A-Amira is... flying?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,How is she doing that? Magic?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Sevastien,I do believe that is a deepflight oyster.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lyria,A deepflight oyster?
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Sevastien,"As the name implies, it is an oyster capable of flight. It is also considered an Auguste specialty, much like the bonito."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Sevastien,Its flight capabilities are somehow made possible by the rapid spinning of its two shells.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Sevastien,"We don't understand much about how this phenomenon works, but we do know that the oysters are positively delightful whether they are eaten raw or cooked."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Sevastien,"I've always wanted to have a taste myself, though capturing one to eat appears to be quite a challenging task."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lyria,We have to do something! It's not safe for Amira up there!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,The spectators all around are also panicking.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Male Spectator 2,Run! Run for your lives!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Female Spectator 2,Somebody heeelp! Save us!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,"The oyster nose-dives without warning, agitated by the screams."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,Ah!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,Oof!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,"Unable to stay atop her swiftly moving mount, Amira plummets headfirst into the sand."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,"Bleh! Cough, cough!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lyria,"A-are you okay, Amira?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,I'm startin' to wonder how anyone ever managed to take one of those things down to eat! The whole arena's in trouble!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Amira,Leave it to me. I'll get it!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Vyrn,Yikes! Th-that was close...
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Lucio,"Everyone, please stand behind me. I don't believe anyone wishes to become minced mortal meat today."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,It's coming!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,,"Kolulu senses the oyster's killing intent and prepares to counterattack, but Redluck moves in front of her."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,Leave this to me.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,Master! I-I can fight too!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Kolulu,I won't make another mistake like yesterday—
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,Calm down. I know you can handle yourself.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"But you gotta save up your energy. You've still got eating to do, remember?"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"Besides, I haven't gotten a single moment to shine this whole time! I could use a little redemption!"
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,So go help [플레이어] and the others evacuate people.
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,"All right, you big ugly oyster. Let's see who's going to make a meal out of who today."
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Redluck,Do your worst!
+English,"scene_evt200628_cp6_q3_s20,7556631",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q4_s20,7556641",synopsis,,"Redluck defeats the deepflight oyster, and its remains are used as food for the final round. Once the competition starts back up, however, Amira has to tap out after feeling sick from her trip atop the oyster. Despite the frustration of losing, she encourages Kolulu to win instead. With multiple people's hopes riding on her shoulders, Kolulu pushes ahead more determined than ever."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"Whoa, you're pretty scary!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,,"The oyster's shell brushes his skin, and even that fleeting friction burns. Undaunted, Redluck only grins wider."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"Hot, just like I like it! Bet you don't want to be eaten, right?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"Too bad, though... I've got a dream riding on that competition you're trying to interrupt, so you're going to have to go!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,You'll make a good snack while I'm watching my pupil take her prize!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,Hrrraaahhh!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"That's one tough shell, but..."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,It's not unbreakable!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Deepflight Oyster,...!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,Heh! Easy as pie!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Master! That was amazing!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"Hahaha! Got a little dangerous there, but I handled it!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"That's it for me, though."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,Now it's your turn to shine.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,I won't let you down!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Master! Are you hurt?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,"Just peachy, as you can see! No lies this time!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,I caused a lot of trouble...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lyria,"It's fine, Amira! Nobody got hurt."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,"You were looking for a way to resupply the competition, right? No one can fault you for that."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,All's well that ends well.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,How'd you know where to find a deepflight oyster anyway?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,I doubt you stumbled upon it by chance in such a short period of time. Did someone tell you?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,I found some yesterday. Flying with them was fun.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,So the oyster I smelled yesterday was of the deepflight sort.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,"And that's why you said you had fun, huh? Was wondering how you got so sleepy just from eating."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,"Gotta say though, people here in Auguste must have a rough time every year dealing with these wild shellfish."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"Actually, the oysters aren't normally this aggressive. Perhaps when they are threatened, but in this case I believe there's one specific reason."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,One specific reason... Could you be referring to the deepflight oysters' ability to switch?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"Indeed. I'd heard about such cases before, but I didn't think the reality was so destructive."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,Wha? Ability to switch? The heck are you talking about?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,I believe the trait is called hermaphroditism. The oysters will change sex depending on the ecosystem surrounding them.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Herma... phrodi... tism?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"The term refers to either animals or plants which possess male and female organs, or those that can switch between the two sexes. Deepflight oysters switch."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,"To become a father or a mother, depending on circumstance—a mysterious facet of ecology, that."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Father turns into Mother? Mother turns into Father?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,Why'd you hafta to go and make things so complicated? You doing this on purpose?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,Haha. I'm merely pondering the mysterious mechanisms of this world which cannot be so easily unraveled.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,"However, if the concept of flying sharks isn't too hard to accept, then neither should the concept of oysters which change sex. Don't you think so?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,If you put it that way... I honestly have no idea.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,But why do they switch at all? What's the point?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,"It's for the sake of survival. If their ecosystem is in danger, then they must adapt to ensure their species survives."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,"Last year's shark attacks most likely reduced the population of the oysters' prey, to say nothing of the direct attacks on the oyster population. This may be the source of the sudden aggression."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,I hypothesize the same.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,"Most of this is going over my head, but I'll take your word for it. It's not <span class='scene-font-italic'>not</span> believable, at least."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"I must say, the amount of knowledge and insight you possess... You aren't ordinary by any means, are you?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,Hehe. You think too highly of me. I am merely an odd fellow with boundless curiosity and affection for this world.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,"One who chases after answers... If our creators were perfect, then why make living beings imperfect? Was it by accident or by choice?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,"Life and death, dark and light, male and female... Why bother with these opposing elements? And so on and so forth."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"Hohoho, not many delve into the world of metaphysics. You seem to have a strange trust in where your curiosity will take you."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"An odd fellow indeed. I must admit, my own curiosity has been piqued."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lucio,Perhaps we should have a conversation over coffee sometime.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,It would be my pleasure.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Sevastien,"But that is enough tarrying. Now that we have an ingredient to work with, I should return and prepare more food."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"The faster, the better. Competition's gotta finish at some point."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,"Hey, you weren't here a second ago! Where'd you disappear off to!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"Helpin' with the evacuation, obviously."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,"You, helping? Really?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"Hey, eating pros would be out of a job without an audience. And I look after my fans."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"Plus if anybody got hurt or worse, the whole contest'd be called off."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,And we can't be havin' that. Not until I beat you brats!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,Huh. I totally thought you ran for the hills at the first sign of danger. Guess you're not as bad as I thought!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,Hmph... Can't have you hogging the spotlight anyway.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,And keep your compliments! The only thing I want is that champion title!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,So let's settle this once and for all!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,I won't lose! I definitely won't!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,I accept your challenge!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"All right, folks! Sorry to keep you waiting!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"Food's done cooking, so we're ready to kick things back into gear!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,I know we had a bit of a panic with the deepflight oyster attack...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,But now I'm feeling more pumped than ever!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Especially to see the final round to its conclusion! I refuse to miss a moment of it!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Now for the true last dish of the day...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"I'd like to go into detail, but we're already short on time so let's just get to it!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,I think the competitors are about two seconds away from hopping out of their seats too!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,Got that right.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,So here it is!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"Deepflight oyster burgers! Deepflight oysters turned into deep-fried oysters, sandwiched between two buns!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"With almost no time left on the clock, who will conquer these new textures and flavors for the win?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"Will it be Mash, continuing to pull ahead?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Or will it be an unstoppable comeback from one of the other two?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"Here we go, folks! One last battle!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Competitors,...!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Final round... restart!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,Raaaah!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Mash starts devouring as soon as the signal drops!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,He's not holding anything back! It's all in or bust!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,"Chomp, munch, munch, munch! Munch, munch, chomp, chomp!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,But Amira isn't going to let him rush off alone! She's stuffing those burgers in!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,The concept should be the same as the hot dog... Fold the fried meat in half... Dip the bread into water...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Hng!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,,"As soon as Kolulu folds the oyster patty in half, its insides come spilling out from the crease."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,(Trying to eat like this will take up too much time!)
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,(I suppose I have no other choice. I'll eat the fried part as is!)
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Let's dig in!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"Kolulu finally has her first bite! She took a moment there, but will she make up for lost time?"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"(However, at this rate, I won't be able to stay in the running, let alone overtake them!)"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,(There has to be something else I can do...)
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,"Chomp, munch, munch, munch! Munch, munch, munch, chomp, chomp!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Wowzers! Amira is going at a speed we've never seen before!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,That might be just what she needs to propel herself to first place!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"Damn! I ain't done yet, punk!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Mash tries to pull ahead! But Amira is right behind!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Is this the final showdown—
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Urk...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Unbelievable! Amira suddenly stopped moving!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,She's holding her hand over her mouth! Her face is going blue!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Stomach... rumbly...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Feels bad...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,A-Amira's collapsed and she can't get up!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,Could this be a delayed reaction from spinning around on top of that deepflight oyster?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Announcer,"What a stroke of bad luck! Nay, a tragedy!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Amira! Are you okay?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,,Kolulu completely forgets about the burgers and instinctively rushes to her friend's side.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,You...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Don't eat any more. You'll really hurt yourself if you do.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,So... I'll lose?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"I'm sorry, but I think that's as far as you can go..."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,No!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Urk...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,,"Amira desperately tries for another bite, but nausea overwhelms her senses."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Mother...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Amira...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,This sucks...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"I understand. If I were in your position, I'd feel the same."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,You have to win.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,...!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,We both trained under Master... So I want you to win...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"All right. I shall do you proud, my rival and comrade!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"Once this is all over, I'll do everything in my power to help search for your mother."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Really?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,I swear I shall! So rest easy now.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Amira,Okay...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,,"After giving Amira a pat on the shoulder, Kolulu returns to her seat."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,Gahaha! Victory is mine!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"Almost had me sweating for a sec there, but there ain't no way you can catch up now! Just give up—"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,A battle is not over until it's over.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,Oh?
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Especially not when I have another reason to win!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"For the sake of the friend who believes in me, cheers for me, and laughs with me..."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,For the sake of the one who hid his pain and let me borrow his dream...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,For the sake of the rival who fought till the bitter end and stayed strong...
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,I shall not falter here! Not when they brought me this far!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,"And above all else, I refuse to lose for my own sake!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,"Well, you sure won in the blabbing department. Give ya that."
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Mash,Guess we're gonna have to settle this the hard way!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Io,Kolulu! You've got this! One last effort!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Lyria,"You're so close, Kolulu!"
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Vyrn,We're rootin' for you!
+English,"scene_evt200628_cp6_q4_s20,7556641",sel1_txt,,You can do it!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,Kolulu... We're all here for you.
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Redluck,We know you can win! Now turn it around and eat like you've never eaten before!
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,(Everyone... I can feel your cheers giving me strength somehow.)
+English,"scene_evt200628_cp6_q4_s20,7556641",detail,Kolulu,Time to push my limits... and win!
