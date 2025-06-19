@@ -1,0 +1,39 @@
+Language,SceneCode,Type,Name,Origin,Korean
+Japanese,scene_evt210226_cp0_q1_s10,synopsis,,月の末裔と繋がりを持つ組織の兵が一行にもたらした、アイザックの通信記録。そこには脳を摘出されたカシウスと、アイザックの苦悩が映し出されていた。アイザックによれば、機神を使えば空から月まで辿り着けるという。一行はアイザックのメッセージを頼りに、カシウス達を救出すべく動き出すのだった。,"달의 후예를 알고있는 조직의 병사가 일행에게 가져다준 아이작의 통신기록. 거기에는 뇌가 적출된 카시우스와 아이작의 고뇌가 비춰지고 있었다. 아이작에 의하면, 기신을 사용하면 하늘에서 달까지 올 수 있다고 한다. 일행은 아이작의 메세지에 따라 카시우스들을 구출하기 위해 움직이기 시작하는 것이었다."
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>あー……メーデー、メーデー</span><br><span class='scene-font-gray'>月の末裔のみんな、</span><br><span class='scene-font-gray'>誰か聞こえるかい？</span>,"<span class='scene-font-gray'>아... 메이데이. 메이데이. 달의 후손 여러분, 누구 듣고 있는 사람 없나?</span>"
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>ああ、届いてればいいなあ。</span><br><span class='scene-font-gray'>これを聞いてる君。君に多少でいい、</span><br><span class='scene-font-gray'>親切心がある事を祈るよ。</span>,<span class='scene-font-gray'>하아... 전해진다면 좋겠는데. 이걸 듣고 있는 너. 네게 조금이라도 좋으니까 친절함이 남아 있기를.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>[플레이어]、ゼタ、バザラガ、</span><br><span class='scene-font-gray'>ベアトリクス、ユーステス、イルザ……</span><br><span class='scene-font-gray'>もう、この際グレイスでもいい。</span>,"<span class='scene-font-gray'>[플레이어], 제타, 바자라가, 베아트릭스, 유스테스, 일자... 아니, 아예 그레이스한테라도 상관없어.</span>"
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>こっちでもいろいろあってね。</span><br><span class='scene-font-gray'>これから話す事を、ある人に</span><br><span class='scene-font-gray'>伝えてほしいんだ。</span>,<span class='scene-font-gray'>이 쪽에서도 이런저런 일이 있었지. 지금부터 하는 말을 어떤 사람에게 전해 줬으면 좋겠어.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>ご先祖様の念願かなって</span><br><span class='scene-font-gray'>僕達は月に辿り着いた。</span><br><span class='scene-font-gray'>……けれど。</span>,<span class='scene-font-gray'>선조님의 바람대로 우리는 달에 도착했어. ...하지만.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>カシウスの脳は摘出された。</span><br><span class='scene-font-gray'>彼自身に起きた変化と、</span><br><span class='scene-font-gray'>蒼い髪の少女の情報を得るために。</span>,<span class='scene-font-gray'>카시우스는 뇌를 적출당했어. 그 자신에게 일어난 변화와 푸른 머리의 소녀에 대한 정보를 얻기 위해서.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>カシウスは、空での生活が</span><br><span class='scene-font-gray'>月の民に与える影響を見るための</span><br><span class='scene-font-gray'>サンプルだったんだ。</span>,<span class='scene-font-gray'>카시우스는 하늘에서의 생활이 달의 주민에게 주는 영향을 보기 위한 샘플이었던 거지.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>……あんまりだ。</span><br><span class='scene-font-gray'>耐えられない。</span><br><span class='scene-font-gray'>誰か、助けてくれ……</span>,<span class='scene-font-gray'>...너무해. 버티기가 힘들어. 누가 좀 도와줘...</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,루리아・비,…………,…………
+Japanese,scene_evt210226_cp0_q1_s10,detail,제타・바자라가,…………,…………
+Japanese,scene_evt210226_cp0_q1_s10,detail,<span class='scene-font-1'>이루자・베아트릭스</span>,…………,…………
+Japanese,scene_evt210226_cp0_q1_s10,detail,,<span class='scene-font-katari'>皆は言葉を失った。</span><br><span class='scene-font-katari'>鉄の箱に嵌められた小さなガラス窓に</span><br><span class='scene-font-katari'>映し出されたもの──</span>,<span class='scene-font-katari'>그 자리에 있던 모두가 말을 잃고 말았다. 금속 상자에 들어 있던 자그마한 유리판에 투영된 것은...</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,,<span class='scene-font-katari'>[플레이어]達をかばい、</span><br><span class='scene-font-katari'>重傷を負ったカシウス。治療のために</span><br><span class='scene-font-katari'>月へと戻ったはずの、彼の顛末を見て。</span>,<span class='scene-font-katari'>[플레이어] 일행을 감싸고 중상을 입었던 카시우스였다. 그것은 치료를 위해 달로 돌아갔던 그에게 무슨 일이 일어났는지를 알려주고 있었다.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,유스테스,……これは？,...이건 뭐지?
+Japanese,scene_evt210226_cp0_q1_s10,detail,조직의 병사,えー……自分の知り合いが、月の末裔と<br>繋がりがある事がわかって。<br>定期的に通信もらってたみたいで。,"어... 제 지인이 달의 후손이랑 연결고리가 있는 걸 알게 된 후, 정기적으로 통신을 받았던 것 같더라고요."
+Japanese,scene_evt210226_cp0_q1_s10,detail,조직의 병사,で、最近来たっていう通信記録の中に<br>これがあったんです。,그리고 최근에 온 통신기록 중에 이게 있었습니다.
+Japanese,scene_evt210226_cp0_q1_s10,detail,베아트릭스,な……なんでカシウスの奴が<br>こんな目に遭わなきゃいけないんだよ！<br>どういう事だこれ！,"어, 어째서 카시우스 녀석이 이런 짓을 당해야 하는 거야! 이게 대체 뭐냐고!"
+Japanese,scene_evt210226_cp0_q1_s10,detail,조직의 병사,ちょ、苦し……！<br>自分に聞かれても！,"저기요, 윽.... 저한테 물어보셔도...!"
+Japanese,scene_evt210226_cp0_q1_s10,detail,유스테스,お前の知り合いから<br>何か聞いていないのか？,네 지인한테 뭔가 들은 건 없나?
+Japanese,scene_evt210226_cp0_q1_s10,detail,조직의 병사,月の末裔って言っても、<br>端末持ってるだけみたいで。どうして<br>通信が来るのかも知らないみたいです。,달의 후손이라고 해도 그냥 단말기 가지고 있는 정도거든요. 어떻게 통신이 오는지도 모르는 것 같던데요. 
+Japanese,scene_evt210226_cp0_q1_s10,detail,제타,……ほんとに？<br>あたし達が直接会って<br>話を聞いてみた方がいいんじゃない？,...정말로? 우리가 직접 만나서 이야기해 보는 게 낫지 않을까?
+Japanese,scene_evt210226_cp0_q1_s10,detail,조직의 병사,それはやめてほしいって言われました。<br>月関係って周りに知られたくないって。<br>そのかわりに情報をくれるんだとも。,그러지 말라고 했어요. 달이랑 관련됐다는 걸 주변에 알리고 싶지 않다고요. 대신에 정보를 주는 거라고도 했고요.
+Japanese,scene_evt210226_cp0_q1_s10,detail,,<span class='scene-font-katari'>若い組織の兵は、</span><br><span class='scene-font-katari'>カバンから大きな巻紙を取り出して</span><br><span class='scene-font-katari'>そう告げる。</span>,<span class='scene-font-katari'>젊은 조직 병사는 가방에서 커다란 두루마리 같은 것을 꺼내며 말했다.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,바자라가,……それには何が？,...거기엔 뭐가 들어 있지?
+Japanese,scene_evt210226_cp0_q1_s10,detail,조직의 병사,さっきの続きみたいです。<br>流しますね。,아까 그 내용이랑 이어지는 것 같아요. 지금 틀게요.
+Japanese,scene_evt210226_cp0_q1_s10,detail,,<span class='scene-font-katari'>鉄の箱に巻紙の端を差し込むと、</span><br><span class='scene-font-katari'>巻紙は箱に吸い込まれていく。</span><br><span class='scene-font-katari'>そして──</span>,<span class='scene-font-katari'>금속 상자 끝부분에 두루마리를 대자 안으로 빨려들어갔다. 그리고...</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,베아트릭스,…………！！,…………！！
+Japanese,scene_evt210226_cp0_q1_s10,detail,,<span class='scene-font-katari'>ガラス窓に映し出されたものを見て</span><br><span class='scene-font-katari'>ベアトリクスは血相を変える。</span>,<span class='scene-font-katari'>유리판에 출력된 화면을 본 베아트릭스의 얼굴 표정이 변했다.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,베아트릭스,な……なぁ！<br>カシウス……！ あいつ……！,"이, 이거 봐...! 카, 카시우스...! 그 녀석...!"
+Japanese,scene_evt210226_cp0_q1_s10,detail,제타,うん。<br>……ちょっとこれは、<br>黙ってらんないわ。,응. ...이건 정말 가만히 있을 수가 없네.
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>……見えるかい？</span><br><span class='scene-font-gray'>カシウスと僕の思い出だよ。</span><br><span class='scene-font-gray'>僕の記憶から映像化したんだ。</span>,<span class='scene-font-katari'>...보여? 카시우스와 나의 추억이야. 내 기억 속에 있는 걸 영상화한 거지.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>彼がどんな気持ちだったのか、</span><br><span class='scene-font-gray'>僕にははかりきれないけれど……</span><br><span class='scene-font-gray'>どうにかしてあげたくて。</span>,<span class='scene-font-katari'>그가 어떤 마음이었을지 내가 가늠할 수는 없지만... 어떻게든 해 주고 싶어. </span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>……ひとつ、方法を思いついた。</span><br><span class='scene-font-gray'>空から月にアクセスする方法だ。</span>,<span class='scene-font-katari'>...방법을 하나 생각해냈어. 하늘에서 달로 날아올 수 있는 방법. </span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>空に何機かあるはずの、</span><br><span class='scene-font-gray'>機神を使うんだ。計算上、セスラカなら</span><br><span class='scene-font-gray'>推進力が足りる事がわかった。</span>,<span class='scene-font-gray'>하늘에 몇 대 있을 기신을 쓰는 거야. 계산해 보니 세스라카를 쓰면 추진력이 충분할 거라고 나왔어.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>セスラカの推進制御を最適化して、</span><br><span class='scene-font-gray'>他に２機の機神がいれば、</span><br><span class='scene-font-gray'>安全係数込みで月には十分届くはずだ。</span>,"<span class='scene-font-gray'>세스라카의 추진 제어 알고리즘을 최적화시킨 후, 다른 두 대의 기신이 있으면 안전계수까지 감안해도 달에 충분히 도달할 수 있을 거야.</span>"
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>推進制御の最適化は、僕が組んで</span><br><span class='scene-font-gray'>そのうち送るよ。だから──</span>,<span class='scene-font-gray'>추진 제어 최적화 알고리즘은 내가 곧 짜서 보낼게.</span>
+Japanese,scene_evt210226_cp0_q1_s10,detail,아이작,<span class='scene-font-gray'>どうか助けてあげてほしい。</span><br><span class='scene-font-gray'>カシウスの事を……</span>,<span class='scene-font-gray'>그러니까... 어떻게든 카시우스를 구해 줬으면 좋겠어...</span>
